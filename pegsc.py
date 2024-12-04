@@ -23,7 +23,7 @@ urls = [
     "https://www.bevy.be/bevyfiles/indonesiapremium1.xml",
     "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     "https://www.bevy.be/bevyfiles/singapore3.xml",
-    "https://www.bevy.be/download.php?file=germanypremium3.xml",
+    "https://www.bevy.be/bevyfiles/germanypremium3.xml",
     "https://www.bevy.be/bevyfiles/unitedstates1.xml",
     "https://www.bevy.be/bevyfiles/italy1.xml",
     "https://www.bevy.be/bevyfiles/italy2.xml",
