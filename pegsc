@@ -1,0 +1,34 @@
+import requests
+
+def download_epg(urls):
+    for url in urls:
+        # Mendapatkan nama file dari URL
+        file_name = url.split('/')[-1]
+        
+        # Mengirim permintaan GET ke URL
+        response = requests.get(url)
+        
+        # Memeriksa apakah permintaan berhasil
+        if response.status_code == 200:
+            # Menyimpan konten ke file
+            with open(file_name, 'wb') as file:
+                file.write(response.content)
+            print(f"File {file_name} berhasil didownload.")
+        else:
+            print(f"Gagal mendownload file {file_name}. Status code: {response.status_code}")
+
+# Daftar URL EPG
+urls = [
+    "https://www.bevy.be/bevyfiles/indonesia.xml",
+    "https://www.bevy.be/bevyfiles/indonesiapremium1.xml",
+    "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
+    "https://www.bevy.be/bevyfiles/singapore3.xml",
+    "https://www.bevy.be/download.php?file=germanypremium3.xml",
+    "https://www.bevy.be/bevyfiles/unitedstates1.xml",
+    "https://www.bevy.be/bevyfiles/italy1.xml",
+    "https://www.bevy.be/bevyfiles/italy2.xml",
+    "https://www.bevy.be/bevyfiles/portugal2.xml",
+]
+
+# Memanggil fungsi untuk mendownload semua EPG
+download_epg(urls)
