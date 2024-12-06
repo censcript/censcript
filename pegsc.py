@@ -19,7 +19,7 @@ def download_epg(urls):
 
 # Daftar URL EPG
 urls = [
-    "https://www.bevy.be/bevyfiles/indonesia.xml",
+    "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml",
     "https://www.bevy.be/bevyfiles/indonesiapremium1.xml",
     "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     "https://www.bevy.be/bevyfiles/singapore3.xml",
