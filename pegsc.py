@@ -29,5 +29,5 @@ urls = [
     "https://www.bevy.be/bevyfiles/portugal2.xml",
 ]
 
-# Memanggil fungsi untuk mendownload semua EPGss
+# Memanggil fungsi untuk mendownload semua EPGsss
 download_epg(urls)
