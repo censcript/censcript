@@ -1,0 +1,36 @@
+{
+    "status": true,
+    "statusCode": "200",
+    "result": [
+        {
+            "channel_id": "4028c68574537fcd0174be43042758d8",
+            "channel_name": "Trans TV",
+            "schedule_date": "2024-12-10 14:00:00",
+            "schedule_start_time": "14:00:00",
+            "schedule_end_time": "15:00:00",
+            "scehedule_title": "Rumpi - No Secret",
+            "schedule_json": {
+                "scheduleId": "4028c685931745a4019399a946636113",
+                "scheduleTime": "07:00:00",
+                "duration": 3600,
+                "url": "",
+                "imageUrl": "https:\/\/cdnjkt2.transvision.co.id:1001\/catchup\/schedule\/thumbnail\/4028c68574537fcd0174be43042758d8\/4028c685931745a4019399a946636113\/458x640",
+                "imageUrlWide": "https:\/\/cdnjkt2.transvision.co.id:1001\/catchup\/schedule\/thumbnail\/4028c68574537fcd0174be43042758d8\/4028c685931745a4019399a946636113\/320x180",
+                "ottImageUrl": "",
+                "channelId": "4028c68574537fcd0174be43042758d8",
+                "channelName": "Trans TV",
+                "availability": 0,
+                "episodeName": "",
+                "editable": true,
+                "name": "Rumpi - No Secret",
+                "startDt": "20241210070000",
+                "primarySynopsis": "Ingin tahu rahasia yang paling personal dari artis idola kamu? Tonton terus Rumpi No Secret, sebuah talk show santai yang memancing para bintang tamunya untuk bicara blak-blakan tentang kehidupan pribadi mereka.",
+                "secondarySynopsis": "Want to know the deepest and most personal secrets of your idol celebrities? Don't miss Rumpi 'No Secret', a casual talk show that leads guest stars to talk bluntly about their personal lives."
+            }
+        }
+    ],
+    "option": "",
+    "message": [
+        "success"
+    ]
+}
