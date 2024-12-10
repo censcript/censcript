@@ -138,8 +138,8 @@
     <programme start="20241210140000 +0000" stop="20241210160000 +0000" channel="TransTV.cubmu">
         <title>Bioskop TransTV - The Legend of Tarzan</title>
     </programme>
-    <programme start="20241210160000 +0000" stop="20241209180000 +0000" channel="TransTV.cubmu">
-        <title>Bioskop TransTV - Elektra</title>
+    <programme start="20241210160000 +0000" stop="20241209171000 +0000" channel="TransTV.cubmu">
+        <title>Bioskop Indonesia Premiere Malam - Tafsir Mimpi Gigi Patah</title>
     </programme>
     <programme start="20241209171500 +0000" stop="20241209174500 +0000" channel="Trans7.cubmu">
         <title>Redaksi Malam</title>
@@ -219,8 +219,8 @@
     <programme start="20241210154500 +0000" stop="20241210163000 +0000" channel="Trans7.cubmu">
         <title>The Police</title>
     </programme>
-    <programme start="20241210163000 +0000" stop="20241209171500 +0000" channel="Trans7.cubmu">
-        <title>Newstainment</title>
+    <programme start="20241210163000 +0000" stop="20241209170000 +0000" channel="Trans7.cubmu">
+        <title>Redaksi Malam</title>
     </programme>
     <programme start="20241209171500 +0000" stop="20241209174500 +0000" channel="CNNIndonesia.cubmu">
         <title>Redaksi Malam</title>
@@ -288,8 +288,8 @@
     <programme start="20241210150000 +0000" stop="20241210161500 +0000" channel="CNNIndonesia.cubmu">
         <title>Prime News</title>
     </programme>
-    <programme start="20241210161500 +0000" stop="20241209171500 +0000" channel="CNNIndonesia.cubmu">
-        <title>Pilihan Indonesia</title>
+    <programme start="20241210161500 +0000" stop="20241210164500 +0000" channel="CNNIndonesia.cubmu">
+        <title>Redaksi Malam</title>
     </programme>
     <programme start="20241209170000 +0000" stop="20241209183000 +0000" channel="CNBCIndonesia.cubmu">
         <title>Power Lunch</title>
@@ -519,8 +519,8 @@
     <programme start="20241210141500 +0000" stop="20241210164500 +0000" channel="RCTI.cubmu">
         <title>Indonesian Idol 2024</title>
     </programme>
-    <programme start="20241210164500 +0000" stop="20241209184500 +0000" channel="RCTI.cubmu">
-        <title>Cinta Dari Surga</title>
+    <programme start="20241210164500 +0000" stop="20241209170000 +0000" channel="RCTI.cubmu">
+        <title>Orang Miskin Baru</title>
     </programme>
     <programme start="20241209170000 +0000" stop="20241209173000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
@@ -1074,8 +1074,8 @@
     <programme start="20241210155700 +0000" stop="20241210164400 +0000" channel="Knowledge.cubmu">
         <title>Everyday Elements</title>
     </programme>
-    <programme start="20241210164400 +0000" stop="20241209173300 +0000" channel="Knowledge.cubmu">
-        <title>Festivals of the World</title>
+    <programme start="20241210164400 +0000" stop="20241209173200 +0000" channel="Knowledge.cubmu">
+        <title>Food Stories</title>
     </programme>
     <programme start="20241209175400 +0000" stop="20241209194400 +0000" channel="FightTVPremium.cubmu">
         <title>Bangkok Fight Night</title>
@@ -1131,8 +1131,8 @@
     <programme start="20241210154500 +0000" stop="20241210160800 +0000" channel="FightTVPremium.cubmu">
         <title>Midwest Championship Fighting</title>
     </programme>
-    <programme start="20241210160800 +0000" stop="20241209170800 +0000" channel="FightTVPremium.cubmu">
-        <title>Kansas City Fighting Alliance</title>
+    <programme start="20241210160800 +0000" stop="20241209170000 +0000" channel="FightTVPremium.cubmu">
+        <title>Dynasty Combat Sports</title>
     </programme>
     <programme start="20241209170200 +0000" stop="20241209175000 +0000" channel="SpeedTV.cubmu">
         <title>Formula Drift - Sonoma, California</title>
@@ -1446,8 +1446,8 @@
     <programme start="20241210140000 +0000" stop="20241210160000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia : The Master</title>
     </programme>
-    <programme start="20241210160000 +0000" stop="20241209180000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia : Wolf Warrior</title>
+    <programme start="20241210160000 +0000" stop="20241209173000 +0000" channel="Indosiar.cubmu">
+        <title>Mega Series Action Asia : Tiger Kung Fu Of Wulin</title>
     </programme>
     <programme start="20241209174500 +0000" stop="20241209184500 +0000" channel="SCTV.cubmu">
         <title>FTV Utama</title>
@@ -1503,8 +1503,8 @@
     <programme start="20241210143000 +0000" stop="20241210160000 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241210160000 +0000" stop="20241209174500 +0000" channel="SCTV.cubmu">
-        <title>FTV Primetime</title>
+    <programme start="20241210160000 +0000" stop="20241209181500 +0000" channel="SCTV.cubmu">
+        <title>Girona Vs Liverpool - UEFA Champions League</title>
     </programme>
     <programme start="20241209170000 +0000" stop="20241209170500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1722,8 +1722,8 @@
     <programme start="20241210134000 +0000" stop="20241210154000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20241210154000 +0000" stop="20241209173000 +0000" channel="GTV.cubmu">
-        <title>Big Movies Platinum</title>
+    <programme start="20241210154000 +0000" stop="20241210164000 +0000" channel="GTV.cubmu">
+        <title>Buletin iNews Malam</title>
     </programme>
     <programme start="20241209173000 +0000" stop="20241209183000 +0000" channel="ANTV.cubmu">
         <title>Jodoh Wasiat Bapak Babak 2</title>
@@ -1767,8 +1767,8 @@
     <programme start="20241210133000 +0000" stop="20241210153000 +0000" channel="ANTV.cubmu">
         <title>Sinema Laga Klasik: Tutur Tinular III: Pendekar Berdarah</title>
     </programme>
-    <programme start="20241210153000 +0000" stop="20241209173000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Laga Klasik: Jurus Dewa Naga</title>
+    <programme start="20241210153000 +0000" stop="20241209170000 +0000" channel="ANTV.cubmu">
+        <title>Jodoh Wasiat Bapak Babak 2</title>
     </programme>
     <programme start="20241209170000 +0000" stop="20241209230000 +0000" channel="Jaktv.cubmu">
         <title>Sign Off</title>
@@ -1929,8 +1929,8 @@
     <programme start="20241210160000 +0000" stop="20241210163000 +0000" channel="BTV.cubmu">
         <title>Mitos</title>
     </programme>
-    <programme start="20241210163000 +0000" stop="20241209173000 +0000" channel="BTV.cubmu">
-        <title>One Vault 2022</title>
+    <programme start="20241210163000 +0000" stop="20241209170000 +0000" channel="BTV.cubmu">
+        <title>Film Pendek Indonesia</title>
     </programme>
     <programme start="20241209170000 +0000" stop="20241209173000 +0000" channel="KompasTV.cubmu">
         <title>Kompas Sport Malam</title>
