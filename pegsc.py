@@ -20,6 +20,7 @@ def download_epg(urls):
 # Daftar URL EPG
 urls = [
     "https://astvstreamingpro.my.id/epg/cubmu.php",
+    "https://astvstreamingpro.my.id/epg/firstmedia.php",
     "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     "https://www.bevy.be/bevyfiles/singapore3.xml",
     "https://www.bevy.be/bevyfiles/germanypremium3.xml",
