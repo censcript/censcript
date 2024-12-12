@@ -3,7 +3,7 @@ name: Download EPG
 on:
   push:  # Menjalankan script setiap kali ada push ke repository
   schedule:
-    - cron: '0 0 * * *'  # Menjalankan setiap 24 jam (pukul 00:00 UTC)
+    - cron: '0 17 * * *'  # Menjalankan setiap hari pukul 00:00 WIB (17:00 UTC)
 
 jobs:
   download_epg:
