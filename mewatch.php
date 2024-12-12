@@ -90,16 +90,16 @@
     <programme start="20241212160000 +0000" stop="20241213123000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 13th December, Friday 8.30pm. ONE Friday Fights 91</title>
     </programme>
-    <programme start="20241211160000 +0000" stop="20241212102000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th December, Thursday 6.20pm. ASEAN Mitsubishi Electric Cup™ 2024: Philippines vs Myanmar</title>
+    <programme start="20241211160000 +0000" stop="20241212100600 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th December, Thursday 6.06pm. ASEAN Mitsubishi Electric Cup™ 2024: Philippines vs Myanmar</title>
     </programme>
-    <programme start="20241212102000 +0000" stop="20241212123000 +0000" channel="Live 5.mewatch">
+    <programme start="20241212100600 +0000" stop="20241212123000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Philippines vs Myanmar</title>
     </programme>
-    <programme start="20241212123000 +0000" stop="20241212125000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Laos</title>
+    <programme start="20241212123000 +0000" stop="20241212123600 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th December, Thursday 8.36pm. ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Laos</title>
     </programme>
-    <programme start="20241212125000 +0000" stop="20241212150000 +0000" channel="Live 5.mewatch">
+    <programme start="20241212123600 +0000" stop="20241212150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Laos</title>
     </programme>
     <programme start="20241212150000 +0000" stop="20241212160000 +0000" channel="Live 5.mewatch">
