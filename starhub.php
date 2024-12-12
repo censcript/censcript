@@ -6807,17 +6807,26 @@
     <programme start="20241211230000 +0000" stop="20241211231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 54</title>
     </programme>
-    <programme start="20241211231500 +0000" stop="20241212005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241211231500 +0000" stop="20241211235500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20241212005400 +0000" stop="20241212005500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241211235500 +0000" stop="20241212000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20241212000000 +0000" stop="20241212002700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Where We Call Home (B) (R)</title>
+    </programme>
+    <programme start="20241212002700 +0000" stop="20241212003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241212003000 +0000" stop="20241212005900 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan (B) (R)</title>
+    </programme>
+    <programme start="20241212005900 +0000" stop="20241212010000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20241212005500 +0000" stop="20241212010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
     <programme start="20241212010000 +0000" stop="20241212010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20241212010500 +0000" stop="20241212013500 +0000" channel="NHK World Premium HD.starhub">
         <title>HIMU-BUS! Part 15 (R)</title>
@@ -6890,15 +6899,6 @@
     </programme>
     <programme start="20241212081000 +0000" stop="20241212082000 +0000" channel="NHK World Premium HD.starhub">
         <title>City-Scope</title>
-    </programme>
-    <programme start="20241212082000 +0000" stop="20241212083500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Peek-a-boo</title>
-    </programme>
-    <programme start="20241212083500 +0000" stop="20241212085900 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother</title>
-    </programme>
-    <programme start="20241212085900 +0000" stop="20241212090000 +0000" channel="NHK World Premium HD.starhub">
-        <title>1-Minute Anime: Songs for SDGs</title>
     </programme>
     <programme start="20241210235500 +0000" stop="20241211015500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S15)</title>
@@ -11281,7 +11281,7 @@
         <title>Yas Island, Abu Dhabi</title>
     </programme>
     <programme start="20241213135500 +0000" stop="20241213153000 +0000" channel="beIN Sports HD.starhub">
-        <title>Women&#039;s EHF Euro 2024 (Live)</title>
+        <title>Women&#039;s EHF Euro 2024: Sweden vs Netherlands (Live)</title>
     </programme>
     <programme start="20241213153000 +0000" stop="20241213160000 +0000" channel="beIN Sports HD.starhub">
         <title>F1 ACADEMY RACING SERIES, ROUND 7 ABU DHABI, 2024</title>
@@ -11290,7 +11290,7 @@
         <title>FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024</title>
     </programme>
     <programme start="20241213164000 +0000" stop="20241213181500 +0000" channel="beIN Sports HD.starhub">
-        <title>Women&#039;s EHF Euro 2024 (Live)</title>
+        <title>Women&#039;s EHF Euro 2024: Hungary vs Norway (Live)</title>
     </programme>
     <programme start="20241213181500 +0000" stop="20241213183000 +0000" channel="beIN Sports HD.starhub">
         <title>Yas Island, Abu Dhabi</title>
@@ -11323,7 +11323,7 @@
         <title>LaLiga 2 2024/25: Almeria vs Mirandes</title>
     </programme>
     <programme start="20241214030000 +0000" stop="20241214043000 +0000" channel="beIN Sports HD.starhub">
-        <title>Women&#039;s EHF Euro 2024</title>
+        <title>Women&#039;s EHF Euro 2024: France vs Denmark</title>
     </programme>
     <programme start="20241214043000 +0000" stop="20241214044500 +0000" channel="beIN Sports HD.starhub">
         <title>Yas Island, Abu Dhabi</title>
@@ -13074,11 +13074,14 @@
     <programme start="20241214143000 +0000" stop="20241214160000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 1000 2024: Paris Day 2 Alcaraz v Jarry</title>
     </programme>
-    <programme start="20241214160000 +0000" stop="20241214173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Antwerp Day 4 Baez v Bergs</title>
+    <programme start="20241214160000 +0000" stop="20241214163000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Up and Coming Stars 2</title>
     </programme>
-    <programme start="20241214173000 +0000" stop="20241214190000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Antwerp QF 1 Auger-Aliassime v Bautista Agut</title>
+    <programme start="20241214163000 +0000" stop="20241214165000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): The Time Travel Challenge</title>
+    </programme>
+    <programme start="20241214165000 +0000" stop="20241214190000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>FIFA Intercontinental Cup 2024: CF Pachuca vs Al Ahly SC - SF</title>
     </programme>
     <programme start="20241214190000 +0000" stop="20241214203000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Antwerp QF 2 De Minaur v Gaston</title>
@@ -13196,9 +13199,6 @@
     </programme>
     <programme start="20241217011000 +0000" stop="20241217024000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 1000 2024: Shanghai Doubles Final Gonzalez/Molteni v Koolhof/Mektic</title>
-    </programme>
-    <programme start="20241217024000 +0000" stop="20241217040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2024: Cincinnati Doubles Final Arevalo/Pavic v Mcdonald/Michelsen</title>
     </programme>
     <programme start="20241211000000 +0000" stop="20241211010000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
@@ -13960,7 +13960,7 @@
         <title>Adbhut</title>
     </programme>
     <programme start="20241215140400 +0000" stop="20241215170300 +0000" channel="SONY MAX.starhub">
-        <title>Aankhen</title>
+        <title>Aankhen -1993</title>
     </programme>
     <programme start="20241215170300 +0000" stop="20241215185500 +0000" channel="SONY MAX.starhub">
         <title>Eklavya</title>
@@ -13980,125 +13980,125 @@
     <programme start="20241215212200 +0000" stop="20241216000000 +0000" channel="SONY MAX.starhub">
         <title>Virasat</title>
     </programme>
-    <programme start="20241216000000 +0000" stop="20241216030000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216000000 +0000" stop="20241216001700 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: Bhool Bhulaiyaa 2</title>
+    </programme>
+    <programme start="20241216001700 +0000" stop="20241216003800 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: 12th Fail</title>
+    </programme>
+    <programme start="20241216003800 +0000" stop="20241216005900 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez Sardar Udham</title>
+    </programme>
+    <programme start="20241216005900 +0000" stop="20241216025800 +0000" channel="SONY MAX.starhub">
+        <title>Time To Dance</title>
+    </programme>
+    <programme start="20241216025800 +0000" stop="20241216050500 +0000" channel="SONY MAX.starhub">
         <title>Setters</title>
     </programme>
-    <programme start="20241216030000 +0000" stop="20241216060000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216050500 +0000" stop="20241216072000 +0000" channel="SONY MAX.starhub">
         <title>Soorma</title>
     </programme>
-    <programme start="20241216060000 +0000" stop="20241216090000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216072000 +0000" stop="20241216095300 +0000" channel="SONY MAX.starhub">
         <title>Aashiqui (1990)</title>
     </programme>
-    <programme start="20241216090000 +0000" stop="20241216120000 +0000" channel="SONY MAX.starhub">
-        <title>The Lady Killer</title>
-    </programme>
-    <programme start="20241216120000 +0000" stop="20241216160000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216095300 +0000" stop="20241216120000 +0000" channel="SONY MAX.starhub">
         <title>Bell Bottom</title>
     </programme>
-    <programme start="20241216160000 +0000" stop="20241216190000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216120000 +0000" stop="20241216141100 +0000" channel="SONY MAX.starhub">
+        <title>Savi</title>
+    </programme>
+    <programme start="20241216141100 +0000" stop="20241216162900 +0000" channel="SONY MAX.starhub">
         <title>Sherni</title>
     </programme>
-    <programme start="20241216190000 +0000" stop="20241216213000 +0000" channel="SONY MAX.starhub">
-        <title>Heyy Babyy</title>
-    </programme>
-    <programme start="20241216213000 +0000" stop="20241217000000 +0000" channel="SONY MAX.starhub">
-        <title>Shakuntala Devi: A Human Computer</title>
-    </programme>
-    <programme start="20241217000000 +0000" stop="20241217030000 +0000" channel="SONY MAX.starhub">
-        <title>3 Idiots</title>
-    </programme>
-    <programme start="20241217030000 +0000" stop="20241217060000 +0000" channel="SONY MAX.starhub">
-        <title>Marjaavaan</title>
-    </programme>
-    <programme start="20241217060000 +0000" stop="20241217090000 +0000" channel="SONY MAX.starhub">
-        <title>Aag</title>
-    </programme>
-    <programme start="20241217090000 +0000" stop="20241217120000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241216162900 +0000" stop="20241216191200 +0000" channel="SONY MAX.starhub">
         <title>Article 370</title>
     </programme>
-    <programme start="20241217120000 +0000" stop="20241217160000 +0000" channel="SONY MAX.starhub">
-        <title>Haseen Dillruba</title>
+    <programme start="20241216191200 +0000" stop="20241216212400 +0000" channel="SONY MAX.starhub">
+        <title>Looop Lapeta</title>
     </programme>
-    <programme start="20241217160000 +0000" stop="20241217190000 +0000" channel="SONY MAX.starhub">
-        <title>Atrangi Re</title>
+    <programme start="20241216212400 +0000" stop="20241217000000 +0000" channel="SONY MAX.starhub">
+        <title>Dil Hai Ke Manta Nahi</title>
     </programme>
-    <programme start="20241217190000 +0000" stop="20241217210000 +0000" channel="SONY MAX.starhub">
-        <title>Hichki</title>
+    <programme start="20241217000000 +0000" stop="20241217010000 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Ludo</title>
     </programme>
-    <programme start="20241217210000 +0000" stop="20241218000000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241217010000 +0000" stop="20241217011500 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Kabir Singh</title>
+    </programme>
+    <programme start="20241217011500 +0000" stop="20241217032300 +0000" channel="SONY MAX.starhub">
+        <title>Sui Dhaaga</title>
+    </programme>
+    <programme start="20241217032300 +0000" stop="20241217060800 +0000" channel="SONY MAX.starhub">
+        <title>Adipursh</title>
+    </programme>
+    <programme start="20241217060800 +0000" stop="20241217080800 +0000" channel="SONY MAX.starhub">
+        <title>Marjaavaan</title>
+    </programme>
+    <programme start="20241217080800 +0000" stop="20241217095500 +0000" channel="SONY MAX.starhub">
+        <title>Dhokha Round D Corner</title>
+    </programme>
+    <programme start="20241217095500 +0000" stop="20241217120000 +0000" channel="SONY MAX.starhub">
+        <title>Gumraah</title>
+    </programme>
+    <programme start="20241217120000 +0000" stop="20241217142200 +0000" channel="SONY MAX.starhub">
+        <title>Srikanth</title>
+    </programme>
+    <programme start="20241217142200 +0000" stop="20241217170700 +0000" channel="SONY MAX.starhub">
+        <title>Bahubali: The Beginning</title>
+    </programme>
+    <programme start="20241217170700 +0000" stop="20241217191400 +0000" channel="SONY MAX.starhub">
+        <title>Shaitaan (2024)</title>
+    </programme>
+    <programme start="20241217191400 +0000" stop="20241217212400 +0000" channel="SONY MAX.starhub">
+        <title>Main Hoon Lucky The Racer</title>
+    </programme>
+    <programme start="20241217212400 +0000" stop="20241218000000 +0000" channel="SONY MAX.starhub">
         <title>Andaz Apna Apna</title>
     </programme>
-    <programme start="20241218000000 +0000" stop="20241218030000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241218000000 +0000" stop="20241218003500 +0000" channel="SONY MAX.starhub">
+        <title>The Making Of Bewakoofiyaan</title>
+    </programme>
+    <programme start="20241218003500 +0000" stop="20241218021800 +0000" channel="SONY MAX.starhub">
+        <title>Wazir</title>
+    </programme>
+    <programme start="20241218021800 +0000" stop="20241218043400 +0000" channel="SONY MAX.starhub">
         <title>Jhootha Kahin Ka</title>
     </programme>
-    <programme start="20241218030000 +0000" stop="20241218060000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241218043400 +0000" stop="20241218065400 +0000" channel="SONY MAX.starhub">
         <title>Koi Jaane Na</title>
     </programme>
-    <programme start="20241218060000 +0000" stop="20241218090000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241218065400 +0000" stop="20241218091900 +0000" channel="SONY MAX.starhub">
+        <title>All The Best: Fun Begins</title>
+    </programme>
+    <programme start="20241218091900 +0000" stop="20241218120000 +0000" channel="SONY MAX.starhub">
         <title>Mubarakan</title>
     </programme>
-    <programme start="20241218090000 +0000" stop="20241218120000 +0000" channel="SONY MAX.starhub">
-        <title>Zara Hatke Zara Bachke</title>
-    </programme>
-    <programme start="20241218120000 +0000" stop="20241218160000 +0000" channel="SONY MAX.starhub">
-        <title>Pk</title>
-    </programme>
-    <programme start="20241218160000 +0000" stop="20241218190000 +0000" channel="SONY MAX.starhub">
-        <title>Toolsidas Junior</title>
-    </programme>
-    <programme start="20241218190000 +0000" stop="20241218210000 +0000" channel="SONY MAX.starhub">
-        <title>Bewakoofiyaan</title>
-    </programme>
-    <programme start="20241218210000 +0000" stop="20241219000000 +0000" channel="SONY MAX.starhub">
-        <title>Piku</title>
-    </programme>
-    <programme start="20241219000000 +0000" stop="20241219030000 +0000" channel="SONY MAX.starhub">
-        <title>Haseen Dillruba</title>
-    </programme>
-    <programme start="20241219030000 +0000" stop="20241219060000 +0000" channel="SONY MAX.starhub">
-        <title>Kill Dil</title>
-    </programme>
-    <programme start="20241219060000 +0000" stop="20241219090000 +0000" channel="SONY MAX.starhub">
-        <title>Pagalpanti</title>
-    </programme>
-    <programme start="20241219090000 +0000" stop="20241219120000 +0000" channel="SONY MAX.starhub">
-        <title>Tu Jhoothi Main Makkar</title>
-    </programme>
-    <programme start="20241219120000 +0000" stop="20241219160000 +0000" channel="SONY MAX.starhub">
-        <title>Jab Tak Hai Jaan</title>
-    </programme>
-    <programme start="20241219160000 +0000" stop="20241219190000 +0000" channel="SONY MAX.starhub">
-        <title>Befikre</title>
-    </programme>
-    <programme start="20241219190000 +0000" stop="20241219210000 +0000" channel="SONY MAX.starhub">
-        <title>Naughty @ 40</title>
-    </programme>
-    <programme start="20241219210000 +0000" stop="20241220000000 +0000" channel="SONY MAX.starhub">
-        <title>Soorma</title>
-    </programme>
-    <programme start="20241220000000 +0000" stop="20241220030000 +0000" channel="SONY MAX.starhub">
-        <title>Pk</title>
-    </programme>
-    <programme start="20241220030000 +0000" stop="20241220060000 +0000" channel="SONY MAX.starhub">
-        <title>Nehlle Pe Dehlla</title>
-    </programme>
-    <programme start="20241220060000 +0000" stop="20241220090000 +0000" channel="SONY MAX.starhub">
-        <title>Mulk</title>
-    </programme>
-    <programme start="20241220090000 +0000" stop="20241220120000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241218120000 +0000" stop="20241218141900 +0000" channel="SONY MAX.starhub">
         <title>Bhaiyya Ji</title>
     </programme>
-    <programme start="20241220120000 +0000" stop="20241220160000 +0000" channel="SONY MAX.starhub">
-        <title>Lage Raho Munna Bhai</title>
+    <programme start="20241218141900 +0000" stop="20241218163800 +0000" channel="SONY MAX.starhub">
+        <title>Toolsidas Junior</title>
     </programme>
-    <programme start="20241220160000 +0000" stop="20241220190000 +0000" channel="SONY MAX.starhub">
-        <title>Jaan-e-mann: Let&#039;s Fall In Love...again</title>
+    <programme start="20241218163800 +0000" stop="20241218184800 +0000" channel="SONY MAX.starhub">
+        <title>Luv Ki Arrange Marriage</title>
     </programme>
-    <programme start="20241220190000 +0000" stop="20241220210000 +0000" channel="SONY MAX.starhub">
-        <title>Sherni</title>
+    <programme start="20241218184800 +0000" stop="20241218213100 +0000" channel="SONY MAX.starhub">
+        <title>Har Dil Jo Pyar Karega</title>
     </programme>
-    <programme start="20241220210000 +0000" stop="20241221000000 +0000" channel="SONY MAX.starhub">
-        <title>Marjaavaan</title>
+    <programme start="20241218213100 +0000" stop="20241218215100 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Gulabo Sitabo</title>
+    </programme>
+    <programme start="20241218215100 +0000" stop="20241219000000 +0000" channel="SONY MAX.starhub">
+        <title>Piku</title>
+    </programme>
+    <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots- Befikre</title>
+    </programme>
+    <programme start="20241219003000 +0000" stop="20241219025700 +0000" channel="SONY MAX.starhub">
+        <title>Tumhari Sulu</title>
+    </programme>
+    <programme start="20241219025700 +0000" stop="20241219050100 +0000" channel="SONY MAX.starhub">
+        <title>Gumraah</title>
     </programme>
     <programme start="20241210234000 +0000" stop="20241211000500 +0000" channel="HGTV.starhub">
         <title>A Forever Home In Sicily</title>
@@ -15951,17 +15951,11 @@
     <programme start="20241213220000 +0000" stop="20241214040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241214040000 +0000" stop="20241214070000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Gippsland Super 6 Round 3</title>
-    </programme>
-    <programme start="20241214070000 +0000" stop="20241214073000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>ISPS HANDA Australian Open</title>
-    </programme>
-    <programme start="20241214073000 +0000" stop="20241214083000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PIF Saudi International powered by Softbank Investment Advisers</title>
+    <programme start="20241214040000 +0000" stop="20241214083000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>FedEx Open de France Day 3</title>
     </programme>
     <programme start="20241214083000 +0000" stop="20241214090000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#13-003: Larry Nelson - Short Game</title>
+        <title>ISPS HANDA Australian Open</title>
     </programme>
     <programme start="20241214090000 +0000" stop="20241214093000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Nedbank Golf Challenge</title>
@@ -15978,17 +15972,11 @@
     <programme start="20241214160000 +0000" stop="20241214220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241214220000 +0000" stop="20241215020000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20241214220000 +0000" stop="20241215040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241215020000 +0000" stop="20241215070000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Gippsland Super 6 Round 4</title>
-    </programme>
-    <programme start="20241215070000 +0000" stop="20241215073000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#24-006: Practice Plan 6</title>
-    </programme>
-    <programme start="20241215073000 +0000" stop="20241215080000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#24-007: Practice Plan 7</title>
+    <programme start="20241215040000 +0000" stop="20241215080000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>FedEx Open de France Day 4</title>
     </programme>
     <programme start="20241215080000 +0000" stop="20241215083000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>#24-002: Ball Striking</title>
@@ -16084,7 +16072,7 @@
         <title>#13-006: Tom Lehman - Driver</title>
     </programme>
     <programme start="20241219153000 +0000" stop="20241219160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#24-008: Practice Plan 8</title>
+        <title>The World’s Longest Putt</title>
     </programme>
     <programme start="20241219160000 +0000" stop="20241219220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -16126,7 +16114,7 @@
         <title>AfrAsia Bank Mauritius Open Day 3</title>
     </programme>
     <programme start="20241221133000 +0000" stop="20241221140000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#24-004: Bunker Play</title>
+        <title>The World’s Longest Putt</title>
     </programme>
     <programme start="20241221140000 +0000" stop="20241221143000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>ISPS HANDA Australian Open</title>
@@ -16153,7 +16141,7 @@
         <title>AfrAsia Bank Mauritius Open Day 4</title>
     </programme>
     <programme start="20241222110000 +0000" stop="20241222113000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>#13-003: Larry Nelson - Short Game</title>
+        <title>The World’s Longest Putt</title>
     </programme>
     <programme start="20241222113000 +0000" stop="20241222120000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>#13-004: Larry Nelson - Putting</title>
@@ -16199,6 +16187,18 @@
     </programme>
     <programme start="20241223153000 +0000" stop="20241223160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>#24-006: John Montgomery</title>
+    </programme>
+    <programme start="20241223160000 +0000" stop="20241223220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241223220000 +0000" stop="20241224040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224040000 +0000" stop="20241224100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224100000 +0000" stop="20241224150000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AfrAsia Bank Mauritius Open Day 4</title>
     </programme>
     <programme start="20241211000000 +0000" stop="20241211010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (11/12/24 Pt2)</title>
@@ -17760,31 +17760,31 @@
     <programme start="20241211153000 +0000" stop="20241211160000 +0000" channel="Asianet.starhub">
         <title>Chempaneerpovu</title>
     </programme>
-    <programme start="20241211163000 +0000" stop="20241211170000 +0000" channel="Asianet.starhub">
+    <programme start="20241211160000 +0000" stop="20241211163000 +0000" channel="Asianet.starhub">
         <title>Patharamattu</title>
     </programme>
-    <programme start="20241211170000 +0000" stop="20241211173000 +0000" channel="Asianet.starhub">
+    <programme start="20241211163000 +0000" stop="20241211170000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
     </programme>
-    <programme start="20241211173000 +0000" stop="20241211180000 +0000" channel="Asianet.starhub">
+    <programme start="20241211170000 +0000" stop="20241211173000 +0000" channel="Asianet.starhub">
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
-    <programme start="20241211180000 +0000" stop="20241211183000 +0000" channel="Asianet.starhub">
+    <programme start="20241211173000 +0000" stop="20241211180000 +0000" channel="Asianet.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20241211183000 +0000" stop="20241211190000 +0000" channel="Asianet.starhub">
+    <programme start="20241211180000 +0000" stop="20241211183000 +0000" channel="Asianet.starhub">
         <title>Chandrikayil Aliyunnu Chandrakantham</title>
     </programme>
-    <programme start="20241211190000 +0000" stop="20241211193000 +0000" channel="Asianet.starhub">
+    <programme start="20241211183000 +0000" stop="20241211190000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
-    <programme start="20241211193000 +0000" stop="20241211223000 +0000" channel="Asianet.starhub">
+    <programme start="20241211190000 +0000" stop="20241211220000 +0000" channel="Asianet.starhub">
         <title>Under World</title>
     </programme>
-    <programme start="20241211223000 +0000" stop="20241211230000 +0000" channel="Asianet.starhub">
+    <programme start="20241211220000 +0000" stop="20241211223000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
     </programme>
-    <programme start="20241211230000 +0000" stop="20241211233000 +0000" channel="Asianet.starhub">
+    <programme start="20241211223000 +0000" stop="20241211230000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
     </programme>
     <programme start="20241211230000 +0000" stop="20241212013000 +0000" channel="Asianet.starhub">
@@ -17880,124 +17880,124 @@
     <programme start="20241212230000 +0000" stop="20241213013000 +0000" channel="Asianet.starhub">
         <title>Panchagni</title>
     </programme>
-    <programme start="20241213020000 +0000" stop="20241213023000 +0000" channel="Asianet.starhub">
+    <programme start="20241213013000 +0000" stop="20241213020000 +0000" channel="Asianet.starhub">
         <title>Geetha Govindam</title>
+    </programme>
+    <programme start="20241213020000 +0000" stop="20241213023000 +0000" channel="Asianet.starhub">
+        <title>Chandrikayil Aliyunnu Chandrakantham</title>
     </programme>
     <programme start="20241213023000 +0000" stop="20241213030000 +0000" channel="Asianet.starhub">
-        <title>Chandrikayil Aliyunnu Chandrakantham</title>
+        <title>Snehakkoottu</title>
     </programme>
     <programme start="20241213030000 +0000" stop="20241213033000 +0000" channel="Asianet.starhub">
-        <title>Snehakkoottu</title>
+        <title>Patharamattu</title>
     </programme>
     <programme start="20241213033000 +0000" stop="20241213040000 +0000" channel="Asianet.starhub">
-        <title>Patharamattu</title>
+        <title>Ishttam Mathram</title>
     </programme>
     <programme start="20241213040000 +0000" stop="20241213043000 +0000" channel="Asianet.starhub">
-        <title>Ishttam Mathram</title>
-    </programme>
-    <programme start="20241213043000 +0000" stop="20241213050000 +0000" channel="Asianet.starhub">
         <title>Chempaneerpovu</title>
     </programme>
-    <programme start="20241213050000 +0000" stop="20241213073000 +0000" channel="Asianet.starhub">
+    <programme start="20241213043000 +0000" stop="20241213070000 +0000" channel="Asianet.starhub">
         <title>Money rathnam</title>
     </programme>
-    <programme start="20241213073000 +0000" stop="20241213080000 +0000" channel="Asianet.starhub">
+    <programme start="20241213070000 +0000" stop="20241213073000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
+    </programme>
+    <programme start="20241213073000 +0000" stop="20241213080000 +0000" channel="Asianet.starhub">
+        <title>Santhwanam-2</title>
     </programme>
     <programme start="20241213080000 +0000" stop="20241213083000 +0000" channel="Asianet.starhub">
-        <title>Santhwanam-2</title>
+        <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
     <programme start="20241213083000 +0000" stop="20241213090000 +0000" channel="Asianet.starhub">
-        <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
-    </programme>
-    <programme start="20241213090000 +0000" stop="20241213093000 +0000" channel="Asianet.starhub">
         <title>Amma Manassu</title>
     </programme>
-    <programme start="20241213093000 +0000" stop="20241213100000 +0000" channel="Asianet.starhub">
+    <programme start="20241213090000 +0000" stop="20241213093000 +0000" channel="Asianet.starhub">
         <title>Etho Janma Kalpanayil</title>
     </programme>
-    <programme start="20241213100000 +0000" stop="20241213130000 +0000" channel="Asianet.starhub">
+    <programme start="20241213093000 +0000" stop="20241213123000 +0000" channel="Asianet.starhub">
         <title>The Priest</title>
     </programme>
-    <programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="Asianet.starhub">
+    <programme start="20241213123000 +0000" stop="20241213130000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
-    <programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="Asianet.starhub">
+    <programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="Asianet.starhub">
         <title>Serial Gouri Shankaram</title>
     </programme>
-    <programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="Asianet.starhub">
+    <programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="Asianet.starhub">
         <title>Malikapuram</title>
     </programme>
-    <programme start="20241213143000 +0000" stop="20241213150000 +0000" channel="Asianet.starhub">
+    <programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="Asianet.starhub">
         <title>Snehakkoottu</title>
     </programme>
-    <programme start="20241213150000 +0000" stop="20241213153000 +0000" channel="Asianet.starhub">
+    <programme start="20241213143000 +0000" stop="20241213150000 +0000" channel="Asianet.starhub">
         <title>Santhwanam-2</title>
     </programme>
-    <programme start="20241213153000 +0000" stop="20241213160000 +0000" channel="Asianet.starhub">
+    <programme start="20241213150000 +0000" stop="20241213153000 +0000" channel="Asianet.starhub">
         <title>Chempaneerpovu</title>
     </programme>
-    <programme start="20241213160000 +0000" stop="20241213163000 +0000" channel="Asianet.starhub">
+    <programme start="20241213153000 +0000" stop="20241213160000 +0000" channel="Asianet.starhub">
         <title>Ishttam Mathram</title>
     </programme>
-    <programme start="20241213163000 +0000" stop="20241213170000 +0000" channel="Asianet.starhub">
+    <programme start="20241213160000 +0000" stop="20241213163000 +0000" channel="Asianet.starhub">
         <title>Patharamattu</title>
     </programme>
-    <programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="Asianet.starhub">
+    <programme start="20241213163000 +0000" stop="20241213170000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
     </programme>
-    <programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="Asianet.starhub">
+    <programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="Asianet.starhub">
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
-    <programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="Asianet.starhub">
+    <programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="Asianet.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="Asianet.starhub">
+    <programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="Asianet.starhub">
         <title>Chandrikayil Aliyunnu Chandrakantham</title>
     </programme>
-    <programme start="20241213190000 +0000" stop="20241213193000 +0000" channel="Asianet.starhub">
+    <programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
-    <programme start="20241213193000 +0000" stop="20241213223000 +0000" channel="Asianet.starhub">
+    <programme start="20241213190000 +0000" stop="20241213220000 +0000" channel="Asianet.starhub">
         <title>Lucifer</title>
+    </programme>
+    <programme start="20241213220000 +0000" stop="20241213223000 +0000" channel="Asianet.starhub">
+        <title>Chirikkum Thalikka</title>
     </programme>
     <programme start="20241213223000 +0000" stop="20241213230000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
     </programme>
-    <programme start="20241213230000 +0000" stop="20241213233000 +0000" channel="Asianet.starhub">
-        <title>Chirikkum Thalikka</title>
-    </programme>
-    <programme start="20241213233000 +0000" stop="20241214020000 +0000" channel="Asianet.starhub">
+    <programme start="20241213230000 +0000" stop="20241214013000 +0000" channel="Asianet.starhub">
         <title>Kadha Thudarunnu</title>
     </programme>
-    <programme start="20241214020000 +0000" stop="20241214023000 +0000" channel="Asianet.starhub">
+    <programme start="20241214013000 +0000" stop="20241214020000 +0000" channel="Asianet.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20241214023000 +0000" stop="20241214030000 +0000" channel="Asianet.starhub">
+    <programme start="20241214020000 +0000" stop="20241214023000 +0000" channel="Asianet.starhub">
         <title>Chandrikayil Aliyunnu Chandrakantham</title>
     </programme>
-    <programme start="20241214030000 +0000" stop="20241214033000 +0000" channel="Asianet.starhub">
+    <programme start="20241214023000 +0000" stop="20241214030000 +0000" channel="Asianet.starhub">
         <title>Snehakkoottu</title>
     </programme>
-    <programme start="20241214033000 +0000" stop="20241214040000 +0000" channel="Asianet.starhub">
+    <programme start="20241214030000 +0000" stop="20241214033000 +0000" channel="Asianet.starhub">
         <title>Patharamattu</title>
     </programme>
-    <programme start="20241214040000 +0000" stop="20241214043000 +0000" channel="Asianet.starhub">
+    <programme start="20241214033000 +0000" stop="20241214040000 +0000" channel="Asianet.starhub">
         <title>Ishttam Mathram</title>
     </programme>
-    <programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="Asianet.starhub">
+    <programme start="20241214040000 +0000" stop="20241214043000 +0000" channel="Asianet.starhub">
         <title>Chempaneerpovu</title>
     </programme>
-    <programme start="20241214050000 +0000" stop="20241214073000 +0000" channel="Asianet.starhub">
+    <programme start="20241214043000 +0000" stop="20241214070000 +0000" channel="Asianet.starhub">
         <title>Unda</title>
     </programme>
-    <programme start="20241214073000 +0000" stop="20241214080000 +0000" channel="Asianet.starhub">
+    <programme start="20241214070000 +0000" stop="20241214073000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
     </programme>
-    <programme start="20241214080000 +0000" stop="20241214083000 +0000" channel="Asianet.starhub">
+    <programme start="20241214073000 +0000" stop="20241214080000 +0000" channel="Asianet.starhub">
         <title>Santhwanam-2</title>
     </programme>
-    <programme start="20241214083000 +0000" stop="20241214090000 +0000" channel="Asianet.starhub">
+    <programme start="20241214080000 +0000" stop="20241214083000 +0000" channel="Asianet.starhub">
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
     <programme start="20241210220000 +0000" stop="20241211003000 +0000" channel="Vannathirai.starhub">
@@ -32175,10 +32175,13 @@
     <programme start="20241214040000 +0000" stop="20241214100000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241214100000 +0000" stop="20241214160000 +0000" channel="Hub Premier 5.starhub">
+    <programme start="20241214100000 +0000" stop="20241214145000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241214160000 +0000" stop="20241214220000 +0000" channel="Hub Premier 5.starhub">
+    <programme start="20241214145000 +0000" stop="20241214170000 +0000" channel="Hub Premier 5.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20241214170000 +0000" stop="20241214220000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241214220000 +0000" stop="20241215040000 +0000" channel="Hub Premier 5.starhub">
