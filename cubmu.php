@@ -306,10 +306,10 @@
     <programme start="20241211223000 +0000" stop="20241211230000 +0000" channel="CNBC Indonesia.cubmu">
         <title>CNBC Indonesia Exclusive</title>
     </programme>
-    <programme start="20241211230000 +0000" stop="20241211233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+    <programme start="20241211230000 +0000" stop="20241212000000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Evening Up</title>
     </programme>
-    <programme start="20241211233000 +0000" stop="20241212003000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241212000000 +0000" stop="20241212003000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Property Point</title>
     </programme>
     <programme start="20241212003000 +0000" stop="20241212010000 +0000" channel="CNBC Indonesia.cubmu">
@@ -325,13 +325,13 @@
         <title>Power Lunch</title>
     </programme>
     <programme start="20241212070000 +0000" stop="20241212073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>Managing Asia</title>
     </programme>
     <programme start="20241212073000 +0000" stop="20241212080000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Focus On Infra</title>
     </programme>
     <programme start="20241212080000 +0000" stop="20241212100000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Road To CNBC Indonesia Awards 2024</title>
+        <title>Closing Bell</title>
     </programme>
     <programme start="20241212100000 +0000" stop="20241212110500 +0000" channel="CNBC Indonesia.cubmu">
         <title>Evening Up</title>
@@ -346,10 +346,10 @@
         <title>Energy Corner</title>
     </programme>
     <programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Road To CNBC Indonesia Awards 2024</title>
+        <title>Squawk Box</title>
     </programme>
     <programme start="20241212150000 +0000" stop="20241211170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box</title>
+        <title>Profit</title>
     </programme>
     <programme start="20241211170000 +0000" stop="20241211183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Cinta Non Tunai</title>
