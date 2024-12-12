@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="SCTV.vidio">
-        <title>Liputan 6 Malam</title>
-    </programme>
-    <programme start="20241204183000 +0000" stop="20241204190800 +0000" channel="SCTV.vidio">
-        <title>Buser</title>
-    </programme>
-    <programme start="20241204190800 +0000" stop="20241204213000 +0000" channel="SCTV.vidio">
-        <title>Southampton vs. Chelsea : Premier League Soccer</title>
-    </programme>
-    <programme start="20241204213000 +0000" stop="20241204230000 +0000" channel="SCTV.vidio">
-        <title>Liputan 6 Pagi</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="SCTV.vidio">
-        <title>Halo Selebriti</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205013000 +0000" channel="SCTV.vidio">
-        <title>Games Ayik Paling Nampol : Gaspoll</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205030000 +0000" channel="SCTV.vidio">
-        <title>FTV Pagi Spesial : Operasi Tangkap Cinta Cewek Skuter</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="SCTV.vidio">
-        <title>SCTV FTV Pagi</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="SCTV.vidio">
-        <title>Liputan 6 Siang</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205073000 +0000" channel="SCTV.vidio">
-        <title>FTV Siang : Mantra Cinta Neng Areng</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205094500 +0000" channel="SCTV.vidio">
-        <title>FTV Sore : Bongkar Saldo Cinta Supir Truk Modis</title>
-    </programme>
-    <programme start="20241205094500 +0000" stop="20241205111500 +0000" channel="SCTV.vidio">
-        <title>My Heart</title>
-    </programme>
-    <programme start="20241205111500 +0000" stop="20241205130000 +0000" channel="SCTV.vidio">
-        <title>Saleha</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205143000 +0000" channel="SCTV.vidio">
-        <title>Naik Ranjang</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205160000 +0000" channel="SCTV.vidio">
-        <title>Luka Cinta</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205180000 +0000" channel="SCTV.vidio">
-        <title>Jalan Pulang Preman Pasar : FTV Religi</title>
-    </programme>
     <programme start="20241205180000 +0000" stop="20241205183000 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Malam</title>
     </programme>
@@ -408,10 +360,10 @@
     <programme start="20241212143000 +0000" stop="20241212160000 +0000" channel="SCTV.vidio">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241212160000 +0000" stop="20241212174500 +0000" channel="SCTV.vidio">
+    <programme start="20241212160000 +0000" stop="20241212172700 +0000" channel="SCTV.vidio">
         <title>FTV Primetime : Terbangun Dari Mati Suri</title>
     </programme>
-    <programme start="20241212174500 +0000" stop="20241212200000 +0000" channel="SCTV.vidio">
+    <programme start="20241212172700 +0000" stop="20241212200000 +0000" channel="SCTV.vidio">
         <title>AS Roma vs. Braga : UEFA Europa League Soccer</title>
     </programme>
     <programme start="20241212200000 +0000" stop="20241212220000 +0000" channel="SCTV.vidio">
@@ -564,47 +516,11 @@
     <programme start="20241215143000 +0000" stop="20241215160000 +0000" channel="SCTV.vidio">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204193000 +0000" channel="Indosiar.vidio">
-        <title>Mega Series Action Asia: Pendekar Rase Terbang</title>
+    <programme start="20241215160000 +0000" stop="20241215173000 +0000" channel="SCTV.vidio">
+        <title>Tobat Palsu Pengoplos Keji : FTV Ramadan</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204213000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia: Fight Back to School</title>
-    </programme>
-    <programme start="20241204213000 +0000" stop="20241204230000 +0000" channel="Indosiar.vidio">
-        <title>Fokus Pagi</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241205010000 +0000" channel="Indosiar.vidio">
-        <title>Magic 5</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205030000 +0000" channel="Indosiar.vidio">
-        <title>Iparku Tak Tahu Diri : Kisah Nyata</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="Indosiar.vidio">
-        <title>Hot Kiss</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="Indosiar.vidio">
-        <title>Patroli Siang</title>
-    </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Indosiar.vidio">
-        <title>Fokus Siang</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205070000 +0000" channel="Indosiar.vidio">
-        <title>Kisah Nyata Siang Spesial: Sandiwara Palsu Yang Merusak Pernikahanku </title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205083000 +0000" channel="Indosiar.vidio">
-        <title>Petaka Di Masa Lalu Yang Menghancurkan Masa Depanku : Kisah Nyata</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205110000 +0000" channel="Indosiar.vidio">
-        <title>7 Bulan Lesti Kejora Dan Gender Reveal</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205130000 +0000" channel="Indosiar.vidio">
-        <title>Magic 5 Season 3</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205153000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia : True Legend</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205180000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia : Once Upon a Time in China and America</title>
+    <programme start="20241215173000 +0000" stop="20241215190000 +0000" channel="SCTV.vidio">
+        <title>SCTV FTV Utama</title>
     </programme>
     <programme start="20241205180000 +0000" stop="20241205193000 +0000" channel="Indosiar.vidio">
         <title>Pendekar Rase Terbang</title>
@@ -1080,59 +996,8 @@
     <programme start="20241215140000 +0000" stop="20241215160000 +0000" channel="Indosiar.vidio">
         <title>City Hunter</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="Moji.vidio">
-        <title>Ungkap</title>
-    </programme>
-    <programme start="20241204173000 +0000" stop="20241204190000 +0000" channel="Moji.vidio">
-        <title>Friend Zone</title>
-    </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="Moji.vidio">
-        <title>Premier League</title>
-    </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="Moji.vidio">
-        <title>Premier League Highlights</title>
-    </programme>
-    <programme start="20241204200000 +0000" stop="20241204220000 +0000" channel="Moji.vidio">
-        <title>Livoli Divisi Utama Putra</title>
-    </programme>
-    <programme start="20241204220000 +0000" stop="20241204231500 +0000" channel="Moji.vidio">
-        <title>Moji Sport</title>
-    </programme>
-    <programme start="20241204231500 +0000" stop="20241205000000 +0000" channel="Moji.vidio">
-        <title>Liputan 6 Pagi Moji</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="Moji.vidio">
-        <title>Ungkap</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Moji.vidio">
-        <title>Ungkap</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Moji.vidio">
-        <title>Netizen Update</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="Moji.vidio">
-        <title>Bisik Pagi</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205080000 +0000" channel="Moji.vidio">
-        <title>Tercyduk</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205093000 +0000" channel="Moji.vidio">
-        <title>Surga Yang Kedua</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205103000 +0000" channel="Moji.vidio">
-        <title>Doyan Makan</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205123000 +0000" channel="Moji.vidio">
-        <title>Livoli Divisi Utama Putri</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205143000 +0000" channel="Moji.vidio">
-        <title>Livoli Divisi Utama Putra</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205160000 +0000" channel="Moji.vidio">
-        <title>Ungkap</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="Moji.vidio">
-        <title>Trust</title>
+    <programme start="20241215160000 +0000" stop="20241215180000 +0000" channel="Indosiar.vidio">
+        <title>Firestorm</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205183000 +0000" channel="Moji.vidio">
         <title>Ungkap</title>
@@ -1632,86 +1497,11 @@
     <programme start="20241215120000 +0000" stop="20241215160000 +0000" channel="Moji.vidio">
         <title>Chhoti Sardarni</title>
     </programme>
-    <programme start="20241204171500 +0000" stop="20241204174500 +0000" channel="Trans7.vidio">
-        <title>Redaksi Malam</title>
+    <programme start="20241215160000 +0000" stop="20241215163000 +0000" channel="Moji.vidio">
+        <title>Trust</title>
     </programme>
-    <programme start="20241204174500 +0000" stop="20241204183000 +0000" channel="Trans7.vidio">
-        <title>Sport7</title>
-    </programme>
-    <programme start="20241204183000 +0000" stop="20241204193000 +0000" channel="Trans7.vidio">
-        <title>Best Fishing</title>
-    </programme>
-    <programme start="20241204193000 +0000" stop="20241204204500 +0000" channel="Trans7.vidio">
-        <title>BTS</title>
-    </programme>
-    <programme start="20241204204500 +0000" stop="20241204214500 +0000" channel="Trans7.vidio">
-        <title>Just For Laugh Gags</title>
-    </programme>
-    <programme start="20241204214500 +0000" stop="20241204223000 +0000" channel="Trans7.vidio">
-        <title>Titik Target</title>
-    </programme>
-    <programme start="20241204223000 +0000" stop="20241204234500 +0000" channel="Trans7.vidio">
-        <title>Redaksi Pagi</title>
-    </programme>
-    <programme start="20241204234500 +0000" stop="20241205004500 +0000" channel="Trans7.vidio">
-        <title>Spotlite</title>
-    </programme>
-    <programme start="20241205004500 +0000" stop="20241205013000 +0000" channel="Trans7.vidio">
-        <title>Selebrita Pagi</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205023000 +0000" channel="Trans7.vidio">
-        <title>For Your Pagi</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205031500 +0000" channel="Trans7.vidio">
-        <title>Selebrita Heits</title>
-    </programme>
-    <programme start="20241205031500 +0000" stop="20241205041500 +0000" channel="Trans7.vidio">
-        <title>Big-Bang!</title>
-    </programme>
-    <programme start="20241205041500 +0000" stop="20241205050000 +0000" channel="Trans7.vidio">
-        <title>Enah Bikin Enak</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205054500 +0000" channel="Trans7.vidio">
-        <title>Bocah Petualang</title>
-    </programme>
-    <programme start="20241205054500 +0000" stop="20241205063000 +0000" channel="Trans7.vidio">
-        <title>Si Otan</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205071500 +0000" channel="Trans7.vidio">
-        <title>Jejak Anak Negeri</title>
-    </programme>
-    <programme start="20241205071500 +0000" stop="20241205081500 +0000" channel="Trans7.vidio">
-        <title>Redaksi</title>
-    </programme>
-    <programme start="20241205081500 +0000" stop="20241205091500 +0000" channel="Trans7.vidio">
-        <title>Jejak Si Gundul</title>
-    </programme>
-    <programme start="20241205091500 +0000" stop="20241205101500 +0000" channel="Trans7.vidio">
-        <title>Makan Receh</title>
-    </programme>
-    <programme start="20241205101500 +0000" stop="20241205110000 +0000" channel="Trans7.vidio">
-        <title>Xpose Uncensored</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="Trans7.vidio">
-        <title>On The Spot</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="Trans7.vidio">
-        <title>Secret Story</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205131500 +0000" channel="Trans7.vidio">
-        <title>POV - Pasti Obrolan Viral</title>
-    </programme>
-    <programme start="20241205131500 +0000" stop="20241205143000 +0000" channel="Trans7.vidio">
-        <title>Arisan</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205154500 +0000" channel="Trans7.vidio">
-        <title>Lapor Pak!</title>
-    </programme>
-    <programme start="20241205154500 +0000" stop="20241205163000 +0000" channel="Trans7.vidio">
-        <title>The Police</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205171500 +0000" channel="Trans7.vidio">
-        <title>Misteri Dunia</title>
+    <programme start="20241215163000 +0000" stop="20241215190000 +0000" channel="Moji.vidio">
+        <title>Trust</title>
     </programme>
     <programme start="20241205171500 +0000" stop="20241205174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -2673,68 +2463,86 @@
     <programme start="20241217163000 +0000" stop="20241217174500 +0000" channel="Trans7.vidio">
         <title>Misteri Dunia</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204193000 +0000" channel="TRANS TV.vidio">
-        <title>CNN Connected</title>
+    <programme start="20241217174500 +0000" stop="20241217183000 +0000" channel="Trans7.vidio">
+        <title>Sport7</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204201000 +0000" channel="TRANS TV.vidio">
-        <title>Klinik Tendean</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="Trans7.vidio">
+        <title>Best Fishing</title>
     </programme>
-    <programme start="20241204201000 +0000" stop="20241204205000 +0000" channel="TRANS TV.vidio">
-        <title>Adam Inul Love Story</title>
+    <programme start="20241217190000 +0000" stop="20241217203000 +0000" channel="Trans7.vidio">
+        <title>Opera Van Java</title>
     </programme>
-    <programme start="20241204205000 +0000" stop="20241204212000 +0000" channel="TRANS TV.vidio">
-        <title>CNN Indonesia Prime News</title>
+    <programme start="20241217203000 +0000" stop="20241217213000 +0000" channel="Trans7.vidio">
+        <title>The Police</title>
     </programme>
-    <programme start="20241204212000 +0000" stop="20241204214000 +0000" channel="TRANS TV.vidio">
-        <title>Indonesia Punya Cerita</title>
+    <programme start="20241217213000 +0000" stop="20241217221500 +0000" channel="Trans7.vidio">
+        <title>Islampedia</title>
     </programme>
-    <programme start="20241204214000 +0000" stop="20241204220000 +0000" channel="TRANS TV.vidio">
-        <title>Keluarga Sonfai</title>
+    <programme start="20241217221500 +0000" stop="20241217230000 +0000" channel="Trans7.vidio">
+        <title>Ragam Indonesia</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204233000 +0000" channel="TRANS TV.vidio">
-        <title>Islam Itu Indah</title>
+    <programme start="20241217230000 +0000" stop="20241218000000 +0000" channel="Trans7.vidio">
+        <title>Redaksi Pagi</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205003000 +0000" channel="TRANS TV.vidio">
-        <title>Insert Pagi</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="Trans7.vidio">
+        <title>Spotlite</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205013000 +0000" channel="TRANS TV.vidio">
-        <title>CNN Indonesia Good Morning</title>
+    <programme start="20241218010000 +0000" stop="20241218013000 +0000" channel="Trans7.vidio">
+        <title>Selebrita Pagi</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205033000 +0000" channel="TRANS TV.vidio">
-        <title>Pagi-Pagi Ambyar</title>
+    <programme start="20241218013000 +0000" stop="20241218023000 +0000" channel="Trans7.vidio">
+        <title>For Your Pagi</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205053000 +0000" channel="TRANS TV.vidio">
-        <title>Insert</title>
+    <programme start="20241218023000 +0000" stop="20241218031500 +0000" channel="Trans7.vidio">
+        <title>OMG</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205070000 +0000" channel="TRANS TV.vidio">
-        <title>Brownis - Obrowlan Manis</title>
+    <programme start="20241218031500 +0000" stop="20241218041500 +0000" channel="Trans7.vidio">
+        <title>Trending</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205080000 +0000" channel="TRANS TV.vidio">
-        <title>Rumpi No Secret</title>
+    <programme start="20241218041500 +0000" stop="20241218050000 +0000" channel="Trans7.vidio">
+        <title>Enah Bikin Enak</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="TRANS TV.vidio">
-        <title>Insert Today</title>
+    <programme start="20241218050000 +0000" stop="20241218054500 +0000" channel="Trans7.vidio">
+        <title>Bocah Petualang</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="TRANS TV.vidio">
-        <title>CNN Indonesia News Update</title>
+    <programme start="20241218054500 +0000" stop="20241218063000 +0000" channel="Trans7.vidio">
+        <title>Si Otan</title>
     </programme>
-    <programme start="20241205093000 +0000" stop="20241205103000 +0000" channel="TRANS TV.vidio">
-        <title>Dream Box Indonesia</title>
+    <programme start="20241218063000 +0000" stop="20241218071500 +0000" channel="Trans7.vidio">
+        <title>Jejak Petualang</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205113000 +0000" channel="TRANS TV.vidio">
-        <title>Bikin Laper</title>
+    <programme start="20241218071500 +0000" stop="20241218081500 +0000" channel="Trans7.vidio">
+        <title>Redaksi</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205123000 +0000" channel="TRANS TV.vidio">
-        <title>Insert Story</title>
+    <programme start="20241218081500 +0000" stop="20241218091500 +0000" channel="Trans7.vidio">
+        <title>Jejak Si Gundul</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205143000 +0000" channel="TRANS TV.vidio">
-        <title>Film Indonesia Spesial</title>
+    <programme start="20241218091500 +0000" stop="20241218101500 +0000" channel="Trans7.vidio">
+        <title>Makan Receh</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205163000 +0000" channel="TRANS TV.vidio">
-        <title>Bioskop Trans TV</title>
+    <programme start="20241218101500 +0000" stop="20241218110000 +0000" channel="Trans7.vidio">
+        <title>Selebrita Expose</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205180000 +0000" channel="TRANS TV.vidio">
-        <title>Bioskop Trans TV</title>
+    <programme start="20241218110000 +0000" stop="20241218120000 +0000" channel="Trans7.vidio">
+        <title>On The Spot</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218124500 +0000" channel="Trans7.vidio">
+        <title>Secret Story</title>
+    </programme>
+    <programme start="20241218124500 +0000" stop="20241218133000 +0000" channel="Trans7.vidio">
+        <title>POV - Pasti Obrolan Viral</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218143000 +0000" channel="Trans7.vidio">
+        <title>Arisan</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218154500 +0000" channel="Trans7.vidio">
+        <title>Lapor Pak!</title>
+    </programme>
+    <programme start="20241218154500 +0000" stop="20241218163000 +0000" channel="Trans7.vidio">
+        <title>Krim Malam</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
+        <title>Misteri Dunia</title>
     </programme>
     <programme start="20241205180000 +0000" stop="20241205191000 +0000" channel="TRANS TV.vidio">
         <title>Bioskop Indonesia</title>
@@ -3450,77 +3258,41 @@
     <programme start="20241217160000 +0000" stop="20241217233000 +0000" channel="TRANS TV.vidio">
         <title>Bioskop Indonesia Premiere</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="TVOne.vidio">
-        <title>Kabar Utama					</title>
+    <programme start="20241217233000 +0000" stop="20241218003000 +0000" channel="TRANS TV.vidio">
+        <title>Insert Pagi</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="TVOne.vidio">
-        <title>Kabar Hari Ini					</title>
+    <programme start="20241218003000 +0000" stop="20241218013000 +0000" channel="TRANS TV.vidio">
+        <title>CNN Indonesia Good Morning</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="TVOne.vidio">
-        <title>Kabar Petang					 					</title>
+    <programme start="20241218013000 +0000" stop="20241218033000 +0000" channel="TRANS TV.vidio">
+        <title>Pagi-Pagi Ambyar</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="TVOne.vidio">
-        <title>Kabar Petang										</title>
+    <programme start="20241218033000 +0000" stop="20241218053000 +0000" channel="TRANS TV.vidio">
+        <title>Insert</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="TVOne.vidio">
-        <title>Kabar Utama Pagi										</title>
+    <programme start="20241218053000 +0000" stop="20241218070000 +0000" channel="TRANS TV.vidio">
+        <title>Brownis - Obrowlan Manis</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="TVOne.vidio">
-        <title>Kabar Utama						</title>
+    <programme start="20241218070000 +0000" stop="20241218080000 +0000" channel="TRANS TV.vidio">
+        <title>Rumpi No Secret</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="TVOne.vidio">
-        <title>Kabar Hari Ini							</title>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="TRANS TV.vidio">
+        <title>Insert Today</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204213000 +0000" channel="TVOne.vidio">
-        <title>Kabar Arena Pagi				</title>
+    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="TRANS TV.vidio">
+        <title>CNN Indonesia News Update</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204230000 +0000" channel="TVOne.vidio">
-        <title>Kabar Pagi</title>
+    <programme start="20241218093000 +0000" stop="20241218103000 +0000" channel="TRANS TV.vidio">
+        <title>Dream Box Indonesia</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="TVOne.vidio">
-        <title>Kabar Arena Pagi</title>
+    <programme start="20241218103000 +0000" stop="20241218140000 +0000" channel="TRANS TV.vidio">
+        <title>Bikin Laper</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205013000 +0000" channel="TVOne.vidio">
-        <title>Apa Kabar Indonesia Pagi</title>
+    <programme start="20241218140000 +0000" stop="20241218160000 +0000" channel="TRANS TV.vidio">
+        <title>Bioskop Trans TV</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205023000 +0000" channel="TVOne.vidio">
-        <title>Kabar Utama Pagi</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="TVOne.vidio">
-        <title>Hidup Sehat</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="TVOne.vidio">
-        <title>Inspirasi Pagi</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205060000 +0000" channel="TVOne.vidio">
-        <title>Kabar Siang</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205080000 +0000" channel="TVOne.vidio">
-        <title>Apa Kabar Indonesia Siang</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="TVOne.vidio">
-        <title>Merah Putih</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205110000 +0000" channel="TVOne.vidio">
-        <title>Kabar Petang</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205130000 +0000" channel="TVOne.vidio">
-        <title>Apa Kabar Indonesia Malam</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="TVOne.vidio">
-        <title>Dua Sisi</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="TVOne.vidio">
-        <title>Kabar Utama 2</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="TVOne.vidio">
-        <title>Kabar Hari Ini</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="TVOne.vidio">
-        <title>Cover Story One</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="TVOne.vidio">
-        <title>Kabar Arena Malam</title>
+    <programme start="20241218160000 +0000" stop="20241218233000 +0000" channel="TRANS TV.vidio">
+        <title>Bioskop Indonesia Premiere</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="TVOne.vidio">
         <title>Kabar Utama					</title>
@@ -4371,50 +4143,83 @@
     <programme start="20241217160000 +0000" stop="20241217170000 +0000" channel="TVOne.vidio">
         <title>Kabar Hari Ini</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204183000 +0000" channel="ANTV.vidio">
-        <title>Jodoh Wasiat Bapak Babak 2</title>
+    <programme start="20241217170000 +0000" stop="20241217173000 +0000" channel="TVOne.vidio">
+        <title>Kabar Arena Malam</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190000 +0000" channel="ANTV.vidio">
-        <title>AB Shop Home Shopping</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="TVOne.vidio">
+        <title>AB Shop</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204203000 +0000" channel="ANTV.vidio">
-        <title>Kun Fayakun</title>
+    <programme start="20241217180000 +0000" stop="20241217190000 +0000" channel="TVOne.vidio">
+        <title>Apa Kabar Indonesia Malam</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204213000 +0000" channel="ANTV.vidio">
-        <title>Anandhi</title>
+    <programme start="20241217190000 +0000" stop="20241217193000 +0000" channel="TVOne.vidio">
+        <title>Kabar Hari Ini</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="ANTV.vidio">
-        <title>Cakrawala</title>
+    <programme start="20241217193000 +0000" stop="20241217210000 +0000" channel="TVOne.vidio">
+        <title>Kabar Petang</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="ANTV.vidio">
-        <title>Senyum Iman</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="TVOne.vidio">
+        <title>Kabar Arena Malam</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241205000000 +0000" channel="ANTV.vidio">
-        <title>Firasat</title>
+    <programme start="20241217213000 +0000" stop="20241217230000 +0000" channel="TVOne.vidio">
+        <title>Kabar Pagi</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205020000 +0000" channel="ANTV.vidio">
-        <title>Ishq Mein Marjawan 2</title>
+    <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="TVOne.vidio">
+        <title>Kabar Arena Pagi</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205053000 +0000" channel="ANTV.vidio">
-        <title>Mega Bollywood : Rab Ne Bana Di Jodi</title>
+    <programme start="20241217233000 +0000" stop="20241218013000 +0000" channel="TVOne.vidio">
+        <title>Apa Kabar Indonesia Pagi</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205063000 +0000" channel="ANTV.vidio">
-        <title>Dua Hati Satu Cinta</title>
+    <programme start="20241218013000 +0000" stop="20241218023000 +0000" channel="TVOne.vidio">
+        <title>Kabar Utama Pagi</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205080000 +0000" channel="ANTV.vidio">
-        <title>Anupamaa</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="TVOne.vidio">
+        <title>Hidup Sehat</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205113000 +0000" channel="ANTV.vidio">
-        <title>Jatuh Cinta Inspektur Virat</title>
+    <programme start="20241218030000 +0000" stop="20241218033000 +0000" channel="TVOne.vidio">
+        <title>Inspirasi Pagi</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205133000 +0000" channel="ANTV.vidio">
-        <title>Aini Malaikat Tak Bersayap</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="TVOne.vidio">
+        <title>Ragam Perkara</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205153000 +0000" channel="ANTV.vidio">
-        <title>Sinema Laga Klasik : Pendekar Lembah Kuning</title>
+    <programme start="20241218040000 +0000" stop="20241218053000 +0000" channel="TVOne.vidio">
+        <title>Kabar Siang</title>
     </programme>
-    <programme start="20241205153000 +0000" stop="20241205173000 +0000" channel="ANTV.vidio">
-        <title>Jodoh Wasiat Bapak Babak 2</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="TVOne.vidio">
+        <title>Panggilan Baitullah</title>
+    </programme>
+    <programme start="20241218060000 +0000" stop="20241218073000 +0000" channel="TVOne.vidio">
+        <title>Apa Kabar Indonesia Siang</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="TVOne.vidio">
+        <title>Nusantara Terkini</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="TVOne.vidio">
+        <title>Kabar Pemilu</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="TVOne.vidio">
+        <title>Ragam Perkara</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218113000 +0000" channel="TVOne.vidio">
+        <title>Kabar Petang</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218130000 +0000" channel="TVOne.vidio">
+        <title>Apa Kabar Indonesia Malam</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="TVOne.vidio">
+        <title>Indonesia Business Forum</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218150000 +0000" channel="TVOne.vidio">
+        <title>Kabar Utama 2</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="TVOne.vidio">
+        <title>Panggilan Baitullah</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="TVOne.vidio">
+        <title>Idul Adha Di Tanah Suci</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218170000 +0000" channel="TVOne.vidio">
+        <title>Kabar Hari Ini</title>
     </programme>
     <programme start="20241205173000 +0000" stop="20241205190000 +0000" channel="ANTV.vidio">
         <title>Jodohku Warisan Bapak Babak 2</title>
@@ -4929,50 +4734,41 @@
     <programme start="20241217160000 +0000" stop="20241217180000 +0000" channel="ANTV.vidio">
         <title>Garis Tangan 2</title>
     </programme>
-    <programme start="20241204170500 +0000" stop="20241204173000 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
+    <programme start="20241217180000 +0000" stop="20241217203000 +0000" channel="ANTV.vidio">
+        <title>Memburu Misteri</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180500 +0000" channel="Metro TV.vidio">
-        <title>Prime Time News</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="ANTV.vidio">
+        <title>Inayah</title>
     </programme>
-    <programme start="20241204180500 +0000" stop="20241204183000 +0000" channel="Metro TV.vidio">
-        <title>Top News</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="ANTV.vidio">
+        <title>Senyum Iman</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190500 +0000" channel="Metro TV.vidio">
-        <title>Top News</title>
+    <programme start="20241217213000 +0000" stop="20241217223000 +0000" channel="ANTV.vidio">
+        <title>Sunny Bunnies</title>
     </programme>
-    <programme start="20241204190500 +0000" stop="20241204193000 +0000" channel="Metro TV.vidio">
-        <title>Top News</title>
+    <programme start="20241217223000 +0000" stop="20241218010000 +0000" channel="ANTV.vidio">
+        <title>Shiva</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200500 +0000" channel="Metro TV.vidio">
-        <title>Top News</title>
+    <programme start="20241218010000 +0000" stop="20241218023000 +0000" channel="ANTV.vidio">
+        <title>Masha and the Bear</title>
     </programme>
-    <programme start="20241204200500 +0000" stop="20241204203000 +0000" channel="Metro TV.vidio">
-        <title>Realitas</title>
+    <programme start="20241218023000 +0000" stop="20241218040000 +0000" channel="ANTV.vidio">
+        <title>Dakkila</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210500 +0000" channel="Metro TV.vidio">
-        <title>Gaspoll 30&quot;</title>
+    <programme start="20241218040000 +0000" stop="20241218070000 +0000" channel="ANTV.vidio">
+        <title>Jodha Akbar</title>
     </programme>
-    <programme start="20241204210500 +0000" stop="20241205010500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
+    <programme start="20241218070000 +0000" stop="20241218090000 +0000" channel="ANTV.vidio">
+        <title>Kasautii</title>
     </programme>
-    <programme start="20241205010500 +0000" stop="20241205060500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
+    <programme start="20241218090000 +0000" stop="20241218123000 +0000" channel="ANTV.vidio">
+        <title>Bhagya Lakshmi</title>
     </programme>
-    <programme start="20241205060500 +0000" stop="20241205080500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
+    <programme start="20241218123000 +0000" stop="20241218160000 +0000" channel="ANTV.vidio">
+        <title>Imlie</title>
     </programme>
-    <programme start="20241205080500 +0000" stop="20241205110500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
-    </programme>
-    <programme start="20241205110500 +0000" stop="20241205140500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
-    </programme>
-    <programme start="20241205140500 +0000" stop="20241205163000 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170500 +0000" channel="Metro TV.vidio">
-        <title>Quick Count Pilkada</title>
+    <programme start="20241218160000 +0000" stop="20241218180000 +0000" channel="ANTV.vidio">
+        <title>Garis Tangan 2</title>
     </programme>
     <programme start="20241205170500 +0000" stop="20241205210500 +0000" channel="Metro TV.vidio">
         <title>Quick Count Pilkada</title>
@@ -6381,53 +6177,47 @@
     <programme start="20241217163000 +0000" stop="20241217170500 +0000" channel="Metro TV.vidio">
         <title>Prime Time News</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="Kompas TV.vidio">
-        <title>Berita Utama</title>
+    <programme start="20241217170500 +0000" stop="20241217173000 +0000" channel="Metro TV.vidio">
+        <title>Prime Time News</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204220000 +0000" channel="Kompas TV.vidio">
-        <title>RB Leipzig vs. Eintracht Frankfurt : Deutsche Pokal Soccer</title>
+    <programme start="20241217173000 +0000" stop="20241217180500 +0000" channel="Metro TV.vidio">
+        <title>Prime Time News</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241205000000 +0000" channel="Kompas TV.vidio">
-        <title>Kompas Pagi</title>
+    <programme start="20241217180500 +0000" stop="20241217183000 +0000" channel="Metro TV.vidio">
+        <title>Top News</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="Kompas TV.vidio">
-        <title>Sapa Indonesia Pagi</title>
+    <programme start="20241217183000 +0000" stop="20241217190500 +0000" channel="Metro TV.vidio">
+        <title>Top News</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205040000 +0000" channel="Kompas TV.vidio">
-        <title>Mengawal Hasil Pilkada</title>
+    <programme start="20241217190500 +0000" stop="20241217193000 +0000" channel="Metro TV.vidio">
+        <title>Gaspoll</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205060000 +0000" channel="Kompas TV.vidio">
-        <title>Kompas Siang</title>
+    <programme start="20241217193000 +0000" stop="20241217200500 +0000" channel="Metro TV.vidio">
+        <title>Gaspoll</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="Kompas TV.vidio">
-        <title>Sapa Indonesia Siang</title>
+    <programme start="20241217200500 +0000" stop="20241217203000 +0000" channel="Metro TV.vidio">
+        <title>Realita</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="Kompas TV.vidio">
-        <title>Sasaran</title>
+    <programme start="20241217203000 +0000" stop="20241217210500 +0000" channel="Metro TV.vidio">
+        <title>Gaspoll 30&quot;</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Kompas TV.vidio">
-        <title>Indonesia Update</title>
+    <programme start="20241217210500 +0000" stop="20241217213000 +0000" channel="Metro TV.vidio">
+        <title>Metro Pagi Primetime</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="Kompas TV.vidio">
-        <title>Rumah Pilkada</title>
+    <programme start="20241217213000 +0000" stop="20241217220500 +0000" channel="Metro TV.vidio">
+        <title>Metro Pagi Primetime</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205103000 +0000" channel="Kompas TV.vidio">
-        <title>Kompas Petang</title>
+    <programme start="20241217220500 +0000" stop="20241217223000 +0000" channel="Metro TV.vidio">
+        <title>Metro Pagi Primetime</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205123000 +0000" channel="Kompas TV.vidio">
-        <title>Sapa Indonesia Malam</title>
+    <programme start="20241217223000 +0000" stop="20241217230500 +0000" channel="Metro TV.vidio">
+        <title>Metro Pagi Primetime</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205133000 +0000" channel="Kompas TV.vidio">
-        <title>Berita Utama</title>
+    <programme start="20241217230500 +0000" stop="20241217233000 +0000" channel="Metro TV.vidio">
+        <title>Metro Sport</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205143000 +0000" channel="Kompas TV.vidio">
-        <title>Rosi</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205153000 +0000" channel="Kompas TV.vidio">
-        <title>Kompas Malam</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205170000 +0000" channel="Kompas TV.vidio">
-        <title>Kilas Kompas</title>
+    <programme start="20241217233000 +0000" stop="20241218000500 +0000" channel="Metro TV.vidio">
+        <title>Go Healthy</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="Kompas TV.vidio">
         <title>Kompas Sport Malam</title>
@@ -7296,80 +7086,74 @@
     <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="Kompas TV.vidio">
         <title>Kilas Kompas</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="RTV.vidio">
-        <title>Jagoan Silat</title>
+    <programme start="20241217170000 +0000" stop="20241217173000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Sport Malam</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="RTV.vidio">
-        <title>Terang Kasih</title>
+    <programme start="20241217173000 +0000" stop="20241217183000 +0000" channel="Kompas TV.vidio">
+        <title>Indonesia Update</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204193000 +0000" channel="RTV.vidio">
-        <title>Sangat Tidak Biasa</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="Kompas TV.vidio">
+        <title>Bingkai Inspirasi</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204203000 +0000" channel="RTV.vidio">
-        <title>Top Trending</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="Kompas TV.vidio">
+        <title>Berita Utama</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="RTV.vidio">
-        <title>Omar &amp; Hana</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Malam</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="RTV.vidio">
-        <title>Mina Mila</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Sport Pagi</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="RTV.vidio">
-        <title>Ibra Berkisah</title>
+    <programme start="20241217213000 +0000" stop="20241218000000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Pagi</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="RTV.vidio">
-        <title>Riko The Series</title>
+    <programme start="20241218000000 +0000" stop="20241218023000 +0000" channel="Kompas TV.vidio">
+        <title>Sapa Indonesia Pagi</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205013000 +0000" channel="RTV.vidio">
-        <title>Adit Sopo Jarwo</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="Kompas TV.vidio">
+        <title>Bincang Kita</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205030000 +0000" channel="RTV.vidio">
-        <title>Super Wings</title>
+    <programme start="20241218030000 +0000" stop="20241218040000 +0000" channel="Kompas TV.vidio">
+        <title>Berita Utama</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="RTV.vidio">
-        <title>PJ Masks</title>
+    <programme start="20241218040000 +0000" stop="20241218060000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Siang</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="RTV.vidio">
-        <title>Tawa Satwa</title>
+    <programme start="20241218060000 +0000" stop="20241218070000 +0000" channel="Kompas TV.vidio">
+        <title>Sapa Indonesia Siang</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="RTV.vidio">
-        <title>Buck and Buddy</title>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="Kompas TV.vidio">
+        <title>Laporan Khusus</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205063000 +0000" channel="RTV.vidio">
-        <title>Boboiboy</title>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="Kompas TV.vidio">
+        <title>Rumah Pemilu</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205073000 +0000" channel="RTV.vidio">
-        <title>Pokmon Ultimate Journeys: The Series</title>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="Kompas TV.vidio">
+        <title>Indonesia Update</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205100000 +0000" channel="RTV.vidio">
-        <title>Ejen Ali</title>
+    <programme start="20241218090000 +0000" stop="20241218103000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Petang</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="RTV.vidio">
-        <title>Boboiboy Galaxy</title>
+    <programme start="20241218103000 +0000" stop="20241218123000 +0000" channel="Kompas TV.vidio">
+        <title>Sapa Indonesia Malam</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="RTV.vidio">
-        <title>Adit Sopo Jarwo</title>
+    <programme start="20241218123000 +0000" stop="20241218133000 +0000" channel="Kompas TV.vidio">
+        <title>Berita Utama</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205123000 +0000" channel="RTV.vidio">
-        <title>Boboiboy Galaxy</title>
+    <programme start="20241218133000 +0000" stop="20241218143000 +0000" channel="Kompas TV.vidio">
+        <title>Satu Meja The Forum</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205140000 +0000" channel="RTV.vidio">
-        <title>Mechamato</title>
+    <programme start="20241218143000 +0000" stop="20241218153000 +0000" channel="Kompas TV.vidio">
+        <title>Kompas Malam</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="RTV.vidio">
-        <title>Jejak Raja Jawa</title>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="Kompas TV.vidio">
+        <title>Sasaran</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="RTV.vidio">
-        <title>Kumprank</title>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Kompas TV.vidio">
+        <title>Berita Utama</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="RTV.vidio">
-        <title>Si Paling Trending</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="RTV.vidio">
-        <title>Lensa Indonesia Malam</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="RTV.vidio">
-        <title>Catatan Seputar Investigasi</title>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="Kompas TV.vidio">
+        <title>Kilas Kompas</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="RTV.vidio">
         <title>Jagoan Silat</title>
@@ -8118,113 +7902,23 @@
     <programme start="20241217150000 +0000" stop="20241217190000 +0000" channel="RTV.vidio">
         <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241217190000 +0000" stop="20241217230000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204190000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241217230000 +0000" stop="20241218030000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241218030000 +0000" stop="20241218070000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241218070000 +0000" stop="20241218110000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241218110000 +0000" stop="20241218150000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204213000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241204213000 +0000" stop="20241204230000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205013000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205020300 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205020300 +0000" stop="20241205023000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205030300 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205030300 +0000" stop="20241205033000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205040300 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205040300 +0000" stop="20241205050000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205070300 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205070300 +0000" stop="20241205073000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205080300 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205080300 +0000" stop="20241205090000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205140000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="TVRI.vidio">
-        <title>TVRI</title>
+    <programme start="20241218150000 +0000" stop="20241218223000 +0000" channel="RTV.vidio">
+        <title>SIGN OFF</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="TVRI.vidio">
         <title>TVRI</title>
@@ -9531,95 +9225,113 @@
     <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="TVRI.vidio">
         <title>TVRI</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="BTV.vidio">
-        <title>Film Pendek Indonesia</title>
+    <programme start="20241217170000 +0000" stop="20241217173000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204180300 +0000" channel="BTV.vidio">
-        <title>Tanah Airku</title>
+    <programme start="20241217173000 +0000" stop="20241217203000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204180300 +0000" stop="20241204190000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Siang</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Sore</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Malam</title>
+    <programme start="20241217213000 +0000" stop="20241217230000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="BTV.vidio">
-        <title>Berita Viral</title>
+    <programme start="20241217230000 +0000" stop="20241218000000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Pagi</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="BTV.vidio">
-        <title>Jalan Dakwah, Gus Miftah</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205004500 +0000" channel="BTV.vidio">
-        <title>Figur Publik</title>
+    <programme start="20241218020000 +0000" stop="20241218020300 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205004500 +0000" stop="20241205011500 +0000" channel="BTV.vidio">
-        <title>Masak Ala Devina Hermawan</title>
+    <programme start="20241218020300 +0000" stop="20241218023000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205011500 +0000" stop="20241205020000 +0000" channel="BTV.vidio">
-        <title>Info Seleb</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205024500 +0000" channel="BTV.vidio">
-        <title>Dunia Rans</title>
+    <programme start="20241218030000 +0000" stop="20241218030300 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205024500 +0000" stop="20241205033000 +0000" channel="BTV.vidio">
-        <title>Berita Viral</title>
+    <programme start="20241218030300 +0000" stop="20241218033000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205043000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Siang</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205053000 +0000" channel="BTV.vidio">
-        <title>Jalan Dakwah, Gus Miftah</title>
+    <programme start="20241218040000 +0000" stop="20241218040300 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205061500 +0000" channel="BTV.vidio">
-        <title>Figur Publik</title>
+    <programme start="20241218040300 +0000" stop="20241218050000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205061500 +0000" stop="20241205064500 +0000" channel="BTV.vidio">
-        <title>Dunia Rans</title>
+    <programme start="20241218050000 +0000" stop="20241218060000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205064500 +0000" stop="20241205073000 +0000" channel="BTV.vidio">
-        <title>Info Seleb</title>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="BTV.vidio">
-        <title>Vacation List</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="BTV.vidio">
-        <title>Dunia Binatang</title>
+    <programme start="20241218070000 +0000" stop="20241218070300 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205100000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Sore</title>
+    <programme start="20241218070300 +0000" stop="20241218073000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Utama</title>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="BTV.vidio">
-        <title>Berita Viral</title>
+    <programme start="20241218080000 +0000" stop="20241218080300 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205124500 +0000" channel="BTV.vidio">
-        <title>Info Seleb</title>
+    <programme start="20241218080300 +0000" stop="20241218083000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205124500 +0000" stop="20241205133000 +0000" channel="BTV.vidio">
-        <title>Figur Publik</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="BTV.vidio">
-        <title>Berita Viral</title>
+    <programme start="20241218090000 +0000" stop="20241218100000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="BTV.vidio">
-        <title>Jendela Dunia</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="BTV.vidio">
-        <title>Berita Satu Malam</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="BTV.vidio">
-        <title>Mitos</title>
+    <programme start="20241218110000 +0000" stop="20241218120000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205173000 +0000" channel="BTV.vidio">
-        <title>ONE Vault</title>
+    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="TVRI.vidio">
+        <title>TVRI</title>
     </programme>
     <programme start="20241205173000 +0000" stop="20241205180000 +0000" channel="BTV.vidio">
         <title>Film Pendek Indonesia</title>
@@ -10737,65 +10449,104 @@
     <programme start="20241217160000 +0000" stop="20241217170000 +0000" channel="BTV.vidio">
         <title>One Championship</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="NET TV.vidio">
-        <title>MatiAnak</title>
+    <programme start="20241217170000 +0000" stop="20241217170500 +0000" channel="BTV.vidio">
+        <title>Berita Satu Terkini</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="NET TV.vidio">
-        <title>Jurrnal UFC</title>
+    <programme start="20241217170500 +0000" stop="20241217180000 +0000" channel="BTV.vidio">
+        <title>Delta</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="NET TV.vidio">
-        <title>I See Dead People</title>
+    <programme start="20241217180000 +0000" stop="20241217180300 +0000" channel="BTV.vidio">
+        <title>Lagu Tanah Airku</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="NET TV.vidio">
-        <title>The Empire</title>
+    <programme start="20241217180300 +0000" stop="20241217190000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Sore</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="NET TV.vidio">
-        <title>Di Balik Mitos</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Utama</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="NET TV.vidio">
-        <title>Hikmah Di Balik Kisah</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Malam</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="NET TV.vidio">
-        <title>Top Spot</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="BTV.vidio">
+        <title>Sportainment</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="NET TV.vidio">
-        <title>Aadd (Ada Apa Dengan Dunia)</title>
+    <programme start="20241217213000 +0000" stop="20241217230000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Pagi</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="NET TV.vidio">
-        <title>Fakta +62</title>
+    <programme start="20241217230000 +0000" stop="20241218000000 +0000" channel="BTV.vidio">
+        <title>Asal Usul</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="NET TV.vidio">
-        <title>The Last Empress</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="BTV.vidio">
+        <title>Obrolan Pagi</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="NET TV.vidio">
-        <title>My Roommate Is a Gumiho</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="BTV.vidio">
+        <title>Figur Publik</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="NET TV.vidio">
-        <title>Makan Enak</title>
+    <programme start="20241218020000 +0000" stop="20241218020500 +0000" channel="BTV.vidio">
+        <title>Berita Satu Terkini</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="NET TV.vidio">
-        <title>Masak Gesss!!!</title>
+    <programme start="20241218020500 +0000" stop="20241218023000 +0000" channel="BTV.vidio">
+        <title>Endeus</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="NET TV.vidio">
-        <title>Detective Conan</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="BTV.vidio">
+        <title>Nyari Makan</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205090000 +0000" channel="NET TV.vidio">
-        <title>Shinbi&#039;s House</title>
+    <programme start="20241218030000 +0000" stop="20241218034500 +0000" channel="BTV.vidio">
+        <title>Jendela Dunia</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="NET TV.vidio">
-        <title>Tendangan Si Madun</title>
+    <programme start="20241218034500 +0000" stop="20241218040000 +0000" channel="BTV.vidio">
+        <title>Catatan Kriminal</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="NET TV.vidio">
-        <title>Hikmah</title>
+    <programme start="20241218040000 +0000" stop="20241218050000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Siang</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205130000 +0000" channel="NET TV.vidio">
-        <title>Antara Cinta Dan Dusta</title>
+    <programme start="20241218050000 +0000" stop="20241218060000 +0000" channel="BTV.vidio">
+        <title>Jalan Dakwah Bersama Gus Miftah</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205150000 +0000" channel="NET TV.vidio">
-        <title>Cinta Fitri</title>
+    <programme start="20241218060000 +0000" stop="20241218060500 +0000" channel="BTV.vidio">
+        <title>Berita Satu Terkini</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205170000 +0000" channel="NET TV.vidio">
-        <title>Perjanjian Dengan Iblis</title>
+    <programme start="20241218060500 +0000" stop="20241218070000 +0000" channel="BTV.vidio">
+        <title>Berita Viral</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218080000 +0000" channel="BTV.vidio">
+        <title>Sinema Multivision</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218080500 +0000" channel="BTV.vidio">
+        <title>Berita Satu Terkini</title>
+    </programme>
+    <programme start="20241218080500 +0000" stop="20241218083000 +0000" channel="BTV.vidio">
+        <title>Sinema Multivision</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218085500 +0000" channel="BTV.vidio">
+        <title>Asal Usul</title>
+    </programme>
+    <programme start="20241218085500 +0000" stop="20241218102500 +0000" channel="BTV.vidio">
+        <title>Berita Satu Sore</title>
+    </programme>
+    <programme start="20241218102500 +0000" stop="20241218113000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Utama</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218121500 +0000" channel="BTV.vidio">
+        <title>Jendela Dunia</title>
+    </programme>
+    <programme start="20241218121500 +0000" stop="20241218122000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Terkini</title>
+    </programme>
+    <programme start="20241218122000 +0000" stop="20241218130000 +0000" channel="BTV.vidio">
+        <title>Asal Usul</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218143000 +0000" channel="BTV.vidio">
+        <title>Sinema Multivision</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="BTV.vidio">
+        <title>Sportainment</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="BTV.vidio">
+        <title>Berita Satu Malam</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218170000 +0000" channel="BTV.vidio">
+        <title>One Championship</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="NET TV.vidio">
         <title>Fenomena</title>
@@ -11532,71 +11283,23 @@
     <programme start="20241217163000 +0000" stop="20241217173000 +0000" channel="NET TV.vidio">
         <title>Jatanras</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="Jaktv.vidio">
-        <title>Medika Natura</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="NET TV.vidio">
+        <title>One Championship Warrior</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="Jaktv.vidio">
-        <title>Inovator</title>
+    <programme start="20241217180000 +0000" stop="20241217190000 +0000" channel="NET TV.vidio">
+        <title>Jejak Peristiwa</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="Jaktv.vidio">
-        <title>Cooking Time</title>
+    <programme start="20241217190000 +0000" stop="20241217213000 +0000" channel="NET TV.vidio">
+        <title>Soccer</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Jaktv.vidio">
-        <title>Lejel</title>
+    <programme start="20241217213000 +0000" stop="20241217223000 +0000" channel="NET TV.vidio">
+        <title>Ok Food</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Jaktv.vidio">
-        <title>Lejel</title>
+    <programme start="20241217223000 +0000" stop="20241217233000 +0000" channel="NET TV.vidio">
+        <title>Status Selebriti</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="Jaktv.vidio">
-        <title>Creative Talk</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="Jaktv.vidio">
-        <title>Dunia Kita</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="Jaktv.vidio">
-        <title>Herbates</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="Jaktv.vidio">
-        <title>Shop Vitgreenz</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="Jaktv.vidio">
-        <title>Berkah Shop</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="Jaktv.vidio">
-        <title>Animal Action</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Jaktv.vidio">
-        <title>Kiddie World</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="Jaktv.vidio">
-        <title>Berkah Shop</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Jaktv.vidio">
-        <title>Piala Presiden</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="Jaktv.vidio">
-        <title>Terapi Garang Arang</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="Jaktv.vidio">
-        <title>Power Of Soul</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="Jaktv.vidio">
-        <title>Galeri Publik</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="Jaktv.vidio">
-        <title>Terapi Garang Arang</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="Jaktv.vidio">
-        <title>Herbates</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="Jaktv.vidio">
-        <title>Kabar Misteri</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Jaktv.vidio">
-        <title>Podcast Noice</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205230000 +0000" channel="Jaktv.vidio">
-        <title>Retro Hour</title>
+    <programme start="20241217233000 +0000" stop="20241218003000 +0000" channel="NET TV.vidio">
+        <title>Di Balik Mitos</title>
     </programme>
     <programme start="20241205230000 +0000" stop="20241206000000 +0000" channel="Jaktv.vidio">
         <title>Medika Natura</title>
@@ -12390,107 +12093,8 @@
     <programme start="20241217163000 +0000" stop="20241217230000 +0000" channel="Jaktv.vidio">
         <title>Retro Hour</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="DAAI TV.vidio">
-        <title>Galeri Hijau</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241204231500 +0000" channel="DAAI TV.vidio">
-        <title>DAAI Inspirasi</title>
-    </programme>
-    <programme start="20241204231500 +0000" stop="20241204233000 +0000" channel="DAAI TV.vidio">
-        <title>Lentera Kehidupan</title>
-    </programme>
-    <programme start="20241204233000 +0000" stop="20241204234500 +0000" channel="DAAI TV.vidio">
-        <title>Master Cheng Yen Bercerita</title>
-    </programme>
-    <programme start="20241204234500 +0000" stop="20241205000000 +0000" channel="DAAI TV.vidio">
-        <title>Kartun Petualangan Xiao Li Zi</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="DAAI TV.vidio">
-        <title>Dr. Panda</title>
-    </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="DAAI TV.vidio">
-        <title>Poppy Cat</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205013000 +0000" channel="DAAI TV.vidio">
-        <title>Clifford</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="DAAI TV.vidio">
-        <title>Peace of Mind</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205023000 +0000" channel="DAAI TV.vidio">
-        <title>Bumiku Satu</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="DAAI TV.vidio">
-        <title>Dapur Mama</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="DAAI TV.vidio">
-        <title>Bincang Sehati</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="DAAI TV.vidio">
-        <title>Simfoni Kehidupan : Drama Kisah Nyata</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="DAAI TV.vidio">
-        <title>Halo Indonesia</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="DAAI TV.vidio">
-        <title>Tips &amp; Trik</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="DAAI TV.vidio">
-        <title>Jakarta</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="DAAI TV.vidio">
-        <title>Bingkai Sumatera</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="DAAI TV.vidio">
-        <title>Sehat Ala Timur</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="DAAI TV.vidio">
-        <title>Super Mama : Drama Kisah Nyata</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="DAAI TV.vidio">
-        <title>Keliling Dunia Anak</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205094500 +0000" channel="DAAI TV.vidio">
-        <title>Funsciene</title>
-    </programme>
-    <programme start="20241205094500 +0000" stop="20241205100000 +0000" channel="DAAI TV.vidio">
-        <title>Pablo</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="DAAI TV.vidio">
-        <title>Clifford</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="DAAI TV.vidio">
-        <title>Poppy Cat</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="DAAI TV.vidio">
-        <title>Dr. Panda</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="DAAI TV.vidio">
-        <title>Dapur Mama</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="DAAI TV.vidio">
-        <title>Potret</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="DAAI TV.vidio">
-        <title>Nusantara</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="DAAI TV.vidio">
-        <title>Super Mama : Drama Kisah Nyata</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="DAAI TV.vidio">
-        <title>Simfoni Kehidupan : Drama Kisah Nyata</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205151500 +0000" channel="DAAI TV.vidio">
-        <title>Lentera Kehidupan</title>
-    </programme>
-    <programme start="20241205151500 +0000" stop="20241205153000 +0000" channel="DAAI TV.vidio">
-        <title>DAAI Inspirasi</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="DAAI TV.vidio">
-        <title>Bumiku Satu</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205223000 +0000" channel="DAAI TV.vidio">
-        <title>Halo Indonesia</title>
+    <programme start="20241217230000 +0000" stop="20241218000000 +0000" channel="Jaktv.vidio">
+        <title>Medika Natura</title>
     </programme>
     <programme start="20241205223000 +0000" stop="20241205230000 +0000" channel="DAAI TV.vidio">
         <title>Galeri Hijau</title>
@@ -13704,77 +13308,107 @@
     <programme start="20241217160000 +0000" stop="20241217223000 +0000" channel="DAAI TV.vidio">
         <title>Halo Indonesia</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Crime</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="DAAI TV.vidio">
+        <title>Galeri Hijau</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="Nusantara TV.vidio">
-        <title>A Shop</title>
+    <programme start="20241217230000 +0000" stop="20241217231500 +0000" channel="DAAI TV.vidio">
+        <title>DAAI Inspirasi</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Sport</title>
+    <programme start="20241217231500 +0000" stop="20241217233000 +0000" channel="DAAI TV.vidio">
+        <title>Lentera Kehidupan</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Election</title>
+    <programme start="20241217233000 +0000" stop="20241217234500 +0000" channel="DAAI TV.vidio">
+        <title>Master Cheng Yen Bercerita</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="Nusantara TV.vidio">
-        <title>A Shop</title>
+    <programme start="20241217234500 +0000" stop="20241218000000 +0000" channel="DAAI TV.vidio">
+        <title>Kartun Petualangan Xiao Li Zi</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Crime</title>
+    <programme start="20241218000000 +0000" stop="20241218003000 +0000" channel="DAAI TV.vidio">
+        <title>Dr. Panda</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205003000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Morning</title>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="DAAI TV.vidio">
+        <title>Poppy Cat</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="Nusantara TV.vidio">
-        <title>Jelajah Rasa</title>
+    <programme start="20241218010000 +0000" stop="20241218013000 +0000" channel="DAAI TV.vidio">
+        <title>Clifford</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Nusantara TV.vidio">
-        <title>Ooh I See</title>
+    <programme start="20241218013000 +0000" stop="20241218020000 +0000" channel="DAAI TV.vidio">
+        <title>Peace of Mind</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205023000 +0000" channel="Nusantara TV.vidio">
-        <title>Kok Bisa Viral</title>
+    <programme start="20241218020000 +0000" stop="20241218023000 +0000" channel="DAAI TV.vidio">
+        <title>Bumiku Satu</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="Nusantara TV.vidio">
-        <title>Jelajah Rasa</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="DAAI TV.vidio">
+        <title>Dapur Mama</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="Nusantara TV.vidio">
-        <title>Celebrity Fresh</title>
+    <programme start="20241218030000 +0000" stop="20241218040000 +0000" channel="DAAI TV.vidio">
+        <title>Bincang Sehati</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Today</title>
+    <programme start="20241218040000 +0000" stop="20241218050000 +0000" channel="DAAI TV.vidio">
+        <title>Stay for Love : Drama Kisah Nyata</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205063000 +0000" channel="Nusantara TV.vidio">
-        <title>Soundcore Dangdut</title>
+    <programme start="20241218050000 +0000" stop="20241218060000 +0000" channel="DAAI TV.vidio">
+        <title>Halo Indonesia</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205073000 +0000" channel="Nusantara TV.vidio">
-        <title>Celebrity Fresh</title>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="DAAI TV.vidio">
+        <title>Tips &amp; Trik</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205083000 +0000" channel="Nusantara TV.vidio">
-        <title>Kok Bisa Viral</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="DAAI TV.vidio">
+        <title>Jakarta</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Today</title>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="DAAI TV.vidio">
+        <title>Bingkai Sumatera</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Crime</title>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="DAAI TV.vidio">
+        <title>Sehat Ala Timur</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205120000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Prime</title>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="DAAI TV.vidio">
+        <title>Super Mama : Drama Kisah Nyata</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Election</title>
+    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="DAAI TV.vidio">
+        <title>Keliling Dunia Anak</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="Nusantara TV.vidio">
-        <title>The Doncaster Open Highlights</title>
+    <programme start="20241218093000 +0000" stop="20241218094500 +0000" channel="DAAI TV.vidio">
+        <title>Funsciene</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Sport</title>
+    <programme start="20241218094500 +0000" stop="20241218100000 +0000" channel="DAAI TV.vidio">
+        <title>Pablo</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="Nusantara TV.vidio">
-        <title>NTV Tonight</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="DAAI TV.vidio">
+        <title>Clifford</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="Nusantara TV.vidio">
-        <title>Kok Bisa Viral</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="DAAI TV.vidio">
+        <title>Poppy Cat</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="DAAI TV.vidio">
+        <title>Dr. Panda</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="DAAI TV.vidio">
+        <title>Dapur Mama</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218123000 +0000" channel="DAAI TV.vidio">
+        <title>Potret</title>
+    </programme>
+    <programme start="20241218123000 +0000" stop="20241218130000 +0000" channel="DAAI TV.vidio">
+        <title>Nusantara</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="DAAI TV.vidio">
+        <title>Super Mama : Drama Kisah Nyata</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218150000 +0000" channel="DAAI TV.vidio">
+        <title>Stay for Love : Drama Kisah Nyata</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218151500 +0000" channel="DAAI TV.vidio">
+        <title>Lentera Kehidupan</title>
+    </programme>
+    <programme start="20241218151500 +0000" stop="20241218153000 +0000" channel="DAAI TV.vidio">
+        <title>DAAI Inspirasi</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="DAAI TV.vidio">
+        <title>Nusantara</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218223000 +0000" channel="DAAI TV.vidio">
+        <title>Halo Indonesia</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="Nusantara TV.vidio">
         <title>NTV Crime</title>
@@ -14646,92 +14280,104 @@
     <programme start="20241217163000 +0000" stop="20241217190000 +0000" channel="Nusantara TV.vidio">
         <title>NTV Sport</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204190000 +0000" channel="jawaposTV.vidio">
-        <title>Inspirasi Kita</title>
+    <programme start="20241217190000 +0000" stop="20241217193000 +0000" channel="Nusantara TV.vidio">
+        <title>Zona Islam</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="jawaposTV.vidio">
-        <title>Msica Hits</title>
+    <programme start="20241217193000 +0000" stop="20241217203000 +0000" channel="Nusantara TV.vidio">
+        <title>Soundcore</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="jawaposTV.vidio">
-        <title>Carita</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="Nusantara TV.vidio">
+        <title>Kisah - Kisah Masjid Tua</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="jawaposTV.vidio">
-        <title>Setapak</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="Nusantara TV.vidio">
+        <title>Zona Islam</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="jawaposTV.vidio">
-        <title>Jelajah Masjid Nusantara</title>
+    <programme start="20241217213000 +0000" stop="20241217223000 +0000" channel="Nusantara TV.vidio">
+        <title>Ashop Matras Dana Bio Sun 3s</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="jawaposTV.vidio">
-        <title>Bebeja</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="Nusantara TV.vidio">
+        <title>World In 30 Minutes</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204225700 +0000" channel="jawaposTV.vidio">
-        <title>Bintang Lapangan</title>
+    <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="Nusantara TV.vidio">
+        <title>Nusantara Pagi</title>
     </programme>
-    <programme start="20241204225700 +0000" stop="20241204230000 +0000" channel="jawaposTV.vidio">
-        <title>Indonesia Raya</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Nusantara TV.vidio">
+        <title>Kartunika</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205020000 +0000" channel="jawaposTV.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="Nusantara TV.vidio">
+        <title>Classic Cartoon</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="jawaposTV.vidio">
-        <title>Global Home Shop</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="Nusantara TV.vidio">
+        <title>Ashop Gilmore</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="jawaposTV.vidio">
-        <title>Berkah Home Shopping</title>
+    <programme start="20241218020000 +0000" stop="20241218023000 +0000" channel="Nusantara TV.vidio">
+        <title>Jelajah Rasa</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="jawaposTV.vidio">
-        <title>Global Home Shop</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="Nusantara TV.vidio">
+        <title>Cerita Dari Asia</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="jawaposTV.vidio">
-        <title>Nusantara Kini</title>
+    <programme start="20241218030000 +0000" stop="20241218030200 +0000" channel="Nusantara TV.vidio">
+        <title>Sekilas Nusantara</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="jawaposTV.vidio">
-        <title>Berkah Home Shopping</title>
+    <programme start="20241218030200 +0000" stop="20241218033000 +0000" channel="Nusantara TV.vidio">
+        <title>Cerita Dari Asia</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="jawaposTV.vidio">
-        <title>Bebeja</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="Nusantara TV.vidio">
+        <title>FTV Acffest KPK</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="jawaposTV.vidio">
-        <title>Untuk Perempuan</title>
+    <programme start="20241218040000 +0000" stop="20241218050000 +0000" channel="Nusantara TV.vidio">
+        <title>Nusantara Siang</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="jawaposTV.vidio">
-        <title>Badanamu</title>
+    <programme start="20241218050000 +0000" stop="20241218070000 +0000" channel="Nusantara TV.vidio">
+        <title>Soundcore</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="jawaposTV.vidio">
-        <title>Badanamu</title>
+    <programme start="20241218070000 +0000" stop="20241218080000 +0000" channel="Nusantara TV.vidio">
+        <title>Sekilas Nusantara</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="jawaposTV.vidio">
-        <title>Bintang Lapangan</title>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="Nusantara TV.vidio">
+        <title>Classic Cartoon</title>
     </programme>
-    <programme start="20241205093000 +0000" stop="20241205103000 +0000" channel="jawaposTV.vidio">
-        <title>Global Home Shop</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="Nusantara TV.vidio">
+        <title>Kartunika</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="jawaposTV.vidio">
-        <title>Ini Jakarta</title>
+    <programme start="20241218090000 +0000" stop="20241218100000 +0000" channel="Nusantara TV.vidio">
+        <title>Super Bollywood</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="jawaposTV.vidio">
-        <title>Bebeja</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="Nusantara TV.vidio">
+        <title>Up to Date Yuk</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="jawaposTV.vidio">
-        <title>Carita</title>
+    <programme start="20241218103000 +0000" stop="20241218113000 +0000" channel="Nusantara TV.vidio">
+        <title>Nusantara Petang</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="jawaposTV.vidio">
-        <title>Nusantara Kini</title>
+    <programme start="20241218113000 +0000" stop="20241218123000 +0000" channel="Nusantara TV.vidio">
+        <title>Super Bollywood</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="jawaposTV.vidio">
-        <title>Khazanah Indonesia</title>
+    <programme start="20241218123000 +0000" stop="20241218130000 +0000" channel="Nusantara TV.vidio">
+        <title>Kok Bisa Viral</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="jawaposTV.vidio">
-        <title>Untuk Perempuan</title>
+    <programme start="20241218130000 +0000" stop="20241218130200 +0000" channel="Nusantara TV.vidio">
+        <title>Sekilas Nusantara</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="jawaposTV.vidio">
-        <title>Ini Jakarta</title>
+    <programme start="20241218130200 +0000" stop="20241218133000 +0000" channel="Nusantara TV.vidio">
+        <title>Kok Bisa Viral</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="jawaposTV.vidio">
-        <title>Msica Hits</title>
+    <programme start="20241218133000 +0000" stop="20241218143000 +0000" channel="Nusantara TV.vidio">
+        <title>Web Series Asia</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="jawaposTV.vidio">
-        <title>Nusantara Kini</title>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="Nusantara TV.vidio">
+        <title>Mata Dunia</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="Nusantara TV.vidio">
+        <title>Nusantara Malam</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="Nusantara TV.vidio">
+        <title>Editor Choice</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Nusantara TV.vidio">
+        <title>Apa Kata Dunia</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218190000 +0000" channel="Nusantara TV.vidio">
+        <title>NTV Sport</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205190000 +0000" channel="jawaposTV.vidio">
         <title>Inspirasi Kita</title>
@@ -15747,125 +15393,92 @@
     <programme start="20241217160000 +0000" stop="20241217170000 +0000" channel="jawaposTV.vidio">
         <title>Nusantara Kini</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204170300 +0000" channel="JTV.vidio">
-        <title>Lagu Bagimu Negeri</title>
+    <programme start="20241217170000 +0000" stop="20241217190000 +0000" channel="jawaposTV.vidio">
+        <title>Inspirasi Kita</title>
     </programme>
-    <programme start="20241204170300 +0000" stop="20241204170800 +0000" channel="JTV.vidio">
-        <title>Station ID JTV</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="jawaposTV.vidio">
+        <title>Msica Hits</title>
     </programme>
-    <programme start="20241204170800 +0000" stop="20241204180000 +0000" channel="JTV.vidio">
-        <title>Power Of Soul</title>
+    <programme start="20241217200000 +0000" stop="20241217203000 +0000" channel="jawaposTV.vidio">
+        <title>Carita</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="JTV.vidio">
-        <title>Musica Hits</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="jawaposTV.vidio">
+        <title>Setapak</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="JTV.vidio">
-        <title>Stasiun Dangdut</title>
-    </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="JTV.vidio">
-        <title>Ilir - Ilir</title>
-    </programme>
-    <programme start="20241204210000 +0000" stop="20241204215700 +0000" channel="JTV.vidio">
-        <title>Nusantara Kini</title>
-    </programme>
-    <programme start="20241204215700 +0000" stop="20241204220000 +0000" channel="JTV.vidio">
-        <title>Filler LMI</title>
-    </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="JTV.vidio">
-        <title>VISOSPECT : Dialog Kesehatan</title>
-    </programme>
-    <programme start="20241204223000 +0000" stop="20241204225700 +0000" channel="JTV.vidio">
-        <title>Dialog Kesehatan Remastop</title>
-    </programme>
-    <programme start="20241204225700 +0000" stop="20241204230000 +0000" channel="JTV.vidio">
-        <title>Indonesia Raya</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="JTV.vidio">
-        <title>SEA Morning Show</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="JTV.vidio">
-        <title>Seni Pertunjukan</title>
-    </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="JTV.vidio">
-        <title>Jelajah Kuliner</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205030000 +0000" channel="JTV.vidio">
-        <title>Jawa Pos Update</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205030300 +0000" channel="JTV.vidio">
-        <title>Filler LMI</title>
-    </programme>
-    <programme start="20241205030300 +0000" stop="20241205033000 +0000" channel="JTV.vidio">
-        <title>Pojok Arena</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="JTV.vidio">
-        <title>Jatim Awan</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="JTV.vidio">
-        <title>Belajar Baik</title>
-    </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="JTV.vidio">
-        <title>Program Kesehatan Prosifa</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="JTV.vidio">
-        <title>Stasiun Dangdut</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="JTV.vidio">
-        <title>Nusantara Kini</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205063300 +0000" channel="JTV.vidio">
-        <title>Berita Gress</title>
-    </programme>
-    <programme start="20241205063300 +0000" stop="20241205065700 +0000" channel="JTV.vidio">
-        <title>Nusantara Kini</title>
-    </programme>
-    <programme start="20241205065700 +0000" stop="20241205070000 +0000" channel="JTV.vidio">
-        <title>Filler LMI</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205080000 +0000" channel="JTV.vidio">
-        <title>Herbates : Program Kesehatan</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="JTV.vidio">
-        <title>Cerita Wastra</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="JTV.vidio">
-        <title>Ngaji Blusukan</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205090300 +0000" channel="JTV.vidio">
-        <title>Berita Gress</title>
-    </programme>
-    <programme start="20241205090300 +0000" stop="20241205093000 +0000" channel="JTV.vidio">
-        <title>Ngaji Blusukan</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="JTV.vidio">
-        <title>Program Kesehatan Bio Netra</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="JTV.vidio">
-        <title>VISOSPECT : Dialog Kesehatan</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="JTV.vidio">
-        <title>Program Kesehatan Bio 99</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="JTV.vidio">
+    <programme start="20241217210000 +0000" stop="20241217220000 +0000" channel="jawaposTV.vidio">
         <title>Jelajah Masjid Nusantara</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="JTV.vidio">
-        <title>Pojok Pitu</title>
+    <programme start="20241217220000 +0000" stop="20241217223000 +0000" channel="jawaposTV.vidio">
+        <title>Bebeja</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="JTV.vidio">
-        <title>Solusi Bisnis</title>
+    <programme start="20241217223000 +0000" stop="20241217225700 +0000" channel="jawaposTV.vidio">
+        <title>Bintang Lapangan</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="JTV.vidio">
-        <title>Pojok Kampung</title>
+    <programme start="20241217225700 +0000" stop="20241217230000 +0000" channel="jawaposTV.vidio">
+        <title>Indonesia Raya</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="JTV.vidio">
-        <title>Vitgo : Program Kesehatan</title>
+    <programme start="20241217230000 +0000" stop="20241218020000 +0000" channel="jawaposTV.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="JTV.vidio">
-        <title>Napak Tilas</title>
+    <programme start="20241218020000 +0000" stop="20241218030000 +0000" channel="jawaposTV.vidio">
+        <title>Global Home Shop</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="JTV.vidio">
-        <title>Ampun DJ</title>
+    <programme start="20241218030000 +0000" stop="20241218040000 +0000" channel="jawaposTV.vidio">
+        <title>Berkah Home Shopping</title>
+    </programme>
+    <programme start="20241218040000 +0000" stop="20241218050000 +0000" channel="jawaposTV.vidio">
+        <title>Global Home Shop</title>
+    </programme>
+    <programme start="20241218050000 +0000" stop="20241218060000 +0000" channel="jawaposTV.vidio">
+        <title>Nusantara Kini</title>
+    </programme>
+    <programme start="20241218060000 +0000" stop="20241218070000 +0000" channel="jawaposTV.vidio">
+        <title>Berkah Home Shopping</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="jawaposTV.vidio">
+        <title>Bebeja</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="jawaposTV.vidio">
+        <title>Untuk Perempuan</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="jawaposTV.vidio">
+        <title>Badanamu</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="jawaposTV.vidio">
+        <title>Badanamu</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="jawaposTV.vidio">
+        <title>Bintang Lapangan</title>
+    </programme>
+    <programme start="20241218093000 +0000" stop="20241218103000 +0000" channel="jawaposTV.vidio">
+        <title>Global Home Shop</title>
+    </programme>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="jawaposTV.vidio">
+        <title>Ini Jakarta</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="jawaposTV.vidio">
+        <title>Bebeja</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="jawaposTV.vidio">
+        <title>Carita</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="jawaposTV.vidio">
+        <title>Nusantara Kini</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="jawaposTV.vidio">
+        <title>Yuliandre Darwis Open House</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="jawaposTV.vidio">
+        <title>Untuk Perempuan</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="jawaposTV.vidio">
+        <title>Ini Jakarta</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="jawaposTV.vidio">
+        <title>Msica Hits</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218170000 +0000" channel="jawaposTV.vidio">
+        <title>Nusantara Kini</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205170300 +0000" channel="JTV.vidio">
         <title>Lagu Bagimu Negeri</title>
@@ -17319,104 +16932,41 @@
     <programme start="20241217163300 +0000" stop="20241217170000 +0000" channel="JTV.vidio">
         <title>Jurit Malam</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="Elshinta TV.vidio">
-        <title>Jalan - Jalan</title>
+    <programme start="20241217170000 +0000" stop="20241217170500 +0000" channel="JTV.vidio">
+        <title>Lagu Nasional</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="Elshinta TV.vidio">
-        <title>Risalah Iman</title>
+    <programme start="20241217170500 +0000" stop="20241217170800 +0000" channel="JTV.vidio">
+        <title>Station ID JTV</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204180500 +0000" channel="Elshinta TV.vidio">
-        <title>Lagu Tanah Airku</title>
+    <programme start="20241217170800 +0000" stop="20241217180000 +0000" channel="JTV.vidio">
+        <title>Menek Blimbing</title>
     </programme>
-    <programme start="20241204180500 +0000" stop="20241204181500 +0000" channel="Elshinta TV.vidio">
-        <title>Bumper Still : Kami Akan Kembali Pukul</title>
+    <programme start="20241217180000 +0000" stop="20241217180200 +0000" channel="JTV.vidio">
+        <title>Ngopi Sek</title>
     </programme>
-    <programme start="20241204181500 +0000" stop="20241204183000 +0000" channel="Elshinta TV.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241217180200 +0000" stop="20241217190000 +0000" channel="JTV.vidio">
+        <title>Nusantara Kini</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204215500 +0000" channel="Elshinta TV.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="JTV.vidio">
+        <title>Stasiun Dangdut</title>
     </programme>
-    <programme start="20241204215500 +0000" stop="20241204220000 +0000" channel="Elshinta TV.vidio">
-        <title>Lagu Indonesia Raya</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="JTV.vidio">
+        <title>Ilir - Ilir</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="Elshinta TV.vidio">
-        <title>Risalah Iman</title>
+    <programme start="20241217210000 +0000" stop="20241217220000 +0000" channel="JTV.vidio">
+        <title>Musica Hits</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="Elshinta TV.vidio">
-        <title>Jakarta Jakarta</title>
+    <programme start="20241217220000 +0000" stop="20241217225000 +0000" channel="JTV.vidio">
+        <title>Ngaji Blusukan</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="Elshinta TV.vidio">
-        <title>Komunitas</title>
+    <programme start="20241217225000 +0000" stop="20241217225500 +0000" channel="JTV.vidio">
+        <title>Station ID JTV</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="Elshinta TV.vidio">
-        <title>Bumbu Dapoer</title>
+    <programme start="20241217225500 +0000" stop="20241217230000 +0000" channel="JTV.vidio">
+        <title>Lagu Kebangsaan Indonesia Raya</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Nyaman - Lejel Shopping</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Berkah</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Elshinta TV.vidio">
-        <title>Dokterku</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Berkah</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Nyaman - Lejel Shopping</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="Elshinta TV.vidio">
-        <title>Ayo Shop Forsta</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205063000 +0000" channel="Elshinta TV.vidio">
-        <title>Kiat Sehat - Madu Hijau</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="Elshinta TV.vidio">
-        <title>Bilik Sehat</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="Elshinta TV.vidio">
-        <title>Ayo Shop Forsta</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Elshinta TV.vidio">
-        <title>Inovator</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="Elshinta TV.vidio">
-        <title>Teras Sore</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Nyaman - Lejel Shopping</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="Elshinta TV.vidio">
-        <title>Kiat Sehat - Madu Hijau</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205120000 +0000" channel="Elshinta TV.vidio">
-        <title>Dokterku</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="Elshinta TV.vidio">
-        <title>Kiat Sehat - Madu Hijau</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205133000 +0000" channel="Elshinta TV.vidio">
-        <title>Jakarta Jakarta</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205143000 +0000" channel="Elshinta TV.vidio">
-        <title>Teras Sore</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="Elshinta TV.vidio">
-        <title>Ayo Shop Forsta</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="Elshinta TV.vidio">
-        <title>Sehat Natura - Pak Kobra</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="Elshinta TV.vidio">
-        <title>E-Style</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Elshinta TV.vidio">
-        <title>Belanja Berkah</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Elshinta TV.vidio">
-        <title>Bilik Sehat</title>
+    <programme start="20241217230000 +0000" stop="20241218020000 +0000" channel="JTV.vidio">
+        <title>SEA Morning Show</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="Elshinta TV.vidio">
         <title>Jalan - Jalan</title>
@@ -18675,62 +18225,107 @@
     <programme start="20241217163000 +0000" stop="20241217180000 +0000" channel="Elshinta TV.vidio">
         <title>Sehat Natura - Benvit</title>
     </programme>
-    <programme start="20241204171000 +0000" stop="20241204190000 +0000" channel="Bein 1.vidio">
-        <title>AS Monaco vs. Benfica : UEFA Champions League Soccer</title>
+    <programme start="20241217180000 +0000" stop="20241217180500 +0000" channel="Elshinta TV.vidio">
+        <title>Lagu Tanah Airku</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204195500 +0000" channel="Bein 1.vidio">
-        <title>Review: Round 2 : FA Cup Football</title>
+    <programme start="20241217180500 +0000" stop="20241217181500 +0000" channel="Elshinta TV.vidio">
+        <title>Bumper Still : Kami Akan Kembali Pukul</title>
     </programme>
-    <programme start="20241204195500 +0000" stop="20241204220000 +0000" channel="Bein 1.vidio">
-        <title>Athletic Club vs Real Madrid - La Liga</title>
+    <programme start="20241217181500 +0000" stop="20241217202500 +0000" channel="Elshinta TV.vidio">
+        <title>To Be Announced</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204235000 +0000" channel="Bein 1.vidio">
-        <title>Walsall vs. Charlton Athletic : FA Cup Soccer</title>
+    <programme start="20241217202500 +0000" stop="20241217203000 +0000" channel="Elshinta TV.vidio">
+        <title>Lagu Indonesia Raya</title>
     </programme>
-    <programme start="20241204235000 +0000" stop="20241205014000 +0000" channel="Bein 1.vidio">
-        <title>AFC Wimbledon vs. Dagenham &amp; Redbridge : FA Cup Soccer</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="Elshinta TV.vidio">
+        <title>Kisi-kisi</title>
     </programme>
-    <programme start="20241205014000 +0000" stop="20241205023000 +0000" channel="Bein 1.vidio">
-        <title>Season Review : FIM Speedway GP Highlights</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="Elshinta TV.vidio">
+        <title>Otoholic</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205042000 +0000" channel="Bein 1.vidio">
-        <title>CAF Confederation Cup</title>
+    <programme start="20241217213000 +0000" stop="20241217220000 +0000" channel="Elshinta TV.vidio">
+        <title>Jalan - Jalan</title>
     </programme>
-    <programme start="20241205042000 +0000" stop="20241205062000 +0000" channel="Bein 1.vidio">
-        <title>Kettering Town vs. Doncaster Rovers : FA Cup Soccer</title>
+    <programme start="20241217220000 +0000" stop="20241217223000 +0000" channel="Elshinta TV.vidio">
+        <title>Risalah Iman</title>
     </programme>
-    <programme start="20241205062000 +0000" stop="20241205082000 +0000" channel="Bein 1.vidio">
-        <title>Newcastle United vs. Liverpool : Premier League Soccer</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="Elshinta TV.vidio">
+        <title>Komunitas</title>
     </programme>
-    <programme start="20241205082000 +0000" stop="20241205085000 +0000" channel="Bein 1.vidio">
-        <title>LFC Trending</title>
+    <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="Elshinta TV.vidio">
+        <title>Home Shopping - Home N Shop</title>
     </programme>
-    <programme start="20241205085000 +0000" stop="20241205092000 +0000" channel="Bein 1.vidio">
-        <title>UCL Matchnight Highlights Show</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Elshinta TV.vidio">
+        <title>Home Shopping - Home N Shop</title>
     </programme>
-    <programme start="20241205092000 +0000" stop="20241205095000 +0000" channel="Bein 1.vidio">
-        <title>GP Confidential</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="Elshinta TV.vidio">
+        <title>Bumbu Dapoer</title>
     </programme>
-    <programme start="20241205095000 +0000" stop="20241205115000 +0000" channel="Bein 1.vidio">
-        <title>Arsenal vs Norwich: Arsenal TV Classic 2024/25</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="Elshinta TV.vidio">
+        <title>Belanja Berkah</title>
     </programme>
-    <programme start="20241205115000 +0000" stop="20241205135000 +0000" channel="Bein 1.vidio">
-        <title>Arsenal vs. Manchester United : Premier League Soccer</title>
+    <programme start="20241218020000 +0000" stop="20241218030000 +0000" channel="Elshinta TV.vidio">
+        <title>Dokterku</title>
     </programme>
-    <programme start="20241205135000 +0000" stop="20241205142500 +0000" channel="Bein 1.vidio">
-        <title>Qatar : F1 Academy Highlights</title>
+    <programme start="20241218030000 +0000" stop="20241218040000 +0000" channel="Elshinta TV.vidio">
+        <title>Belanja Berkah</title>
     </programme>
-    <programme start="20241205142500 +0000" stop="20241205160000 +0000" channel="Bein 1.vidio">
-        <title>Women&#039;s EHF EURO 2024 Qualifiers</title>
+    <programme start="20241218040000 +0000" stop="20241218053000 +0000" channel="Elshinta TV.vidio">
+        <title>Belanja Nyaman - Lejel Shopping</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205162000 +0000" channel="Bein 1.vidio">
-        <title>Puerto Cabello P2 Men&#039;s Final : Premier Padel Highlights</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="Elshinta TV.vidio">
+        <title>Home Shopping - Home N Shop</title>
     </programme>
-    <programme start="20241205162000 +0000" stop="20241205165500 +0000" channel="Bein 1.vidio">
-        <title>GP Confidential</title>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="Elshinta TV.vidio">
+        <title>Home Shopping - Home N Shop</title>
     </programme>
-    <programme start="20241205165500 +0000" stop="20241205183000 +0000" channel="Bein 1.vidio">
-        <title>Women&#039;s EHF EURO 2024 Qualifiers</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="Elshinta TV.vidio">
+        <title>Kisi-kisi</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="Elshinta TV.vidio">
+        <title>Ayo Shop Forsta</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="Elshinta TV.vidio">
+        <title>E-Style</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="Elshinta TV.vidio">
+        <title>Teras Sore</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218100000 +0000" channel="Elshinta TV.vidio">
+        <title>Belanja Nyaman - Lejel Shopping</title>
+    </programme>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="Elshinta TV.vidio">
+        <title>Jalan - Jalan</title>
+    </programme>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="Elshinta TV.vidio">
+        <title>Risalah Iman</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218120000 +0000" channel="Elshinta TV.vidio">
+        <title>Dokterku</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218123000 +0000" channel="Elshinta TV.vidio">
+        <title>Ayo Shop Forsta</title>
+    </programme>
+    <programme start="20241218123000 +0000" stop="20241218133000 +0000" channel="Elshinta TV.vidio">
+        <title>Bilik Sehat</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218143000 +0000" channel="Elshinta TV.vidio">
+        <title>Teras Sore</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="Elshinta TV.vidio">
+        <title>Ayo Shop Forsta</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="Elshinta TV.vidio">
+        <title>Sehat Natura - Pak Kobra</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="Elshinta TV.vidio">
+        <title>E-Style</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Elshinta TV.vidio">
+        <title>Belanja Berkah</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218180000 +0000" channel="Elshinta TV.vidio">
+        <title>Sehat Natura - Benvit</title>
     </programme>
     <programme start="20241205183000 +0000" stop="20241205192500 +0000" channel="Bein 1.vidio">
         <title>FIM Endurance World Championship Season Review</title>
@@ -19167,10 +18762,13 @@
     <programme start="20241212145700 +0000" stop="20241212152500 +0000" channel="Bein 1.vidio">
         <title>Madrid P1 Women&#039;s Final : Premier Padel Highlights</title>
     </programme>
-    <programme start="20241212152500 +0000" stop="20241212174000 +0000" channel="Bein 1.vidio">
+    <programme start="20241212152500 +0000" stop="20241212172400 +0000" channel="Bein 1.vidio">
         <title>Astana vs Chelsea - UEFA Conference League </title>
     </programme>
-    <programme start="20241212174000 +0000" stop="20241212195500 +0000" channel="Bein 1.vidio">
+    <programme start="20241212172400 +0000" stop="20241212173900 +0000" channel="Bein 1.vidio">
+        <title>Filler</title>
+    </programme>
+    <programme start="20241212173900 +0000" stop="20241212195500 +0000" channel="Bein 1.vidio">
         <title>Viktoria Plzen vs Man United - UEFA Europa League </title>
     </programme>
     <programme start="20241212195500 +0000" stop="20241212220000 +0000" channel="Bein 1.vidio">
@@ -19449,62 +19047,20 @@
     <programme start="20241217160000 +0000" stop="20241217170000 +0000" channel="Bein 1.vidio">
         <title>Malaysia Race 2 : Asian Le Mans Series Motor Racing</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="CTV 1.vidio">
-        <title>Darts</title>
+    <programme start="20241217170000 +0000" stop="20241217185000 +0000" channel="Bein 1.vidio">
+        <title>AC Milan vs. FK Crvena zvezda : UEFA Champions League Soccer</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204183000 +0000" channel="CTV 1.vidio">
-        <title>Dutch League Eredivisie 2024/25</title>
+    <programme start="20241217185000 +0000" stop="20241217204000 +0000" channel="Bein 1.vidio">
+        <title>Maccabi Tel Aviv vs. RFS : UEFA Europa League</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204191000 +0000" channel="CTV 1.vidio">
-        <title>Filler</title>
+    <programme start="20241217204000 +0000" stop="20241217214000 +0000" channel="Bein 1.vidio">
+        <title>UEFA Europa League and Conference League Magazine</title>
     </programme>
-    <programme start="20241204191000 +0000" stop="20241204210000 +0000" channel="CTV 1.vidio">
-        <title>Ajax vs Utrecht - Eredivisie </title>
+    <programme start="20241217214000 +0000" stop="20241217233000 +0000" channel="Bein 1.vidio">
+        <title>PAOK vs. Ferencvros : UEFA Europa League Soccer</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204213000 +0000" channel="CTV 1.vidio">
-        <title>Marverick- S1</title>
-    </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="CTV 1.vidio">
-        <title>EFL 2024/25</title>
-    </programme>
-    <programme start="20241204220000 +0000" stop="20241205000000 +0000" channel="CTV 1.vidio">
-        <title>Utrecht vs. PSV Eindhoven : Eredivisie Soccer</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="CTV 1.vidio">
-        <title>Liga Portugal - Highlights</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205030000 +0000" channel="CTV 1.vidio">
-        <title>AZ Alkmaar vs. Heracles : Eredivisie Soccer</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="CTV 1.vidio">
-        <title>NEC Nijmegen vs. Ajax : Eredivisie Soccer</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="CTV 1.vidio">
-        <title>Mavericks</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="CTV 1.vidio">
-        <title>Darts</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205080000 +0000" channel="CTV 1.vidio">
-        <title>Sunderland vs. West Brom : English Championship Soccer</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205100000 +0000" channel="CTV 1.vidio">
-        <title>Derby County vs. Swansea : English Championship Soccer</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205120000 +0000" channel="CTV 1.vidio">
-        <title>Sheffield United vs. Sunderland : English Championship Soccer</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="CTV 1.vidio">
-        <title>Serie A Highlight Show</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="CTV 1.vidio">
-        <title>EFL Highlights</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205150000 +0000" channel="CTV 1.vidio">
-        <title>Watford vs. Queens Park Rangers : English Championship Soccer</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205170000 +0000" channel="CTV 1.vidio">
-        <title>Ajax vs. FC Utrecht : Eredivisie Soccer</title>
+    <programme start="20241217233000 +0000" stop="20241218012000 +0000" channel="Bein 1.vidio">
+        <title>Ludogorets vs. AZ Alkmaar : UEFA Europa League Soccer</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205190000 +0000" channel="CTV 1.vidio">
         <title>Derby County vs. Swansea : English Championship Soccer</title>
@@ -20052,56 +19608,23 @@
     <programme start="20241217150000 +0000" stop="20241217190000 +0000" channel="CTV 1.vidio">
         <title>Sports Program</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204190000 +0000" channel="CTV 5.vidio">
-        <title>Leicester City vs. West Ham United : Premier League Soccer</title>
+    <programme start="20241217190000 +0000" stop="20241217230000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="CTV 5.vidio">
-        <title>The Premier League Preview Show</title>
+    <programme start="20241217230000 +0000" stop="20241218030000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="CTV 5.vidio">
-        <title>PL 30</title>
+    <programme start="20241218030000 +0000" stop="20241218070000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204222200 +0000" channel="CTV 5.vidio">
-        <title>Arsenal vs Man Utd - Premier League</title>
+    <programme start="20241218070000 +0000" stop="20241218110000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204222200 +0000" stop="20241204230000 +0000" channel="CTV 5.vidio">
-        <title>Premier League Netbusters</title>
+    <programme start="20241218110000 +0000" stop="20241218150000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205010000 +0000" channel="CTV 5.vidio">
-        <title>West Ham United vs. Arsenal : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205030000 +0000" channel="CTV 5.vidio">
-        <title>Manchester City vs. Nottingham Forest : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="CTV 5.vidio">
-        <title>Arsenal vs. Manchester United : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="CTV 5.vidio">
-        <title>Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="CTV 5.vidio">
-        <title>Premier League Netbusters</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="CTV 5.vidio">
-        <title>Premier League Stories</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205090000 +0000" channel="CTV 5.vidio">
-        <title>Everton vs. Wolverhampton Wanderers : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205110000 +0000" channel="CTV 5.vidio">
-        <title>Manchester City vs. Nottingham Forest : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205130000 +0000" channel="CTV 5.vidio">
-        <title>Arsenal vs. Manchester United : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="CTV 5.vidio">
-        <title>Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205150000 +0000" channel="CTV 5.vidio">
-        <title>Robert Green : 1-to-11</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205170000 +0000" channel="CTV 5.vidio">
-        <title>Everton vs. Wolverhampton Wanderers : Premier League Soccer</title>
+    <programme start="20241218150000 +0000" stop="20241218190000 +0000" channel="CTV 1.vidio">
+        <title>Sports Program</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205190000 +0000" channel="CTV 5.vidio">
         <title>Manchester City vs. Nottingham Forest : Premier League Soccer</title>
@@ -20640,68 +20163,23 @@
     <programme start="20241217150000 +0000" stop="20241217190000 +0000" channel="CTV 5.vidio">
         <title>Sports Program</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204183000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 3 Match 5 : Premier Padel Major</title>
+    <programme start="20241217190000 +0000" stop="20241217230000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204200000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 3 Match 6 : Premier Padel Major</title>
+    <programme start="20241217230000 +0000" stop="20241218030000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204213000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 3 Match 7: Premier Padel 2024</title>
+    <programme start="20241218030000 +0000" stop="20241218070000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="Bein 3.vidio">
-        <title>Luis de la Fuente : LaLiga Talking Football</title>
+    <programme start="20241218070000 +0000" stop="20241218110000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204233000 +0000" channel="Bein 3.vidio">
-        <title>Czechia vs. Montenegro : 2024 EHF European Women&#039;s Handball Championship</title>
+    <programme start="20241218110000 +0000" stop="20241218150000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205010000 +0000" channel="Bein 3.vidio">
-        <title>Croatia vs. Switzerland : 2024 EHF European Women&#039;s Handball Championship</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205023000 +0000" channel="Bein 3.vidio">
-        <title>Iceland vs. Germany : 2024 EHF European Women&#039;s Handball Championship</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205033000 +0000" channel="Bein 3.vidio">
-        <title>LaLiga 2 Highlights</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="Bein 3.vidio">
-        <title>Man Utd vs Everton : MUTV Highlights</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205060000 +0000" channel="Bein 3.vidio">
-        <title>English Premier League: Arsenal vs Manchester United : MUTV</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="Bein 3.vidio">
-        <title>Premier League: Arsenal v Manchester United : Match Day Review</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205083000 +0000" channel="Bein 3.vidio">
-        <title>Mallorca vs. Barcelona : Spanish Primera Division Soccer</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205100000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 4 Match 1 : Premier Padel Major</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205113000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 4 Match 2 : Premier Padel Major</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205130000 +0000" channel="Bein 3.vidio">
-        <title>Milan P1 Day 4 Match 3 : Premier Padel Major</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205133000 +0000" channel="Bein 3.vidio">
-        <title>LaLiga World</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="Bein 3.vidio">
-        <title>Freestyle Kite World Cup - France : GKA Kite World Tour</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205142500 +0000" channel="Bein 3.vidio">
-        <title>Trailblazers : One Love</title>
-    </programme>
-    <programme start="20241205142500 +0000" stop="20241205160000 +0000" channel="Bein 3.vidio">
-        <title>Women&#039;s EHF EURO 2024 Qualifiers</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Bein 3.vidio">
-        <title>LaLiga World</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Bein 3.vidio">
-        <title>Jordan Half Marathon : Mass Participation</title>
+    <programme start="20241218150000 +0000" stop="20241218190000 +0000" channel="CTV 5.vidio">
+        <title>Sports Program</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205183000 +0000" channel="Bein 3.vidio">
         <title>Milan P1 Day 4 Match 4 : Premier Padel Major</title>
@@ -21387,41 +20865,23 @@
     <programme start="20241217150000 +0000" stop="20241217170000 +0000" channel="Bein 3.vidio">
         <title>Rayo Vallecano de Madrid vs. Real Madrid : La Liga</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204193000 +0000" channel="CTV 3.vidio">
-        <title>San Antonio Spurs vs. Sacramento Kings : NBA Basketball</title>
+    <programme start="20241217170000 +0000" stop="20241217175300 +0000" channel="Bein 3.vidio">
+        <title>Lifeblood: Climbing the Mountain : MUTV</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204220000 +0000" channel="CTV 3.vidio">
-        <title>Los Angeles Lakers at Minnesota Timberwolves : NBA Basketball</title>
+    <programme start="20241217175300 +0000" stop="20241217200800 +0000" channel="Bein 3.vidio">
+        <title>Albacete Balompie vs. Levante UD : LaLiga 2</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241205003000 +0000" channel="CTV 3.vidio">
-        <title>Golden State Warriors at Denver Nuggets : NBA Basketball</title>
+    <programme start="20241217200800 +0000" stop="20241217221500 +0000" channel="Bein 3.vidio">
+        <title>Real Zaragoza vs. Real Oviedo : LaLiga 2</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205030000 +0000" channel="CTV 3.vidio">
-        <title>LA Lakers vs Miami Heat - NBA </title>
+    <programme start="20241217221500 +0000" stop="20241217223000 +0000" channel="Bein 3.vidio">
+        <title>Athletic Bilbao v Getafe : LaLiga Highlights</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205053000 +0000" channel="CTV 3.vidio">
-        <title>Germany vs. Canada : 2024 Davis Cup Tennis</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="Bein 3.vidio">
+        <title>Ivan Zamorano : LaLiga Best 11</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205080000 +0000" channel="CTV 3.vidio">
-        <title>Germany vs. Canada : 2024 Davis Cup Tennis</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205103000 +0000" channel="CTV 3.vidio">
-        <title>Germany vs. Canada : 2024 Davis Cup Tennis</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="CTV 3.vidio">
-        <title>NBA Action</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="CTV 3.vidio">
-        <title>NBA On Fire</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205140000 +0000" channel="CTV 3.vidio">
-        <title>Golden State Warriors at Denver Nuggets : NBA Basketball</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="CTV 3.vidio">
-        <title>NBA Action</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205170000 +0000" channel="CTV 3.vidio">
-        <title>Los Angeles Lakers at Miami Heat : NBA Basketball</title>
+    <programme start="20241217230000 +0000" stop="20241218000000 +0000" channel="Bein 3.vidio">
+        <title>LaLiga Highlights</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205193000 +0000" channel="CTV 3.vidio">
         <title>Golden State Warriors at Denver Nuggets : NBA Basketball</title>
@@ -21837,74 +21297,23 @@
     <programme start="20241217150000 +0000" stop="20241217190000 +0000" channel="CTV 3.vidio">
         <title>Sports Program</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="NBA TV.vidio">
-        <title>Inside the NBA</title>
+    <programme start="20241217190000 +0000" stop="20241217230000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204210000 +0000" channel="NBA TV.vidio">
-        <title>Orlando Magic at New York Knicks : NBA Basketball</title>
+    <programme start="20241217230000 +0000" stop="20241218030000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="NBA TV.vidio">
-        <title>Unsung Heroes of the Finals : High Tops</title>
+    <programme start="20241218030000 +0000" stop="20241218070000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241205000000 +0000" channel="NBA TV.vidio">
-        <title>2024-2025: Washington Wizards at San Antonio Spurs : NBA TV Marquee Matchup</title>
+    <programme start="20241218070000 +0000" stop="20241218110000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="NBA TV.vidio">
-        <title>NBA Action</title>
+    <programme start="20241218110000 +0000" stop="20241218150000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205030000 +0000" channel="NBA TV.vidio">
-        <title>Orlando Magic vs Philadelphia 76ers - NBA </title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="NBA TV.vidio">
-        <title>2024-2025: Golden State Warriors at LA Clippers : NBA TV Marquee Matchup</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="NBA TV.vidio">
-        <title>Basketball Stories: Sir Charles &amp; The Doctor</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="NBA TV.vidio">
-        <title>Bill Russell: Answer the Call</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205093000 +0000" channel="NBA TV.vidio">
-        <title>Orlando Magic at Philadelphia 76ers : NBA Basketball</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205140000 +0000" channel="NBA TV.vidio">
-        <title>Orlando Magic at Philadelphia 76ers : NBA Basketball</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="NBA TV.vidio">
-        <title>NBA GameTime</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="NBA TV.vidio">
-        <title>NBA Action</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205183000 +0000" channel="NBA TV.vidio">
-        <title>Orlando Magic at Philadelphia 76ers : NBA Basketball</title>
+    <programme start="20241218150000 +0000" stop="20241218190000 +0000" channel="CTV 3.vidio">
+        <title>Sports Program</title>
     </programme>
     <programme start="20241205183000 +0000" stop="20241205190000 +0000" channel="NBA TV.vidio">
         <title>NBA 75: The Celebration</title>
@@ -22674,59 +22083,53 @@
     <programme start="20241217160000 +0000" stop="20241217180000 +0000" channel="NBA TV.vidio">
         <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204190000 +0000" channel="Bein 2.vidio">
-        <title>2024 Hangzhou Open Tennis</title>
+    <programme start="20241217180000 +0000" stop="20241217200000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204203000 +0000" channel="Bein 2.vidio">
-        <title>2024 Hangzhou Open Tennis</title>
+    <programme start="20241217200000 +0000" stop="20241217220000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204220000 +0000" channel="Bein 2.vidio">
-        <title>2024 Hangzhou Open Tennis</title>
+    <programme start="20241217220000 +0000" stop="20241218000000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204233000 +0000" channel="Bein 2.vidio">
-        <title>Day 2 : 2024 Internazionali BNL d&#039;Italia Tennis</title>
+    <programme start="20241218000000 +0000" stop="20241218010000 +0000" channel="NBA TV.vidio">
+        <title>2021 Basketball Hall of Fame Tip Off Celebration and Awards Gala</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205010000 +0000" channel="Bein 2.vidio">
-        <title>Day 3 : 2024 Internazionali BNL d&#039;Italia Tennis</title>
+    <programme start="20241218010000 +0000" stop="20241218013000 +0000" channel="NBA TV.vidio">
+        <title>A Conversation on Policing Reform</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205021500 +0000" channel="Bein 2.vidio">
-        <title>Day 3 : 2024 Internazionali BNL d&#039;Italia Tennis</title>
+    <programme start="20241218013000 +0000" stop="20241218020000 +0000" channel="NBA TV.vidio">
+        <title>WNBA Weekly</title>
     </programme>
-    <programme start="20241205021500 +0000" stop="20241205022500 +0000" channel="Bein 2.vidio">
-        <title>Next Gen ATP Finals</title>
+    <programme start="20241218020000 +0000" stop="20241218040000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205022500 +0000" stop="20241205023500 +0000" channel="Bein 2.vidio">
-        <title>Next Gen ATP Finals</title>
+    <programme start="20241218040000 +0000" stop="20241218060000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205023500 +0000" stop="20241205040000 +0000" channel="Bein 2.vidio">
-        <title>Day 3 : 2024 Internazionali BNL d&#039;Italia Tennis</title>
+    <programme start="20241218060000 +0000" stop="20241218080000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205053000 +0000" channel="Bein 2.vidio">
-        <title>2024 China Open Tennis</title>
+    <programme start="20241218080000 +0000" stop="20241218100000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205070000 +0000" channel="Bein 2.vidio">
-        <title>2024 China Open Tennis</title>
+    <programme start="20241218100000 +0000" stop="20241218120000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205083000 +0000" channel="Bein 2.vidio">
-        <title>2024 China Open Tennis</title>
+    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="NBA TV.vidio">
+        <title>2021 Basketball Hall of Fame Tip Off Celebration and Awards Gala</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205100000 +0000" channel="Bein 2.vidio">
-        <title>2024 China Open Tennis</title>
+    <programme start="20241218130000 +0000" stop="20241218133000 +0000" channel="NBA TV.vidio">
+        <title>A Conversation on Policing Reform</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205113000 +0000" channel="Bein 2.vidio">
-        <title>Sonego - Shapovalov : 2024 Shanghai Masters Tennis</title>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="NBA TV.vidio">
+        <title>WNBA Weekly</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205130000 +0000" channel="Bein 2.vidio">
-        <title>Sonego - Shapovalov : 2024 Shanghai Masters Tennis</title>
+    <programme start="20241218140000 +0000" stop="20241218160000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205143000 +0000" channel="Bein 2.vidio">
-        <title>Day 2 : 2024 Shanghai Masters Tennis</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205160000 +0000" channel="Bein 2.vidio">
-        <title>Day 2 : 2024 Shanghai Masters Tennis</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205173000 +0000" channel="Bein 2.vidio">
-        <title>2024 Hangzhou Open Tennis</title>
+    <programme start="20241218160000 +0000" stop="20241218180000 +0000" channel="NBA TV.vidio">
+        <title>NBA TV Marquee Matchup</title>
     </programme>
     <programme start="20241205173000 +0000" stop="20241205190000 +0000" channel="Bein 2.vidio">
         <title>2024 Hangzhou Open Tennis</title>
@@ -23367,68 +22770,71 @@
     <programme start="20241217160000 +0000" stop="20241217173000 +0000" channel="Bein 2.vidio">
         <title>2024 Nordic Open Tennis</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204190000 +0000" channel="CTV 2.vidio">
-        <title>FC Arouca vs. Benfica : Primeira Liga Soccer</title>
+    <programme start="20241217173000 +0000" stop="20241217190000 +0000" channel="Bein 2.vidio">
+        <title>2024 Nordic Open Tennis</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="CTV 2.vidio">
-        <title>Liga Portugal - Highlights</title>
+    <programme start="20241217190000 +0000" stop="20241217203000 +0000" channel="Bein 2.vidio">
+        <title>2024 Nordic Open Tennis</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204220000 +0000" channel="CTV 2.vidio">
-        <title>Huddersfield Town vs. Wigan Athletic : English League One Soccer</title>
+    <programme start="20241217203000 +0000" stop="20241217220000 +0000" channel="Bein 2.vidio">
+        <title>2024 Nordic Open Tennis</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204232000 +0000" channel="CTV 2.vidio">
-        <title>Moji Sport</title>
+    <programme start="20241217220000 +0000" stop="20241217222000 +0000" channel="Bein 2.vidio">
+        <title>The Time Travel Challenge : ATP Doco Shorts</title>
     </programme>
-    <programme start="20241204232000 +0000" stop="20241204233000 +0000" channel="CTV 2.vidio">
-        <title>Filler</title>
+    <programme start="20241217222000 +0000" stop="20241217233000 +0000" channel="Bein 2.vidio">
+        <title>Day 2, Doubles Match 3: Matthew Ebden/Rohan Bopanna v Simone Bolelli/Andrea Vavassori : 2024 Nitto ATP Finals</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="CTV 2.vidio">
-        <title>Darts</title>
+    <programme start="20241217233000 +0000" stop="20241218010000 +0000" channel="Bein 2.vidio">
+        <title>Day 3, Doubles Match 1: Purcell/Thompson vs Heliovaara/Patten : 2024 Nitto ATP Finals</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205020000 +0000" channel="CTV 2.vidio">
-        <title>Ajax vs. FC Utrecht : Eredivisie Soccer</title>
+    <programme start="20241218010000 +0000" stop="20241218023000 +0000" channel="Bein 2.vidio">
+        <title>ATP Masters 1000 Double Final : 2024 Paris Masters Tennis</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: JuniorGP Race 1 : FIM JuniorGP World Championship</title>
+    <programme start="20241218023000 +0000" stop="20241218040000 +0000" channel="Bein 2.vidio">
+        <title>ATP Masters 1000 Double Final : 2024 Paris Masters Tennis</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: ETC Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218040000 +0000" stop="20241218053000 +0000" channel="Bein 2.vidio">
+        <title>2024 Erste Bank Open Tennis</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: Moto2 Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218053000 +0000" stop="20241218070000 +0000" channel="Bein 2.vidio">
+        <title>2024 Erste Bank Open Tennis</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: JuniorGP Race 2 : FIM JuniorGP World Championship</title>
+    <programme start="20241218070000 +0000" stop="20241218083000 +0000" channel="Bein 2.vidio">
+        <title>2024 Erste Bank Open Tennis</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: Stock Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218083000 +0000" stop="20241218100000 +0000" channel="Bein 2.vidio">
+        <title>2024 Erste Bank Open Tennis</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="CTV 2.vidio">
-        <title>Darts</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205093000 +0000" channel="CTV 2.vidio">
-        <title>FC Arouca vs. Benfica : Primeira Liga Soccer</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205093000 +0000" stop="20241205113000 +0000" channel="CTV 2.vidio">
-        <title>Ajax vs. FC Utrecht : Eredivisie Soccer</title>
+    <programme start="20241218110000 +0000" stop="20241218120000 +0000" channel="Bein 2.vidio">
+        <title>ATP Round Robin, Day 1 : 2024 Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205123000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: JuniorGP Race 1 : FIM JuniorGP World Championship</title>
+    <programme start="20241218120000 +0000" stop="20241218150000 +0000" channel="Bein 2.vidio">
+        <title>ATP Round Robin, Day 1 : 2024 Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205133000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: ETC Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218150000 +0000" stop="20241218151000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205143000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: Moto2 Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218151000 +0000" stop="20241218152000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205153000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: JuniorGP Race 2 : FIM JuniorGP World Championship</title>
+    <programme start="20241218152000 +0000" stop="20241218153000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205153000 +0000" stop="20241205163000 +0000" channel="CTV 2.vidio">
-        <title>Circuito do Estoril: Stock Race : FIM JuniorGP World Championship</title>
+    <programme start="20241218153000 +0000" stop="20241218154500 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="CTV 2.vidio">
-        <title>EFL Highlights</title>
+    <programme start="20241218154500 +0000" stop="20241218160000 +0000" channel="Bein 2.vidio">
+        <title>Next Gen ATP Finals</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218180000 +0000" channel="Bein 2.vidio">
+        <title>ATP Round Robin, Day 1 : 2024 Next Gen ATP Finals</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205190000 +0000" channel="CTV 2.vidio">
         <title>Sporting Clube de Portugal vs. CD Santa Clara : Primeira Liga Soccer</title>
@@ -23907,44 +23313,23 @@
     <programme start="20241217150000 +0000" stop="20241217190000 +0000" channel="CTV 2.vidio">
         <title>Sports Program</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204190000 +0000" channel="CTV 6.vidio">
-        <title>Ipswich Town vs. Crystal Palace : Premier League Soccer</title>
+    <programme start="20241217190000 +0000" stop="20241217230000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204192000 +0000" stop="20241204213800 +0000" channel="CTV 6.vidio">
-        <title>Newcastle vs Liverpool - Premier League</title>
+    <programme start="20241217230000 +0000" stop="20241218030000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204213800 +0000" stop="20241204220000 +0000" channel="CTV 6.vidio">
-        <title>Premier League Netbusters</title>
+    <programme start="20241218030000 +0000" stop="20241218070000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241205000000 +0000" channel="CTV 6.vidio">
-        <title>Brighton &amp; Hove Albion vs. Southampton : Premier League Soccer</title>
+    <programme start="20241218070000 +0000" stop="20241218110000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205020000 +0000" channel="CTV 6.vidio">
-        <title>Brentford vs. Leicester City : Premier League Soccer</title>
+    <programme start="20241218110000 +0000" stop="20241218150000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="CTV 6.vidio">
-        <title>1 to 11</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="CTV 6.vidio">
-        <title>Ipswich Town vs. Crystal Palace : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205070000 +0000" channel="CTV 6.vidio">
-        <title>Leicester City vs. West Ham United : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205090000 +0000" channel="CTV 6.vidio">
-        <title>Aston Villa vs. Brentford : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205110000 +0000" channel="CTV 6.vidio">
-        <title>Southampton vs. Chelsea : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205130000 +0000" channel="CTV 6.vidio">
-        <title>Everton vs. Wolverhampton Wanderers : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205150000 +0000" channel="CTV 6.vidio">
-        <title>Manchester City vs. Nottingham Forest : Premier League Soccer</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205170000 +0000" channel="CTV 6.vidio">
-        <title>Arsenal vs. Manchester United : Premier League Soccer</title>
+    <programme start="20241218150000 +0000" stop="20241218190000 +0000" channel="CTV 2.vidio">
+        <title>Sports Program</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205191300 +0000" channel="CTV 6.vidio">
         <title>Everton vs. Wolverhampton Wanderers : Premier League Soccer</title>
@@ -24471,113 +23856,50 @@
     <programme start="20241217150000 +0000" stop="20241217170000 +0000" channel="CTV 6.vidio">
         <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="Premier League TV.vidio">
-        <title>Ipswich Town v Crystal Palace : Premier League: Match Highlights</title>
+    <programme start="20241217170000 +0000" stop="20241217190000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="Premier League TV.vidio">
-        <title>Leicester City v West Ham United : Premier League: Match Highlights</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="CTV 6.vidio">
+        <title>Premier League: Match Highlights</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="Premier League TV.vidio">
-        <title>CHICHARITO : Premier League Stories</title>
+    <programme start="20241217200000 +0000" stop="20241217223000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204230000 +0000" channel="Premier League TV.vidio">
-        <title>Newcastle United v Liverpool / Arsenal v Manchester United (Goal Rush) : Matchday Live</title>
+    <programme start="20241217223000 +0000" stop="20241218010000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="Premier League TV.vidio">
-        <title>The Catch Up Show</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="CTV 6.vidio">
+        <title>Premier League: Match Highlights</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="Premier League TV.vidio">
-        <title>CHICHARITO : Premier League Stories</title>
+    <programme start="20241218020000 +0000" stop="20241218023000 +0000" channel="CTV 6.vidio">
+        <title>Netbusters</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205013000 +0000" channel="Premier League TV.vidio">
-        <title>Antti Niemi : One2Eleven</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Stories</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="Premier League TV.vidio">
-        <title>The Entertainers : Premier League Stories</title>
+    <programme start="20241218030000 +0000" stop="20241218053000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205023000 +0000" channel="Premier League TV.vidio">
-        <title>Newcastle United v Liverpool : Premier League: Match Highlights</title>
+    <programme start="20241218053000 +0000" stop="20241218073000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="Premier League TV.vidio">
-        <title>Manchester City v Nottingham Forest : Premier League: Match Highlights</title>
+    <programme start="20241218073000 +0000" stop="20241218093000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="Premier League TV.vidio">
-        <title>Southampton v Chelsea : Premier League: Match Highlights</title>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Rewind</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="Premier League TV.vidio">
-        <title>Everton v Wolverhampton Wanderers : Premier League: Match Highlights</title>
+    <programme start="20241218100000 +0000" stop="20241218120000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="Premier League TV.vidio">
-        <title>Arsenal v Manchester United : Premier League: Match Highlights</title>
+    <programme start="20241218120000 +0000" stop="20241218140000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Premier League TV.vidio">
-        <title>Aston Villa v Brentford : Premier League: Match Highlights</title>
+    <programme start="20241218140000 +0000" stop="20241218163000 +0000" channel="CTV 6.vidio">
+        <title>Premier League Soccer</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="Premier League TV.vidio">
-        <title>The Catch Up Show</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="Premier League TV.vidio">
-        <title>Newcastle United v Liverpool : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="Premier League TV.vidio">
-        <title>Manchester City v Nottingham Forest : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="Premier League TV.vidio">
-        <title>Southampton v Chelsea : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Premier League TV.vidio">
-        <title>Everton v Wolverhampton Wanderers : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="Premier League TV.vidio">
-        <title>Arsenal v Manchester United : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Premier League TV.vidio">
-        <title>Aston Villa v Brentford : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="Premier League TV.vidio">
-        <title>CHICHARITO : Premier League Stories</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205103000 +0000" channel="Premier League TV.vidio">
-        <title>The Catch Up Show</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="Premier League TV.vidio">
-        <title>Newcastle United v Liverpool : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="Premier League TV.vidio">
-        <title>Manchester City v Nottingham Forest : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Premier League TV.vidio">
-        <title>Southampton v Chelsea : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="Premier League TV.vidio">
-        <title>Everton v Wolverhampton Wanderers : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="Premier League TV.vidio">
-        <title>Arsenal v Manchester United : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205133000 +0000" channel="Premier League TV.vidio">
-        <title>Aston Villa v Brentford : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="Premier League TV.vidio">
-        <title>Matheus Nunes : The Big Interview</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="Premier League TV.vidio">
-        <title>CHICHARITO : Premier League Stories</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="Premier League TV.vidio">
-        <title>Newcastle United v Liverpool : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="Premier League TV.vidio">
-        <title>Manchester City v Nottingham Forest : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="Premier League TV.vidio">
-        <title>Southampton v Chelsea : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Premier League TV.vidio">
-        <title>Everton v Wolverhampton Wanderers : Premier League: Match Highlights</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Premier League TV.vidio">
-        <title>Arsenal v Manchester United : Premier League: Match Highlights</title>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="CTV 6.vidio">
+        <title>Netbusters</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="Premier League TV.vidio">
         <title>Aston Villa v Brentford : Premier League: Match Highlights</title>
@@ -25503,38 +24825,23 @@
     <programme start="20241217140000 +0000" stop="20241217180000 +0000" channel="Premier League TV.vidio">
         <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="SPOTV.vidio">
-        <title>Archery World Cup</title>
+    <programme start="20241217180000 +0000" stop="20241217220000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="SPOTV.vidio">
-        <title>Global Series Round 2 : MotoGP eSports Championship</title>
+    <programme start="20241217220000 +0000" stop="20241218020000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204223000 +0000" channel="SPOTV.vidio">
-        <title>Motorcycle Racing</title>
+    <programme start="20241218020000 +0000" stop="20241218060000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="SPOTV.vidio">
-        <title>China Masters: Finals : Badminton</title>
+    <programme start="20241218060000 +0000" stop="20241218100000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205030000 +0000" channel="SPOTV.vidio">
-        <title>Motorcycle Racing</title>
+    <programme start="20241218100000 +0000" stop="20241218140000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205070000 +0000" channel="SPOTV.vidio">
-        <title>Motorcycle Racing</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205100000 +0000" channel="SPOTV.vidio">
-        <title>Squash</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="SPOTV.vidio">
-        <title>BWF Badminton Unlimited</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205140000 +0000" channel="SPOTV.vidio">
-        <title>Singapore Open, Third Round: Day 3 Session 3 : PSA World Tour Squash</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205163000 +0000" channel="SPOTV.vidio">
-        <title>Ultimate Pool Mixed Pairs Cup</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205173000 +0000" channel="SPOTV.vidio">
-        <title>Matchweek 12 : Saudi Pro League Recap</title>
+    <programme start="20241218140000 +0000" stop="20241218180000 +0000" channel="Premier League TV.vidio">
+        <title>SIGN OFF</title>
     </programme>
     <programme start="20241205173000 +0000" stop="20241205180000 +0000" channel="SPOTV.vidio">
         <title>China Masters: Finals : Badminton</title>
@@ -25935,53 +25242,38 @@
     <programme start="20241217160000 +0000" stop="20241217180000 +0000" channel="SPOTV.vidio">
         <title>Al-Taawoun FC vs. Al Ahli : Saudi League Soccer</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204200000 +0000" channel="SPOTV 2.vidio">
-        <title>Cup of China - Mixed Ice Dance, Free Dance : ISU Grand Prix of Figure Skating</title>
+    <programme start="20241217180000 +0000" stop="20241217220000 +0000" channel="SPOTV.vidio">
+        <title>Round 6: Thailand, Chang International Circuit : FIM Asia Road Racing Championship</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204221500 +0000" channel="SPOTV 2.vidio">
-        <title>Figure Skating</title>
+    <programme start="20241217220000 +0000" stop="20241218020000 +0000" channel="SPOTV.vidio">
+        <title>Round 6: Thailand, Chang International Circuit : FIM Asia Road Racing Championship</title>
     </programme>
-    <programme start="20241204221500 +0000" stop="20241205003000 +0000" channel="SPOTV 2.vidio">
-        <title>Figure Skating</title>
+    <programme start="20241218020000 +0000" stop="20241218030000 +0000" channel="SPOTV.vidio">
+        <title>Season Review : FIM Superbike World Championship Motorcycle Racing</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205030000 +0000" channel="SPOTV 2.vidio">
-        <title>Figure Skating</title>
+    <programme start="20241218030000 +0000" stop="20241218053000 +0000" channel="SPOTV.vidio">
+        <title>Group 4 : Ultimate Pool Mixed Pairs Cup</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="SPOTV 2.vidio">
-        <title>Preview : FIA Formula E</title>
+    <programme start="20241218053000 +0000" stop="20241218063000 +0000" channel="SPOTV.vidio">
+        <title>Saudi Pro League Recap</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205061500 +0000" channel="SPOTV 2.vidio">
-        <title>Figure Skating</title>
+    <programme start="20241218063000 +0000" stop="20241218073000 +0000" channel="SPOTV.vidio">
+        <title>VM, Australia : Supercross Highlights</title>
     </programme>
-    <programme start="20241205061500 +0000" stop="20241205064500 +0000" channel="SPOTV 2.vidio">
-        <title>Aramco Invitational : Asian Tour Highlights</title>
+    <programme start="20241218073000 +0000" stop="20241218083000 +0000" channel="SPOTV.vidio">
+        <title>VM, Australia : Supercross Highlights</title>
     </programme>
-    <programme start="20241205064500 +0000" stop="20241205084500 +0000" channel="SPOTV 2.vidio">
-        <title>Cup of China, Short - Grand Prix : Figure Skating</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="SPOTV.vidio">
+        <title>China Masters: Finals : Badminton</title>
     </programme>
-    <programme start="20241205084500 +0000" stop="20241205101500 +0000" channel="SPOTV 2.vidio">
-        <title>Figure Skating</title>
+    <programme start="20241218090000 +0000" stop="20241218140000 +0000" channel="SPOTV.vidio">
+        <title>Badminton</title>
     </programme>
-    <programme start="20241205101500 +0000" stop="20241205104500 +0000" channel="SPOTV 2.vidio">
-        <title>WTT Final, Fukuoka : Table Tennis</title>
+    <programme start="20241218140000 +0000" stop="20241218160000 +0000" channel="SPOTV.vidio">
+        <title>Al-Ittihad vs. Al Nassr : Saudi League Soccer</title>
     </programme>
-    <programme start="20241205104500 +0000" stop="20241205123000 +0000" channel="SPOTV 2.vidio">
-        <title>TCR World Tour</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205143000 +0000" channel="SPOTV 2.vidio">
-        <title>TCR World Tour</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205153000 +0000" channel="SPOTV 2.vidio">
-        <title>TCR World Tour</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205162000 +0000" channel="SPOTV 2.vidio">
-        <title>Grand Prix Final - Mixed Pairs, Short Program : ISU Grand Prix of Figure Skating</title>
-    </programme>
-    <programme start="20241205162000 +0000" stop="20241205164000 +0000" channel="SPOTV 2.vidio">
-        <title>MotoGP 2024 Spotlight: Aleix Espargaro : MotoGP Extra</title>
-    </programme>
-    <programme start="20241205164000 +0000" stop="20241205174000 +0000" channel="SPOTV 2.vidio">
-        <title>ISU Figure Skating Grand Prix Grenoble (FRA) : Junior Women Short Program</title>
+    <programme start="20241218160000 +0000" stop="20241218170000 +0000" channel="SPOTV.vidio">
+        <title>Round 1 : MotoGP eSports Championship</title>
     </programme>
     <programme start="20241205174000 +0000" stop="20241205185100 +0000" channel="SPOTV 2.vidio">
         <title>ISU Figure Skating Grand Prix Grenoble (FRA) : Junior Ice Dance Rhythm Dance</title>
@@ -26613,53 +25905,14 @@
     <programme start="20241217160000 +0000" stop="20241217180000 +0000" channel="SPOTV 2.vidio">
         <title>Sports Programme</title>
     </programme>
-    <programme start="20241204175500 +0000" stop="20241204191500 +0000" channel="TVN.vidio">
-        <title>I&#039;ve Stayed by My Whole Life at This Temperature : Be Melodramatic</title>
+    <programme start="20241217180000 +0000" stop="20241217200000 +0000" channel="SPOTV 2.vidio">
+        <title>Sports Programme</title>
     </programme>
-    <programme start="20241204191500 +0000" stop="20241204203000 +0000" channel="TVN.vidio">
-        <title>Twinkling Watermelon</title>
+    <programme start="20241217200000 +0000" stop="20241217220000 +0000" channel="SPOTV 2.vidio">
+        <title>Sports Programme</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204224000 +0000" channel="TVN.vidio">
-        <title>Europe Outside Your Tent - Romantic Italy</title>
-    </programme>
-    <programme start="20241204224000 +0000" stop="20241204232000 +0000" channel="TVN.vidio">
-        <title>Live Like a Korean</title>
-    </programme>
-    <programme start="20241204232000 +0000" stop="20241205011000 +0000" channel="TVN.vidio">
-        <title>The Skip Dating</title>
-    </programme>
-    <programme start="20241205011000 +0000" stop="20241205030000 +0000" channel="TVN.vidio">
-        <title>3 Meals a Day</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205041500 +0000" channel="TVN.vidio">
-        <title>Twinkling Watermelon</title>
-    </programme>
-    <programme start="20241205041500 +0000" stop="20241205053000 +0000" channel="TVN.vidio">
-        <title>Be Melodramatic</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205065000 +0000" channel="TVN.vidio">
-        <title>I&#039;ve Stayed by My Whole Life at This Temperature : Be Melodramatic</title>
-    </programme>
-    <programme start="20241205065000 +0000" stop="20241205082000 +0000" channel="TVN.vidio">
-        <title>Country Life of Gen-Z</title>
-    </programme>
-    <programme start="20241205082000 +0000" stop="20241205083500 +0000" channel="TVN.vidio">
-        <title>You Can Cook With Sam Kim</title>
-    </programme>
-    <programme start="20241205083500 +0000" stop="20241205091500 +0000" channel="TVN.vidio">
-        <title>Live Like a Korean</title>
-    </programme>
-    <programme start="20241205091500 +0000" stop="20241205110500 +0000" channel="TVN.vidio">
-        <title>The Skip Dating</title>
-    </programme>
-    <programme start="20241205110500 +0000" stop="20241205131500 +0000" channel="TVN.vidio">
-        <title>Europe Outside Your Tent - Romantic Italy</title>
-    </programme>
-    <programme start="20241205131500 +0000" stop="20241205143000 +0000" channel="TVN.vidio">
-        <title>Welcome to Waikiki</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205170000 +0000" channel="TVN.vidio">
-        <title>2024 MAMA AWARDS CHAPTER 1 in US</title>
+    <programme start="20241217220000 +0000" stop="20241218000000 +0000" channel="SPOTV 2.vidio">
+        <title>Sports Programme</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205181500 +0000" channel="TVN.vidio">
         <title>Episode 15 : Diary of a Prosecutor</title>
@@ -27297,44 +26550,59 @@
     <programme start="20241217155000 +0000" stop="20241217171000 +0000" channel="TVN.vidio">
         <title>Episode 15 : A Korean Odyssey</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204191500 +0000" channel="Rock Action.vidio">
-        <title>Doom</title>
+    <programme start="20241217171000 +0000" stop="20241217183000 +0000" channel="TVN.vidio">
+        <title>Episode 16 : A Korean Odyssey</title>
     </programme>
-    <programme start="20241204191500 +0000" stop="20241204205500 +0000" channel="Rock Action.vidio">
-        <title>Carrie</title>
+    <programme start="20241217183000 +0000" stop="20241217192000 +0000" channel="TVN.vidio">
+        <title>To Be Announced</title>
     </programme>
-    <programme start="20241204205500 +0000" stop="20241204231500 +0000" channel="Rock Action.vidio">
-        <title>Angels &amp; Demons</title>
+    <programme start="20241217192000 +0000" stop="20241217204000 +0000" channel="TVN.vidio">
+        <title>Twinkling Watermelon</title>
     </programme>
-    <programme start="20241204231500 +0000" stop="20241205010500 +0000" channel="Rock Action.vidio">
-        <title>The Bourne Supremacy</title>
+    <programme start="20241217204000 +0000" stop="20241217220000 +0000" channel="TVN.vidio">
+        <title>Country Life of Gen-Z</title>
     </programme>
-    <programme start="20241205010500 +0000" stop="20241205030000 +0000" channel="Rock Action.vidio">
-        <title>The Bourne Ultimatum</title>
+    <programme start="20241217220000 +0000" stop="20241217235000 +0000" channel="TVN.vidio">
+        <title>Brotherhood Expedition: Maya</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205051000 +0000" channel="Rock Action.vidio">
-        <title>Star Trek</title>
+    <programme start="20241217235000 +0000" stop="20241218015000 +0000" channel="TVN.vidio">
+        <title>Europe Outside Your Tent - Romantic Italy</title>
     </programme>
-    <programme start="20241205051000 +0000" stop="20241205064500 +0000" channel="Rock Action.vidio">
-        <title>Aeon Flux</title>
+    <programme start="20241218015000 +0000" stop="20241218030000 +0000" channel="TVN.vidio">
+        <title>Bro &amp; Marble in Dubai</title>
     </programme>
-    <programme start="20241205064500 +0000" stop="20241205084500 +0000" channel="Rock Action.vidio">
-        <title>Charlie&#039;s Angels</title>
+    <programme start="20241218030000 +0000" stop="20241218041500 +0000" channel="TVN.vidio">
+        <title>Twinkling Watermelon</title>
     </programme>
-    <programme start="20241205084500 +0000" stop="20241205110000 +0000" channel="Rock Action.vidio">
-        <title>Spider-Man: Homecoming</title>
+    <programme start="20241218041500 +0000" stop="20241218053000 +0000" channel="TVN.vidio">
+        <title>Dear Hyeri</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205125000 +0000" channel="Rock Action.vidio">
-        <title>Pacific Rim Uprising</title>
+    <programme start="20241218053000 +0000" stop="20241218064500 +0000" channel="TVN.vidio">
+        <title>Dear Hyeri</title>
     </programme>
-    <programme start="20241205125000 +0000" stop="20241205142000 +0000" channel="Rock Action.vidio">
-        <title>D.O.A.: Dead or Alive</title>
+    <programme start="20241218064500 +0000" stop="20241218083500 +0000" channel="TVN.vidio">
+        <title>To Be Announced</title>
     </programme>
-    <programme start="20241205142000 +0000" stop="20241205160000 +0000" channel="Rock Action.vidio">
-        <title>Carrie</title>
+    <programme start="20241218083500 +0000" stop="20241218092500 +0000" channel="TVN.vidio">
+        <title>To Be Announced</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205175500 +0000" channel="Rock Action.vidio">
-        <title>Scream 4</title>
+    <programme start="20241218092500 +0000" stop="20241218104000 +0000" channel="TVN.vidio">
+        <title>Bro &amp; Marble in Dubai</title>
+    </programme>
+    <programme start="20241218104000 +0000" stop="20241218120000 +0000" channel="TVN.vidio">
+        <title>Country Life of Gen-Z</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218131500 +0000" channel="TVN.vidio">
+        <title>Twinkling Watermelon</title>
+    </programme>
+    <programme start="20241218131500 +0000" stop="20241218143000 +0000" channel="TVN.vidio">
+        <title>Twinkling Watermelon</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218163000 +0000" channel="TVN.vidio">
+        <title>Europe Outside Your Tent - Romantic Italy</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218174500 +0000" channel="TVN.vidio">
+        <title>Welcome to Waikiki</title>
     </programme>
     <programme start="20241205175500 +0000" stop="20241205203500 +0000" channel="Rock Action.vidio">
         <title>Gangs of New York</title>
@@ -27783,86 +27051,44 @@
     <programme start="20241217162000 +0000" stop="20241217180000 +0000" channel="Rock Action.vidio">
         <title>Carrie</title>
     </programme>
-    <programme start="20241204170500 +0000" stop="20241204175500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Kaley Cuoco; Ryan Clark; Percival Everett : Late Night With Seth Meyers</title>
+    <programme start="20241217180000 +0000" stop="20241217193000 +0000" channel="Rock Action.vidio">
+        <title>Iron Man: Rise of Technovore</title>
     </programme>
-    <programme start="20241204175500 +0000" stop="20241204184000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Margot&#039;s Story : Accused</title>
+    <programme start="20241217193000 +0000" stop="20241217211500 +0000" channel="Rock Action.vidio">
+        <title>Death Race: Beyond Anarchy</title>
     </programme>
-    <programme start="20241204184000 +0000" stop="20241204193000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Val&#039;s Story : Accused</title>
+    <programme start="20241217211500 +0000" stop="20241217231500 +0000" channel="Rock Action.vidio">
+        <title>Hellboy</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204204500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Masked Singer</title>
+    <programme start="20241217231500 +0000" stop="20241218003500 +0000" channel="Rock Action.vidio">
+        <title>Universal Soldier: The Return</title>
     </programme>
-    <programme start="20241204204500 +0000" stop="20241204220000 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Masked Singer</title>
+    <programme start="20241218003500 +0000" stop="20241218023500 +0000" channel="Rock Action.vidio">
+        <title>The 6th Day</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204224500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Kaley Cuoco; Ryan Clark; Percival Everett : Late Night With Seth Meyers</title>
+    <programme start="20241218023500 +0000" stop="20241218044500 +0000" channel="Rock Action.vidio">
+        <title>Star Trek</title>
     </programme>
-    <programme start="20241204224500 +0000" stop="20241204233500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Tonight Show Starring Jimmy Fallon</title>
+    <programme start="20241218044500 +0000" stop="20241218070500 +0000" channel="Rock Action.vidio">
+        <title>Angels &amp; Demons</title>
     </programme>
-    <programme start="20241204233500 +0000" stop="20241205002200 +0000" channel="ROCK Entertainment.vidio">
-        <title>Auditions -- Social Media : Next Level Chef</title>
+    <programme start="20241218070500 +0000" stop="20241218090500 +0000" channel="Rock Action.vidio">
+        <title>Charlie&#039;s Angels</title>
     </programme>
-    <programme start="20241205002200 +0000" stop="20241205011000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Auditions -- Home Cooks : Next Level Chef</title>
+    <programme start="20241218090500 +0000" stop="20241218110000 +0000" channel="Rock Action.vidio">
+        <title>Passengers</title>
     </programme>
-    <programme start="20241205011000 +0000" stop="20241205015500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Auditions -- Pros : Next Level Chef</title>
+    <programme start="20241218110000 +0000" stop="20241218124500 +0000" channel="Rock Action.vidio">
+        <title>Pompeii</title>
     </programme>
-    <programme start="20241205015500 +0000" stop="20241205024500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Draft; Smash Bash : Next Level Chef</title>
+    <programme start="20241218124500 +0000" stop="20241218143000 +0000" channel="Rock Action.vidio">
+        <title>Street Fighter</title>
     </programme>
-    <programme start="20241205024500 +0000" stop="20241205042500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Failure to Launch</title>
+    <programme start="20241218143000 +0000" stop="20241218155500 +0000" channel="Rock Action.vidio">
+        <title>Zombieland</title>
     </programme>
-    <programme start="20241205042500 +0000" stop="20241205051000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Margot&#039;s Story : Accused</title>
-    </programme>
-    <programme start="20241205051000 +0000" stop="20241205060000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Val&#039;s Story : Accused</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205064500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Tonight Show Starring Jimmy Fallon</title>
-    </programme>
-    <programme start="20241205064500 +0000" stop="20241205073000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Kaley Cuoco; Ryan Clark; Percival Everett : Late Night With Seth Meyers</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205081500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Three Bridges : Magnum P.I.</title>
-    </programme>
-    <programme start="20241205081500 +0000" stop="20241205090000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Appetite for Danger : Magnum P.I.</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205094500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Night Has a Thousand Eyes : Magnum P.I.</title>
-    </programme>
-    <programme start="20241205094500 +0000" stop="20241205113000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Battle in Seattle</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205121500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Draft; Smash Bash : Next Level Chef</title>
-    </programme>
-    <programme start="20241205121500 +0000" stop="20241205130000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Curry in a Hurry : Next Level Chef</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205134500 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Draft; Smash Bash : Next Level Chef</title>
-    </programme>
-    <programme start="20241205134500 +0000" stop="20241205143000 +0000" channel="ROCK Entertainment.vidio">
-        <title>Curry in a Hurry : Next Level Chef</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205155500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Vacancy</title>
-    </programme>
-    <programme start="20241205155500 +0000" stop="20241205164000 +0000" channel="ROCK Entertainment.vidio">
-        <title>The Tonight Show Starring Jimmy Fallon</title>
-    </programme>
-    <programme start="20241205164000 +0000" stop="20241205172500 +0000" channel="ROCK Entertainment.vidio">
-        <title>Jennifer Hudson; James Acaster; Michael Narciso : Late Night With Seth Meyers</title>
+    <programme start="20241218155500 +0000" stop="20241218175000 +0000" channel="Rock Action.vidio">
+        <title>Scream 4</title>
     </programme>
     <programme start="20241205172500 +0000" stop="20241205181000 +0000" channel="ROCK Entertainment.vidio">
         <title>Auditions -- Pros : Next Level Chef</title>
@@ -28635,200 +27861,86 @@
     <programme start="20241217160500 +0000" stop="20241217180500 +0000" channel="ROCK Entertainment.vidio">
         <title>The Green Hornet</title>
     </programme>
-    <programme start="20241204183200 +0000" stop="20241204190000 +0000" channel="TV5Monde.vidio">
-        <title>Les Matres de la peinture moderne</title>
+    <programme start="20241217180500 +0000" stop="20241217185500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Humbug : NCIS</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204192300 +0000" channel="TV5Monde.vidio">
-        <title>1re partie : 64&#039;, le monde en franais</title>
+    <programme start="20241217185500 +0000" stop="20241217194000 +0000" channel="ROCK Entertainment.vidio">
+        <title>The Stories We Leave Behind : NCIS</title>
     </programme>
-    <programme start="20241204192300 +0000" stop="20241204192700 +0000" channel="TV5Monde.vidio">
-        <title>Le journal de l&#039;conomie</title>
+    <programme start="20241217194000 +0000" stop="20241217202500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Reef Madness : NCIS</title>
     </programme>
-    <programme start="20241204192700 +0000" stop="20241204194700 +0000" channel="TV5Monde.vidio">
-        <title>2e Partie : 64&#039;, le monde en franais</title>
+    <programme start="20241217202500 +0000" stop="20241217211000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Strange Invaders : NCIS</title>
     </programme>
-    <programme start="20241204194700 +0000" stop="20241204195500 +0000" channel="TV5Monde.vidio">
-        <title>L&#039;invit</title>
+    <programme start="20241217211000 +0000" stop="20241217220000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Left Unsaid : NCIS</title>
     </programme>
-    <programme start="20241204195500 +0000" stop="20241204200100 +0000" channel="TV5Monde.vidio">
-        <title>64&#039; l&#039;essentiel</title>
+    <programme start="20241217220000 +0000" stop="20241217224500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Lorraine&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204200100 +0000" stop="20241204204900 +0000" channel="TV5Monde.vidio">
-        <title>Temps prsent</title>
+    <programme start="20241217224500 +0000" stop="20241217233000 +0000" channel="ROCK Entertainment.vidio">
+        <title>April&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204204900 +0000" stop="20241204210000 +0000" channel="TV5Monde.vidio">
-        <title>Sensible, une montagne en partage</title>
+    <programme start="20241217233000 +0000" stop="20241218001500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Marcus&#039; Story : Accused</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204212500 +0000" channel="TV5Monde.vidio">
-        <title>Le Journal de la RTBF</title>
+    <programme start="20241218001500 +0000" stop="20241218010000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Justin&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204212500 +0000" stop="20241204213000 +0000" channel="TV5Monde.vidio">
-        <title>Branches</title>
+    <programme start="20241218010000 +0000" stop="20241218014500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Margot&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204221600 +0000" channel="TV5Monde.vidio">
-        <title>Classe !</title>
+    <programme start="20241218014500 +0000" stop="20241218023000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Val&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204221600 +0000" stop="20241204223000 +0000" channel="TV5Monde.vidio">
-        <title>La peinture franaise autour du monde</title>
+    <programme start="20241218023000 +0000" stop="20241218031500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Eugene&#039;s Story; Megan&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204225700 +0000" channel="TV5Monde.vidio">
-        <title>Chteau !</title>
+    <programme start="20241218031500 +0000" stop="20241218040000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Megan&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204225700 +0000" stop="20241204230000 +0000" channel="TV5Monde.vidio">
-        <title>Oh ! Biz&#039;art</title>
+    <programme start="20241218040000 +0000" stop="20241218054500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Rango</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="TV5Monde.vidio">
-        <title>L&#039;actu</title>
+    <programme start="20241218054500 +0000" stop="20241218071500 +0000" channel="ROCK Entertainment.vidio">
+        <title>I Don&#039;t Know How She Does It</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241204235700 +0000" channel="TV5Monde.vidio">
-        <title>Le journal de la RTS</title>
+    <programme start="20241218071500 +0000" stop="20241218080000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Lorraine&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241204235700 +0000" stop="20241205000000 +0000" channel="TV5Monde.vidio">
-        <title>La minute verte</title>
+    <programme start="20241218080000 +0000" stop="20241218084500 +0000" channel="ROCK Entertainment.vidio">
+        <title>April&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205002600 +0000" channel="TV5Monde.vidio">
-        <title>Le journal de France 2</title>
+    <programme start="20241218084500 +0000" stop="20241218093000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Marcus&#039; Story : Accused</title>
     </programme>
-    <programme start="20241205002600 +0000" stop="20241205003000 +0000" channel="TV5Monde.vidio">
-        <title>Merci professeur !</title>
+    <programme start="20241218093000 +0000" stop="20241218101500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Justin&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205005300 +0000" channel="TV5Monde.vidio">
-        <title>1re partie : 64&#039;, le monde en franais</title>
+    <programme start="20241218101500 +0000" stop="20241218110000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Margot&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205005300 +0000" stop="20241205005600 +0000" channel="TV5Monde.vidio">
-        <title>Le journal de l&#039;conomie</title>
+    <programme start="20241218110000 +0000" stop="20241218114500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Val&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205005600 +0000" stop="20241205011700 +0000" channel="TV5Monde.vidio">
-        <title>2e Partie : 64&#039;, le monde en franais</title>
+    <programme start="20241218114500 +0000" stop="20241218123000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Eugene&#039;s Story; Megan&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205011700 +0000" stop="20241205012600 +0000" channel="TV5Monde.vidio">
-        <title>L&#039;invit</title>
+    <programme start="20241218123000 +0000" stop="20241218131500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Megan&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205012600 +0000" stop="20241205013000 +0000" channel="TV5Monde.vidio">
-        <title>64&#039; l&#039;essentiel</title>
+    <programme start="20241218131500 +0000" stop="20241218144500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Lock, Stock and Two Smoking Barrels</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205023800 +0000" channel="TV5Monde.vidio">
-        <title>C dans l&#039;air</title>
+    <programme start="20241218144500 +0000" stop="20241218161000 +0000" channel="ROCK Entertainment.vidio">
+        <title>Iron Man: Rise of Technovore</title>
     </programme>
-    <programme start="20241205023800 +0000" stop="20241205030200 +0000" channel="TV5Monde.vidio">
-        <title>Dans un territoire prs de chez vous</title>
+    <programme start="20241218161000 +0000" stop="20241218165500 +0000" channel="ROCK Entertainment.vidio">
+        <title>Lorraine&#039;s Story : Accused</title>
     </programme>
-    <programme start="20241205030200 +0000" stop="20241205030500 +0000" channel="TV5Monde.vidio">
-        <title>Merci professeur !</title>
-    </programme>
-    <programme start="20241205030500 +0000" stop="20241205032900 +0000" channel="TV5Monde.vidio">
-        <title>Un si grand soleil</title>
-    </programme>
-    <programme start="20241205032900 +0000" stop="20241205035400 +0000" channel="TV5Monde.vidio">
-        <title>Une brique dans le ventre</title>
-    </programme>
-    <programme start="20241205035400 +0000" stop="20241205035900 +0000" channel="TV5Monde.vidio">
-        <title>Branches</title>
-    </programme>
-    <programme start="20241205035900 +0000" stop="20241205044800 +0000" channel="TV5Monde.vidio">
-        <title>Chacun son le</title>
-    </programme>
-    <programme start="20241205044800 +0000" stop="20241205045800 +0000" channel="TV5Monde.vidio">
-        <title>Sensible, une montagne en partage</title>
-    </programme>
-    <programme start="20241205045800 +0000" stop="20241205052400 +0000" channel="TV5Monde.vidio">
-        <title>Le 6h00 info</title>
-    </programme>
-    <programme start="20241205052400 +0000" stop="20241205052900 +0000" channel="TV5Monde.vidio">
-        <title>Merci professeur !</title>
-    </programme>
-    <programme start="20241205052900 +0000" stop="20241205054600 +0000" channel="TV5Monde.vidio">
-        <title>Tlmatin</title>
-    </programme>
-    <programme start="20241205054600 +0000" stop="20241205055000 +0000" channel="TV5Monde.vidio">
-        <title>Au dtour</title>
-    </programme>
-    <programme start="20241205055000 +0000" stop="20241205062900 +0000" channel="TV5Monde.vidio">
-        <title>Tlmatin</title>
-    </programme>
-    <programme start="20241205062900 +0000" stop="20241205065600 +0000" channel="TV5Monde.vidio">
-        <title>La cuisine des mousquetaires</title>
-    </programme>
-    <programme start="20241205065600 +0000" stop="20241205072700 +0000" channel="TV5Monde.vidio">
-        <title>Slam</title>
-    </programme>
-    <programme start="20241205072700 +0000" stop="20241205073000 +0000" channel="TV5Monde.vidio">
-        <title>La minute verte</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205075700 +0000" channel="TV5Monde.vidio">
-        <title>Le journal de Radio-Canada</title>
-    </programme>
-    <programme start="20241205075700 +0000" stop="20241205080000 +0000" channel="TV5Monde.vidio">
-        <title>La minute urbaine</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205082500 +0000" channel="TV5Monde.vidio">
-        <title>Une brique dans le ventre</title>
-    </programme>
-    <programme start="20241205082500 +0000" stop="20241205083200 +0000" channel="TV5Monde.vidio">
-        <title>Voyages vert vous</title>
-    </programme>
-    <programme start="20241205083200 +0000" stop="20241205085600 +0000" channel="TV5Monde.vidio">
-        <title>Dans un territoire prs de chez vous</title>
-    </programme>
-    <programme start="20241205085600 +0000" stop="20241205085900 +0000" channel="TV5Monde.vidio">
-        <title>Au dtour</title>
-    </programme>
-    <programme start="20241205085900 +0000" stop="20241205090600 +0000" channel="TV5Monde.vidio">
-        <title>Le super jeu de Mixo : Les Quiquoi</title>
-    </programme>
-    <programme start="20241205090600 +0000" stop="20241205091400 +0000" channel="TV5Monde.vidio">
-        <title>Le concours de dguisements : Les Quiquoi</title>
-    </programme>
-    <programme start="20241205091400 +0000" stop="20241205092500 +0000" channel="TV5Monde.vidio">
-        <title>The Star Stone; Capa-Bill : Gigantosaurus</title>
-    </programme>
-    <programme start="20241205092500 +0000" stop="20241205093200 +0000" channel="TV5Monde.vidio">
-        <title>Toc Toc !</title>
-    </programme>
-    <programme start="20241205093200 +0000" stop="20241205095800 +0000" channel="TV5Monde.vidio">
-        <title>Les mutants</title>
-    </programme>
-    <programme start="20241205095800 +0000" stop="20241205100200 +0000" channel="TV5Monde.vidio">
-        <title>Vende Globe 2024</title>
-    </programme>
-    <programme start="20241205100200 +0000" stop="20241205102900 +0000" channel="TV5Monde.vidio">
-        <title>La cuisine des mousquetaires</title>
-    </programme>
-    <programme start="20241205102900 +0000" stop="20241205105300 +0000" channel="TV5Monde.vidio">
-        <title>Un si grand soleil</title>
-    </programme>
-    <programme start="20241205105300 +0000" stop="20241205112700 +0000" channel="TV5Monde.vidio">
-        <title>Questions pour un champion</title>
-    </programme>
-    <programme start="20241205112700 +0000" stop="20241205113200 +0000" channel="TV5Monde.vidio">
-        <title>L&#039;artiste et l&#039;oeuvre</title>
-    </programme>
-    <programme start="20241205113200 +0000" stop="20241205122600 +0000" channel="TV5Monde.vidio">
-        <title>Face aux territoires</title>
-    </programme>
-    <programme start="20241205122600 +0000" stop="20241205123000 +0000" channel="TV5Monde.vidio">
-        <title>Merci professeur !</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205125100 +0000" channel="TV5Monde.vidio">
-        <title>TV5MONDE, le journal</title>
-    </programme>
-    <programme start="20241205125100 +0000" stop="20241205142700 +0000" channel="TV5Monde.vidio">
-        <title>Le pays des sourds</title>
-    </programme>
-    <programme start="20241205142700 +0000" stop="20241205145200 +0000" channel="TV5Monde.vidio">
-        <title>Jesus</title>
-    </programme>
-    <programme start="20241205145200 +0000" stop="20241205150000 +0000" channel="TV5Monde.vidio">
-        <title>Pomme : Hep taxi!</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205165500 +0000" channel="TV5Monde.vidio">
-        <title>Envoy spcial</title>
-    </programme>
-    <programme start="20241205165500 +0000" stop="20241205165800 +0000" channel="TV5Monde.vidio">
-        <title>Au dtour</title>
-    </programme>
-    <programme start="20241205165800 +0000" stop="20241205184300 +0000" channel="TV5Monde.vidio">
-        <title>Martin Roumagnac</title>
+    <programme start="20241218165500 +0000" stop="20241218173500 +0000" channel="ROCK Entertainment.vidio">
+        <title>April&#039;s Story : Accused</title>
     </programme>
     <programme start="20241205184300 +0000" stop="20241205190000 +0000" channel="TV5Monde.vidio">
         <title>Avant-garde</title>
@@ -30870,125 +29982,44 @@
     <programme start="20241217163600 +0000" stop="20241217170400 +0000" channel="TV5Monde.vidio">
         <title>Suisse en scne</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
+    <programme start="20241217170400 +0000" stop="20241217184000 +0000" channel="TV5Monde.vidio">
+        <title>La vie rve des autres</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="Aljazeera.vidio">
-        <title>Inside Story</title>
+    <programme start="20241217184000 +0000" stop="20241217190000 +0000" channel="TV5Monde.vidio">
+        <title>Itinraires paysans</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
+    <programme start="20241217190000 +0000" stop="20241217192200 +0000" channel="TV5Monde.vidio">
+        <title>1re partie : 64&#039;, le monde en franais</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
+    <programme start="20241217192200 +0000" stop="20241217192500 +0000" channel="TV5Monde.vidio">
+        <title>Le journal de l&#039;conomie</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="Aljazeera.vidio">
-        <title>Botswana : Risking It All</title>
+    <programme start="20241217192500 +0000" stop="20241217194500 +0000" channel="TV5Monde.vidio">
+        <title>2e Partie : 64&#039;, le monde en franais</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
+    <programme start="20241217194500 +0000" stop="20241217195300 +0000" channel="TV5Monde.vidio">
+        <title>L&#039;invit</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="Aljazeera.vidio">
-        <title>Inside Story</title>
+    <programme start="20241217195300 +0000" stop="20241217200100 +0000" channel="TV5Monde.vidio">
+        <title>64&#039; l&#039;essentiel</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
+    <programme start="20241217200100 +0000" stop="20241217210000 +0000" channel="TV5Monde.vidio">
+        <title>400 millions de critiques</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
+    <programme start="20241217210000 +0000" stop="20241217212700 +0000" channel="TV5Monde.vidio">
+        <title>Le Journal de la RTBF</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="Aljazeera.vidio">
-        <title>All That Remains : Fault Lines</title>
+    <programme start="20241217212700 +0000" stop="20241217222900 +0000" channel="TV5Monde.vidio">
+        <title>Alex Beaupain je n&#039;aime que toi</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
+    <programme start="20241217222900 +0000" stop="20241217230000 +0000" channel="TV5Monde.vidio">
+        <title>Marilou et enfants : Le grand move</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="Aljazeera.vidio">
-        <title>Repatriation : Restitution: Africa&#039;s Stolen Art</title>
+    <programme start="20241217230000 +0000" stop="20241217235200 +0000" channel="TV5Monde.vidio">
+        <title>Sur les sentiers de l&#039;Histoire</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="Aljazeera.vidio">
-        <title>Inside Story</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Aljazeera.vidio">
-        <title>Rising To The Challenge : Al Jazeera World</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205023000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="Aljazeera.vidio">
-        <title>Social Media And Financial Literacy : The Stream</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="Aljazeera.vidio">
-        <title>Wild Recovery : Earthrise</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Aljazeera.vidio">
-        <title>Brian Eno &amp; Ha-Joon Chang P2 : Studio B: Unscripted</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="Aljazeera.vidio">
-        <title>Inside Story</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="Aljazeera.vidio">
-        <title>Repatriation : Restitution: Africa&#039;s Stolen Art</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205080000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Aljazeera.vidio">
-        <title>All That Remains : Fault Lines</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="Aljazeera.vidio">
-        <title>The Bottom Line</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Aljazeera.vidio">
-        <title>Inside Story</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="Aljazeera.vidio">
-        <title>French Decolonisation : Blood And Tears: French Decolonisation</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="Aljazeera.vidio">
-        <title>The Listening Post</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="Aljazeera.vidio">
-        <title>Newshour</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Aljazeera.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Aljazeera.vidio">
-        <title>Divided Straits : Witness</title>
+    <programme start="20241217235200 +0000" stop="20241218010000 +0000" channel="TV5Monde.vidio">
+        <title>C dans l&#039;air</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="Aljazeera.vidio">
         <title>News</title>
@@ -32439,182 +31470,125 @@
     <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="Aljazeera.vidio">
         <title>Cambodia: Le Phnom : War Hotels</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204171500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241217170000 +0000" stop="20241217173000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204171500 +0000" stop="20241204173000 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="Aljazeera.vidio">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="DW English.vidio">
-        <title>Close Up</title>
+    <programme start="20241217180000 +0000" stop="20241217190000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241217190000 +0000" stop="20241217193000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190000 +0000" channel="DW English.vidio">
-        <title>DocFilm</title>
+    <programme start="20241217193000 +0000" stop="20241217200000 +0000" channel="Aljazeera.vidio">
+        <title>The Bottom Line</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204190200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241217200000 +0000" stop="20241217203000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204190200 +0000" stop="20241204193000 +0000" channel="DW English.vidio">
-        <title>Using medication safely : In Good Shape</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="Aljazeera.vidio">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="DW English.vidio">
-        <title>The Magazine for Africa&#039;s Youth : The 77 Percent</title>
+    <programme start="20241217210000 +0000" stop="20241217220000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241217220000 +0000" stop="20241217223000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="DW English.vidio">
-        <title>The Day - News in Review</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="Aljazeera.vidio">
+        <title>Change of Power : Earthrise</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204210200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204210200 +0000" stop="20241204211500 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Aljazeera.vidio">
+        <title>Counting the Cost</title>
     </programme>
-    <programme start="20241204211500 +0000" stop="20241204220000 +0000" channel="DW English.vidio">
-        <title>Fear, Power, Remembrance - Dresden&#039;s Stasi Headquarters : DocFilm</title>
+    <programme start="20241218000000 +0000" stop="20241218003000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204220200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="Aljazeera.vidio">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20241204220200 +0000" stop="20241204223000 +0000" channel="DW English.vidio">
-        <title>The Day - News in Review</title>
+    <programme start="20241218010000 +0000" stop="20241218020000 +0000" channel="Aljazeera.vidio">
+        <title>A Very British Way of Torture</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="DW English.vidio">
-        <title>Made in Germany</title>
+    <programme start="20241218020000 +0000" stop="20241218023000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204231500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="Aljazeera.vidio">
+        <title>The Listening Post</title>
     </programme>
-    <programme start="20241204231500 +0000" stop="20241204233000 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
+    <programme start="20241218030000 +0000" stop="20241218033000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="DW English.vidio">
-        <title>Focus on Europe</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="Aljazeera.vidio">
+        <title>Syria&#039;s Last Chapter - Hope in Idlib : Witness</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205000200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218040000 +0000" stop="20241218043000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205000200 +0000" stop="20241205003000 +0000" channel="DW English.vidio">
-        <title>The Day - News in Review</title>
+    <programme start="20241218043000 +0000" stop="20241218050000 +0000" channel="Aljazeera.vidio">
+        <title>South Korea&#039;s Migrant Workers : 101 East</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="DW English.vidio">
-        <title>Cmo te afecta?</title>
+    <programme start="20241218050000 +0000" stop="20241218053000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205011500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="Aljazeera.vidio">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20241205011500 +0000" stop="20241205020000 +0000" channel="DW English.vidio">
-        <title>A Gold Rush in Space: The Business of Space Travel : DocFilm</title>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205020200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="Aljazeera.vidio">
+        <title>Counting the Cost</title>
     </programme>
-    <programme start="20241205020200 +0000" stop="20241205023000 +0000" channel="DW English.vidio">
-        <title>The Day - News in Review</title>
+    <programme start="20241218070000 +0000" stop="20241218080000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="DW English.vidio">
-        <title>Made in Germany</title>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205031500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="Aljazeera.vidio">
+        <title>Change of Power : Earthrise</title>
     </programme>
-    <programme start="20241205031500 +0000" stop="20241205033000 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
+    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="DW English.vidio">
-        <title>Cmo te afecta?</title>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="Aljazeera.vidio">
+        <title>The Stream</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205041500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218100000 +0000" stop="20241218110000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241205041500 +0000" stop="20241205050000 +0000" channel="DW English.vidio">
-        <title>A Gold Rush in Space: The Business of Space Travel : DocFilm</title>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205050200 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="Aljazeera.vidio">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20241205050200 +0000" stop="20241205053000 +0000" channel="DW English.vidio">
-        <title>The Day - News in Review</title>
+    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="Aljazeera.vidio">
+        <title>From Gaza to the Arctic : Witness</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="DW English.vidio">
-        <title>Focus on Europe</title>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205061500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205061500 +0000" stop="20241205063000 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="Aljazeera.vidio">
+        <title>Philippe Lazzarini : Talk to Al Jazeera</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="DW English.vidio">
-        <title>Made in Germany</title>
+    <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="Aljazeera.vidio">
+        <title>Newshour</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Aljazeera.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="DW English.vidio">
-        <title>Focus on Europe</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="DW English.vidio">
-        <title>Cmo te afecta?</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205091500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205091500 +0000" stop="20241205100000 +0000" channel="DW English.vidio">
-        <title>Where Women Rule the Roost - Keeping Zapotec Tradition Alive : DocFilm</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="DW English.vidio">
-        <title>Can Nature and Progress Coexist? : Eco India</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="DW English.vidio">
-        <title>Focus on Europe</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205121500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205121500 +0000" stop="20241205130000 +0000" channel="DW English.vidio">
-        <title>Fear, Power, Remembrance - Dresden&#039;s Stasi Headquarters : DocFilm</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205131500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205131500 +0000" stop="20241205133000 +0000" channel="DW English.vidio">
-        <title>Best of DW-Online Content</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="DW English.vidio">
-        <title>REV - The Global Auto and Mobility Show</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="DW English.vidio">
-        <title>Focus on Europe</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="DW English.vidio">
-        <title>Using medication safely : In Good Shape</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205161500 +0000" channel="DW English.vidio">
-        <title>DW News</title>
-    </programme>
-    <programme start="20241205161500 +0000" stop="20241205170000 +0000" channel="DW English.vidio">
-        <title>Where Women Rule the Roost - Keeping Zapotec Tradition Alive : DocFilm</title>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="Aljazeera.vidio">
+        <title>Sumayya Vally &amp; Alejandro Aravena P1 : Studio B: Unscripted</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205171500 +0000" channel="DW English.vidio">
         <title>DW News</title>
@@ -34881,95 +33855,185 @@
     <programme start="20241217164500 +0000" stop="20241217170000 +0000" channel="DW English.vidio">
         <title>Reporter</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="ABC Australia.vidio">
-        <title>Comeback - Shayna Jack : Australian Story</title>
+    <programme start="20241217170000 +0000" stop="20241217171500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="ABC Australia.vidio">
-        <title>Hannah Gadsby&#039;s Oz</title>
+    <programme start="20241217171500 +0000" stop="20241217173000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190000 +0000" channel="ABC Australia.vidio">
-        <title>Framed</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="DW English.vidio">
+        <title>REV - The Global Auto and Mobility Show</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="ABC Australia.vidio">
-        <title>Getting There : Ms Represented with Annabel Crabb</title>
+    <programme start="20241217180000 +0000" stop="20241217183000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="ABC Australia.vidio">
-        <title>7.30</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="DW English.vidio">
+        <title>Eco Africa - The Environment Magazine</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="ABC Australia.vidio">
-        <title>The World</title>
+    <programme start="20241217190000 +0000" stop="20241217190200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241205000000 +0000" channel="ABC Australia.vidio">
-        <title>News Breakfast</title>
+    <programme start="20241217190200 +0000" stop="20241217193000 +0000" channel="DW English.vidio">
+        <title>Eco India - The Environment Magazine</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205030000 +0000" channel="ABC Australia.vidio">
-        <title>ABC News Mornings</title>
+    <programme start="20241217193000 +0000" stop="20241217200000 +0000" channel="DW English.vidio">
+        <title>Tomorrow Today - The Science Magazine</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="ABC Australia.vidio">
-        <title>ABC News At Noon</title>
+    <programme start="20241217200000 +0000" stop="20241217203000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205042500 +0000" channel="ABC Australia.vidio">
-        <title>Bean There Done That : The Cook Up with Adam Liaw</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="DW English.vidio">
+        <title>The Day - News in Review</title>
     </programme>
-    <programme start="20241205042500 +0000" stop="20241205043500 +0000" channel="ABC Australia.vidio">
-        <title>Bangladeshi : 8 Nights Out West</title>
+    <programme start="20241217210000 +0000" stop="20241217210200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205043500 +0000" stop="20241205053000 +0000" channel="ABC Australia.vidio">
-        <title>Cyclone : Australia Remastered: Forces of Nature</title>
+    <programme start="20241217210200 +0000" stop="20241217211500 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205063000 +0000" channel="ABC Australia.vidio">
-        <title>Miriam Margolyes: Australia Unmasked</title>
+    <programme start="20241217211500 +0000" stop="20241217214500 +0000" channel="DW English.vidio">
+        <title>Close Up</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="ABC Australia.vidio">
-        <title>Fran Kelly : Barrie Cassidy&#039;s One Plus One</title>
+    <programme start="20241217214500 +0000" stop="20241217220000 +0000" channel="DW English.vidio">
+        <title>Shift - Living in the Digital Age</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205080000 +0000" channel="ABC Australia.vidio">
-        <title>Afternoon Briefing</title>
+    <programme start="20241217220000 +0000" stop="20241217220200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="ABC Australia.vidio">
-        <title>ABC News</title>
+    <programme start="20241217220200 +0000" stop="20241217223000 +0000" channel="DW English.vidio">
+        <title>The Day - News in Review</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="ABC Australia.vidio">
-        <title>Bean There Done That : The Cook Up with Adam Liaw</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="DW English.vidio">
+        <title>The Magazine for Africa&#039;s Youth : The 77 Percent</title>
     </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="ABC Australia.vidio">
-        <title>Oranges : The Fruit Nerd Presents Field to Feast</title>
+    <programme start="20241217230000 +0000" stop="20241217231500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="ABC Australia.vidio">
-        <title>ABC National News</title>
+    <programme start="20241217231500 +0000" stop="20241217233000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="ABC Australia.vidio">
-        <title>7.30</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="DW English.vidio">
+        <title>Global Us - What Connects Us All</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205114500 +0000" channel="ABC Australia.vidio">
-        <title>ABC News Tonight</title>
+    <programme start="20241218000000 +0000" stop="20241218000200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205114500 +0000" stop="20241205120000 +0000" channel="ABC Australia.vidio">
-        <title>The Business</title>
+    <programme start="20241218000200 +0000" stop="20241218003000 +0000" channel="DW English.vidio">
+        <title>The Day - News in Review</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="ABC Australia.vidio">
-        <title>The World</title>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="DW English.vidio">
+        <title>Made in Germany</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="ABC Australia.vidio">
-        <title>Cyclone : Australia Remastered: Forces of Nature</title>
+    <programme start="20241218010000 +0000" stop="20241218011500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="ABC Australia.vidio">
-        <title>Evandale, TAS : Back Roads</title>
+    <programme start="20241218011500 +0000" stop="20241218020000 +0000" channel="DW English.vidio">
+        <title>DocFilm</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205153000 +0000" channel="ABC Australia.vidio">
-        <title>Miriam Margolyes: Australia Unmasked</title>
+    <programme start="20241218020000 +0000" stop="20241218020200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="ABC Australia.vidio">
-        <title>7.30</title>
+    <programme start="20241218020200 +0000" stop="20241218023000 +0000" channel="DW English.vidio">
+        <title>The Day - News in Review</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205161500 +0000" channel="ABC Australia.vidio">
-        <title>ABC Late News</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="DW English.vidio">
+        <title>Global Us - What Connects Us All</title>
     </programme>
-    <programme start="20241205161500 +0000" stop="20241205163000 +0000" channel="ABC Australia.vidio">
-        <title>The Business</title>
+    <programme start="20241218030000 +0000" stop="20241218031500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205173000 +0000" channel="ABC Australia.vidio">
-        <title>The World</title>
+    <programme start="20241218031500 +0000" stop="20241218033000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="DW English.vidio">
+        <title>Eco Africa - The Environment Magazine</title>
+    </programme>
+    <programme start="20241218040000 +0000" stop="20241218041500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218041500 +0000" stop="20241218050000 +0000" channel="DW English.vidio">
+        <title>DocFilm</title>
+    </programme>
+    <programme start="20241218050000 +0000" stop="20241218050200 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218050200 +0000" stop="20241218053000 +0000" channel="DW English.vidio">
+        <title>The Day - News in Review</title>
+    </programme>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="DW English.vidio">
+        <title>Made in Germany</title>
+    </programme>
+    <programme start="20241218060000 +0000" stop="20241218061500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218061500 +0000" stop="20241218063000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="DW English.vidio">
+        <title>In Good Shape -- The Health Show</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="DW English.vidio">
+        <title>Close Up</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="DW English.vidio">
+        <title>Eco India - The Environment Magazine</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218091500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218091500 +0000" stop="20241218100000 +0000" channel="DW English.vidio">
+        <title>DocFilm</title>
+    </programme>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="DW English.vidio">
+        <title>Close Up</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="DW English.vidio">
+        <title>Made in Germany</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218121500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218121500 +0000" stop="20241218130000 +0000" channel="DW English.vidio">
+        <title>When Night Falls in Chongqing - China&#039;s Growing Megacity : DocFilm</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218131500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218131500 +0000" stop="20241218133000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="DW English.vidio">
+        <title>Eco Africa - The Environment Magazine</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="DW English.vidio">
+        <title>Made in Germany</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="DW English.vidio">
+        <title>Eco India - The Environment Magazine</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218161500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241218161500 +0000" stop="20241218170000 +0000" channel="DW English.vidio">
+        <title>DocFilm</title>
     </programme>
     <programme start="20241205173000 +0000" stop="20241205180000 +0000" channel="ABC Australia.vidio">
         <title>Bean There Done That : The Cook Up with Adam Liaw</title>
@@ -36111,257 +35175,104 @@
     <programme start="20241217163000 +0000" stop="20241217173000 +0000" channel="ABC Australia.vidio">
         <title>The World</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204171500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241217173000 +0000" stop="20241217182500 +0000" channel="ABC Australia.vidio">
+        <title>One Of A Kind : A Brief History Of Cricket Downunder: The 80&#039;s</title>
     </programme>
-    <programme start="20241204171500 +0000" stop="20241204173000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
+    <programme start="20241217182500 +0000" stop="20241217191500 +0000" channel="ABC Australia.vidio">
+        <title>Predators : Decoding Danger</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204174500 +0000" channel="NHK World Japan.vidio">
-        <title>A Bento Shaped by Layers of Traditions : Ekiben Japan</title>
+    <programme start="20241217191500 +0000" stop="20241217193000 +0000" channel="ABC Australia.vidio">
+        <title>Self-Made Woman : Aussie Mavericks</title>
     </programme>
-    <programme start="20241204174500 +0000" stop="20241204175500 +0000" channel="NHK World Japan.vidio">
-        <title>Washi : Magical Japanese</title>
+    <programme start="20241217193000 +0000" stop="20241217200000 +0000" channel="ABC Australia.vidio">
+        <title>7.30</title>
     </programme>
-    <programme start="20241204175500 +0000" stop="20241204180000 +0000" channel="NHK World Japan.vidio">
-        <title>Satoyama Living: Country Customs Sustaining the Ancient Capital : Core Kyoto Mini</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="ABC Australia.vidio">
+        <title>The World</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204182700 +0000" channel="NHK World Japan.vidio">
-        <title>Newsroom Tokyo</title>
+    <programme start="20241217210000 +0000" stop="20241218000000 +0000" channel="ABC Australia.vidio">
+        <title>News Breakfast</title>
     </programme>
-    <programme start="20241204182700 +0000" stop="20241204184000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
+    <programme start="20241218000000 +0000" stop="20241218030000 +0000" channel="ABC Australia.vidio">
+        <title>ABC News Mornings</title>
     </programme>
-    <programme start="20241204184000 +0000" stop="20241204185500 +0000" channel="NHK World Japan.vidio">
-        <title>Kure Kaoru / Photographer &amp; Journalist : Direct Talk</title>
+    <programme start="20241218030000 +0000" stop="20241218040000 +0000" channel="ABC Australia.vidio">
+        <title>ABC News At Noon</title>
     </programme>
-    <programme start="20241204185500 +0000" stop="20241204190000 +0000" channel="NHK World Japan.vidio">
-        <title>Fishing for a Summer Delicacy : Ukiyoe Edo-Life</title>
+    <programme start="20241218040000 +0000" stop="20241218042500 +0000" channel="ABC Australia.vidio">
+        <title>Ferment To Be : The Cook Up with Adam Liaw</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="NHK World Japan.vidio">
-        <title>A Final Lesson</title>
+    <programme start="20241218042500 +0000" stop="20241218045500 +0000" channel="ABC Australia.vidio">
+        <title>Ratu : Pacific Break Live From Fiji: 2024 Launch</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="NHK World Japan.vidio">
-        <title>Horse-Powered Energy Innovator - Iwama Takashi : Frontrunners</title>
+    <programme start="20241218045500 +0000" stop="20241218050000 +0000" channel="ABC Australia.vidio">
+        <title>Julie Gough : This Place: Artist Series</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204201800 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218050000 +0000" stop="20241218053000 +0000" channel="ABC Australia.vidio">
+        <title>Framed</title>
     </programme>
-    <programme start="20241204201800 +0000" stop="20241204203000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="ABC Australia.vidio">
+        <title>Jessica Cottis, Germaine Acogny, Slammed : Art Works</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="NHK World Japan.vidio">
-        <title>Trails to Oishii Tokyo</title>
+    <programme start="20241218060000 +0000" stop="20241218070000 +0000" channel="ABC Australia.vidio">
+        <title>Keep on Dancing</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204211800 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218070000 +0000" stop="20241218080000 +0000" channel="ABC Australia.vidio">
+        <title>ABC News Summer</title>
     </programme>
-    <programme start="20241204211800 +0000" stop="20241204213000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="ABC Australia.vidio">
+        <title>ABC News</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="NHK World Japan.vidio">
-        <title>Zoshigaya - A Town Protected by a Repentant Demoness : Dive in Tokyo</title>
+    <programme start="20241218090000 +0000" stop="20241218092500 +0000" channel="ABC Australia.vidio">
+        <title>Ferment To Be : The Cook Up with Adam Liaw</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204221800 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218092500 +0000" stop="20241218093000 +0000" channel="ABC Australia.vidio">
+        <title>Mabel Juli : This Place: Artist Series</title>
     </programme>
-    <programme start="20241204221800 +0000" stop="20241204223000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="ABC Australia.vidio">
+        <title>Ratu : Pacific Break Live From Fiji: 2024 Launch</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204224500 +0000" channel="NHK World Japan.vidio">
-        <title>A Bento Shaped by Layers of Traditions : Ekiben Japan</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="ABC Australia.vidio">
+        <title>ABC National News</title>
     </programme>
-    <programme start="20241204224500 +0000" stop="20241204225500 +0000" channel="NHK World Japan.vidio">
-        <title>Washi : Magical Japanese</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="ABC Australia.vidio">
+        <title>7.30</title>
     </programme>
-    <programme start="20241204225500 +0000" stop="20241204230000 +0000" channel="NHK World Japan.vidio">
-        <title>Satoyama Living: Country Customs Sustaining the Ancient Capital : Core Kyoto Mini</title>
+    <programme start="20241218110000 +0000" stop="20241218115500 +0000" channel="ABC Australia.vidio">
+        <title>Christmas in Australia with Christine Anu</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204231500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218115500 +0000" stop="20241218120000 +0000" channel="ABC Australia.vidio">
+        <title>Classic Choir: Oh Christmas Tree</title>
     </programme>
-    <programme start="20241204231500 +0000" stop="20241204232000 +0000" channel="NHK World Japan.vidio">
-        <title>Fishing for a Summer Delicacy : Ukiyoe Edo-Life</title>
+    <programme start="20241218120000 +0000" stop="20241218125500 +0000" channel="ABC Australia.vidio">
+        <title>The World</title>
     </programme>
-    <programme start="20241204232000 +0000" stop="20241204232500 +0000" channel="NHK World Japan.vidio">
-        <title>Time-Lapse Japan</title>
+    <programme start="20241218125500 +0000" stop="20241218133000 +0000" channel="ABC Australia.vidio">
+        <title>Australian Story</title>
     </programme>
-    <programme start="20241204232500 +0000" stop="20241204233000 +0000" channel="NHK World Japan.vidio">
-        <title>Plant Hunter : Japan From Above: Up Close</title>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="ABC Australia.vidio">
+        <title>Jessica Cottis, Germaine Acogny, Slammed : Art Works</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241204235700 +0000" channel="NHK World Japan.vidio">
-        <title>Grand Sumo Highlights</title>
+    <programme start="20241218140000 +0000" stop="20241218142500 +0000" channel="ABC Australia.vidio">
+        <title>Framed</title>
     </programme>
-    <programme start="20241204235700 +0000" stop="20241205000000 +0000" channel="NHK World Japan.vidio">
-        <title>Sumopedia</title>
+    <programme start="20241218142500 +0000" stop="20241218150000 +0000" channel="ABC Australia.vidio">
+        <title>In the Room : Ms Represented with Annabel Crabb</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205001500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="ABC Australia.vidio">
+        <title>Ratu : Pacific Break Live From Fiji: 2024 Launch</title>
     </programme>
-    <programme start="20241205001500 +0000" stop="20241205003000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="ABC Australia.vidio">
+        <title>7.30</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="NHK World Japan.vidio">
-        <title>Conversations: The Colours of Kyoto : Core Kyoto</title>
+    <programme start="20241218160000 +0000" stop="20241218161500 +0000" channel="ABC Australia.vidio">
+        <title>ABC Late News</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205011500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
+    <programme start="20241218161500 +0000" stop="20241218163000 +0000" channel="ABC Australia.vidio">
+        <title>Salute to the Ute : Things That Made Australia</title>
     </programme>
-    <programme start="20241205011500 +0000" stop="20241205013000 +0000" channel="NHK World Japan.vidio">
-        <title>Thomas Rau / Architect and Founder of RAU Architects : Direct Talk</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="NHK World Japan.vidio">
-        <title>Evolving Renovations : Design X Stories</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205021500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205021500 +0000" stop="20241205023000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="NHK World Japan.vidio">
-        <title>Izumo: Land of the Supernatural : Japanology Plus</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205031500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205031500 +0000" stop="20241205033000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="NHK World Japan.vidio">
-        <title>Kabocha : Trails to Oishii Tokyo</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205041500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205041500 +0000" stop="20241205043000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205043000 +0000" stop="20241205045700 +0000" channel="NHK World Japan.vidio">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20241205045700 +0000" stop="20241205050000 +0000" channel="NHK World Japan.vidio">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205051500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205051500 +0000" stop="20241205053000 +0000" channel="NHK World Japan.vidio">
-        <title>Thomas Rau / Architect and Founder of RAU Architects : Direct Talk</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="NHK World Japan.vidio">
-        <title>Conversations: The Colours of Kyoto : Core Kyoto</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="NHK World Japan.vidio">
-        <title>Evolving Renovations : Design X Stories</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="NHK World Japan.vidio">
-        <title>Izumo: Land of the Supernatural : Japanology Plus</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205081400 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205081400 +0000" stop="20241205081500 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
-    </programme>
-    <programme start="20241205081500 +0000" stop="20241205082300 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
-    </programme>
-    <programme start="20241205082300 +0000" stop="20241205083000 +0000" channel="NHK World Japan.vidio">
-        <title>Shikoku Pilgrimage : Japan From Above: Up Close</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205085700 +0000" channel="NHK World Japan.vidio">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20241205085700 +0000" stop="20241205090000 +0000" channel="NHK World Japan.vidio">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205091400 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205091400 +0000" stop="20241205091500 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
-    </programme>
-    <programme start="20241205091500 +0000" stop="20241205093000 +0000" channel="NHK World Japan.vidio">
-        <title>Alessandra Korap Munduruku / Amazon Environmental Activist : Direct Talk</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="NHK World Japan.vidio">
-        <title>Kabocha : Trails to Oishii Tokyo</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205101700 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205101700 +0000" stop="20241205101800 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
-    </programme>
-    <programme start="20241205101800 +0000" stop="20241205103000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="NHK World Japan.vidio">
-        <title>Conversations: The Colours of Kyoto : Core Kyoto</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205112700 +0000" channel="NHK World Japan.vidio">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20241205112700 +0000" stop="20241205114000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205114000 +0000" stop="20241205115500 +0000" channel="NHK World Japan.vidio">
-        <title>Thomas Rau / Architect and Founder of RAU Architects : Direct Talk</title>
-    </programme>
-    <programme start="20241205115500 +0000" stop="20241205120000 +0000" channel="NHK World Japan.vidio">
-        <title>A Night of Fashion and Fireworks : Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="NHK World Japan.vidio">
-        <title>Evolving Renovations : Design X Stories</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205131500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205131500 +0000" stop="20241205133000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="NHK World Japan.vidio">
-        <title>Izumo: Land of the Supernatural : Japanology Plus</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205141500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205141500 +0000" stop="20241205143000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="NHK World Japan.vidio">
-        <title>Japan&#039;s Unique Railway Departure Melodies : Japan Railway Journal</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205151500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205151500 +0000" stop="20241205153000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="NHK World Japan.vidio">
-        <title>Conversations: The Colours of Kyoto : Core Kyoto</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205161500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241205161500 +0000" stop="20241205163000 +0000" channel="NHK World Japan.vidio">
-        <title>Thomas Rau / Architect and Founder of RAU Architects : Direct Talk</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205165700 +0000" channel="NHK World Japan.vidio">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20241205165700 +0000" stop="20241205170000 +0000" channel="NHK World Japan.vidio">
-        <title>Sumopedia</title>
+    <programme start="20241218163000 +0000" stop="20241218173000 +0000" channel="ABC Australia.vidio">
+        <title>The World</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205171500 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
@@ -39411,218 +38322,446 @@
     <programme start="20241217001500 +0000" stop="20241217003000 +0000" channel="NHK World Japan.vidio">
         <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241217003000 +0000" stop="20241217004000 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241217004000 +0000" stop="20241217004500 +0000" channel="NHK World Japan.vidio">
-        <title>A Culture Built with Wood</title>
-    </programme>
-    <programme start="20241217004500 +0000" stop="20241217010000 +0000" channel="NHK World Japan.vidio">
-        <title>Direct Talk</title>
-    </programme>
-    <programme start="20241217010000 +0000" stop="20241217013000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217003000 +0000" stop="20241217010000 +0000" channel="NHK World Japan.vidio">
         <title>Journeys in Japan</title>
     </programme>
-    <programme start="20241217013000 +0000" stop="20241217014000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217010000 +0000" stop="20241217011500 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217014000 +0000" stop="20241217015500 +0000" channel="NHK World Japan.vidio">
-        <title>Artists against War</title>
+    <programme start="20241217011500 +0000" stop="20241217013000 +0000" channel="NHK World Japan.vidio">
+        <title>Helping Ukrainian Evacuees Learn Japanese : Direct Talk</title>
     </programme>
-    <programme start="20241217015500 +0000" stop="20241217020000 +0000" channel="NHK World Japan.vidio">
-        <title>Hit the Road</title>
+    <programme start="20241217013000 +0000" stop="20241217020000 +0000" channel="NHK World Japan.vidio">
+        <title>Authentic Japanese Cooking/Matsukaze Chicken Loaf : Dining with the Chef</title>
     </programme>
-    <programme start="20241217020000 +0000" stop="20241217023000 +0000" channel="NHK World Japan.vidio">
-        <title>Dining with the Chef</title>
-    </programme>
-    <programme start="20241217023000 +0000" stop="20241217024000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217020000 +0000" stop="20241217021500 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217024000 +0000" stop="20241217030000 +0000" channel="NHK World Japan.vidio">
-        <title>My Street Piano</title>
+    <programme start="20241217021500 +0000" stop="20241217023000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241217030000 +0000" stop="20241217033000 +0000" channel="NHK World Japan.vidio">
-        <title>Document 72 Hours</title>
+    <programme start="20241217023000 +0000" stop="20241217030000 +0000" channel="NHK World Japan.vidio">
+        <title>At a Small Kobe Okonomiyaki Shop : Document 72 Hours</title>
     </programme>
-    <programme start="20241217033000 +0000" stop="20241217034000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217030000 +0000" stop="20241217031500 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217034000 +0000" stop="20241217034400 +0000" channel="NHK World Japan.vidio">
-        <title>Time-Lapse Journey</title>
+    <programme start="20241217031500 +0000" stop="20241217033000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241217034400 +0000" stop="20241217034500 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
-    </programme>
-    <programme start="20241217034500 +0000" stop="20241217035300 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
-    </programme>
-    <programme start="20241217035300 +0000" stop="20241217040000 +0000" channel="NHK World Japan.vidio">
-        <title>Japan From Above: Up Close</title>
+    <programme start="20241217033000 +0000" stop="20241217040000 +0000" channel="NHK World Japan.vidio">
+        <title>Acupuncture to Improve Quality of Life : Medical Frontiers</title>
     </programme>
     <programme start="20241217040000 +0000" stop="20241217041500 +0000" channel="NHK World Japan.vidio">
-        <title>Deeper Look from New York</title>
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217041500 +0000" stop="20241217042500 +0000" channel="NHK World Japan.vidio">
-        <title>Dig More Japan!</title>
+    <programme start="20241217041500 +0000" stop="20241217043000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241217042500 +0000" stop="20241217042700 +0000" channel="NHK World Japan.vidio">
-        <title>The Seasons of Yamato</title>
+    <programme start="20241217043000 +0000" stop="20241217044500 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20241217042700 +0000" stop="20241217043000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217044500 +0000" stop="20241217045500 +0000" channel="NHK World Japan.vidio">
+        <title>Sky High Japan : Dig More Japan!</title>
+    </programme>
+    <programme start="20241217045500 +0000" stop="20241217045700 +0000" channel="NHK World Japan.vidio">
+        <title>Winter Solstice (Touji) / The 24 Solar Terms : The Seasons of Yamato</title>
+    </programme>
+    <programme start="20241217045700 +0000" stop="20241217050000 +0000" channel="NHK World Japan.vidio">
         <title>Sumopedia</title>
     </programme>
-    <programme start="20241217043000 +0000" stop="20241217044400 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217050000 +0000" stop="20241217051500 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217044400 +0000" stop="20241217044500 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
+    <programme start="20241217051500 +0000" stop="20241217053000 +0000" channel="NHK World Japan.vidio">
+        <title>Helping Ukrainian Evacuees Learn Japanese : Direct Talk</title>
     </programme>
-    <programme start="20241217044500 +0000" stop="20241217050000 +0000" channel="NHK World Japan.vidio">
-        <title>Direct Talk</title>
-    </programme>
-    <programme start="20241217050000 +0000" stop="20241217053000 +0000" channel="NHK World Japan.vidio">
-        <title>Medical Frontiers</title>
-    </programme>
-    <programme start="20241217053000 +0000" stop="20241217054500 +0000" channel="NHK World Japan.vidio">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20241217054500 +0000" stop="20241217054700 +0000" channel="NHK World Japan.vidio">
-        <title>Biz Stream</title>
-    </programme>
-    <programme start="20241217054700 +0000" stop="20241217054800 +0000" channel="NHK World Japan.vidio">
-        <title>NL Bridge</title>
-    </programme>
-    <programme start="20241217054800 +0000" stop="20241217060000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline Biz</title>
-    </programme>
-    <programme start="20241217060000 +0000" stop="20241217063000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217053000 +0000" stop="20241217060000 +0000" channel="NHK World Japan.vidio">
         <title>Journeys in Japan</title>
     </programme>
-    <programme start="20241217063000 +0000" stop="20241217064500 +0000" channel="NHK World Japan.vidio">
-        <title>Newsroom Tokyo</title>
+    <programme start="20241217060000 +0000" stop="20241217063000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20241217064500 +0000" stop="20241217065700 +0000" channel="NHK World Japan.vidio">
-        <title>Artists against War</title>
+    <programme start="20241217063000 +0000" stop="20241217070000 +0000" channel="NHK World Japan.vidio">
+        <title>Authentic Japanese Cooking/Matsukaze Chicken Loaf : Dining with the Chef</title>
     </programme>
-    <programme start="20241217065700 +0000" stop="20241217070000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsline in Depth</title>
+    <programme start="20241217070000 +0000" stop="20241217073000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20241217070000 +0000" stop="20241217070500 +0000" channel="NHK World Japan.vidio">
-        <title>Hit the Road</title>
+    <programme start="20241217073000 +0000" stop="20241217080000 +0000" channel="NHK World Japan.vidio">
+        <title>At a Small Kobe Okonomiyaki Shop : Document 72 Hours</title>
     </programme>
-    <programme start="20241217070500 +0000" stop="20241217071000 +0000" channel="NHK World Japan.vidio">
-        <title>A Culture Built with Wood</title>
-    </programme>
-    <programme start="20241217071000 +0000" stop="20241217072500 +0000" channel="NHK World Japan.vidio">
-        <title>Direct Talk</title>
-    </programme>
-    <programme start="20241217072500 +0000" stop="20241217073000 +0000" channel="NHK World Japan.vidio">
-        <title>Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20241217073000 +0000" stop="20241217074000 +0000" channel="NHK World Japan.vidio">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20241217074000 +0000" stop="20241217080000 +0000" channel="NHK World Japan.vidio">
-        <title>My Street Piano</title>
-    </programme>
-    <programme start="20241217080000 +0000" stop="20241217083000 +0000" channel="NHK World Japan.vidio">
-        <title>Dining with the Chef</title>
-    </programme>
-    <programme start="20241217083000 +0000" stop="20241217084000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217080000 +0000" stop="20241217081400 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217084000 +0000" stop="20241217084800 +0000" channel="NHK World Japan.vidio">
-        <title>Time-Lapse Journey</title>
+    <programme start="20241217081400 +0000" stop="20241217081500 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
     </programme>
-    <programme start="20241217084800 +0000" stop="20241217090000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217081500 +0000" stop="20241217082300 +0000" channel="NHK World Japan.vidio">
         <title>Newsline Biz</title>
     </programme>
-    <programme start="20241217090000 +0000" stop="20241217093000 +0000" channel="NHK World Japan.vidio">
-        <title>Document 72 Hours</title>
+    <programme start="20241217082300 +0000" stop="20241217083000 +0000" channel="NHK World Japan.vidio">
+        <title>Shiretoko Underwater Photographer : Japan From Above: Up Close</title>
     </programme>
-    <programme start="20241217093000 +0000" stop="20241217094000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217083000 +0000" stop="20241217084500 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20241217084500 +0000" stop="20241217085700 +0000" channel="NHK World Japan.vidio">
+        <title>How to Survive an Earthquake : BOSAI: Science That Can Save Your Life</title>
+    </programme>
+    <programme start="20241217085700 +0000" stop="20241217090000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
+    </programme>
+    <programme start="20241217090000 +0000" stop="20241217091400 +0000" channel="NHK World Japan.vidio">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217094000 +0000" stop="20241217094500 +0000" channel="NHK World Japan.vidio">
-        <title>Biz Stream</title>
+    <programme start="20241217091400 +0000" stop="20241217091500 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
     </programme>
-    <programme start="20241217094500 +0000" stop="20241217095300 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217091500 +0000" stop="20241217093000 +0000" channel="NHK World Japan.vidio">
+        <title>Mayuzumi Madoka Haiku Poet : Direct Talk</title>
+    </programme>
+    <programme start="20241217093000 +0000" stop="20241217100000 +0000" channel="NHK World Japan.vidio">
+        <title>Acupuncture to Improve Quality of Life : Medical Frontiers</title>
+    </programme>
+    <programme start="20241217100000 +0000" stop="20241217101700 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241217101700 +0000" stop="20241217101800 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
+    </programme>
+    <programme start="20241217101800 +0000" stop="20241217103000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
+    </programme>
+    <programme start="20241217103000 +0000" stop="20241217110000 +0000" channel="NHK World Japan.vidio">
+        <title>Journeys in Japan</title>
+    </programme>
+    <programme start="20241217110000 +0000" stop="20241217112700 +0000" channel="NHK World Japan.vidio">
+        <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20241217112700 +0000" stop="20241217114000 +0000" channel="NHK World Japan.vidio">
         <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241217095300 +0000" stop="20241217100000 +0000" channel="NHK World Japan.vidio">
-        <title>Framing Everyday&#039;s Moments</title>
+    <programme start="20241217114000 +0000" stop="20241217115500 +0000" channel="NHK World Japan.vidio">
+        <title>Helping Ukrainian Evacuees Learn Japanese : Direct Talk</title>
     </programme>
-    <programme start="20241217100000 +0000" stop="20241217123000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241217115500 +0000" stop="20241217120000 +0000" channel="NHK World Japan.vidio">
+        <title>A Glance at a Potential Future : Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20241217120000 +0000" stop="20241217123000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20241217123000 +0000" stop="20241217130000 +0000" channel="NHK World Japan.vidio">
+        <title>Authentic Japanese Cooking/Matsukaze Chicken Loaf : Dining with the Chef</title>
+    </programme>
+    <programme start="20241217130000 +0000" stop="20241217131500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241217131500 +0000" stop="20241217133000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241217133000 +0000" stop="20241217140000 +0000" channel="NHK World Japan.vidio">
+        <title>At a Small Kobe Okonomiyaki Shop : Document 72 Hours</title>
+    </programme>
+    <programme start="20241217140000 +0000" stop="20241217141500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241217141500 +0000" stop="20241217143000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241217143000 +0000" stop="20241217150000 +0000" channel="NHK World Japan.vidio">
         <title>Science View</title>
     </programme>
-    <programme start="20241217123000 +0000" stop="20241217163000 +0000" channel="NHK World Japan.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241217150000 +0000" stop="20241217151500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241217163000 +0000" stop="20241217203000 +0000" channel="NHK World Japan.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241217151500 +0000" stop="20241217153000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="News Asia.vidio">
-        <title>Talking Point</title>
+    <programme start="20241217153000 +0000" stop="20241217160000 +0000" channel="NHK World Japan.vidio">
+        <title>Journeys in Japan</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204190000 +0000" channel="News Asia.vidio">
-        <title>Singapore Tonight</title>
+    <programme start="20241217160000 +0000" stop="20241217161500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="News Asia.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241217161500 +0000" stop="20241217163000 +0000" channel="NHK World Japan.vidio">
+        <title>Helping Ukrainian Evacuees Learn Japanese : Direct Talk</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204210000 +0000" channel="News Asia.vidio">
-        <title>Asia Tonight</title>
+    <programme start="20241217163000 +0000" stop="20241217164500 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204220000 +0000" channel="News Asia.vidio">
-        <title>Forgotten Palate</title>
+    <programme start="20241217164500 +0000" stop="20241217165500 +0000" channel="NHK World Japan.vidio">
+        <title>Sky High Japan : Dig More Japan!</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="News Asia.vidio">
-        <title>Singapore Tonight</title>
+    <programme start="20241217165500 +0000" stop="20241217165700 +0000" channel="NHK World Japan.vidio">
+        <title>Winter Solstice (Touji) / The 24 Solar Terms : The Seasons of Yamato</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205020000 +0000" channel="News Asia.vidio">
-        <title>Asia First</title>
+    <programme start="20241217165700 +0000" stop="20241217170000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="News Asia.vidio">
-        <title>Forgotten Palate</title>
+    <programme start="20241217170000 +0000" stop="20241217171500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="News Asia.vidio">
-        <title>Asia Now</title>
+    <programme start="20241217171500 +0000" stop="20241217173000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="News Asia.vidio">
-        <title>Leadership Unlimited</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="NHK World Japan.vidio">
+        <title>Authentic Japanese Cooking/Matsukaze Chicken Loaf : Dining with the Chef</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205080000 +0000" channel="News Asia.vidio">
-        <title>Asia Now</title>
+    <programme start="20241217180000 +0000" stop="20241217182700 +0000" channel="NHK World Japan.vidio">
+        <title>Newsroom Tokyo</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="News Asia.vidio">
-        <title>In The Grandstand</title>
+    <programme start="20241217182700 +0000" stop="20241217184000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="News Asia.vidio">
-        <title>On the Red Dot</title>
+    <programme start="20241217184000 +0000" stop="20241217185500 +0000" channel="NHK World Japan.vidio">
+        <title>Mayuzumi Madoka Haiku Poet : Direct Talk</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205090200 +0000" channel="News Asia.vidio">
-        <title>Headline News</title>
+    <programme start="20241217185500 +0000" stop="20241217190000 +0000" channel="NHK World Japan.vidio">
+        <title>A Glance at a Potential Future : Ukiyoe Edo-Life</title>
     </programme>
-    <programme start="20241205090200 +0000" stop="20241205100000 +0000" channel="News Asia.vidio">
-        <title>Talking Point</title>
+    <programme start="20241217190000 +0000" stop="20241217193000 +0000" channel="NHK World Japan.vidio">
+        <title>Fighting to Keep Children Fed : Biz Stream</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205120000 +0000" channel="News Asia.vidio">
-        <title>East Asia Tonight</title>
+    <programme start="20241217193000 +0000" stop="20241217200000 +0000" channel="NHK World Japan.vidio">
+        <title>At a Small Kobe Okonomiyaki Shop : Document 72 Hours</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="News Asia.vidio">
-        <title>Asia Tonight</title>
+    <programme start="20241217200000 +0000" stop="20241217201800 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205140000 +0000" channel="News Asia.vidio">
-        <title>Insight</title>
+    <programme start="20241217201800 +0000" stop="20241217203000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205160000 +0000" channel="News Asia.vidio">
-        <title>Singapore Tonight</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="NHK World Japan.vidio">
+        <title>Science View</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205160300 +0000" channel="News Asia.vidio">
-        <title>Headline News</title>
+    <programme start="20241217210000 +0000" stop="20241217211800 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
     </programme>
-    <programme start="20241205160300 +0000" stop="20241205170000 +0000" channel="News Asia.vidio">
-        <title>East Asia Tonight</title>
+    <programme start="20241217211800 +0000" stop="20241217213000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
+    </programme>
+    <programme start="20241217213000 +0000" stop="20241217220000 +0000" channel="NHK World Japan.vidio">
+        <title>Journeys in Japan</title>
+    </programme>
+    <programme start="20241217220000 +0000" stop="20241217221800 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241217221800 +0000" stop="20241217223000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
+    </programme>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="NHK World Japan.vidio">
+        <title>Authentic Japanese Cooking/Matsukaze Chicken Loaf : Dining with the Chef</title>
+    </programme>
+    <programme start="20241217230000 +0000" stop="20241217231500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241217231500 +0000" stop="20241217232000 +0000" channel="NHK World Japan.vidio">
+        <title>A Glance at a Potential Future : Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20241217232000 +0000" stop="20241217232500 +0000" channel="NHK World Japan.vidio">
+        <title>Jomon: The Oyu Stone Circle : Time-Lapse Japan</title>
+    </programme>
+    <programme start="20241217232500 +0000" stop="20241217233000 +0000" channel="NHK World Japan.vidio">
+        <title>Shiretoko Underwater Photographer : Japan From Above: Up Close</title>
+    </programme>
+    <programme start="20241217233000 +0000" stop="20241217234500 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20241217234500 +0000" stop="20241217235500 +0000" channel="NHK World Japan.vidio">
+        <title>Sky High Japan : Dig More Japan!</title>
+    </programme>
+    <programme start="20241217235500 +0000" stop="20241217235700 +0000" channel="NHK World Japan.vidio">
+        <title>Winter Solstice (Touji) / The 24 Solar Terms : The Seasons of Yamato</title>
+    </programme>
+    <programme start="20241217235700 +0000" stop="20241218000000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
+    </programme>
+    <programme start="20241218000000 +0000" stop="20241218001500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218001500 +0000" stop="20241218003000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="NHK World Japan.vidio">
+        <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20241218010000 +0000" stop="20241218011500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218011500 +0000" stop="20241218013000 +0000" channel="NHK World Japan.vidio">
+        <title>Lomorpich Rithy / Festival Director of BonnPhum : Direct Talk</title>
+    </programme>
+    <programme start="20241218013000 +0000" stop="20241218014500 +0000" channel="NHK World Japan.vidio">
+        <title>Poison and Medicine: The Ninja&#039;s Double-Sided Coin : Ninja Truth</title>
+    </programme>
+    <programme start="20241218014500 +0000" stop="20241218015500 +0000" channel="NHK World Japan.vidio">
+        <title>Magical Japanese</title>
+    </programme>
+    <programme start="20241218015500 +0000" stop="20241218020000 +0000" channel="NHK World Japan.vidio">
+        <title>Setsubun: Out With The Demons And In With Fortune : Core Kyoto Mini</title>
+    </programme>
+    <programme start="20241218020000 +0000" stop="20241218021500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218021500 +0000" stop="20241218023000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="NHK World Japan.vidio">
+        <title>International Mountain Medic: Oshiro Kazue : Frontrunners</title>
+    </programme>
+    <programme start="20241218030000 +0000" stop="20241218031500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218031500 +0000" stop="20241218033000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="NHK World Japan.vidio">
+        <title>Science View</title>
+    </programme>
+    <programme start="20241218040000 +0000" stop="20241218041500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218041500 +0000" stop="20241218043000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218043000 +0000" stop="20241218045700 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20241218045700 +0000" stop="20241218050000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
+    </programme>
+    <programme start="20241218050000 +0000" stop="20241218051500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218051500 +0000" stop="20241218053000 +0000" channel="NHK World Japan.vidio">
+        <title>Lomorpich Rithy / Festival Director of BonnPhum : Direct Talk</title>
+    </programme>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="NHK World Japan.vidio">
+        <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Asia 24</title>
+    </programme>
+    <programme start="20241218063000 +0000" stop="20241218064500 +0000" channel="NHK World Japan.vidio">
+        <title>Poison and Medicine: The Ninja&#039;s Double-Sided Coin : Ninja Truth</title>
+    </programme>
+    <programme start="20241218064500 +0000" stop="20241218065500 +0000" channel="NHK World Japan.vidio">
+        <title>Magical Japanese</title>
+    </programme>
+    <programme start="20241218065500 +0000" stop="20241218070000 +0000" channel="NHK World Japan.vidio">
+        <title>Setsubun: Out With The Demons And In With Fortune : Core Kyoto Mini</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Asia 24</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="NHK World Japan.vidio">
+        <title>International Mountain Medic: Oshiro Kazue : Frontrunners</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218081400 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218081400 +0000" stop="20241218081500 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
+    </programme>
+    <programme start="20241218081500 +0000" stop="20241218082300 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
+    </programme>
+    <programme start="20241218082300 +0000" stop="20241218083000 +0000" channel="NHK World Japan.vidio">
+        <title>Tsugaru Snow Railway : Japan From Above: Up Close</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218085700 +0000" channel="NHK World Japan.vidio">
+        <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20241218085700 +0000" stop="20241218090000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218091400 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218091400 +0000" stop="20241218091500 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
+    </programme>
+    <programme start="20241218091500 +0000" stop="20241218093000 +0000" channel="NHK World Japan.vidio">
+        <title>Indira Ranamagar / Founder of Prisoner&#039;s Assistance Nepal : Direct Talk</title>
+    </programme>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="NHK World Japan.vidio">
+        <title>Science View</title>
+    </programme>
+    <programme start="20241218100000 +0000" stop="20241218101700 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218101700 +0000" stop="20241218101800 +0000" channel="NHK World Japan.vidio">
+        <title>NL Bridge</title>
+    </programme>
+    <programme start="20241218101800 +0000" stop="20241218103000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline Biz</title>
+    </programme>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="NHK World Japan.vidio">
+        <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218112700 +0000" channel="NHK World Japan.vidio">
+        <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20241218112700 +0000" stop="20241218114000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218114000 +0000" stop="20241218115500 +0000" channel="NHK World Japan.vidio">
+        <title>Lomorpich Rithy / Festival Director of BonnPhum : Direct Talk</title>
+    </programme>
+    <programme start="20241218115500 +0000" stop="20241218120000 +0000" channel="NHK World Japan.vidio">
+        <title>Wishing Upon the Stars : Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218123000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20241218123000 +0000" stop="20241218124500 +0000" channel="NHK World Japan.vidio">
+        <title>Poison and Medicine: The Ninja&#039;s Double-Sided Coin : Ninja Truth</title>
+    </programme>
+    <programme start="20241218124500 +0000" stop="20241218125500 +0000" channel="NHK World Japan.vidio">
+        <title>Magical Japanese</title>
+    </programme>
+    <programme start="20241218125500 +0000" stop="20241218130000 +0000" channel="NHK World Japan.vidio">
+        <title>Setsubun: Out With The Demons And In With Fortune : Core Kyoto Mini</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218131500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218131500 +0000" stop="20241218133000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="NHK World Japan.vidio">
+        <title>International Mountain Medic: Oshiro Kazue : Frontrunners</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218141500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218141500 +0000" stop="20241218143000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="NHK World Japan.vidio">
+        <title>Trails to Oishii Tokyo</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218151500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218151500 +0000" stop="20241218153000 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="NHK World Japan.vidio">
+        <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218161500 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241218161500 +0000" stop="20241218163000 +0000" channel="NHK World Japan.vidio">
+        <title>Lomorpich Rithy / Festival Director of BonnPhum : Direct Talk</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218165700 +0000" channel="NHK World Japan.vidio">
+        <title>Kabuki Dance for Tachiyaku Male Roles : Kabuki Kool</title>
+    </programme>
+    <programme start="20241218165700 +0000" stop="20241218170000 +0000" channel="NHK World Japan.vidio">
+        <title>Sumopedia</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="News Asia.vidio">
         <title>Leadership Unlimited</title>
@@ -40719,671 +39858,74 @@
     <programme start="20241217160300 +0000" stop="20241217170000 +0000" channel="News Asia.vidio">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204171900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217170000 +0000" stop="20241217180000 +0000" channel="News Asia.vidio">
+        <title>Sing to Remember: Defying Dementia</title>
     </programme>
-    <programme start="20241204171900 +0000" stop="20241204172800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217180000 +0000" stop="20241217190000 +0000" channel="News Asia.vidio">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20241204172800 +0000" stop="20241204173000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="News Asia.vidio">
+        <title>A League of Extraordinary Makers</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204173800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="News Asia.vidio">
+        <title>Asia Tonight</title>
     </programme>
-    <programme start="20241204173800 +0000" stop="20241204174200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
+    <programme start="20241217210000 +0000" stop="20241217220000 +0000" channel="News Asia.vidio">
+        <title>Preparing For Dangerous Storms</title>
     </programme>
-    <programme start="20241204174200 +0000" stop="20241204175000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217220000 +0000" stop="20241217230000 +0000" channel="News Asia.vidio">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20241204175000 +0000" stop="20241204175800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241217230000 +0000" stop="20241218020000 +0000" channel="News Asia.vidio">
+        <title>Asia First</title>
     </programme>
-    <programme start="20241204175800 +0000" stop="20241204180000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218020000 +0000" stop="20241218030000 +0000" channel="News Asia.vidio">
+        <title>Preparing For Dangerous Storms</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204180800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218030000 +0000" stop="20241218050000 +0000" channel="News Asia.vidio">
+        <title>Asia Now</title>
     </programme>
-    <programme start="20241204180800 +0000" stop="20241204181200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
+    <programme start="20241218050000 +0000" stop="20241218060000 +0000" channel="News Asia.vidio">
+        <title>Preparing For Dangerous Storms</title>
     </programme>
-    <programme start="20241204181200 +0000" stop="20241204182000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218060000 +0000" stop="20241218080000 +0000" channel="News Asia.vidio">
+        <title>Asia Now</title>
     </programme>
-    <programme start="20241204182000 +0000" stop="20241204183000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218080000 +0000" stop="20241218090000 +0000" channel="News Asia.vidio">
+        <title>Insight</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204183700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218090000 +0000" stop="20241218090200 +0000" channel="News Asia.vidio">
+        <title>Headline News</title>
     </programme>
-    <programme start="20241204183700 +0000" stop="20241204184200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
+    <programme start="20241218090200 +0000" stop="20241218100000 +0000" channel="News Asia.vidio">
+        <title>Sing to Remember: Defying Dementia</title>
     </programme>
-    <programme start="20241204184200 +0000" stop="20241204185000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218100000 +0000" stop="20241218110000 +0000" channel="News Asia.vidio">
+        <title>East Asia Tonight</title>
     </programme>
-    <programme start="20241204185000 +0000" stop="20241204185800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="News Asia.vidio">
+        <title>Remarkable Living</title>
     </programme>
-    <programme start="20241204185800 +0000" stop="20241204190000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="News Asia.vidio">
+        <title>CNA Correspondent</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204190800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="News Asia.vidio">
+        <title>Asia Tonight</title>
     </programme>
-    <programme start="20241204190800 +0000" stop="20241204191900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="News Asia.vidio">
+        <title>Bringing Back The Gods : Looted</title>
     </programme>
-    <programme start="20241204191900 +0000" stop="20241204192800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218140000 +0000" stop="20241218150000 +0000" channel="News Asia.vidio">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20241204192800 +0000" stop="20241204193000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="News Asia.vidio">
+        <title>Preparing For Dangerous Storms</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204193800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218160000 +0000" stop="20241218160300 +0000" channel="News Asia.vidio">
+        <title>Headline News</title>
     </programme>
-    <programme start="20241204193800 +0000" stop="20241204194200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204194200 +0000" stop="20241204195000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204195000 +0000" stop="20241204195800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204195800 +0000" stop="20241204200000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204200000 +0000" stop="20241204200800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204200800 +0000" stop="20241204201200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204201200 +0000" stop="20241204202000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204202000 +0000" stop="20241204203000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204203000 +0000" stop="20241204203700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204203700 +0000" stop="20241204204200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204204200 +0000" stop="20241204205000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204205000 +0000" stop="20241204205800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204205800 +0000" stop="20241204210000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204210000 +0000" stop="20241204210800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204210800 +0000" stop="20241204211200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204211200 +0000" stop="20241204212000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204212000 +0000" stop="20241204213000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204213000 +0000" stop="20241204213700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204213700 +0000" stop="20241204214200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204214200 +0000" stop="20241204215000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204215000 +0000" stop="20241204215800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204215800 +0000" stop="20241204220000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204220000 +0000" stop="20241204220800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204220800 +0000" stop="20241204221200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204221200 +0000" stop="20241204222000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204222000 +0000" stop="20241204223000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204223000 +0000" stop="20241204223700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204223700 +0000" stop="20241204224200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204224200 +0000" stop="20241204225000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204225000 +0000" stop="20241204225800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204225800 +0000" stop="20241204230000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204230000 +0000" stop="20241204230700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204230700 +0000" stop="20241204231100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204231100 +0000" stop="20241204232000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204232000 +0000" stop="20241204232800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204232800 +0000" stop="20241204233000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204233000 +0000" stop="20241204233600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204233600 +0000" stop="20241204234100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241204234100 +0000" stop="20241204235000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204235000 +0000" stop="20241204235800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241204235800 +0000" stop="20241205000000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205000000 +0000" stop="20241205000700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205000700 +0000" stop="20241205001100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205001100 +0000" stop="20241205002000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205002000 +0000" stop="20241205002800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205002800 +0000" stop="20241205003000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205003000 +0000" stop="20241205003600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205003600 +0000" stop="20241205004100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205004100 +0000" stop="20241205005000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205005000 +0000" stop="20241205005800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205005800 +0000" stop="20241205010000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205010000 +0000" stop="20241205010700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205010700 +0000" stop="20241205011100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205011100 +0000" stop="20241205012000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205012000 +0000" stop="20241205012800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205012800 +0000" stop="20241205013000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205013000 +0000" stop="20241205013600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205013600 +0000" stop="20241205014100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205014100 +0000" stop="20241205015000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205015000 +0000" stop="20241205015800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205015800 +0000" stop="20241205020000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205020000 +0000" stop="20241205020700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205020700 +0000" stop="20241205021100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205021100 +0000" stop="20241205022000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205022000 +0000" stop="20241205022800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205022800 +0000" stop="20241205023000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205023000 +0000" stop="20241205023600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205023600 +0000" stop="20241205024100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205024100 +0000" stop="20241205025000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205025000 +0000" stop="20241205025800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205025800 +0000" stop="20241205030000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205030000 +0000" stop="20241205030700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205030700 +0000" stop="20241205031100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205031100 +0000" stop="20241205032000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205032000 +0000" stop="20241205032800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205032800 +0000" stop="20241205033000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205033000 +0000" stop="20241205033600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205033600 +0000" stop="20241205034100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205034100 +0000" stop="20241205035000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205035000 +0000" stop="20241205035800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205035800 +0000" stop="20241205040000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205040000 +0000" stop="20241205040700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205040700 +0000" stop="20241205041100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205041100 +0000" stop="20241205042000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205042000 +0000" stop="20241205042800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205042800 +0000" stop="20241205043000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205043000 +0000" stop="20241205043600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205043600 +0000" stop="20241205044100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205044100 +0000" stop="20241205045000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205045000 +0000" stop="20241205045800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205045800 +0000" stop="20241205050000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205050000 +0000" stop="20241205050700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205050700 +0000" stop="20241205051100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205051100 +0000" stop="20241205052000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205052000 +0000" stop="20241205052800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205052800 +0000" stop="20241205053000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205053000 +0000" stop="20241205053600 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205053600 +0000" stop="20241205054100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205054100 +0000" stop="20241205055000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205055000 +0000" stop="20241205055800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205055800 +0000" stop="20241205060000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205060000 +0000" stop="20241205060800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205060800 +0000" stop="20241205061900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205061900 +0000" stop="20241205062800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205062800 +0000" stop="20241205063000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205063000 +0000" stop="20241205063800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205063800 +0000" stop="20241205064200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205064200 +0000" stop="20241205065000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205065000 +0000" stop="20241205065800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205065800 +0000" stop="20241205070000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205070000 +0000" stop="20241205070800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205070800 +0000" stop="20241205071200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205071200 +0000" stop="20241205072000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205072000 +0000" stop="20241205073000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205073000 +0000" stop="20241205073700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205073700 +0000" stop="20241205074200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205074200 +0000" stop="20241205075000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205075000 +0000" stop="20241205075800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205075800 +0000" stop="20241205080000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205080800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205080800 +0000" stop="20241205081200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205081200 +0000" stop="20241205082000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205082000 +0000" stop="20241205083000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205083700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205083700 +0000" stop="20241205084200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205084200 +0000" stop="20241205085000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205085000 +0000" stop="20241205085800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205085800 +0000" stop="20241205090000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205090800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205090800 +0000" stop="20241205091900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205091900 +0000" stop="20241205092800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205092800 +0000" stop="20241205093000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205093800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205093800 +0000" stop="20241205094200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205094200 +0000" stop="20241205095000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205095000 +0000" stop="20241205095800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205095800 +0000" stop="20241205100000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205100800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205100800 +0000" stop="20241205101200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205101200 +0000" stop="20241205102100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205102100 +0000" stop="20241205103000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205103700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205103700 +0000" stop="20241205104200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205104200 +0000" stop="20241205105000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205105000 +0000" stop="20241205105800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205105800 +0000" stop="20241205110000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205110800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205110800 +0000" stop="20241205111200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205111200 +0000" stop="20241205112100 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205112100 +0000" stop="20241205113000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205113700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205113700 +0000" stop="20241205114200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205114200 +0000" stop="20241205115000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205115000 +0000" stop="20241205115800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205115800 +0000" stop="20241205120000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205120800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205120800 +0000" stop="20241205121900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205121900 +0000" stop="20241205122800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205122800 +0000" stop="20241205123000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205123800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205123800 +0000" stop="20241205124200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205124200 +0000" stop="20241205125000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205125000 +0000" stop="20241205125800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205125800 +0000" stop="20241205130000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205130800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205130800 +0000" stop="20241205131200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205131200 +0000" stop="20241205132000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205132000 +0000" stop="20241205133000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205133700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205133700 +0000" stop="20241205134200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205134200 +0000" stop="20241205135000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205135000 +0000" stop="20241205135800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205135800 +0000" stop="20241205140000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205140800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205140800 +0000" stop="20241205141200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205141200 +0000" stop="20241205142000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205142000 +0000" stop="20241205143000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205143700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205143700 +0000" stop="20241205144200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205144200 +0000" stop="20241205145000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205145000 +0000" stop="20241205145800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205145800 +0000" stop="20241205150000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205150800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205150800 +0000" stop="20241205151900 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205151900 +0000" stop="20241205152800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205152800 +0000" stop="20241205153000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205153800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205153800 +0000" stop="20241205154200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205154200 +0000" stop="20241205155000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205155000 +0000" stop="20241205155800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205155800 +0000" stop="20241205160000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205160800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205160800 +0000" stop="20241205161200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205161200 +0000" stop="20241205162000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205162000 +0000" stop="20241205163000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205163700 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205163700 +0000" stop="20241205164200 +0000" channel="AFRICANEWS TV.vidio">
-        <title>This Is Culture</title>
-    </programme>
-    <programme start="20241205164200 +0000" stop="20241205165000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205165000 +0000" stop="20241205165800 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205165800 +0000" stop="20241205170000 +0000" channel="AFRICANEWS TV.vidio">
-        <title>News</title>
+    <programme start="20241218160300 +0000" stop="20241218170000 +0000" channel="News Asia.vidio">
+        <title>East Asia Tonight</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205170800 +0000" channel="AFRICANEWS TV.vidio">
         <title>News</title>
@@ -50235,149 +48777,686 @@
     <programme start="20241217165800 +0000" stop="20241217170000 +0000" channel="AFRICANEWS TV.vidio">
         <title>News</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="SEA TODAY.vidio">
-        <title>Super Octogeneranians</title>
+    <programme start="20241217170000 +0000" stop="20241217170600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="SEA TODAY.vidio">
-        <title>The Night Shift</title>
+    <programme start="20241217170600 +0000" stop="20241217171400 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="SEA TODAY.vidio">
-        <title>Reality Trip</title>
+    <programme start="20241217171400 +0000" stop="20241217172000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190000 +0000" channel="SEA TODAY.vidio">
-        <title>Trail Town</title>
+    <programme start="20241217172000 +0000" stop="20241217172800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204193000 +0000" channel="SEA TODAY.vidio">
-        <title>Pridelands Safari</title>
+    <programme start="20241217172800 +0000" stop="20241217173000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204200000 +0000" channel="SEA TODAY.vidio">
-        <title>Duo Backpackers</title>
+    <programme start="20241217173000 +0000" stop="20241217173800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204203000 +0000" channel="SEA TODAY.vidio">
-        <title>Side Walk</title>
+    <programme start="20241217173800 +0000" stop="20241217174200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="SEA TODAY.vidio">
-        <title>Trail Town</title>
+    <programme start="20241217174200 +0000" stop="20241217175000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204213000 +0000" channel="SEA TODAY.vidio">
-        <title>Pridelands Safari</title>
+    <programme start="20241217175000 +0000" stop="20241217175800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="SEA TODAY.vidio">
-        <title>Duo Backpackers</title>
+    <programme start="20241217175800 +0000" stop="20241217180000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="SEA TODAY.vidio">
-        <title>Side Walk</title>
+    <programme start="20241217180000 +0000" stop="20241217180800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="SEA TODAY.vidio">
-        <title>Tabula Rasa</title>
+    <programme start="20241217180800 +0000" stop="20241217182000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217182000 +0000" stop="20241217182800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217182800 +0000" stop="20241217183000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205003000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217183000 +0000" stop="20241217183800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217183800 +0000" stop="20241217184200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205013000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217184200 +0000" stop="20241217185000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Morning Show</title>
+    <programme start="20241217185000 +0000" stop="20241217185800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205023000 +0000" channel="SEA TODAY.vidio">
-        <title>Secret for a Healthy Life</title>
+    <programme start="20241217185800 +0000" stop="20241217190000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="SEA TODAY.vidio">
-        <title>Wellness Story</title>
+    <programme start="20241217190000 +0000" stop="20241217190800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205033000 +0000" channel="SEA TODAY.vidio">
-        <title>Dr. Lisa to the Rescue</title>
+    <programme start="20241217190800 +0000" stop="20241217191200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="SEA TODAY.vidio">
-        <title>Vet Tales</title>
+    <programme start="20241217191200 +0000" stop="20241217192000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205043000 +0000" channel="SEA TODAY.vidio">
-        <title>Animalpedia</title>
+    <programme start="20241217192000 +0000" stop="20241217193000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="SEA TODAY.vidio">
-        <title>Animal Library</title>
+    <programme start="20241217193000 +0000" stop="20241217193700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="SEA TODAY.vidio">
-        <title>The Shelter</title>
+    <programme start="20241217193700 +0000" stop="20241217194200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Today Business</title>
+    <programme start="20241217194200 +0000" stop="20241217195000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="SEA TODAY.vidio">
-        <title>SEA Today Business</title>
+    <programme start="20241217195000 +0000" stop="20241217195800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="SEA TODAY.vidio">
-        <title>Exploring Nusantara with Kristian Hansen</title>
+    <programme start="20241217195800 +0000" stop="20241217200000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205073000 +0000" channel="SEA TODAY.vidio">
-        <title>Tough Boats</title>
+    <programme start="20241217200000 +0000" stop="20241217200600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="SEA TODAY.vidio">
-        <title>Travel Quest</title>
+    <programme start="20241217200600 +0000" stop="20241217201400 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="SEA TODAY.vidio">
-        <title>Epic Trails</title>
+    <programme start="20241217201400 +0000" stop="20241217202000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="SEA TODAY.vidio">
-        <title>Sustainable Living</title>
+    <programme start="20241217202000 +0000" stop="20241217202800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205093000 +0000" channel="SEA TODAY.vidio">
-        <title>Living in Harmony</title>
+    <programme start="20241217202800 +0000" stop="20241217203000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="SEA TODAY.vidio">
-        <title>Green Living</title>
+    <programme start="20241217203000 +0000" stop="20241217203800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217203800 +0000" stop="20241217204200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217204200 +0000" stop="20241217205000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217205000 +0000" stop="20241217205800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217205800 +0000" stop="20241217210000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217210000 +0000" stop="20241217210800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="SEA TODAY.vidio">
-        <title>3-Hour News</title>
+    <programme start="20241217210800 +0000" stop="20241217211900 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205133000 +0000" channel="SEA TODAY.vidio">
-        <title>Hungry Hour</title>
+    <programme start="20241217211900 +0000" stop="20241217212800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="SEA TODAY.vidio">
-        <title>World of Durian</title>
+    <programme start="20241217212800 +0000" stop="20241217213000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="SEA TODAY.vidio">
-        <title>Stories of Taste</title>
+    <programme start="20241217213000 +0000" stop="20241217213800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="SEA TODAY.vidio">
-        <title>Crave</title>
+    <programme start="20241217213800 +0000" stop="20241217214200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205153000 +0000" channel="SEA TODAY.vidio">
-        <title>SEAfood</title>
+    <programme start="20241217214200 +0000" stop="20241217215000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="SEA TODAY.vidio">
-        <title>Pridelands Safari</title>
+    <programme start="20241217215000 +0000" stop="20241217215800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="SEA TODAY.vidio">
-        <title>The Longest Day</title>
+    <programme start="20241217215800 +0000" stop="20241217220000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="SEA TODAY.vidio">
-        <title>The World From Above</title>
+    <programme start="20241217220000 +0000" stop="20241217220800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217220800 +0000" stop="20241217221200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241217221200 +0000" stop="20241217222000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217222000 +0000" stop="20241217223000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217223000 +0000" stop="20241217223700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217223700 +0000" stop="20241217224200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241217224200 +0000" stop="20241217225000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217225000 +0000" stop="20241217225800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217225800 +0000" stop="20241217230000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217230000 +0000" stop="20241217230700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217230700 +0000" stop="20241217231100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241217231100 +0000" stop="20241217232000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217232000 +0000" stop="20241217232800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217232800 +0000" stop="20241217233000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217233000 +0000" stop="20241217233600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217233600 +0000" stop="20241217234100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241217234100 +0000" stop="20241217235000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217235000 +0000" stop="20241217235800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241217235800 +0000" stop="20241218000000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218000000 +0000" stop="20241218000700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218000700 +0000" stop="20241218001100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218001100 +0000" stop="20241218002000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218002000 +0000" stop="20241218002800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218002800 +0000" stop="20241218003000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218003000 +0000" stop="20241218003600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218003600 +0000" stop="20241218004100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218004100 +0000" stop="20241218005000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218005000 +0000" stop="20241218005800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218005800 +0000" stop="20241218010000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218010000 +0000" stop="20241218010700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218010700 +0000" stop="20241218011100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218011100 +0000" stop="20241218012000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218012000 +0000" stop="20241218012800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218012800 +0000" stop="20241218013000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218013000 +0000" stop="20241218013600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218013600 +0000" stop="20241218014100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218014100 +0000" stop="20241218015000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218015000 +0000" stop="20241218015800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218015800 +0000" stop="20241218020000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218020000 +0000" stop="20241218020700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218020700 +0000" stop="20241218021100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218021100 +0000" stop="20241218022000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218022000 +0000" stop="20241218022800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218022800 +0000" stop="20241218023000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218023000 +0000" stop="20241218023600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218023600 +0000" stop="20241218024100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218024100 +0000" stop="20241218025000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218025000 +0000" stop="20241218025800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218025800 +0000" stop="20241218030000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218030000 +0000" stop="20241218030700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218030700 +0000" stop="20241218031100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218031100 +0000" stop="20241218032000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218032000 +0000" stop="20241218032800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218032800 +0000" stop="20241218033000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218033000 +0000" stop="20241218033600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218033600 +0000" stop="20241218034100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218034100 +0000" stop="20241218035000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218035000 +0000" stop="20241218035800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218035800 +0000" stop="20241218040000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218040000 +0000" stop="20241218040700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218040700 +0000" stop="20241218041100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218041100 +0000" stop="20241218042000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218042000 +0000" stop="20241218042800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218042800 +0000" stop="20241218043000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218043000 +0000" stop="20241218043600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218043600 +0000" stop="20241218044100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218044100 +0000" stop="20241218045000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218045000 +0000" stop="20241218045800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218045800 +0000" stop="20241218050000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218050000 +0000" stop="20241218050700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218050700 +0000" stop="20241218051100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218051100 +0000" stop="20241218052000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218052000 +0000" stop="20241218052800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218052800 +0000" stop="20241218053000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218053000 +0000" stop="20241218053600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218053600 +0000" stop="20241218054100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218054100 +0000" stop="20241218055000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218055000 +0000" stop="20241218055800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218055800 +0000" stop="20241218060000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218060000 +0000" stop="20241218060800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218060800 +0000" stop="20241218061200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218061200 +0000" stop="20241218062000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218062000 +0000" stop="20241218062800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218062800 +0000" stop="20241218063000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218063000 +0000" stop="20241218063700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218063700 +0000" stop="20241218064200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218064200 +0000" stop="20241218065000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218065000 +0000" stop="20241218065800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218065800 +0000" stop="20241218070000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218070000 +0000" stop="20241218070800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218070800 +0000" stop="20241218071200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218071200 +0000" stop="20241218072000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218072000 +0000" stop="20241218073000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218073000 +0000" stop="20241218073700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218073700 +0000" stop="20241218074200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218074200 +0000" stop="20241218075000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218075000 +0000" stop="20241218075800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218075800 +0000" stop="20241218080000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218080000 +0000" stop="20241218080800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218080800 +0000" stop="20241218081900 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218081900 +0000" stop="20241218082800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218082800 +0000" stop="20241218083000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218083000 +0000" stop="20241218083800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218083800 +0000" stop="20241218084200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218084200 +0000" stop="20241218085000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218085000 +0000" stop="20241218085800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218085800 +0000" stop="20241218090000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218090000 +0000" stop="20241218090600 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218090600 +0000" stop="20241218091400 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
+    </programme>
+    <programme start="20241218091400 +0000" stop="20241218092000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>Business Africa</title>
+    </programme>
+    <programme start="20241218092000 +0000" stop="20241218092800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218092800 +0000" stop="20241218093000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218093000 +0000" stop="20241218093800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218093800 +0000" stop="20241218094200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218094200 +0000" stop="20241218095000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218095000 +0000" stop="20241218095800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218095800 +0000" stop="20241218100000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218100000 +0000" stop="20241218100800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218100800 +0000" stop="20241218101200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218101200 +0000" stop="20241218102100 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218102100 +0000" stop="20241218103000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218103000 +0000" stop="20241218103700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218103700 +0000" stop="20241218104200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218104200 +0000" stop="20241218105000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218105000 +0000" stop="20241218105800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218105800 +0000" stop="20241218110000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218110000 +0000" stop="20241218110800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218110800 +0000" stop="20241218111900 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218111900 +0000" stop="20241218112800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218112800 +0000" stop="20241218113000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218113800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218113800 +0000" stop="20241218114200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218114200 +0000" stop="20241218115000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218115000 +0000" stop="20241218115800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218115800 +0000" stop="20241218120000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218120800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218120800 +0000" stop="20241218121200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218121200 +0000" stop="20241218122000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218122000 +0000" stop="20241218123000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218123000 +0000" stop="20241218123700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218123700 +0000" stop="20241218124200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218124200 +0000" stop="20241218125000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218125000 +0000" stop="20241218125800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218125800 +0000" stop="20241218130000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218130800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218130800 +0000" stop="20241218131200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218131200 +0000" stop="20241218132000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218132000 +0000" stop="20241218133000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218133700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218133700 +0000" stop="20241218134200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218134200 +0000" stop="20241218135000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218135000 +0000" stop="20241218135800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218135800 +0000" stop="20241218140000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218140800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218140800 +0000" stop="20241218141900 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218141900 +0000" stop="20241218142800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218142800 +0000" stop="20241218143000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218143800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218143800 +0000" stop="20241218144200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218144200 +0000" stop="20241218145000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218145000 +0000" stop="20241218145800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218145800 +0000" stop="20241218150000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218150800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218150800 +0000" stop="20241218151200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218151200 +0000" stop="20241218152000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218152000 +0000" stop="20241218153000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218153700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218153700 +0000" stop="20241218154200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218154200 +0000" stop="20241218155000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218155000 +0000" stop="20241218155800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218155800 +0000" stop="20241218160000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218160800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218160800 +0000" stop="20241218161200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218161200 +0000" stop="20241218162000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218162000 +0000" stop="20241218163000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218163700 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218163700 +0000" stop="20241218164200 +0000" channel="AFRICANEWS TV.vidio">
+        <title>This Is Culture</title>
+    </programme>
+    <programme start="20241218164200 +0000" stop="20241218165000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218165000 +0000" stop="20241218165800 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218165800 +0000" stop="20241218170000 +0000" channel="AFRICANEWS TV.vidio">
+        <title>News</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="SEA TODAY.vidio">
         <title>Super Octogeneranians</title>
@@ -52107,227 +51186,149 @@
     <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="SEA TODAY.vidio">
         <title>The World From Above</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204171500 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217170000 +0000" stop="20241217173000 +0000" channel="SEA TODAY.vidio">
+        <title>Super Octogeneranians</title>
     </programme>
-    <programme start="20241204171500 +0000" stop="20241204173000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="SEA TODAY.vidio">
+        <title>The Night Shift</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217180000 +0000" stop="20241217183000 +0000" channel="SEA TODAY.vidio">
+        <title>Reality Trip</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204181600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="SEA TODAY.vidio">
+        <title>Trail Town</title>
     </programme>
-    <programme start="20241204181600 +0000" stop="20241204183000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217190000 +0000" stop="20241217193000 +0000" channel="SEA TODAY.vidio">
+        <title>Pridelands Safari</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204190000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217193000 +0000" stop="20241217200000 +0000" channel="SEA TODAY.vidio">
+        <title>Duo Backpackers</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204191600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217200000 +0000" stop="20241217203000 +0000" channel="SEA TODAY.vidio">
+        <title>Side Walk</title>
     </programme>
-    <programme start="20241204191600 +0000" stop="20241204193000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="SEA TODAY.vidio">
+        <title>Trail Town</title>
     </programme>
-    <programme start="20241204193000 +0000" stop="20241204194800 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217210000 +0000" stop="20241217213000 +0000" channel="SEA TODAY.vidio">
+        <title>Pridelands Safari</title>
     </programme>
-    <programme start="20241204194800 +0000" stop="20241204200000 +0000" channel="Euro News.vidio">
-        <title>News</title>
+    <programme start="20241217213000 +0000" stop="20241217220000 +0000" channel="SEA TODAY.vidio">
+        <title>Duo Backpackers</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204201600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217220000 +0000" stop="20241217223000 +0000" channel="SEA TODAY.vidio">
+        <title>Side Walk</title>
     </programme>
-    <programme start="20241204201600 +0000" stop="20241204203000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="SEA TODAY.vidio">
+        <title>Ruang Makna</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204211600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204211600 +0000" stop="20241204213000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218000000 +0000" stop="20241218003000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204214800 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204214800 +0000" stop="20241204220000 +0000" channel="Euro News.vidio">
-        <title>News</title>
+    <programme start="20241218010000 +0000" stop="20241218013000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204221600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218013000 +0000" stop="20241218020000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Morning Show</title>
     </programme>
-    <programme start="20241204221600 +0000" stop="20241204223000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218020000 +0000" stop="20241218023000 +0000" channel="SEA TODAY.vidio">
+        <title>Secret for a Healthy Life</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204230000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="SEA TODAY.vidio">
+        <title>Wellness Story</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204231600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218030000 +0000" stop="20241218033000 +0000" channel="SEA TODAY.vidio">
+        <title>Dr. Lisa to the Rescue</title>
     </programme>
-    <programme start="20241204231600 +0000" stop="20241204233000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="SEA TODAY.vidio">
+        <title>Vet Tales</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241205000000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218040000 +0000" stop="20241218043000 +0000" channel="SEA TODAY.vidio">
+        <title>Animalpedia</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205001600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218043000 +0000" stop="20241218050000 +0000" channel="SEA TODAY.vidio">
+        <title>Animal Library</title>
     </programme>
-    <programme start="20241205001600 +0000" stop="20241205003000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218050000 +0000" stop="20241218053000 +0000" channel="SEA TODAY.vidio">
+        <title>The Shelter</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Today Business</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205011600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218060000 +0000" stop="20241218063000 +0000" channel="SEA TODAY.vidio">
+        <title>SEA Today Business</title>
     </programme>
-    <programme start="20241205011600 +0000" stop="20241205013000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="SEA TODAY.vidio">
+        <title>Exploring Nusantara with Kristian Hansen</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="SEA TODAY.vidio">
+        <title>Tough Boats</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205021600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="SEA TODAY.vidio">
+        <title>Travel Quest</title>
     </programme>
-    <programme start="20241205021600 +0000" stop="20241205023000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="SEA TODAY.vidio">
+        <title>Epic Trails</title>
     </programme>
-    <programme start="20241205023000 +0000" stop="20241205030000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="SEA TODAY.vidio">
+        <title>Sustainable Living</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205031600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="SEA TODAY.vidio">
+        <title>Living in Harmony</title>
     </programme>
-    <programme start="20241205031600 +0000" stop="20241205033000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="SEA TODAY.vidio">
+        <title>Green Living</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205040000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205041600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205041600 +0000" stop="20241205043000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205051600 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218120000 +0000" stop="20241218123000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205051600 +0000" stop="20241205053000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218123000 +0000" stop="20241218130000 +0000" channel="SEA TODAY.vidio">
+        <title>3-Hour News</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218130000 +0000" stop="20241218133000 +0000" channel="SEA TODAY.vidio">
+        <title>Hungry Hour</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205061600 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="SEA TODAY.vidio">
+        <title>Kaya Rasa</title>
     </programme>
-    <programme start="20241205061600 +0000" stop="20241205063000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="SEA TODAY.vidio">
+        <title>Stories of Taste</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="SEA TODAY.vidio">
+        <title>Crave</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205071600 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="SEA TODAY.vidio">
+        <title>Apose</title>
     </programme>
-    <programme start="20241205071600 +0000" stop="20241205073000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="SEA TODAY.vidio">
+        <title>Pridelands Safari</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
+    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="SEA TODAY.vidio">
+        <title>The Longest Day</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205081600 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
-    </programme>
-    <programme start="20241205081600 +0000" stop="20241205083000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Euro News.vidio">
-        <title>Wake up Europe</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205091600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205091600 +0000" stop="20241205093000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205093000 +0000" stop="20241205100000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205101600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205101600 +0000" stop="20241205103000 +0000" channel="Euro News.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205111600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205111600 +0000" stop="20241205113000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205121600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205121600 +0000" stop="20241205123000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205130000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205130000 +0000" stop="20241205131600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205131600 +0000" stop="20241205133000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205141600 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205141600 +0000" stop="20241205143000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="Euro News.vidio">
-        <title>Euronews Now</title>
-    </programme>
-    <programme start="20241205150000 +0000" stop="20241205151600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
-    </programme>
-    <programme start="20241205151600 +0000" stop="20241205153000 +0000" channel="Euro News.vidio">
-        <title>News</title>
-    </programme>
-    <programme start="20241205153000 +0000" stop="20241205160000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205161600 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
-    </programme>
-    <programme start="20241205161600 +0000" stop="20241205163000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
-    </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Euro News.vidio">
-        <title>The European debrief</title>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="SEA TODAY.vidio">
+        <title>The World From Above</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205171500 +0000" channel="Euro News.vidio">
         <title>The European debrief</title>
@@ -55704,176 +54705,227 @@
     <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="Euro News.vidio">
         <title>The European debrief</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204173000 +0000" channel="Arirang.vidio">
-        <title>The Kulture Wave</title>
+    <programme start="20241217170000 +0000" stop="20241217171500 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204173000 +0000" stop="20241204180000 +0000" channel="Arirang.vidio">
-        <title>Within the Frame</title>
+    <programme start="20241217171500 +0000" stop="20241217173000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204183000 +0000" channel="Arirang.vidio">
-        <title>Danstargram 2</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204183000 +0000" stop="20241204185000 +0000" channel="Arirang.vidio">
-        <title>1day 1k-culture: K-food</title>
+    <programme start="20241217180000 +0000" stop="20241217181600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204185000 +0000" stop="20241204190000 +0000" channel="Arirang.vidio">
-        <title>Discovering Korea</title>
+    <programme start="20241217181600 +0000" stop="20241217183000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204190000 +0000" stop="20241204200000 +0000" channel="Arirang.vidio">
-        <title>Arirang Special</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204200000 +0000" stop="20241204201500 +0000" channel="Arirang.vidio">
-        <title>K-chat: Travel In Korea</title>
+    <programme start="20241217190000 +0000" stop="20241217191600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204201500 +0000" stop="20241204203000 +0000" channel="Arirang.vidio">
-        <title>Exploring Korean Literature</title>
+    <programme start="20241217191600 +0000" stop="20241217193000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204210000 +0000" channel="Arirang.vidio">
-        <title>Premium Collection</title>
+    <programme start="20241217193000 +0000" stop="20241217194800 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204210000 +0000" stop="20241204213000 +0000" channel="Arirang.vidio">
-        <title>Press Perspective</title>
+    <programme start="20241217194800 +0000" stop="20241217200000 +0000" channel="Euro News.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="Arirang.vidio">
-        <title>The Globalists</title>
+    <programme start="20241217200000 +0000" stop="20241217201600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204223000 +0000" channel="Arirang.vidio">
-        <title>The Grand Heritage</title>
+    <programme start="20241217201600 +0000" stop="20241217203000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204223000 +0000" stop="20241204224000 +0000" channel="Arirang.vidio">
-        <title>Heritage Walks With Little Friend</title>
+    <programme start="20241217203000 +0000" stop="20241217210000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204224000 +0000" stop="20241204230000 +0000" channel="Arirang.vidio">
-        <title>The Grand Heritage K-asmr</title>
+    <programme start="20241217210000 +0000" stop="20241217211600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241204233000 +0000" channel="Arirang.vidio">
-        <title>Tripstargram</title>
+    <programme start="20241217211600 +0000" stop="20241217213000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204233000 +0000" stop="20241204235000 +0000" channel="Arirang.vidio">
-        <title>1day 1k-culture: K-story</title>
+    <programme start="20241217213000 +0000" stop="20241217214800 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241204235000 +0000" stop="20241205000000 +0000" channel="Arirang.vidio">
-        <title>Discovering Korea</title>
+    <programme start="20241217214800 +0000" stop="20241217220000 +0000" channel="Euro News.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205001500 +0000" channel="Arirang.vidio">
-        <title>K-chat: Conversing In Korean</title>
+    <programme start="20241217220000 +0000" stop="20241217221600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205001500 +0000" stop="20241205003000 +0000" channel="Arirang.vidio">
-        <title>Exploring Korean Literature</title>
+    <programme start="20241217221600 +0000" stop="20241217223000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205003000 +0000" stop="20241205010000 +0000" channel="Arirang.vidio">
-        <title>Bravo K-scientist</title>
+    <programme start="20241217223000 +0000" stop="20241217230000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205013000 +0000" channel="Arirang.vidio">
-        <title>New Day At Arirang</title>
+    <programme start="20241217230000 +0000" stop="20241217231600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205013000 +0000" stop="20241205020000 +0000" channel="Arirang.vidio">
-        <title>News Generation</title>
+    <programme start="20241217231600 +0000" stop="20241217233000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Arirang.vidio">
-        <title>Culture Crunch</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205031000 +0000" channel="Arirang.vidio">
-        <title>1day 1korea</title>
+    <programme start="20241218000000 +0000" stop="20241218001600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205031000 +0000" stop="20241205032000 +0000" channel="Arirang.vidio">
-        <title>1day 1korea</title>
+    <programme start="20241218001600 +0000" stop="20241218003000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205032000 +0000" stop="20241205033000 +0000" channel="Arirang.vidio">
-        <title>Smartbiz Accelerators</title>
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205033000 +0000" stop="20241205035000 +0000" channel="Arirang.vidio">
-        <title>The Grand Heritage K-asmr</title>
+    <programme start="20241218010000 +0000" stop="20241218011600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205035000 +0000" stop="20241205040000 +0000" channel="Arirang.vidio">
-        <title>Discovering Korea</title>
+    <programme start="20241218011600 +0000" stop="20241218013000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="Arirang.vidio">
-        <title>Gugak The Music of Korea</title>
+    <programme start="20241218013000 +0000" stop="20241218020000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="Arirang.vidio">
-        <title>The Kulture Wave</title>
+    <programme start="20241218020000 +0000" stop="20241218021600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205060000 +0000" channel="Arirang.vidio">
-        <title>News Generation</title>
+    <programme start="20241218021600 +0000" stop="20241218023000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205060000 +0000" stop="20241205063000 +0000" channel="Arirang.vidio">
-        <title>The Globalists</title>
+    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205070000 +0000" channel="Arirang.vidio">
-        <title>Tripstargram</title>
+    <programme start="20241218030000 +0000" stop="20241218031600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205070000 +0000" stop="20241205071000 +0000" channel="Arirang.vidio">
-        <title>K-chat: Conversing In Korean</title>
+    <programme start="20241218031600 +0000" stop="20241218033000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205071000 +0000" stop="20241205072000 +0000" channel="Arirang.vidio">
-        <title>Exploring Korean Literature</title>
+    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205072000 +0000" stop="20241205073000 +0000" channel="Arirang.vidio">
-        <title>Heritage Walks With Little Friend</title>
+    <programme start="20241218040000 +0000" stop="20241218041600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205075000 +0000" channel="Arirang.vidio">
-        <title>1day 1k-culture: K-story</title>
+    <programme start="20241218041600 +0000" stop="20241218043000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205075000 +0000" stop="20241205080000 +0000" channel="Arirang.vidio">
-        <title>Discovering Korea</title>
+    <programme start="20241218043000 +0000" stop="20241218050000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="Arirang.vidio">
-        <title>Daily Report</title>
+    <programme start="20241218050000 +0000" stop="20241218051600 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Arirang.vidio">
-        <title>Press Perspective</title>
+    <programme start="20241218051600 +0000" stop="20241218053000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Arirang.vidio">
-        <title>Gugak The Music of Korea</title>
+    <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="Arirang.vidio">
-        <title>Smartbiz Accelerators</title>
+    <programme start="20241218060000 +0000" stop="20241218061600 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205103000 +0000" stop="20241205110000 +0000" channel="Arirang.vidio">
-        <title>Bravo K-scientist</title>
+    <programme start="20241218061600 +0000" stop="20241218063000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="Arirang.vidio">
-        <title>Newscenter</title>
+    <programme start="20241218063000 +0000" stop="20241218070000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Arirang.vidio">
-        <title>Within the Frame</title>
+    <programme start="20241218070000 +0000" stop="20241218071600 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="Arirang.vidio">
-        <title>The Kulture Wave</title>
+    <programme start="20241218071600 +0000" stop="20241218073000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205123000 +0000" stop="20241205125000 +0000" channel="Arirang.vidio">
-        <title>1day 1k-culture: K-story</title>
+    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205125000 +0000" stop="20241205130000 +0000" channel="Arirang.vidio">
-        <title>Discovering Korea</title>
+    <programme start="20241218080000 +0000" stop="20241218081600 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205130000 +0000" stop="20241205131000 +0000" channel="Arirang.vidio">
-        <title>K-chat: Conversing In Korean</title>
+    <programme start="20241218081600 +0000" stop="20241218083000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205131000 +0000" stop="20241205132000 +0000" channel="Arirang.vidio">
-        <title>Exploring Korean Literature</title>
+    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="Euro News.vidio">
+        <title>Wake up Europe</title>
     </programme>
-    <programme start="20241205132000 +0000" stop="20241205133000 +0000" channel="Arirang.vidio">
-        <title>Heritage Walks With Little Friend</title>
+    <programme start="20241218090000 +0000" stop="20241218091600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
     </programme>
-    <programme start="20241205133000 +0000" stop="20241205140000 +0000" channel="Arirang.vidio">
-        <title>The Grand Heritage</title>
+    <programme start="20241218091600 +0000" stop="20241218093000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
     </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="Arirang.vidio">
-        <title>Press Perspective</title>
+    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
     </programme>
-    <programme start="20241205143000 +0000" stop="20241205150000 +0000" channel="Arirang.vidio">
-        <title>Smartbiz Accelerators</title>
+    <programme start="20241218100000 +0000" stop="20241218101600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
     </programme>
-    <programme start="20241205150000 +0000" stop="20241205160000 +0000" channel="Arirang.vidio">
-        <title>Gugak The Music of Korea</title>
+    <programme start="20241218101600 +0000" stop="20241218103000 +0000" channel="Euro News.vidio">
+        <title>News</title>
     </programme>
-    <programme start="20241205160000 +0000" stop="20241205163000 +0000" channel="Arirang.vidio">
-        <title>Bravo K-scientist</title>
+    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
     </programme>
-    <programme start="20241205163000 +0000" stop="20241205170000 +0000" channel="Arirang.vidio">
-        <title>Tripstargram</title>
+    <programme start="20241218110000 +0000" stop="20241218111600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218111600 +0000" stop="20241218113000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218120000 +0000" stop="20241218121600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218121600 +0000" stop="20241218123000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218123000 +0000" stop="20241218130000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218130000 +0000" stop="20241218131600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218131600 +0000" stop="20241218133000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218140000 +0000" stop="20241218141600 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218141600 +0000" stop="20241218143000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="Euro News.vidio">
+        <title>Euronews Now</title>
+    </programme>
+    <programme start="20241218150000 +0000" stop="20241218151600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
+    </programme>
+    <programme start="20241218151600 +0000" stop="20241218153000 +0000" channel="Euro News.vidio">
+        <title>News</title>
+    </programme>
+    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
+    </programme>
+    <programme start="20241218160000 +0000" stop="20241218161600 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
+    </programme>
+    <programme start="20241218161600 +0000" stop="20241218163000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
+    </programme>
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="Euro News.vidio">
+        <title>The European debrief</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205173000 +0000" channel="Arirang.vidio">
         <title>The Kulture Wave</title>
@@ -57915,83 +56967,50 @@
     <programme start="20241217164500 +0000" stop="20241217170000 +0000" channel="Arirang.vidio">
         <title>Infoscope</title>
     </programme>
-    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="Ajwa.vidio">
-        <title>30 Hari 30 Juz</title>
+    <programme start="20241217170000 +0000" stop="20241217172000 +0000" channel="Arirang.vidio">
+        <title>Arirang News</title>
     </programme>
-    <programme start="20241204180000 +0000" stop="20241204203000 +0000" channel="Ajwa.vidio">
-        <title>Live Makkah</title>
+    <programme start="20241217172000 +0000" stop="20241217173000 +0000" channel="Arirang.vidio">
+        <title>4 Angles</title>
     </programme>
-    <programme start="20241204203000 +0000" stop="20241204213000 +0000" channel="Ajwa.vidio">
-        <title>Live Makkah</title>
+    <programme start="20241217173000 +0000" stop="20241217180000 +0000" channel="Arirang.vidio">
+        <title>Arts Avenue</title>
     </programme>
-    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="Ajwa.vidio">
-        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    <programme start="20241217180000 +0000" stop="20241217183000 +0000" channel="Arirang.vidio">
+        <title>Showbiz Korea</title>
     </programme>
-    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="Ajwa.vidio">
-        <title>Mamah Dan Aa Beraksi</title>
+    <programme start="20241217183000 +0000" stop="20241217190000 +0000" channel="Arirang.vidio">
+        <title>Pops in Seoul</title>
     </programme>
-    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="Ajwa.vidio">
-        <title>Sejadah</title>
+    <programme start="20241217190000 +0000" stop="20241217194000 +0000" channel="Arirang.vidio">
+        <title>Newscenter</title>
     </programme>
-    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="Ajwa.vidio">
-        <title>30 Hari 30 Juz</title>
+    <programme start="20241217194000 +0000" stop="20241217200000 +0000" channel="Arirang.vidio">
+        <title>The Grand Heritage</title>
     </programme>
-    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Ajwa.vidio">
-        <title>Syair Syiar</title>
+    <programme start="20241217200000 +0000" stop="20241217210000 +0000" channel="Arirang.vidio">
+        <title>After School Club</title>
     </programme>
-    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Ajwa.vidio">
-        <title>Pesantren &amp; Rock N Roll</title>
+    <programme start="20241217210000 +0000" stop="20241217212000 +0000" channel="Arirang.vidio">
+        <title>Arirang News</title>
     </programme>
-    <programme start="20241205030000 +0000" stop="20241205043000 +0000" channel="Ajwa.vidio">
-        <title>Cewek Metal Jadi Anak Pesantren</title>
+    <programme start="20241217212000 +0000" stop="20241217213000 +0000" channel="Arirang.vidio">
+        <title>4 Angles</title>
     </programme>
-    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Ajwa.vidio">
-        <title>Barakallah</title>
+    <programme start="20241217213000 +0000" stop="20241217220000 +0000" channel="Arirang.vidio">
+        <title>On Stage K</title>
     </programme>
-    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="Ajwa.vidio">
-        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    <programme start="20241217220000 +0000" stop="20241217230000 +0000" channel="Arirang.vidio">
+        <title>Arirang Prime</title>
     </programme>
-    <programme start="20241205053000 +0000" stop="20241205063000 +0000" channel="Ajwa.vidio">
-        <title>Tafsir Al Quran</title>
+    <programme start="20241217230000 +0000" stop="20241217231000 +0000" channel="Arirang.vidio">
+        <title>Arirang News Break</title>
     </programme>
-    <programme start="20241205063000 +0000" stop="20241205073000 +0000" channel="Ajwa.vidio">
-        <title>Sejadah</title>
+    <programme start="20241217231000 +0000" stop="20241217233000 +0000" channel="Arirang.vidio">
+        <title>Business Daily</title>
     </programme>
-    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Ajwa.vidio">
-        <title>Syair Syiar</title>
-    </programme>
-    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="Ajwa.vidio">
-        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
-    </programme>
-    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Ajwa.vidio">
-        <title>Syiar Syair</title>
-    </programme>
-    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Ajwa.vidio">
-        <title>Pesantren &amp; Rock N Roll</title>
-    </programme>
-    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="Ajwa.vidio">
-        <title>Para Pencari Tuhan</title>
-    </programme>
-    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="Ajwa.vidio">
-        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
-    </programme>
-    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Ajwa.vidio">
-        <title>Barakallah</title>
-    </programme>
-    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="Ajwa.vidio">
-        <title>Adzan Isya</title>
-    </programme>
-    <programme start="20241205123000 +0000" stop="20241205140000 +0000" channel="Ajwa.vidio">
-        <title>Mamah Dan Aa Beraksi</title>
-    </programme>
-    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="Ajwa.vidio">
-        <title>Tafsir Al Quran</title>
-    </programme>
-    <programme start="20241205143000 +0000" stop="20241205160000 +0000" channel="Ajwa.vidio">
-        <title>Para Pencari Tuhan</title>
-    </programme>
-    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="Ajwa.vidio">
-        <title>Sang Biduan Lupa Tuhan</title>
+    <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Arirang.vidio">
+        <title>Arts Avenue</title>
     </programme>
     <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="Ajwa.vidio">
         <title>30 Hari 30 Juz</title>
@@ -58751,5 +57770,8 @@
     </programme>
     <programme start="20241215143000 +0000" stop="20241215170000 +0000" channel="Ajwa.vidio">
         <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241215170000 +0000" stop="20241215180000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
     </programme>
 </tv>
