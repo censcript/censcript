@@ -57915,4 +57915,841 @@
     <programme start="20241217164500 +0000" stop="20241217170000 +0000" channel="Arirang.vidio">
         <title>Infoscope</title>
     </programme>
+    <programme start="20241204170000 +0000" stop="20241204180000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241204180000 +0000" stop="20241204203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241204203000 +0000" stop="20241204213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241204213000 +0000" stop="20241204220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    </programme>
+    <programme start="20241204220000 +0000" stop="20241204230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241204230000 +0000" stop="20241205000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241205000000 +0000" stop="20241205010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241205030000 +0000" stop="20241205043000 +0000" channel="Ajwa.vidio">
+        <title>Cewek Metal Jadi Anak Pesantren</title>
+    </programme>
+    <programme start="20241205043000 +0000" stop="20241205050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241205050000 +0000" stop="20241205053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    </programme>
+    <programme start="20241205053000 +0000" stop="20241205063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241205063000 +0000" stop="20241205073000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241205073000 +0000" stop="20241205080000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241205080000 +0000" stop="20241205083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241205083000 +0000" stop="20241205090000 +0000" channel="Ajwa.vidio">
+        <title>Syiar Syair</title>
+    </programme>
+    <programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241205113000 +0000" stop="20241205120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241205120000 +0000" stop="20241205123000 +0000" channel="Ajwa.vidio">
+        <title>Adzan Isya</title>
+    </programme>
+    <programme start="20241205123000 +0000" stop="20241205140000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241205140000 +0000" stop="20241205143000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241205143000 +0000" stop="20241205160000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241205160000 +0000" stop="20241205170000 +0000" channel="Ajwa.vidio">
+        <title>Sang Biduan Lupa Tuhan</title>
+    </programme>
+    <programme start="20241205170000 +0000" stop="20241205180000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241205180000 +0000" stop="20241205203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241205203000 +0000" stop="20241205213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241205213000 +0000" stop="20241205220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    </programme>
+    <programme start="20241205220000 +0000" stop="20241205230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241205230000 +0000" stop="20241206000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241206000000 +0000" stop="20241206010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241206010000 +0000" stop="20241206020000 +0000" channel="Ajwa.vidio">
+        <title>Jumat Berkah</title>
+    </programme>
+    <programme start="20241206020000 +0000" stop="20241206030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241206030000 +0000" stop="20241206040000 +0000" channel="Ajwa.vidio">
+        <title>Seleb Kece Lupa Diri : FTV Islami</title>
+    </programme>
+    <programme start="20241206040000 +0000" stop="20241206044500 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241206044500 +0000" stop="20241206053000 +0000" channel="Ajwa.vidio">
+        <title>Live Sholat Jumat Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241206053000 +0000" stop="20241206063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241206063000 +0000" stop="20241206073000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241206073000 +0000" stop="20241206080000 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241206080000 +0000" stop="20241206083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241206083000 +0000" stop="20241206090000 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241206090000 +0000" stop="20241206100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241206100000 +0000" stop="20241206110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241206110000 +0000" stop="20241206113000 +0000" channel="Ajwa.vidio">
+        <title>Adzan Magrib + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241206113000 +0000" stop="20241206120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241206120000 +0000" stop="20241206123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241206123000 +0000" stop="20241206133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241206133000 +0000" stop="20241206143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241206143000 +0000" stop="20241206153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241206153000 +0000" stop="20241206170000 +0000" channel="Ajwa.vidio">
+        <title>Dokter Tampan Lupa Ibu : FTV Islami</title>
+    </programme>
+    <programme start="20241206170000 +0000" stop="20241206180000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241206180000 +0000" stop="20241206203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241206203000 +0000" stop="20241206213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241206213000 +0000" stop="20241206220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    </programme>
+    <programme start="20241206220000 +0000" stop="20241206230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241206230000 +0000" stop="20241207000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241207000000 +0000" stop="20241207010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241207010000 +0000" stop="20241207020000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241207020000 +0000" stop="20241207030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241207030000 +0000" stop="20241207041500 +0000" channel="Ajwa.vidio">
+        <title>Dokter Tampan Lupa Ibu : FTV Islami</title>
+    </programme>
+    <programme start="20241207041500 +0000" stop="20241207050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241207050000 +0000" stop="20241207053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    </programme>
+    <programme start="20241207053000 +0000" stop="20241207073000 +0000" channel="Ajwa.vidio">
+        <title>Qari Cilik Indonesia</title>
+    </programme>
+    <programme start="20241207073000 +0000" stop="20241207080000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241207080000 +0000" stop="20241207083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241207083000 +0000" stop="20241207090000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241207090000 +0000" stop="20241207100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241207100000 +0000" stop="20241207110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241207110000 +0000" stop="20241207113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241207113000 +0000" stop="20241207120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241207120000 +0000" stop="20241207123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241207123000 +0000" stop="20241207133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241207133000 +0000" stop="20241207143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241207143000 +0000" stop="20241207153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241207153000 +0000" stop="20241207170000 +0000" channel="Ajwa.vidio">
+        <title>Anak Tukang Foto Keliling : FTV Islami</title>
+    </programme>
+    <programme start="20241207170000 +0000" stop="20241207180000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241207180000 +0000" stop="20241207203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241207203000 +0000" stop="20241207213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241207213000 +0000" stop="20241207220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    </programme>
+    <programme start="20241207220000 +0000" stop="20241207230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241207230000 +0000" stop="20241208000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241208010000 +0000" stop="20241208020000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241208020000 +0000" stop="20241208030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241208030000 +0000" stop="20241208043000 +0000" channel="Ajwa.vidio">
+        <title>Anak Tukang Foto Keliling : FTV Islami</title>
+    </programme>
+    <programme start="20241208043000 +0000" stop="20241208050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241208050000 +0000" stop="20241208053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    </programme>
+    <programme start="20241208053000 +0000" stop="20241208073000 +0000" channel="Ajwa.vidio">
+        <title>Qari Cilik Indonesia</title>
+    </programme>
+    <programme start="20241208073000 +0000" stop="20241208080000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241208080000 +0000" stop="20241208083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241208083000 +0000" stop="20241208090000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241208090000 +0000" stop="20241208100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241208100000 +0000" stop="20241208110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241208110000 +0000" stop="20241208113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241208113000 +0000" stop="20241208120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241208120000 +0000" stop="20241208123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241208123000 +0000" stop="20241208133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241208133000 +0000" stop="20241208143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241208143000 +0000" stop="20241208153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241208153000 +0000" stop="20241208203000 +0000" channel="Ajwa.vidio">
+        <title>Ganteng Ganteng Tukang Tipu : FTV Islami</title>
+    </programme>
+    <programme start="20241208203000 +0000" stop="20241208213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241208213000 +0000" stop="20241208220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241208220000 +0000" stop="20241208230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241208230000 +0000" stop="20241209000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241209000000 +0000" stop="20241209010000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241209010000 +0000" stop="20241209020000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241209020000 +0000" stop="20241209030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241209030000 +0000" stop="20241209043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241209043000 +0000" stop="20241209050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241209050000 +0000" stop="20241209053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2022</title>
+    </programme>
+    <programme start="20241209053000 +0000" stop="20241209063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241209063000 +0000" stop="20241209073000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241209073000 +0000" stop="20241209081500 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241209081500 +0000" stop="20241209083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241209083000 +0000" stop="20241209090000 +0000" channel="Ajwa.vidio">
+        <title>Syiar Syair</title>
+    </programme>
+    <programme start="20241209090000 +0000" stop="20241209100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241209100000 +0000" stop="20241209110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241209110000 +0000" stop="20241209113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241209113000 +0000" stop="20241209120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241209120000 +0000" stop="20241209123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241209123000 +0000" stop="20241209133000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241209133000 +0000" stop="20241209143000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241209143000 +0000" stop="20241209153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241209153000 +0000" stop="20241209170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241209170000 +0000" stop="20241209180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241209180000 +0000" stop="20241209203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241209203000 +0000" stop="20241209213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241209213000 +0000" stop="20241209220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241209220000 +0000" stop="20241209230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241209230000 +0000" stop="20241210000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241210000000 +0000" stop="20241210010000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241210010000 +0000" stop="20241210020000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241210020000 +0000" stop="20241210030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241210030000 +0000" stop="20241210043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241210043000 +0000" stop="20241210050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241210050000 +0000" stop="20241210053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2022</title>
+    </programme>
+    <programme start="20241210053000 +0000" stop="20241210063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241210063000 +0000" stop="20241210073000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241210073000 +0000" stop="20241210081500 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241210081500 +0000" stop="20241210083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241210083000 +0000" stop="20241210090000 +0000" channel="Ajwa.vidio">
+        <title>Syiar Syair</title>
+    </programme>
+    <programme start="20241210090000 +0000" stop="20241210100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241210100000 +0000" stop="20241210110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241210110000 +0000" stop="20241210113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241210113000 +0000" stop="20241210120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241210120000 +0000" stop="20241210123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241210123000 +0000" stop="20241210133000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241210133000 +0000" stop="20241210143000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241210143000 +0000" stop="20241210153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241210153000 +0000" stop="20241210170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami : Kutunggu Kamu Ketika Adzan</title>
+    </programme>
+    <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241210180000 +0000" stop="20241210203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241210203000 +0000" stop="20241210213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241210213000 +0000" stop="20241210220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241210220000 +0000" stop="20241210230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241210230000 +0000" stop="20241211000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241211000000 +0000" stop="20241211010000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241211010000 +0000" stop="20241211020000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241211020000 +0000" stop="20241211030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241211030000 +0000" stop="20241211043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami : Kutunggu Kamu Ketika Adzan</title>
+    </programme>
+    <programme start="20241211043000 +0000" stop="20241211050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241211050000 +0000" stop="20241211053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2022</title>
+    </programme>
+    <programme start="20241211053000 +0000" stop="20241211063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241211063000 +0000" stop="20241211073000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241211073000 +0000" stop="20241211081500 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241211081500 +0000" stop="20241211083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241211083000 +0000" stop="20241211090000 +0000" channel="Ajwa.vidio">
+        <title>Syiar Syair</title>
+    </programme>
+    <programme start="20241211090000 +0000" stop="20241211100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241211100000 +0000" stop="20241211110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241211110000 +0000" stop="20241211113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241211113000 +0000" stop="20241211120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241211120000 +0000" stop="20241211123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241211123000 +0000" stop="20241211133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241211133000 +0000" stop="20241211150000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241211150000 +0000" stop="20241211160000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241211160000 +0000" stop="20241211170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami : Bulan Pembawa Cinta</title>
+    </programme>
+    <programme start="20241211170000 +0000" stop="20241211180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241211180000 +0000" stop="20241211203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241211203000 +0000" stop="20241211213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241211213000 +0000" stop="20241211220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241211220000 +0000" stop="20241211230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241211230000 +0000" stop="20241212000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241212000000 +0000" stop="20241212010000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241212010000 +0000" stop="20241212020000 +0000" channel="Ajwa.vidio">
+        <title>Syair Syiar</title>
+    </programme>
+    <programme start="20241212020000 +0000" stop="20241212030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241212030000 +0000" stop="20241212043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="Ajwa.vidio">
+        <title>Indahnya Kebersamaan</title>
+    </programme>
+    <programme start="20241212050000 +0000" stop="20241212053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2022</title>
+    </programme>
+    <programme start="20241212053000 +0000" stop="20241212063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241212063000 +0000" stop="20241212073000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241212073000 +0000" stop="20241212081500 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241212081500 +0000" stop="20241212083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241212083000 +0000" stop="20241212090000 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241212090000 +0000" stop="20241212100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241212100000 +0000" stop="20241212110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241212110000 +0000" stop="20241212113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241212113000 +0000" stop="20241212120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241212120000 +0000" stop="20241212123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241212123000 +0000" stop="20241212133000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241212133000 +0000" stop="20241212143000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241212143000 +0000" stop="20241212153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241212153000 +0000" stop="20241212170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241212170000 +0000" stop="20241212180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241212180000 +0000" stop="20241212203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241212203000 +0000" stop="20241212213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241212213000 +0000" stop="20241212220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241212230000 +0000" stop="20241213000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241213000000 +0000" stop="20241213010000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241213010000 +0000" stop="20241213020000 +0000" channel="Ajwa.vidio">
+        <title>Jumat Berkah</title>
+    </programme>
+    <programme start="20241213020000 +0000" stop="20241213030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241213030000 +0000" stop="20241213041500 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241213041500 +0000" stop="20241213050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241213050000 +0000" stop="20241213053000 +0000" channel="Ajwa.vidio">
+        <title>Live Sholat Jumat Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241213053000 +0000" stop="20241213063000 +0000" channel="Ajwa.vidio">
+        <title>Tafsir Al Quran</title>
+    </programme>
+    <programme start="20241213063000 +0000" stop="20241213073000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241213073000 +0000" stop="20241213081500 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241213081500 +0000" stop="20241213083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241213083000 +0000" stop="20241213090000 +0000" channel="Ajwa.vidio">
+        <title>Ilhami</title>
+    </programme>
+    <programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241213100000 +0000" stop="20241213110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241213110000 +0000" stop="20241213113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241213113000 +0000" stop="20241213120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241213120000 +0000" stop="20241213123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241213123000 +0000" stop="20241213133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241213133000 +0000" stop="20241213143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241213143000 +0000" stop="20241213153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241213153000 +0000" stop="20241213170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241213170000 +0000" stop="20241213180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241213180000 +0000" stop="20241213203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241213203000 +0000" stop="20241213213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241213213000 +0000" stop="20241213220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241213220000 +0000" stop="20241213230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241213230000 +0000" stop="20241214000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241214000000 +0000" stop="20241214010000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241214010000 +0000" stop="20241214020000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241214020000 +0000" stop="20241214030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241214030000 +0000" stop="20241214043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241214050000 +0000" stop="20241214053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2022</title>
+    </programme>
+    <programme start="20241214053000 +0000" stop="20241214073000 +0000" channel="Ajwa.vidio">
+        <title>Qari Cilik Indonesia</title>
+    </programme>
+    <programme start="20241214073000 +0000" stop="20241214081500 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241214081500 +0000" stop="20241214083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2022</title>
+    </programme>
+    <programme start="20241214083000 +0000" stop="20241214090000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241214090000 +0000" stop="20241214100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241214100000 +0000" stop="20241214110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241214110000 +0000" stop="20241214113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Magrib Dari Masjid Istiqlal + Mengetuk Pintu Hati 2022</title>
+    </programme>
+    <programme start="20241214113000 +0000" stop="20241214120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241214120000 +0000" stop="20241214123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241214123000 +0000" stop="20241214133000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Update</title>
+    </programme>
+    <programme start="20241214133000 +0000" stop="20241214143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241214143000 +0000" stop="20241214153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241214153000 +0000" stop="20241214170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241214170000 +0000" stop="20241214180000 +0000" channel="Ajwa.vidio">
+        <title>31 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241214180000 +0000" stop="20241214203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241214203000 +0000" stop="20241214213000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241214213000 +0000" stop="20241214220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2022</title>
+    </programme>
+    <programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241214230000 +0000" stop="20241215000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
+    </programme>
+    <programme start="20241215000000 +0000" stop="20241215010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241215010000 +0000" stop="20241215020000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241215020000 +0000" stop="20241215030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241215030000 +0000" stop="20241215043000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami</title>
+    </programme>
+    <programme start="20241215043000 +0000" stop="20241215050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241215050000 +0000" stop="20241215053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    </programme>
+    <programme start="20241215053000 +0000" stop="20241215073000 +0000" channel="Ajwa.vidio">
+        <title>Qari Cilik Indonesia</title>
+    </programme>
+    <programme start="20241215073000 +0000" stop="20241215080000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241215080000 +0000" stop="20241215083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241215083000 +0000" stop="20241215090000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241215090000 +0000" stop="20241215100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241215100000 +0000" stop="20241215110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241215110000 +0000" stop="20241215113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241215113000 +0000" stop="20241215120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241215120000 +0000" stop="20241215123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241215123000 +0000" stop="20241215133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241215133000 +0000" stop="20241215143000 +0000" channel="Ajwa.vidio">
+        <title>Nawaitu Surga</title>
+    </programme>
+    <programme start="20241215143000 +0000" stop="20241215170000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
+    </programme>
 </tv>
