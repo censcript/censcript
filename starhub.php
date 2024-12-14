@@ -5187,10 +5187,10 @@
     <programme start="20241215163000 +0000" stop="20241215190000 +0000" channel="Asianet Movies.starhub">
         <title>Kuttanpillayude sivarathri</title>
     </programme>
-    <programme start="20241215190000 +0000" stop="20241215220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241215190000 +0000" stop="20241215214000 +0000" channel="Asianet Movies.starhub">
         <title>Kanchipurathe Kalyanam</title>
     </programme>
-    <programme start="20241215220000 +0000" stop="20241216003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241215214000 +0000" stop="20241216003000 +0000" channel="Asianet Movies.starhub">
         <title>Daya</title>
     </programme>
     <programme start="20241216003000 +0000" stop="20241216010000 +0000" channel="Asianet Movies.starhub">
@@ -5253,22 +5253,25 @@
     <programme start="20241217220000 +0000" stop="20241218003000 +0000" channel="Asianet Movies.starhub">
         <title>Iruvattam Manavatty</title>
     </programme>
-    <programme start="20241218003000 +0000" stop="20241218033000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="Asianet Movies.starhub">
+        <title>Play Back</title>
+    </programme>
+    <programme start="20241218010000 +0000" stop="20241218013000 +0000" channel="Asianet Movies.starhub">
+        <title>Play Back</title>
+    </programme>
+    <programme start="20241218013000 +0000" stop="20241218043000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20241218033000 +0000" stop="20241218063000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241218043000 +0000" stop="20241218073000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20241218063000 +0000" stop="20241218093000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241218073000 +0000" stop="20241218103000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20241218093000 +0000" stop="20241218123000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241218103000 +0000" stop="20241218133000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20241218123000 +0000" stop="20241218153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20241218153000 +0000" stop="20241218163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241218133000 +0000" stop="20241218163000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
     <programme start="20241218163000 +0000" stop="20241218173000 +0000" channel="Asianet Movies.starhub">
@@ -5395,9 +5398,6 @@
         <title>Movie</title>
     </programme>
     <programme start="20241220093000 +0000" stop="20241220103000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20241220103000 +0000" stop="20241220113000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
     <programme start="20241213000000 +0000" stop="20241213005500 +0000" channel="HISTORY HD.starhub">
@@ -18786,6 +18786,18 @@
     <programme start="20241224100000 +0000" stop="20241224160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241212230000 +0000" stop="20241213020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
     </programme>
@@ -28527,6 +28539,18 @@
     <programme start="20241224100000 +0000" stop="20241224160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20241224160300 +0000" stop="20241224220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241212223000 +0000" stop="20241213001000 +0000" channel="HBO Family HD.starhub">
         <title>50 First Dates</title>
     </programme>
@@ -31089,6 +31113,18 @@
     <programme start="20241224100000 +0000" stop="20241224160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241212220000 +0000" stop="20241213040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32953,6 +32989,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241224100000 +0000" stop="20241224160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241212220000 +0000" stop="20241213040000 +0000" channel="Hub Premier 7.starhub">

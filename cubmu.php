@@ -930,6 +930,108 @@
     <programme start="20241215163600 +0000" stop="20241214170200 +0000" channel="Cartoon TV Premium.cubmu">
         <title>Gasp!</title>
     </programme>
+    <programme start="20241214173300 +0000" stop="20241214182100 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20241214182100 +0000" stop="20241214190800 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20241214190800 +0000" stop="20241214195600 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20241214195600 +0000" stop="20241214204400 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20241214204400 +0000" stop="20241214213200 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20241214213200 +0000" stop="20241214222100 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20241214222100 +0000" stop="20241214230000 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20241214230000 +0000" stop="20241214234800 +0000" channel="Knowledge+.cubmu">
+        <title>Animal Society</title>
+    </programme>
+    <programme start="20241214234800 +0000" stop="20241215000000 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20241215000000 +0000" stop="20241215003800 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20241215003800 +0000" stop="20241215012700 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20241215012700 +0000" stop="20241215021500 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20241215021500 +0000" stop="20241215030400 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20241215030400 +0000" stop="20241215035200 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20241215035200 +0000" stop="20241215043900 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20241215043900 +0000" stop="20241215052800 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
+    <programme start="20241215052800 +0000" stop="20241215061600 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20241215061600 +0000" stop="20241215070300 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20241215070300 +0000" stop="20241215075100 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20241215075100 +0000" stop="20241215081500 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20241215081500 +0000" stop="20241215084400 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20241215084400 +0000" stop="20241215090800 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20241215090800 +0000" stop="20241215093700 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20241215093700 +0000" stop="20241215100200 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20241215100200 +0000" stop="20241215103100 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20241215103100 +0000" stop="20241215105600 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20241215105600 +0000" stop="20241215115300 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20241215115300 +0000" stop="20241215124300 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20241215124300 +0000" stop="20241215133200 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20241215133200 +0000" stop="20241215142000 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20241215142000 +0000" stop="20241215150900 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20241215150900 +0000" stop="20241215155700 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20241215155700 +0000" stop="20241215164400 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20241215164400 +0000" stop="20241214173300 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
     <programme start="20241214171100 +0000" stop="20241214200700 +0000" channel="Fight TV Premium.cubmu">
         <title>TNA Wrestling - Slammiversary 2014</title>
     </programme>
