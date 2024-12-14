@@ -1,9 +1,9 @@
 name: Download EPG
 
 on:
-  push:
+  push:  # Menjalankan script setiap kali ada push ke repository
   schedule:
-    - cron: '0 * * * *'  # Menjalankan setiap jam sekali (untuk fleksibilitas)
+    - cron: '0 * * * *'  # Menjalankan setiap jam
 
 jobs:
   download_epg:
@@ -21,28 +21,13 @@ jobs:
     - name: Install dependencies
       run: pip install requests
 
-    - name: Check WIB time
-      id: check_time
-      run: |
-        CURRENT_HOUR=$(TZ='Asia/Jakarta' date +'%H')
-        if [ "$CURRENT_HOUR" -eq "00" ]; then
-          echo "Time matches 00:00 WIB. Proceeding..."
-          echo "run_script=true" >> $GITHUB_ENV
-        else
-          echo "Not 00:00 WIB. Skipping..."
-          echo "run_script=false" >> $GITHUB_ENV
-
     - name: Run script
-      if: env.run_script == 'true'
-      run: |
-        python pegsc.py
-        echo "Last updated: $(date)" >> epg_metadata.txt
+      run: python pegsc.py  # Jalankan script Python
 
     - name: Commit and push changes
-      if: env.run_script == 'true'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add .
-        git diff --quiet || git commit -m "Update EPG file on $(date)"
+        git commit -m "Update EPG file"
         git push
