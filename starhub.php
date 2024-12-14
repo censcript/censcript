@@ -30972,6 +30972,18 @@
     <programme start="20241224100000 +0000" stop="20241224160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241212220000 +0000" stop="20241213040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
