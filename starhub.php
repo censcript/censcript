@@ -18756,6 +18756,18 @@
     <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
     </programme>
@@ -28495,6 +28507,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20241225100000 +0000" stop="20241225160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241225160300 +0000" stop="20241225220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20241213235200 +0000" stop="20241214000300 +0000" channel="HBO Family HD.starhub">

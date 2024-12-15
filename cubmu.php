@@ -1398,22 +1398,22 @@
     <programme start="20241216050000 +0000" stop="20241216060000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Siang Spesial</title>
     </programme>
-    <programme start="20241216060000 +0000" stop="20241216073000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata</title>
-    </programme>
-    <programme start="20241216073000 +0000" stop="20241216093000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241216060000 +0000" stop="20241216080000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Spesial</title>
     </programme>
-    <programme start="20241216093000 +0000" stop="20241216113000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241216080000 +0000" stop="20241216103000 +0000" channel="Indosiar.cubmu">
+        <title>BRI Liga 1 2024/2025</title>
+    </programme>
+    <programme start="20241216103000 +0000" stop="20241216113000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
     <programme start="20241216113000 +0000" stop="20241216140000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
     </programme>
-    <programme start="20241216140000 +0000" stop="20241216163000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241216140000 +0000" stop="20241216160000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20241216163000 +0000" stop="20241215183000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241216160000 +0000" stop="20241215183000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20241215173000 +0000" stop="20241215190000 +0000" channel="SCTV.cubmu">
@@ -1425,50 +1425,53 @@
     <programme start="20241215210000 +0000" stop="20241215213000 +0000" channel="SCTV.cubmu">
         <title>Indahnya Kebersamaan</title>
     </programme>
-    <programme start="20241215213000 +0000" stop="20241215230000 +0000" channel="SCTV.cubmu">
+    <programme start="20241215213000 +0000" stop="20241215231500 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20241215230000 +0000" stop="20241216000000 +0000" channel="SCTV.cubmu">
+    <programme start="20241215231500 +0000" stop="20241216000200 +0000" channel="SCTV.cubmu">
         <title>Hot Shot</title>
     </programme>
-    <programme start="20241216000000 +0000" stop="20241216013000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216000200 +0000" stop="20241216013100 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
     </programme>
-    <programme start="20241216013000 +0000" stop="20241216030000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216013100 +0000" stop="20241216031900 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi Spesial</title>
     </programme>
-    <programme start="20241216030000 +0000" stop="20241216050000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216031900 +0000" stop="20241216052100 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi</title>
     </programme>
-    <programme start="20241216050000 +0000" stop="20241216053000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216052100 +0000" stop="20241216055400 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241216053000 +0000" stop="20241216073000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216055400 +0000" stop="20241216075900 +0000" channel="SCTV.cubmu">
         <title>FTV Siang</title>
     </programme>
-    <programme start="20241216073000 +0000" stop="20241216094500 +0000" channel="SCTV.cubmu">
+    <programme start="20241216075900 +0000" stop="20241216094500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20241216094500 +0000" stop="20241216111500 +0000" channel="SCTV.cubmu">
+    <programme start="20241216094500 +0000" stop="20241216111900 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20241216111500 +0000" stop="20241216130000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216111900 +0000" stop="20241216124700 +0000" channel="SCTV.cubmu">
         <title>Saleha</title>
     </programme>
-    <programme start="20241216130000 +0000" stop="20241216143000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216124700 +0000" stop="20241216143100 +0000" channel="SCTV.cubmu">
         <title>Naik Ranjang</title>
     </programme>
-    <programme start="20241216143000 +0000" stop="20241216160000 +0000" channel="SCTV.cubmu">
+    <programme start="20241216143100 +0000" stop="20241216160300 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241216160000 +0000" stop="20241215174500 +0000" channel="SCTV.cubmu">
+    <programme start="20241216160300 +0000" stop="20241215173700 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
     <programme start="20241215170000 +0000" stop="20241215170500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20241215170500 +0000" stop="20241215180000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
+    <programme start="20241215170500 +0000" stop="20241215173000 +0000" channel="MetroTV.cubmu">
+        <title>Journey</title>
+    </programme>
+    <programme start="20241215173000 +0000" stop="20241215180000 +0000" channel="MetroTV.cubmu">
+        <title>Top News</title>
     </programme>
     <programme start="20241215180000 +0000" stop="20241215180500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1480,7 +1483,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20241215190500 +0000" stop="20241215200000 +0000" channel="MetroTV.cubmu">
-        <title>Panggung Demokrasi</title>
+        <title>Q &amp; A</title>
     </programme>
     <programme start="20241215200000 +0000" stop="20241215200500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1555,7 +1558,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20241216060500 +0000" stop="20241216070000 +0000" channel="MetroTV.cubmu">
-        <title>Panggung Demokrasi</title>
+        <title>Q &amp; A</title>
     </programme>
     <programme start="20241216070000 +0000" stop="20241216070500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1570,7 +1573,7 @@
         <title>Newsline</title>
     </programme>
     <programme start="20241216083000 +0000" stop="20241216090000 +0000" channel="MetroTV.cubmu">
-        <title>Berita Pilkada</title>
+        <title>Realitas</title>
     </programme>
     <programme start="20241216090000 +0000" stop="20241216090500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1672,7 +1675,7 @@
         <title>Big Movies Platinum</title>
     </programme>
     <programme start="20241215173000 +0000" stop="20241215190000 +0000" channel="ANTV.cubmu">
-        <title>Mega Bollywood : Namaste England</title>
+        <title>Jodoh Wasiat Bapak Babak 2</title>
     </programme>
     <programme start="20241215190000 +0000" stop="20241215193000 +0000" channel="ANTV.cubmu">
         <title>Mega Bollywood</title>
@@ -1708,7 +1711,7 @@
         <title>Aini Malaikat Tak Bersayap</title>
     </programme>
     <programme start="20241216133000 +0000" stop="20241216153000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Laga Klasik</title>
+        <title>Sinema Spesial</title>
     </programme>
     <programme start="20241216153000 +0000" stop="20241215173000 +0000" channel="ANTV.cubmu">
         <title>Sinema Laga Klasik</title>
