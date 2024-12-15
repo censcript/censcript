@@ -30876,6 +30876,18 @@
     <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241213220000 +0000" stop="20241214040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32869,6 +32881,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241213220000 +0000" stop="20241214040000 +0000" channel="Hub Premier 7.starhub">

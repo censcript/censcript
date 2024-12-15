@@ -73,7 +73,7 @@
         <title>N/A - Matchday Live Extra</title>
     </programme>
     <programme start="20241222130000 +0000" stop="20241222162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Monday Morning</title>
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20241222135000 +0000" stop="20241222161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Leicester City v Wolverhampton Wanderers</title>
