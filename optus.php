@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241215185000 +0000" stop="20241215213000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Monday Morning</title>
-    </programme>
     <programme start="20241215220000 +0000" stop="20241215233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -119,5 +116,23 @@
     </programme>
     <programme start="20241227200500 +0000" stop="20241227222500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Arsenal v Ipswich</title>
+    </programme>
+    <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250118172500 +0000" stop="20250118194000 +0000" channel="Optus Sport 202.optus">
+        <title>Women&#039;s Super League - Everton v Aston Villa</title>
+    </programme>
+    <programme start="20250119122000 +0000" stop="20250119144000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Tottenham Hotspur v Leicester</title>
+    </programme>
+    <programme start="20250119135500 +0000" stop="20250119161000 +0000" channel="Optus Sport 204.optus">
+        <title>Women&#039;s Super League - Arsenal v Crystal Palace</title>
+    </programme>
+    <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
+        <title>Women&#039;s Super League - West Ham United v Chelsea</title>
+    </programme>
+    <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester City v Manchester United</title>
     </programme>
 </tv>
