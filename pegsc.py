@@ -26,6 +26,7 @@ urls = [
     "https://astvstreamingpro.my.id/epg/vid.php",
     "https://astvstreamingpro.my.id/epg/optus.php",
     "https://astvstreamingpro.my.id/epg/astro.php",
+    "https://astvstreamingpro.my.id/epg/antik.php",
     "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     "https://www.bevy.be/bevyfiles/germanypremium3.xml",
     "https://www.bevy.be/bevyfiles/unitedstates1.xml",
