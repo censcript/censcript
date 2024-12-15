@@ -3,12 +3,6 @@
     <programme start="20241215185000 +0000" stop="20241215213000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Monday Morning</title>
     </programme>
-    <programme start="20241215185000 +0000" stop="20241215211000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Southampton v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20241215185000 +0000" stop="20241215211000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Chelsea v Brentford</title>
-    </programme>
     <programme start="20241215220000 +0000" stop="20241215233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -31,7 +25,7 @@
         <title>N/A - Netbusters</title>
     </programme>
     <programme start="20241217090000 +0000" stop="20241217100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Originals: PL GOATs | Australian Stars</title>
+        <title>N/A - PL GOATs | Australian Stars</title>
     </programme>
     <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
