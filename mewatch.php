@@ -1023,16 +1023,16 @@
     <programme start="20241215160000 +0000" stop="20241216160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 19th December, Thursday 3.22am. Carabao Cup 2024/25: Arsenal vs Crystal Palace</title>
     </programme>
-    <programme start="20241214160000 +0000" stop="20241215102000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th December, Sunday 6.20pm. ASEAN Mitsubishi Electric Cup™ 2024: Laos vs Philippines</title>
+    <programme start="20241214160000 +0000" stop="20241215100400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th December, Sunday 6.04pm. ASEAN Mitsubishi Electric Cup™ 2024: Laos vs Philippines</title>
     </programme>
-    <programme start="20241215102000 +0000" stop="20241215123000 +0000" channel="Live 5.mewatch">
+    <programme start="20241215100400 +0000" stop="20241215123000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Laos vs Philippines</title>
     </programme>
-    <programme start="20241215123000 +0000" stop="20241215125000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th December, Sunday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Indonesia</title>
+    <programme start="20241215123000 +0000" stop="20241215123600 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th December, Sunday 8.36pm. ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Indonesia</title>
     </programme>
-    <programme start="20241215125000 +0000" stop="20241215150000 +0000" channel="Live 5.mewatch">
+    <programme start="20241215123600 +0000" stop="20241215150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Indonesia</title>
     </programme>
     <programme start="20241215150000 +0000" stop="20241215160000 +0000" channel="Live 5.mewatch">
