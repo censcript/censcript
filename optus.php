@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241215130000 +0000" stop="20241215162000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brighton v Crystal Palace</title>
-    </programme>
-    <programme start="20241215135500 +0000" stop="20241215161000 +0000" channel="Optus Sport 205.optus">
-        <title>Women&#039;s Super League - Crystal Palace v Manchester United</title>
-    </programme>
-    <programme start="20241215135500 +0000" stop="20241215161000 +0000" channel="Optus Sport 204.optus">
-        <title>Women&#039;s Super League - Aston Villa v West Ham United</title>
-    </programme>
-    <programme start="20241215142000 +0000" stop="20241215164000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Liverpool v Arsenal</title>
-    </programme>
     <programme start="20241215162000 +0000" stop="20241215185000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Manchester United</title>
     </programme>
