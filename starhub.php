@@ -18582,20 +18582,38 @@
     <programme start="20241215190000 +0000" stop="20241215220000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Bangalore Days</title>
     </programme>
-    <programme start="20241215220000 +0000" stop="20241216040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241215220000 +0000" stop="20241216010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Vantha Rajavathaan Varuvaen</title>
     </programme>
-    <programme start="20241216040000 +0000" stop="20241216100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241216010000 +0000" stop="20241216040000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Republic</title>
     </programme>
-    <programme start="20241216100000 +0000" stop="20241216160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241216040000 +0000" stop="20241216070000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kathar Basha</title>
     </programme>
-    <programme start="20241216160000 +0000" stop="20241216220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241216070000 +0000" stop="20241216100000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Bhaskar Oru Rascal</title>
     </programme>
-    <programme start="20241216220000 +0000" stop="20241217040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241216100000 +0000" stop="20241216133000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Veerame Vaagai Soodum</title>
+    </programme>
+    <programme start="20241216133000 +0000" stop="20241216163000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Thalaivi</title>
+    </programme>
+    <programme start="20241216163000 +0000" stop="20241216190000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Anantham Vilaiyadum Veedu</title>
+    </programme>
+    <programme start="20241216190000 +0000" stop="20241216213000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Thirunaal</title>
+    </programme>
+    <programme start="20241216213000 +0000" stop="20241216220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241216220000 +0000" stop="20241216223000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241216223000 +0000" stop="20241217010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Miss India</title>
     </programme>
     <programme start="20241217040000 +0000" stop="20241217100000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
