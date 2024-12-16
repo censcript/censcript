@@ -13953,71 +13953,74 @@
     <programme start="20241218215100 +0000" stop="20241219000000 +0000" channel="SONY MAX.starhub">
         <title>Piku</title>
     </programme>
-    <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="SONY MAX.starhub">
-        <title>Extraa Shots- Befikre</title>
-    </programme>
-    <programme start="20241219003000 +0000" stop="20241219025700 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219000000 +0000" stop="20241219022100 +0000" channel="SONY MAX.starhub">
         <title>Tumhari Sulu</title>
     </programme>
-    <programme start="20241219025700 +0000" stop="20241219050100 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219022100 +0000" stop="20241219042500 +0000" channel="SONY MAX.starhub">
         <title>Gumraah</title>
     </programme>
-    <programme start="20241219050100 +0000" stop="20241219072500 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219042500 +0000" stop="20241219064900 +0000" channel="SONY MAX.starhub">
         <title>Mission Kashmir</title>
     </programme>
-    <programme start="20241219072500 +0000" stop="20241219095500 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219064900 +0000" stop="20241219092000 +0000" channel="SONY MAX.starhub">
         <title>Pagalpanti</title>
     </programme>
-    <programme start="20241219095500 +0000" stop="20241219120000 +0000" channel="SONY MAX.starhub">
-        <title>Ghar Ki Laxmi</title>
-    </programme>
-    <programme start="20241219120000 +0000" stop="20241219143900 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219092000 +0000" stop="20241219115900 +0000" channel="SONY MAX.starhub">
         <title>Pk</title>
     </programme>
-    <programme start="20241219143900 +0000" stop="20241219165600 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219115900 +0000" stop="20241219140300 +0000" channel="SONY MAX.starhub">
+        <title>Ghar Ki Laxmi</title>
+    </programme>
+    <programme start="20241219140300 +0000" stop="20241219162100 +0000" channel="SONY MAX.starhub">
         <title>Befikre</title>
     </programme>
-    <programme start="20241219165600 +0000" stop="20241219190000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219162100 +0000" stop="20241219182400 +0000" channel="SONY MAX.starhub">
         <title>Adbhut</title>
     </programme>
-    <programme start="20241219190000 +0000" stop="20241219210400 +0000" channel="SONY MAX.starhub">
-        <title>Jodi</title>
+    <programme start="20241219182400 +0000" stop="20241219211200 +0000" channel="SONY MAX.starhub">
+        <title>Yes Boss (1997)</title>
     </programme>
-    <programme start="20241219210400 +0000" stop="20241219212000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219211200 +0000" stop="20241219212300 +0000" channel="SONY MAX.starhub">
         <title>Extraaa Storiez: Kantara</title>
     </programme>
-    <programme start="20241219212000 +0000" stop="20241219214500 +0000" channel="SONY MAX.starhub">
+    <programme start="20241219212300 +0000" stop="20241219214500 +0000" channel="SONY MAX.starhub">
         <title>Extraaa Storiez Kgf: Chapter 2</title>
     </programme>
     <programme start="20241219214500 +0000" stop="20241220000000 +0000" channel="SONY MAX.starhub">
         <title>Soorma</title>
     </programme>
-    <programme start="20241220000000 +0000" stop="20241220025300 +0000" channel="SONY MAX.starhub">
-        <title>Ek Duje Ke Liye</title>
+    <programme start="20241220000000 +0000" stop="20241220001900 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: Kantara</title>
     </programme>
-    <programme start="20241220025300 +0000" stop="20241220045400 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220001900 +0000" stop="20241220022500 +0000" channel="SONY MAX.starhub">
+        <title>Jodi</title>
+    </programme>
+    <programme start="20241220022500 +0000" stop="20241220042600 +0000" channel="SONY MAX.starhub">
         <title>Qaidi Band</title>
     </programme>
-    <programme start="20241220045400 +0000" stop="20241220073300 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220042600 +0000" stop="20241220070400 +0000" channel="SONY MAX.starhub">
         <title>Mubarakan</title>
     </programme>
-    <programme start="20241220073300 +0000" stop="20241220093600 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220070400 +0000" stop="20241220090700 +0000" channel="SONY MAX.starhub">
         <title>Nehlle Pe Dehlla</title>
     </programme>
-    <programme start="20241220093600 +0000" stop="20241220120000 +0000" channel="SONY MAX.starhub">
-        <title>Mulk</title>
-    </programme>
-    <programme start="20241220120000 +0000" stop="20241220145200 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220090700 +0000" stop="20241220120000 +0000" channel="SONY MAX.starhub">
         <title>Kabir Singh</title>
     </programme>
-    <programme start="20241220145200 +0000" stop="20241220180200 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220120000 +0000" stop="20241220151000 +0000" channel="SONY MAX.starhub">
         <title>Animal</title>
     </programme>
-    <programme start="20241220180200 +0000" stop="20241220202000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220151000 +0000" stop="20241220173400 +0000" channel="SONY MAX.starhub">
+        <title>Mulk</title>
+    </programme>
+    <programme start="20241220173400 +0000" stop="20241220195200 +0000" channel="SONY MAX.starhub">
         <title>Atrangi Re</title>
     </programme>
-    <programme start="20241220202000 +0000" stop="20241220221300 +0000" channel="SONY MAX.starhub">
+    <programme start="20241220195200 +0000" stop="20241220214500 +0000" channel="SONY MAX.starhub">
         <title>Madam Geeta Rani</title>
+    </programme>
+    <programme start="20241220214500 +0000" stop="20241220221300 +0000" channel="SONY MAX.starhub">
+        <title>The Making- Tiger Zinda Hai</title>
     </programme>
     <programme start="20241220221300 +0000" stop="20241221000000 +0000" channel="SONY MAX.starhub">
         <title>Marjaavaan</title>
@@ -14025,34 +14028,37 @@
     <programme start="20241221000000 +0000" stop="20241221010500 +0000" channel="SONY MAX.starhub">
         <title>The Making Of Pk</title>
     </programme>
-    <programme start="20241221010500 +0000" stop="20241221012400 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221010500 +0000" stop="20241221012100 +0000" channel="SONY MAX.starhub">
         <title>The Making: Katti Batti</title>
     </programme>
-    <programme start="20241221012400 +0000" stop="20241221040200 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221012100 +0000" stop="20241221035900 +0000" channel="SONY MAX.starhub">
         <title>Pk</title>
     </programme>
-    <programme start="20241221040200 +0000" stop="20241221065700 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221035900 +0000" stop="20241221065400 +0000" channel="SONY MAX.starhub">
         <title>Jhund</title>
     </programme>
-    <programme start="20241221065700 +0000" stop="20241221094400 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221065400 +0000" stop="20241221094100 +0000" channel="SONY MAX.starhub">
         <title>Ramji Londonwaley</title>
     </programme>
-    <programme start="20241221094400 +0000" stop="20241221120000 +0000" channel="SONY MAX.starhub">
-        <title>Khel Khel Mein</title>
-    </programme>
-    <programme start="20241221120000 +0000" stop="20241221141800 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221094100 +0000" stop="20241221115900 +0000" channel="SONY MAX.starhub">
         <title>Batla House</title>
     </programme>
-    <programme start="20241221141800 +0000" stop="20241221163400 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221115900 +0000" stop="20241221141500 +0000" channel="SONY MAX.starhub">
+        <title>Khel Khel Mein</title>
+    </programme>
+    <programme start="20241221141500 +0000" stop="20241221163100 +0000" channel="SONY MAX.starhub">
         <title>Ek Villain Returns</title>
     </programme>
-    <programme start="20241221163400 +0000" stop="20241221185300 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221163100 +0000" stop="20241221185000 +0000" channel="SONY MAX.starhub">
         <title>Srikanth</title>
     </programme>
-    <programme start="20241221185300 +0000" stop="20241221213900 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221185000 +0000" stop="20241221213000 +0000" channel="SONY MAX.starhub">
         <title>Kareeb</title>
     </programme>
-    <programme start="20241221213900 +0000" stop="20241222000000 +0000" channel="SONY MAX.starhub">
+    <programme start="20241221213000 +0000" stop="20241221214900 +0000" channel="SONY MAX.starhub">
+        <title>The Making: Azhar</title>
+    </programme>
+    <programme start="20241221214900 +0000" stop="20241222000000 +0000" channel="SONY MAX.starhub">
         <title>Koi Jaane Na</title>
     </programme>
     <programme start="20241222000000 +0000" stop="20241222023900 +0000" channel="SONY MAX.starhub">
@@ -14070,35 +14076,29 @@
     <programme start="20241222091200 +0000" stop="20241222120000 +0000" channel="SONY MAX.starhub">
         <title>Bade Miyan Chote Miyan</title>
     </programme>
-    <programme start="20241222120000 +0000" stop="20241222142800 +0000" channel="SONY MAX.starhub">
+    <programme start="20241222120000 +0000" stop="20241222141900 +0000" channel="SONY MAX.starhub">
         <title>Phir Aayi Hasseen Dillruba</title>
     </programme>
-    <programme start="20241222142800 +0000" stop="20241222164900 +0000" channel="SONY MAX.starhub">
+    <programme start="20241222141900 +0000" stop="20241222163900 +0000" channel="SONY MAX.starhub">
         <title>Phantom</title>
     </programme>
-    <programme start="20241222164900 +0000" stop="20241222190800 +0000" channel="SONY MAX.starhub">
+    <programme start="20241222163900 +0000" stop="20241222185800 +0000" channel="SONY MAX.starhub">
         <title>Bhaiyya Ji</title>
     </programme>
-    <programme start="20241222190800 +0000" stop="20241222212300 +0000" channel="SONY MAX.starhub">
+    <programme start="20241222185800 +0000" stop="20241222211400 +0000" channel="SONY MAX.starhub">
         <title>Fanney Khan</title>
     </programme>
-    <programme start="20241222212300 +0000" stop="20241222213500 +0000" channel="SONY MAX.starhub">
+    <programme start="20241222211400 +0000" stop="20241222212200 +0000" channel="SONY MAX.starhub">
         <title>Extraa Shots Kabir Singh</title>
+    </programme>
+    <programme start="20241222212200 +0000" stop="20241222213500 +0000" channel="SONY MAX.starhub">
+        <title>The Making Of Mubarakan</title>
     </programme>
     <programme start="20241222213500 +0000" stop="20241223000000 +0000" channel="SONY MAX.starhub">
         <title>Mission Kashmir</title>
     </programme>
     <programme start="20241223000000 +0000" stop="20241223002100 +0000" channel="SONY MAX.starhub">
         <title>The Making: Bewakoofiyaan</title>
-    </programme>
-    <programme start="20241223002100 +0000" stop="20241223005100 +0000" channel="SONY MAX.starhub">
-        <title>The Making: Daawat-e-ishq</title>
-    </programme>
-    <programme start="20241223005100 +0000" stop="20241223030200 +0000" channel="SONY MAX.starhub">
-        <title>Har Din Diwali</title>
-    </programme>
-    <programme start="20241223030200 +0000" stop="20241223051700 +0000" channel="SONY MAX.starhub">
-        <title>Batla House</title>
     </programme>
     <programme start="20241214234000 +0000" stop="20241215003000 +0000" channel="HGTV.starhub">
         <title>Teenager In The House</title>
@@ -21349,9 +21349,6 @@
         <title>Japan&#039;S Top Inventions</title>
     </programme>
     <programme start="20241215224000 +0000" stop="20241215225500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Bosai: Science That Can Save Your Life</title>
-    </programme>
-    <programme start="20241215224000 +0000" stop="20241215225500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai</title>
     </programme>
     <programme start="20241215225500 +0000" stop="20241215230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
@@ -21410,6 +21407,9 @@
     </programme>
     <programme start="20241216031500 +0000" stop="20241216033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline In Depth</title>
+    </programme>
+    <programme start="20241216033000 +0000" stop="20241216040000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Biz Stream</title>
     </programme>
     <programme start="20241215000000 +0000" stop="20241215012500 +0000" channel="HBO Hits HD.starhub">
         <title>Migration</title>
