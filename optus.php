@@ -6,7 +6,7 @@
     <programme start="20241216170000 +0000" stop="20241216180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
-    <programme start="20241216170000 +0000" stop="20241216174000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20241216170000 +0000" stop="20241216175900 +0000" channel="Optus Sport 7.optus">
         <title>N/A - UEFA Women&#039;s EURO 2025 Draw</title>
     </programme>
     <programme start="20241216193000 +0000" stop="20241216223000 +0000" channel="Optus Sport 1.optus">
