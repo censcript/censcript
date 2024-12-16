@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241216193000 +0000" stop="20241216223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v West Ham United</title>
-    </programme>
     <programme start="20241217003000 +0000" stop="20241217013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
