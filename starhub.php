@@ -21351,11 +21351,17 @@
     <programme start="20241215224000 +0000" stop="20241215225500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai: Science That Can Save Your Life</title>
     </programme>
+    <programme start="20241215224000 +0000" stop="20241215225500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Bosai</title>
+    </programme>
     <programme start="20241215225500 +0000" stop="20241215230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Pythagoraswitch Mini</title>
     </programme>
     <programme start="20241215230000 +0000" stop="20241215231000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241215231000 +0000" stop="20241215235500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Somewhere Street</title>
     </programme>
     <programme start="20241215235500 +0000" stop="20241216000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>National Parks Of Japan:Kerama</title>
@@ -21404,12 +21410,6 @@
     </programme>
     <programme start="20241216031500 +0000" stop="20241216033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline In Depth</title>
-    </programme>
-    <programme start="20241216033000 +0000" stop="20241216040000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Biz Stream</title>
-    </programme>
-    <programme start="20241216040000 +0000" stop="20241216041500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
     </programme>
     <programme start="20241215000000 +0000" stop="20241215012500 +0000" channel="HBO Hits HD.starhub">
         <title>Migration</title>
