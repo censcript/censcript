@@ -6294,11 +6294,11 @@
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
+    <programme start="20241226040000 +0000" stop="20241226043000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Netbusters 2024/25</title>
     </programme>
-    <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
+    <programme start="20241226043000 +0000" stop="20241226050000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Fantasy Show 2024/25</title>
     </programme>
     <programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Fight Night 2024 EFN 176: Prelims: Covington vs Buckley (Live)</title>
@@ -14100,117 +14100,6 @@
     <programme start="20241223030200 +0000" stop="20241223051700 +0000" channel="SONY MAX.starhub">
         <title>Batla House</title>
     </programme>
-    <programme start="20241213234000 +0000" stop="20241214003000 +0000" channel="HGTV.starhub">
-        <title>Safari So Good</title>
-    </programme>
-    <programme start="20241214003000 +0000" stop="20241214012000 +0000" channel="HGTV.starhub">
-        <title>Rosario Dawson&#039;s House Glow Up</title>
-    </programme>
-    <programme start="20241214012000 +0000" stop="20241214021000 +0000" channel="HGTV.starhub">
-        <title>Ranch House Redo</title>
-    </programme>
-    <programme start="20241214021000 +0000" stop="20241214030000 +0000" channel="HGTV.starhub">
-        <title>Loose Cannon</title>
-    </programme>
-    <programme start="20241214030000 +0000" stop="20241214035000 +0000" channel="HGTV.starhub">
-        <title>Vision To Reality</title>
-    </programme>
-    <programme start="20241214035000 +0000" stop="20241214044000 +0000" channel="HGTV.starhub">
-        <title>And The Winner Is…</title>
-    </programme>
-    <programme start="20241214044000 +0000" stop="20241214053000 +0000" channel="HGTV.starhub">
-        <title>Expect The Unexpected</title>
-    </programme>
-    <programme start="20241214053000 +0000" stop="20241214062000 +0000" channel="HGTV.starhub">
-        <title>Safari So Good</title>
-    </programme>
-    <programme start="20241214062000 +0000" stop="20241214064500 +0000" channel="HGTV.starhub">
-        <title>All Things Family Friendly In Lisbon</title>
-    </programme>
-    <programme start="20241214064500 +0000" stop="20241214071000 +0000" channel="HGTV.starhub">
-        <title>A Louisiana Purchase</title>
-    </programme>
-    <programme start="20241214071000 +0000" stop="20241214073500 +0000" channel="HGTV.starhub">
-        <title>A Forever Home In Sicily</title>
-    </programme>
-    <programme start="20241214073500 +0000" stop="20241214080000 +0000" channel="HGTV.starhub">
-        <title>Amsterdam, Will You Accept This Tulip?</title>
-    </programme>
-    <programme start="20241214080000 +0000" stop="20241214082500 +0000" channel="HGTV.starhub">
-        <title>Hoi An</title>
-    </programme>
-    <programme start="20241214082500 +0000" stop="20241214085000 +0000" channel="HGTV.starhub">
-        <title>Chasing A Better Life In Glasgow</title>
-    </programme>
-    <programme start="20241214085000 +0000" stop="20241214091500 +0000" channel="HGTV.starhub">
-        <title>A Family Move to Melbourne</title>
-    </programme>
-    <programme start="20241214091500 +0000" stop="20241214094000 +0000" channel="HGTV.starhub">
-        <title>Clear Differences In Chicago</title>
-    </programme>
-    <programme start="20241214094000 +0000" stop="20241214100500 +0000" channel="HGTV.starhub">
-        <title>Threesome In Paris</title>
-    </programme>
-    <programme start="20241214100500 +0000" stop="20241214103000 +0000" channel="HGTV.starhub">
-        <title>Siem Reap, Cambodia 2</title>
-    </programme>
-    <programme start="20241214103000 +0000" stop="20241214110000 +0000" channel="HGTV.starhub">
-        <title>City Mouse vs. Country Mouse</title>
-    </programme>
-    <programme start="20241214110000 +0000" stop="20241214113000 +0000" channel="HGTV.starhub">
-        <title>Million Dollar Start</title>
-    </programme>
-    <programme start="20241214113000 +0000" stop="20241214122000 +0000" channel="HGTV.starhub">
-        <title>Vision To Reality</title>
-    </programme>
-    <programme start="20241214122000 +0000" stop="20241214124500 +0000" channel="HGTV.starhub">
-        <title>Second Chances All Around, In Bangor</title>
-    </programme>
-    <programme start="20241214124500 +0000" stop="20241214131000 +0000" channel="HGTV.starhub">
-        <title>Help! We Need A House In Orange County</title>
-    </programme>
-    <programme start="20241214131000 +0000" stop="20241214140000 +0000" channel="HGTV.starhub">
-        <title>Expect The Unexpected</title>
-    </programme>
-    <programme start="20241214140000 +0000" stop="20241214145000 +0000" channel="HGTV.starhub">
-        <title>Safari So Good</title>
-    </programme>
-    <programme start="20241214145000 +0000" stop="20241214154000 +0000" channel="HGTV.starhub">
-        <title>Loose Cannon</title>
-    </programme>
-    <programme start="20241214154000 +0000" stop="20241214163000 +0000" channel="HGTV.starhub">
-        <title>Rosario Dawson&#039;s House Glow Up</title>
-    </programme>
-    <programme start="20241214163000 +0000" stop="20241214172000 +0000" channel="HGTV.starhub">
-        <title>And The Winner Is…</title>
-    </programme>
-    <programme start="20241214172000 +0000" stop="20241214181000 +0000" channel="HGTV.starhub">
-        <title>A Vintage Renovation In Monrovia</title>
-    </programme>
-    <programme start="20241214181000 +0000" stop="20241214183500 +0000" channel="HGTV.starhub">
-        <title>Second Chances All Around, In Bangor</title>
-    </programme>
-    <programme start="20241214183500 +0000" stop="20241214190000 +0000" channel="HGTV.starhub">
-        <title>Help! We Need A House In Orange County</title>
-    </programme>
-    <programme start="20241214190000 +0000" stop="20241214195000 +0000" channel="HGTV.starhub">
-        <title>Campy Cabin Vibes</title>
-    </programme>
-    <programme start="20241214195000 +0000" stop="20241214204000 +0000" channel="HGTV.starhub">
-        <title>Family Referral</title>
-    </programme>
-    <programme start="20241214204000 +0000" stop="20241214213000 +0000" channel="HGTV.starhub">
-        <title>Home Sweet Oasis</title>
-    </programme>
-    <programme start="20241214213000 +0000" stop="20241214220000 +0000" channel="HGTV.starhub">
-        <title>A Forever Home In Sicily</title>
-    </programme>
-    <programme start="20241214220000 +0000" stop="20241214225000 +0000" channel="HGTV.starhub">
-        <title>Ready To Be Bold</title>
-    </programme>
-    <programme start="20241214225000 +0000" stop="20241214234000 +0000" channel="HGTV.starhub">
-        <title>Get Hooked On Fort Morgan</title>
-    </programme>
     <programme start="20241214234000 +0000" stop="20241215003000 +0000" channel="HGTV.starhub">
         <title>Teenager In The House</title>
     </programme>
@@ -14399,6 +14288,117 @@
     </programme>
     <programme start="20241216154000 +0000" stop="20241216160500 +0000" channel="HGTV.starhub">
         <title>Most Outrageous Purchases</title>
+    </programme>
+    <programme start="20241216160500 +0000" stop="20241216163000 +0000" channel="HGTV.starhub">
+        <title>England Now Or Never</title>
+    </programme>
+    <programme start="20241216163000 +0000" stop="20241216172000 +0000" channel="HGTV.starhub">
+        <title>That 70s Cabin</title>
+    </programme>
+    <programme start="20241216172000 +0000" stop="20241216174500 +0000" channel="HGTV.starhub">
+        <title>Reviving A Lakehouse Lost In The 1960s</title>
+    </programme>
+    <programme start="20241216174500 +0000" stop="20241216181000 +0000" channel="HGTV.starhub">
+        <title>We&#039;re In The Hotel Business!</title>
+    </programme>
+    <programme start="20241216181000 +0000" stop="20241216183500 +0000" channel="HGTV.starhub">
+        <title>PS, I Love You</title>
+    </programme>
+    <programme start="20241216183500 +0000" stop="20241216190000 +0000" channel="HGTV.starhub">
+        <title>St. Paul Homecoming</title>
+    </programme>
+    <programme start="20241216190000 +0000" stop="20241216195000 +0000" channel="HGTV.starhub">
+        <title>Campy Cabin Vibes</title>
+    </programme>
+    <programme start="20241216195000 +0000" stop="20241216204000 +0000" channel="HGTV.starhub">
+        <title>A House For Mum And Dad</title>
+    </programme>
+    <programme start="20241216204000 +0000" stop="20241216213000 +0000" channel="HGTV.starhub">
+        <title>One Couple, Two Styles</title>
+    </programme>
+    <programme start="20241216213000 +0000" stop="20241216220000 +0000" channel="HGTV.starhub">
+        <title>Worrisome In Wilmington</title>
+    </programme>
+    <programme start="20241216220000 +0000" stop="20241216225000 +0000" channel="HGTV.starhub">
+        <title>Family Referral</title>
+    </programme>
+    <programme start="20241216225000 +0000" stop="20241216231500 +0000" channel="HGTV.starhub">
+        <title>Most Outrageous Purchases</title>
+    </programme>
+    <programme start="20241216231500 +0000" stop="20241216234000 +0000" channel="HGTV.starhub">
+        <title>England Now Or Never</title>
+    </programme>
+    <programme start="20241216234000 +0000" stop="20241217000500 +0000" channel="HGTV.starhub">
+        <title>More Than Just A Party Town</title>
+    </programme>
+    <programme start="20241217000500 +0000" stop="20241217003000 +0000" channel="HGTV.starhub">
+        <title>Worrisome In Wilmington</title>
+    </programme>
+    <programme start="20241217003000 +0000" stop="20241217005500 +0000" channel="HGTV.starhub">
+        <title>Goodbye, Texas; Hello, Wales!</title>
+    </programme>
+    <programme start="20241217005500 +0000" stop="20241217012000 +0000" channel="HGTV.starhub">
+        <title>Engaged Couple Seek Home In Phoenix</title>
+    </programme>
+    <programme start="20241217012000 +0000" stop="20241217021000 +0000" channel="HGTV.starhub">
+        <title>Put Another Dime In The Jukebox</title>
+    </programme>
+    <programme start="20241217021000 +0000" stop="20241217023500 +0000" channel="HGTV.starhub">
+        <title>It&#039;s. So. Old: Built In 1750</title>
+    </programme>
+    <programme start="20241217023500 +0000" stop="20241217030000 +0000" channel="HGTV.starhub">
+        <title>Time Warp In Upstate New York</title>
+    </programme>
+    <programme start="20241217030000 +0000" stop="20241217035000 +0000" channel="HGTV.starhub">
+        <title>Bernese Farmhouse</title>
+    </programme>
+    <programme start="20241217035000 +0000" stop="20241217044000 +0000" channel="HGTV.starhub">
+        <title>And The Winner Is…</title>
+    </programme>
+    <programme start="20241217044000 +0000" stop="20241217053000 +0000" channel="HGTV.starhub">
+        <title>Two Generation Renovation</title>
+    </programme>
+    <programme start="20241217053000 +0000" stop="20241217055500 +0000" channel="HGTV.starhub">
+        <title>More Than Just A Party Town</title>
+    </programme>
+    <programme start="20241217055500 +0000" stop="20241217062000 +0000" channel="HGTV.starhub">
+        <title>Worrisome In Wilmington</title>
+    </programme>
+    <programme start="20241217062000 +0000" stop="20241217064500 +0000" channel="HGTV.starhub">
+        <title>Revisiting Chicago, HI and NY</title>
+    </programme>
+    <programme start="20241217064500 +0000" stop="20241217071000 +0000" channel="HGTV.starhub">
+        <title>Looking For A Home Near The Water</title>
+    </programme>
+    <programme start="20241217071000 +0000" stop="20241217073500 +0000" channel="HGTV.starhub">
+        <title>Most Outrageous Purchases</title>
+    </programme>
+    <programme start="20241217073500 +0000" stop="20241217080000 +0000" channel="HGTV.starhub">
+        <title>England Now Or Never</title>
+    </programme>
+    <programme start="20241217080000 +0000" stop="20241217085000 +0000" channel="HGTV.starhub">
+        <title>Bernese Farmhouse</title>
+    </programme>
+    <programme start="20241217085000 +0000" stop="20241217094000 +0000" channel="HGTV.starhub">
+        <title>And The Winner Is…</title>
+    </programme>
+    <programme start="20241217094000 +0000" stop="20241217103000 +0000" channel="HGTV.starhub">
+        <title>Put Another Dime In The Jukebox</title>
+    </programme>
+    <programme start="20241217103000 +0000" stop="20241217113000 +0000" channel="HGTV.starhub">
+        <title>Home At Last</title>
+    </programme>
+    <programme start="20241217113000 +0000" stop="20241217115500 +0000" channel="HGTV.starhub">
+        <title>Music and Inspiration, Mexico</title>
+    </programme>
+    <programme start="20241217115500 +0000" stop="20241217122000 +0000" channel="HGTV.starhub">
+        <title>No More Suitcases in Girona, Spain</title>
+    </programme>
+    <programme start="20241217122000 +0000" stop="20241217131000 +0000" channel="HGTV.starhub">
+        <title>Mission Tudor</title>
+    </programme>
+    <programme start="20241217131000 +0000" stop="20241217140000 +0000" channel="HGTV.starhub">
+        <title>Big Family, Tiny Kitchen</title>
     </programme>
     <programme start="20241215000000 +0000" stop="20241215003000 +0000" channel="Cartoon Network.starhub">
         <title>Bros in the City/Tabes &amp; Charlie</title>
@@ -24738,28 +24738,28 @@
     <programme start="20241216080000 +0000" stop="20241216121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M02 - Sydney Sixers vs Melbourne Renegades</title>
     </programme>
-    <programme start="20241216121500 +0000" stop="20241216201500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 1</title>
+    <programme start="20241216121500 +0000" stop="20241216171000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>South Africa Tour of Bangladesh 2024: 1st Test - Day 4</title>
     </programme>
-    <programme start="20241216201500 +0000" stop="20241216220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241216171000 +0000" stop="20241216220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241216220000 +0000" stop="20241216235500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241216220000 +0000" stop="20241217001500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241216235500 +0000" stop="20241217040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241217001500 +0000" stop="20241217042000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women&#039;s T20 World Cup 2024: M20 - England vs West Indies</title>
     </programme>
-    <programme start="20241217040000 +0000" stop="20241217080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241217042000 +0000" stop="20241217080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M01 - Perth Scorchers vs Melbourne Stars</title>
     </programme>
     <programme start="20241217080000 +0000" stop="20241217121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M03 - Sydney Thunder vs Adelaide Strikers</title>
     </programme>
-    <programme start="20241217121500 +0000" stop="20241217201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241217121500 +0000" stop="20241217195000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 3rd Test - Day 2</title>
     </programme>
-    <programme start="20241217201500 +0000" stop="20241217220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241217195000 +0000" stop="20241217220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241217220000 +0000" stop="20241218002000 +0000" channel="Hub Sports 4 HD.starhub">
