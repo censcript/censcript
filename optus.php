@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241215220000 +0000" stop="20241215233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20241216130000 +0000" stop="20241216140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
