@@ -6750,6 +6750,9 @@
     <programme start="20241215230000 +0000" stop="20241215231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 56</title>
     </programme>
+    <programme start="20241215231500 +0000" stop="20241215235500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
     <programme start="20241215235500 +0000" stop="20241216000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
@@ -6896,9 +6899,6 @@
     </programme>
     <programme start="20241216152900 +0000" stop="20241216153000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
-    </programme>
-    <programme start="20241216153000 +0000" stop="20241216153500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
     </programme>
     <programme start="20241214230500 +0000" stop="20241215000500 +0000" channel="Lifetime HD.starhub">
         <title>Fixer Upper</title>
