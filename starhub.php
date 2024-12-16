@@ -18828,6 +18828,18 @@
     <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20241226160000 +0000" stop="20241226220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241227040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241214230000 +0000" stop="20241215020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
     </programme>
@@ -28563,6 +28575,18 @@
     <programme start="20241226100000 +0000" stop="20241226160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20241226160300 +0000" stop="20241226220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241227040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241214235500 +0000" stop="20241215000600 +0000" channel="HBO Family HD.starhub">
         <title>The Beast Inside</title>
     </programme>
@@ -31002,6 +31026,18 @@
     <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241226160000 +0000" stop="20241226220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241227040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241214220000 +0000" stop="20241215040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32842,6 +32878,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226160000 +0000" stop="20241226220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241227040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241214220000 +0000" stop="20241215040000 +0000" channel="Hub Premier 7.starhub">
