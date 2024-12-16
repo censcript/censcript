@@ -6750,20 +6750,26 @@
     <programme start="20241215230000 +0000" stop="20241215231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 56</title>
     </programme>
-    <programme start="20241215231500 +0000" stop="20241216005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
-    </programme>
-    <programme start="20241216005400 +0000" stop="20241216005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241216005500 +0000" stop="20241216010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20241216010000 +0000" stop="20241216010500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241215235500 +0000" stop="20241216000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
+    <programme start="20241216000000 +0000" stop="20241216005000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Last Lecture: Hosaka Masayasu Encore (R)</title>
+    </programme>
+    <programme start="20241216005000 +0000" stop="20241216005500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Camera-eyed Japan</title>
+    </programme>
+    <programme start="20241216005500 +0000" stop="20241216005900 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241216005900 +0000" stop="20241216010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241216010000 +0000" stop="20241216010500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20241216010500 +0000" stop="20241216015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>New Beginnings Healthcare Workers&#039; Struggles Amid Covid-19 Crisis in Tokyo (R)</title>
+        <title>Healthcare Workers&#039; Struggles Amid Covid-19 Crisis in Tokyo ®</title>
     </programme>
     <programme start="20241216015000 +0000" stop="20241216020000 +0000" channel="NHK World Premium HD.starhub">
         <title>Local Exquisite Omusubi (R)</title>
@@ -6795,20 +6801,20 @@
     <programme start="20241216034500 +0000" stop="20241216040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 56 (R)</title>
     </programme>
-    <programme start="20241216040000 +0000" stop="20241216040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20241216040000 +0000" stop="20241216042500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
     </programme>
-    <programme start="20241216040500 +0000" stop="20241216055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20241216042500 +0000" stop="20241216045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature</title>
     </programme>
-    <programme start="20241216055000 +0000" stop="20241216055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20241216045500 +0000" stop="20241216055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Magnificent Sight! Mountain Lodges in Europe (R)</title>
     </programme>
     <programme start="20241216055500 +0000" stop="20241216060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
     </programme>
     <programme start="20241216060000 +0000" stop="20241216061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Rural Japan &quot;Satoyama&quot;</title>
     </programme>
     <programme start="20241216061000 +0000" stop="20241216063500 +0000" channel="NHK World Premium HD.starhub">
         <title>My Gardening</title>
@@ -6892,12 +6898,6 @@
         <title>World Weather</title>
     </programme>
     <programme start="20241216153000 +0000" stop="20241216153500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
-    </programme>
-    <programme start="20241216153500 +0000" stop="20241216154000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
-    </programme>
-    <programme start="20241216154000 +0000" stop="20241216154500 +0000" channel="NHK World Premium HD.starhub">
         <title>Cooking for Beginners</title>
     </programme>
     <programme start="20241214230500 +0000" stop="20241215000500 +0000" channel="Lifetime HD.starhub">
