@@ -6588,17 +6588,17 @@
     <programme start="20241221160000 +0000" stop="20241221170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#830</title>
     </programme>
-    <programme start="20241221170000 +0000" stop="20241221190000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Isuzu UTE A-League 2024/25 R9: Melbourne Victory vs Melbourne City FC</title>
-    </programme>
-    <programme start="20241221190000 +0000" stop="20241221210000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Isuzu UTE A-League 2024/25 R9: Brisbane Roar FC vs Perth Glory</title>
-    </programme>
-    <programme start="20241221210000 +0000" stop="20241221230000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>East Asia Super League 2024/25 Hong Kong Eastern vs San Miguel Beermen</title>
-    </programme>
-    <programme start="20241221230000 +0000" stop="20241222000000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20241221170000 +0000" stop="20241221180000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>4 Hours of Sepang Race 2</title>
+    </programme>
+    <programme start="20241221180000 +0000" stop="20241221213000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 Houston Texans vs Kansas City Chiefs (Live)</title>
+    </programme>
+    <programme start="20241221213000 +0000" stop="20241222003000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 Pittsburgh Steelers vs Baltimore Ravens (Live)</title>
+    </programme>
+    <programme start="20241222003000 +0000" stop="20241222010000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1221</title>
     </programme>
     <programme start="20241216000000 +0000" stop="20241216005000 +0000" channel="NHK World Premium HD.starhub">
         <title>The Last Lecture: Hosaka Masayasu Encore (R)</title>
@@ -24828,17 +24828,20 @@
     <programme start="20241217220000 +0000" stop="20241218005500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241218002000 +0000" stop="20241218040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241218005500 +0000" stop="20241218043500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women&#039;s T20 World Cup 2024: M21 - SF1 - Australia vs South Africa</title>
     </programme>
-    <programme start="20241218040000 +0000" stop="20241218080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241218043500 +0000" stop="20241218080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M02 - Sydney Sixers vs Melbourne Renegades</title>
     </programme>
     <programme start="20241218080000 +0000" stop="20241218121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M04 - Melbourne Stars vs Brisbane Heat</title>
     </programme>
-    <programme start="20241218121500 +0000" stop="20241218201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241218121500 +0000" stop="20241218154500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 3rd Test - Day 3</title>
+    </programme>
+    <programme start="20241218154500 +0000" stop="20241218201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20241218201500 +0000" stop="20241218220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -25064,9 +25067,6 @@
     </programme>
     <programme start="20241231121500 +0000" stop="20241231201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 4</title>
-    </programme>
-    <programme start="20241231201500 +0000" stop="20241231220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20241216000000 +0000" stop="20241216010000 +0000" channel="TVB Xing He.starhub">
         <title>Life Made Simple</title>
@@ -29697,17 +29697,17 @@
     <programme start="20241221160000 +0000" stop="20241221170000 +0000" channel="TestChannel 995.starhub">
         <title>#830</title>
     </programme>
-    <programme start="20241221170000 +0000" stop="20241221190000 +0000" channel="TestChannel 995.starhub">
-        <title>Isuzu UTE A-League 2024/25 R9: Melbourne Victory vs Melbourne City FC</title>
-    </programme>
-    <programme start="20241221190000 +0000" stop="20241221210000 +0000" channel="TestChannel 995.starhub">
-        <title>Isuzu UTE A-League 2024/25 R9: Brisbane Roar FC vs Perth Glory</title>
-    </programme>
-    <programme start="20241221210000 +0000" stop="20241221230000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2024/25 Hong Kong Eastern vs San Miguel Beermen</title>
-    </programme>
-    <programme start="20241221230000 +0000" stop="20241222000000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20241221170000 +0000" stop="20241221180000 +0000" channel="TestChannel 995.starhub">
         <title>4 Hours of Sepang Race 2</title>
+    </programme>
+    <programme start="20241221180000 +0000" stop="20241221213000 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25 Houston Texans vs Kansas City Chiefs (Live)</title>
+    </programme>
+    <programme start="20241221213000 +0000" stop="20241222003000 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25 Pittsburgh Steelers vs Baltimore Ravens (Live)</title>
+    </programme>
+    <programme start="20241222003000 +0000" stop="20241222010000 +0000" channel="TestChannel 995.starhub">
+        <title>#1221</title>
     </programme>
     <programme start="20241216000000 +0000" stop="20241216010000 +0000" channel="TestChannel 996.starhub">
         <title>The Last Steep Ascent</title>
