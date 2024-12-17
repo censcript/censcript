@@ -22551,11 +22551,8 @@
     <programme start="20241220003000 +0000" stop="20241220033000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Round 1</title>
     </programme>
-    <programme start="20241220033000 +0000" stop="20241220063000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20241220033000 +0000" stop="20241220080000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Semi-Final 1: Poland vs Italy</title>
-    </programme>
-    <programme start="20241220063000 +0000" stop="20241220080000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cincinnati Open (1000) Finals</title>
     </programme>
     <programme start="20241220080000 +0000" stop="20241220083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dongfeng Voyah · Wuhan Open (1000)</title>
@@ -22688,6 +22685,9 @@
     </programme>
     <programme start="20241223230000 +0000" stop="20241223233000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 2</title>
+    </programme>
+    <programme start="20241223233000 +0000" stop="20241224000000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>#122224</title>
     </programme>
     <programme start="20241216000000 +0000" stop="20241216003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
