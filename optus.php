@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241217090000 +0000" stop="20241217100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL GOATs | Australian Stars</title>
-    </programme>
     <programme start="20241218150000 +0000" stop="20241218160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
