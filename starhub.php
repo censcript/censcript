@@ -27756,16 +27756,16 @@
     <programme start="20241219051500 +0000" stop="20241219060500 +0000" channel="Hub VVDrama.starhub">
         <title>Golden Bowl</title>
     </programme>
-    <programme start="20241219060500 +0000" stop="20241219070000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241219060500 +0000" stop="20241219065500 +0000" channel="Hub VVDrama.starhub">
         <title>Golden Bowl</title>
     </programme>
-    <programme start="20241219070000 +0000" stop="20241219081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241219065500 +0000" stop="20241219081500 +0000" channel="Hub VVDrama.starhub">
         <title>Young Lady and Gentleman</title>
     </programme>
-    <programme start="20241219081500 +0000" stop="20241219090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241219081500 +0000" stop="20241219085500 +0000" channel="Hub VVDrama.starhub">
         <title>Hilarious Family</title>
     </programme>
-    <programme start="20241219090000 +0000" stop="20241219094500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241219085500 +0000" stop="20241219094500 +0000" channel="Hub VVDrama.starhub">
         <title>Choice Husband</title>
     </programme>
     <programme start="20241215234000 +0000" stop="20241216003000 +0000" channel="ONE (Malay).starhub">
