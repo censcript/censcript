@@ -17965,7 +17965,7 @@
         <title>Polladhavan</title>
     </programme>
     <programme start="20241217080000 +0000" stop="20241217110000 +0000" channel="Vannathirai.starhub">
-        <title>Thaai Naadu</title>
+        <title>Thillana Mohanambal</title>
     </programme>
     <programme start="20241217110000 +0000" stop="20241217113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
@@ -17977,16 +17977,16 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20241217130000 +0000" stop="20241217160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai - Ullathai Allithaa</title>
+        <title>Hit Thirai - Sandhippu</title>
     </programme>
     <programme start="20241217160000 +0000" stop="20241217190000 +0000" channel="Vannathirai.starhub">
-        <title>Rail Payanangalil</title>
+        <title>Adutha Veetu Pen</title>
     </programme>
     <programme start="20241217190000 +0000" stop="20241217220000 +0000" channel="Vannathirai.starhub">
-        <title>Thee</title>
+        <title>Imayam</title>
     </programme>
     <programme start="20241217220000 +0000" stop="20241218003000 +0000" channel="Vannathirai.starhub">
-        <title>Kizhvaanam Sivakkum</title>
+        <title>Bairavi</title>
     </programme>
     <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
