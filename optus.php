@@ -138,6 +138,9 @@
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Chelsea v Morecambe</title>
     </programme>
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 8.optus">
+        <title>FA Cup - Preston North End v Charlton Athletic</title>
+    </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Norwich City v Brighton</title>
     </programme>
@@ -147,8 +150,14 @@
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 10.optus">
         <title>FA Cup - Exeter City v Oxford United</title>
     </programme>
+    <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
+        <title>FA Cup - Leeds United v Harrogate Town</title>
+    </programme>
     <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester City v Salford</title>
+    </programme>
+    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 6.optus">
+        <title>FA Cup - Mansfield Town v Wigan Athletic</title>
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
