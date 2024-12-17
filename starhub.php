@@ -26854,10 +26854,10 @@
         <title>Crime Patrol</title>
     </programme>
     <programme start="20241218151500 +0000" stop="20241218154500 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Highlights - Ban V Mal U19 Asia Cup 2024</title>
+        <title>Hlts-ban V Mal U19 Asia Cup 2024-women&#039;s</title>
     </programme>
     <programme start="20241218154500 +0000" stop="20241218160700 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Highlights - Ind V Nep U19 Asia Cup 2024</title>
+        <title>Hlts-ind V Nep U19 Asia Cup 2024-women&#039;s</title>
     </programme>
     <programme start="20241218160700 +0000" stop="20241218163300 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
