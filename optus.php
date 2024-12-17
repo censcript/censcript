@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241216223000 +0000" stop="20241216233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
-    <programme start="20241217003000 +0000" stop="20241217013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20241217020000 +0000" stop="20241217023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20241217090000 +0000" stop="20241217100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL GOATs | Australian Stars</title>
     </programme>
@@ -141,6 +132,9 @@
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Luton Town</title>
     </programme>
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 7.optus">
+        <title>FA Cup - Brentford v Plymouth Argyle</title>
+    </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Bournemouth v West Bromwich</title>
     </programme>
@@ -153,17 +147,32 @@
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 9.optus">
         <title>FA Cup - Reading v Burnley</title>
     </programme>
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 10.optus">
+        <title>FA Cup - Exeter City v Oxford United</title>
+    </programme>
     <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester City v Salford</title>
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
     </programme>
+    <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
+        <title>FA Cup - Hull City v Doncaster Rovers</title>
+    </programme>
+    <programme start="20250112122000 +0000" stop="20250112154000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Tamworth v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 4.optus">
+        <title>FA Cup - Crystal Palace v Stockport</title>
+    </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Ipswich v Bristol Rovers</title>
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Newcastle United v Bromley</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
+        <title>FA Cup - Arsenal v Manchester United</title>
     </programme>
     <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Southampton v Swansea</title>
