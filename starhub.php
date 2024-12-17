@@ -16033,7 +16033,7 @@
         <title>U.S. Women’s Open Presented by Ally Day 3 Session 2</title>
     </programme>
     <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Women&#039;s World Long Drive</title>
+        <title>PGA Championship - Xander Schauffele</title>
     </programme>
     <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -16053,8 +16053,11 @@
     <programme start="20241226120000 +0000" stop="20241226150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>U.S. Women’s Open Presented by Ally Day 4 Session 3</title>
     </programme>
-    <programme start="20241226150000 +0000" stop="20241226160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Men&#039;s World Long Drive</title>
+    <programme start="20241226150000 +0000" stop="20241226153000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>#24-007: Debbie Doniger</title>
+    </programme>
+    <programme start="20241226153000 +0000" stop="20241226160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Martin Hall &amp; Staci Pla</title>
     </programme>
     <programme start="20241226160000 +0000" stop="20241226220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -16093,7 +16096,7 @@
         <title>The World’s Longest Putt</title>
     </programme>
     <programme start="20241229100000 +0000" stop="20241229120000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Una Famiglia</title>
+        <title>World Long Drive</title>
     </programme>
     <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Martin Hall &amp; Eric Glasband</title>
@@ -16109,9 +16112,6 @@
     </programme>
     <programme start="20241229140000 +0000" stop="20241229143000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Shane Lowry - Part 1</title>
-    </programme>
-    <programme start="20241229143000 +0000" stop="20241229150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Shane Lowry - Part 2</title>
     </programme>
     <programme start="20241216000000 +0000" stop="20241216010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (16/12/24 Pt2)</title>
@@ -17998,10 +17998,10 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20241218050000 +0000" stop="20241218080000 +0000" channel="Vannathirai.starhub">
-        <title>Guru Sishyan</title>
+        <title>Ananthi</title>
     </programme>
     <programme start="20241218080000 +0000" stop="20241218110000 +0000" channel="Vannathirai.starhub">
-        <title>Sugamana Sumaigal</title>
+        <title>Kizhvaanam Sivakkum</title>
     </programme>
     <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
@@ -18013,7 +18013,7 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20241218130000 +0000" stop="20241218160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai - Naanal</title>
+        <title>Hit Thirai - Nedunjaalai</title>
     </programme>
     <programme start="20241218160000 +0000" stop="20241218190000 +0000" channel="Vannathirai.starhub">
         <title>Panakkara Kudumbam</title>
@@ -22815,11 +22815,8 @@
     <programme start="20241217040000 +0000" stop="20241217043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
     </programme>
-    <programme start="20241217043000 +0000" stop="20241217050000 +0000" channel="Sun TV.starhub">
+    <programme start="20241217043000 +0000" stop="20241217053000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
-    </programme>
-    <programme start="20241217050000 +0000" stop="20241217053000 +0000" channel="Sun TV.starhub">
-        <title>Punnagai Poove</title>
     </programme>
     <programme start="20241217053000 +0000" stop="20241217060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
@@ -22834,7 +22831,7 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20241217073000 +0000" stop="20241217080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - THALIKATHA KALIAMMAN</title>
+        <title>Movie - _x000D_THALIKATHA KALIAMMAN</title>
     </programme>
     <programme start="20241217080000 +0000" stop="20241217083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
@@ -22878,8 +22875,11 @@
     <programme start="20241217160000 +0000" stop="20241217163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20241217163000 +0000" stop="20241217230000 +0000" channel="Sun TV.starhub">
+    <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
+    </programme>
+    <programme start="20241217170000 +0000" stop="20241217230000 +0000" channel="Sun TV.starhub">
+        <title>Punnagai Poove</title>
     </programme>
     <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="Sun TV.starhub">
         <title>NEWS</title>
@@ -22916,9 +22916,6 @@
     </programme>
     <programme start="20241218043000 +0000" stop="20241218050000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
-    </programme>
-    <programme start="20241218050000 +0000" stop="20241218053000 +0000" channel="Sun TV.starhub">
-        <title>Punnagai Poove</title>
     </programme>
     <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
@@ -22988,6 +22985,9 @@
     </programme>
     <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
+    </programme>
+    <programme start="20241219003000 +0000" stop="20241219010000 +0000" channel="Sun TV.starhub">
+        <title>Sun Autograph</title>
     </programme>
     <programme start="20241215230000 +0000" stop="20241216001000 +0000" channel="BBC Earth HD.starhub">
         <title>The Arid Heart</title>
@@ -24825,7 +24825,7 @@
     <programme start="20241217195000 +0000" stop="20241217220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241217220000 +0000" stop="20241218002000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241217220000 +0000" stop="20241218005500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241218002000 +0000" stop="20241218040000 +0000" channel="Hub Sports 4 HD.starhub">
