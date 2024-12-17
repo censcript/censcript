@@ -22735,7 +22735,7 @@
         <title>ANANDHA RAGAM</title>
     </programme>
     <programme start="20241216073000 +0000" stop="20241216080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - PALLIKKODAM</title>
+        <title>Movie - _x000D_PALLIKKODAM</title>
     </programme>
     <programme start="20241216080000 +0000" stop="20241216083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
@@ -22779,8 +22779,11 @@
     <programme start="20241216160000 +0000" stop="20241216163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20241216163000 +0000" stop="20241216230000 +0000" channel="Sun TV.starhub">
+    <programme start="20241216163000 +0000" stop="20241216170000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
+    </programme>
+    <programme start="20241216170000 +0000" stop="20241216230000 +0000" channel="Sun TV.starhub">
+        <title>Punnagai Poove</title>
     </programme>
     <programme start="20241216230000 +0000" stop="20241216233000 +0000" channel="Sun TV.starhub">
         <title>NEWS</title>
@@ -22914,7 +22917,7 @@
     <programme start="20241218040000 +0000" stop="20241218043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
     </programme>
-    <programme start="20241218043000 +0000" stop="20241218050000 +0000" channel="Sun TV.starhub">
+    <programme start="20241218043000 +0000" stop="20241218053000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
     </programme>
     <programme start="20241218053000 +0000" stop="20241218060000 +0000" channel="Sun TV.starhub">
@@ -22930,7 +22933,7 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - SIMMARASI</title>
+        <title>Movie - SIMMARASI_x000D_</title>
     </programme>
     <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
@@ -22974,20 +22977,17 @@
     <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20241218163000 +0000" stop="20241218230000 +0000" channel="Sun TV.starhub">
+    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
+    </programme>
+    <programme start="20241218170000 +0000" stop="20241218230000 +0000" channel="Sun TV.starhub">
+        <title>Punnagai Poove</title>
     </programme>
     <programme start="20241218230000 +0000" stop="20241218233000 +0000" channel="Sun TV.starhub">
         <title>NEWS</title>
     </programme>
     <programme start="20241218233000 +0000" stop="20241219000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
-    </programme>
-    <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="Sun TV.starhub">
-        <title>Ninathale Inikkum</title>
-    </programme>
-    <programme start="20241219003000 +0000" stop="20241219010000 +0000" channel="Sun TV.starhub">
-        <title>Sun Autograph</title>
     </programme>
     <programme start="20241215230000 +0000" stop="20241216001000 +0000" channel="BBC Earth HD.starhub">
         <title>The Arid Heart</title>
