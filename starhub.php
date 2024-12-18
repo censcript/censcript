@@ -30855,6 +30855,18 @@
     <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241216220000 +0000" stop="20241217040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -30994,6 +31006,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241216220000 +0000" stop="20241217040000 +0000" channel="Hub Premier 4.starhub">
@@ -32814,6 +32838,18 @@
     <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241216220000 +0000" stop="20241217040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32953,6 +32989,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241216220000 +0000" stop="20241217001000 +0000" channel="Hub Sports 5 HD.starhub">

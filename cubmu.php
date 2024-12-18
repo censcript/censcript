@@ -1434,6 +1434,9 @@
     <programme start="20241219160000 +0000" stop="20241218180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
+    <programme start="20241218170000 +0000" stop="20241218170500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
     <programme start="20241218170500 +0000" stop="20241218180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
