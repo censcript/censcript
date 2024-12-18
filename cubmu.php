@@ -304,7 +304,7 @@
         <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20241218230000 +0000" stop="20241218233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>CNBC Conversation</title>
     </programme>
     <programme start="20241218233000 +0000" stop="20241219003000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Property Point</title>
@@ -322,7 +322,7 @@
         <title>Power Lunch - Live</title>
     </programme>
     <programme start="20241219070000 +0000" stop="20241219073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>CNBC Conversation</title>
     </programme>
     <programme start="20241219073000 +0000" stop="20241219080000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Focus On Infra</title>
@@ -336,8 +336,11 @@
     <programme start="20241219110500 +0000" stop="20241219120000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Nation Hub - Live</title>
     </programme>
-    <programme start="20241219120000 +0000" stop="20241219130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Communication Strategist Award 2024</title>
+    <programme start="20241219120000 +0000" stop="20241219123000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20241219123000 +0000" stop="20241219130000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Energy Corner</title>
     </programme>
     <programme start="20241219130000 +0000" stop="20241219150000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Squawk Box</title>
@@ -1062,17 +1065,8 @@
     <programme start="20241218170200 +0000" stop="20241218175000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Sonoma, California</title>
     </programme>
-    <programme start="20241218170200 +0000" stop="20241218175000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Sonoma, California</title>
-    </programme>
     <programme start="20241218175000 +0000" stop="20241218180000 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
-    </programme>
-    <programme start="20241218175000 +0000" stop="20241218180000 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
-    </programme>
-    <programme start="20241218180000 +0000" stop="20241218182500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
     </programme>
     <programme start="20241218180000 +0000" stop="20241218182500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
@@ -1080,17 +1074,8 @@
     <programme start="20241218182500 +0000" stop="20241218184500 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
     </programme>
-    <programme start="20241218182500 +0000" stop="20241218184500 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
     <programme start="20241218184500 +0000" stop="20241218190000 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
-    </programme>
-    <programme start="20241218184500 +0000" stop="20241218190000 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
-    <programme start="20241218190000 +0000" stop="20241218194800 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Summit Point, West Virginia</title>
     </programme>
     <programme start="20241218190000 +0000" stop="20241218194800 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Summit Point, West Virginia</title>
@@ -1098,17 +1083,8 @@
     <programme start="20241218194800 +0000" stop="20241218200630 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20241218194800 +0000" stop="20241218200630 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20241218200630 +0000" stop="20241218205200 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
-    </programme>
-    <programme start="20241218200630 +0000" stop="20241218205200 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
-    <programme start="20241218205200 +0000" stop="20241218214000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Wall, New Jersey</title>
     </programme>
     <programme start="20241218205200 +0000" stop="20241218214000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Wall, New Jersey</title>
@@ -1116,17 +1092,8 @@
     <programme start="20241218214000 +0000" stop="20241219000000 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20241218214000 +0000" stop="20241219000000 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20241219000000 +0000" stop="20241219004800 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Atlanta, Georgia</title>
-    </programme>
-    <programme start="20241219000000 +0000" stop="20241219004800 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Atlanta, Georgia</title>
-    </programme>
-    <programme start="20241219004800 +0000" stop="20241219011700 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20241219004800 +0000" stop="20241219011700 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1134,17 +1101,8 @@
     <programme start="20241219011700 +0000" stop="20241219020200 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
     </programme>
-    <programme start="20241219011700 +0000" stop="20241219020200 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
     <programme start="20241219020200 +0000" stop="20241219030200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
-    </programme>
-    <programme start="20241219020200 +0000" stop="20241219030200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
-    <programme start="20241219030200 +0000" stop="20241219032000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20241219030200 +0000" stop="20241219032000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1152,17 +1110,8 @@
     <programme start="20241219032000 +0000" stop="20241219033500 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
     </programme>
-    <programme start="20241219032000 +0000" stop="20241219033500 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
     <programme start="20241219033500 +0000" stop="20241219034500 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
-    </programme>
-    <programme start="20241219033500 +0000" stop="20241219034500 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
-    </programme>
-    <programme start="20241219034500 +0000" stop="20241219041500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
     </programme>
     <programme start="20241219034500 +0000" stop="20241219041500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
@@ -1170,17 +1119,8 @@
     <programme start="20241219041500 +0000" stop="20241219045700 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20241219041500 +0000" stop="20241219045700 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20241219045700 +0000" stop="20241219054500 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Englishtown, New Jersey</title>
-    </programme>
-    <programme start="20241219045700 +0000" stop="20241219054500 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Englishtown, New Jersey</title>
-    </programme>
-    <programme start="20241219054500 +0000" stop="20241219063000 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
     </programme>
     <programme start="20241219054500 +0000" stop="20241219063000 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
@@ -1188,17 +1128,8 @@
     <programme start="20241219063000 +0000" stop="20241219070000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
     </programme>
-    <programme start="20241219063000 +0000" stop="20241219070000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
     <programme start="20241219070000 +0000" stop="20241219074500 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
-    </programme>
-    <programme start="20241219070000 +0000" stop="20241219074500 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
-    <programme start="20241219074500 +0000" stop="20241219075500 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
     </programme>
     <programme start="20241219074500 +0000" stop="20241219075500 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
@@ -1206,17 +1137,8 @@
     <programme start="20241219075500 +0000" stop="20241219082500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
     </programme>
-    <programme start="20241219075500 +0000" stop="20241219082500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
     <programme start="20241219082500 +0000" stop="20241219085000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
-    </programme>
-    <programme start="20241219082500 +0000" stop="20241219085000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
-    <programme start="20241219085000 +0000" stop="20241219090500 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
     </programme>
     <programme start="20241219085000 +0000" stop="20241219090500 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
@@ -1224,17 +1146,8 @@
     <programme start="20241219090500 +0000" stop="20241219095300 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Irwindale, California</title>
     </programme>
-    <programme start="20241219090500 +0000" stop="20241219095300 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Irwindale, California</title>
-    </programme>
     <programme start="20241219095300 +0000" stop="20241219103800 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
-    </programme>
-    <programme start="20241219095300 +0000" stop="20241219103800 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
-    <programme start="20241219103800 +0000" stop="20241219110000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20241219103800 +0000" stop="20241219110000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1242,17 +1155,8 @@
     <programme start="20241219110000 +0000" stop="20241219115500 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20241219110000 +0000" stop="20241219115500 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20241219115500 +0000" stop="20241219122500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20241219115500 +0000" stop="20241219122500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20241219122500 +0000" stop="20241219125000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20241219122500 +0000" stop="20241219125000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1260,17 +1164,8 @@
     <programme start="20241219125000 +0000" stop="20241219130200 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
     </programme>
-    <programme start="20241219125000 +0000" stop="20241219130200 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
     <programme start="20241219130200 +0000" stop="20241219135000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Long Beach, California</title>
-    </programme>
-    <programme start="20241219130200 +0000" stop="20241219135000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Long Beach, California</title>
-    </programme>
-    <programme start="20241219135000 +0000" stop="20241219140000 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
     </programme>
     <programme start="20241219135000 +0000" stop="20241219140000 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
@@ -1278,17 +1173,8 @@
     <programme start="20241219140000 +0000" stop="20241219142500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
     </programme>
-    <programme start="20241219140000 +0000" stop="20241219142500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
     <programme start="20241219142500 +0000" stop="20241219145000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
-    </programme>
-    <programme start="20241219142500 +0000" stop="20241219145000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
-    <programme start="20241219145000 +0000" stop="20241219151200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20241219145000 +0000" stop="20241219151200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1296,17 +1182,8 @@
     <programme start="20241219151200 +0000" stop="20241219160000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Monroe, Washington</title>
     </programme>
-    <programme start="20241219151200 +0000" stop="20241219160000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Monroe, Washington</title>
-    </programme>
     <programme start="20241219160000 +0000" stop="20241219163600 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20241219160000 +0000" stop="20241219163600 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20241219163600 +0000" stop="20241218170200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20241219163600 +0000" stop="20241218170200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1557,9 +1434,6 @@
     <programme start="20241219160000 +0000" stop="20241218180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20241218170000 +0000" stop="20241218170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20241218170500 +0000" stop="20241218180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -1573,13 +1447,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20241218190500 +0000" stop="20241218200000 +0000" channel="MetroTV.cubmu">
-        <title>Kontroversi</title>
+        <title>Hot Room</title>
     </programme>
     <programme start="20241218200000 +0000" stop="20241218200500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20241218200500 +0000" stop="20241218203000 +0000" channel="MetroTV.cubmu">
-        <title>Melawan Lupa</title>
+        <title>Realitas</title>
     </programme>
     <programme start="20241218203000 +0000" stop="20241218210000 +0000" channel="MetroTV.cubmu">
         <title>Gaspoll</title>
@@ -1648,7 +1522,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20241219060500 +0000" stop="20241219070000 +0000" channel="MetroTV.cubmu">
-        <title>Kontroversi</title>
+        <title>Hot Room</title>
     </programme>
     <programme start="20241219070000 +0000" stop="20241219070500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1702,7 +1576,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20241219140500 +0000" stop="20241219150000 +0000" channel="MetroTV.cubmu">
-        <title>Visi Negarawan</title>
+        <title>Kontroversi</title>
     </programme>
     <programme start="20241219150000 +0000" stop="20241219150500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -2204,9 +2078,6 @@
     </programme>
     <programme start="20241219163000 +0000" stop="20241218170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20241218170000 +0000" stop="20241218170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241218170500 +0000" stop="20241218170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>

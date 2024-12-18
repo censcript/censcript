@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241218180000 +0000" stop="20241218183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Andy Robertson</title>
-    </programme>
     <programme start="20241219133000 +0000" stop="20241219140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Bassey x Iwobi</title>
     </programme>
