@@ -2082,6 +2082,9 @@
     <programme start="20241219163000 +0000" stop="20241218170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
     </programme>
+    <programme start="20241218170000 +0000" stop="20241218170500 +0000" channel="jtv.cubmu">
+        <title>Lagu Nasional - Bagimu Negeri</title>
+    </programme>
     <programme start="20241218170500 +0000" stop="20241218170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
     </programme>
