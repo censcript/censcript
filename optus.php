@@ -156,6 +156,9 @@
     <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester City v Salford</title>
     </programme>
+    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 5.optus">
+        <title>FA Cup - Coventry City v Sheffield Wednesday</title>
+    </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Mansfield Town v Wigan Athletic</title>
     </programme>
