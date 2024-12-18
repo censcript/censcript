@@ -9564,16 +9564,13 @@
     <programme start="20241220091000 +0000" stop="20241220101000 +0000" channel="KBS World HD.starhub">
         <title>2024 Quiz on Korea - After Story</title>
     </programme>
-    <programme start="20241220101000 +0000" stop="20241220102000 +0000" channel="KBS World HD.starhub">
-        <title>The Seasons W</title>
-    </programme>
-    <programme start="20241220102000 +0000" stop="20241220105500 +0000" channel="KBS World HD.starhub">
+    <programme start="20241220101000 +0000" stop="20241220104500 +0000" channel="KBS World HD.starhub">
         <title>My Merry Marriage</title>
     </programme>
-    <programme start="20241220105500 +0000" stop="20241220113500 +0000" channel="KBS World HD.starhub">
+    <programme start="20241220104500 +0000" stop="20241220112500 +0000" channel="KBS World HD.starhub">
         <title>Cinderella Game</title>
     </programme>
-    <programme start="20241220113500 +0000" stop="20241220123500 +0000" channel="KBS World HD.starhub">
+    <programme start="20241220112500 +0000" stop="20241220123500 +0000" channel="KBS World HD.starhub">
         <title>2024 KBS Song Festival</title>
     </programme>
     <programme start="20241220123500 +0000" stop="20241220133500 +0000" channel="KBS World HD.starhub">
@@ -9599,6 +9596,9 @@
     </programme>
     <programme start="20241220195000 +0000" stop="20241220210000 +0000" channel="KBS World HD.starhub">
         <title>The 45th Blue Dragon Film Awards</title>
+    </programme>
+    <programme start="20241220210000 +0000" stop="20241220223000 +0000" channel="KBS World HD.starhub">
+        <title>The Seasons</title>
     </programme>
     <programme start="20241217000000 +0000" stop="20241217020000 +0000" channel="SPOTV2.starhub">
         <title>Ice Dance Free Dance + Victory Ceremony</title>
@@ -14824,19 +14824,19 @@
         <title>Day 14 - Finals (Centre Court)</title>
     </programme>
     <programme start="20241223073000 +0000" stop="20241223110000 +0000" channel="SPOTV.starhub">
-        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
+        <title>Episode 05</title>
     </programme>
     <programme start="20241223110000 +0000" stop="20241223163000 +0000" channel="SPOTV.starhub">
         <title>Day 6 Finals</title>
     </programme>
     <programme start="20241223163000 +0000" stop="20241223173000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+        <title>Round 4 Highlights</title>
     </programme>
     <programme start="20241223173000 +0000" stop="20241223180000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+        <title>Review</title>
     </programme>
     <programme start="20241223180000 +0000" stop="20241223183000 +0000" channel="SPOTV.starhub">
-        <title>Review</title>
+        <title>Highlights</title>
     </programme>
     <programme start="20241223183000 +0000" stop="20241223213000 +0000" channel="SPOTV.starhub">
         <title>Week 07</title>
@@ -14878,12 +14878,126 @@
         <title>Highlights</title>
     </programme>
     <programme start="20241225120000 +0000" stop="20241225144500 +0000" channel="SPOTV.starhub">
-        <title>2024 MLB World Series Game 1 New York Yankees vs Los Angeles Dodgers</title>
+        <title>New York Yankees vs Los Angeles Dodgers</title>
     </programme>
     <programme start="20241225144500 +0000" stop="20241225173000 +0000" channel="SPOTV.starhub">
         <title>Week 07</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="SPOTV.starhub">
+    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="SPOTV.starhub">
+        <title>Review</title>
+    </programme>
+    <programme start="20241225180000 +0000" stop="20241225230000 +0000" channel="SPOTV.starhub">
+        <title>Day 6 Finals</title>
+    </programme>
+    <programme start="20241225230000 +0000" stop="20241226040000 +0000" channel="SPOTV.starhub">
+        <title>Day 1</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226090000 +0000" channel="SPOTV.starhub">
+        <title>D9 Uber Cup Finals - CHN vs INA</title>
+    </programme>
+    <programme start="20241226090000 +0000" stop="20241226113000 +0000" channel="SPOTV.starhub">
+        <title>Finals</title>
+    </programme>
+    <programme start="20241226113000 +0000" stop="20241226120000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241226120000 +0000" stop="20241226141500 +0000" channel="SPOTV.starhub">
+        <title>New York Yankees vs Los Angeles Dodgers</title>
+    </programme>
+    <programme start="20241226141500 +0000" stop="20241226180000 +0000" channel="SPOTV.starhub">
+        <title>Finals</title>
+    </programme>
+    <programme start="20241226180000 +0000" stop="20241226230000 +0000" channel="SPOTV.starhub">
+        <title>Day 4 Finals</title>
+    </programme>
+    <programme start="20241226230000 +0000" stop="20241227040000 +0000" channel="SPOTV.starhub">
+        <title>Day 2</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227090000 +0000" channel="SPOTV.starhub">
+        <title>D9 Thomas Cup Finals</title>
+    </programme>
+    <programme start="20241227090000 +0000" stop="20241227100000 +0000" channel="SPOTV.starhub">
+        <title>Round 4 Highlights</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227110000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241227110000 +0000" stop="20241227120000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227144500 +0000" channel="SPOTV.starhub">
+        <title>Los Angeles Dodgers vs New York Yankees</title>
+    </programme>
+    <programme start="20241227144500 +0000" stop="20241227173000 +0000" channel="SPOTV.starhub">
+        <title>Los Angeles Dodgers vs New York Yankees</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="SPOTV.starhub">
+        <title>Ep 24</title>
+    </programme>
+    <programme start="20241227180000 +0000" stop="20241227233000 +0000" channel="SPOTV.starhub">
+        <title>Day 6 Finals</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228050000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228073000 +0000" channel="SPOTV.starhub">
+        <title>Recurve Women</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228123000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228160000 +0000" channel="SPOTV.starhub">
+        <title>Los Angeles Dodgers vs New York Yankees</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="SPOTV.starhub">
+        <title>Round 4 Highlights</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228230000 +0000" channel="SPOTV.starhub">
+        <title>Day 4 Finals</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SPOTV.starhub">
+        <title>Pre Show</title>
+    </programme>
+    <programme start="20241228233000 +0000" stop="20241229053000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
+    </programme>
+    <programme start="20241229053000 +0000" stop="20241229080000 +0000" channel="SPOTV.starhub">
+        <title>Recurve Men</title>
+    </programme>
+    <programme start="20241229080000 +0000" stop="20241229130000 +0000" channel="SPOTV.starhub">
+        <title>Day 1</title>
+    </programme>
+    <programme start="20241229130000 +0000" stop="20241229180000 +0000" channel="SPOTV.starhub">
+        <title>Day 2</title>
+    </programme>
+    <programme start="20241229180000 +0000" stop="20241229183000 +0000" channel="SPOTV.starhub">
+        <title>Ep 24</title>
+    </programme>
+    <programme start="20241229183000 +0000" stop="20241230040000 +0000" channel="SPOTV.starhub">
+        <title>Eye Level Cups - Day 1 Semifinals</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="SPOTV.starhub">
+        <title>Eye Level Cups - Day 2 Finals</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230133000 +0000" channel="SPOTV.starhub">
+        <title>BMW BERLIN-MARATHON 2024</title>
+    </programme>
+    <programme start="20241230133000 +0000" stop="20241230143000 +0000" channel="SPOTV.starhub">
+        <title>Highlights Part 1</title>
+    </programme>
+    <programme start="20241230143000 +0000" stop="20241230153000 +0000" channel="SPOTV.starhub">
+        <title>Highlights Part 2</title>
+    </programme>
+    <programme start="20241230153000 +0000" stop="20241230173000 +0000" channel="SPOTV.starhub">
+        <title>Al Ittihad vs Al Nassr</title>
+    </programme>
+    <programme start="20241230173000 +0000" stop="20241230180000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241230180000 +0000" stop="20241230183000 +0000" channel="SPOTV.starhub">
         <title>Review</title>
     </programme>
     <programme start="20241216233000 +0000" stop="20241217002000 +0000" channel="ONE HD.starhub">
@@ -18675,74 +18789,116 @@
     <programme start="20241222213000 +0000" stop="20241222220000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20241222220000 +0000" stop="20241223040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241222220000 +0000" stop="20241223010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Nadigaiyar Thilagam</title>
     </programme>
-    <programme start="20241223040000 +0000" stop="20241223100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223010000 +0000" stop="20241223040000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Saleem</title>
     </programme>
-    <programme start="20241223100000 +0000" stop="20241223160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223040000 +0000" stop="20241223070000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Karnan</title>
     </programme>
-    <programme start="20241223160000 +0000" stop="20241223220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223070000 +0000" stop="20241223100000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Vanavarayan Vallavarayan</title>
     </programme>
-    <programme start="20241223220000 +0000" stop="20241224040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223100000 +0000" stop="20241223123000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Bommai Nayagi</title>
     </programme>
-    <programme start="20241224040000 +0000" stop="20241224100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223123000 +0000" stop="20241223160000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Saaho</title>
     </programme>
-    <programme start="20241224100000 +0000" stop="20241224160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223160000 +0000" stop="20241223183000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Lakshmi</title>
     </programme>
-    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223183000 +0000" stop="20241223210000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Pattathu Yaanai</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223210000 +0000" stop="20241223230000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Inji Idupazhagi</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241223230000 +0000" stop="20241224013000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Vetrivel</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224013000 +0000" stop="20241224040000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Chiyaangal</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224040000 +0000" stop="20241224070000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Idhu Kathirvelan Kadhal</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224070000 +0000" stop="20241224100000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Thangaraja</title>
     </programme>
-    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224100000 +0000" stop="20241224130000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kedi Billa Killadi Ranga</title>
     </programme>
-    <programme start="20241226100000 +0000" stop="20241226160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224130000 +0000" stop="20241224150000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Biscoth</title>
     </programme>
-    <programme start="20241226160000 +0000" stop="20241226220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224150000 +0000" stop="20241224180000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Shivalinga</title>
     </programme>
-    <programme start="20241226220000 +0000" stop="20241227040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224180000 +0000" stop="20241224203000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Balloon</title>
     </programme>
-    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224203000 +0000" stop="20241224210000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20241227100000 +0000" stop="20241227160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224210000 +0000" stop="20241224213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20241227160000 +0000" stop="20241227220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224213000 +0000" stop="20241224220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20241227220000 +0000" stop="20241228040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224220000 +0000" stop="20241224223000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20241228040000 +0000" stop="20241228100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241224223000 +0000" stop="20241225010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Naan Sirithal</title>
     </programme>
-    <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20241225010000 +0000" stop="20241225040000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Cheranin Thirumanam</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225073000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Akhanda</title>
+    </programme>
+    <programme start="20241225073000 +0000" stop="20241225100000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Thumbha</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225123000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Gorilla</title>
+    </programme>
+    <programme start="20241225123000 +0000" stop="20241225150000 +0000" channel="Zee Thirai.starhub">
+        <title>Wtp Movies - Asvins</title>
+    </programme>
+    <programme start="20241225150000 +0000" stop="20241225180000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Krack</title>
+    </programme>
+    <programme start="20241225180000 +0000" stop="20241225203000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kathar Basha</title>
+    </programme>
+    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Desingu Raja</title>
+    </programme>
+    <programme start="20241226003000 +0000" stop="20241226040000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Adade Sundara</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226070000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Oh My Kadavule</title>
+    </programme>
+    <programme start="20241226070000 +0000" stop="20241226100000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kanaa</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226130000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Irumugan</title>
     </programme>
     <programme start="20241216230000 +0000" stop="20241217020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
@@ -24786,16 +24942,19 @@
     <programme start="20241218220000 +0000" stop="20241219001000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241219040000 +0000" stop="20241219080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241219001000 +0000" stop="20241219043000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>ICC Women&#039;s T20 World Cup 2024: M22 - SF2 - West Indies vs New Zealand</title>
+    </programme>
+    <programme start="20241219043000 +0000" stop="20241219080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M03 - Sydney Thunder vs Adelaide Strikers</title>
     </programme>
     <programme start="20241219080000 +0000" stop="20241219121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M05 - Melbourne Renegades vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20241219121500 +0000" stop="20241219201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241219121500 +0000" stop="20241219174000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 3rd Test - Day 4</title>
     </programme>
-    <programme start="20241219201500 +0000" stop="20241219220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241219174000 +0000" stop="20241219220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241219220000 +0000" stop="20241219232500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24870,14 +25029,14 @@
     <programme start="20241223191500 +0000" stop="20241223220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241223220000 +0000" stop="20241224005000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241223220000 +0000" stop="20241224015000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224005000 +0000" stop="20241224040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241224015000 +0000" stop="20241224050000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Pakistan Tour of Australia 2024: 3rd T20I</title>
     </programme>
-    <programme start="20241224040000 +0000" stop="20241224120000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 1</title>
+    <programme start="20241224050000 +0000" stop="20241224120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>South Africa Tour of Bangladesh 2024: 2nd Test - Day 3</title>
     </programme>
     <programme start="20241224120000 +0000" stop="20241224160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M08 - Sydney Thunder vs Sydney Sixers</title>
