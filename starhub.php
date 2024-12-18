@@ -24783,11 +24783,8 @@
     <programme start="20241218201500 +0000" stop="20241218220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241218220000 +0000" stop="20241218234500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241218220000 +0000" stop="20241219001000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20241218234500 +0000" stop="20241219040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s T20 World Cup 2024: M22 - SF2 - West Indies vs New Zealand</title>
     </programme>
     <programme start="20241219040000 +0000" stop="20241219080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M03 - Sydney Thunder vs Adelaide Strikers</title>
