@@ -60,8 +60,35 @@
     <programme start="20241222230000 +0000" stop="20241223000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20241223110000 +0000" stop="20241223113000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20241223170000 +0000" stop="20241223180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20241224090000 +0000" stop="20241224100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1 to 11 - Tony Adams</title>
+    </programme>
+    <programme start="20241224153000 +0000" stop="20241224160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview: Cole Palmer</title>
+    </programme>
+    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Basque Managers</title>
+    </programme>
     <programme start="20241226113000 +0000" stop="20241226145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Everton</title>
+    </programme>
+    <programme start="20241226145000 +0000" stop="20241226172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Thursday</title>
     </programme>
     <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Southampton v West Ham United</title>
@@ -84,11 +111,26 @@
     <programme start="20241226195000 +0000" stop="20241226230000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Leicester City</title>
     </programme>
+    <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20241227190000 +0000" stop="20241227230000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Saturday Morning</title>
+    </programme>
     <programme start="20241227192000 +0000" stop="20241227214000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Brighton v Brentford</title>
     </programme>
     <programme start="20241227200500 +0000" stop="20241227222500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Arsenal v Ipswich</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20241228003000 +0000" stop="20241228013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
     </programme>
     <programme start="20241229142000 +0000" stop="20241229164000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Leicester City v Manchester City</title>

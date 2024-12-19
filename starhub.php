@@ -32166,6 +32166,12 @@
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241217220000 +0000" stop="20241218040000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
