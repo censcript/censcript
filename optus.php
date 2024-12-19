@@ -90,6 +90,36 @@
     <programme start="20241227200500 +0000" stop="20241227222500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Arsenal v Ipswich</title>
     </programme>
+    <programme start="20241229142000 +0000" stop="20241229164000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Leicester City v Manchester City</title>
+    </programme>
+    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Tottenham Hotspur v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Fulham v Bournemouth</title>
+    </programme>
+    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Everton v Nottingham Forest</title>
+    </programme>
+    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 6.optus">
+        <title>Premier League - Crystal Palace v Southampton</title>
+    </programme>
+    <programme start="20241229170500 +0000" stop="20241229200000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - West Ham United v Liverpool</title>
+    </programme>
+    <programme start="20241230193500 +0000" stop="20241230214500 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Ipswich v Chelsea</title>
+    </programme>
+    <programme start="20241230193500 +0000" stop="20241230214500 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Aston Villa v Brighton</title>
+    </programme>
+    <programme start="20241230195000 +0000" stop="20241230221000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Manchester United v Newcastle United</title>
+    </programme>
+    <programme start="20250101163000 +0000" stop="20250101203000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Brentford v Arsenal</title>
+    </programme>
     <programme start="20250109185000 +0000" stop="20250109221000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Sheffield United v Cardiff City</title>
     </programme>
