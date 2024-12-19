@@ -6819,14 +6819,23 @@
     <programme start="20241219010500 +0000" stop="20241219015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Historical Drama &quot;Dear Radiance&quot; Fan Meeting (R)</title>
     </programme>
-    <programme start="20241219015000 +0000" stop="20241219021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20241219021700 +0000" stop="20241219022000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241219015000 +0000" stop="20241219015400 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20241219022000 +0000" stop="20241219025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Let&#039;s Try Editing All at Once (R)</title>
+    <programme start="20241219015400 +0000" stop="20241219020500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News</title>
+    </programme>
+    <programme start="20241219020500 +0000" stop="20241219023200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Today&#039;s Close-up (R)</title>
+    </programme>
+    <programme start="20241219023200 +0000" stop="20241219024200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News</title>
+    </programme>
+    <programme start="20241219024200 +0000" stop="20241219024500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241219024500 +0000" stop="20241219025000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Sound of Kyoto</title>
     </programme>
     <programme start="20241219025000 +0000" stop="20241219025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
@@ -6834,14 +6843,8 @@
     <programme start="20241219025600 +0000" stop="20241219030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20241219030000 +0000" stop="20241219032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241219030000 +0000" stop="20241219033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20241219032000 +0000" stop="20241219032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20241219032800 +0000" stop="20241219033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20241219033000 +0000" stop="20241219034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 24</title>
@@ -6849,10 +6852,10 @@
     <programme start="20241219034500 +0000" stop="20241219040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 59 (R)</title>
     </programme>
-    <programme start="20241219040000 +0000" stop="20241219040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241219040000 +0000" stop="20241219042000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20241219040500 +0000" stop="20241219055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241219042000 +0000" stop="20241219055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20241219055000 +0000" stop="20241219055500 +0000" channel="NHK World Premium HD.starhub">
@@ -6896,9 +6899,6 @@
     </programme>
     <programme start="20241219090000 +0000" stop="20241219091000 +0000" channel="NHK World Premium HD.starhub">
         <title>News (B)</title>
-    </programme>
-    <programme start="20241219091000 +0000" stop="20241219092500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery</title>
     </programme>
     <programme start="20241217235500 +0000" stop="20241218012500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>
