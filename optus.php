@@ -240,6 +240,9 @@
     <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leicester City v QPR</title>
     </programme>
+    <programme start="20250111145000 +0000" stop="20250111171000 +0000" channel="Optus Sport 4.optus">
+        <title>FA Cup - Sunderland v Stoke</title>
+    </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Luton Town</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Arsenal v Manchester United</title>
-    </programme>
-    <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Southampton v Swansea</title>
     </programme>
 </tv>

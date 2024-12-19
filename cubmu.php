@@ -1392,17 +1392,8 @@
     <programme start="20241219180000 +0000" stop="20241219183000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Malam</title>
     </programme>
-    <programme start="20241219180000 +0000" stop="20241219183000 +0000" channel="SCTV.cubmu">
-        <title>Liputan 6 Malam</title>
-    </programme>
     <programme start="20241219183000 +0000" stop="20241219190000 +0000" channel="SCTV.cubmu">
         <title>Buser</title>
-    </programme>
-    <programme start="20241219183000 +0000" stop="20241219190000 +0000" channel="SCTV.cubmu">
-        <title>Buser</title>
-    </programme>
-    <programme start="20241219190000 +0000" stop="20241219203000 +0000" channel="SCTV.cubmu">
-        <title>Sinema Malam</title>
     </programme>
     <programme start="20241219190000 +0000" stop="20241219203000 +0000" channel="SCTV.cubmu">
         <title>Sinema Malam</title>
@@ -1410,17 +1401,8 @@
     <programme start="20241219203000 +0000" stop="20241219210000 +0000" channel="SCTV.cubmu">
         <title>Sinetron Dini Hari</title>
     </programme>
-    <programme start="20241219203000 +0000" stop="20241219210000 +0000" channel="SCTV.cubmu">
-        <title>Sinetron Dini Hari</title>
-    </programme>
     <programme start="20241219210000 +0000" stop="20241219213000 +0000" channel="SCTV.cubmu">
         <title>Barakallah</title>
-    </programme>
-    <programme start="20241219210000 +0000" stop="20241219213000 +0000" channel="SCTV.cubmu">
-        <title>Barakallah</title>
-    </programme>
-    <programme start="20241219213000 +0000" stop="20241219230000 +0000" channel="SCTV.cubmu">
-        <title>Liputan 6 Pagi</title>
     </programme>
     <programme start="20241219213000 +0000" stop="20241219230000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
@@ -1428,17 +1410,8 @@
     <programme start="20241219230000 +0000" stop="20241220000000 +0000" channel="SCTV.cubmu">
         <title>Halo Selebriti</title>
     </programme>
-    <programme start="20241219230000 +0000" stop="20241220000000 +0000" channel="SCTV.cubmu">
-        <title>Halo Selebriti</title>
-    </programme>
     <programme start="20241220000000 +0000" stop="20241220013000 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
-    </programme>
-    <programme start="20241220000000 +0000" stop="20241220013000 +0000" channel="SCTV.cubmu">
-        <title>Gaspol: Games Asyik Paling Nampol</title>
-    </programme>
-    <programme start="20241220013000 +0000" stop="20241220023000 +0000" channel="SCTV.cubmu">
-        <title>FTV Pagi Spesial</title>
     </programme>
     <programme start="20241220013000 +0000" stop="20241220023000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi Spesial</title>
@@ -1446,17 +1419,8 @@
     <programme start="20241220023000 +0000" stop="20241220030000 +0000" channel="SCTV.cubmu">
         <title>Indonesian Simple</title>
     </programme>
-    <programme start="20241220023000 +0000" stop="20241220030000 +0000" channel="SCTV.cubmu">
-        <title>Indonesian Simple</title>
-    </programme>
     <programme start="20241220030000 +0000" stop="20241220050000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi</title>
-    </programme>
-    <programme start="20241220030000 +0000" stop="20241220050000 +0000" channel="SCTV.cubmu">
-        <title>FTV Pagi</title>
-    </programme>
-    <programme start="20241220050000 +0000" stop="20241220053000 +0000" channel="SCTV.cubmu">
-        <title>Liputan 6 Siang</title>
     </programme>
     <programme start="20241220050000 +0000" stop="20241220053000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
@@ -1464,17 +1428,8 @@
     <programme start="20241220053000 +0000" stop="20241220073000 +0000" channel="SCTV.cubmu">
         <title>FTV Siang</title>
     </programme>
-    <programme start="20241220053000 +0000" stop="20241220073000 +0000" channel="SCTV.cubmu">
-        <title>FTV Siang</title>
-    </programme>
     <programme start="20241220073000 +0000" stop="20241220094500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
-    </programme>
-    <programme start="20241220073000 +0000" stop="20241220094500 +0000" channel="SCTV.cubmu">
-        <title>FTV Sore</title>
-    </programme>
-    <programme start="20241220094500 +0000" stop="20241220111500 +0000" channel="SCTV.cubmu">
-        <title>Asmara Gen Z</title>
     </programme>
     <programme start="20241220094500 +0000" stop="20241220111500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
@@ -1482,17 +1437,8 @@
     <programme start="20241220111500 +0000" stop="20241220124500 +0000" channel="SCTV.cubmu">
         <title>Saleha</title>
     </programme>
-    <programme start="20241220111500 +0000" stop="20241220124500 +0000" channel="SCTV.cubmu">
-        <title>Saleha</title>
-    </programme>
     <programme start="20241220124500 +0000" stop="20241220143000 +0000" channel="SCTV.cubmu">
         <title>Naik Ranjang</title>
-    </programme>
-    <programme start="20241220124500 +0000" stop="20241220143000 +0000" channel="SCTV.cubmu">
-        <title>Naik Ranjang</title>
-    </programme>
-    <programme start="20241220143000 +0000" stop="20241220160000 +0000" channel="SCTV.cubmu">
-        <title>Luka Cinta</title>
     </programme>
     <programme start="20241220143000 +0000" stop="20241220160000 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
@@ -1500,8 +1446,8 @@
     <programme start="20241220160000 +0000" stop="20241219180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20241220160000 +0000" stop="20241219180000 +0000" channel="SCTV.cubmu">
-        <title>FTV Primetime</title>
+    <programme start="20241219170000 +0000" stop="20241219170500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
     </programme>
     <programme start="20241219170500 +0000" stop="20241219180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
@@ -2153,6 +2099,9 @@
     </programme>
     <programme start="20241220163000 +0000" stop="20241219173000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20241219170000 +0000" stop="20241219170500 +0000" channel="jtv.cubmu">
+        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241219170500 +0000" stop="20241219170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>

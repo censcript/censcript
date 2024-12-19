@@ -28590,6 +28590,18 @@
     <programme start="20241229100000 +0000" stop="20241229160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20241229160300 +0000" stop="20241229220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241230040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241217235900 +0000" stop="20241218001500 +0000" channel="HBO Family HD.starhub">
         <title>Primal</title>
     </programme>
@@ -30831,6 +30843,18 @@
     <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241229160000 +0000" stop="20241229220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241230040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241217220000 +0000" stop="20241218040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -30970,6 +30994,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229160000 +0000" stop="20241229220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241230040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241217220000 +0000" stop="20241218040000 +0000" channel="Hub Premier 4.starhub">
@@ -32775,6 +32811,18 @@
     <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241229160000 +0000" stop="20241229220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241230040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241217220000 +0000" stop="20241218040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32914,6 +32962,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229160000 +0000" stop="20241229220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241230040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241217220000 +0000" stop="20241218001000 +0000" channel="Hub Sports 5 HD.starhub">
