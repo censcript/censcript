@@ -24939,10 +24939,10 @@
     <programme start="20241219174000 +0000" stop="20241219220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241219220000 +0000" stop="20241219232500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241219220000 +0000" stop="20241219235000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241219232500 +0000" stop="20241220040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241219235000 +0000" stop="20241220043000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women&#039;s T20 World Cup 2024: M23 - Final - South Africa vs New Zealand</title>
     </programme>
     <programme start="20241220040000 +0000" stop="20241220080000 +0000" channel="Hub Sports 4 HD.starhub">
