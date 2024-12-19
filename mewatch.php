@@ -946,7 +946,7 @@
         <title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
     </programme>
     <programme start="20241219111400 +0000" stop="20241219111600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) -</title>
+        <title>The Wonder Shop (Home Shopping) - Furi Knife Bundle Set</title>
     </programme>
     <programme start="20241219111600 +0000" stop="20241219113000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Dr Forest Royal Ginseng Toothpaste (3+1bottles Set)</title>

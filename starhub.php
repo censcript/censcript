@@ -11248,7 +11248,7 @@
         <title>UEFA Conference League 2024/25: Real Betis vs HJK Helsinki - MD6 (Live)</title>
     </programme>
     <programme start="20241219220000 +0000" stop="20241219223000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - Bundesliga 2024/25: Hoffenheim vs Monchengladbach</title>
+        <title>Mini Match - Bundesliga 2024/25: Augsburg vs Leverkusen</title>
     </programme>
     <programme start="20241219223000 +0000" stop="20241219230000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2024</title>

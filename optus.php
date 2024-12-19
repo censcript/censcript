@@ -132,6 +132,12 @@
     <programme start="20241228003000 +0000" stop="20241228013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20241229133000 +0000" stop="20241229170500 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
     <programme start="20241229142000 +0000" stop="20241229164000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Leicester City v Manchester City</title>
     </programme>
@@ -150,6 +156,18 @@
     <programme start="20241229170500 +0000" stop="20241229200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - West Ham United v Liverpool</title>
     </programme>
+    <programme start="20241229203000 +0000" stop="20241229220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20241230170000 +0000" stop="20241230180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20241230190000 +0000" stop="20241230223000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Tuesday Morning</title>
+    </programme>
     <programme start="20241230193500 +0000" stop="20241230214500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Ipswich v Chelsea</title>
     </programme>
@@ -159,8 +177,41 @@
     <programme start="20241230195000 +0000" stop="20241230221000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Manchester United v Newcastle United</title>
     </programme>
+    <programme start="20241230223000 +0000" stop="20241230233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Robbie Fowler</title>
+    </programme>
+    <programme start="20250101150000 +0000" stop="20250101160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
     <programme start="20250101163000 +0000" stop="20250101203000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brentford v Arsenal</title>
+    </programme>
+    <programme start="20250101210000 +0000" stop="20250101213000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Roberto Soldado</title>
+    </programme>
+    <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250102020000 +0000" stop="20250102023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250102133000 +0000" stop="20250102140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview: Dan Burn</title>
+    </programme>
+    <programme start="20250103103000 +0000" stop="20250103110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250103120000 +0000" stop="20250103130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250103180000 +0000" stop="20250103190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250109185000 +0000" stop="20250109221000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Sheffield United v Cardiff City</title>
@@ -248,29 +299,5 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Arsenal v Manchester United</title>
-    </programme>
-    <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Southampton v Swansea</title>
-    </programme>
-    <programme start="20250113192000 +0000" stop="20250113224000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Millwall v Dagenham &amp; Redbridge</title>
-    </programme>
-    <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
-    </programme>
-    <programme start="20250118172500 +0000" stop="20250118194000 +0000" channel="Optus Sport 202.optus">
-        <title>Women&#039;s Super League - Everton v Aston Villa</title>
-    </programme>
-    <programme start="20250119122000 +0000" stop="20250119144000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Tottenham Hotspur v Leicester</title>
-    </programme>
-    <programme start="20250119135500 +0000" stop="20250119161000 +0000" channel="Optus Sport 204.optus">
-        <title>Women&#039;s Super League - Arsenal v Crystal Palace</title>
-    </programme>
-    <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
-        <title>Women&#039;s Super League - West Ham United v Chelsea</title>
-    </programme>
-    <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester City v Manchester United</title>
     </programme>
 </tv>
