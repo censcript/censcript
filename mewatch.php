@@ -109,7 +109,7 @@
         <title>News Tonight - EP 264</title>
     </programme>
     <programme start="20241220130000 +0000" stop="20241220150000 +0000" channel="Channel 5.mewatch">
-        <title>ASEAN Mitsubishi Electric Cup 2024 - EP 20</title>
+        <title>ASEAN Mitsubishi Electric Cup 2024 Group Stage[Malaysia vs Singapore]- EP 20</title>
     </programme>
     <programme start="20241220150000 +0000" stop="20241220170000 +0000" channel="Channel 5.mewatch">
         <title>Grudge Match</title>
@@ -666,23 +666,53 @@
     <programme start="20241219100000 +0000" stop="20241219170000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20241219170000 +0000" stop="20241219220000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20241219170000 +0000" stop="20241219180000 +0000" channel="now-70s.mewatch">
+        <title>Pete Waterman&#039;s Xmas In The 70s</title>
+    </programme>
+    <programme start="20241219180000 +0000" stop="20241219220000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979</title>
     </programme>
     <programme start="20241219220000 +0000" stop="20241219230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+        <title>Who Won Wot In 1974?</title>
     </programme>
     <programme start="20241219230000 +0000" stop="20241220000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+        <title>All Day - It&#039;s 1974!</title>
     </programme>
-    <programme start="20241220000000 +0000" stop="20241220090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20241220000000 +0000" stop="20241220010000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s Of 1974</title>
     </programme>
-    <programme start="20241220090000 +0000" stop="20241220100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20241220010000 +0000" stop="20241220020000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1974</title>
     </programme>
-    <programme start="20241220100000 +0000" stop="20241220170000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20241220020000 +0000" stop="20241220030000 +0000" channel="now-70s.mewatch">
+        <title>The 1974 Power Hour With Bam!</title>
+    </programme>
+    <programme start="20241220030000 +0000" stop="20241220040000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1974!</title>
+    </programme>
+    <programme start="20241220040000 +0000" stop="20241220062000 +0000" channel="now-70s.mewatch">
+        <title>The Now Yearbook 1974</title>
+    </programme>
+    <programme start="20241220062000 +0000" stop="20241220070000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1974!</title>
+    </programme>
+    <programme start="20241220070000 +0000" stop="20241220080000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1974</title>
+    </programme>
+    <programme start="20241220080000 +0000" stop="20241220100000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1974 Party...Ever!</title>
+    </programme>
+    <programme start="20241220100000 +0000" stop="20241220112500 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Sensational 70s Xmas!</title>
+    </programme>
+    <programme start="20241220112500 +0000" stop="20241220120000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas!</title>
+    </programme>
+    <programme start="20241220120000 +0000" stop="20241220140000 +0000" channel="now-70s.mewatch">
+        <title>Festive Faves! 70s V 60s V 50s</title>
+    </programme>
+    <programme start="20241220140000 +0000" stop="20241220170000 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 40 Of The 70s</title>
     </programme>
     <programme start="20241219160000 +0000" stop="20241219220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
