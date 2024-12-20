@@ -210,6 +210,48 @@
     <programme start="20250103180000 +0000" stop="20250103190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250104145000 +0000" stop="20250104172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250104200000 +0000" stop="20250104210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250105203000 +0000" stop="20250105220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250106130000 +0000" stop="20250106140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250106223000 +0000" stop="20250106233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250107003000 +0000" stop="20250107013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250107020000 +0000" stop="20250107023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250107090000 +0000" stop="20250107100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Stiliyan Petrov</title>
+    </programme>
+    <programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250107170000 +0000" stop="20250107173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Match Officials Mic&#039;d Up</title>
+    </programme>
+    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250108180000 +0000" stop="20250108183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Thomas Tuchel</title>
+    </programme>
+    <programme start="20250109133000 +0000" stop="20250109140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
     <programme start="20250109185000 +0000" stop="20250109221000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Sheffield United v Cardiff City</title>
     </programme>
@@ -218,6 +260,9 @@
     </programme>
     <programme start="20250109193500 +0000" stop="20250109225500 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Everton v Peterborough</title>
+    </programme>
+    <programme start="20250110163000 +0000" stop="20250110170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
     </programme>
     <programme start="20250110193500 +0000" stop="20250110224500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Wycombe v Portsmouth</title>
@@ -254,50 +299,5 @@
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Chelsea v Morecambe</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 8.optus">
-        <title>FA Cup - Preston North End v Charlton Athletic</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Norwich City v Brighton</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 9.optus">
-        <title>FA Cup - Reading v Burnley</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 10.optus">
-        <title>FA Cup - Exeter City v Oxford United</title>
-    </programme>
-    <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Leeds United v Harrogate Town</title>
-    </programme>
-    <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Manchester City v Salford</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 5.optus">
-        <title>FA Cup - Coventry City v Sheffield Wednesday</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Mansfield Town v Wigan Athletic</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Leyton Orient v Derby County</title>
-    </programme>
-    <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Hull City v Doncaster Rovers</title>
-    </programme>
-    <programme start="20250112122000 +0000" stop="20250112154000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Tamworth v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Crystal Palace v Stockport</title>
-    </programme>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Ipswich v Bristol Rovers</title>
-    </programme>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 5.optus">
-        <title>FA Cup - Newcastle United v Bromley</title>
-    </programme>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Arsenal v Manchester United</title>
     </programme>
 </tv>

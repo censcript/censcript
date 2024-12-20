@@ -630,38 +630,47 @@
     <programme start="20241220160000 +0000" stop="20241221160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20241219160000 +0000" stop="20241219180000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20241219170000 +0000" stop="20241219180000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1986</title>
     </programme>
-    <programme start="20241219180000 +0000" stop="20241219220000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20241219180000 +0000" stop="20241219184500 +0000" channel="now-80s.mewatch">
+        <title>Who Told &#039;Em This Was A Good Idea?</title>
     </programme>
-    <programme start="20241219220000 +0000" stop="20241219230000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20241219184500 +0000" stop="20241219190000 +0000" channel="now-80s.mewatch">
+        <title>1985 Unleashed!</title>
     </programme>
-    <programme start="20241219230000 +0000" stop="20241220000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20241219190000 +0000" stop="20241219200000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1985</title>
     </programme>
-    <programme start="20241220000000 +0000" stop="20241220010000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling!</title>
+    <programme start="20241219200000 +0000" stop="20241219230000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1986</title>
     </programme>
-    <programme start="20241220010000 +0000" stop="20241220040000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20241219230000 +0000" stop="20241220002500 +0000" channel="now-80s.mewatch">
+        <title>Jona Lewie&#039;s Cavalry Of Xmas Hits</title>
     </programme>
-    <programme start="20241220040000 +0000" stop="20241220050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20241220002500 +0000" stop="20241220010000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; Xmas All Over!</title>
     </programme>
-    <programme start="20241220050000 +0000" stop="20241220080000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20241220010000 +0000" stop="20241220030000 +0000" channel="now-80s.mewatch">
+        <title>Christmas Stars - Then &amp; Now!</title>
     </programme>
-    <programme start="20241220080000 +0000" stop="20241220130000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling!</title>
+    <programme start="20241220030000 +0000" stop="20241220053000 +0000" channel="now-80s.mewatch">
+        <title>Tony Hadley&#039;s Solid Gold Anthems!</title>
     </programme>
-    <programme start="20241220130000 +0000" stop="20241220160000 +0000" channel="now-80s.mewatch">
-        <title>Get Fresh At The Weekend!</title>
+    <programme start="20241220053000 +0000" stop="20241220070000 +0000" channel="now-80s.mewatch">
+        <title>Xmas Party Anthems</title>
     </programme>
-    <programme start="20241220160000 +0000" stop="20241220180000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20241220070000 +0000" stop="20241220102000 +0000" channel="now-80s.mewatch">
+        <title>Mike Read&#039;s Superstore Of Hits!</title>
+    </programme>
+    <programme start="20241220102000 +0000" stop="20241220110000 +0000" channel="now-80s.mewatch">
+        <title>Xmas Party Anthems</title>
+    </programme>
+    <programme start="20241220110000 +0000" stop="20241220150000 +0000" channel="now-80s.mewatch">
+        <title>80s School Disco Top 50</title>
+    </programme>
+    <programme start="20241220150000 +0000" stop="20241220173000 +0000" channel="now-80s.mewatch">
+        <title>Pat Sharp&#039;s 30 Silly Songs!</title>
     </programme>
     <programme start="20241219100000 +0000" stop="20241219170000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>

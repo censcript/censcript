@@ -672,14 +672,14 @@
     <programme start="20241220115000 +0000" stop="20241220140000 +0000" channel="HBO Signature HD.starhub">
         <title>A Star Is Born</title>
     </programme>
-    <programme start="20241220140000 +0000" stop="20241220164000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241220140000 +0000" stop="20241220164500 +0000" channel="HBO Signature HD.starhub">
         <title>Troy</title>
     </programme>
-    <programme start="20241220164000 +0000" stop="20241220174000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 4</title>
+    <programme start="20241220164500 +0000" stop="20241220173500 +0000" channel="HBO Signature HD.starhub">
+        <title>Janet</title>
     </programme>
-    <programme start="20241220174000 +0000" stop="20241220184000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 5</title>
+    <programme start="20241220173500 +0000" stop="20241220184000 +0000" channel="HBO Signature HD.starhub">
+        <title>In Blood, Truth</title>
     </programme>
     <programme start="20241220184000 +0000" stop="20241220192500 +0000" channel="HBO Signature HD.starhub">
         <title>Pax Soprana</title>
@@ -694,10 +694,10 @@
         <title>Troy</title>
     </programme>
     <programme start="20241221012500 +0000" stop="20241221022000 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 1</title>
     </programme>
     <programme start="20241221022000 +0000" stop="20241221031000 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 2</title>
     </programme>
     <programme start="20241221031000 +0000" stop="20241221043000 +0000" channel="HBO Signature HD.starhub">
         <title>The Waltons&#039; Homecoming</title>
@@ -718,10 +718,10 @@
         <title>Num Nums</title>
     </programme>
     <programme start="20241221070000 +0000" stop="20241221073000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 6</title>
+        <title>As Much As I Like Not Feeling</title>
     </programme>
     <programme start="20241221073000 +0000" stop="20241221080500 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 7</title>
+        <title>Agg</title>
     </programme>
     <programme start="20241221080500 +0000" stop="20241221093500 +0000" channel="HBO Signature HD.starhub">
         <title>Christmas Class Reunion</title>
@@ -762,20 +762,20 @@
     <programme start="20241222051000 +0000" stop="20241222075000 +0000" channel="HBO Signature HD.starhub">
         <title>Dune: Part Two</title>
     </programme>
-    <programme start="20241222075000 +0000" stop="20241222081500 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241222075000 +0000" stop="20241222082000 +0000" channel="HBO Signature HD.starhub">
         <title>Hollywood On Set S1</title>
     </programme>
-    <programme start="20241222081500 +0000" stop="20241222095500 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241222082000 +0000" stop="20241222100000 +0000" channel="HBO Signature HD.starhub">
         <title>Einstein And Eddington</title>
     </programme>
-    <programme start="20241222095500 +0000" stop="20241222120000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241222100000 +0000" stop="20241222120500 +0000" channel="HBO Signature HD.starhub">
         <title>Crazy Rich Asians</title>
     </programme>
-    <programme start="20241222120000 +0000" stop="20241222130000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 4</title>
+    <programme start="20241222120500 +0000" stop="20241222125500 +0000" channel="HBO Signature HD.starhub">
+        <title>Janet</title>
     </programme>
-    <programme start="20241222130000 +0000" stop="20241222140000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 5</title>
+    <programme start="20241222125500 +0000" stop="20241222140000 +0000" channel="HBO Signature HD.starhub">
+        <title>In Blood, Truth</title>
     </programme>
     <programme start="20241222140000 +0000" stop="20241222152000 +0000" channel="HBO Signature HD.starhub">
         <title>Part One</title>
@@ -823,10 +823,10 @@
         <title>My Big Fat Greek Wedding 3</title>
     </programme>
     <programme start="20241223153000 +0000" stop="20241223162500 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 3</title>
     </programme>
     <programme start="20241223162500 +0000" stop="20241223172000 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 4</title>
     </programme>
     <programme start="20241223172000 +0000" stop="20241223192000 +0000" channel="HBO Signature HD.starhub">
         <title>Silver Linings Playbook</title>
@@ -856,10 +856,10 @@
         <title>Hollywood On Set S1</title>
     </programme>
     <programme start="20241224051500 +0000" stop="20241224061000 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 3</title>
     </programme>
     <programme start="20241224061000 +0000" stop="20241224071000 +0000" channel="HBO Signature HD.starhub">
-        <title>Mcmillions S1</title>
+        <title>Episode 4</title>
     </programme>
     <programme start="20241224071000 +0000" stop="20241224090500 +0000" channel="HBO Signature HD.starhub">
         <title>The Munsters</title>
@@ -876,28 +876,28 @@
     <programme start="20241224140000 +0000" stop="20241224150000 +0000" channel="HBO Signature HD.starhub">
         <title>Episode 5</title>
     </programme>
-    <programme start="20241224150000 +0000" stop="20241224160000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241224150000 +0000" stop="20241224162000 +0000" channel="HBO Signature HD.starhub">
         <title>Episode 6</title>
     </programme>
-    <programme start="20241224160000 +0000" stop="20241224184000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241224162000 +0000" stop="20241224190000 +0000" channel="HBO Signature HD.starhub">
         <title>Dune: Part Two</title>
     </programme>
-    <programme start="20241224184000 +0000" stop="20241224193000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241224190000 +0000" stop="20241224195000 +0000" channel="HBO Signature HD.starhub">
         <title>Legend Of Tennessee Moltisanti</title>
     </programme>
-    <programme start="20241224193000 +0000" stop="20241224211000 +0000" channel="HBO Signature HD.starhub">
-        <title>Torn Hearts</title>
+    <programme start="20241224195000 +0000" stop="20241224211500 +0000" channel="HBO Signature HD.starhub">
+        <title>Master Of Light</title>
     </programme>
-    <programme start="20241224211000 +0000" stop="20241224230000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241224211500 +0000" stop="20241224230000 +0000" channel="HBO Signature HD.starhub">
         <title>Bob Marley: One Love</title>
     </programme>
     <programme start="20241224230000 +0000" stop="20241225003000 +0000" channel="HBO Signature HD.starhub">
         <title>Christmas Class Reunion</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225012500 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241225003000 +0000" stop="20241225012000 +0000" channel="HBO Signature HD.starhub">
         <title>Boca</title>
     </programme>
-    <programme start="20241225012500 +0000" stop="20241225034000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20241225012000 +0000" stop="20241225033000 +0000" channel="HBO Signature HD.starhub">
         <title>A Star Is Born</title>
     </programme>
     <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="FashionTV HD.starhub">
@@ -11479,7 +11479,7 @@
         <title>26th Karate Senior World Championships Highlights</title>
     </programme>
     <programme start="20241219213000 +0000" stop="20241219220000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Ring Girl Brittany Palmer, Dolce Diet, Melvin Guillard and more!</title>
+        <title>Ring Girl Brittany Palmer, Dolce Diet and more!</title>
     </programme>
     <programme start="20241219220000 +0000" stop="20241219230000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FIGHT SPORTS MMA Amanda Lino vs. Manon Fiorot</title>
@@ -11590,7 +11590,7 @@
         <title>FS MMA Ante Delija vs. Oli Thompson</title>
     </programme>
     <programme start="20241221050000 +0000" stop="20241221070000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights Sergio Martinez vs. Paul Williams I</title>
+        <title>MEGA Fights Sergio Martinez vs. Paul Williams</title>
     </programme>
     <programme start="20241221070000 +0000" stop="20241221073000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Wide World of Fights Lamont Peterson vs. Amir Khan</title>
@@ -24945,7 +24945,10 @@
     <programme start="20241220220000 +0000" stop="20241221015000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241221040000 +0000" stop="20241221080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241221015000 +0000" stop="20241221053000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M01 - Perth Scorchers vs Melbourne Stars</title>
+    </programme>
+    <programme start="20241221053000 +0000" stop="20241221080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M05 - Melbourne Renegades vs Hobart Hurricanes</title>
     </programme>
     <programme start="20241221080000 +0000" stop="20241221121500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25008,22 +25011,25 @@
     <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241224220000 +0000" stop="20241225002500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241225002500 +0000" stop="20241225080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 3rd Test - Day 2</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241225080000 +0000" stop="20241225113000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 3rd Test - Day 3</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241225113000 +0000" stop="20241225165500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 3rd Test - Day 4</title>
+    </programme>
+    <programme start="20241225165500 +0000" stop="20241225220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225225000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241225220000 +0000" stop="20241225232000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241225225000 +0000" stop="20241226025000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241225232000 +0000" stop="20241226025000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M04 - Melbourne Stars vs Brisbane Heat</title>
     </programme>
     <programme start="20241226025000 +0000" stop="20241226065000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25032,8 +25038,11 @@
     <programme start="20241226065000 +0000" stop="20241226110500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M11 - Sydney Sixers vs Melbourne Stars</title>
     </programme>
-    <programme start="20241226110500 +0000" stop="20241226190500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 4</title>
+    <programme start="20241226110500 +0000" stop="20241226140000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 3rd Test - Day 5</title>
+    </programme>
+    <programme start="20241226140000 +0000" stop="20241226190500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>Pakistan Tour of Australia 2024: 3rd T20I</title>
     </programme>
     <programme start="20241226190500 +0000" stop="20241226220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -25050,10 +25059,10 @@
     <programme start="20241227080000 +0000" stop="20241227121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M13 - Adelaide Strikers vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20241227121500 +0000" stop="20241227201500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 5</title>
+    <programme start="20241227121500 +0000" stop="20241227163500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>Pakistan Tour of Australia 2024: 2nd T20I</title>
     </programme>
-    <programme start="20241227201500 +0000" stop="20241227220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227163500 +0000" stop="20241227220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241227220000 +0000" stop="20241228000000 +0000" channel="Hub Sports 4 HD.starhub">
