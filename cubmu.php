@@ -82,13 +82,13 @@
         <title>Di Bawah Lindungan Abah</title>
     </programme>
     <programme start="20241220202000 +0000" stop="20241220204000 +0000" channel="Trans TV.cubmu">
-        <title>Bajaj Bajuri</title>
+        <title>Bikin Ngakak</title>
     </programme>
     <programme start="20241220204000 +0000" stop="20241220214000 +0000" channel="Trans TV.cubmu">
-        <title>Tombo Ati - Hijab Untuk Larasati</title>
+        <title>Surga Yang Tak Dirindukan</title>
     </programme>
     <programme start="20241220214000 +0000" stop="20241220220000 +0000" channel="Trans TV.cubmu">
-        <title>Keluarga Sonfai</title>
+        <title>Rindu</title>
     </programme>
     <programme start="20241220220000 +0000" stop="20241220233000 +0000" channel="Trans TV.cubmu">
         <title>Islam Itu Indah</title>
@@ -97,43 +97,52 @@
         <title>Insert Pagi</title>
     </programme>
     <programme start="20241221003000 +0000" stop="20241221013000 +0000" channel="Trans TV.cubmu">
-        <title>CNN Indonesia Good Morning</title>
+        <title>Good Morning Weekend</title>
     </programme>
-    <programme start="20241221013000 +0000" stop="20241221033000 +0000" channel="Trans TV.cubmu">
-        <title>Pagi-Pagi Ambyar</title>
+    <programme start="20241221013000 +0000" stop="20241221023000 +0000" channel="Trans TV.cubmu">
+        <title>Olimpiade Balita</title>
     </programme>
-    <programme start="20241221033000 +0000" stop="20241221053000 +0000" channel="Trans TV.cubmu">
+    <programme start="20241221023000 +0000" stop="20241221033000 +0000" channel="Trans TV.cubmu">
+        <title>Tanah Air Beta</title>
+    </programme>
+    <programme start="20241221033000 +0000" stop="20241221040000 +0000" channel="Trans TV.cubmu">
+        <title>Celebrity On Vacation</title>
+    </programme>
+    <programme start="20241221040000 +0000" stop="20241221053000 +0000" channel="Trans TV.cubmu">
         <title>Insert</title>
     </programme>
-    <programme start="20241221053000 +0000" stop="20241221070000 +0000" channel="Trans TV.cubmu">
-        <title>Brownis - Obrolan Manis</title>
+    <programme start="20241221053000 +0000" stop="20241221060000 +0000" channel="Trans TV.cubmu">
+        <title>I-Pedia</title>
+    </programme>
+    <programme start="20241221060000 +0000" stop="20241221063000 +0000" channel="Trans TV.cubmu">
+        <title>Kuali Barbar</title>
+    </programme>
+    <programme start="20241221063000 +0000" stop="20241221070000 +0000" channel="Trans TV.cubmu">
+        <title>Cerita Dibalik Hijab</title>
     </programme>
     <programme start="20241221070000 +0000" stop="20241221080000 +0000" channel="Trans TV.cubmu">
         <title>Rumpi - No Secret</title>
     </programme>
     <programme start="20241221080000 +0000" stop="20241221090000 +0000" channel="Trans TV.cubmu">
-        <title>Insert Today</title>
+        <title>Insert Investigasi</title>
     </programme>
-    <programme start="20241221090000 +0000" stop="20241221093000 +0000" channel="Trans TV.cubmu">
-        <title>CNN Indonesia News Update</title>
+    <programme start="20241221090000 +0000" stop="20241221100000 +0000" channel="Trans TV.cubmu">
+        <title>Sore Sore Ambyar</title>
     </programme>
-    <programme start="20241221093000 +0000" stop="20241221103000 +0000" channel="Trans TV.cubmu">
-        <title>Dream Box Indonesia</title>
+    <programme start="20241221100000 +0000" stop="20241221103000 +0000" channel="Trans TV.cubmu">
+        <title>Samawa</title>
     </programme>
     <programme start="20241221103000 +0000" stop="20241221114500 +0000" channel="Trans TV.cubmu">
         <title>Bikin Laper</title>
     </programme>
-    <programme start="20241221114500 +0000" stop="20241221124500 +0000" channel="Trans TV.cubmu">
-        <title>Jam Praktek</title>
-    </programme>
-    <programme start="20241221124500 +0000" stop="20241221140000 +0000" channel="Trans TV.cubmu">
+    <programme start="20241221114500 +0000" stop="20241221130000 +0000" channel="Trans TV.cubmu">
         <title>Insert Story</title>
     </programme>
-    <programme start="20241221140000 +0000" stop="20241221160000 +0000" channel="Trans TV.cubmu">
-        <title>Bioskop TransTV - John Wick 2</title>
+    <programme start="20241221130000 +0000" stop="20241221150000 +0000" channel="Trans TV.cubmu">
+        <title>Sinema Spesial</title>
     </programme>
-    <programme start="20241221160000 +0000" stop="20241220180000 +0000" channel="Trans TV.cubmu">
-        <title>Bioskop TransTV - Street Kings</title>
+    <programme start="20241221150000 +0000" stop="20241220170000 +0000" channel="Trans TV.cubmu">
+        <title>Bioskop TransTV</title>
     </programme>
     <programme start="20241220171500 +0000" stop="20241220174500 +0000" channel="Trans 7.cubmu">
         <title>Redaksi Malam</title>
@@ -319,13 +328,13 @@
         <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20241220230000 +0000" stop="20241220233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>Editor&#039;s View</title>
     </programme>
     <programme start="20241220233000 +0000" stop="20241221000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>Editor&#039;s View</title>
     </programme>
     <programme start="20241221000000 +0000" stop="20241221003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>Editor&#039;s View</title>
     </programme>
     <programme start="20241221003000 +0000" stop="20241221010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
@@ -1356,8 +1365,17 @@
     <programme start="20241220183000 +0000" stop="20241220200000 +0000" channel="Indosiar.cubmu">
         <title>Mega Series Action Asia : Tiger Kung Fu Of Wulin</title>
     </programme>
+    <programme start="20241220183000 +0000" stop="20241220200000 +0000" channel="Indosiar.cubmu">
+        <title>Mega Series Action Asia : Tiger Kung Fu Of Wulin</title>
+    </programme>
     <programme start="20241220200000 +0000" stop="20241220213000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
+    </programme>
+    <programme start="20241220200000 +0000" stop="20241220213000 +0000" channel="Indosiar.cubmu">
+        <title>Mega Film Asia</title>
+    </programme>
+    <programme start="20241220213000 +0000" stop="20241220230000 +0000" channel="Indosiar.cubmu">
+        <title>Fokus Pagi</title>
     </programme>
     <programme start="20241220213000 +0000" stop="20241220230000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Pagi</title>
@@ -1365,7 +1383,16 @@
     <programme start="20241220230000 +0000" stop="20241221000000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
+    <programme start="20241220230000 +0000" stop="20241221000000 +0000" channel="Indosiar.cubmu">
+        <title>Magic 5</title>
+    </programme>
     <programme start="20241221000000 +0000" stop="20241221013000 +0000" channel="Indosiar.cubmu">
+        <title>Kisah Nyata Pagi Spesial</title>
+    </programme>
+    <programme start="20241221000000 +0000" stop="20241221013000 +0000" channel="Indosiar.cubmu">
+        <title>Kisah Nyata Pagi Spesial</title>
+    </programme>
+    <programme start="20241221013000 +0000" stop="20241221030000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Pagi Spesial</title>
     </programme>
     <programme start="20241221013000 +0000" stop="20241221030000 +0000" channel="Indosiar.cubmu">
@@ -1374,8 +1401,17 @@
     <programme start="20241221030000 +0000" stop="20241221040000 +0000" channel="Indosiar.cubmu">
         <title>Hot Kiss</title>
     </programme>
+    <programme start="20241221030000 +0000" stop="20241221040000 +0000" channel="Indosiar.cubmu">
+        <title>Hot Kiss</title>
+    </programme>
     <programme start="20241221040000 +0000" stop="20241221043000 +0000" channel="Indosiar.cubmu">
         <title>Patroli Siang</title>
+    </programme>
+    <programme start="20241221040000 +0000" stop="20241221043000 +0000" channel="Indosiar.cubmu">
+        <title>Patroli Siang</title>
+    </programme>
+    <programme start="20241221043000 +0000" stop="20241221050000 +0000" channel="Indosiar.cubmu">
+        <title>Fokus Siang</title>
     </programme>
     <programme start="20241221043000 +0000" stop="20241221050000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Siang</title>
@@ -1383,8 +1419,17 @@
     <programme start="20241221050000 +0000" stop="20241221060000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Siang Spesial</title>
     </programme>
+    <programme start="20241221050000 +0000" stop="20241221060000 +0000" channel="Indosiar.cubmu">
+        <title>Kisah Nyata Siang Spesial</title>
+    </programme>
     <programme start="20241221060000 +0000" stop="20241221080000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Spesial</title>
+    </programme>
+    <programme start="20241221060000 +0000" stop="20241221080000 +0000" channel="Indosiar.cubmu">
+        <title>Kisah Nyata Spesial</title>
+    </programme>
+    <programme start="20241221080000 +0000" stop="20241221103000 +0000" channel="Indosiar.cubmu">
+        <title>BRI Liga 1 2024/2025</title>
     </programme>
     <programme start="20241221080000 +0000" stop="20241221103000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
@@ -1392,14 +1437,29 @@
     <programme start="20241221103000 +0000" stop="20241221113000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
+    <programme start="20241221103000 +0000" stop="20241221113000 +0000" channel="Indosiar.cubmu">
+        <title>Magic 5</title>
+    </programme>
+    <programme start="20241221113000 +0000" stop="20241221140000 +0000" channel="Indosiar.cubmu">
+        <title>BRI Liga 1 2024/2025</title>
+    </programme>
     <programme start="20241221113000 +0000" stop="20241221140000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
     </programme>
     <programme start="20241221140000 +0000" stop="20241221153000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
+    <programme start="20241221140000 +0000" stop="20241221153000 +0000" channel="Indosiar.cubmu">
+        <title>Mega Film Asia</title>
+    </programme>
     <programme start="20241221153000 +0000" stop="20241221160000 +0000" channel="Indosiar.cubmu">
         <title>Blocking Time : Senandung Nikmat</title>
+    </programme>
+    <programme start="20241221153000 +0000" stop="20241221160000 +0000" channel="Indosiar.cubmu">
+        <title>Blocking Time : Senandung Nikmat</title>
+    </programme>
+    <programme start="20241221160000 +0000" stop="20241220180000 +0000" channel="Indosiar.cubmu">
+        <title>Mega Film Asia</title>
     </programme>
     <programme start="20241221160000 +0000" stop="20241220180000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
