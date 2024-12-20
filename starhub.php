@@ -32772,6 +32772,18 @@
     <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241230160000 +0000" stop="20241230220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241230220000 +0000" stop="20241231040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241231040000 +0000" stop="20241231100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241231100000 +0000" stop="20241231160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241218220000 +0000" stop="20241219040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
