@@ -6600,210 +6600,6 @@
     <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FIA World Championship - Rallye du Maroc Final Highlights</title>
     </programme>
-    <programme start="20241217231500 +0000" stop="20241218005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
-    </programme>
-    <programme start="20241218005400 +0000" stop="20241218005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218005500 +0000" stop="20241218010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20241218010000 +0000" stop="20241218010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20241218010500 +0000" stop="20241218015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s MC is Mr. Wakabayashi from Audrey! (R)</title>
-    </programme>
-    <programme start="20241218015000 +0000" stop="20241218021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20241218021700 +0000" stop="20241218022000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20241218022000 +0000" stop="20241218025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>WARUIKOATSUMARE: For Everyone to Enjoy and Learn about Society (R)</title>
-    </programme>
-    <programme start="20241218025000 +0000" stop="20241218025600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
-    </programme>
-    <programme start="20241218025600 +0000" stop="20241218030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218030000 +0000" stop="20241218032000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20241218032000 +0000" stop="20241218032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20241218032800 +0000" stop="20241218033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20241218033000 +0000" stop="20241218034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 23</title>
-    </programme>
-    <programme start="20241218034500 +0000" stop="20241218040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Omusubi&quot; Eps. 58 (R)</title>
-    </programme>
-    <programme start="20241218040000 +0000" stop="20241218040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20241218040500 +0000" stop="20241218055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
-    </programme>
-    <programme start="20241218055000 +0000" stop="20241218055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218055500 +0000" stop="20241218060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Music Album</title>
-    </programme>
-    <programme start="20241218060000 +0000" stop="20241218061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20241218061000 +0000" stop="20241218064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hobbies--Sparkle Your Life!</title>
-    </programme>
-    <programme start="20241218064000 +0000" stop="20241218065000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Points at Issue</title>
-    </programme>
-    <programme start="20241218065000 +0000" stop="20241218072000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natsui Itsuki&#039;s Haiku Trip! &quot;Yamagata Prefecture&quot; Part 1 (R)</title>
-    </programme>
-    <programme start="20241218072000 +0000" stop="20241218073500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Fishing Crazy</title>
-    </programme>
-    <programme start="20241218073500 +0000" stop="20241218080000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Dear Japan (R)</title>
-    </programme>
-    <programme start="20241218080000 +0000" stop="20241218081000 +0000" channel="NHK World Premium HD.starhub">
-        <title>PythagoraSwitch</title>
-    </programme>
-    <programme start="20241218081000 +0000" stop="20241218082000 +0000" channel="NHK World Premium HD.starhub">
-        <title>MIX Bijutune!</title>
-    </programme>
-    <programme start="20241218082000 +0000" stop="20241218083500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Peek-a-boo</title>
-    </programme>
-    <programme start="20241218083500 +0000" stop="20241218085900 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother</title>
-    </programme>
-    <programme start="20241218085900 +0000" stop="20241218090000 +0000" channel="NHK World Premium HD.starhub">
-        <title>1-Minute Anime: Songs for SDGs</title>
-    </programme>
-    <programme start="20241218090000 +0000" stop="20241218091000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News (B)</title>
-    </programme>
-    <programme start="20241218091000 +0000" stop="20241218092500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery</title>
-    </programme>
-    <programme start="20241218092500 +0000" stop="20241218095600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Whiz-Kids TV</title>
-    </programme>
-    <programme start="20241218095600 +0000" stop="20241218100000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK News 7 (B)</title>
-    </programme>
-    <programme start="20241218103000 +0000" stop="20241218105700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up</title>
-    </programme>
-    <programme start="20241218105700 +0000" stop="20241218114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Historical Drama &quot;Dear Radiance&quot; Fan Meeting</title>
-    </programme>
-    <programme start="20241218114300 +0000" stop="20241218114500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20241218114500 +0000" stop="20241218120000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK News 845</title>
-    </programme>
-    <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Watch 9 (B)</title>
-    </programme>
-    <programme start="20241218130000 +0000" stop="20241218134500 +0000" channel="NHK World Premium HD.starhub">
-        <title>History Detective</title>
-    </programme>
-    <programme start="20241218134500 +0000" stop="20241218140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The First Train Stories</title>
-    </programme>
-    <programme start="20241218140000 +0000" stop="20241218143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Let&#039;s Try Editing All at Once</title>
-    </programme>
-    <programme start="20241218143000 +0000" stop="20241218144000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Commentary</title>
-    </programme>
-    <programme start="20241218144000 +0000" stop="20241218144500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20241218144500 +0000" stop="20241218152900 +0000" channel="NHK World Premium HD.starhub">
-        <title>International News Report 2024</title>
-    </programme>
-    <programme start="20241218152900 +0000" stop="20241218153000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218153000 +0000" stop="20241218161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Choices on How to Deal with Illness</title>
-    </programme>
-    <programme start="20241218161500 +0000" stop="20241218164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Cooking</title>
-    </programme>
-    <programme start="20241218164000 +0000" stop="20241218170500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Haiku Poetry</title>
-    </programme>
-    <programme start="20241218170500 +0000" stop="20241218171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Camera-eyed Japan</title>
-    </programme>
-    <programme start="20241218171000 +0000" stop="20241218173000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Spanish in a Happy Mood</title>
-    </programme>
-    <programme start="20241218173000 +0000" stop="20241218174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Feeling English! Favorite Phrases Selected from Data</title>
-    </programme>
-    <programme start="20241218174000 +0000" stop="20241218174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather (R)</title>
-    </programme>
-    <programme start="20241218174500 +0000" stop="20241218175500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Go! Go! Cook R&#039;n</title>
-    </programme>
-    <programme start="20241218175500 +0000" stop="20241218181000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery (R)</title>
-    </programme>
-    <programme start="20241218181000 +0000" stop="20241218183500 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother (R)</title>
-    </programme>
-    <programme start="20241218183500 +0000" stop="20241218190300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Trails to Oishii Tokyo (B)</title>
-    </programme>
-    <programme start="20241218190300 +0000" stop="20241218190500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20241218190500 +0000" stop="20241218193200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20241218193200 +0000" stop="20241218193500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20241218193500 +0000" stop="20241218194500 +0000" channel="NHK World Premium HD.starhub">
-        <title>TV Exercise</title>
-    </programme>
-    <programme start="20241218194500 +0000" stop="20241218200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Health for Today</title>
-    </programme>
-    <programme start="20241218200000 +0000" stop="20241218201500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Carnation&quot; Encore Eps. 75</title>
-    </programme>
-    <programme start="20241218201500 +0000" stop="20241218210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Historical Drama &quot;Dear Radiance&quot; Fan Meeting (R)</title>
-    </programme>
-    <programme start="20241218210000 +0000" stop="20241218220000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News: Good Morning, Japan</title>
-    </programme>
-    <programme start="20241218220000 +0000" stop="20241218230000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News: Good Morning, Japan</title>
-    </programme>
-    <programme start="20241218230000 +0000" stop="20241218231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Omusubi&quot; Eps. 59</title>
-    </programme>
     <programme start="20241218231500 +0000" stop="20241219005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
@@ -6898,6 +6694,210 @@
         <title>1-Minute Anime: Songs for SDGs</title>
     </programme>
     <programme start="20241219090000 +0000" stop="20241219091000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News (B)</title>
+    </programme>
+    <programme start="20241219091000 +0000" stop="20241219092500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kid&#039;s Discovery</title>
+    </programme>
+    <programme start="20241219092500 +0000" stop="20241219095600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Whiz-Kids TV</title>
+    </programme>
+    <programme start="20241219095600 +0000" stop="20241219100000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241219100000 +0000" stop="20241219103000 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK News 7 (B)</title>
+    </programme>
+    <programme start="20241219103000 +0000" stop="20241219111500 +0000" channel="NHK World Premium HD.starhub">
+        <title>The &quot;Instruction Manual&quot; Show &quot;Potato&quot;</title>
+    </programme>
+    <programme start="20241219111500 +0000" stop="20241219114300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Lunch ON!</title>
+    </programme>
+    <programme start="20241219114300 +0000" stop="20241219114500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241219114500 +0000" stop="20241219120000 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK News 845</title>
+    </programme>
+    <programme start="20241219120000 +0000" stop="20241219130000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Watch 9 (B)</title>
+    </programme>
+    <programme start="20241219130000 +0000" stop="20241219134300 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK MUSIC SPECIAL: MISIA</title>
+    </programme>
+    <programme start="20241219134300 +0000" stop="20241219134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241219134500 +0000" stop="20241219140000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The First Train Stories</title>
+    </programme>
+    <programme start="20241219140000 +0000" stop="20241219143000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>
+    </programme>
+    <programme start="20241219143000 +0000" stop="20241219144000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Commentary</title>
+    </programme>
+    <programme start="20241219144000 +0000" stop="20241219144500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20241219144500 +0000" stop="20241219152900 +0000" channel="NHK World Premium HD.starhub">
+        <title>International News Report 2024</title>
+    </programme>
+    <programme start="20241219152900 +0000" stop="20241219153000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241219153000 +0000" stop="20241219160000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Familiarization with Japanese Traditional Performing Arts</title>
+    </programme>
+    <programme start="20241219160000 +0000" stop="20241219160500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Child-Rearing Hints &amp; Tips mini</title>
+    </programme>
+    <programme start="20241219160500 +0000" stop="20241219161000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Child-Rearing Hints &amp; Tips mini</title>
+    </programme>
+    <programme start="20241219161000 +0000" stop="20241219161500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Child-Rearing Hints &amp; Tips mini</title>
+    </programme>
+    <programme start="20241219161500 +0000" stop="20241219164000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Today&#039;s Cooking</title>
+    </programme>
+    <programme start="20241219164000 +0000" stop="20241219171000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Shogi Focus</title>
+    </programme>
+    <programme start="20241219171000 +0000" stop="20241219174000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Actor Koyuki and the Fermenting Master, Grandma</title>
+    </programme>
+    <programme start="20241219174000 +0000" stop="20241219174500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather (R)</title>
+    </programme>
+    <programme start="20241219174500 +0000" stop="20241219175500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fun with Japanese (R)</title>
+    </programme>
+    <programme start="20241219175500 +0000" stop="20241219181000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kid&#039;s Discovery (R)</title>
+    </programme>
+    <programme start="20241219181000 +0000" stop="20241219183500 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother (R)</title>
+    </programme>
+    <programme start="20241219183500 +0000" stop="20241219192000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The &quot;Instruction Manual&quot; Show &quot;Potato&quot; (R)</title>
+    </programme>
+    <programme start="20241219192000 +0000" stop="20241219192500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Cruising from the Sky Mini</title>
+    </programme>
+    <programme start="20241219192500 +0000" stop="20241219193500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Welcome to Special Zoo Tour 10min.</title>
+    </programme>
+    <programme start="20241219193500 +0000" stop="20241219194500 +0000" channel="NHK World Premium HD.starhub">
+        <title>TV Exercise</title>
+    </programme>
+    <programme start="20241219194500 +0000" stop="20241219200000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Health for Today</title>
+    </programme>
+    <programme start="20241219200000 +0000" stop="20241219201500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Carnation&quot; Encore Eps. 76</title>
+    </programme>
+    <programme start="20241219201500 +0000" stop="20241219210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>History Detective (R)</title>
+    </programme>
+    <programme start="20241219210000 +0000" stop="20241219220000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News: Good Morning, Japan</title>
+    </programme>
+    <programme start="20241219220000 +0000" stop="20241219230000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News: Good Morning, Japan</title>
+    </programme>
+    <programme start="20241219230000 +0000" stop="20241219231500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Omusubi&quot; Eps. 60</title>
+    </programme>
+    <programme start="20241219231500 +0000" stop="20241220005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
+    <programme start="20241220005400 +0000" stop="20241220005500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241220005500 +0000" stop="20241220010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Exercise for Everyone</title>
+    </programme>
+    <programme start="20241220010000 +0000" stop="20241220010500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20241220010500 +0000" stop="20241220015500 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK Special &quot;Discharged at Death: The Dark Record of Psychiatric Care&quot; (R)</title>
+    </programme>
+    <programme start="20241220015500 +0000" stop="20241220022300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals &quot;Baby Animals&quot; (R)</title>
+    </programme>
+    <programme start="20241220022300 +0000" stop="20241220024600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Delicious Japan!</title>
+    </programme>
+    <programme start="20241220024600 +0000" stop="20241220025000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20241220025000 +0000" stop="20241220025600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Songs for Everyone</title>
+    </programme>
+    <programme start="20241220025600 +0000" stop="20241220030000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241220030000 +0000" stop="20241220032000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20241220032000 +0000" stop="20241220033000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Welcome to Special Zoo Tour 10min. (R)</title>
+    </programme>
+    <programme start="20241220033000 +0000" stop="20241220034500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 25</title>
+    </programme>
+    <programme start="20241220034500 +0000" stop="20241220040000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Omusubi&quot; Eps. 60 (R)</title>
+    </programme>
+    <programme start="20241220040000 +0000" stop="20241220040500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20241220040500 +0000" stop="20241220055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20241220055000 +0000" stop="20241220055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20241220055500 +0000" stop="20241220060000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Music Album</title>
+    </programme>
+    <programme start="20241220060000 +0000" stop="20241220061000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20241220061000 +0000" stop="20241220063000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Chinese Navi</title>
+    </programme>
+    <programme start="20241220063000 +0000" stop="20241220064500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Basic English Opens Door to the World</title>
+    </programme>
+    <programme start="20241220064500 +0000" stop="20241220065000 +0000" channel="NHK World Premium HD.starhub">
+        <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
+    </programme>
+    <programme start="20241220065000 +0000" stop="20241220073500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Choices on How to Deal with Illness (R)</title>
+    </programme>
+    <programme start="20241220073500 +0000" stop="20241220080500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Actor Koyuki and the Fermenting Master, Grandma (R)</title>
+    </programme>
+    <programme start="20241220080500 +0000" stop="20241220081000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fish Masters 5min</title>
+    </programme>
+    <programme start="20241220081000 +0000" stop="20241220082000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Blue &amp; Yellow 10min</title>
+    </programme>
+    <programme start="20241220082000 +0000" stop="20241220083500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Peek-a-boo</title>
+    </programme>
+    <programme start="20241220083500 +0000" stop="20241220085900 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother</title>
+    </programme>
+    <programme start="20241220085900 +0000" stop="20241220090000 +0000" channel="NHK World Premium HD.starhub">
+        <title>1-Minute Anime: Songs for SDGs</title>
+    </programme>
+    <programme start="20241220090000 +0000" stop="20241220091000 +0000" channel="NHK World Premium HD.starhub">
         <title>News (B)</title>
     </programme>
     <programme start="20241218235500 +0000" stop="20241219005500 +0000" channel="Lifetime HD.starhub">
@@ -7800,123 +7800,6 @@
     <programme start="20241221151500 +0000" stop="20241221153000 +0000" channel="TVB Jade HD.starhub">
         <title>News Roundup</title>
     </programme>
-    <programme start="20241218000000 +0000" stop="20241218003000 +0000" channel="Zee TV.starhub">
-        <title>Bhagya Lakshmi</title>
-    </programme>
-    <programme start="20241218003000 +0000" stop="20241218010000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti - Ek Nayi Subha</title>
-    </programme>
-    <programme start="20241218010000 +0000" stop="20241218014500 +0000" channel="Zee TV.starhub">
-        <title>Kumkum Bhagya</title>
-    </programme>
-    <programme start="20241218014500 +0000" stop="20241218023000 +0000" channel="Zee TV.starhub">
-        <title>Kundali Bhagya</title>
-    </programme>
-    <programme start="20241218023000 +0000" stop="20241218030000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
-    </programme>
-    <programme start="20241218030000 +0000" stop="20241218033000 +0000" channel="Zee TV.starhub">
-        <title>Atal</title>
-    </programme>
-    <programme start="20241218033000 +0000" stop="20241218040000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
-    </programme>
-    <programme start="20241218040000 +0000" stop="20241218070000 +0000" channel="Zee TV.starhub">
-        <title>Half Girlfriend</title>
-    </programme>
-    <programme start="20241218070000 +0000" stop="20241218073000 +0000" channel="Zee TV.starhub">
-        <title>Rabb Se Hai Dua</title>
-    </programme>
-    <programme start="20241218073000 +0000" stop="20241218080000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti - Ek Nayi Subha</title>
-    </programme>
-    <programme start="20241218080000 +0000" stop="20241218083000 +0000" channel="Zee TV.starhub">
-        <title>Kaise Mujhe Tum Mil Gaye</title>
-    </programme>
-    <programme start="20241218083000 +0000" stop="20241218090000 +0000" channel="Zee TV.starhub">
-        <title>Bhagya Lakshmi</title>
-    </programme>
-    <programme start="20241218090000 +0000" stop="20241218093000 +0000" channel="Zee TV.starhub">
-        <title>Atal</title>
-    </programme>
-    <programme start="20241218093000 +0000" stop="20241218100000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
-    </programme>
-    <programme start="20241218100000 +0000" stop="20241218103000 +0000" channel="Zee TV.starhub">
-        <title>Hamara Parivar</title>
-    </programme>
-    <programme start="20241218103000 +0000" stop="20241218110000 +0000" channel="Zee TV.starhub">
-        <title>Rabb Se Hai Dua</title>
-    </programme>
-    <programme start="20241218110000 +0000" stop="20241218113000 +0000" channel="Zee TV.starhub">
-        <title>Kaise Mujhe Tum Mil Gaye</title>
-    </programme>
-    <programme start="20241218113000 +0000" stop="20241218120000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti - Ek Nayi Subha</title>
-    </programme>
-    <programme start="20241218120000 +0000" stop="20241218123000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
-    </programme>
-    <programme start="20241218123000 +0000" stop="20241218130000 +0000" channel="Zee TV.starhub">
-        <title>Bhagya Lakshmi</title>
-    </programme>
-    <programme start="20241218130000 +0000" stop="20241218134500 +0000" channel="Zee TV.starhub">
-        <title>Kumkum Bhagya</title>
-    </programme>
-    <programme start="20241218134500 +0000" stop="20241218143000 +0000" channel="Zee TV.starhub">
-        <title>Kundali Bhagya</title>
-    </programme>
-    <programme start="20241218143000 +0000" stop="20241218150000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
-    </programme>
-    <programme start="20241218150000 +0000" stop="20241218153000 +0000" channel="Zee TV.starhub">
-        <title>Rabb Se Hai Dua</title>
-    </programme>
-    <programme start="20241218153000 +0000" stop="20241218160000 +0000" channel="Zee TV.starhub">
-        <title>Kaise Mujhe Tum Mil Gaye</title>
-    </programme>
-    <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="Zee TV.starhub">
-        <title>Bhagya Lakshmi</title>
-    </programme>
-    <programme start="20241218163000 +0000" stop="20241218170000 +0000" channel="Zee TV.starhub">
-        <title>Jamai No.1</title>
-    </programme>
-    <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
-    </programme>
-    <programme start="20241218173000 +0000" stop="20241218181500 +0000" channel="Zee TV.starhub">
-        <title>Kumkum Bhagya</title>
-    </programme>
-    <programme start="20241218181500 +0000" stop="20241218190000 +0000" channel="Zee TV.starhub">
-        <title>Kundali Bhagya</title>
-    </programme>
-    <programme start="20241218190000 +0000" stop="20241218193000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
-    </programme>
-    <programme start="20241218193000 +0000" stop="20241218200000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
-    </programme>
-    <programme start="20241218200000 +0000" stop="20241218203000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti - Ek Nayi Subha</title>
-    </programme>
-    <programme start="20241218203000 +0000" stop="20241218210000 +0000" channel="Zee TV.starhub">
-        <title>Rabb Se Hai Dua</title>
-    </programme>
-    <programme start="20241218210000 +0000" stop="20241218213000 +0000" channel="Zee TV.starhub">
-        <title>Kaise Mujhe Tum Mil Gaye</title>
-    </programme>
-    <programme start="20241218213000 +0000" stop="20241218220000 +0000" channel="Zee TV.starhub">
-        <title>Bhagya Lakshmi</title>
-    </programme>
-    <programme start="20241218220000 +0000" stop="20241218230000 +0000" channel="Zee TV.starhub">
-        <title>Gurbani</title>
-    </programme>
-    <programme start="20241218230000 +0000" stop="20241218233000 +0000" channel="Zee TV.starhub">
-        <title>Brahma Kumaris</title>
-    </programme>
-    <programme start="20241218233000 +0000" stop="20241219000000 +0000" channel="Zee TV.starhub">
-        <title>Santoshi Maa Sunayein Vrat Kathayein</title>
-    </programme>
     <programme start="20241219000000 +0000" stop="20241219003000 +0000" channel="Zee TV.starhub">
         <title>Bhagya Lakshmi</title>
     </programme>
@@ -8099,6 +7982,123 @@
     </programme>
     <programme start="20241220143000 +0000" stop="20241220150000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
+    </programme>
+    <programme start="20241220150000 +0000" stop="20241220153000 +0000" channel="Zee TV.starhub">
+        <title>Rabb Se Hai Dua</title>
+    </programme>
+    <programme start="20241220153000 +0000" stop="20241220160000 +0000" channel="Zee TV.starhub">
+        <title>Kaise Mujhe Tum Mil Gaye</title>
+    </programme>
+    <programme start="20241220160000 +0000" stop="20241220163000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241220163000 +0000" stop="20241220170000 +0000" channel="Zee TV.starhub">
+        <title>Jamai No.1</title>
+    </programme>
+    <programme start="20241220170000 +0000" stop="20241220200000 +0000" channel="Zee TV.starhub">
+        <title>Dono</title>
+    </programme>
+    <programme start="20241220200000 +0000" stop="20241220203000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti - Ek Nayi Subha</title>
+    </programme>
+    <programme start="20241220203000 +0000" stop="20241220210000 +0000" channel="Zee TV.starhub">
+        <title>Rabb Se Hai Dua</title>
+    </programme>
+    <programme start="20241220210000 +0000" stop="20241220213000 +0000" channel="Zee TV.starhub">
+        <title>Kaise Mujhe Tum Mil Gaye</title>
+    </programme>
+    <programme start="20241220213000 +0000" stop="20241220220000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241220220000 +0000" stop="20241220230000 +0000" channel="Zee TV.starhub">
+        <title>Gurbani</title>
+    </programme>
+    <programme start="20241220230000 +0000" stop="20241220233000 +0000" channel="Zee TV.starhub">
+        <title>Brahma Kumaris</title>
+    </programme>
+    <programme start="20241220233000 +0000" stop="20241221000000 +0000" channel="Zee TV.starhub">
+        <title>Santoshi Maa Sunayein Vrat Kathayein</title>
+    </programme>
+    <programme start="20241221000000 +0000" stop="20241221003000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241221003000 +0000" stop="20241221010000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti - Ek Nayi Subha</title>
+    </programme>
+    <programme start="20241221010000 +0000" stop="20241221023000 +0000" channel="Zee TV.starhub">
+        <title>Sa Re Ga Ma Pa 2024</title>
+    </programme>
+    <programme start="20241221023000 +0000" stop="20241221030000 +0000" channel="Zee TV.starhub">
+        <title>India&#039;s 50 Best Dishes</title>
+    </programme>
+    <programme start="20241221030000 +0000" stop="20241221033000 +0000" channel="Zee TV.starhub">
+        <title>Atal</title>
+    </programme>
+    <programme start="20241221033000 +0000" stop="20241221040000 +0000" channel="Zee TV.starhub">
+        <title>Atal</title>
+    </programme>
+    <programme start="20241221040000 +0000" stop="20241221070000 +0000" channel="Zee TV.starhub">
+        <title>Veere Di Wedding</title>
+    </programme>
+    <programme start="20241221070000 +0000" stop="20241221073000 +0000" channel="Zee TV.starhub">
+        <title>Rabb Se Hai Dua</title>
+    </programme>
+    <programme start="20241221073000 +0000" stop="20241221080000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti - Ek Nayi Subha</title>
+    </programme>
+    <programme start="20241221080000 +0000" stop="20241221083000 +0000" channel="Zee TV.starhub">
+        <title>Kaise Mujhe Tum Mil Gaye</title>
+    </programme>
+    <programme start="20241221083000 +0000" stop="20241221090000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241221090000 +0000" stop="20241221093000 +0000" channel="Zee TV.starhub">
+        <title>Atal</title>
+    </programme>
+    <programme start="20241221093000 +0000" stop="20241221100000 +0000" channel="Zee TV.starhub">
+        <title>Atal</title>
+    </programme>
+    <programme start="20241221100000 +0000" stop="20241221103000 +0000" channel="Zee TV.starhub">
+        <title>Hamara Parivar</title>
+    </programme>
+    <programme start="20241221103000 +0000" stop="20241221110000 +0000" channel="Zee TV.starhub">
+        <title>Rabb Se Hai Dua</title>
+    </programme>
+    <programme start="20241221110000 +0000" stop="20241221113000 +0000" channel="Zee TV.starhub">
+        <title>Kaise Mujhe Tum Mil Gaye</title>
+    </programme>
+    <programme start="20241221113000 +0000" stop="20241221120000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti - Ek Nayi Subha</title>
+    </programme>
+    <programme start="20241221120000 +0000" stop="20241221123000 +0000" channel="Zee TV.starhub">
+        <title>Sa Re Ga Ma Pa 2024 Spotlight</title>
+    </programme>
+    <programme start="20241221123000 +0000" stop="20241221130000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241221130000 +0000" stop="20241221143000 +0000" channel="Zee TV.starhub">
+        <title>Sa Re Ga Ma Pa 2024</title>
+    </programme>
+    <programme start="20241221143000 +0000" stop="20241221200000 +0000" channel="Zee TV.starhub">
+        <title>Code Name: Tiranga</title>
+    </programme>
+    <programme start="20241221200000 +0000" stop="20241221203000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti - Ek Nayi Subha</title>
+    </programme>
+    <programme start="20241221203000 +0000" stop="20241221210000 +0000" channel="Zee TV.starhub">
+        <title>Rabb Se Hai Dua</title>
+    </programme>
+    <programme start="20241221210000 +0000" stop="20241221213000 +0000" channel="Zee TV.starhub">
+        <title>Kaise Mujhe Tum Mil Gaye</title>
+    </programme>
+    <programme start="20241221213000 +0000" stop="20241221220000 +0000" channel="Zee TV.starhub">
+        <title>Bhagya Lakshmi</title>
+    </programme>
+    <programme start="20241221220000 +0000" stop="20241221230000 +0000" channel="Zee TV.starhub">
+        <title>Gurbani</title>
+    </programme>
+    <programme start="20241221230000 +0000" stop="20241221233000 +0000" channel="Zee TV.starhub">
+        <title>Brahma Kumaris</title>
     </programme>
     <programme start="20241218230000 +0000" stop="20241219020000 +0000" channel="Zee Cinema.starhub">
         <title>Aan Aur Shaan</title>
@@ -11500,7 +11500,7 @@
         <title>26th Karate Senior World Championships Highlights</title>
     </programme>
     <programme start="20241220033000 +0000" stop="20241220040000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Ring Girl Brittany Palmer, Dolce Diet, Melvin Guillard and more!</title>
+        <title>Ring Girl Brittany Palmer, Dolce Diet and more!</title>
     </programme>
     <programme start="20241220040000 +0000" stop="20241220050000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FIGHT SPORTS MMA Amanda Lino vs. Manon Fiorot</title>
@@ -11521,13 +11521,13 @@
         <title>26th Karate Senior World Championships Highlights</title>
     </programme>
     <programme start="20241220093000 +0000" stop="20241220100000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Ring Girl Brittany Palmer, Dolce Diet, Melvin Guillard and more!</title>
+        <title>Ring Girl Brittany Palmer, Dolce Diet and more!</title>
     </programme>
     <programme start="20241220100000 +0000" stop="20241220110000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FIGHT SPORTS MMA Amanda Lino vs. Manon Fiorot</title>
     </programme>
     <programme start="20241220110000 +0000" stop="20241220130000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights Sergio Martinez vs. Paul Williams I</title>
+        <title>MEGA Fights Sergio Martinez vs. Paul Williams</title>
     </programme>
     <programme start="20241220130000 +0000" stop="20241220133000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Wide World of Fights Lamont Peterson vs. Amir Khan</title>
@@ -11548,7 +11548,7 @@
         <title>FS MMA Ante Delija vs. Oli Thompson</title>
     </programme>
     <programme start="20241220170000 +0000" stop="20241220190000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights Sergio Martinez vs. Paul Williams I</title>
+        <title>MEGA Fights Sergio Martinez vs. Paul Williams</title>
     </programme>
     <programme start="20241220190000 +0000" stop="20241220193000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Wide World of Fights Lamont Peterson vs. Amir Khan</title>
@@ -11569,7 +11569,7 @@
         <title>FS MMA Ante Delija vs. Oli Thompson</title>
     </programme>
     <programme start="20241220230000 +0000" stop="20241221010000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights Sergio Martinez vs. Paul Williams I</title>
+        <title>MEGA Fights Sergio Martinez vs. Paul Williams</title>
     </programme>
     <programme start="20241221010000 +0000" stop="20241221013000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Wide World of Fights Lamont Peterson vs. Amir Khan</title>

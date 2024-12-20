@@ -1041,10 +1041,10 @@
     <programme start="20241220123000 +0000" stop="20241220163000 +0000" channel="Live 2.mewatch">
         <title>ONE Friday Fights 92</title>
     </programme>
-    <programme start="20241219160000 +0000" stop="20241220125000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th December, Friday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Cambodia</title>
+    <programme start="20241219160000 +0000" stop="20241220123600 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th December, Friday 8.36pm. ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Cambodia</title>
     </programme>
-    <programme start="20241220125000 +0000" stop="20241220150000 +0000" channel="Live 5.mewatch">
+    <programme start="20241220123600 +0000" stop="20241220150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Cambodia</title>
     </programme>
     <programme start="20241220150000 +0000" stop="20241220160000 +0000" channel="Live 5.mewatch">
@@ -1053,10 +1053,10 @@
     <programme start="20241220160000 +0000" stop="20241221125000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 21st December, Saturday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Myanmar</title>
     </programme>
-    <programme start="20241219160000 +0000" stop="20241220125000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th December, Friday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Malaysia vs Singapore</title>
+    <programme start="20241219160000 +0000" stop="20241220123600 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th December, Friday 8.36pm. ASEAN Mitsubishi Electric Cup™ 2024: Malaysia vs Singapore</title>
     </programme>
-    <programme start="20241220125000 +0000" stop="20241220150000 +0000" channel="Live 6.mewatch">
+    <programme start="20241220123600 +0000" stop="20241220150000 +0000" channel="Live 6.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Malaysia vs Singapore</title>
     </programme>
     <programme start="20241220150000 +0000" stop="20241220160000 +0000" channel="Live 6.mewatch">
