@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241220163000 +0000" stop="20241220170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20241220180000 +0000" stop="20241220190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Norwich City v Brighton</title>
+    </programme>
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 9.optus">
+        <title>FA Cup - Reading v Burnley</title>
     </programme>
 </tv>
