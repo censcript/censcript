@@ -22252,10 +22252,10 @@
         <title>Movie - Thagaraaru</title>
     </programme>
     <programme start="20241220200000 +0000" stop="20241220223000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Mookkanan Kayiru</title>
     </programme>
     <programme start="20241220223000 +0000" stop="20241221010000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Nandinee</title>
     </programme>
     <programme start="20241221010000 +0000" stop="20241221013000 +0000" channel="KTV HD.starhub">
         <title>Teleshopping</title>
