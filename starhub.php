@@ -6817,10 +6817,10 @@
         <title>World Weather</title>
     </programme>
     <programme start="20241220005500 +0000" stop="20241220010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+        <title>News &amp; Weather</title>
     </programme>
     <programme start="20241220010000 +0000" stop="20241220010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20241220010500 +0000" stop="20241220015500 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK Special &quot;Discharged at Death: The Dark Record of Psychiatric Care&quot; (R)</title>
@@ -6852,10 +6852,22 @@
     <programme start="20241220034500 +0000" stop="20241220040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 60 (R)</title>
     </programme>
-    <programme start="20241220040000 +0000" stop="20241220040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20241220040000 +0000" stop="20241220043000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Let&#039;s Try Editing All at Once (R)</title>
     </programme>
-    <programme start="20241220040500 +0000" stop="20241220055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20241220043000 +0000" stop="20241220044500 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 15min.</title>
+    </programme>
+    <programme start="20241220044500 +0000" stop="20241220045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+    </programme>
+    <programme start="20241220045500 +0000" stop="20241220050200 +0000" channel="NHK World Premium HD.starhub">
+        <title>TV Exercise</title>
+    </programme>
+    <programme start="20241220050200 +0000" stop="20241220050700 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20241220050700 +0000" stop="20241220055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20241220055000 +0000" stop="20241220055500 +0000" channel="NHK World Premium HD.starhub">
@@ -6887,18 +6899,6 @@
     </programme>
     <programme start="20241220081000 +0000" stop="20241220082000 +0000" channel="NHK World Premium HD.starhub">
         <title>Blue &amp; Yellow 10min</title>
-    </programme>
-    <programme start="20241220082000 +0000" stop="20241220083500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Peek-a-boo</title>
-    </programme>
-    <programme start="20241220083500 +0000" stop="20241220085900 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother</title>
-    </programme>
-    <programme start="20241220085900 +0000" stop="20241220090000 +0000" channel="NHK World Premium HD.starhub">
-        <title>1-Minute Anime: Songs for SDGs</title>
-    </programme>
-    <programme start="20241220090000 +0000" stop="20241220091000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News (B)</title>
     </programme>
     <programme start="20241218235500 +0000" stop="20241219005500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>

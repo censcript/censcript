@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241220103000 +0000" stop="20241220110000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20241220120000 +0000" stop="20241220130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Chelsea v Morecambe</title>
+    </programme>
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 8.optus">
+        <title>FA Cup - Preston North End v Charlton Athletic</title>
     </programme>
 </tv>
