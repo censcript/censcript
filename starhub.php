@@ -12153,14 +12153,14 @@
     <programme start="20241223001000 +0000" stop="20241223020000 +0000" channel="HBO HD.starhub">
         <title>Mamma Mia!</title>
     </programme>
-    <programme start="20241223020000 +0000" stop="20241223030000 +0000" channel="HBO HD.starhub">
-        <title>Dune: Prophecy S1</title>
+    <programme start="20241223020000 +0000" stop="20241223032500 +0000" channel="HBO HD.starhub">
+        <title>Episode 6</title>
     </programme>
-    <programme start="20241223030000 +0000" stop="20241223042500 +0000" channel="HBO HD.starhub">
+    <programme start="20241223032500 +0000" stop="20241223045000 +0000" channel="HBO HD.starhub">
         <title>When Christmas Was Young</title>
     </programme>
-    <programme start="20241223042500 +0000" stop="20241223061500 +0000" channel="HBO HD.starhub">
-        <title>Happy Feet</title>
+    <programme start="20241223045000 +0000" stop="20241223061500 +0000" channel="HBO HD.starhub">
+        <title>Wallace &amp; Gromit: The Curse Of The Were-Rabbit</title>
     </programme>
     <programme start="20241223061500 +0000" stop="20241223084000 +0000" channel="HBO HD.starhub">
         <title>Mission: Impossible - Fallout</title>
@@ -12171,14 +12171,14 @@
     <programme start="20241223104000 +0000" stop="20241223130000 +0000" channel="HBO HD.starhub">
         <title>First Man</title>
     </programme>
-    <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="HBO HD.starhub">
-        <title>Dune: Prophecy S1</title>
+    <programme start="20241223130000 +0000" stop="20241223142000 +0000" channel="HBO HD.starhub">
+        <title>Episode 6</title>
     </programme>
-    <programme start="20241223140000 +0000" stop="20241223161500 +0000" channel="HBO HD.starhub">
+    <programme start="20241223142000 +0000" stop="20241223163500 +0000" channel="HBO HD.starhub">
         <title>The Fate Of The Furious</title>
     </programme>
-    <programme start="20241223161500 +0000" stop="20241223184500 +0000" channel="HBO HD.starhub">
-        <title>Tenet</title>
+    <programme start="20241223163500 +0000" stop="20241223184500 +0000" channel="HBO HD.starhub">
+        <title>The Holdovers</title>
     </programme>
     <programme start="20241223184500 +0000" stop="20241223203000 +0000" channel="HBO HD.starhub">
         <title>Gunner</title>
@@ -12214,7 +12214,7 @@
         <title>Gunner</title>
     </programme>
     <programme start="20241224165000 +0000" stop="20241224184500 +0000" channel="HBO HD.starhub">
-        <title>Creed Iii</title>
+        <title>Creed III</title>
     </programme>
     <programme start="20241224184500 +0000" stop="20241224202000 +0000" channel="HBO HD.starhub">
         <title>Neighbors</title>
@@ -12252,11 +12252,11 @@
     <programme start="20241225154000 +0000" stop="20241225171000 +0000" channel="HBO HD.starhub">
         <title>Cash Out</title>
     </programme>
-    <programme start="20241225171000 +0000" stop="20241225181000 +0000" channel="HBO HD.starhub">
-        <title>Dune: Prophecy S1</title>
+    <programme start="20241225171000 +0000" stop="20241225183000 +0000" channel="HBO HD.starhub">
+        <title>Episode 6</title>
     </programme>
-    <programme start="20241225181000 +0000" stop="20241225203000 +0000" channel="HBO HD.starhub">
-        <title>Aquaman</title>
+    <programme start="20241225183000 +0000" stop="20241225203000 +0000" channel="HBO HD.starhub">
+        <title>Blackberry</title>
     </programme>
     <programme start="20241225203000 +0000" stop="20241225220000 +0000" channel="HBO HD.starhub">
         <title>Strays</title>
