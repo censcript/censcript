@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241221172000 +0000" stop="20241221200000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Crystal Palace v Arsenal</title>
-    </programme>
     <programme start="20241221200000 +0000" stop="20241221210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
+    </programme>
+    <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
+        <title>FA Cup - Hull City v Doncaster Rovers</title>
     </programme>
 </tv>
