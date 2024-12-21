@@ -32574,6 +32574,18 @@
     <programme start="20241231100000 +0000" stop="20241231160000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20241231160000 +0000" stop="20241231220000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241231220000 +0000" stop="20250101040000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101040000 +0000" stop="20250101100000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101100000 +0000" stop="20250101160000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241219220000 +0000" stop="20241220040000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33061,6 +33073,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20241231160000 +0000" stop="20241231220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20241231220000 +0000" stop="20250101040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101040000 +0000" stop="20250101044500 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101044500 +0000" stop="20250101090000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M18 - Hobart Hurricanes vs Sydney Sixers</title>
+    </programme>
+    <programme start="20250101090000 +0000" stop="20250101100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101100000 +0000" stop="20250101160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
