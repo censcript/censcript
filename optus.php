@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241221113000 +0000" stop="20241221145000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Aston Villa v Manchester City</title>
-    </programme>
     <programme start="20241221145000 +0000" stop="20241221172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 10.optus">
         <title>FA Cup - Exeter City v Oxford United</title>
+    </programme>
+    <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
+        <title>FA Cup - Leeds United v Harrogate Town</title>
     </programme>
 </tv>

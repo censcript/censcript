@@ -1017,10 +1017,10 @@
     <programme start="20241221160000 +0000" stop="20241222160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 10th January, Friday 8.30pm. ONE Friday Fights 93</title>
     </programme>
-    <programme start="20241220160000 +0000" stop="20241221125000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st December, Saturday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Myanmar</title>
+    <programme start="20241220160000 +0000" stop="20241221123600 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st December, Saturday 8.36pm. ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Myanmar</title>
     </programme>
-    <programme start="20241221125000 +0000" stop="20241221150000 +0000" channel="Live 5.mewatch">
+    <programme start="20241221123600 +0000" stop="20241221150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Vietnam vs Myanmar</title>
     </programme>
     <programme start="20241221150000 +0000" stop="20241221160000 +0000" channel="Live 5.mewatch">
@@ -1029,10 +1029,10 @@
     <programme start="20241221160000 +0000" stop="20241222160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: RUNNERS-UP A vs WINNER B</title>
     </programme>
-    <programme start="20241220160000 +0000" stop="20241221125000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st December, Saturday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Philippines</title>
+    <programme start="20241220160000 +0000" stop="20241221123400 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st December, Saturday 8.34pm. ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Philippines</title>
     </programme>
-    <programme start="20241221125000 +0000" stop="20241221150000 +0000" channel="Live 6.mewatch">
+    <programme start="20241221123400 +0000" stop="20241221150000 +0000" channel="Live 6.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Indonesia vs Philippines</title>
     </programme>
     <programme start="20241221150000 +0000" stop="20241221160000 +0000" channel="Live 6.mewatch">

@@ -24921,13 +24921,13 @@
     <programme start="20241221190000 +0000" stop="20241221220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241221220000 +0000" stop="20241222000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241221220000 +0000" stop="20241222001500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241222000000 +0000" stop="20241222040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241222001500 +0000" stop="20241222044000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M02 - Sydney Sixers vs Melbourne Renegades</title>
     </programme>
-    <programme start="20241222040000 +0000" stop="20241222080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241222044000 +0000" stop="20241222080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M06 - Adelaide Strikers vs Melbourne Stars</title>
     </programme>
     <programme start="20241222080000 +0000" stop="20241222121500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -26176,7 +26176,7 @@
         <title>Soup Songs</title>
     </programme>
     <programme start="20241222160000 +0000" stop="20241222163000 +0000" channel="Sun Music.starhub">
-        <title>Hits Of Sivakarthikeyan</title>
+        <title>Hits Of Vijay Sethupathi</title>
     </programme>
     <programme start="20241222163000 +0000" stop="20241222173000 +0000" channel="Sun Music.starhub">
         <title>Marana Kuthu</title>
