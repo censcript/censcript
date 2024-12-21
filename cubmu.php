@@ -1272,8 +1272,149 @@
     <programme start="20241222163600 +0000" stop="20241221170200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20241221180000 +0000" stop="20241221193000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Series Action Asia : Tiger Kung Fu Of Wulin</title>
+    <programme start="20241221170000 +0000" stop="20241221173000 +0000" channel="Fashion TV.cubmu">
+        <title>Swimwear</title>
+    </programme>
+    <programme start="20241221173000 +0000" stop="20241221180000 +0000" channel="Fashion TV.cubmu">
+        <title>Swimwear</title>
+    </programme>
+    <programme start="20241221180000 +0000" stop="20241221183000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Models</title>
+    </programme>
+    <programme start="20241221183000 +0000" stop="20241221190000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Models</title>
+    </programme>
+    <programme start="20241221190000 +0000" stop="20241221193000 +0000" channel="Fashion TV.cubmu">
+        <title>Lingerie</title>
+    </programme>
+    <programme start="20241221193000 +0000" stop="20241221200000 +0000" channel="Fashion TV.cubmu">
+        <title>Lingerie</title>
+    </programme>
+    <programme start="20241221200000 +0000" stop="20241221203000 +0000" channel="Fashion TV.cubmu">
+        <title>Swimwear</title>
+    </programme>
+    <programme start="20241221203000 +0000" stop="20241221210000 +0000" channel="Fashion TV.cubmu">
+        <title>Swimwear</title>
+    </programme>
+    <programme start="20241221210000 +0000" stop="20241221213000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Photoshoots</title>
+    </programme>
+    <programme start="20241221213000 +0000" stop="20241221220000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Photoshoots</title>
+    </programme>
+    <programme start="20241221220000 +0000" stop="20241221223000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion And Sports</title>
+    </programme>
+    <programme start="20241221223000 +0000" stop="20241221230000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion And Sports</title>
+    </programme>
+    <programme start="20241221230000 +0000" stop="20241221233000 +0000" channel="Fashion TV.cubmu">
+        <title>Beauty</title>
+    </programme>
+    <programme start="20241221233000 +0000" stop="20241222000000 +0000" channel="Fashion TV.cubmu">
+        <title>Beauty</title>
+    </programme>
+    <programme start="20241222000000 +0000" stop="20241222003000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion From Italy</title>
+    </programme>
+    <programme start="20241222003000 +0000" stop="20241222010000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion From Italy</title>
+    </programme>
+    <programme start="20241222010000 +0000" stop="20241222013000 +0000" channel="Fashion TV.cubmu">
+        <title>Love Magazine</title>
+    </programme>
+    <programme start="20241222013000 +0000" stop="20241222020000 +0000" channel="Fashion TV.cubmu">
+        <title>Love Magazine</title>
+    </programme>
+    <programme start="20241222020000 +0000" stop="20241222023000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Destination: Thailand</title>
+    </programme>
+    <programme start="20241222023000 +0000" stop="20241222030000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Destination: Thailand</title>
+    </programme>
+    <programme start="20241222030000 +0000" stop="20241222033000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Junior</title>
+    </programme>
+    <programme start="20241222033000 +0000" stop="20241222040000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Junior</title>
+    </programme>
+    <programme start="20241222040000 +0000" stop="20241222043000 +0000" channel="Fashion TV.cubmu">
+        <title>Haute Couture Fashion Week</title>
+    </programme>
+    <programme start="20241222043000 +0000" stop="20241222050000 +0000" channel="Fashion TV.cubmu">
+        <title>Haute Couture Fashion Week</title>
+    </programme>
+    <programme start="20241222050000 +0000" stop="20241222053000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Models</title>
+    </programme>
+    <programme start="20241222053000 +0000" stop="20241222060000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Models</title>
+    </programme>
+    <programme start="20241222060000 +0000" stop="20241222063000 +0000" channel="Fashion TV.cubmu">
+        <title>Bridal</title>
+    </programme>
+    <programme start="20241222063000 +0000" stop="20241222070000 +0000" channel="Fashion TV.cubmu">
+        <title>Bridal</title>
+    </programme>
+    <programme start="20241222070000 +0000" stop="20241222073000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Films</title>
+    </programme>
+    <programme start="20241222073000 +0000" stop="20241222080000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Films</title>
+    </programme>
+    <programme start="20241222080000 +0000" stop="20241222083000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Teens</title>
+    </programme>
+    <programme start="20241222083000 +0000" stop="20241222090000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Teens</title>
+    </programme>
+    <programme start="20241222090000 +0000" stop="20241222093000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Photoshoots</title>
+    </programme>
+    <programme start="20241222093000 +0000" stop="20241222100000 +0000" channel="Fashion TV.cubmu">
+        <title>Top Photoshoots</title>
+    </programme>
+    <programme start="20241222100000 +0000" stop="20241222103000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion From Singapore</title>
+    </programme>
+    <programme start="20241222103000 +0000" stop="20241222110000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion From Singapore</title>
+    </programme>
+    <programme start="20241222110000 +0000" stop="20241222113000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Destination: Greece</title>
+    </programme>
+    <programme start="20241222113000 +0000" stop="20241222120000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Destination: Greece</title>
+    </programme>
+    <programme start="20241222120000 +0000" stop="20241222123000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion News</title>
+    </programme>
+    <programme start="20241222123000 +0000" stop="20241222130000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion News</title>
+    </programme>
+    <programme start="20241222130000 +0000" stop="20241222133000 +0000" channel="Fashion TV.cubmu">
+        <title>Love Magazine</title>
+    </programme>
+    <programme start="20241222133000 +0000" stop="20241222140000 +0000" channel="Fashion TV.cubmu">
+        <title>Love Magazine</title>
+    </programme>
+    <programme start="20241222140000 +0000" stop="20241222143000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Magazines</title>
+    </programme>
+    <programme start="20241222143000 +0000" stop="20241222150000 +0000" channel="Fashion TV.cubmu">
+        <title>Fashion Magazines</title>
+    </programme>
+    <programme start="20241222150000 +0000" stop="20241222153000 +0000" channel="Fashion TV.cubmu">
+        <title>Designers</title>
+    </programme>
+    <programme start="20241222153000 +0000" stop="20241222160000 +0000" channel="Fashion TV.cubmu">
+        <title>Designers</title>
+    </programme>
+    <programme start="20241222160000 +0000" stop="20241222163000 +0000" channel="Fashion TV.cubmu">
+        <title>Lingerie</title>
+    </programme>
+    <programme start="20241222163000 +0000" stop="20241221170000 +0000" channel="Fashion TV.cubmu">
+        <title>Lingerie</title>
     </programme>
     <programme start="20241221180000 +0000" stop="20241221193000 +0000" channel="Indosiar.cubmu">
         <title>Mega Series Action Asia : Tiger Kung Fu Of Wulin</title>
@@ -1281,17 +1422,8 @@
     <programme start="20241221193000 +0000" stop="20241221210000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20241221193000 +0000" stop="20241221210000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
     <programme start="20241221210000 +0000" stop="20241221213000 +0000" channel="Indosiar.cubmu">
         <title>Mama &amp; Aa Beraksi</title>
-    </programme>
-    <programme start="20241221210000 +0000" stop="20241221213000 +0000" channel="Indosiar.cubmu">
-        <title>Mama &amp; Aa Beraksi</title>
-    </programme>
-    <programme start="20241221213000 +0000" stop="20241221230000 +0000" channel="Indosiar.cubmu">
-        <title>Fokus Pagi</title>
     </programme>
     <programme start="20241221213000 +0000" stop="20241221230000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Pagi</title>
@@ -1299,16 +1431,7 @@
     <programme start="20241221230000 +0000" stop="20241222000000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
-    <programme start="20241221230000 +0000" stop="20241222000000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5</title>
-    </programme>
     <programme start="20241222000000 +0000" stop="20241222013000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Pagi Spesial</title>
-    </programme>
-    <programme start="20241222000000 +0000" stop="20241222013000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Pagi Spesial</title>
-    </programme>
-    <programme start="20241222013000 +0000" stop="20241222030000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Pagi Spesial</title>
     </programme>
     <programme start="20241222013000 +0000" stop="20241222030000 +0000" channel="Indosiar.cubmu">
@@ -1317,17 +1440,8 @@
     <programme start="20241222030000 +0000" stop="20241222040000 +0000" channel="Indosiar.cubmu">
         <title>Hot Kiss</title>
     </programme>
-    <programme start="20241222030000 +0000" stop="20241222040000 +0000" channel="Indosiar.cubmu">
-        <title>Hot Kiss</title>
-    </programme>
     <programme start="20241222040000 +0000" stop="20241222043000 +0000" channel="Indosiar.cubmu">
         <title>Patroli Siang</title>
-    </programme>
-    <programme start="20241222040000 +0000" stop="20241222043000 +0000" channel="Indosiar.cubmu">
-        <title>Patroli Siang</title>
-    </programme>
-    <programme start="20241222043000 +0000" stop="20241222050000 +0000" channel="Indosiar.cubmu">
-        <title>Fokus Siang</title>
     </programme>
     <programme start="20241222043000 +0000" stop="20241222050000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Siang</title>
@@ -1335,17 +1449,8 @@
     <programme start="20241222050000 +0000" stop="20241222060000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Siang Spesial</title>
     </programme>
-    <programme start="20241222050000 +0000" stop="20241222060000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Siang Spesial</title>
-    </programme>
     <programme start="20241222060000 +0000" stop="20241222080000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Spesial</title>
-    </programme>
-    <programme start="20241222060000 +0000" stop="20241222080000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Spesial</title>
-    </programme>
-    <programme start="20241222080000 +0000" stop="20241222103000 +0000" channel="Indosiar.cubmu">
-        <title>BRI Liga 1 2024/2025</title>
     </programme>
     <programme start="20241222080000 +0000" stop="20241222103000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
@@ -1353,22 +1458,10 @@
     <programme start="20241222103000 +0000" stop="20241222113000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
-    <programme start="20241222103000 +0000" stop="20241222113000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5</title>
-    </programme>
-    <programme start="20241222113000 +0000" stop="20241222140000 +0000" channel="Indosiar.cubmu">
-        <title>BRI Liga 1 2024/2025</title>
-    </programme>
     <programme start="20241222113000 +0000" stop="20241222140000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
     </programme>
     <programme start="20241222140000 +0000" stop="20241222160000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
-    <programme start="20241222140000 +0000" stop="20241222160000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
-    <programme start="20241222160000 +0000" stop="20241221183000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20241222160000 +0000" stop="20241221183000 +0000" channel="Indosiar.cubmu">
@@ -1424,9 +1517,6 @@
     </programme>
     <programme start="20241222160000 +0000" stop="20241221174500 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
-    </programme>
-    <programme start="20241221170000 +0000" stop="20241221170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
     </programme>
     <programme start="20241221170500 +0000" stop="20241221173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
@@ -2114,9 +2204,6 @@
     </programme>
     <programme start="20241222163000 +0000" stop="20241221170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20241221170000 +0000" stop="20241221170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241221170500 +0000" stop="20241221170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
