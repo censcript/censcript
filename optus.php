@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241222162000 +0000" stop="20241222193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Tottenham Hotspur v Liverpool</title>
-    </programme>
     <programme start="20241222203000 +0000" stop="20241222220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Southampton v Swansea</title>
+    </programme>
+    <programme start="20250113192000 +0000" stop="20250113224000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Millwall v Dagenham &amp; Redbridge</title>
     </programme>
 </tv>
