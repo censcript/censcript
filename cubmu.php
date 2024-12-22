@@ -465,8 +465,17 @@
     <programme start="20241222170000 +0000" stop="20241222183000 +0000" channel="tvOne.cubmu">
         <title>UFC Seru !!!</title>
     </programme>
+    <programme start="20241222170000 +0000" stop="20241222183000 +0000" channel="tvOne.cubmu">
+        <title>UFC Seru !!!</title>
+    </programme>
     <programme start="20241222183000 +0000" stop="20241222200000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
+    </programme>
+    <programme start="20241222183000 +0000" stop="20241222200000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
+    </programme>
+    <programme start="20241222200000 +0000" stop="20241222203000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
     </programme>
     <programme start="20241222200000 +0000" stop="20241222203000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
@@ -474,8 +483,17 @@
     <programme start="20241222203000 +0000" stop="20241222210000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
     </programme>
+    <programme start="20241222203000 +0000" stop="20241222210000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
     <programme start="20241222210000 +0000" stop="20241222213000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Pagi</title>
+    </programme>
+    <programme start="20241222210000 +0000" stop="20241222213000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Pagi</title>
+    </programme>
+    <programme start="20241222213000 +0000" stop="20241222230000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Pagi</title>
     </programme>
     <programme start="20241222213000 +0000" stop="20241222230000 +0000" channel="tvOne.cubmu">
         <title>Kabar Pagi</title>
@@ -483,8 +501,17 @@
     <programme start="20241222230000 +0000" stop="20241222233000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Pagi</title>
     </programme>
+    <programme start="20241222230000 +0000" stop="20241222233000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Pagi</title>
+    </programme>
     <programme start="20241222233000 +0000" stop="20241223013000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Pagi</title>
+    </programme>
+    <programme start="20241222233000 +0000" stop="20241223013000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Pagi</title>
+    </programme>
+    <programme start="20241223013000 +0000" stop="20241223023000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama Pagi</title>
     </programme>
     <programme start="20241223013000 +0000" stop="20241223023000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama Pagi</title>
@@ -492,8 +519,17 @@
     <programme start="20241223023000 +0000" stop="20241223030000 +0000" channel="tvOne.cubmu">
         <title>Hidup Sehat</title>
     </programme>
+    <programme start="20241223023000 +0000" stop="20241223030000 +0000" channel="tvOne.cubmu">
+        <title>Hidup Sehat</title>
+    </programme>
     <programme start="20241223030000 +0000" stop="20241223033000 +0000" channel="tvOne.cubmu">
         <title>Inspirasi Pagi</title>
+    </programme>
+    <programme start="20241223030000 +0000" stop="20241223033000 +0000" channel="tvOne.cubmu">
+        <title>Inspirasi Pagi</title>
+    </programme>
+    <programme start="20241223033000 +0000" stop="20241223060000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Siang</title>
     </programme>
     <programme start="20241223033000 +0000" stop="20241223060000 +0000" channel="tvOne.cubmu">
         <title>Kabar Siang</title>
@@ -501,8 +537,17 @@
     <programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Siang</title>
     </programme>
+    <programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Siang</title>
+    </programme>
     <programme start="20241223080000 +0000" stop="20241223090000 +0000" channel="tvOne.cubmu">
         <title>Kabar Merah Putih</title>
+    </programme>
+    <programme start="20241223080000 +0000" stop="20241223090000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Merah Putih</title>
+    </programme>
+    <programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
     </programme>
     <programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
@@ -510,8 +555,17 @@
     <programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Malam</title>
     </programme>
+    <programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Malam</title>
+    </programme>
     <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="tvOne.cubmu">
         <title>Fakta</title>
+    </programme>
+    <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="tvOne.cubmu">
+        <title>Fakta</title>
+    </programme>
+    <programme start="20241223140000 +0000" stop="20241223150000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
     </programme>
     <programme start="20241223140000 +0000" stop="20241223150000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
@@ -519,8 +573,17 @@
     <programme start="20241223150000 +0000" stop="20241223160000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
     </programme>
+    <programme start="20241223150000 +0000" stop="20241223160000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
     <programme start="20241223160000 +0000" stop="20241223163000 +0000" channel="tvOne.cubmu">
         <title>Menyingkap Tabir</title>
+    </programme>
+    <programme start="20241223160000 +0000" stop="20241223163000 +0000" channel="tvOne.cubmu">
+        <title>Menyingkap Tabir</title>
+    </programme>
+    <programme start="20241223163000 +0000" stop="20241222170000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Malam</title>
     </programme>
     <programme start="20241223163000 +0000" stop="20241222170000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Malam</title>
@@ -1371,25 +1434,22 @@
     <programme start="20241223043000 +0000" stop="20241223050000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Siang</title>
     </programme>
-    <programme start="20241223050000 +0000" stop="20241223060000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241223050000 +0000" stop="20241223070000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Siang Spesial</title>
     </programme>
-    <programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241223070000 +0000" stop="20241223090000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Spesial</title>
     </programme>
-    <programme start="20241223080000 +0000" stop="20241223103000 +0000" channel="Indosiar.cubmu">
-        <title>BRI Liga 1 2024/2025</title>
+    <programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="Indosiar.cubmu">
+        <title>Kisah Nyata Sore Spesial</title>
     </programme>
-    <programme start="20241223103000 +0000" stop="20241223113000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
-    <programme start="20241223113000 +0000" stop="20241223140000 +0000" channel="Indosiar.cubmu">
-        <title>BRI Liga 1 2024/2025</title>
+    <programme start="20241223130000 +0000" stop="20241223160000 +0000" channel="Indosiar.cubmu">
+        <title>Blockbuster Film Asia</title>
     </programme>
-    <programme start="20241223140000 +0000" stop="20241223160000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
-    <programme start="20241223160000 +0000" stop="20241222183000 +0000" channel="Indosiar.cubmu">
+    <programme start="20241223160000 +0000" stop="20241222180000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20241222174500 +0000" stop="20241222184500 +0000" channel="SCTV.cubmu">
@@ -1404,43 +1464,46 @@
     <programme start="20241222210000 +0000" stop="20241222213000 +0000" channel="SCTV.cubmu">
         <title>Indahnya Kebersamaan</title>
     </programme>
-    <programme start="20241222213000 +0000" stop="20241222231500 +0000" channel="SCTV.cubmu">
+    <programme start="20241222213000 +0000" stop="20241222230000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20241222231500 +0000" stop="20241223000200 +0000" channel="SCTV.cubmu">
+    <programme start="20241222230000 +0000" stop="20241223000000 +0000" channel="SCTV.cubmu">
         <title>Hot Shot</title>
     </programme>
-    <programme start="20241223000200 +0000" stop="20241223013100 +0000" channel="SCTV.cubmu">
+    <programme start="20241223000000 +0000" stop="20241223013000 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
     </programme>
-    <programme start="20241223013100 +0000" stop="20241223031900 +0000" channel="SCTV.cubmu">
+    <programme start="20241223013000 +0000" stop="20241223030000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi Spesial</title>
     </programme>
-    <programme start="20241223031900 +0000" stop="20241223052100 +0000" channel="SCTV.cubmu">
+    <programme start="20241223030000 +0000" stop="20241223050000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi</title>
     </programme>
-    <programme start="20241223052100 +0000" stop="20241223055400 +0000" channel="SCTV.cubmu">
+    <programme start="20241223050000 +0000" stop="20241223053000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241223055400 +0000" stop="20241223075900 +0000" channel="SCTV.cubmu">
-        <title>FTV Siang</title>
+    <programme start="20241223053000 +0000" stop="20241223060000 +0000" channel="SCTV.cubmu">
+        <title>Boy Thohir Bicara Bersama Retno Pinasti</title>
     </programme>
-    <programme start="20241223075900 +0000" stop="20241223094500 +0000" channel="SCTV.cubmu">
+    <programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="SCTV.cubmu">
+        <title>American Ninja Warrior Junior</title>
+    </programme>
+    <programme start="20241223080000 +0000" stop="20241223094500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20241223094500 +0000" stop="20241223111900 +0000" channel="SCTV.cubmu">
+    <programme start="20241223094500 +0000" stop="20241223111500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20241223111900 +0000" stop="20241223124700 +0000" channel="SCTV.cubmu">
+    <programme start="20241223111500 +0000" stop="20241223131500 +0000" channel="SCTV.cubmu">
         <title>Saleha</title>
     </programme>
-    <programme start="20241223124700 +0000" stop="20241223143100 +0000" channel="SCTV.cubmu">
+    <programme start="20241223131500 +0000" stop="20241223144500 +0000" channel="SCTV.cubmu">
         <title>Naik Ranjang</title>
     </programme>
-    <programme start="20241223143100 +0000" stop="20241223160300 +0000" channel="SCTV.cubmu">
+    <programme start="20241223144500 +0000" stop="20241223161500 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241223160300 +0000" stop="20241222173700 +0000" channel="SCTV.cubmu">
+    <programme start="20241223161500 +0000" stop="20241222174500 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
     <programme start="20241222170000 +0000" stop="20241222170500 +0000" channel="MetroTV.cubmu">
