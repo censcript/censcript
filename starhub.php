@@ -8203,7 +8203,7 @@
         <title>Ambarsariya</title>
     </programme>
     <programme start="20241224163000 +0000" stop="20241224170000 +0000" channel="Zee Cinema.starhub">
-        <title>Patty-Ay Baat</title>
+        <title>Patt-Ay Ki Baat</title>
     </programme>
     <programme start="20241224170000 +0000" stop="20241224200000 +0000" channel="Zee Cinema.starhub">
         <title>Ujda Chaman</title>
@@ -8233,7 +8233,7 @@
         <title>Starry Nights S02</title>
     </programme>
     <programme start="20241225170000 +0000" stop="20241225200000 +0000" channel="Zee Cinema.starhub">
-        <title>Commando 2 - The Black Money Trail</title>
+        <title>Commando 2</title>
     </programme>
     <programme start="20241225200000 +0000" stop="20241225230000 +0000" channel="Zee Cinema.starhub">
         <title>Dil Hi To Hai</title>
@@ -8251,7 +8251,7 @@
         <title>Gumnaam The Mystery</title>
     </programme>
     <programme start="20241226110000 +0000" stop="20241226140000 +0000" channel="Zee Cinema.starhub">
-        <title>Commando 2 - The Black Money Trail</title>
+        <title>Commando 2</title>
     </programme>
     <programme start="20241226140000 +0000" stop="20241226163000 +0000" channel="Zee Cinema.starhub">
         <title>Shaurya</title>
