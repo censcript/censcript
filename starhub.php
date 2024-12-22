@@ -25071,6 +25071,24 @@
     <programme start="20250101121500 +0000" stop="20250101201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 5</title>
     </programme>
+    <programme start="20250101201500 +0000" stop="20250101220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250102000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102000000 +0000" stop="20250102040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M11 - Sydney Sixers vs Melbourne Stars</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M16 - Sydney Thunder vs Melbourne Renedages</title>
+    </programme>
+    <programme start="20250102080000 +0000" stop="20250102121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M20 - Melbourne Renegades vs Adelaide Strikers</title>
+    </programme>
+    <programme start="20250102121500 +0000" stop="20250102201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 1</title>
+    </programme>
     <programme start="20241221000000 +0000" stop="20241221010000 +0000" channel="TVB Xing He.starhub">
         <title>Ringmaster, The</title>
     </programme>
@@ -28512,6 +28530,18 @@
     <programme start="20250101100000 +0000" stop="20250101160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250101160300 +0000" stop="20250101220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250102100000 +0000" stop="20250102160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241220235800 +0000" stop="20241221000900 +0000" channel="HBO Family HD.starhub">
         <title>Chloe</title>
     </programme>
@@ -30906,6 +30936,18 @@
     <programme start="20250101100000 +0000" stop="20250101160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250101160000 +0000" stop="20250101220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241220220000 +0000" stop="20241221040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32637,6 +32679,18 @@
     <programme start="20250101100000 +0000" stop="20250101160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250101160000 +0000" stop="20250101220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241220220000 +0000" stop="20241221040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32776,6 +32830,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250101100000 +0000" stop="20250101160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101160000 +0000" stop="20250101220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241220220000 +0000" stop="20241221040000 +0000" channel="Hub Sports 5 HD.starhub">
