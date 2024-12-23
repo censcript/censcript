@@ -21430,7 +21430,7 @@
         <title>Japan&#039;S Top Inventions</title>
     </programme>
     <programme start="20241222224000 +0000" stop="20241222225500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Bosai: Science That Can Save Your Life</title>
+        <title>Bosai</title>
     </programme>
     <programme start="20241222225500 +0000" stop="20241222230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Pythagoraswitch Mini</title>
@@ -24858,10 +24858,19 @@
     <programme start="20241224050000 +0000" stop="20241224120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>South Africa Tour of Bangladesh 2024: 2nd Test - Day 3</title>
     </programme>
-    <programme start="20241224120000 +0000" stop="20241224160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241224120000 +0000" stop="20241224152000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M08 - Sydney Thunder vs Sydney Sixers</title>
     </programme>
-    <programme start="20241224160000 +0000" stop="20241224220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241224152000 +0000" stop="20241224155000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>ICC Women&#039;s T20 World Cup 2024: M21 - SF1 - Australia vs South Africa HLs</title>
+    </programme>
+    <programme start="20241224155000 +0000" stop="20241224162000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>ICC Women&#039;s T20 World Cup 2024: M22 - SF2 - West Indies vs New Zealand HLs</title>
+    </programme>
+    <programme start="20241224162000 +0000" stop="20241224165000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>ICC Women&#039;s T20 World Cup 2024: M23 - Final - South Africa vs New Zealand HLs</title>
+    </programme>
+    <programme start="20241224165000 +0000" stop="20241224220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241225002500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24900,10 +24909,10 @@
     <programme start="20241226190500 +0000" stop="20241226220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241226220000 +0000" stop="20241227000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241226220000 +0000" stop="20241227013000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227000000 +0000" stop="20241227040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227013000 +0000" stop="20241227040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M05 - Melbourne Renegades vs Hobart Hurricanes</title>
     </programme>
     <programme start="20241227040000 +0000" stop="20241227080000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24918,10 +24927,10 @@
     <programme start="20241227163500 +0000" stop="20241227220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227220000 +0000" stop="20241228000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227220000 +0000" stop="20241228004000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241228000000 +0000" stop="20241228040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228004000 +0000" stop="20241228040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M06 - Adelaide Strikers vs Melbourne Stars</title>
     </programme>
     <programme start="20241228040000 +0000" stop="20241228080000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24936,10 +24945,10 @@
     <programme start="20241228201500 +0000" stop="20241228220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228220000 +0000" stop="20241229003500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241229000000 +0000" stop="20241229040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241229003500 +0000" stop="20241229040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M07 - Hobart Hurricanes vs Perth Scorchers</title>
     </programme>
     <programme start="20241229040000 +0000" stop="20241229080000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -32730,13 +32739,10 @@
     <programme start="20241225220000 +0000" stop="20241225232000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241225232000 +0000" stop="20241226033000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241225232000 +0000" stop="20241226073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 1</title>
     </programme>
-    <programme start="20241226033000 +0000" stop="20241226040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241226040000 +0000" stop="20241226100000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241226073000 +0000" stop="20241226100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241226100000 +0000" stop="20241226141500 +0000" channel="Hub Sports 5 HD.starhub">
@@ -32751,13 +32757,10 @@
     <programme start="20241226220000 +0000" stop="20241226232000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241226232000 +0000" stop="20241227033000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241226232000 +0000" stop="20241227073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 2</title>
     </programme>
-    <programme start="20241227033000 +0000" stop="20241227040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241227040000 +0000" stop="20241227100000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241227073000 +0000" stop="20241227100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241227100000 +0000" stop="20241227160000 +0000" channel="Hub Sports 5 HD.starhub">
@@ -32769,13 +32772,10 @@
     <programme start="20241227220000 +0000" stop="20241227232000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227232000 +0000" stop="20241228033000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241227232000 +0000" stop="20241228073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 3</title>
     </programme>
-    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228040000 +0000" stop="20241228100000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241228073000 +0000" stop="20241228100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Sports 5 HD.starhub">
@@ -32787,13 +32787,10 @@
     <programme start="20241228220000 +0000" stop="20241228232000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241228232000 +0000" stop="20241229033000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241228232000 +0000" stop="20241229073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 4</title>
     </programme>
-    <programme start="20241229033000 +0000" stop="20241229040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241229040000 +0000" stop="20241229100000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241229073000 +0000" stop="20241229100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241229100000 +0000" stop="20241229160000 +0000" channel="Hub Sports 5 HD.starhub">
@@ -32805,13 +32802,10 @@
     <programme start="20241229220000 +0000" stop="20241229232000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241229232000 +0000" stop="20241230033000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241229232000 +0000" stop="20241230073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 5</title>
     </programme>
-    <programme start="20241230033000 +0000" stop="20241230040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241230040000 +0000" stop="20241230100000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20241230073000 +0000" stop="20241230100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241230100000 +0000" stop="20241230160000 +0000" channel="Hub Sports 5 HD.starhub">
