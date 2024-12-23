@@ -5173,7 +5173,7 @@
         <title>Love Action Drama</title>
     </programme>
     <programme start="20241224043000 +0000" stop="20241224073000 +0000" channel="Asianet Movies.starhub">
-        <title>RRR - Rudhiram Ranam Roudram</title>
+        <title>RRR</title>
     </programme>
     <programme start="20241224073000 +0000" stop="20241224103000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
@@ -5184,10 +5184,10 @@
     <programme start="20241224133000 +0000" stop="20241224163000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20241224163000 +0000" stop="20241224190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241224163000 +0000" stop="20241224191500 +0000" channel="Asianet Movies.starhub">
         <title>June</title>
     </programme>
-    <programme start="20241224190000 +0000" stop="20241224220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241224191500 +0000" stop="20241224220000 +0000" channel="Asianet Movies.starhub">
         <title>Casanovva</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241225003000 +0000" channel="Asianet Movies.starhub">
@@ -5290,25 +5290,28 @@
         <title>Play Back</title>
     </programme>
     <programme start="20241228013000 +0000" stop="20241228043000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Pappi Appacha</title>
     </programme>
     <programme start="20241228043000 +0000" stop="20241228073000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Rasathanthram</title>
     </programme>
     <programme start="20241228073000 +0000" stop="20241228103000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Kuberan</title>
     </programme>
     <programme start="20241228103000 +0000" stop="20241228133000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Nna than case kodu</title>
     </programme>
     <programme start="20241228133000 +0000" stop="20241228163000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Aavesham</title>
     </programme>
-    <programme start="20241228163000 +0000" stop="20241228220000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20241228163000 +0000" stop="20241228190000 +0000" channel="Asianet Movies.starhub">
+        <title>Pullippulikalum Aattinkuttiyum</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228220000 +0000" channel="Asianet Movies.starhub">
+        <title>Ivar Vivahitharayal</title>
     </programme>
     <programme start="20241228220000 +0000" stop="20241229003000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Swarnam</title>
     </programme>
     <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="Asianet Movies.starhub">
         <title>Play Back</title>
@@ -5317,25 +5320,28 @@
         <title>Play Back</title>
     </programme>
     <programme start="20241229013000 +0000" stop="20241229043000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Robin Hood</title>
     </programme>
     <programme start="20241229043000 +0000" stop="20241229073000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Drishyam</title>
     </programme>
     <programme start="20241229073000 +0000" stop="20241229103000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Pachakkuthira</title>
     </programme>
     <programme start="20241229103000 +0000" stop="20241229133000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Forensic</title>
     </programme>
     <programme start="20241229133000 +0000" stop="20241229163000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>China Town</title>
     </programme>
-    <programme start="20241229163000 +0000" stop="20241229220000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20241229163000 +0000" stop="20241229190000 +0000" channel="Asianet Movies.starhub">
+        <title>Garudan</title>
+    </programme>
+    <programme start="20241229190000 +0000" stop="20241229220000 +0000" channel="Asianet Movies.starhub">
+        <title>Thinkal Muthal Velli Vare</title>
     </programme>
     <programme start="20241229220000 +0000" stop="20241230003000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Minnaminnikkoottam</title>
     </programme>
     <programme start="20241230003000 +0000" stop="20241230033000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
@@ -5392,12 +5398,6 @@
         <title>Movie</title>
     </programme>
     <programme start="20241231063000 +0000" stop="20241231073000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20241231073000 +0000" stop="20241231083000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20241231083000 +0000" stop="20241231093000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
     <programme start="20241222000000 +0000" stop="20241222005500 +0000" channel="HISTORY HD.starhub">
