@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241222230000 +0000" stop="20241223000000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20241223110000 +0000" stop="20241223113000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Mansfield Town v Wigan Athletic</title>
+    </programme>
+    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
+        <title>FA Cup - Leyton Orient v Derby County</title>
     </programme>
 </tv>
