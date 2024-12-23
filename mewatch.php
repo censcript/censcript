@@ -1081,10 +1081,10 @@
         <title>No programme available now. Next broadcast on 10th January, Friday 8.30pm. ONE Friday Fights 93</title>
     </programme>
     <programme start="20241222160000 +0000" stop="20241223160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: RUNNERS-UP A vs WINNER B</title>
+        <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Singapore vs Vietnam</title>
     </programme>
     <programme start="20241223160000 +0000" stop="20241224160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: RUNNERS-UP A vs WINNER B</title>
+        <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Singapore vs Vietnam</title>
     </programme>
     <programme start="20241222160000 +0000" stop="20241223160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
