@@ -28473,6 +28473,18 @@
     <programme start="20250102100000 +0000" stop="20250102160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250102160300 +0000" stop="20250102220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250103040000 +0000" stop="20250103100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250103100000 +0000" stop="20250103160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241221235300 +0000" stop="20241222000400 +0000" channel="HBO Family HD.starhub">
         <title>The Nature Of Things</title>
     </programme>
@@ -32686,6 +32698,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102160000 +0000" stop="20250102220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103040000 +0000" stop="20250103100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241221220000 +0000" stop="20241222040000 +0000" channel="Hub Sports 5 HD.starhub">
