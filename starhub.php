@@ -21469,7 +21469,7 @@
         <title>Easy Japanese</title>
     </programme>
     <programme start="20241223014500 +0000" stop="20241223015500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Culture Crossroads</title>
+        <title>Bosai: Be Prepared</title>
     </programme>
     <programme start="20241223015500 +0000" stop="20241223020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Hello! NHK World-Japan</title>
@@ -21505,7 +21505,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20241223042300 +0000" stop="20241223043000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Short Program</title>
+        <title>Is That Picture Real?</title>
     </programme>
     <programme start="20241223043000 +0000" stop="20241223050000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Today&#039;S Close-Up</title>
