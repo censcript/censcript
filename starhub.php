@@ -5076,9 +5076,6 @@
     <programme start="20241223080000 +0000" stop="20241223081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20241223081500 +0000" stop="20241223083000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
-    </programme>
     <programme start="20241223083000 +0000" stop="20241223084500 +0000" channel="DW English HD.starhub">
         <title>Living in the Digital Age</title>
     </programme>
@@ -5094,11 +5091,14 @@
     <programme start="20241223100000 +0000" stop="20241223101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20241223101500 +0000" stop="20241223103000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
-    </programme>
     <programme start="20241223103000 +0000" stop="20241223110000 +0000" channel="DW English HD.starhub">
         <title>The Environment Magazine</title>
+    </programme>
+    <programme start="20241223110000 +0000" stop="20241223111500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20241223113000 +0000" stop="20241223120000 +0000" channel="DW English HD.starhub">
+        <title>What connects us all</title>
     </programme>
     <programme start="20241221220000 +0000" stop="20241222003000 +0000" channel="Asianet Movies.starhub">
         <title>Hailasa</title>

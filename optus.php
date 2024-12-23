@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241223170000 +0000" stop="20241223180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20241224090000 +0000" stop="20241224100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1 to 11 - Tony Adams</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112122000 +0000" stop="20250112154000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Tamworth v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 4.optus">
+        <title>FA Cup - Crystal Palace v Stockport</title>
     </programme>
 </tv>
