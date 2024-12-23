@@ -10137,8 +10137,17 @@
     <programme start="20241224103000 +0000" stop="20241224113000 +0000" channel="Bloomberg Originals.starhub">
         <title>Idea Generation</title>
     </programme>
+    <programme start="20241224113000 +0000" stop="20241224120000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
+    </programme>
     <programme start="20241224120000 +0000" stop="20241224123000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
+    </programme>
+    <programme start="20241224123000 +0000" stop="20241224130000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Instacart&#039;s CEO Fidji Simo Brought French Style to Silicon Valley</title>
+    </programme>
+    <programme start="20241224130000 +0000" stop="20241224140000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Stradivarius Murders</title>
     </programme>
     <programme start="20241224140000 +0000" stop="20241224150000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Money Doctor</title>
@@ -10154,15 +10163,6 @@
     </programme>
     <programme start="20241224180000 +0000" stop="20241224190000 +0000" channel="Bloomberg Originals.starhub">
         <title>Regenerate</title>
-    </programme>
-    <programme start="20241224190000 +0000" stop="20241224200000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Nourish</title>
-    </programme>
-    <programme start="20241224200000 +0000" stop="20241224203000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
-    </programme>
-    <programme start="20241224203000 +0000" stop="20241224210000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
     </programme>
     <programme start="20241221232000 +0000" stop="20241222004500 +0000" channel="Karisma.starhub">
         <title>Bisa Bisanya Gue Naksir Mas Susu</title>
@@ -15319,7 +15319,7 @@
         <title>UCL Classic Matches PSV vs Milan (2008/09)</title>
     </programme>
     <programme start="20241224032000 +0000" stop="20241224052000 +0000" channel="beIN Sports 3.starhub">
-        <title>Arsenal TV Classic 2024/25 Newcastle vs Arsenal</title>
+        <title>Arsenal TV Classic 2024/25 Fulham vs Arsenal</title>
     </programme>
     <programme start="20241224052000 +0000" stop="20241224072000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Crystal Palace vs Arsenal</title>
@@ -15472,10 +15472,10 @@
         <title>UEFA Conference League 2024/25 Vitoria SC vs Fiorentina - MD6</title>
     </programme>
     <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV: Premier League Years 2024/25</title>
+        <title>1998/99</title>
     </programme>
     <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV Specials 2024/25</title>
+        <title>Legends: Gus Poyet</title>
     </programme>
     <programme start="20241227120000 +0000" stop="20241227140000 +0000" channel="beIN Sports 3.starhub">
         <title>Chelsea TV 2024/25 Chelsea vs Fulham</title>
@@ -15505,10 +15505,10 @@
         <title>UEFA Champions League 2024/25 Brest vs Sturm - MD1</title>
     </programme>
     <programme start="20241228035000 +0000" stop="20241228042000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV: Premier League Years 2024/25</title>
+        <title>1998/99</title>
     </programme>
     <programme start="20241228042000 +0000" stop="20241228045000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV Specials 2024/25</title>
+        <title>Legends: Gus Poyet</title>
     </programme>
     <programme start="20241228045000 +0000" stop="20241228065000 +0000" channel="beIN Sports 3.starhub">
         <title>Chelsea TV 2024/25 Chelsea vs Fulham</title>
