@@ -12967,10 +12967,10 @@
         <title>ATP Tour 250 2024: Stockholm Day 4 Rublev v Muller</title>
     </programme>
     <programme start="20241223220000 +0000" stop="20241223233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 1</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Shang v Van Assche</title>
     </programme>
     <programme start="20241223233000 +0000" stop="20241224010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 2</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Michelsen v Basavareddy</title>
     </programme>
     <programme start="20241224010000 +0000" stop="20241224023000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2024: Women&#039;s Singles Rd 1 Osaka v Garcia</title>
@@ -15289,7 +15289,7 @@
         <title>MD6 Review</title>
     </programme>
     <programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Arsenal TV Classic 2024/25 Newcastle vs Arsenal</title>
+        <title>Arsenal TV Classic 2024/25 Fulham vs Arsenal</title>
     </programme>
     <programme start="20241223130000 +0000" stop="20241223150000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Crystal Palace vs Arsenal</title>
@@ -23572,7 +23572,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20241224093000 +0000" stop="20241224100000 +0000" channel="CNN HD.starhub">
-        <title>Melbourne</title>
+        <title>Miami</title>
     </programme>
     <programme start="20241224100000 +0000" stop="20241224110000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
@@ -23611,7 +23611,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20241224193000 +0000" stop="20241224200000 +0000" channel="CNN HD.starhub">
-        <title>Tomorrow Transformed</title>
+        <title>Healthcare of the Future</title>
     </programme>
     <programme start="20241222000000 +0000" stop="20241222020000 +0000" channel="Cinema One Global.starhub">
         <title>Father Jejemon</title>
