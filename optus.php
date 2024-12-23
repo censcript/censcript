@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20241223170000 +0000" stop="20241223180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Hull City v Doncaster Rovers</title>
+    </programme>
+    <programme start="20250112122000 +0000" stop="20250112154000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Tamworth v Tottenham Hotspur</title>
     </programme>
 </tv>

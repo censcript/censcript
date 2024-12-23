@@ -12988,7 +12988,7 @@
         <title>Best Of AO 2024: Men&#039;s Singles Rd 4 Tsitsipas v Fritz</title>
     </programme>
     <programme start="20241224103000 +0000" stop="20241224120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Final</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Final Tien v Fonseca</title>
     </programme>
     <programme start="20241224120000 +0000" stop="20241224130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Forza Jannik</title>
@@ -13018,10 +13018,10 @@
         <title>ATP Tour 250 2024: Stockholm QF 3 Ruud v Griekspoor</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241224233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 3</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Mensik v Tien</title>
     </programme>
     <programme start="20241224233000 +0000" stop="20241225010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 4</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Fils v Fonseca</title>
     </programme>
     <programme start="20241225010000 +0000" stop="20241225033000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2024: Men&#039;s Singles Rd 4 Sinner v Khachanov</title>
@@ -13060,13 +13060,13 @@
         <title>ATP Tour 250 2024: Stockholm Final Dimitrov v Paul</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241225233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Match 1</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Shang v Basavareddy</title>
     </programme>
     <programme start="20241225233000 +0000" stop="20241226010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Match 2</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Michelsen v Van Assche</title>
     </programme>
     <programme start="20241226010000 +0000" stop="20241226023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Match 3</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Fils v Mensik</title>
     </programme>
     <programme start="20241226023000 +0000" stop="20241226043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2024: Men&#039;s Singles Rd 4 Hurkacz v Cazaux</title>
@@ -13104,11 +13104,14 @@
     <programme start="20241226203000 +0000" stop="20241226220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Almaty Day 2 Mannarino v Safiullin</title>
     </programme>
-    <programme start="20241226220000 +0000" stop="20241226233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Match 4</title>
+    <programme start="20241226220000 +0000" stop="20241226232000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Tien v Fonseca</title>
+    </programme>
+    <programme start="20241226232000 +0000" stop="20241226233000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 500 Highlights 2024: Basel Final Shelton v Mpetshi Perricard</title>
     </programme>
     <programme start="20241226233000 +0000" stop="20241227010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 3 Match 1</title>
+        <title>Nitto ATP Finals 2024: Turin Day 7 Doubles SF 2 Arevalo/Pavic v Heliovaara/Patte</title>
     </programme>
     <programme start="20241227010000 +0000" stop="20241227023000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Nitto ATP Finals 2024: Turin Day 8 Doubles Final Arevalo/Pavic v Krawietz/Puetz</title>
@@ -13153,16 +13156,13 @@
         <title>ATP Tour 250 2024: Almaty Day 3 Machac v Skatov</title>
     </programme>
     <programme start="20241227220000 +0000" stop="20241227233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 3 Match 2</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 3 Van Assche v Basavareddy</title>
     </programme>
     <programme start="20241227233000 +0000" stop="20241228010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 3 Match 3</title>
+        <title>Next Gen ATP Finals 2024: Jeddah Day 3 Fils v Tien</title>
     </programme>
     <programme start="20241228010000 +0000" stop="20241228030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2024: Mixed Doubles Final Hsieh/Zielinski v Krawczyk/ Skupski</title>
-    </programme>
-    <programme start="20241228030000 +0000" stop="20241228060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2024: Men&#039;s Singles SF Medvedev v Zverev</title>
     </programme>
     <programme start="20241222000000 +0000" stop="20241222003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
