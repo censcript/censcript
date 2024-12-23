@@ -6751,10 +6751,10 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20241223010500 +0000" stop="20241223015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Serving 100,000 Meals After the Disaster in Wajima, Noto (R)</title>
+        <title>New Beginnings &quot;Serving 100,000 Meals After the Disaster in Wajima, Noto</title>
     </programme>
     <programme start="20241223015000 +0000" stop="20241223025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The Guilt of the Eugenic Protection Law, 1948-2024&quot; (R)</title>
+        <title>ETV Special &quot;Silence Under the Law: The Guilt of the Eugenic Protection Law, 194</title>
     </programme>
     <programme start="20241223025000 +0000" stop="20241223025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
