@@ -10137,17 +10137,8 @@
     <programme start="20241224103000 +0000" stop="20241224113000 +0000" channel="Bloomberg Originals.starhub">
         <title>Idea Generation</title>
     </programme>
-    <programme start="20241224113000 +0000" stop="20241224120000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
-    </programme>
     <programme start="20241224120000 +0000" stop="20241224123000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
-    </programme>
-    <programme start="20241224123000 +0000" stop="20241224130000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Instacart&#039;s CEO Fidji Simo Brought French Style to Silicon Valley</title>
-    </programme>
-    <programme start="20241224130000 +0000" stop="20241224140000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Stradivarius Murders</title>
     </programme>
     <programme start="20241224140000 +0000" stop="20241224150000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Money Doctor</title>
@@ -10163,6 +10154,15 @@
     </programme>
     <programme start="20241224180000 +0000" stop="20241224190000 +0000" channel="Bloomberg Originals.starhub">
         <title>Regenerate</title>
+    </programme>
+    <programme start="20241224190000 +0000" stop="20241224200000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Nourish</title>
+    </programme>
+    <programme start="20241224200000 +0000" stop="20241224203000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
+    </programme>
+    <programme start="20241224203000 +0000" stop="20241224210000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
     </programme>
     <programme start="20241221232000 +0000" stop="20241222004500 +0000" channel="Karisma.starhub">
         <title>Bisa Bisanya Gue Naksir Mas Susu</title>
