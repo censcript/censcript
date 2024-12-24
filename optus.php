@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241224153000 +0000" stop="20241224160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Cole Palmer</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Ipswich v Bristol Rovers</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 5.optus">
+        <title>FA Cup - Newcastle United v Bromley</title>
     </programme>
 </tv>
