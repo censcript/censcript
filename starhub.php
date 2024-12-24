@@ -6409,7 +6409,7 @@
         <title>Round 2</title>
     </programme>
     <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>FA Community Shield 2024 Manchester United vs Manchester City</title>
+        <title>Manchester United vs Manchester City</title>
     </programme>
     <programme start="20241225060000 +0000" stop="20241225083000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>CONMEBOL Copa America 2024 Final: Argentina vs Colombia</title>
@@ -6502,7 +6502,7 @@
         <title>#1223</title>
     </programme>
     <programme start="20241227011500 +0000" stop="20241227043000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 Seattle Seahawks vs Chicago Bears (Live)</title>
     </programme>
     <programme start="20241227043000 +0000" stop="20241227050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 16</title>
@@ -6553,7 +6553,7 @@
         <title>FIA Middle East Bajas Cup - Dubai International Baja Day 3 Highlights</title>
     </programme>
     <programme start="20241227183000 +0000" stop="20241227213000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 Seattle Seahawks vs Chicago Bears</title>
     </programme>
     <programme start="20241227213000 +0000" stop="20241227233000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R10: Adelaide United vs Western Sydney Wanderers FC</title>
@@ -9853,6 +9853,24 @@
         <title>Day 5</title>
     </programme>
     <programme start="20241229160000 +0000" stop="20241229180000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241229180000 +0000" stop="20241229194500 +0000" channel="SPOTV2.starhub">
+        <title>Women Short Program</title>
+    </programme>
+    <programme start="20241229194500 +0000" stop="20241229214500 +0000" channel="SPOTV2.starhub">
+        <title>Men Short Program</title>
+    </programme>
+    <programme start="20241229214500 +0000" stop="20241229231500 +0000" channel="SPOTV2.starhub">
+        <title>Pairs Short Program</title>
+    </programme>
+    <programme start="20241229231500 +0000" stop="20241230001500 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241230001500 +0000" stop="20241230024500 +0000" channel="SPOTV2.starhub">
+        <title>2024 Globe Soccer Dubai Awards</title>
+    </programme>
+    <programme start="20241230024500 +0000" stop="20241230031500 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20241222230000 +0000" stop="20241223020000 +0000" channel="Bloomberg Originals.starhub">
@@ -16068,6 +16086,24 @@
     <programme start="20250105130000 +0000" stop="20250105160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Sentry Round 3</title>
     </programme>
+    <programme start="20250105160000 +0000" stop="20250105210000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105210000 +0000" stop="20250106010000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The Sentry Round 4</title>
+    </programme>
+    <programme start="20250106010000 +0000" stop="20250106040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106110000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>International Series Thailand</title>
+    </programme>
+    <programme start="20250106110000 +0000" stop="20250106120000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>BNI Indonesian Masters</title>
+    </programme>
     <programme start="20241223000000 +0000" stop="20241223010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (23/12/24 Pt2)</title>
     </programme>
@@ -17947,7 +17983,7 @@
         <title>Kaalathai Vendra Ganangal</title>
     </programme>
     <programme start="20241225010000 +0000" stop="20241225040000 +0000" channel="Vannathirai.starhub">
-        <title>Naan Petra Selvam</title>
+        <title>Kaaviya Kaalai</title>
     </programme>
     <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="Vannathirai.starhub">
         <title>Comedy Galatta</title>
@@ -17956,7 +17992,7 @@
         <title>Naalu Perukku Nandri</title>
     </programme>
     <programme start="20241225080000 +0000" stop="20241225110000 +0000" channel="Vannathirai.starhub">
-        <title>Manaivy Solle Manthiram</title>
+        <title>Pon Maalai</title>
     </programme>
     <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
@@ -17968,7 +18004,7 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20241225130000 +0000" stop="20241225160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai - Chinna Maapala</title>
+        <title>Hit Thirai</title>
     </programme>
     <programme start="20241225160000 +0000" stop="20241225190000 +0000" channel="Vannathirai.starhub">
         <title>Nenjam Undu Nermai Undu</title>
@@ -22449,6 +22485,9 @@
     <programme start="20241224233000 +0000" stop="20241225003000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 1 - 16* (Ronnie O&#039;Sullivan v Jackson Page)</title>
     </programme>
+    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Criterium - Singapore Criterium by Le Tour de France Final Highlights</title>
+    </programme>
     <programme start="20241225013000 +0000" stop="20241225043000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Round 2</title>
     </programme>
@@ -22664,9 +22703,6 @@
     </programme>
     <programme start="20241229230000 +0000" stop="20241229233000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>acciona Open de España presented by Madrid</title>
-    </programme>
-    <programme start="20241229233000 +0000" stop="20241230010000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASB Classic (250) Final</title>
     </programme>
     <programme start="20241223000000 +0000" stop="20241223003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
@@ -30669,6 +30705,90 @@
     <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109160000 +0000" stop="20250109185000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109185000 +0000" stop="20250109210000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Sheffield United vs Cardiff City (Live)</title>
+    </programme>
+    <programme start="20250109210000 +0000" stop="20250109220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109220000 +0000" stop="20250110040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110040000 +0000" stop="20250110100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111115000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111115000 +0000" stop="20250111140000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Middlesbrough vs Blackburn Rovers (Live)</title>
+    </programme>
+    <programme start="20250111140000 +0000" stop="20250111145000 +0000" channel="Hub Sports 7.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20250111145000 +0000" stop="20250111170000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Norwich City vs Brighton &amp; Hove Albion (Live)</title>
+    </programme>
+    <programme start="20250111170000 +0000" stop="20250111175000 +0000" channel="Hub Sports 7.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20250111175000 +0000" stop="20250111200000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Coventry City vs Sheffield Wednesday (Live)</title>
+    </programme>
+    <programme start="20250111200000 +0000" stop="20250111220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112040000 +0000" stop="20250112100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112145000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112170000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Crystal Palace vs Stockport County (Live)</title>
+    </programme>
+    <programme start="20250112170000 +0000" stop="20250112220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241222220000 +0000" stop="20241223040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32188,6 +32308,72 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112040000 +0000" stop="20250112100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112160000 +0000" stop="20250112220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114160000 +0000" stop="20250114192000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114192000 +0000" stop="20250114213000 +0000" channel="Hub Premier 5.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250114213000 +0000" stop="20250114220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115040000 +0000" stop="20250115100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115100000 +0000" stop="20250115160000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241222220000 +0000" stop="20241223040000 +0000" channel="beIN Sports 4.starhub">
