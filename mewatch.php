@@ -976,10 +976,10 @@
         <title>No programme available now. Next broadcast on 25th December, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20241223160000 +0000" stop="20241224160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 10th January, Friday 8.30pm. ONE Friday Fights 93</title>
+        <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
     </programme>
     <programme start="20241224160000 +0000" stop="20241225160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 10th January, Friday 8.30pm. ONE Friday Fights 93</title>
+        <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
     </programme>
     <programme start="20241223160000 +0000" stop="20241224160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 26th December, Thursday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Singapore vs Vietnam</title>
