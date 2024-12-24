@@ -295,7 +295,7 @@
         <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20241224230000 +0000" stop="20241224233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Conversation</title>
+        <title>Sustainable Future</title>
     </programme>
     <programme start="20241224233000 +0000" stop="20241225003000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Autobizz</title>
@@ -303,56 +303,56 @@
     <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241225010000 +0000" stop="20241225030000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Squawk Box</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225053000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>UOB Economic Outlook 2025</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Central Banking</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225062300 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Central Banking</title>
-    </programme>
-    <programme start="20241225062300 +0000" stop="20241225070000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Money Talks</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225090000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Road To CNBC Indonesia Awards 2024</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Big Stories Of The Week</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225110500 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241225033000 +0000" stop="20241225053000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit</title>
+    </programme>
+    <programme start="20241225053000 +0000" stop="20241225073000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Number&#039;s Bite</title>
+    </programme>
+    <programme start="20241225080000 +0000" stop="20241225100000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Big Stories Of The Week</title>
+    </programme>
+    <programme start="20241225103000 +0000" stop="20241225113000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Evening Up</title>
     </programme>
-    <programme start="20241225110500 +0000" stop="20241225120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point</title>
+    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Big Stories Of The Week</title>
     </programme>
     <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>BUMN Performance Report 2024</title>
+        <title>IPO Watch</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>BUMN Performance Report 2024</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>BUMN Performance Report 2024</title>
+    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Investime Pilihan</title>
     </programme>
     <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>BUMN Performance Report 2024</title>
+        <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>BUMN Performance Report 2024</title>
+        <title>Big Stories Of The Week</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241224183000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>UOB Economic Outlook 2025</title>
+    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Big Stories Of The Week</title>
+    </programme>
+    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20241225160000 +0000" stop="20241224170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Investime Pilihan</title>
     </programme>
     <programme start="20241224170000 +0000" stop="20241224183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Awas Ada Pacar Galak!</title>
@@ -1650,11 +1650,8 @@
     <programme start="20241225153000 +0000" stop="20241224170000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20241224173000 +0000" stop="20241224183000 +0000" channel="ANTV.cubmu">
+    <programme start="20241224173000 +0000" stop="20241224190000 +0000" channel="ANTV.cubmu">
         <title>Jodoh Wasiat Bapak Babak 2</title>
-    </programme>
-    <programme start="20241224183000 +0000" stop="20241224190000 +0000" channel="ANTV.cubmu">
-        <title>AB Shop Home Shopping</title>
     </programme>
     <programme start="20241224190000 +0000" stop="20241224203000 +0000" channel="ANTV.cubmu">
         <title>Kun Fayakun</title>
@@ -1672,28 +1669,28 @@
         <title>Firasat</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225020000 +0000" channel="ANTV.cubmu">
-        <title>Jodoh Wasiat Bapak Babak 2</title>
+        <title>Mr. Bean</title>
     </programme>
     <programme start="20241225020000 +0000" stop="20241225053000 +0000" channel="ANTV.cubmu">
-        <title>Mega Bollywood</title>
+        <title>Mega Bollywood : Kuch Kuch Hota Hai</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225070000 +0000" channel="ANTV.cubmu">
+    <programme start="20241225053000 +0000" stop="20241225063000 +0000" channel="ANTV.cubmu">
+        <title>Dua Hati Satu Cinta</title>
+    </programme>
+    <programme start="20241225063000 +0000" stop="20241225080000 +0000" channel="ANTV.cubmu">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225090000 +0000" channel="ANTV.cubmu">
+    <programme start="20241225080000 +0000" stop="20241225113000 +0000" channel="ANTV.cubmu">
         <title>Janji Cinta Inspektur Virat</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225113000 +0000" channel="ANTV.cubmu">
-        <title>Dua Hati Satu Cinta</title>
     </programme>
     <programme start="20241225113000 +0000" stop="20241225133000 +0000" channel="ANTV.cubmu">
         <title>Aini Malaikat Tak Bersayap</title>
     </programme>
     <programme start="20241225133000 +0000" stop="20241225153000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Laga Klasik</title>
+        <title>Sinema Spesial : Jodoh Boleh Diatur</title>
     </programme>
     <programme start="20241225153000 +0000" stop="20241224173000 +0000" channel="ANTV.cubmu">
-        <title>Jodoh Wasiat Bapak Babak 2</title>
+        <title>Sinema Spesial : Get Married 3</title>
     </programme>
     <programme start="20241224170000 +0000" stop="20241224230000 +0000" channel="Jak tv.cubmu">
         <title>Sign Off</title>
@@ -1854,8 +1851,17 @@
     <programme start="20241224170000 +0000" stop="20241224173000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sport Malam</title>
     </programme>
+    <programme start="20241224170000 +0000" stop="20241224173000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Sport Malam</title>
+    </programme>
     <programme start="20241224173000 +0000" stop="20241224183000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
+    </programme>
+    <programme start="20241224173000 +0000" stop="20241224183000 +0000" channel="Kompas TV.cubmu">
+        <title>Indonesia Update</title>
+    </programme>
+    <programme start="20241224183000 +0000" stop="20241224190000 +0000" channel="Kompas TV.cubmu">
+        <title>Jurnal Merah Putih</title>
     </programme>
     <programme start="20241224183000 +0000" stop="20241224190000 +0000" channel="Kompas TV.cubmu">
         <title>Jurnal Merah Putih</title>
@@ -1863,8 +1869,17 @@
     <programme start="20241224190000 +0000" stop="20241224200000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
+    <programme start="20241224190000 +0000" stop="20241224200000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
     <programme start="20241224200000 +0000" stop="20241224210000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Malam</title>
+    </programme>
+    <programme start="20241224200000 +0000" stop="20241224210000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Malam</title>
+    </programme>
+    <programme start="20241224210000 +0000" stop="20241224220000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Sport Pagi</title>
     </programme>
     <programme start="20241224210000 +0000" stop="20241224220000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sport Pagi</title>
@@ -1872,8 +1887,17 @@
     <programme start="20241224220000 +0000" stop="20241225000000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Pagi</title>
     </programme>
+    <programme start="20241224220000 +0000" stop="20241225000000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Pagi</title>
+    </programme>
     <programme start="20241225000000 +0000" stop="20241225023000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Pagi Spesial Natal</title>
+    </programme>
+    <programme start="20241225000000 +0000" stop="20241225023000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Pagi Spesial Natal</title>
+    </programme>
+    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="Kompas TV.cubmu">
+        <title>Just For Laughs Gags</title>
     </programme>
     <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="Kompas TV.cubmu">
         <title>Just For Laughs Gags</title>
@@ -1881,8 +1905,17 @@
     <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
+    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
     <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Siang</title>
+    </programme>
+    <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Siang</title>
+    </programme>
+    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Siang</title>
     </programme>
     <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Siang</title>
@@ -1890,8 +1923,17 @@
     <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Kompas TV.cubmu">
         <title>Jurnal Merah Putih</title>
     </programme>
+    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Kompas TV.cubmu">
+        <title>Jurnal Merah Putih</title>
+    </programme>
     <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
+    </programme>
+    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="Kompas TV.cubmu">
+        <title>Indonesia Update</title>
+    </programme>
+    <programme start="20241225090000 +0000" stop="20241225103000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Petang</title>
     </programme>
     <programme start="20241225090000 +0000" stop="20241225103000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Petang</title>
@@ -1899,8 +1941,17 @@
     <programme start="20241225103000 +0000" stop="20241225123000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Malam</title>
     </programme>
+    <programme start="20241225103000 +0000" stop="20241225123000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Malam</title>
+    </programme>
     <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
+    </programme>
+    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
+    <programme start="20241225133000 +0000" stop="20241225143000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Malam</title>
     </programme>
     <programme start="20241225133000 +0000" stop="20241225143000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Malam</title>
@@ -1908,14 +1959,29 @@
     <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Kompas TV.cubmu">
         <title>Sasaran</title>
     </programme>
+    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Kompas TV.cubmu">
+        <title>Sasaran</title>
+    </programme>
+    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Kompas TV.cubmu">
+        <title>Indonesia Update</title>
+    </programme>
     <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
     </programme>
     <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Kompas TV.cubmu">
         <title>Just For Laughs Gags</title>
     </programme>
+    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Kompas TV.cubmu">
+        <title>Just For Laughs Gags</title>
+    </programme>
     <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Kompas TV.cubmu">
         <title>Just For Laughs Gags</title>
+    </programme>
+    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Kompas TV.cubmu">
+        <title>Just For Laughs Gags</title>
+    </programme>
+    <programme start="20241225163000 +0000" stop="20241224170000 +0000" channel="Kompas TV.cubmu">
+        <title>Kilas Kompas</title>
     </programme>
     <programme start="20241225163000 +0000" stop="20241224170000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
@@ -1981,7 +2047,7 @@
         <title>Monitor Olahraga</title>
     </programme>
     <programme start="20241224173000 +0000" stop="20241224203000 +0000" channel="TVRI.cubmu">
-        <title>Program Olahraga</title>
+        <title>Antar Gelanggang</title>
     </programme>
     <programme start="20241224203000 +0000" stop="20241224210000 +0000" channel="TVRI.cubmu">
         <title>Inspirasi Indonesia</title>
@@ -2029,10 +2095,10 @@
         <title>Klik Indonesia Siang</title>
     </programme>
     <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="TVRI.cubmu">
-        <title>Oase Indonesia</title>
+        <title>Indonesia Bergerak</title>
     </programme>
     <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="TVRI.cubmu">
-        <title>Ayo Bertani</title>
+        <title>Bertani Itu Keren</title>
     </programme>
     <programme start="20241225070000 +0000" stop="20241225070300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
@@ -2047,19 +2113,16 @@
         <title>Info Terkini</title>
     </programme>
     <programme start="20241225080300 +0000" stop="20241225083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Budha</title>
+        <title>Mimbar Agama Kristen Protestan</title>
     </programme>
     <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="TVRI.cubmu">
-        <title>Jelajah Negeri</title>
+        <title>Tapal Batas</title>
     </programme>
     <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="TVRI.cubmu">
-        <title>Urban Street</title>
+        <title>Pengen Beken</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="TVRI.cubmu">
-        <title>Pilihan Rakyat</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="TVRI.cubmu">
-        <title>Sketsa Pilkada</title>
+    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Rumah Kita Reborn</title>
     </programme>
     <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Petang</title>
@@ -2068,7 +2131,7 @@
         <title>Indonesia Bicara</title>
     </programme>
     <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="TVRI.cubmu">
-        <title>Bunga Khatulistiwa</title>
+        <title>Warung Pengkolan</title>
     </programme>
     <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="TVRI.cubmu">
         <title>Dunia Dalam Berita</title>
@@ -2077,7 +2140,7 @@
         <title>News Watch</title>
     </programme>
     <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="TVRI.cubmu">
-        <title>Irama Gambus</title>
+        <title>Jazz Corner</title>
     </programme>
     <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="TVRI.cubmu">
         <title>Flashback</title>
