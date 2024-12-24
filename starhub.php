@@ -14721,11 +14721,14 @@
     <programme start="20241224180000 +0000" stop="20241225002000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+    <programme start="20241225002000 +0000" stop="20241225050000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
     </programme>
     <programme start="20241225050000 +0000" stop="20241225100000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
+    </programme>
+    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="SPOTV.starhub">
+        <title>Round 4 Highlights</title>
     </programme>
     <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
@@ -14739,14 +14742,17 @@
     <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="SPOTV.starhub">
         <title>Review</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225230000 +0000" channel="SPOTV.starhub">
+    <programme start="20241225180000 +0000" stop="20241226000000 +0000" channel="SPOTV.starhub">
         <title>Day 6 Finals</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226040000 +0000" channel="SPOTV.starhub">
+    <programme start="20241226000000 +0000" stop="20241226040000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20241226040000 +0000" stop="20241226090000 +0000" channel="SPOTV.starhub">
-        <title>D9 Uber Cup Finals - CHN vs INA</title>
+    <programme start="20241226040000 +0000" stop="20241226073000 +0000" channel="SPOTV.starhub">
+        <title>TotalEnergies BWF Thomas &amp; Uber Cup Finals CHENGDU 2024 D9 Uber Cup Finals - CHN</title>
+    </programme>
+    <programme start="20241226073000 +0000" stop="20241226090000 +0000" channel="SPOTV.starhub">
+        <title>Episode 07</title>
     </programme>
     <programme start="20241226090000 +0000" stop="20241226113000 +0000" channel="SPOTV.starhub">
         <title>Finals</title>
@@ -14760,10 +14766,10 @@
     <programme start="20241226141500 +0000" stop="20241226180000 +0000" channel="SPOTV.starhub">
         <title>Finals</title>
     </programme>
-    <programme start="20241226180000 +0000" stop="20241226230000 +0000" channel="SPOTV.starhub">
+    <programme start="20241226180000 +0000" stop="20241226233000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
     </programme>
-    <programme start="20241226230000 +0000" stop="20241227040000 +0000" channel="SPOTV.starhub">
+    <programme start="20241226233000 +0000" stop="20241227040000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
     <programme start="20241227040000 +0000" stop="20241227090000 +0000" channel="SPOTV.starhub">
@@ -14787,26 +14793,23 @@
     <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="SPOTV.starhub">
         <title>Ep 24</title>
     </programme>
-    <programme start="20241227180000 +0000" stop="20241227233000 +0000" channel="SPOTV.starhub">
+    <programme start="20241227180000 +0000" stop="20241228003000 +0000" channel="SPOTV.starhub">
         <title>Day 6 Finals</title>
     </programme>
-    <programme start="20241227233000 +0000" stop="20241228050000 +0000" channel="SPOTV.starhub">
+    <programme start="20241228003000 +0000" stop="20241228063000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>
     </programme>
-    <programme start="20241228050000 +0000" stop="20241228073000 +0000" channel="SPOTV.starhub">
-        <title>Recurve Women</title>
-    </programme>
-    <programme start="20241228073000 +0000" stop="20241228123000 +0000" channel="SPOTV.starhub">
-        <title>Day 5 Finals</title>
-    </programme>
-    <programme start="20241228123000 +0000" stop="20241228160000 +0000" channel="SPOTV.starhub">
-        <title>Los Angeles Dodgers vs New York Yankees</title>
-    </programme>
-    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="SPOTV.starhub">
+    <programme start="20241228063000 +0000" stop="20241228073000 +0000" channel="SPOTV.starhub">
         <title>Round 4 Highlights</title>
     </programme>
-    <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+    <programme start="20241228073000 +0000" stop="20241228130000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228163000 +0000" channel="SPOTV.starhub">
+        <title>Los Angeles Dodgers vs New York Yankees</title>
+    </programme>
+    <programme start="20241228163000 +0000" stop="20241228180000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
     </programme>
     <programme start="20241228180000 +0000" stop="20241228230000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
@@ -14814,11 +14817,11 @@
     <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SPOTV.starhub">
         <title>Pre Show</title>
     </programme>
-    <programme start="20241228233000 +0000" stop="20241229053000 +0000" channel="SPOTV.starhub">
+    <programme start="20241228233000 +0000" stop="20241229070000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>
     </programme>
-    <programme start="20241229053000 +0000" stop="20241229080000 +0000" channel="SPOTV.starhub">
-        <title>Recurve Men</title>
+    <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20241229080000 +0000" stop="20241229130000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
@@ -14901,8 +14904,8 @@
     <programme start="20250101113000 +0000" stop="20250101163000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250101163000 +0000" stop="20250101180000 +0000" channel="SPOTV.starhub">
-        <title>Episode 07</title>
+    <programme start="20250101163000 +0000" stop="20250101170000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
     </programme>
     <programme start="20241222234000 +0000" stop="20241223003000 +0000" channel="ONE HD.starhub">
         <title>The Brave Yongsujung</title>
@@ -25023,6 +25026,87 @@
     <programme start="20250103110500 +0000" stop="20250103190500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 2</title>
     </programme>
+    <programme start="20250103190500 +0000" stop="20250103220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103220000 +0000" stop="20250104000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104000000 +0000" stop="20250104040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M13 - Adelaide Strikers vs Hobart Hurricanes</title>
+    </programme>
+    <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M18 - Hobart Hurricanes vs Sydney Sixers</title>
+    </programme>
+    <programme start="20250104080000 +0000" stop="20250104121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M23 - Melbourne Stars vs Melbourne Renegades</title>
+    </programme>
+    <programme start="20250104121500 +0000" stop="20250104201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 3</title>
+    </programme>
+    <programme start="20250104201500 +0000" stop="20250104220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104220000 +0000" stop="20250105000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M14 - Melbourne Stars vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M19 - Brisbane Heat vs Melbourne Stars</title>
+    </programme>
+    <programme start="20250105080000 +0000" stop="20250105121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M24 - Hobart Hurricanes vs Adelaide Strikers</title>
+    </programme>
+    <programme start="20250105121500 +0000" stop="20250105201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
+    </programme>
+    <programme start="20250105201500 +0000" stop="20250105220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106000000 +0000" stop="20250106040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M15 - Brisbane Heat vs Sydney Sixers</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M20 - Melbourne Renegades vs Adelaide Strikers</title>
+    </programme>
+    <programme start="20250106080000 +0000" stop="20250106121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M25 - Brisbane Heat vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250106121500 +0000" stop="20250106201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 2</title>
+    </programme>
+    <programme start="20250106201500 +0000" stop="20250106220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107000000 +0000" stop="20250107040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M16 - Sydney Thunder vs Melbourne Renedages</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M21 - Sydney Sixers vs Brisbane Heat</title>
+    </programme>
+    <programme start="20250107080000 +0000" stop="20250107121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M26 - Perth Scorchers vs Melbourne Renegades</title>
+    </programme>
+    <programme start="20250107121500 +0000" stop="20250107201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
+    </programme>
+    <programme start="20250107201500 +0000" stop="20250107220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108000000 +0000" stop="20250108040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M17 - Adelaide Strikers vs Perth Scorchers</title>
+    </programme>
     <programme start="20241223000000 +0000" stop="20241223010000 +0000" channel="TVB Xing He.starhub">
         <title>Life Made Simple</title>
     </programme>
@@ -29473,7 +29557,7 @@
         <title>Round 2</title>
     </programme>
     <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="TestChannel 995.starhub">
-        <title>FA Community Shield 2024 Manchester United vs Manchester City</title>
+        <title>Manchester United vs Manchester City</title>
     </programme>
     <programme start="20241225060000 +0000" stop="20241225083000 +0000" channel="TestChannel 995.starhub">
         <title>CONMEBOL Copa America 2024 Final: Argentina vs Colombia</title>
@@ -29566,7 +29650,7 @@
         <title>#1223</title>
     </programme>
     <programme start="20241227011500 +0000" stop="20241227043000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 Seattle Seahawks vs Chicago Bears (Live)</title>
     </programme>
     <programme start="20241227043000 +0000" stop="20241227050000 +0000" channel="TestChannel 995.starhub">
         <title>Week 16</title>
@@ -29617,7 +29701,7 @@
         <title>FIA Middle East Bajas Cup - Dubai International Baja Day 3 Highlights</title>
     </programme>
     <programme start="20241227183000 +0000" stop="20241227213000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 Seattle Seahawks vs Chicago Bears</title>
     </programme>
     <programme start="20241227213000 +0000" stop="20241227233000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R10: Adelaide United vs Western Sydney Wanderers FC</title>
@@ -30930,6 +31014,165 @@
     <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250103160000 +0000" stop="20250103220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103220000 +0000" stop="20250104040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104040000 +0000" stop="20250104100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104100000 +0000" stop="20250104160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104160000 +0000" stop="20250104220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104220000 +0000" stop="20250105040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105040000 +0000" stop="20250105100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105160000 +0000" stop="20250105220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107160000 +0000" stop="20250107220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109160000 +0000" stop="20250109193500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109193500 +0000" stop="20250109214500 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Everton vs Peterborough United</title>
+    </programme>
+    <programme start="20250109214500 +0000" stop="20250109220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109220000 +0000" stop="20250110040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110040000 +0000" stop="20250110100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110193500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110193500 +0000" stop="20250110214500 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Wycombe Wanderers vs Portsmouth</title>
+    </programme>
+    <programme start="20250110214500 +0000" stop="20250110220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111050000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111050000 +0000" stop="20250111080000 +0000" channel="Hub Sports 6.starhub">
+        <title>Webex Players Series Perth Round 3</title>
+    </programme>
+    <programme start="20250111080000 +0000" stop="20250111100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111115000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111115000 +0000" stop="20250111140000 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Bristol City vs Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250111140000 +0000" stop="20250111145000 +0000" channel="Hub Sports 6.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20250111145000 +0000" stop="20250111170000 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Nottingham Forest vs Luton Town</title>
+    </programme>
+    <programme start="20250111170000 +0000" stop="20250111173500 +0000" channel="Hub Sports 6.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20250111173500 +0000" stop="20250111194500 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Leeds United vs Harrogate Town</title>
+    </programme>
+    <programme start="20250111194500 +0000" stop="20250111220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250112030000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112030000 +0000" stop="20250112080000 +0000" channel="Hub Sports 6.starhub">
+        <title>Webex Players Series Perth Round 4</title>
+    </programme>
+    <programme start="20250112080000 +0000" stop="20250112100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112122000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112122000 +0000" stop="20250112143000 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Tamworth vs Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250112143000 +0000" stop="20250112145000 +0000" channel="Hub Sports 6.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112170000 +0000" channel="Hub Sports 6.starhub">
+        <title>R3: Newcastle United vs Bromley</title>
+    </programme>
+    <programme start="20250112170000 +0000" stop="20250112220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241222220000 +0000" stop="20241223040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31475,6 +31718,60 @@
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112040000 +0000" stop="20250112100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112160000 +0000" stop="20250112220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114160000 +0000" stop="20250114192000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114192000 +0000" stop="20250114213000 +0000" channel="Hub Premier 3.starhub">
+        <title>Premier League 2024/25</title>
     </programme>
     <programme start="20241222220000 +0000" stop="20241223040000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>

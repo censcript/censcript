@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241224090000 +0000" stop="20241224100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - 1 to 11 - Tony Adams</title>
-    </programme>
     <programme start="20241224153000 +0000" stop="20241224160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Crystal Palace v Stockport</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 3.optus">
+        <title>FA Cup - Ipswich v Bristol Rovers</title>
     </programme>
 </tv>
