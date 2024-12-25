@@ -1896,17 +1896,8 @@
     <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sport Malam</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Sport Malam</title>
-    </programme>
     <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="Kompas TV.cubmu">
-        <title>Indonesia Update</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Kompas TV.cubmu">
-        <title>Jurnal Merah Putih</title>
     </programme>
     <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Kompas TV.cubmu">
         <title>Jurnal Merah Putih</title>
@@ -1914,17 +1905,8 @@
     <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Kompas TV.cubmu">
-        <title>Berita Utama</title>
-    </programme>
     <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Malam</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Malam</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Sport Pagi</title>
     </programme>
     <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sport Pagi</title>
@@ -1932,17 +1914,8 @@
     <programme start="20241225220000 +0000" stop="20241226000000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Pagi</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241226000000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Pagi</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226023000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Pagi</title>
-    </programme>
-    <programme start="20241226000000 +0000" stop="20241226023000 +0000" channel="Kompas TV.cubmu">
-        <title>Sapa Indonesia Pagi</title>
-    </programme>
-    <programme start="20241226023000 +0000" stop="20241226030000 +0000" channel="Kompas TV.cubmu">
-        <title>Just For Laughs Gags</title>
     </programme>
     <programme start="20241226023000 +0000" stop="20241226030000 +0000" channel="Kompas TV.cubmu">
         <title>Just For Laughs Gags</title>
@@ -1950,17 +1923,8 @@
     <programme start="20241226030000 +0000" stop="20241226040000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
-    <programme start="20241226030000 +0000" stop="20241226040000 +0000" channel="Kompas TV.cubmu">
-        <title>Berita Utama</title>
-    </programme>
     <programme start="20241226040000 +0000" stop="20241226060000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Siang</title>
-    </programme>
-    <programme start="20241226040000 +0000" stop="20241226060000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Siang</title>
-    </programme>
-    <programme start="20241226060000 +0000" stop="20241226070000 +0000" channel="Kompas TV.cubmu">
-        <title>Sapa Indonesia Siang</title>
     </programme>
     <programme start="20241226060000 +0000" stop="20241226070000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Siang</title>
@@ -1968,17 +1932,8 @@
     <programme start="20241226070000 +0000" stop="20241226073000 +0000" channel="Kompas TV.cubmu">
         <title>Sasaran</title>
     </programme>
-    <programme start="20241226070000 +0000" stop="20241226073000 +0000" channel="Kompas TV.cubmu">
-        <title>Sasaran</title>
-    </programme>
     <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="Kompas TV.cubmu">
         <title>Jurnal Merah Putih</title>
-    </programme>
-    <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="Kompas TV.cubmu">
-        <title>Jurnal Merah Putih</title>
-    </programme>
-    <programme start="20241226080000 +0000" stop="20241226090000 +0000" channel="Kompas TV.cubmu">
-        <title>Indonesia Update</title>
     </programme>
     <programme start="20241226080000 +0000" stop="20241226090000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
@@ -1986,17 +1941,8 @@
     <programme start="20241226090000 +0000" stop="20241226103000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Petang</title>
     </programme>
-    <programme start="20241226090000 +0000" stop="20241226103000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Petang</title>
-    </programme>
     <programme start="20241226103000 +0000" stop="20241226123000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Malam</title>
-    </programme>
-    <programme start="20241226103000 +0000" stop="20241226123000 +0000" channel="Kompas TV.cubmu">
-        <title>Sapa Indonesia Malam</title>
-    </programme>
-    <programme start="20241226123000 +0000" stop="20241226133000 +0000" channel="Kompas TV.cubmu">
-        <title>Berita Utama</title>
     </programme>
     <programme start="20241226123000 +0000" stop="20241226133000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
@@ -2004,23 +1950,11 @@
     <programme start="20241226133000 +0000" stop="20241226143000 +0000" channel="Kompas TV.cubmu">
         <title>Rosi</title>
     </programme>
-    <programme start="20241226133000 +0000" stop="20241226143000 +0000" channel="Kompas TV.cubmu">
-        <title>Rosi</title>
-    </programme>
-    <programme start="20241226143000 +0000" stop="20241226153000 +0000" channel="Kompas TV.cubmu">
-        <title>Kompas Malam</title>
-    </programme>
     <programme start="20241226143000 +0000" stop="20241226153000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Malam</title>
     </programme>
     <programme start="20241226153000 +0000" stop="20241226163000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
-    </programme>
-    <programme start="20241226153000 +0000" stop="20241226163000 +0000" channel="Kompas TV.cubmu">
-        <title>Berita Utama</title>
-    </programme>
-    <programme start="20241226163000 +0000" stop="20241225170000 +0000" channel="Kompas TV.cubmu">
-        <title>Kilas Kompas</title>
     </programme>
     <programme start="20241226163000 +0000" stop="20241225170000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
