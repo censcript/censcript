@@ -1029,6 +1029,9 @@
     <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="Indosiar.vidio">
         <title>Fokus Akhir Tahun 2024</title>
     </programme>
+    <programme start="20241228213000 +0000" stop="20241228230000 +0000" channel="Indosiar.vidio">
+        <title>Fokus Pagi</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1493,6 +1496,9 @@
     </programme>
     <programme start="20241228203000 +0000" stop="20241228220000 +0000" channel="Moji.vidio">
         <title>Livoli Divisi Utama Putra</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228231500 +0000" channel="Moji.vidio">
+        <title>Moji Sport</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -59342,5 +59348,11 @@
     </programme>
     <programme start="20241228203000 +0000" stop="20241228213000 +0000" channel="Ajwa.vidio">
         <title>Live Makkah</title>
+    </programme>
+    <programme start="20241228213000 +0000" stop="20241228220000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Subuh Dari Masjid Istiqlal + Mutiara Hati Subuh Quraish Shihab 2023</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
     </programme>
 </tv>
