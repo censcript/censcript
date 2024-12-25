@@ -34419,6 +34419,150 @@
     <programme start="20241230233000 +0000" stop="20241231000000 +0000" channel="DW English.vidio">
         <title>Close Up - The Current Affairs Documentary</title>
     </programme>
+    <programme start="20241231000000 +0000" stop="20241231001500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231001500 +0000" stop="20241231003000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231003000 +0000" stop="20241231010000 +0000" channel="DW English.vidio">
+        <title>Eco Africa</title>
+    </programme>
+    <programme start="20241231010000 +0000" stop="20241231011500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231011500 +0000" stop="20241231020000 +0000" channel="DW English.vidio">
+        <title>Yellowstone, America&#039;s Ticking Bomb</title>
+    </programme>
+    <programme start="20241231020000 +0000" stop="20241231021500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231021500 +0000" stop="20241231023000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231023000 +0000" stop="20241231030000 +0000" channel="DW English.vidio">
+        <title>REV - The Global Auto and Mobility Show</title>
+    </programme>
+    <programme start="20241231030000 +0000" stop="20241231031500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231031500 +0000" stop="20241231033000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231033000 +0000" stop="20241231040000 +0000" channel="DW English.vidio">
+        <title>Close Up - The Current Affairs Documentary</title>
+    </programme>
+    <programme start="20241231040000 +0000" stop="20241231041500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231041500 +0000" stop="20241231050000 +0000" channel="DW English.vidio">
+        <title>Yellowstone, America&#039;s Ticking Bomb</title>
+    </programme>
+    <programme start="20241231050000 +0000" stop="20241231051500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231051500 +0000" stop="20241231053000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231053000 +0000" stop="20241231060000 +0000" channel="DW English.vidio">
+        <title>Eco India - The Environment Magazine</title>
+    </programme>
+    <programme start="20241231060000 +0000" stop="20241231061500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231061500 +0000" stop="20241231063000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231063000 +0000" stop="20241231070000 +0000" channel="DW English.vidio">
+        <title>New Home Brazil: 200 Years of German Immigration, Part 2 : Arts Unveiled</title>
+    </programme>
+    <programme start="20241231070000 +0000" stop="20241231071500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231071500 +0000" stop="20241231080000 +0000" channel="DW English.vidio">
+        <title>Fake Steak - The Taste of Future Food : DocFilm</title>
+    </programme>
+    <programme start="20241231080000 +0000" stop="20241231081500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231081500 +0000" stop="20241231083000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231083000 +0000" stop="20241231090000 +0000" channel="DW English.vidio">
+        <title>Eco Africa</title>
+    </programme>
+    <programme start="20241231090000 +0000" stop="20241231091500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231091500 +0000" stop="20241231094500 +0000" channel="DW English.vidio">
+        <title>Close Up - The Current Affairs Documentary</title>
+    </programme>
+    <programme start="20241231094500 +0000" stop="20241231100000 +0000" channel="DW English.vidio">
+        <title>Reporter - On Location</title>
+    </programme>
+    <programme start="20241231100000 +0000" stop="20241231101500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231101500 +0000" stop="20241231103000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231103000 +0000" stop="20241231110000 +0000" channel="DW English.vidio">
+        <title>Tomorrow Today - The Science Magazine</title>
+    </programme>
+    <programme start="20241231110000 +0000" stop="20241231111500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231111500 +0000" stop="20241231113000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231113000 +0000" stop="20241231120000 +0000" channel="DW English.vidio">
+        <title>The health benefits of love and relationships : In Good Shape</title>
+    </programme>
+    <programme start="20241231120000 +0000" stop="20241231121500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231121500 +0000" stop="20241231124500 +0000" channel="DW English.vidio">
+        <title>Close Up - The Current Affairs Documentary</title>
+    </programme>
+    <programme start="20241231124500 +0000" stop="20241231130000 +0000" channel="DW English.vidio">
+        <title>How Is Artificial Intelligence Changing Football? : Shift</title>
+    </programme>
+    <programme start="20241231130000 +0000" stop="20241231131500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231131500 +0000" stop="20241231133000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231133000 +0000" stop="20241231140000 +0000" channel="DW English.vidio">
+        <title>Eco India - The Environment Magazine</title>
+    </programme>
+    <programme start="20241231140000 +0000" stop="20241231141500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231141500 +0000" stop="20241231143000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231143000 +0000" stop="20241231150000 +0000" channel="DW English.vidio">
+        <title>Global Us - What Connects Us All</title>
+    </programme>
+    <programme start="20241231150000 +0000" stop="20241231151500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231151500 +0000" stop="20241231153000 +0000" channel="DW English.vidio">
+        <title>Best of DW-Online Content</title>
+    </programme>
+    <programme start="20241231153000 +0000" stop="20241231160000 +0000" channel="DW English.vidio">
+        <title>Eco Africa</title>
+    </programme>
+    <programme start="20241231160000 +0000" stop="20241231161500 +0000" channel="DW English.vidio">
+        <title>DW News</title>
+    </programme>
+    <programme start="20241231161500 +0000" stop="20241231164500 +0000" channel="DW English.vidio">
+        <title>Close Up - The Current Affairs Documentary</title>
+    </programme>
+    <programme start="20241231164500 +0000" stop="20241231170000 +0000" channel="DW English.vidio">
+        <title>Reporter - On Location</title>
+    </programme>
     <programme start="20241218173000 +0000" stop="20241218180000 +0000" channel="ABC Australia.vidio">
         <title>Australian Story</title>
     </programme>
@@ -39684,11 +39828,41 @@
     <programme start="20241231142500 +0000" stop="20241231143000 +0000" channel="NHK World Japan.vidio">
         <title>Kagoshima : Ramen Japan</title>
     </programme>
-    <programme start="20241231143000 +0000" stop="20241231163000 +0000" channel="NHK World Japan.vidio">
+    <programme start="20241231143000 +0000" stop="20241231150000 +0000" channel="NHK World Japan.vidio">
         <title>Helping Prosthetic Hand Users Become Choosers : Science View</title>
     </programme>
-    <programme start="20241231163000 +0000" stop="20241231203000 +0000" channel="NHK World Japan.vidio">
-        <title>To Be Announced</title>
+    <programme start="20241231150000 +0000" stop="20241231151000 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241231151000 +0000" stop="20241231151500 +0000" channel="NHK World Japan.vidio">
+        <title>BIZ STEREAM SPECIAL EDITION</title>
+    </programme>
+    <programme start="20241231151500 +0000" stop="20241231152300 +0000" channel="NHK World Japan.vidio">
+        <title>Newsline in Depth</title>
+    </programme>
+    <programme start="20241231152300 +0000" stop="20241231153000 +0000" channel="NHK World Japan.vidio">
+        <title>Beware of the Filter Bubble : Mice Media: Lessons in Internet Literacy</title>
+    </programme>
+    <programme start="20241231153000 +0000" stop="20241231160000 +0000" channel="NHK World Japan.vidio">
+        <title>Akita, Yamagata, Niigata: The Textiles and Traditions of Winter : Journeys in Japan</title>
+    </programme>
+    <programme start="20241231160000 +0000" stop="20241231161000 +0000" channel="NHK World Japan.vidio">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241231161000 +0000" stop="20241231161500 +0000" channel="NHK World Japan.vidio">
+        <title>Gyoza : Japan Delish</title>
+    </programme>
+    <programme start="20241231161500 +0000" stop="20241231163000 +0000" channel="NHK World Japan.vidio">
+        <title>Saving Lives with Toilets : Direct Talk</title>
+    </programme>
+    <programme start="20241231163000 +0000" stop="20241231164500 +0000" channel="NHK World Japan.vidio">
+        <title>Deeper Look</title>
+    </programme>
+    <programme start="20241231164500 +0000" stop="20241231165500 +0000" channel="NHK World Japan.vidio">
+        <title>Second Chances : Dig More Japan!</title>
+    </programme>
+    <programme start="20241231165500 +0000" stop="20241231170000 +0000" channel="NHK World Japan.vidio">
+        <title>Lesser Cold (Shoukan), The 24 Solar Terms : The Seasons of Yamato</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218180000 +0000" channel="News Asia.vidio">
         <title>Talking Point</title>
