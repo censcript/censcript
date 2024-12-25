@@ -543,6 +543,9 @@
     <programme start="20241228174500 +0000" stop="20241228193000 +0000" channel="SCTV.vidio">
         <title>Sinema Malam</title>
     </programme>
+    <programme start="20241228193000 +0000" stop="20241228230000 +0000" channel="SCTV.vidio">
+        <title>Cinta Karena Cinta</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -1020,6 +1023,9 @@
     <programme start="20241228180000 +0000" stop="20241228193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia</title>
     </programme>
+    <programme start="20241228193000 +0000" stop="20241228210000 +0000" channel="Indosiar.vidio">
+        <title>Mega Film Asia</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1481,6 +1487,9 @@
     </programme>
     <programme start="20241228183000 +0000" stop="20241228203000 +0000" channel="Moji.vidio">
         <title>Livoli Divisi Utama Putri</title>
+    </programme>
+    <programme start="20241228203000 +0000" stop="20241228220000 +0000" channel="Moji.vidio">
+        <title>Livoli Divisi Utama Putra</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -21531,10 +21540,10 @@
     <programme start="20241225140000 +0000" stop="20241225170000 +0000" channel="CTV 3.vidio">
         <title>Milwaukee Bucks vs. Oklahoma City Thunder : Baloncesto NBA</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225193000 +0000" channel="CTV 3.vidio">
+    <programme start="20241225170000 +0000" stop="20241225193100 +0000" channel="CTV 3.vidio">
         <title>San Antonio Spurs vs New York Knicks - NBA</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225220000 +0000" channel="CTV 3.vidio">
+    <programme start="20241225193100 +0000" stop="20241225220000 +0000" channel="CTV 3.vidio">
         <title>Minnesota Timberwolves vs Dallas Mavericks - NBA</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="CTV 3.vidio">
@@ -59326,6 +59335,9 @@
         <title>30 Hari 30 Juz</title>
     </programme>
     <programme start="20241228180000 +0000" stop="20241228203000 +0000" channel="Ajwa.vidio">
+        <title>Live Makkah</title>
+    </programme>
+    <programme start="20241228203000 +0000" stop="20241228213000 +0000" channel="Ajwa.vidio">
         <title>Live Makkah</title>
     </programme>
 </tv>
