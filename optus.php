@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Cole Palmer</title>
-    </programme>
     <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Newcastle United v Bromley</title>
+    </programme>
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
+        <title>FA Cup - Arsenal v Manchester United</title>
     </programme>
 </tv>
