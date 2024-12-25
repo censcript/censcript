@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Basque Managers</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Arsenal v Manchester United</title>
+    </programme>
+    <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Southampton v Swansea</title>
     </programme>
 </tv>
