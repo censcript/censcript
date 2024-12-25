@@ -381,10 +381,10 @@
     <programme start="20241225143000 +0000" stop="20241225160000 +0000" channel="SCTV.vidio">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225174500 +0000" channel="SCTV.vidio">
+    <programme start="20241225160000 +0000" stop="20241225174000 +0000" channel="SCTV.vidio">
         <title>Film Layar Lebar Spesial Liburan : Calon Bini</title>
     </programme>
-    <programme start="20241225174500 +0000" stop="20241225190000 +0000" channel="SCTV.vidio">
+    <programme start="20241225174000 +0000" stop="20241225190000 +0000" channel="SCTV.vidio">
         <title>FTV Utama</title>
     </programme>
     <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="SCTV.vidio">
@@ -545,6 +545,9 @@
     </programme>
     <programme start="20241228193000 +0000" stop="20241228230000 +0000" channel="SCTV.vidio">
         <title>Cinta Karena Cinta</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SCTV.vidio">
+        <title>Point Of View SPC Hut SCTV</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
@@ -1032,6 +1035,9 @@
     <programme start="20241228213000 +0000" stop="20241228230000 +0000" channel="Indosiar.vidio">
         <title>Fokus Pagi</title>
     </programme>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Indosiar.vidio">
+        <title>Magic 5</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1499,6 +1505,9 @@
     </programme>
     <programme start="20241228220000 +0000" stop="20241228231500 +0000" channel="Moji.vidio">
         <title>Moji Sport</title>
+    </programme>
+    <programme start="20241228231500 +0000" stop="20241229000000 +0000" channel="Moji.vidio">
+        <title>Liputan 6 Pagi Moji</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -59354,5 +59363,8 @@
     </programme>
     <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Ajwa.vidio">
         <title>Mamah Dan Aa Beraksi</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Ajwa.vidio">
+        <title>Sejadah</title>
     </programme>
 </tv>

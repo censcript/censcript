@@ -33207,6 +33207,18 @@
     <programme start="20250104100000 +0000" stop="20250104160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250104160000 +0000" stop="20250104220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104220000 +0000" stop="20250105040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105040000 +0000" stop="20250105100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241223220000 +0000" stop="20241224040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33376,6 +33388,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250104100000 +0000" stop="20250104160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104160000 +0000" stop="20250104220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104220000 +0000" stop="20250104232000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104232000 +0000" stop="20250105073000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>India Tour of Australia 2024: 5th Test - Day 3</title>
+    </programme>
+    <programme start="20250105073000 +0000" stop="20250105100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
