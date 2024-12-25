@@ -4620,9 +4620,6 @@
     <programme start="20241223220000 +0000" stop="20241223230000 +0000" channel="CNBC HD.starhub">
         <title>Asia Squawk Box</title>
     </programme>
-    <programme start="20241223230000 +0000" stop="20241224000000 +0000" channel="CNBC HD.starhub">
-        <title>Asia Squawk Box</title>
-    </programme>
     <programme start="20241224000000 +0000" stop="20241224010000 +0000" channel="CNBC HD.starhub">
         <title>Asia Squawk Box</title>
     </programme>
@@ -4799,6 +4796,9 @@
     </programme>
     <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="CNBC HD.starhub">
         <title>Ep 211: Million Dollar Prison Kickback</title>
+    </programme>
+    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="CNBC HD.starhub">
+        <title>YouTube Mansion &amp; Net Zero House</title>
     </programme>
     <programme start="20241223000000 +0000" stop="20241223000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5184,13 +5184,13 @@
     <programme start="20241225133000 +0000" stop="20241225163000 +0000" channel="Asianet Movies.starhub">
         <title>Panchayath Jetty</title>
     </programme>
-    <programme start="20241225163000 +0000" stop="20241225190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241225163000 +0000" stop="20241225193000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa: The Rise - Part 1</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225223000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241225193000 +0000" stop="20241225220000 +0000" channel="Asianet Movies.starhub">
         <title>Itti Mani made in China</title>
     </programme>
-    <programme start="20241225223000 +0000" stop="20241226003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Thudarunnu</title>
     </programme>
     <programme start="20241226003000 +0000" stop="20241226010000 +0000" channel="Asianet Movies.starhub">
@@ -10593,9 +10593,6 @@
     <programme start="20241223230000 +0000" stop="20241223233000 +0000" channel="Vijay TV HD.starhub">
         <title>Nee Naan Kaadhal</title>
     </programme>
-    <programme start="20241223233000 +0000" stop="20241224000000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
     <programme start="20241224000000 +0000" stop="20241224003000 +0000" channel="Vijay TV HD.starhub">
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
@@ -10784,6 +10781,9 @@
     </programme>
     <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Vijay TV HD.starhub">
         <title>Aha Kalyanam Dum Dum Dum</title>
+    </programme>
+    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20241223000000 +0000" stop="20241223003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -17166,9 +17166,6 @@
     <programme start="20241223230000 +0000" stop="20241223233000 +0000" channel="Travelxp HD.starhub">
         <title>Itoshima</title>
     </programme>
-    <programme start="20241223233000 +0000" stop="20241224000000 +0000" channel="Travelxp HD.starhub">
-        <title>Udaipur</title>
-    </programme>
     <programme start="20241224000000 +0000" stop="20241224003000 +0000" channel="Travelxp HD.starhub">
         <title>Novi Sad, Serbia</title>
     </programme>
@@ -17318,6 +17315,9 @@
     </programme>
     <programme start="20241224233000 +0000" stop="20241225000000 +0000" channel="Travelxp HD.starhub">
         <title>Narlai &amp; Jawai</title>
+    </programme>
+    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="Travelxp HD.starhub">
+        <title>Pozarevac, Serbia</title>
     </programme>
     <programme start="20241223000000 +0000" stop="20241223010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
@@ -18582,32 +18582,29 @@
     <programme start="20241224220000 +0000" stop="20241224223000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20241224223000 +0000" stop="20241225010000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241224230000 +0000" stop="20241225013000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Naan Sirithal</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225040000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225013000 +0000" stop="20241225043000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Cheranin Thirumanam</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225073000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225043000 +0000" stop="20241225080000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Akhanda</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225100000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225080000 +0000" stop="20241225103000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Thumbha</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225123000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225103000 +0000" stop="20241225130000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Gorilla</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225150000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225130000 +0000" stop="20241225153000 +0000" channel="Zee Thirai.starhub">
         <title>Wtp Movies - Asvins</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225180000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225153000 +0000" stop="20241225183000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Krack</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225203000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225183000 +0000" stop="20241225210000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kathar Basha</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
     </programme>
     <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
@@ -18615,7 +18612,10 @@
     <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20241225223000 +0000" stop="20241226010000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Desingu Raja</title>
     </programme>
     <programme start="20241226003000 +0000" stop="20241226040000 +0000" channel="Zee Thirai.starhub">
@@ -33334,6 +33334,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103160000 +0000" stop="20250103220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103220000 +0000" stop="20250103232000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250103232000 +0000" stop="20250104073000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>India Tour of Australia 2024: 5th Test - Day 2</title>
+    </programme>
+    <programme start="20250104073000 +0000" stop="20250104100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250104100000 +0000" stop="20250104160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
