@@ -36,5 +36,5 @@ urls = [
     "https://astvstreamingpro.my.id/epg/alkass.php",
 ]
 
-# Memanggil fungsi untuk mendownload semua EPG
+# Memanggil fungsi untuk mendownload semua EPGs
 download_epg(urls)
