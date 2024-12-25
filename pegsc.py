@@ -33,6 +33,7 @@ urls = [
     "https://www.bevy.be/bevyfiles/italy1.xml",
     "https://www.bevy.be/bevyfiles/italy2.xml",
     "https://www.bevy.be/bevyfiles/portugal2.xml",
+    "https://astvstreamingpro.my.id/epg/alkass.php",
 ]
 
 # Memanggil fungsi untuk mendownload semua EPG
