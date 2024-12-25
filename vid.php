@@ -1026,6 +1026,9 @@
     <programme start="20241228193000 +0000" stop="20241228210000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia</title>
     </programme>
+    <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="Indosiar.vidio">
+        <title>Fokus Akhir Tahun 2024</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
