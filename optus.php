@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241226195000 +0000" stop="20241226230000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Liverpool v Leicester City</title>
-    </programme>
     <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250115180000 +0000" stop="20250115183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Nicklas Bendtner</title>
+    </programme>
+    <programme start="20250115183000 +0000" stop="20250115230000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Thursday Morning</title>
     </programme>
 </tv>
