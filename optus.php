@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241226172000 +0000" stop="20241226195000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Wolverhampton Wanderers v Manchester United</title>
-    </programme>
     <programme start="20241226195000 +0000" stop="20241226230000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Leicester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250115180000 +0000" stop="20250115183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Nicklas Bendtner</title>
     </programme>
 </tv>
