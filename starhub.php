@@ -5397,6 +5397,9 @@
     <programme start="20250105100000 +0000" stop="20250105163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250105163000 +0000" stop="20250105220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241224230500 +0000" stop="20241225000500 +0000" channel="HISTORY HD.starhub">
         <title>The Search For The Ark Of The Covenant</title>
     </programme>
@@ -30861,6 +30864,18 @@
     <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250105160000 +0000" stop="20250105220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33141,6 +33156,18 @@
     <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250105160000 +0000" stop="20250105220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33313,6 +33340,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105160000 +0000" stop="20250105220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250105232000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250105232000 +0000" stop="20250106073000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>India Tour of Australia 2024: 5th Test - Day 4</title>
+    </programme>
+    <programme start="20250106073000 +0000" stop="20250106100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
