@@ -4536,17 +4536,11 @@
     <programme start="20241226223000 +0000" stop="20241227010000 +0000" channel="ANTV.vidio">
         <title>Firasat</title>
     </programme>
-    <programme start="20241227010000 +0000" stop="20241227023000 +0000" channel="ANTV.vidio">
+    <programme start="20241227010000 +0000" stop="20241227020000 +0000" channel="ANTV.vidio">
         <title>Masha and the Bear</title>
     </programme>
-    <programme start="20241227023000 +0000" stop="20241227040000 +0000" channel="ANTV.vidio">
-        <title>Dakkila</title>
-    </programme>
-    <programme start="20241227040000 +0000" stop="20241227070000 +0000" channel="ANTV.vidio">
-        <title>Jodha Akbar</title>
-    </programme>
-    <programme start="20241227070000 +0000" stop="20241227090000 +0000" channel="ANTV.vidio">
-        <title>Kasautii</title>
+    <programme start="20241227020000 +0000" stop="20241227053000 +0000" channel="ANTV.vidio">
+        <title>MEGA BOLLYWOOD:  GADAR EK PREM KATHA</title>
     </programme>
     <programme start="20241227090000 +0000" stop="20241227123000 +0000" channel="ANTV.vidio">
         <title>Bhagya Lakshmi</title>
@@ -10374,11 +10368,11 @@
     <programme start="20241227050000 +0000" stop="20241227060000 +0000" channel="BTV.vidio">
         <title>Jalan Dakwah Bersama Gus Miftah</title>
     </programme>
-    <programme start="20241227060000 +0000" stop="20241227060500 +0000" channel="BTV.vidio">
-        <title>Berita Satu Terkini</title>
-    </programme>
-    <programme start="20241227060500 +0000" stop="20241227070000 +0000" channel="BTV.vidio">
+    <programme start="20241227060500 +0000" stop="20241227063000 +0000" channel="BTV.vidio">
         <title>Berita Viral</title>
+    </programme>
+    <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel="BTV.vidio">
+        <title>DUNIA RANS</title>
     </programme>
     <programme start="20241227070000 +0000" stop="20241227080000 +0000" channel="BTV.vidio">
         <title>Sinema Multivision</title>
@@ -11319,8 +11313,35 @@
     <programme start="20241227040000 +0000" stop="20241227050000 +0000" channel="NET TV.vidio">
         <title>Makan Enak</title>
     </programme>
+    <programme start="20241227050000 +0000" stop="20241227060000 +0000" channel="NET TV.vidio">
+        <title>Kuliner Viral</title>
+    </programme>
+    <programme start="20241227060000 +0000" stop="20241227070000 +0000" channel="NET TV.vidio">
+        <title>Masak Gesss!!!</title>
+    </programme>
+    <programme start="20241227070000 +0000" stop="20241227080000 +0000" channel="NET TV.vidio">
+        <title>Detective Conan</title>
+    </programme>
+    <programme start="20241227080000 +0000" stop="20241227090000 +0000" channel="NET TV.vidio">
+        <title>Shinbi&#039;s House</title>
+    </programme>
+    <programme start="20241227090000 +0000" stop="20241227100000 +0000" channel="NET TV.vidio">
+        <title>Bittersweet 17 (17 Selamanya)</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227120000 +0000" channel="NET TV.vidio">
+        <title>Antara Cinta dan Dusta</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227140000 +0000" channel="NET TV.vidio">
+        <title>Cinta Fitri</title>
+    </programme>
+    <programme start="20241227140000 +0000" stop="20241227150000 +0000" channel="NET TV.vidio">
+        <title>Layangan Putus</title>
+    </programme>
+    <programme start="20241227150000 +0000" stop="20241227170000 +0000" channel="NET TV.vidio">
+        <title>NET Sinema : Ivanna</title>
+    </programme>
     <programme start="20241227170000 +0000" stop="20241227180000 +0000" channel="NET TV.vidio">
-        <title>Fenomena</title>
+        <title>OK-JEK</title>
     </programme>
     <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="NET TV.vidio">
         <title>One Championship Warrior</title>
@@ -59501,5 +59522,8 @@
     </programme>
     <programme start="20241229083000 +0000" stop="20241229090000 +0000" channel="Ajwa.vidio">
         <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
     </programme>
 </tv>
