@@ -405,22 +405,25 @@
     <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="SCTV.vidio">
         <title>Halo Selebriti</title>
     </programme>
-    <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="SCTV.vidio">
+    <programme start="20241226000000 +0000" stop="20241226021100 +0000" channel="SCTV.vidio">
         <title>GASPOL (Games Asyik Paling Nampol)</title>
     </programme>
-    <programme start="20241226010000 +0000" stop="20241226030000 +0000" channel="SCTV.vidio">
+    <programme start="20241226021100 +0000" stop="20241226032100 +0000" channel="SCTV.vidio">
         <title>FTV Pagi Spesial: Mas Car Wash Tydak Ramah Bintang 1</title>
     </programme>
-    <programme start="20241226030000 +0000" stop="20241226050900 +0000" channel="SCTV.vidio">
+    <programme start="20241226032100 +0000" stop="20241226050900 +0000" channel="SCTV.vidio">
         <title>FTV Pagi: Kaum Apateu Apateu Minggir Dulu</title>
     </programme>
     <programme start="20241226050900 +0000" stop="20241226053900 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241226053900 +0000" stop="20241226073000 +0000" channel="SCTV.vidio">
+    <programme start="20241226053900 +0000" stop="20241226070500 +0000" channel="SCTV.vidio">
         <title>FTV Siang : Kerja Keras Bagai Quda Mendapatkan Cintamu</title>
     </programme>
-    <programme start="20241226073000 +0000" stop="20241226094500 +0000" channel="SCTV.vidio">
+    <programme start="20241226070500 +0000" stop="20241226081500 +0000" channel="SCTV.vidio">
+        <title>FTV Siang : Ratu Selendang Mayang Sejagat</title>
+    </programme>
+    <programme start="20241226081500 +0000" stop="20241226094500 +0000" channel="SCTV.vidio">
         <title>FTV Sore: Stop Baper Yuk Bisa Yuk Move On</title>
     </programme>
     <programme start="20241226094500 +0000" stop="20241226111000 +0000" channel="SCTV.vidio">
@@ -21109,10 +21112,10 @@
         <title>Breakaway: Polo in England : Global Polo Show</title>
     </programme>
     <programme start="20241227013000 +0000" stop="20241227090000 +0000" channel="Bein 3.vidio">
-        <title>Day 1 : 2024 United Cup Tennis</title>
+        <title>Kazakhstan vs Spain - United Cup 2025</title>
     </programme>
     <programme start="20241227090000 +0000" stop="20241227153000 +0000" channel="Bein 3.vidio">
-        <title>Night 1 : 2024 United Cup Tennis</title>
+        <title>China vs Brazil - United Cup 2025</title>
     </programme>
     <programme start="20241227153000 +0000" stop="20241227163000 +0000" channel="Bein 3.vidio">
         <title>Cape to Cape : Mass Participation</title>
@@ -59296,7 +59299,7 @@
         <title>Pesantren &amp; Rock N Roll</title>
     </programme>
     <programme start="20241226100000 +0000" stop="20241226110000 +0000" channel="Ajwa.vidio">
-        <title>Para Pencari Tuhan</title>
+        <title>Para Pencari Tuhan Jilid 16</title>
     </programme>
     <programme start="20241226110000 +0000" stop="20241226113000 +0000" channel="Ajwa.vidio">
         <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
@@ -59307,17 +59310,17 @@
     <programme start="20241226120000 +0000" stop="20241226123000 +0000" channel="Ajwa.vidio">
         <title>Adzan Isya</title>
     </programme>
-    <programme start="20241226123000 +0000" stop="20241226140000 +0000" channel="Ajwa.vidio">
+    <programme start="20241226123000 +0000" stop="20241226133000 +0000" channel="Ajwa.vidio">
         <title>Mamah Dan Aa Beraksi</title>
     </programme>
-    <programme start="20241226140000 +0000" stop="20241226143000 +0000" channel="Ajwa.vidio">
+    <programme start="20241226133000 +0000" stop="20241226143000 +0000" channel="Ajwa.vidio">
         <title>Tafsir Al Quran</title>
     </programme>
-    <programme start="20241226143000 +0000" stop="20241226160000 +0000" channel="Ajwa.vidio">
-        <title>Para Pencari Tuhan</title>
+    <programme start="20241226143000 +0000" stop="20241226153000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan Jilid 16</title>
     </programme>
-    <programme start="20241226160000 +0000" stop="20241226170000 +0000" channel="Ajwa.vidio">
-        <title>FTV Islami</title>
+    <programme start="20241226153000 +0000" stop="20241226170000 +0000" channel="Ajwa.vidio">
+        <title>FTV Islami : Gejolak Cinta Tukang Kolak</title>
     </programme>
     <programme start="20241226170000 +0000" stop="20241226180000 +0000" channel="Ajwa.vidio">
         <title>30 Hari 30 Juz</title>
