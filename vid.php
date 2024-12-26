@@ -576,6 +576,9 @@
     <programme start="20241229110000 +0000" stop="20241229123000 +0000" channel="SCTV.vidio">
         <title>Bidadari Surgamu</title>
     </programme>
+    <programme start="20241229123000 +0000" stop="20241229140000 +0000" channel="SCTV.vidio">
+        <title>Cinta Setelah Cinta</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -1091,6 +1094,9 @@
     </programme>
     <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="Indosiar.vidio">
         <title>Magic 5</title>
+    </programme>
+    <programme start="20241229113000 +0000" stop="20241229140000 +0000" channel="Indosiar.vidio">
+        <title>Liga 1</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
@@ -19860,10 +19866,10 @@
     <programme start="20241226080000 +0000" stop="20241226100000 +0000" channel="CTV 1.vidio">
         <title>Crawley Town vs. Birmingham City : English League One Soccer</title>
     </programme>
-    <programme start="20241226100000 +0000" stop="20241226120000 +0000" channel="CTV 1.vidio">
+    <programme start="20241226100000 +0000" stop="20241226115900 +0000" channel="CTV 1.vidio">
         <title>Atalanta vs. Empoli : Italian Serie A Soccer</title>
     </programme>
-    <programme start="20241226120000 +0000" stop="20241226123000 +0000" channel="CTV 1.vidio">
+    <programme start="20241226115900 +0000" stop="20241226123000 +0000" channel="CTV 1.vidio">
         <title>Mavericks</title>
     </programme>
     <programme start="20241226123000 +0000" stop="20241226143000 +0000" channel="CTV 1.vidio">
@@ -20454,10 +20460,10 @@
     <programme start="20241226113000 +0000" stop="20241226120000 +0000" channel="CTV 5.vidio">
         <title>Premier League Stories</title>
     </programme>
-    <programme start="20241226120000 +0000" stop="20241226143000 +0000" channel="CTV 5.vidio">
+    <programme start="20241226120000 +0000" stop="20241226144500 +0000" channel="CTV 5.vidio">
         <title>Man City vs Everton - Premier League</title>
     </programme>
-    <programme start="20241226143000 +0000" stop="20241226170000 +0000" channel="CTV 5.vidio">
+    <programme start="20241226144500 +0000" stop="20241226170000 +0000" channel="CTV 5.vidio">
         <title>Chelsea vs Fulham - Premier League</title>
     </programme>
     <programme start="20241226170000 +0000" stop="20241226193000 +0000" channel="CTV 5.vidio">
@@ -59582,5 +59588,14 @@
     </programme>
     <programme start="20241229110000 +0000" stop="20241229113000 +0000" channel="Ajwa.vidio">
         <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
+    </programme>
+    <programme start="20241229113000 +0000" stop="20241229120000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Isya Dari Masjid Istiqlal</title>
+    </programme>
+    <programme start="20241229123000 +0000" stop="20241229133000 +0000" channel="Ajwa.vidio">
+        <title>Mamah Dan Aa Beraksi</title>
     </programme>
 </tv>
