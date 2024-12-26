@@ -429,9 +429,6 @@
     <programme start="20241224230000 +0000" stop="20241224233000 +0000" channel="TV5MONDE HD.starhub">
         <title>L&#039;actu</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225000000 +0000" channel="TV5MONDE HD.starhub">
-        <title>Le Journal De La Rts</title>
-    </programme>
     <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="TV5MONDE HD.starhub">
         <title>Le Journal De France 2</title>
     </programme>
@@ -599,6 +596,9 @@
     </programme>
     <programme start="20241226045800 +0000" stop="20241226052900 +0000" channel="TV5MONDE HD.starhub">
         <title>Le 6h00 Info</title>
+    </programme>
+    <programme start="20241226052900 +0000" stop="20241226055000 +0000" channel="TV5MONDE HD.starhub">
+        <title>Telematin</title>
     </programme>
     <programme start="20241223230000 +0000" stop="20241224011000 +0000" channel="HBO Signature HD.starhub">
         <title>As You Like It</title>
@@ -2469,9 +2469,6 @@
     <programme start="20241224220000 +0000" stop="20241224230000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225000000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
-    </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
@@ -2699,6 +2696,9 @@
     </programme>
     <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="TVBS-NEWS.starhub">
         <title>1100 Morning News</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1200/1300 Noon News</title>
     </programme>
     <programme start="20241224000000 +0000" stop="20241224003000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
@@ -5184,10 +5184,10 @@
     <programme start="20241226133000 +0000" stop="20241226163000 +0000" channel="Asianet Movies.starhub">
         <title>Minnal Murali</title>
     </programme>
-    <programme start="20241226163000 +0000" stop="20241226190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241226163000 +0000" stop="20241226193000 +0000" channel="Asianet Movies.starhub">
         <title>Koode</title>
     </programme>
-    <programme start="20241226190000 +0000" stop="20241226220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241226193000 +0000" stop="20241226220000 +0000" channel="Asianet Movies.starhub">
         <title>Oppam</title>
     </programme>
     <programme start="20241226220000 +0000" stop="20241227003000 +0000" channel="Asianet Movies.starhub">
@@ -7320,9 +7320,6 @@
     <programme start="20241224230000 +0000" stop="20241224233000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225000000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
-    </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
@@ -7440,13 +7437,13 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="COLORS.starhub">
+    <programme start="20241225234500 +0000" stop="20241226001500 +0000" channel="COLORS.starhub">
         <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="COLORS.starhub">
+    <programme start="20241226001500 +0000" stop="20241226010500 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241226010000 +0000" stop="20241226013000 +0000" channel="COLORS.starhub">
+    <programme start="20241226010500 +0000" stop="20241226013000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
     </programme>
     <programme start="20241226013000 +0000" stop="20241226020000 +0000" channel="COLORS.starhub">
@@ -7499,6 +7496,9 @@
     </programme>
     <programme start="20241226110000 +0000" stop="20241226113000 +0000" channel="COLORS.starhub">
         <title>Megha Barsenge</title>
+    </programme>
+    <programme start="20241226113000 +0000" stop="20241226120000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
     <programme start="20241224000000 +0000" stop="20241224010000 +0000" channel="TVB Jade HD.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -20781,9 +20781,6 @@
     <programme start="20241224230000 +0000" stop="20241224233000 +0000" channel="Cartoonito HD.starhub">
         <title>Bugs Bunny Builders: Looneyburg Lights</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225000000 +0000" channel="Cartoonito HD.starhub">
-        <title>Batwheels: Holidays On Ice</title>
-    </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Cartoonito HD.starhub">
         <title>Holiday Spirit/Snow Worries/Fangsgiving/Warm And Fuzzy/Think Big</title>
     </programme>
@@ -20975,6 +20972,9 @@
     </programme>
     <programme start="20241226133000 +0000" stop="20241226140000 +0000" channel="Cartoonito HD.starhub">
         <title>That&#039;s The Way The Windmill Blows!/ Mecha Machine Makers!</title>
+    </programme>
+    <programme start="20241226140000 +0000" stop="20241226150000 +0000" channel="Cartoonito HD.starhub">
+        <title>Bright Light/Batty Kathy/Crane Game/Ice Creamed/Tweety-Go-Round</title>
     </programme>
     <programme start="20241223233500 +0000" stop="20241224002500 +0000" channel="AXN HD.starhub">
         <title>Degargoony</title>
@@ -25245,9 +25245,6 @@
     <programme start="20241224220000 +0000" stop="20241224230000 +0000" channel="TVB Xing He.starhub">
         <title>Word Twisters&#039; Adventures</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225000000 +0000" channel="TVB Xing He.starhub">
-        <title>As Sure as Fate</title>
-    </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVB Xing He.starhub">
         <title>Ringmaster, The</title>
     </programme>
@@ -25475,6 +25472,9 @@
     </programme>
     <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="TVB Xing He.starhub">
         <title>Highs and Lows</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="TVB Xing He.starhub">
+        <title>Word Twisters&#039; Adventures</title>
     </programme>
     <programme start="20241223230000 +0000" stop="20241224010000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg The Asia Trade</title>

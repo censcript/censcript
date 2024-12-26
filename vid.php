@@ -549,6 +549,15 @@
     <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SCTV.vidio">
         <title>Point Of View SPC Hut SCTV</title>
     </programme>
+    <programme start="20241228233000 +0000" stop="20241229000000 +0000" channel="SCTV.vidio">
+        <title>Halo Selebriti</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="SCTV.vidio">
+        <title>Hot Shot</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229030000 +0000" channel="SCTV.vidio">
+        <title>SCTV FTV Pagi Spesial</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -1038,6 +1047,12 @@
     <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Indosiar.vidio">
         <title>Magic 5</title>
     </programme>
+    <programme start="20241229000000 +0000" stop="20241229013000 +0000" channel="Indosiar.vidio">
+        <title>Kisah Nyata Pagi</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229030000 +0000" channel="Indosiar.vidio">
+        <title>Kisah Nyata Pagi</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1508,6 +1523,15 @@
     </programme>
     <programme start="20241228231500 +0000" stop="20241229000000 +0000" channel="Moji.vidio">
         <title>Liputan 6 Pagi Moji</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="Moji.vidio">
+        <title>Ungkap</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="Moji.vidio">
+        <title>Ungkap</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="Moji.vidio">
+        <title>Netizen Update</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -4454,6 +4478,24 @@
     </programme>
     <programme start="20241226153000 +0000" stop="20241226173000 +0000" channel="ANTV.vidio">
         <title>Sinema Spesial : Get Married 4</title>
+    </programme>
+    <programme start="20241226173000 +0000" stop="20241226190000 +0000" channel="ANTV.vidio">
+        <title>Jodohku Warisan Bapak</title>
+    </programme>
+    <programme start="20241226190000 +0000" stop="20241226203000 +0000" channel="ANTV.vidio">
+        <title>Kun Fayakun</title>
+    </programme>
+    <programme start="20241226203000 +0000" stop="20241226213000 +0000" channel="ANTV.vidio">
+        <title>Anandhi</title>
+    </programme>
+    <programme start="20241226213000 +0000" stop="20241226220000 +0000" channel="ANTV.vidio">
+        <title>Cakrawala</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241226223000 +0000" channel="ANTV.vidio">
+        <title>Senyum Iman</title>
+    </programme>
+    <programme start="20241226223000 +0000" stop="20241227010000 +0000" channel="ANTV.vidio">
+        <title>Firasat</title>
     </programme>
     <programme start="20241227010000 +0000" stop="20241227023000 +0000" channel="ANTV.vidio">
         <title>Masha and the Bear</title>
@@ -19741,7 +19783,7 @@
         <title>West Brom vs. Bristol City : English Championship Soccer</title>
     </programme>
     <programme start="20241226080000 +0000" stop="20241226100000 +0000" channel="CTV 1.vidio">
-        <title>English League One Soccer</title>
+        <title>Crawley Town vs. Birmingham City : English League One Soccer</title>
     </programme>
     <programme start="20241226100000 +0000" stop="20241226120000 +0000" channel="CTV 1.vidio">
         <title>Atalanta vs. Empoli : Italian Serie A Soccer</title>
@@ -19777,7 +19819,7 @@
         <title>EFL Highlights</title>
     </programme>
     <programme start="20241227010000 +0000" stop="20241227030000 +0000" channel="CTV 1.vidio">
-        <title>English League One Soccer</title>
+        <title>Crawley Town vs. Birmingham City : English League One Soccer</title>
     </programme>
     <programme start="20241227030000 +0000" stop="20241227050000 +0000" channel="CTV 1.vidio">
         <title>Atalanta vs. Empoli : Italian Serie A Soccer</title>
@@ -19792,7 +19834,7 @@
         <title>Derby County vs. West Brom : English Championship Soccer</title>
     </programme>
     <programme start="20241227080000 +0000" stop="20241227100000 +0000" channel="CTV 1.vidio">
-        <title>English Championship Soccer</title>
+        <title>Stoke City vs. Leeds United : English Championship Soccer</title>
     </programme>
     <programme start="20241227100000 +0000" stop="20241227120000 +0000" channel="CTV 1.vidio">
         <title>Fiorentina vs. Udinese : Italian Serie A Soccer</title>
@@ -19804,7 +19846,7 @@
         <title>EFL Highlights</title>
     </programme>
     <programme start="20241227130000 +0000" stop="20241227150000 +0000" channel="CTV 1.vidio">
-        <title>English League One Soccer</title>
+        <title>Charlton Athletic vs. Cambridge United : English League One Soccer</title>
     </programme>
     <programme start="20241227150000 +0000" stop="20241227170000 +0000" channel="CTV 1.vidio">
         <title>Fiorentina vs. Udinese : Italian Serie A Soccer</title>
@@ -19819,7 +19861,7 @@
         <title>Derby County vs. West Brom : English Championship Soccer</title>
     </programme>
     <programme start="20241227220000 +0000" stop="20241228000000 +0000" channel="CTV 1.vidio">
-        <title>English Championship Soccer</title>
+        <title>Stoke City vs. Leeds United : English Championship Soccer</title>
     </programme>
     <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="CTV 1.vidio">
         <title>Behind the Gate</title>
@@ -19828,7 +19870,7 @@
         <title>Carabao Cup Highlights</title>
     </programme>
     <programme start="20241228010000 +0000" stop="20241228030000 +0000" channel="CTV 1.vidio">
-        <title>English League One Soccer</title>
+        <title>Charlton Athletic vs. Cambridge United : English League One Soccer</title>
     </programme>
     <programme start="20241228030000 +0000" stop="20241228050000 +0000" channel="CTV 1.vidio">
         <title>Fiorentina vs. Udinese : Italian Serie A Soccer</title>
@@ -19840,7 +19882,7 @@
         <title>Darts</title>
     </programme>
     <programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="CTV 1.vidio">
-        <title>English League One Soccer</title>
+        <title>Charlton Athletic vs. Cambridge United : English League One Soccer</title>
     </programme>
     <programme start="20241228080000 +0000" stop="20241228123000 +0000" channel="CTV 1.vidio">
         <title>Jaime Munguia vs. Bruno Surace : Boxing</title>
@@ -21564,10 +21606,10 @@
     <programme start="20241225193100 +0000" stop="20241225220000 +0000" channel="CTV 3.vidio">
         <title>Minnesota Timberwolves vs Dallas Mavericks - NBA</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="CTV 3.vidio">
+    <programme start="20241225220000 +0000" stop="20241226003500 +0000" channel="CTV 3.vidio">
         <title>Philadelphia 76ers vs Boston Celtics - NBA</title>
     </programme>
-    <programme start="20241226003000 +0000" stop="20241226010000 +0000" channel="CTV 3.vidio">
+    <programme start="20241226003500 +0000" stop="20241226010000 +0000" channel="CTV 3.vidio">
         <title>NBA On Fire</title>
     </programme>
     <programme start="20241226010000 +0000" stop="20241226033000 +0000" channel="CTV 3.vidio">
@@ -23644,7 +23686,7 @@
         <title>Coventry City vs. Plymouth Argyle : English Championship Soccer</title>
     </programme>
     <programme start="20241227053000 +0000" stop="20241227073000 +0000" channel="CTV 2.vidio">
-        <title>English Championship Soccer</title>
+        <title>Stoke City vs. Leeds United : English Championship Soccer</title>
     </programme>
     <programme start="20241227073000 +0000" stop="20241227093000 +0000" channel="CTV 2.vidio">
         <title>Tottenham Hotspur vs. Manchester United : English Football League Cup Soccer</title>
@@ -23656,7 +23698,7 @@
         <title>Coventry City vs. Plymouth Argyle : English Championship Soccer</title>
     </programme>
     <programme start="20241227133000 +0000" stop="20241227153000 +0000" channel="CTV 2.vidio">
-        <title>English Championship Soccer</title>
+        <title>Stoke City vs. Leeds United : English Championship Soccer</title>
     </programme>
     <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="CTV 2.vidio">
         <title>Darts</title>
@@ -29646,10 +29688,10 @@
     <programme start="20241226083000 +0000" stop="20241226085400 +0000" channel="TV5Monde.vidio">
         <title>Dans un territoire prs de chez vous</title>
     </programme>
-    <programme start="20241226085400 +0000" stop="20241226090000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226085400 +0000" stop="20241226090100 +0000" channel="TV5Monde.vidio">
         <title>Chic en vf</title>
     </programme>
-    <programme start="20241226090000 +0000" stop="20241226090800 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226090100 +0000" stop="20241226090800 +0000" channel="TV5Monde.vidio">
         <title>Le chien avec une maison sur la tte : La cabane  histoires</title>
     </programme>
     <programme start="20241226090800 +0000" stop="20241226091500 +0000" channel="TV5Monde.vidio">
@@ -29661,28 +29703,28 @@
     <programme start="20241226092700 +0000" stop="20241226093400 +0000" channel="TV5Monde.vidio">
         <title>Toc Toc !</title>
     </programme>
-    <programme start="20241226093400 +0000" stop="20241226095900 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226093400 +0000" stop="20241226100000 +0000" channel="TV5Monde.vidio">
         <title>La libration : Les mutants</title>
     </programme>
-    <programme start="20241226095900 +0000" stop="20241226100200 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226100000 +0000" stop="20241226100300 +0000" channel="TV5Monde.vidio">
         <title>Vende Globe 2024</title>
     </programme>
-    <programme start="20241226100200 +0000" stop="20241226102900 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226100300 +0000" stop="20241226103000 +0000" channel="TV5Monde.vidio">
         <title>La cuisine des mousquetaires</title>
     </programme>
-    <programme start="20241226102900 +0000" stop="20241226105300 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226103000 +0000" stop="20241226105400 +0000" channel="TV5Monde.vidio">
         <title>Un si grand soleil</title>
     </programme>
-    <programme start="20241226105300 +0000" stop="20241226112600 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226105400 +0000" stop="20241226112700 +0000" channel="TV5Monde.vidio">
         <title>Questions pour un champion</title>
     </programme>
-    <programme start="20241226112600 +0000" stop="20241226113000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226112700 +0000" stop="20241226113100 +0000" channel="TV5Monde.vidio">
         <title>Anatomie des fausses nouvelles</title>
     </programme>
-    <programme start="20241226113000 +0000" stop="20241226121300 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226113100 +0000" stop="20241226121200 +0000" channel="TV5Monde.vidio">
         <title>Un gars, un chef, spciale ftes</title>
     </programme>
-    <programme start="20241226121300 +0000" stop="20241226122600 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226121200 +0000" stop="20241226122600 +0000" channel="TV5Monde.vidio">
         <title>Terra artistika</title>
     </programme>
     <programme start="20241226122600 +0000" stop="20241226123000 +0000" channel="TV5Monde.vidio">
@@ -29697,28 +29739,28 @@
     <programme start="20241226143700 +0000" stop="20241226145900 +0000" channel="TV5Monde.vidio">
         <title>Un week-end</title>
     </programme>
-    <programme start="20241226145900 +0000" stop="20241226171800 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226145900 +0000" stop="20241226171900 +0000" channel="TV5Monde.vidio">
         <title>Feu! Chatterton au Znith de Paris</title>
     </programme>
-    <programme start="20241226171800 +0000" stop="20241226190400 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226171900 +0000" stop="20241226190500 +0000" channel="TV5Monde.vidio">
         <title>La grande magie</title>
     </programme>
-    <programme start="20241226190400 +0000" stop="20241226193000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226190500 +0000" stop="20241226193100 +0000" channel="TV5Monde.vidio">
         <title>1re partie : 64&#039;, le monde en franais</title>
     </programme>
-    <programme start="20241226193000 +0000" stop="20241226195000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226193100 +0000" stop="20241226195100 +0000" channel="TV5Monde.vidio">
         <title>2e Partie : 64&#039;, le monde en franais</title>
     </programme>
-    <programme start="20241226195000 +0000" stop="20241226195900 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226195100 +0000" stop="20241226200000 +0000" channel="TV5Monde.vidio">
         <title>L&#039;invit</title>
     </programme>
-    <programme start="20241226195900 +0000" stop="20241226200400 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226200000 +0000" stop="20241226200500 +0000" channel="TV5Monde.vidio">
         <title>64&#039; l&#039;essentiel</title>
     </programme>
-    <programme start="20241226200400 +0000" stop="20241226204500 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226200500 +0000" stop="20241226204600 +0000" channel="TV5Monde.vidio">
         <title>Un gars, un chef, spciale ftes</title>
     </programme>
-    <programme start="20241226204500 +0000" stop="20241226210000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241226204600 +0000" stop="20241226210000 +0000" channel="TV5Monde.vidio">
         <title>Terra artistika</title>
     </programme>
     <programme start="20241226210000 +0000" stop="20241226212600 +0000" channel="TV5Monde.vidio">
@@ -29772,37 +29814,61 @@
     <programme start="20241227030500 +0000" stop="20241227032900 +0000" channel="TV5Monde.vidio">
         <title>Un si grand soleil</title>
     </programme>
-    <programme start="20241227032900 +0000" stop="20241227035900 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227032900 +0000" stop="20241227035500 +0000" channel="TV5Monde.vidio">
         <title>Courants d&#039;Est</title>
     </programme>
-    <programme start="20241227035900 +0000" stop="20241227045800 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227035500 +0000" stop="20241227035900 +0000" channel="TV5Monde.vidio">
+        <title>Test - Approuv</title>
+    </programme>
+    <programme start="20241227035900 +0000" stop="20241227045200 +0000" channel="TV5Monde.vidio">
         <title>Chine - France : l&#039;art en partage</title>
     </programme>
-    <programme start="20241227045800 +0000" stop="20241227052900 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227045200 +0000" stop="20241227045800 +0000" channel="TV5Monde.vidio">
+        <title>Chic en vf</title>
+    </programme>
+    <programme start="20241227045800 +0000" stop="20241227052500 +0000" channel="TV5Monde.vidio">
         <title>Le 6h00 info</title>
     </programme>
-    <programme start="20241227052900 +0000" stop="20241227055000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227052500 +0000" stop="20241227052900 +0000" channel="TV5Monde.vidio">
+        <title>Merci professeur !</title>
+    </programme>
+    <programme start="20241227052900 +0000" stop="20241227054500 +0000" channel="TV5Monde.vidio">
         <title>Tlmatin</title>
+    </programme>
+    <programme start="20241227054500 +0000" stop="20241227055000 +0000" channel="TV5Monde.vidio">
+        <title>Yoann Provenzano : Les stars aux petits oignons</title>
     </programme>
     <programme start="20241227055000 +0000" stop="20241227062900 +0000" channel="TV5Monde.vidio">
         <title>Tlmatin</title>
     </programme>
-    <programme start="20241227062900 +0000" stop="20241227065700 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227062900 +0000" stop="20241227065200 +0000" channel="TV5Monde.vidio">
         <title>Les cueilleurs</title>
+    </programme>
+    <programme start="20241227065200 +0000" stop="20241227065700 +0000" channel="TV5Monde.vidio">
+        <title>Lexique de la polmique</title>
     </programme>
     <programme start="20241227065700 +0000" stop="20241227073000 +0000" channel="TV5Monde.vidio">
         <title>Slam</title>
     </programme>
-    <programme start="20241227073000 +0000" stop="20241227080000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227073000 +0000" stop="20241227075600 +0000" channel="TV5Monde.vidio">
         <title>Le journal de Radio-Canada</title>
     </programme>
-    <programme start="20241227080000 +0000" stop="20241227083000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227075600 +0000" stop="20241227080000 +0000" channel="TV5Monde.vidio">
+        <title>Sommeil en questions (le) / autres distributeurs canadiens</title>
+    </programme>
+    <programme start="20241227080000 +0000" stop="20241227082700 +0000" channel="TV5Monde.vidio">
         <title>Courants d&#039;Est</title>
     </programme>
-    <programme start="20241227083000 +0000" stop="20241227090100 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227082700 +0000" stop="20241227083000 +0000" channel="TV5Monde.vidio">
+        <title>Tendance XXI express</title>
+    </programme>
+    <programme start="20241227083000 +0000" stop="20241227085700 +0000" channel="TV5Monde.vidio">
         <title>Chteau !</title>
     </programme>
-    <programme start="20241227090100 +0000" stop="20241227090800 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227085700 +0000" stop="20241227090000 +0000" channel="TV5Monde.vidio">
+        <title>Les athltes de la nature</title>
+    </programme>
+    <programme start="20241227090000 +0000" stop="20241227090800 +0000" channel="TV5Monde.vidio">
         <title>La cabane  histoires</title>
     </programme>
     <programme start="20241227090800 +0000" stop="20241227091600 +0000" channel="TV5Monde.vidio">
@@ -29820,20 +29886,29 @@
     <programme start="20241227100000 +0000" stop="20241227100300 +0000" channel="TV5Monde.vidio">
         <title>Vende Globe 2024</title>
     </programme>
-    <programme start="20241227100300 +0000" stop="20241227103000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227100300 +0000" stop="20241227102700 +0000" channel="TV5Monde.vidio">
         <title>Les cueilleurs</title>
+    </programme>
+    <programme start="20241227102700 +0000" stop="20241227103000 +0000" channel="TV5Monde.vidio">
+        <title>Des nouvelles d&#039;Afrique : Sophie et Virginie</title>
     </programme>
     <programme start="20241227103000 +0000" stop="20241227105500 +0000" channel="TV5Monde.vidio">
         <title>Un si grand soleil</title>
     </programme>
-    <programme start="20241227105500 +0000" stop="20241227113000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227105500 +0000" stop="20241227112700 +0000" channel="TV5Monde.vidio">
         <title>Questions pour un champion</title>
     </programme>
-    <programme start="20241227113000 +0000" stop="20241227121100 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227112700 +0000" stop="20241227113000 +0000" channel="TV5Monde.vidio">
+        <title>Tendance XXI express</title>
+    </programme>
+    <programme start="20241227113000 +0000" stop="20241227121000 +0000" channel="TV5Monde.vidio">
         <title>Un gars, un chef, spciale ftes</title>
     </programme>
-    <programme start="20241227121100 +0000" stop="20241227123000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227121000 +0000" stop="20241227122400 +0000" channel="TV5Monde.vidio">
         <title>Terra artistika</title>
+    </programme>
+    <programme start="20241227122400 +0000" stop="20241227123000 +0000" channel="TV5Monde.vidio">
+        <title>Appelle-moi Posie</title>
     </programme>
     <programme start="20241227123000 +0000" stop="20241227125100 +0000" channel="TV5Monde.vidio">
         <title>TV5MONDE, le journal</title>
@@ -29841,8 +29916,11 @@
     <programme start="20241227125100 +0000" stop="20241227142600 +0000" channel="TV5Monde.vidio">
         <title>Versailles, es-tu l ? : L&#039;art du crime</title>
     </programme>
-    <programme start="20241227142600 +0000" stop="20241227150000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227142600 +0000" stop="20241227145600 +0000" channel="TV5Monde.vidio">
         <title>Papilles</title>
+    </programme>
+    <programme start="20241227145600 +0000" stop="20241227150000 +0000" channel="TV5Monde.vidio">
+        <title>Test - Approuv</title>
     </programme>
     <programme start="20241227150000 +0000" stop="20241227180600 +0000" channel="TV5Monde.vidio">
         <title>Cosi Fan Tutte</title>
@@ -29862,11 +29940,14 @@
     <programme start="20241227195500 +0000" stop="20241227200000 +0000" channel="TV5Monde.vidio">
         <title>64&#039; l&#039;essentiel</title>
     </programme>
-    <programme start="20241227200000 +0000" stop="20241227204100 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227200000 +0000" stop="20241227204000 +0000" channel="TV5Monde.vidio">
         <title>Un gars, un chef, spciale ftes</title>
     </programme>
-    <programme start="20241227204100 +0000" stop="20241227210000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227204000 +0000" stop="20241227205400 +0000" channel="TV5Monde.vidio">
         <title>Terra artistika</title>
+    </programme>
+    <programme start="20241227205400 +0000" stop="20241227210000 +0000" channel="TV5Monde.vidio">
+        <title>Fondation Herms : Tendance XXI express</title>
     </programme>
     <programme start="20241227210000 +0000" stop="20241227212500 +0000" channel="TV5Monde.vidio">
         <title>Le Journal de la RTBF</title>
@@ -29874,14 +29955,20 @@
     <programme start="20241227212500 +0000" stop="20241227221000 +0000" channel="TV5Monde.vidio">
         <title>Autour d&#039;une dinde</title>
     </programme>
-    <programme start="20241227221000 +0000" stop="20241227223000 +0000" channel="TV5Monde.vidio">
+    <programme start="20241227221000 +0000" stop="20241227225400 +0000" channel="TV5Monde.vidio">
         <title>On ramassera demain</title>
     </programme>
-    <programme start="20241227223000 +0000" stop="20241227230100 +0000" channel="TV5Monde.vidio">
-        <title>Le Journal de la RTBF</title>
+    <programme start="20241227225400 +0000" stop="20241227230000 +0000" channel="TV5Monde.vidio">
+        <title>Dis-moi pas!? La petite histoire des mots d&#039;ici</title>
     </programme>
-    <programme start="20241227230100 +0000" stop="20241227235200 +0000" channel="TV5Monde.vidio">
-        <title>Movie</title>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="TV5Monde.vidio">
+        <title>L&#039;actu</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241227235700 +0000" channel="TV5Monde.vidio">
+        <title>Le journal de la RTS</title>
+    </programme>
+    <programme start="20241227235700 +0000" stop="20241228000000 +0000" channel="TV5Monde.vidio">
+        <title>Oh ! Biz&#039;art</title>
     </programme>
     <programme start="20241228000000 +0000" stop="20241228002600 +0000" channel="TV5Monde.vidio">
         <title>Le journal de France 2</title>
@@ -41070,14 +41157,14 @@
     <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="News Asia.vidio">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="News Asia.vidio">
+    <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="News Asia.vidio">
         <title>Lunch With Masters of Finance</title>
     </programme>
-    <programme start="20241228213000 +0000" stop="20241228223000 +0000" channel="News Asia.vidio">
-        <title>The Year Ahead</title>
+    <programme start="20241228220000 +0000" stop="20241228223000 +0000" channel="News Asia.vidio">
+        <title>Singapore Tonight</title>
     </programme>
     <programme start="20241228223000 +0000" stop="20241228230000 +0000" channel="News Asia.vidio">
-        <title>Asia Tonight</title>
+        <title>CNA Correspondent</title>
     </programme>
     <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="News Asia.vidio">
         <title>Asia Now</title>
@@ -59366,5 +59453,14 @@
     </programme>
     <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Ajwa.vidio">
         <title>Sejadah</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="Ajwa.vidio">
+        <title>30 Hari 30 Juz</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="Ajwa.vidio">
+        <title>Pesantren &amp; Rock N Roll</title>
     </programme>
 </tv>
