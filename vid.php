@@ -411,14 +411,14 @@
     <programme start="20241226010000 +0000" stop="20241226030000 +0000" channel="SCTV.vidio">
         <title>FTV Pagi Spesial: Mas Car Wash Tydak Ramah Bintang 1</title>
     </programme>
-    <programme start="20241226030000 +0000" stop="20241226050000 +0000" channel="SCTV.vidio">
+    <programme start="20241226030000 +0000" stop="20241226050900 +0000" channel="SCTV.vidio">
         <title>FTV Pagi: Kaum Apateu Apateu Minggir Dulu</title>
     </programme>
-    <programme start="20241226050000 +0000" stop="20241226053000 +0000" channel="SCTV.vidio">
+    <programme start="20241226050900 +0000" stop="20241226053700 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241226053000 +0000" stop="20241226073000 +0000" channel="SCTV.vidio">
-        <title>American Ninja Warrior Junior</title>
+    <programme start="20241226053700 +0000" stop="20241226073000 +0000" channel="SCTV.vidio">
+        <title>FTV Siang : Ratu Selendang Mayang Sejagat</title>
     </programme>
     <programme start="20241226073000 +0000" stop="20241226094500 +0000" channel="SCTV.vidio">
         <title>FTV Sore: Stop Baper Yuk Bisa Yuk Move On</title>
@@ -435,56 +435,44 @@
     <programme start="20241226143000 +0000" stop="20241226160000 +0000" channel="SCTV.vidio">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241226160000 +0000" stop="20241226173000 +0000" channel="SCTV.vidio">
-        <title>20 Tahun Tsunami Aceh Di Bawah Bayangan Mega Thrust</title>
+    <programme start="20241226160000 +0000" stop="20241226170500 +0000" channel="SCTV.vidio">
+        <title>20 Tahun Tsunami Aceh Di Bawah Bayangan Megathrust</title>
     </programme>
-    <programme start="20241226174500 +0000" stop="20241226181500 +0000" channel="SCTV.vidio">
-        <title>Liputan 6 Malam</title>
+    <programme start="20241226170500 +0000" stop="20241226193500 +0000" channel="SCTV.vidio">
+        <title>Wolverhampton Wanderers vs. Manchester United : Premier League Soccer</title>
     </programme>
-    <programme start="20241226181500 +0000" stop="20241226201500 +0000" channel="SCTV.vidio">
-        <title>Buser</title>
+    <programme start="20241226193500 +0000" stop="20241226201500 +0000" channel="SCTV.vidio">
+        <title>Sinema Dini Hari : Cinta Sepanas Mie Godok</title>
     </programme>
     <programme start="20241226201500 +0000" stop="20241226210000 +0000" channel="SCTV.vidio">
-        <title>Cinta Karena Cinta</title>
+        <title>Sinema Malam : Telor Asin Rasa Cinta</title>
     </programme>
-    <programme start="20241226210000 +0000" stop="20241226213000 +0000" channel="SCTV.vidio">
+    <programme start="20241226210000 +0000" stop="20241226212500 +0000" channel="SCTV.vidio">
         <title>Barakallah</title>
     </programme>
-    <programme start="20241226213000 +0000" stop="20241226230000 +0000" channel="SCTV.vidio">
+    <programme start="20241226212500 +0000" stop="20241226225500 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20241226230000 +0000" stop="20241227000000 +0000" channel="SCTV.vidio">
-        <title>Status Selebriti</title>
+    <programme start="20241226225500 +0000" stop="20241226235500 +0000" channel="SCTV.vidio">
+        <title>Halo Selebriti</title>
     </programme>
-    <programme start="20241227000000 +0000" stop="20241227010000 +0000" channel="SCTV.vidio">
-        <title>Hot Shot</title>
+    <programme start="20241226235500 +0000" stop="20241227013000 +0000" channel="SCTV.vidio">
+        <title>GASPOL (Games Asyik Paling Nampol)</title>
     </programme>
-    <programme start="20241227010000 +0000" stop="20241227020000 +0000" channel="SCTV.vidio">
-        <title>SCTV FTV Pagi Spesial</title>
+    <programme start="20241227013000 +0000" stop="20241227023000 +0000" channel="SCTV.vidio">
+        <title>FTV Pagi Spesial : Rindu: Suara Dari Pisang Nugget</title>
     </programme>
-    <programme start="20241227020000 +0000" stop="20241227023000 +0000" channel="SCTV.vidio">
+    <programme start="20241227023000 +0000" stop="20241227030000 +0000" channel="SCTV.vidio">
         <title>Indonesian Simple</title>
     </programme>
-    <programme start="20241227023000 +0000" stop="20241227033000 +0000" channel="SCTV.vidio">
-        <title>SCTV FTV Pagi</title>
+    <programme start="20241227030000 +0000" stop="20241227050000 +0000" channel="SCTV.vidio">
+        <title>FTV Pagi</title>
     </programme>
-    <programme start="20241227033000 +0000" stop="20241227043000 +0000" channel="SCTV.vidio">
-        <title>Selamat Pagi Dunia</title>
-    </programme>
-    <programme start="20241227043000 +0000" stop="20241227053000 +0000" channel="SCTV.vidio">
+    <programme start="20241227050000 +0000" stop="20241227053000 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241227053000 +0000" stop="20241227093000 +0000" channel="SCTV.vidio">
-        <title>Semua Akan Naik Ojek Pada Waktunya</title>
-    </programme>
-    <programme start="20241227093000 +0000" stop="20241227110000 +0000" channel="SCTV.vidio">
-        <title>Tajwid Cinta</title>
-    </programme>
-    <programme start="20241227110000 +0000" stop="20241227123000 +0000" channel="SCTV.vidio">
-        <title>Bidadari Surgamu</title>
-    </programme>
-    <programme start="20241227123000 +0000" stop="20241227140000 +0000" channel="SCTV.vidio">
-        <title>Cinta Setelah Cinta</title>
+    <programme start="20241227053000 +0000" stop="20241227071500 +0000" channel="SCTV.vidio">
+        <title>American Ninja Warrior Junior</title>
     </programme>
     <programme start="20241227160000 +0000" stop="20241227180000 +0000" channel="SCTV.vidio">
         <title>Film Layar Lebar Spesial Liburan : Warkop DKI Reborn : Jangkrik Boss! Part 1</title>
@@ -560,6 +548,9 @@
     </programme>
     <programme start="20241229030000 +0000" stop="20241229050000 +0000" channel="SCTV.vidio">
         <title>SCTV FTV Pagi</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229093000 +0000" channel="SCTV.vidio">
+        <title>Liputan 6 Siang</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
@@ -1064,6 +1055,9 @@
     </programme>
     <programme start="20241229043000 +0000" stop="20241229050000 +0000" channel="Indosiar.vidio">
         <title>Fokus Siang</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Indosiar.vidio">
+        <title>Kisah Nyata Siang</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
@@ -19119,8 +19113,11 @@
     <programme start="20241226030000 +0000" stop="20241226040000 +0000" channel="Bein 1.vidio">
         <title>Season Review : FIA World Rally Championship Highlights</title>
     </programme>
-    <programme start="20241226040000 +0000" stop="20241226050000 +0000" channel="Bein 1.vidio">
+    <programme start="20241226040000 +0000" stop="20241226045300 +0000" channel="Bein 1.vidio">
         <title>F1 Classic 2024 1 : Silverstone Festival</title>
+    </programme>
+    <programme start="20241226045300 +0000" stop="20241226050000 +0000" channel="Bein 1.vidio">
+        <title>Filler</title>
     </programme>
     <programme start="20241226050000 +0000" stop="20241226063000 +0000" channel="Bein 1.vidio">
         <title>Paris, Quarterfinal : Premier Padel Major</title>
@@ -59486,5 +59483,11 @@
     </programme>
     <programme start="20241229041500 +0000" stop="20241229050000 +0000" channel="Ajwa.vidio">
         <title>Barakallah</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229053000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Dzuhur Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Dzuhur 2023</title>
+    </programme>
+    <programme start="20241229053000 +0000" stop="20241229073000 +0000" channel="Ajwa.vidio">
+        <title>Qari Cilik Indonesia</title>
     </programme>
 </tv>
