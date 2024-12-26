@@ -1059,6 +1059,12 @@
     <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Indosiar.vidio">
         <title>Hot Kiss</title>
     </programme>
+    <programme start="20241229040000 +0000" stop="20241229043000 +0000" channel="Indosiar.vidio">
+        <title>Patroli Siang</title>
+    </programme>
+    <programme start="20241229043000 +0000" stop="20241229050000 +0000" channel="Indosiar.vidio">
+        <title>Fokus Siang</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1541,6 +1547,9 @@
     </programme>
     <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Moji.vidio">
         <title>Bisik Pagi</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229073000 +0000" channel="Moji.vidio">
+        <title>Tercyduk</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -21621,10 +21630,10 @@
     <programme start="20241226003500 +0000" stop="20241226010000 +0000" channel="CTV 3.vidio">
         <title>NBA On Fire</title>
     </programme>
-    <programme start="20241226010000 +0000" stop="20241226033700 +0000" channel="CTV 3.vidio">
+    <programme start="20241226010000 +0000" stop="20241226033600 +0000" channel="CTV 3.vidio">
         <title>LA Lakers vs Golden State Warriors - NBA</title>
     </programme>
-    <programme start="20241226033700 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
+    <programme start="20241226033600 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
         <title>Denver Nuggets vs Phoenix Suns - NBA</title>
     </programme>
     <programme start="20241226060000 +0000" stop="20241226070000 +0000" channel="CTV 3.vidio">
@@ -59474,5 +59483,8 @@
     </programme>
     <programme start="20241229030000 +0000" stop="20241229041500 +0000" channel="Ajwa.vidio">
         <title>Dokter Tampan Lupa Ibu : FTV Islami</title>
+    </programme>
+    <programme start="20241229041500 +0000" stop="20241229050000 +0000" channel="Ajwa.vidio">
+        <title>Barakallah</title>
     </programme>
 </tv>
