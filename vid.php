@@ -573,6 +573,9 @@
     <programme start="20241229093000 +0000" stop="20241229110000 +0000" channel="SCTV.vidio">
         <title>Tajwid Cinta</title>
     </programme>
+    <programme start="20241229110000 +0000" stop="20241229123000 +0000" channel="SCTV.vidio">
+        <title>Bidadari Surgamu</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -933,10 +936,10 @@
     <programme start="20241226070000 +0000" stop="20241226090000 +0000" channel="Indosiar.vidio">
         <title>Kisah Nyata Spesial : Akibat Memusuhi Menantu</title>
     </programme>
-    <programme start="20241226090000 +0000" stop="20241226110000 +0000" channel="Indosiar.vidio">
+    <programme start="20241226090000 +0000" stop="20241226110500 +0000" channel="Indosiar.vidio">
         <title>Abang L The Bossday Party</title>
     </programme>
-    <programme start="20241226110000 +0000" stop="20241226130000 +0000" channel="Indosiar.vidio">
+    <programme start="20241226110500 +0000" stop="20241226130000 +0000" channel="Indosiar.vidio">
         <title>Magic 5 Season 3</title>
     </programme>
     <programme start="20241226130000 +0000" stop="20241226150000 +0000" channel="Indosiar.vidio">
@@ -2217,28 +2220,25 @@
     <programme start="20241226174500 +0000" stop="20241226183000 +0000" channel="Trans7.vidio">
         <title>Sport7</title>
     </programme>
-    <programme start="20241226183000 +0000" stop="20241226190000 +0000" channel="Trans7.vidio">
+    <programme start="20241226183000 +0000" stop="20241226193000 +0000" channel="Trans7.vidio">
         <title>Best Fishing</title>
     </programme>
-    <programme start="20241226190000 +0000" stop="20241226203000 +0000" channel="Trans7.vidio">
-        <title>Opera Van Java</title>
+    <programme start="20241226193000 +0000" stop="20241226204500 +0000" channel="Trans7.vidio">
+        <title>BTS</title>
     </programme>
-    <programme start="20241226203000 +0000" stop="20241226213000 +0000" channel="Trans7.vidio">
-        <title>The Police</title>
+    <programme start="20241226204500 +0000" stop="20241226214500 +0000" channel="Trans7.vidio">
+        <title>Just for Laughs Gags</title>
     </programme>
-    <programme start="20241226213000 +0000" stop="20241226221500 +0000" channel="Trans7.vidio">
-        <title>Islampedia</title>
+    <programme start="20241226214500 +0000" stop="20241226223000 +0000" channel="Trans7.vidio">
+        <title>Titik Target</title>
     </programme>
-    <programme start="20241226221500 +0000" stop="20241226230000 +0000" channel="Trans7.vidio">
-        <title>Ragam Indonesia</title>
-    </programme>
-    <programme start="20241226230000 +0000" stop="20241227000000 +0000" channel="Trans7.vidio">
+    <programme start="20241226223000 +0000" stop="20241226234500 +0000" channel="Trans7.vidio">
         <title>Redaksi Pagi</title>
     </programme>
-    <programme start="20241227000000 +0000" stop="20241227010000 +0000" channel="Trans7.vidio">
+    <programme start="20241226234500 +0000" stop="20241227004500 +0000" channel="Trans7.vidio">
         <title>Spotlite</title>
     </programme>
-    <programme start="20241227010000 +0000" stop="20241227013000 +0000" channel="Trans7.vidio">
+    <programme start="20241227004500 +0000" stop="20241227013000 +0000" channel="Trans7.vidio">
         <title>Selebrita Pagi</title>
     </programme>
     <programme start="20241227013000 +0000" stop="20241227023000 +0000" channel="Trans7.vidio">
@@ -2248,19 +2248,13 @@
         <title>BIG-BANG!</title>
     </programme>
     <programme start="20241227033000 +0000" stop="20241227041500 +0000" channel="Trans7.vidio">
-        <title>Trending</title>
-    </programme>
-    <programme start="20241227041500 +0000" stop="20241227050000 +0000" channel="Trans7.vidio">
         <title>Enah Bikin Enak</title>
     </programme>
-    <programme start="20241227050000 +0000" stop="20241227054500 +0000" channel="Trans7.vidio">
-        <title>Bocah Petualang</title>
+    <programme start="20241227041500 +0000" stop="20241227060000 +0000" channel="Trans7.vidio">
+        <title>Movievaganza Spesial Liburan : Mariposa</title>
     </programme>
-    <programme start="20241227054500 +0000" stop="20241227063000 +0000" channel="Trans7.vidio">
-        <title>Si Unyil</title>
-    </programme>
-    <programme start="20241227063000 +0000" stop="20241227071500 +0000" channel="Trans7.vidio">
-        <title>Jejak Anak Negeri</title>
+    <programme start="20241227060000 +0000" stop="20241227071500 +0000" channel="Trans7.vidio">
+        <title>Warkop Spesial Liburan : Sudah Pasti Tahan</title>
     </programme>
     <programme start="20241227071500 +0000" stop="20241227081500 +0000" channel="Trans7.vidio">
         <title>Redaksi</title>
@@ -2272,7 +2266,7 @@
         <title>Makan Receh</title>
     </programme>
     <programme start="20241227101500 +0000" stop="20241227110000 +0000" channel="Trans7.vidio">
-        <title>Selebrita Expose</title>
+        <title>Xpose Uncensored</title>
     </programme>
     <programme start="20241227110000 +0000" stop="20241227120000 +0000" channel="Trans7.vidio">
         <title>On The Spot</title>
@@ -2290,7 +2284,7 @@
         <title>Lapor Pak!</title>
     </programme>
     <programme start="20241227154500 +0000" stop="20241227163000 +0000" channel="Trans7.vidio">
-        <title>Krim Malam</title>
+        <title>The Police</title>
     </programme>
     <programme start="20241227163000 +0000" stop="20241227174500 +0000" channel="Trans7.vidio">
         <title>Misteri Dunia</title>
@@ -26451,38 +26445,50 @@
     <programme start="20241229231500 +0000" stop="20241230001500 +0000" channel="SPOTV 2.vidio">
         <title>BNI Indonesian Masters : Asian Tour Highlights</title>
     </programme>
-    <programme start="20241230020000 +0000" stop="20241230040000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230001500 +0000" stop="20241230024500 +0000" channel="SPOTV 2.vidio">
+        <title>TBA</title>
     </programme>
-    <programme start="20241230040000 +0000" stop="20241230060000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230024500 +0000" stop="20241230031500 +0000" channel="SPOTV 2.vidio">
+        <title>Asia-Pacific Amateur Championship</title>
     </programme>
-    <programme start="20241230060000 +0000" stop="20241230080000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230031500 +0000" stop="20241230041500 +0000" channel="SPOTV 2.vidio">
+        <title>Western United vs. Brisbane Roar : A-League Men Soccer</title>
     </programme>
-    <programme start="20241230080000 +0000" stop="20241230100000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230041500 +0000" stop="20241230051500 +0000" channel="SPOTV 2.vidio">
+        <title>Muay Thai League</title>
     </programme>
-    <programme start="20241230100000 +0000" stop="20241230120000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230051500 +0000" stop="20241230091500 +0000" channel="SPOTV 2.vidio">
+        <title>Central Coast Mariners vs. Auckland FC : A-League Men Soccer</title>
     </programme>
-    <programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230091500 +0000" stop="20241230101500 +0000" channel="SPOTV 2.vidio">
+        <title>Asian Le Mans Series Highlights</title>
     </programme>
-    <programme start="20241230140000 +0000" stop="20241230160000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230101500 +0000" stop="20241230113000 +0000" channel="SPOTV 2.vidio">
+        <title>Grand Prix Final - Mixed Ice Dance : ISU Grand Prix of Figure Skating</title>
     </programme>
-    <programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230113000 +0000" stop="20241230123000 +0000" channel="SPOTV 2.vidio">
+        <title>Season Review: Moto2 and Moto3 : MotoGP</title>
+    </programme>
+    <programme start="20241230123000 +0000" stop="20241230143000 +0000" channel="SPOTV 2.vidio">
+        <title>Season Review : Supercars Championship</title>
+    </programme>
+    <programme start="20241230143000 +0000" stop="20241230173000 +0000" channel="SPOTV 2.vidio">
+        <title>Estoril Round: Race 2 : FIM Supersport World Championship</title>
+    </programme>
+    <programme start="20241230173000 +0000" stop="20241230180000 +0000" channel="SPOTV 2.vidio">
+        <title>Table Tennis Highlights</title>
     </programme>
     <programme start="20241230180000 +0000" stop="20241230200000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+        <title>Cup of China - Mixed Ice Dance, Free Dance : ISU Grand Prix of Figure Skating</title>
     </programme>
-    <programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230200000 +0000" stop="20241230221500 +0000" channel="SPOTV 2.vidio">
+        <title>Figure Skating</title>
     </programme>
-    <programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="SPOTV 2.vidio">
-        <title>Sports Programme</title>
+    <programme start="20241230221500 +0000" stop="20241230231500 +0000" channel="SPOTV 2.vidio">
+        <title>Macau Grand Prix : Moto GP Highlights</title>
+    </programme>
+    <programme start="20241230231500 +0000" stop="20241231001500 +0000" channel="SPOTV 2.vidio">
+        <title>International Series Qatar : Asian Tour Highlights</title>
     </programme>
     <programme start="20241231001500 +0000" stop="20241231011500 +0000" channel="SPOTV 2.vidio">
         <title>Qatar Airways Australian Motorcycle Grand Prix : MotoGP Racing</title>
@@ -59573,5 +59579,8 @@
     </programme>
     <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="Ajwa.vidio">
         <title>Para Pencari Tuhan</title>
+    </programme>
+    <programme start="20241229110000 +0000" stop="20241229113000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mengetuk Pintu Hati 2023</title>
     </programme>
 </tv>

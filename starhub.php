@@ -24918,10 +24918,10 @@
     <programme start="20241226220000 +0000" stop="20241227021500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227013000 +0000" stop="20241227040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227021500 +0000" stop="20241227044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M05 - Melbourne Renegades vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20241227040000 +0000" stop="20241227080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227044500 +0000" stop="20241227080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M10 - Melbourne Renegades vs Perth Scorchers</title>
     </programme>
     <programme start="20241227080000 +0000" stop="20241227121500 +0000" channel="Hub Sports 4 HD.starhub">
