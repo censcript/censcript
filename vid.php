@@ -1080,6 +1080,9 @@
     <programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Indosiar.vidio">
         <title>Kisah Nyata</title>
     </programme>
+    <programme start="20241229080000 +0000" stop="20241229103000 +0000" channel="Indosiar.vidio">
+        <title>Liga 1</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1565,6 +1568,9 @@
     </programme>
     <programme start="20241229040000 +0000" stop="20241229073000 +0000" channel="Moji.vidio">
         <title>Tercyduk</title>
+    </programme>
+    <programme start="20241229073000 +0000" stop="20241229093000 +0000" channel="Moji.vidio">
+        <title>Surga Yang Kedua</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -2223,10 +2229,10 @@
     <programme start="20241227013000 +0000" stop="20241227023000 +0000" channel="Trans7.vidio">
         <title>For Your Pagi</title>
     </programme>
-    <programme start="20241227023000 +0000" stop="20241227031500 +0000" channel="Trans7.vidio">
-        <title>OMG</title>
+    <programme start="20241227023000 +0000" stop="20241227033000 +0000" channel="Trans7.vidio">
+        <title>BIG-BANG!</title>
     </programme>
-    <programme start="20241227031500 +0000" stop="20241227041500 +0000" channel="Trans7.vidio">
+    <programme start="20241227033000 +0000" stop="20241227041500 +0000" channel="Trans7.vidio">
         <title>Trending</title>
     </programme>
     <programme start="20241227041500 +0000" stop="20241227050000 +0000" channel="Trans7.vidio">
@@ -2256,13 +2262,13 @@
     <programme start="20241227110000 +0000" stop="20241227120000 +0000" channel="Trans7.vidio">
         <title>On The Spot</title>
     </programme>
-    <programme start="20241227120000 +0000" stop="20241227124500 +0000" channel="Trans7.vidio">
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Trans7.vidio">
         <title>Secret Story</title>
     </programme>
-    <programme start="20241227124500 +0000" stop="20241227133000 +0000" channel="Trans7.vidio">
+    <programme start="20241227123000 +0000" stop="20241227131500 +0000" channel="Trans7.vidio">
         <title>POV - Pasti Obrolan Viral</title>
     </programme>
-    <programme start="20241227133000 +0000" stop="20241227143000 +0000" channel="Trans7.vidio">
+    <programme start="20241227131500 +0000" stop="20241227143000 +0000" channel="Trans7.vidio">
         <title>Arisan</title>
     </programme>
     <programme start="20241227143000 +0000" stop="20241227154500 +0000" channel="Trans7.vidio">
@@ -11214,8 +11220,8 @@
     <programme start="20241225150000 +0000" stop="20241225170000 +0000" channel="NET TV.vidio">
         <title>Net. Sinema: Merry Riana 		</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="NET TV.vidio">
-        <title>One Championship Warrior</title>
+    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="NET TV.vidio">
+        <title>OK-JEK</title>
     </programme>
     <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="NET TV.vidio">
         <title>Jurnal UFC</title>
@@ -11263,7 +11269,7 @@
         <title>Shinbi House</title>
     </programme>
     <programme start="20241226090000 +0000" stop="20241226100000 +0000" channel="NET TV.vidio">
-        <title>Bitter Sweet 17 (17 Selamanya)</title>
+        <title>Bittersweet 17 (17 Selamanya)</title>
     </programme>
     <programme start="20241226100000 +0000" stop="20241226120000 +0000" channel="NET TV.vidio">
         <title>Antara Cinta dan Dusta</title>
@@ -11272,73 +11278,46 @@
         <title>Cinta Fitri</title>
     </programme>
     <programme start="20241226140000 +0000" stop="20241226150000 +0000" channel="NET TV.vidio">
-        <title>Net Series Prime : Layangann Putus</title>
+        <title>Layangan Putus</title>
     </programme>
-    <programme start="20241226150000 +0000" stop="20241226160000 +0000" channel="NET TV.vidio">
-        <title>86</title>
+    <programme start="20241226150000 +0000" stop="20241226170000 +0000" channel="NET TV.vidio">
+        <title>NET Sinema : Kesurupan</title>
     </programme>
-    <programme start="20241226160000 +0000" stop="20241226163000 +0000" channel="NET TV.vidio">
-        <title>Net Sinema : Kesurupan</title>
+    <programme start="20241226170000 +0000" stop="20241226180000 +0000" channel="NET TV.vidio">
+        <title>OK-JEK</title>
     </programme>
-    <programme start="20241226163000 +0000" stop="20241226173000 +0000" channel="NET TV.vidio">
-        <title>Jatanras</title>
+    <programme start="20241226180000 +0000" stop="20241226190000 +0000" channel="NET TV.vidio">
+        <title>Jurnal UFC</title>
     </programme>
-    <programme start="20241226173000 +0000" stop="20241226180000 +0000" channel="NET TV.vidio">
-        <title>One Championship Warrior</title>
-    </programme>
-    <programme start="20241226180000 +0000" stop="20241226183000 +0000" channel="NET TV.vidio">
-        <title>One Championship Warrior</title>
-    </programme>
-    <programme start="20241226183000 +0000" stop="20241226193000 +0000" channel="NET TV.vidio">
-        <title>Jejak Peristiwa</title>
-    </programme>
-    <programme start="20241226193000 +0000" stop="20241226210000 +0000" channel="NET TV.vidio">
-        <title>RT 5</title>
-    </programme>
-    <programme start="20241226210000 +0000" stop="20241226220000 +0000" channel="NET TV.vidio">
-        <title>Kurulus: Osman</title>
-    </programme>
-    <programme start="20241226220000 +0000" stop="20241226223000 +0000" channel="NET TV.vidio">
-        <title>Ok Food</title>
-    </programme>
-    <programme start="20241226223000 +0000" stop="20241226233000 +0000" channel="NET TV.vidio">
-        <title>Status Selebriti</title>
-    </programme>
-    <programme start="20241226233000 +0000" stop="20241227003000 +0000" channel="NET TV.vidio">
-        <title>Di Balik Mitos</title>
-    </programme>
-    <programme start="20241227003000 +0000" stop="20241227013000 +0000" channel="NET TV.vidio">
+    <programme start="20241226190000 +0000" stop="20241226200000 +0000" channel="NET TV.vidio">
         <title>Fakta +62</title>
     </programme>
-    <programme start="20241227013000 +0000" stop="20241227060000 +0000" channel="NET TV.vidio">
-        <title>Makan Enak</title>
+    <programme start="20241226200000 +0000" stop="20241226210000 +0000" channel="NET TV.vidio">
+        <title>In The Kost</title>
     </programme>
-    <programme start="20241227060000 +0000" stop="20241227070000 +0000" channel="NET TV.vidio">
-        <title>Masakuy</title>
+    <programme start="20241226210000 +0000" stop="20241226220000 +0000" channel="NET TV.vidio">
+        <title>Di Balik Mitos</title>
     </programme>
-    <programme start="20241227070000 +0000" stop="20241227083000 +0000" channel="NET TV.vidio">
+    <programme start="20241226220000 +0000" stop="20241226230000 +0000" channel="NET TV.vidio">
+        <title>Inilah Kisahnya</title>
+    </programme>
+    <programme start="20241226230000 +0000" stop="20241226235500 +0000" channel="NET TV.vidio">
         <title>Top Spot</title>
     </programme>
-    <programme start="20241227083000 +0000" stop="20241227090000 +0000" channel="NET TV.vidio">
-        <title>Fakta Terkini</title>
+    <programme start="20241226235500 +0000" stop="20241227005500 +0000" channel="NET TV.vidio">
+        <title>AADD (Ada Apa Dengan Dunia)</title>
     </programme>
-    <programme start="20241227090000 +0000" stop="20241227100000 +0000" channel="NET TV.vidio">
-        <title>Ruang Seleb</title>
+    <programme start="20241227005500 +0000" stop="20241227015500 +0000" channel="NET TV.vidio">
+        <title>Fakta +62</title>
     </programme>
-    <programme start="20241227100000 +0000" stop="20241227120000 +0000" channel="NET TV.vidio">
-        <title>Cinderella and Four Knights</title>
+    <programme start="20241227015500 +0000" stop="20241227030000 +0000" channel="NET TV.vidio">
+        <title>Monthly Magazine Home</title>
     </programme>
-    <programme start="20241227120000 +0000" stop="20241227133000 +0000" channel="NET TV.vidio">
-        <title>Goblin</title>
+    <programme start="20241227030000 +0000" stop="20241227040000 +0000" channel="NET TV.vidio">
+        <title>Angel&#039;s Last Mission</title>
     </programme>
-    <programme start="20241227133000 +0000" stop="20241227143000 +0000" channel="NET TV.vidio">
-        <title>Spot Update</title>
-    </programme>
-    <programme start="20241227143000 +0000" stop="20241227153000 +0000" channel="NET TV.vidio">
-        <title>86</title>
-    </programme>
-    <programme start="20241227153000 +0000" stop="20241227170000 +0000" channel="NET TV.vidio">
-        <title>ONE Friday Fights 27</title>
+    <programme start="20241227040000 +0000" stop="20241227050000 +0000" channel="NET TV.vidio">
+        <title>Makan Enak</title>
     </programme>
     <programme start="20241227170000 +0000" stop="20241227180000 +0000" channel="NET TV.vidio">
         <title>Fenomena</title>
@@ -19885,7 +19864,7 @@
         <title>Charlton Athletic vs. Cambridge United : English League One Soccer</title>
     </programme>
     <programme start="20241227150000 +0000" stop="20241227170000 +0000" channel="CTV 1.vidio">
-        <title>Fiorentina vs. Udinese : Italian Serie A Soccer</title>
+        <title>FC Internazionale Milano vs. Como : Italian Serie A Soccer</title>
     </programme>
     <programme start="20241227170000 +0000" stop="20241227190000 +0000" channel="CTV 1.vidio">
         <title>Coventry City vs. Plymouth Argyle : English Championship Soccer</title>
@@ -59513,5 +59492,14 @@
     </programme>
     <programme start="20241229053000 +0000" stop="20241229073000 +0000" channel="Ajwa.vidio">
         <title>Qari Cilik Indonesia</title>
+    </programme>
+    <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
+    </programme>
+    <programme start="20241229080000 +0000" stop="20241229083000 +0000" channel="Ajwa.vidio">
+        <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
+    </programme>
+    <programme start="20241229083000 +0000" stop="20241229090000 +0000" channel="Ajwa.vidio">
+        <title>Muslim Masa Kini</title>
     </programme>
 </tv>
