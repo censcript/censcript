@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241226145000 +0000" stop="20241226172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Thursday</title>
-    </programme>
-    <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Southampton v West Ham United</title>
-    </programme>
-    <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Nottingham Forest v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Newcastle United v Aston Villa</title>
-    </programme>
-    <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Chelsea v Fulham</title>
-    </programme>
-    <programme start="20241226145000 +0000" stop="20241226171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Bournemouth v Crystal Palace</title>
-    </programme>
     <programme start="20241226172000 +0000" stop="20241226195000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Manchester United</title>
     </programme>
@@ -299,5 +281,23 @@
     </programme>
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Bournemouth</title>
+    </programme>
+    <programme start="20250114183000 +0000" stop="20250114230000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Wednesday Morning</title>
+    </programme>
+    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Chelsea v Bournemouth</title>
+    </programme>
+    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - West Ham United v Fulham</title>
+    </programme>
+    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Brentford v Manchester City</title>
+    </programme>
+    <programme start="20250114195000 +0000" stop="20250114221000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Nottingham Forest v Liverpool</title>
+    </programme>
+    <programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
     </programme>
 </tv>
