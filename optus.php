@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241226113000 +0000" stop="20241226145000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester City v Everton</title>
-    </programme>
     <programme start="20241226145000 +0000" stop="20241226172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Thursday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250113192000 +0000" stop="20250113224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Millwall v Dagenham &amp; Redbridge</title>
+    </programme>
+    <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Bournemouth</title>
     </programme>
 </tv>
