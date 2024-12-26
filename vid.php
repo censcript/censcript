@@ -558,6 +558,9 @@
     <programme start="20241229010000 +0000" stop="20241229030000 +0000" channel="SCTV.vidio">
         <title>SCTV FTV Pagi Spesial</title>
     </programme>
+    <programme start="20241229030000 +0000" stop="20241229050000 +0000" channel="SCTV.vidio">
+        <title>SCTV FTV Pagi</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -1053,6 +1056,9 @@
     <programme start="20241229013000 +0000" stop="20241229030000 +0000" channel="Indosiar.vidio">
         <title>Kisah Nyata Pagi</title>
     </programme>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Indosiar.vidio">
+        <title>Hot Kiss</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1532,6 +1538,9 @@
     </programme>
     <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="Moji.vidio">
         <title>Netizen Update</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Moji.vidio">
+        <title>Bisik Pagi</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -21612,10 +21621,10 @@
     <programme start="20241226003500 +0000" stop="20241226010000 +0000" channel="CTV 3.vidio">
         <title>NBA On Fire</title>
     </programme>
-    <programme start="20241226010000 +0000" stop="20241226033000 +0000" channel="CTV 3.vidio">
+    <programme start="20241226010000 +0000" stop="20241226033700 +0000" channel="CTV 3.vidio">
         <title>LA Lakers vs Golden State Warriors - NBA</title>
     </programme>
-    <programme start="20241226033000 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
+    <programme start="20241226033700 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
         <title>Denver Nuggets vs Phoenix Suns - NBA</title>
     </programme>
     <programme start="20241226060000 +0000" stop="20241226070000 +0000" channel="CTV 3.vidio">
@@ -59462,5 +59471,8 @@
     </programme>
     <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="Ajwa.vidio">
         <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229041500 +0000" channel="Ajwa.vidio">
+        <title>Dokter Tampan Lupa Ibu : FTV Islami</title>
     </programme>
 </tv>
