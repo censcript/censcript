@@ -570,6 +570,9 @@
     <programme start="20241229050000 +0000" stop="20241229093000 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Siang</title>
     </programme>
+    <programme start="20241229093000 +0000" stop="20241229110000 +0000" channel="SCTV.vidio">
+        <title>Tajwid Cinta</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218193000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia : A Man Called Hero</title>
     </programme>
@@ -1083,6 +1086,9 @@
     <programme start="20241229080000 +0000" stop="20241229103000 +0000" channel="Indosiar.vidio">
         <title>Liga 1</title>
     </programme>
+    <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="Indosiar.vidio">
+        <title>Magic 5</title>
+    </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
     </programme>
@@ -1571,6 +1577,12 @@
     </programme>
     <programme start="20241229073000 +0000" stop="20241229093000 +0000" channel="Moji.vidio">
         <title>Surga Yang Kedua</title>
+    </programme>
+    <programme start="20241229093000 +0000" stop="20241229103000 +0000" channel="Moji.vidio">
+        <title>Makan Terooos</title>
+    </programme>
+    <programme start="20241229103000 +0000" stop="20241229143000 +0000" channel="Moji.vidio">
+        <title>Tercyduk</title>
     </programme>
     <programme start="20241218171500 +0000" stop="20241218174500 +0000" channel="Trans7.vidio">
         <title>Redaksi Malam</title>
@@ -2176,15 +2188,15 @@
         <title>Makan Receh</title>
     </programme>
     <programme start="20241226101500 +0000" stop="20241226110000 +0000" channel="Trans7.vidio">
-        <title>Selebrita Expose</title>
+        <title>Xpose Uncensored</title>
     </programme>
     <programme start="20241226110000 +0000" stop="20241226120000 +0000" channel="Trans7.vidio">
         <title>On The Spot</title>
     </programme>
-    <programme start="20241226120000 +0000" stop="20241226124500 +0000" channel="Trans7.vidio">
+    <programme start="20241226120000 +0000" stop="20241226123000 +0000" channel="Trans7.vidio">
         <title>Secret Story</title>
     </programme>
-    <programme start="20241226124500 +0000" stop="20241226131500 +0000" channel="Trans7.vidio">
+    <programme start="20241226123000 +0000" stop="20241226131500 +0000" channel="Trans7.vidio">
         <title>POV - Pasti Obrolan Viral</title>
     </programme>
     <programme start="20241226131500 +0000" stop="20241226143000 +0000" channel="Trans7.vidio">
@@ -2198,6 +2210,9 @@
     </programme>
     <programme start="20241226163000 +0000" stop="20241226171500 +0000" channel="Trans7.vidio">
         <title>Misteri Dunia</title>
+    </programme>
+    <programme start="20241226171500 +0000" stop="20241226174500 +0000" channel="Trans7.vidio">
+        <title>Redaksi Malam</title>
     </programme>
     <programme start="20241226174500 +0000" stop="20241226183000 +0000" channel="Trans7.vidio">
         <title>Sport7</title>
@@ -3034,13 +3049,31 @@
         <title>Bikin Laper</title>
     </programme>
     <programme start="20241226130000 +0000" stop="20241226140000 +0000" channel="TRANS TV.vidio">
-        <title>Jam Praktek</title>
+        <title>Dunia Punya Cerita</title>
     </programme>
     <programme start="20241226140000 +0000" stop="20241226160000 +0000" channel="TRANS TV.vidio">
-        <title>Bioskop Trans TV - 2012</title>
+        <title>Bioskop Trans TV : 2012</title>
     </programme>
     <programme start="20241226160000 +0000" stop="20241226180000 +0000" channel="TRANS TV.vidio">
-        <title>Bioskop Trans TV - Only The Brave</title>
+        <title>Bioskop Trans TV : Only The Brave</title>
+    </programme>
+    <programme start="20241226180000 +0000" stop="20241226191000 +0000" channel="TRANS TV.vidio">
+        <title>Bioskop Indonesia Premiere : Pesta Lajang Berujung Maut</title>
+    </programme>
+    <programme start="20241226191000 +0000" stop="20241226202000 +0000" channel="TRANS TV.vidio">
+        <title>Di Bawah Lindungan Abah</title>
+    </programme>
+    <programme start="20241226202000 +0000" stop="20241226212000 +0000" channel="TRANS TV.vidio">
+        <title>Surga Yang Tak Dirindukan The Series</title>
+    </programme>
+    <programme start="20241226212000 +0000" stop="20241226214000 +0000" channel="TRANS TV.vidio">
+        <title>My Trip My Adventure</title>
+    </programme>
+    <programme start="20241226214000 +0000" stop="20241226220000 +0000" channel="TRANS TV.vidio">
+        <title>Rindu</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241226233000 +0000" channel="TRANS TV.vidio">
+        <title>Islam Itu Indah</title>
     </programme>
     <programme start="20241226233000 +0000" stop="20241227003000 +0000" channel="TRANS TV.vidio">
         <title>Insert Pagi</title>
@@ -3069,11 +3102,17 @@
     <programme start="20241227093000 +0000" stop="20241227103000 +0000" channel="TRANS TV.vidio">
         <title>Dream Box Indonesia</title>
     </programme>
-    <programme start="20241227103000 +0000" stop="20241227140000 +0000" channel="TRANS TV.vidio">
+    <programme start="20241227103000 +0000" stop="20241227114500 +0000" channel="TRANS TV.vidio">
         <title>Bikin Laper</title>
     </programme>
+    <programme start="20241227114500 +0000" stop="20241227130000 +0000" channel="TRANS TV.vidio">
+        <title>Insert Story</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227140000 +0000" channel="TRANS TV.vidio">
+        <title>Dunia Punya Cerita</title>
+    </programme>
     <programme start="20241227140000 +0000" stop="20241227160000 +0000" channel="TRANS TV.vidio">
-        <title>Rambo: Last Blood</title>
+        <title>Bioskop Trans TV : Rambo: Last Blood</title>
     </programme>
     <programme start="20241227160000 +0000" stop="20241227233000 +0000" channel="TRANS TV.vidio">
         <title>1911 Revolution</title>
@@ -4542,11 +4581,17 @@
     <programme start="20241227020000 +0000" stop="20241227053000 +0000" channel="ANTV.vidio">
         <title>MEGA BOLLYWOOD:  GADAR EK PREM KATHA</title>
     </programme>
-    <programme start="20241227090000 +0000" stop="20241227123000 +0000" channel="ANTV.vidio">
-        <title>Bhagya Lakshmi</title>
+    <programme start="20241227053000 +0000" stop="20241227063000 +0000" channel="ANTV.vidio">
+        <title>DUA HATI SATU CINTA</title>
     </programme>
-    <programme start="20241227123000 +0000" stop="20241227160000 +0000" channel="ANTV.vidio">
-        <title>Imlie</title>
+    <programme start="20241227063000 +0000" stop="20241227080000 +0000" channel="ANTV.vidio">
+        <title>ANUPAMAA </title>
+    </programme>
+    <programme start="20241227080000 +0000" stop="20241227113000 +0000" channel="ANTV.vidio">
+        <title>JANJI CINTA INSPEKTUR VIRAT</title>
+    </programme>
+    <programme start="20241227113000 +0000" stop="20241227133000 +0000" channel="ANTV.vidio">
+        <title>AINI &quot;MALAIKAT TAK BERSAYAP&quot;</title>
     </programme>
     <programme start="20241227160000 +0000" stop="20241227180000 +0000" channel="ANTV.vidio">
         <title>Garis Tangan 2</title>
@@ -59525,5 +59570,8 @@
     </programme>
     <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="Ajwa.vidio">
         <title>Pesantren &amp; Rock N Roll</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="Ajwa.vidio">
+        <title>Para Pencari Tuhan</title>
     </programme>
 </tv>

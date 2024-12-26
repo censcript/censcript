@@ -3535,7 +3535,7 @@
         <title>Genius Go Go Go</title>
     </programme>
     <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="TVBS Asia.starhub">
-        <title>TVBS Sisy&#039;s World News Asia</title>
+        <title>TVBS Sisy&#039;s World News</title>
     </programme>
     <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="TVBS Asia.starhub">
         <title>TVBS Sisy&#039;s World News Europe</title>
@@ -3573,8 +3573,11 @@
     <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="TVBS Asia.starhub">
         <title>All About Health</title>
     </programme>
-    <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="TVBS Asia.starhub">
-        <title>Chop Chop Show</title>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="TVBS Asia.starhub">
+        <title>2024 Taipei Marathon Highlights</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="TVBS Asia.starhub">
+        <title>Super Taste</title>
     </programme>
     <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="TVBS Asia.starhub">
         <title>Queen</title>
@@ -3596,9 +3599,6 @@
     </programme>
     <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="TVBS Asia.starhub">
         <title>Super Taste: Go Go! Two- Day Trip</title>
-    </programme>
-    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="TVBS Asia.starhub">
-        <title>Have a nice dream</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225001600 +0000" channel="Euronews HD.starhub">
         <title>Wake up Europe</title>
@@ -8334,41 +8334,68 @@
     <programme start="20250102140000 +0000" stop="20250102163000 +0000" channel="Zee Cinema.starhub">
         <title>NH 10</title>
     </programme>
-    <programme start="20250102163000 +0000" stop="20250102220000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250102163000 +0000" stop="20250102170000 +0000" channel="Zee Cinema.starhub">
+        <title>A Table for Two S02</title>
     </programme>
-    <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250102170000 +0000" stop="20250102200000 +0000" channel="Zee Cinema.starhub">
+        <title>Qarib Qarib Singlle</title>
     </programme>
-    <programme start="20250103040000 +0000" stop="20250103100000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250102200000 +0000" stop="20250102230000 +0000" channel="Zee Cinema.starhub">
+        <title>Khiladi 420</title>
     </programme>
-    <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250102230000 +0000" stop="20250103020000 +0000" channel="Zee Cinema.starhub">
+        <title>Kyon Ki</title>
     </programme>
-    <programme start="20250103160000 +0000" stop="20250103220000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103020000 +0000" stop="20250103050000 +0000" channel="Zee Cinema.starhub">
+        <title>NH 10</title>
     </programme>
-    <programme start="20250103220000 +0000" stop="20250104040000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103050000 +0000" stop="20250103080000 +0000" channel="Zee Cinema.starhub">
+        <title>Barsaat</title>
     </programme>
-    <programme start="20250104040000 +0000" stop="20250104100000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103080000 +0000" stop="20250103110000 +0000" channel="Zee Cinema.starhub">
+        <title>Kabzaa</title>
     </programme>
-    <programme start="20250104100000 +0000" stop="20250104160000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103110000 +0000" stop="20250103140000 +0000" channel="Zee Cinema.starhub">
+        <title>Qarib Qarib Singlle</title>
     </programme>
-    <programme start="20250104160000 +0000" stop="20250104220000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103140000 +0000" stop="20250103163000 +0000" channel="Zee Cinema.starhub">
+        <title>Laila Majnu</title>
     </programme>
-    <programme start="20250104220000 +0000" stop="20250105040000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="Zee Cinema.starhub">
+        <title>Zee Connect S14</title>
     </programme>
-    <programme start="20250105040000 +0000" stop="20250105100000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103170000 +0000" stop="20250103200000 +0000" channel="Zee Cinema.starhub">
+        <title>Baaghi - Rebels in love</title>
     </programme>
-    <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="Zee Cinema.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103200000 +0000" stop="20250103230000 +0000" channel="Zee Cinema.starhub">
+        <title>Mausam</title>
+    </programme>
+    <programme start="20250103230000 +0000" stop="20250104020000 +0000" channel="Zee Cinema.starhub">
+        <title>Kabzaa</title>
+    </programme>
+    <programme start="20250104020000 +0000" stop="20250104050000 +0000" channel="Zee Cinema.starhub">
+        <title>Laila Majnu</title>
+    </programme>
+    <programme start="20250104050000 +0000" stop="20250104080000 +0000" channel="Zee Cinema.starhub">
+        <title>Khiladi 420</title>
+    </programme>
+    <programme start="20250104080000 +0000" stop="20250104103000 +0000" channel="Zee Cinema.starhub">
+        <title>No Problem</title>
+    </programme>
+    <programme start="20250104103000 +0000" stop="20250104110000 +0000" channel="Zee Cinema.starhub">
+        <title>Zee Connect S14</title>
+    </programme>
+    <programme start="20250104110000 +0000" stop="20250104140000 +0000" channel="Zee Cinema.starhub">
+        <title>Baaghi - Rebels in love</title>
+    </programme>
+    <programme start="20250104140000 +0000" stop="20250104163000 +0000" channel="Zee Cinema.starhub">
+        <title>Zero</title>
+    </programme>
+    <programme start="20250104163000 +0000" stop="20250104170000 +0000" channel="Zee Cinema.starhub">
+        <title>Konkan Diaries</title>
+    </programme>
+    <programme start="20250104170000 +0000" stop="20250104200000 +0000" channel="Zee Cinema.starhub">
+        <title>Joram</title>
     </programme>
     <programme start="20241224231000 +0000" stop="20241225015500 +0000" channel="ROCK Entertainment.starhub">
         <title>The Aviator</title>
@@ -17934,8 +17961,11 @@
     <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="Asianet.starhub">
         <title>Chempaneerpovu</title>
     </programme>
-    <programme start="20241228050000 +0000" stop="20241228073000 +0000" channel="Asianet.starhub">
-        <title>Maheshum Maruthiyum</title>
+    <programme start="20241228050000 +0000" stop="20241228070000 +0000" channel="Asianet.starhub">
+        <title>Oru Cherupunchiri</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para : Short Version</title>
     </programme>
     <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
@@ -17948,9 +17978,6 @@
     </programme>
     <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
-    </programme>
-    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Asianet.starhub">
-        <title>Etho Janma Kalpanayil</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241225003000 +0000" channel="Vannathirai.starhub">
         <title>Manaivi Sollae Manthiram</title>
