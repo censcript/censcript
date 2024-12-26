@@ -1449,9 +1449,6 @@
     <programme start="20241227160000 +0000" stop="20241226180000 +0000" channel="SCTV.cubmu">
         <title>Film Layar Lebar Sps</title>
     </programme>
-    <programme start="20241226170000 +0000" stop="20241226170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20241226170500 +0000" stop="20241226180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -1555,7 +1552,7 @@
         <title>Newsline</title>
     </programme>
     <programme start="20241227083000 +0000" stop="20241227090000 +0000" channel="MetroTV.cubmu">
-        <title>Berita Pilkada</title>
+        <title>Newsline</title>
     </programme>
     <programme start="20241227090000 +0000" stop="20241227090500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -2096,9 +2093,6 @@
     </programme>
     <programme start="20241227163000 +0000" stop="20241226173000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20241226170000 +0000" stop="20241226170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241226170500 +0000" stop="20241226170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
