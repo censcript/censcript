@@ -414,19 +414,19 @@
     <programme start="20241226030000 +0000" stop="20241226050900 +0000" channel="SCTV.vidio">
         <title>FTV Pagi: Kaum Apateu Apateu Minggir Dulu</title>
     </programme>
-    <programme start="20241226050900 +0000" stop="20241226053700 +0000" channel="SCTV.vidio">
+    <programme start="20241226050900 +0000" stop="20241226053900 +0000" channel="SCTV.vidio">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241226053700 +0000" stop="20241226073000 +0000" channel="SCTV.vidio">
-        <title>FTV Siang : Ratu Selendang Mayang Sejagat</title>
+    <programme start="20241226053900 +0000" stop="20241226073000 +0000" channel="SCTV.vidio">
+        <title>FTV Siang : Kerja Keras Bagai Quda Mendapatkan Cintamu</title>
     </programme>
     <programme start="20241226073000 +0000" stop="20241226094500 +0000" channel="SCTV.vidio">
         <title>FTV Sore: Stop Baper Yuk Bisa Yuk Move On</title>
     </programme>
-    <programme start="20241226094500 +0000" stop="20241226111500 +0000" channel="SCTV.vidio">
+    <programme start="20241226094500 +0000" stop="20241226111000 +0000" channel="SCTV.vidio">
         <title>Saleha</title>
     </programme>
-    <programme start="20241226111500 +0000" stop="20241226130000 +0000" channel="SCTV.vidio">
+    <programme start="20241226111000 +0000" stop="20241226124000 +0000" channel="SCTV.vidio">
         <title>Asmara Gen Z</title>
     </programme>
     <programme start="20241226130000 +0000" stop="20241226143000 +0000" channel="SCTV.vidio">
@@ -473,6 +473,21 @@
     </programme>
     <programme start="20241227053000 +0000" stop="20241227071500 +0000" channel="SCTV.vidio">
         <title>American Ninja Warrior Junior</title>
+    </programme>
+    <programme start="20241227071500 +0000" stop="20241227094500 +0000" channel="SCTV.vidio">
+        <title>FTV Sore : Tutor Jagain Jodoh Orang</title>
+    </programme>
+    <programme start="20241227094500 +0000" stop="20241227111000 +0000" channel="SCTV.vidio">
+        <title>Saleha</title>
+    </programme>
+    <programme start="20241227111000 +0000" stop="20241227124000 +0000" channel="SCTV.vidio">
+        <title>Asmara Gen Z</title>
+    </programme>
+    <programme start="20241227124000 +0000" stop="20241227143000 +0000" channel="SCTV.vidio">
+        <title>Naik Ranjang</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227160000 +0000" channel="SCTV.vidio">
+        <title>Luka Cinta</title>
     </programme>
     <programme start="20241227160000 +0000" stop="20241227180000 +0000" channel="SCTV.vidio">
         <title>Film Layar Lebar Spesial Liburan : Warkop DKI Reborn : Jangkrik Boss! Part 1</title>
@@ -916,7 +931,7 @@
         <title>Abang L The Bossday Party</title>
     </programme>
     <programme start="20241226110000 +0000" stop="20241226130000 +0000" channel="Indosiar.vidio">
-        <title>Magic 5</title>
+        <title>Magic 5 Season 3</title>
     </programme>
     <programme start="20241226130000 +0000" stop="20241226150000 +0000" channel="Indosiar.vidio">
         <title>Blockbuster Film Asia : Fight Against Evil</title>
@@ -925,10 +940,10 @@
         <title>Mega Film Asia : Counter Attack</title>
     </programme>
     <programme start="20241226170000 +0000" stop="20241226193000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia</title>
+        <title>Mega Film Asia : Chasing The Dragon</title>
     </programme>
     <programme start="20241226193000 +0000" stop="20241226210000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia</title>
+        <title>Mega Film Asia : Skinny Tiger &amp; Fatty Dragon</title>
     </programme>
     <programme start="20241226210000 +0000" stop="20241226213000 +0000" channel="Indosiar.vidio">
         <title>Pintu Pintu Syurga</title>
@@ -937,10 +952,10 @@
         <title>Fokus Pagi</title>
     </programme>
     <programme start="20241226230000 +0000" stop="20241227010000 +0000" channel="Indosiar.vidio">
-        <title>Magic 5</title>
+        <title>Magic 5 Season 3</title>
     </programme>
     <programme start="20241227010000 +0000" stop="20241227030000 +0000" channel="Indosiar.vidio">
-        <title>Kisah Nyata Pagi</title>
+        <title>Kisah Nyata Pagi Spesial : Jebakan Dendam Yang Menghancurkan Mahligai Pernikahan</title>
     </programme>
     <programme start="20241227030000 +0000" stop="20241227040000 +0000" channel="Indosiar.vidio">
         <title>Hot Kiss</title>
@@ -952,25 +967,25 @@
         <title>Fokus Siang</title>
     </programme>
     <programme start="20241227050000 +0000" stop="20241227060000 +0000" channel="Indosiar.vidio">
-        <title>Kisah Nyata Siang</title>
+        <title>Kisah Nyata Siang Spesial : Jebakan Yang Menghancurkan Kepercayaan</title>
     </programme>
     <programme start="20241227060000 +0000" stop="20241227080000 +0000" channel="Indosiar.vidio">
-        <title>Kisah Nyata</title>
+        <title>Kisah Nyata Spesial : Teror Paylater Bikin Hidup Aku Susah</title>
     </programme>
     <programme start="20241227080000 +0000" stop="20241227103000 +0000" channel="Indosiar.vidio">
         <title>Liga 1</title>
     </programme>
     <programme start="20241227103000 +0000" stop="20241227113000 +0000" channel="Indosiar.vidio">
-        <title>Magic 5</title>
+        <title>Magic 5 Season 3</title>
     </programme>
     <programme start="20241227113000 +0000" stop="20241227140000 +0000" channel="Indosiar.vidio">
         <title>PSS Sleman vs Madura United FC - Liga 1</title>
     </programme>
     <programme start="20241227140000 +0000" stop="20241227160000 +0000" channel="Indosiar.vidio">
-        <title>Blockbuster Film Asia</title>
+        <title>Blockbuster Film Asia : Fight Against Evil II</title>
     </programme>
     <programme start="20241227160000 +0000" stop="20241227183000 +0000" channel="Indosiar.vidio">
-        <title>Mega Film Asia</title>
+        <title>Mega Film Asia : Special ID</title>
     </programme>
     <programme start="20241227183000 +0000" stop="20241227203000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia</title>
@@ -1058,6 +1073,9 @@
     </programme>
     <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Indosiar.vidio">
         <title>Kisah Nyata Siang</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Indosiar.vidio">
+        <title>Kisah Nyata</title>
     </programme>
     <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Moji.vidio">
         <title>Premier League</title>
@@ -1411,7 +1429,7 @@
         <title>Tercyduk</title>
     </programme>
     <programme start="20241226073000 +0000" stop="20241226093000 +0000" channel="Moji.vidio">
-        <title>Surga Yang Kedua</title>
+        <title>Surga Yang Ke 2</title>
     </programme>
     <programme start="20241226093000 +0000" stop="20241226103000 +0000" channel="Moji.vidio">
         <title>Makan Terooos</title>
@@ -1422,16 +1440,16 @@
     <programme start="20241226143000 +0000" stop="20241226160000 +0000" channel="Moji.vidio">
         <title>Ungkap</title>
     </programme>
-    <programme start="20241226160000 +0000" stop="20241226173000 +0000" channel="Moji.vidio">
-        <title>The Entertainment</title>
+    <programme start="20241226160000 +0000" stop="20241226170000 +0000" channel="Moji.vidio">
+        <title>The Sultan Entertainment</title>
     </programme>
-    <programme start="20241226173000 +0000" stop="20241226183000 +0000" channel="Moji.vidio">
+    <programme start="20241226170000 +0000" stop="20241226180000 +0000" channel="Moji.vidio">
         <title>Ungkap</title>
     </programme>
-    <programme start="20241226183000 +0000" stop="20241226203000 +0000" channel="Moji.vidio">
+    <programme start="20241226180000 +0000" stop="20241226200000 +0000" channel="Moji.vidio">
         <title>Livoli Divisi Utama Putri</title>
     </programme>
-    <programme start="20241226203000 +0000" stop="20241226220000 +0000" channel="Moji.vidio">
+    <programme start="20241226200000 +0000" stop="20241226220000 +0000" channel="Moji.vidio">
         <title>Livoli Divisi Utama Putra</title>
     </programme>
     <programme start="20241226220000 +0000" stop="20241226231500 +0000" channel="Moji.vidio">
@@ -1456,7 +1474,7 @@
         <title>Tercyduk</title>
     </programme>
     <programme start="20241227073000 +0000" stop="20241227093000 +0000" channel="Moji.vidio">
-        <title>Surga Yang Kedua</title>
+        <title>Surga Yang Ke 2</title>
     </programme>
     <programme start="20241227093000 +0000" stop="20241227103000 +0000" channel="Moji.vidio">
         <title>Makan Terooos</title>
@@ -21630,8 +21648,11 @@
     <programme start="20241226010000 +0000" stop="20241226033600 +0000" channel="CTV 3.vidio">
         <title>LA Lakers vs Golden State Warriors - NBA</title>
     </programme>
-    <programme start="20241226033600 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
+    <programme start="20241226033600 +0000" stop="20241226055400 +0000" channel="CTV 3.vidio">
         <title>Denver Nuggets vs Phoenix Suns - NBA</title>
+    </programme>
+    <programme start="20241226055400 +0000" stop="20241226060000 +0000" channel="CTV 3.vidio">
+        <title>Filler</title>
     </programme>
     <programme start="20241226060000 +0000" stop="20241226070000 +0000" channel="CTV 3.vidio">
         <title>WTA Tour Greatest 50</title>
@@ -59263,13 +59284,13 @@
         <title>Sejadah</title>
     </programme>
     <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="Ajwa.vidio">
-        <title>Syair Syiar</title>
+        <title>Ilhami</title>
     </programme>
     <programme start="20241226080000 +0000" stop="20241226083000 +0000" channel="Ajwa.vidio">
         <title>Live Adzan &amp; Sholat Ashar Dari Masjid Istiqlal + Mutiara Hati Quraish Shihab Ashar 2023</title>
     </programme>
     <programme start="20241226083000 +0000" stop="20241226090000 +0000" channel="Ajwa.vidio">
-        <title>Syiar Syair</title>
+        <title>Ilhami</title>
     </programme>
     <programme start="20241226090000 +0000" stop="20241226100000 +0000" channel="Ajwa.vidio">
         <title>Pesantren &amp; Rock N Roll</title>
