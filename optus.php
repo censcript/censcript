@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241227190000 +0000" stop="20241227230000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Saturday Morning</title>
-    </programme>
     <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250115195000 +0000" stop="20250115221000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Arsenal v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250116133000 +0000" stop="20250116140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
     </programme>
 </tv>

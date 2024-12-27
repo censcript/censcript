@@ -5908,13 +5908,13 @@
         <title>Ini Ellam Vasanthame</title>
     </programme>
     <programme start="20241228163000 +0000" stop="20241228200000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - YAAVARUM NALAM (U/A)</title>
+        <title>MOVIE - DHURAI (U/A)</title>
     </programme>
     <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20241228203000 +0000" stop="20241228230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - SIVAPURAM (U)</title>
+        <title>BREAKFREE MOVIE - AGARAM (V/U)</title>
     </programme>
     <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
@@ -5935,7 +5935,7 @@
         <title>News</title>
     </programme>
     <programme start="20241229023000 +0000" stop="20241229043000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - SOPPANA SUNDARI (U)</title>
+        <title>MOVIE - VELLITHIRAI (U)</title>
     </programme>
     <programme start="20241229043000 +0000" stop="20241229053000 +0000" channel="Kalaignar TV.starhub">
         <title>Vaa Thamizha Vaa Season V</title>
@@ -5950,7 +5950,7 @@
         <title>News</title>
     </programme>
     <programme start="20241229080000 +0000" stop="20241229113000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - PIZZA -3 (U/A)</title>
+        <title>MOVIE - BLUE STAR (U/A)</title>
     </programme>
     <programme start="20241229113000 +0000" stop="20241229120000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
@@ -5961,17 +5961,17 @@
     <programme start="20241229123000 +0000" stop="20241229133000 +0000" channel="Kalaignar TV.starhub">
         <title>Thamizhodu Vilayaadu Season 2</title>
     </programme>
-    <programme start="20241229133000 +0000" stop="20241229160000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - URIYADI (V/UA)</title>
+    <programme start="20241229133000 +0000" stop="20241229170000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - BAGASURAN (U/A)</title>
     </programme>
-    <programme start="20241229160000 +0000" stop="20241229193000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - THAMIZH PADAM (U)</title>
+    <programme start="20241229170000 +0000" stop="20241229200000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - MUNIYANDI VILANGIYAL 3AM AANDU (U)</title>
     </programme>
-    <programme start="20241229193000 +0000" stop="20241229203000 +0000" channel="Kalaignar TV.starhub">
+    <programme start="20241229200000 +0000" stop="20241229203000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20241229203000 +0000" stop="20241229230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - MEENDUM (U/A)</title>
+        <title>BREAKFREE MOVIE - GURU (U)</title>
     </programme>
     <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
@@ -20011,7 +20011,7 @@
         <title>KCKC - Bruce Lee</title>
     </programme>
     <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Aan Devathai</title>
+        <title>KCKC - Kaari</title>
     </programme>
     <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -28573,6 +28573,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250106100000 +0000" stop="20250106160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250106160300 +0000" stop="20250106220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226001100 +0000" channel="HBO Family HD.starhub">
