@@ -3,12 +3,6 @@
     <programme start="20241227190000 +0000" stop="20241227230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Saturday Morning</title>
     </programme>
-    <programme start="20241227192000 +0000" stop="20241227214000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Brighton v Brentford</title>
-    </programme>
-    <programme start="20241227200500 +0000" stop="20241227222500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Arsenal v Ipswich</title>
-    </programme>
     <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250115192000 +0000" stop="20250115214000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Leicester City v Crystal Palace</title>
+    </programme>
+    <programme start="20250115192000 +0000" stop="20250115214000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Everton v Aston Villa</title>
+    </programme>
+    <programme start="20250115195000 +0000" stop="20250115221000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Arsenal v Tottenham Hotspur</title>
     </programme>
 </tv>

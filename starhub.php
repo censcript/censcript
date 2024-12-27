@@ -30816,6 +30816,18 @@
     <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33024,6 +33036,18 @@
     <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241225232000 +0000" stop="20241226073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 1</title>
     </programme>
@@ -33196,6 +33220,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250106100000 +0000" stop="20250106160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250106232000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250106232000 +0000" stop="20250107073000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>India Tour of Australia 2024: 5th Test - Day 5</title>
+    </programme>
+    <programme start="20250107073000 +0000" stop="20250107100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
