@@ -2584,7 +2584,7 @@
         <title>2000 Evening News</title>
     </programme>
     <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2024 Global Year In Review</title>
     </programme>
     <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
@@ -2596,7 +2596,7 @@
         <title>Late Night Vision</title>
     </programme>
     <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+        <title>2024 Global Year In Review</title>
     </programme>
     <programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
@@ -2605,7 +2605,7 @@
         <title>Late Night Vision</title>
     </programme>
     <programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2024 Global Year In Review</title>
     </programme>
     <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
@@ -2653,7 +2653,7 @@
         <title>1800/1900 Evening News</title>
     </programme>
     <programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2000 Evening News</title>
+        <title>2024 Taiwan Year In Review</title>
     </programme>
     <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="TVBS-NEWS.starhub">
         <title>2100 Hot Topics</title>
@@ -2668,7 +2668,7 @@
         <title>Late Night Vision</title>
     </programme>
     <programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2024 Taiwan Year In Review</title>
     </programme>
     <programme start="20241229180000 +0000" stop="20241229190000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
@@ -24888,22 +24888,22 @@
     <programme start="20241228192000 +0000" stop="20241228220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241228220000 +0000" stop="20241229003500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228220000 +0000" stop="20241229011500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241229003500 +0000" stop="20241229040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241229011500 +0000" stop="20241229044000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M07 - Hobart Hurricanes vs Perth Scorchers</title>
     </programme>
-    <programme start="20241229040000 +0000" stop="20241229080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241229044000 +0000" stop="20241229080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M12 - Perth Scorchers vs Brisbane Heat</title>
     </programme>
     <programme start="20241229080000 +0000" stop="20241229121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M15 - Brisbane Heat vs Sydney Sixers</title>
     </programme>
-    <programme start="20241229121500 +0000" stop="20241229201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241229121500 +0000" stop="20241229191500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 2</title>
     </programme>
-    <programme start="20241229201500 +0000" stop="20241229220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241229191500 +0000" stop="20241229220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241229220000 +0000" stop="20241230000000 +0000" channel="Hub Sports 4 HD.starhub">
