@@ -600,45 +600,6 @@
     <programme start="20241227052900 +0000" stop="20241227055000 +0000" channel="TV5MONDE HD.starhub">
         <title>Telematin</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225003000 +0000" channel="HBO Signature HD.starhub">
-        <title>Christmas Class Reunion</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225012000 +0000" channel="HBO Signature HD.starhub">
-        <title>Boca</title>
-    </programme>
-    <programme start="20241225012000 +0000" stop="20241225033000 +0000" channel="HBO Signature HD.starhub">
-        <title>A Star Is Born</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225045000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 6</title>
-    </programme>
-    <programme start="20241225045000 +0000" stop="20241225073000 +0000" channel="HBO Signature HD.starhub">
-        <title>Troy</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225085500 +0000" channel="HBO Signature HD.starhub">
-        <title>Napoleon Dynamite</title>
-    </programme>
-    <programme start="20241225085500 +0000" stop="20241225111500 +0000" channel="HBO Signature HD.starhub">
-        <title>The Prince Of Egypt: The Musical</title>
-    </programme>
-    <programme start="20241225111500 +0000" stop="20241225140000 +0000" channel="HBO Signature HD.starhub">
-        <title>Dune: Part Two</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225154000 +0000" channel="HBO Signature HD.starhub">
-        <title>She Came To Me</title>
-    </programme>
-    <programme start="20241225154000 +0000" stop="20241225173500 +0000" channel="HBO Signature HD.starhub">
-        <title>On The Come Up</title>
-    </programme>
-    <programme start="20241225173500 +0000" stop="20241225192000 +0000" channel="HBO Signature HD.starhub">
-        <title>Bob Marley: One Love</title>
-    </programme>
-    <programme start="20241225192000 +0000" stop="20241225201500 +0000" channel="HBO Signature HD.starhub">
-        <title>Boca</title>
-    </programme>
-    <programme start="20241225201500 +0000" stop="20241225223500 +0000" channel="HBO Signature HD.starhub">
-        <title>Respect</title>
-    </programme>
     <programme start="20241225223500 +0000" stop="20241226005000 +0000" channel="HBO Signature HD.starhub">
         <title>A Star Is Born</title>
     </programme>
@@ -899,6 +860,45 @@
     </programme>
     <programme start="20250101010000 +0000" stop="20250101020000 +0000" channel="HBO Signature HD.starhub">
         <title>Friday - The Father</title>
+    </programme>
+    <programme start="20250101020000 +0000" stop="20250101034500 +0000" channel="HBO Signature HD.starhub">
+        <title>Land Of Gold</title>
+    </programme>
+    <programme start="20250101034500 +0000" stop="20250101055500 +0000" channel="HBO Signature HD.starhub">
+        <title>You Don&#039;t Know Jack</title>
+    </programme>
+    <programme start="20250101055500 +0000" stop="20250101080500 +0000" channel="HBO Signature HD.starhub">
+        <title>Body Of Lies</title>
+    </programme>
+    <programme start="20250101080500 +0000" stop="20250101101000 +0000" channel="HBO Signature HD.starhub">
+        <title>Warm Springs</title>
+    </programme>
+    <programme start="20250101101000 +0000" stop="20250101115500 +0000" channel="HBO Signature HD.starhub">
+        <title>Arthur Miller: Writer</title>
+    </programme>
+    <programme start="20250101115500 +0000" stop="20250101140000 +0000" channel="HBO Signature HD.starhub">
+        <title>The Holdovers</title>
+    </programme>
+    <programme start="20250101140000 +0000" stop="20250101164500 +0000" channel="HBO Signature HD.starhub">
+        <title>The Curious Case Of Benjamin Button</title>
+    </programme>
+    <programme start="20250101164500 +0000" stop="20250101184500 +0000" channel="HBO Signature HD.starhub">
+        <title>Blinded By The Light</title>
+    </programme>
+    <programme start="20250101184500 +0000" stop="20250101194500 +0000" channel="HBO Signature HD.starhub">
+        <title>Friday - The Father</title>
+    </programme>
+    <programme start="20250101194500 +0000" stop="20250101201500 +0000" channel="HBO Signature HD.starhub">
+        <title>Hollywood On Set S1</title>
+    </programme>
+    <programme start="20250101201500 +0000" stop="20250101220500 +0000" channel="HBO Signature HD.starhub">
+        <title>How To Be Single</title>
+    </programme>
+    <programme start="20250101220500 +0000" stop="20250101232500 +0000" channel="HBO Signature HD.starhub">
+        <title>The Super Bob Einstein Movie</title>
+    </programme>
+    <programme start="20250101232500 +0000" stop="20250102011500 +0000" channel="HBO Signature HD.starhub">
+        <title>Land Of Gold</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="FashionTV HD.starhub">
         <title>Fashion From UK</title>
@@ -1200,192 +1200,6 @@
     <programme start="20241227020000 +0000" stop="20241227023000 +0000" channel="FashionTV HD.starhub">
         <title>Fashion Destination: UAE</title>
     </programme>
-    <programme start="20241224234500 +0000" stop="20241225001000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>No Such Luck / Frog Wild</title>
-    </programme>
-    <programme start="20241225001000 +0000" stop="20241225003500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Wanna Bet? / Gargamel, Queen of the Prom</title>
-    </programme>
-    <programme start="20241225003500 +0000" stop="20241225010000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>A Smurfy Christmas / An Unsmurfy Friendship</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225012000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Goons on the Moon</title>
-    </programme>
-    <programme start="20241225012000 +0000" stop="20241225014500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>SpongeBob&#039;s Road to Christmas</title>
-    </programme>
-    <programme start="20241225014500 +0000" stop="20241225020000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Nitwitting</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225022000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Raph Thinks It Through</title>
-    </programme>
-    <programme start="20241225022000 +0000" stop="20241225023500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Double Trouble</title>
-    </programme>
-    <programme start="20241225023500 +0000" stop="20241225030000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Net Gains / Pipe Dreams</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225032000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Patrick Show Sells Out / Neptune&#039;s Ball</title>
-    </programme>
-    <programme start="20241225032000 +0000" stop="20241225034500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>SpongeBob&#039;s Road to Christmas</title>
-    </programme>
-    <programme start="20241225034500 +0000" stop="20241225041000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Monster Movie / Earworm</title>
-    </programme>
-    <programme start="20241225041000 +0000" stop="20241225043500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Street Fightin&#039;</title>
-    </programme>
-    <programme start="20241225043500 +0000" stop="20241225050000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Chapa&#039;s Phone Home</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225052000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Blemish Dilemish</title>
-    </programme>
-    <programme start="20241225052000 +0000" stop="20241225054500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Christmas Danger</title>
-    </programme>
-    <programme start="20241225054500 +0000" stop="20241225061000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Raph Thinks It Through</title>
-    </programme>
-    <programme start="20241225061000 +0000" stop="20241225063500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Snack Pact / The Horror-Scope</title>
-    </programme>
-    <programme start="20241225063500 +0000" stop="20241225070000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Arr in the Family / Finders Weepers</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225072000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Just in time for Christmas / Klopnodian Heritage Festival</title>
-    </programme>
-    <programme start="20241225072000 +0000" stop="20241225075000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Broken Alarm / Karen&#039;s Baby</title>
-    </programme>
-    <programme start="20241225075000 +0000" stop="20241225081000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>&#039;Twas the Fight Before Christmas</title>
-    </programme>
-    <programme start="20241225081000 +0000" stop="20241225083500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Strife of the Party / Kernel of Truth</title>
-    </programme>
-    <programme start="20241225083500 +0000" stop="20241225090000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Dawn of the Dread / Frankie Patrol</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225092000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>A Musical to Remember Pt. 1</title>
-    </programme>
-    <programme start="20241225092000 +0000" stop="20241225094500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Down Goes Santa: Part I</title>
-    </programme>
-    <programme start="20241225094500 +0000" stop="20241225101000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Test Friends</title>
-    </programme>
-    <programme start="20241225101000 +0000" stop="20241225103500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Chutes and Splatters</title>
-    </programme>
-    <programme start="20241225103500 +0000" stop="20241225110000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Road Not Taken</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225112000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Sister Act / House Flip</title>
-    </programme>
-    <programme start="20241225112000 +0000" stop="20241225114500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>&#039;Twas the Fight Before Christmas</title>
-    </programme>
-    <programme start="20241225114500 +0000" stop="20241225121000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Raph Thinks It Through</title>
-    </programme>
-    <programme start="20241225121000 +0000" stop="20241225123500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>SpongeBob&#039;s Road to Christmas</title>
-    </programme>
-    <programme start="20241225123500 +0000" stop="20241225130000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>SpongeBob &amp; Sandy&#039;s Country Christmas</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225132000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Nitwitting / The Ballad of Filthy Muck</title>
-    </programme>
-    <programme start="20241225132000 +0000" stop="20241225134500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Krusty Slammer / Pineapple RV</title>
-    </programme>
-    <programme start="20241225134500 +0000" stop="20241225141000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>10 and 1 Toilets / Family Plotz</title>
-    </programme>
-    <programme start="20241225141000 +0000" stop="20241225143500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Wrath of Shmandor / There Goes the Neighborhood</title>
-    </programme>
-    <programme start="20241225143500 +0000" stop="20241225150000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Creepover Party / Creature Clash</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225152000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Monster Movie / Earworm</title>
-    </programme>
-    <programme start="20241225152000 +0000" stop="20241225154500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Skaters Gonna Hate / Born to Be Mild</title>
-    </programme>
-    <programme start="20241225154500 +0000" stop="20241225161000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Bros in the Band / For the Record</title>
-    </programme>
-    <programme start="20241225161000 +0000" stop="20241225163500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Mo Viral, Mo Problems</title>
-    </programme>
-    <programme start="20241225163500 +0000" stop="20241225170000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Sally Hunter</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225172000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Something in the Water</title>
-    </programme>
-    <programme start="20241225172000 +0000" stop="20241225174500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Shrinking Stars / FitzPatrick</title>
-    </programme>
-    <programme start="20241225174500 +0000" stop="20241225181000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Sold! / Lame and Fortune</title>
-    </programme>
-    <programme start="20241225181000 +0000" stop="20241225183500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Goodbye, Krabby Patty?</title>
-    </programme>
-    <programme start="20241225183500 +0000" stop="20241225190000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Nut Madness / Mermaid Men and Barnacle Boys</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225192000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>No Smurf Out!/Souffle Shuffle</title>
-    </programme>
-    <programme start="20241225192000 +0000" stop="20241225194500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Curing Private Timid/Smurfette Overdoes It!</title>
-    </programme>
-    <programme start="20241225194500 +0000" stop="20241225201000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Two of Clubs / Vacation Daze</title>
-    </programme>
-    <programme start="20241225201000 +0000" stop="20241225203500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Snack Pact / The Horror-Scope</title>
-    </programme>
-    <programme start="20241225203500 +0000" stop="20241225210000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Arr in the Family / Finders Weepers</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225212000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Blood Is Thicker Than Grease / Don&#039;t Make Me Laugh</title>
-    </programme>
-    <programme start="20241225212000 +0000" stop="20241225214500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Momageddon / Pet the Rock</title>
-    </programme>
-    <programme start="20241225214500 +0000" stop="20241225221000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Tango Tangle / Necro-Nom-Nom-Nom-I-Con</title>
-    </programme>
-    <programme start="20241225221000 +0000" stop="20241225222000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Old Man Patrick</title>
-    </programme>
-    <programme start="20241225222000 +0000" stop="20241225224500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Just in time for Christmas / Klopnodian Heritage Festival</title>
-    </programme>
-    <programme start="20241225224500 +0000" stop="20241225230000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Miss Step</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225232000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>The Two of Clubs / Vacation Daze</title>
-    </programme>
-    <programme start="20241225232000 +0000" stop="20241225234500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Fed Up / Shell Shock</title>
-    </programme>
     <programme start="20241225234500 +0000" stop="20241226001000 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>&#039;Twas the Fight Before Christmas</title>
     </programme>
@@ -1500,47 +1314,191 @@
     <programme start="20241226141000 +0000" stop="20241226143500 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>Chum Bucket List / Big Baby Patrick</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="Cinemax HD.starhub">
-        <title>The All Out Fall Out</title>
+    <programme start="20241226143500 +0000" stop="20241226150000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Cleo in the Kitchen/The Case of the Missing Squeak</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="Cinemax HD.starhub">
-        <title>Fire Sale</title>
+    <programme start="20241226150000 +0000" stop="20241226152000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Power Heist</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225031500 +0000" channel="Cinemax HD.starhub">
-        <title>Rain Man</title>
+    <programme start="20241226152000 +0000" stop="20241226154500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Golden Curse</title>
     </programme>
-    <programme start="20241225031500 +0000" stop="20241225055500 +0000" channel="Cinemax HD.starhub">
-        <title>Blade Runner 2049</title>
+    <programme start="20241226154500 +0000" stop="20241226161000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Don&#039;t Zoo That / Maxed Out</title>
     </programme>
-    <programme start="20241225055500 +0000" stop="20241225075000 +0000" channel="Cinemax HD.starhub">
-        <title>Escape Plan</title>
+    <programme start="20241226161000 +0000" stop="20241226163500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Rhyme It And They Will Come</title>
     </programme>
-    <programme start="20241225075000 +0000" stop="20241225094000 +0000" channel="Cinemax HD.starhub">
-        <title>In Pursuit Of Honor</title>
+    <programme start="20241226163500 +0000" stop="20241226170000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Quantum Problems and Dead Ends</title>
     </programme>
-    <programme start="20241225094000 +0000" stop="20241225114000 +0000" channel="Cinemax HD.starhub">
-        <title>Warm Springs</title>
+    <programme start="20241226170000 +0000" stop="20241226172000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Who&#039;s That Girl?</title>
     </programme>
-    <programme start="20241225114000 +0000" stop="20241225140000 +0000" channel="Cinemax HD.starhub">
-        <title>Fast X</title>
+    <programme start="20241226172000 +0000" stop="20241226174500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Uncredible Journey / Host-a-Palooza</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225155500 +0000" channel="Cinemax HD.starhub">
-        <title>Red</title>
+    <programme start="20241226174500 +0000" stop="20241226181000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Sandy&#039;s Nutmare / Bulletin Board</title>
     </programme>
-    <programme start="20241225155500 +0000" stop="20241225175500 +0000" channel="Cinemax HD.starhub">
-        <title>Red 2</title>
+    <programme start="20241226181000 +0000" stop="20241226183500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Food Con Castaways / Snail Mail</title>
     </programme>
-    <programme start="20241225175500 +0000" stop="20241225193000 +0000" channel="Cinemax HD.starhub">
-        <title>The Curse Of La Llorona</title>
+    <programme start="20241226183500 +0000" stop="20241226190000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>A Tale of Two Roxies / Nite Owls</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Cinemax HD.starhub">
-        <title>The Black Clock Of Time</title>
+    <programme start="20241226190000 +0000" stop="20241226192000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Papa Smurf Leaves the Nest/The Stolen Portrait</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="Cinemax HD.starhub">
-        <title>We Could Sing A Duet</title>
+    <programme start="20241226192000 +0000" stop="20241226194500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Star Smurf/Baby Sensei</title>
     </programme>
-    <programme start="20241225203000 +0000" stop="20241225220000 +0000" channel="Cinemax HD.starhub">
-        <title>The Bad Seed Returns</title>
+    <programme start="20241226194500 +0000" stop="20241226201000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Stress Test / How to Train Your Carl</title>
+    </programme>
+    <programme start="20241226201000 +0000" stop="20241226203500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Operation Dad</title>
+    </programme>
+    <programme start="20241226203500 +0000" stop="20241226210000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Flee Market / Copy Can&#039;t</title>
+    </programme>
+    <programme start="20241226210000 +0000" stop="20241226212000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>PL-1413 / In the Mood to Feud</title>
+    </programme>
+    <programme start="20241226212000 +0000" stop="20241226214500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Mooned! / Hysterical History</title>
+    </programme>
+    <programme start="20241226214500 +0000" stop="20241226221000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Dirty Bubble Bass / Sheldon SquarePants</title>
+    </programme>
+    <programme start="20241226221000 +0000" stop="20241226222000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Fun-Sized Friends</title>
+    </programme>
+    <programme start="20241226222000 +0000" stop="20241226224500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Patrick Show Cashes In / The Star Games</title>
+    </programme>
+    <programme start="20241226224500 +0000" stop="20241226230000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Big Chill</title>
+    </programme>
+    <programme start="20241226230000 +0000" stop="20241226232000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Snack Pact / The Horror-Scope</title>
+    </programme>
+    <programme start="20241226232000 +0000" stop="20241226234500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Loudest Mission: Relative Chaos</title>
+    </programme>
+    <programme start="20241226234500 +0000" stop="20241227001000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Out of the Picture / Room with a Feud</title>
+    </programme>
+    <programme start="20241227001000 +0000" stop="20241227003500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Unsmurfable Smile / Mind the Cat</title>
+    </programme>
+    <programme start="20241227003500 +0000" stop="20241227010000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Where&#039;s Papa Smurf? / Who&#039;s Heftier?</title>
+    </programme>
+    <programme start="20241227010000 +0000" stop="20241227012000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>SpongeBob &amp; Sandy&#039;s Country Christmas</title>
+    </programme>
+    <programme start="20241227012000 +0000" stop="20241227014500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>It&#039;s a SpongeBob Christmas!</title>
+    </programme>
+    <programme start="20241227014500 +0000" stop="20241227020000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Krusty Slammer</title>
+    </programme>
+    <programme start="20241227020000 +0000" stop="20241227022000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Bishop Makes Her Move</title>
+    </programme>
+    <programme start="20241227022000 +0000" stop="20241227023500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Haunted House Call</title>
+    </programme>
+    <programme start="20241227023500 +0000" stop="20241227030000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Scales of Justice / Crimes of Fashion</title>
+    </programme>
+    <programme start="20241227030000 +0000" stop="20241227032000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Starry Awards / Biorpsgiving</title>
+    </programme>
+    <programme start="20241227032000 +0000" stop="20241227034500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Goodbye, Krabby Patty?</title>
+    </programme>
+    <programme start="20241227034500 +0000" stop="20241227041000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Power Heist</title>
+    </programme>
+    <programme start="20241227041000 +0000" stop="20241227043500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Class Action Heroes</title>
+    </programme>
+    <programme start="20241227043500 +0000" stop="20241227050000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Wedding of the Trentury</title>
+    </programme>
+    <programme start="20241227050000 +0000" stop="20241227052000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Banana Split Decision</title>
+    </programme>
+    <programme start="20241227052000 +0000" stop="20241227054500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Christmas Danger</title>
+    </programme>
+    <programme start="20241227054500 +0000" stop="20241227061000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Bishop Makes Her Move</title>
+    </programme>
+    <programme start="20241227061000 +0000" stop="20241227063500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Trend Game / This Bird Has Flown</title>
+    </programme>
+    <programme start="20241227063500 +0000" stop="20241227070000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>V.I.Peeved / Senor Class</title>
+    </programme>
+    <programme start="20241227070000 +0000" stop="20241227072000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Nitwit Neighborhood News / The Patrick Show MidSeason Finale</title>
+    </programme>
+    <programme start="20241227072000 +0000" stop="20241227075000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Mind the Gap / Dirty Bubble Returns</title>
+    </programme>
+    <programme start="20241227075000 +0000" stop="20241227081000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>&#039;Twas the Fight Before Christmas</title>
+    </programme>
+    <programme start="20241227081000 +0000" stop="20241227083500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Director&#039;s Rut / Friday Night Fights</title>
+    </programme>
+    <programme start="20241227083500 +0000" stop="20241227090000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>The Shapeshiftian Candidate Part 1 and 2</title>
+    </programme>
+    <programme start="20241227090000 +0000" stop="20241227092000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Last Friend Standing</title>
+    </programme>
+    <programme start="20241227092000 +0000" stop="20241227094500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Vidja Games</title>
+    </programme>
+    <programme start="20241227094500 +0000" stop="20241227101000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Test Friends</title>
+    </programme>
+    <programme start="20241227101000 +0000" stop="20241227103500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Significant Brother</title>
+    </programme>
+    <programme start="20241227103500 +0000" stop="20241227110000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Meet the Midknights</title>
+    </programme>
+    <programme start="20241227110000 +0000" stop="20241227112000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>&#039;Twas the Fight Before Christmas</title>
+    </programme>
+    <programme start="20241227112000 +0000" stop="20241227114500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>A Dark &amp; Story Night / Sand Hassles</title>
+    </programme>
+    <programme start="20241227114500 +0000" stop="20241227121000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Bishop Makes Her Move</title>
+    </programme>
+    <programme start="20241227121000 +0000" stop="20241227123500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Broken Alarm / Karen&#039;s Baby</title>
+    </programme>
+    <programme start="20241227123500 +0000" stop="20241227130000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>It&#039;s a SpongeBob Christmas!</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227132000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Goons on the Moon</title>
+    </programme>
+    <programme start="20241227132000 +0000" stop="20241227134500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Jolly Lodgers / Biddy Sitting</title>
+    </programme>
+    <programme start="20241227134500 +0000" stop="20241227141000 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Too Many Patricks / Much Tofu About Nothing</title>
+    </programme>
+    <programme start="20241227141000 +0000" stop="20241227143500 +0000" channel="Nickelodeon Asia HD.starhub">
+        <title>Face/Off-Model / 5 Star Restaurant</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241226001000 +0000" channel="Cinemax HD.starhub">
         <title>Rain Man</title>
@@ -1799,6 +1757,48 @@
     </programme>
     <programme start="20250101003500 +0000" stop="20250101010500 +0000" channel="Cinemax HD.starhub">
         <title>Tree Trippers</title>
+    </programme>
+    <programme start="20250101010500 +0000" stop="20250101014000 +0000" channel="Cinemax HD.starhub">
+        <title>Redomption</title>
+    </programme>
+    <programme start="20250101014000 +0000" stop="20250101032000 +0000" channel="Cinemax HD.starhub">
+        <title>Faster</title>
+    </programme>
+    <programme start="20250101032000 +0000" stop="20250101053000 +0000" channel="Cinemax HD.starhub">
+        <title>The Man In The Iron Mask</title>
+    </programme>
+    <programme start="20250101053000 +0000" stop="20250101074000 +0000" channel="Cinemax HD.starhub">
+        <title>Snow White And The Huntsman</title>
+    </programme>
+    <programme start="20250101074000 +0000" stop="20250101095500 +0000" channel="Cinemax HD.starhub">
+        <title>Bury My Heart At Wounded Knee</title>
+    </programme>
+    <programme start="20250101095500 +0000" stop="20250101121000 +0000" channel="Cinemax HD.starhub">
+        <title>Coach Carter</title>
+    </programme>
+    <programme start="20250101121000 +0000" stop="20250101140000 +0000" channel="Cinemax HD.starhub">
+        <title>Meet The Parents</title>
+    </programme>
+    <programme start="20250101140000 +0000" stop="20250101155500 +0000" channel="Cinemax HD.starhub">
+        <title>Meet The Fockers</title>
+    </programme>
+    <programme start="20250101155500 +0000" stop="20250101173500 +0000" channel="Cinemax HD.starhub">
+        <title>Little Fockers</title>
+    </programme>
+    <programme start="20250101173500 +0000" stop="20250101193000 +0000" channel="Cinemax HD.starhub">
+        <title>The Ring</title>
+    </programme>
+    <programme start="20250101193000 +0000" stop="20250101200000 +0000" channel="Cinemax HD.starhub">
+        <title>I Keep Taking Baths Like Lady Macbeth</title>
+    </programme>
+    <programme start="20250101200000 +0000" stop="20250101202500 +0000" channel="Cinemax HD.starhub">
+        <title>Two Large Pearls And A Bar Of Gold</title>
+    </programme>
+    <programme start="20250101202500 +0000" stop="20250101220000 +0000" channel="Cinemax HD.starhub">
+        <title>Cocaine Bear</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250101233500 +0000" channel="Cinemax HD.starhub">
+        <title>Faster</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Fox News Channel.starhub">
         <title>The Ingraham Angle</title>
@@ -2100,84 +2100,6 @@
     <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Fox News Channel.starhub">
         <title>FOX News Saturday Night with Jimmy Failla</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Tonight Like War</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>EZ News</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>City News</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Travel Together</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello Doctor</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>All Star Quiz Show</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Tonight Like War</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello. Are you ok ?</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello Doctor</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Travel Together</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>All Star Quiz Show</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Tonight Like War</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello. Are you ok ?</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Travel Together</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Dee Girl&#039;s Talk</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>EZ News</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>City News</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello Doctor</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Travel Together</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Dee Girl&#039;s Talk</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Hello. Are you ok ?</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>All Star Quiz Show</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Dee Girl&#039;s Talk</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="ETTV ASIA HD.starhub">
         <title>Tonight Like War</title>
     </programme>
@@ -2400,74 +2322,83 @@
     <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="ETTV ASIA HD.starhub">
         <title>ShinyFoodDiary</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
+    <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super Talent Show YOYO baby kaleidoscope</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="TVBS-NEWS.starhub">
-        <title>0900 Morning News</title>
+    <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super Talent Show YOYO baby kaleidoscope</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1000 Morning News</title>
+    <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>The Spirit of Taiwan</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1100 Morning News</title>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1200/1300 Noon News</title>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>ShinyFoodDiary</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1200/1300 Noon News</title>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super Talent Show YOYO baby kaleidoscope</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News At 1400</title>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super Talent Show YOYO baby kaleidoscope</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1500 Afternoon News</title>
+    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>The Spirit of Taiwan</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1600 Afternoon News</title>
+    <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super game S20</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1700 Afternoon News</title>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Friendly cuisine</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1800/1900 Evening News</title>
+    <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Taiwan Criminal Files</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1800/1900 Evening News</title>
+    <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Hello. Are you ok ?</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Frontline</title>
+    <programme start="20241229060000 +0000" stop="20241229070000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Hello Doctor</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+    <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>All Star Quiz Show</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Super game S20</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Eyeshot To The Cross-Strait</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Chic Cities</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Taiwan&#039;s 1001 stories</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+    <programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Travel Together</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Travel Together</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+    <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+    <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Friendly cuisine</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
+    <programme start="20241229160000 +0000" stop="20241229170000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Hello Doctor</title>
+    </programme>
+    <programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Chic Cities</title>
+    </programme>
+    <programme start="20241229180000 +0000" stop="20241229190000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Taiwan Criminal Files</title>
+    </programme>
+    <programme start="20241229190000 +0000" stop="20241229200000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Travel Together</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
@@ -2700,83 +2631,74 @@
     <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="TVBS-NEWS.starhub">
         <title>1200/1300 Noon News</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1200/1300 Noon News</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Mohini Aatam Arambam</title>
+    <programme start="20241229060000 +0000" stop="20241229070000 +0000" channel="TVBS-NEWS.starhub">
+        <title>News At 1400</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vaanavil</title>
+    <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1500 Afternoon News</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Alaipayuthey</title>
+    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1600 Afternoon News</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Super</title>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1700 Afternoon News</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1800/1900 Evening News</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1800/1900 Evening News</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayakar</title>
+    <programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="TVBS-NEWS.starhub">
+        <title>2000 Evening News</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225090000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>K.G.F: Chapter 1</title>
+    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="TVBS-NEWS.starhub">
+        <title>2100 Hot Topics</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sangadam Theerkum Saneeswaran</title>
+    <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Discover New Taiwan Step By Step</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayakar</title>
+    <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Late Night Vision</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229160000 +0000" stop="20241229170000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Late Night Vision</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="TVBS-NEWS.starhub">
+        <title>2100 Hot Topics</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Mohini Aatam Arambam</title>
+    <programme start="20241229180000 +0000" stop="20241229190000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Late Night Vision</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vaanavil</title>
+    <programme start="20241229190000 +0000" stop="20241229200000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Late Night Vision</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Alaipayuthey</title>
+    <programme start="20241229200000 +0000" stop="20241229210000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Discover New Taiwan Step By Step</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225160000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kanithan</title>
+    <programme start="20241229210000 +0000" stop="20241229220000 +0000" channel="TVBS-NEWS.starhub">
+        <title>2100 Hot Topics</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sangadam Theerkum Saneeswaran</title>
+    <programme start="20241229220000 +0000" stop="20241229230000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Early Morning News</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Early Morning News</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241230000000 +0000" stop="20241230010000 +0000" channel="TVBS-NEWS.starhub">
+        <title>Early Morning News</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Mohini Aatam Arambam</title>
+    <programme start="20241230010000 +0000" stop="20241230020000 +0000" channel="TVBS-NEWS.starhub">
+        <title>0900 Morning News</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Alaipayuthey</title>
+    <programme start="20241230020000 +0000" stop="20241230030000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1000 Morning News</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225220000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>K.G.F: Chapter 1</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sangadam Theerkum Saneeswaran</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayakar</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20241230030000 +0000" stop="20241230040000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1100 Morning News</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
@@ -2999,6 +2921,84 @@
     </programme>
     <programme start="20241228130000 +0000" stop="20241228153000 +0000" channel="COLORS Tamil HD.starhub">
         <title>K3</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228160000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vaanavil</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Sangadam Theerkum Saneeswaran</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Colors Kalakal Samayal</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228190000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Colors Kalakal Samayal</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228213000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Chiruthai Puli</title>
+    </programme>
+    <programme start="20241228213000 +0000" stop="20241228220000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vaanavil</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Sangadam Theerkum Saneeswaran</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241228233000 +0000" stop="20241229000000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Colors Kalakal Samayal</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vaanavil</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Alaipayuthey</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229043000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>K3</title>
+    </programme>
+    <programme start="20241229043000 +0000" stop="20241229050000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Alaipayuthey</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Colors Kalakal Samayal</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229090000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Saakshyam</title>
+    </programme>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Sangadam Theerkum Saneeswaran</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229103000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241229103000 +0000" stop="20241229110000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Lakshmi Narayana</title>
+    </programme>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Colors Kalakal Samayal</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vaanavil</title>
+    </programme>
+    <programme start="20241229123000 +0000" stop="20241229130000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Alaipayuthey</title>
+    </programme>
+    <programme start="20241229130000 +0000" stop="20241229160000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Raj Bahaddur</title>
+    </programme>
+    <programme start="20241229160000 +0000" stop="20241229170000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Sangadam Theerkum Saneeswaran</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="ANC.starhub">
         <title>Headstart</title>
@@ -4200,305 +4200,305 @@
     <programme start="20241230110000 +0000" stop="20241230120000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night 27</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225001500 +0000" channel="Cbeebies HD.starhub">
-        <title>Dougie&#039;s Essex Yule Log (Christmas)</title>
+    <programme start="20241226000000 +0000" stop="20241226001500 +0000" channel="Cbeebies HD.starhub">
+        <title>Emperor Penguins</title>
     </programme>
-    <programme start="20241225001500 +0000" stop="20241225003000 +0000" channel="Cbeebies HD.starhub">
-        <title>Arctic Animals</title>
+    <programme start="20241226001500 +0000" stop="20241226003000 +0000" channel="Cbeebies HD.starhub">
+        <title>Scots Pine</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225004000 +0000" channel="Cbeebies HD.starhub">
-        <title>Salty&#039;s Surprise</title>
+    <programme start="20241226003000 +0000" stop="20241226005500 +0000" channel="Cbeebies HD.starhub">
+        <title>Remote Control</title>
     </programme>
-    <programme start="20241225004000 +0000" stop="20241225005500 +0000" channel="Cbeebies HD.starhub">
-        <title>The Missing Star</title>
+    <programme start="20241226005500 +0000" stop="20241226010200 +0000" channel="Cbeebies HD.starhub">
+        <title>The Buddy Badge</title>
     </programme>
-    <programme start="20241225005500 +0000" stop="20241225010200 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
+    <programme start="20241226010200 +0000" stop="20241226010900 +0000" channel="Cbeebies HD.starhub">
+        <title>The Diplomacy Badge</title>
     </programme>
-    <programme start="20241225010200 +0000" stop="20241225010900 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
+    <programme start="20241226010900 +0000" stop="20241226011500 +0000" channel="Cbeebies HD.starhub">
+        <title>The Senses Badge</title>
     </programme>
-    <programme start="20241225010900 +0000" stop="20241225011500 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
+    <programme start="20241226011500 +0000" stop="20241226012500 +0000" channel="Cbeebies HD.starhub">
+        <title>Tarbela Dam, Pakistan</title>
     </programme>
-    <programme start="20241225011500 +0000" stop="20241225014000 +0000" channel="Cbeebies HD.starhub">
-        <title>Go Jetters Christmas Special: The North Pole</title>
+    <programme start="20241226012500 +0000" stop="20241226013500 +0000" channel="Cbeebies HD.starhub">
+        <title>The Stokkur Geyser, Iceland</title>
     </programme>
-    <programme start="20241225014000 +0000" stop="20241225015000 +0000" channel="Cbeebies HD.starhub">
-        <title>Merry Winter Wish</title>
-    </programme>
-    <programme start="20241225015000 +0000" stop="20241225015700 +0000" channel="Cbeebies HD.starhub">
-        <title>Seacow Snow Trail</title>
-    </programme>
-    <programme start="20241225015700 +0000" stop="20241225020200 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226013500 +0000" stop="20241226014000 +0000" channel="Cbeebies HD.starhub">
         <title>Festive Special</title>
     </programme>
-    <programme start="20241225020200 +0000" stop="20241225021500 +0000" channel="Cbeebies HD.starhub">
-        <title>Snow Day</title>
+    <programme start="20241226014000 +0000" stop="20241226015000 +0000" channel="Cbeebies HD.starhub">
+        <title>Lorenzo&#039;s Solo</title>
     </programme>
-    <programme start="20241225021500 +0000" stop="20241225022500 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s time to build a snowman!</title>
+    <programme start="20241226015000 +0000" stop="20241226015700 +0000" channel="Cbeebies HD.starhub">
+        <title>Haber Dasher</title>
     </programme>
-    <programme start="20241225022500 +0000" stop="20241225024000 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s Time For Christmas</title>
+    <programme start="20241226015700 +0000" stop="20241226020500 +0000" channel="Cbeebies HD.starhub">
+        <title>Park Trimming</title>
     </programme>
-    <programme start="20241225024000 +0000" stop="20241225025000 +0000" channel="Cbeebies HD.starhub">
-        <title>Snowflakes</title>
+    <programme start="20241226020500 +0000" stop="20241226021000 +0000" channel="Cbeebies HD.starhub">
+        <title>Nora&#039;s Plant</title>
     </programme>
-    <programme start="20241225025000 +0000" stop="20241225030000 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Swim</title>
+    <programme start="20241226021000 +0000" stop="20241226022000 +0000" channel="Cbeebies HD.starhub">
+        <title>Dog Loves Lighthouses</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225030700 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
+    <programme start="20241226022000 +0000" stop="20241226022500 +0000" channel="Cbeebies HD.starhub">
+        <title>I Am Monty</title>
     </programme>
-    <programme start="20241225030700 +0000" stop="20241225031400 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
+    <programme start="20241226022500 +0000" stop="20241226023800 +0000" channel="Cbeebies HD.starhub">
+        <title>It&#039;s time to harvest vegetables</title>
     </programme>
-    <programme start="20241225031400 +0000" stop="20241225032000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
+    <programme start="20241226023800 +0000" stop="20241226024500 +0000" channel="Cbeebies HD.starhub">
+        <title>Perfect</title>
     </programme>
-    <programme start="20241225032000 +0000" stop="20241225033000 +0000" channel="Cbeebies HD.starhub">
-        <title>Sami Reindeer Herding, Norway</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225034500 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Island, Indian Ocean</title>
-    </programme>
-    <programme start="20241225034500 +0000" stop="20241225040000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Christmas Tree Express</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225041000 +0000" channel="Cbeebies HD.starhub">
-        <title>Flamenco</title>
-    </programme>
-    <programme start="20241225041000 +0000" stop="20241225041500 +0000" channel="Cbeebies HD.starhub">
-        <title>Fish</title>
-    </programme>
-    <programme start="20241225041500 +0000" stop="20241225042500 +0000" channel="Cbeebies HD.starhub">
-        <title>Doctor Mae-Mae</title>
-    </programme>
-    <programme start="20241225042500 +0000" stop="20241225044000 +0000" channel="Cbeebies HD.starhub">
-        <title>Lolly&#039;s Keys</title>
-    </programme>
-    <programme start="20241225044000 +0000" stop="20241225044700 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226024500 +0000" stop="20241226025000 +0000" channel="Cbeebies HD.starhub">
         <title>Explorers</title>
     </programme>
-    <programme start="20241225044700 +0000" stop="20241225050000 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226025000 +0000" stop="20241226030000 +0000" channel="Cbeebies HD.starhub">
         <title>Phones</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225050700 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226030000 +0000" stop="20241226030700 +0000" channel="Cbeebies HD.starhub">
+        <title>The Moving Badge</title>
+    </programme>
+    <programme start="20241226030700 +0000" stop="20241226031400 +0000" channel="Cbeebies HD.starhub">
+        <title>Norrie&#039;s First Day</title>
+    </programme>
+    <programme start="20241226031400 +0000" stop="20241226032000 +0000" channel="Cbeebies HD.starhub">
+        <title>The Puddle Badge</title>
+    </programme>
+    <programme start="20241226032000 +0000" stop="20241226033000 +0000" channel="Cbeebies HD.starhub">
+        <title>Easter Island, Chile</title>
+    </programme>
+    <programme start="20241226033000 +0000" stop="20241226033500 +0000" channel="Cbeebies HD.starhub">
+        <title>Kiwi</title>
+    </programme>
+    <programme start="20241226033500 +0000" stop="20241226034500 +0000" channel="Cbeebies HD.starhub">
+        <title>Coconut</title>
+    </programme>
+    <programme start="20241226034500 +0000" stop="20241226035200 +0000" channel="Cbeebies HD.starhub">
+        <title>Tato Tower Takeover</title>
+    </programme>
+    <programme start="20241226035200 +0000" stop="20241226040000 +0000" channel="Cbeebies HD.starhub">
+        <title>Evil Pea&#039;s Big Freeze</title>
+    </programme>
+    <programme start="20241226040000 +0000" stop="20241226041000 +0000" channel="Cbeebies HD.starhub">
+        <title>Join In</title>
+    </programme>
+    <programme start="20241226041000 +0000" stop="20241226041500 +0000" channel="Cbeebies HD.starhub">
+        <title>Top</title>
+    </programme>
+    <programme start="20241226041500 +0000" stop="20241226042500 +0000" channel="Cbeebies HD.starhub">
+        <title>Queen Mae-Mae</title>
+    </programme>
+    <programme start="20241226042500 +0000" stop="20241226044000 +0000" channel="Cbeebies HD.starhub">
+        <title>Ice Ice Messy</title>
+    </programme>
+    <programme start="20241226044000 +0000" stop="20241226044700 +0000" channel="Cbeebies HD.starhub">
+        <title>Phones</title>
+    </programme>
+    <programme start="20241226044700 +0000" stop="20241226050000 +0000" channel="Cbeebies HD.starhub">
+        <title>Pavlova</title>
+    </programme>
+    <programme start="20241226050000 +0000" stop="20241226050700 +0000" channel="Cbeebies HD.starhub">
+        <title>The Carrot Badge</title>
+    </programme>
+    <programme start="20241226050700 +0000" stop="20241226051400 +0000" channel="Cbeebies HD.starhub">
         <title>The Metal Detector Badge</title>
     </programme>
-    <programme start="20241225050700 +0000" stop="20241225051400 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226051400 +0000" stop="20241226052000 +0000" channel="Cbeebies HD.starhub">
         <title>The Diary Badge</title>
     </programme>
-    <programme start="20241225051400 +0000" stop="20241225052000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Monster Badge</title>
+    <programme start="20241226052000 +0000" stop="20241226053000 +0000" channel="Cbeebies HD.starhub">
+        <title>Bonneville Salt Flats, USA</title>
     </programme>
-    <programme start="20241225052000 +0000" stop="20241225053000 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226053000 +0000" stop="20241226054500 +0000" channel="Cbeebies HD.starhub">
         <title>The Matterhorn, Italy and Switzerland</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225054500 +0000" channel="Cbeebies HD.starhub">
-        <title>Petra, Jordan</title>
+    <programme start="20241226054500 +0000" stop="20241226055200 +0000" channel="Cbeebies HD.starhub">
+        <title>Rug Island</title>
     </programme>
-    <programme start="20241225054500 +0000" stop="20241225055200 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226055200 +0000" stop="20241226060000 +0000" channel="Cbeebies HD.starhub">
         <title>Bingo</title>
     </programme>
-    <programme start="20241225055200 +0000" stop="20241225060000 +0000" channel="Cbeebies HD.starhub">
-        <title>Daddy Dropoff</title>
+    <programme start="20241226060000 +0000" stop="20241226061500 +0000" channel="Cbeebies HD.starhub">
+        <title>Emperor Penguins</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225061500 +0000" channel="Cbeebies HD.starhub">
-        <title>Dougie&#039;s Essex Yule Log (Christmas)</title>
+    <programme start="20241226061500 +0000" stop="20241226063000 +0000" channel="Cbeebies HD.starhub">
+        <title>Scots Pine</title>
     </programme>
-    <programme start="20241225061500 +0000" stop="20241225063000 +0000" channel="Cbeebies HD.starhub">
-        <title>Arctic Animals</title>
+    <programme start="20241226063000 +0000" stop="20241226065500 +0000" channel="Cbeebies HD.starhub">
+        <title>Remote Control</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225064000 +0000" channel="Cbeebies HD.starhub">
-        <title>Salty&#039;s Surprise</title>
+    <programme start="20241226065500 +0000" stop="20241226070200 +0000" channel="Cbeebies HD.starhub">
+        <title>The Buddy Badge</title>
     </programme>
-    <programme start="20241225064000 +0000" stop="20241225065500 +0000" channel="Cbeebies HD.starhub">
-        <title>The Missing Star</title>
+    <programme start="20241226070200 +0000" stop="20241226070900 +0000" channel="Cbeebies HD.starhub">
+        <title>The Diplomacy Badge</title>
     </programme>
-    <programme start="20241225065500 +0000" stop="20241225070200 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
+    <programme start="20241226070900 +0000" stop="20241226071500 +0000" channel="Cbeebies HD.starhub">
+        <title>The Senses Badge</title>
     </programme>
-    <programme start="20241225070200 +0000" stop="20241225070900 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
+    <programme start="20241226071500 +0000" stop="20241226072500 +0000" channel="Cbeebies HD.starhub">
+        <title>Tarbela Dam, Pakistan</title>
     </programme>
-    <programme start="20241225070900 +0000" stop="20241225071500 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
+    <programme start="20241226072500 +0000" stop="20241226074000 +0000" channel="Cbeebies HD.starhub">
+        <title>Lambert-Fisher Glacier, Antartica</title>
     </programme>
-    <programme start="20241225071500 +0000" stop="20241225074000 +0000" channel="Cbeebies HD.starhub">
-        <title>Go Jetters Christmas Special: The North Pole</title>
+    <programme start="20241226074000 +0000" stop="20241226075000 +0000" channel="Cbeebies HD.starhub">
+        <title>Lorenzo&#039;s Solo</title>
     </programme>
-    <programme start="20241225074000 +0000" stop="20241225075000 +0000" channel="Cbeebies HD.starhub">
-        <title>Merry Winter Wish</title>
+    <programme start="20241226075000 +0000" stop="20241226075700 +0000" channel="Cbeebies HD.starhub">
+        <title>Haber Dasher</title>
     </programme>
-    <programme start="20241225075000 +0000" stop="20241225075700 +0000" channel="Cbeebies HD.starhub">
-        <title>Seacow Snow Trail</title>
+    <programme start="20241226075700 +0000" stop="20241226080500 +0000" channel="Cbeebies HD.starhub">
+        <title>Park Trimming</title>
     </programme>
-    <programme start="20241225075700 +0000" stop="20241225080200 +0000" channel="Cbeebies HD.starhub">
-        <title>Festive Special</title>
+    <programme start="20241226080500 +0000" stop="20241226081000 +0000" channel="Cbeebies HD.starhub">
+        <title>Nora&#039;s Plant</title>
     </programme>
-    <programme start="20241225080200 +0000" stop="20241225081500 +0000" channel="Cbeebies HD.starhub">
-        <title>Snow Day</title>
+    <programme start="20241226081000 +0000" stop="20241226082000 +0000" channel="Cbeebies HD.starhub">
+        <title>Dog Loves Lighthouses</title>
     </programme>
-    <programme start="20241225081500 +0000" stop="20241225082500 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s time to build a snowman!</title>
+    <programme start="20241226082000 +0000" stop="20241226082500 +0000" channel="Cbeebies HD.starhub">
+        <title>I Am Monty</title>
     </programme>
-    <programme start="20241225082500 +0000" stop="20241225084000 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s Time For Christmas</title>
+    <programme start="20241226082500 +0000" stop="20241226083800 +0000" channel="Cbeebies HD.starhub">
+        <title>It&#039;s time to harvest vegetables</title>
     </programme>
-    <programme start="20241225084000 +0000" stop="20241225085000 +0000" channel="Cbeebies HD.starhub">
-        <title>Snowflakes</title>
+    <programme start="20241226083800 +0000" stop="20241226084500 +0000" channel="Cbeebies HD.starhub">
+        <title>Perfect</title>
     </programme>
-    <programme start="20241225085000 +0000" stop="20241225090000 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Swim</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225090700 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
-    </programme>
-    <programme start="20241225090700 +0000" stop="20241225091400 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
-    </programme>
-    <programme start="20241225091400 +0000" stop="20241225092000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
-    </programme>
-    <programme start="20241225092000 +0000" stop="20241225093000 +0000" channel="Cbeebies HD.starhub">
-        <title>Sami Reindeer Herding, Norway</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225094500 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Island, Indian Ocean</title>
-    </programme>
-    <programme start="20241225094500 +0000" stop="20241225100000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Christmas Tree Express</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225101000 +0000" channel="Cbeebies HD.starhub">
-        <title>Flamenco</title>
-    </programme>
-    <programme start="20241225101000 +0000" stop="20241225101500 +0000" channel="Cbeebies HD.starhub">
-        <title>Fish</title>
-    </programme>
-    <programme start="20241225101500 +0000" stop="20241225102500 +0000" channel="Cbeebies HD.starhub">
-        <title>Doctor Mae-Mae</title>
-    </programme>
-    <programme start="20241225102500 +0000" stop="20241225104000 +0000" channel="Cbeebies HD.starhub">
-        <title>Lolly&#039;s Keys</title>
-    </programme>
-    <programme start="20241225104000 +0000" stop="20241225104700 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226084500 +0000" stop="20241226085000 +0000" channel="Cbeebies HD.starhub">
         <title>Explorers</title>
     </programme>
-    <programme start="20241225104700 +0000" stop="20241225110000 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226085000 +0000" stop="20241226090000 +0000" channel="Cbeebies HD.starhub">
         <title>Phones</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225110700 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226090000 +0000" stop="20241226090700 +0000" channel="Cbeebies HD.starhub">
+        <title>The Moving Badge</title>
+    </programme>
+    <programme start="20241226090700 +0000" stop="20241226091400 +0000" channel="Cbeebies HD.starhub">
+        <title>Norrie&#039;s First Day</title>
+    </programme>
+    <programme start="20241226091400 +0000" stop="20241226092000 +0000" channel="Cbeebies HD.starhub">
+        <title>The Puddle Badge</title>
+    </programme>
+    <programme start="20241226092000 +0000" stop="20241226093000 +0000" channel="Cbeebies HD.starhub">
+        <title>Easter Island, Chile</title>
+    </programme>
+    <programme start="20241226093000 +0000" stop="20241226093500 +0000" channel="Cbeebies HD.starhub">
+        <title>Kiwi</title>
+    </programme>
+    <programme start="20241226093500 +0000" stop="20241226094500 +0000" channel="Cbeebies HD.starhub">
+        <title>Coconut</title>
+    </programme>
+    <programme start="20241226094500 +0000" stop="20241226095200 +0000" channel="Cbeebies HD.starhub">
+        <title>Tato Tower Takeover</title>
+    </programme>
+    <programme start="20241226095200 +0000" stop="20241226100000 +0000" channel="Cbeebies HD.starhub">
+        <title>Evil Pea&#039;s Big Freeze</title>
+    </programme>
+    <programme start="20241226100000 +0000" stop="20241226101000 +0000" channel="Cbeebies HD.starhub">
+        <title>Join In</title>
+    </programme>
+    <programme start="20241226101000 +0000" stop="20241226101500 +0000" channel="Cbeebies HD.starhub">
+        <title>Top</title>
+    </programme>
+    <programme start="20241226101500 +0000" stop="20241226102500 +0000" channel="Cbeebies HD.starhub">
+        <title>Queen Mae-Mae</title>
+    </programme>
+    <programme start="20241226102500 +0000" stop="20241226104000 +0000" channel="Cbeebies HD.starhub">
+        <title>Ice Ice Messy</title>
+    </programme>
+    <programme start="20241226104000 +0000" stop="20241226104700 +0000" channel="Cbeebies HD.starhub">
+        <title>Phones</title>
+    </programme>
+    <programme start="20241226104700 +0000" stop="20241226110000 +0000" channel="Cbeebies HD.starhub">
+        <title>Pavlova</title>
+    </programme>
+    <programme start="20241226110000 +0000" stop="20241226110700 +0000" channel="Cbeebies HD.starhub">
+        <title>The Carrot Badge</title>
+    </programme>
+    <programme start="20241226110700 +0000" stop="20241226111400 +0000" channel="Cbeebies HD.starhub">
         <title>The Metal Detector Badge</title>
     </programme>
-    <programme start="20241225110700 +0000" stop="20241225111400 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226111400 +0000" stop="20241226112000 +0000" channel="Cbeebies HD.starhub">
         <title>The Diary Badge</title>
     </programme>
-    <programme start="20241225111400 +0000" stop="20241225112000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Monster Badge</title>
+    <programme start="20241226112000 +0000" stop="20241226113000 +0000" channel="Cbeebies HD.starhub">
+        <title>Bonneville Salt Flats, USA</title>
     </programme>
-    <programme start="20241225112000 +0000" stop="20241225113000 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226113000 +0000" stop="20241226114500 +0000" channel="Cbeebies HD.starhub">
         <title>The Matterhorn, Italy and Switzerland</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225114500 +0000" channel="Cbeebies HD.starhub">
-        <title>Petra, Jordan</title>
+    <programme start="20241226114500 +0000" stop="20241226115200 +0000" channel="Cbeebies HD.starhub">
+        <title>Rug Island</title>
     </programme>
-    <programme start="20241225114500 +0000" stop="20241225115200 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226115200 +0000" stop="20241226120000 +0000" channel="Cbeebies HD.starhub">
         <title>Bingo</title>
     </programme>
-    <programme start="20241225115200 +0000" stop="20241225120000 +0000" channel="Cbeebies HD.starhub">
-        <title>Daddy Dropoff</title>
+    <programme start="20241226120000 +0000" stop="20241226121500 +0000" channel="Cbeebies HD.starhub">
+        <title>Emperor Penguins</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225121500 +0000" channel="Cbeebies HD.starhub">
-        <title>Dougie&#039;s Essex Yule Log (Christmas)</title>
+    <programme start="20241226121500 +0000" stop="20241226123000 +0000" channel="Cbeebies HD.starhub">
+        <title>Scots Pine</title>
     </programme>
-    <programme start="20241225121500 +0000" stop="20241225123000 +0000" channel="Cbeebies HD.starhub">
-        <title>Arctic Animals</title>
+    <programme start="20241226123000 +0000" stop="20241226125500 +0000" channel="Cbeebies HD.starhub">
+        <title>Remote Control</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225124000 +0000" channel="Cbeebies HD.starhub">
-        <title>Salty&#039;s Surprise</title>
+    <programme start="20241226125500 +0000" stop="20241226130200 +0000" channel="Cbeebies HD.starhub">
+        <title>The Buddy Badge</title>
     </programme>
-    <programme start="20241225124000 +0000" stop="20241225125500 +0000" channel="Cbeebies HD.starhub">
-        <title>The Missing Star</title>
+    <programme start="20241226130200 +0000" stop="20241226130900 +0000" channel="Cbeebies HD.starhub">
+        <title>The Diplomacy Badge</title>
     </programme>
-    <programme start="20241225125500 +0000" stop="20241225130200 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
+    <programme start="20241226130900 +0000" stop="20241226131500 +0000" channel="Cbeebies HD.starhub">
+        <title>The Senses Badge</title>
     </programme>
-    <programme start="20241225130200 +0000" stop="20241225130900 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
+    <programme start="20241226131500 +0000" stop="20241226132500 +0000" channel="Cbeebies HD.starhub">
+        <title>Tarbela Dam, Pakistan</title>
     </programme>
-    <programme start="20241225130900 +0000" stop="20241225131500 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
+    <programme start="20241226132500 +0000" stop="20241226134000 +0000" channel="Cbeebies HD.starhub">
+        <title>Lambert-Fisher Glacier, Antartica</title>
     </programme>
-    <programme start="20241225131500 +0000" stop="20241225134000 +0000" channel="Cbeebies HD.starhub">
-        <title>Go Jetters Christmas Special: The North Pole</title>
+    <programme start="20241226134000 +0000" stop="20241226135000 +0000" channel="Cbeebies HD.starhub">
+        <title>Lorenzo&#039;s Solo</title>
     </programme>
-    <programme start="20241225134000 +0000" stop="20241225135000 +0000" channel="Cbeebies HD.starhub">
-        <title>Merry Winter Wish</title>
+    <programme start="20241226135000 +0000" stop="20241226135700 +0000" channel="Cbeebies HD.starhub">
+        <title>Haber Dasher</title>
     </programme>
-    <programme start="20241225135000 +0000" stop="20241225135700 +0000" channel="Cbeebies HD.starhub">
-        <title>Seacow Snow Trail</title>
+    <programme start="20241226135700 +0000" stop="20241226140500 +0000" channel="Cbeebies HD.starhub">
+        <title>Park Trimming</title>
     </programme>
-    <programme start="20241225135700 +0000" stop="20241225140200 +0000" channel="Cbeebies HD.starhub">
-        <title>Festive Special</title>
+    <programme start="20241226140500 +0000" stop="20241226141000 +0000" channel="Cbeebies HD.starhub">
+        <title>Nora&#039;s Plant</title>
     </programme>
-    <programme start="20241225140200 +0000" stop="20241225141500 +0000" channel="Cbeebies HD.starhub">
-        <title>Snow Day</title>
+    <programme start="20241226141000 +0000" stop="20241226142000 +0000" channel="Cbeebies HD.starhub">
+        <title>Dog Loves Lighthouses</title>
     </programme>
-    <programme start="20241225141500 +0000" stop="20241225142500 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s time to build a snowman!</title>
+    <programme start="20241226142000 +0000" stop="20241226142500 +0000" channel="Cbeebies HD.starhub">
+        <title>I Am Monty</title>
     </programme>
-    <programme start="20241225142500 +0000" stop="20241225144000 +0000" channel="Cbeebies HD.starhub">
-        <title>It&#039;s Time For Christmas</title>
+    <programme start="20241226142500 +0000" stop="20241226143800 +0000" channel="Cbeebies HD.starhub">
+        <title>It&#039;s time to harvest vegetables</title>
     </programme>
-    <programme start="20241225144000 +0000" stop="20241225145000 +0000" channel="Cbeebies HD.starhub">
-        <title>Snowflakes</title>
+    <programme start="20241226143800 +0000" stop="20241226144500 +0000" channel="Cbeebies HD.starhub">
+        <title>Perfect</title>
     </programme>
-    <programme start="20241225145000 +0000" stop="20241225150000 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Swim</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225150700 +0000" channel="Cbeebies HD.starhub">
-        <title>Hey Duggee: Christmas Special 2020</title>
-    </programme>
-    <programme start="20241225150700 +0000" stop="20241225151400 +0000" channel="Cbeebies HD.starhub">
-        <title>The Tinsel Badge</title>
-    </programme>
-    <programme start="20241225151400 +0000" stop="20241225152000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Snowman Badge</title>
-    </programme>
-    <programme start="20241225152000 +0000" stop="20241225153000 +0000" channel="Cbeebies HD.starhub">
-        <title>Sami Reindeer Herding, Norway</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225154500 +0000" channel="Cbeebies HD.starhub">
-        <title>Christmas Island, Indian Ocean</title>
-    </programme>
-    <programme start="20241225154500 +0000" stop="20241225160000 +0000" channel="Cbeebies HD.starhub">
-        <title>The Christmas Tree Express</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225161000 +0000" channel="Cbeebies HD.starhub">
-        <title>Flamenco</title>
-    </programme>
-    <programme start="20241225161000 +0000" stop="20241225161500 +0000" channel="Cbeebies HD.starhub">
-        <title>Fish</title>
-    </programme>
-    <programme start="20241225161500 +0000" stop="20241225162500 +0000" channel="Cbeebies HD.starhub">
-        <title>Doctor Mae-Mae</title>
-    </programme>
-    <programme start="20241225162500 +0000" stop="20241225164000 +0000" channel="Cbeebies HD.starhub">
-        <title>Lolly&#039;s Keys</title>
-    </programme>
-    <programme start="20241225164000 +0000" stop="20241225164700 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226144500 +0000" stop="20241226145000 +0000" channel="Cbeebies HD.starhub">
         <title>Explorers</title>
     </programme>
-    <programme start="20241225164700 +0000" stop="20241225170000 +0000" channel="Cbeebies HD.starhub">
+    <programme start="20241226145000 +0000" stop="20241226150000 +0000" channel="Cbeebies HD.starhub">
         <title>Phones</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225170700 +0000" channel="Cbeebies HD.starhub">
-        <title>The Metal Detector Badge</title>
+    <programme start="20241226150000 +0000" stop="20241226150700 +0000" channel="Cbeebies HD.starhub">
+        <title>The Moving Badge</title>
     </programme>
-    <programme start="20241225170700 +0000" stop="20241225171400 +0000" channel="Cbeebies HD.starhub">
-        <title>The Diary Badge</title>
+    <programme start="20241226150700 +0000" stop="20241226151400 +0000" channel="Cbeebies HD.starhub">
+        <title>Norrie&#039;s First Day</title>
+    </programme>
+    <programme start="20241226151400 +0000" stop="20241226152000 +0000" channel="Cbeebies HD.starhub">
+        <title>The Puddle Badge</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="CNBC HD.starhub">
         <title>Us Closing Bell Rpt 2024</title>
@@ -6000,18 +6000,6 @@
     <programme start="20241228160000 +0000" stop="20241228163000 +0000" channel="Kalaignar TV.starhub">
         <title>Ini Ellam Vasanthame</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
@@ -6300,59 +6288,17 @@
     <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>4 Hours of Sepang Race 2</title>
+    <programme start="20250102160000 +0000" stop="20250102220000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225030000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>CONMEBOL Copa America 2024 3rd Place: Canada vs Uruguay</title>
+    <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 2</title>
+    <programme start="20250103040000 +0000" stop="20250103100000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Manchester United vs Manchester City</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225083000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>CONMEBOL Copa America 2024 Final: Argentina vs Colombia</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225093000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1180</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>FIA World Championship - Rallye du Maroc Final Highlights</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 9</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225123000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>East Asia Super League 2024/25 Ryukyu Golden Kings vs New Taipei Kings (Live)</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>4 Hours of Sepang Race 2</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 9</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225163000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1648</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225173000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1180</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Episode 1103: International Fighters</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Episode 1104: DWCS Alumni</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225213000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25 Philadelphia Eagles vs Washington Commanders</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Isuzu UTE A-League 2024/25 R9: Auckland FC vs Western United FC</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 9</title>
+    <programme start="20250103100000 +0000" stop="20250103160000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1180</title>
@@ -6599,6 +6545,60 @@
     </programme>
     <programme start="20241230223000 +0000" stop="20241230230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 1104: DWCS Alumni</title>
+    </programme>
+    <programme start="20241230230000 +0000" stop="20241231010000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Isuzu UTE A-League 2024/25 R10: Western United FC vs Brisbane Roar FC</title>
+    </programme>
+    <programme start="20241231010000 +0000" stop="20241231040000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1649</title>
+    </programme>
+    <programme start="20241231040000 +0000" stop="20241231070000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 Green Bay Packers vs Minnesota Vikings</title>
+    </programme>
+    <programme start="20241231070000 +0000" stop="20241231075500 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1181</title>
+    </programme>
+    <programme start="20241231075500 +0000" stop="20241231100000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Isuzu UTE A-League 2024/25 R11: Central Coast Mariners vs Melbourne City FC (Liv</title>
+    </programme>
+    <programme start="20241231100000 +0000" stop="20241231113000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1323</title>
+    </programme>
+    <programme start="20241231113000 +0000" stop="20241231140000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1649</title>
+    </programme>
+    <programme start="20241231140000 +0000" stop="20241231150000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1181</title>
+    </programme>
+    <programme start="20241231150000 +0000" stop="20241231153000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1225</title>
+    </programme>
+    <programme start="20241231153000 +0000" stop="20241231183000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 Detroit Lions vs San Francisco 49ers</title>
+    </programme>
+    <programme start="20241231183000 +0000" stop="20241231213000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 Green Bay Packers vs Minnesota Vikings</title>
+    </programme>
+    <programme start="20241231213000 +0000" stop="20241231220000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>FIA Middle East Bajas Cup - Dubai International Baja Day 2 Highlights</title>
+    </programme>
+    <programme start="20241231220000 +0000" stop="20241231223000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>FIA Middle East Bajas Cup - Dubai International Baja Day 3 Highlights</title>
+    </programme>
+    <programme start="20241231223000 +0000" stop="20250101010000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>UFC Reloaded UFC 308: Topuria vs Holloway</title>
+    </programme>
+    <programme start="20250101010000 +0000" stop="20250101030000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Isuzu UTE A-League 2024/25 R11: Central Coast Mariners vs Melbourne City FC</title>
+    </programme>
+    <programme start="20250101030000 +0000" stop="20250101035500 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>4 Hours of Sepang Race 2</title>
+    </programme>
+    <programme start="20250101035500 +0000" stop="20250101060000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Isuzu UTE A-League 2024/25 R11: Auckland FC vs Melbourne Victory (Live)</title>
+    </programme>
+    <programme start="20250101060000 +0000" stop="20250101063000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1225</title>
     </programme>
     <programme start="20241224231500 +0000" stop="20241225005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
@@ -6900,84 +6900,6 @@
     <programme start="20241226100000 +0000" stop="20241226103000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 7 (B)</title>
     </programme>
-    <programme start="20241224235500 +0000" stop="20241225005500 +0000" channel="Lifetime HD.starhub">
-        <title>MasterChef Australia (S16)</title>
-    </programme>
-    <programme start="20241225005500 +0000" stop="20241225012500 +0000" channel="Lifetime HD.starhub">
-        <title>Bun To Be Wild</title>
-    </programme>
-    <programme start="20241225012500 +0000" stop="20241225022500 +0000" channel="Lifetime HD.starhub">
-        <title>Got To Leave Something</title>
-    </programme>
-    <programme start="20241225022500 +0000" stop="20241225035500 +0000" channel="Lifetime HD.starhub">
-        <title>Married At First Sight Australia (S9)</title>
-    </programme>
-    <programme start="20241225035500 +0000" stop="20241225045500 +0000" channel="Lifetime HD.starhub">
-        <title>MasterChef Australia (S16)</title>
-    </programme>
-    <programme start="20241225045500 +0000" stop="20241225052500 +0000" channel="Lifetime HD.starhub">
-        <title>Bun To Be Wild</title>
-    </programme>
-    <programme start="20241225052500 +0000" stop="20241225055500 +0000" channel="Lifetime HD.starhub">
-        <title>Buffalo</title>
-    </programme>
-    <programme start="20241225055500 +0000" stop="20241225073000 +0000" channel="Lifetime HD.starhub">
-        <title>Kirk Franklin&#039;s The Night Before Christmas</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225083000 +0000" channel="Lifetime HD.starhub">
-        <title>Dallas: Runningbrook</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225100000 +0000" channel="Lifetime HD.starhub">
-        <title>Married At First Sight Australia (S9)</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Lifetime HD.starhub">
-        <title>Grand Central Market</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Lifetime HD.starhub">
-        <title>Over 100 Years Old</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Lifetime HD.starhub">
-        <title>Generational Legacies</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225123000 +0000" channel="Lifetime HD.starhub">
-        <title>Enlighten Your Life (S3)</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="Lifetime HD.starhub">
-        <title>MasterChef Australia (S16)</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Lifetime HD.starhub">
-        <title>Don&#039;t Believe Your Eyes</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225153500 +0000" channel="Lifetime HD.starhub">
-        <title>My Child Has My Doctor&#039;s Face</title>
-    </programme>
-    <programme start="20241225153500 +0000" stop="20241225170500 +0000" channel="Lifetime HD.starhub">
-        <title>Married At First Sight Australia (S9)</title>
-    </programme>
-    <programme start="20241225170500 +0000" stop="20241225173500 +0000" channel="Lifetime HD.starhub">
-        <title>Grand Central Market</title>
-    </programme>
-    <programme start="20241225173500 +0000" stop="20241225180500 +0000" channel="Lifetime HD.starhub">
-        <title>Over 100 Years Old</title>
-    </programme>
-    <programme start="20241225180500 +0000" stop="20241225183500 +0000" channel="Lifetime HD.starhub">
-        <title>Generational Legacies</title>
-    </programme>
-    <programme start="20241225183500 +0000" stop="20241225202000 +0000" channel="Lifetime HD.starhub">
-        <title>My Child Has My Doctor&#039;s Face</title>
-    </programme>
-    <programme start="20241225202000 +0000" stop="20241225220500 +0000" channel="Lifetime HD.starhub">
-        <title>Kirk Franklin&#039;s The Night Before Christmas</title>
-    </programme>
-    <programme start="20241225220500 +0000" stop="20241225223000 +0000" channel="Lifetime HD.starhub">
-        <title>Over 100 Years Old</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225225500 +0000" channel="Lifetime HD.starhub">
-        <title>Generational Legacies</title>
-    </programme>
-    <programme start="20241225225500 +0000" stop="20241225235500 +0000" channel="Lifetime HD.starhub">
-        <title>Dallas: Melrose</title>
-    </programme>
     <programme start="20241225235500 +0000" stop="20241226005500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>
     </programme>
@@ -7200,128 +7122,83 @@
     <programme start="20241229055000 +0000" stop="20241229073000 +0000" channel="Lifetime HD.starhub">
         <title>I Thought My Husband&#039;s Wife Was Dead</title>
     </programme>
-    <programme start="20241224234500 +0000" stop="20241225001500 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
+    <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="Lifetime HD.starhub">
+        <title>Vintage Vacation Time Capsule</title>
     </programme>
-    <programme start="20241225001500 +0000" stop="20241225010500 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20241229080000 +0000" stop="20241229093000 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225010500 +0000" stop="20241225013000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
+    <programme start="20241229093000 +0000" stop="20241229103000 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
+    <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
+    <programme start="20241229113000 +0000" stop="20241229123000 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <programme start="20241229123000 +0000" stop="20241229140000 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
+    <programme start="20241229140000 +0000" stop="20241229153500 +0000" channel="Lifetime HD.starhub">
+        <title>My Child Has My Doctor&#039;s Face</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
+    <programme start="20241229153500 +0000" stop="20241229171000 +0000" channel="Lifetime HD.starhub">
+        <title>The Disappearance Of Cari Farver</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
+    <programme start="20241229171000 +0000" stop="20241229185500 +0000" channel="Lifetime HD.starhub">
+        <title>Spinning Out Of Control</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
+    <programme start="20241229185500 +0000" stop="20241229203000 +0000" channel="Lifetime HD.starhub">
+        <title>My Child Has My Doctor&#039;s Face</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
+    <programme start="20241229203000 +0000" stop="20241229220500 +0000" channel="Lifetime HD.starhub">
+        <title>I Thought My Husband&#039;s Wife Was Dead</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
+    <programme start="20241229220500 +0000" stop="20241229223000 +0000" channel="Lifetime HD.starhub">
+        <title>Comfort Food Classics</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <programme start="20241229223000 +0000" stop="20241229225500 +0000" channel="Lifetime HD.starhub">
+        <title>Humble Beginnings</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
+    <programme start="20241229225500 +0000" stop="20241229235500 +0000" channel="Lifetime HD.starhub">
+        <title>Orlando: Campbell House</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20241229235500 +0000" stop="20241230012500 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225093000 +0000" channel="COLORS.starhub">
-        <title>Bigg Boss</title>
+    <programme start="20241230012500 +0000" stop="20241230022500 +0000" channel="Lifetime HD.starhub">
+        <title>Got To Leave Something</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
+    <programme start="20241230022500 +0000" stop="20241230035500 +0000" channel="Lifetime HD.starhub">
+        <title>Married At First Sight Australia (S9)</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
+    <programme start="20241230035500 +0000" stop="20241230052500 +0000" channel="Lifetime HD.starhub">
+        <title>MasterChef Australia (S16)</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
+    <programme start="20241230052500 +0000" stop="20241230055500 +0000" channel="Lifetime HD.starhub">
+        <title>Nebraska State Fair</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
+    <programme start="20241230055500 +0000" stop="20241230073000 +0000" channel="Lifetime HD.starhub">
+        <title>My Child Has My Doctor&#039;s Face</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
+    <programme start="20241230073000 +0000" stop="20241230083000 +0000" channel="Lifetime HD.starhub">
+        <title>Orlando: Campbell House</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <programme start="20241230083000 +0000" stop="20241230100000 +0000" channel="Lifetime HD.starhub">
+        <title>Married At First Sight Australia (S9)</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
+    <programme start="20241230100000 +0000" stop="20241230103000 +0000" channel="Lifetime HD.starhub">
+        <title>Denver</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20241230103000 +0000" stop="20241230110000 +0000" channel="Lifetime HD.starhub">
+        <title>Legendary Women</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225153000 +0000" channel="COLORS.starhub">
-        <title>Bigg Boss</title>
+    <programme start="20241230110000 +0000" stop="20241230113000 +0000" channel="Lifetime HD.starhub">
+        <title>Bringing The Heat</title>
     </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225203000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225222000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
-    </programme>
-    <programme start="20241225222000 +0000" stop="20241225225000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20241225225000 +0000" stop="20241225231500 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20241225231500 +0000" stop="20241225234500 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
+    <programme start="20241230113000 +0000" stop="20241230120000 +0000" channel="Lifetime HD.starhub">
+        <title>Jason&#039;s Table: Masterful Dishes</title>
     </programme>
     <programme start="20241225234500 +0000" stop="20241226001500 +0000" channel="COLORS.starhub">
         <title>Durga - Atut Prem Kahani</title>
@@ -7500,122 +7377,128 @@
     <programme start="20241227100000 +0000" stop="20241227103000 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVB Jade HD.starhub">
-        <title>All That Is Bitter Is Sweet</title>
+    <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225011500 +0000" channel="TVB Jade HD.starhub">
-        <title>Happy Old Buddies</title>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="COLORS.starhub">
+        <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241225011500 +0000" stop="20241225014500 +0000" channel="TVB Jade HD.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225014500 +0000" stop="20241225020000 +0000" channel="TVB Jade HD.starhub">
-        <title>Hands Up</title>
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="TVB Jade HD.starhub">
-        <title>Hipster Tour - Germany</title>
+    <programme start="20241227123000 +0000" stop="20241227130000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="TVB Jade HD.starhub">
-        <title>Chill. Hike. Camping (Sr.2)</title>
+    <programme start="20241227130000 +0000" stop="20241227140000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="TVB Jade HD.starhub">
-        <title>Call Of Destiny</title>
+    <programme start="20241227140000 +0000" stop="20241227153000 +0000" channel="COLORS.starhub">
+        <title>Bigg Boss</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="TVB Jade HD.starhub">
-        <title>Scoop 2024</title>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="TVB Jade HD.starhub">
-        <title>The Vanishing Tastes</title>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225050500 +0000" channel="TVB Jade HD.starhub">
-        <title>Global View</title>
+    <programme start="20241227163000 +0000" stop="20241227170000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20241225050500 +0000" stop="20241225052000 +0000" channel="TVB Jade HD.starhub">
-        <title>Hands Up</title>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225052000 +0000" stop="20241225063000 +0000" channel="TVB Jade HD.starhub">
-        <title>Big City Shop 2024</title>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225073000 +0000" channel="TVB Jade HD.starhub">
-        <title>Sword and Fairy 1</title>
+    <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="TVB Jade HD.starhub">
-        <title>Hipster Tour - Germany</title>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="TVB Jade HD.starhub">
-        <title>Am I Healthy? (Sr.2)</title>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="TVB Jade HD.starhub">
-        <title>Thai Rogered (Sr.7)</title>
+    <programme start="20241227193000 +0000" stop="20241227203000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="TVB Jade HD.starhub">
-        <title>Golden Banquet</title>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225103000 +0000" channel="TVB Jade HD.starhub">
-        <title>The Legend of Xiao Chuo</title>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110500 +0000" channel="TVB Jade HD.starhub">
-        <title>News At 18:30 and Global View</title>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="COLORS.starhub">
+        <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241225110500 +0000" stop="20241225113000 +0000" channel="TVB Jade HD.starhub">
-        <title>Carbon Cutting for a Greener Future</title>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="TVB Jade HD.starhub">
-        <title>Scoop 2024</title>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="TVB Jade HD.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="TVB Jade HD.starhub">
-        <title>Call Of Destiny</title>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="COLORS.starhub">
+        <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241225133000 +0000" stop="20241225143000 +0000" channel="TVB Jade HD.starhub">
-        <title>Sword and Fairy 1</title>
+    <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="COLORS.starhub">
+        <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225150500 +0000" channel="TVB Jade HD.starhub">
-        <title>Hipster Tour - Germany</title>
+    <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225150500 +0000" stop="20241225151500 +0000" channel="TVB Jade HD.starhub">
-        <title>EXTRA</title>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225151500 +0000" stop="20241225155000 +0000" channel="TVB Jade HD.starhub">
-        <title>News Roundup</title>
+    <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225155000 +0000" stop="20241225160000 +0000" channel="TVB Jade HD.starhub">
-        <title>Global View</title>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="TVB Jade HD.starhub">
-        <title>Golden Banquet</title>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225163000 +0000" stop="20241225173000 +0000" channel="TVB Jade HD.starhub">
-        <title>All That Is Bitter Is Sweet</title>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="TVB Jade HD.starhub">
-        <title>Call Of Destiny</title>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="TVB Jade HD.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="TVB Jade HD.starhub">
-        <title>Scoop 2024</title>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="TVB Jade HD.starhub">
-        <title>Carbon Cutting for a Greener Future</title>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="COLORS.starhub">
+        <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="TVB Jade HD.starhub">
-        <title>The Legend of Xiao Chuo</title>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="TVB Jade HD.starhub">
-        <title>Big City Shop 2024</title>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="TVB Jade HD.starhub">
-        <title>Am I Healthy? (Sr.2)</title>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="TVB Jade HD.starhub">
-        <title>Scoop 2024</title>
+    <programme start="20241228070000 +0000" stop="20241228080000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="TVB Jade HD.starhub">
-        <title>Good Morning Hong Kong and Global View</title>
+    <programme start="20241228080000 +0000" stop="20241228093000 +0000" channel="COLORS.starhub">
+        <title>Bigg Boss</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TVB Jade HD.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -7799,6 +7682,123 @@
     </programme>
     <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="TVB Jade HD.starhub">
         <title>Lo And Behold</title>
+    </programme>
+    <programme start="20241227123000 +0000" stop="20241227133000 +0000" channel="TVB Jade HD.starhub">
+        <title>Call Of Destiny</title>
+    </programme>
+    <programme start="20241227133000 +0000" stop="20241227143000 +0000" channel="TVB Jade HD.starhub">
+        <title>Sword and Fairy 1</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150500 +0000" channel="TVB Jade HD.starhub">
+        <title>Hipster Tour - Germany</title>
+    </programme>
+    <programme start="20241227150500 +0000" stop="20241227151500 +0000" channel="TVB Jade HD.starhub">
+        <title>EXTRA</title>
+    </programme>
+    <programme start="20241227151500 +0000" stop="20241227155000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Roundup</title>
+    </programme>
+    <programme start="20241227155000 +0000" stop="20241227160000 +0000" channel="TVB Jade HD.starhub">
+        <title>Global View</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="TVB Jade HD.starhub">
+        <title>Eyes On Concern Groups</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227173000 +0000" channel="TVB Jade HD.starhub">
+        <title>All That Is Bitter Is Sweet</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227183000 +0000" channel="TVB Jade HD.starhub">
+        <title>Call Of Destiny</title>
+    </programme>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="TVB Jade HD.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2024</title>
+    </programme>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="TVB Jade HD.starhub">
+        <title>Vital Lifeline</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227210000 +0000" channel="TVB Jade HD.starhub">
+        <title>Winter Night</title>
+    </programme>
+    <programme start="20241227210000 +0000" stop="20241227220000 +0000" channel="TVB Jade HD.starhub">
+        <title>Big City Shop 2024</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="TVB Jade HD.starhub">
+        <title>The Heavenly Party</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2024</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="TVB Jade HD.starhub">
+        <title>Good Morning Hong Kong</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="TVB Jade HD.starhub">
+        <title>All That Is Bitter Is Sweet</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228011500 +0000" channel="TVB Jade HD.starhub">
+        <title>Happy Old Buddies</title>
+    </programme>
+    <programme start="20241228011500 +0000" stop="20241228014500 +0000" channel="TVB Jade HD.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20241228014500 +0000" stop="20241228020000 +0000" channel="TVB Jade HD.starhub">
+        <title>Hands Up</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="TVB Jade HD.starhub">
+        <title>Short End Of The Stick</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="TVB Jade HD.starhub">
+        <title>Short End Of The Stick</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2024</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="TVB Jade HD.starhub">
+        <title>Shock Mystery</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="TVB Jade HD.starhub">
+        <title>Family Feud</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="TVB Jade HD.starhub">
+        <title>ChatSAT</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="TVB Jade HD.starhub">
+        <title>Chill. Hike. Camping (Sr.2)</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228080000 +0000" channel="TVB Jade HD.starhub">
+        <title>Midlife, Sing &amp; Shine! 3</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="TVB Jade HD.starhub">
+        <title>Profession Impossible (Sr.3)</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="TVB Jade HD.starhub">
+        <title>J Music</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="TVB Jade HD.starhub">
+        <title>Family Feud</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="TVB Jade HD.starhub">
+        <title>ChatSAT</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="TVB Jade HD.starhub">
+        <title>Gourmet Express</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228110000 +0000" channel="TVB Jade HD.starhub">
+        <title>News At 18:30</title>
+    </programme>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="TVB Jade HD.starhub">
+        <title>China Review 2024</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2024</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228133000 +0000" channel="TVB Jade HD.starhub">
+        <title>Infinity and Beyond 2024</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228151500 +0000" channel="TVB Jade HD.starhub">
+        <title>Macao Outdoor Performance Venue Warm-up Party @21:30</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="Zee TV.starhub">
         <title>Bhagya Lakshmi</title>
@@ -8100,33 +8100,6 @@
     <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225020000 +0000" channel="Zee Cinema.starhub">
-        <title>Adalat</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225050000 +0000" channel="Zee Cinema.starhub">
-        <title>Ambarsariya</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225080000 +0000" channel="Zee Cinema.starhub">
-        <title>Shamitabh</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225110000 +0000" channel="Zee Cinema.starhub">
-        <title>Ehsaas: The Feeling</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225140000 +0000" channel="Zee Cinema.starhub">
-        <title>Ujda Chaman</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225163000 +0000" channel="Zee Cinema.starhub">
-        <title>Suriya Ki Gang</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Zee Cinema.starhub">
-        <title>Starry Nights S02</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225200000 +0000" channel="Zee Cinema.starhub">
-        <title>Commando 2</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225230000 +0000" channel="Zee Cinema.starhub">
-        <title>Dil Hi To Hai</title>
-    </programme>
     <programme start="20241225230000 +0000" stop="20241226020000 +0000" channel="Zee Cinema.starhub">
         <title>Ehsaas: The Feeling</title>
     </programme>
@@ -8399,6 +8372,33 @@
     </programme>
     <programme start="20250104170000 +0000" stop="20250104200000 +0000" channel="Zee Cinema.starhub">
         <title>Joram</title>
+    </programme>
+    <programme start="20250104200000 +0000" stop="20250104230000 +0000" channel="Zee Cinema.starhub">
+        <title>Rock On 2</title>
+    </programme>
+    <programme start="20250104230000 +0000" stop="20250105020000 +0000" channel="Zee Cinema.starhub">
+        <title>No Problem</title>
+    </programme>
+    <programme start="20250105020000 +0000" stop="20250105050000 +0000" channel="Zee Cinema.starhub">
+        <title>Zero</title>
+    </programme>
+    <programme start="20250105050000 +0000" stop="20250105080000 +0000" channel="Zee Cinema.starhub">
+        <title>Mausam</title>
+    </programme>
+    <programme start="20250105080000 +0000" stop="20250105110000 +0000" channel="Zee Cinema.starhub">
+        <title>Yamla Pagla Deewana</title>
+    </programme>
+    <programme start="20250105110000 +0000" stop="20250105140000 +0000" channel="Zee Cinema.starhub">
+        <title>Joram</title>
+    </programme>
+    <programme start="20250105140000 +0000" stop="20250105163000 +0000" channel="Zee Cinema.starhub">
+        <title>Khuda Haafiz: Chapter 2 - Agni Pariksha</title>
+    </programme>
+    <programme start="20250105163000 +0000" stop="20250105170000 +0000" channel="Zee Cinema.starhub">
+        <title>Chef Vs Fridge S01</title>
+    </programme>
+    <programme start="20250105170000 +0000" stop="20250105200000 +0000" channel="Zee Cinema.starhub">
+        <title>Badla</title>
     </programme>
     <programme start="20241224231000 +0000" stop="20241225015500 +0000" channel="ROCK Entertainment.starhub">
         <title>The Aviator</title>
@@ -9000,126 +9000,6 @@
     <programme start="20241226034500 +0000" stop="20241226035000 +0000" channel="Nick Jr.starhub">
         <title>Sharkdog Home Alone</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (25/12/24 Pt2)</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>From Phoenix To The World (24/12/24)</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News On The Hour (25/12/24)</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (25/12/24)</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Midday Express (25/12/24)</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Chief Editor&#039;S Time (24/12/24)</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>China Insight</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Fact Check On News</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News On The Hour (25/12/24)</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>C&#039;est La Vie</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Hong Kong Hot Kitchen</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (25/12/24)</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Focus (25/12/24)</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News Talk (25/12/24)</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Asian Financial Insight</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Gba Discovery</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Updated Military Status</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Evening Express (25/12/24)</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>From Phoenix To The World (25/12/24)</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Asian Financial Insight</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News Talk (25/12/24)</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Intercontinental Express (26/12/24)</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (25/12/24)</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Asian Financial Insight</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Updated Military Status</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Fact Check On News</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>From Phoenix To The World (25/12/24)</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (25/12/24)</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Gba Discovery</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Chief Editor&#039;S Time (25/12/24)</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Morning Express (26/12/24 Pt2)</title>
     </programme>
@@ -9300,80 +9180,125 @@
     <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Asian Financial Insight</title>
     </programme>
-    <programme start="20241224231000 +0000" stop="20241225001000 +0000" channel="KBS World HD.starhub">
-        <title>Korea-Khitan War</title>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Top View</title>
     </programme>
-    <programme start="20241225001000 +0000" stop="20241225002500 +0000" channel="KBS World HD.starhub">
-        <title>My Day Trip</title>
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Panorama</title>
     </programme>
-    <programme start="20241225002500 +0000" stop="20241225010000 +0000" channel="KBS World HD.starhub">
-        <title>My Merry Marriage</title>
+    <programme start="20241227123000 +0000" stop="20241227130000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Global Updates</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225014000 +0000" channel="KBS World HD.starhub">
-        <title>Cinderella Game</title>
+    <programme start="20241227130000 +0000" stop="20241227140000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Evening Express (27/12/24)</title>
     </programme>
-    <programme start="20241225014000 +0000" stop="20241225022000 +0000" channel="KBS World HD.starhub">
-        <title>The Two Sisters</title>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Zoom In</title>
     </programme>
-    <programme start="20241225022000 +0000" stop="20241225033500 +0000" channel="KBS World HD.starhub">
-        <title>Iron Family</title>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>From Phoenix To The World (27/12/24)</title>
     </programme>
-    <programme start="20241225033500 +0000" stop="20241225034000 +0000" channel="KBS World HD.starhub">
-        <title>The Best of Immortal Songs</title>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Asian Financial Insight</title>
     </programme>
-    <programme start="20241225034000 +0000" stop="20241225051000 +0000" channel="KBS World HD.starhub">
-        <title>Synchro U</title>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>News Talk (27/12/24)</title>
     </programme>
-    <programme start="20241225051000 +0000" stop="20241225055000 +0000" channel="KBS World HD.starhub">
-        <title>Zombie Detective</title>
+    <programme start="20241227160000 +0000" stop="20241227170000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Intercontinental Express (28/12/24)</title>
     </programme>
-    <programme start="20241225055000 +0000" stop="20241225062500 +0000" channel="KBS World HD.starhub">
-        <title>Zombie Detective</title>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Summary Of Press (27/12/24)</title>
     </programme>
-    <programme start="20241225062500 +0000" stop="20241225072500 +0000" channel="KBS World HD.starhub">
-        <title>Korea-Khitan War</title>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Panorama</title>
     </programme>
-    <programme start="20241225072500 +0000" stop="20241225074000 +0000" channel="KBS World HD.starhub">
-        <title>My Day Trip</title>
+    <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>The Great Era</title>
     </programme>
-    <programme start="20241225074000 +0000" stop="20241225113500 +0000" channel="KBS World HD.starhub">
-        <title>2024 Music Bank Global Festival in Japan</title>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Asian Financial Insight</title>
     </programme>
-    <programme start="20241225113500 +0000" stop="20241225121000 +0000" channel="KBS World HD.starhub">
-        <title>My Merry Marriage</title>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Global Updates</title>
     </programme>
-    <programme start="20241225121000 +0000" stop="20241225125000 +0000" channel="KBS World HD.starhub">
-        <title>Cinderella Game</title>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Zoom In</title>
     </programme>
-    <programme start="20241225125000 +0000" stop="20241225142000 +0000" channel="KBS World HD.starhub">
-        <title>THE DDANDDARA</title>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Cultural Canvas</title>
     </programme>
-    <programme start="20241225142000 +0000" stop="20241225155000 +0000" channel="KBS World HD.starhub">
-        <title>Moving Voices</title>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>From Phoenix To The World (27/12/24)</title>
     </programme>
-    <programme start="20241225155000 +0000" stop="20241225172000 +0000" channel="KBS World HD.starhub">
-        <title>Stars&#039; Top Recipe at Fun-Staurant</title>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Summary Of Press (27/12/24)</title>
     </programme>
-    <programme start="20241225172000 +0000" stop="20241225172500 +0000" channel="KBS World HD.starhub">
-        <title>The Best of Immortal Songs</title>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Top View</title>
     </programme>
-    <programme start="20241225172500 +0000" stop="20241225182000 +0000" channel="KBS World HD.starhub">
-        <title>Talchum, Dance with Tal</title>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>The Great Era</title>
     </programme>
-    <programme start="20241225182000 +0000" stop="20241225185500 +0000" channel="KBS World HD.starhub">
-        <title>My Merry Marriage</title>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Chief Editor&#039;S Time (27/12/24)</title>
     </programme>
-    <programme start="20241225185500 +0000" stop="20241225193500 +0000" channel="KBS World HD.starhub">
-        <title>Cinderella Game</title>
+    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Morning Express (28/12/24 Pt1)</title>
     </programme>
-    <programme start="20241225193500 +0000" stop="20241225210000 +0000" channel="KBS World HD.starhub">
-        <title>Moving Voices</title>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Morning Express (28/12/24 Pt2)</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225223000 +0000" channel="KBS World HD.starhub">
-        <title>THE DDANDDARA</title>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>From Phoenix To The World (27/12/24)</title>
     </programme>
-    <programme start="20241225223000 +0000" stop="20241225231000 +0000" channel="KBS World HD.starhub">
-        <title>The Two Sisters</title>
+    <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Panorama</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>News On The Hour (28/12/24)</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Zoom In</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Cultural Canvas</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Midday Express (28/12/24)</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Chief Editor&#039;S Time (27/12/24)</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Dreamscapes, Architectural Wonders</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228061500 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>My Hong Kong Story</title>
+    </programme>
+    <programme start="20241228061500 +0000" stop="20241228062500 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Mv On Demand</title>
+    </programme>
+    <programme start="20241228062500 +0000" stop="20241228063000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Mv On Demand</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Panorama</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228080000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>News On The Hour (28/12/24)</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Global Updates</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>The Great Era</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>China Insight</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Cultural Canvas</title>
     </programme>
     <programme start="20241225231000 +0000" stop="20241226002500 +0000" channel="KBS World HD.starhub">
         <title>Good Manager</title>
@@ -9599,6 +9524,81 @@
     </programme>
     <programme start="20241228131500 +0000" stop="20241228135500 +0000" channel="KBS World HD.starhub">
         <title>Zombie Detective</title>
+    </programme>
+    <programme start="20241228135500 +0000" stop="20241228143000 +0000" channel="KBS World HD.starhub">
+        <title>Zombie Detective</title>
+    </programme>
+    <programme start="20241228143000 +0000" stop="20241228151000 +0000" channel="KBS World HD.starhub">
+        <title>Zombie Detective</title>
+    </programme>
+    <programme start="20241228151000 +0000" stop="20241228154500 +0000" channel="KBS World HD.starhub">
+        <title>Zombie Detective</title>
+    </programme>
+    <programme start="20241228154500 +0000" stop="20241228162000 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20241228162000 +0000" stop="20241228165500 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20241228165500 +0000" stop="20241228173000 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20241228173000 +0000" stop="20241228180500 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20241228180500 +0000" stop="20241228184000 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20241228184000 +0000" stop="20241228200500 +0000" channel="KBS World HD.starhub">
+        <title>ASEAN-KOREA MUSIC FESTIVAL ROUND in Laos</title>
+    </programme>
+    <programme start="20241228200500 +0000" stop="20241228210000 +0000" channel="KBS World HD.starhub">
+        <title>ALL-ROUNDER : Dancing girls in Laos</title>
+    </programme>
+    <programme start="20241228210000 +0000" stop="20241228221500 +0000" channel="KBS World HD.starhub">
+        <title>Iron Family</title>
+    </programme>
+    <programme start="20241228221500 +0000" stop="20241229000000 +0000" channel="KBS World HD.starhub">
+        <title>Immortal Songs 2</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229011500 +0000" channel="KBS World HD.starhub">
+        <title>Good Manager</title>
+    </programme>
+    <programme start="20241229011500 +0000" stop="20241229023000 +0000" channel="KBS World HD.starhub">
+        <title>Good Manager</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229034500 +0000" channel="KBS World HD.starhub">
+        <title>Iron Family</title>
+    </programme>
+    <programme start="20241229034500 +0000" stop="20241229051500 +0000" channel="KBS World HD.starhub">
+        <title>ASEAN-KOREA MUSIC FESTIVAL ROUND in Laos</title>
+    </programme>
+    <programme start="20241229051500 +0000" stop="20241229060500 +0000" channel="KBS World HD.starhub">
+        <title>ALL-ROUNDER : Dancing girls in Laos</title>
+    </programme>
+    <programme start="20241229060500 +0000" stop="20241229073500 +0000" channel="KBS World HD.starhub">
+        <title>Synchro U</title>
+    </programme>
+    <programme start="20241229073500 +0000" stop="20241229090500 +0000" channel="KBS World HD.starhub">
+        <title>Stars&#039; Top Recipe at Fun-Staurant</title>
+    </programme>
+    <programme start="20241229090500 +0000" stop="20241229104500 +0000" channel="KBS World HD.starhub">
+        <title>Two Days and One Night 4</title>
+    </programme>
+    <programme start="20241229104500 +0000" stop="20241229120000 +0000" channel="KBS World HD.starhub">
+        <title>The Return of Superman</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229131500 +0000" channel="KBS World HD.starhub">
+        <title>Iron Family</title>
+    </programme>
+    <programme start="20241229131500 +0000" stop="20241229135500 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20241229135500 +0000" stop="20241229143000 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20241229143000 +0000" stop="20241229151000 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
     </programme>
     <programme start="20241224221500 +0000" stop="20241225004500 +0000" channel="SPOTV2.starhub">
         <title>Men Free Skating +Victory Ceremony</title>
@@ -9900,123 +9900,6 @@
     <programme start="20241231123000 +0000" stop="20241231160000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Bloomberg Originals.starhub">
-        <title>David Rubenstein</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Jay Williams</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="Bloomberg Originals.starhub">
-        <title>World</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Business</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Economy</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Airship Stikes Back</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Kyrgyzstan Part 1: Kings of YouTube</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Kyrgyzstan Part 2: Dreams of a Tech Future</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 1: A Sci-Fi Industrial Revolution</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 2: The Children of SpaceX</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Monkey Laundering</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Stealing The Gods</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Green Bible</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Stradivarius Murders</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Robots: The Aliens We Made</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Love in the Age of Machines</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Your Brain Is the Next Tech Frontier</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Tech Is Breaking the Rules of Biology</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Kyrgyzstan Part 2: Dreams of a Tech Future</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 1: A Sci-Fi Industrial Revolution</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 2: The Children of SpaceX</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Super Intelligence</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Animal Communication</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Quantum Computing</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Water</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Pain</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Next Billion</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Growing Toll of America&#039;s Booming Kratom Industry</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Airship Stikes Back</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Kyrgyzstan Part 1: Kings of YouTube</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Kyrgyzstan Part 2: Dreams of a Tech Future</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 1: A Sci-Fi Industrial Revolution</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Bloomberg Originals.starhub">
-        <title>LA Part 2: The Children of SpaceX</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Colorado&#039;s Maverick Inventors</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Switzerland Part 1: A High-Tech Utopia</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Switzerland Part 2: Brains, Brains, Brains</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The World&#039;s Craziest Car Race</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225223000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Money, Ego and Deception at FTX</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How India&#039;s Narendra Modi Took Power</title>
-    </programme>
     <programme start="20241225230000 +0000" stop="20241226020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
     </programme>
@@ -10199,6 +10082,123 @@
     </programme>
     <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="Bloomberg Originals.starhub">
         <title>Scambaiters</title>
+    </programme>
+    <programme start="20241227203000 +0000" stop="20241227213000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Irretrievable</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Stealing The Gods</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241228000000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Money, Ego and Deception at FTX</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Billie Jean King &amp; Ilana Kloss</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="Bloomberg Originals.starhub">
+        <title>David Rubenstein</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Jay Williams</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Adena Friedman</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Beyond Earth: Private Ambitions in Space</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Korean Pop Culture Is Transforming Design</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Nation Where Robots and Humans Get Along</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Can Global Shipping Go Green?</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Switzerland Part 1: A High-Tech Utopia</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Switzerland Part 2: Brains, Brains, Brains</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The World&#039;s Craziest Car Race</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228083000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Nigeria: Where the Tech Hustle is Real</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Airship Stikes Back</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Kyrgyzstan Part 1: Kings of YouTube</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside Mark Zuckerberg&#039;s AI Era</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Google CEO Sundar Pichai and the Future of AI</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228110000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
+    </programme>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Instacart&#039;s CEO Fidji Simo Brought French Style to Silicon Valley</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Lisa Su Saved AMD. Now She&#039;s Coming For Nvidia</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Bloomberg Originals.starhub">
+        <title>World</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Money, Ego and Deception at FTX</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Dusk Or Dawn</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Shelter</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Regenerate</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Nourish</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Move</title>
+    </programme>
+    <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228213000 +0000" stop="20241228220000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228223000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228223000 +0000" stop="20241228230000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Business</title>
+    </programme>
+    <programme start="20241228233000 +0000" stop="20241229000000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Beyond Earth: Private Ambitions in Space</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Korean Pop Culture Is Transforming Design</title>
     </programme>
     <programme start="20241224232000 +0000" stop="20241225004500 +0000" channel="Karisma.starhub">
         <title>Malu Bertanya Sesat Di Hati</title>
@@ -10800,156 +10800,6 @@
     <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil S08 Plus</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="BBC World News HD.starhub">
-        <title>Ciarán Hinds</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="BBC World News HD.starhub">
-        <title>Secrets of Antarctica&#039;s Giants</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsday</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="BBC World News HD.starhub">
-        <title>We Remember</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsday</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="BBC World News HD.starhub">
-        <title>The Biggest Stories</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsday</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="BBC World News HD.starhub">
-        <title>French Cinema Classics</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="BBC World News HD.starhub">
-        <title>Secrets of Antarctica&#039;s Giants</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="BBC World News HD.starhub">
-        <title>Raye</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="BBC World News HD.starhub">
-        <title>Al Pacino: Once Upon A Time In Hollywood</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="BBC World News HD.starhub">
-        <title>Talking Business</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="BBC World News HD.starhub">
-        <title>French Cinema Classics</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="BBC World News HD.starhub">
-        <title>Ciarán Hinds</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="BBC World News HD.starhub">
-        <title>Secrets of Antarctica&#039;s Giants</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="BBC World News HD.starhub">
-        <title>Where the Polar Bears Wait</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="BBC World News HD.starhub">
-        <title>The Biggest Stories</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="BBC World News HD.starhub">
-        <title>Iceland: A Women&#039;s Paradise?</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225151000 +0000" channel="BBC World News HD.starhub">
-        <title>The King&#039;s Christmas Broadcast</title>
-    </programme>
-    <programme start="20241225151000 +0000" stop="20241225153000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="BBC World News HD.starhub">
-        <title>Mabu: Saving the Secret Forest</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="BBC World News HD.starhub">
-        <title>Secrets of Antarctica&#039;s Giants</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="BBC World News HD.starhub">
-        <title>Focus on Africa</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="BBC World News HD.starhub">
-        <title>F1 in 10 Years</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="BBC World News HD.starhub">
-        <title>The Royal Year</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Biggest Stories</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225212000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225212000 +0000" stop="20241225213000 +0000" channel="BBC World News HD.starhub">
-        <title>The King&#039;s Christmas Broadcast</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="BBC World News HD.starhub">
-        <title>Kyle Minogue</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="BBC World News HD.starhub">
-        <title>Ciarán Hinds</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="BBC World News HD.starhub">
-        <title>French Cinema Classics</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
@@ -11100,71 +10950,155 @@
     <programme start="20241227003000 +0000" stop="20241227010000 +0000" channel="BBC World News HD.starhub">
         <title>Steven McRae</title>
     </programme>
-    <programme start="20241224232000 +0000" stop="20241225011000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Getafe vs Mallorca</title>
+    <programme start="20241227010000 +0000" stop="20241227013000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225011000 +0000" stop="20241225014000 +0000" channel="beIN Sports HD.starhub">
-        <title>Breakaway: Polo in England</title>
+    <programme start="20241227013000 +0000" stop="20241227020000 +0000" channel="BBC World News HD.starhub">
+        <title>Kyle Minogue</title>
     </programme>
-    <programme start="20241225014000 +0000" stop="20241225021000 +0000" channel="beIN Sports HD.starhub">
-        <title>December</title>
+    <programme start="20241227020000 +0000" stop="20241227023000 +0000" channel="BBC World News HD.starhub">
+        <title>Newsday</title>
     </programme>
-    <programme start="20241225021000 +0000" stop="20241225040000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Leganes vs Villarreal</title>
+    <programme start="20241227023000 +0000" stop="20241227030000 +0000" channel="BBC World News HD.starhub">
+        <title>The Biggest Stories</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="beIN Sports HD.starhub">
-        <title>MUTV 2024/25: Man United vs Bournemouth</title>
+    <programme start="20241227030000 +0000" stop="20241227033000 +0000" channel="BBC World News HD.starhub">
+        <title>Newsday</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="beIN Sports HD.starhub">
-        <title>MUTV: Match Day Review 2024/25 Man United vs Bournemouth</title>
+    <programme start="20241227033000 +0000" stop="20241227040000 +0000" channel="BBC World News HD.starhub">
+        <title>Jackie Joyner-Kersee</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="beIN Sports HD.starhub">
-        <title>MUTV Highlights 2024/25 Plzen vs Man United - UEL</title>
+    <programme start="20241227040000 +0000" stop="20241227043000 +0000" channel="BBC World News HD.starhub">
+        <title>Newsday</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225090000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Barcelona vs Atletico Madrid</title>
+    <programme start="20241227043000 +0000" stop="20241227050000 +0000" channel="BBC World News HD.starhub">
+        <title>The Firing Line</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga Talking Football 2024/25</title>
+    <programme start="20241227050000 +0000" stop="20241227053000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225103000 +0000" channel="beIN Sports HD.starhub">
-        <title>Arcadia, California</title>
+    <programme start="20241227053000 +0000" stop="20241227060000 +0000" channel="BBC World News HD.starhub">
+        <title>Iceland: A Women&#039;s Paradise?</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - Bundesliga 2024/25: Frankfurt vs Mainz</title>
+    <programme start="20241227060000 +0000" stop="20241227063000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - LaLiga 2024/25: Real Madrid vs Sevilla</title>
+    <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel="BBC World News HD.starhub">
+        <title>The Sweet Divide</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga World 2024/25</title>
+    <programme start="20241227070000 +0000" stop="20241227073000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFCTV 2024/25: Tottenham vs Liverpool</title>
+    <programme start="20241227073000 +0000" stop="20241227080000 +0000" channel="BBC World News HD.starhub">
+        <title>Jackie Joyner-Kersee</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFC Trending 2024/25</title>
+    <programme start="20241227080000 +0000" stop="20241227083000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFCTV Highlights 2024/25 Southampton vs Liverpool - Carabao Cup</title>
+    <programme start="20241227083000 +0000" stop="20241227090000 +0000" channel="BBC World News HD.starhub">
+        <title>Best Bits from 2024</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="beIN Sports HD.starhub">
-        <title>Matchday 21</title>
+    <programme start="20241227090000 +0000" stop="20241227093000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225200000 +0000" channel="beIN Sports HD.starhub">
-        <title>Malaysia Race 1</title>
+    <programme start="20241227093000 +0000" stop="20241227100000 +0000" channel="BBC World News HD.starhub">
+        <title>The Firing Line</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="beIN Sports HD.starhub">
-        <title>RIDE FEI Originals 2024</title>
+    <programme start="20241227100000 +0000" stop="20241227103000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - LaLiga 2024/25: Osasuna vs Athletic Bilbao</title>
+    <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="BBC World News HD.starhub">
+        <title>Steven McRae</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga World 2024/25</title>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20241225213000 +0000" stop="20241225232000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Celta Vigo vs Real Sociedad</title>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="BBC World News HD.starhub">
+        <title>Economics and Medicine</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227123000 +0000" stop="20241227130000 +0000" channel="BBC World News HD.starhub">
+        <title>Nadia Murad</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227133000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227133000 +0000" stop="20241227140000 +0000" channel="BBC World News HD.starhub">
+        <title>Thief at the British Museum</title>
+    </programme>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="BBC World News HD.starhub">
+        <title>It Takes a Village</title>
+    </programme>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="BBC World News HD.starhub">
+        <title>The Firing Line</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227170000 +0000" channel="BBC World News HD.starhub">
+        <title>Kyle Minogue</title>
+    </programme>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="BBC World News HD.starhub">
+        <title>Focus on Africa</title>
+    </programme>
+    <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="BBC World News HD.starhub">
+        <title>Nadia Murad</title>
+    </programme>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="BBC World News HD.starhub">
+        <title>F1 in 10 Years</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="BBC World News HD.starhub">
+        <title>Can Scientists Save the World?</title>
+    </programme>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="BBC World News HD.starhub">
+        <title>The Firing Line</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="BBC World News HD.starhub">
+        <title>Talking Business</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="BBC World News HD.starhub">
+        <title>Year in Review</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="BBC World News HD.starhub">
+        <title>Inside Sydney Opera House</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="BBC World News HD.starhub">
+        <title>Turkey&#039;s Fairytale Festival</title>
     </programme>
     <programme start="20241225232000 +0000" stop="20241226011000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Real Madrid vs Sevilla</title>
@@ -11400,98 +11334,71 @@
     <programme start="20241231140000 +0000" stop="20241231143000 +0000" channel="beIN Sports HD.starhub">
         <title>MUTV: Match Day Review 2024/25 Man United vs Newcastle</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225010000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>WCCB Gervonta Davis vs. Hector Luis Garcia</title>
+    <programme start="20241231143000 +0000" stop="20241231150000 +0000" channel="beIN Sports HD.starhub">
+        <title>MUTV Highlights 2024/25 Wolves vs Man United</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Budpaest 2023 - Episode 2</title>
+    <programme start="20241231150000 +0000" stop="20241231160000 +0000" channel="beIN Sports HD.starhub">
+        <title>Dubai, UAE</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Wide World of Fights Shane Mosley vs. Saul (Canelo) Alvarez</title>
+    <programme start="20241231160000 +0000" stop="20241231170000 +0000" channel="beIN Sports HD.starhub">
+        <title>Cape to Cape</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>KNOCKOUTS! Bernard Hopkins vs. Winky Wright</title>
+    <programme start="20241231170000 +0000" stop="20241231183000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: Hungary vs Turkiye</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tokyo, Japan: Show 4</title>
+    <programme start="20241231183000 +0000" stop="20241231200000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: Spain vs Portugal</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Episode 1</title>
+    <programme start="20241231200000 +0000" stop="20241231203000 +0000" channel="beIN Sports HD.starhub">
+        <title>PSG TV Specials 2024/25</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tuesday Night Fights Hector Camacho vs. Rusty Derouen</title>
+    <programme start="20241231203000 +0000" stop="20241231210000 +0000" channel="beIN Sports HD.starhub">
+        <title>This Is Paris 2024/25</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>FS MMA Bruno Capdeville vs. Ryan Brigham</title>
+    <programme start="20241231210000 +0000" stop="20241231230000 +0000" channel="beIN Sports HD.starhub">
+        <title>PSG TV 2024/25: Lens vs PSG - Coupe de France</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225070000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>WCCB Gervonta Davis vs. Hector Luis Garcia</title>
+    <programme start="20241231230000 +0000" stop="20250101063000 +0000" channel="beIN Sports HD.starhub">
+        <title>United Cup 2025: Day 6</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Budpaest 2023 - Episode 2</title>
+    <programme start="20250101063000 +0000" stop="20250101153000 +0000" channel="beIN Sports HD.starhub">
+        <title>United Cup 2025: Night 6</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Wide World of Fights Shane Mosley vs. Saul (Canelo) Alvarez</title>
+    <programme start="20250101153000 +0000" stop="20250101160000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga World 2024/25</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>KNOCKOUTS! Bernard Hopkins vs. Winky Wright</title>
+    <programme start="20250101160000 +0000" stop="20250101163000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga World 2024/25</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tokyo, Japan: Show 4</title>
+    <programme start="20250101163000 +0000" stop="20250101170000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga Power 2024/25</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Episode 1</title>
+    <programme start="20250101170000 +0000" stop="20250101183000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: France vs Poland</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tuesday Night Fights Hector Camacho vs. Rusty Derouen</title>
+    <programme start="20250101183000 +0000" stop="20250101200000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: Norway vs Slovenia</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>FS MMA Bruno Capdeville vs. Ryan Brigham</title>
+    <programme start="20250101200000 +0000" stop="20250101213000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: Romania vs Czechia</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>WCCB Firat Arslan vs. Yoan Pablo Hernandez</title>
+    <programme start="20250101213000 +0000" stop="20250101230000 +0000" channel="beIN Sports HD.starhub">
+        <title>Women&#039;s EHF Euro 2024: Switzerland vs Faroe Islands</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Greatest Classics Derrell Coley vs. Kip Diggs / Fernando Vargas vs. Jose Morales</title>
+    <programme start="20250101230000 +0000" stop="20250102010000 +0000" channel="beIN Sports HD.starhub">
+        <title>PSG TV 2024/25: Lens vs PSG - Coupe de France</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>KNOCKOUTS! Ricky Hatton vs. Paul Malignaggi</title>
+    <programme start="20250102010000 +0000" stop="20250102013000 +0000" channel="beIN Sports HD.starhub">
+        <title>This Is Paris 2024/25</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tokyo, Japan: Show 5</title>
+    <programme start="20250102013000 +0000" stop="20250102020000 +0000" channel="beIN Sports HD.starhub">
+        <title>Special Edition II</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Episode 2</title>
+    <programme start="20250102020000 +0000" stop="20250102023000 +0000" channel="beIN Sports HD.starhub">
+        <title>Horses for the Holiday Season</title>
     </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tuesday Night Fights Hector Camacho vs. Todd Foster</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>FIGHT SPORTS MMA Andrew Van Zyl vs. Champion Dalcha</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>WCCB Firat Arslan vs. Yoan Pablo Hernandez</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225200000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Greatest Classics Derrell Coley vs. Kip Diggs / Fernando Vargas vs. Jose Morales</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>KNOCKOUTS! Ricky Hatton vs. Paul Malignaggi</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tokyo, Japan: Show 5</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Episode 2</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Tuesday Night Fights Hector Camacho vs. Todd Foster</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>FIGHT SPORTS MMA Andrew Van Zyl vs. Champion Dalcha</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>WCCB Firat Arslan vs. Yoan Pablo Hernandez</title>
+    <programme start="20250102023000 +0000" stop="20250102030000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga World 2024/25</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226020000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Greatest Classics Derrell Coley vs. Kip Diggs / Fernando Vargas vs. Jose Morales</title>
@@ -11700,44 +11607,98 @@
     <programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FIGHT SPORTS MMA Nkazimulo Zulu vs. Jake Hadley</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225014500 +0000" channel="CCM.starhub">
-        <title>Inside The Forbidden City</title>
+    <programme start="20241228110000 +0000" stop="20241228130000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>MEGA Fights Shane Mosley vs. Luis Collazo</title>
     </programme>
-    <programme start="20241225014500 +0000" stop="20241225033500 +0000" channel="CCM.starhub">
-        <title>Invincible Shaolin</title>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Zagreb Grand Prix</title>
     </programme>
-    <programme start="20241225033500 +0000" stop="20241225053000 +0000" channel="CCM.starhub">
-        <title>Moonlight Serenade</title>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Budapest 2023 - Episode 3</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225072500 +0000" channel="CCM.starhub">
-        <title>The Sword of Swords</title>
+    <programme start="20241228140000 +0000" stop="20241228143000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>KNOCKOUTS! Chris Arreola vs. Tomasz Adamek</title>
     </programme>
-    <programme start="20241225072500 +0000" stop="20241225092500 +0000" channel="CCM.starhub">
-        <title>Till the End of Time</title>
+    <programme start="20241228143000 +0000" stop="20241228150000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Kyushu, Japan: Show 3</title>
     </programme>
-    <programme start="20241225092500 +0000" stop="20241225111000 +0000" channel="CCM.starhub">
-        <title>The Crimson Charm</title>
+    <programme start="20241228150000 +0000" stop="20241228160000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FIGHT SPORTS WCK Endy Semeleer vs Redouan Laarkoubi</title>
     </programme>
-    <programme start="20241225111000 +0000" stop="20241225130000 +0000" channel="CCM.starhub">
-        <title>Mist Over Dream Lake</title>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FS MMA Fernando Rodrigues Jr. vs. Karol Bedorf</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225144000 +0000" channel="CCM.starhub">
-        <title>Martial Arts of Shaolin</title>
+    <programme start="20241228170000 +0000" stop="20241228190000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>MEGA Fights Shane Mosley vs. Luis Collazo</title>
     </programme>
-    <programme start="20241225144000 +0000" stop="20241225162500 +0000" channel="CCM.starhub">
-        <title>The Kingdom and the Beauty</title>
+    <programme start="20241228190000 +0000" stop="20241228193000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Zagreb Grand Prix</title>
     </programme>
-    <programme start="20241225162500 +0000" stop="20241225175500 +0000" channel="CCM.starhub">
-        <title>Intimate Confessions of a Chinese Courtesan</title>
+    <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Budapest 2023 - Episode 3</title>
     </programme>
-    <programme start="20241225175500 +0000" stop="20241225193500 +0000" channel="CCM.starhub">
-        <title>The 5 Billion Dollar Legacy</title>
+    <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>KNOCKOUTS! Chris Arreola vs. Tomasz Adamek</title>
     </programme>
-    <programme start="20241225193500 +0000" stop="20241225213500 +0000" channel="CCM.starhub">
-        <title>Empress Wu</title>
+    <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Kyushu, Japan: Show 3</title>
     </programme>
-    <programme start="20241225213500 +0000" stop="20241225232000 +0000" channel="CCM.starhub">
-        <title>Magnificent Wanderers</title>
+    <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FIGHT SPORTS WCK Endy Semeleer vs Redouan Laarkoubi</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FS MMA Fernando Rodrigues Jr. vs. Karol Bedorf</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241229010000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>MEGA Fights Shane Mosley vs. Luis Collazo</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Zagreb Grand Prix</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Budapest 2023 - Episode 3</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>KNOCKOUTS! Chris Arreola vs. Tomasz Adamek</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Kyushu, Japan: Show 3</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FIGHT SPORTS WCK Endy Semeleer vs Redouan Laarkoubi</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FS MMA Fernando Rodrigues Jr. vs. Karol Bedorf</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229070000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>MEGA Fights Shane Mosley vs. Luis Collazo</title>
+    </programme>
+    <programme start="20241229070000 +0000" stop="20241229073000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Zagreb Grand Prix</title>
+    </programme>
+    <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Budapest 2023 - Episode 3</title>
+    </programme>
+    <programme start="20241229080000 +0000" stop="20241229083000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>KNOCKOUTS! Chris Arreola vs. Tomasz Adamek</title>
+    </programme>
+    <programme start="20241229083000 +0000" stop="20241229090000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Kyushu, Japan: Show 3</title>
+    </programme>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FIGHT SPORTS WCK Endy Semeleer vs Redouan Laarkoubi</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FS MMA Fernando Rodrigues Jr. vs. Karol Bedorf</title>
+    </programme>
+    <programme start="20241229110000 +0000" stop="20241229130000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>MEGA Fights Carlos Manuel Baldomir vs. Arturo Gatti</title>
+    </programme>
+    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>FIGHT SPORTS WCK Luis Tavares vs Fatih Ulusoy</title>
+    </programme>
+    <programme start="20241229140000 +0000" stop="20241229143000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>KNOCKOUTS! Andre Berto vs. David Estrada</title>
     </programme>
     <programme start="20241225232000 +0000" stop="20241226010000 +0000" channel="CCM.starhub">
         <title>The Killer</title>
@@ -11999,6 +11960,45 @@
     </programme>
     <programme start="20250101035000 +0000" stop="20250101054500 +0000" channel="CCM.starhub">
         <title>Golden Swallow</title>
+    </programme>
+    <programme start="20250101054500 +0000" stop="20250101073000 +0000" channel="CCM.starhub">
+        <title>The Kingdom and the Beauty</title>
+    </programme>
+    <programme start="20250101073000 +0000" stop="20250101093000 +0000" channel="CCM.starhub">
+        <title>West Chamber</title>
+    </programme>
+    <programme start="20250101093000 +0000" stop="20250101111000 +0000" channel="CCM.starhub">
+        <title>A Deadly Secret</title>
+    </programme>
+    <programme start="20250101111000 +0000" stop="20250101130000 +0000" channel="CCM.starhub">
+        <title>The Emperor and his Brother</title>
+    </programme>
+    <programme start="20250101130000 +0000" stop="20250101143000 +0000" channel="CCM.starhub">
+        <title>Heads For Sale</title>
+    </programme>
+    <programme start="20250101143000 +0000" stop="20250101162000 +0000" channel="CCM.starhub">
+        <title>The Daredevils</title>
+    </programme>
+    <programme start="20250101162000 +0000" stop="20250101175500 +0000" channel="CCM.starhub">
+        <title>Black Magic 2</title>
+    </programme>
+    <programme start="20250101175500 +0000" stop="20250101193000 +0000" channel="CCM.starhub">
+        <title>Ode to Gallantry</title>
+    </programme>
+    <programme start="20250101193000 +0000" stop="20250101210500 +0000" channel="CCM.starhub">
+        <title>The Happiest Moment</title>
+    </programme>
+    <programme start="20250101210500 +0000" stop="20250101225500 +0000" channel="CCM.starhub">
+        <title>The Lizard</title>
+    </programme>
+    <programme start="20250101225500 +0000" stop="20250102003000 +0000" channel="CCM.starhub">
+        <title>A Friend from Inner Space</title>
+    </programme>
+    <programme start="20250102003000 +0000" stop="20250102022000 +0000" channel="CCM.starhub">
+        <title>Shaolin Rescuers</title>
+    </programme>
+    <programme start="20250102022000 +0000" stop="20250102040000 +0000" channel="CCM.starhub">
+        <title>The Savage Five</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225013500 +0000" channel="HBO HD.starhub">
         <title>Smallfoot</title>
@@ -12300,78 +12300,6 @@
     <programme start="20250101202500 +0000" stop="20250101215500 +0000" channel="HBO HD.starhub">
         <title>There&#039;s Something Wrong With The Children</title>
     </programme>
-    <programme start="20241224223000 +0000" stop="20241225003000 +0000" channel="ADITHYA TV.starhub">
-        <title>Sirigama Pathani</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="ADITHYA TV.starhub">
-        <title>Konjam Coffee Neraiya Comedy</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="ADITHYA TV.starhub">
-        <title>Yogam Rajayogam</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="ADITHYA TV.starhub">
-        <title>Aanantha Sirippu</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="ADITHYA TV.starhub">
-        <title>Good Morning Adithyans</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="ADITHYA TV.starhub">
-        <title>Adithya Paarunga Aananthama Irunga</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225043000 +0000" channel="ADITHYA TV.starhub">
-        <title>Anbudan Adithya</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="ADITHYA TV.starhub">
-        <title>Comedy Marathon</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="ADITHYA TV.starhub">
-        <title>Master Piece</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225063000 +0000" channel="ADITHYA TV.starhub">
-        <title>Combo Comedy Special</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225073000 +0000" channel="ADITHYA TV.starhub">
-        <title>Orupada Comedy</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225083000 +0000" channel="ADITHYA TV.starhub">
-        <title>Goundamani Senthil Spl</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225093000 +0000" channel="ADITHYA TV.starhub">
-        <title>Santhanam Special</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225103000 +0000" channel="ADITHYA TV.starhub">
-        <title>Vadivelu Special</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225113000 +0000" channel="ADITHYA TV.starhub">
-        <title>Adithya Paarunga Sirichute Irunga</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225123000 +0000" channel="ADITHYA TV.starhub">
-        <title>Adithya Paarunga Aarokyama Irunga</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="ADITHYA TV.starhub">
-        <title>Vaanga Sirikkalam</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225143000 +0000" channel="ADITHYA TV.starhub">
-        <title>Natchathira Comedy</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225153000 +0000" channel="ADITHYA TV.starhub">
-        <title>Orupada Comedy</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225163000 +0000" channel="ADITHYA TV.starhub">
-        <title>Vedi Sirippu</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225173000 +0000" channel="ADITHYA TV.starhub">
-        <title>Vaivittu Siringa</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="ADITHYA TV.starhub">
-        <title>Comedy Galatta</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225203000 +0000" channel="ADITHYA TV.starhub">
-        <title>Sirika Sirika Sirippu</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225223000 +0000" channel="ADITHYA TV.starhub">
-        <title>Adrasakka</title>
-    </programme>
     <programme start="20241225223000 +0000" stop="20241226003000 +0000" channel="ADITHYA TV.starhub">
         <title>Sirigama Pathani</title>
     </programme>
@@ -12599,6 +12527,78 @@
     </programme>
     <programme start="20241229003000 +0000" stop="20241229013000 +0000" channel="ADITHYA TV.starhub">
         <title>Konjam Coffee Neraiya Comedy</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="ADITHYA TV.starhub">
+        <title>Yogam Rajayogam</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="ADITHYA TV.starhub">
+        <title>Aanantha Sirippu</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="ADITHYA TV.starhub">
+        <title>Good Morning Adithyans</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229033000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adithya Paarunga Aananthama Irunga</title>
+    </programme>
+    <programme start="20241229033000 +0000" stop="20241229043000 +0000" channel="ADITHYA TV.starhub">
+        <title>Anbudan Adithya</title>
+    </programme>
+    <programme start="20241229043000 +0000" stop="20241229050000 +0000" channel="ADITHYA TV.starhub">
+        <title>Laughing Theraphy</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229053000 +0000" channel="ADITHYA TV.starhub">
+        <title>Master Piece</title>
+    </programme>
+    <programme start="20241229053000 +0000" stop="20241229060000 +0000" channel="ADITHYA TV.starhub">
+        <title>Colourful Comedy</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229063000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vaanga Pazhagalam</title>
+    </programme>
+    <programme start="20241229063000 +0000" stop="20241229073000 +0000" channel="ADITHYA TV.starhub">
+        <title>Orupada Comedy</title>
+    </programme>
+    <programme start="20241229073000 +0000" stop="20241229083000 +0000" channel="ADITHYA TV.starhub">
+        <title>Comedyku Nanga Guarantee</title>
+    </programme>
+    <programme start="20241229083000 +0000" stop="20241229093000 +0000" channel="ADITHYA TV.starhub">
+        <title>Santhanam Special</title>
+    </programme>
+    <programme start="20241229093000 +0000" stop="20241229103000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vadivelu Special</title>
+    </programme>
+    <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adithya Paarunga Sirichute Irunga</title>
+    </programme>
+    <programme start="20241229113000 +0000" stop="20241229123000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adithya Paarunga Aarokyama Irunga</title>
+    </programme>
+    <programme start="20241229123000 +0000" stop="20241229133000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vaanga Sirikkalam</title>
+    </programme>
+    <programme start="20241229133000 +0000" stop="20241229143000 +0000" channel="ADITHYA TV.starhub">
+        <title>Natchathira Comedy</title>
+    </programme>
+    <programme start="20241229143000 +0000" stop="20241229153000 +0000" channel="ADITHYA TV.starhub">
+        <title>Orupada Comedy</title>
+    </programme>
+    <programme start="20241229153000 +0000" stop="20241229163000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vedi Sirippu</title>
+    </programme>
+    <programme start="20241229163000 +0000" stop="20241229173000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vaivittu Siringa</title>
+    </programme>
+    <programme start="20241229173000 +0000" stop="20241229183000 +0000" channel="ADITHYA TV.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20241229183000 +0000" stop="20241229203000 +0000" channel="ADITHYA TV.starhub">
+        <title>Sirika Sirika Sirippu</title>
+    </programme>
+    <programme start="20241229203000 +0000" stop="20241229223000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adrasakka</title>
+    </programme>
+    <programme start="20241229223000 +0000" stop="20241230003000 +0000" channel="ADITHYA TV.starhub">
+        <title>Sirigama Pathani</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Kabayan LIVE</title>
@@ -12900,48 +12900,6 @@
     <programme start="20241228111500 +0000" stop="20241228123000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Rainbow Rumble (Sat)</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 1 Fils v Fonseca</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2024: Men&#039;s Singles Rd 4 Sinner v Khachanov</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Forza Jannik</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2024: Men&#039;s Singles Rd 4 De Minaur v Rublev</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2024: Men&#039;s Singles Rd 4 Zverev v Norrie</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Nitto ATP Finals 2024: Turin Day 1 Singles Medvedev v Fritz</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Nitto ATP Finals 2024: Turin Day 1 Singles Sinner v De Minaur</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Nitto ATP Finals 2024: Turin Day 2 Singles Alcaraz v Ruud</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Season in Review 2024</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Stockholm QF 4 Dimitrov v Stricker</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225190000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Stockholm SF 1 Wawrinka v Paul</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Stockholm SF 2 Dimitrov v Griekspoor</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Stockholm Final Dimitrov v Paul</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Next Gen ATP Finals 2024: Jeddah Day 2 Shang v Basavareddy</title>
-    </programme>
     <programme start="20241225233000 +0000" stop="20241226010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Next Gen ATP Finals 2024: Jeddah Day 2 Michelsen v Van Assche</title>
     </programme>
@@ -13200,137 +13158,47 @@
     <programme start="20241230183000 +0000" stop="20241230195000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Almaty SF 1 Cerundolo v Diallo</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
+    <programme start="20241230195000 +0000" stop="20241230200000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): Monte Carlo Moments 2011-2012</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
+    <programme start="20241230200000 +0000" stop="20241230201500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): Champions of Monte Carlo 2012-2014</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="CGTN.starhub">
-        <title>China 24</title>
+    <programme start="20241230201500 +0000" stop="20241230203000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): Miami Moments 2013-2016</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
+    <programme start="20241230203000 +0000" stop="20241230220000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2024: Almaty SF 2 Khachanov v Vukic</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="CGTN.starhub">
-        <title>World Insight with Tian Wei</title>
+    <programme start="20241230220000 +0000" stop="20241230233000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Hong Kong Day 1 Match 3</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225031500 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
+    <programme start="20241230233000 +0000" stop="20241231010000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 2 Match 1</title>
     </programme>
-    <programme start="20241225031500 +0000" stop="20241225033000 +0000" channel="CGTN.starhub">
-        <title>Sports Scene</title>
+    <programme start="20241231010000 +0000" stop="20241231030000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 3 Match 1</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="CGTN.starhub">
-        <title>The Point with Liu Xin</title>
+    <programme start="20241231030000 +0000" stop="20241231043000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 3 Match 2</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="CGTN.starhub">
-        <title>Global Watch</title>
+    <programme start="20241231043000 +0000" stop="20241231063000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 3 Match 3</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225051500 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
+    <programme start="20241231063000 +0000" stop="20241231083000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 3 Match 4</title>
     </programme>
-    <programme start="20241225051500 +0000" stop="20241225053000 +0000" channel="CGTN.starhub">
-        <title>Sports Scene</title>
+    <programme start="20241231083000 +0000" stop="20241231090000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 1000 Highlights 2024: Shanghai SFs and Final</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="CGTN.starhub">
-        <title>Rediscovering China</title>
+    <programme start="20241231090000 +0000" stop="20241231110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Hong Kong Day 2 Match 3</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
+    <programme start="20241231110000 +0000" stop="20241231113000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): Nadal Number 1 Story</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="CGTN.starhub">
-        <title>The Heat</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="CGTN.starhub">
-        <title>Sports Scene</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225081500 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225081500 +0000" stop="20241225090000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="CGTN.starhub">
-        <title>The Vibe</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225101500 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225101500 +0000" stop="20241225110000 +0000" channel="CGTN.starhub">
-        <title>Africa Live</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="CGTN.starhub">
-        <title>Asia Today</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="CGTN.starhub">
-        <title>Dialogue</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225121500 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225121500 +0000" stop="20241225130000 +0000" channel="CGTN.starhub">
-        <title>China 24</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="CGTN.starhub">
-        <title>The Point with Liu Xin</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="CGTN.starhub">
-        <title>World Insight with Tian Wei</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="CGTN.starhub">
-        <title>The Vibe</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="CGTN.starhub">
-        <title>Africa Live</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="CGTN.starhub">
-        <title>World Insight with Tian Wei</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="CGTN.starhub">
-        <title>Dialogue</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="CGTN.starhub">
-        <title>Global Business</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="CGTN.starhub">
-        <title>The Point with Liu Xin</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="CGTN.starhub">
-        <title>Rediscovering China</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="CGTN.starhub">
-        <title>The Heat</title>
+    <programme start="20241231113000 +0000" stop="20241231130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Brisbane Day 3 Match 1</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
@@ -13500,98 +13368,137 @@
     <programme start="20241227051500 +0000" stop="20241227053000 +0000" channel="CGTN.starhub">
         <title>Sports Scene</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tracy: A Force of Nature</title>
+    <programme start="20241227053000 +0000" stop="20241227060000 +0000" channel="CGTN.starhub">
+        <title>Assignment Asia</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News At Noon (2024)</title>
+    <programme start="20241227060000 +0000" stop="20241227063000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="ABC Australia HD.starhub">
-        <title>When Kylie Met Sami - Kylie Moore-Gilbert and Sami Shah</title>
+    <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel="CGTN.starhub">
+        <title>The Heat</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="ABC Australia HD.starhub">
-        <title>Everyday Eats</title>
+    <programme start="20241227070000 +0000" stop="20241227073000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="ABC Australia HD.starhub">
-        <title>Danielle</title>
+    <programme start="20241227073000 +0000" stop="20241227080000 +0000" channel="CGTN.starhub">
+        <title>Sports Scene</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="ABC Australia HD.starhub">
-        <title>A Lobethal Kind Of Christmas</title>
+    <programme start="20241227080000 +0000" stop="20241227081500 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="ABC Australia HD.starhub">
-        <title>WAH-WAH, Youkhana, Ajak Kwai</title>
+    <programme start="20241227081500 +0000" stop="20241227090000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="ABC Australia HD.starhub">
-        <title>That Christmas</title>
+    <programme start="20241227090000 +0000" stop="20241227093000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tracy: A Force of Nature</title>
+    <programme start="20241227093000 +0000" stop="20241227100000 +0000" channel="CGTN.starhub">
+        <title>The Vibe</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News On Christmas Day (2024)</title>
+    <programme start="20241227100000 +0000" stop="20241227101500 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225064500 +0000" channel="ABC Australia HD.starhub">
-        <title>Moree, NSW</title>
+    <programme start="20241227101500 +0000" stop="20241227110000 +0000" channel="CGTN.starhub">
+        <title>Africa Live</title>
     </programme>
-    <programme start="20241225064500 +0000" stop="20241225070000 +0000" channel="ABC Australia HD.starhub">
-        <title>Malua Bay, NSW</title>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="CGTN.starhub">
+        <title>Asia Today</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="ABC Australia HD.starhub">
-        <title>Everyday Eats</title>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="CGTN.starhub">
+        <title>Dialogue</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="ABC Australia HD.starhub">
-        <title>Danielle</title>
+    <programme start="20241227120000 +0000" stop="20241227121500 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC National News (2024)</title>
+    <programme start="20241227121500 +0000" stop="20241227130000 +0000" channel="CGTN.starhub">
+        <title>China 24</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225100000 +0000" channel="ABC Australia HD.starhub">
-        <title>A (Very) Musical Christmas</title>
+    <programme start="20241227130000 +0000" stop="20241227133000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
+    <programme start="20241227133000 +0000" stop="20241227140000 +0000" channel="CGTN.starhub">
+        <title>The Point with Liu Xin</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="ABC Australia HD.starhub">
-        <title>That Christmas</title>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tracy: A Force of Nature</title>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="CGTN.starhub">
+        <title>World Insight with Tian Wei</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="ABC Australia HD.starhub">
-        <title>Danielle</title>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="ABC Australia HD.starhub">
-        <title>Everyday Eats</title>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="CGTN.starhub">
+        <title>The Vibe</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225141500 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC Late News (2024)</title>
+    <programme start="20241227160000 +0000" stop="20241227170000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
     </programme>
-    <programme start="20241225141500 +0000" stop="20241225143000 +0000" channel="ABC Australia HD.starhub">
-        <title>Camel Queen</title>
+    <programme start="20241227170000 +0000" stop="20241227180000 +0000" channel="CGTN.starhub">
+        <title>Africa Live</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225152500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
+    <programme start="20241227180000 +0000" stop="20241227190000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
     </programme>
-    <programme start="20241225152500 +0000" stop="20241225155500 +0000" channel="ABC Australia HD.starhub">
-        <title>When Kylie Met Sami - Kylie Moore-Gilbert and Sami Shah</title>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225155500 +0000" stop="20241225165500 +0000" channel="ABC Australia HD.starhub">
-        <title>That Christmas</title>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="CGTN.starhub">
+        <title>World Insight with Tian Wei</title>
     </programme>
-    <programme start="20241225165500 +0000" stop="20241225173000 +0000" channel="ABC Australia HD.starhub">
-        <title>The Numbers Game</title>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="ABC Australia HD.starhub">
-        <title>Marrawah, TAS</title>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="CGTN.starhub">
+        <title>Dialogue</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tracy: A Force of Nature</title>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225223000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tsunami: Stories of Survival</title>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="CGTN.starhub">
+        <title>The Point with Liu Xin</title>
     </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="ABC Australia HD.starhub">
-        <title>Mapuche Rising - Chile</title>
+    <programme start="20241227220000 +0000" stop="20241227230000 +0000" channel="CGTN.starhub">
+        <title>Americas Now</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="CGTN.starhub">
+        <title>The Heat</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="CGTN.starhub">
+        <title>Global Business</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="CGTN.starhub">
+        <title>China 24</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
+    </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="CGTN.starhub">
+        <title>World Insight with Tian Wei</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228031500 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
+    </programme>
+    <programme start="20241228031500 +0000" stop="20241228033000 +0000" channel="CGTN.starhub">
+        <title>Sports Scene</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="CGTN.starhub">
+        <title>Travelogue</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="CGTN.starhub">
+        <title>Global Watch</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="CGTN.starhub">
+        <title>Big Story</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="CGTN.starhub">
+        <title>The World Today</title>
     </programme>
     <programme start="20241225230000 +0000" stop="20241226010000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News Mornings (2024)</title>
@@ -13799,6 +13706,99 @@
     </programme>
     <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC National News (2024)</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="ABC Australia HD.starhub">
+        <title>Tonga</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="ABC Australia HD.starhub">
+        <title>Better Date Than Never S2</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228103000 +0000" channel="ABC Australia HD.starhub">
+        <title>Adam Liaw</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228113000 +0000" channel="ABC Australia HD.starhub">
+        <title>Muster Dogs S2</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228123000 +0000" channel="ABC Australia HD.starhub">
+        <title>Rainforests</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228133000 +0000" channel="ABC Australia HD.starhub">
+        <title>Play</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="ABC Australia HD.starhub">
+        <title>Pasifika Women In Sport Special</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="ABC Australia HD.starhub">
+        <title>City Of Protest</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="ABC Australia HD.starhub">
+        <title>Better Date Than Never S2</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228162500 +0000" channel="ABC Australia HD.starhub">
+        <title>Adam Liaw</title>
+    </programme>
+    <programme start="20241228162500 +0000" stop="20241228172500 +0000" channel="ABC Australia HD.starhub">
+        <title>Rainforests</title>
+    </programme>
+    <programme start="20241228172500 +0000" stop="20241228183000 +0000" channel="ABC Australia HD.starhub">
+        <title>Nick Bryant - Former BBC Foreign Correspondent</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228190000 +0000" channel="ABC Australia HD.starhub">
+        <title>Tonga</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="ABC Australia HD.starhub">
+        <title>Australia In Colour S2</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228233000 +0000" channel="ABC Australia HD.starhub">
+        <title>Weekend Breakfast (2024)</title>
+    </programme>
+    <programme start="20241228233000 +0000" stop="20241229000000 +0000" channel="ABC Australia HD.starhub">
+        <title>Danielle</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News (2024)</title>
+    </programme>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="ABC Australia HD.starhub">
+        <title>When Kylie Met Sami - Kylie Moore-Gilbert and Sami Shah</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News At Noon (2024)</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="ABC Australia HD.starhub">
+        <title>Uralla, NSW</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229022000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Chef&#039;s Garden S1</title>
+    </programme>
+    <programme start="20241229022000 +0000" stop="20241229023500 +0000" channel="ABC Australia HD.starhub">
+        <title>Lebanese</title>
+    </programme>
+    <programme start="20241229023500 +0000" stop="20241229030500 +0000" channel="ABC Australia HD.starhub">
+        <title>Aussie Bull Catchers S1</title>
+    </programme>
+    <programme start="20241229030500 +0000" stop="20241229040000 +0000" channel="ABC Australia HD.starhub">
+        <title>Australia In Colour S2</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Dark Side Of The Universe</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229053000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News (2024)</title>
+    </programme>
+    <programme start="20241229053000 +0000" stop="20241229060000 +0000" channel="ABC Australia HD.starhub">
+        <title>Aunty Fay Clayton Moseley</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229063000 +0000" channel="ABC Australia HD.starhub">
+        <title>Landline (2024)</title>
+    </programme>
+    <programme start="20241229063000 +0000" stop="20241229070000 +0000" channel="ABC Australia HD.starhub">
+        <title>Nick Cave &amp; Warren Ellis At Hanging Rock</title>
+    </programme>
+    <programme start="20241229070000 +0000" stop="20241229073000 +0000" channel="ABC Australia HD.starhub">
+        <title>Uralla, NSW</title>
+    </programme>
+    <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="ABC Australia HD.starhub">
+        <title>Changing Tides</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225014900 +0000" channel="SONY MAX.starhub">
         <title>Dial 100</title>
@@ -14100,126 +14100,6 @@
     <programme start="20250101221600 +0000" stop="20250102000000 +0000" channel="SONY MAX.starhub">
         <title>Mere Dad Ki Maruti</title>
     </programme>
-    <programme start="20241224234000 +0000" stop="20241225000500 +0000" channel="HGTV.starhub">
-        <title>Married Life in the Netherlands</title>
-    </programme>
-    <programme start="20241225000500 +0000" stop="20241225003000 +0000" channel="HGTV.starhub">
-        <title>A Festive Home For Five</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225005500 +0000" channel="HGTV.starhub">
-        <title>Punta De Mita Retirement</title>
-    </programme>
-    <programme start="20241225005500 +0000" stop="20241225012000 +0000" channel="HGTV.starhub">
-        <title>High Expectations in Virginia</title>
-    </programme>
-    <programme start="20241225012000 +0000" stop="20241225021000 +0000" channel="HGTV.starhub">
-        <title>Sterling K. Brown&#039;s Family Affair</title>
-    </programme>
-    <programme start="20241225021000 +0000" stop="20241225030000 +0000" channel="HGTV.starhub">
-        <title>Wall-To-Wall Fabulous</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225035000 +0000" channel="HGTV.starhub">
-        <title>All In The Family</title>
-    </programme>
-    <programme start="20241225035000 +0000" stop="20241225044000 +0000" channel="HGTV.starhub">
-        <title>Recipe For Renovation</title>
-    </programme>
-    <programme start="20241225044000 +0000" stop="20241225053000 +0000" channel="HGTV.starhub">
-        <title>Do It For The Kids</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225055500 +0000" channel="HGTV.starhub">
-        <title>Married Life in the Netherlands</title>
-    </programme>
-    <programme start="20241225055500 +0000" stop="20241225062000 +0000" channel="HGTV.starhub">
-        <title>A Festive Home For Five</title>
-    </programme>
-    <programme start="20241225062000 +0000" stop="20241225064500 +0000" channel="HGTV.starhub">
-        <title>A Lifestyle Shift In Melbourne</title>
-    </programme>
-    <programme start="20241225064500 +0000" stop="20241225071000 +0000" channel="HGTV.starhub">
-        <title>Vacation Condo Search</title>
-    </programme>
-    <programme start="20241225071000 +0000" stop="20241225073500 +0000" channel="HGTV.starhub">
-        <title>A Home On The Cape Revisited</title>
-    </programme>
-    <programme start="20241225073500 +0000" stop="20241225080000 +0000" channel="HGTV.starhub">
-        <title>Firsttimer Wants Craftsman In Cincinnati</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225085000 +0000" channel="HGTV.starhub">
-        <title>All In The Family</title>
-    </programme>
-    <programme start="20241225085000 +0000" stop="20241225094000 +0000" channel="HGTV.starhub">
-        <title>Recipe For Renovation</title>
-    </programme>
-    <programme start="20241225094000 +0000" stop="20241225103000 +0000" channel="HGTV.starhub">
-        <title>Sterling K. Brown&#039;s Family Affair</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225113000 +0000" channel="HGTV.starhub">
-        <title>Home Town Holiday 2022</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225115500 +0000" channel="HGTV.starhub">
-        <title>Bangkok</title>
-    </programme>
-    <programme start="20241225115500 +0000" stop="20241225122000 +0000" channel="HGTV.starhub">
-        <title>First Christmas At Home</title>
-    </programme>
-    <programme start="20241225122000 +0000" stop="20241225131000 +0000" channel="HGTV.starhub">
-        <title>Davids Favorite Exotic Escapes</title>
-    </programme>
-    <programme start="20241225131000 +0000" stop="20241225133500 +0000" channel="HGTV.starhub">
-        <title>Well Be Home In Zurich For Christmas</title>
-    </programme>
-    <programme start="20241225133500 +0000" stop="20241225140000 +0000" channel="HGTV.starhub">
-        <title>Saint-Emilion for the Holidays</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225145000 +0000" channel="HGTV.starhub">
-        <title>Patricia Arquette</title>
-    </programme>
-    <programme start="20241225145000 +0000" stop="20241225151500 +0000" channel="HGTV.starhub">
-        <title>Bangkok</title>
-    </programme>
-    <programme start="20241225151500 +0000" stop="20241225154000 +0000" channel="HGTV.starhub">
-        <title>First Christmas At Home</title>
-    </programme>
-    <programme start="20241225154000 +0000" stop="20241225160500 +0000" channel="HGTV.starhub">
-        <title>Millionaire Mama</title>
-    </programme>
-    <programme start="20241225160500 +0000" stop="20241225163000 +0000" channel="HGTV.starhub">
-        <title>Going For Gold In Nagoya</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225165500 +0000" channel="HGTV.starhub">
-        <title>Well Be Home In Zurich For Christmas</title>
-    </programme>
-    <programme start="20241225165500 +0000" stop="20241225172000 +0000" channel="HGTV.starhub">
-        <title>Saint-Emilion for the Holidays</title>
-    </programme>
-    <programme start="20241225172000 +0000" stop="20241225181000 +0000" channel="HGTV.starhub">
-        <title>Patricia Arquette</title>
-    </programme>
-    <programme start="20241225181000 +0000" stop="20241225190000 +0000" channel="HGTV.starhub">
-        <title>Davids Favorite Exotic Escapes</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225195000 +0000" channel="HGTV.starhub">
-        <title>Makeover For Mama</title>
-    </programme>
-    <programme start="20241225195000 +0000" stop="20241225204000 +0000" channel="HGTV.starhub">
-        <title>Wall-To-Wall Fabulous</title>
-    </programme>
-    <programme start="20241225204000 +0000" stop="20241225213000 +0000" channel="HGTV.starhub">
-        <title>Home Town Holiday 2022</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="HGTV.starhub">
-        <title>First Christmas At Home</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225225000 +0000" channel="HGTV.starhub">
-        <title>The Showcase Showdown</title>
-    </programme>
-    <programme start="20241225225000 +0000" stop="20241225231500 +0000" channel="HGTV.starhub">
-        <title>Millionaire Mama</title>
-    </programme>
-    <programme start="20241225231500 +0000" stop="20241225234000 +0000" channel="HGTV.starhub">
-        <title>Going For Gold In Nagoya</title>
-    </programme>
     <programme start="20241225234000 +0000" stop="20241226000500 +0000" channel="HGTV.starhub">
         <title>Bangkok</title>
     </programme>
@@ -14400,104 +14280,125 @@
     <programme start="20241227115500 +0000" stop="20241227122000 +0000" channel="HGTV.starhub">
         <title>A Home For Holiday Memories</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225001500 +0000" channel="Cartoon Network.starhub">
-        <title>Marv Attacks/A Wolf In Cheap Clothing</title>
+    <programme start="20241227122000 +0000" stop="20241227131000 +0000" channel="HGTV.starhub">
+        <title>Desert of Dreams</title>
     </programme>
-    <programme start="20241225001500 +0000" stop="20241225003000 +0000" channel="Cartoon Network.starhub">
-        <title>Lemmings Plant/Fast Workout</title>
+    <programme start="20241227131000 +0000" stop="20241227140000 +0000" channel="HGTV.starhub">
+        <title>Starbed Tower</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225004500 +0000" channel="Cartoon Network.starhub">
-        <title>Jamput/The Tribe</title>
+    <programme start="20241227140000 +0000" stop="20241227151500 +0000" channel="HGTV.starhub">
+        <title>Home Away From Home</title>
     </programme>
-    <programme start="20241225004500 +0000" stop="20241225010000 +0000" channel="Cartoon Network.starhub">
-        <title>Holed Up</title>
+    <programme start="20241227151500 +0000" stop="20241227154000 +0000" channel="HGTV.starhub">
+        <title>From Texas To Perth With Kids</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013500 +0000" channel="Cartoon Network.starhub">
-        <title>Halloween V Christmas/Second Christmas/Teen Titans Save Christmas</title>
+    <programme start="20241227154000 +0000" stop="20241227160500 +0000" channel="HGTV.starhub">
+        <title>A Home For Holiday Memories</title>
     </programme>
-    <programme start="20241225013500 +0000" stop="20241225020000 +0000" channel="Cartoon Network.starhub">
-        <title>The Goblin &amp; The Monster</title>
+    <programme start="20241227160500 +0000" stop="20241227165500 +0000" channel="HGTV.starhub">
+        <title>Starbed Tower</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225022500 +0000" channel="Cartoon Network.starhub">
-        <title>Perfect Tree/Christmas Parties</title>
+    <programme start="20241227165500 +0000" stop="20241227181000 +0000" channel="HGTV.starhub">
+        <title>Home Away From Home</title>
     </programme>
-    <programme start="20241225022500 +0000" stop="20241225030000 +0000" channel="Cartoon Network.starhub">
-        <title>Christmas/The Agent/The Decisions</title>
+    <programme start="20241227181000 +0000" stop="20241227190000 +0000" channel="HGTV.starhub">
+        <title>Desert of Dreams</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Cartoon Network.starhub">
-        <title>Car Wash/Birthday Party/A Magic Day Out/Pizza Bean/Valuable Lessons</title>
+    <programme start="20241227190000 +0000" stop="20241227195000 +0000" channel="HGTV.starhub">
+        <title>The Country House</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225053000 +0000" channel="Cartoon Network.starhub">
-        <title>Tom And Jerry: Snowman&#039;s Land</title>
+    <programme start="20241227195000 +0000" stop="20241227204000 +0000" channel="HGTV.starhub">
+        <title>The Buzzard&#039;s Roost</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225053500 +0000" channel="Cartoon Network.starhub">
-        <title>Be Careful What You Fish For</title>
+    <programme start="20241227204000 +0000" stop="20241227213000 +0000" channel="HGTV.starhub">
+        <title>Holmes For The Holidays</title>
     </programme>
-    <programme start="20241225053500 +0000" stop="20241225060000 +0000" channel="Cartoon Network.starhub">
-        <title>Rubika Defense System</title>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="HGTV.starhub">
+        <title>A Home For Holiday Memories</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Cartoon Network.starhub">
-        <title>Booby Prize</title>
+    <programme start="20241227220000 +0000" stop="20241227225000 +0000" channel="HGTV.starhub">
+        <title>Outgrowing Old Spaces</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Cartoon Network.starhub">
-        <title>Jamput/Magic Marker/Arm Wrestling/The Tribe</title>
+    <programme start="20241227225000 +0000" stop="20241227231500 +0000" channel="HGTV.starhub">
+        <title>Winter Wonderland</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Cartoon Network.starhub">
-        <title>Grizzy Academy</title>
+    <programme start="20241227231500 +0000" stop="20241227234000 +0000" channel="HGTV.starhub">
+        <title>Rico To The Real Estate Rescue</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083500 +0000" channel="Cartoon Network.starhub">
-        <title>Merry Moochmas/Skater Sumo/Plane Excited</title>
+    <programme start="20241227234000 +0000" stop="20241228003000 +0000" channel="HGTV.starhub">
+        <title>Starbed Tower</title>
     </programme>
-    <programme start="20241225083500 +0000" stop="20241225090000 +0000" channel="Cartoon Network.starhub">
-        <title>The Goblin &amp; The Monster</title>
+    <programme start="20241228003000 +0000" stop="20241228005500 +0000" channel="HGTV.starhub">
+        <title>Well Be Home In Zurich For Christmas</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="Cartoon Network.starhub">
-        <title>Car Wash/Birthday Party/A Magic Day Out/Pizza Bean/Valuable Lessons</title>
+    <programme start="20241228005500 +0000" stop="20241228012000 +0000" channel="HGTV.starhub">
+        <title>Saint-Emilion for the Holidays</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225102500 +0000" channel="Cartoon Network.starhub">
-        <title>Christmas Movies/Christmas Parties</title>
+    <programme start="20241228012000 +0000" stop="20241228021000 +0000" channel="HGTV.starhub">
+        <title>Our Contractor Is At The Neighbours</title>
     </programme>
-    <programme start="20241225102500 +0000" stop="20241225110000 +0000" channel="Cartoon Network.starhub">
-        <title>The Bffs/The Agent/Christmas</title>
+    <programme start="20241228021000 +0000" stop="20241228023500 +0000" channel="HGTV.starhub">
+        <title>Bringing The Outside In</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225123000 +0000" channel="Cartoon Network.starhub">
-        <title>Tom And Jerry: Snowman&#039;s Land</title>
+    <programme start="20241228023500 +0000" stop="20241228030000 +0000" channel="HGTV.starhub">
+        <title>New vs. Old</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Cartoon Network.starhub">
-        <title>A Holiday Story/Christmas Magic</title>
+    <programme start="20241228030000 +0000" stop="20241228041500 +0000" channel="HGTV.starhub">
+        <title>Home Away From Home</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Cartoon Network.starhub">
-        <title>The Administration</title>
+    <programme start="20241228041500 +0000" stop="20241228044000 +0000" channel="HGTV.starhub">
+        <title>Winter Wonderland</title>
     </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Cartoon Network.starhub">
-        <title>Personal Space Invaders</title>
+    <programme start="20241228044000 +0000" stop="20241228053000 +0000" channel="HGTV.starhub">
+        <title>Patricia Arquette</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="Cartoon Network.starhub">
-        <title>Holly Jolly Secrets Part 1</title>
+    <programme start="20241228053000 +0000" stop="20241228062000 +0000" channel="HGTV.starhub">
+        <title>Starbed Tower</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Cartoon Network.starhub">
-        <title>Onion Friend/Three Gems And A Baby/The Kindergarten Kid/Buddy&#039;s Book/Nightmare Hospital</title>
+    <programme start="20241228062000 +0000" stop="20241228064500 +0000" channel="HGTV.starhub">
+        <title>Stories Come To Life In London</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="Cartoon Network.starhub">
-        <title>Wild Modeling</title>
+    <programme start="20241228064500 +0000" stop="20241228071000 +0000" channel="HGTV.starhub">
+        <title>New Start For The New Year</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="Cartoon Network.starhub">
-        <title>Mini Golf Madness/Painbow/Secret Swapper of Doom/Little Octi Lost/Memory Lane of Pain</title>
+    <programme start="20241228071000 +0000" stop="20241228073500 +0000" channel="HGTV.starhub">
+        <title>Married Life in the Netherlands</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="Cartoon Network.starhub">
-        <title>Love Letters/Say Uncle/Warp Tour/The Test/The Big Show</title>
+    <programme start="20241228073500 +0000" stop="20241228080000 +0000" channel="HGTV.starhub">
+        <title>A Festive Home For Five</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Cartoon Network.starhub">
-        <title>Return Of Mordecai And The Rigby&#039;s/I See Turtles/Format Wars Ii/Chili Cook-Off/Donut Factory Holiday</title>
+    <programme start="20241228080000 +0000" stop="20241228082500 +0000" channel="HGTV.starhub">
+        <title>Bangkok</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="Cartoon Network.starhub">
-        <title>Omni-Copped/This One Goes To 11/Moor Fogg/De-Fanged/Mock 10</title>
+    <programme start="20241228082500 +0000" stop="20241228085000 +0000" channel="HGTV.starhub">
+        <title>First Christmas At Home</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="Cartoon Network.starhub">
-        <title>The Grape Worm/The Puckerberry Overlords/The Elemelons/Sniffleball/My Big Fat Stinky Wedding</title>
+    <programme start="20241228085000 +0000" stop="20241228091500 +0000" channel="HGTV.starhub">
+        <title>One Chance To Get It Right In Australia</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="Cartoon Network.starhub">
-        <title>Bear Art</title>
+    <programme start="20241228091500 +0000" stop="20241228094000 +0000" channel="HGTV.starhub">
+        <title>Minnesota Dreamin&#039;</title>
+    </programme>
+    <programme start="20241228094000 +0000" stop="20241228100500 +0000" channel="HGTV.starhub">
+        <title>From Texas To Perth With Kids</title>
+    </programme>
+    <programme start="20241228100500 +0000" stop="20241228103000 +0000" channel="HGTV.starhub">
+        <title>A Home For Holiday Memories</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228113000 +0000" channel="HGTV.starhub">
+        <title>Top 10 Winning Waterfronts</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228124500 +0000" channel="HGTV.starhub">
+        <title>Home Away From Home</title>
+    </programme>
+    <programme start="20241228124500 +0000" stop="20241228131000 +0000" channel="HGTV.starhub">
+        <title>Winter Wonderland</title>
+    </programme>
+    <programme start="20241228131000 +0000" stop="20241228140000 +0000" channel="HGTV.starhub">
+        <title>Patricia Arquette</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228145000 +0000" channel="HGTV.starhub">
+        <title>Starbed Tower</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226001500 +0000" channel="Cartoon Network.starhub">
         <title>High Speed Hare/Beaky Buzzard Gags: Rattle Snake/Nutty Devil</title>
@@ -14699,6 +14600,105 @@
     </programme>
     <programme start="20241227190000 +0000" stop="20241227200000 +0000" channel="Cartoon Network.starhub">
         <title>The Postcard/1000th Chopper Flight Party/Party Horse/Gary&#039;s Synthesizer/Rigby Goes To Prom</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227210000 +0000" channel="Cartoon Network.starhub">
+        <title>Poles Apart/Show Don&#039;t Tell/Don&#039;t Touch/Gentle Ben/Funhouse</title>
+    </programme>
+    <programme start="20241227210000 +0000" stop="20241227220000 +0000" channel="Cartoon Network.starhub">
+        <title>The Garden/At Your Service/Chowder and Mr. Fugu/The Vacation/The Dice Cycle</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227230000 +0000" channel="Cartoon Network.starhub">
+        <title>Star Of The Day</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="Cartoon Network.starhub">
+        <title>Rival&#039;s Revenge/Lamput &amp; The Beanstalk</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="Cartoon Network.starhub">
+        <title>Azarath, Metrion Bookstore/The Great Azarathian Face Off</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="Cartoon Network.starhub">
+        <title>Freshman Orientoontion</title>
+    </programme>
+    <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="Cartoon Network.starhub">
+        <title>Give Pizza A Chance</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="Cartoon Network.starhub">
+        <title>Totally Talented</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228020500 +0000" channel="Cartoon Network.starhub">
+        <title>First Day Of Art School/Intermediate Photography/Independent Study: Mass Appeal</title>
+    </programme>
+    <programme start="20241228020500 +0000" stop="20241228023000 +0000" channel="Cartoon Network.starhub">
+        <title>The Shape Of Motion</title>
+    </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="Cartoon Network.starhub">
+        <title>Enter The City Of Temples</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="Cartoon Network.starhub">
+        <title>Strength Potion/The Little Ghost Prince/Back To School/Power Of Moustache</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228043000 +0000" channel="Cartoon Network.starhub">
+        <title>Chapter 1: The Legs</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228053000 +0000" channel="Cartoon Network.starhub">
+        <title>Star Of The Day</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228070000 +0000" channel="Cartoon Network.starhub">
+        <title>King Tweety</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Cartoon Network.starhub">
+        <title>Rival&#039;s Revenge/Lamput &amp; The Beanstalk</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Cartoon Network.starhub">
+        <title>Adventures In Robot-Sitting</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Cartoon Network.starhub">
+        <title>Personal Space Invaders</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Cartoon Network.starhub">
+        <title>Freshman Orientoontion</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Cartoon Network.starhub">
+        <title>Give Pizza A Chance</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Cartoon Network.starhub">
+        <title>Totally Talented</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="Cartoon Network.starhub">
+        <title>Rise And Shine/Sleep Talk Jp</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228120000 +0000" channel="Cartoon Network.starhub">
+        <title>Tom And Jerry Cowboy Up!</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="Cartoon Network.starhub">
+        <title>Villains Vs Heroes/Strawberry On The Air</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Cartoon Network.starhub">
+        <title>Azarath, Metrion Bookstore/The Great Azarathian Face Off</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="Cartoon Network.starhub">
+        <title>Zero Day: Part One</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="Cartoon Network.starhub">
+        <title>Frankenpanda</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228143000 +0000" channel="Cartoon Network.starhub">
+        <title>It Takes A Slob</title>
+    </programme>
+    <programme start="20241228143000 +0000" stop="20241228150000 +0000" channel="Cartoon Network.starhub">
+        <title>Creepy Crawler Creature Catcher</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="Cartoon Network.starhub">
+        <title>Zero Day: Part One</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228160000 +0000" channel="Cartoon Network.starhub">
+        <title>Rival&#039;s Revenge/Boss On The Moon</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="Cartoon Network.starhub">
+        <title>Folds And Folds Again</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="Cartoon Network.starhub">
+        <title>Home, Sweet Homesick/Sister Sitter/Cheep Thrills/Fashion Forward/Bridezilla</title>
     </programme>
     <programme start="20241224180000 +0000" stop="20241225002000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
@@ -16479,102 +16479,6 @@
     <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News Talk (27/12/24)</title>
     </programme>
-    <programme start="20241224235000 +0000" stop="20241225004000 +0000" channel="Discovery HD.starhub">
-        <title>A Well That Takes On Water</title>
-    </programme>
-    <programme start="20241225004000 +0000" stop="20241225013000 +0000" channel="Discovery HD.starhub">
-        <title>Ohio Log Cabin</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225022000 +0000" channel="Discovery HD.starhub">
-        <title>Alien Sharks Ghosts Of Japan</title>
-    </programme>
-    <programme start="20241225022000 +0000" stop="20241225024500 +0000" channel="Discovery HD.starhub">
-        <title>Twice As Nice</title>
-    </programme>
-    <programme start="20241225024500 +0000" stop="20241225031000 +0000" channel="Discovery HD.starhub">
-        <title>Its About Time</title>
-    </programme>
-    <programme start="20241225031000 +0000" stop="20241225040000 +0000" channel="Discovery HD.starhub">
-        <title>Cocuy</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225045000 +0000" channel="Discovery HD.starhub">
-        <title>Succession Of Opal Joe</title>
-    </programme>
-    <programme start="20241225045000 +0000" stop="20241225054000 +0000" channel="Discovery HD.starhub">
-        <title>Free Agent</title>
-    </programme>
-    <programme start="20241225054000 +0000" stop="20241225063500 +0000" channel="Discovery HD.starhub">
-        <title>Tickled Pink</title>
-    </programme>
-    <programme start="20241225063500 +0000" stop="20241225070000 +0000" channel="Discovery HD.starhub">
-        <title>Potty Fouls</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="Discovery HD.starhub">
-        <title>Bold Moves</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225092000 +0000" channel="Discovery HD.starhub">
-        <title>Brawl Of Duty</title>
-    </programme>
-    <programme start="20241225092000 +0000" stop="20241225101500 +0000" channel="Discovery HD.starhub">
-        <title>The Bates</title>
-    </programme>
-    <programme start="20241225101500 +0000" stop="20241225111000 +0000" channel="Discovery HD.starhub">
-        <title>A Glimmer Of Hope</title>
-    </programme>
-    <programme start="20241225111000 +0000" stop="20241225120500 +0000" channel="Discovery HD.starhub">
-        <title>A Coastal Cottage In Hampton, Virginia</title>
-    </programme>
-    <programme start="20241225120500 +0000" stop="20241225130000 +0000" channel="Discovery HD.starhub">
-        <title>Holmes For The Holidays</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225135500 +0000" channel="Discovery HD.starhub">
-        <title>Up In Smoke</title>
-    </programme>
-    <programme start="20241225135500 +0000" stop="20241225142000 +0000" channel="Discovery HD.starhub">
-        <title>Bike Thief Showdown</title>
-    </programme>
-    <programme start="20241225142000 +0000" stop="20241225145000 +0000" channel="Discovery HD.starhub">
-        <title>Fighting Back</title>
-    </programme>
-    <programme start="20241225145000 +0000" stop="20241225154500 +0000" channel="Discovery HD.starhub">
-        <title>Beneath The Bonanza</title>
-    </programme>
-    <programme start="20241225154500 +0000" stop="20241225164000 +0000" channel="Discovery HD.starhub">
-        <title>A Coastal Cottage In Hampton, Virginia</title>
-    </programme>
-    <programme start="20241225164000 +0000" stop="20241225173500 +0000" channel="Discovery HD.starhub">
-        <title>Up In Smoke</title>
-    </programme>
-    <programme start="20241225173500 +0000" stop="20241225180000 +0000" channel="Discovery HD.starhub">
-        <title>Bike Thief Showdown</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Discovery HD.starhub">
-        <title>Fighting Back</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225192500 +0000" channel="Discovery HD.starhub">
-        <title>Holmes For The Holidays</title>
-    </programme>
-    <programme start="20241225192500 +0000" stop="20241225202000 +0000" channel="Discovery HD.starhub">
-        <title>Beneath The Bonanza</title>
-    </programme>
-    <programme start="20241225202000 +0000" stop="20241225204500 +0000" channel="Discovery HD.starhub">
-        <title>Twice As Nice</title>
-    </programme>
-    <programme start="20241225204500 +0000" stop="20241225211000 +0000" channel="Discovery HD.starhub">
-        <title>Its About Time</title>
-    </programme>
-    <programme start="20241225211000 +0000" stop="20241225220000 +0000" channel="Discovery HD.starhub">
-        <title>A Glimmer Of Hope</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Discovery HD.starhub">
-        <title>A Hawaiian Paradise Pool</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Discovery HD.starhub">
-        <title>A Rockin Resort Pool</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225235000 +0000" channel="Discovery HD.starhub">
-        <title>A Coastal Cottage In Hampton, Virginia</title>
-    </programme>
     <programme start="20241225235000 +0000" stop="20241226004000 +0000" channel="Discovery HD.starhub">
         <title>Bad Luck</title>
     </programme>
@@ -16778,6 +16682,102 @@
     </programme>
     <programme start="20241228001500 +0000" stop="20241228004000 +0000" channel="Discovery HD.starhub">
         <title>Dream Pool For A Dream Home</title>
+    </programme>
+    <programme start="20241228004000 +0000" stop="20241228010500 +0000" channel="Discovery HD.starhub">
+        <title>A Hawaiian Paradise Pool</title>
+    </programme>
+    <programme start="20241228010500 +0000" stop="20241228013000 +0000" channel="Discovery HD.starhub">
+        <title>A Rockin Resort Pool</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228015500 +0000" channel="Discovery HD.starhub">
+        <title>Modern Mountain Pool</title>
+    </programme>
+    <programme start="20241228015500 +0000" stop="20241228022000 +0000" channel="Discovery HD.starhub">
+        <title>Broken To Beautiful</title>
+    </programme>
+    <programme start="20241228022000 +0000" stop="20241228024500 +0000" channel="Discovery HD.starhub">
+        <title>Insane On A Plane</title>
+    </programme>
+    <programme start="20241228024500 +0000" stop="20241228031000 +0000" channel="Discovery HD.starhub">
+        <title>Insane Attacks</title>
+    </programme>
+    <programme start="20241228031000 +0000" stop="20241228040000 +0000" channel="Discovery HD.starhub">
+        <title>Super El Nino</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228045000 +0000" channel="Discovery HD.starhub">
+        <title>Cloudy With A Chance Of Explosives</title>
+    </programme>
+    <programme start="20241228045000 +0000" stop="20241228054000 +0000" channel="Discovery HD.starhub">
+        <title>The Day I Ran China (S2)</title>
+    </programme>
+    <programme start="20241228054000 +0000" stop="20241228063500 +0000" channel="Discovery HD.starhub">
+        <title>Alien Sharks Ghosts Of Japan</title>
+    </programme>
+    <programme start="20241228063500 +0000" stop="20241228075500 +0000" channel="Discovery HD.starhub">
+        <title>Fire On The Mountain</title>
+    </programme>
+    <programme start="20241228075500 +0000" stop="20241228082500 +0000" channel="Discovery HD.starhub">
+        <title>Insane Attacks</title>
+    </programme>
+    <programme start="20241228082500 +0000" stop="20241228092000 +0000" channel="Discovery HD.starhub">
+        <title>Super El Nino</title>
+    </programme>
+    <programme start="20241228092000 +0000" stop="20241228101500 +0000" channel="Discovery HD.starhub">
+        <title>Maximum Overdrive</title>
+    </programme>
+    <programme start="20241228101500 +0000" stop="20241228111000 +0000" channel="Discovery HD.starhub">
+        <title>Exploring The Unknown With Wang Yibo (S1)</title>
+    </programme>
+    <programme start="20241228111000 +0000" stop="20241228120500 +0000" channel="Discovery HD.starhub">
+        <title>Super El Nino</title>
+    </programme>
+    <programme start="20241228120500 +0000" stop="20241228123000 +0000" channel="Discovery HD.starhub">
+        <title>Insane On A Plane</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Discovery HD.starhub">
+        <title>Insane Attacks</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228135500 +0000" channel="Discovery HD.starhub">
+        <title>Hilux Australia</title>
+    </programme>
+    <programme start="20241228135500 +0000" stop="20241228145000 +0000" channel="Discovery HD.starhub">
+        <title>Teenage Dreams</title>
+    </programme>
+    <programme start="20241228145000 +0000" stop="20241228154500 +0000" channel="Discovery HD.starhub">
+        <title>Maximum Overdrive</title>
+    </programme>
+    <programme start="20241228154500 +0000" stop="20241228164000 +0000" channel="Discovery HD.starhub">
+        <title>Ohio Log Cabin</title>
+    </programme>
+    <programme start="20241228164000 +0000" stop="20241228173500 +0000" channel="Discovery HD.starhub">
+        <title>Wheel Of Punishment</title>
+    </programme>
+    <programme start="20241228173500 +0000" stop="20241228183000 +0000" channel="Discovery HD.starhub">
+        <title>Tradition Of Superstition</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228192500 +0000" channel="Discovery HD.starhub">
+        <title>One Nation Under Mud</title>
+    </programme>
+    <programme start="20241228192500 +0000" stop="20241228195000 +0000" channel="Discovery HD.starhub">
+        <title>Midcentury Modern Meets The 21st Century</title>
+    </programme>
+    <programme start="20241228195000 +0000" stop="20241228202000 +0000" channel="Discovery HD.starhub">
+        <title>Midcentury Mess Gets Modern Makeover</title>
+    </programme>
+    <programme start="20241228202000 +0000" stop="20241228211000 +0000" channel="Discovery HD.starhub">
+        <title>Cocuy</title>
+    </programme>
+    <programme start="20241228211000 +0000" stop="20241228220000 +0000" channel="Discovery HD.starhub">
+        <title>A Coastal Cottage In Hampton, Virginia</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228232500 +0000" channel="Discovery HD.starhub">
+        <title>Fire On The Mountain</title>
+    </programme>
+    <programme start="20241228232500 +0000" stop="20241228235000 +0000" channel="Discovery HD.starhub">
+        <title>A Hole In The Plan</title>
+    </programme>
+    <programme start="20241228235000 +0000" stop="20241229004000 +0000" channel="Discovery HD.starhub">
+        <title>Hilux Australia</title>
     </programme>
     <programme start="20241224234500 +0000" stop="20241225004000 +0000" channel="Crime + Investigation HD.starhub">
         <title>Kids Who Kill - Matthew Hardman</title>
@@ -17979,42 +17979,6 @@
     <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225003000 +0000" channel="Vannathirai.starhub">
-        <title>Manaivi Sollae Manthiram</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="Vannathirai.starhub">
-        <title>Kaalathai Vendra Ganangal</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225040000 +0000" channel="Vannathirai.starhub">
-        <title>Kaaviya Kaalai</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="Vannathirai.starhub">
-        <title>Comedy Galatta</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225080000 +0000" channel="Vannathirai.starhub">
-        <title>Naalu Perukku Nandri</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225110000 +0000" channel="Vannathirai.starhub">
-        <title>Pon Maalai</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Vannathirai.starhub">
-        <title>Kaalathai Vendra Ganangal</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Vannathirai.starhub">
-        <title>Star Hits</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="Vannathirai.starhub">
-        <title>Comedy Galatta</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225190000 +0000" channel="Vannathirai.starhub">
-        <title>Nenjam Undu Nermai Undu</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225220000 +0000" channel="Vannathirai.starhub">
-        <title>Maanavan</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="Vannathirai.starhub">
         <title>Vivasayee Magan</title>
     </programme>
@@ -18278,6 +18242,42 @@
     </programme>
     <programme start="20250102080000 +0000" stop="20250102110000 +0000" channel="Vannathirai.starhub">
         <title>Pallikoodam</title>
+    </programme>
+    <programme start="20250102110000 +0000" stop="20250102113000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
+    </programme>
+    <programme start="20250102113000 +0000" stop="20250102120000 +0000" channel="Vannathirai.starhub">
+        <title>Super Scenes</title>
+    </programme>
+    <programme start="20250102120000 +0000" stop="20250102130000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Vedi</title>
+    </programme>
+    <programme start="20250102130000 +0000" stop="20250102160000 +0000" channel="Vannathirai.starhub">
+        <title>Hit Thirai</title>
+    </programme>
+    <programme start="20250102160000 +0000" stop="20250102190000 +0000" channel="Vannathirai.starhub">
+        <title>Attakathi</title>
+    </programme>
+    <programme start="20250102190000 +0000" stop="20250102220000 +0000" channel="Vannathirai.starhub">
+        <title>Bombay Mail 109</title>
+    </programme>
+    <programme start="20250102220000 +0000" stop="20250103003000 +0000" channel="Vannathirai.starhub">
+        <title>Arivumani</title>
+    </programme>
+    <programme start="20250103003000 +0000" stop="20250103010000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
+    </programme>
+    <programme start="20250103010000 +0000" stop="20250103040000 +0000" channel="Vannathirai.starhub">
+        <title>Sangamam</title>
+    </programme>
+    <programme start="20250103040000 +0000" stop="20250103050000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20250103050000 +0000" stop="20250103080000 +0000" channel="Vannathirai.starhub">
+        <title>Dharmraja</title>
+    </programme>
+    <programme start="20250103080000 +0000" stop="20250103110000 +0000" channel="Vannathirai.starhub">
+        <title>Otta Panthayam</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Animax HD.starhub">
         <title>Nothing Was Working Out</title>
@@ -18579,39 +18579,6 @@
     <programme start="20241227023000 +0000" stop="20241227030000 +0000" channel="Animax HD.starhub">
         <title>A Short Break! The Demon’s Summer Festival</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225013000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Naan Sirithal</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225043000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Cheranin Thirumanam</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225080000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Akhanda</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225103000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Thumbha</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225130000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Gorilla</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225153000 +0000" channel="Zee Thirai.starhub">
-        <title>Wtp Movies - Asvins</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225183000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Krack</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225210000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Kathar Basha</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
     <programme start="20241225223000 +0000" stop="20241226010000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Desingu Raja</title>
     </programme>
@@ -18879,107 +18846,38 @@
     <programme start="20250103190000 +0000" stop="20250103210000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Bommai Nayagi</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225020000 +0000" channel="SEA Today.starhub">
-        <title>Sea Morning Show (Live)</title>
+    <programme start="20250103210000 +0000" stop="20250103213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="SEA Today.starhub">
-        <title>Teman Bicara</title>
+    <programme start="20250103213000 +0000" stop="20250104003000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Saaho</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="SEA Today.starhub">
-        <title>Dr Lisa To The Rescue S2</title>
+    <programme start="20250104003000 +0000" stop="20250104023000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Diya</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="SEA Today.starhub">
-        <title>Vet Tales</title>
+    <programme start="20250104023000 +0000" stop="20250104043000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Danny</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="SEA Today.starhub">
-        <title>Animal Keeper</title>
+    <programme start="20250104043000 +0000" stop="20250104070000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Seeru</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="SEA Today.starhub">
-        <title>The Animal Library</title>
+    <programme start="20250104070000 +0000" stop="20250104103000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kavan</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="SEA Today.starhub">
-        <title>The Shelter</title>
+    <programme start="20250104103000 +0000" stop="20250104133000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - 2.0</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225063000 +0000" channel="SEA Today.starhub">
-        <title>Christmas Live Seassion 2021</title>
+    <programme start="20250104133000 +0000" stop="20250104160000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Silu Karupatti</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="SEA Today.starhub">
-        <title>Exploring Nusantara With Kristian Hansen</title>
+    <programme start="20250104160000 +0000" stop="20250104183000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Karnan</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="SEA Today.starhub">
-        <title>Exploring Nusantara With Kristian Hansen</title>
+    <programme start="20250104183000 +0000" stop="20250104213000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - En Per Surya En Veedu India</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="SEA Today.starhub">
-        <title>The Travel Note</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="SEA Today.starhub">
-        <title>Duo Backpackers</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="SEA Today.starhub">
-        <title>Side Walk</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="SEA Today.starhub">
-        <title>Life Hacks</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="SEA Today.starhub">
-        <title>Meet The Creators</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225130000 +0000" channel="SEA Today.starhub">
-        <title>3-Hour News Show (Live)</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="SEA Today.starhub">
-        <title>Santa Claus Dari Jakarta</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="SEA Today.starhub">
-        <title>Podsea</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="SEA Today.starhub">
-        <title>Apose S1</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="SEA Today.starhub">
-        <title>Sharing Seassion Music</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="SEA Today.starhub">
-        <title>Date With Nature</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="SEA Today.starhub">
-        <title>The World From Above</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="SEA Today.starhub">
-        <title>Super Octogenarians</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="SEA Today.starhub">
-        <title>The Night Shift</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="SEA Today.starhub">
-        <title>Reality Trip</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="SEA Today.starhub">
-        <title>Trail Town: Down Under</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="SEA Today.starhub">
-        <title>Pridelands Safari</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="SEA Today.starhub">
-        <title>Duo Backpackers</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="SEA Today.starhub">
-        <title>Side Walk</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="SEA Today.starhub">
-        <title>Trail Town: Down Under</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="SEA Today.starhub">
-        <title>Pridelands Safari</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="SEA Today.starhub">
-        <title>Duo Backpackers</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="SEA Today.starhub">
-        <title>Side Walk</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="SEA Today.starhub">
-        <title>Tabula Rasa S3</title>
+    <programme start="20250104213000 +0000" stop="20250104220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
     <programme start="20241225230000 +0000" stop="20241226020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
@@ -19178,6 +19076,108 @@
     </programme>
     <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="SEA Today.starhub">
         <title>Pridelands Safari</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="SEA Today.starhub">
+        <title>Duo Backpackers</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="SEA Today.starhub">
+        <title>Side Walk</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="SEA Today.starhub">
+        <title>Ruang Makna</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241228020000 +0000" channel="SEA Today.starhub">
+        <title>Sea Morning Show (Live)</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="SEA Today.starhub">
+        <title>Sustainable Living</title>
+    </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="SEA Today.starhub">
+        <title>Satisfactory</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="SEA Today.starhub">
+        <title>Star Life</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="SEA Today.starhub">
+        <title>All About Women</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="SEA Today.starhub">
+        <title>Space Of Mine</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="SEA Today.starhub">
+        <title>The Travel Note S5</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="SEA Today.starhub">
+        <title>The $100 Nomad</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="SEA Today.starhub">
+        <title>Factory Story</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="SEA Today.starhub">
+        <title>Beyond The Limit</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="SEA Today.starhub">
+        <title>Wild Cage</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="SEA Today.starhub">
+        <title>Bonding Buddy</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="SEA Today.starhub">
+        <title>K9 Mounties</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="SEA Today.starhub">
+        <title>Johnny Kingdom&#039;s Wild Countryside</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="SEA Today.starhub">
+        <title>Fanatic</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="SEA Today.starhub">
+        <title>Asian Art Stories</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="SEA Today.starhub">
+        <title>Searchinc</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228130000 +0000" channel="SEA Today.starhub">
+        <title>3-Hour News Show (Live)</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="SEA Today.starhub">
+        <title>Sportlite</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="SEA Today.starhub">
+        <title>Teman Bicara</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="SEA Today.starhub">
+        <title>Autoday</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228160000 +0000" channel="SEA Today.starhub">
+        <title>Why We Run</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228163000 +0000" channel="SEA Today.starhub">
+        <title>K9 Mounties</title>
+    </programme>
+    <programme start="20241228163000 +0000" stop="20241228170000 +0000" channel="SEA Today.starhub">
+        <title>Johnny Kingdom&#039;s Wild Countryside</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="SEA Today.starhub">
+        <title>Super Octogenarians</title>
+    </programme>
+    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="SEA Today.starhub">
+        <title>The Night Shift</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="SEA Today.starhub">
+        <title>Reality Trip</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228190000 +0000" channel="SEA Today.starhub">
+        <title>Trail Town: Down Under</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228193000 +0000" channel="SEA Today.starhub">
+        <title>Pridelands Safari</title>
+    </programme>
+    <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="SEA Today.starhub">
+        <title>Duo Backpackers</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="SEA Today.starhub">
+        <title>Side Walk</title>
     </programme>
     <programme start="20241224233000 +0000" stop="20241225013000 +0000" channel="Hits HD.starhub">
         <title>To All a Good Night</title>
@@ -19479,75 +19479,6 @@
     <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="Hits HD.starhub">
         <title>The Lottery</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Live</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Live</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="CTI TV HD.starhub">
-        <title>Small Swallow Xiaoyan Night</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="CTI TV HD.starhub">
-        <title>Super Followers</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Live</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="CTI TV HD.starhub">
-        <title>Focus New Asia Live</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="CTI TV HD.starhub">
-        <title>Big News Gossip Live</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="CTI TV HD.starhub">
-        <title>Big News Gossip Live</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225100000 +0000" channel="CTI TV HD.starhub">
-        <title>Original Music for Christmas City</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Live</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="CTI TV HD.starhub">
-        <title>Focus New Asia Live</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="CTI TV HD.starhub">
-        <title>Hit the Headlines</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="CTI TV HD.starhub">
-        <title>Hit the Headlines</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="CTI TV HD.starhub">
-        <title>Super Followers</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Global Vision</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="CTI TV HD.starhub">
-        <title>Anchor on Mission</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="CTI TV HD.starhub">
-        <title>Kangsi Coming</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="CTI TV HD.starhub">
-        <title>Small Swallow Xiaoyan Night</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="CTI TV HD.starhub">
-        <title>Hit the Headlines</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="CTI TV HD.starhub">
-        <title>Hit the Headlines</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="CTI TV HD.starhub">
-        <title>Focus New Asia</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="CTI TV HD.starhub">
-        <title>Super Followers</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Live</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="CTI TV HD.starhub">
         <title>CTI News Live</title>
     </programme>
@@ -19779,119 +19710,74 @@
     <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="CTI TV HD.starhub">
         <title>Hao&#039;s Mission</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="Zee Tamil.starhub">
-        <title>Sembaruthi</title>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="CTI TV HD.starhub">
+        <title>Hao&#039;s Mission</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="Zee Tamil.starhub">
-        <title>Sembaruthi</title>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="CTI TV HD.starhub">
+        <title>The Queen&#039;s Legendary Show</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225040000 +0000" channel="Zee Tamil.starhub">
-        <title>Annaporani</title>
+    <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI News Live</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225070000 +0000" channel="Zee Tamil.starhub">
-        <title>Virupaksha</title>
+    <programme start="20241229050000 +0000" stop="20241229070000 +0000" channel="CTI TV HD.starhub">
+        <title>The Hunger Games</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
+    <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="CTI TV HD.starhub">
+        <title>Searchome</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI TALK Online Forum</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Zee Tamil.starhub">
-        <title>Valliyin Velan</title>
+    <programme start="20241229090000 +0000" stop="20241229093000 +0000" channel="CTI TV HD.starhub">
+        <title>I Want To See It</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+    <programme start="20241229093000 +0000" stop="20241229100000 +0000" channel="CTI TV HD.starhub">
+        <title>Xiaomai&#039;s Health Notes</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI News Live</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="CTI TV HD.starhub">
+        <title>Really different</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Zee Tamil.starhub">
-        <title>Maari</title>
+    <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="CTI TV HD.starhub">
+        <title>Charming East</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithaen Vanthai</title>
+    <programme start="20241229123000 +0000" stop="20241229130000 +0000" channel="CTI TV HD.starhub">
+        <title>Charming East</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Zee Tamil.starhub">
-        <title>Nenjathai Killadhe</title>
+    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI TALK Global Showdown</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Zee Tamil.starhub">
-        <title>Anna</title>
+    <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI TALK Global Showdown</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Zee Tamil.starhub">
-        <title>Karthigai Deepam</title>
+    <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="CTI TV HD.starhub">
+        <title>Dream Maker</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Zee Tamil.starhub">
-        <title>Valliyin Velan</title>
+    <programme start="20241229160000 +0000" stop="20241229170000 +0000" channel="CTI TV HD.starhub">
+        <title>Really different</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Zee Tamil.starhub">
-        <title>Sandhya Raagam</title>
+    <programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="CTI TV HD.starhub">
+        <title>Anchor on Mission</title>
     </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
+    <programme start="20241229180000 +0000" stop="20241229190000 +0000" channel="CTI TV HD.starhub">
+        <title>True Love Blog</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
+    <programme start="20241229190000 +0000" stop="20241229200000 +0000" channel="CTI TV HD.starhub">
+        <title>Dream Maker</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Republic</title>
+    <programme start="20241229200000 +0000" stop="20241229210000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI TALK Global Showdown</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+    <programme start="20241229210000 +0000" stop="20241229220000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI TALK Global Showdown</title>
     </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
+    <programme start="20241229220000 +0000" stop="20241229230000 +0000" channel="CTI TV HD.starhub">
+        <title>Two City</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Zee Tamil.starhub">
-        <title>Anna</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Zee Tamil.starhub">
-        <title>Valliyin Velan</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Zee Tamil.starhub">
-        <title>Karthigai Deepam</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Zee Tamil.starhub">
-        <title>Nenjathai Killadhe</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="Zee Tamil.starhub">
-        <title>Naane Varuvean</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Zee Tamil.starhub">
-        <title>Sandhya Raagam</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Zee Tamil.starhub">
-        <title>Karthigai Deepam</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Zee Tamil.starhub">
-        <title>Oru Oorula Oru Raja Kumari</title>
+    <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="CTI TV HD.starhub">
+        <title>CTI News Live</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="Zee Tamil.starhub">
         <title>Sembaruthi</title>
@@ -20079,404 +19965,419 @@
     <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225001500 +0000" channel="France24.starhub">
+    <programme start="20241227123000 +0000" stop="20241227130000 +0000" channel="Zee Tamil.starhub">
+        <title>Valliyin Velan</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227133000 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
+    </programme>
+    <programme start="20241227133000 +0000" stop="20241227140000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Diya</title>
+    </programme>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="Zee Tamil.starhub">
+        <title>Mounam Pesiyathey</title>
+    </programme>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="Zee Tamil.starhub">
+        <title>Naane Varuvean</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="Zee Tamil.starhub">
+        <title>Zee Flix</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227170000 +0000" channel="Zee Tamil.starhub">
+        <title>Nee Pathi Naan Paathi</title>
+    </programme>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="Zee Tamil.starhub">
+        <title>Valliyin Velan</title>
+    </programme>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="Zee Tamil.starhub">
+        <title>Nenjathai Killadhe</title>
+    </programme>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="Zee Tamil.starhub">
+        <title>Naane Varuvean</title>
+    </programme>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="Zee Tamil.starhub">
+        <title>Mounam Pesiyathey</title>
+    </programme>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="Zee Tamil.starhub">
+        <title>Mounam Pesiyathey</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="Zee Tamil.starhub">
+        <title>Oru Oorula Oru Raja Kumari</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="Zee Tamil.starhub">
+        <title>Sembaruthi</title>
+    </programme>
+    <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="Zee Tamil.starhub">
+        <title>Sembaruthi</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="Zee Tamil.starhub">
+        <title>Thirumathi Hitler</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228023000 +0000" channel="Zee Tamil.starhub">
+        <title>Genes S02</title>
+    </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="Zee Tamil.starhub">
+        <title>Nenjathai Killadhe</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228053000 +0000" channel="Zee Tamil.starhub">
+        <title>Thimmarasu</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Bruce Lee</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Aan Devathai</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Zee Tamil.starhub">
+        <title>Naane Varuvean</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Zee Tamil.starhub">
+        <title>Nee Pathi Naan Paathi</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Zee Tamil.starhub">
+        <title>Mounam Pesiyathey</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Rajini Murugan</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Zee Tamil.starhub">
+        <title>Lakshmi Kalyanam</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Devi 2</title>
+    </programme>
+    <programme start="20241226000000 +0000" stop="20241226001500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225001500 +0000" stop="20241225002000 +0000" channel="France24.starhub">
+    <programme start="20241226001500 +0000" stop="20241226002000 +0000" channel="France24.starhub">
         <title>Focus</title>
     </programme>
-    <programme start="20241225002000 +0000" stop="20241225003000 +0000" channel="France24.starhub">
+    <programme start="20241226002000 +0000" stop="20241226003000 +0000" channel="France24.starhub">
         <title>French Connections</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225004500 +0000" channel="France24.starhub">
+    <programme start="20241226003000 +0000" stop="20241226004500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225004500 +0000" stop="20241225010000 +0000" channel="France24.starhub">
+    <programme start="20241226004500 +0000" stop="20241226010000 +0000" channel="France24.starhub">
         <title>Arts24</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225011500 +0000" channel="France24.starhub">
+    <programme start="20241226010000 +0000" stop="20241226011500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225011500 +0000" stop="20241225013000 +0000" channel="France24.starhub">
+    <programme start="20241226011500 +0000" stop="20241226013000 +0000" channel="France24.starhub">
         <title>The 51 Percent</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225014500 +0000" channel="France24.starhub">
+    <programme start="20241226013000 +0000" stop="20241226014500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225014500 +0000" stop="20241225020000 +0000" channel="France24.starhub">
+    <programme start="20241226014500 +0000" stop="20241226020000 +0000" channel="France24.starhub">
         <title>Eye on Africa</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225021000 +0000" channel="France24.starhub">
+    <programme start="20241226020000 +0000" stop="20241226021000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225021000 +0000" stop="20241225023000 +0000" channel="France24.starhub">
+    <programme start="20241226021000 +0000" stop="20241226023000 +0000" channel="France24.starhub">
         <title>Reporters</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225024000 +0000" channel="France24.starhub">
+    <programme start="20241226023000 +0000" stop="20241226024000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225024000 +0000" stop="20241225030000 +0000" channel="France24.starhub">
+    <programme start="20241226024000 +0000" stop="20241226030000 +0000" channel="France24.starhub">
         <title>Revisited</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225031500 +0000" channel="France24.starhub">
+    <programme start="20241226030000 +0000" stop="20241226031000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225031500 +0000" stop="20241225033000 +0000" channel="France24.starhub">
-        <title>France In Focus</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225034500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225034500 +0000" stop="20241225040000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225041500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225041500 +0000" stop="20241225043000 +0000" channel="France24.starhub">
-        <title>Eye on Africa</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225044500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225044500 +0000" stop="20241225050000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225051500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225051500 +0000" stop="20241225053000 +0000" channel="France24.starhub">
-        <title>The 51 Percent</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225054500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225054500 +0000" stop="20241225055000 +0000" channel="France24.starhub">
+    <programme start="20241226031000 +0000" stop="20241226031500 +0000" channel="France24.starhub">
         <title>Focus</title>
     </programme>
-    <programme start="20241225055000 +0000" stop="20241225060000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225061500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225061500 +0000" stop="20241225063000 +0000" channel="France24.starhub">
-        <title>France In Focus</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225064500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225064500 +0000" stop="20241225065000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225065000 +0000" stop="20241225070000 +0000" channel="France24.starhub">
-        <title>French Connections</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225071500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225071500 +0000" stop="20241225073000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225074500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225074500 +0000" stop="20241225075000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225075000 +0000" stop="20241225080000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225091500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225091500 +0000" stop="20241225093000 +0000" channel="France24.starhub">
-        <title>French Connections</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225094500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225094500 +0000" stop="20241225095000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225095000 +0000" stop="20241225100000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225101000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225101000 +0000" stop="20241225103000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225104000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225104000 +0000" stop="20241225110000 +0000" channel="France24.starhub">
-        <title>Revisited</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225111500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225111500 +0000" stop="20241225111600 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225111600 +0000" stop="20241225113000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225114500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225114500 +0000" stop="20241225115000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225115000 +0000" stop="20241225120000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225131500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225131500 +0000" stop="20241225132100 +0000" channel="France24.starhub">
-        <title>You Are Here</title>
-    </programme>
-    <programme start="20241225132100 +0000" stop="20241225133000 +0000" channel="France24.starhub">
-        <title>Fashion</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225134500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225134500 +0000" stop="20241225135000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225135000 +0000" stop="20241225140000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225141000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225141000 +0000" stop="20241225143000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225144000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225144000 +0000" stop="20241225145200 +0000" channel="France24.starhub">
+    <programme start="20241226031500 +0000" stop="20241226033000 +0000" channel="France24.starhub">
         <title>Talking Europe</title>
     </programme>
-    <programme start="20241225145200 +0000" stop="20241225150000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225151500 +0000" channel="France24.starhub">
+    <programme start="20241226033000 +0000" stop="20241226034000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225151500 +0000" stop="20241225153000 +0000" channel="France24.starhub">
-        <title>France In Focus</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225154500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225154500 +0000" stop="20241225160000 +0000" channel="France24.starhub">
-        <title>French Connections</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225161500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225161500 +0000" stop="20241225163000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225164500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225164500 +0000" stop="20241225170000 +0000" channel="France24.starhub">
-        <title>The 51 Percent</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225171500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225171500 +0000" stop="20241225172100 +0000" channel="France24.starhub">
-        <title>You Are Here</title>
-    </programme>
-    <programme start="20241225172100 +0000" stop="20241225173000 +0000" channel="France24.starhub">
-        <title>Fashion</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225174500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225174500 +0000" stop="20241225175000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241225175000 +0000" stop="20241225180000 +0000" channel="France24.starhub">
-        <title>French Connections</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225181000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225181000 +0000" stop="20241225183000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225184000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225184000 +0000" stop="20241225190000 +0000" channel="France24.starhub">
+    <programme start="20241226034000 +0000" stop="20241226040000 +0000" channel="France24.starhub">
         <title>Revisited</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="France24.starhub">
+    <programme start="20241226040000 +0000" stop="20241226041500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="France24.starhub">
+    <programme start="20241226041500 +0000" stop="20241226043000 +0000" channel="France24.starhub">
+        <title>Eye on Africa</title>
+    </programme>
+    <programme start="20241226043000 +0000" stop="20241226044500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225201500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225201500 +0000" stop="20241225203000 +0000" channel="France24.starhub">
+    <programme start="20241226044500 +0000" stop="20241226050000 +0000" channel="France24.starhub">
         <title>Arts24</title>
     </programme>
-    <programme start="20241225203000 +0000" stop="20241225204500 +0000" channel="France24.starhub">
+    <programme start="20241226050000 +0000" stop="20241226051500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225204500 +0000" stop="20241225210000 +0000" channel="France24.starhub">
-        <title>Eye on Africa</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225211500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225211500 +0000" stop="20241225213000 +0000" channel="France24.starhub">
+    <programme start="20241226051500 +0000" stop="20241226053000 +0000" channel="France24.starhub">
         <title>The 51 Percent</title>
     </programme>
-    <programme start="20241225213000 +0000" stop="20241225214600 +0000" channel="France24.starhub">
+    <programme start="20241226053000 +0000" stop="20241226054500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225214600 +0000" stop="20241225220000 +0000" channel="France24.starhub">
-        <title>Eye on Africa</title>
+    <programme start="20241226054500 +0000" stop="20241226055000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225221500 +0000" channel="France24.starhub">
+    <programme start="20241226055000 +0000" stop="20241226060000 +0000" channel="France24.starhub">
+        <title>Sports</title>
+    </programme>
+    <programme start="20241226060000 +0000" stop="20241226061500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225221500 +0000" stop="20241225223000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225224500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241225224500 +0000" stop="20241225230000 +0000" channel="France24.starhub">
+    <programme start="20241226061500 +0000" stop="20241226063000 +0000" channel="France24.starhub">
         <title>France In Focus</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241225231500 +0000" channel="France24.starhub">
+    <programme start="20241226063000 +0000" stop="20241226064500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241225231500 +0000" stop="20241225233000 +0000" channel="France24.starhub">
+    <programme start="20241226064500 +0000" stop="20241226065000 +0000" channel="France24.starhub">
+        <title>Focus</title>
+    </programme>
+    <programme start="20241226065000 +0000" stop="20241226070000 +0000" channel="France24.starhub">
         <title>French Connections</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="Astro Warna HD.starhub">
-        <title>RAI</title>
+    <programme start="20241226070000 +0000" stop="20241226071500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225004500 +0000" channel="Astro Warna HD.starhub">
-        <title>Lawak Sentral</title>
+    <programme start="20241226071500 +0000" stop="20241226073000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
     </programme>
-    <programme start="20241225004500 +0000" stop="20241225010000 +0000" channel="Astro Warna HD.starhub">
-        <title>Lawak Boss Boss</title>
+    <programme start="20241226073000 +0000" stop="20241226074500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="Astro Warna HD.starhub">
-        <title>Muka Buku</title>
+    <programme start="20241226074500 +0000" stop="20241226075000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="Astro Warna HD.starhub">
-        <title>Saka Sisters</title>
+    <programme start="20241226075000 +0000" stop="20241226080000 +0000" channel="France24.starhub">
+        <title>Sports</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="Astro Warna HD.starhub">
-        <title>Lawak Ke Dik?</title>
+    <programme start="20241226080000 +0000" stop="20241226083000 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="Astro Warna HD.starhub">
-        <title>Jep &amp; Judin</title>
+    <programme start="20241226083000 +0000" stop="20241226090000 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="Astro Warna HD.starhub">
-        <title>Jep &amp; Judin</title>
+    <programme start="20241226090000 +0000" stop="20241226091500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="Astro Warna HD.starhub">
-        <title>Bonda Bonding</title>
+    <programme start="20241226091500 +0000" stop="20241226093000 +0000" channel="France24.starhub">
+        <title>French Connections</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Astro Warna HD.starhub">
-        <title>Mama Mama Mia</title>
+    <programme start="20241226093000 +0000" stop="20241226094500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Astro Warna HD.starhub">
-        <title>Dalang Prank S2</title>
+    <programme start="20241226094500 +0000" stop="20241226095000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Astro Warna HD.starhub">
-        <title>Jihan Show S2</title>
+    <programme start="20241226095000 +0000" stop="20241226100000 +0000" channel="France24.starhub">
+        <title>Sports</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Astro Warna HD.starhub">
-        <title>Makhluk Manis Dalam Bis</title>
+    <programme start="20241226100000 +0000" stop="20241226101500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Astro Warna HD.starhub">
-        <title>Betul Ke Bohong? S7</title>
+    <programme start="20241226101500 +0000" stop="20241226103000 +0000" channel="France24.starhub">
+        <title>France In Focus</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225093000 +0000" channel="Astro Warna HD.starhub">
-        <title>Panggung Memori</title>
+    <programme start="20241226103000 +0000" stop="20241226104500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Astro Warna HD.starhub">
-        <title>Seminggu Sekali</title>
+    <programme start="20241226104500 +0000" stop="20241226110000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Astro Warna HD.starhub">
-        <title>Opocot Melatah Mega</title>
+    <programme start="20241226110000 +0000" stop="20241226111500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Astro Warna HD.starhub">
-        <title>Lara Oh Lara!</title>
+    <programme start="20241226111500 +0000" stop="20241226111600 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Astro Warna HD.starhub">
-        <title>Padan Muka!</title>
+    <programme start="20241226111600 +0000" stop="20241226113000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225123000 +0000" channel="Astro Warna HD.starhub">
-        <title>Yak Yak Yey</title>
+    <programme start="20241226113000 +0000" stop="20241226114500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Astro Warna HD.starhub">
-        <title>Life At Thinker</title>
+    <programme start="20241226114500 +0000" stop="20241226115000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="Astro Warna HD.starhub">
-        <title>Opocot Next Level</title>
+    <programme start="20241226115000 +0000" stop="20241226120000 +0000" channel="France24.starhub">
+        <title>Sports</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="Astro Warna HD.starhub">
-        <title>Malaysian Sihir Stories</title>
+    <programme start="20241226120000 +0000" stop="20241226123000 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225163000 +0000" channel="Astro Warna HD.starhub">
-        <title>Gebetan Rasa Durian</title>
+    <programme start="20241226123000 +0000" stop="20241226130000 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Astro Warna HD.starhub">
-        <title>Hello Fraser</title>
+    <programme start="20241226130000 +0000" stop="20241226131500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="Astro Warna HD.starhub">
-        <title>Redah Kasi Pecah</title>
+    <programme start="20241226131500 +0000" stop="20241226132100 +0000" channel="France24.starhub">
+        <title>You Are Here</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="Astro Warna HD.starhub">
-        <title>Makhluk Manis Dalam Bis</title>
+    <programme start="20241226132100 +0000" stop="20241226133000 +0000" channel="France24.starhub">
+        <title>Fashion</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Astro Warna HD.starhub">
-        <title>Expose Mistik: Kisah Seram</title>
+    <programme start="20241226133000 +0000" stop="20241226134500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Astro Warna HD.starhub">
-        <title>Sape Terer</title>
+    <programme start="20241226134500 +0000" stop="20241226135000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225220000 +0000" channel="Astro Warna HD.starhub">
-        <title>Mama Mama Mia</title>
+    <programme start="20241226135000 +0000" stop="20241226140000 +0000" channel="France24.starhub">
+        <title>Sports</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Astro Warna HD.starhub">
-        <title>3 Dara Pingitan</title>
+    <programme start="20241226140000 +0000" stop="20241226141000 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241225223000 +0000" stop="20241225233000 +0000" channel="Astro Warna HD.starhub">
-        <title>Mystery Ranking Show Malaysia</title>
+    <programme start="20241226141000 +0000" stop="20241226143000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Astro Warna HD.starhub">
-        <title>Pulau Ke Pulau</title>
+    <programme start="20241226143000 +0000" stop="20241226144000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226144000 +0000" stop="20241226150000 +0000" channel="France24.starhub">
+        <title>Revisited</title>
+    </programme>
+    <programme start="20241226150000 +0000" stop="20241226151500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226151500 +0000" stop="20241226153000 +0000" channel="France24.starhub">
+        <title>France In Focus</title>
+    </programme>
+    <programme start="20241226153000 +0000" stop="20241226154500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226154500 +0000" stop="20241226160000 +0000" channel="France24.starhub">
+        <title>French Connections</title>
+    </programme>
+    <programme start="20241226160000 +0000" stop="20241226161500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226161500 +0000" stop="20241226163000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241226163000 +0000" stop="20241226164500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226164500 +0000" stop="20241226170000 +0000" channel="France24.starhub">
+        <title>The 51 Percent</title>
+    </programme>
+    <programme start="20241226170000 +0000" stop="20241226171500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226171500 +0000" stop="20241226172100 +0000" channel="France24.starhub">
+        <title>You Are Here</title>
+    </programme>
+    <programme start="20241226172100 +0000" stop="20241226173000 +0000" channel="France24.starhub">
+        <title>Fashion</title>
+    </programme>
+    <programme start="20241226173000 +0000" stop="20241226174500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226174500 +0000" stop="20241226175000 +0000" channel="France24.starhub">
+        <title>Focus</title>
+    </programme>
+    <programme start="20241226175000 +0000" stop="20241226180000 +0000" channel="France24.starhub">
+        <title>French Connections</title>
+    </programme>
+    <programme start="20241226180000 +0000" stop="20241226181000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226181000 +0000" stop="20241226183000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
+    </programme>
+    <programme start="20241226183000 +0000" stop="20241226184000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226184000 +0000" stop="20241226190000 +0000" channel="France24.starhub">
+        <title>Revisited</title>
+    </programme>
+    <programme start="20241226190000 +0000" stop="20241226193000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226193000 +0000" stop="20241226200000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226200000 +0000" stop="20241226201500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226201500 +0000" stop="20241226203000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241226203000 +0000" stop="20241226204500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226204500 +0000" stop="20241226210000 +0000" channel="France24.starhub">
+        <title>Eye on Africa</title>
+    </programme>
+    <programme start="20241226210000 +0000" stop="20241226211500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226211500 +0000" stop="20241226213000 +0000" channel="France24.starhub">
+        <title>The 51 Percent</title>
+    </programme>
+    <programme start="20241226213000 +0000" stop="20241226214600 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226214600 +0000" stop="20241226220000 +0000" channel="France24.starhub">
+        <title>Eye on Africa</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241226221500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226221500 +0000" stop="20241226223000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
+    </programme>
+    <programme start="20241226223000 +0000" stop="20241226224500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226224500 +0000" stop="20241226230000 +0000" channel="France24.starhub">
+        <title>France In Focus</title>
+    </programme>
+    <programme start="20241226230000 +0000" stop="20241226231500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241226231500 +0000" stop="20241226233000 +0000" channel="France24.starhub">
+        <title>French Connections</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="Astro Warna HD.starhub">
         <title>Mamu, Masaklah Kau!</title>
@@ -20678,6 +20579,105 @@
     </programme>
     <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="Astro Warna HD.starhub">
         <title>Selera Rasa Seksa</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228023000 +0000" channel="Astro Warna HD.starhub">
+        <title>MLM Tergempak 2018</title>
+    </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="Astro Warna HD.starhub">
+        <title>Opocot Melatah Budak Pejabat</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="Astro Warna HD.starhub">
+        <title>RSVP Aku Datang</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kuali Terbalik</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="Astro Warna HD.starhub">
+        <title>Komediri S2</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228060000 +0000" channel="Astro Warna HD.starhub">
+        <title>Tele Berkembar</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Astro Warna HD.starhub">
+        <title>Ting Tong… Love</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228090000 +0000" channel="Astro Warna HD.starhub">
+        <title>Aunty Reporting For Duty</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228100000 +0000" channel="Astro Warna HD.starhub">
+        <title>Tanya Sama Pokok</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="Astro Warna HD.starhub">
+        <title>Lawak Minggu Ini 2013</title>
+    </programme>
+    <programme start="20241228110000 +0000" stop="20241228120000 +0000" channel="Astro Warna HD.starhub">
+        <title>Buka Kedai : Now In Tokyo</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="Astro Warna HD.starhub">
+        <title>Jangan Buat Hal</title>
+    </programme>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Astro Warna HD.starhub">
+        <title>Semanis Fondant</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228150000 +0000" channel="Astro Warna HD.starhub">
+        <title>Evolusi KL Drift</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="Astro Warna HD.starhub">
+        <title>Pecah Perut</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228163000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kalau Berani 1 vs 0</title>
+    </programme>
+    <programme start="20241228163000 +0000" stop="20241228170000 +0000" channel="Astro Warna HD.starhub">
+        <title>Meja Panggang</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="Astro Warna HD.starhub">
+        <title>Punchline</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="Astro Warna HD.starhub">
+        <title>MLM Terbaik 2014</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Astro Warna HD.starhub">
+        <title>Aunty Reporting For Duty</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Astro Warna HD.starhub">
+        <title>Ting Tong… Love</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Astro Warna HD.starhub">
+        <title>Cik Paris Diva Kampung</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="Astro Warna HD.starhub">
+        <title>Akak Akak Sangat</title>
+    </programme>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="Astro Warna HD.starhub">
+        <title>Bas Stop!</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="Astro Warna HD.starhub">
+        <title>Selera Rasa Seksa</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229023000 +0000" channel="Astro Warna HD.starhub">
+        <title>Buka Kedai : Now In Tokyo</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="Astro Warna HD.starhub">
+        <title>Opocot Melatah Budak Pejabat</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229033000 +0000" channel="Astro Warna HD.starhub">
+        <title>RSVP Aku Datang</title>
+    </programme>
+    <programme start="20241229033000 +0000" stop="20241229040000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kuali Terbalik</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229043000 +0000" channel="Astro Warna HD.starhub">
+        <title>Komediri S2</title>
+    </programme>
+    <programme start="20241229043000 +0000" stop="20241229060000 +0000" channel="Astro Warna HD.starhub">
+        <title>Tele Berkembar</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Astro Warna HD.starhub">
+        <title>7 Minggu Sebelum Kahwin</title>
+    </programme>
+    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="Astro Warna HD.starhub">
+        <title>Aunty Reporting For Duty</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Cartoonito HD.starhub">
         <title>Holiday Spirit/Snow Worries/Fangsgiving/Warm And Fuzzy/Think Big</title>
@@ -20979,78 +20979,6 @@
     <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Cartoonito HD.starhub">
         <title>Looney Moon/Taz Recycle</title>
     </programme>
-    <programme start="20241224234000 +0000" stop="20241225003000 +0000" channel="AXN HD.starhub">
-        <title>Welcome To The Snow Globe, Part Two</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225012000 +0000" channel="AXN HD.starhub">
-        <title>Who&#039;s Your Caddy?</title>
-    </programme>
-    <programme start="20241225012000 +0000" stop="20241225021000 +0000" channel="AXN HD.starhub">
-        <title>Big Ball Bromance</title>
-    </programme>
-    <programme start="20241225021000 +0000" stop="20241225030000 +0000" channel="AXN HD.starhub">
-        <title>Black Mirror</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225035500 +0000" channel="AXN HD.starhub">
-        <title>Young Legend</title>
-    </programme>
-    <programme start="20241225035500 +0000" stop="20241225044500 +0000" channel="AXN HD.starhub">
-        <title>Who&#039;s Your Caddy?</title>
-    </programme>
-    <programme start="20241225044500 +0000" stop="20241225054000 +0000" channel="AXN HD.starhub">
-        <title>Welcome To The Snow Globe, Part Two</title>
-    </programme>
-    <programme start="20241225054000 +0000" stop="20241225063500 +0000" channel="AXN HD.starhub">
-        <title>Black Mirror</title>
-    </programme>
-    <programme start="20241225063500 +0000" stop="20241225073000 +0000" channel="AXN HD.starhub">
-        <title>Young Legend</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225091000 +0000" channel="AXN HD.starhub">
-        <title>Ultraviolet</title>
-    </programme>
-    <programme start="20241225091000 +0000" stop="20241225100500 +0000" channel="AXN HD.starhub">
-        <title>Dog And Pony Show</title>
-    </programme>
-    <programme start="20241225100500 +0000" stop="20241225110000 +0000" channel="AXN HD.starhub">
-        <title>Enter Sandman, Part 2</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225115500 +0000" channel="AXN HD.starhub">
-        <title>Qualifier 5 (Part 2)</title>
-    </programme>
-    <programme start="20241225115500 +0000" stop="20241225125000 +0000" channel="AXN HD.starhub">
-        <title>Transaction</title>
-    </programme>
-    <programme start="20241225125000 +0000" stop="20241225134500 +0000" channel="AXN HD.starhub">
-        <title>True Crime</title>
-    </programme>
-    <programme start="20241225134500 +0000" stop="20241225154500 +0000" channel="AXN HD.starhub">
-        <title>The Taking Of Pelham 123</title>
-    </programme>
-    <programme start="20241225154500 +0000" stop="20241225180000 +0000" channel="AXN HD.starhub">
-        <title>The Equalizer 2</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225185000 +0000" channel="AXN HD.starhub">
-        <title>Dog And Pony Show</title>
-    </programme>
-    <programme start="20241225185000 +0000" stop="20241225194500 +0000" channel="AXN HD.starhub">
-        <title>Qualifier 5 (Part 2)</title>
-    </programme>
-    <programme start="20241225194500 +0000" stop="20241225204000 +0000" channel="AXN HD.starhub">
-        <title>True Crime</title>
-    </programme>
-    <programme start="20241225204000 +0000" stop="20241225211000 +0000" channel="AXN HD.starhub">
-        <title>Whacked Out Sports (Season 16)</title>
-    </programme>
-    <programme start="20241225211000 +0000" stop="20241225220000 +0000" channel="AXN HD.starhub">
-        <title>Welcome To The Snow Globe, Part Two</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225225000 +0000" channel="AXN HD.starhub">
-        <title>Qualifier 5 (Part 2)</title>
-    </programme>
-    <programme start="20241225225000 +0000" stop="20241225234000 +0000" channel="AXN HD.starhub">
-        <title>True Crime</title>
-    </programme>
     <programme start="20241225234000 +0000" stop="20241226003000 +0000" channel="AXN HD.starhub">
         <title>Tara And Jessica&#039;s High School Reunion / Cat Lady</title>
     </programme>
@@ -21278,6 +21206,78 @@
     </programme>
     <programme start="20241229002500 +0000" stop="20241229012500 +0000" channel="AXN HD.starhub">
         <title>Ghosts</title>
+    </programme>
+    <programme start="20241229012500 +0000" stop="20241229022000 +0000" channel="AXN HD.starhub">
+        <title>Lucas</title>
+    </programme>
+    <programme start="20241229022000 +0000" stop="20241229031500 +0000" channel="AXN HD.starhub">
+        <title>Enter Sandman, Part 2</title>
+    </programme>
+    <programme start="20241229031500 +0000" stop="20241229045500 +0000" channel="AXN HD.starhub">
+        <title>Ultraviolet</title>
+    </programme>
+    <programme start="20241229045500 +0000" stop="20241229061500 +0000" channel="AXN HD.starhub">
+        <title>Hard Choices Must Be Made</title>
+    </programme>
+    <programme start="20241229061500 +0000" stop="20241229071000 +0000" channel="AXN HD.starhub">
+        <title>Someone She Knew</title>
+    </programme>
+    <programme start="20241229071000 +0000" stop="20241229080500 +0000" channel="AXN HD.starhub">
+        <title>Life</title>
+    </programme>
+    <programme start="20241229080500 +0000" stop="20241229090000 +0000" channel="AXN HD.starhub">
+        <title>Enter Sandman, Part 2</title>
+    </programme>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="AXN HD.starhub">
+        <title>We&#039;re Finding Our Pot Of Gold</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="AXN HD.starhub">
+        <title>A Sunset, Seattle Scramble</title>
+    </programme>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="AXN HD.starhub">
+        <title>Lucas</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229142000 +0000" channel="AXN HD.starhub">
+        <title>Ghostbusters: Afterlife</title>
+    </programme>
+    <programme start="20241229142000 +0000" stop="20241229160500 +0000" channel="AXN HD.starhub">
+        <title>Venom: Let There Be Carnage</title>
+    </programme>
+    <programme start="20241229160500 +0000" stop="20241229180500 +0000" channel="AXN HD.starhub">
+        <title>The Taking Of Pelham 123</title>
+    </programme>
+    <programme start="20241229180500 +0000" stop="20241229190500 +0000" channel="AXN HD.starhub">
+        <title>The Other Shoe</title>
+    </programme>
+    <programme start="20241229190500 +0000" stop="20241229200000 +0000" channel="AXN HD.starhub">
+        <title>Sleeping Dogs</title>
+    </programme>
+    <programme start="20241229200000 +0000" stop="20241229210000 +0000" channel="AXN HD.starhub">
+        <title>Bark And Bite</title>
+    </programme>
+    <programme start="20241229210000 +0000" stop="20241229220000 +0000" channel="AXN HD.starhub">
+        <title>Dogged Pursuit</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241229225000 +0000" channel="AXN HD.starhub">
+        <title>Semi-Finals 1 (Part 2)</title>
+    </programme>
+    <programme start="20241229225000 +0000" stop="20241229234000 +0000" channel="AXN HD.starhub">
+        <title>Battle Of The Biggest Fans</title>
+    </programme>
+    <programme start="20241229234000 +0000" stop="20241230003500 +0000" channel="AXN HD.starhub">
+        <title>Our Home On Native Land</title>
+    </programme>
+    <programme start="20241230003500 +0000" stop="20241230012500 +0000" channel="AXN HD.starhub">
+        <title>Paymer Vs. Paymer</title>
+    </programme>
+    <programme start="20241230012500 +0000" stop="20241230021500 +0000" channel="AXN HD.starhub">
+        <title>Dogged Pursuit</title>
+    </programme>
+    <programme start="20241230021500 +0000" stop="20241230030500 +0000" channel="AXN HD.starhub">
+        <title>Double Fault</title>
+    </programme>
+    <programme start="20241230030500 +0000" stop="20241230040000 +0000" channel="AXN HD.starhub">
+        <title>Our Home On Native Land</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225001000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -22179,33 +22179,6 @@
     <programme start="20241228041500 +0000" stop="20241228044500 +0000" channel="BBC Lifestyle.starhub">
         <title>Midlands</title>
     </programme>
-    <programme start="20241224223000 +0000" stop="20241225010000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Nalla Pambu</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="KTV HD.starhub">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225043000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Seena Thaana 001</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225073000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Aintham Padai</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Shajahan</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Vennila Kabadi Kuzhu 2</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225170000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Doctor</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Kadhalil Vizhunden</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225223000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Vanakkam Vathiyare</title>
-    </programme>
     <programme start="20241225223000 +0000" stop="20241226010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Ore Ratham</title>
     </programme>
@@ -22479,50 +22452,32 @@
     <programme start="20250112170000 +0000" stop="20250112220000 +0000" channel="KTV HD.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225003000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Rd 1 - 16* (Ronnie O&#039;Sullivan v Jackson Page)</title>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Criterium - Singapore Criterium by Le Tour de France Final Highlights</title>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225043000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Round 2</title>
+    <programme start="20250113100000 +0000" stop="20250113170000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Brussels (Belgium) Final Day 1</title>
+    <programme start="20250113170000 +0000" stop="20250113220000 +0000" channel="KTV HD.starhub">
+        <title>Movie</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Brisbane International presented by Evie (500) SF 1</title>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225083000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Brisbane International presented by Evie (500) SF 2</title>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225120000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Semi-Final 2</title>
+    <programme start="20250114100000 +0000" stop="20250114170000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Taoyuan Pauian Pilots vs Hiroshima Dragonflies</title>
+    <programme start="20250114170000 +0000" stop="20250114220000 +0000" channel="KTV HD.starhub">
+        <title>Movie</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Abu Dhabi HSBC Championship</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225163000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>WTA Finals Riyadh Day 8 Singles Final</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>supertri Toulouse Highlights</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225190000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Rd 2 - 21 (Judd Trump v Tom Ford)</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225223000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Women&#039;s World Matchplay</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ISPS HANDA Championship</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 4</title>
+    <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="KTV HD.starhub">
+        <title>Information Not Available</title>
     </programme>
     <programme start="20241225233000 +0000" stop="20241226013000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 2 - 24 (Ryan Day v Ronnie O&#039;Sullivan)</title>
@@ -22779,86 +22734,50 @@
     <programme start="20241231193000 +0000" stop="20241231200000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Ibiza Marathon</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Sun TV.starhub">
-        <title>Naangalum Chutties Thaan</title>
+    <programme start="20241231200000 +0000" stop="20241231210000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Desafio China by La Vuetta</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="Sun TV.starhub">
-        <title>Sundari Vetri Kondattam</title>
+    <programme start="20241231210000 +0000" stop="20241231220000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>UK Challenge - England</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
+    <programme start="20241231220000 +0000" stop="20241231230000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Challenge Beijing - China</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="Sun TV.starhub">
-        <title>Sundari Vetri Kondattam</title>
+    <programme start="20241231230000 +0000" stop="20241231233000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>FedEx Open de France</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225053000 +0000" channel="Sun TV.starhub">
-        <title>Movie - PATTAS</title>
+    <programme start="20241231233000 +0000" stop="20250101010000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Brisbane International presented by EVIE (500) Day 1 Session 2</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+    <programme start="20250101010000 +0000" stop="20250101070000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Brisbane International presented by EVIE (500) Day 2 Session 1</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Sun TV.starhub">
-        <title>ilakkiya</title>
+    <programme start="20250101070000 +0000" stop="20250101110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Brisbane International presented by EVIE (500) Day 2 Session 2</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Sun TV.starhub">
-        <title>LAKSHMI</title>
+    <programme start="20250101110000 +0000" stop="20250101113000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Aramco Invitational Tournament</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="Sun TV.starhub">
-        <title>ANANDA RAGAM</title>
+    <programme start="20250101113000 +0000" stop="20250101120000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>DP World Tour Championship, Dubai</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - TIK TIK TIK</title>
+    <programme start="20250101120000 +0000" stop="20250101123000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Dongfeng Voyah · Wuhan Open (1000)</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
+    <programme start="20250101123000 +0000" stop="20250101163000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Quarter-Finals: Afternoon Session</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - TIK TIK TIK</title>
+    <programme start="20250101163000 +0000" stop="20250101170000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Soudal Open</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Sun TV.starhub">
-        <title>RAMAYANAM</title>
+    <programme start="20250101170000 +0000" stop="20250101173000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>European Open</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Sun TV.starhub">
-        <title>Annam</title>
+    <programme start="20250101173000 +0000" stop="20250101190000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Kinoshita Group Japan Open (250) Finals</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Sun TV.starhub">
-        <title>Kayal</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Sun TV.starhub">
-        <title>Marumagal</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Sun TV.starhub">
-        <title>Moondru Mudichu</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Sun TV.starhub">
-        <title>Ranjani</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Sun TV.starhub">
-        <title>Malli</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Sun TV.starhub">
-        <title>Malar - Serial</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225230000 +0000" channel="Sun TV.starhub">
-        <title>SONGS</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Sun TV.starhub">
-        <title>Vanakkam Thamizha</title>
+    <programme start="20250101190000 +0000" stop="20250101230000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Quarter-Finals: Evening Session</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
@@ -23079,83 +22998,86 @@
     <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
     </programme>
-    <programme start="20241224235000 +0000" stop="20241225004500 +0000" channel="BBC Earth HD.starhub">
-        <title>Argentina</title>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="Sun TV.starhub">
+        <title>MANAMAGALE VAA</title>
     </programme>
-    <programme start="20241225004500 +0000" stop="20241225014500 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 2</title>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="Sun TV.starhub">
+        <title>Punnagai Poove</title>
     </programme>
-    <programme start="20241225014500 +0000" stop="20241225024000 +0000" channel="BBC Earth HD.starhub">
-        <title>Best Laid Plans</title>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="Sun TV.starhub">
+        <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20241225024000 +0000" stop="20241225033000 +0000" channel="BBC Earth HD.starhub">
-        <title>Isle of Wight</title>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="Sun TV.starhub">
+        <title>Ilakkiya</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225042500 +0000" channel="BBC Earth HD.starhub">
-        <title>Columbia</title>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Sun TV.starhub">
+        <title>LAKSHMI</title>
     </programme>
-    <programme start="20241225042500 +0000" stop="20241225052500 +0000" channel="BBC Earth HD.starhub">
-        <title>The Last Frontier</title>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Sun TV.starhub">
+        <title>ANANDA RAGAM</title>
     </programme>
-    <programme start="20241225052500 +0000" stop="20241225062500 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 2</title>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Sun TV.starhub">
+        <title>Movie - SOORARAI POTRU</title>
     </programme>
-    <programme start="20241225062500 +0000" stop="20241225072000 +0000" channel="BBC Earth HD.starhub">
-        <title>Isle of Wight</title>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Sun TV.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20241225072000 +0000" stop="20241225081500 +0000" channel="BBC Earth HD.starhub">
-        <title>Best Laid Plans</title>
+    <programme start="20241228083000 +0000" stop="20241228103000 +0000" channel="Sun TV.starhub">
+        <title>Movie Contd - SOORARAI POTRU</title>
     </programme>
-    <programme start="20241225081500 +0000" stop="20241225091000 +0000" channel="BBC Earth HD.starhub">
-        <title>Argentina</title>
+    <programme start="20241228103000 +0000" stop="20241228110000 +0000" channel="Sun TV.starhub">
+        <title>RAMAYANAM</title>
     </programme>
-    <programme start="20241225091000 +0000" stop="20241225101000 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 2</title>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="Sun TV.starhub">
+        <title>Annam</title>
     </programme>
-    <programme start="20241225101000 +0000" stop="20241225110500 +0000" channel="BBC Earth HD.starhub">
-        <title>Columbia</title>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="Sun TV.starhub">
+        <title>Kayal</title>
     </programme>
-    <programme start="20241225110500 +0000" stop="20241225120000 +0000" channel="BBC Earth HD.starhub">
-        <title>Brazil</title>
+    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="Sun TV.starhub">
+        <title>Marumagal</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225125500 +0000" channel="BBC Earth HD.starhub">
-        <title>Monkeys</title>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Sun TV.starhub">
+        <title>Moondru Mudichu</title>
     </programme>
-    <programme start="20241225125500 +0000" stop="20241225135500 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 1</title>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="Sun TV.starhub">
+        <title>Singapenne</title>
     </programme>
-    <programme start="20241225135500 +0000" stop="20241225145000 +0000" channel="BBC Earth HD.starhub">
-        <title>Lions</title>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="Sun TV.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20241225145000 +0000" stop="20241225154000 +0000" channel="BBC Earth HD.starhub">
-        <title>Brazil</title>
+    <programme start="20241228140000 +0000" stop="20241228143000 +0000" channel="Sun TV.starhub">
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
-    <programme start="20241225154000 +0000" stop="20241225163500 +0000" channel="BBC Earth HD.starhub">
-        <title>Monkeys</title>
+    <programme start="20241228143000 +0000" stop="20241228150000 +0000" channel="Sun TV.starhub">
+        <title>Ranjani</title>
     </programme>
-    <programme start="20241225163500 +0000" stop="20241225173500 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 1</title>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="Sun TV.starhub">
+        <title>Malli</title>
     </programme>
-    <programme start="20241225173500 +0000" stop="20241225183000 +0000" channel="BBC Earth HD.starhub">
-        <title>Lions</title>
+    <programme start="20241228153000 +0000" stop="20241228160000 +0000" channel="Sun TV.starhub">
+        <title>Malar - Serial</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225192000 +0000" channel="BBC Earth HD.starhub">
-        <title>Brazil</title>
+    <programme start="20241228160000 +0000" stop="20241228163000 +0000" channel="Sun TV.starhub">
+        <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20241225192000 +0000" stop="20241225201500 +0000" channel="BBC Earth HD.starhub">
-        <title>Monkeys</title>
+    <programme start="20241228163000 +0000" stop="20241229000000 +0000" channel="Sun TV.starhub">
+        <title>SONGS</title>
     </programme>
-    <programme start="20241225201500 +0000" stop="20241225211000 +0000" channel="BBC Earth HD.starhub">
-        <title>Best Laid Plans</title>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="Sun TV.starhub">
+        <title>Kalyana Malai</title>
     </programme>
-    <programme start="20241225211000 +0000" stop="20241225220000 +0000" channel="BBC Earth HD.starhub">
-        <title>Columbia</title>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="Sun TV.starhub">
+        <title>Varuthapadatha Sangam - Talk Show</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241225225500 +0000" channel="BBC Earth HD.starhub">
-        <title>Monkeys</title>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="Sun TV.starhub">
+        <title>Sun Natchathira Kondattam (held at Vellore) - Part 4</title>
     </programme>
-    <programme start="20241225225500 +0000" stop="20241225235000 +0000" channel="BBC Earth HD.starhub">
-        <title>Lions</title>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="Sun TV.starhub">
+        <title>Movie- PULI</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="Sun TV.starhub">
+        <title>News</title>
     </programme>
     <programme start="20241225235000 +0000" stop="20241226004500 +0000" channel="BBC Earth HD.starhub">
         <title>Brazil</title>
@@ -23379,119 +23301,83 @@
     <programme start="20241228143500 +0000" stop="20241228153000 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 1</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="CNN HD.starhub">
-        <title>Generative AI</title>
+    <programme start="20241228153000 +0000" stop="20241228162500 +0000" channel="BBC Earth HD.starhub">
+        <title>Best Laid Plans</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="CNN HD.starhub">
-        <title>BCI Therapy and Gaming</title>
+    <programme start="20241228162500 +0000" stop="20241228172000 +0000" channel="BBC Earth HD.starhub">
+        <title>Monkeys</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="CNN HD.starhub">
-        <title>Miracle On The Hudson: 15 Years Later</title>
+    <programme start="20241228172000 +0000" stop="20241228181500 +0000" channel="BBC Earth HD.starhub">
+        <title>Lions</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="CNN HD.starhub">
-        <title>Mongolia</title>
+    <programme start="20241228181500 +0000" stop="20241228191500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 2</title>
     </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="CNN HD.starhub">
-        <title>Macao</title>
+    <programme start="20241228191500 +0000" stop="20241228201000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225033000 +0000" channel="CNN HD.starhub">
-        <title>Fresh Routes</title>
+    <programme start="20241228201000 +0000" stop="20241228210500 +0000" channel="BBC Earth HD.starhub">
+        <title>Best Laid Plans</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="CNN HD.starhub">
-        <title>Tokyo</title>
+    <programme start="20241228210500 +0000" stop="20241228220000 +0000" channel="BBC Earth HD.starhub">
+        <title>Lions</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="CNN HD.starhub">
-        <title>Best of Amanpour 2</title>
+    <programme start="20241228220000 +0000" stop="20241228231000 +0000" channel="BBC Earth HD.starhub">
+        <title>Saving Asia</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225053000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
+    <programme start="20241228231000 +0000" stop="20241229000500 +0000" channel="BBC Earth HD.starhub">
+        <title>Monkeys</title>
     </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="CNN HD.starhub">
-        <title>Buyers and Collectors</title>
+    <programme start="20241229000500 +0000" stop="20241229010000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 2</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="CNN HD.starhub">
-        <title>The Art of African Textiles</title>
+    <programme start="20241229010000 +0000" stop="20241229015500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="CNN HD.starhub">
-        <title>African Art and Philanthropy</title>
+    <programme start="20241229015500 +0000" stop="20241229030000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 4</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
+    <programme start="20241229030000 +0000" stop="20241229041000 +0000" channel="BBC Earth HD.starhub">
+        <title>Saving Asia</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="CNN HD.starhub">
-        <title>Sustainable Fashion</title>
+    <programme start="20241229041000 +0000" stop="20241229050500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 8</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="CNN HD.starhub">
-        <title>Reviving Ecosystems</title>
+    <programme start="20241229050500 +0000" stop="20241229055500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
+    <programme start="20241229055500 +0000" stop="20241229070000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 4</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="CNN HD.starhub">
-        <title>Rovaniemi, Finland</title>
+    <programme start="20241229070000 +0000" stop="20241229075000 +0000" channel="BBC Earth HD.starhub">
+        <title>Monkeys</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="CNN HD.starhub">
-        <title>Food for Thought</title>
+    <programme start="20241229075000 +0000" stop="20241229090000 +0000" channel="BBC Earth HD.starhub">
+        <title>Saving Asia</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="CNN HD.starhub">
-        <title>Hokkaido</title>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="BBC Earth HD.starhub">
+        <title>Family Matters</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
+    <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 4</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="CNN HD.starhub">
-        <title>2024/2025 Champions League: The Road to Munich</title>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 3</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
+    <programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
+    <programme start="20241229130000 +0000" stop="20241229140500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 5</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNN/US)</title>
+    <programme start="20241229140500 +0000" stop="20241229145500 +0000" channel="BBC Earth HD.starhub">
+        <title>Isle of Wight</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNN/US)</title>
+    <programme start="20241229145500 +0000" stop="20241229155500 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="CNN HD.starhub">
-        <title>Qatar</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="CNN HD.starhub">
-        <title>Inside Politics</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="CNN HD.starhub">
-        <title>Best of Amanpour 1</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="CNN HD.starhub">
-        <title>On Oman</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="CNN HD.starhub">
-        <title>Miracle On The Hudson: 15 Years Later</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="CNN HD.starhub">
-        <title>Vienna</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="CNN HD.starhub">
-        <title>Japan</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="CNN HD.starhub">
-        <title>2024/2025 Champions League: The Road to Munich</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="CNN HD.starhub">
-        <title>Olympic Fashion</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="CNN HD.starhub">
-        <title>African Art and Philanthropy</title>
+    <programme start="20241229155500 +0000" stop="20241229165000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="CNN HD.starhub">
         <title>The Art of African Textiles</title>
@@ -23679,41 +23565,119 @@
     <programme start="20241227204500 +0000" stop="20241227210000 +0000" channel="CNN HD.starhub">
         <title>Australia&#039;s Melbourne Sandbelt</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225020000 +0000" channel="Cinema One Global.starhub">
-        <title>Daddy O! Baby O!</title>
+    <programme start="20241227210000 +0000" stop="20241227220000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225040000 +0000" channel="Cinema One Global.starhub">
-        <title>Wansapanataym</title>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="CNN HD.starhub">
+        <title>The Situation Room</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225060000 +0000" channel="Cinema One Global.starhub">
-        <title>Mano Po 5: Gua Ai Di (I Love You)</title>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225080000 +0000" channel="Cinema One Global.starhub">
-        <title>Maybe This Time</title>
+    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="CNN HD.starhub">
+        <title>The Situation Room</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225100000 +0000" channel="Cinema One Global.starhub">
-        <title>Ang Tanging Pamilya</title>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="CNN HD.starhub">
+        <title>Erin Burnett OutFront</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225120000 +0000" channel="Cinema One Global.starhub">
-        <title>Way Back Home</title>
+    <programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="CNN HD.starhub">
+        <title>Anderson Cooper 360</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="Cinema One Global.starhub">
-        <title>Yamashita: The Tiger&#039;s Treasure</title>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="CNN HD.starhub">
+        <title>The Source</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225160000 +0000" channel="Cinema One Global.starhub">
-        <title>Starting Over Again</title>
+    <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="CNN HD.starhub">
+        <title>CNN NewsNight</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225180000 +0000" channel="Cinema One Global.starhub">
-        <title>Sa&#039;yo Lamang</title>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="CNN HD.starhub">
+        <title>Best of Amanpour 3</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225200000 +0000" channel="Cinema One Global.starhub">
-        <title>Bata Pa Si Sabel</title>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225220000 +0000" channel="Cinema One Global.starhub">
-        <title>Burger Boys</title>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="CNN HD.starhub">
+        <title>Kofi Kinaata; Alikiba</title>
     </programme>
-    <programme start="20241225220000 +0000" stop="20241226000000 +0000" channel="Cinema One Global.starhub">
-        <title>Sana Naman</title>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="CNN HD.starhub">
+        <title>Miami</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="CNN HD.starhub">
+        <title>15 Years of African Voices</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228090000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228100000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="CNN HD.starhub">
+        <title>15 Years of African Voices</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="CNN HD.starhub">
+        <title>Australia&#039;s Melbourne Sandbelt</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228130000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning Weekend</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="CNN HD.starhub">
+        <title>First of All</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="CNN HD.starhub">
+        <title>Smerconish</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228160000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="CNN HD.starhub">
+        <title>The Amanpour Hour</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="CNN HD.starhub">
+        <title>Doha F1</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="CNN HD.starhub">
+        <title>Australia&#039;s Melbourne Sandbelt</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228190000 +0000" channel="CNN HD.starhub">
+        <title>Miami</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="CNN HD.starhub">
+        <title>All the Best, All the Worst 2024</title>
+    </programme>
+    <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228223000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20241228223000 +0000" stop="20241228230000 +0000" channel="CNN HD.starhub">
+        <title>Uganda&#039;s Female Entrepreneurs</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="CNN HD.starhub">
+        <title>Smerconish</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226020000 +0000" channel="Cinema One Global.starhub">
         <title>Nobody, Nobody But Juan</title>
@@ -23979,47 +23943,41 @@
     <programme start="20250102020000 +0000" stop="20250102040000 +0000" channel="Cinema One Global.starhub">
         <title>Hindi Pa Tapos Ang Labada, Darling</title>
     </programme>
-    <programme start="20241224231500 +0000" stop="20241225005500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Fallen Angels</title>
+    <programme start="20250102040000 +0000" stop="20250102060000 +0000" channel="Cinema One Global.starhub">
+        <title>Hulihin: Probinsiyanong Mandurukot</title>
     </programme>
-    <programme start="20241225005500 +0000" stop="20241225030000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Infernal Affairs III</title>
+    <programme start="20250102060000 +0000" stop="20250102080000 +0000" channel="Cinema One Global.starhub">
+        <title>Laban Ko Ito, Walang Dapat Madamay</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225050500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Rob-B-Hood</title>
+    <programme start="20250102080000 +0000" stop="20250102100000 +0000" channel="Cinema One Global.starhub">
+        <title>Kuya Wes</title>
     </programme>
-    <programme start="20241225050500 +0000" stop="20241225064000 +0000" channel="Celestial Movies HD.starhub">
-        <title>My School Mate, The Barbarian</title>
+    <programme start="20250102100000 +0000" stop="20250102120000 +0000" channel="Cinema One Global.starhub">
+        <title>Suddenly It&#039;s Magic</title>
     </programme>
-    <programme start="20241225064000 +0000" stop="20241225081000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Let&#039;s Make Laugh II</title>
+    <programme start="20250102120000 +0000" stop="20250102140000 +0000" channel="Cinema One Global.starhub">
+        <title>Love Me Tomorrow</title>
     </programme>
-    <programme start="20241225081000 +0000" stop="20241225100000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Lifeline</title>
+    <programme start="20250102140000 +0000" stop="20250102160000 +0000" channel="Cinema One Global.starhub">
+        <title>Mamarazzi</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225113000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Iron Monkey</title>
+    <programme start="20250102160000 +0000" stop="20250102180000 +0000" channel="Cinema One Global.starhub">
+        <title>Abel Morado: Ikaw Ang May Sala</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225130000 +0000" channel="Celestial Movies HD.starhub">
-        <title>The Sparrow</title>
+    <programme start="20250102180000 +0000" stop="20250102200000 +0000" channel="Cinema One Global.starhub">
+        <title>Bilangin Ang Bituin Sa Langit</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225144000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Everyday Is Valentine</title>
+    <programme start="20250102200000 +0000" stop="20250102220000 +0000" channel="Cinema One Global.starhub">
+        <title>Blue Moon</title>
     </programme>
-    <programme start="20241225144000 +0000" stop="20241225162500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Everlasting Love</title>
+    <programme start="20250102220000 +0000" stop="20250103000000 +0000" channel="Cinema One Global.starhub">
+        <title>Jockey Tiyan</title>
     </programme>
-    <programme start="20241225162500 +0000" stop="20241225180500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Love in a Fallen City</title>
+    <programme start="20250103000000 +0000" stop="20250103020000 +0000" channel="Cinema One Global.starhub">
+        <title>Magic To Love</title>
     </programme>
-    <programme start="20241225180500 +0000" stop="20241225193500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Look Out, Officer!</title>
-    </programme>
-    <programme start="20241225193500 +0000" stop="20241225221500 +0000" channel="Celestial Movies HD.starhub">
-        <title>Seven Swords</title>
-    </programme>
-    <programme start="20241225221500 +0000" stop="20241225235000 +0000" channel="Celestial Movies HD.starhub">
-        <title>Face to Face</title>
+    <programme start="20250103020000 +0000" stop="20250103040000 +0000" channel="Cinema One Global.starhub">
+        <title>Daddy O! Baby O!</title>
     </programme>
     <programme start="20241225235000 +0000" stop="20241226012500 +0000" channel="Celestial Movies HD.starhub">
         <title>Shark Busters</title>
@@ -24279,38 +24237,47 @@
     <programme start="20241231230500 +0000" stop="20250101005000 +0000" channel="Celestial Movies HD.starhub">
         <title>Those Were the Days</title>
     </programme>
-    <programme start="20241224224500 +0000" stop="20241225011500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Julie &amp; Julia</title>
+    <programme start="20250101005000 +0000" stop="20250101024000 +0000" channel="Celestial Movies HD.starhub">
+        <title>Protege</title>
     </programme>
-    <programme start="20241225011500 +0000" stop="20241225030000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>An American Tail</title>
+    <programme start="20250101024000 +0000" stop="20250101042000 +0000" channel="Celestial Movies HD.starhub">
+        <title>Wo Hu</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225051500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Trading Places</title>
+    <programme start="20250101042000 +0000" stop="20250101061500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Initial D</title>
     </programme>
-    <programme start="20241225051500 +0000" stop="20241225074500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Julie &amp; Julia</title>
+    <programme start="20250101061500 +0000" stop="20250101080000 +0000" channel="Celestial Movies HD.starhub">
+        <title>Happy Family</title>
     </programme>
-    <programme start="20241225074500 +0000" stop="20241225101500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>The Jackal</title>
+    <programme start="20250101080000 +0000" stop="20250101094500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Inner Senses</title>
     </programme>
-    <programme start="20241225101500 +0000" stop="20241225120000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Antz</title>
+    <programme start="20250101094500 +0000" stop="20250101112500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Behind the Yellow Line</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Deck The Halls</title>
+    <programme start="20250101112500 +0000" stop="20250101130000 +0000" channel="Celestial Movies HD.starhub">
+        <title>On the Edge</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225160000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Zathura: A Space Adventure</title>
+    <programme start="20250101130000 +0000" stop="20250101143000 +0000" channel="Celestial Movies HD.starhub">
+        <title>The Longest Nite</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225180000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Antz</title>
+    <programme start="20250101143000 +0000" stop="20250101160500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Expect The Unexpected</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225200000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Deck The Halls</title>
+    <programme start="20250101160500 +0000" stop="20250101174000 +0000" channel="Celestial Movies HD.starhub">
+        <title>Kung Fu Mahjong 2</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225220000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Zathura: A Space Adventure</title>
+    <programme start="20250101174000 +0000" stop="20250101191500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Protege de la Rose Noire</title>
+    </programme>
+    <programme start="20250101191500 +0000" stop="20250101204000 +0000" channel="Celestial Movies HD.starhub">
+        <title>Loving You</title>
+    </programme>
+    <programme start="20250101204000 +0000" stop="20250101220500 +0000" channel="Celestial Movies HD.starhub">
+        <title>Out of the Dark</title>
+    </programme>
+    <programme start="20250101220500 +0000" stop="20250101234000 +0000" channel="Celestial Movies HD.starhub">
+        <title>The Death Curse</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241226004500 +0000" channel="HITS MOVIES HD.starhub">
         <title>Spider-Man 3</title>
@@ -24578,6 +24545,39 @@
     </programme>
     <programme start="20250103003000 +0000" stop="20250103020000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Stuart Little 2</title>
+    </programme>
+    <programme start="20250103020000 +0000" stop="20250103034500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>When A Stranger Calls</title>
+    </programme>
+    <programme start="20250103034500 +0000" stop="20250103061500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Gridiron Gang</title>
+    </programme>
+    <programme start="20250103061500 +0000" stop="20250103084500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>The Game</title>
+    </programme>
+    <programme start="20250103084500 +0000" stop="20250103101500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Stuart Little 2</title>
+    </programme>
+    <programme start="20250103101500 +0000" stop="20250103120000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>When A Stranger Calls</title>
+    </programme>
+    <programme start="20250103120000 +0000" stop="20250103151500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Saving Private Ryan</title>
+    </programme>
+    <programme start="20250103151500 +0000" stop="20250103174500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Spider-Man 2</title>
+    </programme>
+    <programme start="20250103174500 +0000" stop="20250103193000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>When A Stranger Calls</title>
+    </programme>
+    <programme start="20250103193000 +0000" stop="20250103214500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Daylight</title>
+    </programme>
+    <programme start="20250103214500 +0000" stop="20250104001500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>The Game</title>
+    </programme>
+    <programme start="20250104001500 +0000" stop="20250104033000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Saving Private Ryan</title>
     </programme>
     <programme start="20241224234000 +0000" stop="20241225003000 +0000" channel="DreamWorks Channel HD.starhub">
         <title>Spirit Of Christmas</title>
@@ -24879,24 +24879,6 @@
     <programme start="20241227003000 +0000" stop="20241227012000 +0000" channel="DreamWorks Channel HD.starhub">
         <title>Boss Baby: Christmas Bonus</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225002500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225002500 +0000" stop="20241225080000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 2</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225113000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 3</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225165500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 3rd Test - Day 4</title>
-    </programme>
-    <programme start="20241225165500 +0000" stop="20241225220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225232000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225232000 +0000" stop="20241226025000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M04 - Melbourne Stars vs Brisbane Heat</title>
     </programme>
@@ -24933,22 +24915,22 @@
     <programme start="20241227163500 +0000" stop="20241227220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227220000 +0000" stop="20241228004000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241227220000 +0000" stop="20241228012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241228004000 +0000" stop="20241228040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228012500 +0000" stop="20241228044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M06 - Adelaide Strikers vs Melbourne Stars</title>
     </programme>
-    <programme start="20241228040000 +0000" stop="20241228080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228044500 +0000" stop="20241228080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M11 - Sydney Sixers vs Melbourne Stars</title>
     </programme>
     <programme start="20241228080000 +0000" stop="20241228121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M14 - Melbourne Stars vs Sydney Thunder</title>
     </programme>
-    <programme start="20241228121500 +0000" stop="20241228201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228121500 +0000" stop="20241228192000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 1</title>
     </programme>
-    <programme start="20241228201500 +0000" stop="20241228220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241228192000 +0000" stop="20241228220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241228220000 +0000" stop="20241229003500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25179,77 +25161,23 @@
     <programme start="20250110080000 +0000" stop="20250110121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVB Xing He.starhub">
-        <title>Ringmaster, The</title>
+    <programme start="20250110121500 +0000" stop="20250110201500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 4</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="TVB Xing He.starhub">
-        <title>Seventh Day, The</title>
+    <programme start="20250110201500 +0000" stop="20250110220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
+    <programme start="20250110220000 +0000" stop="20250111013000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
+    <programme start="20250111013000 +0000" stop="20250111053000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M25 - Brisbane Heat vs Sydney Thunder</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="TVB Xing He.starhub">
-        <title>Word Twisters&#039; Adventures</title>
+    <programme start="20250111053000 +0000" stop="20250111094500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="TVB Xing He.starhub">
-        <title>As Sure as Fate</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="TVB Xing He.starhub">
-        <title>Ringmaster, The</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="TVB Xing He.starhub">
-        <title>Seventh Day, The</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="TVB Xing He.starhub">
-        <title>Word Twisters&#039; Adventures</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="TVB Xing He.starhub">
-        <title>As Sure as Fate</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="TVB Xing He.starhub">
-        <title>Ringmaster, The</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="TVB Xing He.starhub">
-        <title>Seventh Day, The</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="TVB Xing He.starhub">
-        <title>Word Twisters&#039; Adventures</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225180000 +0000" channel="TVB Xing He.starhub">
-        <title>As Sure as Fate</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="TVB Xing He.starhub">
-        <title>Ringmaster, The</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="TVB Xing He.starhub">
-        <title>Seventh Day, The</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="TVB Xing He.starhub">
-        <title>Highs and Lows</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="TVB Xing He.starhub">
-        <title>Word Twisters&#039; Adventures</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="TVB Xing He.starhub">
-        <title>As Sure as Fate</title>
+    <programme start="20250111094500 +0000" stop="20250111174500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 5</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TVB Xing He.starhub">
         <title>Ringmaster, The</title>
@@ -25479,92 +25407,77 @@
     <programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="TVB Xing He.starhub">
         <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Follow the Data</title>
+    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Inoculation &amp; Inequity</title>
+    <programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Invisible Shield</title>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Idea Generation</title>
+    <programme start="20241229040000 +0000" stop="20241229043000 +0000" channel="TVB Xing He.starhub">
+        <title>Vista of China (Sr.17)</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229043000 +0000" stop="20241229053000 +0000" channel="TVB Xing He.starhub">
+        <title>Sky is the Limit, The</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229053000 +0000" stop="20241229060000 +0000" channel="TVB Xing He.starhub">
+        <title>No Poverty Land</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229060000 +0000" stop="20241229070000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225080000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Old Playbook</title>
+    <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225090000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Follow the Data</title>
+    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Inoculation &amp; Inequity</title>
+    <programme start="20241229090000 +0000" stop="20241229100000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The New Playbook</title>
+    <programme start="20241229100000 +0000" stop="20241229103000 +0000" channel="TVB Xing He.starhub">
+        <title>Vista of China (Sr.17)</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Best of the Bloomberg Green Festival</title>
+    <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="TVB Xing He.starhub">
+        <title>Missing You</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229113000 +0000" stop="20241229120000 +0000" channel="TVB Xing He.starhub">
+        <title>No Poverty Land</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Robots: The Aliens We Made</title>
+    <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Love in the Age of Machines</title>
+    <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Your Brain Is the Next Tech Frontier</title>
+    <programme start="20241229160000 +0000" stop="20241229163000 +0000" channel="TVB Xing He.starhub">
+        <title>Vista of China (Sr.17)</title>
     </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Conquering the Miracle of Life</title>
+    <programme start="20241229163000 +0000" stop="20241229173000 +0000" channel="TVB Xing He.starhub">
+        <title>Missing You</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Monkey Laundering</title>
+    <programme start="20241229173000 +0000" stop="20241229180000 +0000" channel="TVB Xing He.starhub">
+        <title>No Poverty Land</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Scambaiters</title>
+    <programme start="20241229180000 +0000" stop="20241229190000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg New Economy: New Reality, New Rules</title>
+    <programme start="20241229190000 +0000" stop="20241229200000 +0000" channel="TVB Xing He.starhub">
+        <title>Life Made Simple</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Best of the Global Business Forum 2024</title>
+    <programme start="20241229200000 +0000" stop="20241229210000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Idea Generation</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Idea Generation</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Idea Generation</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20241229210000 +0000" stop="20241229220000 +0000" channel="TVB Xing He.starhub">
+        <title>My Ages Apart</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
@@ -25778,6 +25691,93 @@
     </programme>
     <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Bloomberg Television HD.starhub">
         <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>AMD CEO Lisa Su</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Idea Generation</title>
+    </programme>
+    <programme start="20241228110000 +0000" stop="20241228120000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Wall Street Week</title>
+    </programme>
+    <programme start="20241228120000 +0000" stop="20241228130000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Green Festival</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>The Earthshot Prize Innovation Summit 2024</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Originals</title>
+    </programme>
+    <programme start="20241228140000 +0000" stop="20241228143000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Mohamed Kalifa Al Mubarak, Abu Dhabi Department of Culture &amp; Tourism Chairman</title>
+    </programme>
+    <programme start="20241228143000 +0000" stop="20241228150000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228160000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Wall Street Week</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241228163000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Inside Adani: A Bloomberg Exclusive</title>
+    </programme>
+    <programme start="20241228163000 +0000" stop="20241228170000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Monkey Laundering</title>
+    </programme>
+    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Originals</title>
+    </programme>
+    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Global Business Forum 2024</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Mohamed Kalifa Al Mubarak, Abu Dhabi Department of Culture &amp; Tourism Chairman</title>
+    </programme>
+    <programme start="20241228183000 +0000" stop="20241228190000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228193000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Inside Adani: A Bloomberg Exclusive</title>
+    </programme>
+    <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Global Business Forum 2024</title>
+    </programme>
+    <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Chanel CEO Leena Nair</title>
+    </programme>
+    <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>The Earthshot Prize Innovation Summit 2024</title>
+    </programme>
+    <programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Green Festival</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Idea Generation</title>
+    </programme>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Irretrievable</title>
+    </programme>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
+    </programme>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Why Ari Emanuel is Betting Big on UFC and WWE</title>
+    </programme>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>How this Tech CEO Jumped From a French Village to Silicon Valley</title>
+    </programme>
+    <programme start="20241229013000 +0000" stop="20241229020000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>AMD CEO Lisa Su</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Originals</title>
+    </programme>
+    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Monkey Laundering</title>
+    </programme>
+    <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Idea Generation</title>
     </programme>
     <programme start="20241224230000 +0000" stop="20241225010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
@@ -26079,72 +26079,6 @@
     <programme start="20241231065500 +0000" stop="20241231081500 +0000" channel="Dragon TV.starhub">
         <title>china date</title>
     </programme>
-    <programme start="20241224233000 +0000" stop="20241225003000 +0000" channel="Sun Music.starhub">
-        <title>Mellisaiye</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="Sun Music.starhub">
-        <title>Flash Back</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225023000 +0000" channel="Sun Music.starhub">
-        <title>Latest Hits</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225033000 +0000" channel="Sun Music.starhub">
-        <title>Fresh Beats</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225043000 +0000" channel="Sun Music.starhub">
-        <title>Sun Music - Super Morning</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225053000 +0000" channel="Sun Music.starhub">
-        <title>Back To 90 s</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225063000 +0000" channel="Sun Music.starhub">
-        <title>Marana Kuthu</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225073000 +0000" channel="Sun Music.starhub">
-        <title>Scene Oda Pattu</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225083000 +0000" channel="Sun Music.starhub">
-        <title>Mellisaiye</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225093000 +0000" channel="Sun Music.starhub">
-        <title>Breakfree</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225103000 +0000" channel="Sun Music.starhub">
-        <title>Back To 90 s</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225113000 +0000" channel="Sun Music.starhub">
-        <title>Non Stop Hits</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225123000 +0000" channel="Sun Music.starhub">
-        <title>Hit List</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="Sun Music.starhub">
-        <title>Scene Oda Pattu</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Sun Music.starhub">
-        <title>Breakfree</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Sun Music.starhub">
-        <title>Double Shot</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225153000 +0000" channel="Sun Music.starhub">
-        <title>Mass Masala</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225163000 +0000" channel="Sun Music.starhub">
-        <title>Non Stop Hits</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225173000 +0000" channel="Sun Music.starhub">
-        <title>Soup Songs</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="Sun Music.starhub">
-        <title>Flash Back</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225193000 +0000" channel="Sun Music.starhub">
-        <title>Chilax</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225233000 +0000" channel="Sun Music.starhub">
-        <title>Breakfree</title>
-    </programme>
     <programme start="20241225233000 +0000" stop="20241226003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>
     </programme>
@@ -26379,185 +26313,71 @@
     <programme start="20241229103000 +0000" stop="20241229113000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225001500 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Chat: Travel In Korea</title>
+    <programme start="20241229113000 +0000" stop="20241229133000 +0000" channel="Sun Music.starhub">
+        <title>Scene Oda Pattu</title>
     </programme>
-    <programme start="20241225001500 +0000" stop="20241225003000 +0000" channel="Arirang TV HD.starhub">
-        <title>Exploring Korean Literature A</title>
+    <programme start="20241229133000 +0000" stop="20241229143000 +0000" channel="Sun Music.starhub">
+        <title>Double Shot</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225010000 +0000" channel="Arirang TV HD.starhub">
-        <title>Premium Collection</title>
+    <programme start="20241229143000 +0000" stop="20241229153000 +0000" channel="Sun Music.starhub">
+        <title>Mass Masala</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
+    <programme start="20241229153000 +0000" stop="20241229160000 +0000" channel="Sun Music.starhub">
+        <title>Soup Songs</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="Arirang TV HD.starhub">
-        <title>Culture Crunch</title>
+    <programme start="20241229160000 +0000" stop="20241229163000 +0000" channel="Sun Music.starhub">
+        <title>Hits Of AR Rahman</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225031000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang News 12:00</title>
+    <programme start="20241229163000 +0000" stop="20241229173000 +0000" channel="Sun Music.starhub">
+        <title>Marana Kuthu</title>
     </programme>
-    <programme start="20241225031000 +0000" stop="20241225032000 +0000" channel="Arirang TV HD.starhub">
-        <title>1day 1korea: K-Food</title>
+    <programme start="20241229173000 +0000" stop="20241229183000 +0000" channel="Sun Music.starhub">
+        <title>Flash Back</title>
     </programme>
-    <programme start="20241225032000 +0000" stop="20241225033000 +0000" channel="Arirang TV HD.starhub">
-        <title>Smartbiz Accelerators 2</title>
+    <programme start="20241229183000 +0000" stop="20241229193000 +0000" channel="Sun Music.starhub">
+        <title>Chilax</title>
     </programme>
-    <programme start="20241225033000 +0000" stop="20241225034000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage K-Asmr(10)</title>
+    <programme start="20241229193000 +0000" stop="20241229233000 +0000" channel="Sun Music.starhub">
+        <title>Breakfree</title>
     </programme>
-    <programme start="20241225034000 +0000" stop="20241225035000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage K-Asmr(10)</title>
+    <programme start="20241229233000 +0000" stop="20241230003000 +0000" channel="Sun Music.starhub">
+        <title>Mellisaiye</title>
     </programme>
-    <programme start="20241225035000 +0000" stop="20241225040000 +0000" channel="Arirang TV HD.starhub">
-        <title>Discovering Korea: History</title>
+    <programme start="20241230003000 +0000" stop="20241230013000 +0000" channel="Sun Music.starhub">
+        <title>Flash Back</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="Arirang TV HD.starhub">
-        <title>I&#039;m Live</title>
+    <programme start="20241230013000 +0000" stop="20241230023000 +0000" channel="Sun Music.starhub">
+        <title>Latest Hits</title>
     </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Stage Pan</title>
+    <programme start="20241230023000 +0000" stop="20241230033000 +0000" channel="Sun Music.starhub">
+        <title>Fresh Beats</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="Arirang TV HD.starhub">
-        <title>Performarts Reload:Ntok</title>
+    <programme start="20241230033000 +0000" stop="20241230043000 +0000" channel="Sun Music.starhub">
+        <title>Sun Music - Super Morning</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Geovista</title>
+    <programme start="20241230043000 +0000" stop="20241230053000 +0000" channel="Sun Music.starhub">
+        <title>Back To 90 s</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Arirang TV HD.starhub">
-        <title>Islands To Love</title>
+    <programme start="20241230053000 +0000" stop="20241230063000 +0000" channel="Sun Music.starhub">
+        <title>Marana Kuthu</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225071000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Chat: Travel In Korea</title>
+    <programme start="20241230063000 +0000" stop="20241230073000 +0000" channel="Sun Music.starhub">
+        <title>Scene Oda Pattu</title>
     </programme>
-    <programme start="20241225071000 +0000" stop="20241225072000 +0000" channel="Arirang TV HD.starhub">
-        <title>Exploring Korean Literature A</title>
+    <programme start="20241230073000 +0000" stop="20241230083000 +0000" channel="Sun Music.starhub">
+        <title>Mellisaiye</title>
     </programme>
-    <programme start="20241225072000 +0000" stop="20241225073000 +0000" channel="Arirang TV HD.starhub">
-        <title>Heritage Walks With Little Friend</title>
+    <programme start="20241230083000 +0000" stop="20241230093000 +0000" channel="Sun Music.starhub">
+        <title>Breakfree</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225075000 +0000" channel="Arirang TV HD.starhub">
-        <title>1day 1k-Culture: K-Food</title>
+    <programme start="20241230093000 +0000" stop="20241230103000 +0000" channel="Sun Music.starhub">
+        <title>Back To 90 s</title>
     </programme>
-    <programme start="20241225075000 +0000" stop="20241225080000 +0000" channel="Arirang TV HD.starhub">
-        <title>Discovering Korea: History</title>
+    <programme start="20241230103000 +0000" stop="20241230113000 +0000" channel="Sun Music.starhub">
+        <title>Non Stop Hits</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Arirang TV HD.starhub">
-        <title>We Are Diplomats</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="Arirang TV HD.starhub">
-        <title>We Are Diplomats</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225091000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang News 18:00</title>
-    </programme>
-    <programme start="20241225091000 +0000" stop="20241225093000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage K-Asmr(20)</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Stage Pan</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Globalists</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Arirang TV HD.starhub">
-        <title>Premium Collection</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Arirang TV HD.starhub">
-        <title>I&#039;m Live</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Arirang TV HD.starhub">
-        <title>Seoulscape</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225125000 +0000" channel="Arirang TV HD.starhub">
-        <title>1day 1k-Culture: K-Food</title>
-    </programme>
-    <programme start="20241225125000 +0000" stop="20241225130000 +0000" channel="Arirang TV HD.starhub">
-        <title>Discovering Korea: History</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225131000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Chat: Travel In Korea</title>
-    </programme>
-    <programme start="20241225131000 +0000" stop="20241225132000 +0000" channel="Arirang TV HD.starhub">
-        <title>Exploring Korean Literature A</title>
-    </programme>
-    <programme start="20241225132000 +0000" stop="20241225133000 +0000" channel="Arirang TV HD.starhub">
-        <title>Heritage Walks With Little Friend</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Arirang TV HD.starhub">
-        <title>Islands To Love</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage Asmr</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Globalists</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Arirang TV HD.starhub">
-        <title>I&#039;m Live</title>
-    </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Stage Pan</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Arirang TV HD.starhub">
-        <title>Islands To Love</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225175000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
-    </programme>
-    <programme start="20241225175000 +0000" stop="20241225180000 +0000" channel="Arirang TV HD.starhub">
-        <title>Heritage Walks With Little Friend</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Arirang TV HD.starhub">
-        <title>Danstargram 2</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225185000 +0000" channel="Arirang TV HD.starhub">
-        <title>1day 1k-Culture: K-Food</title>
-    </programme>
-    <programme start="20241225185000 +0000" stop="20241225190000 +0000" channel="Arirang TV HD.starhub">
-        <title>Discovering Korea: History</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225201500 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Chat: Travel In Korea</title>
-    </programme>
-    <programme start="20241225201500 +0000" stop="20241225203000 +0000" channel="Arirang TV HD.starhub">
-        <title>Exploring Korean Literature A</title>
-    </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Arirang TV HD.starhub">
-        <title>Premium Collection</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Globalists</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225224000 +0000" channel="Arirang TV HD.starhub">
-        <title>Heritage Walks With Little Friend</title>
-    </programme>
-    <programme start="20241225224000 +0000" stop="20241225230000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Grand Heritage Diorama</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Arirang TV HD.starhub">
-        <title>Tripstargram</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241225235000 +0000" channel="Arirang TV HD.starhub">
-        <title>1day 1k-Culture: K-Story</title>
-    </programme>
-    <programme start="20241225235000 +0000" stop="20241226000000 +0000" channel="Arirang TV HD.starhub">
-        <title>Discovering Korea: Experience</title>
+    <programme start="20241230113000 +0000" stop="20241230123000 +0000" channel="Sun Music.starhub">
+        <title>Hit List</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226001500 +0000" channel="Arirang TV HD.starhub">
         <title>K-Chat: Conversing In Korean</title>
@@ -26678,6 +26498,186 @@
     </programme>
     <programme start="20241226163000 +0000" stop="20241226170000 +0000" channel="Arirang TV HD.starhub">
         <title>Tripstargram</title>
+    </programme>
+    <programme start="20241226170000 +0000" stop="20241226173000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Kulture Wave</title>
+    </programme>
+    <programme start="20241226173000 +0000" stop="20241226180000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame</title>
+    </programme>
+    <programme start="20241226180000 +0000" stop="20241226183000 +0000" channel="Arirang TV HD.starhub">
+        <title>Home Explorers 2</title>
+    </programme>
+    <programme start="20241226183000 +0000" stop="20241226185000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage Diorama</title>
+    </programme>
+    <programme start="20241226185000 +0000" stop="20241226190000 +0000" channel="Arirang TV HD.starhub">
+        <title>Discovering Korea: Experience</title>
+    </programme>
+    <programme start="20241226190000 +0000" stop="20241226200000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Prime</title>
+    </programme>
+    <programme start="20241226200000 +0000" stop="20241226201500 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Conversing In Korean</title>
+    </programme>
+    <programme start="20241226201500 +0000" stop="20241226203000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature B</title>
+    </programme>
+    <programme start="20241226203000 +0000" stop="20241226210000 +0000" channel="Arirang TV HD.starhub">
+        <title>Bravo K-Scientist</title>
+    </programme>
+    <programme start="20241226210000 +0000" stop="20241226213000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective</title>
+    </programme>
+    <programme start="20241226213000 +0000" stop="20241226220000 +0000" channel="Arirang TV HD.starhub">
+        <title>Smartbiz Accelerators</title>
+    </programme>
+    <programme start="20241226220000 +0000" stop="20241226223000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature</title>
+    </programme>
+    <programme start="20241226223000 +0000" stop="20241226224000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20241226224000 +0000" stop="20241226230000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage Diorama</title>
+    </programme>
+    <programme start="20241226230000 +0000" stop="20241226233000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241226233000 +0000" stop="20241226235000 +0000" channel="Arirang TV HD.starhub">
+        <title>1day 1k-Culture: K-Stage</title>
+    </programme>
+    <programme start="20241226235000 +0000" stop="20241227000000 +0000" channel="Arirang TV HD.starhub">
+        <title>Discovering Korea: Shopping</title>
+    </programme>
+    <programme start="20241227000000 +0000" stop="20241227001500 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20241227001500 +0000" stop="20241227003000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature A</title>
+    </programme>
+    <programme start="20241227003000 +0000" stop="20241227010000 +0000" channel="Arirang TV HD.starhub">
+        <title>Home Explorers 2</title>
+    </programme>
+    <programme start="20241227010000 +0000" stop="20241227013000 +0000" channel="Arirang TV HD.starhub">
+        <title>New Day At Arirang</title>
+    </programme>
+    <programme start="20241227013000 +0000" stop="20241227020000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [L]</title>
+    </programme>
+    <programme start="20241227020000 +0000" stop="20241227030000 +0000" channel="Arirang TV HD.starhub">
+        <title>Culture Crunch [L]</title>
+    </programme>
+    <programme start="20241227030000 +0000" stop="20241227033000 +0000" channel="Arirang TV HD.starhub">
+        <title>Regional Tastes</title>
+    </programme>
+    <programme start="20241227033000 +0000" stop="20241227035000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage Diorama</title>
+    </programme>
+    <programme start="20241227035000 +0000" stop="20241227040000 +0000" channel="Arirang TV HD.starhub">
+        <title>Discovering Korea: Shopping</title>
+    </programme>
+    <programme start="20241227040000 +0000" stop="20241227043000 +0000" channel="Arirang TV HD.starhub">
+        <title>Tripstargram</title>
+    </programme>
+    <programme start="20241227043000 +0000" stop="20241227050000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241227050000 +0000" stop="20241227053000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Kulture Wave [L]</title>
+    </programme>
+    <programme start="20241227053000 +0000" stop="20241227060000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation</title>
+    </programme>
+    <programme start="20241227060000 +0000" stop="20241227063000 +0000" channel="Arirang TV HD.starhub">
+        <title>Smartbiz Accelerators</title>
+    </programme>
+    <programme start="20241227063000 +0000" stop="20241227070000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241227070000 +0000" stop="20241227071000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20241227071000 +0000" stop="20241227072000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature A</title>
+    </programme>
+    <programme start="20241227072000 +0000" stop="20241227073000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20241227073000 +0000" stop="20241227075000 +0000" channel="Arirang TV HD.starhub">
+        <title>1day 1k-Culture: K-Stage</title>
+    </programme>
+    <programme start="20241227075000 +0000" stop="20241227080000 +0000" channel="Arirang TV HD.starhub">
+        <title>Discovering Korea: Shopping</title>
+    </programme>
+    <programme start="20241227080000 +0000" stop="20241227083000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Daily Report</title>
+    </programme>
+    <programme start="20241227083000 +0000" stop="20241227090000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective [L]</title>
+    </programme>
+    <programme start="20241227090000 +0000" stop="20241227093000 +0000" channel="Arirang TV HD.starhub">
+        <title>Tripstargram</title>
+    </programme>
+    <programme start="20241227093000 +0000" stop="20241227100000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241227100000 +0000" stop="20241227103000 +0000" channel="Arirang TV HD.starhub">
+        <title>Peace Insight</title>
+    </programme>
+    <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="Arirang TV HD.starhub">
+        <title>Home Explorers 2</title>
+    </programme>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="Arirang TV HD.starhub">
+        <title>Newscenter</title>
+    </programme>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame [L]</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Kulture Wave</title>
+    </programme>
+    <programme start="20241227123000 +0000" stop="20241227125000 +0000" channel="Arirang TV HD.starhub">
+        <title>1day 1k-Culture: K-Stage</title>
+    </programme>
+    <programme start="20241227125000 +0000" stop="20241227130000 +0000" channel="Arirang TV HD.starhub">
+        <title>Discovering Korea: Shopping</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227131000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20241227131000 +0000" stop="20241227132000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature A</title>
+    </programme>
+    <programme start="20241227132000 +0000" stop="20241227133000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20241227133000 +0000" stop="20241227140000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature</title>
+    </programme>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Arirang TV HD.starhub">
+        <title>Peace Insight</title>
+    </programme>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="Arirang TV HD.starhub">
+        <title>Tripstargram</title>
+    </programme>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="Arirang TV HD.starhub">
+        <title>Home Explorers 2</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227170000 +0000" channel="Arirang TV HD.starhub">
+        <title>Danstargram 2</title>
+    </programme>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Kulture Wave</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame</title>
     </programme>
     <programme start="20241224233500 +0000" stop="20241225002100 +0000" channel="Sony Entertainment Television.starhub">
         <title>CID</title>
@@ -26979,114 +26979,6 @@
     <programme start="20241227160200 +0000" stop="20241227162900 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Hub Premier 1.starhub">
-        <title>1-TO-11</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225013000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL REWIND</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225033000 +0000" channel="Hub Premier 1.starhub">
-        <title>REVIEW - SUN 22 DEC</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225040000 +0000" channel="Hub Premier 1.starhub">
-        <title>FANTASY SHOW - MON 23 DEC</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="Hub Premier 1.starhub">
-        <title>NETBUSTERS</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225053000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL MASTERCLASS</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225060000 +0000" channel="Hub Premier 1.starhub">
-        <title>MATCH HIGHLIGHTS 24/25 MW17 Crystal Palace v Arsenal</title>
-    </programme>
-    <programme start="20241225060000 +0000" stop="20241225070000 +0000" channel="Hub Premier 1.starhub">
-        <title>1-TO-11</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL REWIND</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL REWIND</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Hub Premier 1.starhub">
-        <title>MATCH HIGHLIGHTS 24/25 MW17 Everton v Chelsea</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="Hub Premier 1.starhub">
-        <title>MATCH HIGHLIGHTS 24/25 MW17 Aston Villa v Manchester City</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="Hub Premier 1.starhub">
-        <title>NETBUSTERS</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Hub Premier 1.starhub">
-        <title>FANTASY SHOW - MON 23 DEC</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="Hub Premier 1.starhub">
-        <title>GENERATION xG - MON 23 DEC</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Hub Premier 1.starhub">
-        <title>MATCH HIGHLIGHTS 24/25 MW17 West Ham United v Brighton and Hove Albion</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Hub Premier 1.starhub">
-        <title>MATCH HIGHLIGHTS 24/25 MW17 Crystal Palace v Arsenal</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="Hub Premier 1.starhub">
-        <title>1-TO-11</title>
-    </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL REWIND</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Hub Premier 1.starhub">
-        <title>THE BIG INTERVIEW</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="Hub Premier 1.starhub">
-        <title>REVIEW - SUN 22 DEC</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Hub Premier 1.starhub">
-        <title>THE CATCH-UP SHOW: THE BEST OF</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Hub Premier 1.starhub">
-        <title>NETBUSTERS</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Hub Premier 1.starhub">
-        <title>FANTASY SHOW - MON 23 DEC</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Hub Premier 1.starhub">
-        <title>THE BIG INTERVIEW</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Hub Premier 1.starhub">
-        <title>REVIEW - SUN 22 DEC</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="Hub Premier 1.starhub">
-        <title>THE CATCH-UP SHOW: THE BEST OF</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL MASTERCLASS</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Hub Premier 1.starhub">
-        <title>NETBUSTERS</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL STORIES</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Hub Premier 1.starhub">
-        <title>THE BIG INTERVIEW</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Hub Premier 1.starhub">
         <title>REVIEW - SUN 22 DEC</title>
     </programme>
@@ -27279,131 +27171,113 @@
     <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="Hub Premier 1.starhub">
         <title>PL STORIES</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="Hub Premier 1.starhub">
+        <title>NETBUSTERS</title>
     </programme>
-    <programme start="20241225010000 +0000" stop="20241225020000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225030000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228033000 +0000" stop="20241228043000 +0000" channel="Hub Premier 1.starhub">
+        <title>TEAM TALKS - FRI 27 DEC</title>
     </programme>
-    <programme start="20241225040000 +0000" stop="20241225050000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="Hub Premier 1.starhub">
+        <title>THE BIG INTERVIEW</title>
     </programme>
-    <programme start="20241225050000 +0000" stop="20241225060000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="Hub Premier 1.starhub">
+        <title>PL STORIES</title>
     </programme>
-    <programme start="20241225060000 +0000" stop="20241225063000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+    <programme start="20241228053000 +0000" stop="20241228063000 +0000" channel="Hub Premier 1.starhub">
+        <title>REVIEW - SAT 28 DEC</title>
     </programme>
-    <programme start="20241225063000 +0000" stop="20241225070000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+    <programme start="20241228063000 +0000" stop="20241228073000 +0000" channel="Hub Premier 1.starhub">
+        <title>THE CATCH-UP SHOW: THE BEST OF</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225073000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Hub Premier 1.starhub">
+        <title>NETBUSTERS</title>
     </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228090000 +0000" stop="20241228100000 +0000" channel="Hub Premier 1.starhub">
+        <title>TEAM TALKS - FRI 27 DEC</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="Hub Premier 1.starhub">
+        <title>THE BIG INTERVIEW</title>
     </programme>
-    <programme start="20241225093000 +0000" stop="20241225100000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+    <programme start="20241228103000 +0000" stop="20241228113000 +0000" channel="Hub Premier 1.starhub">
+        <title>REVIEW - SAT 28 DEC</title>
     </programme>
-    <programme start="20241225100000 +0000" stop="20241225103000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Wilfred Frost</title>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Manchester City v Everton</title>
     </programme>
-    <programme start="20241225103000 +0000" stop="20241225110000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Wilfred Frost</title>
+    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="Hub Premier 1.starhub">
+        <title>PL STORIES</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225113000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Wilfred Frost</title>
+    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="Hub Premier 1.starhub">
+        <title>NETBUSTERS</title>
     </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="Sky News HD.starhub">
-        <title>Business Live</title>
+    <programme start="20241228130000 +0000" stop="20241228133000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
+    <programme start="20241228133000 +0000" stop="20241228140000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225123000 +0000" stop="20241225130000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Saima Mohsin</title>
+    <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="Hub Premier 1.starhub">
+        <title>1-TO-11</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225133000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
+    <programme start="20241228150000 +0000" stop="20241228160000 +0000" channel="Hub Premier 1.starhub">
+        <title>REVIEW - SAT 28 DEC</title>
     </programme>
-    <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
+    <programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="Hub Premier 1.starhub">
+        <title>PL MASTERCLASS</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225150000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225150000 +0000" stop="20241225153000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+    <programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="Hub Premier 1.starhub">
+        <title>TEAM TALKS - FRI 27 DEC</title>
     </programme>
-    <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+    <programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Hub Premier 1.starhub">
+        <title>THE CATCH-UP SHOW: THE BEST OF</title>
     </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+    <programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="Hub Premier 1.starhub">
+        <title>REVIEW - SAT 28 DEC</title>
     </programme>
-    <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="Sky News HD.starhub">
-        <title>Business Live</title>
+    <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225170000 +0000" stop="20241225173000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
+    <programme start="20241228213000 +0000" stop="20241228220000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
+    <programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Hub Premier 1.starhub">
+        <title>TEAM TALKS - FRI 27 DEC</title>
     </programme>
-    <programme start="20241225180000 +0000" stop="20241225183000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
+    <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Hub Premier 1.starhub">
+        <title>PL MASTERCLASS</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
+    <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="Hub Premier 1.starhub">
+        <title>NETBUSTERS</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="Sky News HD.starhub">
-        <title>Politics Hub With Sophy Ridge</title>
+    <programme start="20241229003000 +0000" stop="20241229010000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Brighton and Hove Albion v Brentford</title>
     </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="Sky News HD.starhub">
-        <title>Politics Hub With Sophy Ridge</title>
+    <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="Hub Premier 1.starhub">
+        <title>MATCH HIGHLIGHTS 24/25 MW18 Arsenal v Ipswich Town</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225203000 +0000" channel="Sky News HD.starhub">
-        <title>UK Tonight With Sarah-Jane Mee</title>
+    <programme start="20241229013000 +0000" stop="20241229023000 +0000" channel="Hub Premier 1.starhub">
+        <title>1-TO-11</title>
     </programme>
-    <programme start="20241225203000 +0000" stop="20241225210000 +0000" channel="Sky News HD.starhub">
-        <title>UK Tonight With Sarah-Jane Mee</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="Sky News HD.starhub">
-        <title>The World with Yalda Hakim</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225220000 +0000" channel="Sky News HD.starhub">
-        <title>The World with Yalda Hakim</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="Sky News HD.starhub">
-        <title>News at 10 with Anna Botting</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Sky News HD.starhub">
-        <title>Press Preview</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Sky News HD.starhub">
-        <title>News &amp; Press Preview</title>
-    </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Sky News HD.starhub">
-        <title>Press Preview</title>
+    <programme start="20241229023000 +0000" stop="20241229033000 +0000" channel="Hub Premier 1.starhub">
+        <title>TEAM TALKS - FRI 27 DEC</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Sky News HD.starhub">
         <title>Sky News</title>
@@ -27578,6 +27452,132 @@
     </programme>
     <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="Sky News HD.starhub">
         <title>Sky News Today with Wilfred Frost</title>
+    </programme>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today with Wilfred Frost</title>
+    </programme>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="Sky News HD.starhub">
+        <title>Business Live</title>
+    </programme>
+    <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227123000 +0000" stop="20241227130000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227130000 +0000" stop="20241227133000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227133000 +0000" stop="20241227140000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227150000 +0000" stop="20241227153000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227153000 +0000" stop="20241227160000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227170000 +0000" channel="Sky News HD.starhub">
+        <title>Business Live</title>
+    </programme>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="Sky News HD.starhub">
+        <title>News Hour with Jonathan Samuels</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="Sky News HD.starhub">
+        <title>News Hour with Jonathan Samuels</title>
+    </programme>
+    <programme start="20241227180000 +0000" stop="20241227183000 +0000" channel="Sky News HD.starhub">
+        <title>News Hour with Jonathan Samuels</title>
+    </programme>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="Sky News HD.starhub">
+        <title>News Hour with Jonathan Samuels</title>
+    </programme>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227220000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="Sky News HD.starhub">
+        <title>News at 10 with Gillian Joseph</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="Sky News HD.starhub">
+        <title>Press Preview</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="Sky News HD.starhub">
+        <title>News &amp; Press Preview</title>
+    </programme>
+    <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="Sky News HD.starhub">
+        <title>Press Preview</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News</title>
+    </programme>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228063000 +0000" stop="20241228070000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast With Anna Jones</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="Sky News HD.starhub">
+        <title>Breakfast with Anna Jones</title>
+    </programme>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today With Matt Barbet</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228110000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today With Matt Barbet</title>
     </programme>
     <programme start="20241224231500 +0000" stop="20241225003000 +0000" channel="Hub VVDrama.starhub">
         <title>Evilive</title>
@@ -28179,54 +28179,6 @@
     <programme start="20241229152000 +0000" stop="20241229165500 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20241224232000 +0000" stop="20241225013000 +0000" channel="tvN HD.starhub">
-        <title>Europe Outside Your Tent: Romantic Italy</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225024500 +0000" channel="tvN HD.starhub">
-        <title>BRO&amp;MARBLE in Dubai</title>
-    </programme>
-    <programme start="20241225024500 +0000" stop="20241225040000 +0000" channel="tvN HD.starhub">
-        <title>Twinkling Watermelon</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225055000 +0000" channel="tvN HD.starhub">
-        <title>Rented in Finland</title>
-    </programme>
-    <programme start="20241225055000 +0000" stop="20241225074000 +0000" channel="tvN HD.starhub">
-        <title>Rented in Finland</title>
-    </programme>
-    <programme start="20241225074000 +0000" stop="20241225084000 +0000" channel="tvN HD.starhub">
-        <title>Hashtag Travelog</title>
-    </programme>
-    <programme start="20241225084000 +0000" stop="20241225094000 +0000" channel="tvN HD.starhub">
-        <title>Hashtag Travelog</title>
-    </programme>
-    <programme start="20241225094000 +0000" stop="20241225104000 +0000" channel="tvN HD.starhub">
-        <title>Hashtag Travelog</title>
-    </programme>
-    <programme start="20241225104000 +0000" stop="20241225120000 +0000" channel="tvN HD.starhub">
-        <title>Country Life of Gen-Z</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225131500 +0000" channel="tvN HD.starhub">
-        <title>Twinkling Watermelon</title>
-    </programme>
-    <programme start="20241225131500 +0000" stop="20241225143000 +0000" channel="tvN HD.starhub">
-        <title>Twinkling Watermelon</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225164000 +0000" channel="tvN HD.starhub">
-        <title>Europe Outside Your Tent: Romantic Italy</title>
-    </programme>
-    <programme start="20241225164000 +0000" stop="20241225175500 +0000" channel="tvN HD.starhub">
-        <title>Welcome to Waikiki 2</title>
-    </programme>
-    <programme start="20241225175500 +0000" stop="20241225191000 +0000" channel="tvN HD.starhub">
-        <title>Welcome to Waikiki 2</title>
-    </programme>
-    <programme start="20241225191000 +0000" stop="20241225202500 +0000" channel="tvN HD.starhub">
-        <title>Twinkling Watermelon</title>
-    </programme>
-    <programme start="20241225202500 +0000" stop="20241225223500 +0000" channel="tvN HD.starhub">
-        <title>Europe Outside Your Tent: Romantic Italy</title>
-    </programme>
     <programme start="20241225223500 +0000" stop="20241226001500 +0000" channel="tvN HD.starhub">
         <title>Busan Boys: Sydney Bound</title>
     </programme>
@@ -28478,6 +28430,54 @@
     </programme>
     <programme start="20241230090000 +0000" stop="20241230105500 +0000" channel="tvN HD.starhub">
         <title>TAEYONG: TY TRACK IN CINEMAS</title>
+    </programme>
+    <programme start="20241230105500 +0000" stop="20241230111500 +0000" channel="tvN HD.starhub">
+        <title>You Can Cook With Sam Kim</title>
+    </programme>
+    <programme start="20241230111500 +0000" stop="20241230115500 +0000" channel="tvN HD.starhub">
+        <title>Create My Seoul</title>
+    </programme>
+    <programme start="20241230115500 +0000" stop="20241230131500 +0000" channel="tvN HD.starhub">
+        <title>A Korean Odyssey</title>
+    </programme>
+    <programme start="20241230131500 +0000" stop="20241230143500 +0000" channel="tvN HD.starhub">
+        <title>A Korean Odyssey</title>
+    </programme>
+    <programme start="20241230143500 +0000" stop="20241230162500 +0000" channel="tvN HD.starhub">
+        <title>Rented in Finland</title>
+    </programme>
+    <programme start="20241230162500 +0000" stop="20241230181500 +0000" channel="tvN HD.starhub">
+        <title>Handsome Guys</title>
+    </programme>
+    <programme start="20241230181500 +0000" stop="20241230201500 +0000" channel="tvN HD.starhub">
+        <title>Europe Outside Your Tent: Romantic Italy</title>
+    </programme>
+    <programme start="20241230201500 +0000" stop="20241230203000 +0000" channel="tvN HD.starhub">
+        <title>You Can Cook With Sam Kim</title>
+    </programme>
+    <programme start="20241230203000 +0000" stop="20241230204500 +0000" channel="tvN HD.starhub">
+        <title>You Can Cook With Sam Kim</title>
+    </programme>
+    <programme start="20241230204500 +0000" stop="20241230220000 +0000" channel="tvN HD.starhub">
+        <title>Crime Scene Returns</title>
+    </programme>
+    <programme start="20241230220000 +0000" stop="20241230235000 +0000" channel="tvN HD.starhub">
+        <title>Rented in Finland</title>
+    </programme>
+    <programme start="20241230235000 +0000" stop="20241231003000 +0000" channel="tvN HD.starhub">
+        <title>Create My Seoul</title>
+    </programme>
+    <programme start="20241231003000 +0000" stop="20241231014000 +0000" channel="tvN HD.starhub">
+        <title>Boyhood</title>
+    </programme>
+    <programme start="20241231014000 +0000" stop="20241231024000 +0000" channel="tvN HD.starhub">
+        <title>Boyhood</title>
+    </programme>
+    <programme start="20241231024000 +0000" stop="20241231040000 +0000" channel="tvN HD.starhub">
+        <title>A Korean Odyssey</title>
+    </programme>
+    <programme start="20241231040000 +0000" stop="20241231051500 +0000" channel="tvN HD.starhub">
+        <title>Lovely Runner</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -28932,60 +28932,6 @@
     <programme start="20241226184000 +0000" stop="20241226203000 +0000" channel="HBO Family HD.starhub">
         <title>This Is Christmas</title>
     </programme>
-    <programme start="20241224230000 +0000" stop="20241225003000 +0000" channel="Hub E City HD.starhub">
-        <title>Young Lady and Gentlemen</title>
-    </programme>
-    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="Hub E City HD.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20241225013000 +0000" stop="20241225033000 +0000" channel="Hub E City HD.starhub">
-        <title>Call Me By Fire 4</title>
-    </programme>
-    <programme start="20241225033000 +0000" stop="20241225043000 +0000" channel="Hub E City HD.starhub">
-        <title>Hot Door Night 27</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225053000 +0000" channel="Hub E City HD.starhub">
-        <title>Death By Zero</title>
-    </programme>
-    <programme start="20241225053000 +0000" stop="20241225070000 +0000" channel="Hub E City HD.starhub">
-        <title>Young Lady and Gentlemen</title>
-    </programme>
-    <programme start="20241225070000 +0000" stop="20241225090000 +0000" channel="Hub E City HD.starhub">
-        <title>Call Me By Fire 2</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225100000 +0000" channel="Hub E City HD.starhub">
-        <title>Death By Zero</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225110000 +0000" channel="Hub E City HD.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="Hub E City HD.starhub">
-        <title>Oh! My Queen</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225140000 +0000" channel="Hub E City HD.starhub">
-        <title>The Hunger Games</title>
-    </programme>
-    <programme start="20241225140000 +0000" stop="20241225150000 +0000" channel="Hub E City HD.starhub">
-        <title>Road Home</title>
-    </programme>
-    <programme start="20241225150000 +0000" stop="20241225160000 +0000" channel="Hub E City HD.starhub">
-        <title>Oh! My Queen</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225170000 +0000" channel="Hub E City HD.starhub">
-        <title>Life is A Long Quiet River</title>
-    </programme>
-    <programme start="20241225170000 +0000" stop="20241225190000 +0000" channel="Hub E City HD.starhub">
-        <title>The Hunger Games</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="Hub E City HD.starhub">
-        <title>Road Home</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225220000 +0000" channel="Hub E City HD.starhub">
-        <title>Call Me By Fire 2</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="Hub E City HD.starhub">
-        <title>Life is A Long Quiet River</title>
-    </programme>
     <programme start="20241225230000 +0000" stop="20241226003000 +0000" channel="Hub E City HD.starhub">
         <title>Missing: The Other Side 2</title>
     </programme>
@@ -29231,6 +29177,60 @@
     </programme>
     <programme start="20241230110000 +0000" stop="20241230120000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night 27</title>
+    </programme>
+    <programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="Hub E City HD.starhub">
+        <title>Hello, Saturday</title>
+    </programme>
+    <programme start="20241230140000 +0000" stop="20241230150000 +0000" channel="Hub E City HD.starhub">
+        <title>Road Home</title>
+    </programme>
+    <programme start="20241230150000 +0000" stop="20241230160000 +0000" channel="Hub E City HD.starhub">
+        <title>Hot Door Night 27</title>
+    </programme>
+    <programme start="20241230160000 +0000" stop="20241230170000 +0000" channel="Hub E City HD.starhub">
+        <title>Life is A Long Quiet River</title>
+    </programme>
+    <programme start="20241230170000 +0000" stop="20241230190000 +0000" channel="Hub E City HD.starhub">
+        <title>Hello, Saturday</title>
+    </programme>
+    <programme start="20241230190000 +0000" stop="20241230200000 +0000" channel="Hub E City HD.starhub">
+        <title>Road Home</title>
+    </programme>
+    <programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="Hub E City HD.starhub">
+        <title>Memories Beyond Horizon</title>
+    </programme>
+    <programme start="20241230220000 +0000" stop="20241230230000 +0000" channel="Hub E City HD.starhub">
+        <title>Life is A Long Quiet River</title>
+    </programme>
+    <programme start="20241230230000 +0000" stop="20241231003000 +0000" channel="Hub E City HD.starhub">
+        <title>Missing: The Other Side 2</title>
+    </programme>
+    <programme start="20241231003000 +0000" stop="20241231013000 +0000" channel="Hub E City HD.starhub">
+        <title>Billionaire Story</title>
+    </programme>
+    <programme start="20241231013000 +0000" stop="20241231033000 +0000" channel="Hub E City HD.starhub">
+        <title>Hello, Saturday</title>
+    </programme>
+    <programme start="20241231033000 +0000" stop="20241231043000 +0000" channel="Hub E City HD.starhub">
+        <title>Hot Door Night 27</title>
+    </programme>
+    <programme start="20241231043000 +0000" stop="20241231053000 +0000" channel="Hub E City HD.starhub">
+        <title>Death By Zero</title>
+    </programme>
+    <programme start="20241231053000 +0000" stop="20241231070000 +0000" channel="Hub E City HD.starhub">
+        <title>Missing: The Other Side 2</title>
+    </programme>
+    <programme start="20241231070000 +0000" stop="20241231080000 +0000" channel="Hub E City HD.starhub">
+        <title>iWalker</title>
+    </programme>
+    <programme start="20241231080000 +0000" stop="20241231090000 +0000" channel="Hub E City HD.starhub">
+        <title>James&#039; Going Places 5</title>
+    </programme>
+    <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="Hub E City HD.starhub">
+        <title>Death By Zero</title>
+    </programme>
+    <programme start="20241231100000 +0000" stop="20241231110000 +0000" channel="Hub E City HD.starhub">
+        <title>Billionaire Story</title>
     </programme>
     <programme start="20241224230000 +0000" stop="20241225003000 +0000" channel="TestChannel1.starhub">
         <title>Young Lady and Gentlemen</title>
@@ -29832,123 +29832,6 @@
     <programme start="20241230230000 +0000" stop="20241231010000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R10: Western United FC vs Brisbane Roar FC</title>
     </programme>
-    <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TestChannel 996.starhub">
-        <title>All That Is Bitter Is Sweet</title>
-    </programme>
-    <programme start="20241225010000 +0000" stop="20241225011500 +0000" channel="TestChannel 996.starhub">
-        <title>Happy Old Buddies</title>
-    </programme>
-    <programme start="20241225011500 +0000" stop="20241225014500 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20241225014500 +0000" stop="20241225020000 +0000" channel="TestChannel 996.starhub">
-        <title>Hands Up</title>
-    </programme>
-    <programme start="20241225020000 +0000" stop="20241225023000 +0000" channel="TestChannel 996.starhub">
-        <title>Hipster Tour - Germany</title>
-    </programme>
-    <programme start="20241225023000 +0000" stop="20241225030000 +0000" channel="TestChannel 996.starhub">
-        <title>Chill. Hike. Camping (Sr.2)</title>
-    </programme>
-    <programme start="20241225030000 +0000" stop="20241225040000 +0000" channel="TestChannel 996.starhub">
-        <title>Call Of Destiny</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225043000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2024</title>
-    </programme>
-    <programme start="20241225043000 +0000" stop="20241225050000 +0000" channel="TestChannel 996.starhub">
-        <title>The Vanishing Tastes</title>
-    </programme>
-    <programme start="20241225050000 +0000" stop="20241225050500 +0000" channel="TestChannel 996.starhub">
-        <title>Global View</title>
-    </programme>
-    <programme start="20241225050500 +0000" stop="20241225052000 +0000" channel="TestChannel 996.starhub">
-        <title>Hands Up</title>
-    </programme>
-    <programme start="20241225052000 +0000" stop="20241225063000 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
-    </programme>
-    <programme start="20241225063000 +0000" stop="20241225073000 +0000" channel="TestChannel 996.starhub">
-        <title>Sword and Fairy 1</title>
-    </programme>
-    <programme start="20241225073000 +0000" stop="20241225080000 +0000" channel="TestChannel 996.starhub">
-        <title>Hipster Tour - Germany</title>
-    </programme>
-    <programme start="20241225080000 +0000" stop="20241225083000 +0000" channel="TestChannel 996.starhub">
-        <title>Am I Healthy? (Sr.2)</title>
-    </programme>
-    <programme start="20241225083000 +0000" stop="20241225090000 +0000" channel="TestChannel 996.starhub">
-        <title>Thai Rogered (Sr.7)</title>
-    </programme>
-    <programme start="20241225090000 +0000" stop="20241225093000 +0000" channel="TestChannel 996.starhub">
-        <title>Golden Banquet</title>
-    </programme>
-    <programme start="20241225093000 +0000" stop="20241225103000 +0000" channel="TestChannel 996.starhub">
-        <title>The Legend of Xiao Chuo</title>
-    </programme>
-    <programme start="20241225103000 +0000" stop="20241225110500 +0000" channel="TestChannel 996.starhub">
-        <title>News At 18:30 and Global View</title>
-    </programme>
-    <programme start="20241225110500 +0000" stop="20241225113000 +0000" channel="TestChannel 996.starhub">
-        <title>Carbon Cutting for a Greener Future</title>
-    </programme>
-    <programme start="20241225113000 +0000" stop="20241225120000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2024</title>
-    </programme>
-    <programme start="20241225120000 +0000" stop="20241225123000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20241225123000 +0000" stop="20241225133000 +0000" channel="TestChannel 996.starhub">
-        <title>Call Of Destiny</title>
-    </programme>
-    <programme start="20241225133000 +0000" stop="20241225143000 +0000" channel="TestChannel 996.starhub">
-        <title>Sword and Fairy 1</title>
-    </programme>
-    <programme start="20241225143000 +0000" stop="20241225150500 +0000" channel="TestChannel 996.starhub">
-        <title>Hipster Tour - Germany</title>
-    </programme>
-    <programme start="20241225150500 +0000" stop="20241225151500 +0000" channel="TestChannel 996.starhub">
-        <title>EXTRA</title>
-    </programme>
-    <programme start="20241225151500 +0000" stop="20241225155000 +0000" channel="TestChannel 996.starhub">
-        <title>News Roundup</title>
-    </programme>
-    <programme start="20241225155000 +0000" stop="20241225160000 +0000" channel="TestChannel 996.starhub">
-        <title>Global View</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="TestChannel 996.starhub">
-        <title>Golden Banquet</title>
-    </programme>
-    <programme start="20241225163000 +0000" stop="20241225173000 +0000" channel="TestChannel 996.starhub">
-        <title>All That Is Bitter Is Sweet</title>
-    </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="TestChannel 996.starhub">
-        <title>Call Of Destiny</title>
-    </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2024</title>
-    </programme>
-    <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="TestChannel 996.starhub">
-        <title>Carbon Cutting for a Greener Future</title>
-    </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Legend of Xiao Chuo</title>
-    </programme>
-    <programme start="20241225210000 +0000" stop="20241225220000 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
-    </programme>
-    <programme start="20241225220000 +0000" stop="20241225223000 +0000" channel="TestChannel 996.starhub">
-        <title>Am I Healthy? (Sr.2)</title>
-    </programme>
-    <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2024</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="TestChannel 996.starhub">
-        <title>Good Morning Hong Kong and Global View</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
     </programme>
@@ -30132,89 +30015,122 @@
     <programme start="20241227120000 +0000" stop="20241227123000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20241224231500 +0000" stop="20241225003000 +0000" channel="TestChannel2.starhub">
-        <title>Evilive</title>
+    <programme start="20241227123000 +0000" stop="20241227133000 +0000" channel="TestChannel 996.starhub">
+        <title>Call Of Destiny</title>
     </programme>
-    <programme start="20241225003000 +0000" stop="20241225013000 +0000" channel="TestChannel2.starhub">
-        <title>Hilarious Family</title>
+    <programme start="20241227133000 +0000" stop="20241227143000 +0000" channel="TestChannel 996.starhub">
+        <title>Sword and Fairy 1</title>
     </programme>
-    <programme start="20241225013000 +0000" stop="20241225020000 +0000" channel="TestChannel2.starhub">
+    <programme start="20241227143000 +0000" stop="20241227150500 +0000" channel="TestChannel 996.starhub">
+        <title>Hipster Tour - Germany</title>
+    </programme>
+    <programme start="20241227150500 +0000" stop="20241227151500 +0000" channel="TestChannel 996.starhub">
+        <title>EXTRA</title>
+    </programme>
+    <programme start="20241227151500 +0000" stop="20241227155000 +0000" channel="TestChannel 996.starhub">
+        <title>News Roundup</title>
+    </programme>
+    <programme start="20241227155000 +0000" stop="20241227160000 +0000" channel="TestChannel 996.starhub">
+        <title>Global View</title>
+    </programme>
+    <programme start="20241227160000 +0000" stop="20241227163000 +0000" channel="TestChannel 996.starhub">
+        <title>Eyes On Concern Groups</title>
+    </programme>
+    <programme start="20241227163000 +0000" stop="20241227173000 +0000" channel="TestChannel 996.starhub">
+        <title>All That Is Bitter Is Sweet</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227183000 +0000" channel="TestChannel 996.starhub">
+        <title>Call Of Destiny</title>
+    </programme>
+    <programme start="20241227183000 +0000" stop="20241227190000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20241225020000 +0000" stop="20241225025500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City</title>
+    <programme start="20241227190000 +0000" stop="20241227193000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2024</title>
     </programme>
-    <programme start="20241225025500 +0000" stop="20241225035500 +0000" channel="TestChannel2.starhub">
-        <title>Big Biz Duel</title>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="TestChannel 996.starhub">
+        <title>Vital Lifeline</title>
     </programme>
-    <programme start="20241225035500 +0000" stop="20241225044500 +0000" channel="TestChannel2.starhub">
-        <title>Are You The One</title>
+    <programme start="20241227200000 +0000" stop="20241227210000 +0000" channel="TestChannel 996.starhub">
+        <title>Winter Night</title>
     </programme>
-    <programme start="20241225044500 +0000" stop="20241225051500 +0000" channel="TestChannel2.starhub">
+    <programme start="20241227210000 +0000" stop="20241227220000 +0000" channel="TestChannel 996.starhub">
+        <title>Big City Shop 2024</title>
+    </programme>
+    <programme start="20241227220000 +0000" stop="20241227223000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heavenly Party</title>
+    </programme>
+    <programme start="20241227223000 +0000" stop="20241227230000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2024</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="TestChannel 996.starhub">
+        <title>Good Morning Hong Kong</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="TestChannel 996.starhub">
+        <title>All That Is Bitter Is Sweet</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228011500 +0000" channel="TestChannel 996.starhub">
+        <title>Happy Old Buddies</title>
+    </programme>
+    <programme start="20241228011500 +0000" stop="20241228014500 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20241225051500 +0000" stop="20241225060500 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
+    <programme start="20241228014500 +0000" stop="20241228020000 +0000" channel="TestChannel 996.starhub">
+        <title>Hands Up</title>
     </programme>
-    <programme start="20241225060500 +0000" stop="20241225070000 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
+    <programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="TestChannel 996.starhub">
+        <title>Short End Of The Stick</title>
     </programme>
-    <programme start="20241225070000 +0000" stop="20241225081500 +0000" channel="TestChannel2.starhub">
-        <title>Kill Heel</title>
+    <programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="TestChannel 996.starhub">
+        <title>Short End Of The Stick</title>
     </programme>
-    <programme start="20241225081500 +0000" stop="20241225090000 +0000" channel="TestChannel2.starhub">
-        <title>Hilarious Family</title>
+    <programme start="20241228040000 +0000" stop="20241228043000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2024</title>
     </programme>
-    <programme start="20241225090000 +0000" stop="20241225094500 +0000" channel="TestChannel2.starhub">
-        <title>Choice Husband</title>
+    <programme start="20241228043000 +0000" stop="20241228050000 +0000" channel="TestChannel 996.starhub">
+        <title>Shock Mystery</title>
     </programme>
-    <programme start="20241225094500 +0000" stop="20241225103500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City</title>
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="TestChannel 996.starhub">
+        <title>Family Feud</title>
     </programme>
-    <programme start="20241225103500 +0000" stop="20241225110000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241228053000 +0000" stop="20241228060000 +0000" channel="TestChannel 996.starhub">
+        <title>ChatSAT</title>
     </programme>
-    <programme start="20241225110000 +0000" stop="20241225120000 +0000" channel="TestChannel2.starhub">
-        <title>Hilarious Family</title>
+    <programme start="20241228060000 +0000" stop="20241228063000 +0000" channel="TestChannel 996.starhub">
+        <title>Chill. Hike. Camping (Sr.2)</title>
     </programme>
-    <programme start="20241225120000 +0000" stop="20241225130000 +0000" channel="TestChannel2.starhub">
-        <title>Big Biz Duel</title>
+    <programme start="20241228063000 +0000" stop="20241228080000 +0000" channel="TestChannel 996.starhub">
+        <title>Midlife, Sing &amp; Shine! 3</title>
     </programme>
-    <programme start="20241225130000 +0000" stop="20241225140000 +0000" channel="TestChannel2.starhub">
-        <title>Are You The One</title>
+    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="TestChannel 996.starhub">
+        <title>Profession Impossible (Sr.3)</title>
     </programme>
-    <programme start="20241225140000 +0000" stop="20241225143000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="TestChannel 996.starhub">
+        <title>J Music</title>
     </programme>
-    <programme start="20241225143000 +0000" stop="20241225152000 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
+    <programme start="20241228090000 +0000" stop="20241228093000 +0000" channel="TestChannel 996.starhub">
+        <title>Family Feud</title>
     </programme>
-    <programme start="20241225152000 +0000" stop="20241225161500 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
+    <programme start="20241228093000 +0000" stop="20241228100000 +0000" channel="TestChannel 996.starhub">
+        <title>ChatSAT</title>
     </programme>
-    <programme start="20241225161500 +0000" stop="20241225173000 +0000" channel="TestChannel2.starhub">
-        <title>Evilive</title>
+    <programme start="20241228100000 +0000" stop="20241228103000 +0000" channel="TestChannel 996.starhub">
+        <title>Gourmet Express</title>
     </programme>
-    <programme start="20241225173000 +0000" stop="20241225183000 +0000" channel="TestChannel2.starhub">
-        <title>Hilarious Family</title>
+    <programme start="20241228103000 +0000" stop="20241228110000 +0000" channel="TestChannel 996.starhub">
+        <title>News At 18:30</title>
     </programme>
-    <programme start="20241225183000 +0000" stop="20241225190000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="TestChannel 996.starhub">
+        <title>China Review 2024</title>
     </programme>
-    <programme start="20241225190000 +0000" stop="20241225200000 +0000" channel="TestChannel2.starhub">
-        <title>Big Biz Duel</title>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2024</title>
     </programme>
-    <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="TestChannel2.starhub">
-        <title>Are You The One</title>
+    <programme start="20241228120000 +0000" stop="20241228133000 +0000" channel="TestChannel 996.starhub">
+        <title>Infinity and Beyond 2024</title>
     </programme>
-    <programme start="20241225210000 +0000" stop="20241225213000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20241225213000 +0000" stop="20241225222000 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
-    </programme>
-    <programme start="20241225222000 +0000" stop="20241225231500 +0000" channel="TestChannel2.starhub">
-        <title>Treasure Of Destiny</title>
+    <programme start="20241228133000 +0000" stop="20241228151500 +0000" channel="TestChannel 996.starhub">
+        <title>Macao Outdoor Performance Venue Warm-up Party @21:30</title>
     </programme>
     <programme start="20241225231500 +0000" stop="20241226003000 +0000" channel="TestChannel2.starhub">
         <title>Evilive</title>
@@ -30431,6 +30347,90 @@
     </programme>
     <programme start="20241228125000 +0000" stop="20241228134500 +0000" channel="TestChannel2.starhub">
         <title>See Her Again</title>
+    </programme>
+    <programme start="20241228134500 +0000" stop="20241228150000 +0000" channel="TestChannel2.starhub">
+        <title>Good Partner</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228161500 +0000" channel="TestChannel2.starhub">
+        <title>My Perfect Stranger</title>
+    </programme>
+    <programme start="20241228161500 +0000" stop="20241228170500 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
+    </programme>
+    <programme start="20241228170500 +0000" stop="20241228180000 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
+    </programme>
+    <programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="TestChannel2.starhub">
+        <title>A Female Student Arrives at the Imperial College</title>
+    </programme>
+    <programme start="20241228190000 +0000" stop="20241228195000 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241228195000 +0000" stop="20241228204500 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241228204500 +0000" stop="20241228220000 +0000" channel="TestChannel2.starhub">
+        <title>Good Partner</title>
+    </programme>
+    <programme start="20241228220000 +0000" stop="20241228231500 +0000" channel="TestChannel2.starhub">
+        <title>My Perfect Stranger</title>
+    </programme>
+    <programme start="20241228231500 +0000" stop="20241229001500 +0000" channel="TestChannel2.starhub">
+        <title>A Female Student Arrives at the Imperial College</title>
+    </programme>
+    <programme start="20241229001500 +0000" stop="20241229010500 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
+    </programme>
+    <programme start="20241229010500 +0000" stop="20241229020000 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
+    </programme>
+    <programme start="20241229020000 +0000" stop="20241229025500 +0000" channel="TestChannel2.starhub">
+        <title>Are You The One</title>
+    </programme>
+    <programme start="20241229025500 +0000" stop="20241229034000 +0000" channel="TestChannel2.starhub">
+        <title>Are You The One</title>
+    </programme>
+    <programme start="20241229034000 +0000" stop="20241229042500 +0000" channel="TestChannel2.starhub">
+        <title>Are You The One</title>
+    </programme>
+    <programme start="20241229042500 +0000" stop="20241229051000 +0000" channel="TestChannel2.starhub">
+        <title>Are You The One</title>
+    </programme>
+    <programme start="20241229051000 +0000" stop="20241229060000 +0000" channel="TestChannel2.starhub">
+        <title>Are You The One</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229071500 +0000" channel="TestChannel2.starhub">
+        <title>Good Partner</title>
+    </programme>
+    <programme start="20241229071500 +0000" stop="20241229083000 +0000" channel="TestChannel2.starhub">
+        <title>My Perfect Stranger</title>
+    </programme>
+    <programme start="20241229083000 +0000" stop="20241229092000 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241229092000 +0000" stop="20241229101500 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241229101500 +0000" stop="20241229110500 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
+    </programme>
+    <programme start="20241229110500 +0000" stop="20241229120000 +0000" channel="TestChannel2.starhub">
+        <title>Unchained Love</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229125000 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241229125000 +0000" stop="20241229134500 +0000" channel="TestChannel2.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20241229134500 +0000" stop="20241229150000 +0000" channel="TestChannel2.starhub">
+        <title>Good Partner</title>
+    </programme>
+    <programme start="20241229150000 +0000" stop="20241229161500 +0000" channel="TestChannel2.starhub">
+        <title>My Perfect Stranger</title>
+    </programme>
+    <programme start="20241229161500 +0000" stop="20241229170500 +0000" channel="TestChannel2.starhub">
+        <title>Forensic JD</title>
     </programme>
     <programme start="20241224235000 +0000" stop="20241225014000 +0000" channel="Premier Sports.starhub">
         <title>Premiership Rugby Sale v Exeter</title>
@@ -30969,18 +30969,6 @@
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31249,18 +31237,6 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Premier 4.starhub">
@@ -31551,18 +31527,6 @@
     <programme start="20250117100000 +0000" stop="20250117160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31849,6 +31813,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250116040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116040000 +0000" stop="20250116100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116100000 +0000" stop="20250116160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Premier 8.starhub">
@@ -32742,18 +32718,6 @@
     <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="beIN Sports 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="beIN Sports 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="beIN Sports 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="beIN Sports 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32883,18 +32847,6 @@
     <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="beIN Sports 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="beIN Sports 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="beIN Sports 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="beIN Sports 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33022,18 +32974,6 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105160000 +0000" channel="beIN Sports 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241224220000 +0000" stop="20241225040000 +0000" channel="Hub Premier 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225040000 +0000" stop="20241225100000 +0000" channel="Hub Premier 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225100000 +0000" stop="20241225160000 +0000" channel="Hub Premier 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241225160000 +0000" stop="20241225220000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241225220000 +0000" stop="20241226040000 +0000" channel="Hub Premier 7.starhub">
