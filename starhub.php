@@ -14727,8 +14727,11 @@
     <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="SPOTV.starhub">
         <title>Ep 24</title>
     </programme>
-    <programme start="20241227180000 +0000" stop="20241228003000 +0000" channel="SPOTV.starhub">
+    <programme start="20241227180000 +0000" stop="20241228000000 +0000" channel="SPOTV.starhub">
         <title>Day 6 Finals</title>
+    </programme>
+    <programme start="20241228000000 +0000" stop="20241228002500 +0000" channel="SPOTV.starhub">
+        <title>Review</title>
     </programme>
     <programme start="20241228003000 +0000" stop="20241228063000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>
@@ -14747,9 +14750,6 @@
     </programme>
     <programme start="20241228180000 +0000" stop="20241228230000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
-    </programme>
-    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SPOTV.starhub">
-        <title>Pre Show</title>
     </programme>
     <programme start="20241228233000 +0000" stop="20241229070000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>

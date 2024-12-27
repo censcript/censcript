@@ -319,13 +319,13 @@
         <title>Big Stories Of The Week</title>
     </programme>
     <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point</title>
+        <title>Sustainable Future</title>
     </programme>
     <programme start="20241227233000 +0000" stop="20241228000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Autobizz</title>
+        <title>Sustainable Future</title>
     </programme>
     <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+        <title>Sustainable Future</title>
     </programme>
     <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
@@ -333,38 +333,53 @@
     <programme start="20241228010000 +0000" stop="20241228030000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Squawk Box</title>
     </programme>
-    <programme start="20241228030000 +0000" stop="20241228045500 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241228030000 +0000" stop="20241228050000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Profit</title>
     </programme>
-    <programme start="20241228045500 +0000" stop="20241228070000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241228050000 +0000" stop="20241228053000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Exclusive</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228073000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Power Lunch</title>
     </programme>
-    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
-    </programme>
     <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+        <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Closing Bell</title>
     </programme>
-    <programme start="20241228100000 +0000" stop="20241228110500 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Evening Up</title>
     </programme>
-    <programme start="20241228110500 +0000" stop="20241228120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime</title>
+    <programme start="20241228110000 +0000" stop="20241228113000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Big Stories Of The Week</title>
+    </programme>
+    <programme start="20241228113000 +0000" stop="20241228120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Big Stories Of The Week</title>
     </programme>
     <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
+        <title>CNBC Indonesia Exclusive</title>
     </programme>
-    <programme start="20241228130000 +0000" stop="20241228150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box</title>
+    <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Investime Pilihan</title>
     </programme>
-    <programme start="20241228150000 +0000" stop="20241227170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Profit</title>
+    <programme start="20241228140000 +0000" stop="20241228143000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20241228143000 +0000" stop="20241228150000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Number&#039;s Bite</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228153000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Number&#039;s Bite</title>
+    </programme>
+    <programme start="20241228153000 +0000" stop="20241228160000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20241228160000 +0000" stop="20241227170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Investime Pilihan</title>
     </programme>
     <programme start="20241227170000 +0000" stop="20241227183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Sepeda Pembawa Cinta</title>
@@ -462,8 +477,17 @@
     <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
     </programme>
+    <programme start="20241227170000 +0000" stop="20241227173000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
     <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
+    </programme>
+    <programme start="20241227173000 +0000" stop="20241227180000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
+    <programme start="20241227180000 +0000" stop="20241227193000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
     </programme>
     <programme start="20241227180000 +0000" stop="20241227193000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
@@ -471,8 +495,17 @@
     <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama Pagi</title>
     </programme>
+    <programme start="20241227193000 +0000" stop="20241227200000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama Pagi</title>
+    </programme>
     <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
+    </programme>
+    <programme start="20241227200000 +0000" stop="20241227203000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
+    <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
     </programme>
     <programme start="20241227203000 +0000" stop="20241227210000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
@@ -480,8 +513,17 @@
     <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="tvOne.cubmu">
         <title>Indonesia Mengenangmu</title>
     </programme>
+    <programme start="20241227210000 +0000" stop="20241227213000 +0000" channel="tvOne.cubmu">
+        <title>Indonesia Mengenangmu</title>
+    </programme>
     <programme start="20241227213000 +0000" stop="20241227230000 +0000" channel="tvOne.cubmu">
         <title>Kabar Pagi</title>
+    </programme>
+    <programme start="20241227213000 +0000" stop="20241227230000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Pagi</title>
+    </programme>
+    <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Pagi</title>
     </programme>
     <programme start="20241227230000 +0000" stop="20241227233000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Pagi</title>
@@ -489,8 +531,17 @@
     <programme start="20241227233000 +0000" stop="20241228010000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Pagi</title>
     </programme>
+    <programme start="20241227233000 +0000" stop="20241228010000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Pagi</title>
+    </programme>
     <programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="tvOne.cubmu">
         <title>Inspirasi Pagi</title>
+    </programme>
+    <programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="tvOne.cubmu">
+        <title>Inspirasi Pagi</title>
+    </programme>
+    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="tvOne.cubmu">
+        <title>One Klik</title>
     </programme>
     <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="tvOne.cubmu">
         <title>One Klik</title>
@@ -498,8 +549,17 @@
     <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="tvOne.cubmu">
         <title>Bukan Jalan - Jalan Biasa</title>
     </programme>
+    <programme start="20241228023000 +0000" stop="20241228030000 +0000" channel="tvOne.cubmu">
+        <title>Bukan Jalan - Jalan Biasa</title>
+    </programme>
     <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="tvOne.cubmu">
         <title>Menyingkap Tabir</title>
+    </programme>
+    <programme start="20241228030000 +0000" stop="20241228033000 +0000" channel="tvOne.cubmu">
+        <title>Menyingkap Tabir</title>
+    </programme>
+    <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="tvOne.cubmu">
+        <title>Pesona Nusantara</title>
     </programme>
     <programme start="20241228033000 +0000" stop="20241228040000 +0000" channel="tvOne.cubmu">
         <title>Pesona Nusantara</title>
@@ -507,8 +567,17 @@
     <programme start="20241228040000 +0000" stop="20241228053000 +0000" channel="tvOne.cubmu">
         <title>Kabar Siang</title>
     </programme>
+    <programme start="20241228040000 +0000" stop="20241228053000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Siang</title>
+    </programme>
     <programme start="20241228053000 +0000" stop="20241228070000 +0000" channel="tvOne.cubmu">
         <title>Damai Indonesiaku</title>
+    </programme>
+    <programme start="20241228053000 +0000" stop="20241228070000 +0000" channel="tvOne.cubmu">
+        <title>Damai Indonesiaku</title>
+    </programme>
+    <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="tvOne.cubmu">
+        <title>Selalu Ada Hikmah</title>
     </programme>
     <programme start="20241228070000 +0000" stop="20241228073000 +0000" channel="tvOne.cubmu">
         <title>Selalu Ada Hikmah</title>
@@ -516,8 +585,17 @@
     <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="tvOne.cubmu">
         <title>Rumah Mamah Dedeh</title>
     </programme>
+    <programme start="20241228073000 +0000" stop="20241228080000 +0000" channel="tvOne.cubmu">
+        <title>Rumah Mamah Dedeh</title>
+    </programme>
     <programme start="20241228080000 +0000" stop="20241228090000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Akhir Pekan</title>
+    </programme>
+    <programme start="20241228080000 +0000" stop="20241228090000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Akhir Pekan</title>
+    </programme>
+    <programme start="20241228090000 +0000" stop="20241228110000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
     </programme>
     <programme start="20241228090000 +0000" stop="20241228110000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
@@ -525,14 +603,29 @@
     <programme start="20241228110000 +0000" stop="20241228130000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Malam</title>
     </programme>
+    <programme start="20241228110000 +0000" stop="20241228130000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Malam</title>
+    </programme>
+    <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
     <programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
     </programme>
     <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
     </programme>
+    <programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
     <programme start="20241228150000 +0000" stop="20241228163000 +0000" channel="tvOne.cubmu">
         <title>One Pride MMA - King Size New Champion FN 83</title>
+    </programme>
+    <programme start="20241228150000 +0000" stop="20241228163000 +0000" channel="tvOne.cubmu">
+        <title>One Pride MMA - King Size New Champion FN 83</title>
+    </programme>
+    <programme start="20241228163000 +0000" stop="20241227170000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
     </programme>
     <programme start="20241228163000 +0000" stop="20241227170000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
@@ -1455,9 +1548,6 @@
     <programme start="20241228160000 +0000" stop="20241227180000 +0000" channel="SCTV.cubmu">
         <title>Film Layar Lebar Sps</title>
     </programme>
-    <programme start="20241227170000 +0000" stop="20241227170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20241227170500 +0000" stop="20241227180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -1819,10 +1909,10 @@
         <title>Jalan Dakwah</title>
     </programme>
     <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="BTV.cubmu">
-        <title>Vlogger On The Road</title>
+        <title>30 Min With Moren</title>
     </programme>
     <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="BTV.cubmu">
-        <title>Berita Viral</title>
+        <title>Vlogger On The Road</title>
     </programme>
     <programme start="20241228010000 +0000" stop="20241228014500 +0000" channel="BTV.cubmu">
         <title>Masak Ala Devina Hermawan</title>
@@ -2126,9 +2216,6 @@
     </programme>
     <programme start="20241228163000 +0000" stop="20241227170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20241227170000 +0000" stop="20241227170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241227170500 +0000" stop="20241227170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
