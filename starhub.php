@@ -1041,9 +1041,6 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="FashionTV HD.starhub">
         <title>Beauty</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="FashionTV HD.starhub">
-        <title>Beauty</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="FashionTV HD.starhub">
         <title>Fashion From Japan</title>
     </programme>
@@ -1199,6 +1196,9 @@
     </programme>
     <programme start="20241227013000 +0000" stop="20241227020000 +0000" channel="FashionTV HD.starhub">
         <title>Irina Shayk</title>
+    </programme>
+    <programme start="20241227020000 +0000" stop="20241227023000 +0000" channel="FashionTV HD.starhub">
+        <title>Fashion Destination: UAE</title>
     </programme>
     <programme start="20241224234500 +0000" stop="20241225001000 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>No Such Luck / Frog Wild</title>
@@ -2469,9 +2469,6 @@
     <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
@@ -2699,6 +2696,9 @@
     </programme>
     <programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="TVBS-NEWS.starhub">
         <title>1100 Morning News</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1200/1300 Noon News</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225003000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
@@ -3117,9 +3117,6 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="ANC.starhub">
         <title>Made In Germany</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="ANC.starhub">
-        <title>At The Moment</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="ANC.starhub">
         <title>Headstart</title>
     </programme>
@@ -3300,6 +3297,9 @@
     <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="ANC.starhub">
         <title>In Good Shape</title>
     </programme>
+    <programme start="20241227113000 +0000" stop="20241227120000 +0000" channel="ANC.starhub">
+        <title>Arts.21</title>
+    </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TVBS Asia.starhub">
         <title>Chop Chop Show</title>
     </programme>
@@ -3362,9 +3362,6 @@
     </programme>
     <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="TVBS Asia.starhub">
         <title>Global Focus</title>
-    </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="TVBS Asia.starhub">
-        <title>All About Health</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TVBS Asia.starhub">
         <title>Chop Chop Show</title>
@@ -3599,6 +3596,9 @@
     </programme>
     <programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="TVBS Asia.starhub">
         <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20241229110000 +0000" stop="20241229120000 +0000" channel="TVBS Asia.starhub">
+        <title>Have a nice dream</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225001600 +0000" channel="Euronews HD.starhub">
         <title>Wake up Europe</title>
@@ -5184,13 +5184,13 @@
     <programme start="20241227133000 +0000" stop="20241227163000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20241227163000 +0000" stop="20241227190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241227163000 +0000" stop="20241227191500 +0000" channel="Asianet Movies.starhub">
         <title>Varikkuzhiyile Kolapathakam</title>
     </programme>
-    <programme start="20241227190000 +0000" stop="20241227220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241227191500 +0000" stop="20241227203000 +0000" channel="Asianet Movies.starhub">
         <title>Jananam 1947 Pranayam Thudarunnu</title>
     </programme>
-    <programme start="20241227220000 +0000" stop="20241228003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241227203000 +0000" stop="20241228003000 +0000" channel="Asianet Movies.starhub">
         <title>Jagame thandhiram</title>
     </programme>
     <programme start="20241228003000 +0000" stop="20241228010000 +0000" channel="Asianet Movies.starhub">
@@ -9120,9 +9120,6 @@
     <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Chief Editor&#039;S Time (25/12/24)</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (26/12/24 Pt1)</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Morning Express (26/12/24 Pt2)</title>
     </programme>
@@ -9299,6 +9296,9 @@
     </programme>
     <programme start="20241227103000 +0000" stop="20241227110000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>News Talk (27/12/24)</title>
+    </programme>
+    <programme start="20241227110000 +0000" stop="20241227113000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Asian Financial Insight</title>
     </programme>
     <programme start="20241224231000 +0000" stop="20241225001000 +0000" channel="KBS World HD.starhub">
         <title>Korea-Khitan War</title>
@@ -13332,9 +13332,6 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="CGTN.starhub">
         <title>The Heat</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="CGTN.starhub">
-        <title>The World Today</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
     </programme>
@@ -13499,6 +13496,9 @@
     </programme>
     <programme start="20241227050000 +0000" stop="20241227051500 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
+    </programme>
+    <programme start="20241227051500 +0000" stop="20241227053000 +0000" channel="CGTN.starhub">
+        <title>Sports Scene</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="ABC Australia HD.starhub">
         <title>Tracy: A Force of Nature</title>
@@ -14499,9 +14499,6 @@
     <programme start="20241225220000 +0000" stop="20241225230000 +0000" channel="Cartoon Network.starhub">
         <title>Bear Art</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="Cartoon Network.starhub">
-        <title>Beast Boy On A Shelf</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226001500 +0000" channel="Cartoon Network.starhub">
         <title>High Speed Hare/Beaky Buzzard Gags: Rattle Snake/Nutty Devil</title>
     </programme>
@@ -14700,6 +14697,9 @@
     <programme start="20241227180000 +0000" stop="20241227190000 +0000" channel="Cartoon Network.starhub">
         <title>Sworn To The Sword/Keeping It Together/Horror Club/Maximum Capacity/Letters To Lars</title>
     </programme>
+    <programme start="20241227190000 +0000" stop="20241227200000 +0000" channel="Cartoon Network.starhub">
+        <title>The Postcard/1000th Chopper Flight Party/Party Horse/Gary&#039;s Synthesizer/Rigby Goes To Prom</title>
+    </programme>
     <programme start="20241224180000 +0000" stop="20241225002000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
     </programme>
@@ -14723,9 +14723,6 @@
     </programme>
     <programme start="20241225173000 +0000" stop="20241225180000 +0000" channel="SPOTV.starhub">
         <title>Review</title>
-    </programme>
-    <programme start="20241225180000 +0000" stop="20241226000000 +0000" channel="SPOTV.starhub">
-        <title>Day 6 Finals</title>
     </programme>
     <programme start="20241226000000 +0000" stop="20241226040000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
@@ -16296,9 +16293,6 @@
     <programme start="20241225223000 +0000" stop="20241225230000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Zoom In</title>
     </programme>
-    <programme start="20241225230000 +0000" stop="20241226000000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Morning Express (26/12/24 Pt1)</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (26/12/24 Pt2)</title>
     </programme>
@@ -16481,6 +16475,9 @@
     </programme>
     <programme start="20241227140000 +0000" stop="20241227143000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Chief Editor&#039;s Time (27/12/24)</title>
+    </programme>
+    <programme start="20241227143000 +0000" stop="20241227150000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>News Talk (27/12/24)</title>
     </programme>
     <programme start="20241224235000 +0000" stop="20241225004000 +0000" channel="Discovery HD.starhub">
         <title>A Well That Takes On Water</title>
@@ -17226,9 +17223,6 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Travelxp HD.starhub">
         <title>Ohana</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Travelxp HD.starhub">
-        <title>Bundi</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226003000 +0000" channel="Travelxp HD.starhub">
         <title>Majdanpek, Serbia</title>
     </programme>
@@ -17381,6 +17375,9 @@
     </programme>
     <programme start="20241227003000 +0000" stop="20241227010000 +0000" channel="Travelxp HD.starhub">
         <title>Sooma National Park</title>
+    </programme>
+    <programme start="20241227010000 +0000" stop="20241227013000 +0000" channel="Travelxp HD.starhub">
+        <title>Itoshima</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
@@ -21576,11 +21573,11 @@
     <programme start="20241225232500 +0000" stop="20241225233000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Japan From Above: Up Close</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Kabuki Kool</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226001000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
+    </programme>
+    <programme start="20241226001000 +0000" stop="20241226002300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Biz Stream Special Edition</title>
     </programme>
     <programme start="20241224223500 +0000" stop="20241225001500 +0000" channel="HBO Hits HD.starhub">
         <title>Game Night</title>
@@ -27090,9 +27087,6 @@
     <programme start="20241225230000 +0000" stop="20241225233000 +0000" channel="Hub Premier 1.starhub">
         <title>THE BIG INTERVIEW</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="Hub Premier 1.starhub">
-        <title>PL REWIND</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="Hub Premier 1.starhub">
         <title>REVIEW - SUN 22 DEC</title>
     </programme>
@@ -27281,6 +27275,9 @@
     </programme>
     <programme start="20241228003000 +0000" stop="20241228013000 +0000" channel="Hub Premier 1.starhub">
         <title>REVIEW - SAT 28 DEC</title>
+    </programme>
+    <programme start="20241228013000 +0000" stop="20241228020000 +0000" channel="Hub Premier 1.starhub">
+        <title>PL STORIES</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="Sky News HD.starhub">
         <title>Sky News</title>
@@ -28623,6 +28620,18 @@
     <programme start="20250105100000 +0000" stop="20250105160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250105160300 +0000" stop="20250105220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241224234900 +0000" stop="20241225000500 +0000" channel="HBO Family HD.starhub">
         <title>Fashion Bears</title>
     </programme>
@@ -29574,9 +29583,6 @@
     <programme start="20241225213000 +0000" stop="20241225233000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R9: Auckland FC vs Western United FC</title>
     </programme>
-    <programme start="20241225233000 +0000" stop="20241226000000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 9</title>
-    </programme>
     <programme start="20241226000000 +0000" stop="20241226010000 +0000" channel="TestChannel 995.starhub">
         <title>#1180</title>
     </programme>
@@ -29822,6 +29828,9 @@
     </programme>
     <programme start="20241230223000 +0000" stop="20241230230000 +0000" channel="TestChannel 995.starhub">
         <title>Episode 1104: DWCS Alumni</title>
+    </programme>
+    <programme start="20241230230000 +0000" stop="20241231010000 +0000" channel="TestChannel 995.starhub">
+        <title>Isuzu UTE A-League 2024/25 R10: Western United FC vs Brisbane Roar FC</title>
     </programme>
     <programme start="20241225000000 +0000" stop="20241225010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
