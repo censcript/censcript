@@ -22132,22 +22132,34 @@
         <title>Movie</title>
     </programme>
     <programme start="20241227223000 +0000" stop="20241228010000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Thoongatha Kannendru Ondru</title>
     </programme>
-    <programme start="20241228010000 +0000" stop="20241228073000 +0000" channel="KTV HD.starhub">
+    <programme start="20241228010000 +0000" stop="20241228013000 +0000" channel="KTV HD.starhub">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20241228073000 +0000" stop="20241228170000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+    <programme start="20241228013000 +0000" stop="20241228043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kannukkul Nilavu</title>
+    </programme>
+    <programme start="20241228043000 +0000" stop="20241228073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thirupathi Ezhumalai Venkatesa</title>
+    </programme>
+    <programme start="20241228073000 +0000" stop="20241228103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Devan</title>
+    </programme>
+    <programme start="20241228103000 +0000" stop="20241228133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kedi</title>
+    </programme>
+    <programme start="20241228133000 +0000" stop="20241228170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Arul</title>
     </programme>
     <programme start="20241228170000 +0000" stop="20241228200000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Goa</title>
     </programme>
     <programme start="20241228200000 +0000" stop="20241228223000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Sondam 16</title>
     </programme>
     <programme start="20241228223000 +0000" stop="20241229010000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+        <title>Movie - Vayasu Pasanga</title>
     </programme>
     <programme start="20241229010000 +0000" stop="20241229013000 +0000" channel="KTV HD.starhub">
         <title>Teleshopping</title>
@@ -22390,18 +22402,6 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250116040000 +0000" stop="20250116100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250116100000 +0000" stop="20250116170000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250116170000 +0000" stop="20250116220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20241226233000 +0000" stop="20241227013000 +0000" channel="Hub Sports 1  HD.starhub">
