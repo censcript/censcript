@@ -543,17 +543,8 @@
     <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="tvOne.cubmu">
         <title>AB Shop</title>
     </programme>
-    <programme start="20241228170000 +0000" stop="20241228173000 +0000" channel="tvOne.cubmu">
-        <title>AB Shop</title>
-    </programme>
     <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
-    </programme>
-    <programme start="20241228173000 +0000" stop="20241228180000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
-    </programme>
-    <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Hari Ini</title>
     </programme>
     <programme start="20241228180000 +0000" stop="20241228183000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
@@ -561,17 +552,8 @@
     <programme start="20241228183000 +0000" stop="20241228193000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
     </programme>
-    <programme start="20241228183000 +0000" stop="20241228193000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Petang</title>
-    </programme>
     <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
-    </programme>
-    <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
-    </programme>
-    <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Hari Ini</title>
     </programme>
     <programme start="20241228200000 +0000" stop="20241228203000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
@@ -579,17 +561,8 @@
     <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Pagi</title>
     </programme>
-    <programme start="20241228203000 +0000" stop="20241228210000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Pagi</title>
-    </programme>
     <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="tvOne.cubmu">
         <title>Indonesia Mengenangmu</title>
-    </programme>
-    <programme start="20241228210000 +0000" stop="20241228213000 +0000" channel="tvOne.cubmu">
-        <title>Indonesia Mengenangmu</title>
-    </programme>
-    <programme start="20241228213000 +0000" stop="20241228230000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Pagi</title>
     </programme>
     <programme start="20241228213000 +0000" stop="20241228230000 +0000" channel="tvOne.cubmu">
         <title>Kabar Pagi</title>
@@ -597,17 +570,8 @@
     <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Pagi</title>
     </programme>
-    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Pagi</title>
-    </programme>
     <programme start="20241228233000 +0000" stop="20241229010000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Pagi</title>
-    </programme>
-    <programme start="20241228233000 +0000" stop="20241229010000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Pagi</title>
-    </programme>
-    <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="tvOne.cubmu">
-        <title>Inspirasi Pagi</title>
     </programme>
     <programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="tvOne.cubmu">
         <title>Inspirasi Pagi</title>
@@ -615,17 +579,8 @@
     <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="tvOne.cubmu">
         <title>Telusur</title>
     </programme>
-    <programme start="20241229020000 +0000" stop="20241229023000 +0000" channel="tvOne.cubmu">
-        <title>Telusur</title>
-    </programme>
     <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="tvOne.cubmu">
         <title>Bukan Jalan - Jalan Biasa</title>
-    </programme>
-    <programme start="20241229023000 +0000" stop="20241229030000 +0000" channel="tvOne.cubmu">
-        <title>Bukan Jalan - Jalan Biasa</title>
-    </programme>
-    <programme start="20241229030000 +0000" stop="20241229033000 +0000" channel="tvOne.cubmu">
-        <title>Dunia Dalam Kamera</title>
     </programme>
     <programme start="20241229030000 +0000" stop="20241229033000 +0000" channel="tvOne.cubmu">
         <title>Dunia Dalam Kamera</title>
@@ -633,17 +588,8 @@
     <programme start="20241229033000 +0000" stop="20241229040000 +0000" channel="tvOne.cubmu">
         <title>Indonesia Plus</title>
     </programme>
-    <programme start="20241229033000 +0000" stop="20241229040000 +0000" channel="tvOne.cubmu">
-        <title>Indonesia Plus</title>
-    </programme>
     <programme start="20241229040000 +0000" stop="20241229053000 +0000" channel="tvOne.cubmu">
         <title>Kabar Siang</title>
-    </programme>
-    <programme start="20241229040000 +0000" stop="20241229053000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Siang</title>
-    </programme>
-    <programme start="20241229053000 +0000" stop="20241229070000 +0000" channel="tvOne.cubmu">
-        <title>Damai Indonesiaku</title>
     </programme>
     <programme start="20241229053000 +0000" stop="20241229070000 +0000" channel="tvOne.cubmu">
         <title>Damai Indonesiaku</title>
@@ -651,17 +597,8 @@
     <programme start="20241229070000 +0000" stop="20241229073000 +0000" channel="tvOne.cubmu">
         <title>Selalu Ada Hikmah</title>
     </programme>
-    <programme start="20241229070000 +0000" stop="20241229073000 +0000" channel="tvOne.cubmu">
-        <title>Selalu Ada Hikmah</title>
-    </programme>
     <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="tvOne.cubmu">
         <title>Rumah Mamah Dedeh</title>
-    </programme>
-    <programme start="20241229073000 +0000" stop="20241229080000 +0000" channel="tvOne.cubmu">
-        <title>Rumah Mamah Dedeh</title>
-    </programme>
-    <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Akhir Pekan</title>
     </programme>
     <programme start="20241229080000 +0000" stop="20241229090000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Akhir Pekan</title>
@@ -669,17 +606,8 @@
     <programme start="20241229090000 +0000" stop="20241229110000 +0000" channel="tvOne.cubmu">
         <title>Kabar Petang</title>
     </programme>
-    <programme start="20241229090000 +0000" stop="20241229110000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Petang</title>
-    </programme>
     <programme start="20241229110000 +0000" stop="20241229130000 +0000" channel="tvOne.cubmu">
         <title>Apa Kabar Indonesia Malam</title>
-    </programme>
-    <programme start="20241229110000 +0000" stop="20241229130000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Malam</title>
-    </programme>
-    <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
     </programme>
     <programme start="20241229130000 +0000" stop="20241229140000 +0000" channel="tvOne.cubmu">
         <title>Kabar Utama</title>
@@ -687,17 +615,8 @@
     <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="tvOne.cubmu">
         <title>Catatan Akhir Tahun 2024</title>
     </programme>
-    <programme start="20241229140000 +0000" stop="20241229150000 +0000" channel="tvOne.cubmu">
-        <title>Catatan Akhir Tahun 2024</title>
-    </programme>
     <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="tvOne.cubmu">
         <title>Kabar Hari Ini</title>
-    </programme>
-    <programme start="20241229150000 +0000" stop="20241229160000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Hari Ini</title>
-    </programme>
-    <programme start="20241229160000 +0000" stop="20241228170000 +0000" channel="tvOne.cubmu">
-        <title>UFC Seru !!!</title>
     </programme>
     <programme start="20241229160000 +0000" stop="20241228170000 +0000" channel="tvOne.cubmu">
         <title>UFC Seru !!!</title>
