@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
-    <programme start="20241228003000 +0000" stop="20241228013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20241228020000 +0000" stop="20241228023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20241229133000 +0000" stop="20241229170500 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
@@ -299,5 +290,14 @@
     </programme>
     <programme start="20250116133000 +0000" stop="20250116140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250116183000 +0000" stop="20250116230000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Friday Morning</title>
+    </programme>
+    <programme start="20250116192000 +0000" stop="20250116214000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Ipswich v Brighton</title>
+    </programme>
+    <programme start="20250116195000 +0000" stop="20250116221000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Manchester United v Southampton</title>
     </programme>
 </tv>

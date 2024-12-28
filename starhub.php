@@ -5379,6 +5379,18 @@
     <programme start="20250106100000 +0000" stop="20250106163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250106163000 +0000" stop="20250106220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241225234000 +0000" stop="20241226001000 +0000" channel="HISTORY HD.starhub">
         <title>Lights, Camera, Special Action Force!</title>
     </programme>
@@ -14733,7 +14745,7 @@
     <programme start="20241228000000 +0000" stop="20241228002500 +0000" channel="SPOTV.starhub">
         <title>Review</title>
     </programme>
-    <programme start="20241228003000 +0000" stop="20241228063000 +0000" channel="SPOTV.starhub">
+    <programme start="20241228002500 +0000" stop="20241228063000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>
     </programme>
     <programme start="20241228063000 +0000" stop="20241228073000 +0000" channel="SPOTV.starhub">
@@ -14751,16 +14763,25 @@
     <programme start="20241228180000 +0000" stop="20241228230000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Finals</title>
     </programme>
-    <programme start="20241228233000 +0000" stop="20241229070000 +0000" channel="SPOTV.starhub">
+    <programme start="20241228230000 +0000" stop="20241228233000 +0000" channel="SPOTV.starhub">
+        <title>Pre Show</title>
+    </programme>
+    <programme start="20241228233000 +0000" stop="20241229063000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Finals</title>
+    </programme>
+    <programme start="20241229063000 +0000" stop="20241229070000 +0000" channel="SPOTV.starhub">
+        <title>Review</title>
     </programme>
     <programme start="20241229070000 +0000" stop="20241229080000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20241229080000 +0000" stop="20241229130000 +0000" channel="SPOTV.starhub">
+    <programme start="20241229080000 +0000" stop="20241229122000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20241229130000 +0000" stop="20241229180000 +0000" channel="SPOTV.starhub">
+    <programme start="20241229122000 +0000" stop="20241229132000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20241229132000 +0000" stop="20241229180000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
     <programme start="20241229180000 +0000" stop="20241229183000 +0000" channel="SPOTV.starhub">
@@ -14808,14 +14829,17 @@
     <programme start="20241231091500 +0000" stop="20241231113000 +0000" channel="SPOTV.starhub">
         <title>New York Yankees vs Los Angeles Dodgers</title>
     </programme>
-    <programme start="20241231113000 +0000" stop="20241231163000 +0000" channel="SPOTV.starhub">
+    <programme start="20241231113000 +0000" stop="20241231160000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20241231163000 +0000" stop="20241231173000 +0000" channel="SPOTV.starhub">
-        <title>The 2024 Wimbledon Official Film</title>
-    </programme>
-    <programme start="20241231173000 +0000" stop="20241231180000 +0000" channel="SPOTV.starhub">
+    <programme start="20241231160000 +0000" stop="20241231163000 +0000" channel="SPOTV.starhub">
         <title>Episode 11</title>
+    </programme>
+    <programme start="20241231163000 +0000" stop="20241231170000 +0000" channel="SPOTV.starhub">
+        <title>FIA Pure Motorsport 2024</title>
+    </programme>
+    <programme start="20241231170000 +0000" stop="20241231180000 +0000" channel="SPOTV.starhub">
+        <title>The 2024 Wimbledon Official Film</title>
     </programme>
     <programme start="20241231180000 +0000" stop="20241231190000 +0000" channel="SPOTV.starhub">
         <title>Round 4 Highlights</title>
