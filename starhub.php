@@ -24855,16 +24855,19 @@
     <programme start="20241229220000 +0000" stop="20241230010500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241230040000 +0000" stop="20241230080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241230010500 +0000" stop="20241230042500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M08 - Sydney Thunder vs Sydney Sixers</title>
+    </programme>
+    <programme start="20241230042500 +0000" stop="20241230080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M13 - Adelaide Strikers vs Hobart Hurricanes</title>
     </programme>
     <programme start="20241230080000 +0000" stop="20241230121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M16 - Sydney Thunder vs Melbourne Renedages</title>
     </programme>
-    <programme start="20241230121500 +0000" stop="20241230201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241230121500 +0000" stop="20241230175500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 3</title>
     </programme>
-    <programme start="20241230201500 +0000" stop="20241230220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241230175500 +0000" stop="20241230220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="Hub Sports 4 HD.starhub">
