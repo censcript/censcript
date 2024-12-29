@@ -3,7 +3,7 @@
     <programme start="20241229133000 +0000" stop="20241229170500 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
-    <programme start="20241229142000 +0000" stop="20241229164000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20241229142000 +0000" stop="20241229163700 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Leicester City v Manchester City</title>
     </programme>
     <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 4.optus">
