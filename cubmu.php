@@ -1404,44 +1404,44 @@
     <programme start="20241229210000 +0000" stop="20241229213000 +0000" channel="SCTV.cubmu">
         <title>Indahnya Kebersamaan</title>
     </programme>
-    <programme start="20241229213000 +0000" stop="20241229231500 +0000" channel="SCTV.cubmu">
+    <programme start="20241229213000 +0000" stop="20241229230000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20241229231500 +0000" stop="20241230000200 +0000" channel="SCTV.cubmu">
+    <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="SCTV.cubmu">
         <title>Hot Shot</title>
     </programme>
-    <programme start="20241230000200 +0000" stop="20241230013100 +0000" channel="SCTV.cubmu">
+    <programme start="20241230000000 +0000" stop="20241230030000 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
     </programme>
-    <programme start="20241230013100 +0000" stop="20241230031900 +0000" channel="SCTV.cubmu">
-        <title>FTV Pagi Spesial</title>
-    </programme>
-    <programme start="20241230031900 +0000" stop="20241230052100 +0000" channel="SCTV.cubmu">
+    <programme start="20241230030000 +0000" stop="20241230050000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi</title>
     </programme>
-    <programme start="20241230052100 +0000" stop="20241230055400 +0000" channel="SCTV.cubmu">
+    <programme start="20241230050000 +0000" stop="20241230053000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20241230055400 +0000" stop="20241230075900 +0000" channel="SCTV.cubmu">
+    <programme start="20241230053000 +0000" stop="20241230071500 +0000" channel="SCTV.cubmu">
         <title>FTV Siang</title>
     </programme>
-    <programme start="20241230075900 +0000" stop="20241230094500 +0000" channel="SCTV.cubmu">
+    <programme start="20241230071500 +0000" stop="20241230081500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20241230094500 +0000" stop="20241230111900 +0000" channel="SCTV.cubmu">
-        <title>Asmara Gen Z</title>
+    <programme start="20241230081500 +0000" stop="20241230094500 +0000" channel="SCTV.cubmu">
+        <title>FTV Sore</title>
     </programme>
-    <programme start="20241230111900 +0000" stop="20241230124700 +0000" channel="SCTV.cubmu">
+    <programme start="20241230094500 +0000" stop="20241230113000 +0000" channel="SCTV.cubmu">
         <title>Saleha</title>
     </programme>
-    <programme start="20241230124700 +0000" stop="20241230143100 +0000" channel="SCTV.cubmu">
+    <programme start="20241230113000 +0000" stop="20241230130000 +0000" channel="SCTV.cubmu">
+        <title>Asmara Gen Z</title>
+    </programme>
+    <programme start="20241230130000 +0000" stop="20241230143000 +0000" channel="SCTV.cubmu">
         <title>Naik Ranjang</title>
     </programme>
-    <programme start="20241230143100 +0000" stop="20241230160300 +0000" channel="SCTV.cubmu">
+    <programme start="20241230143000 +0000" stop="20241230160000 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20241230160300 +0000" stop="20241229173700 +0000" channel="SCTV.cubmu">
-        <title>FTV Primetime</title>
+    <programme start="20241230160000 +0000" stop="20241229180000 +0000" channel="SCTV.cubmu">
+        <title>Film Layar Lebar Spesial Tahun Baru - Gundala</title>
     </programme>
     <programme start="20241229170000 +0000" stop="20241229170500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -2096,9 +2096,6 @@
     </programme>
     <programme start="20241230163000 +0000" stop="20241229170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20241229170000 +0000" stop="20241229170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20241229170500 +0000" stop="20241229170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
