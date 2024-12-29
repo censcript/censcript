@@ -5361,6 +5361,18 @@
     <programme start="20250107100000 +0000" stop="20250107163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250107163000 +0000" stop="20250107220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241227000000 +0000" stop="20241227005500 +0000" channel="HISTORY HD.starhub">
         <title>Chum Goes To Hollywood</title>
     </programme>
@@ -28545,6 +28557,18 @@
     <programme start="20250107100000 +0000" stop="20250107160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250107160300 +0000" stop="20250107220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241227000000 +0000" stop="20241227001100 +0000" channel="HBO Family HD.starhub">
         <title>Bridge Out</title>
     </programme>
@@ -33015,6 +33039,18 @@
     <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250107160000 +0000" stop="20250107220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20241226232000 +0000" stop="20241227073000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>India Tour of Australia 2024: 4th Test - Day 2</title>
     </programme>
@@ -33184,6 +33220,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107160000 +0000" stop="20250107220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
