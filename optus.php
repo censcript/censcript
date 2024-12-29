@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241229133000 +0000" stop="20241229170500 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20241229142000 +0000" stop="20241229163700 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Leicester City v Manchester City</title>
-    </programme>
-    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Tottenham Hotspur v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Fulham v Bournemouth</title>
-    </programme>
-    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Everton v Nottingham Forest</title>
-    </programme>
-    <programme start="20241229145000 +0000" stop="20241229171000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Crystal Palace v Southampton</title>
-    </programme>
     <programme start="20241229170500 +0000" stop="20241229200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - West Ham United v Liverpool</title>
     </programme>
@@ -299,5 +281,23 @@
     </programme>
     <programme start="20250116195000 +0000" stop="20250116221000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Manchester United v Southampton</title>
+    </programme>
+    <programme start="20250117003000 +0000" stop="20250117013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250117020000 +0000" stop="20250117023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250117103000 +0000" stop="20250117110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250117123000 +0000" stop="20250117130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
 </tv>
