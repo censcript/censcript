@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241229170500 +0000" stop="20241229200000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - West Ham United v Liverpool</title>
-    </programme>
     <programme start="20241229203000 +0000" stop="20241229220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
     </programme>
 </tv>
