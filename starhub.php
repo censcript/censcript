@@ -28539,6 +28539,18 @@
     <programme start="20250108100000 +0000" stop="20250108160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250108160300 +0000" stop="20250108220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250109100000 +0000" stop="20250109160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241227235300 +0000" stop="20241228000400 +0000" channel="HBO Family HD.starhub">
         <title>Nom Nom&#039;s Entourage</title>
     </programme>

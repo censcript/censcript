@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241229203000 +0000" stop="20241229220000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>
