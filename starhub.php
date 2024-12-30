@@ -13024,10 +13024,10 @@
         <title>ATP Tour 250 2024: Almaty SF 2 Khachanov v Vukic</title>
     </programme>
     <programme start="20241230220000 +0000" stop="20241230233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong Day 1 Match 3</title>
+        <title>ATP Tour 250 2025 Hong Kong Day 1 Norrie v Tien</title>
     </programme>
     <programme start="20241230233000 +0000" stop="20241231010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 2 Match 1</title>
+        <title>ATP Tour 250 2025 Brisbane Day 2 O&#039;Connell v Michelsen</title>
     </programme>
     <programme start="20241231010000 +0000" stop="20241231030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Brisbane Day 3 Match 1</title>
