@@ -5184,13 +5184,13 @@
     <programme start="20241231133000 +0000" stop="20241231163000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
-    <programme start="20241231163000 +0000" stop="20241231190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241231163000 +0000" stop="20241231190500 +0000" channel="Asianet Movies.starhub">
         <title>Grrr</title>
     </programme>
-    <programme start="20241231190000 +0000" stop="20241231220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241231190500 +0000" stop="20241231213000 +0000" channel="Asianet Movies.starhub">
         <title>Marubhoomiyile Aana</title>
     </programme>
-    <programme start="20241231220000 +0000" stop="20250101003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241231213000 +0000" stop="20250101003000 +0000" channel="Asianet Movies.starhub">
         <title>Maalik</title>
     </programme>
     <programme start="20250101003000 +0000" stop="20250101010000 +0000" channel="Asianet Movies.starhub">
@@ -5395,6 +5395,9 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250109100000 +0000" stop="20250109163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250109163000 +0000" stop="20250109220000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20241229000000 +0000" stop="20241229005500 +0000" channel="HISTORY HD.starhub">
@@ -22932,59 +22935,59 @@
     <programme start="20241231150000 +0000" stop="20241231153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
-    <programme start="20241231153000 +0000" stop="20241231160000 +0000" channel="Sun TV.starhub">
-        <title>Malar - Serial</title>
+    <programme start="20241231153000 +0000" stop="20241231155900 +0000" channel="Sun TV.starhub">
+        <title>Movie - Kalakalappu</title>
     </programme>
-    <programme start="20241231160000 +0000" stop="20241231163000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+    <programme start="20241231155900 +0000" stop="20241231160200 +0000" channel="Sun TV.starhub">
+        <title>NEW YEAR TIME CHECK WITH GREETINGS</title>
     </programme>
-    <programme start="20241231163000 +0000" stop="20241231230000 +0000" channel="Sun TV.starhub">
+    <programme start="20241231160200 +0000" stop="20241231180000 +0000" channel="Sun TV.starhub">
+        <title>Movie Contd -Kalakalappu</title>
+    </programme>
+    <programme start="20241231180000 +0000" stop="20241231230000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
     </programme>
     <programme start="20241231230000 +0000" stop="20241231233000 +0000" channel="Sun TV.starhub">
         <title>NEWS</title>
     </programme>
     <programme start="20241231233000 +0000" stop="20250101000000 +0000" channel="Sun TV.starhub">
-        <title>Vanakkam Thamizha</title>
+        <title>THIRAI MINNALGAL</title>
     </programme>
-    <programme start="20250101000000 +0000" stop="20250101003000 +0000" channel="Sun TV.starhub">
-        <title>Ninathale Inikkum</title>
+    <programme start="20250101000000 +0000" stop="20250101010000 +0000" channel="Sun TV.starhub">
+        <title>PUTHANDE VARUGA</title>
     </programme>
-    <programme start="20250101003000 +0000" stop="20250101010000 +0000" channel="Sun TV.starhub">
-        <title>Sun Autograph</title>
-    </programme>
-    <programme start="20250101010000 +0000" stop="20250101013000 +0000" channel="Sun TV.starhub">
-        <title>RAMAYANAM</title>
-    </programme>
-    <programme start="20250101013000 +0000" stop="20250101020000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
+    <programme start="20250101010000 +0000" stop="20250101020000 +0000" channel="Sun TV.starhub">
+        <title>PUTHANDU GALATTA</title>
     </programme>
     <programme start="20250101020000 +0000" stop="20250101023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250101023000 +0000" stop="20250101030000 +0000" channel="Sun TV.starhub">
-        <title>Anamika - Thriller Serial</title>
+        <title>NATCHATHIRA PUTHANDU</title>
     </programme>
-    <programme start="20250101030000 +0000" stop="20250101033000 +0000" channel="Sun TV.starhub">
-        <title>MALAR</title>
+    <programme start="20250101030000 +0000" stop="20250101063000 +0000" channel="Sun TV.starhub">
+        <title>Movie -SARKAR</title>
     </programme>
-    <programme start="20250101033000 +0000" stop="20250101040000 +0000" channel="Sun TV.starhub">
-        <title>Sevvanthi</title>
+    <programme start="20250101063000 +0000" stop="20250101080000 +0000" channel="Sun TV.starhub">
+        <title>Movie -PETTA</title>
     </programme>
-    <programme start="20250101040000 +0000" stop="20250101043000 +0000" channel="Sun TV.starhub">
-        <title>Punitha</title>
+    <programme start="20250101080000 +0000" stop="20250101083000 +0000" channel="Sun TV.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20250101043000 +0000" stop="20250101050000 +0000" channel="Sun TV.starhub">
-        <title>MANAMAGALE VAA</title>
+    <programme start="20250101083000 +0000" stop="20250101103000 +0000" channel="Sun TV.starhub">
+        <title>Movie Contd -PETTA</title>
     </programme>
-    <programme start="20250101050000 +0000" stop="20250101053000 +0000" channel="Sun TV.starhub">
-        <title>Punnagai Poove</title>
+    <programme start="20250101103000 +0000" stop="20250101110000 +0000" channel="Sun TV.starhub">
+        <title>RAMAYANAM</title>
     </programme>
-    <programme start="20250101053000 +0000" stop="20250101060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+    <programme start="20250101110000 +0000" stop="20250101113000 +0000" channel="Sun TV.starhub">
+        <title>Annam</title>
     </programme>
-    <programme start="20250101060000 +0000" stop="20250101063000 +0000" channel="Sun TV.starhub">
-        <title>ilakkiya</title>
+    <programme start="20250101113000 +0000" stop="20250101120000 +0000" channel="Sun TV.starhub">
+        <title>Kayal</title>
+    </programme>
+    <programme start="20250101120000 +0000" stop="20250101123000 +0000" channel="Sun TV.starhub">
+        <title>Marumagal</title>
     </programme>
     <programme start="20241228231000 +0000" stop="20241229000500 +0000" channel="BBC Earth HD.starhub">
         <title>Monkeys</title>
@@ -32863,6 +32866,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109160000 +0000" stop="20250109220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109220000 +0000" stop="20250110040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110040000 +0000" stop="20250110100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241228232000 +0000" stop="20241229073000 +0000" channel="Hub Sports 5 HD.starhub">
