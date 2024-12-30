@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241230190000 +0000" stop="20241230223000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Tuesday Morning</title>
-    </programme>
-    <programme start="20241230193500 +0000" stop="20241230214500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Ipswich v Chelsea</title>
-    </programme>
-    <programme start="20241230193500 +0000" stop="20241230214500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Aston Villa v Brighton</title>
-    </programme>
-    <programme start="20241230195000 +0000" stop="20241230221000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Manchester United v Newcastle United</title>
-    </programme>
     <programme start="20241230223000 +0000" stop="20241230233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Final Word</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250118200000 +0000" stop="20250118210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250119122000 +0000" stop="20250119144000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Tottenham Hotspur v Leicester</title>
+    </programme>
+    <programme start="20250119130000 +0000" stop="20250119162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
+    <programme start="20250119135500 +0000" stop="20250119161000 +0000" channel="Optus Sport 204.optus">
+        <title>Women&#039;s Super League - Arsenal v Crystal Palace</title>
+    </programme>
+    <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
+        <title>Women&#039;s Super League - West Ham United v Chelsea</title>
     </programme>
 </tv>
