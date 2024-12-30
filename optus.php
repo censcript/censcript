@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20241230170000 +0000" stop="20241230180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250118172500 +0000" stop="20250118194000 +0000" channel="Optus Sport 202.optus">
+        <title>Women&#039;s Super League - Everton v Aston Villa</title>
     </programme>
 </tv>

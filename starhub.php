@@ -5154,10 +5154,10 @@
     <programme start="20241230133000 +0000" stop="20241230163000 +0000" channel="Asianet Movies.starhub">
         <title>Jaya Jaya Jaya Jaya Hey</title>
     </programme>
-    <programme start="20241230163000 +0000" stop="20241230190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241230163000 +0000" stop="20241230193000 +0000" channel="Asianet Movies.starhub">
         <title>Vismayathumbathu</title>
     </programme>
-    <programme start="20241230190000 +0000" stop="20241230220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20241230193000 +0000" stop="20241230220000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Thudarunnu</title>
     </programme>
     <programme start="20241230220000 +0000" stop="20241231003000 +0000" channel="Asianet Movies.starhub">
