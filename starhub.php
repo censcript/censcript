@@ -16206,9 +16206,6 @@
     <programme start="20241229220000 +0000" stop="20241229223000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
     </programme>
-    <programme start="20241229223000 +0000" stop="20241229230000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News On The Hour (30/12/24)</title>
-    </programme>
     <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (30/12/24 Pt1)</title>
     </programme>
@@ -16236,17 +16233,26 @@
     <programme start="20241230050000 +0000" stop="20241230053000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
     </programme>
-    <programme start="20241230053000 +0000" stop="20241230060000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241230053000 +0000" stop="20241230054500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Fact Check On News</title>
     </programme>
-    <programme start="20241230060000 +0000" stop="20241230070000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241230054500 +0000" stop="20241230060000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Year Ender 2024</title>
+    </programme>
+    <programme start="20241230060000 +0000" stop="20241230063000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
+    </programme>
+    <programme start="20241230063000 +0000" stop="20241230070000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Fact Check On News</title>
     </programme>
     <programme start="20241230070000 +0000" stop="20241230080000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
     </programme>
-    <programme start="20241230080000 +0000" stop="20241230090000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241230080000 +0000" stop="20241230084500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
+    </programme>
+    <programme start="20241230084500 +0000" stop="20241230090000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Year Ender 2024</title>
     </programme>
     <programme start="20241230090000 +0000" stop="20241230093000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
@@ -16278,11 +16284,11 @@
     <programme start="20241230143000 +0000" stop="20241230150000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News Talk (30/12/24)</title>
     </programme>
-    <programme start="20241230150000 +0000" stop="20241230153000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241230150000 +0000" stop="20241230154500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Focus (30/12/24)</title>
     </programme>
-    <programme start="20241230153000 +0000" stop="20241230160000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Focus (30/12/24)</title>
+    <programme start="20241230154500 +0000" stop="20241230160000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Year Ender 2024</title>
     </programme>
     <programme start="20241230160000 +0000" stop="20241230170000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Intercontinental Express (31/12/24)</title>
@@ -16305,11 +16311,8 @@
     <programme start="20241230193000 +0000" stop="20241230200000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Chief Editor&#039;s Time (30/12/24)</title>
     </programme>
-    <programme start="20241230200000 +0000" stop="20241230203000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News On The Hour (31/12/24)</title>
-    </programme>
-    <programme start="20241230203000 +0000" stop="20241230210000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News On The Hour (31/12/24)</title>
+    <programme start="20241230200000 +0000" stop="20241230210000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Countdown To 2025</title>
     </programme>
     <programme start="20241230210000 +0000" stop="20241230213000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
@@ -16385,9 +16388,6 @@
     </programme>
     <programme start="20241231130000 +0000" stop="20241231140000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Evening Express (31/12/24)</title>
-    </programme>
-    <programme start="20241231140000 +0000" stop="20241231143000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Chief Editor&#039;s Time (31/12/24)</title>
     </programme>
     <programme start="20241228235000 +0000" stop="20241229004000 +0000" channel="Discovery HD.starhub">
         <title>Hilux Australia</title>

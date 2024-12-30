@@ -697,10 +697,10 @@
         <title>Makan Skuad/Paula &amp; Pals S2/Dinoman S2/Syber Surfer Sam</title>
     </programme>
     <programme start="20241229160000 +0000" stop="20241230160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 13th January, Monday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Lion City Sailors</title>
     </programme>
     <programme start="20241230160000 +0000" stop="20241231160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 13th January, Monday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Lion City Sailors</title>
     </programme>
     <programme start="20241229160000 +0000" stop="20241230160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
