@@ -13030,34 +13030,43 @@
         <title>ATP Tour 250 2025 Brisbane Day 2 O&#039;Connell v Michelsen</title>
     </programme>
     <programme start="20241231010000 +0000" stop="20241231030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 3 Match 1</title>
+        <title>ATP Tour 250 2025 Brisbane Day 3 Popyrin v Arnaldi</title>
     </programme>
     <programme start="20241231030000 +0000" stop="20241231043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 3 Match 2</title>
+        <title>ATP Tour 250 2025 Brisbane Day 3 Tiafoe v Walton</title>
     </programme>
     <programme start="20241231043000 +0000" stop="20241231063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 3 Match 3</title>
+        <title>ATP Tour 250 2025 Brisbane Day 3 Kyrgios v Mpetshi Perricard</title>
     </programme>
-    <programme start="20241231063000 +0000" stop="20241231083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 3 Match 4</title>
+    <programme start="20241231063000 +0000" stop="20241231064000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 500 Highlights 2024 Basel Final Shelton v Mpetshi Perricard</title>
     </programme>
-    <programme start="20241231083000 +0000" stop="20241231090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 Highlights 2024: Shanghai SFs and Final</title>
+    <programme start="20241231064000 +0000" stop="20241231065500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Paris SFs</title>
     </programme>
-    <programme start="20241231090000 +0000" stop="20241231110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong Day 2 Match 3</title>
+    <programme start="20241231065500 +0000" stop="20241231070500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 1000 Highlights 2024 Paris Final Zverev v Humbert</title>
+    </programme>
+    <programme start="20241231070500 +0000" stop="20241231073000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Shanghai SFs and Final</title>
+    </programme>
+    <programme start="20241231073000 +0000" stop="20241231093000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025 Brisbane Day 3 Djokovic v Hijikata</title>
+    </programme>
+    <programme start="20241231093000 +0000" stop="20241231110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025 [Join in Progress] Hong Kong Day 2 Shang v Wong</title>
     </programme>
     <programme start="20241231110000 +0000" stop="20241231113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Nadal Number 1 Story</title>
+        <title>Nadal Number 1 Story</title>
     </programme>
-    <programme start="20241231113000 +0000" stop="20241231130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Day 3 Match 1</title>
-    </programme>
-    <programme start="20241231130000 +0000" stop="20241231140000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20241231113000 +0000" stop="20241231123000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Turin - Nitto ATP Finals</title>
     </programme>
-    <programme start="20241231140000 +0000" stop="20241231150000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20241231123000 +0000" stop="20241231133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Season in Review 2024</title>
+    </programme>
+    <programme start="20241231133000 +0000" stop="20241231150000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025 Brisbane Day 3 Djokovic v Hijikata</title>
     </programme>
     <programme start="20241231150000 +0000" stop="20241231160000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Forza Jannik</title>
@@ -13187,15 +13196,6 @@
     </programme>
     <programme start="20250102183000 +0000" stop="20250102200000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Metz Day 3 Rublev v Sonego</title>
-    </programme>
-    <programme start="20250102200000 +0000" stop="20250102201500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Champions of Miami 2010-2011</title>
-    </programme>
-    <programme start="20250102201500 +0000" stop="20250102203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Djokovic&#039;s Miami 3-peat</title>
-    </programme>
-    <programme start="20250102203000 +0000" stop="20250102220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Metz Day 3 Bu v Mannarino</title>
     </programme>
     <programme start="20241229000000 +0000" stop="20241229003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
@@ -16173,8 +16173,11 @@
     <programme start="20241229153000 +0000" stop="20241229160000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Mainland Q&amp;A</title>
     </programme>
-    <programme start="20241229160000 +0000" stop="20241229170000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241229160000 +0000" stop="20241229163000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Intercontinental Express (30/12/24)</title>
+    </programme>
+    <programme start="20241229163000 +0000" stop="20241229170000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>News Talk (29/12/24)</title>
     </programme>
     <programme start="20241229170000 +0000" stop="20241229173000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
@@ -16205,6 +16208,9 @@
     </programme>
     <programme start="20241229220000 +0000" stop="20241229223000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (30/12/24)</title>
+    </programme>
+    <programme start="20241229223000 +0000" stop="20241229230000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Hong Kong Perspectives</title>
     </programme>
     <programme start="20241229230000 +0000" stop="20241230000000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (30/12/24 Pt1)</title>
@@ -16353,17 +16359,26 @@
     <programme start="20241231050000 +0000" stop="20241231053000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
     </programme>
-    <programme start="20241231053000 +0000" stop="20241231060000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241231053000 +0000" stop="20241231054500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
     </programme>
-    <programme start="20241231060000 +0000" stop="20241231070000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241231054500 +0000" stop="20241231060000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Year Ender 2024</title>
+    </programme>
+    <programme start="20241231060000 +0000" stop="20241231063000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
+    </programme>
+    <programme start="20241231063000 +0000" stop="20241231070000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Chief Editor&#039;s Time (30/12/24)</title>
     </programme>
     <programme start="20241231070000 +0000" stop="20241231080000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
     </programme>
-    <programme start="20241231080000 +0000" stop="20241231090000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20241231080000 +0000" stop="20241231084500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
+    </programme>
+    <programme start="20241231084500 +0000" stop="20241231090000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Year Ender 2024</title>
     </programme>
     <programme start="20241231090000 +0000" stop="20241231093000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News On The Hour (31/12/24)</title>
@@ -16373,21 +16388,6 @@
     </programme>
     <programme start="20241231100000 +0000" stop="20241231103000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Focus (31/12/24)</title>
-    </programme>
-    <programme start="20241231103000 +0000" stop="20241231110000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News Talk (31/12/24)</title>
-    </programme>
-    <programme start="20241231110000 +0000" stop="20241231120000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>China News Live (31/12/24)</title>
-    </programme>
-    <programme start="20241231120000 +0000" stop="20241231123000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Focus (31/12/24)</title>
-    </programme>
-    <programme start="20241231123000 +0000" stop="20241231130000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Financial Daily Report (31/12/24)</title>
-    </programme>
-    <programme start="20241231130000 +0000" stop="20241231140000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Evening Express (31/12/24)</title>
     </programme>
     <programme start="20241228235000 +0000" stop="20241229004000 +0000" channel="Discovery HD.starhub">
         <title>Hilux Australia</title>
@@ -24825,16 +24825,19 @@
     <programme start="20241230220000 +0000" stop="20241231005500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241231040000 +0000" stop="20241231080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241231005500 +0000" stop="20241231043000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M09 - Brisbane Heat vs Adelaide Strikers</title>
+    </programme>
+    <programme start="20241231043000 +0000" stop="20241231080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M14 - Melbourne Stars vs Sydney Thunder</title>
     </programme>
     <programme start="20241231080000 +0000" stop="20241231121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M17 - Adelaide Strikers vs Perth Scorchers</title>
     </programme>
-    <programme start="20241231121500 +0000" stop="20241231201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241231121500 +0000" stop="20241231194500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 4</title>
     </programme>
-    <programme start="20241231201500 +0000" stop="20241231220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241231194500 +0000" stop="20241231220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241231220000 +0000" stop="20250101000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -27693,10 +27696,10 @@
     <programme start="20241231213000 +0000" stop="20241231222000 +0000" channel="Hub VVDrama.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20241231222000 +0000" stop="20241231231500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241231222000 +0000" stop="20241231230000 +0000" channel="Hub VVDrama.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20241231231500 +0000" stop="20250101003000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20241231230000 +0000" stop="20250101003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250101003000 +0000" stop="20250101013000 +0000" channel="Hub VVDrama.starhub">
@@ -30234,10 +30237,10 @@
     <programme start="20241231213000 +0000" stop="20241231222000 +0000" channel="TestChannel2.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20241231222000 +0000" stop="20241231231500 +0000" channel="TestChannel2.starhub">
+    <programme start="20241231222000 +0000" stop="20241231230000 +0000" channel="TestChannel2.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20241231231500 +0000" stop="20250101003000 +0000" channel="TestChannel2.starhub">
+    <programme start="20241231230000 +0000" stop="20250101003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250101003000 +0000" stop="20250101013000 +0000" channel="TestChannel2.starhub">
