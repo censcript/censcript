@@ -8400,42 +8400,6 @@
     <programme start="20250107170000 +0000" stop="20250107200000 +0000" channel="Zee Cinema.starhub">
         <title>Mission Raniganj: The Great Bharat Rescue</title>
     </programme>
-    <programme start="20241227222500 +0000" stop="20241228001000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Tailor Of Panama</title>
-    </programme>
-    <programme start="20241228001000 +0000" stop="20241228021000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Social Network</title>
-    </programme>
-    <programme start="20241228021000 +0000" stop="20241228035500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Letters To Juliet</title>
-    </programme>
-    <programme start="20241228035500 +0000" stop="20241228063000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Ali</title>
-    </programme>
-    <programme start="20241228063000 +0000" stop="20241228082000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Tailor Of Panama</title>
-    </programme>
-    <programme start="20241228082000 +0000" stop="20241228102000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Social Network</title>
-    </programme>
-    <programme start="20241228102000 +0000" stop="20241228120500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Letters To Juliet</title>
-    </programme>
-    <programme start="20241228120500 +0000" stop="20241228145000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Aviator</title>
-    </programme>
-    <programme start="20241228145000 +0000" stop="20241228163500 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Tailor Of Panama</title>
-    </programme>
-    <programme start="20241228163500 +0000" stop="20241228183500 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Social Network</title>
-    </programme>
-    <programme start="20241228183500 +0000" stop="20241228202000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Letters To Juliet</title>
-    </programme>
-    <programme start="20241228202000 +0000" stop="20241228225000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Ali</title>
-    </programme>
     <programme start="20241228225000 +0000" stop="20241229002500 +0000" channel="ROCK Entertainment.starhub">
         <title>Pitch Perfect 3</title>
     </programme>
@@ -8699,6 +8663,42 @@
     </programme>
     <programme start="20250103052000 +0000" stop="20250103060500 +0000" channel="ROCK Entertainment.starhub">
         <title>80 Degrees And Palm Trees</title>
+    </programme>
+    <programme start="20250103060500 +0000" stop="20250103065000 +0000" channel="ROCK Entertainment.starhub">
+        <title>The Tonight Show Starring Jimmy Fallon S12</title>
+    </programme>
+    <programme start="20250103065000 +0000" stop="20250103073000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Late Night With Seth Meyers S12</title>
+    </programme>
+    <programme start="20250103073000 +0000" stop="20250103084000 +0000" channel="ROCK Entertainment.starhub">
+        <title>The Masked Dancer U.K.</title>
+    </programme>
+    <programme start="20250103084000 +0000" stop="20250103110000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Warrior</title>
+    </programme>
+    <programme start="20250103110000 +0000" stop="20250103114500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Pilot</title>
+    </programme>
+    <programme start="20250103114500 +0000" stop="20250103123000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Zero Sum</title>
+    </programme>
+    <programme start="20250103123000 +0000" stop="20250103131500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Point And Shoot</title>
+    </programme>
+    <programme start="20250103131500 +0000" stop="20250103140000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Cheating Life</title>
+    </programme>
+    <programme start="20250103140000 +0000" stop="20250103144500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Bombshell</title>
+    </programme>
+    <programme start="20250103144500 +0000" stop="20250103153000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Reciprocity</title>
+    </programme>
+    <programme start="20250103153000 +0000" stop="20250103161500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Pilot</title>
+    </programme>
+    <programme start="20250103161500 +0000" stop="20250103170000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Zero Sum</title>
     </programme>
     <programme start="20241227235000 +0000" stop="20241228001000 +0000" channel="Nick Jr.starhub">
         <title>Pups Save a Dragon / Pups Save Three Little Pigs</title>
@@ -14916,66 +14916,6 @@
     <programme start="20250105160000 +0000" stop="20250105180000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Final</title>
     </programme>
-    <programme start="20241227234000 +0000" stop="20241228003000 +0000" channel="ONE HD.starhub">
-        <title>Teacher Oh Soon Nam</title>
-    </programme>
-    <programme start="20241228003000 +0000" stop="20241228012000 +0000" channel="ONE HD.starhub">
-        <title>Teacher Oh Soon Nam</title>
-    </programme>
-    <programme start="20241228012000 +0000" stop="20241228021000 +0000" channel="ONE HD.starhub">
-        <title>Teacher Oh Soon Nam</title>
-    </programme>
-    <programme start="20241228021000 +0000" stop="20241228034500 +0000" channel="ONE HD.starhub">
-        <title>Paik&#039;s Les Miserables</title>
-    </programme>
-    <programme start="20241228034500 +0000" stop="20241228054500 +0000" channel="ONE HD.starhub">
-        <title>The Half-Star Hotel In Lost Island</title>
-    </programme>
-    <programme start="20241228054500 +0000" stop="20241228070000 +0000" channel="ONE HD.starhub">
-        <title>Taxi Driver</title>
-    </programme>
-    <programme start="20241228070000 +0000" stop="20241228082500 +0000" channel="ONE HD.starhub">
-        <title>Taxi Driver</title>
-    </programme>
-    <programme start="20241228082500 +0000" stop="20241228093500 +0000" channel="ONE HD.starhub">
-        <title>Taxi Driver</title>
-    </programme>
-    <programme start="20241228093500 +0000" stop="20241228110000 +0000" channel="ONE HD.starhub">
-        <title>Taxi Driver</title>
-    </programme>
-    <programme start="20241228110000 +0000" stop="20241228114500 +0000" channel="ONE HD.starhub">
-        <title>Desperate Mrs. Seonju</title>
-    </programme>
-    <programme start="20241228114500 +0000" stop="20241228123000 +0000" channel="ONE HD.starhub">
-        <title>Desperate Mrs. Seonju</title>
-    </programme>
-    <programme start="20241228123000 +0000" stop="20241228134500 +0000" channel="ONE HD.starhub">
-        <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20241228134500 +0000" stop="20241228150500 +0000" channel="ONE HD.starhub">
-        <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20241228150500 +0000" stop="20241228170000 +0000" channel="ONE HD.starhub">
-        <title>Running Man</title>
-    </programme>
-    <programme start="20241228170000 +0000" stop="20241228185500 +0000" channel="ONE HD.starhub">
-        <title>Running Man</title>
-    </programme>
-    <programme start="20241228185500 +0000" stop="20241228202000 +0000" channel="ONE HD.starhub">
-        <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20241228202000 +0000" stop="20241228214500 +0000" channel="ONE HD.starhub">
-        <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20241228214500 +0000" stop="20241228220000 +0000" channel="ONE HD.starhub">
-        <title>K-Hits</title>
-    </programme>
-    <programme start="20241228220000 +0000" stop="20241228225000 +0000" channel="ONE HD.starhub">
-        <title>Teacher Oh Soon Nam</title>
-    </programme>
-    <programme start="20241228225000 +0000" stop="20241228234000 +0000" channel="ONE HD.starhub">
-        <title>Teacher Oh Soon Nam</title>
-    </programme>
     <programme start="20241228234000 +0000" stop="20241229003000 +0000" channel="ONE HD.starhub">
         <title>Teacher Oh Soon Nam</title>
     </programme>
@@ -15215,6 +15155,66 @@
     </programme>
     <programme start="20250101143000 +0000" stop="20250101160000 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
+    </programme>
+    <programme start="20250101160000 +0000" stop="20250101172500 +0000" channel="ONE HD.starhub">
+        <title>Kangchi, The Beginning</title>
+    </programme>
+    <programme start="20250101172500 +0000" stop="20250101185000 +0000" channel="ONE HD.starhub">
+        <title>Survival King: Tribal War</title>
+    </programme>
+    <programme start="20250101185000 +0000" stop="20250101202000 +0000" channel="ONE HD.starhub">
+        <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250101202000 +0000" stop="20250101214500 +0000" channel="ONE HD.starhub">
+        <title>Kangchi, The Beginning</title>
+    </programme>
+    <programme start="20250101214500 +0000" stop="20250101220000 +0000" channel="ONE HD.starhub">
+        <title>K-Hits</title>
+    </programme>
+    <programme start="20250101220000 +0000" stop="20250101224500 +0000" channel="ONE HD.starhub">
+        <title>Desperate Mrs. Seonju</title>
+    </programme>
+    <programme start="20250101224500 +0000" stop="20250101233000 +0000" channel="ONE HD.starhub">
+        <title>Third Marriage</title>
+    </programme>
+    <programme start="20250101233000 +0000" stop="20250102002000 +0000" channel="ONE HD.starhub">
+        <title>Third Marriage</title>
+    </programme>
+    <programme start="20250102002000 +0000" stop="20250102014000 +0000" channel="ONE HD.starhub">
+        <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250102014000 +0000" stop="20250102030000 +0000" channel="ONE HD.starhub">
+        <title>Kangchi, The Beginning</title>
+    </programme>
+    <programme start="20250102030000 +0000" stop="20250102034500 +0000" channel="ONE HD.starhub">
+        <title>Meant To Be</title>
+    </programme>
+    <programme start="20250102034500 +0000" stop="20250102043500 +0000" channel="ONE HD.starhub">
+        <title>Meant To Be</title>
+    </programme>
+    <programme start="20250102043500 +0000" stop="20250102052500 +0000" channel="ONE HD.starhub">
+        <title>Desperate Mrs. Seonju</title>
+    </programme>
+    <programme start="20250102052500 +0000" stop="20250102064500 +0000" channel="ONE HD.starhub">
+        <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250102064500 +0000" stop="20250102080500 +0000" channel="ONE HD.starhub">
+        <title>Kangchi, The Beginning</title>
+    </programme>
+    <programme start="20250102080500 +0000" stop="20250102085000 +0000" channel="ONE HD.starhub">
+        <title>Desperate Mrs. Seonju</title>
+    </programme>
+    <programme start="20250102085000 +0000" stop="20250102093500 +0000" channel="ONE HD.starhub">
+        <title>Meant To Be</title>
+    </programme>
+    <programme start="20250102093500 +0000" stop="20250102102000 +0000" channel="ONE HD.starhub">
+        <title>Meant To Be</title>
+    </programme>
+    <programme start="20250102102000 +0000" stop="20250102114000 +0000" channel="ONE HD.starhub">
+        <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250102114000 +0000" stop="20250102130000 +0000" channel="ONE HD.starhub">
+        <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20241227222000 +0000" stop="20241228001000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Conference League 2024/25 Heidenheim 1846 vs St. Gallen - MD6</title>
@@ -20016,304 +20016,304 @@
     <programme start="20241230213000 +0000" stop="20241230220000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20241228000000 +0000" stop="20241228001500 +0000" channel="France24.starhub">
+    <programme start="20241229000000 +0000" stop="20241229001500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228001500 +0000" stop="20241228002000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241228002000 +0000" stop="20241228003000 +0000" channel="France24.starhub">
-        <title>French Connections</title>
-    </programme>
-    <programme start="20241228003000 +0000" stop="20241228004500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228004500 +0000" stop="20241228010000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241228010000 +0000" stop="20241228011500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228011500 +0000" stop="20241228013000 +0000" channel="France24.starhub">
-        <title>People And Profit</title>
-    </programme>
-    <programme start="20241228013000 +0000" stop="20241228014500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228014500 +0000" stop="20241228020000 +0000" channel="France24.starhub">
-        <title>Eye on Africa</title>
-    </programme>
-    <programme start="20241228020000 +0000" stop="20241228021000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228021000 +0000" stop="20241228023000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241228023000 +0000" stop="20241228024000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228024000 +0000" stop="20241228030000 +0000" channel="France24.starhub">
-        <title>Revisited</title>
-    </programme>
-    <programme start="20241228030000 +0000" stop="20241228031500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228031500 +0000" stop="20241228033000 +0000" channel="France24.starhub">
-        <title>Across Africa</title>
-    </programme>
-    <programme start="20241228033000 +0000" stop="20241228034500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228034500 +0000" stop="20241228040000 +0000" channel="France24.starhub">
-        <title>Scoop</title>
-    </programme>
-    <programme start="20241228040000 +0000" stop="20241228041500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228041500 +0000" stop="20241228043000 +0000" channel="France24.starhub">
-        <title>Eye on Africa</title>
-    </programme>
-    <programme start="20241228043000 +0000" stop="20241228044500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228044500 +0000" stop="20241228050000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241228050000 +0000" stop="20241228051500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228051500 +0000" stop="20241228053000 +0000" channel="France24.starhub">
-        <title>France In Focus</title>
-    </programme>
-    <programme start="20241228053000 +0000" stop="20241228054500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228054500 +0000" stop="20241228060000 +0000" channel="France24.starhub">
-        <title>En tete a tete</title>
-    </programme>
-    <programme start="20241228060000 +0000" stop="20241228061500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228061500 +0000" stop="20241228063000 +0000" channel="France24.starhub">
-        <title>The 51 Percent</title>
-    </programme>
-    <programme start="20241228063000 +0000" stop="20241228064500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228064500 +0000" stop="20241228070000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241228070000 +0000" stop="20241228071500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228071500 +0000" stop="20241228073000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
-    </programme>
-    <programme start="20241228073000 +0000" stop="20241228074500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228074500 +0000" stop="20241228075000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241228075000 +0000" stop="20241228080000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241228080000 +0000" stop="20241228083000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228083000 +0000" stop="20241228090000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228090000 +0000" stop="20241228091500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228091500 +0000" stop="20241228093000 +0000" channel="France24.starhub">
-        <title>People And Profit</title>
-    </programme>
-    <programme start="20241228093000 +0000" stop="20241228094500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228094500 +0000" stop="20241228095100 +0000" channel="France24.starhub">
+    <programme start="20241229001500 +0000" stop="20241229002100 +0000" channel="France24.starhub">
         <title>The Observers</title>
     </programme>
-    <programme start="20241228095100 +0000" stop="20241228100000 +0000" channel="France24.starhub">
+    <programme start="20241229002100 +0000" stop="20241229003000 +0000" channel="France24.starhub">
         <title>Focus</title>
     </programme>
-    <programme start="20241228100000 +0000" stop="20241228100900 +0000" channel="France24.starhub">
+    <programme start="20241229003000 +0000" stop="20241229004500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228100900 +0000" stop="20241228103000 +0000" channel="France24.starhub">
-        <title>Revisited</title>
-    </programme>
-    <programme start="20241228103000 +0000" stop="20241228103900 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228103900 +0000" stop="20241228105400 +0000" channel="France24.starhub">
-        <title>Le Paris des arts</title>
-    </programme>
-    <programme start="20241228105400 +0000" stop="20241228110000 +0000" channel="France24.starhub">
-        <title>Short Cuts</title>
-    </programme>
-    <programme start="20241228110000 +0000" stop="20241228111500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228111500 +0000" stop="20241228111600 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228111600 +0000" stop="20241228113000 +0000" channel="France24.starhub">
+    <programme start="20241229004500 +0000" stop="20241229010000 +0000" channel="France24.starhub">
         <title>Arts24</title>
     </programme>
-    <programme start="20241228113000 +0000" stop="20241228114500 +0000" channel="France24.starhub">
+    <programme start="20241229010000 +0000" stop="20241229011200 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228114500 +0000" stop="20241228115000 +0000" channel="France24.starhub">
-        <title>Focus</title>
-    </programme>
-    <programme start="20241228115000 +0000" stop="20241228120000 +0000" channel="France24.starhub">
-        <title>Sports</title>
-    </programme>
-    <programme start="20241228120000 +0000" stop="20241228123000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228123000 +0000" stop="20241228130000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228130000 +0000" stop="20241228131500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228131500 +0000" stop="20241228133000 +0000" channel="France24.starhub">
-        <title>Talking Europe</title>
-    </programme>
-    <programme start="20241228133000 +0000" stop="20241228134500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228134500 +0000" stop="20241228140000 +0000" channel="France24.starhub">
-        <title>Talking Europe</title>
-    </programme>
-    <programme start="20241228140000 +0000" stop="20241228141000 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228141000 +0000" stop="20241228142500 +0000" channel="France24.starhub">
+    <programme start="20241229011200 +0000" stop="20241229013000 +0000" channel="France24.starhub">
         <title>Le Paris des arts</title>
     </programme>
-    <programme start="20241228142500 +0000" stop="20241228143000 +0000" channel="France24.starhub">
+    <programme start="20241229013000 +0000" stop="20241229014200 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229014200 +0000" stop="20241229015400 +0000" channel="France24.starhub">
+        <title>The 51 Percent</title>
+    </programme>
+    <programme start="20241229015400 +0000" stop="20241229020000 +0000" channel="France24.starhub">
         <title>Short Cuts</title>
     </programme>
-    <programme start="20241228143000 +0000" stop="20241228144000 +0000" channel="France24.starhub">
+    <programme start="20241229020000 +0000" stop="20241229021500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228144000 +0000" stop="20241228150000 +0000" channel="France24.starhub">
-        <title>Revisited</title>
+    <programme start="20241229021500 +0000" stop="20241229023000 +0000" channel="France24.starhub">
+        <title>People And Profit</title>
     </programme>
-    <programme start="20241228150000 +0000" stop="20241228151500 +0000" channel="France24.starhub">
+    <programme start="20241229023000 +0000" stop="20241229024500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228151500 +0000" stop="20241228152100 +0000" channel="France24.starhub">
+    <programme start="20241229024500 +0000" stop="20241229030000 +0000" channel="France24.starhub">
         <title>French Connections</title>
     </programme>
-    <programme start="20241228152100 +0000" stop="20241228153000 +0000" channel="France24.starhub">
+    <programme start="20241229030000 +0000" stop="20241229031500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229031500 +0000" stop="20241229033000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
+    </programme>
+    <programme start="20241229033000 +0000" stop="20241229034500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229034500 +0000" stop="20241229040000 +0000" channel="France24.starhub">
+        <title>A Week in France</title>
+    </programme>
+    <programme start="20241229040000 +0000" stop="20241229041500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229041500 +0000" stop="20241229043000 +0000" channel="France24.starhub">
+        <title>Access Asia</title>
+    </programme>
+    <programme start="20241229043000 +0000" stop="20241229044500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229044500 +0000" stop="20241229050000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241229050000 +0000" stop="20241229051500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229051500 +0000" stop="20241229053000 +0000" channel="France24.starhub">
+        <title>Talking Europe</title>
+    </programme>
+    <programme start="20241229053000 +0000" stop="20241229054500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229054500 +0000" stop="20241229060000 +0000" channel="France24.starhub">
+        <title>Talking Europe</title>
+    </programme>
+    <programme start="20241229060000 +0000" stop="20241229061500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229061500 +0000" stop="20241229062100 +0000" channel="France24.starhub">
+        <title>French Connections</title>
+    </programme>
+    <programme start="20241229062100 +0000" stop="20241229063000 +0000" channel="France24.starhub">
+        <title>The Observers</title>
+    </programme>
+    <programme start="20241229063000 +0000" stop="20241229064500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229064500 +0000" stop="20241229065100 +0000" channel="France24.starhub">
+        <title>Sports</title>
+    </programme>
+    <programme start="20241229065100 +0000" stop="20241229070000 +0000" channel="France24.starhub">
         <title>Fashion</title>
     </programme>
-    <programme start="20241228153000 +0000" stop="20241228154500 +0000" channel="France24.starhub">
+    <programme start="20241229070000 +0000" stop="20241229071500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228154500 +0000" stop="20241228160000 +0000" channel="France24.starhub">
+    <programme start="20241229071500 +0000" stop="20241229073000 +0000" channel="France24.starhub">
         <title>Arts24</title>
     </programme>
-    <programme start="20241228160000 +0000" stop="20241228161500 +0000" channel="France24.starhub">
+    <programme start="20241229073000 +0000" stop="20241229074500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228161500 +0000" stop="20241228163000 +0000" channel="France24.starhub">
-        <title>France In Focus</title>
-    </programme>
-    <programme start="20241228163000 +0000" stop="20241228164500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228164500 +0000" stop="20241228170000 +0000" channel="France24.starhub">
-        <title>En tete a tete</title>
-    </programme>
-    <programme start="20241228170000 +0000" stop="20241228171500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228171500 +0000" stop="20241228173000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
-    </programme>
-    <programme start="20241228173000 +0000" stop="20241228174500 +0000" channel="France24.starhub">
-        <title>The News</title>
-    </programme>
-    <programme start="20241228174500 +0000" stop="20241228175100 +0000" channel="France24.starhub">
-        <title>The Observers</title>
-    </programme>
-    <programme start="20241228175100 +0000" stop="20241228180000 +0000" channel="France24.starhub">
+    <programme start="20241229074500 +0000" stop="20241229075000 +0000" channel="France24.starhub">
         <title>Focus</title>
     </programme>
-    <programme start="20241228180000 +0000" stop="20241228181500 +0000" channel="France24.starhub">
+    <programme start="20241229075000 +0000" stop="20241229080000 +0000" channel="France24.starhub">
+        <title>Sports</title>
+    </programme>
+    <programme start="20241229080000 +0000" stop="20241229083000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228181500 +0000" stop="20241228183000 +0000" channel="France24.starhub">
+    <programme start="20241229083000 +0000" stop="20241229090000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229090000 +0000" stop="20241229091500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229091500 +0000" stop="20241229093000 +0000" channel="France24.starhub">
+        <title>France In Focus</title>
+    </programme>
+    <programme start="20241229093000 +0000" stop="20241229094500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229094500 +0000" stop="20241229100000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
+    </programme>
+    <programme start="20241229100000 +0000" stop="20241229101400 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229101400 +0000" stop="20241229103000 +0000" channel="France24.starhub">
         <title>Talking Europe</title>
     </programme>
-    <programme start="20241228183000 +0000" stop="20241228184500 +0000" channel="France24.starhub">
+    <programme start="20241229103000 +0000" stop="20241229104400 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228184500 +0000" stop="20241228190000 +0000" channel="France24.starhub">
+    <programme start="20241229104400 +0000" stop="20241229110000 +0000" channel="France24.starhub">
         <title>Talking Europe</title>
     </programme>
-    <programme start="20241228190000 +0000" stop="20241228193000 +0000" channel="France24.starhub">
+    <programme start="20241229110000 +0000" stop="20241229111500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228193000 +0000" stop="20241228200000 +0000" channel="France24.starhub">
+    <programme start="20241229111500 +0000" stop="20241229111600 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228200000 +0000" stop="20241228201500 +0000" channel="France24.starhub">
+    <programme start="20241229111600 +0000" stop="20241229113000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241229113000 +0000" stop="20241229114500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228201500 +0000" stop="20241228203000 +0000" channel="France24.starhub">
-        <title>The 51 Percent</title>
+    <programme start="20241229114500 +0000" stop="20241229115000 +0000" channel="France24.starhub">
+        <title>Focus</title>
     </programme>
-    <programme start="20241228203000 +0000" stop="20241228204500 +0000" channel="France24.starhub">
+    <programme start="20241229115000 +0000" stop="20241229120000 +0000" channel="France24.starhub">
+        <title>Sports</title>
+    </programme>
+    <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228204500 +0000" stop="20241228205100 +0000" channel="France24.starhub">
+    <programme start="20241229123000 +0000" stop="20241229130000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229130000 +0000" stop="20241229131500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229131500 +0000" stop="20241229133000 +0000" channel="France24.starhub">
+        <title>French Connections</title>
+    </programme>
+    <programme start="20241229133000 +0000" stop="20241229134500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229134500 +0000" stop="20241229140000 +0000" channel="France24.starhub">
+        <title>En tete a tete</title>
+    </programme>
+    <programme start="20241229140000 +0000" stop="20241229141500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229141500 +0000" stop="20241229143000 +0000" channel="France24.starhub">
+        <title>People And Profit</title>
+    </programme>
+    <programme start="20241229143000 +0000" stop="20241229144500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229144500 +0000" stop="20241229150000 +0000" channel="France24.starhub">
+        <title>Reporters</title>
+    </programme>
+    <programme start="20241229150000 +0000" stop="20241229151500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229151500 +0000" stop="20241229152100 +0000" channel="France24.starhub">
+        <title>The Observers</title>
+    </programme>
+    <programme start="20241229152100 +0000" stop="20241229153000 +0000" channel="France24.starhub">
+        <title>Focus</title>
+    </programme>
+    <programme start="20241229153000 +0000" stop="20241229154500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229154500 +0000" stop="20241229160000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241229160000 +0000" stop="20241229161500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229161500 +0000" stop="20241229163000 +0000" channel="France24.starhub">
+        <title>Talking Europe</title>
+    </programme>
+    <programme start="20241229163000 +0000" stop="20241229164500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229164500 +0000" stop="20241229170000 +0000" channel="France24.starhub">
+        <title>Talking Europe</title>
+    </programme>
+    <programme start="20241229170000 +0000" stop="20241229171500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229171500 +0000" stop="20241229172100 +0000" channel="France24.starhub">
         <title>You Are Here</title>
     </programme>
-    <programme start="20241228205100 +0000" stop="20241228210000 +0000" channel="France24.starhub">
+    <programme start="20241229172100 +0000" stop="20241229173000 +0000" channel="France24.starhub">
         <title>Fashion</title>
     </programme>
-    <programme start="20241228210000 +0000" stop="20241228211500 +0000" channel="France24.starhub">
+    <programme start="20241229173000 +0000" stop="20241229174500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228211500 +0000" stop="20241228213000 +0000" channel="France24.starhub">
-        <title>Reporters</title>
+    <programme start="20241229174500 +0000" stop="20241229180000 +0000" channel="France24.starhub">
+        <title>The 51 Percent</title>
     </programme>
-    <programme start="20241228213000 +0000" stop="20241228214500 +0000" channel="France24.starhub">
+    <programme start="20241229180000 +0000" stop="20241229181500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228214500 +0000" stop="20241228220000 +0000" channel="France24.starhub">
+    <programme start="20241229181500 +0000" stop="20241229183000 +0000" channel="France24.starhub">
+        <title>En tete a tete</title>
+    </programme>
+    <programme start="20241229183000 +0000" stop="20241229184500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229184500 +0000" stop="20241229190000 +0000" channel="France24.starhub">
         <title>People And Profit</title>
     </programme>
-    <programme start="20241228220000 +0000" stop="20241228221500 +0000" channel="France24.starhub">
+    <programme start="20241229190000 +0000" stop="20241229193000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228221500 +0000" stop="20241228223000 +0000" channel="France24.starhub">
+    <programme start="20241229193000 +0000" stop="20241229200000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229200000 +0000" stop="20241229201500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229201500 +0000" stop="20241229203000 +0000" channel="France24.starhub">
         <title>France In Focus</title>
     </programme>
-    <programme start="20241228223000 +0000" stop="20241228224500 +0000" channel="France24.starhub">
+    <programme start="20241229203000 +0000" stop="20241229204500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228224500 +0000" stop="20241228230000 +0000" channel="France24.starhub">
-        <title>Arts24</title>
+    <programme start="20241229204500 +0000" stop="20241229205100 +0000" channel="France24.starhub">
+        <title>The Observers</title>
     </programme>
-    <programme start="20241228230000 +0000" stop="20241228231500 +0000" channel="France24.starhub">
+    <programme start="20241229205100 +0000" stop="20241229210000 +0000" channel="France24.starhub">
+        <title>Focus</title>
+    </programme>
+    <programme start="20241229210000 +0000" stop="20241229211000 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
-    <programme start="20241228231500 +0000" stop="20241228232100 +0000" channel="France24.starhub">
+    <programme start="20241229211000 +0000" stop="20241229213000 +0000" channel="France24.starhub">
+        <title>Revisited</title>
+    </programme>
+    <programme start="20241229213000 +0000" stop="20241229214000 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229214000 +0000" stop="20241229215200 +0000" channel="France24.starhub">
+        <title>En tete a tete</title>
+    </programme>
+    <programme start="20241229215200 +0000" stop="20241229220000 +0000" channel="France24.starhub">
+        <title>Focus</title>
+    </programme>
+    <programme start="20241229220000 +0000" stop="20241229221500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229221500 +0000" stop="20241229223000 +0000" channel="France24.starhub">
         <title>French Connections</title>
     </programme>
-    <programme start="20241228232100 +0000" stop="20241228233000 +0000" channel="France24.starhub">
-        <title>Fashion</title>
+    <programme start="20241229223000 +0000" stop="20241229224500 +0000" channel="France24.starhub">
+        <title>The News</title>
     </programme>
-    <programme start="20241228233000 +0000" stop="20241228234500 +0000" channel="France24.starhub">
+    <programme start="20241229224500 +0000" stop="20241229230000 +0000" channel="France24.starhub">
+        <title>Arts24</title>
+    </programme>
+    <programme start="20241229230000 +0000" stop="20241229231500 +0000" channel="France24.starhub">
+        <title>The News</title>
+    </programme>
+    <programme start="20241229231500 +0000" stop="20241229233000 +0000" channel="France24.starhub">
+        <title>The 51 Percent</title>
+    </programme>
+    <programme start="20241229233000 +0000" stop="20241229234500 +0000" channel="France24.starhub">
         <title>The News</title>
     </programme>
     <programme start="20241228000000 +0000" stop="20241228003000 +0000" channel="Astro Warna HD.starhub">
@@ -30651,18 +30651,6 @@
     <programme start="20250101070000 +0000" stop="20250101073000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 1999 - Wales v England</title>
     </programme>
-    <programme start="20241227220000 +0000" stop="20241228040000 +0000" channel="Hub Sports 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228040000 +0000" stop="20241228100000 +0000" channel="Hub Sports 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Sports 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="Hub Sports 7.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31722,18 +31710,6 @@
     <programme start="20250119100000 +0000" stop="20250119135000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241227221500 +0000" stop="20241228040000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228040000 +0000" stop="20241228100000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228100000 +0000" stop="20241228160000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20241228160000 +0000" stop="20241228220000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20241228220000 +0000" stop="20241229040000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32020,6 +31996,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250120040000 +0000" stop="20250120100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250120100000 +0000" stop="20250120160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250120160000 +0000" stop="20250120220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250121040000 +0000" stop="20250121100000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241227220000 +0000" stop="20241228040000 +0000" channel="Hub Premier 6.starhub">
@@ -32971,6 +32959,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241227232000 +0000" stop="20241228073000 +0000" channel="Hub Sports 5 HD.starhub">
