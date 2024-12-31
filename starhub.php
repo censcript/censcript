@@ -7428,20 +7428,20 @@
     <programme start="20241231213000 +0000" stop="20241231220000 +0000" channel="COLORS.starhub">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20241231220000 +0000" stop="20241231223000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20241231223000 +0000" stop="20241231230000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20241231230000 +0000" stop="20241231233000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
-    </programme>
-    <programme start="20241231233000 +0000" stop="20250101000000 +0000" channel="COLORS.starhub">
+    <programme start="20241231220000 +0000" stop="20241231222000 +0000" channel="COLORS.starhub">
         <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20250101000000 +0000" stop="20250101010000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20241231222000 +0000" stop="20241231225000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    </programme>
+    <programme start="20241231225000 +0000" stop="20241231231500 +0000" channel="COLORS.starhub">
+        <title>Suman Indori</title>
+    </programme>
+    <programme start="20241231231500 +0000" stop="20241231234500 +0000" channel="COLORS.starhub">
+        <title>Parineetii</title>
+    </programme>
+    <programme start="20241231234500 +0000" stop="20250101001000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
     <programme start="20250101010000 +0000" stop="20250101013000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
@@ -7457,9 +7457,6 @@
     </programme>
     <programme start="20250101030000 +0000" stop="20250101033000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
-    </programme>
-    <programme start="20250101033000 +0000" stop="20250101040000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
     </programme>
     <programme start="20250101040000 +0000" stop="20250101043000 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
@@ -7478,6 +7475,9 @@
     </programme>
     <programme start="20250101063000 +0000" stop="20250101070000 +0000" channel="COLORS.starhub">
         <title>Durga - Atut Prem Kahani</title>
+    </programme>
+    <programme start="20250101070000 +0000" stop="20250101080000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20241230000000 +0000" stop="20241230010000 +0000" channel="TVB Jade HD.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -24768,11 +24768,8 @@
     <programme start="20241231194500 +0000" stop="20241231220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20241231220000 +0000" stop="20250101000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20241231220000 +0000" stop="20250101012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250101000000 +0000" stop="20250101040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M10 - Melbourne Renegades vs Perth Scorchers</title>
     </programme>
     <programme start="20250101040000 +0000" stop="20250101080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M15 - Brisbane Heat vs Sydney Sixers</title>
