@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241230223000 +0000" stop="20241230233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Robbie Fowler</title>
     </programme>
@@ -13,7 +10,7 @@
         <title>Premier League - Brentford v Arsenal</title>
     </programme>
     <programme start="20250101210000 +0000" stop="20250101213000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Roberto Soldado</title>
+        <title>N/A - PL Stories: Nolberto Solano</title>
     </programme>
     <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
         <title>Women&#039;s Super League - West Ham United v Chelsea</title>
+    </programme>
+    <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester City v Manchester United</title>
     </programme>
 </tv>
