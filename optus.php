@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Robbie Fowler</title>
-    </programme>
     <programme start="20250101150000 +0000" stop="20250101160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Manchester United</title>
+    </programme>
+    <programme start="20250119203000 +0000" stop="20250119220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
     </programme>
 </tv>
