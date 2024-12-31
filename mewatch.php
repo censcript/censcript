@@ -979,10 +979,10 @@
         <title>No programme available now. Next broadcast on 31st December, Tuesday 10pm. Let&#039;s Celebrate 2025</title>
     </programme>
     <programme start="20241231140000 +0000" stop="20241231150000 +0000" channel="Live 1.mewatch">
-        <title>Let’s Celebrate 2025 - Part One</title>
+        <title>Let&#039;s Celebrate 2025 - Part One</title>
     </programme>
     <programme start="20241231150000 +0000" stop="20241231161500 +0000" channel="Live 1.mewatch">
-        <title>Let’s Celebrate 2025 - Part Two</title>
+        <title>Let&#039;s Celebrate 2025 - Part Two</title>
     </programme>
     <programme start="20241230160000 +0000" stop="20241231160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
