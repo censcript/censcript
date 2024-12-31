@@ -29815,16 +29815,16 @@
         <title>FIA Middle East Bajas Cup - Dubai International Baja Final Highlights</title>
     </programme>
     <programme start="20250104213000 +0000" stop="20250105010000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 ESPN/ABC Doubleheader 1 (Live)</title>
+        <title>NFL 2024/25 Cleveland Browns vs Baltimore Ravens (Live)</title>
     </programme>
     <programme start="20250105010000 +0000" stop="20250105040000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 ESPN/ABC Doubleheader 2 (Live)</title>
+        <title>NFL 2024/25 Cincinnati Bengals vs Pittsburgh Steelers (Live)</title>
     </programme>
     <programme start="20250105040000 +0000" stop="20250105060000 +0000" channel="TestChannel 995.starhub">
         <title>ASB Classic (250) Finals</title>
     </programme>
     <programme start="20250105060000 +0000" stop="20250105090000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 ESPN/ABC Doubleheader 1</title>
+        <title>NFL 2024/25 Cleveland Browns vs Baltimore Ravens</title>
     </programme>
     <programme start="20250105090000 +0000" stop="20250105110000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R12: Newcastle Jets vs Sydney FC</title>
@@ -29833,7 +29833,7 @@
         <title>Isuzu UTE A-League 2024/25 R12: Melbourne Victory vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20250105130000 +0000" stop="20250105160000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 ESPN/ABC Doubleheader 2</title>
+        <title>NFL 2024/25 Cincinnati Bengals vs Pittsburgh Steelers</title>
     </programme>
     <programme start="20250105160000 +0000" stop="20250105180000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R12: Perth Glory vs Western United FC</title>
