@@ -24771,22 +24771,25 @@
     <programme start="20241231220000 +0000" stop="20250101012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250101040000 +0000" stop="20250101080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250101012500 +0000" stop="20250101044000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M10 - Melbourne Renegades vs Perth Scorchers</title>
+    </programme>
+    <programme start="20250101044000 +0000" stop="20250101080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M15 - Brisbane Heat vs Sydney Sixers</title>
     </programme>
     <programme start="20250101080000 +0000" stop="20250101121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M19 - Brisbane Heat vs Melbourne Stars</title>
     </programme>
-    <programme start="20250101121500 +0000" stop="20250101201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250101121500 +0000" stop="20250101191000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 5</title>
     </programme>
-    <programme start="20250101201500 +0000" stop="20250101220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250101191000 +0000" stop="20250101220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250101220000 +0000" stop="20250102000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250101220000 +0000" stop="20250102011500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250102000000 +0000" stop="20250102040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250102011500 +0000" stop="20250102040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M11 - Sydney Sixers vs Melbourne Stars</title>
     </programme>
     <programme start="20250102040000 +0000" stop="20250102080000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24795,10 +24798,10 @@
     <programme start="20250102080000 +0000" stop="20250102121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M20 - Melbourne Renegades vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250102121500 +0000" stop="20250102201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250102121500 +0000" stop="20250102192000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 1</title>
     </programme>
-    <programme start="20250102201500 +0000" stop="20250102220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250102192000 +0000" stop="20250102220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250102220000 +0000" stop="20250102225000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24813,10 +24816,10 @@
     <programme start="20250103065000 +0000" stop="20250103110500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M21 - Sydney Sixers vs Brisbane Heat</title>
     </programme>
-    <programme start="20250103110500 +0000" stop="20250103190500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250103110500 +0000" stop="20250103180500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 2</title>
     </programme>
-    <programme start="20250103190500 +0000" stop="20250103220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250103180500 +0000" stop="20250103220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250103220000 +0000" stop="20250104000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24831,10 +24834,10 @@
     <programme start="20250104080000 +0000" stop="20250104121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M23 - Melbourne Stars vs Melbourne Renegades</title>
     </programme>
-    <programme start="20250104121500 +0000" stop="20250104201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250104121500 +0000" stop="20250104175500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 4th Test - Day 3</title>
     </programme>
-    <programme start="20250104201500 +0000" stop="20250104220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250104175500 +0000" stop="20250104220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250104220000 +0000" stop="20250105000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24974,6 +24977,60 @@
     </programme>
     <programme start="20250112121500 +0000" stop="20250112201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
+    </programme>
+    <programme start="20250112201500 +0000" stop="20250112220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113001500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113001500 +0000" stop="20250113041500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M21 - Sydney Sixers vs Brisbane Heat</title>
+    </programme>
+    <programme start="20250113041500 +0000" stop="20250113081500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M27 - Sydney Thunder vs Hobart Hurricanes</title>
+    </programme>
+    <programme start="20250113081500 +0000" stop="20250113123000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
+    </programme>
+    <programme start="20250113123000 +0000" stop="20250113203000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 2</title>
+    </programme>
+    <programme start="20250113203000 +0000" stop="20250113220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114001500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114001500 +0000" stop="20250114041500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M22 - Perth Scorchers vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250114041500 +0000" stop="20250114081500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M28 - Melbourne Stars vs Sydney Sixers</title>
+    </programme>
+    <programme start="20250114081500 +0000" stop="20250114123000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
+    </programme>
+    <programme start="20250114123000 +0000" stop="20250114203000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
+    </programme>
+    <programme start="20250114203000 +0000" stop="20250114220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114220000 +0000" stop="20250115001500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115001500 +0000" stop="20250115041500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M23 - Melbourne Stars vs Melbourne Renegades</title>
+    </programme>
+    <programme start="20250115041500 +0000" stop="20250115081500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250115081500 +0000" stop="20250115123000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M35 - Adelaide Strikers vs Sydney Sixers</title>
+    </programme>
+    <programme start="20250115123000 +0000" stop="20250115203000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 4</title>
     </programme>
     <programme start="20241230000000 +0000" stop="20241230010000 +0000" channel="TVB Xing He.starhub">
         <title>Life Made Simple</title>
@@ -32902,6 +32959,120 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111084500 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111084500 +0000" stop="20250111130000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
+    </programme>
+    <programme start="20250111130000 +0000" stop="20250111160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112040000 +0000" stop="20250112100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112160000 +0000" stop="20250112220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114160000 +0000" stop="20250114220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115040000 +0000" stop="20250115100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115100000 +0000" stop="20250115160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115160000 +0000" stop="20250115220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250115220000 +0000" stop="20250116040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116040000 +0000" stop="20250116100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116100000 +0000" stop="20250116160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117160000 +0000" stop="20250117220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117220000 +0000" stop="20250118040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118040000 +0000" stop="20250118090000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118090000 +0000" stop="20250118131500 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M39 - Perth Scorchers vs Adelaide Strikers</title>
+    </programme>
+    <programme start="20250118131500 +0000" stop="20250118160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118160000 +0000" stop="20250118220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119040000 +0000" stop="20250119100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119100000 +0000" stop="20250119160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
