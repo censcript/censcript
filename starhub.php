@@ -5379,6 +5379,18 @@
     <programme start="20250110100000 +0000" stop="20250110163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250110163000 +0000" stop="20250110220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20241229230500 +0000" stop="20241230000500 +0000" channel="HISTORY HD.starhub">
         <title>10 Things You Don&#039;t Know About Malaysia</title>
     </programme>
@@ -14746,13 +14758,16 @@
         <title>Los Angeles Dodgers vs New York Yankees</title>
     </programme>
     <programme start="20250101073000 +0000" stop="20250101093000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 1</title>
+        <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
     <programme start="20250101093000 +0000" stop="20250101113000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 2</title>
+        <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
-    <programme start="20250101113000 +0000" stop="20250101163000 +0000" channel="SPOTV.starhub">
+    <programme start="20250101113000 +0000" stop="20250101160000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
+    </programme>
+    <programme start="20250101160000 +0000" stop="20250101163000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Ducati 100 Wins</title>
     </programme>
     <programme start="20250101163000 +0000" stop="20250101180000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
@@ -14773,10 +14788,10 @@
         <title>Day 13 - Finals (Centre Court)</title>
     </programme>
     <programme start="20250102130000 +0000" stop="20250102150000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 1</title>
+        <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
     <programme start="20250102150000 +0000" stop="20250102170000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 2</title>
+        <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
     <programme start="20250102170000 +0000" stop="20250102180000 +0000" channel="SPOTV.starhub">
         <title>Round 4 Highlights</title>
@@ -14803,7 +14818,7 @@
         <title>Round 1</title>
     </programme>
     <programme start="20250103173000 +0000" stop="20250103180000 +0000" channel="SPOTV.starhub">
-        <title>FIA Pure Motorsport 2024</title>
+        <title>MotoGP 2024 Spotlight: Pedro Acosta</title>
     </programme>
     <programme start="20250103180000 +0000" stop="20250103210000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
@@ -14815,10 +14830,10 @@
         <title>Day 2 session 2</title>
     </programme>
     <programme start="20250104070000 +0000" stop="20250104090000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 1</title>
+        <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
     <programme start="20250104090000 +0000" stop="20250104110000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Semi-Final 2</title>
+        <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
     <programme start="20250104110000 +0000" stop="20250104120000 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
@@ -14849,6 +14864,132 @@
     </programme>
     <programme start="20250105160000 +0000" stop="20250105180000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Final</title>
+    </programme>
+    <programme start="20250105180000 +0000" stop="20250105203000 +0000" channel="SPOTV.starhub">
+        <title>Year Review</title>
+    </programme>
+    <programme start="20250105203000 +0000" stop="20250105223000 +0000" channel="SPOTV.starhub">
+        <title>Suhandinata Cup - Semi Final 1</title>
+    </programme>
+    <programme start="20250105223000 +0000" stop="20250106013000 +0000" channel="SPOTV.starhub">
+        <title>Suhandinata Cup - Semi Final 2</title>
+    </programme>
+    <programme start="20250106013000 +0000" stop="20250106033000 +0000" channel="SPOTV.starhub">
+        <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
+    </programme>
+    <programme start="20250106033000 +0000" stop="20250106053000 +0000" channel="SPOTV.starhub">
+        <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
+    </programme>
+    <programme start="20250106053000 +0000" stop="20250106094500 +0000" channel="SPOTV.starhub">
+        <title>Day 1</title>
+    </programme>
+    <programme start="20250106094500 +0000" stop="20250106122500 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
+    </programme>
+    <programme start="20250106122500 +0000" stop="20250106143000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
+    </programme>
+    <programme start="20250106143000 +0000" stop="20250106145500 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Brad Binder</title>
+    </programme>
+    <programme start="20250106145500 +0000" stop="20250106170000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
+    </programme>
+    <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
+    </programme>
+    <programme start="20250106180000 +0000" stop="20250106213000 +0000" channel="SPOTV.starhub">
+        <title>Group 1</title>
+    </programme>
+    <programme start="20250106213000 +0000" stop="20250107003000 +0000" channel="SPOTV.starhub">
+        <title>Day 13 - Day Session</title>
+    </programme>
+    <programme start="20250107003000 +0000" stop="20250107043000 +0000" channel="SPOTV.starhub">
+        <title>Day 14 - Day Session</title>
+    </programme>
+    <programme start="20250107043000 +0000" stop="20250107053000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
+    </programme>
+    <programme start="20250107053000 +0000" stop="20250107100000 +0000" channel="SPOTV.starhub">
+        <title>Day 2</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107143000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Showdown</title>
+    </programme>
+    <programme start="20250107143000 +0000" stop="20250107145500 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Ducati Reflections</title>
+    </programme>
+    <programme start="20250107145500 +0000" stop="20250107170000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Taawoun vs Al Qadsiah</title>
+    </programme>
+    <programme start="20250107170000 +0000" stop="20250107172500 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250107172500 +0000" stop="20250107193000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Hilal vs Al Ittihad</title>
+    </programme>
+    <programme start="20250107193000 +0000" stop="20250107230000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
+    </programme>
+    <programme start="20250107230000 +0000" stop="20250108003000 +0000" channel="SPOTV.starhub">
+        <title>US Open 2024 Men&#039;s Singles Final Review</title>
+    </programme>
+    <programme start="20250108003000 +0000" stop="20250108023000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 1: Atlanta vs Salt Lake</title>
+    </programme>
+    <programme start="20250108023000 +0000" stop="20250108043000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
+    </programme>
+    <programme start="20250108043000 +0000" stop="20250108063000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
+    </programme>
+    <programme start="20250108063000 +0000" stop="20250108160000 +0000" channel="SPOTV.starhub">
+        <title>Eye Level Cups - Day 1 Semifinals</title>
+    </programme>
+    <programme start="20250108160000 +0000" stop="20250108180000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 1: Atlanta vs Salt Lake</title>
+    </programme>
+    <programme start="20250108180000 +0000" stop="20250109000000 +0000" channel="SPOTV.starhub">
+        <title>Eye Level Cups - Day 2 Finals</title>
+    </programme>
+    <programme start="20250109000000 +0000" stop="20250109010000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
+    </programme>
+    <programme start="20250109010000 +0000" stop="20250109030000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 1: Houston vs Austin</title>
+    </programme>
+    <programme start="20250109030000 +0000" stop="20250109050000 +0000" channel="SPOTV.starhub">
+        <title>Arabian Gulf Cup Final</title>
+    </programme>
+    <programme start="20250109050000 +0000" stop="20250109070000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Taawoun vs Al Qadsiah</title>
+    </programme>
+    <programme start="20250109070000 +0000" stop="20250109090000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Hilal vs Al Ittihad</title>
+    </programme>
+    <programme start="20250109090000 +0000" stop="20250109133000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Showdown</title>
+    </programme>
+    <programme start="20250109133000 +0000" stop="20250109143000 +0000" channel="SPOTV.starhub">
+        <title>Round 1</title>
+    </programme>
+    <programme start="20250109143000 +0000" stop="20250109164500 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 1: Houston vs Austin</title>
+    </programme>
+    <programme start="20250109164500 +0000" stop="20250109190000 +0000" channel="SPOTV.starhub">
+        <title>ROSHN Saudi League 2024/25 Matchday 14 Al Nassr vs Al Okhdood</title>
+    </programme>
+    <programme start="20250109190000 +0000" stop="20250110000000 +0000" channel="SPOTV.starhub">
+        <title>Day 4 Final</title>
+    </programme>
+    <programme start="20250110000000 +0000" stop="20250110010000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250110010000 +0000" stop="20250110030000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
+    </programme>
+    <programme start="20250110030000 +0000" stop="20250110050000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 1: Atlanta vs Salt Lake</title>
     </programme>
     <programme start="20241229234000 +0000" stop="20241230003000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
@@ -18730,6 +18871,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20241229230000 +0000" stop="20241230020000 +0000" channel="SEA Today.starhub">
@@ -28473,6 +28626,18 @@
     <programme start="20250110100000 +0000" stop="20250110160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250110160300 +0000" stop="20250110220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20241230000000 +0000" stop="20241230001000 +0000" channel="HBO Family HD.starhub">
         <title>Charm School&#039;s Out</title>
     </programme>
@@ -32797,6 +32962,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241229232000 +0000" stop="20241230073000 +0000" channel="Hub Sports 5 HD.starhub">
