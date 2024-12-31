@@ -17986,7 +17986,7 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20241231130000 +0000" stop="20241231160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai - Maha Nadhi</title>
+        <title>Hit Thirai</title>
     </programme>
     <programme start="20241231160000 +0000" stop="20241231190000 +0000" channel="Vannathirai.starhub">
         <title>Kadahlikka Neramillai</title>
