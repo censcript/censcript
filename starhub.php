@@ -7443,20 +7443,26 @@
     <programme start="20241231234500 +0000" stop="20250101001000 +0000" channel="COLORS.starhub">
         <title>Durga - Atut Prem Kahani</title>
     </programme>
-    <programme start="20250101010000 +0000" stop="20250101013000 +0000" channel="COLORS.starhub">
+    <programme start="20250101001000 +0000" stop="20250101011000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
+    </programme>
+    <programme start="20250101011000 +0000" stop="20250101014000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
     </programme>
-    <programme start="20250101013000 +0000" stop="20250101020000 +0000" channel="COLORS.starhub">
+    <programme start="20250101014000 +0000" stop="20250101020500 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20250101020000 +0000" stop="20250101023000 +0000" channel="COLORS.starhub">
+    <programme start="20250101020500 +0000" stop="20250101023500 +0000" channel="COLORS.starhub">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250101023000 +0000" stop="20250101030000 +0000" channel="COLORS.starhub">
+    <programme start="20250101023500 +0000" stop="20250101030000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
     <programme start="20250101030000 +0000" stop="20250101033000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
+    </programme>
+    <programme start="20250101033000 +0000" stop="20250101040000 +0000" channel="COLORS.starhub">
+        <title>Durga - Atut Prem Kahani</title>
     </programme>
     <programme start="20250101040000 +0000" stop="20250101043000 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
@@ -7472,12 +7478,6 @@
     </programme>
     <programme start="20250101060000 +0000" stop="20250101063000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20250101063000 +0000" stop="20250101070000 +0000" channel="COLORS.starhub">
-        <title>Durga - Atut Prem Kahani</title>
-    </programme>
-    <programme start="20250101070000 +0000" stop="20250101080000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20241230000000 +0000" stop="20241230010000 +0000" channel="TVB Jade HD.starhub">
         <title>All That Is Bitter Is Sweet</title>
