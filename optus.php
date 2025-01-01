@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250101163000 +0000" stop="20250101203000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brentford v Arsenal</title>
-    </programme>
     <programme start="20250101210000 +0000" stop="20250101213000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Nolberto Solano</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250125115000 +0000" stop="20250125141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Aston Villa v Manchester City</title>
+    </programme>
+    <programme start="20250126122000 +0000" stop="20250126144000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Chelsea v Arsenal</title>
     </programme>
 </tv>
