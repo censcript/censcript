@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250101210000 +0000" stop="20250101213000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Nolberto Solano</title>
-    </programme>
     <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250126122000 +0000" stop="20250126144000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Arsenal</title>
+    </programme>
+    <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 203.optus">
+        <title>Women&#039;s Super League - Crystal Palace v Tottenham Hotspur</title>
     </programme>
 </tv>
