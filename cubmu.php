@@ -1428,9 +1428,6 @@
     <programme start="20250102160000 +0000" stop="20250101180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250101170000 +0000" stop="20250101170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250101170500 +0000" stop="20250101173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -1668,17 +1665,8 @@
     <programme start="20250101171500 +0000" stop="20250101181500 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Malam</title>
     </programme>
-    <programme start="20250101171500 +0000" stop="20250101181500 +0000" channel="GTV.cubmu">
-        <title>Buletin iNews Malam</title>
-    </programme>
     <programme start="20250101181500 +0000" stop="20250101184500 +0000" channel="GTV.cubmu">
         <title>Gerebek</title>
-    </programme>
-    <programme start="20250101181500 +0000" stop="20250101184500 +0000" channel="GTV.cubmu">
-        <title>Gerebek</title>
-    </programme>
-    <programme start="20250101184500 +0000" stop="20250101203000 +0000" channel="GTV.cubmu">
-        <title>Ragam Pagi</title>
     </programme>
     <programme start="20250101184500 +0000" stop="20250101203000 +0000" channel="GTV.cubmu">
         <title>Ragam Pagi</title>
@@ -1686,17 +1674,8 @@
     <programme start="20250101203000 +0000" stop="20250101213000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Pagi</title>
     </programme>
-    <programme start="20250101203000 +0000" stop="20250101213000 +0000" channel="GTV.cubmu">
-        <title>Buletin iNews Pagi</title>
-    </programme>
     <programme start="20250101213000 +0000" stop="20250101223000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250101213000 +0000" stop="20250101223000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250101223000 +0000" stop="20250102003000 +0000" channel="GTV.cubmu">
-        <title>CoComelon</title>
     </programme>
     <programme start="20250101223000 +0000" stop="20250102003000 +0000" channel="GTV.cubmu">
         <title>CoComelon</title>
@@ -1704,22 +1683,10 @@
     <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250102013000 +0000" stop="20250102020000 +0000" channel="GTV.cubmu">
-        <title>Zak Storm</title>
-    </programme>
     <programme start="20250102013000 +0000" stop="20250102020000 +0000" channel="GTV.cubmu">
         <title>Zak Storm</title>
     </programme>
     <programme start="20250102020000 +0000" stop="20250102033000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250102020000 +0000" stop="20250102033000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250102033000 +0000" stop="20250102060000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
     <programme start="20250102033000 +0000" stop="20250102060000 +0000" channel="GTV.cubmu">
@@ -1728,17 +1695,8 @@
     <programme start="20250102060000 +0000" stop="20250102080000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250102060000 +0000" stop="20250102080000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
     <programme start="20250102080000 +0000" stop="20250102090000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250102080000 +0000" stop="20250102090000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250102090000 +0000" stop="20250102101000 +0000" channel="GTV.cubmu">
-        <title>Big Movies Family</title>
     </programme>
     <programme start="20250102090000 +0000" stop="20250102101000 +0000" channel="GTV.cubmu">
         <title>Big Movies Family</title>
@@ -1746,17 +1704,8 @@
     <programme start="20250102101000 +0000" stop="20250102120000 +0000" channel="GTV.cubmu">
         <title>Super Deal Indonesia</title>
     </programme>
-    <programme start="20250102101000 +0000" stop="20250102120000 +0000" channel="GTV.cubmu">
-        <title>Super Deal Indonesia</title>
-    </programme>
     <programme start="20250102120000 +0000" stop="20250102151000 +0000" channel="GTV.cubmu">
         <title>AFF Mitsubishi Electric Cup &#039;24</title>
-    </programme>
-    <programme start="20250102120000 +0000" stop="20250102151000 +0000" channel="GTV.cubmu">
-        <title>AFF Mitsubishi Electric Cup &#039;24</title>
-    </programme>
-    <programme start="20250102151000 +0000" stop="20250101171500 +0000" channel="GTV.cubmu">
-        <title>Big Movies Platinum</title>
     </programme>
     <programme start="20250102151000 +0000" stop="20250101171500 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
@@ -2210,9 +2159,6 @@
     </programme>
     <programme start="20250102163000 +0000" stop="20250101170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250101170000 +0000" stop="20250101170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250101170500 +0000" stop="20250101170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
@@ -3167,6 +3113,84 @@
     </programme>
     <programme start="20250102165400 +0000" stop="20250101170600 +0000" channel="Cartoon TV.cubmu">
         <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250101171100 +0000" stop="20250101181100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Betty Boop</title>
+    </programme>
+    <programme start="20250101181100 +0000" stop="20250101183100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Bonzo</title>
+    </programme>
+    <programme start="20250101183100 +0000" stop="20250101185100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Gumby</title>
+    </programme>
+    <programme start="20250101185100 +0000" stop="20250101193100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Felix the Cat</title>
+    </programme>
+    <programme start="20250101193100 +0000" stop="20250101203100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Popeye</title>
+    </programme>
+    <programme start="20250101203100 +0000" stop="20250102000000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Timeless Cartoon Classics</title>
+    </programme>
+    <programme start="20250102000000 +0000" stop="20250102010000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Timeless Cartoon Classics</title>
+    </programme>
+    <programme start="20250102010000 +0000" stop="20250102020000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Betty Boop</title>
+    </programme>
+    <programme start="20250102020000 +0000" stop="20250102024000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Felix the Cat</title>
+    </programme>
+    <programme start="20250102024000 +0000" stop="20250102034000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Popeye</title>
+    </programme>
+    <programme start="20250102034000 +0000" stop="20250102040000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Bonzo</title>
+    </programme>
+    <programme start="20250102040000 +0000" stop="20250102060000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Timeless Cartoon Classics</title>
+    </programme>
+    <programme start="20250102060000 +0000" stop="20250102063200 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Molly Moo-Cow</title>
+    </programme>
+    <programme start="20250102063200 +0000" stop="20250102071700 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Superman</title>
+    </programme>
+    <programme start="20250102071700 +0000" stop="20250102080300 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Bugs Bunny</title>
+    </programme>
+    <programme start="20250102080300 +0000" stop="20250102083300 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Daffy Duck</title>
+    </programme>
+    <programme start="20250102083300 +0000" stop="20250102085000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Porky Pig</title>
+    </programme>
+    <programme start="20250102085000 +0000" stop="20250102095000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Betty Boop</title>
+    </programme>
+    <programme start="20250102095000 +0000" stop="20250102115000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Timeless Cartoon Classics</title>
+    </programme>
+    <programme start="20250102115000 +0000" stop="20250102125000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Popeye</title>
+    </programme>
+    <programme start="20250102125000 +0000" stop="20250102131000 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Gumby</title>
+    </programme>
+    <programme start="20250102131000 +0000" stop="20250102132600 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Bobby Bumps</title>
+    </programme>
+    <programme start="20250102132600 +0000" stop="20250102134100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Woody Woodpecker</title>
+    </programme>
+    <programme start="20250102134100 +0000" stop="20250102142100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Felix the Cat</title>
+    </programme>
+    <programme start="20250102142100 +0000" stop="20250102150600 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Superman</title>
+    </programme>
+    <programme start="20250102150600 +0000" stop="20250101171100 +0000" channel="Cartoon TV Classics.cubmu">
+        <title>Timeless Cartoon Classics</title>
     </programme>
     <programme start="20250101170000 +0000" stop="20250101190000 +0000" channel="Duck TV.cubmu">
         <title>Duck TV</title>
