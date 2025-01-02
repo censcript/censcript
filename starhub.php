@@ -20445,8 +20445,11 @@
     <programme start="20250102123000 +0000" stop="20250102130000 +0000" channel="Astro Warna HD.starhub">
         <title>Life At Thinker</title>
     </programme>
-    <programme start="20250102130000 +0000" stop="20250102140000 +0000" channel="Astro Warna HD.starhub">
-        <title>Opocot Next Level</title>
+    <programme start="20250102130000 +0000" stop="20250102130500 +0000" channel="Astro Warna HD.starhub">
+        <title>Berita Sangat Serius</title>
+    </programme>
+    <programme start="20250102130500 +0000" stop="20250102140000 +0000" channel="Astro Warna HD.starhub">
+        <title>Romeo Returns</title>
     </programme>
     <programme start="20250102140000 +0000" stop="20250102143000 +0000" channel="Astro Warna HD.starhub">
         <title>Hantu Hari Ini</title>
@@ -20582,9 +20585,6 @@
     </programme>
     <programme start="20250104013000 +0000" stop="20250104023000 +0000" channel="Astro Warna HD.starhub">
         <title>MLM Tergempak 2018</title>
-    </programme>
-    <programme start="20250104023000 +0000" stop="20250104030000 +0000" channel="Astro Warna HD.starhub">
-        <title>Jaguh Kampung S3</title>
     </programme>
     <programme start="20250101000000 +0000" stop="20250101003000 +0000" channel="Cartoonito HD.starhub">
         <title>Boo/Egg-Scuse Me/Crack In The Tank/Mock Me Not</title>
