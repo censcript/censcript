@@ -24822,11 +24822,8 @@
     <programme start="20250102192000 +0000" stop="20250102220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250102220000 +0000" stop="20250102225000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250102220000 +0000" stop="20250103003000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250102225000 +0000" stop="20250103025000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M12 - Perth Scorchers vs Brisbane Heat</title>
     </programme>
     <programme start="20250103025000 +0000" stop="20250103065000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M17 - Adelaide Strikers vs Perth Scorchers</title>
@@ -25085,6 +25082,9 @@
     </programme>
     <programme start="20250117121500 +0000" stop="20250117201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
+    </programme>
+    <programme start="20250117201500 +0000" stop="20250117220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250101000000 +0000" stop="20250101010000 +0000" channel="TVB Xing He.starhub">
         <title>Ringmaster, The</title>
