@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250102133000 +0000" stop="20250102140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Dan Burn</title>
-    </programme>
     <programme start="20250103103000 +0000" stop="20250103110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 204.optus">
         <title>Women&#039;s Super League - Leicester v Liverpool</title>
+    </programme>
+    <programme start="20250126183500 +0000" stop="20250126204500 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester United v Brighton and Hove Albion</title>
     </programme>
 </tv>
