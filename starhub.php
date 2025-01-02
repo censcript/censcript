@@ -14718,26 +14718,29 @@
     <programme start="20250103180000 +0000" stop="20250103210000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
     </programme>
-    <programme start="20250103210000 +0000" stop="20250104020000 +0000" channel="SPOTV.starhub">
+    <programme start="20250103210000 +0000" stop="20250104015500 +0000" channel="SPOTV.starhub">
         <title>Day 2 session 1</title>
     </programme>
-    <programme start="20250104020000 +0000" stop="20250104070000 +0000" channel="SPOTV.starhub">
+    <programme start="20250104015500 +0000" stop="20250104063500 +0000" channel="SPOTV.starhub">
         <title>Day 2 session 2</title>
     </programme>
-    <programme start="20250104070000 +0000" stop="20250104090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250104063500 +0000" stop="20250104085000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
-    <programme start="20250104090000 +0000" stop="20250104110000 +0000" channel="SPOTV.starhub">
+    <programme start="20250104085000 +0000" stop="20250104105000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
-    <programme start="20250104110000 +0000" stop="20250104120000 +0000" channel="SPOTV.starhub">
+    <programme start="20250104105000 +0000" stop="20250104115500 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
     </programme>
-    <programme start="20250104120000 +0000" stop="20250104140000 +0000" channel="SPOTV.starhub">
-        <title>Arabian Gulf Cup Final Oman vs Bahrain</title>
-    </programme>
-    <programme start="20250104140000 +0000" stop="20250104180000 +0000" channel="SPOTV.starhub">
+    <programme start="20250104115500 +0000" stop="20250104150000 +0000" channel="SPOTV.starhub">
         <title>Day 14 - Day Session</title>
+    </programme>
+    <programme start="20250104150000 +0000" stop="20250104165600 +0000" channel="SPOTV.starhub">
+        <title>ROSHN Saudi League 2024/25 Matchday 12 Al Nassr vs Damac</title>
+    </programme>
+    <programme start="20250104165600 +0000" stop="20250104180000 +0000" channel="SPOTV.starhub">
+        <title>Round 2</title>
     </programme>
     <programme start="20250104180000 +0000" stop="20250104193000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
@@ -14745,10 +14748,10 @@
     <programme start="20250104193000 +0000" stop="20250105003000 +0000" channel="SPOTV.starhub">
         <title>Day 3 session 1</title>
     </programme>
-    <programme start="20250105003000 +0000" stop="20250105053000 +0000" channel="SPOTV.starhub">
+    <programme start="20250105003000 +0000" stop="20250105051500 +0000" channel="SPOTV.starhub">
         <title>Day 3 session 2</title>
     </programme>
-    <programme start="20250105053000 +0000" stop="20250105073000 +0000" channel="SPOTV.starhub">
+    <programme start="20250105051500 +0000" stop="20250105073000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Final Oman vs Bahrain</title>
     </programme>
     <programme start="20250105073000 +0000" stop="20250105123000 +0000" channel="SPOTV.starhub">
@@ -14769,13 +14772,13 @@
     <programme start="20250105223000 +0000" stop="20250106013000 +0000" channel="SPOTV.starhub">
         <title>Suhandinata Cup - Semi Final 2</title>
     </programme>
-    <programme start="20250106013000 +0000" stop="20250106033000 +0000" channel="SPOTV.starhub">
+    <programme start="20250106013000 +0000" stop="20250106034000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
-    <programme start="20250106033000 +0000" stop="20250106053000 +0000" channel="SPOTV.starhub">
+    <programme start="20250106034000 +0000" stop="20250106054000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
-    <programme start="20250106053000 +0000" stop="20250106094500 +0000" channel="SPOTV.starhub">
+    <programme start="20250106054000 +0000" stop="20250106094500 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20250106094500 +0000" stop="20250106122500 +0000" channel="SPOTV.starhub">
@@ -14939,9 +14942,6 @@
     </programme>
     <programme start="20250111120000 +0000" stop="20250111123000 +0000" channel="SPOTV.starhub">
         <title>MotoGP 2024 Spotlight: Marc Marquez Special Victory</title>
-    </programme>
-    <programme start="20250111123000 +0000" stop="20250111132500 +0000" channel="SPOTV.starhub">
-        <title>Free Practice 1</title>
     </programme>
     <programme start="20241231233000 +0000" stop="20250101002000 +0000" channel="ONE HD.starhub">
         <title>Third Marriage</title>
@@ -15156,13 +15156,13 @@
     <programme start="20250104012000 +0000" stop="20250104021000 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250104021000 +0000" stop="20250104034000 +0000" channel="ONE HD.starhub">
+    <programme start="20250104021000 +0000" stop="20250104034500 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250104034000 +0000" stop="20250104053500 +0000" channel="ONE HD.starhub">
+    <programme start="20250104034500 +0000" stop="20250104054200 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104053500 +0000" stop="20250104065500 +0000" channel="ONE HD.starhub">
+    <programme start="20250104054200 +0000" stop="20250104065500 +0000" channel="ONE HD.starhub">
         <title>Taxi Driver</title>
     </programme>
     <programme start="20250104065500 +0000" stop="20250104081500 +0000" channel="ONE HD.starhub">
@@ -15183,20 +15183,23 @@
     <programme start="20250104123000 +0000" stop="20250104134500 +0000" channel="ONE HD.starhub">
         <title>One Ordinary Day</title>
     </programme>
-    <programme start="20250104134500 +0000" stop="20250104151500 +0000" channel="ONE HD.starhub">
+    <programme start="20250104134500 +0000" stop="20250104150000 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250104151500 +0000" stop="20250104171000 +0000" channel="ONE HD.starhub">
+    <programme start="20250104150000 +0000" stop="20250104164700 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104171000 +0000" stop="20250104190500 +0000" channel="ONE HD.starhub">
+    <programme start="20250104164700 +0000" stop="20250104184500 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104190500 +0000" stop="20250104204000 +0000" channel="ONE HD.starhub">
+    <programme start="20250104184500 +0000" stop="20250104203000 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250104204000 +0000" stop="20250104220000 +0000" channel="ONE HD.starhub">
+    <programme start="20250104203000 +0000" stop="20250104214500 +0000" channel="ONE HD.starhub">
         <title>One Ordinary Day</title>
+    </programme>
+    <programme start="20250104214500 +0000" stop="20250104220000 +0000" channel="ONE HD.starhub">
+        <title>K-Hits</title>
     </programme>
     <programme start="20250104220000 +0000" stop="20250104225000 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
@@ -15213,13 +15216,13 @@
     <programme start="20250105012000 +0000" stop="20250105021000 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250105021000 +0000" stop="20250105034000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105021000 +0000" stop="20250105033000 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250105034000 +0000" stop="20250105050500 +0000" channel="ONE HD.starhub">
+    <programme start="20250105033000 +0000" stop="20250105050000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105050500 +0000" stop="20250105063000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105050000 +0000" stop="20250105063000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20250105063000 +0000" stop="20250105080000 +0000" channel="ONE HD.starhub">
@@ -15239,9 +15242,6 @@
     </programme>
     <programme start="20250105123000 +0000" stop="20250105140500 +0000" channel="ONE HD.starhub">
         <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20250105140500 +0000" stop="20250105154000 +0000" channel="ONE HD.starhub">
-        <title>Paik&#039;s Les Miserables</title>
     </programme>
     <programme start="20241231232000 +0000" stop="20250101002000 +0000" channel="beIN Sports 3.starhub">
         <title>UECL League Phase Review</title>
@@ -24825,7 +24825,10 @@
     <programme start="20250102220000 +0000" stop="20250103003000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250103025000 +0000" stop="20250103065000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250103003000 +0000" stop="20250103035000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M12 - Perth Scorchers vs Brisbane Heat</title>
+    </programme>
+    <programme start="20250103035000 +0000" stop="20250103065000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M17 - Adelaide Strikers vs Perth Scorchers</title>
     </programme>
     <programme start="20250103065000 +0000" stop="20250103110500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24837,13 +24840,13 @@
     <programme start="20250103180500 +0000" stop="20250103220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250103220000 +0000" stop="20250104000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250103220000 +0000" stop="20250104012000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250104000000 +0000" stop="20250104040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250104012000 +0000" stop="20250104045500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M13 - Adelaide Strikers vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250104045500 +0000" stop="20250104080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M18 - Hobart Hurricanes vs Sydney Sixers</title>
     </programme>
     <programme start="20250104080000 +0000" stop="20250104121500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25082,9 +25085,6 @@
     </programme>
     <programme start="20250117121500 +0000" stop="20250117201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
-    </programme>
-    <programme start="20250117201500 +0000" stop="20250117220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250101000000 +0000" stop="20250101010000 +0000" channel="TVB Xing He.starhub">
         <title>Ringmaster, The</title>
@@ -27999,13 +27999,13 @@
     <programme start="20250104012000 +0000" stop="20250104021000 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250104021000 +0000" stop="20250104034000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104021000 +0000" stop="20250104034500 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250104034000 +0000" stop="20250104053500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104034500 +0000" stop="20250104054200 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104053500 +0000" stop="20250104065500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104054200 +0000" stop="20250104065500 +0000" channel="ONE (Malay).starhub">
         <title>Taxi Driver</title>
     </programme>
     <programme start="20250104065500 +0000" stop="20250104081500 +0000" channel="ONE (Malay).starhub">
@@ -28026,20 +28026,23 @@
     <programme start="20250104123000 +0000" stop="20250104134500 +0000" channel="ONE (Malay).starhub">
         <title>One Ordinary Day</title>
     </programme>
-    <programme start="20250104134500 +0000" stop="20250104151500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104134500 +0000" stop="20250104150000 +0000" channel="ONE (Malay).starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250104151500 +0000" stop="20250104171000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104150000 +0000" stop="20250104164700 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104171000 +0000" stop="20250104190500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104164700 +0000" stop="20250104184500 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250104190500 +0000" stop="20250104204000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104184500 +0000" stop="20250104203000 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250104204000 +0000" stop="20250104220000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250104203000 +0000" stop="20250104214500 +0000" channel="ONE (Malay).starhub">
         <title>One Ordinary Day</title>
+    </programme>
+    <programme start="20250104214500 +0000" stop="20250104220000 +0000" channel="ONE (Malay).starhub">
+        <title>K-Hits</title>
     </programme>
     <programme start="20250104220000 +0000" stop="20250104225000 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
@@ -28056,13 +28059,13 @@
     <programme start="20250105012000 +0000" stop="20250105021000 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250105021000 +0000" stop="20250105034000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105021000 +0000" stop="20250105033000 +0000" channel="ONE (Malay).starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250105034000 +0000" stop="20250105050500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105033000 +0000" stop="20250105050000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105050500 +0000" stop="20250105063000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105050000 +0000" stop="20250105063000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20250105063000 +0000" stop="20250105080000 +0000" channel="ONE (Malay).starhub">
@@ -28082,9 +28085,6 @@
     </programme>
     <programme start="20250105123000 +0000" stop="20250105140500 +0000" channel="ONE (Malay).starhub">
         <title>One Ordinary Day</title>
-    </programme>
-    <programme start="20250105140500 +0000" stop="20250105154000 +0000" channel="ONE (Malay).starhub">
-        <title>Paik&#039;s Les Miserables</title>
     </programme>
     <programme start="20241231224000 +0000" stop="20250101003000 +0000" channel="tvN HD.starhub">
         <title>Handsome Guys</title>
