@@ -25950,41 +25950,41 @@
     <programme start="20250106152000 +0000" stop="20250106170000 +0000" channel="Dragon TV.starhub">
         <title>X Clinic</title>
     </programme>
-    <programme start="20250106170000 +0000" stop="20250106220000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250106170000 +0000" stop="20250106221500 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250106221500 +0000" stop="20250106230000 +0000" channel="Dragon TV.starhub">
+        <title>Channel Young Food</title>
     </programme>
-    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250106230000 +0000" stop="20250107010000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107010000 +0000" stop="20250107013000 +0000" channel="Dragon TV.starhub">
+        <title>fashion kids</title>
     </programme>
-    <programme start="20250107160000 +0000" stop="20250107220000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107013000 +0000" stop="20250107024000 +0000" channel="Dragon TV.starhub">
+        <title>china date</title>
     </programme>
-    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107024000 +0000" stop="20250107025500 +0000" channel="Dragon TV.starhub">
+        <title>New world of entertainment</title>
     </programme>
-    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107025500 +0000" stop="20250107031500 +0000" channel="Dragon TV.starhub">
+        <title>Health preserving by famous doctors</title>
     </programme>
-    <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107031500 +0000" stop="20250107040000 +0000" channel="Dragon TV.starhub">
+        <title>Channel Young Food</title>
     </programme>
-    <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107040000 +0000" stop="20250107050000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV News Midday</title>
     </programme>
-    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107050000 +0000" stop="20250107062400 +0000" channel="Dragon TV.starhub">
+        <title>futuer china</title>
     </programme>
-    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107062400 +0000" stop="20250107065500 +0000" channel="Dragon TV.starhub">
+        <title>fashion kids</title>
     </programme>
-    <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250107065500 +0000" stop="20250107081500 +0000" channel="Dragon TV.starhub">
+        <title>china date</title>
     </programme>
     <programme start="20241231233000 +0000" stop="20250101003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>
@@ -32755,6 +32755,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112160000 +0000" stop="20250112220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113040000 +0000" stop="20250113100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20241231220000 +0000" stop="20250101040000 +0000" channel="Hub Sports 5 HD.starhub">
