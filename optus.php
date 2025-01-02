@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250102020000 +0000" stop="20250102023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250102133000 +0000" stop="20250102140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Dan Burn</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 203.optus">
         <title>Women&#039;s Super League - Crystal Palace v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 205.optus">
+        <title>Women&#039;s Super League - West Ham United v Everton</title>
+    </programme>
+    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 204.optus">
+        <title>Women&#039;s Super League - Leicester v Liverpool</title>
     </programme>
 </tv>

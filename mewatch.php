@@ -646,10 +646,10 @@
         <title>No Programme available now. Next Broadcast on 13th January, Monday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Lion City Sailors</title>
     </programme>
     <programme start="20250101160000 +0000" stop="20250102160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th January, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Geylang International</title>
     </programme>
     <programme start="20250102160000 +0000" stop="20250103160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th January, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Geylang International</title>
     </programme>
     <programme start="20250101150000 +0000" stop="20250101170000 +0000" channel="now-80s.mewatch">
         <title>Now That&#039;s What I Call A Musical!</title>
