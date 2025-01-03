@@ -5929,13 +5929,13 @@
         <title>Ini Ellam Vasanthame</title>
     </programme>
     <programme start="20250104163000 +0000" stop="20250104200000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - DHURAI (U/A)</title>
+        <title>MOVIE - MAANJA VELU (V/UA)</title>
     </programme>
     <programme start="20250104200000 +0000" stop="20250104203000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20250104203000 +0000" stop="20250104230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - AGARAM (V/U)</title>
+        <title>BREAKFREE MOVIE - CHANDA MAAMA (U)</title>
     </programme>
     <programme start="20250104230000 +0000" stop="20250105000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
@@ -5956,7 +5956,7 @@
         <title>News</title>
     </programme>
     <programme start="20250105023000 +0000" stop="20250105043000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VELLITHIRAI (U)</title>
+        <title>MOVIE - NAACHIYAR (U/A)</title>
     </programme>
     <programme start="20250105043000 +0000" stop="20250105053000 +0000" channel="Kalaignar TV.starhub">
         <title>Vaa Thamizha Vaa Season V</title>
@@ -5970,10 +5970,10 @@
     <programme start="20250105073000 +0000" stop="20250105080000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250105080000 +0000" stop="20250105113000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - BLUE STAR (U/A)</title>
+    <programme start="20250105080000 +0000" stop="20250105110000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - CONJURING KANNAPPAN (U/A)</title>
     </programme>
-    <programme start="20250105113000 +0000" stop="20250105120000 +0000" channel="Kalaignar TV.starhub">
+    <programme start="20250105110000 +0000" stop="20250105120000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20250105120000 +0000" stop="20250105123000 +0000" channel="Kalaignar TV.starhub">
@@ -5983,16 +5983,16 @@
         <title>Thamizhodu Vilayaadu Season 2</title>
     </programme>
     <programme start="20250105133000 +0000" stop="20250105170000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - BAGASURAN (U/A)</title>
+        <title>MOVIE - LOVE TODAY (U/A)</title>
     </programme>
     <programme start="20250105170000 +0000" stop="20250105200000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - MUNIYANDI VILANGIYAL 3AM AANDU (U)</title>
+        <title>MOVIE - NAAN MAHAN ALLA (U/A)</title>
     </programme>
     <programme start="20250105200000 +0000" stop="20250105203000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20250105203000 +0000" stop="20250105230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - GURU (U)</title>
+        <title>BREAKFREE MOVIE - DANCER (U)</title>
     </programme>
     <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
@@ -28572,6 +28572,18 @@
     <programme start="20250113100000 +0000" stop="20250113160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250113160300 +0000" stop="20250113220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250101234000 +0000" stop="20250102001000 +0000" channel="HBO Family HD.starhub">
         <title>The Oct-Dough-Pus</title>
     </programme>
@@ -32776,6 +32788,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Sports 5 HD.starhub">
