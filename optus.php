@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250103120000 +0000" stop="20250103130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250103163000 +0000" stop="20250103170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>
+    </programme>
+    <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bayer Leverkusen v Koln</title>
     </programme>
 </tv>

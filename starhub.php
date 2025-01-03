@@ -9690,7 +9690,7 @@
     <programme start="20250103230000 +0000" stop="20250104015500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250104020000 +0000" stop="20250104023000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250104015500 +0000" stop="20250104023000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250104023000 +0000" stop="20250104053000 +0000" channel="SPOTV2.starhub">
@@ -9882,8 +9882,14 @@
     <programme start="20250108060000 +0000" stop="20250108080000 +0000" channel="SPOTV2.starhub">
         <title>2024 International Friendly (Women) Match 2 CommBank Matildas vs Brazil</title>
     </programme>
-    <programme start="20250108080000 +0000" stop="20250108123000 +0000" channel="SPOTV2.starhub">
-        <title>Day 1 Session 1</title>
+    <programme start="20250108080000 +0000" stop="20250108100000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR MEN&#039;S 6th Tournament</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108120000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
+    </programme>
+    <programme start="20250108120000 +0000" stop="20250108123000 +0000" channel="SPOTV2.starhub">
+        <title>2025 Grid Activity</title>
     </programme>
     <programme start="20250108123000 +0000" stop="20250108130000 +0000" channel="SPOTV2.starhub">
         <title>Round 1 Boston</title>
@@ -9891,14 +9897,8 @@
     <programme start="20250108130000 +0000" stop="20250108140000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250108140000 +0000" stop="20250108183000 +0000" channel="SPOTV2.starhub">
-        <title>Day 1 Session 2</title>
-    </programme>
-    <programme start="20250108183000 +0000" stop="20250108194500 +0000" channel="SPOTV2.starhub">
-        <title>Moto3 Race</title>
-    </programme>
-    <programme start="20250108194500 +0000" stop="20250108210000 +0000" channel="SPOTV2.starhub">
-        <title>Moto2 Race</title>
+    <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250101230000 +0000" stop="20250102020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -13000,7 +13000,7 @@
         <title>Hong Kong QF 3 Shang v Marozsan</title>
     </programme>
     <programme start="20250104003000 +0000" stop="20250104020000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong QF 4</title>
+        <title>Hong Kong QF 4 Nishikori v Norrie</title>
     </programme>
     <programme start="20250104020000 +0000" stop="20250104033000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Brisbane QF 3</title>
@@ -15517,7 +15517,7 @@
         <title>UEFA Champions League 2024/25 Bologna vs Monaco - MD4</title>
     </programme>
     <programme start="20250107050000 +0000" stop="20250107070000 +0000" channel="beIN Sports 3.starhub">
-        <title>Charity Match 1</title>
+        <title>Australian Open 2025 Charity Match - Sinner v Popyrin (Live)</title>
     </programme>
     <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2024/25 PSV vs Girona - MD4</title>
@@ -15525,14 +15525,11 @@
     <programme start="20250107073000 +0000" stop="20250107080000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2024/25 Lille vs Juventus - MD4</title>
     </programme>
-    <programme start="20250107080000 +0000" stop="20250107083000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250107080000 +0000" stop="20250107100000 +0000" channel="beIN Sports 3.starhub">
+        <title>Red Bull Bassline</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107103000 +0000" channel="beIN Sports 3.starhub">
         <title>Every UCL Goal - Ronaldo &amp; Muller</title>
-    </programme>
-    <programme start="20250107083000 +0000" stop="20250107084000 +0000" channel="beIN Sports 3.starhub">
-        <title>UCL All Goals - Raheem Stirling</title>
-    </programme>
-    <programme start="20250107084000 +0000" stop="20250107103000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2024/25 Union Saint-Gilloise vs Roma - MD4</title>
     </programme>
     <programme start="20250107103000 +0000" stop="20250107110000 +0000" channel="beIN Sports 3.starhub">
         <title>2000/01</title>
@@ -15571,10 +15568,10 @@
         <title>UEFA Champions League 2024/25 Club Brugge vs Aston Villa - MD4</title>
     </programme>
     <programme start="20250108060000 +0000" stop="20250108080000 +0000" channel="beIN Sports 3.starhub">
-        <title>Charity Match 2</title>
+        <title>Australian Open 2025 Charity Match - Zheng v Svitolina (Live)</title>
     </programme>
     <programme start="20250108080000 +0000" stop="20250108100000 +0000" channel="beIN Sports 3.starhub">
-        <title>Charity Match 3</title>
+        <title>Australian Open 2025 Charity Match - Alcaraz v De Minaur (Live)</title>
     </programme>
     <programme start="20250108100000 +0000" stop="20250108103000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2024/25 Bayern vs Benfica - MD4</title>
@@ -15599,6 +15596,9 @@
     </programme>
     <programme start="20250108213000 +0000" stop="20250108232500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Youth League 2024/25 Benfica vs Atletico Madrid - MD2</title>
+    </programme>
+    <programme start="20250108232500 +0000" stop="20250109011500 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Champions League 2024/25 Celtic vs Leipzig - MD4</title>
     </programme>
     <programme start="20250101233000 +0000" stop="20250102013000 +0000" channel="Astro Sensasi HD.starhub">
         <title>Senja Merah</title>
@@ -22516,13 +22516,13 @@
         <title>Cardiff Half Marathon</title>
     </programme>
     <programme start="20250103230000 +0000" stop="20250103233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
     </programme>
     <programme start="20250103233000 +0000" stop="20250104000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Aramco Invitational Tournament</title>
     </programme>
     <programme start="20250104000000 +0000" stop="20250104013000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Brisbane International presented by EVIE (500) QF 3</title>
+        <title>Brisbane International presented by EVIE (500) QF 4</title>
     </programme>
     <programme start="20250104013000 +0000" stop="20250104030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) QF 4</title>
@@ -28363,10 +28363,10 @@
         <title>True Beauty</title>
     </programme>
     <programme start="20250106042000 +0000" stop="20250106053500 +0000" channel="tvN HD.starhub">
-        <title>The Queen Who Crowns</title>
+        <title>Twinkling Watermelon</title>
     </programme>
     <programme start="20250106053500 +0000" stop="20250106065000 +0000" channel="tvN HD.starhub">
-        <title>The Queen Who Crowns</title>
+        <title>Twinkling Watermelon</title>
     </programme>
     <programme start="20250106065000 +0000" stop="20250106084500 +0000" channel="tvN HD.starhub">
         <title>Europe Outside Your Tent: Romantic Italy</title>
