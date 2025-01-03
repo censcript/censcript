@@ -22465,7 +22465,7 @@
         <title>Semi-Finals</title>
     </programme>
     <programme start="20250102230000 +0000" stop="20250102233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 6</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 6</title>
     </programme>
     <programme start="20250102233000 +0000" stop="20250103010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) Rd 16 Session 3</title>
@@ -22585,7 +22585,7 @@
         <title>PIF Saudi International powered by Softbank Investment Advisers</title>
     </programme>
     <programme start="20250105003000 +0000" stop="20250105033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASB Classic (250) QF 3 &amp; 4</title>
+        <title>Brisbane International presented by EVIE (500) Rd 16 Session 2</title>
     </programme>
     <programme start="20250105033000 +0000" stop="20250105050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) SF 1</title>
@@ -22600,10 +22600,10 @@
         <title>DP World Tour Championship, Dubai</title>
     </programme>
     <programme start="20250105090000 +0000" stop="20250105093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
     </programme>
     <programme start="20250105093000 +0000" stop="20250105100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) SF 1</title>
@@ -22651,10 +22651,10 @@
         <title>Adelaide International (500) Day 1 Session 3</title>
     </programme>
     <programme start="20250106100000 +0000" stop="20250106103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
     </programme>
     <programme start="20250106103000 +0000" stop="20250106110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
     </programme>
     <programme start="20250106110000 +0000" stop="20250106140000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) Day 1 Session 1</title>
@@ -22684,10 +22684,10 @@
         <title>Adelaide International (500) Day 2 Session 1</title>
     </programme>
     <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
     </programme>
     <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
     </programme>
     <programme start="20250107073000 +0000" stop="20250107083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode Number 6</title>
@@ -24873,22 +24873,22 @@
     <programme start="20250104175500 +0000" stop="20250104220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250104220000 +0000" stop="20250105000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250104220000 +0000" stop="20250105005500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250105005500 +0000" stop="20250105042500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M14 - Melbourne Stars vs Sydney Thunder</title>
     </programme>
-    <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250105042500 +0000" stop="20250105080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M19 - Brisbane Heat vs Melbourne Stars</title>
     </programme>
     <programme start="20250105080000 +0000" stop="20250105121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M24 - Hobart Hurricanes vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250105121500 +0000" stop="20250105201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250105121500 +0000" stop="20250105191000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
     </programme>
-    <programme start="20250105201500 +0000" stop="20250105220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250105191000 +0000" stop="20250105220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250105220000 +0000" stop="20250106000000 +0000" channel="Hub Sports 4 HD.starhub">
