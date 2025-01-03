@@ -22182,11 +22182,11 @@
     <programme start="20250103170000 +0000" stop="20250103200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Naan Avan Illai</title>
     </programme>
-    <programme start="20250103200000 +0000" stop="20250103220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+    <programme start="20250103200000 +0000" stop="20250103223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Karisakkaattu Poove</title>
     </programme>
-    <programme start="20250103220000 +0000" stop="20250104040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250103223000 +0000" stop="20250104010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kurumbukaran</title>
     </programme>
     <programme start="20250104040000 +0000" stop="20250104100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
