@@ -9687,7 +9687,7 @@
     <programme start="20250103220000 +0000" stop="20250103230000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250103230000 +0000" stop="20250104020000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250103230000 +0000" stop="20250104015500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20250104020000 +0000" stop="20250104023000 +0000" channel="SPOTV2.starhub">
