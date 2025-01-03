@@ -18013,7 +18013,7 @@
         <title>Dharmraja</title>
     </programme>
     <programme start="20250103080000 +0000" stop="20250103110000 +0000" channel="Vannathirai.starhub">
-        <title>Otta Panthayam</title>
+        <title>Ooruku Upadesam</title>
     </programme>
     <programme start="20250103110000 +0000" stop="20250103120000 +0000" channel="Vannathirai.starhub">
         <title>Start Camera Action</title>
