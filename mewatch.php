@@ -907,13 +907,13 @@
         <title>No programme available now. Next broadcast on 3rd January, Friday 11am. The Wonder Shop Livestreaming</title>
     </programme>
     <programme start="20250103025000 +0000" stop="20250103053000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Livestreaming) - EP84</title>
+        <title>The Wonder Shop (Livestreaming) - LIVE from Takashimaya with LOVE972</title>
     </programme>
     <programme start="20250103053000 +0000" stop="20250103112000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 3rd January, Friday 7.30pm. The Wonder Shop Livestreaming</title>
     </programme>
     <programme start="20250103112000 +0000" stop="20250103130000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Livestreaming) - EP85</title>
+        <title>The Wonder Shop (Livestreaming) - LIVE from Takashimaya with YES933</title>
     </programme>
     <programme start="20250103130000 +0000" stop="20250103160000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 4th January, Saturday 7pm. The Wonder Shop Home Shopping</title>
