@@ -24519,189 +24519,6 @@
     <programme start="20250111041500 +0000" stop="20250111063000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Ghost Rider</title>
     </programme>
-    <programme start="20241231234000 +0000" stop="20250101000500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Master Key</title>
-    </programme>
-    <programme start="20250101000500 +0000" stop="20250101003000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Last Dumont</title>
-    </programme>
-    <programme start="20250101003000 +0000" stop="20250101005500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Enter the Dragon Master</title>
-    </programme>
-    <programme start="20250101005500 +0000" stop="20250101012000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Blue Dragon Plays with Fire</title>
-    </programme>
-    <programme start="20250101012000 +0000" stop="20250101014500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Blade of the Red Phoenix</title>
-    </programme>
-    <programme start="20250101014500 +0000" stop="20250101021000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Intruder Flies a Crooked Path</title>
-    </programme>
-    <programme start="20250101021000 +0000" stop="20250101023500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>A Fistful of Herbs</title>
-    </programme>
-    <programme start="20250101023500 +0000" stop="20250101030000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Poison in the Pit of the Plum</title>
-    </programme>
-    <programme start="20250101030000 +0000" stop="20250101032500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Big Trouble in Panda Village</title>
-    </programme>
-    <programme start="20250101032500 +0000" stop="20250101035000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Secrets Lost to Shadow</title>
-    </programme>
-    <programme start="20250101035000 +0000" stop="20250101041500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Out of the Cave and Onto Thin Ice</title>
-    </programme>
-    <programme start="20250101041500 +0000" stop="20250101044000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Return of the Four Constellations</title>
-    </programme>
-    <programme start="20250101044000 +0000" stop="20250101050500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Unholy Dragon Returns to the Mountains</title>
-    </programme>
-    <programme start="20250101050500 +0000" stop="20250101053000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Sacrifice at the Edge of Time</title>
-    </programme>
-    <programme start="20250101053000 +0000" stop="20250101055500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>End of the Dragon Master</title>
-    </programme>
-    <programme start="20250101055500 +0000" stop="20250101062000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Journey to the East</title>
-    </programme>
-    <programme start="20250101062000 +0000" stop="20250101064500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Curse of the Monkey King</title>
-    </programme>
-    <programme start="20250101064500 +0000" stop="20250101071000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>A Game of Fists</title>
-    </programme>
-    <programme start="20250101071000 +0000" stop="20250101073500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Beast of the Wasteland</title>
-    </programme>
-    <programme start="20250101073500 +0000" stop="20250101080000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Danger in the Forbidden City</title>
-    </programme>
-    <programme start="20250101080000 +0000" stop="20250101082500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Battle(s) of Gongmen Bay</title>
-    </programme>
-    <programme start="20250101082500 +0000" stop="20250101085000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Gongmen City Hustle</title>
-    </programme>
-    <programme start="20250101085000 +0000" stop="20250101091500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Night of the White Bone Demon</title>
-    </programme>
-    <programme start="20250101091500 +0000" stop="20250101094000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Rise of the Empress</title>
-    </programme>
-    <programme start="20250101094000 +0000" stop="20250101100500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Bridge Over Troubled Lava</title>
-    </programme>
-    <programme start="20250101100500 +0000" stop="20250101103000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>House of Flying Pandas</title>
-    </programme>
-    <programme start="20250101103000 +0000" stop="20250101105500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Coronation of the Iron Goddess</title>
-    </programme>
-    <programme start="20250101105500 +0000" stop="20250101112000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Beginning of the End</title>
-    </programme>
-    <programme start="20250101112000 +0000" stop="20250101114500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Dragon Knights Part 1</title>
-    </programme>
-    <programme start="20250101114500 +0000" stop="20250101121000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>How to Pick Your Dragon</title>
-    </programme>
-    <programme start="20250101121000 +0000" stop="20250101123500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Portrait of Hiccup as a Buff Man</title>
-    </programme>
-    <programme start="20250101123500 +0000" stop="20250101130000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Dragon Flower</title>
-    </programme>
-    <programme start="20250101130000 +0000" stop="20250101132500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Lucky and the Escape Artist</title>
-    </programme>
-    <programme start="20250101132500 +0000" stop="20250101135000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Lucky and the Thin Ice</title>
-    </programme>
-    <programme start="20250101135000 +0000" stop="20250101141500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Lucky and the Ray of Sunshine</title>
-    </programme>
-    <programme start="20250101141500 +0000" stop="20250101144000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Big Dumpling</title>
-    </programme>
-    <programme start="20250101144000 +0000" stop="20250101150500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Great Medieval London Fire 1135</title>
-    </programme>
-    <programme start="20250101150500 +0000" stop="20250101153000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Untitled Templeton Project</title>
-    </programme>
-    <programme start="20250101153000 +0000" stop="20250101155500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>A Teacup Filled with the Self</title>
-    </programme>
-    <programme start="20250101155500 +0000" stop="20250101162000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Beginning of the End</title>
-    </programme>
-    <programme start="20250101162000 +0000" stop="20250101164500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Dragon Knights Part 1</title>
-    </programme>
-    <programme start="20250101164500 +0000" stop="20250101171000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Scarlet Panther</title>
-    </programme>
-    <programme start="20250101171000 +0000" stop="20250101173500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>A Gruff Separation</title>
-    </programme>
-    <programme start="20250101173500 +0000" stop="20250101180000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Waltor / Out Foxed</title>
-    </programme>
-    <programme start="20250101180000 +0000" stop="20250101182500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Squad Goals</title>
-    </programme>
-    <programme start="20250101182500 +0000" stop="20250101185000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Lucky and the Thin Ice</title>
-    </programme>
-    <programme start="20250101185000 +0000" stop="20250101191500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>He Got Game Night/73</title>
-    </programme>
-    <programme start="20250101191500 +0000" stop="20250101194000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Bloodlines</title>
-    </programme>
-    <programme start="20250101194000 +0000" stop="20250101200500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Sherman From A To Zzzz/Akashi Shiganosuke</title>
-    </programme>
-    <programme start="20250101200500 +0000" stop="20250101201700 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Pip&#039;s Playground</title>
-    </programme>
-    <programme start="20250101201700 +0000" stop="20250101203000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Mud Sculptures</title>
-    </programme>
-    <programme start="20250101203000 +0000" stop="20250101204500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Case Of The Spooky Noise</title>
-    </programme>
-    <programme start="20250101204500 +0000" stop="20250101210000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>The Case Of The Upset Animals</title>
-    </programme>
-    <programme start="20250101210000 +0000" stop="20250101211500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Why Hummingbird Hums</title>
-    </programme>
-    <programme start="20250101211500 +0000" stop="20250101213000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Why Baboon Has A Bare Bottom</title>
-    </programme>
-    <programme start="20250101213000 +0000" stop="20250101214500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Silver Hatch Pizza</title>
-    </programme>
-    <programme start="20250101214500 +0000" stop="20250101220000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Silver Hatch Stars</title>
-    </programme>
-    <programme start="20250101220000 +0000" stop="20250101222500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Bad Egg</title>
-    </programme>
-    <programme start="20250101222500 +0000" stop="20250101225000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Trick or Thief / Meow-Lo-Ween</title>
-    </programme>
-    <programme start="20250101225000 +0000" stop="20250101231500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Through Caverns Measureless</title>
-    </programme>
-    <programme start="20250101231500 +0000" stop="20250101234000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Captain Underpants and the Shadowy Syndrome of the Sinister Splotch</title>
-    </programme>
     <programme start="20250101234000 +0000" stop="20250102000500 +0000" channel="DreamWorks Channel HD.starhub">
         <title>A Teacup Filled with the Self</title>
     </programme>
@@ -24818,6 +24635,189 @@
     </programme>
     <programme start="20250102153000 +0000" stop="20250102155500 +0000" channel="DreamWorks Channel HD.starhub">
         <title>The Dragon Knights Part 2</title>
+    </programme>
+    <programme start="20250102155500 +0000" stop="20250102162000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Battle of Tianshang Part 1</title>
+    </programme>
+    <programme start="20250102162000 +0000" stop="20250102164500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Battle of Tianshang Part 2</title>
+    </programme>
+    <programme start="20250102164500 +0000" stop="20250102171000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Pajuna Serves Spirits</title>
+    </programme>
+    <programme start="20250102171000 +0000" stop="20250102173500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Mi Amore Wing</title>
+    </programme>
+    <programme start="20250102173500 +0000" stop="20250102180000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Le Grand Derriere / I&#039;m Your Boovest Fan</title>
+    </programme>
+    <programme start="20250102180000 +0000" stop="20250102182500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>One More Cup, Part 2</title>
+    </programme>
+    <programme start="20250102182500 +0000" stop="20250102185000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the Ray of Sunshine</title>
+    </programme>
+    <programme start="20250102185000 +0000" stop="20250102191500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Crew Detective/Whiplash Effect</title>
+    </programme>
+    <programme start="20250102191500 +0000" stop="20250102194000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>White Lion</title>
+    </programme>
+    <programme start="20250102194000 +0000" stop="20250102200500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Orchoptitron In Love/John Harrington</title>
+    </programme>
+    <programme start="20250102200500 +0000" stop="20250102201700 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Stingo&#039;s Naughty Day</title>
+    </programme>
+    <programme start="20250102201700 +0000" stop="20250102203000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Shrinking Pip</title>
+    </programme>
+    <programme start="20250102203000 +0000" stop="20250102204500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Case Of The Empty Swapsie Wagon</title>
+    </programme>
+    <programme start="20250102204500 +0000" stop="20250102210000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Case Of The Unhappy Unicorn</title>
+    </programme>
+    <programme start="20250102210000 +0000" stop="20250102211500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Why Bees Sting</title>
+    </programme>
+    <programme start="20250102211500 +0000" stop="20250102213000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Why Peacock Struts</title>
+    </programme>
+    <programme start="20250102213000 +0000" stop="20250102214500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>High-Tech Overload</title>
+    </programme>
+    <programme start="20250102214500 +0000" stop="20250102220000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Workshop Chaos</title>
+    </programme>
+    <programme start="20250102220000 +0000" stop="20250102222500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Crash Course</title>
+    </programme>
+    <programme start="20250102222500 +0000" stop="20250102225000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Trouble with Kibbles / Road to Kindness</title>
+    </programme>
+    <programme start="20250102225000 +0000" stop="20250102231500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>A Savage Place</title>
+    </programme>
+    <programme start="20250102231500 +0000" stop="20250102234000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Captain Underpants and the Bizarre Blitzkrieg of the Bothersome Butt-erflies</title>
+    </programme>
+    <programme start="20250102234000 +0000" stop="20250103000500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Dragon Knights Part 1</title>
+    </programme>
+    <programme start="20250103000500 +0000" stop="20250103003000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Dragon Knights Part 2</title>
+    </programme>
+    <programme start="20250103003000 +0000" stop="20250103005500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Turf War</title>
+    </programme>
+    <programme start="20250103005500 +0000" stop="20250103012000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Trading Up</title>
+    </programme>
+    <programme start="20250103012000 +0000" stop="20250103014500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Captain Underpants and the Terrifying Perilous Misfortune of the T.P. Mummy</title>
+    </programme>
+    <programme start="20250103014500 +0000" stop="20250103021000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Captain Underpants and the Squishy Predicament of Stanley Peet&#039;s Stinky Pits</title>
+    </programme>
+    <programme start="20250103021000 +0000" stop="20250103023500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Big Man On Berk</title>
+    </programme>
+    <programme start="20250103023500 +0000" stop="20250103030000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Gone Gustav Gone</title>
+    </programme>
+    <programme start="20250103030000 +0000" stop="20250103032500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Cloudy With A Chance Of Hugs / Creek Week</title>
+    </programme>
+    <programme start="20250103032500 +0000" stop="20250103035000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Giver / Bellow Bug Day</title>
+    </programme>
+    <programme start="20250103035000 +0000" stop="20250103041500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Adventure</title>
+    </programme>
+    <programme start="20250103041500 +0000" stop="20250103044000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Fountains</title>
+    </programme>
+    <programme start="20250103044000 +0000" stop="20250103050500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Racetrack</title>
+    </programme>
+    <programme start="20250103050500 +0000" stop="20250103053000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Gluphosaurus</title>
+    </programme>
+    <programme start="20250103053000 +0000" stop="20250103055500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Captain Underpants and the Monstrous Mayhem of the Massive Melviathan</title>
+    </programme>
+    <programme start="20250103055500 +0000" stop="20250103062000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Captain Underpants and the Savage Spite of the Slimy Salamangler</title>
+    </programme>
+    <programme start="20250103062000 +0000" stop="20250103064500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Little Sisters / Tricky Treasure</title>
+    </programme>
+    <programme start="20250103064500 +0000" stop="20250103071000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Chore Score / Dew Drop Swap</title>
+    </programme>
+    <programme start="20250103071000 +0000" stop="20250103073500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Inside Jokings / It&#039;s A Jungle In There</title>
+    </programme>
+    <programme start="20250103073500 +0000" stop="20250103080000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Dang You Saved My Life / Boovsland Noir</title>
+    </programme>
+    <programme start="20250103080000 +0000" stop="20250103082500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the Girl Who Cried Wolf</title>
+    </programme>
+    <programme start="20250103082500 +0000" stop="20250103085000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the Endless Possibilities</title>
+    </programme>
+    <programme start="20250103085000 +0000" stop="20250103091500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the New Frontier (Part 1)</title>
+    </programme>
+    <programme start="20250103091500 +0000" stop="20250103094000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Inner Children</title>
+    </programme>
+    <programme start="20250103094000 +0000" stop="20250103100500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Poompf!</title>
+    </programme>
+    <programme start="20250103100500 +0000" stop="20250103103000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Heat is On</title>
+    </programme>
+    <programme start="20250103103000 +0000" stop="20250103105500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Pangea-ing</title>
+    </programme>
+    <programme start="20250103105500 +0000" stop="20250103112000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Poison Ravine</title>
+    </programme>
+    <programme start="20250103112000 +0000" stop="20250103114500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Master Key</title>
+    </programme>
+    <programme start="20250103114500 +0000" stop="20250103121000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Animal House</title>
+    </programme>
+    <programme start="20250103121000 +0000" stop="20250103123500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Terrible Twos</title>
+    </programme>
+    <programme start="20250103123500 +0000" stop="20250103130000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>In Dragons We Trust</title>
+    </programme>
+    <programme start="20250103130000 +0000" stop="20250103132500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the Girl Who Cried Wolf</title>
+    </programme>
+    <programme start="20250103132500 +0000" stop="20250103135000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the Endless Possibilities</title>
+    </programme>
+    <programme start="20250103135000 +0000" stop="20250103141500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Lucky and the New Frontier (Part 1)</title>
+    </programme>
+    <programme start="20250103141500 +0000" stop="20250103144000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Inner Children</title>
+    </programme>
+    <programme start="20250103144000 +0000" stop="20250103150500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>Poompf!</title>
+    </programme>
+    <programme start="20250103150500 +0000" stop="20250103153000 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Heat is On</title>
+    </programme>
+    <programme start="20250103153000 +0000" stop="20250103155500 +0000" channel="DreamWorks Channel HD.starhub">
+        <title>The Pangea-ing</title>
     </programme>
     <programme start="20250101220000 +0000" stop="20250102011500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
