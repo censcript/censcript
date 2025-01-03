@@ -12982,22 +12982,22 @@
         <title>ATP Tour 250 2025: Hong Kong QF 1</title>
     </programme>
     <programme start="20250103153000 +0000" stop="20250103170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong QF 2</title>
+        <title>Hong Kong QF 2 Musetti v Munar</title>
     </programme>
     <programme start="20250103170000 +0000" stop="20250103183000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Metz Day 3 Struff v Moutet</title>
+        <title>Metz Day 3 Struff v Moutet</title>
     </programme>
     <programme start="20250103183000 +0000" stop="20250103200000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Metz Day 4 Halys v Herbert</title>
+        <title>Metz Day 4 Halys v Herbert</title>
     </programme>
     <programme start="20250103200000 +0000" stop="20250103213000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2024: Metz Day 4 Norrie v Van Assche</title>
+        <title>Metz Day 4 Norrie v Van Assche</title>
     </programme>
     <programme start="20250103213000 +0000" stop="20250103230000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane QF 2</title>
+        <title>Brisbane QF 1 Lehecka v Jarry</title>
     </programme>
     <programme start="20250103230000 +0000" stop="20250104003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong QF 3</title>
+        <title>Hong Kong QF 3 Shang v Marozsan</title>
     </programme>
     <programme start="20250104003000 +0000" stop="20250104020000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Hong Kong QF 4</title>
@@ -22516,7 +22516,7 @@
         <title>Cardiff Half Marathon</title>
     </programme>
     <programme start="20250103230000 +0000" stop="20250103233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
     </programme>
     <programme start="20250103233000 +0000" stop="20250104000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Aramco Invitational Tournament</title>
