@@ -6390,11 +6390,11 @@
     <programme start="20250103183000 +0000" stop="20250103213000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NFL 2024/25 Denver Broncos vs Cincinnati Bengals</title>
     </programme>
-    <programme start="20250103213000 +0000" stop="20250104000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC Reloaded UFC 307: Pereira vs Rountree Jr.</title>
+    <programme start="20250103213000 +0000" stop="20250103220000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>France</title>
     </programme>
-    <programme start="20250104000000 +0000" stop="20250104020000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Isuzu UTE A-League 2024/25 R12: Perth Glory vs Western United FC</title>
+    <programme start="20250103220000 +0000" stop="20250104020000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>ASB Classic (250) QF 3 &amp; 4</title>
     </programme>
     <programme start="20250104020000 +0000" stop="20250104040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>ASB Classic (250) SF 1</title>
@@ -29550,11 +29550,11 @@
     <programme start="20250103183000 +0000" stop="20250103213000 +0000" channel="TestChannel 995.starhub">
         <title>NFL 2024/25 Denver Broncos vs Cincinnati Bengals</title>
     </programme>
-    <programme start="20250103213000 +0000" stop="20250104000000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC Reloaded UFC 307: Pereira vs Rountree Jr.</title>
+    <programme start="20250103213000 +0000" stop="20250103220000 +0000" channel="TestChannel 995.starhub">
+        <title>France</title>
     </programme>
-    <programme start="20250104000000 +0000" stop="20250104020000 +0000" channel="TestChannel 995.starhub">
-        <title>Isuzu UTE A-League 2024/25 R12: Perth Glory vs Western United FC</title>
+    <programme start="20250103220000 +0000" stop="20250104020000 +0000" channel="TestChannel 995.starhub">
+        <title>ASB Classic (250) QF 3 &amp; 4</title>
     </programme>
     <programme start="20250104020000 +0000" stop="20250104040000 +0000" channel="TestChannel 995.starhub">
         <title>ASB Classic (250) SF 1</title>

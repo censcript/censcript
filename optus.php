@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250103103000 +0000" stop="20250103110000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250103120000 +0000" stop="20250103130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250126183500 +0000" stop="20250126204500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Stuttgart v Augsburg</title>
     </programme>
 </tv>
