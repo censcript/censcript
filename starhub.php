@@ -18819,6 +18819,18 @@
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250101230000 +0000" stop="20250102020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
     </programme>
@@ -22465,7 +22477,7 @@
         <title>Semi-Finals</title>
     </programme>
     <programme start="20250102230000 +0000" stop="20250102233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 6</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 6</title>
     </programme>
     <programme start="20250102233000 +0000" stop="20250103010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) Rd 16 Session 3</title>
@@ -22524,17 +22536,20 @@
     <programme start="20250104000000 +0000" stop="20250104013000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) QF 4</title>
     </programme>
-    <programme start="20250104013000 +0000" stop="20250104030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Brisbane International presented by EVIE (500) QF 4</title>
+    <programme start="20250104013000 +0000" stop="20250104020000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>acciona Open de España presented by Madrid</title>
     </programme>
-    <programme start="20250104030000 +0000" stop="20250104050000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250104020000 +0000" stop="20250104040000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Brisbane International presented by EVIE (500) SF 1</title>
     </programme>
-    <programme start="20250104050000 +0000" stop="20250104053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Amgen Irish Open</title>
+    <programme start="20250104040000 +0000" stop="20250104043000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>AfrAsia Bank Mauritius Open</title>
+    </programme>
+    <programme start="20250104043000 +0000" stop="20250104053000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode Number 6</title>
     </programme>
     <programme start="20250104053000 +0000" stop="20250104055500 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>AfrAsia Bank Mauritius Open</title>
+        <title>Amgen Irish Open</title>
     </programme>
     <programme start="20250104055500 +0000" stop="20250104080000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>R12: Newcastle Jets vs Sydney FC</title>
@@ -22546,7 +22561,7 @@
         <title>Brisbane International presented by EVIE (500) SF 2</title>
     </programme>
     <programme start="20250104103000 +0000" stop="20250104110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Nedbank Golf Challenge</title>
+        <title>Riyadh Tour Finals Highlights Show</title>
     </programme>
     <programme start="20250104110000 +0000" stop="20250104113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>AfrAsia Bank Mauritius Open</title>
@@ -22600,10 +22615,10 @@
         <title>DP World Tour Championship, Dubai</title>
     </programme>
     <programme start="20250105090000 +0000" stop="20250105093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
     </programme>
     <programme start="20250105093000 +0000" stop="20250105100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) SF 1</title>
@@ -22651,10 +22666,10 @@
         <title>Adelaide International (500) Day 1 Session 3</title>
     </programme>
     <programme start="20250106100000 +0000" stop="20250106103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
     </programme>
     <programme start="20250106103000 +0000" stop="20250106110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
     </programme>
     <programme start="20250106110000 +0000" stop="20250106140000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) Day 1 Session 1</title>
@@ -22684,10 +22699,10 @@
         <title>Adelaide International (500) Day 2 Session 1</title>
     </programme>
     <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 7</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
     </programme>
     <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
     </programme>
     <programme start="20250107073000 +0000" stop="20250107083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode Number 6</title>
@@ -22715,9 +22730,6 @@
     </programme>
     <programme start="20250107210000 +0000" stop="20250107230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 1 - 12 (Mark Williams v Si Jiahui)</title>
-    </programme>
-    <programme start="20250107230000 +0000" stop="20250108003000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Day 2 Session 2</title>
     </programme>
     <programme start="20250102000000 +0000" stop="20250102003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
@@ -30825,6 +30837,18 @@
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31009,6 +31033,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113160000 +0000" stop="20250113220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250114040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114040000 +0000" stop="20250114100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Premier 4.starhub">
