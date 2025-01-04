@@ -54,7 +54,7 @@
     <programme start="20250104143000 +0000" stop="20250104160000 +0000" channel="SCTV.vidio">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20250104160000 +0000" stop="20250104173000 +0000" channel="SCTV.vidio">
+    <programme start="20250104160000 +0000" stop="20250104170900 +0000" channel="SCTV.vidio">
         <title>FTV Primetime: Yang Orange Jangan Sampai Lolos</title>
     </programme>
     <programme start="20250103153000 +0000" stop="20250103180000 +0000" channel="Indosiar.vidio">
