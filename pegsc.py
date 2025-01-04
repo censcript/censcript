@@ -37,5 +37,5 @@ urls = [
     "https://manusiabiasa.serv00.net/cen/epg/vision.php",
 ]
 
-# Memanggil fungsi untuk mendownload semua EPG
+# Memanggil fungsi untuk mendownload semua EPGs
 download_epg(urls)
