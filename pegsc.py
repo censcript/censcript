@@ -19,22 +19,22 @@ def download_epg(urls):
 
 # Daftar URL EPG
 urls = [
-    "https://astvstreamingpro.my.id/epg/cubmu.php",
-    "https://astvstreamingpro.my.id/epg/firstmedia.php",
-    "https://astvstreamingpro.my.id/epg/starhub.php",
-    "https://astvstreamingpro.my.id/epg/mewatch.php",
+    "https://manusiabiasa.serv00.net/cen/epg/cubmu.php",
+    "https://manusiabiasa.serv00.net/cen/epg/firstmedia.php",
+    "https://manusiabiasa.serv00.net/cen/epg/starhub.php",
+    "https://manusiabiasa.serv00.net/cen/epg/mewatch.php",
     "https://manusiabiasa.serv00.net/cen/epg/vid.php",
     "https://astvstreamingpro.my.id/epg/optus.php",
-    "https://astvstreamingpro.my.id/epg/astro.php",
-    "https://astvstreamingpro.my.id/epg/antik.php",
+    "https://manusiabiasa.serv00.net/cen/epg/astro.php",
+    "https://manusiabiasa.serv00.net/cen/epg/antik.php",
     "https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     "https://www.bevy.be/bevyfiles/germanypremium3.xml",
     "https://www.bevy.be/bevyfiles/unitedstates1.xml",
     "https://www.bevy.be/bevyfiles/italy1.xml",
     "https://www.bevy.be/bevyfiles/italy2.xml",
     "https://www.bevy.be/bevyfiles/portugal2.xml",
-    "https://astvstreamingpro.my.id/epg/alkass.php",
-    "https://astvstreamingpro.my.id/epg/vision.php",
+    "https://manusiabiasa.serv00.net/cen/epg/alkass.php",
+    "https://manusiabiasa.serv00.net/cen/epg/vision.php",
 ]
 
 # Memanggil fungsi untuk mendownload semua EPG
