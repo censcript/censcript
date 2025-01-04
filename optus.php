@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250104113000 +0000" stop="20250104145000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Tottenham Hotspur v Newcastle United</title>
-    </programme>
     <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 6.optus">
         <title>Premier League - Southampton v Brentford</title>
     </programme>
