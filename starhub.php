@@ -10744,13 +10744,13 @@
         <title>Company - Play-Gain-Bargain</title>
     </programme>
     <programme start="20250105070000 +0000" stop="20250105083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kallaka Povathu Yaaru S10</title>
+        <title>Kallaka Povathu Yaaru - S10</title>
     </programme>
     <programme start="20250105083000 +0000" stop="20250105100000 +0000" channel="Vijay TV HD.starhub">
         <title>Heartbeat S01</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Star Talk With Vinay - South Meets North S02</title>
+        <title>Star Talk With Vinay (South Meets North) - S02</title>
     </programme>
     <programme start="20250105103000 +0000" stop="20250105120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
@@ -10774,7 +10774,7 @@
         <title>Company - Play-Gain-Bargain</title>
     </programme>
     <programme start="20250105200000 +0000" stop="20250105213000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kallaka Povathu Yaaru S10</title>
+        <title>Kallaka Povathu Yaaru - S10</title>
     </programme>
     <programme start="20250105213000 +0000" stop="20250105233000 +0000" channel="Vijay TV HD.starhub">
         <title>Heartbeat S01</title>
@@ -10789,7 +10789,7 @@
         <title>Bigg Boss Tamil S08</title>
     </programme>
     <programme start="20250106040000 +0000" stop="20250106053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kallaka Povathu Yaaru S10</title>
+        <title>Kallaka Povathu Yaaru - S10</title>
     </programme>
     <programme start="20250106053000 +0000" stop="20250106060000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
