@@ -5154,10 +5154,10 @@
     <programme start="20250104133000 +0000" stop="20250104163000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
-    <programme start="20250104163000 +0000" stop="20250104190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250104163000 +0000" stop="20250104193000 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
-    <programme start="20250104190000 +0000" stop="20250104220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250104193000 +0000" stop="20250104220000 +0000" channel="Asianet Movies.starhub">
         <title>Colours</title>
     </programme>
     <programme start="20250104220000 +0000" stop="20250105003000 +0000" channel="Asianet Movies.starhub">
@@ -12973,16 +12973,16 @@
         <title>ATP Doco Shorts (CC): Times Rafael Nadal Refused To Lose</title>
     </programme>
     <programme start="20250104103000 +0000" stop="20250104123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane SF 2</title>
+        <title>ATP Tour 250 2025: Brisbane SF 2 Opelka v Mpetshi Perricard</title>
     </programme>
     <programme start="20250104123000 +0000" stop="20250104140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong SF 1</title>
+        <title>ATP Tour 250 2025: Hong Kong SF 1 Munar v Muller</title>
     </programme>
     <programme start="20250104140000 +0000" stop="20250104153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane SF 1</title>
+        <title>ATP Tour 250 2025: Brisbane SF 1 Dimitrov v Lehecka</title>
     </programme>
     <programme start="20250104153000 +0000" stop="20250104170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong SF 2</title>
+        <title>ATP Tour 250 2025: Brisbane SF 2 Opelka v Mpetshi Perricard</title>
     </programme>
     <programme start="20250104170000 +0000" stop="20250104183000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Metz Day 4 Ruud v Bonzi</title>
@@ -12994,10 +12994,10 @@
         <title>ATP Tour 250 2024: Metz QF 1 Norrie v Bergs</title>
     </programme>
     <programme start="20250104213000 +0000" stop="20250104230000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane SF 1</title>
+        <title>ATP Tour 250 2025: Brisbane SF 1 Dimitrov v Lehecka</title>
     </programme>
     <programme start="20250104230000 +0000" stop="20250105003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane SF 2</title>
+        <title>ATP Tour 250 2025: Brisbane SF 2 Opelka v Mpetshi Perricard</title>
     </programme>
     <programme start="20250105003000 +0000" stop="20250105020000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Hong Kong SF 1</title>
