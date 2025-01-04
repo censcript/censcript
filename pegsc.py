@@ -23,7 +23,7 @@ urls = [
     "https://astvstreamingpro.my.id/epg/firstmedia.php",
     "https://astvstreamingpro.my.id/epg/starhub.php",
     "https://astvstreamingpro.my.id/epg/mewatch.php",
-    "https://astvstreamingpro.my.id/epg/vid.php",
+    "https://manusiabiasa.serv00.net/cen/epg/vid.php",
     "https://astvstreamingpro.my.id/epg/optus.php",
     "https://astvstreamingpro.my.id/epg/astro.php",
     "https://astvstreamingpro.my.id/epg/antik.php",
