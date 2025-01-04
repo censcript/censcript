@@ -22222,7 +22222,7 @@
         <title>Movie - Anegan</title>
     </programme>
     <programme start="20250103170000 +0000" stop="20250103200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Naan Avan Illai</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250103200000 +0000" stop="20250103223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Karisakkaattu Poove</title>
