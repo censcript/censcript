@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Southampton v Brentford</title>
-    </programme>
-    <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Manchester City v West Ham United</title>
-    </programme>
-    <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Crystal Palace v Chelsea</title>
-    </programme>
-    <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Aston Villa v Leicester City</title>
-    </programme>
-    <programme start="20250104145000 +0000" stop="20250104171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Bournemouth v Everton</title>
-    </programme>
     <programme start="20250104145000 +0000" stop="20250104172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
