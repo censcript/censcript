@@ -10639,7 +10639,7 @@
         <title>Bigg Boss Tamil S08</title>
     </programme>
     <programme start="20250104043000 +0000" stop="20250104060000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kallaka Povathu Yaaru S10</title>
+        <title>Kallaka Povathu Yaaru - S10</title>
     </programme>
     <programme start="20250104060000 +0000" stop="20250104063000 +0000" channel="Vijay TV HD.starhub">
         <title>Baagyalatchumi Illatharisiyin Kadhai S01</title>
@@ -10666,7 +10666,7 @@
         <title>Pani Vizhum Malarvanam</title>
     </programme>
     <programme start="20250104100000 +0000" stop="20250104103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Star Talk With Vinay - South Meets North S02</title>
+        <title>Star Talk With Vinay (South Meets North) - S02</title>
     </programme>
     <programme start="20250104103000 +0000" stop="20250104120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
@@ -10720,7 +10720,7 @@
         <title>Pani Vizhum Malarvanam</title>
     </programme>
     <programme start="20250104230000 +0000" stop="20250104233000 +0000" channel="Vijay TV HD.starhub">
-        <title>Star Talk With Vinay - South Meets North S02</title>
+        <title>Star Talk With Vinay (South Meets North) - S02</title>
     </programme>
     <programme start="20250104233000 +0000" stop="20250105010000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
@@ -13500,102 +13500,6 @@
     <programme start="20250105060000 +0000" stop="20250105063000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
     </programme>
-    <programme start="20250101230000 +0000" stop="20250102010000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News Mornings (2025)</title>
-    </programme>
-    <programme start="20250102010000 +0000" stop="20250102020000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News At Noon (2025)</title>
-    </programme>
-    <programme start="20250102020000 +0000" stop="20250102023000 +0000" channel="ABC Australia HD.starhub">
-        <title>Quickfire Dinners</title>
-    </programme>
-    <programme start="20250102023000 +0000" stop="20250102032500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102032500 +0000" stop="20250102042500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102042500 +0000" stop="20250102043000 +0000" channel="ABC Australia HD.starhub">
-        <title>Cultural Knowledge is Empowering</title>
-    </programme>
-    <programme start="20250102043000 +0000" stop="20250102050000 +0000" channel="ABC Australia HD.starhub">
-        <title>Sharon Lewin</title>
-    </programme>
-    <programme start="20250102050000 +0000" stop="20250102070000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News Summer (2025)</title>
-    </programme>
-    <programme start="20250102070000 +0000" stop="20250102072500 +0000" channel="ABC Australia HD.starhub">
-        <title>Quickfire Dinners</title>
-    </programme>
-    <programme start="20250102072500 +0000" stop="20250102073500 +0000" channel="ABC Australia HD.starhub">
-        <title>Kurdish</title>
-    </programme>
-    <programme start="20250102073500 +0000" stop="20250102080000 +0000" channel="ABC Australia HD.starhub">
-        <title>The Chef&#039;s Garden S1</title>
-    </programme>
-    <programme start="20250102080000 +0000" stop="20250102083000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC National News (2025)</title>
-    </programme>
-    <programme start="20250102083000 +0000" stop="20250102090000 +0000" channel="ABC Australia HD.starhub">
-        <title>Musical Road Trip through Western Queensland</title>
-    </programme>
-    <programme start="20250102090000 +0000" stop="20250102100000 +0000" channel="ABC Australia HD.starhub">
-        <title>Soil and Toil</title>
-    </programme>
-    <programme start="20250102100000 +0000" stop="20250102110000 +0000" channel="ABC Australia HD.starhub">
-        <title>Tracy: A Force of Nature</title>
-    </programme>
-    <programme start="20250102110000 +0000" stop="20250102115500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102115500 +0000" stop="20250102125000 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102125000 +0000" stop="20250102130000 +0000" channel="ABC Australia HD.starhub">
-        <title>Wombats</title>
-    </programme>
-    <programme start="20250102130000 +0000" stop="20250102133000 +0000" channel="ABC Australia HD.starhub">
-        <title>Indonesia Down Under</title>
-    </programme>
-    <programme start="20250102133000 +0000" stop="20250102140000 +0000" channel="ABC Australia HD.starhub">
-        <title>Quickfire Dinners</title>
-    </programme>
-    <programme start="20250102140000 +0000" stop="20250102141500 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC Late News (2025)</title>
-    </programme>
-    <programme start="20250102141500 +0000" stop="20250102143000 +0000" channel="ABC Australia HD.starhub">
-        <title>Putin and Georgia</title>
-    </programme>
-    <programme start="20250102143000 +0000" stop="20250102153000 +0000" channel="ABC Australia HD.starhub">
-        <title>Soil and Toil</title>
-    </programme>
-    <programme start="20250102153000 +0000" stop="20250102162500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102162500 +0000" stop="20250102172500 +0000" channel="ABC Australia HD.starhub">
-        <title>Lost For Words S1</title>
-    </programme>
-    <programme start="20250102172500 +0000" stop="20250102173000 +0000" channel="ABC Australia HD.starhub">
-        <title>My Garden Path - David and Michelle Rauenbusch</title>
-    </programme>
-    <programme start="20250102173000 +0000" stop="20250102180000 +0000" channel="ABC Australia HD.starhub">
-        <title>Musical Road Trip through Western Queensland</title>
-    </programme>
-    <programme start="20250102180000 +0000" stop="20250102183000 +0000" channel="ABC Australia HD.starhub">
-        <title>Quickfire Dinners</title>
-    </programme>
-    <programme start="20250102183000 +0000" stop="20250102190000 +0000" channel="ABC Australia HD.starhub">
-        <title>Indonesia Down Under</title>
-    </programme>
-    <programme start="20250102190000 +0000" stop="20250102220000 +0000" channel="ABC Australia HD.starhub">
-        <title>Gardening Australia S35</title>
-    </programme>
-    <programme start="20250102220000 +0000" stop="20250102223000 +0000" channel="ABC Australia HD.starhub">
-        <title>News Breakfast: Late (2025)</title>
-    </programme>
-    <programme start="20250102223000 +0000" stop="20250102230000 +0000" channel="ABC Australia HD.starhub">
-        <title>Leangle and Parrying Shield</title>
-    </programme>
     <programme start="20250102230000 +0000" stop="20250103010000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News Mornings (2025)</title>
     </programme>
@@ -13799,6 +13703,102 @@
     </programme>
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="ABC Australia HD.starhub">
         <title>Aussie Bull Catchers S1</title>
+    </programme>
+    <programme start="20250105010000 +0000" stop="20250105013000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News At Noon (2025)</title>
+    </programme>
+    <programme start="20250105013000 +0000" stop="20250105020000 +0000" channel="ABC Australia HD.starhub">
+        <title>Home Hill, QLD</title>
+    </programme>
+    <programme start="20250105020000 +0000" stop="20250105022500 +0000" channel="ABC Australia HD.starhub">
+        <title>The Chef&#039;s Garden S1</title>
+    </programme>
+    <programme start="20250105022500 +0000" stop="20250105030500 +0000" channel="ABC Australia HD.starhub">
+        <title>Outback Musical</title>
+    </programme>
+    <programme start="20250105030500 +0000" stop="20250105040000 +0000" channel="ABC Australia HD.starhub">
+        <title>Australia at Play</title>
+    </programme>
+    <programme start="20250105040000 +0000" stop="20250105050000 +0000" channel="ABC Australia HD.starhub">
+        <title>Kevin McCloud Special</title>
+    </programme>
+    <programme start="20250105050000 +0000" stop="20250105053000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News (2025)</title>
+    </programme>
+    <programme start="20250105053000 +0000" stop="20250105060000 +0000" channel="ABC Australia HD.starhub">
+        <title>Landline (2024)</title>
+    </programme>
+    <programme start="20250105060000 +0000" stop="20250105063000 +0000" channel="ABC Australia HD.starhub">
+        <title>Rodney Gibbins</title>
+    </programme>
+    <programme start="20250105063000 +0000" stop="20250105070000 +0000" channel="ABC Australia HD.starhub">
+        <title>Five Impressively Dangerous Wild Land Animals</title>
+    </programme>
+    <programme start="20250105070000 +0000" stop="20250105072500 +0000" channel="ABC Australia HD.starhub">
+        <title>The Chef&#039;s Garden S1</title>
+    </programme>
+    <programme start="20250105072500 +0000" stop="20250105073000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Cook Up With Adam Liaw Bitesize S1</title>
+    </programme>
+    <programme start="20250105073000 +0000" stop="20250105080000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Rewilders with Gina Chick</title>
+    </programme>
+    <programme start="20250105080000 +0000" stop="20250105083000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC National News (2025)</title>
+    </programme>
+    <programme start="20250105083000 +0000" stop="20250105090000 +0000" channel="ABC Australia HD.starhub">
+        <title>Aussie Bull Catchers S1</title>
+    </programme>
+    <programme start="20250105090000 +0000" stop="20250105095500 +0000" channel="ABC Australia HD.starhub">
+        <title>Australia at Play</title>
+    </programme>
+    <programme start="20250105095500 +0000" stop="20250105105500 +0000" channel="ABC Australia HD.starhub">
+        <title>Kevin McCloud Special</title>
+    </programme>
+    <programme start="20250105105500 +0000" stop="20250105110000 +0000" channel="ABC Australia HD.starhub">
+        <title>Almah</title>
+    </programme>
+    <programme start="20250105110000 +0000" stop="20250105113000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC Late News Weekend (2025)</title>
+    </programme>
+    <programme start="20250105113000 +0000" stop="20250105120000 +0000" channel="ABC Australia HD.starhub">
+        <title>Five Impressively Dangerous Wild Land Animals</title>
+    </programme>
+    <programme start="20250105120000 +0000" stop="20250105123000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC Late News (2025)</title>
+    </programme>
+    <programme start="20250105123000 +0000" stop="20250105130000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Rewilders with Gina Chick</title>
+    </programme>
+    <programme start="20250105130000 +0000" stop="20250105131500 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News Overnight (2025)</title>
+    </programme>
+    <programme start="20250105131500 +0000" stop="20250105133000 +0000" channel="ABC Australia HD.starhub">
+        <title>Malla Rising</title>
+    </programme>
+    <programme start="20250105133000 +0000" stop="20250105140000 +0000" channel="ABC Australia HD.starhub">
+        <title>Aussie Bull Catchers S1</title>
+    </programme>
+    <programme start="20250105140000 +0000" stop="20250105145000 +0000" channel="ABC Australia HD.starhub">
+        <title>Australia at Play</title>
+    </programme>
+    <programme start="20250105145000 +0000" stop="20250105155500 +0000" channel="ABC Australia HD.starhub">
+        <title>Kevin McCloud Special</title>
+    </programme>
+    <programme start="20250105155500 +0000" stop="20250105160000 +0000" channel="ABC Australia HD.starhub">
+        <title>Kalana</title>
+    </programme>
+    <programme start="20250105160000 +0000" stop="20250105162500 +0000" channel="ABC Australia HD.starhub">
+        <title>The Chef&#039;s Garden S1</title>
+    </programme>
+    <programme start="20250105162500 +0000" stop="20250105163000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Cook Up With Adam Liaw Bitesize S1</title>
+    </programme>
+    <programme start="20250105163000 +0000" stop="20250105170000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Rewilders with Gina Chick</title>
+    </programme>
+    <programme start="20250105170000 +0000" stop="20250105173000 +0000" channel="ABC Australia HD.starhub">
+        <title>Landline (2024)</title>
     </programme>
     <programme start="20250103000000 +0000" stop="20250103002800 +0000" channel="SONY MAX.starhub">
         <title>The Making Of Pk</title>
@@ -17700,96 +17700,6 @@
     <programme start="20250105074500 +0000" stop="20250105083000 +0000" channel="CCTV-4.starhub">
         <title>Hai Zhi Yao</title>
     </programme>
-    <programme start="20250101233000 +0000" stop="20250102020000 +0000" channel="Asianet.starhub">
-        <title>Aanavalmothiram</title>
-    </programme>
-    <programme start="20250102020000 +0000" stop="20250102023000 +0000" channel="Asianet.starhub">
-        <title>Geetha Govindam</title>
-    </programme>
-    <programme start="20250102023000 +0000" stop="20250102030000 +0000" channel="Asianet.starhub">
-        <title>Pavithram</title>
-    </programme>
-    <programme start="20250102030000 +0000" stop="20250102033000 +0000" channel="Asianet.starhub">
-        <title>Snehakkoottu</title>
-    </programme>
-    <programme start="20250102033000 +0000" stop="20250102040000 +0000" channel="Asianet.starhub">
-        <title>Patharamattu</title>
-    </programme>
-    <programme start="20250102040000 +0000" stop="20250102043000 +0000" channel="Asianet.starhub">
-        <title>Ishttam Mathram</title>
-    </programme>
-    <programme start="20250102043000 +0000" stop="20250102050000 +0000" channel="Asianet.starhub">
-        <title>Chempaneerpovu</title>
-    </programme>
-    <programme start="20250102050000 +0000" stop="20250102073000 +0000" channel="Asianet.starhub">
-        <title>Twenty one GMS</title>
-    </programme>
-    <programme start="20250102073000 +0000" stop="20250102080000 +0000" channel="Asianet.starhub">
-        <title>Mounaragam</title>
-    </programme>
-    <programme start="20250102080000 +0000" stop="20250102083000 +0000" channel="Asianet.starhub">
-        <title>Santhwanam-2</title>
-    </programme>
-    <programme start="20250102083000 +0000" stop="20250102090000 +0000" channel="Asianet.starhub">
-        <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
-    </programme>
-    <programme start="20250102090000 +0000" stop="20250102093000 +0000" channel="Asianet.starhub">
-        <title>Amma Manassu</title>
-    </programme>
-    <programme start="20250102093000 +0000" stop="20250102100000 +0000" channel="Asianet.starhub">
-        <title>Etho Janma Kalpanayil</title>
-    </programme>
-    <programme start="20250102100000 +0000" stop="20250102130000 +0000" channel="Asianet.starhub">
-        <title>Seetharamam (Mal dub)</title>
-    </programme>
-    <programme start="20250102130000 +0000" stop="20250102133000 +0000" channel="Asianet.starhub">
-        <title>Engile Ennodu Para : Short Version</title>
-    </programme>
-    <programme start="20250102133000 +0000" stop="20250102140000 +0000" channel="Asianet.starhub">
-        <title>Chandrikayil Aliyunnu Chandrakantham</title>
-    </programme>
-    <programme start="20250102140000 +0000" stop="20250102143000 +0000" channel="Asianet.starhub">
-        <title>Malikapuram</title>
-    </programme>
-    <programme start="20250102143000 +0000" stop="20250102150000 +0000" channel="Asianet.starhub">
-        <title>Snehakkoottu</title>
-    </programme>
-    <programme start="20250102150000 +0000" stop="20250102153000 +0000" channel="Asianet.starhub">
-        <title>Santhwanam-2</title>
-    </programme>
-    <programme start="20250102153000 +0000" stop="20250102160000 +0000" channel="Asianet.starhub">
-        <title>Chempaneerpovu</title>
-    </programme>
-    <programme start="20250102160000 +0000" stop="20250102163000 +0000" channel="Asianet.starhub">
-        <title>Ishttam Mathram</title>
-    </programme>
-    <programme start="20250102163000 +0000" stop="20250102170000 +0000" channel="Asianet.starhub">
-        <title>Patharamattu</title>
-    </programme>
-    <programme start="20250102170000 +0000" stop="20250102173000 +0000" channel="Asianet.starhub">
-        <title>Pavithram</title>
-    </programme>
-    <programme start="20250102173000 +0000" stop="20250102180000 +0000" channel="Asianet.starhub">
-        <title>Mounaragam</title>
-    </programme>
-    <programme start="20250102180000 +0000" stop="20250102183000 +0000" channel="Asianet.starhub">
-        <title>Geetha Govindam</title>
-    </programme>
-    <programme start="20250102183000 +0000" stop="20250102190000 +0000" channel="Asianet.starhub">
-        <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
-    </programme>
-    <programme start="20250102190000 +0000" stop="20250102193000 +0000" channel="Asianet.starhub">
-        <title>Star Talk with Vinay -South Meets North -Season 2</title>
-    </programme>
-    <programme start="20250102193000 +0000" stop="20250102223000 +0000" channel="Asianet.starhub">
-        <title>Bheeshmaparvam</title>
-    </programme>
-    <programme start="20250102223000 +0000" stop="20250102230000 +0000" channel="Asianet.starhub">
-        <title>Chirikkum Thalikka</title>
-    </programme>
-    <programme start="20250102230000 +0000" stop="20250102233000 +0000" channel="Asianet.starhub">
-        <title>Chirikkum Thalikka</title>
-    </programme>
     <programme start="20250102233000 +0000" stop="20250103020000 +0000" channel="Asianet.starhub">
         <title>Aamayum Muyalum</title>
     </programme>
@@ -17998,6 +17908,96 @@
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
     <programme start="20250105080000 +0000" stop="20250105083000 +0000" channel="Asianet.starhub">
+        <title>Santhwanam-2</title>
+    </programme>
+    <programme start="20250105083000 +0000" stop="20250105090000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105090000 +0000" stop="20250105093000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105093000 +0000" stop="20250105100000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105100000 +0000" stop="20250105130000 +0000" channel="Asianet.starhub">
+        <title>Kannur Squad</title>
+    </programme>
+    <programme start="20250105130000 +0000" stop="20250105133000 +0000" channel="Asianet.starhub">
+        <title>Star Talk with Vinay -South Meets North -Season 2</title>
+    </programme>
+    <programme start="20250105133000 +0000" stop="20250105140000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105140000 +0000" stop="20250105143000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105143000 +0000" stop="20250105150000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105150000 +0000" stop="20250105153000 +0000" channel="Asianet.starhub">
+        <title>Santhwanam-2</title>
+    </programme>
+    <programme start="20250105153000 +0000" stop="20250105160000 +0000" channel="Asianet.starhub">
+        <title>Chempaneerpovu</title>
+    </programme>
+    <programme start="20250105160000 +0000" stop="20250105163000 +0000" channel="Asianet.starhub">
+        <title>Ishttam Mathram</title>
+    </programme>
+    <programme start="20250105163000 +0000" stop="20250105170000 +0000" channel="Asianet.starhub">
+        <title>Patharamattu</title>
+    </programme>
+    <programme start="20250105170000 +0000" stop="20250105173000 +0000" channel="Asianet.starhub">
+        <title>Star Talk with Vinay -South Meets North -Season 2</title>
+    </programme>
+    <programme start="20250105173000 +0000" stop="20250105180000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105180000 +0000" stop="20250105183000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105183000 +0000" stop="20250105190000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250105190000 +0000" stop="20250105220000 +0000" channel="Asianet.starhub">
+        <title>Oru Thekkan thallu kesu</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250105223000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para : Short Version</title>
+    </programme>
+    <programme start="20250105223000 +0000" stop="20250105230000 +0000" channel="Asianet.starhub">
+        <title>Chirikkum Thalikka</title>
+    </programme>
+    <programme start="20250105230000 +0000" stop="20250105233000 +0000" channel="Asianet.starhub">
+        <title>Chirikkum Thalikka</title>
+    </programme>
+    <programme start="20250105233000 +0000" stop="20250106020000 +0000" channel="Asianet.starhub">
+        <title>3 Dots</title>
+    </programme>
+    <programme start="20250106020000 +0000" stop="20250106023000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250106023000 +0000" stop="20250106030000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250106030000 +0000" stop="20250106033000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para</title>
+    </programme>
+    <programme start="20250106033000 +0000" stop="20250106040000 +0000" channel="Asianet.starhub">
+        <title>Patharamattu</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106043000 +0000" channel="Asianet.starhub">
+        <title>Ishttam Mathram</title>
+    </programme>
+    <programme start="20250106043000 +0000" stop="20250106050000 +0000" channel="Asianet.starhub">
+        <title>Chempaneerpovu</title>
+    </programme>
+    <programme start="20250106050000 +0000" stop="20250106073000 +0000" channel="Asianet.starhub">
+        <title>Immanuvel</title>
+    </programme>
+    <programme start="20250106073000 +0000" stop="20250106080000 +0000" channel="Asianet.starhub">
+        <title>Engile Ennodu Para : Short Version</title>
+    </programme>
+    <programme start="20250106080000 +0000" stop="20250106083000 +0000" channel="Asianet.starhub">
         <title>Santhwanam-2</title>
     </programme>
     <programme start="20250102220000 +0000" stop="20250103003000 +0000" channel="Vannathirai.starhub">
@@ -31389,18 +31389,6 @@
     <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250101220000 +0000" stop="20250102040000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250102040000 +0000" stop="20250102100000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250102100000 +0000" stop="20250102160000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250102160000 +0000" stop="20250102220000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31687,6 +31675,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125145000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125145000 +0000" stop="20250125170000 +0000" channel="Hub Premier 3.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250125170000 +0000" stop="20250125220000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250102220000 +0000" stop="20250103040000 +0000" channel="Hub Premier 8.starhub">
