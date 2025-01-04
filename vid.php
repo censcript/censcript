@@ -1686,10 +1686,10 @@
     <programme start="20250104134500 +0000" stop="20250104160000 +0000" channel="CTV 1.vidio">
         <title>Venezia vs. Empoli : Italian Serie A Soccer</title>
     </programme>
-    <programme start="20250104160000 +0000" stop="20250104163000 +0000" channel="CTV 1.vidio">
+    <programme start="20250104160000 +0000" stop="20250104165800 +0000" channel="CTV 1.vidio">
         <title>Serie A Magazine</title>
     </programme>
-    <programme start="20250104163000 +0000" stop="20250104170000 +0000" channel="CTV 1.vidio">
+    <programme start="20250104165800 +0000" stop="20250104190700 +0000" channel="CTV 1.vidio">
         <title>Fiorentina vs. Napoli : Italian Serie A Soccer</title>
     </programme>
     <programme start="20250103143000 +0000" stop="20250103170000 +0000" channel="CTV 5.vidio">
