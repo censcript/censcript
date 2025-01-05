@@ -213,8 +213,20 @@
     <programme start="20250118113000 +0000" stop="20250118145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Newcastle United v Bournemouth</title>
     </programme>
+    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - West Ham United v Crystal Palace</title>
+    </programme>
+    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Leicester City v Fulham</title>
+    </programme>
+    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Brentford v Liverpool</title>
+    </programme>
     <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250118172000 +0000" stop="20250118194000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Arsenal v Aston Villa</title>
     </programme>
     <programme start="20250118172500 +0000" stop="20250118194000 +0000" channel="Optus Sport 202.optus">
         <title>Women&#039;s Super League - Everton v Aston Villa</title>
@@ -228,17 +240,32 @@
     <programme start="20250119130000 +0000" stop="20250119162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
+    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Nottingham Forest v Southampton</title>
+    </programme>
+    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Manchester United v Brighton</title>
+    </programme>
+    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Everton v Tottenham Hotspur</title>
+    </programme>
     <programme start="20250119135500 +0000" stop="20250119161000 +0000" channel="Optus Sport 204.optus">
         <title>Women&#039;s Super League - Arsenal v Crystal Palace</title>
     </programme>
     <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
         <title>Women&#039;s Super League - West Ham United v Chelsea</title>
     </programme>
+    <programme start="20250119162000 +0000" stop="20250119184000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Ipswich v Manchester City</title>
+    </programme>
     <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Manchester United</title>
     </programme>
     <programme start="20250119203000 +0000" stop="20250119220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250120193000 +0000" stop="20250120221000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Chelsea v Wolverhampton Wanderers</title>
     </programme>
     <programme start="20250125115000 +0000" stop="20250125141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Aston Villa v Manchester City</title>
