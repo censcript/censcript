@@ -15051,34 +15051,34 @@
     <programme start="20250105080000 +0000" stop="20250105093000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105093000 +0000" stop="20250105110000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105093000 +0000" stop="20250105110900 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250105110000 +0000" stop="20250105114500 +0000" channel="ONE HD.starhub">
+    <programme start="20250105110900 +0000" stop="20250105114900 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250105114500 +0000" stop="20250105123000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105114900 +0000" stop="20250105123000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250105123000 +0000" stop="20250105140500 +0000" channel="ONE HD.starhub">
         <title>One Ordinary Day</title>
     </programme>
-    <programme start="20250105140500 +0000" stop="20250105154000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105140500 +0000" stop="20250105154400 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250105154000 +0000" stop="20250105165500 +0000" channel="ONE HD.starhub">
+    <programme start="20250105154400 +0000" stop="20250105165900 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105165500 +0000" stop="20250105181000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105165900 +0000" stop="20250105181400 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105181000 +0000" stop="20250105192500 +0000" channel="ONE HD.starhub">
+    <programme start="20250105181400 +0000" stop="20250105192900 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105192500 +0000" stop="20250105204000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105192900 +0000" stop="20250105204400 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105204000 +0000" stop="20250105220000 +0000" channel="ONE HD.starhub">
+    <programme start="20250105204400 +0000" stop="20250105220000 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
     <programme start="20250105220000 +0000" stop="20250105234000 +0000" channel="ONE HD.starhub">
@@ -27930,34 +27930,34 @@
     <programme start="20250105080000 +0000" stop="20250105093000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105093000 +0000" stop="20250105110000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105093000 +0000" stop="20250105110900 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250105110000 +0000" stop="20250105114500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105110900 +0000" stop="20250105114900 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250105114500 +0000" stop="20250105123000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105114900 +0000" stop="20250105123000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250105123000 +0000" stop="20250105140500 +0000" channel="ONE (Malay).starhub">
         <title>One Ordinary Day</title>
     </programme>
-    <programme start="20250105140500 +0000" stop="20250105154000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105140500 +0000" stop="20250105154400 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250105154000 +0000" stop="20250105165500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105154400 +0000" stop="20250105165900 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105165500 +0000" stop="20250105181000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105165900 +0000" stop="20250105181400 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105181000 +0000" stop="20250105192500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105181400 +0000" stop="20250105192900 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105192500 +0000" stop="20250105204000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105192900 +0000" stop="20250105204400 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250105204000 +0000" stop="20250105220000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250105204400 +0000" stop="20250105220000 +0000" channel="ONE (Malay).starhub">
         <title>Survival King: Tribal War</title>
     </programme>
     <programme start="20250105220000 +0000" stop="20250105234000 +0000" channel="ONE (Malay).starhub">
