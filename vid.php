@@ -399,7 +399,7 @@
     <programme start="20250105133000 +0000" stop="20250105153000 +0000" channel="ANTV.vidio">
         <title>Pancasona</title>
     </programme>
-    <programme start="20250105153000 +0000" stop="20250105180000 +0000" channel="ANTV.vidio">
+    <programme start="20250105153000 +0000" stop="20250105173000 +0000" channel="ANTV.vidio">
         <title>Cewek Jagoan Beraksi Kembali</title>
     </programme>
     <programme start="20250104163000 +0000" stop="20250104173000 +0000" channel="Metro TV.vidio">
@@ -964,7 +964,7 @@
         <title>My Lecturer My Husband</title>
     </programme>
     <programme start="20250105150000 +0000" stop="20250105170000 +0000" channel="NET TV.vidio">
-        <title>Athirah</title>
+        <title>NET Sinema : Athirah</title>
     </programme>
     <programme start="20250104163000 +0000" stop="20250104230000 +0000" channel="Jaktv.vidio">
         <title>JakTV</title>
