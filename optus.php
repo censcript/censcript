@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250105130000 +0000" stop="20250105162000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Fulham v Ipswich</title>
-    </programme>
     <programme start="20250105162000 +0000" stop="20250105193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Manchester United</title>
     </programme>
