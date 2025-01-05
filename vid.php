@@ -91,7 +91,7 @@
         <title>Magic 5</title>
     </programme>
     <programme start="20250105130000 +0000" stop="20250105160000 +0000" channel="Indosiar.vidio">
-        <title>Blockbuster Film Asia: Desperado</title>
+        <title>Blockbuster Film Asia: Blade Of Fury</title>
     </programme>
     <programme start="20250105160000 +0000" stop="20250105180000 +0000" channel="Indosiar.vidio">
         <title>Mega Film Asia: Eighteen Arhats Of Shaolin Temple</title>
@@ -1617,10 +1617,10 @@
     <programme start="20250105010000 +0000" stop="20250105030000 +0000" channel="CTV 1.vidio">
         <title>Fiorentina vs. Napoli : Italian Serie A Soccer</title>
     </programme>
-    <programme start="20250105030000 +0000" stop="20250105050000 +0000" channel="CTV 1.vidio">
+    <programme start="20250105030000 +0000" stop="20250105052000 +0000" channel="CTV 1.vidio">
         <title>Hellas Verona vs. Udinese : Italian Serie A Soccer</title>
     </programme>
-    <programme start="20250105050000 +0000" stop="20250105053000 +0000" channel="CTV 1.vidio">
+    <programme start="20250105052000 +0000" stop="20250105053000 +0000" channel="CTV 1.vidio">
         <title>Mavericks</title>
     </programme>
     <programme start="20250105053000 +0000" stop="20250105060000 +0000" channel="CTV 1.vidio">
@@ -1888,10 +1888,10 @@
         <title>Semifinals : 2025 Brisbane International Tennis</title>
     </programme>
     <programme start="20250105053000 +0000" stop="20250105070000 +0000" channel="Bein 2.vidio">
-        <title>Semifinals : 2025 Brisbane International Tennis</title>
+        <title>ATP 250: Semifinal 2 : 2025 Bank of Hong Kong Tennis Open</title>
     </programme>
     <programme start="20250105070000 +0000" stop="20250105083000 +0000" channel="Bein 2.vidio">
-        <title>ATP 250: Semifinal 2 : 2025 Bank of Hong Kong Tennis Open</title>
+        <title>Semifinals : 2025 Brisbane International Tennis</title>
     </programme>
     <programme start="20250105083000 +0000" stop="20250105103000 +0000" channel="Bein 2.vidio">
         <title>ATP 250: Brisbane International presented by Evie - Final</title>
