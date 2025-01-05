@@ -408,54 +408,9 @@
     <programme start="20250106153000 +0000" stop="20250105170000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Pacar Lama Bersemi Kembali</title>
     </programme>
-    <programme start="20250105181500 +0000" stop="20250105213000 +0000" channel="RCTI.cubmu">
-        <title>Mister Olga</title>
-    </programme>
-    <programme start="20250105213000 +0000" stop="20250105224500 +0000" channel="RCTI.cubmu">
-        <title>Seputar iNews Pagi</title>
-    </programme>
-    <programme start="20250105224500 +0000" stop="20250105233000 +0000" channel="RCTI.cubmu">
-        <title>Kiko</title>
-    </programme>
-    <programme start="20250105233000 +0000" stop="20250106003000 +0000" channel="RCTI.cubmu">
-        <title>Upin Ipin</title>
-    </programme>
-    <programme start="20250106003000 +0000" stop="20250106011500 +0000" channel="RCTI.cubmu">
-        <title>Jin &amp; Jun</title>
-    </programme>
-    <programme start="20250106011500 +0000" stop="20250106021500 +0000" channel="RCTI.cubmu">
-        <title>Untung Ada Rudy</title>
-    </programme>
-    <programme start="20250106021500 +0000" stop="20250106031500 +0000" channel="RCTI.cubmu">
-        <title>Go Spot</title>
-    </programme>
-    <programme start="20250106031500 +0000" stop="20250106041500 +0000" channel="RCTI.cubmu">
-        <title>Silet</title>
-    </programme>
-    <programme start="20250106041500 +0000" stop="20250106044500 +0000" channel="RCTI.cubmu">
-        <title>Seputar iNews Siang</title>
-    </programme>
-    <programme start="20250106044500 +0000" stop="20250106070000 +0000" channel="RCTI.cubmu">
-        <title>Si Doel Anak Sekolahan S6</title>
-    </programme>
-    <programme start="20250106070000 +0000" stop="20250106090000 +0000" channel="RCTI.cubmu">
-        <title>Kecil-Kecil Jadi Manten</title>
-    </programme>
-    <programme start="20250106090000 +0000" stop="20250106094500 +0000" channel="RCTI.cubmu">
-        <title>Candy Caddy</title>
-    </programme>
-    <programme start="20250106094500 +0000" stop="20250106111500 +0000" channel="RCTI.cubmu">
-        <title>Cinta Berakhir Bahagia</title>
-    </programme>
-    <programme start="20250106111500 +0000" stop="20250106130000 +0000" channel="RCTI.cubmu">
-        <title>Terbelenggu Rindu</title>
-    </programme>
-    <programme start="20250106130000 +0000" stop="20250106141500 +0000" channel="RCTI.cubmu">
-        <title>Mencintaimu Sekali Lagi</title>
-    </programme>
-    <programme start="20250106141500 +0000" stop="20250105171500 +0000" channel="RCTI.cubmu">
-        <title>Indonesian Idol 2024</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be51092e58f1 -->
     <programme start="20250105170000 +0000" stop="20250105183000 +0000" channel="tvOne.cubmu">
         <title>UFC Seru !!!</title>
     </programme>

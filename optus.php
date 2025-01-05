@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250105162000 +0000" stop="20250105193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Liverpool v Manchester United</title>
-    </programme>
     <programme start="20250105203000 +0000" stop="20250105220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -212,6 +209,9 @@
     </programme>
     <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250118113000 +0000" stop="20250118145000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Newcastle United v Bournemouth</title>
     </programme>
     <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
