@@ -598,7 +598,7 @@
         <title>Kompas Sepekan</title>
     </programme>
     <programme start="20250105110000 +0000" stop="20250105120000 +0000" channel="Kompas TV.vidio">
-        <title>60&#039; Spesial Report</title>
+        <title>60 Menit Special Report</title>
     </programme>
     <programme start="20250105120000 +0000" stop="20250105130000 +0000" channel="Kompas TV.vidio">
         <title>Sapa Indonesia Malam</title>
@@ -2668,7 +2668,7 @@
         <title>DW News</title>
     </programme>
     <programme start="20250105000200 +0000" stop="20250105003000 +0000" channel="DW English.vidio">
-        <title>DocFilm</title>
+        <title>Suddenly, I was Deaf</title>
     </programme>
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="DW English.vidio">
         <title>In Good Shape -- The Health Show</title>
@@ -2698,7 +2698,7 @@
         <title>Reporter</title>
     </programme>
     <programme start="20250105033000 +0000" stop="20250105040000 +0000" channel="DW English.vidio">
-        <title>DocFilm</title>
+        <title>Suddenly, I was Deaf</title>
     </programme>
     <programme start="20250105040000 +0000" stop="20250105041500 +0000" channel="DW English.vidio">
         <title>DW News</title>
@@ -2707,7 +2707,7 @@
         <title>Overcoming Challenges with Sports : Sports Life</title>
     </programme>
     <programme start="20250105043000 +0000" stop="20250105060000 +0000" channel="DW English.vidio">
-        <title>DocFilm</title>
+        <title>Empire of Silence</title>
     </programme>
     <programme start="20250105060000 +0000" stop="20250105061500 +0000" channel="DW English.vidio">
         <title>DW News</title>
@@ -2782,7 +2782,7 @@
         <title>Shift - Living in the Digital Age</title>
     </programme>
     <programme start="20250105143000 +0000" stop="20250105150000 +0000" channel="DW English.vidio">
-        <title>DocFilm</title>
+        <title>Suddenly, I was Deaf</title>
     </programme>
     <programme start="20250105150000 +0000" stop="20250105151500 +0000" channel="DW English.vidio">
         <title>DW News</title>
