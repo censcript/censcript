@@ -942,10 +942,10 @@
     <programme start="20250105160000 +0000" stop="20250106160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
     </programme>
-    <programme start="20250104160000 +0000" stop="20250105125000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 5th January, Sunday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Vietnam</title>
+    <programme start="20250104160000 +0000" stop="20250105123200 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th January, Sunday 8.32pm. ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Vietnam</title>
     </programme>
-    <programme start="20250105125000 +0000" stop="20250105150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250105123200 +0000" stop="20250105150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Mitsubishi Electric Cup™ 2024: Thailand vs Vietnam</title>
     </programme>
     <programme start="20250105150000 +0000" stop="20250105160000 +0000" channel="Live 5.mewatch">
