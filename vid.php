@@ -1794,11 +1794,8 @@
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="CTV 3.vidio">
         <title>NBA On Fire</title>
     </programme>
-    <programme start="20250105010000 +0000" stop="20250105033000 +0000" channel="CTV 3.vidio">
+    <programme start="20250105010000 +0000" stop="20250105040000 +0000" channel="CTV 3.vidio">
         <title>Denver Nuggets vs San Antonio Spurs - NBA</title>
-    </programme>
-    <programme start="20250105033000 +0000" stop="20250105040000 +0000" channel="CTV 3.vidio">
-        <title>Sports Woman</title>
     </programme>
     <programme start="20250105040000 +0000" stop="20250105060000 +0000" channel="CTV 3.vidio">
         <title>WTA 250 ASB Classic - Final</title>
@@ -1836,10 +1833,10 @@
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="NBA TV.vidio">
         <title>#NBATogether With Ernie Johnson</title>
     </programme>
-    <programme start="20250105010000 +0000" stop="20250105040000 +0000" channel="NBA TV.vidio">
+    <programme start="20250105010000 +0000" stop="20250105050000 +0000" channel="NBA TV.vidio">
         <title>New York Knicks vs Chicago Bulls - NBA</title>
     </programme>
-    <programme start="20250105040000 +0000" stop="20250105060000 +0000" channel="NBA TV.vidio">
+    <programme start="20250105050000 +0000" stop="20250105060000 +0000" channel="NBA TV.vidio">
         <title>NBA TV Marquee Matchup</title>
     </programme>
     <programme start="20250105060000 +0000" stop="20250105080000 +0000" channel="NBA TV.vidio">
