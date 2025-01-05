@@ -1743,8 +1743,11 @@
     <programme start="20250105043000 +0000" stop="20250105060000 +0000" channel="Bein 3.vidio">
         <title>Hungary VS France : 2024 EHF European Women&#039;s Handball Championship</title>
     </programme>
-    <programme start="20250105060000 +0000" stop="20250105123000 +0000" channel="Bein 3.vidio">
+    <programme start="20250105060000 +0000" stop="20250105114200 +0000" channel="Bein 3.vidio">
         <title>Final: USA vs Poland - United Cup</title>
+    </programme>
+    <programme start="20250105114200 +0000" stop="20250105123000 +0000" channel="Bein 3.vidio">
+        <title>United Cup</title>
     </programme>
     <programme start="20250105123000 +0000" stop="20250105130000 +0000" channel="Bein 3.vidio">
         <title>UEFA Europa League 2024/25 - Rangers vs Lyon - : Mini Match</title>
