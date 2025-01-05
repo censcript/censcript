@@ -1794,8 +1794,11 @@
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="CTV 3.vidio">
         <title>NBA On Fire</title>
     </programme>
-    <programme start="20250105010000 +0000" stop="20250105040000 +0000" channel="CTV 3.vidio">
+    <programme start="20250105010000 +0000" stop="20250105035000 +0000" channel="CTV 3.vidio">
         <title>Denver Nuggets vs San Antonio Spurs - NBA</title>
+    </programme>
+    <programme start="20250105035000 +0000" stop="20250105040000 +0000" channel="CTV 3.vidio">
+        <title>Filler</title>
     </programme>
     <programme start="20250105040000 +0000" stop="20250105060000 +0000" channel="CTV 3.vidio">
         <title>WTA 250 ASB Classic - Final</title>
@@ -1833,10 +1836,10 @@
     <programme start="20250105003000 +0000" stop="20250105010000 +0000" channel="NBA TV.vidio">
         <title>#NBATogether With Ernie Johnson</title>
     </programme>
-    <programme start="20250105010000 +0000" stop="20250105050000 +0000" channel="NBA TV.vidio">
+    <programme start="20250105010000 +0000" stop="20250105035000 +0000" channel="NBA TV.vidio">
         <title>New York Knicks vs Chicago Bulls - NBA</title>
     </programme>
-    <programme start="20250105050000 +0000" stop="20250105060000 +0000" channel="NBA TV.vidio">
+    <programme start="20250105035000 +0000" stop="20250105060000 +0000" channel="NBA TV.vidio">
         <title>NBA TV Marquee Matchup</title>
     </programme>
     <programme start="20250105060000 +0000" stop="20250105080000 +0000" channel="NBA TV.vidio">
@@ -2007,7 +2010,7 @@
     <programme start="20250105140000 +0000" stop="20250105160000 +0000" channel="CTV 6.vidio">
         <title>Brighton &amp; Hove Albion vs. Arsenal : Premier League Soccer</title>
     </programme>
-    <programme start="20250105160000 +0000" stop="20250105190000 +0000" channel="CTV 6.vidio">
+    <programme start="20250105160000 +0000" stop="20250105170000 +0000" channel="CTV 6.vidio">
         <title>Premier League: Match Highlights</title>
     </programme>
     <programme start="20250104163000 +0000" stop="20250104170000 +0000" channel="Premier League TV.vidio">
