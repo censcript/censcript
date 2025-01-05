@@ -132,10 +132,10 @@
     <programme start="20250105090000 +0000" stop="20250105113000 +0000" channel="Moji.vidio">
         <title>Proliga</title>
     </programme>
-    <programme start="20250105113000 +0000" stop="20250105140000 +0000" channel="Moji.vidio">
+    <programme start="20250105113000 +0000" stop="20250105135600 +0000" channel="Moji.vidio">
         <title>Proliga</title>
     </programme>
-    <programme start="20250105140000 +0000" stop="20250105160000 +0000" channel="Moji.vidio">
+    <programme start="20250105135600 +0000" stop="20250105160000 +0000" channel="Moji.vidio">
         <title>Ungkap</title>
     </programme>
     <programme start="20250105160000 +0000" stop="20250105173000 +0000" channel="Moji.vidio">
