@@ -2097,13 +2097,10 @@
     <programme start="20250105130000 +0000" stop="20250105133000 +0000" channel="Premier League TV.vidio">
         <title>NOLBERTO SOLANO : Premier League Stories</title>
     </programme>
-    <programme start="20250105133000 +0000" stop="20250105150000 +0000" channel="Premier League TV.vidio">
+    <programme start="20250105133000 +0000" stop="20250105140000 +0000" channel="Premier League TV.vidio">
         <title>Premier League: The Weekend Wrap</title>
     </programme>
-    <programme start="20250105150000 +0000" stop="20250105160000 +0000" channel="Premier League TV.vidio">
-        <title>ROBBIE FOWLER : Premier League Moments</title>
-    </programme>
-    <programme start="20250105160000 +0000" stop="20250105163000 +0000" channel="Premier League TV.vidio">
+    <programme start="20250105140000 +0000" stop="20250105163000 +0000" channel="Premier League TV.vidio">
         <title>Fulham v Ipswich Town : Premier League: Match Highlights</title>
     </programme>
     <programme start="20250105163000 +0000" stop="20250105170000 +0000" channel="Premier League TV.vidio">
