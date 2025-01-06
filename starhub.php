@@ -14715,13 +14715,13 @@
     <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="SPOTV.starhub">
         <title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
     </programme>
-    <programme start="20250106180000 +0000" stop="20250106213000 +0000" channel="SPOTV.starhub">
-        <title>Group 1</title>
+    <programme start="20250106180000 +0000" stop="20250106183000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: 2025 Grid Activity</title>
     </programme>
-    <programme start="20250106213000 +0000" stop="20250107003000 +0000" channel="SPOTV.starhub">
+    <programme start="20250106183000 +0000" stop="20250106213000 +0000" channel="SPOTV.starhub">
         <title>Day 13 - Day Session</title>
     </programme>
-    <programme start="20250107003000 +0000" stop="20250107043000 +0000" channel="SPOTV.starhub">
+    <programme start="20250106213000 +0000" stop="20250107013000 +0000" channel="SPOTV.starhub">
         <title>Day 14 - Day Session</title>
     </programme>
     <programme start="20250107043000 +0000" stop="20250107053000 +0000" channel="SPOTV.starhub">
