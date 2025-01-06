@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250106193000 +0000" stop="20250106223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Nottingham Forest</title>
     </programme>

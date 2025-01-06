@@ -307,13 +307,10 @@
         <title>Big Stories Of The Week</title>
     </programme>
     <programme start="20250106230000 +0000" stop="20250106233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Sustainable Future</title>
+        <title>Insight</title>
     </programme>
-    <programme start="20250106233000 +0000" stop="20250107000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
-    </programme>
-    <programme start="20250107000000 +0000" stop="20250107003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
+    <programme start="20250106233000 +0000" stop="20250107003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Manufacture Check</title>
     </programme>
     <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
@@ -321,53 +318,38 @@
     <programme start="20250107010000 +0000" stop="20250107030000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Squawk Box</title>
     </programme>
-    <programme start="20250107030000 +0000" stop="20250107050000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250107030000 +0000" stop="20250107045500 +0000" channel="CNBC Indonesia.cubmu">
         <title>Profit</title>
     </programme>
-    <programme start="20250107050000 +0000" stop="20250107053000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20250107053000 +0000" stop="20250107073000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250107045500 +0000" stop="20250107070000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Power Lunch</title>
     </programme>
+    <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Managing Asia</title>
+    </programme>
     <programme start="20250107073000 +0000" stop="20250107080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
+        <title>Number&#039;s Bite</title>
     </programme>
     <programme start="20250107080000 +0000" stop="20250107100000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Closing Bell</title>
     </programme>
-    <programme start="20250107100000 +0000" stop="20250107110000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250107100000 +0000" stop="20250107110500 +0000" channel="CNBC Indonesia.cubmu">
         <title>Evening Up</title>
     </programme>
-    <programme start="20250107110000 +0000" stop="20250107113000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250107110500 +0000" stop="20250107120000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Autobizz</title>
-    </programme>
-    <programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub</title>
     </programme>
     <programme start="20250107120000 +0000" stop="20250107123000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20250107123000 +0000" stop="20250107130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+        <title>Central Banking</title>
     </programme>
-    <programme start="20250107130000 +0000" stop="20250107140000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime Pilihan</title>
+    <programme start="20250107130000 +0000" stop="20250107150000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Squawk Box</title>
     </programme>
-    <programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250107150000 +0000" stop="20250107153000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250107160000 +0000" stop="20250106170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime Pilihan</title>
+    <programme start="20250107150000 +0000" stop="20250106170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Cintaku Dikejar Cicilan</title>
@@ -541,85 +523,82 @@
         <title>Kabar Arena Malam</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="rtv.cubmu">
-        <title>Jagoan Silat</title>
+        <title>Jejak Raja Jawa</title>
     </programme>
     <programme start="20250106180000 +0000" stop="20250106183000 +0000" channel="rtv.cubmu">
         <title>Terang Kasih</title>
     </programme>
-    <programme start="20250106183000 +0000" stop="20250106193000 +0000" channel="rtv.cubmu">
+    <programme start="20250106183000 +0000" stop="20250106190000 +0000" channel="rtv.cubmu">
         <title>STB - Sangat Tidak Biasa</title>
     </programme>
-    <programme start="20250106193000 +0000" stop="20250106203000 +0000" channel="rtv.cubmu">
-        <title>Top Trending</title>
+    <programme start="20250106190000 +0000" stop="20250106203000 +0000" channel="rtv.cubmu">
+        <title>Movinesia</title>
     </programme>
     <programme start="20250106203000 +0000" stop="20250106210000 +0000" channel="rtv.cubmu">
-        <title>Omar &amp; Hana</title>
-    </programme>
-    <programme start="20250106210000 +0000" stop="20250106220000 +0000" channel="rtv.cubmu">
         <title>Mina Mila</title>
     </programme>
-    <programme start="20250106220000 +0000" stop="20250106233000 +0000" channel="rtv.cubmu">
-        <title>Metal Cardbot</title>
+    <programme start="20250106210000 +0000" stop="20250106220000 +0000" channel="rtv.cubmu">
+        <title>Omar &amp; Hana</title>
     </programme>
-    <programme start="20250106233000 +0000" stop="20250107010000 +0000" channel="rtv.cubmu">
-        <title>Pokemon Horizons</title>
+    <programme start="20250106220000 +0000" stop="20250106230000 +0000" channel="rtv.cubmu">
+        <title>Ibra Berkisah</title>
     </programme>
-    <programme start="20250107010000 +0000" stop="20250107013000 +0000" channel="rtv.cubmu">
-        <title>Kamen Rider Geats</title>
+    <programme start="20250106230000 +0000" stop="20250107000000 +0000" channel="rtv.cubmu">
+        <title>Riko The Series</title>
     </programme>
-    <programme start="20250107013000 +0000" stop="20250107020000 +0000" channel="rtv.cubmu">
-        <title>Cai Yoo - Cerita Anak Indonesia Yoo Yoo Yoo</title>
+    <programme start="20250107000000 +0000" stop="20250107003000 +0000" channel="rtv.cubmu">
+        <title>Briko</title>
     </programme>
-    <programme start="20250107020000 +0000" stop="20250107023000 +0000" channel="rtv.cubmu">
-        <title>MTLB Goo!</title>
-    </programme>
-    <programme start="20250107023000 +0000" stop="20250107030000 +0000" channel="rtv.cubmu">
-        <title>Detektif Peet</title>
-    </programme>
-    <programme start="20250107030000 +0000" stop="20250107040000 +0000" channel="rtv.cubmu">
-        <title>Marsupilami</title>
-    </programme>
-    <programme start="20250107040000 +0000" stop="20250107043000 +0000" channel="rtv.cubmu">
-        <title>Makan Mulu</title>
-    </programme>
-    <programme start="20250107043000 +0000" stop="20250107050000 +0000" channel="rtv.cubmu">
-        <title>Adu Kelas</title>
-    </programme>
-    <programme start="20250107050000 +0000" stop="20250107063000 +0000" channel="rtv.cubmu">
-        <title>Super Wings</title>
-    </programme>
-    <programme start="20250107063000 +0000" stop="20250107080000 +0000" channel="rtv.cubmu">
+    <programme start="20250107003000 +0000" stop="20250107013000 +0000" channel="rtv.cubmu">
         <title>PJ Masks</title>
     </programme>
-    <programme start="20250107080000 +0000" stop="20250107093000 +0000" channel="rtv.cubmu">
+    <programme start="20250107013000 +0000" stop="20250107023000 +0000" channel="rtv.cubmu">
+        <title>Catch! Teenieping</title>
+    </programme>
+    <programme start="20250107023000 +0000" stop="20250107030000 +0000" channel="rtv.cubmu">
+        <title>Oki Dan Nirmala</title>
+    </programme>
+    <programme start="20250107030000 +0000" stop="20250107043000 +0000" channel="rtv.cubmu">
+        <title>Barbie Dolphin Magic</title>
+    </programme>
+    <programme start="20250107043000 +0000" stop="20250107050000 +0000" channel="rtv.cubmu">
+        <title>Barbie Dreamhouse Adventures</title>
+    </programme>
+    <programme start="20250107050000 +0000" stop="20250107053000 +0000" channel="rtv.cubmu">
+        <title>Tawa Satwa</title>
+    </programme>
+    <programme start="20250107053000 +0000" stop="20250107070000 +0000" channel="rtv.cubmu">
+        <title>Boboiboy</title>
+    </programme>
+    <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="rtv.cubmu">
+        <title>Petronix Defenders</title>
+    </programme>
+    <programme start="20250107073000 +0000" stop="20250107080000 +0000" channel="rtv.cubmu">
+        <title>Transformers Earthspark</title>
+    </programme>
+    <programme start="20250107080000 +0000" stop="20250107100000 +0000" channel="rtv.cubmu">
+        <title>Haikyu!! The Movie : The Battle Of Concepts</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107110000 +0000" channel="rtv.cubmu">
         <title>Ejen Ali</title>
     </programme>
-    <programme start="20250107093000 +0000" stop="20250107103000 +0000" channel="rtv.cubmu">
-        <title>Boboiboy Galaxy 2</title>
-    </programme>
-    <programme start="20250107103000 +0000" stop="20250107110000 +0000" channel="rtv.cubmu">
-        <title>Tendangan Halilintar</title>
-    </programme>
     <programme start="20250107110000 +0000" stop="20250107113000 +0000" channel="rtv.cubmu">
-        <title>Adit Sopo Jarwo</title>
+        <title>Si Bocil Trang Quynh</title>
     </programme>
-    <programme start="20250107113000 +0000" stop="20250107123000 +0000" channel="rtv.cubmu">
-        <title>Boboiboy Galaxy 2</title>
+    <programme start="20250107113000 +0000" stop="20250107130000 +0000" channel="rtv.cubmu">
+        <title>Boboiboy Galaxy The Movie</title>
     </programme>
-    <programme start="20250107123000 +0000" stop="20250107140000 +0000" channel="rtv.cubmu">
+    <programme start="20250107130000 +0000" stop="20250107143000 +0000" channel="rtv.cubmu">
         <title>Mechamato</title>
     </programme>
-    <programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="rtv.cubmu">
-        <title>Boba - Bombastis Banget</title>
-    </programme>
     <programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="rtv.cubmu">
-        <title>Check In - Check Informasi</title>
-    </programme>
-    <programme start="20250107150000 +0000" stop="20250107160000 +0000" channel="rtv.cubmu">
         <title>Si Paling Trending!</title>
     </programme>
-    <programme start="20250107160000 +0000" stop="20250106170000 +0000" channel="rtv.cubmu">
-        <title>Novoland - Eagle Flag</title>
+    <programme start="20250107150000 +0000" stop="20250107153000 +0000" channel="rtv.cubmu">
+        <title>Terkepo-Kepo</title>
+    </programme>
+    <programme start="20250107153000 +0000" stop="20250106170000 +0000" channel="rtv.cubmu">
+        <title>Layar Aksi</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="NET TV.cubmu">
         <title>Ok-Jek</title>
@@ -1410,16 +1389,19 @@
     <programme start="20250107163000 +0000" stop="20250106190000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250106180000 +0000" stop="20250106183000 +0000" channel="SCTV.cubmu">
+    <programme start="20250106174500 +0000" stop="20250106184500 +0000" channel="SCTV.cubmu">
+        <title>FTV Utama</title>
+    </programme>
+    <programme start="20250106184500 +0000" stop="20250106191500 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Malam</title>
     </programme>
-    <programme start="20250106183000 +0000" stop="20250106190000 +0000" channel="SCTV.cubmu">
+    <programme start="20250106191500 +0000" stop="20250106194500 +0000" channel="SCTV.cubmu">
+        <title>Solusi</title>
+    </programme>
+    <programme start="20250106194500 +0000" stop="20250106201500 +0000" channel="SCTV.cubmu">
         <title>Buser</title>
     </programme>
-    <programme start="20250106190000 +0000" stop="20250106200000 +0000" channel="SCTV.cubmu">
-        <title>Sinema Malam</title>
-    </programme>
-    <programme start="20250106200000 +0000" stop="20250106210000 +0000" channel="SCTV.cubmu">
+    <programme start="20250106201500 +0000" stop="20250106210000 +0000" channel="SCTV.cubmu">
         <title>Sinema Dini Hari</title>
     </programme>
     <programme start="20250106210000 +0000" stop="20250106213000 +0000" channel="SCTV.cubmu">
@@ -1428,11 +1410,8 @@
     <programme start="20250106213000 +0000" stop="20250106230000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20250106230000 +0000" stop="20250106233000 +0000" channel="SCTV.cubmu">
-        <title>Buser Investigasi</title>
-    </programme>
-    <programme start="20250106233000 +0000" stop="20250107000000 +0000" channel="SCTV.cubmu">
-        <title>Halo Selebriti</title>
+    <programme start="20250106230000 +0000" stop="20250107000000 +0000" channel="SCTV.cubmu">
+        <title>Hot Shot</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107013000 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
@@ -1446,16 +1425,19 @@
     <programme start="20250107050000 +0000" stop="20250107053000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20250107053000 +0000" stop="20250107073000 +0000" channel="SCTV.cubmu">
+    <programme start="20250107053000 +0000" stop="20250107071500 +0000" channel="SCTV.cubmu">
         <title>FTV Siang</title>
     </programme>
-    <programme start="20250107073000 +0000" stop="20250107093000 +0000" channel="SCTV.cubmu">
+    <programme start="20250107071500 +0000" stop="20250107081500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20250107093000 +0000" stop="20250107113000 +0000" channel="SCTV.cubmu">
+    <programme start="20250107081500 +0000" stop="20250107100000 +0000" channel="SCTV.cubmu">
+        <title>FTV Sore</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107111500 +0000" channel="SCTV.cubmu">
         <title>Saleha</title>
     </programme>
-    <programme start="20250107113000 +0000" stop="20250107130000 +0000" channel="SCTV.cubmu">
+    <programme start="20250107111500 +0000" stop="20250107130000 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
     <programme start="20250107130000 +0000" stop="20250107143000 +0000" channel="SCTV.cubmu">
@@ -1464,7 +1446,7 @@
     <programme start="20250107143000 +0000" stop="20250107160000 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20250107160000 +0000" stop="20250106173000 +0000" channel="SCTV.cubmu">
+    <programme start="20250107160000 +0000" stop="20250106174500 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106170500 +0000" channel="MetroTV.cubmu">
@@ -1746,11 +1728,17 @@
     <programme start="20250107153000 +0000" stop="20250106170000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20250106173000 +0000" stop="20250106190000 +0000" channel="ANTV.cubmu">
+    <programme start="20250106173000 +0000" stop="20250106183000 +0000" channel="ANTV.cubmu">
         <title>Jodoh Wasiat Bapak Babak 2</title>
     </programme>
-    <programme start="20250106190000 +0000" stop="20250106220000 +0000" channel="ANTV.cubmu">
+    <programme start="20250106183000 +0000" stop="20250106190000 +0000" channel="ANTV.cubmu">
+        <title>AB Shop Home Shopping</title>
+    </programme>
+    <programme start="20250106190000 +0000" stop="20250106203000 +0000" channel="ANTV.cubmu">
         <title>Kun Fayakun</title>
+    </programme>
+    <programme start="20250106203000 +0000" stop="20250106220000 +0000" channel="ANTV.cubmu">
+        <title>Anandhi</title>
     </programme>
     <programme start="20250106220000 +0000" stop="20250106223000 +0000" channel="ANTV.cubmu">
         <title>Senyum Iman</title>
@@ -1758,10 +1746,16 @@
     <programme start="20250106223000 +0000" stop="20250107003000 +0000" channel="ANTV.cubmu">
         <title>Masha And The Bear</title>
     </programme>
-    <programme start="20250107003000 +0000" stop="20250107023000 +0000" channel="ANTV.cubmu">
+    <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="ANTV.cubmu">
         <title>Sinema Spesial</title>
     </programme>
-    <programme start="20250107023000 +0000" stop="20250107060000 +0000" channel="ANTV.cubmu">
+    <programme start="20250107010000 +0000" stop="20250107023000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Spesial</title>
+    </programme>
+    <programme start="20250107023000 +0000" stop="20250107030000 +0000" channel="ANTV.cubmu">
+        <title>Mega Bollywood</title>
+    </programme>
+    <programme start="20250107030000 +0000" stop="20250107060000 +0000" channel="ANTV.cubmu">
         <title>Mega Bollywood</title>
     </programme>
     <programme start="20250107060000 +0000" stop="20250107080000 +0000" channel="ANTV.cubmu">
@@ -1776,8 +1770,11 @@
     <programme start="20250107133000 +0000" stop="20250107153000 +0000" channel="ANTV.cubmu">
         <title>Sinema Laga Klasik</title>
     </programme>
-    <programme start="20250107153000 +0000" stop="20250106173000 +0000" channel="ANTV.cubmu">
+    <programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="ANTV.cubmu">
         <title>Sinema Laga Klasik</title>
+    </programme>
+    <programme start="20250107160000 +0000" stop="20250106173000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Laga Klasik: Misteri Gunung Merapi 2</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106230000 +0000" channel="Jak tv.cubmu">
         <title>Sign Off</title>
@@ -1854,8 +1851,11 @@
     <programme start="20250106180000 +0000" stop="20250106180300 +0000" channel="BTV.cubmu">
         <title>Tanah Airku</title>
     </programme>
-    <programme start="20250106180300 +0000" stop="20250106190000 +0000" channel="BTV.cubmu">
-        <title>Berita Satu Siang</title>
+    <programme start="20250106180300 +0000" stop="20250106183000 +0000" channel="BTV.cubmu">
+        <title>Figur Publik</title>
+    </programme>
+    <programme start="20250106183000 +0000" stop="20250106190000 +0000" channel="BTV.cubmu">
+        <title>Kuyliner</title>
     </programme>
     <programme start="20250106190000 +0000" stop="20250106200000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Sore</title>
@@ -1863,86 +1863,92 @@
     <programme start="20250106200000 +0000" stop="20250106210000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Malam</title>
     </programme>
-    <programme start="20250106210000 +0000" stop="20250106220000 +0000" channel="BTV.cubmu">
+    <programme start="20250106210000 +0000" stop="20250106213000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
     </programme>
-    <programme start="20250106220000 +0000" stop="20250106230000 +0000" channel="BTV.cubmu">
+    <programme start="20250106213000 +0000" stop="20250106223000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Pagi</title>
     </programme>
-    <programme start="20250106230000 +0000" stop="20250107000000 +0000" channel="BTV.cubmu">
+    <programme start="20250106223000 +0000" stop="20250106230000 +0000" channel="BTV.cubmu">
+        <title>Jendela Dunia</title>
+    </programme>
+    <programme start="20250106230000 +0000" stop="20250106230300 +0000" channel="BTV.cubmu">
+        <title>Indonesia Raya</title>
+    </programme>
+    <programme start="20250106230300 +0000" stop="20250107000000 +0000" channel="BTV.cubmu">
         <title>Jalan Dakwah</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107003000 +0000" channel="BTV.cubmu">
-        <title>Vlogger On The Road</title>
-    </programme>
-    <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="BTV.cubmu">
-        <title>Berita Viral</title>
-    </programme>
-    <programme start="20250107010000 +0000" stop="20250107014500 +0000" channel="BTV.cubmu">
         <title>Masak Ala Devina Hermawan</title>
     </programme>
+    <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="BTV.cubmu">
+        <title>Dunia Binatang</title>
+    </programme>
+    <programme start="20250107010000 +0000" stop="20250107014500 +0000" channel="BTV.cubmu">
+        <title>Boonie Bears</title>
+    </programme>
     <programme start="20250107014500 +0000" stop="20250107023000 +0000" channel="BTV.cubmu">
-        <title>Info Seleb</title>
+        <title>Motu Patlu</title>
     </programme>
     <programme start="20250107023000 +0000" stop="20250107030000 +0000" channel="BTV.cubmu">
         <title>Dunia Rans</title>
     </programme>
     <programme start="20250107030000 +0000" stop="20250107033000 +0000" channel="BTV.cubmu">
-        <title>Dunia Alam</title>
+        <title>Berita Viral</title>
     </programme>
-    <programme start="20250107033000 +0000" stop="20250107043000 +0000" channel="BTV.cubmu">
+    <programme start="20250107033000 +0000" stop="20250107040000 +0000" channel="BTV.cubmu">
+        <title>Berita Satu Spesial</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107050000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Siang</title>
     </programme>
-    <programme start="20250107043000 +0000" stop="20250107053000 +0000" channel="BTV.cubmu">
-        <title>Jalan Dakwah</title>
+    <programme start="20250107050000 +0000" stop="20250107054500 +0000" channel="BTV.cubmu">
+        <title>Figur Publik</title>
     </programme>
-    <programme start="20250107053000 +0000" stop="20250107060000 +0000" channel="BTV.cubmu">
-        <title>Cerita Manusia</title>
+    <programme start="20250107054500 +0000" stop="20250107063000 +0000" channel="BTV.cubmu">
+        <title>Info Seleb</title>
     </programme>
-    <programme start="20250107060000 +0000" stop="20250107063000 +0000" channel="BTV.cubmu">
-        <title>Berita Viral</title>
+    <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="BTV.cubmu">
+        <title>Kuyliner</title>
     </programme>
-    <programme start="20250107063000 +0000" stop="20250107073000 +0000" channel="BTV.cubmu">
-        <title>Asal Usul</title>
+    <programme start="20250107070000 +0000" stop="20250107074500 +0000" channel="BTV.cubmu">
+        <title>Anak Hebat</title>
     </programme>
-    <programme start="20250107073000 +0000" stop="20250107080000 +0000" channel="BTV.cubmu">
-        <title>Dunia Alam</title>
-    </programme>
-    <programme start="20250107080000 +0000" stop="20250107083000 +0000" channel="BTV.cubmu">
+    <programme start="20250107074500 +0000" stop="20250107084500 +0000" channel="BTV.cubmu">
         <title>Dunia Binatang</title>
     </programme>
-    <programme start="20250107083000 +0000" stop="20250107100000 +0000" channel="BTV.cubmu">
-        <title>Berita Satu Sore</title>
+    <programme start="20250107084500 +0000" stop="20250107094500 +0000" channel="BTV.cubmu">
+        <title>Boonie Bears</title>
     </programme>
-    <programme start="20250107100000 +0000" stop="20250107110000 +0000" channel="BTV.cubmu">
-        <title>Asal Usul</title>
+    <programme start="20250107094500 +0000" stop="20250107104500 +0000" channel="BTV.cubmu">
+        <title>Motu Patlu</title>
     </programme>
-    <programme start="20250107110000 +0000" stop="20250107113000 +0000" channel="BTV.cubmu">
-        <title>Cerita Manusia</title>
+    <programme start="20250107104500 +0000" stop="20250107113000 +0000" channel="BTV.cubmu">
+        <title>Dunia Binatang</title>
     </programme>
-    <programme start="20250107113000 +0000" stop="20250107123000 +0000" channel="BTV.cubmu">
-        <title>Trik Talk</title>
+    <programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="BTV.cubmu">
+        <title>Figur Publik</title>
     </programme>
-    <programme start="20250107123000 +0000" stop="20250107130000 +0000" channel="BTV.cubmu">
-        <title>Top Stories</title>
-    </programme>
-    <programme start="20250107130000 +0000" stop="20250107140000 +0000" channel="BTV.cubmu">
+    <programme start="20250107120000 +0000" stop="20250107130000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
     </programme>
-    <programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="BTV.cubmu">
-        <title>Jendela Dunia</title>
+    <programme start="20250107130000 +0000" stop="20250107134500 +0000" channel="BTV.cubmu">
+        <title>Setulus Hati</title>
+    </programme>
+    <programme start="20250107134500 +0000" stop="20250107143000 +0000" channel="BTV.cubmu">
+        <title>Cocoklogi</title>
     </programme>
     <programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="BTV.cubmu">
-        <title>Saksi Mata</title>
+        <title>Jendela Dunia</title>
     </programme>
     <programme start="20250107150000 +0000" stop="20250107160000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Malam</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250107163000 +0000" channel="BTV.cubmu">
-        <title>Gearing Up</title>
+        <title>Mitos</title>
     </programme>
-    <programme start="20250107163000 +0000" stop="20250106170000 +0000" channel="BTV.cubmu">
-        <title>The Outdoor Sport</title>
+    <programme start="20250107163000 +0000" stop="20250106173000 +0000" channel="BTV.cubmu">
+        <title>One Vault 2022</title>
     </programme>
     <programme start="20250106170000 +0000" stop="20250106173000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sport Malam</title>
