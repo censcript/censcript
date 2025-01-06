@@ -5184,13 +5184,13 @@
     <programme start="20250107133000 +0000" stop="20250107163000 +0000" channel="Asianet Movies.starhub">
         <title>Rdx</title>
     </programme>
-    <programme start="20250107163000 +0000" stop="20250107190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250107163000 +0000" stop="20250107193000 +0000" channel="Asianet Movies.starhub">
         <title>Koode</title>
     </programme>
-    <programme start="20250107190000 +0000" stop="20250107220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250107193000 +0000" stop="20250107220500 +0000" channel="Asianet Movies.starhub">
         <title>Sundarakkilladi</title>
     </programme>
-    <programme start="20250107220000 +0000" stop="20250108003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250107220500 +0000" stop="20250108003000 +0000" channel="Asianet Movies.starhub">
         <title>Killadiraman</title>
     </programme>
     <programme start="20250108003000 +0000" stop="20250108010000 +0000" channel="Asianet Movies.starhub">
@@ -5362,6 +5362,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250116100000 +0000" stop="20250116163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250116163000 +0000" stop="20250116220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250105000000 +0000" stop="20250105005500 +0000" channel="HISTORY HD.starhub">
@@ -30831,6 +30843,18 @@
     <programme start="20250116100000 +0000" stop="20250116160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250104220000 +0000" stop="20250105040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31054,6 +31078,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250116100000 +0000" stop="20250116160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250104220000 +0000" stop="20250105040000 +0000" channel="Hub Premier 4.starhub">
