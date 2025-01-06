@@ -6718,7 +6718,7 @@
         <title>Information Worth Knowing from the News Commentator Bureau</title>
     </programme>
     <programme start="20250106032800 +0000" stop="20250106033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>News</title>
     </programme>
     <programme start="20250106033000 +0000" stop="20250106034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 31</title>
@@ -6729,11 +6729,14 @@
     <programme start="20250106040000 +0000" stop="20250106040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250106040500 +0000" stop="20250106055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250106040500 +0000" stop="20250106051000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
-    <programme start="20250106055000 +0000" stop="20250106055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20250106051000 +0000" stop="20250106055200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Prime Minister&#039;s News Conference</title>
+    </programme>
+    <programme start="20250106055200 +0000" stop="20250106055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250106055500 +0000" stop="20250106060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
@@ -6805,7 +6808,7 @@
         <title>The Fountain of Ancient Wisdom &quot;Takamine Jokichi&quot;</title>
     </programme>
     <programme start="20250106134500 +0000" stop="20250106140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Stewing-A Journey to Taste Warmth&quot; Toyama Edition Eps. 1（New</title>
+        <title>Night Drama Serial &quot;Stewing-A Journey to Taste Warmth&quot; Toyama Edition Eps. 1(New</title>
     </programme>
     <programme start="20250106140000 +0000" stop="20250106143000 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother: Requested Songs Special (R)</title>
@@ -6860,9 +6863,6 @@
     </programme>
     <programme start="20250106190500 +0000" stop="20250106193200 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20250106193200 +0000" stop="20250106193500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20250104230500 +0000" stop="20250105000500 +0000" channel="Lifetime HD.starhub">
         <title>Secretariat Of Cake</title>
