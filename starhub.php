@@ -9726,17 +9726,8 @@
     <programme start="20250108130000 +0000" stop="20250108140000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250108150000 +0000" stop="20250108173000 +0000" channel="SPOTV2.starhub">
-        <title>2024 Globe Soccer Dubai Awards</title>
-    </programme>
-    <programme start="20250108173000 +0000" stop="20250108180000 +0000" channel="SPOTV2.starhub">
-        <title>Round 2 Chicago</title>
-    </programme>
-    <programme start="20250108180000 +0000" stop="20250108183000 +0000" channel="SPOTV2.starhub">
-        <title>Round 4 Toulouse</title>
+    <programme start="20250108140000 +0000" stop="20250108183000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
     </programme>
     <programme start="20250108183000 +0000" stop="20250108194500 +0000" channel="SPOTV2.starhub">
         <title>Moto3 Race</title>
@@ -9747,14 +9738,14 @@
     <programme start="20250108210000 +0000" stop="20250108233000 +0000" channel="SPOTV2.starhub">
         <title>MotoGP Race</title>
     </programme>
-    <programme start="20250108233000 +0000" stop="20250109000000 +0000" channel="SPOTV2.starhub">
-        <title>Round 1 Boston</title>
-    </programme>
-    <programme start="20250109000000 +0000" stop="20250109020000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250108233000 +0000" stop="20250109013000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 6th Tournament</title>
     </programme>
-    <programme start="20250109020000 +0000" stop="20250109040000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250109013000 +0000" stop="20250109033000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
+    </programme>
+    <programme start="20250109033000 +0000" stop="20250109040000 +0000" channel="SPOTV2.starhub">
+        <title>Round 5 Neom</title>
     </programme>
     <programme start="20250109040000 +0000" stop="20250109060000 +0000" channel="SPOTV2.starhub">
         <title>2024 International Friendly (Women) Match 3 CommBank Matildas vs Chinese Taipei</title>
@@ -9762,68 +9753,47 @@
     <programme start="20250109060000 +0000" stop="20250109080000 +0000" channel="SPOTV2.starhub">
         <title>2024 International Friendly (Women) Match 4 CommBank Matildas vs Chinese Taipei</title>
     </programme>
-    <programme start="20250109080000 +0000" stop="20250109083000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250109080000 +0000" stop="20250109123000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250109123000 +0000" stop="20250109130000 +0000" channel="SPOTV2.starhub">
+        <title>Round 2 Chicago</title>
+    </programme>
+    <programme start="20250109130000 +0000" stop="20250109140000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250109140000 +0000" stop="20250109180000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20250109180000 +0000" stop="20250109223000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250109223000 +0000" stop="20250110021500 +0000" channel="SPOTV2.starhub">
+        <title>Race</title>
+    </programme>
+    <programme start="20250110021500 +0000" stop="20250110033000 +0000" channel="SPOTV2.starhub">
+        <title>MotoGP Awards 2024</title>
+    </programme>
+    <programme start="20250110033000 +0000" stop="20250110040000 +0000" channel="SPOTV2.starhub">
         <title>2025 Grid Activity</title>
     </programme>
-    <programme start="20250109083000 +0000" stop="20250109103000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR Mixed Cup Tournament</title>
+    <programme start="20250110040000 +0000" stop="20250110081500 +0000" channel="SPOTV2.starhub">
+        <title>Day 2 Session 2</title>
     </programme>
-    <programme start="20250109103000 +0000" stop="20250109110000 +0000" channel="SPOTV2.starhub">
-        <title>Round 3 London</title>
-    </programme>
-    <programme start="20250109110000 +0000" stop="20250109130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250110081500 +0000" stop="20250110101500 +0000" channel="SPOTV2.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250109130000 +0000" stop="20250109164500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250110101500 +0000" stop="20250110140000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250109164500 +0000" stop="20250109190000 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 2024-25 Matchday 14 Al Nassr vs Al Okhdood</title>
+    <programme start="20250110140000 +0000" stop="20250110180000 +0000" channel="SPOTV2.starhub">
+        <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20250109190000 +0000" stop="20250109201500 +0000" channel="SPOTV2.starhub">
-        <title>Moto3 Race</title>
-    </programme>
-    <programme start="20250109201500 +0000" stop="20250109213000 +0000" channel="SPOTV2.starhub">
-        <title>MotoGP Race</title>
-    </programme>
-    <programme start="20250109213000 +0000" stop="20250109233000 +0000" channel="SPOTV2.starhub">
-        <title>Moto2 Race</title>
-    </programme>
-    <programme start="20250109233000 +0000" stop="20250110013000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR Mixed Cup Tournament</title>
-    </programme>
-    <programme start="20250110013000 +0000" stop="20250110031500 +0000" channel="SPOTV2.starhub">
-        <title>MotoGP Awards 2024</title>
-    </programme>
-    <programme start="20250110031500 +0000" stop="20250110051500 +0000" channel="SPOTV2.starhub">
-        <title>Qualifying</title>
-    </programme>
-    <programme start="20250110051500 +0000" stop="20250110090000 +0000" channel="SPOTV2.starhub">
-        <title>Race</title>
-    </programme>
-    <programme start="20250110090000 +0000" stop="20250110110500 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 2024-25 Matchday 14 Al Nassr vs Al Okhdood</title>
-    </programme>
-    <programme start="20250110110500 +0000" stop="20250110120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250110180000 +0000" stop="20250110190000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
-    </programme>
-    <programme start="20250110120000 +0000" stop="20250110130000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250110130000 +0000" stop="20250110140000 +0000" channel="SPOTV2.starhub">
-        <title>Race 2</title>
-    </programme>
-    <programme start="20250110140000 +0000" stop="20250110150000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250110150000 +0000" stop="20250110164500 +0000" channel="SPOTV2.starhub">
-        <title>MotoGP Awards 2024</title>
-    </programme>
-    <programme start="20250110164500 +0000" stop="20250110190000 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 2024-25 Matchday 14 Al Ahli vs Al Shabab</title>
     </programme>
     <programme start="20250110190000 +0000" stop="20250110210000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR MEN&#039;S 6th Tournament</title>
+        <title>2024 GTOUR Mixed Cup Tournament</title>
     </programme>
     <programme start="20250110210000 +0000" stop="20250110213000 +0000" channel="SPOTV2.starhub">
         <title>2025 Grid Activity</title>
@@ -9834,11 +9804,8 @@
     <programme start="20250110223000 +0000" stop="20250111003000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
     </programme>
-    <programme start="20250111003000 +0000" stop="20250111022500 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
-    </programme>
-    <programme start="20250111022500 +0000" stop="20250111043000 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 2024-25 Matchday 14 Al Ahli vs Al Shabab</title>
+    <programme start="20250111003000 +0000" stop="20250111043000 +0000" channel="SPOTV2.starhub">
+        <title>Day 3 Session 2</title>
     </programme>
     <programme start="20250111043000 +0000" stop="20250111050000 +0000" channel="SPOTV2.starhub">
         <title>Round 4 Toulouse</title>
@@ -9849,20 +9816,53 @@
     <programme start="20250111060000 +0000" stop="20250111080000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
     </programme>
-    <programme start="20250111080000 +0000" stop="20250111085500 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250111085500 +0000" stop="20250111092500 +0000" channel="SPOTV2.starhub">
-        <title>Round 2 Chicago</title>
-    </programme>
-    <programme start="20250111092500 +0000" stop="20250111113000 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 2024-25 Matchday 14 Al Ahli vs Al Shabab</title>
+    <programme start="20250111080000 +0000" stop="20250111113000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 1</title>
     </programme>
     <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="SPOTV2.starhub">
         <title>Round 5 Neom</title>
     </programme>
     <programme start="20250111120000 +0000" stop="20250111130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
+    </programme>
+    <programme start="20250111130000 +0000" stop="20250111160000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111180000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
+    </programme>
+    <programme start="20250111180000 +0000" stop="20250111213000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 1</title>
+    </programme>
+    <programme start="20250111213000 +0000" stop="20250111233000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR Mixed Cup Tournament</title>
+    </programme>
+    <programme start="20250111233000 +0000" stop="20250112023000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
+    <programme start="20250112023000 +0000" stop="20250112043000 +0000" channel="SPOTV2.starhub">
+        <title>2024 International Friendly (Women) Match 3 CommBank Matildas vs Chinese Taipei</title>
+    </programme>
+    <programme start="20250112043000 +0000" stop="20250112050000 +0000" channel="SPOTV2.starhub">
+        <title>Round 4 Toulouse</title>
+    </programme>
+    <programme start="20250112050000 +0000" stop="20250112060000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250112060000 +0000" stop="20250112080000 +0000" channel="SPOTV2.starhub">
+        <title>2024 International Friendly (Women) Match 4 CommBank Matildas vs Chinese Taipei</title>
+    </programme>
+    <programme start="20250112080000 +0000" stop="20250112113000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 1</title>
+    </programme>
+    <programme start="20250112113000 +0000" stop="20250112133000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
+    </programme>
+    <programme start="20250112133000 +0000" stop="20250112163000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
+    <programme start="20250112163000 +0000" stop="20250112170000 +0000" channel="SPOTV2.starhub">
+        <title>2025 Grid Activity</title>
     </programme>
     <programme start="20250105000000 +0000" stop="20250105003000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Korean Pop Culture Is Transforming Design</title>
@@ -22536,32 +22536,23 @@
     <programme start="20250106230000 +0000" stop="20250107003000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) Day 1 Session 3</title>
     </programme>
-    <programme start="20250107003000 +0000" stop="20250107063000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Day 2 Session 1</title>
-    </programme>
-    <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
     </programme>
-    <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
+    <programme start="20250107010000 +0000" stop="20250107060000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 1 Session 1 (Court 1)</title>
     </programme>
-    <programme start="20250107073000 +0000" stop="20250107083000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode Number 6</title>
+    <programme start="20250107060000 +0000" stop="20250107110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 1 Session 2 (Court 1)</title>
     </programme>
-    <programme start="20250107083000 +0000" stop="20250107093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>International Series Thailand</title>
-    </programme>
-    <programme start="20250107093000 +0000" stop="20250107113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Day 2 Session 2</title>
-    </programme>
-    <programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250107110000 +0000" stop="20250107113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Cardiff Half Marathon</title>
     </programme>
-    <programme start="20250107120000 +0000" stop="20250107123000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BMW Australian PGA Championship</title>
     </programme>
-    <programme start="20250107123000 +0000" stop="20250107170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Day 2 Session 1</title>
+    <programme start="20250107120000 +0000" stop="20250107170000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 1 Session 1 (Court 1)</title>
     </programme>
     <programme start="20250107170000 +0000" stop="20250107190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 2 - 20 (John Higgins v Mark Allen)</title>
@@ -22575,35 +22566,26 @@
     <programme start="20250107230000 +0000" stop="20250108003000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) Day 2 Session 2</title>
     </programme>
-    <programme start="20250108003000 +0000" stop="20250108043000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Rd 16 Session 1</title>
+    <programme start="20250108003000 +0000" stop="20250108010000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
     </programme>
-    <programme start="20250108043000 +0000" stop="20250108083000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Rd 16 Session 2</title>
+    <programme start="20250108010000 +0000" stop="20250108060000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 2 Session 1 (Court 1)</title>
     </programme>
-    <programme start="20250108083000 +0000" stop="20250108090000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Aramco Invitational Tournament</title>
+    <programme start="20250108060000 +0000" stop="20250108110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 2 Session 2 (Court 1)</title>
     </programme>
-    <programme start="20250108090000 +0000" stop="20250108093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ISPS HANDA Australian Open</title>
-    </programme>
-    <programme start="20250108093000 +0000" stop="20250108113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Rd 16 Session 3</title>
-    </programme>
-    <programme start="20250108113000 +0000" stop="20250108120000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250108110000 +0000" stop="20250108113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Nedbank Golf Challenge</title>
     </programme>
-    <programme start="20250108120000 +0000" stop="20250108123000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250108113000 +0000" stop="20250108120000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>AfrAsia Bank Mauritius Open</title>
     </programme>
-    <programme start="20250108123000 +0000" stop="20250108153000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) Rd 16 Session 1</title>
-    </programme>
-    <programme start="20250108153000 +0000" stop="20250108160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Half MDS - Fuerteventura</title>
+    <programme start="20250108120000 +0000" stop="20250108160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 2 Session 1 (Court 2)</title>
     </programme>
     <programme start="20250108160000 +0000" stop="20250108170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mandiri Indonesian Open</title>
+        <title>Black Mountain Championship</title>
     </programme>
     <programme start="20250108170000 +0000" stop="20250108190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 2 - 20 (John Higgins v Mark Allen)</title>
@@ -22617,47 +22599,20 @@
     <programme start="20250108230000 +0000" stop="20250109003000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) Rd 16 Session 3</title>
     </programme>
-    <programme start="20250109003000 +0000" stop="20250109023000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 1</title>
-    </programme>
-    <programme start="20250109023000 +0000" stop="20250109030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 7</title>
-    </programme>
-    <programme start="20250109030000 +0000" stop="20250109033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
-    </programme>
-    <programme start="20250109033000 +0000" stop="20250109053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 2</title>
-    </programme>
-    <programme start="20250109053000 +0000" stop="20250109060000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>FedEx Open de France</title>
-    </programme>
-    <programme start="20250109060000 +0000" stop="20250109063000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250109003000 +0000" stop="20250109010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Half MDS - Morocco</title>
     </programme>
-    <programme start="20250109063000 +0000" stop="20250109070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Half MDS - Jordan</title>
+    <programme start="20250109010000 +0000" stop="20250109060000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 16 Session 1 (Court 1)</title>
     </programme>
-    <programme start="20250109070000 +0000" stop="20250109090000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 3</title>
+    <programme start="20250109060000 +0000" stop="20250109110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 16 Session 2 (Court 1)</title>
     </programme>
-    <programme start="20250109090000 +0000" stop="20250109093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Abu Dhabi HSBC Championship</title>
-    </programme>
-    <programme start="20250109093000 +0000" stop="20250109113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 4</title>
-    </programme>
-    <programme start="20250109113000 +0000" stop="20250109123000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250109110000 +0000" stop="20250109120000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNI Indonesian Masters</title>
     </programme>
-    <programme start="20250109123000 +0000" stop="20250109140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 1</title>
-    </programme>
-    <programme start="20250109140000 +0000" stop="20250109153000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 2</title>
-    </programme>
-    <programme start="20250109153000 +0000" stop="20250109160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Riyadh Tour Finals Highlights Show</title>
+    <programme start="20250109120000 +0000" stop="20250109160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 16 Session 1 (Court 2)</title>
     </programme>
     <programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>The 40th Shinhan Donghae Open</title>
@@ -22672,49 +22627,43 @@
         <title>Rd 2 - 22 (Jak Jones v Si Jiahui)</title>
     </programme>
     <programme start="20250109230000 +0000" stop="20250110003000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 2</title>
-    </programme>
-    <programme start="20250110003000 +0000" stop="20250110020000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) QF 3</title>
     </programme>
-    <programme start="20250110020000 +0000" stop="20250110033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) QF 4</title>
+    <programme start="20250110003000 +0000" stop="20250110010000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Half MDS - Jordan</title>
     </programme>
-    <programme start="20250110033000 +0000" stop="20250110053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) SF 1</title>
+    <programme start="20250110010000 +0000" stop="20250110040000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): QF Session 1 (Court 1)</title>
     </programme>
-    <programme start="20250110053000 +0000" stop="20250110060000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250110040000 +0000" stop="20250110043000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Danish Golf Championship</title>
     </programme>
-    <programme start="20250110060000 +0000" stop="20250110063000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250110043000 +0000" stop="20250110050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Omega European Masters</title>
+    </programme>
+    <programme start="20250110050000 +0000" stop="20250110063000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Adelaide International (500) QF 4</title>
     </programme>
     <programme start="20250110063000 +0000" stop="20250110070000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>acciona Open de España presented by Madrid</title>
     </programme>
-    <programme start="20250110070000 +0000" stop="20250110080000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cape to Cape - Australia</title>
+    <programme start="20250110070000 +0000" stop="20250110110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): QF Session 2A (Court 1)</title>
     </programme>
-    <programme start="20250110080000 +0000" stop="20250110100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) SF 2</title>
+    <programme start="20250110110000 +0000" stop="20250110140000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): QF Session 2B (Court 1)</title>
     </programme>
-    <programme start="20250110100000 +0000" stop="20250110110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>LINK Hong Kong Open</title>
+    <programme start="20250110140000 +0000" stop="20250110143000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Alfred Dunhill Links Championship</title>
     </programme>
-    <programme start="20250110110000 +0000" stop="20250110123000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) SF 1</title>
+    <programme start="20250110143000 +0000" stop="20250110173000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): QF Session 1 (Court 2)</title>
     </programme>
-    <programme start="20250110123000 +0000" stop="20250110130000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Alfred Dunhill Championship</title>
-    </programme>
-    <programme start="20250110130000 +0000" stop="20250110160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Hobart International (250) SF 1 &amp; 2</title>
-    </programme>
-    <programme start="20250110160000 +0000" stop="20250110170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250110173000 +0000" stop="20250110183000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>SJM Macao Open</title>
     </programme>
-    <programme start="20250110170000 +0000" stop="20250110190000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>QF 2-2 (Kyren Wilson v John Higgins)</title>
+    <programme start="20250110183000 +0000" stop="20250110190000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Aramco Invitational Tournament</title>
     </programme>
     <programme start="20250110190000 +0000" stop="20250110210000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>SF 2-3 (Jak Jones v Stuart Bingham)</title>
@@ -22722,20 +22671,71 @@
     <programme start="20250110210000 +0000" stop="20250110230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 2 - 22 (Jak Jones v Si Jiahui)</title>
     </programme>
-    <programme start="20250110230000 +0000" stop="20250111000000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UK Challenge - England</title>
+    <programme start="20250110230000 +0000" stop="20250111040000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): QF Session 2 (Court 2)</title>
     </programme>
-    <programme start="20250111000000 +0000" stop="20250111010000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Challenge Beijing - China</title>
+    <programme start="20250111040000 +0000" stop="20250111090000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): SF Session 1 (Court 1)</title>
     </programme>
-    <programme start="20250111010000 +0000" stop="20250111020000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250111090000 +0000" stop="20250111140000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): SF Session 2 (Court 1)</title>
+    </programme>
+    <programme start="20250111140000 +0000" stop="20250111143000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>AfrAsia Bank Mauritius Open</title>
+    </programme>
+    <programme start="20250111143000 +0000" stop="20250111160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Adelaide International (500) Finals</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Black Mountain Championship</title>
+    </programme>
+    <programme start="20250111170000 +0000" stop="20250111183000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>QF 2-3* (Kyren Wilson v John Higgins)</title>
+    </programme>
+    <programme start="20250111183000 +0000" stop="20250111190000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PKNS Selangor Master Highlights</title>
+    </programme>
+    <programme start="20250111190000 +0000" stop="20250111210000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>SF 2-4* (Jak Jones v Stuart Bingham)</title>
+    </programme>
+    <programme start="20250111210000 +0000" stop="20250112000000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>EFN 177: Prelims: Dern vs Ribas 2</title>
+    </programme>
+    <programme start="20250112000000 +0000" stop="20250112030000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>EFN 177: Dern vs Ribas 2</title>
+    </programme>
+    <programme start="20250112030000 +0000" stop="20250112033000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Genesis Championship</title>
+    </programme>
+    <programme start="20250112033000 +0000" stop="20250112050000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Adelaide International (500) Finals</title>
+    </programme>
+    <programme start="20250112050000 +0000" stop="20250112100000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Finals</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112103000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Cardiff Half Marathon</title>
+    </programme>
+    <programme start="20250112103000 +0000" stop="20250112110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Abu Dhabi HSBC Championship</title>
+    </programme>
+    <programme start="20250112110000 +0000" stop="20250112113000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 8</title>
+    </programme>
+    <programme start="20250112113000 +0000" stop="20250112120000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly Highlights Episode 9</title>
+    </programme>
+    <programme start="20250112120000 +0000" stop="20250112133000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Hobart International (250) Finals</title>
+    </programme>
+    <programme start="20250112133000 +0000" stop="20250112150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Brisbane International presented by EVIE (500) Finals</title>
+    </programme>
+    <programme start="20250112150000 +0000" stop="20250112160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Cape to Cape - Australia</title>
     </programme>
-    <programme start="20250111020000 +0000" stop="20250111023000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Nedbank Golf Challenge</title>
-    </programme>
-    <programme start="20250111023000 +0000" stop="20250111040000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Adelaide International (500) SF 1</title>
+    <programme start="20250112160000 +0000" stop="20250112180000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Rd 1 - 2 (Robert Milkins v Pang Junxu)</title>
     </programme>
     <programme start="20250105000000 +0000" stop="20250105003000 +0000" channel="Sun TV.starhub">
         <title>Kalyana Malai</title>
@@ -24885,28 +24885,28 @@
     <programme start="20250107080000 +0000" stop="20250107121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M26 - Perth Scorchers vs Melbourne Renegades</title>
     </programme>
-    <programme start="20250107121500 +0000" stop="20250107201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250107121500 +0000" stop="20250107161500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
     </programme>
-    <programme start="20250107201500 +0000" stop="20250107220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250107161500 +0000" stop="20250107220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250107220000 +0000" stop="20250108000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250107220000 +0000" stop="20250108011500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250108000000 +0000" stop="20250108040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250108011500 +0000" stop="20250108042000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M18 - Hobart Hurricanes vs Sydney Sixers</title>
     </programme>
-    <programme start="20250108040000 +0000" stop="20250108080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250108042000 +0000" stop="20250108080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M22 - Perth Scorchers vs Sydney Thunder</title>
     </programme>
     <programme start="20250108080000 +0000" stop="20250108121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M27 - Sydney Thunder vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250108121500 +0000" stop="20250108201500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 4</title>
+    <programme start="20250108121500 +0000" stop="20250108194500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 4</title>
     </programme>
-    <programme start="20250108201500 +0000" stop="20250108220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250108194500 +0000" stop="20250108220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250108220000 +0000" stop="20250109000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24921,10 +24921,10 @@
     <programme start="20250109080000 +0000" stop="20250109121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M28 - Melbourne Stars vs Sydney Sixers</title>
     </programme>
-    <programme start="20250109121500 +0000" stop="20250109201500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 5</title>
+    <programme start="20250109121500 +0000" stop="20250109164000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 4th Test - Day 5</title>
     </programme>
-    <programme start="20250109201500 +0000" stop="20250109220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250109164000 +0000" stop="20250109220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250109220000 +0000" stop="20250110000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24939,10 +24939,10 @@
     <programme start="20250110080000 +0000" stop="20250110121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
-    <programme start="20250110121500 +0000" stop="20250110194500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 4th Test - Day 4</title>
+    <programme start="20250110121500 +0000" stop="20250110191000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
     </programme>
-    <programme start="20250110194500 +0000" stop="20250110220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250110191000 +0000" stop="20250110220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110220000 +0000" stop="20250111013000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24954,10 +24954,10 @@
     <programme start="20250111053000 +0000" stop="20250111094500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
     </programme>
-    <programme start="20250111094500 +0000" stop="20250111164000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 4th Test - Day 5</title>
+    <programme start="20250111094500 +0000" stop="20250111164500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 2</title>
     </programme>
-    <programme start="20250111164000 +0000" stop="20250111220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250111164500 +0000" stop="20250111220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250112000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24972,10 +24972,10 @@
     <programme start="20250112080000 +0000" stop="20250112121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
     </programme>
-    <programme start="20250112121500 +0000" stop="20250112191000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
+    <programme start="20250112121500 +0000" stop="20250112161500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
     </programme>
-    <programme start="20250112191000 +0000" stop="20250112220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250112161500 +0000" stop="20250112220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250113001500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24990,10 +24990,10 @@
     <programme start="20250113081500 +0000" stop="20250113123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
     </programme>
-    <programme start="20250113123000 +0000" stop="20250113203000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 2</title>
+    <programme start="20250113123000 +0000" stop="20250113164500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M01 - Chennai Super Kings vs Royal Challengers</title>
     </programme>
-    <programme start="20250113203000 +0000" stop="20250113220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250113164500 +0000" stop="20250113220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250114001500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25008,10 +25008,10 @@
     <programme start="20250114081500 +0000" stop="20250114123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
     </programme>
-    <programme start="20250114123000 +0000" stop="20250114203000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
+    <programme start="20250114123000 +0000" stop="20250114165500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M02 - Punjab Kings vs Dehli Capitals</title>
     </programme>
-    <programme start="20250114203000 +0000" stop="20250114220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250114165500 +0000" stop="20250114220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250115001500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25026,10 +25026,10 @@
     <programme start="20250115081500 +0000" stop="20250115123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M35 - Adelaide Strikers vs Sydney Sixers</title>
     </programme>
-    <programme start="20250115123000 +0000" stop="20250115203000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 4</title>
+    <programme start="20250115123000 +0000" stop="20250115170500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M03 - Kolkata Knight Riders vs Sunrisers Hydera</title>
     </programme>
-    <programme start="20250115203000 +0000" stop="20250115220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250115170500 +0000" stop="20250115220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250116001500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25044,10 +25044,10 @@
     <programme start="20250116081500 +0000" stop="20250116123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M36 - Brisbane Heat vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250116123000 +0000" stop="20250116203000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 5</title>
+    <programme start="20250116123000 +0000" stop="20250116170500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M04 - Rajasthan Royals v Lucknow Super Giants</title>
     </programme>
-    <programme start="20250116203000 +0000" stop="20250116220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250116170500 +0000" stop="20250116220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250117000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25062,14 +25062,14 @@
     <programme start="20250117080000 +0000" stop="20250117121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M37 - Sydney Sixers vs Sydney Thunder</title>
     </programme>
-    <programme start="20250117121500 +0000" stop="20250117201500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 1</title>
+    <programme start="20250117121500 +0000" stop="20250117164500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M05 - Gujarat Titans v Mumbai Indians</title>
     </programme>
-    <programme start="20250117201500 +0000" stop="20250117220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250117164500 +0000" stop="20250117214500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250117220000 +0000" stop="20250118014500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
+    <programme start="20250117214500 +0000" stop="20250118014500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M28 - Melbourne Stars vs Sydney Sixers</title>
     </programme>
     <programme start="20250118014500 +0000" stop="20250118054500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
@@ -25077,17 +25077,20 @@
     <programme start="20250118054500 +0000" stop="20250118100000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M38 - Melbourne Renegades vs Brisbane Heat</title>
     </programme>
-    <programme start="20250118100000 +0000" stop="20250118180000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>India Tour of Australia 2024-25: 5th Test - Day 2</title>
+    <programme start="20250118100000 +0000" stop="20250118142500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M06 - Royal Challengers Bengaluru vs Punjab Kin</title>
     </programme>
-    <programme start="20250118180000 +0000" stop="20250118220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250118142500 +0000" stop="20250118190500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M07 - Chennai Super Kings vs Gujarat Titans</title>
+    </programme>
+    <programme start="20250118190500 +0000" stop="20250118220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250118220000 +0000" stop="20250119000000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250119000000 +0000" stop="20250119040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M28 - Melbourne Stars vs Sydney Sixers</title>
+        <title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
     <programme start="20250119040000 +0000" stop="20250119080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
@@ -25095,7 +25098,10 @@
     <programme start="20250119080000 +0000" stop="20250119121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M40 - Melbourne Stars vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250119121500 +0000" stop="20250119201500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250119121500 +0000" stop="20250119164500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M08 - Sunrisers Hyderabad vs Mumbai Indians</title>
+    </programme>
+    <programme start="20250119164500 +0000" stop="20250119201500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>India Tour of Australia 2024-25: 5th Test - Day 3</title>
     </programme>
     <programme start="20250105000000 +0000" stop="20250105010000 +0000" channel="TVB Xing He.starhub">
@@ -30720,7 +30726,13 @@
     <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250111040000 +0000" stop="20250111050000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250111050000 +0000" stop="20250111080000 +0000" channel="Hub Sports 7.starhub">
+        <title>Webex Players Series Perth Round 3</title>
+    </programme>
+    <programme start="20250111080000 +0000" stop="20250111100000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111100000 +0000" stop="20250111115000 +0000" channel="Hub Sports 7.starhub">
@@ -30744,10 +30756,13 @@
     <programme start="20250111200000 +0000" stop="20250111220000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250111220000 +0000" stop="20250112030000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250112040000 +0000" stop="20250112100000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250112030000 +0000" stop="20250112080000 +0000" channel="Hub Sports 7.starhub">
+        <title>Webex Players Series Perth Round 4</title>
+    </programme>
+    <programme start="20250112080000 +0000" stop="20250112100000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112145000 +0000" channel="Hub Sports 7.starhub">
@@ -30831,34 +30846,64 @@
     <programme start="20250106220000 +0000" stop="20250107003000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250107003000 +0000" stop="20250107063000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Day 2 Session 1</title>
+    </programme>
+    <programme start="20250107063000 +0000" stop="20250107093000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250107100000 +0000" stop="20250107160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250107093000 +0000" stop="20250107113000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Day 2 Session 2</title>
+    </programme>
+    <programme start="20250107113000 +0000" stop="20250107160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250107220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250107220000 +0000" stop="20250108040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250107220000 +0000" stop="20250108003000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250108040000 +0000" stop="20250108100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250108003000 +0000" stop="20250108043000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Rd 16 Session 1</title>
+    </programme>
+    <programme start="20250108043000 +0000" stop="20250108083000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Rd 16 Session 2</title>
+    </programme>
+    <programme start="20250108083000 +0000" stop="20250108093000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250108100000 +0000" stop="20250108160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250108093000 +0000" stop="20250108113000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Rd 16 Session 3</title>
+    </programme>
+    <programme start="20250108113000 +0000" stop="20250108160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250108160000 +0000" stop="20250108220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250108220000 +0000" stop="20250109040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250108220000 +0000" stop="20250109003000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250109040000 +0000" stop="20250109100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250109003000 +0000" stop="20250109023000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) QF 1</title>
+    </programme>
+    <programme start="20250109023000 +0000" stop="20250109033000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250109100000 +0000" stop="20250109160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250109033000 +0000" stop="20250109053000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) QF 2</title>
+    </programme>
+    <programme start="20250109053000 +0000" stop="20250109070000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250109070000 +0000" stop="20250109093000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) QF 3</title>
+    </programme>
+    <programme start="20250109093000 +0000" stop="20250109113000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) QF 4</title>
+    </programme>
+    <programme start="20250109113000 +0000" stop="20250109160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250109160000 +0000" stop="20250109193500 +0000" channel="Hub Sports 6.starhub">
@@ -30870,11 +30915,17 @@
     <programme start="20250109214500 +0000" stop="20250109220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250109220000 +0000" stop="20250110040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250109220000 +0000" stop="20250110033000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250110040000 +0000" stop="20250110100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250110033000 +0000" stop="20250110053000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) SF 1</title>
+    </programme>
+    <programme start="20250110053000 +0000" stop="20250110080000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250110080000 +0000" stop="20250110100000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) SF 2</title>
     </programme>
     <programme start="20250110100000 +0000" stop="20250110160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
@@ -30891,13 +30942,13 @@
     <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111040000 +0000" stop="20250111050000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250111040000 +0000" stop="20250111053000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111050000 +0000" stop="20250111080000 +0000" channel="Hub Sports 6.starhub">
-        <title>Webex Players Series Perth Round 3</title>
+    <programme start="20250111053000 +0000" stop="20250111073000 +0000" channel="Hub Sports 6.starhub">
+        <title>Adelaide International (500) Finals</title>
     </programme>
-    <programme start="20250111080000 +0000" stop="20250111100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250111073000 +0000" stop="20250111100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111100000 +0000" stop="20250111115000 +0000" channel="Hub Sports 6.starhub">
@@ -30918,14 +30969,17 @@
     <programme start="20250111173500 +0000" stop="20250111194500 +0000" channel="Hub Sports 6.starhub">
         <title>R3: Leeds United vs Harrogate Town</title>
     </programme>
-    <programme start="20250111194500 +0000" stop="20250111220000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250111194500 +0000" stop="20250111213000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250112030000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
+    <programme start="20250111213000 +0000" stop="20250112010000 +0000" channel="Hub Sports 6.starhub">
+        <title>AFC Wild Card: Los Angeles Chargers vs Houston Texans</title>
     </programme>
-    <programme start="20250112030000 +0000" stop="20250112080000 +0000" channel="Hub Sports 6.starhub">
-        <title>Webex Players Series Perth Round 4</title>
+    <programme start="20250112010000 +0000" stop="20250112043000 +0000" channel="Hub Sports 6.starhub">
+        <title>AFC Wild Card: Pittsburgh Steelers vs Baltimore Ravens</title>
+    </programme>
+    <programme start="20250112043000 +0000" stop="20250112080000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250112080000 +0000" stop="20250112100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
