@@ -594,50 +594,113 @@
     <programme start="20250106160000 +0000" stop="20250107160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 18th January, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Geylang International</title>
     </programme>
-    <programme start="20250105160000 +0000" stop="20250105180000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250105160000 +0000" stop="20250105170000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed!</title>
     </programme>
-    <programme start="20250105180000 +0000" stop="20250105220000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems!</title>
+    <programme start="20250105170000 +0000" stop="20250105180000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s One-Hit-Wonders! Top 10</title>
+    </programme>
+    <programme start="20250105180000 +0000" stop="20250105194500 +0000" channel="now-80s.mewatch">
+        <title>Favorite Singers With Nick Heyward</title>
+    </programme>
+    <programme start="20250105194500 +0000" stop="20250105200000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250105200000 +0000" stop="20250105220000 +0000" channel="now-80s.mewatch">
+        <title>Now That&#039;s What I Call A Musical!</title>
     </programme>
     <programme start="20250105220000 +0000" stop="20250105230000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+        <title>1981 Unleashed!</title>
     </programme>
     <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+        <title>Mark Goodier&#039;s No.2s Of 1982</title>
     </programme>
-    <programme start="20250106000000 +0000" stop="20250106040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250106000000 +0000" stop="20250106030000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1982</title>
     </programme>
-    <programme start="20250106040000 +0000" stop="20250106050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250106030000 +0000" stop="20250106040000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1982</title>
     </programme>
-    <programme start="20250106050000 +0000" stop="20250106100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250106040000 +0000" stop="20250106044500 +0000" channel="now-80s.mewatch">
+        <title>1982&#039;s One-Hit-Wonders! Top 10</title>
     </programme>
-    <programme start="20250106100000 +0000" stop="20250106110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250106044500 +0000" stop="20250106050000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1982!</title>
     </programme>
-    <programme start="20250106110000 +0000" stop="20250106120000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250106050000 +0000" stop="20250106060000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s US No.1s Of 1982</title>
     </programme>
-    <programme start="20250106120000 +0000" stop="20250106180000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies!</title>
+    <programme start="20250106060000 +0000" stop="20250106070000 +0000" channel="now-80s.mewatch">
+        <title>The 1982 Power Hour!</title>
+    </programme>
+    <programme start="20250106070000 +0000" stop="20250106080000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1982!</title>
+    </programme>
+    <programme start="20250106080000 +0000" stop="20250106100000 +0000" channel="now-80s.mewatch">
+        <title>The Best 1982 Party - Ever!</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106103000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates New Golden Hour: 1982</title>
+    </programme>
+    <programme start="20250106103000 +0000" stop="20250106113000 +0000" channel="now-80s.mewatch">
+        <title>Favorite Singers With Nick Heyward</title>
+    </programme>
+    <programme start="20250106113000 +0000" stop="20250106120000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1982!</title>
+    </programme>
+    <programme start="20250106120000 +0000" stop="20250106150000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1982</title>
+    </programme>
+    <programme start="20250106150000 +0000" stop="20250106170000 +0000" channel="now-80s.mewatch">
+        <title>Love At The Movies! With Pat Sharp</title>
     </programme>
     <programme start="20250105100000 +0000" stop="20250105170000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250105170000 +0000" stop="20250105220000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250105170000 +0000" stop="20250105172500 +0000" channel="now-70s.mewatch">
+        <title>60s V 70s Mixtape!</title>
     </programme>
-    <programme start="20250105220000 +0000" stop="20250105230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250105172500 +0000" stop="20250105193000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Swinging 60s!</title>
     </programme>
-    <programme start="20250105230000 +0000" stop="20250106000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250105193000 +0000" stop="20250105202500 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
     </programme>
-    <programme start="20250106000000 +0000" stop="20250106195900 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250105202500 +0000" stop="20250105220000 +0000" channel="now-70s.mewatch">
+        <title>Groovy Little Numbers! Top 25</title>
+    </programme>
+    <programme start="20250105220000 +0000" stop="20250106000000 +0000" channel="now-70s.mewatch">
+        <title>Bruno&#039;s Can You Believe It?!</title>
+    </programme>
+    <programme start="20250106000000 +0000" stop="20250106023000 +0000" channel="now-70s.mewatch">
+        <title>Every Abba Video - Ever!</title>
+    </programme>
+    <programme start="20250106023000 +0000" stop="20250106030000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco!</title>
+    </programme>
+    <programme start="20250106030000 +0000" stop="20250106055000 +0000" channel="now-70s.mewatch">
+        <title>40 Biggest Pop Groups Of The 70s!</title>
+    </programme>
+    <programme start="20250106055000 +0000" stop="20250106060000 +0000" channel="now-70s.mewatch">
+        <title>1975 Unleashed!</title>
+    </programme>
+    <programme start="20250106060000 +0000" stop="20250106090000 +0000" channel="now-70s.mewatch">
+        <title>50 Years Ago! 1975 Revisited</title>
+    </programme>
+    <programme start="20250106090000 +0000" stop="20250106103000 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Take On 70s Fashion!</title>
+    </programme>
+    <programme start="20250106103000 +0000" stop="20250106113000 +0000" channel="now-70s.mewatch">
+        <title>60s V 70s Mixtape!</title>
+    </programme>
+    <programme start="20250106113000 +0000" stop="20250106124500 +0000" channel="now-70s.mewatch">
+        <title>Really? Only 1 Week At No.1?</title>
+    </programme>
+    <programme start="20250106124500 +0000" stop="20250106130000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
+    </programme>
+    <programme start="20250106130000 +0000" stop="20250106160500 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 40 Of The 70s</title>
     </programme>
     <programme start="20250105160000 +0000" stop="20250105220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

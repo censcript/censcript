@@ -48,7 +48,7 @@
     <programme start="20250110163000 +0000" stop="20250110170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
-    <programme start="20250110193500 +0000" stop="20250110224500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250110193500 +0000" stop="20250110225500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Wycombe v Portsmouth</title>
     </programme>
     <programme start="20250110195000 +0000" stop="20250110231000 +0000" channel="Optus Sport 3.optus">
@@ -66,10 +66,10 @@
     <programme start="20250111120500 +0000" stop="20250111152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Liverpool v Accrington Stanley</title>
     </programme>
-    <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Leicester City v QPR</title>
     </programme>
-    <programme start="20250111145000 +0000" stop="20250111171000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Sunderland v Stoke</title>
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 2.optus">
