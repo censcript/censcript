@@ -14724,6 +14724,9 @@
     <programme start="20250106213000 +0000" stop="20250107013000 +0000" channel="SPOTV.starhub">
         <title>Day 14 - Day Session</title>
     </programme>
+    <programme start="20250107013000 +0000" stop="20250107043000 +0000" channel="SPOTV.starhub">
+        <title>Year Review</title>
+    </programme>
     <programme start="20250107043000 +0000" stop="20250107053000 +0000" channel="SPOTV.starhub">
         <title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
     </programme>
@@ -14760,17 +14763,26 @@
     <programme start="20250108043000 +0000" stop="20250108063000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
     </programme>
-    <programme start="20250108063000 +0000" stop="20250108160000 +0000" channel="SPOTV.starhub">
-        <title>Eye Level Cups - Day 1 Semifinals</title>
+    <programme start="20250108063000 +0000" stop="20250108133000 +0000" channel="SPOTV.starhub">
+        <title>Round 10 Race 20</title>
+    </programme>
+    <programme start="20250108133000 +0000" stop="20250108140000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Jorge Martin</title>
+    </programme>
+    <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="SPOTV.starhub">
+        <title>Highlights Part 1</title>
+    </programme>
+    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="SPOTV.starhub">
+        <title>Highlights Part 2</title>
     </programme>
     <programme start="20250108160000 +0000" stop="20250108180000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
     </programme>
-    <programme start="20250108180000 +0000" stop="20250109000000 +0000" channel="SPOTV.starhub">
-        <title>Eye Level Cups - Day 2 Finals</title>
+    <programme start="20250108180000 +0000" stop="20250108223000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Showdown</title>
     </programme>
-    <programme start="20250109000000 +0000" stop="20250109003000 +0000" channel="SPOTV.starhub">
-        <title>MotoGP 2024 Spotlight: Ducati 100 Wins</title>
+    <programme start="20250108223000 +0000" stop="20250109003000 +0000" channel="SPOTV.starhub">
+        <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
     </programme>
     <programme start="20250109003000 +0000" stop="20250109023000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 1: Atlanta vs Salt Lake</title>
@@ -14820,11 +14832,14 @@
     <programme start="20250110070000 +0000" stop="20250110090000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Taawoun vs Al Qadsiah</title>
     </programme>
-    <programme start="20250110090000 +0000" stop="20250110110000 +0000" channel="SPOTV.starhub">
-        <title>Suhandinata Cup - Semi Final 1</title>
+    <programme start="20250110090000 +0000" stop="20250110100000 +0000" channel="SPOTV.starhub">
+        <title>Preview</title>
     </programme>
-    <programme start="20250110110000 +0000" stop="20250110140000 +0000" channel="SPOTV.starhub">
-        <title>Suhandinata Cup - Semi Final 2</title>
+    <programme start="20250110100000 +0000" stop="20250110133000 +0000" channel="SPOTV.starhub">
+        <title>Sanlam Cape Town Marathon 2024</title>
+    </programme>
+    <programme start="20250110133000 +0000" stop="20250110140000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: 2025 Grid Activity</title>
     </programme>
     <programme start="20250110140000 +0000" stop="20250110143000 +0000" channel="SPOTV.starhub">
         <title>MotoGP 2024 Spotlight: MotoGP Celebrates 75th</title>
@@ -14890,7 +14905,7 @@
         <title>Race</title>
     </programme>
     <programme start="20250111213000 +0000" stop="20250112003000 +0000" channel="SPOTV.starhub">
-        <title>Group 1</title>
+        <title>Year Review</title>
     </programme>
     <programme start="20250112003000 +0000" stop="20250112023000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
@@ -27759,10 +27774,10 @@
     <programme start="20250108060500 +0000" stop="20250108070000 +0000" channel="Hub VVDrama.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250108070000 +0000" stop="20250108081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250108070000 +0000" stop="20250108081000 +0000" channel="Hub VVDrama.starhub">
         <title>Kill Heel</title>
     </programme>
-    <programme start="20250108081500 +0000" stop="20250108090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250108081000 +0000" stop="20250108090000 +0000" channel="Hub VVDrama.starhub">
         <title>Shining Just for You</title>
     </programme>
     <programme start="20250108090000 +0000" stop="20250108094500 +0000" channel="Hub VVDrama.starhub">
