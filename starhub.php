@@ -30315,10 +30315,10 @@
     <programme start="20250108060500 +0000" stop="20250108070000 +0000" channel="TestChannel2.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250108070000 +0000" stop="20250108081500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250108070000 +0000" stop="20250108081000 +0000" channel="TestChannel2.starhub">
         <title>Kill Heel</title>
     </programme>
-    <programme start="20250108081500 +0000" stop="20250108090000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250108081000 +0000" stop="20250108090000 +0000" channel="TestChannel2.starhub">
         <title>Shining Just for You</title>
     </programme>
     <programme start="20250108090000 +0000" stop="20250108094500 +0000" channel="TestChannel2.starhub">
@@ -30828,7 +30828,7 @@
     <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250106220000 +0000" stop="20250107003000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250107040000 +0000" stop="20250107100000 +0000" channel="Hub Sports 6.starhub">
