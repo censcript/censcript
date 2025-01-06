@@ -28545,6 +28545,18 @@
     <programme start="20250116100000 +0000" stop="20250116160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250116160300 +0000" stop="20250116220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250105000000 +0000" stop="20250105001000 +0000" channel="HBO Family HD.starhub">
         <title>The Chupaca-Bro</title>
     </programme>
@@ -32701,6 +32713,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250116100000 +0000" stop="20250116160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117040000 +0000" stop="20250117100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250117100000 +0000" stop="20250117160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250104232000 +0000" stop="20250105073000 +0000" channel="Hub Sports 5 HD.starhub">
