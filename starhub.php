@@ -21481,13 +21481,16 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250106001000 +0000" stop="20250106002300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Program</title>
+        <title>Biz Stream Special Edition</title>
     </programme>
     <programme start="20250106002300 +0000" stop="20250106003000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Chatroom Japan</title>
     </programme>
-    <programme start="20250106003000 +0000" stop="20250106010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250106003000 +0000" stop="20250106005700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Where We Call Home</title>
+    </programme>
+    <programme start="20250106005700 +0000" stop="20250106010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Yonezawa: &quot;Beni,&quot; Japanese Red</title>
     </programme>
     <programme start="20250106010000 +0000" stop="20250106011000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -21526,16 +21529,13 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250106031500 +0000" stop="20250106033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Program</title>
+        <title>Biz Stream Special Edition</title>
     </programme>
     <programme start="20250106033000 +0000" stop="20250106040000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Cycle Around Japan Highlights</title>
     </programme>
     <programme start="20250106040000 +0000" stop="20250106041500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250106041500 +0000" stop="20250106043000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Program</title>
     </programme>
     <programme start="20250104231500 +0000" stop="20250105011000 +0000" channel="HBO Hits HD.starhub">
         <title>Tomb Raider</title>
