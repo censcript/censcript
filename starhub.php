@@ -6345,8 +6345,8 @@
     <programme start="20250107233000 +0000" stop="20250108000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 3 (18 Dec Games)</title>
     </programme>
-    <programme start="20250108000000 +0000" stop="20250108010000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>4 Hours of Sepang Race 2</title>
+    <programme start="20250108000000 +0000" stop="20250108003000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1227</title>
     </programme>
     <programme start="20250108010000 +0000" stop="20250108050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Hobart International (250) Rd 16 Session 1</title>
@@ -15937,7 +15937,7 @@
         <title>The Bahamas Golf Classic at Atlantis Paradise Island Round 2</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114133000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Unfiltered at the DP World Tour Championship</title>
+        <title>Team Cup</title>
     </programme>
     <programme start="20250114133000 +0000" stop="20250114143000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Sentry</title>
@@ -16030,7 +16030,7 @@
         <title>Episode 3</title>
     </programme>
     <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Unfiltered at the DP World Tour Championship</title>
+        <title>Team Cup</title>
     </programme>
     <programme start="20250118060000 +0000" stop="20250118070000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>International Series Thailand</title>
@@ -17941,10 +17941,10 @@
         <title>Comedy Galatta</title>
     </programme>
     <programme start="20250108050000 +0000" stop="20250108080000 +0000" channel="Vannathirai.starhub">
-        <title>Mounam Sammatham</title>
+        <title>Mani Osai</title>
     </programme>
     <programme start="20250108080000 +0000" stop="20250108110000 +0000" channel="Vannathirai.starhub">
-        <title>Ellaisamy</title>
+        <title>Ellaikkodu</title>
     </programme>
     <programme start="20250108110000 +0000" stop="20250108113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
@@ -29496,8 +29496,8 @@
     <programme start="20250107233000 +0000" stop="20250108000000 +0000" channel="TestChannel 995.starhub">
         <title>Episode 3 (18 Dec Games)</title>
     </programme>
-    <programme start="20250108000000 +0000" stop="20250108010000 +0000" channel="TestChannel 995.starhub">
-        <title>4 Hours of Sepang Race 2</title>
+    <programme start="20250108000000 +0000" stop="20250108003000 +0000" channel="TestChannel 995.starhub">
+        <title>#1227</title>
     </programme>
     <programme start="20250108010000 +0000" stop="20250108050000 +0000" channel="TestChannel 995.starhub">
         <title>Hobart International (250) Rd 16 Session 1</title>
