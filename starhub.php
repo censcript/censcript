@@ -11112,14 +11112,11 @@
     <programme start="20250107233000 +0000" stop="20250108010000 +0000" channel="beIN Sports HD.starhub">
         <title>Women&#039;s EHF Euro 2024: Montenegro vs Poland</title>
     </programme>
-    <programme start="20250108010000 +0000" stop="20250108013000 +0000" channel="beIN Sports HD.starhub">
-        <title>This Is Paris 2024/25</title>
-    </programme>
-    <programme start="20250108013000 +0000" stop="20250108020000 +0000" channel="beIN Sports HD.starhub">
-        <title>Special Edition II</title>
+    <programme start="20250108010000 +0000" stop="20250108020000 +0000" channel="beIN Sports HD.starhub">
+        <title>TGL 2025: Preview Show</title>
     </programme>
     <programme start="20250108020000 +0000" stop="20250108040000 +0000" channel="beIN Sports HD.starhub">
-        <title>The Golf League 2025: New York Golf Club vs The Bay Golf Club (Live)</title>
+        <title>TGL 2025: New York Golf Club vs The Bay Golf Club (Live)</title>
     </programme>
     <programme start="20250108040000 +0000" stop="20250108043000 +0000" channel="beIN Sports HD.starhub">
         <title>January</title>
@@ -11143,7 +11140,7 @@
         <title>LaLiga World 2024/25</title>
     </programme>
     <programme start="20250108120000 +0000" stop="20250108163000 +0000" channel="beIN Sports HD.starhub">
-        <title>United Cup 2025: Day 10 Final</title>
+        <title>United Cup 2025: Day 10 Final USA v Poland</title>
     </programme>
     <programme start="20250108163000 +0000" stop="20250108170000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga World 2024/25</title>
@@ -11161,7 +11158,7 @@
         <title>Conquering Mont-Blanc - the path to UTMB</title>
     </programme>
     <programme start="20250108193000 +0000" stop="20250109000000 +0000" channel="beIN Sports HD.starhub">
-        <title>United Cup 2025: Day 10 Final</title>
+        <title>United Cup 2025: Day 10 Final USA v Poland</title>
     </programme>
     <programme start="20250109000000 +0000" stop="20250109020000 +0000" channel="beIN Sports HD.starhub">
         <title>Australian Open Qualifying 2025: Match 1 (Live)</title>
@@ -11309,6 +11306,9 @@
     </programme>
     <programme start="20250111010000 +0000" stop="20250111015000 +0000" channel="beIN Sports HD.starhub">
         <title>Lifeblood: Climbing the Mountain</title>
+    </programme>
+    <programme start="20250111015000 +0000" stop="20250111034000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga 2024/25: Rayo Vallecano vs Celta Vigo</title>
     </programme>
     <programme start="20250106000000 +0000" stop="20250106010000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights In 60 Chris Arreola vs. Tomasz Adamek</title>
@@ -13108,7 +13108,7 @@
         <title>ATP Tour 250 2024: Belgrade Day 4 Marozsan v Lajovic</title>
     </programme>
     <programme start="20250110203000 +0000" stop="20250110220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Brisbane Final</title>
+        <title>ATP Tour 250 2024: Hong Kong Final Nishikori v Muller</title>
     </programme>
     <programme start="20250106000000 +0000" stop="20250106003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
@@ -29496,17 +29496,17 @@
     <programme start="20250108000000 +0000" stop="20250108003000 +0000" channel="TestChannel 995.starhub">
         <title>#1227</title>
     </programme>
+    <programme start="20250108003000 +0000" stop="20250108010000 +0000" channel="TestChannel 995.starhub">
+        <title>#517</title>
+    </programme>
     <programme start="20250108010000 +0000" stop="20250108050000 +0000" channel="TestChannel 995.starhub">
-        <title>Hobart International (250) Rd 16 Session 1</title>
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 2 Session 1 (Court 2)</title>
     </programme>
-    <programme start="20250108050000 +0000" stop="20250108070000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2024/25 Hong Kong Eastern vs Suwon KT Sonicboom</title>
+    <programme start="20250108050000 +0000" stop="20250108090000 +0000" channel="TestChannel 995.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 32 Day 2 Session 2 (Court 2)</title>
     </programme>
-    <programme start="20250108070000 +0000" stop="20250108073000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250108090000 +0000" stop="20250108093000 +0000" channel="TestChannel 995.starhub">
         <title>Episode 3 (18 Dec Games)</title>
-    </programme>
-    <programme start="20250108073000 +0000" stop="20250108093000 +0000" channel="TestChannel 995.starhub">
-        <title>Hobart International (250) Rd 16 Session 2</title>
     </programme>
     <programme start="20250108093000 +0000" stop="20250108100000 +0000" channel="TestChannel 995.starhub">
         <title>Saudi Rally Championship - Jeddah Rally Final Highlights</title>
@@ -29514,14 +29514,17 @@
     <programme start="20250108100000 +0000" stop="20250108120000 +0000" channel="TestChannel 995.starhub">
         <title>East Asia Super League 2024/25 Hiroshima Dragonflies vs San Miguel Beermen (Live</title>
     </programme>
-    <programme start="20250108120000 +0000" stop="20250108130000 +0000" channel="TestChannel 995.starhub">
-        <title>4 Hours of Imola: Highlights</title>
-    </programme>
-    <programme start="20250108130000 +0000" stop="20250108133000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250108120000 +0000" stop="20250108123000 +0000" channel="TestChannel 995.starhub">
         <title>FIA Middle East Bajas Cup - Dubai International Baja Day 3 Highlights</title>
     </programme>
+    <programme start="20250108123000 +0000" stop="20250108130000 +0000" channel="TestChannel 995.starhub">
+        <title>#517</title>
+    </programme>
+    <programme start="20250108130000 +0000" stop="20250108133000 +0000" channel="TestChannel 995.starhub">
+        <title>#1227</title>
+    </programme>
     <programme start="20250108133000 +0000" stop="20250108140000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 11 &amp; 12</title>
+        <title>Round 11</title>
     </programme>
     <programme start="20250108140000 +0000" stop="20250108160000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R11: Sydney FC vs Perth Glory</title>
@@ -29690,9 +29693,6 @@
     </programme>
     <programme start="20250111194500 +0000" stop="20250111200000 +0000" channel="TestChannel 995.starhub">
         <title>Week 18</title>
-    </programme>
-    <programme start="20250111200000 +0000" stop="20250111210000 +0000" channel="TestChannel 995.starhub">
-        <title>4 Hours of Sepang Race 1</title>
     </programme>
     <programme start="20250106000000 +0000" stop="20250106010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
