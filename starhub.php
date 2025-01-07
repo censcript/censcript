@@ -12874,43 +12874,43 @@
         <title>ATP Tour 250 2025: Auckland Day 2 Match 2</title>
     </programme>
     <programme start="20250107023000 +0000" stop="20250107043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 3</title>
+        <title>Auckland Day 2 Monfils v Martinez</title>
     </programme>
     <programme start="20250107043000 +0000" stop="20250107050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Medvedev v Hurkacz</title>
+        <title>Men&#039;s Singles QF Medvedev v Hurkacz</title>
     </programme>
     <programme start="20250107050000 +0000" stop="20250107053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Alcaraz v Zverev</title>
+        <title>Men&#039;s Singles QF Alcaraz v Zverev</title>
     </programme>
     <programme start="20250107053000 +0000" stop="20250107073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 4</title>
+        <title>Auckland Day 2 Mensik v Muller</title>
     </programme>
     <programme start="20250107073000 +0000" stop="20250107080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Classic: 1981 Women&#039;s Singles Final Evert v Navratilova</title>
+        <title>1981 Women&#039;s Singles Final Evert v Navratilova</title>
     </programme>
     <programme start="20250107080000 +0000" stop="20250107093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 1</title>
+        <title>Hong Kong Final Nishikori v Muller</title>
     </programme>
     <programme start="20250107093000 +0000" stop="20250107110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 2</title>
+        <title>Auckland Day 2 Norrie v Diaz Acosta</title>
     </programme>
     <programme start="20250107110000 +0000" stop="20250107123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 3</title>
+        <title>Auckland Day 2 Monfils v Martinez</title>
     </programme>
     <programme start="20250107123000 +0000" stop="20250107140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Auckland Day 2 Match 4</title>
+        <title>Auckland Day 2 Mensik v Muller</title>
     </programme>
     <programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Djokovic v Fritz</title>
+        <title>Men&#039;s Singles QF Djokovic v Fritz</title>
     </programme>
     <programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Sinner v Rublev</title>
+        <title>Men&#039;s Singles QF Sinner v Rublev</title>
     </programme>
     <programme start="20250107150000 +0000" stop="20250107153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Medvedev v Hurkacz</title>
+        <title>Men&#039;s Singles QF Medvedev v Hurkacz</title>
     </programme>
     <programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2024: Men&#039;s Singles QF Alcaraz v Zverev</title>
+        <title>Men&#039;s Singles QF Alcaraz v Zverev</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250107173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Belgrade Day 1 Nakashima v Medjedovic</title>
