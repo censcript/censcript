@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20250107170000 +0000" stop="20250107173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Match Officials Mic&#039;d Up</title>
     </programme>
