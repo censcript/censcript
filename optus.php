@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250107020000 +0000" stop="20250107023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250107090000 +0000" stop="20250107100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Stiliyan Petrov</title>
     </programme>
