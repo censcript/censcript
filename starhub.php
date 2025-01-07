@@ -4984,7 +4984,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250106233000 +0000" stop="20250107000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Cocaine Wars - Germany&#039;s Fight Against Drug Gangs</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4993,7 +4993,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250107003000 +0000" stop="20250107010000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When technology and nature work hand in hand</title>
     </programme>
     <programme start="20250107010000 +0000" stop="20250107011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5014,10 +5014,10 @@
         <title>News</title>
     </programme>
     <programme start="20250107031500 +0000" stop="20250107033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why a city in Sweden filled these caves with almost boiling water</title>
     </programme>
     <programme start="20250107033000 +0000" stop="20250107040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Cocaine Wars - Germany&#039;s Fight Against Drug Gangs</title>
     </programme>
     <programme start="20250107040000 +0000" stop="20250107041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5032,16 +5032,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250107053000 +0000" stop="20250107060000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Changing weather, changing times</title>
     </programme>
     <programme start="20250107060000 +0000" stop="20250107061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250107061500 +0000" stop="20250107063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why a city in Sweden filled these caves with almost boiling water</title>
     </programme>
     <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Chemnitz: City of Contrasts</title>
     </programme>
     <programme start="20250107070000 +0000" stop="20250107073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5053,16 +5053,16 @@
         <title>News</title>
     </programme>
     <programme start="20250107083000 +0000" stop="20250107090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When technology and nature work hand in hand</title>
     </programme>
     <programme start="20250107090000 +0000" stop="20250107091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250107091500 +0000" stop="20250107094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Cocaine Wars - Germany&#039;s Fight Against Drug Gangs</title>
     </programme>
     <programme start="20250107094500 +0000" stop="20250107100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Matrimony or Bust?</title>
     </programme>
     <programme start="20250107100000 +0000" stop="20250107103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5074,31 +5074,31 @@
         <title>News</title>
     </programme>
     <programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Your amazing brain - Keeping it happy and healthy</title>
     </programme>
     <programme start="20250107120000 +0000" stop="20250107121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250107121500 +0000" stop="20250107124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Cocaine Wars - Germany&#039;s Fight Against Drug Gangs</title>
     </programme>
     <programme start="20250107124500 +0000" stop="20250107130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Identity theft: How secure is your personal data online?</title>
     </programme>
     <programme start="20250107130000 +0000" stop="20250107131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250107131500 +0000" stop="20250107133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Indonesia</title>
     </programme>
     <programme start="20250107133000 +0000" stop="20250107140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Changing weather, changing times</title>
     </programme>
     <programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Living in flooded homes: Climate change in the Philippines</title>
     </programme>
     <programme start="20250105220500 +0000" stop="20250106003000 +0000" channel="Asianet Movies.starhub">
         <title>Kabali</title>
