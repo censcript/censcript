@@ -14322,6 +14322,306 @@
     <programme start="20250108094000 +0000" stop="20250108100500 +0000" channel="HGTV.starhub">
         <title>Creating Christmas Memories In Mexico City</title>
     </programme>
+    <programme start="20250106000000 +0000" stop="20250106001500 +0000" channel="Cartoon Network.starhub">
+        <title>Feather Of The Bride/ Daffy Magician: Pick A Card/ Bugs Hole Gags 2: Rattlesnakes</title>
+    </programme>
+    <programme start="20250106001500 +0000" stop="20250106003000 +0000" channel="Cartoon Network.starhub">
+        <title>Peaceable Enemies/The Legend Of The Lemmings</title>
+    </programme>
+    <programme start="20250106003000 +0000" stop="20250106004500 +0000" channel="Cartoon Network.starhub">
+        <title>Skinny Monster/Stuck</title>
+    </programme>
+    <programme start="20250106004500 +0000" stop="20250106010000 +0000" channel="Cartoon Network.starhub">
+        <title>Tommy Appleseed/Me And My Big Foot</title>
+    </programme>
+    <programme start="20250106010000 +0000" stop="20250106013500 +0000" channel="Cartoon Network.starhub">
+        <title>Go!/Slumber Party/Finding Aquaman</title>
+    </programme>
+    <programme start="20250106013500 +0000" stop="20250106020000 +0000" channel="Cartoon Network.starhub">
+        <title>King Of The Chill</title>
+    </programme>
+    <programme start="20250106020000 +0000" stop="20250106030000 +0000" channel="Cartoon Network.starhub">
+        <title>Charlie Ball/Lord of the Poppies/The Mummy&#039;s Curse/Ranger Norm/Panda&#039;s Friend</title>
+    </programme>
+    <programme start="20250106030000 +0000" stop="20250106040000 +0000" channel="Cartoon Network.starhub">
+        <title>The Guy/The Signature/The Gift/The Recipe/The Puppy</title>
+    </programme>
+    <programme start="20250106040000 +0000" stop="20250106050000 +0000" channel="Cartoon Network.starhub">
+        <title>Stick It/Wanted/Artful Bean/The Visitor/The Big Freeze</title>
+    </programme>
+    <programme start="20250106050000 +0000" stop="20250106053500 +0000" channel="Cartoon Network.starhub">
+        <title>Tv Knight 8/Butter Wall/A Stickier Situation</title>
+    </programme>
+    <programme start="20250106053500 +0000" stop="20250106060000 +0000" channel="Cartoon Network.starhub">
+        <title>A Dangerous Game</title>
+    </programme>
+    <programme start="20250106060000 +0000" stop="20250106063000 +0000" channel="Cartoon Network.starhub">
+        <title>E-Rabbitcator</title>
+    </programme>
+    <programme start="20250106063000 +0000" stop="20250106070000 +0000" channel="Cartoon Network.starhub">
+        <title>Lamput &amp; The Ducklings/Stuck/The Siren&#039;s Song/The Split</title>
+    </programme>
+    <programme start="20250106070000 +0000" stop="20250106080000 +0000" channel="Cartoon Network.starhub">
+        <title>Folds And Folds Again</title>
+    </programme>
+    <programme start="20250106080000 +0000" stop="20250106083500 +0000" channel="Cartoon Network.starhub">
+        <title>Goldfish Follies/Attack the Block Party/Classroom</title>
+    </programme>
+    <programme start="20250106083500 +0000" stop="20250106090000 +0000" channel="Cartoon Network.starhub">
+        <title>King Of The Chill</title>
+    </programme>
+    <programme start="20250106090000 +0000" stop="20250106100000 +0000" channel="Cartoon Network.starhub">
+        <title>Stick It/Wanted/Artful Bean/The Visitor/The Big Freeze</title>
+    </programme>
+    <programme start="20250106100000 +0000" stop="20250106110000 +0000" channel="Cartoon Network.starhub">
+        <title>Charlie Ball/Lord of the Poppies/The Mummy&#039;s Curse/Ranger Norm/Panda&#039;s Friend</title>
+    </programme>
+    <programme start="20250106110000 +0000" stop="20250106120000 +0000" channel="Cartoon Network.starhub">
+        <title>The Guy/The Signature/The Gift/The Recipe/The Puppy</title>
+    </programme>
+    <programme start="20250106120000 +0000" stop="20250106123500 +0000" channel="Cartoon Network.starhub">
+        <title>Go!/Slumber Party/Finding Aquaman</title>
+    </programme>
+    <programme start="20250106123500 +0000" stop="20250106130000 +0000" channel="Cartoon Network.starhub">
+        <title>A Coconut To Remember/The Sea Monster Of Jellystone Cove</title>
+    </programme>
+    <programme start="20250106130000 +0000" stop="20250106133000 +0000" channel="Cartoon Network.starhub">
+        <title>Crossroads Carnival</title>
+    </programme>
+    <programme start="20250106133000 +0000" stop="20250106140000 +0000" channel="Cartoon Network.starhub">
+        <title>Mission Implausible</title>
+    </programme>
+    <programme start="20250106140000 +0000" stop="20250106150000 +0000" channel="Cartoon Network.starhub">
+        <title>Finn the Wizard/Heat Signature/Little Brother/The Real You/Tree Trunks</title>
+    </programme>
+    <programme start="20250106150000 +0000" stop="20250106160000 +0000" channel="Cartoon Network.starhub">
+        <title>Restaurant Wars/Kiki&#039;s Pizza Service Delivery/Monster Reunion/Mindful Education/Future Boy Zoltron</title>
+    </programme>
+    <programme start="20250106160000 +0000" stop="20250106170000 +0000" channel="Cartoon Network.starhub">
+        <title>Heatwave/Apple&#039;s In Charge/Microwave&#039;s Dance Club/All Work And No Play/Burger&#039;s Trampoline</title>
+    </programme>
+    <programme start="20250106170000 +0000" stop="20250106180000 +0000" channel="Cartoon Network.starhub">
+        <title>Death Bear/Muscle Woman/Temp Check/Sandwich Of Death/Quips</title>
+    </programme>
+    <programme start="20250106180000 +0000" stop="20250106190000 +0000" channel="Cartoon Network.starhub">
+        <title>Finn the Wizard/Heat Signature/Little Brother/The Real You/Tree Trunks</title>
+    </programme>
+    <programme start="20250106190000 +0000" stop="20250106200000 +0000" channel="Cartoon Network.starhub">
+        <title>Restaurant Wars/Kiki&#039;s Pizza Service Delivery/Monster Reunion/Mindful Education/Future Boy Zoltron</title>
+    </programme>
+    <programme start="20250106200000 +0000" stop="20250106210000 +0000" channel="Cartoon Network.starhub">
+        <title>Heatwave/Apple&#039;s In Charge/Microwave&#039;s Dance Club/All Work And No Play/Burger&#039;s Trampoline</title>
+    </programme>
+    <programme start="20250106210000 +0000" stop="20250106220000 +0000" channel="Cartoon Network.starhub">
+        <title>Brainlord/Lights Out!/Checkin&#039; Out!/Drama Bomb/Watch it!</title>
+    </programme>
+    <programme start="20250106220000 +0000" stop="20250106230000 +0000" channel="Cartoon Network.starhub">
+        <title>Lemming Gum</title>
+    </programme>
+    <programme start="20250106230000 +0000" stop="20250107000000 +0000" channel="Cartoon Network.starhub">
+        <title>Staff Meeting/Waffles/Artful Dodgers/Birds/Matched</title>
+    </programme>
+    <programme start="20250107000000 +0000" stop="20250107001500 +0000" channel="Cartoon Network.starhub">
+        <title>Auto Birdy Shop/ Daffy Traffic Cop Stop: Phone Booth/ Eyes Wide Fudd</title>
+    </programme>
+    <programme start="20250107001500 +0000" stop="20250107003000 +0000" channel="Cartoon Network.starhub">
+        <title>Dragons &amp; Bears/Bamboo Warfare</title>
+    </programme>
+    <programme start="20250107003000 +0000" stop="20250107004500 +0000" channel="Cartoon Network.starhub">
+        <title>Lamput Meets Tuzki/Boss&#039; Mom Ii</title>
+    </programme>
+    <programme start="20250107004500 +0000" stop="20250107010000 +0000" channel="Cartoon Network.starhub">
+        <title>Downsizing/Professor Meathead</title>
+    </programme>
+    <programme start="20250107010000 +0000" stop="20250107013500 +0000" channel="Cartoon Network.starhub">
+        <title>Whodundidit?/Serious Business/Sweet Revenge</title>
+    </programme>
+    <programme start="20250107013500 +0000" stop="20250107020000 +0000" channel="Cartoon Network.starhub">
+        <title>Out Of Cone-Trol</title>
+    </programme>
+    <programme start="20250107020000 +0000" stop="20250107030000 +0000" channel="Cartoon Network.starhub">
+        <title>Ranger Tabes/Ramen/Snake Babies/Fire!/Slumber Party</title>
+    </programme>
+    <programme start="20250107030000 +0000" stop="20250107040000 +0000" channel="Cartoon Network.starhub">
+        <title>The Boredom/The Apprentice/The Check/The Extras/The Gripes</title>
+    </programme>
+    <programme start="20250107040000 +0000" stop="20250107050000 +0000" channel="Cartoon Network.starhub">
+        <title>A Car For Irma/Keyboard Capers/Mime Games/Egg &amp; Bean/Coach Trip</title>
+    </programme>
+    <programme start="20250107050000 +0000" stop="20250107053500 +0000" channel="Cartoon Network.starhub">
+        <title>Winning A Golf Tournament Is The Solution To All Of Life&#039;s Money Problems</title>
+    </programme>
+    <programme start="20250107053500 +0000" stop="20250107060000 +0000" channel="Cartoon Network.starhub">
+        <title>Plastic Bottle Royale</title>
+    </programme>
+    <programme start="20250107060000 +0000" stop="20250107063000 +0000" channel="Cartoon Network.starhub">
+        <title>Shell-Shocked / Daffy Dentist/Tnt Trouble / Plumbers Quack</title>
+    </programme>
+    <programme start="20250107063000 +0000" stop="20250107070000 +0000" channel="Cartoon Network.starhub">
+        <title>Tall Tales/Boss&#039; Mom Ii/Boss&#039; Birthday/Dr Lamput</title>
+    </programme>
+    <programme start="20250107070000 +0000" stop="20250107080000 +0000" channel="Cartoon Network.starhub">
+        <title>Lemming Gum</title>
+    </programme>
+    <programme start="20250107080000 +0000" stop="20250107083500 +0000" channel="Cartoon Network.starhub">
+        <title>Suspended/Ice Cream Hunt/Jeff&#039;s Secret</title>
+    </programme>
+    <programme start="20250107083500 +0000" stop="20250107090000 +0000" channel="Cartoon Network.starhub">
+        <title>Out Of Cone-Trol</title>
+    </programme>
+    <programme start="20250107090000 +0000" stop="20250107100000 +0000" channel="Cartoon Network.starhub">
+        <title>A Car For Irma/Keyboard Capers/Mime Games/Egg &amp; Bean/Coach Trip</title>
+    </programme>
+    <programme start="20250107100000 +0000" stop="20250107110000 +0000" channel="Cartoon Network.starhub">
+        <title>Ranger Tabes/Ramen/Snake Babies/Fire!/Slumber Party</title>
+    </programme>
+    <programme start="20250107110000 +0000" stop="20250107120000 +0000" channel="Cartoon Network.starhub">
+        <title>The Boredom/The Apprentice/The Check/The Extras/The Gripes</title>
+    </programme>
+    <programme start="20250107120000 +0000" stop="20250107123500 +0000" channel="Cartoon Network.starhub">
+        <title>Whodundidit?/Serious Business/Sweet Revenge</title>
+    </programme>
+    <programme start="20250107123500 +0000" stop="20250107130000 +0000" channel="Cartoon Network.starhub">
+        <title>Grocery Store/Business</title>
+    </programme>
+    <programme start="20250107130000 +0000" stop="20250107133000 +0000" channel="Cartoon Network.starhub">
+        <title>Beyond Madness</title>
+    </programme>
+    <programme start="20250107133000 +0000" stop="20250107140000 +0000" channel="Cartoon Network.starhub">
+        <title>Grim Vengeance</title>
+    </programme>
+    <programme start="20250107140000 +0000" stop="20250107150000 +0000" channel="Cartoon Network.starhub">
+        <title>City of Thieves/Mortal Recoil/Ocarina/Death in Bloom/Business Time</title>
+    </programme>
+    <programme start="20250107150000 +0000" stop="20250107160000 +0000" channel="Cartoon Network.starhub">
+        <title>Alone At Sea/Greg The Babysitter/Gem Hunt/Onion Gang/Three Gems And A Baby</title>
+    </programme>
+    <programme start="20250107160000 +0000" stop="20250107170000 +0000" channel="Cartoon Network.starhub">
+        <title>Not Funny/Onionless/Drone Shoes/Walking On The Ceiling/Party Popper</title>
+    </programme>
+    <programme start="20250107170000 +0000" stop="20250107180000 +0000" channel="Cartoon Network.starhub">
+        <title>Diary/See You There/Do Me A Solid/Caveman/That&#039;s My Television</title>
+    </programme>
+    <programme start="20250107180000 +0000" stop="20250107190000 +0000" channel="Cartoon Network.starhub">
+        <title>City of Thieves/Mortal Recoil/Ocarina/Death in Bloom/Business Time</title>
+    </programme>
+    <programme start="20250107190000 +0000" stop="20250107200000 +0000" channel="Cartoon Network.starhub">
+        <title>Alone At Sea/Greg The Babysitter/Gem Hunt/Onion Gang/Three Gems And A Baby</title>
+    </programme>
+    <programme start="20250107200000 +0000" stop="20250107210000 +0000" channel="Cartoon Network.starhub">
+        <title>Not Funny/Onionless/Drone Shoes/Walking On The Ceiling/Party Popper</title>
+    </programme>
+    <programme start="20250107210000 +0000" stop="20250107220000 +0000" channel="Cartoon Network.starhub">
+        <title>The Oct-Father/Map Up 4: The Donnyest Game/Mojo The Great/Aliver/The Long Skate Home</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250107230000 +0000" channel="Cartoon Network.starhub">
+        <title>Electro Ranger Lemming</title>
+    </programme>
+    <programme start="20250107230000 +0000" stop="20250108000000 +0000" channel="Cartoon Network.starhub">
+        <title>The Left Leg/Brain Food/Lazy Sunday/Little Buddies/Staring at the Future</title>
+    </programme>
+    <programme start="20250108000000 +0000" stop="20250108001500 +0000" channel="Cartoon Network.starhub">
+        <title>Funny Book Bunny/ Balloon Salesman: All The Balloons/ Kitty Krashers</title>
+    </programme>
+    <programme start="20250108001500 +0000" stop="20250108003000 +0000" channel="Cartoon Network.starhub">
+        <title>Bear In The Clouds/Umbrella Tactics</title>
+    </programme>
+    <programme start="20250108003000 +0000" stop="20250108004500 +0000" channel="Cartoon Network.starhub">
+        <title>Jamput/The Little Ghost Prince</title>
+    </programme>
+    <programme start="20250108004500 +0000" stop="20250108010000 +0000" channel="Cartoon Network.starhub">
+        <title>Disappearing Tom/Dry Hard</title>
+    </programme>
+    <programme start="20250108010000 +0000" stop="20250108013500 +0000" channel="Cartoon Network.starhub">
+        <title>Porch Pirates/Boys Vs. Girls/A Sticky Situation</title>
+    </programme>
+    <programme start="20250108013500 +0000" stop="20250108020000 +0000" channel="Cartoon Network.starhub">
+        <title>The Arsonist</title>
+    </programme>
+    <programme start="20250108020000 +0000" stop="20250108030000 +0000" channel="Cartoon Network.starhub">
+        <title>Cellie/Bubble/Cousin Jon/Tunnels/Rooms</title>
+    </programme>
+    <programme start="20250108030000 +0000" stop="20250108040000 +0000" channel="Cartoon Network.starhub">
+        <title>The Code/The Pest/The Routine/The Vacation/The Fraud</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108050000 +0000" channel="Cartoon Network.starhub">
+        <title>Game Over/A Grand Invitation/No Pets/Supermarrow/For Sale</title>
+    </programme>
+    <programme start="20250108050000 +0000" stop="20250108053500 +0000" channel="Cartoon Network.starhub">
+        <title>Easter Annihilation/Real Art/Arthur</title>
+    </programme>
+    <programme start="20250108053500 +0000" stop="20250108060000 +0000" channel="Cartoon Network.starhub">
+        <title>The Destar Prix Race</title>
+    </programme>
+    <programme start="20250108060000 +0000" stop="20250108063000 +0000" channel="Cartoon Network.starhub">
+        <title>Key-Tastrophe</title>
+    </programme>
+    <programme start="20250108063000 +0000" stop="20250108070000 +0000" channel="Cartoon Network.starhub">
+        <title>Docs On The Moon/The Little Ghost Prince/Back To School/Arm Wrestling</title>
+    </programme>
+    <programme start="20250108070000 +0000" stop="20250108080000 +0000" channel="Cartoon Network.starhub">
+        <title>Electro Ranger Lemming</title>
+    </programme>
+    <programme start="20250108080000 +0000" stop="20250108083500 +0000" channel="Cartoon Network.starhub">
+        <title>Dust Buddies/Stump Brothers/Plant Daddies</title>
+    </programme>
+    <programme start="20250108083500 +0000" stop="20250108090000 +0000" channel="Cartoon Network.starhub">
+        <title>The Arsonist</title>
+    </programme>
+    <programme start="20250108090000 +0000" stop="20250108100000 +0000" channel="Cartoon Network.starhub">
+        <title>Game Over/A Grand Invitation/No Pets/Supermarrow/For Sale</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108110000 +0000" channel="Cartoon Network.starhub">
+        <title>Cellie/Bubble/Cousin Jon/Tunnels/Rooms</title>
+    </programme>
+    <programme start="20250108110000 +0000" stop="20250108120000 +0000" channel="Cartoon Network.starhub">
+        <title>The Code/The Pest/The Routine/The Vacation/The Fraud</title>
+    </programme>
+    <programme start="20250108120000 +0000" stop="20250108123500 +0000" channel="Cartoon Network.starhub">
+        <title>Porch Pirates/Boys Vs. Girls/A Sticky Situation</title>
+    </programme>
+    <programme start="20250108123500 +0000" stop="20250108130000 +0000" channel="Cartoon Network.starhub">
+        <title>Must Be Jelly/Pants</title>
+    </programme>
+    <programme start="20250108130000 +0000" stop="20250108133000 +0000" channel="Cartoon Network.starhub">
+        <title>The Writers Of Destiny</title>
+    </programme>
+    <programme start="20250108133000 +0000" stop="20250108140000 +0000" channel="Cartoon Network.starhub">
+        <title>Crown Control</title>
+    </programme>
+    <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="Cartoon Network.starhub">
+        <title>What is Life?</title>
+    </programme>
+    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="Cartoon Network.starhub">
+        <title>Crack The Whip/Steven Vs. Amethyst/Beta/Steven&#039;s Dream/Adventures In Light Distortion</title>
+    </programme>
+    <programme start="20250108160000 +0000" stop="20250108170000 +0000" channel="Cartoon Network.starhub">
+        <title>Face Your Fears/Apple&#039;s Short/Keep It Fresh/Panamanian Night Monkey/Positive Attitude Theory</title>
+    </programme>
+    <programme start="20250108170000 +0000" stop="20250108180000 +0000" channel="Cartoon Network.starhub">
+        <title>Fancy Restaurant/Really Real Wrestling/A Bunch Of Baby Ducks/Limousine Lunchtime/Picking Up Margaret</title>
+    </programme>
+    <programme start="20250108180000 +0000" stop="20250108190000 +0000" channel="Cartoon Network.starhub">
+        <title>What is Life?</title>
+    </programme>
+    <programme start="20250108190000 +0000" stop="20250108200000 +0000" channel="Cartoon Network.starhub">
+        <title>Crack The Whip/Steven Vs. Amethyst/Beta/Steven&#039;s Dream/Adventures In Light Distortion</title>
+    </programme>
+    <programme start="20250108200000 +0000" stop="20250108210000 +0000" channel="Cartoon Network.starhub">
+        <title>Face Your Fears/Apple&#039;s Short/Keep It Fresh/Panamanian Night Monkey/Positive Attitude Theory</title>
+    </programme>
+    <programme start="20250108210000 +0000" stop="20250108220000 +0000" channel="Cartoon Network.starhub">
+        <title>Oh, Daisy!/Worship/Blossom3/Trouble Clef/Save The Date</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250108230000 +0000" channel="Cartoon Network.starhub">
+        <title>Dreams On Command</title>
+    </programme>
+    <programme start="20250108230000 +0000" stop="20250109000000 +0000" channel="Cartoon Network.starhub">
+        <title>Sidekick/Uncle Jokes/Nose Mouth/Dreams/Breakfast Cheese</title>
+    </programme>
+    <programme start="20250109000000 +0000" stop="20250109001500 +0000" channel="Cartoon Network.starhub">
+        <title>Poolside Pest/ Put The Cat Out: Inside Out</title>
+    </programme>
     <programme start="20250105223000 +0000" stop="20250106013000 +0000" channel="SPOTV.starhub">
         <title>Suhandinata Cup - Semi Final 2</title>
     </programme>
