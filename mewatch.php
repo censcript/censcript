@@ -991,10 +991,10 @@
         <title>No programme available now. Next broadcast on 8th January, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250106160000 +0000" stop="20250107160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
+        <title>No programme available now. Next broadcast on 9th January, Thursday 7.20pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250108160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 9th January, Thursday 7.35pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
+        <title>No programme available now. Next broadcast on 9th January, Thursday 7.20pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Kuala Lumpur City FC</title>
     </programme>
     <programme start="20250106160000 +0000" stop="20250107160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 8th January, Wednesday 3.52am. Carabao Cup 2024/25: Arsenal vs Newcastle Utd 1st Leg</title>
