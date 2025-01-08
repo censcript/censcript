@@ -9592,10 +9592,10 @@
         <title>2024 International Friendly (Women) Match 2 CommBank Matildas vs Brazil</title>
     </programme>
     <programme start="20250108080000 +0000" stop="20250108100000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR MEN&#039;S 6th Tournament</title>
+        <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250108100000 +0000" stop="20250108120000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
+        <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250108120000 +0000" stop="20250108123000 +0000" channel="SPOTV2.starhub">
         <title>2025 Grid Activity</title>
@@ -9619,7 +9619,7 @@
         <title>MotoGP Race</title>
     </programme>
     <programme start="20250108233000 +0000" stop="20250109013000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR MEN&#039;S 6th Tournament</title>
+        <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250109013000 +0000" stop="20250109033000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
@@ -30587,6 +30587,78 @@
     </programme>
     <programme start="20250112065000 +0000" stop="20250112084000 +0000" channel="Premier Sports.starhub">
         <title>Champions Cup Sharks v Toulouse</title>
+    </programme>
+    <programme start="20250107230000 +0000" stop="20250108000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250108000000 +0000" stop="20250108010000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250108010000 +0000" stop="20250108020000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250108020000 +0000" stop="20250108030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250108030000 +0000" stop="20250108040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Hungry Generations</title>
+    </programme>
+    <programme start="20250108040000 +0000" stop="20250108060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
+    <programme start="20250108060000 +0000" stop="20250108070000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250108070000 +0000" stop="20250108080000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250108080000 +0000" stop="20250108090000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250108090000 +0000" stop="20250108100000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Hungry Generations</title>
+    </programme>
+    <programme start="20250108100000 +0000" stop="20250108110000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250108110000 +0000" stop="20250108120000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250108120000 +0000" stop="20250108130000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250108130000 +0000" stop="20250108140000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250108160000 +0000" stop="20250108180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250108180000 +0000" stop="20250108190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250108190000 +0000" stop="20250108200000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250108200000 +0000" stop="20250108210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250108210000 +0000" stop="20250108220000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250108220000 +0000" stop="20250108230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250108230000 +0000" stop="20250109000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250109000000 +0000" stop="20250109010000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
     </programme>
     <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
