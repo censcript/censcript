@@ -5017,7 +5017,7 @@
         <title>News</title>
     </programme>
     <programme start="20250108031500 +0000" stop="20250108033000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Ghana&#039;s President-elect John Mahama speaks with DW</title>
     </programme>
     <programme start="20250108033000 +0000" stop="20250108040000 +0000" channel="DW English HD.starhub">
         <title>When technology and nature work hand in hand</title>
@@ -5041,7 +5041,7 @@
         <title>News</title>
     </programme>
     <programme start="20250108061500 +0000" stop="20250108063000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Ghana&#039;s President-elect John Mahama speaks with DW</title>
     </programme>
     <programme start="20250108063000 +0000" stop="20250108070000 +0000" channel="DW English HD.starhub">
         <title>Your amazing brain - Keeping it happy and healthy</title>
