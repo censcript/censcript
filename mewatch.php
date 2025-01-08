@@ -243,17 +243,14 @@
     <programme start="20250108130000 +0000" stop="20250108140000 +0000" channel="Channel 8.mewatch">
         <title>Uniquely Ours - EP 15</title>
     </programme>
-    <programme start="20250108140000 +0000" stop="20250108143000 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight - EP 283</title>
+    <programme start="20250108140000 +0000" stop="20250108144500 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight With Highlights From Parliament - EP 283</title>
     </programme>
-    <programme start="20250108143000 +0000" stop="20250108150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250108144500 +0000" stop="20250108151500 +0000" channel="Channel 8.mewatch">
         <title>Hermit Master - EP 3</title>
     </programme>
-    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250108151500 +0000" stop="20250108161500 +0000" channel="Channel 8.mewatch">
         <title>Fighting for Love - EP 14</title>
-    </programme>
-    <programme start="20250108160000 +0000" stop="20250108170000 +0000" channel="Channel 8.mewatch">
-        <title>The Blood of Youth - EP 6</title>
     </programme>
     <programme start="20250107154500 +0000" stop="20250107164000 +0000" channel="Channel U.mewatch">
         <title>Let&#039;s Go Check In - EP 7</title>
@@ -366,10 +363,10 @@
     <programme start="20250108140000 +0000" stop="20250108150000 +0000" channel="Channel U.mewatch">
         <title>The Red Sleeve - EP 20</title>
     </programme>
-    <programme start="20250108150000 +0000" stop="20250108153000 +0000" channel="Channel U.mewatch">
-        <title>News Tonight - EP 283</title>
+    <programme start="20250108150000 +0000" stop="20250108154500 +0000" channel="Channel U.mewatch">
+        <title>News Tonight With Highlights From Parliament - EP 283</title>
     </programme>
-    <programme start="20250108153000 +0000" stop="20250108163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250108154500 +0000" stop="20250108164000 +0000" channel="Channel U.mewatch">
         <title>Our Lives According to Buses - EP 4</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250108010000 +0000" channel="Suria.mewatch">
