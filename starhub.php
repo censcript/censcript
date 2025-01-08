@@ -31143,6 +31143,18 @@
     <programme start="20250118100000 +0000" stop="20250118160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250118160000 +0000" stop="20250118220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119040000 +0000" stop="20250119100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119100000 +0000" stop="20250119160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250106220000 +0000" stop="20250107003000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33007,6 +33019,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250118100000 +0000" stop="20250118160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118160000 +0000" stop="20250118220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119040000 +0000" stop="20250119100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119100000 +0000" stop="20250119160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 5 HD.starhub">

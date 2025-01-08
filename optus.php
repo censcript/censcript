@@ -142,7 +142,7 @@
         <title>Premier League - Arsenal v Tottenham Hotspur</title>
     </programme>
     <programme start="20250116133000 +0000" stop="20250116140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Jacob Ramsey</title>
     </programme>
     <programme start="20250116183000 +0000" stop="20250116230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Friday Morning</title>
