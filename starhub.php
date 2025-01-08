@@ -67,7 +67,7 @@
         <title>SEJADAH</title>
     </programme>
     <programme start="20250107234000 +0000" stop="20250108010000 +0000" channel="Citra Entertainment.starhub">
-        <title>Sisain Kembang Desa Kayak Gini Satu Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Sisain Kembang Desa Kayak Gini Satu Aja</title>
     </programme>
     <programme start="20250108010000 +0000" stop="20250108012500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -79,10 +79,10 @@
         <title>JEJAK CAHAYA ISLAM</title>
     </programme>
     <programme start="20250108041000 +0000" stop="20250108053000 +0000" channel="Citra Entertainment.starhub">
-        <title>Kepentok Cinta Pangeran Berkuda Putih_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kepentok Cinta Pangeran Berkuda Putih</title>
     </programme>
     <programme start="20250108053000 +0000" stop="20250108065000 +0000" channel="Citra Entertainment.starhub">
-        <title>Romeo, Juliet &amp; Si Nenek_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Romeo, Juliet &amp; Si Nenek</title>
     </programme>
     <programme start="20250108065000 +0000" stop="20250108071500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -97,10 +97,10 @@
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250108102500 +0000" stop="20250108114500 +0000" channel="Citra Entertainment.starhub">
-        <title>Aku Senang Kalo Kamu Bek Bek Aja?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Aku Senang Kalo Kamu Bek Bek Aja?</title>
     </programme>
     <programme start="20250108114500 +0000" stop="20250108130500 +0000" channel="Citra Entertainment.starhub">
-        <title>Andai Kau Tahu - Catatan Harianku_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Andai Kau Tahu - Catatan Harianku</title>
     </programme>
     <programme start="20250108130500 +0000" stop="20250108150000 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
@@ -115,13 +115,13 @@
         <title>Doyan Makan</title>
     </programme>
     <programme start="20250108170000 +0000" stop="20250108182000 +0000" channel="Citra Entertainment.starhub">
-        <title>Sisain Kembang Desa Kayak Gini Satu Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Sisain Kembang Desa Kayak Gini Satu Aja</title>
     </programme>
     <programme start="20250108182000 +0000" stop="20250108201500 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250108201500 +0000" stop="20250108213500 +0000" channel="Citra Entertainment.starhub">
-        <title>Andai Kau Tahu - Catatan Harianku_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Andai Kau Tahu - Catatan Harianku</title>
     </programme>
     <programme start="20250108213500 +0000" stop="20250108222500 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
@@ -133,7 +133,7 @@
         <title>SEJADAH</title>
     </programme>
     <programme start="20250108234000 +0000" stop="20250109010000 +0000" channel="Citra Entertainment.starhub">
-        <title>Aku Senang Kalo Kamu Bek Bek Aja?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Aku Senang Kalo Kamu Bek Bek Aja?</title>
     </programme>
     <programme start="20250109010000 +0000" stop="20250109012500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
