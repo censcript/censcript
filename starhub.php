@@ -4933,7 +4933,7 @@
         <title>News</title>
     </programme>
     <programme start="20250107171500 +0000" stop="20250107173000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Ghana&#039;s President-elect John Mahama speaks with DW</title>
     </programme>
     <programme start="20250107173000 +0000" stop="20250107180000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -4963,7 +4963,7 @@
         <title>News</title>
     </programme>
     <programme start="20250107210200 +0000" stop="20250107211500 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Ghana&#039;s President-elect John Mahama speaks with DW</title>
     </programme>
     <programme start="20250107211500 +0000" stop="20250107214500 +0000" channel="DW English HD.starhub">
         <title>The Cocaine Wars - Germany&#039;s Fight Against Drug Gangs</title>
@@ -4984,7 +4984,7 @@
         <title>News</title>
     </programme>
     <programme start="20250107231500 +0000" stop="20250107233000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Ghana&#039;s President-elect John Mahama speaks with DW</title>
     </programme>
     <programme start="20250107233000 +0000" stop="20250108000000 +0000" channel="DW English HD.starhub">
         <title>Living in flooded homes: Climate change in the Philippines</title>
