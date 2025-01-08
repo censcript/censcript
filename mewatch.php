@@ -120,13 +120,13 @@
     <programme start="20250108123000 +0000" stop="20250108130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 3</title>
     </programme>
-    <programme start="20250108130000 +0000" stop="20250108133000 +0000" channel="Channel 5.mewatch">
-        <title>News Tonight - EP 283</title>
+    <programme start="20250108130000 +0000" stop="20250108134500 +0000" channel="Channel 5.mewatch">
+        <title>News Tonight With Highlights From Parliament - EP 283</title>
     </programme>
-    <programme start="20250108133000 +0000" stop="20250108143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250108134500 +0000" stop="20250108144500 +0000" channel="Channel 5.mewatch">
         <title>Belly Of A Nation 3 - EP 1</title>
     </programme>
-    <programme start="20250108143000 +0000" stop="20250108155000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250108144500 +0000" stop="20250108155000 +0000" channel="Channel 5.mewatch">
         <title>Great Continental Railway Journeys - Series 7 - EP 3</title>
     </programme>
     <programme start="20250108155000 +0000" stop="20250108160000 +0000" channel="Channel 5.mewatch">
