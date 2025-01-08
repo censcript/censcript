@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250108150000 +0000" stop="20250108160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
-    <programme start="20250108180000 +0000" stop="20250108183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Thomas Tuchel</title>
-    </programme>
     <programme start="20250109133000 +0000" stop="20250109140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Howard Webb</title>
     </programme>
