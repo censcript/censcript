@@ -29571,20 +29571,17 @@
     <programme start="20250109000000 +0000" stop="20250109010000 +0000" channel="TestChannel 995.starhub">
         <title>4 Hours of Sepang Race 2</title>
     </programme>
-    <programme start="20250109020000 +0000" stop="20250109060000 +0000" channel="TestChannel 995.starhub">
-        <title>Hobart International (250) QF 1 &amp; 2</title>
+    <programme start="20250109010000 +0000" stop="20250109050000 +0000" channel="TestChannel 995.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 16 Session 1 (Court 2)</title>
     </programme>
-    <programme start="20250109060000 +0000" stop="20250109100000 +0000" channel="TestChannel 995.starhub">
-        <title>Hobart International (250) QF 3 &amp; 4</title>
+    <programme start="20250109050000 +0000" stop="20250109090000 +0000" channel="TestChannel 995.starhub">
+        <title>PETRONAS Malaysia Open (Super 1000): Rd 16 Session 2 (Court 2)</title>
     </programme>
-    <programme start="20250109100000 +0000" stop="20250109103000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 11 &amp; 12</title>
-    </programme>
-    <programme start="20250109103000 +0000" stop="20250109110000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 3</title>
+    <programme start="20250109090000 +0000" stop="20250109110000 +0000" channel="TestChannel 995.starhub">
+        <title>East Asia Super League 2024/25 New Taipei Kings vs Ryukyu Golden Kings</title>
     </programme>
     <programme start="20250109110000 +0000" stop="20250109130000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2024/25 New Taipei Kings vs Ryukyu Golden Kings</title>
+        <title>Isuzu UTE A-League 2024/25 R17: Melbourne City FC vs Western United FC</title>
     </programme>
     <programme start="20250109130000 +0000" stop="20250109133000 +0000" channel="TestChannel 995.starhub">
         <title>Week 18</title>
@@ -29768,6 +29765,9 @@
     </programme>
     <programme start="20250112170000 +0000" stop="20250112190000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Leyton Orient vs Derby County</title>
+    </programme>
+    <programme start="20250112190000 +0000" stop="20250112210000 +0000" channel="TestChannel 995.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Hull City vs Doncaster Rovers</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
