@@ -5928,39 +5928,6 @@
     <programme start="20250110070000 +0000" stop="20250110073000 +0000" channel="Kalaignar TV.starhub">
         <title>Ullam Kollai Poguthada</title>
     </programme>
-    <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106010000 +0000" stop="20250106030000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106030000 +0000" stop="20250106050000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106050000 +0000" stop="20250106070000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106070000 +0000" stop="20250106090000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106090000 +0000" stop="20250106110000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106110000 +0000" stop="20250106113000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>PL Stories 2024/25</title>
-    </programme>
-    <programme start="20250106113000 +0000" stop="20250106120000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>The Big Interview 2024/25</title>
-    </programme>
-    <programme start="20250106120000 +0000" stop="20250106140000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106140000 +0000" stop="20250106160000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>Premier League 2024/25</title>
-    </programme>
-    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
@@ -6226,6 +6193,39 @@
         <title>Premier League 2024/25</title>
     </programme>
     <programme start="20250119060000 +0000" stop="20250119080000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119080000 +0000" stop="20250119100000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119100000 +0000" stop="20250119115500 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119115500 +0000" stop="20250119135000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119135000 +0000" stop="20250119155000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119155000 +0000" stop="20250119162000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250119162000 +0000" stop="20250119183000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119183000 +0000" stop="20250119190000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>The Big Interview 2024/25</title>
+    </programme>
+    <programme start="20250119190000 +0000" stop="20250119210000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119210000 +0000" stop="20250119230000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250119230000 +0000" stop="20250120010000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250120010000 +0000" stop="20250120030000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>Premier League 2024/25</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107010000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -9228,78 +9228,6 @@
     <programme start="20250109103000 +0000" stop="20250109110000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>News Talk (9/1/25)</title>
     </programme>
-    <programme start="20250105234000 +0000" stop="20250106005500 +0000" channel="KBS World HD.starhub">
-        <title>The Real has come!</title>
-    </programme>
-    <programme start="20250106005500 +0000" stop="20250106021000 +0000" channel="KBS World HD.starhub">
-        <title>The Real has come!</title>
-    </programme>
-    <programme start="20250106021000 +0000" stop="20250106035000 +0000" channel="KBS World HD.starhub">
-        <title>Two Days and One Night 4</title>
-    </programme>
-    <programme start="20250106035000 +0000" stop="20250106050500 +0000" channel="KBS World HD.starhub">
-        <title>The Return of Superman</title>
-    </programme>
-    <programme start="20250106050500 +0000" stop="20250106051000 +0000" channel="KBS World HD.starhub">
-        <title>The Best of Immortal Songs</title>
-    </programme>
-    <programme start="20250106051000 +0000" stop="20250106062500 +0000" channel="KBS World HD.starhub">
-        <title>Iron Family</title>
-    </programme>
-    <programme start="20250106062500 +0000" stop="20250106074000 +0000" channel="KBS World HD.starhub">
-        <title>Iron Family</title>
-    </programme>
-    <programme start="20250106074000 +0000" stop="20250106080000 +0000" channel="KBS World HD.starhub">
-        <title>KBS WORLD News Today</title>
-    </programme>
-    <programme start="20250106080000 +0000" stop="20250106090000 +0000" channel="KBS World HD.starhub">
-        <title>My Neighbor, Charles</title>
-    </programme>
-    <programme start="20250106090000 +0000" stop="20250106102500 +0000" channel="KBS World HD.starhub">
-        <title>Moving Voices</title>
-    </programme>
-    <programme start="20250106102500 +0000" stop="20250106113500 +0000" channel="KBS World HD.starhub">
-        <title>Cheer Up!</title>
-    </programme>
-    <programme start="20250106113500 +0000" stop="20250106121000 +0000" channel="KBS World HD.starhub">
-        <title>My Merry Marriage</title>
-    </programme>
-    <programme start="20250106121000 +0000" stop="20250106125000 +0000" channel="KBS World HD.starhub">
-        <title>Cinderella Game</title>
-    </programme>
-    <programme start="20250106125000 +0000" stop="20250106140500 +0000" channel="KBS World HD.starhub">
-        <title>Zombie Detective</title>
-    </programme>
-    <programme start="20250106140500 +0000" stop="20250106153500 +0000" channel="KBS World HD.starhub">
-        <title>2024 ABU TV Song Festival</title>
-    </programme>
-    <programme start="20250106153500 +0000" stop="20250106163500 +0000" channel="KBS World HD.starhub">
-        <title>Korea-Khitan War</title>
-    </programme>
-    <programme start="20250106163500 +0000" stop="20250106165000 +0000" channel="KBS World HD.starhub">
-        <title>The Seasons W</title>
-    </programme>
-    <programme start="20250106165000 +0000" stop="20250106183000 +0000" channel="KBS World HD.starhub">
-        <title>Two Days and One Night 4</title>
-    </programme>
-    <programme start="20250106183000 +0000" stop="20250106190500 +0000" channel="KBS World HD.starhub">
-        <title>My Merry Marriage</title>
-    </programme>
-    <programme start="20250106190500 +0000" stop="20250106194500 +0000" channel="KBS World HD.starhub">
-        <title>Cinderella Game</title>
-    </programme>
-    <programme start="20250106194500 +0000" stop="20250106202500 +0000" channel="KBS World HD.starhub">
-        <title>Zombie Detective</title>
-    </programme>
-    <programme start="20250106202500 +0000" stop="20250106210000 +0000" channel="KBS World HD.starhub">
-        <title>Zombie Detective</title>
-    </programme>
-    <programme start="20250106210000 +0000" stop="20250106223000 +0000" channel="KBS World HD.starhub">
-        <title>Moving Voices</title>
-    </programme>
-    <programme start="20250106223000 +0000" stop="20250106231000 +0000" channel="KBS World HD.starhub">
-        <title>The Two Sisters</title>
-    </programme>
     <programme start="20250106231000 +0000" stop="20250107001000 +0000" channel="KBS World HD.starhub">
         <title>Korea-Khitan War</title>
     </programme>
@@ -9527,6 +9455,78 @@
     </programme>
     <programme start="20250109140500 +0000" stop="20250109153500 +0000" channel="KBS World HD.starhub">
         <title>Boss in the Mirror</title>
+    </programme>
+    <programme start="20250109153500 +0000" stop="20250109155000 +0000" channel="KBS World HD.starhub">
+        <title>WORLD-CLASS K-DOL</title>
+    </programme>
+    <programme start="20250109155000 +0000" stop="20250109170000 +0000" channel="KBS World HD.starhub">
+        <title>Cheer Up!</title>
+    </programme>
+    <programme start="20250109170000 +0000" stop="20250109181000 +0000" channel="KBS World HD.starhub">
+        <title>Cheer Up!</title>
+    </programme>
+    <programme start="20250109181000 +0000" stop="20250109182500 +0000" channel="KBS World HD.starhub">
+        <title>The Seasons W</title>
+    </programme>
+    <programme start="20250109182500 +0000" stop="20250109183000 +0000" channel="KBS World HD.starhub">
+        <title>The Best of Immortal Songs</title>
+    </programme>
+    <programme start="20250109183000 +0000" stop="20250109190500 +0000" channel="KBS World HD.starhub">
+        <title>My Merry Marriage</title>
+    </programme>
+    <programme start="20250109190500 +0000" stop="20250109194500 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20250109194500 +0000" stop="20250109202500 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20250109202500 +0000" stop="20250109210000 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20250109210000 +0000" stop="20250109223000 +0000" channel="KBS World HD.starhub">
+        <title>Boss in the Mirror</title>
+    </programme>
+    <programme start="20250109223000 +0000" stop="20250109231000 +0000" channel="KBS World HD.starhub">
+        <title>The Two Sisters</title>
+    </programme>
+    <programme start="20250109231000 +0000" stop="20250110002500 +0000" channel="KBS World HD.starhub">
+        <title>Good Manager</title>
+    </programme>
+    <programme start="20250110002500 +0000" stop="20250110010000 +0000" channel="KBS World HD.starhub">
+        <title>My Merry Marriage</title>
+    </programme>
+    <programme start="20250110010000 +0000" stop="20250110014000 +0000" channel="KBS World HD.starhub">
+        <title>Cinderella Game</title>
+    </programme>
+    <programme start="20250110014000 +0000" stop="20250110022000 +0000" channel="KBS World HD.starhub">
+        <title>The Two Sisters</title>
+    </programme>
+    <programme start="20250110022000 +0000" stop="20250110033500 +0000" channel="KBS World HD.starhub">
+        <title>Iron Family</title>
+    </programme>
+    <programme start="20250110033500 +0000" stop="20250110034000 +0000" channel="KBS World HD.starhub">
+        <title>The Best of Immortal Songs</title>
+    </programme>
+    <programme start="20250110034000 +0000" stop="20250110051000 +0000" channel="KBS World HD.starhub">
+        <title>Boss in the Mirror</title>
+    </programme>
+    <programme start="20250110051000 +0000" stop="20250110055000 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20250110055000 +0000" stop="20250110062500 +0000" channel="KBS World HD.starhub">
+        <title>Born Again</title>
+    </programme>
+    <programme start="20250110062500 +0000" stop="20250110074000 +0000" channel="KBS World HD.starhub">
+        <title>Good Manager</title>
+    </programme>
+    <programme start="20250110074000 +0000" stop="20250110080000 +0000" channel="KBS World HD.starhub">
+        <title>KBS WORLD News Today</title>
+    </programme>
+    <programme start="20250110080000 +0000" stop="20250110080500 +0000" channel="KBS World HD.starhub">
+        <title>The Best of Immortal Songs</title>
+    </programme>
+    <programme start="20250110080500 +0000" stop="20250110093500 +0000" channel="KBS World HD.starhub">
+        <title>Music Bank</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107011500 +0000" channel="SPOTV2.starhub">
         <title>Moto2 Race</title>
@@ -15747,30 +15747,6 @@
     <programme start="20250110220000 +0000" stop="20250110230000 +0000" channel="Astro Sensasi HD.starhub">
         <title>Indah Pada Waktunya</title>
     </programme>
-    <programme start="20250105210000 +0000" stop="20250106010000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>The Sentry Round 4</title>
-    </programme>
-    <programme start="20250106010000 +0000" stop="20250106040000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250106040000 +0000" stop="20250106100000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250106100000 +0000" stop="20250106110000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>International Series Thailand</title>
-    </programme>
-    <programme start="20250106110000 +0000" stop="20250106120000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>BNI Indonesian Masters</title>
-    </programme>
-    <programme start="20250106120000 +0000" stop="20250106130000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>LINK Hong Kong Open</title>
-    </programme>
-    <programme start="20250106130000 +0000" stop="20250106160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>The Sentry Round 4</title>
-    </programme>
-    <programme start="20250106160000 +0000" stop="20250106220000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -16046,6 +16022,30 @@
     </programme>
     <programme start="20250119040000 +0000" stop="20250119050000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Golf Classic at Atlantis Paradise</title>
+    </programme>
+    <programme start="20250119050000 +0000" stop="20250119053000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Alfred Dunhill Championship</title>
+    </programme>
+    <programme start="20250119053000 +0000" stop="20250119060000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AfrAsia Bank Mauritius Open</title>
+    </programme>
+    <programme start="20250119060000 +0000" stop="20250119063000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Episode 2</title>
+    </programme>
+    <programme start="20250119063000 +0000" stop="20250119070000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Episode 3</title>
+    </programme>
+    <programme start="20250119070000 +0000" stop="20250119130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hero Dubai Desert Classic Day 4</title>
+    </programme>
+    <programme start="20250119130000 +0000" stop="20250119160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The American Express Round 3</title>
+    </programme>
+    <programme start="20250119160000 +0000" stop="20250119210000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250119210000 +0000" stop="20250120000000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The American Express Round 4</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (7/1/25 Pt2)</title>
@@ -23322,18 +23322,6 @@
     <programme start="20250107200000 +0000" stop="20250107210000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
-    <programme start="20250107210000 +0000" stop="20250107214500 +0000" channel="CNN HD.starhub">
-        <title>Quest Means Business</title>
-    </programme>
-    <programme start="20250107214500 +0000" stop="20250107220000 +0000" channel="CNN HD.starhub">
-        <title>The Business of African Fashion</title>
-    </programme>
-    <programme start="20250107220000 +0000" stop="20250107223000 +0000" channel="CNN HD.starhub">
-        <title>The Lead</title>
-    </programme>
-    <programme start="20250107223000 +0000" stop="20250107230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
     <programme start="20250107230000 +0000" stop="20250108000000 +0000" channel="CNN HD.starhub">
         <title>First Move</title>
     </programme>
@@ -23418,8 +23406,11 @@
     <programme start="20250108200000 +0000" stop="20250108210000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250108210000 +0000" stop="20250108220000 +0000" channel="CNN HD.starhub">
+    <programme start="20250108210000 +0000" stop="20250108214500 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
+    </programme>
+    <programme start="20250108214500 +0000" stop="20250108220000 +0000" channel="CNN HD.starhub">
+        <title>The Business of African Fashion</title>
     </programme>
     <programme start="20250108220000 +0000" stop="20250108223000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
@@ -23490,12 +23481,6 @@
     <programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
-    <programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="CNN HD.starhub">
-        <title>One World</title>
-    </programme>
-    <programme start="20250109180000 +0000" stop="20250109190000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
-    </programme>
     <programme start="20250109190000 +0000" stop="20250109200000 +0000" channel="CNN HD.starhub">
         <title>Isa Soares Tonight</title>
     </programme>
@@ -23546,6 +23531,21 @@
     </programme>
     <programme start="20250110080000 +0000" stop="20250110090000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250110090000 +0000" stop="20250110100000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250110100000 +0000" stop="20250110110000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning</title>
+    </programme>
+    <programme start="20250110110000 +0000" stop="20250110120000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning</title>
+    </programme>
+    <programme start="20250110120000 +0000" stop="20250110123000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20250110123000 +0000" stop="20250110130000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107020000 +0000" channel="Cinema One Global.starhub">
         <title>Buddy En Sol: Sine &#039;To</title>
@@ -24147,42 +24147,6 @@
     <programme start="20250114000000 +0000" stop="20250114013000 +0000" channel="Celestial Movies HD.starhub">
         <title>The Sparrow</title>
     </programme>
-    <programme start="20250105224500 +0000" stop="20250106004500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Deck The Halls</title>
-    </programme>
-    <programme start="20250106004500 +0000" stop="20250106031500 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Seven Pounds</title>
-    </programme>
-    <programme start="20250106031500 +0000" stop="20250106060000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>The Hunt For Red October</title>
-    </programme>
-    <programme start="20250106060000 +0000" stop="20250106080000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Paul Blart: Mall Cop</title>
-    </programme>
-    <programme start="20250106080000 +0000" stop="20250106100000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>The House Bunny</title>
-    </programme>
-    <programme start="20250106100000 +0000" stop="20250106120000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Beethoven</title>
-    </programme>
-    <programme start="20250106120000 +0000" stop="20250106140000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Antz</title>
-    </programme>
-    <programme start="20250106140000 +0000" stop="20250106160000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>A Simple Wish</title>
-    </programme>
-    <programme start="20250106160000 +0000" stop="20250106180000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Paul Blart: Mall Cop</title>
-    </programme>
-    <programme start="20250106180000 +0000" stop="20250106200000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>The House Bunny</title>
-    </programme>
-    <programme start="20250106200000 +0000" stop="20250106220000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>Talladega Nights: The Ballad Of Ricky Bobby</title>
-    </programme>
-    <programme start="20250106220000 +0000" stop="20250107000000 +0000" channel="HITS MOVIES HD.starhub">
-        <title>See No Evil, Hear No Evil</title>
-    </programme>
     <programme start="20250107000000 +0000" stop="20250107020000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Paul Blart: Mall Cop</title>
     </programme>
@@ -24446,6 +24410,42 @@
     </programme>
     <programme start="20250115043000 +0000" stop="20250115063000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Big Shot&#039;s Funeral</title>
+    </programme>
+    <programme start="20250115063000 +0000" stop="20250115083000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Made Of Honor</title>
+    </programme>
+    <programme start="20250115083000 +0000" stop="20250115120000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>JFK</title>
+    </programme>
+    <programme start="20250115120000 +0000" stop="20250115141500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Patriot Games</title>
+    </programme>
+    <programme start="20250115141500 +0000" stop="20250115180000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Lawrence Of Arabia</title>
+    </programme>
+    <programme start="20250115180000 +0000" stop="20250115200000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Elektra</title>
+    </programme>
+    <programme start="20250115200000 +0000" stop="20250115233000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>JFK</title>
+    </programme>
+    <programme start="20250115233000 +0000" stop="20250116031500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Lawrence Of Arabia</title>
+    </programme>
+    <programme start="20250116031500 +0000" stop="20250116053000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Patriot Games</title>
+    </programme>
+    <programme start="20250116053000 +0000" stop="20250116081500 +0000" channel="HITS MOVIES HD.starhub">
+        <title>A.I. Artificial Intelligence</title>
+    </programme>
+    <programme start="20250116081500 +0000" stop="20250116120000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Lawrence Of Arabia</title>
+    </programme>
+    <programme start="20250116120000 +0000" stop="20250116140000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Days Of Thunder</title>
+    </programme>
+    <programme start="20250116140000 +0000" stop="20250116160000 +0000" channel="HITS MOVIES HD.starhub">
+        <title>Elektra</title>
     </programme>
     <programme start="20250106234000 +0000" stop="20250107000500 +0000" channel="DreamWorks Channel HD.starhub">
         <title>The Stroll</title>
@@ -25647,54 +25647,6 @@
     <programme start="20250111170000 +0000" stop="20250111173000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Athlete | Empire: Alex Rodriguez</title>
     </programme>
-    <programme start="20250105230000 +0000" stop="20250106010000 +0000" channel="Dragon TV.starhub">
-        <title>Dragon TV Morning News</title>
-    </programme>
-    <programme start="20250106010000 +0000" stop="20250106013000 +0000" channel="Dragon TV.starhub">
-        <title>fashion kids</title>
-    </programme>
-    <programme start="20250106013000 +0000" stop="20250106031500 +0000" channel="Dragon TV.starhub">
-        <title>X Clinic</title>
-    </programme>
-    <programme start="20250106031500 +0000" stop="20250106040000 +0000" channel="Dragon TV.starhub">
-        <title>Channel Young Food</title>
-    </programme>
-    <programme start="20250106040000 +0000" stop="20250106042700 +0000" channel="Dragon TV.starhub">
-        <title>Dragon TV News Midday</title>
-    </programme>
-    <programme start="20250106042700 +0000" stop="20250106062500 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
-    </programme>
-    <programme start="20250106062500 +0000" stop="20250106065400 +0000" channel="Dragon TV.starhub">
-        <title>fashion kids</title>
-    </programme>
-    <programme start="20250106065400 +0000" stop="20250106083500 +0000" channel="Dragon TV.starhub">
-        <title>X Clinic</title>
-    </programme>
-    <programme start="20250106083500 +0000" stop="20250106092000 +0000" channel="Dragon TV.starhub">
-        <title>Channel Young Food</title>
-    </programme>
-    <programme start="20250106092000 +0000" stop="20250106100000 +0000" channel="Dragon TV.starhub">
-        <title>Health preserving by famous doctors</title>
-    </programme>
-    <programme start="20250106100000 +0000" stop="20250106110000 +0000" channel="Dragon TV.starhub">
-        <title>Dragon TV Primetime News</title>
-    </programme>
-    <programme start="20250106110000 +0000" stop="20250106142500 +0000" channel="Dragon TV.starhub">
-        <title>X Clinic</title>
-    </programme>
-    <programme start="20250106142500 +0000" stop="20250106152000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
-    </programme>
-    <programme start="20250106152000 +0000" stop="20250106170000 +0000" channel="Dragon TV.starhub">
-        <title>X Clinic</title>
-    </programme>
-    <programme start="20250106170000 +0000" stop="20250106221500 +0000" channel="Dragon TV.starhub">
-        <title>Dragon TV Primetime News</title>
-    </programme>
-    <programme start="20250106221500 +0000" stop="20250106230000 +0000" channel="Dragon TV.starhub">
-        <title>Channel Young Food</title>
-    </programme>
     <programme start="20250106230000 +0000" stop="20250107010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
@@ -25946,6 +25898,54 @@
     </programme>
     <programme start="20250111180000 +0000" stop="20250111200000 +0000" channel="Dragon TV.starhub">
         <title>futuer china</title>
+    </programme>
+    <programme start="20250111200000 +0000" stop="20250111221500 +0000" channel="Dragon TV.starhub">
+        <title>mamamiya</title>
+    </programme>
+    <programme start="20250111221500 +0000" stop="20250111230000 +0000" channel="Dragon TV.starhub">
+        <title>Channel Young Food</title>
+    </programme>
+    <programme start="20250111230000 +0000" stop="20250112010000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Morning News</title>
+    </programme>
+    <programme start="20250112010000 +0000" stop="20250112060000 +0000" channel="Dragon TV.starhub">
+        <title>sitcom</title>
+    </programme>
+    <programme start="20250112060000 +0000" stop="20250112100000 +0000" channel="Dragon TV.starhub">
+        <title>THE CITY OF MUSICALS</title>
+    </programme>
+    <programme start="20250112100000 +0000" stop="20250112110000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20250112110000 +0000" stop="20250112120800 +0000" channel="Dragon TV.starhub">
+        <title>sitcom</title>
+    </programme>
+    <programme start="20250112120800 +0000" stop="20250112141200 +0000" channel="Dragon TV.starhub">
+        <title>futuer china</title>
+    </programme>
+    <programme start="20250112141200 +0000" stop="20250112170000 +0000" channel="Dragon TV.starhub">
+        <title>sitcom</title>
+    </programme>
+    <programme start="20250112170000 +0000" stop="20250112180000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20250112180000 +0000" stop="20250112190200 +0000" channel="Dragon TV.starhub">
+        <title>futuer china</title>
+    </programme>
+    <programme start="20250112190200 +0000" stop="20250112221500 +0000" channel="Dragon TV.starhub">
+        <title>sitcom</title>
+    </programme>
+    <programme start="20250112221500 +0000" stop="20250112230000 +0000" channel="Dragon TV.starhub">
+        <title>Channel Young Food</title>
+    </programme>
+    <programme start="20250112230000 +0000" stop="20250113010000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Morning News</title>
+    </programme>
+    <programme start="20250113010000 +0000" stop="20250113013000 +0000" channel="Dragon TV.starhub">
+        <title>fashion kids</title>
+    </programme>
+    <programme start="20250113013000 +0000" stop="20250113031500 +0000" channel="Dragon TV.starhub">
+        <title>X Clinic</title>
     </programme>
     <programme start="20250106233000 +0000" stop="20250107003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>
