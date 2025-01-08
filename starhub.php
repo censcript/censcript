@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CendolCen">
     <programme start="20250106234000 +0000" stop="20250107010000 +0000" channel="Citra Entertainment.starhub">
-        <title>Awal Mulanya Gimana Mba Taylor?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Awal Mulanya Gimana Mba Taylor?</title>
     </programme>
     <programme start="20250107010000 +0000" stop="20250107012500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -13,10 +13,10 @@
         <title>JEJAK CAHAYA ISLAM</title>
     </programme>
     <programme start="20250107041000 +0000" stop="20250107053000 +0000" channel="Citra Entertainment.starhub">
-        <title>Aku Senang Kalo Kamu Bek Bek Aja?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Aku Senang Kalo Kamu Bek Bek Aja?</title>
     </programme>
     <programme start="20250107053000 +0000" stop="20250107065000 +0000" channel="Citra Entertainment.starhub">
-        <title>Andai Kau Tahu - Catatan Harianku_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Andai Kau Tahu - Catatan Harianku</title>
     </programme>
     <programme start="20250107065000 +0000" stop="20250107071500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -31,10 +31,10 @@
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250107102500 +0000" stop="20250107114500 +0000" channel="Citra Entertainment.starhub">
-        <title>Sisain Kembang Desa Kayak Gini Satu Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Sisain Kembang Desa Kayak Gini Satu Aja</title>
     </programme>
     <programme start="20250107114500 +0000" stop="20250107130500 +0000" channel="Citra Entertainment.starhub">
-        <title>Wedding Agreement Mas Flower Bikin Auto Baper_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Wedding Agreement Mas Flower Bikin Auto Baper</title>
     </programme>
     <programme start="20250107130500 +0000" stop="20250107150000 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
@@ -49,13 +49,13 @@
         <title>Doyan Makan</title>
     </programme>
     <programme start="20250107170000 +0000" stop="20250107182000 +0000" channel="Citra Entertainment.starhub">
-        <title>Awal Mulanya Gimana Mba Taylor?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Awal Mulanya Gimana Mba Taylor?</title>
     </programme>
     <programme start="20250107182000 +0000" stop="20250107201500 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250107201500 +0000" stop="20250107213500 +0000" channel="Citra Entertainment.starhub">
-        <title>Wedding Agreement Mas Flower Bikin Auto Baper_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Wedding Agreement Mas Flower Bikin Auto Baper</title>
     </programme>
     <programme start="20250107213500 +0000" stop="20250107222500 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
@@ -145,10 +145,10 @@
         <title>JEJAK CAHAYA ISLAM</title>
     </programme>
     <programme start="20250109041000 +0000" stop="20250109053000 +0000" channel="Citra Entertainment.starhub">
-        <title>Walau Bukan Jodoh Udah Sambungin Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Walau Bukan Jodoh Udah Sambungin Aja</title>
     </programme>
     <programme start="20250109053000 +0000" stop="20250109065000 +0000" channel="Citra Entertainment.starhub">
-        <title>Tukang Sayur Cintanya Mashook Pak Haji_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Tukang Sayur Cintanya Mashook Pak Haji</title>
     </programme>
     <programme start="20250109065000 +0000" stop="20250109071500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -163,10 +163,10 @@
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250109102500 +0000" stop="20250109114500 +0000" channel="Citra Entertainment.starhub">
-        <title>Kepentok Cinta Pangeran Berkuda Putih_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kepentok Cinta Pangeran Berkuda Putih</title>
     </programme>
     <programme start="20250109114500 +0000" stop="20250109130500 +0000" channel="Citra Entertainment.starhub">
-        <title>Romeo, Juliet &amp; Si Nenek_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Romeo, Juliet &amp; Si Nenek</title>
     </programme>
     <programme start="20250109130500 +0000" stop="20250109150000 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
@@ -181,13 +181,13 @@
         <title>Doyan Makan</title>
     </programme>
     <programme start="20250109170000 +0000" stop="20250109182000 +0000" channel="Citra Entertainment.starhub">
-        <title>Aku Senang Kalo Kamu Bek Bek Aja?_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Aku Senang Kalo Kamu Bek Bek Aja?</title>
     </programme>
     <programme start="20250109182000 +0000" stop="20250109201500 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250109201500 +0000" stop="20250109213500 +0000" channel="Citra Entertainment.starhub">
-        <title>Romeo, Juliet &amp; Si Nenek_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Romeo, Juliet &amp; Si Nenek</title>
     </programme>
     <programme start="20250109213500 +0000" stop="20250109222500 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
@@ -199,7 +199,7 @@
         <title>SEJADAH</title>
     </programme>
     <programme start="20250109234000 +0000" stop="20250110010000 +0000" channel="Citra Entertainment.starhub">
-        <title>Kepentok Cinta Pangeran Berkuda Putih_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kepentok Cinta Pangeran Berkuda Putih</title>
     </programme>
     <programme start="20250110010000 +0000" stop="20250110012500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -211,10 +211,10 @@
         <title>JEJAK CAHAYA ISLAM</title>
     </programme>
     <programme start="20250110041000 +0000" stop="20250110053000 +0000" channel="Citra Entertainment.starhub">
-        <title>Ibaratnya Gini Wir, Lu Digoreng Tapi Gamon_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Ibaratnya Gini Wir, Lu Digoreng Tapi Gamon</title>
     </programme>
     <programme start="20250110053000 +0000" stop="20250110065000 +0000" channel="Citra Entertainment.starhub">
-        <title>Kejujuran Hati - Catatan Harian_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kejujuran Hati - Catatan Harian</title>
     </programme>
     <programme start="20250110065000 +0000" stop="20250110071500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -229,10 +229,10 @@
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250110102500 +0000" stop="20250110114500 +0000" channel="Citra Entertainment.starhub">
-        <title>Walau Bukan Jodoh Udah Sambungin Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Walau Bukan Jodoh Udah Sambungin Aja</title>
     </programme>
     <programme start="20250110114500 +0000" stop="20250110130500 +0000" channel="Citra Entertainment.starhub">
-        <title>Tukang Sayur Cintanya Mashook Pak Haji_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Tukang Sayur Cintanya Mashook Pak Haji</title>
     </programme>
     <programme start="20250110130500 +0000" stop="20250110150000 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
@@ -247,13 +247,13 @@
         <title>Doyan Makan</title>
     </programme>
     <programme start="20250110170000 +0000" stop="20250110182000 +0000" channel="Citra Entertainment.starhub">
-        <title>Kepentok Cinta Pangeran Berkuda Putih_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kepentok Cinta Pangeran Berkuda Putih</title>
     </programme>
     <programme start="20250110182000 +0000" stop="20250110201500 +0000" channel="Citra Entertainment.starhub">
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250110201500 +0000" stop="20250110213500 +0000" channel="Citra Entertainment.starhub">
-        <title>Tukang Sayur Cintanya Mashook Pak Haji_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Tukang Sayur Cintanya Mashook Pak Haji</title>
     </programme>
     <programme start="20250110213500 +0000" stop="20250110222500 +0000" channel="Citra Entertainment.starhub">
         <title>HOT SHOT</title>
@@ -265,7 +265,7 @@
         <title>SEJADAH</title>
     </programme>
     <programme start="20250110234000 +0000" stop="20250111010000 +0000" channel="Citra Entertainment.starhub">
-        <title>Walau Bukan Jodoh Udah Sambungin Aja_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Walau Bukan Jodoh Udah Sambungin Aja</title>
     </programme>
     <programme start="20250111010000 +0000" stop="20250111012500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -277,10 +277,10 @@
         <title>JEJAK CAHAYA ISLAM</title>
     </programme>
     <programme start="20250111041000 +0000" stop="20250111053000 +0000" channel="Citra Entertainment.starhub">
-        <title>Keliatan Banget Nyenggol Hati King Dosen_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Keliatan Banget Nyenggol Hati King Dosen</title>
     </programme>
     <programme start="20250111053000 +0000" stop="20250111065000 +0000" channel="Citra Entertainment.starhub">
-        <title>Coba Komen Dong KKN Cinta Gue Kurangnya Dimana?_x000D__x000D__x000D__x000D__x000</title>
+        <title>Coba Komen Dong KKN Cinta Gue Kurangnya Dimana?</title>
     </programme>
     <programme start="20250111065000 +0000" stop="20250111071500 +0000" channel="Citra Entertainment.starhub">
         <title>Doyan Makan</title>
@@ -295,10 +295,10 @@
         <title>D&#039;ACADEMY ASIA 5</title>
     </programme>
     <programme start="20250111102500 +0000" stop="20250111114500 +0000" channel="Citra Entertainment.starhub">
-        <title>Ibaratnya Gini Wir, Lu Digoreng Tapi Gamon_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Ibaratnya Gini Wir, Lu Digoreng Tapi Gamon</title>
     </programme>
     <programme start="20250111114500 +0000" stop="20250111130500 +0000" channel="Citra Entertainment.starhub">
-        <title>Kejujuran Hati - Catatan Harian_x000D__x000D__x000D__x000D__x000D_</title>
+        <title>Kejujuran Hati - Catatan Harian</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107003000 +0000" channel="TV5MONDE HD.starhub">
         <title>Le Journal De France 2</title>
@@ -23392,15 +23392,21 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250107170000 +0000" stop="20250107180000 +0000" channel="CNN HD.starhub">
-        <title>The State Funeral of Jimmy Carter</title>
+        <title>One World</title>
     </programme>
     <programme start="20250107180000 +0000" stop="20250107190000 +0000" channel="CNN HD.starhub">
-        <title>The State Funeral of Jimmy Carter</title>
+        <title>Amanpour</title>
     </programme>
     <programme start="20250107190000 +0000" stop="20250107200000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
     <programme start="20250107200000 +0000" stop="20250107210000 +0000" channel="CNN HD.starhub">
+        <title>The State Funeral of Jimmy Carter</title>
+    </programme>
+    <programme start="20250107210000 +0000" stop="20250107220000 +0000" channel="CNN HD.starhub">
+        <title>The State Funeral of Jimmy Carter</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250107230000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
     <programme start="20250107230000 +0000" stop="20250108000000 +0000" channel="CNN HD.starhub">
@@ -23553,14 +23559,20 @@
     <programme start="20250109130000 +0000" stop="20250109140000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
-    <programme start="20250109140000 +0000" stop="20250109150000 +0000" channel="CNN HD.starhub">
+    <programme start="20250109140000 +0000" stop="20250109143000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
-    <programme start="20250109150000 +0000" stop="20250109160000 +0000" channel="CNN HD.starhub">
+    <programme start="20250109143000 +0000" stop="20250109160000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
     </programme>
     <programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="CNN HD.starhub">
         <title>The State Funeral of Jimmy Carter</title>
+    </programme>
+    <programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="CNN HD.starhub">
+        <title>The State Funeral of Jimmy Carter</title>
+    </programme>
+    <programme start="20250109180000 +0000" stop="20250109190000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour</title>
     </programme>
     <programme start="20250109190000 +0000" stop="20250109200000 +0000" channel="CNN HD.starhub">
         <title>Isa Soares Tonight</title>
@@ -23615,18 +23627,6 @@
     </programme>
     <programme start="20250110090000 +0000" stop="20250110100000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250110100000 +0000" stop="20250110110000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20250110110000 +0000" stop="20250110120000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20250110120000 +0000" stop="20250110123000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
-    </programme>
-    <programme start="20250110123000 +0000" stop="20250110130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250107000000 +0000" stop="20250107020000 +0000" channel="Cinema One Global.starhub">
         <title>Buddy En Sol: Sine &#039;To</title>
@@ -27780,10 +27780,10 @@
     <programme start="20250109213000 +0000" stop="20250109222000 +0000" channel="Hub VVDrama.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250109222000 +0000" stop="20250109231500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250109222000 +0000" stop="20250109230000 +0000" channel="Hub VVDrama.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250109231500 +0000" stop="20250110003000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250109230000 +0000" stop="20250110003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250110003000 +0000" stop="20250110013000 +0000" channel="Hub VVDrama.starhub">
@@ -29557,7 +29557,7 @@
         <title>Isuzu UTE A-League 2024/25 R11: Brisbane Roar FC vs Newcastle Jets</title>
     </programme>
     <programme start="20250108180000 +0000" stop="20250108183000 +0000" channel="TestChannel 995.starhub">
-        <title>FIA World Championship - Rallye du Maroc Final Highlights</title>
+        <title>#517</title>
     </programme>
     <programme start="20250108183000 +0000" stop="20250108213000 +0000" channel="TestChannel 995.starhub">
         <title>NFL 2024/25 Cleveland Browns vs Baltimore Ravens</title>
@@ -29566,10 +29566,10 @@
         <title>East Asia Super League 2024/25 Hiroshima Dragonflies vs San Miguel Beermen</title>
     </programme>
     <programme start="20250108233000 +0000" stop="20250109000000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 11 &amp; 12</title>
+        <title>Round 11</title>
     </programme>
-    <programme start="20250109000000 +0000" stop="20250109020000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2024/25 New Taipei Kings vs Ryukyu Golden Kings</title>
+    <programme start="20250109000000 +0000" stop="20250109010000 +0000" channel="TestChannel 995.starhub">
+        <title>4 Hours of Sepang Race 2</title>
     </programme>
     <programme start="20250109020000 +0000" stop="20250109060000 +0000" channel="TestChannel 995.starhub">
         <title>Hobart International (250) QF 1 &amp; 2</title>
@@ -30321,10 +30321,10 @@
     <programme start="20250109213000 +0000" stop="20250109222000 +0000" channel="TestChannel2.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250109222000 +0000" stop="20250109231500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250109222000 +0000" stop="20250109230000 +0000" channel="TestChannel2.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250109231500 +0000" stop="20250110003000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250109230000 +0000" stop="20250110003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250110003000 +0000" stop="20250110013000 +0000" channel="TestChannel2.starhub">
@@ -30669,6 +30669,24 @@
     <programme start="20250112065000 +0000" stop="20250112084000 +0000" channel="Premier Sports.starhub">
         <title>Champions Cup Sharks v Toulouse</title>
     </programme>
+    <programme start="20250107160000 +0000" stop="20250107180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250107180000 +0000" stop="20250107190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250107190000 +0000" stop="20250107200000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250107200000 +0000" stop="20250107210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250107210000 +0000" stop="20250107220000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250107220000 +0000" stop="20250107230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
     <programme start="20250107230000 +0000" stop="20250108000000 +0000" channel="TestChannel 993.starhub">
         <title>All About Health</title>
     </programme>
@@ -30740,6 +30758,216 @@
     </programme>
     <programme start="20250109000000 +0000" stop="20250109010000 +0000" channel="TestChannel 993.starhub">
         <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250109010000 +0000" stop="20250109020000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250109020000 +0000" stop="20250109030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250109030000 +0000" stop="20250109040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250109040000 +0000" stop="20250109060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
+    <programme start="20250109060000 +0000" stop="20250109070000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250109070000 +0000" stop="20250109080000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250109080000 +0000" stop="20250109090000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250109090000 +0000" stop="20250109100000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250109100000 +0000" stop="20250109110000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250109110000 +0000" stop="20250109120000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250109120000 +0000" stop="20250109130000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250109130000 +0000" stop="20250109140000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250109140000 +0000" stop="20250109150000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250109150000 +0000" stop="20250109160000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250109160000 +0000" stop="20250109180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250109180000 +0000" stop="20250109190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250109190000 +0000" stop="20250109200000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250109200000 +0000" stop="20250109210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250109210000 +0000" stop="20250109220000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250109220000 +0000" stop="20250109230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250109230000 +0000" stop="20250110000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250110000000 +0000" stop="20250110010000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250110010000 +0000" stop="20250110020000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250110020000 +0000" stop="20250110030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250110030000 +0000" stop="20250110040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250110040000 +0000" stop="20250110060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
+    <programme start="20250110060000 +0000" stop="20250110070000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250110070000 +0000" stop="20250110080000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250110080000 +0000" stop="20250110090000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250110090000 +0000" stop="20250110100000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250110100000 +0000" stop="20250110110000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250110110000 +0000" stop="20250110120000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250110120000 +0000" stop="20250110130000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250110130000 +0000" stop="20250110140000 +0000" channel="TestChannel 993.starhub">
+        <title>Beauty Lab</title>
+    </programme>
+    <programme start="20250110140000 +0000" stop="20250110150000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: 48 Hour Burning Desire!</title>
+    </programme>
+    <programme start="20250110150000 +0000" stop="20250110160000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250110160000 +0000" stop="20250110180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250110180000 +0000" stop="20250110190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250110190000 +0000" stop="20250110200000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250110200000 +0000" stop="20250110210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250110210000 +0000" stop="20250110220000 +0000" channel="TestChannel 993.starhub">
+        <title>Beauty Lab</title>
+    </programme>
+    <programme start="20250110220000 +0000" stop="20250110230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250110230000 +0000" stop="20250111000000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250111000000 +0000" stop="20250111010000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Hungry Generations</title>
+    </programme>
+    <programme start="20250111010000 +0000" stop="20250111020000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250111020000 +0000" stop="20250111030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250111030000 +0000" stop="20250111040000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250111040000 +0000" stop="20250111060000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS News</title>
+    </programme>
+    <programme start="20250111060000 +0000" stop="20250111070000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250111080000 +0000" stop="20250111090000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250111090000 +0000" stop="20250111100000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111110000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: 48 Hour Burning Desire!</title>
+    </programme>
+    <programme start="20250111110000 +0000" stop="20250111120000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250111120000 +0000" stop="20250111130000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s World News Asia</title>
+    </programme>
+    <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s World News Europe</title>
+    </programme>
+    <programme start="20250111150000 +0000" stop="20250111160000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250111170000 +0000" stop="20250111180000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250111180000 +0000" stop="20250111190000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250111190000 +0000" stop="20250111200000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250111200000 +0000" stop="20250111210000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250111210000 +0000" stop="20250111220000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste Plus</title>
+    </programme>
+    <programme start="20250112010000 +0000" stop="20250112020000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250112020000 +0000" stop="20250112030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250112030000 +0000" stop="20250112040000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
     </programme>
     <programme start="20250106220000 +0000" stop="20250107040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
