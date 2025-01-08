@@ -9565,7 +9565,7 @@
         <title>Race 2</title>
     </programme>
     <programme start="20250107160000 +0000" stop="20250107180000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR Mixed Cup Tournament</title>
+        <title>2024 GTOUR Mixed Cup 3rd Tournament Tire Pro</title>
     </programme>
     <programme start="20250107180000 +0000" stop="20250107191500 +0000" channel="SPOTV2.starhub">
         <title>Moto 3 Race</title>
@@ -9622,7 +9622,7 @@
         <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250109013000 +0000" stop="20250109033000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR WOMEN&#039;S 6th Tournament</title>
+        <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250109033000 +0000" stop="20250109040000 +0000" channel="SPOTV2.starhub">
         <title>Round 5 Neom</title>
@@ -9673,7 +9673,7 @@
         <title>Race 2</title>
     </programme>
     <programme start="20250110190000 +0000" stop="20250110210000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR Mixed Cup Tournament</title>
+        <title>2024 GTOUR Mixed Cup 3rd Tournament Tire Pro</title>
     </programme>
     <programme start="20250110210000 +0000" stop="20250110213000 +0000" channel="SPOTV2.starhub">
         <title>2025 Grid Activity</title>
@@ -9715,7 +9715,7 @@
         <title>Day 4 Session 1</title>
     </programme>
     <programme start="20250111213000 +0000" stop="20250111233000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR Mixed Cup Tournament</title>
+        <title>2024 GTOUR Mixed Cup 3rd Tournament Tire Pro</title>
     </programme>
     <programme start="20250111233000 +0000" stop="20250112023000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2</title>
@@ -9745,6 +9745,87 @@
         <title>2025 Grid Activity</title>
     </programme>
     <programme start="20250112170000 +0000" stop="20250112180000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250112180000 +0000" stop="20250112223000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250112223000 +0000" stop="20250112233000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250112233000 +0000" stop="20250113033000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20250113033000 +0000" stop="20250113080000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2</title>
+    </programme>
+    <programme start="20250113080000 +0000" stop="20250113083000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250113083000 +0000" stop="20250113130000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250113130000 +0000" stop="20250113133000 +0000" channel="SPOTV2.starhub">
+        <title>Round 2 Chicago</title>
+    </programme>
+    <programme start="20250113133000 +0000" stop="20250113140000 +0000" channel="SPOTV2.starhub">
+        <title>A Race To Remember</title>
+    </programme>
+    <programme start="20250113140000 +0000" stop="20250113180000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20250113180000 +0000" stop="20250113183000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250113183000 +0000" stop="20250113190000 +0000" channel="SPOTV2.starhub">
+        <title>A Race To Remember</title>
+    </programme>
+    <programme start="20250113190000 +0000" stop="20250113230000 +0000" channel="SPOTV2.starhub">
+        <title>Day 3 Session 2</title>
+    </programme>
+    <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250114000000 +0000" stop="20250114033000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 1</title>
+    </programme>
+    <programme start="20250114033000 +0000" stop="20250114063000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
+    <programme start="20250114063000 +0000" stop="20250114070000 +0000" channel="SPOTV2.starhub">
+        <title>Round 1 Boston</title>
+    </programme>
+    <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
+    </programme>
+    <programme start="20250114090000 +0000" stop="20250114130000 +0000" channel="SPOTV2.starhub">
+        <title>Day 3 Session 2</title>
+    </programme>
+    <programme start="20250114130000 +0000" stop="20250114133000 +0000" channel="SPOTV2.starhub">
+        <title>Season 5 Episode 1</title>
+    </programme>
+    <programme start="20250114133000 +0000" stop="20250114140000 +0000" channel="SPOTV2.starhub">
+        <title>Round 3 London</title>
+    </programme>
+    <programme start="20250114140000 +0000" stop="20250114173000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 1</title>
+    </programme>
+    <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250114180000 +0000" stop="20250114210000 +0000" channel="SPOTV2.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
+    <programme start="20250114210000 +0000" stop="20250114213000 +0000" channel="SPOTV2.starhub">
+        <title>A Race To Remember</title>
+    </programme>
+    <programme start="20250114213000 +0000" stop="20250114233000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
+    </programme>
+    <programme start="20250114233000 +0000" stop="20250115033000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20250115033000 +0000" stop="20250115043000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250106230000 +0000" stop="20250107020000 +0000" channel="Bloomberg Originals.starhub">
@@ -24801,13 +24882,13 @@
     <programme start="20250109191000 +0000" stop="20250109220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250109220000 +0000" stop="20250110000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250109220000 +0000" stop="20250110012000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250110000000 +0000" stop="20250110040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250110012000 +0000" stop="20250110044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M20 - Melbourne Renegades vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250110040000 +0000" stop="20250110080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250110044500 +0000" stop="20250110080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M24 - Hobart Hurricanes vs Adelaide Strikers</title>
     </programme>
     <programme start="20250110080000 +0000" stop="20250110121500 +0000" channel="Hub Sports 4 HD.starhub">
