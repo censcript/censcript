@@ -36,6 +36,9 @@
     <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Leicester City v QPR</title>
     </programme>
+    <programme start="20250111144500 +0000" stop="20250111173000 +0000" channel="Optus Sport 12.optus">
+        <title>N/A - FA Cup Goals Show</title>
+    </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Sunderland v Stoke</title>
     </programme>
