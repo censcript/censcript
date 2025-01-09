@@ -18031,7 +18031,7 @@
         <title>Galatta Kalyanam</title>
     </programme>
     <programme start="20250109080000 +0000" stop="20250109110000 +0000" channel="Vannathirai.starhub">
-        <title>Gokulam</title>
+        <title>Gouravam</title>
     </programme>
     <programme start="20250109110000 +0000" stop="20250109113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>
@@ -23460,13 +23460,10 @@
     <programme start="20250108200000 +0000" stop="20250108210000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250108210000 +0000" stop="20250108214500 +0000" channel="CNN HD.starhub">
+    <programme start="20250108210000 +0000" stop="20250108220000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20250108214500 +0000" stop="20250108220000 +0000" channel="CNN HD.starhub">
-        <title>The Business of African Fashion</title>
-    </programme>
-    <programme start="20250108220000 +0000" stop="20250108223000 +0000" channel="CNN HD.starhub">
+    <programme start="20250108220000 +0000" stop="20250108230000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
     </programme>
     <programme start="20250108230000 +0000" stop="20250109000000 +0000" channel="CNN HD.starhub">
@@ -23562,6 +23559,9 @@
     <programme start="20250110040000 +0000" stop="20250110050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
+    <programme start="20250110050000 +0000" stop="20250110054500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
     <programme start="20250110054500 +0000" stop="20250110060000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
@@ -23606,6 +23606,9 @@
     </programme>
     <programme start="20250110160000 +0000" stop="20250110170000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250110170000 +0000" stop="20250110180000 +0000" channel="CNN HD.starhub">
+        <title>One World</title>
     </programme>
     <programme start="20250110180000 +0000" stop="20250110190000 +0000" channel="CNN HD.starhub">
         <title>Amanpour</title>
@@ -23675,9 +23678,6 @@
     </programme>
     <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="CNN HD.starhub">
         <title>Djimon Hounsou</title>
-    </programme>
-    <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="CNN HD.starhub">
-        <title>Turkey</title>
     </programme>
     <programme start="20250108000000 +0000" stop="20250108020000 +0000" channel="Cinema One Global.starhub">
         <title>Kambal Tuko</title>
@@ -30955,7 +30955,7 @@
         <title>Genius Go Go Go</title>
     </programme>
     <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="TestChannel 993.starhub">
-        <title>TVBS Sisy&#039;s World News Asia</title>
+        <title>TVBS Sisy&#039;s World News</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="TestChannel 993.starhub">
         <title>TVBS Sisy&#039;s World News Europe</title>
