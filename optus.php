@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250109185000 +0000" stop="20250109221000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Sheffield United v Cardiff City</title>
-    </programme>
     <programme start="20250109193500 +0000" stop="20250109224500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Fulham v Watford</title>
     </programme>

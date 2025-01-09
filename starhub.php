@@ -2656,7 +2656,7 @@
         <title>2000 Evening News</title>
     </programme>
     <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Special report on &quot;National Military Weapons Spectrum&quot;</title>
+        <title>Chronicles Of Taiwan&#039;s Indigenous Weaponr</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
@@ -2668,7 +2668,7 @@
         <title>Late Night Vision</title>
     </programme>
     <programme start="20250111170000 +0000" stop="20250111180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Special report on &quot;National Military Weapons Spectrum&quot;</title>
+        <title>Chronicles Of Taiwan&#039;s Indigenous Weaponr</title>
     </programme>
     <programme start="20250111180000 +0000" stop="20250111190000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
@@ -2677,7 +2677,7 @@
         <title>Late Night Vision</title>
     </programme>
     <programme start="20250111200000 +0000" stop="20250111210000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Special report on &quot;National Military Weapons Spectrum&quot;</title>
+        <title>Chronicles Of Taiwan&#039;s Indigenous Weaponr</title>
     </programme>
     <programme start="20250111210000 +0000" stop="20250111220000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
