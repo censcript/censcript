@@ -3535,7 +3535,7 @@
         <title>Genius Go Go Go</title>
     </programme>
     <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="TVBS Asia.starhub">
-        <title>TVBS Sisy&#039;s World News Asia</title>
+        <title>TVBS Sisy&#039;s World News</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="TVBS Asia.starhub">
         <title>TVBS Sisy&#039;s World News Europe</title>
@@ -9660,6 +9660,9 @@
     <programme start="20250110021500 +0000" stop="20250110033000 +0000" channel="SPOTV2.starhub">
         <title>MotoGP Awards 2024</title>
     </programme>
+    <programme start="20250110033000 +0000" stop="20250110040000 +0000" channel="SPOTV2.starhub">
+        <title>2025 Grid Activity</title>
+    </programme>
     <programme start="20250110040000 +0000" stop="20250110081500 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
     </programme>
@@ -9689,6 +9692,9 @@
     </programme>
     <programme start="20250111003000 +0000" stop="20250111043000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
+    </programme>
+    <programme start="20250111043000 +0000" stop="20250111050000 +0000" channel="SPOTV2.starhub">
+        <title>Round 4 Toulouse</title>
     </programme>
     <programme start="20250111050000 +0000" stop="20250111060000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -9872,12 +9878,6 @@
     </programme>
     <programme start="20250116093000 +0000" stop="20250116100000 +0000" channel="SPOTV2.starhub">
         <title>Season 5 Episode 1</title>
-    </programme>
-    <programme start="20250116100000 +0000" stop="20250116103000 +0000" channel="SPOTV2.starhub">
-        <title>Round 2 Chicago</title>
-    </programme>
-    <programme start="20250116103000 +0000" stop="20250116133000 +0000" channel="SPOTV2.starhub">
-        <title>Day 4 Session 2</title>
     </programme>
     <programme start="20250107230000 +0000" stop="20250108020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -11664,11 +11664,11 @@
     <programme start="20250111110000 +0000" stop="20250111130000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>WCCB Frank Martin vs. Artem Harutyunyan</title>
     </programme>
-    <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>In Hong Kong</title>
-    </programme>
-    <programme start="20250111140000 +0000" stop="20250111143000 +0000" channel="FIGHT SPORTS HD.starhub">
+    <programme start="20250111130000 +0000" stop="20250111133000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>KNOCKOUTS! Floyd Mayweather, Jr. vs. Victor Ortiz</title>
+    </programme>
+    <programme start="20250111133000 +0000" stop="20250111143000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>In Hong Kong</title>
     </programme>
     <programme start="20250111143000 +0000" stop="20250111150000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>Tokyo, Japan: Show 1</title>
