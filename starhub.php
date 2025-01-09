@@ -25561,22 +25561,16 @@
         <title>Bloomberg Surveillance</title>
     </programme>
     <programme start="20250109140000 +0000" stop="20250109160000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Open Interest</title>
+        <title>Bloomberg Special Coverage: President Carter&#039;s State Funeral</title>
     </programme>
     <programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Technology</title>
+        <title>Bloomberg Special Coverage: President Carter&#039;s State Funeral</title>
     </programme>
-    <programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets</title>
-    </programme>
-    <programme start="20250109180000 +0000" stop="20250109190000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20250109170000 +0000" stop="20250109190000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg: Balance of Power</title>
     </programme>
-    <programme start="20250109190000 +0000" stop="20250109200000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20250109190000 +0000" stop="20250109220000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg BusinessWeek</title>
-    </programme>
-    <programme start="20250109200000 +0000" stop="20250109220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg The Close</title>
     </programme>
     <programme start="20250109220000 +0000" stop="20250109230000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg: Balance of Power</title>
@@ -25778,6 +25772,12 @@
     </programme>
     <programme start="20250112020000 +0000" stop="20250112023000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wealth with David Rubenstein</title>
+    </programme>
+    <programme start="20250112023000 +0000" stop="20250112030000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Wealth with David Rubenstein</title>
+    </programme>
+    <programme start="20250112030000 +0000" stop="20250112033000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Studio 1.0</title>
     </programme>
     <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
