@@ -9633,8 +9633,11 @@
     <programme start="20250109060000 +0000" stop="20250109080000 +0000" channel="SPOTV2.starhub">
         <title>2024 International Friendly (Women) Match 4 CommBank Matildas vs Chinese Taipei</title>
     </programme>
-    <programme start="20250109080000 +0000" stop="20250109123000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250109080000 +0000" stop="20250109120000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250109120000 +0000" stop="20250109123000 +0000" channel="SPOTV2.starhub">
+        <title>2025 Grid Activity</title>
     </programme>
     <programme start="20250109123000 +0000" stop="20250109130000 +0000" channel="SPOTV2.starhub">
         <title>Round 2 Chicago</title>
@@ -9645,17 +9648,17 @@
     <programme start="20250109140000 +0000" stop="20250109180000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
     </programme>
-    <programme start="20250109180000 +0000" stop="20250109223000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250109180000 +0000" stop="20250109220000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
+    </programme>
+    <programme start="20250109220000 +0000" stop="20250109223000 +0000" channel="SPOTV2.starhub">
+        <title>Round 3 London</title>
     </programme>
     <programme start="20250109223000 +0000" stop="20250110021500 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
     </programme>
     <programme start="20250110021500 +0000" stop="20250110033000 +0000" channel="SPOTV2.starhub">
         <title>MotoGP Awards 2024</title>
-    </programme>
-    <programme start="20250110033000 +0000" stop="20250110040000 +0000" channel="SPOTV2.starhub">
-        <title>2025 Grid Activity</title>
     </programme>
     <programme start="20250110040000 +0000" stop="20250110081500 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
@@ -9686,9 +9689,6 @@
     </programme>
     <programme start="20250111003000 +0000" stop="20250111043000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
-    </programme>
-    <programme start="20250111043000 +0000" stop="20250111050000 +0000" channel="SPOTV2.starhub">
-        <title>Round 4 Toulouse</title>
     </programme>
     <programme start="20250111050000 +0000" stop="20250111060000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
