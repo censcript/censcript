@@ -24933,10 +24933,10 @@
     <programme start="20250110191000 +0000" stop="20250110220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250110220000 +0000" stop="20250111013000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250110220000 +0000" stop="20250111022000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111013000 +0000" stop="20250111053000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250111022000 +0000" stop="20250111053000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M25 - Brisbane Heat vs Sydney Thunder</title>
     </programme>
     <programme start="20250111053000 +0000" stop="20250111094500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24966,14 +24966,14 @@
     <programme start="20250112161500 +0000" stop="20250112220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250112220000 +0000" stop="20250113001500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250112220000 +0000" stop="20250113004500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250113001500 +0000" stop="20250113041500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250113004500 +0000" stop="20250113044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M23 - Melbourne Stars vs Melbourne Renegades</title>
     </programme>
-    <programme start="20250113041500 +0000" stop="20250113081500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M27 - Sydney Thunder vs Hobart Hurricanes</title>
+    <programme start="20250113044500 +0000" stop="20250113081500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>Bangladesh Tour of India 2024: 1st T20I</title>
     </programme>
     <programme start="20250113081500 +0000" stop="20250113123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
@@ -25042,7 +25042,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250117000000 +0000" stop="20250117040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M27 - Sydney Thunder vs Hobart Hurricanes</title>
+        <title>Bangladesh Tour of India 2024: 2nd T20I</title>
     </programme>
     <programme start="20250117040000 +0000" stop="20250117080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
@@ -25135,7 +25135,7 @@
         <title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
     </programme>
     <programme start="20250122040000 +0000" stop="20250122080000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M40 - Melbourne Stars vs Hobart Hurricanes</title>
+        <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
     </programme>
     <programme start="20250122080000 +0000" stop="20250122120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M42 - Knockout</title>
@@ -25153,10 +25153,10 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250122232500 +0000" stop="20250123032500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
+        <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
     </programme>
     <programme start="20250123032500 +0000" stop="20250123072500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
+        <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
     </programme>
     <programme start="20250123072500 +0000" stop="20250123120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M09 - Rajasthan Royals vs Delhi Capitals</title>
@@ -25171,7 +25171,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250124000000 +0000" stop="20250124040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
+        <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
     </programme>
     <programme start="20250124040000 +0000" stop="20250124080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M42 - Knockout</title>
@@ -25606,178 +25606,178 @@
         <title>Bloomberg Open Interest</title>
     </programme>
     <programme start="20250110160000 +0000" stop="20250110170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: European Close</title>
+        <title>Bloomberg Technology</title>
     </programme>
-    <programme start="20250110170000 +0000" stop="20250110180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg: Balance of Power</title>
-    </programme>
-    <programme start="20250110180000 +0000" stop="20250110183000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20250110170000 +0000" stop="20250110173000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Real Yield</title>
     </programme>
-    <programme start="20250110183000 +0000" stop="20250110190000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets</title>
+    <programme start="20250110173000 +0000" stop="20250110180000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg: Balance of Power</title>
     </programme>
-    <programme start="20250110190000 +0000" stop="20250110213000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: The Close</title>
+    <programme start="20250110180000 +0000" stop="20250110190000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg: Balance of Power</title>
     </programme>
-    <programme start="20250110213000 +0000" stop="20250110220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: What&#039;d You Miss?</title>
+    <programme start="20250110190000 +0000" stop="20250110200000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg BusinessWeek</title>
+    </programme>
+    <programme start="20250110200000 +0000" stop="20250110220000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg The Close</title>
     </programme>
     <programme start="20250110220000 +0000" stop="20250110230000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Technology</title>
+        <title>Bloomberg: Balance of Power</title>
     </programme>
     <programme start="20250110230000 +0000" stop="20250111000000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20250111000000 +0000" stop="20250111003000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
     </programme>
     <programme start="20250111003000 +0000" stop="20250111010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+        <title>Rebirth of the World&#039;s Original Technology Giant</title>
     </programme>
     <programme start="20250111010000 +0000" stop="20250111013000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
     </programme>
     <programme start="20250111013000 +0000" stop="20250111020000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>The Earthshot Prize Innovation Summit 2024</title>
     </programme>
     <programme start="20250111020000 +0000" stop="20250111023000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Dave Ricks, Eli Lilly CEO</title>
     </programme>
     <programme start="20250111023000 +0000" stop="20250111030000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20250111030000 +0000" stop="20250111040000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20250111040000 +0000" stop="20250111043000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Monkey Laundering</title>
     </programme>
     <programme start="20250111043000 +0000" stop="20250111050000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>The Earthshot Prize Innovation Summit 2024</title>
     </programme>
-    <programme start="20250111050000 +0000" stop="20250111053000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+    <programme start="20250111050000 +0000" stop="20250111060000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Irretrievable</title>
     </programme>
-    <programme start="20250111053000 +0000" stop="20250111060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
-    </programme>
-    <programme start="20250111060000 +0000" stop="20250111063000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
-    </programme>
-    <programme start="20250111063000 +0000" stop="20250111070000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+    <programme start="20250111060000 +0000" stop="20250111070000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Candace Parker</title>
     </programme>
     <programme start="20250111070000 +0000" stop="20250111073000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Inside Adani: A Bloomberg Exclusive</title>
     </programme>
     <programme start="20250111073000 +0000" stop="20250111080000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Best of the Global Business Forum 2024</title>
     </programme>
     <programme start="20250111080000 +0000" stop="20250111090000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20250111090000 +0000" stop="20250111093000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
     </programme>
     <programme start="20250111093000 +0000" stop="20250111100000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Scambaiters</title>
     </programme>
-    <programme start="20250111100000 +0000" stop="20250111103000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
-    </programme>
-    <programme start="20250111103000 +0000" stop="20250111110000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+    <programme start="20250111100000 +0000" stop="20250111110000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Irretrievable</title>
     </programme>
     <programme start="20250111110000 +0000" stop="20250111120000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
-    <programme start="20250111120000 +0000" stop="20250111123000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Green</title>
-    </programme>
-    <programme start="20250111123000 +0000" stop="20250111130000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+    <programme start="20250111120000 +0000" stop="20250111130000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Candace Parker</title>
     </programme>
     <programme start="20250111130000 +0000" stop="20250111133000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Bloomberg New Economy: New Reality, New Rules</title>
     </programme>
     <programme start="20250111133000 +0000" stop="20250111140000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111143000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Dave Ricks, Eli Lilly CEO</title>
     </programme>
     <programme start="20250111143000 +0000" stop="20250111150000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>Best of the Global Business Forum 2024</title>
     </programme>
     <programme start="20250111150000 +0000" stop="20250111160000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
-    <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
-    </programme>
-    <programme start="20250111163000 +0000" stop="20250111170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+    <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Candace Parker</title>
     </programme>
     <programme start="20250111170000 +0000" stop="20250111173000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20250111173000 +0000" stop="20250111180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Inside Adani: A Bloomberg Exclusive</title>
     </programme>
     <programme start="20250111180000 +0000" stop="20250111183000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Dave Ricks, Eli Lilly CEO</title>
     </programme>
     <programme start="20250111183000 +0000" stop="20250111190000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Green</title>
+        <title>The Earthshot Prize Innovation Summit 2024</title>
     </programme>
     <programme start="20250111190000 +0000" stop="20250111193000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Monkey Laundering</title>
     </programme>
     <programme start="20250111193000 +0000" stop="20250111200000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Best of the Global Business Forum 2024</title>
     </programme>
     <programme start="20250111200000 +0000" stop="20250111203000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Leaders with Lacqua</title>
     </programme>
     <programme start="20250111203000 +0000" stop="20250111210000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
     </programme>
     <programme start="20250111210000 +0000" stop="20250111213000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>Robots: The Aliens We Made</title>
     </programme>
     <programme start="20250111213000 +0000" stop="20250111220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>Love in the Age of Machines</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+        <title>Candace Parker</title>
     </programme>
     <programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg New Economy: New Reality, New Rules</title>
     </programme>
     <programme start="20250111233000 +0000" stop="20250112000000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112003000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Inside Adani: A Bloomberg Exclusive</title>
     </programme>
     <programme start="20250112003000 +0000" stop="20250112010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Best of the Global Business Forum 2024</title>
     </programme>
     <programme start="20250112010000 +0000" stop="20250112013000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
     </programme>
     <programme start="20250112013000 +0000" stop="20250112020000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Monkey Laundering</title>
     </programme>
     <programme start="20250112020000 +0000" stop="20250112023000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20250112023000 +0000" stop="20250112030000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>Chanel CEO Leena Nair</title>
     </programme>
-    <programme start="20250112030000 +0000" stop="20250112033000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+    <programme start="20250112030000 +0000" stop="20250112040000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Irretrievable</title>
+    </programme>
+    <programme start="20250112040000 +0000" stop="20250112043000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>The Earthshot Prize Innovation Summit 2024</title>
+    </programme>
+    <programme start="20250112043000 +0000" stop="20250112050000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Your Brain Is the Next Tech Frontier</title>
+    </programme>
+    <programme start="20250112050000 +0000" stop="20250112060000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Green Festival</title>
+    </programme>
+    <programme start="20250112060000 +0000" stop="20250112063000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
+    </programme>
+    <programme start="20250112063000 +0000" stop="20250112070000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
     </programme>
     <programme start="20250107230000 +0000" stop="20250108010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
