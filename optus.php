@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250109193500 +0000" stop="20250109224500 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Fulham v Watford</title>
-    </programme>
-    <programme start="20250109193500 +0000" stop="20250109225500 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Everton v Peterborough</title>
-    </programme>
     <programme start="20250110163000 +0000" stop="20250110170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
