@@ -331,46 +331,70 @@
         <title>Number&#039;s Bite</title>
     </programme>
     <programme start="20250110230000 +0000" stop="20250110233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
+        <title>Editor&#039;s View</title>
     </programme>
-    <programme start="20250110233000 +0000" stop="20250111003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Autobizz</title>
+    <programme start="20250110233000 +0000" stop="20250111000000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Editor&#039;s View</title>
+    </programme>
+    <programme start="20250111000000 +0000" stop="20250111003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Editor&#039;s View</title>
     </programme>
     <programme start="20250111003000 +0000" stop="20250111010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20250111010000 +0000" stop="20250111030000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box - Live</title>
+        <title>Squawk Box</title>
     </programme>
-    <programme start="20250111030000 +0000" stop="20250111045500 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Profit - Live</title>
+    <programme start="20250111030000 +0000" stop="20250111050000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit</title>
     </programme>
-    <programme start="20250111045500 +0000" stop="20250111070000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Power Lunch - Live</title>
-    </programme>
-    <programme start="20250111070000 +0000" stop="20250111073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
-    </programme>
-    <programme start="20250111073000 +0000" stop="20250111080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250111080000 +0000" stop="20250111100000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Closing Bell - Live</title>
-    </programme>
-    <programme start="20250111100000 +0000" stop="20250111110500 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Evening Up - Live</title>
-    </programme>
-    <programme start="20250111110500 +0000" stop="20250111113000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point - Live</title>
-    </programme>
-    <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250111050000 +0000" stop="20250111053000 +0000" channel="CNBC Indonesia.cubmu">
         <title>CNBC Indonesia Exclusive</title>
     </programme>
-    <programme start="20250111120000 +0000" stop="20250111160000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Awards 2024 - Live</title>
+    <programme start="20250111053000 +0000" stop="20250111073000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Power Lunch</title>
     </programme>
-    <programme start="20250111160000 +0000" stop="20250110180000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box</title>
+    <programme start="20250111073000 +0000" stop="20250111080000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Exclusive</title>
+    </programme>
+    <programme start="20250111080000 +0000" stop="20250111100000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20250111100000 +0000" stop="20250111110000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Evening Up</title>
+    </programme>
+    <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Autobizz</title>
+    </programme>
+    <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Property Point</title>
+    </programme>
+    <programme start="20250111120000 +0000" stop="20250111123000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20250111123000 +0000" stop="20250111130000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Exclusive</title>
+    </programme>
+    <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Nation Hub</title>
+    </programme>
+    <programme start="20250111140000 +0000" stop="20250111143000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20250111143000 +0000" stop="20250111150000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Number&#039;s Bite</title>
+    </programme>
+    <programme start="20250111150000 +0000" stop="20250111153000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Number&#039;s Bite</title>
+    </programme>
+    <programme start="20250111153000 +0000" stop="20250111160000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Editor&#039;s View</title>
+    </programme>
+    <programme start="20250111163000 +0000" stop="20250110170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Editor&#039;s View</title>
     </programme>
     <programme start="20250110170000 +0000" stop="20250110183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Qurban Belahan Hati</title>
@@ -1852,13 +1876,13 @@
         <title>Tanah Airku</title>
     </programme>
     <programme start="20250110180300 +0000" stop="20250110183000 +0000" channel="BTV.cubmu">
-        <title>Figur Publik</title>
+        <title>Figur Publik - Lebih Dalam</title>
     </programme>
     <programme start="20250110183000 +0000" stop="20250110190000 +0000" channel="BTV.cubmu">
         <title>Kuyliner</title>
     </programme>
     <programme start="20250110190000 +0000" stop="20250110200000 +0000" channel="BTV.cubmu">
-        <title>Berita Satu Sore</title>
+        <title>Berita Satu Siang</title>
     </programme>
     <programme start="20250110200000 +0000" stop="20250110210000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Malam</title>
@@ -1893,8 +1917,11 @@
     <programme start="20250111023000 +0000" stop="20250111030000 +0000" channel="BTV.cubmu">
         <title>Vacation List</title>
     </programme>
-    <programme start="20250111030000 +0000" stop="20250111040000 +0000" channel="BTV.cubmu">
+    <programme start="20250111030000 +0000" stop="20250111033000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
+    </programme>
+    <programme start="20250111033000 +0000" stop="20250111040000 +0000" channel="BTV.cubmu">
+        <title>30 Min With Moren</title>
     </programme>
     <programme start="20250111040000 +0000" stop="20250111050000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Siang</title>

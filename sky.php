@@ -6196,7 +6196,7 @@
         <title>Shop: Dormeo Mattresses</title>
     </programme>
     <programme start="20250111073000 +0000" stop="20250111080000 +0000" channel="That's TV">
-        <title>Shop: Mini Chainsaw</title>
+        <title>Shop: Chef O Matic</title>
     </programme>
     <programme start="20250111080000 +0000" stop="20250111081000 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
@@ -14949,17 +14949,11 @@
     <programme start="20250111122500 +0000" stop="20250111135500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
     </programme>
-    <programme start="20250111135500 +0000" stop="20250111144000 +0000" channel="BBC Parl HD">
+    <programme start="20250111135500 +0000" stop="20250111151500 +0000" channel="BBC Parl HD">
         <title>House of Commons - Child Sexual...</title>
     </programme>
-    <programme start="20250111144000 +0000" stop="20250111151500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
-    </programme>
-    <programme start="20250111151500 +0000" stop="20250111152000 +0000" channel="BBC Parl HD">
+    <programme start="20250111151500 +0000" stop="20250111160500 +0000" channel="BBC Parl HD">
         <title>House of Lords - The Civil Service</title>
-    </programme>
-    <programme start="20250111152000 +0000" stop="20250111160500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
     </programme>
     <programme start="20250111160500 +0000" stop="20250111161500 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament</title>
@@ -14967,11 +14961,8 @@
     <programme start="20250111161500 +0000" stop="20250111164500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Education and Skills Questions</title>
     </programme>
-    <programme start="20250111164500 +0000" stop="20250111171500 +0000" channel="BBC Parl HD">
+    <programme start="20250111164500 +0000" stop="20250111173500 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament...</title>
-    </programme>
-    <programme start="20250111171500 +0000" stop="20250111173500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
     </programme>
     <programme start="20250111173500 +0000" stop="20250111174500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Northern Gaza Statement</title>
@@ -25359,7 +25350,10 @@
     <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="B4U Music">
         <title>Boom Box</title>
     </programme>
-    <programme start="20250110223400 +0000" stop="20250111004000 +0000" channel="SONY TV HD">
+    <programme start="20250110223400 +0000" stop="20250110233400 +0000" channel="SONY TV HD">
+        <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250110233400 +0000" stop="20250111004000 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250111004000 +0000" stop="20250111014100 +0000" channel="SONY TV HD">
@@ -25377,8 +25371,11 @@
     <programme start="20250111040300 +0000" stop="20250111045400 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Satark</title>
     </programme>
-    <programme start="20250111045400 +0000" stop="20250111070000 +0000" channel="SONY TV HD">
+    <programme start="20250111045400 +0000" stop="20250111055200 +0000" channel="SONY TV HD">
         <title>CID</title>
+    </programme>
+    <programme start="20250111055200 +0000" stop="20250111070000 +0000" channel="SONY TV HD">
+        <title>Shark Tank India</title>
     </programme>
     <programme start="20250111070000 +0000" stop="20250111082500 +0000" channel="SONY TV HD">
         <title>Indian Idol 2024</title>
@@ -25404,8 +25401,11 @@
     <programme start="20250111145500 +0000" stop="20250111155600 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250111155600 +0000" stop="20250111190000 +0000" channel="SONY TV HD">
+    <programme start="20250111155600 +0000" stop="20250111172600 +0000" channel="SONY TV HD">
         <title>Champions Ka Tashan</title>
+    </programme>
+    <programme start="20250111172600 +0000" stop="20250111190000 +0000" channel="SONY TV HD">
+        <title>Indian Idol 2024</title>
     </programme>
     <programme start="20250111190000 +0000" stop="20250111202900 +0000" channel="SONY TV HD">
         <title>Champions Ka Tashan</title>
@@ -27366,11 +27366,8 @@
     <programme start="20250110223000 +0000" stop="20250110230000 +0000" channel="Islam Channel">
         <title>Analysis</title>
     </programme>
-    <programme start="20250110230000 +0000" stop="20250110232000 +0000" channel="Islam Channel">
+    <programme start="20250110230000 +0000" stop="20250110233000 +0000" channel="Islam Channel">
         <title>Aafia 650</title>
-    </programme>
-    <programme start="20250110232000 +0000" stop="20250110233000 +0000" channel="Islam Channel">
-        <title>Jumuah Prayer Al Aqsa</title>
     </programme>
     <programme start="20250110233000 +0000" stop="20250111000000 +0000" channel="Islam Channel">
         <title>Jumuah Prayer Al Aqsa</title>
@@ -27387,11 +27384,8 @@
     <programme start="20250111013000 +0000" stop="20250111020000 +0000" channel="Islam Channel">
         <title>Jumah Prayer Madinah</title>
     </programme>
-    <programme start="20250111020000 +0000" stop="20250111025000 +0000" channel="Islam Channel">
+    <programme start="20250111020000 +0000" stop="20250111025500 +0000" channel="Islam Channel">
         <title>Jumuah Prayer Al Aqsa</title>
-    </programme>
-    <programme start="20250111025000 +0000" stop="20250111025500 +0000" channel="Islam Channel">
-        <title>Live Prayers from Makkah: Fajr</title>
     </programme>
     <programme start="20250111025500 +0000" stop="20250111031500 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Fajr</title>
@@ -34107,11 +34101,8 @@
     <programme start="20250111060000 +0000" stop="20250111080000 +0000" channel="TNTSports3 HD">
         <title>Live: Canberra U W v Western U W</title>
     </programme>
-    <programme start="20250111080000 +0000" stop="20250111083000 +0000" channel="TNTSports3 HD">
-        <title>This is TNT Sports 3</title>
-    </programme>
-    <programme start="20250111083000 +0000" stop="20250111084500 +0000" channel="TNTSports3 HD">
-        <title>This is TNT Sports 3</title>
+    <programme start="20250111080000 +0000" stop="20250111084500 +0000" channel="TNTSports3 HD">
+        <title>Sign Up - Into Football</title>
     </programme>
     <programme start="20250111084500 +0000" stop="20250111104500 +0000" channel="TNTSports3 HD">
         <title>Live: Melbourne C W v Brisbane R W</title>
@@ -34701,8 +34692,11 @@
     <programme start="20250110223400 +0000" stop="20250110233400 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250110233400 +0000" stop="20250111014100 +0000" channel="SONY TV">
+    <programme start="20250110233400 +0000" stop="20250111004000 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250111004000 +0000" stop="20250111014100 +0000" channel="SONY TV">
+        <title>Crime Patrol - Satark</title>
     </programme>
     <programme start="20250111014100 +0000" stop="20250111022400 +0000" channel="SONY TV">
         <title>Crime Patrol - Satark</title>
@@ -34734,11 +34728,8 @@
     <programme start="20250111093000 +0000" stop="20250111110400 +0000" channel="SONY TV">
         <title>Indian Idol 2024</title>
     </programme>
-    <programme start="20250111110400 +0000" stop="20250111123000 +0000" channel="SONY TV">
+    <programme start="20250111110400 +0000" stop="20250111123400 +0000" channel="SONY TV">
         <title>Champions Ka Tashan</title>
-    </programme>
-    <programme start="20250111123000 +0000" stop="20250111123400 +0000" channel="SONY TV">
-        <title>Comedy Circus - 4</title>
     </programme>
     <programme start="20250111123400 +0000" stop="20250111133000 +0000" channel="SONY TV">
         <title>Comedy Circus - 4</title>
