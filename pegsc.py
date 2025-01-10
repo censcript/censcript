@@ -35,6 +35,7 @@ urls = [
     "https://www.bevy.be/bevyfiles/portugal2.xml",
     "https://manusiabiasa.serv00.net/cen/epg/alkass.php",
     "https://manusiabiasa.serv00.net/cen/epg/vision.php",
+    "https://cindo.mra.my.id/epg/sky.php",
 ]
 
 # Memanggil fungsi untuk mendownload semua EPGs
