@@ -219,14 +219,62 @@
     <programme start="20250119203000 +0000" stop="20250119220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
+    <programme start="20250120130000 +0000" stop="20250120140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250120193000 +0000" stop="20250120221000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250120223000 +0000" stop="20250120233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250121090000 +0000" stop="20250121100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11: Paul Konchesky</title>
+    </programme>
+    <programme start="20250121153000 +0000" stop="20250121160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250122150000 +0000" stop="20250122160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Cesc Fabregas</title>
+    </programme>
+    <programme start="20250123133000 +0000" stop="20250123140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250124103000 +0000" stop="20250124110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250124180000 +0000" stop="20250124190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250125115000 +0000" stop="20250125141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Aston Villa v Manchester City</title>
     </programme>
+    <programme start="20250125140000 +0000" stop="20250125172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
     <programme start="20250126122000 +0000" stop="20250126144000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Arsenal</title>
+    </programme>
+    <programme start="20250126130000 +0000" stop="20250126162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 203.optus">
         <title>Women&#039;s Super League - Crystal Palace v Tottenham Hotspur</title>
@@ -240,16 +288,16 @@
     <programme start="20250126183500 +0000" stop="20250126204500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Brighton and Hove Albion</title>
     </programme>
+    <programme start="20250126220000 +0000" stop="20250126233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250126233000 +0000" stop="20250127003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>
     </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
-    </programme>
-    <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Bremen</title>
-    </programme>
-    <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
 </tv>
