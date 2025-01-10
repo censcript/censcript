@@ -14475,11 +14475,8 @@
     <programme start="20250111111500 +0000" stop="20250111120000 +0000" channel="Racing TV">
         <title>The Full SP: Preview</title>
     </programme>
-    <programme start="20250111120000 +0000" stop="20250111161500 +0000" channel="Racing TV">
+    <programme start="20250111120000 +0000" stop="20250111171500 +0000" channel="Racing TV">
         <title>The Full SP: Live Racing</title>
-    </programme>
-    <programme start="20250111161500 +0000" stop="20250111171500 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250111171500 +0000" stop="20250111174500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
@@ -14496,19 +14493,13 @@
     <programme start="20250111201500 +0000" stop="20250111204500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250111204500 +0000" stop="20250111211500 +0000" channel="Racing TV">
+    <programme start="20250111204500 +0000" stop="20250111214500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250111211500 +0000" stop="20250111214500 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250111214500 +0000" stop="20250111221500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250111221500 +0000" stop="20250111224500 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250111224500 +0000" stop="20250111231500 +0000" channel="Racing TV">
+    <programme start="20250111221500 +0000" stop="20250111231500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250111231500 +0000" stop="20250111234500 +0000" channel="Racing TV">
@@ -24508,10 +24499,10 @@
         <title>Home &amp; Bedding with Joanne</title>
     </programme>
     <programme start="20250111000000 +0000" stop="20250111010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Joanne</title>
     </programme>
     <programme start="20250111010000 +0000" stop="20250111020000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Joanne</title>
     </programme>
     <programme start="20250111020000 +0000" stop="20250111030000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -24526,58 +24517,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250111060000 +0000" stop="20250111070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Ideal Beauty with Natalia</title>
     </programme>
     <programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Skincare Spotlight with Natalia</title>
     </programme>
     <programme start="20250111080000 +0000" stop="20250111090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Health, Fitness &amp; Wellbeing with Natalia</title>
     </programme>
     <programme start="20250111090000 +0000" stop="20250111100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Health, Fitness &amp; Wellbeing with Natalia</title>
     </programme>
     <programme start="20250111100000 +0000" stop="20250111110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Mix &amp; Match Accessories with Mike</title>
     </programme>
     <programme start="20250111110000 +0000" stop="20250111120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Killa Vanilla with Mike</title>
     </programme>
     <programme start="20250111120000 +0000" stop="20250111130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Men's Fashion with Mike</title>
     </programme>
     <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Mike</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Beauty &amp; Fashion Accessories with Genevieve</title>
     </programme>
     <programme start="20250111150000 +0000" stop="20250111160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Saturday Fashion with Genevieve</title>
     </programme>
     <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Saturday Fashion with Genevieve</title>
     </programme>
     <programme start="20250111170000 +0000" stop="20250111180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Saturday Fashion with Genevieve</title>
     </programme>
     <programme start="20250111180000 +0000" stop="20250111190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Peter</title>
     </programme>
     <programme start="20250111190000 +0000" stop="20250111200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Peter</title>
     </programme>
     <programme start="20250111200000 +0000" stop="20250111210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Peter</title>
     </programme>
     <programme start="20250111210000 +0000" stop="20250111220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Pick of the Day! Soulsmart Stepper with Peter</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Joanne</title>
     </programme>
     <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Joanne</title>
     </programme>
     <programme start="20250110180000 +0000" stop="20250111000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -29232,8 +29223,11 @@
     <programme start="20250111110000 +0000" stop="20250111120000 +0000" channel="Kanshi TV">
         <title>Jyotish Amrit Mata - Astrologer</title>
     </programme>
-    <programme start="20250111120000 +0000" stop="20250111140000 +0000" channel="Kanshi TV">
+    <programme start="20250111120000 +0000" stop="20250111133000 +0000" channel="Kanshi TV">
         <title>Bhai Ranjit Singh Khalsa Dhadrianwale</title>
+    </programme>
+    <programme start="20250111133000 +0000" stop="20250111140000 +0000" channel="Kanshi TV">
+        <title>Bharat ki Awaz</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="Kanshi TV">
         <title>All Nations Church</title>
@@ -30426,8 +30420,11 @@
     <programme start="20250111060000 +0000" stop="20250111062200 +0000" channel="Islam Bangla">
         <title>Islami Jigghasha</title>
     </programme>
-    <programme start="20250111062200 +0000" stop="20250111070000 +0000" channel="Islam Bangla">
+    <programme start="20250111062200 +0000" stop="20250111062700 +0000" channel="Islam Bangla">
         <title>Fajr Adhan</title>
+    </programme>
+    <programme start="20250111062700 +0000" stop="20250111070000 +0000" channel="Islam Bangla">
+        <title>Islami Jigghasha</title>
     </programme>
     <programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="Islam Bangla">
         <title>Drama Serial: Yusuf Zulekha</title>
@@ -34317,11 +34314,8 @@
     <programme start="20250111111500 +0000" stop="20250111120000 +0000" channel="Racing TV HD">
         <title>The Full SP: Preview</title>
     </programme>
-    <programme start="20250111120000 +0000" stop="20250111161500 +0000" channel="Racing TV HD">
+    <programme start="20250111120000 +0000" stop="20250111171500 +0000" channel="Racing TV HD">
         <title>The Full SP: Live Racing</title>
-    </programme>
-    <programme start="20250111161500 +0000" stop="20250111171500 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250111171500 +0000" stop="20250111174500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>

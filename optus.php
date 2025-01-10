@@ -21,7 +21,7 @@
     <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Leicester City v QPR</title>
     </programme>
-    <programme start="20250111144500 +0000" stop="20250111173000 +0000" channel="Optus Sport 12.optus">
+    <programme start="20250111144500 +0000" stop="20250111174500 +0000" channel="Optus Sport 12.optus">
         <title>N/A - FA Cup Goals Show</title>
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 4.optus">
@@ -38,9 +38,6 @@
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Chelsea v Morecambe</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 8.optus">
-        <title>FA Cup - Preston North End v Charlton Athletic</title>
     </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Norwich City v Brighton</title>
@@ -59,9 +56,6 @@
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Coventry City v Sheffield Wednesday</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Mansfield Town v Wigan Athletic</title>
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
@@ -87,6 +81,9 @@
     <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Southampton v Swansea</title>
     </programme>
+    <programme start="20250112170000 +0000" stop="20250112173000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - FA Cup Fourth Round Draw</title>
+    </programme>
     <programme start="20250113192000 +0000" stop="20250113224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Millwall v Dagenham &amp; Redbridge</title>
     </programme>
@@ -104,6 +101,12 @@
     </programme>
     <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Brentford v Manchester City</title>
+    </programme>
+    <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 6.optus">
+        <title>FA Cup - Mansfield Town v Wigan Athletic</title>
+    </programme>
+    <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 8.optus">
+        <title>FA Cup - Preston North End v Charlton Athletic</title>
     </programme>
     <programme start="20250114195000 +0000" stop="20250114221000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Nottingham Forest v Liverpool</title>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
-    </programme>
-    <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
 </tv>
