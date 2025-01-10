@@ -17731,7 +17731,7 @@
         <title>Star Talk with Vinay -South Meets North -Season 2</title>
     </programme>
     <programme start="20250109193000 +0000" stop="20250109223000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Arjun Reddy (Mal-dub)</title>
     </programme>
     <programme start="20250109223000 +0000" stop="20250109230000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
@@ -17908,7 +17908,7 @@
         <title>Engile Ennodu Para</title>
     </programme>
     <programme start="20250111190000 +0000" stop="20250111220000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>RDX</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
@@ -17944,7 +17944,7 @@
         <title>Maheshum Maruthiyum</title>
     </programme>
     <programme start="20250112073000 +0000" stop="20250112080000 +0000" channel="Asianet.starhub">
-        <title>Engile Ennodu Para : Short Version</title>
+        <title>Ormayil Bhavagayakan</title>
     </programme>
     <programme start="20250112080000 +0000" stop="20250112083000 +0000" channel="Asianet.starhub">
         <title>Santhwanam-2</title>
@@ -18615,32 +18615,35 @@
     <programme start="20250110233000 +0000" stop="20250111023000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kavan</title>
     </programme>
-    <programme start="20250111013000 +0000" stop="20250111040000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111023000 +0000" stop="20250111050000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Captain</title>
     </programme>
-    <programme start="20250111040000 +0000" stop="20250111070000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111050000 +0000" stop="20250111083000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Pattathu Yaanai</title>
     </programme>
-    <programme start="20250111070000 +0000" stop="20250111103000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111083000 +0000" stop="20250111113000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kodiveeran</title>
     </programme>
-    <programme start="20250111103000 +0000" stop="20250111140000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111113000 +0000" stop="20250111150000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Ka Pe Ranasingam</title>
     </programme>
-    <programme start="20250111140000 +0000" stop="20250111153000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Inime Naangadhan</title>
+    <programme start="20250111150000 +0000" stop="20250111153000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20250111153000 +0000" stop="20250111183000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111153000 +0000" stop="20250111160000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250111163000 +0000" stop="20250111170000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250111170000 +0000" stop="20250111193000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - 2.0</title>
     </programme>
-    <programme start="20250111183000 +0000" stop="20250111203000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250111193000 +0000" stop="20250111213000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Veetla Vishesham</title>
-    </programme>
-    <programme start="20250111203000 +0000" stop="20250111210000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250111210000 +0000" stop="20250111213000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
     </programme>
     <programme start="20250111213000 +0000" stop="20250111220000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
@@ -18661,12 +18664,12 @@
         <title>Movies - Ennul Aayiram</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112130000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Enai Noki Paayum Thotta</title>
+        <title>Movies - Enai Nokki Payum Thotta</title>
     </programme>
-    <programme start="20250112130000 +0000" stop="20250112153000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250112130000 +0000" stop="20250112154500 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kavalthurai Ungal Nanban</title>
     </programme>
-    <programme start="20250112153000 +0000" stop="20250112180000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250112154500 +0000" stop="20250112180000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - I Smart Shankar</title>
     </programme>
     <programme start="20250112180000 +0000" stop="20250112200000 +0000" channel="Zee Thirai.starhub">
@@ -18678,38 +18681,50 @@
     <programme start="20250112203000 +0000" stop="20250112210000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250112210000 +0000" stop="20250112230000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250112210000 +0000" stop="20250112213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250112213000 +0000" stop="20250112220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250112233000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Boomerang</title>
     </programme>
-    <programme start="20250112230000 +0000" stop="20250113020000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250112233000 +0000" stop="20250113023000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Samar</title>
     </programme>
-    <programme start="20250113020000 +0000" stop="20250113050000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113023000 +0000" stop="20250113053000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Lakshmi</title>
     </programme>
-    <programme start="20250113050000 +0000" stop="20250113080000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113053000 +0000" stop="20250113083000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Yaanai</title>
     </programme>
-    <programme start="20250113080000 +0000" stop="20250113113000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113083000 +0000" stop="20250113113000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - The Great Father</title>
     </programme>
     <programme start="20250113113000 +0000" stop="20250113143000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Vikram Vedha</title>
     </programme>
-    <programme start="20250113143000 +0000" stop="20250113160000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113143000 +0000" stop="20250113161500 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Lisa 3d</title>
     </programme>
-    <programme start="20250113160000 +0000" stop="20250113183000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113161500 +0000" stop="20250113190000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Bangalore Days</title>
     </programme>
-    <programme start="20250113183000 +0000" stop="20250113203000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113190000 +0000" stop="20250113210000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - My Dear Bootham</title>
     </programme>
-    <programme start="20250113203000 +0000" stop="20250113210000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250113210000 +0000" stop="20250113213000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250113210000 +0000" stop="20250113230000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Adhe Kangal</title>
+    <programme start="20250113213000 +0000" stop="20250113220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250113220000 +0000" stop="20250113223000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114020000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Maapillai Singam</title>
@@ -18726,11 +18741,11 @@
     <programme start="20250114113000 +0000" stop="20250114140000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Ivan Thanthiran</title>
     </programme>
-    <programme start="20250114140000 +0000" stop="20250114160000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - En Kitta Mothathe</title>
+    <programme start="20250114140000 +0000" stop="20250114161500 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Enkitta Mothathey</title>
     </programme>
-    <programme start="20250114160000 +0000" stop="20250114180000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Sethupathy</title>
+    <programme start="20250114161500 +0000" stop="20250114180000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Sethupathi</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114203000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kolamavu Kokila</title>
@@ -18762,20 +18777,23 @@
     <programme start="20250115113000 +0000" stop="20250115140000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Saithaan</title>
     </programme>
-    <programme start="20250115140000 +0000" stop="20250115160000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250115140000 +0000" stop="20250115161500 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Ammani</title>
     </programme>
-    <programme start="20250115160000 +0000" stop="20250115180000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250115161500 +0000" stop="20250115183000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Tamilarasan</title>
     </programme>
-    <programme start="20250115180000 +0000" stop="20250115203000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250115183000 +0000" stop="20250115210000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Nota</title>
     </programme>
-    <programme start="20250115203000 +0000" stop="20250115210000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250115210000 +0000" stop="20250115213000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250115210000 +0000" stop="20250115233000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Nenjam Marapathillai</title>
+    <programme start="20250115213000 +0000" stop="20250115220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250115220000 +0000" stop="20250115233000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Sethupathi</title>
     </programme>
     <programme start="20250115233000 +0000" stop="20250116023000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Charlie 777</title>
@@ -18787,31 +18805,31 @@
         <title>Movies - Dhilluku Dhuttu 2</title>
     </programme>
     <programme start="20250116080000 +0000" stop="20250116113000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Kgf: Chapter 2</title>
+        <title>Movies - Kgf Chapter 2</title>
     </programme>
     <programme start="20250116113000 +0000" stop="20250116140000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Maniyar Kudumbham</title>
     </programme>
-    <programme start="20250116140000 +0000" stop="20250116160000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250116140000 +0000" stop="20250116161500 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kirumi</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116183000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250116161500 +0000" stop="20250116183000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kurup</title>
     </programme>
-    <programme start="20250116183000 +0000" stop="20250116190000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250116190000 +0000" stop="20250116193000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250116193000 +0000" stop="20250116200000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250116200000 +0000" stop="20250116203000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250116203000 +0000" stop="20250116230000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250116183000 +0000" stop="20250116210000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kodiveeran</title>
+    </programme>
+    <programme start="20250116210000 +0000" stop="20250116213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250116213000 +0000" stop="20250116220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250116220000 +0000" stop="20250116223000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250116223000 +0000" stop="20250116230000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
     <programme start="20250116230000 +0000" stop="20250117023000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Veerame Vaagai Soodum</title>
@@ -18826,28 +18844,10 @@
         <title>Movies - Karnan</title>
     </programme>
     <programme start="20250117113000 +0000" stop="20250117140000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Thittam Pottu Thirudura Koottam</title>
+        <title>Movies - Thitta Pottu Thirudura Koottam</title>
     </programme>
-    <programme start="20250117140000 +0000" stop="20250117160000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250117140000 +0000" stop="20250117161500 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kurangu Bommai</title>
-    </programme>
-    <programme start="20250117160000 +0000" stop="20250117180000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Zombie Reddy</title>
-    </programme>
-    <programme start="20250117180000 +0000" stop="20250117203000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Kalavani 2</title>
-    </programme>
-    <programme start="20250117203000 +0000" stop="20250117210000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250117210000 +0000" stop="20250117213000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250117213000 +0000" stop="20250117220000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
-    </programme>
-    <programme start="20250117220000 +0000" stop="20250118003000 +0000" channel="Zee Thirai.starhub">
-        <title>Movies - Kalathil Santhipom</title>
     </programme>
     <programme start="20250108230000 +0000" stop="20250109020000 +0000" channel="SEA Today.starhub">
         <title>Sea Morning Show (Live)</title>
