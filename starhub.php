@@ -24900,13 +24900,13 @@
     <programme start="20250111164500 +0000" stop="20250111220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250112000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250111220000 +0000" stop="20250112005500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250112000000 +0000" stop="20250112040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250112005500 +0000" stop="20250112043500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M22 - Perth Scorchers vs Sydney Thunder</title>
     </programme>
-    <programme start="20250112040000 +0000" stop="20250112080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250112043500 +0000" stop="20250112080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M26 - Perth Scorchers vs Melbourne Renegades</title>
     </programme>
     <programme start="20250112080000 +0000" stop="20250112121500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24918,10 +24918,10 @@
     <programme start="20250112161500 +0000" stop="20250112220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250112220000 +0000" stop="20250113004500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250112220000 +0000" stop="20250113012000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250113004500 +0000" stop="20250113044500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250113012000 +0000" stop="20250113044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M23 - Melbourne Stars vs Melbourne Renegades</title>
     </programme>
     <programme start="20250113044500 +0000" stop="20250113081500 +0000" channel="Hub Sports 4 HD.starhub">
