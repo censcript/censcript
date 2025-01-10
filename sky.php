@@ -34338,19 +34338,13 @@
     <programme start="20250111201500 +0000" stop="20250111204500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250111204500 +0000" stop="20250111211500 +0000" channel="Racing TV HD">
+    <programme start="20250111204500 +0000" stop="20250111214500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250111211500 +0000" stop="20250111214500 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250111214500 +0000" stop="20250111221500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250111221500 +0000" stop="20250111224500 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250111224500 +0000" stop="20250111231500 +0000" channel="Racing TV HD">
+    <programme start="20250111221500 +0000" stop="20250111231500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250111231500 +0000" stop="20250111234500 +0000" channel="Racing TV HD">
@@ -36961,7 +36955,7 @@
         <title>Fight Night with Adam Catterall</title>
     </programme>
     <programme start="20250110220000 +0000" stop="20250111010000 +0000" channel="Capital">
-        <title>Capital Weekend</title>
+        <title>Weekender</title>
     </programme>
     <programme start="20250111010000 +0000" stop="20250111050000 +0000" channel="Capital">
         <title>Chris Ros</title>
