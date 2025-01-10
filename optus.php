@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250110193500 +0000" stop="20250110225500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Wycombe v Portsmouth</title>
-    </programme>
-    <programme start="20250110195000 +0000" stop="20250110231000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Aston Villa v West Ham United</title>
-    </programme>
     <programme start="20250111115000 +0000" stop="20250111151000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Birmingham City v Lincoln City</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
+    </programme>
+    <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Bremen</title>
+    </programme>
+    <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
 </tv>

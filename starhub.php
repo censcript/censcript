@@ -22212,11 +22212,11 @@
     <programme start="20250110170000 +0000" stop="20250110200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Vaada</title>
     </programme>
-    <programme start="20250110200000 +0000" stop="20250110220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
+    <programme start="20250110200000 +0000" stop="20250110223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naangal</title>
     </programme>
-    <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250110223000 +0000" stop="20250111010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ellame En Thangachi</title>
     </programme>
     <programme start="20250111040000 +0000" stop="20250111100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>

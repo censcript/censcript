@@ -26868,7 +26868,10 @@
     <programme start="20250111085000 +0000" stop="20250111093500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250111093500 +0000" stop="20250111094500 +0000" channel="MTA1 World HD">
+    <programme start="20250111093500 +0000" stop="20250111094000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250111094000 +0000" stop="20250111094500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
     <programme start="20250111094500 +0000" stop="20250111095500 +0000" channel="MTA1 World HD">
@@ -26878,7 +26881,7 @@
         <title>Inside Ahmadiyya</title>
     </programme>
     <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="MTA1 World HD">
-        <title>National Waqfeen-e-Nau Ijtema 2024</title>
+        <title>National Waqfeen-e-Nau Ijtema</title>
     </programme>
     <programme start="20250111113000 +0000" stop="20250111115500 +0000" channel="MTA1 World HD">
         <title>Tehrik-e-Jadid</title>
@@ -26907,11 +26910,17 @@
     <programme start="20250111143000 +0000" stop="20250111151500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250111151500 +0000" stop="20250111152500 +0000" channel="MTA1 World HD">
+    <programme start="20250111151500 +0000" stop="20250111152000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250111152500 +0000" stop="20250111163000 +0000" channel="MTA1 World HD">
+    <programme start="20250111152000 +0000" stop="20250111152500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250111152500 +0000" stop="20250111153000 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
+    </programme>
+    <programme start="20250111153000 +0000" stop="20250111163000 +0000" channel="MTA1 World HD">
+        <title>Kudak</title>
     </programme>
     <programme start="20250111163000 +0000" stop="20250111173500 +0000" channel="MTA1 World HD">
         <title>Live Rah-e-Huda</title>
@@ -26922,8 +26931,11 @@
     <programme start="20250111180000 +0000" stop="20250111182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250111182000 +0000" stop="20250111183500 +0000" channel="MTA1 World HD">
+    <programme start="20250111182000 +0000" stop="20250111183000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
+    </programme>
+    <programme start="20250111183000 +0000" stop="20250111183500 +0000" channel="MTA1 World HD">
+        <title>Bachon Ki Duniya</title>
     </programme>
     <programme start="20250111183500 +0000" stop="20250111190000 +0000" channel="MTA1 World HD">
         <title>Bachon Ki Duniya</title>
@@ -26949,10 +26961,16 @@
     <programme start="20250111225500 +0000" stop="20250111234000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250111234000 +0000" stop="20250111235000 +0000" channel="MTA1 World HD">
+    <programme start="20250111234000 +0000" stop="20250111234500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250111235000 +0000" stop="20250112005000 +0000" channel="MTA1 World HD">
+    <programme start="20250111234500 +0000" stop="20250111235000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250111235000 +0000" stop="20250111235500 +0000" channel="MTA1 World HD">
+        <title>Al Asma'ul Husna</title>
+    </programme>
+    <programme start="20250111235500 +0000" stop="20250112005500 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
     <programme start="20250110220000 +0000" stop="20250110230000 +0000" channel="HUM Masala">
@@ -28401,11 +28419,8 @@
     <programme start="20250111053000 +0000" stop="20250111063000 +0000" channel="Madani Chnl">
         <title>Sunnah Inspired Bayan</title>
     </programme>
-    <programme start="20250111063000 +0000" stop="20250111070000 +0000" channel="Madani Chnl">
+    <programme start="20250111063000 +0000" stop="20250111080000 +0000" channel="Madani Chnl">
         <title>The Early Echo</title>
-    </programme>
-    <programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="Madani Chnl">
-        <title>Quran Time</title>
     </programme>
     <programme start="20250111080000 +0000" stop="20250111083000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
@@ -28416,11 +28431,8 @@
     <programme start="20250111100000 +0000" stop="20250111103000 +0000" channel="Madani Chnl">
         <title>Self Improvement</title>
     </programme>
-    <programme start="20250111103000 +0000" stop="20250111110000 +0000" channel="Madani Chnl">
+    <programme start="20250111103000 +0000" stop="20250111113000 +0000" channel="Madani Chnl">
         <title>The Light of Guidance</title>
-    </programme>
-    <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="Madani Chnl">
-        <title>Right And Wrong</title>
     </programme>
     <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="Madani Chnl">
         <title>Ilm Kay Mauti</title>
@@ -28428,11 +28440,8 @@
     <programme start="20250111120000 +0000" stop="20250111123000 +0000" channel="Madani Chnl">
         <title>Madani Muzakara</title>
     </programme>
-    <programme start="20250111123000 +0000" stop="20250111130000 +0000" channel="Madani Chnl">
+    <programme start="20250111123000 +0000" stop="20250111140000 +0000" channel="Madani Chnl">
         <title>Path To Success</title>
-    </programme>
-    <programme start="20250111130000 +0000" stop="20250111140000 +0000" channel="Madani Chnl">
-        <title>Madani Muzakara</title>
     </programme>
     <programme start="20250111140000 +0000" stop="20250111150000 +0000" channel="Madani Chnl">
         <title>Dimensions of Islamic Life</title>
@@ -28440,28 +28449,19 @@
     <programme start="20250111150000 +0000" stop="20250111151500 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250111151500 +0000" stop="20250111160000 +0000" channel="Madani Chnl">
+    <programme start="20250111151500 +0000" stop="20250111190000 +0000" channel="Madani Chnl">
         <title>Madani Muzakara</title>
     </programme>
-    <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="Madani Chnl">
-        <title>Mehfil e Noor</title>
-    </programme>
-    <programme start="20250111170000 +0000" stop="20250111190000 +0000" channel="Madani Chnl">
-        <title>Madani Muzakara</title>
-    </programme>
-    <programme start="20250111190000 +0000" stop="20250111200000 +0000" channel="Madani Chnl">
+    <programme start="20250111190000 +0000" stop="20250111193000 +0000" channel="Madani Chnl">
         <title>Sunnah Inspired Bayan</title>
     </programme>
-    <programme start="20250111200000 +0000" stop="20250111203000 +0000" channel="Madani Chnl">
+    <programme start="20250111193000 +0000" stop="20250111200000 +0000" channel="Madani Chnl">
+        <title>Core Of Action</title>
+    </programme>
+    <programme start="20250111200000 +0000" stop="20250111210000 +0000" channel="Madani Chnl">
         <title>The Mercy to The Worlds</title>
     </programme>
-    <programme start="20250111203000 +0000" stop="20250111210000 +0000" channel="Madani Chnl">
-        <title>The Protection of Good Deeds</title>
-    </programme>
-    <programme start="20250111210000 +0000" stop="20250111220000 +0000" channel="Madani Chnl">
-        <title>Nasheed Night</title>
-    </programme>
-    <programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="Madani Chnl">
+    <programme start="20250111210000 +0000" stop="20250111223000 +0000" channel="Madani Chnl">
         <title>Nasheed Night</title>
     </programme>
     <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="Madani Chnl">
@@ -29919,8 +29919,11 @@
     <programme start="20250111053000 +0000" stop="20250111060000 +0000" channel="NTV">
         <title>Mohilangon</title>
     </programme>
-    <programme start="20250111060000 +0000" stop="20250111062700 +0000" channel="NTV">
+    <programme start="20250111060000 +0000" stop="20250111062200 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
+    </programme>
+    <programme start="20250111062200 +0000" stop="20250111062700 +0000" channel="NTV">
+        <title>Adhan-a-Fajr</title>
     </programme>
     <programme start="20250111062700 +0000" stop="20250111063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
@@ -29967,8 +29970,11 @@
     <programme start="20250111143400 +0000" stop="20250111150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250111150000 +0000" stop="20250111162300 +0000" channel="NTV">
+    <programme start="20250111150000 +0000" stop="20250111161800 +0000" channel="NTV">
         <title>Roop kothar Raat</title>
+    </programme>
+    <programme start="20250111161800 +0000" stop="20250111162300 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
     </programme>
     <programme start="20250111162300 +0000" stop="20250111163000 +0000" channel="NTV">
         <title>Roop kothar Raat</title>
