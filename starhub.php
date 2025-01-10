@@ -17731,7 +17731,7 @@
         <title>Star Talk with Vinay -South Meets North -Season 2</title>
     </programme>
     <programme start="20250109193000 +0000" stop="20250109223000 +0000" channel="Asianet.starhub">
-        <title>Arjun Reddy (Mal-dub)</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250109223000 +0000" stop="20250109230000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
@@ -17908,16 +17908,16 @@
         <title>Engile Ennodu Para</title>
     </programme>
     <programme start="20250111190000 +0000" stop="20250111220000 +0000" channel="Asianet.starhub">
-        <title>RDX</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="Asianet.starhub">
         <title>Engile Ennodu Para : Short Version</title>
     </programme>
     <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="Asianet.starhub">
-        <title>Chirikkum Thalikka</title>
+        <title>Engile Ennodu Para : Short Version</title>
     </programme>
     <programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="Asianet.starhub">
-        <title>Chirikkum Thalikka</title>
+        <title>Engile Ennodu Para : Short Version</title>
     </programme>
     <programme start="20250111233000 +0000" stop="20250112020000 +0000" channel="Asianet.starhub">
         <title>Irupathiyonnam noottandu</title>
