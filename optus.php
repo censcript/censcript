@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250110163000 +0000" stop="20250110170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250110193500 +0000" stop="20250110225500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Wycombe v Portsmouth</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
+    </programme>
+    <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
 </tv>
