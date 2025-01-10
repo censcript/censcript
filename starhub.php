@@ -17821,7 +17821,7 @@
         <title>Star Talk with Vinay -South Meets North -Season 2</title>
     </programme>
     <programme start="20250110193000 +0000" stop="20250110223000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Hridayam</title>
     </programme>
     <programme start="20250110223000 +0000" stop="20250110230000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalikka</title>
@@ -18609,10 +18609,10 @@
     <programme start="20250110213000 +0000" stop="20250110220000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250110220000 +0000" stop="20250110223000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
+    <programme start="20250110220000 +0000" stop="20250110233000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Aan Devathai</title>
     </programme>
-    <programme start="20250110223000 +0000" stop="20250111013000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250110233000 +0000" stop="20250111023000 +0000" channel="Zee Thirai.starhub">
         <title>Movies - Kavan</title>
     </programme>
     <programme start="20250111013000 +0000" stop="20250111040000 +0000" channel="Zee Thirai.starhub">
