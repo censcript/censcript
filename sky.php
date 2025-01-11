@@ -29373,13 +29373,13 @@
     <programme start="20250112050000 +0000" stop="20250112060000 +0000" channel="NTV">
         <title>Biye Ami Korbo na</title>
     </programme>
-    <programme start="20250112060000 +0000" stop="20250112062100 +0000" channel="NTV">
+    <programme start="20250112060000 +0000" stop="20250112062200 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250112062100 +0000" stop="20250112062600 +0000" channel="NTV">
+    <programme start="20250112062200 +0000" stop="20250112062700 +0000" channel="NTV">
         <title>Adhan-a-Fajr</title>
     </programme>
-    <programme start="20250112062600 +0000" stop="20250112063000 +0000" channel="NTV">
+    <programme start="20250112062700 +0000" stop="20250112063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250112063000 +0000" stop="20250112070000 +0000" channel="NTV">
@@ -29395,45 +29395,42 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250112083000 +0000" stop="20250112090000 +0000" channel="NTV">
-        <title>Bhalobasha Ajkal</title>
+        <title>Mirjafar</title>
     </programme>
     <programme start="20250112090000 +0000" stop="20250112093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250112093000 +0000" stop="20250112120000 +0000" channel="NTV">
-        <title>Bhalobasha Ajkal</title>
+        <title>Mirjafar</title>
     </programme>
-    <programme start="20250112120000 +0000" stop="20250112120400 +0000" channel="NTV">
+    <programme start="20250112120000 +0000" stop="20250112121400 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250112120400 +0000" stop="20250112120900 +0000" channel="NTV">
+    <programme start="20250112121400 +0000" stop="20250112121900 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250112120900 +0000" stop="20250112123000 +0000" channel="NTV">
+    <programme start="20250112121900 +0000" stop="20250112123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250112123000 +0000" stop="20250112140000 +0000" channel="NTV">
         <title>Criminal Justice</title>
     </programme>
-    <programme start="20250112140000 +0000" stop="20250112140900 +0000" channel="NTV">
+    <programme start="20250112140000 +0000" stop="20250112143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250112140900 +0000" stop="20250112141400 +0000" channel="NTV">
+    <programme start="20250112143000 +0000" stop="20250112143500 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250112141400 +0000" stop="20250112143000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
-    </programme>
-    <programme start="20250112143000 +0000" stop="20250112150000 +0000" channel="NTV">
+    <programme start="20250112143500 +0000" stop="20250112150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250112150000 +0000" stop="20250112155700 +0000" channel="NTV">
+    <programme start="20250112150000 +0000" stop="20250112162000 +0000" channel="NTV">
         <title>A Lagan Gaan Shunabar</title>
     </programme>
-    <programme start="20250112155700 +0000" stop="20250112160200 +0000" channel="NTV">
+    <programme start="20250112162000 +0000" stop="20250112162500 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250112160200 +0000" stop="20250112163000 +0000" channel="NTV">
+    <programme start="20250112162500 +0000" stop="20250112163000 +0000" channel="NTV">
         <title>A Lagan Gaan Shunabar</title>
     </programme>
     <programme start="20250112163000 +0000" stop="20250112170000 +0000" channel="NTV">
@@ -29442,17 +29439,14 @@
     <programme start="20250112170000 +0000" stop="20250112173000 +0000" channel="NTV">
         <title>Todays Kitchen</title>
     </programme>
-    <programme start="20250112173000 +0000" stop="20250112173400 +0000" channel="NTV">
+    <programme start="20250112173000 +0000" stop="20250112175700 +0000" channel="NTV">
         <title>Biggane Anandho</title>
     </programme>
-    <programme start="20250112173400 +0000" stop="20250112173900 +0000" channel="NTV">
+    <programme start="20250112175700 +0000" stop="20250112180000 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250112173900 +0000" stop="20250112180000 +0000" channel="NTV">
-        <title>Biggane Anandho</title>
-    </programme>
     <programme start="20250112180000 +0000" stop="20250112190000 +0000" channel="NTV">
-        <title>Talking Point</title>
+        <title>Dadi Korbe Sadi</title>
     </programme>
     <programme start="20250112190000 +0000" stop="20250112191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -29461,7 +29455,7 @@
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250112200000 +0000" stop="20250112210000 +0000" channel="NTV">
-        <title>Ami Ovinoy Korinai</title>
+        <title>Ei Prithibi Amader</title>
     </programme>
     <programme start="20250112210000 +0000" stop="20250112213000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
