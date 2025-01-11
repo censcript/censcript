@@ -15015,13 +15015,13 @@
     <programme start="20250111151500 +0000" stop="20250111171000 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250111171000 +0000" stop="20250111190500 +0000" channel="ONE HD.starhub">
+    <programme start="20250111171000 +0000" stop="20250111190300 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250111190500 +0000" stop="20250111204000 +0000" channel="ONE HD.starhub">
+    <programme start="20250111190300 +0000" stop="20250111204300 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250111204000 +0000" stop="20250111220000 +0000" channel="ONE HD.starhub">
+    <programme start="20250111204300 +0000" stop="20250111220000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111225000 +0000" channel="ONE HD.starhub">
@@ -27915,13 +27915,13 @@
     <programme start="20250111151500 +0000" stop="20250111171000 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250111171000 +0000" stop="20250111190500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250111171000 +0000" stop="20250111190300 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
-    <programme start="20250111190500 +0000" stop="20250111204000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250111190300 +0000" stop="20250111204300 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250111204000 +0000" stop="20250111220000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250111204300 +0000" stop="20250111220000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111225000 +0000" channel="ONE (Malay).starhub">
