@@ -28557,6 +28557,18 @@
     <programme start="20250121100000 +0000" stop="20250121160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250121160300 +0000" stop="20250121220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250121220000 +0000" stop="20250122040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250122040000 +0000" stop="20250122100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250122100000 +0000" stop="20250122160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250110000000 +0000" stop="20250110001000 +0000" channel="HBO Family HD.starhub">
         <title>Chicken In Chichen Itza Part 1: Pyramid Scheme</title>
     </programme>
@@ -31330,6 +31342,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250121100000 +0000" stop="20250121160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250121160000 +0000" stop="20250121220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250121220000 +0000" stop="20250122040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250122040000 +0000" stop="20250122100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250122100000 +0000" stop="20250122160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250109224500 +0000" stop="20250110010000 +0000" channel="Hub Premier 4.starhub">

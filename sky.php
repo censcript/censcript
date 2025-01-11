@@ -26391,71 +26391,62 @@
     <programme start="20250112063000 +0000" stop="20250112073500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250112073500 +0000" stop="20250112080500 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Duniya</title>
+    <programme start="20250112073500 +0000" stop="20250112080000 +0000" channel="MTA1 World HD">
+        <title>Kudak</title>
     </programme>
-    <programme start="20250112080500 +0000" stop="20250112083500 +0000" channel="MTA1 World HD">
+    <programme start="20250112080000 +0000" stop="20250112083000 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250112083500 +0000" stop="20250112090500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250112083000 +0000" stop="20250112090500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250112090500 +0000" stop="20250112092500 +0000" channel="MTA1 World HD">
-        <title>Hayat-e-Javidaan</title>
-    </programme>
-    <programme start="20250112092500 +0000" stop="20250112100000 +0000" channel="MTA1 World HD">
-        <title>MTA Talks</title>
+    <programme start="20250112090500 +0000" stop="20250112100000 +0000" channel="MTA1 World HD">
+        <title>Belize And Basketball</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112103000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250112103000 +0000" stop="20250112105000 +0000" channel="MTA1 World HD">
-        <title>The Inception Of The Peace Village</title>
+    <programme start="20250112103000 +0000" stop="20250112104500 +0000" channel="MTA1 World HD">
+        <title>Hamari Zameen</title>
     </programme>
-    <programme start="20250112105000 +0000" stop="20250112113530 +0000" channel="MTA1 World HD">
+    <programme start="20250112104500 +0000" stop="20250112110000 +0000" channel="MTA1 World HD">
+        <title>The Miracle Of Prayer</title>
+    </programme>
+    <programme start="20250112110000 +0000" stop="20250112115000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250112113530 +0000" stop="20250112114500 +0000" channel="MTA1 World HD">
+    <programme start="20250112115000 +0000" stop="20250112120000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250112114500 +0000" stop="20250112120000 +0000" channel="MTA1 World HD">
+    <programme start="20250112120000 +0000" stop="20250112121500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250112120000 +0000" stop="20250112121000 +0000" channel="MTA1 World HD">
+    <programme start="20250112121500 +0000" stop="20250112122500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Tehreerat</title>
     </programme>
-    <programme start="20250112121000 +0000" stop="20250112124500 +0000" channel="MTA1 World HD">
+    <programme start="20250112122500 +0000" stop="20250112130000 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
-    </programme>
-    <programme start="20250112124500 +0000" stop="20250112130000 +0000" channel="MTA1 World HD">
-        <title>Saiful Muluk Lake</title>
     </programme>
     <programme start="20250112130000 +0000" stop="20250112140000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Khuddam</title>
     </programme>
-    <programme start="20250112140000 +0000" stop="20250112143000 +0000" channel="MTA1 World HD">
+    <programme start="20250112140000 +0000" stop="20250112143500 +0000" channel="MTA1 World HD">
         <title>Seerat-un-Nabi</title>
     </programme>
-    <programme start="20250112143000 +0000" stop="20250112144000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250112144000 +0000" stop="20250112154000 +0000" channel="MTA1 World HD">
+    <programme start="20250112143500 +0000" stop="20250112154000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250112154000 +0000" stop="20250112161000 +0000" channel="MTA1 World HD">
+    <programme start="20250112154000 +0000" stop="20250112160500 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250112161000 +0000" stop="20250112162500 +0000" channel="MTA1 World HD">
-        <title>Art Break</title>
+    <programme start="20250112160500 +0000" stop="20250112170000 +0000" channel="MTA1 World HD">
+        <title>Belize And Basketball</title>
     </programme>
-    <programme start="20250112162500 +0000" stop="20250112170000 +0000" channel="MTA1 World HD">
-        <title>MTA Talks</title>
-    </programme>
-    <programme start="20250112170000 +0000" stop="20250112172500 +0000" channel="MTA1 World HD">
+    <programme start="20250112170000 +0000" stop="20250112173500 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250112172500 +0000" stop="20250112180000 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana Speeches</title>
+    <programme start="20250112173500 +0000" stop="20250112180000 +0000" channel="MTA1 World HD">
+        <title>Kudak</title>
     </programme>
     <programme start="20250112180000 +0000" stop="20250112182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26463,20 +26454,26 @@
     <programme start="20250112182000 +0000" stop="20250112183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250112183500 +0000" stop="20250112192000 +0000" channel="MTA1 World HD">
+    <programme start="20250112183500 +0000" stop="20250112192500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250112192000 +0000" stop="20250112193000 +0000" channel="MTA1 World HD">
+    <programme start="20250112192500 +0000" stop="20250112193500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250112193000 +0000" stop="20250112195000 +0000" channel="MTA1 World HD">
-        <title>The Inception Of The Peace Village</title>
+    <programme start="20250112193500 +0000" stop="20250112195000 +0000" channel="MTA1 World HD">
+        <title>The Miracle Of Prayer</title>
     </programme>
-    <programme start="20250112195000 +0000" stop="20250112205000 +0000" channel="MTA1 World HD">
-        <title>Ramadan</title>
+    <programme start="20250112195000 +0000" stop="20250112201000 +0000" channel="MTA1 World HD">
+        <title>Common Grounds</title>
+    </programme>
+    <programme start="20250112201000 +0000" stop="20250112203500 +0000" channel="MTA1 World HD">
+        <title>Lajna And Defence Of Islam</title>
+    </programme>
+    <programme start="20250112203500 +0000" stop="20250112205000 +0000" channel="MTA1 World HD">
+        <title>Hamari Zameen</title>
     </programme>
     <programme start="20250112205000 +0000" stop="20250112212500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250112212500 +0000" stop="20250112220000 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
