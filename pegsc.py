@@ -36,6 +36,7 @@ urls = [
     "https://manusiabiasa.serv00.net/cen/epg/alkass.php",
     "https://manusiabiasa.serv00.net/cen/epg/vision.php",
     "https://cindo.mra.my.id/epg/sky.php",
+    "https://cindo.mra.my.id/epg/mytv.php",
 ]
 
 # Memanggil fungsi untuk mendownload semua EPGs
