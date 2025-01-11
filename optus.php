@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Leeds United v Harrogate Town</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 5.optus">
-        <title>FA Cup - Coventry City v Sheffield Wednesday</title>
-    </programme>
     <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Hull City v Doncaster Rovers</title>
     </programme>
