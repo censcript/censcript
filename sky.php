@@ -14838,8 +14838,11 @@
     <programme start="20250111053000 +0000" stop="20250111060000 +0000" channel="BBC NEWS HD">
         <title>Iceland: A Women's Paradise?</title>
     </programme>
-    <programme start="20250111060000 +0000" stop="20250111090000 +0000" channel="BBC NEWS HD">
+    <programme start="20250111060000 +0000" stop="20250111080000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
+    </programme>
+    <programme start="20250111080000 +0000" stop="20250111090000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250111090000 +0000" stop="20250111100000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
