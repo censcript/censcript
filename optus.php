@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 1.optus">
-        <title>FA Cup - Leicester City v QPR</title>
-    </programme>
     <programme start="20250111144500 +0000" stop="20250111174500 +0000" channel="Optus Sport 12.optus">
         <title>N/A - FA Cup Goals Show</title>
     </programme>
@@ -38,9 +35,6 @@
     </programme>
     <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Coventry City v Sheffield Wednesday</title>
-    </programme>
-    <programme start="20250111175000 +0000" stop="20250111211000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Leyton Orient v Derby County</title>
     </programme>
     <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Hull City v Doncaster Rovers</title>
@@ -89,6 +83,9 @@
     </programme>
     <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 8.optus">
         <title>FA Cup - Preston North End v Charlton Athletic</title>
+    </programme>
+    <programme start="20250114194500 +0000" stop="20250114230500 +0000" channel="Optus Sport 4.optus">
+        <title>FA Cup - Leyton Orient v Derby County</title>
     </programme>
     <programme start="20250114195000 +0000" stop="20250114221000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Nottingham Forest v Liverpool</title>

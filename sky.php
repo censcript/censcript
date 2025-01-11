@@ -14880,11 +14880,8 @@
     <programme start="20250111150000 +0000" stop="20250111153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250111153000 +0000" stop="20250111154500 +0000" channel="BBC NEWS HD">
+    <programme start="20250111153000 +0000" stop="20250111160000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250111154500 +0000" stop="20250111160000 +0000" channel="BBC NEWS HD">
-        <title>Newswatch</title>
     </programme>
     <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14916,11 +14913,8 @@
     <programme start="20250111210000 +0000" stop="20250111220000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="BBC NEWS HD">
+    <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="BBC NEWS HD">
-        <title>The Media Show</title>
     </programme>
     <programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -16909,10 +16903,10 @@
         <title>WION Fineprint</title>
     </programme>
     <programme start="20250110233000 +0000" stop="20250111000000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250111000000 +0000" stop="20250111003000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250111003000 +0000" stop="20250111010000 +0000" channel="WION HD">
         <title>WION Pulse</title>
@@ -16960,7 +16954,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250111080000 +0000" stop="20250111083000 +0000" channel="WION HD">
-        <title>Dharavi Dreams</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250111083000 +0000" stop="20250111090000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16978,7 +16972,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="WION HD">
-        <title>WION Business Masters</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -26008,7 +26002,7 @@
         <title>Old Is Gold</title>
     </programme>
     <programme start="20250111150000 +0000" stop="20250111160000 +0000" channel="MATV National">
-        <title>Kya Boltey Hai Tarey</title>
+        <title>Golden Oldies</title>
     </programme>
     <programme start="20250111160000 +0000" stop="20250111170000 +0000" channel="MATV National">
         <title>Bhajan Mala</title>
@@ -26025,20 +26019,17 @@
     <programme start="20250111180000 +0000" stop="20250111183000 +0000" channel="MATV National">
         <title>Dada Bhagwan</title>
     </programme>
-    <programme start="20250111183000 +0000" stop="20250111193000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+    <programme start="20250111183000 +0000" stop="20250111190000 +0000" channel="MATV National">
+        <title>Kashmir</title>
     </programme>
-    <programme start="20250111193000 +0000" stop="20250111200000 +0000" channel="MATV National">
+    <programme start="20250111190000 +0000" stop="20250111200000 +0000" channel="MATV National">
         <title>Golden Oldies</title>
     </programme>
     <programme start="20250111200000 +0000" stop="20250111203000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
-    <programme start="20250111203000 +0000" stop="20250111220000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
-    </programme>
-    <programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="MATV National">
-        <title>Kashmir</title>
+    <programme start="20250111203000 +0000" stop="20250111223000 +0000" channel="MATV National">
+        <title>Tara Sansthan</title>
     </programme>
     <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="MATV National">
         <title>Pakistan Reporter</title>
@@ -28500,19 +28491,19 @@
     <programme start="20250111083000 +0000" stop="20250111090000 +0000" channel="Eman Channel">
         <title>Scrap Book Island</title>
     </programme>
-    <programme start="20250111090000 +0000" stop="20250111100000 +0000" channel="Eman Channel">
+    <programme start="20250111090000 +0000" stop="20250111100500 +0000" channel="Eman Channel">
         <title>Madrasah TV Supercharged</title>
     </programme>
-    <programme start="20250111100000 +0000" stop="20250111101500 +0000" channel="Eman Channel">
+    <programme start="20250111100500 +0000" stop="20250111102000 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250111101500 +0000" stop="20250111104500 +0000" channel="Eman Channel">
+    <programme start="20250111102000 +0000" stop="20250111105000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250111104500 +0000" stop="20250111110000 +0000" channel="Eman Channel">
+    <programme start="20250111105000 +0000" stop="20250111110500 +0000" channel="Eman Channel">
         <title>Oriental Scholars</title>
     </programme>
-    <programme start="20250111110000 +0000" stop="20250111111500 +0000" channel="Eman Channel">
+    <programme start="20250111110500 +0000" stop="20250111111500 +0000" channel="Eman Channel">
         <title>Ibn Battuta Cartoon</title>
     </programme>
     <programme start="20250111111500 +0000" stop="20250111113000 +0000" channel="Eman Channel">
