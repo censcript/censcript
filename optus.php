@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250111115000 +0000" stop="20250111151000 +0000" channel="Optus Sport 5.optus">
-        <title>FA Cup - Birmingham City v Lincoln City</title>
-    </programme>
-    <programme start="20250111115000 +0000" stop="20250111151000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Middlesbrough v Blackburn</title>
-    </programme>
-    <programme start="20250111115000 +0000" stop="20250111151000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Bristol City v Wolverhampton Wanderers</title>
-    </programme>
     <programme start="20250111120500 +0000" stop="20250111152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Liverpool v Accrington Stanley</title>
     </programme>

@@ -36901,7 +36901,7 @@
         <title>Kem Cetinay</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="Capital">
-        <title>Capital Weekend</title>
+        <title>Weekender</title>
     </programme>
     <programme start="20250110190000 +0000" stop="20250110230000 +0000" channel="Heart">
         <title>Club Classics</title>
