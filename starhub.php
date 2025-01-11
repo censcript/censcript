@@ -15054,13 +15054,13 @@
     <programme start="20250112080000 +0000" stop="20250112093000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250112093000 +0000" stop="20250112110000 +0000" channel="ONE HD.starhub">
+    <programme start="20250112093000 +0000" stop="20250112110600 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250112110000 +0000" stop="20250112114500 +0000" channel="ONE HD.starhub">
+    <programme start="20250112110600 +0000" stop="20250112114600 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250112114500 +0000" stop="20250112123000 +0000" channel="ONE HD.starhub">
+    <programme start="20250112114600 +0000" stop="20250112123000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250112123000 +0000" stop="20250112134500 +0000" channel="ONE HD.starhub">
@@ -27954,13 +27954,13 @@
     <programme start="20250112080000 +0000" stop="20250112093000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250112093000 +0000" stop="20250112110000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250112093000 +0000" stop="20250112110600 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250112110000 +0000" stop="20250112114500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250112110600 +0000" stop="20250112114600 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250112114500 +0000" stop="20250112123000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250112114600 +0000" stop="20250112123000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250112123000 +0000" stop="20250112134500 +0000" channel="ONE (Malay).starhub">

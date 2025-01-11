@@ -13668,19 +13668,19 @@
     <programme start="20250111121500 +0000" stop="20250111133000 +0000" channel="Eurosport 1 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111133000 +0000" stop="20250111143000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250111133000 +0000" stop="20250111144500 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250111143000 +0000" stop="20250111153000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250111144500 +0000" stop="20250111154500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111153000 +0000" stop="20250111160000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250111154500 +0000" stop="20250111161500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250111161500 +0000" stop="20250111164500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111163000 +0000" stop="20250111165000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250111164500 +0000" stop="20250111165000 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250111165000 +0000" stop="20250111184000 +0000" channel="Eurosport 1 HD">
@@ -25885,7 +25885,7 @@
         <title>LIVE DPW ILT20 S3 Opening Ceremony</title>
     </programme>
     <programme start="20250111141500 +0000" stop="20250111180000 +0000" channel="Zee TV HD">
-        <title>LIVE DPW ILT20 - DC vs ME</title>
+        <title>LIVE DPW ILT20 - DC VS MIE</title>
     </programme>
     <programme start="20250111180000 +0000" stop="20250111183000 +0000" channel="Zee TV HD">
         <title>Out And About</title>
@@ -33762,19 +33762,19 @@
     <programme start="20250111121500 +0000" stop="20250111133000 +0000" channel="Eurosport 1">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111133000 +0000" stop="20250111143000 +0000" channel="Eurosport 1">
+    <programme start="20250111133000 +0000" stop="20250111144500 +0000" channel="Eurosport 1">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250111143000 +0000" stop="20250111153000 +0000" channel="Eurosport 1">
+    <programme start="20250111144500 +0000" stop="20250111154500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111153000 +0000" stop="20250111160000 +0000" channel="Eurosport 1">
+    <programme start="20250111154500 +0000" stop="20250111161500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="Eurosport 1">
+    <programme start="20250111161500 +0000" stop="20250111164500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250111163000 +0000" stop="20250111165000 +0000" channel="Eurosport 1">
+    <programme start="20250111164500 +0000" stop="20250111165000 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250111165000 +0000" stop="20250111184000 +0000" channel="Eurosport 1">
@@ -35053,7 +35053,7 @@
         <title>LIVE DPW ILT20 S3 Opening Ceremony</title>
     </programme>
     <programme start="20250111141500 +0000" stop="20250111180000 +0000" channel="Zee TV">
-        <title>LIVE DPW ILT20 - DC vs ME</title>
+        <title>LIVE DPW ILT20 - DC VS MIE</title>
     </programme>
     <programme start="20250111180000 +0000" stop="20250111183000 +0000" channel="Zee TV">
         <title>Out And About</title>

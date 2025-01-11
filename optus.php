@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250111120500 +0000" stop="20250111152500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Liverpool v Accrington Stanley</title>
-    </programme>
     <programme start="20250111135000 +0000" stop="20250111171000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Leicester City v QPR</title>
     </programme>
