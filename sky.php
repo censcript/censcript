@@ -12072,10 +12072,7 @@
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="That's Melody">
         <title>Mellow Melody</title>
     </programme>
-    <programme start="20250111193000 +0000" stop="20250111230000 +0000" channel="SkySpMainEvHD">
-        <title>Live Fight Night:Simpson v Woodall</title>
-    </programme>
-    <programme start="20250111230000 +0000" stop="20250112010000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250111224000 +0000" stop="20250112010000 +0000" channel="SkySpMainEvHD">
         <title>Live NFL WC: Chargers @ Texans</title>
     </programme>
     <programme start="20250112010000 +0000" stop="20250112043000 +0000" channel="SkySpMainEvHD">
@@ -12441,20 +12438,17 @@
     <programme start="20250112234500 +0000" stop="20250113004500 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Hull City v Leeds Utd</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="SkySpCricket HD">
+    <programme start="20250111221500 +0000" stop="20250111231500 +0000" channel="SkySpCricket HD">
         <title>SA20: Joburg SK v MI Cape Town</title>
     </programme>
-    <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="SkySpCricket HD">
+    <programme start="20250111231500 +0000" stop="20250112001500 +0000" channel="SkySpCricket HD">
         <title>BBL: Adelaide S v Brisbane H</title>
     </programme>
-    <programme start="20250112000000 +0000" stop="20250112030500 +0000" channel="SkySpCricket HD">
+    <programme start="20250112001500 +0000" stop="20250112032000 +0000" channel="SkySpCricket HD">
         <title>BBL: Hobart H v Sydney T</title>
     </programme>
-    <programme start="20250112030500 +0000" stop="20250112031500 +0000" channel="SkySpCricket HD">
+    <programme start="20250112032000 +0000" stop="20250112033000 +0000" channel="SkySpCricket HD">
         <title>WBBL Final 2021: Perth v Adelaide</title>
-    </programme>
-    <programme start="20250112031500 +0000" stop="20250112033000 +0000" channel="SkySpCricket HD">
-        <title>Jimmy Anderson's Greatest Spells</title>
     </programme>
     <programme start="20250112033000 +0000" stop="20250112034500 +0000" channel="SkySpCricket HD">
         <title>Anderson &amp; Broad Remember Bob</title>
