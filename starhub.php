@@ -15006,10 +15006,10 @@
     <programme start="20250111114500 +0000" stop="20250111123000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250111123000 +0000" stop="20250111134500 +0000" channel="ONE HD.starhub">
+    <programme start="20250111123000 +0000" stop="20250111134600 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250111134500 +0000" stop="20250111151500 +0000" channel="ONE HD.starhub">
+    <programme start="20250111134600 +0000" stop="20250111151500 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
     <programme start="20250111151500 +0000" stop="20250111171000 +0000" channel="ONE HD.starhub">
@@ -27906,10 +27906,10 @@
     <programme start="20250111114500 +0000" stop="20250111123000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250111123000 +0000" stop="20250111134500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250111123000 +0000" stop="20250111134600 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250111134500 +0000" stop="20250111151500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250111134600 +0000" stop="20250111151500 +0000" channel="ONE (Malay).starhub">
         <title>Survival King: Tribal War</title>
     </programme>
     <programme start="20250111151500 +0000" stop="20250111171000 +0000" channel="ONE (Malay).starhub">
