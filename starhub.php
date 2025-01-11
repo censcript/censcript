@@ -22956,26 +22956,14 @@
     <programme start="20250113000000 +0000" stop="20250113003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
     </programme>
-    <programme start="20250113003000 +0000" stop="20250113010000 +0000" channel="Sun TV.starhub">
-        <title>Sun Autograph</title>
-    </programme>
-    <programme start="20250113010000 +0000" stop="20250113013000 +0000" channel="Sun TV.starhub">
-        <title>RAMAYANAM</title>
-    </programme>
-    <programme start="20250113013000 +0000" stop="20250113020000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
+    <programme start="20250113003000 +0000" stop="20250113020000 +0000" channel="Sun TV.starhub">
+        <title>Movie - Oru Kal Oru Kannadi</title>
     </programme>
     <programme start="20250113020000 +0000" stop="20250113023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250113023000 +0000" stop="20250113030000 +0000" channel="Sun TV.starhub">
-        <title>Anamika - Thriller Serial</title>
-    </programme>
-    <programme start="20250113030000 +0000" stop="20250113033000 +0000" channel="Sun TV.starhub">
-        <title>Malar</title>
-    </programme>
-    <programme start="20250113033000 +0000" stop="20250113040000 +0000" channel="Sun TV.starhub">
-        <title>Sevvanthi</title>
+    <programme start="20250113023000 +0000" stop="20250113040000 +0000" channel="Sun TV.starhub">
+        <title>Movie Contd - Oru Kal Oru Kannadi</title>
     </programme>
     <programme start="20250113040000 +0000" stop="20250113043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
@@ -22999,10 +22987,22 @@
         <title>ANANDHA RAGAM</title>
     </programme>
     <programme start="20250113073000 +0000" stop="20250113080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - SOORIYAN</title>
+        <title>Movie - Paayum Puli</title>
     </programme>
     <programme start="20250113080000 +0000" stop="20250113083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250113083000 +0000" stop="20250113103000 +0000" channel="Sun TV.starhub">
+        <title>Movie Contd - Paayum Puli</title>
+    </programme>
+    <programme start="20250113103000 +0000" stop="20250113110000 +0000" channel="Sun TV.starhub">
+        <title>RAMAYANAM</title>
+    </programme>
+    <programme start="20250113110000 +0000" stop="20250113113000 +0000" channel="Sun TV.starhub">
+        <title>Annam</title>
+    </programme>
+    <programme start="20250113113000 +0000" stop="20250113120000 +0000" channel="Sun TV.starhub">
+        <title>Kayal</title>
     </programme>
     <programme start="20250109235500 +0000" stop="20250110004500 +0000" channel="BBC Earth HD.starhub">
         <title>Hawaii</title>
@@ -31218,7 +31218,13 @@
     <programme start="20250114100000 +0000" stop="20250114160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250114160000 +0000" stop="20250114220000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250114160000 +0000" stop="20250114193500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250114193500 +0000" stop="20250114214500 +0000" channel="Hub Sports 6.starhub">
+        <title>The Emirates FA Cup 2024/25 R3: Mansfield Town vs Wigan Athletic (Live)</title>
+    </programme>
+    <programme start="20250114214500 +0000" stop="20250114220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="Hub Sports 6.starhub">
