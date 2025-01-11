@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250111144500 +0000" stop="20250111174500 +0000" channel="Optus Sport 12.optus">
-        <title>N/A - FA Cup Goals Show</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Sunderland v Stoke</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 9.optus">
-        <title>FA Cup - Reading v Burnley</title>
-    </programme>
     <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Leeds United v Harrogate Town</title>
     </programme>

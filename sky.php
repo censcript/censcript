@@ -28468,7 +28468,7 @@
         <title>New Tracks with BritAsia</title>
     </programme>
     <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="Sikh Channel">
-        <title>Current Issues</title>
+        <title>Khas-GalBaat</title>
     </programme>
     <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
