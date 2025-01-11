@@ -6,26 +6,8 @@
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Sunderland v Stoke</title>
     </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Nottingham Forest v Luton Town</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 7.optus">
-        <title>FA Cup - Brentford v Plymouth Argyle</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 5.optus">
-        <title>FA Cup - Bournemouth v West Bromwich</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Chelsea v Morecambe</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Norwich City v Brighton</title>
-    </programme>
     <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 9.optus">
         <title>FA Cup - Reading v Burnley</title>
-    </programme>
-    <programme start="20250111145000 +0000" stop="20250111181000 +0000" channel="Optus Sport 10.optus">
-        <title>FA Cup - Exeter City v Oxford United</title>
     </programme>
     <programme start="20250111173500 +0000" stop="20250111205500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Leeds United v Harrogate Town</title>
