@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Arsenal v Manchester United</title>
-    </programme>
     <programme start="20250112162000 +0000" stop="20250112194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Southampton v Swansea</title>
-    </programme>
-    <programme start="20250112170000 +0000" stop="20250112173000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - FA Cup Fourth Round Draw</title>
     </programme>
     <programme start="20250113192000 +0000" stop="20250113224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Millwall v Dagenham &amp; Redbridge</title>

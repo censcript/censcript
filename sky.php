@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CendolCen">
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Lon HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One Lon HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Lon HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One Lon HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Lon HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Lon HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Lon HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Lon HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Lon HD">
@@ -24532,7 +24535,7 @@
         <title>Look Good, Feel Good with Ordo</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC HD">
-        <title>Fashion Sale</title>
+        <title>Finery London</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC HD">
         <title>QVC Sale</title>
@@ -24616,82 +24619,82 @@
         <title>Feel Good Finds</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="TJC HD">
-        <title>Jewellery Deals with Jo</title>
+        <title>Luxuriant Diamonds with Jo</title>
     </programme>
     <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="TJC HD">
-        <title>Jewellery Deals with Jo</title>
+        <title>Luxuriant Diamonds with Jo</title>
     </programme>
     <programme start="20250113000000 +0000" stop="20250113010000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Jo</title>
     </programme>
     <programme start="20250113010000 +0000" stop="20250113020000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Jo</title>
     </programme>
     <programme start="20250113020000 +0000" stop="20250113030000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy O</title>
     </programme>
     <programme start="20250113030000 +0000" stop="20250113040000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy O</title>
     </programme>
     <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Peter &amp; Andy O</title>
     </programme>
     <programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Peter &amp; Andy O</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113070000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Peter &amp; Caroline</title>
     </programme>
     <programme start="20250113070000 +0000" stop="20250113080000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Peter &amp; Caroline</title>
     </programme>
     <programme start="20250113080000 +0000" stop="20250113090000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy H &amp; Caroline</title>
     </programme>
     <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy H &amp; Caroline</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy H &amp; Carmel</title>
     </programme>
     <programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Andy H &amp; Carmel</title>
     </programme>
     <programme start="20250113120000 +0000" stop="20250113130000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Carmel</title>
     </programme>
     <programme start="20250113130000 +0000" stop="20250113140000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Carmel</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113150000 +0000" channel="TJC HD">
-        <title>Rhodolite Garnet</title>
+        <title>Rhodolite Garnet  Craig &amp; Stacey</title>
     </programme>
     <programme start="20250113150000 +0000" stop="20250113160000 +0000" channel="TJC HD">
-        <title>Rhodolite Garnet</title>
+        <title>Rhodolite Garnet  Craig &amp; Stacey</title>
     </programme>
     <programme start="20250113160000 +0000" stop="20250113170000 +0000" channel="TJC HD">
-        <title>Rhodolite Garnet</title>
+        <title>Rhodolite Garnet  Craig &amp; Stacey</title>
     </programme>
     <programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="TJC HD">
-        <title>Rhodolite Garnet</title>
+        <title>Rhodolite Garnet  Craig &amp; Stacey</title>
     </programme>
     <programme start="20250113180000 +0000" stop="20250113190000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Mark</title>
     </programme>
     <programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Mark</title>
     </programme>
     <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Mark</title>
     </programme>
     <programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Mark</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Steve &amp; Jo</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="TJC HD">
-        <title>100 New Arrivals</title>
+        <title>100 New Arrivals  Jo</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="QVC Beauty">
         <title>QVC Beauty Sale</title>
@@ -25441,7 +25444,7 @@
         <title>Kitchen Deals with Ninja</title>
     </programme>
     <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="QVC Extra">
-        <title>In the Garden with Thompson &amp; Morgan</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="QVC Extra">
         <title>QVC Extra Top Deals</title>
@@ -36141,16 +36144,19 @@
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="Sky Intro">
         <title>Sky Intro - Sky TV made Simple</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One NE HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One NE HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One NE HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One NE HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One NE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One NE HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One NE HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One NE HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One NE HD">
@@ -36225,16 +36231,16 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One NE HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One NW HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One NW HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One NW HD">
+    <programme start="20250113001000 +0000" stop="20250113010000 +0000" channel="BBC One NW HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One NW HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One NW HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One NW HD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One NW HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One NW HD">
@@ -36309,16 +36315,19 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One NW HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Yks HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One Yks HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Yks HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One Yks HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Yks HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Yks HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Yks HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Yks HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Yks HD">
@@ -36393,16 +36402,19 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One Yks HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One Y&amp;L HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One Y&amp;L HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Y&amp;L HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Y&amp;L HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Y&amp;L HD">
@@ -36477,16 +36489,13 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One Y&amp;L HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One WM HD">
+    <programme start="20250112223500 +0000" stop="20250113010000 +0000" channel="BBC One WM HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One WM HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One WM HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One WM HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One WM HD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One WM HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One WM HD">
@@ -36561,16 +36570,13 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One WM HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One EMidHD">
+    <programme start="20250112223500 +0000" stop="20250113010000 +0000" channel="BBC One EMidHD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One EMidHD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One EMidHD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One EMidHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One EMidHD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One EMidHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One EMidHD">
@@ -36645,16 +36651,19 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One EMidHD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One EastHD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One EastHD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One EastHD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One EastHD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One EastHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One EastHD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One EastHD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One EastHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One EastHD">
@@ -36729,16 +36738,19 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One EastHD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One SE HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One SE HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One SE HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One SE HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One SE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One SE HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One SE HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One SE HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One SE HD">
@@ -36813,16 +36825,19 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One SE HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Wst HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One Wst HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Wst HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One Wst HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Wst HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Wst HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Wst HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Wst HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Wst HD">
@@ -36897,16 +36912,13 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One Wst HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Sth HD">
+    <programme start="20250112223500 +0000" stop="20250113010000 +0000" channel="BBC One Sth HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Sth HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Sth HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Sth HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Sth HD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Sth HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Sth HD">
@@ -36981,16 +36993,16 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One Sth HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One SW HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One SW HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One SW HD">
+    <programme start="20250113001000 +0000" stop="20250113010000 +0000" channel="BBC One SW HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One SW HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One SW HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One SW HD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One SW HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One SW HD">
@@ -37065,16 +37077,13 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One SW HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One CI HD">
+    <programme start="20250112223500 +0000" stop="20250113010000 +0000" channel="BBC One CI HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One CI HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One CI HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One CI HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One CI HD">
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One CI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One CI HD">
@@ -37149,7 +37158,7 @@
     <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="BBC One CI HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One ScotHD">
+    <programme start="20250112223500 +0000" stop="20250113000500 +0000" channel="BBC One ScotHD">
         <title>Equals</title>
     </programme>
     <programme start="20250113000500 +0000" stop="20250113010500 +0000" channel="BBC One ScotHD">
@@ -37236,16 +37245,19 @@
     <programme start="20250113234000 +0000" stop="20250114004000 +0000" channel="BBC One ScotHD">
         <title>Scotcast</title>
     </programme>
-    <programme start="20250112223000 +0000" stop="20250113000500 +0000" channel="BBC One Wal HD">
+    <programme start="20250112223500 +0000" stop="20250113001000 +0000" channel="BBC One Wal HD">
         <title>Equals</title>
     </programme>
-    <programme start="20250113000500 +0000" stop="20250113005500 +0000" channel="BBC One Wal HD">
+    <programme start="20250113001000 +0000" stop="20250113005500 +0000" channel="BBC One Wal HD">
         <title>The Graham Norton Show</title>
     </programme>
     <programme start="20250113005500 +0000" stop="20250113010000 +0000" channel="BBC One Wal HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113060000 +0000" channel="BBC One Wal HD">
+    <programme start="20250113010000 +0000" stop="20250113010500 +0000" channel="BBC One Wal HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250113010500 +0000" stop="20250113060000 +0000" channel="BBC One Wal HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113093000 +0000" channel="BBC One Wal HD">
