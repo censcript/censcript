@@ -31335,10 +31335,7 @@
     <programme start="20250112213000 +0000" stop="20250112220000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250112220000 +0000" stop="20250113000000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250113000000 +0000" stop="20250113020000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250112220000 +0000" stop="20250113003000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113020000 +0000" stop="20250113023000 +0000" channel="Hub Premier 4.starhub">
@@ -31537,6 +31534,9 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250123040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123040000 +0000" stop="20250123100000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110220000 +0000" stop="20250111040000 +0000" channel="Hub Premier 3.starhub">
