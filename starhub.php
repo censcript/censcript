@@ -5328,6 +5328,18 @@
     <programme start="20250122100000 +0000" stop="20250122163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250122163000 +0000" stop="20250122220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250122220000 +0000" stop="20250123040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250123040000 +0000" stop="20250123100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250123100000 +0000" stop="20250123163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250110231000 +0000" stop="20250111000500 +0000" channel="HISTORY HD.starhub">
         <title>The Power Of The Obelisks</title>
     </programme>
@@ -31237,6 +31249,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250122100000 +0000" stop="20250122160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250122160000 +0000" stop="20250122220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250122220000 +0000" stop="20250123040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123040000 +0000" stop="20250123100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123100000 +0000" stop="20250123160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250110230000 +0000" stop="20250111010000 +0000" channel="Hub Premier 4.starhub">

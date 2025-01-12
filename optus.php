@@ -219,6 +219,18 @@
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
     </programme>
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Hoffenheim v Wolfsburg</title>
+    </programme>
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Hamburg v Borussia Monchengladbach</title>
+    </programme>
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Bayern Munich v Frankfurt </title>
+    </programme>
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Bayer Leverkusen v Werder Bremen</title>
+    </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
