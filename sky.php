@@ -37560,10 +37560,10 @@
     <programme start="20250113110000 +0000" stop="20250113130000 +0000" channel="BBC RB 1 HD">
         <title>Masters Snooker Extra</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113154000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250113130000 +0000" stop="20250113164000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: Arsenal v Manchester United</title>
     </programme>
-    <programme start="20250113154000 +0000" stop="20250113170500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250113164000 +0000" stop="20250113170500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 in the Park: Best Bits</title>
     </programme>
     <programme start="20250113170500 +0000" stop="20250113183000 +0000" channel="BBC RB 1 HD">
