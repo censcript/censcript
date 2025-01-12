@@ -2538,8 +2538,62 @@
     <programme start="20250111231500 +0000" stop="20250112001500 +0000" channel="ITV Be HD">
         <title>Kavos Weekender</title>
     </programme>
-    <programme start="20250112001500 +0000" stop="20250112200000 +0000" channel="ITV Be HD">
+    <programme start="20250112001500 +0000" stop="20250112011500 +0000" channel="ITV Be HD">
         <title>The Real Housewives of Miami</title>
+    </programme>
+    <programme start="20250112011500 +0000" stop="20250112013000 +0000" channel="ITV Be HD">
+        <title>Unwind with ITV</title>
+    </programme>
+    <programme start="20250112013000 +0000" stop="20250112033000 +0000" channel="ITV Be HD">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250112033000 +0000" stop="20250112060000 +0000" channel="ITV Be HD">
+        <title>Unwind with ITV</title>
+    </programme>
+    <programme start="20250112060000 +0000" stop="20250112073000 +0000" channel="ITV Be HD">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250112073000 +0000" stop="20250112074000 +0000" channel="ITV Be HD">
+        <title>Unwind with ITV</title>
+    </programme>
+    <programme start="20250112074000 +0000" stop="20250112081000 +0000" channel="ITV Be HD">
+        <title>New: Buying the View</title>
+    </programme>
+    <programme start="20250112081000 +0000" stop="20250112091000 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of Jersey</title>
+    </programme>
+    <programme start="20250112091000 +0000" stop="20250112101500 +0000" channel="ITV Be HD">
+        <title>John and Lisa's Food Trip Down Under</title>
+    </programme>
+    <programme start="20250112101500 +0000" stop="20250112111000 +0000" channel="ITV Be HD">
+        <title>Scott's Vacation House Rules</title>
+    </programme>
+    <programme start="20250112111000 +0000" stop="20250112121000 +0000" channel="ITV Be HD">
+        <title>Scott's Vacation House Rules</title>
+    </programme>
+    <programme start="20250112121000 +0000" stop="20250112130500 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of New Jersey</title>
+    </programme>
+    <programme start="20250112130500 +0000" stop="20250112140500 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of New Jersey</title>
+    </programme>
+    <programme start="20250112140500 +0000" stop="20250112150000 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of New Jersey</title>
+    </programme>
+    <programme start="20250112150000 +0000" stop="20250112155500 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of New Jersey</title>
+    </programme>
+    <programme start="20250112155500 +0000" stop="20250112165500 +0000" channel="ITV Be HD">
+        <title>The Real Housewives of New Jersey</title>
+    </programme>
+    <programme start="20250112165500 +0000" stop="20250112180000 +0000" channel="ITV Be HD">
+        <title>Gary Barlow's Wine Tour: South Africa</title>
+    </programme>
+    <programme start="20250112180000 +0000" stop="20250112190000 +0000" channel="ITV Be HD">
+        <title>Dermot O'Leary's Taste of Ireland</title>
+    </programme>
+    <programme start="20250112190000 +0000" stop="20250112200000 +0000" channel="ITV Be HD">
+        <title>Inside M&amp;S</title>
     </programme>
     <programme start="20250112200000 +0000" stop="20250112210000 +0000" channel="ITV Be HD">
         <title>Celebrity Dinner Date</title>
@@ -14172,8 +14226,11 @@
     <programme start="20250112053000 +0000" stop="20250112060000 +0000" channel="BBC NEWS HD">
         <title>Talking Business</title>
     </programme>
-    <programme start="20250112060000 +0000" stop="20250112090000 +0000" channel="BBC NEWS HD">
+    <programme start="20250112060000 +0000" stop="20250112080000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
+    </programme>
+    <programme start="20250112080000 +0000" stop="20250112090000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250112090000 +0000" stop="20250112100000 +0000" channel="BBC NEWS HD">
         <title>Sunday with Laura Kuenssberg</title>
