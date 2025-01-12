@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250112115000 +0000" stop="20250112151000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Hull City v Doncaster Rovers</title>
-    </programme>
-    <programme start="20250112122000 +0000" stop="20250112154000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Tamworth v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Crystal Palace v Stockport</title>
     </programme>
-    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 8.optus">
         <title>FA Cup - Ipswich v Bristol Rovers</title>
     </programme>
     <programme start="20250112145000 +0000" stop="20250112181000 +0000" channel="Optus Sport 5.optus">

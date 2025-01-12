@@ -171,11 +171,8 @@
     <programme start="20250112113000 +0000" stop="20250112114500 +0000" channel="ITV1 HD">
         <title>ITV Lunchtime News</title>
     </programme>
-    <programme start="20250112114500 +0000" stop="20250112145000 +0000" channel="ITV1 HD">
+    <programme start="20250112114500 +0000" stop="20250112155000 +0000" channel="ITV1 HD">
         <title>FA Cup Live: Tamworth v Spurs</title>
-    </programme>
-    <programme start="20250112145000 +0000" stop="20250112155000 +0000" channel="ITV1 HD">
-        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250112155000 +0000" stop="20250112162000 +0000" channel="ITV1 HD">
         <title>Tipping Point: Best Ever Finals</title>
@@ -6762,11 +6759,8 @@
     <programme start="20250112123000 +0000" stop="20250112124500 +0000" channel="ITV1+1">
         <title>ITV Lunchtime News</title>
     </programme>
-    <programme start="20250112124500 +0000" stop="20250112155000 +0000" channel="ITV1+1">
+    <programme start="20250112124500 +0000" stop="20250112165000 +0000" channel="ITV1+1">
         <title>FA Cup Live: Tamworth v Spurs</title>
-    </programme>
-    <programme start="20250112155000 +0000" stop="20250112165000 +0000" channel="ITV1+1">
-        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250112165000 +0000" stop="20250112172000 +0000" channel="ITV1+1">
         <title>Tipping Point: Best Ever Finals</title>
