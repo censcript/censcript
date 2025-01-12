@@ -37269,10 +37269,10 @@
     <programme start="20250111230000 +0000" stop="20250112070000 +0000" channel="BBC R5SX">
         <title>Cricket</title>
     </programme>
-    <programme start="20250112070000 +0000" stop="20250112115500 +0000" channel="BBC R5SX">
+    <programme start="20250112070000 +0000" stop="20250112123000 +0000" channel="BBC R5SX">
         <title>Tennis Breakfast</title>
     </programme>
-    <programme start="20250112115500 +0000" stop="20250112145500 +0000" channel="BBC R5SX">
+    <programme start="20250112123000 +0000" stop="20250112145500 +0000" channel="BBC R5SX">
         <title>Football</title>
     </programme>
     <programme start="20250112145500 +0000" stop="20250112170000 +0000" channel="BBC R5SX">
