@@ -13255,7 +13255,7 @@
         <title>WTA Final: Adelaide</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112110000 +0000" channel="SkySp Mix HD">
-        <title>Fight Night: Simpson v Woodhall</title>
+        <title>Fight Night: Simpson v Woodall</title>
     </programme>
     <programme start="20250112110000 +0000" stop="20250112120000 +0000" channel="SkySp Mix HD">
         <title>BBL: Adelaide S v Brisbane H</title>
@@ -13279,7 +13279,7 @@
         <title>Live NCAA Basketball</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="SkySp Mix HD">
-        <title>Fight Night: Simpson v Woodhall</title>
+        <title>Fight Night: Simpson v Woodall</title>
     </programme>
     <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="SkySp Mix HD">
         <title>British F1 GP Highlights</title>
@@ -14275,7 +14275,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250112183000 +0000" stop="20250112190000 +0000" channel="BBC NEWS HD">
-        <title>Sportsday</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250112190000 +0000" stop="20250112193000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -33280,7 +33280,7 @@
         <title>WTA Final: Adelaide</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112110000 +0000" channel="SkySp Mix">
-        <title>Fight Night: Simpson v Woodhall</title>
+        <title>Fight Night: Simpson v Woodall</title>
     </programme>
     <programme start="20250112110000 +0000" stop="20250112120000 +0000" channel="SkySp Mix">
         <title>BBL: Adelaide S v Brisbane H</title>
@@ -33304,7 +33304,7 @@
         <title>Live NCAA Basketball</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="SkySp Mix">
-        <title>Fight Night: Simpson v Woodhall</title>
+        <title>Fight Night: Simpson v Woodall</title>
     </programme>
     <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="SkySp Mix">
         <title>British F1 GP Highlights</title>
