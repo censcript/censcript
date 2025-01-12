@@ -46,10 +46,10 @@
         <title>FA Cup - Mansfield Town v Wigan Athletic</title>
     </programme>
     <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 8.optus">
-        <title>FA Cup - Preston North End v Charlton Athletic</title>
-    </programme>
-    <programme start="20250114194500 +0000" stop="20250114230500 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
+    </programme>
+    <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 7.optus">
+        <title>FA Cup - Preston North End v Charlton Athletic</title>
     </programme>
     <programme start="20250114195000 +0000" stop="20250114221000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Nottingham Forest v Liverpool</title>
