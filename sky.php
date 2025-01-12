@@ -35763,13 +35763,10 @@
     <programme start="20250112094000 +0000" stop="20250112115000 +0000" channel="BBC RB 1 HD">
         <title>FA Cup Third Round: Leeds United v Harrogate Town</title>
     </programme>
-    <programme start="20250112115000 +0000" stop="20250112140000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250112115000 +0000" stop="20250112140500 +0000" channel="BBC RB 1 HD">
         <title>Women's FA Cup Fourth Round:...</title>
     </programme>
-    <programme start="20250112140000 +0000" stop="20250112141000 +0000" channel="BBC RB 1 HD">
-        <title>What's Your Thing? - Waving at Trucks</title>
-    </programme>
-    <programme start="20250112141000 +0000" stop="20250112142000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250112140500 +0000" stop="20250112142000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing? - Egton Gooseberry Show</title>
     </programme>
     <programme start="20250112142000 +0000" stop="20250112143000 +0000" channel="BBC RB 1 HD">
@@ -37211,9 +37208,6 @@
     </programme>
     <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="TWR">
         <title>TWR Focus</title>
-    </programme>
-    <programme start="20250111130000 +0000" stop="20250112090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250112090000 +0000" stop="20250112093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
