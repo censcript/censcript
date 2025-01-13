@@ -13350,20 +13350,14 @@
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="SkySpCricket HD">
         <title>BBL: Sydney T v Perth S</title>
     </programme>
-    <programme start="20250112210000 +0000" stop="20250113010000 +0000" channel="SkySp Golf HD">
+    <programme start="20250112210000 +0000" stop="20250113014500 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf</title>
     </programme>
-    <programme start="20250113010000 +0000" stop="20250113020000 +0000" channel="SkySp Golf HD">
+    <programme start="20250113014500 +0000" stop="20250113024500 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
-    <programme start="20250113020000 +0000" stop="20250113030000 +0000" channel="SkySp Golf HD">
+    <programme start="20250113024500 +0000" stop="20250113040000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour 2024 Official Film</title>
-    </programme>
-    <programme start="20250113030000 +0000" stop="20250113033000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories: J Rose</title>
-    </programme>
-    <programme start="20250113033000 +0000" stop="20250113040000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories : Donald</title>
     </programme>
     <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="SkySp Golf HD">
         <title>Sony Open In Hawaii 2024 Hlts</title>
@@ -13374,20 +13368,11 @@
     <programme start="20250113053000 +0000" stop="20250113060000 +0000" channel="SkySp Golf HD">
         <title>Nick Dougherty: Tee Time Tips</title>
     </programme>
-    <programme start="20250113060000 +0000" stop="20250113113000 +0000" channel="SkySp Golf HD">
+    <programme start="20250113060000 +0000" stop="20250113121500 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf</title>
     </programme>
-    <programme start="20250113113000 +0000" stop="20250113153000 +0000" channel="SkySp Golf HD">
+    <programme start="20250113121500 +0000" stop="20250113170000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
-    </programme>
-    <programme start="20250113153000 +0000" stop="20250113160000 +0000" channel="SkySp Golf HD">
-        <title>Nick Dougherty: Tee Time Tips</title>
-    </programme>
-    <programme start="20250113160000 +0000" stop="20250113163000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories: J Rose</title>
-    </programme>
-    <programme start="20250113163000 +0000" stop="20250113170000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories : Donald</title>
     </programme>
     <programme start="20250113170000 +0000" stop="20250113171500 +0000" channel="SkySp Golf HD">
         <title>My Ryder Cup - Sam Torrance</title>
@@ -28584,8 +28569,11 @@
     <programme start="20250113160000 +0000" stop="20250113160500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250113160500 +0000" stop="20250113162900 +0000" channel="IQRA TV">
+    <programme start="20250113160500 +0000" stop="20250113162400 +0000" channel="IQRA TV">
         <title>Iqra With IQRA</title>
+    </programme>
+    <programme start="20250113162400 +0000" stop="20250113162900 +0000" channel="IQRA TV">
+        <title>Maghrib Azan</title>
     </programme>
     <programme start="20250113162900 +0000" stop="20250113170000 +0000" channel="IQRA TV">
         <title>Iqra With IQRA</title>
@@ -28602,8 +28590,11 @@
     <programme start="20250113180000 +0000" stop="20250113180500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250113180500 +0000" stop="20250113182400 +0000" channel="IQRA TV">
+    <programme start="20250113180500 +0000" stop="20250113181900 +0000" channel="IQRA TV">
         <title>Real Talk</title>
+    </programme>
+    <programme start="20250113181900 +0000" stop="20250113182400 +0000" channel="IQRA TV">
+        <title>Isha Azan</title>
     </programme>
     <programme start="20250113182400 +0000" stop="20250113190000 +0000" channel="IQRA TV">
         <title>Real Talk</title>
@@ -30642,14 +30633,23 @@
     <programme start="20250113120000 +0000" stop="20250113121500 +0000" channel="ATN">
         <title>Sikandar</title>
     </programme>
-    <programme start="20250113121500 +0000" stop="20250113140000 +0000" channel="ATN">
+    <programme start="20250113121500 +0000" stop="20250113122000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
+    </programme>
+    <programme start="20250113122000 +0000" stop="20250113140000 +0000" channel="ATN">
+        <title>Sikandar</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250113143000 +0000" stop="20250113160000 +0000" channel="ATN">
+    <programme start="20250113143000 +0000" stop="20250113143500 +0000" channel="ATN">
         <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250113143500 +0000" stop="20250113155500 +0000" channel="ATN">
+        <title>Sikandar</title>
+    </programme>
+    <programme start="20250113155500 +0000" stop="20250113160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250113160000 +0000" stop="20250113162100 +0000" channel="ATN">
         <title>ATN News</title>
