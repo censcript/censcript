@@ -6321,11 +6321,8 @@
     <programme start="20250114043000 +0000" stop="20250114063000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Wycombe Wanderers vs Portsmouth</title>
     </programme>
-    <programme start="20250114063000 +0000" stop="20250114083000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250114063000 +0000" stop="20250114090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Tamworth vs Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250114083000 +0000" stop="20250114090000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Episode 3 (18 Dec Games)</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114110000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Southampton vs Swansea City</title>
@@ -6512,6 +6509,9 @@
     </programme>
     <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NFL 2024/25</title>
+    </programme>
+    <programme start="20250118173000 +0000" stop="20250118193000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Singapore Premier League 2024/25 Young Lions vs Tanjong Pagar United FC</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Sunday Debate</title>
@@ -24681,10 +24681,10 @@
     <programme start="20250113220000 +0000" stop="20250114013000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250114001500 +0000" stop="20250114041500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250114013000 +0000" stop="20250114044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M24 - Hobart Hurricanes vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250114041500 +0000" stop="20250114081500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250114044500 +0000" stop="20250114081500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M28 - Melbourne Stars vs Sydney Sixers</title>
     </programme>
     <programme start="20250114081500 +0000" stop="20250114123000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -27588,10 +27588,10 @@
     <programme start="20250114213000 +0000" stop="20250114222000 +0000" channel="Hub VVDrama.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250114222000 +0000" stop="20250114231500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250114222000 +0000" stop="20250114230500 +0000" channel="Hub VVDrama.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250114231500 +0000" stop="20250115003000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250114230500 +0000" stop="20250115003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250115003000 +0000" stop="20250115013000 +0000" channel="Hub VVDrama.starhub">
@@ -29391,11 +29391,8 @@
     <programme start="20250114043000 +0000" stop="20250114063000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Wycombe Wanderers vs Portsmouth</title>
     </programme>
-    <programme start="20250114063000 +0000" stop="20250114083000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250114063000 +0000" stop="20250114090000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Tamworth vs Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250114083000 +0000" stop="20250114090000 +0000" channel="TestChannel 995.starhub">
-        <title>Episode 3 (18 Dec Games)</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114110000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Southampton vs Swansea City</title>
@@ -29582,6 +29579,9 @@
     </programme>
     <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="TestChannel 995.starhub">
         <title>NFL 2024/25</title>
+    </programme>
+    <programme start="20250118173000 +0000" stop="20250118193000 +0000" channel="TestChannel 995.starhub">
+        <title>Singapore Premier League 2024/25 Young Lions vs Tanjong Pagar United FC</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -30129,10 +30129,10 @@
     <programme start="20250114213000 +0000" stop="20250114222000 +0000" channel="TestChannel2.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250114222000 +0000" stop="20250114231500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250114222000 +0000" stop="20250114230500 +0000" channel="TestChannel2.starhub">
         <title>Treasure Of Destiny</title>
     </programme>
-    <programme start="20250114231500 +0000" stop="20250115003000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250114230500 +0000" stop="20250115003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
     </programme>
     <programme start="20250115003000 +0000" stop="20250115013000 +0000" channel="TestChannel2.starhub">
