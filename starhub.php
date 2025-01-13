@@ -6291,11 +6291,8 @@
     <programme start="20250113110000 +0000" stop="20250113113000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 4</title>
     </programme>
-    <programme start="20250113113000 +0000" stop="20250113133000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250113113000 +0000" stop="20250113140000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Arsenal vs Manchester United</title>
-    </programme>
-    <programme start="20250113133000 +0000" stop="20250113140000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC The Walk 2024/25 601 - UFC 287: Pereira vs Adesanya 2</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NFL 2024/25 AFC Wild Card: Denver Broncos vs Buffalo Bills</title>
@@ -6512,6 +6509,9 @@
     </programme>
     <programme start="20250118141500 +0000" stop="20250118143000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 19</title>
+    </programme>
+    <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Sunday Debate</title>
@@ -9567,10 +9567,10 @@
     <programme start="20250113083000 +0000" stop="20250113123000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
     </programme>
-    <programme start="20250113123000 +0000" stop="20250113133000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250113123000 +0000" stop="20250113132800 +0000" channel="SPOTV2.starhub">
         <title>Dream On - Ducati and Bagnaia&#039;s Pursuit of Glory</title>
     </programme>
-    <programme start="20250113133000 +0000" stop="20250113140000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250113132800 +0000" stop="20250113140000 +0000" channel="SPOTV2.starhub">
         <title>A Race To Remember</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113173000 +0000" channel="SPOTV2.starhub">
@@ -9579,10 +9579,10 @@
     <programme start="20250113173000 +0000" stop="20250113180000 +0000" channel="SPOTV2.starhub">
         <title>Round 5 Neom</title>
     </programme>
-    <programme start="20250113180000 +0000" stop="20250113183000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250113180000 +0000" stop="20250113182800 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250113183000 +0000" stop="20250113190000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250113182800 +0000" stop="20250113190000 +0000" channel="SPOTV2.starhub">
         <title>A Race To Remember</title>
     </programme>
     <programme start="20250113190000 +0000" stop="20250113230000 +0000" channel="SPOTV2.starhub">
@@ -9591,7 +9591,7 @@
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250114000000 +0000" stop="20250114033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250114000000 +0000" stop="20250114023000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
     </programme>
     <programme start="20250114033000 +0000" stop="20250114063000 +0000" channel="SPOTV2.starhub">
@@ -24678,7 +24678,7 @@
     <programme start="20250113164500 +0000" stop="20250113220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250113220000 +0000" stop="20250114001500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250113220000 +0000" stop="20250114013000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250114001500 +0000" stop="20250114041500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -29361,11 +29361,8 @@
     <programme start="20250113110000 +0000" stop="20250113113000 +0000" channel="TestChannel 995.starhub">
         <title>Round 4</title>
     </programme>
-    <programme start="20250113113000 +0000" stop="20250113133000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250113113000 +0000" stop="20250113140000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Arsenal vs Manchester United</title>
-    </programme>
-    <programme start="20250113133000 +0000" stop="20250113140000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC The Walk 2024/25 601 - UFC 287: Pereira vs Adesanya 2</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113170000 +0000" channel="TestChannel 995.starhub">
         <title>NFL 2024/25 AFC Wild Card: Denver Broncos vs Buffalo Bills</title>
@@ -29582,6 +29579,9 @@
     </programme>
     <programme start="20250118141500 +0000" stop="20250118143000 +0000" channel="TestChannel 995.starhub">
         <title>Week 19</title>
+    </programme>
+    <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -31164,10 +31164,7 @@
     <programme start="20250113090000 +0000" stop="20250113110000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250113110000 +0000" stop="20250113113000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250113113000 +0000" stop="20250113133000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250113110000 +0000" stop="20250113133000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250113133000 +0000" stop="20250113153000 +0000" channel="Hub Premier 4.starhub">
@@ -31396,6 +31393,9 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250127040000 +0000" stop="20250127100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127100000 +0000" stop="20250127160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Premier 3.starhub">
