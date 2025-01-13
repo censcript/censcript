@@ -24745,7 +24745,7 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Beauty">
-        <title>QVC Beauty Sale</title>
+        <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>
@@ -37279,7 +37279,7 @@
         <title>BBC Wales Today</title>
     </programme>
     <programme start="20250113224000 +0000" stop="20250113231000 +0000" channel="BBC One Wal HD">
-        <title>Have I Got News for You</title>
+        <title>Legends of Welsh Sport: Mark Hughes</title>
     </programme>
     <programme start="20250113231000 +0000" stop="20250113234500 +0000" channel="BBC One Wal HD">
         <title>Bump</title>
