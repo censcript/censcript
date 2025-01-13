@@ -25617,11 +25617,14 @@
     <programme start="20250113152000 +0000" stop="20250113170000 +0000" channel="Dragon TV.starhub">
         <title>X Clinic</title>
     </programme>
-    <programme start="20250113170000 +0000" stop="20250113221500 +0000" channel="Dragon TV.starhub">
+    <programme start="20250113170000 +0000" stop="20250113220000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250113221500 +0000" stop="20250113230000 +0000" channel="Dragon TV.starhub">
-        <title>Channel Young Food</title>
+    <programme start="20250113220000 +0000" stop="20250113223000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
@@ -25838,9 +25841,6 @@
     </programme>
     <programme start="20250117142500 +0000" stop="20250117152000 +0000" channel="Dragon TV.starhub">
         <title>futuer china</title>
-    </programme>
-    <programme start="20250117152000 +0000" stop="20250117170000 +0000" channel="Dragon TV.starhub">
-        <title>documentary</title>
     </programme>
     <programme start="20250111233000 +0000" stop="20250112003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>
