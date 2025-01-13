@@ -12993,6 +12993,27 @@
     <programme start="20250123150000 +0000" stop="20250123170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Women&#039;s Singles SF 2</title>
     </programme>
+    <programme start="20250123170000 +0000" stop="20250123213000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Day 12</title>
+    </programme>
+    <programme start="20250123213000 +0000" stop="20250123233000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Women&#039;s Singles SF 2</title>
+    </programme>
+    <programme start="20250123233000 +0000" stop="20250124003000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Day 12</title>
+    </programme>
+    <programme start="20250124003000 +0000" stop="20250124033000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Mixed Doubles Final</title>
+    </programme>
+    <programme start="20250124033000 +0000" stop="20250124080000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+    </programme>
+    <programme start="20250124080000 +0000" stop="20250124130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles SF 2</title>
+    </programme>
+    <programme start="20250124130000 +0000" stop="20250124160000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+    </programme>
     <programme start="20250112000000 +0000" stop="20250112003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
     </programme>
@@ -31098,6 +31119,18 @@
     <programme start="20250123100000 +0000" stop="20250123160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250123160000 +0000" stop="20250123220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124040000 +0000" stop="20250124100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250112000000 +0000" stop="20250112020000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32542,6 +32575,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250123100000 +0000" stop="20250123160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123160000 +0000" stop="20250123220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124040000 +0000" stop="20250124100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Hub Sports 5 HD.starhub">

@@ -1440,7 +1440,7 @@
     <programme start="20250114235500 +0000" stop="20250115005500 +0000" channel="BBC Three HD">
         <title>The Fast and the Farmer-ish</title>
     </programme>
-    <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="BBC Four HD">
+    <programme start="20250113221500 +0000" stop="20250113230000 +0000" channel="BBC Four HD">
         <title>Gods of Snooker</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="BBC Four HD">
@@ -17883,8 +17883,11 @@
     <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="TBN UK">
         <title>Monster Truck Adventures</title>
     </programme>
-    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="TBN UK">
+    <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="TBN UK">
         <title>Hillsong Kids</title>
+    </programme>
+    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="TBN UK">
+        <title>Christine Caine</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="TBN UK">
         <title>Better Together</title>
@@ -24469,7 +24472,7 @@
         <title>Lifestyle Day with Craig &amp; Marina</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Beauty">
-        <title>Liz Earle Naturally Active</title>
+        <title>QVC Beauty Sale</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>
