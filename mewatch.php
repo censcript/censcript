@@ -582,35 +582,65 @@
     <programme start="20250113160000 +0000" stop="20250114160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 18th January, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Geylang International</title>
     </programme>
-    <programme start="20250112160000 +0000" stop="20250112170000 +0000" channel="now-80s.mewatch">
+    <programme start="20250112160000 +0000" stop="20250112162000 +0000" channel="now-80s.mewatch">
+        <title>Jenny Powell&#039;s Powerplays - Top 25</title>
+    </programme>
+    <programme start="20250112162000 +0000" stop="20250112170000 +0000" channel="now-80s.mewatch">
+        <title>80s Rock Anthems Night!</title>
+    </programme>
+    <programme start="20250112170000 +0000" stop="20250112175000 +0000" channel="now-80s.mewatch">
+        <title>The Greatest Guitar Riffs &#039;80-&#039;89</title>
+    </programme>
+    <programme start="20250112175000 +0000" stop="20250112180000 +0000" channel="now-80s.mewatch">
+        <title>80s Rock Anthems Night!</title>
+    </programme>
+    <programme start="20250112180000 +0000" stop="20250112191500 +0000" channel="now-80s.mewatch">
+        <title>The Power &amp; Glory! Top 25</title>
+    </programme>
+    <programme start="20250112191500 +0000" stop="20250112200000 +0000" channel="now-80s.mewatch">
+        <title>All Day - 80s Power Ballads!</title>
+    </programme>
+    <programme start="20250112200000 +0000" stop="20250112220000 +0000" channel="now-80s.mewatch">
+        <title>Jenny Powell&#039;s Powerplays - Top 25</title>
+    </programme>
+    <programme start="20250112220000 +0000" stop="20250112222000 +0000" channel="now-80s.mewatch">
+        <title>Jenny Powell&#039;s Powerplays - Top 25</title>
+    </programme>
+    <programme start="20250112222000 +0000" stop="20250112230000 +0000" channel="now-80s.mewatch">
+        <title>80s Rock Anthems Night!</title>
+    </programme>
+    <programme start="20250112230000 +0000" stop="20250113004500 +0000" channel="now-80s.mewatch">
+        <title>Sinitta&#039;s Everyone I Fancied!</title>
+    </programme>
+    <programme start="20250113004500 +0000" stop="20250113010000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems!</title>
     </programme>
-    <programme start="20250112170000 +0000" stop="20250112180000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250113010000 +0000" stop="20250113040000 +0000" channel="now-80s.mewatch">
+        <title>That&#039;s Not My Name! 1980-1989</title>
     </programme>
-    <programme start="20250112180000 +0000" stop="20250112230000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems!</title>
+    <programme start="20250113040000 +0000" stop="20250113072500 +0000" channel="now-80s.mewatch">
+        <title>Pat Sharp&#039;s House Of Fun 40</title>
     </programme>
-    <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250113072500 +0000" stop="20250113080000 +0000" channel="now-80s.mewatch">
+        <title>Hits That Missed!</title>
     </programme>
-    <programme start="20250113000000 +0000" stop="20250113040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250113080000 +0000" stop="20250113103000 +0000" channel="now-80s.mewatch">
+        <title>40 Big Selling No.1s Of The 80s!</title>
     </programme>
-    <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250113103000 +0000" stop="20250113113000 +0000" channel="now-80s.mewatch">
+        <title>The Power &amp; Glory! Top 25</title>
     </programme>
-    <programme start="20250113050000 +0000" stop="20250113100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250113113000 +0000" stop="20250113120000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over!</title>
     </programme>
-    <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250113120000 +0000" stop="20250113144000 +0000" channel="now-80s.mewatch">
+        <title>Tight Fit&#039;s 30 Fantasy Islands!</title>
     </programme>
-    <programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250113144000 +0000" stop="20250113150000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over!</title>
     </programme>
-    <programme start="20250113120000 +0000" stop="20250113170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies!</title>
+    <programme start="20250113150000 +0000" stop="20250113162500 +0000" channel="now-80s.mewatch">
+        <title>So Awful, Yet So Amazing! Top 20</title>
     </programme>
     <programme start="20250112100000 +0000" stop="20250112195900 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>

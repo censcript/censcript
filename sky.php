@@ -6381,11 +6381,11 @@
     <programme start="20250113215500 +0000" stop="20250113225500 +0000" channel="That's TV">
         <title>Shameless</title>
     </programme>
-    <programme start="20250113225500 +0000" stop="20250113233500 +0000" channel="That's TV">
-        <title>2point4 Children</title>
+    <programme start="20250113225500 +0000" stop="20250113235500 +0000" channel="That's TV">
+        <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250113233500 +0000" stop="20250114003500 +0000" channel="That's TV">
-        <title>Are You Being Served? Again!</title>
+    <programme start="20250113235500 +0000" stop="20250114005500 +0000" channel="That's TV">
+        <title>Benidorm</title>
     </programme>
     <programme start="20250112225000 +0000" stop="20250113000000 +0000" channel="PBS America">
         <title>Dreadnought Destruction:...</title>
