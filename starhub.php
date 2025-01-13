@@ -3948,9 +3948,6 @@
     <programme start="20250111200000 +0000" stop="20250111220000 +0000" channel="Hub E City HD.starhub">
         <title>The Hunger Games</title>
     </programme>
-    <programme start="20250111220000 +0000" stop="20250112000000 +0000" channel="Hub E City HD.starhub">
-        <title>Genius Go Go Go</title>
-    </programme>
     <programme start="20250112000000 +0000" stop="20250112020000 +0000" channel="Hub E City HD.starhub">
         <title>Mr Player 15</title>
     </programme>
@@ -4199,6 +4196,9 @@
     </programme>
     <programme start="20250116100000 +0000" stop="20250116110000 +0000" channel="Hub E City HD.starhub">
         <title>Billionaire Story</title>
+    </programme>
+    <programme start="20250116110000 +0000" stop="20250116120000 +0000" channel="Hub E City HD.starhub">
+        <title>The King of Night Market</title>
     </programme>
     <programme start="20250111000000 +0000" stop="20250111001000 +0000" channel="Cbeebies HD.starhub">
         <title>King of the City</title>
@@ -9942,9 +9942,6 @@
     <programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="Bloomberg Originals.starhub">
         <title>Business</title>
     </programme>
-    <programme start="20250111233000 +0000" stop="20250112000000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Beyond Earth: Private Ambitions in Space</title>
-    </programme>
     <programme start="20250112000000 +0000" stop="20250112003000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Korean Pop Culture Is Transforming Design</title>
     </programme>
@@ -10139,6 +10136,9 @@
     </programme>
     <programme start="20250113160000 +0000" stop="20250113163000 +0000" channel="Bloomberg Originals.starhub">
         <title>Scambaiter Exposes Massive Dubai Crypto Scam</title>
+    </programme>
+    <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Poison In Us All</title>
     </programme>
     <programme start="20250110232000 +0000" stop="20250111004500 +0000" channel="Karisma.starhub">
         <title>Tutorial Ajak Nikah Jalur Express</title>
@@ -13716,9 +13716,6 @@
     <programme start="20250111201800 +0000" stop="20250111212300 +0000" channel="SONY MAX.starhub">
         <title>The Making Of Pk</title>
     </programme>
-    <programme start="20250111212300 +0000" stop="20250112000000 +0000" channel="SONY MAX.starhub">
-        <title>Shaan</title>
-    </programme>
     <programme start="20250112000000 +0000" stop="20250112001400 +0000" channel="SONY MAX.starhub">
         <title>The Making: Kill/dil</title>
     </programme>
@@ -13982,6 +13979,9 @@
     </programme>
     <programme start="20250118220100 +0000" stop="20250119000000 +0000" channel="SONY MAX.starhub">
         <title>Pyare Mohan</title>
+    </programme>
+    <programme start="20250119000000 +0000" stop="20250119002400 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: Bhool Bhulaiyaa 2</title>
     </programme>
     <programme start="20250110234000 +0000" stop="20250111003000 +0000" channel="HGTV.starhub">
         <title>Old World Feel</title>
@@ -17391,9 +17391,6 @@
     <programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="CCTV-4.starhub">
         <title>China News</title>
     </programme>
-    <programme start="20250111233000 +0000" stop="20250112000000 +0000" channel="CCTV-4.starhub">
-        <title>Focus Today</title>
-    </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
     </programme>
@@ -17573,6 +17570,9 @@
     </programme>
     <programme start="20250113100000 +0000" stop="20250113103000 +0000" channel="CCTV-4.starhub">
         <title>China News</title>
+    </programme>
+    <programme start="20250113103000 +0000" stop="20250113110000 +0000" channel="CCTV-4.starhub">
+        <title>China Showbiz</title>
     </programme>
     <programme start="20250110233000 +0000" stop="20250111020000 +0000" channel="Asianet.starhub">
         <title>Ammayane sathyam</title>
@@ -19843,40 +19843,37 @@
         <title>Sembaruthi</title>
     </programme>
     <programme start="20250113003000 +0000" stop="20250113010000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+        <title>Sembaruthi</title>
     </programme>
     <programme start="20250113010000 +0000" stop="20250113013000 +0000" channel="Zee Tamil.starhub">
-        <title>Special Veera</title>
+        <title>Thirumathi Hitler</title>
     </programme>
-    <programme start="20250113013000 +0000" stop="20250113020000 +0000" channel="Zee Tamil.starhub">
-        <title>Special Veera</title>
-    </programme>
-    <programme start="20250113020000 +0000" stop="20250113023000 +0000" channel="Zee Tamil.starhub">
-        <title>Special Veera</title>
+    <programme start="20250113013000 +0000" stop="20250113023000 +0000" channel="Zee Tamil.starhub">
+        <title>Genes S02</title>
     </programme>
     <programme start="20250113023000 +0000" stop="20250113030000 +0000" channel="Zee Tamil.starhub">
-        <title>Special Veera</title>
+        <title>Nenjathai Killadhe</title>
     </programme>
     <programme start="20250113030000 +0000" stop="20250113053000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+        <title>Mr &amp; Mrs Arjun</title>
     </programme>
     <programme start="20250113053000 +0000" stop="20250113060000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Kurangu Bommai</title>
+        <title>KCKC - Kalavani Mapillai</title>
     </programme>
     <programme start="20250113060000 +0000" stop="20250113063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Paagan</title>
+        <title>KCKC - 7 Naatkal</title>
     </programme>
     <programme start="20250113063000 +0000" stop="20250113070000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250113070000 +0000" stop="20250113073000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
+        <title>Anna</title>
     </programme>
     <programme start="20250113073000 +0000" stop="20250113080000 +0000" channel="Zee Tamil.starhub">
         <title>Mounam Pesiyathey</title>
     </programme>
     <programme start="20250113080000 +0000" stop="20250113083000 +0000" channel="Zee Tamil.starhub">
-        <title>Valliyin Velan</title>
+        <title>Ninaithale Inikkum</title>
     </programme>
     <programme start="20250113083000 +0000" stop="20250113090000 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
@@ -19921,10 +19918,10 @@
         <title>Idhayam</title>
     </programme>
     <programme start="20250113143000 +0000" stop="20250113150000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
+        <title>KCKC - 7 Naatkal</title>
     </programme>
     <programme start="20250113150000 +0000" stop="20250113153000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
+        <title>Mounam Pesiyathey</title>
     </programme>
     <programme start="20250113153000 +0000" stop="20250113160000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -19933,10 +19930,13 @@
         <title>Zee Flix</title>
     </programme>
     <programme start="20250113163000 +0000" stop="20250113170000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
+        <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250113170000 +0000" stop="20250113173000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+    <programme start="20250113170000 +0000" stop="20250113171500 +0000" channel="Zee Tamil.starhub">
+        <title>Maari</title>
+    </programme>
+    <programme start="20250113171500 +0000" stop="20250113173000 +0000" channel="Zee Tamil.starhub">
+        <title>Maari</title>
     </programme>
     <programme start="20250113173000 +0000" stop="20250113180000 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
@@ -19959,20 +19959,20 @@
     <programme start="20250113203000 +0000" stop="20250113210000 +0000" channel="Zee Tamil.starhub">
         <title>Mounam Pesiyathey</title>
     </programme>
-    <programme start="20250113210000 +0000" stop="20250113211500 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
-    </programme>
-    <programme start="20250113211500 +0000" stop="20250113213000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+    <programme start="20250113210000 +0000" stop="20250113213000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
     </programme>
     <programme start="20250113213000 +0000" stop="20250113220000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113223000 +0000" channel="Zee Tamil.starhub">
-        <title>Karthigai Deepam</title>
+        <title>Zee Flix</title>
     </programme>
     <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+        <title>Zee Flix</title>
+    </programme>
+    <programme start="20250113230000 +0000" stop="20250113233000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
     </programme>
     <programme start="20250111000000 +0000" stop="20250111001500 +0000" channel="France24.starhub">
         <title>The News</title>
@@ -23361,9 +23361,6 @@
     <programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="CNN HD.starhub">
         <title>Senegalese Cuisine</title>
     </programme>
-    <programme start="20250111230000 +0000" stop="20250112000000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNN/US)</title>
-    </programme>
     <programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
@@ -23573,6 +23570,9 @@
     </programme>
     <programme start="20250114000000 +0000" stop="20250114010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
+    </programme>
+    <programme start="20250114010000 +0000" stop="20250114020000 +0000" channel="CNN HD.starhub">
+        <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20250110230000 +0000" stop="20250111010000 +0000" channel="Cinema One Global.starhub">
         <title>Bakit Pa Kita Minahal?</title>

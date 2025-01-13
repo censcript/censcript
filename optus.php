@@ -99,7 +99,7 @@
     <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250118172000 +0000" stop="20250118194000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250118172000 +0000" stop="20250118200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Arsenal v Aston Villa</title>
     </programme>
     <programme start="20250118172500 +0000" stop="20250118194000 +0000" channel="Optus Sport 202.optus">
@@ -129,7 +129,7 @@
     <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
         <title>Women&#039;s Super League - West Ham United v Chelsea</title>
     </programme>
-    <programme start="20250119162000 +0000" stop="20250119184000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250119162000 +0000" stop="20250119193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Ipswich v Manchester City</title>
     </programme>
     <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
@@ -144,7 +144,7 @@
     <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
-    <programme start="20250120193000 +0000" stop="20250120221000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250120193000 +0000" stop="20250120223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Wolverhampton Wanderers</title>
     </programme>
     <programme start="20250120223000 +0000" stop="20250120233000 +0000" channel="Optus Sport 11.optus">
