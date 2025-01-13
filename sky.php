@@ -222,13 +222,13 @@
     <programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="ITV1 HD">
         <title>New: Playing Nice</title>
     </programme>
-    <programme start="20250113220000 +0000" stop="20250113223000 +0000" channel="ITV1 HD">
+    <programme start="20250113220000 +0000" stop="20250113223500 +0000" channel="ITV1 HD">
         <title>ITV News at Ten</title>
     </programme>
-    <programme start="20250113223000 +0000" stop="20250113224500 +0000" channel="ITV1 HD">
+    <programme start="20250113223500 +0000" stop="20250113225000 +0000" channel="ITV1 HD">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250113224500 +0000" stop="20250113234500 +0000" channel="ITV1 HD">
+    <programme start="20250113225000 +0000" stop="20250113235000 +0000" channel="ITV1 HD">
         <title>Love Island: All Stars</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="Channel 4 HD">
@@ -7185,13 +7185,13 @@
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="ITV1+1">
         <title>New: Playing Nice</title>
     </programme>
-    <programme start="20250113230000 +0000" stop="20250113233000 +0000" channel="ITV1+1">
+    <programme start="20250113230000 +0000" stop="20250113233500 +0000" channel="ITV1+1">
         <title>ITV News at Ten</title>
     </programme>
-    <programme start="20250113233000 +0000" stop="20250113234500 +0000" channel="ITV1+1">
+    <programme start="20250113233500 +0000" stop="20250113235000 +0000" channel="ITV1+1">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250113234500 +0000" stop="20250114004500 +0000" channel="ITV1+1">
+    <programme start="20250113235000 +0000" stop="20250114005000 +0000" channel="ITV1+1">
         <title>Love Island: All Stars</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="Channel 4+1">
@@ -14392,7 +14392,7 @@
         <title>Ultimate Karting Championship: Three Sisters</title>
     </programme>
     <programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="Premier 1 HD">
-        <title>FIM Sidecarcross: Season Review</title>
+        <title>FIM Sidecarcross: Loket</title>
     </programme>
     <programme start="20250113180000 +0000" stop="20250113193000 +0000" channel="Premier 1 HD">
         <title>Live Viva LALIGA</title>
@@ -31650,16 +31650,16 @@
     <programme start="20250113083000 +0000" stop="20250113090000 +0000" channel="ColorsGujarati">
         <title>Shyam Dhun Laagi Re</title>
     </programme>
-    <programme start="20250113090000 +0000" stop="20250113092500 +0000" channel="ColorsGujarati">
+    <programme start="20250113090000 +0000" stop="20250113093000 +0000" channel="ColorsGujarati">
         <title>United State Of Gujarat</title>
     </programme>
-    <programme start="20250113092500 +0000" stop="20250113102500 +0000" channel="ColorsGujarati">
+    <programme start="20250113093000 +0000" stop="20250113103000 +0000" channel="ColorsGujarati">
         <title>Deshi Beats</title>
     </programme>
-    <programme start="20250113102500 +0000" stop="20250113110500 +0000" channel="ColorsGujarati">
+    <programme start="20250113103000 +0000" stop="20250113110000 +0000" channel="ColorsGujarati">
         <title>Moti Baa Ni Nani Vahu</title>
     </programme>
-    <programme start="20250113110500 +0000" stop="20250113120000 +0000" channel="ColorsGujarati">
+    <programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="ColorsGujarati">
         <title>Rasoi Show</title>
     </programme>
     <programme start="20250113120000 +0000" stop="20250113123000 +0000" channel="ColorsGujarati">
@@ -31668,13 +31668,13 @@
     <programme start="20250113123000 +0000" stop="20250113130000 +0000" channel="ColorsGujarati">
         <title>Shyam Dhun Laagi Re</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113132500 +0000" channel="ColorsGujarati">
+    <programme start="20250113130000 +0000" stop="20250113133000 +0000" channel="ColorsGujarati">
         <title>Sanskaar - Ek Dharohar Aapni</title>
     </programme>
-    <programme start="20250113132500 +0000" stop="20250113142500 +0000" channel="ColorsGujarati">
+    <programme start="20250113133000 +0000" stop="20250113143000 +0000" channel="ColorsGujarati">
         <title>Rasoi Show</title>
     </programme>
-    <programme start="20250113142500 +0000" stop="20250113150000 +0000" channel="ColorsGujarati">
+    <programme start="20250113143000 +0000" stop="20250113150000 +0000" channel="ColorsGujarati">
         <title>Moti Baa Ni Nani Vahu</title>
     </programme>
     <programme start="20250113150000 +0000" stop="20250113153000 +0000" channel="ColorsGujarati">
