@@ -114,11 +114,11 @@
     <programme start="20250113121500 +0000" stop="20250113130000 +0000" channel="BBC Two HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113161500 +0000" channel="BBC Two HD">
+    <programme start="20250113130000 +0000" stop="20250113163000 +0000" channel="BBC Two HD">
         <title>Masters Snooker</title>
     </programme>
-    <programme start="20250113161500 +0000" stop="20250113171500 +0000" channel="BBC Two HD">
-        <title>World's Weirdest Events</title>
+    <programme start="20250113163000 +0000" stop="20250113171500 +0000" channel="BBC Two HD">
+        <title>Leopards: Natural World</title>
     </programme>
     <programme start="20250113171500 +0000" stop="20250113180000 +0000" channel="BBC Two HD">
         <title>Flog It!</title>
@@ -12117,10 +12117,10 @@
     <programme start="20250113215500 +0000" stop="20250113220100 +0000" channel="GREAT! action">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250113220100 +0000" stop="20250113231000 +0000" channel="GREAT! action">
+    <programme start="20250113220100 +0000" stop="20250113230500 +0000" channel="GREAT! action">
         <title>Blowback</title>
     </programme>
-    <programme start="20250113231000 +0000" stop="20250114001000 +0000" channel="GREAT! action">
+    <programme start="20250113230500 +0000" stop="20250114000500 +0000" channel="GREAT! action">
         <title>Attack Force</title>
     </programme>
     <programme start="20250112225500 +0000" stop="20250112230100 +0000" channel="GREAT!action+1">
@@ -14004,13 +14004,13 @@
     <programme start="20250113100000 +0000" stop="20250113134500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113134500 +0000" stop="20250113163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250113134500 +0000" stop="20250113170000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: The Masters</title>
     </programme>
-    <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="Eurosport 1 HD">
         <title>Rally-Raid Dakar Saudi Arabia</title>
     </programme>
-    <programme start="20250113173000 +0000" stop="20250113184500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250113180000 +0000" stop="20250113184500 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250113184500 +0000" stop="20250113223000 +0000" channel="Eurosport 1 HD">
@@ -24727,7 +24727,7 @@
         <title>Independent Living</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="QVC Beauty">
-        <title>Supplement your Health</title>
+        <title>Supplement Your Health</title>
     </programme>
     <programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="QVC Beauty">
         <title>Neom Organics London</title>
@@ -25438,7 +25438,7 @@
         <title>Kitchen Deals with Ninja</title>
     </programme>
     <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="QVC Extra">
-        <title>Richard Jackson's Garden</title>
+        <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="QVC Extra">
         <title>QVC Extra Top Deals</title>
@@ -34854,13 +34854,13 @@
     <programme start="20250113100000 +0000" stop="20250113134500 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113134500 +0000" stop="20250113163000 +0000" channel="Eurosport 1">
+    <programme start="20250113134500 +0000" stop="20250113170000 +0000" channel="Eurosport 1">
         <title>Live Snooker: The Masters</title>
     </programme>
-    <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="Eurosport 1">
+    <programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="Eurosport 1">
         <title>Rally-Raid Dakar Saudi Arabia</title>
     </programme>
-    <programme start="20250113173000 +0000" stop="20250113184500 +0000" channel="Eurosport 1">
+    <programme start="20250113180000 +0000" stop="20250113184500 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250113184500 +0000" stop="20250113223000 +0000" channel="Eurosport 1">
@@ -37446,11 +37446,11 @@
     <programme start="20250113121500 +0000" stop="20250113130000 +0000" channel="BBC Two Wal HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113161500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250113130000 +0000" stop="20250113163000 +0000" channel="BBC Two Wal HD">
         <title>Masters Snooker</title>
     </programme>
-    <programme start="20250113161500 +0000" stop="20250113171500 +0000" channel="BBC Two Wal HD">
-        <title>World's Weirdest Events</title>
+    <programme start="20250113163000 +0000" stop="20250113171500 +0000" channel="BBC Two Wal HD">
+        <title>Leopards: Natural World</title>
     </programme>
     <programme start="20250113171500 +0000" stop="20250113180000 +0000" channel="BBC Two Wal HD">
         <title>Flog It!</title>
@@ -37518,11 +37518,11 @@
     <programme start="20250113121500 +0000" stop="20250113130000 +0000" channel="BBC Two NI HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113161500 +0000" channel="BBC Two NI HD">
+    <programme start="20250113130000 +0000" stop="20250113163000 +0000" channel="BBC Two NI HD">
         <title>Masters Snooker</title>
     </programme>
-    <programme start="20250113161500 +0000" stop="20250113171500 +0000" channel="BBC Two NI HD">
-        <title>World's Weirdest Events</title>
+    <programme start="20250113163000 +0000" stop="20250113171500 +0000" channel="BBC Two NI HD">
+        <title>Leopards: Natural World</title>
     </programme>
     <programme start="20250113171500 +0000" stop="20250113180000 +0000" channel="BBC Two NI HD">
         <title>Flog It!</title>
@@ -37978,7 +37978,7 @@
         <title>Aled Jones</title>
     </programme>
     <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="Classic FM">
-        <title>Hall of Fame</title>
+        <title>Aled Jones</title>
     </programme>
     <programme start="20250113100000 +0000" stop="20250113130000 +0000" channel="Classic FM">
         <title>Alexander Armstrong</title>

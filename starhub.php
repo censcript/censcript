@@ -4939,7 +4939,7 @@
         <title>News</title>
     </programme>
     <programme start="20250112161500 +0000" stop="20250112163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250112163000 +0000" stop="20250112170000 +0000" channel="DW English HD.starhub">
         <title>Modern African Lifestyle</title>
@@ -4957,7 +4957,7 @@
         <title>News</title>
     </programme>
     <programme start="20250112181500 +0000" stop="20250112183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help us understand animals better?</title>
     </programme>
     <programme start="20250112183000 +0000" stop="20250112190000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -4981,7 +4981,7 @@
         <title>News</title>
     </programme>
     <programme start="20250112211500 +0000" stop="20250112213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250112213000 +0000" stop="20250112220000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -4993,13 +4993,13 @@
         <title>Lifestyle Europe</title>
     </programme>
     <programme start="20250112223000 +0000" stop="20250112230000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>War and culture</title>
     </programme>
     <programme start="20250112230000 +0000" stop="20250112231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250112231500 +0000" stop="20250112233000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250112233000 +0000" stop="20250113000000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -15141,16 +15141,16 @@
     <programme start="20250113232000 +0000" stop="20250114011000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Ferencvaros vs Malmo - MD5</title>
     </programme>
-    <programme start="20250114011000 +0000" stop="20250114030000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250114011000 +0000" stop="20250114025500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25 Young Boys vs Atalanta - MD5</title>
     </programme>
-    <programme start="20250114030000 +0000" stop="20250114040000 +0000" channel="beIN Sports 3.starhub">
-        <title>Tue,MD5</title>
+    <programme start="20250114025500 +0000" stop="20250114031000 +0000" channel="beIN Sports 3.starhub">
+        <title>UCL Classic Matches Arsenal vs Man Utd (2008/09)</title>
     </programme>
-    <programme start="20250114040000 +0000" stop="20250114060000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250114031000 +0000" stop="20250114051000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV Classic 2024/25 Arsenal vs Stoke</title>
     </programme>
-    <programme start="20250114060000 +0000" stop="20250114080000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250114051000 +0000" stop="20250114080000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Arsenal vs Man United - FA Cup</title>
     </programme>
     <programme start="20250114080000 +0000" stop="20250114095500 +0000" channel="beIN Sports 3.starhub">
@@ -15259,10 +15259,10 @@
         <title>Mini Match - UEFA Champions League 2024/25 Celtic vs Club Brugge - MD5</title>
     </programme>
     <programme start="20250116104000 +0000" stop="20250116111000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV: Premier League Years 2024/25</title>
+        <title>2001/02</title>
     </programme>
     <programme start="20250116111000 +0000" stop="20250116114000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV Specials 2024/25</title>
+        <title>Legends: Tore Andre Flo</title>
     </programme>
     <programme start="20250116114000 +0000" stop="20250116134000 +0000" channel="beIN Sports 3.starhub">
         <title>Chelsea TV 2024/25 Chelsea vs Bournemouth</title>
@@ -15292,10 +15292,10 @@
         <title>UEFA Europa League 2024/25 Slavia Prague vs Fenerbahce - MD5</title>
     </programme>
     <programme start="20250117030000 +0000" stop="20250117033000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV: Premier League Years 2024/25</title>
+        <title>2001/02</title>
     </programme>
     <programme start="20250117033000 +0000" stop="20250117040000 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea TV Specials 2024/25</title>
+        <title>Legends: Tore Andre Flo</title>
     </programme>
     <programme start="20250117040000 +0000" stop="20250117060000 +0000" channel="beIN Sports 3.starhub">
         <title>Chelsea TV 2024/25 Chelsea vs Bournemouth</title>
@@ -28146,19 +28146,22 @@
     <programme start="20250115131500 +0000" stop="20250115143000 +0000" channel="tvN HD.starhub">
         <title>The Queen Who Crowns</title>
     </programme>
-    <programme start="20250115143000 +0000" stop="20250115162000 +0000" channel="tvN HD.starhub">
+    <programme start="20250115143000 +0000" stop="20250115160000 +0000" channel="tvN HD.starhub">
         <title>GBRB spinoff: Cafeteria Operation</title>
     </programme>
-    <programme start="20250115162000 +0000" stop="20250115173500 +0000" channel="tvN HD.starhub">
+    <programme start="20250115160000 +0000" stop="20250115171500 +0000" channel="tvN HD.starhub">
         <title>Welcome to Waikiki 2</title>
     </programme>
-    <programme start="20250115173500 +0000" stop="20250115185000 +0000" channel="tvN HD.starhub">
+    <programme start="20250115171500 +0000" stop="20250115183000 +0000" channel="tvN HD.starhub">
         <title>Welcome to Waikiki 2</title>
     </programme>
-    <programme start="20250115185000 +0000" stop="20250115201000 +0000" channel="tvN HD.starhub">
+    <programme start="20250115183000 +0000" stop="20250115191000 +0000" channel="tvN HD.starhub">
+        <title>Create My Seoul</title>
+    </programme>
+    <programme start="20250115191000 +0000" stop="20250115203000 +0000" channel="tvN HD.starhub">
         <title>The Queen Who Crowns</title>
     </programme>
-    <programme start="20250115201000 +0000" stop="20250115220000 +0000" channel="tvN HD.starhub">
+    <programme start="20250115203000 +0000" stop="20250115220000 +0000" channel="tvN HD.starhub">
         <title>GBRB spinoff: Cafeteria Operation</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250115234000 +0000" channel="tvN HD.starhub">
@@ -28185,13 +28188,16 @@
     <programme start="20250116064500 +0000" stop="20250116080500 +0000" channel="tvN HD.starhub">
         <title>Country Life of Gen-Z</title>
     </programme>
-    <programme start="20250116080500 +0000" stop="20250116093000 +0000" channel="tvN HD.starhub">
+    <programme start="20250116080500 +0000" stop="20250116093500 +0000" channel="tvN HD.starhub">
         <title>Country Life of Gen-Z</title>
     </programme>
-    <programme start="20250116093000 +0000" stop="20250116112500 +0000" channel="tvN HD.starhub">
+    <programme start="20250116093500 +0000" stop="20250116095500 +0000" channel="tvN HD.starhub">
+        <title>You Can Cook With Sam Kim</title>
+    </programme>
+    <programme start="20250116095500 +0000" stop="20250116114500 +0000" channel="tvN HD.starhub">
         <title>Handsome Guys</title>
     </programme>
-    <programme start="20250116112500 +0000" stop="20250116131500 +0000" channel="tvN HD.starhub">
+    <programme start="20250116114500 +0000" stop="20250116131500 +0000" channel="tvN HD.starhub">
         <title>GBRB spinoff: Cafeteria Operation</title>
     </programme>
     <programme start="20250116131500 +0000" stop="20250116143000 +0000" channel="tvN HD.starhub">
@@ -28212,35 +28218,29 @@
     <programme start="20250116201000 +0000" stop="20250116220000 +0000" channel="tvN HD.starhub">
         <title>Rented in Finland</title>
     </programme>
-    <programme start="20250116220000 +0000" stop="20250116235000 +0000" channel="tvN HD.starhub">
+    <programme start="20250116220000 +0000" stop="20250116234500 +0000" channel="tvN HD.starhub">
         <title>Handsome Guys</title>
     </programme>
-    <programme start="20250116235000 +0000" stop="20250117013500 +0000" channel="tvN HD.starhub">
+    <programme start="20250116234500 +0000" stop="20250117000000 +0000" channel="tvN HD.starhub">
+        <title>You Can Cook With Sam Kim</title>
+    </programme>
+    <programme start="20250117000000 +0000" stop="20250117013000 +0000" channel="tvN HD.starhub">
         <title>GBRB spinoff: Cafeteria Operation</title>
     </programme>
-    <programme start="20250117013500 +0000" stop="20250117030000 +0000" channel="tvN HD.starhub">
+    <programme start="20250117013000 +0000" stop="20250117030000 +0000" channel="tvN HD.starhub">
         <title>Country Life of Gen-Z</title>
     </programme>
     <programme start="20250117030000 +0000" stop="20250117041500 +0000" channel="tvN HD.starhub">
         <title>Welcome to Waikiki 2</title>
     </programme>
-    <programme start="20250117041500 +0000" stop="20250117053500 +0000" channel="tvN HD.starhub">
+    <programme start="20250117041500 +0000" stop="20250117053000 +0000" channel="tvN HD.starhub">
         <title>The Queen Who Crowns</title>
     </programme>
-    <programme start="20250117053500 +0000" stop="20250117065000 +0000" channel="tvN HD.starhub">
+    <programme start="20250117053000 +0000" stop="20250117064500 +0000" channel="tvN HD.starhub">
         <title>The Queen Who Crowns</title>
     </programme>
-    <programme start="20250117065000 +0000" stop="20250117084000 +0000" channel="tvN HD.starhub">
+    <programme start="20250117064500 +0000" stop="20250117081500 +0000" channel="tvN HD.starhub">
         <title>GBRB spinoff: Cafeteria Operation</title>
-    </programme>
-    <programme start="20250117084000 +0000" stop="20250117095500 +0000" channel="tvN HD.starhub">
-        <title>Crime Scene Returns</title>
-    </programme>
-    <programme start="20250117095500 +0000" stop="20250117101000 +0000" channel="tvN HD.starhub">
-        <title>You Can Cook With Sam Kim</title>
-    </programme>
-    <programme start="20250117101000 +0000" stop="20250117120000 +0000" channel="tvN HD.starhub">
-        <title>Rented in Finland</title>
     </programme>
     <programme start="20250111220000 +0000" stop="20250112040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
