@@ -5011,7 +5011,7 @@
         <title>Lifestyle Europe</title>
     </programme>
     <programme start="20250113003000 +0000" stop="20250113010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Italy&#039;s LGBTQ+ community worries about its rights</title>
     </programme>
     <programme start="20250113010000 +0000" stop="20250113011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5020,7 +5020,7 @@
         <title>Penthouse or Hovel - Living on a Roof</title>
     </programme>
     <programme start="20250113014500 +0000" stop="20250113020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250113020000 +0000" stop="20250113020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5044,10 +5044,10 @@
         <title>News</title>
     </programme>
     <programme start="20250113041500 +0000" stop="20250113044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Italy&#039;s LGBTQ+ community worries about its rights</title>
     </programme>
     <programme start="20250113044500 +0000" stop="20250113050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250113050000 +0000" stop="20250113050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5062,7 +5062,7 @@
         <title>News</title>
     </programme>
     <programme start="20250113061500 +0000" stop="20250113063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help us understand animals better?</title>
     </programme>
     <programme start="20250113063000 +0000" stop="20250113070000 +0000" channel="DW English HD.starhub">
         <title>Dancing and tree-hugging for the planet</title>
@@ -5077,10 +5077,10 @@
         <title>News</title>
     </programme>
     <programme start="20250113083000 +0000" stop="20250113084500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help us understand animals better?</title>
     </programme>
     <programme start="20250113084500 +0000" stop="20250113090000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Special Care for Early Arrivals</title>
     </programme>
     <programme start="20250113090000 +0000" stop="20250113091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5098,7 +5098,7 @@
         <title>News</title>
     </programme>
     <programme start="20250113113000 +0000" stop="20250113120000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Italy&#039;s LGBTQ+ community worries about its rights</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112013000 +0000" channel="Asianet Movies.starhub">
         <title>Irul</title>
@@ -15123,17 +15123,11 @@
     <programme start="20250113133000 +0000" stop="20250113162000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Arsenal vs Man United - FA Cup</title>
     </programme>
-    <programme start="20250113162000 +0000" stop="20250113172000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250113162000 +0000" stop="20250113181000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Midtjylland vs Frankfurt - MD5</title>
     </programme>
-    <programme start="20250113172000 +0000" stop="20250113190500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250113181000 +0000" stop="20250113195500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Conference League 2024/25 LASK vs Cercle Brugge - MD3</title>
-    </programme>
-    <programme start="20250113190500 +0000" stop="20250113193500 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Champions League 2024/25 Man City vs Feyenoord - MD5</title>
-    </programme>
-    <programme start="20250113193500 +0000" stop="20250113195500 +0000" channel="beIN Sports 3.starhub">
-        <title>LaLiga Zap 2024/25</title>
     </programme>
     <programme start="20250113195500 +0000" stop="20250113220000 +0000" channel="beIN Sports 3.starhub">
         <title>LaLiga 2024/25 Real Sociedad vs Villarreal (Live)</title>
@@ -15341,6 +15335,12 @@
     </programme>
     <programme start="20250118020000 +0000" stop="20250118023000 +0000" channel="beIN Sports 3.starhub">
         <title>UEL MD7 Preview</title>
+    </programme>
+    <programme start="20250118023000 +0000" stop="20250118042500 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Champions League 2024/25 Barcelona vs Brest - MD5</title>
+    </programme>
+    <programme start="20250118042500 +0000" stop="20250118062000 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Europa League 2024/25 Tottenham vs Roma - MD5</title>
     </programme>
     <programme start="20250112000000 +0000" stop="20250112003000 +0000" channel="Astro Sensasi HD.starhub">
         <title>Cheap Thrills</title>

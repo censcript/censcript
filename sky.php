@@ -6916,7 +6916,7 @@
         <title>It Ain't Half Hot Mum</title>
     </programme>
     <programme start="20250113233000 +0000" stop="20250114003000 +0000" channel="That's TV 2">
-        <title>Rab C. Nesbitt</title>
+        <title>In Sickness and in Health</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="Rewind TV">
         <title>Department S</title>
@@ -13452,23 +13452,23 @@
     <programme start="20250113123000 +0000" stop="20250113143000 +0000" channel="SkySp F1 HD">
         <title>Miiami F1 GP Qualifying</title>
     </programme>
-    <programme start="20250113143000 +0000" stop="20250113150000 +0000" channel="SkySp F1 HD">
+    <programme start="20250113143000 +0000" stop="20250113150001 +0000" channel="SkySp F1 HD">
         <title>Ted's Quali Notebook</title>
     </programme>
-    <programme start="20250113150000 +0000" stop="20250113162500 +0000" channel="SkySp F1 HD">
-        <title>Grand Prix Sunday</title>
+    <programme start="20250113150001 +0000" stop="20250113171500 +0000" channel="SkySp F1 HD">
+        <title>Miami Stand Alone Race</title>
     </programme>
-    <programme start="20250113162500 +0000" stop="20250113184500 +0000" channel="SkySp F1 HD">
-        <title>Miami F1 Grand Prix</title>
+    <programme start="20250113171500 +0000" stop="20250113173000 +0000" channel="SkySp F1 HD">
+        <title>F1 &amp; The Silver Bullet</title>
     </programme>
-    <programme start="20250113184500 +0000" stop="20250113195500 +0000" channel="SkySp F1 HD">
-        <title>Chequered Flag</title>
+    <programme start="20250113173000 +0000" stop="20250113183000 +0000" channel="SkySp F1 HD">
+        <title>Miami F1 GP Highlights</title>
     </programme>
-    <programme start="20250113195500 +0000" stop="20250113202500 +0000" channel="SkySp F1 HD">
-        <title>Ted's Notebook</title>
+    <programme start="20250113183000 +0000" stop="20250113193000 +0000" channel="SkySp F1 HD">
+        <title>Miami Sprint Quali Highlight</title>
     </programme>
-    <programme start="20250113202500 +0000" stop="20250113203000 +0000" channel="SkySp F1 HD">
-        <title>F1 Explained: The Formation Lap</title>
+    <programme start="20250113193000 +0000" stop="20250113203000 +0000" channel="SkySp F1 HD">
+        <title>Miami Sprint Highlights</title>
     </programme>
     <programme start="20250113203000 +0000" stop="20250113224500 +0000" channel="SkySp F1 HD">
         <title>Miami F1 Grand Prix</title>
@@ -14706,22 +14706,25 @@
     <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113050000 +0000" stop="20250113064500 +0000" channel="Racing TV">
+    <programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113064500 +0000" stop="20250113074500 +0000" channel="Racing TV">
+    <programme start="20250113060000 +0000" stop="20250113070000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113074500 +0000" stop="20250113084500 +0000" channel="Racing TV">
+    <programme start="20250113070000 +0000" stop="20250113080000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113084500 +0000" stop="20250113094500 +0000" channel="Racing TV">
+    <programme start="20250113080000 +0000" stop="20250113090000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113094500 +0000" stop="20250113104500 +0000" channel="Racing TV">
+    <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113104500 +0000" stop="20250113111500 +0000" channel="Racing TV">
+    <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="Racing TV">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250113110000 +0000" stop="20250113111500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250113111500 +0000" stop="20250113121500 +0000" channel="Racing TV">
@@ -24652,16 +24655,16 @@
         <title>Rhodolite Garnet  Craig &amp; Stacey</title>
     </programme>
     <programme start="20250113180000 +0000" stop="20250113190000 +0000" channel="TJC HD">
-        <title>100 New Arrivals  Mark</title>
+        <title>Mark's Meal Challenge Under £10</title>
     </programme>
     <programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="TJC HD">
-        <title>100 New Arrivals  Mark</title>
+        <title>Mark's Meal Challenge Under £10</title>
     </programme>
     <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="TJC HD">
-        <title>100 New Arrivals  Mark</title>
+        <title>Mark's Meal Challenge Under £10</title>
     </programme>
     <programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="TJC HD">
-        <title>100 New Arrivals  Mark</title>
+        <title>Mark's Meal Challenge Under £10</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="TJC HD">
         <title>100 New Arrivals  Steve &amp; Jo</title>
@@ -24715,7 +24718,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250113130000 +0000" stop="20250113140000 +0000" channel="QVC Beauty">
-        <title>QVC Beauty Sale</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113150000 +0000" channel="QVC Beauty">
         <title>Beauty Loves...</title>
@@ -24724,10 +24727,10 @@
         <title>Beauty Edit</title>
     </programme>
     <programme start="20250113160000 +0000" stop="20250113170000 +0000" channel="QVC Beauty">
-        <title>QVC Beauty Sale</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="QVC Beauty">
-        <title>Friday Night Beauty</title>
+        <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250113180000 +0000" stop="20250113190000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24811,7 +24814,7 @@
         <title>Love Gardening</title>
     </programme>
     <programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co</title>
+        <title>Up to 60% off Accessories Sale</title>
     </programme>
     <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="QVC Style HD">
         <title>Up to 50% off MarlaWynne Sale</title>
@@ -24820,10 +24823,10 @@
         <title>Up to 50% off MarlaWynne Sale</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Style HD">
-        <title>Garden Jobs for the Month</title>
+        <title>Ruth Langsford January Deals</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Style HD">
-        <title>Love Gardening</title>
+        <title>Ruth Langsford January Deals</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -25429,7 +25432,7 @@
         <title>De Jager Bulbs &amp; Plants</title>
     </programme>
     <programme start="20250113130000 +0000" stop="20250113140000 +0000" channel="QVC Extra">
-        <title>What To Wear this Winter</title>
+        <title>Practical Ideas</title>
     </programme>
     <programme start="20250113140000 +0000" stop="20250113150000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
@@ -25450,10 +25453,10 @@
         <title>Destination for Deals</title>
     </programme>
     <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="QVC Extra">
-        <title>Jewellery Sale on 4 Easy Pay</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="QVC Extra">
-        <title>Denim &amp; Co</title>
+        <title>Your Winter Garden</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Extra">
         <title>Michael Perry's Garden</title>
@@ -26268,8 +26271,11 @@
     <programme start="20250113220000 +0000" stop="20250113223000 +0000" channel="Utsav Bharat">
         <title>Nazar</title>
     </programme>
-    <programme start="20250113223000 +0000" stop="20250113233000 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - India Fights Back</title>
+    <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Utsav Bharat">
+        <title>Nazar</title>
+    </programme>
+    <programme start="20250113230000 +0000" stop="20250113233000 +0000" channel="Utsav Bharat">
+        <title>Nazar</title>
     </programme>
     <programme start="20250113233000 +0000" stop="20250114003000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - India Fights Back</title>
@@ -35172,22 +35178,25 @@
     <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113050000 +0000" stop="20250113064500 +0000" channel="Racing TV HD">
+    <programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113064500 +0000" stop="20250113074500 +0000" channel="Racing TV HD">
+    <programme start="20250113060000 +0000" stop="20250113070000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113074500 +0000" stop="20250113084500 +0000" channel="Racing TV HD">
+    <programme start="20250113070000 +0000" stop="20250113080000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113084500 +0000" stop="20250113094500 +0000" channel="Racing TV HD">
+    <programme start="20250113080000 +0000" stop="20250113090000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113094500 +0000" stop="20250113104500 +0000" channel="Racing TV HD">
+    <programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250113104500 +0000" stop="20250113111500 +0000" channel="Racing TV HD">
+    <programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="Racing TV HD">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250113110000 +0000" stop="20250113111500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250113111500 +0000" stop="20250113121500 +0000" channel="Racing TV HD">
@@ -37186,7 +37195,7 @@
         <title>Reporting Scotland</title>
     </programme>
     <programme start="20250113224000 +0000" stop="20250113231000 +0000" channel="BBC One ScotHD">
-        <title>Have I Got News for You</title>
+        <title>Have I Got News For You</title>
     </programme>
     <programme start="20250113231000 +0000" stop="20250113234000 +0000" channel="BBC One ScotHD">
         <title>Sportscene: SWPL Highlights</title>
