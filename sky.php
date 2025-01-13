@@ -15115,10 +15115,10 @@
         <title>Home Office Questions</title>
     </programme>
     <programme start="20250114070500 +0000" stop="20250114074500 +0000" channel="BBC Parl HD">
-        <title>House of Commons   Gas Storage Levels Urgent Question</title>
+        <title>House of Commons - Gas Storage Levels Urgent Question</title>
     </programme>
     <programme start="20250114074500 +0000" stop="20250114082500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250114082500 +0000" stop="20250114091000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Justice Questions</title>
@@ -17883,11 +17883,8 @@
     <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="TBN UK">
         <title>Monster Truck Adventures</title>
     </programme>
-    <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="TBN UK">
+    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="TBN UK">
         <title>Hillsong Kids</title>
-    </programme>
-    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="TBN UK">
-        <title>Christine Caine</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="TBN UK">
         <title>Better Together</title>
@@ -37387,7 +37384,7 @@
         <title>Radio 1 News</title>
     </programme>
     <programme start="20250114070000 +0000" stop="20250114103000 +0000" channel="BBC R1">
-        <title>Radio 1 Breakfast with Greg James</title>
+        <title>Radio 1 Breakfast</title>
     </programme>
     <programme start="20250114103000 +0000" stop="20250114103300 +0000" channel="BBC R1">
         <title>Radio 1 News</title>
@@ -37399,7 +37396,7 @@
         <title>Newsbeat @ 12:45</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114153000 +0000" channel="BBC R1">
-        <title>Matt and Jerry</title>
+        <title>Emil Franchi</title>
     </programme>
     <programme start="20250114153000 +0000" stop="20250114153300 +0000" channel="BBC R1">
         <title>Radio 1 News</title>
