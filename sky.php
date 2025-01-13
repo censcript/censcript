@@ -1440,25 +1440,22 @@
     <programme start="20250114235500 +0000" stop="20250115005500 +0000" channel="BBC Three HD">
         <title>The Fast and the Farmer-ish</title>
     </programme>
-    <programme start="20250113221500 +0000" stop="20250113230000 +0000" channel="BBC Four HD">
+    <programme start="20250113222000 +0000" stop="20250113232000 +0000" channel="BBC Four HD">
         <title>Gods of Snooker</title>
     </programme>
-    <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="BBC Four HD">
+    <programme start="20250113232000 +0000" stop="20250114002000 +0000" channel="BBC Four HD">
         <title>Building Britain's Biggest Nuclear Power Station</title>
     </programme>
-    <programme start="20250114000000 +0000" stop="20250114010000 +0000" channel="BBC Four HD">
+    <programme start="20250114002000 +0000" stop="20250114012000 +0000" channel="BBC Four HD">
         <title>Charles I: Killing a King</title>
     </programme>
-    <programme start="20250114010000 +0000" stop="20250114020000 +0000" channel="BBC Four HD">
+    <programme start="20250114012000 +0000" stop="20250114022000 +0000" channel="BBC Four HD">
         <title>Cold War, Hot Jets</title>
     </programme>
-    <programme start="20250114020000 +0000" stop="20250114030000 +0000" channel="BBC Four HD">
-        <title>Gods of Snooker</title>
-    </programme>
-    <programme start="20250114030000 +0000" stop="20250114040000 +0000" channel="BBC Four HD">
+    <programme start="20250114022000 +0000" stop="20250114032000 +0000" channel="BBC Four HD">
         <title>Charles I: Killing a King</title>
     </programme>
-    <programme start="20250114040000 +0000" stop="20250114053000 +0000" channel="BBC Four HD">
+    <programme start="20250114032000 +0000" stop="20250114053000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250114053000 +0000" stop="20250114113000 +0000" channel="BBC Four HD">
@@ -15102,17 +15099,20 @@
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250113223000 +0000" stop="20250113231500 +0000" channel="BBC Parl HD">
-        <title>Justice Questions</title>
+    <programme start="20250113222500 +0000" stop="20250113231000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Justice Questions</title>
     </programme>
-    <programme start="20250113231500 +0000" stop="20250113235500 +0000" channel="BBC Parl HD">
+    <programme start="20250113231000 +0000" stop="20250113235500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250113235500 +0000" stop="20250114060000 +0000" channel="BBC Parl HD">
+    <programme start="20250113235500 +0000" stop="20250114060500 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
     </programme>
-    <programme start="20250114060000 +0000" stop="20250114070500 +0000" channel="BBC Parl HD">
-        <title>Home Office Questions</title>
+    <programme start="20250114060500 +0000" stop="20250114063500 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
+    </programme>
+    <programme start="20250114063500 +0000" stop="20250114070500 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
     </programme>
     <programme start="20250114070500 +0000" stop="20250114074500 +0000" channel="BBC Parl HD">
         <title>House of Commons - Gas Storage Levels Urgent Question</title>
@@ -24472,7 +24472,7 @@
         <title>Lifestyle Day with Craig &amp; Marina</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Beauty">
-        <title>QVC Beauty Sale</title>
+        <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>

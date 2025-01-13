@@ -5313,6 +5313,18 @@
     <programme start="20250123100000 +0000" stop="20250123163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250123163000 +0000" stop="20250123220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250124040000 +0000" stop="20250124100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250124100000 +0000" stop="20250124163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250112000000 +0000" stop="20250112005500 +0000" channel="HISTORY HD.starhub">
         <title>The Top Ten Alien Disasters</title>
     </programme>
@@ -28404,6 +28416,18 @@
     <programme start="20250123100000 +0000" stop="20250123160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250123160300 +0000" stop="20250123220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250124040000 +0000" stop="20250124100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250124100000 +0000" stop="20250124160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250111235000 +0000" stop="20250112001000 +0000" channel="HBO Family HD.starhub">
         <title>I Don&#039;t Like You</title>
     </programme>
@@ -30955,6 +30979,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250123100000 +0000" stop="20250123160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123160000 +0000" stop="20250123220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124040000 +0000" stop="20250124100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250111213000 +0000" stop="20250112010000 +0000" channel="Hub Sports 6.starhub">
