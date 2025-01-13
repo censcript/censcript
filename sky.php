@@ -13995,10 +13995,10 @@
     <programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113100000 +0000" stop="20250113130000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250113100000 +0000" stop="20250113133000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250113133000 +0000" stop="20250113163000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: The Masters</title>
     </programme>
     <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="Eurosport 1 HD">
@@ -14037,8 +14037,11 @@
     <programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113100000 +0000" stop="20250113130000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250113100000 +0000" stop="20250113122000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250113122000 +0000" stop="20250113130000 +0000" channel="Eurosport 2 HD">
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250113130000 +0000" stop="20250113150000 +0000" channel="Eurosport 2 HD">
         <title>Australian Open Tennis</title>
@@ -15057,10 +15060,7 @@
     <programme start="20250113110000 +0000" stop="20250113113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250113113000 +0000" stop="20250113114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250113114500 +0000" stop="20250113120000 +0000" channel="BBC NEWS HD">
+    <programme start="20250113113000 +0000" stop="20250113120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250113120000 +0000" stop="20250113123000 +0000" channel="BBC NEWS HD">
@@ -34812,10 +34812,10 @@
     <programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113100000 +0000" stop="20250113130000 +0000" channel="Eurosport 1">
+    <programme start="20250113100000 +0000" stop="20250113133000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113130000 +0000" stop="20250113163000 +0000" channel="Eurosport 1">
+    <programme start="20250113133000 +0000" stop="20250113163000 +0000" channel="Eurosport 1">
         <title>Live Snooker: The Masters</title>
     </programme>
     <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="Eurosport 1">
@@ -34854,8 +34854,11 @@
     <programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250113100000 +0000" stop="20250113130000 +0000" channel="Eurosport 2">
+    <programme start="20250113100000 +0000" stop="20250113122000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250113122000 +0000" stop="20250113130000 +0000" channel="Eurosport 2">
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250113130000 +0000" stop="20250113150000 +0000" channel="Eurosport 2">
         <title>Australian Open Tennis</title>
