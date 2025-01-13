@@ -24763,7 +24763,7 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Beauty">
-        <title>QVC Beauty Sale</title>
+        <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>
@@ -39198,10 +39198,10 @@
     <programme start="20250113130000 +0000" stop="20250113192500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250113192500 +0000" stop="20250113213000 +0000" channel="BBC R5SX">
+    <programme start="20250113192500 +0000" stop="20250113223000 +0000" channel="BBC R5SX">
         <title>Football</title>
     </programme>
-    <programme start="20250113213000 +0000" stop="20250113224500 +0000" channel="BBC R5SX">
+    <programme start="20250113223000 +0000" stop="20250113224500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250113224500 +0000" stop="20250113234500 +0000" channel="BBC R5SX">
