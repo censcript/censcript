@@ -24586,7 +24586,7 @@
         <title>Mally Beauty</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="QVC HD">
-        <title>Diamonique Jewellery</title>
+        <title>Diamonique Jewellery on 4EZ</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="MstHveIdeasHD">
         <title>Lose The Mess With Jess</title>
@@ -30928,7 +30928,7 @@
         <title>One Q&amp;A</title>
     </programme>
     <programme start="20250115023000 +0000" stop="20250115033000 +0000" channel="TV One">
-        <title>Agamir Bangladesh</title>
+        <title>Dawah Conference</title>
     </programme>
     <programme start="20250115033000 +0000" stop="20250115043000 +0000" channel="TV One">
         <title>360 Degree</title>
