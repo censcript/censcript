@@ -14559,19 +14559,19 @@
     <programme start="20250115000000 +0000" stop="20250115040000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250115040000 +0000" stop="20250115080000 +0000" channel="SPOTV.starhub">
+    <programme start="20250115040000 +0000" stop="20250115080500 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250115080000 +0000" stop="20250115113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250115080500 +0000" stop="20250115112500 +0000" channel="SPOTV.starhub">
         <title>Second Round</title>
     </programme>
-    <programme start="20250115113000 +0000" stop="20250115133000 +0000" channel="SPOTV.starhub">
+    <programme start="20250115112500 +0000" stop="20250115132500 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 14 Al Nassr vs Al Okhdood</title>
     </programme>
-    <programme start="20250115133000 +0000" stop="20250115143000 +0000" channel="SPOTV.starhub">
+    <programme start="20250115132500 +0000" stop="20250115142500 +0000" channel="SPOTV.starhub">
         <title>Match Week 14</title>
     </programme>
-    <programme start="20250115143000 +0000" stop="20250115163000 +0000" channel="SPOTV.starhub">
+    <programme start="20250115142500 +0000" stop="20250115163000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
     </programme>
     <programme start="20250115163000 +0000" stop="20250115173000 +0000" channel="SPOTV.starhub">
@@ -14586,11 +14586,11 @@
     <programme start="20250115230000 +0000" stop="20250116010000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 14 Al Orobah vs Al Hilal</title>
     </programme>
-    <programme start="20250116010000 +0000" stop="20250116030000 +0000" channel="SPOTV.starhub">
+    <programme start="20250116010000 +0000" stop="20250116033000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Austin vs Atlanta</title>
     </programme>
-    <programme start="20250116030000 +0000" stop="20250116040000 +0000" channel="SPOTV.starhub">
-        <title>Match Week 14</title>
+    <programme start="20250116033000 +0000" stop="20250116040000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Marc Marquez Special Victory</title>
     </programme>
     <programme start="20250116040000 +0000" stop="20250116071500 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
@@ -14634,11 +14634,11 @@
     <programme start="20250117093000 +0000" stop="20250117113000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Austin vs Atlanta</title>
     </programme>
-    <programme start="20250117113000 +0000" stop="20250117160000 +0000" channel="SPOTV.starhub">
-        <title>SPOTV Showdown</title>
-    </programme>
-    <programme start="20250117160000 +0000" stop="20250117164500 +0000" channel="SPOTV.starhub">
+    <programme start="20250117113000 +0000" stop="20250117120000 +0000" channel="SPOTV.starhub">
         <title>Highlight 2</title>
+    </programme>
+    <programme start="20250117120000 +0000" stop="20250117164500 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Showdown</title>
     </programme>
     <programme start="20250117164500 +0000" stop="20250117190000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 15 Al Taawoun vs Al Nassr</title>
@@ -14652,11 +14652,8 @@
     <programme start="20250118013000 +0000" stop="20250118020000 +0000" channel="SPOTV.starhub">
         <title>MotoGP 2024 Spotlight: Jorge Martin World Champion</title>
     </programme>
-    <programme start="20250118020000 +0000" stop="20250118040000 +0000" channel="SPOTV.starhub">
+    <programme start="20250118020000 +0000" stop="20250118043000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Madison vs Salt Lake</title>
-    </programme>
-    <programme start="20250118040000 +0000" stop="20250118043000 +0000" channel="SPOTV.starhub">
-        <title>MotoGP 2024 Spotlight: Marc Marquez Special Victory</title>
     </programme>
     <programme start="20250118043000 +0000" stop="20250118063000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 15 Al Taawoun vs Al Nassr</title>
@@ -14670,8 +14667,11 @@
     <programme start="20250118143000 +0000" stop="20250118163000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Madison vs Salt Lake</title>
     </programme>
-    <programme start="20250118163000 +0000" stop="20250118180000 +0000" channel="SPOTV.starhub">
-        <title>SPOTV ENCORE: 2023 US Open Men Singles Finals Highlights</title>
+    <programme start="20250118163000 +0000" stop="20250118170000 +0000" channel="SPOTV.starhub">
+        <title>Highlight 2</title>
+    </programme>
+    <programme start="20250118170000 +0000" stop="20250118180000 +0000" channel="SPOTV.starhub">
+        <title>Match Week 14</title>
     </programme>
     <programme start="20250118180000 +0000" stop="20250118190000 +0000" channel="SPOTV.starhub">
         <title>Highlight 1</title>
@@ -14682,29 +14682,29 @@
     <programme start="20250118230000 +0000" stop="20250119000000 +0000" channel="SPOTV.starhub">
         <title>Match Week 14</title>
     </programme>
-    <programme start="20250119000000 +0000" stop="20250119020000 +0000" channel="SPOTV.starhub">
+    <programme start="20250119000000 +0000" stop="20250119023000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Salt Lake vs Houston</title>
     </programme>
-    <programme start="20250119020000 +0000" stop="20250119030000 +0000" channel="SPOTV.starhub">
-        <title>Highlight 1</title>
+    <programme start="20250119023000 +0000" stop="20250119030000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Brad Binder</title>
     </programme>
-    <programme start="20250119030000 +0000" stop="20250119050000 +0000" channel="SPOTV.starhub">
+    <programme start="20250119030000 +0000" stop="20250119053000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Madison vs Omaha</title>
     </programme>
-    <programme start="20250119050000 +0000" stop="20250119053000 +0000" channel="SPOTV.starhub">
-        <title>Highlight 2</title>
-    </programme>
-    <programme start="20250119053000 +0000" stop="20250119073000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 2: Madison vs Salt Lake</title>
-    </programme>
-    <programme start="20250119073000 +0000" stop="20250119113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250119053000 +0000" stop="20250119093000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250119113000 +0000" stop="20250119160000 +0000" channel="SPOTV.starhub">
+    <programme start="20250119093000 +0000" stop="20250119140000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250119160000 +0000" stop="20250119180000 +0000" channel="SPOTV.starhub">
+    <programme start="20250119140000 +0000" stop="20250119160000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 2: Salt Lake vs Houston</title>
+    </programme>
+    <programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="SPOTV.starhub">
+        <title>Highlight 2</title>
+    </programme>
+    <programme start="20250119163000 +0000" stop="20250119170000 +0000" channel="SPOTV.starhub">
+        <title>SPOTV Legends (King Federer: A True Wimbledon Champion)</title>
     </programme>
     <programme start="20250112234000 +0000" stop="20250113003000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
@@ -16384,7 +16384,7 @@
         <title>Pre Show</title>
     </programme>
     <programme start="20250115013000 +0000" stop="20250115022000 +0000" channel="Discovery HD.starhub">
-        <title>Exploring The Unknown With Wang Yibo (S1)</title>
+        <title>Into Darkness</title>
     </programme>
     <programme start="20250115022000 +0000" stop="20250115031000 +0000" channel="Discovery HD.starhub">
         <title>Against The Law</title>
@@ -25441,70 +25441,70 @@
         <title>Bloomberg Open Interest</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: European Close</title>
+        <title>Bloomberg Technology</title>
     </programme>
-    <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg: Balance of Power</title>
-    </programme>
-    <programme start="20250117180000 +0000" stop="20250117183000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20250117170000 +0000" stop="20250117173000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Real Yield</title>
     </programme>
-    <programme start="20250117183000 +0000" stop="20250117190000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20250117173000 +0000" stop="20250117180000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Markets</title>
     </programme>
-    <programme start="20250117190000 +0000" stop="20250117213000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: The Close</title>
+    <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg: Balance of Power</title>
     </programme>
-    <programme start="20250117213000 +0000" stop="20250117220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: What&#039;d You Miss?</title>
+    <programme start="20250117190000 +0000" stop="20250117200000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg BusinessWeek</title>
+    </programme>
+    <programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg The Close</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Technology</title>
+        <title>Bloomberg: Balance of Power</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
-    <programme start="20250118000000 +0000" stop="20250118003000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
-    </programme>
-    <programme start="20250118003000 +0000" stop="20250118010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+    <programme start="20250118000000 +0000" stop="20250118010000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Green Festival</title>
     </programme>
     <programme start="20250118010000 +0000" stop="20250118013000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg New Economy: New Reality, New Rules</title>
     </programme>
     <programme start="20250118013000 +0000" stop="20250118020000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Inside Adani: A Bloomberg Exclusive</title>
     </programme>
     <programme start="20250118020000 +0000" stop="20250118023000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Cal Ripken Jr. Hall of Fame Baseball Player and MLB Owner</title>
     </programme>
     <programme start="20250118023000 +0000" stop="20250118030000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20250118030000 +0000" stop="20250118040000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20250118040000 +0000" stop="20250118043000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Scambaiters</title>
     </programme>
     <programme start="20250118043000 +0000" stop="20250118050000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Novo Nordisk CEO Lars Fruergaard Jorgensen</title>
     </programme>
-    <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
-    </programme>
-    <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+    <programme start="20250118050000 +0000" stop="20250118060000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Green Festival</title>
     </programme>
     <programme start="20250118060000 +0000" stop="20250118063000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>AMD CEO Lisa Su</title>
     </programme>
     <programme start="20250118063000 +0000" stop="20250118070000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Athlete | Empire: Alex Rodriguez</title>
+        <title>How Stephen Curry Is Building an Empire Beyond Basketball</title>
     </programme>
     <programme start="20250118070000 +0000" stop="20250118073000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Novo Nordisk CEO Lars Fruergaard Jorgensen</title>
+    </programme>
+    <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>The Earthshot Prize Innovation Summit 2024</title>
+    </programme>
+    <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20250112230000 +0000" stop="20250113010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
@@ -32173,6 +32173,78 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Hub Premier 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Premier 5.starhub">

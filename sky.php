@@ -117,8 +117,11 @@
     <programme start="20250114121500 +0000" stop="20250114130000 +0000" channel="BBC Two HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250114130000 +0000" stop="20250114161500 +0000" channel="BBC Two HD">
+    <programme start="20250114130000 +0000" stop="20250114154500 +0000" channel="BBC Two HD">
         <title>Masters Snooker</title>
+    </programme>
+    <programme start="20250114154500 +0000" stop="20250114161500 +0000" channel="BBC Two HD">
+        <title>The Wonder of Animals</title>
     </programme>
     <programme start="20250114161500 +0000" stop="20250114171500 +0000" channel="BBC Two HD">
         <title>World's Weirdest Events</title>
@@ -24283,13 +24286,13 @@
         <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250114120000 +0000" stop="20250114130000 +0000" channel="QVC HD">
-        <title>MarlaWynne Fashion Sale</title>
+        <title>Up to 50% off MarlaWynne Sale</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114140000 +0000" channel="QVC HD">
         <title>The Lunchtime Show</title>
     </programme>
     <programme start="20250114140000 +0000" stop="20250114150000 +0000" channel="QVC HD">
-        <title>Monsoon Sale</title>
+        <title>Up to 50% off Monsoon Sale</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114160000 +0000" channel="QVC HD">
         <title>Up to 50% off Moda in Pelle Sale</title>
@@ -24298,7 +24301,7 @@
         <title>Health &amp; Wellbeing</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114180000 +0000" channel="QVC HD">
-        <title>Kim &amp; Co</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114190000 +0000" channel="QVC HD">
         <title>Cozee Home</title>
@@ -24547,10 +24550,10 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="QVC Beauty">
-        <title>Supplement Your Health</title>
+        <title>Supplement your Health</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford January Deals</title>
@@ -24595,7 +24598,7 @@
         <title>Up to 60% off Accessories Sale</title>
     </programme>
     <programme start="20250114120000 +0000" stop="20250114130000 +0000" channel="QVC Style HD">
-        <title>Seasalt Cornwall Fashion</title>
+        <title>Seasalt Cornwall Fashion Sale</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114140000 +0000" channel="QVC Style HD">
         <title>Vionic Footwear Deals</title>
@@ -24610,7 +24613,7 @@
         <title>Skechers Trainers on 4 Easy Pay</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114180000 +0000" channel="QVC Style HD">
-        <title>YouGarden</title>
+        <title>Love Gardening</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114190000 +0000" channel="QVC Style HD">
         <title>Love Gardening</title>
@@ -30489,10 +30492,16 @@
     <programme start="20250114060000 +0000" stop="20250114061800 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250114061800 +0000" stop="20250114062300 +0000" channel="NTV">
+    <programme start="20250114061800 +0000" stop="20250114062000 +0000" channel="NTV">
         <title>Adhan-a-Fajr</title>
     </programme>
-    <programme start="20250114062300 +0000" stop="20250114063000 +0000" channel="NTV">
+    <programme start="20250114062000 +0000" stop="20250114062300 +0000" channel="NTV">
+        <title>Adhan-a-Fajr</title>
+    </programme>
+    <programme start="20250114062300 +0000" stop="20250114062500 +0000" channel="NTV">
+        <title>Apnar Jiggasha</title>
+    </programme>
+    <programme start="20250114062500 +0000" stop="20250114063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250114063000 +0000" stop="20250114070000 +0000" channel="NTV">
@@ -30514,19 +30523,28 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250114093000 +0000" stop="20250114110000 +0000" channel="NTV">
-        <title>Aparajita</title>
+        <title>Haat Safai</title>
     </programme>
-    <programme start="20250114110000 +0000" stop="20250114120200 +0000" channel="NTV">
-        <title>Bachaw Desh</title>
+    <programme start="20250114110000 +0000" stop="20250114120000 +0000" channel="NTV">
+        <title>Bhalobasha Simahin</title>
+    </programme>
+    <programme start="20250114120000 +0000" stop="20250114120200 +0000" channel="NTV">
+        <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250114120200 +0000" stop="20250114120700 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250114120700 +0000" stop="20250114123000 +0000" channel="NTV">
+    <programme start="20250114120700 +0000" stop="20250114121500 +0000" channel="NTV">
+        <title>NTV NEWS-Dupurer Khobor</title>
+    </programme>
+    <programme start="20250114121500 +0000" stop="20250114122000 +0000" channel="NTV">
+        <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250114122000 +0000" stop="20250114123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250114123000 +0000" stop="20250114140000 +0000" channel="NTV">
-        <title>Bachaw Desh</title>
+        <title>Bhalobasha Simahin</title>
     </programme>
     <programme start="20250114140000 +0000" stop="20250114140700 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -30537,17 +30555,23 @@
     <programme start="20250114141200 +0000" stop="20250114143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250114143000 +0000" stop="20250114150000 +0000" channel="NTV">
+    <programme start="20250114143000 +0000" stop="20250114143300 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
+    <programme start="20250114143300 +0000" stop="20250114150000 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
     <programme start="20250114150000 +0000" stop="20250114155500 +0000" channel="NTV">
-        <title>Chinno</title>
+        <title>Dui Jonakir Golpo</title>
     </programme>
     <programme start="20250114155500 +0000" stop="20250114160000 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="NTV">
+    <programme start="20250114160000 +0000" stop="20250114162800 +0000" channel="NTV">
         <title>Chinno</title>
+    </programme>
+    <programme start="20250114162800 +0000" stop="20250114163000 +0000" channel="NTV">
+        <title>Dui Jonakir Golpo</title>
     </programme>
     <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
@@ -30556,7 +30580,7 @@
         <title>Ganer Bazar</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114173200 +0000" channel="NTV">
-        <title>Prio Jato Gaan</title>
+        <title>Glamour World</title>
     </programme>
     <programme start="20250114173200 +0000" stop="20250114173700 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
@@ -30565,7 +30589,7 @@
         <title>Prio Jato Gaan</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114190000 +0000" channel="NTV">
-        <title>Prio Jato Gaan</title>
+        <title>Adhan-e-Isha</title>
     </programme>
     <programme start="20250114190000 +0000" stop="20250114191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -30574,7 +30598,7 @@
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114210000 +0000" channel="NTV">
-        <title>Tomar Amar Rong</title>
+        <title>Your Finance With Muhim Tanjib</title>
     </programme>
     <programme start="20250114210000 +0000" stop="20250114213000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
@@ -30586,7 +30610,7 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250114223000 +0000" stop="20250114230000 +0000" channel="NTV">
-        <title>Bhalobashar Oligoli</title>
+        <title>Faul</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="NTV">
         <title>Aey Shomoy</title>
@@ -37158,8 +37182,11 @@
     <programme start="20250114121500 +0000" stop="20250114130000 +0000" channel="BBC Two Wal HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250114130000 +0000" stop="20250114161500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250114130000 +0000" stop="20250114154500 +0000" channel="BBC Two Wal HD">
         <title>Masters Snooker</title>
+    </programme>
+    <programme start="20250114154500 +0000" stop="20250114161500 +0000" channel="BBC Two Wal HD">
+        <title>The Wonder of Animals</title>
     </programme>
     <programme start="20250114161500 +0000" stop="20250114171500 +0000" channel="BBC Two Wal HD">
         <title>World's Weirdest Events</title>
@@ -37236,8 +37263,11 @@
     <programme start="20250114121500 +0000" stop="20250114130000 +0000" channel="BBC Two NI HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250114130000 +0000" stop="20250114161500 +0000" channel="BBC Two NI HD">
+    <programme start="20250114130000 +0000" stop="20250114154500 +0000" channel="BBC Two NI HD">
         <title>Masters Snooker</title>
+    </programme>
+    <programme start="20250114154500 +0000" stop="20250114161500 +0000" channel="BBC Two NI HD">
+        <title>The Wonder of Animals</title>
     </programme>
     <programme start="20250114161500 +0000" stop="20250114171500 +0000" channel="BBC Two NI HD">
         <title>World's Weirdest Events</title>
