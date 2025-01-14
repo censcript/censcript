@@ -12784,7 +12784,7 @@
         <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114110000 +0000" channel="That's Fabulous">
-        <title>Real Music Rewind</title>
+        <title>Best Music of All Time</title>
     </programme>
     <programme start="20250114110000 +0000" stop="20250114130000 +0000" channel="That's Fabulous">
         <title>Classic Hit Music</title>
@@ -12805,7 +12805,7 @@
         <title>All Time Classics</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="That's Fabulous">
-        <title>Timeless Tunes</title>
+        <title>The Best Classic Hits</title>
     </programme>
     <programme start="20250113210000 +0000" stop="20250113230000 +0000" channel="That's Dance">
         <title>Ultimate Floorfillers</title>
@@ -13990,7 +13990,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="Eurosport 2 HD">
-        <title>Australian Open Tennis</title>
+        <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
@@ -14002,10 +14002,10 @@
         <title>SailGP</title>
     </programme>
     <programme start="20250114133000 +0000" stop="20250114150000 +0000" channel="Eurosport 2 HD">
-        <title>Biathlon Winter World...</title>
+        <title>Biathlon: Winter World University Games Turin</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114163000 +0000" channel="Eurosport 2 HD">
-        <title>Biathlon Winter World...</title>
+        <title>Biathlon: Winter World University Games Turin</title>
     </programme>
     <programme start="20250114163000 +0000" stop="20250114181500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
@@ -24529,7 +24529,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="QVC Beauty">
-        <title>Liz Earle Naturally Active</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114210000 +0000" channel="QVC Beauty">
         <title>Beauty Loves...</title>
@@ -24541,7 +24541,7 @@
         <title>Supplement Your Health</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="QVC Beauty">
-        <title>Elemis Skin Therapies</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford January Deals</title>
@@ -24586,7 +24586,7 @@
         <title>Up to 60% off Accessories Sale</title>
     </programme>
     <programme start="20250114120000 +0000" stop="20250114130000 +0000" channel="QVC Style HD">
-        <title>Finery London</title>
+        <title>Seasalt Cornwall Fashion</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114140000 +0000" channel="QVC Style HD">
         <title>Vionic Footwear Deals</title>
@@ -24607,7 +24607,7 @@
         <title>Love Gardening</title>
     </programme>
     <programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Izabel London Fashion Sale</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114210000 +0000" channel="QVC Style HD">
         <title>Denim &amp; Co</title>
@@ -24670,7 +24670,7 @@
         <title>Chinese New Year at Gemporia</title>
     </programme>
     <programme start="20250114140000 +0000" stop="20250114150000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Ellendale Yellow Diamonds</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114160000 +0000" channel="Gems TV">
         <title>Beauty Tuesday with Kati Elliott</title>
@@ -25225,7 +25225,7 @@
         <title>What To Wear this Winter</title>
     </programme>
     <programme start="20250114140000 +0000" stop="20250114150000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>Practical Ideas</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114160000 +0000" channel="QVC Extra">
         <title>Kelly Hoppen Home New Collection</title>
@@ -25249,7 +25249,7 @@
         <title>Kelly Hoppen Home New Collection</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="QVC Extra">
-        <title>Your Winter Garden</title>
+        <title>Vionic Footwear Deals</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="QVC Extra">
         <title>Seasalt Cornwall Fashion Sale</title>
@@ -29076,10 +29076,10 @@
     <programme start="20250114162300 +0000" stop="20250114162700 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250114162700 +0000" stop="20250114163100 +0000" channel="Eman Channel">
+    <programme start="20250114162700 +0000" stop="20250114163000 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
-    <programme start="20250114163100 +0000" stop="20250114173000 +0000" channel="Eman Channel">
+    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114174500 +0000" channel="Eman Channel">
@@ -34630,7 +34630,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="Eurosport 2">
-        <title>Australian Open Tennis</title>
+        <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
@@ -34642,10 +34642,10 @@
         <title>SailGP</title>
     </programme>
     <programme start="20250114133000 +0000" stop="20250114150000 +0000" channel="Eurosport 2">
-        <title>Biathlon Winter World...</title>
+        <title>Biathlon: Winter World University Games Turin</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114163000 +0000" channel="Eurosport 2">
-        <title>Biathlon Winter World...</title>
+        <title>Biathlon: Winter World University Games Turin</title>
     </programme>
     <programme start="20250114163000 +0000" stop="20250114181500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>

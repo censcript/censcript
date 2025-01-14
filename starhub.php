@@ -6378,6 +6378,9 @@
     <programme start="20250116160000 +0000" stop="20250116170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Road to the Playoffs</title>
     </programme>
+    <programme start="20250116170000 +0000" stop="20250116200000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+    </programme>
     <programme start="20250116200000 +0000" stop="20250116203000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Fight Flashback 2024/25 Gaethje vs Holloway</title>
     </programme>
@@ -6420,20 +6423,20 @@
     <programme start="20250117193000 +0000" stop="20250117213000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Western Sydney Wanderers FC vs Central Coast Mar</title>
     </programme>
-    <programme start="20250117213000 +0000" stop="20250118010000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+    <programme start="20250117213000 +0000" stop="20250117233000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
     </programme>
-    <programme start="20250118010000 +0000" stop="20250118011500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Week 19</title>
+    <programme start="20250117233000 +0000" stop="20250118000000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#519</title>
     </programme>
-    <programme start="20250118011500 +0000" stop="20250118043000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+    <programme start="20250118000000 +0000" stop="20250118030000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>UFC Fight Night 2025 EFN 177: Dern vs Ribas 2</title>
     </programme>
-    <programme start="20250118043000 +0000" stop="20250118053000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250118030000 +0000" stop="20250118035500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 311</title>
     </programme>
-    <programme start="20250118053000 +0000" stop="20250118055500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Isuzu UTE A-League 2024/25 Highlights Show</title>
+    <programme start="20250118035500 +0000" stop="20250118055500 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Isuzu UTE A-League 2024/25 R15: Auckland FC vs Melbourne City FC (Live)</title>
     </programme>
     <programme start="20250118055500 +0000" stop="20250118080000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Sydney FC vs Brisbane Roar FC (Live)</title>
@@ -6457,7 +6460,7 @@
         <title>Week 19</title>
     </programme>
     <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 AFC Wild Card: Los Angeles Chargers vs Houston Texans</title>
     </programme>
     <programme start="20250118173000 +0000" stop="20250118193000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Singapore Premier League 2024/25 Young Lions vs Tanjong Pagar United FC</title>
@@ -6465,14 +6468,8 @@
     <programme start="20250118193000 +0000" stop="20250118213000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Auckland FC vs Melbourne City FC</title>
     </programme>
-    <programme start="20250118213000 +0000" stop="20250118233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
-    </programme>
-    <programme start="20250118233000 +0000" stop="20250119000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#519</title>
-    </programme>
-    <programme start="20250119000000 +0000" stop="20250119010000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC 311</title>
+    <programme start="20250118213000 +0000" stop="20250119010000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 AFC Division Round: Houston Texans vs Kansas City Chiefs (Live)</title>
     </programme>
     <programme start="20250119010000 +0000" stop="20250119030000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 311: Late Prelims</title>
@@ -6502,25 +6499,28 @@
         <title>Isuzu UTE A-League 2024/25 R15: Adelaide United vs Melbourne Victory</title>
     </programme>
     <programme start="20250119200000 +0000" stop="20250119233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 NFC Division Round: Minnesota/Los Angeles Rams vs Philadelphia Eagle</title>
     </programme>
     <programme start="20250119233000 +0000" stop="20250120023000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 AFC Division Round: Baltimore Ravens vs Buffalo Bills (Live)</title>
     </programme>
     <programme start="20250120023000 +0000" stop="20250120030000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 19</title>
     </programme>
-    <programme start="20250120030000 +0000" stop="20250120060000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25 AFC Wild Card: Los Angeles Chargers vs Houston Texans</title>
-    </programme>
-    <programme start="20250120060000 +0000" stop="20250120075500 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250120030000 +0000" stop="20250120050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Singapore Premier League 2024/25 Hougang United FC vs Balestier Khalsa FC</title>
+    </programme>
+    <programme start="20250120050000 +0000" stop="20250120075500 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>NFL 2024/25 NFC Division Round: Minnesota/Los Angeles Rams vs Philadelphia Eagle</title>
     </programme>
     <programme start="20250120075500 +0000" stop="20250120100000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Macarthur FC vs Wellington Phoenix (Live)</title>
     </programme>
     <programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 19</title>
+    </programme>
+    <programme start="20250120103000 +0000" stop="20250120110000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>711</title>
     </programme>
     <programme start="20250112231500 +0000" stop="20250113003700 +0000" channel="NHK World Premium HD.starhub">
         <title>The Visualization Entertainment: Go! Kaneo-kun New Year&#039;s Special Edition (R)</title>
@@ -22296,11 +22296,14 @@
     <programme start="20250115000000 +0000" stop="20250115013000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) QF 1</title>
     </programme>
-    <programme start="20250115013000 +0000" stop="20250115030000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250115013000 +0000" stop="20250115023000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) QF 2</title>
     </programme>
-    <programme start="20250115030000 +0000" stop="20250115033000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250115023000 +0000" stop="20250115030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
+    </programme>
+    <programme start="20250115030000 +0000" stop="20250115033000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 9</title>
     </programme>
     <programme start="20250115033000 +0000" stop="20250115083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): Rd 32 Session 1(Court 1)</title>
@@ -22308,8 +22311,11 @@
     <programme start="20250115083000 +0000" stop="20250115133000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): Rd 32 Session 2 (Court 1)</title>
     </programme>
-    <programme start="20250115133000 +0000" stop="20250115140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Nedbank Golf Challenge</title>
+    <programme start="20250115133000 +0000" stop="20250115134500 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 94</title>
+    </programme>
+    <programme start="20250115134500 +0000" stop="20250115140000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 95</title>
     </programme>
     <programme start="20250115140000 +0000" stop="20250115190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): Rd 32 Session 1(Court 1)</title>
@@ -22329,8 +22335,11 @@
     <programme start="20250116013000 +0000" stop="20250116030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) QF 4</title>
     </programme>
-    <programme start="20250116030000 +0000" stop="20250116033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 9</title>
+    <programme start="20250116030000 +0000" stop="20250116031500 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 94</title>
+    </programme>
+    <programme start="20250116031500 +0000" stop="20250116033000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 95</title>
     </programme>
     <programme start="20250116033000 +0000" stop="20250116083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): Rd 16 Session 1 (Court 1)</title>
@@ -22386,17 +22395,23 @@
     <programme start="20250117233000 +0000" stop="20250118000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 8</title>
     </programme>
-    <programme start="20250118000000 +0000" stop="20250118003000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cardiff Half Marathon</title>
+    <programme start="20250118000000 +0000" stop="20250118001500 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 94</title>
     </programme>
-    <programme start="20250118003000 +0000" stop="20250118035500 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250118001500 +0000" stop="20250118003000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Show 95</title>
+    </programme>
+    <programme start="20250118003000 +0000" stop="20250118050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 2</title>
     </programme>
-    <programme start="20250118035500 +0000" stop="20250118060000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>R15: Auckland FC vs Melbourne City FC</title>
+    <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Half MDS - Fuerteventura</title>
+    </programme>
+    <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Alfred Dunhill Championship</title>
     </programme>
     <programme start="20250118060000 +0000" stop="20250118063000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Half MDS - Fuerteventura</title>
+        <title>Episode 1</title>
     </programme>
     <programme start="20250118063000 +0000" stop="20250118113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): SF Session 1 (Court 1)</title>
@@ -22473,26 +22488,14 @@
     <programme start="20250119213000 +0000" stop="20250119233000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rd 1 - 9 (Judd Trump v Hossein Vafaei)</title>
     </programme>
-    <programme start="20250119233000 +0000" stop="20250120033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Last 16 Evening Session</title>
+    <programme start="20250119233000 +0000" stop="20250120030000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 1</title>
     </programme>
-    <programme start="20250120033000 +0000" stop="20250120040000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 1</title>
+    <programme start="20250120030000 +0000" stop="20250120070000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>YONEX SUNRISE India Open (Super 750): QF Session 1 (Court 2)</title>
     </programme>
-    <programme start="20250120040000 +0000" stop="20250120070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>PETRONAS Malaysia Open (Super 1000): QF Session 1 (Court 1)</title>
-    </programme>
-    <programme start="20250120070000 +0000" stop="20250120100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>PETRONAS Malaysia Open (Super 1000): QF Session 1 (Court 2)</title>
-    </programme>
-    <programme start="20250120100000 +0000" stop="20250120101500 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 94</title>
-    </programme>
-    <programme start="20250120101500 +0000" stop="20250120103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 95</title>
-    </programme>
-    <programme start="20250120103000 +0000" stop="20250120110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 10</title>
+    <programme start="20250120070000 +0000" stop="20250120110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>YONEX SUNRISE India Open (Super 750): QF Session 2 (Court 2)</title>
     </programme>
     <programme start="20250120110000 +0000" stop="20250120160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX SUNRISE India Open (Super 750): Finals</title>
@@ -22502,9 +22505,6 @@
     </programme>
     <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mandiri Indonesian Open</title>
-    </programme>
-    <programme start="20250120180000 +0000" stop="20250120190000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASB Classic (250) Finals</title>
     </programme>
     <programme start="20250113000000 +0000" stop="20250113003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
@@ -24645,10 +24645,10 @@
     <programme start="20250114220000 +0000" stop="20250115014000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250115001500 +0000" stop="20250115041500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250115014000 +0000" stop="20250115045000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M25 - Brisbane Heat vs Sydney Thunder</title>
     </programme>
-    <programme start="20250115041500 +0000" stop="20250115081500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250115045000 +0000" stop="20250115081500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
     <programme start="20250115081500 +0000" stop="20250115123000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -29403,6 +29403,9 @@
     <programme start="20250116160000 +0000" stop="20250116170000 +0000" channel="TestChannel 995.starhub">
         <title>Road to the Playoffs</title>
     </programme>
+    <programme start="20250116170000 +0000" stop="20250116200000 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+    </programme>
     <programme start="20250116200000 +0000" stop="20250116203000 +0000" channel="TestChannel 995.starhub">
         <title>UFC Fight Flashback 2024/25 Gaethje vs Holloway</title>
     </programme>
@@ -29445,20 +29448,20 @@
     <programme start="20250117193000 +0000" stop="20250117213000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Western Sydney Wanderers FC vs Central Coast Mar</title>
     </programme>
-    <programme start="20250117213000 +0000" stop="20250118010000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+    <programme start="20250117213000 +0000" stop="20250117233000 +0000" channel="TestChannel 995.starhub">
+        <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
     </programme>
-    <programme start="20250118010000 +0000" stop="20250118011500 +0000" channel="TestChannel 995.starhub">
-        <title>Week 19</title>
+    <programme start="20250117233000 +0000" stop="20250118000000 +0000" channel="TestChannel 995.starhub">
+        <title>#519</title>
     </programme>
-    <programme start="20250118011500 +0000" stop="20250118043000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+    <programme start="20250118000000 +0000" stop="20250118030000 +0000" channel="TestChannel 995.starhub">
+        <title>UFC Fight Night 2025 EFN 177: Dern vs Ribas 2</title>
     </programme>
-    <programme start="20250118043000 +0000" stop="20250118053000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250118030000 +0000" stop="20250118035500 +0000" channel="TestChannel 995.starhub">
         <title>UFC 311</title>
     </programme>
-    <programme start="20250118053000 +0000" stop="20250118055500 +0000" channel="TestChannel 995.starhub">
-        <title>Isuzu UTE A-League 2024/25 Highlights Show</title>
+    <programme start="20250118035500 +0000" stop="20250118055500 +0000" channel="TestChannel 995.starhub">
+        <title>Isuzu UTE A-League 2024/25 R15: Auckland FC vs Melbourne City FC (Live)</title>
     </programme>
     <programme start="20250118055500 +0000" stop="20250118080000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Sydney FC vs Brisbane Roar FC (Live)</title>
@@ -29482,7 +29485,7 @@
         <title>Week 19</title>
     </programme>
     <programme start="20250118143000 +0000" stop="20250118173000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 AFC Wild Card: Los Angeles Chargers vs Houston Texans</title>
     </programme>
     <programme start="20250118173000 +0000" stop="20250118193000 +0000" channel="TestChannel 995.starhub">
         <title>Singapore Premier League 2024/25 Young Lions vs Tanjong Pagar United FC</title>
@@ -29490,14 +29493,8 @@
     <programme start="20250118193000 +0000" stop="20250118213000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Auckland FC vs Melbourne City FC</title>
     </programme>
-    <programme start="20250118213000 +0000" stop="20250118233000 +0000" channel="TestChannel 995.starhub">
-        <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
-    </programme>
-    <programme start="20250118233000 +0000" stop="20250119000000 +0000" channel="TestChannel 995.starhub">
-        <title>#519</title>
-    </programme>
-    <programme start="20250119000000 +0000" stop="20250119010000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC 311</title>
+    <programme start="20250118213000 +0000" stop="20250119010000 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25 AFC Division Round: Houston Texans vs Kansas City Chiefs (Live)</title>
     </programme>
     <programme start="20250119010000 +0000" stop="20250119030000 +0000" channel="TestChannel 995.starhub">
         <title>UFC 311: Late Prelims</title>
@@ -29527,25 +29524,28 @@
         <title>Isuzu UTE A-League 2024/25 R15: Adelaide United vs Melbourne Victory</title>
     </programme>
     <programme start="20250119200000 +0000" stop="20250119233000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 NFC Division Round: Minnesota/Los Angeles Rams vs Philadelphia Eagle</title>
     </programme>
     <programme start="20250119233000 +0000" stop="20250120023000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25</title>
+        <title>NFL 2024/25 AFC Division Round: Baltimore Ravens vs Buffalo Bills (Live)</title>
     </programme>
     <programme start="20250120023000 +0000" stop="20250120030000 +0000" channel="TestChannel 995.starhub">
         <title>Week 19</title>
     </programme>
-    <programme start="20250120030000 +0000" stop="20250120060000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 AFC Wild Card: Los Angeles Chargers vs Houston Texans</title>
-    </programme>
-    <programme start="20250120060000 +0000" stop="20250120075500 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250120030000 +0000" stop="20250120050000 +0000" channel="TestChannel 995.starhub">
         <title>Singapore Premier League 2024/25 Hougang United FC vs Balestier Khalsa FC</title>
+    </programme>
+    <programme start="20250120050000 +0000" stop="20250120075500 +0000" channel="TestChannel 995.starhub">
+        <title>NFL 2024/25 NFC Division Round: Minnesota/Los Angeles Rams vs Philadelphia Eagle</title>
     </programme>
     <programme start="20250120075500 +0000" stop="20250120100000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Macarthur FC vs Wellington Phoenix (Live)</title>
     </programme>
     <programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="TestChannel 995.starhub">
         <title>Week 19</title>
+    </programme>
+    <programme start="20250120103000 +0000" stop="20250120110000 +0000" channel="TestChannel 995.starhub">
+        <title>711</title>
     </programme>
     <programme start="20250113000000 +0000" stop="20250113010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -30972,10 +30972,13 @@
     <programme start="20250118160000 +0000" stop="20250118220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250118220000 +0000" stop="20250119010000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250119040000 +0000" stop="20250119100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250119010000 +0000" stop="20250119043000 +0000" channel="Hub Sports 6.starhub">
+        <title>NFC Division Round: Washington Commanders vs Detroit Lions</title>
+    </programme>
+    <programme start="20250119043000 +0000" stop="20250119100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250119100000 +0000" stop="20250119160000 +0000" channel="Hub Sports 6.starhub">
@@ -31039,6 +31042,120 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124160000 +0000" stop="20250124220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125160000 +0000" stop="20250125220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125220000 +0000" stop="20250126040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250126040000 +0000" stop="20250126100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250126100000 +0000" stop="20250126160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250126160000 +0000" stop="20250126220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127040000 +0000" stop="20250127100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127100000 +0000" stop="20250127160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127160000 +0000" stop="20250127220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127220000 +0000" stop="20250128040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128040000 +0000" stop="20250128100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128100000 +0000" stop="20250128160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128160000 +0000" stop="20250128220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131040000 +0000" stop="20250131100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201140000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201140000 +0000" stop="20250201170000 +0000" channel="Hub Sports 6.starhub">
+        <title>EFN 178: Prelims: Adesanya vs Imavov</title>
+    </programme>
+    <programme start="20250201170000 +0000" stop="20250201200000 +0000" channel="Hub Sports 6.starhub">
+        <title>EFN 178: Adesanya vs Imavov</title>
+    </programme>
+    <programme start="20250201200000 +0000" stop="20250201220000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250113003000 +0000" channel="Hub Premier 4.starhub">
