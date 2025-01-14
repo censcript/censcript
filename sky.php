@@ -2731,7 +2731,7 @@
         <title>Tales Of The Unexpected</title>
     </programme>
     <programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="Sky Arts HD">
-        <title>New: The Alfred Hitchcock Hour</title>
+        <title>The Alfred Hitchcock Hour</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114210000 +0000" channel="Sky Arts HD">
         <title>Stories From The National Gallery</title>
@@ -17889,11 +17889,8 @@
     <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="TBN UK">
         <title>Monster Truck Adventures</title>
     </programme>
-    <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="TBN UK">
+    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="TBN UK">
         <title>Hillsong Kids</title>
-    </programme>
-    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="TBN UK">
-        <title>Christine Caine</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="TBN UK">
         <title>Better Together</title>
@@ -29662,7 +29659,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250114213000 +0000" stop="20250114223000 +0000" channel="Sangat">
-        <title>Foundation Day &amp; 40 Mukte</title>
+        <title>Foundation Day</title>
     </programme>
     <programme start="20250114223000 +0000" stop="20250114230000 +0000" channel="Sangat">
         <title>Katha Vichar</title>
