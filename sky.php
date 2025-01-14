@@ -28924,13 +28924,13 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250115090000 +0000" stop="20250115100000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250115110000 +0000" stop="20250115120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Mithiyan Gallan</title>
     </programme>
     <programme start="20250115120000 +0000" stop="20250115130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -28945,25 +28945,25 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250115160000 +0000" stop="20250115170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Mithiyan Gallan</title>
     </programme>
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250115210000 +0000" stop="20250115220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>The Best of Creations</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>The Best of Creations</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
