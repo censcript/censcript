@@ -16318,7 +16318,7 @@
         <title>Monster Of Oz</title>
     </programme>
     <programme start="20250114063500 +0000" stop="20250114073000 +0000" channel="Discovery HD.starhub">
-        <title>Exploring The Unknown With Wang Yibo (S1)</title>
+        <title>Valleys And Peaks</title>
     </programme>
     <programme start="20250114073000 +0000" stop="20250114082500 +0000" channel="Discovery HD.starhub">
         <title>Love Micro Style</title>
@@ -16339,7 +16339,7 @@
         <title>Pre Show</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114135500 +0000" channel="Discovery HD.starhub">
-        <title>Exploring The Unknown With Wang Yibo (S1)</title>
+        <title>Into Darkness</title>
     </programme>
     <programme start="20250114135500 +0000" stop="20250114145000 +0000" channel="Discovery HD.starhub">
         <title>6000-LB. Shark</title>
@@ -16351,7 +16351,7 @@
         <title>January 6th (S1)</title>
     </programme>
     <programme start="20250114164000 +0000" stop="20250114173500 +0000" channel="Discovery HD.starhub">
-        <title>Exploring The Unknown With Wang Yibo (S1)</title>
+        <title>Into Darkness</title>
     </programme>
     <programme start="20250114173500 +0000" stop="20250114183000 +0000" channel="Discovery HD.starhub">
         <title>6000-LB. Shark</title>
