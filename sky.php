@@ -28117,7 +28117,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250115110500 +0000" stop="20250115120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>11th Hour with Waseem Badami</title>
     </programme>
     <programme start="20250115120000 +0000" stop="20250115120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
