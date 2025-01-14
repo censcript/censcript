@@ -298,70 +298,49 @@
         <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250114233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+        <title>Managing Asia</title>
     </programme>
-    <programme start="20250114233000 +0000" stop="20250115000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250115000000 +0000" stop="20250115003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point</title>
+    <programme start="20250114233000 +0000" stop="20250115003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Autobizz</title>
     </programme>
     <programme start="20250115003000 +0000" stop="20250115010000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Telco Insight</title>
+        <title>Cuap Cuap Cuan</title>
     </programme>
-    <programme start="20250115010000 +0000" stop="20250115013000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Tech A Look</title>
+    <programme start="20250115010000 +0000" stop="20250115030000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Squawk Box - Live</title>
     </programme>
-    <programme start="20250115013000 +0000" stop="20250115020000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Tech A Look</title>
+    <programme start="20250115030000 +0000" stop="20250115045500 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit - Live</title>
     </programme>
-    <programme start="20250115020000 +0000" stop="20250115023000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Tech A Look</title>
-    </programme>
-    <programme start="20250115023000 +0000" stop="20250115030000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250115030000 +0000" stop="20250115033000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20250115033000 +0000" stop="20250115040000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250115040000 +0000" stop="20250115043000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250115043000 +0000" stop="20250115050000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20250115050000 +0000" stop="20250115053000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20250115053000 +0000" stop="20250115060000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Money Talks</title>
-    </programme>
-    <programme start="20250115060000 +0000" stop="20250115063000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Money Talks</title>
-    </programme>
-    <programme start="20250115063000 +0000" stop="20250115070000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Money Talks</title>
+    <programme start="20250115045500 +0000" stop="20250115070000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Power Lunch - Live</title>
     </programme>
     <programme start="20250115070000 +0000" stop="20250115073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Money Talks</title>
+        <title>Managing Asia</title>
     </programme>
     <programme start="20250115073000 +0000" stop="20250115080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Energy Corner</title>
+        <title>Number&#039;s Bite</title>
     </programme>
-    <programme start="20250115080000 +0000" stop="20250115083000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Energy Corner</title>
+    <programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Closing Bell - Live</title>
     </programme>
-    <programme start="20250115083000 +0000" stop="20250115113000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Awards 2024</title>
+    <programme start="20250115100000 +0000" stop="20250115110500 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Evening Up - Live</title>
     </programme>
-    <programme start="20250115113000 +0000" stop="20250115160000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>HUT 23 Transmedia - Live</title>
+    <programme start="20250115110500 +0000" stop="20250115120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Property Point - Live</title>
     </programme>
-    <programme start="20250115160000 +0000" stop="20250114170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime Pilihan</title>
+    <programme start="20250115120000 +0000" stop="20250115123000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Cuap Cuap Cuan</title>
+    </programme>
+    <programme start="20250115123000 +0000" stop="20250115130000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Managing Asia</title>
+    </programme>
+    <programme start="20250115130000 +0000" stop="20250115150000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Squawk Box</title>
+    </programme>
+    <programme start="20250115150000 +0000" stop="20250114170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Tukang Ayam Jadi Dokter</title>
@@ -1362,8 +1341,11 @@
     <programme start="20250115163000 +0000" stop="20250114170000 +0000" channel="Fashion TV.cubmu">
         <title>Lingerie</title>
     </programme>
-    <programme start="20250114190000 +0000" stop="20250114213000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250114190000 +0000" stop="20250114210000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
+    </programme>
+    <programme start="20250114210000 +0000" stop="20250114213000 +0000" channel="Indosiar.cubmu">
+        <title>Mukjizat Masih Ada</title>
     </programme>
     <programme start="20250114213000 +0000" stop="20250114230000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Pagi</title>
@@ -1390,18 +1372,15 @@
         <title>Kisah Nyata Spesial</title>
     </programme>
     <programme start="20250115090000 +0000" stop="20250115110000 +0000" channel="Indosiar.cubmu">
-        <title>Abang L The Bossday Party</title>
+        <title>Kisah Nyata Sore Spesial</title>
     </programme>
     <programme start="20250115110000 +0000" stop="20250115130000 +0000" channel="Indosiar.cubmu">
         <title>Magic 5</title>
     </programme>
-    <programme start="20250115130000 +0000" stop="20250115150000 +0000" channel="Indosiar.cubmu">
-        <title>Blockbuster Film Asia</title>
-    </programme>
-    <programme start="20250115150000 +0000" stop="20250115163000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250115130000 +0000" stop="20250115153000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250115163000 +0000" stop="20250114170000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250115153000 +0000" stop="20250114180000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20250114174500 +0000" stop="20250114184500 +0000" channel="SCTV.cubmu">
@@ -1414,7 +1393,7 @@
         <title>Buser</title>
     </programme>
     <programme start="20250114194500 +0000" stop="20250114210000 +0000" channel="SCTV.cubmu">
-        <title>Sinema Dini Hari</title>
+        <title>Sinema Malam</title>
     </programme>
     <programme start="20250114210000 +0000" stop="20250114213000 +0000" channel="SCTV.cubmu">
         <title>Barakallah</title>
@@ -1429,7 +1408,7 @@
         <title>Gaspol: Games Asyik Paling Nampol</title>
     </programme>
     <programme start="20250115013000 +0000" stop="20250115030000 +0000" channel="SCTV.cubmu">
-        <title>Gaspol: Games Asyik Paling Nampol</title>
+        <title>FTV Pagi</title>
     </programme>
     <programme start="20250115030000 +0000" stop="20250115050000 +0000" channel="SCTV.cubmu">
         <title>FTV Pagi</title>
@@ -1443,17 +1422,17 @@
     <programme start="20250115071500 +0000" stop="20250115081500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20250115081500 +0000" stop="20250115100000 +0000" channel="SCTV.cubmu">
+    <programme start="20250115081500 +0000" stop="20250115094500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20250115100000 +0000" stop="20250115111500 +0000" channel="SCTV.cubmu">
-        <title>Saleha</title>
-    </programme>
-    <programme start="20250115111500 +0000" stop="20250115130000 +0000" channel="SCTV.cubmu">
+    <programme start="20250115094500 +0000" stop="20250115111500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20250115130000 +0000" stop="20250115143000 +0000" channel="SCTV.cubmu">
-        <title>Naik Ranjang</title>
+    <programme start="20250115111500 +0000" stop="20250115124500 +0000" channel="SCTV.cubmu">
+        <title>Ketika Cinta Memanggilmu</title>
+    </programme>
+    <programme start="20250115124500 +0000" stop="20250115143000 +0000" channel="SCTV.cubmu">
+        <title>Ikrar Cinta Suci</title>
     </programme>
     <programme start="20250115143000 +0000" stop="20250115160000 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
@@ -1695,29 +1674,32 @@
     <programme start="20250115163000 +0000" stop="20250114170000 +0000" channel="MetroTV.cubmu">
         <title>Top News</title>
     </programme>
-    <programme start="20250114174000 +0000" stop="20250114190000 +0000" channel="GTV.cubmu">
-        <title>Ragam Pagi</title>
+    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="GTV.cubmu">
+        <title>Legenda Sang Penunggu</title>
     </programme>
-    <programme start="20250114190000 +0000" stop="20250114203000 +0000" channel="GTV.cubmu">
-        <title>Ragam Pagi</title>
+    <programme start="20250114173000 +0000" stop="20250114183000 +0000" channel="GTV.cubmu">
+        <title>Buletin iNews Malam</title>
     </programme>
-    <programme start="20250114203000 +0000" stop="20250114210000 +0000" channel="GTV.cubmu">
+    <programme start="20250114183000 +0000" stop="20250114190000 +0000" channel="GTV.cubmu">
         <title>Gerebek</title>
+    </programme>
+    <programme start="20250114190000 +0000" stop="20250114210000 +0000" channel="GTV.cubmu">
+        <title>Ragam Pagi</title>
     </programme>
     <programme start="20250114210000 +0000" stop="20250114220000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Pagi</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114223000 +0000" channel="GTV.cubmu">
-        <title>Obsesi</title>
-    </programme>
-    <programme start="20250114223000 +0000" stop="20250115003000 +0000" channel="GTV.cubmu">
-        <title>CoComelon</title>
-    </programme>
-    <programme start="20250115003000 +0000" stop="20250115013000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250115013000 +0000" stop="20250115020000 +0000" channel="GTV.cubmu">
-        <title>Zak Storm</title>
+    <programme start="20250114223000 +0000" stop="20250114230000 +0000" channel="GTV.cubmu">
+        <title>Bestie</title>
+    </programme>
+    <programme start="20250114230000 +0000" stop="20250115003000 +0000" channel="GTV.cubmu">
+        <title>CoComelon</title>
+    </programme>
+    <programme start="20250115003000 +0000" stop="20250115020000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
     </programme>
     <programme start="20250115020000 +0000" stop="20250115033000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
@@ -1725,23 +1707,26 @@
     <programme start="20250115033000 +0000" stop="20250115060000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250115060000 +0000" stop="20250115083000 +0000" channel="GTV.cubmu">
+    <programme start="20250115060000 +0000" stop="20250115080000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250115083000 +0000" stop="20250115093000 +0000" channel="GTV.cubmu">
+    <programme start="20250115080000 +0000" stop="20250115093000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250115093000 +0000" stop="20250115143000 +0000" channel="GTV.cubmu">
-        <title>AFC Asian Qual.: IDN Vs JPN</title>
+    <programme start="20250115093000 +0000" stop="20250115104000 +0000" channel="GTV.cubmu">
+        <title>Big Movies Family</title>
     </programme>
-    <programme start="20250115143000 +0000" stop="20250115161000 +0000" channel="GTV.cubmu">
+    <programme start="20250115104000 +0000" stop="20250115123000 +0000" channel="GTV.cubmu">
+        <title>Super Deal Indonesia</title>
+    </programme>
+    <programme start="20250115123000 +0000" stop="20250115143000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20250115161000 +0000" stop="20250115164000 +0000" channel="GTV.cubmu">
-        <title>Crime KV</title>
+    <programme start="20250115143000 +0000" stop="20250115160000 +0000" channel="GTV.cubmu">
+        <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20250115164000 +0000" stop="20250114174000 +0000" channel="GTV.cubmu">
-        <title>Buletin iNews Malam</title>
+    <programme start="20250115160000 +0000" stop="20250114170000 +0000" channel="GTV.cubmu">
+        <title>Crime KV</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114190000 +0000" channel="ANTV.cubmu">
         <title>Jodoh Wasiat Bapak Babak 2</title>
