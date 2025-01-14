@@ -17995,13 +17995,13 @@
         <title>Life Today with James &amp; Betty Robison</title>
     </programme>
     <programme start="20250114093000 +0000" stop="20250114100000 +0000" channel="DAYSTAR HD">
-        <title>Reflections</title>
+        <title>Joni Table Talk</title>
     </programme>
     <programme start="20250114100000 +0000" stop="20250114110000 +0000" channel="DAYSTAR HD">
         <title>Ministry Now</title>
     </programme>
     <programme start="20250114110000 +0000" stop="20250114113000 +0000" channel="DAYSTAR HD">
-        <title>Joni Table Talk</title>
+        <title>Reflections</title>
     </programme>
     <programme start="20250114113000 +0000" stop="20250114120000 +0000" channel="DAYSTAR HD">
         <title>Reflections</title>
@@ -33253,7 +33253,7 @@
         <title>Tales Of The Unexpected</title>
     </programme>
     <programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="Sky Arts">
-        <title>New: The Alfred Hitchcock Hour</title>
+        <title>The Alfred Hitchcock Hour</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114210000 +0000" channel="Sky Arts">
         <title>Stories From The National Gallery</title>
