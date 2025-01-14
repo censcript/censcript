@@ -13990,7 +13990,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="Eurosport 2 HD">
-        <title>Live Australian Open Tennis</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
@@ -14002,10 +14002,10 @@
         <title>SailGP</title>
     </programme>
     <programme start="20250114133000 +0000" stop="20250114150000 +0000" channel="Eurosport 2 HD">
-        <title>Biathlon: Winter World University Games Turin</title>
+        <title>Biathlon Winter World...</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114163000 +0000" channel="Eurosport 2 HD">
-        <title>Biathlon: Winter World University Games Turin</title>
+        <title>Biathlon Winter World...</title>
     </programme>
     <programme start="20250114163000 +0000" stop="20250114181500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
@@ -24466,7 +24466,7 @@
         <title>Lifestyle Day with Craig &amp; Marina</title>
     </programme>
     <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="QVC Beauty">
-        <title>Liz Earle Naturally Active</title>
+        <title>QVC Beauty Sale</title>
     </programme>
     <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>
@@ -34630,7 +34630,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250114070000 +0000" stop="20250114090000 +0000" channel="Eurosport 2">
-        <title>Live Australian Open Tennis</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
@@ -34642,10 +34642,10 @@
         <title>SailGP</title>
     </programme>
     <programme start="20250114133000 +0000" stop="20250114150000 +0000" channel="Eurosport 2">
-        <title>Biathlon: Winter World University Games Turin</title>
+        <title>Biathlon Winter World...</title>
     </programme>
     <programme start="20250114150000 +0000" stop="20250114163000 +0000" channel="Eurosport 2">
-        <title>Biathlon: Winter World University Games Turin</title>
+        <title>Biathlon Winter World...</title>
     </programme>
     <programme start="20250114163000 +0000" stop="20250114181500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
