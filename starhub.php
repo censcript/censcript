@@ -12996,6 +12996,42 @@
     <programme start="20250124130000 +0000" stop="20250124160000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
     </programme>
+    <programme start="20250124160000 +0000" stop="20250124190000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles SF 2</title>
+    </programme>
+    <programme start="20250124190000 +0000" stop="20250124210000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Mixed Doubles Final</title>
+    </programme>
+    <programme start="20250124210000 +0000" stop="20250125000000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+    </programme>
+    <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Day 13</title>
+    </programme>
+    <programme start="20250125010000 +0000" stop="20250125030000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Girls&#039; Junior Final</title>
+    </programme>
+    <programme start="20250125030000 +0000" stop="20250125050000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Boys&#039; Junior Final</title>
+    </programme>
+    <programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Day 13</title>
+    </programme>
+    <programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Women&#039;s Singles SF 2</title>
+    </programme>
+    <programme start="20250125080000 +0000" stop="20250125103000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+    </programme>
+    <programme start="20250125103000 +0000" stop="20250125130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Doubles Final</title>
+    </programme>
+    <programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+    </programme>
+    <programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Doubles Final</title>
+    </programme>
     <programme start="20250113000000 +0000" stop="20250113003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
     </programme>
@@ -30894,6 +30930,18 @@
     <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250124160000 +0000" stop="20250124220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33100,6 +33148,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250124100000 +0000" stop="20250124160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124160000 +0000" stop="20250124220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250112220000 +0000" stop="20250113040000 +0000" channel="Hub Sports 5 HD.starhub">

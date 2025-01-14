@@ -1440,7 +1440,7 @@
     <programme start="20250115233500 +0000" stop="20250116003500 +0000" channel="BBC Three HD">
         <title>Him &amp; Her</title>
     </programme>
-    <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="BBC Four HD">
+    <programme start="20250114221500 +0000" stop="20250114230000 +0000" channel="BBC Four HD">
         <title>Gods of Snooker</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="BBC Four HD">

@@ -3,26 +3,8 @@
     <programme start="20250114183000 +0000" stop="20250114230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
-    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Chelsea v Bournemouth</title>
-    </programme>
-    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - West Ham United v Fulham</title>
-    </programme>
-    <programme start="20250114192000 +0000" stop="20250114214000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brentford v Manchester City</title>
-    </programme>
-    <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 6.optus">
-        <title>FA Cup - Mansfield Town v Wigan Athletic</title>
-    </programme>
     <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 8.optus">
         <title>FA Cup - Leyton Orient v Derby County</title>
-    </programme>
-    <programme start="20250114193500 +0000" stop="20250114225500 +0000" channel="Optus Sport 7.optus">
-        <title>FA Cup - Preston North End v Charlton Athletic</title>
-    </programme>
-    <programme start="20250114195000 +0000" stop="20250114221000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Nottingham Forest v Liverpool</title>
     </programme>
     <programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
