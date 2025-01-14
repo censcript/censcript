@@ -15112,7 +15112,7 @@
         <title>Home Office Questions</title>
     </programme>
     <programme start="20250114071000 +0000" stop="20250114074500 +0000" channel="BBC Parl HD">
-        <title>House of Commons - Gas Storage Levels Urgent Question</title>
+        <title>Gas Storage Levels Urgent Question</title>
     </programme>
     <programme start="20250114074500 +0000" stop="20250114083000 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
@@ -17880,8 +17880,11 @@
     <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="TBN UK">
         <title>Monster Truck Adventures</title>
     </programme>
-    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="TBN UK">
+    <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="TBN UK">
         <title>Hillsong Kids</title>
+    </programme>
+    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="TBN UK">
+        <title>Christine Caine</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="TBN UK">
         <title>Better Together</title>
@@ -24811,7 +24814,7 @@
         <title>SmartAir Dehumidifier</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="High Street TV 1">
-        <title>VOOM Turbo Scrubber</title>
+        <title>Ruby Horsepower</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="High Street TV 1">
         <title>SmartAir Boost Radiator Fan</title>
@@ -24967,7 +24970,7 @@
         <title>SmartAir Dehumidifier</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="High Street TV 2">
-        <title>VOOM Turbo Scrubber</title>
+        <title>Ruby Horsepower</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114183000 +0000" channel="High Street TV 2">
         <title>SmartAir Boost Radiator Fan</title>
@@ -25372,7 +25375,7 @@
         <title>SmartAir Dehumidifier</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114183000 +0000" channel="High Street TV 3">
-        <title>VOOM Turbo Scrubber</title>
+        <title>Ruby Horsepower</title>
     </programme>
     <programme start="20250114183000 +0000" stop="20250114190000 +0000" channel="High Street TV 3">
         <title>SmartAir Boost Radiator Fan</title>
@@ -29638,13 +29641,10 @@
         <title>Rehraas Sahib Takht Sri Patna Sahib</title>
     </programme>
     <programme start="20250114180000 +0000" stop="20250114190000 +0000" channel="Sangat">
-        <title>GNNSJ Kirtan</title>
+        <title>Shaheedi Jor Mela</title>
     </programme>
-    <programme start="20250114190000 +0000" stop="20250114193000 +0000" channel="Sangat">
-        <title>Dharat De Jaaye</title>
-    </programme>
-    <programme start="20250114193000 +0000" stop="20250114200000 +0000" channel="Sangat">
-        <title>Nirmal Soch</title>
+    <programme start="20250114190000 +0000" stop="20250114200000 +0000" channel="Sangat">
+        <title>Live Naam Simran</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114203000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -29652,11 +29652,11 @@
     <programme start="20250114203000 +0000" stop="20250114213000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
     </programme>
-    <programme start="20250114213000 +0000" stop="20250114220000 +0000" channel="Sangat">
+    <programme start="20250114213000 +0000" stop="20250114223000 +0000" channel="Sangat">
         <title>Foundation Day &amp; 40 Mukte</title>
     </programme>
-    <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="Sangat">
-        <title>Hukamnama Katha</title>
+    <programme start="20250114223000 +0000" stop="20250114230000 +0000" channel="Sangat">
+        <title>Katha Vichar</title>
     </programme>
     <programme start="20250114230000 +0000" stop="20250114233000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
