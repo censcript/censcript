@@ -6292,7 +6292,7 @@
         <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114193500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Washington Commanders vs Tampa Bay Buccaneers</title>
+        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250114193500 +0000" stop="20250114214500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Preston North End vs Charlton Athletic (Live)</title>
@@ -6377,9 +6377,6 @@
     </programme>
     <programme start="20250116160000 +0000" stop="20250116170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Road to the Playoffs</title>
-    </programme>
-    <programme start="20250116170000 +0000" stop="20250116200000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250116200000 +0000" stop="20250116203000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Fight Flashback 2024/25 Gaethje vs Holloway</title>
@@ -6521,6 +6518,9 @@
     </programme>
     <programme start="20250120075500 +0000" stop="20250120100000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Macarthur FC vs Wellington Phoenix (Live)</title>
+    </programme>
+    <programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Week 19</title>
     </programme>
     <programme start="20250112231500 +0000" stop="20250113003700 +0000" channel="NHK World Premium HD.starhub">
         <title>The Visualization Entertainment: Go! Kaneo-kun New Year&#039;s Special Edition (R)</title>
@@ -15648,13 +15648,13 @@
     <programme start="20250114153000 +0000" stop="20250114160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The World’s Longest Putt</title>
     </programme>
-    <programme start="20250114160000 +0000" stop="20250114200000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250114160000 +0000" stop="20250114190000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250114200000 +0000" stop="20250114230000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250114190000 +0000" stop="20250114220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Golf Classic at Atlantis Paradise Island Round 3</title>
     </programme>
-    <programme start="20250114230000 +0000" stop="20250115040000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250114220000 +0000" stop="20250115040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250115040000 +0000" stop="20250115100000 +0000" channel="Hub Sports 3 HD.starhub">
@@ -29317,7 +29317,7 @@
         <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250114170000 +0000" stop="20250114193500 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Washington Commanders vs Tampa Bay Buccaneers</title>
+        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250114193500 +0000" stop="20250114214500 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R3: Preston North End vs Charlton Athletic (Live)</title>
@@ -29402,9 +29402,6 @@
     </programme>
     <programme start="20250116160000 +0000" stop="20250116170000 +0000" channel="TestChannel 995.starhub">
         <title>Road to the Playoffs</title>
-    </programme>
-    <programme start="20250116170000 +0000" stop="20250116200000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
     </programme>
     <programme start="20250116200000 +0000" stop="20250116203000 +0000" channel="TestChannel 995.starhub">
         <title>UFC Fight Flashback 2024/25 Gaethje vs Holloway</title>
@@ -29546,6 +29543,9 @@
     </programme>
     <programme start="20250120075500 +0000" stop="20250120100000 +0000" channel="TestChannel 995.starhub">
         <title>Isuzu UTE A-League 2024/25 R15: Macarthur FC vs Wellington Phoenix (Live)</title>
+    </programme>
+    <programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="TestChannel 995.starhub">
+        <title>Week 19</title>
     </programme>
     <programme start="20250113000000 +0000" stop="20250113010000 +0000" channel="TestChannel 996.starhub">
         <title>All That Is Bitter Is Sweet</title>
