@@ -13995,8 +13995,11 @@
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250114100000 +0000" stop="20250114130000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250114100000 +0000" stop="20250114122500 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250114122500 +0000" stop="20250114130000 +0000" channel="Eurosport 2 HD">
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114133000 +0000" channel="Eurosport 2 HD">
         <title>SailGP</title>
@@ -25905,13 +25908,13 @@
     <programme start="20250114085500 +0000" stop="20250114092500 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250114092500 +0000" stop="20250114110100 +0000" channel="SONY TV HD">
+    <programme start="20250114092500 +0000" stop="20250114110000 +0000" channel="SONY TV HD">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250114110100 +0000" stop="20250114113100 +0000" channel="SONY TV HD">
+    <programme start="20250114110000 +0000" stop="20250114113000 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250114113100 +0000" stop="20250114125400 +0000" channel="SONY TV HD">
+    <programme start="20250114113000 +0000" stop="20250114125400 +0000" channel="SONY TV HD">
         <title>Champions Ka Tashan</title>
     </programme>
     <programme start="20250114125400 +0000" stop="20250114135400 +0000" channel="SONY TV HD">
@@ -25932,25 +25935,25 @@
     <programme start="20250114175900 +0000" stop="20250114182900 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250114182900 +0000" stop="20250114185900 +0000" channel="SONY TV HD">
+    <programme start="20250114182900 +0000" stop="20250114185800 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250114185900 +0000" stop="20250114200000 +0000" channel="SONY TV HD">
+    <programme start="20250114185800 +0000" stop="20250114200000 +0000" channel="SONY TV HD">
         <title>Shark Tank India</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114202900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250114202900 +0000" stop="20250114210000 +0000" channel="SONY TV HD">
+    <programme start="20250114202900 +0000" stop="20250114205900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250114210000 +0000" stop="20250114222700 +0000" channel="SONY TV HD">
+    <programme start="20250114205900 +0000" stop="20250114222900 +0000" channel="SONY TV HD">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250114222700 +0000" stop="20250114232900 +0000" channel="SONY TV HD">
+    <programme start="20250114222900 +0000" stop="20250114233200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250114232900 +0000" stop="20250115002900 +0000" channel="SONY TV HD">
+    <programme start="20250114233200 +0000" stop="20250115003200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Utsav Bharat">
@@ -34641,8 +34644,11 @@
     <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250114100000 +0000" stop="20250114130000 +0000" channel="Eurosport 2">
+    <programme start="20250114100000 +0000" stop="20250114122500 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250114122500 +0000" stop="20250114130000 +0000" channel="Eurosport 2">
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250114130000 +0000" stop="20250114133000 +0000" channel="Eurosport 2">
         <title>SailGP</title>
@@ -35373,13 +35379,13 @@
     <programme start="20250114085500 +0000" stop="20250114092500 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250114092500 +0000" stop="20250114110100 +0000" channel="SONY TV">
+    <programme start="20250114092500 +0000" stop="20250114110000 +0000" channel="SONY TV">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250114110100 +0000" stop="20250114113100 +0000" channel="SONY TV">
+    <programme start="20250114110000 +0000" stop="20250114113000 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250114113100 +0000" stop="20250114125400 +0000" channel="SONY TV">
+    <programme start="20250114113000 +0000" stop="20250114125400 +0000" channel="SONY TV">
         <title>Champions Ka Tashan</title>
     </programme>
     <programme start="20250114125400 +0000" stop="20250114135400 +0000" channel="SONY TV">
@@ -35400,25 +35406,25 @@
     <programme start="20250114175900 +0000" stop="20250114182900 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250114182900 +0000" stop="20250114185900 +0000" channel="SONY TV">
+    <programme start="20250114182900 +0000" stop="20250114185800 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250114185900 +0000" stop="20250114200000 +0000" channel="SONY TV">
+    <programme start="20250114185800 +0000" stop="20250114200000 +0000" channel="SONY TV">
         <title>Shark Tank India</title>
     </programme>
     <programme start="20250114200000 +0000" stop="20250114202900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250114202900 +0000" stop="20250114210000 +0000" channel="SONY TV">
+    <programme start="20250114202900 +0000" stop="20250114205900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250114210000 +0000" stop="20250114222700 +0000" channel="SONY TV">
+    <programme start="20250114205900 +0000" stop="20250114222900 +0000" channel="SONY TV">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250114222700 +0000" stop="20250114232900 +0000" channel="SONY TV">
+    <programme start="20250114222900 +0000" stop="20250114233200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250114232900 +0000" stop="20250115002900 +0000" channel="SONY TV">
+    <programme start="20250114233200 +0000" stop="20250115003200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250113223000 +0000" stop="20250113230000 +0000" channel="Utsav Plus">
