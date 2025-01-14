@@ -17880,11 +17880,8 @@
     <programme start="20250114160000 +0000" stop="20250114163000 +0000" channel="TBN UK">
         <title>Monster Truck Adventures</title>
     </programme>
-    <programme start="20250114163000 +0000" stop="20250114170000 +0000" channel="TBN UK">
+    <programme start="20250114163000 +0000" stop="20250114173000 +0000" channel="TBN UK">
         <title>Hillsong Kids</title>
-    </programme>
-    <programme start="20250114170000 +0000" stop="20250114173000 +0000" channel="TBN UK">
-        <title>Christine Caine</title>
     </programme>
     <programme start="20250114173000 +0000" stop="20250114180000 +0000" channel="TBN UK">
         <title>Better Together</title>
