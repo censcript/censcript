@@ -5322,6 +5322,18 @@
     <programme start="20250124100000 +0000" stop="20250124163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250124163000 +0000" stop="20250124220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250112230500 +0000" stop="20250113000500 +0000" channel="HISTORY HD.starhub">
         <title>All Things Durian</title>
     </programme>
@@ -28381,6 +28393,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250124100000 +0000" stop="20250124160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250124160300 +0000" stop="20250124220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250113000000 +0000" stop="20250113001000 +0000" channel="HBO Family HD.starhub">

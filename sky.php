@@ -1233,11 +1233,8 @@
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Sky Max HD">
         <title>Stargate Universe</title>
     </programme>
-    <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Sky Max HD">
+    <programme start="20250115200000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
         <title>Flintoff: Lord Of The Fries</title>
-    </programme>
-    <programme start="20250115210000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
-        <title>Rob Beckett's Smart TV</title>
     </programme>
     <programme start="20250115215000 +0000" stop="20250115225500 +0000" channel="Sky Max HD">
         <title>Strike Back: Vengeance</title>
@@ -1440,25 +1437,22 @@
     <programme start="20250115233500 +0000" stop="20250116003500 +0000" channel="BBC Three HD">
         <title>Him &amp; Her</title>
     </programme>
-    <programme start="20250114221500 +0000" stop="20250114230000 +0000" channel="BBC Four HD">
+    <programme start="20250114223500 +0000" stop="20250114233500 +0000" channel="BBC Four HD">
         <title>Gods of Snooker</title>
     </programme>
-    <programme start="20250114230000 +0000" stop="20250115000000 +0000" channel="BBC Four HD">
+    <programme start="20250114233500 +0000" stop="20250115003500 +0000" channel="BBC Four HD">
         <title>Bombay Railway: Dreams</title>
     </programme>
-    <programme start="20250115000000 +0000" stop="20250115010000 +0000" channel="BBC Four HD">
+    <programme start="20250115003500 +0000" stop="20250115013500 +0000" channel="BBC Four HD">
         <title>Charles I: Killing a King</title>
     </programme>
-    <programme start="20250115010000 +0000" stop="20250115020000 +0000" channel="BBC Four HD">
-        <title>Gods of Snooker</title>
-    </programme>
-    <programme start="20250115020000 +0000" stop="20250115030000 +0000" channel="BBC Four HD">
+    <programme start="20250115013500 +0000" stop="20250115023500 +0000" channel="BBC Four HD">
         <title>Bombay Railway: Dreams</title>
     </programme>
-    <programme start="20250115030000 +0000" stop="20250115040000 +0000" channel="BBC Four HD">
+    <programme start="20250115023500 +0000" stop="20250115033500 +0000" channel="BBC Four HD">
         <title>Charles I: Killing a King</title>
     </programme>
-    <programme start="20250115040000 +0000" stop="20250115053000 +0000" channel="BBC Four HD">
+    <programme start="20250115033500 +0000" stop="20250115053000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250115053000 +0000" stop="20250115113000 +0000" channel="BBC Four HD">
@@ -14040,7 +14034,7 @@
     <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250114223000 +0000" stop="20250115003000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250114225000 +0000" stop="20250115003000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250115003000 +0000" stop="20250115020000 +0000" channel="Eurosport 1 HD">
@@ -14098,7 +14092,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Eurosport 2 HD">
-        <title>Live Australian Open Tennis</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115130000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
@@ -30120,10 +30114,7 @@
     <programme start="20250115160000 +0000" stop="20250115170000 +0000" channel="Kanshi TV">
         <title>Khushiyan da Vehra</title>
     </programme>
-    <programme start="20250115170000 +0000" stop="20250115173000 +0000" channel="Kanshi TV">
-        <title>Old is Gold</title>
-    </programme>
-    <programme start="20250115173000 +0000" stop="20250115180000 +0000" channel="Kanshi TV">
+    <programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
     </programme>
     <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="Kanshi TV">
@@ -34881,7 +34872,7 @@
     <programme start="20250115233000 +0000" stop="20250116003000 +0000" channel="TNTSports2 HD">
         <title>NBA Originals</title>
     </programme>
-    <programme start="20250114223000 +0000" stop="20250115003000 +0000" channel="Eurosport 1">
+    <programme start="20250114225000 +0000" stop="20250115003000 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250115003000 +0000" stop="20250115020000 +0000" channel="Eurosport 1">
@@ -34939,7 +34930,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Eurosport 2">
-        <title>Live Australian Open Tennis</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115130000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
