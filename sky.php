@@ -1233,8 +1233,11 @@
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Sky Max HD">
         <title>Stargate Universe</title>
     </programme>
-    <programme start="20250115200000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
+    <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Sky Max HD">
         <title>Flintoff: Lord Of The Fries</title>
+    </programme>
+    <programme start="20250115210000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
+        <title>Rob Beckett's Smart TV</title>
     </programme>
     <programme start="20250115215000 +0000" stop="20250115225500 +0000" channel="Sky Max HD">
         <title>Strike Back: Vengeance</title>
