@@ -1233,11 +1233,8 @@
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Sky Max HD">
         <title>Stargate Universe</title>
     </programme>
-    <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Sky Max HD">
+    <programme start="20250115200000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
         <title>Flintoff: Lord Of The Fries</title>
-    </programme>
-    <programme start="20250115210000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
-        <title>Rob Beckett's Smart TV</title>
     </programme>
     <programme start="20250115215000 +0000" stop="20250115225500 +0000" channel="Sky Max HD">
         <title>Strike Back: Vengeance</title>
@@ -37696,7 +37693,7 @@
         <title>Radio 1 News</title>
     </programme>
     <programme start="20250115070000 +0000" stop="20250115103000 +0000" channel="BBC R1">
-        <title>Radio 1 Breakfast with Greg James</title>
+        <title>Radio 1 Breakfast with Matt and Jerry</title>
     </programme>
     <programme start="20250115103000 +0000" stop="20250115103300 +0000" channel="BBC R1">
         <title>Radio 1 News</title>
@@ -37708,7 +37705,7 @@
         <title>Newsbeat @ 12:45</title>
     </programme>
     <programme start="20250115130000 +0000" stop="20250115153000 +0000" channel="BBC R1">
-        <title>Matt and Jerry</title>
+        <title>James Cusack</title>
     </programme>
     <programme start="20250115153000 +0000" stop="20250115153300 +0000" channel="BBC R1">
         <title>Radio 1 News</title>

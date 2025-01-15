@@ -24621,7 +24621,7 @@
     <programme start="20250115170500 +0000" stop="20250115220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250115220000 +0000" stop="20250116001500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250115220000 +0000" stop="20250116014000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250116001500 +0000" stop="20250116041500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25617,14 +25617,23 @@
     <programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250115180000 +0000" stop="20250115190200 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+    <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="Dragon TV.starhub">
+        <title>CHINA Now</title>
     </programme>
-    <programme start="20250115190200 +0000" stop="20250115221500 +0000" channel="Dragon TV.starhub">
-        <title>go fighting</title>
+    <programme start="20250115190000 +0000" stop="20250115193000 +0000" channel="Dragon TV.starhub">
+        <title>Next Station</title>
     </programme>
-    <programme start="20250115221500 +0000" stop="20250115230000 +0000" channel="Dragon TV.starhub">
-        <title>Channel Young Food</title>
+    <programme start="20250115193000 +0000" stop="20250115210000 +0000" channel="Dragon TV.starhub">
+        <title>the city of musicals</title>
+    </programme>
+    <programme start="20250115210000 +0000" stop="20250115220000 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20250115220000 +0000" stop="20250115223000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20250115223000 +0000" stop="20250115230000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
@@ -25775,15 +25784,6 @@
     </programme>
     <programme start="20250119110000 +0000" stop="20250119120800 +0000" channel="Dragon TV.starhub">
         <title>sitcom</title>
-    </programme>
-    <programme start="20250119120800 +0000" stop="20250119141200 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
-    </programme>
-    <programme start="20250119141200 +0000" stop="20250119170000 +0000" channel="Dragon TV.starhub">
-        <title>sitcom</title>
-    </programme>
-    <programme start="20250119170000 +0000" stop="20250119180000 +0000" channel="Dragon TV.starhub">
-        <title>Dragon TV Primetime News</title>
     </programme>
     <programme start="20250113233000 +0000" stop="20250114003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>
@@ -30514,19 +30514,19 @@
         <title>Queen</title>
     </programme>
     <programme start="20250115080000 +0000" stop="20250115090000 +0000" channel="TestChannel 993.starhub">
-        <title>Global Golden Line</title>
+        <title>New_Global Golden Line</title>
     </programme>
     <programme start="20250115090000 +0000" stop="20250115100000 +0000" channel="TestChannel 993.starhub">
         <title>Super Taste: Hungry Generations</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115110000 +0000" channel="TestChannel 993.starhub">
-        <title>Citizens&#039; Subjects</title>
+        <title>New_Citizens&#039; Subjects</title>
     </programme>
     <programme start="20250115110000 +0000" stop="20250115120000 +0000" channel="TestChannel 993.starhub">
         <title>Global Focus</title>
     </programme>
     <programme start="20250115120000 +0000" stop="20250115130000 +0000" channel="TestChannel 993.starhub">
-        <title>All About Health</title>
+        <title>New_All About Health</title>
     </programme>
     <programme start="20250115130000 +0000" stop="20250115140000 +0000" channel="TestChannel 993.starhub">
         <title>Queen</title>
@@ -30553,13 +30553,13 @@
         <title>Queen</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="TestChannel 993.starhub">
-        <title>Global Focus</title>
-    </programme>
-    <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="TestChannel 993.starhub">
         <title>All About Health</title>
     </programme>
+    <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
     <programme start="20250116000000 +0000" stop="20250116010000 +0000" channel="TestChannel 993.starhub">
-        <title>Shao Kang&#039;s War Room</title>
+        <title>Citizens&#039; Subjects</title>
     </programme>
     <programme start="20250116010000 +0000" stop="20250116020000 +0000" channel="TestChannel 993.starhub">
         <title>Queen</title>
