@@ -1233,11 +1233,8 @@
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Sky Max HD">
         <title>Stargate Universe</title>
     </programme>
-    <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Sky Max HD">
+    <programme start="20250115200000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
         <title>Flintoff: Lord Of The Fries</title>
-    </programme>
-    <programme start="20250115210000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
-        <title>Rob Beckett's Smart TV</title>
     </programme>
     <programme start="20250115215000 +0000" stop="20250115225500 +0000" channel="Sky Max HD">
         <title>Strike Back: Vengeance</title>
@@ -24733,34 +24730,34 @@
         <title>GP Collection Live from Jaipur with Gaia &amp; Cris</title>
     </programme>
     <programme start="20250115140000 +0000" stop="20250115150000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Craig &amp; Vicki</title>
+        <title>Sleeping Beauty Turquoise Craig &amp; Vicki</title>
     </programme>
     <programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Craig &amp; Vicki</title>
+        <title>Fire Opal with Craig &amp; Vicki</title>
     </programme>
     <programme start="20250115160000 +0000" stop="20250115170000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Craig &amp; Vicki</title>
+        <title>Fire Opal with Craig &amp; Vicki</title>
     </programme>
     <programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Craig &amp; Vicki</title>
+        <title>Amethyst Jewellery with Craig &amp; Vicki</title>
     </programme>
     <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Mark</title>
+        <title>Health &amp; Wellbeing with Mark</title>
     </programme>
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Mark</title>
+        <title>Handbags &amp; Watches with Mark</title>
     </programme>
     <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Mark</title>
+        <title>Gold Zambian Emerald Ring with Mark</title>
     </programme>
     <programme start="20250115210000 +0000" stop="20250115220000 +0000" channel="TJC HD">
-        <title>Mega Day Deals with Mark</title>
+        <title>NEW! Rhapsody Kunzite Collection with Mark</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="TJC HD">
-        <title>Mega Jewellery Deals with Buddhi &amp; Derek</title>
+        <title>Gold Deals with Buddhi &amp; Derek</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="TJC HD">
-        <title>Mega Jewellery Deals with Buddhi &amp; Derek</title>
+        <title>Mega Diamond Deals with Buddhi &amp; Derek</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="QVC Beauty">
         <title>Supplement your Health</title>
@@ -30886,13 +30883,13 @@
         <title>Onnorokom Bhalobasha</title>
     </programme>
     <programme start="20250115173000 +0000" stop="20250115180100 +0000" channel="NTV">
-        <title>Food Caravan</title>
+        <title>Prio Jato Gaan</title>
     </programme>
     <programme start="20250115180100 +0000" stop="20250115180600 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
     <programme start="20250115180600 +0000" stop="20250115190000 +0000" channel="NTV">
-        <title>Algaridom</title>
+        <title>Prio Jato Gaan</title>
     </programme>
     <programme start="20250115190000 +0000" stop="20250115191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
