@@ -1656,19 +1656,19 @@
     <programme start="20250115193000 +0000" stop="20250115210000 +0000" channel="ITV2 HD">
         <title>Harry Potter and the Deathly Hallows: Part Two</title>
     </programme>
-    <programme start="20250115210000 +0000" stop="20250115220500 +0000" channel="ITV2 HD">
+    <programme start="20250115210000 +0000" stop="20250115222000 +0000" channel="ITV2 HD">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250115220500 +0000" stop="20250115224000 +0000" channel="ITV2 HD">
+    <programme start="20250115222000 +0000" stop="20250115225500 +0000" channel="ITV2 HD">
         <title>G'wed</title>
     </programme>
-    <programme start="20250115224000 +0000" stop="20250115230500 +0000" channel="ITV2 HD">
+    <programme start="20250115225500 +0000" stop="20250115232500 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250115230500 +0000" stop="20250115233500 +0000" channel="ITV2 HD">
+    <programme start="20250115232500 +0000" stop="20250115235000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250115233500 +0000" stop="20250116003500 +0000" channel="ITV2 HD">
+    <programme start="20250115235000 +0000" stop="20250116005000 +0000" channel="ITV2 HD">
         <title>American Dad!</title>
     </programme>
     <programme start="20250114220000 +0000" stop="20250114230000 +0000" channel="ITV3 HD">
@@ -8280,13 +8280,13 @@
     <programme start="20250115203000 +0000" stop="20250115220000 +0000" channel="ITV2+1">
         <title>Harry Potter and the Deathly Hallows: Part Two</title>
     </programme>
-    <programme start="20250115220000 +0000" stop="20250115230500 +0000" channel="ITV2+1">
+    <programme start="20250115220000 +0000" stop="20250115232000 +0000" channel="ITV2+1">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250115230500 +0000" stop="20250115234000 +0000" channel="ITV2+1">
+    <programme start="20250115232000 +0000" stop="20250115235500 +0000" channel="ITV2+1">
         <title>G'wed</title>
     </programme>
-    <programme start="20250115234000 +0000" stop="20250116004000 +0000" channel="ITV2+1">
+    <programme start="20250115235500 +0000" stop="20250116005500 +0000" channel="ITV2+1">
         <title>Family Guy</title>
     </programme>
     <programme start="20250114210000 +0000" stop="20250114230000 +0000" channel="ITV3+1">
@@ -18153,10 +18153,7 @@
     <programme start="20250115190000 +0000" stop="20250115193000 +0000" channel="TBN UK">
         <title>Living Proof</title>
     </programme>
-    <programme start="20250115193000 +0000" stop="20250115200000 +0000" channel="TBN UK">
-        <title>TBN UK Presents Mark Ritchie</title>
-    </programme>
-    <programme start="20250115200000 +0000" stop="20250115203000 +0000" channel="TBN UK">
+    <programme start="20250115193000 +0000" stop="20250115203000 +0000" channel="TBN UK">
         <title>Better Together</title>
     </programme>
     <programme start="20250115203000 +0000" stop="20250115210000 +0000" channel="TBN UK">
@@ -25525,13 +25522,13 @@
         <title>Get it or Regret It Kitchen Finds</title>
     </programme>
     <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="QVC Extra">
-        <title>Fashion Steals and Deals</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="QVC Extra">
-        <title>QVC Extra Top Deals</title>
+        <title>Fashion Steals and Deals</title>
     </programme>
     <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="QVC Extra">
-        <title>Izabel London Fashion Sale</title>
+        <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250115210000 +0000" stop="20250115220000 +0000" channel="QVC Extra">
         <title>Your Winter Garden</title>
@@ -25540,7 +25537,7 @@
         <title>Kelly Hoppen Home New Collection</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="QVC Extra">
-        <title>Michael Perry's Garden</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250114223000 +0000" stop="20250114230000 +0000" channel="High Street TV 3">
         <title>Ez Well Massage Mattress</title>
@@ -29980,10 +29977,13 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250115213000 +0000" stop="20250115220000 +0000" channel="Sangat">
-        <title>Mental Health Matters</title>
+        <title>Naam Simran</title>
     </programme>
-    <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="Sangat">
+    <programme start="20250115220000 +0000" stop="20250115223000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
+    </programme>
+    <programme start="20250115223000 +0000" stop="20250115230000 +0000" channel="Sangat">
+        <title>Mental Health Matters</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250115233000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
