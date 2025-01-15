@@ -1233,8 +1233,11 @@
     <programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Sky Max HD">
         <title>Stargate Universe</title>
     </programme>
-    <programme start="20250115200000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
+    <programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Sky Max HD">
         <title>Flintoff: Lord Of The Fries</title>
+    </programme>
+    <programme start="20250115210000 +0000" stop="20250115215000 +0000" channel="Sky Max HD">
+        <title>Rob Beckett's Smart TV</title>
     </programme>
     <programme start="20250115215000 +0000" stop="20250115225500 +0000" channel="Sky Max HD">
         <title>Strike Back: Vengeance</title>
@@ -29436,10 +29439,10 @@
     <programme start="20250115180100 +0000" stop="20250115180500 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250115180500 +0000" stop="20250115190500 +0000" channel="Eman Channel">
+    <programme start="20250115180500 +0000" stop="20250115190000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
-    <programme start="20250115190500 +0000" stop="20250115191500 +0000" channel="Eman Channel">
+    <programme start="20250115190000 +0000" stop="20250115191500 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
     <programme start="20250115191500 +0000" stop="20250115194500 +0000" channel="Eman Channel">
