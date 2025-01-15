@@ -27348,93 +27348,6 @@
     <programme start="20250115110000 +0000" stop="20250115113000 +0000" channel="Sky News HD.starhub">
         <title>Sky News Today with Wilfred Frost</title>
     </programme>
-    <programme start="20250112231500 +0000" stop="20250113003000 +0000" channel="Hub VVDrama.starhub">
-        <title>The Escape of the Seven</title>
-    </programme>
-    <programme start="20250113003000 +0000" stop="20250113013000 +0000" channel="Hub VVDrama.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20250113013000 +0000" stop="20250113020000 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113020000 +0000" stop="20250113025500 +0000" channel="Hub VVDrama.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250113025500 +0000" stop="20250113035500 +0000" channel="Hub VVDrama.starhub">
-        <title>Big Biz Duel</title>
-    </programme>
-    <programme start="20250113035500 +0000" stop="20250113044500 +0000" channel="Hub VVDrama.starhub">
-        <title>Snowy Night Timeless Love</title>
-    </programme>
-    <programme start="20250113044500 +0000" stop="20250113051500 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113051500 +0000" stop="20250113060000 +0000" channel="Hub VVDrama.starhub">
-        <title>The Legend of Heroes</title>
-    </programme>
-    <programme start="20250113060000 +0000" stop="20250113064500 +0000" channel="Hub VVDrama.starhub">
-        <title>The Legend of Heroes</title>
-    </programme>
-    <programme start="20250113064500 +0000" stop="20250113073000 +0000" channel="Hub VVDrama.starhub">
-        <title>Only For Love</title>
-    </programme>
-    <programme start="20250113073000 +0000" stop="20250113081500 +0000" channel="Hub VVDrama.starhub">
-        <title>Only For Love</title>
-    </programme>
-    <programme start="20250113081500 +0000" stop="20250113090000 +0000" channel="Hub VVDrama.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20250113090000 +0000" stop="20250113094500 +0000" channel="Hub VVDrama.starhub">
-        <title>From Hong Kong To Beijing</title>
-    </programme>
-    <programme start="20250113094500 +0000" stop="20250113103500 +0000" channel="Hub VVDrama.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250113103500 +0000" stop="20250113110000 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="Hub VVDrama.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20250113120000 +0000" stop="20250113130000 +0000" channel="Hub VVDrama.starhub">
-        <title>Big Biz Duel</title>
-    </programme>
-    <programme start="20250113130000 +0000" stop="20250113140000 +0000" channel="Hub VVDrama.starhub">
-        <title>Snowy Night Timeless Love</title>
-    </programme>
-    <programme start="20250113140000 +0000" stop="20250113143000 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113143000 +0000" stop="20250113152000 +0000" channel="Hub VVDrama.starhub">
-        <title>Treasure Of Destiny</title>
-    </programme>
-    <programme start="20250113152000 +0000" stop="20250113161500 +0000" channel="Hub VVDrama.starhub">
-        <title>Treasure Of Destiny</title>
-    </programme>
-    <programme start="20250113161500 +0000" stop="20250113173000 +0000" channel="Hub VVDrama.starhub">
-        <title>The Escape of the Seven</title>
-    </programme>
-    <programme start="20250113173000 +0000" stop="20250113183000 +0000" channel="Hub VVDrama.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20250113183000 +0000" stop="20250113190000 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="Hub VVDrama.starhub">
-        <title>Big Biz Duel</title>
-    </programme>
-    <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="Hub VVDrama.starhub">
-        <title>Snowy Night Timeless Love</title>
-    </programme>
-    <programme start="20250113210000 +0000" stop="20250113213000 +0000" channel="Hub VVDrama.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20250113213000 +0000" stop="20250113222000 +0000" channel="Hub VVDrama.starhub">
-        <title>Treasure Of Destiny</title>
-    </programme>
-    <programme start="20250113222000 +0000" stop="20250113231000 +0000" channel="Hub VVDrama.starhub">
-        <title>Treasure Of Destiny</title>
-    </programme>
     <programme start="20250113231000 +0000" stop="20250114003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven</title>
     </programme>
@@ -27647,6 +27560,93 @@
     </programme>
     <programme start="20250116103500 +0000" stop="20250116110000 +0000" channel="Hub VVDrama.starhub">
         <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250116110000 +0000" stop="20250116120000 +0000" channel="Hub VVDrama.starhub">
+        <title>Shining Just for You</title>
+    </programme>
+    <programme start="20250116120000 +0000" stop="20250116130000 +0000" channel="Hub VVDrama.starhub">
+        <title>Big Biz Duel</title>
+    </programme>
+    <programme start="20250116130000 +0000" stop="20250116140000 +0000" channel="Hub VVDrama.starhub">
+        <title>Snowy Night Timeless Love</title>
+    </programme>
+    <programme start="20250116140000 +0000" stop="20250116143000 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250116143000 +0000" stop="20250116152000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250116152000 +0000" stop="20250116161500 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250116161500 +0000" stop="20250116173000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Escape of the Seven</title>
+    </programme>
+    <programme start="20250116173000 +0000" stop="20250116183000 +0000" channel="Hub VVDrama.starhub">
+        <title>Shining Just for You</title>
+    </programme>
+    <programme start="20250116183000 +0000" stop="20250116190000 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250116190000 +0000" stop="20250116200000 +0000" channel="Hub VVDrama.starhub">
+        <title>Big Biz Duel</title>
+    </programme>
+    <programme start="20250116200000 +0000" stop="20250116210000 +0000" channel="Hub VVDrama.starhub">
+        <title>Snowy Night Timeless Love</title>
+    </programme>
+    <programme start="20250116210000 +0000" stop="20250116213000 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250116213000 +0000" stop="20250116222000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250116222000 +0000" stop="20250116231500 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250116231500 +0000" stop="20250117003000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Escape of the Seven</title>
+    </programme>
+    <programme start="20250117003000 +0000" stop="20250117013000 +0000" channel="Hub VVDrama.starhub">
+        <title>Shining Just for You</title>
+    </programme>
+    <programme start="20250117013000 +0000" stop="20250117020000 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250117020000 +0000" stop="20250117025500 +0000" channel="Hub VVDrama.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250117025500 +0000" stop="20250117035500 +0000" channel="Hub VVDrama.starhub">
+        <title>Big Biz Duel</title>
+    </programme>
+    <programme start="20250117035500 +0000" stop="20250117044500 +0000" channel="Hub VVDrama.starhub">
+        <title>Snowy Night Timeless Love</title>
+    </programme>
+    <programme start="20250117044500 +0000" stop="20250117051500 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250117051500 +0000" stop="20250117060500 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250117060500 +0000" stop="20250117070000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Legend of Heroes</title>
+    </programme>
+    <programme start="20250117070000 +0000" stop="20250117081500 +0000" channel="Hub VVDrama.starhub">
+        <title>Kill Heel</title>
+    </programme>
+    <programme start="20250117081500 +0000" stop="20250117090000 +0000" channel="Hub VVDrama.starhub">
+        <title>Shining Just for You</title>
+    </programme>
+    <programme start="20250117090000 +0000" stop="20250117094500 +0000" channel="Hub VVDrama.starhub">
+        <title>From Hong Kong To Beijing</title>
+    </programme>
+    <programme start="20250117094500 +0000" stop="20250117103500 +0000" channel="Hub VVDrama.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250117103500 +0000" stop="20250117110000 +0000" channel="Hub VVDrama.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20250117110000 +0000" stop="20250117120000 +0000" channel="Hub VVDrama.starhub">
+        <title>Shining Just for You</title>
     </programme>
     <programme start="20250112234000 +0000" stop="20250113003000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
