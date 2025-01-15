@@ -6421,7 +6421,7 @@
         <title>Shameless</title>
     </programme>
     <programme start="20250115225500 +0000" stop="20250115235500 +0000" channel="That's TV">
-        <title>When the Boat Comes In</title>
+        <title>You Rang, M'Lord?</title>
     </programme>
     <programme start="20250114214000 +0000" stop="20250114230000 +0000" channel="PBS America">
         <title>The Long Road to War</title>
@@ -14092,7 +14092,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Eurosport 2 HD">
-        <title>Australian Open Tennis</title>
+        <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115130000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
@@ -24868,7 +24868,7 @@
         <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250115110000 +0000" stop="20250115120000 +0000" channel="QVC Style HD">
-        <title>White Stuff Sale</title>
+        <title>Vionic Footwear Deals</title>
     </programme>
     <programme start="20250115120000 +0000" stop="20250115130000 +0000" channel="QVC Style HD">
         <title>Up to 50% off Moda in Pelle Sale</title>
@@ -25339,16 +25339,16 @@
         <title>Car Shark Waterless ...</title>
     </programme>
     <programme start="20250115140000 +0000" stop="20250115150000 +0000" channel="Ideal World HD">
-        <title>Fashion Focus with Sally</title>
+        <title>Fashion Focus with Emma</title>
     </programme>
     <programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="Ideal World HD">
-        <title>JO &amp; JOE Winter Slippers with Sally</title>
+        <title>JO &amp; JOE Winter Slippers with Emma</title>
     </programme>
     <programme start="20250115160000 +0000" stop="20250115170000 +0000" channel="Ideal World HD">
-        <title>La Marey Fashion with Sally</title>
+        <title>La Marey Fashion with Emma</title>
     </programme>
     <programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="Ideal World HD">
-        <title>Fashion Focus with Sally</title>
+        <title>Fashion Focus with Emma</title>
     </programme>
     <programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="Ideal World HD">
         <title>Stress Remedy with Gill &amp; Mike</title>
@@ -34951,7 +34951,7 @@
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Eurosport 2">
-        <title>Australian Open Tennis</title>
+        <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250115100000 +0000" stop="20250115130000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
