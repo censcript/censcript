@@ -1674,19 +1674,19 @@
     <programme start="20250116193000 +0000" stop="20250116210000 +0000" channel="ITV2 HD">
         <title>Fantastic Beasts and Where to Find Them</title>
     </programme>
-    <programme start="20250116210000 +0000" stop="20250116220500 +0000" channel="ITV2 HD">
+    <programme start="20250116210000 +0000" stop="20250116222000 +0000" channel="ITV2 HD">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250116220500 +0000" stop="20250116224000 +0000" channel="ITV2 HD">
+    <programme start="20250116222000 +0000" stop="20250116225000 +0000" channel="ITV2 HD">
         <title>G'wed</title>
     </programme>
-    <programme start="20250116224000 +0000" stop="20250116230500 +0000" channel="ITV2 HD">
+    <programme start="20250116225000 +0000" stop="20250116232000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250116230500 +0000" stop="20250116233500 +0000" channel="ITV2 HD">
+    <programme start="20250116232000 +0000" stop="20250116235000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250116233500 +0000" stop="20250117003500 +0000" channel="ITV2 HD">
+    <programme start="20250116235000 +0000" stop="20250117005000 +0000" channel="ITV2 HD">
         <title>American Dad!</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="ITV3 HD">
@@ -8316,13 +8316,13 @@
     <programme start="20250116203000 +0000" stop="20250116220000 +0000" channel="ITV2+1">
         <title>Fantastic Beasts and Where to Find Them</title>
     </programme>
-    <programme start="20250116220000 +0000" stop="20250116230500 +0000" channel="ITV2+1">
+    <programme start="20250116220000 +0000" stop="20250116232000 +0000" channel="ITV2+1">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250116230500 +0000" stop="20250116234000 +0000" channel="ITV2+1">
+    <programme start="20250116232000 +0000" stop="20250116235000 +0000" channel="ITV2+1">
         <title>G'wed</title>
     </programme>
-    <programme start="20250116234000 +0000" stop="20250117004000 +0000" channel="ITV2+1">
+    <programme start="20250116235000 +0000" stop="20250117005000 +0000" channel="ITV2+1">
         <title>Family Guy</title>
     </programme>
     <programme start="20250115210000 +0000" stop="20250115230000 +0000" channel="ITV3+1">
@@ -14028,10 +14028,10 @@
     <programme start="20250116080000 +0000" stop="20250116100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250116100000 +0000" stop="20250116141500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250116100000 +0000" stop="20250116143000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250116141500 +0000" stop="20250116145000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250116143000 +0000" stop="20250116145000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250116145000 +0000" stop="20250116160000 +0000" channel="Eurosport 2 HD">
@@ -30576,11 +30576,8 @@
     <programme start="20250116115500 +0000" stop="20250116120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250116120000 +0000" stop="20250116120900 +0000" channel="ATN">
+    <programme start="20250116120000 +0000" stop="20250116121500 +0000" channel="ATN">
         <title>Omor Akbor</title>
-    </programme>
-    <programme start="20250116120900 +0000" stop="20250116121500 +0000" channel="ATN">
-        <title>Tezi Shontan</title>
     </programme>
     <programme start="20250116121500 +0000" stop="20250116122000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
@@ -30588,10 +30585,7 @@
     <programme start="20250116122000 +0000" stop="20250116140000 +0000" channel="ATN">
         <title>Omor Akbor</title>
     </programme>
-    <programme start="20250116140000 +0000" stop="20250116141800 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250116141800 +0000" stop="20250116143000 +0000" channel="ATN">
+    <programme start="20250116140000 +0000" stop="20250116143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250116143000 +0000" stop="20250116143600 +0000" channel="ATN">
@@ -30600,19 +30594,13 @@
     <programme start="20250116143600 +0000" stop="20250116144100 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250116144100 +0000" stop="20250116153000 +0000" channel="ATN">
+    <programme start="20250116144100 +0000" stop="20250116155500 +0000" channel="ATN">
         <title>Omor Akbor</title>
-    </programme>
-    <programme start="20250116153000 +0000" stop="20250116155500 +0000" channel="ATN">
-        <title>Tezi Shontan</title>
     </programme>
     <programme start="20250116155500 +0000" stop="20250116160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116160300 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250116160300 +0000" stop="20250116162600 +0000" channel="ATN">
+    <programme start="20250116160000 +0000" stop="20250116162600 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250116162600 +0000" stop="20250116163100 +0000" channel="ATN">
@@ -30627,10 +30615,7 @@
     <programme start="20250116170000 +0000" stop="20250116173000 +0000" channel="ATN">
         <title>Shapla Shaluk</title>
     </programme>
-    <programme start="20250116173000 +0000" stop="20250116174000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250116174000 +0000" stop="20250116180000 +0000" channel="ATN">
+    <programme start="20250116173000 +0000" stop="20250116180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250116180000 +0000" stop="20250116180500 +0000" channel="ATN">
@@ -30996,10 +30981,7 @@
     <programme start="20250116121500 +0000" stop="20250116122000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250116122000 +0000" stop="20250116125000 +0000" channel="iON TV">
-        <title>Drama Time</title>
-    </programme>
-    <programme start="20250116125000 +0000" stop="20250116130000 +0000" channel="iON TV">
+    <programme start="20250116122000 +0000" stop="20250116130000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
     <programme start="20250116130000 +0000" stop="20250116133000 +0000" channel="iON TV">
@@ -31023,10 +31005,7 @@
     <programme start="20250116153000 +0000" stop="20250116160000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116161200 +0000" channel="iON TV">
-        <title>Music Hour</title>
-    </programme>
-    <programme start="20250116161200 +0000" stop="20250116162600 +0000" channel="iON TV">
+    <programme start="20250116160000 +0000" stop="20250116162600 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
     <programme start="20250116162600 +0000" stop="20250116163100 +0000" channel="iON TV">
@@ -31035,11 +31014,8 @@
     <programme start="20250116163100 +0000" stop="20250116170000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250116170000 +0000" stop="20250116180000 +0000" channel="iON TV">
+    <programme start="20250116170000 +0000" stop="20250116180300 +0000" channel="iON TV">
         <title>News Room</title>
-    </programme>
-    <programme start="20250116180000 +0000" stop="20250116180300 +0000" channel="iON TV">
-        <title>Drama Time</title>
     </programme>
     <programme start="20250116180300 +0000" stop="20250116180800 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
