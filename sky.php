@@ -1431,19 +1431,22 @@
     <programme start="20250117234000 +0000" stop="20250118004000 +0000" channel="BBC Three HD">
         <title>Dubai Hustle</title>
     </programme>
-    <programme start="20250116224500 +0000" stop="20250117002500 +0000" channel="BBC Four HD">
+    <programme start="20250116200000 +0000" stop="20250116233000 +0000" channel="BBC Four HD">
+        <title>Masters Snooker</title>
+    </programme>
+    <programme start="20250116233000 +0000" stop="20250117011000 +0000" channel="BBC Four HD">
         <title>The Wooden Horse</title>
     </programme>
-    <programme start="20250117002500 +0000" stop="20250117011000 +0000" channel="BBC Four HD">
+    <programme start="20250117011000 +0000" stop="20250117015500 +0000" channel="BBC Four HD">
         <title>War Films: Talking Pictures</title>
     </programme>
-    <programme start="20250117011000 +0000" stop="20250117032000 +0000" channel="BBC Four HD">
+    <programme start="20250117015500 +0000" stop="20250117040500 +0000" channel="BBC Four HD">
         <title>The US and the Holocaust</title>
     </programme>
-    <programme start="20250117032000 +0000" stop="20250117042000 +0000" channel="BBC Four HD">
+    <programme start="20250117040500 +0000" stop="20250117050500 +0000" channel="BBC Four HD">
         <title>Building Britain's Biggest Nuclear Power Station</title>
     </programme>
-    <programme start="20250117042000 +0000" stop="20250117053000 +0000" channel="BBC Four HD">
+    <programme start="20250117050500 +0000" stop="20250117053000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250117053000 +0000" stop="20250117113000 +0000" channel="BBC Four HD">
@@ -13911,7 +13914,10 @@
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250116223000 +0000" stop="20250117003000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250116184500 +0000" stop="20250116233000 +0000" channel="Eurosport 1 HD">
+        <title>Live Snooker: The Masters</title>
+    </programme>
+    <programme start="20250116233000 +0000" stop="20250117003000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250117003000 +0000" stop="20250117020000 +0000" channel="Eurosport 1 HD">
@@ -29814,26 +29820,26 @@
     <programme start="20250117010000 +0000" stop="20250117034000 +0000" channel="Kanshi TV">
         <title>Gardish - 1993</title>
     </programme>
-    <programme start="20250117034000 +0000" stop="20250117070000 +0000" channel="Kanshi TV">
+    <programme start="20250117034000 +0000" stop="20250117071000 +0000" channel="Kanshi TV">
         <title>Amrit Bani</title>
     </programme>
-    <programme start="20250117070000 +0000" stop="20250117090000 +0000" channel="Kanshi TV">
+    <programme start="20250117071000 +0000" stop="20250117090000 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
     </programme>
     <programme start="20250117090000 +0000" stop="20250117093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250117093000 +0000" stop="20250117094500 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250117094500 +0000" stop="20250117110000 +0000" channel="Kanshi TV">
+    <programme start="20250117093000 +0000" stop="20250117110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250117110000 +0000" stop="20250117123000 +0000" channel="Kanshi TV">
         <title>Jyotish Amrit Mata - Astrologer</title>
     </programme>
-    <programme start="20250117123000 +0000" stop="20250117133000 +0000" channel="Kanshi TV">
+    <programme start="20250117123000 +0000" stop="20250117130000 +0000" channel="Kanshi TV">
         <title>Bharat ki Awaz</title>
+    </programme>
+    <programme start="20250117130000 +0000" stop="20250117133000 +0000" channel="Kanshi TV">
+        <title>Kanshi TV Cooking Show</title>
     </programme>
     <programme start="20250117133000 +0000" stop="20250117140000 +0000" channel="Kanshi TV">
         <title>Kanshi TV Cooking Show</title>
@@ -34599,7 +34605,10 @@
     <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="TNTSports2 HD">
         <title>Premier League Preview</title>
     </programme>
-    <programme start="20250116223000 +0000" stop="20250117003000 +0000" channel="Eurosport 1">
+    <programme start="20250116184500 +0000" stop="20250116233000 +0000" channel="Eurosport 1">
+        <title>Live Snooker: The Masters</title>
+    </programme>
+    <programme start="20250116233000 +0000" stop="20250117003000 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250117003000 +0000" stop="20250117020000 +0000" channel="Eurosport 1">
