@@ -12405,10 +12405,7 @@
     <programme start="20250117080000 +0000" stop="20250117094000 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
     </programme>
-    <programme start="20250117094000 +0000" stop="20250117100000 +0000" channel="MTV HITS">
-        <title>Worldwide Hits!</title>
-    </programme>
-    <programme start="20250117100000 +0000" stop="20250117140000 +0000" channel="MTV HITS">
+    <programme start="20250117094000 +0000" stop="20250117140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250117140000 +0000" stop="20250117150000 +0000" channel="MTV HITS">
@@ -12468,10 +12465,7 @@
     <programme start="20250117090000 +0000" stop="20250117131500 +0000" channel="MTV 80s">
         <title>Top 50 Greatest 80s Debuts!</title>
     </programme>
-    <programme start="20250117131500 +0000" stop="20250117140000 +0000" channel="MTV 80s">
-        <title>Pump Up The 80s Party!</title>
-    </programme>
-    <programme start="20250117140000 +0000" stop="20250117170000 +0000" channel="MTV 80s">
+    <programme start="20250117131500 +0000" stop="20250117170000 +0000" channel="MTV 80s">
         <title>Pump Up The 80s Party!</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="MTV 80s">
@@ -13593,11 +13587,8 @@
     <programme start="20250117223000 +0000" stop="20250117224500 +0000" channel="SkySp NFL HD">
         <title>NFL: Packers @ Eagles Hlts</title>
     </programme>
-    <programme start="20250117224500 +0000" stop="20250117231500 +0000" channel="SkySp NFL HD">
+    <programme start="20250117224500 +0000" stop="20250117233000 +0000" channel="SkySp NFL HD">
         <title>Chiefs: The Franchise</title>
-    </programme>
-    <programme start="20250117231500 +0000" stop="20250117233000 +0000" channel="SkySp NFL HD">
-        <title>Here Come the Irish</title>
     </programme>
     <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="SkySp NFL HD">
         <title>Here Come the Irish</title>
@@ -14515,7 +14506,7 @@
         <title>NBA Action</title>
     </programme>
     <programme start="20250117163000 +0000" stop="20250117173000 +0000" channel="TNT Sports 4">
-        <title>NBA Classic</title>
+        <title>Exeter Chiefs W v Bristol Bears W</title>
     </programme>
     <programme start="20250117173000 +0000" stop="20250117190000 +0000" channel="TNT Sports 4">
         <title>NBA: Cavaliers @ Thunder</title>
@@ -14646,8 +14637,11 @@
     <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250117060000 +0000" stop="20250117083000 +0000" channel="Racing TV">
+    <programme start="20250117060000 +0000" stop="20250117073000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
+    </programme>
+    <programme start="20250117073000 +0000" stop="20250117083000 +0000" channel="Racing TV">
+        <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250117083000 +0000" stop="20250117094500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
@@ -24268,7 +24262,7 @@
         <title>Beauty Loves with M. Asam</title>
     </programme>
     <programme start="20250117120000 +0000" stop="20250117130000 +0000" channel="QVC HD">
-        <title>Fashion Accessories</title>
+        <title>Accessories with Muk Luks</title>
     </programme>
     <programme start="20250117130000 +0000" stop="20250117140000 +0000" channel="QVC HD">
         <title>The Lunchtime Show</title>
@@ -24298,7 +24292,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="QVC HD">
-        <title>QVC Sale</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250116230000 +0000" channel="MstHveIdeasHD">
         <title>At Home with Hannah</title>
@@ -24526,7 +24520,7 @@
         <title>Beauty Loves...</title>
     </programme>
     <programme start="20250117210000 +0000" stop="20250117220000 +0000" channel="QVC Beauty">
-        <title>Beauty Insider with Alison Young</title>
+        <title>Proto-Col</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
@@ -24544,7 +24538,7 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250117010000 +0000" stop="20250117020000 +0000" channel="QVC Style HD">
-        <title>Diamonique Jewellery</title>
+        <title>Diamonique Jewellery on 4EZ</title>
     </programme>
     <programme start="20250117020000 +0000" stop="20250117030000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -24556,10 +24550,10 @@
         <title>Up to 50% off Monsoon Sale</title>
     </programme>
     <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250117060000 +0000" stop="20250117070000 +0000" channel="QVC Style HD">
-        <title>Skechers Footwear</title>
+        <title>New Season Styles from Skechers</title>
     </programme>
     <programme start="20250117070000 +0000" stop="20250117080000 +0000" channel="QVC Style HD">
         <title>Up to 50% off MarlaWynne Sale</title>
@@ -24568,7 +24562,7 @@
         <title>Up to 50% off MarlaWynne Sale</title>
     </programme>
     <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="QVC Style HD">
-        <title>QVC Selection</title>
+        <title>Fashion Sale</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117110000 +0000" channel="QVC Style HD">
         <title>Diamonique Jewellery</title>
@@ -24577,7 +24571,7 @@
         <title>Up to 40% off Frank Usher Sale</title>
     </programme>
     <programme start="20250117120000 +0000" stop="20250117130000 +0000" channel="QVC Style HD">
-        <title>Helene Berman London</title>
+        <title>New Year, New Helene Berman</title>
     </programme>
     <programme start="20250117130000 +0000" stop="20250117140000 +0000" channel="QVC Style HD">
         <title>Radley London</title>
@@ -25003,10 +24997,10 @@
         <title>Last Week's Bestsellers with Yiannis</title>
     </programme>
     <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Yiannis</title>
     </programme>
     <programme start="20250117010000 +0000" stop="20250117020000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Yiannis</title>
     </programme>
     <programme start="20250117020000 +0000" stop="20250117030000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -25021,10 +25015,10 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250117060000 +0000" stop="20250117070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>numii Everyday Collagen with Natalia</title>
     </programme>
     <programme start="20250117070000 +0000" stop="20250117080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Sarrosi menoTHRIVE with Natalia</title>
     </programme>
     <programme start="20250117080000 +0000" stop="20250117090000 +0000" channel="Ideal World HD">
         <title>Ideal Beauty with Natalia</title>
@@ -25033,46 +25027,46 @@
         <title>Ideal Beauty with Natalia</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Link2Home Outdoor Floodlight Camera with Peter</title>
     </programme>
     <programme start="20250117110000 +0000" stop="20250117120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Homesmart Cordless Electric Spin Mop with Peter</title>
     </programme>
     <programme start="20250117120000 +0000" stop="20250117130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>TSB! Electric Hot Water Bottle with Peter</title>
     </programme>
     <programme start="20250117130000 +0000" stop="20250117140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Homesmart 10-in-1 Food Processor with Peter</title>
     </programme>
     <programme start="20250117140000 +0000" stop="20250117150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Doux Tete Hair Care with Emma</title>
     </programme>
     <programme start="20250117150000 +0000" stop="20250117160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Emelia Knitted Skirts &amp; Tops with Emma</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>La Marey V-Neck Jumper &amp; More with Emma</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Mix &amp; Match Accessories with Emma</title>
     </programme>
     <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Satin Storage Bags with Mike</title>
     </programme>
     <programme start="20250117190000 +0000" stop="20250117200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Wireless Weather Station with Mike</title>
     </programme>
     <programme start="20250117200000 +0000" stop="20250117210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Luna'mour Nufit Pro LED &amp; ...</title>
     </programme>
     <programme start="20250117210000 +0000" stop="20250117220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Gresham Watches with Mike</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Men's Fashion with Yiannis</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home Accessories with Yiannis</title>
     </programme>
     <programme start="20250116180000 +0000" stop="20250117000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -25222,13 +25216,13 @@
         <title>Trending Now: Top Technology</title>
     </programme>
     <programme start="20250117150000 +0000" stop="20250117160000 +0000" channel="QVC Extra">
-        <title>QVC Extra Highlights</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="QVC Extra">
         <title>Get it or Regret It Kitchen Finds</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="QVC Extra">
         <title>Fashion Steals and Deals</title>
@@ -25237,7 +25231,7 @@
         <title>QVC Extra Top Deals</title>
     </programme>
     <programme start="20250117200000 +0000" stop="20250117210000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Your Winter Garden</title>
     </programme>
     <programme start="20250117210000 +0000" stop="20250117220000 +0000" channel="QVC Extra">
         <title>Kitchen Deals with Ninja</title>
@@ -29197,7 +29191,7 @@
         <title>Bharam</title>
     </programme>
     <programme start="20250117030000 +0000" stop="20250117050000 +0000" channel="ARY Digital">
-        <title>Good Morning Pakistan</title>
+        <title>Ae Ishq-e-Junoon</title>
     </programme>
     <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="ARY Digital">
         <title>Iqra</title>
@@ -29577,14 +29571,17 @@
     <programme start="20250117133000 +0000" stop="20250117140000 +0000" channel="Sikh Channel">
         <title>Hukamnama Explanations</title>
     </programme>
-    <programme start="20250117140000 +0000" stop="20250117150000 +0000" channel="Sikh Channel">
+    <programme start="20250117140000 +0000" stop="20250117143000 +0000" channel="Sikh Channel">
         <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
-    <programme start="20250117150000 +0000" stop="20250117153000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+    <programme start="20250117143000 +0000" stop="20250117150000 +0000" channel="Sikh Channel">
+        <title>Appeal for Marriage Seva</title>
     </programme>
-    <programme start="20250117153000 +0000" stop="20250117170000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+    <programme start="20250117150000 +0000" stop="20250117163000 +0000" channel="Sikh Channel">
+        <title>Sukhmani Sahib</title>
+    </programme>
+    <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Sikh Channel">
+        <title>Appeal for Marriage Seva</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -29596,10 +29593,10 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250117193000 +0000" stop="20250117200000 +0000" channel="Sikh Channel">
-        <title>SC Pakistan Yatra</title>
+        <title>Appeal for Marriage Seva</title>
     </programme>
     <programme start="20250117200000 +0000" stop="20250117210000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
+        <title>New Virtual Reality Experience</title>
     </programme>
     <programme start="20250117210000 +0000" stop="20250117213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -29608,7 +29605,7 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Sikh Channel">
-        <title>SC Canada: Community Talk</title>
+        <title>Gal Punjab Di</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250117233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -29647,10 +29644,13 @@
         <title>Hukamnama Katha</title>
     </programme>
     <programme start="20250117080000 +0000" stop="20250117090000 +0000" channel="Sangat">
-        <title>Kavi Darbar</title>
+        <title>Good Morning Sangat</title>
     </programme>
-    <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="Sangat">
-        <title>Guru Nanak Nagar Housing Support</title>
+    <programme start="20250117090000 +0000" stop="20250117093000 +0000" channel="Sangat">
+        <title>Shudh Paath Bodh Gurbani Santhiya</title>
+    </programme>
+    <programme start="20250117093000 +0000" stop="20250117100000 +0000" channel="Sangat">
+        <title>Darshan Dedare</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117103000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
@@ -29668,13 +29668,16 @@
         <title>Sangat News</title>
     </programme>
     <programme start="20250117143000 +0000" stop="20250117150000 +0000" channel="Sangat">
-        <title>Gurmat Sewa Jatha's Pakistan Yatra Updat</title>
+        <title>Nirmal Soch</title>
     </programme>
     <programme start="20250117150000 +0000" stop="20250117160000 +0000" channel="Sangat">
         <title>Katha Vichar</title>
     </programme>
-    <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="Sangat">
+    <programme start="20250117160000 +0000" stop="20250117163000 +0000" channel="Sangat">
         <title>Naam Simran</title>
+    </programme>
+    <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Sangat">
+        <title>Shudh Paath Bodh Gurbani Santhiya</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="Sangat">
         <title>Rehraas Sahib Takht Sri Patna Sahib</title>
@@ -29682,8 +29685,11 @@
     <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Sangat">
         <title>Educate To Save</title>
     </programme>
-    <programme start="20250117190000 +0000" stop="20250117200000 +0000" channel="Sangat">
+    <programme start="20250117190000 +0000" stop="20250117193000 +0000" channel="Sangat">
         <title>Darshan Dedare</title>
+    </programme>
+    <programme start="20250117193000 +0000" stop="20250117200000 +0000" channel="Sangat">
+        <title>Kavi Darbar</title>
     </programme>
     <programme start="20250117200000 +0000" stop="20250117203000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -29692,7 +29698,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250117213000 +0000" stop="20250117220000 +0000" channel="Sangat">
-        <title>Kavi Darbar</title>
+        <title>Naam Simran</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
@@ -30816,8 +30822,11 @@
     <programme start="20250117153000 +0000" stop="20250117162800 +0000" channel="iON TV">
         <title>Madinar Alo</title>
     </programme>
-    <programme start="20250117162800 +0000" stop="20250117170000 +0000" channel="iON TV">
+    <programme start="20250117162800 +0000" stop="20250117163300 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250117163300 +0000" stop="20250117170000 +0000" channel="iON TV">
+        <title>Madinar Alo</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="iON TV">
         <title>Alor Pothe</title>
@@ -34650,10 +34659,7 @@
     <programme start="20250117100000 +0000" stop="20250117130500 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250117130500 +0000" stop="20250117132000 +0000" channel="Eurosport 2">
-        <title>Live Biathlon World Cup</title>
-    </programme>
-    <programme start="20250117132000 +0000" stop="20250117144000 +0000" channel="Eurosport 2">
+    <programme start="20250117130500 +0000" stop="20250117144000 +0000" channel="Eurosport 2">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250117144000 +0000" stop="20250117160000 +0000" channel="Eurosport 2">
@@ -34945,7 +34951,7 @@
         <title>NBA Action</title>
     </programme>
     <programme start="20250117163000 +0000" stop="20250117173000 +0000" channel="TNTSports4 HD">
-        <title>NBA Classic</title>
+        <title>Exeter Chiefs W v Bristol Bears W</title>
     </programme>
     <programme start="20250117173000 +0000" stop="20250117190000 +0000" channel="TNTSports4 HD">
         <title>NBA: Cavaliers @ Thunder</title>
