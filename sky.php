@@ -29674,7 +29674,7 @@
         <title>Katha Vichar</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117163000 +0000" channel="Sangat">
-        <title>Naam Simran</title>
+        <title>Dada Ji Diyan Battan</title>
     </programme>
     <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Sangat">
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
@@ -29686,7 +29686,7 @@
         <title>Educate To Save</title>
     </programme>
     <programme start="20250117190000 +0000" stop="20250117193000 +0000" channel="Sangat">
-        <title>Darshan Dedare</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250117193000 +0000" stop="20250117200000 +0000" channel="Sangat">
         <title>Kavi Darbar</title>
@@ -29697,11 +29697,8 @@
     <programme start="20250117203000 +0000" stop="20250117213000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
     </programme>
-    <programme start="20250117213000 +0000" stop="20250117220000 +0000" channel="Sangat">
+    <programme start="20250117213000 +0000" stop="20250117230000 +0000" channel="Sangat">
         <title>Naam Simran</title>
-    </programme>
-    <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Sangat">
-        <title>Hukamnama Katha</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250117233000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
