@@ -24580,7 +24580,7 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250117150000 +0000" stop="20250117160000 +0000" channel="QVC Style HD">
-        <title>Hobbs London Outlet</title>
+        <title>Hobbs London</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday with Julia</title>
@@ -28047,11 +28047,8 @@
     <programme start="20250117153000 +0000" stop="20250117160000 +0000" channel="Islam Channel">
         <title>World Kitchen</title>
     </programme>
-    <programme start="20250117160000 +0000" stop="20250117160500 +0000" channel="Islam Channel">
+    <programme start="20250117160000 +0000" stop="20250117161500 +0000" channel="Islam Channel">
         <title>Cooking Outdoors</title>
-    </programme>
-    <programme start="20250117160500 +0000" stop="20250117161500 +0000" channel="Islam Channel">
-        <title>Aya and Yusuf</title>
     </programme>
     <programme start="20250117161500 +0000" stop="20250117162200 +0000" channel="Islam Channel">
         <title>Tribute Dr. Refaat Alareer</title>
@@ -28353,8 +28350,11 @@
     <programme start="20250117140000 +0000" stop="20250117140500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250117140500 +0000" stop="20250117143800 +0000" channel="IQRA TV">
+    <programme start="20250117140500 +0000" stop="20250117143000 +0000" channel="IQRA TV">
         <title>Al-Khair Reports</title>
+    </programme>
+    <programme start="20250117143000 +0000" stop="20250117143800 +0000" channel="IQRA TV">
+        <title>Khasail-e-Nabwi SAW</title>
     </programme>
     <programme start="20250117143800 +0000" stop="20250117144300 +0000" channel="IQRA TV">
         <title>Asr Azan</title>
@@ -38128,7 +38128,7 @@
         <title>Radio Wales Drive</title>
     </programme>
     <programme start="20250117183000 +0000" stop="20250117190000 +0000" channel="BBC R Wales">
-        <title>Weigh, Hey and Up She Rises</title>
+        <title>Radio Wales Arts Show</title>
     </programme>
     <programme start="20250117190000 +0000" stop="20250117200000 +0000" channel="BBC R Wales">
         <title>Elin Fflur's 70s Playlist</title>
