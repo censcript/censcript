@@ -12402,8 +12402,11 @@
     <programme start="20250117060000 +0000" stop="20250117080000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250117080000 +0000" stop="20250117100000 +0000" channel="MTV HITS">
+    <programme start="20250117080000 +0000" stop="20250117094000 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
+    </programme>
+    <programme start="20250117094000 +0000" stop="20250117100000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
@@ -12462,8 +12465,11 @@
     <programme start="20250117060000 +0000" stop="20250117090000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
     </programme>
-    <programme start="20250117090000 +0000" stop="20250117140000 +0000" channel="MTV 80s">
+    <programme start="20250117090000 +0000" stop="20250117131500 +0000" channel="MTV 80s">
         <title>Top 50 Greatest 80s Debuts!</title>
+    </programme>
+    <programme start="20250117131500 +0000" stop="20250117140000 +0000" channel="MTV 80s">
+        <title>Pump Up The 80s Party!</title>
     </programme>
     <programme start="20250117140000 +0000" stop="20250117170000 +0000" channel="MTV 80s">
         <title>Pump Up The 80s Party!</title>
@@ -12603,7 +12609,10 @@
     <programme start="20250117233500 +0000" stop="20250118003500 +0000" channel="NOW 80s">
         <title>Best Played at 45 RPM!</title>
     </programme>
-    <programme start="20250116215000 +0000" stop="20250117010000 +0000" channel="NOW 90s &amp; 00s">
+    <programme start="20250116215000 +0000" stop="20250117000000 +0000" channel="NOW 90s &amp; 00s">
+        <title>Mellow Moments!</title>
+    </programme>
+    <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="NOW 90s &amp; 00s">
         <title>Mellow Moments!</title>
     </programme>
     <programme start="20250117010000 +0000" stop="20250117015000 +0000" channel="NOW 90s &amp; 00s">
@@ -13587,7 +13596,10 @@
     <programme start="20250117224500 +0000" stop="20250117231500 +0000" channel="SkySp NFL HD">
         <title>Chiefs: The Franchise</title>
     </programme>
-    <programme start="20250117231500 +0000" stop="20250118001500 +0000" channel="SkySp NFL HD">
+    <programme start="20250117231500 +0000" stop="20250117233000 +0000" channel="SkySp NFL HD">
+        <title>Here Come the Irish</title>
+    </programme>
+    <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="SkySp NFL HD">
         <title>Here Come the Irish</title>
     </programme>
     <programme start="20250116223000 +0000" stop="20250116230000 +0000" channel="SkySp News HD">
@@ -14616,10 +14628,28 @@
     <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="LFCTV HD">
         <title>Press Box</title>
     </programme>
-    <programme start="20250116223000 +0000" stop="20250117010000 +0000" channel="Racing TV">
+    <programme start="20250116223000 +0000" stop="20250117000000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250117010000 +0000" stop="20250117094500 +0000" channel="Racing TV">
+    <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="Racing TV">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117010000 +0000" stop="20250117023000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250117023000 +0000" stop="20250117033000 +0000" channel="Racing TV">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117033000 +0000" stop="20250117050000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="Racing TV">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117060000 +0000" stop="20250117083000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250117083000 +0000" stop="20250117094500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250117094500 +0000" stop="20250117101500 +0000" channel="Racing TV">
@@ -24421,13 +24451,13 @@
         <title>First Under £20 Day of 2025 with Mark</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="TJC HD">
-        <title>First Under £20 Day of 2025 with Derek</title>
+        <title>First Under £20 Day of 2025 with Adi &amp; Derek</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="TJC HD">
         <title>First Under £20 Day of 2025 with Adi &amp; Derek</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250116230000 +0000" channel="QVC Beauty">
-        <title>Supplement your Health</title>
+        <title>Supplement Your Health</title>
     </programme>
     <programme start="20250116230000 +0000" stop="20250117000000 +0000" channel="QVC Beauty">
         <title>Proto-Col</title>
@@ -25174,7 +25204,7 @@
         <title>Love Your Home</title>
     </programme>
     <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="QVC Extra">
-        <title>Last Minute Winter Boots Deals</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117110000 +0000" channel="QVC Extra">
         <title>QVC Extra Top Deals</title>
@@ -28038,8 +28068,11 @@
     <programme start="20250117162800 +0000" stop="20250117163300 +0000" channel="Islam Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250117163300 +0000" stop="20250117164500 +0000" channel="Islam Channel">
+    <programme start="20250117163300 +0000" stop="20250117164000 +0000" channel="Islam Channel">
         <title>Oh Allah</title>
+    </programme>
+    <programme start="20250117164000 +0000" stop="20250117164500 +0000" channel="Islam Channel">
+        <title>Dada and Me: When I Grow Up</title>
     </programme>
     <programme start="20250117164500 +0000" stop="20250117170000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Isha</title>
@@ -29166,11 +29199,8 @@
     <programme start="20250117030000 +0000" stop="20250117050000 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250117050000 +0000" stop="20250117053000 +0000" channel="ARY Digital">
+    <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="ARY Digital">
         <title>Iqra</title>
-    </programme>
-    <programme start="20250117053000 +0000" stop="20250117060000 +0000" channel="ARY Digital">
-        <title>Dars-e-Bukhari</title>
     </programme>
     <programme start="20250117060000 +0000" stop="20250117061800 +0000" channel="ARY Digital">
         <title>Aapa Shameem</title>
@@ -29718,11 +29748,8 @@
     <programme start="20250117103000 +0000" stop="20250117110000 +0000" channel="Akaal Channel">
         <title>Teleshopping: Kenya Trip</title>
     </programme>
-    <programme start="20250117110000 +0000" stop="20250117113000 +0000" channel="Akaal Channel">
+    <programme start="20250117110000 +0000" stop="20250117115500 +0000" channel="Akaal Channel">
         <title>Free Eye Glasses Seva in Punjab</title>
-    </programme>
-    <programme start="20250117113000 +0000" stop="20250117115500 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
     </programme>
     <programme start="20250117115500 +0000" stop="20250117120000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -34938,10 +34965,25 @@
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="TNTSports4 HD">
         <title>NBA: Rockets @ Kings</title>
     </programme>
-    <programme start="20250116223000 +0000" stop="20250117010000 +0000" channel="Racing TV HD">
+    <programme start="20250116223000 +0000" stop="20250117000000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250117010000 +0000" stop="20250117094500 +0000" channel="Racing TV HD">
+    <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="Racing TV HD">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117010000 +0000" stop="20250117023000 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250117023000 +0000" stop="20250117050000 +0000" channel="Racing TV HD">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117050000 +0000" stop="20250117073000 +0000" channel="Racing TV HD">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117073000 +0000" stop="20250117083000 +0000" channel="Racing TV HD">
+        <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250117083000 +0000" stop="20250117094500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250117094500 +0000" stop="20250117101500 +0000" channel="Racing TV HD">
@@ -35131,7 +35173,7 @@
         <title>News</title>
     </programme>
     <programme start="20250117011500 +0000" stop="20250117013000 +0000" channel="TRT World HD">
-        <title>Newsfeed</title>
+        <title>Israel &amp; US: The Cost Of Alliance</title>
     </programme>
     <programme start="20250117013000 +0000" stop="20250117020000 +0000" channel="TRT World HD">
         <title>Roundtable</title>
@@ -35188,7 +35230,7 @@
         <title>News</title>
     </programme>
     <programme start="20250117113000 +0000" stop="20250117120000 +0000" channel="TRT World HD">
-        <title>The Newsmakers</title>
+        <title>Israel &amp; US: The Cost Of Alliance</title>
     </programme>
     <programme start="20250117120000 +0000" stop="20250117130000 +0000" channel="TRT World HD">
         <title>Newshour</title>
