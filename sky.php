@@ -10521,8 +10521,11 @@
     <programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="Animal Plnt+1">
         <title>Shark Vortex</title>
     </programme>
-    <programme start="20250115230000 +0000" stop="20250116010000 +0000" channel="Animal Plnt+1">
+    <programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="Animal Plnt+1">
         <title>Alaska: The Last Frontier</title>
+    </programme>
+    <programme start="20250116000000 +0000" stop="20250116010000 +0000" channel="Animal Plnt+1">
+        <title>The Aquarium</title>
     </programme>
     <programme start="20250116010000 +0000" stop="20250116020000 +0000" channel="Animal Plnt+1">
         <title>The Aquarium</title>
@@ -13995,13 +13998,16 @@
     <programme start="20250116100000 +0000" stop="20250116130000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250116130000 +0000" stop="20250116163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250116130000 +0000" stop="20250116161000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: The Masters</title>
     </programme>
-    <programme start="20250116163000 +0000" stop="20250116173000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250116161000 +0000" stop="20250116163000 +0000" channel="Eurosport 1 HD">
         <title>Rally-Raid Dakar Saudi Arabia</title>
     </programme>
-    <programme start="20250116173000 +0000" stop="20250116184500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250116163000 +0000" stop="20250116171000 +0000" channel="Eurosport 1 HD">
+        <title>Rally-Raid Dakar Saudi Arabia</title>
+    </programme>
+    <programme start="20250116171000 +0000" stop="20250116184500 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250116184500 +0000" stop="20250116223000 +0000" channel="Eurosport 1 HD">
@@ -14034,10 +14040,10 @@
     <programme start="20250116143000 +0000" stop="20250116145000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250116145000 +0000" stop="20250116160000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250116145000 +0000" stop="20250116172000 +0000" channel="Eurosport 2 HD">
         <title>Biathlon: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116180000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250116172000 +0000" stop="20250116180000 +0000" channel="Eurosport 2 HD">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250116180000 +0000" stop="20250116190000 +0000" channel="Eurosport 2 HD">
@@ -15093,10 +15099,7 @@
     <programme start="20250116140000 +0000" stop="20250116143000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250116143000 +0000" stop="20250116144500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
-    </programme>
-    <programme start="20250116144500 +0000" stop="20250116150000 +0000" channel="BBC NEWS HD">
+    <programme start="20250116143000 +0000" stop="20250116150000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
     <programme start="20250116150000 +0000" stop="20250116153000 +0000" channel="BBC NEWS HD">
@@ -29907,11 +29910,8 @@
     <programme start="20250116150000 +0000" stop="20250116160000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116163000 +0000" channel="Akaal Channel">
+    <programme start="20250116160000 +0000" stop="20250116163500 +0000" channel="Akaal Channel">
         <title>Teleshopping</title>
-    </programme>
-    <programme start="20250116163000 +0000" stop="20250116163500 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
     </programme>
     <programme start="20250116163500 +0000" stop="20250116173000 +0000" channel="Akaal Channel">
         <title>Weekly Langar Sewa MP</title>
@@ -34833,13 +34833,16 @@
     <programme start="20250116100000 +0000" stop="20250116130000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250116130000 +0000" stop="20250116163000 +0000" channel="Eurosport 1">
+    <programme start="20250116130000 +0000" stop="20250116161000 +0000" channel="Eurosport 1">
         <title>Live Snooker: The Masters</title>
     </programme>
-    <programme start="20250116163000 +0000" stop="20250116173000 +0000" channel="Eurosport 1">
+    <programme start="20250116161000 +0000" stop="20250116163000 +0000" channel="Eurosport 1">
         <title>Rally-Raid Dakar Saudi Arabia</title>
     </programme>
-    <programme start="20250116173000 +0000" stop="20250116184500 +0000" channel="Eurosport 1">
+    <programme start="20250116163000 +0000" stop="20250116171000 +0000" channel="Eurosport 1">
+        <title>Rally-Raid Dakar Saudi Arabia</title>
+    </programme>
+    <programme start="20250116171000 +0000" stop="20250116184500 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250116184500 +0000" stop="20250116223000 +0000" channel="Eurosport 1">
@@ -34872,10 +34875,10 @@
     <programme start="20250116143000 +0000" stop="20250116145000 +0000" channel="Eurosport 2">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250116145000 +0000" stop="20250116160000 +0000" channel="Eurosport 2">
+    <programme start="20250116145000 +0000" stop="20250116172000 +0000" channel="Eurosport 2">
         <title>Biathlon: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116180000 +0000" channel="Eurosport 2">
+    <programme start="20250116172000 +0000" stop="20250116180000 +0000" channel="Eurosport 2">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250116180000 +0000" stop="20250116190000 +0000" channel="Eurosport 2">
