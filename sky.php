@@ -4653,7 +4653,10 @@
     <programme start="20250116190000 +0000" stop="20250116200000 +0000" channel="Quest Red">
         <title>Faking It</title>
     </programme>
-    <programme start="20250116200000 +0000" stop="20250116220000 +0000" channel="Quest Red">
+    <programme start="20250116200000 +0000" stop="20250116210000 +0000" channel="Quest Red">
+        <title>Murder On CCTV</title>
+    </programme>
+    <programme start="20250116210000 +0000" stop="20250116220000 +0000" channel="Quest Red">
         <title>Murder On CCTV</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250116233000 +0000" channel="Quest Red">
