@@ -30760,7 +30760,7 @@
         <title>iON Exclusive</title>
     </programme>
     <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250117010000 +0000" stop="20250117013000 +0000" channel="iON TV">
         <title>iON News Time</title>
