@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
-    <programme start="20250117180000 +0000" stop="20250117190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
-    <programme start="20250117185000 +0000" stop="20250117211000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Liverpool v Brighton and Hove Albion</title>
-    </programme>
     <programme start="20250118113000 +0000" stop="20250118145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Newcastle United v Bournemouth</title>
     </programme>
