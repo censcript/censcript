@@ -6697,7 +6697,7 @@
         <title>With Mother (R)</title>
     </programme>
     <programme start="20250116183500 +0000" stop="20250116192000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The &quot;Instruction Manual&quot; Show &quot;Anti-Aging for the Knees&quot; (R)</title>
+        <title>The &#039;Instruction Manual&#039; Show &#039;Anti-Aging for the Knees&#039; (R)</title>
     </programme>
     <programme start="20250116192000 +0000" stop="20250116192500 +0000" channel="NHK World Premium HD.starhub">
         <title>Hello! NHK WORLD-JAPAN (R)</title>
@@ -6709,10 +6709,10 @@
         <title>Grand Sumo New Year Tournament Highlights</title>
     </programme>
     <programme start="20250116200000 +0000" stop="20250116201500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Carnation&quot; Encore Eps. 95</title>
+        <title>Drama Serial &#039;Carnation&#039; Encore Eps. 95</title>
     </programme>
     <programme start="20250116201500 +0000" stop="20250116210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>History Detective &quot;Great Earthquakes in Japan&quot; (R)</title>
+        <title>History Detective &#039;Great Earthquakes in Japan&#039; (R)</title>
     </programme>
     <programme start="20250116210000 +0000" stop="20250116220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
@@ -6721,7 +6721,7 @@
         <title>News: Good Morning, Japan</title>
     </programme>
     <programme start="20250116230000 +0000" stop="20250116231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Omusubi&quot; Eps. 75</title>
+        <title>Drama Serial &#039;Omusubi&#039; Eps. 75</title>
     </programme>
     <programme start="20250116231500 +0000" stop="20250117005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
@@ -6736,7 +6736,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20250117010500 +0000" stop="20250117015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Special &quot;Flowers still bloom in a Hometown: a Marginal Hamlet of Noto Penins</title>
+        <title>NHK Special &#039;Flowers still bloom in a Hometown: a Marginal Hamlet of Noto Penins</title>
     </programme>
     <programme start="20250117015500 +0000" stop="20250117022500 +0000" channel="NHK World Premium HD.starhub">
         <title>A Tale of a Certain House (R)</title>
@@ -6757,10 +6757,10 @@
         <title>News</title>
     </programme>
     <programme start="20250117033000 +0000" stop="20250117034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 40</title>
+        <title>Drama Serial &#039;Come Come Everybody&#039; Encore Eps. 40</title>
     </programme>
     <programme start="20250117034500 +0000" stop="20250117040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Omusubi&quot; Eps. 75 (R)</title>
+        <title>Drama Serial &#039;Omusubi&#039; Eps. 75 (R)</title>
     </programme>
     <programme start="20250117040000 +0000" stop="20250117040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
@@ -7419,8 +7419,8 @@
     <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20250118140000 +0000" stop="20250118151000 +0000" channel="COLORS.starhub">
+        <title>Bigg Boss</title>
     </programme>
     <programme start="20250116000000 +0000" stop="20250116010000 +0000" channel="TVB Jade HD.starhub">
         <title>All That Is Bitter Is Sweet</title>
@@ -9600,7 +9600,7 @@
     <programme start="20250117230000 +0000" stop="20250118004500 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
-    <programme start="20250118005500 +0000" stop="20250118030000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250118004500 +0000" stop="20250118030000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 15 Al Hilal vs Al Fateh</title>
     </programme>
     <programme start="20250118030000 +0000" stop="20250118043000 +0000" channel="SPOTV2.starhub">
@@ -9642,10 +9642,10 @@
     <programme start="20250118220000 +0000" stop="20250118230000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250118230000 +0000" stop="20250119010500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250118230000 +0000" stop="20250119011500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 15 Al Hilal vs Al Fateh</title>
     </programme>
-    <programme start="20250119010500 +0000" stop="20250119030000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250119011500 +0000" stop="20250119030000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250119030000 +0000" stop="20250119043000 +0000" channel="SPOTV2.starhub">
@@ -9691,40 +9691,40 @@
         <title>Day 2</title>
     </programme>
     <programme start="20250120070000 +0000" stop="20250120080000 +0000" channel="SPOTV2.starhub">
-        <title>Dream On - Ducati and Bagnaia&#039;s Pursuit of Glory</title>
+        <title>AIG Women&#039;s Open 2024 Official Film</title>
     </programme>
     <programme start="20250120080000 +0000" stop="20250120120000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
     </programme>
     <programme start="20250120120000 +0000" stop="20250120123000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>Season 5</title>
     </programme>
     <programme start="20250120123000 +0000" stop="20250120130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250120130000 +0000" stop="20250120160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120130000 +0000" stop="20250120161500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250120160000 +0000" stop="20250120180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120161500 +0000" stop="20250120180000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
     </programme>
     <programme start="20250120180000 +0000" stop="20250120183000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250120183000 +0000" stop="20250120220000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
     </programme>
-    <programme start="20250120220000 +0000" stop="20250121010000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120220000 +0000" stop="20250121011500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250121010000 +0000" stop="20250121013000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+    <programme start="20250121011500 +0000" stop="20250121013000 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 16 Highlights Chiangrai United vs Port FC</title>
     </programme>
     <programme start="20250121013000 +0000" stop="20250121033000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250121033000 +0000" stop="20250121043000 +0000" channel="SPOTV2.starhub">
-        <title>Dream On - Ducati and Bagnaia&#039;s Pursuit of Glory</title>
+        <title>AIG Women&#039;s Open 2024 Official Film</title>
     </programme>
     <programme start="20250121043000 +0000" stop="20250121083000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
@@ -9741,11 +9741,14 @@
     <programme start="20250121160000 +0000" stop="20250121180000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
-    <programme start="20250121180000 +0000" stop="20250121220000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250121180000 +0000" stop="20250121210000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20250121220000 +0000" stop="20250122010000 +0000" channel="SPOTV2.starhub">
-        <title>Day 2</title>
+    <programme start="20250121210000 +0000" stop="20250122000000 +0000" channel="SPOTV2.starhub">
+        <title>Major League Baseball Hall of Fame 2025</title>
+    </programme>
+    <programme start="20250122000000 +0000" stop="20250122010000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250122010000 +0000" stop="20250122013000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
@@ -9757,7 +9760,7 @@
         <title>A Race To Remember</title>
     </programme>
     <programme start="20250122040000 +0000" stop="20250122043000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>Thai League 1 24/25 Matchday 17 Highlights Port FC vs Khonkaen United</title>
     </programme>
     <programme start="20250122043000 +0000" stop="20250122080000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
@@ -9766,7 +9769,7 @@
         <title>Day 3 Session 2</title>
     </programme>
     <programme start="20250122120000 +0000" stop="20250122130000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>The 152nd Open Official Film</title>
     </programme>
     <programme start="20250122130000 +0000" stop="20250122160000 +0000" channel="SPOTV2.starhub">
         <title>Day 3</title>
@@ -9781,7 +9784,7 @@
         <title>Day 4 Session 2</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250123010000 +0000" channel="SPOTV2.starhub">
-        <title>Day 3</title>
+        <title>Major League Baseball Hall of Fame 2025</title>
     </programme>
     <programme start="20250123010000 +0000" stop="20250123020000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -9790,10 +9793,10 @@
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
     </programme>
     <programme start="20250123043000 +0000" stop="20250123053000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>The 152nd Open Official Film</title>
     </programme>
     <programme start="20250123053000 +0000" stop="20250123060000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250123060000 +0000" stop="20250123080000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
@@ -9804,23 +9807,20 @@
     <programme start="20250123103000 +0000" stop="20250123120000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2</title>
     </programme>
-    <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="SPOTV2.starhub">
-        <title>Season 3</title>
+    <programme start="20250123120000 +0000" stop="20250123150000 +0000" channel="SPOTV2.starhub">
+        <title>Major League Baseball Hall of Fame 2025</title>
     </programme>
-    <programme start="20250123130000 +0000" stop="20250123160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250123150000 +0000" stop="20250123180000 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
     </programme>
-    <programme start="20250123160000 +0000" stop="20250123183000 +0000" channel="SPOTV2.starhub">
-        <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
+    <programme start="20250123180000 +0000" stop="20250123183000 +0000" channel="SPOTV2.starhub">
+        <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250123183000 +0000" stop="20250123200000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20250123200000 +0000" stop="20250123220000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
-    </programme>
-    <programme start="20250123220000 +0000" stop="20250124010000 +0000" channel="SPOTV2.starhub">
-        <title>Day 4</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -11200,16 +11200,22 @@
         <title>Ultimate Pool 2025: Group 3 Champions League</title>
     </programme>
     <programme start="20250121053000 +0000" stop="20250121060000 +0000" channel="beIN Sports HD.starhub">
-        <title>PSG TV Specials 2024/25</title>
+        <title>Mini Match - Bundesliga 2024/25: Heidenheim 1846 vs St. Pauli</title>
     </programme>
     <programme start="20250121060000 +0000" stop="20250121063000 +0000" channel="beIN Sports HD.starhub">
-        <title>This Is Paris 2024/25</title>
-    </programme>
-    <programme start="20250121063000 +0000" stop="20250121083000 +0000" channel="beIN Sports HD.starhub">
-        <title>PSG TV 2024/25: Espaly vs PSG - Coupe de France</title>
-    </programme>
-    <programme start="20250121083000 +0000" stop="20250121090000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - Bundesliga 2024/25: Leverkusen vs Monchengladbach</title>
+    </programme>
+    <programme start="20250121063000 +0000" stop="20250121070000 +0000" channel="beIN Sports HD.starhub">
+        <title>January</title>
+    </programme>
+    <programme start="20250121070000 +0000" stop="20250121073000 +0000" channel="beIN Sports HD.starhub">
+        <title>January</title>
+    </programme>
+    <programme start="20250121073000 +0000" stop="20250121080000 +0000" channel="beIN Sports HD.starhub">
+        <title>Rally Monte-Carlo</title>
+    </programme>
+    <programme start="20250121080000 +0000" stop="20250121090000 +0000" channel="beIN Sports HD.starhub">
+        <title>Auckland, New Zealand</title>
     </programme>
     <programme start="20250121090000 +0000" stop="20250121110000 +0000" channel="beIN Sports HD.starhub">
         <title>TGL 2025: Los Angeles Golf Club vs Jupiter Links Golf Club</title>
@@ -11275,7 +11281,7 @@
         <title>PSG TV 2024/25: Lens vs PSG</title>
     </programme>
     <programme start="20250122100000 +0000" stop="20250122103000 +0000" channel="beIN Sports HD.starhub">
-        <title>January</title>
+        <title>Rally Monte-Carlo</title>
     </programme>
     <programme start="20250122103000 +0000" stop="20250122110000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - Bundesliga 2024/25: Bayern vs Wolfsburg</title>
@@ -11315,12 +11321,6 @@
     </programme>
     <programme start="20250122195500 +0000" stop="20250122220000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Champions League 2024/25: Arsenal vs Dinamo Zagreb - MD7 (Live)</title>
-    </programme>
-    <programme start="20250122220000 +0000" stop="20250122221500 +0000" channel="beIN Sports HD.starhub">
-        <title>FC Union</title>
-    </programme>
-    <programme start="20250122221500 +0000" stop="20250122231500 +0000" channel="beIN Sports HD.starhub">
-        <title>Matchday 23</title>
     </programme>
     <programme start="20250115230000 +0000" stop="20250116013000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights Sergio Martinez vs. Matthew Macklin</title>
@@ -24813,16 +24813,16 @@
     <programme start="20250119164500 +0000" stop="20250119220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250120000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250119220000 +0000" stop="20250120014500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250120000000 +0000" stop="20250120040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250120014500 +0000" stop="20250120050000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
     </programme>
-    <programme start="20250120040000 +0000" stop="20250120080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250120050000 +0000" stop="20250120082000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M35 - Adelaide Strikers vs Sydney Sixers</title>
     </programme>
-    <programme start="20250120080000 +0000" stop="20250120120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250120082000 +0000" stop="20250120120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M36 - Brisbane Heat vs Hobart Hurricanes</title>
     </programme>
     <programme start="20250120120000 +0000" stop="20250120160000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -31426,6 +31426,93 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201145000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201145000 +0000" stop="20250201170000 +0000" channel="Hub Premier 4.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250201170000 +0000" stop="20250201220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250116040000 +0000" channel="Hub Premier 3.starhub">

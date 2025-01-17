@@ -573,62 +573,104 @@
     <programme start="20250117160000 +0000" stop="20250118120500 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 18th January, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Geylang International</title>
     </programme>
-    <programme start="20250116160000 +0000" stop="20250116170000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20250116163500 +0000" stop="20250116170000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
     </programme>
-    <programme start="20250116170000 +0000" stop="20250116180000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250116170000 +0000" stop="20250116175000 +0000" channel="now-80s.mewatch">
+        <title>Culture Club: 1982-1987</title>
     </programme>
-    <programme start="20250116180000 +0000" stop="20250116230000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250116175000 +0000" stop="20250116180000 +0000" channel="now-80s.mewatch">
+        <title>1987 Unleashed!</title>
     </programme>
-    <programme start="20250116230000 +0000" stop="20250117000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250116180000 +0000" stop="20250116190000 +0000" channel="now-80s.mewatch">
+        <title>Wild Boys! Duran Duran</title>
     </programme>
-    <programme start="20250117000000 +0000" stop="20250117010000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling!</title>
+    <programme start="20250116190000 +0000" stop="20250116200000 +0000" channel="now-80s.mewatch">
+        <title>Orchestral Manoeuvres! 1979-1991</title>
     </programme>
-    <programme start="20250117010000 +0000" stop="20250117040000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250116200000 +0000" stop="20250116223500 +0000" channel="now-80s.mewatch">
+        <title>Timmy Mallett&#039;s Brilliant Bands!</title>
     </programme>
-    <programme start="20250117040000 +0000" stop="20250117050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250116223500 +0000" stop="20250116230000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
     </programme>
-    <programme start="20250117050000 +0000" stop="20250117080000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250116230000 +0000" stop="20250117011000 +0000" channel="now-80s.mewatch">
+        <title>25 Rock Guilty Pleasures!</title>
     </programme>
-    <programme start="20250117080000 +0000" stop="20250117130000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling!</title>
+    <programme start="20250117011000 +0000" stop="20250117020000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop!</title>
     </programme>
-    <programme start="20250117130000 +0000" stop="20250117160000 +0000" channel="now-80s.mewatch">
-        <title>Get Fresh At The Weekend!</title>
+    <programme start="20250117020000 +0000" stop="20250117103000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s US No.1s! 1980-1989</title>
     </programme>
-    <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250117103000 +0000" stop="20250117113000 +0000" channel="now-80s.mewatch">
+        <title>Wild Boys! Duran Duran</title>
+    </programme>
+    <programme start="20250117113000 +0000" stop="20250117122500 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s US No.1s! 1980-1989</title>
+    </programme>
+    <programme start="20250117122500 +0000" stop="20250117130000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
+    </programme>
+    <programme start="20250117130000 +0000" stop="20250117153500 +0000" channel="now-80s.mewatch">
+        <title>Clare Grogan&#039;s Tartan Top 30</title>
+    </programme>
+    <programme start="20250117153500 +0000" stop="20250117160000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250117160000 +0000" stop="20250117180000 +0000" channel="now-80s.mewatch">
+        <title>Liverpool Legends! The Top 25</title>
     </programme>
     <programme start="20250116100000 +0000" stop="20250116195900 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250116195900 +0000" stop="20250116210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250116164500 +0000" stop="20250116170000 +0000" channel="now-70s.mewatch">
+        <title>Help Me Make It Through The Night!</title>
     </programme>
-    <programme start="20250116210000 +0000" stop="20250116220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250116170000 +0000" stop="20250116192500 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979</title>
     </programme>
-    <programme start="20250116220000 +0000" stop="20250116225900 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250116192500 +0000" stop="20250116220000 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes-Never Even A Top 10?</title>
     </programme>
-    <programme start="20250116225900 +0000" stop="20250117000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250116220000 +0000" stop="20250117001000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s 70s Soul!</title>
     </programme>
-    <programme start="20250117000000 +0000" stop="20250117090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250117001000 +0000" stop="20250117010000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
     </programme>
-    <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250117010000 +0000" stop="20250117044500 +0000" channel="now-70s.mewatch">
+        <title>It Spent How Long At No.1 ?!</title>
     </programme>
-    <programme start="20250117100000 +0000" stop="20250117195900 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250117044500 +0000" stop="20250117050000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
+    </programme>
+    <programme start="20250117050000 +0000" stop="20250117082500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50</title>
+    </programme>
+    <programme start="20250117082500 +0000" stop="20250117090000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
+    </programme>
+    <programme start="20250117090000 +0000" stop="20250117103000 +0000" channel="now-70s.mewatch">
+        <title>Total Legends! 1970-1979</title>
+    </programme>
+    <programme start="20250117103000 +0000" stop="20250117113000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979</title>
+    </programme>
+    <programme start="20250117113000 +0000" stop="20250117114000 +0000" channel="now-70s.mewatch">
+        <title>Total Legends! 1970-1979</title>
+    </programme>
+    <programme start="20250117114000 +0000" stop="20250117120000 +0000" channel="now-70s.mewatch">
+        <title>It&#039;s A Massive 70s Party Night!</title>
+    </programme>
+    <programme start="20250117120000 +0000" stop="20250117151000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Karaoke Party!</title>
+    </programme>
+    <programme start="20250117151000 +0000" stop="20250117160000 +0000" channel="now-70s.mewatch">
+        <title>It&#039;s A Massive 70s Party Night!</title>
+    </programme>
+    <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="now-70s.mewatch">
+        <title>Disco Battle! Boney M Vs Abba</title>
     </programme>
     <programme start="20250116160000 +0000" stop="20250116220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
