@@ -13614,23 +13614,32 @@
     <programme start="20250117083000 +0000" stop="20250117092500 +0000" channel="ABC Australia HD.starhub">
         <title>Sunday Island, Atherton Tablelands, Hobart</title>
     </programme>
-    <programme start="20250117092500 +0000" stop="20250117100000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250117092500 +0000" stop="20250117095500 +0000" channel="ABC Australia HD.starhub">
         <title>Long Spear</title>
+    </programme>
+    <programme start="20250117095500 +0000" stop="20250117100000 +0000" channel="ABC Australia HD.starhub">
+        <title>There are Four &#039;A&#039;s in Ballarat</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117103000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
     <programme start="20250117103000 +0000" stop="20250117110000 +0000" channel="ABC Australia HD.starhub">
-        <title>Spies In The Outback - The Secrets of Pine Gap</title>
+        <title>The Secrets of Pine Gap</title>
     </programme>
-    <programme start="20250117110000 +0000" stop="20250117120000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250117110000 +0000" stop="20250117114500 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America: Fireside Chat (2025)</title>
+    </programme>
+    <programme start="20250117114500 +0000" stop="20250117120000 +0000" channel="ABC Australia HD.starhub">
+        <title>Unloved Fish</title>
     </programme>
     <programme start="20250117120000 +0000" stop="20250117130000 +0000" channel="ABC Australia HD.starhub">
         <title>Gardening Australia S35</title>
     </programme>
-    <programme start="20250117130000 +0000" stop="20250117133000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250117130000 +0000" stop="20250117131500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
+    </programme>
+    <programme start="20250117131500 +0000" stop="20250117133000 +0000" channel="ABC Australia HD.starhub">
+        <title>Self-Made Woman</title>
     </programme>
     <programme start="20250117133000 +0000" stop="20250117140000 +0000" channel="ABC Australia HD.starhub">
         <title>Asia News Week (2025)</title>
@@ -13639,13 +13648,16 @@
         <title>The World (2025)</title>
     </programme>
     <programme start="20250117143000 +0000" stop="20250117150000 +0000" channel="ABC Australia HD.starhub">
-        <title>TBA</title>
+        <title>The Secrets of Pine Gap</title>
     </programme>
     <programme start="20250117150000 +0000" stop="20250117155000 +0000" channel="ABC Australia HD.starhub">
         <title>Sunday Island, Atherton Tablelands, Hobart</title>
     </programme>
-    <programme start="20250117155000 +0000" stop="20250117163000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250117155000 +0000" stop="20250117162000 +0000" channel="ABC Australia HD.starhub">
         <title>Long Spear</title>
+    </programme>
+    <programme start="20250117162000 +0000" stop="20250117163000 +0000" channel="ABC Australia HD.starhub">
+        <title>Almah</title>
     </programme>
     <programme start="20250117163000 +0000" stop="20250117164500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
@@ -13688,18 +13700,6 @@
     </programme>
     <programme start="20250118010000 +0000" stop="20250118013000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News At Noon (2025)</title>
-    </programme>
-    <programme start="20250118013000 +0000" stop="20250118020000 +0000" channel="ABC Australia HD.starhub">
-        <title>Asia News Week (2025)</title>
-    </programme>
-    <programme start="20250118020000 +0000" stop="20250118023000 +0000" channel="ABC Australia HD.starhub">
-        <title>Virginia Trioli</title>
-    </programme>
-    <programme start="20250118023000 +0000" stop="20250118040000 +0000" channel="ABC Australia HD.starhub">
-        <title>Our Law</title>
-    </programme>
-    <programme start="20250118040000 +0000" stop="20250118050000 +0000" channel="ABC Australia HD.starhub">
-        <title>Brisbane</title>
     </programme>
     <programme start="20250115000000 +0000" stop="20250115001100 +0000" channel="SONY MAX.starhub">
         <title>The Making Of Mubarakan</title>

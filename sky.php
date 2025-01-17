@@ -30363,8 +30363,11 @@
     <programme start="20250117200000 +0000" stop="20250117203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250117203000 +0000" stop="20250117213000 +0000" channel="IQRA Bangla">
+    <programme start="20250117203000 +0000" stop="20250117233000 +0000" channel="IQRA Bangla">
         <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250117000000 +0000" channel="ATN">
         <title>Charity Appeal</title>
