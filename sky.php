@@ -1431,22 +1431,22 @@
     <programme start="20250117234000 +0000" stop="20250118004000 +0000" channel="BBC Three HD">
         <title>Dubai Hustle</title>
     </programme>
-    <programme start="20250116200000 +0000" stop="20250116233000 +0000" channel="BBC Four HD">
+    <programme start="20250116200000 +0000" stop="20250116233500 +0000" channel="BBC Four HD">
         <title>Masters Snooker</title>
     </programme>
-    <programme start="20250116233000 +0000" stop="20250117011000 +0000" channel="BBC Four HD">
+    <programme start="20250116233500 +0000" stop="20250117011500 +0000" channel="BBC Four HD">
         <title>The Wooden Horse</title>
     </programme>
-    <programme start="20250117011000 +0000" stop="20250117015500 +0000" channel="BBC Four HD">
+    <programme start="20250117011500 +0000" stop="20250117020000 +0000" channel="BBC Four HD">
         <title>War Films: Talking Pictures</title>
     </programme>
-    <programme start="20250117015500 +0000" stop="20250117040500 +0000" channel="BBC Four HD">
+    <programme start="20250117020000 +0000" stop="20250117041000 +0000" channel="BBC Four HD">
         <title>The US and the Holocaust</title>
     </programme>
-    <programme start="20250117040500 +0000" stop="20250117050500 +0000" channel="BBC Four HD">
+    <programme start="20250117041000 +0000" stop="20250117051000 +0000" channel="BBC Four HD">
         <title>Building Britain's Biggest Nuclear Power Station</title>
     </programme>
-    <programme start="20250117050500 +0000" stop="20250117053000 +0000" channel="BBC Four HD">
+    <programme start="20250117051000 +0000" stop="20250117053000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250117053000 +0000" stop="20250117113000 +0000" channel="BBC Four HD">
@@ -15105,8 +15105,11 @@
     <programme start="20250117210000 +0000" stop="20250117214500 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250117214500 +0000" stop="20250117224500 +0000" channel="BBC Parl HD">
+    <programme start="20250117214500 +0000" stop="20250117230000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament</title>
+    </programme>
+    <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="BBC Parl HD">
+        <title>Welsh First Minister's Questions</title>
     </programme>
     <programme start="20250116223000 +0000" stop="20250116233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -30616,7 +30619,7 @@
         <title>Probashi Poribar</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="NTV">
-        <title>Akash Bhanga Bristi</title>
+        <title>Ami Kinto Serious</title>
     </programme>
     <programme start="20250116224500 +0000" stop="20250116231500 +0000" channel="TV One">
         <title>Journey to Day Of Judgement</title>
