@@ -3469,7 +3469,7 @@
         <title>Genius Go Go Go</title>
     </programme>
     <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="TVBS Asia.starhub">
-        <title>TVBS Sisy&#039;s World News Asia</title>
+        <title>TVBS Sisy&#039;s World News</title>
     </programme>
     <programme start="20250118140000 +0000" stop="20250118150000 +0000" channel="TVBS Asia.starhub">
         <title>TVBS Sisy&#039;s World News Europe</title>
@@ -7368,10 +7368,7 @@
     <programme start="20250118020000 +0000" stop="20250118023000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250118023000 +0000" stop="20250118030000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
-    </programme>
-    <programme start="20250118030000 +0000" stop="20250118033000 +0000" channel="COLORS.starhub">
+    <programme start="20250118023000 +0000" stop="20250118033000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250118033000 +0000" stop="20250118040000 +0000" channel="COLORS.starhub">
@@ -7418,6 +7415,9 @@
     </programme>
     <programme start="20250118120000 +0000" stop="20250118130000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    </programme>
+    <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -21433,7 +21433,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250117023000 +0000" stop="20250117030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Program</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250117030000 +0000" stop="20250117031500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -22131,38 +22131,83 @@
     <programme start="20250117223000 +0000" stop="20250118010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Padhavi Paduthum Paadu</title>
     </programme>
-    <programme start="20250118040000 +0000" stop="20250118100000 +0000" channel="KTV HD.starhub">
+    <programme start="20250118010000 +0000" stop="20250118013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20250118013000 +0000" stop="20250118043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aasal</title>
+    </programme>
+    <programme start="20250118043000 +0000" stop="20250118073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sayra Narasimma Reddy</title>
+    </programme>
+    <programme start="20250118073000 +0000" stop="20250118103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Maanagara kaaval</title>
+    </programme>
+    <programme start="20250118103000 +0000" stop="20250118133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Run</title>
+    </programme>
+    <programme start="20250118133000 +0000" stop="20250118170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Surya Vamsam</title>
+    </programme>
+    <programme start="20250118170000 +0000" stop="20250118200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aarathu Sinam</title>
+    </programme>
+    <programme start="20250118200000 +0000" stop="20250118223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Neelakuyil</title>
+    </programme>
+    <programme start="20250118223000 +0000" stop="20250119010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Uyarnthavan</title>
+    </programme>
+    <programme start="20250119010000 +0000" stop="20250119013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20250119013000 +0000" stop="20250119043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thiruttu Payalae</title>
+    </programme>
+    <programme start="20250119043000 +0000" stop="20250119073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nanbenda</title>
+    </programme>
+    <programme start="20250119073000 +0000" stop="20250119103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thirumalai</title>
+    </programme>
+    <programme start="20250119103000 +0000" stop="20250119133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Dharma Prabhu</title>
+    </programme>
+    <programme start="20250119133000 +0000" stop="20250119170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Idhaya thirudan</title>
+    </programme>
+    <programme start="20250119170000 +0000" stop="20250119200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Chennai 600028</title>
+    </programme>
+    <programme start="20250119200000 +0000" stop="20250119223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Killadi Mappillai</title>
+    </programme>
+    <programme start="20250119223000 +0000" stop="20250120010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Yogam Raja Yogam</title>
+    </programme>
+    <programme start="20250120010000 +0000" stop="20250120013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20250120013000 +0000" stop="20250120043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Urimai Unjal Aadukirathu</title>
+    </programme>
+    <programme start="20250120043000 +0000" stop="20250120073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thaaikulamae Thaaikulamae</title>
+    </programme>
+    <programme start="20250120073000 +0000" stop="20250120103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Veera Thalattu</title>
+    </programme>
+    <programme start="20250120103000 +0000" stop="20250120133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ponmanam</title>
+    </programme>
+    <programme start="20250120133000 +0000" stop="20250120170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Padikkathavan(Old)</title>
+    </programme>
+    <programme start="20250120170000 +0000" stop="20250120200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Neerparavai</title>
+    </programme>
+    <programme start="20250120200000 +0000" stop="20250120220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
-    </programme>
-    <programme start="20250118100000 +0000" stop="20250118170000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250118170000 +0000" stop="20250118220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250119040000 +0000" stop="20250119100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250119100000 +0000" stop="20250119170000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250119170000 +0000" stop="20250119220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250119220000 +0000" stop="20250120040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250120040000 +0000" stop="20250120100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250120100000 +0000" stop="20250120170000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250120170000 +0000" stop="20250120220000 +0000" channel="KTV HD.starhub">
-        <title>Movie</title>
     </programme>
     <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
@@ -31584,6 +31629,96 @@
     <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201145000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201145000 +0000" stop="20250201170000 +0000" channel="Hub Premier 3.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250201170000 +0000" stop="20250201220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202135000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202135000 +0000" stop="20250202160000 +0000" channel="Hub Premier 3.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250115220000 +0000" stop="20250116040000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31783,6 +31918,96 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202162000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202162000 +0000" stop="20250202183000 +0000" channel="Hub Premier 8.starhub">
+        <title>Premier League 2024/25 (Data Zone)</title>
+    </programme>
+    <programme start="20250202183000 +0000" stop="20250202220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250115220000 +0000" stop="20250116040000 +0000" channel="Hub Premier 6.starhub">

@@ -14008,7 +14008,7 @@
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Eurosport 2 HD">
-        <title>Biathlon World Cup</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="Eurosport 2 HD">
         <title>Australian Open Tennis</title>
@@ -15493,7 +15493,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250117133000 +0000" stop="20250117140000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250117140000 +0000" stop="20250117141500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15553,7 +15553,7 @@
         <title>Medical Frontiers</title>
     </programme>
     <programme start="20250117193000 +0000" stop="20250117200000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250117200000 +0000" stop="20250117201800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -27922,13 +27922,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250117220500 +0000" stop="20250117230000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Highlights Pak Vs WI - 1st Test</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250117230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250117230500 +0000" stop="20250118000500 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>News</title>
     </programme>
     <programme start="20250116223000 +0000" stop="20250116230000 +0000" channel="Islam Channel">
         <title>Analysis</title>
@@ -34705,7 +34705,7 @@
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250117230000 +0000" channel="Eurosport 2">
-        <title>Biathlon World Cup</title>
+        <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="Eurosport 2">
         <title>Australian Open Tennis</title>
