@@ -5803,13 +5803,13 @@
         <title>Master Chef Tamil Season 2</title>
     </programme>
     <programme start="20250118043000 +0000" stop="20250118073000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VAMSAM (U)</title>
+        <title>MOVIE - POO (U)</title>
     </programme>
     <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250118080000 +0000" stop="20250118110000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - GARGI (U/A)</title>
+        <title>MOVIE - NENJUKKU NEETHI (U)</title>
     </programme>
     <programme start="20250118110000 +0000" stop="20250118120000 +0000" channel="Kalaignar TV.starhub">
         <title>Vaa Thamizha Vaa Season IV</title>
@@ -5818,7 +5818,7 @@
         <title>News</title>
     </programme>
     <programme start="20250118123000 +0000" stop="20250118133000 +0000" channel="Kalaignar TV.starhub">
-        <title>1 Hr Special Movie</title>
+        <title>1 Hr Special Movie - COBRA</title>
     </programme>
     <programme start="20250118133000 +0000" stop="20250118143000 +0000" channel="Kalaignar TV.starhub">
         <title>Nadhaswaram</title>
@@ -5836,15 +5836,15 @@
         <title>Ini Ellam Vasanthame</title>
     </programme>
     <programme start="20250118163000 +0000" stop="20250118193000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - PANCHAMIRTHAM (U)</title>
+        <title>MOVIE - PEI MAMA (U/A)</title>
     </programme>
     <programme start="20250118193000 +0000" stop="20250118203000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
     </programme>
-    <programme start="20250118203000 +0000" stop="20250118233000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - EE (U)</title>
+    <programme start="20250118203000 +0000" stop="20250118230000 +0000" channel="Kalaignar TV.starhub">
+        <title>BREAKFREE MOVIE - UDUMBAN (U)</title>
     </programme>
-    <programme start="20250118233000 +0000" stop="20250119000000 +0000" channel="Kalaignar TV.starhub">
+    <programme start="20250118230000 +0000" stop="20250119000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
     </programme>
     <programme start="20250119000000 +0000" stop="20250119003000 +0000" channel="Kalaignar TV.starhub">
@@ -5863,7 +5863,7 @@
         <title>News</title>
     </programme>
     <programme start="20250119023000 +0000" stop="20250119043000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - DRIVER JAMUNA (U/A)</title>
+        <title>MOVIE - SINAM (U/A)</title>
     </programme>
     <programme start="20250119043000 +0000" stop="20250119053000 +0000" channel="Kalaignar TV.starhub">
         <title>Vaa Thamizha Vaa Season V</title>
@@ -5877,8 +5877,11 @@
     <programme start="20250119073000 +0000" stop="20250119080000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119120000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VENTHU THANINTHATHU KAADU (U/A)</title>
+    <programme start="20250119080000 +0000" stop="20250119110000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - P.T.SIR (U)</title>
+    </programme>
+    <programme start="20250119110000 +0000" stop="20250119120000 +0000" channel="Kalaignar TV.starhub">
+        <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20250119120000 +0000" stop="20250119123000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
@@ -5887,18 +5890,15 @@
         <title>Thamizhodu Vilayaadu Season 2</title>
     </programme>
     <programme start="20250119133000 +0000" stop="20250119170000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VARUTHAPADATHA VALIBAR SANGAM (U)</title>
+        <title>MOVIE - JAI BHIM (VU/A)</title>
     </programme>
-    <programme start="20250119170000 +0000" stop="20250119200000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VELAN ETTUTHIKKUM (U/A)</title>
+    <programme start="20250119170000 +0000" stop="20250119203000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - MAHAAN (U/A)</title>
     </programme>
-    <programme start="20250119200000 +0000" stop="20250119203000 +0000" channel="Kalaignar TV.starhub">
-        <title>Inthavaara kalakalappu</title>
+    <programme start="20250119203000 +0000" stop="20250119230000 +0000" channel="Kalaignar TV.starhub">
+        <title>BREAKFREE MOVIE - VAAZHTHUGAL (U)</title>
     </programme>
-    <programme start="20250119203000 +0000" stop="20250119223000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - KANTHA KOTTAI (U/A)</title>
-    </programme>
-    <programme start="20250119223000 +0000" stop="20250120000000 +0000" channel="Kalaignar TV.starhub">
+    <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
     </programme>
     <programme start="20250120000000 +0000" stop="20250120003000 +0000" channel="Kalaignar TV.starhub">
@@ -22723,22 +22723,19 @@
         <title>Ninathale Inikkum</title>
     </programme>
     <programme start="20250117003000 +0000" stop="20250117020000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Ayan</title>
+        <title>Movie - Ayan_x000D_</title>
     </programme>
     <programme start="20250117020000 +0000" stop="20250117023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250117023000 +0000" stop="20250117040000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Ayan</title>
+        <title>Movie - Ayan_x000D_</title>
     </programme>
     <programme start="20250117040000 +0000" stop="20250117043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
     </programme>
-    <programme start="20250117043000 +0000" stop="20250117050000 +0000" channel="Sun TV.starhub">
+    <programme start="20250117043000 +0000" stop="20250117053000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
-    </programme>
-    <programme start="20250117050000 +0000" stop="20250117053000 +0000" channel="Sun TV.starhub">
-        <title>Punnagai Poove</title>
     </programme>
     <programme start="20250117053000 +0000" stop="20250117060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
@@ -22753,7 +22750,7 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20250117073000 +0000" stop="20250117080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Billa II</title>
+        <title>Movie - Billa II_x000D_</title>
     </programme>
     <programme start="20250117080000 +0000" stop="20250117083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
@@ -22797,20 +22794,20 @@
     <programme start="20250117160000 +0000" stop="20250117163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20250117163000 +0000" stop="20250117230000 +0000" channel="Sun TV.starhub">
+    <programme start="20250117163000 +0000" stop="20250117170000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
     </programme>
+    <programme start="20250117170000 +0000" stop="20250117230000 +0000" channel="Sun TV.starhub">
+        <title>Punnagai Poove</title>
+    </programme>
     <programme start="20250117230000 +0000" stop="20250117233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20250117233000 +0000" stop="20250118000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20250118000000 +0000" stop="20250118020000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Bagavathi</title>
-    </programme>
-    <programme start="20250118020000 +0000" stop="20250118023000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
+        <title>Movie - _x000D_Bagavathi</title>
     </programme>
     <programme start="20250118023000 +0000" stop="20250118040000 +0000" channel="Sun TV.starhub">
         <title>Movie contd - Bagavathi</title>
@@ -22820,9 +22817,6 @@
     </programme>
     <programme start="20250118043000 +0000" stop="20250118050000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
-    </programme>
-    <programme start="20250118050000 +0000" stop="20250118053000 +0000" channel="Sun TV.starhub">
-        <title>Punnagai Poove</title>
     </programme>
     <programme start="20250118053000 +0000" stop="20250118060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
@@ -22838,9 +22832,6 @@
     </programme>
     <programme start="20250118073000 +0000" stop="20250118080000 +0000" channel="Sun TV.starhub">
         <title>Movie - Sangu Chakkaram</title>
-    </programme>
-    <programme start="20250118080000 +0000" stop="20250118083000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
     </programme>
     <programme start="20250118083000 +0000" stop="20250118103000 +0000" channel="Sun TV.starhub">
         <title>Movie Contd - Sangu Chakkaram</title>
@@ -22937,6 +22928,15 @@
     </programme>
     <programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
+    </programme>
+    <programme start="20250119163000 +0000" stop="20250119230000 +0000" channel="Sun TV.starhub">
+        <title>SONGS</title>
+    </programme>
+    <programme start="20250119230000 +0000" stop="20250119233000 +0000" channel="Sun TV.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20250119233000 +0000" stop="20250120000000 +0000" channel="Sun TV.starhub">
+        <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20250115235500 +0000" stop="20250116004500 +0000" channel="BBC Earth HD.starhub">
         <title>Mauritius</title>
