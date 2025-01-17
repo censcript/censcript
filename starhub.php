@@ -22125,11 +22125,11 @@
     <programme start="20250117170000 +0000" stop="20250117200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thadam</title>
     </programme>
-    <programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250117200000 +0000" stop="20250117223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Galatta Ganapathy</title>
     </programme>
-    <programme start="20250117220000 +0000" stop="20250118040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250117223000 +0000" stop="20250118010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Padhavi Paduthum Paadu</title>
     </programme>
     <programme start="20250118040000 +0000" stop="20250118100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
