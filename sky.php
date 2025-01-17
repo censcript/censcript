@@ -1755,16 +1755,19 @@
     <programme start="20250116220000 +0000" stop="20250116230500 +0000" channel="ITV4 HD">
         <title>Beverly Hills Cop</title>
     </programme>
-    <programme start="20250116230500 +0000" stop="20250116231500 +0000" channel="ITV4 HD">
+    <programme start="20250116230500 +0000" stop="20250116231000 +0000" channel="ITV4 HD">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250116231500 +0000" stop="20250116234000 +0000" channel="ITV4 HD">
+    <programme start="20250116231000 +0000" stop="20250117001000 +0000" channel="ITV4 HD">
+        <title>Beverly Hills Cop</title>
+    </programme>
+    <programme start="20250117001000 +0000" stop="20250117003500 +0000" channel="ITV4 HD">
         <title>Two and a Half Men</title>
     </programme>
-    <programme start="20250116234000 +0000" stop="20250117001000 +0000" channel="ITV4 HD">
+    <programme start="20250117003500 +0000" stop="20250117010000 +0000" channel="ITV4 HD">
         <title>Two and a Half Men</title>
     </programme>
-    <programme start="20250117001000 +0000" stop="20250117021500 +0000" channel="ITV4 HD">
+    <programme start="20250117010000 +0000" stop="20250117021500 +0000" channel="ITV4 HD">
         <title>The Adventures of Sherlock Holmes</title>
     </programme>
     <programme start="20250117021500 +0000" stop="20250117024000 +0000" channel="ITV4 HD">
@@ -8379,16 +8382,19 @@
     <programme start="20250116230000 +0000" stop="20250117000500 +0000" channel="ITV4+1">
         <title>Beverly Hills Cop</title>
     </programme>
-    <programme start="20250117000500 +0000" stop="20250117001500 +0000" channel="ITV4+1">
+    <programme start="20250117000500 +0000" stop="20250117001000 +0000" channel="ITV4+1">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250117001500 +0000" stop="20250117004000 +0000" channel="ITV4+1">
+    <programme start="20250117001000 +0000" stop="20250117011000 +0000" channel="ITV4+1">
+        <title>Beverly Hills Cop</title>
+    </programme>
+    <programme start="20250117011000 +0000" stop="20250117013500 +0000" channel="ITV4+1">
         <title>Two and a Half Men</title>
     </programme>
-    <programme start="20250117004000 +0000" stop="20250117011000 +0000" channel="ITV4+1">
+    <programme start="20250117013500 +0000" stop="20250117020000 +0000" channel="ITV4+1">
         <title>Two and a Half Men</title>
     </programme>
-    <programme start="20250117011000 +0000" stop="20250117031500 +0000" channel="ITV4+1">
+    <programme start="20250117020000 +0000" stop="20250117031500 +0000" channel="ITV4+1">
         <title>The Adventures of Sherlock Holmes</title>
     </programme>
     <programme start="20250117031500 +0000" stop="20250117034000 +0000" channel="ITV4+1">
@@ -14092,7 +14098,7 @@
         <title>BBL: Adelaide S v Sydney S</title>
     </programme>
     <programme start="20250117040000 +0000" stop="20250117050000 +0000" channel="SkySp Mix HD">
-        <title>SA20: Joburg SK v Pretoria</title>
+        <title>SA20: Durban SG v Joburg SK Hlts</title>
     </programme>
     <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="SkySp Mix HD">
         <title>Murray v Nadal 2008</title>
@@ -15096,17 +15102,26 @@
     <programme start="20250117233000 +0000" stop="20250118003000 +0000" channel="BBC NEWS HD">
         <title>Path to the Presidency</title>
     </programme>
-    <programme start="20250116212500 +0000" stop="20250117025000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Climate Change</title>
+    <programme start="20250116214000 +0000" stop="20250117003000 +0000" channel="BBC Parl HD">
+        <title>Lords - Rules-Based International Order</title>
+    </programme>
+    <programme start="20250117003000 +0000" stop="20250117011500 +0000" channel="BBC Parl HD">
+        <title>Lords - Healthcare in Gaza</title>
+    </programme>
+    <programme start="20250117011500 +0000" stop="20250117025000 +0000" channel="BBC Parl HD">
+        <title>Lords - Climate Change</title>
     </programme>
     <programme start="20250117025000 +0000" stop="20250117033000 +0000" channel="BBC Parl HD">
         <title>Culture, Media and Sport Questions</title>
     </programme>
-    <programme start="20250117033000 +0000" stop="20250117041500 +0000" channel="BBC Parl HD">
+    <programme start="20250117033000 +0000" stop="20250117035500 +0000" channel="BBC Parl HD">
         <title>Commissioners Questions</title>
     </programme>
+    <programme start="20250117035500 +0000" stop="20250117041500 +0000" channel="BBC Parl HD">
+        <title>Drones and Prisons Urgent Question</title>
+    </programme>
     <programme start="20250117041500 +0000" stop="20250117063000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+        <title>Middle East Statement</title>
     </programme>
     <programme start="20250117063000 +0000" stop="20250117084500 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
@@ -15123,11 +15138,20 @@
     <programme start="20250117210000 +0000" stop="20250117214500 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250117214500 +0000" stop="20250117230000 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250117214500 +0000" stop="20250117222000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Winter...</title>
     </programme>
-    <programme start="20250117230000 +0000" stop="20250118000000 +0000" channel="BBC Parl HD">
+    <programme start="20250117222000 +0000" stop="20250117224000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - General Questions</title>
+    </programme>
+    <programme start="20250117224000 +0000" stop="20250117230000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Topical Questions</title>
+    </programme>
+    <programme start="20250117230000 +0000" stop="20250117235500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
+    </programme>
+    <programme start="20250117235500 +0000" stop="20250118005500 +0000" channel="BBC Parl HD">
+        <title>Senedd - Warm Home Statement</title>
     </programme>
     <programme start="20250116223000 +0000" stop="20250116233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -27439,7 +27463,7 @@
         <title>Dars-e-Hadith</title>
     </programme>
     <programme start="20250117112000 +0000" stop="20250117113500 +0000" channel="MTA1 World HD">
-        <title>30 Years of MTA Bangladesh</title>
+        <title>30 Years Of MTA Bangladesh</title>
     </programme>
     <programme start="20250117113500 +0000" stop="20250117115500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
@@ -27475,22 +27499,19 @@
         <title>Mujahid Roos-o-Bukhara</title>
     </programme>
     <programme start="20250117171500 +0000" stop="20250117173000 +0000" channel="MTA1 World HD">
-        <title>30 Years of MTA Bangladesh</title>
+        <title>30 Years Of MTA Bangladesh</title>
     </programme>
     <programme start="20250117173000 +0000" stop="20250117180000 +0000" channel="MTA1 World HD">
         <title>Paradise's Pathway</title>
     </programme>
-    <programme start="20250117180000 +0000" stop="20250117182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
+    <programme start="20250117180000 +0000" stop="20250117183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250117182000 +0000" stop="20250117183000 +0000" channel="MTA1 World HD">
+    <programme start="20250117183500 +0000" stop="20250117184500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250117183000 +0000" stop="20250117184500 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Hadith</title>
-    </programme>
     <programme start="20250117184500 +0000" stop="20250117190000 +0000" channel="MTA1 World HD">
-        <title>Wild Life Of Pakistan</title>
+        <title>Dars-e-Hadith</title>
     </programme>
     <programme start="20250117190000 +0000" stop="20250117195000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Address At Shura</title>
@@ -27511,7 +27532,7 @@
         <title>Nazm</title>
     </programme>
     <programme start="20250117221500 +0000" stop="20250117223000 +0000" channel="MTA1 World HD">
-        <title>30 Years of MTA Bangladesh</title>
+        <title>30 Years Of MTA Bangladesh</title>
     </programme>
     <programme start="20250117223000 +0000" stop="20250117224000 +0000" channel="MTA1 World HD">
         <title>Science Online</title>
@@ -28714,10 +28735,10 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250117100000 +0000" stop="20250117110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250117110000 +0000" stop="20250117120000 +0000" channel="Takbeer TV">
         <title>Sarkar Ki Batain</title>
@@ -28735,7 +28756,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250117160000 +0000" stop="20250117170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250117170000 +0000" stop="20250117180000 +0000" channel="Takbeer TV">
         <title>Warafana Laka Zikrak</title>
@@ -28998,91 +29019,52 @@
     <programme start="20250117030000 +0000" stop="20250117041500 +0000" channel="Madani Chnl">
         <title>Islam and Science</title>
     </programme>
-    <programme start="20250117041500 +0000" stop="20250117050000 +0000" channel="Madani Chnl">
-        <title>Beautify Your Character</title>
+    <programme start="2025011704The Light of Guidance</title>00" channel="Islam Ch Urdu">
+        <title>Sehat Hai Ze<progo117031200 +0000" stop="20250117040000 +0000" channeotart="20250117150500 +0000" stoetart="20250117140500 +0000" stop="20250117141 oi
+   >
+        <title>Umahaat o Sahabiaat</title>
+  autitle>
     </programme>
-    <programme start="20250117050000 +0000" stop="20250117060000 +0000" channel="Madani Chnl">
-        <title>Hamara Islam</title>
+    <programme start="2025011gramayers from Madina: Maghrib</title>
     </programme>
-    <programme start="20250117060000 +0000" stop="20250117063000 +0000" channel="Madani Chnl">
-        <title>Fikr e Akhirat</title>
+    <programme start="2025011715top="20250117061800 +0000" channel="Islam Ch Urdu">o00" stop="20250117162800 +0000"erae start="20250117210000 +0000" stop="2025011750117220000 +0000" stop="20250117230000 +0000" chann">o00" stop="20250117162800 +0000"erae start="20250117210000 +0000" stop="2025011750117220000 +0000" stop="2025011 stop="2025011750117220000 +0000" stop="202501172320250117090000 +0000" stop="20250117100000 +0000"sS7top="2025011750117220000 +0000" stop="20250117230000 +0000" chann">o00" stop="20250117162800 +0000"erae start="202501isb00000 +0000" stop="20250117010000 +0000" channel="Islam TV">
+        <title>Live Transmission fbE   </programme>
+    <716t="2orikLcial</title>
+    </p00" channel="Islam TV">
+    e0117ye stl </pme start="20250117193000 +0000" stop="20250117210000 +0000" channel="Islam Ch Urdu">
+        <title>Paighay
+   isbstart="20250117040000 +0000" stop="20250117050000 +0000" channel="Islam TV">
+        <title>Liv7141 oisSD -iuIbp="20250117200500 +0000" channel="IQRA TV">
+        <title>Iqra News</title>
     </programme>
-    <programme start="20250117063000 +0000" stop="20250117071500 +0000" channel="Madani Chnl">
-        <title>The Early Echo</title>
+ el="Islam Ch Urdu">
+        <title>Paigham e Quran</title>
     </programme>
-    <programme start="20250117071500 +0000" stop="20250117080000 +0000" channel="Madani Chnl">
-        <title>Achay Bachay</title>
+    <programme start="20250117090000 +le>Znme start="20250117220000 +0000" stop="20250117230000 +0000" channel="HUM  PraykK Se Agay</title>
+   ect="20250117062500 +00K Adhan</title>
     </programme>
-    <programme start="20250117080000 +0000" stop="20250117083000 +0000" channel="Madani Chnl">
-        <title>News of Dawat-e-Islami</title>
+    <programme start="0000 +le>Znme start="20250117220000 +0000" stt="20250117040000 +0000" stotitle>
     </programme>
-    <programme start="20250117083000 +0000" stop="20250117090000 +0000" channel="Madani Chnl">
-        <title>Recognition of Allah Almighty</title>
+    <programme start="20250117213000 +0000" stop="20250117220000 +0000" l="Is N500 n20250117040000 +0000" stotitle>
     </programme>
-    <programme start="20250117090000 +0000" stop="20250117093000 +0000" channel="Madani Chnl">
-        <title>Journey of The Soul</title>
+    <programme start="202>
+ 20250117000000 +0000" stop="20250117010000 +0000" channel="Madani Chnl">
+        <title>The Lightp     y7iat d="20   </programme>
+    <programme start="202>
+ 20250117000000 +0000" stop="20250117010000 -itle>Live Transmission fbE  mme n1200 +0000" channel="Islam Ch Urdu">
+        <title>Prayers from Madina: sA="0000t00 +0000" channel="HUM EUROPE">
+        <title>Azan-e-Asa    <start="20250116223000 +0000" stop="20250116230000 0250117140500 +0000" rs from Madina: sA="0000t00 -TV">
+        <title>Subh-e-Niramm </pm="20250117140500 +0000" channeQuran<iA4m04000" channel="Islam Ch-sop="20250117193000 +0000" cMadiat</title>
     </programme>
-    <programme start="20250117093000 +0000" stop="20250117110000 +0000" channel="Madani Chnl">
-        <title>Rise and Salagi</title>
+    <programme startrt="20250117040000 +0000" stop="20250117050000 +00 +0000" stop="202501170100R<title>Prayers from Madina: sA="0000t00 +0000" channel="HUM EUROPE">
+        <title>Azan-e-Asa    <s Appeal</title>
     </programme>
-    <programme start="S117180500 +0000" stop="20250117181000 +0000" p="20i0" stop="20250117200000 +0000" channel="HUM Elagi</title>
+</title>
     </programme>
-    <programme start="S117180500 +0000" stop="20250117181oon Doirdu"00" stop="20250117060000 +0000" channel="Madaniau Safar</title>
-    </programme>
-    <programme start=
-   193000 +0000" channel="Islam Ch Urdu">
-        <title>Documentary - UKIM</title>
-   e>
-    <programme start="20250117121600 +0000" stopoprogramme>
-    <programme starteraend Science</title>
-    </programme>
-    <pro7050000 +0000" stop="20250117060000 +0000" channel="opoprogramme>
-    <programme starteraend Science</title>
-    </programme>
-    <pro7050000 +0000" stop="20250117060ramme>
-    <pro7050000 +0000" stop="20250117060000t="20250117141000 +0000" stop="20250117150000 +00sS7mme>
-    <pro7050000 +0000" stop="20250117060000 +0000" channel="opoprogramme>
-    <programme starteraend Science</tiisbgramme>
-    <programme start="20250117062300 +0000" stop="20250117070000 +0000" channel="Islam bEitle>Live Prayers frorog00 +orikL133000 +0000" channem Ul Quran</title>
-    </proe<proy Soul    e Ahlesunnat</title>
-    </programme>
-    <programme start="20250117030000 +0000" stop="20250117041500 +00yt="2isbogramme>
-    <programme start="20250117090000 +0000" stop="20250117100000 +0000" channel="Islamoon DoisSD -iuIb00" channel="Islam TV">
+ tart="20250117121600 soel="1si7i0000" stop="20250117230000 +00yi Chprogramme start="2025011721300"HUse00 +0000" channel="Madani Chnl">
+        <title>The Lightp     sb0" channel="Islam TV">
         <title>Khatam Ul Quran</title>
     </programme>
-    <programme  start="20250117133000 +0000" stop="20250117135500 +0000" channel="Islam Ch Urdu">
-        <title>Documentary - Sa0117ntitle>Fajr Adhan</title>
-    </programme>
-    <programme start="202501170+0000kKabbat</title>
-    < echeen</title>
-    </prK="Islam Ch Urdu">
-        <title>Zawiya</title>
-    </y - Sa0117ntitle>Fajr Adhan</title>
-    </promme>
-    <programme start="olan</title>
-    </programme>
-    <programme start="20250117040000 +0000" stop="20250117050000 +0</tis N"202n>
-    <programme start="olan</title>
-    </programme>
-    <programme startrog  </programme>
-    <programme start="20250117080000 +0000" stop="20250117083000 +0000" channel="MpIsla y7innedtop=le>
-    </programme>
-    <programme startrog  </programme>
-    <programme start="202501-0 +0000" channel="Islam bEitle>Pn="20250117092700 +0000" stop="20250117101000 +0000" channel="Islam Ch UrdsA</y - t0117190000 +0000" channel="HUM EUROPE">
-        <title>Yae>
-  s e Akhirat</title>
-    </programme>
-    <programm117180500 +0000" stopel="Islam Ch UrdsA</y - t011-        <title>Al Bayaan</tii        eamme>
-    <programme start="2035500 iA4m sto3000 +0000" stop="20-s <programme start="20250117m Chnel="Madani Chnl">
-        <title>Beautify Your >
-    </programme>
-    <programme start="20250117>
-    <programme start="202R+0000" channel="Islam Ch UrdsA</y - t0117190000 +0000" channel="HUM EUROPE">
-        <title>Yae>
-  sHum Dono</title>
-    </programme>    </programme>
-    <progr/title>
-    </programso0" c1si7i" stop="20250117060000 +0000" y"202    <programme start="20250117="Hse50117080000 +0000" stop="20250117083000 +0000" channel="MpIsla sbtam Ul Quran</title>
-    </programme>
-    <programme start="20250117234000 +0000" stop="20250115btitle>Fajr Adhan</t0000" stop="20250117101000 +0000" channel="Islam Ch UrdsA</y - me start="20250117090000 +0000" stop="20250117100000 +0000" channel="Ahlebait TV">
-        <title>The Focus</titlab
+    <programme s5bme start="202501172l="Islam Ch Urdu">
+        <title>Prayers from Madina: sA="0000rogramme start="20250117010000 +0000" stop="20250117020000 +0000" channel="Ahlebait TV">
+        <title>Subh-e-Naab
