@@ -7950,7 +7950,10 @@
     <programme start="20250118174000 +0000" stop="20250118181000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
-    <programme start="20250118181000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
+    <programme start="20250118181000 +0000" stop="20250118184000 +0000" channel="ComedyCent+1">
+        <title>Friends</title>
+    </programme>
+    <programme start="20250118184000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
     <programme start="20250118191000 +0000" stop="20250118194000 +0000" channel="ComedyCent+1">
@@ -26811,23 +26814,20 @@
     <programme start="20250118063000 +0000" stop="20250118065500 +0000" channel="MTA1 World HD">
         <title>Virtues Of Ahmad</title>
     </programme>
-    <programme start="20250118065500 +0000" stop="20250118074000 +0000" channel="MTA1 World HD">
+    <programme start="20250118065500 +0000" stop="20250118073500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250118074000 +0000" stop="20250118074500 +0000" channel="MTA1 World HD">
+    <programme start="20250118073500 +0000" stop="20250118074500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
     <programme start="20250118074500 +0000" stop="20250118080000 +0000" channel="MTA1 World HD">
-        <title>30 Years of MTA Bangladesh</title>
+        <title>30 Years Of MTA Bangladesh</title>
     </programme>
     <programme start="20250118080000 +0000" stop="20250118085000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250118085000 +0000" stop="20250118094000 +0000" channel="MTA1 World HD">
+    <programme start="20250118085000 +0000" stop="20250118095000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250118094000 +0000" stop="20250118095000 +0000" channel="MTA1 World HD">
-        <title>Qaseedah</title>
     </programme>
     <programme start="20250118095000 +0000" stop="20250118100000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
@@ -26862,11 +26862,8 @@
     <programme start="20250118140000 +0000" stop="20250118143000 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250118143000 +0000" stop="20250118152000 +0000" channel="MTA1 World HD">
+    <programme start="20250118143000 +0000" stop="20250118153000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250118152000 +0000" stop="20250118153000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250118153000 +0000" stop="20250118154000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
@@ -26907,11 +26904,8 @@
     <programme start="20250118223000 +0000" stop="20250118225500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250118225500 +0000" stop="20250118234500 +0000" channel="MTA1 World HD">
+    <programme start="20250118225500 +0000" stop="20250118235000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250118234500 +0000" stop="20250118235000 +0000" channel="MTA1 World HD">
-        <title>Qaseedah</title>
     </programme>
     <programme start="20250118235000 +0000" stop="20250119005000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
