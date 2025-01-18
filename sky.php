@@ -7950,7 +7950,10 @@
     <programme start="20250118174000 +0000" stop="20250118181000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
-    <programme start="20250118181000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
+    <programme start="20250118181000 +0000" stop="20250118184000 +0000" channel="ComedyCent+1">
+        <title>Friends</title>
+    </programme>
+    <programme start="20250118184000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
     <programme start="20250118191000 +0000" stop="20250118194000 +0000" channel="ComedyCent+1">
