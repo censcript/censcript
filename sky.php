@@ -26887,7 +26887,7 @@
         <title>Tilawat</title>
     </programme>
     <programme start="20250118183000 +0000" stop="20250118190000 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Dunya</title>
+        <title>Bachon Ki Duniya</title>
     </programme>
     <programme start="20250118190000 +0000" stop="20250118200500 +0000" channel="MTA1 World HD">
         <title>Huzoor Ke Saath Nashist</title>
