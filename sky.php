@@ -25957,7 +25957,7 @@
         <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250118102000 +0000" stop="20250118110000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250118110000 +0000" stop="20250118120000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
@@ -26002,7 +26002,7 @@
         <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250118203000 +0000" stop="20250118223000 +0000" channel="MATV National">
-        <title>Tara Sansthan</title>
+        <title>Bollywood Fresh</title>
     </programme>
     <programme start="20250118223000 +0000" stop="20250118230000 +0000" channel="MATV National">
         <title>Pakistan Reporter</title>
