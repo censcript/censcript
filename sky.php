@@ -7950,10 +7950,7 @@
     <programme start="20250118174000 +0000" stop="20250118181000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
-    <programme start="20250118181000 +0000" stop="20250118184000 +0000" channel="ComedyCent+1">
-        <title>Friends</title>
-    </programme>
-    <programme start="20250118184000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
+    <programme start="20250118181000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
     <programme start="20250118191000 +0000" stop="20250118194000 +0000" channel="ComedyCent+1">
@@ -13632,10 +13629,10 @@
     <programme start="20250118080000 +0000" stop="20250118100000 +0000" channel="Eurosport 2 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250118100000 +0000" stop="20250118113000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250118100000 +0000" stop="20250118114500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250118113000 +0000" stop="20250118132000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250118114500 +0000" stop="20250118132000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250118132000 +0000" stop="20250118144000 +0000" channel="Eurosport 2 HD">
@@ -27253,7 +27250,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250118110500 +0000" stop="20250118120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Aitraaz Hai</title>
     </programme>
     <programme start="20250118120000 +0000" stop="20250118120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27262,7 +27259,7 @@
         <title>News</title>
     </programme>
     <programme start="20250118123000 +0000" stop="20250118130000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+        <title>Hoshiyarian</title>
     </programme>
     <programme start="20250118130000 +0000" stop="20250118130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27274,13 +27271,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250118140500 +0000" stop="20250118150000 +0000" channel="New Vision TV">
-        <title>Kahay Faqir</title>
+        <title>Saray Aam</title>
     </programme>
     <programme start="20250118150000 +0000" stop="20250118150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250118150500 +0000" stop="20250118160000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>Hoshiyarian</title>
     </programme>
     <programme start="20250118160000 +0000" stop="20250118160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27310,13 +27307,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250118200500 +0000" stop="20250118210000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>Hoshiyarian</title>
     </programme>
     <programme start="20250118210000 +0000" stop="20250118210500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250118210500 +0000" stop="20250118220000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Aitraaz Hai</title>
     </programme>
     <programme start="20250118220000 +0000" stop="20250118220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -33912,10 +33909,10 @@
     <programme start="20250118080000 +0000" stop="20250118100000 +0000" channel="Eurosport 2">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250118100000 +0000" stop="20250118113000 +0000" channel="Eurosport 2">
+    <programme start="20250118100000 +0000" stop="20250118114500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250118113000 +0000" stop="20250118132000 +0000" channel="Eurosport 2">
+    <programme start="20250118114500 +0000" stop="20250118132000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250118132000 +0000" stop="20250118144000 +0000" channel="Eurosport 2">
