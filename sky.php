@@ -13404,10 +13404,7 @@
     <programme start="20250119073000 +0000" stop="20250119080000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119100000 +0000" channel="Eurosport 1 HD">
-        <title>Live Australian Open Tennis</title>
-    </programme>
-    <programme start="20250119100000 +0000" stop="20250119130000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250119080000 +0000" stop="20250119130000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250119130000 +0000" stop="20250119160000 +0000" channel="Eurosport 1 HD">
@@ -14505,11 +14502,8 @@
     <programme start="20250119103000 +0000" stop="20250119110000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="BBC NEWS HD">
+    <programme start="20250119110000 +0000" stop="20250119120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250119113000 +0000" stop="20250119120000 +0000" channel="BBC NEWS HD">
-        <title>Path to the Presidency</title>
     </programme>
     <programme start="20250119120000 +0000" stop="20250119123000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -33606,10 +33600,7 @@
     <programme start="20250119073000 +0000" stop="20250119080000 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119100000 +0000" channel="Eurosport 1">
-        <title>Live Australian Open Tennis</title>
-    </programme>
-    <programme start="20250119100000 +0000" stop="20250119130000 +0000" channel="Eurosport 1">
+    <programme start="20250119080000 +0000" stop="20250119130000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250119130000 +0000" stop="20250119160000 +0000" channel="Eurosport 1">
