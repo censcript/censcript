@@ -15078,40 +15078,40 @@
     <programme start="20250119081000 +0000" stop="20250119093000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119093000 +0000" stop="20250119110000 +0000" channel="ONE HD.starhub">
+    <programme start="20250119093000 +0000" stop="20250119111700 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119110000 +0000" stop="20250119114500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119111700 +0000" stop="20250119115700 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250119114500 +0000" stop="20250119123000 +0000" channel="ONE HD.starhub">
+    <programme start="20250119115700 +0000" stop="20250119123800 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250119123000 +0000" stop="20250119134500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119123800 +0000" stop="20250119135400 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250119134500 +0000" stop="20250119153000 +0000" channel="ONE HD.starhub">
+    <programme start="20250119135400 +0000" stop="20250119154500 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119153000 +0000" stop="20250119164500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119154500 +0000" stop="20250119170000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119164500 +0000" stop="20250119180500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119170000 +0000" stop="20250119181500 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119180500 +0000" stop="20250119192500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119181500 +0000" stop="20250119193000 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119192500 +0000" stop="20250119204500 +0000" channel="ONE HD.starhub">
+    <programme start="20250119193000 +0000" stop="20250119204500 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20250119204500 +0000" stop="20250119220000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250119234000 +0000" channel="ONE HD.starhub">
+    <programme start="20250119220000 +0000" stop="20250119234700 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119234000 +0000" stop="20250120003000 +0000" channel="ONE HD.starhub">
+    <programme start="20250119234700 +0000" stop="20250120003000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250120003000 +0000" stop="20250120012000 +0000" channel="ONE HD.starhub">
@@ -15135,22 +15135,22 @@
     <programme start="20250120054000 +0000" stop="20250120070000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120070000 +0000" stop="20250120084000 +0000" channel="ONE HD.starhub">
+    <programme start="20250120070000 +0000" stop="20250120084700 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250120084000 +0000" stop="20250120092000 +0000" channel="ONE HD.starhub">
+    <programme start="20250120084700 +0000" stop="20250120092700 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250120092000 +0000" stop="20250120095900 +0000" channel="ONE HD.starhub">
+    <programme start="20250120092700 +0000" stop="20250120100600 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250120095900 +0000" stop="20250120111900 +0000" channel="ONE HD.starhub">
+    <programme start="20250120100600 +0000" stop="20250120112200 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120111900 +0000" stop="20250120123900 +0000" channel="ONE HD.starhub">
+    <programme start="20250120112200 +0000" stop="20250120124000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120123900 +0000" stop="20250120132000 +0000" channel="ONE HD.starhub">
+    <programme start="20250120124000 +0000" stop="20250120132000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250120132000 +0000" stop="20250120140000 +0000" channel="ONE HD.starhub">
@@ -27885,40 +27885,40 @@
     <programme start="20250119081000 +0000" stop="20250119093000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119093000 +0000" stop="20250119110000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119093000 +0000" stop="20250119111700 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119110000 +0000" stop="20250119114500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119111700 +0000" stop="20250119115700 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250119114500 +0000" stop="20250119123000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119115700 +0000" stop="20250119123800 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250119123000 +0000" stop="20250119134500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119123800 +0000" stop="20250119135400 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250119134500 +0000" stop="20250119153000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119135400 +0000" stop="20250119154500 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119153000 +0000" stop="20250119164500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119154500 +0000" stop="20250119170000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119164500 +0000" stop="20250119180500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119170000 +0000" stop="20250119181500 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119180500 +0000" stop="20250119192500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119181500 +0000" stop="20250119193000 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
-    <programme start="20250119192500 +0000" stop="20250119204500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119193000 +0000" stop="20250119204500 +0000" channel="ONE (Malay).starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20250119204500 +0000" stop="20250119220000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250119234000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119220000 +0000" stop="20250119234700 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250119234000 +0000" stop="20250120003000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250119234700 +0000" stop="20250120003000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250120003000 +0000" stop="20250120012000 +0000" channel="ONE (Malay).starhub">
@@ -27942,22 +27942,22 @@
     <programme start="20250120054000 +0000" stop="20250120070000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120070000 +0000" stop="20250120084000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120070000 +0000" stop="20250120084700 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250120084000 +0000" stop="20250120092000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120084700 +0000" stop="20250120092700 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250120092000 +0000" stop="20250120095900 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120092700 +0000" stop="20250120100600 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250120095900 +0000" stop="20250120111900 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120100600 +0000" stop="20250120112200 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120111900 +0000" stop="20250120123900 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120112200 +0000" stop="20250120124000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120123900 +0000" stop="20250120132000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250120124000 +0000" stop="20250120132000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250120132000 +0000" stop="20250120140000 +0000" channel="ONE (Malay).starhub">
