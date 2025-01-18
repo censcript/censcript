@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - West Ham United v Crystal Palace</title>
-    </programme>
-    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Leicester City v Fulham</title>
-    </programme>
-    <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Brentford v Liverpool</title>
-    </programme>
     <programme start="20250118145000 +0000" stop="20250118172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
