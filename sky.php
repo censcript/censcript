@@ -13404,8 +13404,14 @@
     <programme start="20250119073000 +0000" stop="20250119080000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119130000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250119080000 +0000" stop="20250119110000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="Eurosport 1 HD">
+        <title>To Be Announced</title>
+    </programme>
+    <programme start="20250119113000 +0000" stop="20250119130000 +0000" channel="Eurosport 1 HD">
+        <title>To Be Announced</title>
     </programme>
     <programme start="20250119130000 +0000" stop="20250119160000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: The Masters</title>
@@ -23689,10 +23695,10 @@
         <title>Clever Cleaning with Shark</title>
     </programme>
     <programme start="20250119200000 +0000" stop="20250119210000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>New Season Kipling</title>
     </programme>
     <programme start="20250119210000 +0000" stop="20250119220000 +0000" channel="QVC HD">
-        <title>January Savings with Kelly Hoppen</title>
+        <title>Luxury for Less with Kelly Hoppen</title>
     </programme>
     <programme start="20250119220000 +0000" stop="20250119230000 +0000" channel="QVC HD">
         <title>Top Offers with Shark</title>
@@ -23947,7 +23953,7 @@
         <title>Last Minute Winter Boots Deals</title>
     </programme>
     <programme start="20250119020000 +0000" stop="20250119030000 +0000" channel="QVC Style HD">
-        <title>QVC Selection</title>
+        <title>Fashion Sale</title>
     </programme>
     <programme start="20250119030000 +0000" stop="20250119040000 +0000" channel="QVC Style HD">
         <title>White Stuff Sale</title>
@@ -24583,13 +24589,13 @@
         <title>QVC Extra Top Deals</title>
     </programme>
     <programme start="20250119020000 +0000" stop="20250119030000 +0000" channel="QVC Extra">
-        <title>Clever Cleaning with Shark</title>
+        <title>Home Hacks with Shark</title>
     </programme>
     <programme start="20250119030000 +0000" stop="20250119040000 +0000" channel="QVC Extra">
-        <title>Clever Cleaning with Shark</title>
+        <title>Home Hacks with Shark</title>
     </programme>
     <programme start="20250119040000 +0000" stop="20250119050000 +0000" channel="QVC Extra">
-        <title>Clever Cleaning with Shark</title>
+        <title>Home Hacks with Shark</title>
     </programme>
     <programme start="20250119050000 +0000" stop="20250119060000 +0000" channel="QVC Extra">
         <title>Your Winter Garden</title>
@@ -27946,10 +27952,10 @@
         <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250119100000 +0000" stop="20250119110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250119110000 +0000" stop="20250119120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250119120000 +0000" stop="20250119130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -27964,25 +27970,25 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250119160000 +0000" stop="20250119170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250119170000 +0000" stop="20250119180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250119180000 +0000" stop="20250119190000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
-    </programme>
-    <programme start="20250119190000 +0000" stop="20250119200000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
     </programme>
-    <programme start="20250119200000 +0000" stop="20250119210000 +0000" channel="Takbeer TV">
+    <programme start="20250119170000 +0000" stop="20250119180000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250119180000 +0000" stop="20250119190000 +0000" channel="Takbeer TV">
+        <title>Asan Na Kashmir</title>
+    </programme>
+    <programme start="20250119190000 +0000" stop="20250119200000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250119200000 +0000" stop="20250119210000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
     <programme start="20250119210000 +0000" stop="20250119220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250119220000 +0000" stop="20250119230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29949,8 +29955,11 @@
     <programme start="20250119013000 +0000" stop="20250119020000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250119020000 +0000" stop="20250119050000 +0000" channel="iON TV">
+    <programme start="20250119020000 +0000" stop="20250119043000 +0000" channel="iON TV">
         <title>Movie Time</title>
+    </programme>
+    <programme start="20250119043000 +0000" stop="20250119050000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
     <programme start="20250119050000 +0000" stop="20250119060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
@@ -33600,8 +33609,14 @@
     <programme start="20250119073000 +0000" stop="20250119080000 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119130000 +0000" channel="Eurosport 1">
+    <programme start="20250119080000 +0000" stop="20250119110000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
+    </programme>
+    <programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="Eurosport 1">
+        <title>To Be Announced</title>
+    </programme>
+    <programme start="20250119113000 +0000" stop="20250119130000 +0000" channel="Eurosport 1">
+        <title>To Be Announced</title>
     </programme>
     <programme start="20250119130000 +0000" stop="20250119160000 +0000" channel="Eurosport 1">
         <title>Live Snooker: The Masters</title>
@@ -36772,7 +36787,7 @@
         <title>Rezzy Ghadjar</title>
     </programme>
     <programme start="20250119010000 +0000" stop="20250119060000 +0000" channel="Heart">
-        <title>Seb Bailey</title>
+        <title>Jonny Meah</title>
     </programme>
     <programme start="20250119060000 +0000" stop="20250119090000 +0000" channel="Heart">
         <title>Rob Howard</title>
