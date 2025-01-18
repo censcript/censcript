@@ -13332,7 +13332,10 @@
     <programme start="20250119233000 +0000" stop="20250120003000 +0000" channel="TNT Sports 2">
         <title>TNT Sports Reload</title>
     </programme>
-    <programme start="20250118210000 +0000" stop="20250119000000 +0000" channel="SkySp+ HD">
+    <programme start="20250118193000 +0000" stop="20250118230000 +0000" channel="SkySp+ HD">
+        <title>Live Latin America Amateur C'Ship</title>
+    </programme>
+    <programme start="20250118230000 +0000" stop="20250119000000 +0000" channel="SkySp+ HD">
         <title>Live PGA Tour Golf</title>
     </programme>
     <programme start="20250119000000 +0000" stop="20250119010000 +0000" channel="SkySp+ HD">
@@ -14458,7 +14461,7 @@
         <title>Bloomberg The Asia Trade</title>
     </programme>
     <programme start="20250118223000 +0000" stop="20250118230000 +0000" channel="BBC NEWS HD">
-        <title>Political Thinking with Nick Robinson</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250118230000 +0000" stop="20250118233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
