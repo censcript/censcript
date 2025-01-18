@@ -24061,7 +24061,7 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250118090000 +0000" stop="20250118100000 +0000" channel="QVC Style HD">
         <title>Nightwear Edit</title>

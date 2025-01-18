@@ -5151,10 +5151,7 @@
     <programme start="20250117190500 +0000" stop="20250117210000 +0000" channel="Asianet Movies.starhub">
         <title>Helen</title>
     </programme>
-    <programme start="20250117210000 +0000" stop="20250118000000 +0000" channel="Asianet Movies.starhub">
-        <title>Positive</title>
-    </programme>
-    <programme start="20250118000000 +0000" stop="20250118013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250117233000 +0000" stop="20250118013000 +0000" channel="Asianet Movies.starhub">
         <title>Maharaja Talkies</title>
     </programme>
     <programme start="20250118013000 +0000" stop="20250118043000 +0000" channel="Asianet Movies.starhub">
@@ -5172,16 +5169,16 @@
     <programme start="20250118133000 +0000" stop="20250118163000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
-    <programme start="20250118163000 +0000" stop="20250118190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250118163000 +0000" stop="20250118191000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberan</title>
     </programme>
-    <programme start="20250118190000 +0000" stop="20250118220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250118191000 +0000" stop="20250118211000 +0000" channel="Asianet Movies.starhub">
         <title>Philips and the Monkey Pen</title>
     </programme>
-    <programme start="20250118220000 +0000" stop="20250119000000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250118211000 +0000" stop="20250118233000 +0000" channel="Asianet Movies.starhub">
         <title>Peranbu</title>
     </programme>
-    <programme start="20250119000000 +0000" stop="20250119013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250118233000 +0000" stop="20250119013000 +0000" channel="Asianet Movies.starhub">
         <title>Udaharanam Sujatha</title>
     </programme>
     <programme start="20250119013000 +0000" stop="20250119043000 +0000" channel="Asianet Movies.starhub">
@@ -10626,9 +10623,6 @@
     <programme start="20250117173000 +0000" stop="20250117190000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil S08</title>
     </programme>
-    <programme start="20250117190000 +0000" stop="20250117193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
     <programme start="20250117193000 +0000" stop="20250117200000 +0000" channel="Vijay TV HD.starhub">
         <title>Nee Naan Kaadhal</title>
     </programme>
@@ -10733,6 +10727,9 @@
     </programme>
     <programme start="20250118173000 +0000" stop="20250118190000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil S08</title>
+    </programme>
+    <programme start="20250118190000 +0000" stop="20250118200000 +0000" channel="Vijay TV HD.starhub">
+        <title>Neeya Naana</title>
     </programme>
     <programme start="20250116000000 +0000" stop="20250116003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
