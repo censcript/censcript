@@ -29946,17 +29946,20 @@
     <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="TV One">
         <title>The Voice Of Oneness 2024</title>
     </programme>
-    <programme start="20250118223400 +0000" stop="20250118233400 +0000" channel="iON TV">
+    <programme start="20250118220000 +0000" stop="20250118230000 +0000" channel="iON TV">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250118230000 +0000" stop="20250119000000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250118233400 +0000" stop="20250119010000 +0000" channel="iON TV">
+    <programme start="20250119000000 +0000" stop="20250119010000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
     <programme start="20250119010000 +0000" stop="20250119013000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250119013000 +0000" stop="20250119020000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250119020000 +0000" stop="20250119043000 +0000" channel="iON TV">
         <title>Movie Time</title>
