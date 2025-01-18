@@ -14667,11 +14667,8 @@
     <programme start="20250118133000 +0000" stop="20250118140000 +0000" channel="BBC NEWS HD">
         <title>The Travel Show</title>
     </programme>
-    <programme start="20250118140000 +0000" stop="20250118143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250118140000 +0000" stop="20250118150000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250118143000 +0000" stop="20250118150000 +0000" channel="BBC NEWS HD">
-        <title>The Media Show</title>
     </programme>
     <programme start="20250118150000 +0000" stop="20250118153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -29140,7 +29137,7 @@
         <title>Live: Sewa Karj (Harvinder Singh)</title>
     </programme>
     <programme start="20250118200000 +0000" stop="20250118210000 +0000" channel="Akaal Channel">
-        <title>Live: Punjab ate Panth De Masle</title>
+        <title>Teleshopping: Pakistan Yatra</title>
     </programme>
     <programme start="20250118210000 +0000" stop="20250118213000 +0000" channel="Akaal Channel">
         <title>Akaal Channel News</title>

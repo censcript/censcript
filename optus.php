@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250118113000 +0000" stop="20250118145000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Newcastle United v Bournemouth</title>
-    </programme>
     <programme start="20250118145000 +0000" stop="20250118171000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - West Ham United v Crystal Palace</title>
     </programme>
