@@ -5337,6 +5337,18 @@
     <programme start="20250128100000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250128163000 +0000" stop="20250128220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250129100000 +0000" stop="20250129163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250117000000 +0000" stop="20250117005500 +0000" channel="HISTORY HD.starhub">
         <title>Roadmaster Rick</title>
     </programme>
@@ -28479,6 +28491,18 @@
     <programme start="20250128100000 +0000" stop="20250128160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250128160300 +0000" stop="20250128220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250129100000 +0000" stop="20250129160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250116235700 +0000" stop="20250117001900 +0000" channel="HBO Family HD.starhub">
         <title>Ben 10 Returns: Pt. 2</title>
     </programme>
@@ -31018,6 +31042,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250128100000 +0000" stop="20250128160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128160000 +0000" stop="20250128220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250116220000 +0000" stop="20250117040000 +0000" channel="Hub Sports 6.starhub">
