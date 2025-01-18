@@ -7950,10 +7950,7 @@
     <programme start="20250118174000 +0000" stop="20250118181000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
-    <programme start="20250118181000 +0000" stop="20250118184000 +0000" channel="ComedyCent+1">
-        <title>Friends</title>
-    </programme>
-    <programme start="20250118184000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
+    <programme start="20250118181000 +0000" stop="20250118191000 +0000" channel="ComedyCent+1">
         <title>Friends</title>
     </programme>
     <programme start="20250118191000 +0000" stop="20250118194000 +0000" channel="ComedyCent+1">
@@ -28476,23 +28473,29 @@
     <programme start="20250118121600 +0000" stop="20250118122000 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250118122000 +0000" stop="20250118123600 +0000" channel="Eman Channel">
+    <programme start="20250118122000 +0000" stop="20250118122100 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250118123600 +0000" stop="20250118130000 +0000" channel="Eman Channel">
+    <programme start="20250118122100 +0000" stop="20250118123600 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
+    </programme>
+    <programme start="20250118123600 +0000" stop="20250118124000 +0000" channel="Eman Channel">
+        <title>Live Asr Prayer from Makkah</title>
+    </programme>
+    <programme start="20250118124000 +0000" stop="20250118130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250118130000 +0000" stop="20250118140000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem REPEAT</title>
     </programme>
     <programme start="20250118140000 +0000" stop="20250118140600 +0000" channel="Eman Channel">
-        <title>Empowered bt Example</title>
+        <title>Empowered by Example</title>
     </programme>
     <programme start="20250118140600 +0000" stop="20250118141000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
     <programme start="20250118141000 +0000" stop="20250118141500 +0000" channel="Eman Channel">
-        <title>Empowered bt Example</title>
+        <title>Empowered by Example</title>
     </programme>
     <programme start="20250118141500 +0000" stop="20250118143000 +0000" channel="Eman Channel">
         <title>Lessons From Surah Al Hujuraat</title>
