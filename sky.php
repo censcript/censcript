@@ -14508,10 +14508,7 @@
     <programme start="20250119050000 +0000" stop="20250119090000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250119090000 +0000" stop="20250119100000 +0000" channel="BBC NEWS HD">
-        <title>Sunday with Laura Kuenssberg</title>
-    </programme>
-    <programme start="20250119100000 +0000" stop="20250119103000 +0000" channel="BBC NEWS HD">
+    <programme start="20250119090000 +0000" stop="20250119103000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250119103000 +0000" stop="20250119110000 +0000" channel="BBC NEWS HD">
