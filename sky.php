@@ -81,7 +81,7 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Lon HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250119235500 +0000" channel="BBC Two HD">
+    <programme start="20250119223000 +0000" stop="20250119235500 +0000" channel="BBC Two HD">
         <title>The Shining</title>
     </programme>
     <programme start="20250119235500 +0000" stop="20250120005500 +0000" channel="BBC Two HD">
@@ -14013,7 +14013,7 @@
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250119230000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250119224500 +0000" stop="20250119230000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: Winter World University Games Turin</title>
     </programme>
     <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Eurosport 1 HD">
@@ -30543,13 +30543,13 @@
     <programme start="20250120040000 +0000" stop="20250120060000 +0000" channel="ATN">
         <title>Music Lounge</title>
     </programme>
-    <programme start="20250120060000 +0000" stop="20250120062600 +0000" channel="ATN">
+    <programme start="20250120060000 +0000" stop="20250120061500 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250120062600 +0000" stop="20250120063100 +0000" channel="ATN">
+    <programme start="20250120061500 +0000" stop="20250120062000 +0000" channel="ATN">
         <title>Fajr Adhaan</title>
     </programme>
-    <programme start="20250120063100 +0000" stop="20250120070000 +0000" channel="ATN">
+    <programme start="20250120062000 +0000" stop="20250120070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250120070000 +0000" stop="20250120073000 +0000" channel="ATN">
@@ -30568,7 +30568,7 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250120103000 +0000" stop="20250120113000 +0000" channel="ATN">
-        <title>Kauke Bolben Na Please</title>
+        <title>Bodh</title>
     </programme>
     <programme start="20250120113000 +0000" stop="20250120115500 +0000" channel="ATN">
         <title>Chobir Gaan</title>
@@ -30577,13 +30577,19 @@
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250120120000 +0000" stop="20250120120800 +0000" channel="ATN">
-        <title>Mone Pore Tumake</title>
+        <title>Baimany</title>
     </programme>
     <programme start="20250120120800 +0000" stop="20250120121300 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250120121300 +0000" stop="20250120140000 +0000" channel="ATN">
+    <programme start="20250120121300 +0000" stop="20250120122000 +0000" channel="ATN">
         <title>Mone Pore Tumake</title>
+    </programme>
+    <programme start="20250120122000 +0000" stop="20250120122500 +0000" channel="ATN">
+        <title>Zuhr Adhaan</title>
+    </programme>
+    <programme start="20250120122500 +0000" stop="20250120140000 +0000" channel="ATN">
+        <title>Baimany</title>
     </programme>
     <programme start="20250120140000 +0000" stop="20250120141500 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30594,8 +30600,14 @@
     <programme start="20250120142000 +0000" stop="20250120143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250120143000 +0000" stop="20250120155500 +0000" channel="ATN">
-        <title>Mone Pore Tumake</title>
+    <programme start="20250120143000 +0000" stop="20250120144300 +0000" channel="ATN">
+        <title>Baimany</title>
+    </programme>
+    <programme start="20250120144300 +0000" stop="20250120144800 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250120144800 +0000" stop="20250120155500 +0000" channel="ATN">
+        <title>Baimany</title>
     </programme>
     <programme start="20250120155500 +0000" stop="20250120160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30606,7 +30618,13 @@
     <programme start="20250120160400 +0000" stop="20250120160900 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250120160900 +0000" stop="20250120165500 +0000" channel="ATN">
+    <programme start="20250120160900 +0000" stop="20250120163200 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250120163200 +0000" stop="20250120163700 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250120163700 +0000" stop="20250120165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250120165500 +0000" stop="20250120170000 +0000" channel="ATN">
@@ -30616,7 +30634,7 @@
         <title>Gaanbaz Junior</title>
     </programme>
     <programme start="20250120173000 +0000" stop="20250120173500 +0000" channel="ATN">
-        <title>Musibot Unlimited</title>
+        <title>Mochibot Unlimited</title>
     </programme>
     <programme start="20250120173500 +0000" stop="20250120174000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
@@ -30624,7 +30642,13 @@
     <programme start="20250120174000 +0000" stop="20250120180000 +0000" channel="ATN">
         <title>Musibot Unlimited</title>
     </programme>
-    <programme start="20250120180000 +0000" stop="20250120185500 +0000" channel="ATN">
+    <programme start="20250120180000 +0000" stop="20250120181500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250120181500 +0000" stop="20250120182000 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250120182000 +0000" stop="20250120185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250120185500 +0000" stop="20250120190000 +0000" channel="ATN">
@@ -30649,7 +30673,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="ATN">
-        <title>Boma Hamla</title>
+        <title>Buker Dhon</title>
     </programme>
     <programme start="20250119223000 +0000" stop="20250119230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -34797,7 +34821,7 @@
     <programme start="20250120233000 +0000" stop="20250121003000 +0000" channel="TNTSports2 HD">
         <title>Australia v England - 1st T20</title>
     </programme>
-    <programme start="20250119220000 +0000" stop="20250119230000 +0000" channel="Eurosport 1">
+    <programme start="20250119224500 +0000" stop="20250119230000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: Winter World University Games Turin</title>
     </programme>
     <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Eurosport 1">
