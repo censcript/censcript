@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250119162000 +0000" stop="20250119193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Ipswich v Manchester City</title>
-    </programme>
     <programme start="20250119183500 +0000" stop="20250119205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Manchester United</title>
     </programme>
