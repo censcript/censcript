@@ -12855,14 +12855,23 @@
     <programme start="20250119143000 +0000" stop="20250119150000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Champions: Year In Review</title>
     </programme>
-    <programme start="20250119150000 +0000" stop="20250119180000 +0000" channel="SkySp Golf HD">
-        <title>Live Latin America Amateur C'Ship</title>
+    <programme start="20250119150000 +0000" stop="20250119153000 +0000" channel="SkySp Golf HD">
+        <title>UnCommon: Building a Boston Sports Team</title>
     </programme>
-    <programme start="20250119180000 +0000" stop="20250119183000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119153000 +0000" stop="20250119154500 +0000" channel="SkySp Golf HD">
+        <title>My Ryder Cup - Thomas Bjorn</title>
+    </programme>
+    <programme start="20250119154500 +0000" stop="20250119161500 +0000" channel="SkySp Golf HD">
+        <title>Ryder Cup Memories : Donald</title>
+    </programme>
+    <programme start="20250119161500 +0000" stop="20250119164500 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
-    <programme start="20250119183000 +0000" stop="20250119210000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119164500 +0000" stop="20250119180000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Early Coverage</title>
+    </programme>
+    <programme start="20250119180000 +0000" stop="20250119210000 +0000" channel="SkySp Golf HD">
+        <title>DP World Tour Golf Highlights</title>
     </programme>
     <programme start="20250119210000 +0000" stop="20250119220000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf</title>
@@ -28332,46 +28341,22 @@
     <programme start="20250119062800 +0000" stop="20250119080000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250119080000 +0000" stop="20250119081500 +0000" channel="Eman Channel">
-        <title>Kids Morning Remembrance</title>
+    <programme start="20250119080000 +0000" stop="20250119095000 +0000" channel="Eman Channel">
+        <title>Light Upon Light Live : The End</title>
     </programme>
-    <programme start="20250119081500 +0000" stop="20250119083000 +0000" channel="Eman Channel">
-        <title>Kids Mix</title>
-    </programme>
-    <programme start="20250119083000 +0000" stop="20250119090000 +0000" channel="Eman Channel">
-        <title>Scrap Book Island</title>
-    </programme>
-    <programme start="20250119090000 +0000" stop="20250119100000 +0000" channel="Eman Channel">
-        <title>MTV Supercharge</title>
-    </programme>
-    <programme start="20250119100000 +0000" stop="20250119101500 +0000" channel="Eman Channel">
+    <programme start="20250119095000 +0000" stop="20250119102500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250119101500 +0000" stop="20250119104500 +0000" channel="Eman Channel">
-        <title>Makkah Live</title>
-    </programme>
-    <programme start="20250119104500 +0000" stop="20250119110000 +0000" channel="Eman Channel">
-        <title>Oriental Scholars</title>
-    </programme>
-    <programme start="20250119110000 +0000" stop="20250119111500 +0000" channel="Eman Channel">
-        <title>Ibn Battuta Cartoon</title>
-    </programme>
-    <programme start="20250119111500 +0000" stop="20250119113000 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
-    </programme>
-    <programme start="20250119113000 +0000" stop="20250119120000 +0000" channel="Eman Channel">
-        <title>Danyal's Kitchen</title>
-    </programme>
-    <programme start="20250119120000 +0000" stop="20250119121600 +0000" channel="Eman Channel">
-        <title>Makkah Live</title>
+    <programme start="20250119102500 +0000" stop="20250119121600 +0000" channel="Eman Channel">
+        <title>Light Upon Light Live : The End</title>
     </programme>
     <programme start="20250119121600 +0000" stop="20250119122000 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250119122000 +0000" stop="20250119123800 +0000" channel="Eman Channel">
-        <title>Makkah Live</title>
+    <programme start="20250119122000 +0000" stop="20250119124000 +0000" channel="Eman Channel">
+        <title>Light Upon Light Live : The End</title>
     </programme>
-    <programme start="20250119123800 +0000" stop="20250119130000 +0000" channel="Eman Channel">
+    <programme start="20250119124000 +0000" stop="20250119130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250119130000 +0000" stop="20250119140000 +0000" channel="Eman Channel">
