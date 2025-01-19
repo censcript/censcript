@@ -12825,13 +12825,16 @@
     <programme start="20250119023000 +0000" stop="20250119030000 +0000" channel="SkySp Golf HD">
         <title>Ryder Cup Memories : Pieters</title>
     </programme>
-    <programme start="20250119030000 +0000" stop="20250119033000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119030000 +0000" stop="20250119033001 +0000" channel="SkySp Golf HD">
         <title>Ryder Cup Memories : Snedeker</title>
     </programme>
-    <programme start="20250119033000 +0000" stop="20250119040000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119033001 +0000" stop="20250119040001 +0000" channel="SkySp Golf HD">
+        <title>Building A Boston Sports Team</title>
+    </programme>
+    <programme start="20250119040001 +0000" stop="20250119043000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
-    <programme start="20250119040000 +0000" stop="20250119060000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119043000 +0000" stop="20250119060000 +0000" channel="SkySp Golf HD">
         <title>Live DP World Tour Featured Groups</title>
     </programme>
     <programme start="20250119060000 +0000" stop="20250119070000 +0000" channel="SkySp Golf HD">
@@ -29412,8 +29415,11 @@
     <programme start="20250119150000 +0000" stop="20250119160000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250119160000 +0000" stop="20250119163500 +0000" channel="CHSTV">
+    <programme start="20250119160000 +0000" stop="20250119163100 +0000" channel="CHSTV">
         <title>Community News</title>
+    </programme>
+    <programme start="20250119163100 +0000" stop="20250119163500 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
     </programme>
     <programme start="20250119163500 +0000" stop="20250119170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
