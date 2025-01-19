@@ -15039,6 +15039,9 @@
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
+    <programme start="20250119220000 +0000" stop="20250119223000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
+    </programme>
     <programme start="20250119223000 +0000" stop="20250119230000 +0000" channel="BBC NEWS HD">
         <title>Newscast</title>
     </programme>
@@ -29319,28 +29322,37 @@
     <programme start="20250120020000 +0000" stop="20250120030000 +0000" channel="ARY Digital">
         <title>Bharam</title>
     </programme>
-    <programme start="20250120030000 +0000" stop="20250120035500 +0000" channel="ARY Digital">
-        <title>Ae Dil</title>
+    <programme start="20250120030000 +0000" stop="20250120050000 +0000" channel="ARY Digital">
+        <title>Ae Ishq-e-Junoon</title>
     </programme>
-    <programme start="20250120035500 +0000" stop="20250120043000 +0000" channel="ARY Digital">
-        <title>Pak Vs WI - Pre Match</title>
+    <programme start="20250120050000 +0000" stop="20250120053000 +0000" channel="ARY Digital">
+        <title>Iqra</title>
     </programme>
-    <programme start="20250120043000 +0000" stop="20250120061500 +0000" channel="ARY Digital">
-        <title>Live Pak Vs WI 1st Test</title>
+    <programme start="20250120053000 +0000" stop="20250120060000 +0000" channel="ARY Digital">
+        <title>Dars-e-Bukhari</title>
+    </programme>
+    <programme start="20250120060000 +0000" stop="20250120061500 +0000" channel="ARY Digital">
+        <title>Aapa Shameem</title>
     </programme>
     <programme start="20250120061500 +0000" stop="20250120061800 +0000" channel="ARY Digital">
         <title>Azan-e-Fajr</title>
     </programme>
-    <programme start="20250120061800 +0000" stop="20250120111500 +0000" channel="ARY Digital">
-        <title>Live Pak Vs WI 1st Test</title>
+    <programme start="20250120061800 +0000" stop="20250120070000 +0000" channel="ARY Digital">
+        <title>Aapa Shameem</title>
     </programme>
-    <programme start="20250120111500 +0000" stop="20250120113000 +0000" channel="ARY Digital">
-        <title>Pak Vs WI - Post Match</title>
+    <programme start="20250120070000 +0000" stop="20250120080000 +0000" channel="ARY Digital">
+        <title>Bharam</title>
     </programme>
-    <programme start="20250120113000 +0000" stop="20250120120000 +0000" channel="ARY Digital">
-        <title>Khudsar</title>
+    <programme start="20250120080000 +0000" stop="20250120090000 +0000" channel="ARY Digital">
+        <title>Ae Ishq-e-Junoon</title>
     </programme>
-    <programme start="20250120120000 +0000" stop="20250120121700 +0000" channel="ARY Digital">
+    <programme start="20250120090000 +0000" stop="20250120110000 +0000" channel="ARY Digital">
+        <title>Good Morning Pakistan</title>
+    </programme>
+    <programme start="20250120110000 +0000" stop="20250120113000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250120113000 +0000" stop="20250120121700 +0000" channel="ARY Digital">
         <title>Khudsar</title>
     </programme>
     <programme start="20250120121700 +0000" stop="20250120122300 +0000" channel="ARY Digital">
@@ -30672,11 +30684,14 @@
     <programme start="20250120053000 +0000" stop="20250120060000 +0000" channel="NTV">
         <title>Gallary</title>
     </programme>
-    <programme start="20250120060000 +0000" stop="20250120062600 +0000" channel="NTV">
+    <programme start="20250120060000 +0000" stop="20250120061500 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250120062600 +0000" stop="20250120063000 +0000" channel="NTV">
+    <programme start="20250120061500 +0000" stop="20250120062000 +0000" channel="NTV">
         <title>Adhan-a-Fajr</title>
+    </programme>
+    <programme start="20250120062000 +0000" stop="20250120063000 +0000" channel="NTV">
+        <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250120063000 +0000" stop="20250120070000 +0000" channel="NTV">
         <title>Shastho Protidin</title>
@@ -30700,55 +30715,55 @@
         <title>Criminal Justice</title>
     </programme>
     <programme start="20250120110000 +0000" stop="20250120120000 +0000" channel="NTV">
-        <title>Ghat Protighat</title>
+        <title>Bolo Na Kobul</title>
     </programme>
-    <programme start="20250120120000 +0000" stop="20250120120800 +0000" channel="NTV">
+    <programme start="20250120120000 +0000" stop="20250120121700 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250120120800 +0000" stop="20250120121300 +0000" channel="NTV">
+    <programme start="20250120121700 +0000" stop="20250120122200 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250120121300 +0000" stop="20250120123000 +0000" channel="NTV">
+    <programme start="20250120122200 +0000" stop="20250120123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250120123000 +0000" stop="20250120140000 +0000" channel="NTV">
-        <title>Ghat Protighat</title>
+        <title>Bolo Na Kobul</title>
     </programme>
-    <programme start="20250120140000 +0000" stop="20250120141500 +0000" channel="NTV">
+    <programme start="20250120140000 +0000" stop="20250120143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250120141500 +0000" stop="20250120142000 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250120142000 +0000" stop="20250120143000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
-    </programme>
-    <programme start="20250120143000 +0000" stop="20250120150000 +0000" channel="NTV">
+    <programme start="20250120143000 +0000" stop="20250120144300 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250120150000 +0000" stop="20250120160300 +0000" channel="NTV">
-        <title>Aparajita</title>
+    <programme start="20250120144300 +0000" stop="20250120144800 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250120160300 +0000" stop="20250120160800 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
+    <programme start="20250120144800 +0000" stop="20250120150000 +0000" channel="NTV">
+        <title>Desher Khobor</title>
     </programme>
-    <programme start="20250120160800 +0000" stop="20250120163000 +0000" channel="NTV">
-        <title>Aparajita</title>
+    <programme start="20250120150000 +0000" stop="20250120163000 +0000" channel="NTV">
+        <title>Monsuba Junction</title>
     </programme>
-    <programme start="20250120163000 +0000" stop="20250120170000 +0000" channel="NTV">
+    <programme start="20250120163000 +0000" stop="20250120163200 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250120170000 +0000" stop="20250120174000 +0000" channel="NTV">
+    <programme start="20250120163200 +0000" stop="20250120163700 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
+    </programme>
+    <programme start="20250120163700 +0000" stop="20250120170000 +0000" channel="NTV">
+        <title>NTV NEWS-Shondhar Khobor</title>
+    </programme>
+    <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="NTV">
         <title>Tafsirul Quran</title>
     </programme>
-    <programme start="20250120174000 +0000" stop="20250120174500 +0000" channel="NTV">
+    <programme start="20250120180000 +0000" stop="20250120180900 +0000" channel="NTV">
+        <title>Shomoyer Shathe</title>
+    </programme>
+    <programme start="20250120180900 +0000" stop="20250120181400 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250120174500 +0000" stop="20250120180000 +0000" channel="NTV">
-        <title>Tafsirul Quran</title>
-    </programme>
-    <programme start="20250120180000 +0000" stop="20250120190000 +0000" channel="NTV">
-        <title>Adha Ghorwali</title>
+    <programme start="20250120181400 +0000" stop="20250120190000 +0000" channel="NTV">
+        <title>Shomoyer Shathe</title>
     </programme>
     <programme start="20250120190000 +0000" stop="20250120191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>

@@ -15087,16 +15087,16 @@
     <programme start="20250120140000 +0000" stop="20250120144000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250120144000 +0000" stop="20250120152400 +0000" channel="ONE HD.starhub">
+    <programme start="20250120144000 +0000" stop="20250120152500 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250120152400 +0000" stop="20250120164000 +0000" channel="ONE HD.starhub">
+    <programme start="20250120152500 +0000" stop="20250120164000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120164000 +0000" stop="20250120175500 +0000" channel="ONE HD.starhub">
+    <programme start="20250120164000 +0000" stop="20250120175700 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250120175500 +0000" stop="20250120195000 +0000" channel="ONE HD.starhub">
+    <programme start="20250120175700 +0000" stop="20250120195000 +0000" channel="ONE HD.starhub">
         <title>Running Man</title>
     </programme>
     <programme start="20250120195000 +0000" stop="20250120220000 +0000" channel="ONE HD.starhub">
@@ -15222,7 +15222,7 @@
     <programme start="20250122143000 +0000" stop="20250122154000 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250122154000 +0000" stop="20250122170000 +0000" channel="ONE HD.starhub">
+    <programme start="20250122154000 +0000" stop="20250122165500 +0000" channel="ONE HD.starhub">
         <title>Kangchi, The Beginning</title>
     </programme>
     <programme start="20250117233000 +0000" stop="20250118013000 +0000" channel="beIN Sports 3.starhub">
