@@ -14523,17 +14523,11 @@
     <programme start="20250119123000 +0000" stop="20250119130000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250119130000 +0000" stop="20250119133000 +0000" channel="BBC NEWS HD">
+    <programme start="20250119130000 +0000" stop="20250119140000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250119133000 +0000" stop="20250119140000 +0000" channel="BBC NEWS HD">
-        <title>Click</title>
-    </programme>
-    <programme start="20250119140000 +0000" stop="20250119143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250119140000 +0000" stop="20250119150000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250119143000 +0000" stop="20250119150000 +0000" channel="BBC NEWS HD">
-        <title>Americast: How Will Joe Biden Be Remembered?</title>
     </programme>
     <programme start="20250119150000 +0000" stop="20250119153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14541,11 +14535,8 @@
     <programme start="20250119153000 +0000" stop="20250119160000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="BBC NEWS HD">
+    <programme start="20250119160000 +0000" stop="20250119170000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250119163000 +0000" stop="20250119170000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
     </programme>
     <programme start="20250119170000 +0000" stop="20250119180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -28461,13 +28452,13 @@
     <programme start="20250119061600 +0000" stop="20250119061900 +0000" channel="ARY Digital">
         <title>Azan-e-Fajr</title>
     </programme>
-    <programme start="20250119061900 +0000" stop="20250119111500 +0000" channel="ARY Digital">
+    <programme start="20250119061900 +0000" stop="20250119110000 +0000" channel="ARY Digital">
         <title>Live Pak Vs WI 1st Test</title>
     </programme>
-    <programme start="20250119111500 +0000" stop="20250119120000 +0000" channel="ARY Digital">
-        <title>Pak Vs WI - Post Match</title>
+    <programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
     </programme>
-    <programme start="20250119120000 +0000" stop="20250119121600 +0000" channel="ARY Digital">
+    <programme start="20250119113000 +0000" stop="20250119121600 +0000" channel="ARY Digital">
         <title>Khudsar</title>
     </programme>
     <programme start="20250119121600 +0000" stop="20250119122200 +0000" channel="ARY Digital">
