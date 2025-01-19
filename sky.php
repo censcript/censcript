@@ -30960,14 +30960,17 @@
     <programme start="20250120050000 +0000" stop="20250120060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250120060000 +0000" stop="20250120062500 +0000" channel="iON TV">
+    <programme start="20250120060000 +0000" stop="20250120061500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250120062500 +0000" stop="20250120063000 +0000" channel="iON TV">
+    <programme start="20250120061500 +0000" stop="20250120062000 +0000" channel="iON TV">
         <title>Azan-e-Fajr</title>
     </programme>
+    <programme start="20250120062000 +0000" stop="20250120063000 +0000" channel="iON TV">
+        <title>iON News Time</title>
+    </programme>
     <programme start="20250120063000 +0000" stop="20250120070000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250120070000 +0000" stop="20250120080000 +0000" channel="iON TV">
         <title>Islamic history and tradition</title>
@@ -30976,7 +30979,7 @@
         <title>Quranic Arabic</title>
     </programme>
     <programme start="20250120090000 +0000" stop="20250120100000 +0000" channel="iON TV">
-        <title>Prokriti O Jibon</title>
+        <title>Akhsaru Tafaseer</title>
     </programme>
     <programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30985,15 +30988,15 @@
         <title>Kirishi 24</title>
     </programme>
     <programme start="20250120110000 +0000" stop="20250120120000 +0000" channel="iON TV">
-        <title>Akhsaru Tafaseer</title>
+        <title>Prokriti O Jibon</title>
     </programme>
-    <programme start="20250120120000 +0000" stop="20250120121200 +0000" channel="iON TV">
+    <programme start="20250120120000 +0000" stop="20250120121700 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250120121200 +0000" stop="20250120121700 +0000" channel="iON TV">
+    <programme start="20250120121700 +0000" stop="20250120122200 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250120121700 +0000" stop="20250120130000 +0000" channel="iON TV">
+    <programme start="20250120122200 +0000" stop="20250120130000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
     <programme start="20250120130000 +0000" stop="20250120133000 +0000" channel="iON TV">
@@ -31002,41 +31005,41 @@
     <programme start="20250120133000 +0000" stop="20250120140000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250120140000 +0000" stop="20250120142300 +0000" channel="iON TV">
+    <programme start="20250120140000 +0000" stop="20250120144300 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250120142300 +0000" stop="20250120142800 +0000" channel="iON TV">
+    <programme start="20250120144300 +0000" stop="20250120144800 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250120142800 +0000" stop="20250120150000 +0000" channel="iON TV">
+    <programme start="20250120144800 +0000" stop="20250120150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250120150000 +0000" stop="20250120160000 +0000" channel="iON TV">
         <title>Sahih Quran Shikha</title>
     </programme>
-    <programme start="20250120160000 +0000" stop="20250120161200 +0000" channel="iON TV">
+    <programme start="20250120160000 +0000" stop="20250120163200 +0000" channel="iON TV">
         <title>Sylheti Natok</title>
     </programme>
-    <programme start="20250120161200 +0000" stop="20250120161700 +0000" channel="iON TV">
+    <programme start="20250120163200 +0000" stop="20250120163700 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250120161700 +0000" stop="20250120170000 +0000" channel="iON TV">
+    <programme start="20250120163700 +0000" stop="20250120170000 +0000" channel="iON TV">
         <title>Sylheti Natok</title>
     </programme>
-    <programme start="20250120170000 +0000" stop="20250120174900 +0000" channel="iON TV">
-        <title>Documentary</title>
-    </programme>
-    <programme start="20250120174900 +0000" stop="20250120175400 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250120175400 +0000" stop="20250120180000 +0000" channel="iON TV">
-        <title>Documentary</title>
-    </programme>
-    <programme start="20250120180000 +0000" stop="20250120190000 +0000" channel="iON TV">
+    <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
+    <programme start="20250120180000 +0000" stop="20250120180900 +0000" channel="iON TV">
+        <title>Documentary</title>
+    </programme>
+    <programme start="20250120180900 +0000" stop="20250120181400 +0000" channel="iON TV">
+        <title>Azan-e-Isha</title>
+    </programme>
+    <programme start="20250120181400 +0000" stop="20250120190000 +0000" channel="iON TV">
+        <title>Documentary</title>
+    </programme>
     <programme start="20250120190000 +0000" stop="20250120200000 +0000" channel="iON TV">
-        <title>Searchlight</title>
+        <title>News Views</title>
     </programme>
     <programme start="20250120200000 +0000" stop="20250120210000 +0000" channel="iON TV">
         <title>Drama Time</title>
@@ -31051,7 +31054,7 @@
         <title>Travel Show</title>
     </programme>
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="iON TV">
-        <title>ION Events Gallery</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250119223000 +0000" stop="20250119230000 +0000" channel="Deen TV">
         <title>Quraner Alo</title>
