@@ -5325,6 +5325,18 @@
     <programme start="20250129100000 +0000" stop="20250129163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250129163000 +0000" stop="20250129220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250130100000 +0000" stop="20250130163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250117231000 +0000" stop="20250118000500 +0000" channel="HISTORY HD.starhub">
         <title>The MUFON Files</title>
     </programme>
@@ -28425,6 +28437,18 @@
     <programme start="20250129100000 +0000" stop="20250129160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250129160300 +0000" stop="20250129220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250130100000 +0000" stop="20250130160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250117222500 +0000" stop="20250118001500 +0000" channel="HBO Family HD.starhub">
         <title>Morning Glory</title>
     </programme>
@@ -30964,6 +30988,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250118040000 +0000" channel="Hub Sports 6.starhub">
