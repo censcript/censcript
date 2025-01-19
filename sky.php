@@ -36688,7 +36688,7 @@
         <title>The Martin Lewis Podcast</title>
     </programme>
     <programme start="20250119063000 +0000" stop="20250119070000 +0000" channel="BBC R5L">
-        <title>5 Live News</title>
+        <title>5 Live Sport</title>
     </programme>
     <programme start="20250119070000 +0000" stop="20250119100000 +0000" channel="BBC R5L">
         <title>Sunday Breakfast</title>
