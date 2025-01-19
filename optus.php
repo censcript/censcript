@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250119130000 +0000" stop="20250119162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Nottingham Forest v Southampton</title>
-    </programme>
-    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Manchester United v Brighton</title>
-    </programme>
-    <programme start="20250119135000 +0000" stop="20250119161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Everton v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250119135500 +0000" stop="20250119161000 +0000" channel="Optus Sport 204.optus">
-        <title>Women&#039;s Super League - Arsenal v Crystal Palace</title>
-    </programme>
     <programme start="20250119145500 +0000" stop="20250119171000 +0000" channel="Optus Sport 200.optus">
         <title>Women&#039;s Super League - West Ham United v Chelsea</title>
     </programme>
