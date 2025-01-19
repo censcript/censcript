@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250119122000 +0000" stop="20250119144000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Tottenham Hotspur v Leicester</title>
-    </programme>
     <programme start="20250119130000 +0000" stop="20250119162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
