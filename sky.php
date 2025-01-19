@@ -12867,11 +12867,8 @@
     <programme start="20250119161500 +0000" stop="20250119164500 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
-    <programme start="20250119164500 +0000" stop="20250119180000 +0000" channel="SkySp Golf HD">
+    <programme start="20250119164500 +0000" stop="20250119210000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Early Coverage</title>
-    </programme>
-    <programme start="20250119180000 +0000" stop="20250119210000 +0000" channel="SkySp Golf HD">
-        <title>DP World Tour Golf Highlights</title>
     </programme>
     <programme start="20250119210000 +0000" stop="20250119220000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf</title>
