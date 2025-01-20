@@ -9546,22 +9546,22 @@
     <programme start="20250119220000 +0000" stop="20250120000000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
     </programme>
-    <programme start="20250120000000 +0000" stop="20250120030000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120000000 +0000" stop="20250120030500 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
     </programme>
-    <programme start="20250120030000 +0000" stop="20250120033500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120030500 +0000" stop="20250120034000 +0000" channel="SPOTV2.starhub">
         <title>A Race To Remember</title>
     </programme>
-    <programme start="20250120033500 +0000" stop="20250120053000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120034000 +0000" stop="20250120053000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
-    <programme start="20250120053000 +0000" stop="20250120070000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120053000 +0000" stop="20250120071500 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250120070000 +0000" stop="20250120080000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120071500 +0000" stop="20250120081500 +0000" channel="SPOTV2.starhub">
         <title>AIG Women&#039;s Open 2024 Official Film</title>
     </programme>
-    <programme start="20250120080000 +0000" stop="20250120120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250120081500 +0000" stop="20250120120000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
     </programme>
     <programme start="20250120120000 +0000" stop="20250120123000 +0000" channel="SPOTV2.starhub">
