@@ -15255,11 +15255,20 @@
     <programme start="20250120223000 +0000" stop="20250120231500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250120231500 +0000" stop="20250120235500 +0000" channel="BBC Parl HD">
+    <programme start="20250120231500 +0000" stop="20250120232500 +0000" channel="BBC Parl HD">
+        <title>House of Lords Introductions</title>
+    </programme>
+    <programme start="20250120232500 +0000" stop="20250121000500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250120235500 +0000" stop="20250121060000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250121000500 +0000" stop="20250121003000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Child Sexual...</title>
+    </programme>
+    <programme start="20250121003000 +0000" stop="20250121043000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Mental Health Bill</title>
+    </programme>
+    <programme start="20250121043000 +0000" stop="20250121060000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Asylum Hotels</title>
     </programme>
     <programme start="20250121060000 +0000" stop="20250121070500 +0000" channel="BBC Parl HD">
         <title>Housing, Communities and Local Government Questions</title>

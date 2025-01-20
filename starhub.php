@@ -6606,9 +6606,6 @@
     <programme start="20250119160500 +0000" stop="20250119162000 +0000" channel="NHK World Premium HD.starhub">
         <title>RAMEN JAPAN 15min.</title>
     </programme>
-    <programme start="20250119162000 +0000" stop="20250119162500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather (R)</title>
-    </programme>
     <programme start="20250119162500 +0000" stop="20250119163000 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone (R)</title>
     </programme>
@@ -6809,6 +6806,9 @@
     </programme>
     <programme start="20250120200000 +0000" stop="20250120201500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Carnation&quot; Encore Eps. 98</title>
+    </programme>
+    <programme start="20250120201500 +0000" stop="20250120210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tsurube&#039;s Salute to Families &quot;Katase Rino in Shimabara City, Nagasaki Prefecture</title>
     </programme>
     <programme start="20250118230500 +0000" stop="20250119000500 +0000" channel="Lifetime HD.starhub">
         <title>Spumoni Surprise</title>
@@ -24735,16 +24735,22 @@
     <programme start="20250121155500 +0000" stop="20250121160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250121160000 +0000" stop="20250121220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250121220000 +0000" stop="20250122000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250122000000 +0000" stop="20250122040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
     </programme>
-    <programme start="20250122040000 +0000" stop="20250122080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250122040000 +0000" stop="20250122081500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
     </programme>
-    <programme start="20250122080000 +0000" stop="20250122120000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M42 - Knockout</title>
+    <programme start="20250122081500 +0000" stop="20250122121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
-    <programme start="20250122120000 +0000" stop="20250122132000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250122121500 +0000" stop="20250122132000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Pakistan Tour of Australia 2024: 1st T20I</title>
     </programme>
     <programme start="20250122132000 +0000" stop="20250122173000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24766,7 +24772,7 @@
         <title>TATA Indian Premier League 2024: M09 - Rajasthan Royals vs Delhi Capitals</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123160000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M41 - Quaifier</title>
+        <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
     </programme>
     <programme start="20250123160000 +0000" stop="20250123220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -24778,7 +24784,7 @@
         <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
     </programme>
     <programme start="20250124040000 +0000" stop="20250124080000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M42 - Knockout</title>
+        <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
     <programme start="20250124080000 +0000" stop="20250124121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M43 - Challenger</title>
@@ -24814,7 +24820,7 @@
         <title>KFC Big Bash League 2024/25: M36 - Brisbane Heat vs Hobart Hurricanes</title>
     </programme>
     <programme start="20250126080000 +0000" stop="20250126120000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M37 - Sydney Sixers vs Sydney Thunder</title>
+        <title>Bangladesh Tour of India 2024: 2nd T20I</title>
     </programme>
     <programme start="20250126120000 +0000" stop="20250126163500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M12 - Gujarat Titans vs Sunrisers Hyderabad</title>
@@ -24862,7 +24868,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250128232000 +0000" stop="20250129032000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M41 - Quaifier</title>
+        <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
     </programme>
     <programme start="20250129032000 +0000" stop="20250129075500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M13 - Delhi Capitals vs Chennai Super Kings</title>
@@ -24880,7 +24886,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129231000 +0000" stop="20250130031000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M42 - Knockout</title>
+        <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
     <programme start="20250130031000 +0000" stop="20250130073000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M15 - Royal Challengers Bengaluru vs Lucknow Su</title>
@@ -28350,6 +28356,18 @@
     <programme start="20250130100000 +0000" stop="20250130160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250130160300 +0000" stop="20250130220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250131040000 +0000" stop="20250131100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250131100000 +0000" stop="20250131160300 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250119000000 +0000" stop="20250119001000 +0000" channel="HBO Family HD.starhub">
         <title>Medieval Upheaval</title>
     </programme>
@@ -30889,6 +30907,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131040000 +0000" stop="20250131100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250118220000 +0000" stop="20250119010000 +0000" channel="Hub Sports 6.starhub">
