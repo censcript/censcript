@@ -297,7 +297,10 @@
     <programme start="20250121114000 +0000" stop="20250121121000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
-    <programme start="20250121121000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
+    <programme start="20250121121000 +0000" stop="20250121124000 +0000" channel="Channel 4 HD">
+        <title>Four in a Bed</title>
+    </programme>
+    <programme start="20250121124000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
     <programme start="20250121131000 +0000" stop="20250121134000 +0000" channel="Channel 4 HD">
@@ -24535,13 +24538,13 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250121210000 +0000" stop="20250121220000 +0000" channel="QVC HD">
-        <title>Ashwood Handbags</title>
+        <title>New Season Ashwood Leather Handbags</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250121230000 +0000" channel="QVC HD">
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250121230000 +0000" stop="20250122000000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Up to 50% off Sleepwear</title>
     </programme>
     <programme start="20250120220000 +0000" stop="20250120230000 +0000" channel="MstHveIdeasHD">
         <title>Get Organised</title>
@@ -24745,13 +24748,13 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250121130000 +0000" stop="20250121140000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Love Beauty with Elemis</title>
     </programme>
     <programme start="20250121140000 +0000" stop="20250121150000 +0000" channel="QVC Beauty">
         <title>Beauty Free Delivery Deals</title>
     </programme>
     <programme start="20250121150000 +0000" stop="20250121160000 +0000" channel="QVC Beauty">
-        <title>Beauty Free Delivery Deals</title>
+        <title>Hair Gain</title>
     </programme>
     <programme start="20250121160000 +0000" stop="20250121170000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24820,7 +24823,7 @@
         <title>Up to 50% Off Fashion</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121130000 +0000" channel="QVC Style HD">
-        <title>Up to 50% off Accessories</title>
+        <title>Up to 50% off Handbags &amp; Accessories</title>
     </programme>
     <programme start="20250121130000 +0000" stop="20250121140000 +0000" channel="QVC Style HD">
         <title>Up to 50% off Malissa J Collection Sale</title>
