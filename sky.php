@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CendolCen">
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Lon HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Lon HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One Lon HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Lon HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One Lon HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One Lon HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Lon HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One Lon HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Lon HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Lon HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One Lon HD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One Lon HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One Lon HD">
         <title>Breakfast</title>
@@ -87,19 +81,19 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Lon HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119224500 +0000" stop="20250119235500 +0000" channel="BBC Two HD">
+    <programme start="20250119225500 +0000" stop="20250120005000 +0000" channel="BBC Two HD">
         <title>The Shining</title>
     </programme>
-    <programme start="20250119235500 +0000" stop="20250120005500 +0000" channel="BBC Two HD">
+    <programme start="20250120005000 +0000" stop="20250120015000 +0000" channel="BBC Two HD">
         <title>The Traitors</title>
     </programme>
-    <programme start="20250120005500 +0000" stop="20250120015500 +0000" channel="BBC Two HD">
+    <programme start="20250120015000 +0000" stop="20250120025000 +0000" channel="BBC Two HD">
         <title>Question Time</title>
     </programme>
-    <programme start="20250120015500 +0000" stop="20250120025500 +0000" channel="BBC Two HD">
+    <programme start="20250120025000 +0000" stop="20250120035000 +0000" channel="BBC Two HD">
         <title>Silent Witness</title>
     </programme>
-    <programme start="20250120025500 +0000" stop="20250120063000 +0000" channel="BBC Two HD">
+    <programme start="20250120035000 +0000" stop="20250120063000 +0000" channel="BBC Two HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250120063000 +0000" stop="20250120071500 +0000" channel="BBC Two HD">
@@ -13125,11 +13119,8 @@
     <programme start="20250119230001 +0000" stop="20250119231501 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Cardiff City v Swansea</title>
     </programme>
-    <programme start="20250119231501 +0000" stop="20250119234500 +0000" channel="SkySp F'ball HD">
+    <programme start="20250119231501 +0000" stop="20250119234501 +0000" channel="SkySp F'ball HD">
         <title>WSL Hlts: Man City v Man Utd</title>
-    </programme>
-    <programme start="20250119234500 +0000" stop="20250119234501 +0000" channel="SkySp F'ball HD">
-        <title>EFL 24/25: Plymouth Argyle v QPR</title>
     </programme>
     <programme start="20250119234501 +0000" stop="20250120000001 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Millwall v Hull City</title>
@@ -13143,11 +13134,8 @@
     <programme start="20250120011501 +0000" stop="20250120021501 +0000" channel="SkySp F'ball HD">
         <title>EFL Play-Off Final: League 1 16/17</title>
     </programme>
-    <programme start="20250120021501 +0000" stop="20250120030000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250120021501 +0000" stop="20250120031500 +0000" channel="SkySp F'ball HD">
         <title>EFL Play-Off Final: League 2 16/17</title>
-    </programme>
-    <programme start="20250120030000 +0000" stop="20250120031500 +0000" channel="SkySp F'ball HD">
-        <title>EFL 16/17: Fulham v Aston Villa</title>
     </programme>
     <programme start="20250120031500 +0000" stop="20250120033000 +0000" channel="SkySp F'ball HD">
         <title>EFL 17/18: N. Forest v Ipswich</title>
@@ -14025,13 +14013,13 @@
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250119224500 +0000" stop="20250119230000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250119184500 +0000" stop="20250119231000 +0000" channel="Eurosport 1 HD">
+        <title>Live Snooker: The Masters</title>
+    </programme>
+    <programme start="20250119231000 +0000" stop="20250120000500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Eurosport 1 HD">
-        <title>Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250120000000 +0000" stop="20250120003000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250120000500 +0000" stop="20250120003000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250120003000 +0000" stop="20250120020000 +0000" channel="Eurosport 1 HD">
@@ -15187,7 +15175,7 @@
         <title>House of Lords - Genocide in Sudan Statement</title>
     </programme>
     <programme start="20250120081000 +0000" stop="20250120085500 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly -...</title>
+        <title>Northern Ireland Assembly - Justice Questions</title>
     </programme>
     <programme start="20250120085500 +0000" stop="20250120095000 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
@@ -29973,10 +29961,7 @@
     <programme start="20250120090000 +0000" stop="20250120093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250120093000 +0000" stop="20250120094500 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250120094500 +0000" stop="20250120110000 +0000" channel="Kanshi TV">
+    <programme start="20250120093000 +0000" stop="20250120110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250120110000 +0000" stop="20250120123000 +0000" channel="Kanshi TV">
@@ -34809,13 +34794,13 @@
     <programme start="20250120233000 +0000" stop="20250121003000 +0000" channel="TNTSports2 HD">
         <title>Australia v England - 1st T20</title>
     </programme>
-    <programme start="20250119224500 +0000" stop="20250119230000 +0000" channel="Eurosport 1">
+    <programme start="20250119184500 +0000" stop="20250119231000 +0000" channel="Eurosport 1">
+        <title>Live Snooker: The Masters</title>
+    </programme>
+    <programme start="20250119231000 +0000" stop="20250120000500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="Eurosport 1">
-        <title>Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250120000000 +0000" stop="20250120003000 +0000" channel="Eurosport 1">
+    <programme start="20250120000500 +0000" stop="20250120003000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250120003000 +0000" stop="20250120020000 +0000" channel="Eurosport 1">
@@ -36102,23 +36087,20 @@
     <programme start="20250120230000 +0000" stop="20250121000000 +0000" channel="Sky Intro">
         <title>Sky Intro - Sky TV made Simple</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One NE HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One NE HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One NE HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One NE HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One NE HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One NE HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One NE HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One NE HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One NE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One NE HD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One NE HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One NE HD">
         <title>Breakfast</title>
@@ -36186,20 +36168,14 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One NE HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One NW HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One NW HD">
         <title>Match of the Day 2</title>
-    </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One NW HD">
-        <title>The Women's Football Show</title>
     </programme>
     <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One NW HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One NW HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One NW HD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One NW HD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One NW HD">
         <title>Weather for the Week Ahead</title>
@@ -36273,20 +36249,14 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One NW HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Yks HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Yks HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One Yks HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Yks HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One Yks HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Yks HD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One Yks HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Yks HD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Yks HD">
         <title>Weather for the Week Ahead</title>
@@ -36360,19 +36330,19 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Yks HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Y&amp;L HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Y&amp;L HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120012500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Y&amp;L HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Y&amp;L HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One Y&amp;L HD">
@@ -36441,23 +36411,14 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Y&amp;L HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One WM HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One WM HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One WM HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One WM HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One WM HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One WM HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One WM HD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One WM HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One WM HD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One WM HD">
         <title>Weather for the Week Ahead</title>
@@ -36531,26 +36492,20 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One WM HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One EMidHD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One EMidHD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One EMidHD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One EMidHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One EMidHD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One EMidHD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One EMidHD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One EMidHD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One EMidHD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One EMidHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One EMidHD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One EMidHD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One EMidHD">
         <title>Breakfast</title>
@@ -36618,26 +36573,20 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One EMidHD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One EastHD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One EastHD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One EastHD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One EastHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One EastHD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One EastHD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One EastHD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One EastHD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One EastHD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One EastHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One EastHD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One EastHD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One EastHD">
         <title>Breakfast</title>
@@ -36705,19 +36654,19 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One EastHD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One SE HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One SE HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One SE HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One SE HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120012500 +0000" channel="BBC One SE HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One SE HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One SE HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One SE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One SE HD">
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One SE HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One SE HD">
@@ -36786,23 +36735,20 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One SE HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Wst HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Wst HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One Wst HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Wst HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One Wst HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120012500 +0000" channel="BBC One Wst HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Wst HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Wst HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Wst HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One Wst HD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One Wst HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One Wst HD">
         <title>Breakfast</title>
@@ -36870,26 +36816,17 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Wst HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Sth HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Sth HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One Sth HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Sth HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One Sth HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One Sth HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Sth HD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One Sth HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Sth HD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Sth HD">
-        <title>BBC News</title>
+        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One Sth HD">
         <title>BBC News</title>
@@ -36960,23 +36897,14 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Sth HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One SW HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One SW HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One SW HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One SW HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One SW HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One SW HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One SW HD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One SW HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One SW HD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One SW HD">
         <title>Weather for the Week Ahead</title>
@@ -37050,19 +36978,19 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One SW HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One CI HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One CI HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One CI HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One CI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120012500 +0000" channel="BBC One CI HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One CI HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One CI HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One CI HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One CI HD">
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One CI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One CI HD">
@@ -37131,23 +37059,17 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One CI HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One ScotHD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One ScotHD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One ScotHD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One ScotHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One ScotHD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One ScotHD">
         <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One ScotHD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One ScotHD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One ScotHD">
-        <title>BBC News</title>
+        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
@@ -37218,20 +37140,20 @@
     <programme start="20250120234000 +0000" stop="20250121004000 +0000" channel="BBC One ScotHD">
         <title>Should We Still Be Working from Home? - Panorama</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One Wal HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One Wal HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120003500 +0000" channel="BBC One Wal HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One Wal HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250120003500 +0000" stop="20250120012500 +0000" channel="BBC One Wal HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One Wal HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One Wal HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One Wal HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One Wal HD">
-        <title>Weather for the Week Ahead</title>
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One Wal HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One Wal HD">
         <title>Breakfast</title>
@@ -37299,25 +37221,19 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One Wal HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119223000 +0000" stop="20250119234500 +0000" channel="BBC One NI HD">
+    <programme start="20250119223000 +0000" stop="20250119235000 +0000" channel="BBC One NI HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250119235000 +0000" channel="BBC One NI HD">
+    <programme start="20250119235000 +0000" stop="20250120004000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250119235000 +0000" stop="20250120003500 +0000" channel="BBC One NI HD">
-        <title>The Women's Football Show</title>
-    </programme>
-    <programme start="20250120003500 +0000" stop="20250120004000 +0000" channel="BBC One NI HD">
+    <programme start="20250120004000 +0000" stop="20250120013000 +0000" channel="BBC One NI HD">
         <title>The Graham Norton Show</title>
     </programme>
-    <programme start="20250120004000 +0000" stop="20250120012500 +0000" channel="BBC One NI HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250120012500 +0000" stop="20250120013000 +0000" channel="BBC One NI HD">
+    <programme start="20250120013000 +0000" stop="20250120013500 +0000" channel="BBC One NI HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120060000 +0000" channel="BBC One NI HD">
+    <programme start="20250120013500 +0000" stop="20250120060000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250120060000 +0000" stop="20250120093000 +0000" channel="BBC One NI HD">
@@ -37386,28 +37302,25 @@
     <programme start="20250120234500 +0000" stop="20250121004500 +0000" channel="BBC One NI HD">
         <title>Bump</title>
     </programme>
-    <programme start="20250119224500 +0000" stop="20250119225000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250119225500 +0000" stop="20250119234500 +0000" channel="BBC Two Wal HD">
         <title>Finding Hope</title>
     </programme>
-    <programme start="20250119225000 +0000" stop="20250119233500 +0000" channel="BBC Two Wal HD">
-        <title>The Shining</title>
+    <programme start="20250119234500 +0000" stop="20250120003000 +0000" channel="BBC Two Wal HD">
+        <title>Honey Badgers: Masters of Mayhem</title>
     </programme>
-    <programme start="20250119233500 +0000" stop="20250120004500 +0000" channel="BBC Two Wal HD">
-        <title>The Shining</title>
+    <programme start="20250120003000 +0000" stop="20250120005000 +0000" channel="BBC Two Wal HD">
+        <title>A Wild Year</title>
     </programme>
-    <programme start="20250120004500 +0000" stop="20250120005500 +0000" channel="BBC Two Wal HD">
-        <title>Meet the Bears</title>
+    <programme start="20250120005000 +0000" stop="20250120015000 +0000" channel="BBC Two Wal HD">
+        <title>The Traitors</title>
     </programme>
-    <programme start="20250120005500 +0000" stop="20250120013000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250120015000 +0000" stop="20250120025000 +0000" channel="BBC Two Wal HD">
         <title>Question Time</title>
     </programme>
-    <programme start="20250120013000 +0000" stop="20250120015500 +0000" channel="BBC Two Wal HD">
-        <title>Meet the Bears</title>
-    </programme>
-    <programme start="20250120015500 +0000" stop="20250120025500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250120025000 +0000" stop="20250120035000 +0000" channel="BBC Two Wal HD">
         <title>Silent Witness</title>
     </programme>
-    <programme start="20250120025500 +0000" stop="20250120063000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250120035000 +0000" stop="20250120063000 +0000" channel="BBC Two Wal HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250120063000 +0000" stop="20250120071500 +0000" channel="BBC Two Wal HD">
@@ -37464,25 +37377,19 @@
     <programme start="20250120230500 +0000" stop="20250121000500 +0000" channel="BBC Two Wal HD">
         <title>Dark Waters</title>
     </programme>
-    <programme start="20250119224500 +0000" stop="20250119230000 +0000" channel="BBC Two NI HD">
+    <programme start="20250119225500 +0000" stop="20250119232500 +0000" channel="BBC Two NI HD">
         <title>Tartan Tales</title>
     </programme>
-    <programme start="20250119230000 +0000" stop="20250119231500 +0000" channel="BBC Two NI HD">
-        <title>The Shining</title>
-    </programme>
-    <programme start="20250119231500 +0000" stop="20250119234500 +0000" channel="BBC Two NI HD">
+    <programme start="20250119232500 +0000" stop="20250119235500 +0000" channel="BBC Two NI HD">
         <title>Sunday Politics</title>
     </programme>
-    <programme start="20250119234500 +0000" stop="20250120014000 +0000" channel="BBC Two NI HD">
+    <programme start="20250119235500 +0000" stop="20250120025000 +0000" channel="BBC Two NI HD">
         <title>The Shining</title>
     </programme>
-    <programme start="20250120014000 +0000" stop="20250120015500 +0000" channel="BBC Two NI HD">
-        <title>The Traitors</title>
-    </programme>
-    <programme start="20250120015500 +0000" stop="20250120025500 +0000" channel="BBC Two NI HD">
+    <programme start="20250120025000 +0000" stop="20250120035000 +0000" channel="BBC Two NI HD">
         <title>Silent Witness</title>
     </programme>
-    <programme start="20250120025500 +0000" stop="20250120063000 +0000" channel="BBC Two NI HD">
+    <programme start="20250120035000 +0000" stop="20250120063000 +0000" channel="BBC Two NI HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250120063000 +0000" stop="20250120071500 +0000" channel="BBC Two NI HD">
@@ -39741,11 +39648,8 @@
     <programme start="20250120235500 +0000" stop="20250121005500 +0000" channel="BBC R Foyle">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250119190000 +0000" stop="20250119230000 +0000" channel="LBC News">
+    <programme start="20250119190000 +0000" stop="20250120000000 +0000" channel="LBC News">
         <title>Jonathan Ray</title>
-    </programme>
-    <programme start="20250119230000 +0000" stop="20250120000000 +0000" channel="LBC News">
-        <title>LBC News</title>
     </programme>
     <programme start="20250120000000 +0000" stop="20250120060000 +0000" channel="LBC News">
         <title>LBC News</title>

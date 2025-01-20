@@ -5151,10 +5151,7 @@
     <programme start="20250119190500 +0000" stop="20250119210500 +0000" channel="Asianet Movies.starhub">
         <title>August 15</title>
     </programme>
-    <programme start="20250119210500 +0000" stop="20250120000000 +0000" channel="Asianet Movies.starhub">
-        <title>Kaththi</title>
-    </programme>
-    <programme start="20250120000000 +0000" stop="20250120013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250119233000 +0000" stop="20250120013000 +0000" channel="Asianet Movies.starhub">
         <title>Greetings</title>
     </programme>
     <programme start="20250120013000 +0000" stop="20250120043000 +0000" channel="Asianet Movies.starhub">
@@ -5172,16 +5169,16 @@
     <programme start="20250120133000 +0000" stop="20250120163000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20250120163000 +0000" stop="20250120190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250120163000 +0000" stop="20250120185500 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Thudarunnu</title>
     </programme>
-    <programme start="20250120190000 +0000" stop="20250120220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250120185500 +0000" stop="20250120210000 +0000" channel="Asianet Movies.starhub">
         <title>Again Kasarkkode Khadarbhai</title>
     </programme>
-    <programme start="20250120220000 +0000" stop="20250121000000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250120210000 +0000" stop="20250120233000 +0000" channel="Asianet Movies.starhub">
         <title>Jai Sulthan</title>
     </programme>
-    <programme start="20250121000000 +0000" stop="20250121013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250120233000 +0000" stop="20250121013000 +0000" channel="Asianet Movies.starhub">
         <title>Immini Nalloral</title>
     </programme>
     <programme start="20250121013000 +0000" stop="20250121043000 +0000" channel="Asianet Movies.starhub">
@@ -32956,6 +32953,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250117220000 +0000" stop="20250118040000 +0000" channel="Hub Sports 5 HD.starhub">

@@ -105,6 +105,18 @@
     <programme start="20250126233000 +0000" stop="20250127003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250127170000 +0000" stop="20250127180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250127183000 +0000" stop="20250127190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250129180000 +0000" stop="20250129183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Andy Carroll</title>
+    </programme>
     <programme start="20250201113000 +0000" stop="20250201145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Brighton</title>
     </programme>
@@ -150,8 +162,17 @@
     <programme start="20250202183500 +0000" stop="20250202205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Manchester United</title>
     </programme>
+    <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250203170000 +0000" stop="20250203180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250203193000 +0000" stop="20250203223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v West Ham United</title>
+    </programme>
+    <programme start="20250204020000 +0000" stop="20250204023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
     </programme>
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>
