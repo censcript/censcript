@@ -6780,35 +6780,35 @@
     <programme start="20250120154000 +0000" stop="20250120154500 +0000" channel="NHK World Premium HD.starhub">
         <title>Cooking for Beginners</title>
     </programme>
-    <programme start="20250120154500 +0000" stop="20250120161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips</title>
+    <programme start="20250120160000 +0000" stop="20250120180000 +0000" channel="NHK World Premium HD.starhub">
+        <title>US President&#039;s Inauguration Ceremony (End time subject to change.)</title>
     </programme>
-    <programme start="20250120161500 +0000" stop="20250120164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Gretel&#039;s Magical Oven</title>
+    <programme start="20250120180000 +0000" stop="20250120180500 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 5min.</title>
     </programme>
-    <programme start="20250120164000 +0000" stop="20250120171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Japanese Narrative Art</title>
-    </programme>
-    <programme start="20250120171000 +0000" stop="20250120173000 +0000" channel="NHK World Premium HD.starhub">
-        <title>French in a Happy Mood</title>
-    </programme>
-    <programme start="20250120173000 +0000" stop="20250120174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Feeling English! Favorite Phrases Selected from Data</title>
-    </programme>
-    <programme start="20250120174000 +0000" stop="20250120174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather (R)</title>
-    </programme>
-    <programme start="20250120174500 +0000" stop="20250120175500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Go! Go! Cook R&#039;n</title>
-    </programme>
-    <programme start="20250120175500 +0000" stop="20250120181000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery</title>
+    <programme start="20250120180500 +0000" stop="20250120181000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Ultra Heavy Machinery 5min.</title>
     </programme>
     <programme start="20250120181000 +0000" stop="20250120183500 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother (R)</title>
     </programme>
     <programme start="20250120183500 +0000" stop="20250120190300 +0000" channel="NHK World Premium HD.starhub">
         <title>Asia Insight (B)</title>
+    </programme>
+    <programme start="20250120190300 +0000" stop="20250120190500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20250120190500 +0000" stop="20250120193200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Today&#039;s Close-up (R)</title>
+    </programme>
+    <programme start="20250120193200 +0000" stop="20250120193500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20250120193500 +0000" stop="20250120200000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Grand Sumo New Year Tournament Highlights</title>
+    </programme>
+    <programme start="20250120200000 +0000" stop="20250120201500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Carnation&quot; Encore Eps. 98</title>
     </programme>
     <programme start="20250118230500 +0000" stop="20250119000500 +0000" channel="Lifetime HD.starhub">
         <title>Spumoni Surprise</title>
