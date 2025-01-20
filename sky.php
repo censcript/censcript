@@ -6256,7 +6256,7 @@
         <title>Binneas - Na Trads</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250121230000 +0000" channel="BBC ALBA HD">
-        <title>Trusadh - Sgeulachd a'...</title>
+        <title>Trusadh - Togail - A-Listers in Lewis and Harris</title>
     </programme>
     <programme start="20250121230000 +0000" stop="20250121232500 +0000" channel="BBC ALBA HD">
         <title>Machair</title>
@@ -29730,11 +29730,11 @@
     <programme start="20250121100000 +0000" stop="20250121103000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250121103000 +0000" stop="20250121113000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
+    <programme start="20250121103000 +0000" stop="20250121110000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
-    <programme start="20250121113000 +0000" stop="20250121120000 +0000" channel="Sikh Channel">
-        <title>Appeal for Marriage Seva</title>
+    <programme start="20250121110000 +0000" stop="20250121120000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121133000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -29742,8 +29742,11 @@
     <programme start="20250121133000 +0000" stop="20250121140000 +0000" channel="Sikh Channel">
         <title>Hukamnama Explanations</title>
     </programme>
-    <programme start="20250121140000 +0000" stop="20250121150000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250121140000 +0000" stop="20250121143000 +0000" channel="Sikh Channel">
+        <title>Marriage Story</title>
+    </programme>
+    <programme start="20250121143000 +0000" stop="20250121150000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250121150000 +0000" stop="20250121153000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -29751,8 +29754,11 @@
     <programme start="20250121153000 +0000" stop="20250121160000 +0000" channel="Sikh Channel">
         <title>Lariwar Katha: Giani Kulwant Singh</title>
     </programme>
-    <programme start="20250121160000 +0000" stop="20250121170000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250121160000 +0000" stop="20250121163000 +0000" channel="Sikh Channel">
+        <title>Marriage Story</title>
+    </programme>
+    <programme start="20250121163000 +0000" stop="20250121170000 +0000" channel="Sikh Channel">
+        <title>Dr Sukhpreet Singh Udhoke</title>
     </programme>
     <programme start="20250121170000 +0000" stop="20250121183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -29764,7 +29770,7 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250121193000 +0000" stop="20250121200000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250121200000 +0000" stop="20250121210000 +0000" channel="Sikh Channel">
         <title>Live : Derby Q &amp; A</title>
@@ -29775,11 +29781,8 @@
     <programme start="20250121213000 +0000" stop="20250121220000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250121220000 +0000" stop="20250121223000 +0000" channel="Sikh Channel">
-        <title>Basics of Sikhi</title>
-    </programme>
-    <programme start="20250121223000 +0000" stop="20250121233000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250121220000 +0000" stop="20250121233000 +0000" channel="Sikh Channel">
+        <title>Sikh Motorcycle 5th Anniversary</title>
     </programme>
     <programme start="20250121233000 +0000" stop="20250122003000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
