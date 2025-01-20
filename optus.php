@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250120170000 +0000" stop="20250120180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250120193000 +0000" stop="20250120223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Wolverhampton Wanderers</title>
     </programme>

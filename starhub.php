@@ -22713,9 +22713,6 @@
     <programme start="20250120130000 +0000" stop="20250120133000 +0000" channel="Sun TV.starhub">
         <title>Singapenne</title>
     </programme>
-    <programme start="20250120133000 +0000" stop="20250120140000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20250120140000 +0000" stop="20250120143000 +0000" channel="Sun TV.starhub">
         <title>Ethirneechal Thodargiradhu</title>
     </programme>
@@ -22729,13 +22726,13 @@
         <title>Malar - Serial</title>
     </programme>
     <programme start="20250120160000 +0000" stop="20250120163000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20250120163000 +0000" stop="20250120230000 +0000" channel="Sun TV.starhub">
-        <title>Songs</title>
+        <title>SONGS</title>
     </programme>
     <programme start="20250120230000 +0000" stop="20250120233000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
+        <title>NEWS</title>
     </programme>
     <programme start="20250120233000 +0000" stop="20250121000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
@@ -22877,6 +22874,9 @@
     </programme>
     <programme start="20250122060000 +0000" stop="20250122063000 +0000" channel="Sun TV.starhub">
         <title>Ilakkiya</title>
+    </programme>
+    <programme start="20250122063000 +0000" stop="20250122070000 +0000" channel="Sun TV.starhub">
+        <title>Lakshmi</title>
     </programme>
     <programme start="20250118234500 +0000" stop="20250119004500 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 2</title>

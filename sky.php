@@ -15258,11 +15258,8 @@
     <programme start="20250120235500 +0000" stop="20250121060000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
     </programme>
-    <programme start="20250121060000 +0000" stop="20250121070000 +0000" channel="BBC Parl HD">
+    <programme start="20250121060000 +0000" stop="20250121070500 +0000" channel="BBC Parl HD">
         <title>Housing, Communities and Local Government Questions</title>
-    </programme>
-    <programme start="20250121070000 +0000" stop="20250121070500 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
     </programme>
     <programme start="20250121070500 +0000" stop="20250121083500 +0000" channel="BBC Parl HD">
         <title>Child Sexual Abuse and Exploitation Statement</title>
@@ -18376,7 +18373,7 @@
         <title>Rhapsody TV</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121123000 +0000" channel="LoveWorld HD">
-        <title>The World Needs Truth</title>
+        <title>Rhapsody TV</title>
     </programme>
     <programme start="20250121123000 +0000" stop="20250121130000 +0000" channel="LoveWorld HD">
         <title>Real Miracles Today</title>
@@ -18393,32 +18390,20 @@
     <programme start="20250121150000 +0000" stop="20250121160000 +0000" channel="LoveWorld HD">
         <title>The 700 Club</title>
     </programme>
-    <programme start="20250121160000 +0000" stop="20250121163000 +0000" channel="LoveWorld HD">
-        <title>The InnerCity Missions Real Stories</title>
-    </programme>
-    <programme start="20250121163000 +0000" stop="20250121170000 +0000" channel="LoveWorld HD">
-        <title>Loveworld Network News</title>
-    </programme>
-    <programme start="20250121170000 +0000" stop="20250121180000 +0000" channel="LoveWorld HD">
-        <title>Lovetoons</title>
-    </programme>
-    <programme start="20250121180000 +0000" stop="20250121190000 +0000" channel="LoveWorld HD">
+    <programme start="20250121160000 +0000" stop="20250121170000 +0000" channel="LoveWorld HD">
         <title>Full Disclosure</title>
     </programme>
-    <programme start="20250121190000 +0000" stop="20250121193000 +0000" channel="LoveWorld HD">
-        <title>Sports Recap</title>
+    <programme start="20250121170000 +0000" stop="20250121193000 +0000" channel="LoveWorld HD">
+        <title>Global Prayer and Fasting with Pastor Chris</title>
     </programme>
-    <programme start="20250121193000 +0000" stop="20250121200000 +0000" channel="LoveWorld HD">
-        <title>#YoungandKinging</title>
-    </programme>
-    <programme start="20250121200000 +0000" stop="20250121203000 +0000" channel="LoveWorld HD">
-        <title>Atmosphere Of Miracles</title>
+    <programme start="20250121193000 +0000" stop="20250121203000 +0000" channel="LoveWorld HD">
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250121203000 +0000" stop="20250121210000 +0000" channel="LoveWorld HD">
-        <title>Today's Review</title>
+        <title>Atmosphere Of Miracles</title>
     </programme>
     <programme start="20250121210000 +0000" stop="20250121213000 +0000" channel="LoveWorld HD">
-        <title>The World Needs Truth</title>
+        <title>Today's Review</title>
     </programme>
     <programme start="20250121213000 +0000" stop="20250121220000 +0000" channel="LoveWorld HD">
         <title>The Watchmen</title>
@@ -26041,7 +26026,7 @@
         <title>Costar</title>
     </programme>
     <programme start="20250121113000 +0000" stop="20250121120000 +0000" channel="B4U Music">
-        <title>First Cut</title>
+        <title>Loop</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121123000 +0000" channel="B4U Music">
         <title>Hitz</title>
@@ -26065,7 +26050,7 @@
         <title>Travel Time Hits</title>
     </programme>
     <programme start="20250121170000 +0000" stop="20250121173000 +0000" channel="B4U Music">
-        <title>First Cut</title>
+        <title>Loop</title>
     </programme>
     <programme start="20250121173000 +0000" stop="20250121180000 +0000" channel="B4U Music">
         <title>Bajao</title>
@@ -26695,7 +26680,7 @@
         <title>Anjaana</title>
     </programme>
     <programme start="20250121114000 +0000" stop="20250121121000 +0000" channel="Zee Cinema">
-        <title>ILT 20 Highlights</title>
+        <title>ILT20 DC vs DV - Highlights</title>
     </programme>
     <programme start="20250121121000 +0000" stop="20250121144500 +0000" channel="Zee Cinema">
         <title>Ghayal Once Again</title>
@@ -27967,43 +27952,73 @@
         <title>Jurm o Saza</title>
     </programme>
     <programme start="20250120220500 +0000" stop="20250120230000 +0000" channel="New Vision TV">
-        <title>Highlights Pak Vs WI - 1st Test</title>
+        <title>News</title>
     </programme>
     <programme start="20250120230000 +0000" stop="20250120230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250120230500 +0000" stop="20250121000500 +0000" channel="New Vision TV">
-        <title>News</title>
-    </programme>
-    <programme start="20250121000500 +0000" stop="20250121010500 +0000" channel="New Vision TV">
+    <programme start="20250120230500 +0000" stop="20250121000000 +0000" channel="New Vision TV">
         <title>Off The Record With Kashif Abbasi</title>
     </programme>
-    <programme start="20250121010500 +0000" stop="20250121020500 +0000" channel="New Vision TV">
+    <programme start="20250121000000 +0000" stop="20250121000500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121000500 +0000" stop="20250121010000 +0000" channel="New Vision TV">
+        <title>Khabar with M.Malick k Saath</title>
+    </programme>
+    <programme start="20250121010000 +0000" stop="20250121010500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121010500 +0000" stop="20250121020000 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250121020500 +0000" stop="20250121030500 +0000" channel="New Vision TV">
+    <programme start="20250121020000 +0000" stop="20250121020500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121020500 +0000" stop="20250121030000 +0000" channel="New Vision TV">
         <title>11th Hour with Waseem Badami</title>
+    </programme>
+    <programme start="20250121030000 +0000" stop="20250121030500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
     </programme>
     <programme start="20250121030500 +0000" stop="20250121040500 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250121040500 +0000" stop="20250121050500 +0000" channel="New Vision TV">
+    <programme start="20250121040500 +0000" stop="20250121050000 +0000" channel="New Vision TV">
         <title>Hoshiyarian</title>
     </programme>
-    <programme start="20250121050500 +0000" stop="20250121060500 +0000" channel="New Vision TV">
+    <programme start="20250121050000 +0000" stop="20250121050500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121050500 +0000" stop="20250121060000 +0000" channel="New Vision TV">
         <title>Khabar with M.Malick k Saath</title>
     </programme>
-    <programme start="20250121060500 +0000" stop="20250121070500 +0000" channel="New Vision TV">
+    <programme start="20250121060000 +0000" stop="20250121060500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121060500 +0000" stop="20250121070000 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250121070500 +0000" stop="20250121080500 +0000" channel="New Vision TV">
+    <programme start="20250121070000 +0000" stop="20250121070500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121070500 +0000" stop="20250121080000 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250121080500 +0000" stop="20250121090500 +0000" channel="New Vision TV">
+    <programme start="20250121080000 +0000" stop="20250121080500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121080500 +0000" stop="20250121090000 +0000" channel="New Vision TV">
         <title>Bakhabar Savera</title>
     </programme>
-    <programme start="20250121090500 +0000" stop="20250121100500 +0000" channel="New Vision TV">
+    <programme start="20250121090000 +0000" stop="20250121090500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250121090500 +0000" stop="20250121100000 +0000" channel="New Vision TV">
         <title>Bakhabar Savera</title>
+    </programme>
+    <programme start="20250121100000 +0000" stop="20250121100500 +0000" channel="New Vision TV">
+        <title>Headline News</title>
     </programme>
     <programme start="20250121100500 +0000" stop="20250121110500 +0000" channel="New Vision TV">
         <title>News</title>
@@ -30352,7 +30367,7 @@
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250121063000 +0000" stop="20250121070000 +0000" channel="CHSTV">
-        <title>Islam Keno Shantir Dhormo</title>
+        <title>Islamic Lifestyle</title>
     </programme>
     <programme start="20250121070000 +0000" stop="20250121073000 +0000" channel="CHSTV">
         <title>Hamd O Nath</title>
