@@ -29283,26 +29283,11 @@
     <programme start="20250120193000 +0000" stop="20250120194500 +0000" channel="Eman Channel">
         <title>A Light Along The Path</title>
     </programme>
-    <programme start="20250120194500 +0000" stop="20250120211500 +0000" channel="Eman Channel">
-        <title>Recital Revival</title>
+    <programme start="20250120194500 +0000" stop="20250120200000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
-    <programme start="20250120211500 +0000" stop="20250120214500 +0000" channel="Eman Channel">
-        <title>40 Ahadeeth</title>
-    </programme>
-    <programme start="20250120214500 +0000" stop="20250120220000 +0000" channel="Eman Channel">
-        <title>Trials of Prophet Ibrahim</title>
-    </programme>
-    <programme start="20250120220000 +0000" stop="20250120221500 +0000" channel="Eman Channel">
-        <title>Raised Hands</title>
-    </programme>
-    <programme start="20250120221500 +0000" stop="20250120224000 +0000" channel="Eman Channel">
-        <title>The Waz And Nav Show</title>
-    </programme>
-    <programme start="20250120224000 +0000" stop="20250120231100 +0000" channel="Eman Channel">
-        <title>Greatness Of Allah</title>
-    </programme>
-    <programme start="20250120231100 +0000" stop="20250121001100 +0000" channel="Eman Channel">
-        <title>Quran Circle</title>
+    <programme start="20250120200000 +0000" stop="20250120210000 +0000" channel="Eman Channel">
+        <title>LIVE Charity Appeal: Salam Charity</title>
     </programme>
     <programme start="20250119220000 +0000" stop="20250119233000 +0000" channel="ARY Digital">
         <title>Khudsar</title>
@@ -30483,10 +30468,10 @@
     <programme start="20250120153000 +0000" stop="20250120163200 +0000" channel="IQRA Bangla">
         <title>Tauhider Shur</title>
     </programme>
-    <programme start="20250120163200 +0000" stop="20250120163700 +0000" channel="IQRA Bangla">
+    <programme start="20250120163200 +0000" stop="20250120164000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250120163700 +0000" stop="20250120180000 +0000" channel="IQRA Bangla">
+    <programme start="20250120164000 +0000" stop="20250120180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250120180000 +0000" stop="20250120180900 +0000" channel="IQRA Bangla">
@@ -37383,8 +37368,11 @@
     <programme start="20250119232500 +0000" stop="20250119235500 +0000" channel="BBC Two NI HD">
         <title>Sunday Politics</title>
     </programme>
-    <programme start="20250119235500 +0000" stop="20250120025000 +0000" channel="BBC Two NI HD">
+    <programme start="20250119235500 +0000" stop="20250120015000 +0000" channel="BBC Two NI HD">
         <title>The Shining</title>
+    </programme>
+    <programme start="20250120015000 +0000" stop="20250120025000 +0000" channel="BBC Two NI HD">
+        <title>Question Time</title>
     </programme>
     <programme start="20250120025000 +0000" stop="20250120035000 +0000" channel="BBC Two NI HD">
         <title>Silent Witness</title>
