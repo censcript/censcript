@@ -9603,8 +9603,11 @@
     <programme start="20250121120000 +0000" stop="20250121130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250121130000 +0000" stop="20250121160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250121130000 +0000" stop="20250121142000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
+    </programme>
+    <programme start="20250121142000 +0000" stop="20250121160000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
     </programme>
     <programme start="20250121160000 +0000" stop="20250121180000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 7th Tournament</title>
@@ -9639,20 +9642,20 @@
     <programme start="20250122120000 +0000" stop="20250122130000 +0000" channel="SPOTV2.starhub">
         <title>The 152nd Open Official Film</title>
     </programme>
-    <programme start="20250122130000 +0000" stop="20250122160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250122130000 +0000" stop="20250122161000 +0000" channel="SPOTV2.starhub">
         <title>Day 3</title>
     </programme>
-    <programme start="20250122160000 +0000" stop="20250122180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250122161000 +0000" stop="20250122180000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 7th Tournament</title>
     </programme>
     <programme start="20250122180000 +0000" stop="20250122203000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
     </programme>
-    <programme start="20250122203000 +0000" stop="20250122220000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250122203000 +0000" stop="20250122215000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2</title>
     </programme>
-    <programme start="20250122220000 +0000" stop="20250123010000 +0000" channel="SPOTV2.starhub">
-        <title>Major League Baseball Hall of Fame 2025</title>
+    <programme start="20250122215000 +0000" stop="20250123010000 +0000" channel="SPOTV2.starhub">
+        <title>Day 3</title>
     </programme>
     <programme start="20250123010000 +0000" stop="20250123020000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -9675,22 +9678,25 @@
     <programme start="20250123103000 +0000" stop="20250123120000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2</title>
     </programme>
-    <programme start="20250123120000 +0000" stop="20250123150000 +0000" channel="SPOTV2.starhub">
-        <title>Major League Baseball Hall of Fame 2025</title>
+    <programme start="20250123120000 +0000" stop="20250123122000 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 17 Highlights Port FC vs Khonkaen United</title>
     </programme>
-    <programme start="20250123150000 +0000" stop="20250123180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250123122000 +0000" stop="20250123153000 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
     </programme>
-    <programme start="20250123180000 +0000" stop="20250123183000 +0000" channel="SPOTV2.starhub">
-        <title>2025 World Sailing Show</title>
+    <programme start="20250123153000 +0000" stop="20250123160000 +0000" channel="SPOTV2.starhub">
+        <title>Season 5</title>
+    </programme>
+    <programme start="20250123160000 +0000" stop="20250123183000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
     </programme>
     <programme start="20250123183000 +0000" stop="20250123200000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250123200000 +0000" stop="20250123220000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250123200000 +0000" stop="20250123215000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
     </programme>
-    <programme start="20250123220000 +0000" stop="20250124010000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250123215000 +0000" stop="20250124010000 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
     </programme>
     <programme start="20250124010000 +0000" stop="20250124033000 +0000" channel="SPOTV2.starhub">
@@ -9732,10 +9738,10 @@
     <programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
     </programme>
-    <programme start="20250124183000 +0000" stop="20250124200000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124183000 +0000" stop="20250124201000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250124200000 +0000" stop="20250124220000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124201000 +0000" stop="20250124220000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 8th Tournament</title>
     </programme>
     <programme start="20250124220000 +0000" stop="20250125003000 +0000" channel="SPOTV2.starhub">
@@ -9747,11 +9753,11 @@
     <programme start="20250125010000 +0000" stop="20250125033000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
     </programme>
-    <programme start="20250125033000 +0000" stop="20250125050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250125033000 +0000" stop="20250125051000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250125050000 +0000" stop="20250125053000 +0000" channel="SPOTV2.starhub">
-        <title>Round 2 Chicago</title>
+    <programme start="20250125051000 +0000" stop="20250125053000 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 17 Highlights Port FC vs Khonkaen United</title>
     </programme>
     <programme start="20250125053000 +0000" stop="20250125060000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
@@ -9759,10 +9765,7 @@
     <programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR WOMEN&#039;S 8th Tournament</title>
     </programme>
-    <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="SPOTV2.starhub">
-        <title>2025 World Sailing Show</title>
-    </programme>
-    <programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250125080000 +0000" stop="20250125090000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="SPOTV2.starhub">
@@ -9771,17 +9774,23 @@
     <programme start="20250125100000 +0000" stop="20250125120000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 8th Tournament</title>
     </programme>
-    <programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="SPOTV2.starhub">
+        <title>2025 World Sailing Show</title>
+    </programme>
+    <programme start="20250125123000 +0000" stop="20250125130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125153000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
     </programme>
-    <programme start="20250125153000 +0000" stop="20250125170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250125153000 +0000" stop="20250125171000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250125170000 +0000" stop="20250125180000 +0000" channel="SPOTV2.starhub">
-        <title>The 152nd Open Official Film</title>
+    <programme start="20250125171000 +0000" stop="20250125173000 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 17 Highlights Port FC vs Khonkaen United</title>
+    </programme>
+    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125203000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
@@ -9792,23 +9801,14 @@
     <programme start="20250126003000 +0000" stop="20250126030000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
     </programme>
-    <programme start="20250126030000 +0000" stop="20250126043000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250126030000 +0000" stop="20250126042500 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2</title>
     </programme>
-    <programme start="20250126043000 +0000" stop="20250126073000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250126042500 +0000" stop="20250126073000 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
     </programme>
     <programme start="20250126073000 +0000" stop="20250126100000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
-    </programme>
-    <programme start="20250126100000 +0000" stop="20250126120000 +0000" channel="SPOTV2.starhub">
-        <title>2024 GTOUR WOMEN&#039;S 8th Tournament</title>
-    </programme>
-    <programme start="20250126120000 +0000" stop="20250126150000 +0000" channel="SPOTV2.starhub">
-        <title>Major League Baseball Hall of Fame 2025</title>
-    </programme>
-    <programme start="20250126150000 +0000" stop="20250126153000 +0000" channel="SPOTV2.starhub">
-        <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250119000000 +0000" stop="20250119003000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Korean Pop Culture Is Transforming Design</title>
@@ -24708,31 +24708,31 @@
     <programme start="20250120082000 +0000" stop="20250120120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M36 - Brisbane Heat vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250120120000 +0000" stop="20250120160000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M37 - Sydney Sixers vs Sydney Thunder</title>
+    <programme start="20250120120000 +0000" stop="20250120153000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>Bangladesh Tour of India 2024: 1st T20I</title>
+    </programme>
+    <programme start="20250120153000 +0000" stop="20250120160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250120160000 +0000" stop="20250120220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250120220000 +0000" stop="20250121000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250120220000 +0000" stop="20250121015500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250121000000 +0000" stop="20250121040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250121015500 +0000" stop="20250121051000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M38 - Melbourne Renegades vs Brisbane Heat</title>
     </programme>
-    <programme start="20250121040000 +0000" stop="20250121080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250121051000 +0000" stop="20250121081500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M39 - Perth Scorchers vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250121080000 +0000" stop="20250121121500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M41 - Quaifier</title>
+    <programme start="20250121081500 +0000" stop="20250121121500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
     </programme>
-    <programme start="20250121121500 +0000" stop="20250121161500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250121121500 +0000" stop="20250121155500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M40 - Melbourne Stars vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250121161500 +0000" stop="20250121220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250121220000 +0000" stop="20250122000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250121155500 +0000" stop="20250121160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250122000000 +0000" stop="20250122040000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -27585,10 +27585,10 @@
     <programme start="20250122060500 +0000" stop="20250122070000 +0000" channel="Hub VVDrama.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250122070000 +0000" stop="20250122081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250122070000 +0000" stop="20250122081000 +0000" channel="Hub VVDrama.starhub">
         <title>Kill Heel</title>
     </programme>
-    <programme start="20250122081500 +0000" stop="20250122090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250122081000 +0000" stop="20250122090000 +0000" channel="Hub VVDrama.starhub">
         <title>Shining Just for You</title>
     </programme>
     <programme start="20250122090000 +0000" stop="20250122094500 +0000" channel="Hub VVDrama.starhub">
@@ -28206,8 +28206,8 @@
     <programme start="20250124131500 +0000" stop="20250124143000 +0000" channel="tvN HD.starhub">
         <title>Welcome to Waikiki 2</title>
     </programme>
-    <programme start="20250124143000 +0000" stop="20250124161500 +0000" channel="tvN HD.starhub">
-        <title>Handsome Guys</title>
+    <programme start="20250124143000 +0000" stop="20250124162000 +0000" channel="tvN HD.starhub">
+        <title>Fresh off the Sea</title>
     </programme>
     <programme start="20250118220000 +0000" stop="20250119040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -30126,10 +30126,10 @@
     <programme start="20250122060500 +0000" stop="20250122070000 +0000" channel="TestChannel2.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250122070000 +0000" stop="20250122081500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250122070000 +0000" stop="20250122081000 +0000" channel="TestChannel2.starhub">
         <title>Kill Heel</title>
     </programme>
-    <programme start="20250122081500 +0000" stop="20250122090000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250122081000 +0000" stop="20250122090000 +0000" channel="TestChannel2.starhub">
         <title>Shining Just for You</title>
     </programme>
     <programme start="20250122090000 +0000" stop="20250122094500 +0000" channel="TestChannel2.starhub">
