@@ -12681,10 +12681,10 @@
     <programme start="20250120020000 +0000" stop="20250120060000 +0000" channel="NOW 90s &amp; 00s">
         <title>Non-Stop No.1s!</title>
     </programme>
-    <programme start="20250120060000 +0000" stop="20250120081000 +0000" channel="NOW 90s &amp; 00s">
+    <programme start="20250120060000 +0000" stop="20250120083000 +0000" channel="NOW 90s &amp; 00s">
         <title>I'm Going Solo!</title>
     </programme>
-    <programme start="20250120081000 +0000" stop="20250120090000 +0000" channel="NOW 90s &amp; 00s">
+    <programme start="20250120083000 +0000" stop="20250120090000 +0000" channel="NOW 90s &amp; 00s">
         <title>Non-Stop 90s No.1s!</title>
     </programme>
     <programme start="20250120090000 +0000" stop="20250120100000 +0000" channel="NOW 90s &amp; 00s">
@@ -16506,11 +16506,14 @@
     <programme start="20250120143000 +0000" stop="20250120150000 +0000" channel="Al Jazeera HD">
         <title>The Listening Post</title>
     </programme>
-    <programme start="20250120150000 +0000" stop="20250120160000 +0000" channel="Al Jazeera HD">
+    <programme start="20250120150000 +0000" stop="20250120153000 +0000" channel="Al Jazeera HD">
         <title>Newshour</title>
     </programme>
-    <programme start="20250120160000 +0000" stop="20250120200000 +0000" channel="Al Jazeera HD">
+    <programme start="20250120153000 +0000" stop="20250120193000 +0000" channel="Al Jazeera HD">
         <title>2025 U.S. Presidential Inauguration</title>
+    </programme>
+    <programme start="20250120193000 +0000" stop="20250120200000 +0000" channel="Al Jazeera HD">
+        <title>The Stream</title>
     </programme>
     <programme start="20250120200000 +0000" stop="20250120203000 +0000" channel="Al Jazeera HD">
         <title>News Live</title>
@@ -29920,7 +29923,7 @@
         <title>Today's Sikh History</title>
     </programme>
     <programme start="20250120213500 +0000" stop="20250120223500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
+        <title>London Live: Late Show</title>
     </programme>
     <programme start="20250120223500 +0000" stop="20250120233000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
