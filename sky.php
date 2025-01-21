@@ -297,7 +297,10 @@
     <programme start="20250121114000 +0000" stop="20250121121000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
-    <programme start="20250121121000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
+    <programme start="20250121121000 +0000" stop="20250121124000 +0000" channel="Channel 4 HD">
+        <title>Four in a Bed</title>
+    </programme>
+    <programme start="20250121124000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
     <programme start="20250121131000 +0000" stop="20250121134000 +0000" channel="Channel 4 HD">
@@ -14067,10 +14070,13 @@
     <programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121023000 +0000" stop="20250121053000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121023000 +0000" stop="20250121060000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121053000 +0000" stop="20250121073000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121060000 +0000" stop="20250121063000 +0000" channel="Eurosport 1 HD">
+        <title>This is Eurosport 1 HD</title>
+    </programme>
+    <programme start="20250121063000 +0000" stop="20250121073000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121073000 +0000" stop="20250121080000 +0000" channel="Eurosport 1 HD">
@@ -29269,7 +29275,7 @@
         <title>Lantern Tales</title>
     </programme>
     <programme start="20250121084500 +0000" stop="20250121090000 +0000" channel="Eman Channel">
-        <title>Blessed Home</title>
+        <title>Qur'an Time</title>
     </programme>
     <programme start="20250121090000 +0000" stop="20250121100000 +0000" channel="Eman Channel">
         <title>Madrasah TV</title>
@@ -29281,16 +29287,19 @@
         <title>Qur'an Time</title>
     </programme>
     <programme start="20250121103000 +0000" stop="20250121104500 +0000" channel="Eman Channel">
-        <title>30 Duas That Changed The World</title>
+        <title>Raising a Righteous Family</title>
     </programme>
-    <programme start="20250121104500 +0000" stop="20250121110500 +0000" channel="Eman Channel">
-        <title>Live Your Life</title>
+    <programme start="20250121104500 +0000" stop="20250121110000 +0000" channel="Eman Channel">
+        <title>A Beautiful Patience</title>
     </programme>
-    <programme start="20250121110500 +0000" stop="20250121113000 +0000" channel="Eman Channel">
-        <title>Healthy Bites</title>
+    <programme start="20250121110000 +0000" stop="20250121111500 +0000" channel="Eman Channel">
+        <title>Purity of the Plate</title>
+    </programme>
+    <programme start="20250121111500 +0000" stop="20250121113000 +0000" channel="Eman Channel">
+        <title>Unwavering Faith</title>
     </programme>
     <programme start="20250121113000 +0000" stop="20250121120000 +0000" channel="Eman Channel">
-        <title>The Final Chapters</title>
+        <title>Once Upon a Time</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121121700 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
@@ -29298,10 +29307,10 @@
     <programme start="20250121121700 +0000" stop="20250121122100 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250121122100 +0000" stop="20250121123200 +0000" channel="Eman Channel">
+    <programme start="20250121122100 +0000" stop="20250121124200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250121123200 +0000" stop="20250121130000 +0000" channel="Eman Channel">
+    <programme start="20250121124200 +0000" stop="20250121130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250121130000 +0000" stop="20250121140000 +0000" channel="Eman Channel">
@@ -29331,11 +29340,8 @@
     <programme start="20250121160000 +0000" stop="20250121163400 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
-    <programme start="20250121163400 +0000" stop="20250121164700 +0000" channel="Eman Channel">
+    <programme start="20250121163400 +0000" stop="20250121173000 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
-    </programme>
-    <programme start="20250121164700 +0000" stop="20250121173000 +0000" channel="Eman Channel">
-        <title>Live: Madrasah TV</title>
     </programme>
     <programme start="20250121173000 +0000" stop="20250121174500 +0000" channel="Eman Channel">
         <title>Blessed Home</title>
@@ -29376,11 +29382,8 @@
     <programme start="20250121220000 +0000" stop="20250121221500 +0000" channel="Eman Channel">
         <title>Yes I Can</title>
     </programme>
-    <programme start="20250121221500 +0000" stop="20250121230000 +0000" channel="Eman Channel">
+    <programme start="20250121221500 +0000" stop="20250121231500 +0000" channel="Eman Channel">
         <title>EA Seerah</title>
-    </programme>
-    <programme start="20250121230000 +0000" stop="20250122000000 +0000" channel="Eman Channel">
-        <title>Quran Circle</title>
     </programme>
     <programme start="20250120220000 +0000" stop="20250120233000 +0000" channel="ARY Digital">
         <title>Khudsar</title>
@@ -34893,10 +34896,13 @@
     <programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121023000 +0000" stop="20250121053000 +0000" channel="Eurosport 1">
+    <programme start="20250121023000 +0000" stop="20250121060000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121053000 +0000" stop="20250121073000 +0000" channel="Eurosport 1">
+    <programme start="20250121060000 +0000" stop="20250121063000 +0000" channel="Eurosport 1">
+        <title>This is Eurosport 1</title>
+    </programme>
+    <programme start="20250121063000 +0000" stop="20250121073000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121073000 +0000" stop="20250121080000 +0000" channel="Eurosport 1">

@@ -102,8 +102,26 @@
     <programme start="20250129180000 +0000" stop="20250129183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Andy Carroll</title>
     </programme>
+    <programme start="20250130133000 +0000" stop="20250130140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250131103000 +0000" stop="20250131110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250131120000 +0000" stop="20250131130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250131163000 +0000" stop="20250131170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250131180000 +0000" stop="20250131190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
     <programme start="20250201113000 +0000" stop="20250201145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Brighton</title>
+    </programme>
+    <programme start="20250201145000 +0000" stop="20250201172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
     <programme start="20250201145000 +0000" stop="20250201171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Newcastle United v Fulham</title>
@@ -120,8 +138,14 @@
     <programme start="20250201172000 +0000" stop="20250201200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Aston Villa</title>
     </programme>
+    <programme start="20250201200000 +0000" stop="20250201210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
     <programme start="20250202115000 +0000" stop="20250202141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Arsenal</title>
+    </programme>
+    <programme start="20250202130000 +0000" stop="20250202162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20250202135000 +0000" stop="20250202161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Manchester United v Crystal Palace</title>
@@ -146,6 +170,9 @@
     </programme>
     <programme start="20250202183500 +0000" stop="20250202205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Manchester United</title>
+    </programme>
+    <programme start="20250202203000 +0000" stop="20250202220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
