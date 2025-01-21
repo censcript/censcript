@@ -6274,7 +6274,7 @@
         <title>#519</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121193000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+        <title>NFL 2024/25 NFC Wild Card: Minnesota Vikings vs Los Angeles Rams</title>
     </programme>
     <programme start="20250121193000 +0000" stop="20250121213000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
@@ -29260,7 +29260,7 @@
         <title>#519</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121193000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+        <title>NFL 2024/25 NFC Wild Card: Minnesota Vikings vs Los Angeles Rams</title>
     </programme>
     <programme start="20250121193000 +0000" stop="20250121213000 +0000" channel="TestChannel 995.starhub">
         <title>Singapore Premier League 2024/25 Lion City Sailors FC vs Albirex Niigata FC (S)</title>
