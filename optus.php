@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250121090000 +0000" stop="20250121100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Paul Konchesky</title>
     </programme>

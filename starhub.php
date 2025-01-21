@@ -19990,22 +19990,22 @@
         <title>Zee Flix</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121170000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
+        <title>Zee Flix</title>
     </programme>
     <programme start="20250121170000 +0000" stop="20250121173000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+        <title>Sandhya Raagam</title>
+    </programme>
+    <programme start="20250121173000 +0000" stop="20250121180000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
     </programme>
     <programme start="20250121180000 +0000" stop="20250121183000 +0000" channel="Zee Tamil.starhub">
         <title>Valliyin Velan</title>
     </programme>
+    <programme start="20250121183000 +0000" stop="20250121190000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
     <programme start="20250121190000 +0000" stop="20250121193000 +0000" channel="Zee Tamil.starhub">
-        <title>Nenjathai Killadhe</title>
-    </programme>
-    <programme start="20250121193000 +0000" stop="20250121200000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
-    </programme>
-    <programme start="20250121200000 +0000" stop="20250121203000 +0000" channel="Zee Tamil.starhub">
-        <title>Naane Varuvean</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250119000000 +0000" stop="20250119001500 +0000" channel="France24.starhub">
         <title>The News</title>
