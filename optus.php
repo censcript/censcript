@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250120193000 +0000" stop="20250120223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Chelsea v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250120223000 +0000" stop="20250120233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -75,22 +69,22 @@
     <programme start="20250126135000 +0000" stop="20250126161000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Crystal Palace v Brentford</title>
     </programme>
-    <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 203.optus">
+    <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Crystal Palace v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 205.optus">
+    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - West Ham United v Everton</title>
     </programme>
-    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 204.optus">
+    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Leicester v Liverpool</title>
     </programme>
     <programme start="20250126162000 +0000" stop="20250126185000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v West Ham United</title>
     </programme>
-    <programme start="20250126183500 +0000" stop="20250126204500 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250126183500 +0000" stop="20250126205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Brighton and Hove Albion</title>
     </programme>
-    <programme start="20250126185000 +0000" stop="20250126220000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250126185000 +0000" stop="20250126213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Fulham v Manchester United</title>
     </programme>
     <programme start="20250126220000 +0000" stop="20250126233000 +0000" channel="Optus Sport 11.optus">
