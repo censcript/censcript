@@ -12105,26 +12105,32 @@
     <programme start="20250122135500 +0000" stop="20250122140100 +0000" channel="GREAT! action">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250122140100 +0000" stop="20250122145000 +0000" channel="GREAT! action">
+    <programme start="20250122140100 +0000" stop="20250122144500 +0000" channel="GREAT! action">
         <title>The Tall T</title>
     </programme>
-    <programme start="20250122145000 +0000" stop="20250122154500 +0000" channel="GREAT! action">
+    <programme start="20250122144500 +0000" stop="20250122154000 +0000" channel="GREAT! action">
         <title>Bad Man's River</title>
     </programme>
-    <programme start="20250122154500 +0000" stop="20250122155100 +0000" channel="GREAT! action">
+    <programme start="20250122154000 +0000" stop="20250122154600 +0000" channel="GREAT! action">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250122155100 +0000" stop="20250122165500 +0000" channel="GREAT! action">
+    <programme start="20250122154600 +0000" stop="20250122165000 +0000" channel="GREAT! action">
         <title>Bad Man's River</title>
     </programme>
-    <programme start="20250122165500 +0000" stop="20250122175000 +0000" channel="GREAT! action">
-        <title>King Of Texas</title>
+    <programme start="20250122165000 +0000" stop="20250122170000 +0000" channel="GREAT! action">
+        <title>Great! Movie News Extra</title>
     </programme>
-    <programme start="20250122175000 +0000" stop="20250122175600 +0000" channel="GREAT! action">
-        <title>This Week Back Then</title>
+    <programme start="20250122170000 +0000" stop="20250122173000 +0000" channel="GREAT! action">
+        <title>Wanted: Dead Or Alive</title>
     </programme>
-    <programme start="20250122175600 +0000" stop="20250122190000 +0000" channel="GREAT! action">
-        <title>King Of Texas</title>
+    <programme start="20250122173000 +0000" stop="20250122180000 +0000" channel="GREAT! action">
+        <title>Wanted: Dead Or Alive</title>
+    </programme>
+    <programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="GREAT! action">
+        <title>Wanted: Dead Or Alive</title>
+    </programme>
+    <programme start="20250122183000 +0000" stop="20250122190000 +0000" channel="GREAT! action">
+        <title>Wanted: Dead Or Alive</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="GREAT! action">
         <title>The High Chaparral</title>
@@ -12225,26 +12231,32 @@
     <programme start="20250122145500 +0000" stop="20250122150100 +0000" channel="GREAT!action+1">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250122150100 +0000" stop="20250122155000 +0000" channel="GREAT!action+1">
+    <programme start="20250122150100 +0000" stop="20250122154500 +0000" channel="GREAT!action+1">
         <title>The Tall T</title>
     </programme>
-    <programme start="20250122155000 +0000" stop="20250122164500 +0000" channel="GREAT!action+1">
+    <programme start="20250122154500 +0000" stop="20250122164000 +0000" channel="GREAT!action+1">
         <title>Bad Man's River</title>
     </programme>
-    <programme start="20250122164500 +0000" stop="20250122165100 +0000" channel="GREAT!action+1">
+    <programme start="20250122164000 +0000" stop="20250122164600 +0000" channel="GREAT!action+1">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250122165100 +0000" stop="20250122175500 +0000" channel="GREAT!action+1">
+    <programme start="20250122164600 +0000" stop="20250122175000 +0000" channel="GREAT!action+1">
         <title>Bad Man's River</title>
     </programme>
-    <programme start="20250122175500 +0000" stop="20250122185000 +0000" channel="GREAT!action+1">
-        <title>King Of Texas</title>
+    <programme start="20250122175000 +0000" stop="20250122180000 +0000" channel="GREAT!action+1">
+        <title>Great! Movie News Extra</title>
     </programme>
-    <programme start="20250122185000 +0000" stop="20250122185600 +0000" channel="GREAT!action+1">
-        <title>This Week Back Then</title>
+    <programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="GREAT!action+1">
+        <title>Wanted: Dead Or Alive</title>
     </programme>
-    <programme start="20250122185600 +0000" stop="20250122200000 +0000" channel="GREAT!action+1">
-        <title>King Of Texas</title>
+    <programme start="20250122183000 +0000" stop="20250122190000 +0000" channel="GREAT!action+1">
+        <title>Wanted: Dead Or Alive</title>
+    </programme>
+    <programme start="20250122190000 +0000" stop="20250122193000 +0000" channel="GREAT!action+1">
+        <title>Wanted: Dead Or Alive</title>
+    </programme>
+    <programme start="20250122193000 +0000" stop="20250122200000 +0000" channel="GREAT!action+1">
+        <title>Wanted: Dead Or Alive</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="GREAT!action+1">
         <title>The High Chaparral</title>
@@ -30855,11 +30867,14 @@
     <programme start="20250122050000 +0000" stop="20250122060000 +0000" channel="NTV">
         <title>Bongsho Prodip</title>
     </programme>
-    <programme start="20250122060000 +0000" stop="20250122062600 +0000" channel="NTV">
+    <programme start="20250122060000 +0000" stop="20250122061200 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250122062600 +0000" stop="20250122063000 +0000" channel="NTV">
+    <programme start="20250122061200 +0000" stop="20250122061700 +0000" channel="NTV">
         <title>Adhan-a-Fajr</title>
+    </programme>
+    <programme start="20250122061700 +0000" stop="20250122063000 +0000" channel="NTV">
+        <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250122063000 +0000" stop="20250122070000 +0000" channel="NTV">
         <title>Shastho Protidin</title>
@@ -30885,13 +30900,7 @@
     <programme start="20250122110000 +0000" stop="20250122120000 +0000" channel="NTV">
         <title>Char Shoniter Ghar</title>
     </programme>
-    <programme start="20250122120000 +0000" stop="20250122120900 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250122120900 +0000" stop="20250122121400 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250122121400 +0000" stop="20250122121700 +0000" channel="NTV">
+    <programme start="20250122120000 +0000" stop="20250122121700 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250122121700 +0000" stop="20250122122200 +0000" channel="NTV">
@@ -30903,46 +30912,43 @@
     <programme start="20250122123000 +0000" stop="20250122140000 +0000" channel="NTV">
         <title>Char Shoniter Ghar</title>
     </programme>
-    <programme start="20250122140000 +0000" stop="20250122141700 +0000" channel="NTV">
+    <programme start="20250122140000 +0000" stop="20250122143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250122141700 +0000" stop="20250122142200 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250122142200 +0000" stop="20250122143000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
-    </programme>
-    <programme start="20250122143000 +0000" stop="20250122150000 +0000" channel="NTV">
+    <programme start="20250122143000 +0000" stop="20250122144600 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250122150000 +0000" stop="20250122160600 +0000" channel="NTV">
+    <programme start="20250122144600 +0000" stop="20250122145100 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
+    <programme start="20250122145100 +0000" stop="20250122150000 +0000" channel="NTV">
+        <title>Desher Khobor</title>
+    </programme>
+    <programme start="20250122150000 +0000" stop="20250122163000 +0000" channel="NTV">
         <title>Megher Danay Tui</title>
-    </programme>
-    <programme start="20250122160600 +0000" stop="20250122161100 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250122161100 +0000" stop="20250122163000 +0000" channel="NTV">
-        <title>Jhora Patay Droshtobbo</title>
     </programme>
     <programme start="20250122163000 +0000" stop="20250122163600 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250122163600 +0000" stop="20250122170000 +0000" channel="NTV">
+    <programme start="20250122163600 +0000" stop="20250122164100 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
+    </programme>
+    <programme start="20250122164100 +0000" stop="20250122170000 +0000" channel="NTV">
+        <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
     <programme start="20250122170000 +0000" stop="20250122173000 +0000" channel="NTV">
         <title>Onnorokom Bhalobasha</title>
     </programme>
-    <programme start="20250122173000 +0000" stop="20250122174300 +0000" channel="NTV">
+    <programme start="20250122173000 +0000" stop="20250122180000 +0000" channel="NTV">
         <title>Food Caravan</title>
     </programme>
-    <programme start="20250122174300 +0000" stop="20250122174800 +0000" channel="NTV">
+    <programme start="20250122180000 +0000" stop="20250122181300 +0000" channel="NTV">
+        <title>Workshop</title>
+    </programme>
+    <programme start="20250122181300 +0000" stop="20250122181800 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250122174800 +0000" stop="20250122180000 +0000" channel="NTV">
-        <title>Food Caravan</title>
-    </programme>
-    <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="NTV">
+    <programme start="20250122181800 +0000" stop="20250122190000 +0000" channel="NTV">
         <title>Workshop</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122191500 +0000" channel="NTV">
@@ -38116,7 +38122,7 @@
         <title>Matt Wilkinson</title>
     </programme>
     <programme start="20250122160000 +0000" stop="20250122190000 +0000" channel="Heart">
-        <title>JK and Kelly Brook</title>
+        <title>Rob Howard and Kelly Brook</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122220000 +0000" channel="Heart">
         <title>Dev Griffin</title>
