@@ -15247,19 +15247,22 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250121225000 +0000" stop="20250121233500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250121233500 +0000" stop="20250121235000 +0000" channel="BBC Parl HD">
-        <title>Lords Introductions</title>
+        <title>House of Lords - Introductions</title>
     </programme>
     <programme start="20250121235000 +0000" stop="20250122003000 +0000" channel="BBC Parl HD">
-        <title>Lords NHS Winter Update Statement</title>
+        <title>House of Lords - NHS Winter Update Statement</title>
     </programme>
     <programme start="20250122003000 +0000" stop="20250122011000 +0000" channel="BBC Parl HD">
-        <title>Lords Higher Education Statement</title>
+        <title>House of Lords - Higher Education Statement</title>
     </programme>
-    <programme start="20250122011000 +0000" stop="20250122060000 +0000" channel="BBC Parl HD">
+    <programme start="20250122011000 +0000" stop="20250122054500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Data (Use and Access) Bill</title>
+    </programme>
+    <programme start="20250122054500 +0000" stop="20250122060000 +0000" channel="BBC Parl HD">
+        <title>Ten Minute Rule Bill</title>
     </programme>
     <programme start="20250122060000 +0000" stop="20250122070000 +0000" channel="BBC Parl HD">
         <title>Treasury Questions</title>
