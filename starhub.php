@@ -11202,22 +11202,22 @@
     <programme start="20250123230000 +0000" stop="20250123231500 +0000" channel="beIN Sports HD.starhub">
         <title>Leverkusen</title>
     </programme>
-    <programme start="20250123231500 +0000" stop="20250124011000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250123231500 +0000" stop="20250124010500 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Leganes vs Atletico Madrid</title>
     </programme>
-    <programme start="20250124011000 +0000" stop="20250124021000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250124010500 +0000" stop="20250124020500 +0000" channel="beIN Sports HD.starhub">
         <title>Basel, Switzerland</title>
     </programme>
-    <programme start="20250124021000 +0000" stop="20250124040000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250124020500 +0000" stop="20250124035000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Celta Vigo vs Athletic Bilbao</title>
     </programme>
-    <programme start="20250124040000 +0000" stop="20250124050000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250124035000 +0000" stop="20250124045000 +0000" channel="beIN Sports HD.starhub">
         <title>Auckland, New Zealand</title>
     </programme>
-    <programme start="20250124050000 +0000" stop="20250124060000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250124045000 +0000" stop="20250124055500 +0000" channel="beIN Sports HD.starhub">
         <title>Porsche Sprint Challenge Southern Europe 2025: Portimao Race 1 - Sport Division</title>
     </programme>
-    <programme start="20250124060000 +0000" stop="20250124070000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250124055500 +0000" stop="20250124070000 +0000" channel="beIN Sports HD.starhub">
         <title>Porsche Sprint Challenge Southern Europe 2025: Portimao Race 1 - Club Division</title>
     </programme>
     <programme start="20250124070000 +0000" stop="20250124080000 +0000" channel="beIN Sports HD.starhub">

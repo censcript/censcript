@@ -14088,13 +14088,13 @@
     <programme start="20250121100000 +0000" stop="20250121140500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121140500 +0000" stop="20250121150500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121140500 +0000" stop="20250121144500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250121150500 +0000" stop="20250121163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121144500 +0000" stop="20250121163500 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250121163000 +0000" stop="20250121183000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121163500 +0000" stop="20250121183000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121183000 +0000" stop="20250121203000 +0000" channel="Eurosport 1 HD">
@@ -14152,7 +14152,7 @@
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250121133000 +0000" stop="20250121144500 +0000" channel="Eurosport 2 HD">
-        <title>Orienteering Skiing: Winter...</title>
+        <title>Live Orienteering Skiing:...</title>
     </programme>
     <programme start="20250121144500 +0000" stop="20250121154500 +0000" channel="Eurosport 2 HD">
         <title>Snowboarding World Cup</title>
@@ -15291,10 +15291,16 @@
     <programme start="20250121100000 +0000" stop="20250121113000 +0000" channel="BBC Parl HD">
         <title>Live Home Affairs Committee</title>
     </programme>
-    <programme start="20250121113000 +0000" stop="20250121123000 +0000" channel="BBC Parl HD">
+    <programme start="20250121113000 +0000" stop="20250121124000 +0000" channel="BBC Parl HD">
         <title>Live Treasury Questions</title>
     </programme>
-    <programme start="20250121123000 +0000" stop="20250121193000 +0000" channel="BBC Parl HD">
+    <programme start="20250121124000 +0000" stop="20250121130000 +0000" channel="BBC Parl HD">
+        <title>House of Commons - Extremism Urgent Question</title>
+    </programme>
+    <programme start="20250121130000 +0000" stop="20250121142000 +0000" channel="BBC Parl HD">
+        <title>House of Commons - Southport Statement</title>
+    </programme>
+    <programme start="20250121142000 +0000" stop="20250121193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250121193000 +0000" stop="20250121220000 +0000" channel="BBC Parl HD">
@@ -20916,8 +20922,11 @@
     <programme start="20250121170500 +0000" stop="20250121173000 +0000" channel="Sky Kids HD">
         <title>Bea's Block</title>
     </programme>
-    <programme start="20250121173000 +0000" stop="20250121180000 +0000" channel="Sky Kids HD">
-        <title>Boosnoo! Mega Mashups</title>
+    <programme start="20250121173000 +0000" stop="20250121174500 +0000" channel="Sky Kids HD">
+        <title>Boosnoo! Mashups</title>
+    </programme>
+    <programme start="20250121174500 +0000" stop="20250121180000 +0000" channel="Sky Kids HD">
+        <title>Boosnoo! Mashups</title>
     </programme>
     <programme start="20250121180000 +0000" stop="20250121181500 +0000" channel="Sky Kids HD">
         <title>In The Night Garden Specials</title>
@@ -34920,13 +34929,13 @@
     <programme start="20250121100000 +0000" stop="20250121140500 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121140500 +0000" stop="20250121150500 +0000" channel="Eurosport 1">
+    <programme start="20250121140500 +0000" stop="20250121144500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250121150500 +0000" stop="20250121163000 +0000" channel="Eurosport 1">
+    <programme start="20250121144500 +0000" stop="20250121163500 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250121163000 +0000" stop="20250121183000 +0000" channel="Eurosport 1">
+    <programme start="20250121163500 +0000" stop="20250121183000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121183000 +0000" stop="20250121203000 +0000" channel="Eurosport 1">
@@ -34984,7 +34993,7 @@
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250121133000 +0000" stop="20250121144500 +0000" channel="Eurosport 2">
-        <title>Orienteering Skiing: Winter...</title>
+        <title>Live Orienteering Skiing:...</title>
     </programme>
     <programme start="20250121144500 +0000" stop="20250121154500 +0000" channel="Eurosport 2">
         <title>Snowboarding World Cup</title>
