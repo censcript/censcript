@@ -297,10 +297,7 @@
     <programme start="20250121114000 +0000" stop="20250121121000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
-    <programme start="20250121121000 +0000" stop="20250121124000 +0000" channel="Channel 4 HD">
-        <title>Four in a Bed</title>
-    </programme>
-    <programme start="20250121124000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
+    <programme start="20250121121000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
     <programme start="20250121131000 +0000" stop="20250121134000 +0000" channel="Channel 4 HD">
