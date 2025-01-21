@@ -17875,7 +17875,7 @@
         <title>Hit Thirai</title>
     </programme>
     <programme start="20250121160000 +0000" stop="20250121190000 +0000" channel="Vannathirai.starhub">
-        <title>Rail Payanangalil</title>
+        <title>Raja Rajan</title>
     </programme>
     <programme start="20250121190000 +0000" stop="20250121220000 +0000" channel="Vannathirai.starhub">
         <title>Thee</title>
@@ -24666,11 +24666,8 @@
     <programme start="20250121160000 +0000" stop="20250121220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250121220000 +0000" stop="20250122000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250121220000 +0000" stop="20250122012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250122000000 +0000" stop="20250122040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
     </programme>
     <programme start="20250122040000 +0000" stop="20250122081500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
@@ -30469,22 +30466,22 @@
         <title>All About Health</title>
     </programme>
     <programme start="20250121070000 +0000" stop="20250121080000 +0000" channel="TestChannel 993.starhub">
-        <title>Queen</title>
+        <title>New-Name-Queen</title>
     </programme>
     <programme start="20250121080000 +0000" stop="20250121090000 +0000" channel="TestChannel 993.starhub">
-        <title>Global Golden Line</title>
+        <title>New Global Golden Line</title>
     </programme>
     <programme start="20250121090000 +0000" stop="20250121100000 +0000" channel="TestChannel 993.starhub">
-        <title>Super Taste Plus</title>
+        <title>New Super Taste Plus</title>
     </programme>
     <programme start="20250121100000 +0000" stop="20250121110000 +0000" channel="TestChannel 993.starhub">
-        <title>Citizens&#039; Subjects</title>
+        <title>New Citizens&#039; Subjects</title>
     </programme>
     <programme start="20250121110000 +0000" stop="20250121120000 +0000" channel="TestChannel 993.starhub">
-        <title>Global Focus</title>
+        <title>New Global Focus</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121130000 +0000" channel="TestChannel 993.starhub">
-        <title>All About Health</title>
+        <title>New All About Health</title>
     </programme>
     <programme start="20250121130000 +0000" stop="20250121140000 +0000" channel="TestChannel 993.starhub">
         <title>Queen</title>
