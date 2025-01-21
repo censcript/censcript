@@ -297,10 +297,7 @@
     <programme start="20250121114000 +0000" stop="20250121121000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
-    <programme start="20250121121000 +0000" stop="20250121124000 +0000" channel="Channel 4 HD">
-        <title>Four in a Bed</title>
-    </programme>
-    <programme start="20250121124000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
+    <programme start="20250121121000 +0000" stop="20250121131000 +0000" channel="Channel 4 HD">
         <title>Four in a Bed</title>
     </programme>
     <programme start="20250121131000 +0000" stop="20250121134000 +0000" channel="Channel 4 HD">
@@ -14088,10 +14085,10 @@
     <programme start="20250121100000 +0000" stop="20250121130000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121130000 +0000" stop="20250121133000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121130000 +0000" stop="20250121143000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250121133000 +0000" stop="20250121163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250121143000 +0000" stop="20250121163000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121183000 +0000" channel="Eurosport 1 HD">
@@ -34920,10 +34917,10 @@
     <programme start="20250121100000 +0000" stop="20250121130000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250121130000 +0000" stop="20250121133000 +0000" channel="Eurosport 1">
+    <programme start="20250121130000 +0000" stop="20250121143000 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250121133000 +0000" stop="20250121163000 +0000" channel="Eurosport 1">
+    <programme start="20250121143000 +0000" stop="20250121163000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121183000 +0000" channel="Eurosport 1">
