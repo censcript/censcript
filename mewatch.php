@@ -942,8 +942,83 @@
     <programme start="20250120160000 +0000" stop="20250121110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 21st January, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250121110000 +0000" stop="20250121150000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping)</title>
+    <programme start="20250121110000 +0000" stop="20250121111400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Gourmet Chef StackMate</title>
+    </programme>
+    <programme start="20250121111400 +0000" stop="20250121111600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Posture Doctor</title>
+    </programme>
+    <programme start="20250121111600 +0000" stop="20250121113000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
+    </programme>
+    <programme start="20250121113000 +0000" stop="20250121114400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Gua Sha Wand</title>
+    </programme>
+    <programme start="20250121114400 +0000" stop="20250121114600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - NuYou Body Brush</title>
+    </programme>
+    <programme start="20250121114600 +0000" stop="20250121120000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Zinus 5&quot; Tri-Fold Cooling Gel Mattress</title>
+    </programme>
+    <programme start="20250121120000 +0000" stop="20250121120700 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - La Gourmet Food Steamer</title>
+    </programme>
+    <programme start="20250121120700 +0000" stop="20250121121400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Derm Derm Herbal Toothpaste Propolis</title>
+    </programme>
+    <programme start="20250121121400 +0000" stop="20250121121600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
+    </programme>
+    <programme start="20250121121600 +0000" stop="20250121123000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - UARCH Adjustable Arch Ruby Slide &amp; Chrissie Sandals</title>
+    </programme>
+    <programme start="20250121123000 +0000" stop="20250121124400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Omron Electronic Nerve Stimulator</title>
+    </programme>
+    <programme start="20250121124400 +0000" stop="20250121124600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Furi Knife Bundle Set</title>
+    </programme>
+    <programme start="20250121124600 +0000" stop="20250121130000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Nutripack Snow Fungus</title>
+    </programme>
+    <programme start="20250121130000 +0000" stop="20250121130700 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Ultimo Kleen 5-in-1 Laundry Pods</title>
+    </programme>
+    <programme start="20250121130700 +0000" stop="20250121131400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Koli Pain Relief Plaster &amp; Massage Roller</title>
+    </programme>
+    <programme start="20250121131400 +0000" stop="20250121131600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
+    </programme>
+    <programme start="20250121131600 +0000" stop="20250121133000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Gourmet Chef Healthy Rice Cooker</title>
+    </programme>
+    <programme start="20250121133000 +0000" stop="20250121134400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Boeun Korean Jujube Essence</title>
+    </programme>
+    <programme start="20250121134400 +0000" stop="20250121134600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
+    </programme>
+    <programme start="20250121134600 +0000" stop="20250121140000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Arden Extra Large Cold Press Slow Juicer</title>
+    </programme>
+    <programme start="20250121140000 +0000" stop="20250121141400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
+    </programme>
+    <programme start="20250121141400 +0000" stop="20250121141600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Zoom Vision</title>
+    </programme>
+    <programme start="20250121141600 +0000" stop="20250121143000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Waist Tonic</title>
+    </programme>
+    <programme start="20250121143000 +0000" stop="20250121144400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Gourmet Chef Warm Mate</title>
+    </programme>
+    <programme start="20250121144400 +0000" stop="20250121144600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
+    </programme>
+    <programme start="20250121144600 +0000" stop="20250121150000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thomson Circulon 125</title>
     </programme>
     <programme start="20250121150000 +0000" stop="20250121160000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 22nd January, Wednesday 7pm. The Wonder Shop Home Shopping</title>
