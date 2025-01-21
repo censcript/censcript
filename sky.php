@@ -6405,10 +6405,7 @@
     <programme start="20250122162000 +0000" stop="20250122174500 +0000" channel="That's TV">
         <title>WWII Forced March to Freedom</title>
     </programme>
-    <programme start="20250122174500 +0000" stop="20250122180000 +0000" channel="That's TV">
-        <title>That's 60s - Best Music Live!</title>
-    </programme>
-    <programme start="20250122180000 +0000" stop="20250122181000 +0000" channel="That's TV">
+    <programme start="20250122174500 +0000" stop="20250122181000 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250122181000 +0000" stop="20250122184500 +0000" channel="That's TV">
@@ -28206,14 +28203,11 @@
     <programme start="20250122230500 +0000" stop="20250123000500 +0000" channel="New Vision TV">
         <title>Off The Record With Kashif Abbasi</title>
     </programme>
-    <programme start="20250121223000 +0000" stop="20250121230000 +0000" channel="Islam Channel">
+    <programme start="20250121223000 +0000" stop="20250121232000 +0000" channel="Islam Channel">
         <title>Analysis</title>
     </programme>
-    <programme start="20250121230000 +0000" stop="20250121234000 +0000" channel="Islam Channel">
+    <programme start="20250121232000 +0000" stop="20250122000000 +0000" channel="Islam Channel">
         <title>Aafia Siddiqui: True Story</title>
-    </programme>
-    <programme start="20250121234000 +0000" stop="20250122000000 +0000" channel="Islam Channel">
-        <title>Evening Supplications</title>
     </programme>
     <programme start="20250122000000 +0000" stop="20250122003000 +0000" channel="Islam Channel">
         <title>Islam Channel News</title>
@@ -30841,13 +30835,13 @@
         <title>Aey Shomoy</title>
     </programme>
     <programme start="20250122000000 +0000" stop="20250122010000 +0000" channel="NTV">
-        <title>Bhalobasha Simahin</title>
+        <title>Halchal</title>
     </programme>
     <programme start="20250122010000 +0000" stop="20250122013000 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
     <programme start="20250122013000 +0000" stop="20250122033000 +0000" channel="NTV">
-        <title>Bhalobasha Simahin</title>
+        <title>Halchal</title>
     </programme>
     <programme start="20250122033000 +0000" stop="20250122040000 +0000" channel="NTV">
         <title>Ganer Bazar</title>
@@ -30859,7 +30853,7 @@
         <title>Bhalobashar Oligoli</title>
     </programme>
     <programme start="20250122050000 +0000" stop="20250122060000 +0000" channel="NTV">
-        <title>Banker Girl Friend</title>
+        <title>Bongsho Prodip</title>
     </programme>
     <programme start="20250122060000 +0000" stop="20250122062600 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
@@ -30886,10 +30880,10 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250122093000 +0000" stop="20250122110000 +0000" channel="NTV">
-        <title>Bhai</title>
+        <title>Ek Motho Roddor</title>
     </programme>
     <programme start="20250122110000 +0000" stop="20250122120000 +0000" channel="NTV">
-        <title>Dhuka</title>
+        <title>Char Shoniter Ghar</title>
     </programme>
     <programme start="20250122120000 +0000" stop="20250122120900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
@@ -30897,11 +30891,17 @@
     <programme start="20250122120900 +0000" stop="20250122121400 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250122121400 +0000" stop="20250122123000 +0000" channel="NTV">
+    <programme start="20250122121400 +0000" stop="20250122121700 +0000" channel="NTV">
+        <title>NTV NEWS-Dupurer Khobor</title>
+    </programme>
+    <programme start="20250122121700 +0000" stop="20250122122200 +0000" channel="NTV">
+        <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250122122200 +0000" stop="20250122123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250122123000 +0000" stop="20250122140000 +0000" channel="NTV">
-        <title>Dhuka</title>
+        <title>Char Shoniter Ghar</title>
     </programme>
     <programme start="20250122140000 +0000" stop="20250122141700 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -30916,7 +30916,7 @@
         <title>Desher Khobor</title>
     </programme>
     <programme start="20250122150000 +0000" stop="20250122160600 +0000" channel="NTV">
-        <title>Jhora Patay Droshtobbo</title>
+        <title>Megher Danay Tui</title>
     </programme>
     <programme start="20250122160600 +0000" stop="20250122161100 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
@@ -30924,11 +30924,14 @@
     <programme start="20250122161100 +0000" stop="20250122163000 +0000" channel="NTV">
         <title>Jhora Patay Droshtobbo</title>
     </programme>
-    <programme start="20250122163000 +0000" stop="20250122170000 +0000" channel="NTV">
+    <programme start="20250122163000 +0000" stop="20250122163600 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
+    <programme start="20250122163600 +0000" stop="20250122170000 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
+    </programme>
     <programme start="20250122170000 +0000" stop="20250122173000 +0000" channel="NTV">
-        <title>Onnorokom Golpo</title>
+        <title>Onnorokom Bhalobasha</title>
     </programme>
     <programme start="20250122173000 +0000" stop="20250122174300 +0000" channel="NTV">
         <title>Food Caravan</title>
@@ -30940,7 +30943,7 @@
         <title>Food Caravan</title>
     </programme>
     <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="NTV">
-        <title>Balighor</title>
+        <title>Workshop</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -31515,10 +31518,10 @@
     <programme start="20250122030000 +0000" stop="20250122040000 +0000" channel="SkyNewsArabia">
         <title>News Room Repaet</title>
     </programme>
-    <programme start="20250122040000 +0000" stop="20250122045500 +0000" channel="SkyNewsArabia">
+    <programme start="20250122040000 +0000" stop="20250122045000 +0000" channel="SkyNewsArabia">
         <title>News</title>
     </programme>
-    <programme start="20250122045500 +0000" stop="20250122050000 +0000" channel="SkyNewsArabia">
+    <programme start="20250122045000 +0000" stop="20250122050000 +0000" channel="SkyNewsArabia">
         <title>Mini Show</title>
     </programme>
     <programme start="20250122050000 +0000" stop="20250122060000 +0000" channel="SkyNewsArabia">
