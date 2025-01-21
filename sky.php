@@ -7443,11 +7443,8 @@
     <programme start="20250121045000 +0000" stop="20250121054000 +0000" channel="Channel 5+1">
         <title>Rich House, Poor House</title>
     </programme>
-    <programme start="20250121054000 +0000" stop="20250121060800 +0000" channel="Channel 5+1">
+    <programme start="20250121054000 +0000" stop="20250121063500 +0000" channel="Channel 5+1">
         <title>Divine Designs</title>
-    </programme>
-    <programme start="20250121060800 +0000" stop="20250121063500 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250121063500 +0000" stop="20250121064000 +0000" channel="Channel 5+1">
         <title>Entertainment News on 5</title>
@@ -21999,10 +21996,10 @@
     <programme start="20250121053000 +0000" stop="20250121060000 +0000" channel="Nickelodeon+1">
         <title>LEGO City Adventures</title>
     </programme>
-    <programme start="20250121060000 +0000" stop="20250121061500 +0000" channel="Nickelodeon+1">
-        <title>SpongeBob SquarePants</title>
+    <programme start="20250121060000 +0000" stop="20250121061000 +0000" channel="Nickelodeon+1">
+        <title>This is Nickelodeon +1</title>
     </programme>
-    <programme start="20250121061500 +0000" stop="20250121063000 +0000" channel="Nickelodeon+1">
+    <programme start="20250121061000 +0000" stop="20250121063000 +0000" channel="Nickelodeon+1">
         <title>SpongeBob SquarePants</title>
     </programme>
     <programme start="20250121063000 +0000" stop="20250121064500 +0000" channel="Nickelodeon+1">
@@ -24766,7 +24763,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250121110000 +0000" stop="20250121120000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Makeup</title>
+        <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250121120000 +0000" stop="20250121130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24802,7 +24799,7 @@
         <title>Beauty Free Delivery Deals</title>
     </programme>
     <programme start="20250121230000 +0000" stop="20250122000000 +0000" channel="QVC Beauty">
-        <title>Supplement Your Health</title>
+        <title>Supplement your Health</title>
     </programme>
     <programme start="20250120220000 +0000" stop="20250120230000 +0000" channel="QVC Style HD">
         <title>The Jewellery Box</title>
@@ -30567,8 +30564,11 @@
     <programme start="20250121122200 +0000" stop="20250121123000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250121123000 +0000" stop="20250121140000 +0000" channel="IQRA Bangla">
+    <programme start="20250121123000 +0000" stop="20250121133000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250121133000 +0000" stop="20250121140000 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
     </programme>
     <programme start="20250121140000 +0000" stop="20250121144400 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
@@ -30786,11 +30786,14 @@
     <programme start="20250121053000 +0000" stop="20250121060000 +0000" channel="NTV">
         <title>Todays Kitchen</title>
     </programme>
-    <programme start="20250121060000 +0000" stop="20250121062600 +0000" channel="NTV">
+    <programme start="20250121060000 +0000" stop="20250121062000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250121062600 +0000" stop="20250121063000 +0000" channel="NTV">
+    <programme start="20250121062000 +0000" stop="20250121062500 +0000" channel="NTV">
         <title>Adhan-a-Fajr</title>
+    </programme>
+    <programme start="20250121062500 +0000" stop="20250121063000 +0000" channel="NTV">
+        <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250121063000 +0000" stop="20250121070000 +0000" channel="NTV">
         <title>Shastho Protidin</title>
@@ -30811,43 +30814,43 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250121093000 +0000" stop="20250121110000 +0000" channel="NTV">
-        <title>Aparajita</title>
+        <title>Haat Safai</title>
     </programme>
     <programme start="20250121110000 +0000" stop="20250121120000 +0000" channel="NTV">
-        <title>Ek Buk Jala</title>
+        <title>Bhalobasha Simahin</title>
     </programme>
-    <programme start="20250121120000 +0000" stop="20250121120900 +0000" channel="NTV">
+    <programme start="20250121120000 +0000" stop="20250121121500 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250121120900 +0000" stop="20250121121400 +0000" channel="NTV">
+    <programme start="20250121121500 +0000" stop="20250121122000 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250121121400 +0000" stop="20250121123000 +0000" channel="NTV">
+    <programme start="20250121122000 +0000" stop="20250121123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250121123000 +0000" stop="20250121140000 +0000" channel="NTV">
-        <title>Ek Buk Jala</title>
+        <title>Bhalobasha Simahin</title>
     </programme>
-    <programme start="20250121140000 +0000" stop="20250121141600 +0000" channel="NTV">
+    <programme start="20250121140000 +0000" stop="20250121143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250121141600 +0000" stop="20250121142100 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250121142100 +0000" stop="20250121143000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
-    </programme>
-    <programme start="20250121143000 +0000" stop="20250121150000 +0000" channel="NTV">
+    <programme start="20250121143000 +0000" stop="20250121143300 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250121150000 +0000" stop="20250121160400 +0000" channel="NTV">
-        <title>Obhab</title>
+    <programme start="20250121143300 +0000" stop="20250121143800 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250121160400 +0000" stop="20250121160900 +0000" channel="NTV">
+    <programme start="20250121143800 +0000" stop="20250121150000 +0000" channel="NTV">
+        <title>Desher Khobor</title>
+    </programme>
+    <programme start="20250121150000 +0000" stop="20250121162300 +0000" channel="NTV">
+        <title>Dui Jonakir Golpo</title>
+    </programme>
+    <programme start="20250121162300 +0000" stop="20250121162800 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250121160900 +0000" stop="20250121163000 +0000" channel="NTV">
-        <title>Obhab</title>
+    <programme start="20250121162800 +0000" stop="20250121163000 +0000" channel="NTV">
+        <title>Dui Jonakir Golpo</title>
     </programme>
     <programme start="20250121163000 +0000" stop="20250121170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
@@ -30855,17 +30858,14 @@
     <programme start="20250121170000 +0000" stop="20250121173000 +0000" channel="NTV">
         <title>Ganer Bazar</title>
     </programme>
-    <programme start="20250121173000 +0000" stop="20250121174100 +0000" channel="NTV">
+    <programme start="20250121173000 +0000" stop="20250121180000 +0000" channel="NTV">
         <title>Glamour World</title>
     </programme>
-    <programme start="20250121174100 +0000" stop="20250121174600 +0000" channel="NTV">
+    <programme start="20250121180000 +0000" stop="20250121180500 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250121174600 +0000" stop="20250121180000 +0000" channel="NTV">
-        <title>Glamour World</title>
-    </programme>
-    <programme start="20250121180000 +0000" stop="20250121190000 +0000" channel="NTV">
-        <title>Biggapon</title>
+    <programme start="20250121180500 +0000" stop="20250121190000 +0000" channel="NTV">
+        <title>Banker Girl Friend</title>
     </programme>
     <programme start="20250121190000 +0000" stop="20250121191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -30874,7 +30874,7 @@
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250121200000 +0000" stop="20250121210000 +0000" channel="NTV">
-        <title>Dag</title>
+        <title>Your Finance With Muhim Tanjib</title>
     </programme>
     <programme start="20250121210000 +0000" stop="20250121213000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
