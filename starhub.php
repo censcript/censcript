@@ -5295,6 +5295,18 @@
     <programme start="20250131100000 +0000" stop="20250131163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250131163000 +0000" stop="20250131220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250119233500 +0000" stop="20250120000500 +0000" channel="HISTORY HD.starhub">
         <title>Pahang</title>
     </programme>
@@ -15909,8 +15921,11 @@
     <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129100000 +0000" stop="20250129130000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250129100000 +0000" stop="20250129120000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Great Abaco Classic at The Abaco Club Round 4</title>
+    </programme>
+    <programme start="20250129120000 +0000" stop="20250129130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Unfiltered - Hero Dubai Desert Classic</title>
     </programme>
     <programme start="20250129130000 +0000" stop="20250129180000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hero Dubai Desert Classic Day 4</title>
@@ -15925,7 +15940,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250130083000 +0000" stop="20250130133000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Bahrain Championship Day 1</title>
+        <title>Bapco Energies Bahrain Championship Day 1</title>
     </programme>
     <programme start="20250130133000 +0000" stop="20250130140000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Ras Al Khaimah Championship</title>
@@ -15952,7 +15967,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250131083000 +0000" stop="20250131133000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Bahrain Championship Day 2</title>
+        <title>Bapco Energies Bahrain Championship Day 2</title>
     </programme>
     <programme start="20250131133000 +0000" stop="20250131163000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hilton Grand Vacations Tournament of Champions Round 1</title>
@@ -15973,13 +15988,13 @@
         <title>Hero Dubai Desert Classic</title>
     </programme>
     <programme start="20250201073000 +0000" stop="20250201083000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Philippine Open</title>
+        <title>Smart Infinity Philippine Open</title>
     </programme>
     <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Ras Al Khaimah Championship</title>
+        <title>SDC Open</title>
     </programme>
     <programme start="20250201090000 +0000" stop="20250201133000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Bahrain Championship Day 3</title>
+        <title>Bapco Energies Bahrain Championship Day 3</title>
     </programme>
     <programme start="20250201133000 +0000" stop="20250201163000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hilton Grand Vacations Tournament of Champions Round 2</title>
@@ -16001,9 +16016,6 @@
     </programme>
     <programme start="20250202073000 +0000" stop="20250202083000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Great Abaco Classic at The Abaco Club</title>
-    </programme>
-    <programme start="20250202083000 +0000" stop="20250202133000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Bahrain Championship Day 4</title>
     </programme>
     <programme start="20250202133000 +0000" stop="20250202160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hilton Grand Vacations Tournament of Champions Round 3</title>
@@ -32872,6 +32884,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250119220000 +0000" stop="20250120040000 +0000" channel="Hub Sports 5 HD.starhub">
