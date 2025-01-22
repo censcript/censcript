@@ -16068,7 +16068,10 @@
     <programme start="20250202073000 +0000" stop="20250202083000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Great Abaco Classic at The Abaco Club</title>
     </programme>
-    <programme start="20250202133000 +0000" stop="20250202160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250202083000 +0000" stop="20250202133000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Bapco Energies Bahrain Championship Day 4</title>
+    </programme>
+    <programme start="20250202133000 +0000" stop="20250202163000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hilton Grand Vacations Tournament of Champions Round 3</title>
     </programme>
     <programme start="20250121000000 +0000" stop="20250121010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
@@ -28338,6 +28341,18 @@
     <programme start="20250201100000 +0000" stop="20250201160300 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250201160300 +0000" stop="20250201220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250120235000 +0000" stop="20250121002000 +0000" channel="HBO Family HD.starhub">
         <title>Elmo Visits The Library</title>
     </programme>
@@ -33238,6 +33253,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
