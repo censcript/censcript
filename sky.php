@@ -15192,8 +15192,14 @@
     <programme start="20250123063000 +0000" stop="20250123070500 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250123070500 +0000" stop="20250123093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250123070500 +0000" stop="20250123075000 +0000" channel="BBC Parl HD">
+        <title>Senedd Cymru - Welsh Parliament - Holocaust Memorial Day</title>
+    </programme>
+    <programme start="20250123075000 +0000" stop="20250123081000 +0000" channel="BBC Parl HD">
+        <title>Select Committee Statement on...</title>
+    </programme>
+    <programme start="20250123081000 +0000" stop="20250123093000 +0000" channel="BBC Parl HD">
+        <title>Southport Statement</title>
     </programme>
     <programme start="20250123093000 +0000" stop="20250123103000 +0000" channel="BBC Parl HD">
         <title>Live Cabinet Office Questions</title>
@@ -30249,7 +30255,7 @@
     <programme start="20250123233000 +0000" stop="20250124003000 +0000" channel="PoliticsPunjab">
         <title>Repeat: Current Affairs</title>
     </programme>
-    <programme start="20250122223000 +0000" stop="20250122230000 +0000" channel="PBC">
+    <programme start="20250122220000 +0000" stop="20250122230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
     </programme>
     <programme start="20250122230000 +0000" stop="20250123000000 +0000" channel="PBC">
