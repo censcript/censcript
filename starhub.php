@@ -9738,8 +9738,68 @@
     <programme start="20250126150000 +0000" stop="20250126153000 +0000" channel="SPOTV2.starhub">
         <title>2025 World Sailing Show</title>
     </programme>
-    <programme start="20250126153000 +0000" stop="20250126160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250126153000 +0000" stop="20250126180000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
+    </programme>
+    <programme start="20250126180000 +0000" stop="20250126200000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
+    </programme>
+    <programme start="20250126200000 +0000" stop="20250126203000 +0000" channel="SPOTV2.starhub">
+        <title>2025 World Sailing Show</title>
+    </programme>
+    <programme start="20250126203000 +0000" stop="20250126223000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
+    </programme>
+    <programme start="20250126223000 +0000" stop="20250126233000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250126233000 +0000" stop="20250126235500 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
+    </programme>
+    <programme start="20250126235500 +0000" stop="20250127020000 +0000" channel="SPOTV2.starhub">
+        <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
+    </programme>
+    <programme start="20250127020000 +0000" stop="20250127030000 +0000" channel="SPOTV2.starhub">
+        <title>2025 MotoGP: Ducati Dream On</title>
+    </programme>
+    <programme start="20250127030000 +0000" stop="20250127050000 +0000" channel="SPOTV2.starhub">
+        <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
+    </programme>
+    <programme start="20250127050000 +0000" stop="20250127070000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
+    </programme>
+    <programme start="20250127070000 +0000" stop="20250127073000 +0000" channel="SPOTV2.starhub">
+        <title>2025 World Sailing Show</title>
+    </programme>
+    <programme start="20250127073000 +0000" stop="20250127083000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250127083000 +0000" stop="20250127085500 +0000" channel="SPOTV2.starhub">
+        <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
+    </programme>
+    <programme start="20250127085500 +0000" stop="20250127110000 +0000" channel="SPOTV2.starhub">
+        <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
+    </programme>
+    <programme start="20250127110000 +0000" stop="20250127113000 +0000" channel="SPOTV2.starhub">
+        <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
+    </programme>
+    <programme start="20250127113000 +0000" stop="20250127133000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
+    </programme>
+    <programme start="20250127133000 +0000" stop="20250127140000 +0000" channel="SPOTV2.starhub">
+        <title>2025 World Sailing Show</title>
+    </programme>
+    <programme start="20250127140000 +0000" stop="20250127154500 +0000" channel="SPOTV2.starhub">
+        <title>Day 1</title>
+    </programme>
+    <programme start="20250127154500 +0000" stop="20250127180000 +0000" channel="SPOTV2.starhub">
+        <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
+    </programme>
+    <programme start="20250127180000 +0000" stop="20250127200000 +0000" channel="SPOTV2.starhub">
+        <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
+    </programme>
+    <programme start="20250127200000 +0000" stop="20250127203000 +0000" channel="SPOTV2.starhub">
+        <title>Season 5</title>
     </programme>
     <programme start="20250120230000 +0000" stop="20250121020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -21636,19 +21696,16 @@
     <programme start="20250126150000 +0000" stop="20250126171000 +0000" channel="HBO Hits HD.starhub">
         <title>Ferrari</title>
     </programme>
-    <programme start="20250126171000 +0000" stop="20250126185500 +0000" channel="HBO Hits HD.starhub">
+    <programme start="20250126171000 +0000" stop="20250126190000 +0000" channel="HBO Hits HD.starhub">
         <title>Showing Up</title>
     </programme>
-    <programme start="20250126185500 +0000" stop="20250126192500 +0000" channel="HBO Hits HD.starhub">
-        <title>Hollywood On Set S1</title>
-    </programme>
-    <programme start="20250126192500 +0000" stop="20250126220500 +0000" channel="HBO Hits HD.starhub">
+    <programme start="20250126190000 +0000" stop="20250126214500 +0000" channel="HBO Hits HD.starhub">
         <title>The Curious Case Of Benjamin Button</title>
     </programme>
-    <programme start="20250126220500 +0000" stop="20250127001000 +0000" channel="HBO Hits HD.starhub">
+    <programme start="20250126214500 +0000" stop="20250127000500 +0000" channel="HBO Hits HD.starhub">
         <title>Ready Player One</title>
     </programme>
-    <programme start="20250127001000 +0000" stop="20250127014000 +0000" channel="HBO Hits HD.starhub">
+    <programme start="20250127000500 +0000" stop="20250127014000 +0000" channel="HBO Hits HD.starhub">
         <title>Bee Movie</title>
     </programme>
     <programme start="20250127014000 +0000" stop="20250127031500 +0000" channel="HBO Hits HD.starhub">
@@ -21710,6 +21767,9 @@
     </programme>
     <programme start="20250128092500 +0000" stop="20250128095500 +0000" channel="HBO Hits HD.starhub">
         <title>Hollywood On Set S1</title>
+    </programme>
+    <programme start="20250128095500 +0000" stop="20250128113000 +0000" channel="HBO Hits HD.starhub">
+        <title>Ella Enchanted</title>
     </programme>
     <programme start="20250120235000 +0000" stop="20250121002000 +0000" channel="BBC Lifestyle.starhub">
         <title>Guillaume&#039;s Paris (S1)</title>
@@ -24645,14 +24705,20 @@
     <programme start="20250122220000 +0000" stop="20250123012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250123032500 +0000" stop="20250123072500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250123012500 +0000" stop="20250123045000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
+    </programme>
+    <programme start="20250123045000 +0000" stop="20250123075500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
     </programme>
-    <programme start="20250123072500 +0000" stop="20250123120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250123075500 +0000" stop="20250123123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M09 - Rajasthan Royals vs Delhi Capitals</title>
     </programme>
-    <programme start="20250123120000 +0000" stop="20250123160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250123123000 +0000" stop="20250123155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
+    </programme>
+    <programme start="20250123155000 +0000" stop="20250123160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250123160000 +0000" stop="20250123220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -24794,9 +24860,6 @@
     </programme>
     <programme start="20250131132000 +0000" stop="20250131173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
-    </programme>
-    <programme start="20250131173000 +0000" stop="20250131220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250131220000 +0000" stop="20250131233500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -27465,10 +27528,10 @@
     <programme start="20250123213000 +0000" stop="20250123222000 +0000" channel="Hub VVDrama.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250123222000 +0000" stop="20250123231500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250123222000 +0000" stop="20250123230500 +0000" channel="Hub VVDrama.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250123231500 +0000" stop="20250124003000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250123230500 +0000" stop="20250124003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven: Resurrection</title>
     </programme>
     <programme start="20250124003000 +0000" stop="20250124013000 +0000" channel="Hub VVDrama.starhub">
@@ -27495,13 +27558,13 @@
     <programme start="20250124060500 +0000" stop="20250124070000 +0000" channel="Hub VVDrama.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250124070000 +0000" stop="20250124081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250124070000 +0000" stop="20250124081000 +0000" channel="Hub VVDrama.starhub">
         <title>Cleaning Up</title>
     </programme>
-    <programme start="20250124081500 +0000" stop="20250124090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250124081000 +0000" stop="20250124085500 +0000" channel="Hub VVDrama.starhub">
         <title>Shining Just for You</title>
     </programme>
-    <programme start="20250124090000 +0000" stop="20250124094500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250124085500 +0000" stop="20250124094500 +0000" channel="Hub VVDrama.starhub">
         <title>Stories of Lion Rock Spirit</title>
     </programme>
     <programme start="20250124094500 +0000" stop="20250124103500 +0000" channel="Hub VVDrama.starhub">
@@ -30006,10 +30069,10 @@
     <programme start="20250123213000 +0000" stop="20250123222000 +0000" channel="TestChannel2.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250123222000 +0000" stop="20250123231500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250123222000 +0000" stop="20250123230500 +0000" channel="TestChannel2.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250123231500 +0000" stop="20250124003000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250123230500 +0000" stop="20250124003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven: Resurrection</title>
     </programme>
     <programme start="20250124003000 +0000" stop="20250124013000 +0000" channel="TestChannel2.starhub">
@@ -30036,13 +30099,13 @@
     <programme start="20250124060500 +0000" stop="20250124070000 +0000" channel="TestChannel2.starhub">
         <title>The Legend of Heroes</title>
     </programme>
-    <programme start="20250124070000 +0000" stop="20250124081500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250124070000 +0000" stop="20250124081000 +0000" channel="TestChannel2.starhub">
         <title>Cleaning Up</title>
     </programme>
-    <programme start="20250124081500 +0000" stop="20250124090000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250124081000 +0000" stop="20250124085500 +0000" channel="TestChannel2.starhub">
         <title>Shining Just for You</title>
     </programme>
-    <programme start="20250124090000 +0000" stop="20250124094500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250124085500 +0000" stop="20250124094500 +0000" channel="TestChannel2.starhub">
         <title>Stories of Lion Rock Spirit</title>
     </programme>
     <programme start="20250124094500 +0000" stop="20250124103500 +0000" channel="TestChannel2.starhub">

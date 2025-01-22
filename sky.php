@@ -13989,8 +13989,11 @@
     <programme start="20250122043000 +0000" stop="20250122073000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250122073000 +0000" stop="20250122081500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250122073000 +0000" stop="20250122080000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
+    </programme>
+    <programme start="20250122080000 +0000" stop="20250122081500 +0000" channel="Eurosport 1 HD">
+        <title>This is Eurosport 1 HD</title>
     </programme>
     <programme start="20250122081500 +0000" stop="20250122083000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
@@ -34953,8 +34956,11 @@
     <programme start="20250122043000 +0000" stop="20250122073000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250122073000 +0000" stop="20250122081500 +0000" channel="Eurosport 1">
+    <programme start="20250122073000 +0000" stop="20250122080000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
+    </programme>
+    <programme start="20250122080000 +0000" stop="20250122081500 +0000" channel="Eurosport 1">
+        <title>This is Eurosport 1</title>
     </programme>
     <programme start="20250122081500 +0000" stop="20250122083000 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
