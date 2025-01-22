@@ -7159,16 +7159,16 @@
         <title>That's Oldies: Classic Hit Music</title>
     </programme>
     <programme start="20250122210000 +0000" stop="20250122220000 +0000" channel="That's TV 3">
-        <title>That's Entertainment</title>
+        <title>That's Oldies: Classic Hit Music</title>
     </programme>
-    <programme start="20250122220000 +0000" stop="20250122224000 +0000" channel="That's TV 3">
-        <title>Just Good Friends</title>
+    <programme start="20250122220000 +0000" stop="20250122230500 +0000" channel="That's TV 3">
+        <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250122224000 +0000" stop="20250122231500 +0000" channel="That's TV 3">
+    <programme start="20250122230500 +0000" stop="20250122234000 +0000" channel="That's TV 3">
         <title>Three Up, Two Down</title>
     </programme>
-    <programme start="20250122231500 +0000" stop="20250123001500 +0000" channel="That's TV 3">
-        <title>Life on Mars</title>
+    <programme start="20250122234000 +0000" stop="20250123004000 +0000" channel="That's TV 3">
+        <title>Bread</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250121230000 +0000" channel="ITV1+1">
         <title>New: Long Lost Family Special: The Spanish Baby Scandal</title>
@@ -24823,7 +24823,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250122160000 +0000" stop="20250122170000 +0000" channel="QVC Beauty">
-        <title>Supplement Your Health</title>
+        <title>Hair Gain</title>
     </programme>
     <programme start="20250122170000 +0000" stop="20250122180000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
@@ -24835,7 +24835,7 @@
         <title>Beauty Loves...</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="QVC Beauty">
-        <title>Hair Gain</title>
+        <title>Love Beauty with Elemis</title>
     </programme>
     <programme start="20250122210000 +0000" stop="20250122220000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -24844,7 +24844,7 @@
         <title>Beauty Free Delivery Deals</title>
     </programme>
     <programme start="20250122230000 +0000" stop="20250123000000 +0000" channel="QVC Beauty">
-        <title>Love Beauty with Elemis</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250121230000 +0000" channel="QVC Style HD">
         <title>Up to 50% Off Fashion</title>
@@ -24910,7 +24910,7 @@
         <title>Garden Lighting Solutions</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne's Unmissable Deals</title>
+        <title>New Season Kipling</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -25522,13 +25522,13 @@
         <title>Destination for Deals</title>
     </programme>
     <programme start="20250122110000 +0000" stop="20250122120000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Up to 50% off Malissa J Collection Sale</title>
     </programme>
     <programme start="20250122120000 +0000" stop="20250122130000 +0000" channel="QVC Extra">
         <title>Up to 60% off Garden &amp; DIY Deals</title>
     </programme>
     <programme start="20250122130000 +0000" stop="20250122140000 +0000" channel="QVC Extra">
-        <title>Seasonal Must Haves</title>
+        <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250122140000 +0000" stop="20250122150000 +0000" channel="QVC Extra">
         <title>Up to 30% off Electrical Home</title>
@@ -25543,10 +25543,10 @@
         <title>Top Offers with Cook's Essentials</title>
     </programme>
     <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="QVC Extra">
-        <title>Seasonal Must Haves</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="QVC Extra">
-        <title>Skechers Footwear</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="QVC Extra">
         <title>Destination for Deals</title>
@@ -25558,7 +25558,7 @@
         <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250122230000 +0000" stop="20250123000000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250121223000 +0000" stop="20250121230000 +0000" channel="High Street TV 3">
         <title>Ez Well Massage Mattress</title>
@@ -39258,10 +39258,10 @@
     <programme start="20250122073000 +0000" stop="20250122130000 +0000" channel="BBC R5SX">
         <title>Tennis Breakfast</title>
     </programme>
-    <programme start="20250122130000 +0000" stop="20250122195500 +0000" channel="BBC R5SX">
+    <programme start="20250122130000 +0000" stop="20250122190000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250122195500 +0000" stop="20250122220000 +0000" channel="BBC R5SX">
+    <programme start="20250122190000 +0000" stop="20250122220000 +0000" channel="BBC R5SX">
         <title>Football</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250122230000 +0000" channel="BBC R5SX">

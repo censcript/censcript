@@ -1048,9 +1048,9 @@
         <title>No programme available now. Next broadcast on 23rd January, Thursday 7.20pm. Asean Club Championship Shopee Cup 2024/25: Lion City Sailors FC vs Buriram United FC</title>
     </programme>
     <programme start="20250121160000 +0000" stop="20250122160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th February, Thursday 3.52am. Carabao Cup 2024/25: Newcastle Utd vs Arsenal 2nd Leg</title>
+        <title>No Programme available now. Next Broadcast on 31st January, Friday 2pm. Singapore Tennis Open 2025: Women’s Singles Quarter-finals</title>
     </programme>
     <programme start="20250122160000 +0000" stop="20250123160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th February, Thursday 3.52am. Carabao Cup 2024/25: Newcastle Utd vs Arsenal 2nd Leg</title>
+        <title>No Programme available now. Next Broadcast on 31st January, Friday 2pm. Singapore Tennis Open 2025: Women’s Singles Quarter-finals</title>
     </programme>
 </tv>
