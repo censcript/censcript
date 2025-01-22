@@ -2772,11 +2772,8 @@
     <programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="Sky Arts HD">
         <title>Tales Of The Unexpected</title>
     </programme>
-    <programme start="20250122183000 +0000" stop="20250122190000 +0000" channel="Sky Arts HD">
+    <programme start="20250122183000 +0000" stop="20250122190001 +0000" channel="Sky Arts HD">
         <title>Tales Of The Unexpected</title>
-    </programme>
-    <programme start="20250122190000 +0000" stop="20250122190001 +0000" channel="Sky Arts HD">
-        <title>New: The Alfred Hitchcock Hour</title>
     </programme>
     <programme start="20250122190001 +0000" stop="20250122200000 +0000" channel="Sky Arts HD">
         <title>The Alfred Hitchcock Hour</title>
@@ -15291,10 +15288,10 @@
     <programme start="20250122123500 +0000" stop="20250122125500 +0000" channel="BBC Parl HD">
         <title>Live Competition and Market...</title>
     </programme>
-    <programme start="20250122125500 +0000" stop="20250122140000 +0000" channel="BBC Parl HD">
+    <programme start="20250122125500 +0000" stop="20250122135000 +0000" channel="BBC Parl HD">
         <title>Live Russian Maritime Activity Statement</title>
     </programme>
-    <programme start="20250122140000 +0000" stop="20250122193000 +0000" channel="BBC Parl HD">
+    <programme start="20250122135000 +0000" stop="20250122193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250122193000 +0000" stop="20250122220000 +0000" channel="BBC Parl HD">
@@ -15306,8 +15303,11 @@
     <programme start="20250122223500 +0000" stop="20250122231500 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250122231500 +0000" stop="20250123001500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250122231500 +0000" stop="20250122232500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Extremism Statement</title>
+    </programme>
+    <programme start="20250122232500 +0000" stop="20250123002500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Middle East Statement</title>
     </programme>
     <programme start="20250121223000 +0000" stop="20250121233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -26250,16 +26250,16 @@
     <programme start="20250122200300 +0000" stop="20250122203300 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250122203300 +0000" stop="20250122205900 +0000" channel="SONY TV HD">
+    <programme start="20250122203300 +0000" stop="20250122210000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250122205900 +0000" stop="20250122222800 +0000" channel="SONY TV HD">
+    <programme start="20250122210000 +0000" stop="20250122223400 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250122222800 +0000" stop="20250122233100 +0000" channel="SONY TV HD">
+    <programme start="20250122223400 +0000" stop="20250122233700 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250122233100 +0000" stop="20250123003100 +0000" channel="SONY TV HD">
+    <programme start="20250122233700 +0000" stop="20250123003700 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250121223000 +0000" stop="20250121233000 +0000" channel="Utsav Bharat">
@@ -29430,20 +29430,14 @@
     <programme start="20250122114000 +0000" stop="20250122115500 +0000" channel="Eman Channel">
         <title>Lantern Tales</title>
     </programme>
-    <programme start="20250122115500 +0000" stop="20250122121600 +0000" channel="Eman Channel">
+    <programme start="20250122115500 +0000" stop="20250122121700 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
-    </programme>
-    <programme start="20250122121600 +0000" stop="20250122121700 +0000" channel="Eman Channel">
-        <title>Dhuhr Adhan</title>
     </programme>
     <programme start="20250122121700 +0000" stop="20250122122300 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250122122300 +0000" stop="20250122123800 +0000" channel="Eman Channel">
+    <programme start="20250122122300 +0000" stop="20250122124200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
-    </programme>
-    <programme start="20250122123800 +0000" stop="20250122124200 +0000" channel="Eman Channel">
-        <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250122124200 +0000" stop="20250122130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
@@ -35829,16 +35823,16 @@
     <programme start="20250122200300 +0000" stop="20250122203300 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250122203300 +0000" stop="20250122205900 +0000" channel="SONY TV">
+    <programme start="20250122203300 +0000" stop="20250122210000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250122205900 +0000" stop="20250122222800 +0000" channel="SONY TV">
+    <programme start="20250122210000 +0000" stop="20250122223400 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250122222800 +0000" stop="20250122233100 +0000" channel="SONY TV">
+    <programme start="20250122223400 +0000" stop="20250122233700 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250122233100 +0000" stop="20250123003100 +0000" channel="SONY TV">
+    <programme start="20250122233700 +0000" stop="20250123003700 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250121223000 +0000" stop="20250121230000 +0000" channel="Utsav Plus">
