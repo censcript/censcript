@@ -3651,11 +3651,11 @@
     <programme start="20250122120000 +0000" stop="20250122130000 +0000" channel="Sky Sci-Fi HD">
         <title>Star Trek: Voyager</title>
     </programme>
-    <programme start="20250122130000 +0000" stop="20250122140000 +0000" channel="Sky Sci-Fi HD">
+    <programme start="20250122130000 +0000" stop="20250122140001 +0000" channel="Sky Sci-Fi HD">
         <title>Star Trek: Deep Space Nine</title>
     </programme>
-    <programme start="20250122140000 +0000" stop="20250122150000 +0000" channel="Sky Sci-Fi HD">
-        <title>Warehouse 13</title>
+    <programme start="20250122140001 +0000" stop="20250122150000 +0000" channel="Sky Sci-Fi HD">
+        <title>Fact or Faked: Paranormal Investigations</title>
     </programme>
     <programme start="20250122150000 +0000" stop="20250122160000 +0000" channel="Sky Sci-Fi HD">
         <title>Stargate SG-1</title>
@@ -3666,11 +3666,11 @@
     <programme start="20250122170000 +0000" stop="20250122180000 +0000" channel="Sky Sci-Fi HD">
         <title>Star Trek: Deep Space Nine</title>
     </programme>
-    <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="Sky Sci-Fi HD">
+    <programme start="20250122180000 +0000" stop="20250122190001 +0000" channel="Sky Sci-Fi HD">
         <title>Star Trek: The Next Generation</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="Sky Sci-Fi HD">
-        <title>Warehouse 13</title>
+    <programme start="20250122190001 +0000" stop="20250122200000 +0000" channel="Sky Sci-Fi HD">
+        <title>Fact or Faked: Paranormal Investigations</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="Sky Sci-Fi HD">
         <title>Stargate SG-1</title>
@@ -13338,11 +13338,11 @@
     <programme start="20250122193000 +0000" stop="20250122200000 +0000" channel="SkySpCricket HD">
         <title>ICC WT20: ENG v SCO Hlts</title>
     </programme>
-    <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="SkySpCricket HD">
+    <programme start="20250122200000 +0000" stop="20250122210001 +0000" channel="SkySpCricket HD">
         <title>BBL: Sydney T v Melbourne S Hlts</title>
     </programme>
-    <programme start="20250122210000 +0000" stop="20250122220000 +0000" channel="SkySpCricket HD">
-        <title>SA20: Durban's SG v MI Cape Town</title>
+    <programme start="20250122210001 +0000" stop="20250122220000 +0000" channel="SkySpCricket HD">
+        <title>SA20: Paarl R v MI Cape Town Hlts</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250122230000 +0000" channel="SkySpCricket HD">
         <title>SA20: Sunrisers EC v Pretoria C</title>
@@ -14001,10 +14001,10 @@
     <programme start="20250122083000 +0000" stop="20250122113000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250122113000 +0000" stop="20250122120000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250122113000 +0000" stop="20250122114500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250122120000 +0000" stop="20250122133000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250122114500 +0000" stop="20250122133000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250122133000 +0000" stop="20250122160000 +0000" channel="Eurosport 1 HD">
@@ -14058,10 +14058,10 @@
     <programme start="20250122080000 +0000" stop="20250122090000 +0000" channel="Eurosport 2 HD">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250122090000 +0000" stop="20250122100000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250122090000 +0000" stop="20250122100500 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250122100000 +0000" stop="20250122103000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250122100500 +0000" stop="20250122103000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250122103000 +0000" stop="20250122110000 +0000" channel="Eurosport 2 HD">
@@ -14854,7 +14854,7 @@
         <title>Live Racing</title>
     </programme>
     <programme start="20250122204500 +0000" stop="20250122211500 +0000" channel="Racing TV">
-        <title>This Racing Life: Daryl Jacob Special</title>
+        <title>This Racing Life</title>
     </programme>
     <programme start="20250122211500 +0000" stop="20250122224500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
@@ -26116,13 +26116,13 @@
         <title>Pinkvilla</title>
     </programme>
     <programme start="20250122160000 +0000" stop="20250122163000 +0000" channel="B4U Music">
-        <title>Snack Time Hits</title>
+        <title>Star Stop</title>
     </programme>
     <programme start="20250122163000 +0000" stop="20250122170000 +0000" channel="B4U Music">
         <title>Travel Time Hits</title>
     </programme>
     <programme start="20250122170000 +0000" stop="20250122173000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>Star Stop</title>
     </programme>
     <programme start="20250122173000 +0000" stop="20250122180000 +0000" channel="B4U Music">
         <title>Bajao</title>
@@ -34344,11 +34344,11 @@
     <programme start="20250122120000 +0000" stop="20250122130000 +0000" channel="Sky Sci-Fi">
         <title>Star Trek: Voyager</title>
     </programme>
-    <programme start="20250122130000 +0000" stop="20250122140000 +0000" channel="Sky Sci-Fi">
+    <programme start="20250122130000 +0000" stop="20250122140001 +0000" channel="Sky Sci-Fi">
         <title>Star Trek: Deep Space Nine</title>
     </programme>
-    <programme start="20250122140000 +0000" stop="20250122150000 +0000" channel="Sky Sci-Fi">
-        <title>Warehouse 13</title>
+    <programme start="20250122140001 +0000" stop="20250122150000 +0000" channel="Sky Sci-Fi">
+        <title>Fact or Faked: Paranormal Investigations</title>
     </programme>
     <programme start="20250122150000 +0000" stop="20250122160000 +0000" channel="Sky Sci-Fi">
         <title>Stargate SG-1</title>
@@ -34359,11 +34359,11 @@
     <programme start="20250122170000 +0000" stop="20250122180000 +0000" channel="Sky Sci-Fi">
         <title>Star Trek: Deep Space Nine</title>
     </programme>
-    <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="Sky Sci-Fi">
+    <programme start="20250122180000 +0000" stop="20250122190001 +0000" channel="Sky Sci-Fi">
         <title>Star Trek: The Next Generation</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="Sky Sci-Fi">
-        <title>Warehouse 13</title>
+    <programme start="20250122190001 +0000" stop="20250122200000 +0000" channel="Sky Sci-Fi">
+        <title>Fact or Faked: Paranormal Investigations</title>
     </programme>
     <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="Sky Sci-Fi">
         <title>Stargate SG-1</title>
@@ -34968,10 +34968,10 @@
     <programme start="20250122083000 +0000" stop="20250122113000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250122113000 +0000" stop="20250122120000 +0000" channel="Eurosport 1">
+    <programme start="20250122113000 +0000" stop="20250122114500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250122120000 +0000" stop="20250122133000 +0000" channel="Eurosport 1">
+    <programme start="20250122114500 +0000" stop="20250122133000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250122133000 +0000" stop="20250122160000 +0000" channel="Eurosport 1">
@@ -35025,10 +35025,10 @@
     <programme start="20250122080000 +0000" stop="20250122090000 +0000" channel="Eurosport 2">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250122090000 +0000" stop="20250122100000 +0000" channel="Eurosport 2">
+    <programme start="20250122090000 +0000" stop="20250122100500 +0000" channel="Eurosport 2">
         <title>Live Biathlon: Winter World University Games Turin</title>
     </programme>
-    <programme start="20250122100000 +0000" stop="20250122103000 +0000" channel="Eurosport 2">
+    <programme start="20250122100500 +0000" stop="20250122103000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250122103000 +0000" stop="20250122110000 +0000" channel="Eurosport 2">
@@ -35440,7 +35440,7 @@
         <title>Live Racing</title>
     </programme>
     <programme start="20250122204500 +0000" stop="20250122211500 +0000" channel="Racing TV HD">
-        <title>This Racing Life: Daryl Jacob Special</title>
+        <title>This Racing Life</title>
     </programme>
     <programme start="20250122211500 +0000" stop="20250122224500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
@@ -39258,10 +39258,10 @@
     <programme start="20250122073000 +0000" stop="20250122130000 +0000" channel="BBC R5SX">
         <title>Tennis Breakfast</title>
     </programme>
-    <programme start="20250122130000 +0000" stop="20250122190000 +0000" channel="BBC R5SX">
+    <programme start="20250122130000 +0000" stop="20250122190500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122220000 +0000" channel="BBC R5SX">
+    <programme start="20250122190500 +0000" stop="20250122220000 +0000" channel="BBC R5SX">
         <title>Football</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250122230000 +0000" channel="BBC R5SX">
