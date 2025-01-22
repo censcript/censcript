@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250122150000 +0000" stop="20250122160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Cesc Fabregas</title>
     </programme>

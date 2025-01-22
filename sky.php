@@ -7392,7 +7392,10 @@
     <programme start="20250122045000 +0000" stop="20250122054000 +0000" channel="Channel 5+1">
         <title>Rich House, Poor House</title>
     </programme>
-    <programme start="20250122054000 +0000" stop="20250122060500 +0000" channel="Channel 5+1">
+    <programme start="20250122054000 +0000" stop="20250122060000 +0000" channel="Channel 5+1">
+        <title>This is Channel 5 +1</title>
+    </programme>
+    <programme start="20250122060000 +0000" stop="20250122060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250122060500 +0000" stop="20250122063500 +0000" channel="Channel 5+1">
@@ -30121,31 +30124,31 @@
         <title>Current Issues</title>
     </programme>
     <programme start="20250122163000 +0000" stop="20250122173000 +0000" channel="Akaal Channel">
-        <title>Free Eye Glasses Seva in Punjab</title>
+        <title>Live: 11 Anand Karaj Appeal</title>
     </programme>
     <programme start="20250122173000 +0000" stop="20250122180000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
     <programme start="20250122180000 +0000" stop="20250122190000 +0000" channel="Akaal Channel">
-        <title>Live: 11 Anand Karaj Appeal</title>
+        <title>Free Eye Glasses Seva in Punjab</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122195000 +0000" channel="Akaal Channel">
+    <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250122195000 +0000" stop="20250122202000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
-    </programme>
-    <programme start="20250122202000 +0000" stop="20250122210000 +0000" channel="Akaal Channel">
-        <title>Live: Jee Aayan Nu</title>
+    <programme start="20250122200000 +0000" stop="20250122210000 +0000" channel="Akaal Channel">
+        <title>Live: Akhand Path (Baba Deep S.)</title>
     </programme>
     <programme start="20250122210000 +0000" stop="20250122213000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>
     </programme>
-    <programme start="20250122213000 +0000" stop="20250122223000 +0000" channel="Akaal Channel">
-        <title>Live: Lok Soch</title>
+    <programme start="20250122213000 +0000" stop="20250122221500 +0000" channel="Akaal Channel">
+        <title>The Grooming Crisis</title>
     </programme>
-    <programme start="20250122223000 +0000" stop="20250122223500 +0000" channel="Akaal Channel">
+    <programme start="20250122221500 +0000" stop="20250122222000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
+    </programme>
+    <programme start="20250122222000 +0000" stop="20250122223500 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
     </programme>
     <programme start="20250122223500 +0000" stop="20250122233000 +0000" channel="Akaal Channel">
         <title>Virse De Waris</title>
