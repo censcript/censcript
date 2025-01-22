@@ -24642,11 +24642,8 @@
     <programme start="20250122173000 +0000" stop="20250122220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250122220000 +0000" stop="20250122232500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250122220000 +0000" stop="20250123012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250122232500 +0000" stop="20250123032500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M32 - Melbourne Renegades vs Melbourne Stars</title>
     </programme>
     <programme start="20250123032500 +0000" stop="20250123072500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M33 - Sydney Thunder vs Perth Scorchers</title>
