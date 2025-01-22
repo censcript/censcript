@@ -24861,6 +24861,9 @@
     <programme start="20250131132000 +0000" stop="20250131173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
     </programme>
+    <programme start="20250131173000 +0000" stop="20250131220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250131220000 +0000" stop="20250131233500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -24875,6 +24878,24 @@
     </programme>
     <programme start="20250201120000 +0000" stop="20250201160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M44 - Final</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202012000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202012000 +0000" stop="20250202052000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd T20I</title>
+    </programme>
+    <programme start="20250202052000 +0000" stop="20250202092000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250202092000 +0000" stop="20250202132000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 4th T20I</title>
+    </programme>
+    <programme start="20250202132000 +0000" stop="20250202173000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 5th T20I</title>
     </programme>
     <programme start="20250121000000 +0000" stop="20250121010000 +0000" channel="TVB Xing He.starhub">
         <title>Love Of No Words, A</title>
@@ -30858,6 +30879,18 @@
     <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32736,6 +32769,18 @@
     <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32889,6 +32934,18 @@
     <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33028,6 +33085,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250120220000 +0000" stop="20250121040000 +0000" channel="Hub Sports 5 HD.starhub">

@@ -243,6 +243,24 @@
     <programme start="20250212190000 +0000" stop="20250212220000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
+    <programme start="20250216115500 +0000" stop="20250216151000 +0000" channel="Optus Sport 201.optus">
+        <title>Women&#039;s Super League - Manchester United v Crystal Palace</title>
+    </programme>
+    <programme start="20250216122000 +0000" stop="20250216144000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Arsenal v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 204.optus">
+        <title>Women&#039;s Super League - Chelsea v Everton</title>
+    </programme>
+    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 206.optus">
+        <title>Women&#039;s Super League - West Ham United v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 205.optus">
+        <title>Women&#039;s Super League - Leicester v Aston Villa</title>
+    </programme>
+    <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester City v Liverpool</title>
+    </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
