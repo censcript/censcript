@@ -17863,7 +17863,7 @@
         <title>Mega Matinee</title>
     </programme>
     <programme start="20250122080000 +0000" stop="20250122110000 +0000" channel="Vannathirai.starhub">
-        <title>Sugamana Sumaigal</title>
+        <title>Saavale Samaali</title>
     </programme>
     <programme start="20250122110000 +0000" stop="20250122113000 +0000" channel="Vannathirai.starhub">
         <title>Kaalathai Vendra Ganangal</title>

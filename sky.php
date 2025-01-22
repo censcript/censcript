@@ -5463,11 +5463,32 @@
     <programme start="20250121230000 +0000" stop="20250122000000 +0000" channel="DMAX">
         <title>Aussie Gold Hunters</title>
     </programme>
-    <programme start="20250122000000 +0000" stop="20250122030000 +0000" channel="DMAX">
+    <programme start="20250122000000 +0000" stop="20250122020000 +0000" channel="DMAX">
         <title>Naked And Afraid</title>
     </programme>
-    <programme start="20250122030000 +0000" stop="20250122070000 +0000" channel="DMAX">
+    <programme start="20250122020000 +0000" stop="20250122023000 +0000" channel="DMAX">
         <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122023000 +0000" stop="20250122030000 +0000" channel="DMAX">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122030000 +0000" stop="20250122033000 +0000" channel="DMAX">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122033000 +0000" stop="20250122040000 +0000" channel="DMAX">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122040000 +0000" stop="20250122043000 +0000" channel="DMAX">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122043000 +0000" stop="20250122050000 +0000" channel="DMAX">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250122050000 +0000" stop="20250122060000 +0000" channel="DMAX">
+        <title>Building Alaska</title>
+    </programme>
+    <programme start="20250122060000 +0000" stop="20250122070000 +0000" channel="DMAX">
+        <title>Alaska: The Last Frontier</title>
     </programme>
     <programme start="20250122070000 +0000" stop="20250122080000 +0000" channel="DMAX">
         <title>Alaska: The Last Frontier</title>
