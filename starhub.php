@@ -5163,26 +5163,26 @@
     <programme start="20250122043000 +0000" stop="20250122073000 +0000" channel="Asianet Movies.starhub">
         <title>Home</title>
     </programme>
-    <programme start="20250122073000 +0000" stop="20250122103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122073000 +0000" stop="20250122103500 +0000" channel="Asianet Movies.starhub">
         <title>Sound Thoma</title>
     </programme>
-    <programme start="20250122103000 +0000" stop="20250122133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122103500 +0000" stop="20250122132500 +0000" channel="Asianet Movies.starhub">
         <title>Salala Mobiles</title>
     </programme>
-    <programme start="20250122133000 +0000" stop="20250122163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122132500 +0000" stop="20250122162500 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
     </programme>
-    <programme start="20250122163000 +0000" stop="20250122190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122162500 +0000" stop="20250122190500 +0000" channel="Asianet Movies.starhub">
         <title>Moz &amp; Cat</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122190500 +0000" stop="20250122212000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20250122220000 +0000" stop="20250123000000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250122212000 +0000" stop="20250123000000 +0000" channel="Asianet Movies.starhub">
         <title>Pipinchuvattile Pranayam</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123013000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Hareendran oru Nishkalankan</title>
     </programme>
     <programme start="20250123013000 +0000" stop="20250123043000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
