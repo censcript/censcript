@@ -7392,10 +7392,7 @@
     <programme start="20250122045000 +0000" stop="20250122054000 +0000" channel="Channel 5+1">
         <title>Rich House, Poor House</title>
     </programme>
-    <programme start="20250122054000 +0000" stop="20250122060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250122060000 +0000" stop="20250122060500 +0000" channel="Channel 5+1">
+    <programme start="20250122054000 +0000" stop="20250122060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250122060500 +0000" stop="20250122063500 +0000" channel="Channel 5+1">
@@ -15285,7 +15282,13 @@
     <programme start="20250122120000 +0000" stop="20250122123500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250122123500 +0000" stop="20250122193000 +0000" channel="BBC Parl HD">
+    <programme start="20250122123500 +0000" stop="20250122125500 +0000" channel="BBC Parl HD">
+        <title>Live Competition and Market...</title>
+    </programme>
+    <programme start="20250122125500 +0000" stop="20250122140000 +0000" channel="BBC Parl HD">
+        <title>Live Russian Maritime Activity Statement</title>
+    </programme>
+    <programme start="20250122140000 +0000" stop="20250122193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250122193000 +0000" stop="20250122220000 +0000" channel="BBC Parl HD">
@@ -16089,8 +16092,11 @@
     <programme start="20250122083000 +0000" stop="20250122113000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
-    <programme start="20250122113000 +0000" stop="20250122133000 +0000" channel="NDTV World">
+    <programme start="20250122113000 +0000" stop="20250122130000 +0000" channel="NDTV World">
         <title>Newsbreak</title>
+    </programme>
+    <programme start="20250122130000 +0000" stop="20250122133000 +0000" channel="NDTV World">
+        <title>Delhi Decides</title>
     </programme>
     <programme start="20250122133000 +0000" stop="20250122140000 +0000" channel="NDTV World">
         <title>Southern View</title>
@@ -39852,10 +39858,7 @@
     <programme start="20250122160000 +0000" stop="20250122190000 +0000" channel="LBC News">
         <title>John Stratford</title>
     </programme>
-    <programme start="20250122190000 +0000" stop="20250122230000 +0000" channel="LBC News">
+    <programme start="20250122190000 +0000" stop="20250122200000 +0000" channel="LBC News">
         <title>Steve Holden</title>
-    </programme>
-    <programme start="20250122230000 +0000" stop="20250123000000 +0000" channel="LBC News">
-        <title>LBC News</title>
     </programme>
 </tv>
