@@ -14521,7 +14521,7 @@
         <title>Football's Greatest</title>
     </programme>
     <programme start="20250123123000 +0000" stop="20250123130000 +0000" channel="Premier 2 HD">
-        <title>Football's Greatest</title>
+        <title>Bike World</title>
     </programme>
     <programme start="20250123130000 +0000" stop="20250123150000 +0000" channel="Premier 2 HD">
         <title>Champions Cup: Harlequins v Glasgow</title>
@@ -24664,7 +24664,7 @@
         <title>Hair by Philip Kingsley</title>
     </programme>
     <programme start="20250123020000 +0000" stop="20250123030000 +0000" channel="QVC Beauty">
-        <title>Ruth Langsford January Deals</title>
+        <title>Independant Living with Cubii</title>
     </programme>
     <programme start="20250123030000 +0000" stop="20250123040000 +0000" channel="QVC Beauty">
         <title>Tili Beauty: Try it, Love it</title>
@@ -24676,7 +24676,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250123060000 +0000" stop="20250123070000 +0000" channel="QVC Beauty">
-        <title>Hair Gain</title>
+        <title>Love Beauty with Elemis</title>
     </programme>
     <programme start="20250123070000 +0000" stop="20250123080000 +0000" channel="QVC Beauty">
         <title>Beauty Loves...</title>
@@ -24685,22 +24685,22 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250123090000 +0000" stop="20250123100000 +0000" channel="QVC Beauty">
-        <title>Beauty Tools &amp; Accessories</title>
+        <title>Beauty Free Delivery Deals</title>
     </programme>
     <programme start="20250123100000 +0000" stop="20250123110000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250123110000 +0000" stop="20250123120000 +0000" channel="QVC Beauty">
-        <title>Beauty Free Delivery Deals</title>
+        <title>Laura Geller Makeup</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250123130000 +0000" stop="20250123140000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Hair Gain</title>
     </programme>
     <programme start="20250123140000 +0000" stop="20250123150000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Beauty Tools &amp; Accessories</title>
     </programme>
     <programme start="20250123150000 +0000" stop="20250123160000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -24736,46 +24736,46 @@
         <title>Up to 50% off Sleepwear</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123010000 +0000" channel="QVC Style HD">
-        <title>Clogau Jewellery</title>
+        <title>New Year, New Helene Berman</title>
     </programme>
     <programme start="20250123010000 +0000" stop="20250123020000 +0000" channel="QVC Style HD">
-        <title>Dune London Footwear</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250123020000 +0000" stop="20250123030000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250123030000 +0000" stop="20250123040000 +0000" channel="QVC Style HD">
-        <title>Finery London</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250123040000 +0000" stop="20250123050000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Fashion January Deals</title>
     </programme>
     <programme start="20250123050000 +0000" stop="20250123060000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250123060000 +0000" stop="20250123070000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>New Year, New Helene Berman</title>
     </programme>
     <programme start="20250123070000 +0000" stop="20250123080000 +0000" channel="QVC Style HD">
-        <title>Clogau Jewellery</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250123080000 +0000" stop="20250123090000 +0000" channel="QVC Style HD">
-        <title>Dune London Footwear</title>
+        <title>Ruth Langsford January Deals</title>
     </programme>
     <programme start="20250123090000 +0000" stop="20250123100000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250123100000 +0000" stop="20250123110000 +0000" channel="QVC Style HD">
-        <title>Finery London</title>
+        <title>New and Now Fashion with Katy</title>
     </programme>
     <programme start="20250123110000 +0000" stop="20250123120000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Up to 50% off Sleepwear</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250123130000 +0000" stop="20250123140000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Ruth Langsford January Deals</title>
     </programme>
     <programme start="20250123140000 +0000" stop="20250123150000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
@@ -24793,19 +24793,19 @@
         <title>Emma's Cottage Garden</title>
     </programme>
     <programme start="20250123190000 +0000" stop="20250123200000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250123200000 +0000" stop="20250123210000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Nina Leonard</title>
     </programme>
     <programme start="20250123210000 +0000" stop="20250123220000 +0000" channel="QVC Style HD">
-        <title>Clogau Jewellery</title>
+        <title>Izabel London Fashion Sale</title>
     </programme>
     <programme start="20250123220000 +0000" stop="20250123230000 +0000" channel="QVC Style HD">
-        <title>Dune London Footwear</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250123230000 +0000" stop="20250124000000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250122220000 +0000" stop="20250122230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -25372,76 +25372,73 @@
         <title>Home Improvements</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123010000 +0000" channel="QVC Extra">
-        <title>Must-Have Tech Deals</title>
+        <title>Kitchen Deals with Ninja</title>
     </programme>
     <programme start="20250123010000 +0000" stop="20250123020000 +0000" channel="QVC Extra">
-        <title>QVC Extra Highlights</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250123020000 +0000" stop="20250123030000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250123030000 +0000" stop="20250123040000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
     <programme start="20250123040000 +0000" stop="20250123050000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Step into Spring with Denim &amp; Co</title>
     </programme>
-    <programme start="20250123050000 +0000" stop="20250123060000 +0000" channel="QVC Extra">
-        <title>Love Gardening</title>
-    </programme>
-    <programme start="20250123060000 +0000" stop="20250123070000 +0000" channel="QVC Extra">
-        <title>Plants2Gardens</title>
+    <programme start="20250123050000 +0000" stop="20250123070000 +0000" channel="QVC Extra">
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250123070000 +0000" stop="20250123080000 +0000" channel="QVC Extra">
-        <title>Must-Have Tech Deals</title>
+        <title>Love Your Home</title>
     </programme>
     <programme start="20250123080000 +0000" stop="20250123090000 +0000" channel="QVC Extra">
-        <title>QVC Extra Highlights</title>
+        <title>Up to 50% off Garden &amp; DIY Deals</title>
     </programme>
     <programme start="20250123090000 +0000" stop="20250123100000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Trending Now: Top Technology</title>
     </programme>
     <programme start="20250123100000 +0000" stop="20250123110000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250123110000 +0000" stop="20250123120000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="QVC Extra">
-        <title>Love Gardening</title>
+        <title>Kitchen Big Deals with KitchenAid</title>
     </programme>
     <programme start="20250123130000 +0000" stop="20250123140000 +0000" channel="QVC Extra">
-        <title>Plants2Gardens</title>
+        <title>Seasonal Must Haves</title>
     </programme>
     <programme start="20250123140000 +0000" stop="20250123150000 +0000" channel="QVC Extra">
-        <title>Must-Have Tech Deals</title>
+        <title>Trending Now: Top Technology</title>
     </programme>
     <programme start="20250123150000 +0000" stop="20250123160000 +0000" channel="QVC Extra">
-        <title>QVC Extra Highlights</title>
-    </programme>
-    <programme start="20250123160000 +0000" stop="20250123170000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
-    </programme>
-    <programme start="20250123170000 +0000" stop="20250123180000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
-    </programme>
-    <programme start="20250123180000 +0000" stop="20250123190000 +0000" channel="QVC Extra">
         <title>Practical Ideas</title>
     </programme>
+    <programme start="20250123160000 +0000" stop="20250123170000 +0000" channel="QVC Extra">
+        <title>Get it or Regret it</title>
+    </programme>
+    <programme start="20250123170000 +0000" stop="20250123180000 +0000" channel="QVC Extra">
+        <title>Cook's Essentials</title>
+    </programme>
+    <programme start="20250123180000 +0000" stop="20250123190000 +0000" channel="QVC Extra">
+        <title>Peony Flowers Fresh Finds</title>
+    </programme>
     <programme start="20250123190000 +0000" stop="20250123200000 +0000" channel="QVC Extra">
-        <title>Love Gardening</title>
+        <title>Love Your Home</title>
     </programme>
     <programme start="20250123200000 +0000" stop="20250123210000 +0000" channel="QVC Extra">
-        <title>Plants2Gardens</title>
+        <title>Destination for Deals</title>
     </programme>
     <programme start="20250123210000 +0000" stop="20250123220000 +0000" channel="QVC Extra">
-        <title>Must-Have Tech Deals</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250123220000 +0000" stop="20250123230000 +0000" channel="QVC Extra">
-        <title>QVC Extra Highlights</title>
+        <title>Shop MarlaWynne for Less</title>
     </programme>
     <programme start="20250123230000 +0000" stop="20250124000000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Kitchen Deals with Ninja</title>
     </programme>
     <programme start="20250122223000 +0000" stop="20250122230000 +0000" channel="High Street TV 3">
         <title>Jet Hawk</title>
