@@ -30843,10 +30843,13 @@
     <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250201040000 +0000" stop="20250201095000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250201095000 +0000" stop="20250201120000 +0000" channel="Hub Sports 7.starhub">
+        <title>Singapore Cup 2024/25 BG Tampines Rovers FC vs Brunei DPMM FC (Live)</title>
+    </programme>
+    <programme start="20250201120000 +0000" stop="20250201160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 7.starhub">
@@ -30855,10 +30858,25 @@
     <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250202040000 +0000" stop="20250202095000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Sports 7.starhub">
+    <programme start="20250202095000 +0000" stop="20250202120000 +0000" channel="Hub Sports 7.starhub">
+        <title>Singapore Cup 2024/25 Geylang International FC vs Balestier Khalsa FC (Live)</title>
+    </programme>
+    <programme start="20250202120000 +0000" stop="20250202160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250122040000 +0000" channel="Hub Sports 6.starhub">
