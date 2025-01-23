@@ -38215,7 +38215,7 @@
         <title>Matt Wilkinson</title>
     </programme>
     <programme start="20250123160000 +0000" stop="20250123190000 +0000" channel="Heart">
-        <title>JK and Kelly Brook</title>
+        <title>Rob Howard and Kelly Brook</title>
     </programme>
     <programme start="20250123190000 +0000" stop="20250123220000 +0000" channel="Heart">
         <title>Dev Griffin</title>
