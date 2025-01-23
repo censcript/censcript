@@ -24633,25 +24633,34 @@
     <programme start="20250123220000 +0000" stop="20250124012000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250124040000 +0000" stop="20250124080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250124012000 +0000" stop="20250124043500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
+    </programme>
+    <programme start="20250124043500 +0000" stop="20250124080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
     <programme start="20250124080000 +0000" stop="20250124121500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M43 - Challenger</title>
+        <title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
     </programme>
-    <programme start="20250124121500 +0000" stop="20250124161500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250124121500 +0000" stop="20250124155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st T20I</title>
     </programme>
-    <programme start="20250124161500 +0000" stop="20250125010000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250124155000 +0000" stop="20250124161500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250125010000 +0000" stop="20250125045500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250124161500 +0000" stop="20250124220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250124220000 +0000" stop="20250125011500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250125011500 +0000" stop="20250125051000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M10 - Royal Challengers Bengaluru vs Kolkata Kn</title>
     </programme>
-    <programme start="20250125045500 +0000" stop="20250125093000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250125051000 +0000" stop="20250125094500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M11 - Lucknow Super Giants vs Punjab Kings</title>
     </programme>
-    <programme start="20250125093000 +0000" stop="20250125132000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250125094500 +0000" stop="20250125132000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st T20I</title>
     </programme>
     <programme start="20250125132000 +0000" stop="20250125173000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24660,22 +24669,22 @@
     <programme start="20250125173000 +0000" stop="20250125220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250125220000 +0000" stop="20250126000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250125220000 +0000" stop="20250126010000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250126000000 +0000" stop="20250126040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250126010000 +0000" stop="20250126042000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M35 - Adelaide Strikers vs Sydney Sixers</title>
     </programme>
-    <programme start="20250126040000 +0000" stop="20250126080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250126042000 +0000" stop="20250126080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M36 - Brisbane Heat vs Hobart Hurricanes</title>
     </programme>
     <programme start="20250126080000 +0000" stop="20250126120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Bangladesh Tour of India 2024: 2nd T20I</title>
     </programme>
-    <programme start="20250126120000 +0000" stop="20250126163500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250126120000 +0000" stop="20250126160500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M12 - Gujarat Titans vs Sunrisers Hyderabad</title>
     </programme>
-    <programme start="20250126163500 +0000" stop="20250126220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250126160500 +0000" stop="20250126220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250126220000 +0000" stop="20250127000000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24685,7 +24694,7 @@
         <title>KFC Big Bash League 2024/25: M38 - Melbourne Renegades vs Brisbane Heat</title>
     </programme>
     <programme start="20250127040000 +0000" stop="20250127080000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M43 - Challenger</title>
+        <title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
     </programme>
     <programme start="20250127080000 +0000" stop="20250127121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M44 - Final</title>
@@ -24800,6 +24809,75 @@
     </programme>
     <programme start="20250202132000 +0000" stop="20250202173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 5th T20I</title>
+    </programme>
+    <programme start="20250202173000 +0000" stop="20250202220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250202232500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202232500 +0000" stop="20250203040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M19 - Rajasthan Royals vs Royal Challengers Ben</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd T20I</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250203120000 +0000" stop="20250203160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 4th T20I</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250203233500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203233500 +0000" stop="20250204040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M20 - Mumbai Indians vs Delhi Capitals</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250204080000 +0000" stop="20250204120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 4th T20I</title>
+    </programme>
+    <programme start="20250204120000 +0000" stop="20250204160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 5th T20I</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250204234000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204234000 +0000" stop="20250205040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M21 - Lucknow Super Giants vs Gujarat Titans</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 1st T20I</title>
+    </programme>
+    <programme start="20250205080000 +0000" stop="20250205120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd T20I</title>
+    </programme>
+    <programme start="20250205120000 +0000" stop="20250205160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250205235000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205235000 +0000" stop="20250206035000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 4th T20I</title>
+    </programme>
+    <programme start="20250206035000 +0000" stop="20250206075000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 5th T20I</title>
+    </programme>
+    <programme start="20250206075000 +0000" stop="20250206160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 1st ODI</title>
     </programme>
     <programme start="20250122000000 +0000" stop="20250122010000 +0000" channel="TVB Xing He.starhub">
         <title>Love Of No Words, A</title>

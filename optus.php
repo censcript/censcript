@@ -186,8 +186,14 @@
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>
     </programme>
+    <programme start="20250205180000 +0000" stop="20250205183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: </title>
+    </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
+    </programme>
+    <programme start="20250206133000 +0000" stop="20250206140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
     </programme>
     <programme start="20250207195000 +0000" stop="20250207231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Leicester City</title>
