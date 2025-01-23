@@ -261,6 +261,9 @@
     <programme start="20250216122000 +0000" stop="20250216144000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v Tottenham Hotspur</title>
     </programme>
+    <programme start="20250216130000 +0000" stop="20250216162000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Liverpool v Wolverhampton Wanderers</title>
+    </programme>
     <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 204.optus">
         <title>Women&#039;s Super League - Chelsea v Everton</title>
     </programme>
@@ -269,6 +272,9 @@
     </programme>
     <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 205.optus">
         <title>Women&#039;s Super League - Leicester v Aston Villa</title>
+    </programme>
+    <programme start="20250216162000 +0000" stop="20250216193000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Tottenham Hotspur v Manchester United</title>
     </programme>
     <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
