@@ -14010,10 +14010,10 @@
     <programme start="20250123121500 +0000" stop="20250123131500 +0000" channel="Eurosport 2 HD">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250123131500 +0000" stop="20250123150000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250123131500 +0000" stop="20250123151000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250123150000 +0000" stop="20250123170000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250123151000 +0000" stop="20250123170000 +0000" channel="Eurosport 2 HD">
         <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="Eurosport 2 HD">
@@ -15102,11 +15102,8 @@
     <programme start="20250123130000 +0000" stop="20250123140000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250123140000 +0000" stop="20250123143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250123140000 +0000" stop="20250123144500 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
-    </programme>
-    <programme start="20250123143000 +0000" stop="20250123144500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
     </programme>
     <programme start="20250123144500 +0000" stop="20250123150000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -24670,10 +24667,10 @@
         <title>Bali Collection with Jenny</title>
     </programme>
     <programme start="20250123200000 +0000" stop="20250123210000 +0000" channel="TJC HD">
-        <title>Jewellery Thunder Deals with Jenny</title>
+        <title>Jewellery Thunder Deals with Anshu &amp; Jenny</title>
     </programme>
     <programme start="20250123210000 +0000" stop="20250123220000 +0000" channel="TJC HD">
-        <title>Jewellery Thunder Deals with Jenny</title>
+        <title>Jewellery Thunder Deals with Anshu &amp; Jenny</title>
     </programme>
     <programme start="20250123220000 +0000" stop="20250123230000 +0000" channel="TJC HD">
         <title>Thunder Deals with Craig &amp; Derek</title>
@@ -24721,7 +24718,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250123110000 +0000" stop="20250123120000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Makeup</title>
+        <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24817,7 +24814,7 @@
         <title>Izabel London Fashion Sale</title>
     </programme>
     <programme start="20250123170000 +0000" stop="20250123180000 +0000" channel="QVC Style HD">
-        <title>De Jager Bulbs &amp; Plants</title>
+        <title>New Season de Jager Plants &amp; Bulbs</title>
     </programme>
     <programme start="20250123180000 +0000" stop="20250123190000 +0000" channel="QVC Style HD">
         <title>Emma's Cottage Garden</title>
@@ -25413,10 +25410,10 @@
     <programme start="20250123030000 +0000" stop="20250123040000 +0000" channel="QVC Extra">
         <title>Step into Spring with Denim &amp; Co</title>
     </programme>
-    <programme start="20250123040000 +0000" stop="20250123050000 +0000" channel="QVC Extra">
+    <programme start="20250123040000 +0000" stop="20250123060000 +0000" channel="QVC Extra">
         <title>Step into Spring with Denim &amp; Co</title>
     </programme>
-    <programme start="20250123050000 +0000" stop="20250123070000 +0000" channel="QVC Extra">
+    <programme start="20250123060000 +0000" stop="20250123070000 +0000" channel="QVC Extra">
         <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250123070000 +0000" stop="20250123080000 +0000" channel="QVC Extra">
@@ -25435,7 +25432,7 @@
         <title>Cozee Home</title>
     </programme>
     <programme start="20250123120000 +0000" stop="20250123130000 +0000" channel="QVC Extra">
-        <title>Peony Flowers Fresh Finds</title>
+        <title>Top Offers with Cook's Essentials</title>
     </programme>
     <programme start="20250123130000 +0000" stop="20250123140000 +0000" channel="QVC Extra">
         <title>Seasonal Must Haves</title>
@@ -25447,10 +25444,10 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250123160000 +0000" stop="20250123170000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Get it or Regret It Kitchen Finds</title>
     </programme>
     <programme start="20250123170000 +0000" stop="20250123180000 +0000" channel="QVC Extra">
-        <title>In the Garden with Thompson &amp; Morgan</title>
+        <title>Cook's Essentials Up to 45% Off</title>
     </programme>
     <programme start="20250123180000 +0000" stop="20250123190000 +0000" channel="QVC Extra">
         <title>Peony Flowers Fresh Finds</title>
@@ -28524,13 +28521,13 @@
     <programme start="20250123060000 +0000" stop="20250123070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250123070000 +0000" stop="20250123075500 +0000" channel="IQRA TV">
+    <programme start="20250123070000 +0000" stop="20250123075200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250123075500 +0000" stop="20250123081100 +0000" channel="IQRA TV">
+    <programme start="20250123075200 +0000" stop="20250123080900 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250123081100 +0000" stop="20250123090000 +0000" channel="IQRA TV">
+    <programme start="20250123080900 +0000" stop="20250123090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250123090000 +0000" stop="20250123100000 +0000" channel="IQRA TV">
@@ -28630,19 +28627,19 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250123200500 +0000" stop="20250123210000 +0000" channel="IQRA TV">
-        <title>Live Gaza &amp; Lebanon Winter Appeal</title>
+        <title>Aap Kay Masail</title>
     </programme>
     <programme start="20250123210000 +0000" stop="20250123211200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250123211200 +0000" stop="20250123220000 +0000" channel="IQRA TV">
-        <title>Live Gaza &amp; Lebanon Winter Appeal</title>
+        <title>Al-Balagh</title>
     </programme>
     <programme start="20250123220000 +0000" stop="20250123220500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250123220500 +0000" stop="20250123223500 +0000" channel="IQRA TV">
-        <title>Journey of Salvation Gaza</title>
+        <title>Tazkira-e-Sahaba wa Sahaabiyat</title>
     </programme>
     <programme start="20250123223500 +0000" stop="20250123230000 +0000" channel="IQRA TV">
         <title>Al-Khair Reports</title>
