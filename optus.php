@@ -171,8 +171,17 @@
     <programme start="20250203193000 +0000" stop="20250203223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v West Ham United</title>
     </programme>
+    <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word: Deadline Day Special</title>
+    </programme>
+    <programme start="20250204003000 +0000" stop="20250204013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
     <programme start="20250204020000 +0000" stop="20250204023000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250204090000 +0000" stop="20250204100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11</title>
     </programme>
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>

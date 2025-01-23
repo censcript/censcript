@@ -3535,7 +3535,7 @@
         <title>Genius Go Go Go</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125140000 +0000" channel="TVBS Asia.starhub">
-        <title>TVBS Sisy&#039;s World News Asia</title>
+        <title>TVBS Sisy&#039;s World News</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125150000 +0000" channel="TVBS Asia.starhub">
         <title>TVBS Sisy&#039;s World News Europe</title>
@@ -9561,10 +9561,10 @@
     <programme start="20250124010000 +0000" stop="20250124033000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
     </programme>
-    <programme start="20250124033000 +0000" stop="20250124050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124033000 +0000" stop="20250124050500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250124050000 +0000" stop="20250124060000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124050500 +0000" stop="20250124060000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250124060000 +0000" stop="20250124080000 +0000" channel="SPOTV2.starhub">
@@ -9588,10 +9588,10 @@
     <programme start="20250124130000 +0000" stop="20250124153000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
     </programme>
-    <programme start="20250124153000 +0000" stop="20250124170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124153000 +0000" stop="20250124170500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250124170000 +0000" stop="20250124180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124170500 +0000" stop="20250124180000 +0000" channel="SPOTV2.starhub">
         <title>The 152nd Open Official Film</title>
     </programme>
     <programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="SPOTV2.starhub">
@@ -9766,7 +9766,7 @@
         <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250128110000 +0000" stop="20250128113000 +0000" channel="SPOTV2.starhub">
-        <title>Sydney Ep7</title>
+        <title>Sydney</title>
     </programme>
     <programme start="20250128113000 +0000" stop="20250128133000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
@@ -30906,10 +30906,13 @@
     <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250201040000 +0000" stop="20250201095000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201100000 +0000" stop="20250201140000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250201095000 +0000" stop="20250201120000 +0000" channel="Hub Sports 6.starhub">
+        <title>Albirex Niigata FC (S) vs Hougang United FC</title>
+    </programme>
+    <programme start="20250201120000 +0000" stop="20250201140000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250201140000 +0000" stop="20250201170000 +0000" channel="Hub Sports 6.starhub">
@@ -30924,10 +30927,13 @@
     <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250202040000 +0000" stop="20250202095000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250202095000 +0000" stop="20250202120000 +0000" channel="Hub Sports 6.starhub">
+        <title>Tanjong Pagar United FC vs BG Pathum United FC</title>
+    </programme>
+    <programme start="20250202120000 +0000" stop="20250202160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Hub Sports 6.starhub">
@@ -31075,12 +31081,6 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250213040000 +0000" stop="20250213100000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250213100000 +0000" stop="20250213160000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250213160000 +0000" stop="20250213220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250121220000 +0000" stop="20250122040000 +0000" channel="Hub Premier 4.starhub">
