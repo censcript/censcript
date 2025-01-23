@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250123133000 +0000" stop="20250123140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Michael Owen</title>
-    </programme>
     <programme start="20250124103000 +0000" stop="20250124110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
