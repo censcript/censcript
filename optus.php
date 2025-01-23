@@ -184,7 +184,7 @@
         <title>DFB Pokal - Stuttgart v Augsburg</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: </title>
+        <title>N/A - PL Stories</title>
     </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>

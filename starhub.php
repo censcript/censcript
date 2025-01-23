@@ -16050,6 +16050,27 @@
     <programme start="20250202133000 +0000" stop="20250202163000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hilton Grand Vacations Tournament of Champions Round 3</title>
     </programme>
+    <programme start="20250202163000 +0000" stop="20250202180000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202180000 +0000" stop="20250202210000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hilton Grand Vacations Tournament of Champions Round 4</title>
+    </programme>
+    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AT&amp;T Pebble Beach Pro-Am Round 2</title>
+    </programme>
+    <programme start="20250203130000 +0000" stop="20250203160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hilton Grand Vacations Tournament of Champions Round 4</title>
+    </programme>
     <programme start="20250122000000 +0000" stop="20250122010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (22/1/25 Pt2)</title>
     </programme>
