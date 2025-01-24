@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250124103000 +0000" stop="20250124110000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250216072000 +0000" stop="20250216094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Daegu v Gangwon</title>
+    </programme>
+    <programme start="20250216115500 +0000" stop="20250216151000 +0000" channel="Optus Sport 201.optus">
+        <title>Women&#039;s Super League - Manchester United v Crystal Palace</title>
     </programme>
 </tv>
