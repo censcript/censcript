@@ -949,7 +949,7 @@
         <title>No programme available now. Next broadcast on 25th January, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250123160000 +0000" stop="20250124113000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 24th January, Friday 8.30pm. ONE 170</title>
+        <title>No programme available now. Next broadcast on 24th January, Friday 7.30pm. ONE 170</title>
     </programme>
     <programme start="20250124113000 +0000" stop="20250124163000 +0000" channel="Live 2.mewatch">
         <title>ONE 170</title>

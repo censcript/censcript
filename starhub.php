@@ -4956,9 +4956,6 @@
     <programme start="20250123210200 +0000" stop="20250123211500 +0000" channel="DW English HD.starhub">
         <title>Best of DW-online Content</title>
     </programme>
-    <programme start="20250123211500 +0000" stop="20250123220000 +0000" channel="DW English HD.starhub">
-        <title>Creative and Combative - Mexico City by Night</title>
-    </programme>
     <programme start="20250123220000 +0000" stop="20250123220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -4975,7 +4972,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250123233000 +0000" stop="20250124000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Africa</title>
     </programme>
     <programme start="20250124000000 +0000" stop="20250124000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4984,7 +4981,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250124003000 +0000" stop="20250124010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250124010000 +0000" stop="20250124011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5005,10 +5002,10 @@
         <title>News</title>
     </programme>
     <programme start="20250124031500 +0000" stop="20250124033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Boris Pistorius: We have a bigger responsibility for Europe&#039;s security than ever</title>
     </programme>
     <programme start="20250124033000 +0000" stop="20250124040000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brain drain: When life&#039;s too expensive, talent moves</title>
     </programme>
     <programme start="20250124040000 +0000" stop="20250124041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5029,16 +5026,16 @@
         <title>News</title>
     </programme>
     <programme start="20250124061500 +0000" stop="20250124063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Boris Pistorius: We have a bigger responsibility for Europe&#039;s security than ever</title>
     </programme>
     <programme start="20250124063000 +0000" stop="20250124070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>The Global Auto and Mobility Show</title>
     </programme>
     <programme start="20250124070000 +0000" stop="20250124073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250124073000 +0000" stop="20250124080000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250124080000 +0000" stop="20250124083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5056,13 +5053,13 @@
         <title>News</title>
     </programme>
     <programme start="20250124103000 +0000" stop="20250124110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don’t hold back - Fighting back against cyberbullies</title>
     </programme>
     <programme start="20250124110000 +0000" stop="20250124113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250124113000 +0000" stop="20250124120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250124120000 +0000" stop="20250124121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5074,22 +5071,22 @@
         <title>News</title>
     </programme>
     <programme start="20250124131500 +0000" stop="20250124133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Fight over Berlin&#039;s Comfort Women Statue</title>
     </programme>
     <programme start="20250124133000 +0000" stop="20250124140000 +0000" channel="DW English HD.starhub">
-        <title>How sleep is affected by daily life</title>
+        <title>Sugar’s Hidden Dangers</title>
     </programme>
     <programme start="20250124140000 +0000" stop="20250124143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250124143000 +0000" stop="20250124150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How can we improve life in our cities?</title>
     </programme>
     <programme start="20250124150000 +0000" stop="20250124153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250124153000 +0000" stop="20250124160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250124160000 +0000" stop="20250124161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5099,6 +5096,9 @@
     </programme>
     <programme start="20250124170000 +0000" stop="20250124171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250124171500 +0000" stop="20250124173000 +0000" channel="DW English HD.starhub">
+        <title>Fight over Berlin&#039;s Comfort Women Statue</title>
     </programme>
     <programme start="20250122233000 +0000" stop="20250123013000 +0000" channel="Asianet Movies.starhub">
         <title>Hareendran oru Nishkalankan</title>
@@ -6750,8 +6750,11 @@
     <programme start="20250124030000 +0000" stop="20250124032000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250124032000 +0000" stop="20250124033000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250124032000 +0000" stop="20250124032800 +0000" channel="NHK World Premium HD.starhub">
         <title>Welcome to Special Zoo Tour 10min. (R)</title>
+    </programme>
+    <programme start="20250124032800 +0000" stop="20250124033000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20250124033000 +0000" stop="20250124034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 45</title>
@@ -6759,17 +6762,17 @@
     <programme start="20250124034500 +0000" stop="20250124040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 80 (R)</title>
     </programme>
-    <programme start="20250124040000 +0000" stop="20250124040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250124040000 +0000" stop="20250124041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250124040500 +0000" stop="20250124045500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250124041000 +0000" stop="20250124045500 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250124045500 +0000" stop="20250124050000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20250124050000 +0000" stop="20250124063000 +0000" channel="NHK World Premium HD.starhub">
-        <title>(End time subject to change.)</title>
+        <title>Live from Japan&#039;s Diet: Prime Minister&#039;s Policy Speech (End time subject to chan</title>
     </programme>
     <programme start="20250124063000 +0000" stop="20250124064500 +0000" channel="NHK World Premium HD.starhub">
         <title>Basic English Opens Door to the World</title>
@@ -6821,9 +6824,6 @@
     </programme>
     <programme start="20250124143000 +0000" stop="20250124144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
-    </programme>
-    <programme start="20250124144000 +0000" stop="20250124144500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
     </programme>
     <programme start="20250122235500 +0000" stop="20250123005500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>
@@ -12799,13 +12799,13 @@
         <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
     </programme>
     <programme start="20250124160000 +0000" stop="20250124190000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 2</title>
+        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250124190000 +0000" stop="20250124210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Mixed Doubles Final</title>
+        <title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250125000000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 13</title>
