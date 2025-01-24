@@ -12946,7 +12946,7 @@
         <title>Total Football</title>
     </programme>
     <programme start="20250124150000 +0000" stop="20250124193000 +0000" channel="SkySpMainEvHD">
-        <title>Live SA20: Sunrisers EC v Joburg SK</title>
+        <title>Live SA20:Sunrisers EC v Joburg SK</title>
     </programme>
     <programme start="20250124193000 +0000" stop="20250124223000 +0000" channel="SkySpMainEvHD">
         <title>Live EFL: Sheff Utd v Hull City</title>
@@ -13294,10 +13294,10 @@
         <title>ICC WT20: AUS v SA Hlts</title>
     </programme>
     <programme start="20250124140000 +0000" stop="20250124150000 +0000" channel="SkySpCricket HD">
-        <title>BBL: Sydney S v Sydney Hlts</title>
+        <title>BBL: Sydney S v Sydney T Hlts</title>
     </programme>
     <programme start="20250124150000 +0000" stop="20250124193000 +0000" channel="SkySpCricket HD">
-        <title>Live SA20: Sunrisers EC v Joburg SK</title>
+        <title>Live SA20:Sunrisers EC v Joburg SK</title>
     </programme>
     <programme start="20250124193000 +0000" stop="20250124200000 +0000" channel="SkySpCricket HD">
         <title>ICC WT20: ENG v SCO Hlts</title>
@@ -29301,13 +29301,13 @@
     <programme start="20250124113000 +0000" stop="20250124120000 +0000" channel="Eman Channel">
         <title>Stories Told by My Prophet</title>
     </programme>
-    <programme start="20250124120000 +0000" stop="20250124121600 +0000" channel="Eman Channel">
+    <programme start="20250124120000 +0000" stop="20250124121800 +0000" channel="Eman Channel">
         <title>Trials of Prophet Ibrahim</title>
     </programme>
-    <programme start="20250124121600 +0000" stop="20250124122000 +0000" channel="Eman Channel">
+    <programme start="20250124121800 +0000" stop="20250124122200 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250124122000 +0000" stop="20250124123000 +0000" channel="Eman Channel">
+    <programme start="20250124122200 +0000" stop="20250124123000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250124123000 +0000" stop="20250124130000 +0000" channel="Eman Channel">
@@ -29346,10 +29346,10 @@
     <programme start="20250124163000 +0000" stop="20250124163900 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
-    <programme start="20250124163900 +0000" stop="20250124165000 +0000" channel="Eman Channel">
+    <programme start="20250124163900 +0000" stop="20250124165200 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250124165000 +0000" stop="20250124173000 +0000" channel="Eman Channel">
+    <programme start="20250124165200 +0000" stop="20250124173000 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
     <programme start="20250124173000 +0000" stop="20250124174500 +0000" channel="Eman Channel">
@@ -31273,7 +31273,7 @@
         <title>Curry Bari</title>
     </programme>
     <programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="Islam Bangla">
-        <title>Live Islami Jigghasha</title>
+        <title>Islami Jigghasha</title>
     </programme>
     <programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="Islam Bangla">
         <title>Live Bhalobashi Community</title>

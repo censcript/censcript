@@ -4917,14 +4917,20 @@
     <programme start="20250123160000 +0000" stop="20250123161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250123161500 +0000" stop="20250123170000 +0000" channel="DW English HD.starhub">
-        <title>Creative and Combative - Mexico City by Night</title>
+    <programme start="20250123161500 +0000" stop="20250123163000 +0000" channel="DW English HD.starhub">
+        <title>Achim Steiner, United Nations Development Program Administrator</title>
+    </programme>
+    <programme start="20250123163000 +0000" stop="20250123164500 +0000" channel="DW English HD.starhub">
+        <title>Life Underground: Kharkiv in Wartime</title>
+    </programme>
+    <programme start="20250123164500 +0000" stop="20250123170000 +0000" channel="DW English HD.starhub">
+        <title>How social media aids human trafficking and smuggling</title>
     </programme>
     <programme start="20250123170000 +0000" stop="20250123171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250123171500 +0000" stop="20250123173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Boris Pistorius: We have a bigger responsibility for Europe&#039;s security than ever</title>
     </programme>
     <programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -4933,16 +4939,16 @@
         <title>News</title>
     </programme>
     <programme start="20250123183000 +0000" stop="20250123190000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Pakistan: Missing en route to the West</title>
     </programme>
     <programme start="20250123190000 +0000" stop="20250123190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250123190200 +0000" stop="20250123193000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brain drain: When life&#039;s too expensive, talent moves</title>
     </programme>
     <programme start="20250123193000 +0000" stop="20250123200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250123200000 +0000" stop="20250123203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4954,7 +4960,10 @@
         <title>News</title>
     </programme>
     <programme start="20250123210200 +0000" stop="20250123211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Boris Pistorius: We have a bigger responsibility for Europe&#039;s security than ever</title>
+    </programme>
+    <programme start="20250123211500 +0000" stop="20250123220000 +0000" channel="DW English HD.starhub">
+        <title>Creative and Combative - Mexico City by Night</title>
     </programme>
     <programme start="20250123220000 +0000" stop="20250123220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4963,13 +4972,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250123223000 +0000" stop="20250123230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Economy and tariffs with President Trump: Who wins and who loses?</title>
     </programme>
     <programme start="20250123230000 +0000" stop="20250123231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250123231500 +0000" stop="20250123233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Boris Pistorius: We have a bigger responsibility for Europe&#039;s security than ever</title>
     </programme>
     <programme start="20250123233000 +0000" stop="20250124000000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -5090,15 +5099,6 @@
     </programme>
     <programme start="20250124160000 +0000" stop="20250124161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250124161500 +0000" stop="20250124170000 +0000" channel="DW English HD.starhub">
-        <title>Bhutan - So Close to the Sky - A Journey to the Unknown South</title>
-    </programme>
-    <programme start="20250124170000 +0000" stop="20250124171500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20250124171500 +0000" stop="20250124173000 +0000" channel="DW English HD.starhub">
-        <title>Fight over Berlin&#039;s Comfort Women Statue</title>
     </programme>
     <programme start="20250122233000 +0000" stop="20250123013000 +0000" channel="Asianet Movies.starhub">
         <title>Hareendran oru Nishkalankan</title>
@@ -12814,43 +12814,43 @@
         <title>Day 13</title>
     </programme>
     <programme start="20250125010000 +0000" stop="20250125030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Girls&#039; Junior Final</title>
+        <title>Australian Open 2025 Boys&#039; Junior Final Bernet v Willwerth</title>
     </programme>
     <programme start="20250125030000 +0000" stop="20250125050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Boys&#039; Junior Final</title>
+        <title>Australian Open 2025 Girls&#039; Junior Final Sonobe v Penickova</title>
     </programme>
     <programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 13</title>
     </programme>
     <programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles SF 2</title>
+        <title>Australian Open 2025: Women&#039;s Singles SF 2 Swiatek v Keys</title>
     </programme>
     <programme start="20250125080000 +0000" stop="20250125103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+        <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Doubles Final</title>
+        <title>Australian Open 2025: Men&#039;s Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+        <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Doubles Final</title>
+        <title>Australian Open 2025: Men&#039;s Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125190000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Mixed Doubles Final</title>
+        <title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250125190000 +0000" stop="20250125220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 2</title>
+        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250126000000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+        <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 14</title>
     </programme>
     <programme start="20250126010000 +0000" stop="20250126040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250126040000 +0000" stop="20250126080000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Women&#039;s Doubles Final</title>
@@ -12889,7 +12889,7 @@
         <title>Australian Open 2025: Women&#039;s Doubles Final</title>
     </programme>
     <programme start="20250127033000 +0000" stop="20250127053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+        <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250127053000 +0000" stop="20250127060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
@@ -12901,7 +12901,7 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250127093000 +0000" stop="20250127113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Women&#039;s Singles Final</title>
+        <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250127113000 +0000" stop="20250127143000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Men&#039;s Singles Final</title>
@@ -12940,7 +12940,7 @@
         <title>ATP Tour 250 2025: Montpellier Day 1 Match 2</title>
     </programme>
     <programme start="20250128033000 +0000" stop="20250128053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Mixed Doubles Final</title>
+        <title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250128053000 +0000" stop="20250128070000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier Day 1 Match 3</title>
@@ -13000,7 +13000,7 @@
         <title>ATP Tour 250 2025: Montpellier Day 2 Match 2</title>
     </programme>
     <programme start="20250129033000 +0000" stop="20250129053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Doubles Final</title>
+        <title>Australian Open 2025: Men&#039;s Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
     </programme>
     <programme start="20250129053000 +0000" stop="20250129060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
@@ -13018,7 +13018,7 @@
         <title>ATP Tour 250 2025: Montpellier Day 2 Match 1</title>
     </programme>
     <programme start="20250129110000 +0000" stop="20250129130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Mixed Doubles Final</title>
+        <title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250129130000 +0000" stop="20250129133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
