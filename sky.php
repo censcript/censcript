@@ -23644,7 +23644,7 @@
         <title>Tili Beauty: Try it, Love it</title>
     </programme>
     <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="QVC HD">
-        <title>Elemis Skin School</title>
+        <title>Elemis Skin School on 4 Easy Pay</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="QVC HD">
         <title>Doll10 Beauty</title>
@@ -23848,7 +23848,7 @@
         <title>Liz Earle With Alison Young</title>
     </programme>
     <programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="QVC Beauty">
-        <title>Tarte Cosmetics on 3 Easy Pay</title>
+        <title>Tarte - Shape Tape</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="QVC Beauty">
         <title>Beauty Day Deals</title>
@@ -23869,7 +23869,7 @@
         <title>Tili Beauty: Try it, Love it</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125180000 +0000" channel="QVC Beauty">
-        <title>Tarte Cosmetics on 3 Easy Pay</title>
+        <title>Tarte - Shape Tape</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23926,13 +23926,13 @@
         <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="QVC Style HD">
-        <title>Finery London</title>
+        <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="QVC Style HD">
         <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125140000 +0000" channel="QVC Style HD">
         <title>Step Outside with Centigrade</title>
@@ -23944,7 +23944,7 @@
         <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125170000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125180000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -23956,10 +23956,10 @@
         <title>Up to 60% off MarlaWynne</title>
     </programme>
     <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="QVC Style HD">
-        <title>Digital Innovations featuring Sams</title>
+        <title>Denim &amp; Co Stylish Activewear</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="QVC Style HD">
-        <title>Up to 50% off Accessories</title>
+        <title>Up to 50% off Handbags</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
