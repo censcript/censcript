@@ -2668,7 +2668,7 @@
         <title>Chronicles Of Taiwan&#039;s Indigenous Weaponr</title>
     </programme>
     <programme start="20250126170000 +0000" stop="20250126180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>Discover New Taiwan Step By Step</title>
     </programme>
     <programme start="20250126180000 +0000" stop="20250126190000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
@@ -7671,10 +7671,7 @@
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="TVB Jade HD.starhub">
         <title>Wars Of In-Laws II</title>
     </programme>
-    <programme start="20250125010000 +0000" stop="20250125011500 +0000" channel="TVB Jade HD.starhub">
-        <title>Happy Old Buddies</title>
-    </programme>
-    <programme start="20250125011500 +0000" stop="20250125014500 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250125010000 +0000" stop="20250125014500 +0000" channel="TVB Jade HD.starhub">
         <title>Thai Rogered (Sr.7)</title>
     </programme>
     <programme start="20250125014500 +0000" stop="20250125020000 +0000" channel="TVB Jade HD.starhub">
@@ -7698,10 +7695,10 @@
     <programme start="20250125053000 +0000" stop="20250125060000 +0000" channel="TVB Jade HD.starhub">
         <title>ChatSAT</title>
     </programme>
-    <programme start="20250125060000 +0000" stop="20250125100000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250125060000 +0000" stop="20250125095500 +0000" channel="TVB Jade HD.starhub">
         <title>TV Awards Presentation 2024</title>
     </programme>
-    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250125095500 +0000" stop="20250125103000 +0000" channel="TVB Jade HD.starhub">
         <title>Wong&#039;s Zodiac 2025</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="TVB Jade HD.starhub">
@@ -7724,6 +7721,9 @@
     </programme>
     <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="TVB Jade HD.starhub">
         <title>Fantastic Feasts and Where To Find Them</title>
+    </programme>
+    <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="TVB Jade HD.starhub">
+        <title>JSG Billboard 2025</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123003000 +0000" channel="Zee TV.starhub">
         <title>Bas Itna Sa Khwaab</title>
@@ -8481,44 +8481,59 @@
     <programme start="20250126220000 +0000" stop="20250126224500 +0000" channel="ROCK Entertainment.starhub">
         <title>Late Night With Seth Meyers S12</title>
     </programme>
-    <programme start="20250126224500 +0000" stop="20250126233500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250126224500 +0000" stop="20250126233000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Tonight Show Starring Jimmy Fallon S12</title>
     </programme>
-    <programme start="20250126233500 +0000" stop="20250127000000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Collection</title>
+    <programme start="20250126233000 +0000" stop="20250127001600 +0000" channel="ROCK Entertainment.starhub">
+        <title>Economics Of Shame</title>
     </programme>
-    <programme start="20250127000000 +0000" stop="20250127030000 +0000" channel="ROCK Entertainment.starhub">
-        <title>30th Critics Choice Awards 2025</title>
+    <programme start="20250127001600 +0000" stop="20250127010600 +0000" channel="ROCK Entertainment.starhub">
+        <title>Roschach</title>
     </programme>
-    <programme start="20250127030000 +0000" stop="20250127034500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Law &amp; Order: Special Victims Unit S26</title>
+    <programme start="20250127010600 +0000" stop="20250127015500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Tenfold</title>
     </programme>
-    <programme start="20250127034500 +0000" stop="20250127053500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250127015500 +0000" stop="20250127024000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Cornered</title>
+    </programme>
+    <programme start="20250127024000 +0000" stop="20250127032500 +0000" channel="ROCK Entertainment.starhub">
+        <title>First Light</title>
+    </programme>
+    <programme start="20250127032500 +0000" stop="20250127051500 +0000" channel="ROCK Entertainment.starhub">
         <title>What To Expect When You&#039;re Expecting</title>
     </programme>
-    <programme start="20250127053500 +0000" stop="20250127062000 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250127051500 +0000" stop="20250127060000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Tonight Show Starring Jimmy Fallon S12</title>
     </programme>
-    <programme start="20250127062000 +0000" stop="20250127070500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250127060000 +0000" stop="20250127064500 +0000" channel="ROCK Entertainment.starhub">
         <title>Late Night With Seth Meyers S12</title>
     </programme>
-    <programme start="20250127070500 +0000" stop="20250127073000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Secrets And Lies</title>
+    <programme start="20250127064500 +0000" stop="20250127073000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Knight and Day</title>
     </programme>
     <programme start="20250127073000 +0000" stop="20250127081500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Out of Control</title>
+        <title>Hardboiled</title>
     </programme>
     <programme start="20250127081500 +0000" stop="20250127090000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Out of Control</title>
+    </programme>
+    <programme start="20250127090000 +0000" stop="20250127094500 +0000" channel="ROCK Entertainment.starhub">
         <title>Humbug</title>
     </programme>
-    <programme start="20250127090000 +0000" stop="20250127104500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250127094500 +0000" stop="20250127113000 +0000" channel="ROCK Entertainment.starhub">
         <title>Brothers</title>
     </programme>
-    <programme start="20250127104500 +0000" stop="20250127134500 +0000" channel="ROCK Entertainment.starhub">
-        <title>30th Critics Choice Awards 2025</title>
+    <programme start="20250127113000 +0000" stop="20250127121500 +0000" channel="ROCK Entertainment.starhub">
+        <title>First Light</title>
+    </programme>
+    <programme start="20250127121500 +0000" stop="20250127130000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Calculated</title>
+    </programme>
+    <programme start="20250127130000 +0000" stop="20250127134500 +0000" channel="ROCK Entertainment.starhub">
+        <title>First Light</title>
     </programme>
     <programme start="20250127134500 +0000" stop="20250127143000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Law &amp; Order: Special Victims Unit S26</title>
+        <title>Calculated</title>
     </programme>
     <programme start="20250127143000 +0000" stop="20250127163000 +0000" channel="ROCK Entertainment.starhub">
         <title>August: Osage County</title>
@@ -8530,10 +8545,10 @@
         <title>Late Night With Seth Meyers S12</title>
     </programme>
     <programme start="20250127180000 +0000" stop="20250127184500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Law &amp; Order: Special Victims Unit S26</title>
+        <title>First Light</title>
     </programme>
     <programme start="20250127184500 +0000" stop="20250127193000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Law &amp; Order: Special Victims Unit S26</title>
+        <title>Calculated</title>
     </programme>
     <programme start="20250127193000 +0000" stop="20250127203000 +0000" channel="ROCK Entertainment.starhub">
         <title>The One Where Kurt Saves Diane</title>
@@ -8546,21 +8561,6 @@
     </programme>
     <programme start="20250127220000 +0000" stop="20250127224500 +0000" channel="ROCK Entertainment.starhub">
         <title>Late Night With Seth Meyers S12</title>
-    </programme>
-    <programme start="20250127224500 +0000" stop="20250127233500 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Tonight Show Starring Jimmy Fallon S12</title>
-    </programme>
-    <programme start="20250127233500 +0000" stop="20250128000000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Somebody To Love</title>
-    </programme>
-    <programme start="20250128000000 +0000" stop="20250128013000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Far From Home</title>
-    </programme>
-    <programme start="20250128013000 +0000" stop="20250128030500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Nim&#039;s Island</title>
-    </programme>
-    <programme start="20250128030500 +0000" stop="20250128045000 +0000" channel="ROCK Entertainment.starhub">
-        <title>Made Of Honor</title>
     </programme>
     <programme start="20250122235000 +0000" stop="20250123001000 +0000" channel="Nick Jr.starhub">
         <title>Pups Save Bedtime / Pups Save Chickaletta&#039;s Egg</title>
@@ -9721,7 +9721,7 @@
         <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250128110000 +0000" stop="20250128113000 +0000" channel="SPOTV2.starhub">
-        <title>Sydney</title>
+        <title>Sydney Ep7</title>
     </programme>
     <programme start="20250128113000 +0000" stop="20250128133000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
@@ -22177,7 +22177,7 @@
         <title>Rd 1 - 7* (John Higgins v Jamie Jones)</title>
     </programme>
     <programme start="20250123230000 +0000" stop="20250123233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/L Episode 10</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 10</title>
     </programme>
     <programme start="20250123233000 +0000" stop="20250124023000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Finals</title>
@@ -22222,7 +22222,7 @@
         <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 2 H/Ls</title>
     </programme>
     <programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 3 H/L</title>
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 3 H/Ls</title>
     </programme>
     <programme start="20250125010000 +0000" stop="20250125050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>DAIHATSU Indonesia Masters (Super 500): QF Session 1 (Court 1)</title>
@@ -22270,7 +22270,7 @@
         <title>Show 96</title>
     </programme>
     <programme start="20250126120000 +0000" stop="20250126123000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/L Episode 11</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 11</title>
     </programme>
     <programme start="20250126123000 +0000" stop="20250126193000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>PETRONAS Malaysia Open (Super 1000): Finals</title>
@@ -22278,8 +22278,11 @@
     <programme start="20250126193000 +0000" stop="20250126223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) Rd 16 Session 1</title>
     </programme>
-    <programme start="20250126223000 +0000" stop="20250127033000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250126223000 +0000" stop="20250127030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI World Tour - Santos Men Tour Down Under Stage 1</title>
+    </programme>
+    <programme start="20250127030000 +0000" stop="20250127033000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 3 H/Ls</title>
     </programme>
     <programme start="20250127033000 +0000" stop="20250127073000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>DAIHATSU Indonesia Masters (Super 500): Rd 16 Session 1 (Court 1)</title>
@@ -22303,7 +22306,7 @@
         <title>UCI World Tour - Santos Men Tour Down Under Stage 2</title>
     </programme>
     <programme start="20250128023000 +0000" stop="20250128030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/L Episode 11</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 11</title>
     </programme>
     <programme start="20250128030000 +0000" stop="20250128070000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>DAIHATSU Indonesia Masters (Super 500): QF Session 1 (Court 1)</title>
@@ -22405,7 +22408,7 @@
         <title>Half MDS - Fuerteventura</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130223000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/L Episode 11</title>
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 11</title>
     </programme>
     <programme start="20250130223000 +0000" stop="20250131030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI World Tour - Santos Men Tour Down Under Stage 5</title>
@@ -22436,9 +22439,6 @@
     </programme>
     <programme start="20250131210000 +0000" stop="20250131220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) Finals</title>
-    </programme>
-    <programme start="20250131220000 +0000" stop="20250131223000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>XTri X-Out</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
@@ -25887,8 +25887,11 @@
     <programme start="20250125143000 +0000" stop="20250125153000 +0000" channel="Sun Music.starhub">
         <title>Mass Masala</title>
     </programme>
-    <programme start="20250125153000 +0000" stop="20250125163000 +0000" channel="Sun Music.starhub">
+    <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Sun Music.starhub">
         <title>Soup Songs</title>
+    </programme>
+    <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="Sun Music.starhub">
+        <title>Hits Of Ilayaraja</title>
     </programme>
     <programme start="20250125163000 +0000" stop="20250125173000 +0000" channel="Sun Music.starhub">
         <title>Marana Kuthu</title>
@@ -25950,8 +25953,11 @@
     <programme start="20250126143000 +0000" stop="20250126153000 +0000" channel="Sun Music.starhub">
         <title>Mass Masala</title>
     </programme>
-    <programme start="20250126153000 +0000" stop="20250126163000 +0000" channel="Sun Music.starhub">
+    <programme start="20250126153000 +0000" stop="20250126160000 +0000" channel="Sun Music.starhub">
         <title>Soup Songs</title>
+    </programme>
+    <programme start="20250126160000 +0000" stop="20250126163000 +0000" channel="Sun Music.starhub">
+        <title>Hits Of Ilayaraja</title>
     </programme>
     <programme start="20250126163000 +0000" stop="20250126173000 +0000" channel="Sun Music.starhub">
         <title>Marana Kuthu</title>
@@ -26003,12 +26009,6 @@
     </programme>
     <programme start="20250127113000 +0000" stop="20250127123000 +0000" channel="Sun Music.starhub">
         <title>Hit List</title>
-    </programme>
-    <programme start="20250127123000 +0000" stop="20250127133000 +0000" channel="Sun Music.starhub">
-        <title>Scene Oda Pattu</title>
-    </programme>
-    <programme start="20250127133000 +0000" stop="20250127140000 +0000" channel="Sun Music.starhub">
-        <title>Breakfree</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123001500 +0000" channel="Arirang TV HD.starhub">
         <title>K-Chat: Conversing In Korean</title>
@@ -29685,10 +29685,7 @@
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="TestChannel 996.starhub">
         <title>Wars Of In-Laws II</title>
     </programme>
-    <programme start="20250125010000 +0000" stop="20250125011500 +0000" channel="TestChannel 996.starhub">
-        <title>Happy Old Buddies</title>
-    </programme>
-    <programme start="20250125011500 +0000" stop="20250125014500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250125010000 +0000" stop="20250125014500 +0000" channel="TestChannel 996.starhub">
         <title>Thai Rogered (Sr.7)</title>
     </programme>
     <programme start="20250125014500 +0000" stop="20250125020000 +0000" channel="TestChannel 996.starhub">
@@ -29712,10 +29709,10 @@
     <programme start="20250125053000 +0000" stop="20250125060000 +0000" channel="TestChannel 996.starhub">
         <title>ChatSAT</title>
     </programme>
-    <programme start="20250125060000 +0000" stop="20250125100000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250125060000 +0000" stop="20250125095500 +0000" channel="TestChannel 996.starhub">
         <title>TV Awards Presentation 2024</title>
     </programme>
-    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250125095500 +0000" stop="20250125103000 +0000" channel="TestChannel 996.starhub">
         <title>Wong&#039;s Zodiac 2025</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="TestChannel 996.starhub">
@@ -29738,6 +29735,9 @@
     </programme>
     <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="TestChannel 996.starhub">
         <title>Fantastic Feasts and Where To Find Them</title>
+    </programme>
+    <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="TestChannel 996.starhub">
+        <title>JSG Billboard 2025</title>
     </programme>
     <programme start="20250122231500 +0000" stop="20250123003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
