@@ -24487,7 +24487,7 @@
         <title>Practical Ideas with Bernini</title>
     </programme>
     <programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="QVC HD">
-        <title>Friday Night Beauty with Hello Sunday</title>
+        <title>Friday Night Beauty</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250124220000 +0000" channel="QVC HD">
         <title>L'Occitane: Beauty En Provence</title>
@@ -24679,7 +24679,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250124060000 +0000" stop="20250124070000 +0000" channel="QVC Beauty">
-        <title>Supplement Your Health</title>
+        <title>Supplement your Health</title>
     </programme>
     <programme start="20250124070000 +0000" stop="20250124080000 +0000" channel="QVC Beauty">
         <title>Beauty Loves...</title>
@@ -24760,7 +24760,7 @@
         <title>Izabel London Fashion Sale</title>
     </programme>
     <programme start="20250124070000 +0000" stop="20250124080000 +0000" channel="QVC Style HD">
-        <title>New Season Kipling</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250124080000 +0000" stop="20250124090000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -24769,13 +24769,13 @@
         <title>Ruth Langsford January Deals</title>
     </programme>
     <programme start="20250124100000 +0000" stop="20250124110000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co Stylish Activewear</title>
+        <title>Digital Innovations featuring Sams</title>
     </programme>
     <programme start="20250124110000 +0000" stop="20250124120000 +0000" channel="QVC Style HD">
         <title>New and Now Fashion with Katy</title>
     </programme>
     <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="QVC Style HD">
-        <title>20% off Steel by Diamonique</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250124130000 +0000" stop="20250124140000 +0000" channel="QVC Style HD">
         <title>Step Outside with Centigrade</title>
@@ -25402,7 +25402,7 @@
         <title>Centigrade Outerwear New Deals</title>
     </programme>
     <programme start="20250124090000 +0000" stop="20250124100000 +0000" channel="QVC Extra">
-        <title>Big Deals with Cook's Essentials</title>
+        <title>Top Offers with Cook's Essentials</title>
     </programme>
     <programme start="20250124100000 +0000" stop="20250124110000 +0000" channel="QVC Extra">
         <title>Destination for Deals</title>
@@ -25429,16 +25429,16 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250124180000 +0000" stop="20250124190000 +0000" channel="QVC Extra">
-        <title>Denim &amp; Co Stylish Activewear</title>
+        <title>Digital Innovations featuring Sams</title>
     </programme>
     <programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="QVC Extra">
-        <title>Cook's Essentials Up to 45% Off</title>
+        <title>Step Outside with Centigrade</title>
     </programme>
     <programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="QVC Extra">
         <title>Destination for Deals</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250124220000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Trending Now: Top Technology</title>
     </programme>
     <programme start="20250124220000 +0000" stop="20250124230000 +0000" channel="QVC Extra">
         <title>20% off Steel by Diamonique</title>
@@ -26085,31 +26085,31 @@
     <programme start="20250124082500 +0000" stop="20250124085800 +0000" channel="SONY TV HD">
         <title>Jubilee Talkies-shohrat.shiddat.mohabbat</title>
     </programme>
-    <programme start="20250124085800 +0000" stop="20250124093000 +0000" channel="SONY TV HD">
+    <programme start="20250124085800 +0000" stop="20250124092900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250124093000 +0000" stop="20250124110400 +0000" channel="SONY TV HD">
+    <programme start="20250124092900 +0000" stop="20250124110300 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124110400 +0000" stop="20250124113500 +0000" channel="SONY TV HD">
+    <programme start="20250124110300 +0000" stop="20250124113300 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250124113500 +0000" stop="20250124130100 +0000" channel="SONY TV HD">
+    <programme start="20250124113300 +0000" stop="20250124130100 +0000" channel="SONY TV HD">
         <title>Champions Ka Tashan</title>
     </programme>
-    <programme start="20250124130100 +0000" stop="20250124140100 +0000" channel="SONY TV HD">
+    <programme start="20250124130100 +0000" stop="20250124140200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250124140100 +0000" stop="20250124145900 +0000" channel="SONY TV HD">
+    <programme start="20250124140200 +0000" stop="20250124145900 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250124145900 +0000" stop="20250124155900 +0000" channel="SONY TV HD">
+    <programme start="20250124145900 +0000" stop="20250124155800 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250124155900 +0000" stop="20250124172900 +0000" channel="SONY TV HD">
+    <programme start="20250124155800 +0000" stop="20250124173000 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124172900 +0000" stop="20250124175800 +0000" channel="SONY TV HD">
+    <programme start="20250124173000 +0000" stop="20250124175800 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250124175800 +0000" stop="20250124183000 +0000" channel="SONY TV HD">
@@ -26121,19 +26121,19 @@
     <programme start="20250124185900 +0000" stop="20250124195900 +0000" channel="SONY TV HD">
         <title>Shark Tank India</title>
     </programme>
-    <programme start="20250124195900 +0000" stop="20250124202900 +0000" channel="SONY TV HD">
+    <programme start="20250124195900 +0000" stop="20250124202800 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250124202900 +0000" stop="20250124205900 +0000" channel="SONY TV HD">
+    <programme start="20250124202800 +0000" stop="20250124205900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250124205900 +0000" stop="20250124222800 +0000" channel="SONY TV HD">
+    <programme start="20250124205900 +0000" stop="20250124223800 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124222800 +0000" stop="20250124233400 +0000" channel="SONY TV HD">
+    <programme start="20250124223800 +0000" stop="20250124234200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250124233400 +0000" stop="20250125003400 +0000" channel="SONY TV HD">
+    <programme start="20250124234200 +0000" stop="20250125004200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250123223000 +0000" stop="20250123233000 +0000" channel="Utsav Bharat">
@@ -26455,7 +26455,7 @@
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250124110000 +0000" stop="20250124113000 +0000" channel="COLORS HD">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124113000 +0000" stop="20250124120000 +0000" channel="COLORS HD">
         <title>Parineetii</title>
@@ -26482,7 +26482,7 @@
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="COLORS HD">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="COLORS HD">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
@@ -26506,7 +26506,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="COLORS HD">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124213000 +0000" stop="20250124223000 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
@@ -29806,7 +29806,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250124183000 +0000" stop="20250124190000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250124190000 +0000" stop="20250124193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -29817,10 +29817,7 @@
     <programme start="20250124200000 +0000" stop="20250124203000 +0000" channel="Sikh Channel">
         <title>Teleshopping - Yatra</title>
     </programme>
-    <programme start="20250124203000 +0000" stop="20250124210000 +0000" channel="Sikh Channel">
-        <title>Current Issues</title>
-    </programme>
-    <programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="Sikh Channel">
+    <programme start="20250124203000 +0000" stop="20250124213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250124213000 +0000" stop="20250124220000 +0000" channel="Sikh Channel">
@@ -35637,31 +35634,31 @@
     <programme start="20250124082500 +0000" stop="20250124085800 +0000" channel="SONY TV">
         <title>Jubilee Talkies-shohrat.shiddat.mohabbat</title>
     </programme>
-    <programme start="20250124085800 +0000" stop="20250124093000 +0000" channel="SONY TV">
+    <programme start="20250124085800 +0000" stop="20250124092900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250124093000 +0000" stop="20250124110400 +0000" channel="SONY TV">
+    <programme start="20250124092900 +0000" stop="20250124110300 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124110400 +0000" stop="20250124113500 +0000" channel="SONY TV">
+    <programme start="20250124110300 +0000" stop="20250124113300 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250124113500 +0000" stop="20250124130100 +0000" channel="SONY TV">
+    <programme start="20250124113300 +0000" stop="20250124130100 +0000" channel="SONY TV">
         <title>Champions Ka Tashan</title>
     </programme>
-    <programme start="20250124130100 +0000" stop="20250124140100 +0000" channel="SONY TV">
+    <programme start="20250124130100 +0000" stop="20250124140200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250124140100 +0000" stop="20250124145900 +0000" channel="SONY TV">
+    <programme start="20250124140200 +0000" stop="20250124145900 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250124145900 +0000" stop="20250124155900 +0000" channel="SONY TV">
+    <programme start="20250124145900 +0000" stop="20250124155800 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250124155900 +0000" stop="20250124172900 +0000" channel="SONY TV">
+    <programme start="20250124155800 +0000" stop="20250124173000 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124172900 +0000" stop="20250124175800 +0000" channel="SONY TV">
+    <programme start="20250124173000 +0000" stop="20250124175800 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250124175800 +0000" stop="20250124183000 +0000" channel="SONY TV">
@@ -35673,19 +35670,19 @@
     <programme start="20250124185900 +0000" stop="20250124195900 +0000" channel="SONY TV">
         <title>Shark Tank India</title>
     </programme>
-    <programme start="20250124195900 +0000" stop="20250124202900 +0000" channel="SONY TV">
+    <programme start="20250124195900 +0000" stop="20250124202800 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250124202900 +0000" stop="20250124205900 +0000" channel="SONY TV">
+    <programme start="20250124202800 +0000" stop="20250124205900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250124205900 +0000" stop="20250124222800 +0000" channel="SONY TV">
+    <programme start="20250124205900 +0000" stop="20250124223800 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250124222800 +0000" stop="20250124233400 +0000" channel="SONY TV">
+    <programme start="20250124223800 +0000" stop="20250124234200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250124233400 +0000" stop="20250125003400 +0000" channel="SONY TV">
+    <programme start="20250124234200 +0000" stop="20250125004200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250123223000 +0000" stop="20250123230000 +0000" channel="Utsav Plus">
@@ -35887,7 +35884,7 @@
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250124110000 +0000" stop="20250124113000 +0000" channel="COLORS">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124113000 +0000" stop="20250124120000 +0000" channel="COLORS">
         <title>Parineetii</title>
@@ -35914,7 +35911,7 @@
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="COLORS">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="COLORS">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
@@ -35938,7 +35935,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="COLORS">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250124213000 +0000" stop="20250124223000 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
