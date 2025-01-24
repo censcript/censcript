@@ -6058,7 +6058,7 @@
         <title>Binneas - Na Trads</title>
     </programme>
     <programme start="20250125190000 +0000" stop="20250125192500 +0000" channel="BBC ALBA HD">
-        <title>Togaidh Sinn Fonn/Join In The Music</title>
+        <title>Togaidh Sinn Fonn</title>
     </programme>
     <programme start="20250125192500 +0000" stop="20250125193000 +0000" channel="BBC ALBA HD">
         <title>Dan</title>
@@ -14844,65 +14844,41 @@
     <programme start="20250125051500 +0000" stop="20250125060500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Economy Questions</title>
     </programme>
-    <programme start="20250125060500 +0000" stop="20250125063500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250125060500 +0000" stop="20250125104500 +0000" channel="BBC Parl HD">
+        <title>Westminster Hall</title>
     </programme>
-    <programme start="20250125063500 +0000" stop="20250125070500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250125104500 +0000" stop="20250125110500 +0000" channel="BBC Parl HD">
+        <title>Competition and Market...</title>
     </programme>
-    <programme start="20250125070500 +0000" stop="20250125073500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125073500 +0000" stop="20250125080500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125080500 +0000" stop="20250125083500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125083500 +0000" stop="20250125090500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125090500 +0000" stop="20250125093500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125093500 +0000" stop="20250125100500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125100500 +0000" stop="20250125103500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125103500 +0000" stop="20250125110000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250125110000 +0000" stop="20250125113500 +0000" channel="BBC Parl HD">
+    <programme start="20250125110500 +0000" stop="20250125114000 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250125113500 +0000" stop="20250125122000 +0000" channel="BBC Parl HD">
+    <programme start="20250125114000 +0000" stop="20250125123000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250125122000 +0000" stop="20250125131000 +0000" channel="BBC Parl HD">
+    <programme start="20250125123000 +0000" stop="20250125132500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
     </programme>
-    <programme start="20250125131000 +0000" stop="20250125135500 +0000" channel="BBC Parl HD">
+    <programme start="20250125132500 +0000" stop="20250125152500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250125135500 +0000" stop="20250125144000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250125152500 +0000" stop="20250125160000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - National Care Service Statement</title>
     </programme>
-    <programme start="20250125144000 +0000" stop="20250125152500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250125160000 +0000" stop="20250125165000 +0000" channel="BBC Parl HD">
+        <title>Senedd Cymru - Welsh Parliament...</title>
     </programme>
-    <programme start="20250125152500 +0000" stop="20250125161000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250125165000 +0000" stop="20250125172000 +0000" channel="BBC Parl HD">
+        <title>Senedd Cymru - Welsh Parliament...</title>
     </programme>
-    <programme start="20250125161000 +0000" stop="20250125171500 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru - Welsh Parliament</title>
+    <programme start="20250125172000 +0000" stop="20250125180000 +0000" channel="BBC Parl HD">
+        <title>House of Lords   NHS Winter Update Statement</title>
     </programme>
-    <programme start="20250125171500 +0000" stop="20250125180000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250125180000 +0000" stop="20250125204500 +0000" channel="BBC Parl HD">
+        <title>Environmental Audit Committee...</title>
     </programme>
-    <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250125204500 +0000" stop="20250125214500 +0000" channel="BBC Parl HD">
+        <title>Lords Justice and Social...</title>
     </programme>
     <programme start="20250124223000 +0000" stop="20250124233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -20035,7 +20011,7 @@
         <title>The Furchester Hotel</title>
     </programme>
     <programme start="20250125090000 +0000" stop="20250125092500 +0000" channel="CBeebies HD">
-        <title>Something Special</title>
+        <title>Something Special: We're All Friends</title>
     </programme>
     <programme start="20250125092500 +0000" stop="20250125093000 +0000" channel="CBeebies HD">
         <title>Bluey</title>
@@ -27955,13 +27931,13 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -27976,25 +27952,25 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
-    </programme>
-    <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
-    </programme>
-    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="Takbeer TV">
+        <title>Asan Na Kashmir</title>
+    </programme>
+    <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
     <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28639,7 +28615,7 @@
         <title>Ittehad E Ummat</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125213000 +0000" channel="QTV Religious">
-        <title>Sarmaya e Aslaf</title>
+        <title>Punj Surah</title>
     </programme>
     <programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="QTV Religious">
         <title>Hamd O Naat</title>
@@ -29784,25 +29760,22 @@
     <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="NTV">
         <title>Mid Night Sun</title>
     </programme>
-    <programme start="20250124223000 +0000" stop="20250125000000 +0000" channel="TV One">
-        <title>Live Charity Appeal: Penny Appeal</title>
-    </programme>
-    <programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
-    </programme>
-    <programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="TV One">
-        <title>Asmaul Husna</title>
+    <programme start="20250124224500 +0000" stop="20250125010000 +0000" channel="TV One">
+        <title>Grand Finale of The Voice of Oneness</title>
     </programme>
     <programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
     <programme start="20250125013000 +0000" stop="20250125023000 +0000" channel="TV One">
-        <title>One Q&amp;A</title>
+        <title>Reflections from the ka'ba</title>
     </programme>
     <programme start="20250125023000 +0000" stop="20250125031500 +0000" channel="TV One">
         <title>360 Degree</title>
     </programme>
-    <programme start="20250125031500 +0000" stop="20250125060000 +0000" channel="TV One">
+    <programme start="20250125031500 +0000" stop="20250125051500 +0000" channel="TV One">
+        <title>Dawah Conference</title>
+    </programme>
+    <programme start="20250125051500 +0000" stop="20250125060000 +0000" channel="TV One">
         <title>Live from Kabah</title>
     </programme>
     <programme start="20250125060000 +0000" stop="20250125062600 +0000" channel="TV One">
