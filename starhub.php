@@ -12793,19 +12793,22 @@
         <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
     </programme>
     <programme start="20250124080000 +0000" stop="20250124130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 2</title>
+        <title>Australian Open 2025 Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
-    <programme start="20250124130000 +0000" stop="20250124160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 1</title>
+    <programme start="20250124130000 +0000" stop="20250124144500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025 Men&#039;s Singles SF 1 Djokovic v Zverev</title>
+    </programme>
+    <programme start="20250124144500 +0000" stop="20250124160000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025 Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250124160000 +0000" stop="20250124190000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
+        <title>Australian Open 2025 Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250124190000 +0000" stop="20250124210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
+        <title>Australian Open 2025 Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
     </programme>
     <programme start="20250124210000 +0000" stop="20250125000000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles SF 2 Sinner v Shelton</title>
+        <title>Australian Open 2025 Men&#039;s Singles SF 2 Sinner v Shelton</title>
     </programme>
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 13</title>
@@ -13058,9 +13061,6 @@
     </programme>
     <programme start="20250130033000 +0000" stop="20250130053000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Women&#039;s Doubles Final</title>
-    </programme>
-    <programme start="20250130053000 +0000" stop="20250130070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier Day 3 Match 3</title>
     </programme>
     <programme start="20250123000000 +0000" stop="20250123010000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
