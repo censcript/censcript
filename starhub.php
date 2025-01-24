@@ -9534,8 +9534,11 @@
     <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250124130000 +0000" stop="20250124153000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124130000 +0000" stop="20250124145600 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
+    </programme>
+    <programme start="20250124145600 +0000" stop="20250124153000 +0000" channel="SPOTV2.starhub">
+        <title>FIA Formula E Championship S11 Preview</title>
     </programme>
     <programme start="20250124153000 +0000" stop="20250124170500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
@@ -9552,8 +9555,11 @@
     <programme start="20250124201000 +0000" stop="20250124220000 +0000" channel="SPOTV2.starhub">
         <title>2024 GTOUR MEN&#039;S 8th Tournament</title>
     </programme>
-    <programme start="20250124220000 +0000" stop="20250125003000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250124220000 +0000" stop="20250125000000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
+    </programme>
+    <programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="SPOTV2.starhub">
+        <title>Round 1 Boston</title>
     </programme>
     <programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -9755,12 +9761,6 @@
     </programme>
     <programme start="20250129070500 +0000" stop="20250129072000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
-    </programme>
-    <programme start="20250129072000 +0000" stop="20250129103000 +0000" channel="SPOTV2.starhub">
-        <title>Day 4</title>
-    </programme>
-    <programme start="20250129103000 +0000" stop="20250129110000 +0000" channel="SPOTV2.starhub">
-        <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
     </programme>
     <programme start="20250122230000 +0000" stop="20250123020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
