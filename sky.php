@@ -14079,13 +14079,13 @@
     <programme start="20250124090000 +0000" stop="20250124100000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250124100000 +0000" stop="20250124124500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250124100000 +0000" stop="20250124130000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250124124500 +0000" stop="20250124131500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250124130000 +0000" stop="20250124131000 +0000" channel="Eurosport 2 HD">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250124131500 +0000" stop="20250124145000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250124131000 +0000" stop="20250124145000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250124145000 +0000" stop="20250124160000 +0000" channel="Eurosport 2 HD">
@@ -34905,13 +34905,13 @@
     <programme start="20250124090000 +0000" stop="20250124100000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250124100000 +0000" stop="20250124124500 +0000" channel="Eurosport 2">
+    <programme start="20250124100000 +0000" stop="20250124130000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250124124500 +0000" stop="20250124131500 +0000" channel="Eurosport 2">
+    <programme start="20250124130000 +0000" stop="20250124131000 +0000" channel="Eurosport 2">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250124131500 +0000" stop="20250124145000 +0000" channel="Eurosport 2">
+    <programme start="20250124131000 +0000" stop="20250124145000 +0000" channel="Eurosport 2">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250124145000 +0000" stop="20250124160000 +0000" channel="Eurosport 2">

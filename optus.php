@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250216115500 +0000" stop="20250216151000 +0000" channel="Optus Sport 201.optus">
         <title>Women&#039;s Super League - Manchester United v Crystal Palace</title>
+    </programme>
+    <programme start="20250216122000 +0000" stop="20250216144000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Arsenal v Tottenham Hotspur</title>
     </programme>
 </tv>
