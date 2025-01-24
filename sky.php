@@ -14688,8 +14688,8 @@
     <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Bloomberg HD">
         <title>Posthuman</title>
     </programme>
-    <programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="BBC NEWS HD">
-        <title>Newsnight</title>
+    <programme start="20250124222500 +0000" stop="20250124230000 +0000" channel="BBC NEWS HD">
+        <title>BBC News at Ten</title>
     </programme>
     <programme start="20250124230000 +0000" stop="20250124233000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
