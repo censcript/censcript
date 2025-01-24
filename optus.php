@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250124180000 +0000" stop="20250124190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250125115000 +0000" stop="20250125141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Aston Villa v Manchester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250216130000 +0000" stop="20250216162000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 204.optus">
+        <title>Women&#039;s Super League - Chelsea v Everton</title>
     </programme>
 </tv>
