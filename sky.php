@@ -13590,10 +13590,10 @@
     <programme start="20250125063000 +0000" stop="20250125080000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125080000 +0000" stop="20250125084500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125083000 +0000" stop="20250125110000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125084500 +0000" stop="20250125110000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="Eurosport 1 HD">
@@ -13608,8 +13608,11 @@
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125172000 +0000" stop="20250125180000 +0000" channel="Eurosport 1 HD">
-        <title>Biathlon World Cup</title>
+    <programme start="20250125172000 +0000" stop="20250125173000 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="Eurosport 1 HD">
+        <title>Discovery Golf</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
@@ -13653,10 +13656,10 @@
     <programme start="20250125062500 +0000" stop="20250125072000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125072000 +0000" stop="20250125090000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125072000 +0000" stop="20250125090500 +0000" channel="Eurosport 2 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125090000 +0000" stop="20250125101500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125090500 +0000" stop="20250125101500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250125101500 +0000" stop="20250125123000 +0000" channel="Eurosport 2 HD">
@@ -19690,112 +19693,154 @@
         <title>PAW Patrol</title>
     </programme>
     <programme start="20250125060000 +0000" stop="20250125063000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>BARBAPAPA - One Big Happy Family!</title>
     </programme>
     <programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125070000 +0000" stop="20250125073000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125070000 +0000" stop="20250125071500 +0000" channel="Nick Jr. HD">
+        <title>The Tiny Chef Show</title>
     </programme>
-    <programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125071500 +0000" stop="20250125073000 +0000" channel="Nick Jr. HD">
+        <title>Tiny Chef</title>
     </programme>
-    <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125073000 +0000" stop="20250125074500 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125074500 +0000" stop="20250125080000 +0000" channel="Nick Jr. HD">
+        <title>DORA</title>
+    </programme>
+    <programme start="20250125080000 +0000" stop="20250125081500 +0000" channel="Nick Jr. HD">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125081500 +0000" stop="20250125083000 +0000" channel="Nick Jr. HD">
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Rubble &amp; Crew</title>
     </programme>
     <programme start="20250125090000 +0000" stop="20250125093000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
-    <programme start="20250125093000 +0000" stop="20250125100000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125093000 +0000" stop="20250125094500 +0000" channel="Nick Jr. HD">
+        <title>Deer Squad</title>
     </programme>
-    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125094500 +0000" stop="20250125100000 +0000" channel="Nick Jr. HD">
+        <title>Deer Squad</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125101500 +0000" channel="Nick Jr. HD">
+        <title>The Smurfs</title>
+    </programme>
+    <programme start="20250125101500 +0000" stop="20250125103000 +0000" channel="Nick Jr. HD">
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
     <programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Peppa Pig</title>
     </programme>
     <programme start="20250125123000 +0000" stop="20250125130000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125130000 +0000" stop="20250125131500 +0000" channel="Nick Jr. HD">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125131500 +0000" stop="20250125133000 +0000" channel="Nick Jr. HD">
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125143000 +0000" stop="20250125144500 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
-    <programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125144500 +0000" stop="20250125150000 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125151500 +0000" stop="20250125153000 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
-    <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125160000 +0000" stop="20250125161500 +0000" channel="Nick Jr. HD">
+        <title>The Smurfs</title>
+    </programme>
+    <programme start="20250125161500 +0000" stop="20250125163000 +0000" channel="Nick Jr. HD">
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Rubble &amp; Crew</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125173000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125173000 +0000" stop="20250125174500 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125174500 +0000" stop="20250125180000 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125183000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
     <programme start="20250125183000 +0000" stop="20250125190000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
-    <programme start="20250125190000 +0000" stop="20250125193000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125190000 +0000" stop="20250125191500 +0000" channel="Nick Jr. HD">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125191500 +0000" stop="20250125193000 +0000" channel="Nick Jr. HD">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250125193000 +0000" stop="20250125194500 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125194500 +0000" stop="20250125200000 +0000" channel="Nick Jr. HD">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
-    <programme start="20250125203000 +0000" stop="20250125210000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125203000 +0000" stop="20250125204500 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125204500 +0000" stop="20250125210000 +0000" channel="Nick Jr. HD">
+        <title>The Tiny Chef Show</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125213000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Peppa Pig</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+    <programme start="20250125223000 +0000" stop="20250125224500 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125224500 +0000" stop="20250125230000 +0000" channel="Nick Jr. HD">
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125230000 +0000" stop="20250125233000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Nick Jr. HD">
-        <title>This is Nick Jr HD</title>
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250124185800 +0000" stop="20250125005800 +0000" channel="CBBC HD">
         <title>.programmes start at 7.00am</title>
@@ -22237,112 +22282,175 @@
         <title>Paw Patrol</title>
     </programme>
     <programme start="20250125060000 +0000" stop="20250125063000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125063000 +0000" stop="20250125064500 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125070000 +0000" stop="20250125073000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125064500 +0000" stop="20250125070000 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125070000 +0000" stop="20250125071500 +0000" channel="Nick Jr+1">
+        <title>BARBAPAPA - One Big Happy Family!</title>
+    </programme>
+    <programme start="20250125071500 +0000" stop="20250125073000 +0000" channel="Nick Jr+1">
+        <title>BARBAPAPA - One Big Happy Family!</title>
+    </programme>
+    <programme start="20250125073000 +0000" stop="20250125074500 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250125074500 +0000" stop="20250125080000 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
     <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>The Tiny Chef Show</title>
     </programme>
     <programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125090000 +0000" stop="20250125093000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125090000 +0000" stop="20250125091500 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125091500 +0000" stop="20250125093000 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125093000 +0000" stop="20250125100000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Rubble &amp; Crew</title>
     </programme>
     <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Deer Squad</title>
     </programme>
-    <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125110000 +0000" stop="20250125111500 +0000" channel="Nick Jr+1">
+        <title>The Smurfs</title>
     </programme>
-    <programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125111500 +0000" stop="20250125113000 +0000" channel="Nick Jr+1">
+        <title>The Smurfs</title>
+    </programme>
+    <programme start="20250125113000 +0000" stop="20250125114500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125114500 +0000" stop="20250125120000 +0000" channel="Nick Jr+1">
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
-    <programme start="20250125123000 +0000" stop="20250125130000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125123000 +0000" stop="20250125124500 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125124500 +0000" stop="20250125130000 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125133000 +0000" stop="20250125134500 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250125134500 +0000" stop="20250125140000 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125143000 +0000" stop="20250125144500 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125144500 +0000" stop="20250125150000 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125151500 +0000" stop="20250125153000 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125153000 +0000" stop="20250125154500 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125154500 +0000" stop="20250125160000 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
     <programme start="20250125170000 +0000" stop="20250125173000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>The Smurfs</title>
     </programme>
-    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125173000 +0000" stop="20250125174500 +0000" channel="Nick Jr+1">
+        <title>Rubble &amp; Crew</title>
     </programme>
-    <programme start="20250125180000 +0000" stop="20250125183000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125174500 +0000" stop="20250125180000 +0000" channel="Nick Jr+1">
+        <title>Rubble &amp; Crew</title>
     </programme>
-    <programme start="20250125183000 +0000" stop="20250125190000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125180000 +0000" stop="20250125181500 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125181500 +0000" stop="20250125183000 +0000" channel="Nick Jr+1">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125183000 +0000" stop="20250125184500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125184500 +0000" stop="20250125190000 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125190000 +0000" stop="20250125193000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
     <programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
-    <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125200000 +0000" stop="20250125201500 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125203000 +0000" stop="20250125210000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125201500 +0000" stop="20250125203000 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125210000 +0000" stop="20250125213000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125203000 +0000" stop="20250125204500 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
-    <programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125204500 +0000" stop="20250125210000 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125210000 +0000" stop="20250125211500 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125211500 +0000" stop="20250125213000 +0000" channel="Nick Jr+1">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125213000 +0000" stop="20250125214500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125214500 +0000" stop="20250125220000 +0000" channel="Nick Jr+1">
+        <title>The Tiny Chef Show</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125223000 +0000" stop="20250125224500 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125230000 +0000" stop="20250125233000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125224500 +0000" stop="20250125230000 +0000" channel="Nick Jr+1">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Nick Jr+1">
-        <title>This is Nick Jr+1</title>
+    <programme start="20250125230000 +0000" stop="20250125231500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125231500 +0000" stop="20250125233000 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125233000 +0000" stop="20250125234500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125234500 +0000" stop="20250126004500 +0000" channel="Nick Jr+1">
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="BabyTV">
         <title>Dreamy Nights</title>
@@ -23470,112 +23578,172 @@
         <title>PAW Patrol</title>
     </programme>
     <programme start="20250125060000 +0000" stop="20250125063000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>BARBAPAPA - One Big Happy Family!</title>
     </programme>
     <programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125070000 +0000" stop="20250125073000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125070000 +0000" stop="20250125071500 +0000" channel="Nick Jr.">
+        <title>The Tiny Chef Show</title>
     </programme>
-    <programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125071500 +0000" stop="20250125073000 +0000" channel="Nick Jr.">
+        <title>Tiny Chef</title>
     </programme>
-    <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125073000 +0000" stop="20250125074500 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125074500 +0000" stop="20250125080000 +0000" channel="Nick Jr.">
+        <title>DORA</title>
+    </programme>
+    <programme start="20250125080000 +0000" stop="20250125081500 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125081500 +0000" stop="20250125083000 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Rubble &amp; Crew</title>
     </programme>
     <programme start="20250125090000 +0000" stop="20250125093000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
-    <programme start="20250125093000 +0000" stop="20250125100000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125093000 +0000" stop="20250125094500 +0000" channel="Nick Jr.">
+        <title>Deer Squad</title>
     </programme>
-    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125094500 +0000" stop="20250125100000 +0000" channel="Nick Jr.">
+        <title>Deer Squad</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125101500 +0000" channel="Nick Jr.">
+        <title>The Smurfs</title>
+    </programme>
+    <programme start="20250125101500 +0000" stop="20250125103000 +0000" channel="Nick Jr.">
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
-    <programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125113000 +0000" stop="20250125114500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125114500 +0000" stop="20250125120000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125123000 +0000" stop="20250125130000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125123000 +0000" stop="20250125124500 +0000" channel="Nick Jr.">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250125124500 +0000" stop="20250125130000 +0000" channel="Nick Jr.">
+        <title>Peppa Pig</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125133000 +0000" stop="20250125134500 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125134500 +0000" stop="20250125140000 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125143000 +0000" stop="20250125144500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
-    <programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125144500 +0000" stop="20250125150000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125151500 +0000" stop="20250125153000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>The Smurfs</title>
     </programme>
-    <programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125163000 +0000" stop="20250125164500 +0000" channel="Nick Jr.">
+        <title>Rubble &amp; Crew</title>
     </programme>
-    <programme start="20250125170000 +0000" stop="20250125173000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125164500 +0000" stop="20250125170000 +0000" channel="Nick Jr.">
+        <title>Rubble &amp; Crew</title>
     </programme>
-    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125170000 +0000" stop="20250125171500 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125171500 +0000" stop="20250125173000 +0000" channel="Nick Jr.">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250125173000 +0000" stop="20250125174500 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125174500 +0000" stop="20250125180000 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125183000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Blaze And The Monster Machines</title>
     </programme>
     <programme start="20250125183000 +0000" stop="20250125190000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Gabby's Dollhouse</title>
     </programme>
     <programme start="20250125190000 +0000" stop="20250125193000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125193000 +0000" stop="20250125194500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
-    <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125194500 +0000" stop="20250125200000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125200000 +0000" stop="20250125201500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125201500 +0000" stop="20250125203000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250125203000 +0000" stop="20250125210000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125213000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125213000 +0000" stop="20250125214500 +0000" channel="Nick Jr.">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125214500 +0000" stop="20250125220000 +0000" channel="Nick Jr.">
+        <title>Peppa Pig</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125220000 +0000" stop="20250125221500 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125230000 +0000" stop="20250125233000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125221500 +0000" stop="20250125223000 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Nick Jr.">
-        <title>This is Nick Jr</title>
+    <programme start="20250125223000 +0000" stop="20250125224500 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125224500 +0000" stop="20250125230000 +0000" channel="Nick Jr.">
+        <title>The Adventures of Paddington</title>
+    </programme>
+    <programme start="20250125230000 +0000" stop="20250125231500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125231500 +0000" stop="20250125233000 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125233000 +0000" stop="20250125234500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
+    </programme>
+    <programme start="20250125234500 +0000" stop="20250126004500 +0000" channel="Nick Jr.">
+        <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250124220000 +0000" stop="20250124230000 +0000" channel="QVC HD">
         <title>Tili Beauty: Try it, Love it</title>
@@ -33576,10 +33744,10 @@
     <programme start="20250125063000 +0000" stop="20250125080000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="Eurosport 1">
+    <programme start="20250125080000 +0000" stop="20250125084500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125083000 +0000" stop="20250125110000 +0000" channel="Eurosport 1">
+    <programme start="20250125084500 +0000" stop="20250125110000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="Eurosport 1">
@@ -33594,8 +33762,11 @@
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125172000 +0000" stop="20250125180000 +0000" channel="Eurosport 1">
-        <title>Biathlon World Cup</title>
+    <programme start="20250125172000 +0000" stop="20250125173000 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="Eurosport 1">
+        <title>Discovery Golf</title>
     </programme>
     <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
@@ -33639,10 +33810,10 @@
     <programme start="20250125062500 +0000" stop="20250125072000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125072000 +0000" stop="20250125090000 +0000" channel="Eurosport 2">
+    <programme start="20250125072000 +0000" stop="20250125090500 +0000" channel="Eurosport 2">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250125090000 +0000" stop="20250125101500 +0000" channel="Eurosport 2">
+    <programme start="20250125090500 +0000" stop="20250125101500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250125101500 +0000" stop="20250125123000 +0000" channel="Eurosport 2">
