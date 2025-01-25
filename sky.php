@@ -13599,10 +13599,10 @@
     <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113500 +0000" stop="20250125140000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125113500 +0000" stop="20250125145000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125140000 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125145000 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1 HD">
@@ -33864,10 +33864,10 @@
     <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113500 +0000" stop="20250125140000 +0000" channel="Eurosport 1">
+    <programme start="20250125113500 +0000" stop="20250125145000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125140000 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
+    <programme start="20250125145000 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1">
