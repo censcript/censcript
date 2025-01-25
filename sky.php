@@ -14589,8 +14589,8 @@
     <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="BBC NEWS HD">
-        <title>Political Thinking with Nick Robinson</title>
+    <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250125230000 +0000" stop="20250125233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
