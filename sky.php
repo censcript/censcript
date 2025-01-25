@@ -1713,22 +1713,22 @@
     <programme start="20250126220500 +0000" stop="20250126230500 +0000" channel="ITV3 HD">
         <title>Vera</title>
     </programme>
-    <programme start="20250125222000 +0000" stop="20250125233000 +0000" channel="ITV4 HD">
+    <programme start="20250125222000 +0000" stop="20250125232000 +0000" channel="ITV4 HD">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250125233000 +0000" stop="20250125233500 +0000" channel="ITV4 HD">
+    <programme start="20250125232000 +0000" stop="20250125232500 +0000" channel="ITV4 HD">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250125233500 +0000" stop="20250126000500 +0000" channel="ITV4 HD">
+    <programme start="20250125232500 +0000" stop="20250126002500 +0000" channel="ITV4 HD">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250126000500 +0000" stop="20250126010000 +0000" channel="ITV4 HD">
+    <programme start="20250126002500 +0000" stop="20250126012500 +0000" channel="ITV4 HD">
         <title>River Monsters</title>
     </programme>
-    <programme start="20250126010000 +0000" stop="20250126023000 +0000" channel="ITV4 HD">
+    <programme start="20250126012500 +0000" stop="20250126025000 +0000" channel="ITV4 HD">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250126023000 +0000" stop="20250126030000 +0000" channel="ITV4 HD">
+    <programme start="20250126025000 +0000" stop="20250126030000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250126030000 +0000" stop="20250126033000 +0000" channel="ITV4 HD">
@@ -8058,22 +8058,22 @@
     <programme start="20250125190000 +0000" stop="20250125232000 +0000" channel="ITV4+1">
         <title>World Series of Darts: Dutch Masters</title>
     </programme>
-    <programme start="20250125232000 +0000" stop="20250126003000 +0000" channel="ITV4+1">
+    <programme start="20250125232000 +0000" stop="20250126002000 +0000" channel="ITV4+1">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250126003000 +0000" stop="20250126003500 +0000" channel="ITV4+1">
+    <programme start="20250126002000 +0000" stop="20250126002500 +0000" channel="ITV4+1">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250126003500 +0000" stop="20250126010500 +0000" channel="ITV4+1">
+    <programme start="20250126002500 +0000" stop="20250126012500 +0000" channel="ITV4+1">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250126010500 +0000" stop="20250126020000 +0000" channel="ITV4+1">
+    <programme start="20250126012500 +0000" stop="20250126022500 +0000" channel="ITV4+1">
         <title>River Monsters</title>
     </programme>
-    <programme start="20250126020000 +0000" stop="20250126033000 +0000" channel="ITV4+1">
+    <programme start="20250126022500 +0000" stop="20250126035000 +0000" channel="ITV4+1">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250126033000 +0000" stop="20250126040000 +0000" channel="ITV4+1">
+    <programme start="20250126035000 +0000" stop="20250126040000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250126040000 +0000" stop="20250126043000 +0000" channel="ITV4+1">
