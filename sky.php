@@ -13602,10 +13602,10 @@
     <programme start="20250125113500 +0000" stop="20250125144500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125144500 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125144500 +0000" stop="20250125152000 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125152000 +0000" stop="20250125172000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
     <programme start="20250125172000 +0000" stop="20250125173000 +0000" channel="Eurosport 1 HD">
@@ -13671,10 +13671,10 @@
     <programme start="20250125124500 +0000" stop="20250125140000 +0000" channel="Eurosport 2 HD">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125140000 +0000" stop="20250125153500 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125153500 +0000" stop="20250125160000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross: World Cup</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125170000 +0000" channel="Eurosport 2 HD">
@@ -29190,14 +29190,14 @@
     <programme start="20250125143000 +0000" stop="20250125170000 +0000" channel="Sangat">
         <title>Live: Shukrana Samagam</title>
     </programme>
-    <programme start="20250125170000 +0000" stop="20250125180000 +0000" channel="Sangat">
-        <title>Rehraas Sahib Takht Sri Patna Sahib</title>
+    <programme start="20250125170000 +0000" stop="20250125183000 +0000" channel="Sangat">
+        <title>Live: Shukrana Samagam</title>
     </programme>
-    <programme start="20250125180000 +0000" stop="20250125190000 +0000" channel="Sangat">
-        <title>Shukrana Samagam</title>
-    </programme>
-    <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="Sangat">
+    <programme start="20250125183000 +0000" stop="20250125193000 +0000" channel="Sangat">
         <title>GNNSJ Kar Sewa Update</title>
+    </programme>
+    <programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="Sangat">
+        <title>Jyoti Saroop</title>
     </programme>
     <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="Sangat">
         <title>Sade Rukh</title>
@@ -29208,10 +29208,10 @@
     <programme start="20250125213000 +0000" stop="20250125223000 +0000" channel="Sangat">
         <title>Naam Simran</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="Sangat">
+    <programme start="20250125223000 +0000" stop="20250125233000 +0000" channel="Sangat">
         <title>Ek Noor</title>
     </programme>
-    <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="Sangat">
+    <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Sangat">
         <title>Kirtan ras</title>
     </programme>
     <programme start="20250125070000 +0000" stop="20250125100000 +0000" channel="Akaal Channel">
@@ -33867,10 +33867,10 @@
     <programme start="20250125113500 +0000" stop="20250125144500 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125144500 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
+    <programme start="20250125144500 +0000" stop="20250125152000 +0000" channel="Eurosport 1">
         <title>Live Biathlon World Cup</title>
     </programme>
-    <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1">
+    <programme start="20250125152000 +0000" stop="20250125172000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
     <programme start="20250125172000 +0000" stop="20250125173000 +0000" channel="Eurosport 1">
@@ -33936,10 +33936,10 @@
     <programme start="20250125124500 +0000" stop="20250125140000 +0000" channel="Eurosport 2">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Eurosport 2">
+    <programme start="20250125140000 +0000" stop="20250125153500 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Eurosport 2">
+    <programme start="20250125153500 +0000" stop="20250125160000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross: World Cup</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125170000 +0000" channel="Eurosport 2">
