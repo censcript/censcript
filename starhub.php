@@ -28242,10 +28242,10 @@
     <programme start="20250125040000 +0000" stop="20250125100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250125100000 +0000" stop="20250125160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250125100000 +0000" stop="20250125160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250125160300 +0000" stop="20250125220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250125160000 +0000" stop="20250125220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250126040000 +0000" channel="Preview Channel.starhub">
