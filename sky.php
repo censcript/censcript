@@ -13596,10 +13596,10 @@
     <programme start="20250125084500 +0000" stop="20250125111000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125111000 +0000" stop="20250125113000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113000 +0000" stop="20250125140000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125113500 +0000" stop="20250125140000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
@@ -13620,8 +13620,11 @@
     <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250125200000 +0000" stop="20250125220000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
+    </programme>
+    <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="Eurosport 1 HD">
+        <title>Men's Wheelchair Singles Final 2025</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
@@ -29107,7 +29110,7 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="Sikh Channel">
-        <title>Teleshopping - Yatra</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="Sikh Channel">
         <title>Teleshopping - Yatra</title>
@@ -33858,10 +33861,10 @@
     <programme start="20250125084500 +0000" stop="20250125111000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125111000 +0000" stop="20250125113000 +0000" channel="Eurosport 1">
+    <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113000 +0000" stop="20250125140000 +0000" channel="Eurosport 1">
+    <programme start="20250125113500 +0000" stop="20250125140000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
@@ -33882,8 +33885,11 @@
     <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250125200000 +0000" stop="20250125220000 +0000" channel="Eurosport 1">
+    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
+    </programme>
+    <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="Eurosport 1">
+        <title>Men's Wheelchair Singles Final 2025</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
@@ -33924,10 +33930,10 @@
     <programme start="20250125090500 +0000" stop="20250125101500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125101500 +0000" stop="20250125123000 +0000" channel="Eurosport 2">
+    <programme start="20250125101500 +0000" stop="20250125124000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125123000 +0000" stop="20250125140000 +0000" channel="Eurosport 2">
+    <programme start="20250125124000 +0000" stop="20250125140000 +0000" channel="Eurosport 2">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Eurosport 2">
