@@ -78,8 +78,17 @@
     <programme start="20250125183000 +0000" stop="20250125200000 +0000" channel="Trans TV.cubmu">
         <title>Sinema Dinihari - The Sentinel</title>
     </programme>
+    <programme start="20250125183000 +0000" stop="20250125200000 +0000" channel="Trans TV.cubmu">
+        <title>Sinema Dinihari - The Sentinel</title>
+    </programme>
     <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Trans TV.cubmu">
         <title>Bioskop Indonesia Premier - Donna Si Satpam Neraka</title>
+    </programme>
+    <programme start="20250125200000 +0000" stop="20250125210000 +0000" channel="Trans TV.cubmu">
+        <title>Bioskop Indonesia Premier - Donna Si Satpam Neraka</title>
+    </programme>
+    <programme start="20250125210000 +0000" stop="20250125212000 +0000" channel="Trans TV.cubmu">
+        <title>Perjalanan 3 Wanita</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125212000 +0000" channel="Trans TV.cubmu">
         <title>Perjalanan 3 Wanita</title>
@@ -87,8 +96,17 @@
     <programme start="20250125212000 +0000" stop="20250125214000 +0000" channel="Trans TV.cubmu">
         <title>My Trip My Adventure</title>
     </programme>
+    <programme start="20250125212000 +0000" stop="20250125214000 +0000" channel="Trans TV.cubmu">
+        <title>My Trip My Adventure</title>
+    </programme>
     <programme start="20250125214000 +0000" stop="20250125220000 +0000" channel="Trans TV.cubmu">
         <title>Rindu</title>
+    </programme>
+    <programme start="20250125214000 +0000" stop="20250125220000 +0000" channel="Trans TV.cubmu">
+        <title>Rindu</title>
+    </programme>
+    <programme start="20250125220000 +0000" stop="20250125233000 +0000" channel="Trans TV.cubmu">
+        <title>Islam Itu Indah</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125233000 +0000" channel="Trans TV.cubmu">
         <title>Islam Itu Indah</title>
@@ -96,8 +114,17 @@
     <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Trans TV.cubmu">
         <title>Insert Pagi</title>
     </programme>
+    <programme start="20250125233000 +0000" stop="20250126003000 +0000" channel="Trans TV.cubmu">
+        <title>Insert Pagi</title>
+    </programme>
     <programme start="20250126003000 +0000" stop="20250126013000 +0000" channel="Trans TV.cubmu">
         <title>Good Morning Weekend</title>
+    </programme>
+    <programme start="20250126003000 +0000" stop="20250126013000 +0000" channel="Trans TV.cubmu">
+        <title>Good Morning Weekend</title>
+    </programme>
+    <programme start="20250126013000 +0000" stop="20250126023000 +0000" channel="Trans TV.cubmu">
+        <title>Kajian Hati</title>
     </programme>
     <programme start="20250126013000 +0000" stop="20250126023000 +0000" channel="Trans TV.cubmu">
         <title>Kajian Hati</title>
@@ -105,8 +132,17 @@
     <programme start="20250126023000 +0000" stop="20250126033000 +0000" channel="Trans TV.cubmu">
         <title>Tanah Air Beta</title>
     </programme>
+    <programme start="20250126023000 +0000" stop="20250126033000 +0000" channel="Trans TV.cubmu">
+        <title>Tanah Air Beta</title>
+    </programme>
     <programme start="20250126033000 +0000" stop="20250126040000 +0000" channel="Trans TV.cubmu">
         <title>Dokter Traveler</title>
+    </programme>
+    <programme start="20250126033000 +0000" stop="20250126040000 +0000" channel="Trans TV.cubmu">
+        <title>Dokter Traveler</title>
+    </programme>
+    <programme start="20250126040000 +0000" stop="20250126053000 +0000" channel="Trans TV.cubmu">
+        <title>Insert</title>
     </programme>
     <programme start="20250126040000 +0000" stop="20250126053000 +0000" channel="Trans TV.cubmu">
         <title>Insert</title>
@@ -114,8 +150,17 @@
     <programme start="20250126053000 +0000" stop="20250126060000 +0000" channel="Trans TV.cubmu">
         <title>I-Pedia</title>
     </programme>
+    <programme start="20250126053000 +0000" stop="20250126060000 +0000" channel="Trans TV.cubmu">
+        <title>I-Pedia</title>
+    </programme>
     <programme start="20250126060000 +0000" stop="20250126063000 +0000" channel="Trans TV.cubmu">
         <title>Kuali Barbar</title>
+    </programme>
+    <programme start="20250126060000 +0000" stop="20250126063000 +0000" channel="Trans TV.cubmu">
+        <title>Kuali Barbar</title>
+    </programme>
+    <programme start="20250126063000 +0000" stop="20250126070000 +0000" channel="Trans TV.cubmu">
+        <title>Undercover</title>
     </programme>
     <programme start="20250126063000 +0000" stop="20250126070000 +0000" channel="Trans TV.cubmu">
         <title>Undercover</title>
@@ -123,8 +168,17 @@
     <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="Trans TV.cubmu">
         <title>Rumpi - No Secret</title>
     </programme>
+    <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="Trans TV.cubmu">
+        <title>Rumpi - No Secret</title>
+    </programme>
     <programme start="20250126080000 +0000" stop="20250126090000 +0000" channel="Trans TV.cubmu">
         <title>Insert Investigasi</title>
+    </programme>
+    <programme start="20250126080000 +0000" stop="20250126090000 +0000" channel="Trans TV.cubmu">
+        <title>Insert Investigasi</title>
+    </programme>
+    <programme start="20250126090000 +0000" stop="20250126100000 +0000" channel="Trans TV.cubmu">
+        <title>Sore Sore Ambyar</title>
     </programme>
     <programme start="20250126090000 +0000" stop="20250126100000 +0000" channel="Trans TV.cubmu">
         <title>Sore Sore Ambyar</title>
@@ -132,8 +186,17 @@
     <programme start="20250126100000 +0000" stop="20250126103000 +0000" channel="Trans TV.cubmu">
         <title>Samawa</title>
     </programme>
+    <programme start="20250126100000 +0000" stop="20250126103000 +0000" channel="Trans TV.cubmu">
+        <title>Samawa</title>
+    </programme>
     <programme start="20250126103000 +0000" stop="20250126114500 +0000" channel="Trans TV.cubmu">
         <title>Bikin Laper</title>
+    </programme>
+    <programme start="20250126103000 +0000" stop="20250126114500 +0000" channel="Trans TV.cubmu">
+        <title>Bikin Laper</title>
+    </programme>
+    <programme start="20250126114500 +0000" stop="20250126130000 +0000" channel="Trans TV.cubmu">
+        <title>Insert Story</title>
     </programme>
     <programme start="20250126114500 +0000" stop="20250126130000 +0000" channel="Trans TV.cubmu">
         <title>Insert Story</title>
@@ -141,8 +204,17 @@
     <programme start="20250126130000 +0000" stop="20250126143000 +0000" channel="Trans TV.cubmu">
         <title>Bikin Laper Spesial Super Favorit</title>
     </programme>
+    <programme start="20250126130000 +0000" stop="20250126143000 +0000" channel="Trans TV.cubmu">
+        <title>Bikin Laper Spesial Super Favorit</title>
+    </programme>
     <programme start="20250126143000 +0000" stop="20250126163000 +0000" channel="Trans TV.cubmu">
         <title>Bioskop TransTV - The Huntsman: Winter&#039;s War</title>
+    </programme>
+    <programme start="20250126143000 +0000" stop="20250126163000 +0000" channel="Trans TV.cubmu">
+        <title>Bioskop TransTV - The Huntsman: Winter&#039;s War</title>
+    </programme>
+    <programme start="20250126163000 +0000" stop="20250125183000 +0000" channel="Trans TV.cubmu">
+        <title>Bioskop TransTV - End Of A Gun</title>
     </programme>
     <programme start="20250126163000 +0000" stop="20250125183000 +0000" channel="Trans TV.cubmu">
         <title>Bioskop TransTV - End Of A Gun</title>
@@ -1521,9 +1593,6 @@
     <programme start="20250126163000 +0000" stop="20250125183000 +0000" channel="SCTV.cubmu">
         <title>Liga Inggris</title>
     </programme>
-    <programme start="20250125170000 +0000" stop="20250125170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250125170500 +0000" stop="20250125173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -2258,9 +2327,6 @@
     </programme>
     <programme start="20250126163000 +0000" stop="20250125170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250125170000 +0000" stop="20250125170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250125170500 +0000" stop="20250125170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>

@@ -29457,11 +29457,14 @@
     <programme start="20250126050000 +0000" stop="20250126060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
-    <programme start="20250126060000 +0000" stop="20250126062500 +0000" channel="CHSTV">
+    <programme start="20250126060000 +0000" stop="20250126060700 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
-    <programme start="20250126062500 +0000" stop="20250126063000 +0000" channel="CHSTV">
+    <programme start="20250126060700 +0000" stop="20250126061300 +0000" channel="CHSTV">
         <title>Azan-E-Fajr</title>
+    </programme>
+    <programme start="20250126061300 +0000" stop="20250126063000 +0000" channel="CHSTV">
+        <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250126063000 +0000" stop="20250126070000 +0000" channel="CHSTV">
         <title>Islamic Lifestyle</title>
@@ -29482,18 +29485,18 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250126093000 +0000" stop="20250126110000 +0000" channel="CHSTV">
-        <title>Chokher Joler Golpo</title>
+        <title>Agdum Bagdum</title>
     </programme>
     <programme start="20250126110000 +0000" stop="20250126120000 +0000" channel="CHSTV">
-        <title>The Saturday Show</title>
+        <title>Mohabbat</title>
     </programme>
-    <programme start="20250126120000 +0000" stop="20250126121100 +0000" channel="CHSTV">
+    <programme start="20250126120000 +0000" stop="20250126121800 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
-    <programme start="20250126121100 +0000" stop="20250126121600 +0000" channel="CHSTV">
+    <programme start="20250126121800 +0000" stop="20250126122400 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250126121600 +0000" stop="20250126130000 +0000" channel="CHSTV">
+    <programme start="20250126122400 +0000" stop="20250126130000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
     <programme start="20250126130000 +0000" stop="20250126133000 +0000" channel="CHSTV">
@@ -29502,41 +29505,38 @@
     <programme start="20250126133000 +0000" stop="20250126140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
     </programme>
-    <programme start="20250126140000 +0000" stop="20250126142100 +0000" channel="CHSTV">
+    <programme start="20250126140000 +0000" stop="20250126143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250126142100 +0000" stop="20250126142500 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250126142500 +0000" stop="20250126143500 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250126143500 +0000" stop="20250126150000 +0000" channel="CHSTV">
+    <programme start="20250126143000 +0000" stop="20250126145200 +0000" channel="CHSTV">
         <title>Online Offline</title>
+    </programme>
+    <programme start="20250126145200 +0000" stop="20250126150000 +0000" channel="CHSTV">
+        <title>Azan-E-Asar</title>
     </programme>
     <programme start="20250126150000 +0000" stop="20250126160000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250126160000 +0000" stop="20250126161000 +0000" channel="CHSTV">
+    <programme start="20250126160000 +0000" stop="20250126163000 +0000" channel="CHSTV">
         <title>Community News</title>
     </programme>
-    <programme start="20250126161000 +0000" stop="20250126161600 +0000" channel="CHSTV">
+    <programme start="20250126163000 +0000" stop="20250126164300 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
+    </programme>
+    <programme start="20250126164300 +0000" stop="20250126164800 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250126161600 +0000" stop="20250126163000 +0000" channel="CHSTV">
-        <title>Community News</title>
+    <programme start="20250126164800 +0000" stop="20250126170000 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250126163000 +0000" stop="20250126170000 +0000" channel="CHSTV">
-        <title>Community News</title>
+    <programme start="20250126170000 +0000" stop="20250126180000 +0000" channel="CHSTV">
+        <title>Tafsir</title>
     </programme>
-    <programme start="20250126170000 +0000" stop="20250126175000 +0000" channel="CHSTV">
-        <title>Seerat</title>
-    </programme>
-    <programme start="20250126175000 +0000" stop="20250126180000 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250126180000 +0000" stop="20250126183000 +0000" channel="CHSTV">
+    <programme start="20250126180000 +0000" stop="20250126182000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
+    </programme>
+    <programme start="20250126182000 +0000" stop="20250126183000 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250126183000 +0000" stop="20250126190000 +0000" channel="CHSTV">
         <title>Independent News</title>
@@ -29548,7 +29548,7 @@
         <title>Online Offline</title>
     </programme>
     <programme start="20250126200000 +0000" stop="20250126213000 +0000" channel="CHSTV">
-        <title>Home Work</title>
+        <title>Bisonno Sondhar Diary</title>
     </programme>
     <programme start="20250126213000 +0000" stop="20250126220000 +0000" channel="CHSTV">
         <title>Talash</title>
@@ -29557,7 +29557,7 @@
         <title>News at Ten</title>
     </programme>
     <programme start="20250126223000 +0000" stop="20250126233000 +0000" channel="CHSTV">
-        <title>Unpajure</title>
+        <title>Dui Diner Duniya</title>
     </programme>
     <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>

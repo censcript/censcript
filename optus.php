@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250125140000 +0000" stop="20250125172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
     <programme start="20250125172000 +0000" stop="20250125200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Chelsea</title>
     </programme>
