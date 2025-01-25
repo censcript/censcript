@@ -5176,13 +5176,13 @@
         <title>Nerariyan C.B.I.</title>
     </programme>
     <programme start="20250126190000 +0000" stop="20250126220000 +0000" channel="Asianet Movies.starhub">
-        <title>Pullippulikalum Aattinkuttiyum</title>
+        <title>Pullipulikalum Aattinkuttiyum</title>
     </programme>
-    <programme start="20250126220000 +0000" stop="20250127003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250126220000 +0000" stop="20250126233000 +0000" channel="Asianet Movies.starhub">
         <title>Chinthamani Kolacase</title>
     </programme>
-    <programme start="20250127003000 +0000" stop="20250127013000 +0000" channel="Asianet Movies.starhub">
-        <title>Advocate Lakshmanan - Ladies Only</title>
+    <programme start="20250126233000 +0000" stop="20250127013000 +0000" channel="Asianet Movies.starhub">
+        <title>Adv. Lakshmanan Ladies only</title>
     </programme>
     <programme start="20250127013000 +0000" stop="20250127043000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
@@ -5205,25 +5205,25 @@
     <programme start="20250127190000 +0000" stop="20250127220000 +0000" channel="Asianet Movies.starhub">
         <title>Sallapam</title>
     </programme>
-    <programme start="20250127220000 +0000" stop="20250127233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127220000 +0000" stop="20250128003000 +0000" channel="Asianet Movies.starhub">
         <title>Kaithi</title>
     </programme>
-    <programme start="20250127233000 +0000" stop="20250128013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128003000 +0000" stop="20250128033000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128013000 +0000" stop="20250128043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128033000 +0000" stop="20250128063000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128043000 +0000" stop="20250128073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128063000 +0000" stop="20250128093000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128073000 +0000" stop="20250128103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128093000 +0000" stop="20250128123000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128103000 +0000" stop="20250128133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128123000 +0000" stop="20250128153000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128133000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128153000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
     <programme start="20250128163000 +0000" stop="20250128220000 +0000" channel="Asianet Movies.starhub">
@@ -7374,6 +7374,9 @@
     <programme start="20250126053000 +0000" stop="20250126060000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
+    <programme start="20250126060000 +0000" stop="20250126070000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    </programme>
     <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="COLORS.starhub">
         <title>Laughter Chefs Ka Special Tadka</title>
     </programme>
@@ -7401,11 +7404,8 @@
     <programme start="20250126120000 +0000" stop="20250126130000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250126130000 +0000" stop="20250126153000 +0000" channel="COLORS.starhub">
+    <programme start="20250126130000 +0000" stop="20250126160000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
-    </programme>
-    <programme start="20250126153000 +0000" stop="20250126160000 +0000" channel="COLORS.starhub">
-        <title>Desi Beat</title>
     </programme>
     <programme start="20250126160000 +0000" stop="20250126163000 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
@@ -24717,17 +24717,17 @@
     <programme start="20250126160500 +0000" stop="20250126220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250126220000 +0000" stop="20250127000000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250126220000 +0000" stop="20250127012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250127000000 +0000" stop="20250127040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250127012500 +0000" stop="20250127044000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M38 - Melbourne Renegades vs Brisbane Heat</title>
     </programme>
-    <programme start="20250127040000 +0000" stop="20250127080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250127044000 +0000" stop="20250127080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
     </programme>
     <programme start="20250127080000 +0000" stop="20250127121500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M44 - Final</title>
+        <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
     <programme start="20250127121500 +0000" stop="20250127161500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
@@ -24766,7 +24766,7 @@
         <title>TATA Indian Premier League 2024: M14 - Mumbai Indians vs Rajasthan Royals</title>
     </programme>
     <programme start="20250129120000 +0000" stop="20250129160000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M44 - Final</title>
+        <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
     <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
