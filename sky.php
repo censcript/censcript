@@ -13599,10 +13599,10 @@
     <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113500 +0000" stop="20250125145000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125113500 +0000" stop="20250125144500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125145000 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250125144500 +0000" stop="20250125151500 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1 HD">
@@ -33864,10 +33864,10 @@
     <programme start="20250125111000 +0000" stop="20250125113500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250125113500 +0000" stop="20250125145000 +0000" channel="Eurosport 1">
+    <programme start="20250125113500 +0000" stop="20250125144500 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
-    <programme start="20250125145000 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
+    <programme start="20250125144500 +0000" stop="20250125151500 +0000" channel="Eurosport 1">
         <title>Live Biathlon World Cup</title>
     </programme>
     <programme start="20250125151500 +0000" stop="20250125172000 +0000" channel="Eurosport 1">
@@ -36657,11 +36657,8 @@
     <programme start="20250125110000 +0000" stop="20250125122000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
-    <programme start="20250125122000 +0000" stop="20250125141500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250125122000 +0000" stop="20250125143000 +0000" channel="BBC RB 1 HD">
         <title>Rugby League Challenge Cup:...</title>
-    </programme>
-    <programme start="20250125141500 +0000" stop="20250125143000 +0000" channel="BBC RB 1 HD">
-        <title>What's Your Thing? - Gurning Competition</title>
     </programme>
     <programme start="20250125143000 +0000" stop="20250125174500 +0000" channel="BBC RB 1 HD">
         <title>Final Score</title>
@@ -38502,14 +38499,17 @@
     <programme start="20250125080000 +0000" stop="20250125090000 +0000" channel="EWTN Catholic">
         <title>Mother Angelica Live Classics</title>
     </programme>
-    <programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="EWTN Catholic">
-        <title>Truth and Life Bible</title>
-    </programme>
-    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="EWTN Catholic">
+    <programme start="20250125090000 +0000" stop="20250125093000 +0000" channel="EWTN Catholic">
         <title>The Wisdom of Father Groeschel</title>
     </programme>
+    <programme start="20250125093000 +0000" stop="20250125100000 +0000" channel="EWTN Catholic">
+        <title>Beloved and Blessed</title>
+    </programme>
+    <programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="EWTN Catholic">
+        <title>Bible in a Year</title>
+    </programme>
     <programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="EWTN Catholic">
-        <title>EWTN Presents</title>
+        <title>Catechism in a Year</title>
     </programme>
     <programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="EWTN Catholic">
         <title>Catholic Answers Live</title>
@@ -38517,26 +38517,23 @@
     <programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="EWTN Catholic">
         <title>Catholic Answers Live</title>
     </programme>
-    <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="EWTN Catholic">
-        <title>Five Pillars of the Spiritual Life with Fr</title>
-    </programme>
-    <programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="EWTN Catholic">
-        <title>Evangelization and How to Do It</title>
+    <programme start="20250125130000 +0000" stop="20250125140000 +0000" channel="EWTN Catholic">
+        <title>Truth and Life Bible</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125150000 +0000" channel="EWTN Catholic">
-        <title>Christ Is the Answer</title>
+        <title>Journey Home</title>
     </programme>
     <programme start="20250125150000 +0000" stop="20250125151500 +0000" channel="EWTN Catholic">
         <title>Chaplet of Divine Mercy</title>
     </programme>
     <programme start="20250125151500 +0000" stop="20250125153000 +0000" channel="EWTN Catholic">
-        <title>Catholic Enlightenment: Gifts...</title>
+        <title>The Sacred Heart of Jesus</title>
     </programme>
     <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="EWTN Catholic">
         <title>The Rosary Is a Place with Fr...</title>
     </programme>
     <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="EWTN Catholic">
-        <title>The Gospel of Mark w/Frances Hogan</title>
+        <title>Acts of God w/Frances Hogan</title>
     </programme>
     <programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="EWTN Catholic">
         <title>Super Saints</title>
@@ -38557,13 +38554,13 @@
         <title>Beauty, Truth &amp; Goodness</title>
     </programme>
     <programme start="20250125210000 +0000" stop="20250125220000 +0000" channel="EWTN Catholic">
-        <title>Journey Home</title>
+        <title>Beacon of Truth</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="EWTN Catholic">
-        <title>Five Pillars of the Spiritual Life with Fr</title>
+        <title>Bible in a Year</title>
     </programme>
     <programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="EWTN Catholic">
-        <title>Evangelization and How to Do It</title>
+        <title>Catechism in a Year</title>
     </programme>
     <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="EWTN Catholic">
         <title>Catholic Answers Live</title>
