@@ -26992,7 +26992,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250125120500 +0000" stop="20250125130000 +0000" channel="GEO News">
-        <title>Hansna Mana Hai</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250125130000 +0000" stop="20250125130500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -27901,22 +27901,22 @@
         <title>Preaching of Ahlebait (a.s)</title>
     </programme>
     <programme start="20250124220000 +0000" stop="20250124230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250125010000 +0000" stop="20250125020000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250125020000 +0000" stop="20250125030000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="Takbeer TV">
         <title>Tilawat e Quran Pak</title>
