@@ -5310,6 +5310,18 @@
     <programme start="20250204100000 +0000" stop="20250204163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250204163000 +0000" stop="20250204220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250124000000 +0000" stop="20250124005500 +0000" channel="HISTORY HD.starhub">
         <title>Jumpin&#039; Jake Flash</title>
     </programme>
@@ -16046,6 +16058,21 @@
     </programme>
     <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>AT&amp;T Pebble Beach Pro-Am Round 3</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205153000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AT&amp;T Pebble Beach Pro-Am Round 4</title>
+    </programme>
+    <programme start="20250205153000 +0000" stop="20250205160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Bapco Energies Bahrain Championship</title>
     </programme>
     <programme start="20250124000000 +0000" stop="20250124010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (24/1/25 Pt2)</title>
@@ -28242,10 +28269,7 @@
     <programme start="20250126100000 +0000" stop="20250126160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250126160000 +0000" stop="20250126160300 +0000" channel="Preview Channel.starhub">
-        <title>Preview Channel</title>
-    </programme>
-    <programme start="20250126160300 +0000" stop="20250126220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250126160000 +0000" stop="20250126220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Preview Channel.starhub">
@@ -28254,10 +28278,10 @@
     <programme start="20250127040000 +0000" stop="20250127100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250127100000 +0000" stop="20250127160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250127100000 +0000" stop="20250127160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250127160300 +0000" stop="20250127220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250127160000 +0000" stop="20250127220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250128040000 +0000" channel="Preview Channel.starhub">
@@ -28266,10 +28290,10 @@
     <programme start="20250128040000 +0000" stop="20250128100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250128100000 +0000" stop="20250128160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250128100000 +0000" stop="20250128160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250128160300 +0000" stop="20250128220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250128160000 +0000" stop="20250128220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Preview Channel.starhub">
@@ -28278,10 +28302,10 @@
     <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250129100000 +0000" stop="20250129160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250129160300 +0000" stop="20250129220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Preview Channel.starhub">
@@ -28290,10 +28314,10 @@
     <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250130100000 +0000" stop="20250130160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250130160300 +0000" stop="20250130220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="Preview Channel.starhub">
@@ -28302,10 +28326,10 @@
     <programme start="20250131040000 +0000" stop="20250131100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250131100000 +0000" stop="20250131160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250131100000 +0000" stop="20250131160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250131160300 +0000" stop="20250131220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250131160000 +0000" stop="20250131220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Preview Channel.starhub">
@@ -28314,10 +28338,10 @@
     <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250201100000 +0000" stop="20250201160300 +0000" channel="Preview Channel.starhub">
+    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
-    <programme start="20250201160300 +0000" stop="20250201220000 +0000" channel="Preview Channel.starhub">
+    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Preview Channel.starhub">
@@ -28327,6 +28351,42 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250124000000 +0000" stop="20250124002200 +0000" channel="HBO Family HD.starhub">
@@ -30876,6 +30936,18 @@
     <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32847,6 +32919,18 @@
     <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250123220000 +0000" stop="20250124040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32986,6 +33070,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>

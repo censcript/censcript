@@ -1713,13 +1713,13 @@
     <programme start="20250126220500 +0000" stop="20250126230500 +0000" channel="ITV3 HD">
         <title>Vera</title>
     </programme>
-    <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="ITV4 HD">
+    <programme start="20250125222000 +0000" stop="20250125233000 +0000" channel="ITV4 HD">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250125230000 +0000" stop="20250125230500 +0000" channel="ITV4 HD">
+    <programme start="20250125233000 +0000" stop="20250125233500 +0000" channel="ITV4 HD">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250125230500 +0000" stop="20250126000500 +0000" channel="ITV4 HD">
+    <programme start="20250125233500 +0000" stop="20250126000500 +0000" channel="ITV4 HD">
         <title>Jaws 3</title>
     </programme>
     <programme start="20250126000500 +0000" stop="20250126010000 +0000" channel="ITV4 HD">
@@ -8055,16 +8055,16 @@
     <programme start="20250126230500 +0000" stop="20250127000500 +0000" channel="ITV3+1">
         <title>Vera</title>
     </programme>
-    <programme start="20250125190000 +0000" stop="20250125230000 +0000" channel="ITV4+1">
+    <programme start="20250125190000 +0000" stop="20250125232000 +0000" channel="ITV4+1">
         <title>World Series of Darts: Dutch Masters</title>
     </programme>
-    <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="ITV4+1">
+    <programme start="20250125232000 +0000" stop="20250126003000 +0000" channel="ITV4+1">
         <title>Jaws 3</title>
     </programme>
-    <programme start="20250126000000 +0000" stop="20250126000500 +0000" channel="ITV4+1">
+    <programme start="20250126003000 +0000" stop="20250126003500 +0000" channel="ITV4+1">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250126000500 +0000" stop="20250126010500 +0000" channel="ITV4+1">
+    <programme start="20250126003500 +0000" stop="20250126010500 +0000" channel="ITV4+1">
         <title>Jaws 3</title>
     </programme>
     <programme start="20250126010500 +0000" stop="20250126020000 +0000" channel="ITV4+1">
