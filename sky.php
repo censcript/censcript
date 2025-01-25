@@ -13665,10 +13665,10 @@
     <programme start="20250125090500 +0000" stop="20250125101500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125101500 +0000" stop="20250125123000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125101500 +0000" stop="20250125124500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125123000 +0000" stop="20250125140000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250125124500 +0000" stop="20250125140000 +0000" channel="Eurosport 2 HD">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Eurosport 2 HD">
@@ -33930,10 +33930,10 @@
     <programme start="20250125090500 +0000" stop="20250125101500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125101500 +0000" stop="20250125124000 +0000" channel="Eurosport 2">
+    <programme start="20250125101500 +0000" stop="20250125124500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250125124000 +0000" stop="20250125140000 +0000" channel="Eurosport 2">
+    <programme start="20250125124500 +0000" stop="20250125140000 +0000" channel="Eurosport 2">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
     <programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Eurosport 2">
