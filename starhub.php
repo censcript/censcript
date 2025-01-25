@@ -7245,10 +7245,7 @@
     <programme start="20250125013000 +0000" stop="20250125020000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
     </programme>
-    <programme start="20250125020000 +0000" stop="20250125023000 +0000" channel="COLORS.starhub">
-        <title>Suman Indori</title>
-    </programme>
-    <programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="COLORS.starhub">
+    <programme start="20250125020000 +0000" stop="20250125030000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="COLORS.starhub">
@@ -7320,11 +7317,11 @@
     <programme start="20250125183000 +0000" stop="20250125190000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
     </programme>
-    <programme start="20250125190000 +0000" stop="20250125193000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
+    <programme start="20250125190000 +0000" stop="20250125200000 +0000" channel="COLORS.starhub">
+        <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250125193000 +0000" stop="20250125203000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
     <programme start="20250125203000 +0000" stop="20250125210000 +0000" channel="COLORS.starhub">
         <title>Suman Indori</title>
@@ -7335,14 +7332,11 @@
     <programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="COLORS.starhub">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="COLORS.starhub">
+    <programme start="20250125220000 +0000" stop="20250125230000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250125223000 +0000" stop="20250125233000 +0000" channel="COLORS.starhub">
+    <programme start="20250125230000 +0000" stop="20250126000000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
-    <programme start="20250125233000 +0000" stop="20250126000000 +0000" channel="COLORS.starhub">
-        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126003000 +0000" channel="COLORS.starhub">
         <title>Appollena - Sapno Ki Unchi Udann</title>
@@ -7380,9 +7374,6 @@
     <programme start="20250126053000 +0000" stop="20250126060000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250126060000 +0000" stop="20250126070000 +0000" channel="COLORS.starhub">
-        <title>Shiv Shakti: Tap Tyaag Taandav</title>
-    </programme>
     <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="COLORS.starhub">
         <title>Laughter Chefs Ka Special Tadka</title>
     </programme>
@@ -7409,6 +7400,15 @@
     </programme>
     <programme start="20250126120000 +0000" stop="20250126130000 +0000" channel="COLORS.starhub">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    </programme>
+    <programme start="20250126130000 +0000" stop="20250126153000 +0000" channel="COLORS.starhub">
+        <title>Bigg Boss</title>
+    </programme>
+    <programme start="20250126153000 +0000" stop="20250126160000 +0000" channel="COLORS.starhub">
+        <title>Desi Beat</title>
+    </programme>
+    <programme start="20250126160000 +0000" stop="20250126163000 +0000" channel="COLORS.starhub">
+        <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
     <programme start="20250124000000 +0000" stop="20250124010000 +0000" channel="TVB Jade HD.starhub">
         <title>Wars Of In-Laws II</title>
@@ -22087,7 +22087,7 @@
         <title>Movie - Pollaathavan (New)</title>
     </programme>
     <programme start="20250125073000 +0000" stop="20250125103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - MR.Bharath</title>
+        <title>Movie - Mr. Bharath</title>
     </programme>
     <programme start="20250125103000 +0000" stop="20250125133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rowthiram</title>
