@@ -39273,8 +39273,11 @@
     <programme start="20250127140000 +0000" stop="20250127150000 +0000" channel="EWTN Catholic">
         <title>Journey Home</title>
     </programme>
-    <programme start="20250127150000 +0000" stop="20250127153000 +0000" channel="EWTN Catholic">
+    <programme start="20250127150000 +0000" stop="20250127151500 +0000" channel="EWTN Catholic">
         <title>Chaplet of Divine Mercy</title>
+    </programme>
+    <programme start="20250127151500 +0000" stop="20250127153000 +0000" channel="EWTN Catholic">
+        <title>The Sacred Heart of Jesus</title>
     </programme>
     <programme start="20250127153000 +0000" stop="20250127160000 +0000" channel="EWTN Catholic">
         <title>The Rosary Is a Place with Fr...</title>
