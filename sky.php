@@ -13608,13 +13608,13 @@
     <programme start="20250126123000 +0000" stop="20250126140000 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250126140000 +0000" stop="20250126153000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250126140000 +0000" stop="20250126153500 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250126153000 +0000" stop="20250126163000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250126153500 +0000" stop="20250126163500 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250126163000 +0000" stop="20250126170000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250126163500 +0000" stop="20250126170000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250126170000 +0000" stop="20250126173000 +0000" channel="Eurosport 2 HD">
@@ -33765,13 +33765,13 @@
     <programme start="20250126123000 +0000" stop="20250126140000 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250126140000 +0000" stop="20250126153000 +0000" channel="Eurosport 2">
+    <programme start="20250126140000 +0000" stop="20250126153500 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: World Cup</title>
     </programme>
-    <programme start="20250126153000 +0000" stop="20250126163000 +0000" channel="Eurosport 2">
+    <programme start="20250126153500 +0000" stop="20250126163500 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250126163000 +0000" stop="20250126170000 +0000" channel="Eurosport 2">
+    <programme start="20250126163500 +0000" stop="20250126170000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250126170000 +0000" stop="20250126173000 +0000" channel="Eurosport 2">

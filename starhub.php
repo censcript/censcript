@@ -5163,77 +5163,119 @@
     <programme start="20250127043000 +0000" stop="20250127073000 +0000" channel="Asianet Movies.starhub">
         <title>Jaya Jaya Jaya Jaya Hey</title>
     </programme>
-    <programme start="20250127073000 +0000" stop="20250127103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127073000 +0000" stop="20250127103500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20250127103000 +0000" stop="20250127133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127103500 +0000" stop="20250127133000 +0000" channel="Asianet Movies.starhub">
         <title>Rappakal</title>
     </programme>
     <programme start="20250127133000 +0000" stop="20250127163000 +0000" channel="Asianet Movies.starhub">
         <title>Minnal Murali</title>
     </programme>
-    <programme start="20250127163000 +0000" stop="20250127190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127163000 +0000" stop="20250127191000 +0000" channel="Asianet Movies.starhub">
         <title>Kalippattam</title>
     </programme>
-    <programme start="20250127190000 +0000" stop="20250127220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127191000 +0000" stop="20250127213000 +0000" channel="Asianet Movies.starhub">
         <title>Sallapam</title>
     </programme>
-    <programme start="20250127220000 +0000" stop="20250128003000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127213000 +0000" stop="20250127233000 +0000" channel="Asianet Movies.starhub">
         <title>Kaithi</title>
     </programme>
-    <programme start="20250128003000 +0000" stop="20250128033000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250127233000 +0000" stop="20250128013000 +0000" channel="Asianet Movies.starhub">
+        <title>Paapam Cheyyathavar Kalleriyatte</title>
+    </programme>
+    <programme start="20250128013000 +0000" stop="20250128043000 +0000" channel="Asianet Movies.starhub">
+        <title>June</title>
+    </programme>
+    <programme start="20250128043000 +0000" stop="20250128073000 +0000" channel="Asianet Movies.starhub">
+        <title>Kumbalangi Nights</title>
+    </programme>
+    <programme start="20250128073000 +0000" stop="20250128103000 +0000" channel="Asianet Movies.starhub">
+        <title>Thrissur Pooram</title>
+    </programme>
+    <programme start="20250128103000 +0000" stop="20250128133000 +0000" channel="Asianet Movies.starhub">
+        <title>Drishyam 2</title>
+    </programme>
+    <programme start="20250128133000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
+        <title>Vettam</title>
+    </programme>
+    <programme start="20250128163000 +0000" stop="20250128190000 +0000" channel="Asianet Movies.starhub">
+        <title>King Of Kotha</title>
+    </programme>
+    <programme start="20250128190000 +0000" stop="20250128220000 +0000" channel="Asianet Movies.starhub">
+        <title>Achayans</title>
+    </programme>
+    <programme start="20250128220000 +0000" stop="20250128233000 +0000" channel="Asianet Movies.starhub">
+        <title>Anwar</title>
+    </programme>
+    <programme start="20250128233000 +0000" stop="20250129013000 +0000" channel="Asianet Movies.starhub">
+        <title>Sufiyum Sujathayum</title>
+    </programme>
+    <programme start="20250129013000 +0000" stop="20250129043000 +0000" channel="Asianet Movies.starhub">
+        <title>Vinodayathra</title>
+    </programme>
+    <programme start="20250129043000 +0000" stop="20250129073000 +0000" channel="Asianet Movies.starhub">
+        <title>Classmates</title>
+    </programme>
+    <programme start="20250129073000 +0000" stop="20250129103000 +0000" channel="Asianet Movies.starhub">
+        <title>Natturajavu</title>
+    </programme>
+    <programme start="20250129103000 +0000" stop="20250129133000 +0000" channel="Asianet Movies.starhub">
+        <title>Pachakkuthira</title>
+    </programme>
+    <programme start="20250129133000 +0000" stop="20250129163000 +0000" channel="Asianet Movies.starhub">
+        <title>Pulimurugan</title>
+    </programme>
+    <programme start="20250129163000 +0000" stop="20250129190000 +0000" channel="Asianet Movies.starhub">
+        <title>KGF</title>
+    </programme>
+    <programme start="20250129190000 +0000" stop="20250129220000 +0000" channel="Asianet Movies.starhub">
+        <title>Vismayathumbathu</title>
+    </programme>
+    <programme start="20250129220000 +0000" stop="20250129233000 +0000" channel="Asianet Movies.starhub">
+        <title>Oru B&amp;W Kudumbam</title>
+    </programme>
+    <programme start="20250129233000 +0000" stop="20250130013000 +0000" channel="Asianet Movies.starhub">
+        <title>Money Rathnam</title>
+    </programme>
+    <programme start="20250130013000 +0000" stop="20250130043000 +0000" channel="Asianet Movies.starhub">
+        <title>Naran</title>
+    </programme>
+    <programme start="20250130043000 +0000" stop="20250130073000 +0000" channel="Asianet Movies.starhub">
+        <title>Varshangalkku Shesham</title>
+    </programme>
+    <programme start="20250130073000 +0000" stop="20250130103000 +0000" channel="Asianet Movies.starhub">
+        <title>Karyasthan</title>
+    </programme>
+    <programme start="20250130103000 +0000" stop="20250130133000 +0000" channel="Asianet Movies.starhub">
+        <title>Mikhael</title>
+    </programme>
+    <programme start="20250130133000 +0000" stop="20250130163000 +0000" channel="Asianet Movies.starhub">
+        <title>Two Countries</title>
+    </programme>
+    <programme start="20250130163000 +0000" stop="20250130190000 +0000" channel="Asianet Movies.starhub">
+        <title>Oru Yamandan Premakadha</title>
+    </programme>
+    <programme start="20250130190000 +0000" stop="20250130220000 +0000" channel="Asianet Movies.starhub">
+        <title>Casanova</title>
+    </programme>
+    <programme start="20250130220000 +0000" stop="20250131003000 +0000" channel="Asianet Movies.starhub">
+        <title>Paramapatham Vilayattu</title>
+    </programme>
+    <programme start="20250131003000 +0000" stop="20250131043000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20250131043000 +0000" stop="20250131073000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128033000 +0000" stop="20250128063000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250131073000 +0000" stop="20250131103000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250128063000 +0000" stop="20250128093000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250131103000 +0000" stop="20250131133000 +0000" channel="Asianet Movies.starhub">
+        <title>Kanmani Rambo Khatija</title>
+    </programme>
+    <programme start="20250131133000 +0000" stop="20250131163000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
-    </programme>
-    <programme start="20250128093000 +0000" stop="20250128123000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250128123000 +0000" stop="20250128153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250128153000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250128163000 +0000" stop="20250128220000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250128220000 +0000" stop="20250129040000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250129040000 +0000" stop="20250129100000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250129100000 +0000" stop="20250129163000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250129163000 +0000" stop="20250129220000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250130040000 +0000" stop="20250130100000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250130100000 +0000" stop="20250130163000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250130163000 +0000" stop="20250130220000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250131040000 +0000" stop="20250131100000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
-    </programme>
-    <programme start="20250131100000 +0000" stop="20250131163000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
     </programme>
     <programme start="20250131163000 +0000" stop="20250131220000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>

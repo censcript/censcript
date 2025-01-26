@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250126130000 +0000" stop="20250126162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250126135000 +0000" stop="20250126161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Tottenham Hotspur v Leicester City</title>
-    </programme>
-    <programme start="20250126135000 +0000" stop="20250126161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Crystal Palace v Brentford</title>
-    </programme>
-    <programme start="20250126135500 +0000" stop="20250126161000 +0000" channel="Optus Sport 10.optus">
-        <title>Women&#039;s Super League - Crystal Palace v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - West Ham United v Everton</title>
     </programme>
