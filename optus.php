@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250126183500 +0000" stop="20250126205500 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Brighton and Hove Albion</title>
-    </programme>
     <programme start="20250126185000 +0000" stop="20250126213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Fulham v Manchester United</title>
     </programme>

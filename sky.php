@@ -28332,10 +28332,10 @@
     <programme start="20250127000500 +0000" stop="20250127010200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250127010200 +0000" stop="20250127012200 +0000" channel="IQRA TV">
+    <programme start="20250127010200 +0000" stop="20250127013000 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250127012200 +0000" stop="20250127054600 +0000" channel="IQRA TV">
+    <programme start="20250127013000 +0000" stop="20250127054600 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250127054600 +0000" stop="20250127054900 +0000" channel="IQRA TV">
@@ -29805,10 +29805,7 @@
     <programme start="20250127090000 +0000" stop="20250127093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250127093000 +0000" stop="20250127094500 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250127094500 +0000" stop="20250127110000 +0000" channel="Kanshi TV">
+    <programme start="20250127093000 +0000" stop="20250127110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250127110000 +0000" stop="20250127123000 +0000" channel="Kanshi TV">
@@ -29829,11 +29826,8 @@
     <programme start="20250127150000 +0000" stop="20250127160000 +0000" channel="Kanshi TV">
         <title>Gallan Baatan with Asha Mall</title>
     </programme>
-    <programme start="20250127160000 +0000" stop="20250127163000 +0000" channel="Kanshi TV">
+    <programme start="20250127160000 +0000" stop="20250127170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
-    </programme>
-    <programme start="20250127163000 +0000" stop="20250127170000 +0000" channel="Kanshi TV">
-        <title>Music Gup Shup</title>
     </programme>
     <programme start="20250127170000 +0000" stop="20250127180000 +0000" channel="Kanshi TV">
         <title>Soch Da Safar</title>
@@ -38215,7 +38209,7 @@
         <title>Radio Wales Breakfast</title>
     </programme>
     <programme start="20250127090000 +0000" stop="20250127115900 +0000" channel="BBC R Wales">
-        <title>Wynne Evans</title>
+        <title>Robin Morgan</title>
     </programme>
     <programme start="20250127115900 +0000" stop="20250127140000 +0000" channel="BBC R Wales">
         <title>The Phone In</title>
