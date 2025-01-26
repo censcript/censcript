@@ -5136,22 +5136,22 @@
     <programme start="20250126043000 +0000" stop="20250126073000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa: The Rise - Part 1</title>
     </programme>
-    <programme start="20250126073000 +0000" stop="20250126103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250126073000 +0000" stop="20250126103500 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20250126103000 +0000" stop="20250126133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250126103500 +0000" stop="20250126133000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr</title>
     </programme>
     <programme start="20250126133000 +0000" stop="20250126163000 +0000" channel="Asianet Movies.starhub">
         <title>Lucky Baskhar</title>
     </programme>
-    <programme start="20250126163000 +0000" stop="20250126190000 +0000" channel="Asianet Movies.starhub">
-        <title>Nerariyan C.B.I.</title>
+    <programme start="20250126163000 +0000" stop="20250126191000 +0000" channel="Asianet Movies.starhub">
+        <title>Oru CBI</title>
     </programme>
-    <programme start="20250126190000 +0000" stop="20250126220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250126191000 +0000" stop="20250126213000 +0000" channel="Asianet Movies.starhub">
         <title>Pullipulikalum Aattinkuttiyum</title>
     </programme>
-    <programme start="20250126220000 +0000" stop="20250126233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250126213000 +0000" stop="20250126233000 +0000" channel="Asianet Movies.starhub">
         <title>Chinthamani Kolacase</title>
     </programme>
     <programme start="20250126233000 +0000" stop="20250127013000 +0000" channel="Asianet Movies.starhub">
