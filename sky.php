@@ -39499,7 +39499,7 @@
         <title>Simon Conway</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127160000 +0000" channel="LBC News">
-        <title>Jim Diamond</title>
+        <title>Chris Golds</title>
     </programme>
     <programme start="20250127160000 +0000" stop="20250127200000 +0000" channel="LBC News">
         <title>John Stratford</title>

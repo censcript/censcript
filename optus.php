@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250126185000 +0000" stop="20250126213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Fulham v Manchester United</title>
-    </programme>
     <programme start="20250126220000 +0000" stop="20250126233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
