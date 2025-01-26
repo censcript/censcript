@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 9.optus">
-        <title>Women&#039;s Super League - West Ham United v Everton</title>
-    </programme>
-    <programme start="20250126145500 +0000" stop="20250126171000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Leicester v Liverpool</title>
-    </programme>
     <programme start="20250126162000 +0000" stop="20250126185000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v West Ham United</title>
     </programme>
