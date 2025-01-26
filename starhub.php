@@ -16086,6 +16086,21 @@
     <programme start="20250205153000 +0000" stop="20250205160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Bapco Energies Bahrain Championship</title>
     </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206090000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206090000 +0000" stop="20250206140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Commercial Bank Qatar Masters Day 1</title>
+    </programme>
+    <programme start="20250206140000 +0000" stop="20250206160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Trophy Hassan II Round 1 (JIP)</title>
+    </programme>
     <programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (25/1/25 Pt2)</title>
     </programme>
@@ -28339,6 +28354,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250124234500 +0000" stop="20250125001500 +0000" channel="HBO Family HD.starhub">

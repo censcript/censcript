@@ -81,10 +81,7 @@
     <programme start="20250127013500 +0000" stop="20250127023500 +0000" channel="BBC Two HD">
         <title>Question Time</title>
     </programme>
-    <programme start="20250127023500 +0000" stop="20250127033500 +0000" channel="BBC Two HD">
-        <title>Silent Witness</title>
-    </programme>
-    <programme start="20250127033500 +0000" stop="20250127064500 +0000" channel="BBC Two HD">
+    <programme start="20250127023500 +0000" stop="20250127064500 +0000" channel="BBC Two HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250127064500 +0000" stop="20250127074500 +0000" channel="BBC Two HD">
@@ -37179,10 +37176,7 @@
     <programme start="20250127013500 +0000" stop="20250127023500 +0000" channel="BBC Two Wal HD">
         <title>Question Time</title>
     </programme>
-    <programme start="20250127023500 +0000" stop="20250127033500 +0000" channel="BBC Two Wal HD">
-        <title>Silent Witness</title>
-    </programme>
-    <programme start="20250127033500 +0000" stop="20250127064500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250127023500 +0000" stop="20250127064500 +0000" channel="BBC Two Wal HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250127064500 +0000" stop="20250127074500 +0000" channel="BBC Two Wal HD">
@@ -37251,10 +37245,7 @@
     <programme start="20250127013500 +0000" stop="20250127023500 +0000" channel="BBC Two NI HD">
         <title>Question Time</title>
     </programme>
-    <programme start="20250127023500 +0000" stop="20250127033500 +0000" channel="BBC Two NI HD">
-        <title>Silent Witness</title>
-    </programme>
-    <programme start="20250127033500 +0000" stop="20250127064500 +0000" channel="BBC Two NI HD">
+    <programme start="20250127023500 +0000" stop="20250127064500 +0000" channel="BBC Two NI HD">
         <title>This is BBC Two</title>
     </programme>
     <programme start="20250127064500 +0000" stop="20250127074500 +0000" channel="BBC Two NI HD">
