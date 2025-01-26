@@ -13530,10 +13530,10 @@
     <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250126080000 +0000" stop="20250126083000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250126080000 +0000" stop="20250126084500 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250126083000 +0000" stop="20250126120000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250126084500 +0000" stop="20250126120000 +0000" channel="Eurosport 1 HD">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250126120000 +0000" stop="20250126123000 +0000" channel="Eurosport 1 HD">
@@ -13593,11 +13593,8 @@
     <programme start="20250126055500 +0000" stop="20250126065000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250126065000 +0000" stop="20250126083000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250126065000 +0000" stop="20250126084500 +0000" channel="Eurosport 2 HD">
         <title>Live Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250126083000 +0000" stop="20250126084500 +0000" channel="Eurosport 2 HD">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250126084500 +0000" stop="20250126100000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Cup</title>
@@ -33690,10 +33687,10 @@
     <programme start="20250126070000 +0000" stop="20250126080000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
     </programme>
-    <programme start="20250126080000 +0000" stop="20250126083000 +0000" channel="Eurosport 1">
+    <programme start="20250126080000 +0000" stop="20250126084500 +0000" channel="Eurosport 1">
         <title>Live Australian Open: Courtside</title>
     </programme>
-    <programme start="20250126083000 +0000" stop="20250126120000 +0000" channel="Eurosport 1">
+    <programme start="20250126084500 +0000" stop="20250126120000 +0000" channel="Eurosport 1">
         <title>Live Australian Open Tennis</title>
     </programme>
     <programme start="20250126120000 +0000" stop="20250126123000 +0000" channel="Eurosport 1">
@@ -33753,11 +33750,8 @@
     <programme start="20250126055500 +0000" stop="20250126065000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250126065000 +0000" stop="20250126083000 +0000" channel="Eurosport 2">
+    <programme start="20250126065000 +0000" stop="20250126084500 +0000" channel="Eurosport 2">
         <title>Live Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250126083000 +0000" stop="20250126084500 +0000" channel="Eurosport 2">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250126084500 +0000" stop="20250126100000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Cup</title>
