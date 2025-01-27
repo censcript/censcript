@@ -6802,7 +6802,7 @@
         <title>New: The Repair Shop on the Road</title>
     </programme>
     <programme start="20250127204500 +0000" stop="20250127210000 +0000" channel="BBCScotlandHD">
-        <title>Growing Up Scottish</title>
+        <title>Rewind 2000s</title>
     </programme>
     <programme start="20250127210000 +0000" stop="20250127213000 +0000" channel="BBCScotlandHD">
         <title>New: Showpeople: Licensed to Thrill</title>
@@ -26562,64 +26562,86 @@
     <programme start="20250127112500 +0000" stop="20250127115500 +0000" channel="Zee Cinema">
         <title>ILT20 SW vs GG - Highlights</title>
     </programme>
-    <programme start="20250127115"20250127000000 +0000" stop="20250127003000 +0000">
-        <title>Bhagya Lakshmi</title>
+    <programme start="20250127115+0000" channel="Zee Cinemaa">
+        <title>ILT20 SW vs GG - Highlights</title>
+    </pr
     </programme>
- 000 +ol="Zee TV HD">
-        <title>Bhagya Lakshmi</titleogramme>
-    <programme start="2e0" channel="COLORS HD">
-        <title>Doree  oi5012       <title>Zee Mini Series - Chahatein</titlau60000 +0000" stop="20250127163000 +0000" channel="COL"Uts"Zee TV HD">
-        <title>Jaane Anjaane Hum Mile</title>
+    <programme start="20250127083000 +0000" stop="20250127093000 +0000" channel="Zee TV HD">
+  amme o250127013000 +0000" stop="20250127020000 +0000" chaoV HD">
+        <title>Live DPW e20250127170000 +0000" stop="20250127173000 +0 oi Tum126210000 +0000" stop="20250127004000 +0000" chauitle>
     </programme>
-    <pro   <title>Bas Itna Sa Khwaab</title>
-    </programmomme start="20250127190000 +0000eraeart="20250127230000 +0000" stop="20250127233tart="20250127143000 +0000" stop="20250127150000 +00mmomme start="20250127190000 +0000eraeart="20250127230000 +0000" stop="20250127233tart="20250127143000 +0000" stopop="20250127233tart="20250127143000 +0000" stop="2COLORS HD">
-        <title>Shiv Shakti: Tap TyaagsM:="20250127233tart="20250127143000 +0000" stop="20250127150000 +00mmomme start="20250127190000 +0000eraeart="202501272isS Bharat">
-        <title>Savdhaan India - India Fights Back</title>
+    <programme start="202501270250rt="20250127140000 +0000" stop="20250127183000 +0000" channel="Zee TV HD">
+        <00" stop="20250127030000 +0000" channel="Zee TV HD"ole>Bhagya Lakshmi</title>
+    <eraese Mujhe Tum Mil Gaye</title>
+    </programme>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <progrSG0 +0000" stop="202501271ammeorihO"20250127040000 +000   <programme start="2025012e7233yop="lt="2t="20250127223000 +0000" stop="20250127230000 +0000" channel="Zee TV HD">
-        <title>Jagriti - Ek Nayiyar HisSav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
+  D"ole>Bhagya Lakshmi</title>
+    <eraese Mujhe Tum Mil Gaye</title>
+    </programme>Iss Ishq Ka Rabb Rakha</title>
+    </programme>Iss Ishq Ka Rabb Rakha</title>
+  mme start="20250127130000 +0000" stop="2025012713sM:   </programme>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme stree  oisMF rihO"20250127040000 +000   <programme start="2025012e7233yop="lt="2t="20250127223000 +0000" stop="20250127230000 +0000" channel="Zee TV7e   </programme>
-    <programme stree  oisMF rihO"2ecKoulKO0250127060000 +0000"mme>
-    <programme start="2e    y000 l00 +e>Pure Bollywood</title>
+  D"ole>Bhagya Lakshmi</title>
+    <eraese Mujhe Tum MisSramme start="20250127050000 +0000" stop="20250127060000 +0000" channel="Utsav Bharat">
+        SG>
     </programme>
-    <programme start="20250127035000 +0000" stop="20250127060000pcFe>
-    <programme start="20250127041300 +0000" stop="20250127053100 +0000" channel="SONY TV HD"title>
+  </titleorihOBhagya</title>
+    <
+        <title>Sanjeev Kapoerammytle>l0 SWti - Ek Nayi Subha</title>
     </programme>
-    <programme start="20250127223000 +0000" stop="20250127230000   <aoRe Gul:ine Waali</title>
+    <programme start="20250127230000 +0000" stop="202501272330y00 +isStart="20250127073000 +0000" stop="20250127080000 +0000" channel="Utsav Bharat">
+        <title>0 +0 oisMF rihOBhagya</title>
+    <
+        <title>Sanjeev Kapoerammytle>l0 SWti - Ek Nayi Subha</title>
     </programme>
-    <programme startartramme>
-    <programme start="20250127035000 +0000" stop="20250127060000 +0000" channel="Zee Cinemp0" c y:iV Hd stole>
+    <programme start="207el="Utsav Bharat">
+        <title>0 +0 oisMF rihOBhecKoulKOe>
+    <programme starat">
+        <title>Radhake2300yograle>
+ 250127060000 +0000" channel="Zee Cinema">
+        <title>Santa Banta Pvt Ltd</title>
     </programme>
-    <programme startartramme>
-    <programme start="20250127035000mme start="20250127190000 +0000" stop="20250127193000 +0000" channel="Zee TV HD">
-        <title>Bhagya Lakshmi</title>
-    </progr00" ntart="20250127010000 +0000" stop="20250127013000 +0000" channel="Zee TV HsAitle>
-t" stop="20250127173000 +0000" channel="COLORS HD">
-      e>
-  s +0000" channel="Zee Cinema">
-        <title>RaceSeries - Chahatein</thannel="Zee TV HsAitle>
-t" sogramme start="20250127220000 +0000" stop="20250127223000 +0000" channel="Zee TV HD">
-        <title>Bas Itna Sa Khwaab</title>
-   
+    pcF">
+        <title>Champions Ka Tashan</title>
     </programme>
- ="Zee TV HD">
-        <t="20250127110000 +0000" channe="2025iA4m </pt="20250127023000 +0000 +0000" stop="20250127040000 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - India Fights Back</title>
+    <programme start="2025012705" channel="Zee TV HD">
+        <title>Jagriti - Ek Nayi Subha</title>
     </programme>
-    <prograt+000/title>
+     ao2501ul:i0000 +0000" channel="Utsav Bharat">
+        <title>Radee nema">
+        <title>Santa Banta Pvt Ltd</title>
     </programme>
-    <programme start="2D">
-        <title>Jagriti - Ek Nayi Subha</title20250127013000 +0000" channT+0000" channel="Zee TV HD">
-        <title>Bas Itna Sa Khwaab</title>
-   
+    <programme start="20250127p<pro y:i250ditlehannel="Utsav Bharat">
+        <title>Radee nema">
+        <title>Santa Banta Pvt Ltd</le>Bhagya Lakshmi</title>
     </programme>
- ="Zee TV27053000 +0000" channel="COLORS H+0000" channel="Utsav Plus  Sa Khwaab</title>
-  soSa K1si:i27230000 +0000" channel="Zee Tytop=me start="20250127190000 +0000
-  seel="Zee TV HsAitle>
-t" stop="20250127173000 +0000" channel="COLsS</programme>
-    <programme start="20250127203000 +0000" stop="20250127210000 +0000" channel="U5S7230000   <aoRe Gul0000" stop="20250127223000 +0000" channel="Zee TV HD">
-        Anjali Awasthi</title>
+    <programme start="20250127193000 +0000" stop="20250127200000 +0000" channel="Zee TV  </pnagya Lakshmi</title>
     </programme>
-    <programme start="20250127033000 +0000" stop="20250127040000 +0000" caS
+    <programme start="2025012701300sA channtav</title>
+    </programme>
+    <programme start="2025012at">
+st="20250127032500 +0000" stop="20250127035000 +0020250127004000 +0000"t="2025012701300sA channtav<<title>Bas Itna Sa Khwaab</title>
+    </programme>
+    <programme start="20250127223000 +0000" stop="20250127230000 +0000" channel=nel="COLORS HD">
+   start="20250127183000 +rogramme>
+    <programme start/progriA4m"Utsti - Ek Nayi Subha</ India Fights Back</title>
+    </programme>
+    <programme start="20250127040000 +0000" stop="20250127050000 +0000" channel="Utsav Bharat">
+        <t</ I0" channel="Zee Cinema">
+        <title>Race</ti0127030000 +0000" stop="20250127033000 +0000" chame>
+    <programme start="2Togramme start="20250127223000 +0000" stop="20250127230000 +0000" channel=nel="COLORS HD">
+   start="  <programme start="2025012705300mme>
+    <programme start="083000 +0000" channelso30001si:iramme>
+    <programme start="2y/tite>Bhagya Lakshmi</title>
+    <   se025012701300sA channtav</title>
+    </programme>
+    <programmesSUtsav Bharat">
+        <title>Ishqbaaaz</title>
+    </programme>
+    <programme start="202501275Samme>
+     ao2501ule>
+    </programme>
+    <programme start="20250127223000 +0000"0127040000 +0000" channel="Utsav Plus HD">
+        <title>Maati Se Bandhi Dor</title>
+    </programme>
+    <prograS
