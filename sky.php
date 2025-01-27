@@ -24607,7 +24607,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="QVC Beauty">
-        <title>In the Salon with SBC</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250127140000 +0000" stop="20250127150000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24685,7 +24685,7 @@
         <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co Stylish Activewear</title>
+        <title>Up to 60% off MarlaWynne</title>
     </programme>
     <programme start="20250127140000 +0000" stop="20250127150000 +0000" channel="QVC Style HD">
         <title>New Year, New Kim &amp; Co</title>
@@ -24709,13 +24709,13 @@
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250127210000 +0000" stop="20250127220000 +0000" channel="QVC Style HD">
-        <title>New Season Footwear</title>
+        <title>New Deals with Moda in Pelle</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250127230000 +0000" channel="QVC Style HD">
-        <title>Your Winter Garden</title>
+        <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128000000 +0000" channel="QVC Style HD">
-        <title>New Season Plants2Gardens</title>
+        <title>Ruth Langsford New Leisurewear</title>
     </programme>
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -25342,13 +25342,13 @@
         <title>Cozee Home</title>
     </programme>
     <programme start="20250127200000 +0000" stop="20250127210000 +0000" channel="QVC Extra">
-        <title>Kitchen Deals up to 40% off</title>
+        <title>Up to 60% off MarlaWynne</title>
     </programme>
     <programme start="20250127210000 +0000" stop="20250127220000 +0000" channel="QVC Extra">
         <title>Love Your Home</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250127230000 +0000" channel="QVC Extra">
-        <title>Get it or Regret It Kitchen Finds</title>
+        <title>Yankee Candles New Collection</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128000000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -29661,11 +29661,8 @@
     <programme start="20250127113000 +0000" stop="20250127130000 +0000" channel="Sangat">
         <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250127130000 +0000" stop="20250127150000 +0000" channel="Sangat">
+    <programme start="20250127130000 +0000" stop="20250127160000 +0000" channel="Sangat">
         <title>Janam Dihada Samagam</title>
-    </programme>
-    <programme start="20250127150000 +0000" stop="20250127160000 +0000" channel="Sangat">
-        <title>Katha Vichar</title>
     </programme>
     <programme start="20250127160000 +0000" stop="20250127163000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>

@@ -11131,7 +11131,7 @@
         <title>Arcadia, California</title>
     </programme>
     <programme start="20250127173000 +0000" stop="20250127180000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga Best 11 2024/25</title>
+        <title>Javier Casquero</title>
     </programme>
     <programme start="20250127180000 +0000" stop="20250127193000 +0000" channel="beIN Sports HD.starhub">
         <title>Monday</title>
@@ -15304,7 +15304,7 @@
         <title>UEFA Champions League 2024/25 Atalanta vs Sturm - MD7</title>
     </programme>
     <programme start="20250127100500 +0000" stop="20250127120500 +0000" channel="beIN Sports 3.starhub">
-        <title>Arsenal TV Classic 2024/25 Arsenal vs Norwich</title>
+        <title>Arsenal TV Classic 2024/25 Arsenal vs Liverpool</title>
     </programme>
     <programme start="20250127120500 +0000" stop="20250127140500 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Wolves vs Arsenal</title>
