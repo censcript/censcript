@@ -6703,10 +6703,19 @@
         <title>Drama Serial &quot;Omusubi&quot; Eps. 81 (R)</title>
     </programme>
     <programme start="20250127040000 +0000" stop="20250127040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+        <title>Camera-eyed Japan</title>
     </programme>
-    <programme start="20250127040500 +0000" stop="20250127055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20250127040500 +0000" stop="20250127050000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
+    </programme>
+    <programme start="20250127050000 +0000" stop="20250127053000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Neighbor&#039;s Nurturing Session (R)</title>
+    </programme>
+    <programme start="20250127053000 +0000" stop="20250127054500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fishing Crazy</title>
+    </programme>
+    <programme start="20250127054500 +0000" stop="20250127055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250127055000 +0000" stop="20250127055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -6715,7 +6724,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20250127060000 +0000" stop="20250127061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20250127061000 +0000" stop="20250127063500 +0000" channel="NHK World Premium HD.starhub">
         <title>My Gardening</title>
@@ -6812,15 +6821,6 @@
     </programme>
     <programme start="20250127161500 +0000" stop="20250127164000 +0000" channel="NHK World Premium HD.starhub">
         <title>Gretel&#039;s Magical Oven</title>
-    </programme>
-    <programme start="20250127164000 +0000" stop="20250127171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Japanese Narrative Art</title>
-    </programme>
-    <programme start="20250127171000 +0000" stop="20250127173000 +0000" channel="NHK World Premium HD.starhub">
-        <title>French in a Happy Mood</title>
-    </programme>
-    <programme start="20250127173000 +0000" stop="20250127174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Feeling English! Favorite Phrases Selected from Data</title>
     </programme>
     <programme start="20250125230500 +0000" stop="20250126000500 +0000" channel="Lifetime HD.starhub">
         <title>House Beautiful Cake</title>
@@ -9634,7 +9634,7 @@
         <title>2025 World Sailing Show</title>
     </programme>
     <programme start="20250128110000 +0000" stop="20250128113000 +0000" channel="SPOTV2.starhub">
-        <title>Sydney Ep7</title>
+        <title>Sydney</title>
     </programme>
     <programme start="20250128113000 +0000" stop="20250128133000 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
@@ -9651,10 +9651,10 @@
     <programme start="20250128173000 +0000" stop="20250128180000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 18 Highlights Sukhothai vs Port</title>
     </programme>
-    <programme start="20250128180000 +0000" stop="20250128200500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250128180000 +0000" stop="20250128201000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
     </programme>
-    <programme start="20250128200500 +0000" stop="20250128203000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250128201000 +0000" stop="20250128203000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
     </programme>
     <programme start="20250128203000 +0000" stop="20250128222000 +0000" channel="SPOTV2.starhub">
@@ -9687,10 +9687,10 @@
     <programme start="20250129120000 +0000" stop="20250129130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250129130000 +0000" stop="20250129150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250129130000 +0000" stop="20250129150500 +0000" channel="SPOTV2.starhub">
         <title>2025 LOVB Inaugural Season Week 3 Omaha vs Madison</title>
     </programme>
-    <programme start="20250129150000 +0000" stop="20250129152000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250129150500 +0000" stop="20250129152000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
     </programme>
     <programme start="20250129152000 +0000" stop="20250129170000 +0000" channel="SPOTV2.starhub">
@@ -9718,15 +9718,15 @@
         <title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
     </programme>
     <programme start="20250130053000 +0000" stop="20250130060000 +0000" channel="SPOTV2.starhub">
-        <title>Sydney Ep7</title>
+        <title>Sydney</title>
     </programme>
     <programme start="20250130060000 +0000" stop="20250130150000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250130150000 +0000" stop="20250130170500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250130150000 +0000" stop="20250130171000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 17 Al Ahli vs Al Riyadh</title>
     </programme>
-    <programme start="20250130170500 +0000" stop="20250130173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250130171000 +0000" stop="20250130173000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 17 Highlights Uthai Thani vs Bangkok United</title>
     </programme>
     <programme start="20250130173000 +0000" stop="20250130180000 +0000" channel="SPOTV2.starhub">
@@ -9790,7 +9790,7 @@
         <title>ISUZU UTE A-League Men 2024/25 Rd17 Sydney FC vs Adelaide United</title>
     </programme>
     <programme start="20250201080000 +0000" stop="20250201083000 +0000" channel="SPOTV2.starhub">
-        <title>Sydney Ep7</title>
+        <title>Sydney</title>
     </programme>
     <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="SPOTV2.starhub">
         <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
@@ -15496,7 +15496,7 @@
         <title>Knockout RD Play-Offs</title>
     </programme>
     <programme start="20250131113000 +0000" stop="20250131120000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Champions League 2024/25 PSV vs Liverpool - MD8</title>
+        <title>Mini Match - UEFA Champions League 2024/25</title>
     </programme>
     <programme start="20250131120000 +0000" stop="20250131123000 +0000" channel="beIN Sports 3.starhub">
         <title>Knockout RD Play-Offs</title>
@@ -18055,79 +18055,100 @@
         <title>Hit Thirai - Mangamma Sabatham</title>
     </programme>
     <programme start="20250131160000 +0000" stop="20250131190000 +0000" channel="Vannathirai.starhub">
-        <title>Rajavin Parvaiyilae</title>
+        <title>Ooruku Upadesam</title>
     </programme>
     <programme start="20250131190000 +0000" stop="20250131220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+        <title>Chittu Kuruvi</title>
     </programme>
-    <programme start="20250131220000 +0000" stop="20250201040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250131220000 +0000" stop="20250201003000 +0000" channel="Vannathirai.starhub">
+        <title>Thooral Ninnu Pochu</title>
     </programme>
-    <programme start="20250201040000 +0000" stop="20250201100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201003000 +0000" stop="20250201010000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
     </programme>
-    <programme start="20250201100000 +0000" stop="20250201160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201010000 +0000" stop="20250201040000 +0000" channel="Vannathirai.starhub">
+        <title>Vani Rani</title>
     </programme>
-    <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201040000 +0000" stop="20250201050000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
     </programme>
-    <programme start="20250201220000 +0000" stop="20250202040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201050000 +0000" stop="20250201080000 +0000" channel="Vannathirai.starhub">
+        <title>Oru Velladu Vengaiyagirathu</title>
     </programme>
-    <programme start="20250202040000 +0000" stop="20250202100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201080000 +0000" stop="20250201110000 +0000" channel="Vannathirai.starhub">
+        <title>Punnagai</title>
     </programme>
-    <programme start="20250202100000 +0000" stop="20250202160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201110000 +0000" stop="20250201113000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
     </programme>
-    <programme start="20250202160000 +0000" stop="20250202220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201113000 +0000" stop="20250201120000 +0000" channel="Vannathirai.starhub">
+        <title>Puthu Paattu</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201120000 +0000" stop="20250201130000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
     </programme>
-    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201130000 +0000" stop="20250201160000 +0000" channel="Vannathirai.starhub">
+        <title>Babu</title>
     </programme>
-    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201160000 +0000" stop="20250201190000 +0000" channel="Vannathirai.starhub">
+        <title>Manathil Uruthi Vendum</title>
     </programme>
-    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201190000 +0000" stop="20250201213000 +0000" channel="Vannathirai.starhub">
+        <title>Mudi Sooda Mannan</title>
     </programme>
-    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250201213000 +0000" stop="20250202000000 +0000" channel="Vannathirai.starhub">
+        <title>Naalu Paerukku Nandri</title>
     </programme>
-    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202000000 +0000" stop="20250202030000 +0000" channel="Vannathirai.starhub">
+        <title>Pangali</title>
     </programme>
-    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202030000 +0000" stop="20250202040000 +0000" channel="Vannathirai.starhub">
+        <title>Start Camera Action</title>
     </programme>
-    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202040000 +0000" stop="20250202050000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202050000 +0000" stop="20250202080000 +0000" channel="Vannathirai.starhub">
+        <title>Super Movie</title>
     </programme>
-    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
     </programme>
-    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202090000 +0000" stop="20250202120000 +0000" channel="Vannathirai.starhub">
+        <title>Super Movie</title>
     </programme>
-    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202120000 +0000" stop="20250202130000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
     </programme>
-    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202130000 +0000" stop="20250202160000 +0000" channel="Vannathirai.starhub">
+        <title>Hit Thirai</title>
     </programme>
-    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202160000 +0000" stop="20250202190000 +0000" channel="Vannathirai.starhub">
+        <title>Uruthimozhi</title>
     </programme>
-    <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Vannathirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202190000 +0000" stop="20250202220000 +0000" channel="Vannathirai.starhub">
+        <title>Manthiri Kumari</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250203003000 +0000" channel="Vannathirai.starhub">
+        <title>Chinna Chinna Aasaigal</title>
+    </programme>
+    <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
+    </programme>
+    <programme start="20250203010000 +0000" stop="20250203040000 +0000" channel="Vannathirai.starhub">
+        <title>Nadodi</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203050000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20250203050000 +0000" stop="20250203080000 +0000" channel="Vannathirai.starhub">
+        <title>Jeeva</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203110000 +0000" channel="Vannathirai.starhub">
+        <title>Kanimuthu Paapa</title>
+    </programme>
+    <programme start="20250203110000 +0000" stop="20250203113000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126003000 +0000" channel="Animax HD.starhub">
         <title>Sakura Arrives At Furin</title>
@@ -24753,22 +24774,25 @@
     <programme start="20250127232000 +0000" stop="20250128022500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M39 - Perth Scorchers vs Adelaide Strikers</title>
     </programme>
-    <programme start="20250128012000 +0000" stop="20250128052000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250128022500 +0000" stop="20250128055000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M40 - Melbourne Stars vs Hobart Hurricanes</title>
     </programme>
-    <programme start="20250128052000 +0000" stop="20250128092000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250128055000 +0000" stop="20250128092500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st T20I</title>
     </programme>
-    <programme start="20250128092000 +0000" stop="20250128132000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250128092500 +0000" stop="20250128132000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
     <programme start="20250128132000 +0000" stop="20250128173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
-    <programme start="20250128220000 +0000" stop="20250128232000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250128173000 +0000" stop="20250128220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250128232000 +0000" stop="20250129032000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250128220000 +0000" stop="20250129000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129000000 +0000" stop="20250129032000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
     </programme>
     <programme start="20250129032000 +0000" stop="20250129075500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24783,10 +24807,10 @@
     <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129220000 +0000" stop="20250129231000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129220000 +0000" stop="20250130012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129231000 +0000" stop="20250130031000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250130012500 +0000" stop="20250130031000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
     <programme start="20250130031000 +0000" stop="20250130073000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24829,10 +24853,10 @@
         <title>TATA Indian Premier League 2024: M18 - Sunrisers Hyderabad vs Chennai Super King</title>
     </programme>
     <programme start="20250201080000 +0000" stop="20250201120000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M43 - Challenger</title>
+        <title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
     </programme>
     <programme start="20250201120000 +0000" stop="20250201160000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>KFC Big Bash League 2024/25: M44 - Final</title>
+        <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
     <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -24920,6 +24944,93 @@
     </programme>
     <programme start="20250206075000 +0000" stop="20250206160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st ODI</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250206222500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206222500 +0000" stop="20250207023500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M22 - Chennai Super Kings vs Kolkata Knight Rid</title>
+    </programme>
+    <programme start="20250207023500 +0000" stop="20250207070000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M23 - Punjab Kings vs Sunrisers Hyderabad</title>
+    </programme>
+    <programme start="20250207070000 +0000" stop="20250207120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M24 - Rajasthan Royals vs Gujarat Titans</title>
+    </programme>
+    <programme start="20250207120000 +0000" stop="20250207163000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M25 - Mumbai Indians vs Royal Challengers Benga</title>
+    </programme>
+    <programme start="20250207163000 +0000" stop="20250207220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250207233500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207233500 +0000" stop="20250208040000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M26 - Lucknow Super Giants vs Delhi Capitals</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 5th T20I</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 1st ODI</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250208235000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208235000 +0000" stop="20250209075000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 1st ODI</title>
+    </programme>
+    <programme start="20250209075000 +0000" stop="20250209160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd ODI</title>
+    </programme>
+    <programme start="20250209160000 +0000" stop="20250209220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209220000 +0000" stop="20250209225000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209225000 +0000" stop="20250210031500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M27 - Punjab Kings vs Rajasthan Royals</title>
+    </programme>
+    <programme start="20250210031500 +0000" stop="20250210072500 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M28 - Kolkata Knight Riders vs Lucknow Super Gi</title>
+    </programme>
+    <programme start="20250210072500 +0000" stop="20250210120000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M29 - Mumbai Indians vs Chennai Super Kings</title>
+    </programme>
+    <programme start="20250210120000 +0000" stop="20250210162000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M30 - Royal Challengers Bengaluru vs Sunrisers</title>
+    </programme>
+    <programme start="20250210162000 +0000" stop="20250210220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210220000 +0000" stop="20250211000000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211000000 +0000" stop="20250211080000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 1st ODI</title>
+    </programme>
+    <programme start="20250211080000 +0000" stop="20250211160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd ODI</title>
+    </programme>
+    <programme start="20250211160000 +0000" stop="20250211220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211220000 +0000" stop="20250211235000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211235000 +0000" stop="20250212075000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 2nd ODI</title>
+    </programme>
+    <programme start="20250212075000 +0000" stop="20250212160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>England Tour of India 2025: 3rd ODI</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126010000 +0000" channel="TVB Xing He.starhub">
         <title>Triumph in the Skies II</title>
@@ -32379,8 +32490,11 @@
     <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="beIN Sports 4.starhub">
+    <programme start="20250129160000 +0000" stop="20250129195500 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports 4.starhub">
+        <title>Man City v Club Brugge - MD8 (Live) (300125)</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
@@ -32391,8 +32505,11 @@
     <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="beIN Sports 4.starhub">
+    <programme start="20250130160000 +0000" stop="20250130195500 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130195500 +0000" stop="20250130220000 +0000" channel="beIN Sports 4.starhub">
+        <title>Braga v Lazio - MD8 (Live) (300125)</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
@@ -32472,8 +32589,11 @@
     <programme start="20250129100000 +0000" stop="20250129160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="beIN Sports 5.starhub">
+    <programme start="20250129160000 +0000" stop="20250129195500 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports 5.starhub">
+        <title>Girona v Arsenal - MD8 (Live) (300125)</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
@@ -32484,8 +32604,11 @@
     <programme start="20250130100000 +0000" stop="20250130160000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="beIN Sports 5.starhub">
+    <programme start="20250130160000 +0000" stop="20250130195500 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250130195500 +0000" stop="20250130220000 +0000" channel="beIN Sports 5.starhub">
+        <title>Athletic Bilbao v Plzen - MD8 (Live) (300125)</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250131040000 +0000" channel="beIN Sports 5.starhub">
         <title>End of Transmission</title>

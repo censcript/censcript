@@ -4189,7 +4189,7 @@
         <title>The Chase</title>
     </programme>
     <programme start="20250127210000 +0000" stop="20250127220000 +0000" channel="Challenge">
-        <title>New: The Chase</title>
+        <title>The Chase</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250127230000 +0000" channel="Challenge">
         <title>Tenable S3</title>
@@ -29139,10 +29139,10 @@
     <programme start="20250127121800 +0000" stop="20250127122200 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250127122200 +0000" stop="20250127124000 +0000" channel="Eman Channel">
+    <programme start="20250127122200 +0000" stop="20250127124500 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250127124000 +0000" stop="20250127130000 +0000" channel="Eman Channel">
+    <programme start="20250127124500 +0000" stop="20250127130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="Eman Channel">
