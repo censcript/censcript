@@ -24741,13 +24741,16 @@
     <programme start="20250127080000 +0000" stop="20250127121500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
     </programme>
-    <programme start="20250127121500 +0000" stop="20250127161500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250127121500 +0000" stop="20250127161000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
-    <programme start="20250127161500 +0000" stop="20250127212000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250127161000 +0000" stop="20250127220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250127212000 +0000" stop="20250128012000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250127220000 +0000" stop="20250127232000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250127232000 +0000" stop="20250128022500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M39 - Perth Scorchers vs Adelaide Strikers</title>
     </programme>
     <programme start="20250128012000 +0000" stop="20250128052000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24761,9 +24764,6 @@
     </programme>
     <programme start="20250128132000 +0000" stop="20250128173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
-    </programme>
-    <programme start="20250128173000 +0000" stop="20250128220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250128220000 +0000" stop="20250128232000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
