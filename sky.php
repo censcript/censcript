@@ -15199,7 +15199,7 @@
         <title>Northern Ireland Assembly - Infrastructure Questions</title>
     </programme>
     <programme start="20250127231500 +0000" stop="20250127235500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250127235500 +0000" stop="20250128000500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Introductions</title>

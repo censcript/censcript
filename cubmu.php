@@ -1518,6 +1518,9 @@
     <programme start="20250128155900 +0000" stop="20250127173000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
+    <programme start="20250127170000 +0000" stop="20250127170500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
     <programme start="20250127170500 +0000" stop="20250127173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -2237,6 +2240,9 @@
     </programme>
     <programme start="20250128163000 +0000" stop="20250127170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20250127170000 +0000" stop="20250127170500 +0000" channel="jtv.cubmu">
+        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250127170500 +0000" stop="20250127170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
