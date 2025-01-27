@@ -177,7 +177,7 @@
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Bayer Leverkusen v Werder Bremen</title>
     </programme>
-    <programme start="20250212190000 +0000" stop="20250212220000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
     <programme start="20250214193000 +0000" stop="20250214223000 +0000" channel="Optus Sport 1.optus">
