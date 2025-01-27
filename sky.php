@@ -14911,7 +14911,7 @@
         <title>Bloomberg The Asia Trade</title>
     </programme>
     <programme start="20250126223000 +0000" stop="20250126230000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
+        <title>Click</title>
     </programme>
     <programme start="20250126230000 +0000" stop="20250126233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -24691,7 +24691,7 @@
         <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="QVC Style HD">
-        <title>Digital Innovations featuring Sams</title>
+        <title>Denim &amp; Co Stylish Activewear</title>
     </programme>
     <programme start="20250127140000 +0000" stop="20250127150000 +0000" channel="QVC Style HD">
         <title>New Year, New Kim &amp; Co</title>
@@ -30384,13 +30384,13 @@
     <programme start="20250127040000 +0000" stop="20250127060000 +0000" channel="ATN">
         <title>Music Lounge</title>
     </programme>
-    <programme start="20250127060000 +0000" stop="20250127062500 +0000" channel="ATN">
+    <programme start="20250127060000 +0000" stop="20250127060600 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250127062500 +0000" stop="20250127063000 +0000" channel="ATN">
+    <programme start="20250127060600 +0000" stop="20250127061100 +0000" channel="ATN">
         <title>Fajr Adhaan</title>
     </programme>
-    <programme start="20250127063000 +0000" stop="20250127070000 +0000" channel="ATN">
+    <programme start="20250127061100 +0000" stop="20250127070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250127070000 +0000" stop="20250127073000 +0000" channel="ATN">
@@ -30400,7 +30400,7 @@
         <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250127080000 +0000" stop="20250127083000 +0000" channel="ATN">
-        <title>Obiram Bangladesh</title>
+        <title>Shimana Chariye</title>
     </programme>
     <programme start="20250127083000 +0000" stop="20250127100000 +0000" channel="ATN">
         <title>Music Lounge</title>
@@ -30409,7 +30409,7 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250127103000 +0000" stop="20250127113000 +0000" channel="ATN">
-        <title>bebohar bibhrat</title>
+        <title>Nurul Alomer Modhu chondrima</title>
     </programme>
     <programme start="20250127113000 +0000" stop="20250127115500 +0000" channel="ATN">
         <title>Chobir Gaan</title>
@@ -30417,37 +30417,37 @@
     <programme start="20250127115500 +0000" stop="20250127120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250127120000 +0000" stop="20250127121500 +0000" channel="ATN">
-        <title>Rongin Jorina Shundori</title>
+    <programme start="20250127120000 +0000" stop="20250127122000 +0000" channel="ATN">
+        <title>Rajababu</title>
     </programme>
-    <programme start="20250127121500 +0000" stop="20250127122000 +0000" channel="ATN">
+    <programme start="20250127122000 +0000" stop="20250127122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250127122000 +0000" stop="20250127140000 +0000" channel="ATN">
-        <title>Rongin Jorina Shundori</title>
+    <programme start="20250127122500 +0000" stop="20250127140000 +0000" channel="ATN">
+        <title>Rajababu</title>
     </programme>
-    <programme start="20250127140000 +0000" stop="20250127142500 +0000" channel="ATN">
+    <programme start="20250127140000 +0000" stop="20250127143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250127142500 +0000" stop="20250127143000 +0000" channel="ATN">
+    <programme start="20250127143000 +0000" stop="20250127145500 +0000" channel="ATN">
+        <title>Rajababu</title>
+    </programme>
+    <programme start="20250127145500 +0000" stop="20250127150000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250127143000 +0000" stop="20250127154500 +0000" channel="ATN">
-        <title>Rongin Jorina Shundori</title>
-    </programme>
-    <programme start="20250127154500 +0000" stop="20250127155500 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250127150000 +0000" stop="20250127155500 +0000" channel="ATN">
+        <title>Rajababu</title>
     </programme>
     <programme start="20250127155500 +0000" stop="20250127160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250127160000 +0000" stop="20250127161200 +0000" channel="ATN">
+    <programme start="20250127160000 +0000" stop="20250127164500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250127161200 +0000" stop="20250127161700 +0000" channel="ATN">
+    <programme start="20250127164500 +0000" stop="20250127165000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250127161700 +0000" stop="20250127165500 +0000" channel="ATN">
+    <programme start="20250127165000 +0000" stop="20250127165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250127165500 +0000" stop="20250127170000 +0000" channel="ATN">
@@ -30456,13 +30456,16 @@
     <programme start="20250127170000 +0000" stop="20250127173000 +0000" channel="ATN">
         <title>Gaanbaz Junior</title>
     </programme>
-    <programme start="20250127173000 +0000" stop="20250127175500 +0000" channel="ATN">
+    <programme start="20250127173000 +0000" stop="20250127180000 +0000" channel="ATN">
         <title>Mochibot Unlimited</title>
     </programme>
-    <programme start="20250127175500 +0000" stop="20250127180000 +0000" channel="ATN">
+    <programme start="20250127180000 +0000" stop="20250127182500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250127182500 +0000" stop="20250127183000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250127180000 +0000" stop="20250127185500 +0000" channel="ATN">
+    <programme start="20250127183000 +0000" stop="20250127185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250127185500 +0000" stop="20250127190000 +0000" channel="ATN">
@@ -30475,7 +30478,7 @@
         <title>Shomadhan Kothai</title>
     </programme>
     <programme start="20250127200000 +0000" stop="20250127213000 +0000" channel="ATN">
-        <title>Gole Male Beshamal</title>
+        <title>Alapcharita</title>
     </programme>
     <programme start="20250127213000 +0000" stop="20250127220000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30487,7 +30490,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128000000 +0000" channel="ATN">
-        <title>Asman Jamin</title>
+        <title>Dearing Lover</title>
     </programme>
     <programme start="20250126223000 +0000" stop="20250126230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
