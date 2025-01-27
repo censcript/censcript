@@ -16062,6 +16062,24 @@
     <programme start="20250206140000 +0000" stop="20250206160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Trophy Hassan II Round 1 (JIP)</title>
     </programme>
+    <programme start="20250206160000 +0000" stop="20250206190000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup Round 1</title>
+    </programme>
+    <programme start="20250206190000 +0000" stop="20250206220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207090000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207090000 +0000" stop="20250207140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Commercial Bank Qatar Masters Day 2</title>
+    </programme>
+    <programme start="20250207140000 +0000" stop="20250207160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Trophy Hassan II Round 2 (JIP)</title>
+    </programme>
     <programme start="20250126000000 +0000" stop="20250126010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (26/1/25 Pt2)</title>
     </programme>
@@ -18742,6 +18760,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250125230000 +0000" stop="20250126020000 +0000" channel="SEA Today.starhub">
@@ -32971,6 +33001,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>

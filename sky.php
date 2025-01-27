@@ -15198,29 +15198,32 @@
     <programme start="20250127223000 +0000" stop="20250127231500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Infrastructure Questions</title>
     </programme>
-    <programme start="20250127231500 +0000" stop="20250127235500 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+    <programme start="20250127231500 +0000" stop="20250128000000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
-    <programme start="20250127235500 +0000" stop="20250128000500 +0000" channel="BBC Parl HD">
+    <programme start="20250128000000 +0000" stop="20250128001000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Introductions</title>
     </programme>
-    <programme start="20250128000500 +0000" stop="20250128001500 +0000" channel="BBC Parl HD">
+    <programme start="20250128001000 +0000" stop="20250128002000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Competition...</title>
     </programme>
-    <programme start="20250128001500 +0000" stop="20250128002500 +0000" channel="BBC Parl HD">
+    <programme start="20250128002000 +0000" stop="20250128003500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Attorney...</title>
     </programme>
-    <programme start="20250128002500 +0000" stop="20250128003500 +0000" channel="BBC Parl HD">
+    <programme start="20250128003500 +0000" stop="20250128004500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Agricultural...</title>
     </programme>
-    <programme start="20250128003500 +0000" stop="20250128011500 +0000" channel="BBC Parl HD">
+    <programme start="20250128004500 +0000" stop="20250128012000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Southport Statement</title>
     </programme>
-    <programme start="20250128011500 +0000" stop="20250128055500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Mental Health Bill</title>
-    </programme>
-    <programme start="20250128055500 +0000" stop="20250128070000 +0000" channel="BBC Parl HD">
+    <programme start="20250128012000 +0000" stop="20250128021000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Tax and the Nations Debate</title>
+    </programme>
+    <programme start="20250128021000 +0000" stop="20250128030500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Climate Change Adaptation</title>
+    </programme>
+    <programme start="20250128030500 +0000" stop="20250128070000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Mental Health Bill</title>
     </programme>
     <programme start="20250128070000 +0000" stop="20250128080000 +0000" channel="BBC Parl HD">
         <title>Education Questions</title>
@@ -20038,7 +20041,7 @@
         <title>The Smurfs</title>
     </programme>
     <programme start="20250128081500 +0000" stop="20250128083000 +0000" channel="Nick Jr. HD">
-        <title>The Creature Cases</title>
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250128083000 +0000" stop="20250128090000 +0000" channel="Nick Jr. HD">
         <title>Gabby's Dollhouse</title>
@@ -22840,7 +22843,7 @@
         <title>The Smurfs</title>
     </programme>
     <programme start="20250128091500 +0000" stop="20250128093000 +0000" channel="Nick Jr+1">
-        <title>The Creature Cases</title>
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250128093000 +0000" stop="20250128100000 +0000" channel="Nick Jr+1">
         <title>Gabby's Dollhouse</title>
@@ -24202,7 +24205,7 @@
         <title>The Smurfs</title>
     </programme>
     <programme start="20250128081500 +0000" stop="20250128083000 +0000" channel="Nick Jr.">
-        <title>The Creature Cases</title>
+        <title>The Smurfs</title>
     </programme>
     <programme start="20250128083000 +0000" stop="20250128090000 +0000" channel="Nick Jr.">
         <title>Gabby's Dollhouse</title>
