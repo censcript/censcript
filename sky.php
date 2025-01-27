@@ -13462,10 +13462,10 @@
         <title>NFL NFC Championship Game</title>
     </programme>
     <programme start="20250127123000 +0000" stop="20250127124500 +0000" channel="SkySp NFL HD">
-        <title>NFL DIV PO1: TBC @ TBC 15mins</title>
+        <title>NFL: Texans @ Chiefs Hlts</title>
     </programme>
     <programme start="20250127124500 +0000" stop="20250127130000 +0000" channel="SkySp NFL HD">
-        <title>NFL DIV PO2: TBC @ TBC 15mins hlts</title>
+        <title>NFL: Commanders @ Lions Hlts</title>
     </programme>
     <programme start="20250127130000 +0000" stop="20250127150000 +0000" channel="SkySp NFL HD">
         <title>Live: Good Morning Football</title>
