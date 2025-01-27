@@ -27772,7 +27772,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250127080500 +0000" stop="20250127090000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250127090000 +0000" stop="20250127090500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -27790,7 +27790,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250127110500 +0000" stop="20250127120000 +0000" channel="GEO News">
-        <title>Geo Sports</title>
+        <title>Jirga</title>
     </programme>
     <programme start="20250127120000 +0000" stop="20250127120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -29247,13 +29247,19 @@
     <programme start="20250127060600 +0000" stop="20250127060900 +0000" channel="ARY Digital">
         <title>Azan-e-Fajr</title>
     </programme>
-    <programme start="20250127060900 +0000" stop="20250127111500 +0000" channel="ARY Digital">
+    <programme start="20250127060900 +0000" stop="20250127080000 +0000" channel="ARY Digital">
         <title>Live Pak Vs WI 2nd Test</title>
     </programme>
-    <programme start="20250127111500 +0000" stop="20250127120000 +0000" channel="ARY Digital">
-        <title>Pak Vs WI - Post Match</title>
+    <programme start="20250127080000 +0000" stop="20250127090000 +0000" channel="ARY Digital">
+        <title>Ae Ishq-e-Junoon</title>
     </programme>
-    <programme start="20250127120000 +0000" stop="20250127121800 +0000" channel="ARY Digital">
+    <programme start="20250127090000 +0000" stop="20250127110000 +0000" channel="ARY Digital">
+        <title>Good Morning Pakistan</title>
+    </programme>
+    <programme start="20250127110000 +0000" stop="20250127113000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250127113000 +0000" stop="20250127121800 +0000" channel="ARY Digital">
         <title>Khudsar</title>
     </programme>
     <programme start="20250127121800 +0000" stop="20250127122400 +0000" channel="ARY Digital">
