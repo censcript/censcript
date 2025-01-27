@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250127183000 +0000" stop="20250127190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250128090000 +0000" stop="20250128100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Emmanuel Adebayor</title>
     </programme>

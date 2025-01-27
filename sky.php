@@ -14154,11 +14154,11 @@
     <programme start="20250128064500 +0000" stop="20250128070000 +0000" channel="SkySp Mix HD">
         <title>S/Lge Highlights</title>
     </programme>
-    <programme start="20250128070000 +0000" stop="20250128080000 +0000" channel="SkySp Mix HD">
+    <programme start="20250128070000 +0000" stop="20250128080001 +0000" channel="SkySp Mix HD">
         <title>Fight Nght Int: Nakatani v Chitpattana</title>
     </programme>
-    <programme start="20250128080000 +0000" stop="20250128090000 +0000" channel="SkySp Mix HD">
-        <title>FNI: Mikhailovich v Alimkhanuly</title>
+    <programme start="20250128080001 +0000" stop="20250128090000 +0000" channel="SkySp Mix HD">
+        <title>Fight Night Int: Jonas v Habazin</title>
     </programme>
     <programme start="20250128090000 +0000" stop="20250128100000 +0000" channel="SkySp Mix HD">
         <title>PGA Tour Golf Highlights</title>
@@ -15225,11 +15225,14 @@
     <programme start="20250128070000 +0000" stop="20250128080000 +0000" channel="BBC Parl HD">
         <title>Education Questions</title>
     </programme>
-    <programme start="20250128080000 +0000" stop="20250128093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250128080000 +0000" stop="20250128085500 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Storm Éowyn Statement</title>
     </programme>
-    <programme start="20250128093000 +0000" stop="20250128113000 +0000" channel="BBC Parl HD">
-        <title>Live Select Committees</title>
+    <programme start="20250128085500 +0000" stop="20250128092500 +0000" channel="BBC Parl HD">
+        <title>Agricultural Property Relief Urgent Question</title>
+    </programme>
+    <programme start="20250128092500 +0000" stop="20250128113000 +0000" channel="BBC Parl HD">
+        <title>Live Terminally Ill Adults Bill Committee</title>
     </programme>
     <programme start="20250128113000 +0000" stop="20250128123000 +0000" channel="BBC Parl HD">
         <title>Live Justice Questions</title>
@@ -34995,11 +34998,11 @@
     <programme start="20250128064500 +0000" stop="20250128070000 +0000" channel="SkySp Mix">
         <title>S/Lge Highlights</title>
     </programme>
-    <programme start="20250128070000 +0000" stop="20250128080000 +0000" channel="SkySp Mix">
+    <programme start="20250128070000 +0000" stop="20250128080001 +0000" channel="SkySp Mix">
         <title>Fight Nght Int: Nakatani v Chitpattana</title>
     </programme>
-    <programme start="20250128080000 +0000" stop="20250128090000 +0000" channel="SkySp Mix">
-        <title>FNI: Mikhailovich v Alimkhanuly</title>
+    <programme start="20250128080001 +0000" stop="20250128090000 +0000" channel="SkySp Mix">
+        <title>Fight Night Int: Jonas v Habazin</title>
     </programme>
     <programme start="20250128090000 +0000" stop="20250128100000 +0000" channel="SkySp Mix">
         <title>PGA Tour Golf Highlights</title>
