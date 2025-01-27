@@ -5322,6 +5322,18 @@
     <programme start="20250206100000 +0000" stop="20250206163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250206163000 +0000" stop="20250206220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250126000000 +0000" stop="20250126005500 +0000" channel="HISTORY HD.starhub">
         <title>The UFO Superhighway</title>
     </programme>
@@ -28473,6 +28485,18 @@
     <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250125234900 +0000" stop="20250126001000 +0000" channel="HBO Family HD.starhub">
         <title>The Gauntlet</title>
     </programme>
@@ -30969,6 +30993,18 @@
     <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250125220000 +0000" stop="20250126040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32782,6 +32818,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250207040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250125220000 +0000" stop="20250126040000 +0000" channel="Hub Sports 5 HD.starhub">
