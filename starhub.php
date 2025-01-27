@@ -6619,7 +6619,7 @@
         <title>News &amp; Weather (R)</title>
     </programme>
     <programme start="20250126162500 +0000" stop="20250126163000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone (R)</title>
+        <title>Songs for Everyone</title>
     </programme>
     <programme start="20250126163000 +0000" stop="20250126180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Earth Railway Part 2 &quot;Shangri-La of Water&quot;</title>
@@ -11170,7 +11170,7 @@
         <title>Mini Match - Bundesliga 2024/25: St. Pauli vs FC Union</title>
     </programme>
     <programme start="20250128100000 +0000" stop="20250128103000 +0000" channel="beIN Sports HD.starhub">
-        <title>RIDE FEI Originals 2024</title>
+        <title>Valley Vaulters, Regal Retirees &amp; Gentle Gypsies</title>
     </programme>
     <programme start="20250128103000 +0000" stop="20250128110000 +0000" channel="beIN Sports HD.starhub">
         <title>Rolex Sydney Hobart Yacht Race</title>
@@ -11203,7 +11203,7 @@
         <title>USA</title>
     </programme>
     <programme start="20250128210000 +0000" stop="20250128213000 +0000" channel="beIN Sports HD.starhub">
-        <title>RIDE FEI Originals 2024</title>
+        <title>Valley Vaulters, Regal Retirees &amp; Gentle Gypsies</title>
     </programme>
     <programme start="20250128213000 +0000" stop="20250128232000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Sevilla vs Espanyol</title>
@@ -11266,7 +11266,7 @@
         <title>LaLiga 2024/25: Alaves vs Celta Vigo</title>
     </programme>
     <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2024/25: PSV vs Liverpool - MD8 (Live)</title>
+        <title>UEFA Champions League 2024/25: Brest vs Real Madrid - MD8 (Live)</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250129222000 +0000" channel="beIN Sports HD.starhub">
         <title>Chapter Three</title>
@@ -11308,7 +11308,7 @@
         <title>Conquering Mont-Blanc - the path to UTMB</title>
     </programme>
     <programme start="20250130110000 +0000" stop="20250130113000 +0000" channel="beIN Sports HD.starhub">
-        <title>RIDE FEI Originals 2024</title>
+        <title>Valley Vaulters, Regal Retirees &amp; Gentle Gypsies</title>
     </programme>
     <programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="beIN Sports HD.starhub">
         <title>Rolex Sydney Hobart Yacht Race</title>
@@ -14718,10 +14718,10 @@
     <programme start="20250128103000 +0000" stop="20250128123000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 16 Al Khaleej vs Al Nassr</title>
     </programme>
-    <programme start="20250128123000 +0000" stop="20250128150000 +0000" channel="SPOTV.starhub">
+    <programme start="20250128123000 +0000" stop="20250128145000 +0000" channel="SPOTV.starhub">
         <title>Dubai Marathon 2025</title>
     </programme>
-    <programme start="20250128150000 +0000" stop="20250128180000 +0000" channel="SPOTV.starhub">
+    <programme start="20250128145000 +0000" stop="20250128180000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
     </programme>
     <programme start="20250128180000 +0000" stop="20250128190000 +0000" channel="SPOTV.starhub">
@@ -14730,19 +14730,19 @@
     <programme start="20250128190000 +0000" stop="20250128200000 +0000" channel="SPOTV.starhub">
         <title>Highlights Part 2</title>
     </programme>
-    <programme start="20250128200000 +0000" stop="20250129013000 +0000" channel="SPOTV.starhub">
+    <programme start="20250128200000 +0000" stop="20250129010500 +0000" channel="SPOTV.starhub">
         <title>Round 10 Race 20</title>
     </programme>
-    <programme start="20250129013000 +0000" stop="20250129033000 +0000" channel="SPOTV.starhub">
+    <programme start="20250129010500 +0000" stop="20250129032000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 1 Oman vs Saudi</title>
     </programme>
-    <programme start="20250129033000 +0000" stop="20250129053000 +0000" channel="SPOTV.starhub">
+    <programme start="20250129032000 +0000" stop="20250129052000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
-    <programme start="20250129053000 +0000" stop="20250129073000 +0000" channel="SPOTV.starhub">
+    <programme start="20250129052000 +0000" stop="20250129074000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 3: Madison vs Atlanta</title>
     </programme>
-    <programme start="20250129073000 +0000" stop="20250129093000 +0000" channel="SPOTV.starhub">
+    <programme start="20250129074000 +0000" stop="20250129093000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 3: Omaha vs Austin</title>
     </programme>
     <programme start="20250129093000 +0000" stop="20250129103000 +0000" channel="SPOTV.starhub">
@@ -14769,20 +14769,20 @@
     <programme start="20250129190000 +0000" stop="20250130000000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Final</title>
     </programme>
-    <programme start="20250130000000 +0000" stop="20250130023000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
-    </programme>
-    <programme start="20250130023000 +0000" stop="20250130033000 +0000" channel="SPOTV.starhub">
+    <programme start="20250130000000 +0000" stop="20250130010000 +0000" channel="SPOTV.starhub">
         <title>Match Week 17</title>
+    </programme>
+    <programme start="20250130010000 +0000" stop="20250130033000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
     </programme>
     <programme start="20250130033000 +0000" stop="20250130060000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Final Oman vs Bahrain</title>
     </programme>
-    <programme start="20250130060000 +0000" stop="20250130090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250130060000 +0000" stop="20250130083000 +0000" channel="SPOTV.starhub">
         <title>Year Review</title>
     </programme>
-    <programme start="20250130090000 +0000" stop="20250130110000 +0000" channel="SPOTV.starhub">
-        <title>ROSHN Saudi League 2024/25 Matchday 17 Al Qadsiah v Al Hilal</title>
+    <programme start="20250130083000 +0000" stop="20250130110000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Jorge Martin World Champion</title>
     </programme>
     <programme start="20250130110000 +0000" stop="20250130113000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
@@ -15337,7 +15337,7 @@
         <title>UEFA Champions League 2024/25 Celtic vs Young Boys - MD7</title>
     </programme>
     <programme start="20250128032000 +0000" stop="20250128052000 +0000" channel="beIN Sports 3.starhub">
-        <title>Arsenal TV Classic 2024/25 Arsenal vs Norwich</title>
+        <title>Arsenal TV Classic 2024/25 Arsenal vs Liverpool</title>
     </programme>
     <programme start="20250128052000 +0000" stop="20250128072000 +0000" channel="beIN Sports 3.starhub">
         <title>Arsenal TV 2024/25 Wolves vs Arsenal</title>
@@ -15421,7 +15421,7 @@
         <title>Wed,MD8</title>
     </programme>
     <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 Barcelona vs Atalanta - MD8 (Live)</title>
+        <title>UEFA Champions League 2024/25 Man City vs Club Brugge - MD8 (Live)</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250129230000 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,MD8</title>
@@ -15433,7 +15433,7 @@
         <title>UEFA Champions League 2024/25 Girona vs Arsenal - MD8</title>
     </programme>
     <programme start="20250130024000 +0000" stop="20250130043000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 Man City vs Club Brugge - MD8</title>
+        <title>UEFA Champions League 2024/25 Barcelona vs Atalanta - MD8</title>
     </programme>
     <programme start="20250130043000 +0000" stop="20250130062000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25 Bayern vs Slovan Bratislava - MD8</title>
@@ -15445,31 +15445,31 @@
         <title>UEFA Champions League 2024/25 Salzburg vs Atletico Madrid - MD8</title>
     </programme>
     <programme start="20250130100000 +0000" stop="20250130115000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 Brest vs Real Madrid - MD8</title>
+        <title>UEFA Champions League 2024/25 PSV vs Liverpool - MD8</title>
     </programme>
     <programme start="20250130115000 +0000" stop="20250130125000 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,MD8</title>
     </programme>
     <programme start="20250130125000 +0000" stop="20250130144000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 PSV vs Liverpool - MD8</title>
+        <title>UEFA Champions League 2024/25 Man City vs Club Brugge - MD8</title>
     </programme>
     <programme start="20250130144000 +0000" stop="20250130163000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 Barcelona vs Atalanta - MD8</title>
+        <title>UEFA Champions League 2024/25 Stuttgart vs PSG - MD8</title>
     </programme>
-    <programme start="20250130163000 +0000" stop="20250130173000 +0000" channel="beIN Sports 3.starhub">
-        <title>Wed,MD8</title>
-    </programme>
-    <programme start="20250130173000 +0000" stop="20250130192500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250130163000 +0000" stop="20250130182500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25 Leverkusen vs Sparta Prague - MD8</title>
     </programme>
-    <programme start="20250130192500 +0000" stop="20250130195500 +0000" channel="beIN Sports 3.starhub">
-        <title>UEL MD7 Review &amp; MD8 Preview</title>
+    <programme start="20250130182500 +0000" stop="20250130193000 +0000" channel="beIN Sports 3.starhub">
+        <title>Wed,MD8</title>
+    </programme>
+    <programme start="20250130193000 +0000" stop="20250130195500 +0000" channel="beIN Sports 3.starhub">
+        <title>MD8</title>
     </programme>
     <programme start="20250130195500 +0000" stop="20250130220000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 FCSB vs Man United - MD8 (Live)</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="beIN Sports 3.starhub">
-        <title>Wed,MD8</title>
+        <title>MD8</title>
     </programme>
     <programme start="20250130230000 +0000" stop="20250131005000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Ajax vs Galatasaray - MD8</title>
@@ -15496,7 +15496,7 @@
         <title>Knockout RD Play-Offs</title>
     </programme>
     <programme start="20250131113000 +0000" stop="20250131120000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Champions League 2024/25</title>
+        <title>Mini Match - UEFA Champions League 2024/25 PSV vs Liverpool - MD8</title>
     </programme>
     <programme start="20250131120000 +0000" stop="20250131123000 +0000" channel="beIN Sports 3.starhub">
         <title>Knockout RD Play-Offs</title>
@@ -32494,7 +32494,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports 4.starhub">
-        <title>Man City v Club Brugge - MD8 (Live) (300125)</title>
+        <title>PSV v Liverpool - MD8 (Live) (300125)</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="beIN Sports 4.starhub">
         <title>End of Transmission</title>
