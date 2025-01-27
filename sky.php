@@ -28174,22 +28174,22 @@
         <title>Quran Sub Kay Liye</title>
     </programme>
     <programme start="20250127060000 +0000" stop="20250127070000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250127070000 +0000" stop="20250127080000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250127080000 +0000" stop="20250127090000 +0000" channel="GEO TV">
         <title>Guddi</title>
     </programme>
     <programme start="20250127090000 +0000" stop="20250127100000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250127100000 +0000" stop="20250127110000 +0000" channel="GEO TV">
-        <title>Habil aur Qabil</title>
+        <title>Dao</title>
     </programme>
     <programme start="20250127110000 +0000" stop="20250127120000 +0000" channel="GEO TV">
-        <title>Dil-e-Naadan</title>
+        <title>Guddi</title>
     </programme>
     <programme start="20250127120000 +0000" stop="20250127130000 +0000" channel="GEO TV">
         <title>Bajjo</title>
@@ -28197,14 +28197,11 @@
     <programme start="20250127130000 +0000" stop="20250127140000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250127140000 +0000" stop="20250127143000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+    <programme start="20250127140000 +0000" stop="20250127150000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
-    <programme start="20250127143000 +0000" stop="20250127153000 +0000" channel="GEO TV">
-        <title>Tauba</title>
-    </programme>
-    <programme start="20250127153000 +0000" stop="20250127160000 +0000" channel="GEO TV">
-        <title>Guddi</title>
+    <programme start="20250127150000 +0000" stop="20250127160000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250127160000 +0000" stop="20250127170000 +0000" channel="GEO TV">
         <title>Guddi</title>
@@ -28225,7 +28222,7 @@
         <title>Dil-e-Naadan</title>
     </programme>
     <programme start="20250127210000 +0000" stop="20250127220000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250127230000 +0000" channel="GEO TV">
         <title>Guddi</title>
@@ -29214,8 +29211,11 @@
     <programme start="20250127194500 +0000" stop="20250127211500 +0000" channel="Eman Channel">
         <title>Recital Revival</title>
     </programme>
-    <programme start="20250127211500 +0000" stop="20250127220000 +0000" channel="Eman Channel">
+    <programme start="20250127211500 +0000" stop="20250127214500 +0000" channel="Eman Channel">
         <title>40 Ahadeeth</title>
+    </programme>
+    <programme start="20250127214500 +0000" stop="20250127220000 +0000" channel="Eman Channel">
+        <title>Trials of Prophet Ibrahim</title>
     </programme>
     <programme start="20250127220000 +0000" stop="20250127221500 +0000" channel="Eman Channel">
         <title>Raised Hands</title>
