@@ -603,59 +603,95 @@
     <programme start="20250127160000 +0000" stop="20250128160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 1st February, Saturday 5.50pm. 2024/25 Singapore Cup: Tampines Rovers vs Brunei DPMM</title>
     </programme>
-    <programme start="20250126160000 +0000" stop="20250126170000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250126160000 +0000" stop="20250126171000 +0000" channel="now-80s.mewatch">
+        <title>80s Number 1s With Pat Sharp</title>
     </programme>
-    <programme start="20250126170000 +0000" stop="20250126180000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250126171000 +0000" stop="20250126180000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
     </programme>
-    <programme start="20250126180000 +0000" stop="20250126230000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems!</title>
+    <programme start="20250126180000 +0000" stop="20250126210000 +0000" channel="now-80s.mewatch">
+        <title>It Spent How Long At No.1 ?!</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250126210000 +0000" stop="20250126220000 +0000" channel="now-80s.mewatch">
+        <title>80s Number 1s With Pat Sharp</title>
     </programme>
-    <programme start="20250127000000 +0000" stop="20250127040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="now-80s.mewatch">
+        <title>80s Number 1s With Pat Sharp</title>
     </programme>
-    <programme start="20250127040000 +0000" stop="20250127050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250126230000 +0000" stop="20250127010000 +0000" channel="now-80s.mewatch">
+        <title>80s Stars - Then &amp; Now!</title>
     </programme>
-    <programme start="20250127050000 +0000" stop="20250127100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250127010000 +0000" stop="20250127031500 +0000" channel="now-80s.mewatch">
+        <title>Matt Goss&#039; Famous Pop Of The 80s!</title>
     </programme>
-    <programme start="20250127100000 +0000" stop="20250127110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250127031500 +0000" stop="20250127040000 +0000" channel="now-80s.mewatch">
+        <title>80s Flashback Frenzy!</title>
     </programme>
-    <programme start="20250127110000 +0000" stop="20250127120000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250127040000 +0000" stop="20250127103000 +0000" channel="now-80s.mewatch">
+        <title>Essential 80s: The No 3s</title>
     </programme>
-    <programme start="20250127120000 +0000" stop="20250127170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies!</title>
+    <programme start="20250127103000 +0000" stop="20250127113000 +0000" channel="now-80s.mewatch">
+        <title>It Spent How Long At No.1 ?!</title>
+    </programme>
+    <programme start="20250127113000 +0000" stop="20250127131000 +0000" channel="now-80s.mewatch">
+        <title>Alternative 80s! With Wayne Hussey</title>
+    </programme>
+    <programme start="20250127131000 +0000" stop="20250127140000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250127140000 +0000" stop="20250127170500 +0000" channel="now-80s.mewatch">
+        <title>Stuff For The Cool Kids! Top 40</title>
     </programme>
     <programme start="20250126100000 +0000" stop="20250126195900 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250126195900 +0000" stop="20250126210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250126160000 +0000" stop="20250126161000 +0000" channel="now-70s.mewatch">
+        <title>Fleetwood Mac! 1975-1989</title>
     </programme>
-    <programme start="20250126210000 +0000" stop="20250126220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250126161000 +0000" stop="20250126170000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
     </programme>
-    <programme start="20250126220000 +0000" stop="20250126225900 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250126170000 +0000" stop="20250126173000 +0000" channel="now-70s.mewatch">
+        <title>All Were Top 5 January Hits! 70-79</title>
     </programme>
-    <programme start="20250126225900 +0000" stop="20250127000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250126173000 +0000" stop="20250126182500 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed!</title>
     </programme>
-    <programme start="20250127000000 +0000" stop="20250127090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250126182500 +0000" stop="20250126202500 +0000" channel="now-70s.mewatch">
+        <title>Bruno&#039;s Can You Believe It?!</title>
     </programme>
-    <programme start="20250127090000 +0000" stop="20250127100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250126202500 +0000" stop="20250126212500 +0000" channel="now-70s.mewatch">
+        <title>Fleetwood Mac! 1975-1989</title>
     </programme>
-    <programme start="20250127100000 +0000" stop="20250127195900 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250126212500 +0000" stop="20250126213500 +0000" channel="now-70s.mewatch">
+        <title>Fleetwood Mac! 1975-1989</title>
+    </programme>
+    <programme start="20250126213500 +0000" stop="20250126220000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
+    </programme>
+    <programme start="20250126220000 +0000" stop="20250127053500 +0000" channel="now-70s.mewatch">
+        <title>Now 100 Hits: Love Songs!</title>
+    </programme>
+    <programme start="20250127053500 +0000" stop="20250127060000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love!</title>
+    </programme>
+    <programme start="20250127060000 +0000" stop="20250127103000 +0000" channel="now-70s.mewatch">
+        <title>Lessons In Love! 70s V 80s</title>
+    </programme>
+    <programme start="20250127103000 +0000" stop="20250127110000 +0000" channel="now-70s.mewatch">
+        <title>All Were Top 5 January Hits! 70-79</title>
+    </programme>
+    <programme start="20250127110000 +0000" stop="20250127113000 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed!</title>
+    </programme>
+    <programme start="20250127113000 +0000" stop="20250127133000 +0000" channel="now-70s.mewatch">
+        <title>Unforgettable! Top 30</title>
+    </programme>
+    <programme start="20250127133000 +0000" stop="20250127140000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love!</title>
+    </programme>
+    <programme start="20250127140000 +0000" stop="20250127160500 +0000" channel="now-70s.mewatch">
+        <title>All Were Top 5 January Hits! 70-79</title>
     </programme>
     <programme start="20250126160000 +0000" stop="20250126220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
