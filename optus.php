@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250127170000 +0000" stop="20250127180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250127183000 +0000" stop="20250127190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>

@@ -7401,11 +7401,14 @@
     <programme start="20250128045000 +0000" stop="20250128054000 +0000" channel="Channel 5+1">
         <title>Yorkshire: A Year in the Wild</title>
     </programme>
-    <programme start="20250128054000 +0000" stop="20250128060800 +0000" channel="Channel 5+1">
-        <title>Divine Designs</title>
-    </programme>
-    <programme start="20250128060800 +0000" stop="20250128063500 +0000" channel="Channel 5+1">
+    <programme start="20250128054000 +0000" stop="20250128060000 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
+    </programme>
+    <programme start="20250128060000 +0000" stop="20250128060500 +0000" channel="Channel 5+1">
+        <title>This is Channel 5 +1</title>
+    </programme>
+    <programme start="20250128060500 +0000" stop="20250128063500 +0000" channel="Channel 5+1">
+        <title>Wildlife SOS</title>
     </programme>
     <programme start="20250128063500 +0000" stop="20250128064000 +0000" channel="Channel 5+1">
         <title>Entertainment News on 5</title>
@@ -28044,11 +28047,8 @@
     <programme start="20250127200000 +0000" stop="20250128000000 +0000" channel="Islam Channel">
         <title>Orphans in Need Live Appeal</title>
     </programme>
-    <programme start="20250128000000 +0000" stop="20250128003000 +0000" channel="Islam Channel">
-        <title>Islam Channel News</title>
-    </programme>
-    <programme start="20250128003000 +0000" stop="20250128010000 +0000" channel="Islam Channel">
-        <title>In Conversation Grace Pandor</title>
+    <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="Islam Channel">
+        <title>Orphans in Need Live Appeal</title>
     </programme>
     <programme start="20250128010000 +0000" stop="20250128025500 +0000" channel="Islam Channel">
         <title>Salaam Britain</title>
