@@ -13242,17 +13242,17 @@
     <programme start="20250127050000 +0000" stop="20250127060000 +0000" channel="SkySp Golf HD">
         <title>Farmers Insurance Open 2019 Hlts</title>
     </programme>
-    <programme start="20250127060000 +0000" stop="20250127140000 +0000" channel="SkySp Golf HD">
+    <programme start="20250127060000 +0000" stop="20250127090000 +0000" channel="SkySp Golf HD">
         <title>APGA Tour Golf</title>
+    </programme>
+    <programme start="20250127090000 +0000" stop="20250127140000 +0000" channel="SkySp Golf HD">
+        <title>DP World Tour Golf</title>
     </programme>
     <programme start="20250127140000 +0000" stop="20250127170000 +0000" channel="SkySp Golf HD">
         <title>APGA Tour Golf</title>
     </programme>
-    <programme start="20250127170000 +0000" stop="20250127180000 +0000" channel="SkySp Golf HD">
+    <programme start="20250127170000 +0000" stop="20250127190000 +0000" channel="SkySp Golf HD">
         <title>TGL: NYGC v Atlanta Drive GC</title>
-    </programme>
-    <programme start="20250127180000 +0000" stop="20250127190000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories: J Rose</title>
     </programme>
     <programme start="20250127190000 +0000" stop="20250127193000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
@@ -13266,11 +13266,8 @@
     <programme start="20250127210000 +0000" stop="20250127213000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
-    <programme start="20250127213000 +0000" stop="20250127220000 +0000" channel="SkySp Golf HD">
+    <programme start="20250127213000 +0000" stop="20250127223000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf Highlights</title>
-    </programme>
-    <programme start="20250127220000 +0000" stop="20250127223000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories: J Rose</title>
     </programme>
     <programme start="20250127223000 +0000" stop="20250127230000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
