@@ -19839,12 +19839,6 @@
     <programme start="20250127163000 +0000" stop="20250127170000 +0000" channel="Zee Tamil.starhub">
         <title>Nee Pathi Naan Paathi</title>
     </programme>
-    <programme start="20250127170000 +0000" stop="20250127171500 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
-    </programme>
-    <programme start="20250127171500 +0000" stop="20250127173000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
-    </programme>
     <programme start="20250127173000 +0000" stop="20250127180000 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
     </programme>
@@ -19890,53 +19884,44 @@
     <programme start="20250128000000 +0000" stop="20250128003000 +0000" channel="Zee Tamil.starhub">
         <title>Sembaruthi</title>
     </programme>
-    <programme start="20250128003000 +0000" stop="20250128010000 +0000" channel="Zee Tamil.starhub">
-        <title>Sembaruthi</title>
+    <programme start="20250128003000 +0000" stop="20250128033000 +0000" channel="Zee Tamil.starhub">
+        <title>Kizhakkum Merkkum</title>
     </programme>
-    <programme start="20250128010000 +0000" stop="20250128013000 +0000" channel="Zee Tamil.starhub">
-        <title>Thirumathi Hitler</title>
-    </programme>
-    <programme start="20250128013000 +0000" stop="20250128023000 +0000" channel="Zee Tamil.starhub">
-        <title>Genes S02</title>
-    </programme>
-    <programme start="20250128023000 +0000" stop="20250128030000 +0000" channel="Zee Tamil.starhub">
-        <title>Nenjathai Killadhe</title>
-    </programme>
-    <programme start="20250128030000 +0000" stop="20250128060000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250128060000 +0000" stop="20250128063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Raja Ranguski</title>
-    </programme>
-    <programme start="20250128063000 +0000" stop="20250128070000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250128033000 +0000" stop="20250128040000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
-    <programme start="20250128070000 +0000" stop="20250128073000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
-    </programme>
-    <programme start="20250128073000 +0000" stop="20250128080000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
-    </programme>
-    <programme start="20250128080000 +0000" stop="20250128083000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250128040000 +0000" stop="20250128043000 +0000" channel="Zee Tamil.starhub">
         <title>Valliyin Velan</title>
     </programme>
-    <programme start="20250128083000 +0000" stop="20250128090000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+    <programme start="20250128043000 +0000" stop="20250128050000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
+    <programme start="20250128050000 +0000" stop="20250128053000 +0000" channel="Zee Tamil.starhub">
+        <title>Mounam Pesiyathey</title>
+    </programme>
+    <programme start="20250128053000 +0000" stop="20250128060000 +0000" channel="Zee Tamil.starhub">
+        <title>Manasellam</title>
+    </programme>
+    <programme start="20250128060000 +0000" stop="20250128063000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Balle Vellaya Theva</title>
+    </programme>
+    <programme start="20250128063000 +0000" stop="20250128090000 +0000" channel="Zee Tamil.starhub">
+        <title>Captain</title>
     </programme>
     <programme start="20250128090000 +0000" stop="20250128093000 +0000" channel="Zee Tamil.starhub">
         <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250128093000 +0000" stop="20250128100000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
-    </programme>
-    <programme start="20250128100000 +0000" stop="20250128103000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
     </programme>
+    <programme start="20250128100000 +0000" stop="20250128103000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
+    </programme>
     <programme start="20250128103000 +0000" stop="20250128110000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithaen Vanthai</title>
+        <title>Gettimelam</title>
     </programme>
     <programme start="20250128110000 +0000" stop="20250128113000 +0000" channel="Zee Tamil.starhub">
-        <title>Nenjathai Killadhe</title>
+        <title>Gettimelam</title>
     </programme>
     <programme start="20250128113000 +0000" stop="20250128120000 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
@@ -19956,23 +19941,38 @@
     <programme start="20250128140000 +0000" stop="20250128143000 +0000" channel="Zee Tamil.starhub">
         <title>Idhayam</title>
     </programme>
-    <programme start="20250128143000 +0000" stop="20250128150000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Raja Ranguski</title>
+    <programme start="20250128143000 +0000" stop="20250128144500 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20250128144500 +0000" stop="20250128150000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
     </programme>
     <programme start="20250128150000 +0000" stop="20250128153000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+        <title>KCKC - Balle Vellaya Theva</title>
     </programme>
     <programme start="20250128153000 +0000" stop="20250128160000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250128160000 +0000" stop="20250128163000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
+        <title>KCKC - Balle Vellaya Theva</title>
     </programme>
     <programme start="20250128163000 +0000" stop="20250128170000 +0000" channel="Zee Tamil.starhub">
-        <title>Nee Pathi Naan Paathi</title>
+        <title>Zee Flix</title>
     </programme>
     <programme start="20250128170000 +0000" stop="20250128173000 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+        <title>Sandhya Raagam</title>
+    </programme>
+    <programme start="20250128173000 +0000" stop="20250128180000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250128180000 +0000" stop="20250128183000 +0000" channel="Zee Tamil.starhub">
+        <title>Valliyin Velan</title>
+    </programme>
+    <programme start="20250128183000 +0000" stop="20250128190000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
+    <programme start="20250128190000 +0000" stop="20250128193000 +0000" channel="Zee Tamil.starhub">
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126001500 +0000" channel="France24.starhub">
         <title>The News</title>
