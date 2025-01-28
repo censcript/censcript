@@ -30447,8 +30447,11 @@
     <programme start="20250129013000 +0000" stop="20250129020000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
     </programme>
-    <programme start="20250129020000 +0000" stop="20250129050000 +0000" channel="CHSTV">
-        <title>Dhakar King</title>
+    <programme start="20250129020000 +0000" stop="20250129040000 +0000" channel="CHSTV">
+        <title>Golapi Ekhon Train-E</title>
+    </programme>
+    <programme start="20250129040000 +0000" stop="20250129050000 +0000" channel="CHSTV">
+        <title>Laily Mojnur Agun Pan</title>
     </programme>
     <programme start="20250129050000 +0000" stop="20250129060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
@@ -38488,7 +38491,7 @@
         <title>Radio Wales Breakfast</title>
     </programme>
     <programme start="20250129090000 +0000" stop="20250129115900 +0000" channel="BBC R Wales">
-        <title>Wynne Evans</title>
+        <title>Robin Morgan</title>
     </programme>
     <programme start="20250129115900 +0000" stop="20250129140000 +0000" channel="BBC R Wales">
         <title>The Phone In</title>
