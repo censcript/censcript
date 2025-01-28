@@ -1041,9 +1041,6 @@
     <programme start="20250126230000 +0000" stop="20250126233000 +0000" channel="FashionTV HD.starhub">
         <title>Beauty</title>
     </programme>
-    <programme start="20250126233000 +0000" stop="20250127000000 +0000" channel="FashionTV HD.starhub">
-        <title>Beauty</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127003000 +0000" channel="FashionTV HD.starhub">
         <title>Fashion From Germany</title>
     </programme>
@@ -1199,6 +1196,9 @@
     </programme>
     <programme start="20250128013000 +0000" stop="20250128020000 +0000" channel="FashionTV HD.starhub">
         <title>Sara Sampaio</title>
+    </programme>
+    <programme start="20250128020000 +0000" stop="20250128023000 +0000" channel="FashionTV HD.starhub">
+        <title>Fashion Destination: Maldives</title>
     </programme>
     <programme start="20250125235500 +0000" stop="20250126002000 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>Donnie Goes Deep</title>
@@ -2172,9 +2172,6 @@
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="ETTV ASIA HD.starhub">
         <title>All Star Quiz Show</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Dee Girl&#039;s Talk</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="ETTV ASIA HD.starhub">
         <title>Tonight Like War</title>
     </programme>
@@ -2399,6 +2396,9 @@
     </programme>
     <programme start="20250129200000 +0000" stop="20250129210000 +0000" channel="ETTV ASIA HD.starhub">
         <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
+    </programme>
+    <programme start="20250129210000 +0000" stop="20250129220000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>Hello. Are you ok ?</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
@@ -5172,13 +5172,13 @@
     <programme start="20250128133000 +0000" stop="20250128163000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20250128163000 +0000" stop="20250128190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128163000 +0000" stop="20250128193000 +0000" channel="Asianet Movies.starhub">
         <title>King Of Kotha</title>
     </programme>
-    <programme start="20250128190000 +0000" stop="20250128220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128193000 +0000" stop="20250128214000 +0000" channel="Asianet Movies.starhub">
         <title>Achayans</title>
     </programme>
-    <programme start="20250128220000 +0000" stop="20250128233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250128214000 +0000" stop="20250128233000 +0000" channel="Asianet Movies.starhub">
         <title>Anwar</title>
     </programme>
     <programme start="20250128233000 +0000" stop="20250129013000 +0000" channel="Asianet Movies.starhub">
@@ -9042,9 +9042,6 @@
     <programme start="20250126223000 +0000" stop="20250126230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Cultural Canvas</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (27/1/25 Pt1)</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Morning Express (27/1/25 Pt2)</title>
     </programme>
@@ -9233,6 +9230,9 @@
     </programme>
     <programme start="20250128130000 +0000" stop="20250128140000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Evening Express (28/1/25)</title>
+    </programme>
+    <programme start="20250128140000 +0000" stop="20250128143000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Zoom In</title>
     </programme>
     <programme start="20250125235500 +0000" stop="20250126011000 +0000" channel="KBS World HD.starhub">
         <title>Good Manager</title>
@@ -14445,9 +14445,6 @@
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="Cartoon Network.starhub">
         <title>Carried Away Bear</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="Cartoon Network.starhub">
-        <title>Dog Hand/Brain Food/The Date/Little Buddies/Laundry Day</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127000600 +0000" channel="Cartoon Network.starhub">
         <title>Sky&#039;s The Limit/Colourful Chase</title>
     </programme>
@@ -14633,6 +14630,9 @@
     </programme>
     <programme start="20250128150000 +0000" stop="20250128160000 +0000" channel="Cartoon Network.starhub">
         <title>It Could Have Been Great/Message Received/Log Date 7-15-2/Mindful Education/Future Boy Zoltron</title>
+    </programme>
+    <programme start="20250128160000 +0000" stop="20250128170000 +0000" channel="Cartoon Network.starhub">
+        <title>Falafel&#039;s Fun Day/Apple&#039;s In Trouble/Nothing Can Stop Us/Good Job/4 On 1</title>
     </programme>
     <programme start="20250125223000 +0000" stop="20250126010000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 3: Madison vs Atlanta</title>
@@ -17403,9 +17403,6 @@
     <programme start="20250126230000 +0000" stop="20250126233000 +0000" channel="CCTV-4.starhub">
         <title>China News</title>
     </programme>
-    <programme start="20250126233000 +0000" stop="20250127000000 +0000" channel="CCTV-4.starhub">
-        <title>Focus Today</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
     </programme>
@@ -17579,6 +17576,9 @@
     </programme>
     <programme start="20250128163000 +0000" stop="20250128170000 +0000" channel="CCTV-4.starhub">
         <title>China Showbiz</title>
+    </programme>
+    <programme start="20250128170000 +0000" stop="20250128173000 +0000" channel="CCTV-4.starhub">
+        <title>Memory Of China</title>
     </programme>
     <programme start="20250125233000 +0000" stop="20250126020000 +0000" channel="Asianet.starhub">
         <title>Crazy Gopalan</title>
@@ -21414,9 +21414,6 @@
     <programme start="20250126232500 +0000" stop="20250126233000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Kaizoku: Noshima Island</title>
     </programme>
-    <programme start="20250126233000 +0000" stop="20250127000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Highlights</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127001000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
@@ -21473,6 +21470,9 @@
     </programme>
     <programme start="20250127041500 +0000" stop="20250127043000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline In Depth</title>
+    </programme>
+    <programme start="20250127043000 +0000" stop="20250127050000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Grand Sumo Highlights</title>
     </programme>
     <programme start="20250125235000 +0000" stop="20250126012500 +0000" channel="HBO Hits HD.starhub">
         <title>Ella Enchanted</title>
@@ -21861,9 +21861,6 @@
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="BBC Lifestyle.starhub">
         <title>Season Premiere and Biscuit Week</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="BBC Lifestyle.starhub">
-        <title>Sort Your Life Out (S2)</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127003000 +0000" channel="BBC Lifestyle.starhub">
         <title>Jamie&#039;s One-Pan Wonders (S1)</title>
     </programme>
@@ -22073,6 +22070,9 @@
     </programme>
     <programme start="20250129081500 +0000" stop="20250129091000 +0000" channel="BBC Lifestyle.starhub">
         <title>Grand Designs (S20)</title>
+    </programme>
+    <programme start="20250129091000 +0000" stop="20250129100500 +0000" channel="BBC Lifestyle.starhub">
+        <title>Episode 9: Autumn</title>
     </programme>
     <programme start="20250125223000 +0000" stop="20250126010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Seerum Singangal</title>
@@ -22734,9 +22734,6 @@
     <programme start="20250126230000 +0000" stop="20250126233000 +0000" channel="Sun TV.starhub">
         <title>NEWS</title>
     </programme>
-    <programme start="20250126233000 +0000" stop="20250127000000 +0000" channel="Sun TV.starhub">
-        <title>Vanakkam Thamizha</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
     </programme>
@@ -22973,6 +22970,9 @@
     </programme>
     <programme start="20250129060000 +0000" stop="20250129063000 +0000" channel="Sun TV.starhub">
         <title>ilakkiya</title>
+    </programme>
+    <programme start="20250129063000 +0000" stop="20250129070000 +0000" channel="Sun TV.starhub">
+        <title>LAKSHMI</title>
     </programme>
     <programme start="20250125234500 +0000" stop="20250126004500 +0000" channel="BBC Earth HD.starhub">
         <title>Tangled Worlds</title>
@@ -23391,9 +23391,6 @@
     <programme start="20250126223000 +0000" stop="20250126230000 +0000" channel="CNN HD.starhub">
         <title>Marrakech</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNN/US)</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
@@ -23573,6 +23570,9 @@
     </programme>
     <programme start="20250128210000 +0000" stop="20250128214500 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
+    </programme>
+    <programme start="20250128214500 +0000" stop="20250128220000 +0000" channel="CNN HD.starhub">
+        <title>Marrakech</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126020000 +0000" channel="Cinema One Global.starhub">
         <title>Damaso</title>
@@ -25143,9 +25143,6 @@
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="TVB Xing He.starhub">
         <title>Angel In-the-Making</title>
     </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="TVB Xing He.starhub">
-        <title>Missing You</title>
-    </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="TVB Xing He.starhub">
         <title>Triumph in the Skies II</title>
     </programme>
@@ -25373,6 +25370,9 @@
     </programme>
     <programme start="20250130030000 +0000" stop="20250130040000 +0000" channel="TVB Xing He.starhub">
         <title>Vagabond Vigilante</title>
+    </programme>
+    <programme start="20250130040000 +0000" stop="20250130050000 +0000" channel="TVB Xing He.starhub">
+        <title>Catch Me Now</title>
     </programme>
     <programme start="20250126000000 +0000" stop="20250126003000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Love in the Age of Machines</title>
@@ -30644,9 +30644,6 @@
     </programme>
     <programme start="20250126220000 +0000" stop="20250126230000 +0000" channel="TestChannel 993.starhub">
         <title>Atom Boyz Ⅱ</title>
-    </programme>
-    <programme start="20250126230000 +0000" stop="20250127000000 +0000" channel="TestChannel 993.starhub">
-        <title>All About Health</title>
     </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="TestChannel 993.starhub">
         <title>Discover New Taiwan Step By Step</title>

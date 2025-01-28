@@ -10596,11 +10596,8 @@
     <programme start="20250128052000 +0000" stop="20250128061000 +0000" channel="U&amp;Eden+1">
         <title>999 Rescue Squad</title>
     </programme>
-    <programme start="20250128061000 +0000" stop="20250128064000 +0000" channel="U&amp;Eden+1">
-        <title>This is Eden +1</title>
-    </programme>
-    <programme start="20250128064000 +0000" stop="20250128070000 +0000" channel="U&amp;Eden+1">
-        <title>This is Eden +1</title>
+    <programme start="20250128061000 +0000" stop="20250128070000 +0000" channel="U&amp;Eden+1">
+        <title>999 Rescue Squad</title>
     </programme>
     <programme start="20250128070000 +0000" stop="20250128100000 +0000" channel="U&amp;Eden+1">
         <title>Teleshopping</title>
@@ -30474,17 +30471,14 @@
     <programme start="20250128110000 +0000" stop="20250128121900 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250128121900 +0000" stop="20250128122400 +0000" channel="IQRA Bangla">
+    <programme start="20250128121900 +0000" stop="20250128123000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250128122400 +0000" stop="20250128123000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250128123000 +0000" stop="20250128133000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250128133000 +0000" stop="20250128140000 +0000" channel="IQRA Bangla">
-        <title>Islamic Stories</title>
+        <title>Banglar Bazaar</title>
     </programme>
     <programme start="20250128140000 +0000" stop="20250128145600 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
