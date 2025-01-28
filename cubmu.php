@@ -1497,9 +1497,6 @@
     <programme start="20250129160000 +0000" stop="20250128173000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250128170000 +0000" stop="20250128170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250128170500 +0000" stop="20250128173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -2223,9 +2220,6 @@
     <programme start="20250129163000 +0000" stop="20250128170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
     </programme>
-    <programme start="20250128170000 +0000" stop="20250128170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
-    </programme>
     <programme start="20250128170500 +0000" stop="20250128170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
     </programme>
@@ -2828,6 +2822,15 @@
     </programme>
     <programme start="20250129161600 +0000" stop="20250129162500 +0000" channel="Cartoon TV.cubmu">
         <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250129162500 +0000" stop="20250129163200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250129163200 +0000" stop="20250129165400 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250129165400 +0000" stop="20250128170600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
     </programme>
     <programme start="20250128171100 +0000" stop="20250128181100 +0000" channel="Cartoon TV Classics.cubmu">
         <title>Betty Boop</title>
