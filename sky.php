@@ -13905,10 +13905,10 @@
     <programme start="20250128020000 +0000" stop="20250128021500 +0000" channel="SkySp+ HD">
         <title>My Icon: Charlotte Edwards</title>
     </programme>
-    <programme start="20250128021500 +0000" stop="20250128053000 +0000" channel="SkySp+ HD">
+    <programme start="20250128021500 +0000" stop="20250128040000 +0000" channel="SkySp+ HD">
         <title>Live ICC W-U19 T20 WC: SA v USA</title>
     </programme>
-    <programme start="20250128053000 +0000" stop="20250128060000 +0000" channel="SkySp+ HD">
+    <programme start="20250128040000 +0000" stop="20250128060000 +0000" channel="SkySp+ HD">
         <title>Live Tennis: WTA Singapore</title>
     </programme>
     <programme start="20250128060000 +0000" stop="20250128100000 +0000" channel="SkySp+ HD">
