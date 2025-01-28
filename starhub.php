@@ -23377,7 +23377,7 @@
         <title>World Sport</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128000000 +0000" channel="CNN HD.starhub">
-        <title>First Move</title>
+        <title>CNN Programme</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
@@ -23467,7 +23467,7 @@
         <title>World Sport</title>
     </programme>
     <programme start="20250128230000 +0000" stop="20250129000000 +0000" channel="CNN HD.starhub">
-        <title>First Move</title>
+        <title>CNN Programme</title>
     </programme>
     <programme start="20250129000000 +0000" stop="20250129010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
