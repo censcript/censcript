@@ -4923,17 +4923,17 @@
     <programme start="20250127153000 +0000" stop="20250127160000 +0000" channel="DW English HD.starhub">
         <title>Algae - Superfood, staple and delicacy</title>
     </programme>
-    <programme start="20250127160000 +0000" stop="20250127161500 +0000" channel="DW English HD.starhub">
+    <programme start="20250127160000 +0000" stop="20250127163000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250127161500 +0000" stop="20250127170000 +0000" channel="DW English HD.starhub">
-        <title>I Survived Auschwitz</title>
+    <programme start="20250127163000 +0000" stop="20250127170000 +0000" channel="DW English HD.starhub">
+        <title>The Melting Arctic - In the Realm of the Polar Bear</title>
     </programme>
     <programme start="20250127170000 +0000" stop="20250127171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250127171500 +0000" stop="20250127173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>A Visit to Auschwitz-Birkenau - the Death Factory of the Holocaust</title>
     </programme>
     <programme start="20250127173000 +0000" stop="20250127180000 +0000" channel="DW English HD.starhub">
         <title>How Indian Fashion Inspires the World, Part 1</title>
@@ -4942,7 +4942,7 @@
         <title>News</title>
     </programme>
     <programme start="20250127183000 +0000" stop="20250127190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Threat from the Right - Never Quite German Enough?</title>
     </programme>
     <programme start="20250127190000 +0000" stop="20250127190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4963,7 +4963,7 @@
         <title>News</title>
     </programme>
     <programme start="20250127210200 +0000" stop="20250127211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>A Visit to Auschwitz-Birkenau - the Death Factory of the Holocaust</title>
     </programme>
     <programme start="20250127211500 +0000" stop="20250127220000 +0000" channel="DW English HD.starhub">
         <title>I Survived Auschwitz</title>
@@ -4981,10 +4981,10 @@
         <title>News</title>
     </programme>
     <programme start="20250127231500 +0000" stop="20250127233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>A Visit to Auschwitz-Birkenau - the Death Factory of the Holocaust</title>
     </programme>
     <programme start="20250127233000 +0000" stop="20250128000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Threat from the Right - Never Quite German Enough?</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5014,10 +5014,10 @@
         <title>News</title>
     </programme>
     <programme start="20250128031500 +0000" stop="20250128033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>A Visit to Auschwitz-Birkenau - the Death Factory of the Holocaust</title>
     </programme>
     <programme start="20250128033000 +0000" stop="20250128040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Threat from the Right - Never Quite German Enough?</title>
     </programme>
     <programme start="20250128040000 +0000" stop="20250128041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5038,7 +5038,7 @@
         <title>News</title>
     </programme>
     <programme start="20250128061500 +0000" stop="20250128063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>A Visit to Auschwitz-Birkenau - the Death Factory of the Holocaust</title>
     </programme>
     <programme start="20250128063000 +0000" stop="20250128070000 +0000" channel="DW English HD.starhub">
         <title>How Indian Fashion Inspires the World, Part 1</title>
@@ -5059,10 +5059,10 @@
         <title>News</title>
     </programme>
     <programme start="20250128091500 +0000" stop="20250128094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Threat from the Right - Never Quite German Enough?</title>
     </programme>
     <programme start="20250128094500 +0000" stop="20250128100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The human cost of AI: Data workers in the Global South</title>
     </programme>
     <programme start="20250128100000 +0000" stop="20250128103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5080,7 +5080,7 @@
         <title>News</title>
     </programme>
     <programme start="20250128121500 +0000" stop="20250128124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Threat from the Right - Never Quite German Enough?</title>
     </programme>
     <programme start="20250128124500 +0000" stop="20250128130000 +0000" channel="DW English HD.starhub">
         <title>AI and its impact on the environment</title>
@@ -5089,7 +5089,7 @@
         <title>News</title>
     </programme>
     <programme start="20250128131500 +0000" stop="20250128133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Big Tech’s carbon offsets are threatening Kenyans (Part 1)</title>
     </programme>
     <programme start="20250128133000 +0000" stop="20250128140000 +0000" channel="DW English HD.starhub">
         <title>How can we improve life in our cities?</title>
@@ -24822,22 +24822,25 @@
     <programme start="20250129000000 +0000" stop="20250129035000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M41 - Qualifier - Hobart Hurricanes vs Sydney Sixer</title>
     </programme>
-    <programme start="20250129032000 +0000" stop="20250129075500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129035000 +0000" stop="20250129082500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M13 - Delhi Capitals vs Chennai Super Kings</title>
     </programme>
-    <programme start="20250129075500 +0000" stop="20250129120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129082500 +0000" stop="20250129123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M14 - Mumbai Indians vs Rajasthan Royals</title>
     </programme>
-    <programme start="20250129120000 +0000" stop="20250129160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129123000 +0000" stop="20250129155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250129155000 +0000" stop="20250129160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250129160000 +0000" stop="20250129220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250129220000 +0000" stop="20250130012500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129220000 +0000" stop="20250129234500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250130012500 +0000" stop="20250130031000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250129234500 +0000" stop="20250130031000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
     </programme>
     <programme start="20250130031000 +0000" stop="20250130073000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25073,9 +25076,6 @@
     </programme>
     <programme start="20250213080000 +0000" stop="20250213160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st ODI</title>
-    </programme>
-    <programme start="20250213160000 +0000" stop="20250213220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250127000000 +0000" stop="20250127010000 +0000" channel="TVB Xing He.starhub">
         <title>Triumph in the Skies II</title>
@@ -30993,6 +30993,48 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215095000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215095000 +0000" stop="20250215120000 +0000" channel="Hub Sports 7.starhub">
+        <title>Singapore Cup 2024/25 Young Lions vs Brunei DPMM FC (Live)</title>
+    </programme>
+    <programme start="20250215120000 +0000" stop="20250215160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216095000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216095000 +0000" stop="20250216120000 +0000" channel="Hub Sports 7.starhub">
+        <title>Singapore Cup 2024/25 BG Pathum United FC vs Geylang International FC (Live)</title>
+    </programme>
+    <programme start="20250216120000 +0000" stop="20250216160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216160000 +0000" stop="20250216220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216220000 +0000" stop="20250217040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31159,19 +31201,19 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250208120500 +0000" stop="20250208141500 +0000" channel="Hub Sports 6.starhub">
-        <title>R4: Leeds United vs Millwall</title>
+        <title>The Emirates FA Cup 2024/25 R4: Leeds United vs Millwall</title>
     </programme>
     <programme start="20250208141500 +0000" stop="20250208145000 +0000" channel="Hub Sports 6.starhub">
         <title>Round 3</title>
     </programme>
     <programme start="20250208145000 +0000" stop="20250208170000 +0000" channel="Hub Sports 6.starhub">
-        <title>R4: Wigan Athletic vs Fulham</title>
+        <title>The Emirates FA Cup 2024/25 R4: Wigan Athletic vs Fulham</title>
     </programme>
     <programme start="20250208170000 +0000" stop="20250208173500 +0000" channel="Hub Sports 6.starhub">
         <title>Round 4</title>
     </programme>
     <programme start="20250208173500 +0000" stop="20250208194500 +0000" channel="Hub Sports 6.starhub">
-        <title>R4: Birmingham City vs Newcastle United</title>
+        <title>The Emirates FA Cup 2024/25 R4: Birmingham City vs Newcastle United</title>
     </programme>
     <programme start="20250208194500 +0000" stop="20250208220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
@@ -31186,7 +31228,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250209145000 +0000" stop="20250209170000 +0000" channel="Hub Sports 6.starhub">
-        <title>R4: Plymouth Argyle vs Liverpool</title>
+        <title>The Emirates FA Cup 2024/25 R4: Plymouth Argyle vs Liverpool</title>
     </programme>
     <programme start="20250209170000 +0000" stop="20250209220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
@@ -31221,7 +31263,10 @@
     <programme start="20250212040000 +0000" stop="20250212100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250212100000 +0000" stop="20250212160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250212100000 +0000" stop="20250212120000 +0000" channel="Hub Sports 6.starhub">
+        <title>East Asia Super League 2024/25 Suwon KT Sonicboom vs San Miguel Beermen</title>
+    </programme>
+    <programme start="20250212120000 +0000" stop="20250212160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250212160000 +0000" stop="20250212220000 +0000" channel="Hub Sports 6.starhub">
@@ -31248,28 +31293,46 @@
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250214160000 +0000" stop="20250214170000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214170000 +0000" stop="20250214200000 +0000" channel="Hub Sports 6.starhub">
+        <title>Chubb Classic Round 1</title>
+    </programme>
+    <programme start="20250214200000 +0000" stop="20250214220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250215040000 +0000" stop="20250215060000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250215060000 +0000" stop="20250215110000 +0000" channel="Hub Sports 6.starhub">
+        <title>European Mixed Team Championships SF 1</title>
+    </programme>
+    <programme start="20250215110000 +0000" stop="20250215160000 +0000" channel="Hub Sports 6.starhub">
+        <title>European Mixed Team Championships SF 2</title>
+    </programme>
+    <programme start="20250215160000 +0000" stop="20250215200000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250215200000 +0000" stop="20250215223000 +0000" channel="Hub Sports 6.starhub">
+        <title>Chubb Classic Round 2</title>
+    </programme>
+    <programme start="20250215223000 +0000" stop="20250216040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250216040000 +0000" stop="20250216080000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250216080000 +0000" stop="20250216130000 +0000" channel="Hub Sports 6.starhub">
+        <title>European Mixed Team Championships Final</title>
+    </programme>
+    <programme start="20250216130000 +0000" stop="20250216160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250216160000 +0000" stop="20250216200000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Hub Premier 4.starhub">
