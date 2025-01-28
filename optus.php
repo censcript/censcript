@@ -180,11 +180,20 @@
     <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
+    <programme start="20250214095500 +0000" stop="20250214121000 +0000" channel="Optus Sport 5.optus">
+        <title>J1 League - Gamba v Cerezo</title>
+    </programme>
     <programme start="20250214193000 +0000" stop="20250214223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brighton v Chelsea</title>
     </programme>
     <programme start="20250215035000 +0000" stop="20250215061000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Pohang v Daejeon</title>
+    </programme>
+    <programme start="20250215045500 +0000" stop="20250215071000 +0000" channel="Optus Sport 4.optus">
+        <title>J1 League - Vissel Kobe v Urawa Red Diamonds</title>
+    </programme>
+    <programme start="20250215055500 +0000" stop="20250215081000 +0000" channel="Optus Sport 5.optus">
+        <title>J1 League - Kawasaki v Nagoya</title>
     </programme>
     <programme start="20250215062000 +0000" stop="20250215084000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeju v Seoul</title>
@@ -212,6 +221,9 @@
     </programme>
     <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Ulsan v Anyang</title>
+    </programme>
+    <programme start="20250216045500 +0000" stop="20250216071000 +0000" channel="Optus Sport 6.optus">
+        <title>J1 League - Machida v Sanfrecce</title>
     </programme>
     <programme start="20250216072000 +0000" stop="20250216094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Daegu v Gangwon</title>
