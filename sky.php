@@ -28515,8 +28515,11 @@
     <programme start="20250129001400 +0000" stop="20250129011100 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250129011100 +0000" stop="20250129054400 +0000" channel="IQRA TV">
+    <programme start="20250129011100 +0000" stop="20250129013200 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
+    </programme>
+    <programme start="20250129013200 +0000" stop="20250129054400 +0000" channel="IQRA TV">
+        <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250129054400 +0000" stop="20250129054700 +0000" channel="IQRA TV">
         <title>Dua and Recitation</title>
@@ -28530,8 +28533,11 @@
     <programme start="20250129060000 +0000" stop="20250129070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250129070000 +0000" stop="20250129081200 +0000" channel="IQRA TV">
+    <programme start="20250129070000 +0000" stop="20250129075500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250129075500 +0000" stop="20250129081200 +0000" channel="IQRA TV">
+        <title>Manzil</title>
     </programme>
     <programme start="20250129081200 +0000" stop="20250129090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>

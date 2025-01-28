@@ -5310,6 +5310,18 @@
     <programme start="20250207100000 +0000" stop="20250207163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250207163000 +0000" stop="20250207220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250126233500 +0000" stop="20250127000500 +0000" channel="HISTORY HD.starhub">
         <title>Penang</title>
     </programme>
@@ -9741,20 +9753,17 @@
     <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="SPOTV2.starhub">
         <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
     </programme>
-    <programme start="20250201090000 +0000" stop="20250201180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250201090000 +0000" stop="20250201100000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250201100000 +0000" stop="20250201115500 +0000" channel="SPOTV2.starhub">
+        <title>ISUZU UTE A-League Men 2024/25 Rd14 Western United FC vs Central Coast Mariners</title>
+    </programme>
+    <programme start="20250201115500 +0000" stop="20250201140000 +0000" channel="SPOTV2.starhub">
+        <title>FWD Insurance Chinese New Year Cup 2025 World Legends vs Hong Kong Legends</title>
+    </programme>
+    <programme start="20250201140000 +0000" stop="20250201230000 +0000" channel="SPOTV2.starhub">
         <title>Day 3</title>
-    </programme>
-    <programme start="20250201180000 +0000" stop="20250201200000 +0000" channel="SPOTV2.starhub">
-        <title>2025 LOVB Inaugural Season Week 4 Atlanta vs Salt Lake</title>
-    </programme>
-    <programme start="20250201200000 +0000" stop="20250201203000 +0000" channel="SPOTV2.starhub">
-        <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
-    </programme>
-    <programme start="20250201203000 +0000" stop="20250201210000 +0000" channel="SPOTV2.starhub">
-        <title>Season 5</title>
-    </programme>
-    <programme start="20250201210000 +0000" stop="20250201230000 +0000" channel="SPOTV2.starhub">
-        <title>ISUZU UTE A-League Men 2024/25 Rd17 Auckland FC vs Macarthur FC</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250202000000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -9809,6 +9818,9 @@
     </programme>
     <programme start="20250203100000 +0000" stop="20250203140000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250126230000 +0000" stop="20250127020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -18775,6 +18787,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250126230000 +0000" stop="20250127020000 +0000" channel="SEA Today.starhub">
@@ -28518,6 +28542,18 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250126235000 +0000" stop="20250127001200 +0000" channel="HBO Family HD.starhub">
         <title>Pet Project</title>
     </programme>
@@ -30993,6 +31029,21 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208145000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208145000 +0000" stop="20250208170000 +0000" channel="Hub Sports 7.starhub">
+        <title>The Emirates FA Cup 2024/25 R4: Coventry City vs Ipswich Town (Live)</title>
+    </programme>
     <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31941,6 +31992,18 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32784,6 +32847,18 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250126220000 +0000" stop="20250127040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32923,6 +32998,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
