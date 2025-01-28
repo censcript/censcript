@@ -24751,7 +24751,7 @@
         <title>A Seasonal Style Refresh</title>
     </programme>
     <programme start="20250128130000 +0000" stop="20250128140000 +0000" channel="QVC Style HD">
-        <title>New Year, New Kim &amp; Co</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250128140000 +0000" stop="20250128150000 +0000" channel="QVC Style HD">
         <title>Hush Puppies</title>
@@ -26094,14 +26094,11 @@
     <programme start="20250128193000 +0000" stop="20250128210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250128210000 +0000" stop="20250128222700 +0000" channel="SONY TV HD">
+    <programme start="20250128210000 +0000" stop="20250128223600 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250128222700 +0000" stop="20250128235800 +0000" channel="SONY TV HD">
+    <programme start="20250128223600 +0000" stop="20250128233600 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250128235800 +0000" stop="20250129005800 +0000" channel="SONY TV HD">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250127213000 +0000" stop="20250127233000 +0000" channel="Utsav Bharat">
         <title>Lakshya</title>
@@ -35667,14 +35664,11 @@
     <programme start="20250128193000 +0000" stop="20250128210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250128210000 +0000" stop="20250128222700 +0000" channel="SONY TV">
+    <programme start="20250128210000 +0000" stop="20250128223600 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250128222700 +0000" stop="20250128235800 +0000" channel="SONY TV">
+    <programme start="20250128223600 +0000" stop="20250128233600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250128235800 +0000" stop="20250129005800 +0000" channel="SONY TV">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250127223000 +0000" stop="20250127230000 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>

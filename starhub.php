@@ -14685,11 +14685,11 @@
     <programme start="20250129032000 +0000" stop="20250129052000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Semi-Final 2 Bahrain vs Kuwait</title>
     </programme>
-    <programme start="20250129052000 +0000" stop="20250129074000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 3: Madison vs Atlanta</title>
+    <programme start="20250129052000 +0000" stop="20250129073000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 3: Omaha vs Madison</title>
     </programme>
-    <programme start="20250129074000 +0000" stop="20250129093000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 3: Omaha vs Austin</title>
+    <programme start="20250129073000 +0000" stop="20250129093000 +0000" channel="SPOTV.starhub">
+        <title>2025 LOVB Inaugural Season Week 3: Salt Lake vs Houston</title>
     </programme>
     <programme start="20250129093000 +0000" stop="20250129103000 +0000" channel="SPOTV.starhub">
         <title>Match Week 16</title>
@@ -14758,10 +14758,10 @@
         <title>ROSHN Saudi League 2024/25 Matchday 18 Al Raed vs Al Nassr</title>
     </programme>
     <programme start="20250131033000 +0000" stop="20250131053000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 3: Madison vs Atlanta</title>
+        <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
     </programme>
     <programme start="20250131053000 +0000" stop="20250131073000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 3: Omaha vs Austin</title>
+        <title>2025 LOVB Inaugural Season Week 3: Salt Lake vs Houston</title>
     </programme>
     <programme start="20250131073000 +0000" stop="20250131110000 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Raed vs Al Jabalin</title>
@@ -14800,10 +14800,10 @@
         <title>MotoGP 2024 Spotlight: Brad Binder</title>
     </programme>
     <programme start="20250201043000 +0000" stop="20250201063000 +0000" channel="SPOTV.starhub">
-        <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
+        <title>ROSHN Saudi League 2024/25 Matchday 17 Al Nassr v Al Fateh</title>
     </programme>
     <programme start="20250201063000 +0000" stop="20250201083000 +0000" channel="SPOTV.starhub">
-        <title>ROSHN Saudi League 2024/25 Matchday 17 Al Nassr v Al Fateh</title>
+        <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
     </programme>
     <programme start="20250201083000 +0000" stop="20250201103000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd17 Central Coast Mariners vs Newcastles Jets</title>
@@ -23554,7 +23554,7 @@
         <title>World Sport</title>
     </programme>
     <programme start="20250129230000 +0000" stop="20250130000000 +0000" channel="CNN HD.starhub">
-        <title>First Move</title>
+        <title>CNN Programme</title>
     </programme>
     <programme start="20250130000000 +0000" stop="20250130010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
