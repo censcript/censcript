@@ -252,6 +252,18 @@
     <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
     </programme>
+    <programme start="20250222045000 +0000" stop="20250222071000 +0000" channel="Optus Sport 4.optus">
+        <title>N/A - Jeju v Gimcheon</title>
+    </programme>
+    <programme start="20250222072000 +0000" stop="20250222094000 +0000" channel="Optus Sport 5.optus">
+        <title>N/A - Seoul v Anyang</title>
+    </programme>
+    <programme start="20250223045000 +0000" stop="20250223071000 +0000" channel="Optus Sport 3.optus">
+        <title>N/A - Daejeon v Ulsan</title>
+    </programme>
+    <programme start="20250223072000 +0000" stop="20250223094000 +0000" channel="Optus Sport 6.optus">
+        <title>N/A - Jeonbuk v Gwangju</title>
+    </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
