@@ -15279,11 +15279,11 @@
     <programme start="20250130060000 +0000" stop="20250130062500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Extremism Statement</title>
     </programme>
-    <programme start="20250130062500 +0000" stop="20250130070500 +0000" channel="BBC Parl HD">
+    <programme start="20250130062500 +0000" stop="20250130065000 +0000" channel="BBC Parl HD">
         <title>Wales Office Questions</title>
     </programme>
-    <programme start="20250130070500 +0000" stop="20250130073000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250130065000 +0000" stop="20250130073000 +0000" channel="BBC Parl HD">
+        <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250130073000 +0000" stop="20250130093000 +0000" channel="BBC Parl HD">
         <title>Growing the UK Economy Statement</title>
@@ -28903,7 +28903,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250130010000 +0000" stop="20250130020000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250130020000 +0000" stop="20250130030000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
