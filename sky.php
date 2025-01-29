@@ -13971,13 +13971,16 @@
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250129221500 +0000" stop="20250129231500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250129224500 +0000" stop="20250129233000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250129231500 +0000" stop="20250129234500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250129233000 +0000" stop="20250129234500 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250129234500 +0000" stop="20250130001500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250129234500 +0000" stop="20250130000000 +0000" channel="Eurosport 2 HD">
+        <title>Alpine Skiing: World Cup</title>
+    </programme>
+    <programme start="20250130000000 +0000" stop="20250130001500 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250130001500 +0000" stop="20250130003000 +0000" channel="Eurosport 2 HD">
@@ -34962,13 +34965,19 @@
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250129221500 +0000" stop="20250129231500 +0000" channel="Eurosport 2">
+    <programme start="20250129224500 +0000" stop="20250129231500 +0000" channel="Eurosport 2">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250129231500 +0000" stop="20250129234500 +0000" channel="Eurosport 2">
+    <programme start="20250129231500 +0000" stop="20250129233000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250129234500 +0000" stop="20250130001500 +0000" channel="Eurosport 2">
+    <programme start="20250129233000 +0000" stop="20250129234500 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
+    </programme>
+    <programme start="20250129234500 +0000" stop="20250130000000 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
+    </programme>
+    <programme start="20250130000000 +0000" stop="20250130001500 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250130001500 +0000" stop="20250130003000 +0000" channel="Eurosport 2">
