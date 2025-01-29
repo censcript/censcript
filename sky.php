@@ -13914,7 +13914,7 @@
     <programme start="20250130230000 +0000" stop="20250131000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250129220000 +0000" stop="20250130000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250129205500 +0000" stop="20250130000000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250130000000 +0000" stop="20250130010000 +0000" channel="Eurosport 1 HD">
@@ -34905,7 +34905,7 @@
     <programme start="20250130233000 +0000" stop="20250131003000 +0000" channel="TNTSports2 HD">
         <title>Live: NBA Tip-Off</title>
     </programme>
-    <programme start="20250129220000 +0000" stop="20250130000000 +0000" channel="Eurosport 1">
+    <programme start="20250129205500 +0000" stop="20250130000000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250130000000 +0000" stop="20250130010000 +0000" channel="Eurosport 1">
