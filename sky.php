@@ -15285,8 +15285,11 @@
     <programme start="20250130065000 +0000" stop="20250130073000 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250130073000 +0000" stop="20250130093000 +0000" channel="BBC Parl HD">
+    <programme start="20250130073000 +0000" stop="20250130084500 +0000" channel="BBC Parl HD">
         <title>Growing the UK Economy Statement</title>
+    </programme>
+    <programme start="20250130084500 +0000" stop="20250130093000 +0000" channel="BBC Parl HD">
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250130093000 +0000" stop="20250130103000 +0000" channel="BBC Parl HD">
         <title>Live Business and Trade Questions</title>
@@ -24712,7 +24715,7 @@
         <title>Payday Deals with Craig &amp; Derek</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250129230000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Hair Gain</title>
     </programme>
     <programme start="20250129230000 +0000" stop="20250130000000 +0000" channel="QVC Beauty">
         <title>In the Salon with Elemis on 4 Easy Pay</title>
@@ -24748,7 +24751,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250130100000 +0000" stop="20250130110000 +0000" channel="QVC Beauty">
-        <title>Beauty Heroes</title>
+        <title>Bobbi Brown</title>
     </programme>
     <programme start="20250130110000 +0000" stop="20250130120000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24841,10 +24844,10 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250130150000 +0000" stop="20250130160000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne's Unmissable Deals</title>
+        <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250130160000 +0000" stop="20250130170000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne's Unmissable Deals</title>
+        <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250130170000 +0000" stop="20250130180000 +0000" channel="QVC Style HD">
         <title>Container Gardening</title>
