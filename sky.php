@@ -7422,10 +7422,7 @@
     <programme start="20250129051500 +0000" stop="20250129054000 +0000" channel="Channel 5+1">
         <title>House Doctor</title>
     </programme>
-    <programme start="20250129054000 +0000" stop="20250129060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250129060000 +0000" stop="20250129060500 +0000" channel="Channel 5+1">
+    <programme start="20250129054000 +0000" stop="20250129060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250129060500 +0000" stop="20250129063500 +0000" channel="Channel 5+1">
@@ -13935,8 +13932,11 @@
     <programme start="20250129120000 +0000" stop="20250129140000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250129140000 +0000" stop="20250129170000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250129140000 +0000" stop="20250129160000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
+    </programme>
+    <programme start="20250129160000 +0000" stop="20250129170000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250129170000 +0000" stop="20250129180000 +0000" channel="Eurosport 1 HD">
         <title>Australian Open Tennis</title>
@@ -24730,7 +24730,7 @@
         <title>Your Best Years</title>
     </programme>
     <programme start="20250129070000 +0000" stop="20250129080000 +0000" channel="QVC Beauty">
-        <title>Elemis Skin Secrets</title>
+        <title>Elemis Skin Secrets on 4 Easy Pay</title>
     </programme>
     <programme start="20250129080000 +0000" stop="20250129090000 +0000" channel="QVC Beauty">
         <title>Beauty Loves...</title>
@@ -24748,7 +24748,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250129130000 +0000" stop="20250129140000 +0000" channel="QVC Beauty">
-        <title>Elemis Skin Secrets</title>
+        <title>Elemis Skin Secrets on 4 Easy Pay</title>
     </programme>
     <programme start="20250129140000 +0000" stop="20250129150000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -24757,13 +24757,13 @@
         <title>Beauty Heroes</title>
     </programme>
     <programme start="20250129160000 +0000" stop="20250129170000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250129170000 +0000" stop="20250129180000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Tarte - Shape Tape</title>
     </programme>
     <programme start="20250129180000 +0000" stop="20250129190000 +0000" channel="QVC Beauty">
-        <title>Elemis Skin Secrets</title>
+        <title>Elemis Skin Secrets on 4 Easy Pay</title>
     </programme>
     <programme start="20250129190000 +0000" stop="20250129200000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24775,10 +24775,10 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250129230000 +0000" channel="QVC Beauty">
-        <title>Hair Gain</title>
+        <title>Bobbi Brown</title>
     </programme>
     <programme start="20250129230000 +0000" stop="20250130000000 +0000" channel="QVC Beauty">
-        <title>In The Salon With Elemis</title>
+        <title>In the Salon with Elemis on 4 Easy Pay</title>
     </programme>
     <programme start="20250128220000 +0000" stop="20250128230000 +0000" channel="QVC Style HD">
         <title>Celebrate Love with Diamonique</title>
@@ -24832,7 +24832,7 @@
         <title>Trainers on 4 Easy Pay</title>
     </programme>
     <programme start="20250129150000 +0000" stop="20250129160000 +0000" channel="QVC Style HD">
-        <title>Up to 45% off Sleepwear</title>
+        <title>Up to 50% off Sleepwear</title>
     </programme>
     <programme start="20250129160000 +0000" stop="20250129170000 +0000" channel="QVC Style HD">
         <title>The Outerwear Shop</title>
@@ -26169,17 +26169,11 @@
     <programme start="20250129190000 +0000" stop="20250129192900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250129192900 +0000" stop="20250129205900 +0000" channel="SONY TV HD">
+    <programme start="20250129192900 +0000" stop="20250129210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250129205900 +0000" stop="20250129222700 +0000" channel="SONY TV HD">
+    <programme start="20250129210000 +0000" stop="20250129220000 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250129222700 +0000" stop="20250129235800 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250129235800 +0000" stop="20250130005800 +0000" channel="SONY TV HD">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250128223000 +0000" stop="20250128233000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - India Fights Back</title>
@@ -34935,8 +34929,11 @@
     <programme start="20250129120000 +0000" stop="20250129140000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250129140000 +0000" stop="20250129170000 +0000" channel="Eurosport 1">
+    <programme start="20250129140000 +0000" stop="20250129160000 +0000" channel="Eurosport 1">
         <title>Live Snooker: German Masters</title>
+    </programme>
+    <programme start="20250129160000 +0000" stop="20250129170000 +0000" channel="Eurosport 1">
+        <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250129170000 +0000" stop="20250129180000 +0000" channel="Eurosport 1">
         <title>Australian Open Tennis</title>
@@ -35787,17 +35784,14 @@
     <programme start="20250129190000 +0000" stop="20250129192900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250129192900 +0000" stop="20250129205900 +0000" channel="SONY TV">
+    <programme start="20250129192900 +0000" stop="20250129210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250129205900 +0000" stop="20250129222700 +0000" channel="SONY TV">
+    <programme start="20250129210000 +0000" stop="20250129223600 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250129222700 +0000" stop="20250129235800 +0000" channel="SONY TV">
+    <programme start="20250129223600 +0000" stop="20250129233600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250129235800 +0000" stop="20250130005800 +0000" channel="SONY TV">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250128223000 +0000" stop="20250128230000 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>
@@ -38119,7 +38113,7 @@
         <title>Matt Wilkinson</title>
     </programme>
     <programme start="20250129160000 +0000" stop="20250129190000 +0000" channel="Heart">
-        <title>Rob Howard and Kelly Brook</title>
+        <title>Rob Howard</title>
     </programme>
     <programme start="20250129190000 +0000" stop="20250129220000 +0000" channel="Heart">
         <title>Dev Griffin</title>
