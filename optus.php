@@ -165,13 +165,13 @@
     <programme start="20250211195000 +0000" stop="20250211231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Exeter v Nottingham Forest</title>
     </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Hoffenheim v Wolfsburg</title>
     </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Hamburg v Borussia Monchengladbach</title>
     </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Bayern Munich v Frankfurt </title>
     </programme>
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 7.optus">

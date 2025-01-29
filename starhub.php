@@ -5172,13 +5172,13 @@
     <programme start="20250129133000 +0000" stop="20250129163000 +0000" channel="Asianet Movies.starhub">
         <title>Pulimurugan</title>
     </programme>
-    <programme start="20250129163000 +0000" stop="20250129190000 +0000" channel="Asianet Movies.starhub">
-        <title>K.G.F: Chapter 1</title>
+    <programme start="20250129163000 +0000" stop="20250129190500 +0000" channel="Asianet Movies.starhub">
+        <title>KGF</title>
     </programme>
-    <programme start="20250129190000 +0000" stop="20250129220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250129190500 +0000" stop="20250129222500 +0000" channel="Asianet Movies.starhub">
         <title>Vismayathumbathu</title>
     </programme>
-    <programme start="20250129220000 +0000" stop="20250129233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250129222500 +0000" stop="20250129233000 +0000" channel="Asianet Movies.starhub">
         <title>Oru B&amp;W Kudumbam</title>
     </programme>
     <programme start="20250129233000 +0000" stop="20250130013000 +0000" channel="Asianet Movies.starhub">
