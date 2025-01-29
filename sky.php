@@ -13974,17 +13974,11 @@
     <programme start="20250129224500 +0000" stop="20250129233000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250129233000 +0000" stop="20250129234500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250129233000 +0000" stop="20250130000000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250129234500 +0000" stop="20250130000000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250130000000 +0000" stop="20250130003000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
-    </programme>
-    <programme start="20250130000000 +0000" stop="20250130001500 +0000" channel="Eurosport 2 HD">
-        <title>Alpine Skiing: World Cup</title>
-    </programme>
-    <programme start="20250130001500 +0000" stop="20250130003000 +0000" channel="Eurosport 2 HD">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250130003000 +0000" stop="20250130010000 +0000" channel="Eurosport 2 HD">
         <title>Discovery Golf</title>
@@ -15258,26 +15252,29 @@
     <programme start="20250130230000 +0000" stop="20250131000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250129223500 +0000" stop="20250129231500 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+    <programme start="20250129222000 +0000" stop="20250129230000 +0000" channel="BBC Parl HD">
+        <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250129231500 +0000" stop="20250129233500 +0000" channel="BBC Parl HD">
+    <programme start="20250129230000 +0000" stop="20250129234000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
+    </programme>
+    <programme start="20250129234000 +0000" stop="20250130011000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Royal Albert Hall Bill</title>
     </programme>
-    <programme start="20250129233500 +0000" stop="20250129234500 +0000" channel="BBC Parl HD">
+    <programme start="20250130011000 +0000" stop="20250130012000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Extremism Review Statement</title>
     </programme>
-    <programme start="20250129234500 +0000" stop="20250130002500 +0000" channel="BBC Parl HD">
+    <programme start="20250130012000 +0000" stop="20250130014500 +0000" channel="BBC Parl HD">
         <title>House of Lords - ECO4 and Great...</title>
     </programme>
-    <programme start="20250130002500 +0000" stop="20250130022500 +0000" channel="BBC Parl HD">
+    <programme start="20250130014500 +0000" stop="20250130040500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Non-Domestic Ratings Bill, Part 1</title>
     </programme>
-    <programme start="20250130022500 +0000" stop="20250130042500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Non-Domestic Ratings Bill, Part 2</title>
-    </programme>
-    <programme start="20250130042500 +0000" stop="20250130060000 +0000" channel="BBC Parl HD">
+    <programme start="20250130040500 +0000" stop="20250130055000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Official Controls Regulations</title>
+    </programme>
+    <programme start="20250130055000 +0000" stop="20250130060000 +0000" channel="BBC Parl HD">
+        <title>Lords - Introduction</title>
     </programme>
     <programme start="20250130060000 +0000" stop="20250130062500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Extremism Statement</title>
@@ -34965,23 +34962,14 @@
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250129224500 +0000" stop="20250129231500 +0000" channel="Eurosport 2">
+    <programme start="20250129224500 +0000" stop="20250129233000 +0000" channel="Eurosport 2">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250129231500 +0000" stop="20250129233000 +0000" channel="Eurosport 2">
+    <programme start="20250129233000 +0000" stop="20250130000000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250129233000 +0000" stop="20250129234500 +0000" channel="Eurosport 2">
+    <programme start="20250130000000 +0000" stop="20250130003000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
-    </programme>
-    <programme start="20250129234500 +0000" stop="20250130000000 +0000" channel="Eurosport 2">
-        <title>Alpine Skiing: World Cup</title>
-    </programme>
-    <programme start="20250130000000 +0000" stop="20250130001500 +0000" channel="Eurosport 2">
-        <title>Alpine Skiing: World Cup</title>
-    </programme>
-    <programme start="20250130001500 +0000" stop="20250130003000 +0000" channel="Eurosport 2">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250130003000 +0000" stop="20250130010000 +0000" channel="Eurosport 2">
         <title>Discovery Golf</title>
