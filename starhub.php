@@ -15280,12 +15280,9 @@
         <title>UCL All Goals - Raheem Stirling</title>
     </programme>
     <programme start="20250129180000 +0000" stop="20250129183000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Champions League 2024/25 Benfica vs Barcelona - MD7</title>
-    </programme>
-    <programme start="20250129183000 +0000" stop="20250129190000 +0000" channel="beIN Sports 3.starhub">
         <title>MD7 Review/MD8 Preview</title>
     </programme>
-    <programme start="20250129190000 +0000" stop="20250129195500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250129183000 +0000" stop="20250129195500 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,MD8</title>
     </programme>
     <programme start="20250129195500 +0000" stop="20250129220000 +0000" channel="beIN Sports 3.starhub">
@@ -15494,6 +15491,9 @@
     </programme>
     <programme start="20250202183000 +0000" stop="20250202202000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25 Sporting vs Bologna - MD8</title>
+    </programme>
+    <programme start="20250202202000 +0000" stop="20250202220500 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Conference League 2024/25 Hearts vs Petrocub - MD6</title>
     </programme>
     <programme start="20250127233000 +0000" stop="20250128010000 +0000" channel="Astro Sensasi HD.starhub">
         <title>Kidbusters</title>
