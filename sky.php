@@ -7425,10 +7425,7 @@
     <programme start="20250130045000 +0000" stop="20250130054000 +0000" channel="Channel 5+1">
         <title>Yorkshire: A Year in the Wild</title>
     </programme>
-    <programme start="20250130054000 +0000" stop="20250130060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250130060000 +0000" stop="20250130060500 +0000" channel="Channel 5+1">
+    <programme start="20250130054000 +0000" stop="20250130060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250130060500 +0000" stop="20250130063500 +0000" channel="Channel 5+1">
@@ -15180,11 +15177,8 @@
     <programme start="20250130130000 +0000" stop="20250130140000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
     </programme>
-    <programme start="20250130140000 +0000" stop="20250130143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250130140000 +0000" stop="20250130144500 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
-    </programme>
-    <programme start="20250130143000 +0000" stop="20250130144500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
     </programme>
     <programme start="20250130144500 +0000" stop="20250130150000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -24550,13 +24544,13 @@
         <title>Beauty Heroes with Perricone</title>
     </programme>
     <programme start="20250130170000 +0000" stop="20250130180000 +0000" channel="QVC HD">
-        <title>Diamonique's Valentine's Sparkle</title>
+        <title>Diamonique Jewellery on 4EZ</title>
     </programme>
     <programme start="20250130180000 +0000" stop="20250130190000 +0000" channel="QVC HD">
         <title>Perricone MD Skincare</title>
     </programme>
     <programme start="20250130190000 +0000" stop="20250130210000 +0000" channel="QVC HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford on 4 Easy Pay</title>
     </programme>
     <programme start="20250130210000 +0000" stop="20250130220000 +0000" channel="QVC HD">
         <title>All New from Moda In Pelle</title>
@@ -24706,16 +24700,16 @@
         <title>Payday Deals with Chloe</title>
     </programme>
     <programme start="20250130180000 +0000" stop="20250130190000 +0000" channel="TJC HD">
-        <title>Payday Deals with Mark</title>
+        <title>Mark's Meal Challenge</title>
     </programme>
     <programme start="20250130190000 +0000" stop="20250130200000 +0000" channel="TJC HD">
-        <title>Payday Deals with Mark</title>
+        <title>Mark's Meal Challenge</title>
     </programme>
     <programme start="20250130200000 +0000" stop="20250130210000 +0000" channel="TJC HD">
-        <title>Payday Deals with Mark</title>
+        <title>Mark's Meal Challenge</title>
     </programme>
     <programme start="20250130210000 +0000" stop="20250130220000 +0000" channel="TJC HD">
-        <title>Payday Deals with Mark</title>
+        <title>Mark's Meal Challenge</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="TJC HD">
         <title>Payday Deals with Craig &amp; Derek</title>
@@ -24760,7 +24754,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250130100000 +0000" stop="20250130110000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Beauty Heroes</title>
     </programme>
     <programme start="20250130110000 +0000" stop="20250130120000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24853,10 +24847,10 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250130150000 +0000" stop="20250130160000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>Marla Wynne's Unmissable Deals</title>
     </programme>
     <programme start="20250130160000 +0000" stop="20250130170000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>Marla Wynne's Unmissable Deals</title>
     </programme>
     <programme start="20250130170000 +0000" stop="20250130180000 +0000" channel="QVC Style HD">
         <title>Container Gardening</title>
@@ -25501,7 +25495,7 @@
         <title>Home Improvements</title>
     </programme>
     <programme start="20250130190000 +0000" stop="20250130200000 +0000" channel="QVC Extra">
-        <title>New Season Masai Clothing Copenhagen</title>
+        <title>New Season Masai Clothing</title>
     </programme>
     <programme start="20250130200000 +0000" stop="20250130210000 +0000" channel="QVC Extra">
         <title>Diamonique All That Glitters</title>

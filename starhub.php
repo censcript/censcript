@@ -12744,8 +12744,71 @@
     <programme start="20250131141500 +0000" stop="20250131144500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Promise Of Forever</title>
     </programme>
-    <programme start="20250131144500 +0000" stop="20250131161500 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250131144500 +0000" stop="20250131165000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
+    </programme>
+    <programme start="20250131165000 +0000" stop="20250131172500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Deal Or No Deal</title>
+    </programme>
+    <programme start="20250131172500 +0000" stop="20250131183000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Playhouse</title>
+    </programme>
+    <programme start="20250131183000 +0000" stop="20250131190000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tabing Ilog</title>
+    </programme>
+    <programme start="20250131190000 +0000" stop="20250131200000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>High Street (Sun)</title>
+    </programme>
+    <programme start="20250131200000 +0000" stop="20250131213000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Global Edition</title>
+    </programme>
+    <programme start="20250131213000 +0000" stop="20250131220000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Daily Mass</title>
+    </programme>
+    <programme start="20250131220000 +0000" stop="20250131223000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>My Puhunan: Kaya Mo!</title>
+    </programme>
+    <programme start="20250131223000 +0000" stop="20250131230000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Chef RV&#039;s Kitchen S15</title>
+    </programme>
+    <programme start="20250131230000 +0000" stop="20250201000000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Food Prints S6</title>
+    </programme>
+    <programme start="20250201000000 +0000" stop="20250201003000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Wow</title>
+    </programme>
+    <programme start="20250201003000 +0000" stop="20250201013000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tulong Ko Pasa Mo</title>
+    </programme>
+    <programme start="20250201013000 +0000" stop="20250201023000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Star Ka! S2</title>
+    </programme>
+    <programme start="20250201023000 +0000" stop="20250201030000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Ano Na, Bev S2</title>
+    </programme>
+    <programme start="20250201030000 +0000" stop="20250201040000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Hoy Love You</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201063000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>It&#039;s Showtime (Sat) LIVE</title>
+    </programme>
+    <programme start="20250201063000 +0000" stop="20250201070500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Pamilya Talk With Tita Jing S2</title>
+    </programme>
+    <programme start="20250201070500 +0000" stop="20250201081000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tulong Ko Pasa Mo</title>
+    </programme>
+    <programme start="20250201081000 +0000" stop="20250201084500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Home Away From Home</title>
+    </programme>
+    <programme start="20250201084500 +0000" stop="20250201091500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Citizen Pinoy</title>
+    </programme>
+    <programme start="20250201091500 +0000" stop="20250201101500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Sabado Live</title>
+    </programme>
+    <programme start="20250201101500 +0000" stop="20250201111500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Rated Korina</title>
     </programme>
     <programme start="20250128230000 +0000" stop="20250129003000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein</title>
