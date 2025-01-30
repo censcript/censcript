@@ -15223,16 +15223,16 @@
         <title>The World Today with Maryam Moshiri</title>
     </programme>
     <programme start="20250130200000 +0000" stop="20250130203000 +0000" channel="BBC NEWS HD">
-        <title>The Context with Christian Fraser</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250130203000 +0000" stop="20250130210000 +0000" channel="BBC NEWS HD">
-        <title>The Context with Christian Fraser</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250130210000 +0000" stop="20250130213000 +0000" channel="BBC NEWS HD">
-        <title>The Context with Christian Fraser</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250130213000 +0000" stop="20250130220000 +0000" channel="BBC NEWS HD">
-        <title>The Context with Christian Fraser</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130223000 +0000" channel="BBC NEWS HD">
         <title>BBC News at Ten</title>
