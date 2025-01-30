@@ -30702,8 +30702,11 @@
     <programme start="20250130060000 +0000" stop="20250130060200 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250130060200 +0000" stop="20250130070000 +0000" channel="ATN">
+    <programme start="20250130060200 +0000" stop="20250130060700 +0000" channel="ATN">
         <title>Fajr Adhaan</title>
+    </programme>
+    <programme start="20250130060700 +0000" stop="20250130070000 +0000" channel="ATN">
+        <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250130070000 +0000" stop="20250130073000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30750,8 +30753,11 @@
     <programme start="20250130143000 +0000" stop="20250130145700 +0000" channel="ATN">
         <title>Showvaggo</title>
     </programme>
-    <programme start="20250130145700 +0000" stop="20250130155500 +0000" channel="ATN">
+    <programme start="20250130145700 +0000" stop="20250130150400 +0000" channel="ATN">
         <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250130150400 +0000" stop="20250130155500 +0000" channel="ATN">
+        <title>Showvaggo</title>
     </programme>
     <programme start="20250130155500 +0000" stop="20250130160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30759,8 +30765,11 @@
     <programme start="20250130160000 +0000" stop="20250130164800 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250130164800 +0000" stop="20250130170000 +0000" channel="ATN">
+    <programme start="20250130164800 +0000" stop="20250130165300 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250130165300 +0000" stop="20250130170000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250130170000 +0000" stop="20250130173000 +0000" channel="ATN">
         <title>Shapla Shaluk</title>
@@ -31077,8 +31086,11 @@
     <programme start="20250130053300 +0000" stop="20250130060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250130060000 +0000" stop="20250130060700 +0000" channel="iON TV">
+    <programme start="20250130060000 +0000" stop="20250130060200 +0000" channel="iON TV">
         <title>iON News Time</title>
+    </programme>
+    <programme start="20250130060200 +0000" stop="20250130060700 +0000" channel="iON TV">
+        <title>Azan-e-Fajr</title>
     </programme>
     <programme start="20250130060700 +0000" stop="20250130063000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -31107,8 +31119,11 @@
     <programme start="20250130120000 +0000" stop="20250130121900 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250130121900 +0000" stop="20250130130000 +0000" channel="iON TV">
+    <programme start="20250130121900 +0000" stop="20250130122400 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
+    </programme>
+    <programme start="20250130122400 +0000" stop="20250130130000 +0000" channel="iON TV">
+        <title>Drama Time</title>
     </programme>
     <programme start="20250130130000 +0000" stop="20250130133000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -31116,8 +31131,11 @@
     <programme start="20250130133000 +0000" stop="20250130140000 +0000" channel="iON TV">
         <title>Kirishi 24</title>
     </programme>
-    <programme start="20250130140000 +0000" stop="20250130150400 +0000" channel="iON TV">
+    <programme start="20250130140000 +0000" stop="20250130145900 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
+    </programme>
+    <programme start="20250130145900 +0000" stop="20250130150400 +0000" channel="iON TV">
+        <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250130150400 +0000" stop="20250130153000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>

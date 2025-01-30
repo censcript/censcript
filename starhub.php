@@ -2175,9 +2175,6 @@
     <programme start="20250128220000 +0000" stop="20250128230000 +0000" channel="ETTV ASIA HD.starhub">
         <title>All Star Quiz Show</title>
     </programme>
-    <programme start="20250128230000 +0000" stop="20250129000000 +0000" channel="ETTV ASIA HD.starhub">
-        <title>Dee Girl&#039;s Talk</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129010000 +0000" channel="ETTV ASIA HD.starhub">
         <title>Tonight Like War</title>
     </programme>
@@ -2400,6 +2397,9 @@
     <programme start="20250131190000 +0000" stop="20250131200000 +0000" channel="ETTV ASIA HD.starhub">
         <title>Dee Girl&#039;s Talk</title>
     </programme>
+    <programme start="20250131200000 +0000" stop="20250131210000 +0000" channel="ETTV ASIA HD.starhub">
+        <title>No.57 Dream Boulevard - Reserve Your Dreams</title>
+    </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
@@ -2468,9 +2468,6 @@
     </programme>
     <programme start="20250128220000 +0000" stop="20250128230000 +0000" channel="TVBS-NEWS.starhub">
         <title>Sweet Crisis-The Island Of Diabetes</title>
-    </programme>
-    <programme start="20250128230000 +0000" stop="20250129000000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
     </programme>
     <programme start="20250129000000 +0000" stop="20250129010000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
@@ -2699,6 +2696,9 @@
     </programme>
     <programme start="20250201030000 +0000" stop="20250201040000 +0000" channel="TVBS-NEWS.starhub">
         <title>1100 Morning News</title>
+    </programme>
+    <programme start="20250201040000 +0000" stop="20250201050000 +0000" channel="TVBS-NEWS.starhub">
+        <title>1200/1300 Noon News</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128003000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
@@ -3117,9 +3117,6 @@
     <programme start="20250128230000 +0000" stop="20250128233000 +0000" channel="ANC.starhub">
         <title>Arts.21</title>
     </programme>
-    <programme start="20250128233000 +0000" stop="20250129000000 +0000" channel="ANC.starhub">
-        <title>Banker After Dark</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129010000 +0000" channel="ANC.starhub">
         <title>Headstart</title>
     </programme>
@@ -3299,6 +3296,9 @@
     </programme>
     <programme start="20250130120000 +0000" stop="20250130123000 +0000" channel="ANC.starhub">
         <title>The Business Outlook</title>
+    </programme>
+    <programme start="20250130123000 +0000" stop="20250130130000 +0000" channel="ANC.starhub">
+        <title>Dayaw</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="TVBS Asia.starhub">
         <title>Super Taste: 48 Hour Burning Desire!</title>
@@ -4986,9 +4986,6 @@
     <programme start="20250128231500 +0000" stop="20250128233000 +0000" channel="DW English HD.starhub">
         <title>How Big Tech’s carbon offsets are threatening Kenyans (Part 1)</title>
     </programme>
-    <programme start="20250128233000 +0000" stop="20250129000000 +0000" channel="DW English HD.starhub">
-        <title>Algae - Superfood, staple and delicacy</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -5100,6 +5097,9 @@
     <programme start="20250129153000 +0000" stop="20250129160000 +0000" channel="DW English HD.starhub">
         <title>How can we improve life in our cities?</title>
     </programme>
+    <programme start="20250129160000 +0000" stop="20250129161500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
     <programme start="20250127233000 +0000" stop="20250128013000 +0000" channel="Asianet Movies.starhub">
         <title>Paapam Cheyyathavar Kalleriyatte</title>
     </programme>
@@ -5155,7 +5155,7 @@
         <title>Oru B&amp;W Kudumbam</title>
     </programme>
     <programme start="20250129233000 +0000" stop="20250130013000 +0000" channel="Asianet Movies.starhub">
-        <title>Money Rathnam</title>
+        <title>Money Ratnam</title>
     </programme>
     <programme start="20250130013000 +0000" stop="20250130043000 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
@@ -5182,7 +5182,7 @@
         <title>Paramapatham Vilayattu</title>
     </programme>
     <programme start="20250130233000 +0000" stop="20250131013000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Saajan Bakery Since 1962</title>
     </programme>
     <programme start="20250131013000 +0000" stop="20250131043000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
@@ -5293,6 +5293,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208163000 +0000" stop="20250208220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="HISTORY HD.starhub">
@@ -7512,9 +7524,6 @@
     <programme start="20250128223000 +0000" stop="20250128230000 +0000" channel="TVB Jade HD.starhub">
         <title>Scoop 2025</title>
     </programme>
-    <programme start="20250128230000 +0000" stop="20250129000000 +0000" channel="TVB Jade HD.starhub">
-        <title>Good Morning Hong Kong and Global View</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129010000 +0000" channel="TVB Jade HD.starhub">
         <title>Wars Of In-Laws II</title>
     </programme>
@@ -7694,6 +7703,9 @@
     </programme>
     <programme start="20250130193000 +0000" stop="20250130214500 +0000" channel="TVB Jade HD.starhub">
         <title>I Corrupt All Cops</title>
+    </programme>
+    <programme start="20250130214500 +0000" stop="20250130220000 +0000" channel="TVB Jade HD.starhub">
+        <title>Happy Old Buddies</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128003000 +0000" channel="Zee TV.starhub">
         <title>Bas Itna Sa Khwaab</title>
@@ -13734,9 +13746,6 @@
     <programme start="20250128212900 +0000" stop="20250128214900 +0000" channel="SONY MAX.starhub">
         <title>Extraaa Storiez Sardar Udham</title>
     </programme>
-    <programme start="20250128214900 +0000" stop="20250129000000 +0000" channel="SONY MAX.starhub">
-        <title>Parineeta</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129010500 +0000" channel="SONY MAX.starhub">
         <title>Extraa Shots Ludo</title>
     </programme>
@@ -13994,6 +14003,9 @@
     </programme>
     <programme start="20250204142200 +0000" stop="20250204162400 +0000" channel="SONY MAX.starhub">
         <title>Pyar Mein Twist</title>
+    </programme>
+    <programme start="20250204162400 +0000" stop="20250204184500 +0000" channel="SONY MAX.starhub">
+        <title>Chehre</title>
     </programme>
     <programme start="20250127234000 +0000" stop="20250128000500 +0000" channel="HGTV.starhub">
         <title>Girl Dad Goes To Florida</title>
@@ -15292,7 +15304,7 @@
         <title>Wed,MD8</title>
     </programme>
     <programme start="20250129230000 +0000" stop="20250130005000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25 Aston Villa vs Celtic - MD8</title>
+        <title>Aston Villa vs Celtic - MD8</title>
     </programme>
     <programme start="20250130005000 +0000" stop="20250130024000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25 Girona vs Arsenal - MD8</title>
@@ -17145,9 +17157,6 @@
     <programme start="20250128230000 +0000" stop="20250128233000 +0000" channel="Travelxp HD.starhub">
         <title>Stockholm</title>
     </programme>
-    <programme start="20250128233000 +0000" stop="20250129000000 +0000" channel="Travelxp HD.starhub">
-        <title>Jaisalmer, India</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129003000 +0000" channel="Travelxp HD.starhub">
         <title>Huascarán, Peru</title>
     </programme>
@@ -17294,6 +17303,9 @@
     </programme>
     <programme start="20250129233000 +0000" stop="20250130000000 +0000" channel="Travelxp HD.starhub">
         <title>Jodhpur and Nimaj, India</title>
+    </programme>
+    <programme start="20250130000000 +0000" stop="20250130003000 +0000" channel="Travelxp HD.starhub">
+        <title>Lima, Peru</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
@@ -18736,6 +18748,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Zee Thirai.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Zee Thirai.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128020000 +0000" channel="SEA Today.starhub">
@@ -21375,9 +21399,6 @@
     <programme start="20250128234500 +0000" stop="20250128235500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Dig More Japan</title>
     </programme>
-    <programme start="20250128235500 +0000" stop="20250129000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>The Seasons Of Yamato</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129001500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
@@ -21437,6 +21458,9 @@
     </programme>
     <programme start="20250129053000 +0000" stop="20250129060000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Dive In Tokyo</title>
+    </programme>
+    <programme start="20250129060000 +0000" stop="20250129063000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250127231000 +0000" stop="20250128004000 +0000" channel="HBO Hits HD.starhub">
         <title>Shrek The Third</title>
@@ -24789,22 +24813,25 @@
     <programme start="20250130073000 +0000" stop="20250130120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M16 - Delhi Capitals vs Kolkata Knight Riders</title>
     </programme>
-    <programme start="20250130120000 +0000" stop="20250130160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250130120000 +0000" stop="20250130155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250130155000 +0000" stop="20250130160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250130160000 +0000" stop="20250130220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250130220000 +0000" stop="20250131012000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250130220000 +0000" stop="20250131020000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250131012000 +0000" stop="20250131052000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250131020000 +0000" stop="20250131053500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st T20I</title>
     </programme>
-    <programme start="20250131052000 +0000" stop="20250131092000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250131053500 +0000" stop="20250131093000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
-    <programme start="20250131092000 +0000" stop="20250131132000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250131093000 +0000" stop="20250131132000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
     <programme start="20250131132000 +0000" stop="20250131173000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25033,9 +25060,6 @@
         <title>TATA Women&#039;s Premier League 2025: M01 - Gujarat Giants vs Royal Challengers Beng</title>
     </programme>
     <programme start="20250214180000 +0000" stop="20250214220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250214220000 +0000" stop="20250215012000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128010000 +0000" channel="TVB Xing He.starhub">
@@ -25480,7 +25504,7 @@
         <title>Maryland Governor Wes Moore</title>
     </programme>
     <programme start="20250130023000 +0000" stop="20250130030000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Yanela Frias, Prudential</title>
+        <title>Monkey Laundering</title>
     </programme>
     <programme start="20250130030000 +0000" stop="20250130040000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Carolyn Tisch Blodgett</title>
@@ -25608,9 +25632,6 @@
     <programme start="20250201043000 +0000" stop="20250201050000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Novo Nordisk CEO Lars Fruergaard Jorgensen</title>
     </programme>
-    <programme start="20250201050000 +0000" stop="20250201060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Irretrievable</title>
-    </programme>
     <programme start="20250201060000 +0000" stop="20250201063000 +0000" channel="Bloomberg Television HD.starhub">
         <title>How Youth Sports Became a $38 Billion Play</title>
     </programme>
@@ -25637,6 +25658,9 @@
     </programme>
     <programme start="20250201120000 +0000" stop="20250201130000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Carolyn Tisch Blodgett</title>
+    </programme>
+    <programme start="20250201130000 +0000" stop="20250201133000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Best of the Bloomberg Women, Money &amp; Power Event</title>
     </programme>
     <programme start="20250127230000 +0000" stop="20250128010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
@@ -26415,9 +26439,6 @@
     <programme start="20250128233000 +0000" stop="20250128235000 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-Food</title>
     </programme>
-    <programme start="20250128235000 +0000" stop="20250129000000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Tech Green Solutions 2024</title>
-    </programme>
     <programme start="20250129000000 +0000" stop="20250129001500 +0000" channel="Arirang TV HD.starhub">
         <title>K-Chat: Travel In Korea</title>
     </programme>
@@ -26537,6 +26558,9 @@
     </programme>
     <programme start="20250129150000 +0000" stop="20250129153000 +0000" channel="Arirang TV HD.starhub">
         <title>I&#039;m Live</title>
+    </programme>
+    <programme start="20250129153000 +0000" stop="20250129160000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Stage Pan</title>
     </programme>
     <programme start="20250128000000 +0000" stop="20250128013000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
@@ -28332,6 +28356,12 @@
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="tvN HD.starhub">
         <title>End Of Transmission</title>
     </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
     <programme start="20250127220000 +0000" stop="20250128040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
@@ -28471,6 +28501,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250127235500 +0000" stop="20250128004000 +0000" channel="HBO Family HD.starhub">
@@ -30891,6 +30933,18 @@
     <programme start="20250208145000 +0000" stop="20250208170000 +0000" channel="Hub Sports 7.starhub">
         <title>The Emirates FA Cup 2024/25 R4: Coventry City vs Ipswich Town (Live)</title>
     </programme>
+    <programme start="20250208170000 +0000" stop="20250208220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -31815,6 +31869,18 @@
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250127220000 +0000" stop="20250128040000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32622,6 +32688,18 @@
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250127220000 +0000" stop="20250128040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32761,6 +32839,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
