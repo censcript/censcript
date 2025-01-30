@@ -37749,23 +37749,20 @@
     <programme start="20250130230500 +0000" stop="20250131000500 +0000" channel="BBC Two NI HD">
         <title>First Communion</title>
     </programme>
-    <programme start="20250129223000 +0000" stop="20250130015000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250129223000 +0000" stop="20250130014000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
-    <programme start="20250130015000 +0000" stop="20250130030500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250130014000 +0000" stop="20250130030000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250130030500 +0000" stop="20250130042000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250130030000 +0000" stop="20250130042000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250130042000 +0000" stop="20250130060000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250130042000 +0000" stop="20250130054000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250130060000 +0000" stop="20250130063000 +0000" channel="BBC RB 1 HD">
-        <title>This is BBC Red Button</title>
-    </programme>
-    <programme start="20250130063000 +0000" stop="20250130070000 +0000" channel="BBC RB 1 HD">
-        <title>This is BBC Red Button</title>
+    <programme start="20250130054000 +0000" stop="20250130070000 +0000" channel="BBC RB 1 HD">
+        <title>MOTD: UEFA Champions League</title>
     </programme>
     <programme start="20250130070000 +0000" stop="20250130082500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
