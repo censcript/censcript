@@ -15289,9 +15289,15 @@
         <title>Live Business and Trade Questions</title>
     </programme>
     <programme start="20250130103000 +0000" stop="20250130113000 +0000" channel="BBC Parl HD">
+        <title>Live Avian Influenza Urgent Question</title>
+    </programme>
+    <programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="BBC Parl HD">
+        <title>Live House of Commons</title>
+    </programme>
+    <programme start="20250130120000 +0000" stop="20250130130000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250130113000 +0000" stop="20250130173000 +0000" channel="BBC Parl HD">
+    <programme start="20250130130000 +0000" stop="20250130173000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250130173000 +0000" stop="20250130181500 +0000" channel="BBC Parl HD">
@@ -24859,7 +24865,7 @@
         <title>Luxury Jewellery Gifts</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="QVC Style HD">
-        <title>Vionic Footwear</title>
+        <title>New Year, New Kim &amp; Co</title>
     </programme>
     <programme start="20250130230000 +0000" stop="20250131000000 +0000" channel="QVC Style HD">
         <title>Last Chance MarlaWynne under £50</title>
@@ -25477,16 +25483,16 @@
         <title>Sara Davies Home Collection</title>
     </programme>
     <programme start="20250130160000 +0000" stop="20250130170000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Luxury Jewellery Gifts</title>
     </programme>
     <programme start="20250130170000 +0000" stop="20250130180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250130180000 +0000" stop="20250130190000 +0000" channel="QVC Extra">
-        <title>Winter Cooking with Le Creuset</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250130190000 +0000" stop="20250130200000 +0000" channel="QVC Extra">
-        <title>Get it or Regret It Kitchen Finds</title>
+        <title>New Season Masai Clothing Copenhagen</title>
     </programme>
     <programme start="20250130200000 +0000" stop="20250130210000 +0000" channel="QVC Extra">
         <title>Diamonique All That Glitters</title>
@@ -31824,10 +31830,10 @@
     <programme start="20250130173000 +0000" stop="20250130183000 +0000" channel="ColorsGujarati">
         <title>Rasoi Show</title>
     </programme>
-    <programme start="20250130183000 +0000" stop="20250130190000 +0000" channel="ColorsGujarati">
+    <programme start="20250130183000 +0000" stop="20250130190200 +0000" channel="ColorsGujarati">
         <title>Rangai Jaane Rangma</title>
     </programme>
-    <programme start="20250130190000 +0000" stop="20250130193000 +0000" channel="ColorsGujarati">
+    <programme start="20250130190200 +0000" stop="20250130193000 +0000" channel="ColorsGujarati">
         <title>Shyam Dhun Laagi Re</title>
     </programme>
     <programme start="20250130193000 +0000" stop="20250130200000 +0000" channel="ColorsGujarati">
