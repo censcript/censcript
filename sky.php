@@ -15141,17 +15141,11 @@
     <programme start="20250130053000 +0000" stop="20250130060000 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
     </programme>
-    <programme start="20250130060000 +0000" stop="20250130063000 +0000" channel="BBC NEWS HD">
+    <programme start="20250130060000 +0000" stop="20250130070000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250130063000 +0000" stop="20250130070000 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250130070000 +0000" stop="20250130073000 +0000" channel="BBC NEWS HD">
+    <programme start="20250130070000 +0000" stop="20250130080000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
-    </programme>
-    <programme start="20250130073000 +0000" stop="20250130080000 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
     </programme>
     <programme start="20250130080000 +0000" stop="20250130083000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
@@ -29415,10 +29409,10 @@
     <programme start="20250130163000 +0000" stop="20250130165000 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
-    <programme start="20250130165000 +0000" stop="20250130170000 +0000" channel="Eman Channel">
+    <programme start="20250130165000 +0000" stop="20250130170300 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250130170000 +0000" stop="20250130173000 +0000" channel="Eman Channel">
+    <programme start="20250130170300 +0000" stop="20250130173000 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
     <programme start="20250130173000 +0000" stop="20250130174500 +0000" channel="Eman Channel">
