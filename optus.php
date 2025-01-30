@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250130133000 +0000" stop="20250130140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
-    </programme>
     <programme start="20250131103000 +0000" stop="20250131110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
