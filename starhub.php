@@ -4981,7 +4981,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250130003000 +0000" stop="20250130010000 +0000" channel="DW English HD.starhub">
-        <title>The Program for Latin America&#039;s Youth</title>
+        <title>How your country is running out of professionals</title>
     </programme>
     <programme start="20250130010000 +0000" stop="20250130011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5005,7 +5005,7 @@
         <title>How Big Tech’s carbon offsets are threatening Kenyans (Part 2)</title>
     </programme>
     <programme start="20250130033000 +0000" stop="20250130040000 +0000" channel="DW English HD.starhub">
-        <title>The Program for Latin America&#039;s Youth</title>
+        <title>How your country is running out of professionals</title>
     </programme>
     <programme start="20250130040000 +0000" stop="20250130041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5022,11 +5022,8 @@
     <programme start="20250130053000 +0000" stop="20250130060000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
     </programme>
-    <programme start="20250130060000 +0000" stop="20250130061500 +0000" channel="DW English HD.starhub">
+    <programme start="20250130060000 +0000" stop="20250130063000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250130061500 +0000" stop="20250130063000 +0000" channel="DW English HD.starhub">
-        <title>How Big Tech’s carbon offsets are threatening Kenyans (Part 2)</title>
     </programme>
     <programme start="20250130063000 +0000" stop="20250130070000 +0000" channel="DW English HD.starhub">
         <title>Climate change: struggling with natural disasters</title>
@@ -5041,16 +5038,19 @@
         <title>News</title>
     </programme>
     <programme start="20250130083000 +0000" stop="20250130090000 +0000" channel="DW English HD.starhub">
-        <title>The Program for Latin America&#039;s Youth</title>
+        <title>How your country is running out of professionals</title>
     </programme>
-    <programme start="20250130090000 +0000" stop="20250130091500 +0000" channel="DW English HD.starhub">
+    <programme start="20250130090000 +0000" stop="20250130093000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250130091500 +0000" stop="20250130100000 +0000" channel="DW English HD.starhub">
-        <title>Gym Boys - Why Young Men Pump Iron</title>
+    <programme start="20250130093000 +0000" stop="20250130100000 +0000" channel="DW English HD.starhub">
+        <title>Climate change: struggling with natural disasters</title>
     </programme>
-    <programme start="20250130100000 +0000" stop="20250130103000 +0000" channel="DW English HD.starhub">
+    <programme start="20250130100000 +0000" stop="20250130101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250130101500 +0000" stop="20250130103000 +0000" channel="DW English HD.starhub">
+        <title>How Big Tech’s carbon offsets are threatening Kenyans (Part 2)</title>
     </programme>
     <programme start="20250130103000 +0000" stop="20250130110000 +0000" channel="DW English HD.starhub">
         <title>How can we improve life in our cities?</title>
@@ -6751,7 +6751,7 @@
         <title>Information Worth Knowing from the News Commentator Bureau</title>
     </programme>
     <programme start="20250130032800 +0000" stop="20250130033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>News</title>
     </programme>
     <programme start="20250130033000 +0000" stop="20250130034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 49</title>
@@ -6759,10 +6759,10 @@
     <programme start="20250130034500 +0000" stop="20250130040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 84 (R)</title>
     </programme>
-    <programme start="20250130040000 +0000" stop="20250130040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250130040000 +0000" stop="20250130041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250130040500 +0000" stop="20250130055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250130041000 +0000" stop="20250130055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250130055000 +0000" stop="20250130055500 +0000" channel="NHK World Premium HD.starhub">

@@ -38155,7 +38155,7 @@
         <title>Classic FM Requests</title>
     </programme>
     <programme start="20250130140000 +0000" stop="20250130160000 +0000" channel="Classic FM">
-        <title>Anne-Marie Minhall</title>
+        <title>John Brunning</title>
     </programme>
     <programme start="20250130160000 +0000" stop="20250130190000 +0000" channel="Classic FM">
         <title>Margherita Taylor</title>
@@ -39378,10 +39378,10 @@
     <programme start="20250130000000 +0000" stop="20250130030000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250130030000 +0000" stop="20250130110000 +0000" channel="BBC R5SX">
+    <programme start="20250130030000 +0000" stop="20250130120000 +0000" channel="BBC R5SX">
         <title>Test Match Special</title>
     </programme>
-    <programme start="20250130110000 +0000" stop="20250130180000 +0000" channel="BBC R5SX">
+    <programme start="20250130120000 +0000" stop="20250130180000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250130180000 +0000" stop="20250130190000 +0000" channel="BBC R5SX">
