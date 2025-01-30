@@ -15165,11 +15165,8 @@
     <programme start="20250130103000 +0000" stop="20250130110000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250130110000 +0000" stop="20250130113000 +0000" channel="BBC NEWS HD">
+    <programme start="20250130110000 +0000" stop="20250130114500 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250130113000 +0000" stop="20250130114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
     </programme>
     <programme start="20250130114500 +0000" stop="20250130120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -15288,11 +15285,11 @@
     <programme start="20250130093000 +0000" stop="20250130103000 +0000" channel="BBC Parl HD">
         <title>Live Business and Trade Questions</title>
     </programme>
-    <programme start="20250130103000 +0000" stop="20250130113000 +0000" channel="BBC Parl HD">
+    <programme start="20250130103000 +0000" stop="20250130111500 +0000" channel="BBC Parl HD">
         <title>Live Avian Influenza Urgent Question</title>
     </programme>
-    <programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="BBC Parl HD">
-        <title>Live House of Commons</title>
+    <programme start="20250130111500 +0000" stop="20250130120000 +0000" channel="BBC Parl HD">
+        <title>Live Women's Health Strategy Urgent Question</title>
     </programme>
     <programme start="20250130120000 +0000" stop="20250130130000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
