@@ -12924,14 +12924,17 @@
     <programme start="20250131133000 +0000" stop="20250131150000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Montpellier QF 1 Bu v Auger-Aliassime</title>
     </programme>
-    <programme start="20250131150000 +0000" stop="20250131173000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250131150000 +0000" stop="20250131170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Montpellier QF 2 Griekspoor v De Jong</title>
     </programme>
+    <programme start="20250131170000 +0000" stop="20250131173000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
+    </programme>
     <programme start="20250131173000 +0000" stop="20250131193000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 3</title>
+        <title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
     </programme>
     <programme start="20250131193000 +0000" stop="20250131213000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 4</title>
+        <title>ATP Tour 250 2025: Montpellier QF 4 Bublik v Kovacevic</title>
     </programme>
     <programme start="20250131213000 +0000" stop="20250131214500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Classic Shorts (CC): Federer v Monfils 2010</title>
@@ -13082,9 +13085,6 @@
     </programme>
     <programme start="20250203133000 +0000" stop="20250203153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Rotterdam Day 1 Match 2</title>
-    </programme>
-    <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Nitto ATP Finals 2024: Turin Day 3 Doubles Granollers/Zeballos v Koolhof/Mektic</title>
