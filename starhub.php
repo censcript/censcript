@@ -24876,11 +24876,8 @@
     <programme start="20250131173000 +0000" stop="20250131220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250131220000 +0000" stop="20250131233500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250131220000 +0000" stop="20250201004500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250131233500 +0000" stop="20250201040000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>TATA Indian Premier League 2024: M17 - Gujarat Titans vs Punjab Kings</title>
     </programme>
     <programme start="20250201040000 +0000" stop="20250201080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M18 - Sunrisers Hyderabad vs Chennai Super King</title>
