@@ -999,11 +999,8 @@
     <programme start="20250130160000 +0000" stop="20250131060000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 31st January, Friday 2pm. Singapore Tennis Open 2025: Women’s Singles Quarter-finals</title>
     </programme>
-    <programme start="20250131060000 +0000" stop="20250131140000 +0000" channel="Live 5.mewatch">
+    <programme start="20250131060000 +0000" stop="20250131160000 +0000" channel="Live 5.mewatch">
         <title>Singapore Tennis Open 2025: Women’s Singles Quarter-finals</title>
-    </programme>
-    <programme start="20250131140000 +0000" stop="20250131160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st February, Saturday 2pm. Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
     </programme>
     <programme start="20250131160000 +0000" stop="20250201160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 1st February, Saturday 2pm. Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
