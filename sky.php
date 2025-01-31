@@ -7173,11 +7173,8 @@
     <programme start="20250131220000 +0000" stop="20250131230500 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250131230500 +0000" stop="20250131234000 +0000" channel="That's TV 3">
-        <title>Three Up, Two Down</title>
-    </programme>
-    <programme start="20250131234000 +0000" stop="20250201004000 +0000" channel="That's TV 3">
-        <title>Bread</title>
+    <programme start="20250131230500 +0000" stop="20250201000500 +0000" channel="That's TV 3">
+        <title>That's Oldies: Classic Hit Music</title>
     </programme>
     <programme start="20250130220000 +0000" stop="20250130230000 +0000" channel="ITV1+1">
         <title>New: Beat the Chasers</title>
@@ -27640,7 +27637,7 @@
         <title>Basharat Mosque</title>
     </programme>
     <programme start="20250131180000 +0000" stop="20250131182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250131182000 +0000" stop="20250131183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -27652,7 +27649,7 @@
         <title>Mashal-e-Rah</title>
     </programme>
     <programme start="20250131190000 +0000" stop="20250131194500 +0000" channel="MTA1 World HD">
-        <title>Address At Ansarullah Ijtema UK</title>
+        <title>Mashal-e-Rah</title>
     </programme>
     <programme start="20250131194500 +0000" stop="20250131201500 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
@@ -27679,7 +27676,7 @@
         <title>Science Online</title>
     </programme>
     <programme start="20250131224500 +0000" stop="20250131225500 +0000" channel="MTA1 World HD">
-        <title>UK Tabligh Pioneers</title>
+        <title>Wild Life Of Pakistan</title>
     </programme>
     <programme start="20250131225500 +0000" stop="20250131234500 +0000" channel="MTA1 World HD">
         <title>Road To The Mosque</title>
@@ -28360,7 +28357,7 @@
         <title>Mann Marzi</title>
     </programme>
     <programme start="20250131160000 +0000" stop="20250131170000 +0000" channel="GEO TV">
-        <title>Guddi</title>
+        <title>Mehshar</title>
     </programme>
     <programme start="20250131170000 +0000" stop="20250131180000 +0000" channel="GEO TV">
         <title>Bajjo</title>
@@ -29104,64 +29101,82 @@
         <title>Quran Majeed Seakhiye</title>
     </programme>
     <programme start="20250131180000 +0000" stop="20250131182900 +0000" channel="Islam Ch Urdu">
-        <title>Good Evening 0" chaee2iyeorgramme start="20250131000000 +0000" stop="20250131010000 +0000" channel="Ahlebait TV">
-      Islam TV">
-        <title>Khedood Evening 0" chaee2iyeorgrhanneoi>Dil <programme start="20250131151300 +0000" stop="au EUROPE">
-        <title>Meem Se Muhabbat</title>
-   000"50131113000 +0000" stop="20250131121000 +0000" channel="Islam Ch Urdu">
-        <tit1190000 +0000" channel="HUM EUROPE">
-        <titleo      <title>Dhuhr Adhan</titleeraem Ch Urdu">
-        <title>Brunch Time</titl131121400 +0000" stop="20250131123000 +0000" channelleo      <title>Dhuhr Adhan</titleeraem Ch Urdu">
-        <title>Brunch Time</titl131121400 +0000" stop="202501311unch Time</titl131121400 +0000" stop="202501311230le>
+        <title>Good Evening London</title>
     </programme>
-    <programme start="202501sSBch Time</titl131121400 +0000" stop="20250131123000 +0000" channelleo      <title>Dhuhr Adhan</titleeraem Ch Urdu">
-  isb TV">
-        <title>Isha Azan</title>
+    <programme start="20250131182900 +0000" stop="20250131183600 +0000" channel="Islam Ch Urdu">
+        <title>Isha Adhan</title>
     </programme>
-    <programme start="20250131184900 +0bF   </programme>
-    <r A2501orihMme>
-    <programme s0 +0000" stop="2025013108000etitly000 l00 +el="Islam Ch Urdu">
-        <title>Asr Adhan</title>
+    <programme start="20250131183600 +0000" +0000" channel="HUM EUROPE">
+        Gle>Roshni</title>
     </programme>
-    <programme start="20250131143200y0250isbamme start="20250131200500 +0000" stop="20250131210000 +0000" channel="IQRA TV">
-        <titlehanneoisSE 3iuKb0" stop="20250131150600 +0000" channel="IQRA TV">
-        <title>Asr Azan</title>
-    </programtitle>Diyar-e-Dil</title>
+    <programme sSprogramme>
+    <programme start="202501311652oel="HUM EUROPE">
+        <title>Tan Man Neelo Neel</title>
     </programme>
-    <programme start="20250131230000 +0000" stop="20250201000000 +0000"0131n/title>
+    <programme start="2e>Til>
+    <programme sSprogramme>oule>Meem Se Muhabbat</title>
+op="me>
+    <programme start="20250131183600 +0000" +0000au <title>Diyar-e-Dil</title>
     </programme>
-    <programme start="20250131150000 +0000" stop01311hLkbeer TV">
-         ec +0000" stop="2025013L stop="20250131125100 +0000" channel="Islam Ch Urdu">
-+0000"0131n/title>
+    <pro EUROPE">
+        <title>Dil Aik Shehr-e-Junoon</title>
+   "Ahlebait TV">
+        <title>Majlis-e-Esale Sawab</title>
     </programme>
-    <prog start="20250131200500 +000ole>Subh-e-Nau</title>
+    <programme start="202501311gramme>
+    <programme start="20250131010000 +0000"dsnooct <programme start="20250131153000 +0000" stoan</title>
     </programme>
-    <programme start="20250131110000 +0000" stop="2025013top=s N  </nart="20250131200500 +000ole>Subh-e-Nau</title>
+    <programme start="20me start="20250131010000 +0000"dsnooct <programme start="20250131153000 +0000" stoan</title>
     </programme>
-    <progr <tchannel="Islam Ch Urdu">
-        <title>Sunhairi Baatain</title>
+    3000 +0000" stoan</title>
     </programme>
-    <programme p000" yBi202dproge-Nau</title>
+    <prrogramme start="20250131200000 +0000" stop="20250mSB00 +0000" stoan</title>
     </programme>
-    <progr <tchannel="Islam Ch Urdu">
-        <title>Sun3start="20250131184900 +0bF  000"n="20250131180000 +0000" channel="HUM EUROPE">
-        <title>Meem Se Muhas2>
-+000tt="20250131060600 +0000" stop="20250131070000 +0000" chantle>
-s0131160000 +0000" channel="Islam Ch Urdu">
-      e>Khedood Evening 0" tle>Meem Se Muhas2>
-+000tt="3tart="20250131170000 +0000" i" st00 +eial</title>
+    <programme start="20me start="20250131010000 +0000"dsnooct <programme stisb0000" channel="IQRA TV">
+        <title>Q &amp; A</title>
     </programme>
-   <proi2
-    <programme start="20250131000000 +000y020000 +0000" channelprogramme>
-    <progr <tchannel="Islam Ch Urdu">
-        rt="20250131150000 +0000" stop01311hLkbeer TV">
-         ec +0000" stop="2025013L stop= cha300 +0000" stop="20250131153000 +0000" channel="1183400 +0000" stop="20250131190000 +0000" channe"Islam Ch Urdu">
-        <tRedood Evening 0" tle>Meem Se Muhas2>
-+000tt="3tart="20250131170000 +0000" i" st00 +eial</title>
-           <title>Sarkar Ki Batain</t0000 +0000" channel="Islam hannel="Islam Ch Urduso20250siBi <programme start="20250131184y1849 <tchannel="Islam Ch Urdu">
-  000seitle>Sun3start="20250131184900 +0bF  000"n="20250131180000 +000sbmme start="20250131090000 +0000" stop="20250131100000 +0000" channel="Islam TV">
-        <title4bchannel="Islam Ch U"Islam Ch Urdu">
-      e>Khedood Evening 0" tle>Meem Se Muhas2>V">
-        <title>Khatam Ul Quran</title>
+    <programme startbFlo Neel</title>
+    <    <programme start="20250131050000 +0000" stop="20250131054400 +0roulIM50131160000 +0000" c" stop="20250131150600 +0000" channel="Islam TVt="20250131080000 +0000" stop=uogralGle> from Madina: Maghrib</title>
     </programme>
-    <programme start="20250131184400 +0000" stop="202ab
+    <programme start="20250131153000 +0000" stop="202501311yitleisbA TV">
+        <title>Iqra News</title>
+    </programme>
+    <programme start="20250131220500 +JunoonisSE 3iuKbprogramme>
+    <programme start="20250131160500 +0000" stop="20250131165400 +0000" channel="IQRp="20250131165200 +0000" channel="HUM EUROPE">
+        <title>Diyar-e-Dil</title>
+    </programme>
+    <programme dIM
+    <programme star<programme start="20250131170000 +0000" stop="2>Choti Si Zindagi</title>
+    u0250lme>
+itle>Quran Majeed Seakhiye</title>
+    </programme>
+    <programme start="20250131180000 +0000" stop="2025pcEe>
+    <programme start="20250131080300 +0000" stop="20250131090000 +0000" channel="IQRA TV">
+ title>
+    </programme>
+    <programme start="20250131153000 +0000" stop="20250131160000   <aomme ulBi    <title>Surah-Ya-Sin</title>
+    </programme>
+    < ReCfdu">iy1530/programme>
+    <programme start="20250131140000 +0000" stop="20250131150100 +0000" chae5013o
+   1R<    <programme start="20250100 nramme>
+    <programme start="20250131060700 +0000" stop="20250131070000 +if  <programme start="2t<title>Quran Recitation</title>
+    </programme>
+    <pro202501s000" channel="Islam Ch Urdu">
+        <title>Liveil</title>
+    </progif  <programme start="2t<tit30250131190000 +0000" channeliPE">slam  channel="HUM EUROPE">
+       "2025i2annel="HUM EUROPE">
+        <title>Subh Seul="HUM EUROPE">
+     00 +0000" stop="20250131150100 +0000" chae5013o
+   1R<       <programme star<programme start="20250131170000 +0000" stop="2>Choti Si Zindagi</ti">
+ 31163000 +0000" stop="20250131164000 +0000" chantle>
+    </programme>
+    <programme start="20250le>Meem Se Muhabbat</title>R/title>
+    </progif  <programme start="2t<tit30250131190000 +0000" channeliPE">slam  channel="HUM Ee>Charity Appeal</title>
+    </prlam TV">
+        <title>Khatart="20250131120000 ao31190siBi  <programme start="2025013105y0 nr31160000   <aomme ulBi    <titPaimeprogramme start="20250100 nramme>
+    <programme start="2025013sb50131120000 +0000" stop="20250131121800 +0000" channel="Islam TV">
+        <title>Khatam Ul Qur4b>Quran Majeed Seakhdu">
+        <title>Liveil</title>
+    </progif  <programme staQuran</title>
+    </programme>
+    <programme start="20250131200000 +0000" stop="20250131210000 +0000" channel="Iab

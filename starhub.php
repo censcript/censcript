@@ -6754,7 +6754,7 @@
         <title>ETV Special &quot;The Old Man and the Sea Lion&quot; (R)</title>
     </programme>
     <programme start="20250131010000 +0000" stop="20250131010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20250131010500 +0000" stop="20250131015500 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK Special &quot;Gaming × Humanity&quot; The Frenzy of 3 Billion Players Worldwide (R)</title>
@@ -9588,11 +9588,8 @@
     <programme start="20250131043000 +0000" stop="20250131050000 +0000" channel="SPOTV2.starhub">
         <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
     </programme>
-    <programme start="20250131050000 +0000" stop="20250131140000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250131050000 +0000" stop="20250131150000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
-    </programme>
-    <programme start="20250131140000 +0000" stop="20250131150000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250131150000 +0000" stop="20250131173000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 18 Al Hilal vs Al Okhdood</title>
@@ -9839,6 +9836,9 @@
     </programme>
     <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="SPOTV2.starhub">
         <title>Thai League 1 24/25 Matchday 18 Highlights Buriram United vs Khonkaen United</title>
+    </programme>
+    <programme start="20250207150000 +0000" stop="20250207183000 +0000" channel="SPOTV2.starhub">
+        <title>Day 6 Session 1</title>
     </programme>
     <programme start="20250129230000 +0000" stop="20250130020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -11182,7 +11182,7 @@
         <title>For the Love of the Game</title>
     </programme>
     <programme start="20250131195500 +0000" stop="20250131220000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Leganes vs Rayo Vallecano (Live)</title>
+        <title>LaLiga 2024/25: Leganes vs Rayo Vallecano</title>
     </programme>
     <programme start="20250131220000 +0000" stop="20250131223000 +0000" channel="beIN Sports HD.starhub">
         <title>Valley Vaulters, Regal Retirees &amp; Gentle Gypsies</title>
@@ -11227,19 +11227,19 @@
         <title>LaLiga Talking Football 2024/25</title>
     </programme>
     <programme start="20250201125500 +0000" stop="20250201151000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Getafe vs Sevilla (Live)</title>
+        <title>LaLiga 2024/25: Getafe vs Sevilla</title>
     </programme>
     <programme start="20250201151000 +0000" stop="20250201172500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Villarreal vs Valladolid (Live)</title>
+        <title>LaLiga 2024/25: Villarreal vs Valladolid</title>
     </programme>
     <programme start="20250201172500 +0000" stop="20250201193500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Atletico Madrid vs Mallorca (Live)</title>
+        <title>LaLiga 2024/25: Atletico Madrid vs Mallorca</title>
     </programme>
     <programme start="20250201193500 +0000" stop="20250201195500 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga Zap 2024/25</title>
     </programme>
     <programme start="20250201195500 +0000" stop="20250201220000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Espanyol vs Real Madrid (Live)</title>
+        <title>LaLiga 2024/25: Espanyol vs Real Madrid</title>
     </programme>
     <programme start="20250201220000 +0000" stop="20250201235000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2 2024/25: Almeria vs Real Oviedo</title>
@@ -11275,19 +11275,19 @@
         <title>Sydney</title>
     </programme>
     <programme start="20250202125500 +0000" stop="20250202151000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Barcelona vs Alaves (Live)</title>
+        <title>LaLiga 2024/25: Barcelona vs Alaves</title>
     </programme>
     <programme start="20250202151000 +0000" stop="20250202172500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Valencia vs Celta Vigo (Live)</title>
+        <title>LaLiga 2024/25: Valencia vs Celta Vigo</title>
     </programme>
     <programme start="20250202172500 +0000" stop="20250202193500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Osasuna vs Real Sociedad (Live)</title>
+        <title>LaLiga 2024/25: Osasuna vs Real Sociedad</title>
     </programme>
     <programme start="20250202193500 +0000" stop="20250202195500 +0000" channel="beIN Sports HD.starhub">
         <title>Common Ground</title>
     </programme>
     <programme start="20250202195500 +0000" stop="20250202220000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2024/25: Real Betis vs Athletic Bilbao (Live)</title>
+        <title>LaLiga 2024/25: Real Betis vs Athletic Bilbao</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202235000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2 2024/25: Zaragoza vs Cadiz</title>
@@ -12952,25 +12952,25 @@
         <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
     <programme start="20250201020000 +0000" stop="20250201033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 2</title>
+        <title>ATP Tour 250 2025: Montpellier QF 2 Griekspoor v De Jong</title>
     </programme>
     <programme start="20250201033000 +0000" stop="20250201050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 3</title>
+        <title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
     </programme>
     <programme start="20250201050000 +0000" stop="20250201060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>United Cup 2025: Tournament Review</title>
     </programme>
     <programme start="20250201060000 +0000" stop="20250201073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 1</title>
+        <title>ATP Tour 250 2025: Montpellier QF 1 Bu v Auger-Aliassime</title>
     </programme>
     <programme start="20250201073000 +0000" stop="20250201090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 2</title>
+        <title>ATP Tour 250 2025: Montpellier QF 2 Griekspoor v De Jong</title>
     </programme>
     <programme start="20250201090000 +0000" stop="20250201103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 3</title>
+        <title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
     </programme>
     <programme start="20250201103000 +0000" stop="20250201120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier QF 4</title>
+        <title>ATP Tour 250 2025: Montpellier QF 4 Bublik v Kovacevic</title>
     </programme>
     <programme start="20250201120000 +0000" stop="20250201140000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
@@ -12997,7 +12997,7 @@
         <title>Dubai</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250202020000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles Final</title>
+        <title>Australian Open 2025: Men&#039;s Singles Final Sinner v Zverev</title>
     </programme>
     <programme start="20250202020000 +0000" stop="20250202033000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier SF 1</title>
@@ -13005,23 +13005,23 @@
     <programme start="20250202033000 +0000" stop="20250202050000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier SF 2</title>
     </programme>
-    <programme start="20250202050000 +0000" stop="20250202053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Tournament Film</title>
+    <programme start="20250202050000 +0000" stop="20250202060000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>2025 Official Tournament Film</title>
     </programme>
-    <programme start="20250202053000 +0000" stop="20250202070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier SF 1</title>
+    <programme start="20250202060000 +0000" stop="20250202063000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250202070000 +0000" stop="20250202090000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250202063000 +0000" stop="20250202083000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Australian Open 2025: Women&#039;s Singles Final Sabalenka v Keys</title>
     </programme>
-    <programme start="20250202090000 +0000" stop="20250202120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Singles Final</title>
+    <programme start="20250202083000 +0000" stop="20250202113000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Singles Final Sinner v Zverev</title>
     </programme>
-    <programme start="20250202120000 +0000" stop="20250202133000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250202113000 +0000" stop="20250202130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier SF 2</title>
     </programme>
-    <programme start="20250202133000 +0000" stop="20250202140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Tournament Film</title>
+    <programme start="20250202130000 +0000" stop="20250202140000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>2025 Official Tournament Film</title>
     </programme>
     <programme start="20250202140000 +0000" stop="20250202160000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier Final</title>
@@ -13056,35 +13056,38 @@
     <programme start="20250203000000 +0000" stop="20250203013000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier Final</title>
     </programme>
-    <programme start="20250203013000 +0000" stop="20250203020000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Tournament Film</title>
+    <programme start="20250203013000 +0000" stop="20250203023000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>2025 Official Tournament Film</title>
     </programme>
-    <programme start="20250203020000 +0000" stop="20250203033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong Final Nishikori v Muller</title>
+    <programme start="20250203023000 +0000" stop="20250203030000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250203033000 +0000" stop="20250203050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Montpellier Final</title>
-    </programme>
-    <programme start="20250203050000 +0000" stop="20250203063000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250203030000 +0000" stop="20250203043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Auckland Final Monfils v Bergs</title>
     </programme>
-    <programme start="20250203063000 +0000" stop="20250203080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hong Kong Final Nishikori v Muller</title>
-    </programme>
-    <programme start="20250203080000 +0000" stop="20250203100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2025: Men&#039;s Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
-    </programme>
-    <programme start="20250203100000 +0000" stop="20250203113000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250203043000 +0000" stop="20250203060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Montpellier Final</title>
     </programme>
-    <programme start="20250203113000 +0000" stop="20250203120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Tournament Film</title>
+    <programme start="20250203060000 +0000" stop="20250203073000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Hong Kong Final Nishikori v Muller</title>
+    </programme>
+    <programme start="20250203073000 +0000" stop="20250203093000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australian Open 2025: Men&#039;s Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
+    </programme>
+    <programme start="20250203093000 +0000" stop="20250203110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Montpellier Final</title>
+    </programme>
+    <programme start="20250203110000 +0000" stop="20250203120000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>2025 Official Tournament Film</title>
     </programme>
     <programme start="20250203120000 +0000" stop="20250203133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Rotterdam Day 1 Match 1</title>
     </programme>
     <programme start="20250203133000 +0000" stop="20250203153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Rotterdam Day 1 Match 2</title>
+    </programme>
+    <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Nitto ATP Finals 2024: Turin Day 3 Doubles Granollers/Zeballos v Koolhof/Mektic</title>
@@ -13136,9 +13139,6 @@
     </programme>
     <programme start="20250204133000 +0000" stop="20250204153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Rotterdam Day 2 Match 3</title>
-    </programme>
-    <programme start="20250204153000 +0000" stop="20250204160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Tournament Film</title>
     </programme>
     <programme start="20250130000000 +0000" stop="20250130010000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
@@ -24879,14 +24879,20 @@
     <programme start="20250131220000 +0000" stop="20250201004500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201040000 +0000" stop="20250201080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250201004500 +0000" stop="20250201051000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2024: M17 - Gujarat Titans vs Punjab Kings</title>
+    </programme>
+    <programme start="20250201051000 +0000" stop="20250201091000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M18 - Sunrisers Hyderabad vs Chennai Super King</title>
     </programme>
-    <programme start="20250201080000 +0000" stop="20250201120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250201091000 +0000" stop="20250201123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
     </programme>
-    <programme start="20250201120000 +0000" stop="20250201160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250201123000 +0000" stop="20250201155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
+    </programme>
+    <programme start="20250201155000 +0000" stop="20250201160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -24909,16 +24915,16 @@
     <programme start="20250202173000 +0000" stop="20250202220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250202232500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250202220000 +0000" stop="20250202234000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202232500 +0000" stop="20250203040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250202234000 +0000" stop="20250203041500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M19 - Rajasthan Royals vs Royal Challengers Ben</title>
     </programme>
-    <programme start="20250203040000 +0000" stop="20250203080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250203041500 +0000" stop="20250203081000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
-    <programme start="20250203080000 +0000" stop="20250203120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250203081000 +0000" stop="20250203120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
     <programme start="20250203120000 +0000" stop="20250203160000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -26280,50 +26286,50 @@
     <programme start="20250202173000 +0000" stop="20250202183000 +0000" channel="Sun Music.starhub">
         <title>Flash Back</title>
     </programme>
-    <programme start="20250202183000 +0000" stop="20250202220000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202183000 +0000" stop="20250202193000 +0000" channel="Sun Music.starhub">
+        <title>Chilax</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202193000 +0000" stop="20250202233000 +0000" channel="Sun Music.starhub">
+        <title>Breakfree</title>
     </programme>
-    <programme start="20250203040000 +0000" stop="20250203100000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="Sun Music.starhub">
+        <title>Mellisaiye</title>
     </programme>
-    <programme start="20250203100000 +0000" stop="20250203160000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203003000 +0000" stop="20250203013000 +0000" channel="Sun Music.starhub">
+        <title>Flash Back</title>
     </programme>
-    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203013000 +0000" stop="20250203023000 +0000" channel="Sun Music.starhub">
+        <title>Latest Hits</title>
     </programme>
-    <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203023000 +0000" stop="20250203033000 +0000" channel="Sun Music.starhub">
+        <title>Fresh Beats</title>
     </programme>
-    <programme start="20250204040000 +0000" stop="20250204100000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203033000 +0000" stop="20250203043000 +0000" channel="Sun Music.starhub">
+        <title>Sun Music - Super Morning</title>
     </programme>
-    <programme start="20250204100000 +0000" stop="20250204160000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203043000 +0000" stop="20250203053000 +0000" channel="Sun Music.starhub">
+        <title>Back To 90 s</title>
     </programme>
-    <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203053000 +0000" stop="20250203063000 +0000" channel="Sun Music.starhub">
+        <title>Marana Kuthu</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203063000 +0000" stop="20250203073000 +0000" channel="Sun Music.starhub">
+        <title>Scene Oda Pattu</title>
     </programme>
-    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203073000 +0000" stop="20250203083000 +0000" channel="Sun Music.starhub">
+        <title>Mellisaiye</title>
     </programme>
-    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203083000 +0000" stop="20250203093000 +0000" channel="Sun Music.starhub">
+        <title>Breakfree</title>
     </programme>
-    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203093000 +0000" stop="20250203103000 +0000" channel="Sun Music.starhub">
+        <title>Back To 90 s</title>
     </programme>
-    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203103000 +0000" stop="20250203113000 +0000" channel="Sun Music.starhub">
+        <title>Non Stop Hits</title>
     </programme>
-    <programme start="20250206040000 +0000" stop="20250206100000 +0000" channel="Sun Music.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250203113000 +0000" stop="20250203123000 +0000" channel="Sun Music.starhub">
+        <title>Hit List</title>
     </programme>
     <programme start="20250130000000 +0000" stop="20250130001500 +0000" channel="Arirang TV HD.starhub">
         <title>K-Chat: Conversing In Korean</title>
@@ -31260,34 +31266,112 @@
     <programme start="20250207100000 +0000" stop="20250207160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207220000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250207160000 +0000" stop="20250207190000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250207190000 +0000" stop="20250207195000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207195000 +0000" stop="20250207220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250207230000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250207230000 +0000" stop="20250208040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250208040000 +0000" stop="20250208100000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250208100000 +0000" stop="20250208160000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208100000 +0000" stop="20250208111500 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250208160000 +0000" stop="20250208220000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208111500 +0000" stop="20250208120500 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250208220000 +0000" stop="20250209040000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208120500 +0000" stop="20250208141500 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209040000 +0000" stop="20250209100000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208141500 +0000" stop="20250208145000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209100000 +0000" stop="20250209160000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208145000 +0000" stop="20250208170000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209160000 +0000" stop="20250209220000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208170000 +0000" stop="20250208180000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209220000 +0000" stop="20250210040000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250208180000 +0000" stop="20250208190000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208190000 +0000" stop="20250208195000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208195000 +0000" stop="20250208220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250208223000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250208223000 +0000" stop="20250209003000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209003000 +0000" stop="20250209023000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209023000 +0000" stop="20250209030000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209030000 +0000" stop="20250209050000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209050000 +0000" stop="20250209070000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209070000 +0000" stop="20250209073000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209073000 +0000" stop="20250209093000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209093000 +0000" stop="20250209113000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209113000 +0000" stop="20250209120000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209120000 +0000" stop="20250209122000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209122000 +0000" stop="20250209143000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209143000 +0000" stop="20250209150000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209150000 +0000" stop="20250209170000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209170000 +0000" stop="20250209172500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209172500 +0000" stop="20250209193500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209193500 +0000" stop="20250209203500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250209203500 +0000" stop="20250210000000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210010000 +0000" stop="20250210030000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210030000 +0000" stop="20250210040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250210040000 +0000" stop="20250210100000 +0000" channel="Hub Premier 4.starhub">
@@ -31296,10 +31380,19 @@
     <programme start="20250210100000 +0000" stop="20250210160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250210160000 +0000" stop="20250210220000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250210160000 +0000" stop="20250210184500 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250210220000 +0000" stop="20250211040000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250210184500 +0000" stop="20250210193500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210193500 +0000" stop="20250210214500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210214500 +0000" stop="20250210224500 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250210224500 +0000" stop="20250211040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250211040000 +0000" stop="20250211100000 +0000" channel="Hub Premier 4.starhub">
@@ -31308,10 +31401,19 @@
     <programme start="20250211100000 +0000" stop="20250211160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250211160000 +0000" stop="20250211220000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250211160000 +0000" stop="20250211190000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250211220000 +0000" stop="20250212040000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250211190000 +0000" stop="20250211195000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211195000 +0000" stop="20250211220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211220000 +0000" stop="20250211230000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211230000 +0000" stop="20250212040000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250212040000 +0000" stop="20250212100000 +0000" channel="Hub Premier 4.starhub">
@@ -31342,6 +31444,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215100000 +0000" stop="20250215145000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Premier 3.starhub">
@@ -31537,6 +31651,93 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215100000 +0000" stop="20250215145000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215145000 +0000" stop="20250215170000 +0000" channel="Hub Premier 3.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215170000 +0000" stop="20250215220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216160000 +0000" stop="20250216220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216220000 +0000" stop="20250217040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217160000 +0000" stop="20250217220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217220000 +0000" stop="20250218040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218040000 +0000" stop="20250218100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218100000 +0000" stop="20250218160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218160000 +0000" stop="20250218220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218220000 +0000" stop="20250219040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219040000 +0000" stop="20250219100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219100000 +0000" stop="20250219160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220160000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220160000 +0000" stop="20250220220000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220220000 +0000" stop="20250221040000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250221040000 +0000" stop="20250221100000 +0000" channel="Hub Premier 3.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250221100000 +0000" stop="20250221160000 +0000" channel="Hub Premier 3.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Premier 8.starhub">
@@ -31884,10 +32085,13 @@
     <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Premier 6.starhub">
+    <programme start="20250215100000 +0000" stop="20250215145000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Hub Premier 6.starhub">
+    <programme start="20250215145000 +0000" stop="20250215170000 +0000" channel="Hub Premier 6.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215170000 +0000" stop="20250215220000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Premier 6.starhub">
@@ -31981,9 +32185,6 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250223100000 +0000" stop="20250223160000 +0000" channel="Hub Premier 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250223160000 +0000" stop="20250223220000 +0000" channel="Hub Premier 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="Hub Premier 5.starhub">
@@ -32176,6 +32377,93 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215100000 +0000" stop="20250215145000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215145000 +0000" stop="20250215170000 +0000" channel="Hub Premier 5.starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215170000 +0000" stop="20250215220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216160000 +0000" stop="20250216220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216220000 +0000" stop="20250217040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217160000 +0000" stop="20250217220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217220000 +0000" stop="20250218040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218040000 +0000" stop="20250218100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218100000 +0000" stop="20250218160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218160000 +0000" stop="20250218220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218220000 +0000" stop="20250219040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219040000 +0000" stop="20250219100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219100000 +0000" stop="20250219160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220160000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220160000 +0000" stop="20250220220000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220220000 +0000" stop="20250221040000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250221040000 +0000" stop="20250221100000 +0000" channel="Hub Premier 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250221100000 +0000" stop="20250221160000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250129220000 +0000" stop="20250130040000 +0000" channel="beIN Sports 4.starhub">
