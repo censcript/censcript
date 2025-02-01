@@ -22243,7 +22243,7 @@
         <title>Movie - Veettoda Maapillai</title>
     </programme>
     <programme start="20250204103000 +0000" stop="20250204133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Thanga Magan - old</title>
+        <title>Movie - Thanga Magan (Old)</title>
     </programme>
     <programme start="20250204133000 +0000" stop="20250204170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Yaradi Ne Mogini</title>
@@ -24861,13 +24861,13 @@
     <programme start="20250201220000 +0000" stop="20250202012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250202012000 +0000" stop="20250202052000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250202012500 +0000" stop="20250202052000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
-    <programme start="20250202052000 +0000" stop="20250202092000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250202052000 +0000" stop="20250202091000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
-    <programme start="20250202092000 +0000" stop="20250202132000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250202091000 +0000" stop="20250202132000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
     </programme>
     <programme start="20250202132000 +0000" stop="20250202173000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24888,10 +24888,10 @@
     <programme start="20250203081000 +0000" stop="20250203120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
-    <programme start="20250203120000 +0000" stop="20250203160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250203120000 +0000" stop="20250203161000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
     </programme>
-    <programme start="20250203160000 +0000" stop="20250203220000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250203161000 +0000" stop="20250203220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250203220000 +0000" stop="20250203233500 +0000" channel="Hub Sports 4 HD.starhub">
@@ -25091,6 +25091,9 @@
     </programme>
     <programme start="20250216135000 +0000" stop="20250216180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Women&#039;s Premier League 2025: M03 - Gujarat Giants vs UP Warriorz</title>
+    </programme>
+    <programme start="20250216180000 +0000" stop="20250216220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250131000000 +0000" stop="20250131010000 +0000" channel="TVB Xing He.starhub">
         <title>Love Of No Words, A</title>
