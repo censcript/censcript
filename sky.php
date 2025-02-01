@@ -13635,10 +13635,10 @@
     <programme start="20250201093500 +0000" stop="20250201105000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250201105000 +0000" stop="20250201130500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250201105000 +0000" stop="20250201130000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250201130500 +0000" stop="20250201163000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250201130000 +0000" stop="20250201163000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
     </programme>
     <programme start="20250201163000 +0000" stop="20250201180000 +0000" channel="Eurosport 1 HD">
@@ -13689,11 +13689,14 @@
     <programme start="20250201105000 +0000" stop="20250201114500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: AlUla Tour</title>
     </programme>
-    <programme start="20250201114500 +0000" stop="20250201134500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250201114500 +0000" stop="20250201133500 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: AlUla Tour</title>
     </programme>
-    <programme start="20250201134500 +0000" stop="20250201135500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250201133500 +0000" stop="20250201134500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Singapore Criterium</title>
+    </programme>
+    <programme start="20250201134500 +0000" stop="20250201135500 +0000" channel="Eurosport 2 HD">
+        <title>Cycling: Omloop Het Nieuwsblad</title>
     </programme>
     <programme start="20250201135500 +0000" stop="20250201152000 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross World Championships Lievin</title>
@@ -16762,10 +16765,10 @@
         <title>WION Fineprint</title>
     </programme>
     <programme start="20250131233000 +0000" stop="20250201000000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250201000000 +0000" stop="20250201003000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250201003000 +0000" stop="20250201010000 +0000" channel="WION HD">
         <title>WION Pulse</title>
@@ -16792,28 +16795,28 @@
         <title>World Business Watch</title>
     </programme>
     <programme start="20250201043000 +0000" stop="20250201050000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201050000 +0000" stop="20250201053000 +0000" channel="WION HD">
-        <title>WION Wideangle</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201053000 +0000" stop="20250201060000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201060000 +0000" stop="20250201063000 +0000" channel="WION HD">
-        <title>World Of Africa</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201063000 +0000" stop="20250201070000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201070000 +0000" stop="20250201073000 +0000" channel="WION HD">
-        <title>Tech It Out</title>
+        <title>India Budget 2025</title>
     </programme>
     <programme start="20250201073000 +0000" stop="20250201080000 +0000" channel="WION HD">
         <title>Top Stories</title>
     </programme>
     <programme start="20250201080000 +0000" stop="20250201083000 +0000" channel="WION HD">
-        <title>Dharavi Dreams</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16831,7 +16834,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250201110000 +0000" stop="20250201113000 +0000" channel="WION HD">
-        <title>WION Business Masters</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250201113000 +0000" stop="20250201120000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16849,7 +16852,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250201140000 +0000" stop="20250201143000 +0000" channel="WION HD">
-        <title>Inside South Asia</title>
+        <title>The Interview</title>
     </programme>
     <programme start="20250201143000 +0000" stop="20250201150000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -30003,13 +30006,7 @@
     <programme start="20250201053000 +0000" stop="20250201060000 +0000" channel="NTV">
         <title>Mohilangon</title>
     </programme>
-    <programme start="20250201060000 +0000" stop="20250201062200 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250201062200 +0000" stop="20250201062700 +0000" channel="NTV">
-        <title>Adhan-a-Fajr</title>
-    </programme>
-    <programme start="20250201062700 +0000" stop="20250201063000 +0000" channel="NTV">
+    <programme start="20250201060000 +0000" stop="20250201063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250201063000 +0000" stop="20250201070000 +0000" channel="NTV">
@@ -30025,58 +30022,61 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="NTV">
-        <title>Ami Ek Omanus</title>
+        <title>Ki Jadu Korila</title>
     </programme>
     <programme start="20250201090000 +0000" stop="20250201093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250201093000 +0000" stop="20250201120000 +0000" channel="NTV">
-        <title>Ami Ek Omanus</title>
+        <title>Ki Jadu Korila</title>
     </programme>
-    <programme start="20250201120000 +0000" stop="20250201121400 +0000" channel="NTV">
+    <programme start="20250201120000 +0000" stop="20250201121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250201121400 +0000" stop="20250201121900 +0000" channel="NTV">
+    <programme start="20250201121900 +0000" stop="20250201122400 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250201121900 +0000" stop="20250201123000 +0000" channel="NTV">
+    <programme start="20250201122400 +0000" stop="20250201123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250201123000 +0000" stop="20250201140000 +0000" channel="NTV">
         <title>Aine O Adhiker</title>
     </programme>
-    <programme start="20250201140000 +0000" stop="20250201142900 +0000" channel="NTV">
+    <programme start="20250201140000 +0000" stop="20250201143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250201142900 +0000" stop="20250201143400 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250201143400 +0000" stop="20250201150000 +0000" channel="NTV">
+    <programme start="20250201143000 +0000" stop="20250201150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250201150000 +0000" stop="20250201161800 +0000" channel="NTV">
+    <programme start="20250201150000 +0000" stop="20250201150300 +0000" channel="NTV">
         <title>Roop kothar Raat</title>
     </programme>
-    <programme start="20250201161800 +0000" stop="20250201162300 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
+    <programme start="20250201150300 +0000" stop="20250201150800 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250201162300 +0000" stop="20250201163000 +0000" channel="NTV">
+    <programme start="20250201150800 +0000" stop="20250201163000 +0000" channel="NTV">
         <title>Roop kothar Raat</title>
     </programme>
-    <programme start="20250201163000 +0000" stop="20250201170000 +0000" channel="NTV">
+    <programme start="20250201163000 +0000" stop="20250201165400 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250201170000 +0000" stop="20250201173000 +0000" channel="NTV">
-        <title>Gallary</title>
+    <programme start="20250201165400 +0000" stop="20250201170000 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250201173000 +0000" stop="20250201175500 +0000" channel="NTV">
+    <programme start="20250201170000 +0000" stop="20250201173000 +0000" channel="NTV">
+        <title>Bupet - UK</title>
+    </programme>
+    <programme start="20250201173000 +0000" stop="20250201180000 +0000" channel="NTV">
         <title>Crime Watch</title>
     </programme>
-    <programme start="20250201175500 +0000" stop="20250201180000 +0000" channel="NTV">
+    <programme start="20250201180000 +0000" stop="20250201183000 +0000" channel="NTV">
+        <title>Biggapon</title>
+    </programme>
+    <programme start="20250201183000 +0000" stop="20250201183500 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250201180000 +0000" stop="20250201190000 +0000" channel="NTV">
-        <title>Best Friend</title>
+    <programme start="20250201183500 +0000" stop="20250201190000 +0000" channel="NTV">
+        <title>Biggapon</title>
     </programme>
     <programme start="20250201190000 +0000" stop="20250201191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -30085,7 +30085,7 @@
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250201200000 +0000" stop="20250201210000 +0000" channel="NTV">
-        <title>Biye Ami Korbo na</title>
+        <title>Chitkar</title>
     </programme>
     <programme start="20250201210000 +0000" stop="20250201213000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
@@ -30100,7 +30100,7 @@
         <title>Probashi Poribar</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250202000000 +0000" channel="NTV">
-        <title>Confusion</title>
+        <title>Dhumketu</title>
     </programme>
     <programme start="20250131223000 +0000" stop="20250201000000 +0000" channel="TV One">
         <title>Live Appeal-Send A Little Hope</title>
@@ -33969,10 +33969,10 @@
     <programme start="20250201093500 +0000" stop="20250201105000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250201105000 +0000" stop="20250201130500 +0000" channel="Eurosport 1">
+    <programme start="20250201105000 +0000" stop="20250201130000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250201130500 +0000" stop="20250201163000 +0000" channel="Eurosport 1">
+    <programme start="20250201130000 +0000" stop="20250201163000 +0000" channel="Eurosport 1">
         <title>Live Snooker: German Masters</title>
     </programme>
     <programme start="20250201163000 +0000" stop="20250201180000 +0000" channel="Eurosport 1">
@@ -34023,11 +34023,14 @@
     <programme start="20250201105000 +0000" stop="20250201114500 +0000" channel="Eurosport 2">
         <title>Cycling: AlUla Tour</title>
     </programme>
-    <programme start="20250201114500 +0000" stop="20250201134500 +0000" channel="Eurosport 2">
+    <programme start="20250201114500 +0000" stop="20250201133500 +0000" channel="Eurosport 2">
         <title>Live Cycling: AlUla Tour</title>
     </programme>
-    <programme start="20250201134500 +0000" stop="20250201135500 +0000" channel="Eurosport 2">
+    <programme start="20250201133500 +0000" stop="20250201134500 +0000" channel="Eurosport 2">
         <title>Cycling: Singapore Criterium</title>
+    </programme>
+    <programme start="20250201134500 +0000" stop="20250201135500 +0000" channel="Eurosport 2">
+        <title>Cycling: Omloop Het Nieuwsblad</title>
     </programme>
     <programme start="20250201135500 +0000" stop="20250201152000 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross World Championships Lievin</title>
@@ -37795,7 +37798,7 @@
         <title>Jenni Falconer</title>
     </programme>
     <programme start="20250201130000 +0000" stop="20250201160000 +0000" channel="Smooth">
-        <title>Kirsty Gallacher</title>
+        <title>Tina Hobley</title>
     </programme>
     <programme start="20250201160000 +0000" stop="20250201190000 +0000" channel="Smooth">
         <title>Myleene Klass</title>
