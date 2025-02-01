@@ -17991,11 +17991,8 @@
     <programme start="20250201073000 +0000" stop="20250201080000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
     </programme>
-    <programme start="20250201080000 +0000" stop="20250201083000 +0000" channel="EWTN Catholic">
-        <title>Blue Collar Apologetics</title>
-    </programme>
-    <programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="EWTN Catholic">
-        <title>At Home with Jim and Joy</title>
+    <programme start="20250201080000 +0000" stop="20250201090000 +0000" channel="EWTN Catholic">
+        <title>Jubilee Audience with Pope Francis</title>
     </programme>
     <programme start="20250201090000 +0000" stop="20250201093000 +0000" channel="EWTN Catholic">
         <title>The First Saturdays for Kids</title>
@@ -18033,11 +18030,11 @@
     <programme start="20250201153000 +0000" stop="20250201160000 +0000" channel="EWTN Catholic">
         <title>Life on the Rock</title>
     </programme>
-    <programme start="20250201160000 +0000" stop="20250201170000 +0000" channel="EWTN Catholic">
-        <title>Called to Communion with Dr David Anders</title>
+    <programme start="20250201160000 +0000" stop="20250201171500 +0000" channel="EWTN Catholic">
+        <title>Celebration Of Vespers on The...</title>
     </programme>
-    <programme start="20250201170000 +0000" stop="20250201173000 +0000" channel="EWTN Catholic">
-        <title>At Home with Jim and Joy</title>
+    <programme start="20250201171500 +0000" stop="20250201173000 +0000" channel="EWTN Catholic">
+        <title>Kenosis</title>
     </programme>
     <programme start="20250201173000 +0000" stop="20250201180000 +0000" channel="EWTN Catholic">
         <title>Cross Training</title>
