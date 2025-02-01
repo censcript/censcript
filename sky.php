@@ -25837,7 +25837,7 @@
         <title>Bollywood Fresh</title>
     </programme>
     <programme start="20250202150000 +0000" stop="20250202170000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>Tara Sansthan</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202171000 +0000" channel="MATV National">
         <title>Hanuman Chalisa</title>
@@ -27673,13 +27673,13 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250202200500 +0000" stop="20250202210000 +0000" channel="IQRA TV">
-        <title>Gardens of the Righteous</title>
+        <title>Food Pack Appeal</title>
     </programme>
     <programme start="20250202210000 +0000" stop="20250202211200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250202211200 +0000" stop="20250202220000 +0000" channel="IQRA TV">
-        <title>Important of Hadith</title>
+        <title>Food Pack Appeal</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202220500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -27937,16 +27937,16 @@
         <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250202110000 +0000" stop="20250202120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250202120000 +0000" stop="20250202130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250202130000 +0000" stop="20250202140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Gapshap with Papa Khan</title>
     </programme>
     <programme start="20250202140000 +0000" stop="20250202150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -27955,25 +27955,25 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
-    </programme>
-    <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
     </programme>
-    <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Takbeer TV">
+    <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Takbeer TV">
+        <title>Asan Na Kashmir</title>
+    </programme>
+    <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
     <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29325,11 +29325,8 @@
     <programme start="20250202055700 +0000" stop="20250202060000 +0000" channel="CHSTV">
         <title>Azan-E-Fajr</title>
     </programme>
-    <programme start="20250202060000 +0000" stop="20250202062200 +0000" channel="CHSTV">
+    <programme start="20250202060000 +0000" stop="20250202063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250202062200 +0000" stop="20250202063000 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
     </programme>
     <programme start="20250202063000 +0000" stop="20250202070000 +0000" channel="CHSTV">
         <title>Islamic Lifestyle</title>
@@ -29349,71 +29346,80 @@
     <programme start="20250202090000 +0000" stop="20250202093000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250202093000 +0000" stop="20250202110000 +0000" channel="CHSTV">
-        <title>Islam Essentials</title>
+    <programme start="20250202093000 +0000" stop="20250202105000 +0000" channel="CHSTV">
+        <title>I am Single</title>
     </programme>
-    <programme start="20250202110000 +0000" stop="20250202121400 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
+    <programme start="20250202105000 +0000" stop="20250202120000 +0000" channel="CHSTV">
+        <title>The Saturday Show</title>
     </programme>
-    <programme start="20250202121400 +0000" stop="20250202122000 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250202122000 +0000" stop="20250202130000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
-    </programme>
-    <programme start="20250202130000 +0000" stop="20250202140000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
-    </programme>
-    <programme start="20250202140000 +0000" stop="20250202142900 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250202142900 +0000" stop="20250202143500 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250202143500 +0000" stop="20250202150000 +0000" channel="CHSTV">
-        <title>Sharirik Shikkha</title>
-    </programme>
-    <programme start="20250202150000 +0000" stop="20250202160000 +0000" channel="CHSTV">
-        <title>Ei Patri Amar</title>
-    </programme>
-    <programme start="20250202160000 +0000" stop="20250202161800 +0000" channel="CHSTV">
-        <title>Islamic Filler</title>
-    </programme>
-    <programme start="20250202161800 +0000" stop="20250202162300 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250202162300 +0000" stop="20250202170000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
-    </programme>
-    <programme start="20250202170000 +0000" stop="20250202175500 +0000" channel="CHSTV">
+    <programme start="20250202120000 +0000" stop="20250202122000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
-    <programme start="20250202175500 +0000" stop="20250202180000 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
+    <programme start="20250202122000 +0000" stop="20250202122500 +0000" channel="CHSTV">
+        <title>Azan-E-Zuhr</title>
+    </programme>
+    <programme start="20250202122500 +0000" stop="20250202130000 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250202130000 +0000" stop="20250202133000 +0000" channel="CHSTV">
+        <title>Amader Gram</title>
+    </programme>
+    <programme start="20250202133000 +0000" stop="20250202140000 +0000" channel="CHSTV">
+        <title>Islam Keno Shantir Dhormo</title>
+    </programme>
+    <programme start="20250202140000 +0000" stop="20250202143000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250202143000 +0000" stop="20250202150400 +0000" channel="CHSTV">
+        <title>Online Offline</title>
+    </programme>
+    <programme start="20250202150400 +0000" stop="20250202150800 +0000" channel="CHSTV">
+        <title>Azan-E-Asar</title>
+    </programme>
+    <programme start="20250202150800 +0000" stop="20250202160000 +0000" channel="CHSTV">
+        <title>Health Talk</title>
+    </programme>
+    <programme start="20250202160000 +0000" stop="20250202163000 +0000" channel="CHSTV">
+        <title>Community News</title>
+    </programme>
+    <programme start="20250202163000 +0000" stop="20250202165500 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
+    </programme>
+    <programme start="20250202165500 +0000" stop="20250202170000 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="CHSTV">
+        <title>Tafsir</title>
     </programme>
     <programme start="20250202180000 +0000" stop="20250202183000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="CHSTV">
+    <programme start="20250202183000 +0000" stop="20250202183500 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250202183500 +0000" stop="20250202190000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="CHSTV">
-        <title>Health Talk</title>
+    <programme start="20250202190000 +0000" stop="20250202193000 +0000" channel="CHSTV">
+        <title>Sylheter Khobor</title>
     </programme>
-    <programme start="20250202200000 +0000" stop="20250202203000 +0000" channel="CHSTV">
-        <title>Community News</title>
+    <programme start="20250202193000 +0000" stop="20250202200000 +0000" channel="CHSTV">
+        <title>Online Offline</title>
     </programme>
-    <programme start="20250202203000 +0000" stop="20250202210000 +0000" channel="CHSTV">
-        <title>Music Lounge</title>
+    <programme start="20250202200000 +0000" stop="20250202213000 +0000" channel="CHSTV">
+        <title>Tora Manush Hobi Kobe</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="CHSTV">
-        <title>Chemistry</title>
+    <programme start="20250202213000 +0000" stop="20250202220000 +0000" channel="CHSTV">
+        <title>Talash</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
-    <programme start="20250202223000 +0000" stop="20250202233000 +0000" channel="CHSTV">
-        <title>Rupar Jadu</title>
+    <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="CHSTV">
+        <title>BUPET Management Committee Update</title>
+    </programme>
+    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="CHSTV">
+        <title>Kohinoor Chairman</title>
     </programme>
     <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>
@@ -29916,17 +29922,20 @@
     <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="TV One">
         <title>Dawah Conference</title>
     </programme>
-    <programme start="20250201223400 +0000" stop="20250201233400 +0000" channel="iON TV">
-        <title>Charity Appeal</title>
+    <programme start="20250201220000 +0000" stop="20250201230000 +0000" channel="iON TV">
+        <title>Cine Hour</title>
     </programme>
-    <programme start="20250201233400 +0000" stop="20250202010000 +0000" channel="iON TV">
-        <title>Charity Appeal</title>
+    <programme start="20250201230000 +0000" stop="20250202000000 +0000" channel="iON TV">
+        <title>Drama Time</title>
+    </programme>
+    <programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
     <programme start="20250202010000 +0000" stop="20250202013000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250202013000 +0000" stop="20250202020000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250202020000 +0000" stop="20250202050000 +0000" channel="iON TV">
         <title>Movie Time</title>
