@@ -37995,29 +37995,8 @@
     <programme start="20250201193000 +0000" stop="20250202000000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250202000000 +0000" stop="20250202031500 +0000" channel="BBC R5SX">
+    <programme start="20250202000000 +0000" stop="20250202062000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
-    </programme>
-    <programme start="20250202031500 +0000" stop="20250202034500 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202034500 +0000" stop="20250202041500 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202041500 +0000" stop="20250202044500 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202044500 +0000" stop="20250202051500 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202051500 +0000" stop="20250202054500 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202054500 +0000" stop="20250202060000 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
-    </programme>
-    <programme start="20250202060000 +0000" stop="20250202062000 +0000" channel="BBC R5SX">
-        <title>This is BBC R5SX</title>
     </programme>
     <programme start="20250202062000 +0000" stop="20250202103000 +0000" channel="BBC R5SX">
         <title>International Cricket</title>
