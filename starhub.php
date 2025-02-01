@@ -24858,7 +24858,7 @@
     <programme start="20250201160000 +0000" stop="20250201220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250201220000 +0000" stop="20250202012000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250201220000 +0000" stop="20250202012500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250202012000 +0000" stop="20250202052000 +0000" channel="Hub Sports 4 HD.starhub">
