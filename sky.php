@@ -13635,11 +13635,8 @@
     <programme start="20250201093500 +0000" stop="20250201105000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250201105000 +0000" stop="20250201123000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250201105000 +0000" stop="20250201130500 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250201123000 +0000" stop="20250201130500 +0000" channel="Eurosport 1 HD">
-        <title>Live Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250201130500 +0000" stop="20250201163000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
@@ -33972,11 +33969,8 @@
     <programme start="20250201093500 +0000" stop="20250201105000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250201105000 +0000" stop="20250201123000 +0000" channel="Eurosport 1">
+    <programme start="20250201105000 +0000" stop="20250201130500 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250201123000 +0000" stop="20250201130500 +0000" channel="Eurosport 1">
-        <title>Live Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250201130500 +0000" stop="20250201163000 +0000" channel="Eurosport 1">
         <title>Live Snooker: German Masters</title>
