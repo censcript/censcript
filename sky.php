@@ -14791,7 +14791,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250201113000 +0000" stop="20250201120000 +0000" channel="BBC NEWS HD">
-        <title>DC Disaster: The Washington Plane Crash</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250201120000 +0000" stop="20250201123000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
