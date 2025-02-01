@@ -8074,7 +8074,7 @@
         <title>Kanjoos Makhichoos</title>
     </programme>
     <programme start="20250201200000 +0000" stop="20250201230000 +0000" channel="Zee Cinema.starhub">
-        <title>Aatma - Feel it Around You</title>
+        <title>Aatma Feel it Around You</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250202020000 +0000" channel="Zee Cinema.starhub">
         <title>Nill Battey Sannata</title>
