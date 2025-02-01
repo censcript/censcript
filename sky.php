@@ -12423,9 +12423,6 @@
     <programme start="20250201232500 +0000" stop="20250202002500 +0000" channel="NOW 70s">
         <title>Glam Rock Night!</title>
     </programme>
-    <programme start="20250131140000 +0000" stop="20250201010500 +0000" channel="NOW 80s">
-        <title>Every Number 1 of the 80s!</title>
-    </programme>
     <programme start="20250201010500 +0000" stop="20250201020000 +0000" channel="NOW 80s">
         <title>Get Fresh at the Weekend!</title>
     </programme>
@@ -26101,13 +26098,13 @@
         <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250201183000 +0000" stop="20250201190000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Kashmir</title>
     </programme>
     <programme start="20250201190000 +0000" stop="20250201193000 +0000" channel="MATV National">
         <title>India's Republic Day Celebration</title>
     </programme>
     <programme start="20250201193000 +0000" stop="20250201200000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>OfBJP UK Special</title>
     </programme>
     <programme start="20250201200000 +0000" stop="20250201203000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>

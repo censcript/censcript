@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250201113000 +0000" stop="20250201145000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Nottingham Forest v Brighton</title>
-    </programme>
     <programme start="20250201145000 +0000" stop="20250201172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
