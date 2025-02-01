@@ -6519,11 +6519,8 @@
     <programme start="20250202232900 +0000" stop="20250203002900 +0000" channel="Travelxp">
         <title>10 Days Estonia</title>
     </programme>
-    <programme start="20250201210000 +0000" stop="20250201230000 +0000" channel="BBCScotlandHD">
+    <programme start="20250201210000 +0000" stop="20250201233000 +0000" channel="BBCScotlandHD">
         <title>Nations Fight Night</title>
-    </programme>
-    <programme start="20250201230000 +0000" stop="20250201233000 +0000" channel="BBCScotlandHD">
-        <title>Mrs Brown's Boys</title>
     </programme>
     <programme start="20250201233000 +0000" stop="20250202000000 +0000" channel="BBCScotlandHD">
         <title>Two Doors Down</title>
@@ -13350,7 +13347,7 @@
     <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250201223000 +0000" stop="20250202000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250201224000 +0000" stop="20250202000000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="Eurosport 1 HD">
@@ -33495,7 +33492,7 @@
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="TNTSports2 HD">
         <title>Live NBA: Celtics @ 76ers</title>
     </programme>
-    <programme start="20250201223000 +0000" stop="20250202000000 +0000" channel="Eurosport 1">
+    <programme start="20250201224000 +0000" stop="20250202000000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
     <programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="Eurosport 1">
@@ -36183,13 +36180,13 @@
     <programme start="20250202234000 +0000" stop="20250203004000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250201210000 +0000" stop="20250201230000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250201210000 +0000" stop="20250201230500 +0000" channel="BBC Two Wal HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250201230000 +0000" stop="20250202000000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250201230500 +0000" stop="20250202000500 +0000" channel="BBC Two Wal HD">
         <title>When Bob Marley Came to Britain</title>
     </programme>
-    <programme start="20250202000000 +0000" stop="20250202011500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250202000500 +0000" stop="20250202011500 +0000" channel="BBC Two Wal HD">
         <title>Bob Marley: Live at the Rainbow</title>
     </programme>
     <programme start="20250202011500 +0000" stop="20250202021500 +0000" channel="BBC Two Wal HD">
@@ -36324,13 +36321,13 @@
     <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="BBC Two NI HD">
         <title>The Sisters Brothers</title>
     </programme>
-    <programme start="20250201221000 +0000" stop="20250202003000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250201221500 +0000" stop="20250202003500 +0000" channel="BBC RB 1 HD">
         <title>U20s Six Nations: Ireland v England</title>
     </programme>
-    <programme start="20250202003000 +0000" stop="20250202024000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250202003500 +0000" stop="20250202024500 +0000" channel="BBC RB 1 HD">
         <title>U20s Six Nations: Scotland v Italy</title>
     </programme>
-    <programme start="20250202024000 +0000" stop="20250202060000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250202024500 +0000" stop="20250202060000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250202060000 +0000" stop="20250202120000 +0000" channel="BBC RB 1 HD">
