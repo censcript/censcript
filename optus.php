@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250131163000 +0000" stop="20250131170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
-    <programme start="20250131180000 +0000" stop="20250131190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250201113000 +0000" stop="20250201145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Brighton</title>
     </programme>
