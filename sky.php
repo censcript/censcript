@@ -13371,13 +13371,13 @@
     <programme start="20250202060000 +0000" stop="20250202080000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250202080000 +0000" stop="20250202081500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202080000 +0000" stop="20250202081000 +0000" channel="Eurosport 1 HD">
         <title>Snooker 147s</title>
     </programme>
-    <programme start="20250202081500 +0000" stop="20250202082500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202081000 +0000" stop="20250202082000 +0000" channel="Eurosport 1 HD">
         <title>Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202082500 +0000" stop="20250202083500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202082000 +0000" stop="20250202083500 +0000" channel="Eurosport 1 HD">
         <title>Nordic Combined Skiing: World Cup</title>
     </programme>
     <programme start="20250202083500 +0000" stop="20250202092000 +0000" channel="Eurosport 1 HD">
@@ -13386,10 +13386,16 @@
     <programme start="20250202092000 +0000" stop="20250202103000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202123000 +0000" channel="Eurosport 1 HD">
-        <title>Live Alpine Skiing: World Cup</title>
+    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="Eurosport 1 HD">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202123000 +0000" stop="20250202133000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="Eurosport 1 HD">
+        <title>Alpine Skiing: World Cup</title>
+    </programme>
+    <programme start="20250202113000 +0000" stop="20250202115000 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250202115000 +0000" stop="20250202133000 +0000" channel="Eurosport 1 HD">
         <title>Live Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250202133000 +0000" stop="20250202160000 +0000" channel="Eurosport 1 HD">
@@ -13464,14 +13470,17 @@
     <programme start="20250202153500 +0000" stop="20250202163000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202163000 +0000" stop="20250202173000 +0000" channel="Eurosport 2 HD">
         <title>Spirit of Yachting</title>
     </programme>
-    <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202180000 +0000" stop="20250202181000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
+    </programme>
+    <programme start="20250202181000 +0000" stop="20250202190000 +0000" channel="Eurosport 2 HD">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
@@ -13479,14 +13488,17 @@
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202210000 +0000" stop="20250202223000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202230000 +0000" stop="20250202231000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
+    </programme>
+    <programme start="20250202231000 +0000" stop="20250203001000 +0000" channel="Eurosport 2 HD">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250201210000 +0000" stop="20250202010000 +0000" channel="SkySp Racing">
         <title>Stateside Live</title>
@@ -28845,23 +28857,11 @@
     <programme start="20250202083000 +0000" stop="20250202090000 +0000" channel="Sangat">
         <title>Salok M:9</title>
     </programme>
-    <programme start="20250202090000 +0000" stop="20250202093000 +0000" channel="Sangat">
-        <title>Kids Special</title>
+    <programme start="20250202090000 +0000" stop="20250202133000 +0000" channel="Sangat">
+        <title>Live: Sri Akhand Paath Sahib</title>
     </programme>
-    <programme start="20250202093000 +0000" stop="20250202100000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
-    </programme>
-    <programme start="20250202100000 +0000" stop="20250202103000 +0000" channel="Sangat">
-        <title>Nirmal Soch</title>
-    </programme>
-    <programme start="20250202103000 +0000" stop="20250202113000 +0000" channel="Sangat">
-        <title>Katha Sri Suraj Parkash</title>
-    </programme>
-    <programme start="20250202113000 +0000" stop="20250202130000 +0000" channel="Sangat">
-        <title>Sukhmani Sahib</title>
-    </programme>
-    <programme start="20250202130000 +0000" stop="20250202143000 +0000" channel="Sangat">
-        <title>Katha Vichar</title>
+    <programme start="20250202133000 +0000" stop="20250202143000 +0000" channel="Sangat">
+        <title>Basant Raag Darbar</title>
     </programme>
     <programme start="20250202143000 +0000" stop="20250202150000 +0000" channel="Sangat">
         <title>Ek Noor</title>
@@ -33513,13 +33513,13 @@
     <programme start="20250202060000 +0000" stop="20250202080000 +0000" channel="Eurosport 1">
         <title>Snooker: German Masters</title>
     </programme>
-    <programme start="20250202080000 +0000" stop="20250202081500 +0000" channel="Eurosport 1">
+    <programme start="20250202080000 +0000" stop="20250202081000 +0000" channel="Eurosport 1">
         <title>Snooker 147s</title>
     </programme>
-    <programme start="20250202081500 +0000" stop="20250202082500 +0000" channel="Eurosport 1">
+    <programme start="20250202081000 +0000" stop="20250202082000 +0000" channel="Eurosport 1">
         <title>Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202082500 +0000" stop="20250202083500 +0000" channel="Eurosport 1">
+    <programme start="20250202082000 +0000" stop="20250202083500 +0000" channel="Eurosport 1">
         <title>Nordic Combined Skiing: World Cup</title>
     </programme>
     <programme start="20250202083500 +0000" stop="20250202092000 +0000" channel="Eurosport 1">
@@ -33528,10 +33528,16 @@
     <programme start="20250202092000 +0000" stop="20250202103000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202123000 +0000" channel="Eurosport 1">
-        <title>Live Alpine Skiing: World Cup</title>
+    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="Eurosport 1">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202123000 +0000" stop="20250202133000 +0000" channel="Eurosport 1">
+    <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="Eurosport 1">
+        <title>Alpine Skiing: World Cup</title>
+    </programme>
+    <programme start="20250202113000 +0000" stop="20250202115000 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250202115000 +0000" stop="20250202133000 +0000" channel="Eurosport 1">
         <title>Live Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250202133000 +0000" stop="20250202160000 +0000" channel="Eurosport 1">
@@ -33606,14 +33612,17 @@
     <programme start="20250202153500 +0000" stop="20250202163000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 2">
+    <programme start="20250202163000 +0000" stop="20250202173000 +0000" channel="Eurosport 2">
         <title>Spirit of Yachting</title>
     </programme>
-    <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="Eurosport 2">
+    <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Eurosport 2">
+    <programme start="20250202180000 +0000" stop="20250202181000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
+    </programme>
+    <programme start="20250202181000 +0000" stop="20250202190000 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
@@ -33621,14 +33630,17 @@
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Eurosport 2">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Eurosport 2">
+    <programme start="20250202210000 +0000" stop="20250202223000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="Eurosport 2">
+    <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Eurosport 2">
+    <programme start="20250202230000 +0000" stop="20250202231000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
+    </programme>
+    <programme start="20250202231000 +0000" stop="20250203001000 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250201210000 +0000" stop="20250202010000 +0000" channel="SkySp Racing HD">
         <title>Stateside Live</title>
