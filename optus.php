@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250201200000 +0000" stop="20250201210000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250202115000 +0000" stop="20250202141000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Manchester City v Arsenal</title>
     </programme>
