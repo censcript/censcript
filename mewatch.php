@@ -936,11 +936,17 @@
     <programme start="20250201160000 +0000" stop="20250202160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 7th February, Friday 8.30pm. ONE Friday Fights 96</title>
     </programme>
-    <programme start="20250131160000 +0000" stop="20250201160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250131160000 +0000" stop="20250201060000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 1st February, Saturday 2pm. Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
     </programme>
-    <programme start="20250201160000 +0000" stop="20250202060000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st February, Saturday 2pm. Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
+    <programme start="20250201060000 +0000" stop="20250201093000 +0000" channel="Live 5.mewatch">
+        <title>Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
+    </programme>
+    <programme start="20250201093000 +0000" stop="20250201160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 2nd February, Sunday 5pm. Singapore Tennis Open 2025: Women’s Singles Final</title>
+    </programme>
+    <programme start="20250201160000 +0000" stop="20250202090000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 2nd February, Sunday 5pm. Singapore Tennis Open 2025: Women’s Singles Final</title>
     </programme>
     <programme start="20250131160000 +0000" stop="20250201160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd February, Sunday 12pm. Singapore Smash 2025</title>
