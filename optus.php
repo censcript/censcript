@@ -3,18 +3,6 @@
     <programme start="20250201145000 +0000" stop="20250201172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250201145000 +0000" stop="20250201171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Newcastle United v Fulham</title>
-    </programme>
-    <programme start="20250201145000 +0000" stop="20250201171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Ipswich v Southampton</title>
-    </programme>
-    <programme start="20250201145000 +0000" stop="20250201171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Everton v Leicester City</title>
-    </programme>
-    <programme start="20250201145000 +0000" stop="20250201171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Bournemouth v Liverpool</title>
-    </programme>
     <programme start="20250201172000 +0000" stop="20250201200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Aston Villa</title>
     </programme>
