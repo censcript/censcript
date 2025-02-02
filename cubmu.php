@@ -1374,13 +1374,10 @@
     <programme start="20250202213000 +0000" stop="20250202230000 +0000" channel="Indosiar.cubmu">
         <title>Fokus Pagi</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5</title>
-    </programme>
-    <programme start="20250203000000 +0000" stop="20250203013000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250202230000 +0000" stop="20250203010000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Pagi Spesial</title>
     </programme>
-    <programme start="20250203013000 +0000" stop="20250203030000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250203010000 +0000" stop="20250203030000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Pagi Spesial</title>
     </programme>
     <programme start="20250203030000 +0000" stop="20250203040000 +0000" channel="Indosiar.cubmu">
@@ -1407,10 +1404,10 @@
     <programme start="20250203113000 +0000" stop="20250203140000 +0000" channel="Indosiar.cubmu">
         <title>BRI Liga 1 2024/2025</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203163000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250203140000 +0000" stop="20250203160000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250203163000 +0000" stop="20250202183000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250203160000 +0000" stop="20250202173000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20250202183000 +0000" stop="20250202200000 +0000" channel="SCTV.cubmu">
@@ -1422,10 +1419,10 @@
     <programme start="20250202210000 +0000" stop="20250202213000 +0000" channel="SCTV.cubmu">
         <title>Indahnya Kebersamaan</title>
     </programme>
-    <programme start="20250202213000 +0000" stop="20250202231500 +0000" channel="SCTV.cubmu">
+    <programme start="20250202213000 +0000" stop="20250202230000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20250202231500 +0000" stop="20250203000000 +0000" channel="SCTV.cubmu">
+    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="SCTV.cubmu">
         <title>Hot Shot</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203013000 +0000" channel="SCTV.cubmu">
@@ -1440,22 +1437,22 @@
     <programme start="20250203050000 +0000" stop="20250203053000 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Siang</title>
     </programme>
-    <programme start="20250203053000 +0000" stop="20250203071500 +0000" channel="SCTV.cubmu">
+    <programme start="20250203053000 +0000" stop="20250203073000 +0000" channel="SCTV.cubmu">
         <title>FTV Siang</title>
     </programme>
-    <programme start="20250203071500 +0000" stop="20250203081500 +0000" channel="SCTV.cubmu">
+    <programme start="20250203073000 +0000" stop="20250203083000 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
-    <programme start="20250203081500 +0000" stop="20250203094500 +0000" channel="SCTV.cubmu">
+    <programme start="20250203083000 +0000" stop="20250203094500 +0000" channel="SCTV.cubmu">
         <title>FTV Sore</title>
     </programme>
     <programme start="20250203094500 +0000" stop="20250203111500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20250203111500 +0000" stop="20250203124500 +0000" channel="SCTV.cubmu">
+    <programme start="20250203111500 +0000" stop="20250203130000 +0000" channel="SCTV.cubmu">
         <title>Ketika Cinta Memanggilmu</title>
     </programme>
-    <programme start="20250203124500 +0000" stop="20250203143000 +0000" channel="SCTV.cubmu">
+    <programme start="20250203130000 +0000" stop="20250203143000 +0000" channel="SCTV.cubmu">
         <title>Ikrar Cinta Suci</title>
     </programme>
     <programme start="20250203143000 +0000" stop="20250203160000 +0000" channel="SCTV.cubmu">
@@ -1464,14 +1461,8 @@
     <programme start="20250203160000 +0000" stop="20250202173000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250202170000 +0000" stop="20250202170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250202170500 +0000" stop="20250202173000 +0000" channel="MetroTV.cubmu">
-        <title>Q &amp; A</title>
-    </programme>
-    <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="MetroTV.cubmu">
-        <title>Q &amp; A</title>
+    <programme start="20250202170500 +0000" stop="20250202180000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
     </programme>
     <programme start="20250202180000 +0000" stop="20250202180500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
@@ -1480,25 +1471,22 @@
         <title>Primetime News</title>
     </programme>
     <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
+        <title>Realitas</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202190500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250202190500 +0000" stop="20250202193000 +0000" channel="MetroTV.cubmu">
-        <title>Kick Andy</title>
+        <title>Gaspoll</title>
     </programme>
-    <programme start="20250202193000 +0000" stop="20250202194500 +0000" channel="MetroTV.cubmu">
-        <title>Kick Andy</title>
-    </programme>
-    <programme start="20250202194500 +0000" stop="20250202200000 +0000" channel="MetroTV.cubmu">
-        <title>Kick Andy</title>
+    <programme start="20250202193000 +0000" stop="20250202200000 +0000" channel="MetroTV.cubmu">
+        <title>Realitas</title>
     </programme>
     <programme start="20250202200000 +0000" stop="20250202200500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250202200500 +0000" stop="20250202203000 +0000" channel="MetroTV.cubmu">
-        <title>Melihat Indonesia</title>
+        <title>Authentic Indonesia</title>
     </programme>
     <programme start="20250202203000 +0000" stop="20250202210000 +0000" channel="MetroTV.cubmu">
         <title>Gaspoll</title>
@@ -1506,19 +1494,13 @@
     <programme start="20250202210000 +0000" stop="20250202210500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250202210500 +0000" stop="20250202213000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250202213000 +0000" stop="20250202220000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250202210500 +0000" stop="20250202220000 +0000" channel="MetroTV.cubmu">
         <title>Top News</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202220500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250202220500 +0000" stop="20250202225000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Pagi Primetime</title>
-    </programme>
-    <programme start="20250202225000 +0000" stop="20250202230000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250202220500 +0000" stop="20250202230000 +0000" channel="MetroTV.cubmu">
         <title>Metro Pagi Primetime</title>
     </programme>
     <programme start="20250202230000 +0000" stop="20250202230500 +0000" channel="MetroTV.cubmu">
@@ -1528,178 +1510,133 @@
         <title>Metro Pagi Primetime</title>
     </programme>
     <programme start="20250202233000 +0000" stop="20250203000000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
+        <title>Jendela Dunia : Inovator</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203000500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203000500 +0000" stop="20250203003000 +0000" channel="MetroTV.cubmu">
-        <title>Editorial Media Indonesia</title>
+        <title>Dunia Kita</title>
     </programme>
     <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="MetroTV.cubmu">
-        <title>The One - Info Plus</title>
+        <title>Info Plus</title>
     </programme>
     <programme start="20250203010000 +0000" stop="20250203010500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203010500 +0000" stop="20250203013000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
-    </programme>
-    <programme start="20250203013000 +0000" stop="20250203014500 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
-    </programme>
-    <programme start="20250203014500 +0000" stop="20250203020000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203010500 +0000" stop="20250203020000 +0000" channel="MetroTV.cubmu">
         <title>Selamat Pagi Indonesia</title>
     </programme>
     <programme start="20250203020000 +0000" stop="20250203020500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203020500 +0000" stop="20250203023000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
+        <title>Melihat Indonesia</title>
     </programme>
     <programme start="20250203023000 +0000" stop="20250203030000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
+        <title>Go Healthy</title>
     </programme>
     <programme start="20250203030000 +0000" stop="20250203030500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203030500 +0000" stop="20250203033000 +0000" channel="MetroTV.cubmu">
-        <title>Zona Bisnis</title>
+        <title>VOA Global Report</title>
     </programme>
     <programme start="20250203033000 +0000" stop="20250203040000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
+        <title>Journey</title>
     </programme>
     <programme start="20250203040000 +0000" stop="20250203040500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203040500 +0000" stop="20250203050000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
+        <title>Metro Siang</title>
     </programme>
     <programme start="20250203050000 +0000" stop="20250203050500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203050500 +0000" stop="20250203053000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250203053000 +0000" stop="20250203060000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203050500 +0000" stop="20250203060000 +0000" channel="MetroTV.cubmu">
         <title>Metro Siang</title>
     </programme>
     <programme start="20250203060000 +0000" stop="20250203060500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203060500 +0000" stop="20250203063000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250203063000 +0000" stop="20250203070000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
+    <programme start="20250203060500 +0000" stop="20250203070000 +0000" channel="MetroTV.cubmu">
+        <title>Showbizz</title>
     </programme>
     <programme start="20250203070000 +0000" stop="20250203070500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203070500 +0000" stop="20250203073000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250203073000 +0000" stop="20250203080000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203070500 +0000" stop="20250203080000 +0000" channel="MetroTV.cubmu">
         <title>Newsline</title>
     </programme>
     <programme start="20250203080000 +0000" stop="20250203080500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203080500 +0000" stop="20250203082000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250203082000 +0000" stop="20250203083000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203080500 +0000" stop="20250203083000 +0000" channel="MetroTV.cubmu">
         <title>Newsline</title>
     </programme>
     <programme start="20250203083000 +0000" stop="20250203090000 +0000" channel="MetroTV.cubmu">
-        <title>Prioritas Indonesia</title>
+        <title>Realitas</title>
     </programme>
     <programme start="20250203090000 +0000" stop="20250203090500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203090500 +0000" stop="20250203093000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250203093000 +0000" stop="20250203100000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203090500 +0000" stop="20250203100000 +0000" channel="MetroTV.cubmu">
         <title>Metro Hari Ini</title>
     </programme>
     <programme start="20250203100000 +0000" stop="20250203100500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203100500 +0000" stop="20250203102000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203100500 +0000" stop="20250203103000 +0000" channel="MetroTV.cubmu">
         <title>Metro Hari Ini</title>
     </programme>
-    <programme start="20250203102000 +0000" stop="20250203103000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250203103000 +0000" stop="20250203104500 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250203104500 +0000" stop="20250203110000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203103000 +0000" stop="20250203110000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
     <programme start="20250203110000 +0000" stop="20250203110500 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
+        <title>Headline News</title>
     </programme>
-    <programme start="20250203110500 +0000" stop="20250203112700 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250203112700 +0000" stop="20250203113000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250203113000 +0000" stop="20250203115700 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250203115700 +0000" stop="20250203120000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203110500 +0000" stop="20250203120000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
     <programme start="20250203120000 +0000" stop="20250203120500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203120500 +0000" stop="20250203123000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
+        <title>Go Healthy</title>
     </programme>
     <programme start="20250203123000 +0000" stop="20250203130000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
+        <title>Go Healthy</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203130500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203130500 +0000" stop="20250203133000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250203133000 +0000" stop="20250203135000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250203135000 +0000" stop="20250203140000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
+    <programme start="20250203130500 +0000" stop="20250203140000 +0000" channel="MetroTV.cubmu">
+        <title>Q &amp; A</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203140500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203140500 +0000" stop="20250203143000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250203143000 +0000" stop="20250203150000 +0000" channel="MetroTV.cubmu">
+    <programme start="20250203140500 +0000" stop="20250203150000 +0000" channel="MetroTV.cubmu">
         <title>Top News</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203150500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
-    <programme start="20250203150500 +0000" stop="20250203153000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Xinwen</title>
-    </programme>
-    <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
+    <programme start="20250203150500 +0000" stop="20250203160000 +0000" channel="MetroTV.cubmu">
+        <title>Kick Andy</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203160500 +0000" channel="MetroTV.cubmu">
         <title>Headline News</title>
     </programme>
     <programme start="20250203160500 +0000" stop="20250203163000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
+        <title>Journey</title>
     </programme>
     <programme start="20250203163000 +0000" stop="20250202170000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
+        <title>Metro This Week</title>
+    </programme>
+    <programme start="20250202171500 +0000" stop="20250202181500 +0000" channel="GTV.cubmu">
+        <title>Buletin iNews Malam</title>
     </programme>
     <programme start="20250202171500 +0000" stop="20250202181500 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Malam</title>
@@ -1707,8 +1644,17 @@
     <programme start="20250202181500 +0000" stop="20250202184500 +0000" channel="GTV.cubmu">
         <title>Gerebek</title>
     </programme>
+    <programme start="20250202181500 +0000" stop="20250202184500 +0000" channel="GTV.cubmu">
+        <title>Gerebek</title>
+    </programme>
     <programme start="20250202184500 +0000" stop="20250202203000 +0000" channel="GTV.cubmu">
         <title>Ragam Pagi</title>
+    </programme>
+    <programme start="20250202184500 +0000" stop="20250202203000 +0000" channel="GTV.cubmu">
+        <title>Ragam Pagi</title>
+    </programme>
+    <programme start="20250202203000 +0000" stop="20250202213000 +0000" channel="GTV.cubmu">
+        <title>Buletin iNews Pagi</title>
     </programme>
     <programme start="20250202203000 +0000" stop="20250202213000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Pagi</title>
@@ -1716,8 +1662,17 @@
     <programme start="20250202213000 +0000" stop="20250202223000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
+    <programme start="20250202213000 +0000" stop="20250202223000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
     <programme start="20250202223000 +0000" stop="20250203003000 +0000" channel="GTV.cubmu">
         <title>CoComelon</title>
+    </programme>
+    <programme start="20250202223000 +0000" stop="20250203003000 +0000" channel="GTV.cubmu">
+        <title>CoComelon</title>
+    </programme>
+    <programme start="20250203003000 +0000" stop="20250203013000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
     </programme>
     <programme start="20250203003000 +0000" stop="20250203013000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
@@ -1725,7 +1680,16 @@
     <programme start="20250203013000 +0000" stop="20250203020000 +0000" channel="GTV.cubmu">
         <title>Zak Storm</title>
     </programme>
+    <programme start="20250203013000 +0000" stop="20250203020000 +0000" channel="GTV.cubmu">
+        <title>Zak Storm</title>
+    </programme>
     <programme start="20250203020000 +0000" stop="20250203033000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
+    <programme start="20250203020000 +0000" stop="20250203033000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
+    <programme start="20250203033000 +0000" stop="20250203060000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
     <programme start="20250203033000 +0000" stop="20250203060000 +0000" channel="GTV.cubmu">
@@ -1734,8 +1698,17 @@
     <programme start="20250203060000 +0000" stop="20250203080000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
+    <programme start="20250203060000 +0000" stop="20250203080000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
     <programme start="20250203080000 +0000" stop="20250203093000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203093000 +0000" channel="GTV.cubmu">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
+    <programme start="20250203093000 +0000" stop="20250203110000 +0000" channel="GTV.cubmu">
+        <title>Big Movies Family</title>
     </programme>
     <programme start="20250203093000 +0000" stop="20250203110000 +0000" channel="GTV.cubmu">
         <title>Big Movies Family</title>
@@ -1743,10 +1716,22 @@
     <programme start="20250203110000 +0000" stop="20250203120000 +0000" channel="GTV.cubmu">
         <title>Teka-Teki Kata</title>
     </programme>
+    <programme start="20250203110000 +0000" stop="20250203120000 +0000" channel="GTV.cubmu">
+        <title>Teka-Teki Kata</title>
+    </programme>
+    <programme start="20250203120000 +0000" stop="20250203133000 +0000" channel="GTV.cubmu">
+        <title>KV +62</title>
+    </programme>
     <programme start="20250203120000 +0000" stop="20250203133000 +0000" channel="GTV.cubmu">
         <title>KV +62</title>
     </programme>
     <programme start="20250203133000 +0000" stop="20250203153000 +0000" channel="GTV.cubmu">
+        <title>Big Movies Platinum</title>
+    </programme>
+    <programme start="20250203133000 +0000" stop="20250203153000 +0000" channel="GTV.cubmu">
+        <title>Big Movies Platinum</title>
+    </programme>
+    <programme start="20250203153000 +0000" stop="20250202171500 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
     <programme start="20250203153000 +0000" stop="20250202171500 +0000" channel="GTV.cubmu">
@@ -1863,23 +1848,8 @@
     <programme start="20250203163000 +0000" stop="20250202170000 +0000" channel="Jak tv.cubmu">
         <title>Retro Hour</title>
     </programme>
-    <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="BTV.cubmu">
-        <title>Film Pendek Indonesia</title>
-    </programme>
-    <programme start="20250202180000 +0000" stop="20250202180300 +0000" channel="BTV.cubmu">
-        <title>Tanah Airku</title>
-    </programme>
-    <programme start="20250202180300 +0000" stop="20250202183000 +0000" channel="BTV.cubmu">
-        <title>Figur Publik</title>
-    </programme>
-    <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="BTV.cubmu">
+    <programme start="20250202203000 +0000" stop="20250202210000 +0000" channel="BTV.cubmu">
         <title>Kuyliner</title>
-    </programme>
-    <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="BTV.cubmu">
-        <title>Berita Satu Siang</title>
-    </programme>
-    <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="BTV.cubmu">
-        <title>Berita Satu Malam</title>
     </programme>
     <programme start="20250202210000 +0000" stop="20250202213000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
@@ -1899,52 +1869,52 @@
     <programme start="20250203000000 +0000" stop="20250203003000 +0000" channel="BTV.cubmu">
         <title>Masak Ala Devina Hermawan</title>
     </programme>
-    <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="BTV.cubmu">
-        <title>Dunia Binatang</title>
+    <programme start="20250203003000 +0000" stop="20250203011500 +0000" channel="BTV.cubmu">
+        <title>Didi &amp; Friends</title>
     </programme>
-    <programme start="20250203010000 +0000" stop="20250203014500 +0000" channel="BTV.cubmu">
+    <programme start="20250203011500 +0000" stop="20250203021500 +0000" channel="BTV.cubmu">
         <title>Boonie Bears</title>
     </programme>
-    <programme start="20250203014500 +0000" stop="20250203023000 +0000" channel="BTV.cubmu">
+    <programme start="20250203021500 +0000" stop="20250203030000 +0000" channel="BTV.cubmu">
         <title>Motu Patlu</title>
     </programme>
-    <programme start="20250203023000 +0000" stop="20250203030000 +0000" channel="BTV.cubmu">
-        <title>Dunia Rans</title>
+    <programme start="20250203030000 +0000" stop="20250203033000 +0000" channel="BTV.cubmu">
+        <title>Kuyliner</title>
     </programme>
-    <programme start="20250203030000 +0000" stop="20250203040000 +0000" channel="BTV.cubmu">
+    <programme start="20250203033000 +0000" stop="20250203040000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
     </programme>
     <programme start="20250203040000 +0000" stop="20250203050000 +0000" channel="BTV.cubmu">
         <title>Berita Satu Siang</title>
     </programme>
-    <programme start="20250203050000 +0000" stop="20250203054500 +0000" channel="BTV.cubmu">
-        <title>Figur Publik</title>
-    </programme>
-    <programme start="20250203054500 +0000" stop="20250203063000 +0000" channel="BTV.cubmu">
+    <programme start="20250203050000 +0000" stop="20250203060000 +0000" channel="BTV.cubmu">
         <title>Info Seleb</title>
     </programme>
-    <programme start="20250203063000 +0000" stop="20250203070000 +0000" channel="BTV.cubmu">
-        <title>Kuyliner</title>
-    </programme>
-    <programme start="20250203070000 +0000" stop="20250203074500 +0000" channel="BTV.cubmu">
-        <title>Anak Hebat</title>
-    </programme>
-    <programme start="20250203074500 +0000" stop="20250203084500 +0000" channel="BTV.cubmu">
-        <title>Dunia Binatang</title>
-    </programme>
-    <programme start="20250203084500 +0000" stop="20250203094500 +0000" channel="BTV.cubmu">
-        <title>Boonie Bears</title>
-    </programme>
-    <programme start="20250203094500 +0000" stop="20250203104500 +0000" channel="BTV.cubmu">
-        <title>Motu Patlu</title>
-    </programme>
-    <programme start="20250203104500 +0000" stop="20250203113000 +0000" channel="BTV.cubmu">
-        <title>Dunia Binatang</title>
-    </programme>
-    <programme start="20250203113000 +0000" stop="20250203120000 +0000" channel="BTV.cubmu">
+    <programme start="20250203060000 +0000" stop="20250203064500 +0000" channel="BTV.cubmu">
         <title>Figur Publik</title>
     </programme>
-    <programme start="20250203120000 +0000" stop="20250203130000 +0000" channel="BTV.cubmu">
+    <programme start="20250203064500 +0000" stop="20250203071500 +0000" channel="BTV.cubmu">
+        <title>Dunia Rans</title>
+    </programme>
+    <programme start="20250203071500 +0000" stop="20250203080000 +0000" channel="BTV.cubmu">
+        <title>Anak Hebat</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203090000 +0000" channel="BTV.cubmu">
+        <title>Didi &amp; Friends</title>
+    </programme>
+    <programme start="20250203090000 +0000" stop="20250203100000 +0000" channel="BTV.cubmu">
+        <title>Boonie Bears</title>
+    </programme>
+    <programme start="20250203100000 +0000" stop="20250203110000 +0000" channel="BTV.cubmu">
+        <title>Motu Patlu</title>
+    </programme>
+    <programme start="20250203110000 +0000" stop="20250203114500 +0000" channel="BTV.cubmu">
+        <title>Dunia Binatang</title>
+    </programme>
+    <programme start="20250203114500 +0000" stop="20250203121500 +0000" channel="BTV.cubmu">
+        <title>Figur Publik</title>
+    </programme>
+    <programme start="20250203121500 +0000" stop="20250203130000 +0000" channel="BTV.cubmu">
         <title>Berita Viral</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203134500 +0000" channel="BTV.cubmu">
@@ -2034,13 +2004,19 @@
     <programme start="20250203163000 +0000" stop="20250202170000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
     </programme>
-    <programme start="20250202170000 +0000" stop="20250202173000 +0000" channel="MNC TV.cubmu">
-        <title>Serial Pilihan Malam</title>
-    </programme>
-    <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="MNC TV.cubmu">
         <title>Suparman Reborn</title>
     </programme>
-    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="MNC TV.cubmu">
+        <title>Suparman Reborn</title>
+    </programme>
+    <programme start="20250202183000 +0000" stop="20250202190000 +0000" channel="MNC TV.cubmu">
+        <title>Suparman Reborn</title>
+    </programme>
+    <programme start="20250202190000 +0000" stop="20250202203000 +0000" channel="MNC TV.cubmu">
+        <title>Suparman Reborn</title>
+    </programme>
+    <programme start="20250202190000 +0000" stop="20250202203000 +0000" channel="MNC TV.cubmu">
         <title>Suparman Reborn</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202203000 +0000" channel="MNC TV.cubmu">
@@ -2049,8 +2025,26 @@
     <programme start="20250202203000 +0000" stop="20250202213000 +0000" channel="MNC TV.cubmu">
         <title>Lintas iNews Pagi</title>
     </programme>
+    <programme start="20250202203000 +0000" stop="20250202213000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Pagi</title>
+    </programme>
+    <programme start="20250202203000 +0000" stop="20250202213000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Pagi</title>
+    </programme>
     <programme start="20250202213000 +0000" stop="20250202220000 +0000" channel="MNC TV.cubmu">
         <title>Jurnal Lintas iNews Pagi</title>
+    </programme>
+    <programme start="20250202213000 +0000" stop="20250202220000 +0000" channel="MNC TV.cubmu">
+        <title>Jurnal Lintas iNews Pagi</title>
+    </programme>
+    <programme start="20250202213000 +0000" stop="20250202220000 +0000" channel="MNC TV.cubmu">
+        <title>Jurnal Lintas iNews Pagi</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="MNC TV.cubmu">
+        <title>Seleb On News</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="MNC TV.cubmu">
+        <title>Seleb On News</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="MNC TV.cubmu">
         <title>Seleb On News</title>
@@ -2058,13 +2052,34 @@
     <programme start="20250202223000 +0000" stop="20250202233000 +0000" channel="MNC TV.cubmu">
         <title>Siraman Qolbu</title>
     </programme>
-    <programme start="20250202233000 +0000" stop="20250203000000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250202223000 +0000" stop="20250202233000 +0000" channel="MNC TV.cubmu">
+        <title>Siraman Qolbu</title>
+    </programme>
+    <programme start="20250202223000 +0000" stop="20250202233000 +0000" channel="MNC TV.cubmu">
+        <title>Siraman Qolbu</title>
+    </programme>
+    <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="MNC TV.cubmu">
         <title>Kiko</title>
     </programme>
-    <programme start="20250203000000 +0000" stop="20250203003000 +0000" channel="MNC TV.cubmu">
-        <title>Pada Zaman Dahulu</title>
+    <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="MNC TV.cubmu">
+        <title>Kiko</title>
+    </programme>
+    <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="MNC TV.cubmu">
+        <title>Kiko</title>
     </programme>
     <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203003000 +0000" stop="20250203010000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203010000 +0000" stop="20250203030000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203010000 +0000" stop="20250203030000 +0000" channel="MNC TV.cubmu">
         <title>Upin &amp; Ipin</title>
     </programme>
     <programme start="20250203010000 +0000" stop="20250203030000 +0000" channel="MNC TV.cubmu">
@@ -2073,31 +2088,91 @@
     <programme start="20250203030000 +0000" stop="20250203040000 +0000" channel="MNC TV.cubmu">
         <title>Lintas iNews Siang</title>
     </programme>
-    <programme start="20250203040000 +0000" stop="20250203050000 +0000" channel="MNC TV.cubmu">
-        <title>Kejarlah Daku Kau Kutangkap</title>
+    <programme start="20250203030000 +0000" stop="20250203040000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Siang</title>
     </programme>
-    <programme start="20250203050000 +0000" stop="20250203060000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250203030000 +0000" stop="20250203040000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Siang</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203060000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203060000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203040000 +0000" stop="20250203060000 +0000" channel="MNC TV.cubmu">
         <title>Upin &amp; Ipin</title>
     </programme>
     <programme start="20250203060000 +0000" stop="20250203080000 +0000" channel="MNC TV.cubmu">
         <title>Upin &amp; Ipin</title>
     </programme>
-    <programme start="20250203080000 +0000" stop="20250203094500 +0000" channel="MNC TV.cubmu">
+    <programme start="20250203060000 +0000" stop="20250203080000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203060000 +0000" stop="20250203080000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203093000 +0000" channel="MNC TV.cubmu">
         <title>Petualangan Fantastis Kiko</title>
     </programme>
-    <programme start="20250203094500 +0000" stop="20250203121500 +0000" channel="MNC TV.cubmu">
+    <programme start="20250203080000 +0000" stop="20250203093000 +0000" channel="MNC TV.cubmu">
+        <title>Petualangan Fantastis Kiko</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203093000 +0000" channel="MNC TV.cubmu">
+        <title>Petualangan Fantastis Kiko</title>
+    </programme>
+    <programme start="20250203093000 +0000" stop="20250203103000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203093000 +0000" stop="20250203103000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203093000 +0000" stop="20250203103000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203103000 +0000" stop="20250203121500 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203103000 +0000" stop="20250203121500 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203103000 +0000" stop="20250203121500 +0000" channel="MNC TV.cubmu">
         <title>Upin &amp; Ipin</title>
     </programme>
     <programme start="20250203121500 +0000" stop="20250203123000 +0000" channel="MNC TV.cubmu">
-        <title>Kuis Berhadiah Motion Bank</title>
-    </programme>
-    <programme start="20250203123000 +0000" stop="20250203130000 +0000" channel="MNC TV.cubmu">
         <title>Upin &amp; Ipin</title>
     </programme>
-    <programme start="20250203130000 +0000" stop="20250203150000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250203121500 +0000" stop="20250203123000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203121500 +0000" stop="20250203123000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250203123000 +0000" stop="20250203150000 +0000" channel="MNC TV.cubmu">
         <title>Family 100</title>
     </programme>
-    <programme start="20250203150000 +0000" stop="20250202170000 +0000" channel="MNC TV.cubmu">
+    <programme start="20250203123000 +0000" stop="20250203150000 +0000" channel="MNC TV.cubmu">
+        <title>Family 100</title>
+    </programme>
+    <programme start="20250203123000 +0000" stop="20250203150000 +0000" channel="MNC TV.cubmu">
+        <title>Family 100</title>
+    </programme>
+    <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="MNC TV.cubmu">
+        <title>DMD Panggung Rezeki</title>
+    </programme>
+    <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="MNC TV.cubmu">
+        <title>DMD Panggung Rezeki</title>
+    </programme>
+    <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="MNC TV.cubmu">
+        <title>DMD Panggung Rezeki</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250202170000 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Malam</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250202170000 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Malam</title>
+    </programme>
+    <programme start="20250203160000 +0000" stop="20250202170000 +0000" channel="MNC TV.cubmu">
         <title>Serial Pilihan Malam</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202173000 +0000" channel="TVRI.cubmu">
@@ -2204,9 +2279,6 @@
     </programme>
     <programme start="20250203163000 +0000" stop="20250202170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250202170000 +0000" stop="20250202170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250202170500 +0000" stop="20250202170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
@@ -2471,6 +2543,351 @@
     </programme>
     <programme start="20250203150500 +0000" stop="20250202170000 +0000" channel="Dunia Anak.cubmu">
         <title>Music Lullaby</title>
+    </programme>
+    <programme start="20250202170600 +0000" stop="20250202172000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202172000 +0000" stop="20250202173200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202173200 +0000" stop="20250202175000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202175000 +0000" stop="20250202180000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202180000 +0000" stop="20250202181000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202181000 +0000" stop="20250202183000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202183000 +0000" stop="20250202184200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202184200 +0000" stop="20250202190000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202190000 +0000" stop="20250202190800 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202190800 +0000" stop="20250202191400 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202191400 +0000" stop="20250202192600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202192600 +0000" stop="20250202193200 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202193200 +0000" stop="20250202195000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202195000 +0000" stop="20250202200000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202200000 +0000" stop="20250202201800 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202201800 +0000" stop="20250202202400 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202202400 +0000" stop="20250202204500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202204500 +0000" stop="20250202210100 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202210100 +0000" stop="20250202211900 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202211900 +0000" stop="20250202212500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202212500 +0000" stop="20250202213500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202213500 +0000" stop="20250202214500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202214500 +0000" stop="20250202215000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250202215000 +0000" stop="20250202220400 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202220400 +0000" stop="20250202221000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202221000 +0000" stop="20250202222000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202222000 +0000" stop="20250202223200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202223200 +0000" stop="20250202225400 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202225400 +0000" stop="20250202230000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202230000 +0000" stop="20250202233000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202233000 +0000" stop="20250202234000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250202234000 +0000" stop="20250202235500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250202235500 +0000" stop="20250203000000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203000000 +0000" stop="20250203000500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203000500 +0000" stop="20250203001000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203001000 +0000" stop="20250203003000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203003000 +0000" stop="20250203004000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203004000 +0000" stop="20250203004500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203004500 +0000" stop="20250203005500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203005500 +0000" stop="20250203011500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203011500 +0000" stop="20250203012000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203012000 +0000" stop="20250203015000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203015000 +0000" stop="20250203020000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203020000 +0000" stop="20250203021500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203021500 +0000" stop="20250203022500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203022500 +0000" stop="20250203023000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203023000 +0000" stop="20250203025000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203025000 +0000" stop="20250203030500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203030500 +0000" stop="20250203033000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203033000 +0000" stop="20250203034000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203034000 +0000" stop="20250203035000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203035000 +0000" stop="20250203042000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203042000 +0000" stop="20250203043000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203043000 +0000" stop="20250203044500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203044500 +0000" stop="20250203045500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203045500 +0000" stop="20250203051500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203051500 +0000" stop="20250203052000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203052000 +0000" stop="20250203054500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203054500 +0000" stop="20250203055500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203055500 +0000" stop="20250203060500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203060500 +0000" stop="20250203061500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203061500 +0000" stop="20250203063500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203063500 +0000" stop="20250203065000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203065000 +0000" stop="20250203071500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203071500 +0000" stop="20250203073000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203073000 +0000" stop="20250203074500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203074500 +0000" stop="20250203080000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203080000 +0000" stop="20250203080500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203080500 +0000" stop="20250203081500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203081500 +0000" stop="20250203083000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203083000 +0000" stop="20250203084000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203084000 +0000" stop="20250203085000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203085000 +0000" stop="20250203092000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203092000 +0000" stop="20250203093500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203093500 +0000" stop="20250203094000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203094000 +0000" stop="20250203095000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203095000 +0000" stop="20250203095500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203095500 +0000" stop="20250203101500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203101500 +0000" stop="20250203102000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203102000 +0000" stop="20250203103000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203103000 +0000" stop="20250203104200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203104200 +0000" stop="20250203104800 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203104800 +0000" stop="20250203110000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203110000 +0000" stop="20250203111000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203111000 +0000" stop="20250203113400 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203113400 +0000" stop="20250203114600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203114600 +0000" stop="20250203115200 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203115200 +0000" stop="20250203120600 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203120600 +0000" stop="20250203121200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203121200 +0000" stop="20250203122000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203122000 +0000" stop="20250203123000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203123000 +0000" stop="20250203124600 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203124600 +0000" stop="20250203125500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203125500 +0000" stop="20250203130500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203130500 +0000" stop="20250203131200 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203131200 +0000" stop="20250203132500 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203132500 +0000" stop="20250203134500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203134500 +0000" stop="20250203135100 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203135100 +0000" stop="20250203140500 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203140500 +0000" stop="20250203141000 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203141000 +0000" stop="20250203142200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203142200 +0000" stop="20250203144200 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203144200 +0000" stop="20250203145200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203145200 +0000" stop="20250203150000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203150000 +0000" stop="20250203150500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203150500 +0000" stop="20250203151000 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203151000 +0000" stop="20250203152000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203152000 +0000" stop="20250203152600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203152600 +0000" stop="20250203154000 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203154000 +0000" stop="20250203155600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203155600 +0000" stop="20250203161600 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203161600 +0000" stop="20250203162500 +0000" channel="Cartoon TV.cubmu">
+        <title>The Traffic Cones</title>
+    </programme>
+    <programme start="20250203162500 +0000" stop="20250203163200 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
+    </programme>
+    <programme start="20250203163200 +0000" stop="20250203165400 +0000" channel="Cartoon TV.cubmu">
+        <title>Karl</title>
+    </programme>
+    <programme start="20250203165400 +0000" stop="20250202170600 +0000" channel="Cartoon TV.cubmu">
+        <title>Om Nom Stories</title>
     </programme>
     <programme start="20250202171100 +0000" stop="20250202181100 +0000" channel="Cartoon TV Classics.cubmu">
         <title>Betty Boop</title>
