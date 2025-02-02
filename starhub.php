@@ -6156,10 +6156,28 @@
     <programme start="20250212100000 +0000" stop="20250212160000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250212160000 +0000" stop="20250212220000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
+    <programme start="20250212160000 +0000" stop="20250212175500 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
     </programme>
-    <programme start="20250212220000 +0000" stop="20250213040000 +0000" channel="Hub Premier 2 (HD).starhub">
+    <programme start="20250212175500 +0000" stop="20250212185000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>1-to-11 2024/25</title>
+    </programme>
+    <programme start="20250212185000 +0000" stop="20250212192000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250212192000 +0000" stop="20250212213000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250212213000 +0000" stop="20250212220000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Rewind 2024/25</title>
+    </programme>
+    <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>1-to-11 2024/25</title>
+    </programme>
+    <programme start="20250212230000 +0000" stop="20250213010000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250213010000 +0000" stop="20250213040000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250213040000 +0000" stop="20250213100000 +0000" channel="Hub Premier 2 (HD).starhub">
