@@ -13237,22 +13237,22 @@
         <title>Live: Men's T20 Super Smash Final</title>
     </programme>
     <programme start="20250202064500 +0000" stop="20250202070000 +0000" channel="TNT Sports 2">
-        <title>UEFA Champions League Goals Reload</title>
+        <title>TNT Sports Cricket Reload</title>
     </programme>
-    <programme start="20250202070000 +0000" stop="20250202090000 +0000" channel="TNT Sports 2">
-        <title>Live: Brisbane R W v Wellington W</title>
+    <programme start="20250202070000 +0000" stop="20250202080000 +0000" channel="TNT Sports 2">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202090000 +0000" stop="20250202103000 +0000" channel="TNT Sports 2">
-        <title>Nottingham Forest v Brighton</title>
+    <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="TNT Sports 2">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="TNT Sports 2">
-        <title>The Big Interview: Savinho</title>
+    <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="TNT Sports 2">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="TNT Sports 2">
-        <title>PL Stories: Andy Carroll</title>
+    <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="TNT Sports 2">
+        <title>India v England - 2nd T20</title>
     </programme>
-    <programme start="20250202113000 +0000" stop="20250202120000 +0000" channel="TNT Sports 2">
-        <title>UEFA Champions League Magazine</title>
+    <programme start="20250202110000 +0000" stop="20250202120000 +0000" channel="TNT Sports 2">
+        <title>India v England - 3rd T20</title>
     </programme>
     <programme start="20250202120000 +0000" stop="20250202123000 +0000" channel="TNT Sports 2">
         <title>TNT Sports Reload</title>
@@ -14481,8 +14481,8 @@
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="BBC NEWS HD">
-        <title>Political Thinking with Nick Robinson</title>
+    <programme start="20250201220000 +0000" stop="20250201230000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250201233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -27561,13 +27561,13 @@
     <programme start="20250202060000 +0000" stop="20250202070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250202070000 +0000" stop="20250202075700 +0000" channel="IQRA TV">
+    <programme start="20250202070000 +0000" stop="20250202074800 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250202075700 +0000" stop="20250202081300 +0000" channel="IQRA TV">
+    <programme start="20250202074800 +0000" stop="20250202080900 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250202081300 +0000" stop="20250202090000 +0000" channel="IQRA TV">
+    <programme start="20250202080900 +0000" stop="20250202090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="IQRA TV">
@@ -27594,10 +27594,10 @@
     <programme start="20250202121800 +0000" stop="20250202122300 +0000" channel="IQRA TV">
         <title>Zuhr Azan</title>
     </programme>
-    <programme start="20250202122300 +0000" stop="20250202123700 +0000" channel="IQRA TV">
+    <programme start="20250202122300 +0000" stop="20250202123400 +0000" channel="IQRA TV">
         <title>The Lives of the Prophets</title>
     </programme>
-    <programme start="20250202123700 +0000" stop="20250202130000 +0000" channel="IQRA TV">
+    <programme start="20250202123400 +0000" stop="20250202130000 +0000" channel="IQRA TV">
         <title>Bazm-e-naat o Adab</title>
     </programme>
     <programme start="20250202130000 +0000" stop="20250202130500 +0000" channel="IQRA TV">
@@ -29334,10 +29334,10 @@
     <programme start="20250202073000 +0000" stop="20250202080000 +0000" channel="CHSTV">
         <title>Arabi Kafela</title>
     </programme>
-    <programme start="20250202080000 +0000" stop="20250202083000 +0000" channel="CHSTV">
+    <programme start="20250202080000 +0000" stop="20250202082000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250202083000 +0000" stop="20250202090000 +0000" channel="CHSTV">
+    <programme start="20250202082000 +0000" stop="20250202090000 +0000" channel="CHSTV">
         <title>Purbo Poshchim</title>
     </programme>
     <programme start="20250202090000 +0000" stop="20250202093000 +0000" channel="CHSTV">
@@ -29461,16 +29461,19 @@
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250202123000 +0000" stop="20250202140000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250202140000 +0000" stop="20250202150400 +0000" channel="IQRA Bangla">
-        <title>Amader Sylhet</title>
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250202150400 +0000" stop="20250202150900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250202150900 +0000" stop="20250202160000 +0000" channel="IQRA Bangla">
-        <title>Sister's View</title>
+    <programme start="20250202150900 +0000" stop="20250202153000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250202153000 +0000" stop="20250202160000 +0000" channel="IQRA Bangla">
+        <title>Al-Khair Feedback</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202163000 +0000" channel="IQRA Bangla">
         <title>Islam is way of life</title>
@@ -29490,26 +29493,20 @@
     <programme start="20250202183000 +0000" stop="20250202183500 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250202183500 +0000" stop="20250202190000 +0000" channel="IQRA Bangla">
-        <title>Moshq-e- Tilawat</title>
-    </programme>
-    <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="IQRA Bangla">
-        <title>Our Community</title>
+    <programme start="20250202183500 +0000" stop="20250202200000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250202200000 +0000" stop="20250202203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250202203000 +0000" stop="20250202210000 +0000" channel="IQRA Bangla">
-        <title>Bed time story</title>
+    <programme start="20250202203000 +0000" stop="20250202230000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202223000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="IQRA Bangla">
+    <programme start="20250202230000 +0000" stop="20250202233000 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="IQRA Bangla">
-        <title>Tauhider Shur</title>
+    <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="IQRA Bangla">
+        <title>Moshq-e- Tilawat</title>
     </programme>
     <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -29917,7 +29914,7 @@
         <title>Cine Hour</title>
     </programme>
     <programme start="20250201230000 +0000" stop="20250202000000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>News Views</title>
     </programme>
     <programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="iON TV">
         <title>Music Hour</title>
@@ -29995,25 +29992,25 @@
         <title>Bornomala</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202165500 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>News Views</title>
     </programme>
     <programme start="20250202165500 +0000" stop="20250202170000 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250202180000 +0000" stop="20250202183000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Prokriti O Jibon</title>
     </programme>
     <programme start="20250202183000 +0000" stop="20250202183500 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
     <programme start="20250202183500 +0000" stop="20250202190000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Prokriti O Jibon</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="iON TV">
         <title>Sahih Quran Shikha</title>
@@ -30025,10 +30022,10 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="Deen TV">
         <title>Islamer Shundor Achoron</title>
@@ -33442,22 +33439,22 @@
         <title>Live: Men's T20 Super Smash Final</title>
     </programme>
     <programme start="20250202064500 +0000" stop="20250202070000 +0000" channel="TNTSports2 HD">
-        <title>UEFA Champions League Goals Reload</title>
+        <title>TNT Sports Cricket Reload</title>
     </programme>
-    <programme start="20250202070000 +0000" stop="20250202090000 +0000" channel="TNTSports2 HD">
-        <title>Live: Brisbane R W v Wellington W</title>
+    <programme start="20250202070000 +0000" stop="20250202080000 +0000" channel="TNTSports2 HD">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202090000 +0000" stop="20250202103000 +0000" channel="TNTSports2 HD">
-        <title>Nottingham Forest v Brighton</title>
+    <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="TNTSports2 HD">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="TNTSports2 HD">
-        <title>The Big Interview: Savinho</title>
+    <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="TNTSports2 HD">
+        <title>Australia v England - Ashes Test</title>
     </programme>
-    <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="TNTSports2 HD">
-        <title>PL Stories: Andy Carroll</title>
+    <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="TNTSports2 HD">
+        <title>India v England - 2nd T20</title>
     </programme>
-    <programme start="20250202113000 +0000" stop="20250202120000 +0000" channel="TNTSports2 HD">
-        <title>UEFA Champions League Magazine</title>
+    <programme start="20250202110000 +0000" stop="20250202120000 +0000" channel="TNTSports2 HD">
+        <title>India v England - 3rd T20</title>
     </programme>
     <programme start="20250202120000 +0000" stop="20250202123000 +0000" channel="TNTSports2 HD">
         <title>TNT Sports Reload</title>
@@ -36180,16 +36177,16 @@
     <programme start="20250202234000 +0000" stop="20250203004000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250201210000 +0000" stop="20250201230500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250201210000 +0000" stop="20250201233000 +0000" channel="BBC Two Wal HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250201230500 +0000" stop="20250202000500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250201233000 +0000" stop="20250202003000 +0000" channel="BBC Two Wal HD">
         <title>When Bob Marley Came to Britain</title>
     </programme>
-    <programme start="20250202000500 +0000" stop="20250202011500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250202003000 +0000" stop="20250202014000 +0000" channel="BBC Two Wal HD">
         <title>Bob Marley: Live at the Rainbow</title>
     </programme>
-    <programme start="20250202011500 +0000" stop="20250202021500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250202014000 +0000" stop="20250202021500 +0000" channel="BBC Two Wal HD">
         <title>Call the Midwife</title>
     </programme>
     <programme start="20250202021500 +0000" stop="20250202064000 +0000" channel="BBC Two Wal HD">
@@ -36252,14 +36249,14 @@
     <programme start="20250202233000 +0000" stop="20250203003000 +0000" channel="BBC Two Wal HD">
         <title>The Sisters Brothers</title>
     </programme>
-    <programme start="20250201210000 +0000" stop="20250201230000 +0000" channel="BBC Two NI HD">
+    <programme start="20250201210000 +0000" stop="20250201233000 +0000" channel="BBC Two NI HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250201230000 +0000" stop="20250202001500 +0000" channel="BBC Two NI HD">
+    <programme start="20250201233000 +0000" stop="20250202004500 +0000" channel="BBC Two NI HD">
         <title>Bob Marley: Live at the Rainbow</title>
     </programme>
-    <programme start="20250202001500 +0000" stop="20250202011500 +0000" channel="BBC Two NI HD">
-        <title>Bob Marley Reimagined</title>
+    <programme start="20250202004500 +0000" stop="20250202011500 +0000" channel="BBC Two NI HD">
+        <title>QI</title>
     </programme>
     <programme start="20250202011500 +0000" stop="20250202021500 +0000" channel="BBC Two NI HD">
         <title>Call the Midwife</title>

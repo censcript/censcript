@@ -8122,7 +8122,7 @@
         <title>Chup: Revenge Of The Artist</title>
     </programme>
     <programme start="20250203050000 +0000" stop="20250203080000 +0000" channel="Zee Cinema.starhub">
-        <title>Aatma - Feel it Around You</title>
+        <title>Aatma Feel it Around You</title>
     </programme>
     <programme start="20250203080000 +0000" stop="20250203110000 +0000" channel="Zee Cinema.starhub">
         <title>Bulandi</title>
@@ -8161,7 +8161,7 @@
         <title>Agent Vinod</title>
     </programme>
     <programme start="20250204163000 +0000" stop="20250204170000 +0000" channel="Zee Cinema.starhub">
-        <title>Patty-Ay Baat</title>
+        <title>Patt-Ay Ki Baat</title>
     </programme>
     <programme start="20250204170000 +0000" stop="20250204200000 +0000" channel="Zee Cinema.starhub">
         <title>Rustom</title>
@@ -8185,10 +8185,10 @@
         <title>Rustom</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205163000 +0000" channel="Zee Cinema.starhub">
-        <title>Kotigobba - 3</title>
+        <title>Kotigobba 3</title>
     </programme>
     <programme start="20250205163000 +0000" stop="20250205170000 +0000" channel="Zee Cinema.starhub">
-        <title>Starry Nights S03</title>
+        <title>Starry Nights S03 Gen Y</title>
     </programme>
     <programme start="20250205170000 +0000" stop="20250205200000 +0000" channel="Zee Cinema.starhub">
         <title>Thai Massage</title>
@@ -8200,7 +8200,7 @@
         <title>Abhinetri</title>
     </programme>
     <programme start="20250206020000 +0000" stop="20250206050000 +0000" channel="Zee Cinema.starhub">
-        <title>Kotigobba - 3</title>
+        <title>Kotigobba 3</title>
     </programme>
     <programme start="20250206050000 +0000" stop="20250206080000 +0000" channel="Zee Cinema.starhub">
         <title>2</title>
@@ -8290,7 +8290,7 @@
         <title>Rangrezz</title>
     </programme>
     <programme start="20250209080000 +0000" stop="20250209110000 +0000" channel="Zee Cinema.starhub">
-        <title>Samrat &amp; Co</title>
+        <title>Samrat &amp; Co.</title>
     </programme>
     <programme start="20250209110000 +0000" stop="20250209140000 +0000" channel="Zee Cinema.starhub">
         <title>Pippa</title>
@@ -8308,7 +8308,7 @@
         <title>Aakrosh</title>
     </programme>
     <programme start="20250209230000 +0000" stop="20250210020000 +0000" channel="Zee Cinema.starhub">
-        <title>Samrat &amp; Co</title>
+        <title>Samrat &amp; Co.</title>
     </programme>
     <programme start="20250210020000 +0000" stop="20250210050000 +0000" channel="Zee Cinema.starhub">
         <title>Forensic</title>
@@ -30727,6 +30727,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250211100000 +0000" stop="20250211160000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211160000 +0000" stop="20250211220000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250211220000 +0000" stop="20250212040000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250212040000 +0000" stop="20250212100000 +0000" channel="Hub Sports 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250212100000 +0000" stop="20250212160000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Sports 7.starhub">
