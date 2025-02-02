@@ -28383,10 +28383,10 @@
     <programme start="20250202180000 +0000" stop="20250202183000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
-    <programme start="20250202183000 +0000" stop="20250202183500 +0000" channel="Eman Channel">
+    <programme start="20250202183000 +0000" stop="20250202183400 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250202183500 +0000" stop="20250202190000 +0000" channel="Eman Channel">
+    <programme start="20250202183400 +0000" stop="20250202190000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202191500 +0000" channel="Eman Channel">
@@ -29412,10 +29412,7 @@
     <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
-    <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="CHSTV">
-        <title>BUPET Management Committee Update</title>
-    </programme>
-    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="CHSTV">
+    <programme start="20250202223000 +0000" stop="20250202233000 +0000" channel="CHSTV">
         <title>Kohinoor Chairman</title>
     </programme>
     <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="IQRA Bangla">
