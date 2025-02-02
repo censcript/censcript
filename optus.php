@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250202115000 +0000" stop="20250202141000 +0000" channel="Optus Sport 5.optus">
-        <title>Women&#039;s Super League - Manchester City v Arsenal</title>
-    </programme>
     <programme start="20250202130000 +0000" stop="20250202162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
@@ -15,13 +12,13 @@
     <programme start="20250202135500 +0000" stop="20250202161000 +0000" channel="Optus Sport 4.optus">
         <title>Women&#039;s Super League - Liverpool v West Ham United</title>
     </programme>
-    <programme start="20250202135500 +0000" stop="20250202161000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250202135500 +0000" stop="20250202161000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Everton v Leicester</title>
     </programme>
     <programme start="20250202135500 +0000" stop="20250202161000 +0000" channel="Optus Sport 6.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Crystal Palace</title>
     </programme>
-    <programme start="20250202142000 +0000" stop="20250202164000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250202142000 +0000" stop="20250202164000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Aston Villa v Chelsea</title>
     </programme>
     <programme start="20250202162000 +0000" stop="20250202193000 +0000" channel="Optus Sport 1.optus">

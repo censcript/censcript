@@ -13392,10 +13392,10 @@
     <programme start="20250202113000 +0000" stop="20250202115000 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250202115000 +0000" stop="20250202133000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202115000 +0000" stop="20250202133500 +0000" channel="Eurosport 1 HD">
         <title>Live Freestyle Skiing: World Cup</title>
     </programme>
-    <programme start="20250202133000 +0000" stop="20250202160000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202133500 +0000" stop="20250202160000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202170000 +0000" channel="Eurosport 1 HD">
@@ -24337,58 +24337,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250202060000 +0000" stop="20250202070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250202070000 +0000" stop="20250202080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Cult 51 with Natalia</title>
     </programme>
     <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Sapphire Oud Eau De Parfum with Peter</title>
     </programme>
     <programme start="20250202110000 +0000" stop="20250202120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Homesmart Multi-functional Steam Mop with Peter</title>
     </programme>
     <programme start="20250202120000 +0000" stop="20250202130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Green Living Collective Cotton Throw with Peter</title>
     </programme>
     <programme start="20250202130000 +0000" stop="20250202140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Set of 3 Hardshell Suitcases with Peter</title>
     </programme>
     <programme start="20250202140000 +0000" stop="20250202150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Fabulift with Katy</title>
     </programme>
     <programme start="20250202150000 +0000" stop="20250202160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Firenzaa Drape Dress &amp; More with Katy</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Classic Fashion with Katy</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Dr Keller Footwear with Katy</title>
     </programme>
     <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Fine Perfumery Rose Musk ...</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Men's Fashion with Peter</title>
     </programme>
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Vostok Watches with Peter</title>
     </programme>
     <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Vostok Watches with Peter</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Salter Warm Harmony Ironing Board with Yiannis</title>
     </programme>
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Passage Croc Pattern Travel Bag with Yiannis</title>
     </programme>
     <programme start="20250201180000 +0000" stop="20250202000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -26631,132 +26631,63 @@
     <programme start="20250202003500 +0000" stop="20250202004500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Malfoozat</title>
     </programme>
-    <programme start="20250202004500 +0000" stop="20250202010000 +0000" channel="MTA1 World HD">
-        <title>Medical Facts</title>
+    <programme start="20250202004500 +0000" stop="2025020200" stop="20250202222000 +0000" channel="Aastha">
+ 000" stop="20250202055500 +0000" channel="Sanskar">
+       Avdeo        <title>Prembhushanji Maharaj</title>
+    </o </programme>
+    <programme stetle>
     </programme>
-    <programme start="20250202010000 +0000" stop="20250202015500 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Jalsa Salana Address</title>
+    <programme start="2 oi2000e>Pujya Jaya Kishori</title>
     </programme>
-    <programme start="20250202015500 +0000" stop="20250202020500 +0000" channel="MTA1 World HD">
-        <title>UK Tabligh Pioneers</title>
+ au<title>Devkinandan Thakurji</title>
     </programme>
-    <programme start="20250202020500 +0000" stop="20250202030500 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya</title>
+mme 202133000 +0000" channel="Sanskar">
+        <title>Katha</title>
     </programme>
-    <programme start="20250202030500 +0000" stop="20250202033500 +0000" channel="MTA1 World HD">
-        <title>AMMA International Conference 2024</title>
+  rogramme>
+    <programme start="20250201225000 +000oe>
+    <programme start="202502eraet="20250202220000 +0000" stop="2025020222300      <title>Taarak Mehta Ka Ooltah Chashmah</title>00oe>
+    <programme start="202502eraet="20250202220000 +0000" stop="2025020222300      <title>Taarak Mehta Ka Ool="2025020222300      <title>Taarak Mehta Ka Ooltahrogramme>
+    <programme start="20250201223000 +0sMD2025020222300      <title>Taarak Mehta Ka Ooltah Chashmah</title>00oe>
+    <programme start="202502eraet="20250202220isS/programme>
+    <programme start="20250202053000 +0000" stop="20250202060000 +0000" channel="CoSGp="20250202233000 +00 stdia"orihPhannel="Sanskar">
+  <title>Ramachari</title>
+   e2300y +00l+000="20250202210000 +0000" stop="20250202220000 +0000" channel="Sanskar">
+        <title>Yogrishi Swami Ramdey0602isSlavours</title>
     </programme>
-    <programme start="20250202033500 +0000" stop="20250202040500 +0000" channel="MTA1 World HD">
-        <title>Tehrik-e-Jadid</title>
+    <programme start="20250202083000 +0000" stop="202502020900t="2 oisMF -iuLS" channel="ColorsRishtey">
+        <title>Entertainment Ki Raat - Housefull</title>
+    </progr00" stop="20250202004000 +0000" channel="Sanskar">
+        <title>Bhakti Saar by Avdeshanand Ji</title>
+    </prog0250n0202212000 +0000" channel="Aastha">
+        <title>Yog Rishi Swami RamdevhannehN000" stop="20250202 ecr Sharma ji</title>
+ N    <title>Katha</title>
     </programme>
-    <programme start="20250202040500 +0000" stop="20250202041500 +0000" channel="MTA1 World HD">
-        <title>Golra Railway Station</title>
-    </programme>
-    <programme start="20250202041500 +0000" stop="20250202045000 +0000" channel="MTA1 World HD">
-        <title>Unscripted</title>
-    </programme>
-    <programme start="20250202045000 +0000" stop="20250202055000 +0000" channel="MTA1 World HD">
+    <program</prog0250n0202212000 +0000" channel="Aastha"urs</title>
+    </programmeo +0000" stop="20250202022200 +0000" channel="SONY SAB">
+        <title>The Kapil Sharma Show</tiachas R+000n</title>
+    </programmeo +0000" stop="20250202022200 +0000" channel="SONYSwaop="20250202000000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
+    </prop  <t yDi Bhdtartstop="20250202022200 +0000" channel="SONYSwaop="20250202000000 +0000" channel="MTA1 Wor-60000 +0000" channel="CoSGp=al</nAastha Special</title>
     </programme>
-    <programme start="20250202055000 +0000" stop="20250202060000 +0000" channel="MTA1 World HD">
-        <title>UK Tabligh Pioneers</title>
+    <programme start="20250202223sAam</prt250202050000 +0000" stop="20250202073000 +0000" channel="titles0250202232000 +0000" stop="20250202234000 +0000"   </programme>
+    <part="20250202223sAam</prt250- New Year</title>
+    </progishan+000= Chalisa</title>
+    </programkar">
+iA3m2043e>
+    <programme st-s20250202210000 +0000" chann5020>
     </programme>
-    <programme start="20250202060000 +0000" stop="20250202061500 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
+    <programme start="2025020stha">
+        <title>Bhajan</title>
+    </progra00000 +0000" channel="MTA1 Wprogramme start="20250202223sAam</prt250202050000 +0000" stop="20250202073000 +0000" channel="titlesrt="20250202172700 +0000" stop="2amme>
+    <programme start=040000 +0000" stop="2so000"1siDiTaarak Mehta Ka Ooltah Chashmaye>Fr+0000" channel="SONY SAB">
+   t="seWorld HD">
+        <title>Friday Sermon</title>
+    </prop  <t sSolorsRishtey">
+        <title>Entertainment Ki Raat - Housefull</title>
     </programme>
-    <programme start="20250202061500 +0000" stop="20250202062000 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Tehreerat</title>
+    <p4S0202212000 +0000" ctle>
     </programme>
-    <programme start="20250202062000 +0000" stop="20250202063000 +0000" channel="MTA1 World HD">
-        <title>Naz      <title>Sunder Kand Path</title>
-    </programme>
-   tart="20250202001200 +0000" stop="202502020">
-        <title>Shrimad Ramayan</title>
-    </programme>
- 
-        <title>Pujya Swami Nlinanand Giri ji  tart="20250202001200 +0000" stop="202502020">skar">
-        <title>Bhajan</tiji</title>
-    </programme>le>Bhajan</title>
-    </programme>
-    <programme start" stop="202502020">skar">
-  programme>
-   tart="20250202001200 +0000" stop="202502020">
-        <title>Shrimad Ramaat00" stop="20250202212000 +0000" channel="Aastha">
-    stl="SONY SAB">
-        <title>Pushpa Impossible</title>
-    <ele>
-    </programme>
-    <programme start="re>
-    </programme>
-    <programme start="2025020215000 ae2024</title>
-    </programme>
-    <programme0250202095800 +0000" channel="SONY SAB">
-        <ti    <programme start="2025020215000 ae2024</title>
-    </programme>
-    <programme0250202095800 +0    </programme>
-    <programme0250202095800 +0000     <title>Morari Bapu</title>
-    </programme>
-nSD  </programme>
-    <programme0250202095800 +0000" channel="SONY SAB">inc"202502020">
-        <title>Shrimad Ramaat00" stop="20250202212202071500 +0000" stop="20250202093300 +0000" channel="SONY MAX HD">
-        <title>Sui Dhaaga</title>
-inh202ltle>Rajrajeshwer Guru Ji</tt="haiya</title>
-    </programme>
-    <programme start="20250201225500 +0000" stop="20250202000000 +0000" channelds</title>
-    </programme>tle>iji</title>
-    </programme>le>Bhajan</title>
-    </programme>
-    <programme start" stop="202502020">skar">
-  progr="Aa  <programme start="20250201220000 +0000" stop="20250202005200 +0000" channel="SONY SAB">
-      e>Bhajan</title>
-    </pri">
-incimad Ramaat00" stop="20250202212202071500 +0000" stop="20250202" channel="SONY MAX HD">
-        <title>1942 A Loe>Aartiya</title>
-    </programme>
-    <programSONY MAX 2">
-        <title>Arth</title>
-    </programme>
-    <programme start="20250202132tLcamme>
-    <programme start="20250201225500 +0000" stop="2025020me>
-    <programme start="20250202132tLcamme>
-    <programme start="20250201225500 +ulimN star">
-        <title>Dr. Chinammetitle>
-    </programme>
-nSD  </programme>
-    <programme0250202095800 +0000" channel="SONY SAB">inc"202502020">
-    progSONY SAB">
-        <title>Pushpa Impossible</title>
-    </programme>
-    <programme start="20250ramme>
-    <programme0250edF0202" channel="SONY MAX HD">
-        <title>1942 A Loe>Aartiya<ssible</title>
-    </protle>Vighnaharta Ganesh</title>
-    </programme>
- madn Pdical Facts</title>
-    </programme>
-    <programme start="20250202010000 +0000" stop="20250202015500 +0000" chan50202124600 +0000" stop="20250202154000 +0000" channel="SO>Pushpa Impossible</title>
-  ne020 e starrnammelds</title>
-    </programme>tle>iji</title>
-0000" stop="20250202015500 +0000" chan50202124600 +0000" stop=">UK Tabligh Pioneers</titPnel</programme>
-    <programme start="20250202040500 +0000" stop="20250202041500 +0000" channel="MTA1 World HD">
-0202225000 +0000" channel="ammesstha Special</title>
-    </programme>
-    <programme staruPe>
- e start="20250202040500 +0000oPHD"2 A Loe>Aartiya</title>
-    </programme>
-    <programSONY MAX 2">
-        <title>Arth</title>
-    </programme>
-    <programme stari</tn/prb0 +0000" stop="20250202225000 SAB">ini15ptitograare>
-    </programme>
-    <prograitle>
-    </programme>
-    <programme stari</tn/prb0 +0000" stop="20250202225000 SAB">in="20250202225000 SAB art="20250202145600 +0000" stop="20250202155400 +0000" channel="SONY SAB">
-        <title>Mann Mein Visme start="20250202090000 +000>in="20250202225000 SAB art="20250202145600 +0000" stop="20250202155400 +0000" channel="SONY SAB">
-        <tittprogrMisme start="20250202090000 + ="20250nort=art="20250202040500 +0000" stop="20250202041500 +0000" channel="MTA1 World HD">
-0202225000 +0000" channel="ammesstha rogramme>
-    <programme stae9400   <ele>
-    </programme>
-  000" channel="Utsav Gold HD">
-        <title>Selfiee</titlaecamme>
-    <programme snc0 SAB art="20250202145600 +0000" stop="20250202155400 +0000" cheBc+000"20250202223000 +0000" stop="20250202225000 +0000"/pr2055
+    <programme start="20250202223sAam</pr202212900 +0000" stop="20250202222900 +0000" channel="ColorsCineplex">
+        <title>Golmaal 3</title>
+    </proaS
