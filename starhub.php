@@ -10843,7 +10843,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250202023000 +0000" stop="20250202030000 +0000" channel="BBC World News HD.starhub">
-        <title>China&#039;s AI Rise</title>
+        <title>DC Disaster: The Washington Plane Crash</title>
     </programme>
     <programme start="20250202030000 +0000" stop="20250202033000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -10960,7 +10960,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250202233000 +0000" stop="20250203000000 +0000" channel="BBC World News HD.starhub">
-        <title>Secret Ink</title>
+        <title>DC Disaster: The Washington Plane Crash</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

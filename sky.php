@@ -13446,11 +13446,14 @@
     <programme start="20250202085000 +0000" stop="20250202101500 +0000" channel="Eurosport 2 HD">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250202101500 +0000" stop="20250202111500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202101500 +0000" stop="20250202110500 +0000" channel="Eurosport 2 HD">
         <title>Live Ski Mountaineering: World Cup</title>
     </programme>
-    <programme start="20250202111500 +0000" stop="20250202113000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202110500 +0000" stop="20250202112500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Milan-San Remo</title>
+    </programme>
+    <programme start="20250202112500 +0000" stop="20250202113000 +0000" channel="Eurosport 2 HD">
+        <title>Sports Explainers</title>
     </programme>
     <programme start="20250202113000 +0000" stop="20250202131500 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: Challenge Mallorca</title>
@@ -25852,7 +25855,7 @@
         <title>Masihi Mel Milap</title>
     </programme>
     <programme start="20250202193000 +0000" stop="20250202200000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>OfBJP UK Special</title>
     </programme>
     <programme start="20250202200000 +0000" stop="20250202203000 +0000" channel="MATV National">
         <title>News Night</title>
@@ -28885,10 +28888,10 @@
         <title>Naam Simran</title>
     </programme>
     <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="Sangat">
-        <title>Dharat De Jaaye</title>
+        <title>Nirmal Soch</title>
     </programme>
     <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Viah Purab: Sri Guru Gobind Singh Ji</title>
     </programme>
     <programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="Akaal Channel">
         <title>Special Report</title>
@@ -33582,11 +33585,14 @@
     <programme start="20250202085000 +0000" stop="20250202101500 +0000" channel="Eurosport 2">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250202101500 +0000" stop="20250202111500 +0000" channel="Eurosport 2">
+    <programme start="20250202101500 +0000" stop="20250202110500 +0000" channel="Eurosport 2">
         <title>Live Ski Mountaineering: World Cup</title>
     </programme>
-    <programme start="20250202111500 +0000" stop="20250202113000 +0000" channel="Eurosport 2">
+    <programme start="20250202110500 +0000" stop="20250202112500 +0000" channel="Eurosport 2">
         <title>Cycling: Milan-San Remo</title>
+    </programme>
+    <programme start="20250202112500 +0000" stop="20250202113000 +0000" channel="Eurosport 2">
+        <title>Sports Explainers</title>
     </programme>
     <programme start="20250202113000 +0000" stop="20250202131500 +0000" channel="Eurosport 2">
         <title>Live Cycling: Challenge Mallorca</title>
