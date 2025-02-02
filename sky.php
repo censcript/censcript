@@ -12039,9 +12039,6 @@
     <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="NOW 70s">
         <title>The NOW Yearbook 1977</title>
     </programme>
-    <programme start="20250201150000 +0000" stop="20250201230000 +0000" channel="NOW 80s">
-        <title>They Packed a Punch! 1980-1989</title>
-    </programme>
     <programme start="20250201230000 +0000" stop="20250202013500 +0000" channel="NOW 80s">
         <title>Timmy Mallett's Brilliant Bands!</title>
     </programme>
@@ -13395,10 +13392,10 @@
     <programme start="20250202115000 +0000" stop="20250202133500 +0000" channel="Eurosport 1 HD">
         <title>Live Freestyle Skiing: World Cup</title>
     </programme>
-    <programme start="20250202133500 +0000" stop="20250202160000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202133500 +0000" stop="20250202163000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
     </programme>
-    <programme start="20250202160000 +0000" stop="20250202170000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202183000 +0000" channel="Eurosport 1 HD">
@@ -33531,10 +33528,10 @@
     <programme start="20250202115000 +0000" stop="20250202133500 +0000" channel="Eurosport 1">
         <title>Live Freestyle Skiing: World Cup</title>
     </programme>
-    <programme start="20250202133500 +0000" stop="20250202160000 +0000" channel="Eurosport 1">
+    <programme start="20250202133500 +0000" stop="20250202163000 +0000" channel="Eurosport 1">
         <title>Live Snooker: German Masters</title>
     </programme>
-    <programme start="20250202160000 +0000" stop="20250202170000 +0000" channel="Eurosport 1">
+    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
     <programme start="20250202170000 +0000" stop="20250202183000 +0000" channel="Eurosport 1">
