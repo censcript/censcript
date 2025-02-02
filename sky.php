@@ -24793,7 +24793,7 @@
         <title>Nightwear Edit with Cozee</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Malissa J Collection</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203170000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion Deals</title>
@@ -30090,10 +30090,10 @@
     <programme start="20250203090000 +0000" stop="20250203093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250203093000 +0000" stop="20250203094500 +0000" channel="Kanshi TV">
+    <programme start="20250203093000 +0000" stop="20250203100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250203094500 +0000" stop="20250203110000 +0000" channel="Kanshi TV">
+    <programme start="20250203100000 +0000" stop="20250203110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250203110000 +0000" stop="20250203123000 +0000" channel="Kanshi TV">
@@ -30106,19 +30106,16 @@
         <title>Health Show with Dr Wali</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Cooking Show</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250203143000 +0000" stop="20250203150000 +0000" channel="Kanshi TV">
-        <title>Kaum de Heere</title>
+        <title>Kanshi TV Cooking Show</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="Kanshi TV">
         <title>Gallan Baatan with Asha Mall</title>
     </programme>
-    <programme start="20250203160000 +0000" stop="20250203163000 +0000" channel="Kanshi TV">
+    <programme start="20250203160000 +0000" stop="20250203170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
-    </programme>
-    <programme start="20250203163000 +0000" stop="20250203170000 +0000" channel="Kanshi TV">
-        <title>Music Gup Shup</title>
     </programme>
     <programme start="20250203170000 +0000" stop="20250203180000 +0000" channel="Kanshi TV">
         <title>Soch Da Safar</title>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250202162000 +0000" stop="20250202193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Arsenal v Manchester City</title>
-    </programme>
     <programme start="20250202183500 +0000" stop="20250202205500 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Manchester United</title>
     </programme>
