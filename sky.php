@@ -13467,17 +13467,17 @@
     <programme start="20250202153500 +0000" stop="20250202163000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202163000 +0000" stop="20250202173000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 2 HD">
         <title>Spirit of Yachting</title>
+    </programme>
+    <programme start="20250202170000 +0000" stop="20250202173000 +0000" channel="Eurosport 2 HD">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202180000 +0000" stop="20250202181000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
-    </programme>
-    <programme start="20250202181000 +0000" stop="20250202190000 +0000" channel="Eurosport 2 HD">
-        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
@@ -13485,17 +13485,17 @@
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202223000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Eurosport 2 HD">
         <title>Cyclo-Cross World Championships Lievin</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="Eurosport 2 HD">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250202231000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250202231000 +0000" stop="20250203001000 +0000" channel="Eurosport 2 HD">
-        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250201210000 +0000" stop="20250202010000 +0000" channel="SkySp Racing">
         <title>Stateside Live</title>
@@ -33606,17 +33606,17 @@
     <programme start="20250202153500 +0000" stop="20250202163000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
     </programme>
-    <programme start="20250202163000 +0000" stop="20250202173000 +0000" channel="Eurosport 2">
+    <programme start="20250202163000 +0000" stop="20250202170000 +0000" channel="Eurosport 2">
         <title>Spirit of Yachting</title>
+    </programme>
+    <programme start="20250202170000 +0000" stop="20250202173000 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202173000 +0000" stop="20250202180000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202180000 +0000" stop="20250202181000 +0000" channel="Eurosport 2">
+    <programme start="20250202180000 +0000" stop="20250202190000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
-    </programme>
-    <programme start="20250202181000 +0000" stop="20250202190000 +0000" channel="Eurosport 2">
-        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202190000 +0000" stop="20250202200000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
@@ -33624,17 +33624,17 @@
     <programme start="20250202200000 +0000" stop="20250202210000 +0000" channel="Eurosport 2">
         <title>Cycling: Challenge Mallorca</title>
     </programme>
-    <programme start="20250202210000 +0000" stop="20250202223000 +0000" channel="Eurosport 2">
+    <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="Eurosport 2">
         <title>Cyclo-Cross World Championships Lievin</title>
+    </programme>
+    <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="Eurosport 2">
+        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250202230000 +0000" stop="20250202231000 +0000" channel="Eurosport 2">
+    <programme start="20250202230000 +0000" stop="20250203000000 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
-    </programme>
-    <programme start="20250202231000 +0000" stop="20250203001000 +0000" channel="Eurosport 2">
-        <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250201210000 +0000" stop="20250202010000 +0000" channel="SkySp Racing HD">
         <title>Stateside Live</title>
