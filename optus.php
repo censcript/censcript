@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250202183500 +0000" stop="20250202205500 +0000" channel="Optus Sport 5.optus">
-        <title>Women&#039;s Super League - Tottenham Hotspur v Manchester United</title>
-    </programme>
-    <programme start="20250202203000 +0000" stop="20250202220000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250202200000 +0000" stop="20250202220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="Optus Sport 11.optus">
