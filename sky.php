@@ -27487,22 +27487,25 @@
         <title>Khatm-e-Khajwan</title>
     </programme>
     <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="Noor TV">
-        <title>Sar-e-Rah</title>
+        <title>URS Mankayala</title>
     </programme>
     <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="Noor TV">
         <title>Noor Special</title>
     </programme>
-    <programme start="20250202110000 +0000" stop="20250202130000 +0000" channel="Noor TV">
+    <programme start="20250202110000 +0000" stop="20250202123000 +0000" channel="Noor TV">
         <title>Dars-e-Masnavi</title>
     </programme>
-    <programme start="20250202130000 +0000" stop="20250202133000 +0000" channel="Noor TV">
+    <programme start="20250202123000 +0000" stop="20250202130000 +0000" channel="Noor TV">
         <title>Naats &amp; Nasheeds</title>
+    </programme>
+    <programme start="20250202130000 +0000" stop="20250202133000 +0000" channel="Noor TV">
+        <title>Auliya e Naqsh</title>
     </programme>
     <programme start="20250202133000 +0000" stop="20250202140000 +0000" channel="Noor TV">
         <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250202140000 +0000" stop="20250202150000 +0000" channel="Noor TV">
-        <title>Young Star</title>
+        <title>Naat Special</title>
     </programme>
     <programme start="20250202150000 +0000" stop="20250202160000 +0000" channel="Noor TV">
         <title>Dars-e-Masnavi</title>
