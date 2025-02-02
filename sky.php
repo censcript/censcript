@@ -13380,10 +13380,10 @@
     <programme start="20250202083500 +0000" stop="20250202092000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202092000 +0000" stop="20250202103000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202092000 +0000" stop="20250202104000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202104000 +0000" stop="20250202110000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="Eurosport 1 HD">
@@ -27486,14 +27486,8 @@
     <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="Noor TV">
         <title>Khatm-e-Khajwan</title>
     </programme>
-    <programme start="20250202090000 +0000" stop="20250202100000 +0000" channel="Noor TV">
+    <programme start="20250202090000 +0000" stop="20250202123000 +0000" channel="Noor TV">
         <title>URS Mankayala</title>
-    </programme>
-    <programme start="20250202100000 +0000" stop="20250202110000 +0000" channel="Noor TV">
-        <title>Noor Special</title>
-    </programme>
-    <programme start="20250202110000 +0000" stop="20250202123000 +0000" channel="Noor TV">
-        <title>Dars-e-Masnavi</title>
     </programme>
     <programme start="20250202123000 +0000" stop="20250202130000 +0000" channel="Noor TV">
         <title>Naats &amp; Nasheeds</title>
@@ -33522,10 +33516,10 @@
     <programme start="20250202083500 +0000" stop="20250202092000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202092000 +0000" stop="20250202103000 +0000" channel="Eurosport 1">
+    <programme start="20250202092000 +0000" stop="20250202104000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250202103000 +0000" stop="20250202110000 +0000" channel="Eurosport 1">
+    <programme start="20250202104000 +0000" stop="20250202110000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250202110000 +0000" stop="20250202113000 +0000" channel="Eurosport 1">
