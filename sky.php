@@ -13839,7 +13839,7 @@
     <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="SkySp+ HD">
         <title>Transfer Deadline Day</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250203000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202223000 +0000" stop="20250203000000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Eurosport 1 HD">
@@ -34887,7 +34887,7 @@
     <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="TNTSports2 HD">
         <title>UFC Fight Night</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250203000000 +0000" channel="Eurosport 1">
+    <programme start="20250202223000 +0000" stop="20250203000000 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Eurosport 1">
