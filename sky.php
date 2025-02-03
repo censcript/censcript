@@ -7149,10 +7149,13 @@
     <programme start="20250203200000 +0000" stop="20250203210000 +0000" channel="That's TV 3">
         <title>That's Oldies: Classic Hit Music</title>
     </programme>
-    <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="That's TV 3">
-        <title>That's Oldies: Classic Hit Music</title>
+    <programme start="20250203210000 +0000" stop="20250203213000 +0000" channel="That's TV 3">
+        <title>On The Buses</title>
     </programme>
-    <programme start="20250203220000 +0000" stop="20250203230500 +0000" channel="That's TV 3">
+    <programme start="20250203213000 +0000" stop="20250203220500 +0000" channel="That's TV 3">
+        <title>Barbara</title>
+    </programme>
+    <programme start="20250203220500 +0000" stop="20250203230500 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
     <programme start="20250203230500 +0000" stop="20250204000500 +0000" channel="That's TV 3">
@@ -13224,11 +13227,8 @@
     <programme start="20250203120000 +0000" stop="20250203130000 +0000" channel="SkySpCricket HD">
         <title>SA20: Joburg SG v Paarl R</title>
     </programme>
-    <programme start="20250203130000 +0000" stop="20250203133000 +0000" channel="SkySpCricket HD">
+    <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="SkySpCricket HD">
         <title>ICC W-U19 T20 WC Final: SA v IND</title>
-    </programme>
-    <programme start="20250203133000 +0000" stop="20250203140000 +0000" channel="SkySpCricket HD">
-        <title>ICC WT20 WC Final: NZ v SA</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="SkySpCricket HD">
         <title>SA20: Sunrisers EC v Paarl R</title>
@@ -14106,11 +14106,8 @@
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="SkySp Mix HD">
         <title>ICC Highlights</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="SkySp Mix HD">
+    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="SkySp Mix HD">
         <title>ICC Women's U19 T20 WC Final</title>
-    </programme>
-    <programme start="20250203143000 +0000" stop="20250203150000 +0000" channel="SkySp Mix HD">
-        <title>ICC WT20 WC Final: NZ v SA</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203170000 +0000" channel="SkySp Mix HD">
         <title>WTA Final: Linz</title>
@@ -35142,11 +35139,8 @@
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="SkySp Mix">
         <title>ICC Highlights</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="SkySp Mix">
+    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="SkySp Mix">
         <title>ICC Women's U19 T20 WC Final</title>
-    </programme>
-    <programme start="20250203143000 +0000" stop="20250203150000 +0000" channel="SkySp Mix">
-        <title>ICC WT20 WC Final: NZ v SA</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203170000 +0000" channel="SkySp Mix">
         <title>WTA Final: Linz</title>

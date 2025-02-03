@@ -111,11 +111,26 @@
     <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
+    <programme start="20250213133000 +0000" stop="20250213140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
     <programme start="20250214095500 +0000" stop="20250214121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Gamba v Cerezo</title>
     </programme>
+    <programme start="20250214103000 +0000" stop="20250214110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250214120000 +0000" stop="20250214130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250214163000 +0000" stop="20250214170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
     <programme start="20250214193000 +0000" stop="20250214223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brighton v Chelsea</title>
+    </programme>
+    <programme start="20250214223000 +0000" stop="20250214233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250215035000 +0000" stop="20250215061000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Pohang v Daejeon</title>
@@ -131,6 +146,9 @@
     </programme>
     <programme start="20250215113000 +0000" stop="20250215145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Arsenal</title>
+    </programme>
+    <programme start="20250215145000 +0000" stop="20250215172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
     <programme start="20250215145000 +0000" stop="20250215171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - West Ham United v Brentford</title>
@@ -149,6 +167,9 @@
     </programme>
     <programme start="20250215172000 +0000" stop="20250215200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Crystal Palace v Everton</title>
+    </programme>
+    <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
     </programme>
     <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Ulsan v Anyang</title>
@@ -182,6 +203,9 @@
     </programme>
     <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
+    </programme>
+    <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
     </programme>
     <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Brentford</title>
