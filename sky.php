@@ -24790,7 +24790,7 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250203120000 +0000" stop="20250203130000 +0000" channel="QVC Style HD">
-        <title>Night-time Comfortwear</title>
+        <title>New Year, New Kim &amp; Co</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="QVC Style HD">
         <title>All New Izabel London Fashion</title>
@@ -24799,7 +24799,7 @@
         <title>Nightwear Edit with Cozee</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="QVC Style HD">
-        <title>Malissa J Collection</title>
+        <title>50% off Malissa J Collection Sale</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203170000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion Deals</title>
@@ -24814,7 +24814,7 @@
         <title>Nightwear Edit with Cozee</title>
     </programme>
     <programme start="20250203200000 +0000" stop="20250203210000 +0000" channel="QVC Style HD">
-        <title>Malissa J Collection</title>
+        <title>50% off Malissa J Collection Sale</title>
     </programme>
     <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
@@ -26136,8 +26136,11 @@
     <programme start="20250203173100 +0000" stop="20250203175700 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250203175700 +0000" stop="20250203185900 +0000" channel="SONY TV HD">
+    <programme start="20250203175700 +0000" stop="20250203182700 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
+    </programme>
+    <programme start="20250203182700 +0000" stop="20250203185900 +0000" channel="SONY TV HD">
+        <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250203185900 +0000" stop="20250203193000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
@@ -26148,14 +26151,8 @@
     <programme start="20250203193600 +0000" stop="20250203205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250203205900 +0000" stop="20250203222800 +0000" channel="SONY TV HD">
+    <programme start="20250203205900 +0000" stop="20250203224100 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250203222800 +0000" stop="20250203223500 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250203223500 +0000" stop="20250203224100 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250203224100 +0000" stop="20250203235900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
@@ -35736,10 +35733,7 @@
     <programme start="20250203105300 +0000" stop="20250203112100 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250203112100 +0000" stop="20250203112200 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250203112200 +0000" stop="20250203124600 +0000" channel="SONY TV">
+    <programme start="20250203112100 +0000" stop="20250203124600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250203124600 +0000" stop="20250203134500 +0000" channel="SONY TV">
@@ -35772,11 +35766,8 @@
     <programme start="20250203193600 +0000" stop="20250203205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250203205900 +0000" stop="20250203222800 +0000" channel="SONY TV">
+    <programme start="20250203205900 +0000" stop="20250203224100 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250203222800 +0000" stop="20250203224100 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250203224100 +0000" stop="20250203235900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
