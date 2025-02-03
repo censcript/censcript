@@ -1017,10 +1017,10 @@
     <programme start="20250203160000 +0000" stop="20250204160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 6th February, Thursday 3.52am. Carabao Cup 2024/25: Newcastle Utd vs Arsenal 2nd Leg</title>
     </programme>
-    <programme start="20250202160000 +0000" stop="20250203020000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd February, Monday 10am. Singapore Smash 2025</title>
+    <programme start="20250202160000 +0000" stop="20250203040000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd February, Monday 12pm. Singapore Smash 2025</title>
     </programme>
-    <programme start="20250203020000 +0000" stop="20250203143000 +0000" channel="Live 6.mewatch">
+    <programme start="20250203040000 +0000" stop="20250203143000 +0000" channel="Live 6.mewatch">
         <title>Singapore Smash 2025</title>
     </programme>
     <programme start="20250203143000 +0000" stop="20250203160000 +0000" channel="Live 6.mewatch">

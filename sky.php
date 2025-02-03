@@ -13839,10 +13839,10 @@
     <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="SkySp+ HD">
         <title>Transfer Deadline Day</title>
     </programme>
-    <programme start="20250202190000 +0000" stop="20250202233000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202190000 +0000" stop="20250202232500 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: German Masters</title>
     </programme>
-    <programme start="20250202233000 +0000" stop="20250203000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250202232500 +0000" stop="20250203000000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Eurosport 1 HD">
@@ -30477,11 +30477,11 @@
     <programme start="20250203122000 +0000" stop="20250203123000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250203123000 +0000" stop="20250203130000 +0000" channel="CHSTV">
-        <title>Arabi Kafela</title>
-    </programme>
-    <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="CHSTV">
+    <programme start="20250203123000 +0000" stop="20250203133000 +0000" channel="CHSTV">
         <title>Tafsir</title>
+    </programme>
+    <programme start="20250203133000 +0000" stop="20250203140000 +0000" channel="CHSTV">
+        <title>Islam Keno Shantir Dhormo</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="CHSTV">
         <title>Independent News</title>
@@ -30490,13 +30490,13 @@
         <title>Online Offline</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203150600 +0000" channel="CHSTV">
-        <title>BUPET Management Committee Update</title>
+        <title>Amader Gram</title>
     </programme>
     <programme start="20250203150600 +0000" stop="20250203151100 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
     <programme start="20250203151100 +0000" stop="20250203153000 +0000" channel="CHSTV">
-        <title>BUPET Management Committee Update</title>
+        <title>Amader Gram</title>
     </programme>
     <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="CHSTV">
         <title>Talash</title>
@@ -30586,7 +30586,7 @@
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250203123000 +0000" stop="20250203140000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="IQRA Bangla">
         <title>Nurul Quran</title>
@@ -30613,34 +30613,22 @@
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250203180000 +0000" stop="20250203183100 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
+        <title>Heal your Heart</title>
     </programme>
-    <programme start="20250203183100 +0000" stop="20250203183600 +0000" channel="IQRA Bangla">
+    <programme start="20250203183100 +0000" stop="20250203183700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250203183600 +0000" stop="20250203190000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
-    </programme>
-    <programme start="20250203190000 +0000" stop="20250203200000 +0000" channel="IQRA Bangla">
-        <title>Legal Hour</title>
+    <programme start="20250203183700 +0000" stop="20250203200000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250203200000 +0000" stop="20250203203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250203203000 +0000" stop="20250203210000 +0000" channel="IQRA Bangla">
-        <title>Heal your Heart</title>
+    <programme start="20250203203000 +0000" stop="20250203230000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
-    <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250203220000 +0000" stop="20250203223000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="IQRA Bangla">
-        <title>Focus Point</title>
-    </programme>
-    <programme start="20250203233000 +0000" stop="20250204003000 +0000" channel="IQRA Bangla">
-        <title>Deener Markaz</title>
+    <programme start="20250203230000 +0000" stop="20250204000000 +0000" channel="IQRA Bangla">
+        <title>Jannater pothey</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="ATN">
         <title>Ronggila Shohor</title>
@@ -30666,20 +30654,14 @@
     <programme start="20250203055500 +0000" stop="20250203060000 +0000" channel="ATN">
         <title>Fajr Adhaan</title>
     </programme>
-    <programme start="20250203060000 +0000" stop="20250203062100 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250203062100 +0000" stop="20250203062600 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250203062600 +0000" stop="20250203070000 +0000" channel="ATN">
+    <programme start="20250203060000 +0000" stop="20250203070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250203070000 +0000" stop="20250203073000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250203073000 +0000" stop="20250203080000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250203080000 +0000" stop="20250203083000 +0000" channel="ATN">
         <title>Obiram Bangladesh</title>
@@ -30691,57 +30673,45 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250203103000 +0000" stop="20250203113000 +0000" channel="ATN">
-        <title>Ek Dine Celebrity</title>
+        <title>This is Wife</title>
     </programme>
-    <programme start="20250203113000 +0000" stop="20250203115500 +0000" channel="ATN">
+    <programme start="20250203113000 +0000" stop="20250203120000 +0000" channel="ATN">
         <title>Chobir Gaan</title>
     </programme>
-    <programme start="20250203115500 +0000" stop="20250203120000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250203120000 +0000" stop="20250203122000 +0000" channel="ATN">
+        <title>Taka</title>
     </programme>
-    <programme start="20250203120000 +0000" stop="20250203121500 +0000" channel="ATN">
-        <title>Sikandar</title>
-    </programme>
-    <programme start="20250203121500 +0000" stop="20250203122000 +0000" channel="ATN">
+    <programme start="20250203122000 +0000" stop="20250203122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250203122000 +0000" stop="20250203140000 +0000" channel="ATN">
-        <title>Sikandar</title>
+    <programme start="20250203122500 +0000" stop="20250203140000 +0000" channel="ATN">
+        <title>Taka</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250203143000 +0000" stop="20250203143500 +0000" channel="ATN">
+    <programme start="20250203143000 +0000" stop="20250203145500 +0000" channel="ATN">
+        <title>Taka</title>
+    </programme>
+    <programme start="20250203145500 +0000" stop="20250203160000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250203143500 +0000" stop="20250203155500 +0000" channel="ATN">
-        <title>Sikandar</title>
-    </programme>
-    <programme start="20250203155500 +0000" stop="20250203160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250203160000 +0000" stop="20250203162100 +0000" channel="ATN">
+    <programme start="20250203160000 +0000" stop="20250203164500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250203162100 +0000" stop="20250203162600 +0000" channel="ATN">
+    <programme start="20250203164500 +0000" stop="20250203165000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250203162600 +0000" stop="20250203165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250203165500 +0000" stop="20250203170000 +0000" channel="ATN">
+    <programme start="20250203165000 +0000" stop="20250203170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250203170000 +0000" stop="20250203173000 +0000" channel="ATN">
-        <title>Gaanbaz Junior</title>
+        <title>Chotoder Prithibi</title>
     </programme>
-    <programme start="20250203173000 +0000" stop="20250203175800 +0000" channel="ATN">
-        <title>Musibot Unlimited</title>
+    <programme start="20250203173000 +0000" stop="20250203183000 +0000" channel="ATN">
+        <title>Mochibot Unlimited</title>
     </programme>
-    <programme start="20250203175800 +0000" stop="20250203180300 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250203180300 +0000" stop="20250203185500 +0000" channel="ATN">
+    <programme start="20250203183000 +0000" stop="20250203185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250203185500 +0000" stop="20250203190000 +0000" channel="ATN">
@@ -30754,7 +30724,7 @@
         <title>Shomadhan Kothai</title>
     </programme>
     <programme start="20250203200000 +0000" stop="20250203213000 +0000" channel="ATN">
-        <title>Jesob Golpo Premiker</title>
+        <title>Alapcharita</title>
     </programme>
     <programme start="20250203213000 +0000" stop="20250203220000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30766,7 +30736,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250203230000 +0000" stop="20250204000000 +0000" channel="ATN">
-        <title>Choto Songshar</title>
+        <title>Lal Doriya</title>
     </programme>
     <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -30933,13 +30903,7 @@
     <programme start="20250203055500 +0000" stop="20250203060000 +0000" channel="TV One">
         <title>Fajr Azan</title>
     </programme>
-    <programme start="20250203060000 +0000" stop="20250203062100 +0000" channel="TV One">
-        <title>The Voice Of Oneness 2024</title>
-    </programme>
-    <programme start="20250203062100 +0000" stop="20250203063000 +0000" channel="TV One">
-        <title>Fajr Azan</title>
-    </programme>
-    <programme start="20250203063000 +0000" stop="20250203073000 +0000" channel="TV One">
+    <programme start="20250203060000 +0000" stop="20250203073000 +0000" channel="TV One">
         <title>The Voice Of Oneness 2024</title>
     </programme>
     <programme start="20250203073000 +0000" stop="20250203074500 +0000" channel="TV One">
@@ -30955,88 +30919,67 @@
         <title>Khatmul Quran</title>
     </programme>
     <programme start="20250203090000 +0000" stop="20250203093000 +0000" channel="TV One">
-        <title>Aloconay Saban And Ramadan</title>
+        <title>Muhammad Peace be Upon Him</title>
     </programme>
-    <programme start="20250203093000 +0000" stop="20250203100000 +0000" channel="TV One">
-        <title>Zuhr Prayer Live from Kabah</title>
-    </programme>
-    <programme start="20250203100000 +0000" stop="20250203103000 +0000" channel="TV One">
-        <title>TV One News</title>
+    <programme start="20250203093000 +0000" stop="20250203103000 +0000" channel="TV One">
+        <title>Praner Sur</title>
     </programme>
     <programme start="20250203103000 +0000" stop="20250203110000 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
+        <title>Community News</title>
     </programme>
     <programme start="20250203110000 +0000" stop="20250203120000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250203120000 +0000" stop="20250203121400 +0000" channel="TV One">
+    <programme start="20250203120000 +0000" stop="20250203121900 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250203121400 +0000" stop="20250203122000 +0000" channel="TV One">
+    <programme start="20250203121900 +0000" stop="20250203125500 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250203122000 +0000" stop="20250203123500 +0000" channel="TV One">
-        <title>Short film</title>
-    </programme>
-    <programme start="20250203123500 +0000" stop="20250203130000 +0000" channel="TV One">
+    <programme start="20250203125500 +0000" stop="20250203131500 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250203130000 +0000" stop="20250203134500 +0000" channel="TV One">
-        <title>360 Degree</title>
+    <programme start="20250203131500 +0000" stop="20250203134500 +0000" channel="TV One">
+        <title>Salvation Through Repentance</title>
     </programme>
     <programme start="20250203134500 +0000" stop="20250203140000 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203143200 +0000" channel="TV One">
+    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="TV One">
         <title>Afternoon News</title>
     </programme>
-    <programme start="20250203143200 +0000" stop="20250203144000 +0000" channel="TV One">
+    <programme start="20250203150000 +0000" stop="20250203164500 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
-    <programme start="20250203144000 +0000" stop="20250203150000 +0000" channel="TV One">
-        <title>Angels In Their Presence</title>
-    </programme>
-    <programme start="20250203150000 +0000" stop="20250203153000 +0000" channel="TV One">
-        <title>Maghrib Prayer Live From Kabah</title>
-    </programme>
-    <programme start="20250203153000 +0000" stop="20250203162100 +0000" channel="TV One">
-        <title>Legal Helpline</title>
-    </programme>
-    <programme start="20250203162100 +0000" stop="20250203163000 +0000" channel="TV One">
-        <title>Maghrib Azaan</title>
-    </programme>
-    <programme start="20250203163000 +0000" stop="20250203164500 +0000" channel="TV One">
+    <programme start="20250203164500 +0000" stop="20250203165700 +0000" channel="TV One">
         <title>Story Time with Sarah</title>
     </programme>
-    <programme start="20250203164500 +0000" stop="20250203170000 +0000" channel="TV One">
-        <title>Nouman Ali Khan:Illustrated</title>
+    <programme start="20250203165700 +0000" stop="20250203170000 +0000" channel="TV One">
+        <title>Asr Azaan</title>
     </programme>
-    <programme start="20250203170000 +0000" stop="20250203175800 +0000" channel="TV One">
+    <programme start="20250203170000 +0000" stop="20250203183100 +0000" channel="TV One">
         <title>Quran Class</title>
     </programme>
-    <programme start="20250203175800 +0000" stop="20250203180500 +0000" channel="TV One">
+    <programme start="20250203183100 +0000" stop="20250203183500 +0000" channel="TV One">
         <title>Isha Azaan</title>
     </programme>
-    <programme start="20250203180500 +0000" stop="20250203183000 +0000" channel="TV One">
-        <title>Quran Class</title>
-    </programme>
-    <programme start="20250203183000 +0000" stop="20250203190000 +0000" channel="TV One">
+    <programme start="20250203183500 +0000" stop="20250203190500 +0000" channel="TV One">
         <title>Evening News</title>
     </programme>
-    <programme start="20250203190000 +0000" stop="20250203200000 +0000" channel="TV One">
+    <programme start="20250203190500 +0000" stop="20250203200000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
     <programme start="20250203200000 +0000" stop="20250203201500 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
     <programme start="20250203201500 +0000" stop="20250203203000 +0000" channel="TV One">
-        <title>The Miraculous Night Journey</title>
+        <title>Historic Mosque</title>
     </programme>
     <programme start="20250203203000 +0000" stop="20250203213000 +0000" channel="TV One">
         <title>Money Matters</title>
     </programme>
     <programme start="20250203213000 +0000" stop="20250203220000 +0000" channel="TV One">
-        <title>Aloconay Saban And Ramadan</title>
+        <title>Salvation Through Repentance</title>
     </programme>
     <programme start="20250203220000 +0000" stop="20250203223000 +0000" channel="TV One">
         <title>TV One News</title>
@@ -31045,7 +30988,7 @@
         <title>Praner Sur</title>
     </programme>
     <programme start="20250203224500 +0000" stop="20250203230000 +0000" channel="TV One">
-        <title>Historic Mosque</title>
+        <title>Muhammad Peace be Upon Him</title>
     </programme>
     <programme start="20250203230000 +0000" stop="20250203233000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
@@ -34890,10 +34833,10 @@
     <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="TNTSports2 HD">
         <title>UFC Fight Night</title>
     </programme>
-    <programme start="20250202190000 +0000" stop="20250202233000 +0000" channel="Eurosport 1">
+    <programme start="20250202190000 +0000" stop="20250202232500 +0000" channel="Eurosport 1">
         <title>Live Snooker: German Masters</title>
     </programme>
-    <programme start="20250202233000 +0000" stop="20250203000000 +0000" channel="Eurosport 1">
+    <programme start="20250202232500 +0000" stop="20250203000000 +0000" channel="Eurosport 1">
         <title>Snooker: The Masters</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Eurosport 1">
