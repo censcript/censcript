@@ -29370,10 +29370,10 @@
     <programme start="20250203121900 +0000" stop="20250203122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250203122500 +0000" stop="20250203124100 +0000" channel="Eman Channel">
+    <programme start="20250203122500 +0000" stop="20250203124800 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250203124100 +0000" stop="20250203130000 +0000" channel="Eman Channel">
+    <programme start="20250203124800 +0000" stop="20250203130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="Eman Channel">
@@ -29418,10 +29418,10 @@
     <programme start="20250203180000 +0000" stop="20250203183100 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
-    <programme start="20250203183100 +0000" stop="20250203183600 +0000" channel="Eman Channel">
+    <programme start="20250203183100 +0000" stop="20250203183500 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250203183600 +0000" stop="20250203190000 +0000" channel="Eman Channel">
+    <programme start="20250203183500 +0000" stop="20250203190000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
     <programme start="20250203190000 +0000" stop="20250203191500 +0000" channel="Eman Channel">
