@@ -6588,6 +6588,9 @@
     <programme start="20250202230000 +0000" stop="20250202231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 86</title>
     </programme>
+    <programme start="20250202231500 +0000" stop="20250202235500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
     <programme start="20250202235500 +0000" stop="20250203000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
@@ -6749,9 +6752,6 @@
     </programme>
     <programme start="20250203154000 +0000" stop="20250203154500 +0000" channel="NHK World Premium HD.starhub">
         <title>Cooking for Beginners</title>
-    </programme>
-    <programme start="20250203154500 +0000" stop="20250203161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips</title>
     </programme>
     <programme start="20250201230500 +0000" stop="20250202000500 +0000" channel="Lifetime HD.starhub">
         <title>Part 1</title>
@@ -14595,22 +14595,22 @@
     <programme start="20250203203500 +0000" stop="20250204001000 +0000" channel="SPOTV.starhub">
         <title>2024 MLB World Series Game 5 Los Angeles Dodgers vs New York Yankees</title>
     </programme>
-    <programme start="20250204001500 +0000" stop="20250204021500 +0000" channel="SPOTV.starhub">
+    <programme start="20250204001000 +0000" stop="20250204021500 +0000" channel="SPOTV.starhub">
         <title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
     </programme>
-    <programme start="20250204021500 +0000" stop="20250204041500 +0000" channel="SPOTV.starhub">
+    <programme start="20250204021500 +0000" stop="20250204042000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 18 Al Raed vs Al Nassr</title>
     </programme>
-    <programme start="20250204041500 +0000" stop="20250204061500 +0000" channel="SPOTV.starhub">
+    <programme start="20250204042000 +0000" stop="20250204061500 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd17 Perth Glory vs Melbourne Victory</title>
     </programme>
-    <programme start="20250204061500 +0000" stop="20250204084500 +0000" channel="SPOTV.starhub">
+    <programme start="20250204061500 +0000" stop="20250204085000 +0000" channel="SPOTV.starhub">
         <title>Arabian Gulf Cup Final Oman vs Bahrain</title>
     </programme>
-    <programme start="20250204084500 +0000" stop="20250204124500 +0000" channel="SPOTV.starhub">
+    <programme start="20250204085000 +0000" stop="20250204125000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250204124500 +0000" stop="20250204170000 +0000" channel="SPOTV.starhub">
+    <programme start="20250204125000 +0000" stop="20250204170000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20250204170000 +0000" stop="20250204180000 +0000" channel="SPOTV.starhub">
@@ -14758,7 +14758,7 @@
         <title>ROSHN Saudi League 2024/25 Matchday 19 Al Nassr vs Al Fayha</title>
     </programme>
     <programme start="20250208140000 +0000" stop="20250208160000 +0000" channel="SPOTV.starhub">
-        <title>ISUZU UTE A-League Men 2024/25 Rd18 Wellington Phoenix vs Brisbane Roar FC</title>
+        <title>ISUZU UTE A-League Men 2024/25 Rd18 Perth Glory vs Central Coast Mariners</title>
     </programme>
     <programme start="20250208160000 +0000" stop="20250208164500 +0000" channel="SPOTV.starhub">
         <title>MotoGP 2024 Spotlight: Jorge Martin World Champion</title>
@@ -24750,43 +24750,49 @@
     <programme start="20250203233500 +0000" stop="20250204040000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M20 - Mumbai Indians vs Delhi Capitals</title>
     </programme>
-    <programme start="20250204040000 +0000" stop="20250204080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250204040000 +0000" stop="20250204075000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
     </programme>
-    <programme start="20250204080000 +0000" stop="20250204120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250204075000 +0000" stop="20250204120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
     </programme>
-    <programme start="20250204120000 +0000" stop="20250204160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250204120000 +0000" stop="20250204154500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 5th T20I</title>
+    </programme>
+    <programme start="20250204154500 +0000" stop="20250204160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250204160000 +0000" stop="20250204220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250204234000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250204220000 +0000" stop="20250205001000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250204234000 +0000" stop="20250205040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205001000 +0000" stop="20250205043000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M21 - Lucknow Super Giants vs Gujarat Titans</title>
     </programme>
-    <programme start="20250205040000 +0000" stop="20250205080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205043000 +0000" stop="20250205080500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 1st T20I</title>
     </programme>
-    <programme start="20250205080000 +0000" stop="20250205120000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205080500 +0000" stop="20250205120000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 2nd T20I</title>
     </programme>
-    <programme start="20250205120000 +0000" stop="20250205160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205120000 +0000" stop="20250205155000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 3rd T20I</title>
+    </programme>
+    <programme start="20250205155000 +0000" stop="20250205160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250205220000 +0000" stop="20250205235000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205220000 +0000" stop="20250205235500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250205235000 +0000" stop="20250206035000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250205235500 +0000" stop="20250206040500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 4th T20I</title>
     </programme>
-    <programme start="20250206035000 +0000" stop="20250206075000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250206040500 +0000" stop="20250206075000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 5th T20I</title>
     </programme>
     <programme start="20250206075000 +0000" stop="20250206160000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24813,13 +24819,13 @@
     <programme start="20250207163000 +0000" stop="20250207220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250207220000 +0000" stop="20250207233500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250207220000 +0000" stop="20250207235000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250207233500 +0000" stop="20250208040000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250207235000 +0000" stop="20250208041500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2024: M26 - Lucknow Super Giants vs Delhi Capitals</title>
     </programme>
-    <programme start="20250208040000 +0000" stop="20250208080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250208041500 +0000" stop="20250208080000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>England Tour of India 2025: 5th T20I</title>
     </programme>
     <programme start="20250208080000 +0000" stop="20250208160000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -24941,9 +24947,6 @@
     </programme>
     <programme start="20250216135000 +0000" stop="20250216180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Women&#039;s Premier League 2025: M03 - Gujarat Giants vs UP Warriorz</title>
-    </programme>
-    <programme start="20250216180000 +0000" stop="20250216220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250202000000 +0000" stop="20250202010000 +0000" channel="TVB Xing He.starhub">
         <title>Triumph in the Skies II</title>
@@ -27600,10 +27603,10 @@
     <programme start="20250204213000 +0000" stop="20250204222000 +0000" channel="Hub VVDrama.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250204222000 +0000" stop="20250204231500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250204222000 +0000" stop="20250204230500 +0000" channel="Hub VVDrama.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250204231500 +0000" stop="20250205003000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250204230500 +0000" stop="20250205003000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven: Resurrection</title>
     </programme>
     <programme start="20250205003000 +0000" stop="20250205013000 +0000" channel="Hub VVDrama.starhub">
@@ -27630,13 +27633,13 @@
     <programme start="20250205060500 +0000" stop="20250205070000 +0000" channel="Hub VVDrama.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250205070000 +0000" stop="20250205081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250205070000 +0000" stop="20250205081000 +0000" channel="Hub VVDrama.starhub">
         <title>Cleaning Up</title>
     </programme>
-    <programme start="20250205081500 +0000" stop="20250205090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250205081000 +0000" stop="20250205085500 +0000" channel="Hub VVDrama.starhub">
         <title>Shining Just for You</title>
     </programme>
-    <programme start="20250205090000 +0000" stop="20250205094500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20250205085500 +0000" stop="20250205094500 +0000" channel="Hub VVDrama.starhub">
         <title>Stories of Lion Rock Spirit</title>
     </programme>
     <programme start="20250205094500 +0000" stop="20250205103500 +0000" channel="Hub VVDrama.starhub">
@@ -29982,10 +29985,10 @@
     <programme start="20250204213000 +0000" stop="20250204222000 +0000" channel="TestChannel2.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250204222000 +0000" stop="20250204231500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250204222000 +0000" stop="20250204230500 +0000" channel="TestChannel2.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250204231500 +0000" stop="20250205003000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250204230500 +0000" stop="20250205003000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven: Resurrection</title>
     </programme>
     <programme start="20250205003000 +0000" stop="20250205013000 +0000" channel="TestChannel2.starhub">
@@ -30012,13 +30015,13 @@
     <programme start="20250205060500 +0000" stop="20250205070000 +0000" channel="TestChannel2.starhub">
         <title>The Invisibles</title>
     </programme>
-    <programme start="20250205070000 +0000" stop="20250205081500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250205070000 +0000" stop="20250205081000 +0000" channel="TestChannel2.starhub">
         <title>Cleaning Up</title>
     </programme>
-    <programme start="20250205081500 +0000" stop="20250205090000 +0000" channel="TestChannel2.starhub">
+    <programme start="20250205081000 +0000" stop="20250205085500 +0000" channel="TestChannel2.starhub">
         <title>Shining Just for You</title>
     </programme>
-    <programme start="20250205090000 +0000" stop="20250205094500 +0000" channel="TestChannel2.starhub">
+    <programme start="20250205085500 +0000" stop="20250205094500 +0000" channel="TestChannel2.starhub">
         <title>Stories of Lion Rock Spirit</title>
     </programme>
     <programme start="20250205094500 +0000" stop="20250205103500 +0000" channel="TestChannel2.starhub">

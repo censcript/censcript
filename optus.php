@@ -84,8 +84,14 @@
     <programme start="20250210193500 +0000" stop="20250210225500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Doncaster v Crystal Palace</title>
     </programme>
+    <programme start="20250211090000 +0000" stop="20250211100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Leon Osman</title>
+    </programme>
     <programme start="20250211195000 +0000" stop="20250211231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Exeter v Nottingham Forest</title>
+    </programme>
+    <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
     </programme>
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Hoffenheim v Wolfsburg</title>
@@ -98,6 +104,9 @@
     </programme>
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Bayer Leverkusen v Werder Bremen</title>
+    </programme>
+    <programme start="20250212180000 +0000" stop="20250212183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Nani</title>
     </programme>
     <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
