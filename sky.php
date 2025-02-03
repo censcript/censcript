@@ -28963,19 +28963,19 @@
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250203190000 +0000" stop="20250203200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250203200000 +0000" stop="20250203210000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250203220000 +0000" stop="20250203230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250203230000 +0000" stop="20250204000000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250202230000 +0000" channel="HUM EUROPE">
         <title>Diyar-e-Dil</title>
