@@ -15021,7 +15021,10 @@
     <programme start="20250203123000 +0000" stop="20250203130000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="BBC NEWS HD">
+    <programme start="20250203130000 +0000" stop="20250203131000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250203131000 +0000" stop="20250203140000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News at One</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="BBC NEWS HD">
@@ -15922,7 +15925,7 @@
         <title>Newsbreak</title>
     </programme>
     <programme start="20250203133000 +0000" stop="20250203140000 +0000" channel="NDTV World">
-        <title>Southern View</title>
+        <title>Nirmala Sitharaman Exclusive</title>
     </programme>
     <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="NDTV World">
         <title>Newsbreak</title>
@@ -29155,7 +29158,7 @@
         <title>Asr Adhan</title>
     </programme>
     <programme start="20250203143600 +0000" stop="20250203150000 +0000" channel="Islam Ch Urdu">
-        <title>Aap ke Shaher mai</title>
+        <title>Shehar Kahani</title>
     </programme>
     <programme start="20250203150000 +0000" stop="20250203151400 +0000" channel="Islam Ch Urdu">
         <title>Masnoon Duain</title>
@@ -29847,11 +29850,14 @@
     <programme start="20250203133000 +0000" stop="20250203140000 +0000" channel="Sikh Channel">
         <title>Hukamnama Explanations</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="Sikh Channel">
+    <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250203150000 +0000" stop="20250203153000 +0000" channel="Sikh Channel">
+    <programme start="20250203143000 +0000" stop="20250203150000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+    </programme>
+    <programme start="20250203150000 +0000" stop="20250203153000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="Sikh Channel">
         <title>Katha - Giani Kulwant Singh Ji</title>
