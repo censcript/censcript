@@ -23517,9 +23517,6 @@
     <programme start="20250202210000 +0000" stop="20250202220000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
-    <programme start="20250202220000 +0000" stop="20250202223000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
     <programme start="20250202223000 +0000" stop="20250202230000 +0000" channel="CNN HD.starhub">
         <title>Africa&#039;s Pharmaceutical Industry</title>
     </programme>
@@ -23527,7 +23524,7 @@
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNN/US)</title>
+        <title>Flight Risk</title>
     </programme>
     <programme start="20250203010000 +0000" stop="20250203020000 +0000" channel="CNN HD.starhub">
         <title>Elephants vs. Man</title>
@@ -23621,6 +23618,9 @@
     </programme>
     <programme start="20250203223000 +0000" stop="20250203230000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
+    </programme>
+    <programme start="20250203230000 +0000" stop="20250204000000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
     </programme>
     <programme start="20250201000000 +0000" stop="20250201020000 +0000" channel="Cinema One Global.starhub">
         <title>Corpus Delicti</title>
