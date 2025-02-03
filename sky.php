@@ -7389,11 +7389,8 @@
     <programme start="20250204054000 +0000" stop="20250204060000 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
-    <programme start="20250204060000 +0000" stop="20250204060200 +0000" channel="Channel 5+1">
+    <programme start="20250204060000 +0000" stop="20250204063000 +0000" channel="Channel 5+1">
         <title>Wildlife SOS</title>
-    </programme>
-    <programme start="20250204060200 +0000" stop="20250204063000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250204063000 +0000" stop="20250204064000 +0000" channel="Channel 5+1">
         <title>Entertainment News on 5</title>
@@ -13491,11 +13488,8 @@
     <programme start="20250204050000 +0000" stop="20250204060000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Singapore</title>
     </programme>
-    <programme start="20250204060000 +0000" stop="20250204070000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250204060000 +0000" stop="20250204070001 +0000" channel="SkySp Tennis HD">
         <title>ATP Final: Montpellier</title>
-    </programme>
-    <programme start="20250204070000 +0000" stop="20250204070001 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: WTA Abu Dhabi</title>
     </programme>
     <programme start="20250204070001 +0000" stop="20250204080000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Linz</title>

@@ -198,6 +198,9 @@
     <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
     </programme>
+    <programme start="20250216203000 +0000" stop="20250216220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
