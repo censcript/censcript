@@ -14574,25 +14574,25 @@
     <programme start="20250203100000 +0000" stop="20250203120000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd17 Perth Glory vs Melbourne Victory</title>
     </programme>
-    <programme start="20250203120000 +0000" stop="20250203140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250203120000 +0000" stop="20250203135000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 4: Madison vs Houston</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="SPOTV.starhub">
+    <programme start="20250203135000 +0000" stop="20250203142000 +0000" channel="SPOTV.starhub">
         <title>MotoGP 2024 Spotlight: Ducati 100 Wins</title>
     </programme>
-    <programme start="20250203143000 +0000" stop="20250203170000 +0000" channel="SPOTV.starhub">
+    <programme start="20250203142000 +0000" stop="20250203170000 +0000" channel="SPOTV.starhub">
         <title>Dubai Marathon 2025</title>
     </programme>
     <programme start="20250203170000 +0000" stop="20250203173000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250203173000 +0000" stop="20250203180000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+        <title>MotoGP 2024 Spotlight: Brad Binder</title>
     </programme>
-    <programme start="20250203180000 +0000" stop="20250203204500 +0000" channel="SPOTV.starhub">
+    <programme start="20250203180000 +0000" stop="20250203203500 +0000" channel="SPOTV.starhub">
         <title>2024 MLB World Series Game 4 Los Angeles Dodgers vs New York Yankees</title>
     </programme>
-    <programme start="20250203204500 +0000" stop="20250204001500 +0000" channel="SPOTV.starhub">
+    <programme start="20250203203500 +0000" stop="20250204001000 +0000" channel="SPOTV.starhub">
         <title>2024 MLB World Series Game 5 Los Angeles Dodgers vs New York Yankees</title>
     </programme>
     <programme start="20250204001500 +0000" stop="20250204021500 +0000" channel="SPOTV.starhub">
