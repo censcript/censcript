@@ -595,10 +595,10 @@
         <title>No Programme available now. Next Broadcast on 7th February, Friday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Balestier Khalsa</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250203160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th February, Saturday 5.50pm. 2024 Singapore Premier League: Young Lions vs Tampines Rovers</title>
+        <title>No Programme available now. Next Broadcast on 9th February, Sunday 5.50pm. 2024 Singapore Premier League: Lion City Sailors vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250204160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th February, Saturday 5.50pm. 2024 Singapore Premier League: Young Lions vs Tampines Rovers</title>
+        <title>No Programme available now. Next Broadcast on 9th February, Sunday 5.50pm. 2024 Singapore Premier League: Lion City Sailors vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250202160000 +0000" stop="20250202180000 +0000" channel="now-80s.mewatch">
         <title>More Movie Madness! 1980-1989</title>
@@ -1024,9 +1024,9 @@
         <title>Singapore Smash 2025</title>
     </programme>
     <programme start="20250203143000 +0000" stop="20250203160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th February, Tuesday 10am. Singapore Smash 2025</title>
+        <title>No Programme available now. Next Broadcast on 4th February, Tuesday 12pm. Singapore Smash 2025</title>
     </programme>
-    <programme start="20250203160000 +0000" stop="20250204020000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th February, Tuesday 10am. Singapore Smash 2025</title>
+    <programme start="20250203160000 +0000" stop="20250204040000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 4th February, Tuesday 12pm. Singapore Smash 2025</title>
     </programme>
 </tv>

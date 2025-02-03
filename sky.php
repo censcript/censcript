@@ -13239,11 +13239,8 @@
     <programme start="20250203160000 +0000" stop="20250203170000 +0000" channel="SkySpCricket HD">
         <title>SA20: Joburg SG v Paarl R</title>
     </programme>
-    <programme start="20250203170000 +0000" stop="20250203173000 +0000" channel="SkySpCricket HD">
+    <programme start="20250203170000 +0000" stop="20250203180000 +0000" channel="SkySpCricket HD">
         <title>ICC Women's U19 T20 WC Final</title>
-    </programme>
-    <programme start="20250203173000 +0000" stop="20250203180000 +0000" channel="SkySpCricket HD">
-        <title>ICC WT20 WC Final: NZ v SA</title>
     </programme>
     <programme start="20250203180000 +0000" stop="20250203190000 +0000" channel="SkySpCricket HD">
         <title>BBL: Final Hlts</title>
@@ -13251,11 +13248,8 @@
     <programme start="20250203190000 +0000" stop="20250203200000 +0000" channel="SkySpCricket HD">
         <title>SA20: Pretoria C v Joburg SK</title>
     </programme>
-    <programme start="20250203200000 +0000" stop="20250203203000 +0000" channel="SkySpCricket HD">
+    <programme start="20250203200000 +0000" stop="20250203210000 +0000" channel="SkySpCricket HD">
         <title>ICC W-U19 T20 WC Final: SA v IND</title>
-    </programme>
-    <programme start="20250203203000 +0000" stop="20250203210000 +0000" channel="SkySpCricket HD">
-        <title>ICC WT20 WC Final: NZ v SA</title>
     </programme>
     <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="SkySpCricket HD">
         <title>SA20: Sunrisers EC v Paarl R</title>
@@ -28402,19 +28396,19 @@
         <title>Quran Sub Kay Liye</title>
     </programme>
     <programme start="20250203060000 +0000" stop="20250203070000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250203070000 +0000" stop="20250203080000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250203080000 +0000" stop="20250203090000 +0000" channel="GEO TV">
-        <title>Guddi</title>
+        <title>Sunn Mere Dil</title>
     </programme>
     <programme start="20250203090000 +0000" stop="20250203100000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250203100000 +0000" stop="20250203110000 +0000" channel="GEO TV">
-        <title>Habil aur Qabil</title>
+        <title>Dao</title>
     </programme>
     <programme start="20250203110000 +0000" stop="20250203120000 +0000" channel="GEO TV">
         <title>Dil-e-Naadan</title>
@@ -28425,17 +28419,14 @@
     <programme start="20250203130000 +0000" stop="20250203140000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250203140000 +0000" stop="20250203143000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+    <programme start="20250203140000 +0000" stop="20250203150000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
-    <programme start="20250203143000 +0000" stop="20250203153000 +0000" channel="GEO TV">
-        <title>Tauba</title>
-    </programme>
-    <programme start="20250203153000 +0000" stop="20250203160000 +0000" channel="GEO TV">
-        <title>Guddi</title>
+    <programme start="20250203150000 +0000" stop="20250203160000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250203160000 +0000" stop="20250203170000 +0000" channel="GEO TV">
-        <title>Guddi</title>
+        <title>Sunn Mere Dil</title>
     </programme>
     <programme start="20250203170000 +0000" stop="20250203180000 +0000" channel="GEO TV">
         <title>Mehshar</title>
@@ -28453,7 +28444,7 @@
         <title>Dil-e-Naadan</title>
     </programme>
     <programme start="20250203210000 +0000" stop="20250203220000 +0000" channel="GEO TV">
-        <title>Tauba</title>
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250203220000 +0000" stop="20250203230000 +0000" channel="GEO TV">
         <title>Guddi</title>

@@ -6588,17 +6588,17 @@
     <programme start="20250202230000 +0000" stop="20250202231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Omusubi&quot; Eps. 86</title>
     </programme>
-    <programme start="20250202231500 +0000" stop="20250203005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20250202235500 +0000" stop="20250203000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20250203005400 +0000" stop="20250203005500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250203000000 +0000" stop="20250203005900 +0000" channel="NHK World Premium HD.starhub">
+        <title>BS Special &quot;A Solo Interview with Yuval Noah Harari: Can Information Destroy Hum</title>
+    </programme>
+    <programme start="20250203005900 +0000" stop="20250203010000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20250203005500 +0000" stop="20250203010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
     <programme start="20250203010000 +0000" stop="20250203010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Bijutune!</title>
     </programme>
     <programme start="20250203010500 +0000" stop="20250203015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Project X: The Challengers-New Beginnings &quot;Godzilla&quot; (R)</title>
@@ -6634,10 +6634,19 @@
         <title>Drama Serial &quot;Omusubi&quot; Eps. 86 (R)</title>
     </programme>
     <programme start="20250203040000 +0000" stop="20250203040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+        <title>Camera-eyed Japan</title>
     </programme>
-    <programme start="20250203040500 +0000" stop="20250203055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20250203040500 +0000" stop="20250203053400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Earth Railway Part 3 &quot;Ethnic Minority Villages&quot; (R)</title>
+    </programme>
+    <programme start="20250203053400 +0000" stop="20250203054200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20250203054200 +0000" stop="20250203054400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20250203054400 +0000" stop="20250203055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250203055000 +0000" stop="20250203055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -6646,7 +6655,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20250203060000 +0000" stop="20250203061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Rural Japan &quot;Satoyama&quot;</title>
     </programme>
     <programme start="20250203061000 +0000" stop="20250203063500 +0000" channel="NHK World Premium HD.starhub">
         <title>My Gardening</title>
@@ -6743,15 +6752,6 @@
     </programme>
     <programme start="20250203154500 +0000" stop="20250203161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Child-Rearing Hints &amp; Tips</title>
-    </programme>
-    <programme start="20250203161500 +0000" stop="20250203164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Gretel&#039;s Magical Oven</title>
-    </programme>
-    <programme start="20250203164000 +0000" stop="20250203171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Japanese Narrative Art</title>
-    </programme>
-    <programme start="20250203171000 +0000" stop="20250203173000 +0000" channel="NHK World Premium HD.starhub">
-        <title>French in a Happy Mood</title>
     </programme>
     <programme start="20250201230500 +0000" stop="20250202000500 +0000" channel="Lifetime HD.starhub">
         <title>Part 1</title>
