@@ -22090,7 +22090,7 @@
         <title>Movie - Veettoda Maapillai</title>
     </programme>
     <programme start="20250204103000 +0000" stop="20250204133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Thanga Magan - old</title>
+        <title>Movie - Thanga Magan (Old)</title>
     </programme>
     <programme start="20250204133000 +0000" stop="20250204170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Yaradi Ne Mogini</title>
@@ -22102,7 +22102,7 @@
         <title>Movie - Saathikku Oru Neethi</title>
     </programme>
     <programme start="20250204223000 +0000" stop="20250205010000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Sattam oru Iruttu Arai</title>
+        <title>Movie - Sattam Oru Iruttu Arai</title>
     </programme>
     <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
