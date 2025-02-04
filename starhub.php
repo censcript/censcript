@@ -5169,16 +5169,16 @@
     <programme start="20250204103000 +0000" stop="20250204133000 +0000" channel="Asianet Movies.starhub">
         <title>Bheeshmaparvam</title>
     </programme>
-    <programme start="20250204133000 +0000" stop="20250204163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250204133000 +0000" stop="20250204163500 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20250204163000 +0000" stop="20250204190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250204163500 +0000" stop="20250204192000 +0000" channel="Asianet Movies.starhub">
         <title>Pappi Appacha</title>
     </programme>
-    <programme start="20250204190000 +0000" stop="20250204220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250204192000 +0000" stop="20250204211500 +0000" channel="Asianet Movies.starhub">
         <title>Loud Speaker</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250204233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250204211500 +0000" stop="20250204233000 +0000" channel="Asianet Movies.starhub">
         <title>Photographer</title>
     </programme>
     <programme start="20250204233000 +0000" stop="20250205013000 +0000" channel="Asianet Movies.starhub">
@@ -22090,7 +22090,7 @@
         <title>Movie - Veettoda Maapillai</title>
     </programme>
     <programme start="20250204103000 +0000" stop="20250204133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Thanga Magan (Old)</title>
+        <title>Movie - Thanga Magan - old</title>
     </programme>
     <programme start="20250204133000 +0000" stop="20250204170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Yaradi Ne Mogini</title>
@@ -22098,11 +22098,11 @@
     <programme start="20250204170000 +0000" stop="20250204200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Vanna Vanna Pookal</title>
     </programme>
-    <programme start="20250204200000 +0000" stop="20250204220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250204200000 +0000" stop="20250204223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Saathikku Oru Neethi</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250204223000 +0000" stop="20250205010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sattam oru Iruttu Arai</title>
     </programme>
     <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>

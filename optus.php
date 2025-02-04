@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250203223000 +0000" stop="20250203233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word: Deadline Day Special</title>
-    </programme>
-    <programme start="20250204003000 +0000" stop="20250204013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20250204020000 +0000" stop="20250204023000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -30,31 +24,31 @@
     <programme start="20250207195000 +0000" stop="20250207231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Leicester City</title>
     </programme>
-    <programme start="20250208043000 +0000" stop="20250208073500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250208043000 +0000" stop="20250208074500 +0000" channel="Optus Sport 5.optus">
         <title>N/A - Vissel Kobe v Sanfrecce</title>
     </programme>
-    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Leeds United v Millwall</title>
     </programme>
-    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Leyton Orient v Manchester City</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Stoke v Cardiff City</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 4.optus">
         <title>FA Cup - Southampton v Burnley</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Everton v Bournemouth</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Wigan v Fulham</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Preston North End v Wycombe</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 5.optus">
         <title>FA Cup - Coventry City v Ipswich</title>
     </programme>
     <programme start="20250208173500 +0000" stop="20250208205500 +0000" channel="Optus Sport 2.optus">

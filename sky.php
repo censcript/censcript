@@ -12924,11 +12924,8 @@
     <programme start="20250204050000 +0000" stop="20250204060000 +0000" channel="SkySpMainEvHD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250204060000 +0000" stop="20250204070000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250204060000 +0000" stop="20250204070001 +0000" channel="SkySpMainEvHD">
         <title>Sky Sports News</title>
-    </programme>
-    <programme start="20250204070000 +0000" stop="20250204070001 +0000" channel="SkySpMainEvHD">
-        <title>Live Tennis: WTA Abu Dhabi</title>
     </programme>
     <programme start="20250204070001 +0000" stop="20250204080000 +0000" channel="SkySpMainEvHD">
         <title>Good Morning Sports Fans</title>
@@ -15178,7 +15175,7 @@
         <title>Lords Questions</title>
     </programme>
     <programme start="20250203231500 +0000" stop="20250203232500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Lords Introductions</title>
+        <title>House of Lords - Introductions</title>
     </programme>
     <programme start="20250203232500 +0000" stop="20250203234000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Airport Expansion Statement</title>
@@ -30621,11 +30618,8 @@
     <programme start="20250204122000 +0000" stop="20250204123000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250204123000 +0000" stop="20250204133000 +0000" channel="IQRA Bangla">
+    <programme start="20250204123000 +0000" stop="20250204140000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250204133000 +0000" stop="20250204140000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
     </programme>
     <programme start="20250204140000 +0000" stop="20250204150000 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
@@ -30657,29 +30651,17 @@
     <programme start="20250204183300 +0000" stop="20250204183800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250204183800 +0000" stop="20250204190000 +0000" channel="IQRA Bangla">
+    <programme start="20250204183800 +0000" stop="20250204200000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250204190000 +0000" stop="20250204200000 +0000" channel="IQRA Bangla">
-        <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250204200000 +0000" stop="20250204203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250204203000 +0000" stop="20250204210000 +0000" channel="IQRA Bangla">
+    <programme start="20250204203000 +0000" stop="20250204230000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
     </programme>
-    <programme start="20250204210000 +0000" stop="20250204223000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250204223000 +0000" stop="20250204230000 +0000" channel="IQRA Bangla">
+    <programme start="20250204230000 +0000" stop="20250205000000 +0000" channel="IQRA Bangla">
         <title>Islamer Shikkha</title>
-    </programme>
-    <programme start="20250204230000 +0000" stop="20250204233000 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
-    </programme>
-    <programme start="20250204233000 +0000" stop="20250205003000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250203223000 +0000" stop="20250203230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -30771,8 +30753,11 @@
     <programme start="20250204165500 +0000" stop="20250204165900 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250204165900 +0000" stop="20250204173000 +0000" channel="ATN">
+    <programme start="20250204165900 +0000" stop="20250204170400 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250204170400 +0000" stop="20250204173000 +0000" channel="ATN">
+        <title>Piliar</title>
     </programme>
     <programme start="20250204173000 +0000" stop="20250204180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
