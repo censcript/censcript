@@ -15649,7 +15649,7 @@
         <title>Trophy Hassan II Round 1 (JIP)</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206190000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 1</title>
+        <title>Founders Cup presented by US Virgin Islands Round 1</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15667,7 +15667,7 @@
         <title>Trophy Hassan II Round 2 (JIP)</title>
     </programme>
     <programme start="20250207160000 +0000" stop="20250207190000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 2</title>
+        <title>Founders Cup presented by US Virgin Islands Round 2</title>
     </programme>
     <programme start="20250207190000 +0000" stop="20250207220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15678,11 +15678,8 @@
     <programme start="20250208030000 +0000" stop="20250208080000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>VIC Open Round 3</title>
     </programme>
-    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Unfiltered - Hero Dubai Desert Classic</title>
-    </programme>
-    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The Cut 2025</title>
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AT&amp;T Pebble Beach Pro-Am</title>
     </programme>
     <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Bapco Energies Bahrain Championship</title>
@@ -15697,7 +15694,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250208190000 +0000" stop="20250208220000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 3</title>
+        <title>Founders Cup presented by US Virgin Islands Round 3</title>
     </programme>
     <programme start="20250208220000 +0000" stop="20250209020000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15709,25 +15706,19 @@
         <title>PGA Tour: The Cut 2025</title>
     </programme>
     <programme start="20250209073000 +0000" stop="20250209083000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Smart Infinity Philippine Open</title>
+        <title>International Series India</title>
     </programme>
     <programme start="20250209083000 +0000" stop="20250209133000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Commercial Bank Qatar Masters Day 4</title>
     </programme>
-    <programme start="20250209133000 +0000" stop="20250209140000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>MyGolfLife Open hosted by Pecanwood Estate</title>
+    <programme start="20250209133000 +0000" stop="20250209163000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup presented by US Virgin Islands Round 3</title>
     </programme>
-    <programme start="20250209140000 +0000" stop="20250209150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>International Series India</title>
-    </programme>
-    <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>AT&amp;T Pebble Beach Pro-Am</title>
-    </programme>
-    <programme start="20250209160000 +0000" stop="20250209190000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250209163000 +0000" stop="20250209190000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209220000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 4</title>
+        <title>Founders Cup presented by US Virgin Islands Round 4</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250210040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15735,13 +15726,13 @@
     <programme start="20250210040000 +0000" stop="20250210100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250210100000 +0000" stop="20250210153000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>WM Phoenix Open Round 3</title>
+    <programme start="20250210100000 +0000" stop="20250210140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>WM Phoenix Open Round 4</title>
     </programme>
-    <programme start="20250210153000 +0000" stop="20250210160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The Cut 2025</title>
+    <programme start="20250210140000 +0000" stop="20250210170000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup presented by US Virgin Islands Round 4</title>
     </programme>
-    <programme start="20250210160000 +0000" stop="20250210220000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250210170000 +0000" stop="20250210220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250210220000 +0000" stop="20250211040000 +0000" channel="Hub Sports 3 HD.starhub">
@@ -15750,14 +15741,20 @@
     <programme start="20250211040000 +0000" stop="20250211100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250211100000 +0000" stop="20250211150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>WM Phoenix Open Round 4</title>
+    <programme start="20250211100000 +0000" stop="20250211130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup presented by US Virgin Islands Round 1</title>
     </programme>
-    <programme start="20250211150000 +0000" stop="20250211153000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250211130000 +0000" stop="20250211140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>WM Phoenix Open</title>
+    </programme>
+    <programme start="20250211140000 +0000" stop="20250211143000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Commercial Bank Qatar Masters</title>
     </programme>
-    <programme start="20250211153000 +0000" stop="20250211160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250211143000 +0000" stop="20250211150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>MyGolfLife Open hosted by Pecanwood Estate</title>
+    </programme>
+    <programme start="20250211150000 +0000" stop="20250211160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Smart Infinity Philippine Open</title>
     </programme>
     <programme start="20250211160000 +0000" stop="20250211220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15769,19 +15766,10 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250212100000 +0000" stop="20250212130000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 3</title>
+        <title>Founders Cup presented by US Virgin Islands Round 2</title>
     </programme>
-    <programme start="20250212130000 +0000" stop="20250212140000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>WM Phoenix Open</title>
-    </programme>
-    <programme start="20250212140000 +0000" stop="20250212143000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Bapco Energies Bahrain Championship</title>
-    </programme>
-    <programme start="20250212143000 +0000" stop="20250212150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Unfiltered - Hero Dubai Desert Classic</title>
-    </programme>
-    <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Smart Infinity Philippine Open</title>
+    <programme start="20250212130000 +0000" stop="20250212160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup presented by US Virgin Islands Round 3</title>
     </programme>
     <programme start="20250212160000 +0000" stop="20250212220000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -15793,7 +15781,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250213100000 +0000" stop="20250213130000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Founders Cup Round 4</title>
+        <title>Founders Cup presented by US Virgin Islands Round 4</title>
     </programme>
     <programme start="20250213130000 +0000" stop="20250213133000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>PGA Tour: The Cut 2025</title>
@@ -15838,10 +15826,10 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250215040000 +0000" stop="20250215070000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Trophy Hassan II Round 1 (JIP)</title>
+        <title>Founders Cup presented by US Virgin Islands Round 1</title>
     </programme>
     <programme start="20250215070000 +0000" stop="20250215100000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Trophy Hassan II Round 2 (JIP)</title>
+        <title>Founders Cup presented by US Virgin Islands Round 2</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215140000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Genesis Invitational Round 2</title>
@@ -15865,16 +15853,43 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250216040000 +0000" stop="20250216070000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Trophy Hassan II Final Round (JIP)</title>
+        <title>Founders Cup presented by US Virgin Islands Round 3</title>
     </programme>
-    <programme start="20250216070000 +0000" stop="20250216093000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>APGA Farmers Insurance Invitational</title>
-    </programme>
-    <programme start="20250216093000 +0000" stop="20250216100000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Cell C Cape Town Open in association with Honor</title>
+    <programme start="20250216070000 +0000" stop="20250216100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Founders Cup presented by US Virgin Islands Round 4</title>
     </programme>
     <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Genesis Invitational Round 3</title>
+    </programme>
+    <programme start="20250216160000 +0000" stop="20250216180000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216180000 +0000" stop="20250216233000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The Genesis Invitational Round 4</title>
+    </programme>
+    <programme start="20250216233000 +0000" stop="20250217040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AT&amp;T Pebble Beach Pro-Am Round 1</title>
+    </programme>
+    <programme start="20250217130000 +0000" stop="20250217183000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The Genesis Invitational Round 4</title>
+    </programme>
+    <programme start="20250217183000 +0000" stop="20250217220000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217220000 +0000" stop="20250218040000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218040000 +0000" stop="20250218100000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250218100000 +0000" stop="20250218130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>AT&amp;T Pebble Beach Pro-Am Round 2</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Morning Express (3/2/25 Pt1)</title>
@@ -22257,6 +22272,9 @@
     <programme start="20250204230000 +0000" stop="20250205023000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>PRINCESS SIRIVANNAVARI Thailand Masters (Super 300): SF Session 2 (Court 1)</title>
     </programme>
+    <programme start="20250205023000 +0000" stop="20250205030000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 2</title>
+    </programme>
     <programme start="20250205030000 +0000" stop="20250205033000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 12</title>
     </programme>
@@ -22359,8 +22377,14 @@
     <programme start="20250208011500 +0000" stop="20250208013000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 98</title>
     </programme>
-    <programme start="20250208013000 +0000" stop="20250208053000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250208013000 +0000" stop="20250208043000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>DAIHATSU Indonesia Masters (Super 500): SF Session 2 (Court 1)</title>
+    </programme>
+    <programme start="20250208043000 +0000" stop="20250208050000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Vendée Globe Les Sables d&#039;Olonne 2024/25 Weekly H/Ls Episode 12</title>
+    </programme>
+    <programme start="20250208050000 +0000" stop="20250208053000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 2</title>
     </programme>
     <programme start="20250208053000 +0000" stop="20250208060000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 1 H/Ls</title>
@@ -22463,15 +22487,6 @@
     </programme>
     <programme start="20250210210000 +0000" stop="20250210213000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 1 H/Ls</title>
-    </programme>
-    <programme start="20250210213000 +0000" stop="20250210220000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Trail Menorca</title>
-    </programme>
-    <programme start="20250210220000 +0000" stop="20250211000000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>SF 1-3 (David Gilbert v Kyren Wilson)</title>
-    </programme>
-    <programme start="20250211000000 +0000" stop="20250211043000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Qatar TotalEnergies Open (1000) Day 2 Session 1</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203003000 +0000" channel="Sun TV.starhub">
         <title>Ninathale Inikkum</title>
