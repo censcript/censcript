@@ -12733,13 +12733,16 @@
         <title>ATP Classic Shorts (CC): Murray v Raonic 2016</title>
     </programme>
     <programme start="20250204183000 +0000" stop="20250204203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Rotterdam Day 2 Match 4</title>
+        <title>ATP Tour 500 2025: Rotterdam Day 2 Alcaraz v Van de Zandschulp</title>
     </programme>
     <programme start="20250204203000 +0000" stop="20250204223000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Rotterdam Day 2 Match 5</title>
+        <title>ATP Tour 500 2025: Rotterdam Day 2 Rune v Sonego</title>
     </programme>
-    <programme start="20250204223000 +0000" stop="20250205010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025 [Join in Progress]: Dallas Day 2 Match 3</title>
+    <programme start="20250204223000 +0000" stop="20250205000000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Auckland Final Monfils v Bergs</title>
+    </programme>
+    <programme start="20250205000000 +0000" stop="20250205010000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Miami</title>
     </programme>
     <programme start="20250205010000 +0000" stop="20250205030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Dallas Day 2 Match 4</title>
@@ -12929,9 +12932,6 @@
     </programme>
     <programme start="20250208203000 +0000" stop="20250208220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025 [Join in Progress]: Dallas SF 1</title>
-    </programme>
-    <programme start="20250208220000 +0000" stop="20250208230000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Washington</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203003000 +0000" channel="CGTN.starhub">
         <title>The World Today</title>
