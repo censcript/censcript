@@ -10972,7 +10972,7 @@
         <title>January</title>
     </programme>
     <programme start="20250205020000 +0000" stop="20250205040000 +0000" channel="beIN Sports HD.starhub">
-        <title>TGL 2025: Boston Common Golf vs Los Angeles Golf Club</title>
+        <title>TGL 2025: Boston Common Golf vs Los Angeles Golf Club (Live)</title>
     </programme>
     <programme start="20250205040000 +0000" stop="20250205060000 +0000" channel="beIN Sports HD.starhub">
         <title>MUTV 2024/25: Man United vs Crystal Palace</title>
@@ -18528,65 +18528,68 @@
     <programme start="20250209210000 +0000" stop="20250209213000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250209213000 +0000" stop="20250209223000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250209213000 +0000" stop="20250209220000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250209223000 +0000" stop="20250210040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250209220000 +0000" stop="20250210010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Uthamma Villain</title>
     </programme>
-    <programme start="20250210040000 +0000" stop="20250210100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210010000 +0000" stop="20250210043000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - The Priest</title>
     </programme>
-    <programme start="20250210100000 +0000" stop="20250210160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210043000 +0000" stop="20250210050000 +0000" channel="Zee Thirai.starhub">
+        <title>Thirai Flix</title>
     </programme>
-    <programme start="20250210160000 +0000" stop="20250210220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210050000 +0000" stop="20250210083000 +0000" channel="Zee Thirai.starhub">
+        <title>Movie - Aransangam</title>
     </programme>
-    <programme start="20250210220000 +0000" stop="20250211040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210083000 +0000" stop="20250210113000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kappal (Singles Day)</title>
     </programme>
-    <programme start="20250211040000 +0000" stop="20250211100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210113000 +0000" stop="20250210143000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Bimbisara</title>
     </programme>
-    <programme start="20250211100000 +0000" stop="20250211160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210143000 +0000" stop="20250210173000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - 8 Thottakal</title>
     </programme>
-    <programme start="20250211160000 +0000" stop="20250211220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210173000 +0000" stop="20250210200000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Head Bush</title>
     </programme>
-    <programme start="20250211220000 +0000" stop="20250212040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210200000 +0000" stop="20250210203000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20250212040000 +0000" stop="20250212100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210203000 +0000" stop="20250210210000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20250212100000 +0000" stop="20250212160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210210000 +0000" stop="20250210213000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20250212160000 +0000" stop="20250212220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210213000 +0000" stop="20250210220000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
-    <programme start="20250212220000 +0000" stop="20250213040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250210220000 +0000" stop="20250211010000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Adade Sundara</title>
     </programme>
-    <programme start="20250213040000 +0000" stop="20250213100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211010000 +0000" stop="20250211043000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - En Peyar Surya En Veedu India</title>
     </programme>
-    <programme start="20250213100000 +0000" stop="20250213160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211043000 +0000" stop="20250211050000 +0000" channel="Zee Thirai.starhub">
+        <title>Thirai Flix</title>
     </programme>
-    <programme start="20250213160000 +0000" stop="20250213220000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211050000 +0000" stop="20250211083000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Nadigayar Thilagam</title>
     </programme>
-    <programme start="20250213220000 +0000" stop="20250214040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211083000 +0000" stop="20250211110000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Naan Sirithal (Singles Day)</title>
     </programme>
-    <programme start="20250214040000 +0000" stop="20250214100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211110000 +0000" stop="20250211133000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Aswins</title>
     </programme>
-    <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250211133000 +0000" stop="20250211160000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Kurangu Bommai</title>
+    </programme>
+    <programme start="20250211160000 +0000" stop="20250211190000 +0000" channel="Zee Thirai.starhub">
+        <title>Movies - Market Raja Mbbs</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="SEA Today.starhub">
         <title>Sportlite</title>

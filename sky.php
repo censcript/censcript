@@ -15141,11 +15141,14 @@
     <programme start="20250205020000 +0000" stop="20250205040000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250205040000 +0000" stop="20250205060000 +0000" channel="BBC Parl HD">
+    <programme start="20250205040000 +0000" stop="20250205062500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250205060000 +0000" stop="20250205070000 +0000" channel="BBC Parl HD">
-        <title>Energy Security and Net Zero Questions</title>
+    <programme start="20250205062500 +0000" stop="20250205065500 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
+    </programme>
+    <programme start="20250205065500 +0000" stop="20250205070000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
     </programme>
     <programme start="20250205070000 +0000" stop="20250205093000 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
@@ -25234,10 +25237,10 @@
         <title>Ideal World with Jeremy</title>
     </programme>
     <programme start="20250205000000 +0000" stop="20250205010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Jeremy</title>
     </programme>
     <programme start="20250205010000 +0000" stop="20250205020000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Jeremy</title>
     </programme>
     <programme start="20250205020000 +0000" stop="20250205030000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -25252,58 +25255,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250205060000 +0000" stop="20250205070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250205070000 +0000" stop="20250205080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Viso Skincare with Natalia</title>
     </programme>
     <programme start="20250205080000 +0000" stop="20250205090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250205090000 +0000" stop="20250205100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beauty &amp; Beyond with Natalia</title>
     </programme>
     <programme start="20250205100000 +0000" stop="20250205110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Maxi Tiered Denim Skirt with Lindsey</title>
     </programme>
     <programme start="20250205110000 +0000" stop="20250205120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>La Marey 5 Piece Loungewear with Lindsey</title>
     </programme>
     <programme start="20250205120000 +0000" stop="20250205130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Bitmore Bluetooth Speaker with Lindsey</title>
     </programme>
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Rolson 30m Flexible Garden Hose with Lindsey</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Fashion Focus with Sally</title>
     </programme>
     <programme start="20250205150000 +0000" stop="20250205160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Emma Printed Jumpers with Sally</title>
     </programme>
     <programme start="20250205160000 +0000" stop="20250205170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Mudflower Pearl Trim Poncho with Sally</title>
     </programme>
     <programme start="20250205170000 +0000" stop="20250205180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Cushion Walk Lined Boots with Sally</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Accessories with Mike</title>
     </programme>
     <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Accessories with Mike</title>
     </programme>
     <programme start="20250205200000 +0000" stop="20250205210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Accessories with Mike</title>
     </programme>
     <programme start="20250205210000 +0000" stop="20250205220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Bare Feet by Margaret Dabbs with Mike</title>
     </programme>
     <programme start="20250205220000 +0000" stop="20250205230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Beautech Face &amp; Eye Wand ...</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Longline Puffer Coat with Joanne</title>
     </programme>
     <programme start="20250204180000 +0000" stop="20250205000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
