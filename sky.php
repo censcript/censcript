@@ -28963,7 +28963,7 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250205110000 +0000" stop="20250205120000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Inside News</title>
     </programme>
     <programme start="20250205120000 +0000" stop="20250205130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -28984,19 +28984,19 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205190000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250205200000 +0000" stop="20250205210000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250205210000 +0000" stop="20250205220000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250205220000 +0000" stop="20250205230000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>

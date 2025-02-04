@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 5.optus">
-        <title>DFB Pokal - Stuttgart v Augsburg</title>
-    </programme>
     <programme start="20250205150000 +0000" stop="20250205160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -249,6 +246,24 @@
     <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
+    <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 5.optus">
+        <title>Women&#039;s Super League - Manchester United v Leicester</title>
+    </programme>
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 9.optus">
+        <title>Women&#039;s Super League - Tottenham Hotspur v Manchester City</title>
+    </programme>
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Crystal Palace v Liverpool</title>
+    </programme>
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Aston Villa v Everton</title>
+    </programme>
+    <programme start="20250302145000 +0000" stop="20250302171000 +0000" channel="Optus Sport 6.optus">
+        <title>Women&#039;s Super League - Brighton and Hove Albion v Chelsea</title>
+    </programme>
+    <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 5.optus">
+        <title>Women&#039;s Super League - Arsenal v West Ham United</title>
+    </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
     </programme>
@@ -284,11 +299,5 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Bay FC v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
