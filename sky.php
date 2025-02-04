@@ -26680,7 +26680,7 @@
         <title>Jamai No. 1</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205183000 +0000" channel="Zee TV HD">
-        <title>Live DPW ILT20 - Qualifier 1</title>
+        <title>Live DPW ILT20 - DV VS DC</title>
     </programme>
     <programme start="20250205183000 +0000" stop="20250205190000 +0000" channel="Zee TV HD">
         <title>Hamara Parivar</title>
@@ -36259,7 +36259,7 @@
         <title>Jamai No. 1</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205183000 +0000" channel="Zee TV">
-        <title>Live DPW ILT20 - Qualifier 1</title>
+        <title>Live DPW ILT20 - DV VS DC</title>
     </programme>
     <programme start="20250205183000 +0000" stop="20250205190000 +0000" channel="Zee TV">
         <title>Hamara Parivar</title>
