@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250204090000 +0000" stop="20250204100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - 1-to-11: Tore Andre Flo</title>
-    </programme>
     <programme start="20250204193500 +0000" stop="20250204225500 +0000" channel="Optus Sport 5.optus">
         <title>DFB Pokal - Stuttgart v Augsburg</title>
     </programme>

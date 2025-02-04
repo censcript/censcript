@@ -24790,7 +24790,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250204200000 +0000" stop="20250204210000 +0000" channel="QVC Beauty">
-        <title>SKINN Skincare</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250204210000 +0000" stop="20250204220000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24841,7 +24841,7 @@
         <title>First 2025 Marla Wynne Drop</title>
     </programme>
     <programme start="20250204110000 +0000" stop="20250204120000 +0000" channel="QVC Style HD">
-        <title>Rieker Footwear</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250204120000 +0000" stop="20250204130000 +0000" channel="QVC Style HD">
         <title>Fashion for Any Weather</title>
@@ -24925,10 +24925,10 @@
         <title>AAA Tanzanite Showcase</title>
     </programme>
     <programme start="20250204130000 +0000" stop="20250204140000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Natural Pink Diamonds</title>
     </programme>
     <programme start="20250204140000 +0000" stop="20250204150000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Ethiopian Opal</title>
     </programme>
     <programme start="20250204150000 +0000" stop="20250204160000 +0000" channel="Gems TV">
         <title>The Daily Discount</title>
@@ -25486,7 +25486,7 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250204120000 +0000" stop="20250204130000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Inspirations</title>
+        <title>Prepare Your Spring Garden</title>
     </programme>
     <programme start="20250204130000 +0000" stop="20250204140000 +0000" channel="QVC Extra">
         <title>Your Transitional Style Edit</title>
@@ -25498,7 +25498,7 @@
         <title>Kitchen Deals with Ninja</title>
     </programme>
     <programme start="20250204160000 +0000" stop="20250204170000 +0000" channel="QVC Extra">
-        <title>Kelly Hoppen Home Design</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250204170000 +0000" stop="20250204180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -25513,13 +25513,13 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250204210000 +0000" stop="20250204220000 +0000" channel="QVC Extra">
-        <title>Practical Ideas</title>
+        <title>Travel Solutions with Mia Tui</title>
     </programme>
     <programme start="20250204220000 +0000" stop="20250204230000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250204230000 +0000" stop="20250205000000 +0000" channel="QVC Extra">
-        <title>Diamonique up to 50% off</title>
+        <title>Menopause Your Way</title>
     </programme>
     <programme start="20250203223000 +0000" stop="20250203230000 +0000" channel="High Street TV 3">
         <title>Jet Hawk</title>
@@ -29400,10 +29400,10 @@
     <programme start="20250204122000 +0000" stop="20250204122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250204122500 +0000" stop="20250204124200 +0000" channel="Eman Channel">
+    <programme start="20250204122500 +0000" stop="20250204124900 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250204124200 +0000" stop="20250204130000 +0000" channel="Eman Channel">
+    <programme start="20250204124900 +0000" stop="20250204130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250204130000 +0000" stop="20250204140000 +0000" channel="Eman Channel">
@@ -29412,13 +29412,13 @@
     <programme start="20250204140000 +0000" stop="20250204141500 +0000" channel="Eman Channel">
         <title>Qur'an Time</title>
     </programme>
-    <programme start="20250204141500 +0000" stop="20250204144600 +0000" channel="Eman Channel">
+    <programme start="20250204141500 +0000" stop="20250204143100 +0000" channel="Eman Channel">
         <title>The Blessed Chapters</title>
     </programme>
-    <programme start="20250204144600 +0000" stop="20250204145000 +0000" channel="Eman Channel">
+    <programme start="20250204143100 +0000" stop="20250204143500 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250204145000 +0000" stop="20250204150500 +0000" channel="Eman Channel">
+    <programme start="20250204143500 +0000" stop="20250204150500 +0000" channel="Eman Channel">
         <title>The Blessed Chapters</title>
     </programme>
     <programme start="20250204150500 +0000" stop="20250204152000 +0000" channel="Eman Channel">
@@ -29427,10 +29427,10 @@
     <programme start="20250204152000 +0000" stop="20250204153500 +0000" channel="Eman Channel">
         <title>Lantern Tales</title>
     </programme>
-    <programme start="20250204153500 +0000" stop="20250204155000 +0000" channel="Eman Channel">
+    <programme start="20250204153500 +0000" stop="20250204155200 +0000" channel="Eman Channel">
         <title>Little Explorers</title>
     </programme>
-    <programme start="20250204155000 +0000" stop="20250204160000 +0000" channel="Eman Channel">
+    <programme start="20250204155200 +0000" stop="20250204160000 +0000" channel="Eman Channel">
         <title>Once Upon a Time</title>
     </programme>
     <programme start="20250204160000 +0000" stop="20250204165900 +0000" channel="Eman Channel">
@@ -29442,10 +29442,10 @@
     <programme start="20250204170500 +0000" stop="20250204173500 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
-    <programme start="20250204173500 +0000" stop="20250204175200 +0000" channel="Eman Channel">
+    <programme start="20250204173500 +0000" stop="20250204175000 +0000" channel="Eman Channel">
         <title>Blessed Home</title>
     </programme>
-    <programme start="20250204175200 +0000" stop="20250204180000 +0000" channel="Eman Channel">
+    <programme start="20250204175000 +0000" stop="20250204180000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250204180000 +0000" stop="20250204183300 +0000" channel="Eman Channel">
@@ -29461,7 +29461,7 @@
         <title>Evening Remembrance</title>
     </programme>
     <programme start="20250204191500 +0000" stop="20250204194500 +0000" channel="Eman Channel">
-        <title>Master Dua's</title>
+        <title>Reflection From Revelation</title>
     </programme>
     <programme start="20250204194500 +0000" stop="20250204200000 +0000" channel="Eman Channel">
         <title>Greatness Of Allah</title>
@@ -30247,7 +30247,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250204090000 +0000" stop="20250204100000 +0000" channel="PoliticsPunjab">
-        <title>Live: Politics Punjab Special</title>
+        <title>Repeat: Current Affairs</title>
     </programme>
     <programme start="20250204100000 +0000" stop="20250204103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -30310,7 +30310,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250204233000 +0000" stop="20250205003000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Politics Punjab Special</title>
+        <title>Repeat: Current Affairs</title>
     </programme>
     <programme start="20250203220000 +0000" stop="20250204000000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -30318,31 +30318,40 @@
     <programme start="20250204000000 +0000" stop="20250204060000 +0000" channel="PBC">
         <title>Amritvela</title>
     </programme>
-    <programme start="20250204060000 +0000" stop="20250204070000 +0000" channel="PBC">
+    <programme start="20250204060000 +0000" stop="20250204063000 +0000" channel="PBC">
         <title>Amritvela</title>
     </programme>
-    <programme start="20250204070000 +0000" stop="20250204080000 +0000" channel="PBC">
+    <programme start="20250204063000 +0000" stop="20250204070000 +0000" channel="PBC">
+        <title>Amritvela</title>
+    </programme>
+    <programme start="20250204070000 +0000" stop="20250204073000 +0000" channel="PBC">
+        <title>Shri Sehaj Path</title>
+    </programme>
+    <programme start="20250204073000 +0000" stop="20250204080000 +0000" channel="PBC">
         <title>Kirtan</title>
     </programme>
     <programme start="20250204080000 +0000" stop="20250204083000 +0000" channel="PBC">
         <title>Children's Corner</title>
     </programme>
     <programme start="20250204083000 +0000" stop="20250204090000 +0000" channel="PBC">
-        <title>Guru Darshan</title>
+        <title>Katha</title>
     </programme>
     <programme start="20250204090000 +0000" stop="20250204100000 +0000" channel="PBC">
-        <title>Pakistan Nankana Sahib Yatra</title>
+        <title>PBC Morning Show</title>
     </programme>
     <programme start="20250204100000 +0000" stop="20250204120000 +0000" channel="PBC">
         <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250204120000 +0000" stop="20250204130000 +0000" channel="PBC">
+    <programme start="20250204120000 +0000" stop="20250204123000 +0000" channel="PBC">
+        <title>Shri Sehaj Path</title>
+    </programme>
+    <programme start="20250204123000 +0000" stop="20250204133000 +0000" channel="PBC">
+        <title>Katha</title>
+    </programme>
+    <programme start="20250204133000 +0000" stop="20250204143000 +0000" channel="PBC">
         <title>PBC Repeat Show</title>
     </programme>
-    <programme start="20250204130000 +0000" stop="20250204140000 +0000" channel="PBC">
-        <title>PBC Repeat Show</title>
-    </programme>
-    <programme start="20250204140000 +0000" stop="20250204150000 +0000" channel="PBC">
+    <programme start="20250204143000 +0000" stop="20250204150000 +0000" channel="PBC">
         <title>PBC Repeat Show</title>
     </programme>
     <programme start="20250204150000 +0000" stop="20250204153000 +0000" channel="PBC">
@@ -30364,18 +30373,24 @@
         <title>Rehraas Sahib</title>
     </programme>
     <programme start="20250204180000 +0000" stop="20250204190000 +0000" channel="PBC">
-        <title>Wah Vi Wah</title>
-    </programme>
-    <programme start="20250204190000 +0000" stop="20250204200000 +0000" channel="PBC">
-        <title>Velati Sath</title>
-    </programme>
-    <programme start="20250204200000 +0000" stop="20250204210000 +0000" channel="PBC">
-        <title>The 1 Show</title>
-    </programme>
-    <programme start="20250204210000 +0000" stop="20250204220000 +0000" channel="PBC">
         <title>PBC Special Show</title>
     </programme>
+    <programme start="20250204190000 +0000" stop="20250204200000 +0000" channel="PBC">
+        <title>Sikh Spotlight</title>
+    </programme>
+    <programme start="20250204200000 +0000" stop="20250204210000 +0000" channel="PBC">
+        <title>PBC Live</title>
+    </programme>
+    <programme start="20250204210000 +0000" stop="20250204213000 +0000" channel="PBC">
+        <title>PBC Special Show</title>
+    </programme>
+    <programme start="20250204213000 +0000" stop="20250204220000 +0000" channel="PBC">
+        <title>Shri Sehaj Path</title>
+    </programme>
     <programme start="20250204220000 +0000" stop="20250204230000 +0000" channel="PBC">
+        <title>Guru Granth Sahib Academy</title>
+    </programme>
+    <programme start="20250204230000 +0000" stop="20250205000000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
     </programme>
     <programme start="20250203213000 +0000" stop="20250204000000 +0000" channel="Zee Punjabi">
