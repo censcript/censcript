@@ -12745,19 +12745,19 @@
         <title>Miami</title>
     </programme>
     <programme start="20250205010000 +0000" stop="20250205030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Dallas Day 2 Match 4</title>
+        <title>ATP Tour 500 2025: Dallas Day 2 Vukic v Shelton</title>
     </programme>
     <programme start="20250205030000 +0000" stop="20250205050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Dallas Day 2 Match 5</title>
+        <title>ATP Tour 500 2025: Dallas Day 2 Ruud v Giron</title>
     </programme>
     <programme start="20250205050000 +0000" stop="20250205063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Rotterdam Day 2 Match 4</title>
+        <title>ATP Tour 500 2025: Rotterdam Day 2 Alcaraz v Van de Zandschulp</title>
     </programme>
     <programme start="20250205063000 +0000" stop="20250205080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Dallas Day 2 Match 1</title>
+        <title>ATP Tour 500 2025: Dallas Day 2 Paul v Brooksby</title>
     </programme>
     <programme start="20250205080000 +0000" stop="20250205093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Dallas Day 2 Match 2</title>
+        <title>ATP Tour 500 2025: Dallas Day 2 Norrie v Michelsen</title>
     </programme>
     <programme start="20250205093000 +0000" stop="20250205100000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
