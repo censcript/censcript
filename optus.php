@@ -270,4 +270,25 @@
     <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v San Diego Wave FC</title>
     </programme>
+    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Portland Thorns FC v Angel City FC</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - North Carolina Courage v Seattle Reign</title>
+    </programme>
+    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Bay FC v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
 </tv>
