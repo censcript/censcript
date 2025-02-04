@@ -15165,11 +15165,8 @@
     <programme start="20250204213000 +0000" stop="20250204220000 +0000" channel="BBC NEWS HD">
         <title>The Context with Christian Fraser</title>
     </programme>
-    <programme start="20250204220000 +0000" stop="20250204223000 +0000" channel="BBC NEWS HD">
+    <programme start="20250204220000 +0000" stop="20250204230000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
-    </programme>
-    <programme start="20250204223000 +0000" stop="20250204230000 +0000" channel="BBC NEWS HD">
-        <title>Newsnight</title>
     </programme>
     <programme start="20250204230000 +0000" stop="20250205000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
@@ -24868,7 +24865,7 @@
         <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250204180000 +0000" stop="20250204190000 +0000" channel="QVC Style HD">
-        <title>YouGarden</title>
+        <title>New Year, New YouGarden</title>
     </programme>
     <programme start="20250204190000 +0000" stop="20250204200000 +0000" channel="QVC Style HD">
         <title>Nina Leonard</title>
@@ -31189,7 +31186,7 @@
         <title>Drama Time</title>
     </programme>
     <programme start="20250204190000 +0000" stop="20250204200000 +0000" channel="iON TV">
-        <title>ION Events</title>
+        <title>Documentary</title>
     </programme>
     <programme start="20250204200000 +0000" stop="20250204210000 +0000" channel="iON TV">
         <title>Gardening and Beyond BGS</title>
@@ -37980,10 +37977,10 @@
     <programme start="20250204190000 +0000" stop="20250204193000 +0000" channel="BBC R2">
         <title>Jo Whiley's Shiny Happy Playlist</title>
     </programme>
-    <programme start="20250204193000 +0000" stop="20250204204500 +0000" channel="BBC R2">
+    <programme start="20250204193000 +0000" stop="20250204204700 +0000" channel="BBC R2">
         <title>Jo Whiley</title>
     </programme>
-    <programme start="20250204204500 +0000" stop="20250204210000 +0000" channel="BBC R2">
+    <programme start="20250204204700 +0000" stop="20250204210000 +0000" channel="BBC R2">
         <title>Radio 2 Piano Room</title>
     </programme>
     <programme start="20250204210000 +0000" stop="20250204220000 +0000" channel="BBC R2">
