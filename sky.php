@@ -15144,14 +15144,11 @@
     <programme start="20250205040000 +0000" stop="20250205062500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250205062500 +0000" stop="20250205065500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250205062500 +0000" stop="20250205073000 +0000" channel="BBC Parl HD">
+        <title>Energy Security and Net Zero Questions</title>
     </programme>
-    <programme start="20250205065500 +0000" stop="20250205070000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250205070000 +0000" stop="20250205093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250205073000 +0000" stop="20250205093000 +0000" channel="BBC Parl HD">
+        <title>Defence Committee on the Armed Forces Covenant</title>
     </programme>
     <programme start="20250205093000 +0000" stop="20250205113000 +0000" channel="BBC Parl HD">
         <title>Live Northern Ireland Affairs...</title>
@@ -28129,7 +28126,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250205110500 +0000" stop="20250205120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Kashmir Ki Pukar</title>
     </programme>
     <programme start="20250205120000 +0000" stop="20250205120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
