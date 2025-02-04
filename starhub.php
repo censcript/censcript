@@ -22254,7 +22254,7 @@
     <programme start="20250204210000 +0000" stop="20250204230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Final(8) (Kyren Wilson v Jak Jones)</title>
     </programme>
-    <programme start="20250204230000 +0000" stop="20250205030000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250204230000 +0000" stop="20250205023000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>PRINCESS SIRIVANNAVARI Thailand Masters (Super 300): SF Session 2 (Court 1)</title>
     </programme>
     <programme start="20250205030000 +0000" stop="20250205033000 +0000" channel="Hub Sports 1  HD.starhub">
