@@ -237,6 +237,18 @@
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FM v Yokohama FC</title>
+    </programme>
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 6.optus">
+        <title>J1 League - Machida v Tokyo Verdy</title>
+    </programme>
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 5.optus">
+        <title>J1 League - Kashiwa v Cerezo</title>
+    </programme>
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 4.optus">
+        <title>J1 League - Avispa v Kawasaki</title>
+    </programme>
     <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
@@ -287,17 +299,5 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Bay FC v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
