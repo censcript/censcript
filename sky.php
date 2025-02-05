@@ -7383,10 +7383,7 @@
     <programme start="20250205045000 +0000" stop="20250205054000 +0000" channel="Channel 5+1">
         <title>Happy Campers: The Caravan Park</title>
     </programme>
-    <programme start="20250205054000 +0000" stop="20250205060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250205060000 +0000" stop="20250205060500 +0000" channel="Channel 5+1">
+    <programme start="20250205054000 +0000" stop="20250205060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250205060500 +0000" stop="20250205063500 +0000" channel="Channel 5+1">
@@ -16656,13 +16653,13 @@
     <programme start="20250205223000 +0000" stop="20250205224500 +0000" channel="TRT World">
         <title>Focal Point: Türkiye Rebuilds</title>
     </programme>
-    <programme start="20250205224500 +0000" stop="20250205230000 +0000" channel="TRT World">
+    <programme start="20250205224500 +0000" stop="20250205231500 +0000" channel="TRT World">
         <title>Documentary: The Disaster...</title>
     </programme>
-    <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="TRT World">
+    <programme start="20250205231500 +0000" stop="20250205234500 +0000" channel="TRT World">
         <title>News</title>
     </programme>
-    <programme start="20250205233000 +0000" stop="20250206003000 +0000" channel="TRT World">
+    <programme start="20250205234500 +0000" stop="20250206004500 +0000" channel="TRT World">
         <title>Showcase</title>
     </programme>
     <programme start="20250204220000 +0000" stop="20250204230000 +0000" channel="Channels 24">
@@ -17881,7 +17878,7 @@
         <title>Gospel Truth</title>
     </programme>
     <programme start="20250205073000 +0000" stop="20250205080000 +0000" channel="revelation">
-        <title>The Bible tells me</title>
+        <title>The Bible Tells Me</title>
     </programme>
     <programme start="20250205080000 +0000" stop="20250205083000 +0000" channel="revelation">
         <title>God Day</title>
@@ -17905,7 +17902,7 @@
         <title>Prayer Time Live</title>
     </programme>
     <programme start="20250205133000 +0000" stop="20250205140000 +0000" channel="revelation">
-        <title>The Bible tells me</title>
+        <title>The Bible Tells Me</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205150000 +0000" channel="revelation">
         <title>Q and A</title>
@@ -35709,13 +35706,13 @@
     <programme start="20250205223000 +0000" stop="20250205224500 +0000" channel="TRT World HD">
         <title>Focal Point: Türkiye Rebuilds</title>
     </programme>
-    <programme start="20250205224500 +0000" stop="20250205230000 +0000" channel="TRT World HD">
+    <programme start="20250205224500 +0000" stop="20250205231500 +0000" channel="TRT World HD">
         <title>Documentary: The Disaster...</title>
     </programme>
-    <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="TRT World HD">
+    <programme start="20250205231500 +0000" stop="20250205234500 +0000" channel="TRT World HD">
         <title>News</title>
     </programme>
-    <programme start="20250205233000 +0000" stop="20250206003000 +0000" channel="TRT World HD">
+    <programme start="20250205234500 +0000" stop="20250206004500 +0000" channel="TRT World HD">
         <title>Showcase</title>
     </programme>
     <programme start="20250204224200 +0000" stop="20250205000700 +0000" channel="SONY TV">
