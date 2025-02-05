@@ -12919,7 +12919,7 @@
         <title>Live: Good Morning Football</title>
     </programme>
     <programme start="20250205150000 +0000" stop="20250205190000 +0000" channel="SkySpMainEvHD">
-        <title>Live SA20 Eliminator</title>
+        <title>Live SA20 Sunrisers EC v Joburg SK</title>
     </programme>
     <programme start="20250205190000 +0000" stop="20250205230000 +0000" channel="SkySpMainEvHD">
         <title>Live EFL Cup: Newcastle v Arsenal</title>
@@ -24562,7 +24562,7 @@
         <title>Kitchen Deals with Eilidh</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205190000 +0000" channel="QVC HD">
-        <title>Phase Eight</title>
+        <title>New Season Phase Eight</title>
     </programme>
     <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="QVC HD">
         <title>Tarte Cosmetics</title>
@@ -29403,13 +29403,13 @@
     <programme start="20250205120000 +0000" stop="20250205122000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250205122000 +0000" stop="20250205122400 +0000" channel="Eman Channel">
+    <programme start="20250205122000 +0000" stop="20250205122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250205122400 +0000" stop="20250205124900 +0000" channel="Eman Channel">
+    <programme start="20250205122500 +0000" stop="20250205124200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250205124900 +0000" stop="20250205130000 +0000" channel="Eman Channel">
+    <programme start="20250205124200 +0000" stop="20250205130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="Eman Channel">
@@ -37687,10 +37687,10 @@
         <title>BBC Newsline</title>
     </programme>
     <programme start="20250205224000 +0000" stop="20250205231500 +0000" channel="BBC One NI HD">
-        <title>Coldplay: Radio 2's Piano Room</title>
+        <title>Coldplay: Radio 2 Piano Room</title>
     </programme>
     <programme start="20250205231500 +0000" stop="20250206001500 +0000" channel="BBC One NI HD">
-        <title>Respect</title>
+        <title>Film: Respect</title>
     </programme>
     <programme start="20250204223000 +0000" stop="20250204230000 +0000" channel="BBC Two Wal HD">
         <title>Newsnight</title>
