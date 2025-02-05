@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bayer Leverkusen v Koln</title>
-    </programme>
     <programme start="20250206133000 +0000" stop="20250206140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Antoine Semenyo</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>

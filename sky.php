@@ -15000,23 +15000,23 @@
     <programme start="20250206230000 +0000" stop="20250207000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250205224000 +0000" stop="20250205232000 +0000" channel="BBC Parl HD">
+    <programme start="20250205225500 +0000" stop="20250205233500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250205232000 +0000" stop="20250206012000 +0000" channel="BBC Parl HD">
+    <programme start="20250205233500 +0000" stop="20250206010500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Data (Access and Use) Bill</title>
     </programme>
-    <programme start="20250206012000 +0000" stop="20250206022000 +0000" channel="BBC Parl HD">
+    <programme start="20250206010500 +0000" stop="20250206032000 +0000" channel="BBC Parl HD">
         <title>Lords - Institute for...</title>
     </programme>
-    <programme start="20250206022000 +0000" stop="20250206032000 +0000" channel="BBC Parl HD">
+    <programme start="20250206032000 +0000" stop="20250206041500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Water Bill</title>
     </programme>
-    <programme start="20250206032000 +0000" stop="20250206052000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Terrorism Bill, Part 1</title>
+    <programme start="20250206041500 +0000" stop="20250206050500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Terrorism Bill</title>
     </programme>
-    <programme start="20250206052000 +0000" stop="20250206060000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Terrorism Bill, Part 2</title>
+    <programme start="20250206050500 +0000" stop="20250206060000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Schools Statement</title>
     </programme>
     <programme start="20250206060000 +0000" stop="20250206062500 +0000" channel="BBC Parl HD">
         <title>Women and Equalities Questions</title>

@@ -6084,6 +6084,45 @@
     <programme start="20250215145000 +0000" stop="20250215170000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>Premier League 2024/25</title>
     </programme>
+    <programme start="20250215170000 +0000" stop="20250215190000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215190000 +0000" stop="20250215210000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215210000 +0000" stop="20250215230000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215230000 +0000" stop="20250216010000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216010000 +0000" stop="20250216030000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216030000 +0000" stop="20250216040000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Match Day Live Extra 2024/25</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216060000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216060000 +0000" stop="20250216080000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216080000 +0000" stop="20250216100000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216115500 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216115500 +0000" stop="20250216135000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216135000 +0000" stop="20250216155000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216155000 +0000" stop="20250216162000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>The Big Interview 2024/25</title>
+    </programme>
     <programme start="20250204000000 +0000" stop="20250204010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Road to the Super Bowl</title>
     </programme>
@@ -30177,6 +30216,282 @@
     <programme start="20250206000000 +0000" stop="20250206010000 +0000" channel="TestChannel 993.starhub">
         <title>Shao Kang&#039;s War Room</title>
     </programme>
+    <programme start="20250206010000 +0000" stop="20250206020000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250206020000 +0000" stop="20250206030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250206030000 +0000" stop="20250206040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250206040000 +0000" stop="20250206060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
+    <programme start="20250206060000 +0000" stop="20250206070000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250206070000 +0000" stop="20250206080000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250206080000 +0000" stop="20250206090000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250206090000 +0000" stop="20250206100000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250206100000 +0000" stop="20250206110000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250206110000 +0000" stop="20250206120000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250206120000 +0000" stop="20250206130000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250206130000 +0000" stop="20250206140000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250206160000 +0000" stop="20250206180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250206180000 +0000" stop="20250206190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250206220000 +0000" stop="20250206230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250206230000 +0000" stop="20250207000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250207000000 +0000" stop="20250207010000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250207010000 +0000" stop="20250207020000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250207020000 +0000" stop="20250207030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250207030000 +0000" stop="20250207040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250207040000 +0000" stop="20250207060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
+    <programme start="20250207060000 +0000" stop="20250207070000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250207070000 +0000" stop="20250207080000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="TestChannel 993.starhub">
+        <title>Beauty Lab</title>
+    </programme>
+    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: 48 Hour Burning Desire!</title>
+    </programme>
+    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250207160000 +0000" stop="20250207180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250207180000 +0000" stop="20250207190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250207190000 +0000" stop="20250207200000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250207200000 +0000" stop="20250207210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250207210000 +0000" stop="20250207220000 +0000" channel="TestChannel 993.starhub">
+        <title>Beauty Lab</title>
+    </programme>
+    <programme start="20250207220000 +0000" stop="20250207230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250208000000 +0000" stop="20250208010000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250208010000 +0000" stop="20250208013000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste</title>
+    </programme>
+    <programme start="20250208013000 +0000" stop="20250208040000 +0000" channel="TestChannel 993.starhub">
+        <title>Golden Snake Lunar New Year Special</title>
+    </programme>
+    <programme start="20250208040000 +0000" stop="20250208060000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS News</title>
+    </programme>
+    <programme start="20250208060000 +0000" stop="20250208070000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250208070000 +0000" stop="20250208080000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Insight People</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: 48 Hour Burning Desire!</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s World News Asia</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s World News Europe</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Amazing Bites</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250208170000 +0000" stop="20250208180000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250208180000 +0000" stop="20250208190000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250208190000 +0000" stop="20250208200000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Insight People</title>
+    </programme>
+    <programme start="20250208200000 +0000" stop="20250208210000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250208210000 +0000" stop="20250208220000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250208220000 +0000" stop="20250208230000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250208230000 +0000" stop="20250209000000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250209000000 +0000" stop="20250209010000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste Plus</title>
+    </programme>
+    <programme start="20250209010000 +0000" stop="20250209020000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250209020000 +0000" stop="20250209030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250209030000 +0000" stop="20250209040000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250209040000 +0000" stop="20250209060000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS News</title>
+    </programme>
+    <programme start="20250209060000 +0000" stop="20250209070000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250209070000 +0000" stop="20250209080000 +0000" channel="TestChannel 993.starhub">
+        <title>Genius Go Go Go</title>
+    </programme>
+    <programme start="20250209080000 +0000" stop="20250209090000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250209090000 +0000" stop="20250209100000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250209100000 +0000" stop="20250209110000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Go Go! Two- Day Trip</title>
+    </programme>
+    <programme start="20250209110000 +0000" stop="20250209120000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250209120000 +0000" stop="20250209130000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250209130000 +0000" stop="20250209140000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s World News</title>
+    </programme>
+    <programme start="20250209140000 +0000" stop="20250209150000 +0000" channel="TestChannel 993.starhub">
+        <title>TVBS Sisy&#039;s Finance Weekly</title>
+    </programme>
+    <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: Hungry Generations</title>
+    </programme>
+    <programme start="20250209160000 +0000" stop="20250209180000 +0000" channel="TestChannel 993.starhub">
+        <title>3 Kingdoms</title>
+    </programme>
+    <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250209190000 +0000" stop="20250209200000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250209200000 +0000" stop="20250209210000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250209210000 +0000" stop="20250209220000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="TestChannel 993.starhub">
+        <title>Atom Boyz Ⅱ</title>
+    </programme>
+    <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="TestChannel 993.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250210010000 +0000" stop="20250210020000 +0000" channel="TestChannel 993.starhub">
+        <title>Beauty Lab</title>
+    </programme>
+    <programme start="20250210020000 +0000" stop="20250210030000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250210030000 +0000" stop="20250210040000 +0000" channel="TestChannel 993.starhub">
+        <title>Super Taste: 48 Hour Burning Desire!</title>
+    </programme>
+    <programme start="20250210040000 +0000" stop="20250210060000 +0000" channel="TestChannel 993.starhub">
+        <title>Focus World News</title>
+    </programme>
     <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32577,6 +32892,18 @@
     <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -32716,6 +33043,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
