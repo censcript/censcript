@@ -31914,6 +31914,36 @@
     <programme start="20250221100000 +0000" stop="20250221160000 +0000" channel="Hub Premier 5.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="beIN Sports 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205040000 +0000" stop="20250205100000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205100000 +0000" stop="20250205160000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205160000 +0000" stop="20250205220000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250206040000 +0000" channel="beIN Sports 5.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
