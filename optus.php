@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250205180000 +0000" stop="20250205183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Jose Antonio Reyes</title>
-    </programme>
     <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
