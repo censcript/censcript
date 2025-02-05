@@ -28446,13 +28446,16 @@
     <programme start="20250206000000 +0000" stop="20250206000500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250206000500 +0000" stop="20250206010000 +0000" channel="IQRA TV">
+    <programme start="20250206000500 +0000" stop="20250206001600 +0000" channel="IQRA TV">
+        <title>Dars-e-Quran</title>
+    </programme>
+    <programme start="20250206001600 +0000" stop="20250206011200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250206010000 +0000" stop="20250206012200 +0000" channel="IQRA TV">
+    <programme start="20250206011200 +0000" stop="20250206013100 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250206012200 +0000" stop="20250206053400 +0000" channel="IQRA TV">
+    <programme start="20250206013100 +0000" stop="20250206053400 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250206053400 +0000" stop="20250206053600 +0000" channel="IQRA TV">
@@ -28467,23 +28470,23 @@
     <programme start="20250206060000 +0000" stop="20250206070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250206070000 +0000" stop="20250206075200 +0000" channel="IQRA TV">
+    <programme start="20250206070000 +0000" stop="20250206075100 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250206075200 +0000" stop="20250206080900 +0000" channel="IQRA TV">
+    <programme start="20250206075100 +0000" stop="20250206080800 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250206080900 +0000" stop="20250206090000 +0000" channel="IQRA TV">
+    <programme start="20250206080800 +0000" stop="20250206090300 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250206090000 +0000" stop="20250206100000 +0000" channel="IQRA TV">
+    <programme start="20250206090300 +0000" stop="20250206100000 +0000" channel="IQRA TV">
         <title>Aap Kay Masail</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206102500 +0000" channel="IQRA TV">
-        <title>Naat &amp; Nasheeds</title>
+        <title>Ar Ruqyah Ash Shariyyah</title>
     </programme>
     <programme start="20250206102500 +0000" stop="20250206110000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Ar Ruqyah Ash Shariyyah</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206110500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -28834,7 +28837,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250206130000 +0000" stop="20250206140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Gapshap with Papa Khan</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28849,7 +28852,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250206180000 +0000" stop="20250206190000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
@@ -30621,13 +30624,7 @@
     <programme start="20250206055500 +0000" stop="20250206060000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250206060000 +0000" stop="20250206061800 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250206061800 +0000" stop="20250206062300 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250206062300 +0000" stop="20250206070000 +0000" channel="ATN">
+    <programme start="20250206060000 +0000" stop="20250206070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250206070000 +0000" stop="20250206073000 +0000" channel="ATN">
@@ -30655,60 +30652,60 @@
         <title>Chef's Kitchen With Chef Daniel</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206115500 +0000" channel="ATN">
-        <title>Amar Adhar Bhubone</title>
+        <title>Batpar Company</title>
     </programme>
     <programme start="20250206115500 +0000" stop="20250206120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250206120000 +0000" stop="20250206121500 +0000" channel="ATN">
-        <title>Omor Akbor</title>
+    <programme start="20250206120000 +0000" stop="20250206122000 +0000" channel="ATN">
+        <title>Ek Takar Bow</title>
     </programme>
-    <programme start="20250206121500 +0000" stop="20250206122000 +0000" channel="ATN">
+    <programme start="20250206122000 +0000" stop="20250206122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250206122000 +0000" stop="20250206140000 +0000" channel="ATN">
-        <title>Omor Akbor</title>
+    <programme start="20250206122500 +0000" stop="20250206140000 +0000" channel="ATN">
+        <title>Ek Takar Bow</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250206143000 +0000" stop="20250206143600 +0000" channel="ATN">
-        <title>Omor Akbor</title>
+    <programme start="20250206143000 +0000" stop="20250206151500 +0000" channel="ATN">
+        <title>Ek Takar Bow</title>
     </programme>
-    <programme start="20250206143600 +0000" stop="20250206144100 +0000" channel="ATN">
+    <programme start="20250206151500 +0000" stop="20250206152000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250206144100 +0000" stop="20250206155500 +0000" channel="ATN">
-        <title>Omor Akbor</title>
+    <programme start="20250206152000 +0000" stop="20250206155500 +0000" channel="ATN">
+        <title>Ek Takar Bow</title>
     </programme>
     <programme start="20250206155500 +0000" stop="20250206160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250206160000 +0000" stop="20250206162600 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250206162600 +0000" stop="20250206163100 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250206163100 +0000" stop="20250206165500 +0000" channel="ATN">
+    <programme start="20250206160000 +0000" stop="20250206165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250206165500 +0000" stop="20250206170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250206170000 +0000" stop="20250206173000 +0000" channel="ATN">
+    <programme start="20250206170000 +0000" stop="20250206170300 +0000" channel="ATN">
+        <title>Shapla Shaluk</title>
+    </programme>
+    <programme start="20250206170300 +0000" stop="20250206170800 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250206170800 +0000" stop="20250206173000 +0000" channel="ATN">
         <title>Shapla Shaluk</title>
     </programme>
     <programme start="20250206173000 +0000" stop="20250206180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250206180000 +0000" stop="20250206180500 +0000" channel="ATN">
+    <programme start="20250206180000 +0000" stop="20250206183600 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250206180500 +0000" stop="20250206181000 +0000" channel="ATN">
+    <programme start="20250206183600 +0000" stop="20250206184100 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250206181000 +0000" stop="20250206185500 +0000" channel="ATN">
+    <programme start="20250206184100 +0000" stop="20250206185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250206185500 +0000" stop="20250206190000 +0000" channel="ATN">
@@ -31026,17 +31023,14 @@
     <programme start="20250206055000 +0000" stop="20250206060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250206060000 +0000" stop="20250206061100 +0000" channel="iON TV">
+    <programme start="20250206060000 +0000" stop="20250206061600 +0000" channel="iON TV">
         <title>iON News Time</title>
-    </programme>
-    <programme start="20250206061100 +0000" stop="20250206061600 +0000" channel="iON TV">
-        <title>Azan-e-Fajr</title>
     </programme>
     <programme start="20250206061600 +0000" stop="20250206063000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250206063000 +0000" stop="20250206070000 +0000" channel="iON TV">
-        <title>Kirishi 24</title>
+        <title>Srestho Manushera</title>
     </programme>
     <programme start="20250206070000 +0000" stop="20250206080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
@@ -31051,60 +31045,63 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250206103000 +0000" stop="20250206110000 +0000" channel="iON TV">
-        <title>Searchlight</title>
+        <title>Kirishi 24</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250206120000 +0000" stop="20250206121800 +0000" channel="iON TV">
+    <programme start="20250206120000 +0000" stop="20250206122000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250206121800 +0000" stop="20250206122300 +0000" channel="iON TV">
+    <programme start="20250206122000 +0000" stop="20250206122500 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250206122300 +0000" stop="20250206130000 +0000" channel="iON TV">
+    <programme start="20250206122500 +0000" stop="20250206130000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
     <programme start="20250206130000 +0000" stop="20250206133000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250206133000 +0000" stop="20250206140000 +0000" channel="iON TV">
-        <title>Kirishi 24</title>
+        <title>Searchlight</title>
     </programme>
-    <programme start="20250206140000 +0000" stop="20250206144700 +0000" channel="iON TV">
+    <programme start="20250206140000 +0000" stop="20250206143000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250206144700 +0000" stop="20250206145200 +0000" channel="iON TV">
+    <programme start="20250206143000 +0000" stop="20250206150000 +0000" channel="iON TV">
+        <title>Islamic Knowledge By Azhari</title>
+    </programme>
+    <programme start="20250206150000 +0000" stop="20250206151100 +0000" channel="iON TV">
+        <title>Islamic Knowledge By Azhari</title>
+    </programme>
+    <programme start="20250206151100 +0000" stop="20250206151600 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250206145200 +0000" stop="20250206150000 +0000" channel="iON TV">
+    <programme start="20250206151600 +0000" stop="20250206160000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
-    </programme>
-    <programme start="20250206150000 +0000" stop="20250206153000 +0000" channel="iON TV">
-        <title>Islamic Knowledge By Azhari</title>
-    </programme>
-    <programme start="20250206153000 +0000" stop="20250206160000 +0000" channel="iON TV">
-        <title>Documentary</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206163800 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250206163800 +0000" stop="20250206164300 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250206164300 +0000" stop="20250206170000 +0000" channel="iON TV">
+    <programme start="20250206163800 +0000" stop="20250206170000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250206170000 +0000" stop="20250206180000 +0000" channel="iON TV">
+    <programme start="20250206170000 +0000" stop="20250206170300 +0000" channel="iON TV">
         <title>News Room</title>
     </programme>
-    <programme start="20250206180000 +0000" stop="20250206181500 +0000" channel="iON TV">
+    <programme start="20250206170300 +0000" stop="20250206170800 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250206170800 +0000" stop="20250206180000 +0000" channel="iON TV">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250206180000 +0000" stop="20250206183600 +0000" channel="iON TV">
         <title>Health Guide</title>
     </programme>
-    <programme start="20250206181500 +0000" stop="20250206182000 +0000" channel="iON TV">
+    <programme start="20250206183600 +0000" stop="20250206184100 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250206182000 +0000" stop="20250206190000 +0000" channel="iON TV">
+    <programme start="20250206184100 +0000" stop="20250206190000 +0000" channel="iON TV">
         <title>Health Guide</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="iON TV">
@@ -31114,7 +31111,7 @@
         <title>Dream Home</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206213000 +0000" channel="iON TV">
-        <title>Searchlight</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250206213000 +0000" stop="20250206220000 +0000" channel="iON TV">
         <title>iON News Time</title>
