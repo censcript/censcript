@@ -12912,11 +12912,8 @@
     <programme start="20250205070000 +0000" stop="20250205090000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: WTA Abu Dhabi</title>
     </programme>
-    <programme start="20250205090000 +0000" stop="20250205130000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250205090000 +0000" stop="20250205150000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Day 3</title>
-    </programme>
-    <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="SkySpMainEvHD">
-        <title>Live: Good Morning Football</title>
     </programme>
     <programme start="20250205150000 +0000" stop="20250205190000 +0000" channel="SkySpMainEvHD">
         <title>Live SA20 Sunrisers EC v Joburg SK</title>
@@ -13497,11 +13494,11 @@
     <programme start="20250205123000 +0000" stop="20250205124500 +0000" channel="SkySp NFL HD">
         <title>NFL: Chiefs @ Broncos Hlts</title>
     </programme>
-    <programme start="20250205124500 +0000" stop="20250205130000 +0000" channel="SkySp NFL HD">
+    <programme start="20250205124500 +0000" stop="20250205130001 +0000" channel="SkySp NFL HD">
         <title>NFL: Chiefs @ Falcons Hlts</title>
     </programme>
-    <programme start="20250205130000 +0000" stop="20250205150000 +0000" channel="SkySp NFL HD">
-        <title>Live: Good Morning Football</title>
+    <programme start="20250205130001 +0000" stop="20250205150000 +0000" channel="SkySp NFL HD">
+        <title>NFL Super Bowl</title>
     </programme>
     <programme start="20250205150000 +0000" stop="20250205153000 +0000" channel="SkySp NFL HD">
         <title>Chiefs: The Franchise</title>
@@ -13524,11 +13521,11 @@
     <programme start="20250205173000 +0000" stop="20250205174500 +0000" channel="SkySp NFL HD">
         <title>NFL: Eagles @ Rams Hlts</title>
     </programme>
-    <programme start="20250205174500 +0000" stop="20250205180000 +0000" channel="SkySp NFL HD">
+    <programme start="20250205174500 +0000" stop="20250205180001 +0000" channel="SkySp NFL HD">
         <title>NFL: Commanders @ Eagles Hlts</title>
     </programme>
-    <programme start="20250205180000 +0000" stop="20250205200000 +0000" channel="SkySp NFL HD">
-        <title>NFL Super Bowl</title>
+    <programme start="20250205180001 +0000" stop="20250205200000 +0000" channel="SkySp NFL HD">
+        <title>Good Morning Football</title>
     </programme>
     <programme start="20250205200000 +0000" stop="20250205220000 +0000" channel="SkySp NFL HD">
         <title>Live NBC's Pro-Football Talk</title>
@@ -14320,7 +14317,7 @@
         <title>PL: United v Blackburn 10/11</title>
     </programme>
     <programme start="20250205134500 +0000" stop="20250205140000 +0000" channel="MUTV HD">
-        <title>Retro Shirts With Jonny Evans</title>
+        <title>New: Top 20 Cristiano Ronaldo Goals</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205154500 +0000" channel="MUTV HD">
         <title>PL: United v Newcastle 07/08</title>
@@ -15159,7 +15156,16 @@
     <programme start="20250205120000 +0000" stop="20250205123500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250205123500 +0000" stop="20250205193000 +0000" channel="BBC Parl HD">
+    <programme start="20250205123500 +0000" stop="20250205133000 +0000" channel="BBC Parl HD">
+        <title>Live Chagos Islands Urgent Question</title>
+    </programme>
+    <programme start="20250205133000 +0000" stop="20250205143000 +0000" channel="BBC Parl HD">
+        <title>Live English Devolution Statement</title>
+    </programme>
+    <programme start="20250205143000 +0000" stop="20250205153000 +0000" channel="BBC Parl HD">
+        <title>Live Southport Statement</title>
+    </programme>
+    <programme start="20250205153000 +0000" stop="20250205193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250205193000 +0000" stop="20250205220000 +0000" channel="BBC Parl HD">
@@ -16614,8 +16620,11 @@
     <programme start="20250205170000 +0000" stop="20250205173000 +0000" channel="TRT World">
         <title>News - London</title>
     </programme>
-    <programme start="20250205173000 +0000" stop="20250205180000 +0000" channel="TRT World">
-        <title>NexTech</title>
+    <programme start="20250205173000 +0000" stop="20250205174500 +0000" channel="TRT World">
+        <title>Focal Point: Türkiye Rebuilds</title>
+    </programme>
+    <programme start="20250205174500 +0000" stop="20250205180000 +0000" channel="TRT World">
+        <title>Documentary: The Disaster...</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205181500 +0000" channel="TRT World">
         <title>News - London</title>
@@ -16644,8 +16653,11 @@
     <programme start="20250205220000 +0000" stop="20250205223000 +0000" channel="TRT World">
         <title>News</title>
     </programme>
-    <programme start="20250205223000 +0000" stop="20250205230000 +0000" channel="TRT World">
-        <title>The Newsmakers</title>
+    <programme start="20250205223000 +0000" stop="20250205224500 +0000" channel="TRT World">
+        <title>Focal Point: Türkiye Rebuilds</title>
+    </programme>
+    <programme start="20250205224500 +0000" stop="20250205230000 +0000" channel="TRT World">
+        <title>Documentary: The Disaster...</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="TRT World">
         <title>News</title>
@@ -35664,8 +35676,11 @@
     <programme start="20250205170000 +0000" stop="20250205173000 +0000" channel="TRT World HD">
         <title>News - London</title>
     </programme>
-    <programme start="20250205173000 +0000" stop="20250205180000 +0000" channel="TRT World HD">
-        <title>NexTech</title>
+    <programme start="20250205173000 +0000" stop="20250205174500 +0000" channel="TRT World HD">
+        <title>Focal Point: Türkiye Rebuilds</title>
+    </programme>
+    <programme start="20250205174500 +0000" stop="20250205180000 +0000" channel="TRT World HD">
+        <title>Documentary: The Disaster...</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205181500 +0000" channel="TRT World HD">
         <title>News - London</title>
@@ -35694,8 +35709,11 @@
     <programme start="20250205220000 +0000" stop="20250205223000 +0000" channel="TRT World HD">
         <title>News</title>
     </programme>
-    <programme start="20250205223000 +0000" stop="20250205230000 +0000" channel="TRT World HD">
-        <title>The Newsmakers</title>
+    <programme start="20250205223000 +0000" stop="20250205224500 +0000" channel="TRT World HD">
+        <title>Focal Point: Türkiye Rebuilds</title>
+    </programme>
+    <programme start="20250205224500 +0000" stop="20250205230000 +0000" channel="TRT World HD">
+        <title>Documentary: The Disaster...</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="TRT World HD">
         <title>News</title>
