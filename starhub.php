@@ -30153,6 +30153,30 @@
     <programme start="20250209111000 +0000" stop="20250209130000 +0000" channel="Premier Sports.starhub">
         <title>Six Nations Italy v Wales</title>
     </programme>
+    <programme start="20250205160000 +0000" stop="20250205180000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
+    <programme start="20250205180000 +0000" stop="20250205190000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Golden Line</title>
+    </programme>
+    <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="TestChannel 993.starhub">
+        <title>Chop Chop Show</title>
+    </programme>
+    <programme start="20250205200000 +0000" stop="20250205210000 +0000" channel="TestChannel 993.starhub">
+        <title>Citizens&#039; Subjects</title>
+    </programme>
+    <programme start="20250205210000 +0000" stop="20250205220000 +0000" channel="TestChannel 993.starhub">
+        <title>Queen</title>
+    </programme>
+    <programme start="20250205220000 +0000" stop="20250205230000 +0000" channel="TestChannel 993.starhub">
+        <title>Global Focus</title>
+    </programme>
+    <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="TestChannel 993.starhub">
+        <title>All About Health</title>
+    </programme>
+    <programme start="20250206000000 +0000" stop="20250206010000 +0000" channel="TestChannel 993.starhub">
+        <title>Shao Kang&#039;s War Room</title>
+    </programme>
     <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Hub Sports 7.starhub">
         <title>End of Transmission</title>
     </programme>

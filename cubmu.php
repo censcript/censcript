@@ -304,13 +304,10 @@
         <title>Central Banking</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories 2024</title>
+        <title>First Class</title>
     </programme>
-    <programme start="20250205233000 +0000" stop="20250206000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Autobizz</title>
-    </programme>
-    <programme start="20250206000000 +0000" stop="20250206003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+    <programme start="20250205233000 +0000" stop="20250206003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Property Point</title>
     </programme>
     <programme start="20250206003000 +0000" stop="20250206010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
@@ -325,10 +322,10 @@
         <title>Power Lunch - Live</title>
     </programme>
     <programme start="20250206070000 +0000" stop="20250206073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
+        <title>CNBC Conversation</title>
     </programme>
     <programme start="20250206073000 +0000" stop="20250206080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+        <title>Focus On Infra</title>
     </programme>
     <programme start="20250206080000 +0000" stop="20250206100000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Closing Bell - Live</title>
@@ -337,13 +334,13 @@
         <title>Evening Up - Live</title>
     </programme>
     <programme start="20250206110500 +0000" stop="20250206120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Manufacture Check - Live</title>
+        <title>Nation Hub - Live</title>
     </programme>
     <programme start="20250206120000 +0000" stop="20250206123000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20250206123000 +0000" stop="20250206130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Ipo Watch</title>
+        <title>Energy Corner</title>
     </programme>
     <programme start="20250206130000 +0000" stop="20250206150000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Squawk Box</title>
@@ -667,10 +664,7 @@
         <title>Net. Series Prime: Antares S1</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250205170000 +0000" channel="NET TV.cubmu">
-        <title>Net. Sinema: Patriot The Movie - 1</title>
-    </programme>
-    <programme start="20250205170200 +0000" stop="20250205171430 +0000" channel="Cartoon TV Premium.cubmu">
-        <title>Om Nom Stories</title>
+        <title>Net Sinema: Dignitate</title>
     </programme>
     <programme start="20250205171430 +0000" stop="20250205172700 +0000" channel="Cartoon TV Premium.cubmu">
         <title>Karl</title>
@@ -1431,9 +1425,6 @@
     <programme start="20250206160000 +0000" stop="20250205174500 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250205170000 +0000" stop="20250205170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250205170500 +0000" stop="20250205173000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
     </programme>
@@ -1737,14 +1728,14 @@
     <programme start="20250205220000 +0000" stop="20250205223000 +0000" channel="ANTV.cubmu">
         <title>Senyum Iman</title>
     </programme>
-    <programme start="20250205223000 +0000" stop="20250206003000 +0000" channel="ANTV.cubmu">
+    <programme start="20250205223000 +0000" stop="20250206000000 +0000" channel="ANTV.cubmu">
         <title>Masha And The Bear</title>
     </programme>
-    <programme start="20250206003000 +0000" stop="20250206023000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Spesial : Si Jalu Dua Pendekar Putih</title>
+    <programme start="20250206000000 +0000" stop="20250206020000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Spesial : Tak Seindah Kasih Mama</title>
     </programme>
-    <programme start="20250206023000 +0000" stop="20250206060000 +0000" channel="ANTV.cubmu">
-        <title>Mega Bollywood : Baaghi 2</title>
+    <programme start="20250206020000 +0000" stop="20250206060000 +0000" channel="ANTV.cubmu">
+        <title>Mega Bollywood : Gadar Ek Prem Katha</title>
     </programme>
     <programme start="20250206060000 +0000" stop="20250206083000 +0000" channel="ANTV.cubmu">
         <title>Anupamaa</title>
@@ -1759,10 +1750,10 @@
         <title>Aini Malaikat Tak Bersayap</title>
     </programme>
     <programme start="20250206133000 +0000" stop="20250206150000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Spesial : Si Jalu Dua Pendekar Putih</title>
+        <title>Sinema Spesial : Malam Jumat Kliwon</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250205180000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Laga Klasik :Jaka Gledek</title>
+        <title>Sinema Laga Klasik : Jaka Gledek</title>
     </programme>
     <programme start="20250205170000 +0000" stop="20250205230000 +0000" channel="Jak tv.cubmu">
         <title>sign Off</title>
@@ -2165,12 +2156,6 @@
     </programme>
     <programme start="20250206163000 +0000" stop="20250205170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250205170000 +0000" stop="20250205170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
-    </programme>
-    <programme start="20250205170500 +0000" stop="20250205170800 +0000" channel="jtv.cubmu">
-        <title>Station ID JTV Versi Full</title>
     </programme>
     <programme start="20250205170800 +0000" stop="20250205180000 +0000" channel="jtv.cubmu">
         <title>Stasiun Dangdut</title>

@@ -2326,7 +2326,7 @@
         <title>Jersey Shore Family Vacation</title>
     </programme>
     <programme start="20250205223000 +0000" stop="20250205230000 +0000" channel="ComedyXtra">
-        <title>South Park</title>
+        <title>South Park: The Classic Years</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250205233000 +0000" channel="ComedyXtra">
         <title>South Park: The Classic Years</title>
