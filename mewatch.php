@@ -255,17 +255,14 @@
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="Channel 8.mewatch">
         <title>Another Wok of Life - EP 11</title>
     </programme>
-    <programme start="20250205140000 +0000" stop="20250205143000 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight - EP 311</title>
+    <programme start="20250205140000 +0000" stop="20250205144500 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight With Highlights From Parliament - EP 311</title>
     </programme>
-    <programme start="20250205143000 +0000" stop="20250205150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250205144500 +0000" stop="20250205151500 +0000" channel="Channel 8.mewatch">
         <title>Hermit Master - EP 4</title>
     </programme>
-    <programme start="20250205150000 +0000" stop="20250205160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250205151500 +0000" stop="20250205161500 +0000" channel="Channel 8.mewatch">
         <title>Fighting for Love - EP 30</title>
-    </programme>
-    <programme start="20250205160000 +0000" stop="20250205170000 +0000" channel="Channel 8.mewatch">
-        <title>The Blood of Youth - EP 22</title>
     </programme>
     <programme start="20250204154500 +0000" stop="20250204164000 +0000" channel="Channel U.mewatch">
         <title>Let&#039;s Go Check In - EP 10</title>

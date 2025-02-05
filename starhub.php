@@ -5173,12 +5173,12 @@
         <title>Kannur Squad</title>
     </programme>
     <programme start="20250205163500 +0000" stop="20250205191500 +0000" channel="Asianet Movies.starhub">
-        <title>Bichakaran 2</title>
+        <title>Pichaikkaran 2</title>
     </programme>
-    <programme start="20250205191500 +0000" stop="20250205211500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250205191500 +0000" stop="20250205211000 +0000" channel="Asianet Movies.starhub">
         <title>42217</title>
     </programme>
-    <programme start="20250205211500 +0000" stop="20250205233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250205211000 +0000" stop="20250205233000 +0000" channel="Asianet Movies.starhub">
         <title>9 (Nine)</title>
     </programme>
     <programme start="20250205233000 +0000" stop="20250206013000 +0000" channel="Asianet Movies.starhub">
@@ -6099,11 +6099,41 @@
     <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
+    <programme start="20250215040000 +0000" stop="20250215043000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Netbusters 2024/25</title>
     </programme>
-    <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Premier 2 (HD).starhub">
-        <title>End of Transmission</title>
+    <programme start="20250215043000 +0000" stop="20250215050000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250215050000 +0000" stop="20250215053000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Preview 2024/25 (Updated)</title>
+    </programme>
+    <programme start="20250215053000 +0000" stop="20250215073000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215073000 +0000" stop="20250215080000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>The Big Interview 2024/25</title>
+    </programme>
+    <programme start="20250215080000 +0000" stop="20250215085500 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Moments 2024/25</title>
+    </programme>
+    <programme start="20250215085500 +0000" stop="20250215092500 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Preview 2024/25 (Updated)</title>
+    </programme>
+    <programme start="20250215092500 +0000" stop="20250215112000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215112000 +0000" stop="20250215122000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Moments 2024/25</title>
+    </programme>
+    <programme start="20250215122000 +0000" stop="20250215142000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250215142000 +0000" stop="20250215145000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250215145000 +0000" stop="20250215170000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
     </programme>
     <programme start="20250203000000 +0000" stop="20250203010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 3</title>
@@ -27963,6 +27993,18 @@
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="tvN HD.starhub">
         <title>End Of Transmission</title>
     </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
     <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
@@ -32050,6 +32092,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214160000 +0000" stop="20250214220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250214220000 +0000" stop="20250215040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215040000 +0000" stop="20250215100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250202220000 +0000" stop="20250203040000 +0000" channel="Hub Sports 5 HD.starhub">

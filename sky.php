@@ -15123,26 +15123,26 @@
     <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250204225000 +0000" stop="20250204233000 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
-    </programme>
-    <programme start="20250204233000 +0000" stop="20250204234000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Introductions</title>
-    </programme>
-    <programme start="20250204234000 +0000" stop="20250204235000 +0000" channel="BBC Parl HD">
+    <programme start="20250204224500 +0000" stop="20250204230000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Women's Health Strategy</title>
     </programme>
-    <programme start="20250204235000 +0000" stop="20250205000000 +0000" channel="BBC Parl HD">
+    <programme start="20250204230000 +0000" stop="20250204231000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Avian Influenza</title>
     </programme>
-    <programme start="20250205000000 +0000" stop="20250205020000 +0000" channel="BBC Parl HD">
+    <programme start="20250204231000 +0000" stop="20250205011000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 1</title>
     </programme>
-    <programme start="20250205020000 +0000" stop="20250205040000 +0000" channel="BBC Parl HD">
+    <programme start="20250205011000 +0000" stop="20250205030500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250205040000 +0000" stop="20250205062500 +0000" channel="BBC Parl HD">
+    <programme start="20250205030500 +0000" stop="20250205041000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
+    </programme>
+    <programme start="20250205041000 +0000" stop="20250205042000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Introductions</title>
+    </programme>
+    <programme start="20250205042000 +0000" stop="20250205062500 +0000" channel="BBC Parl HD">
+        <title>Terminally Ill Adults (End of Life) Bill Committee</title>
     </programme>
     <programme start="20250205062500 +0000" stop="20250205073000 +0000" channel="BBC Parl HD">
         <title>Energy Security and Net Zero Questions</title>
@@ -30642,10 +30642,10 @@
     <programme start="20250205150900 +0000" stop="20250205151400 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250205151400 +0000" stop="20250205153000 +0000" channel="IQRA Bangla">
+    <programme start="20250205151400 +0000" stop="20250205153200 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250205153000 +0000" stop="20250205163000 +0000" channel="IQRA Bangla">
+    <programme start="20250205153200 +0000" stop="20250205163000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250205163000 +0000" stop="20250205170100 +0000" channel="IQRA Bangla">
@@ -30658,31 +30658,22 @@
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205183400 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
+        <title>Mon</title>
     </programme>
     <programme start="20250205183400 +0000" stop="20250205183900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250205183900 +0000" stop="20250205190000 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
-    </programme>
-    <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="IQRA Bangla">
-        <title>Dosh Diganta</title>
+    <programme start="20250205183900 +0000" stop="20250205200000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250205200000 +0000" stop="20250205203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250205203000 +0000" stop="20250205210000 +0000" channel="IQRA Bangla">
-        <title>Mon</title>
+    <programme start="20250205203000 +0000" stop="20250205230000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
-    <programme start="20250205210000 +0000" stop="20250205223000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250205223000 +0000" stop="20250205233000 +0000" channel="IQRA Bangla">
+    <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="IQRA Bangla">
         <title>Tafseer-Ul-Qur'an</title>
-    </programme>
-    <programme start="20250205233000 +0000" stop="20250206003000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250204223000 +0000" stop="20250204230000 +0000" channel="ATN">
         <title>Rehana</title>

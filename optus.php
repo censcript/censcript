@@ -6,7 +6,7 @@
     <programme start="20250205180000 +0000" stop="20250205183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Jose Antonio Reyes</title>
     </programme>
-    <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250205193500 +0000" stop="20250205225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bayer Leverkusen v Koln</title>
     </programme>
     <programme start="20250206133000 +0000" stop="20250206140000 +0000" channel="Optus Sport 11.optus">
@@ -15,7 +15,7 @@
     <programme start="20250207195000 +0000" stop="20250207231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Leicester City</title>
     </programme>
-    <programme start="20250208043000 +0000" stop="20250208074500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250208043000 +0000" stop="20250208074500 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Vissel Kobe v Sanfrecce</title>
     </programme>
     <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 2.optus">
