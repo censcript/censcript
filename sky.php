@@ -30495,13 +30495,7 @@
     <programme start="20250205055200 +0000" stop="20250205060000 +0000" channel="CHSTV">
         <title>Azan-E-Fajr</title>
     </programme>
-    <programme start="20250205060000 +0000" stop="20250205061900 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250205061900 +0000" stop="20250205062300 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250205062300 +0000" stop="20250205063000 +0000" channel="CHSTV">
+    <programme start="20250205060000 +0000" stop="20250205063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250205063000 +0000" stop="20250205070000 +0000" channel="CHSTV">
@@ -30526,16 +30520,16 @@
         <title>Talash</title>
     </programme>
     <programme start="20250205100000 +0000" stop="20250205110000 +0000" channel="CHSTV">
-        <title>Biye Kore Bipode</title>
+        <title>Alal Dulaler Ma</title>
     </programme>
-    <programme start="20250205110000 +0000" stop="20250205121500 +0000" channel="CHSTV">
-        <title>Chirokal Aaj</title>
+    <programme start="20250205110000 +0000" stop="20250205120000 +0000" channel="CHSTV">
+        <title>Bornomalar Michil</title>
     </programme>
-    <programme start="20250205121500 +0000" stop="20250205122000 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
+    <programme start="20250205120000 +0000" stop="20250205122000 +0000" channel="CHSTV">
+        <title>Arabi Kafela</title>
     </programme>
     <programme start="20250205122000 +0000" stop="20250205123000 +0000" channel="CHSTV">
-        <title>Chirokal Aaj</title>
+        <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250205123000 +0000" stop="20250205130000 +0000" channel="CHSTV">
         <title>Kingbodonti</title>
@@ -30546,41 +30540,56 @@
     <programme start="20250205133000 +0000" stop="20250205140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
     </programme>
-    <programme start="20250205140000 +0000" stop="20250205143500 +0000" channel="CHSTV">
+    <programme start="20250205140000 +0000" stop="20250205143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250205143500 +0000" stop="20250205144000 +0000" channel="CHSTV">
+    <programme start="20250205143000 +0000" stop="20250205150900 +0000" channel="CHSTV">
+        <title>Kohinoor Chairman</title>
+    </programme>
+    <programme start="20250205150900 +0000" stop="20250205151500 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250205144000 +0000" stop="20250205160000 +0000" channel="CHSTV">
-        <title>Shuvo Kamona</title>
+    <programme start="20250205151500 +0000" stop="20250205160000 +0000" channel="CHSTV">
+        <title>Kohinoor Chairman</title>
     </programme>
-    <programme start="20250205160000 +0000" stop="20250205162400 +0000" channel="CHSTV">
+    <programme start="20250205160000 +0000" stop="20250205163000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
     </programme>
-    <programme start="20250205162400 +0000" stop="20250205163000 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250205163000 +0000" stop="20250205170000 +0000" channel="CHSTV">
+    <programme start="20250205163000 +0000" stop="20250205170100 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250205170000 +0000" stop="20250205173000 +0000" channel="CHSTV">
+    <programme start="20250205170100 +0000" stop="20250205170700 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250205170700 +0000" stop="20250205183000 +0000" channel="CHSTV">
+        <title>Esho Quran Shikhi</title>
+    </programme>
+    <programme start="20250205183000 +0000" stop="20250205184000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250205173000 +0000" stop="20250205180100 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250205180100 +0000" stop="20250205180600 +0000" channel="CHSTV">
+    <programme start="20250205184000 +0000" stop="20250205184500 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250205180600 +0000" stop="20250205220000 +0000" channel="CHSTV">
-        <title>Charity Appeal</title>
+    <programme start="20250205184500 +0000" stop="20250205190000 +0000" channel="CHSTV">
+        <title>Orthoniti Sharadin</title>
+    </programme>
+    <programme start="20250205190000 +0000" stop="20250205193000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250205193000 +0000" stop="20250205200000 +0000" channel="CHSTV">
+        <title>Milon Hobe Kotodine</title>
+    </programme>
+    <programme start="20250205200000 +0000" stop="20250205213000 +0000" channel="CHSTV">
+        <title>On The Ground</title>
+    </programme>
+    <programme start="20250205213000 +0000" stop="20250205220000 +0000" channel="CHSTV">
+        <title>Amader Gram</title>
     </programme>
     <programme start="20250205220000 +0000" stop="20250205223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250205223000 +0000" stop="20250205233000 +0000" channel="CHSTV">
-        <title>Charity Appeal</title>
+        <title>Obhimot</title>
     </programme>
     <programme start="20250204203000 +0000" stop="20250204230000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
