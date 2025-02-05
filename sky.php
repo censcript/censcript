@@ -24733,7 +24733,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205150000 +0000" channel="QVC Beauty">
         <title>Beauty Heroes</title>
@@ -24742,7 +24742,7 @@
         <title>Percy &amp; Reed Hair Solutions</title>
     </programme>
     <programme start="20250205160000 +0000" stop="20250205170000 +0000" channel="QVC Beauty">
-        <title>Liz Earle Naturally Active</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250205170000 +0000" stop="20250205180000 +0000" channel="QVC Beauty">
         <title>Beauty Loves with Dyson Haircare</title>
@@ -24829,7 +24829,7 @@
         <title>The Wildlife Friendly Garden</title>
     </programme>
     <programme start="20250205190000 +0000" stop="20250205200000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>New Feel-Good Fashion</title>
     </programme>
     <programme start="20250205200000 +0000" stop="20250205210000 +0000" channel="QVC Style HD">
         <title>The Jewellery Box</title>
@@ -24841,7 +24841,7 @@
         <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250205230000 +0000" stop="20250206000000 +0000" channel="QVC Style HD">
-        <title>Season Perfect Style</title>
+        <title>Luxury Jewellery Gifts</title>
     </programme>
     <programme start="20250204220000 +0000" stop="20250204230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
