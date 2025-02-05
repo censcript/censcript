@@ -15054,11 +15054,8 @@
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News at One</title>
     </programme>
-    <programme start="20250205140000 +0000" stop="20250205143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250205140000 +0000" stop="20250205144500 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
-    </programme>
-    <programme start="20250205143000 +0000" stop="20250205144500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
     </programme>
     <programme start="20250205144500 +0000" stop="20250205150000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -24742,7 +24739,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250205130000 +0000" stop="20250205140000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250205140000 +0000" stop="20250205150000 +0000" channel="QVC Beauty">
         <title>Beauty Heroes</title>
@@ -25468,7 +25465,7 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250205170000 +0000" stop="20250205180000 +0000" channel="QVC Extra">
-        <title>Kitchen Deals with Ninja</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250205190000 +0000" channel="QVC Extra">
         <title>Spring Gardening Inspirations</title>
