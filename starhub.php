@@ -1957,7 +1957,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20250206040000 +0000" stop="20250206050000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX News @Night</title>
+        <title>Fox News @Night</title>
     </programme>
     <programme start="20250206050000 +0000" stop="20250206060000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -1975,22 +1975,22 @@
         <title>The Ingraham Angle</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206110000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends First</title>
+        <title>Fox &amp; Friends First</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206120000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20250206120000 +0000" stop="20250206130000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20250206130000 +0000" stop="20250206140000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206170000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>
@@ -1999,10 +1999,10 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20250206180000 +0000" stop="20250206190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
@@ -5154,31 +5154,31 @@
     <programme start="20250205211000 +0000" stop="20250205233000 +0000" channel="Asianet Movies.starhub">
         <title>9 (Nine)</title>
     </programme>
-    <programme start="20250205233000 +0000" stop="20250206013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250205233000 +0000" stop="20250206014000 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>
     </programme>
-    <programme start="20250206013000 +0000" stop="20250206043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206014000 +0000" stop="20250206042000 +0000" channel="Asianet Movies.starhub">
         <title>Marubhoomiyile Aana</title>
     </programme>
-    <programme start="20250206043000 +0000" stop="20250206073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206042000 +0000" stop="20250206073000 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20250206073000 +0000" stop="20250206103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206073000 +0000" stop="20250206104000 +0000" channel="Asianet Movies.starhub">
         <title>Baba Kalyani</title>
     </programme>
-    <programme start="20250206103000 +0000" stop="20250206133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206104000 +0000" stop="20250206133000 +0000" channel="Asianet Movies.starhub">
         <title>Varikkuzhiyile Kolapathakam</title>
     </programme>
     <programme start="20250206133000 +0000" stop="20250206163000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20250206163000 +0000" stop="20250206190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206163000 +0000" stop="20250206191000 +0000" channel="Asianet Movies.starhub">
         <title>Oppam</title>
     </programme>
-    <programme start="20250206190000 +0000" stop="20250206220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206191000 +0000" stop="20250206211000 +0000" channel="Asianet Movies.starhub">
         <title>Angel John</title>
     </programme>
-    <programme start="20250206220000 +0000" stop="20250206233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250206211000 +0000" stop="20250206233000 +0000" channel="Asianet Movies.starhub">
         <title>Viruman</title>
     </programme>
     <programme start="20250206233000 +0000" stop="20250207013000 +0000" channel="Asianet Movies.starhub">
@@ -5293,6 +5293,18 @@
         <title>Information Not Available</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250215163000 +0000" stop="20250215220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
     <programme start="20250204000000 +0000" stop="20250204010000 +0000" channel="HISTORY HD.starhub">
@@ -27298,22 +27310,22 @@
         <title>Breakfast</title>
     </programme>
     <programme start="20250206070000 +0000" stop="20250206073000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206073000 +0000" stop="20250206080000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206080000 +0000" stop="20250206083000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206083000 +0000" stop="20250206090000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206090000 +0000" stop="20250206093000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206093000 +0000" stop="20250206100000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast with Kay Burley</title>
+        <title>Breakfast</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206103000 +0000" channel="Sky News HD.starhub">
         <title>Sky News Today with Wilfred Frost</title>
@@ -28065,6 +28077,18 @@
     <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="tvN HD.starhub">
         <title>End Of Transmission</title>
     </programme>
+    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
     <programme start="20250203220000 +0000" stop="20250204040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
@@ -28204,6 +28228,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250215160000 +0000" stop="20250215220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250215220000 +0000" stop="20250216040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250216040000 +0000" stop="20250216100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250204000000 +0000" stop="20250204002200 +0000" channel="HBO Family HD.starhub">

@@ -30547,7 +30547,7 @@
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250206123000 +0000" stop="20250206140000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="IQRA Bangla">
         <title>Masnoon Dua</title>
@@ -30580,13 +30580,16 @@
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250206184100 +0000" stop="20250206200000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250206203000 +0000" stop="20250206213000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+    <programme start="20250206203000 +0000" stop="20250206230000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
+    </programme>
+    <programme start="20250206230000 +0000" stop="20250207000000 +0000" channel="IQRA Bangla">
+        <title>Jannater pothey</title>
     </programme>
     <programme start="20250205223000 +0000" stop="20250205230000 +0000" channel="ATN">
         <title>Rehana</title>
