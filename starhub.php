@@ -6573,9 +6573,6 @@
     <programme start="20250205173000 +0000" stop="20250205174000 +0000" channel="NHK World Premium HD.starhub">
         <title>Feeling English! Favorite Phrases Selected from Data</title>
     </programme>
-    <programme start="20250205174000 +0000" stop="20250205174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather (R)</title>
-    </programme>
     <programme start="20250205174500 +0000" stop="20250205175500 +0000" channel="NHK World Premium HD.starhub">
         <title>Go! Go! Cook R&#039;n</title>
     </programme>
@@ -6710,6 +6707,9 @@
     </programme>
     <programme start="20250206090000 +0000" stop="20250206091000 +0000" channel="NHK World Premium HD.starhub">
         <title>News (B)</title>
+    </programme>
+    <programme start="20250206091000 +0000" stop="20250206092500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kid&#039;s Discovery</title>
     </programme>
     <programme start="20250204235500 +0000" stop="20250205005500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>

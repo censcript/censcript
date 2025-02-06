@@ -1642,7 +1642,7 @@
         <title>Supermarket Sweep</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="ITV2 HD">
-        <title>Family Fortunes</title>
+        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="ITV2 HD">
         <title>Charmed</title>
@@ -1657,7 +1657,7 @@
         <title>Celebrity Catchphrase</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="ITV2 HD">
-        <title>Family Fortunes</title>
+        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="ITV2 HD">
         <title>New: Gordon Ramsay's Food Stars USA</title>
@@ -8188,7 +8188,7 @@
         <title>Supermarket Sweep</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="ITV2+1">
-        <title>Family Fortunes</title>
+        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206170000 +0000" channel="ITV2+1">
         <title>Charmed</title>
@@ -8203,7 +8203,7 @@
         <title>Celebrity Catchphrase</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="ITV2+1">
-        <title>Family Fortunes</title>
+        <title>Wheel of Fortune</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="ITV2+1">
         <title>New: Gordon Ramsay's Food Stars USA</title>
@@ -13138,7 +13138,7 @@
         <title>SA20 Sunrisers EC v Joburg SK Hlts</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206193000 +0000" channel="SkySpCricket HD">
-        <title>Live SA20 Qualifier 2</title>
+        <title>Live SA20: Paarl R v Sunrisers EC</title>
     </programme>
     <programme start="20250206193000 +0000" stop="20250206194500 +0000" channel="SkySpCricket HD">
         <title>The Best of The Big Bash League</title>
@@ -13153,7 +13153,7 @@
         <title>SA20 Sunrisers EC v Joburg SK Hlts</title>
     </programme>
     <programme start="20250206220000 +0000" stop="20250206230000 +0000" channel="SkySpCricket HD">
-        <title>SA20 Qualifier 2</title>
+        <title>SA20 Paarl R v Sunrisers EC Hlts</title>
     </programme>
     <programme start="20250206230000 +0000" stop="20250207000000 +0000" channel="SkySpCricket HD">
         <title>WPL'24: MI v DC Hlts</title>
@@ -24616,7 +24616,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206110000 +0000" channel="QVC Beauty">
-        <title>Health &amp; Fitness</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206120000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24646,7 +24646,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="QVC Beauty">
-        <title>Menopause Your Way</title>
+        <title>Aveda</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="QVC Beauty">
         <title>Beauty Heroes</title>
