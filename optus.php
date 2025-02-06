@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250206133000 +0000" stop="20250206140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Antoine Semenyo</title>
-    </programme>
     <programme start="20250207195000 +0000" stop="20250207231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Leicester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
+    </programme>
+    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Washington Spirit v Kansas City Current</title>
     </programme>
 </tv>
