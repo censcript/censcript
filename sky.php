@@ -14587,7 +14587,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="Racing TV">
         <title>Road To Cheltenham</title>
@@ -14599,7 +14599,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250206233000 +0000" stop="20250207003000 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250205180000 +0000" stop="20250206000000 +0000" channel="TNTSBoxOffHD">
         <title>...programmes coming soon</title>
@@ -24415,7 +24415,7 @@
         <title>Fresh New Fashion</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="QVC HD">
-        <title>Spring Gardening Solutions with SFIXX</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206170000 +0000" channel="QVC HD">
         <title>Independent Living</title>
@@ -24631,7 +24631,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250206100000 +0000" stop="20250206110000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Health &amp; Fitness</title>
     </programme>
     <programme start="20250206110000 +0000" stop="20250206120000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -25363,7 +25363,7 @@
         <title>Your Transitional Style Edit</title>
     </programme>
     <programme start="20250206140000 +0000" stop="20250206150000 +0000" channel="QVC Extra">
-        <title>Morning Style with Katy</title>
+        <title>Trending Now: Top Technology</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206160000 +0000" channel="QVC Extra">
         <title>Kitchen Deals with Eilidh</title>
@@ -25381,7 +25381,7 @@
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Rieker Footwear</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="QVC Extra">
         <title>New Kitchen Must Haves</title>
@@ -28867,7 +28867,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250206180000 +0000" stop="20250206190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Sarkar Ki Batain</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -35338,7 +35338,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="Racing TV HD">
         <title>Road To Cheltenham</title>
@@ -35350,7 +35350,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250206233000 +0000" stop="20250207003000 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250205223000 +0000" stop="20250205230000 +0000" channel="Sky News">
         <title>Press Preview</title>
