@@ -13972,10 +13972,10 @@
         <title>PL Darts Final:Littler v Humphries</title>
     </programme>
     <programme start="20250206184500 +0000" stop="20250206190000 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24' Highlights</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="SkySp Mix HD">
-        <title>Fight Night Int</title>
+        <title>Fight Night: Azim v Lipinets</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="SkySp Mix HD">
         <title>NFL NFC Championship Game</title>
@@ -27862,7 +27862,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250206110500 +0000" stop="20250206120000 +0000" channel="GEO News">
-        <title>Aaj Shazaib Khanzada Kay Saath</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250206120000 +0000" stop="20250206120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -35095,10 +35095,10 @@
         <title>PL Darts Final:Littler v Humphries</title>
     </programme>
     <programme start="20250206184500 +0000" stop="20250206190000 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24' Highlights</title>
     </programme>
     <programme start="20250206190000 +0000" stop="20250206200000 +0000" channel="SkySp Mix">
-        <title>Fight Night Int</title>
+        <title>Fight Night: Azim v Lipinets</title>
     </programme>
     <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="SkySp Mix">
         <title>NFL NFC Championship Game</title>
