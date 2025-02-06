@@ -15081,26 +15081,26 @@
     <programme start="20250207233000 +0000" stop="20250208003000 +0000" channel="BBC NEWS HD">
         <title>The President's Path</title>
     </programme>
-    <programme start="20250206204500 +0000" stop="20250206234500 +0000" channel="BBC Parl HD">
+    <programme start="20250206203000 +0000" stop="20250206233000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Creative Industries</title>
     </programme>
-    <programme start="20250206234500 +0000" stop="20250207004500 +0000" channel="BBC Parl HD">
+    <programme start="20250206233000 +0000" stop="20250207003000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Sewage Pollution</title>
     </programme>
-    <programme start="20250207004500 +0000" stop="20250207021500 +0000" channel="BBC Parl HD">
+    <programme start="20250207003000 +0000" stop="20250207023000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Lifelong Learning</title>
     </programme>
-    <programme start="20250207021500 +0000" stop="20250207024500 +0000" channel="BBC Parl HD">
+    <programme start="20250207023000 +0000" stop="20250207031000 +0000" channel="BBC Parl HD">
         <title>Environment, Food and Rural Affairs Questions</title>
     </programme>
-    <programme start="20250207024500 +0000" stop="20250207030500 +0000" channel="BBC Parl HD">
+    <programme start="20250207031000 +0000" stop="20250207033500 +0000" channel="BBC Parl HD">
         <title>Solicitor General Questions</title>
     </programme>
-    <programme start="20250207030500 +0000" stop="20250207040500 +0000" channel="BBC Parl HD">
+    <programme start="20250207033500 +0000" stop="20250207045000 +0000" channel="BBC Parl HD">
         <title>Commons Business Statement</title>
     </programme>
-    <programme start="20250207040500 +0000" stop="20250207070000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250207045000 +0000" stop="20250207070000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Affairs...</title>
     </programme>
     <programme start="20250207070000 +0000" stop="20250207100000 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
@@ -18135,23 +18135,11 @@
     <programme start="20250207003000 +0000" stop="20250207010000 +0000" channel="LoveWorld HD">
         <title>Songs of Zion</title>
     </programme>
-    <programme start="20250207010000 +0000" stop="20250207013000 +0000" channel="LoveWorld HD">
+    <programme start="20250207010000 +0000" stop="20250207040000 +0000" channel="LoveWorld HD">
         <title>Your Loveworld Specials with Pastor Chris S11 PH 2</title>
     </programme>
-    <programme start="20250207013000 +0000" stop="20250207020000 +0000" channel="LoveWorld HD">
-        <title>The Watchmen</title>
-    </programme>
-    <programme start="20250207020000 +0000" stop="20250207023000 +0000" channel="LoveWorld HD">
-        <title>Enter The Healing School</title>
-    </programme>
-    <programme start="20250207023000 +0000" stop="20250207040000 +0000" channel="LoveWorld HD">
-        <title>Rhapsody TV</title>
-    </programme>
-    <programme start="20250207040000 +0000" stop="20250207043000 +0000" channel="LoveWorld HD">
+    <programme start="20250207040000 +0000" stop="20250207050000 +0000" channel="LoveWorld HD">
         <title>Full Disclosure</title>
-    </programme>
-    <programme start="20250207043000 +0000" stop="20250207050000 +0000" channel="LoveWorld HD">
-        <title>Songs of Zion</title>
     </programme>
     <programme start="20250207050000 +0000" stop="20250207053000 +0000" channel="LoveWorld HD">
         <title>Songs of Zion</title>
