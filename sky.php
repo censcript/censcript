@@ -14550,11 +14550,17 @@
     <programme start="20250207093000 +0000" stop="20250207100000 +0000" channel="LFCTV HD">
         <title>Rush Scored Four</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207103000 +0000" channel="LFCTV HD">
+    <programme start="20250207100000 +0000" stop="20250207101000 +0000" channel="LFCTV HD">
+        <title>The RED Archive</title>
+    </programme>
+    <programme start="20250207101000 +0000" stop="20250207104500 +0000" channel="LFCTV HD">
+        <title>Live Press Conference</title>
+    </programme>
+    <programme start="20250207104500 +0000" stop="20250207110000 +0000" channel="LFCTV HD">
         <title>Goal Rush</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207113000 +0000" channel="LFCTV HD">
-        <title>Shankly's Second Coming</title>
+    <programme start="20250207110000 +0000" stop="20250207113000 +0000" channel="LFCTV HD">
+        <title>Goal Rush</title>
     </programme>
     <programme start="20250207113000 +0000" stop="20250207114500 +0000" channel="LFCTV HD">
         <title>Goal Rush</title>
@@ -18115,7 +18121,7 @@
         <title>Today with Marilyn and Sarah</title>
     </programme>
     <programme start="20250206223000 +0000" stop="20250206230000 +0000" channel="LoveWorld HD">
-        <title>The 700 Club</title>
+        <title>The Watchmen</title>
     </programme>
     <programme start="20250206230000 +0000" stop="20250206233000 +0000" channel="LoveWorld HD">
         <title>Today's Review</title>
@@ -18130,7 +18136,7 @@
         <title>Songs of Zion</title>
     </programme>
     <programme start="20250207010000 +0000" stop="20250207013000 +0000" channel="LoveWorld HD">
-        <title>Katalambano</title>
+        <title>Your Loveworld Specials with Pastor Chris S11 PH 2</title>
     </programme>
     <programme start="20250207013000 +0000" stop="20250207020000 +0000" channel="LoveWorld HD">
         <title>The Watchmen</title>
@@ -18142,7 +18148,7 @@
         <title>Rhapsody TV</title>
     </programme>
     <programme start="20250207040000 +0000" stop="20250207043000 +0000" channel="LoveWorld HD">
-        <title>Today on Rhapsody of Realities</title>
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250207043000 +0000" stop="20250207050000 +0000" channel="LoveWorld HD">
         <title>Songs of Zion</title>
