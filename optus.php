@@ -15,6 +15,9 @@
     <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Leyton Orient v Manchester City</title>
     </programme>
+    <programme start="20250208144500 +0000" stop="20250208180000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - FA Cup Goals Show</title>
+    </programme>
     <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Stoke v Cardiff City</title>
     </programme>
@@ -47,6 +50,9 @@
     </programme>
     <programme start="20250209172500 +0000" stop="20250209204500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Aston Villa v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250210191500 +0000" stop="20250210201500 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - FA Cup Fifth Round Draw</title>
     </programme>
     <programme start="20250210193500 +0000" stop="20250210225500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Doncaster v Crystal Palace</title>
@@ -293,11 +299,5 @@
     </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
-    </programme>
-    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Washington Spirit v Kansas City Current</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>
