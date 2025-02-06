@@ -24727,10 +24727,10 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="QVC Style HD">
-        <title>New Season Footwear</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250206220000 +0000" stop="20250206230000 +0000" channel="QVC Style HD">
-        <title>The Jewellery Box</title>
+        <title>All New Izabel London Fashion</title>
     </programme>
     <programme start="20250206230000 +0000" stop="20250207000000 +0000" channel="QVC Style HD">
         <title>Fashion for Any Weather</title>

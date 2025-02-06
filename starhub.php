@@ -6558,19 +6558,19 @@
     <programme start="20250205153000 +0000" stop="20250205161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Choices on How to Deal with Illness</title>
     </programme>
-    <programme start="20250205161500 +0000" stop="20250205164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250205162000 +0000" stop="20250205164500 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20250205164000 +0000" stop="20250205170500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250205164500 +0000" stop="20250205171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20250205170500 +0000" stop="20250205171000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250205171000 +0000" stop="20250205171500 +0000" channel="NHK World Premium HD.starhub">
         <title>Trip to the Origin of Japan</title>
     </programme>
-    <programme start="20250205171000 +0000" stop="20250205173000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250205171500 +0000" stop="20250205173500 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>
-    <programme start="20250205173000 +0000" stop="20250205174000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250205173500 +0000" stop="20250205174500 +0000" channel="NHK World Premium HD.starhub">
         <title>Feeling English! Favorite Phrases Selected from Data</title>
     </programme>
     <programme start="20250205174500 +0000" stop="20250205175500 +0000" channel="NHK World Premium HD.starhub">
@@ -12793,19 +12793,19 @@
         <title>Nadal Number 1 Story</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250206173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Turin Day 6 Doubles Bopana/Ebden v Krawietz/Puetz</title>
+        <title>Nitto ATP Finals 2024: Turin Day 6 Doubles Bopana/Ebden v Krawietz/Puetz</title>
     </programme>
     <programme start="20250206173000 +0000" stop="20250206183000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Rome</title>
     </programme>
     <programme start="20250206183000 +0000" stop="20250206203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Rotterdam Day 4 Match 4</title>
+        <title>ATP Tour 500 2025: Rotterdam Day 4 Alcaraz v Vavassori</title>
     </programme>
     <programme start="20250206203000 +0000" stop="20250206223000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Rotterdam Day 4 Match 5</title>
+        <title>ATP Tour 500 2025: Rotterdam Day 4 Rune v Martínez</title>
     </programme>
     <programme start="20250206223000 +0000" stop="20250207000000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Turin Day 6 Doubles Arevalo/Pavic v Bolelli/Vavassori</title>
+        <title>ATP Tour 500 2025 [Join in Progress]: Dallas Day 4 Ruud v Mmoh</title>
     </programme>
     <programme start="20250207000000 +0000" stop="20250207010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Jeddah - Next Gen ATP Finals</title>
@@ -14589,17 +14589,14 @@
     <programme start="20250206230000 +0000" stop="20250207023000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250207020000 +0000" stop="20250207050000 +0000" channel="SPOTV.starhub">
+    <programme start="20250207023000 +0000" stop="20250207053000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250207050000 +0000" stop="20250207070000 +0000" channel="SPOTV.starhub">
+    <programme start="20250207053000 +0000" stop="20250207073000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 19 Al Taawoun vs Al Ittihad</title>
     </programme>
-    <programme start="20250207070000 +0000" stop="20250207080000 +0000" channel="SPOTV.starhub">
+    <programme start="20250207073000 +0000" stop="20250207083000 +0000" channel="SPOTV.starhub">
         <title>Match Week 18</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="SPOTV.starhub">
-        <title>MotoGP 2024 Spotlight: Ducati Reflections</title>
     </programme>
     <programme start="20250207083000 +0000" stop="20250207103000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Adelaide Utd vs Melbourne City FC</title>
@@ -14685,10 +14682,10 @@
     <programme start="20250209055500 +0000" stop="20250209080000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Macarthur FC vs Western Utd FC</title>
     </programme>
-    <programme start="20250209080000 +0000" stop="20250209091500 +0000" channel="SPOTV.starhub">
+    <programme start="20250209080000 +0000" stop="20250209092500 +0000" channel="SPOTV.starhub">
         <title>Match Week 17</title>
     </programme>
-    <programme start="20250209091500 +0000" stop="20250209120000 +0000" channel="SPOTV.starhub">
+    <programme start="20250209092500 +0000" stop="20250209120000 +0000" channel="SPOTV.starhub">
         <title>2025 MotoGP Bangkok Launch</title>
     </programme>
     <programme start="20250209120000 +0000" stop="20250209130000 +0000" channel="SPOTV.starhub">
@@ -14709,17 +14706,17 @@
     <programme start="20250209183000 +0000" stop="20250209203000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Perth Glory vs Central Coast Mariners</title>
     </programme>
-    <programme start="20250209203000 +0000" stop="20250210070000 +0000" channel="SPOTV.starhub">
-        <title>Day 1</title>
-    </programme>
-    <programme start="20250210070000 +0000" stop="20250210090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250209203000 +0000" stop="20250209223000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Sydney FC vs Western Sydney Wanderers FC</title>
     </programme>
-    <programme start="20250210090000 +0000" stop="20250210103000 +0000" channel="SPOTV.starhub">
+    <programme start="20250209223000 +0000" stop="20250210000000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250210103000 +0000" stop="20250210120000 +0000" channel="SPOTV.starhub">
+    <programme start="20250210000000 +0000" stop="20250210013000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
+    </programme>
+    <programme start="20250210013000 +0000" stop="20250210120000 +0000" channel="SPOTV.starhub">
+        <title>Day 1</title>
     </programme>
     <programme start="20250210120000 +0000" stop="20250210140000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 19 Damac vs Al Hilal</title>
@@ -14730,29 +14727,26 @@
     <programme start="20250210160000 +0000" stop="20250210180000 +0000" channel="SPOTV.starhub">
         <title>2025 LOVB Inaugural Season Week 5: Austin vs Houston</title>
     </programme>
-    <programme start="20250210180000 +0000" stop="20250210210000 +0000" channel="SPOTV.starhub">
+    <programme start="20250210180000 +0000" stop="20250210213000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250210210000 +0000" stop="20250211073000 +0000" channel="SPOTV.starhub">
+    <programme start="20250210213000 +0000" stop="20250211080000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250211073000 +0000" stop="20250211093000 +0000" channel="SPOTV.starhub">
+    <programme start="20250211080000 +0000" stop="20250211100000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 Matchday 19 Al Taawoun vs Al Ittihad</title>
     </programme>
-    <programme start="20250211093000 +0000" stop="20250211113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250211100000 +0000" stop="20250211120000 +0000" channel="SPOTV.starhub">
         <title>2025 MotoGP Bangkok Launch</title>
     </programme>
-    <programme start="20250211113000 +0000" stop="20250211123000 +0000" channel="SPOTV.starhub">
+    <programme start="20250211120000 +0000" stop="20250211130000 +0000" channel="SPOTV.starhub">
         <title>Match Week 18</title>
     </programme>
-    <programme start="20250211123000 +0000" stop="20250211143000 +0000" channel="SPOTV.starhub">
+    <programme start="20250211130000 +0000" stop="20250211150000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Adelaide Utd vs Melbourne City FC</title>
     </programme>
-    <programme start="20250211143000 +0000" stop="20250211163000 +0000" channel="SPOTV.starhub">
+    <programme start="20250211150000 +0000" stop="20250211170000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Newcastle Jets vs Melbourne Victory</title>
-    </programme>
-    <programme start="20250211163000 +0000" stop="20250211170000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250211170000 +0000" stop="20250211180000 +0000" channel="SPOTV.starhub">
         <title>Match Week 18</title>
@@ -14810,6 +14804,12 @@
     </programme>
     <programme start="20250213193000 +0000" stop="20250213203000 +0000" channel="SPOTV.starhub">
         <title>Match Week 19</title>
+    </programme>
+    <programme start="20250213203000 +0000" stop="20250213210000 +0000" channel="SPOTV.starhub">
+        <title>MotoGP 2024 Spotlight: Brad Binder</title>
+    </programme>
+    <programme start="20250213210000 +0000" stop="20250214073000 +0000" channel="SPOTV.starhub">
+        <title>Day 5 Finals</title>
     </programme>
     <programme start="20250204233000 +0000" stop="20250205002000 +0000" channel="ONE HD.starhub">
         <title>Third Marriage</title>
