@@ -987,7 +987,13 @@
     <programme start="20250206160000 +0000" stop="20250207110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 7th February, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250205160000 +0000" stop="20250206160000 +0000" channel="Live 2.mewatch">
+    <programme start="20250205160000 +0000" stop="20250206120200 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 6th February, Thursday 8.02pm. Asean Club Championship Shopee Cup 2024/25: Kaya FC - Iloilo vs Lion City Sailors FC</title>
+    </programme>
+    <programme start="20250206120200 +0000" stop="20250206143000 +0000" channel="Live 2.mewatch">
+        <title>Asean Club Championship Shopee Cup 2024/25: Kaya FC - Iloilo vs Lion City Sailors FC</title>
+    </programme>
+    <programme start="20250206143000 +0000" stop="20250206160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 7th February, Friday 8.30pm. ONE Friday Fights 96</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250207123000 +0000" channel="Live 2.mewatch">
