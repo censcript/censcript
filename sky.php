@@ -37725,7 +37725,7 @@
     <programme start="20250207230500 +0000" stop="20250208000500 +0000" channel="BBC Two NI HD">
         <title>Free Solo</title>
     </programme>
-    <programme start="20250206212000 +0000" stop="20250206233000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250206214000 +0000" stop="20250206233000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250206233000 +0000" stop="20250207053000 +0000" channel="BBC RB 1 HD">
