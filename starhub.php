@@ -7515,10 +7515,10 @@
     <programme start="20250206130000 +0000" stop="20250206133000 +0000" channel="TVB Jade HD.starhub">
         <title>Our Graduation Ceremony</title>
     </programme>
-    <programme start="20250206133000 +0000" stop="20250206144000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250206133000 +0000" stop="20250206143000 +0000" channel="TVB Jade HD.starhub">
         <title>An Ancient Love Song</title>
     </programme>
-    <programme start="20250206144000 +0000" stop="20250206150000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250206143000 +0000" stop="20250206150000 +0000" channel="TVB Jade HD.starhub">
         <title>Feng Shui and Fortune</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206151500 +0000" channel="TVB Jade HD.starhub">
@@ -14586,7 +14586,7 @@
     <programme start="20250206210000 +0000" stop="20250206230000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 2024/25 Rd18 Wellington Phoenix vs Brisbane Roar FC</title>
     </programme>
-    <programme start="20250206230000 +0000" stop="20250207020000 +0000" channel="SPOTV.starhub">
+    <programme start="20250206230000 +0000" stop="20250207023000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20250207020000 +0000" stop="20250207050000 +0000" channel="SPOTV.starhub">
@@ -25626,25 +25626,25 @@
     <programme start="20250206152700 +0000" stop="20250206155500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250206155500 +0000" stop="20250206170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206155500 +0000" stop="20250206172900 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20250206170000 +0000" stop="20250206180000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206172900 +0000" stop="20250206182700 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250206180000 +0000" stop="20250206200000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206182700 +0000" stop="20250206195300 +0000" channel="Dragon TV.starhub">
         <title>Dream Home</title>
     </programme>
-    <programme start="20250206200000 +0000" stop="20250206210000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206195300 +0000" stop="20250206210800 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20250206210000 +0000" stop="20250206220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206210800 +0000" stop="20250206221000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20250206220000 +0000" stop="20250206223000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206221000 +0000" stop="20250206223500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20250206223000 +0000" stop="20250206230000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250206223500 +0000" stop="20250206230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20250206230000 +0000" stop="20250207010000 +0000" channel="Dragon TV.starhub">
@@ -29421,10 +29421,10 @@
     <programme start="20250206130000 +0000" stop="20250206133000 +0000" channel="TestChannel 996.starhub">
         <title>Our Graduation Ceremony</title>
     </programme>
-    <programme start="20250206133000 +0000" stop="20250206144000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250206133000 +0000" stop="20250206143000 +0000" channel="TestChannel 996.starhub">
         <title>An Ancient Love Song</title>
     </programme>
-    <programme start="20250206144000 +0000" stop="20250206150000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250206143000 +0000" stop="20250206150000 +0000" channel="TestChannel 996.starhub">
         <title>Feng Shui and Fortune</title>
     </programme>
     <programme start="20250206150000 +0000" stop="20250206151500 +0000" channel="TestChannel 996.starhub">
