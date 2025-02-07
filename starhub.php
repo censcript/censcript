@@ -6771,9 +6771,6 @@
     <programme start="20250207030000 +0000" stop="20250207032000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250207032000 +0000" stop="20250207033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Welcome to Special Zoo Tour 10min. (R)</title>
-    </programme>
     <programme start="20250207033000 +0000" stop="20250207034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Come Come Everybody&quot; Encore Eps. 55</title>
     </programme>
@@ -6824,6 +6821,9 @@
     </programme>
     <programme start="20250207083500 +0000" stop="20250207085900 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother</title>
+    </programme>
+    <programme start="20250207085900 +0000" stop="20250207090000 +0000" channel="NHK World Premium HD.starhub">
+        <title>1-Minute Anime: Songs for SDGs</title>
     </programme>
     <programme start="20250205235500 +0000" stop="20250206012500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S16)</title>
@@ -28306,6 +28306,18 @@
         <title>Preview Channel</title>
     </programme>
     <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250217160000 +0000" stop="20250217220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250217220000 +0000" stop="20250218040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250218040000 +0000" stop="20250218100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250218100000 +0000" stop="20250218160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
     <programme start="20250205234500 +0000" stop="20250206000700 +0000" channel="HBO Family HD.starhub">

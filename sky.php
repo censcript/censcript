@@ -36885,13 +36885,10 @@
     <programme start="20250208040000 +0000" stop="20250208060500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
-    <programme start="20250208060500 +0000" stop="20250208092000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250208060500 +0000" stop="20250208113000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
-    <programme start="20250208092000 +0000" stop="20250208103000 +0000" channel="BBC RB 1 HD">
-        <title>Alpine World Ski Championships: Women's Downhill</title>
-    </programme>
-    <programme start="20250208103000 +0000" stop="20250208143000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250208113000 +0000" stop="20250208143000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
     <programme start="20250208143000 +0000" stop="20250208173000 +0000" channel="BBC RB 1 HD">
@@ -37096,7 +37093,7 @@
         <title>This Classical Life</title>
     </programme>
     <programme start="20250208180000 +0000" stop="20250208213000 +0000" channel="BBC R3">
-        <title>Opera on 3 - Verdi's La Traviata</title>
+        <title>Opera on 3: Verdi's La Traviata</title>
     </programme>
     <programme start="20250208213000 +0000" stop="20250208223000 +0000" channel="BBC R3">
         <title>Music Planet</title>
