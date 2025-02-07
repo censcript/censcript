@@ -4809,11 +4809,8 @@
     <programme start="20250207180000 +0000" stop="20250207190000 +0000" channel="Sky Mix HD">
         <title>Star Trek: Deep Space Nine</title>
     </programme>
-    <programme start="20250207190000 +0000" stop="20250207220000 +0000" channel="Sky Mix HD">
+    <programme start="20250207190000 +0000" stop="20250207233000 +0000" channel="Sky Mix HD">
         <title>REPEAT PL DARTS: BELFAST</title>
-    </programme>
-    <programme start="20250207220000 +0000" stop="20250207233000 +0000" channel="Sky Mix HD">
-        <title>S.W.A.T.</title>
     </programme>
     <programme start="20250207233000 +0000" stop="20250208003000 +0000" channel="Sky Mix HD">
         <title>New: Twisted Killers</title>
@@ -7578,8 +7575,11 @@
     <programme start="20250207193000 +0000" stop="20250207200000 +0000" channel="SkyShowcase+1">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250207200000 +0000" stop="20250207203000 +0000" channel="SkyShowcase+1">
+    <programme start="20250207200000 +0000" stop="20250207200001 +0000" channel="SkyShowcase+1">
         <title>The Simpsons</title>
+    </programme>
+    <programme start="20250207200001 +0000" stop="20250207203000 +0000" channel="SkyShowcase+1">
+        <title>PL Darts: Belfast</title>
     </programme>
     <programme start="20250207203000 +0000" stop="20250207210000 +0000" channel="SkyShowcase+1">
         <title>The Simpsons</title>
@@ -15108,20 +15108,23 @@
     <programme start="20250207095000 +0000" stop="20250207100000 +0000" channel="BBC Parl HD">
         <title>Ten Minute Rule Bill - Water Safety</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207150000 +0000" channel="BBC Parl HD">
+    <programme start="20250207100000 +0000" stop="20250207135500 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207154000 +0000" channel="BBC Parl HD">
+    <programme start="20250207135500 +0000" stop="20250207143500 +0000" channel="BBC Parl HD">
         <title>House of Lords - UK Economy Statement</title>
     </programme>
-    <programme start="20250207154000 +0000" stop="20250207164000 +0000" channel="BBC Parl HD">
+    <programme start="20250207143500 +0000" stop="20250207153500 +0000" channel="BBC Parl HD">
         <title>House of Lords - First-Time Investors Debate</title>
     </programme>
-    <programme start="20250207164000 +0000" stop="20250207170000 +0000" channel="BBC Parl HD">
+    <programme start="20250207153500 +0000" stop="20250207155500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Southport Attack Statement</title>
     </programme>
-    <programme start="20250207170000 +0000" stop="20250207180000 +0000" channel="BBC Parl HD">
+    <programme start="20250207155500 +0000" stop="20250207165500 +0000" channel="BBC Parl HD">
         <title>Middle East Urgent Question</title>
+    </programme>
+    <programme start="20250207165500 +0000" stop="20250207180000 +0000" channel="BBC Parl HD">
+        <title>House of Commons - Work and Pensions Questions</title>
     </programme>
     <programme start="20250207180000 +0000" stop="20250207202000 +0000" channel="BBC Parl HD">
         <title>Business and Trade Committee on 'Rip-off Britain'</title>
@@ -15132,14 +15135,17 @@
     <programme start="20250207210000 +0000" stop="20250207215000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250207215000 +0000" stop="20250207220500 +0000" channel="BBC Parl HD">
+    <programme start="20250207215000 +0000" stop="20250207221000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Topical Questions</title>
     </programme>
-    <programme start="20250207220500 +0000" stop="20250207222500 +0000" channel="BBC Parl HD">
+    <programme start="20250207221000 +0000" stop="20250207223000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - General Questions</title>
     </programme>
-    <programme start="20250207222500 +0000" stop="20250207232500 +0000" channel="BBC Parl HD">
+    <programme start="20250207223000 +0000" stop="20250207230000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament -...</title>
+    </programme>
+    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Child...</title>
     </programme>
     <programme start="20250206223000 +0000" stop="20250206233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -28117,7 +28123,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250207150500 +0000" stop="20250207160000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>News</title>
     </programme>
     <programme start="20250207160000 +0000" stop="20250207160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -29902,7 +29908,7 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250207193000 +0000" stop="20250207200000 +0000" channel="Sikh Channel">
-        <title>SC Pakistan Yatra</title>
+        <title>Anand Karaj</title>
     </programme>
     <programme start="20250207200000 +0000" stop="20250207203000 +0000" channel="Sikh Channel">
         <title>Delhi Election Exit Poll 2025</title>
@@ -30675,11 +30681,8 @@
     <programme start="20250207200000 +0000" stop="20250207203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250207203000 +0000" stop="20250207230000 +0000" channel="IQRA Bangla">
+    <programme start="20250207203000 +0000" stop="20250207213000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250206220000 +0000" stop="20250207000000 +0000" channel="ATN">
         <title>Charity Appeal</title>
