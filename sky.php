@@ -15132,8 +15132,11 @@
     <programme start="20250207202000 +0000" stop="20250207210000 +0000" channel="BBC Parl HD">
         <title>Environment, Food and Rural Affairs Questions</title>
     </programme>
-    <programme start="20250207210000 +0000" stop="20250207220500 +0000" channel="BBC Parl HD">
+    <programme start="20250207210000 +0000" stop="20250207215000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
+    </programme>
+    <programme start="20250207215000 +0000" stop="20250207220500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Topical Questions</title>
     </programme>
     <programme start="20250207220500 +0000" stop="20250207222500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - General Questions</title>
@@ -15451,7 +15454,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250207073000 +0000" stop="20250207080000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Japanese Chefs' Wine Odyssey</title>
     </programme>
     <programme start="20250207080000 +0000" stop="20250207081500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15511,7 +15514,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Japanese Chefs' Wine Odyssey</title>
     </programme>
     <programme start="20250207140000 +0000" stop="20250207141500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15520,7 +15523,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Stoking the Fire of Hope</title>
     </programme>
     <programme start="20250207150000 +0000" stop="20250207151500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15568,7 +15571,7 @@
         <title>Medical Frontiers</title>
     </programme>
     <programme start="20250207193000 +0000" stop="20250207200000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Japanese Chefs' Wine Odyssey</title>
     </programme>
     <programme start="20250207200000 +0000" stop="20250207201800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15577,7 +15580,7 @@
         <title>Newsline Biz</title>
     </programme>
     <programme start="20250207203000 +0000" stop="20250207210000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Stoking the Fire of Hope</title>
     </programme>
     <programme start="20250207210000 +0000" stop="20250207211800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -38593,7 +38596,7 @@
         <title>Radio Wales Drive</title>
     </programme>
     <programme start="20250207183000 +0000" stop="20250207190000 +0000" channel="BBC R Wales">
-        <title>Radio Wales Arts Show</title>
+        <title>Weigh, Hey and up She Rises</title>
     </programme>
     <programme start="20250207190000 +0000" stop="20250207200000 +0000" channel="BBC R Wales">
         <title>Molly Palmer's 70s Playlist</title>

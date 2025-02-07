@@ -4984,7 +4984,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250207003000 +0000" stop="20250207010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany&#039;s conservatives: Closer to Merkel or Trump?</title>
     </programme>
     <programme start="20250207010000 +0000" stop="20250207011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5038,7 +5038,7 @@
         <title>News</title>
     </programme>
     <programme start="20250207073000 +0000" stop="20250207080000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany&#039;s conservatives: Closer to Merkel or Trump?</title>
     </programme>
     <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5062,7 +5062,7 @@
         <title>News</title>
     </programme>
     <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany&#039;s conservatives: Closer to Merkel or Trump?</title>
     </programme>
     <programme start="20250207120000 +0000" stop="20250207121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5074,7 +5074,7 @@
         <title>News</title>
     </programme>
     <programme start="20250207131500 +0000" stop="20250207133000 +0000" channel="DW English HD.starhub">
-        <title>How Did the GDR State Security Operate? We find out in Berlin!</title>
+        <title>Bernd Lange, EU Parliament Trade Committee Chairman</title>
     </programme>
     <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="DW English HD.starhub">
         <title>Look me in the eyes!</title>
@@ -5089,7 +5089,7 @@
         <title>News</title>
     </programme>
     <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany&#039;s conservatives: Closer to Merkel or Trump?</title>
     </programme>
     <programme start="20250207160000 +0000" stop="20250207161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
