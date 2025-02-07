@@ -13260,11 +13260,8 @@
     <programme start="20250207040000 +0000" stop="20250207050000 +0000" channel="SkySp Golf HD">
         <title>Phoenix Open 2017 Highlights</title>
     </programme>
-    <programme start="20250207050000 +0000" stop="20250207053000 +0000" channel="SkySp Golf HD">
+    <programme start="20250207050000 +0000" stop="20250207060000 +0000" channel="SkySp Golf HD">
         <title>Golf Academy: Sorenstam Putting</title>
-    </programme>
-    <programme start="20250207053000 +0000" stop="20250207060000 +0000" channel="SkySp Golf HD">
-        <title>Golf Academy</title>
     </programme>
     <programme start="20250207060000 +0000" stop="20250207090000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
@@ -30519,13 +30516,7 @@
     <programme start="20250207055400 +0000" stop="20250207060000 +0000" channel="CHSTV">
         <title>Islamic Gaan</title>
     </programme>
-    <programme start="20250207060000 +0000" stop="20250207061800 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250207061800 +0000" stop="20250207062200 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250207062200 +0000" stop="20250207063000 +0000" channel="CHSTV">
+    <programme start="20250207060000 +0000" stop="20250207063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250207063000 +0000" stop="20250207070000 +0000" channel="CHSTV">
@@ -30549,11 +30540,8 @@
     <programme start="20250207093000 +0000" stop="20250207110000 +0000" channel="CHSTV">
         <title>Amar Gao</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207121600 +0000" channel="CHSTV">
+    <programme start="20250207110000 +0000" stop="20250207122000 +0000" channel="CHSTV">
         <title>Legal Advice</title>
-    </programme>
-    <programme start="20250207121600 +0000" stop="20250207122000 +0000" channel="CHSTV">
-        <title>Azan-E-Juma</title>
     </programme>
     <programme start="20250207122000 +0000" stop="20250207123000 +0000" channel="CHSTV">
         <title>Legal Advice</title>
@@ -30567,32 +30555,14 @@
     <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207143800 +0000" channel="CHSTV">
+    <programme start="20250207140000 +0000" stop="20250207160000 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250207143800 +0000" stop="20250207144300 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250207144300 +0000" stop="20250207160000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207162800 +0000" channel="CHSTV">
+    <programme start="20250207160000 +0000" stop="20250207173000 +0000" channel="CHSTV">
         <title>Obhimot</title>
     </programme>
-    <programme start="20250207162800 +0000" stop="20250207163400 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250207163400 +0000" stop="20250207173000 +0000" channel="CHSTV">
-        <title>Obhimot</title>
-    </programme>
-    <programme start="20250207173000 +0000" stop="20250207180500 +0000" channel="CHSTV">
+    <programme start="20250207173000 +0000" stop="20250207220000 +0000" channel="CHSTV">
         <title>Independent News</title>
-    </programme>
-    <programme start="20250207180500 +0000" stop="20250207181000 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250207181000 +0000" stop="20250207220000 +0000" channel="CHSTV">
-        <title>Charity Appeal</title>
     </programme>
     <programme start="20250207220000 +0000" stop="20250207223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
