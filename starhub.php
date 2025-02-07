@@ -5155,7 +5155,7 @@
         <title>Viruman</title>
     </programme>
     <programme start="20250206233000 +0000" stop="20250207013000 +0000" channel="Asianet Movies.starhub">
-        <title>Aabhasam</title>
+        <title>Aabhaasam</title>
     </programme>
     <programme start="20250207013000 +0000" stop="20250207043000 +0000" channel="Asianet Movies.starhub">
         <title>Thiruvambadi Thampan</title>
@@ -5178,8 +5178,11 @@
     <programme start="20250207190000 +0000" stop="20250207220000 +0000" channel="Asianet Movies.starhub">
         <title>Ali Bhai</title>
     </programme>
-    <programme start="20250207220000 +0000" stop="20250208010000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250207220000 +0000" stop="20250207233000 +0000" channel="Asianet Movies.starhub">
         <title>Happy Husbands</title>
+    </programme>
+    <programme start="20250207233000 +0000" stop="20250208013000 +0000" channel="Asianet Movies.starhub">
+        <title>The Kungfu Master</title>
     </programme>
     <programme start="20250208010000 +0000" stop="20250208013000 +0000" channel="Asianet Movies.starhub">
         <title>Play Back</title>
@@ -6122,6 +6125,48 @@
     </programme>
     <programme start="20250216155000 +0000" stop="20250216162000 +0000" channel="Hub Premier 2 (HD).starhub">
         <title>The Big Interview 2024/25</title>
+    </programme>
+    <programme start="20250216162000 +0000" stop="20250216183000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216183000 +0000" stop="20250216190000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250216190000 +0000" stop="20250216210000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216210000 +0000" stop="20250216230000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250216230000 +0000" stop="20250217010000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217010000 +0000" stop="20250217030000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217030000 +0000" stop="20250217050000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217050000 +0000" stop="20250217070000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217070000 +0000" stop="20250217090000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217090000 +0000" stop="20250217110000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217110000 +0000" stop="20250217113000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>PL Stories 2024/25</title>
+    </programme>
+    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>The Big Interview 2024/25</title>
+    </programme>
+    <programme start="20250217120000 +0000" stop="20250217140000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
+    </programme>
+    <programme start="20250217140000 +0000" stop="20250217160000 +0000" channel="Hub Premier 2 (HD).starhub">
+        <title>Premier League 2024/25</title>
     </programme>
     <programme start="20250205000000 +0000" stop="20250205003000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1235</title>
@@ -28050,6 +28095,18 @@
     <programme start="20250216100000 +0000" stop="20250216160000 +0000" channel="tvN HD.starhub">
         <title>End Of Transmission</title>
     </programme>
+    <programme start="20250216160000 +0000" stop="20250216220000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250216220000 +0000" stop="20250217040000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="tvN HD.starhub">
+        <title>End Of Transmission</title>
+    </programme>
     <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
@@ -31549,6 +31606,21 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250216100000 +0000" stop="20250216162000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216162000 +0000" stop="20250216183000 +0000" channel="Hub Premier 8.starhub">
+        <title>Premier League 2024/25 (Data Zone)</title>
+    </programme>
+    <programme start="20250216183000 +0000" stop="20250216220000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250216220000 +0000" stop="20250217040000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217040000 +0000" stop="20250217100000 +0000" channel="Hub Premier 8.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217160000 +0000" channel="Hub Premier 8.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250204220000 +0000" stop="20250205040000 +0000" channel="Hub Premier 6.starhub">

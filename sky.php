@@ -20166,11 +20166,8 @@
     <programme start="20250207185000 +0000" stop="20250207185500 +0000" channel="CBBC HD">
         <title>Sketchy Comedy</title>
     </programme>
-    <programme start="20250207185500 +0000" stop="20250207185800 +0000" channel="CBBC HD">
+    <programme start="20250207185500 +0000" stop="20250207195500 +0000" channel="CBBC HD">
         <title>Theodosia</title>
-    </programme>
-    <programme start="20250207185800 +0000" stop="20250207195800 +0000" channel="CBBC HD">
-        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250206185800 +0000" stop="20250207005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -30691,13 +30688,16 @@
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250207184100 +0000" stop="20250207200000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250207200000 +0000" stop="20250207203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250207203000 +0000" stop="20250207213000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+    <programme start="20250207203000 +0000" stop="20250207230000 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
+    </programme>
+    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="IQRA Bangla">
+        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250206220000 +0000" stop="20250207000000 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -30726,13 +30726,7 @@
     <programme start="20250207055400 +0000" stop="20250207060000 +0000" channel="ATN">
         <title>Islamer Batighor</title>
     </programme>
-    <programme start="20250207060000 +0000" stop="20250207061800 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250207061800 +0000" stop="20250207062300 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250207062300 +0000" stop="20250207070000 +0000" channel="ATN">
+    <programme start="20250207060000 +0000" stop="20250207070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250207070000 +0000" stop="20250207073000 +0000" channel="ATN">
@@ -30742,7 +30736,7 @@
         <title>Islamer Pothe</title>
     </programme>
     <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="ATN">
-        <title>Darkaak</title>
+        <title>Bhabchi Boshe Tomai</title>
     </programme>
     <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
@@ -30753,13 +30747,13 @@
     <programme start="20250207100000 +0000" stop="20250207103000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207115000 +0000" channel="ATN">
+    <programme start="20250207103000 +0000" stop="20250207114500 +0000" channel="ATN">
         <title>Quranic Discussion</title>
     </programme>
-    <programme start="20250207115000 +0000" stop="20250207120000 +0000" channel="ATN">
+    <programme start="20250207114500 +0000" stop="20250207115000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207122000 +0000" channel="ATN">
+    <programme start="20250207115000 +0000" stop="20250207122000 +0000" channel="ATN">
         <title>Jummah Barer Programme</title>
     </programme>
     <programme start="20250207122000 +0000" stop="20250207122500 +0000" channel="ATN">
@@ -30768,50 +30762,50 @@
     <programme start="20250207122500 +0000" stop="20250207140000 +0000" channel="ATN">
         <title>Jummah Barer Programme</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207141800 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250207141800 +0000" stop="20250207142300 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250207142300 +0000" stop="20250207143000 +0000" channel="ATN">
+    <programme start="20250207140000 +0000" stop="20250207143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
+        <title>Jummah Barer Programme</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
+    <programme start="20250207150000 +0000" stop="20250207151500 +0000" channel="ATN">
+        <title>ATN Archive</title>
+    </programme>
+    <programme start="20250207151500 +0000" stop="20250207152000 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250207152000 +0000" stop="20250207153000 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="ATN">
         <title>Sornali Sadakalo</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207162800 +0000" channel="ATN">
+    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250207162800 +0000" stop="20250207163300 +0000" channel="ATN">
+    <programme start="20250207170000 +0000" stop="20250207170400 +0000" channel="ATN">
+        <title>Shimana Chariye</title>
+    </programme>
+    <programme start="20250207170400 +0000" stop="20250207170900 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250207163300 +0000" stop="20250207170000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250207170000 +0000" stop="20250207173000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
+    <programme start="20250207170900 +0000" stop="20250207173000 +0000" channel="ATN">
+        <title>Shimana Chariye</title>
     </programme>
     <programme start="20250207173000 +0000" stop="20250207180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250207180000 +0000" stop="20250207180500 +0000" channel="ATN">
+    <programme start="20250207180000 +0000" stop="20250207183600 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250207180500 +0000" stop="20250207181000 +0000" channel="ATN">
+    <programme start="20250207183600 +0000" stop="20250207184100 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250207181000 +0000" stop="20250207190000 +0000" channel="ATN">
+    <programme start="20250207184100 +0000" stop="20250207190000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250207190000 +0000" stop="20250207193000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250207193000 +0000" stop="20250207200000 +0000" channel="ATN">
         <title>Art &amp; Craft</title>
@@ -30820,7 +30814,7 @@
         <title>Showbiz World</title>
     </programme>
     <programme start="20250207203000 +0000" stop="20250207213000 +0000" channel="ATN">
-        <title>Bower Bari</title>
+        <title>Mon doria</title>
     </programme>
     <programme start="20250207213000 +0000" stop="20250207220000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30832,7 +30826,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="ATN">
-        <title>Raja Rani Badsha</title>
+        <title>Boss Number One</title>
     </programme>
     <programme start="20250206223000 +0000" stop="20250206230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
