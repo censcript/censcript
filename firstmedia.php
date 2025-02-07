@@ -1,1251 +1,1233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250207143000 +0000" stop="20250207153000 +0000" channel="MNC News.firstmedia">
-        <title>One On One</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Files</title>
-    </programme>
-    <programme start="20250207163000 +0000" stop="20250207170000 +0000" channel="MNC News.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="MNC News.firstmedia">
         <title>OMG</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="MNC News.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="MNC News.firstmedia">
+        <title>Top Issue</title>
+    </programme>
+    <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="MNC News.firstmedia">
         <title>Special Report</title>
     </programme>
-    <programme start="20250207093000 +0000" stop="20250207110000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Sore</title>
+    <programme start="20250208163000 +0000" stop="20250208170000 +0000" channel="MNC News.firstmedia">
+        <title>Special Report</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207133000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Prime</title>
+    <programme start="20250208143000 +0000" stop="20250208153000 +0000" channel="MNC News.firstmedia">
+        <title>iNews Room Weekend</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207163000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Files</title>
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="MNC News.firstmedia">
+        <title>Inside Story</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207143000 +0000" channel="MNC News.firstmedia">
+    <programme start="20250208133000 +0000" stop="20250208143000 +0000" channel="MNC News.firstmedia">
         <title>SINDO Malam</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208153000 +0000" stop="20250208163000 +0000" channel="MNC News.firstmedia">
+        <title>Top Issue</title>
+    </programme>
+    <programme start="20250208093000 +0000" stop="20250208110000 +0000" channel="MNC News.firstmedia">
+        <title>SINDO Sore</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Al Quran Al Kareem.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
     </programme>
-    <programme start="20250207144000 +0000" stop="20250207164500 +0000" channel="AXN.firstmedia">
-        <title>Bad Boys: Ride Or Die</title>
-    </programme>
-    <programme start="20250207134500 +0000" stop="20250207144000 +0000" channel="AXN.firstmedia">
-        <title>FBI: International (Season 2)</title>
-    </programme>
-    <programme start="20250207115500 +0000" stop="20250207125000 +0000" channel="AXN.firstmedia">
-        <title>CSI: Vegas (Season 3)</title>
-    </programme>
-    <programme start="20250207125000 +0000" stop="20250207134500 +0000" channel="AXN.firstmedia">
-        <title>FBI (Season 5)</title>
-    </programme>
-    <programme start="20250207164500 +0000" stop="20250207174000 +0000" channel="AXN.firstmedia">
-        <title>FBI: International (Season 2)</title>
-    </programme>
-    <programme start="20250207091000 +0000" stop="20250207100500 +0000" channel="AXN.firstmedia">
-        <title>Alex Rider (Season 2)</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207115500 +0000" channel="AXN.firstmedia">
-        <title>The Blacklist (Season 10)</title>
-    </programme>
-    <programme start="20250207100500 +0000" stop="20250207110000 +0000" channel="AXN.firstmedia">
+    <programme start="20250208125000 +0000" stop="20250208134500 +0000" channel="AXN.firstmedia">
         <title>Elsbeth (Season 1)</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="Animax.firstmedia">
-        <title>The Faraway Paladin</title>
+    <programme start="20250208120000 +0000" stop="20250208125000 +0000" channel="AXN.firstmedia">
+        <title>NCIS: Origins (Season 1)</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="Animax.firstmedia">
-        <title>The Faraway Paladin</title>
+    <programme start="20250208095000 +0000" stop="20250208104000 +0000" channel="AXN.firstmedia">
+        <title>S.W.A.T. (Season 8)</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207143000 +0000" channel="Animax.firstmedia">
-        <title>Animax TBC Title</title>
+    <programme start="20250208134500 +0000" stop="20250208144000 +0000" channel="AXN.firstmedia">
+        <title>S.W.A.T. (Season 8)</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207110000 +0000" channel="Animax.firstmedia">
+    <programme start="20250208104000 +0000" stop="20250208120000 +0000" channel="AXN.firstmedia">
+        <title>The Summit (Season 1)</title>
+    </programme>
+    <programme start="20250208144000 +0000" stop="20250208153500 +0000" channel="AXN.firstmedia">
+        <title>The Rookie (Season 7)</title>
+    </programme>
+    <programme start="20250208153500 +0000" stop="20250208180500 +0000" channel="AXN.firstmedia">
+        <title>The Equalizer</title>
+    </programme>
+    <programme start="20250208145400 +0000" stop="20250208152200 +0000" channel="Animax.firstmedia">
         <title>Gintama Season 2</title>
     </programme>
-    <programme start="20250207123000 +0000" stop="20250207130000 +0000" channel="Animax.firstmedia">
-        <title>Konosuba -God&#039;S Blessing On This Wonderful World!</title>
+    <programme start="20250208095800 +0000" stop="20250208102600 +0000" channel="Animax.firstmedia">
+        <title>Wind Breaker</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207163000 +0000" channel="Animax.firstmedia">
-        <title>Konosuba -God&#039;S Blessing On This Wonderful World!</title>
+    <programme start="20250208082600 +0000" stop="20250208085400 +0000" channel="Animax.firstmedia">
+        <title>Shadows House - Season 2</title>
     </programme>
-    <programme start="20250207093000 +0000" stop="20250207100000 +0000" channel="Animax.firstmedia">
-        <title>Animax TBC Title</title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207123000 +0000" channel="Animax.firstmedia">
-        <title>Konosuba -God&#039;S Blessing On This Wonderful World!</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207113000 +0000" channel="Animax.firstmedia">
-        <title>The Faraway Paladin</title>
-    </programme>
-    <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="Animax.firstmedia">
-        <title>The Faraway Paladin</title>
-    </programme>
-    <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="Animax.firstmedia">
+    <programme start="20250208133000 +0000" stop="20250208135800 +0000" channel="Animax.firstmedia">
         <title>Gintama Season 2</title>
     </programme>
-    <programme start="20250207163000 +0000" stop="20250207170000 +0000" channel="Animax.firstmedia">
-        <title>Konosuba -God&#039;S Blessing On This Wonderful World!</title>
+    <programme start="20250208163000 +0000" stop="20250208170000 +0000" channel="Animax.firstmedia">
+        <title>Golden Kamuy</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="Animax.firstmedia">
+    <programme start="20250208102600 +0000" stop="20250208110000 +0000" channel="Animax.firstmedia">
+        <title>Wind Breaker</title>
+    </programme>
+    <programme start="20250208142600 +0000" stop="20250208145400 +0000" channel="Animax.firstmedia">
         <title>Gintama Season 2</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="Animax.firstmedia">
-        <title>Animax TBC Title</title>
+    <programme start="20250208093000 +0000" stop="20250208095800 +0000" channel="Animax.firstmedia">
+        <title>Wind Breaker</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="Animax.firstmedia">
-        <title>The Day I Became A God</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207133000 +0000" channel="Animax.firstmedia">
-        <title>The Faraway Paladin</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207103000 +0000" channel="Animax.firstmedia">
+    <programme start="20250208135800 +0000" stop="20250208142600 +0000" channel="Animax.firstmedia">
         <title>Gintama Season 2</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="Animax.firstmedia">
+    <programme start="20250208085400 +0000" stop="20250208093000 +0000" channel="Animax.firstmedia">
+        <title>Shadows House - Season 2</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208112800 +0000" channel="Animax.firstmedia">
         <title>The Faraway Paladin</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207131500 +0000" channel="GTV.firstmedia">
+    <programme start="20250208152200 +0000" stop="20250208160000 +0000" channel="Animax.firstmedia">
+        <title>Gintama Season 2</title>
+    </programme>
+    <programme start="20250208112800 +0000" stop="20250208120000 +0000" channel="Animax.firstmedia">
+        <title>The Faraway Paladin</title>
+    </programme>
+    <programme start="20250208125600 +0000" stop="20250208133000 +0000" channel="Animax.firstmedia">
+        <title>Ragna Crimson</title>
+    </programme>
+    <programme start="20250208120000 +0000" stop="20250208122800 +0000" channel="Animax.firstmedia">
+        <title>Ragna Crimson</title>
+    </programme>
+    <programme start="20250208122800 +0000" stop="20250208125600 +0000" channel="Animax.firstmedia">
+        <title>Ragna Crimson</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208163000 +0000" channel="Animax.firstmedia">
+        <title>Golden Kamuy</title>
+    </programme>
+    <programme start="20250208093000 +0000" stop="20250208110000 +0000" channel="GTV.firstmedia">
+        <title>Big Movies Platinum Family</title>
+    </programme>
+    <programme start="20250208120000 +0000" stop="20250208131500 +0000" channel="GTV.firstmedia">
         <title>100% Cuan</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207153000 +0000" channel="GTV.firstmedia">
-        <title>Indiana Jones &amp; Kingdom Of...</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207093000 +0000" channel="GTV.firstmedia">
-        <title>Nobita Dan Labirin Kaleng</title>
-    </programme>
-    <programme start="20250207093000 +0000" stop="20250207110000 +0000" channel="GTV.firstmedia">
-        <title>Nobita Robot Kingdom</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="GTV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="GTV.firstmedia">
         <title>Teka-Teki Kata</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207170000 +0000" channel="GTV.firstmedia">
-        <title>Revolver</title>
-    </programme>
-    <programme start="20250207131500 +0000" stop="20250207133000 +0000" channel="GTV.firstmedia">
+    <programme start="20250208131500 +0000" stop="20250208133000 +0000" channel="GTV.firstmedia">
         <title>KV +62</title>
     </programme>
-    <programme start="20250207125500 +0000" stop="20250207150000 +0000" channel="Rock Action.firstmedia">
+    <programme start="20250208153000 +0000" stop="20250208170000 +0000" channel="GTV.firstmedia">
+        <title>Bad Boys 2</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208093000 +0000" channel="GTV.firstmedia">
+        <title>SpongeBob SquarePants Movie</title>
+    </programme>
+    <programme start="20250208133000 +0000" stop="20250208153000 +0000" channel="GTV.firstmedia">
+        <title>Minority Report</title>
+    </programme>
+    <programme start="20250208125500 +0000" stop="20250208144500 +0000" channel="Rock Action.firstmedia">
+        <title>The Karate Kid: Part II</title>
+    </programme>
+    <programme start="20250208105500 +0000" stop="20250208125500 +0000" channel="Rock Action.firstmedia">
         <title>The Karate Kid</title>
     </programme>
-    <programme start="20250207091500 +0000" stop="20250207110000 +0000" channel="Rock Action.firstmedia">
+    <programme start="20250208092500 +0000" stop="20250208105500 +0000" channel="Rock Action.firstmedia">
+        <title>Seattle Superstorm</title>
+    </programme>
+    <programme start="20250208161500 +0000" stop="20250208180000 +0000" channel="Rock Action.firstmedia">
         <title>Rango</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207172000 +0000" channel="Rock Action.firstmedia">
-        <title>The Ninth Gate</title>
+    <programme start="20250208144500 +0000" stop="20250208161500 +0000" channel="Rock Action.firstmedia">
+        <title>Peacock</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207125500 +0000" channel="Rock Action.firstmedia">
-        <title>S.W.A.T.</title>
+    <programme start="20250208113500 +0000" stop="20250208120500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Recipe Lost And Found (S1)</title>
     </programme>
-    <programme start="20250207082500 +0000" stop="20250207101500 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>The Great Food Truck Race (S16)</title>
+    <programme start="20250208135500 +0000" stop="20250208154500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>90 Day Fiance: Happily Ever After? (S7)</title>
     </programme>
-    <programme start="20250207111000 +0000" stop="20250207120500 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Buddy Vs. Duff (S1)</title>
+    <programme start="20250208082500 +0000" stop="20250208092000 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>The Culpo Sisters (S1)</title>
     </programme>
-    <programme start="20250207164000 +0000" stop="20250207173500 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Winner Cake All (S1)</title>
+    <programme start="20250208132500 +0000" stop="20250208135500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Recipe Lost And Found (S1)</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207142000 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>The Bachelor Indonesia (S1)</title>
-    </programme>
-    <programme start="20250207101500 +0000" stop="20250207104000 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Girl Meets Farm (S7)</title>
-    </programme>
-    <programme start="20250207142000 +0000" stop="20250207145000 +0000" channel="The Learning Channel - TLC.firstmedia">
+    <programme start="20250208104000 +0000" stop="20250208111000 +0000" channel="The Learning Channel - TLC.firstmedia">
         <title>Love At First Swipe (S1)</title>
     </programme>
-    <programme start="20250207104000 +0000" stop="20250207111000 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Girl Meets Farm (S7)</title>
+    <programme start="20250208111000 +0000" stop="20250208113500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Hot Dish With Franco (S1)</title>
     </programme>
-    <programme start="20250207154500 +0000" stop="20250207164000 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Married To Real Estate (S2)</title>
+    <programme start="20250208164000 +0000" stop="20250208170500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Star Vs Food (S1)</title>
     </programme>
-    <programme start="20250207120500 +0000" stop="20250207130000 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Married To Real Estate (S2)</title>
+    <programme start="20250208120500 +0000" stop="20250208132500 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Last Bite Hotel (S1)</title>
     </programme>
-    <programme start="20250207145000 +0000" stop="20250207154500 +0000" channel="The Learning Channel - TLC.firstmedia">
-        <title>Love &amp; Translation (S1)</title>
+    <programme start="20250208092000 +0000" stop="20250208104000 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>The Bachelor Indonesia (S1)</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Just Eat (S1)</title>
+    <programme start="20250208154500 +0000" stop="20250208164000 +0000" channel="The Learning Channel - TLC.firstmedia">
+        <title>Dr. Pimple Popper: Pop UPS (S4)</title>
     </programme>
-    <programme start="20250207123000 +0000" stop="20250207130000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Streets With Dan Hong (S1)</title>
-    </programme>
-    <programme start="20250207165500 +0000" stop="20250207172000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Foodprints (S1)</title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207123000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Streets With Dan Hong (S1)</title>
-    </programme>
-    <programme start="20250207162500 +0000" stop="20250207165500 +0000" channel="Asian Food Network.firstmedia">
-        <title>Wok The World - SEA (S1)</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Good Chef Bad Chef (S13)</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Asian Food Network.firstmedia">
-        <title>A Taste Of Festival (S1)</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Travel With Mommy (S1)</title>
-    </programme>
-    <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="Asian Food Network.firstmedia">
-        <title>The Cook Up With Adam Liaw (S2)</title>
-    </programme>
-    <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Good Chef Bad Chef (S13)</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207162500 +0000" channel="Asian Food Network.firstmedia">
-        <title>Wok The World - SEA (S1)</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Asian Food Network.firstmedia">
-        <title>Just Eat (S1)</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Asian Food Network.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Asian Food Network.firstmedia">
         <title>Old Taste Detective (S5)</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207143000 +0000" channel="Asian Food Network.firstmedia">
+    <programme start="20250208162500 +0000" stop="20250208165500 +0000" channel="Asian Food Network.firstmedia">
+        <title>Makan Kakis - Heritage Edition (S1)</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208162500 +0000" channel="Asian Food Network.firstmedia">
+        <title>Makan Kakis - Heritage Edition (S1)</title>
+    </programme>
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Paradise Kitchen Bali (S1)</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Every Bite Takes You Home (S1)</title>
+    </programme>
+    <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Streets With Dan Hong (S1)</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Travel With Mommy (S1)</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Good Chef Bad Chef (S13)</title>
+    </programme>
+    <programme start="20250208133000 +0000" stop="20250208140000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Every Bite Takes You Home (S1)</title>
+    </programme>
+    <programme start="20250208103000 +0000" stop="20250208110000 +0000" channel="Asian Food Network.firstmedia">
         <title>The Cook Up With Adam Liaw (S2)</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207132500 +0000" channel="Discovery Channel.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Ranch To Table (S4)</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Paradise Kitchen Bali (S1)</title>
+    </programme>
+    <programme start="20250208093000 +0000" stop="20250208100000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Streets With Dan Hong (S1)</title>
+    </programme>
+    <programme start="20250208143000 +0000" stop="20250208150000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Ranch To Table (S4)</title>
+    </programme>
+    <programme start="20250208165500 +0000" stop="20250208172000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Family Dinner (S3)</title>
+    </programme>
+    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="Asian Food Network.firstmedia">
+        <title>Good Chef Bad Chef (S13)</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208103000 +0000" channel="Asian Food Network.firstmedia">
+        <title>The Cook Up With Adam Liaw (S2)</title>
+    </programme>
+    <programme start="20250208094500 +0000" stop="20250208101500 +0000" channel="Discovery Channel.firstmedia">
+        <title>Road Rage (S1)</title>
+    </programme>
+    <programme start="20250208154500 +0000" stop="20250208164000 +0000" channel="Discovery Channel.firstmedia">
+        <title>The Curious Case of Natalia Grace S3_The Final Chapter (S3)</title>
+    </programme>
+    <programme start="20250208092000 +0000" stop="20250208094500 +0000" channel="Discovery Channel.firstmedia">
+        <title>Road Rage (S1)</title>
+    </programme>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="Discovery Channel.firstmedia">
         <title>Caught! (Magilla) (S2)</title>
     </programme>
-    <programme start="20250207120500 +0000" stop="20250207130000 +0000" channel="Discovery Channel.firstmedia">
+    <programme start="20250208082500 +0000" stop="20250208092000 +0000" channel="Discovery Channel.firstmedia">
+        <title>Marooned With Ed Stafford (S3)</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208135500 +0000" channel="Discovery Channel.firstmedia">
+        <title>Expedition Files (S1)</title>
+    </programme>
+    <programme start="20250208111000 +0000" stop="20250208120500 +0000" channel="Discovery Channel.firstmedia">
         <title>Bering Sea Gold (S13)</title>
     </programme>
-    <programme start="20250207135500 +0000" stop="20250207142000 +0000" channel="Discovery Channel.firstmedia">
-        <title>Road Rage (S1)</title>
+    <programme start="20250208145000 +0000" stop="20250208154500 +0000" channel="Discovery Channel.firstmedia">
+        <title>Marooned With Ed Stafford (S3)</title>
     </programme>
-    <programme start="20250207111000 +0000" stop="20250207120500 +0000" channel="Discovery Channel.firstmedia">
-        <title>Alien Sharks Ghosts Of Japan</title>
+    <programme start="20250208101500 +0000" stop="20250208111000 +0000" channel="Discovery Channel.firstmedia">
+        <title>Ed Stafford: Into The Unknown (S1)</title>
     </programme>
-    <programme start="20250207145000 +0000" stop="20250207164000 +0000" channel="Discovery Channel.firstmedia">
-        <title>Homicide Hunter: American Detective (S3)</title>
+    <programme start="20250208164000 +0000" stop="20250208173500 +0000" channel="Discovery Channel.firstmedia">
+        <title>Ghost Adventures (S18)</title>
     </programme>
-    <programme start="20250207092000 +0000" stop="20250207101500 +0000" channel="Discovery Channel.firstmedia">
-        <title>Hoffman Family Gold  (Season 1b) (S1)</title>
-    </programme>
-    <programme start="20250207142000 +0000" stop="20250207145000 +0000" channel="Discovery Channel.firstmedia">
-        <title>Road Rage (S1)</title>
-    </programme>
-    <programme start="20250207082500 +0000" stop="20250207092000 +0000" channel="Discovery Channel.firstmedia">
-        <title>Hoffman Family Gold  (Season 1b) (S1)</title>
-    </programme>
-    <programme start="20250207101500 +0000" stop="20250207111000 +0000" channel="Discovery Channel.firstmedia">
-        <title>Hoffman Family Gold (S2)</title>
-    </programme>
-    <programme start="20250207164000 +0000" stop="20250207170500 +0000" channel="Discovery Channel.firstmedia">
+    <programme start="20250208120500 +0000" stop="20250208123000 +0000" channel="Discovery Channel.firstmedia">
         <title>Caught! (Magilla) (S2)</title>
     </programme>
-    <programme start="20250207132500 +0000" stop="20250207135500 +0000" channel="Discovery Channel.firstmedia">
-        <title>Caught! (Magilla) (S2)</title>
+    <programme start="20250208135500 +0000" stop="20250208145000 +0000" channel="Discovery Channel.firstmedia">
+        <title>Expedition Unknown (S9)</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Animal Planet.firstmedia">
-        <title>Dinosaur With Stephen Fry (S1)</title>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="Animal Planet.firstmedia">
+        <title>Coyote Peterson: Brave The Wild (S1)</title>
     </programme>
-    <programme start="20250207165000 +0000" stop="20250207174500 +0000" channel="Animal Planet.firstmedia">
-        <title>Predators Up Close With Joel Lambert (S1)</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Animal Planet.firstmedia">
-        <title>Wild Wild Bunch (S1)</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Animal Planet.firstmedia">
+    <programme start="20250208155500 +0000" stop="20250208165000 +0000" channel="Animal Planet.firstmedia">
         <title>Wild Australia (S1)</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207113000 +0000" channel="Animal Planet.firstmedia">
-        <title>How Do Animals Do That? (S1)</title>
+    <programme start="20250208081000 +0000" stop="20250208090500 +0000" channel="Animal Planet.firstmedia">
+        <title>Dogs: The Untold Story (S1)</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207155500 +0000" channel="Animal Planet.firstmedia">
-        <title>Wild Costa Rica</title>
-    </programme>
-    <programme start="20250207162200 +0000" stop="20250207165000 +0000" channel="Animal Planet.firstmedia">
-        <title>How Do Animals Do That? (S1)</title>
-    </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Animal Planet.firstmedia">
+    <programme start="20250208165000 +0000" stop="20250208174500 +0000" channel="Animal Planet.firstmedia">
         <title>Dog Detectives (S1)</title>
     </programme>
-    <programme start="20250207155500 +0000" stop="20250207162200 +0000" channel="Animal Planet.firstmedia">
-        <title>How Do Animals Do That? (S1)</title>
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Animal Planet.firstmedia">
+        <title>Deadly By Nature (S1)</title>
     </programme>
-    <programme start="20250207090500 +0000" stop="20250207100000 +0000" channel="Animal Planet.firstmedia">
-        <title>Predators Up Close With Joel Lambert (S1)</title>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Animal Planet.firstmedia">
+        <title>Mekong: Soul Of A River (S1)</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="Animal Planet.firstmedia">
-        <title>How Do Animals Do That? (S1)</title>
+    <programme start="20250208090500 +0000" stop="20250208100000 +0000" channel="Animal Planet.firstmedia">
+        <title>Nature&#039;s Greatest Talents (S1)</title>
     </programme>
-    <programme start="20250207081000 +0000" stop="20250207090500 +0000" channel="Animal Planet.firstmedia">
-        <title>Wild Australia (S1)</title>
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Animal Planet.firstmedia">
+        <title>Lone Star Law (S7)</title>
     </programme>
-    <programme start="20250207165500 +0000" stop="20250207172000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208123000 +0000" channel="Animal Planet.firstmedia">
+        <title>Night (S1)</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208155500 +0000" channel="Animal Planet.firstmedia">
+        <title>Wild Frank In Australia (S1)</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Animal Planet.firstmedia">
+        <title>Dinosaur With Stephen Fry (S1)</title>
+    </programme>
+    <programme start="20250208112500 +0000" stop="20250208114500 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208093500 +0000" stop="20250208094000 +0000" channel="Nick jr..firstmedia">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250208155000 +0000" stop="20250208160000 +0000" channel="Nick jr..firstmedia">
+        <title>Baby Shark&#039;s Big Show!</title>
+    </programme>
+    <programme start="20250208094000 +0000" stop="20250208094500 +0000" channel="Nick jr..firstmedia">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250208092000 +0000" stop="20250208092500 +0000" channel="Nick jr..firstmedia">
+        <title>Sharkdog</title>
+    </programme>
+    <programme start="20250208095000 +0000" stop="20250208095500 +0000" channel="Nick jr..firstmedia">
+        <title>Peppa Pig</title>
+    </programme>
+    <programme start="20250208092500 +0000" stop="20250208093500 +0000" channel="Nick jr..firstmedia">
+        <title>Sharkdog</title>
+    </programme>
+    <programme start="20250208125500 +0000" stop="20250208131500 +0000" channel="Nick jr..firstmedia">
+        <title>BARBAPAPA - One Big Happy Family!</title>
+    </programme>
+    <programme start="20250208081500 +0000" stop="20250208083500 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208162000 +0000" stop="20250208164500 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208142500 +0000" channel="Nick jr..firstmedia">
         <title>DORA</title>
     </programme>
-    <programme start="20250207094500 +0000" stop="20250207095000 +0000" channel="Nick jr..firstmedia">
-        <title>Peppa Pig</title>
+    <programme start="20250208160000 +0000" stop="20250208162000 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250207092500 +0000" stop="20250207093500 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208123000 +0000" stop="20250208125500 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208091000 +0000" stop="20250208092000 +0000" channel="Nick jr..firstmedia">
         <title>Sharkdog</title>
     </programme>
-    <programme start="20250207123000 +0000" stop="20250207125500 +0000" channel="Nick jr..firstmedia">
-        <title>Baby Shark&#039;s Big Show!</title>
-    </programme>
-    <programme start="20250207101500 +0000" stop="20250207104000 +0000" channel="Nick jr..firstmedia">
-        <title>BARBAPAPA - One Big Happy Family!</title>
-    </programme>
-    <programme start="20250207142500 +0000" stop="20250207144500 +0000" channel="Nick jr..firstmedia">
-        <title>Blaze and the Monster Machines</title>
-    </programme>
-    <programme start="20250207092000 +0000" stop="20250207092500 +0000" channel="Nick jr..firstmedia">
-        <title>Sharkdog</title>
-    </programme>
-    <programme start="20250207121000 +0000" stop="20250207123000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208112500 +0000" channel="Nick jr..firstmedia">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250207125500 +0000" stop="20250207131500 +0000" channel="Nick jr..firstmedia">
-        <title>BARBAPAPA - One Big Happy Family!</title>
-    </programme>
-    <programme start="20250207093500 +0000" stop="20250207094000 +0000" channel="Nick jr..firstmedia">
-        <title>Peppa Pig</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207162000 +0000" channel="Nick jr..firstmedia">
-        <title>PAW Patrol</title>
-    </programme>
-    <programme start="20250207155000 +0000" stop="20250207160000 +0000" channel="Nick jr..firstmedia">
-        <title>Baby Shark&#039;s Big Show!</title>
-    </programme>
-    <programme start="20250207115000 +0000" stop="20250207121000 +0000" channel="Nick jr..firstmedia">
-        <title>PAW Patrol</title>
-    </programme>
-    <programme start="20250207080500 +0000" stop="20250207083000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208134000 +0000" stop="20250208140000 +0000" channel="Nick jr..firstmedia">
         <title>Rubble &amp; Crew</title>
     </programme>
-    <programme start="20250207104000 +0000" stop="20250207110000 +0000" channel="Nick jr..firstmedia">
-        <title>BARBAPAPA - One Big Happy Family!</title>
-    </programme>
-    <programme start="20250207094000 +0000" stop="20250207094500 +0000" channel="Nick jr..firstmedia">
-        <title>Peppa Pig</title>
-    </programme>
-    <programme start="20250207153000 +0000" stop="20250207155000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208091000 +0000" channel="Nick jr..firstmedia">
         <title>Baby Shark&#039;s Big Show!</title>
     </programme>
-    <programme start="20250207162000 +0000" stop="20250207163000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208164500 +0000" stop="20250208170500 +0000" channel="Nick jr..firstmedia">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250207152000 +0000" stop="20250207153000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208095500 +0000" stop="20250208101500 +0000" channel="Nick jr..firstmedia">
+        <title>The Tiny Chef Show</title>
+    </programme>
+    <programme start="20250208150500 +0000" stop="20250208151500 +0000" channel="Nick jr..firstmedia">
         <title>Sharkdog</title>
     </programme>
-    <programme start="20250207151500 +0000" stop="20250207152000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208083500 +0000" stop="20250208090000 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208151500 +0000" stop="20250208152000 +0000" channel="Nick jr..firstmedia">
         <title>Sharkdog</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207112500 +0000" channel="Nick jr..firstmedia">
-        <title>Blaze and the Monster Machines</title>
-    </programme>
-    <programme start="20250207150500 +0000" stop="20250207151500 +0000" channel="Nick jr..firstmedia">
-        <title>Sharkdog</title>
-    </programme>
-    <programme start="20250207131500 +0000" stop="20250207134000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208131500 +0000" stop="20250208134000 +0000" channel="Nick jr..firstmedia">
         <title>The Adventures of Paddington</title>
     </programme>
-    <programme start="20250207095000 +0000" stop="20250207095500 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208104000 +0000" stop="20250208110000 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208094500 +0000" stop="20250208095000 +0000" channel="Nick jr..firstmedia">
         <title>Peppa Pig</title>
     </programme>
-    <programme start="20250207095500 +0000" stop="20250207101500 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208121000 +0000" stop="20250208123000 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
+    </programme>
+    <programme start="20250208144500 +0000" stop="20250208150500 +0000" channel="Nick jr..firstmedia">
         <title>The Tiny Chef Show</title>
     </programme>
-    <programme start="20250207083000 +0000" stop="20250207085000 +0000" channel="Nick jr..firstmedia">
-        <title>DORA</title>
-    </programme>
-    <programme start="20250207134000 +0000" stop="20250207140000 +0000" channel="Nick jr..firstmedia">
-        <title>Rubble &amp; Crew</title>
-    </programme>
-    <programme start="20250207091000 +0000" stop="20250207092000 +0000" channel="Nick jr..firstmedia">
-        <title>Sharkdog</title>
-    </programme>
-    <programme start="20250207163000 +0000" stop="20250207165500 +0000" channel="Nick jr..firstmedia">
-        <title>Rubble &amp; Crew</title>
-    </programme>
-    <programme start="20250207085000 +0000" stop="20250207091000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208153000 +0000" stop="20250208155000 +0000" channel="Nick jr..firstmedia">
         <title>Baby Shark&#039;s Big Show!</title>
     </programme>
-    <programme start="20250207112500 +0000" stop="20250207115000 +0000" channel="Nick jr..firstmedia">
+    <programme start="20250208142500 +0000" stop="20250208144500 +0000" channel="Nick jr..firstmedia">
         <title>Blaze and the Monster Machines</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207142500 +0000" channel="Nick jr..firstmedia">
-        <title>DORA</title>
+    <programme start="20250208114500 +0000" stop="20250208121000 +0000" channel="Nick jr..firstmedia">
+        <title>PAW Patrol</title>
     </programme>
-    <programme start="20250207144500 +0000" stop="20250207150500 +0000" channel="Nick jr..firstmedia">
-        <title>The Tiny Chef Show</title>
+    <programme start="20250208152000 +0000" stop="20250208153000 +0000" channel="Nick jr..firstmedia">
+        <title>Sharkdog</title>
     </programme>
-    <programme start="20250207083500 +0000" stop="20250207090000 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208101500 +0000" stop="20250208104000 +0000" channel="Nick jr..firstmedia">
+        <title>BARBAPAPA - One Big Happy Family!</title>
+    </programme>
+    <programme start="20250208114500 +0000" stop="20250208120500 +0000" channel="Nickelodeon.firstmedia">
         <title>Tales of the Teenage Mutant Ninja Turtles</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207092500 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208143000 +0000" stop="20250208145000 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Casagrandes</title>
+    </programme>
+    <programme start="20250208120500 +0000" stop="20250208122000 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208130500 +0000" stop="20250208133000 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208101000 +0000" stop="20250208103500 +0000" channel="Nickelodeon.firstmedia">
+        <title>Henry Danger</title>
+    </programme>
+    <programme start="20250208112000 +0000" stop="20250208114500 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Loud House</title>
+    </programme>
+    <programme start="20250208141500 +0000" stop="20250208143000 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Casagrandes</title>
+    </programme>
+    <programme start="20250208103500 +0000" stop="20250208105500 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Loud House</title>
+    </programme>
+    <programme start="20250208094500 +0000" stop="20250208101000 +0000" channel="Nickelodeon.firstmedia">
+        <title>Henry Danger</title>
+    </programme>
+    <programme start="20250208151500 +0000" stop="20250208153500 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208081000 +0000" stop="20250208083500 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Loud House</title>
+    </programme>
+    <programme start="20250208105500 +0000" stop="20250208112000 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Loud House</title>
+    </programme>
+    <programme start="20250208133000 +0000" stop="20250208135500 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208153500 +0000" stop="20250208160000 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208083500 +0000" stop="20250208090000 +0000" channel="Nickelodeon.firstmedia">
+        <title>Tales of the Teenage Mutant Ninja Turtles</title>
+    </programme>
+    <programme start="20250208122000 +0000" stop="20250208124500 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208090000 +0000" stop="20250208092000 +0000" channel="Nickelodeon.firstmedia">
         <title>Danger Force</title>
     </programme>
-    <programme start="20250207123500 +0000" stop="20250207125500 +0000" channel="Nickelodeon.firstmedia">
-        <title>SpongeBob SquarePants</title>
-    </programme>
-    <programme start="20250207092500 +0000" stop="20250207095000 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208092000 +0000" stop="20250208094500 +0000" channel="Nickelodeon.firstmedia">
         <title>Henry Danger</title>
     </programme>
-    <programme start="20250207141000 +0000" stop="20250207143000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Patrick Star Show</title>
+    <programme start="20250208145000 +0000" stop="20250208151500 +0000" channel="Nickelodeon.firstmedia">
+        <title>The Casagrandes</title>
     </programme>
-    <programme start="20250207145500 +0000" stop="20250207151500 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208162000 +0000" channel="Nickelodeon.firstmedia">
+        <title>SpongeBob SquarePants</title>
+    </programme>
+    <programme start="20250208162000 +0000" stop="20250208164500 +0000" channel="Nickelodeon.firstmedia">
         <title>Monster High</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207145500 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208164500 +0000" stop="20250208170500 +0000" channel="Nickelodeon.firstmedia">
         <title>Monster High</title>
     </programme>
-    <programme start="20250207112000 +0000" stop="20250207114500 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Loud House</title>
-    </programme>
-    <programme start="20250207121000 +0000" stop="20250207123500 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208135500 +0000" stop="20250208141500 +0000" channel="Nickelodeon.firstmedia">
         <title>SpongeBob SquarePants</title>
     </programme>
-    <programme start="20250207125500 +0000" stop="20250207132000 +0000" channel="Nickelodeon.firstmedia">
+    <programme start="20250208124500 +0000" stop="20250208130500 +0000" channel="Nickelodeon.firstmedia">
         <title>SpongeBob SquarePants</title>
     </programme>
-    <programme start="20250207134500 +0000" stop="20250207141000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Patrick Star Show</title>
-    </programme>
-    <programme start="20250207103500 +0000" stop="20250207110000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Loud House</title>
-    </programme>
-    <programme start="20250207101000 +0000" stop="20250207103500 +0000" channel="Nickelodeon.firstmedia">
-        <title>Henry Danger</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207162000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Casagrandes</title>
-    </programme>
-    <programme start="20250207095000 +0000" stop="20250207101000 +0000" channel="Nickelodeon.firstmedia">
-        <title>Henry Danger</title>
-    </programme>
-    <programme start="20250207081500 +0000" stop="20250207083500 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Loud House</title>
-    </programme>
-    <programme start="20250207154000 +0000" stop="20250207160000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Casagrandes</title>
-    </programme>
-    <programme start="20250207164500 +0000" stop="20250207170500 +0000" channel="Nickelodeon.firstmedia">
-        <title>Hunter Street</title>
-    </programme>
-    <programme start="20250207132000 +0000" stop="20250207134500 +0000" channel="Nickelodeon.firstmedia">
-        <title>SpongeBob SquarePants</title>
-    </programme>
-    <programme start="20250207162000 +0000" stop="20250207164500 +0000" channel="Nickelodeon.firstmedia">
-        <title>Tyler Perry&#039;s Young Dylan</title>
-    </programme>
-    <programme start="20250207114500 +0000" stop="20250207121000 +0000" channel="Nickelodeon.firstmedia">
-        <title>Tales of the Teenage Mutant Ninja Turtles</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207112000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Loud House</title>
-    </programme>
-    <programme start="20250207151500 +0000" stop="20250207154000 +0000" channel="Nickelodeon.firstmedia">
-        <title>The Casagrandes</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207133000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Ninjago: Dragons Rising</title>
-    </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Adventure Time</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Mr Bean: The Animated Series</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207083500 +0000" channel="Cartoon Network.firstmedia">
-        <title>Clarence</title>
-    </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Steven Universe</title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207123500 +0000" channel="Cartoon Network.firstmedia">
-        <title>Teen Titans Go!</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Cartoon Network.firstmedia">
-        <title>We Bare Bears</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Apple &amp; Onion</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Cartoon Network.firstmedia">
+    <programme start="20250208113000 +0000" stop="20250208123000 +0000" channel="Cartoon Network.firstmedia">
         <title>The Amazing World Of Gumball</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="Cartoon Network.firstmedia">
+    <programme start="20250208102500 +0000" stop="20250208110000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Teen Titans Go!</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Mr Bean: The Animated Series</title>
+    </programme>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Teen Titans Go!</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="Cartoon Network.firstmedia">
         <title>My Adventures With Superman</title>
     </programme>
-    <programme start="20250207083500 +0000" stop="20250207090000 +0000" channel="Cartoon Network.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208102500 +0000" channel="Cartoon Network.firstmedia">
         <title>Mechamato</title>
     </programme>
-    <programme start="20250207123500 +0000" stop="20250207130000 +0000" channel="Cartoon Network.firstmedia">
-        <title>Jellystone!</title>
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Apple &amp; Onion</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="SPOTV.firstmedia">
-        <title>MotoGP 2024 Spotlight: Ducati Reflections</title>
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Regular Show</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207110000 +0000" channel="SPOTV.firstmedia">
-        <title>Dubai Marathon 2025</title>
+    <programme start="20250208133000 +0000" stop="20250208135500 +0000" channel="Cartoon Network.firstmedia">
+        <title>Lego Dreamzzz</title>
     </programme>
-    <programme start="20250207150500 +0000" stop="20250207173000 +0000" channel="SPOTV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Ninjago: Dragons Rising</title>
+    </programme>
+    <programme start="20250208135500 +0000" stop="20250208143000 +0000" channel="Cartoon Network.firstmedia">
+        <title>The Tom And Jerry Show</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208113000 +0000" channel="Cartoon Network.firstmedia">
+        <title>The Amazing World Of Gumball: The Gumball Chronicles</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="Cartoon Network.firstmedia">
+        <title>My Adventures With Superman</title>
+    </programme>
+    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Tiny Toons Looniversity</title>
+    </programme>
+    <programme start="20250208093000 +0000" stop="20250208100000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Totally Spies!</title>
+    </programme>
+    <programme start="20250208143000 +0000" stop="20250208150000 +0000" channel="Cartoon Network.firstmedia">
+        <title>Adventure Time</title>
+    </programme>
+    <programme start="20250208164500 +0000" stop="20250208190000 +0000" channel="SPOTV.firstmedia">
         <title>(Live)ROSHN Saudi League 2024/25 Matchday 19</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207150500 +0000" channel="SPOTV.firstmedia">
-        <title>MotoGP 2024 Spotlight: Takaaki Nakagami</title>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="SPOTV.firstmedia">
+        <title>Roshn Saudi League Recap 2024/25</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207143000 +0000" channel="SPOTV.firstmedia">
-        <title>WSL: Pipe Dreams </title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207140000 +0000" channel="SPOTV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208110000 +0000" channel="SPOTV.firstmedia">
         <title>(Live)African Amateur Championship 2025</title>
     </programme>
-    <programme start="20250207083000 +0000" stop="20250207103000 +0000" channel="SPOTV.firstmedia">
-        <title>(Live)ISUZU UTE A-League Men 2024/25 Rd18</title>
+    <programme start="20250208140000 +0000" stop="20250208160000 +0000" channel="SPOTV.firstmedia">
+        <title>ISUZU UTE A-League Men 2024/25 Rd18</title>
     </programme>
-    <programme start="20250207140500 +0000" stop="20250207143000 +0000" channel="SPOTV 2.firstmedia">
-        <title>Thai League 1 24/25 Matchday 18</title>
+    <programme start="20250208120000 +0000" stop="20250208140000 +0000" channel="SPOTV.firstmedia">
+        <title>ROSHN Saudi League 2024/25 Matchday 19</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207140500 +0000" channel="SPOTV 2.firstmedia">
-        <title>CYCA Sydney Hobart Yacht Race</title>
+    <programme start="20250208160000 +0000" stop="20250208164500 +0000" channel="SPOTV.firstmedia">
+        <title>MotoGP 2024 Spotlight: Jorge Martin World Champion</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="SPOTV 2.firstmedia">
-        <title>Thai League 1 24/25 Matchday 18</title>
+    <programme start="20250208130000 +0000" stop="20250208150500 +0000" channel="SPOTV 2.firstmedia">
+        <title>ROSHN Saudi League 2024-25 Matchday 18</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207130000 +0000" channel="SPOTV 2.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208130000 +0000" channel="SPOTV 2.firstmedia">
         <title>(Live)2025 WTT Singapore Smash </title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207100000 +0000" channel="SPOTV 2.firstmedia">
+    <programme start="20250208163000 +0000" stop="20250208170000 +0000" channel="SPOTV 2.firstmedia">
+        <title>SPOTV ENCORE: WTT Star Contender Doha 2025</title>
+    </programme>
+    <programme start="20250208150500 +0000" stop="20250208163000 +0000" channel="SPOTV 2.firstmedia">
+        <title>SailGP S5: KPMG Australia Sail Grand Prix, Sydney</title>
+    </programme>
+    <programme start="20250208080000 +0000" stop="20250208100000 +0000" channel="SPOTV 2.firstmedia">
         <title>ISUZU UTE A-League Men 2024/25 Rd17</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207183000 +0000" channel="SPOTV 2.firstmedia">
-        <title>2025 WTT Singapore Smash </title>
+    <programme start="20250208140000 +0000" stop="20250208161000 +0000" channel="Celestial Movies.firstmedia">
+        <title>See You Tomorrow</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207133000 +0000" channel="SPOTV 2.firstmedia">
-        <title>SailGP: Racing on the Edge</title>
+    <programme start="20250208161000 +0000" stop="20250208175500 +0000" channel="Celestial Movies.firstmedia">
+        <title>Acting Out of Love</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207164500 +0000" channel="Celestial Movies.firstmedia">
-        <title>My Country, My Parents</title>
+    <programme start="20250208114500 +0000" stop="20250208140000 +0000" channel="Celestial Movies.firstmedia">
+        <title>A Legend</title>
     </programme>
-    <programme start="20250207082500 +0000" stop="20250207103000 +0000" channel="Celestial Movies.firstmedia">
-        <title>Shock Wave 2</title>
+    <programme start="20250208083500 +0000" stop="20250208101000 +0000" channel="Celestial Movies.firstmedia">
+        <title>Chasing the Dragon (2020)</title>
     </programme>
-    <programme start="20250207122500 +0000" stop="20250207140000 +0000" channel="Celestial Movies.firstmedia">
-        <title>Princess and 7 Kung Fu Masters</title>
+    <programme start="20250208101000 +0000" stop="20250208114500 +0000" channel="Celestial Movies.firstmedia">
+        <title>Dream Lover</title>
     </programme>
-    <programme start="20250207164500 +0000" stop="20250207183000 +0000" channel="Celestial Movies.firstmedia">
-        <title>Hand Rolled Cigarette</title>
-    </programme>
-    <programme start="20250207103000 +0000" stop="20250207122500 +0000" channel="Celestial Movies.firstmedia">
-        <title>Song of Spring</title>
-    </programme>
-    <programme start="20250207114000 +0000" stop="20250207130000 +0000" channel="ONE.firstmedia">
-        <title>Jang Bo Ri Is Here</title>
-    </programme>
-    <programme start="20250207102000 +0000" stop="20250207114000 +0000" channel="ONE.firstmedia">
+    <programme start="20250208094000 +0000" stop="20250208110000 +0000" channel="ONE.firstmedia">
         <title>The King 2 Hearts</title>
     </programme>
-    <programme start="20250207080500 +0000" stop="20250207085000 +0000" channel="ONE.firstmedia">
-        <title>Desperate Mrs. Seonju</title>
-    </programme>
-    <programme start="20250207161500 +0000" stop="20250207173500 +0000" channel="ONE.firstmedia">
-        <title>Jang Bo Ri Is Here</title>
-    </programme>
-    <programme start="20250207134500 +0000" stop="20250207143000 +0000" channel="ONE.firstmedia">
-        <title>Third Marriage</title>
-    </programme>
-    <programme start="20250207085000 +0000" stop="20250207093500 +0000" channel="ONE.firstmedia">
-        <title>Meant To Be</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207134500 +0000" channel="ONE.firstmedia">
-        <title>Third Marriage</title>
-    </programme>
-    <programme start="20250207093500 +0000" stop="20250207102000 +0000" channel="ONE.firstmedia">
-        <title>Meant To Be</title>
-    </programme>
-    <programme start="20250207143000 +0000" stop="20250207161500 +0000" channel="ONE.firstmedia">
+    <programme start="20250208154500 +0000" stop="20250208174000 +0000" channel="ONE.firstmedia">
         <title>Running Man</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207130000 +0000" channel="Xing Kong China.firstmedia">
+    <programme start="20250208123000 +0000" stop="20250208134500 +0000" channel="ONE.firstmedia">
+        <title>Motel California</title>
+    </programme>
+    <programme start="20250208134500 +0000" stop="20250208154500 +0000" channel="ONE.firstmedia">
+        <title>Survival King: Tribal War</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208114500 +0000" channel="ONE.firstmedia">
+        <title>Desperate Mrs. Seonju</title>
+    </programme>
+    <programme start="20250208082000 +0000" stop="20250208094000 +0000" channel="ONE.firstmedia">
+        <title>The King 2 Hearts</title>
+    </programme>
+    <programme start="20250208114500 +0000" stop="20250208123000 +0000" channel="ONE.firstmedia">
+        <title>Desperate Mrs. Seonju</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208170000 +0000" channel="Xing Kong China.firstmedia">
         <title>XingKong China</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207170000 +0000" channel="Xing Kong China.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208130000 +0000" channel="Xing Kong China.firstmedia">
         <title>XingKong China</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Zhejiang TV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Zhejiang TV.firstmedia">
         <title>ZhejiangTV</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Hunan TV.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="ANHUI TV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="ANHUI TV.firstmedia">
         <title>Anhui TV</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="MTV 90s.firstmedia">
-        <title>Alternative Nation!</title>
+    <programme start="20250208100000 +0000" stop="20250208140000 +0000" channel="MTV 90s.firstmedia">
+        <title>Top Hits Of 1991!</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207130000 +0000" channel="MTV 90s.firstmedia">
-        <title>YO MTV! 90s Rap &amp; R&#039;n&#039;B</title>
+    <programme start="20250208140000 +0000" stop="20250208170000 +0000" channel="MTV 90s.firstmedia">
+        <title>Saturday Night Party!</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207170000 +0000" channel="MTV 90s.firstmedia">
-        <title>90s Mixtape!</title>
+    <programme start="20250208120000 +0000" stop="20250208123000 +0000" channel="CNN International.firstmedia">
+        <title>CNN This Morning Weekend</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207143000 +0000" channel="CNN International.firstmedia">
-        <title>Connect the World</title>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="CNN International.firstmedia">
+        <title>CNN This Morning Weekend</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207123000 +0000" channel="CNN International.firstmedia">
-        <title>CNN News Central</title>
+    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="CNN International.firstmedia">
+        <title>First of All: Saturday</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207083000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207123000 +0000" stop="20250207130000 +0000" channel="CNN International.firstmedia">
-        <title>World Sport</title>
+    <programme start="20250208133000 +0000" stop="20250208140000 +0000" channel="CNN International.firstmedia">
+        <title>First of All: Saturday</title>
     </programme>
-    <programme start="20250207163000 +0000" stop="20250207170000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208113000 +0000" channel="CNN International.firstmedia">
+        <title>African Voices Changemakers</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="CNN International.firstmedia">
+        <title>Smerconish: Saturday</title>
+    </programme>
+    <programme start="20250208103000 +0000" stop="20250208110000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207163000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207093000 +0000" stop="20250207100000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208093000 +0000" stop="20250208100000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207133000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208143000 +0000" stop="20250208150000 +0000" channel="CNN International.firstmedia">
+        <title>Smerconish: Saturday</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="CNN International.firstmedia">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="CNN International.firstmedia">
+        <title>CNN Newsroom (CNN/US)</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208103000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207150000 +0000" channel="CNN International.firstmedia">
-        <title>Connect the World</title>
+    <programme start="20250208160000 +0000" stop="20250208163000 +0000" channel="CNN International.firstmedia">
+        <title>The Amanpour Hour: Saturday</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="CNN International.firstmedia">
-        <title>Connect the World</title>
+    <programme start="20250208163000 +0000" stop="20250208170000 +0000" channel="CNN International.firstmedia">
+        <title>The Amanpour Hour: Saturday</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="CNN International.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="CNN International.firstmedia">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207110000 +0000" channel="CNN International.firstmedia">
-        <title>CNN This Morning</title>
+    <programme start="20250208113000 +0000" stop="20250208120000 +0000" channel="CNN International.firstmedia">
+        <title>TBD</title>
     </programme>
-    <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="CNN International.firstmedia">
-        <title>CNN Newsroom</title>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Fox News.firstmedia">
+        <title>Fox &amp; Friends Saturday</title>
     </programme>
-    <programme start="20250207133000 +0000" stop="20250207140000 +0000" channel="CNN International.firstmedia">
-        <title>CNN Newsroom</title>
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="Fox News.firstmedia">
+        <title>Fox &amp; Friends Saturday</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207113000 +0000" channel="CNN International.firstmedia">
-        <title>CNN This Morning</title>
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="Fox News.firstmedia">
+        <title>Cavuto Live</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="CNN International.firstmedia">
-        <title>Connect the World</title>
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="Fox News.firstmedia">
+        <title>Fox &amp; Friends Saturday</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="CNN International.firstmedia">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207103000 +0000" channel="CNN International.firstmedia">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="Fox News.firstmedia">
-        <title>Fox &amp; Friends</title>
-    </programme>
-    <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="Fox News.firstmedia">
-        <title>The Faulkner Focus</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="Fox News.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Fox News.firstmedia">
         <title>The Ingraham Angle</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="Fox News.firstmedia">
-        <title>Fox &amp; Friends</title>
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="Fox News.firstmedia">
+        <title>Fox &amp; Friends Saturday</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="Fox News.firstmedia">
-        <title>America&#039;s Newsroom Fox News Live</title>
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Fox News.firstmedia">
+        <title>The Five</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Fox News.firstmedia">
-        <title>Fox &amp; Friends First</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="Fox News.firstmedia">
-        <title>Fox &amp; Friends</title>
-    </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="Fox News.firstmedia">
-        <title>America&#039;s Newsroom Fox News Live</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="Fox News.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="Fox News.firstmedia">
         <title>Gutfeld!</title>
     </programme>
-    <programme start="20250207123300 +0000" stop="20250207133000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Mise Au Point</title>
+    <programme start="20250208150000 +0000" stop="20250208160000 +0000" channel="Fox News.firstmedia">
+        <title>Cavuto Live</title>
     </programme>
-    <programme start="20250207102500 +0000" stop="20250207103600 +0000" channel="TV5 Monde.firstmedia">
-        <title>Toc Toc !</title>
+    <programme start="20250208124200 +0000" stop="20250208133000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Le Luron En Campagne</title>
     </programme>
-    <programme start="20250207103600 +0000" stop="20250207110300 +0000" channel="TV5 Monde.firstmedia">
-        <title>Alix Et Les Merveilleux</title>
+    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Le Match Dans Le Match</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Histoire(S) De Jardins</title>
+    <programme start="20250208135300 +0000" stop="20250208155800 +0000" channel="TV5 Monde.firstmedia">
+        <title>Une Journée Avec Balavoine</title>
     </programme>
-    <programme start="20250207093000 +0000" stop="20250207100000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Ligue 1 Mcdonald&#039;S - Avant-Matchs</title>
+    <programme start="20250208093000 +0000" stop="20250208100000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Hep Taxi !</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207173100 +0000" channel="TV5 Monde.firstmedia">
-        <title>Investigation</title>
+    <programme start="20250208113000 +0000" stop="20250208120000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Version Française</title>
     </programme>
-    <programme start="20250207101200 +0000" stop="20250207102500 +0000" channel="TV5 Monde.firstmedia">
-        <title>Les Souvenirs De Mamette</title>
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Espèces D&#039;Ordures</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="TV5 Monde.firstmedia">
-        <title>20H30 Le Dimanche</title>
-    </programme>
-    <programme start="20250207144000 +0000" stop="20250207153000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Opj</title>
-    </programme>
-    <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="TV5 Monde.firstmedia">
+    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="TV5 Monde.firstmedia">
         <title>Le Journal De Radio-Canada</title>
     </programme>
-    <programme start="20250207110300 +0000" stop="20250207113000 +0000" channel="TV5 Monde.firstmedia">
-        <title>La Cuisine D&#039;Isabelle Et Ricardo</title>
+    <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Suisse En Scène</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207123300 +0000" channel="TV5 Monde.firstmedia">
+    <programme start="20250208110000 +0000" stop="20250208113000 +0000" channel="TV5 Monde.firstmedia">
+        <title>Tendance Xxi</title>
+    </programme>
+    <programme start="20250208120000 +0000" stop="20250208124200 +0000" channel="TV5 Monde.firstmedia">
         <title>Questions Pour Un Champion</title>
     </programme>
-    <programme start="20250207135100 +0000" stop="20250207144000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Opj</title>
-    </programme>
-    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="TV5 Monde.firstmedia">
-        <title>Un Si Grand Soleil</title>
-    </programme>
-    <programme start="20250207133000 +0000" stop="20250207135100 +0000" channel="TV5 Monde.firstmedia">
+    <programme start="20250208133000 +0000" stop="20250208135300 +0000" channel="TV5 Monde.firstmedia">
         <title>Tv5Monde, Le Journal</title>
     </programme>
-    <programme start="20250207100000 +0000" stop="20250207101200 +0000" channel="TV5 Monde.firstmedia">
-        <title>Ernest Et Célestine, La Collection</title>
+    <programme start="20250208155800 +0000" stop="20250208173700 +0000" channel="TV5 Monde.firstmedia">
+        <title>Disparition Inquiétante</title>
     </programme>
-    <programme start="20250207080500 +0000" stop="20250207095500 +0000" channel="HBO.firstmedia">
-        <title>The Munsters</title>
+    <programme start="20250208163000 +0000" stop="20250208182000 +0000" channel="HBO.firstmedia">
+        <title>Magic Mike XXL</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207161500 +0000" channel="HBO.firstmedia">
-        <title>Trap</title>
+    <programme start="20250208130000 +0000" stop="20250208144000 +0000" channel="HBO.firstmedia">
+        <title>A Quiet Place: Day One</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207143000 +0000" channel="HBO.firstmedia">
-        <title>Dìdi (??)</title>
+    <programme start="20250208144000 +0000" stop="20250208163000 +0000" channel="HBO.firstmedia">
+        <title>Land Of Bad</title>
     </programme>
-    <programme start="20250207161500 +0000" stop="20250207175500 +0000" channel="HBO.firstmedia">
-        <title>The Passenger</title>
+    <programme start="20250208110500 +0000" stop="20250208130000 +0000" channel="HBO.firstmedia">
+        <title>Godzilla X Kong: The New Empire</title>
     </programme>
-    <programme start="20250207095500 +0000" stop="20250207120000 +0000" channel="HBO.firstmedia">
-        <title>Snow White And The Huntsman</title>
+    <programme start="20250208091000 +0000" stop="20250208110500 +0000" channel="HBO.firstmedia">
+        <title>Wonka</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="HBO.firstmedia">
-        <title>C.B. Strike S4</title>
+    <programme start="20250208140000 +0000" stop="20250208145500 +0000" channel="HBO Signature.firstmedia">
+        <title>The White Lotus S1</title>
     </programme>
-    <programme start="20250207095500 +0000" stop="20250207113000 +0000" channel="HBO Signature.firstmedia">
-        <title>The Gathering Storm</title>
+    <programme start="20250208092000 +0000" stop="20250208105000 +0000" channel="HBO Signature.firstmedia">
+        <title>Magic &amp; Bird: A Courtship Of Rivals</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207161000 +0000" channel="HBO Signature.firstmedia">
-        <title>The Kite Runner</title>
+    <programme start="20250208154500 +0000" stop="20250208164500 +0000" channel="HBO Signature.firstmedia">
+        <title>The White Lotus S1</title>
     </programme>
-    <programme start="20250207161000 +0000" stop="20250207174500 +0000" channel="HBO Signature.firstmedia">
-        <title>Napoleon Dynamite</title>
+    <programme start="20250208105000 +0000" stop="20250208121500 +0000" channel="HBO Signature.firstmedia">
+        <title>Christmas Class Reunion</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207140000 +0000" channel="HBO Signature.firstmedia">
-        <title>House Of Gucci</title>
+    <programme start="20250208164500 +0000" stop="20250208191000 +0000" channel="HBO Signature.firstmedia">
+        <title>Furiosa: A Mad Max Saga</title>
     </programme>
-    <programme start="20250207131000 +0000" stop="20250207150000 +0000" channel="HBO Hits.firstmedia">
-        <title>One Life</title>
+    <programme start="20250208145500 +0000" stop="20250208154500 +0000" channel="HBO Signature.firstmedia">
+        <title>The White Lotus S1</title>
     </programme>
-    <programme start="20250207093500 +0000" stop="20250207113000 +0000" channel="HBO Hits.firstmedia">
-        <title>Barbie</title>
+    <programme start="20250208121500 +0000" stop="20250208140000 +0000" channel="HBO Signature.firstmedia">
+        <title>Bob Marley: One Love</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207131000 +0000" channel="HBO Hits.firstmedia">
+    <programme start="20250208095000 +0000" stop="20250208113000 +0000" channel="HBO Hits.firstmedia">
         <title>The Angry Birds Movie</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207162500 +0000" channel="HBO Hits.firstmedia">
-        <title>Cloverfield</title>
+    <programme start="20250208165000 +0000" stop="20250208182000 +0000" channel="HBO Hits.firstmedia">
+        <title>The Shallows</title>
     </programme>
-    <programme start="20250207162500 +0000" stop="20250207180500 +0000" channel="HBO Hits.firstmedia">
-        <title>Lisa Frankenstein</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207093500 +0000" channel="HBO Hits.firstmedia">
-        <title>How To Train Your Dragon</title>
-    </programme>
-    <programme start="20250207082000 +0000" stop="20250207083000 +0000" channel="HBO Family.firstmedia">
-        <title>Summer Camp Island S4</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207081000 +0000" channel="HBO Family.firstmedia">
-        <title>Summer Camp Island S4</title>
-    </programme>
-    <programme start="20250207161500 +0000" stop="20250207162700 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207163800 +0000" stop="20250207165000 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207092500 +0000" stop="20250207095500 +0000" channel="HBO Family.firstmedia">
-        <title>Sesame Street S54</title>
-    </programme>
-    <programme start="20250207110000 +0000" stop="20250207124000 +0000" channel="HBO Family.firstmedia">
-        <title>The Boss Baby</title>
-    </programme>
-    <programme start="20250207083000 +0000" stop="20250207084000 +0000" channel="HBO Family.firstmedia">
-        <title>Summer Camp Island S4</title>
-    </programme>
-    <programme start="20250207095500 +0000" stop="20250207100700 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207124000 +0000" stop="20250207141500 +0000" channel="HBO Family.firstmedia">
-        <title>Kung Fu Panda</title>
-    </programme>
-    <programme start="20250207162700 +0000" stop="20250207163800 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207081000 +0000" stop="20250207082000 +0000" channel="HBO Family.firstmedia">
-        <title>Summer Camp Island S4</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207092500 +0000" channel="HBO Family.firstmedia">
-        <title>Sesame Street S54</title>
-    </programme>
-    <programme start="20250207104500 +0000" stop="20250207110000 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S4</title>
-    </programme>
-    <programme start="20250207103000 +0000" stop="20250207104500 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207084000 +0000" stop="20250207090000 +0000" channel="HBO Family.firstmedia">
-        <title>Summer Camp Island S4</title>
-    </programme>
-    <programme start="20250207165000 +0000" stop="20250207170500 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207141500 +0000" stop="20250207161500 +0000" channel="HBO Family.firstmedia">
-        <title>New Year&#039;S Eve</title>
-    </programme>
-    <programme start="20250207100700 +0000" stop="20250207101800 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207101800 +0000" stop="20250207103000 +0000" channel="HBO Family.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
-    </programme>
-    <programme start="20250207090500 +0000" stop="20250207112000 +0000" channel="Cinemax.firstmedia">
-        <title>Bury My Heart At Wounded Knee</title>
-    </programme>
-    <programme start="20250207140000 +0000" stop="20250207162500 +0000" channel="Cinemax.firstmedia">
-        <title>Inception</title>
-    </programme>
-    <programme start="20250207112000 +0000" stop="20250207140000 +0000" channel="Cinemax.firstmedia">
-        <title>Blade Runner 2049</title>
-    </programme>
-    <programme start="20250207162500 +0000" stop="20250207181500 +0000" channel="Cinemax.firstmedia">
-        <title>War Dogs</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207130000 +0000" channel="First Highlights HD.firstmedia">
-        <title>Highlight </title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207170000 +0000" channel="First Highlights HD.firstmedia">
-        <title>Highlight </title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207130000 +0000" channel="HBO HD.firstmedia">
-        <title>C.B. Strike S4</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207143000 +0000" channel="HBO HD.firstmedia">
-        <title>Dìdi (??)</title>
-    </programme>
-    <programme start="20250207161500 +0000" stop="20250207175500 +0000" channel="HBO HD.firstmedia">
-        <title>The Passenger</title>
-    </programme>
-    <programme start="20250207143000 +0000" stop="20250207161500 +0000" channel="HBO HD.firstmedia">
-        <title>Trap</title>
-    </programme>
-    <programme start="20250207095500 +0000" stop="20250207120000 +0000" channel="HBO HD.firstmedia">
-        <title>Snow White And The Huntsman</title>
-    </programme>
-    <programme start="20250207080500 +0000" stop="20250207095500 +0000" channel="HBO HD.firstmedia">
-        <title>The Munsters</title>
-    </programme>
-    <programme start="20250207113000 +0000" stop="20250207131000 +0000" channel="HBO Hits HD.firstmedia">
-        <title>The Angry Birds Movie</title>
-    </programme>
-    <programme start="20250207162500 +0000" stop="20250207180500 +0000" channel="HBO Hits HD.firstmedia">
-        <title>Lisa Frankenstein</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207093500 +0000" channel="HBO Hits HD.firstmedia">
-        <title>How To Train Your Dragon</title>
-    </programme>
-    <programme start="20250207093500 +0000" stop="20250207113000 +0000" channel="HBO Hits HD.firstmedia">
-        <title>Barbie</title>
-    </programme>
-    <programme start="20250207150000 +0000" stop="20250207162500 +0000" channel="HBO Hits HD.firstmedia">
-        <title>Cloverfield</title>
-    </programme>
-    <programme start="20250207131000 +0000" stop="20250207150000 +0000" channel="HBO Hits HD.firstmedia">
+    <programme start="20250208150000 +0000" stop="20250208165000 +0000" channel="HBO Hits.firstmedia">
         <title>One Life</title>
     </programme>
-    <programme start="20250207100700 +0000" stop="20250207101800 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208130000 +0000" stop="20250208150000 +0000" channel="HBO Hits.firstmedia">
+        <title>Kong: Skull Island</title>
     </programme>
-    <programme start="20250207084000 +0000" stop="20250207090000 +0000" channel="HBO Family HD.firstmedia">
-        <title>Summer Camp Island S4</title>
+    <programme start="20250208113000 +0000" stop="20250208130000 +0000" channel="HBO Hits.firstmedia">
+        <title>Double Life</title>
     </programme>
-    <programme start="20250207101800 +0000" stop="20250207103000 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208080000 +0000" stop="20250208095000 +0000" channel="HBO Hits.firstmedia">
+        <title>One Life</title>
     </programme>
-    <programme start="20250207165000 +0000" stop="20250207170500 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208164300 +0000" stop="20250208165500 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
     </programme>
-    <programme start="20250207141500 +0000" stop="20250207161500 +0000" channel="HBO Family HD.firstmedia">
-        <title>New Year&#039;S Eve</title>
+    <programme start="20250208144000 +0000" stop="20250208145200 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207104500 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208110000 +0000" stop="20250208124500 +0000" channel="HBO Family.firstmedia">
+        <title>I.F.</title>
     </programme>
-    <programme start="20250207162700 +0000" stop="20250207163800 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208155100 +0000" stop="20250208160300 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207163800 +0000" stop="20250207165000 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208153900 +0000" stop="20250208155100 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207104500 +0000" stop="20250207110000 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S4</title>
+    <programme start="20250208092500 +0000" stop="20250208110000 +0000" channel="HBO Family.firstmedia">
+        <title>Hop</title>
     </programme>
-    <programme start="20250207081000 +0000" stop="20250207082000 +0000" channel="HBO Family HD.firstmedia">
-        <title>Summer Camp Island S4</title>
+    <programme start="20250208081000 +0000" stop="20250208092500 +0000" channel="HBO Family.firstmedia">
+        <title>Regular Show: The Movie</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207092500 +0000" channel="HBO Family HD.firstmedia">
-        <title>Sesame Street S54</title>
+    <programme start="20250208160300 +0000" stop="20250208162000 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207095500 +0000" stop="20250207100700 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208151600 +0000" stop="20250208152800 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207124000 +0000" stop="20250207141500 +0000" channel="HBO Family HD.firstmedia">
-        <title>Kung Fu Panda</title>
+    <programme start="20250208165500 +0000" stop="20250208170600 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
     </programme>
-    <programme start="20250207083000 +0000" stop="20250207084000 +0000" channel="HBO Family HD.firstmedia">
-        <title>Summer Camp Island S4</title>
+    <programme start="20250208152800 +0000" stop="20250208153900 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207161500 +0000" stop="20250207162700 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Heroic Quest Of The Valiant Prince Ivandoe S3</title>
+    <programme start="20250208150400 +0000" stop="20250208151600 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207092500 +0000" stop="20250207095500 +0000" channel="HBO Family HD.firstmedia">
-        <title>Sesame Street S54</title>
+    <programme start="20250208163100 +0000" stop="20250208164300 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207124000 +0000" channel="HBO Family HD.firstmedia">
-        <title>The Boss Baby</title>
+    <programme start="20250208162000 +0000" stop="20250208163100 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
     </programme>
-    <programme start="20250207082000 +0000" stop="20250207083000 +0000" channel="HBO Family HD.firstmedia">
-        <title>Summer Camp Island S4</title>
+    <programme start="20250208145200 +0000" stop="20250208150400 +0000" channel="HBO Family.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207081000 +0000" channel="HBO Family HD.firstmedia">
-        <title>Summer Camp Island S4</title>
+    <programme start="20250208124500 +0000" stop="20250208144000 +0000" channel="HBO Family.firstmedia">
+        <title>Jack The Giant Slayer</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207140000 +0000" channel="HBO Signature HD.firstmedia">
-        <title>House Of Gucci</title>
+    <programme start="20250208095000 +0000" stop="20250208113000 +0000" channel="Cinemax.firstmedia">
+        <title>Drillbit Taylor</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207161000 +0000" channel="HBO Signature HD.firstmedia">
-        <title>The Kite Runner</title>
+    <programme start="20250208155000 +0000" stop="20250208181500 +0000" channel="Cinemax.firstmedia">
+        <title>Watchmen</title>
     </programme>
-    <programme start="20250207161000 +0000" stop="20250207174500 +0000" channel="HBO Signature HD.firstmedia">
-        <title>Napoleon Dynamite</title>
+    <programme start="20250208140000 +0000" stop="20250208155000 +0000" channel="Cinemax.firstmedia">
+        <title>Operation Fortune: Ruse De Guerre</title>
     </programme>
-    <programme start="20250207095500 +0000" stop="20250207113000 +0000" channel="HBO Signature HD.firstmedia">
-        <title>The Gathering Storm</title>
-    </programme>
-    <programme start="20250207140000 +0000" stop="20250207162500 +0000" channel="Cinemax HD.firstmedia">
+    <programme start="20250208113000 +0000" stop="20250208140000 +0000" channel="Cinemax.firstmedia">
         <title>Inception</title>
     </programme>
-    <programme start="20250207090500 +0000" stop="20250207112000 +0000" channel="Cinemax HD.firstmedia">
-        <title>Bury My Heart At Wounded Knee</title>
+    <programme start="20250208081000 +0000" stop="20250208095000 +0000" channel="Cinemax.firstmedia">
+        <title>Starter For 10</title>
     </programme>
-    <programme start="20250207162500 +0000" stop="20250207181500 +0000" channel="Cinemax HD.firstmedia">
-        <title>War Dogs</title>
+    <programme start="20250208130000 +0000" stop="20250208170000 +0000" channel="First Highlights HD.firstmedia">
+        <title>Highlight </title>
     </programme>
-    <programme start="20250207112000 +0000" stop="20250207140000 +0000" channel="Cinemax HD.firstmedia">
-        <title>Blade Runner 2049</title>
+    <programme start="20250208090000 +0000" stop="20250208130000 +0000" channel="First Highlights HD.firstmedia">
+        <title>Highlight </title>
     </programme>
-    <programme start="20250207103000 +0000" stop="20250207122500 +0000" channel="Celestial Movies HD.firstmedia">
-        <title>Song of Spring</title>
+    <programme start="20250208130000 +0000" stop="20250208144000 +0000" channel="HBO HD.firstmedia">
+        <title>A Quiet Place: Day One</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207164500 +0000" channel="Celestial Movies HD.firstmedia">
-        <title>My Country, My Parents</title>
+    <programme start="20250208091000 +0000" stop="20250208110500 +0000" channel="HBO HD.firstmedia">
+        <title>Wonka</title>
     </programme>
-    <programme start="20250207164500 +0000" stop="20250207183000 +0000" channel="Celestial Movies HD.firstmedia">
-        <title>Hand Rolled Cigarette</title>
+    <programme start="20250208163000 +0000" stop="20250208182000 +0000" channel="HBO HD.firstmedia">
+        <title>Magic Mike XXL</title>
     </programme>
-    <programme start="20250207122500 +0000" stop="20250207140000 +0000" channel="Celestial Movies HD.firstmedia">
-        <title>Princess and 7 Kung Fu Masters</title>
+    <programme start="20250208110500 +0000" stop="20250208130000 +0000" channel="HBO HD.firstmedia">
+        <title>Godzilla X Kong: The New Empire</title>
     </programme>
-    <programme start="20250207082500 +0000" stop="20250207103000 +0000" channel="Celestial Movies HD.firstmedia">
-        <title>Shock Wave 2</title>
+    <programme start="20250208144000 +0000" stop="20250208163000 +0000" channel="HBO HD.firstmedia">
+        <title>Land Of Bad</title>
     </programme>
-    <programme start="20250207082500 +0000" stop="20250207085000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Container Wars S3</title>
+    <programme start="20250208165000 +0000" stop="20250208182000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>The Shallows</title>
     </programme>
-    <programme start="20250207164500 +0000" stop="20250207171000 +0000" channel="Warner TV HD.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208095000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>One Life</title>
+    </programme>
+    <programme start="20250208113000 +0000" stop="20250208130000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>Double Life</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208150000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>Kong: Skull Island</title>
+    </programme>
+    <programme start="20250208095000 +0000" stop="20250208113000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>The Angry Birds Movie</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208165000 +0000" channel="HBO Hits HD.firstmedia">
+        <title>One Life</title>
+    </programme>
+    <programme start="20250208160300 +0000" stop="20250208162000 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208081000 +0000" stop="20250208092500 +0000" channel="HBO Family HD.firstmedia">
+        <title>Regular Show: The Movie</title>
+    </programme>
+    <programme start="20250208124500 +0000" stop="20250208144000 +0000" channel="HBO Family HD.firstmedia">
+        <title>Jack The Giant Slayer</title>
+    </programme>
+    <programme start="20250208092500 +0000" stop="20250208110000 +0000" channel="HBO Family HD.firstmedia">
+        <title>Hop</title>
+    </programme>
+    <programme start="20250208153900 +0000" stop="20250208155100 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208155100 +0000" stop="20250208160300 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208145200 +0000" stop="20250208150400 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208162000 +0000" stop="20250208163100 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
+    </programme>
+    <programme start="20250208152800 +0000" stop="20250208153900 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208124500 +0000" channel="HBO Family HD.firstmedia">
+        <title>I.F.</title>
+    </programme>
+    <programme start="20250208150400 +0000" stop="20250208151600 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208163100 +0000" stop="20250208164300 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
+    </programme>
+    <programme start="20250208144000 +0000" stop="20250208145200 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208164300 +0000" stop="20250208165500 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
+    </programme>
+    <programme start="20250208165500 +0000" stop="20250208170600 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S2</title>
+    </programme>
+    <programme start="20250208151600 +0000" stop="20250208152800 +0000" channel="HBO Family HD.firstmedia">
+        <title>The Heroic Quest Of The Valiant Prince Ivandoe S1</title>
+    </programme>
+    <programme start="20250208121500 +0000" stop="20250208140000 +0000" channel="HBO Signature HD.firstmedia">
+        <title>Bob Marley: One Love</title>
+    </programme>
+    <programme start="20250208164500 +0000" stop="20250208191000 +0000" channel="HBO Signature HD.firstmedia">
+        <title>Furiosa: A Mad Max Saga</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208145500 +0000" channel="HBO Signature HD.firstmedia">
+        <title>The White Lotus S1</title>
+    </programme>
+    <programme start="20250208145500 +0000" stop="20250208154500 +0000" channel="HBO Signature HD.firstmedia">
+        <title>The White Lotus S1</title>
+    </programme>
+    <programme start="20250208092000 +0000" stop="20250208105000 +0000" channel="HBO Signature HD.firstmedia">
+        <title>Magic &amp; Bird: A Courtship Of Rivals</title>
+    </programme>
+    <programme start="20250208154500 +0000" stop="20250208164500 +0000" channel="HBO Signature HD.firstmedia">
+        <title>The White Lotus S1</title>
+    </programme>
+    <programme start="20250208105000 +0000" stop="20250208121500 +0000" channel="HBO Signature HD.firstmedia">
+        <title>Christmas Class Reunion</title>
+    </programme>
+    <programme start="20250208081000 +0000" stop="20250208095000 +0000" channel="Cinemax HD.firstmedia">
+        <title>Starter For 10</title>
+    </programme>
+    <programme start="20250208113000 +0000" stop="20250208140000 +0000" channel="Cinemax HD.firstmedia">
+        <title>Inception</title>
+    </programme>
+    <programme start="20250208095000 +0000" stop="20250208113000 +0000" channel="Cinemax HD.firstmedia">
+        <title>Drillbit Taylor</title>
+    </programme>
+    <programme start="20250208155000 +0000" stop="20250208181500 +0000" channel="Cinemax HD.firstmedia">
+        <title>Watchmen</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208155000 +0000" channel="Cinemax HD.firstmedia">
+        <title>Operation Fortune: Ruse De Guerre</title>
+    </programme>
+    <programme start="20250208083500 +0000" stop="20250208101000 +0000" channel="Celestial Movies HD.firstmedia">
+        <title>Chasing the Dragon (2020)</title>
+    </programme>
+    <programme start="20250208114500 +0000" stop="20250208140000 +0000" channel="Celestial Movies HD.firstmedia">
+        <title>A Legend</title>
+    </programme>
+    <programme start="20250208161000 +0000" stop="20250208175500 +0000" channel="Celestial Movies HD.firstmedia">
+        <title>Acting Out of Love</title>
+    </programme>
+    <programme start="20250208101000 +0000" stop="20250208114500 +0000" channel="Celestial Movies HD.firstmedia">
+        <title>Dream Lover</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208161000 +0000" channel="Celestial Movies HD.firstmedia">
+        <title>See You Tomorrow</title>
+    </programme>
+    <programme start="20250208090000 +0000" stop="20250208092500 +0000" channel="Warner TV HD.firstmedia">
+        <title>Dirty Money S1</title>
+    </programme>
+    <programme start="20250208155000 +0000" stop="20250208161500 +0000" channel="Warner TV HD.firstmedia">
         <title>Hack My Life S3</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250207150000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
+    <programme start="20250208130000 +0000" stop="20250208150000 +0000" channel="Warner TV HD.firstmedia">
+        <title>Terminator Salvation</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Georgie &amp; Mandy&#039;s First Marriage S1</title>
+    <programme start="20250208164000 +0000" stop="20250208170500 +0000" channel="Warner TV HD.firstmedia">
+        <title>Hack My Life S3</title>
     </programme>
-    <programme start="20250207094000 +0000" stop="20250207103000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Arrow S2</title>
-    </programme>
-    <programme start="20250207114500 +0000" stop="20250207121000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Friends S8</title>
-    </programme>
-    <programme start="20250207112000 +0000" stop="20250207114500 +0000" channel="Warner TV HD.firstmedia">
+    <programme start="20250208095000 +0000" stop="20250208101500 +0000" channel="Warner TV HD.firstmedia">
         <title>The Big Bang Theory S4</title>
     </programme>
-    <programme start="20250207162000 +0000" stop="20250207164500 +0000" channel="Warner TV HD.firstmedia">
-        <title>Storage Hunters S2</title>
-    </programme>
-    <programme start="20250207153000 +0000" stop="20250207162000 +0000" channel="Warner TV HD.firstmedia">
-        <title>World&#039;s Dumbest S16</title>
-    </programme>
-    <programme start="20250207103000 +0000" stop="20250207105500 +0000" channel="Warner TV HD.firstmedia">
-        <title>Container Wars S3</title>
-    </programme>
-    <programme start="20250207121000 +0000" stop="20250207123500 +0000" channel="Warner TV HD.firstmedia">
-        <title>Storage Hunters S2</title>
-    </programme>
-    <programme start="20250207123500 +0000" stop="20250207130000 +0000" channel="Warner TV HD.firstmedia">
+    <programme start="20250208103500 +0000" stop="20250208110000 +0000" channel="Warner TV HD.firstmedia">
         <title>Georgie &amp; Mandy&#039;s First Marriage S1</title>
     </programme>
-    <programme start="20250207105500 +0000" stop="20250207112000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Container Wars S3</title>
+    <programme start="20250208110000 +0000" stop="20250208130000 +0000" channel="Warner TV HD.firstmedia">
+        <title>The Man From U.N.C.L.E.</title>
     </programme>
-    <programme start="20250207080000 +0000" stop="20250207082500 +0000" channel="Warner TV HD.firstmedia">
-        <title>Container Wars S3</title>
+    <programme start="20250208161500 +0000" stop="20250208164000 +0000" channel="Warner TV HD.firstmedia">
+        <title>Hack My Life S3</title>
     </programme>
-    <programme start="20250207085000 +0000" stop="20250207094000 +0000" channel="Warner TV HD.firstmedia">
-        <title>Lethal Weapon S2</title>
+    <programme start="20250208152500 +0000" stop="20250208155000 +0000" channel="Warner TV HD.firstmedia">
+        <title>The Big Bang Theory S4</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207160000 +0000" channel="HITS Now HD.firstmedia">
+    <programme start="20250208101500 +0000" stop="20250208103500 +0000" channel="Warner TV HD.firstmedia">
+        <title>The Big Bang Theory S4</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208152500 +0000" channel="Warner TV HD.firstmedia">
+        <title>The Big Bang Theory S4</title>
+    </programme>
+    <programme start="20250208092500 +0000" stop="20250208095000 +0000" channel="Warner TV HD.firstmedia">
+        <title>The Big Bang Theory S4</title>
+    </programme>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="HITS Now HD.firstmedia">
         <title>Ghosts S4</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207140000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Sonic The Hedgehog</title>
+    <programme start="20250208083000 +0000" stop="20250208113000 +0000" channel="HITS Now HD.firstmedia">
+        <title>The 67th Annual GRAMMY Awards (Awards Show - Repeat)</title>
     </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="HITS Now HD.firstmedia">
+    <programme start="20250208113000 +0000" stop="20250208120000 +0000" channel="HITS Now HD.firstmedia">
         <title>Entertainment Tonight</title>
     </programme>
-    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Entertainment Tonight</title>
-    </programme>
-    <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Young Rock S2</title>
-    </programme>
-    <programme start="20250207163000 +0000" stop="20250207173000 +0000" channel="HITS Now HD.firstmedia">
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="HITS Now HD.firstmedia">
         <title>Fire Country S3</title>
     </programme>
-    <programme start="20250207090000 +0000" stop="20250207093000 +0000" channel="HITS Now HD.firstmedia">
+    <programme start="20250208120000 +0000" stop="20250208123000 +0000" channel="HITS Now HD.firstmedia">
         <title>Lopez Vs Lopez S2</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Murder For Hire S1</title>
+    <programme start="20250208140000 +0000" stop="20250208150000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Matlock S1</title>
     </programme>
-    <programme start="20250207093000 +0000" stop="20250207113000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Britain&#039;s Got Talent S17</title>
+    <programme start="20250208160000 +0000" stop="20250208170000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Below Deck S10</title>
     </programme>
-    <programme start="20250207160000 +0000" stop="20250207163000 +0000" channel="HITS Now HD.firstmedia">
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="HITS Now HD.firstmedia">
         <title>The Goldbergs S1</title>
     </programme>
-    <programme start="20250207163000 +0000" stop="20250207184500 +0000" channel="Hits Movies HD.firstmedia">
-        <title>Paycheck</title>
+    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Entertainment Tonight</title>
     </programme>
-    <programme start="20250207091500 +0000" stop="20250207120000 +0000" channel="Hits Movies HD.firstmedia">
-        <title>The Da Vinci Code</title>
-    </programme>
-    <programme start="20250207120000 +0000" stop="20250207143000 +0000" channel="Hits Movies HD.firstmedia">
+    <programme start="20250208160000 +0000" stop="20250208183000 +0000" channel="Hits Movies HD.firstmedia">
         <title>The Quiet Man</title>
     </programme>
-    <programme start="20250207143000 +0000" stop="20250207163000 +0000" channel="Hits Movies HD.firstmedia">
-        <title>You Got Served</title>
+    <programme start="20250208084500 +0000" stop="20250208120000 +0000" channel="Hits Movies HD.firstmedia">
+        <title>Saving Private Ryan</title>
     </programme>
-    <programme start="20250207153000 +0000" stop="20250207163000 +0000" channel="HITS HD.firstmedia">
-        <title>Bonanza S2</title>
+    <programme start="20250208140000 +0000" stop="20250208160000 +0000" channel="Hits Movies HD.firstmedia">
+        <title>Galaxy Quest</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207120000 +0000" channel="HITS HD.firstmedia">
-        <title>Mission Impossible S3</title>
+    <programme start="20250208120000 +0000" stop="20250208140000 +0000" channel="Hits Movies HD.firstmedia">
+        <title>Crank</title>
     </programme>
-    <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="HITS HD.firstmedia">
-        <title>Agatha Christie&#039;s Marple S3</title>
+    <programme start="20250208163000 +0000" stop="20250208173000 +0000" channel="HITS HD.firstmedia">
+        <title>The Bionic Woman S3</title>
     </programme>
-    <programme start="20250207123000 +0000" stop="20250207130000 +0000" channel="HITS HD.firstmedia">
-        <title>Married With Children S2</title>
-    </programme>
-    <programme start="20250207080000 +0000" stop="20250207090000 +0000" channel="HITS HD.firstmedia">
-        <title>Stephen King&#039;s IT</title>
-    </programme>
-    <programme start="20250207090000 +0000" stop="20250207100000 +0000" channel="HITS HD.firstmedia">
-        <title>The Incredible Hulk S4</title>
-    </programme>
-    <programme start="20250207100000 +0000" stop="20250207103000 +0000" channel="HITS HD.firstmedia">
-        <title>The Jeffersons S5</title>
-    </programme>
-    <programme start="20250207150000 +0000" stop="20250207153000 +0000" channel="HITS HD.firstmedia">
+    <programme start="20250208080000 +0000" stop="20250208083000 +0000" channel="HITS HD.firstmedia">
         <title>Frasier S3</title>
     </programme>
-    <programme start="20250207120000 +0000" stop="20250207123000 +0000" channel="HITS HD.firstmedia">
-        <title>The Jeffersons S5</title>
-    </programme>
-    <programme start="20250207103000 +0000" stop="20250207110000 +0000" channel="HITS HD.firstmedia">
-        <title>Married With Children S2</title>
-    </programme>
-    <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="HITS HD.firstmedia">
+    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="HITS HD.firstmedia">
         <title>The Incredible Hulk S4</title>
     </programme>
-    <programme start="20250207163000 +0000" stop="20250207173000 +0000" channel="HITS HD.firstmedia">
-        <title>The Bionic Woman S3</title>
+    <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="HITS HD.firstmedia">
+        <title>The Incredible Hulk S4</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="HITS HD.firstmedia">
+        <title>Agatha Christie&#039;s Marple S3</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="HITS HD.firstmedia">
+        <title>The Incredible Hulk S4</title>
+    </programme>
+    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250208120000 +0000" stop="20250208130000 +0000" channel="HITS HD.firstmedia">
+        <title>Agatha Christie&#039;s Marple S3</title>
+    </programme>
+    <programme start="20250208143000 +0000" stop="20250208150000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250208160000 +0000" stop="20250208163000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250208083000 +0000" stop="20250208090000 +0000" channel="HITS HD.firstmedia">
+        <title>Frasier S3</title>
     </programme>
 </tv>

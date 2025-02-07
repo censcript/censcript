@@ -13620,7 +13620,10 @@
     <programme start="20250207215500 +0000" stop="20250207230000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250207230000 +0000" stop="20250207231000 +0000" channel="Eurosport 1 HD">
+        <title>Alpine Skiing: World Championships</title>
+    </programme>
+    <programme start="20250207231000 +0000" stop="20250208000000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208000000 +0000" stop="20250208010000 +0000" channel="Eurosport 1 HD">
@@ -29634,19 +29637,19 @@
     <programme start="20250208010000 +0000" stop="20250208034500 +0000" channel="Kanshi TV">
         <title>Kash Aap Hamare Hote - 2003</title>
     </programme>
-    <programme start="20250208034500 +0000" stop="20250208070000 +0000" channel="Kanshi TV">
+    <programme start="20250208034500 +0000" stop="20250208070500 +0000" channel="Kanshi TV">
         <title>Amrit Bani</title>
     </programme>
-    <programme start="20250208070000 +0000" stop="20250208090000 +0000" channel="Kanshi TV">
+    <programme start="20250208070500 +0000" stop="20250208090000 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
     </programme>
     <programme start="20250208090000 +0000" stop="20250208093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250208093000 +0000" stop="20250208094500 +0000" channel="Kanshi TV">
+    <programme start="20250208093000 +0000" stop="20250208100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250208094500 +0000" stop="20250208110000 +0000" channel="Kanshi TV">
+    <programme start="20250208100000 +0000" stop="20250208110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250208110000 +0000" stop="20250208120000 +0000" channel="Kanshi TV">
@@ -30171,14 +30174,8 @@
     <programme start="20250208200000 +0000" stop="20250208203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250208203000 +0000" stop="20250208223000 +0000" channel="IQRA Bangla">
+    <programme start="20250208203000 +0000" stop="20250208213000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250208223000 +0000" stop="20250208230000 +0000" channel="IQRA Bangla">
-        <title>Weekly Insider</title>
-    </programme>
-    <programme start="20250208230000 +0000" stop="20250209000000 +0000" channel="IQRA Bangla">
-        <title>Amader Sylhet</title>
     </programme>
     <programme start="20250207223000 +0000" stop="20250207230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -30213,13 +30210,7 @@
     <programme start="20250208055200 +0000" stop="20250208060000 +0000" channel="ATN">
         <title>ATN Archive</title>
     </programme>
-    <programme start="20250208060000 +0000" stop="20250208061700 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250208061700 +0000" stop="20250208062200 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250208062200 +0000" stop="20250208070000 +0000" channel="ATN">
+    <programme start="20250208060000 +0000" stop="20250208070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250208070000 +0000" stop="20250208073000 +0000" channel="ATN">
@@ -30255,20 +30246,8 @@
     <programme start="20250208122000 +0000" stop="20250208122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250208122500 +0000" stop="20250208140000 +0000" channel="ATN">
+    <programme start="20250208122500 +0000" stop="20250208145500 +0000" channel="ATN">
         <title>Boss Number One</title>
-    </programme>
-    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250208143000 +0000" stop="20250208144500 +0000" channel="ATN">
-        <title>Raja Rani Badsha</title>
-    </programme>
-    <programme start="20250208144500 +0000" stop="20250208145000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250208145000 +0000" stop="20250208145500 +0000" channel="ATN">
-        <title>Raja Rani Badsha</title>
     </programme>
     <programme start="20250208145500 +0000" stop="20250208151500 +0000" channel="ATN">
         <title>Boss Number One</title>
@@ -30279,20 +30258,11 @@
     <programme start="20250208152000 +0000" stop="20250208153000 +0000" channel="ATN">
         <title>Boss Number One</title>
     </programme>
-    <programme start="20250208153000 +0000" stop="20250208155500 +0000" channel="ATN">
+    <programme start="20250208153000 +0000" stop="20250208160000 +0000" channel="ATN">
         <title>Charity Update: Goreeb Eathem</title>
     </programme>
-    <programme start="20250208155500 +0000" stop="20250208160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250208160000 +0000" stop="20250208162900 +0000" channel="ATN">
+    <programme start="20250208160000 +0000" stop="20250208165500 +0000" channel="ATN">
         <title>Porir Moto Bou</title>
-    </programme>
-    <programme start="20250208162900 +0000" stop="20250208163400 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250208163400 +0000" stop="20250208165500 +0000" channel="ATN">
-        <title>ATN News</title>
     </programme>
     <programme start="20250208165500 +0000" stop="20250208170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30309,23 +30279,14 @@
     <programme start="20250208173000 +0000" stop="20250208180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250208180000 +0000" stop="20250208180600 +0000" channel="ATN">
+    <programme start="20250208180000 +0000" stop="20250208183800 +0000" channel="ATN">
         <title>ATN Archive</title>
-    </programme>
-    <programme start="20250208180600 +0000" stop="20250208181100 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250208181100 +0000" stop="20250208183800 +0000" channel="ATN">
-        <title>ATN News</title>
     </programme>
     <programme start="20250208183800 +0000" stop="20250208184300 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250208184300 +0000" stop="20250208184500 +0000" channel="ATN">
+    <programme start="20250208184300 +0000" stop="20250208185000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250208184500 +0000" stop="20250208185000 +0000" channel="ATN">
-        <title>Quranic Discussion</title>
     </programme>
     <programme start="20250208185000 +0000" stop="20250208200000 +0000" channel="ATN">
         <title>Quranic Discussion</title>
@@ -34311,7 +34272,10 @@
     <programme start="20250207215500 +0000" stop="20250207230000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="Eurosport 1">
+    <programme start="20250207230000 +0000" stop="20250207231000 +0000" channel="Eurosport 1">
+        <title>Alpine Skiing: World Championships</title>
+    </programme>
+    <programme start="20250207231000 +0000" stop="20250208000000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208000000 +0000" stop="20250208010000 +0000" channel="Eurosport 1">
