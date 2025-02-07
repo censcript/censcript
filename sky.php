@@ -24712,10 +24712,10 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="QVC Beauty">
-        <title>L'Occitane: Beauty En Provence</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="QVC Beauty">
-        <title>Beauty Loves with Dyson Haircare</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250207150000 +0000" stop="20250207160000 +0000" channel="QVC Beauty">
         <title>Beauty Heroes</title>
@@ -25426,7 +25426,7 @@
         <title>Home Improvements</title>
     </programme>
     <programme start="20250207130000 +0000" stop="20250207140000 +0000" channel="QVC Extra">
-        <title>Practical Gardening Deals</title>
+        <title>Sleep Deals with Cozee</title>
     </programme>
     <programme start="20250207140000 +0000" stop="20250207150000 +0000" channel="QVC Extra">
         <title>Your Transitional Style Edit</title>
@@ -25435,7 +25435,7 @@
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250207160000 +0000" stop="20250207170000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>Kitchen Deals with Eilidh</title>
     </programme>
     <programme start="20250207170000 +0000" stop="20250207180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -25447,13 +25447,13 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250207200000 +0000" stop="20250207210000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250207210000 +0000" stop="20250207220000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250207220000 +0000" stop="20250207230000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250207230000 +0000" stop="20250208000000 +0000" channel="QVC Extra">
         <title>Home Improvements</title>

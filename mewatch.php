@@ -946,10 +946,10 @@
         <title>Chingay Parade 2025: Joy 妆艺大游行 2025: 悦</title>
     </programme>
     <programme start="20250207133000 +0000" stop="20250207160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th February, Tuesday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Malaysia vs Hong Kong</title>
+        <title>No Programme available now. Next Broadcast on 11th February, Tuesday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Korea vs Macau</title>
     </programme>
     <programme start="20250207160000 +0000" stop="20250208160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th February, Tuesday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Malaysia vs Hong Kong</title>
+        <title>No Programme available now. Next Broadcast on 11th February, Tuesday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Korea vs Macau</title>
     </programme>
     <programme start="20250206160000 +0000" stop="20250207040000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 7th February, Friday 12pm. Singapore Smash 2025</title>
