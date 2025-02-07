@@ -25719,13 +25719,22 @@
     <programme start="20250207144700 +0000" stop="20250207151200 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250207151200 +0000" stop="20250207170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250207151200 +0000" stop="20250207174500 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
     </programme>
-    <programme start="20250207170000 +0000" stop="20250207220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250207174500 +0000" stop="20250207185200 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250207220000 +0000" stop="20250207223000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250207185200 +0000" stop="20250207191700 +0000" channel="Dragon TV.starhub">
+        <title>Searching for flavor</title>
+    </programme>
+    <programme start="20250207191700 +0000" stop="20250207194500 +0000" channel="Dragon TV.starhub">
+        <title>I LOVE SHANGHAI</title>
+    </programme>
+    <programme start="20250207194500 +0000" stop="20250207221000 +0000" channel="Dragon TV.starhub">
+        <title>Cheer up!small shops</title>
+    </programme>
+    <programme start="20250207221000 +0000" stop="20250207223000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
     <programme start="20250207223000 +0000" stop="20250207230000 +0000" channel="Dragon TV.starhub">
@@ -25874,15 +25883,6 @@
     </programme>
     <programme start="20250210023000 +0000" stop="20250210040000 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>
-    </programme>
-    <programme start="20250210040000 +0000" stop="20250210043000 +0000" channel="Dragon TV.starhub">
-        <title>MIDDAY NEWS</title>
-    </programme>
-    <programme start="20250210043000 +0000" stop="20250210060000 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
-    </programme>
-    <programme start="20250210060000 +0000" stop="20250210063000 +0000" channel="Dragon TV.starhub">
-        <title>CHINA Now</title>
     </programme>
     <programme start="20250205233000 +0000" stop="20250206003000 +0000" channel="Sun Music.starhub">
         <title>Mellisaiye</title>

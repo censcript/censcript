@@ -14710,19 +14710,19 @@
         <title>..programmes coming soon</title>
     </programme>
     <programme start="20250207060000 +0000" stop="20250207100000 +0000" channel="SkySpBoxOffHD">
-        <title>Beterbiev V Bivol 2</title>
+        <title>Beterbiev V Bivol 2 Previews</title>
     </programme>
     <programme start="20250207100000 +0000" stop="20250207140000 +0000" channel="SkySpBoxOffHD">
-        <title>Beterbiev V Bivol 2</title>
+        <title>Beterbiev V Bivol 2 Previews</title>
     </programme>
     <programme start="20250207140000 +0000" stop="20250207180000 +0000" channel="SkySpBoxOffHD">
-        <title>Beterbiev V Bivol 2</title>
+        <title>Beterbiev V Bivol 2 Previews</title>
     </programme>
     <programme start="20250207180000 +0000" stop="20250207220000 +0000" channel="SkySpBoxOffHD">
-        <title>Beterbiev V Bivol 2</title>
+        <title>Beterbiev V Bivol 2 Previews</title>
     </programme>
     <programme start="20250207220000 +0000" stop="20250207230000 +0000" channel="SkySpBoxOffHD">
-        <title>Beterbiev V Bivol 2</title>
+        <title>Beterbiev V Bivol 2 Previews</title>
     </programme>
     <programme start="20250206223000 +0000" stop="20250206230000 +0000" channel="Sky News HD">
         <title>Press Preview</title>
@@ -29358,13 +29358,13 @@
     <programme start="20250207100000 +0000" stop="20250207110000 +0000" channel="Eman Channel">
         <title>Madrasah TV</title>
     </programme>
-    <programme start="20250207110000 +0000" stop="20250207112700 +0000" channel="Eman Channel">
+    <programme start="20250207110000 +0000" stop="20250207113000 +0000" channel="Eman Channel">
         <title>Finding the Balance</title>
     </programme>
-    <programme start="20250207112700 +0000" stop="20250207115500 +0000" channel="Eman Channel">
+    <programme start="20250207113000 +0000" stop="20250207120000 +0000" channel="Eman Channel">
         <title>Stories Told by My Prophet</title>
     </programme>
-    <programme start="20250207115500 +0000" stop="20250207122000 +0000" channel="Eman Channel">
+    <programme start="20250207120000 +0000" stop="20250207122000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250207122000 +0000" stop="20250207123000 +0000" channel="Eman Channel">
