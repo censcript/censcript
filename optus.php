@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250207195000 +0000" stop="20250207231000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Manchester United v Leicester City</title>
-    </programme>
     <programme start="20250208043000 +0000" stop="20250208074500 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Vissel Kobe v Sanfrecce</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>

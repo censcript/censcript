@@ -13740,11 +13740,8 @@
     <programme start="20250208105000 +0000" stop="20250208123500 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: Women's UAE Tour</title>
     </programme>
-    <programme start="20250208123500 +0000" stop="20250208134500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250208123500 +0000" stop="20250208135000 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: Superprestige</title>
-    </programme>
-    <programme start="20250208134500 +0000" stop="20250208135000 +0000" channel="Eurosport 2 HD">
-        <title>Cycling: Strade Bianche</title>
     </programme>
     <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Strade Bianche</title>
@@ -30247,19 +30244,19 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250208103000 +0000" stop="20250208115500 +0000" channel="ATN">
-        <title>Manik Chor</title>
+        <title>Jhilmil</title>
     </programme>
     <programme start="20250208115500 +0000" stop="20250208120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250208120000 +0000" stop="20250208122000 +0000" channel="ATN">
-        <title>Raja Rani Badsha</title>
+        <title>Boss Number One</title>
     </programme>
     <programme start="20250208122000 +0000" stop="20250208122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250208122500 +0000" stop="20250208140000 +0000" channel="ATN">
-        <title>Raja Rani Badsha</title>
+        <title>Boss Number One</title>
     </programme>
     <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30270,14 +30267,26 @@
     <programme start="20250208144500 +0000" stop="20250208145000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208155500 +0000" channel="ATN">
+    <programme start="20250208145000 +0000" stop="20250208145500 +0000" channel="ATN">
         <title>Raja Rani Badsha</title>
+    </programme>
+    <programme start="20250208145500 +0000" stop="20250208151500 +0000" channel="ATN">
+        <title>Boss Number One</title>
+    </programme>
+    <programme start="20250208151500 +0000" stop="20250208152000 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250208152000 +0000" stop="20250208153000 +0000" channel="ATN">
+        <title>Boss Number One</title>
+    </programme>
+    <programme start="20250208153000 +0000" stop="20250208155500 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250208155500 +0000" stop="20250208160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250208160000 +0000" stop="20250208162900 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Porir Moto Bou</title>
     </programme>
     <programme start="20250208162900 +0000" stop="20250208163400 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
@@ -30288,22 +30297,37 @@
     <programme start="20250208165500 +0000" stop="20250208170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250208170000 +0000" stop="20250208173000 +0000" channel="ATN">
+    <programme start="20250208170000 +0000" stop="20250208170600 +0000" channel="ATN">
+        <title>Cyber talk</title>
+    </programme>
+    <programme start="20250208170600 +0000" stop="20250208171100 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250208171100 +0000" stop="20250208173000 +0000" channel="ATN">
         <title>Cyber talk</title>
     </programme>
     <programme start="20250208173000 +0000" stop="20250208180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250208180000 +0000" stop="20250208180600 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250208180600 +0000" stop="20250208181100 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250208181100 +0000" stop="20250208184500 +0000" channel="ATN">
+    <programme start="20250208181100 +0000" stop="20250208183800 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250208184500 +0000" stop="20250208200000 +0000" channel="ATN">
+    <programme start="20250208183800 +0000" stop="20250208184300 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250208184300 +0000" stop="20250208184500 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250208184500 +0000" stop="20250208185000 +0000" channel="ATN">
+        <title>Quranic Discussion</title>
+    </programme>
+    <programme start="20250208185000 +0000" stop="20250208200000 +0000" channel="ATN">
         <title>Quranic Discussion</title>
     </programme>
     <programme start="20250208200000 +0000" stop="20250208203000 +0000" channel="ATN">
@@ -30313,10 +30337,10 @@
         <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250208210000 +0000" stop="20250208213000 +0000" channel="ATN">
-        <title>Somoyer Sathe</title>
+        <title>Road -e food e</title>
     </programme>
     <programme start="20250208213000 +0000" stop="20250208220000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Bangla Music</title>
     </programme>
     <programme start="20250208220000 +0000" stop="20250208223000 +0000" channel="ATN">
         <title>Matir Subash</title>
@@ -30325,7 +30349,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250208230000 +0000" stop="20250209000000 +0000" channel="ATN">
-        <title>Rongin Ujan Vati</title>
+        <title>Ai ghor Ai shongshar</title>
     </programme>
     <programme start="20250207223000 +0000" stop="20250207230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -34407,11 +34431,8 @@
     <programme start="20250208105000 +0000" stop="20250208123500 +0000" channel="Eurosport 2">
         <title>Live Cycling: Women's UAE Tour</title>
     </programme>
-    <programme start="20250208123500 +0000" stop="20250208134500 +0000" channel="Eurosport 2">
+    <programme start="20250208123500 +0000" stop="20250208135000 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: Superprestige</title>
-    </programme>
-    <programme start="20250208134500 +0000" stop="20250208135000 +0000" channel="Eurosport 2">
-        <title>Cycling: Strade Bianche</title>
     </programme>
     <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2">
         <title>Cycling: Strade Bianche</title>
