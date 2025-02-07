@@ -1707,19 +1707,19 @@
     <programme start="20250207200000 +0000" stop="20250207210000 +0000" channel="ITV2 HD">
         <title>New: Gordon Ramsay's Food Stars USA</title>
     </programme>
-    <programme start="20250207210000 +0000" stop="20250207220500 +0000" channel="ITV2 HD">
+    <programme start="20250207210000 +0000" stop="20250207222000 +0000" channel="ITV2 HD">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250207220500 +0000" stop="20250207223500 +0000" channel="ITV2 HD">
+    <programme start="20250207222000 +0000" stop="20250207225000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250207223500 +0000" stop="20250207230500 +0000" channel="ITV2 HD">
+    <programme start="20250207225000 +0000" stop="20250207232000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250207230500 +0000" stop="20250207233500 +0000" channel="ITV2 HD">
+    <programme start="20250207232000 +0000" stop="20250207235000 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250207233500 +0000" stop="20250208003500 +0000" channel="ITV2 HD">
+    <programme start="20250207235000 +0000" stop="20250208005000 +0000" channel="ITV2 HD">
         <title>American Dad!</title>
     </programme>
     <programme start="20250206220000 +0000" stop="20250207000000 +0000" channel="ITV3 HD">
@@ -8277,13 +8277,13 @@
     <programme start="20250207210000 +0000" stop="20250207220000 +0000" channel="ITV2+1">
         <title>New: Gordon Ramsay's Food Stars USA</title>
     </programme>
-    <programme start="20250207220000 +0000" stop="20250207230500 +0000" channel="ITV2+1">
+    <programme start="20250207220000 +0000" stop="20250207232000 +0000" channel="ITV2+1">
         <title>New: Love Island: All Stars</title>
     </programme>
-    <programme start="20250207230500 +0000" stop="20250207233500 +0000" channel="ITV2+1">
+    <programme start="20250207232000 +0000" stop="20250207235000 +0000" channel="ITV2+1">
         <title>Family Guy</title>
     </programme>
-    <programme start="20250207233500 +0000" stop="20250208003500 +0000" channel="ITV2+1">
+    <programme start="20250207235000 +0000" stop="20250208005000 +0000" channel="ITV2+1">
         <title>Family Guy</title>
     </programme>
     <programme start="20250206210000 +0000" stop="20250206230000 +0000" channel="ITV3+1">
@@ -28120,7 +28120,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250207110500 +0000" stop="20250207120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Hoshiyarian</title>
     </programme>
     <programme start="20250207120000 +0000" stop="20250207120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -29128,7 +29128,7 @@
         <title>Islam Special</title>
     </programme>
     <programme start="20250207070000 +0000" stop="20250207083000 +0000" channel="Islam Ch Urdu">
-        <title>Paigham e Quran</title>
+        <title>Taleemat</title>
     </programme>
     <programme start="20250207083000 +0000" stop="20250207090000 +0000" channel="Islam Ch Urdu">
         <title>Naat and Nasheed</title>
@@ -29934,8 +29934,11 @@
     <programme start="20250207193000 +0000" stop="20250207200000 +0000" channel="Sikh Channel">
         <title>SC Pakistan Yatra</title>
     </programme>
-    <programme start="20250207200000 +0000" stop="20250207210000 +0000" channel="Sikh Channel">
-        <title>Special Report</title>
+    <programme start="20250207200000 +0000" stop="20250207203000 +0000" channel="Sikh Channel">
+        <title>Delhi Election Exit Poll 2025</title>
+    </programme>
+    <programme start="20250207203000 +0000" stop="20250207210000 +0000" channel="Sikh Channel">
+        <title>Bhallo Bhallo Re Kirtania</title>
     </programme>
     <programme start="20250207210000 +0000" stop="20250207213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
