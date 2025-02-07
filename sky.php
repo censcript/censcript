@@ -13642,7 +13642,7 @@
         <title>Cycling: Women's UAE Tour</title>
     </programme>
     <programme start="20250208060500 +0000" stop="20250208070500 +0000" channel="Eurosport 1 HD">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208070500 +0000" stop="20250208080500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Championships</title>
@@ -13662,11 +13662,14 @@
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250208130000 +0000" stop="20250208134500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208130000 +0000" stop="20250208134000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
+    <programme start="20250208134000 +0000" stop="20250208134500 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
     <programme start="20250208134500 +0000" stop="20250208144500 +0000" channel="Eurosport 1 HD">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208144500 +0000" stop="20250208164500 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
@@ -13674,11 +13677,14 @@
     <programme start="20250208164500 +0000" stop="20250208174500 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250208174500 +0000" stop="20250208182000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208174500 +0000" stop="20250208181500 +0000" channel="Eurosport 1 HD">
         <title>Discovery Golf</title>
     </programme>
+    <programme start="20250208181500 +0000" stop="20250208182000 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
     <programme start="20250208182000 +0000" stop="20250208192000 +0000" channel="Eurosport 1 HD">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208192000 +0000" stop="20250208210000 +0000" channel="Eurosport 1 HD">
         <title>Live Ski Jumping: World Cup</title>
@@ -13705,7 +13711,7 @@
         <title>Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250208010000 +0000" stop="20250208020000 +0000" channel="Eurosport 2 HD">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208020000 +0000" stop="20250208030000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Tour of Valencia</title>
@@ -13714,7 +13720,7 @@
         <title>Cycling: Women's UAE Tour</title>
     </programme>
     <programme start="20250208040000 +0000" stop="20250208050000 +0000" channel="Eurosport 2 HD">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208050000 +0000" stop="20250208060000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Championships</title>
@@ -13737,7 +13743,10 @@
     <programme start="20250208123500 +0000" stop="20250208134500 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: Superprestige</title>
     </programme>
-    <programme start="20250208134500 +0000" stop="20250208140500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250208134500 +0000" stop="20250208135000 +0000" channel="Eurosport 2 HD">
+        <title>Cycling: Strade Bianche</title>
+    </programme>
+    <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Strade Bianche</title>
     </programme>
     <programme start="20250208140500 +0000" stop="20250208151500 +0000" channel="Eurosport 2 HD">
@@ -27568,7 +27577,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250208080500 +0000" stop="20250208090000 +0000" channel="New Vision TV">
-        <title>Kahay Faqir</title>
+        <title>Sports Room</title>
     </programme>
     <programme start="20250208090000 +0000" stop="20250208090500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27591,8 +27600,11 @@
     <programme start="20250208120000 +0000" stop="20250208120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250208120500 +0000" stop="20250208130000 +0000" channel="New Vision TV">
+    <programme start="20250208120500 +0000" stop="20250208123000 +0000" channel="New Vision TV">
         <title>Hoshiyarian</title>
+    </programme>
+    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="New Vision TV">
+        <title>Sports Room</title>
     </programme>
     <programme start="20250208130000 +0000" stop="20250208130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -28435,7 +28447,7 @@
         <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250208170000 +0000" stop="20250208180000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Gapshap with Papa Khan</title>
     </programme>
     <programme start="20250208180000 +0000" stop="20250208190000 +0000" channel="Takbeer TV">
         <title>Asan Na Kashmir</title>
@@ -30490,7 +30502,7 @@
         <title>Praner Sur</title>
     </programme>
     <programme start="20250208074500 +0000" stop="20250208080000 +0000" channel="TV One">
-        <title>Story Time with Ruksana</title>
+        <title>Story Time with Sarah</title>
     </programme>
     <programme start="20250208080000 +0000" stop="20250208081500 +0000" channel="TV One">
         <title>Quraner Paray</title>
@@ -30505,10 +30517,13 @@
         <title>Spring of Mercy</title>
     </programme>
     <programme start="20250208093000 +0000" stop="20250208094000 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250208094000 +0000" stop="20250208100500 +0000" channel="TV One">
         <title>Zuhr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250208094000 +0000" stop="20250208100000 +0000" channel="TV One">
+        <title>Zuhr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250208100000 +0000" stop="20250208100500 +0000" channel="TV One">
+        <title>Documentary - Zam zam</title>
     </programme>
     <programme start="20250208100500 +0000" stop="20250208103000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
@@ -30522,37 +30537,55 @@
     <programme start="20250208120000 +0000" stop="20250208121600 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250208121600 +0000" stop="20250208122500 +0000" channel="TV One">
+    <programme start="20250208121600 +0000" stop="20250208122000 +0000" channel="TV One">
+        <title>Zuhr Azaan</title>
+    </programme>
+    <programme start="20250208122000 +0000" stop="20250208122500 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
     <programme start="20250208122500 +0000" stop="20250208124000 +0000" channel="TV One">
-        <title>Short film</title>
+        <title>Purpose of Life</title>
     </programme>
-    <programme start="20250208124000 +0000" stop="20250208130000 +0000" channel="TV One">
+    <programme start="20250208124000 +0000" stop="20250208125500 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="TV One">
+    <programme start="20250208125500 +0000" stop="20250208130000 +0000" channel="TV One">
+        <title>Asr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250208130000 +0000" stop="20250208132000 +0000" channel="TV One">
         <title>Purpose of Life</title>
+    </programme>
+    <programme start="20250208132000 +0000" stop="20250208133000 +0000" channel="TV One">
+        <title>360 Degree</title>
     </programme>
     <programme start="20250208133000 +0000" stop="20250208140000 +0000" channel="TV One">
         <title>Fusion Kitchen</title>
     </programme>
     <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="TV One">
-        <title>Afternoon News</title>
+        <title>Pioneers of the Path</title>
     </programme>
     <programme start="20250208143000 +0000" stop="20250208143900 +0000" channel="TV One">
-        <title>Tunes For Life</title>
+        <title>Proofs of Prophethood</title>
     </programme>
     <programme start="20250208143900 +0000" stop="20250208144500 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
     <programme start="20250208144500 +0000" stop="20250208150000 +0000" channel="TV One">
-        <title>Proofs of Prophethood</title>
+        <title>Spring of Mercy</title>
     </programme>
-    <programme start="20250208150000 +0000" stop="20250208153000 +0000" channel="TV One">
+    <programme start="20250208150000 +0000" stop="20250208151500 +0000" channel="TV One">
+        <title>Tunes For Life</title>
+    </programme>
+    <programme start="20250208151500 +0000" stop="20250208152000 +0000" channel="TV One">
+        <title>Asr Azaan</title>
+    </programme>
+    <programme start="20250208152000 +0000" stop="20250208153000 +0000" channel="TV One">
         <title>Maghrib Prayer Live From Kabah</title>
     </programme>
-    <programme start="20250208153000 +0000" stop="20250208162900 +0000" channel="TV One">
+    <programme start="20250208153000 +0000" stop="20250208154500 +0000" channel="TV One">
+        <title>Dawah Conference</title>
+    </programme>
+    <programme start="20250208154500 +0000" stop="20250208162900 +0000" channel="TV One">
         <title>Dawah Conference</title>
     </programme>
     <programme start="20250208162900 +0000" stop="20250208164000 +0000" channel="TV One">
@@ -30561,11 +30594,14 @@
     <programme start="20250208164000 +0000" stop="20250208170000 +0000" channel="TV One">
         <title>Dawah Conference</title>
     </programme>
-    <programme start="20250208170000 +0000" stop="20250208171500 +0000" channel="TV One">
+    <programme start="20250208170000 +0000" stop="20250208170600 +0000" channel="TV One">
         <title>Story Time with Ruksana</title>
     </programme>
+    <programme start="20250208170600 +0000" stop="20250208171500 +0000" channel="TV One">
+        <title>Maghrib Azaan</title>
+    </programme>
     <programme start="20250208171500 +0000" stop="20250208173000 +0000" channel="TV One">
-        <title>Spring of Mercy</title>
+        <title>Proofs of Prophethood</title>
     </programme>
     <programme start="20250208173000 +0000" stop="20250208180600 +0000" channel="TV One">
         <title>Legal Helpline</title>
@@ -30576,17 +30612,32 @@
     <programme start="20250208181500 +0000" stop="20250208183000 +0000" channel="TV One">
         <title>Legal Helpline</title>
     </programme>
-    <programme start="20250208183000 +0000" stop="20250208190000 +0000" channel="TV One">
+    <programme start="20250208183000 +0000" stop="20250208183800 +0000" channel="TV One">
+        <title>Evening News</title>
+    </programme>
+    <programme start="20250208183800 +0000" stop="20250208184500 +0000" channel="TV One">
+        <title>Isha Azaan</title>
+    </programme>
+    <programme start="20250208184500 +0000" stop="20250208190000 +0000" channel="TV One">
         <title>Evening News</title>
     </programme>
     <programme start="20250208190000 +0000" stop="20250208200000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250208200000 +0000" stop="20250208203000 +0000" channel="TV One">
+    <programme start="20250208200000 +0000" stop="20250208201500 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250208201500 +0000" stop="20250208203000 +0000" channel="TV One">
+        <title>Imam Naseeha</title>
+    </programme>
+    <programme start="20250208203000 +0000" stop="20250208210000 +0000" channel="TV One">
         <title>Purpose of Life</title>
     </programme>
-    <programme start="20250208203000 +0000" stop="20250208213000 +0000" channel="TV One">
-        <title>Community Outreach</title>
+    <programme start="20250208210000 +0000" stop="20250208211500 +0000" channel="TV One">
+        <title>Spring of Mercy</title>
+    </programme>
+    <programme start="20250208211500 +0000" stop="20250208213000 +0000" channel="TV One">
+        <title>Short film</title>
     </programme>
     <programme start="20250208213000 +0000" stop="20250208220000 +0000" channel="TV One">
         <title>Fusion Kitchen</title>
@@ -30598,10 +30649,13 @@
         <title>Praner Sur</title>
     </programme>
     <programme start="20250208224500 +0000" stop="20250208230000 +0000" channel="TV One">
-        <title>Imam Naseeha</title>
-    </programme>
-    <programme start="20250208230000 +0000" stop="20250208233000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
+    </programme>
+    <programme start="20250208230000 +0000" stop="20250208231500 +0000" channel="TV One">
+        <title>Documentary - Zam zam</title>
+    </programme>
+    <programme start="20250208231500 +0000" stop="20250208233000 +0000" channel="TV One">
+        <title>360 Degree</title>
     </programme>
     <programme start="20250208233000 +0000" stop="20250209003000 +0000" channel="TV One">
         <title>Dawah Conference</title>
@@ -34306,7 +34360,7 @@
         <title>Cycling: Women's UAE Tour</title>
     </programme>
     <programme start="20250208060500 +0000" stop="20250208070500 +0000" channel="Eurosport 1">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208070500 +0000" stop="20250208080500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Championships</title>
@@ -34326,11 +34380,14 @@
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250208130000 +0000" stop="20250208134500 +0000" channel="Eurosport 1">
+    <programme start="20250208130000 +0000" stop="20250208134000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
+    <programme start="20250208134000 +0000" stop="20250208134500 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
     <programme start="20250208134500 +0000" stop="20250208144500 +0000" channel="Eurosport 1">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208144500 +0000" stop="20250208164500 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
@@ -34338,11 +34395,14 @@
     <programme start="20250208164500 +0000" stop="20250208174500 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250208174500 +0000" stop="20250208182000 +0000" channel="Eurosport 1">
+    <programme start="20250208174500 +0000" stop="20250208181500 +0000" channel="Eurosport 1">
         <title>Discovery Golf</title>
     </programme>
+    <programme start="20250208181500 +0000" stop="20250208182000 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
     <programme start="20250208182000 +0000" stop="20250208192000 +0000" channel="Eurosport 1">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208192000 +0000" stop="20250208210000 +0000" channel="Eurosport 1">
         <title>Live Ski Jumping: World Cup</title>
@@ -34369,7 +34429,7 @@
         <title>Freestyle Skiing: World Cup</title>
     </programme>
     <programme start="20250208010000 +0000" stop="20250208020000 +0000" channel="Eurosport 2">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208020000 +0000" stop="20250208030000 +0000" channel="Eurosport 2">
         <title>Cycling: Tour of Valencia</title>
@@ -34378,7 +34438,7 @@
         <title>Cycling: Women's UAE Tour</title>
     </programme>
     <programme start="20250208040000 +0000" stop="20250208050000 +0000" channel="Eurosport 2">
-        <title>Ski Jumping: World Cup</title>
+        <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208050000 +0000" stop="20250208060000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Championships</title>
@@ -34401,7 +34461,10 @@
     <programme start="20250208123500 +0000" stop="20250208134500 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: Superprestige</title>
     </programme>
-    <programme start="20250208134500 +0000" stop="20250208140500 +0000" channel="Eurosport 2">
+    <programme start="20250208134500 +0000" stop="20250208135000 +0000" channel="Eurosport 2">
+        <title>Cycling: Strade Bianche</title>
+    </programme>
+    <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2">
         <title>Cycling: Strade Bianche</title>
     </programme>
     <programme start="20250208140500 +0000" stop="20250208151500 +0000" channel="Eurosport 2">
