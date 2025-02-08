@@ -29325,41 +29325,29 @@
     <programme start="20250209010000 +0000" stop="20250209034000 +0000" channel="Kanshi TV">
         <title>Gurudev - 1993</title>
     </programme>
-    <programme start="20250209034000 +0000" stop="20250209070000 +0000" channel="Kanshi TV">
+    <programme start="20250209034000 +0000" stop="20250209060000 +0000" channel="Kanshi TV">
         <title>Amrit Bani</title>
     </programme>
-    <programme start="20250209070000 +0000" stop="20250209090000 +0000" channel="Kanshi TV">
+    <programme start="20250209060000 +0000" stop="20250209080000 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
     </programme>
-    <programme start="20250209090000 +0000" stop="20250209093000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV News</title>
-    </programme>
-    <programme start="20250209093000 +0000" stop="20250209103000 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250209103000 +0000" stop="20250209120000 +0000" channel="Kanshi TV">
-        <title>Ravidassia Dharam 2025</title>
-    </programme>
-    <programme start="20250209120000 +0000" stop="20250209130000 +0000" channel="Kanshi TV">
-        <title>Bharat ki Awaz</title>
+    <programme start="20250209080000 +0000" stop="20250209130000 +0000" channel="Kanshi TV">
+        <title>Begumpura Diyan Raunka</title>
     </programme>
     <programme start="20250209130000 +0000" stop="20250209140000 +0000" channel="Kanshi TV">
         <title>Ek Niwas Universal Divine Temple</title>
     </programme>
     <programme start="20250209140000 +0000" stop="20250209150000 +0000" channel="Kanshi TV">
-        <title>Jyotish Amrit Mata - Astrologer</title>
+        <title>Music Time</title>
     </programme>
-    <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="Kanshi TV">
-        <title>Health Talk Show with Balbir Kaur</title>
-    </programme>
-    <programme start="20250209160000 +0000" stop="20250209180000 +0000" channel="Kanshi TV">
+    <programme start="20250209150000 +0000" stop="20250209180000 +0000" channel="Kanshi TV">
         <title>Ravidass Rahe Parsan</title>
     </programme>
     <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="Kanshi TV">
         <title>Lotus TV</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209200000 +0000" channel="Kanshi TV">
-        <title>Ik Tera Sahara</title>
+        <title>Begumpura Diyan Raunka</title>
     </programme>
     <programme start="20250209200000 +0000" stop="20250209210000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
