@@ -30303,13 +30303,7 @@
     <programme start="20250209055000 +0000" stop="20250209060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250209060000 +0000" stop="20250209060700 +0000" channel="iON TV">
-        <title>iON News Time</title>
-    </programme>
-    <programme start="20250209060700 +0000" stop="20250209061200 +0000" channel="iON TV">
-        <title>Azan-e-Fajr</title>
-    </programme>
-    <programme start="20250209061200 +0000" stop="20250209063000 +0000" channel="iON TV">
+    <programme start="20250209060000 +0000" stop="20250209063000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250209063000 +0000" stop="20250209070000 +0000" channel="iON TV">
@@ -30333,56 +30327,59 @@
     <programme start="20250209110000 +0000" stop="20250209120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250209120000 +0000" stop="20250209121800 +0000" channel="iON TV">
+    <programme start="20250209120000 +0000" stop="20250209122000 +0000" channel="iON TV">
         <title>Islamic Discussion</title>
     </programme>
-    <programme start="20250209121800 +0000" stop="20250209122300 +0000" channel="iON TV">
+    <programme start="20250209122000 +0000" stop="20250209122500 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250209122300 +0000" stop="20250209130000 +0000" channel="iON TV">
+    <programme start="20250209122500 +0000" stop="20250209130000 +0000" channel="iON TV">
         <title>Islamic Discussion</title>
     </programme>
     <programme start="20250209130000 +0000" stop="20250209133000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250209133000 +0000" stop="20250209140000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250209140000 +0000" stop="20250209145200 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250209145200 +0000" stop="20250209145700 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250209145700 +0000" stop="20250209150000 +0000" channel="iON TV">
+    <programme start="20250209145200 +0000" stop="20250209150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="iON TV">
+    <programme start="20250209150000 +0000" stop="20250209151600 +0000" channel="iON TV">
         <title>Bornomala</title>
     </programme>
-    <programme start="20250209160000 +0000" stop="20250209164300 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250209151600 +0000" stop="20250209152100 +0000" channel="iON TV">
+        <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250209164300 +0000" stop="20250209164800 +0000" channel="iON TV">
+    <programme start="20250209152100 +0000" stop="20250209160000 +0000" channel="iON TV">
+        <title>Bornomala</title>
+    </programme>
+    <programme start="20250209160000 +0000" stop="20250209170000 +0000" channel="iON TV">
+        <title>News Views</title>
+    </programme>
+    <programme start="20250209170000 +0000" stop="20250209170800 +0000" channel="iON TV">
+        <title>Music Hour</title>
+    </programme>
+    <programme start="20250209170800 +0000" stop="20250209171300 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250209164800 +0000" stop="20250209170000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250209171300 +0000" stop="20250209180000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
-    <programme start="20250209170000 +0000" stop="20250209180000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250209180000 +0000" stop="20250209183900 +0000" channel="iON TV">
+        <title>Prokriti O Jibon</title>
     </programme>
-    <programme start="20250209180000 +0000" stop="20250209182000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
-    </programme>
-    <programme start="20250209182000 +0000" stop="20250209182500 +0000" channel="iON TV">
+    <programme start="20250209183900 +0000" stop="20250209184400 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250209182500 +0000" stop="20250209190000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250209184400 +0000" stop="20250209190000 +0000" channel="iON TV">
+        <title>Prokriti O Jibon</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209200000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250209200000 +0000" stop="20250209210000 +0000" channel="iON TV">
         <title>Sahih Quran Shikha</title>
@@ -30394,10 +30391,10 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250208223000 +0000" stop="20250208230000 +0000" channel="Deen TV">
         <title>Islamer Shundor Achoron</title>
