@@ -30000,14 +30000,8 @@
     <programme start="20250208055300 +0000" stop="20250208060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
-    <programme start="20250208060000 +0000" stop="20250208061700 +0000" channel="CHSTV">
+    <programme start="20250208060000 +0000" stop="20250208063000 +0000" channel="CHSTV">
         <title>The Spirit Of The Quran</title>
-    </programme>
-    <programme start="20250208061700 +0000" stop="20250208062200 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250208062200 +0000" stop="20250208063000 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250208063000 +0000" stop="20250208070000 +0000" channel="CHSTV">
         <title>Islamic Lifestyle</title>
@@ -30033,16 +30027,10 @@
     <programme start="20250208110000 +0000" stop="20250208122000 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250208122000 +0000" stop="20250208122600 +0000" channel="CHSTV">
+    <programme start="20250208122000 +0000" stop="20250208123000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250208122600 +0000" stop="20250208123000 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
-    </programme>
-    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="CHSTV">
+    <programme start="20250208123000 +0000" stop="20250208133000 +0000" channel="CHSTV">
         <title>Tafsir</title>
     </programme>
     <programme start="20250208133000 +0000" stop="20250208140000 +0000" channel="CHSTV">
@@ -30051,13 +30039,7 @@
     <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250208143000 +0000" stop="20250208144000 +0000" channel="CHSTV">
-        <title>Sharirik Shikkha</title>
-    </programme>
-    <programme start="20250208144000 +0000" stop="20250208144500 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250208144500 +0000" stop="20250208150000 +0000" channel="CHSTV">
+    <programme start="20250208143000 +0000" stop="20250208150000 +0000" channel="CHSTV">
         <title>Sharirik Shikkha</title>
     </programme>
     <programme start="20250208150000 +0000" stop="20250208151500 +0000" channel="CHSTV">
@@ -30069,17 +30051,8 @@
     <programme start="20250208152100 +0000" stop="20250208162000 +0000" channel="CHSTV">
         <title>Batpar Unlimited</title>
     </programme>
-    <programme start="20250208162000 +0000" stop="20250208162900 +0000" channel="CHSTV">
+    <programme start="20250208162000 +0000" stop="20250208170600 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
-    </programme>
-    <programme start="20250208162900 +0000" stop="20250208163500 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250208163500 +0000" stop="20250208170000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
-    </programme>
-    <programme start="20250208170000 +0000" stop="20250208170600 +0000" channel="CHSTV">
-        <title>Seerat</title>
     </programme>
     <programme start="20250208170600 +0000" stop="20250208171000 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
@@ -30087,19 +30060,10 @@
     <programme start="20250208171000 +0000" stop="20250208180000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
-    <programme start="20250208180000 +0000" stop="20250208180600 +0000" channel="CHSTV">
+    <programme start="20250208180000 +0000" stop="20250208182500 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250208180600 +0000" stop="20250208181000 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250208181000 +0000" stop="20250208182500 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
-    </programme>
-    <programme start="20250208182500 +0000" stop="20250208183000 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250208183000 +0000" stop="20250208184000 +0000" channel="CHSTV">
+    <programme start="20250208182500 +0000" stop="20250208184000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
     <programme start="20250208184000 +0000" stop="20250208184500 +0000" channel="CHSTV">
