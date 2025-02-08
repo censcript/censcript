@@ -12393,9 +12393,6 @@
     <programme start="20250208210000 +0000" stop="20250208220000 +0000" channel="NOW 70s">
         <title>It Spent HOW Long At No.1?!</title>
     </programme>
-    <programme start="20250207130000 +0000" stop="20250208010500 +0000" channel="NOW 80s">
-        <title>Every Number 2 of the 80s!</title>
-    </programme>
     <programme start="20250208010500 +0000" stop="20250208020000 +0000" channel="NOW 80s">
         <title>1989 Unleashed!</title>
     </programme>
@@ -13752,10 +13749,10 @@
     <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Strade Bianche</title>
     </programme>
-    <programme start="20250208140500 +0000" stop="20250208151500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250208140500 +0000" stop="20250208152000 +0000" channel="Eurosport 2 HD">
         <title>Live Cyclo-Cross: Superprestige</title>
     </programme>
-    <programme start="20250208151500 +0000" stop="20250208161500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250208152000 +0000" stop="20250208161500 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: Tour of Valencia</title>
     </programme>
     <programme start="20250208161500 +0000" stop="20250208171000 +0000" channel="Eurosport 2 HD">
@@ -29611,7 +29608,7 @@
         <title>Sikh Relief</title>
     </programme>
     <programme start="20250208190000 +0000" stop="20250208200000 +0000" channel="Akaal Channel">
-        <title>Live:Welding Machine (Sikhligar)</title>
+        <title>Live: Save Gurvinder Singh</title>
     </programme>
     <programme start="20250208200000 +0000" stop="20250208210000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
@@ -34401,10 +34398,10 @@
     <programme start="20250208135000 +0000" stop="20250208140500 +0000" channel="Eurosport 2">
         <title>Cycling: Strade Bianche</title>
     </programme>
-    <programme start="20250208140500 +0000" stop="20250208151500 +0000" channel="Eurosport 2">
+    <programme start="20250208140500 +0000" stop="20250208152000 +0000" channel="Eurosport 2">
         <title>Live Cyclo-Cross: Superprestige</title>
     </programme>
-    <programme start="20250208151500 +0000" stop="20250208161500 +0000" channel="Eurosport 2">
+    <programme start="20250208152000 +0000" stop="20250208161500 +0000" channel="Eurosport 2">
         <title>Live Cycling: Tour of Valencia</title>
     </programme>
     <programme start="20250208161500 +0000" stop="20250208171000 +0000" channel="Eurosport 2">
