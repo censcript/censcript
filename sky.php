@@ -27162,17 +27162,11 @@
     <programme start="20250208080000 +0000" stop="20250208085000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250208085000 +0000" stop="20250208094000 +0000" channel="MTA1 World HD">
+    <programme start="20250208085000 +0000" stop="20250208094500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250208094000 +0000" stop="20250208094500 +0000" channel="MTA1 World HD">
+    <programme start="20250208094500 +0000" stop="20250208100000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
-    </programme>
-    <programme start="20250208094500 +0000" stop="20250208095000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250208095000 +0000" stop="20250208100000 +0000" channel="MTA1 World HD">
-        <title>Key Mosques</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208105000 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
@@ -27204,29 +27198,17 @@
     <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250208143000 +0000" stop="20250208152000 +0000" channel="MTA1 World HD">
+    <programme start="20250208143000 +0000" stop="20250208152500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250208152000 +0000" stop="20250208152500 +0000" channel="MTA1 World HD">
+    <programme start="20250208152500 +0000" stop="20250208153500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250208152500 +0000" stop="20250208153000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250208153000 +0000" stop="20250208153500 +0000" channel="MTA1 World HD">
+    <programme start="20250208153500 +0000" stop="20250208160000 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250208153500 +0000" stop="20250208155500 +0000" channel="MTA1 World HD">
-        <title>Kudak</title>
-    </programme>
-    <programme start="20250208155500 +0000" stop="20250208160000 +0000" channel="MTA1 World HD">
+    <programme start="20250208160000 +0000" stop="20250208162000 +0000" channel="MTA1 World HD">
         <title>MTA Explore</title>
-    </programme>
-    <programme start="20250208160000 +0000" stop="20250208161000 +0000" channel="MTA1 World HD">
-        <title>MTA Explore</title>
-    </programme>
-    <programme start="20250208161000 +0000" stop="20250208162000 +0000" channel="MTA1 World HD">
-        <title>Tehrik-e-Jadid</title>
     </programme>
     <programme start="20250208162000 +0000" stop="20250208163000 +0000" channel="MTA1 World HD">
         <title>The Post Office Case</title>
@@ -27261,11 +27243,8 @@
     <programme start="20250208223000 +0000" stop="20250208225500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250208225500 +0000" stop="20250208234500 +0000" channel="MTA1 World HD">
+    <programme start="20250208225500 +0000" stop="20250208235000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250208234500 +0000" stop="20250208235000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250208235000 +0000" stop="20250209005000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -30022,7 +30001,7 @@
         <title>Somoyer Golpo</title>
     </programme>
     <programme start="20250208060000 +0000" stop="20250208061700 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
+        <title>The Spirit Of The Quran</title>
     </programme>
     <programme start="20250208061700 +0000" stop="20250208062200 +0000" channel="CHSTV">
         <title>Azan-E-Fajr</title>
@@ -30049,22 +30028,28 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250208093000 +0000" stop="20250208110000 +0000" channel="CHSTV">
-        <title>Amar Gao</title>
+        <title>Islam Essentials</title>
     </programme>
-    <programme start="20250208110000 +0000" stop="20250208122600 +0000" channel="CHSTV">
+    <programme start="20250208110000 +0000" stop="20250208122000 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
+    </programme>
+    <programme start="20250208122000 +0000" stop="20250208122600 +0000" channel="CHSTV">
+        <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250208122600 +0000" stop="20250208123000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250208123000 +0000" stop="20250208130000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
-    </programme>
-    <programme start="20250208130000 +0000" stop="20250208140000 +0000" channel="CHSTV">
         <title>Tafsir</title>
     </programme>
-    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="CHSTV">
+    <programme start="20250208130000 +0000" stop="20250208133000 +0000" channel="CHSTV">
+        <title>Tafsir</title>
+    </programme>
+    <programme start="20250208133000 +0000" stop="20250208140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
+    </programme>
+    <programme start="20250208140000 +0000" stop="20250208143000 +0000" channel="CHSTV">
+        <title>Independent News</title>
     </programme>
     <programme start="20250208143000 +0000" stop="20250208144000 +0000" channel="CHSTV">
         <title>Sharirik Shikkha</title>
@@ -30075,8 +30060,17 @@
     <programme start="20250208144500 +0000" stop="20250208150000 +0000" channel="CHSTV">
         <title>Sharirik Shikkha</title>
     </programme>
-    <programme start="20250208150000 +0000" stop="20250208162900 +0000" channel="CHSTV">
-        <title>Agdum Bagdum</title>
+    <programme start="20250208150000 +0000" stop="20250208151500 +0000" channel="CHSTV">
+        <title>Batpar Unlimited</title>
+    </programme>
+    <programme start="20250208151500 +0000" stop="20250208152100 +0000" channel="CHSTV">
+        <title>Azan-E-Asar</title>
+    </programme>
+    <programme start="20250208152100 +0000" stop="20250208162000 +0000" channel="CHSTV">
+        <title>Batpar Unlimited</title>
+    </programme>
+    <programme start="20250208162000 +0000" stop="20250208162900 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
     </programme>
     <programme start="20250208162900 +0000" stop="20250208163500 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
@@ -30084,16 +30078,34 @@
     <programme start="20250208163500 +0000" stop="20250208170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250208170000 +0000" stop="20250208180600 +0000" channel="CHSTV">
+    <programme start="20250208170000 +0000" stop="20250208170600 +0000" channel="CHSTV">
         <title>Seerat</title>
+    </programme>
+    <programme start="20250208170600 +0000" stop="20250208171000 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250208171000 +0000" stop="20250208180000 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250208180000 +0000" stop="20250208180600 +0000" channel="CHSTV">
+        <title>Orthoniti Sharadin</title>
     </programme>
     <programme start="20250208180600 +0000" stop="20250208181000 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250208181000 +0000" stop="20250208183000 +0000" channel="CHSTV">
+    <programme start="20250208181000 +0000" stop="20250208182500 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250208183000 +0000" stop="20250208190000 +0000" channel="CHSTV">
+    <programme start="20250208182500 +0000" stop="20250208183000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250208183000 +0000" stop="20250208184000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250208184000 +0000" stop="20250208184500 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250208184500 +0000" stop="20250208190000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
     <programme start="20250208190000 +0000" stop="20250208200000 +0000" channel="CHSTV">
@@ -30106,13 +30118,13 @@
         <title>Music Lounge</title>
     </programme>
     <programme start="20250208210000 +0000" stop="20250208220000 +0000" channel="CHSTV">
-        <title>The Saturday Show</title>
+        <title>Sporium</title>
     </programme>
     <programme start="20250208220000 +0000" stop="20250208223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250208223000 +0000" stop="20250208233000 +0000" channel="CHSTV">
-        <title>Dark Room</title>
+        <title>Rupar Jadu</title>
     </programme>
     <programme start="20250207203000 +0000" stop="20250208000000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
@@ -30633,20 +30645,20 @@
     <programme start="20250208030000 +0000" stop="20250208050000 +0000" channel="iON TV">
         <title>Movie Time</title>
     </programme>
-    <programme start="20250208050000 +0000" stop="20250208054200 +0000" channel="iON TV">
+    <programme start="20250208050000 +0000" stop="20250208054700 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250208054200 +0000" stop="20250208054700 +0000" channel="iON TV">
+    <programme start="20250208054700 +0000" stop="20250208055200 +0000" channel="iON TV">
         <title>Azan-e-Fajr</title>
     </programme>
-    <programme start="20250208054700 +0000" stop="20250208060000 +0000" channel="iON TV">
+    <programme start="20250208055200 +0000" stop="20250208060000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
     <programme start="20250208060000 +0000" stop="20250208063000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250208063000 +0000" stop="20250208070000 +0000" channel="iON TV">
-        <title>News 24</title>
+        <title>Srestho Manushera</title>
     </programme>
     <programme start="20250208070000 +0000" stop="20250208080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
