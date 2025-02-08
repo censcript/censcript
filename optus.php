@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Leeds United v Millwall</title>
-    </programme>
-    <programme start="20250208120500 +0000" stop="20250208152500 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Leyton Orient v Manchester City</title>
-    </programme>
     <programme start="20250208144500 +0000" stop="20250208180000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - FA Cup Goals Show</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Bay FC v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>

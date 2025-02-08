@@ -13671,7 +13671,10 @@
     <programme start="20250208130000 +0000" stop="20250208140500 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208140500 +0000" stop="20250208144500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208140500 +0000" stop="20250208143000 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250208143000 +0000" stop="20250208144500 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250208144500 +0000" stop="20250208164500 +0000" channel="Eurosport 1 HD">
@@ -34317,7 +34320,10 @@
     <programme start="20250208130000 +0000" stop="20250208140500 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208140500 +0000" stop="20250208144500 +0000" channel="Eurosport 1">
+    <programme start="20250208140500 +0000" stop="20250208143000 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250208143000 +0000" stop="20250208144500 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250208144500 +0000" stop="20250208164500 +0000" channel="Eurosport 1">
