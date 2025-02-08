@@ -13659,14 +13659,14 @@
     <programme start="20250208085500 +0000" stop="20250208090500 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208090500 +0000" stop="20250208102000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208101000 +0000" stop="20250208102500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208102000 +0000" stop="20250208122500 +0000" channel="Eurosport 1 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250208102500 +0000" stop="20250208124500 +0000" channel="Eurosport 1 HD">
-        <title>Live Alpine Skiing: World Championships</title>
+    <programme start="20250208122500 +0000" stop="20250208124500 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
@@ -27451,7 +27451,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250208120500 +0000" stop="20250208130000 +0000" channel="GEO News">
-        <title>Hansna Mana Hai</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250208130000 +0000" stop="20250208130500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -34335,14 +34335,14 @@
     <programme start="20250208085500 +0000" stop="20250208090500 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1">
+    <programme start="20250208090500 +0000" stop="20250208102000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208101000 +0000" stop="20250208102500 +0000" channel="Eurosport 1">
+    <programme start="20250208102000 +0000" stop="20250208122500 +0000" channel="Eurosport 1">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250208102500 +0000" stop="20250208124500 +0000" channel="Eurosport 1">
-        <title>Live Alpine Skiing: World Championships</title>
+    <programme start="20250208122500 +0000" stop="20250208124500 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
@@ -36915,10 +36915,10 @@
     <programme start="20250208060500 +0000" stop="20250208102000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
-    <programme start="20250208102000 +0000" stop="20250208113000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250208102000 +0000" stop="20250208122500 +0000" channel="BBC RB 1 HD">
         <title>Alpine World Ski Championships: Women's Downhill</title>
     </programme>
-    <programme start="20250208113000 +0000" stop="20250208143000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250208122500 +0000" stop="20250208143000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
     <programme start="20250208143000 +0000" stop="20250208173000 +0000" channel="BBC RB 1 HD">
