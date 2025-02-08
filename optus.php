@@ -6,15 +6,6 @@
     <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 6.optus">
         <title>FA Cup - Stoke v Cardiff City</title>
     </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 4.optus">
-        <title>FA Cup - Southampton v Burnley</title>
-    </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Everton v Bournemouth</title>
-    </programme>
-    <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Wigan v Fulham</title>
-    </programme>
     <programme start="20250208145000 +0000" stop="20250208181000 +0000" channel="Optus Sport 1.optus">
         <title>FA Cup - Preston North End v Wycombe</title>
     </programme>
@@ -299,5 +290,14 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
+    </programme>
+    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
     </programme>
 </tv>
