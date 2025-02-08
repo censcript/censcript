@@ -13659,7 +13659,10 @@
     <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208101000 +0000" stop="20250208124500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208101000 +0000" stop="20250208102500 +0000" channel="Eurosport 1 HD">
+        <title>Live Alpine Skiing: World Championships</title>
+    </programme>
+    <programme start="20250208102500 +0000" stop="20250208124500 +0000" channel="Eurosport 1 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1 HD">
@@ -14808,10 +14811,7 @@
     <programme start="20250208060000 +0000" stop="20250208080000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250208080000 +0000" stop="20250208090000 +0000" channel="BBC NEWS HD">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="BBC NEWS HD">
+    <programme start="20250208080000 +0000" stop="20250208100000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250208100000 +0000" stop="20250208103000 +0000" channel="BBC NEWS HD">
@@ -28851,7 +28851,10 @@
     <programme start="20250208100000 +0000" stop="20250208101500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250208101500 +0000" stop="20250208104500 +0000" channel="Eman Channel">
+    <programme start="20250208101500 +0000" stop="20250208102000 +0000" channel="Eman Channel">
+        <title>Repeat: EKTV</title>
+    </programme>
+    <programme start="20250208102000 +0000" stop="20250208104500 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
     <programme start="20250208104500 +0000" stop="20250208110000 +0000" channel="Eman Channel">
@@ -28860,20 +28863,29 @@
     <programme start="20250208110000 +0000" stop="20250208111500 +0000" channel="Eman Channel">
         <title>Ibn Battuta Cartoon</title>
     </programme>
-    <programme start="20250208111500 +0000" stop="20250208113000 +0000" channel="Eman Channel">
+    <programme start="20250208111500 +0000" stop="20250208112000 +0000" channel="Eman Channel">
+        <title>Omar &amp; Hana</title>
+    </programme>
+    <programme start="20250208112000 +0000" stop="20250208113000 +0000" channel="Eman Channel">
         <title>Omar &amp; Hana</title>
     </programme>
     <programme start="20250208113000 +0000" stop="20250208120000 +0000" channel="Eman Channel">
         <title>Scrap Book Island</title>
     </programme>
-    <programme start="20250208120000 +0000" stop="20250208122000 +0000" channel="Eman Channel">
+    <programme start="20250208120000 +0000" stop="20250208120500 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
+    </programme>
+    <programme start="20250208120500 +0000" stop="20250208122000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250208122000 +0000" stop="20250208122400 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250208122400 +0000" stop="20250208125100 +0000" channel="Eman Channel">
+    <programme start="20250208122400 +0000" stop="20250208124300 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
+    </programme>
+    <programme start="20250208124300 +0000" stop="20250208125100 +0000" channel="Eman Channel">
+        <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250208125100 +0000" stop="20250208130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
@@ -34308,7 +34320,10 @@
     <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208101000 +0000" stop="20250208124500 +0000" channel="Eurosport 1">
+    <programme start="20250208101000 +0000" stop="20250208102500 +0000" channel="Eurosport 1">
+        <title>Live Alpine Skiing: World Championships</title>
+    </programme>
+    <programme start="20250208102500 +0000" stop="20250208124500 +0000" channel="Eurosport 1">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250208124500 +0000" stop="20250208130000 +0000" channel="Eurosport 1">
