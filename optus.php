@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250208195000 +0000" stop="20250208231000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Brighton v Chelsea</title>
-    </programme>
     <programme start="20250209122000 +0000" stop="20250209154000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Blackburn v Wolverhampton Wanderers</title>
     </programme>

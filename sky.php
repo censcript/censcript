@@ -7119,8 +7119,11 @@
     <programme start="20250209040000 +0000" stop="20250209045000 +0000" channel="Channel 5+1">
         <title>Thames at Night with Tony Robinson</title>
     </programme>
-    <programme start="20250209045000 +0000" stop="20250209060000 +0000" channel="Channel 5+1">
+    <programme start="20250209045000 +0000" stop="20250209054001 +0000" channel="Channel 5+1">
         <title>Royal Brides: Diana to Meghan</title>
+    </programme>
+    <programme start="20250209054001 +0000" stop="20250209060000 +0000" channel="Channel 5+1">
+        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250209060000 +0000" stop="20250209060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
@@ -12504,11 +12507,11 @@
     <programme start="20250209143000 +0000" stop="20250209150001 +0000" channel="SkySpMainEvHD">
         <title>Soccer Sunday</title>
     </programme>
-    <programme start="20250209150001 +0000" stop="20250209174500 +0000" channel="SkySpMainEvHD">
+    <programme start="20250209150001 +0000" stop="20250209174501 +0000" channel="SkySpMainEvHD">
         <title>Int Netball Nations Cup Final</title>
     </programme>
-    <programme start="20250209174500 +0000" stop="20250209180000 +0000" channel="SkySpMainEvHD">
-        <title>My Icon: Pam Cookey</title>
+    <programme start="20250209174501 +0000" stop="20250209180000 +0000" channel="SkySpMainEvHD">
+        <title>Live PGA Tour Early Coverage</title>
     </programme>
     <programme start="20250209180000 +0000" stop="20250209220000 +0000" channel="SkySpMainEvHD">
         <title>Live PGA Tour Golf</title>
