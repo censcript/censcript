@@ -13653,7 +13653,10 @@
     <programme start="20250208080500 +0000" stop="20250208084500 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208084500 +0000" stop="20250208090500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250208084500 +0000" stop="20250208085500 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250208085500 +0000" stop="20250208090500 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1 HD">
@@ -28848,7 +28851,10 @@
     <programme start="20250208090000 +0000" stop="20250208100000 +0000" channel="Eman Channel">
         <title>Madrasah TV Supercharged</title>
     </programme>
-    <programme start="20250208100000 +0000" stop="20250208101500 +0000" channel="Eman Channel">
+    <programme start="20250208100000 +0000" stop="20250208100500 +0000" channel="Eman Channel">
+        <title>Morning Remembrance</title>
+    </programme>
+    <programme start="20250208100500 +0000" stop="20250208101500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
     <programme start="20250208101500 +0000" stop="20250208102000 +0000" channel="Eman Channel">
@@ -28857,10 +28863,16 @@
     <programme start="20250208102000 +0000" stop="20250208104500 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250208104500 +0000" stop="20250208110000 +0000" channel="Eman Channel">
+    <programme start="20250208104500 +0000" stop="20250208105000 +0000" channel="Eman Channel">
         <title>Oriental Scholars</title>
     </programme>
-    <programme start="20250208110000 +0000" stop="20250208111500 +0000" channel="Eman Channel">
+    <programme start="20250208105000 +0000" stop="20250208110000 +0000" channel="Eman Channel">
+        <title>Oriental Scholars</title>
+    </programme>
+    <programme start="20250208110000 +0000" stop="20250208110300 +0000" channel="Eman Channel">
+        <title>Ibn Battuta Cartoon</title>
+    </programme>
+    <programme start="20250208110300 +0000" stop="20250208111500 +0000" channel="Eman Channel">
         <title>Ibn Battuta Cartoon</title>
     </programme>
     <programme start="20250208111500 +0000" stop="20250208112000 +0000" channel="Eman Channel">
@@ -28869,7 +28881,10 @@
     <programme start="20250208112000 +0000" stop="20250208113000 +0000" channel="Eman Channel">
         <title>Omar &amp; Hana</title>
     </programme>
-    <programme start="20250208113000 +0000" stop="20250208120000 +0000" channel="Eman Channel">
+    <programme start="20250208113000 +0000" stop="20250208113500 +0000" channel="Eman Channel">
+        <title>Scrap Book Island</title>
+    </programme>
+    <programme start="20250208113500 +0000" stop="20250208120000 +0000" channel="Eman Channel">
         <title>Scrap Book Island</title>
     </programme>
     <programme start="20250208120000 +0000" stop="20250208120500 +0000" channel="Eman Channel">
@@ -34314,7 +34329,10 @@
     <programme start="20250208080500 +0000" stop="20250208084500 +0000" channel="Eurosport 1">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250208084500 +0000" stop="20250208090500 +0000" channel="Eurosport 1">
+    <programme start="20250208084500 +0000" stop="20250208085500 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
+    </programme>
+    <programme start="20250208085500 +0000" stop="20250208090500 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250208090500 +0000" stop="20250208101000 +0000" channel="Eurosport 1">
