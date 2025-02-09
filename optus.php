@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250209145000 +0000" stop="20250209181000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Plymouth v Liverpool</title>
-    </programme>
     <programme start="20250209172500 +0000" stop="20250209204500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Aston Villa v Tottenham Hotspur</title>
     </programme>
