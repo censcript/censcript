@@ -30957,10 +30957,7 @@
     <programme start="20250209073000 +0000" stop="20250209093000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209093000 +0000" stop="20250209113000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250209113000 +0000" stop="20250209120000 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250209093000 +0000" stop="20250209120000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250209120000 +0000" stop="20250209122000 +0000" channel="Hub Premier 4.starhub">
@@ -30972,10 +30969,7 @@
     <programme start="20250209143000 +0000" stop="20250209150000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250209150000 +0000" stop="20250209170000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250209170000 +0000" stop="20250209172500 +0000" channel="Hub Premier 4.starhub">
+    <programme start="20250209150000 +0000" stop="20250209172500 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250209172500 +0000" stop="20250209193500 +0000" channel="Hub Premier 4.starhub">
@@ -31198,6 +31192,12 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250225040000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250225040000 +0000" stop="20250225100000 +0000" channel="Hub Premier 4.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250225100000 +0000" stop="20250225160000 +0000" channel="Hub Premier 4.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Premier 3.starhub">
