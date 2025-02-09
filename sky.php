@@ -24529,76 +24529,76 @@
         <title>Sunday Smackdown with Jo</title>
     </programme>
     <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Jo</title>
     </programme>
     <programme start="20250210010000 +0000" stop="20250210020000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Jo</title>
     </programme>
     <programme start="20250210020000 +0000" stop="20250210030000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Andrew</title>
     </programme>
     <programme start="20250210030000 +0000" stop="20250210040000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Andrew</title>
     </programme>
     <programme start="20250210040000 +0000" stop="20250210050000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Andrew</title>
     </programme>
     <programme start="20250210050000 +0000" stop="20250210060000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Andrew</title>
     </programme>
     <programme start="20250210060000 +0000" stop="20250210070000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Peter &amp; Caroline</title>
     </programme>
     <programme start="20250210070000 +0000" stop="20250210080000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Peter &amp; Caroline</title>
     </programme>
     <programme start="20250210080000 +0000" stop="20250210090000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Caroline</title>
     </programme>
     <programme start="20250210090000 +0000" stop="20250210100000 +0000" channel="TJC HD">
-        <title>Deal Of The Day</title>
+        <title>Monday Markdown with Caroline</title>
     </programme>
     <programme start="20250210100000 +0000" stop="20250210110000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Carmel</title>
     </programme>
     <programme start="20250210110000 +0000" stop="20250210120000 +0000" channel="TJC HD">
-        <title>One to Own</title>
+        <title>Monday Markdown with Carmel</title>
     </programme>
     <programme start="20250210120000 +0000" stop="20250210130000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Carmel</title>
     </programme>
     <programme start="20250210130000 +0000" stop="20250210140000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Carmel</title>
     </programme>
     <programme start="20250210140000 +0000" stop="20250210150000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Italian Silver Jewellery with Craig &amp; Stacey</title>
     </programme>
     <programme start="20250210150000 +0000" stop="20250210160000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Italian Silver Jewellery with Craig &amp; Stacey</title>
     </programme>
     <programme start="20250210160000 +0000" stop="20250210170000 +0000" channel="TJC HD">
-        <title>Super Find</title>
+        <title>Monday Markdown with Craig &amp; Stacey</title>
     </programme>
     <programme start="20250210170000 +0000" stop="20250210180000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Craig &amp; Stacey</title>
     </programme>
     <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Under £10 Deals with Mark</title>
     </programme>
     <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Under £10 Deals with Mark</title>
     </programme>
     <programme start="20250210200000 +0000" stop="20250210210000 +0000" channel="TJC HD">
-        <title>Monster Deal</title>
+        <title>Monday Under £10 Deals with Mark</title>
     </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Under £10 Deals with Mark</title>
     </programme>
     <programme start="20250210220000 +0000" stop="20250210230000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Steve &amp; Derek</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Monday Markdown with Steve &amp; Derek</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="QVC Beauty">
         <title>Prai Beauty</title>
@@ -25147,10 +25147,10 @@
         <title>Bitmore Powerbank with Yiannis</title>
     </programme>
     <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Yiannis</title>
     </programme>
     <programme start="20250210010000 +0000" stop="20250210020000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Yiannis</title>
     </programme>
     <programme start="20250210020000 +0000" stop="20250210030000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -25165,58 +25165,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250210060000 +0000" stop="20250210070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Doux Tete Hair Care with Lindsey</title>
     </programme>
     <programme start="20250210070000 +0000" stop="20250210080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Petali Rose Large Candle Jar with Lindsey</title>
     </programme>
     <programme start="20250210080000 +0000" stop="20250210090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>skinChemists with Pippa &amp; Lindsey</title>
     </programme>
     <programme start="20250210090000 +0000" stop="20250210100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>L(A)B Skincare Technology with Lindsey</title>
     </programme>
     <programme start="20250210100000 +0000" stop="20250210110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Mudflower Fashion with Joanne</title>
     </programme>
     <programme start="20250210110000 +0000" stop="20250210120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Mudflower Fashion with Joanne</title>
     </programme>
     <programme start="20250210120000 +0000" stop="20250210130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Krug Baumen Watches with Joanne</title>
     </programme>
     <programme start="20250210130000 +0000" stop="20250210140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Premier Quartz Skincare with Joanne</title>
     </programme>
     <programme start="20250210140000 +0000" stop="20250210150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>numii Everyday Collagen with Sally</title>
     </programme>
     <programme start="20250210150000 +0000" stop="20250210160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Tamsy Fashion Collection with Sally</title>
     </programme>
     <programme start="20250210160000 +0000" stop="20250210170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Charlotte West Cotton Zip Sweatshirt with Sally</title>
     </programme>
     <programme start="20250210170000 +0000" stop="20250210180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Asymmetric Lurex Top with Sally</title>
     </programme>
     <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ladies Crossbody Bag with Peter</title>
     </programme>
     <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Boho Reversible Rug with Peter</title>
     </programme>
     <programme start="20250210200000 +0000" stop="20250210210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Vostok Watches with Peter</title>
     </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Jumpstarter with Peter</title>
     </programme>
     <programme start="20250210220000 +0000" stop="20250210230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Luxoro 9K Gold Ladies Watch with Emma</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Emelia Fashion Collection with Emma</title>
     </programme>
     <programme start="20250209180000 +0000" stop="20250210000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -37806,10 +37806,10 @@
     <programme start="20250210230500 +0000" stop="20250211000500 +0000" channel="BBC Two NI HD">
         <title>Heartbreakers at the BBC: Volume 3</title>
     </programme>
-    <programme start="20250209210000 +0000" stop="20250209231500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250209211500 +0000" stop="20250209233000 +0000" channel="BBC RB 1 HD">
         <title>FA Cup: Blackburn Rovers v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250209231500 +0000" stop="20250210031500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250209233000 +0000" stop="20250210031500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
     <programme start="20250210031500 +0000" stop="20250210061000 +0000" channel="BBC RB 1 HD">

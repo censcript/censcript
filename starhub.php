@@ -5325,6 +5325,18 @@
     <programme start="20250219100000 +0000" stop="20250219163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20250219163000 +0000" stop="20250219220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250207231000 +0000" stop="20250208000500 +0000" channel="HISTORY HD.starhub">
         <title>The Mysteries Of Alaska</title>
     </programme>
@@ -28257,6 +28269,18 @@
     <programme start="20250219100000 +0000" stop="20250219160000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>
+    <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20250207234100 +0000" stop="20250208002300 +0000" channel="HBO Family HD.starhub">
         <title>I Wish I Could Get It Back</title>
     </programme>
@@ -32880,6 +32904,18 @@
     <programme start="20250219100000 +0000" stop="20250219160000 +0000" channel="Hub Premier 7.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220160000 +0000" channel="Hub Premier 7.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250207220000 +0000" stop="20250208040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -33019,6 +33055,18 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250219100000 +0000" stop="20250219160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250219220000 +0000" stop="20250220040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220040000 +0000" stop="20250220100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250220100000 +0000" stop="20250220160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
 </tv>
