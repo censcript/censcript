@@ -24,7 +24,7 @@
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Bayern Munich v Frankfurt </title>
     </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Bayer Leverkusen v Werder Bremen</title>
     </programme>
     <programme start="20250212180000 +0000" stop="20250212183000 +0000" channel="Optus Sport 11.optus">
