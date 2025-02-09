@@ -132,6 +132,9 @@
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20250219183000 +0000" stop="20250219223000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Aston Villa v Liverpool</title>
+    </programme>
     <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Brentford</title>
     </programme>
