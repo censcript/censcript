@@ -39987,10 +39987,7 @@
     <programme start="20250210090000 +0000" stop="20250210120000 +0000" channel="LBC News">
         <title>Martin Stanford</title>
     </programme>
-    <programme start="20250210120000 +0000" stop="20250210130000 +0000" channel="LBC News">
-        <title>Simon Conway</title>
-    </programme>
-    <programme start="20250210130000 +0000" stop="20250210160000 +0000" channel="LBC News">
+    <programme start="20250210120000 +0000" stop="20250210160000 +0000" channel="LBC News">
         <title>Chris Golds</title>
     </programme>
     <programme start="20250210160000 +0000" stop="20250210190000 +0000" channel="LBC News">
