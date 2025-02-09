@@ -28873,22 +28873,22 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250210170000 +0000" stop="20250210180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
-    <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
-    </programme>
-    <programme start="20250210200000 +0000" stop="20250210210000 +0000" channel="Takbeer TV">
+    <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250210200000 +0000" stop="20250210210000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250210220000 +0000" stop="20250210230000 +0000" channel="Takbeer TV">
-        <title>Friends Of Allah</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -30336,7 +30336,10 @@
     <programme start="20250210173000 +0000" stop="20250210180000 +0000" channel="PBC">
         <title>Rehraas Sahib</title>
     </programme>
-    <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="PBC">
+    <programme start="20250210180000 +0000" stop="20250210183000 +0000" channel="PBC">
+        <title>Pingalwara</title>
+    </programme>
+    <programme start="20250210183000 +0000" stop="20250210190000 +0000" channel="PBC">
         <title>PBC Special Show</title>
     </programme>
     <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="PBC">
@@ -31090,13 +31093,13 @@
         <title>Dawah Conference</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>ION Events</title>
     </programme>
     <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
     <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="iON TV">
-        <title>News Views</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250210010000 +0000" stop="20250210013000 +0000" channel="iON TV">
         <title>iON News Time</title>
