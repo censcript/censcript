@@ -10717,7 +10717,7 @@
         <title>Kallaka Povathu Yaaru S10</title>
     </programme>
     <programme start="20250209083000 +0000" stop="20250209103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss S08 Kondattam</title>
+        <title>Bb8 Kondattam</title>
     </programme>
     <programme start="20250209103000 +0000" stop="20250209120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
@@ -10728,7 +10728,10 @@
     <programme start="20250209133000 +0000" stop="20250209150000 +0000" channel="Vijay TV HD.starhub">
         <title>Jodi - Are U Ready S02</title>
     </programme>
-    <programme start="20250209150000 +0000" stop="20250209161500 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer Junior S10</title>
+    </programme>
+    <programme start="20250209160000 +0000" stop="20250209161500 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
     </programme>
     <programme start="20250209161500 +0000" stop="20250209173000 +0000" channel="Vijay TV HD.starhub">
@@ -10744,13 +10747,10 @@
         <title>Kallaka Povathu Yaaru S10</title>
     </programme>
     <programme start="20250209213000 +0000" stop="20250209233000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss S08 Kondattam</title>
+        <title>Bb8 Kondattam</title>
     </programme>
     <programme start="20250209233000 +0000" stop="20250210010000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S10</title>
-    </programme>
-    <programme start="20250210010000 +0000" stop="20250210023000 +0000" channel="Vijay TV HD.starhub">
-        <title>Andakakasam S03</title>
     </programme>
     <programme start="20250207000000 +0000" stop="20250207003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

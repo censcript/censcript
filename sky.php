@@ -27774,8 +27774,14 @@
     <programme start="20250209060000 +0000" stop="20250209070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250209070000 +0000" stop="20250209090000 +0000" channel="IQRA TV">
+    <programme start="20250209070000 +0000" stop="20250209075100 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250209075100 +0000" stop="20250209081000 +0000" channel="IQRA TV">
+        <title>Manzil</title>
+    </programme>
+    <programme start="20250209081000 +0000" stop="20250209090000 +0000" channel="IQRA TV">
+        <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250209090000 +0000" stop="20250209100000 +0000" channel="IQRA TV">
         <title>Sister's Corner</title>
@@ -29656,12 +29662,18 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250209093000 +0000" stop="20250209110000 +0000" channel="CHSTV">
-        <title>Agdum Bagdum</title>
+        <title>Rupar Jadu</title>
     </programme>
     <programme start="20250209110000 +0000" stop="20250209120000 +0000" channel="CHSTV">
-        <title>The Saturday Show</title>
+        <title>Borno</title>
     </programme>
-    <programme start="20250209120000 +0000" stop="20250209130000 +0000" channel="CHSTV">
+    <programme start="20250209120000 +0000" stop="20250209122000 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250209122000 +0000" stop="20250209122600 +0000" channel="CHSTV">
+        <title>Azan-E-Zuhr</title>
+    </programme>
+    <programme start="20250209122600 +0000" stop="20250209130000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
     <programme start="20250209130000 +0000" stop="20250209133000 +0000" channel="CHSTV">
@@ -29679,11 +29691,29 @@
     <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250209160000 +0000" stop="20250209180000 +0000" channel="CHSTV">
+    <programme start="20250209160000 +0000" stop="20250209163000 +0000" channel="CHSTV">
         <title>Community News</title>
     </programme>
-    <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="CHSTV">
+    <programme start="20250209163000 +0000" stop="20250209170800 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
+    </programme>
+    <programme start="20250209170800 +0000" stop="20250209171200 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250209171200 +0000" stop="20250209180000 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250209180000 +0000" stop="20250209182000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
+    </programme>
+    <programme start="20250209182000 +0000" stop="20250209184000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250209184000 +0000" stop="20250209184500 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250209184500 +0000" stop="20250209190000 +0000" channel="CHSTV">
+        <title>Independent News</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209193000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
@@ -29692,7 +29722,7 @@
         <title>Online Offline</title>
     </programme>
     <programme start="20250209200000 +0000" stop="20250209213000 +0000" channel="CHSTV">
-        <title>Breakup Party</title>
+        <title>Bisonno Sondhar Diary</title>
     </programme>
     <programme start="20250209213000 +0000" stop="20250209220000 +0000" channel="CHSTV">
         <title>Talash</title>
@@ -29700,7 +29730,10 @@
     <programme start="20250209220000 +0000" stop="20250209223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
-    <programme start="20250209223000 +0000" stop="20250209233000 +0000" channel="CHSTV">
+    <programme start="20250209223000 +0000" stop="20250209230000 +0000" channel="CHSTV">
+        <title>BUPET Management Committee Update</title>
+    </programme>
+    <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="CHSTV">
         <title>Businessman</title>
     </programme>
     <programme start="20250208203000 +0000" stop="20250209000000 +0000" channel="IQRA Bangla">
@@ -29824,7 +29857,7 @@
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250209070000 +0000" stop="20250209073000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250209073000 +0000" stop="20250209080000 +0000" channel="ATN">
         <title>Golpo Ganer Amontrone</title>
@@ -29842,49 +29875,76 @@
         <title>Matir Subash</title>
     </programme>
     <programme start="20250209100000 +0000" stop="20250209103000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Amader Shekor</title>
     </programme>
-    <programme start="20250209103000 +0000" stop="20250209115500 +0000" channel="ATN">
-        <title>Banglar Shur Torongo</title>
+    <programme start="20250209103000 +0000" stop="20250209113000 +0000" channel="ATN">
+        <title>Hawai Mithai</title>
+    </programme>
+    <programme start="20250209113000 +0000" stop="20250209115500 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250209115500 +0000" stop="20250209120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250209120000 +0000" stop="20250209122000 +0000" channel="ATN">
-        <title>Rongin Ujan Vati</title>
+        <title>Ai ghor Ai shongshar</title>
     </programme>
     <programme start="20250209122000 +0000" stop="20250209122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250209122500 +0000" stop="20250209160000 +0000" channel="ATN">
-        <title>Rongin Ujan Vati</title>
+    <programme start="20250209122500 +0000" stop="20250209145500 +0000" channel="ATN">
+        <title>Ai ghor Ai shongshar</title>
+    </programme>
+    <programme start="20250209145500 +0000" stop="20250209151600 +0000" channel="ATN">
+        <title>Ai ghor Ai shongshar</title>
+    </programme>
+    <programme start="20250209151600 +0000" stop="20250209152100 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250209152100 +0000" stop="20250209153000 +0000" channel="ATN">
+        <title>Ai ghor Ai shongshar</title>
+    </programme>
+    <programme start="20250209153000 +0000" stop="20250209160000 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250209160000 +0000" stop="20250209170000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Porir Moto Bou</title>
     </programme>
-    <programme start="20250209170000 +0000" stop="20250209173000 +0000" channel="ATN">
-        <title>Chonde Anonde</title>
+    <programme start="20250209170000 +0000" stop="20250209170800 +0000" channel="ATN">
+        <title>Aha Ki Anondo</title>
+    </programme>
+    <programme start="20250209170800 +0000" stop="20250209171300 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250209171300 +0000" stop="20250209173000 +0000" channel="ATN">
+        <title>Aha Ki Anondo</title>
     </programme>
     <programme start="20250209173000 +0000" stop="20250209180000 +0000" channel="ATN">
-        <title>Mochibot Unlimited</title>
+        <title>Rehana</title>
     </programme>
-    <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250209180000 +0000" stop="20250209184500 +0000" channel="ATN">
+        <title>ATN Archive</title>
+    </programme>
+    <programme start="20250209184500 +0000" stop="20250209185000 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250209185000 +0000" stop="20250209190000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209200000 +0000" channel="ATN">
-        <title>Crime Petrol</title>
+        <title>Moddho Bitter Shongshar</title>
     </programme>
     <programme start="20250209200000 +0000" stop="20250209213000 +0000" channel="ATN">
-        <title>Music Lounge</title>
+        <title>Jhilmil</title>
     </programme>
     <programme start="20250209213000 +0000" stop="20250209220000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="ATN">
-        <title>Blindness</title>
+        <title>Hawai Mithai</title>
     </programme>
     <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="ATN">
-        <title>Baimany</title>
+        <title>Shomadhan</title>
     </programme>
     <programme start="20250208223000 +0000" stop="20250208230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -30253,13 +30313,13 @@
         <title>News Views</title>
     </programme>
     <programme start="20250209170000 +0000" stop="20250209170800 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Nasheed</title>
     </programme>
     <programme start="20250209170800 +0000" stop="20250209171300 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
     <programme start="20250209171300 +0000" stop="20250209180000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Nasheed</title>
     </programme>
     <programme start="20250209180000 +0000" stop="20250209183900 +0000" channel="iON TV">
         <title>Prokriti O Jibon</title>
