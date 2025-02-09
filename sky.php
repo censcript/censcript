@@ -6549,17 +6549,11 @@
     <programme start="20250209233000 +0000" stop="20250210003000 +0000" channel="Travelxp">
         <title>10 Days South Africa</title>
     </programme>
-    <programme start="20250208210000 +0000" stop="20250208231000 +0000" channel="BBCScotlandHD">
+    <programme start="20250208210000 +0000" stop="20250208232500 +0000" channel="BBCScotlandHD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250208231000 +0000" stop="20250208234000 +0000" channel="BBCScotlandHD">
+    <programme start="20250208232500 +0000" stop="20250209000000 +0000" channel="BBCScotlandHD">
         <title>Two Doors Down</title>
-    </programme>
-    <programme start="20250208234000 +0000" stop="20250208235500 +0000" channel="BBCScotlandHD">
-        <title>Franz Ferdinand: The Quay Sessions Special</title>
-    </programme>
-    <programme start="20250208235500 +0000" stop="20250209000000 +0000" channel="BBCScotlandHD">
-        <title>Loop</title>
     </programme>
     <programme start="20250209000000 +0000" stop="20250209060000 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
@@ -14508,8 +14502,8 @@
     <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20250208223000 +0000" stop="20250208230000 +0000" channel="BBC NEWS HD">
-        <title>Political Thinking with Nick Robinson</title>
+    <programme start="20250208220000 +0000" stop="20250208230000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250208230000 +0000" stop="20250208233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -27780,14 +27774,8 @@
     <programme start="20250209060000 +0000" stop="20250209070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250209070000 +0000" stop="20250209074800 +0000" channel="IQRA TV">
+    <programme start="20250209070000 +0000" stop="20250209090000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250209074800 +0000" stop="20250209080900 +0000" channel="IQRA TV">
-        <title>Manzil</title>
-    </programme>
-    <programme start="20250209080900 +0000" stop="20250209090000 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250209090000 +0000" stop="20250209100000 +0000" channel="IQRA TV">
         <title>Sister's Corner</title>
@@ -29646,13 +29634,7 @@
     <programme start="20250209055000 +0000" stop="20250209060000 +0000" channel="CHSTV">
         <title>Islamic Filler</title>
     </programme>
-    <programme start="20250209060000 +0000" stop="20250209061600 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250209061600 +0000" stop="20250209062000 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250209062000 +0000" stop="20250209063000 +0000" channel="CHSTV">
+    <programme start="20250209060000 +0000" stop="20250209063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250209063000 +0000" stop="20250209070000 +0000" channel="CHSTV">
@@ -29679,13 +29661,7 @@
     <programme start="20250209110000 +0000" stop="20250209120000 +0000" channel="CHSTV">
         <title>The Saturday Show</title>
     </programme>
-    <programme start="20250209120000 +0000" stop="20250209121600 +0000" channel="CHSTV">
-        <title>Seerat</title>
-    </programme>
-    <programme start="20250209121600 +0000" stop="20250209122200 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250209122200 +0000" stop="20250209130000 +0000" channel="CHSTV">
+    <programme start="20250209120000 +0000" stop="20250209130000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
     <programme start="20250209130000 +0000" stop="20250209133000 +0000" channel="CHSTV">
@@ -29697,41 +29673,17 @@
     <programme start="20250209140000 +0000" stop="20250209143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250209143000 +0000" stop="20250209144100 +0000" channel="CHSTV">
-        <title>Online Offline</title>
-    </programme>
-    <programme start="20250209144100 +0000" stop="20250209144500 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250209144500 +0000" stop="20250209150000 +0000" channel="CHSTV">
+    <programme start="20250209143000 +0000" stop="20250209150000 +0000" channel="CHSTV">
         <title>Online Offline</title>
     </programme>
     <programme start="20250209150000 +0000" stop="20250209160000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250209160000 +0000" stop="20250209163100 +0000" channel="CHSTV">
+    <programme start="20250209160000 +0000" stop="20250209180000 +0000" channel="CHSTV">
         <title>Community News</title>
     </programme>
-    <programme start="20250209163100 +0000" stop="20250209163500 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250209163500 +0000" stop="20250209170000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
-    </programme>
-    <programme start="20250209170000 +0000" stop="20250209180000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
-    </programme>
-    <programme start="20250209180000 +0000" stop="20250209180800 +0000" channel="CHSTV">
+    <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
-    </programme>
-    <programme start="20250209180800 +0000" stop="20250209181300 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250209181300 +0000" stop="20250209183000 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
-    </programme>
-    <programme start="20250209183000 +0000" stop="20250209190000 +0000" channel="CHSTV">
-        <title>Independent News</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209193000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
@@ -29832,14 +29784,8 @@
     <programme start="20250209200000 +0000" stop="20250209203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250209203000 +0000" stop="20250209230000 +0000" channel="IQRA Bangla">
+    <programme start="20250209203000 +0000" stop="20250209213000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250209230000 +0000" stop="20250209233000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250209233000 +0000" stop="20250210003000 +0000" channel="IQRA Bangla">
-        <title>Moshq-e- Tilawat</title>
     </programme>
     <programme start="20250208223000 +0000" stop="20250208230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -29874,13 +29820,7 @@
     <programme start="20250209055000 +0000" stop="20250209060000 +0000" channel="ATN">
         <title>Cyber talk</title>
     </programme>
-    <programme start="20250209060000 +0000" stop="20250209061600 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250209061600 +0000" stop="20250209062100 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250209062100 +0000" stop="20250209070000 +0000" channel="ATN">
+    <programme start="20250209060000 +0000" stop="20250209070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250209070000 +0000" stop="20250209073000 +0000" channel="ATN">
@@ -29916,35 +29856,11 @@
     <programme start="20250209122000 +0000" stop="20250209122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250209122500 +0000" stop="20250209140000 +0000" channel="ATN">
+    <programme start="20250209122500 +0000" stop="20250209160000 +0000" channel="ATN">
         <title>Rongin Ujan Vati</title>
     </programme>
-    <programme start="20250209140000 +0000" stop="20250209143000 +0000" channel="ATN">
+    <programme start="20250209160000 +0000" stop="20250209170000 +0000" channel="ATN">
         <title>ATN News</title>
-    </programme>
-    <programme start="20250209143000 +0000" stop="20250209144500 +0000" channel="ATN">
-        <title>Rongin Ujan Vati</title>
-    </programme>
-    <programme start="20250209144500 +0000" stop="20250209145000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250209145000 +0000" stop="20250209155500 +0000" channel="ATN">
-        <title>Rongin Ujan Vati</title>
-    </programme>
-    <programme start="20250209155500 +0000" stop="20250209160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250209160000 +0000" stop="20250209163100 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250209163100 +0000" stop="20250209163600 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250209163600 +0000" stop="20250209165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250209165500 +0000" stop="20250209170000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250209170000 +0000" stop="20250209173000 +0000" channel="ATN">
         <title>Chonde Anonde</title>
@@ -29952,17 +29868,8 @@
     <programme start="20250209173000 +0000" stop="20250209180000 +0000" channel="ATN">
         <title>Mochibot Unlimited</title>
     </programme>
-    <programme start="20250209180000 +0000" stop="20250209180800 +0000" channel="ATN">
+    <programme start="20250209180000 +0000" stop="20250209190000 +0000" channel="ATN">
         <title>ATN News</title>
-    </programme>
-    <programme start="20250209180800 +0000" stop="20250209181300 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250209181300 +0000" stop="20250209185500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250209185500 +0000" stop="20250209190000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250209190000 +0000" stop="20250209200000 +0000" channel="ATN">
         <title>Crime Petrol</title>
@@ -36462,11 +36369,14 @@
     <programme start="20250209235500 +0000" stop="20250210005500 +0000" channel="BBC Two Wal HD">
         <title>The Elephant Man</title>
     </programme>
-    <programme start="20250208210000 +0000" stop="20250208231000 +0000" channel="BBC Two NI HD">
+    <programme start="20250208210000 +0000" stop="20250208232500 +0000" channel="BBC Two NI HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250208231000 +0000" stop="20250209001000 +0000" channel="BBC Two NI HD">
-        <title>Love Songs at the BBC: Volume 2</title>
+    <programme start="20250208232500 +0000" stop="20250208235500 +0000" channel="BBC Two NI HD">
+        <title>QI</title>
+    </programme>
+    <programme start="20250208235500 +0000" stop="20250209001000 +0000" channel="BBC Two NI HD">
+        <title>The Chronicles of Strangford</title>
     </programme>
     <programme start="20250209001000 +0000" stop="20250209011000 +0000" channel="BBC Two NI HD">
         <title>Heartbreakers at the BBC</title>
