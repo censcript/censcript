@@ -36534,10 +36534,10 @@
     <programme start="20250209074000 +0000" stop="20250209102000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
-    <programme start="20250209102000 +0000" stop="20250209113000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250209102000 +0000" stop="20250209114500 +0000" channel="BBC RB 1 HD">
         <title>Alpine World Ski Championships: Men's Downhill</title>
     </programme>
-    <programme start="20250209113000 +0000" stop="20250209122000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250209114500 +0000" stop="20250209122000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250209122000 +0000" stop="20250209143500 +0000" channel="BBC RB 1 HD">

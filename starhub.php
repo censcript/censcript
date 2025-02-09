@@ -8454,7 +8454,7 @@
     <programme start="20250209235200 +0000" stop="20250210003400 +0000" channel="ROCK Entertainment.starhub">
         <title>Cornered</title>
     </programme>
-    <programme start="20250210003500 +0000" stop="20250210011500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210003400 +0000" stop="20250210011500 +0000" channel="ROCK Entertainment.starhub">
         <title>First Light</title>
     </programme>
     <programme start="20250210011500 +0000" stop="20250210020000 +0000" channel="ROCK Entertainment.starhub">
@@ -8508,13 +8508,13 @@
     <programme start="20250210181500 +0000" stop="20250210190000 +0000" channel="ROCK Entertainment.starhub">
         <title>Extinguished</title>
     </programme>
-    <programme start="20250210190000 +0000" stop="20250210195500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210190000 +0000" stop="20250210195700 +0000" channel="ROCK Entertainment.starhub">
         <title>The Stall</title>
     </programme>
-    <programme start="20250210195500 +0000" stop="20250210204500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210195700 +0000" stop="20250210204600 +0000" channel="ROCK Entertainment.starhub">
         <title>Rest In Metal</title>
     </programme>
-    <programme start="20250210204500 +0000" stop="20250210213500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210204600 +0000" stop="20250210213500 +0000" channel="ROCK Entertainment.starhub">
         <title>Time Of The Monkey</title>
     </programme>
     <programme start="20250210213500 +0000" stop="20250210220000 +0000" channel="ROCK Entertainment.starhub">
@@ -8526,13 +8526,13 @@
     <programme start="20250210224500 +0000" stop="20250210233000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Tonight Show Starring Jimmy Fallon S12</title>
     </programme>
-    <programme start="20250210233000 +0000" stop="20250210235000 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210233000 +0000" stop="20250210235300 +0000" channel="ROCK Entertainment.starhub">
         <title>Disgraced</title>
     </programme>
-    <programme start="20250210235000 +0000" stop="20250211003500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250210235300 +0000" stop="20250211003600 +0000" channel="ROCK Entertainment.starhub">
         <title>NCIS S22</title>
     </programme>
-    <programme start="20250211003500 +0000" stop="20250211012000 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20250211003600 +0000" stop="20250211012000 +0000" channel="ROCK Entertainment.starhub">
         <title>NCIS S22</title>
     </programme>
     <programme start="20250211012000 +0000" stop="20250211025000 +0000" channel="ROCK Entertainment.starhub">
@@ -15036,55 +15036,55 @@
     <programme start="20250210021500 +0000" stop="20250210030000 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210030000 +0000" stop="20250210034500 +0000" channel="ONE HD.starhub">
+    <programme start="20250210030000 +0000" stop="20250210034100 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210034500 +0000" stop="20250210043500 +0000" channel="ONE HD.starhub">
+    <programme start="20250210034100 +0000" stop="20250210042100 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210043500 +0000" stop="20250210055000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210042100 +0000" stop="20250210054000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210055000 +0000" stop="20250210071000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210054000 +0000" stop="20250210065500 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210071000 +0000" stop="20250210085000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210065500 +0000" stop="20250210085700 +0000" channel="ONE HD.starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250210085000 +0000" stop="20250210093500 +0000" channel="ONE HD.starhub">
+    <programme start="20250210085700 +0000" stop="20250210093800 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210093500 +0000" stop="20250210102000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210093800 +0000" stop="20250210102000 +0000" channel="ONE HD.starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210102000 +0000" stop="20250210113500 +0000" channel="ONE HD.starhub">
+    <programme start="20250210102000 +0000" stop="20250210114000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210113500 +0000" stop="20250210125000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210114000 +0000" stop="20250210125500 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210125000 +0000" stop="20250210133000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210125500 +0000" stop="20250210133500 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210133000 +0000" stop="20250210141000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210133500 +0000" stop="20250210141600 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210141000 +0000" stop="20250210145000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210141600 +0000" stop="20250210145600 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210145000 +0000" stop="20250210153000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210145600 +0000" stop="20250210153600 +0000" channel="ONE HD.starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210153000 +0000" stop="20250210173000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210153600 +0000" stop="20250210173500 +0000" channel="ONE HD.starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250210173000 +0000" stop="20250210192500 +0000" channel="ONE HD.starhub">
-        <title>Running Man</title>
+    <programme start="20250210173500 +0000" stop="20250210192500 +0000" channel="ONE HD.starhub">
+        <title>The Half-Star Hotel In Lost Island</title>
     </programme>
-    <programme start="20250210192500 +0000" stop="20250210204000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210192500 +0000" stop="20250210204500 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210204000 +0000" stop="20250210220000 +0000" channel="ONE HD.starhub">
+    <programme start="20250210204500 +0000" stop="20250210220000 +0000" channel="ONE HD.starhub">
         <title>Motel California</title>
     </programme>
     <programme start="20250210220000 +0000" stop="20250210224500 +0000" channel="ONE HD.starhub">
@@ -26700,8 +26700,11 @@
     <programme start="20250211030000 +0000" stop="20250211040000 +0000" channel="Sony Entertainment Television.starhub">
         <title>CID</title>
     </programme>
-    <programme start="20250211040000 +0000" stop="20250211053000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211040000 +0000" stop="20250211050000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
+    </programme>
+    <programme start="20250211050000 +0000" stop="20250211053000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Aangan Aapno Kaa</title>
     </programme>
     <programme start="20250211053000 +0000" stop="20250211060000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
@@ -26715,11 +26718,11 @@
     <programme start="20250211070000 +0000" stop="20250211080000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Celebrity Masterchef</title>
     </programme>
-    <programme start="20250211080000 +0000" stop="20250211093000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211080000 +0000" stop="20250211090000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250211093000 +0000" stop="20250211103000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Crime Patrol</title>
+    <programme start="20250211090000 +0000" stop="20250211103000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Indian Idol 2024</title>
     </programme>
     <programme start="20250211103000 +0000" stop="20250211110000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
@@ -26733,22 +26736,25 @@
     <programme start="20250211120000 +0000" stop="20250211130000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Celebrity Masterchef</title>
     </programme>
-    <programme start="20250211130000 +0000" stop="20250211143000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211130000 +0000" stop="20250211140000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250211143000 +0000" stop="20250211153000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211140000 +0000" stop="20250211150000 +0000" channel="Sony Entertainment Television.starhub">
         <title>CID</title>
     </programme>
-    <programme start="20250211153000 +0000" stop="20250211163000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Celebrity Masterchef</title>
+    <programme start="20250211150000 +0000" stop="20250211160000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Crime Patrol</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211170000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Mere Sai - Shraddha Aur Saburi</title>
+    <programme start="20250211160000 +0000" stop="20250211170000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Celebrity Masterchef</title>
     </programme>
     <programme start="20250211170000 +0000" stop="20250211173000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250211173000 +0000" stop="20250211190000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211173000 +0000" stop="20250211180000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Mere Sai - Shraddha Aur Saburi</title>
+    </programme>
+    <programme start="20250211180000 +0000" stop="20250211190000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211194500 +0000" channel="Sony Entertainment Television.starhub">
@@ -26757,23 +26763,17 @@
     <programme start="20250211194500 +0000" stop="20250211203000 +0000" channel="Sony Entertainment Television.starhub">
         <title>CID</title>
     </programme>
-    <programme start="20250211203000 +0000" stop="20250211220000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211203000 +0000" stop="20250211213000 +0000" channel="Sony Entertainment Television.starhub">
         <title>25 Years Of Kaun Banega Crorepati</title>
+    </programme>
+    <programme start="20250211213000 +0000" stop="20250211220000 +0000" channel="Sony Entertainment Television.starhub">
+        <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250211220000 +0000" stop="20250211223000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Mere Sai - Shraddha Aur Saburi</title>
-    </programme>
-    <programme start="20250211230000 +0000" stop="20250212000000 +0000" channel="Sony Entertainment Television.starhub">
+    <programme start="20250211223000 +0000" stop="20250211233000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Celebrity Masterchef</title>
-    </programme>
-    <programme start="20250212000000 +0000" stop="20250212013000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250212013000 +0000" stop="20250212020000 +0000" channel="Sony Entertainment Television.starhub">
-        <title>Aangan Aapno Kaa</title>
     </programme>
     <programme start="20250208000000 +0000" stop="20250208010000 +0000" channel="Hub Premier 1.starhub">
         <title>PL MOMENTS</title>
@@ -27801,49 +27801,49 @@
     <programme start="20250210021500 +0000" stop="20250210030000 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210030000 +0000" stop="20250210034500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210030000 +0000" stop="20250210034100 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210034500 +0000" stop="20250210043500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210034100 +0000" stop="20250210042100 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210043500 +0000" stop="20250210055000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210042100 +0000" stop="20250210054000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210055000 +0000" stop="20250210071000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210054000 +0000" stop="20250210065500 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210071000 +0000" stop="20250210085000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210065500 +0000" stop="20250210085700 +0000" channel="ONE (Malay).starhub">
         <title>Paik&#039;s Les Miserables</title>
     </programme>
-    <programme start="20250210085000 +0000" stop="20250210093500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210085700 +0000" stop="20250210093800 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210093500 +0000" stop="20250210102000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210093800 +0000" stop="20250210102000 +0000" channel="ONE (Malay).starhub">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250210102000 +0000" stop="20250210113500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210102000 +0000" stop="20250210114000 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210113500 +0000" stop="20250210125000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210114000 +0000" stop="20250210125500 +0000" channel="ONE (Malay).starhub">
         <title>Motel California</title>
     </programme>
-    <programme start="20250210125000 +0000" stop="20250210133000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210125500 +0000" stop="20250210133500 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210133000 +0000" stop="20250210141000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210133500 +0000" stop="20250210141600 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210141000 +0000" stop="20250210145000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210141600 +0000" stop="20250210145600 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210145000 +0000" stop="20250210153000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210145600 +0000" stop="20250210153600 +0000" channel="ONE (Malay).starhub">
         <title>Desperate Mrs. Seonju</title>
     </programme>
-    <programme start="20250210153000 +0000" stop="20250210173000 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210153600 +0000" stop="20250210173500 +0000" channel="ONE (Malay).starhub">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250210173000 +0000" stop="20250210192500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250210173500 +0000" stop="20250210192500 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
     </programme>
     <programme start="20250210192500 +0000" stop="20250210204000 +0000" channel="ONE (Malay).starhub">
