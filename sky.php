@@ -12502,7 +12502,7 @@
         <title>Soccer Sunday</title>
     </programme>
     <programme start="20250209150001 +0000" stop="20250209174501 +0000" channel="SkySpMainEvHD">
-        <title>Int Netball Nations Cup Final</title>
+        <title>Live Int Netball Nations Cup Final</title>
     </programme>
     <programme start="20250209174501 +0000" stop="20250209180000 +0000" channel="SkySpMainEvHD">
         <title>Live PGA Tour Early Coverage</title>
@@ -13500,10 +13500,10 @@
     <programme start="20250209084500 +0000" stop="20250209090500 +0000" channel="Eurosport 1 HD">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250209090500 +0000" stop="20250209101000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250209090500 +0000" stop="20250209101500 +0000" channel="Eurosport 1 HD">
         <title>Live Nordic Combined Skiing: World Cup</title>
     </programme>
-    <programme start="20250209101000 +0000" stop="20250209124500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250209101500 +0000" stop="20250209124500 +0000" channel="Eurosport 1 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250209124500 +0000" stop="20250209130000 +0000" channel="Eurosport 1 HD">
