@@ -14197,7 +14197,7 @@
         <title>U18s Match: Liverpool v Utd</title>
     </programme>
     <programme start="20250210190000 +0000" stop="20250210193000 +0000" channel="MUTV HD">
-        <title>MUW Highlights: United v Brighton</title>
+        <title>MUW Highlights: Wolves v United</title>
     </programme>
     <programme start="20250210193000 +0000" stop="20250210200000 +0000" channel="MUTV HD">
         <title>MUW Highlights: Tottenham v United</title>
