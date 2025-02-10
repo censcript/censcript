@@ -7134,10 +7134,10 @@
     <programme start="20250210220500 +0000" stop="20250210230500 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250210230500 +0000" stop="20250210234000 +0000" channel="That's TV 3">
-        <title>Three Up, Two Down</title>
+    <programme start="20250210230500 +0000" stop="20250210233500 +0000" channel="That's TV 3">
+        <title>The Rag Trade</title>
     </programme>
-    <programme start="20250210234000 +0000" stop="20250211004000 +0000" channel="That's TV 3">
+    <programme start="20250210233500 +0000" stop="20250211003500 +0000" channel="That's TV 3">
         <title>Bread</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="ITV1+1">

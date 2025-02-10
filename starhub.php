@@ -14691,7 +14691,7 @@
     <programme start="20250210180000 +0000" stop="20250210213000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250210213000 +0000" stop="20250211080000 +0000" channel="SPOTV.starhub">
+    <programme start="20250210213000 +0000" stop="20250211075500 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
     <programme start="20250211080000 +0000" stop="20250211100000 +0000" channel="SPOTV.starhub">
