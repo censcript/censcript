@@ -20352,11 +20352,8 @@
     <programme start="20250211183000 +0000" stop="20250211185000 +0000" channel="CBBC HD">
         <title>The Next Step</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211185800 +0000" channel="CBBC HD">
+    <programme start="20250211185000 +0000" stop="20250211195000 +0000" channel="CBBC HD">
         <title>Blue Peter Challenges: Abby and...</title>
-    </programme>
-    <programme start="20250211185800 +0000" stop="20250211195800 +0000" channel="CBBC HD">
-        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250210185800 +0000" stop="20250211005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
