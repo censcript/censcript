@@ -28908,10 +28908,10 @@
     <programme start="20250209223000 +0000" stop="20250209233000 +0000" channel="TestChannel 995.starhub">
         <title>Road to the Super Bowl</title>
     </programme>
-    <programme start="20250209233000 +0000" stop="20250210030000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250209233000 +0000" stop="20250210035000 +0000" channel="TestChannel 995.starhub">
         <title>NFL 2024/25 Super Bowl LIX: Philadelphia Eagles vs Kansas City Chiefs (Live)</title>
     </programme>
-    <programme start="20250210030000 +0000" stop="20250210050000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250210035000 +0000" stop="20250210050000 +0000" channel="TestChannel 995.starhub">
         <title>The Emirates FA Cup 2024/25 R4: Aston Villa vs Tottenham Hotspur</title>
     </programme>
     <programme start="20250210050000 +0000" stop="20250210070000 +0000" channel="TestChannel 995.starhub">
