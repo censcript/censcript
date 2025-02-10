@@ -30648,10 +30648,7 @@
     <programme start="20250210184100 +0000" stop="20250210184600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250210184600 +0000" stop="20250210184700 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250210184700 +0000" stop="20250210200000 +0000" channel="IQRA Bangla">
+    <programme start="20250210184600 +0000" stop="20250210200000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250210200000 +0000" stop="20250210203000 +0000" channel="IQRA Bangla">
