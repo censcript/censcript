@@ -13107,35 +13107,20 @@
     <programme start="20250211230000 +0000" stop="20250212000000 +0000" channel="SkySp PL HD">
         <title>Premier League Years 2021-2022</title>
     </programme>
-    <programme start="20250210223000 +0000" stop="20250210233000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250210223000 +0000" stop="20250210225001 +0000" channel="SkySp F'ball HD">
         <title>Bundesliga Highlights</title>
     </programme>
-    <programme start="20250210233000 +0000" stop="20250210234500 +0000" channel="SkySp F'ball HD">
+    <programme start="20250210225001 +0000" stop="20250210235501 +0000" channel="SkySp F'ball HD">
+        <title>Bundesliga Highlights</title>
+    </programme>
+    <programme start="20250210235501 +0000" stop="20250211001001 +0000" channel="SkySp F'ball HD">
         <title>EFL 16/17: Fulham v Aston Villa</title>
-    </programme>
-    <programme start="20250210234500 +0000" stop="20250210235501 +0000" channel="SkySp F'ball HD">
-        <title>EFL 17/18: N. Forest v Ipswich</title>
-    </programme>
-    <programme start="20250210235501 +0000" stop="20250211000000 +0000" channel="SkySp F'ball HD">
-        <title>EFL 16/17: Fulham v Aston Villa</title>
-    </programme>
-    <programme start="20250211000000 +0000" stop="20250211001001 +0000" channel="SkySp F'ball HD">
-        <title>EFL Cup Retro 19:ManCity v Chelsea</title>
     </programme>
     <programme start="20250211001001 +0000" stop="20250211002501 +0000" channel="SkySp F'ball HD">
         <title>EFL 17/18: N. Forest v Ipswich</title>
     </programme>
-    <programme start="20250211002501 +0000" stop="20250211024500 +0000" channel="SkySp F'ball HD">
+    <programme start="20250211002501 +0000" stop="20250211031501 +0000" channel="SkySp F'ball HD">
         <title>EFL Cup Retro 19:ManCity v Chelsea</title>
-    </programme>
-    <programme start="20250211024500 +0000" stop="20250211030000 +0000" channel="SkySp F'ball HD">
-        <title>EFL 16/17: Sheff Weds v Newcastle</title>
-    </programme>
-    <programme start="20250211030000 +0000" stop="20250211031500 +0000" channel="SkySp F'ball HD">
-        <title>EFL 16/17: Fulham v Aston Villa</title>
-    </programme>
-    <programme start="20250211031500 +0000" stop="20250211031501 +0000" channel="SkySp F'ball HD">
-        <title>EFL 17/18: N. Forest v Ipswich</title>
     </programme>
     <programme start="20250211031501 +0000" stop="20250211033000 +0000" channel="SkySp F'ball HD">
         <title>EFL 16/17: Sheff Weds v Newcastle</title>
@@ -20352,8 +20337,11 @@
     <programme start="20250211183000 +0000" stop="20250211185000 +0000" channel="CBBC HD">
         <title>The Next Step</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211195000 +0000" channel="CBBC HD">
+    <programme start="20250211185000 +0000" stop="20250211185800 +0000" channel="CBBC HD">
         <title>Blue Peter Challenges: Abby and...</title>
+    </programme>
+    <programme start="20250211185800 +0000" stop="20250211195800 +0000" channel="CBBC HD">
+        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250210185800 +0000" stop="20250211005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>

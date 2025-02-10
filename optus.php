@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250210193500 +0000" stop="20250210225500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Doncaster v Crystal Palace</title>
-    </programme>
     <programme start="20250211090000 +0000" stop="20250211100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Leon Osman</title>
     </programme>
