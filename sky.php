@@ -15199,13 +15199,16 @@
         <title>House of Lords - Terrorism Bill, Part 3</title>
     </programme>
     <programme start="20250211070000 +0000" stop="20250211080000 +0000" channel="BBC Parl HD">
-        <title>Defence Questions</title>
+        <title>Energy Security and Net Zero Questions</title>
     </programme>
     <programme start="20250211080000 +0000" stop="20250211081000 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
     </programme>
-    <programme start="20250211081000 +0000" stop="20250211100000 +0000" channel="BBC Parl HD">
+    <programme start="20250211081000 +0000" stop="20250211091500 +0000" channel="BBC Parl HD">
         <title>Defence Questions</title>
+    </programme>
+    <programme start="20250211091500 +0000" stop="20250211100000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250211100000 +0000" stop="20250211113000 +0000" channel="BBC Parl HD">
         <title>Live Education Committee on Children's Social Care</title>
