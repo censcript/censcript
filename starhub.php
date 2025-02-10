@@ -6282,10 +6282,10 @@
     <programme start="20250209223000 +0000" stop="20250209233000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Road to the Super Bowl</title>
     </programme>
-    <programme start="20250209233000 +0000" stop="20250210030000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250209233000 +0000" stop="20250210035000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NFL 2024/25 Super Bowl LIX: Philadelphia Eagles vs Kansas City Chiefs (Live)</title>
     </programme>
-    <programme start="20250210030000 +0000" stop="20250210050000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250210035000 +0000" stop="20250210050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>The Emirates FA Cup 2024/25 R4: Aston Villa vs Tottenham Hotspur</title>
     </programme>
     <programme start="20250210050000 +0000" stop="20250210070000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -13588,10 +13588,10 @@
         <title>The World (2025)</title>
     </programme>
     <programme start="20250210150000 +0000" stop="20250210151500 +0000" channel="ABC Australia HD.starhub">
-        <title>The Business (2025)</title>
+        <title>ABC Late News (2025)</title>
     </programme>
     <programme start="20250210151500 +0000" stop="20250210153000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC Late News (2025)</title>
+        <title>The Business (2025)</title>
     </programme>
     <programme start="20250210153000 +0000" stop="20250210163000 +0000" channel="ABC Australia HD.starhub">
         <title>Grimes Cottage, NSW</title>
