@@ -30639,11 +30639,17 @@
     <programme start="20250210171500 +0000" stop="20250210180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250210180000 +0000" stop="20250210184100 +0000" channel="IQRA Bangla">
+    <programme start="20250210180000 +0000" stop="20250210183000 +0000" channel="IQRA Bangla">
         <title>Heal your Heart</title>
     </programme>
-    <programme start="20250210184100 +0000" stop="20250210184700 +0000" channel="IQRA Bangla">
+    <programme start="20250210183000 +0000" stop="20250210184100 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
+    </programme>
+    <programme start="20250210184100 +0000" stop="20250210184600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250210184600 +0000" stop="20250210184700 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250210184700 +0000" stop="20250210200000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
@@ -31093,10 +31099,10 @@
         <title>Dawah Conference</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="iON TV">
-        <title>ION Events</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250209230000 +0000" stop="20250210000000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>ION Events</title>
     </programme>
     <programme start="20250210000000 +0000" stop="20250210010000 +0000" channel="iON TV">
         <title>Islamic history and tradition</title>
