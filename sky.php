@@ -13171,7 +13171,7 @@
         <title>WPL'24: UPW v DC Hlts</title>
     </programme>
     <programme start="20250210120000 +0000" stop="20250210130000 +0000" channel="SkySpCricket HD">
-        <title>SA20 Final</title>
+        <title>SA20 Final: MI CT v SEC</title>
     </programme>
     <programme start="20250210130000 +0000" stop="20250210140000 +0000" channel="SkySpCricket HD">
         <title>WPL'24: UPW v MI Hlts</title>
@@ -13953,10 +13953,10 @@
     <programme start="20250210070000 +0000" stop="20250210110000 +0000" channel="SkySp Racing">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250210110000 +0000" stop="20250210134500 +0000" channel="SkySp Racing">
+    <programme start="20250210110000 +0000" stop="20250210131500 +0000" channel="SkySp Racing">
         <title>International Raceday Live</title>
     </programme>
-    <programme start="20250210134500 +0000" stop="20250210210000 +0000" channel="SkySp Racing">
+    <programme start="20250210131500 +0000" stop="20250210210000 +0000" channel="SkySp Racing">
         <title>Raceday Live</title>
     </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="SkySp Racing">
@@ -24649,7 +24649,7 @@
         <title>Beauty Heroes</title>
     </programme>
     <programme start="20250210140000 +0000" stop="20250210150000 +0000" channel="QVC Beauty">
-        <title>Clinique</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250210150000 +0000" stop="20250210160000 +0000" channel="QVC Beauty">
         <title>Farewell Mally: Up to 50% off</title>
@@ -24667,7 +24667,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250210200000 +0000" stop="20250210210000 +0000" channel="QVC Beauty">
-        <title>Aveda</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="QVC Beauty">
         <title>Prai Beauty</title>
@@ -24676,7 +24676,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="QVC Beauty">
-        <title>Beauty Bits and Bobs</title>
+        <title>Nassif MD Dermaceuticals</title>
     </programme>
     <programme start="20250209220000 +0000" stop="20250209230000 +0000" channel="QVC Style HD">
         <title>Footwear Refresh with Skechers</title>
@@ -24724,7 +24724,7 @@
         <title>Footwear Refresh with Skechers</title>
     </programme>
     <programme start="20250210130000 +0000" stop="20250210140000 +0000" channel="QVC Style HD">
-        <title>Frank Usher</title>
+        <title>New Year, New Sosandar</title>
     </programme>
     <programme start="20250210140000 +0000" stop="20250210150000 +0000" channel="QVC Style HD">
         <title>Centigrade Outerwear</title>
@@ -25357,7 +25357,7 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250210120000 +0000" stop="20250210130000 +0000" channel="QVC Extra">
-        <title>Grumpy Gardener</title>
+        <title>New Season Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250210130000 +0000" stop="20250210140000 +0000" channel="QVC Extra">
         <title>Your Transitional Style Edit</title>
@@ -25375,7 +25375,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250210180000 +0000" stop="20250210190000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>New Season Plants2Gardens</title>
     </programme>
     <programme start="20250210190000 +0000" stop="20250210200000 +0000" channel="QVC Extra">
         <title>Fashion Day Review</title>
@@ -25390,7 +25390,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="QVC Extra">
-        <title>Emma: The Science in Sleep</title>
+        <title>New Season YouGarden</title>
     </programme>
     <programme start="20250209223000 +0000" stop="20250209230000 +0000" channel="High Street TV 3">
         <title>Jet Hawk</title>
@@ -28324,7 +28324,7 @@
         <title>Mann Marzi</title>
     </programme>
     <programme start="20250210070000 +0000" stop="20250210080000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
+        <title>Bajjo</title>
     </programme>
     <programme start="20250210080000 +0000" stop="20250210090000 +0000" channel="GEO TV">
         <title>Sunn Mere Dil</title>
@@ -28353,7 +28353,10 @@
     <programme start="20250210160000 +0000" stop="20250210170000 +0000" channel="GEO TV">
         <title>Sunn Mere Dil</title>
     </programme>
-    <programme start="20250210170000 +0000" stop="20250210180000 +0000" channel="GEO TV">
+    <programme start="20250210170000 +0000" stop="20250210173000 +0000" channel="GEO TV">
+        <title>Sunn Mere Dil</title>
+    </programme>
+    <programme start="20250210173000 +0000" stop="20250210180000 +0000" channel="GEO TV">
         <title>Mehshar</title>
     </programme>
     <programme start="20250210180000 +0000" stop="20250210183000 +0000" channel="GEO TV">
@@ -35100,10 +35103,10 @@
     <programme start="20250210070000 +0000" stop="20250210110000 +0000" channel="SkySp Racing HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250210110000 +0000" stop="20250210134500 +0000" channel="SkySp Racing HD">
+    <programme start="20250210110000 +0000" stop="20250210131500 +0000" channel="SkySp Racing HD">
         <title>International Raceday Live</title>
     </programme>
-    <programme start="20250210134500 +0000" stop="20250210210000 +0000" channel="SkySp Racing HD">
+    <programme start="20250210131500 +0000" stop="20250210210000 +0000" channel="SkySp Racing HD">
         <title>Raceday Live</title>
     </programme>
     <programme start="20250210210000 +0000" stop="20250210220000 +0000" channel="SkySp Racing HD">
