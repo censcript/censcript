@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250210191500 +0000" stop="20250210201500 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - FA Cup Fifth Round Draw</title>
-    </programme>
     <programme start="20250210193500 +0000" stop="20250210225500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Doncaster v Crystal Palace</title>
     </programme>
