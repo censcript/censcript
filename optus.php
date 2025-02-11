@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250211195000 +0000" stop="20250211231000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Exeter v Nottingham Forest</title>
-    </programme>
     <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -198,6 +195,15 @@
     <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
+    <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 2.optus">
+        <title>N/A - Ulsan v Jeonbuk</title>
+    </programme>
+    <programme start="20250301072000 +0000" stop="20250301094000 +0000" channel="Optus Sport 3.optus">
+        <title>N/A - Pohang v Daegu</title>
+    </programme>
+    <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 4.optus">
+        <title>N/A - Daejeon v Suwon FC</title>
+    </programme>
     <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Manchester United v Leicester</title>
     </programme>
@@ -215,6 +221,9 @@
     </programme>
     <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Arsenal v West Ham United</title>
+    </programme>
+    <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 5.optus">
+        <title>N/A - Seoul v Gimcheon</title>
     </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
