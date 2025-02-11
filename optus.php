@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250211090000 +0000" stop="20250211100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Leon Osman</title>
-    </programme>
     <programme start="20250211195000 +0000" stop="20250211231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Exeter v Nottingham Forest</title>
     </programme>
