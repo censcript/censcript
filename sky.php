@@ -28671,20 +28671,29 @@
     <programme start="20250211230000 +0000" stop="20250211231200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250211231200 +0000" stop="20250212000000 +0000" channel="IQRA TV">
+    <programme start="20250211231200 +0000" stop="20250211231400 +0000" channel="IQRA TV">
+        <title>Dars-e-Quran</title>
+    </programme>
+    <programme start="20250211231400 +0000" stop="20250212000000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250212000000 +0000" stop="20250212000500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250212000500 +0000" stop="20250212001400 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250212001400 +0000" stop="20250212011100 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250212011100 +0000" stop="20250212013200 +0000" channel="IQRA TV">
+    <programme start="20250212001400 +0000" stop="20250212010000 +0000" channel="IQRA TV">
+        <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250212010000 +0000" stop="20250212011100 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
+    </programme>
+    <programme start="20250212011100 +0000" stop="20250212012300 +0000" channel="IQRA TV">
+        <title>Surah Ya-Sin</title>
+    </programme>
+    <programme start="20250212012300 +0000" stop="20250212013200 +0000" channel="IQRA TV">
+        <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250212013200 +0000" stop="20250212052400 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
@@ -28701,16 +28710,25 @@
     <programme start="20250212060000 +0000" stop="20250212070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250212070000 +0000" stop="20250212075600 +0000" channel="IQRA TV">
+    <programme start="20250212070000 +0000" stop="20250212075200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250212075600 +0000" stop="20250212081200 +0000" channel="IQRA TV">
+    <programme start="20250212075200 +0000" stop="20250212075600 +0000" channel="IQRA TV">
         <title>Manzil</title>
+    </programme>
+    <programme start="20250212075600 +0000" stop="20250212080800 +0000" channel="IQRA TV">
+        <title>Manzil</title>
+    </programme>
+    <programme start="20250212080800 +0000" stop="20250212081200 +0000" channel="IQRA TV">
+        <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250212081200 +0000" stop="20250212090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250212090000 +0000" stop="20250212100000 +0000" channel="IQRA TV">
+    <programme start="20250212090000 +0000" stop="20250212090900 +0000" channel="IQRA TV">
+        <title>Sehat ek Nemat</title>
+    </programme>
+    <programme start="20250212090900 +0000" stop="20250212100000 +0000" channel="IQRA TV">
         <title>Sehat ek Nemat</title>
     </programme>
     <programme start="20250212100000 +0000" stop="20250212110000 +0000" channel="IQRA TV">
@@ -38671,7 +38689,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212140600 +0000" stop="20250212150000 +0000" channel="BBC World Sv">
-        <title>Newshour</title>
+        <title>US teacher Marc Fogel released from prison in Russia</title>
     </programme>
     <programme start="20250212150000 +0000" stop="20250212150600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -38734,7 +38752,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212210600 +0000" stop="20250212220000 +0000" channel="BBC World Sv">
-        <title>Newshour</title>
+        <title>US teacher Marc Fogel released from prison in Russia</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212220600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
