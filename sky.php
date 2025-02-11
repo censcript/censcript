@@ -26499,26 +26499,8 @@
     <programme start="20250211120000 +0000" stop="20250211163000 +0000" channel="Utsav Plus HD">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211183000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211163000 +0000" stop="20250211173000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211183000 +0000" stop="20250211200000 +0000" channel="Utsav Plus HD">
-        <title>Advocate Anjali Awasthi</title>
-    </programme>
-    <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211210000 +0000" stop="20250211213000 +0000" channel="Utsav Plus HD">
-        <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250211213000 +0000" stop="20250211220000 +0000" channel="Utsav Plus HD">
-        <title>Iss Ishq Ka Rabb Rakha</title>
-    </programme>
-    <programme start="20250211220000 +0000" stop="20250211223000 +0000" channel="Utsav Plus HD">
-        <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250211223000 +0000" stop="20250211233000 +0000" channel="Utsav Plus HD">
-        <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
     <programme start="20250210223000 +0000" stop="20250210230000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -35970,26 +35952,8 @@
     <programme start="20250211120000 +0000" stop="20250211163000 +0000" channel="Utsav Plus">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211183000 +0000" channel="Utsav Plus">
+    <programme start="20250211163000 +0000" stop="20250211173000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211183000 +0000" stop="20250211200000 +0000" channel="Utsav Plus">
-        <title>Advocate Anjali Awasthi</title>
-    </programme>
-    <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Utsav Plus">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211210000 +0000" stop="20250211213000 +0000" channel="Utsav Plus">
-        <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250211213000 +0000" stop="20250211220000 +0000" channel="Utsav Plus">
-        <title>Iss Ishq Ka Rabb Rakha</title>
-    </programme>
-    <programme start="20250211220000 +0000" stop="20250211223000 +0000" channel="Utsav Plus">
-        <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250211223000 +0000" stop="20250211233000 +0000" channel="Utsav Plus">
-        <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
     <programme start="20250210223000 +0000" stop="20250210230000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -38794,7 +38758,7 @@
         <title>Asian Network Certified...</title>
     </programme>
     <programme start="20250211150000 +0000" stop="20250211180000 +0000" channel="BBC Asian Net">
-        <title>Ankur Desai</title>
+        <title>Amber Sandhu</title>
     </programme>
     <programme start="20250211180000 +0000" stop="20250211200000 +0000" channel="BBC Asian Net">
         <title>Bobby Friction</title>
