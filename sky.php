@@ -26490,14 +26490,8 @@
     <programme start="20250211053000 +0000" stop="20250211060000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211080000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211060000 +0000" stop="20250211110000 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
-    </programme>
-    <programme start="20250211080000 +0000" stop="20250211083000 +0000" channel="Utsav Plus HD">
-        <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250211083000 +0000" stop="20250211110000 +0000" channel="Utsav Plus HD">
-        <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
     <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
@@ -26511,11 +26505,8 @@
     <programme start="20250211183000 +0000" stop="20250211200000 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250211200000 +0000" stop="20250211203000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211203000 +0000" stop="20250211210000 +0000" channel="Utsav Plus HD">
-        <title>Anupamaa</title>
     </programme>
     <programme start="20250211210000 +0000" stop="20250211213000 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
@@ -35970,14 +35961,8 @@
     <programme start="20250211053000 +0000" stop="20250211060000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211080000 +0000" channel="Utsav Plus">
+    <programme start="20250211060000 +0000" stop="20250211110000 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
-    </programme>
-    <programme start="20250211080000 +0000" stop="20250211083000 +0000" channel="Utsav Plus">
-        <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250211083000 +0000" stop="20250211110000 +0000" channel="Utsav Plus">
-        <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
     <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
@@ -35991,11 +35976,8 @@
     <programme start="20250211183000 +0000" stop="20250211200000 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250211200000 +0000" stop="20250211203000 +0000" channel="Utsav Plus">
+    <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250211203000 +0000" stop="20250211210000 +0000" channel="Utsav Plus">
-        <title>Anupamaa</title>
     </programme>
     <programme start="20250211210000 +0000" stop="20250211213000 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
@@ -39987,10 +39969,7 @@
     <programme start="20250211090000 +0000" stop="20250211120000 +0000" channel="LBC News">
         <title>Martin Stanford</title>
     </programme>
-    <programme start="20250211120000 +0000" stop="20250211130000 +0000" channel="LBC News">
-        <title>Chris Golds</title>
-    </programme>
-    <programme start="20250211130000 +0000" stop="20250211160000 +0000" channel="LBC News">
+    <programme start="20250211120000 +0000" stop="20250211160000 +0000" channel="LBC News">
         <title>Chris Golds</title>
     </programme>
     <programme start="20250211160000 +0000" stop="20250211190000 +0000" channel="LBC News">
