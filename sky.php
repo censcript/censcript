@@ -168,14 +168,23 @@
     <programme start="20250212233500 +0000" stop="20250213003500 +0000" channel="BBC Two HD">
         <title>The Balkans: Europe's Forgotten Frontier</title>
     </programme>
+    <programme start="20250211193000 +0000" stop="20250211225000 +0000" channel="ITV1 HD">
+        <title>FA Cup Live: Exeter City v Forest</title>
+    </programme>
     <programme start="20250211225000 +0000" stop="20250211230500 +0000" channel="ITV1 HD">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250211230500 +0000" stop="20250212001000 +0000" channel="ITV1 HD">
+    <programme start="20250211230500 +0000" stop="20250211232000 +0000" channel="ITV1 HD">
         <title>Keane and Vieira: Best of Enemies</title>
     </programme>
-    <programme start="20250212001000 +0000" stop="20250212030000 +0000" channel="ITV1 HD">
-        <title>Shop on TV</title>
+    <programme start="20250211232000 +0000" stop="20250211235000 +0000" channel="ITV1 HD">
+        <title>ITV News</title>
+    </programme>
+    <programme start="20250211235000 +0000" stop="20250212000500 +0000" channel="ITV1 HD">
+        <title>ITV News London</title>
+    </programme>
+    <programme start="20250212000500 +0000" stop="20250212030000 +0000" channel="ITV1 HD">
+        <title>Keane and Vieira: Best of Enemies</title>
     </programme>
     <programme start="20250212030000 +0000" stop="20250212035000 +0000" channel="ITV1 HD">
         <title>Lingo</title>
@@ -7182,19 +7191,16 @@
     <programme start="20250212233500 +0000" stop="20250213003500 +0000" channel="That's TV 3">
         <title>Bread</title>
     </programme>
-    <programme start="20250211203000 +0000" stop="20250211232000 +0000" channel="ITV1+1">
+    <programme start="20250211203000 +0000" stop="20250212005000 +0000" channel="ITV1+1">
         <title>FA Cup Live: Exeter City v Forest</title>
     </programme>
-    <programme start="20250211232000 +0000" stop="20250211235000 +0000" channel="ITV1+1">
-        <title>ITV News</title>
-    </programme>
-    <programme start="20250211235000 +0000" stop="20250212000500 +0000" channel="ITV1+1">
+    <programme start="20250212005000 +0000" stop="20250212010500 +0000" channel="ITV1+1">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250212000500 +0000" stop="20250212011000 +0000" channel="ITV1+1">
+    <programme start="20250212010500 +0000" stop="20250212021000 +0000" channel="ITV1+1">
         <title>Keane and Vieira: Best of Enemies</title>
     </programme>
-    <programme start="20250212011000 +0000" stop="20250212040000 +0000" channel="ITV1+1">
+    <programme start="20250212021000 +0000" stop="20250212040000 +0000" channel="ITV1+1">
         <title>This is ITV+1</title>
     </programme>
     <programme start="20250212040000 +0000" stop="20250212045000 +0000" channel="ITV1+1">
@@ -28668,11 +28674,8 @@
     <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="IQRA TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250211230000 +0000" stop="20250211231200 +0000" channel="IQRA TV">
+    <programme start="20250211230000 +0000" stop="20250211231400 +0000" channel="IQRA TV">
         <title>Iqra News</title>
-    </programme>
-    <programme start="20250211231200 +0000" stop="20250211231400 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250211231400 +0000" stop="20250212000000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
@@ -28680,22 +28683,13 @@
     <programme start="20250212000000 +0000" stop="20250212000500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250212000500 +0000" stop="20250212001400 +0000" channel="IQRA TV">
+    <programme start="20250212000500 +0000" stop="20250212010000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250212001400 +0000" stop="20250212010000 +0000" channel="IQRA TV">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250212010000 +0000" stop="20250212011100 +0000" channel="IQRA TV">
+    <programme start="20250212010000 +0000" stop="20250212012300 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250212011100 +0000" stop="20250212012300 +0000" channel="IQRA TV">
-        <title>Surah Ya-Sin</title>
-    </programme>
-    <programme start="20250212012300 +0000" stop="20250212013200 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
-    </programme>
-    <programme start="20250212013200 +0000" stop="20250212052400 +0000" channel="IQRA TV">
+    <programme start="20250212012300 +0000" stop="20250212052400 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250212052400 +0000" stop="20250212052700 +0000" channel="IQRA TV">
@@ -28713,20 +28707,11 @@
     <programme start="20250212070000 +0000" stop="20250212075200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250212075200 +0000" stop="20250212075600 +0000" channel="IQRA TV">
+    <programme start="20250212075200 +0000" stop="20250212080800 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250212075600 +0000" stop="20250212080800 +0000" channel="IQRA TV">
-        <title>Manzil</title>
-    </programme>
-    <programme start="20250212080800 +0000" stop="20250212081200 +0000" channel="IQRA TV">
+    <programme start="20250212080800 +0000" stop="20250212090900 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250212081200 +0000" stop="20250212090000 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250212090000 +0000" stop="20250212090900 +0000" channel="IQRA TV">
-        <title>Sehat ek Nemat</title>
     </programme>
     <programme start="20250212090900 +0000" stop="20250212100000 +0000" channel="IQRA TV">
         <title>Sehat ek Nemat</title>
@@ -30924,71 +30909,44 @@
     <programme start="20250212054500 +0000" stop="20250212060000 +0000" channel="ATN">
         <title>Rehana</title>
     </programme>
-    <programme start="20250212060000 +0000" stop="20250212061200 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250212061200 +0000" stop="20250212061500 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250212061500 +0000" stop="20250212070000 +0000" channel="ATN">
+    <programme start="20250212060000 +0000" stop="20250212070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250212070000 +0000" stop="20250212073000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Islamer Pothe</title>
     </programme>
     <programme start="20250212073000 +0000" stop="20250212080000 +0000" channel="ATN">
         <title>Palki</title>
     </programme>
     <programme start="20250212080000 +0000" stop="20250212083000 +0000" channel="ATN">
-        <title>Somoyer Sathe</title>
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250212083000 +0000" stop="20250212090000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250212090000 +0000" stop="20250212100000 +0000" channel="ATN">
-        <title>Jal</title>
+        <title>Upri</title>
     </programme>
     <programme start="20250212100000 +0000" stop="20250212103000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Nupurer Chonde</title>
     </programme>
     <programme start="20250212103000 +0000" stop="20250212115500 +0000" channel="ATN">
-        <title>Education Hour</title>
+        <title>Family Focus</title>
     </programme>
     <programme start="20250212115500 +0000" stop="20250212120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250212120000 +0000" stop="20250212122000 +0000" channel="ATN">
-        <title>Shiri Farhad</title>
+    <programme start="20250212120000 +0000" stop="20250212150000 +0000" channel="ATN">
+        <title>Bidhan</title>
     </programme>
-    <programme start="20250212122000 +0000" stop="20250212122500 +0000" channel="ATN">
-        <title>Zuhr Adhaan</title>
+    <programme start="20250212150000 +0000" stop="20250212152500 +0000" channel="ATN">
+        <title>Matir Subash</title>
     </programme>
-    <programme start="20250212122500 +0000" stop="20250212140000 +0000" channel="ATN">
-        <title>Shiri Farhad</title>
-    </programme>
-    <programme start="20250212140000 +0000" stop="20250212143000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250212143000 +0000" stop="20250212145000 +0000" channel="ATN">
-        <title>Shiri Farhad</title>
-    </programme>
-    <programme start="20250212145000 +0000" stop="20250212145500 +0000" channel="ATN">
+    <programme start="20250212152500 +0000" stop="20250212153000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250212145500 +0000" stop="20250212160000 +0000" channel="ATN">
-        <title>Shiri Farhad</title>
-    </programme>
-    <programme start="20250212160000 +0000" stop="20250212163600 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250212163600 +0000" stop="20250212164000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250212164000 +0000" stop="20250212165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250212165500 +0000" stop="20250212170000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250212153000 +0000" stop="20250212170000 +0000" channel="ATN">
+        <title>Shahoshika</title>
     </programme>
     <programme start="20250212170000 +0000" stop="20250212173000 +0000" channel="ATN">
         <title>Piliar</title>
@@ -30996,26 +30954,17 @@
     <programme start="20250212173000 +0000" stop="20250212180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250212180000 +0000" stop="20250212181500 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250212180000 +0000" stop="20250212190000 +0000" channel="ATN">
+        <title>Nurul Alomer Modhu chondrima</title>
     </programme>
-    <programme start="20250212181500 +0000" stop="20250212182000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250212182000 +0000" stop="20250212183000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250212183000 +0000" stop="20250212193000 +0000" channel="ATN">
-        <title>Dars Ul Quran</title>
+    <programme start="20250212190000 +0000" stop="20250212193000 +0000" channel="ATN">
+        <title>Ganer Manush</title>
     </programme>
     <programme start="20250212193000 +0000" stop="20250212200000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250212200000 +0000" stop="20250212213000 +0000" channel="ATN">
-        <title>Family Focus</title>
-    </programme>
-    <programme start="20250212213000 +0000" stop="20250212220000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250212200000 +0000" stop="20250212220000 +0000" channel="ATN">
+        <title>ATN Music box</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212223000 +0000" channel="ATN">
         <title>Shadashidhe Choto Bhai</title>
@@ -31024,7 +30973,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="ATN">
-        <title>Jonmo Tomar Jonno</title>
+        <title>Ek Takar Bow</title>
     </programme>
     <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="NTV">
         <title>Faul</title>
@@ -38689,7 +38638,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212140600 +0000" stop="20250212150000 +0000" channel="BBC World Sv">
-        <title>US teacher Marc Fogel released from prison in Russia</title>
+        <title>Title</title>
     </programme>
     <programme start="20250212150000 +0000" stop="20250212150600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -38752,7 +38701,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212210600 +0000" stop="20250212220000 +0000" channel="BBC World Sv">
-        <title>US teacher Marc Fogel released from prison in Russia</title>
+        <title>Title</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212220600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
