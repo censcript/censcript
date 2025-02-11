@@ -24601,7 +24601,7 @@
         <title>Monsoon</title>
     </programme>
     <programme start="20250212170000 +0000" stop="20250212180000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Kitchen Gadgets under £36</title>
     </programme>
     <programme start="20250212180000 +0000" stop="20250212190000 +0000" channel="QVC HD">
         <title>Practically Perfect Home</title>
@@ -24616,7 +24616,7 @@
         <title>Judith Williams Beauty</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Kim &amp; Co New Collection</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="QVC HD">
         <title>Destination for Deals</title>
@@ -25567,7 +25567,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Spring Home Improvements</title>
     </programme>
     <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="High Street TV 3">
         <title>nutribullet</title>
@@ -30336,53 +30336,29 @@
     <programme start="20250212010000 +0000" stop="20250212034000 +0000" channel="Kanshi TV">
         <title>Pyar Ke Kabil - 1987</title>
     </programme>
-    <programme start="20250212034000 +0000" stop="20250212070000 +0000" channel="Kanshi TV">
+    <programme start="20250212034000 +0000" stop="20250212060000 +0000" channel="Kanshi TV">
         <title>Amrit Bani</title>
     </programme>
-    <programme start="20250212070000 +0000" stop="20250212090000 +0000" channel="Kanshi TV">
+    <programme start="20250212060000 +0000" stop="20250212080000 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
     </programme>
-    <programme start="20250212090000 +0000" stop="20250212093000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV News</title>
+    <programme start="20250212080000 +0000" stop="20250212100000 +0000" channel="Kanshi TV">
+        <title>Guru Ravidass Ji - Gurpurb Special</title>
     </programme>
-    <programme start="20250212093000 +0000" stop="20250212100000 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
+    <programme start="20250212100000 +0000" stop="20250212120000 +0000" channel="Kanshi TV">
+        <title>Guru Ravidass Ji - Gurpurb Special</title>
     </programme>
-    <programme start="20250212100000 +0000" stop="20250212110000 +0000" channel="Kanshi TV">
-        <title>Shabad Vichar</title>
-    </programme>
-    <programme start="20250212110000 +0000" stop="20250212123000 +0000" channel="Kanshi TV">
-        <title>Jyotish Amrit Mata - Astrologer</title>
-    </programme>
-    <programme start="20250212123000 +0000" stop="20250212130000 +0000" channel="Kanshi TV">
+    <programme start="20250212120000 +0000" stop="20250212130000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
     </programme>
-    <programme start="20250212130000 +0000" stop="20250212140000 +0000" channel="Kanshi TV">
-        <title>Punjabi Culture</title>
+    <programme start="20250212130000 +0000" stop="20250212160000 +0000" channel="Kanshi TV">
+        <title>Guru Ravidass Ji - Gurpurb Special</title>
     </programme>
-    <programme start="20250212140000 +0000" stop="20250212150000 +0000" channel="Kanshi TV">
-        <title>Lotus TV</title>
-    </programme>
-    <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Special</title>
-    </programme>
-    <programme start="20250212160000 +0000" stop="20250212170000 +0000" channel="Kanshi TV">
-        <title>Khushiyan da Vehra</title>
-    </programme>
-    <programme start="20250212170000 +0000" stop="20250212173000 +0000" channel="Kanshi TV">
-        <title>Old is Gold</title>
-    </programme>
-    <programme start="20250212173000 +0000" stop="20250212180000 +0000" channel="Kanshi TV">
-        <title>Music Time</title>
-    </programme>
-    <programme start="20250212180000 +0000" stop="20250212190000 +0000" channel="Kanshi TV">
-        <title>Sunehri Yaadein with Dalel Bhamra</title>
-    </programme>
-    <programme start="20250212190000 +0000" stop="20250212200000 +0000" channel="Kanshi TV">
-        <title>Spiritual Guidance Show</title>
+    <programme start="20250212160000 +0000" stop="20250212200000 +0000" channel="Kanshi TV">
+        <title>Guru Ravidass Ji - Gurpurb Special</title>
     </programme>
     <programme start="20250212200000 +0000" stop="20250212210000 +0000" channel="Kanshi TV">
-        <title>Apney Sitarey with Jagdeep</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250212210000 +0000" stop="20250212213000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
