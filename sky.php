@@ -15139,7 +15139,7 @@
         <title>US Steel Import Tariffs Urgent Question</title>
     </programme>
     <programme start="20250212083000 +0000" stop="20250212091500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250212091500 +0000" stop="20250212113000 +0000" channel="BBC Parl HD">
         <title>Live Transport Committee on...</title>
@@ -29074,7 +29074,7 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Inside News</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -29095,19 +29095,19 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250212180000 +0000" stop="20250212190000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250212190000 +0000" stop="20250212200000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250212200000 +0000" stop="20250212210000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250212210000 +0000" stop="20250212220000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -31476,17 +31476,8 @@
     <programme start="20250212185500 +0000" stop="20250212190000 +0000" channel="Deen TV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250212190000 +0000" stop="20250212193000 +0000" channel="Deen TV">
-        <title>Al Khalil &amp; Boruna Reports</title>
-    </programme>
-    <programme start="20250212193000 +0000" stop="20250212200000 +0000" channel="Deen TV">
-        <title>Priyo Gaan</title>
-    </programme>
-    <programme start="20250212200000 +0000" stop="20250212213000 +0000" channel="Deen TV">
-        <title>Dua O Zikir</title>
-    </programme>
-    <programme start="20250212213000 +0000" stop="20250212220000 +0000" channel="Deen TV">
-        <title>Tilawat-E-Quran</title>
+    <programme start="20250212190000 +0000" stop="20250212220000 +0000" channel="Deen TV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212223000 +0000" channel="Deen TV">
         <title>Waz O Nasihat</title>

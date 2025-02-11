@@ -45,7 +45,7 @@
     <programme start="20250214223000 +0000" stop="20250214233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
-    <programme start="20250215035000 +0000" stop="20250215061000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250215035000 +0000" stop="20250215061000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Daejeon</title>
     </programme>
     <programme start="20250215045500 +0000" stop="20250215071000 +0000" channel="Optus Sport 7.optus">
@@ -54,7 +54,7 @@
     <programme start="20250215055500 +0000" stop="20250215081000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Kawasaki v Nagoya</title>
     </programme>
-    <programme start="20250215062000 +0000" stop="20250215084000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250215062000 +0000" stop="20250215084000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeju v Seoul</title>
     </programme>
     <programme start="20250215113000 +0000" stop="20250215145000 +0000" channel="Optus Sport 1.optus">
@@ -84,16 +84,16 @@
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
-    <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 5.optus">
         <title>N/A - Ulsan v Anyang</title>
     </programme>
     <programme start="20250216045500 +0000" stop="20250216071000 +0000" channel="Optus Sport 6.optus">
         <title>J1 League - Machida v Sanfrecce</title>
     </programme>
-    <programme start="20250216072000 +0000" stop="20250216094000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250216072000 +0000" stop="20250216094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Daegu v Gangwon</title>
     </programme>
-    <programme start="20250216115500 +0000" stop="20250216151000 +0000" channel="Optus Sport 201.optus">
+    <programme start="20250216115500 +0000" stop="20250216141000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Manchester United v Crystal Palace</title>
     </programme>
     <programme start="20250216122000 +0000" stop="20250216144000 +0000" channel="Optus Sport 7.optus">
@@ -102,19 +102,19 @@
     <programme start="20250216130000 +0000" stop="20250216162000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 204.optus">
+    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Chelsea v Everton</title>
     </programme>
-    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 206.optus">
+    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 6.optus">
         <title>Women&#039;s Super League - West Ham United v Brighton and Hove Albion</title>
     </programme>
-    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 205.optus">
+    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Leicester v Aston Villa</title>
     </programme>
     <programme start="20250216162000 +0000" stop="20250216193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Tottenham Hotspur v Manchester United</title>
     </programme>
-    <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
     </programme>
     <programme start="20250216203000 +0000" stop="20250216220000 +0000" channel="Optus Sport 11.optus">
