@@ -6834,11 +6834,8 @@
     <programme start="20250211232900 +0000" stop="20250212002900 +0000" channel="Travelxp">
         <title>10 Days South Africa</title>
     </programme>
-    <programme start="20250210193000 +0000" stop="20250210223000 +0000" channel="BBCScotlandHD">
+    <programme start="20250210193000 +0000" stop="20250210230000 +0000" channel="BBCScotlandHD">
         <title>Sportscene: Scottish Cup Live</title>
-    </programme>
-    <programme start="20250210223000 +0000" stop="20250210230000 +0000" channel="BBCScotlandHD">
-        <title>New: Showpeople: Licensed to Thrill</title>
     </programme>
     <programme start="20250210230000 +0000" stop="20250210233000 +0000" channel="BBCScotlandHD">
         <title>Scotcast</title>
@@ -13974,7 +13971,10 @@
     <programme start="20250210190000 +0000" stop="20250210230000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250210230000 +0000" stop="20250211010000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker: Welsh Open</title>
+    </programme>
+    <programme start="20250211000000 +0000" stop="20250211010000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: Welsh Open</title>
     </programme>
     <programme start="20250211010000 +0000" stop="20250211020000 +0000" channel="Eurosport 1 HD">
@@ -15168,14 +15168,8 @@
     <programme start="20250211230000 +0000" stop="20250212000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250210223000 +0000" stop="20250210225500 +0000" channel="BBC Parl HD">
+    <programme start="20250210225500 +0000" stop="20250210234000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Communities Questions</title>
-    </programme>
-    <programme start="20250210225500 +0000" stop="20250210231500 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Communities Questions</title>
-    </programme>
-    <programme start="20250210231500 +0000" stop="20250210234000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
     </programme>
     <programme start="20250210234000 +0000" stop="20250211002500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
@@ -15195,8 +15189,11 @@
     <programme start="20250211044500 +0000" stop="20250211052500 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
     </programme>
-    <programme start="20250211052500 +0000" stop="20250211070000 +0000" channel="BBC Parl HD">
+    <programme start="20250211052500 +0000" stop="20250211064500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Terrorism Bill, Part 2</title>
+    </programme>
+    <programme start="20250211064500 +0000" stop="20250211070000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Avian Influenza</title>
     </programme>
     <programme start="20250211070000 +0000" stop="20250211081000 +0000" channel="BBC Parl HD">
         <title>Energy Security and Net Zero Questions</title>
@@ -20334,11 +20331,8 @@
     <programme start="20250211183000 +0000" stop="20250211185000 +0000" channel="CBBC HD">
         <title>The Next Step</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211185800 +0000" channel="CBBC HD">
+    <programme start="20250211185000 +0000" stop="20250211195000 +0000" channel="CBBC HD">
         <title>Blue Peter Challenges: Abby and...</title>
-    </programme>
-    <programme start="20250211185800 +0000" stop="20250211195800 +0000" channel="CBBC HD">
-        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250210185800 +0000" stop="20250211005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -20577,11 +20571,8 @@
     <programme start="20250211182000 +0000" stop="20250211185000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211185800 +0000" channel="CBeebies HD">
+    <programme start="20250211185000 +0000" stop="20250211195000 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
-    </programme>
-    <programme start="20250211185800 +0000" stop="20250211195800 +0000" channel="CBeebies HD">
-        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250210224500 +0000" stop="20250210230000 +0000" channel="Sky Kids HD">
         <title>The Pingu Show</title>
@@ -28677,22 +28668,13 @@
     <programme start="20250211000500 +0000" stop="20250211001400 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250211001400 +0000" stop="20250211002400 +0000" channel="IQRA TV">
+    <programme start="20250211001400 +0000" stop="20250211010000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250211002400 +0000" stop="20250211010000 +0000" channel="IQRA TV">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250211010000 +0000" stop="20250211011500 +0000" channel="IQRA TV">
+    <programme start="20250211010000 +0000" stop="20250211012000 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250211011500 +0000" stop="20250211012000 +0000" channel="IQRA TV">
-        <title>Surah Ya-Sin</title>
-    </programme>
-    <programme start="20250211012000 +0000" stop="20250211013500 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
-    </programme>
-    <programme start="20250211013500 +0000" stop="20250211052600 +0000" channel="IQRA TV">
+    <programme start="20250211012000 +0000" stop="20250211052600 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250211052600 +0000" stop="20250211052900 +0000" channel="IQRA TV">
@@ -28716,10 +28698,7 @@
     <programme start="20250211081100 +0000" stop="20250211090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250211090000 +0000" stop="20250211090700 +0000" channel="IQRA TV">
-        <title>Ar Ruqyah Ash Shariyyah</title>
-    </programme>
-    <programme start="20250211090700 +0000" stop="20250211100000 +0000" channel="IQRA TV">
+    <programme start="20250211090000 +0000" stop="20250211100000 +0000" channel="IQRA TV">
         <title>Ar Ruqyah Ash Shariyyah</title>
     </programme>
     <programme start="20250211100000 +0000" stop="20250211103000 +0000" channel="IQRA TV">
@@ -30381,44 +30360,20 @@
     <programme start="20250211070000 +0000" stop="20250211080000 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
     </programme>
-    <programme start="20250211080000 +0000" stop="20250211090000 +0000" channel="Kanshi TV">
+    <programme start="20250211080000 +0000" stop="20250211120000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji - Gurpurb Special</title>
-    </programme>
-    <programme start="20250211090000 +0000" stop="20250211093000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV News</title>
-    </programme>
-    <programme start="20250211093000 +0000" stop="20250211100000 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250211100000 +0000" stop="20250211110000 +0000" channel="Kanshi TV">
-        <title>Sarb Sanjhi Gurbani</title>
-    </programme>
-    <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="Kanshi TV">
-        <title>Jyotish Amrit Mata - Astrologer</title>
     </programme>
     <programme start="20250211120000 +0000" stop="20250211130000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
     </programme>
-    <programme start="20250211130000 +0000" stop="20250211140000 +0000" channel="Kanshi TV">
+    <programme start="20250211130000 +0000" stop="20250211150000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji - Gurpurb Special</title>
     </programme>
-    <programme start="20250211140000 +0000" stop="20250211150000 +0000" channel="Kanshi TV">
-        <title>Matinee Movie</title>
-    </programme>
-    <programme start="20250211150000 +0000" stop="20250211163000 +0000" channel="Kanshi TV">
+    <programme start="20250211150000 +0000" stop="20250211170000 +0000" channel="Kanshi TV">
         <title>Ravidassia Heritage Foundation</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211170000 +0000" channel="Kanshi TV">
-        <title>Music Time</title>
-    </programme>
-    <programme start="20250211170000 +0000" stop="20250211180000 +0000" channel="Kanshi TV">
+    <programme start="20250211170000 +0000" stop="20250211200000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji - Gurpurb Special</title>
-    </programme>
-    <programme start="20250211180000 +0000" stop="20250211190000 +0000" channel="Kanshi TV">
-        <title>Bhagwan Valmik Sabha of Bedford</title>
-    </programme>
-    <programme start="20250211190000 +0000" stop="20250211200000 +0000" channel="Kanshi TV">
-        <title>Bhakh de Masle</title>
     </programme>
     <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
@@ -30855,11 +30810,8 @@
     <programme start="20250211223000 +0000" stop="20250211233000 +0000" channel="CHSTV">
         <title>Obhimot</title>
     </programme>
-    <programme start="20250210203000 +0000" stop="20250210230000 +0000" channel="IQRA Bangla">
+    <programme start="20250210203000 +0000" stop="20250211000000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
     </programme>
     <programme start="20250211000000 +0000" stop="20250211003000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
@@ -30978,20 +30930,11 @@
     <programme start="20250211050000 +0000" stop="20250211060000 +0000" channel="ATN">
         <title>Bodh</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211061300 +0000" channel="ATN">
+    <programme start="20250211060000 +0000" stop="20250211070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250211061300 +0000" stop="20250211061800 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250211061800 +0000" stop="20250211070000 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250211070000 +0000" stop="20250211073000 +0000" channel="ATN">
+    <programme start="20250211070000 +0000" stop="20250211090000 +0000" channel="ATN">
         <title>Shahoshika</title>
-    </programme>
-    <programme start="20250211073000 +0000" stop="20250211090000 +0000" channel="ATN">
-        <title>Alapcharita</title>
     </programme>
     <programme start="20250211090000 +0000" stop="20250211093000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -31017,20 +30960,8 @@
     <programme start="20250211122000 +0000" stop="20250211122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250211122500 +0000" stop="20250211140000 +0000" channel="ATN">
+    <programme start="20250211122500 +0000" stop="20250211145500 +0000" channel="ATN">
         <title>Bashiwala</title>
-    </programme>
-    <programme start="20250211140000 +0000" stop="20250211143000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250211143000 +0000" stop="20250211144500 +0000" channel="ATN">
-        <title>Buker Dhon</title>
-    </programme>
-    <programme start="20250211144500 +0000" stop="20250211145000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250211145000 +0000" stop="20250211145500 +0000" channel="ATN">
-        <title>Buker Dhon</title>
     </programme>
     <programme start="20250211145500 +0000" stop="20250211152000 +0000" channel="ATN">
         <title>Bashiwala</title>
@@ -31044,17 +30975,8 @@
     <programme start="20250211153000 +0000" stop="20250211160000 +0000" channel="ATN">
         <title>Obiram Bangladesh</title>
     </programme>
-    <programme start="20250211160000 +0000" stop="20250211163400 +0000" channel="ATN">
+    <programme start="20250211160000 +0000" stop="20250211170000 +0000" channel="ATN">
         <title>Ektai Tumi</title>
-    </programme>
-    <programme start="20250211163400 +0000" stop="20250211163900 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250211163900 +0000" stop="20250211165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250211165500 +0000" stop="20250211170000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250211170000 +0000" stop="20250211171200 +0000" channel="ATN">
         <title>Piliar</title>
@@ -31068,22 +30990,13 @@
     <programme start="20250211173000 +0000" stop="20250211180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250211180000 +0000" stop="20250211181500 +0000" channel="ATN">
+    <programme start="20250211180000 +0000" stop="20250211184500 +0000" channel="ATN">
         <title>ATN Archive</title>
-    </programme>
-    <programme start="20250211181500 +0000" stop="20250211182000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250211182000 +0000" stop="20250211184500 +0000" channel="ATN">
-        <title>ATN News</title>
     </programme>
     <programme start="20250211184500 +0000" stop="20250211185000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211185500 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250211185500 +0000" stop="20250211190000 +0000" channel="ATN">
+    <programme start="20250211185000 +0000" stop="20250211190000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211193000 +0000" channel="ATN">
@@ -31428,17 +31341,11 @@
     <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250211120000 +0000" stop="20250211121900 +0000" channel="iON TV">
+    <programme start="20250211120000 +0000" stop="20250211122000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250211121900 +0000" stop="20250211122000 +0000" channel="iON TV">
+    <programme start="20250211122000 +0000" stop="20250211130000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
-    </programme>
-    <programme start="20250211122000 +0000" stop="20250211122400 +0000" channel="iON TV">
-        <title>Azan-e-Zuhr</title>
-    </programme>
-    <programme start="20250211122400 +0000" stop="20250211130000 +0000" channel="iON TV">
-        <title>Drama Time</title>
     </programme>
     <programme start="20250211130000 +0000" stop="20250211133000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -31446,11 +31353,8 @@
     <programme start="20250211133000 +0000" stop="20250211140000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250211140000 +0000" stop="20250211145600 +0000" channel="iON TV">
+    <programme start="20250211140000 +0000" stop="20250211150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
-    </programme>
-    <programme start="20250211145600 +0000" stop="20250211150000 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250211150000 +0000" stop="20250211152000 +0000" channel="iON TV">
         <title>News Views</title>
@@ -31461,14 +31365,8 @@
     <programme start="20250211152400 +0000" stop="20250211160000 +0000" channel="iON TV">
         <title>News Views</title>
     </programme>
-    <programme start="20250211160000 +0000" stop="20250211164600 +0000" channel="iON TV">
+    <programme start="20250211160000 +0000" stop="20250211170000 +0000" channel="iON TV">
         <title>Searchlight</title>
-    </programme>
-    <programme start="20250211164600 +0000" stop="20250211165100 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250211165100 +0000" stop="20250211170000 +0000" channel="iON TV">
-        <title>News Views</title>
     </programme>
     <programme start="20250211170000 +0000" stop="20250211171200 +0000" channel="iON TV">
         <title>Music Hour</title>
@@ -31479,13 +31377,7 @@
     <programme start="20250211171700 +0000" stop="20250211180000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250211180000 +0000" stop="20250211182300 +0000" channel="iON TV">
-        <title>Health Guide</title>
-    </programme>
-    <programme start="20250211182300 +0000" stop="20250211182800 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250211182800 +0000" stop="20250211184300 +0000" channel="iON TV">
+    <programme start="20250211180000 +0000" stop="20250211184300 +0000" channel="iON TV">
         <title>Health Guide</title>
     </programme>
     <programme start="20250211184300 +0000" stop="20250211184800 +0000" channel="iON TV">
@@ -35262,7 +35154,10 @@
     <programme start="20250210190000 +0000" stop="20250210230000 +0000" channel="Eurosport 1">
         <title>Live Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250210230000 +0000" stop="20250211010000 +0000" channel="Eurosport 1">
+    <programme start="20250210230000 +0000" stop="20250211000000 +0000" channel="Eurosport 1">
+        <title>Snooker: Welsh Open</title>
+    </programme>
+    <programme start="20250211000000 +0000" stop="20250211010000 +0000" channel="Eurosport 1">
         <title>Snooker: Welsh Open</title>
     </programme>
     <programme start="20250211010000 +0000" stop="20250211020000 +0000" channel="Eurosport 1">
