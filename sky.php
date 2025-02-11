@@ -26310,11 +26310,8 @@
     <programme start="20250211175800 +0000" stop="20250211182900 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250211182900 +0000" stop="20250211185900 +0000" channel="SONY TV HD">
+    <programme start="20250211182900 +0000" stop="20250211192900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
-    </programme>
-    <programme start="20250211185900 +0000" stop="20250211192900 +0000" channel="SONY TV HD">
-        <title>Aangan Aapno Kaa</title>
     </programme>
     <programme start="20250211192900 +0000" stop="20250211205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
@@ -30960,13 +30957,7 @@
     <programme start="20250211054700 +0000" stop="20250211060000 +0000" channel="NTV">
         <title>Todays Kitchen</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211062000 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250211062000 +0000" stop="20250211062500 +0000" channel="NTV">
-        <title>Adhan-a-Fajr</title>
-    </programme>
-    <programme start="20250211062500 +0000" stop="20250211063000 +0000" channel="NTV">
+    <programme start="20250211060000 +0000" stop="20250211063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250211063000 +0000" stop="20250211070000 +0000" channel="NTV">
@@ -30993,11 +30984,8 @@
     <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="NTV">
         <title>Bhalobasha Simahin</title>
     </programme>
-    <programme start="20250211120000 +0000" stop="20250211121500 +0000" channel="NTV">
+    <programme start="20250211120000 +0000" stop="20250211122000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250211121500 +0000" stop="20250211122000 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
     </programme>
     <programme start="20250211122000 +0000" stop="20250211123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
@@ -31008,38 +30996,20 @@
     <programme start="20250211140000 +0000" stop="20250211143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250211143000 +0000" stop="20250211143300 +0000" channel="NTV">
+    <programme start="20250211143000 +0000" stop="20250211150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250211143300 +0000" stop="20250211143800 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250211143800 +0000" stop="20250211150000 +0000" channel="NTV">
-        <title>Desher Khobor</title>
-    </programme>
-    <programme start="20250211150000 +0000" stop="20250211162300 +0000" channel="NTV">
+    <programme start="20250211150000 +0000" stop="20250211163000 +0000" channel="NTV">
         <title>Dui Jonakir Golpo</title>
     </programme>
-    <programme start="20250211162300 +0000" stop="20250211162800 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250211162800 +0000" stop="20250211163000 +0000" channel="NTV">
-        <title>Dui Jonakir Golpo</title>
-    </programme>
-    <programme start="20250211163000 +0000" stop="20250211170000 +0000" channel="NTV">
+    <programme start="20250211163000 +0000" stop="20250211173000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250211170000 +0000" stop="20250211173000 +0000" channel="NTV">
-        <title>Ganer Bazar</title>
     </programme>
     <programme start="20250211173000 +0000" stop="20250211180000 +0000" channel="NTV">
         <title>Glamour World</title>
     </programme>
-    <programme start="20250211180000 +0000" stop="20250211180500 +0000" channel="NTV">
+    <programme start="20250211180000 +0000" stop="20250211190000 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250211180500 +0000" stop="20250211190000 +0000" channel="NTV">
-        <title>Banker Girl Friend</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -35880,11 +35850,8 @@
     <programme start="20250211175800 +0000" stop="20250211182900 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250211182900 +0000" stop="20250211185900 +0000" channel="SONY TV">
+    <programme start="20250211182900 +0000" stop="20250211192900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
-    </programme>
-    <programme start="20250211185900 +0000" stop="20250211192900 +0000" channel="SONY TV">
-        <title>Aangan Aapno Kaa</title>
     </programme>
     <programme start="20250211192900 +0000" stop="20250211205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
@@ -37530,10 +37497,7 @@
     <programme start="20250211223000 +0000" stop="20250211224000 +0000" channel="BBC One Wal HD">
         <title>BBC Wales Today</title>
     </programme>
-    <programme start="20250211224000 +0000" stop="20250211233000 +0000" channel="BBC One Wal HD">
-        <title>Boarders</title>
-    </programme>
-    <programme start="20250211233000 +0000" stop="20250212003000 +0000" channel="BBC One Wal HD">
+    <programme start="20250211224000 +0000" stop="20250211234000 +0000" channel="BBC One Wal HD">
         <title>Boarders</title>
     </programme>
     <programme start="20250210224000 +0000" stop="20250210231000 +0000" channel="BBC One NI HD">
@@ -37659,11 +37623,8 @@
     <programme start="20250211100000 +0000" stop="20250211163500 +0000" channel="BBC Two Wal HD">
         <title>Snooker: Welsh Open 2025</title>
     </programme>
-    <programme start="20250211163500 +0000" stop="20250211173000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250211163500 +0000" stop="20250211180000 +0000" channel="BBC Two Wal HD">
         <title>First Minister's Questions</title>
-    </programme>
-    <programme start="20250211173000 +0000" stop="20250211180000 +0000" channel="BBC Two Wal HD">
-        <title>Villages by the Sea: Beer</title>
     </programme>
     <programme start="20250211180000 +0000" stop="20250211183000 +0000" channel="BBC Two Wal HD">
         <title>Richard Osman's House of Games</title>
