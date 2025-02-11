@@ -6292,7 +6292,7 @@
         <title>Teleshopping: Fresh Classic</title>
     </programme>
     <programme start="20250211083000 +0000" stop="20250211090000 +0000" channel="Together">
-        <title>Teleshopping: Soft Sitter SFSK04</title>
+        <title>Teleshopping: Chef O Matic</title>
     </programme>
     <programme start="20250211090000 +0000" stop="20250211093000 +0000" channel="Together">
         <title>Teleshopping: Ruby Horsepower</title>
@@ -25030,7 +25030,7 @@
         <title>Kimbie Home: Hathi</title>
     </programme>
     <programme start="20250211130000 +0000" stop="20250211140000 +0000" channel="Gems TV">
-        <title>Ellendale Yellow Diamonds</title>
+        <title>Grey Jade</title>
     </programme>
     <programme start="20250211140000 +0000" stop="20250211150000 +0000" channel="Gems TV">
         <title>Fast Pace Wheel</title>
@@ -25042,16 +25042,16 @@
         <title>Black Spinel Showcase</title>
     </programme>
     <programme start="20250211170000 +0000" stop="20250211180000 +0000" channel="Gems TV">
-        <title>Beauty Tuesday with Kati Elliott</title>
+        <title>Tanzanite</title>
     </programme>
     <programme start="20250211180000 +0000" stop="20250211190000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211200000 +0000" channel="Gems TV">
         <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250211200000 +0000" stop="20250211210000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Grandidierite</title>
     </programme>
     <programme start="20250211210000 +0000" stop="20250211220000 +0000" channel="Gems TV">
         <title>Huge Jewellery Savings</title>
@@ -25180,7 +25180,7 @@
         <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250211180000 +0000" stop="20250211183000 +0000" channel="High Street TV 1">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>SmartAir Boost Radiator Fan</title>
     </programme>
     <programme start="20250211183000 +0000" stop="20250211190000 +0000" channel="High Street TV 1">
         <title>Pocket Vac</title>
@@ -25336,7 +25336,7 @@
         <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250211183000 +0000" stop="20250211190000 +0000" channel="High Street TV 2">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>SmartAir Boost Radiator Fan</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211193000 +0000" channel="High Street TV 2">
         <title>Pocket Vac</title>
@@ -25744,7 +25744,7 @@
         <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250211190000 +0000" stop="20250211193000 +0000" channel="High Street TV 3">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>SmartAir Boost Radiator Fan</title>
     </programme>
     <programme start="20250211193000 +0000" stop="20250211200000 +0000" channel="High Street TV 3">
         <title>Pocket Vac</title>
@@ -26487,17 +26487,113 @@
     <programme start="20250211053000 +0000" stop="20250211060000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211110000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211060000 +0000" stop="20250211063800 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211063800 +0000" stop="20250211070600 +0000" channel="Utsav Plus HD">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211070600 +0000" stop="20250211073500 +0000" channel="Utsav Plus HD">
+        <title>Woh To Hai Albelaa</title>
+    </programme>
+    <programme start="20250211073500 +0000" stop="20250211081100 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250211120000 +0000" stop="20250211163000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211081100 +0000" stop="20250211084000 +0000" channel="Utsav Plus HD">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211084000 +0000" stop="20250211090400 +0000" channel="Utsav Plus HD">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211090400 +0000" stop="20250211093200 +0000" channel="Utsav Plus HD">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211093200 +0000" stop="20250211095800 +0000" channel="Utsav Plus HD">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211095800 +0000" stop="20250211102800 +0000" channel="Utsav Plus HD">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211102800 +0000" stop="20250211110000 +0000" channel="Utsav Plus HD">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211110000 +0000" stop="20250211113600 +0000" channel="Utsav Plus HD">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211113600 +0000" stop="20250211120000 +0000" channel="Utsav Plus HD">
+        <title>Mummy Ka Magic</title>
+    </programme>
+    <programme start="20250211120000 +0000" stop="20250211122900 +0000" channel="Utsav Plus HD">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211173000 +0000" channel="Utsav Plus HD">
+    <programme start="20250211122900 +0000" stop="20250211125900 +0000" channel="Utsav Plus HD">
+        <title>Turban Tadka</title>
+    </programme>
+    <programme start="20250211125900 +0000" stop="20250211132800 +0000" channel="Utsav Plus HD">
+        <title>Maati Se Bandhi Dor</title>
+    </programme>
+    <programme start="20250211132800 +0000" stop="20250211135900 +0000" channel="Utsav Plus HD">
+        <title>Advocate Anjali Awasthi</title>
+    </programme>
+    <programme start="20250211135900 +0000" stop="20250211142700 +0000" channel="Utsav Plus HD">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211142700 +0000" stop="20250211145700 +0000" channel="Utsav Plus HD">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211145700 +0000" stop="20250211152400 +0000" channel="Utsav Plus HD">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211152400 +0000" stop="20250211155100 +0000" channel="Utsav Plus HD">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211155100 +0000" stop="20250211163000 +0000" channel="Utsav Plus HD">
+        <title>Jhanak</title>
+    </programme>
+    <programme start="20250211163000 +0000" stop="20250211165800 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211165800 +0000" stop="20250211172800 +0000" channel="Utsav Plus HD">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211172800 +0000" stop="20250211180400 +0000" channel="Utsav Plus HD">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211180400 +0000" stop="20250211183300 +0000" channel="Utsav Plus HD">
+        <title>Mummy Ka Magic</title>
+    </programme>
+    <programme start="20250211183300 +0000" stop="20250211185500 +0000" channel="Utsav Plus HD">
+        <title>Advocate Anjali Awasthi</title>
+    </programme>
+    <programme start="20250211185500 +0000" stop="20250211192100 +0000" channel="Utsav Plus HD">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211192100 +0000" stop="20250211200200 +0000" channel="Utsav Plus HD">
+        <title>Jhanak</title>
+    </programme>
+    <programme start="20250211200200 +0000" stop="20250211203200 +0000" channel="Utsav Plus HD">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211203200 +0000" stop="20250211210700 +0000" channel="Utsav Plus HD">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211210700 +0000" stop="20250211214000 +0000" channel="Utsav Plus HD">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211214000 +0000" stop="20250211220700 +0000" channel="Utsav Plus HD">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211220700 +0000" stop="20250211224600 +0000" channel="Utsav Plus HD">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211224600 +0000" stop="20250211231100 +0000" channel="Utsav Plus HD">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211231100 +0000" stop="20250211234100 +0000" channel="Utsav Plus HD">
+        <title>Maati Se Bandhi Dor</title>
+    </programme>
+    <programme start="20250211234100 +0000" stop="20250212004100 +0000" channel="Utsav Plus HD">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250210223000 +0000" stop="20250210230000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -35910,17 +36006,113 @@
     <programme start="20250211053000 +0000" stop="20250211060000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250211060000 +0000" stop="20250211110000 +0000" channel="Utsav Plus">
+    <programme start="20250211060000 +0000" stop="20250211063800 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250211110000 +0000" stop="20250211120000 +0000" channel="Utsav Plus">
+    <programme start="20250211063800 +0000" stop="20250211070600 +0000" channel="Utsav Plus">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211070600 +0000" stop="20250211073500 +0000" channel="Utsav Plus">
+        <title>Woh To Hai Albelaa</title>
+    </programme>
+    <programme start="20250211073500 +0000" stop="20250211081100 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250211120000 +0000" stop="20250211163000 +0000" channel="Utsav Plus">
+    <programme start="20250211081100 +0000" stop="20250211084000 +0000" channel="Utsav Plus">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211084000 +0000" stop="20250211090400 +0000" channel="Utsav Plus">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211090400 +0000" stop="20250211093200 +0000" channel="Utsav Plus">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211093200 +0000" stop="20250211095800 +0000" channel="Utsav Plus">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211095800 +0000" stop="20250211102800 +0000" channel="Utsav Plus">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211102800 +0000" stop="20250211110000 +0000" channel="Utsav Plus">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211110000 +0000" stop="20250211113600 +0000" channel="Utsav Plus">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211113600 +0000" stop="20250211120000 +0000" channel="Utsav Plus">
+        <title>Mummy Ka Magic</title>
+    </programme>
+    <programme start="20250211120000 +0000" stop="20250211122900 +0000" channel="Utsav Plus">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250211163000 +0000" stop="20250211173000 +0000" channel="Utsav Plus">
+    <programme start="20250211122900 +0000" stop="20250211125900 +0000" channel="Utsav Plus">
+        <title>Turban Tadka</title>
+    </programme>
+    <programme start="20250211125900 +0000" stop="20250211132800 +0000" channel="Utsav Plus">
+        <title>Maati Se Bandhi Dor</title>
+    </programme>
+    <programme start="20250211132800 +0000" stop="20250211135900 +0000" channel="Utsav Plus">
+        <title>Advocate Anjali Awasthi</title>
+    </programme>
+    <programme start="20250211135900 +0000" stop="20250211142700 +0000" channel="Utsav Plus">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211142700 +0000" stop="20250211145700 +0000" channel="Utsav Plus">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211145700 +0000" stop="20250211152400 +0000" channel="Utsav Plus">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211152400 +0000" stop="20250211155100 +0000" channel="Utsav Plus">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211155100 +0000" stop="20250211163000 +0000" channel="Utsav Plus">
+        <title>Jhanak</title>
+    </programme>
+    <programme start="20250211163000 +0000" stop="20250211165800 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211165800 +0000" stop="20250211172800 +0000" channel="Utsav Plus">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211172800 +0000" stop="20250211180400 +0000" channel="Utsav Plus">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211180400 +0000" stop="20250211183300 +0000" channel="Utsav Plus">
+        <title>Mummy Ka Magic</title>
+    </programme>
+    <programme start="20250211183300 +0000" stop="20250211185500 +0000" channel="Utsav Plus">
+        <title>Advocate Anjali Awasthi</title>
+    </programme>
+    <programme start="20250211185500 +0000" stop="20250211192100 +0000" channel="Utsav Plus">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
+    </programme>
+    <programme start="20250211192100 +0000" stop="20250211200200 +0000" channel="Utsav Plus">
+        <title>Jhanak</title>
+    </programme>
+    <programme start="20250211200200 +0000" stop="20250211203200 +0000" channel="Utsav Plus">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250211203200 +0000" stop="20250211210700 +0000" channel="Utsav Plus">
+        <title>Anupamaa</title>
+    </programme>
+    <programme start="20250211210700 +0000" stop="20250211214000 +0000" channel="Utsav Plus">
+        <title>Ghum Hai Kisikey Pyaar Meiin</title>
+    </programme>
+    <programme start="20250211214000 +0000" stop="20250211220700 +0000" channel="Utsav Plus">
+        <title>Iss Ishq Ka Rabb Rakha</title>
+    </programme>
+    <programme start="20250211220700 +0000" stop="20250211224600 +0000" channel="Utsav Plus">
+        <title>Udne Ki Aasha</title>
+    </programme>
+    <programme start="20250211224600 +0000" stop="20250211231100 +0000" channel="Utsav Plus">
+        <title>Dil Ko Tumse Pyaar Hua</title>
+    </programme>
+    <programme start="20250211231100 +0000" stop="20250211234100 +0000" channel="Utsav Plus">
+        <title>Maati Se Bandhi Dor</title>
+    </programme>
+    <programme start="20250211234100 +0000" stop="20250212004100 +0000" channel="Utsav Plus">
+        <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250210223000 +0000" stop="20250210230000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
