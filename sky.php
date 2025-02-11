@@ -20571,8 +20571,11 @@
     <programme start="20250211182000 +0000" stop="20250211185000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250211185000 +0000" stop="20250211195000 +0000" channel="CBeebies HD">
+    <programme start="20250211185000 +0000" stop="20250211185800 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
+    </programme>
+    <programme start="20250211185800 +0000" stop="20250211195800 +0000" channel="CBeebies HD">
+        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250210224500 +0000" stop="20250210230000 +0000" channel="Sky Kids HD">
         <title>The Pingu Show</title>
@@ -40120,7 +40123,7 @@
         <title>Martin Stanford</title>
     </programme>
     <programme start="20250211120000 +0000" stop="20250211130000 +0000" channel="LBC News">
-        <title>Simon Conway</title>
+        <title>Chris Golds</title>
     </programme>
     <programme start="20250211130000 +0000" stop="20250211160000 +0000" channel="LBC News">
         <title>Chris Golds</title>
