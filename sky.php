@@ -1782,7 +1782,84 @@
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <!-- Error: Data tidak ditemukan untuk channel ID 6534 -->
+    <programme start="20250211220000 +0000" stop="20250211230500 +0000" channel="ITV4 HD">
+        <title>The Taking of Pelham 123</title>
+    </programme>
+    <programme start="20250211230500 +0000" stop="20250211231000 +0000" channel="ITV4 HD">
+        <title>FYI Daily</title>
+    </programme>
+    <programme start="20250211231000 +0000" stop="20250212001000 +0000" channel="ITV4 HD">
+        <title>The Taking of Pelham 123</title>
+    </programme>
+    <programme start="20250212001000 +0000" stop="20250212011000 +0000" channel="ITV4 HD">
+        <title>LIV Golf Riyadh - Highlights</title>
+    </programme>
+    <programme start="20250212011000 +0000" stop="20250212014000 +0000" channel="ITV4 HD">
+        <title>Ligue 1 Highlights</title>
+    </programme>
+    <programme start="20250212014000 +0000" stop="20250212024000 +0000" channel="ITV4 HD">
+        <title>On the Road</title>
+    </programme>
+    <programme start="20250212024000 +0000" stop="20250212030000 +0000" channel="ITV4 HD">
+        <title>Unwind with ITV</title>
+    </programme>
+    <programme start="20250212030000 +0000" stop="20250212060000 +0000" channel="ITV4 HD">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250212060000 +0000" stop="20250212070500 +0000" channel="ITV4 HD">
+        <title>Minder</title>
+    </programme>
+    <programme start="20250212070500 +0000" stop="20250212081000 +0000" channel="ITV4 HD">
+        <title>The Professionals</title>
+    </programme>
+    <programme start="20250212081000 +0000" stop="20250212091500 +0000" channel="ITV4 HD">
+        <title>The Casebook of Sherlock Holmes</title>
+    </programme>
+    <programme start="20250212091500 +0000" stop="20250212102000 +0000" channel="ITV4 HD">
+        <title>Magnum, P.I.</title>
+    </programme>
+    <programme start="20250212102000 +0000" stop="20250212112500 +0000" channel="ITV4 HD">
+        <title>Kojak</title>
+    </programme>
+    <programme start="20250212112500 +0000" stop="20250212122500 +0000" channel="ITV4 HD">
+        <title>BattleBots</title>
+    </programme>
+    <programme start="20250212122500 +0000" stop="20250212133500 +0000" channel="ITV4 HD">
+        <title>The Memoirs of Sherlock Holmes</title>
+    </programme>
+    <programme start="20250212133500 +0000" stop="20250212143500 +0000" channel="ITV4 HD">
+        <title>Magnum, P.I.</title>
+    </programme>
+    <programme start="20250212143500 +0000" stop="20250212154000 +0000" channel="ITV4 HD">
+        <title>Kojak</title>
+    </programme>
+    <programme start="20250212154000 +0000" stop="20250212165000 +0000" channel="ITV4 HD">
+        <title>Minder</title>
+    </programme>
+    <programme start="20250212165000 +0000" stop="20250212175000 +0000" channel="ITV4 HD">
+        <title>New: BattleBots</title>
+    </programme>
+    <programme start="20250212175000 +0000" stop="20250212185500 +0000" channel="ITV4 HD">
+        <title>Beat the Chasers</title>
+    </programme>
+    <programme start="20250212185500 +0000" stop="20250212200000 +0000" channel="ITV4 HD">
+        <title>The Motorbike Show</title>
+    </programme>
+    <programme start="20250212200000 +0000" stop="20250212210000 +0000" channel="ITV4 HD">
+        <title>Casino Royale (1967)</title>
+    </programme>
+    <programme start="20250212210000 +0000" stop="20250212210500 +0000" channel="ITV4 HD">
+        <title>FYI Daily</title>
+    </programme>
+    <programme start="20250212210500 +0000" stop="20250212224500 +0000" channel="ITV4 HD">
+        <title>Casino Royale (1967)</title>
+    </programme>
+    <programme start="20250212224500 +0000" stop="20250212230000 +0000" channel="ITV4 HD">
+        <title>World of Sport</title>
+    </programme>
+    <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="ITV4 HD">
+        <title>English Football League Highlights</title>
+    </programme>
     <programme start="20250211220000 +0000" stop="20250211230000 +0000" channel="SkyDocmntrsHD">
         <title>Boyzone: No Matter What</title>
     </programme>
@@ -7318,10 +7395,7 @@
     <programme start="20250212045000 +0000" stop="20250212054000 +0000" channel="Channel 5+1">
         <title>Rich House, Poor House</title>
     </programme>
-    <programme start="20250212054000 +0000" stop="20250212060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250212060000 +0000" stop="20250212060500 +0000" channel="Channel 5+1">
+    <programme start="20250212054000 +0000" stop="20250212060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250212060500 +0000" stop="20250212063000 +0000" channel="Channel 5+1">
