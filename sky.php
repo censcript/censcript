@@ -28054,7 +28054,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250212080500 +0000" stop="20250212090000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250212090000 +0000" stop="20250212090500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
