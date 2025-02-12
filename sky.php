@@ -15133,7 +15133,7 @@
         <title>House of Lords - Great British Energy Bill, Part 3</title>
     </programme>
     <programme start="20250212060000 +0000" stop="20250212061500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Defence Statement</title>
+        <title>House of Lords - AstraZeneca Statement</title>
     </programme>
     <programme start="20250212061500 +0000" stop="20250212072000 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Questions</title>
