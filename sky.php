@@ -15160,12 +15160,15 @@
         <title>25    House of Lords - Rosebank...</title>
     </programme>
     <programme start="20250213043500 +0000" stop="20250213051500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Funding for...</title>
+        <title>Lords - Funding for Large-scale...</title>
     </programme>
     <programme start="20250213051500 +0000" stop="20250213060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Copyright Application Motion</title>
     </programme>
-    <programme start="20250213060000 +0000" stop="20250213063000 +0000" channel="BBC Parl HD">
+    <programme start="20250213060000 +0000" stop="20250213060500 +0000" channel="BBC Parl HD">
+        <title>Science, Innovation and Technology Questions</title>
+    </programme>
+    <programme start="20250213060500 +0000" stop="20250213063000 +0000" channel="BBC Parl HD">
         <title>Science, Innovation and Technology Questions</title>
     </programme>
     <programme start="20250213063000 +0000" stop="20250213070500 +0000" channel="BBC Parl HD">
@@ -24493,7 +24496,7 @@
         <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Kim &amp; Co New Collection</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="QVC HD">
         <title>Destination for Deals</title>

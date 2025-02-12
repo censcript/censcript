@@ -12,9 +12,6 @@
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Bayer Leverkusen v Werder Bremen</title>
     </programme>
-    <programme start="20250212180000 +0000" stop="20250212183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Nani</title>
-    </programme>
     <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
+    </programme>
+    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Washington Spirit v Kansas City Current</title>
     </programme>
 </tv>
