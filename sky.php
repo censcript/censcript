@@ -15162,11 +15162,8 @@
     <programme start="20250213043500 +0000" stop="20250213051500 +0000" channel="BBC Parl HD">
         <title>Lords - Funding for Large-scale...</title>
     </programme>
-    <programme start="20250213051500 +0000" stop="20250213060000 +0000" channel="BBC Parl HD">
+    <programme start="20250213051500 +0000" stop="20250213060500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Copyright Application Motion</title>
-    </programme>
-    <programme start="20250213060000 +0000" stop="20250213060500 +0000" channel="BBC Parl HD">
-        <title>Science, Innovation and Technology Questions</title>
     </programme>
     <programme start="20250213060500 +0000" stop="20250213063000 +0000" channel="BBC Parl HD">
         <title>Science, Innovation and Technology Questions</title>
@@ -26475,29 +26472,17 @@
     <programme start="20250213190100 +0000" stop="20250213192700 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250213192700 +0000" stop="20250213200000 +0000" channel="Utsav Plus HD">
+    <programme start="20250213192700 +0000" stop="20250213200800 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250213200000 +0000" stop="20250213200800 +0000" channel="Utsav Plus HD">
+    <programme start="20250213200800 +0000" stop="20250213203800 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250213200800 +0000" stop="20250213203000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250213203000 +0000" stop="20250213203800 +0000" channel="Utsav Plus HD">
+    <programme start="20250213203800 +0000" stop="20250213211000 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250213203800 +0000" stop="20250213210000 +0000" channel="Utsav Plus HD">
-        <title>Anupamaa</title>
-    </programme>
-    <programme start="20250213210000 +0000" stop="20250213211000 +0000" channel="Utsav Plus HD">
+    <programme start="20250213211000 +0000" stop="20250213214200 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250213211000 +0000" stop="20250213213000 +0000" channel="Utsav Plus HD">
-        <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250213213000 +0000" stop="20250213214200 +0000" channel="Utsav Plus HD">
-        <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
     <programme start="20250213214200 +0000" stop="20250213220600 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
@@ -36039,29 +36024,17 @@
     <programme start="20250213190100 +0000" stop="20250213192700 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250213192700 +0000" stop="20250213200000 +0000" channel="Utsav Plus">
+    <programme start="20250213192700 +0000" stop="20250213200800 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250213200000 +0000" stop="20250213200800 +0000" channel="Utsav Plus">
+    <programme start="20250213200800 +0000" stop="20250213203800 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250213200800 +0000" stop="20250213203000 +0000" channel="Utsav Plus">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250213203000 +0000" stop="20250213203800 +0000" channel="Utsav Plus">
+    <programme start="20250213203800 +0000" stop="20250213211000 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250213203800 +0000" stop="20250213210000 +0000" channel="Utsav Plus">
-        <title>Anupamaa</title>
-    </programme>
-    <programme start="20250213210000 +0000" stop="20250213211000 +0000" channel="Utsav Plus">
+    <programme start="20250213211000 +0000" stop="20250213214200 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250213211000 +0000" stop="20250213213000 +0000" channel="Utsav Plus">
-        <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250213213000 +0000" stop="20250213214200 +0000" channel="Utsav Plus">
-        <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
     <programme start="20250213214200 +0000" stop="20250213220600 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>

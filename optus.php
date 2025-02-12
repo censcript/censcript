@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Hoffenheim v Wolfsburg</title>
-    </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Hamburg v Borussia Monchengladbach</title>
-    </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Bayern Munich v Frankfurt </title>
-    </programme>
-    <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 12.optus">
-        <title>N/A - Bayer Leverkusen v Werder Bremen</title>
-    </programme>
     <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Liverpool</title>
     </programme>
@@ -151,13 +139,13 @@
         <title>N/A - Welcome to the Weekend</title>
     </programme>
     <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
-    <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
     <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Brentford</title>
+    </programme>
+    <programme start="20250221223000 +0000" stop="20250221233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250222045000 +0000" stop="20250222071000 +0000" channel="Optus Sport 4.optus">
         <title>N/A - Jeju v Gimcheon</title>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Bay FC v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
