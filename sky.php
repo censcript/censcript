@@ -29517,8 +29517,11 @@
     <programme start="20250212111500 +0000" stop="20250212113000 +0000" channel="Eman Channel">
         <title>Qur'an Time</title>
     </programme>
-    <programme start="20250212113000 +0000" stop="20250212114500 +0000" channel="Eman Channel">
+    <programme start="20250212113000 +0000" stop="20250212114000 +0000" channel="Eman Channel">
         <title>Stories from the Prophet</title>
+    </programme>
+    <programme start="20250212114000 +0000" stop="20250212114500 +0000" channel="Eman Channel">
+        <title>Lantern Tales</title>
     </programme>
     <programme start="20250212114500 +0000" stop="20250212115500 +0000" channel="Eman Channel">
         <title>Lantern Tales</title>
@@ -29532,7 +29535,10 @@
     <programme start="20250212122500 +0000" stop="20250212124200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250212124200 +0000" stop="20250212130000 +0000" channel="Eman Channel">
+    <programme start="20250212124200 +0000" stop="20250212125200 +0000" channel="Eman Channel">
+        <title>Live Asr Prayer from Makkah</title>
+    </programme>
+    <programme start="20250212125200 +0000" stop="20250212130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250212130000 +0000" stop="20250212140000 +0000" channel="Eman Channel">
@@ -29544,13 +29550,19 @@
     <programme start="20250212141500 +0000" stop="20250212142800 +0000" channel="Eman Channel">
         <title>Purity of the Plate</title>
     </programme>
-    <programme start="20250212142800 +0000" stop="20250212144300 +0000" channel="Eman Channel">
+    <programme start="20250212142800 +0000" stop="20250212144200 +0000" channel="Eman Channel">
         <title>Our Lord Allah</title>
+    </programme>
+    <programme start="20250212144200 +0000" stop="20250212144300 +0000" channel="Eman Channel">
+        <title>Asr Adhan</title>
     </programme>
     <programme start="20250212144300 +0000" stop="20250212144700 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250212144700 +0000" stop="20250212150500 +0000" channel="Eman Channel">
+    <programme start="20250212144700 +0000" stop="20250212144800 +0000" channel="Eman Channel">
+        <title>Our Lord Allah</title>
+    </programme>
+    <programme start="20250212144800 +0000" stop="20250212150500 +0000" channel="Eman Channel">
         <title>Our Lord Allah</title>
     </programme>
     <programme start="20250212150500 +0000" stop="20250212152000 +0000" channel="Eman Channel">
@@ -29583,10 +29595,16 @@
     <programme start="20250212180000 +0000" stop="20250212184300 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
-    <programme start="20250212184300 +0000" stop="20250212184700 +0000" channel="Eman Channel">
+    <programme start="20250212184300 +0000" stop="20250212184500 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250212184700 +0000" stop="20250212190000 +0000" channel="Eman Channel">
+    <programme start="20250212184500 +0000" stop="20250212184700 +0000" channel="Eman Channel">
+        <title>Isha Adhan</title>
+    </programme>
+    <programme start="20250212184700 +0000" stop="20250212185000 +0000" channel="Eman Channel">
+        <title>Alif Laam Meem</title>
+    </programme>
+    <programme start="20250212185000 +0000" stop="20250212190000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
     <programme start="20250212190000 +0000" stop="20250212191500 +0000" channel="Eman Channel">
