@@ -189,26 +189,11 @@
     <programme start="20250212035000 +0000" stop="20250212050500 +0000" channel="ITV1 HD">
         <title>Unwind with ITV</title>
     </programme>
-    <programme start="20250212050500 +0000" stop="20250212060500 +0000" channel="ITV1 HD">
+    <programme start="20250212050500 +0000" stop="20250212060000 +0000" channel="ITV1 HD">
         <title>Deal or No Deal</title>
     </programme>
-    <programme start="20250212060500 +0000" stop="20250212063500 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
-    </programme>
-    <programme start="20250212063500 +0000" stop="20250212070500 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
-    </programme>
-    <programme start="20250212070500 +0000" stop="20250212073500 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
-    </programme>
-    <programme start="20250212073500 +0000" stop="20250212080500 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
-    </programme>
-    <programme start="20250212080500 +0000" stop="20250212083500 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
-    </programme>
-    <programme start="20250212083500 +0000" stop="20250212090000 +0000" channel="ITV1 HD">
-        <title>This is ITV1</title>
+    <programme start="20250212060000 +0000" stop="20250212090000 +0000" channel="ITV1 HD">
+        <title>Good Morning Britain</title>
     </programme>
     <programme start="20250212090000 +0000" stop="20250212100000 +0000" channel="ITV1 HD">
         <title>Lorraine</title>
@@ -1462,7 +1447,7 @@
         <title>Boarders</title>
     </programme>
     <programme start="20250211220000 +0000" stop="20250211233000 +0000" channel="BBC Four HD">
-        <title>26.2 to Life:  Inside the San...</title>
+        <title>26.2 to Life: Inside the San...</title>
     </programme>
     <programme start="20250211233000 +0000" stop="20250212005500 +0000" channel="BBC Four HD">
         <title>Into the Ice</title>
@@ -30858,10 +30843,13 @@
     <programme start="20250212150000 +0000" stop="20250212152100 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250212152100 +0000" stop="20250212153000 +0000" channel="IQRA Bangla">
+    <programme start="20250212152100 +0000" stop="20250212152700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250212153000 +0000" stop="20250212163000 +0000" channel="IQRA Bangla">
+    <programme start="20250212152700 +0000" stop="20250212153600 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
+    </programme>
+    <programme start="20250212153600 +0000" stop="20250212163000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250212163000 +0000" stop="20250212171400 +0000" channel="IQRA Bangla">
@@ -35073,8 +35061,11 @@
     <programme start="20250212233000 +0000" stop="20250213003000 +0000" channel="TNTSports2 HD">
         <title>The Football's On</title>
     </programme>
-    <programme start="20250211190000 +0000" stop="20250212010000 +0000" channel="Eurosport 1">
+    <programme start="20250211190000 +0000" stop="20250211230500 +0000" channel="Eurosport 1">
         <title>Live Snooker: Welsh Open</title>
+    </programme>
+    <programme start="20250211230500 +0000" stop="20250212010000 +0000" channel="Eurosport 1">
+        <title>Snooker: Welsh Open</title>
     </programme>
     <programme start="20250212010000 +0000" stop="20250212020000 +0000" channel="Eurosport 1">
         <title>Cycling: Tour of Valencia</title>
@@ -39522,11 +39513,8 @@
     <programme start="20250212232500 +0000" stop="20250213002500 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
     </programme>
-    <programme start="20250211190000 +0000" stop="20250211223000 +0000" channel="BBC R5SX">
+    <programme start="20250211190000 +0000" stop="20250211233000 +0000" channel="BBC R5SX">
         <title>Football</title>
-    </programme>
-    <programme start="20250211223000 +0000" stop="20250211233000 +0000" channel="BBC R5SX">
-        <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250211233000 +0000" stop="20250212000000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
