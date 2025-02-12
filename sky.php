@@ -14712,10 +14712,10 @@
     <programme start="20250212204500 +0000" stop="20250212221500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250212221500 +0000" stop="20250212231500 +0000" channel="Racing TV">
+    <programme start="20250212221500 +0000" stop="20250212224500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250212231500 +0000" stop="20250213001500 +0000" channel="Racing TV">
+    <programme start="20250212224500 +0000" stop="20250212234500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250211180000 +0000" stop="20250212000000 +0000" channel="TNTSBoxOffHD">
@@ -35526,10 +35526,10 @@
     <programme start="20250212204500 +0000" stop="20250212221500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250212221500 +0000" stop="20250212231500 +0000" channel="Racing TV HD">
+    <programme start="20250212221500 +0000" stop="20250212224500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250212231500 +0000" stop="20250213001500 +0000" channel="Racing TV HD">
+    <programme start="20250212224500 +0000" stop="20250212234500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="Sky News">
