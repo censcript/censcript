@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250212172000 +0000" stop="20250212204000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Hoffenheim v Wolfsburg</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - North Carolina Courage v Seattle Reign</title>
     </programme>
 </tv>
