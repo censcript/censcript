@@ -15144,8 +15144,11 @@
     <programme start="20250212083000 +0000" stop="20250212091500 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250212091500 +0000" stop="20250212113000 +0000" channel="BBC Parl HD">
+    <programme start="20250212091500 +0000" stop="20250212112000 +0000" channel="BBC Parl HD">
         <title>Live Transport Committee on...</title>
+    </programme>
+    <programme start="20250212112000 +0000" stop="20250212113000 +0000" channel="BBC Parl HD">
+        <title>Ten Minute Rule Bill - Road...</title>
     </programme>
     <programme start="20250212113000 +0000" stop="20250212120000 +0000" channel="BBC Parl HD">
         <title>Live Science, Innovation and Technology Questions</title>
@@ -15153,7 +15156,13 @@
     <programme start="20250212120000 +0000" stop="20250212123500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250212123500 +0000" stop="20250212193000 +0000" channel="BBC Parl HD">
+    <programme start="20250212123500 +0000" stop="20250212132000 +0000" channel="BBC Parl HD">
+        <title>House of Commons - Energy...</title>
+    </programme>
+    <programme start="20250212132000 +0000" stop="20250212142000 +0000" channel="BBC Parl HD">
+        <title>House of Commons - Prevent...</title>
+    </programme>
+    <programme start="20250212142000 +0000" stop="20250212193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250212193000 +0000" stop="20250212220000 +0000" channel="BBC Parl HD">
@@ -28087,7 +28096,7 @@
         <title>Geo Pakistan</title>
     </programme>
     <programme start="20250212133000 +0000" stop="20250212140000 +0000" channel="GEO News">
-        <title>Score</title>
+        <title>Hansna Mana Hai</title>
     </programme>
     <programme start="20250212140000 +0000" stop="20250212140500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -30198,11 +30207,8 @@
     <programme start="20250212143000 +0000" stop="20250212153000 +0000" channel="Sangat">
         <title>Kirtan ras</title>
     </programme>
-    <programme start="20250212153000 +0000" stop="20250212160000 +0000" channel="Sangat">
+    <programme start="20250212153000 +0000" stop="20250212163000 +0000" channel="Sangat">
         <title>Sangrand Phagun</title>
-    </programme>
-    <programme start="20250212160000 +0000" stop="20250212163000 +0000" channel="Sangat">
-        <title>Dada Ji Diyan Battan</title>
     </programme>
     <programme start="20250212163000 +0000" stop="20250212170000 +0000" channel="Sangat">
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
@@ -31033,10 +31039,10 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250212093000 +0000" stop="20250212110000 +0000" channel="NTV">
-        <title>Amra Hotash</title>
+        <title>Pari</title>
     </programme>
     <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="NTV">
-        <title>Agnee 2</title>
+        <title>Agun Jolbei</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212122000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
@@ -31048,7 +31054,7 @@
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250212123000 +0000" stop="20250212140000 +0000" channel="NTV">
-        <title>Agnee 2</title>
+        <title>Agun Jolbei</title>
     </programme>
     <programme start="20250212140000 +0000" stop="20250212143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -31056,35 +31062,38 @@
     <programme start="20250212143000 +0000" stop="20250212150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250212150000 +0000" stop="20250212150900 +0000" channel="NTV">
-        <title>Batch 27</title>
+    <programme start="20250212150000 +0000" stop="20250212152100 +0000" channel="NTV">
+        <title>Case 3040</title>
     </programme>
-    <programme start="20250212150900 +0000" stop="20250212151400 +0000" channel="NTV">
+    <programme start="20250212152100 +0000" stop="20250212152600 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250212151400 +0000" stop="20250212163000 +0000" channel="NTV">
-        <title>Batch 27</title>
+    <programme start="20250212152600 +0000" stop="20250212163000 +0000" channel="NTV">
+        <title>Case 3040</title>
     </programme>
-    <programme start="20250212163000 +0000" stop="20250212170100 +0000" channel="NTV">
+    <programme start="20250212163000 +0000" stop="20250212170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250212170100 +0000" stop="20250212170600 +0000" channel="NTV">
+    <programme start="20250212170000 +0000" stop="20250212171400 +0000" channel="NTV">
+        <title>Onnorokom Golpo</title>
+    </programme>
+    <programme start="20250212171400 +0000" stop="20250212171900 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250212170600 +0000" stop="20250212173000 +0000" channel="NTV">
-        <title>Onnorokom Bhalobasha</title>
+    <programme start="20250212171900 +0000" stop="20250212173000 +0000" channel="NTV">
+        <title>Onnorokom Golpo</title>
     </programme>
     <programme start="20250212173000 +0000" stop="20250212180000 +0000" channel="NTV">
         <title>Food Caravan</title>
     </programme>
-    <programme start="20250212180000 +0000" stop="20250212183400 +0000" channel="NTV">
-        <title>10 Minute</title>
+    <programme start="20250212180000 +0000" stop="20250212184500 +0000" channel="NTV">
+        <title>Daba</title>
     </programme>
-    <programme start="20250212183400 +0000" stop="20250212183900 +0000" channel="NTV">
+    <programme start="20250212184500 +0000" stop="20250212185000 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250212183900 +0000" stop="20250212190000 +0000" channel="NTV">
-        <title>10 Minute</title>
+    <programme start="20250212185000 +0000" stop="20250212190000 +0000" channel="NTV">
+        <title>Daba</title>
     </programme>
     <programme start="20250212190000 +0000" stop="20250212191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
