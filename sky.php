@@ -1782,84 +1782,7 @@
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250211220000 +0000" stop="20250211230500 +0000" channel="ITV4 HD">
-        <title>The Taking of Pelham 123</title>
-    </programme>
-    <programme start="20250211230500 +0000" stop="20250211231000 +0000" channel="ITV4 HD">
-        <title>FYI Daily</title>
-    </programme>
-    <programme start="20250211231000 +0000" stop="20250212001000 +0000" channel="ITV4 HD">
-        <title>The Taking of Pelham 123</title>
-    </programme>
-    <programme start="20250212001000 +0000" stop="20250212011000 +0000" channel="ITV4 HD">
-        <title>LIV Golf Riyadh - Highlights</title>
-    </programme>
-    <programme start="20250212011000 +0000" stop="20250212014000 +0000" channel="ITV4 HD">
-        <title>Ligue 1 Highlights</title>
-    </programme>
-    <programme start="20250212014000 +0000" stop="20250212024000 +0000" channel="ITV4 HD">
-        <title>On the Road</title>
-    </programme>
-    <programme start="20250212024000 +0000" stop="20250212030000 +0000" channel="ITV4 HD">
-        <title>Unwind with ITV</title>
-    </programme>
-    <programme start="20250212030000 +0000" stop="20250212060000 +0000" channel="ITV4 HD">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250212060000 +0000" stop="20250212070500 +0000" channel="ITV4 HD">
-        <title>Minder</title>
-    </programme>
-    <programme start="20250212070500 +0000" stop="20250212081000 +0000" channel="ITV4 HD">
-        <title>The Professionals</title>
-    </programme>
-    <programme start="20250212081000 +0000" stop="20250212091500 +0000" channel="ITV4 HD">
-        <title>The Casebook of Sherlock Holmes</title>
-    </programme>
-    <programme start="20250212091500 +0000" stop="20250212102000 +0000" channel="ITV4 HD">
-        <title>Magnum, P.I.</title>
-    </programme>
-    <programme start="20250212102000 +0000" stop="20250212112500 +0000" channel="ITV4 HD">
-        <title>Kojak</title>
-    </programme>
-    <programme start="20250212112500 +0000" stop="20250212122500 +0000" channel="ITV4 HD">
-        <title>BattleBots</title>
-    </programme>
-    <programme start="20250212122500 +0000" stop="20250212133500 +0000" channel="ITV4 HD">
-        <title>The Memoirs of Sherlock Holmes</title>
-    </programme>
-    <programme start="20250212133500 +0000" stop="20250212143500 +0000" channel="ITV4 HD">
-        <title>Magnum, P.I.</title>
-    </programme>
-    <programme start="20250212143500 +0000" stop="20250212154000 +0000" channel="ITV4 HD">
-        <title>Kojak</title>
-    </programme>
-    <programme start="20250212154000 +0000" stop="20250212165000 +0000" channel="ITV4 HD">
-        <title>Minder</title>
-    </programme>
-    <programme start="20250212165000 +0000" stop="20250212175000 +0000" channel="ITV4 HD">
-        <title>New: BattleBots</title>
-    </programme>
-    <programme start="20250212175000 +0000" stop="20250212185500 +0000" channel="ITV4 HD">
-        <title>Beat the Chasers</title>
-    </programme>
-    <programme start="20250212185500 +0000" stop="20250212200000 +0000" channel="ITV4 HD">
-        <title>The Motorbike Show</title>
-    </programme>
-    <programme start="20250212200000 +0000" stop="20250212210000 +0000" channel="ITV4 HD">
-        <title>Casino Royale (1967)</title>
-    </programme>
-    <programme start="20250212210000 +0000" stop="20250212210500 +0000" channel="ITV4 HD">
-        <title>FYI Daily</title>
-    </programme>
-    <programme start="20250212210500 +0000" stop="20250212224500 +0000" channel="ITV4 HD">
-        <title>Casino Royale (1967)</title>
-    </programme>
-    <programme start="20250212224500 +0000" stop="20250212230000 +0000" channel="ITV4 HD">
-        <title>World of Sport</title>
-    </programme>
-    <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="ITV4 HD">
-        <title>English Football League Highlights</title>
-    </programme>
+    <!-- Error: Data tidak ditemukan untuk channel ID 6534 -->
     <programme start="20250211220000 +0000" stop="20250211230000 +0000" channel="SkyDocmntrsHD">
         <title>Boyzone: No Matter What</title>
     </programme>
@@ -15157,10 +15080,10 @@
         <title>Live Prime Minister's Questions</title>
     </programme>
     <programme start="20250212123500 +0000" stop="20250212132000 +0000" channel="BBC Parl HD">
-        <title>House of Commons - Energy...</title>
+        <title>Live Energy Infrastructure Urgent Question</title>
     </programme>
     <programme start="20250212132000 +0000" stop="20250212142000 +0000" channel="BBC Parl HD">
-        <title>House of Commons - Prevent...</title>
+        <title>Live Prevent Learning Review Statement</title>
     </programme>
     <programme start="20250212142000 +0000" stop="20250212193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
@@ -30114,11 +30037,8 @@
     <programme start="20250212153000 +0000" stop="20250212160000 +0000" channel="Sikh Channel">
         <title>Lariwar Katha: Giani Kulwant Singh</title>
     </programme>
-    <programme start="20250212160000 +0000" stop="20250212163000 +0000" channel="Sikh Channel">
-        <title>Sri Akhand Path Sahib Seva, Leicester</title>
-    </programme>
-    <programme start="20250212163000 +0000" stop="20250212170000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250212160000 +0000" stop="20250212170000 +0000" channel="Sikh Channel">
+        <title>Janam Dihara - Bhagat Ravidass Ji</title>
     </programme>
     <programme start="20250212170000 +0000" stop="20250212183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -30141,13 +30061,10 @@
     <programme start="20250212213000 +0000" stop="20250212220000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250212220000 +0000" stop="20250212223000 +0000" channel="Sikh Channel">
-        <title>Community Talk</title>
+    <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="Sikh Channel">
+        <title>Janam Dihara - Bhagat Ravidass Ji</title>
     </programme>
-    <programme start="20250212223000 +0000" stop="20250212233000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
-    </programme>
-    <programme start="20250212233000 +0000" stop="20250213003000 +0000" channel="Sikh Channel">
+    <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250211223000 +0000" stop="20250211230000 +0000" channel="Sangat">
@@ -30208,7 +30125,7 @@
         <title>Kirtan ras</title>
     </programme>
     <programme start="20250212153000 +0000" stop="20250212163000 +0000" channel="Sangat">
-        <title>Sangrand Phagun</title>
+        <title>Katha Vichar</title>
     </programme>
     <programme start="20250212163000 +0000" stop="20250212170000 +0000" channel="Sangat">
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
@@ -30223,7 +30140,7 @@
         <title>GNNSJ Kar Sewa Update</title>
     </programme>
     <programme start="20250212200000 +0000" stop="20250212203000 +0000" channel="Sangat">
-        <title>Sangat News</title>
+        <title>Sangat Matrimonial</title>
     </programme>
     <programme start="20250212203000 +0000" stop="20250212213000 +0000" channel="Sangat">
         <title>Katha Vichar</title>
