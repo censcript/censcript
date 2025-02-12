@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250212183000 +0000" stop="20250212223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Everton v Liverpool</title>
-    </programme>
     <programme start="20250213133000 +0000" stop="20250213140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Robbie Fowler</title>
     </programme>
@@ -81,10 +78,10 @@
     <programme start="20250216130000 +0000" stop="20250216162000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Chelsea v Everton</title>
     </programme>
-    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - West Ham United v Brighton and Hove Albion</title>
     </programme>
     <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 7.optus">
@@ -93,7 +90,7 @@
     <programme start="20250216162000 +0000" stop="20250216193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Tottenham Hotspur v Manchester United</title>
     </programme>
-    <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250216183500 +0000" stop="20250216205500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Liverpool</title>
     </programme>
     <programme start="20250216203000 +0000" stop="20250216220000 +0000" channel="Optus Sport 11.optus">
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
     </programme>
 </tv>

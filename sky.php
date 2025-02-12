@@ -15138,9 +15138,6 @@
     <programme start="20250213230000 +0000" stop="20250214000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250212223500 +0000" stop="20250212225500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
-    </programme>
     <programme start="20250212225500 +0000" stop="20250213010500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Terrorism...</title>
     </programme>
@@ -15184,7 +15181,7 @@
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250213173000 +0000" stop="20250213181500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250213181500 +0000" stop="20250213191500 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -28912,7 +28909,7 @@
         <title>Al Bayaan</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
