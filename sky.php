@@ -14007,14 +14007,11 @@
     <programme start="20250212074000 +0000" stop="20250212084000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250212084000 +0000" stop="20250212104500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250212084000 +0000" stop="20250212110000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250212104500 +0000" stop="20250212114500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Championships</title>
-    </programme>
-    <programme start="20250212114500 +0000" stop="20250212120000 +0000" channel="Eurosport 2 HD">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212131500 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Championships</title>
@@ -24901,10 +24898,10 @@
         <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="QVC Style HD">
-        <title>JDY Fashion</title>
+        <title>Fashion Day Review</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212130000 +0000" channel="QVC Style HD">
-        <title>Fashion Day Review</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250212130000 +0000" stop="20250212140000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -24937,7 +24934,7 @@
         <title>All New Fashion Brands</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="QVC Style HD">
-        <title>Kim &amp; Co</title>
+        <title>Fashion Day Review</title>
     </programme>
     <programme start="20250211220000 +0000" stop="20250211230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -28072,7 +28069,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250212110500 +0000" stop="20250212120000 +0000" channel="GEO News">
-        <title>Aaj Shazaib Khanzada Kay Saath</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -31014,13 +31011,7 @@
     <programme start="20250212054500 +0000" stop="20250212060000 +0000" channel="NTV">
         <title>Comedian</title>
     </programme>
-    <programme start="20250212060000 +0000" stop="20250212061200 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250212061200 +0000" stop="20250212061700 +0000" channel="NTV">
-        <title>Adhan-a-Fajr</title>
-    </programme>
-    <programme start="20250212061700 +0000" stop="20250212063000 +0000" channel="NTV">
+    <programme start="20250212060000 +0000" stop="20250212063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250212063000 +0000" stop="20250212070000 +0000" channel="NTV">
@@ -31042,61 +31033,58 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250212093000 +0000" stop="20250212110000 +0000" channel="NTV">
-        <title>Ek Motho Roddor</title>
+        <title>Amra Hotash</title>
     </programme>
     <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="NTV">
-        <title>Char Shoniter Ghar</title>
+        <title>Agnee 2</title>
     </programme>
-    <programme start="20250212120000 +0000" stop="20250212121700 +0000" channel="NTV">
+    <programme start="20250212120000 +0000" stop="20250212122000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250212121700 +0000" stop="20250212122200 +0000" channel="NTV">
+    <programme start="20250212122000 +0000" stop="20250212122500 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250212122200 +0000" stop="20250212123000 +0000" channel="NTV">
+    <programme start="20250212122500 +0000" stop="20250212123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250212123000 +0000" stop="20250212140000 +0000" channel="NTV">
-        <title>Char Shoniter Ghar</title>
+        <title>Agnee 2</title>
     </programme>
     <programme start="20250212140000 +0000" stop="20250212143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250212143000 +0000" stop="20250212144600 +0000" channel="NTV">
+    <programme start="20250212143000 +0000" stop="20250212150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250212144600 +0000" stop="20250212145100 +0000" channel="NTV">
+    <programme start="20250212150000 +0000" stop="20250212150900 +0000" channel="NTV">
+        <title>Batch 27</title>
+    </programme>
+    <programme start="20250212150900 +0000" stop="20250212151400 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250212145100 +0000" stop="20250212150000 +0000" channel="NTV">
-        <title>Desher Khobor</title>
+    <programme start="20250212151400 +0000" stop="20250212163000 +0000" channel="NTV">
+        <title>Batch 27</title>
     </programme>
-    <programme start="20250212150000 +0000" stop="20250212163000 +0000" channel="NTV">
-        <title>Megher Danay Tui</title>
-    </programme>
-    <programme start="20250212163000 +0000" stop="20250212163600 +0000" channel="NTV">
+    <programme start="20250212163000 +0000" stop="20250212170100 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250212163600 +0000" stop="20250212164100 +0000" channel="NTV">
+    <programme start="20250212170100 +0000" stop="20250212170600 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250212164100 +0000" stop="20250212170000 +0000" channel="NTV">
-        <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250212170000 +0000" stop="20250212173000 +0000" channel="NTV">
+    <programme start="20250212170600 +0000" stop="20250212173000 +0000" channel="NTV">
         <title>Onnorokom Bhalobasha</title>
     </programme>
     <programme start="20250212173000 +0000" stop="20250212180000 +0000" channel="NTV">
         <title>Food Caravan</title>
     </programme>
-    <programme start="20250212180000 +0000" stop="20250212181300 +0000" channel="NTV">
-        <title>Workshop</title>
+    <programme start="20250212180000 +0000" stop="20250212183400 +0000" channel="NTV">
+        <title>10 Minute</title>
     </programme>
-    <programme start="20250212181300 +0000" stop="20250212181800 +0000" channel="NTV">
+    <programme start="20250212183400 +0000" stop="20250212183900 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250212181800 +0000" stop="20250212190000 +0000" channel="NTV">
-        <title>Workshop</title>
+    <programme start="20250212183900 +0000" stop="20250212190000 +0000" channel="NTV">
+        <title>10 Minute</title>
     </programme>
     <programme start="20250212190000 +0000" stop="20250212191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -35139,14 +35127,11 @@
     <programme start="20250212074000 +0000" stop="20250212084000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250212084000 +0000" stop="20250212104500 +0000" channel="Eurosport 2">
+    <programme start="20250212084000 +0000" stop="20250212110000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250212104500 +0000" stop="20250212114500 +0000" channel="Eurosport 2">
+    <programme start="20250212110000 +0000" stop="20250212120000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Championships</title>
-    </programme>
-    <programme start="20250212114500 +0000" stop="20250212120000 +0000" channel="Eurosport 2">
-        <title>Winter Sport</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212131500 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Championships</title>
@@ -38350,7 +38335,7 @@
         <title>talkSPORT Breakfast</title>
     </programme>
     <programme start="20250212100000 +0000" stop="20250212130000 +0000" channel="talkSPORT">
-        <title>White &amp; Jordan with Danny Murphy</title>
+        <title>White &amp; Jordan with Martin O'Neill</title>
     </programme>
     <programme start="20250212130000 +0000" stop="20250212160000 +0000" channel="talkSPORT">
         <title>Hawksbee &amp; Jacobs</title>
@@ -38644,7 +38629,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212140600 +0000" stop="20250212150000 +0000" channel="BBC World Sv">
-        <title>Title</title>
+        <title>Newshour</title>
     </programme>
     <programme start="20250212150000 +0000" stop="20250212150600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -38707,7 +38692,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250212210600 +0000" stop="20250212220000 +0000" channel="BBC World Sv">
-        <title>Title</title>
+        <title>Newshour</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212220600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -38892,11 +38877,14 @@
     <programme start="20250212060000 +0000" stop="20250212070000 +0000" channel="BBC Asian Net">
         <title>Asian Network R&amp;B</title>
     </programme>
-    <programme start="20250212070000 +0000" stop="20250212100000 +0000" channel="BBC Asian Net">
-        <title>Asian Network Breakfast with Nikita Kanda</title>
+    <programme start="20250212070000 +0000" stop="20250212090000 +0000" channel="BBC Asian Net">
+        <title>Asian Network Playlists</title>
+    </programme>
+    <programme start="20250212090000 +0000" stop="20250212100000 +0000" channel="BBC Asian Net">
+        <title>Asian Network Breakfast with Nadia Ali</title>
     </programme>
     <programme start="20250212100000 +0000" stop="20250212110000 +0000" channel="BBC Asian Net">
-        <title>Asian Network Certified with Nikita Kanda</title>
+        <title>Asian Network Certified with Nadia Ali</title>
     </programme>
     <programme start="20250212110000 +0000" stop="20250212124500 +0000" channel="BBC Asian Net">
         <title>Nadia Ali</title>

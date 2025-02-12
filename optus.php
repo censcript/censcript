@@ -147,6 +147,21 @@
     <programme start="20250219183000 +0000" stop="20250219223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Liverpool</title>
     </programme>
+    <programme start="20250220133000 +0000" stop="20250220140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250221103000 +0000" stop="20250221110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250221120000 +0000" stop="20250221130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
     <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Brentford</title>
     </programme>
@@ -168,6 +183,9 @@
     <programme start="20250222113000 +0000" stop="20250222145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Manchester United</title>
     </programme>
+    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
     <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Southampton v Brighton</title>
     </programme>
@@ -186,6 +204,9 @@
     <programme start="20250222172000 +0000" stop="20250222200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Chelsea</title>
     </programme>
+    <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
     <programme start="20250223045000 +0000" stop="20250223071000 +0000" channel="Optus Sport 3.optus">
         <title>N/A - Daejeon v Ulsan</title>
     </programme>
@@ -200,6 +221,12 @@
     </programme>
     <programme start="20250223162000 +0000" stop="20250223193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Liverpool</title>
+    </programme>
+    <programme start="20250223203000 +0000" stop="20250223220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250223230000 +0000" stop="20250224000000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
     </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
@@ -272,32 +299,5 @@
     </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
-    </programme>
-    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - North Carolina Courage v Seattle Reign</title>
-    </programme>
-    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Washington Spirit v Kansas City Current</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Bay FC v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Gotham FC</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Washington Spirit v Bay FC</title>
-    </programme>
-    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
     </programme>
 </tv>
