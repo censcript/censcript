@@ -15138,32 +15138,26 @@
     <programme start="20250213230000 +0000" stop="20250214000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250212223500 +0000" stop="20250212232000 +0000" channel="BBC Parl HD">
+    <programme start="20250212223500 +0000" stop="20250212225500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250212232000 +0000" stop="20250212233500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Citizenship Question</title>
-    </programme>
-    <programme start="20250212233500 +0000" stop="20250212234500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Clonoe Inquest Statement</title>
-    </programme>
-    <programme start="20250212234500 +0000" stop="20250213002500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - English...</title>
-    </programme>
-    <programme start="20250213002500 +0000" stop="20250213022500 +0000" channel="BBC Parl HD">
+    <programme start="20250212225500 +0000" stop="20250213010500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Terrorism...</title>
+    </programme>
+    <programme start="20250213010500 +0000" stop="20250213011500 +0000" channel="BBC Parl HD">
+        <title>25    House of Lords - Rosebank...</title>
+    </programme>
+    <programme start="20250213011500 +0000" stop="20250213014000 +0000" channel="BBC Parl HD">
+        <title>Lords - Funding for Large-scale...</title>
+    </programme>
+    <programme start="20250213014000 +0000" stop="20250213022500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Copyright Application Motion</title>
     </programme>
     <programme start="20250213022500 +0000" stop="20250213042500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Terrorism...</title>
     </programme>
-    <programme start="20250213042500 +0000" stop="20250213043500 +0000" channel="BBC Parl HD">
-        <title>25    House of Lords - Rosebank...</title>
-    </programme>
-    <programme start="20250213043500 +0000" stop="20250213051500 +0000" channel="BBC Parl HD">
-        <title>Lords - Funding for Large-scale...</title>
-    </programme>
-    <programme start="20250213051500 +0000" stop="20250213060500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Copyright Application Motion</title>
+    <programme start="20250213042500 +0000" stop="20250213060500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250213060500 +0000" stop="20250213063000 +0000" channel="BBC Parl HD">
         <title>Science, Innovation and Technology Questions</title>
@@ -15171,8 +15165,14 @@
     <programme start="20250213063000 +0000" stop="20250213070500 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250213070500 +0000" stop="20250213093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250213070500 +0000" stop="20250213074000 +0000" channel="BBC Parl HD">
+        <title>Energy Infrastructure Urgent Question</title>
+    </programme>
+    <programme start="20250213074000 +0000" stop="20250213084500 +0000" channel="BBC Parl HD">
+        <title>Prevent Learning Review Statement</title>
+    </programme>
+    <programme start="20250213084500 +0000" stop="20250213093000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250213093000 +0000" stop="20250213103000 +0000" channel="BBC Parl HD">
         <title>Live Transport Questions</title>
@@ -25441,7 +25441,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250212230000 +0000" stop="20250213000000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Spring Home Improvements</title>
     </programme>
     <programme start="20250213000000 +0000" stop="20250213010000 +0000" channel="QVC Extra">
         <title>Sleepwear Deals with Cozee</title>
