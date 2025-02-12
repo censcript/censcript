@@ -24853,7 +24853,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250212210000 +0000" stop="20250212220000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Farewell Mally: Up to 50% off</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="QVC Beauty">
         <title>Farewell Mally: Up to 50% off</title>
@@ -25540,13 +25540,13 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250212120000 +0000" stop="20250212130000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250212130000 +0000" stop="20250212140000 +0000" channel="QVC Extra">
         <title>Your Transitional Style Edit</title>
     </programme>
     <programme start="20250212140000 +0000" stop="20250212150000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250212150000 +0000" stop="20250212160000 +0000" channel="QVC Extra">
         <title>Shark, JML</title>
@@ -25555,10 +25555,10 @@
         <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250212170000 +0000" stop="20250212180000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250212180000 +0000" stop="20250212190000 +0000" channel="QVC Extra">
-        <title>Emma: The Science in Sleep</title>
+        <title>Centigrade Outerwear</title>
     </programme>
     <programme start="20250212190000 +0000" stop="20250212200000 +0000" channel="QVC Extra">
         <title>The Jewellery Box</title>
@@ -25567,7 +25567,7 @@
         <title>Your Transitional Style Edit</title>
     </programme>
     <programme start="20250212210000 +0000" stop="20250212220000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -29520,10 +29520,7 @@
     <programme start="20250212113000 +0000" stop="20250212114000 +0000" channel="Eman Channel">
         <title>Stories from the Prophet</title>
     </programme>
-    <programme start="20250212114000 +0000" stop="20250212114500 +0000" channel="Eman Channel">
-        <title>Lantern Tales</title>
-    </programme>
-    <programme start="20250212114500 +0000" stop="20250212115500 +0000" channel="Eman Channel">
+    <programme start="20250212114000 +0000" stop="20250212115500 +0000" channel="Eman Channel">
         <title>Lantern Tales</title>
     </programme>
     <programme start="20250212115500 +0000" stop="20250212122000 +0000" channel="Eman Channel">
@@ -29532,11 +29529,8 @@
     <programme start="20250212122000 +0000" stop="20250212122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250212122500 +0000" stop="20250212124200 +0000" channel="Eman Channel">
+    <programme start="20250212122500 +0000" stop="20250212125200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
-    </programme>
-    <programme start="20250212124200 +0000" stop="20250212125200 +0000" channel="Eman Channel">
-        <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250212125200 +0000" stop="20250212130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
@@ -29553,14 +29547,8 @@
     <programme start="20250212142800 +0000" stop="20250212144200 +0000" channel="Eman Channel">
         <title>Our Lord Allah</title>
     </programme>
-    <programme start="20250212144200 +0000" stop="20250212144300 +0000" channel="Eman Channel">
+    <programme start="20250212144200 +0000" stop="20250212144800 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
-    </programme>
-    <programme start="20250212144300 +0000" stop="20250212144700 +0000" channel="Eman Channel">
-        <title>Asr Adhan</title>
-    </programme>
-    <programme start="20250212144700 +0000" stop="20250212144800 +0000" channel="Eman Channel">
-        <title>Our Lord Allah</title>
     </programme>
     <programme start="20250212144800 +0000" stop="20250212150500 +0000" channel="Eman Channel">
         <title>Our Lord Allah</title>
@@ -29592,17 +29580,11 @@
     <programme start="20250212174500 +0000" stop="20250212180000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
-    <programme start="20250212180000 +0000" stop="20250212184300 +0000" channel="Eman Channel">
+    <programme start="20250212180000 +0000" stop="20250212184500 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
     </programme>
-    <programme start="20250212184300 +0000" stop="20250212184500 +0000" channel="Eman Channel">
+    <programme start="20250212184500 +0000" stop="20250212185000 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
-    </programme>
-    <programme start="20250212184500 +0000" stop="20250212184700 +0000" channel="Eman Channel">
-        <title>Isha Adhan</title>
-    </programme>
-    <programme start="20250212184700 +0000" stop="20250212185000 +0000" channel="Eman Channel">
-        <title>Alif Laam Meem</title>
     </programme>
     <programme start="20250212185000 +0000" stop="20250212190000 +0000" channel="Eman Channel">
         <title>Alif Laam Meem</title>
@@ -37714,7 +37696,7 @@
         <title>BBC Wales Today</title>
     </programme>
     <programme start="20250212224000 +0000" stop="20250212231000 +0000" channel="BBC One Wal HD">
-        <title>Scrum V Top 5 - Steve Spiers</title>
+        <title>Scrum V Top 5 - Steve Speirs</title>
     </programme>
     <programme start="20250212231000 +0000" stop="20250213001000 +0000" channel="BBC One Wal HD">
         <title>MOTD: UEFA Champions League</title>
@@ -40119,10 +40101,7 @@
     <programme start="20250212090000 +0000" stop="20250212120000 +0000" channel="LBC News">
         <title>Martin Stanford</title>
     </programme>
-    <programme start="20250212120000 +0000" stop="20250212130000 +0000" channel="LBC News">
-        <title>Simon Conway</title>
-    </programme>
-    <programme start="20250212130000 +0000" stop="20250212160000 +0000" channel="LBC News">
+    <programme start="20250212120000 +0000" stop="20250212160000 +0000" channel="LBC News">
         <title>Chris Golds</title>
     </programme>
     <programme start="20250212160000 +0000" stop="20250212190000 +0000" channel="LBC News">
