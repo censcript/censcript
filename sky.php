@@ -30207,11 +30207,8 @@
     <programme start="20250213222000 +0000" stop="20250213225000 +0000" channel="Akaal Channel">
         <title>News Report Punjab</title>
     </programme>
-    <programme start="20250213225000 +0000" stop="20250213232000 +0000" channel="Akaal Channel">
+    <programme start="20250213225000 +0000" stop="20250213235000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
-    </programme>
-    <programme start="20250213232000 +0000" stop="20250213235000 +0000" channel="Akaal Channel">
-        <title>Chalant Masle</title>
     </programme>
     <programme start="20250213235000 +0000" stop="20250214005000 +0000" channel="Akaal Channel">
         <title>Special Report</title>

@@ -151,7 +151,7 @@
         <title>N/A - Jeju v Gimcheon</title>
     </programme>
     <programme start="20250222045500 +0000" stop="20250222071000 +0000" channel="Optus Sport 6.optus">
-        <title>J1 League - Yokohama FC v Fagiano</title>
+        <title>J1 League - Yokohama FC v Fagiano Okayama</title>
     </programme>
     <programme start="20250222055500 +0000" stop="20250222081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - FC Tokyo v Machida</title>
