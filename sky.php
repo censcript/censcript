@@ -30222,8 +30222,23 @@
     <programme start="20250213001000 +0000" stop="20250213010000 +0000" channel="Kanshi TV">
         <title>Manukhta da Rehbar</title>
     </programme>
-    <programme start="20250213010000 +0000" stop="20250213034000 +0000" channel="Kanshi TV">
-        <title>Ghar Ho Toh Aisa - 1990</title>
+    <programme start="20250213010000 +0000" stop="20250213013000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
+    </programme>
+    <programme start="20250213013000 +0000" stop="20250213020000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
+    </programme>
+    <programme start="20250213020000 +0000" stop="20250213023000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
+    </programme>
+    <programme start="20250213023000 +0000" stop="20250213030000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
+    </programme>
+    <programme start="20250213030000 +0000" stop="20250213033000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
+    </programme>
+    <programme start="20250213033000 +0000" stop="20250213034000 +0000" channel="Kanshi TV">
+        <title>This is Kanshi TV</title>
     </programme>
     <programme start="20250213034000 +0000" stop="20250213034500 +0000" channel="Kanshi TV">
         <title>Amrit Bani Jaap</title>
@@ -30250,7 +30265,7 @@
         <title>Competition Show with Jagdeep</title>
     </programme>
     <programme start="20250213140000 +0000" stop="20250213150000 +0000" channel="Kanshi TV">
-        <title>Kar Bhalla Ho Bhalla</title>
+        <title>Kanshi TV Special</title>
     </programme>
     <programme start="20250213150000 +0000" stop="20250213153000 +0000" channel="Kanshi TV">
         <title>Ik Tera Sahara</title>
@@ -31368,14 +31383,8 @@
     <programme start="20250213190000 +0000" stop="20250213220000 +0000" channel="Deen TV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250213220000 +0000" stop="20250213223000 +0000" channel="Deen TV">
+    <programme start="20250213220000 +0000" stop="20250213230000 +0000" channel="Deen TV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250213223000 +0000" stop="20250213230000 +0000" channel="Deen TV">
-        <title>Munajat-e-Maqbool</title>
-    </programme>
-    <programme start="20250213230000 +0000" stop="20250214000000 +0000" channel="Deen TV">
-        <title>Qari ul Quran</title>
     </programme>
     <programme start="20250212220000 +0000" stop="20250212230000 +0000" channel="Islam Bangla">
         <title>Drama Serial: Yusuf Zulekha</title>
