@@ -13998,7 +13998,7 @@
     <programme start="20250214220000 +0000" stop="20250214230000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250213220000 +0000" stop="20250213230000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250213221000 +0000" stop="20250213230000 +0000" channel="Eurosport 2 HD">
         <title>Biathlon: World Championships</title>
     </programme>
     <programme start="20250213230000 +0000" stop="20250214000000 +0000" channel="Eurosport 2 HD">
@@ -30448,10 +30448,10 @@
         <title>Film - Saunkan Saunkne</title>
     </programme>
     <programme start="20250213223000 +0000" stop="20250214000000 +0000" channel="CHSTV">
-        <title>Amar Gao</title>
+        <title>Islam Essentials</title>
     </programme>
     <programme start="20250214000000 +0000" stop="20250214010000 +0000" channel="CHSTV">
-        <title>Somoyer Golpo</title>
+        <title>Seerat</title>
     </programme>
     <programme start="20250214010000 +0000" stop="20250214013000 +0000" channel="CHSTV">
         <title>News at One</title>
@@ -30474,13 +30474,7 @@
     <programme start="20250214054100 +0000" stop="20250214060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
-    <programme start="20250214060000 +0000" stop="20250214061000 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250214061000 +0000" stop="20250214061500 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250214061500 +0000" stop="20250214063000 +0000" channel="CHSTV">
+    <programme start="20250214060000 +0000" stop="20250214063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250214063000 +0000" stop="20250214070000 +0000" channel="CHSTV">
@@ -30490,7 +30484,7 @@
         <title>Hamd O Nath</title>
     </programme>
     <programme start="20250214073000 +0000" stop="20250214080000 +0000" channel="CHSTV">
-        <title>Arabi Kafela</title>
+        <title>Hamd O Nath</title>
     </programme>
     <programme start="20250214080000 +0000" stop="20250214083000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
@@ -30514,7 +30508,7 @@
         <title>Amader Gram</title>
     </programme>
     <programme start="20250214130000 +0000" stop="20250214133000 +0000" channel="CHSTV">
-        <title>Islamic Gaan</title>
+        <title>Islamic Filler</title>
     </programme>
     <programme start="20250214133000 +0000" stop="20250214140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
@@ -30522,34 +30516,28 @@
     <programme start="20250214140000 +0000" stop="20250214143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250214143000 +0000" stop="20250214144900 +0000" channel="CHSTV">
+    <programme start="20250214143000 +0000" stop="20250214152500 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250214144900 +0000" stop="20250214145500 +0000" channel="CHSTV">
+    <programme start="20250214152500 +0000" stop="20250214153000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250214145500 +0000" stop="20250214160000 +0000" channel="CHSTV">
+    <programme start="20250214153000 +0000" stop="20250214160000 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250214160000 +0000" stop="20250214163900 +0000" channel="CHSTV">
-        <title>Obhimot</title>
-    </programme>
-    <programme start="20250214163900 +0000" stop="20250214164500 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250214164500 +0000" stop="20250214173000 +0000" channel="CHSTV">
+    <programme start="20250214160000 +0000" stop="20250214173000 +0000" channel="CHSTV">
         <title>Obhimot</title>
     </programme>
     <programme start="20250214173000 +0000" stop="20250214180000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250214180000 +0000" stop="20250214181600 +0000" channel="CHSTV">
+    <programme start="20250214180000 +0000" stop="20250214184700 +0000" channel="CHSTV">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250214181600 +0000" stop="20250214182100 +0000" channel="CHSTV">
+    <programme start="20250214184700 +0000" stop="20250214185500 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250214182100 +0000" stop="20250214220000 +0000" channel="CHSTV">
+    <programme start="20250214185500 +0000" stop="20250214220000 +0000" channel="CHSTV">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214223000 +0000" channel="CHSTV">
@@ -30678,23 +30666,17 @@
     <programme start="20250214054100 +0000" stop="20250214060000 +0000" channel="ATN">
         <title>Shako</title>
     </programme>
-    <programme start="20250214060000 +0000" stop="20250214061000 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250214061000 +0000" stop="20250214061500 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250214061500 +0000" stop="20250214070000 +0000" channel="ATN">
+    <programme start="20250214060000 +0000" stop="20250214070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250214070000 +0000" stop="20250214073000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250214073000 +0000" stop="20250214080000 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
     <programme start="20250214080000 +0000" stop="20250214090000 +0000" channel="ATN">
-        <title>Baba Tumi Kothai</title>
+        <title>Bhabchi Boshe Tomai</title>
     </programme>
     <programme start="20250214090000 +0000" stop="20250214093000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
@@ -30703,16 +30685,16 @@
         <title>Music on Demand</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214103000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
-    <programme start="20250214103000 +0000" stop="20250214115000 +0000" channel="ATN">
+    <programme start="20250214103000 +0000" stop="20250214114500 +0000" channel="ATN">
         <title>Quranic Discussion</title>
     </programme>
-    <programme start="20250214115000 +0000" stop="20250214120000 +0000" channel="ATN">
+    <programme start="20250214114500 +0000" stop="20250214115000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250214120000 +0000" stop="20250214122000 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
+    <programme start="20250214115000 +0000" stop="20250214122000 +0000" channel="ATN">
+        <title>Jummah Barer Programme</title>
     </programme>
     <programme start="20250214122000 +0000" stop="20250214122500 +0000" channel="ATN">
         <title>Jummah Adhaan</title>
@@ -30721,49 +30703,49 @@
         <title>Jummah Barer Programme</title>
     </programme>
     <programme start="20250214140000 +0000" stop="20250214143000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250214143000 +0000" stop="20250214145000 +0000" channel="ATN">
         <title>Jummah Barer Programme</title>
     </programme>
-    <programme start="20250214145000 +0000" stop="20250214145500 +0000" channel="ATN">
+    <programme start="20250214143000 +0000" stop="20250214144500 +0000" channel="ATN">
+        <title>Islami Sawal Jawab</title>
+    </programme>
+    <programme start="20250214144500 +0000" stop="20250214145000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250214145500 +0000" stop="20250214150000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+    <programme start="20250214145000 +0000" stop="20250214150000 +0000" channel="ATN">
+        <title>Islami Sawal Jawab</title>
     </programme>
     <programme start="20250214150000 +0000" stop="20250214153000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
-    </programme>
-    <programme start="20250214153000 +0000" stop="20250214160000 +0000" channel="ATN">
         <title>Sornali Sadakalo</title>
     </programme>
-    <programme start="20250214160000 +0000" stop="20250214163900 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250214153000 +0000" stop="20250214170000 +0000" channel="ATN">
+        <title>Ayesha</title>
     </programme>
-    <programme start="20250214163900 +0000" stop="20250214164500 +0000" channel="ATN">
+    <programme start="20250214170000 +0000" stop="20250214171500 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
+    </programme>
+    <programme start="20250214171500 +0000" stop="20250214172000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250214164500 +0000" stop="20250214170000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250214170000 +0000" stop="20250214173000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
+    <programme start="20250214172000 +0000" stop="20250214173000 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250214173000 +0000" stop="20250214180000 +0000" channel="ATN">
+        <title>ATN Archive</title>
+    </programme>
+    <programme start="20250214180000 +0000" stop="20250214182500 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250214180000 +0000" stop="20250214182000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250214182500 +0000" stop="20250214184500 +0000" channel="ATN">
+        <title>Ektai Tumi</title>
     </programme>
-    <programme start="20250214182000 +0000" stop="20250214182500 +0000" channel="ATN">
+    <programme start="20250214184500 +0000" stop="20250214185000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250214182500 +0000" stop="20250214190000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250214185000 +0000" stop="20250214190000 +0000" channel="ATN">
+        <title>Ektai Tumi</title>
     </programme>
     <programme start="20250214190000 +0000" stop="20250214193000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250214193000 +0000" stop="20250214200000 +0000" channel="ATN">
         <title>Art &amp; Craft</title>
@@ -30771,8 +30753,11 @@
     <programme start="20250214200000 +0000" stop="20250214203000 +0000" channel="ATN">
         <title>Showbiz World</title>
     </programme>
-    <programme start="20250214203000 +0000" stop="20250214220000 +0000" channel="ATN">
-        <title>Ditiyo Mot</title>
+    <programme start="20250214203000 +0000" stop="20250214213000 +0000" channel="ATN">
+        <title>Mon doria</title>
+    </programme>
+    <programme start="20250214213000 +0000" stop="20250214220000 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214223000 +0000" channel="ATN">
         <title>Life And Beauty</title>
@@ -30781,7 +30766,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250214230000 +0000" stop="20250215000000 +0000" channel="ATN">
-        <title>Protirodh</title>
+        <title>Mayer Kanna</title>
     </programme>
     <programme start="20250213223000 +0000" stop="20250213230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -34920,7 +34905,7 @@
     <programme start="20250214220000 +0000" stop="20250214230000 +0000" channel="Eurosport 1">
         <title>Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250213220000 +0000" stop="20250213230000 +0000" channel="Eurosport 2">
+    <programme start="20250213221000 +0000" stop="20250213230000 +0000" channel="Eurosport 2">
         <title>Biathlon: World Championships</title>
     </programme>
     <programme start="20250213230000 +0000" stop="20250214000000 +0000" channel="Eurosport 2">
