@@ -15250,13 +15250,13 @@
         <title>Ten Minute Rule Bill -...</title>
     </programme>
     <programme start="20250214222000 +0000" stop="20250214230000 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru- Culture, Skills...</title>
+        <title>Senedd Cymru - Culture, Skills...</title>
     </programme>
     <programme start="20250214230000 +0000" stop="20250214234500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
     </programme>
     <programme start="20250214234500 +0000" stop="20250215004500 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru- Economy, Energy and Planning Questions</title>
+        <title>Senedd Cymru - Economy, Energy and Planning Questions</title>
     </programme>
     <programme start="20250213223000 +0000" stop="20250213233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -37638,7 +37638,7 @@
     <programme start="20250214230400 +0000" stop="20250215000400 +0000" channel="BBC Two NI HD">
         <title>Premiere: Blue Jean including...</title>
     </programme>
-    <programme start="20250213220000 +0000" stop="20250214040000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250213205000 +0000" stop="20250214040000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
     <programme start="20250214040000 +0000" stop="20250214060500 +0000" channel="BBC RB 1 HD">
