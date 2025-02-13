@@ -1008,10 +1008,10 @@
     <programme start="20250213160000 +0000" stop="20250214013000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 14th February, Friday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 1</title>
     </programme>
-    <programme start="20250212160000 +0000" stop="20250213010000 +0000" channel="Live 6.mewatch">
+    <programme start="20250212160000 +0000" stop="20250213013000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 13th February, Thursday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Indonesia vs Malaysia</title>
     </programme>
-    <programme start="20250213010000 +0000" stop="20250213063000 +0000" channel="Live 6.mewatch">
+    <programme start="20250213013000 +0000" stop="20250213063000 +0000" channel="Live 6.mewatch">
         <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Indonesia vs Malaysia</title>
     </programme>
     <programme start="20250213063000 +0000" stop="20250213090000 +0000" channel="Live 6.mewatch">
