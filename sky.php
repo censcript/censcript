@@ -25501,7 +25501,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250213080000 +0000" stop="20250213090000 +0000" channel="QVC Extra">
-        <title>Kitchen Gadgets under £36</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250213090000 +0000" stop="20250213100000 +0000" channel="QVC Extra">
         <title>Emma: The Science in Sleep</title>
@@ -25531,16 +25531,16 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250213180000 +0000" stop="20250213190000 +0000" channel="QVC Extra">
-        <title>Diamonique Jewellery</title>
+        <title>Spring Home Improvements</title>
     </programme>
     <programme start="20250213190000 +0000" stop="20250213200000 +0000" channel="QVC Extra">
-        <title>Destination for Deals</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250213200000 +0000" stop="20250213210000 +0000" channel="QVC Extra">
-        <title>Feb New Garden Lighting</title>
+        <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250213210000 +0000" stop="20250213220000 +0000" channel="QVC Extra">
-        <title>Kitchen Gadgets under £36</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250213220000 +0000" stop="20250213230000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
