@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250213133000 +0000" stop="20250213140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Robbie Fowler</title>
-    </programme>
     <programme start="20250214095500 +0000" stop="20250214121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Gamba v Cerezo</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>
