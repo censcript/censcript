@@ -25399,7 +25399,7 @@
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250214160000 +0000" stop="20250214170000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Kitchen Gadgets under £36</title>
     </programme>
     <programme start="20250214170000 +0000" stop="20250214180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -37449,7 +37449,10 @@
     <programme start="20250213223000 +0000" stop="20250213230000 +0000" channel="BBC Two Wal HD">
         <title>Newsnight</title>
     </programme>
-    <programme start="20250213230000 +0000" stop="20250213235000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250213230000 +0000" stop="20250213230500 +0000" channel="BBC Two Wal HD">
+        <title>Weather</title>
+    </programme>
+    <programme start="20250213230500 +0000" stop="20250213235000 +0000" channel="BBC Two Wal HD">
         <title>Snooker: Welsh Open 2025</title>
     </programme>
     <programme start="20250213235000 +0000" stop="20250214002000 +0000" channel="BBC Two Wal HD">
