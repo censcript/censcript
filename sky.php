@@ -29469,10 +29469,13 @@
     <programme start="20250214060000 +0000" stop="20250214070000 +0000" channel="ARY Digital">
         <title>Aapa Shameem</title>
     </programme>
-    <programme start="20250214070000 +0000" stop="20250214083000 +0000" channel="ARY Digital">
+    <programme start="20250214070000 +0000" stop="20250214080000 +0000" channel="ARY Digital">
         <title>Bharam</title>
     </programme>
-    <programme start="20250214083000 +0000" stop="20250214090000 +0000" channel="ARY Digital">
+    <programme start="20250214080000 +0000" stop="20250214082500 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250214082500 +0000" stop="20250214090000 +0000" channel="ARY Digital">
         <title>Live: Pre Match - Final</title>
     </programme>
     <programme start="20250214090000 +0000" stop="20250214122000 +0000" channel="ARY Digital">

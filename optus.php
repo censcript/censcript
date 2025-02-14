@@ -75,7 +75,7 @@
     <programme start="20250216130000 +0000" stop="20250216162000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250216135500 +0000" stop="20250216161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Chelsea v Everton</title>
     </programme>
     <programme start="20250216145500 +0000" stop="20250216171000 +0000" channel="Optus Sport 9.optus">
