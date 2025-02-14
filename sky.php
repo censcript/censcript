@@ -15160,7 +15160,7 @@
         <title>BBC News at Six</title>
     </programme>
     <programme start="20250214183000 +0000" stop="20250214190000 +0000" channel="BBC NEWS HD">
-        <title>BBC News</title>
+        <title>The World Today with Maryam Moshiri</title>
     </programme>
     <programme start="20250214190000 +0000" stop="20250214193000 +0000" channel="BBC NEWS HD">
         <title>The World Today with Maryam Moshiri</title>
@@ -26121,11 +26121,8 @@
     <programme start="20250214095100 +0000" stop="20250214105300 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250214105300 +0000" stop="20250214112500 +0000" channel="SONY TV HD">
+    <programme start="20250214105300 +0000" stop="20250214125100 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250214112500 +0000" stop="20250214125100 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250214125100 +0000" stop="20250214134800 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
@@ -26151,20 +26148,11 @@
     <programme start="20250214183500 +0000" stop="20250214190300 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250214190300 +0000" stop="20250214193200 +0000" channel="SONY TV HD">
+    <programme start="20250214190300 +0000" stop="20250214210000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250214193200 +0000" stop="20250214210000 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250214210000 +0000" stop="20250214221000 +0000" channel="SONY TV HD">
+    <programme start="20250214210000 +0000" stop="20250214220000 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250214221000 +0000" stop="20250214233800 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250214233800 +0000" stop="20250215003800 +0000" channel="SONY TV HD">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250213223000 +0000" stop="20250213233000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - India Fights Back</title>
@@ -35670,11 +35658,8 @@
     <programme start="20250214095100 +0000" stop="20250214105300 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250214105300 +0000" stop="20250214112500 +0000" channel="SONY TV">
+    <programme start="20250214105300 +0000" stop="20250214125100 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250214112500 +0000" stop="20250214125100 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250214125100 +0000" stop="20250214134800 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
@@ -35700,20 +35685,11 @@
     <programme start="20250214183500 +0000" stop="20250214190300 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250214190300 +0000" stop="20250214193200 +0000" channel="SONY TV">
+    <programme start="20250214190300 +0000" stop="20250214210000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250214193200 +0000" stop="20250214210000 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250214210000 +0000" stop="20250214221000 +0000" channel="SONY TV">
+    <programme start="20250214210000 +0000" stop="20250214220000 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250214221000 +0000" stop="20250214233800 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250214233800 +0000" stop="20250215003800 +0000" channel="SONY TV">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250213224300 +0000" stop="20250213231200 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>

@@ -985,10 +985,10 @@
         <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 2 China vs Hong Kong</title>
     </programme>
     <programme start="20250214140000 +0000" stop="20250214160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th February, Saturday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Semi-final 1</title>
+        <title>No Programme available now. Next Broadcast on 15th February, Saturday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Semi-final 1 Indonesia vs Thailand</title>
     </programme>
     <programme start="20250214160000 +0000" stop="20250215013000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th February, Saturday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Semi-final 1</title>
+        <title>No Programme available now. Next Broadcast on 15th February, Saturday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Semi-final 1 Indonesia vs Thailand</title>
     </programme>
     <programme start="20250213160000 +0000" stop="20250214160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
