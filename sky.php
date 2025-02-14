@@ -38893,7 +38893,7 @@
         <title>Jenni Falconer</title>
     </programme>
     <programme start="20250214100000 +0000" stop="20250214130000 +0000" channel="Smooth">
-        <title>Kate Garraway</title>
+        <title>Myleene Klass</title>
     </programme>
     <programme start="20250214130000 +0000" stop="20250214160000 +0000" channel="Smooth">
         <title>Paul Phear</title>
