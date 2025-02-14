@@ -12772,7 +12772,7 @@
         <title>Live PGA Tour Golf</title>
     </programme>
     <programme start="20250215010000 +0000" stop="20250215053000 +0000" channel="SkySpMainEvHD">
-        <title>Live Fight Night Int: Berinchyk v Davis</title>
+        <title>Live Fight Night Int: Berinchyk Davis</title>
     </programme>
     <programme start="20250215053000 +0000" stop="20250215060000 +0000" channel="SkySpMainEvHD">
         <title>Back Pages Tonight</title>
@@ -13237,7 +13237,7 @@
         <title>Abdullah Mason: Appetite For Smoke</title>
     </programme>
     <programme start="20250215003000 +0000" stop="20250215053000 +0000" channel="SkySp NFL HD">
-        <title>Live Fight Night Int: Berinchyk v Davis</title>
+        <title>Live Fight Night Int: Berinchyk Davis</title>
     </programme>
     <programme start="20250215053000 +0000" stop="20250215054500 +0000" channel="SkySp NFL HD">
         <title>NFL: Broncos @ Chargers</title>
@@ -28321,7 +28321,7 @@
         <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250215170000 +0000" stop="20250215180000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Gapshap with Papa Khan</title>
     </programme>
     <programme start="20250215180000 +0000" stop="20250215190000 +0000" channel="Takbeer TV">
         <title>Asan Na Kashmir</title>
@@ -30051,17 +30051,11 @@
     <programme start="20250215054100 +0000" stop="20250215060000 +0000" channel="ATN">
         <title>Charity Update: Goreeb Eathem</title>
     </programme>
-    <programme start="20250215060000 +0000" stop="20250215060900 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250215060900 +0000" stop="20250215061400 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250215061400 +0000" stop="20250215070000 +0000" channel="ATN">
+    <programme start="20250215060000 +0000" stop="20250215070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250215070000 +0000" stop="20250215073000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250215073000 +0000" stop="20250215080000 +0000" channel="ATN">
         <title>Amader Shekor</title>
@@ -30079,66 +30073,54 @@
         <title>Music on Demand</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215103000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250215103000 +0000" stop="20250215115500 +0000" channel="ATN">
-        <title>Vangon</title>
+        <title>Jhilmil</title>
     </programme>
     <programme start="20250215115500 +0000" stop="20250215120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250215120000 +0000" stop="20250215122000 +0000" channel="ATN">
-        <title>Protirodh</title>
+        <title>Boss Number One</title>
     </programme>
     <programme start="20250215122000 +0000" stop="20250215122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250215122500 +0000" stop="20250215140000 +0000" channel="ATN">
-        <title>Protirodh</title>
+        <title>Boss Number One</title>
     </programme>
-    <programme start="20250215140000 +0000" stop="20250215143000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250215140000 +0000" stop="20250215152500 +0000" channel="ATN">
+        <title>Boss Number One</title>
     </programme>
-    <programme start="20250215143000 +0000" stop="20250215145500 +0000" channel="ATN">
-        <title>Protirodh</title>
-    </programme>
-    <programme start="20250215145500 +0000" stop="20250215150000 +0000" channel="ATN">
+    <programme start="20250215152500 +0000" stop="20250215153000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250215150000 +0000" stop="20250215155500 +0000" channel="ATN">
-        <title>Protirodh</title>
+    <programme start="20250215153000 +0000" stop="20250215160000 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
-    <programme start="20250215155500 +0000" stop="20250215160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250215160000 +0000" stop="20250215170000 +0000" channel="ATN">
+        <title>Love Trip</title>
     </programme>
-    <programme start="20250215160000 +0000" stop="20250215164100 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250215170000 +0000" stop="20250215171900 +0000" channel="ATN">
+        <title>Cyber talk</title>
     </programme>
-    <programme start="20250215164100 +0000" stop="20250215164600 +0000" channel="ATN">
+    <programme start="20250215171900 +0000" stop="20250215172400 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250215164600 +0000" stop="20250215165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250215165500 +0000" stop="20250215170000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250215170000 +0000" stop="20250215173000 +0000" channel="ATN">
+    <programme start="20250215172400 +0000" stop="20250215173000 +0000" channel="ATN">
         <title>Cyber talk</title>
     </programme>
     <programme start="20250215173000 +0000" stop="20250215180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250215180000 +0000" stop="20250215182000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250215180000 +0000" stop="20250215184500 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
-    <programme start="20250215182000 +0000" stop="20250215182500 +0000" channel="ATN">
+    <programme start="20250215184500 +0000" stop="20250215185000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250215182500 +0000" stop="20250215184500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250215184500 +0000" stop="20250215200000 +0000" channel="ATN">
+    <programme start="20250215185000 +0000" stop="20250215200000 +0000" channel="ATN">
         <title>Quranic Discussion</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215203000 +0000" channel="ATN">
@@ -30148,10 +30130,10 @@
         <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250215210000 +0000" stop="20250215213000 +0000" channel="ATN">
-        <title>Somoyer Sathe</title>
+        <title>Road -e food e</title>
     </programme>
     <programme start="20250215213000 +0000" stop="20250215220000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Bangla Music</title>
     </programme>
     <programme start="20250215220000 +0000" stop="20250215223000 +0000" channel="ATN">
         <title>Matir Subash</title>
@@ -30160,7 +30142,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250215230000 +0000" stop="20250216000000 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+        <title>Preme Poreshi</title>
     </programme>
     <programme start="20250214223000 +0000" stop="20250214230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -37093,7 +37075,7 @@
         <title>Pick of the Pops</title>
     </programme>
     <programme start="20250215150000 +0000" stop="20250215180000 +0000" channel="BBC R2">
-        <title>Rylan on Saturday</title>
+        <title>Richie Anderson</title>
     </programme>
     <programme start="20250215180000 +0000" stop="20250215200000 +0000" channel="BBC R2">
         <title>Liza Tarbuck</title>
