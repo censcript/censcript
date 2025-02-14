@@ -2214,10 +2214,10 @@
     <programme start="20250215040000 +0000" stop="20250215060000 +0000" channel="MTV HD">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250215060000 +0000" stop="20250215062000 +0000" channel="MTV HD">
+    <programme start="20250215060000 +0000" stop="20250215062500 +0000" channel="MTV HD">
         <title>Daria</title>
     </programme>
-    <programme start="20250215062000 +0000" stop="20250215071000 +0000" channel="MTV HD">
+    <programme start="20250215062500 +0000" stop="20250215071000 +0000" channel="MTV HD">
         <title>16 &amp; Pregnant</title>
     </programme>
     <programme start="20250215071000 +0000" stop="20250215080000 +0000" channel="MTV HD">
@@ -12219,17 +12219,23 @@
     <programme start="20250215080000 +0000" stop="20250215100000 +0000" channel="MTV MUSIC">
         <title>Guess The Year</title>
     </programme>
-    <programme start="20250215100000 +0000" stop="20250215120000 +0000" channel="MTV MUSIC">
+    <programme start="20250215100000 +0000" stop="20250215115000 +0000" channel="MTV MUSIC">
         <title>Today's UK Big 20</title>
     </programme>
-    <programme start="20250215120000 +0000" stop="20250215140000 +0000" channel="MTV MUSIC">
+    <programme start="20250215115000 +0000" stop="20250215132000 +0000" channel="MTV MUSIC">
         <title>BRITs Rising Star: 2008-2025!</title>
+    </programme>
+    <programme start="20250215132000 +0000" stop="20250215140000 +0000" channel="MTV MUSIC">
+        <title>Bridget Jones: The Music!</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215160000 +0000" channel="MTV MUSIC">
         <title>No.1 Love Songs: 2001-2024</title>
     </programme>
-    <programme start="20250215160000 +0000" stop="20250215210000 +0000" channel="MTV MUSIC">
+    <programme start="20250215160000 +0000" stop="20250215201500 +0000" channel="MTV MUSIC">
         <title>We Found Love In The 10s! Top 50</title>
+    </programme>
+    <programme start="20250215201500 +0000" stop="20250215210000 +0000" channel="MTV MUSIC">
+        <title>Bridget Jones: The Music!</title>
     </programme>
     <programme start="20250215210000 +0000" stop="20250215213000 +0000" channel="MTV MUSIC">
         <title>Yungblud: I Want My MTV</title>
@@ -12258,17 +12264,20 @@
     <programme start="20250215060000 +0000" stop="20250215090000 +0000" channel="MTV HITS">
         <title>Weekend Hitlist</title>
     </programme>
-    <programme start="20250215090000 +0000" stop="20250215110000 +0000" channel="MTV HITS">
+    <programme start="20250215090000 +0000" stop="20250215104000 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
     </programme>
-    <programme start="20250215110000 +0000" stop="20250215140000 +0000" channel="MTV HITS">
+    <programme start="20250215104000 +0000" stop="20250215140000 +0000" channel="MTV HITS">
         <title>Weekend Hitlist</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215150000 +0000" channel="MTV HITS">
         <title>Kendrick Lamar x Eminem</title>
     </programme>
-    <programme start="20250215150000 +0000" stop="20250215200000 +0000" channel="MTV HITS">
+    <programme start="20250215150000 +0000" stop="20250215192500 +0000" channel="MTV HITS">
         <title>Crazy In Love! 00s Vs 10s Top 50</title>
+    </programme>
+    <programme start="20250215192500 +0000" stop="20250215200000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="MTV HITS">
         <title>Non-Stop R&amp;B &amp; Hip Hop Hits!</title>
@@ -12288,10 +12297,10 @@
     <programme start="20250215060000 +0000" stop="20250215080000 +0000" channel="MTV 90s">
         <title>The Big Breakfast Mix!</title>
     </programme>
-    <programme start="20250215080000 +0000" stop="20250215085700 +0000" channel="MTV 90s">
+    <programme start="20250215080000 +0000" stop="20250215085500 +0000" channel="MTV 90s">
         <title>This Week In 1998: Rewind 10!</title>
     </programme>
-    <programme start="20250215085700 +0000" stop="20250215090000 +0000" channel="MTV 90s">
+    <programme start="20250215085500 +0000" stop="20250215090000 +0000" channel="MTV 90s">
         <title>Happy Birthday Ali Campbell!</title>
     </programme>
     <programme start="20250215090000 +0000" stop="20250215131500 +0000" channel="MTV 90s">
@@ -24844,7 +24853,7 @@
         <title>Feb New Home Garden Tools</title>
     </programme>
     <programme start="20250215130000 +0000" stop="20250215140000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Garden Weekend Preview</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215150000 +0000" channel="QVC Extra">
         <title>Feb New Garden Deals</title>
@@ -32655,10 +32664,10 @@
     <programme start="20250215040000 +0000" stop="20250215060000 +0000" channel="MTV">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250215060000 +0000" stop="20250215062000 +0000" channel="MTV">
+    <programme start="20250215060000 +0000" stop="20250215062500 +0000" channel="MTV">
         <title>Daria</title>
     </programme>
-    <programme start="20250215062000 +0000" stop="20250215071000 +0000" channel="MTV">
+    <programme start="20250215062500 +0000" stop="20250215071000 +0000" channel="MTV">
         <title>16 &amp; Pregnant</title>
     </programme>
     <programme start="20250215071000 +0000" stop="20250215080000 +0000" channel="MTV">
