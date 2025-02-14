@@ -14161,7 +14161,7 @@
         <title>S/Lge Grand Final: Wigan v Hull KR</title>
     </programme>
     <programme start="20250214083000 +0000" stop="20250214103000 +0000" channel="SkySp Mix HD">
-        <title>Live Super Rugby</title>
+        <title>Live S/Rugby:Waratahs v H'landers</title>
     </programme>
     <programme start="20250214103000 +0000" stop="20250214110000 +0000" channel="SkySp Mix HD">
         <title>Abdullah Mason: Appetite For Smoke</title>
@@ -27741,11 +27741,8 @@
     <programme start="20250214174500 +0000" stop="20250214180000 +0000" channel="MTA1 World HD">
         <title>MTA Explore</title>
     </programme>
-    <programme start="20250214180000 +0000" stop="20250214182000 +0000" channel="MTA1 World HD">
+    <programme start="20250214180000 +0000" stop="20250214183500 +0000" channel="MTA1 World HD">
         <title>World News</title>
-    </programme>
-    <programme start="20250214182000 +0000" stop="20250214183500 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
     </programme>
     <programme start="20250214183500 +0000" stop="20250214200500 +0000" channel="MTA1 World HD">
         <title>Live Arabic Service</title>
@@ -30337,7 +30334,7 @@
         <title>Jithe Baba Pair Dhare</title>
     </programme>
     <programme start="20250214170000 +0000" stop="20250214173000 +0000" channel="PBC">
-        <title>Sikh Soorveerta</title>
+        <title>PBC Special Show</title>
     </programme>
     <programme start="20250214173000 +0000" stop="20250214180000 +0000" channel="PBC">
         <title>Rehraas Sahib</title>
@@ -35080,7 +35077,7 @@
         <title>S/Lge Grand Final: Wigan v Hull KR</title>
     </programme>
     <programme start="20250214083000 +0000" stop="20250214103000 +0000" channel="SkySp Mix">
-        <title>Live Super Rugby</title>
+        <title>Live S/Rugby:Waratahs v H'landers</title>
     </programme>
     <programme start="20250214103000 +0000" stop="20250214110000 +0000" channel="SkySp Mix">
         <title>Abdullah Mason: Appetite For Smoke</title>
@@ -37644,10 +37641,10 @@
     <programme start="20250214060500 +0000" stop="20250214083500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
-    <programme start="20250214083500 +0000" stop="20250214094500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250214083500 +0000" stop="20250214094000 +0000" channel="BBC RB 1 HD">
         <title>Alpine World Ski Championships:...</title>
     </programme>
-    <programme start="20250214094500 +0000" stop="20250214120000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250214094000 +0000" stop="20250214120000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 1</title>
     </programme>
     <programme start="20250214120000 +0000" stop="20250214163000 +0000" channel="BBC RB 1 HD">
