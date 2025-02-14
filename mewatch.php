@@ -973,16 +973,16 @@
         <title>ONE Friday Fights 97</title>
     </programme>
     <programme start="20250213160000 +0000" stop="20250214013000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 14th February, Friday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 1</title>
+        <title>No Programme available now. Next Broadcast on 14th February, Friday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 1 Thailand vs Korea</title>
     </programme>
     <programme start="20250214013000 +0000" stop="20250214063000 +0000" channel="Live 5.mewatch">
-        <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 1</title>
+        <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 1 Thailand vs Korea</title>
     </programme>
     <programme start="20250214063000 +0000" stop="20250214090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 14th February, Friday 5pm. TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 2</title>
+        <title>No Programme available now. Next Broadcast on 14th February, Friday 5pm. TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 2 China vs Hong Kong</title>
     </programme>
     <programme start="20250214090000 +0000" stop="20250214140000 +0000" channel="Live 5.mewatch">
-        <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 2</title>
+        <title>TSINGTAO Badminton Asia Mixed Team Championships 2025: Quarter-final 2 China vs Hong Kong</title>
     </programme>
     <programme start="20250214140000 +0000" stop="20250214160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th February, Saturday 9.30am. TSINGTAO Badminton Asia Mixed Team Championships 2025: Semi-final 1</title>

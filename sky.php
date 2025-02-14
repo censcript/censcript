@@ -15997,7 +15997,7 @@
         <title>Left, Right &amp; Centre</title>
     </programme>
     <programme start="20250214003000 +0000" stop="20250214010000 +0000" channel="NDTV World">
-        <title>Mahakumbh Special</title>
+        <title>Mahakumbh Tales with Amish Tripathi</title>
     </programme>
     <programme start="20250214010000 +0000" stop="20250214020000 +0000" channel="NDTV World">
         <title>News</title>
@@ -16036,7 +16036,7 @@
         <title>Newsbreak</title>
     </programme>
     <programme start="20250214120000 +0000" stop="20250214123000 +0000" channel="NDTV World">
-        <title>Mahakumbh Special</title>
+        <title>Mahakumbh Tales with Amish Tripathi</title>
     </programme>
     <programme start="20250214123000 +0000" stop="20250214130000 +0000" channel="NDTV World">
         <title>Newsbreak</title>
@@ -30624,20 +30624,23 @@
     <programme start="20250214172200 +0000" stop="20250214180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250214180000 +0000" stop="20250214184700 +0000" channel="IQRA Bangla">
+    <programme start="20250214180000 +0000" stop="20250214183000 +0000" channel="IQRA Bangla">
         <title>Our Masjid</title>
+    </programme>
+    <programme start="20250214183000 +0000" stop="20250214184700 +0000" channel="IQRA Bangla">
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250214184700 +0000" stop="20250214185200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250214185200 +0000" stop="20250214200000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250214200000 +0000" stop="20250214203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
     <programme start="20250214203000 +0000" stop="20250214213000 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
+        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250213213000 +0000" stop="20250213230000 +0000" channel="ATN">
         <title>Shako</title>
@@ -30933,98 +30936,104 @@
     <programme start="20250214054000 +0000" stop="20250214060000 +0000" channel="TV One">
         <title>Live from Kabah</title>
     </programme>
-    <programme start="20250214060000 +0000" stop="20250214061000 +0000" channel="TV One">
-        <title>The Voice Of Oneness</title>
+    <programme start="20250214060000 +0000" stop="20250214073000 +0000" channel="TV One">
+        <title>Quran Class</title>
     </programme>
-    <programme start="20250214061000 +0000" stop="20250214061500 +0000" channel="TV One">
-        <title>Fajr Azan</title>
+    <programme start="20250214073000 +0000" stop="20250214074500 +0000" channel="TV One">
+        <title>Praner Sur</title>
     </programme>
-    <programme start="20250214061500 +0000" stop="20250214073000 +0000" channel="TV One">
-        <title>The Voice Of Oneness</title>
-    </programme>
-    <programme start="20250214073000 +0000" stop="20250214074000 +0000" channel="TV One">
-        <title>Imam Naseeha</title>
-    </programme>
-    <programme start="20250214074000 +0000" stop="20250214075500 +0000" channel="TV One">
+    <programme start="20250214074500 +0000" stop="20250214080000 +0000" channel="TV One">
         <title>Story Time with Sarah</title>
     </programme>
-    <programme start="20250214075500 +0000" stop="20250214081000 +0000" channel="TV One">
+    <programme start="20250214080000 +0000" stop="20250214081500 +0000" channel="TV One">
         <title>Quraner Paray</title>
     </programme>
-    <programme start="20250214081000 +0000" stop="20250214090000 +0000" channel="TV One">
+    <programme start="20250214081500 +0000" stop="20250214090000 +0000" channel="TV One">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250214090000 +0000" stop="20250214093000 +0000" channel="TV One">
+    <programme start="20250214090000 +0000" stop="20250214093500 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250214093000 +0000" stop="20250214103000 +0000" channel="TV One">
+    <programme start="20250214093500 +0000" stop="20250214103500 +0000" channel="TV One">
         <title>Jummah Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250214103000 +0000" stop="20250214104500 +0000" channel="TV One">
-        <title>Light Of Jummah</title>
-    </programme>
-    <programme start="20250214104500 +0000" stop="20250214110000 +0000" channel="TV One">
+    <programme start="20250214103500 +0000" stop="20250214110000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
     </programme>
     <programme start="20250214110000 +0000" stop="20250214120000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250214120000 +0000" stop="20250214121800 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250214121800 +0000" stop="20250214122500 +0000" channel="TV One">
-        <title>Jummah Azaan</title>
-    </programme>
-    <programme start="20250214122500 +0000" stop="20250214125000 +0000" channel="TV One">
-        <title>Angels In Their Presence</title>
-    </programme>
-    <programme start="20250214125000 +0000" stop="20250214132000 +0000" channel="TV One">
-        <title>Asr Prayer Live from Kabah</title>
-    </programme>
-    <programme start="20250214132000 +0000" stop="20250214140000 +0000" channel="TV One">
-        <title>360 Degree</title>
-    </programme>
-    <programme start="20250214140000 +0000" stop="20250214143000 +0000" channel="TV One">
-        <title>Afternoon News</title>
-    </programme>
-    <programme start="20250214143000 +0000" stop="20250214144900 +0000" channel="TV One">
-        <title>Muhammad Peace be Upon Him</title>
-    </programme>
-    <programme start="20250214144900 +0000" stop="20250214150000 +0000" channel="TV One">
-        <title>Asr Azaan</title>
-    </programme>
-    <programme start="20250214150000 +0000" stop="20250214153000 +0000" channel="TV One">
-        <title>Maghrib Prayer Live From Kabah</title>
-    </programme>
-    <programme start="20250214153000 +0000" stop="20250214163900 +0000" channel="TV One">
-        <title>Dawah Conference</title>
-    </programme>
-    <programme start="20250214163900 +0000" stop="20250214165000 +0000" channel="TV One">
-        <title>Maghrib Azaan</title>
-    </programme>
-    <programme start="20250214165000 +0000" stop="20250214170000 +0000" channel="TV One">
+    <programme start="20250214120000 +0000" stop="20250214122000 +0000" channel="TV One">
         <title>Light Of Jummah</title>
     </programme>
-    <programme start="20250214170000 +0000" stop="20250214180000 +0000" channel="TV One">
-        <title>Reflections from the ka'ba</title>
+    <programme start="20250214122000 +0000" stop="20250214123000 +0000" channel="TV One">
+        <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250214180000 +0000" stop="20250214181600 +0000" channel="TV One">
+    <programme start="20250214123000 +0000" stop="20250214130000 +0000" channel="TV One">
+        <title>Angels In Their Presence</title>
+    </programme>
+    <programme start="20250214130000 +0000" stop="20250214133000 +0000" channel="TV One">
+        <title>Asr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250214133000 +0000" stop="20250214140000 +0000" channel="TV One">
+        <title>The Entrepreneur</title>
+    </programme>
+    <programme start="20250214140000 +0000" stop="20250214150000 +0000" channel="TV One">
+        <title>Get Preparation</title>
+    </programme>
+    <programme start="20250214150000 +0000" stop="20250214151000 +0000" channel="TV One">
+        <title>Muhammad Peace be Upon Him</title>
+    </programme>
+    <programme start="20250214151000 +0000" stop="20250214152500 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250214152500 +0000" stop="20250214153000 +0000" channel="TV One">
+        <title>Asr Azaan</title>
+    </programme>
+    <programme start="20250214153000 +0000" stop="20250214155500 +0000" channel="TV One">
+        <title>Maghrib Prayer Live From Kabah</title>
+    </programme>
+    <programme start="20250214155500 +0000" stop="20250214161500 +0000" channel="TV One">
+        <title>Short film</title>
+    </programme>
+    <programme start="20250214161500 +0000" stop="20250214162500 +0000" channel="TV One">
         <title>Nouman Ali Khan:Illustrated</title>
     </programme>
-    <programme start="20250214181600 +0000" stop="20250214183000 +0000" channel="TV One">
+    <programme start="20250214162500 +0000" stop="20250214163500 +0000" channel="TV One">
+        <title>Story Time with Sarah</title>
+    </programme>
+    <programme start="20250214163500 +0000" stop="20250214164500 +0000" channel="TV One">
+        <title>Imam Naseeha</title>
+    </programme>
+    <programme start="20250214164500 +0000" stop="20250214170000 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250214170000 +0000" stop="20250214171700 +0000" channel="TV One">
+        <title>Quran Class</title>
+    </programme>
+    <programme start="20250214171700 +0000" stop="20250214172500 +0000" channel="TV One">
+        <title>Maghrib Azaan</title>
+    </programme>
+    <programme start="20250214172500 +0000" stop="20250214183000 +0000" channel="TV One">
+        <title>Quran Class</title>
+    </programme>
+    <programme start="20250214183000 +0000" stop="20250214184700 +0000" channel="TV One">
+        <title>Evening News</title>
+    </programme>
+    <programme start="20250214184700 +0000" stop="20250214185200 +0000" channel="TV One">
         <title>Isha Azaan</title>
     </programme>
-    <programme start="20250214183000 +0000" stop="20250214190000 +0000" channel="TV One">
+    <programme start="20250214185200 +0000" stop="20250214190000 +0000" channel="TV One">
         <title>Evening News</title>
     </programme>
     <programme start="20250214190000 +0000" stop="20250214220000 +0000" channel="TV One">
-        <title>Live Charity Appeal: HRF</title>
+        <title>Live Charity Appeal: Zam Zam</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214223000 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
     <programme start="20250214223000 +0000" stop="20250214233000 +0000" channel="TV One">
-        <title>Live Charity Appeal: HRF</title>
+        <title>Live Charity Appeal: Zam Zam</title>
     </programme>
     <programme start="20250213223000 +0000" stop="20250213233000 +0000" channel="iON TV">
         <title>Charity Appeal</title>
