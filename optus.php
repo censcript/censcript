@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250214193000 +0000" stop="20250214223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brighton v Chelsea</title>
-    </programme>
     <programme start="20250214223000 +0000" stop="20250214233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - North Carolina Courage v Seattle Reign</title>
     </programme>
 </tv>

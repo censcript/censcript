@@ -26217,7 +26217,10 @@
     <programme start="20250215183000 +0000" stop="20250215190000 +0000" channel="MATV National">
         <title>Golden Oldies</title>
     </programme>
-    <programme start="20250215190000 +0000" stop="20250215200000 +0000" channel="MATV National">
+    <programme start="20250215190000 +0000" stop="20250215193000 +0000" channel="MATV National">
+        <title>Health Coach</title>
+    </programme>
+    <programme start="20250215193000 +0000" stop="20250215200000 +0000" channel="MATV National">
         <title>Golden Oldies</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215203000 +0000" channel="MATV National">
@@ -29427,11 +29430,8 @@
     <programme start="20250215110000 +0000" stop="20250215120000 +0000" channel="Akaal Channel">
         <title>Live: Guru Nanak Seva</title>
     </programme>
-    <programme start="20250215120000 +0000" stop="20250215130000 +0000" channel="Akaal Channel">
-        <title>Seminar: Sandeep Singh's Legacy</title>
-    </programme>
-    <programme start="20250215130000 +0000" stop="20250215140000 +0000" channel="Akaal Channel">
-        <title>Seminar: Sandeep Singh's Legacy</title>
+    <programme start="20250215120000 +0000" stop="20250215140000 +0000" channel="Akaal Channel">
+        <title>Barsi: Sandeep Singh Sidhu</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215150000 +0000" channel="Akaal Channel">
         <title>Guru Nanak Seva</title>
@@ -29455,21 +29455,21 @@
         <title>Sikh Relief</title>
     </programme>
     <programme start="20250215190000 +0000" stop="20250215200000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Live: Water Borewell (Sikligar)</title>
     </programme>
-    <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Akaal Channel">
-        <title>Live: Call in Show</title>
+    <programme start="20250215200000 +0000" stop="20250215211500 +0000" channel="Akaal Channel">
+        <title>Sandeep Singh Sidhu's Narrative</title>
     </programme>
-    <programme start="20250215210000 +0000" stop="20250215213000 +0000" channel="Akaal Channel">
+    <programme start="20250215211500 +0000" stop="20250215214500 +0000" channel="Akaal Channel">
         <title>Akaal Channel News</title>
     </programme>
-    <programme start="20250215213000 +0000" stop="20250215223000 +0000" channel="Akaal Channel">
+    <programme start="20250215214500 +0000" stop="20250215224500 +0000" channel="Akaal Channel">
         <title>Seminar: Sandeep Singh's Legacy</title>
     </programme>
-    <programme start="20250215223000 +0000" stop="20250215233000 +0000" channel="Akaal Channel">
+    <programme start="20250215224500 +0000" stop="20250215234500 +0000" channel="Akaal Channel">
         <title>Seminar: Sandeep Singh's Legacy</title>
     </programme>
-    <programme start="20250215233000 +0000" stop="20250216003000 +0000" channel="Akaal Channel">
+    <programme start="20250215234500 +0000" stop="20250216004500 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
     <programme start="20250214213000 +0000" stop="20250215002000 +0000" channel="Kanshi TV">
@@ -29982,8 +29982,11 @@
     <programme start="20250215122000 +0000" stop="20250215123000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250215123000 +0000" stop="20250215140000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250215123000 +0000" stop="20250215133000 +0000" channel="IQRA Bangla">
+        <title>Islamer Shikkha</title>
+    </programme>
+    <programme start="20250215133000 +0000" stop="20250215140000 +0000" channel="IQRA Bangla">
+        <title>Al-Khair Feedback</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215152600 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
@@ -30003,20 +30006,35 @@
     <programme start="20250215172400 +0000" stop="20250215180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250215180000 +0000" stop="20250215184900 +0000" channel="IQRA Bangla">
+    <programme start="20250215180000 +0000" stop="20250215183000 +0000" channel="IQRA Bangla">
         <title>Islam is way of life</title>
+    </programme>
+    <programme start="20250215183000 +0000" stop="20250215184900 +0000" channel="IQRA Bangla">
+        <title>Iqra Kids TV Show</title>
     </programme>
     <programme start="20250215184900 +0000" stop="20250215185400 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250215185400 +0000" stop="20250215200000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250215185400 +0000" stop="20250215190000 +0000" channel="IQRA Bangla">
+        <title>Iqra Kids TV Show</title>
+    </programme>
+    <programme start="20250215190000 +0000" stop="20250215200000 +0000" channel="IQRA Bangla">
+        <title>Law &amp; Order</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250215203000 +0000" stop="20250215213000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250215203000 +0000" stop="20250215210000 +0000" channel="IQRA Bangla">
+        <title>Iqra Quiz</title>
+    </programme>
+    <programme start="20250215210000 +0000" stop="20250215223000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250215223000 +0000" stop="20250215230000 +0000" channel="IQRA Bangla">
+        <title>Weekly Insider</title>
+    </programme>
+    <programme start="20250215230000 +0000" stop="20250216000000 +0000" channel="IQRA Bangla">
+        <title>Amader Sylhet</title>
     </programme>
     <programme start="20250214223000 +0000" stop="20250214230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -30436,7 +30454,7 @@
         <title>360 Degree</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214230000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Islam Ebong Shomadhan</title>
     </programme>
     <programme start="20250214230000 +0000" stop="20250215000000 +0000" channel="iON TV">
         <title>Express 24</title>
