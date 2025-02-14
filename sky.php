@@ -30436,7 +30436,7 @@
         <title>360 Degree</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214230000 +0000" channel="iON TV">
-        <title>Islam Ebong Shomadhan</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250214230000 +0000" stop="20250215000000 +0000" channel="iON TV">
         <title>Express 24</title>
@@ -30493,7 +30493,7 @@
         <title>News 24</title>
     </programme>
     <programme start="20250215110000 +0000" stop="20250215120000 +0000" channel="iON TV">
-        <title>Akhsaru Tafaseer</title>
+        <title>Susto Thakun</title>
     </programme>
     <programme start="20250215120000 +0000" stop="20250215122000 +0000" channel="iON TV">
         <title>Community Focus</title>
