@@ -36891,7 +36891,7 @@
     <programme start="20250215232500 +0000" stop="20250216002500 +0000" channel="BBC Two NI HD">
         <title>Movie Themes at the BBC: Volume 2</title>
     </programme>
-    <programme start="20250214223000 +0000" stop="20250215023000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250214215000 +0000" stop="20250215023000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250215023000 +0000" stop="20250215060000 +0000" channel="BBC RB 1 HD">
