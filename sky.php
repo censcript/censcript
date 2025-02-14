@@ -29478,10 +29478,10 @@
     <programme start="20250215002000 +0000" stop="20250215010000 +0000" channel="Kanshi TV">
         <title>Old is Gold</title>
     </programme>
-    <programme start="20250215010000 +0000" stop="20250215033000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Movie Time</title>
+    <programme start="20250215010000 +0000" stop="20250215034500 +0000" channel="Kanshi TV">
+        <title>Kathputli - 1971</title>
     </programme>
-    <programme start="20250215033000 +0000" stop="20250215070000 +0000" channel="Kanshi TV">
+    <programme start="20250215034500 +0000" stop="20250215070000 +0000" channel="Kanshi TV">
         <title>Amrit Bani</title>
     </programme>
     <programme start="20250215070000 +0000" stop="20250215090000 +0000" channel="Kanshi TV">
@@ -29490,10 +29490,10 @@
     <programme start="20250215090000 +0000" stop="20250215093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250215093000 +0000" stop="20250215094500 +0000" channel="Kanshi TV">
+    <programme start="20250215093000 +0000" stop="20250215101500 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250215094500 +0000" stop="20250215110000 +0000" channel="Kanshi TV">
+    <programme start="20250215101500 +0000" stop="20250215110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250215110000 +0000" stop="20250215120000 +0000" channel="Kanshi TV">
@@ -29506,7 +29506,7 @@
         <title>All Nations Church</title>
     </programme>
     <programme start="20250215150000 +0000" stop="20250215160000 +0000" channel="Kanshi TV">
-        <title>Apney Sitarey with Jagdeep</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250215160000 +0000" stop="20250215170000 +0000" channel="Kanshi TV">
         <title>Pate Di Gall</title>
@@ -29521,13 +29521,13 @@
         <title>Gall Baat with Balbir Kalair</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Special</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250215210000 +0000" stop="20250215213000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
     <programme start="20250215213000 +0000" stop="20250215223000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Movie Time</title>
+        <title>Kathputli - 1971</title>
     </programme>
     <programme start="20250214200000 +0000" stop="20250214230000 +0000" channel="Pitaara">
         <title>Gaddi Jaandi Ae Chalaangaan Maardi</title>
