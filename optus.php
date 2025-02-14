@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250214095500 +0000" stop="20250214121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Gamba v Cerezo</title>
-    </programme>
     <programme start="20250214120000 +0000" stop="20250214130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
+    </programme>
+    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Seattle Reign v Gotham FC</title>
     </programme>
 </tv>
