@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250214120000 +0000" stop="20250214130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250214163000 +0000" stop="20250214170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
+    </programme>
+    <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v San Diego Wave FC</title>
     </programme>
 </tv>
