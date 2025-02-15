@@ -14796,8 +14796,11 @@
     <programme start="20250215053000 +0000" stop="20250215060000 +0000" channel="BBC NEWS HD">
         <title>Unspun World with John Simpson</title>
     </programme>
-    <programme start="20250215060000 +0000" stop="20250215090000 +0000" channel="BBC NEWS HD">
+    <programme start="20250215060000 +0000" stop="20250215070000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
+    </programme>
+    <programme start="20250215070000 +0000" stop="20250215090000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250215090000 +0000" stop="20250215100000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -28764,10 +28767,10 @@
     <programme start="20250215122000 +0000" stop="20250215122400 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250215122400 +0000" stop="20250215124300 +0000" channel="Eman Channel">
+    <programme start="20250215122400 +0000" stop="20250215125300 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250215124300 +0000" stop="20250215130000 +0000" channel="Eman Channel">
+    <programme start="20250215125300 +0000" stop="20250215130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250215130000 +0000" stop="20250215140000 +0000" channel="Eman Channel">
@@ -28779,25 +28782,22 @@
     <programme start="20250215141500 +0000" stop="20250215143000 +0000" channel="Eman Channel">
         <title>Dua Your Key To Allah</title>
     </programme>
-    <programme start="20250215143000 +0000" stop="20250215143600 +0000" channel="Eman Channel">
+    <programme start="20250215143000 +0000" stop="20250215144600 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
     </programme>
-    <programme start="20250215143600 +0000" stop="20250215144000 +0000" channel="Eman Channel">
+    <programme start="20250215144600 +0000" stop="20250215145000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250215144000 +0000" stop="20250215144500 +0000" channel="Eman Channel">
-        <title>Meeting Muhammad</title>
-    </programme>
-    <programme start="20250215144500 +0000" stop="20250215150000 +0000" channel="Eman Channel">
+    <programme start="20250215145000 +0000" stop="20250215150500 +0000" channel="Eman Channel">
         <title>Comfort in Times of Crisis</title>
     </programme>
-    <programme start="20250215150000 +0000" stop="20250215153000 +0000" channel="Eman Channel">
+    <programme start="20250215150500 +0000" stop="20250215153500 +0000" channel="Eman Channel">
         <title>Best Of Nations</title>
     </programme>
-    <programme start="20250215153000 +0000" stop="20250215160000 +0000" channel="Eman Channel">
+    <programme start="20250215153500 +0000" stop="20250215160300 +0000" channel="Eman Channel">
         <title>Activ8</title>
     </programme>
-    <programme start="20250215160000 +0000" stop="20250215163000 +0000" channel="Eman Channel">
+    <programme start="20250215160300 +0000" stop="20250215163000 +0000" channel="Eman Channel">
         <title>Little Explorers: The Den</title>
     </programme>
     <programme start="20250215163000 +0000" stop="20250215170000 +0000" channel="Eman Channel">
@@ -28809,10 +28809,10 @@
     <programme start="20250215171900 +0000" stop="20250215172300 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250215172300 +0000" stop="20250215173000 +0000" channel="Eman Channel">
+    <programme start="20250215172300 +0000" stop="20250215173100 +0000" channel="Eman Channel">
         <title>The Recipe Book</title>
     </programme>
-    <programme start="20250215173000 +0000" stop="20250215174500 +0000" channel="Eman Channel">
+    <programme start="20250215173100 +0000" stop="20250215174500 +0000" channel="Eman Channel">
         <title>Reconnecting with Revelation</title>
     </programme>
     <programme start="20250215174500 +0000" stop="20250215180000 +0000" channel="Eman Channel">
@@ -28830,10 +28830,10 @@
     <programme start="20250215190000 +0000" stop="20250215191500 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250215191500 +0000" stop="20250215194500 +0000" channel="Eman Channel">
+    <programme start="20250215191500 +0000" stop="20250215194300 +0000" channel="Eman Channel">
         <title>Cultivating Characters</title>
     </programme>
-    <programme start="20250215194500 +0000" stop="20250215200000 +0000" channel="Eman Channel">
+    <programme start="20250215194300 +0000" stop="20250215200000 +0000" channel="Eman Channel">
         <title>Dweller of the Well</title>
     </programme>
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Eman Channel">
