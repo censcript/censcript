@@ -36816,10 +36816,7 @@
     <programme start="20250215143500 +0000" stop="20250215162500 +0000" channel="BBC Two Wal HD">
         <title>Mr Malcolm's List</title>
     </programme>
-    <programme start="20250215162500 +0000" stop="20250215164500 +0000" channel="BBC Two Wal HD">
-        <title>Mr Malcolm's List</title>
-    </programme>
-    <programme start="20250215164500 +0000" stop="20250215170000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250215162500 +0000" stop="20250215170000 +0000" channel="BBC Two Wal HD">
         <title>Flog It!</title>
     </programme>
     <programme start="20250215170000 +0000" stop="20250215173000 +0000" channel="BBC Two Wal HD">
@@ -36945,10 +36942,10 @@
     <programme start="20250215094000 +0000" stop="20250215120500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
-    <programme start="20250215120500 +0000" stop="20250215131500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215120500 +0000" stop="20250215134500 +0000" channel="BBC RB 1 HD">
         <title>Alpine World Ski Championships: Women's Slalom - Run 2</title>
     </programme>
-    <programme start="20250215131500 +0000" stop="20250215143000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215134500 +0000" stop="20250215143000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250215143000 +0000" stop="20250215173000 +0000" channel="BBC RB 1 HD">
