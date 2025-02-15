@@ -13737,16 +13737,13 @@
     <programme start="20250215120000 +0000" stop="20250215135000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250215135000 +0000" stop="20250215154000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215135000 +0000" stop="20250215155500 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250215154000 +0000" stop="20250215163000 +0000" channel="Eurosport 2 HD">
-        <title>Live Cycling: Tour of Murcia</title>
-    </programme>
-    <programme start="20250215163000 +0000" stop="20250215165000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215155500 +0000" stop="20250215161000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Milan-San Remo</title>
     </programme>
-    <programme start="20250215165000 +0000" stop="20250215172000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215161000 +0000" stop="20250215172000 +0000" channel="Eurosport 2 HD">
         <title>Spirit of Yachting</title>
     </programme>
     <programme start="20250215172000 +0000" stop="20250215185500 +0000" channel="Eurosport 2 HD">
@@ -34221,16 +34218,13 @@
     <programme start="20250215120000 +0000" stop="20250215135000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250215135000 +0000" stop="20250215154000 +0000" channel="Eurosport 2">
+    <programme start="20250215135000 +0000" stop="20250215155500 +0000" channel="Eurosport 2">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250215154000 +0000" stop="20250215163000 +0000" channel="Eurosport 2">
-        <title>Live Cycling: Tour of Murcia</title>
-    </programme>
-    <programme start="20250215163000 +0000" stop="20250215165000 +0000" channel="Eurosport 2">
+    <programme start="20250215155500 +0000" stop="20250215161000 +0000" channel="Eurosport 2">
         <title>Cycling: Milan-San Remo</title>
     </programme>
-    <programme start="20250215165000 +0000" stop="20250215172000 +0000" channel="Eurosport 2">
+    <programme start="20250215161000 +0000" stop="20250215172000 +0000" channel="Eurosport 2">
         <title>Spirit of Yachting</title>
     </programme>
     <programme start="20250215172000 +0000" stop="20250215185500 +0000" channel="Eurosport 2">
@@ -36945,10 +36939,10 @@
     <programme start="20250215134500 +0000" stop="20250215143000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
-    <programme start="20250215143000 +0000" stop="20250215173000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215143000 +0000" stop="20250215174500 +0000" channel="BBC RB 1 HD">
         <title>Final Score</title>
     </programme>
-    <programme start="20250215173000 +0000" stop="20250215190000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215174500 +0000" stop="20250215190000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250215190000 +0000" stop="20250215220000 +0000" channel="BBC RB 1 HD">
