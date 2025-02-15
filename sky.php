@@ -23686,34 +23686,34 @@
         <title>TJC Plus Rewards Weekend with Andy H &amp; Jenny</title>
     </programme>
     <programme start="20250216000000 +0000" stop="20250216010000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Andy H &amp; Jenny</title>
+        <title>Affordable Luxury with Andy H &amp; Jenny</title>
     </programme>
     <programme start="20250216010000 +0000" stop="20250216020000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Jenny</title>
+        <title>Affordable Luxury with Jenny</title>
     </programme>
     <programme start="20250216020000 +0000" stop="20250216030000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
+        <title>Affordable Luxury with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250216030000 +0000" stop="20250216040000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
+        <title>Affordable Luxury with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250216040000 +0000" stop="20250216050000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
+        <title>Affordable Luxury with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250216050000 +0000" stop="20250216060000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
+        <title>Affordable Luxury with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250216060000 +0000" stop="20250216070000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Cris</title>
+        <title>Affordable Luxury with Cris</title>
     </programme>
     <programme start="20250216070000 +0000" stop="20250216080000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Anshu &amp; Cris</title>
+        <title>Affordable Luxury with Anshu &amp; Cris</title>
     </programme>
     <programme start="20250216080000 +0000" stop="20250216090000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Anshu &amp; Cris</title>
+        <title>Affordable Luxury with Anshu &amp; Cris</title>
     </programme>
     <programme start="20250216090000 +0000" stop="20250216100000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Anshu &amp; Cris</title>
+        <title>Deal of the Day with Anshu &amp; Cris</title>
     </programme>
     <programme start="20250216100000 +0000" stop="20250216110000 +0000" channel="TJC HD">
         <title>Maestro Collection with Fedrico &amp; Derek</title>
@@ -23725,37 +23725,37 @@
         <title>Maestro Collection with Fedrico &amp; Derek</title>
     </programme>
     <programme start="20250216130000 +0000" stop="20250216140000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Derek</title>
+        <title>Affordable Luxury with Derek</title>
     </programme>
     <programme start="20250216140000 +0000" stop="20250216150000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Vikram &amp; Marina</title>
+        <title>Affordable Luxury with Vikram &amp; Kim</title>
     </programme>
     <programme start="20250216150000 +0000" stop="20250216160000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Vikram &amp; Marina</title>
+        <title>Affordable Luxury with Vikram &amp; Kim</title>
     </programme>
     <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Vikram &amp; Marina</title>
+        <title>Affordable Luxury with Vikram &amp; Kim</title>
     </programme>
     <programme start="20250216170000 +0000" stop="20250216180000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Marina</title>
+        <title>Affordable Luxury with Kim</title>
     </programme>
     <programme start="20250216180000 +0000" stop="20250216190000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mark</title>
+        <title>Affordable Luxury with Mark</title>
     </programme>
     <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mark</title>
+        <title>Affordable Luxury with Mark</title>
     </programme>
     <programme start="20250216200000 +0000" stop="20250216210000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mark</title>
+        <title>Monster Deal with Mark</title>
     </programme>
     <programme start="20250216210000 +0000" stop="20250216220000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mark</title>
+        <title>Affordable Luxury with Mark</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Kieran &amp; Kim</title>
+        <title>Affordable Luxury with Kieran &amp;</title>
     </programme>
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Kieran &amp; Kim</title>
+        <title>Affordable Luxury with Kieran &amp;</title>
     </programme>
     <programme start="20250215220000 +0000" stop="20250215230000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -25846,10 +25846,10 @@
         <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250216183000 +0000" stop="20250216190000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>Masihi Mel Milap</title>
     </programme>
     <programme start="20250216190000 +0000" stop="20250216193000 +0000" channel="MATV National">
-        <title>Masihi Mel Milap</title>
+        <title>Old Is Gold</title>
     </programme>
     <programme start="20250216193000 +0000" stop="20250216200000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
@@ -29649,23 +29649,17 @@
     <programme start="20250216053700 +0000" stop="20250216060000 +0000" channel="ATN">
         <title>Cyber talk</title>
     </programme>
-    <programme start="20250216060000 +0000" stop="20250216060700 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250216060700 +0000" stop="20250216061200 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250216061200 +0000" stop="20250216070000 +0000" channel="ATN">
+    <programme start="20250216060000 +0000" stop="20250216070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250216070000 +0000" stop="20250216073000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250216073000 +0000" stop="20250216080000 +0000" channel="ATN">
         <title>Golpo Ganer Amontrone</title>
     </programme>
     <programme start="20250216080000 +0000" stop="20250216083000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250216083000 +0000" stop="20250216090000 +0000" channel="ATN">
         <title>Cyber talk</title>
@@ -29677,76 +29671,67 @@
         <title>Matir Subash</title>
     </programme>
     <programme start="20250216100000 +0000" stop="20250216103000 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Bangla Music</title>
     </programme>
     <programme start="20250216103000 +0000" stop="20250216115500 +0000" channel="ATN">
-        <title>Community Issue</title>
+        <title>Boro Chachar Cycle</title>
     </programme>
     <programme start="20250216115500 +0000" stop="20250216120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250216120000 +0000" stop="20250216122000 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+        <title>Shopnojal</title>
     </programme>
     <programme start="20250216122000 +0000" stop="20250216122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250216122500 +0000" stop="20250216140000 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+    <programme start="20250216122500 +0000" stop="20250216145500 +0000" channel="ATN">
+        <title>Shopnojal</title>
     </programme>
-    <programme start="20250216140000 +0000" stop="20250216143000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250216145500 +0000" stop="20250216152500 +0000" channel="ATN">
+        <title>Shopnojal</title>
     </programme>
-    <programme start="20250216143000 +0000" stop="20250216145500 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
-    </programme>
-    <programme start="20250216145500 +0000" stop="20250216150000 +0000" channel="ATN">
+    <programme start="20250216152500 +0000" stop="20250216153000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250216150000 +0000" stop="20250216155500 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+    <programme start="20250216153000 +0000" stop="20250216160000 +0000" channel="ATN">
+        <title>Obiram Bangladesh</title>
     </programme>
-    <programme start="20250216155500 +0000" stop="20250216160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="ATN">
+        <title>Shudhu Tomar Jonno</title>
     </programme>
-    <programme start="20250216160000 +0000" stop="20250216164300 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250216170000 +0000" stop="20250216172100 +0000" channel="ATN">
+        <title>Chonde Anonde</title>
     </programme>
-    <programme start="20250216164300 +0000" stop="20250216164800 +0000" channel="ATN">
+    <programme start="20250216172100 +0000" stop="20250216172600 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250216164800 +0000" stop="20250216165500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250216165500 +0000" stop="20250216170000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250216170000 +0000" stop="20250216173000 +0000" channel="ATN">
+    <programme start="20250216172600 +0000" stop="20250216173000 +0000" channel="ATN">
         <title>Chonde Anonde</title>
     </programme>
     <programme start="20250216173000 +0000" stop="20250216180000 +0000" channel="ATN">
         <title>Mochibot Unlimited</title>
     </programme>
-    <programme start="20250216180000 +0000" stop="20250216182000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250216180000 +0000" stop="20250216184500 +0000" channel="ATN">
+        <title>ATN Archive</title>
     </programme>
-    <programme start="20250216182000 +0000" stop="20250216182500 +0000" channel="ATN">
+    <programme start="20250216184500 +0000" stop="20250216185000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250216182500 +0000" stop="20250216185500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250216185500 +0000" stop="20250216190000 +0000" channel="ATN">
+    <programme start="20250216185000 +0000" stop="20250216190000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250216190000 +0000" stop="20250216213000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="ATN">
+        <title>Crime Petrol</title>
     </programme>
-    <programme start="20250216213000 +0000" stop="20250216220000 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250216200000 +0000" stop="20250216220000 +0000" channel="ATN">
+        <title>Music Lounge</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+        <title>Ronggila Shohor</title>
+    </programme>
+    <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="ATN">
+        <title>Taka</title>
     </programme>
     <programme start="20250215223000 +0000" stop="20250215230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
