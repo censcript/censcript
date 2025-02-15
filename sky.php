@@ -13203,20 +13203,32 @@
     <programme start="20250215050000 +0000" stop="20250215060000 +0000" channel="SkySp Tennis HD">
         <title>ATP Final: Rotterdam</title>
     </programme>
-    <programme start="20250215060000 +0000" stop="20250215080000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250215060000 +0000" stop="20250215074500 +0000" channel="SkySp Tennis HD">
         <title>Tennis Highlights</title>
     </programme>
-    <programme start="20250215080000 +0000" stop="20250215100000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250215074500 +0000" stop="20250215080000 +0000" channel="SkySp Tennis HD">
+        <title>Bitesize Tennis Classics</title>
+    </programme>
+    <programme start="20250215080000 +0000" stop="20250215093000 +0000" channel="SkySp Tennis HD">
         <title>Tennis Highlights</title>
+    </programme>
+    <programme start="20250215093000 +0000" stop="20250215100000 +0000" channel="SkySp Tennis HD">
+        <title>ATP Tour This Week</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215110000 +0000" channel="SkySp Tennis HD">
         <title>ATP Final: Rotterdam</title>
     </programme>
-    <programme start="20250215110000 +0000" stop="20250215130000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250215110000 +0000" stop="20250215124500 +0000" channel="SkySp Tennis HD">
         <title>Tennis Highlights</title>
     </programme>
-    <programme start="20250215130000 +0000" stop="20250215150000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250215124500 +0000" stop="20250215130000 +0000" channel="SkySp Tennis HD">
+        <title>Bitesize Tennis Classics</title>
+    </programme>
+    <programme start="20250215130000 +0000" stop="20250215143000 +0000" channel="SkySp Tennis HD">
         <title>Tennis Highlights</title>
+    </programme>
+    <programme start="20250215143000 +0000" stop="20250215150000 +0000" channel="SkySp Tennis HD">
+        <title>ATP Tour This Week</title>
     </programme>
     <programme start="20250215150000 +0000" stop="20250215170000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: WTA 1000 Doha Final</title>
