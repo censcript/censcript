@@ -13737,10 +13737,10 @@
     <programme start="20250215104500 +0000" stop="20250215120000 +0000" channel="Eurosport 2 HD">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250215120000 +0000" stop="20250215135500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215120000 +0000" stop="20250215135000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250215135500 +0000" stop="20250215154000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215135000 +0000" stop="20250215154000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
     <programme start="20250215154000 +0000" stop="20250215163000 +0000" channel="Eurosport 2 HD">
@@ -34221,10 +34221,10 @@
     <programme start="20250215104500 +0000" stop="20250215120000 +0000" channel="Eurosport 2">
         <title>Live Cross-Country Skiing: World Cup</title>
     </programme>
-    <programme start="20250215120000 +0000" stop="20250215135500 +0000" channel="Eurosport 2">
+    <programme start="20250215120000 +0000" stop="20250215135000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250215135500 +0000" stop="20250215154000 +0000" channel="Eurosport 2">
+    <programme start="20250215135000 +0000" stop="20250215154000 +0000" channel="Eurosport 2">
         <title>Live Biathlon: World Championships</title>
     </programme>
     <programme start="20250215154000 +0000" stop="20250215163000 +0000" channel="Eurosport 2">
