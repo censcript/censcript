@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250215062000 +0000" stop="20250215084000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Jeju v Seoul</title>
-    </programme>
     <programme start="20250215113000 +0000" stop="20250215145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Arsenal</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
