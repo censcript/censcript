@@ -13725,7 +13725,10 @@
     <programme start="20250215055500 +0000" stop="20250215075500 +0000" channel="Eurosport 2 HD">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250215075500 +0000" stop="20250215081500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250215075500 +0000" stop="20250215080500 +0000" channel="Eurosport 2 HD">
+        <title>This is Eurosport 2 HD</title>
+    </programme>
+    <programme start="20250215080500 +0000" stop="20250215081500 +0000" channel="Eurosport 2 HD">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250215081500 +0000" stop="20250215104500 +0000" channel="Eurosport 2 HD">
@@ -34206,7 +34209,10 @@
     <programme start="20250215055500 +0000" stop="20250215075500 +0000" channel="Eurosport 2">
         <title>Live Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250215075500 +0000" stop="20250215081500 +0000" channel="Eurosport 2">
+    <programme start="20250215075500 +0000" stop="20250215080500 +0000" channel="Eurosport 2">
+        <title>This is Eurosport 2</title>
+    </programme>
+    <programme start="20250215080500 +0000" stop="20250215081500 +0000" channel="Eurosport 2">
         <title>Winter Sport</title>
     </programme>
     <programme start="20250215081500 +0000" stop="20250215104500 +0000" channel="Eurosport 2">
@@ -36810,14 +36816,17 @@
     <programme start="20250215143500 +0000" stop="20250215162500 +0000" channel="BBC Two Wal HD">
         <title>Mr Malcolm's List</title>
     </programme>
-    <programme start="20250215162500 +0000" stop="20250215170000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250215162500 +0000" stop="20250215164500 +0000" channel="BBC Two Wal HD">
+        <title>Mr Malcolm's List</title>
+    </programme>
+    <programme start="20250215164500 +0000" stop="20250215170000 +0000" channel="BBC Two Wal HD">
         <title>Flog It!</title>
     </programme>
     <programme start="20250215170000 +0000" stop="20250215173000 +0000" channel="BBC Two Wal HD">
-        <title>Extraordinary Portraits with Bill Bailey</title>
+        <title>Robson Green's Weekend Escapes</title>
     </programme>
     <programme start="20250215173000 +0000" stop="20250215180000 +0000" channel="BBC Two Wal HD">
-        <title>Robson Green's Weekend Escapes</title>
+        <title>Richard Osman's House of Games</title>
     </programme>
     <programme start="20250215180000 +0000" stop="20250215190000 +0000" channel="BBC Two Wal HD">
         <title>Gardeners' World</title>
