@@ -12348,9 +12348,6 @@
     <programme start="20250215191500 +0000" stop="20250215201500 +0000" channel="MTV 80s">
         <title>Every UK No.1 Love Song Of The 80s</title>
     </programme>
-    <programme start="20250214140000 +0000" stop="20250214230000 +0000" channel="Clubland TV">
-        <title>Raise The Roof! 1990 to 2020</title>
-    </programme>
     <programme start="20250214230000 +0000" stop="20250215002500 +0000" channel="Clubland TV">
         <title>Clubland's 20 Most Viewed - Ever!</title>
     </programme>
@@ -14833,7 +14830,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250215143000 +0000" stop="20250215150000 +0000" channel="BBC NEWS HD">
-        <title>The Media Show</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250215150000 +0000" stop="20250215153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14848,7 +14845,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250215163000 +0000" stop="20250215170000 +0000" channel="BBC NEWS HD">
-        <title>Saudi and Trans: Eden's Final Message</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250215170000 +0000" stop="20250215180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -37414,7 +37411,7 @@
         <title>Jay London</title>
     </programme>
     <programme start="20250215160000 +0000" stop="20250215190000 +0000" channel="Capital">
-        <title>Sonny Jay</title>
+        <title>Tom Watts</title>
     </programme>
     <programme start="20250215190000 +0000" stop="20250215220000 +0000" channel="Capital">
         <title>Kem Cetinay</title>
