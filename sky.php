@@ -23584,13 +23584,13 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250216180000 +0000" stop="20250216190000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="QVC HD">
         <title>Love Beauty with Elemis</title>
     </programme>
     <programme start="20250216200000 +0000" stop="20250216210000 +0000" channel="QVC HD">
-        <title>Luxury Jewellery</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250216210000 +0000" stop="20250216220000 +0000" channel="QVC HD">
         <title>Cozee Home Spring Bedroom Refresh</title>
@@ -23841,10 +23841,7 @@
     <programme start="20250215230000 +0000" stop="20250216000000 +0000" channel="QVC Style HD">
         <title>The Jewellery Box</title>
     </programme>
-    <programme start="20250216000000 +0000" stop="20250216010000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Denim Shop</title>
-    </programme>
-    <programme start="20250216010000 +0000" stop="20250216020000 +0000" channel="QVC Style HD">
+    <programme start="20250216000000 +0000" stop="20250216020000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Denim Shop</title>
     </programme>
     <programme start="20250216020000 +0000" stop="20250216030000 +0000" channel="QVC Style HD">
@@ -23853,19 +23850,13 @@
     <programme start="20250216030000 +0000" stop="20250216040000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday</title>
     </programme>
-    <programme start="20250216040000 +0000" stop="20250216050000 +0000" channel="QVC Style HD">
-        <title>Kim &amp; Co</title>
-    </programme>
-    <programme start="20250216050000 +0000" stop="20250216060000 +0000" channel="QVC Style HD">
+    <programme start="20250216040000 +0000" stop="20250216060000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250216060000 +0000" stop="20250216070000 +0000" channel="QVC Style HD">
         <title>The Fashion Edit with Caroline</title>
     </programme>
-    <programme start="20250216070000 +0000" stop="20250216080000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Denim Shop</title>
-    </programme>
-    <programme start="20250216080000 +0000" stop="20250216090000 +0000" channel="QVC Style HD">
+    <programme start="20250216070000 +0000" stop="20250216090000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Denim Shop</title>
     </programme>
     <programme start="20250216090000 +0000" stop="20250216100000 +0000" channel="QVC Style HD">
@@ -23880,10 +23871,7 @@
     <programme start="20250216120000 +0000" stop="20250216130000 +0000" channel="QVC Style HD">
         <title>The Fashion Edit with Caroline</title>
     </programme>
-    <programme start="20250216130000 +0000" stop="20250216140000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Denim Shop</title>
-    </programme>
-    <programme start="20250216140000 +0000" stop="20250216150000 +0000" channel="QVC Style HD">
+    <programme start="20250216130000 +0000" stop="20250216150000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Denim Shop</title>
     </programme>
     <programme start="20250216150000 +0000" stop="20250216160000 +0000" channel="QVC Style HD">
@@ -23895,11 +23883,8 @@
     <programme start="20250216170000 +0000" stop="20250216180000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday with Julia</title>
     </programme>
-    <programme start="20250216180000 +0000" stop="20250216190000 +0000" channel="QVC Style HD">
+    <programme start="20250216180000 +0000" stop="20250216200000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Denim Shop</title>
-    </programme>
-    <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
     </programme>
     <programme start="20250216200000 +0000" stop="20250216210000 +0000" channel="QVC Style HD">
         <title>Lara Pearls Collection</title>
@@ -24471,10 +24456,7 @@
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="HobbyMakerHD">
         <title>Studio Light</title>
     </programme>
-    <programme start="20250215220000 +0000" stop="20250215230000 +0000" channel="QVC Extra">
-        <title>Ruth Langsford Denim Shop</title>
-    </programme>
-    <programme start="20250215230000 +0000" stop="20250216000000 +0000" channel="QVC Extra">
+    <programme start="20250215220000 +0000" stop="20250216000000 +0000" channel="QVC Extra">
         <title>Ruth Langsford Denim Shop</title>
     </programme>
     <programme start="20250216000000 +0000" stop="20250216010000 +0000" channel="QVC Extra">
@@ -24508,7 +24490,7 @@
         <title>Feb New Wildlife Friendly Garden</title>
     </programme>
     <programme start="20250216100000 +0000" stop="20250216110000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Spring Home Improvements</title>
     </programme>
     <programme start="20250216110000 +0000" stop="20250216120000 +0000" channel="QVC Extra">
         <title>De Jager Bulbs &amp; Plants</title>
@@ -24520,12 +24502,9 @@
         <title>Practical Gardening Deals</title>
     </programme>
     <programme start="20250216140000 +0000" stop="20250216150000 +0000" channel="QVC Extra">
-        <title>Discover Plants with Michael...</title>
+        <title>Michael Perry's Garden</title>
     </programme>
-    <programme start="20250216150000 +0000" stop="20250216160000 +0000" channel="QVC Extra">
-        <title>Andi Peters' Food Fest</title>
-    </programme>
-    <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="QVC Extra">
+    <programme start="20250216150000 +0000" stop="20250216170000 +0000" channel="QVC Extra">
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250216170000 +0000" stop="20250216180000 +0000" channel="QVC Extra">

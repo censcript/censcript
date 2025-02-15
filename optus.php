@@ -6,7 +6,7 @@
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
-    <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250216045000 +0000" stop="20250216071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Ulsan v Anyang</title>
     </programme>
     <programme start="20250216045500 +0000" stop="20250216071000 +0000" channel="Optus Sport 6.optus">
