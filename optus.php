@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250215145000 +0000" stop="20250215172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
     <programme start="20250215172000 +0000" stop="20250215200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Crystal Palace v Everton</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Chicago Stars v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
 </tv>
