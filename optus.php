@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250215172000 +0000" stop="20250215200000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Crystal Palace v Everton</title>
-    </programme>
     <programme start="20250215200000 +0000" stop="20250215210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
