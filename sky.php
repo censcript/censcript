@@ -36201,11 +36201,17 @@
     <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250215223500 +0000" stop="20250216002500 +0000" channel="BBC Two Wal HD">
-        <title>Songs Inspired by the Movies at the BBC</title>
+    <programme start="20250215190000 +0000" stop="20250215230000 +0000" channel="BBC Two Wal HD">
+        <title>Snooker: Welsh Open 2025</title>
     </programme>
-    <programme start="20250216002500 +0000" stop="20250216012500 +0000" channel="BBC Two Wal HD">
-        <title>...Sings Bond</title>
+    <programme start="20250215230000 +0000" stop="20250215230500 +0000" channel="BBC Two Wal HD">
+        <title>Florida: America's Animal Paradise</title>
+    </programme>
+    <programme start="20250215230500 +0000" stop="20250215233500 +0000" channel="BBC Two Wal HD">
+        <title>Uncanny: Post Mortem</title>
+    </programme>
+    <programme start="20250215233500 +0000" stop="20250216012500 +0000" channel="BBC Two Wal HD">
+        <title>Songs Inspired by the Movies at the BBC</title>
     </programme>
     <programme start="20250216012500 +0000" stop="20250216030500 +0000" channel="BBC Two Wal HD">
         <title>Quo Vadis, Aida?</title>
@@ -36345,7 +36351,10 @@
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="BBC Two NI HD">
         <title>Elizabeth: The Golden Age</title>
     </programme>
-    <programme start="20250215220000 +0000" stop="20250215235500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215190000 +0000" stop="20250215230000 +0000" channel="BBC RB 1 HD">
+        <title>Snooker: Welsh Open</title>
+    </programme>
+    <programme start="20250215230000 +0000" stop="20250215235500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250215235500 +0000" stop="20250216020500 +0000" channel="BBC RB 1 HD">
