@@ -24025,16 +24025,16 @@
         <title>TJC Plus Rewards Weekend with Andrew</title>
     </programme>
     <programme start="20250215020000 +0000" stop="20250215030000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Jo</title>
+        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250215030000 +0000" stop="20250215040000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Jo</title>
+        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250215040000 +0000" stop="20250215050000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Jo</title>
+        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250215050000 +0000" stop="20250215060000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Mukesh &amp; Jo</title>
+        <title>TJC Plus Rewards Weekend with Mukesh &amp; Andrew</title>
     </programme>
     <programme start="20250215060000 +0000" stop="20250215070000 +0000" channel="TJC HD">
         <title>TJC Plus Rewards Weekend with Chloe</title>
@@ -24043,10 +24043,10 @@
         <title>TJC Plus Rewards Weekend with Chloe</title>
     </programme>
     <programme start="20250215080000 +0000" stop="20250215090000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Chloe</title>
+        <title>TJC Plus Rewards Weekend with Kieran &amp; C</title>
     </programme>
     <programme start="20250215090000 +0000" stop="20250215100000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Chloe</title>
+        <title>TJC Plus Rewards Weekend with Kieran &amp; C</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215110000 +0000" channel="TJC HD">
         <title>TJC Plus Rewards Weekend with Vikram &amp; Cris</title>
@@ -24058,7 +24058,7 @@
         <title>TJC Plus Rewards Weekend with Vikram &amp; Cris</title>
     </programme>
     <programme start="20250215130000 +0000" stop="20250215140000 +0000" channel="TJC HD">
-        <title>TJC Plus Rewards Weekend with Vikram &amp; Cris</title>
+        <title>TJC Plus Rewards Weekend with Cris</title>
     </programme>
     <programme start="20250215140000 +0000" stop="20250215150000 +0000" channel="TJC HD">
         <title>TJC Plus Rewards Weekend with Anshu &amp; Kim</title>
@@ -27070,7 +27070,7 @@
         <title>Virtues Of Ahmad</title>
     </programme>
     <programme start="20250215065000 +0000" stop="20250215075000 +0000" channel="MTA1 World HD">
-        <title>USA Dallas Khuddam</title>
+        <title>Bustan-e-Waqfe Nau</title>
     </programme>
     <programme start="20250215075000 +0000" stop="20250215080000 +0000" channel="MTA1 World HD">
         <title>Medical Facts</title>
@@ -27082,10 +27082,10 @@
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250215095000 +0000" stop="20250215100000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
+        <title>Inspirational Talk</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215110000 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya?</title>
+        <title>Inside Ahmadiyya</title>
     </programme>
     <programme start="20250215110000 +0000" stop="20250215113500 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2023</title>
@@ -27103,7 +27103,7 @@
         <title>Virtues Of Ahmad</title>
     </programme>
     <programme start="20250215125000 +0000" stop="20250215130000 +0000" channel="MTA1 World HD">
-        <title>MTA Travel</title>
+        <title>Khanpur Dam Lake</title>
     </programme>
     <programme start="20250215130000 +0000" stop="20250215140500 +0000" channel="MTA1 World HD">
         <title>Live Intikhab-e-Sukhan</title>
@@ -27115,7 +27115,7 @@
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250215153000 +0000" stop="20250215154000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
+        <title>Inspirational Talk</title>
     </programme>
     <programme start="20250215154000 +0000" stop="20250215160500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
@@ -27126,10 +27126,10 @@
     <programme start="20250215162000 +0000" stop="20250215163000 +0000" channel="MTA1 World HD">
         <title>Medical Facts</title>
     </programme>
-    <programme start="20250215163000 +0000" stop="20250215173500 +0000" channel="MTA1 World HD">
+    <programme start="20250215163000 +0000" stop="20250215173000 +0000" channel="MTA1 World HD">
         <title>Live Rah-e-Huda</title>
     </programme>
-    <programme start="20250215173500 +0000" stop="20250215180000 +0000" channel="MTA1 World HD">
+    <programme start="20250215173000 +0000" stop="20250215180000 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
     <programme start="20250215180000 +0000" stop="20250215182000 +0000" channel="MTA1 World HD">
@@ -27142,7 +27142,7 @@
         <title>Live Arabic Service</title>
     </programme>
     <programme start="20250215201000 +0000" stop="20250215211000 +0000" channel="MTA1 World HD">
-        <title>USA Dallas Khuddam</title>
+        <title>Bustan-e-Waqfe Nau</title>
     </programme>
     <programme start="20250215211000 +0000" stop="20250215220000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
@@ -27157,7 +27157,7 @@
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250215235000 +0000" stop="20250216005000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
+        <title>Khanpur Dam Lake</title>
     </programme>
     <programme start="20250214220000 +0000" stop="20250214230000 +0000" channel="HUM Masala">
         <title>Food Diaries</title>
@@ -30502,7 +30502,7 @@
         <title>Forty Hadiths</title>
     </programme>
     <programme start="20250215090000 +0000" stop="20250215100000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Islam Ebong Shomadhan</title>
     </programme>
     <programme start="20250215100000 +0000" stop="20250215103000 +0000" channel="iON TV">
         <title>iON News Time</title>
