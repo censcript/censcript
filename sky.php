@@ -13458,10 +13458,10 @@
     <programme start="20250216104500 +0000" stop="20250216120000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250216120000 +0000" stop="20250216135500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250216120000 +0000" stop="20250216135000 +0000" channel="Eurosport 2 HD">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250216135500 +0000" stop="20250216151000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250216135000 +0000" stop="20250216151000 +0000" channel="Eurosport 2 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
     <programme start="20250216151000 +0000" stop="20250216153000 +0000" channel="Eurosport 2 HD">
@@ -33690,10 +33690,10 @@
     <programme start="20250216104500 +0000" stop="20250216120000 +0000" channel="Eurosport 2">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250216120000 +0000" stop="20250216135500 +0000" channel="Eurosport 2">
+    <programme start="20250216120000 +0000" stop="20250216135000 +0000" channel="Eurosport 2">
         <title>Live Alpine Skiing: World Championships</title>
     </programme>
-    <programme start="20250216135500 +0000" stop="20250216151000 +0000" channel="Eurosport 2">
+    <programme start="20250216135000 +0000" stop="20250216151000 +0000" channel="Eurosport 2">
         <title>Live Biathlon: World Championships</title>
     </programme>
     <programme start="20250216151000 +0000" stop="20250216153000 +0000" channel="Eurosport 2">
@@ -37961,9 +37961,6 @@
     </programme>
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="TWR">
         <title>TWR Focus</title>
-    </programme>
-    <programme start="20250215130000 +0000" stop="20250216090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250216090000 +0000" stop="20250216093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
