@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250216072000 +0000" stop="20250216094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Daegu v Gangwon</title>
-    </programme>
     <programme start="20250216115500 +0000" stop="20250216141000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Manchester United v Crystal Palace</title>
     </programme>

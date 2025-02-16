@@ -14076,34 +14076,34 @@
     <programme start="20250216090000 +0000" stop="20250216113000 +0000" channel="Racing TV">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250216113000 +0000" stop="20250216131500 +0000" channel="Racing TV">
+    <programme start="20250216113000 +0000" stop="20250216133000 +0000" channel="Racing TV">
         <title>Racing Greats: Ruby Walsh</title>
     </programme>
-    <programme start="20250216131500 +0000" stop="20250216134500 +0000" channel="Racing TV">
+    <programme start="20250216133000 +0000" stop="20250216140000 +0000" channel="Racing TV">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250216134500 +0000" stop="20250216173000 +0000" channel="Racing TV">
+    <programme start="20250216140000 +0000" stop="20250216171500 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250216173000 +0000" stop="20250216183000 +0000" channel="Racing TV">
+    <programme start="20250216171500 +0000" stop="20250216181500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216183000 +0000" stop="20250216193000 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250216193000 +0000" stop="20250216203000 +0000" channel="Racing TV">
+    <programme start="20250216181500 +0000" stop="20250216191500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216203000 +0000" stop="20250216213000 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250216213000 +0000" stop="20250216223000 +0000" channel="Racing TV">
+    <programme start="20250216191500 +0000" stop="20250216201500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
+    <programme start="20250216201500 +0000" stop="20250216211500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
     </programme>
-    <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="Racing TV">
+    <programme start="20250216211500 +0000" stop="20250216221500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250216221500 +0000" stop="20250216231500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250216231500 +0000" stop="20250217001500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250215180000 +0000" stop="20250216000000 +0000" channel="TNTSBoxOffHD">
@@ -28347,13 +28347,13 @@
     <programme start="20250216083000 +0000" stop="20250216090500 +0000" channel="Eman Channel">
         <title>Scrap Book Island</title>
     </programme>
-    <programme start="20250216090500 +0000" stop="20250216100500 +0000" channel="Eman Channel">
+    <programme start="20250216090500 +0000" stop="20250216100000 +0000" channel="Eman Channel">
         <title>MTV Supercharge</title>
     </programme>
-    <programme start="20250216100500 +0000" stop="20250216102000 +0000" channel="Eman Channel">
+    <programme start="20250216100000 +0000" stop="20250216101500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250216102000 +0000" stop="20250216104500 +0000" channel="Eman Channel">
+    <programme start="20250216101500 +0000" stop="20250216104500 +0000" channel="Eman Channel">
         <title>The Recipe Book</title>
     </programme>
     <programme start="20250216104500 +0000" stop="20250216110000 +0000" channel="Eman Channel">
@@ -28374,10 +28374,10 @@
     <programme start="20250216122000 +0000" stop="20250216122400 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250216122400 +0000" stop="20250216124400 +0000" channel="Eman Channel">
+    <programme start="20250216122400 +0000" stop="20250216125300 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250216124400 +0000" stop="20250216130000 +0000" channel="Eman Channel">
+    <programme start="20250216125300 +0000" stop="20250216130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250216130000 +0000" stop="20250216140000 +0000" channel="Eman Channel">
@@ -28392,10 +28392,10 @@
     <programme start="20250216144500 +0000" stop="20250216144800 +0000" channel="Eman Channel">
         <title>Keys to Success</title>
     </programme>
-    <programme start="20250216144800 +0000" stop="20250216145200 +0000" channel="Eman Channel">
+    <programme start="20250216144800 +0000" stop="20250216145400 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250216145200 +0000" stop="20250216150500 +0000" channel="Eman Channel">
+    <programme start="20250216145400 +0000" stop="20250216150500 +0000" channel="Eman Channel">
         <title>Keys to Success</title>
     </programme>
     <programme start="20250216150500 +0000" stop="20250216153500 +0000" channel="Eman Channel">
@@ -34026,34 +34026,34 @@
     <programme start="20250216090000 +0000" stop="20250216113000 +0000" channel="Racing TV HD">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250216113000 +0000" stop="20250216131500 +0000" channel="Racing TV HD">
+    <programme start="20250216113000 +0000" stop="20250216133000 +0000" channel="Racing TV HD">
         <title>Racing Greats: Ruby Walsh</title>
     </programme>
-    <programme start="20250216131500 +0000" stop="20250216134500 +0000" channel="Racing TV HD">
+    <programme start="20250216133000 +0000" stop="20250216140000 +0000" channel="Racing TV HD">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250216134500 +0000" stop="20250216173000 +0000" channel="Racing TV HD">
+    <programme start="20250216140000 +0000" stop="20250216171500 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250216173000 +0000" stop="20250216183000 +0000" channel="Racing TV HD">
+    <programme start="20250216171500 +0000" stop="20250216181500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216183000 +0000" stop="20250216193000 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250216193000 +0000" stop="20250216203000 +0000" channel="Racing TV HD">
+    <programme start="20250216181500 +0000" stop="20250216191500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216203000 +0000" stop="20250216213000 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250216213000 +0000" stop="20250216223000 +0000" channel="Racing TV HD">
+    <programme start="20250216191500 +0000" stop="20250216201500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
+    <programme start="20250216201500 +0000" stop="20250216211500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
     </programme>
-    <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="Racing TV HD">
+    <programme start="20250216211500 +0000" stop="20250216221500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250216221500 +0000" stop="20250216231500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250216231500 +0000" stop="20250217001500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250215223000 +0000" stop="20250215230000 +0000" channel="Sky News">
