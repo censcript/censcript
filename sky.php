@@ -13353,17 +13353,14 @@
     <programme start="20250215184500 +0000" stop="20250215232500 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250215232500 +0000" stop="20250216000000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250215232500 +0000" stop="20250216005500 +0000" channel="Eurosport 1 HD">
         <title>Equestrianism: League of Nations</title>
     </programme>
-    <programme start="20250216000000 +0000" stop="20250216003000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250216005500 +0000" stop="20250216013000 +0000" channel="Eurosport 1 HD">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
-    <programme start="20250216003000 +0000" stop="20250216010000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250216013000 +0000" stop="20250216020000 +0000" channel="Eurosport 1 HD">
         <title>Cyclo-Cross: Exact Cross</title>
-    </programme>
-    <programme start="20250216010000 +0000" stop="20250216020000 +0000" channel="Eurosport 1 HD">
-        <title>Cycling: Tour of Murcia</title>
     </programme>
     <programme start="20250216020000 +0000" stop="20250216040000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: Welsh Open</title>
@@ -29419,7 +29416,7 @@
         <title>Film - Babbe Bhangra Paunde Ne</title>
     </programme>
     <programme start="20250215223000 +0000" stop="20250216000000 +0000" channel="CHSTV">
-        <title>Buddhiman Gadha</title>
+        <title>Boro Vabi</title>
     </programme>
     <programme start="20250216000000 +0000" stop="20250216010000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
@@ -29428,12 +29425,21 @@
         <title>News at One</title>
     </programme>
     <programme start="20250216013000 +0000" stop="20250216020000 +0000" channel="CHSTV">
-        <title>Community News</title>
+        <title>Islam Keno Shantir Dhormo</title>
     </programme>
-    <programme start="20250216020000 +0000" stop="20250216050000 +0000" channel="CHSTV">
-        <title>Gohin Baluchor</title>
+    <programme start="20250216020000 +0000" stop="20250216040000 +0000" channel="CHSTV">
+        <title>On The Ground</title>
     </programme>
-    <programme start="20250216050000 +0000" stop="20250216060000 +0000" channel="CHSTV">
+    <programme start="20250216040000 +0000" stop="20250216050000 +0000" channel="CHSTV">
+        <title>Batpar Unlimited</title>
+    </programme>
+    <programme start="20250216050000 +0000" stop="20250216053200 +0000" channel="CHSTV">
+        <title>Somoyer Golpo</title>
+    </programme>
+    <programme start="20250216053200 +0000" stop="20250216054000 +0000" channel="CHSTV">
+        <title>Azan-E-Fajr</title>
+    </programme>
+    <programme start="20250216054000 +0000" stop="20250216060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
     <programme start="20250216060000 +0000" stop="20250216060700 +0000" channel="CHSTV">
@@ -29464,18 +29470,27 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250216093000 +0000" stop="20250216110000 +0000" channel="CHSTV">
-        <title>Agdum Bagdum</title>
+        <title>On The Ground</title>
     </programme>
-    <programme start="20250216110000 +0000" stop="20250216120000 +0000" channel="CHSTV">
+    <programme start="20250216110000 +0000" stop="20250216113000 +0000" channel="CHSTV">
         <title>Mohabbat</title>
+    </programme>
+    <programme start="20250216113000 +0000" stop="20250216120000 +0000" channel="CHSTV">
+        <title>The Saturday Show</title>
     </programme>
     <programme start="20250216120000 +0000" stop="20250216121800 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
-    <programme start="20250216121800 +0000" stop="20250216122400 +0000" channel="CHSTV">
+    <programme start="20250216121800 +0000" stop="20250216122000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250216122400 +0000" stop="20250216130000 +0000" channel="CHSTV">
+    <programme start="20250216122000 +0000" stop="20250216122400 +0000" channel="CHSTV">
+        <title>Azan-E-Zuhr</title>
+    </programme>
+    <programme start="20250216122400 +0000" stop="20250216123000 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250216123000 +0000" stop="20250216130000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
     <programme start="20250216130000 +0000" stop="20250216133000 +0000" channel="CHSTV">
@@ -29493,7 +29508,13 @@
     <programme start="20250216145200 +0000" stop="20250216150000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250216150000 +0000" stop="20250216160000 +0000" channel="CHSTV">
+    <programme start="20250216150000 +0000" stop="20250216152800 +0000" channel="CHSTV">
+        <title>Health Talk</title>
+    </programme>
+    <programme start="20250216152800 +0000" stop="20250216153500 +0000" channel="CHSTV">
+        <title>Azan-E-Asar</title>
+    </programme>
+    <programme start="20250216153500 +0000" stop="20250216160000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
     <programme start="20250216160000 +0000" stop="20250216163000 +0000" channel="CHSTV">
@@ -29508,17 +29529,26 @@
     <programme start="20250216164800 +0000" stop="20250216170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250216170000 +0000" stop="20250216180000 +0000" channel="CHSTV">
+    <programme start="20250216170000 +0000" stop="20250216172100 +0000" channel="CHSTV">
+        <title>Tafsir</title>
+    </programme>
+    <programme start="20250216172100 +0000" stop="20250216172700 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250216172700 +0000" stop="20250216180000 +0000" channel="CHSTV">
         <title>Tafsir</title>
     </programme>
     <programme start="20250216180000 +0000" stop="20250216182000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
     <programme start="20250216182000 +0000" stop="20250216183000 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250216183000 +0000" stop="20250216190000 +0000" channel="CHSTV">
         <title>Independent News</title>
+    </programme>
+    <programme start="20250216183000 +0000" stop="20250216185100 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250216185100 +0000" stop="20250216190000 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250216190000 +0000" stop="20250216193000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
@@ -29527,7 +29557,7 @@
         <title>Online Offline</title>
     </programme>
     <programme start="20250216200000 +0000" stop="20250216213000 +0000" channel="CHSTV">
-        <title>Bisonno Sondhar Diary</title>
+        <title>Paliye Biyer Por</title>
     </programme>
     <programme start="20250216213000 +0000" stop="20250216220000 +0000" channel="CHSTV">
         <title>Talash</title>
@@ -29535,8 +29565,11 @@
     <programme start="20250216220000 +0000" stop="20250216223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
-    <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="CHSTV">
-        <title>Dui Diner Duniya</title>
+    <programme start="20250216223000 +0000" stop="20250216230000 +0000" channel="CHSTV">
+        <title>BUPET Management Committee Update</title>
+    </programme>
+    <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="CHSTV">
+        <title>Beiman Bondhu</title>
     </programme>
     <programme start="20250215223000 +0000" stop="20250215230000 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>
@@ -29581,16 +29614,19 @@
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250216123000 +0000" stop="20250216140000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250216140000 +0000" stop="20250216152800 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250216140000 +0000" stop="20250216150000 +0000" channel="IQRA Bangla">
+        <title>Amader Sylhet</title>
+    </programme>
+    <programme start="20250216150000 +0000" stop="20250216152800 +0000" channel="IQRA Bangla">
+        <title>Sister's View</title>
     </programme>
     <programme start="20250216152800 +0000" stop="20250216153300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
     <programme start="20250216153300 +0000" stop="20250216160000 +0000" channel="IQRA Bangla">
-        <title>Al-Khair Feedback</title>
+        <title>Sister's View</title>
     </programme>
     <programme start="20250216160000 +0000" stop="20250216163000 +0000" channel="IQRA Bangla">
         <title>Islam is way of life</title>
@@ -29604,20 +29640,35 @@
     <programme start="20250216172600 +0000" stop="20250216180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250216180000 +0000" stop="20250216185100 +0000" channel="IQRA Bangla">
+    <programme start="20250216180000 +0000" stop="20250216183000 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>
+    </programme>
+    <programme start="20250216183000 +0000" stop="20250216185100 +0000" channel="IQRA Bangla">
+        <title>Moshq-e- Tilawat</title>
     </programme>
     <programme start="20250216185100 +0000" stop="20250216185600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250216185600 +0000" stop="20250216200000 +0000" channel="IQRA Bangla">
+    <programme start="20250216185600 +0000" stop="20250216190000 +0000" channel="IQRA Bangla">
         <title>Sha'ban Appeal</title>
+    </programme>
+    <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="IQRA Bangla">
+        <title>Our Community</title>
     </programme>
     <programme start="20250216200000 +0000" stop="20250216203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250216203000 +0000" stop="20250216213000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250216203000 +0000" stop="20250216210000 +0000" channel="IQRA Bangla">
+        <title>Bed time story</title>
+    </programme>
+    <programme start="20250216210000 +0000" stop="20250216223000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250216223000 +0000" stop="20250216230000 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
+    </programme>
+    <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="IQRA Bangla">
+        <title>Tauhider Shur</title>
     </programme>
     <programme start="20250215223000 +0000" stop="20250215230000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -33570,17 +33621,14 @@
     <programme start="20250215184500 +0000" stop="20250215232500 +0000" channel="Eurosport 1">
         <title>Live Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250215232500 +0000" stop="20250216000000 +0000" channel="Eurosport 1">
+    <programme start="20250215232500 +0000" stop="20250216005500 +0000" channel="Eurosport 1">
         <title>Equestrianism: League of Nations</title>
     </programme>
-    <programme start="20250216000000 +0000" stop="20250216003000 +0000" channel="Eurosport 1">
+    <programme start="20250216005500 +0000" stop="20250216013000 +0000" channel="Eurosport 1">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
-    <programme start="20250216003000 +0000" stop="20250216010000 +0000" channel="Eurosport 1">
+    <programme start="20250216013000 +0000" stop="20250216020000 +0000" channel="Eurosport 1">
         <title>Cyclo-Cross: Exact Cross</title>
-    </programme>
-    <programme start="20250216010000 +0000" stop="20250216020000 +0000" channel="Eurosport 1">
-        <title>Cycling: Tour of Murcia</title>
     </programme>
     <programme start="20250216020000 +0000" stop="20250216040000 +0000" channel="Eurosport 1">
         <title>Snooker: Welsh Open</title>
@@ -36204,19 +36252,19 @@
     <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250215190000 +0000" stop="20250215231500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250215190000 +0000" stop="20250215232000 +0000" channel="BBC Two Wal HD">
         <title>Snooker: Welsh Open 2025</title>
     </programme>
-    <programme start="20250215231500 +0000" stop="20250215232000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250215232000 +0000" stop="20250215232500 +0000" channel="BBC Two Wal HD">
         <title>Florida: America's Animal Paradise</title>
     </programme>
-    <programme start="20250215232000 +0000" stop="20250215235000 +0000" channel="BBC Two Wal HD">
-        <title>Uncanny: Post Mortem</title>
+    <programme start="20250215232500 +0000" stop="20250216002500 +0000" channel="BBC Two Wal HD">
+        <title>Movie Themes at the BBC: Volume 2</title>
     </programme>
-    <programme start="20250215235000 +0000" stop="20250216014000 +0000" channel="BBC Two Wal HD">
-        <title>Songs Inspired by the Movies at the BBC</title>
+    <programme start="20250216002500 +0000" stop="20250216012500 +0000" channel="BBC Two Wal HD">
+        <title>...Sings Bond</title>
     </programme>
-    <programme start="20250216014000 +0000" stop="20250216030500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250216012500 +0000" stop="20250216030500 +0000" channel="BBC Two Wal HD">
         <title>Quo Vadis, Aida?</title>
     </programme>
     <programme start="20250216030500 +0000" stop="20250216040500 +0000" channel="BBC Two Wal HD">
@@ -36354,10 +36402,10 @@
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="BBC Two NI HD">
         <title>Elizabeth: The Golden Age</title>
     </programme>
-    <programme start="20250215190000 +0000" stop="20250215231500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215190000 +0000" stop="20250215232000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: Welsh Open</title>
     </programme>
-    <programme start="20250215231500 +0000" stop="20250215235500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250215232000 +0000" stop="20250215235500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250215235500 +0000" stop="20250216020500 +0000" channel="BBC RB 1 HD">
