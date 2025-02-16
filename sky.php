@@ -14458,7 +14458,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250216113000 +0000" stop="20250216120000 +0000" channel="BBC NEWS HD">
-        <title>The President's Path</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250216120000 +0000" stop="20250216123000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14476,7 +14476,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250216143000 +0000" stop="20250216150000 +0000" channel="BBC NEWS HD">
-        <title>World Questions</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250216150000 +0000" stop="20250216153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
