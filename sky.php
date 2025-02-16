@@ -14077,7 +14077,7 @@
         <title>Luck on Sunday</title>
     </programme>
     <programme start="20250216113000 +0000" stop="20250216133000 +0000" channel="Racing TV">
-        <title>Racing Greats: Ruby Walsh</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250216133000 +0000" stop="20250216140000 +0000" channel="Racing TV">
         <title>Mark Your Card</title>
@@ -34027,7 +34027,7 @@
         <title>Luck on Sunday</title>
     </programme>
     <programme start="20250216113000 +0000" stop="20250216133000 +0000" channel="Racing TV HD">
-        <title>Racing Greats: Ruby Walsh</title>
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250216133000 +0000" stop="20250216140000 +0000" channel="Racing TV HD">
         <title>Mark Your Card</title>
