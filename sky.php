@@ -29442,13 +29442,7 @@
     <programme start="20250216054000 +0000" stop="20250216060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
-    <programme start="20250216060000 +0000" stop="20250216060700 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250216060700 +0000" stop="20250216061300 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250216061300 +0000" stop="20250216063000 +0000" channel="CHSTV">
+    <programme start="20250216060000 +0000" stop="20250216063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250216063000 +0000" stop="20250216070000 +0000" channel="CHSTV">
@@ -29469,32 +29463,17 @@
     <programme start="20250216090000 +0000" stop="20250216093000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250216093000 +0000" stop="20250216110000 +0000" channel="CHSTV">
+    <programme start="20250216093000 +0000" stop="20250216113000 +0000" channel="CHSTV">
         <title>On The Ground</title>
     </programme>
-    <programme start="20250216110000 +0000" stop="20250216113000 +0000" channel="CHSTV">
-        <title>Mohabbat</title>
-    </programme>
-    <programme start="20250216113000 +0000" stop="20250216120000 +0000" channel="CHSTV">
+    <programme start="20250216113000 +0000" stop="20250216122000 +0000" channel="CHSTV">
         <title>The Saturday Show</title>
     </programme>
-    <programme start="20250216120000 +0000" stop="20250216121800 +0000" channel="CHSTV">
-        <title>Seerat</title>
-    </programme>
-    <programme start="20250216121800 +0000" stop="20250216122000 +0000" channel="CHSTV">
+    <programme start="20250216122000 +0000" stop="20250216123000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250216122000 +0000" stop="20250216122400 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250216122400 +0000" stop="20250216123000 +0000" channel="CHSTV">
+    <programme start="20250216123000 +0000" stop="20250216133000 +0000" channel="CHSTV">
         <title>Seerat</title>
-    </programme>
-    <programme start="20250216123000 +0000" stop="20250216130000 +0000" channel="CHSTV">
-        <title>Seerat</title>
-    </programme>
-    <programme start="20250216130000 +0000" stop="20250216133000 +0000" channel="CHSTV">
-        <title>Amader Gram</title>
     </programme>
     <programme start="20250216133000 +0000" stop="20250216140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
@@ -29502,11 +29481,8 @@
     <programme start="20250216140000 +0000" stop="20250216143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250216143000 +0000" stop="20250216145200 +0000" channel="CHSTV">
+    <programme start="20250216143000 +0000" stop="20250216150000 +0000" channel="CHSTV">
         <title>Online Offline</title>
-    </programme>
-    <programme start="20250216145200 +0000" stop="20250216150000 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
     </programme>
     <programme start="20250216150000 +0000" stop="20250216152800 +0000" channel="CHSTV">
         <title>Health Talk</title>
@@ -29520,13 +29496,7 @@
     <programme start="20250216160000 +0000" stop="20250216163000 +0000" channel="CHSTV">
         <title>Community News</title>
     </programme>
-    <programme start="20250216163000 +0000" stop="20250216164300 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
-    </programme>
-    <programme start="20250216164300 +0000" stop="20250216164800 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
-    </programme>
-    <programme start="20250216164800 +0000" stop="20250216170000 +0000" channel="CHSTV">
+    <programme start="20250216163000 +0000" stop="20250216170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
     <programme start="20250216170000 +0000" stop="20250216172100 +0000" channel="CHSTV">
@@ -29541,10 +29511,7 @@
     <programme start="20250216180000 +0000" stop="20250216182000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250216182000 +0000" stop="20250216183000 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250216183000 +0000" stop="20250216185100 +0000" channel="CHSTV">
+    <programme start="20250216182000 +0000" stop="20250216185100 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
     <programme start="20250216185100 +0000" stop="20250216190000 +0000" channel="CHSTV">
@@ -29646,11 +29613,8 @@
     <programme start="20250216183000 +0000" stop="20250216185100 +0000" channel="IQRA Bangla">
         <title>Moshq-e- Tilawat</title>
     </programme>
-    <programme start="20250216185100 +0000" stop="20250216185600 +0000" channel="IQRA Bangla">
+    <programme start="20250216185100 +0000" stop="20250216190000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250216185600 +0000" stop="20250216190000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
     </programme>
     <programme start="20250216190000 +0000" stop="20250216200000 +0000" channel="IQRA Bangla">
         <title>Our Community</title>
