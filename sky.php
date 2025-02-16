@@ -12964,10 +12964,10 @@
         <title>Live Tennis: WTA 1000 Dubai</title>
     </programme>
     <programme start="20250216143000 +0000" stop="20250216163000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: ATP Marseille Final</title>
+        <title>Live Tennis: WTA 1000 Dubai</title>
     </programme>
     <programme start="20250216163000 +0000" stop="20250216183000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: WTA 1000 Dubai</title>
+        <title>WTA Dubai: Raducanu v Sakkari</title>
     </programme>
     <programme start="20250216183000 +0000" stop="20250216190000 +0000" channel="SkySp Tennis HD">
         <title>ATP Tour This Week</title>
@@ -28905,14 +28905,14 @@
     <programme start="20250216140000 +0000" stop="20250216150000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250216150000 +0000" stop="20250216153000 +0000" channel="Sikh Channel">
+    <programme start="20250216150000 +0000" stop="20250216160000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250216160000 +0000" stop="20250216163000 +0000" channel="Sikh Channel">
         <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
-    <programme start="20250216153000 +0000" stop="20250216160000 +0000" channel="Sikh Channel">
+    <programme start="20250216163000 +0000" stop="20250216170000 +0000" channel="Sikh Channel">
         <title>Anand Karaj</title>
-    </programme>
-    <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
     </programme>
     <programme start="20250216170000 +0000" stop="20250216183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -28932,11 +28932,11 @@
     <programme start="20250216210000 +0000" stop="20250216213000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250216213000 +0000" stop="20250216220000 +0000" channel="Sikh Channel">
-        <title>Current Affairs</title>
+    <programme start="20250216213000 +0000" stop="20250216223000 +0000" channel="Sikh Channel">
+        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
+    <programme start="20250216223000 +0000" stop="20250216230000 +0000" channel="Sikh Channel">
+        <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
