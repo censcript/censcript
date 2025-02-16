@@ -14586,49 +14586,49 @@
     <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="LFCTV HD">
         <title>Rush Scored Four</title>
     </programme>
-    <programme start="20250216221500 +0000" stop="20250216231500 +0000" channel="Racing TV">
+    <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216231500 +0000" stop="20250217001500 +0000" channel="Racing TV">
+    <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217001500 +0000" stop="20250217011500 +0000" channel="Racing TV">
+    <programme start="20250217003000 +0000" stop="20250217013000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217011500 +0000" stop="20250217021500 +0000" channel="Racing TV">
+    <programme start="20250217013000 +0000" stop="20250217023000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217021500 +0000" stop="20250217031500 +0000" channel="Racing TV">
+    <programme start="20250217023000 +0000" stop="20250217033000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217031500 +0000" stop="20250217041500 +0000" channel="Racing TV">
+    <programme start="20250217033000 +0000" stop="20250217043000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217041500 +0000" stop="20250217051500 +0000" channel="Racing TV">
+    <programme start="20250217043000 +0000" stop="20250217053000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217051500 +0000" stop="20250217061500 +0000" channel="Racing TV">
+    <programme start="20250217053000 +0000" stop="20250217063000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217061500 +0000" stop="20250217071500 +0000" channel="Racing TV">
+    <programme start="20250217063000 +0000" stop="20250217073000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217071500 +0000" stop="20250217081500 +0000" channel="Racing TV">
+    <programme start="20250217073000 +0000" stop="20250217083000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217081500 +0000" stop="20250217091500 +0000" channel="Racing TV">
+    <programme start="20250217083000 +0000" stop="20250217093000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217091500 +0000" stop="20250217101500 +0000" channel="Racing TV">
+    <programme start="20250217093000 +0000" stop="20250217103000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217101500 +0000" stop="20250217111500 +0000" channel="Racing TV">
+    <programme start="20250217103000 +0000" stop="20250217113000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217111500 +0000" stop="20250217121500 +0000" channel="Racing TV">
+    <programme start="20250217113000 +0000" stop="20250217123000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217121500 +0000" stop="20250217124500 +0000" channel="Racing TV">
+    <programme start="20250217123000 +0000" stop="20250217124500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250217124500 +0000" stop="20250217131500 +0000" channel="Racing TV">
@@ -35100,49 +35100,49 @@
     <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="TNTSports4 HD">
         <title>NBA On Fire</title>
     </programme>
-    <programme start="20250216221500 +0000" stop="20250216231500 +0000" channel="Racing TV HD">
+    <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250216231500 +0000" stop="20250217001500 +0000" channel="Racing TV HD">
+    <programme start="20250216233000 +0000" stop="20250217003000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217001500 +0000" stop="20250217011500 +0000" channel="Racing TV HD">
+    <programme start="20250217003000 +0000" stop="20250217013000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217011500 +0000" stop="20250217021500 +0000" channel="Racing TV HD">
+    <programme start="20250217013000 +0000" stop="20250217023000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217021500 +0000" stop="20250217031500 +0000" channel="Racing TV HD">
+    <programme start="20250217023000 +0000" stop="20250217033000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217031500 +0000" stop="20250217041500 +0000" channel="Racing TV HD">
+    <programme start="20250217033000 +0000" stop="20250217043000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217041500 +0000" stop="20250217051500 +0000" channel="Racing TV HD">
+    <programme start="20250217043000 +0000" stop="20250217053000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217051500 +0000" stop="20250217061500 +0000" channel="Racing TV HD">
+    <programme start="20250217053000 +0000" stop="20250217063000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217061500 +0000" stop="20250217071500 +0000" channel="Racing TV HD">
+    <programme start="20250217063000 +0000" stop="20250217073000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217071500 +0000" stop="20250217081500 +0000" channel="Racing TV HD">
+    <programme start="20250217073000 +0000" stop="20250217083000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217081500 +0000" stop="20250217091500 +0000" channel="Racing TV HD">
+    <programme start="20250217083000 +0000" stop="20250217093000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217091500 +0000" stop="20250217101500 +0000" channel="Racing TV HD">
+    <programme start="20250217093000 +0000" stop="20250217103000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217101500 +0000" stop="20250217111500 +0000" channel="Racing TV HD">
+    <programme start="20250217103000 +0000" stop="20250217113000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217111500 +0000" stop="20250217121500 +0000" channel="Racing TV HD">
+    <programme start="20250217113000 +0000" stop="20250217123000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217121500 +0000" stop="20250217124500 +0000" channel="Racing TV HD">
+    <programme start="20250217123000 +0000" stop="20250217124500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250217124500 +0000" stop="20250217131500 +0000" channel="Racing TV HD">
