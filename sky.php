@@ -29841,10 +29841,10 @@
     <programme start="20250217090000 +0000" stop="20250217093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250217093000 +0000" stop="20250217094500 +0000" channel="Kanshi TV">
+    <programme start="20250217093000 +0000" stop="20250217100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250217094500 +0000" stop="20250217110000 +0000" channel="Kanshi TV">
+    <programme start="20250217100000 +0000" stop="20250217110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250217110000 +0000" stop="20250217123000 +0000" channel="Kanshi TV">
@@ -29856,20 +29856,14 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="Kanshi TV">
         <title>Health Show with Dr Wali</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Cooking Show</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="Kanshi TV">
-        <title>Kaum de Heere</title>
+    <programme start="20250217140000 +0000" stop="20250217150000 +0000" channel="Kanshi TV">
+        <title>Music Time</title>
     </programme>
     <programme start="20250217150000 +0000" stop="20250217160000 +0000" channel="Kanshi TV">
         <title>Gallan Baatan with Asha Mall</title>
     </programme>
-    <programme start="20250217160000 +0000" stop="20250217163000 +0000" channel="Kanshi TV">
+    <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
-    </programme>
-    <programme start="20250217163000 +0000" stop="20250217170000 +0000" channel="Kanshi TV">
-        <title>Music Gup Shup</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="Kanshi TV">
         <title>Soch Da Safar</title>
