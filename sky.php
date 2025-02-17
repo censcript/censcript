@@ -36105,14 +36105,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One NE HD">
         <title>BBC News at One including Look...</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One NE HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One NE HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One NE HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One NE HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One NE HD">
         <title>Antiques Road Trip</title>
@@ -36192,14 +36186,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One NW HD">
         <title>BBC News at One including North West Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One NW HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One NW HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One NW HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One NW HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One NW HD">
         <title>Antiques Road Trip</title>
@@ -36279,14 +36267,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One Yks HD">
         <title>BBC News at One including Look North (Yorkshire)</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One Yks HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One Yks HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One Yks HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One Yks HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One Yks HD">
         <title>Antiques Road Trip</title>
@@ -36366,13 +36348,10 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News at One including Look...</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250217140000 +0000" stop="20250217145500 +0000" channel="BBC One Y&amp;L HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One Y&amp;L HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One Y&amp;L HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One Y&amp;L HD">
@@ -36453,14 +36432,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One WM HD">
         <title>BBC News at One including Midlands Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One WM HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One WM HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One WM HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One WM HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One WM HD">
         <title>Antiques Road Trip</title>
@@ -36540,13 +36513,13 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One EMidHD">
         <title>BBC News at One including East Midlands Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One EMidHD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One EMidHD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One EMidHD">
+    <programme start="20250217142500 +0000" stop="20250217145500 +0000" channel="BBC One EMidHD">
         <title>Rick Stein's Food Stories</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One EMidHD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One EMidHD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One EMidHD">
@@ -36627,14 +36600,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One EastHD">
         <title>BBC News at One including Look East</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One EastHD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One EastHD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One EastHD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One EastHD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One EastHD">
         <title>Antiques Road Trip</title>
@@ -36714,14 +36681,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One SE HD">
         <title>BBC News at One including South East Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One SE HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One SE HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One SE HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One SE HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One SE HD">
         <title>Antiques Road Trip</title>
@@ -36801,14 +36762,11 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One Wst HD">
         <title>BBC News at One including Points West</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One Wst HD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One Wst HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One Wst HD">
+    <programme start="20250217142500 +0000" stop="20250217154500 +0000" channel="BBC One Wst HD">
         <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One Wst HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One Wst HD">
         <title>Antiques Road Trip</title>
@@ -36888,13 +36846,13 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One Sth HD">
         <title>BBC News at One including South Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One Sth HD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One Sth HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One Sth HD">
+    <programme start="20250217142500 +0000" stop="20250217145500 +0000" channel="BBC One Sth HD">
         <title>Rick Stein's Food Stories</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One Sth HD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One Sth HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One Sth HD">
@@ -36975,14 +36933,8 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One SW HD">
         <title>BBC News at One including Spotlight</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One SW HD">
+    <programme start="20250217140000 +0000" stop="20250217154500 +0000" channel="BBC One SW HD">
         <title>The Big Idea Works</title>
-    </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One SW HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One SW HD">
-        <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One SW HD">
         <title>Antiques Road Trip</title>
@@ -37062,13 +37014,10 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One CI HD">
         <title>BBC News at One including Spotlight</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One CI HD">
+    <programme start="20250217140000 +0000" stop="20250217145500 +0000" channel="BBC One CI HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One CI HD">
-        <title>Rick Stein's Food Stories</title>
-    </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One CI HD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One CI HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One CI HD">
@@ -37149,13 +37098,13 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One ScotHD">
         <title>BBC News at One including Reporting Scotland</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One ScotHD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One ScotHD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One ScotHD">
+    <programme start="20250217142500 +0000" stop="20250217145500 +0000" channel="BBC One ScotHD">
         <title>Rick Stein's Food Stories</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One ScotHD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One ScotHD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One ScotHD">
@@ -37239,13 +37188,13 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One Wal HD">
         <title>BBC News at One including Wales Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One Wal HD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One Wal HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One Wal HD">
+    <programme start="20250217142500 +0000" stop="20250217145500 +0000" channel="BBC One Wal HD">
         <title>Rick Stein's Food Stories</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One Wal HD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One Wal HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One Wal HD">
@@ -37326,13 +37275,13 @@
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="BBC One NI HD">
         <title>BBC News at One including BBC Newsline</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="BBC One NI HD">
+    <programme start="20250217140000 +0000" stop="20250217142500 +0000" channel="BBC One NI HD">
         <title>The Big Idea Works</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="BBC One NI HD">
+    <programme start="20250217142500 +0000" stop="20250217145500 +0000" channel="BBC One NI HD">
         <title>Rick Stein's Food Stories</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217154500 +0000" channel="BBC One NI HD">
+    <programme start="20250217145500 +0000" stop="20250217154500 +0000" channel="BBC One NI HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250217154500 +0000" stop="20250217163000 +0000" channel="BBC One NI HD">
