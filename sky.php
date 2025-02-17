@@ -1708,7 +1708,7 @@
         <title>Gordon Ramsay's Food Stars USA</title>
     </programme>
     <programme start="20250217210000 +0000" stop="20250217223500 +0000" channel="ITV2 HD">
-        <title>New: Love Island: All Stars - The Live Final</title>
+        <title>New: Love Island All Stars: The Live Final</title>
     </programme>
     <programme start="20250217223500 +0000" stop="20250217230500 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
@@ -8173,7 +8173,7 @@
         <title>New: Utopia</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230500 +0000" channel="ITV2+1">
-        <title>New: Love Island: All Stars</title>
+        <title>New: Love Island All Stars</title>
     </programme>
     <programme start="20250216230500 +0000" stop="20250217000500 +0000" channel="ITV2+1">
         <title>New: Olivia Attwood: Getting Filthy Rich</title>
@@ -8272,7 +8272,7 @@
         <title>Gordon Ramsay's Food Stars USA</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217233500 +0000" channel="ITV2+1">
-        <title>New: Love Island: All Stars - The Live Final</title>
+        <title>New: Love Island All Stars: The Live Final</title>
     </programme>
     <programme start="20250217233500 +0000" stop="20250218003500 +0000" channel="ITV2+1">
         <title>Family Guy</title>
@@ -24475,7 +24475,7 @@
         <title>Fashion on Friday</title>
     </programme>
     <programme start="20250217140000 +0000" stop="20250217150000 +0000" channel="QVC Style HD">
-        <title>Ben de Lisi</title>
+        <title>Ben de Lisi: Fresh Fashion</title>
     </programme>
     <programme start="20250217150000 +0000" stop="20250217160000 +0000" channel="QVC Style HD">
         <title>Diamonique Jewellery</title>
@@ -24484,25 +24484,25 @@
         <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="QVC Style HD">
-        <title>Plants2Gardens</title>
+        <title>New Season Plants2Gardens</title>
     </programme>
     <programme start="20250217180000 +0000" stop="20250217190000 +0000" channel="QVC Style HD">
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250217190000 +0000" stop="20250217200000 +0000" channel="QVC Style HD">
-        <title>Ben de Lisi</title>
+        <title>Ben de Lisi: Fresh Fashion</title>
     </programme>
     <programme start="20250217200000 +0000" stop="20250217210000 +0000" channel="QVC Style HD">
         <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217230000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="QVC Style HD">
-        <title>Frank Usher</title>
+        <title>First 2025 Frank Usher Drop</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -25113,7 +25113,10 @@
     <programme start="20250217140000 +0000" stop="20250217150000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217170000 +0000" channel="QVC Extra">
+    <programme start="20250217150000 +0000" stop="20250217160000 +0000" channel="QVC Extra">
+        <title>Andi Peters' Food Fest</title>
+    </programme>
+    <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="QVC Extra">
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="QVC Extra">
