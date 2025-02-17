@@ -36,10 +36,10 @@
     <programme start="20250221223000 +0000" stop="20250221233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
-    <programme start="20250222045000 +0000" stop="20250222071000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250222045000 +0000" stop="20250222071000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeju v Gimcheon</title>
     </programme>
-    <programme start="20250222045500 +0000" stop="20250222071000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250222045500 +0000" stop="20250222071000 +0000" channel="Optus Sport 12.optus">
         <title>J1 League - Yokohama FC v Fagiano Okayama</title>
     </programme>
     <programme start="20250222055500 +0000" stop="20250222081000 +0000" channel="Optus Sport 8.optus">
@@ -48,7 +48,7 @@
     <programme start="20250222055500 +0000" stop="20250222081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Shonan</title>
     </programme>
-    <programme start="20250222072000 +0000" stop="20250222094000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250222072000 +0000" stop="20250222094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Seoul v Anyang</title>
     </programme>
     <programme start="20250222113000 +0000" stop="20250222145000 +0000" channel="Optus Sport 1.optus">
@@ -57,19 +57,19 @@
     <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Southampton v Brighton</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Ipswich v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 6.optus">
         <title>Premier League - Fulham v Crystal Palace</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Arsenal v West Ham United</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Bournemouth v Wolverhampton Wanderers</title>
     </programme>
     <programme start="20250222172000 +0000" stop="20250222200000 +0000" channel="Optus Sport 1.optus">
@@ -78,13 +78,13 @@
     <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
-    <programme start="20250223045000 +0000" stop="20250223071000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250223045000 +0000" stop="20250223071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daejeon v Ulsan</title>
     </programme>
-    <programme start="20250223045500 +0000" stop="20250223071000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250223045500 +0000" stop="20250223071000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Sanfrecce v Yokohama FM</title>
     </programme>
-    <programme start="20250223072000 +0000" stop="20250223094000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250223072000 +0000" stop="20250223094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeonbuk v Gwangju</title>
     </programme>
     <programme start="20250223130000 +0000" stop="20250223162000 +0000" channel="Optus Sport 1.optus">
@@ -117,16 +117,16 @@
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Yokohama FM v Yokohama FC</title>
     </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Machida v Tokyo Verdy</title>
     </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Cerezo</title>
     </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Avispa v Kawasaki</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="Optus Sport 11.optus">
