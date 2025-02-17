@@ -1708,7 +1708,7 @@
         <title>Gordon Ramsay's Food Stars USA</title>
     </programme>
     <programme start="20250217210000 +0000" stop="20250217223500 +0000" channel="ITV2 HD">
-        <title>New: Love Island: All Stars: The Live Final</title>
+        <title>New: Love Island: All Stars - The Live Final</title>
     </programme>
     <programme start="20250217223500 +0000" stop="20250217230500 +0000" channel="ITV2 HD">
         <title>Family Guy</title>
@@ -8272,7 +8272,7 @@
         <title>Gordon Ramsay's Food Stars USA</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217233500 +0000" channel="ITV2+1">
-        <title>New: Love Island: All Stars: The Live Final</title>
+        <title>New: Love Island: All Stars - The Live Final</title>
     </programme>
     <programme start="20250217233500 +0000" stop="20250218003500 +0000" channel="ITV2+1">
         <title>Family Guy</title>
@@ -13977,10 +13977,10 @@
     <programme start="20250217095500 +0000" stop="20250217105000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Almeria Classic</title>
     </programme>
-    <programme start="20250217105000 +0000" stop="20250217124500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250217105000 +0000" stop="20250217130500 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250217124500 +0000" stop="20250217141500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250217130500 +0000" stop="20250217141500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Track European Championships</title>
     </programme>
     <programme start="20250217141500 +0000" stop="20250217163000 +0000" channel="Eurosport 2 HD">
@@ -25800,52 +25800,52 @@
     <programme start="20250217092300 +0000" stop="20250217095600 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250217095600 +0000" stop="20250217110000 +0000" channel="SONY TV HD">
+    <programme start="20250217095600 +0000" stop="20250217105900 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217110000 +0000" stop="20250217113100 +0000" channel="SONY TV HD">
+    <programme start="20250217105900 +0000" stop="20250217113100 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250217113100 +0000" stop="20250217125900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217125900 +0000" stop="20250217135500 +0000" channel="SONY TV HD">
+    <programme start="20250217125900 +0000" stop="20250217135400 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250217135500 +0000" stop="20250217145400 +0000" channel="SONY TV HD">
+    <programme start="20250217135400 +0000" stop="20250217145400 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
     <programme start="20250217145400 +0000" stop="20250217155400 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250217155400 +0000" stop="20250217162600 +0000" channel="SONY TV HD">
+    <programme start="20250217155400 +0000" stop="20250217162500 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250217162600 +0000" stop="20250217172900 +0000" channel="SONY TV HD">
+    <programme start="20250217162500 +0000" stop="20250217172900 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217172900 +0000" stop="20250217175900 +0000" channel="SONY TV HD">
+    <programme start="20250217172900 +0000" stop="20250217180000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250217175900 +0000" stop="20250217182900 +0000" channel="SONY TV HD">
+    <programme start="20250217180000 +0000" stop="20250217183000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250217182900 +0000" stop="20250217185900 +0000" channel="SONY TV HD">
+    <programme start="20250217183000 +0000" stop="20250217185900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250217185900 +0000" stop="20250217192900 +0000" channel="SONY TV HD">
+    <programme start="20250217185900 +0000" stop="20250217193000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250217192900 +0000" stop="20250217205900 +0000" channel="SONY TV HD">
+    <programme start="20250217193000 +0000" stop="20250217210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217205900 +0000" stop="20250217220800 +0000" channel="SONY TV HD">
+    <programme start="20250217210000 +0000" stop="20250217220100 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217220800 +0000" stop="20250217233600 +0000" channel="SONY TV HD">
+    <programme start="20250217220100 +0000" stop="20250217232900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217233600 +0000" stop="20250218003600 +0000" channel="SONY TV HD">
+    <programme start="20250217232900 +0000" stop="20250218002900 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="Utsav Bharat">
@@ -34749,10 +34749,10 @@
     <programme start="20250217095500 +0000" stop="20250217105000 +0000" channel="Eurosport 2">
         <title>Cycling: Almeria Classic</title>
     </programme>
-    <programme start="20250217105000 +0000" stop="20250217124500 +0000" channel="Eurosport 2">
+    <programme start="20250217105000 +0000" stop="20250217130500 +0000" channel="Eurosport 2">
         <title>Live Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250217124500 +0000" stop="20250217141500 +0000" channel="Eurosport 2">
+    <programme start="20250217130500 +0000" stop="20250217141500 +0000" channel="Eurosport 2">
         <title>Cycling: Track European Championships</title>
     </programme>
     <programme start="20250217141500 +0000" stop="20250217163000 +0000" channel="Eurosport 2">
@@ -35472,52 +35472,52 @@
     <programme start="20250217092300 +0000" stop="20250217095600 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250217095600 +0000" stop="20250217110000 +0000" channel="SONY TV">
+    <programme start="20250217095600 +0000" stop="20250217105900 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217110000 +0000" stop="20250217113100 +0000" channel="SONY TV">
+    <programme start="20250217105900 +0000" stop="20250217113100 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250217113100 +0000" stop="20250217125900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217125900 +0000" stop="20250217135500 +0000" channel="SONY TV">
+    <programme start="20250217125900 +0000" stop="20250217135400 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250217135500 +0000" stop="20250217145400 +0000" channel="SONY TV">
+    <programme start="20250217135400 +0000" stop="20250217145400 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
     <programme start="20250217145400 +0000" stop="20250217155400 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250217155400 +0000" stop="20250217162600 +0000" channel="SONY TV">
+    <programme start="20250217155400 +0000" stop="20250217162500 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250217162600 +0000" stop="20250217172900 +0000" channel="SONY TV">
+    <programme start="20250217162500 +0000" stop="20250217172900 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217172900 +0000" stop="20250217175900 +0000" channel="SONY TV">
+    <programme start="20250217172900 +0000" stop="20250217180000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250217175900 +0000" stop="20250217182900 +0000" channel="SONY TV">
+    <programme start="20250217180000 +0000" stop="20250217183000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250217182900 +0000" stop="20250217185900 +0000" channel="SONY TV">
+    <programme start="20250217183000 +0000" stop="20250217185900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250217185900 +0000" stop="20250217192900 +0000" channel="SONY TV">
+    <programme start="20250217185900 +0000" stop="20250217193000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250217192900 +0000" stop="20250217205900 +0000" channel="SONY TV">
+    <programme start="20250217193000 +0000" stop="20250217210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217205900 +0000" stop="20250217220800 +0000" channel="SONY TV">
+    <programme start="20250217210000 +0000" stop="20250217220100 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250217220800 +0000" stop="20250217233600 +0000" channel="SONY TV">
+    <programme start="20250217220100 +0000" stop="20250217232900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250217233600 +0000" stop="20250218003600 +0000" channel="SONY TV">
+    <programme start="20250217232900 +0000" stop="20250218002900 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250216224500 +0000" stop="20250216231500 +0000" channel="Utsav Plus">
