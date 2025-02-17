@@ -14287,7 +14287,7 @@
         <title>FAC Highlights: v Leicester 24/25 (H)</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="MUTV HD">
-        <title>PL Highlights: v Tottenham 24/25 (A)</title>
+        <title>MUW Highlights: United v Crystal Palac</title>
     </programme>
     <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="MUTV HD">
         <title>FA Youth Cup: Utd v Preston 24/25</title>
@@ -15114,11 +15114,11 @@
     <programme start="20250217144500 +0000" stop="20250217153000 +0000" channel="BBC Parl HD">
         <title>Live Northern Ireland Assembly - Finance Questions</title>
     </programme>
-    <programme start="20250217153000 +0000" stop="20250217180000 +0000" channel="BBC Parl HD">
+    <programme start="20250217153000 +0000" stop="20250217193000 +0000" channel="BBC Parl HD">
         <title>Live Northern Ireland Assembly</title>
     </programme>
-    <programme start="20250217180000 +0000" stop="20250217200000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly</title>
+    <programme start="20250217193000 +0000" stop="20250217200000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Members' Statements</title>
     </programme>
     <programme start="20250217200000 +0000" stop="20250217204500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
@@ -15127,7 +15127,10 @@
         <title>Northern Ireland Assembly - Finance Questions</title>
     </programme>
     <programme start="20250217213000 +0000" stop="20250217223000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly</title>
+        <title>Northern Ireland Assembly -...</title>
+    </programme>
+    <programme start="20250217223000 +0000" stop="20250217233000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Budget Motions, Part 1</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="CNBC HD">
         <title>Asia Squawk Box</title>
@@ -18594,11 +18597,14 @@
     <programme start="20250217110000 +0000" stop="20250217113000 +0000" channel="Faith World TV">
         <title>Through the Bible with Les Feldick</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217123000 +0000" channel="Faith World TV">
+    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="Faith World TV">
         <title>Bring the Nation Back to God</title>
     </programme>
+    <programme start="20250217120000 +0000" stop="20250217123000 +0000" channel="Faith World TV">
+        <title>The Destined for Greatness Show</title>
+    </programme>
     <programme start="20250217123000 +0000" stop="20250217130000 +0000" channel="Faith World TV">
-        <title>Prayer Line Live</title>
+        <title>Bring the Nation Back to God</title>
     </programme>
     <programme start="20250217130000 +0000" stop="20250217133000 +0000" channel="Faith World TV">
         <title>Alleluia Ministry</title>
@@ -18606,8 +18612,11 @@
     <programme start="20250217133000 +0000" stop="20250217140000 +0000" channel="Faith World TV">
         <title>Good News Today</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217150000 +0000" channel="Faith World TV">
-        <title>Faith Flow Podcast with George Bloomer</title>
+    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="Faith World TV">
+        <title>Faith Flow podcast-Rev Rev Rex Akpojaro</title>
+    </programme>
+    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="Faith World TV">
+        <title>Joy Ministries</title>
     </programme>
     <programme start="20250217150000 +0000" stop="20250217160000 +0000" channel="Faith World TV">
         <title>Dr Pauline Long Show</title>
@@ -27801,10 +27810,7 @@
     <programme start="20250217120000 +0000" stop="20250217120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250217120500 +0000" stop="20250217123000 +0000" channel="New Vision TV">
-        <title>News</title>
-    </programme>
-    <programme start="20250217123000 +0000" stop="20250217130000 +0000" channel="New Vision TV">
+    <programme start="20250217120500 +0000" stop="20250217130000 +0000" channel="New Vision TV">
         <title>Sports Room</title>
     </programme>
     <programme start="20250217130000 +0000" stop="20250217130500 +0000" channel="New Vision TV">
@@ -27859,7 +27865,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250217210500 +0000" stop="20250217220000 +0000" channel="New Vision TV">
-        <title>11th Hour with Waseem Badami</title>
+        <title>Har Lamha Purjosh</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -30387,11 +30393,8 @@
     <programme start="20250217203000 +0000" stop="20250217210000 +0000" channel="IQRA Bangla">
         <title>Heal your Heart</title>
     </programme>
-    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="IQRA Bangla">
+    <programme start="20250217210000 +0000" stop="20250217223000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250217220000 +0000" stop="20250217223000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
     </programme>
     <programme start="20250217223000 +0000" stop="20250217233000 +0000" channel="IQRA Bangla">
         <title>Focus Point</title>
