@@ -114,8 +114,17 @@
     <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
+    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Wolverhampton Wanderers v Fulham</title>
+    </programme>
+    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Crystal Palace v Aston Villa</title>
+    </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
+    </programme>
+    <programme start="20250225200500 +0000" stop="20250225222500 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Chelsea v Southampton</title>
     </programme>
     <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Yokohama FM v Yokohama FC</title>
@@ -138,11 +147,29 @@
     <programme start="20250226183000 +0000" stop="20250226230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Thursday Morning</title>
     </programme>
+    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Manchester United v Ipswich</title>
+    </programme>
+    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Tottenham Hotspur v Manchester City</title>
+    </programme>
+    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 6.optus">
+        <title>Premier League - Nottingham Forest v Arsenal</title>
+    </programme>
+    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Brentford v Everton</title>
+    </programme>
     <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
     </programme>
+    <programme start="20250226200500 +0000" stop="20250226222500 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Liverpool v Newcastle United</title>
+    </programme>
     <programme start="20250227133000 +0000" stop="20250227140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Jordan Pickford</title>
+    </programme>
+    <programme start="20250227193000 +0000" stop="20250227223000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - West Ham United v Leicester City</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
