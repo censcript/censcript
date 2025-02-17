@@ -595,34 +595,64 @@
         <title>No Programme available now. Next Broadcast on 23rd February, Sunday 5.50pm. 2024 Singapore Premier League: Tampines Rovers vs Brunei DPMM</title>
     </programme>
     <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+        <title>Now That&#039;s What I Call A Musical!</title>
     </programme>
     <programme start="20250216170000 +0000" stop="20250216180000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+        <title>Showtunes! 1982-1989</title>
     </programme>
-    <programme start="20250216180000 +0000" stop="20250216230000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems!</title>
+    <programme start="20250216180000 +0000" stop="20250216190000 +0000" channel="now-80s.mewatch">
+        <title>Tina V Cher!</title>
     </programme>
-    <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250216190000 +0000" stop="20250216193500 +0000" channel="now-80s.mewatch">
+        <title>No.1 Power Ballads Of The 80s</title>
     </programme>
-    <programme start="20250217000000 +0000" stop="20250217040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250216193500 +0000" stop="20250216200000 +0000" channel="now-80s.mewatch">
+        <title>Bonnie Tyler&#039;s Greatest Hits!</title>
     </programme>
-    <programme start="20250217040000 +0000" stop="20250217050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250216200000 +0000" stop="20250216220000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop!</title>
     </programme>
-    <programme start="20250217050000 +0000" stop="20250217100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="now-80s.mewatch">
+        <title>Now That&#039;s What I Call A Musical!</title>
     </programme>
-    <programme start="20250217100000 +0000" stop="20250217110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250216230000 +0000" stop="20250217021500 +0000" channel="now-80s.mewatch">
+        <title>Bruno Brookes UK Top 40 Of The 80s</title>
     </programme>
-    <programme start="20250217110000 +0000" stop="20250217120000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250217021500 +0000" stop="20250217030000 +0000" channel="now-80s.mewatch">
+        <title>Less-Heard-Hits From A-List-Stars!</title>
     </programme>
-    <programme start="20250217120000 +0000" stop="20250217170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies!</title>
+    <programme start="20250217030000 +0000" stop="20250217062500 +0000" channel="now-80s.mewatch">
+        <title>40 Hits ... That Missed!</title>
+    </programme>
+    <programme start="20250217062500 +0000" stop="20250217070000 +0000" channel="now-80s.mewatch">
+        <title>Less-Heard-Hits From A-List-Stars!</title>
+    </programme>
+    <programme start="20250217070000 +0000" stop="20250217080000 +0000" channel="now-80s.mewatch">
+        <title>Na Na Hey Hey Bananarama!</title>
+    </programme>
+    <programme start="20250217080000 +0000" stop="20250217090000 +0000" channel="now-80s.mewatch">
+        <title>Erasure: 1986-1994</title>
+    </programme>
+    <programme start="20250217090000 +0000" stop="20250217100000 +0000" channel="now-80s.mewatch">
+        <title>Prince! 1979-1989</title>
+    </programme>
+    <programme start="20250217100000 +0000" stop="20250217103000 +0000" channel="now-80s.mewatch">
+        <title>Madonna! 1984-1990</title>
+    </programme>
+    <programme start="20250217103000 +0000" stop="20250217113000 +0000" channel="now-80s.mewatch">
+        <title>Tina V Cher!</title>
+    </programme>
+    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="now-80s.mewatch">
+        <title>Madonna! 1984-1990</title>
+    </programme>
+    <programme start="20250217120000 +0000" stop="20250217132000 +0000" channel="now-80s.mewatch">
+        <title>Pet Shop Boys! 1985-1989</title>
+    </programme>
+    <programme start="20250217132000 +0000" stop="20250217140000 +0000" channel="now-80s.mewatch">
+        <title>How Rock Shook The World!</title>
+    </programme>
+    <programme start="20250217140000 +0000" stop="20250217161000 +0000" channel="now-80s.mewatch">
+        <title>Alternative 80s! With Wayne Hussey</title>
     </programme>
     <programme start="20250216150500 +0000" stop="20250216200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
