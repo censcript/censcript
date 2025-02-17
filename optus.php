@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250217183000 +0000" stop="20250217190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250218090000 +0000" stop="20250218100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Michael Owen</title>
     </programme>

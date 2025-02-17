@@ -15252,23 +15252,38 @@
     <programme start="20250218230000 +0000" stop="20250219000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250217223000 +0000" stop="20250218003000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Budget Motions, Part 1</title>
-    </programme>
-    <programme start="20250218003000 +0000" stop="20250218030000 +0000" channel="BBC Parl HD">
+    <programme start="20250217223500 +0000" stop="20250217231000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Budget Motions, Part 2</title>
     </programme>
-    <programme start="20250218030000 +0000" stop="20250218034500 +0000" channel="BBC Parl HD">
+    <programme start="20250217231000 +0000" stop="20250217235500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250218034500 +0000" stop="20250218043000 +0000" channel="BBC Parl HD">
+    <programme start="20250217235500 +0000" stop="20250218004000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Finance Questions</title>
     </programme>
-    <programme start="20250218043000 +0000" stop="20250218050000 +0000" channel="BBC Parl HD">
+    <programme start="20250218004000 +0000" stop="20250218011000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Members' Statements</title>
     </programme>
-    <programme start="20250218050000 +0000" stop="20250218070000 +0000" channel="BBC Parl HD">
+    <programme start="20250218011000 +0000" stop="20250218031000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Budget Motions, Part 1</title>
+    </programme>
+    <programme start="20250218031000 +0000" stop="20250218034500 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Budget Motions, Part 2</title>
+    </programme>
+    <programme start="20250218034500 +0000" stop="20250218041500 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Members' Statements</title>
+    </programme>
+    <programme start="20250218041500 +0000" stop="20250218050000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly -...</title>
+    </programme>
+    <programme start="20250218050000 +0000" stop="20250218054500 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly -...</title>
+    </programme>
+    <programme start="20250218054500 +0000" stop="20250218063000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Finance Questions</title>
+    </programme>
+    <programme start="20250218063000 +0000" stop="20250218070000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
     </programme>
     <programme start="20250218070000 +0000" stop="20250218093000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Budget Motions, Part 2</title>
@@ -24616,7 +24631,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217230000 +0000" channel="QVC Style HD">
-        <title>Luxury Jewellery</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="QVC Style HD">
         <title>First 2025 Frank Usher Drop</title>
@@ -24634,7 +24649,7 @@
         <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250218040000 +0000" stop="20250218050000 +0000" channel="QVC Style HD">
-        <title>Ben de Lisi: Fresh Fashion</title>
+        <title>Ben de Lisi</title>
     </programme>
     <programme start="20250218050000 +0000" stop="20250218060000 +0000" channel="QVC Style HD">
         <title>Diamonique Jewellery</title>
@@ -25306,15 +25321,12 @@
         <title>Outerwear Edit with Helene Berman</title>
     </programme>
     <programme start="20250218160000 +0000" stop="20250218170000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250218170000 +0000" stop="20250218180000 +0000" channel="QVC Extra">
         <title>Ben de Lisi: Spring into Style</title>
     </programme>
-    <programme start="20250218180000 +0000" stop="20250218190000 +0000" channel="QVC Extra">
-        <title>Andi Peters' Food Fest</title>
-    </programme>
-    <programme start="20250218190000 +0000" stop="20250218200000 +0000" channel="QVC Extra">
+    <programme start="20250218180000 +0000" stop="20250218200000 +0000" channel="QVC Extra">
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250218200000 +0000" stop="20250218210000 +0000" channel="QVC Extra">
