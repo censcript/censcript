@@ -120,6 +120,9 @@
     <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Crystal Palace v Aston Villa</title>
     </programme>
+    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Brighton v Bournemouth</title>
+    </programme>
     <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
         <title>DFB Pokal - Bielefeld v Bremen</title>
     </programme>

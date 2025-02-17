@@ -1758,25 +1758,25 @@
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250217222500 +0000" stop="20250217232000 +0000" channel="ITV4 HD">
+    <programme start="20250217222500 +0000" stop="20250217232500 +0000" channel="ITV4 HD">
         <title>The Taking of Pelham 123</title>
     </programme>
-    <programme start="20250217232000 +0000" stop="20250217232500 +0000" channel="ITV4 HD">
+    <programme start="20250217232500 +0000" stop="20250217233000 +0000" channel="ITV4 HD">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250217232500 +0000" stop="20250218002500 +0000" channel="ITV4 HD">
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="ITV4 HD">
         <title>The Taking of Pelham 123</title>
     </programme>
-    <programme start="20250218002500 +0000" stop="20250218012500 +0000" channel="ITV4 HD">
+    <programme start="20250218003000 +0000" stop="20250218013000 +0000" channel="ITV4 HD">
         <title>Auf Wiedersehen, Pet</title>
     </programme>
-    <programme start="20250218012500 +0000" stop="20250218022500 +0000" channel="ITV4 HD">
+    <programme start="20250218013000 +0000" stop="20250218023000 +0000" channel="ITV4 HD">
         <title>Auf Wiedersehen, Pet</title>
     </programme>
-    <programme start="20250218022500 +0000" stop="20250218025000 +0000" channel="ITV4 HD">
+    <programme start="20250218023000 +0000" stop="20250218025500 +0000" channel="ITV4 HD">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250218025000 +0000" stop="20250218030000 +0000" channel="ITV4 HD">
+    <programme start="20250218025500 +0000" stop="20250218030000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250218030000 +0000" stop="20250218060000 +0000" channel="ITV4 HD">
@@ -8376,25 +8376,25 @@
     <programme start="20250217203000 +0000" stop="20250217232500 +0000" channel="ITV4+1">
         <title>LaLiga: Barcelona v Rayo Vallecano</title>
     </programme>
-    <programme start="20250217232500 +0000" stop="20250218002000 +0000" channel="ITV4+1">
+    <programme start="20250217232500 +0000" stop="20250218002500 +0000" channel="ITV4+1">
         <title>The Taking of Pelham 123</title>
     </programme>
-    <programme start="20250218002000 +0000" stop="20250218002500 +0000" channel="ITV4+1">
+    <programme start="20250218002500 +0000" stop="20250218003000 +0000" channel="ITV4+1">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250218002500 +0000" stop="20250218012500 +0000" channel="ITV4+1">
+    <programme start="20250218003000 +0000" stop="20250218013000 +0000" channel="ITV4+1">
         <title>The Taking of Pelham 123</title>
     </programme>
-    <programme start="20250218012500 +0000" stop="20250218022500 +0000" channel="ITV4+1">
+    <programme start="20250218013000 +0000" stop="20250218023000 +0000" channel="ITV4+1">
         <title>Auf Wiedersehen, Pet</title>
     </programme>
-    <programme start="20250218022500 +0000" stop="20250218032500 +0000" channel="ITV4+1">
+    <programme start="20250218023000 +0000" stop="20250218033000 +0000" channel="ITV4+1">
         <title>Auf Wiedersehen, Pet</title>
     </programme>
-    <programme start="20250218032500 +0000" stop="20250218035000 +0000" channel="ITV4+1">
+    <programme start="20250218033000 +0000" stop="20250218035500 +0000" channel="ITV4+1">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250218035000 +0000" stop="20250218040000 +0000" channel="ITV4+1">
+    <programme start="20250218035500 +0000" stop="20250218040000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250218040000 +0000" stop="20250218070000 +0000" channel="ITV4+1">
