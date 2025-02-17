@@ -13821,11 +13821,26 @@
     <programme start="20250217070000 +0000" stop="20250217113000 +0000" channel="SkySp+ HD">
         <title>Live Tennis: WTA 1000 Dubai</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217193000 +0000" channel="SkySp+ HD">
+    <programme start="20250217113000 +0000" stop="20250217193001 +0000" channel="SkySp+ HD">
         <title>Live Tennis</title>
     </programme>
-    <programme start="20250217193000 +0000" stop="20250217233000 +0000" channel="SkySp+ HD">
-        <title>Live Tennis: ATP Rio</title>
+    <programme start="20250217193001 +0000" stop="20250217200000 +0000" channel="SkySp+ HD">
+        <title>Sky Sports News</title>
+    </programme>
+    <programme start="20250217200000 +0000" stop="20250217210000 +0000" channel="SkySp+ HD">
+        <title>Sky Sports News</title>
+    </programme>
+    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="SkySp+ HD">
+        <title>Sky Sports News</title>
+    </programme>
+    <programme start="20250217220000 +0000" stop="20250217223000 +0000" channel="SkySp+ HD">
+        <title>SSN @ 10</title>
+    </programme>
+    <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="SkySp+ HD">
+        <title>Back Pages Tonight</title>
+    </programme>
+    <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="SkySp+ HD">
+        <title>Sky Sports News</title>
     </programme>
     <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="SkySp+ HD">
         <title>Back Pages Tonight</title>
@@ -14022,20 +14037,11 @@
     <programme start="20250217130000 +0000" stop="20250217210000 +0000" channel="SkySp Racing">
         <title>Raceday Live</title>
     </programme>
-    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="SkySp Racing">
+    <programme start="20250217210000 +0000" stop="20250217220001 +0000" channel="SkySp Racing">
         <title>Stateside Live</title>
     </programme>
-    <programme start="20250217220000 +0000" stop="20250217221500 +0000" channel="SkySp Racing">
-        <title>Willie Mullins: Cheltenham 2025</title>
-    </programme>
-    <programme start="20250217221500 +0000" stop="20250217223000 +0000" channel="SkySp Racing">
-        <title>Lesters Awards 2024</title>
-    </programme>
-    <programme start="20250217223000 +0000" stop="20250217224500 +0000" channel="SkySp Racing">
-        <title>Sir Alex Ferguson's Racing Passion</title>
-    </programme>
-    <programme start="20250217224500 +0000" stop="20250217230000 +0000" channel="SkySp Racing">
-        <title>British Racing: Welfare Commitment</title>
+    <programme start="20250217220001 +0000" stop="20250217230000 +0000" channel="SkySp Racing">
+        <title>Sky Sports News</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="SkySp Racing">
         <title>Sky Sports News</title>
@@ -14460,8 +14466,11 @@
     <programme start="20250217113000 +0000" stop="20250217130000 +0000" channel="TNT Sports 4">
         <title>NBA: All-Star Saturday Night</title>
     </programme>
-    <programme start="20250217130000 +0000" stop="20250217143000 +0000" channel="TNT Sports 4">
+    <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="TNT Sports 4">
         <title>NBA: All-Star Game</title>
+    </programme>
+    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="TNT Sports 4">
+        <title>NBA Action</title>
     </programme>
     <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="TNT Sports 4">
         <title>NBA On Fire</title>
@@ -14481,14 +14490,17 @@
     <programme start="20250217200000 +0000" stop="20250217213000 +0000" channel="TNT Sports 4">
         <title>NBA: All-Star Saturday Night</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217230000 +0000" channel="TNT Sports 4">
+    <programme start="20250217213000 +0000" stop="20250217223000 +0000" channel="TNT Sports 4">
         <title>NBA: All-Star Game</title>
     </programme>
-    <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="TNT Sports 4">
+    <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="TNT Sports 4">
         <title>NBA Action</title>
     </programme>
-    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="TNT Sports 4">
+    <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="TNT Sports 4">
         <title>NBA On Fire</title>
+    </programme>
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="TNT Sports 4">
+        <title>UEFA Champions League Magazine</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250217000000 +0000" channel="LFCTV HD">
         <title>Blackburn Rovers v Liverpool U18: The Match</title>
@@ -14604,31 +14616,31 @@
     <programme start="20250217033000 +0000" stop="20250217043000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217043000 +0000" stop="20250217053000 +0000" channel="Racing TV">
+    <programme start="20250217043000 +0000" stop="20250217060000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217053000 +0000" stop="20250217063000 +0000" channel="Racing TV">
+    <programme start="20250217060000 +0000" stop="20250217061500 +0000" channel="Racing TV">
+        <title>This is Racing TV</title>
+    </programme>
+    <programme start="20250217061500 +0000" stop="20250217071500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217063000 +0000" stop="20250217073000 +0000" channel="Racing TV">
+    <programme start="20250217071500 +0000" stop="20250217081500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217073000 +0000" stop="20250217083000 +0000" channel="Racing TV">
+    <programme start="20250217081500 +0000" stop="20250217091500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217083000 +0000" stop="20250217093000 +0000" channel="Racing TV">
+    <programme start="20250217091500 +0000" stop="20250217101500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217093000 +0000" stop="20250217103000 +0000" channel="Racing TV">
+    <programme start="20250217101500 +0000" stop="20250217111500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217103000 +0000" stop="20250217113000 +0000" channel="Racing TV">
+    <programme start="20250217111500 +0000" stop="20250217121500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217123000 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250217123000 +0000" stop="20250217124500 +0000" channel="Racing TV">
+    <programme start="20250217121500 +0000" stop="20250217124500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250217124500 +0000" stop="20250217131500 +0000" channel="Racing TV">
@@ -25980,28 +25992,25 @@
     <programme start="20250217053000 +0000" stop="20250217060000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217060000 +0000" stop="20250217063000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217060000 +0000" stop="20250217070000 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250217063000 +0000" stop="20250217070000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250217070000 +0000" stop="20250217073000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217070000 +0000" stop="20250217072900 +0000" channel="Utsav Plus HD">
         <title>Woh To Hai Albelaa</title>
     </programme>
-    <programme start="20250217073000 +0000" stop="20250217080000 +0000" channel="Utsav Plus HD">
-        <title>Udne Ki Aasha</title>
+    <programme start="20250217072900 +0000" stop="20250217080000 +0000" channel="Utsav Plus HD">
+        <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217080000 +0000" stop="20250217083000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217080000 +0000" stop="20250217082500 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250217083000 +0000" stop="20250217090000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217082500 +0000" stop="20250217090000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217090000 +0000" stop="20250217093000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217090000 +0000" stop="20250217092900 +0000" channel="Utsav Plus HD">
         <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
-    <programme start="20250217093000 +0000" stop="20250217100000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217092900 +0000" stop="20250217100000 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
     <programme start="20250217100000 +0000" stop="20250217103000 +0000" channel="Utsav Plus HD">
@@ -26010,83 +26019,65 @@
     <programme start="20250217103000 +0000" stop="20250217110000 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217110000 +0000" stop="20250217113000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217110000 +0000" stop="20250217113100 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic</title>
+    <programme start="20250217113100 +0000" stop="20250217120000 +0000" channel="Utsav Plus HD">
+        <title>Mummy Ka Magic S08</title>
     </programme>
-    <programme start="20250217120000 +0000" stop="20250217123000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217120000 +0000" stop="20250217122700 +0000" channel="Utsav Plus HD">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250217123000 +0000" stop="20250217130000 +0000" channel="Utsav Plus HD">
-        <title>Turban Tadka</title>
+    <programme start="20250217122700 +0000" stop="20250217130000 +0000" channel="Utsav Plus HD">
+        <title>Turban Tadka S06</title>
     </programme>
-    <programme start="20250217130000 +0000" stop="20250217133000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217130000 +0000" stop="20250217132800 +0000" channel="Utsav Plus HD">
         <title>Maati Se Bandhi Dor</title>
     </programme>
-    <programme start="20250217133000 +0000" stop="20250217140000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217132800 +0000" stop="20250217135900 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217135900 +0000" stop="20250217142900 +0000" channel="Utsav Plus HD">
         <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217142900 +0000" stop="20250217150000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217153000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217150000 +0000" stop="20250217152900 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250217153000 +0000" stop="20250217160000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217152900 +0000" stop="20250217170000 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250217160000 +0000" stop="20250217163000 +0000" channel="Utsav Plus HD">
-        <title>Jhanak</title>
-    </programme>
-    <programme start="20250217163000 +0000" stop="20250217170000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217173000 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217173000 +0000" stop="20250217180000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217173000 +0000" stop="20250217175900 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217180000 +0000" stop="20250217183000 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic</title>
+    <programme start="20250217175900 +0000" stop="20250217182700 +0000" channel="Utsav Plus HD">
+        <title>Mummy Ka Magic S13</title>
     </programme>
-    <programme start="20250217183000 +0000" stop="20250217185000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217182700 +0000" stop="20250217190000 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217185000 +0000" stop="20250217191500 +0000" channel="Utsav Plus HD">
+    <programme start="20250217190000 +0000" stop="20250217202900 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250217191500 +0000" stop="20250217200000 +0000" channel="Utsav Plus HD">
-        <title>Jhanak</title>
-    </programme>
-    <programme start="20250217200000 +0000" stop="20250217203000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250217203000 +0000" stop="20250217210000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217202900 +0000" stop="20250217210000 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217210000 +0000" stop="20250217213000 +0000" channel="Utsav Plus HD">
+    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217220000 +0000" channel="Utsav Plus HD">
-        <title>Iss Ishq Ka Rabb Rakha</title>
-    </programme>
-    <programme start="20250217220000 +0000" stop="20250217224500 +0000" channel="Utsav Plus HD">
+    <programme start="20250217220000 +0000" stop="20250217222900 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217224500 +0000" stop="20250217231500 +0000" channel="Utsav Plus HD">
-        <title>Dil Ko Tumse Pyaar Hua</title>
+    <programme start="20250217222900 +0000" stop="20250217233000 +0000" channel="Utsav Plus HD">
+        <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250217231500 +0000" stop="20250217234500 +0000" channel="Utsav Plus HD">
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="Utsav Plus HD">
         <title>Maati Se Bandhi Dor</title>
-    </programme>
-    <programme start="20250217234500 +0000" stop="20250218004500 +0000" channel="Utsav Plus HD">
-        <title>Anupamaa</title>
     </programme>
     <programme start="20250216225000 +0000" stop="20250216232000 +0000" channel="COLORS HD">
         <title>Parineetii</title>
@@ -28048,7 +28039,7 @@
         <title>Mann Marzi</title>
     </programme>
     <programme start="20250217070000 +0000" stop="20250217080000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
+        <title>Bajjo</title>
     </programme>
     <programme start="20250217080000 +0000" stop="20250217090000 +0000" channel="GEO TV">
         <title>Sunn Mere Dil</title>
@@ -28077,10 +28068,10 @@
     <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="GEO TV">
         <title>Sunn Mere Dil</title>
     </programme>
-    <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="GEO TV">
+    <programme start="20250217170000 +0000" stop="20250217173000 +0000" channel="GEO TV">
         <title>Mehshar</title>
     </programme>
-    <programme start="20250217180000 +0000" stop="20250217183000 +0000" channel="GEO TV">
+    <programme start="20250217173000 +0000" stop="20250217183000 +0000" channel="GEO TV">
         <title>Kurulus Osman</title>
     </programme>
     <programme start="20250217183000 +0000" stop="20250217190000 +0000" channel="GEO TV">
@@ -29004,13 +28995,13 @@
     <programme start="20250217121000 +0000" stop="20250217122000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250217122000 +0000" stop="20250217122400 +0000" channel="Eman Channel">
+    <programme start="20250217122000 +0000" stop="20250217122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250217122400 +0000" stop="20250217124500 +0000" channel="Eman Channel">
+    <programme start="20250217122500 +0000" stop="20250217125300 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250217124500 +0000" stop="20250217130000 +0000" channel="Eman Channel">
+    <programme start="20250217125300 +0000" stop="20250217130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="Eman Channel">
@@ -29052,10 +29043,10 @@
     <programme start="20250217172700 +0000" stop="20250217173500 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250217173500 +0000" stop="20250217174500 +0000" channel="Eman Channel">
+    <programme start="20250217173500 +0000" stop="20250217175000 +0000" channel="Eman Channel">
         <title>Ibn Battuta Cartoon</title>
     </programme>
-    <programme start="20250217174500 +0000" stop="20250217180000 +0000" channel="Eman Channel">
+    <programme start="20250217175000 +0000" stop="20250217180000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250217180000 +0000" stop="20250217185200 +0000" channel="Eman Channel">
@@ -29076,22 +29067,22 @@
     <programme start="20250217194500 +0000" stop="20250217200000 +0000" channel="Eman Channel">
         <title>A Life with Allah</title>
     </programme>
-    <programme start="20250217200000 +0000" stop="20250217213000 +0000" channel="Eman Channel">
-        <title>Recital Revival</title>
+    <programme start="20250217200000 +0000" stop="20250217211500 +0000" channel="Eman Channel">
+        <title>Ramadan Ke Ahkam</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217220000 +0000" channel="Eman Channel">
+    <programme start="20250217211500 +0000" stop="20250217214500 +0000" channel="Eman Channel">
         <title>Embracing the Quran</title>
     </programme>
-    <programme start="20250217220000 +0000" stop="20250217221500 +0000" channel="Eman Channel">
+    <programme start="20250217214500 +0000" stop="20250217220000 +0000" channel="Eman Channel">
         <title>Sounds of Faith</title>
     </programme>
-    <programme start="20250217221500 +0000" stop="20250217224500 +0000" channel="Eman Channel">
+    <programme start="20250217220000 +0000" stop="20250217223000 +0000" channel="Eman Channel">
         <title>The Beautiful Manners</title>
     </programme>
-    <programme start="20250217224500 +0000" stop="20250217231500 +0000" channel="Eman Channel">
+    <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="Eman Channel">
         <title>Travel Buddies</title>
     </programme>
-    <programme start="20250217231500 +0000" stop="20250218001500 +0000" channel="Eman Channel">
+    <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216233000 +0000" channel="ARY Digital">
@@ -34794,20 +34785,11 @@
     <programme start="20250217130000 +0000" stop="20250217210000 +0000" channel="SkySp Racing HD">
         <title>Raceday Live</title>
     </programme>
-    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="SkySp Racing HD">
+    <programme start="20250217210000 +0000" stop="20250217220001 +0000" channel="SkySp Racing HD">
         <title>Stateside Live</title>
     </programme>
-    <programme start="20250217220000 +0000" stop="20250217221500 +0000" channel="SkySp Racing HD">
-        <title>Willie Mullins: Cheltenham 2025</title>
-    </programme>
-    <programme start="20250217221500 +0000" stop="20250217223000 +0000" channel="SkySp Racing HD">
-        <title>Lesters Awards 2024</title>
-    </programme>
-    <programme start="20250217223000 +0000" stop="20250217224500 +0000" channel="SkySp Racing HD">
-        <title>Sir Alex Ferguson's Racing Passion</title>
-    </programme>
-    <programme start="20250217224500 +0000" stop="20250217230000 +0000" channel="SkySp Racing HD">
-        <title>British Racing: Welfare Commitment</title>
+    <programme start="20250217220001 +0000" stop="20250217230000 +0000" channel="SkySp Racing HD">
+        <title>Sky Sports News</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="SkySp Racing HD">
         <title>Sky Sports News</title>
@@ -35028,8 +35010,11 @@
     <programme start="20250217113000 +0000" stop="20250217130000 +0000" channel="TNTSports4 HD">
         <title>NBA: All-Star Saturday Night</title>
     </programme>
-    <programme start="20250217130000 +0000" stop="20250217143000 +0000" channel="TNTSports4 HD">
+    <programme start="20250217130000 +0000" stop="20250217140000 +0000" channel="TNTSports4 HD">
         <title>NBA: All-Star Game</title>
+    </programme>
+    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="TNTSports4 HD">
+        <title>NBA Action</title>
     </programme>
     <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="TNTSports4 HD">
         <title>NBA On Fire</title>
@@ -35049,14 +35034,17 @@
     <programme start="20250217200000 +0000" stop="20250217213000 +0000" channel="TNTSports4 HD">
         <title>NBA: All-Star Saturday Night</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217230000 +0000" channel="TNTSports4 HD">
+    <programme start="20250217213000 +0000" stop="20250217223000 +0000" channel="TNTSports4 HD">
         <title>NBA: All-Star Game</title>
     </programme>
-    <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="TNTSports4 HD">
+    <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="TNTSports4 HD">
         <title>NBA Action</title>
     </programme>
-    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="TNTSports4 HD">
+    <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="TNTSports4 HD">
         <title>NBA On Fire</title>
+    </programme>
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="TNTSports4 HD">
+        <title>UEFA Champions League Magazine</title>
     </programme>
     <programme start="20250216223000 +0000" stop="20250216233000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
@@ -35076,31 +35064,31 @@
     <programme start="20250217033000 +0000" stop="20250217043000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217043000 +0000" stop="20250217053000 +0000" channel="Racing TV HD">
+    <programme start="20250217043000 +0000" stop="20250217060000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217053000 +0000" stop="20250217063000 +0000" channel="Racing TV HD">
+    <programme start="20250217060000 +0000" stop="20250217061500 +0000" channel="Racing TV HD">
+        <title>This is Racing TV HD</title>
+    </programme>
+    <programme start="20250217061500 +0000" stop="20250217071500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217063000 +0000" stop="20250217073000 +0000" channel="Racing TV HD">
+    <programme start="20250217071500 +0000" stop="20250217081500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217073000 +0000" stop="20250217083000 +0000" channel="Racing TV HD">
+    <programme start="20250217081500 +0000" stop="20250217091500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217083000 +0000" stop="20250217093000 +0000" channel="Racing TV HD">
+    <programme start="20250217091500 +0000" stop="20250217101500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217093000 +0000" stop="20250217103000 +0000" channel="Racing TV HD">
+    <programme start="20250217101500 +0000" stop="20250217111500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217103000 +0000" stop="20250217113000 +0000" channel="Racing TV HD">
+    <programme start="20250217111500 +0000" stop="20250217121500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217123000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250217123000 +0000" stop="20250217124500 +0000" channel="Racing TV HD">
+    <programme start="20250217121500 +0000" stop="20250217124500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250217124500 +0000" stop="20250217131500 +0000" channel="Racing TV HD">
@@ -35547,28 +35535,25 @@
     <programme start="20250217053000 +0000" stop="20250217060000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217060000 +0000" stop="20250217063000 +0000" channel="Utsav Plus">
+    <programme start="20250217060000 +0000" stop="20250217070000 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250217063000 +0000" stop="20250217070000 +0000" channel="Utsav Plus">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250217070000 +0000" stop="20250217073000 +0000" channel="Utsav Plus">
+    <programme start="20250217070000 +0000" stop="20250217072900 +0000" channel="Utsav Plus">
         <title>Woh To Hai Albelaa</title>
     </programme>
-    <programme start="20250217073000 +0000" stop="20250217080000 +0000" channel="Utsav Plus">
-        <title>Udne Ki Aasha</title>
+    <programme start="20250217072900 +0000" stop="20250217080000 +0000" channel="Utsav Plus">
+        <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217080000 +0000" stop="20250217083000 +0000" channel="Utsav Plus">
+    <programme start="20250217080000 +0000" stop="20250217082500 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250217083000 +0000" stop="20250217090000 +0000" channel="Utsav Plus">
+    <programme start="20250217082500 +0000" stop="20250217090000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217090000 +0000" stop="20250217093000 +0000" channel="Utsav Plus">
+    <programme start="20250217090000 +0000" stop="20250217092900 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
-    <programme start="20250217093000 +0000" stop="20250217100000 +0000" channel="Utsav Plus">
+    <programme start="20250217092900 +0000" stop="20250217100000 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
     <programme start="20250217100000 +0000" stop="20250217103000 +0000" channel="Utsav Plus">
@@ -35577,83 +35562,77 @@
     <programme start="20250217103000 +0000" stop="20250217110000 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217110000 +0000" stop="20250217113000 +0000" channel="Utsav Plus">
+    <programme start="20250217110000 +0000" stop="20250217113100 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic</title>
+    <programme start="20250217113100 +0000" stop="20250217120000 +0000" channel="Utsav Plus">
+        <title>Mummy Ka Magic S08</title>
     </programme>
-    <programme start="20250217120000 +0000" stop="20250217123000 +0000" channel="Utsav Plus">
-        <title>Sanjeev Kapoors Kitchen</title>
+    <programme start="20250217120000 +0000" stop="20250217122700 +0000" channel="Utsav Plus">
+        <title>Sanjeev Kapoors Kitchen S01</title>
     </programme>
-    <programme start="20250217123000 +0000" stop="20250217130000 +0000" channel="Utsav Plus">
-        <title>Turban Tadka</title>
+    <programme start="20250217122700 +0000" stop="20250217130000 +0000" channel="Utsav Plus">
+        <title>Turban Tadka S06</title>
     </programme>
-    <programme start="20250217130000 +0000" stop="20250217133000 +0000" channel="Utsav Plus">
+    <programme start="20250217130000 +0000" stop="20250217132800 +0000" channel="Utsav Plus">
         <title>Maati Se Bandhi Dor</title>
     </programme>
-    <programme start="20250217133000 +0000" stop="20250217140000 +0000" channel="Utsav Plus">
+    <programme start="20250217132800 +0000" stop="20250217135900 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217140000 +0000" stop="20250217143000 +0000" channel="Utsav Plus">
+    <programme start="20250217135900 +0000" stop="20250217142900 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
-    <programme start="20250217143000 +0000" stop="20250217150000 +0000" channel="Utsav Plus">
+    <programme start="20250217142900 +0000" stop="20250217150000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217150000 +0000" stop="20250217153000 +0000" channel="Utsav Plus">
+    <programme start="20250217150000 +0000" stop="20250217152900 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250217153000 +0000" stop="20250217160000 +0000" channel="Utsav Plus">
+    <programme start="20250217152900 +0000" stop="20250217155900 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250217160000 +0000" stop="20250217163000 +0000" channel="Utsav Plus">
+    <programme start="20250217155900 +0000" stop="20250217170000 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
-    </programme>
-    <programme start="20250217163000 +0000" stop="20250217170000 +0000" channel="Utsav Plus">
-        <title>Pocket Mein Aasmaan</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217173000 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217173000 +0000" stop="20250217180000 +0000" channel="Utsav Plus">
+    <programme start="20250217173000 +0000" stop="20250217175900 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217180000 +0000" stop="20250217183000 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic</title>
+    <programme start="20250217175900 +0000" stop="20250217182700 +0000" channel="Utsav Plus">
+        <title>Mummy Ka Magic S13</title>
     </programme>
-    <programme start="20250217183000 +0000" stop="20250217185000 +0000" channel="Utsav Plus">
+    <programme start="20250217182700 +0000" stop="20250217190000 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250217185000 +0000" stop="20250217191500 +0000" channel="Utsav Plus">
+    <programme start="20250217190000 +0000" stop="20250217193000 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250217191500 +0000" stop="20250217200000 +0000" channel="Utsav Plus">
+    <programme start="20250217193000 +0000" stop="20250217202900 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250217200000 +0000" stop="20250217203000 +0000" channel="Utsav Plus">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250217203000 +0000" stop="20250217210000 +0000" channel="Utsav Plus">
+    <programme start="20250217202900 +0000" stop="20250217210000 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250217210000 +0000" stop="20250217213000 +0000" channel="Utsav Plus">
+    <programme start="20250217210000 +0000" stop="20250217212900 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217220000 +0000" channel="Utsav Plus">
+    <programme start="20250217212900 +0000" stop="20250217220000 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250217220000 +0000" stop="20250217224500 +0000" channel="Utsav Plus">
+    <programme start="20250217220000 +0000" stop="20250217222900 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250217224500 +0000" stop="20250217231500 +0000" channel="Utsav Plus">
+    <programme start="20250217222900 +0000" stop="20250217225900 +0000" channel="Utsav Plus">
+        <title>Pocket Mein Aasmaan</title>
+    </programme>
+    <programme start="20250217225900 +0000" stop="20250217233000 +0000" channel="Utsav Plus">
         <title>Dil Ko Tumse Pyaar Hua</title>
     </programme>
-    <programme start="20250217231500 +0000" stop="20250217234500 +0000" channel="Utsav Plus">
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="Utsav Plus">
         <title>Maati Se Bandhi Dor</title>
-    </programme>
-    <programme start="20250217234500 +0000" stop="20250218004500 +0000" channel="Utsav Plus">
-        <title>Anupamaa</title>
     </programme>
     <programme start="20250216225000 +0000" stop="20250216232000 +0000" channel="COLORS">
         <title>Parineetii</title>
