@@ -307,70 +307,46 @@
         <title>Big Stories Of The Week</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250217233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+        <title>Insight</title>
     </programme>
-    <programme start="20250217233000 +0000" stop="20250218000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250218000000 +0000" stop="20250218003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+    <programme start="20250217233000 +0000" stop="20250218003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Manufacture Check</title>
     </programme>
     <programme start="20250218003000 +0000" stop="20250218010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20250218010000 +0000" stop="20250218030000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box</title>
+        <title>Squawk Box - Live</title>
     </programme>
-    <programme start="20250218030000 +0000" stop="20250218050000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Profit</title>
+    <programme start="20250218030000 +0000" stop="20250218045500 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit - Live</title>
     </programme>
-    <programme start="20250218050000 +0000" stop="20250218053000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
+    <programme start="20250218045500 +0000" stop="20250218070000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Power Lunch - Live</title>
     </programme>
-    <programme start="20250218053000 +0000" stop="20250218073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Power Lunch</title>
+    <programme start="20250218070000 +0000" stop="20250218073000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Managing Asia</title>
     </programme>
     <programme start="20250218073000 +0000" stop="20250218080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
+        <title>Number&#039;s Bite</title>
     </programme>
-    <programme start="20250218080000 +0000" stop="20250218100000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Closing Bell</title>
+    <programme start="20250218080000 +0000" stop="20250218110000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Special Dialogue : Swasembada Energi 2025 - Live</title>
     </programme>
-    <programme start="20250218100000 +0000" stop="20250218110000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Evening Up</title>
-    </programme>
-    <programme start="20250218110000 +0000" stop="20250218113000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Autobizz</title>
-    </programme>
-    <programme start="20250218113000 +0000" stop="20250218120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point</title>
+    <programme start="20250218110000 +0000" stop="20250218120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Autobizz - Live</title>
     </programme>
     <programme start="20250218120000 +0000" stop="20250218123000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
     <programme start="20250218123000 +0000" stop="20250218130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>My Money</title>
+        <title>Central Banking</title>
     </programme>
-    <programme start="20250218130000 +0000" stop="20250218140000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub</title>
+    <programme start="20250218130000 +0000" stop="20250218150000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Squawk Box</title>
     </programme>
-    <programme start="20250218140000 +0000" stop="20250218143000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250218143000 +0000" stop="20250218150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250218150000 +0000" stop="20250218153000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250218153000 +0000" stop="20250218160000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250218160000 +0000" stop="20250218163000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250218163000 +0000" stop="20250217170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+    <programme start="20250218150000 +0000" stop="20250217170000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Profit</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Love From Nasi Uduk</title>
@@ -1107,17 +1083,8 @@
     <programme start="20250217170200 +0000" stop="20250217175000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Sonoma, California</title>
     </programme>
-    <programme start="20250217170200 +0000" stop="20250217175000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Sonoma, California</title>
-    </programme>
     <programme start="20250217175000 +0000" stop="20250217180000 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
-    </programme>
-    <programme start="20250217175000 +0000" stop="20250217180000 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
-    </programme>
-    <programme start="20250217180000 +0000" stop="20250217182500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
     </programme>
     <programme start="20250217180000 +0000" stop="20250217182500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
@@ -1125,17 +1092,8 @@
     <programme start="20250217182500 +0000" stop="20250217184500 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
     </programme>
-    <programme start="20250217182500 +0000" stop="20250217184500 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
     <programme start="20250217184500 +0000" stop="20250217190000 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
-    </programme>
-    <programme start="20250217184500 +0000" stop="20250217190000 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
-    <programme start="20250217190000 +0000" stop="20250217194800 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Summit Point, West Virginia</title>
     </programme>
     <programme start="20250217190000 +0000" stop="20250217194800 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Summit Point, West Virginia</title>
@@ -1143,17 +1101,8 @@
     <programme start="20250217194800 +0000" stop="20250217200630 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20250217194800 +0000" stop="20250217200630 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20250217200630 +0000" stop="20250217205200 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
-    </programme>
-    <programme start="20250217200630 +0000" stop="20250217205200 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
-    <programme start="20250217205200 +0000" stop="20250217214000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Wall, New Jersey</title>
     </programme>
     <programme start="20250217205200 +0000" stop="20250217214000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Wall, New Jersey</title>
@@ -1161,17 +1110,8 @@
     <programme start="20250217214000 +0000" stop="20250218000000 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20250217214000 +0000" stop="20250218000000 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20250218000000 +0000" stop="20250218004800 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Atlanta, Georgia</title>
-    </programme>
-    <programme start="20250218000000 +0000" stop="20250218004800 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Atlanta, Georgia</title>
-    </programme>
-    <programme start="20250218004800 +0000" stop="20250218011700 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20250218004800 +0000" stop="20250218011700 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1179,17 +1119,8 @@
     <programme start="20250218011700 +0000" stop="20250218020200 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
     </programme>
-    <programme start="20250218011700 +0000" stop="20250218020200 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
     <programme start="20250218020200 +0000" stop="20250218030200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
-    </programme>
-    <programme start="20250218020200 +0000" stop="20250218030200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
-    <programme start="20250218030200 +0000" stop="20250218032000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20250218030200 +0000" stop="20250218032000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1197,17 +1128,8 @@
     <programme start="20250218032000 +0000" stop="20250218033500 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
     </programme>
-    <programme start="20250218032000 +0000" stop="20250218033500 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
     <programme start="20250218033500 +0000" stop="20250218034500 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
-    </programme>
-    <programme start="20250218033500 +0000" stop="20250218034500 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
-    </programme>
-    <programme start="20250218034500 +0000" stop="20250218041500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
     </programme>
     <programme start="20250218034500 +0000" stop="20250218041500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
@@ -1215,17 +1137,8 @@
     <programme start="20250218041500 +0000" stop="20250218045700 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20250218041500 +0000" stop="20250218045700 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20250218045700 +0000" stop="20250218054500 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Englishtown, New Jersey</title>
-    </programme>
-    <programme start="20250218045700 +0000" stop="20250218054500 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Englishtown, New Jersey</title>
-    </programme>
-    <programme start="20250218054500 +0000" stop="20250218063000 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
     </programme>
     <programme start="20250218054500 +0000" stop="20250218063000 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
@@ -1233,17 +1146,8 @@
     <programme start="20250218063000 +0000" stop="20250218070000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
     </programme>
-    <programme start="20250218063000 +0000" stop="20250218070000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
     <programme start="20250218070000 +0000" stop="20250218074500 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
-    </programme>
-    <programme start="20250218070000 +0000" stop="20250218074500 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
-    <programme start="20250218074500 +0000" stop="20250218075500 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
     </programme>
     <programme start="20250218074500 +0000" stop="20250218075500 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
@@ -1251,17 +1155,8 @@
     <programme start="20250218075500 +0000" stop="20250218082500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
     </programme>
-    <programme start="20250218075500 +0000" stop="20250218082500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
     <programme start="20250218082500 +0000" stop="20250218085000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
-    </programme>
-    <programme start="20250218082500 +0000" stop="20250218085000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
-    <programme start="20250218085000 +0000" stop="20250218090500 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
     </programme>
     <programme start="20250218085000 +0000" stop="20250218090500 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
@@ -1269,17 +1164,8 @@
     <programme start="20250218090500 +0000" stop="20250218095300 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Irwindale, California</title>
     </programme>
-    <programme start="20250218090500 +0000" stop="20250218095300 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Irwindale, California</title>
-    </programme>
     <programme start="20250218095300 +0000" stop="20250218103800 +0000" channel="Speed TV.cubmu">
         <title>Fine Tuned</title>
-    </programme>
-    <programme start="20250218095300 +0000" stop="20250218103800 +0000" channel="Speed TV.cubmu">
-        <title>Fine Tuned</title>
-    </programme>
-    <programme start="20250218103800 +0000" stop="20250218110000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20250218103800 +0000" stop="20250218110000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1287,17 +1173,8 @@
     <programme start="20250218110000 +0000" stop="20250218115500 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
     </programme>
-    <programme start="20250218110000 +0000" stop="20250218115500 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
-    </programme>
     <programme start="20250218115500 +0000" stop="20250218122500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20250218115500 +0000" stop="20250218122500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20250218122500 +0000" stop="20250218125000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
     </programme>
     <programme start="20250218122500 +0000" stop="20250218125000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
@@ -1305,17 +1182,8 @@
     <programme start="20250218125000 +0000" stop="20250218130200 +0000" channel="Speed TV.cubmu">
         <title>Motorsports reviews</title>
     </programme>
-    <programme start="20250218125000 +0000" stop="20250218130200 +0000" channel="Speed TV.cubmu">
-        <title>Motorsports reviews</title>
-    </programme>
     <programme start="20250218130200 +0000" stop="20250218135000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Long Beach, California</title>
-    </programme>
-    <programme start="20250218130200 +0000" stop="20250218135000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Long Beach, California</title>
-    </programme>
-    <programme start="20250218135000 +0000" stop="20250218140000 +0000" channel="Speed TV.cubmu">
-        <title>Crash Test</title>
     </programme>
     <programme start="20250218135000 +0000" stop="20250218140000 +0000" channel="Speed TV.cubmu">
         <title>Crash Test</title>
@@ -1323,17 +1191,8 @@
     <programme start="20250218140000 +0000" stop="20250218142500 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
     </programme>
-    <programme start="20250218140000 +0000" stop="20250218142500 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
     <programme start="20250218142500 +0000" stop="20250218145000 +0000" channel="Speed TV.cubmu">
         <title>Expert opinions</title>
-    </programme>
-    <programme start="20250218142500 +0000" stop="20250218145000 +0000" channel="Speed TV.cubmu">
-        <title>Expert opinions</title>
-    </programme>
-    <programme start="20250218145000 +0000" stop="20250218151200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20250218145000 +0000" stop="20250218151200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1341,17 +1200,8 @@
     <programme start="20250218151200 +0000" stop="20250218160000 +0000" channel="Speed TV.cubmu">
         <title>Formula Drift - Monroe, Washington</title>
     </programme>
-    <programme start="20250218151200 +0000" stop="20250218160000 +0000" channel="Speed TV.cubmu">
-        <title>Formula Drift - Monroe, Washington</title>
-    </programme>
     <programme start="20250218160000 +0000" stop="20250218163600 +0000" channel="Speed TV.cubmu">
         <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20250218160000 +0000" stop="20250218163600 +0000" channel="Speed TV.cubmu">
-        <title>Xtrem Motorsports</title>
-    </programme>
-    <programme start="20250218163600 +0000" stop="20250217170200 +0000" channel="Speed TV.cubmu">
-        <title>Automotive Club</title>
     </programme>
     <programme start="20250218163600 +0000" stop="20250217170200 +0000" channel="Speed TV.cubmu">
         <title>Automotive Club</title>
@@ -1500,7 +1350,7 @@
     <programme start="20250218163000 +0000" stop="20250217170000 +0000" channel="Fashion TV.cubmu">
         <title>Lingerie</title>
     </programme>
-    <programme start="20250217183000 +0000" stop="20250217200000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250217180000 +0000" stop="20250217200000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
     <programme start="20250217200000 +0000" stop="20250217213000 +0000" channel="Indosiar.cubmu">
@@ -1510,7 +1360,7 @@
         <title>Fokus Pagi</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5</title>
+        <title>Magic 5 Pesantren Edition</title>
     </programme>
     <programme start="20250218000000 +0000" stop="20250218013000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Pagi Spesial</title>
@@ -1533,35 +1383,32 @@
     <programme start="20250218060000 +0000" stop="20250218080000 +0000" channel="Indosiar.cubmu">
         <title>Kisah Nyata Spesial</title>
     </programme>
-    <programme start="20250218080000 +0000" stop="20250218100000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Sore Spesial</title>
+    <programme start="20250218080000 +0000" stop="20250218103000 +0000" channel="Indosiar.cubmu">
+        <title>Liga 2 2024-25</title>
     </programme>
-    <programme start="20250218100000 +0000" stop="20250218113000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5</title>
+    <programme start="20250218103000 +0000" stop="20250218130000 +0000" channel="Indosiar.cubmu">
+        <title>Magic 5 Pesantren Edition</title>
     </programme>
-    <programme start="20250218113000 +0000" stop="20250218140000 +0000" channel="Indosiar.cubmu">
-        <title>BRI Liga 1 2024/2025</title>
-    </programme>
-    <programme start="20250218140000 +0000" stop="20250218163000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250218130000 +0000" stop="20250218153000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250218163000 +0000" stop="20250217190000 +0000" channel="Indosiar.cubmu">
+    <programme start="20250218153000 +0000" stop="20250217173000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250217174500 +0000" stop="20250217190000 +0000" channel="SCTV.cubmu">
+    <programme start="20250217174300 +0000" stop="20250217184500 +0000" channel="SCTV.cubmu">
         <title>FTV Utama</title>
     </programme>
-    <programme start="20250217190000 +0000" stop="20250217191500 +0000" channel="SCTV.cubmu">
+    <programme start="20250217184500 +0000" stop="20250217191100 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Malam</title>
     </programme>
-    <programme start="20250217191500 +0000" stop="20250217194500 +0000" channel="SCTV.cubmu">
+    <programme start="20250217191100 +0000" stop="20250217194100 +0000" channel="SCTV.cubmu">
         <title>Solusi</title>
     </programme>
-    <programme start="20250217194500 +0000" stop="20250217201500 +0000" channel="SCTV.cubmu">
+    <programme start="20250217194100 +0000" stop="20250217200400 +0000" channel="SCTV.cubmu">
         <title>Buser</title>
     </programme>
-    <programme start="20250217201500 +0000" stop="20250217210000 +0000" channel="SCTV.cubmu">
-        <title>Sinema Dini Hari</title>
+    <programme start="20250217200400 +0000" stop="20250217210000 +0000" channel="SCTV.cubmu">
+        <title>Sinema Malam</title>
     </programme>
     <programme start="20250217210000 +0000" stop="20250217213000 +0000" channel="SCTV.cubmu">
         <title>Barakallah</title>
@@ -1596,10 +1443,10 @@
     <programme start="20250218094500 +0000" stop="20250218111500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20250218111500 +0000" stop="20250218124500 +0000" channel="SCTV.cubmu">
+    <programme start="20250218111500 +0000" stop="20250218130000 +0000" channel="SCTV.cubmu">
         <title>Ketika Cinta Memanggilmu</title>
     </programme>
-    <programme start="20250218124500 +0000" stop="20250218143000 +0000" channel="SCTV.cubmu">
+    <programme start="20250218130000 +0000" stop="20250218143000 +0000" channel="SCTV.cubmu">
         <title>Ikrar Cinta Suci</title>
     </programme>
     <programme start="20250218143000 +0000" stop="20250218160000 +0000" channel="SCTV.cubmu">
@@ -1607,9 +1454,6 @@
     </programme>
     <programme start="20250218160000 +0000" stop="20250217174500 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
-    </programme>
-    <programme start="20250217170000 +0000" stop="20250217170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
     </programme>
     <programme start="20250217170500 +0000" stop="20250217180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
@@ -1779,25 +1623,28 @@
     <programme start="20250218160500 +0000" stop="20250217170000 +0000" channel="MetroTV.cubmu">
         <title>Metro Hari Ini</title>
     </programme>
-    <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="GTV.cubmu">
-        <title>Mitologi</title>
+    <programme start="20250217170000 +0000" stop="20250217173000 +0000" channel="GTV.cubmu">
+        <title>Jelajah Mitos</title>
     </programme>
-    <programme start="20250217180000 +0000" stop="20250217190000 +0000" channel="GTV.cubmu">
+    <programme start="20250217173000 +0000" stop="20250217183000 +0000" channel="GTV.cubmu">
+        <title>Buletin iNews Malam</title>
+    </programme>
+    <programme start="20250217183000 +0000" stop="20250217190000 +0000" channel="GTV.cubmu">
         <title>Ragam Pagi</title>
     </programme>
-    <programme start="20250217190000 +0000" stop="20250217203000 +0000" channel="GTV.cubmu">
+    <programme start="20250217190000 +0000" stop="20250217210000 +0000" channel="GTV.cubmu">
         <title>Ragam Pagi</title>
     </programme>
-    <programme start="20250217203000 +0000" stop="20250217213000 +0000" channel="GTV.cubmu">
+    <programme start="20250217210000 +0000" stop="20250217220000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Pagi</title>
     </programme>
-    <programme start="20250217213000 +0000" stop="20250217220000 +0000" channel="GTV.cubmu">
-        <title>Gerebek</title>
-    </programme>
     <programme start="20250217220000 +0000" stop="20250217223000 +0000" channel="GTV.cubmu">
-        <title>Obsesi</title>
+        <title>Black Clover</title>
     </programme>
-    <programme start="20250217223000 +0000" stop="20250218003000 +0000" channel="GTV.cubmu">
+    <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="GTV.cubmu">
+        <title>Bestie</title>
+    </programme>
+    <programme start="20250217230000 +0000" stop="20250218003000 +0000" channel="GTV.cubmu">
         <title>CoComelon</title>
     </programme>
     <programme start="20250218003000 +0000" stop="20250218020000 +0000" channel="GTV.cubmu">
@@ -1809,37 +1656,31 @@
     <programme start="20250218033000 +0000" stop="20250218060000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250218060000 +0000" stop="20250218083000 +0000" channel="GTV.cubmu">
+    <programme start="20250218060000 +0000" stop="20250218080000 +0000" channel="GTV.cubmu">
         <title>SpongeBob SquarePants Movie</title>
     </programme>
-    <programme start="20250218083000 +0000" stop="20250218093000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250218093000 +0000" stop="20250218110000 +0000" channel="GTV.cubmu">
+    <programme start="20250218080000 +0000" stop="20250218093000 +0000" channel="GTV.cubmu">
         <title>Big Movies Family</title>
     </programme>
-    <programme start="20250218110000 +0000" stop="20250218121000 +0000" channel="GTV.cubmu">
-        <title>KV +62</title>
+    <programme start="20250218093000 +0000" stop="20250218110000 +0000" channel="GTV.cubmu">
+        <title>Naruto Shippuden</title>
     </programme>
-    <programme start="20250218121000 +0000" stop="20250218140000 +0000" channel="GTV.cubmu">
-        <title>Super Deal Indonesia</title>
+    <programme start="20250218110000 +0000" stop="20250218133000 +0000" channel="GTV.cubmu">
+        <title>AFC U20: CHN Vs AUS</title>
     </programme>
-    <programme start="20250218140000 +0000" stop="20250218150000 +0000" channel="GTV.cubmu">
+    <programme start="20250218133000 +0000" stop="20250218153000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20250218150000 +0000" stop="20250218164000 +0000" channel="GTV.cubmu">
+    <programme start="20250218153000 +0000" stop="20250217170000 +0000" channel="GTV.cubmu">
         <title>Big Movies Platinum</title>
     </programme>
-    <programme start="20250218164000 +0000" stop="20250217173500 +0000" channel="GTV.cubmu">
-        <title>Crime KV</title>
-    </programme>
-    <programme start="20250217180000 +0000" stop="20250217190000 +0000" channel="ANTV.cubmu">
+    <programme start="20250217170000 +0000" stop="20250217190000 +0000" channel="ANTV.cubmu">
         <title>Jodoh Wasiat Bapak Babak 2</title>
     </programme>
-    <programme start="20250217190000 +0000" stop="20250217203000 +0000" channel="ANTV.cubmu">
+    <programme start="20250217190000 +0000" stop="20250217200000 +0000" channel="ANTV.cubmu">
         <title>Kun Fayakun</title>
     </programme>
-    <programme start="20250217203000 +0000" stop="20250217220000 +0000" channel="ANTV.cubmu">
+    <programme start="20250217200000 +0000" stop="20250217220000 +0000" channel="ANTV.cubmu">
         <title>Anandhi</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217223000 +0000" channel="ANTV.cubmu">
@@ -1848,29 +1689,29 @@
     <programme start="20250217223000 +0000" stop="20250218000000 +0000" channel="ANTV.cubmu">
         <title>Masha And The Bear</title>
     </programme>
-    <programme start="20250218000000 +0000" stop="20250218023000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Spesial : Malin Kundang</title>
+    <programme start="20250218000000 +0000" stop="20250218020000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Spesial : Lutung Kasarung</title>
     </programme>
-    <programme start="20250218023000 +0000" stop="20250218060000 +0000" channel="ANTV.cubmu">
-        <title>Mega Bollywood : Tiger Zinda Hai</title>
+    <programme start="20250218020000 +0000" stop="20250218053000 +0000" channel="ANTV.cubmu">
+        <title>Mega Bollywood: Kal Ho Na Ho</title>
     </programme>
-    <programme start="20250218060000 +0000" stop="20250218073000 +0000" channel="ANTV.cubmu">
+    <programme start="20250218053000 +0000" stop="20250218070000 +0000" channel="ANTV.cubmu">
         <title>Radha Mohan</title>
     </programme>
-    <programme start="20250218073000 +0000" stop="20250218100000 +0000" channel="ANTV.cubmu">
-        <title>Anupamaa</title>
+    <programme start="20250218070000 +0000" stop="20250218083000 +0000" channel="ANTV.cubmu">
+        <title>Bhagya Lakshmi</title>
     </programme>
-    <programme start="20250218100000 +0000" stop="20250218113000 +0000" channel="ANTV.cubmu">
+    <programme start="20250218083000 +0000" stop="20250218113000 +0000" channel="ANTV.cubmu">
         <title>Imlie</title>
     </programme>
-    <programme start="20250218113000 +0000" stop="20250218133000 +0000" channel="ANTV.cubmu">
+    <programme start="20250218113000 +0000" stop="20250218130000 +0000" channel="ANTV.cubmu">
         <title>Aini Malaikat Tak Bersayap</title>
     </programme>
-    <programme start="20250218133000 +0000" stop="20250218153000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Laga Klasik : Naga Seribu</title>
+    <programme start="20250218130000 +0000" stop="20250218150000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Spesial : Suzanna Nyi Blorong</title>
     </programme>
-    <programme start="20250218153000 +0000" stop="20250217180000 +0000" channel="ANTV.cubmu">
-        <title>Sinema Spesial : Dukun Ilmu Hitam</title>
+    <programme start="20250218150000 +0000" stop="20250217170000 +0000" channel="ANTV.cubmu">
+        <title>Sinema Laga Klasik : Dukun Ilmu Hitam</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217230000 +0000" channel="Jak tv.cubmu">
         <title>sign Off</title>
@@ -2282,9 +2123,6 @@
     </programme>
     <programme start="20250218163000 +0000" stop="20250217170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250217170000 +0000" stop="20250217170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250217170500 +0000" stop="20250217170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
