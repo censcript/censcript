@@ -15282,10 +15282,13 @@
     <programme start="20250218054500 +0000" stop="20250218063000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Finance Questions</title>
     </programme>
-    <programme start="20250218063000 +0000" stop="20250218070000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250218063000 +0000" stop="20250218065000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250218070000 +0000" stop="20250218093000 +0000" channel="BBC Parl HD">
+    <programme start="20250218065000 +0000" stop="20250218085000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Budget Motions, Part 1</title>
+    </programme>
+    <programme start="20250218085000 +0000" stop="20250218093000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Budget Motions, Part 2</title>
     </programme>
     <programme start="20250218093000 +0000" stop="20250218110000 +0000" channel="BBC Parl HD">
@@ -28605,14 +28608,17 @@
     <programme start="20250218191300 +0000" stop="20250218191800 +0000" channel="Islam TV">
         <title>Isha Azan</title>
     </programme>
-    <programme start="20250218191800 +0000" stop="20250218200000 +0000" channel="Islam TV">
-        <title>Khatam Ul Quran</title>
+    <programme start="20250218191800 +0000" stop="20250218192000 +0000" channel="Islam TV">
+        <title>Ad Dua</title>
+    </programme>
+    <programme start="20250218192000 +0000" stop="20250218200000 +0000" channel="Islam TV">
+        <title>Food Pack Appeal</title>
     </programme>
     <programme start="20250218200000 +0000" stop="20250218210000 +0000" channel="Islam TV">
-        <title>Khatam Ul Quran</title>
+        <title>Food Pack Appeal</title>
     </programme>
     <programme start="20250218210000 +0000" stop="20250218220000 +0000" channel="Islam TV">
-        <title>Khatam Ul Quran</title>
+        <title>Food Pack Appeal</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="Islam TV">
         <title>Khatam Ul Quran</title>
