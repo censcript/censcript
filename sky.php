@@ -13534,7 +13534,7 @@
         <title>Super Bowl LIX Highlights</title>
     </programme>
     <programme start="20250217150000 +0000" stop="20250217160000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Beterbiev v...</title>
+        <title>Fight Night Int: Beterbiev v Browne</title>
     </programme>
     <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="SkySp NFL HD">
         <title>Fight Night Int: Stevenson v...</title>
@@ -13543,7 +13543,7 @@
         <title>Super Bowl LIX Highlights</title>
     </programme>
     <programme start="20250217180000 +0000" stop="20250217190000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Beterbiev v...</title>
+        <title>Fight Night Int: Beterbiev v Browne</title>
     </programme>
     <programme start="20250217190000 +0000" stop="20250217200000 +0000" channel="SkySp NFL HD">
         <title>Fight Night Int: Stevenson v...</title>
@@ -13555,7 +13555,7 @@
         <title>Fight Night Int: Beterbiev v Bivol</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217230000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Beterbiev v...</title>
+        <title>Fight Night Int: Beterbiev v Browne</title>
     </programme>
     <programme start="20250217230000 +0000" stop="20250218000000 +0000" channel="SkySp NFL HD">
         <title>NFL: Bills @ Lions</title>
@@ -38620,7 +38620,7 @@
         <title>Mary Anne Hobbs</title>
     </programme>
     <programme start="20250217130000 +0000" stop="20250217160000 +0000" channel="BBC R6 Music">
-        <title>Craig Charles</title>
+        <title>Huw Stephens</title>
     </programme>
     <programme start="20250217160000 +0000" stop="20250217190000 +0000" channel="BBC R6 Music">
         <title>Steve Lamacq's Teatime Session</title>
