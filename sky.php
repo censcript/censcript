@@ -13522,7 +13522,7 @@
         <title>NFL: Lions @ Packers</title>
     </programme>
     <programme start="20250217110000 +0000" stop="20250217120000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Beterbiev v...</title>
+        <title>Fight Night Int: Beterbiev v Smith</title>
     </programme>
     <programme start="20250217120000 +0000" stop="20250217130000 +0000" channel="SkySp NFL HD">
         <title>NFL: Eagles @ Commanders</title>
@@ -13537,7 +13537,7 @@
         <title>Fight Night Int: Beterbiev v Browne</title>
     </programme>
     <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Stevenson v...</title>
+        <title>Fight Night Int: Stevenson v Nakathila</title>
     </programme>
     <programme start="20250217170000 +0000" stop="20250217180000 +0000" channel="SkySp NFL HD">
         <title>Super Bowl LIX Highlights</title>
@@ -13546,7 +13546,7 @@
         <title>Fight Night Int: Beterbiev v Browne</title>
     </programme>
     <programme start="20250217190000 +0000" stop="20250217200000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Stevenson v...</title>
+        <title>Fight Night Int: Stevenson v Nakathila</title>
     </programme>
     <programme start="20250217200000 +0000" stop="20250217210000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Buatsi v Azeez</title>

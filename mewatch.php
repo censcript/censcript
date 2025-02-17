@@ -657,26 +657,74 @@
     <programme start="20250216150500 +0000" stop="20250216200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250216200000 +0000" stop="20250216210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250216160000 +0000" stop="20250216170000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1974</title>
     </programme>
-    <programme start="20250216210000 +0000" stop="20250216220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250216170000 +0000" stop="20250216175000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1969 Party - Ever!</title>
+    </programme>
+    <programme start="20250216175000 +0000" stop="20250216182500 +0000" channel="now-70s.mewatch">
+        <title>Groovy Little Numbers!</title>
+    </programme>
+    <programme start="20250216182500 +0000" stop="20250216212500 +0000" channel="now-70s.mewatch">
+        <title>Top Of The 70s Charts</title>
+    </programme>
+    <programme start="20250216212500 +0000" stop="20250216220000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1974</title>
     </programme>
     <programme start="20250216220000 +0000" stop="20250216230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+        <title>Mark Goodier&#039;s No.1s Of 1975</title>
     </programme>
     <programme start="20250216230000 +0000" stop="20250217000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+        <title>All Day - It&#039;s 1975!</title>
     </programme>
-    <programme start="20250217000000 +0000" stop="20250217090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250217000000 +0000" stop="20250217010000 +0000" channel="now-70s.mewatch">
+        <title>The 1975 Power Hour With Bam!</title>
+    </programme>
+    <programme start="20250217010000 +0000" stop="20250217020000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975!</title>
+    </programme>
+    <programme start="20250217020000 +0000" stop="20250217050000 +0000" channel="now-70s.mewatch">
+        <title>50 Years Ago! 1975 Revisited</title>
+    </programme>
+    <programme start="20250217050000 +0000" stop="20250217060000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975!</title>
+    </programme>
+    <programme start="20250217060000 +0000" stop="20250217070000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1975</title>
+    </programme>
+    <programme start="20250217070000 +0000" stop="20250217090000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1975 Party...Ever!</title>
     </programme>
     <programme start="20250217090000 +0000" stop="20250217100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+        <title>American No.1s Of 1975</title>
     </programme>
-    <programme start="20250217100000 +0000" stop="20250217200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250217100000 +0000" stop="20250217103000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975!</title>
+    </programme>
+    <programme start="20250217103000 +0000" stop="20250217112000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1969 Party - Ever!</title>
+    </programme>
+    <programme start="20250217112000 +0000" stop="20250217113000 +0000" channel="now-70s.mewatch">
+        <title>Groovy Little Numbers!</title>
+    </programme>
+    <programme start="20250217113000 +0000" stop="20250217120000 +0000" channel="now-70s.mewatch">
+        <title>The 1975 Power Hour With Bam!</title>
+    </programme>
+    <programme start="20250217120000 +0000" stop="20250217125000 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot In 1975?</title>
+    </programme>
+    <programme start="20250217125000 +0000" stop="20250217130000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975!</title>
+    </programme>
+    <programme start="20250217130000 +0000" stop="20250217151000 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1975&#039;s Best Sellers!</title>
+    </programme>
+    <programme start="20250217151000 +0000" stop="20250217160000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975!</title>
+    </programme>
+    <programme start="20250217160000 +0000" stop="20250217170000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1975</title>
     </programme>
     <programme start="20250216160000 +0000" stop="20250216220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
