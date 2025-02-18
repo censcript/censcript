@@ -13965,14 +13965,17 @@
     <programme start="20250218125500 +0000" stop="20250218135000 +0000" channel="Eurosport 1 HD">
         <title>Biathlon: World Championships</title>
     </programme>
-    <programme start="20250218135000 +0000" stop="20250218160000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250218135000 +0000" stop="20250218160500 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250218160000 +0000" stop="20250218170000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250218160500 +0000" stop="20250218165500 +0000" channel="Eurosport 1 HD">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250218170000 +0000" stop="20250218180000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250218165500 +0000" stop="20250218175000 +0000" channel="Eurosport 1 HD">
         <title>Ski Jumping: World Cup</title>
+    </programme>
+    <programme start="20250218175000 +0000" stop="20250218180000 +0000" channel="Eurosport 1 HD">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250218183000 +0000" channel="Eurosport 1 HD">
         <title>Cyclo-Cross: Exact Cross</title>
@@ -25333,12 +25336,15 @@
         <title>Outerwear Edit with Helene Berman</title>
     </programme>
     <programme start="20250218160000 +0000" stop="20250218170000 +0000" channel="QVC Extra">
-        <title>Kim &amp; Co</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250218170000 +0000" stop="20250218180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
-    <programme start="20250218180000 +0000" stop="20250218200000 +0000" channel="QVC Extra">
+    <programme start="20250218180000 +0000" stop="20250218190000 +0000" channel="QVC Extra">
+        <title>Andi Peters' Food Fest</title>
+    </programme>
+    <programme start="20250218190000 +0000" stop="20250218200000 +0000" channel="QVC Extra">
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250218200000 +0000" stop="20250218210000 +0000" channel="QVC Extra">
@@ -29758,7 +29764,7 @@
         <title>Takht Sri Darbar Sahib Damdama Sahib</title>
     </programme>
     <programme start="20250218093000 +0000" stop="20250218100000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Khas-GalBaat</title>
     </programme>
     <programme start="20250218100000 +0000" stop="20250218103000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -29794,7 +29800,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250218183000 +0000" stop="20250218190000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250218190000 +0000" stop="20250218193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -30505,7 +30511,7 @@
         <title>News at Ten</title>
     </programme>
     <programme start="20250218223000 +0000" stop="20250218233000 +0000" channel="CHSTV">
-        <title>Obhimot</title>
+        <title>22 she April</title>
     </programme>
     <programme start="20250217223000 +0000" stop="20250217233000 +0000" channel="IQRA Bangla">
         <title>Focus Point</title>
@@ -34899,14 +34905,17 @@
     <programme start="20250218125500 +0000" stop="20250218135000 +0000" channel="Eurosport 1">
         <title>Biathlon: World Championships</title>
     </programme>
-    <programme start="20250218135000 +0000" stop="20250218160000 +0000" channel="Eurosport 1">
+    <programme start="20250218135000 +0000" stop="20250218160500 +0000" channel="Eurosport 1">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250218160000 +0000" stop="20250218170000 +0000" channel="Eurosport 1">
+    <programme start="20250218160500 +0000" stop="20250218165500 +0000" channel="Eurosport 1">
         <title>Ski Jumping: World Cup</title>
     </programme>
-    <programme start="20250218170000 +0000" stop="20250218180000 +0000" channel="Eurosport 1">
+    <programme start="20250218165500 +0000" stop="20250218175000 +0000" channel="Eurosport 1">
         <title>Ski Jumping: World Cup</title>
+    </programme>
+    <programme start="20250218175000 +0000" stop="20250218180000 +0000" channel="Eurosport 1">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250218183000 +0000" channel="Eurosport 1">
         <title>Cyclo-Cross: Exact Cross</title>
@@ -37593,17 +37602,20 @@
     <programme start="20250218130000 +0000" stop="20250218134500 +0000" channel="BBC Two Wal HD">
         <title>Impossible</title>
     </programme>
-    <programme start="20250218134500 +0000" stop="20250218144500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250218134500 +0000" stop="20250218143500 +0000" channel="BBC Two Wal HD">
         <title>First Minister's Questions</title>
     </programme>
-    <programme start="20250218144500 +0000" stop="20250218153000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250218143500 +0000" stop="20250218152500 +0000" channel="BBC Two Wal HD">
         <title>Bridge of Lies</title>
     </programme>
-    <programme start="20250218153000 +0000" stop="20250218161500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250218152500 +0000" stop="20250218161000 +0000" channel="BBC Two Wal HD">
         <title>The Tournament</title>
     </programme>
-    <programme start="20250218161500 +0000" stop="20250218171500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250218161000 +0000" stop="20250218171000 +0000" channel="BBC Two Wal HD">
         <title>Dynasties</title>
+    </programme>
+    <programme start="20250218171000 +0000" stop="20250218171500 +0000" channel="BBC Two Wal HD">
+        <title>Nigel Slater's Dish of the Day</title>
     </programme>
     <programme start="20250218171500 +0000" stop="20250218180000 +0000" channel="BBC Two Wal HD">
         <title>Flog It!</title>
