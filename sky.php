@@ -14866,13 +14866,13 @@
         <title>...programmes coming soon</title>
     </programme>
     <programme start="20250218060000 +0000" stop="20250218120000 +0000" channel="TNTSBoxOffHD">
-        <title>...programmes coming soon</title>
+        <title>..programmes coming soon</title>
     </programme>
     <programme start="20250218120000 +0000" stop="20250218180000 +0000" channel="TNTSBoxOffHD">
-        <title>...programmes coming soon</title>
+        <title>..programmes coming soon</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250218190000 +0000" channel="TNTSBoxOffHD">
-        <title>...programmes coming soon</title>
+        <title>..programmes coming soon</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250218020000 +0000" channel="SkySpBoxOffHD">
         <title>Dubois v Parker Previews</title>
@@ -15187,7 +15187,7 @@
         <title>BBC News Now</title>
     </programme>
     <programme start="20250218130000 +0000" stop="20250218140000 +0000" channel="BBC NEWS HD">
-        <title>Signed: BBC News at One</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250218140000 +0000" stop="20250218143000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -15291,10 +15291,10 @@
     <programme start="20250218085000 +0000" stop="20250218093000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Budget Motions, Part 2</title>
     </programme>
-    <programme start="20250218093000 +0000" stop="20250218110000 +0000" channel="BBC Parl HD">
+    <programme start="20250218093000 +0000" stop="20250218113500 +0000" channel="BBC Parl HD">
         <title>Live Scottish Parliament Finance Committee</title>
     </programme>
-    <programme start="20250218110000 +0000" stop="20250218130000 +0000" channel="BBC Parl HD">
+    <programme start="20250218113500 +0000" stop="20250218130000 +0000" channel="BBC Parl HD">
         <title>Live Northern Ireland Assembly</title>
     </programme>
     <programme start="20250218130000 +0000" stop="20250218133000 +0000" channel="BBC Parl HD">
@@ -15316,13 +15316,22 @@
         <title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
     </programme>
     <programme start="20250218165500 +0000" stop="20250218180000 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru - Welsh Parliament Bereavement Care</title>
+        <title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250218190000 +0000" channel="BBC Parl HD">
-        <title>House of Commons   Transport Questions</title>
+        <title>House of Commons - Transport Questions</title>
     </programme>
-    <programme start="20250218190000 +0000" stop="20250218223000 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250218190000 +0000" stop="20250218191500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Topical Questions</title>
+    </programme>
+    <programme start="20250218191500 +0000" stop="20250218194500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Community...</title>
+    </programme>
+    <programme start="20250218194500 +0000" stop="20250218220000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Employer NICs Debate</title>
+    </programme>
+    <programme start="20250218220000 +0000" stop="20250218223000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Members' Statements</title>
     </programme>
     <programme start="20250218223000 +0000" stop="20250218232000 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
