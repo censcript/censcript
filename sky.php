@@ -2749,7 +2749,7 @@
         <title>Cirque Du Soleil: Zaia...</title>
     </programme>
     <programme start="20250218210000 +0000" stop="20250218234500 +0000" channel="Sky Arts HD">
-        <title>New: National Theatre Live: Othello...</title>
+        <title>New: National Theatre Live: Othello</title>
     </programme>
     <programme start="20250218234500 +0000" stop="20250219004500 +0000" channel="Sky Arts HD">
         <title>Will's Book: Shakespeare's First Folio</title>
@@ -24619,19 +24619,19 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250218190000 +0000" stop="20250218200000 +0000" channel="QVC Beauty">
-        <title>Farewell Mally: Up to 50% off</title>
+        <title>Cosmetics Year End Sale</title>
     </programme>
     <programme start="20250218200000 +0000" stop="20250218210000 +0000" channel="QVC Beauty">
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250218210000 +0000" stop="20250218220000 +0000" channel="QVC Beauty">
-        <title>Nassif MD Dermaceuticals</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250218230000 +0000" stop="20250219000000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217230000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -33457,7 +33457,7 @@
         <title>Cirque Du Soleil: Zaia...</title>
     </programme>
     <programme start="20250218210000 +0000" stop="20250218234500 +0000" channel="Sky Arts">
-        <title>New: National Theatre Live: Othello...</title>
+        <title>New: National Theatre Live: Othello</title>
     </programme>
     <programme start="20250218234500 +0000" stop="20250219004500 +0000" channel="Sky Arts">
         <title>Will's Book: Shakespeare's First Folio</title>
