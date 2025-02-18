@@ -26049,22 +26049,22 @@
     <programme start="20250218172800 +0000" stop="20250218175800 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250218175800 +0000" stop="20250218182900 +0000" channel="SONY TV HD">
+    <programme start="20250218175800 +0000" stop="20250218183000 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250218182900 +0000" stop="20250218185900 +0000" channel="SONY TV HD">
+    <programme start="20250218183000 +0000" stop="20250218185900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250218185900 +0000" stop="20250218193000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250218193000 +0000" stop="20250218205900 +0000" channel="SONY TV HD">
+    <programme start="20250218193000 +0000" stop="20250218210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250218205900 +0000" stop="20250218220800 +0000" channel="SONY TV HD">
+    <programme start="20250218210000 +0000" stop="20250218221000 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250218220800 +0000" stop="20250218233600 +0000" channel="SONY TV HD">
+    <programme start="20250218221000 +0000" stop="20250218233600 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250218233600 +0000" stop="20250219003600 +0000" channel="SONY TV HD">
@@ -29968,7 +29968,7 @@
         <title>Special Report</title>
     </programme>
     <programme start="20250218140000 +0000" stop="20250218150000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Live: Water Borewell (Sikligar)</title>
     </programme>
     <programme start="20250218150000 +0000" stop="20250218160000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
@@ -35733,22 +35733,22 @@
     <programme start="20250218172800 +0000" stop="20250218175800 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250218175800 +0000" stop="20250218182900 +0000" channel="SONY TV">
+    <programme start="20250218175800 +0000" stop="20250218183000 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250218182900 +0000" stop="20250218185900 +0000" channel="SONY TV">
+    <programme start="20250218183000 +0000" stop="20250218185900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250218185900 +0000" stop="20250218193000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250218193000 +0000" stop="20250218205900 +0000" channel="SONY TV">
+    <programme start="20250218193000 +0000" stop="20250218210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250218205900 +0000" stop="20250218220800 +0000" channel="SONY TV">
+    <programme start="20250218210000 +0000" stop="20250218221000 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250218220800 +0000" stop="20250218233600 +0000" channel="SONY TV">
+    <programme start="20250218221000 +0000" stop="20250218233600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250218233600 +0000" stop="20250219003600 +0000" channel="SONY TV">
@@ -38917,7 +38917,7 @@
         <title>Tom Swarbrick</title>
     </programme>
     <programme start="20250218190000 +0000" stop="20250218220000 +0000" channel="LBC">
-        <title>Iain Dale</title>
+        <title>Ali Miraj</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="LBC">
         <title>Henry Riley</title>
