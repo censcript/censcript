@@ -27982,7 +27982,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250218120500 +0000" stop="20250218123000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Sports Room</title>
     </programme>
     <programme start="20250218123000 +0000" stop="20250218130000 +0000" channel="New Vision TV">
         <title>Sports Room</title>
