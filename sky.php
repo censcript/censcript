@@ -30136,7 +30136,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250218090000 +0000" stop="20250218100000 +0000" channel="PoliticsPunjab">
-        <title>Live: Politics Punjab Special</title>
+        <title>Repeat: Current Affairs</title>
     </programme>
     <programme start="20250218100000 +0000" stop="20250218103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -30199,7 +30199,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250218233000 +0000" stop="20250219003000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Politics Punjab Special</title>
+        <title>Repeat: Current Affairs</title>
     </programme>
     <programme start="20250217220000 +0000" stop="20250217230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -38665,10 +38665,10 @@
         <title>Asian Network Chill with Nadia Ali</title>
     </programme>
     <programme start="20250218070000 +0000" stop="20250218100000 +0000" channel="BBC Asian Net">
-        <title>Asian Network Breakfast with Nikita Kanda</title>
+        <title>Asian Network Breakfast with Kan D Man</title>
     </programme>
     <programme start="20250218100000 +0000" stop="20250218110000 +0000" channel="BBC Asian Net">
-        <title>Asian Network Certified with Nikita Kanda</title>
+        <title>Asian Network Certified with Kan D Man</title>
     </programme>
     <programme start="20250218110000 +0000" stop="20250218124500 +0000" channel="BBC Asian Net">
         <title>Haroon Rashid</title>
