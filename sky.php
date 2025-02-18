@@ -15121,16 +15121,13 @@
         <title>Senedd Cymru - Welsh Parliament...</title>
     </programme>
     <programme start="20250219055000 +0000" stop="20250219063000 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru - Welsh Parliament Recycling in Wales</title>
+        <title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
     </programme>
     <programme start="20250219063000 +0000" stop="20250219070500 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
     </programme>
-    <programme start="20250219070500 +0000" stop="20250219073000 +0000" channel="BBC Parl HD">
+    <programme start="20250219070500 +0000" stop="20250219075000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Finance Questions</title>
-    </programme>
-    <programme start="20250219073000 +0000" stop="20250219075000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
     </programme>
     <programme start="20250219075000 +0000" stop="20250219083000 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
@@ -27471,11 +27468,8 @@
     <programme start="20250219065500 +0000" stop="20250219074500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250219074500 +0000" stop="20250219075000 +0000" channel="MTA1 World HD">
+    <programme start="20250219074500 +0000" stop="20250219080000 +0000" channel="MTA1 World HD">
         <title>Averting WWIII</title>
-    </programme>
-    <programme start="20250219075000 +0000" stop="20250219080000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250219080000 +0000" stop="20250219082000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -27555,11 +27549,8 @@
     <programme start="20250219200500 +0000" stop="20250219211000 +0000" channel="MTA1 World HD">
         <title>Rah-e-Huda</title>
     </programme>
-    <programme start="20250219211000 +0000" stop="20250219213000 +0000" channel="MTA1 World HD">
+    <programme start="20250219211000 +0000" stop="20250219213155 +0000" channel="MTA1 World HD">
         <title>National Waqifat-e-Nau Ijtema 2024</title>
-    </programme>
-    <programme start="20250219213000 +0000" stop="20250219213155 +0000" channel="MTA1 World HD">
-        <title>Khilafat In The Early Days</title>
     </programme>
     <programme start="20250219213155 +0000" stop="20250219221000 +0000" channel="MTA1 World HD">
         <title>Khilafat In The Early Days</title>
@@ -27570,10 +27561,7 @@
     <programme start="20250219230000 +0000" stop="20250219235000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250219235000 +0000" stop="20250219235500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250219235500 +0000" stop="20250220005500 +0000" channel="MTA1 World HD">
+    <programme start="20250219235000 +0000" stop="20250220005000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="HUM Masala">

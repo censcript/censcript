@@ -180,6 +180,12 @@
     <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 2.optus">
         <title>N/A - Ulsan v Jeonbuk</title>
     </programme>
+    <programme start="20250301045500 +0000" stop="20250301071000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Kashima v FC Tokyo</title>
+    </programme>
+    <programme start="20250301055500 +0000" stop="20250301081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Vissel Kobe v Avispa</title>
+    </programme>
     <programme start="20250301072000 +0000" stop="20250301094000 +0000" channel="Optus Sport 3.optus">
         <title>N/A - Pohang v Daegu</title>
     </programme>
@@ -197,6 +203,12 @@
     </programme>
     <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 4.optus">
         <title>N/A - Daejeon v Suwon FC</title>
+    </programme>
+    <programme start="20250302045500 +0000" stop="20250302071000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Albirex v Cerezo</title>
+    </programme>
+    <programme start="20250302055500 +0000" stop="20250302081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Urawa Red Diamonds v Kashiwa</title>
     </programme>
     <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Manchester United v Leicester</title>
@@ -287,17 +299,5 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Bay FC v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>
