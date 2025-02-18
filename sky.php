@@ -15120,8 +15120,11 @@
     <programme start="20250219051500 +0000" stop="20250219054500 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament...</title>
     </programme>
-    <programme start="20250219054500 +0000" stop="20250219070000 +0000" channel="BBC Parl HD">
+    <programme start="20250219054500 +0000" stop="20250219063000 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament...</title>
+    </programme>
+    <programme start="20250219063000 +0000" stop="20250219070000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament HD</title>
     </programme>
     <programme start="20250219070000 +0000" stop="20250219080000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament HD</title>
