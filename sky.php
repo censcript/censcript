@@ -29745,11 +29745,11 @@
     <programme start="20250218073000 +0000" stop="20250218083000 +0000" channel="Sikh Channel">
         <title>Live: The Breakfast Show</title>
     </programme>
-    <programme start="20250218083000 +0000" stop="20250218090000 +0000" channel="Sikh Channel">
+    <programme start="20250218083000 +0000" stop="20250218093000 +0000" channel="Sikh Channel">
         <title>Takht Sri Darbar Sahib Damdama Sahib</title>
     </programme>
-    <programme start="20250218090000 +0000" stop="20250218100000 +0000" channel="Sikh Channel">
-        <title>Takht Sri Darbar Sahib Damdama Sahib</title>
+    <programme start="20250218093000 +0000" stop="20250218100000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250218100000 +0000" stop="20250218103000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -29758,7 +29758,7 @@
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250218113000 +0000" stop="20250218120000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250218120000 +0000" stop="20250218133000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -29775,20 +29775,23 @@
     <programme start="20250218153000 +0000" stop="20250218160000 +0000" channel="Sikh Channel">
         <title>Lariwar Katha: Giani Kulwant Singh</title>
     </programme>
-    <programme start="20250218160000 +0000" stop="20250218170000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250218160000 +0000" stop="20250218163000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250218163000 +0000" stop="20250218170000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250218170000 +0000" stop="20250218183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250218183000 +0000" stop="20250218190000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Khas-GalBaat</title>
     </programme>
     <programme start="20250218190000 +0000" stop="20250218193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250218193000 +0000" stop="20250218200000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Teleshopping - Yatra</title>
     </programme>
     <programme start="20250218200000 +0000" stop="20250218210000 +0000" channel="Sikh Channel">
         <title>Live : Derby Q &amp; A</title>
