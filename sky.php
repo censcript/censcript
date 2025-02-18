@@ -852,10 +852,10 @@
     <programme start="20250218040000 +0000" stop="20250218060000 +0000" channel="U&amp;Gold HD">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218060000 +0000" stop="20250218072500 +0000" channel="U&amp;Gold HD">
+    <programme start="20250218060000 +0000" stop="20250218071500 +0000" channel="U&amp;Gold HD">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218072500 +0000" stop="20250218075500 +0000" channel="U&amp;Gold HD">
+    <programme start="20250218071500 +0000" stop="20250218075500 +0000" channel="U&amp;Gold HD">
         <title>The Green Green Grass</title>
     </programme>
     <programme start="20250218075500 +0000" stop="20250218083500 +0000" channel="U&amp;Gold HD">
@@ -7905,10 +7905,10 @@
     <programme start="20250218050000 +0000" stop="20250218070000 +0000" channel="U&amp;Gold+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218070000 +0000" stop="20250218082500 +0000" channel="U&amp;Gold+1">
+    <programme start="20250218070000 +0000" stop="20250218081500 +0000" channel="U&amp;Gold+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218082500 +0000" stop="20250218085500 +0000" channel="U&amp;Gold+1">
+    <programme start="20250218081500 +0000" stop="20250218085500 +0000" channel="U&amp;Gold+1">
         <title>The Green Green Grass</title>
     </programme>
     <programme start="20250218085500 +0000" stop="20250218093500 +0000" channel="U&amp;Gold+1">
@@ -25315,7 +25315,7 @@
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250218130000 +0000" stop="20250218140000 +0000" channel="QVC Extra">
-        <title>Your Transitional Style Edit</title>
+        <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250218140000 +0000" stop="20250218150000 +0000" channel="QVC Extra">
         <title>Sealy: Heart &amp; Soul of Sleep</title>
@@ -25327,7 +25327,7 @@
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250218170000 +0000" stop="20250218180000 +0000" channel="QVC Extra">
-        <title>Ben de Lisi: Spring into Style</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250218200000 +0000" channel="QVC Extra">
         <title>Andi Peters' Food Fest</title>
@@ -25339,10 +25339,10 @@
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250218230000 +0000" stop="20250219000000 +0000" channel="QVC Extra">
-        <title>Practical Gardening Deals</title>
+        <title>Ben de Lisi: Spring into Style</title>
     </programme>
     <programme start="20250217223000 +0000" stop="20250217230000 +0000" channel="High Street TV 3">
         <title>SmartAir Boost Radiator Fan</title>
@@ -29181,10 +29181,10 @@
     <programme start="20250218122000 +0000" stop="20250218122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250218122500 +0000" stop="20250218124500 +0000" channel="Eman Channel">
+    <programme start="20250218122500 +0000" stop="20250218125300 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250218124500 +0000" stop="20250218130000 +0000" channel="Eman Channel">
+    <programme start="20250218125300 +0000" stop="20250218130000 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250218130000 +0000" stop="20250218140000 +0000" channel="Eman Channel">
@@ -29196,13 +29196,13 @@
     <programme start="20250218141500 +0000" stop="20250218144500 +0000" channel="Eman Channel">
         <title>Let's Eat Street</title>
     </programme>
-    <programme start="20250218144500 +0000" stop="20250218144900 +0000" channel="Eman Channel">
+    <programme start="20250218144500 +0000" stop="20250218145000 +0000" channel="Eman Channel">
         <title>A Beautiful Patience</title>
     </programme>
-    <programme start="20250218144900 +0000" stop="20250218145300 +0000" channel="Eman Channel">
+    <programme start="20250218145000 +0000" stop="20250218145500 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250218145300 +0000" stop="20250218150500 +0000" channel="Eman Channel">
+    <programme start="20250218145500 +0000" stop="20250218150500 +0000" channel="Eman Channel">
         <title>A Beautiful Patience</title>
     </programme>
     <programme start="20250218150500 +0000" stop="20250218152000 +0000" channel="Eman Channel">
@@ -29212,7 +29212,7 @@
         <title>Lantern Tales</title>
     </programme>
     <programme start="20250218153500 +0000" stop="20250218155000 +0000" channel="Eman Channel">
-        <title>Little Explorers</title>
+        <title>The Azharis</title>
     </programme>
     <programme start="20250218155000 +0000" stop="20250218160000 +0000" channel="Eman Channel">
         <title>Once Upon a Time</title>
@@ -32274,10 +32274,10 @@
     <programme start="20250218040000 +0000" stop="20250218060000 +0000" channel="U&amp;Gold">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218060000 +0000" stop="20250218072500 +0000" channel="U&amp;Gold">
+    <programme start="20250218060000 +0000" stop="20250218071500 +0000" channel="U&amp;Gold">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250218072500 +0000" stop="20250218075500 +0000" channel="U&amp;Gold">
+    <programme start="20250218071500 +0000" stop="20250218075500 +0000" channel="U&amp;Gold">
         <title>The Green Green Grass</title>
     </programme>
     <programme start="20250218075500 +0000" stop="20250218083500 +0000" channel="U&amp;Gold">
