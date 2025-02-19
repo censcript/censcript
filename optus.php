@@ -240,6 +240,15 @@
     <programme start="20250303192000 +0000" stop="20250303224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Ipswich</title>
     </programme>
+    <programme start="20250308045500 +0000" stop="20250308071000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Urawa Red Diamonds v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250308055500 +0000" stop="20250308081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Gamba v Shimizu</title>
+    </programme>
+    <programme start="20250308065500 +0000" stop="20250308091000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Cerezo v Nagoya</title>
+    </programme>
     <programme start="20250308113000 +0000" stop="20250308145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Manchester City</title>
     </programme>
@@ -257,6 +266,9 @@
     </programme>
     <programme start="20250308195000 +0000" stop="20250308223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Everton</title>
+    </programme>
+    <programme start="20250309045500 +0000" stop="20250309071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kyoto v Avispa</title>
     </programme>
     <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Tottenham Hotspur v Bournemouth</title>
@@ -287,17 +299,5 @@
     </programme>
     <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
-    </programme>
-    <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Angel City FC v San Diego Wave FC</title>
-    </programme>
-    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Portland Thorns FC v Angel City FC</title>
-    </programme>
-    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - North Carolina Courage v Seattle Reign</title>
-    </programme>
-    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Washington Spirit v Kansas City Current</title>
     </programme>
 </tv>
