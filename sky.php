@@ -28347,23 +28347,14 @@
     <programme start="20250219060000 +0000" stop="20250219070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250219070000 +0000" stop="20250219075200 +0000" channel="IQRA TV">
+    <programme start="20250219070000 +0000" stop="20250219075600 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250219075200 +0000" stop="20250219075600 +0000" channel="IQRA TV">
+    <programme start="20250219075600 +0000" stop="20250219081300 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250219075600 +0000" stop="20250219080800 +0000" channel="IQRA TV">
-        <title>Manzil</title>
-    </programme>
-    <programme start="20250219080800 +0000" stop="20250219081300 +0000" channel="IQRA TV">
+    <programme start="20250219081300 +0000" stop="20250219091100 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250219081300 +0000" stop="20250219090900 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250219090900 +0000" stop="20250219091100 +0000" channel="IQRA TV">
-        <title>Sehat ek Nemat</title>
     </programme>
     <programme start="20250219091100 +0000" stop="20250219100000 +0000" channel="IQRA TV">
         <title>Sehat ek Nemat</title>
@@ -30561,13 +30552,7 @@
     <programme start="20250219053300 +0000" stop="20250219060000 +0000" channel="ATN">
         <title>Rehana</title>
     </programme>
-    <programme start="20250219060000 +0000" stop="20250219060300 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250219060300 +0000" stop="20250219060800 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250219060800 +0000" stop="20250219070000 +0000" channel="ATN">
+    <programme start="20250219060000 +0000" stop="20250219070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250219070000 +0000" stop="20250219073000 +0000" channel="ATN">
@@ -30600,20 +30585,14 @@
     <programme start="20250219122000 +0000" stop="20250219122300 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250219122300 +0000" stop="20250219122500 +0000" channel="ATN">
+    <programme start="20250219122300 +0000" stop="20250219140000 +0000" channel="ATN">
         <title>Bidhan</title>
-    </programme>
-    <programme start="20250219122500 +0000" stop="20250219140000 +0000" channel="ATN">
-        <title>Tumi Amar Shami</title>
     </programme>
     <programme start="20250219140000 +0000" stop="20250219143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250219143000 +0000" stop="20250219145700 +0000" channel="ATN">
+    <programme start="20250219143000 +0000" stop="20250219152600 +0000" channel="ATN">
         <title>Bidhan</title>
-    </programme>
-    <programme start="20250219145700 +0000" stop="20250219152600 +0000" channel="ATN">
-        <title>Tumi Amar Shami</title>
     </programme>
     <programme start="20250219152600 +0000" stop="20250219153000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
@@ -30621,11 +30600,8 @@
     <programme start="20250219153000 +0000" stop="20250219160000 +0000" channel="ATN">
         <title>Bidhan</title>
     </programme>
-    <programme start="20250219160000 +0000" stop="20250219164800 +0000" channel="ATN">
+    <programme start="20250219160000 +0000" stop="20250219165500 +0000" channel="ATN">
         <title>ATN News</title>
-    </programme>
-    <programme start="20250219164800 +0000" stop="20250219165500 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
     </programme>
     <programme start="20250219165500 +0000" stop="20250219170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30639,13 +30615,7 @@
     <programme start="20250219173000 +0000" stop="20250219180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250219180000 +0000" stop="20250219182500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250219182500 +0000" stop="20250219183000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250219183000 +0000" stop="20250219185000 +0000" channel="ATN">
+    <programme start="20250219180000 +0000" stop="20250219185000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250219185000 +0000" stop="20250219185500 +0000" channel="ATN">
@@ -31006,13 +30976,13 @@
         <title>Madinar Alo</title>
     </programme>
     <programme start="20250219150000 +0000" stop="20250219153300 +0000" channel="iON TV">
-        <title>Rajniti</title>
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250219153300 +0000" stop="20250219153800 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250219153800 +0000" stop="20250219170000 +0000" channel="iON TV">
-        <title>Rajniti</title>
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250219170000 +0000" stop="20250219172600 +0000" channel="iON TV">
         <title>Charity Appeal</title>
