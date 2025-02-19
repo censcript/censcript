@@ -25051,58 +25051,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250219060000 +0000" stop="20250219070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Beautech Beauty Massager &amp; More with Natalia</title>
     </programme>
     <programme start="20250219070000 +0000" stop="20250219080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Kate Somerville Skincare with Natalia</title>
     </programme>
     <programme start="20250219080000 +0000" stop="20250219090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Luna'mour Cellufade with Natalia</title>
     </programme>
     <programme start="20250219090000 +0000" stop="20250219100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Tread Your Way to Fitness with Natalia</title>
     </programme>
     <programme start="20250219100000 +0000" stop="20250219110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Tamsy Fashion Collection with Lindsey</title>
     </programme>
     <programme start="20250219110000 +0000" stop="20250219120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Charlotte West Linen Belted Dress with Lindsey</title>
     </programme>
     <programme start="20250219120000 +0000" stop="20250219130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Machine Washable Anti-Skid ...</title>
     </programme>
     <programme start="20250219130000 +0000" stop="20250219140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Tread Your Way to Fitness with Lindsey</title>
     </programme>
     <programme start="20250219140000 +0000" stop="20250219150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Pyjama Set with Sally</title>
     </programme>
     <programme start="20250219150000 +0000" stop="20250219160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>La Marey Fashion with Sally</title>
     </programme>
     <programme start="20250219160000 +0000" stop="20250219170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Ladies Crossbody Bag with Sally</title>
     </programme>
     <programme start="20250219170000 +0000" stop="20250219180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>New Footwear with Sally</title>
     </programme>
     <programme start="20250219180000 +0000" stop="20250219190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Telescopic Stools with Mike</title>
     </programme>
     <programme start="20250219190000 +0000" stop="20250219200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Men's Waffle T-Shirts &amp; More with Mike</title>
     </programme>
     <programme start="20250219200000 +0000" stop="20250219210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Cordless Vacuum Cleaner with Mike</title>
     </programme>
     <programme start="20250219210000 +0000" stop="20250219220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Regatta Outdoor Clothing with Mike</title>
     </programme>
     <programme start="20250219220000 +0000" stop="20250219230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal Lifestyle with Jeremy</title>
     </programme>
     <programme start="20250219230000 +0000" stop="20250220000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>TACKLIFE 19 in 1 Garden Tool Set with Jeremy</title>
     </programme>
     <programme start="20250218180000 +0000" stop="20250219000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
