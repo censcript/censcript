@@ -27765,20 +27765,14 @@
     <programme start="20250219120000 +0000" stop="20250219120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250219120500 +0000" stop="20250219123000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
-    </programme>
-    <programme start="20250219123000 +0000" stop="20250219130000 +0000" channel="GEO News">
+    <programme start="20250219120500 +0000" stop="20250219130000 +0000" channel="GEO News">
         <title>Geo Pakistan</title>
     </programme>
     <programme start="20250219130000 +0000" stop="20250219130500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250219130500 +0000" stop="20250219133000 +0000" channel="GEO News">
+    <programme start="20250219130500 +0000" stop="20250219140000 +0000" channel="GEO News">
         <title>Geo World News</title>
-    </programme>
-    <programme start="20250219133000 +0000" stop="20250219140000 +0000" channel="GEO News">
-        <title>Score</title>
     </programme>
     <programme start="20250219140000 +0000" stop="20250219140500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -30082,7 +30076,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250219090000 +0000" stop="20250219100000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250219100000 +0000" stop="20250219103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -30142,7 +30136,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250219233000 +0000" stop="20250220003000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250218220000 +0000" stop="20250218230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>

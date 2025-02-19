@@ -1038,7 +1038,7 @@
     <programme start="20250218160000 +0000" stop="20250219160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 20th February, Thursday 10pm ONE 171: Qatar</title>
     </programme>
-    <programme start="20250219160000 +0000" stop="20250220140000 +0000" channel="Live 2.mewatch">
+    <programme start="20250219160000 +0000" stop="20250220150000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 20th February, Thursday 10pm ONE 171: Qatar</title>
     </programme>
     <programme start="20250218160000 +0000" stop="20250219160000 +0000" channel="Live 5.mewatch">
