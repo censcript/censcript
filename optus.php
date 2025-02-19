@@ -4,7 +4,7 @@
         <title>Premier League - Aston Villa v Liverpool</title>
     </programme>
     <programme start="20250220133000 +0000" stop="20250220140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Manuel Ugarte</title>
     </programme>
     <programme start="20250221103000 +0000" stop="20250221110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>

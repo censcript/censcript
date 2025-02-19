@@ -14169,8 +14169,8 @@
     <programme start="20250220230000 +0000" stop="20250221000000 +0000" channel="SkySp Mix HD">
         <title>ICC CT'25: IND v BAN Hlts</title>
     </programme>
-    <programme start="20250219223000 +0000" stop="20250219230000 +0000" channel="TNT Sports 3">
-        <title>Isuzu UTE A-League Highlights</title>
+    <programme start="20250219224500 +0000" stop="20250219230000 +0000" channel="TNT Sports 3">
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250219230000 +0000" stop="20250219233000 +0000" channel="TNT Sports 3">
         <title>Liberty A-League Women Highlights</title>
@@ -15112,7 +15112,7 @@
         <title>Senedd Cymru - Welsh Parliament...</title>
     </programme>
     <programme start="20250220054000 +0000" stop="20250220055000 +0000" channel="BBC Parl HD">
-        <title>Lords - Clonoe Inquest Statement</title>
+        <title>House of Lords - Clonoe Inquest Statement</title>
     </programme>
     <programme start="20250220055000 +0000" stop="20250220070000 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament - Gaza Debate</title>
@@ -27435,14 +27435,14 @@
     <programme start="20250220062000 +0000" stop="20250220063500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250220063500 +0000" stop="20250220065500 +0000" channel="MTA1 World HD">
+    <programme start="20250220063500 +0000" stop="20250220070000 +0000" channel="MTA1 World HD">
         <title>The Promised Son</title>
     </programme>
-    <programme start="20250220065500 +0000" stop="20250220072500 +0000" channel="MTA1 World HD">
-        <title>National Waqfeen-e-Nau Ijtema</title>
+    <programme start="20250220070000 +0000" stop="20250220073000 +0000" channel="MTA1 World HD">
+        <title>National Waqfeen-e-Nau Ijtema 2024</title>
     </programme>
-    <programme start="20250220072500 +0000" stop="20250220075000 +0000" channel="MTA1 World HD">
-        <title>Global Impact Of Tehrik-e-Jadid</title>
+    <programme start="20250220073000 +0000" stop="20250220075000 +0000" channel="MTA1 World HD">
+        <title>Ausaf-e-Fazl-e-Umar</title>
     </programme>
     <programme start="20250220075000 +0000" stop="20250220080000 +0000" channel="MTA1 World HD">
         <title>Majlis Khuddamul Ahmadiyya UK</title>
@@ -27489,13 +27489,13 @@
     <programme start="20250220140000 +0000" stop="20250220142000 +0000" channel="MTA1 World HD">
         <title>Musleh-e-Ma'ood Prophecy</title>
     </programme>
-    <programme start="20250220142000 +0000" stop="20250220144000 +0000" channel="MTA1 World HD">
+    <programme start="20250220142000 +0000" stop="20250220143500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon 4 Kids</title>
     </programme>
-    <programme start="20250220144000 +0000" stop="20250220145500 +0000" channel="MTA1 World HD">
+    <programme start="20250220143500 +0000" stop="20250220145000 +0000" channel="MTA1 World HD">
         <title>Institution Of Jama'at Ahmadiyya</title>
     </programme>
-    <programme start="20250220145500 +0000" stop="20250220155000 +0000" channel="MTA1 World HD">
+    <programme start="20250220145000 +0000" stop="20250220155000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
     <programme start="20250220155000 +0000" stop="20250220165500 +0000" channel="MTA1 World HD">
@@ -27522,17 +27522,17 @@
     <programme start="20250220185000 +0000" stop="20250220191500 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
     </programme>
-    <programme start="20250220191500 +0000" stop="20250220193500 +0000" channel="MTA1 World HD">
+    <programme start="20250220191500 +0000" stop="20250220193000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon 4 Kids</title>
     </programme>
-    <programme start="20250220193500 +0000" stop="20250220201500 +0000" channel="MTA1 World HD">
+    <programme start="20250220193000 +0000" stop="20250220201000 +0000" channel="MTA1 World HD">
         <title>MTA Talks</title>
     </programme>
-    <programme start="20250220201500 +0000" stop="20250220204000 +0000" channel="MTA1 World HD">
+    <programme start="20250220201000 +0000" stop="20250220203500 +0000" channel="MTA1 World HD">
         <title>The Promised Son</title>
     </programme>
-    <programme start="20250220204000 +0000" stop="20250220205500 +0000" channel="MTA1 World HD">
-        <title>Introduction To Lajna Imaillah UK</title>
+    <programme start="20250220203500 +0000" stop="20250220205500 +0000" channel="MTA1 World HD">
+        <title>Ausaf-e-Fazl-e-Umar</title>
     </programme>
     <programme start="20250220205500 +0000" stop="20250220220000 +0000" channel="MTA1 World HD">
         <title>Bustan-e-Waqfe Nau</title>
@@ -27541,7 +27541,7 @@
         <title>Intikhab-e-Sukhan</title>
     </programme>
     <programme start="20250220230500 +0000" stop="20250220233000 +0000" channel="MTA1 World HD">
-        <title>National Waqfeen-e-Nau Ijtema</title>
+        <title>National Waqfeen-e-Nau Ijtema 2024</title>
     </programme>
     <programme start="20250220233000 +0000" stop="20250221003000 +0000" channel="MTA1 World HD">
         <title>Millat Ka Fidai</title>
@@ -28275,16 +28275,13 @@
     <programme start="20250220000000 +0000" stop="20250220000500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250220000500 +0000" stop="20250220001600 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
-    </programme>
-    <programme start="20250220001600 +0000" stop="20250220011200 +0000" channel="IQRA TV">
+    <programme start="20250220000500 +0000" stop="20250220010100 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250220011200 +0000" stop="20250220013100 +0000" channel="IQRA TV">
+    <programme start="20250220010100 +0000" stop="20250220012100 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250220013100 +0000" stop="20250220051100 +0000" channel="IQRA TV">
+    <programme start="20250220012100 +0000" stop="20250220051100 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250220051100 +0000" stop="20250220051300 +0000" channel="IQRA TV">
@@ -28299,16 +28296,16 @@
     <programme start="20250220060000 +0000" stop="20250220070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250220070000 +0000" stop="20250220075100 +0000" channel="IQRA TV">
+    <programme start="20250220070000 +0000" stop="20250220075400 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250220075100 +0000" stop="20250220080800 +0000" channel="IQRA TV">
+    <programme start="20250220075400 +0000" stop="20250220081000 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250220080800 +0000" stop="20250220090300 +0000" channel="IQRA TV">
+    <programme start="20250220081000 +0000" stop="20250220090000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250220090300 +0000" stop="20250220100000 +0000" channel="IQRA TV">
+    <programme start="20250220090000 +0000" stop="20250220100000 +0000" channel="IQRA TV">
         <title>Aap Kay Masail</title>
     </programme>
     <programme start="20250220100000 +0000" stop="20250220102500 +0000" channel="IQRA TV">
@@ -28693,19 +28690,19 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250220200000 +0000" stop="20250220210000 +0000" channel="Takbeer TV">
-        <title>Sarkar Ki Batain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250220210000 +0000" stop="20250220220000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250220230000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250220230000 +0000" stop="20250221000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -30510,13 +30507,7 @@
     <programme start="20250220053000 +0000" stop="20250220060000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250220060000 +0000" stop="20250220060200 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250220060200 +0000" stop="20250220060700 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250220060700 +0000" stop="20250220070000 +0000" channel="ATN">
+    <programme start="20250220060000 +0000" stop="20250220070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250220070000 +0000" stop="20250220073000 +0000" channel="ATN">
@@ -30541,64 +30532,61 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250220103000 +0000" stop="20250220110000 +0000" channel="ATN">
-        <title>ATN Rannaghor</title>
+        <title>Modhu Gunjon</title>
     </programme>
     <programme start="20250220110000 +0000" stop="20250220115500 +0000" channel="ATN">
-        <title>Abegi Chairman</title>
+        <title>Sweet Problem</title>
     </programme>
     <programme start="20250220115500 +0000" stop="20250220120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220122000 +0000" channel="ATN">
-        <title>Showvaggo</title>
+        <title>O Shathire</title>
     </programme>
     <programme start="20250220122000 +0000" stop="20250220122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250220122500 +0000" stop="20250220140000 +0000" channel="ATN">
-        <title>Showvaggo</title>
+        <title>O Shathire</title>
     </programme>
     <programme start="20250220140000 +0000" stop="20250220143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250220143000 +0000" stop="20250220145700 +0000" channel="ATN">
-        <title>Showvaggo</title>
+    <programme start="20250220143000 +0000" stop="20250220152500 +0000" channel="ATN">
+        <title>O Shathire</title>
     </programme>
-    <programme start="20250220145700 +0000" stop="20250220150400 +0000" channel="ATN">
+    <programme start="20250220152500 +0000" stop="20250220152800 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250220150400 +0000" stop="20250220155500 +0000" channel="ATN">
-        <title>Showvaggo</title>
+    <programme start="20250220152800 +0000" stop="20250220155500 +0000" channel="ATN">
+        <title>O Shathire</title>
     </programme>
     <programme start="20250220155500 +0000" stop="20250220160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250220160000 +0000" stop="20250220164800 +0000" channel="ATN">
+    <programme start="20250220160000 +0000" stop="20250220165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250220164800 +0000" stop="20250220165300 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250220165300 +0000" stop="20250220170000 +0000" channel="ATN">
+    <programme start="20250220165500 +0000" stop="20250220170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250220170000 +0000" stop="20250220173000 +0000" channel="ATN">
+    <programme start="20250220170000 +0000" stop="20250220172800 +0000" channel="ATN">
         <title>Shapla Shaluk</title>
+    </programme>
+    <programme start="20250220172800 +0000" stop="20250220173000 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
     </programme>
     <programme start="20250220173000 +0000" stop="20250220180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250220180000 +0000" stop="20250220182500 +0000" channel="ATN">
+    <programme start="20250220180000 +0000" stop="20250220185200 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250220182500 +0000" stop="20250220183000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250220183000 +0000" stop="20250220185500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250220185500 +0000" stop="20250220190000 +0000" channel="ATN">
+    <programme start="20250220185200 +0000" stop="20250220185700 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250220185700 +0000" stop="20250220190000 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220213000 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -35019,8 +35007,8 @@
     <programme start="20250220230000 +0000" stop="20250221000000 +0000" channel="SkySp Mix">
         <title>ICC CT'25: IND v BAN Hlts</title>
     </programme>
-    <programme start="20250219223000 +0000" stop="20250219230000 +0000" channel="TNTSports3 HD">
-        <title>Isuzu UTE A-League Highlights</title>
+    <programme start="20250219224500 +0000" stop="20250219230000 +0000" channel="TNTSports3 HD">
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250219230000 +0000" stop="20250219233000 +0000" channel="TNTSports3 HD">
         <title>Liberty A-League Women Highlights</title>
