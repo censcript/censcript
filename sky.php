@@ -14010,11 +14010,8 @@
     <programme start="20250219095000 +0000" stop="20250219105000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250219105000 +0000" stop="20250219123000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250219105000 +0000" stop="20250219125000 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: UAE Tour</title>
-    </programme>
-    <programme start="20250219123000 +0000" stop="20250219125000 +0000" channel="Eurosport 2 HD">
-        <title>Cycling: Omloop Het Nieuwsblad</title>
     </programme>
     <programme start="20250219125000 +0000" stop="20250219130000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Omloop Het Nieuwsblad</title>
@@ -15171,11 +15168,8 @@
     <programme start="20250219152000 +0000" stop="20250219170000 +0000" channel="BBC Parl HD">
         <title>Live Scottish Parliament -...</title>
     </programme>
-    <programme start="20250219170000 +0000" stop="20250219173000 +0000" channel="BBC Parl HD">
+    <programme start="20250219170000 +0000" stop="20250219174000 +0000" channel="BBC Parl HD">
         <title>Live Scottish Parliament - Rural Crime</title>
-    </programme>
-    <programme start="20250219173000 +0000" stop="20250219174000 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru - Welsh Parliament</title>
     </programme>
     <programme start="20250219174000 +0000" stop="20250219182500 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament - Housing Questions</title>
@@ -25989,8 +25983,11 @@
     <programme start="20250219095400 +0000" stop="20250219110500 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250219110500 +0000" stop="20250219130200 +0000" channel="SONY TV HD">
+    <programme start="20250219110500 +0000" stop="20250219113500 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
+    </programme>
+    <programme start="20250219113500 +0000" stop="20250219130200 +0000" channel="SONY TV HD">
+        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250219130200 +0000" stop="20250219135100 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
@@ -34902,11 +34899,8 @@
     <programme start="20250219095000 +0000" stop="20250219105000 +0000" channel="Eurosport 2">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250219105000 +0000" stop="20250219123000 +0000" channel="Eurosport 2">
+    <programme start="20250219105000 +0000" stop="20250219125000 +0000" channel="Eurosport 2">
         <title>Live Cycling: UAE Tour</title>
-    </programme>
-    <programme start="20250219123000 +0000" stop="20250219125000 +0000" channel="Eurosport 2">
-        <title>Cycling: Omloop Het Nieuwsblad</title>
     </programme>
     <programme start="20250219125000 +0000" stop="20250219130000 +0000" channel="Eurosport 2">
         <title>Cycling: Omloop Het Nieuwsblad</title>
