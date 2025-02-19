@@ -27766,7 +27766,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250219120500 +0000" stop="20250219123000 +0000" channel="GEO News">
-        <title>Geo World News</title>
+        <title>Geo Pakistan</title>
     </programme>
     <programme start="20250219123000 +0000" stop="20250219130000 +0000" channel="GEO News">
         <title>Geo Pakistan</title>
@@ -27775,7 +27775,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250219130500 +0000" stop="20250219133000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
+        <title>Geo World News</title>
     </programme>
     <programme start="20250219133000 +0000" stop="20250219140000 +0000" channel="GEO News">
         <title>Score</title>
