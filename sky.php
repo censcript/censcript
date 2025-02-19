@@ -15948,7 +15948,10 @@
     <programme start="20250219000000 +0000" stop="20250219003000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
     </programme>
-    <programme start="20250219003000 +0000" stop="20250219020000 +0000" channel="NDTV World">
+    <programme start="20250219003000 +0000" stop="20250219010000 +0000" channel="NDTV World">
+        <title>Mahakumbh Tales with Amish Tripathi</title>
+    </programme>
+    <programme start="20250219010000 +0000" stop="20250219020000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250219020000 +0000" stop="20250219023000 +0000" channel="NDTV World">
@@ -15987,8 +15990,11 @@
     <programme start="20250219153000 +0000" stop="20250219163000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
     </programme>
-    <programme start="20250219163000 +0000" stop="20250219173000 +0000" channel="NDTV World">
+    <programme start="20250219163000 +0000" stop="20250219170000 +0000" channel="NDTV World">
         <title>The 10 O'Clock News</title>
+    </programme>
+    <programme start="20250219170000 +0000" stop="20250219173000 +0000" channel="NDTV World">
+        <title>Mahakumbh Tales with Amish Tripathi</title>
     </programme>
     <programme start="20250219173000 +0000" stop="20250219183000 +0000" channel="NDTV World">
         <title>News</title>
@@ -24568,7 +24574,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250219150000 +0000" stop="20250219160000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Beauty Heroes</title>
     </programme>
     <programme start="20250219160000 +0000" stop="20250219170000 +0000" channel="QVC Beauty">
         <title>Liz Earle Naturally Active</title>
@@ -24580,7 +24586,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250219190000 +0000" stop="20250219200000 +0000" channel="QVC Beauty">
-        <title>Cosmetics Year End Sale</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250219200000 +0000" stop="20250219210000 +0000" channel="QVC Beauty">
         <title>Elemis Skin Therapies</title>
@@ -25270,7 +25276,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250219110000 +0000" stop="20250219120000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>FireLight Lab Grown Diamonds</title>
     </programme>
     <programme start="20250219120000 +0000" stop="20250219130000 +0000" channel="QVC Extra">
         <title>New In Sara Davies Home Collection</title>
@@ -25279,7 +25285,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250219140000 +0000" stop="20250219150000 +0000" channel="QVC Extra">
-        <title>Michael Perry's Garden</title>
+        <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250219150000 +0000" stop="20250219160000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
@@ -25288,19 +25294,19 @@
         <title>Home Improvements</title>
     </programme>
     <programme start="20250219170000 +0000" stop="20250219180000 +0000" channel="QVC Extra">
-        <title>Practical Gardening Deals</title>
-    </programme>
-    <programme start="20250219180000 +0000" stop="20250219190000 +0000" channel="QVC Extra">
-        <title>Sealy: Heart &amp; Soul of Sleep</title>
-    </programme>
-    <programme start="20250219190000 +0000" stop="20250219200000 +0000" channel="QVC Extra">
-        <title>Kitchen Finds with up to 50% Off</title>
-    </programme>
-    <programme start="20250219200000 +0000" stop="20250219210000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
+    <programme start="20250219180000 +0000" stop="20250219190000 +0000" channel="QVC Extra">
+        <title>20% off Trainers</title>
+    </programme>
+    <programme start="20250219190000 +0000" stop="20250219200000 +0000" channel="QVC Extra">
+        <title>Grumpy Gardener</title>
+    </programme>
+    <programme start="20250219200000 +0000" stop="20250219210000 +0000" channel="QVC Extra">
+        <title>The Hottest Names in Tech</title>
+    </programme>
     <programme start="20250219210000 +0000" stop="20250219220000 +0000" channel="QVC Extra">
-        <title>Michael Perry's Garden</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250219220000 +0000" stop="20250219230000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250219150000 +0000" stop="20250219160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250219180000 +0000" stop="20250219183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Aaron Ramsey</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
+    </programme>
+    <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v San Diego Wave FC</title>
     </programme>
 </tv>
