@@ -14310,8 +14310,11 @@
     <programme start="20250219090000 +0000" stop="20250219103000 +0000" channel="MUTV HD">
         <title>FAC SF: Arsenal v United 98/99</title>
     </programme>
-    <programme start="20250219103000 +0000" stop="20250219141500 +0000" channel="MUTV HD">
+    <programme start="20250219103000 +0000" stop="20250219123000 +0000" channel="MUTV HD">
         <title>1999 UCL Final v Bayern Munich</title>
+    </programme>
+    <programme start="20250219123000 +0000" stop="20250219141500 +0000" channel="MUTV HD">
+        <title>PL: Bradford v United 99/00</title>
     </programme>
     <programme start="20250219141500 +0000" stop="20250219160000 +0000" channel="MUTV HD">
         <title>PL: Tottenham v United 01/02</title>
