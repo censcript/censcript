@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250219183000 +0000" stop="20250219223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Aston Villa v Liverpool</title>
-    </programme>
     <programme start="20250220133000 +0000" stop="20250220140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Manuel Ugarte</title>
     </programme>
@@ -234,6 +231,12 @@
     <programme start="20250303192000 +0000" stop="20250303224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Ipswich</title>
     </programme>
+    <programme start="20250305185500 +0000" stop="20250305211000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - West Ham United v Manchester City</title>
+    </programme>
+    <programme start="20250305192000 +0000" stop="20250305214000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Chelsea v Leicester</title>
+    </programme>
     <programme start="20250308045500 +0000" stop="20250308071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Urawa Red Diamonds v Fagiano Okayama</title>
     </programme>
@@ -276,6 +279,12 @@
     <programme start="20250309193000 +0000" stop="20250309223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - West Ham United v Newcastle United</title>
     </programme>
+    <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Everton v Arsenal</title>
+    </programme>
+    <programme start="20250314190500 +0000" stop="20250314212500 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Liverpool v Manchester United</title>
+    </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
     </programme>
@@ -290,14 +299,5 @@
     </programme>
     <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
-    </programme>
-    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Seattle Reign v Gotham FC</title>
-    </programme>
-    <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Angel City FC v San Diego Wave FC</title>
-    </programme>
-    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
 </tv>
