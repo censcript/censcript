@@ -29953,10 +29953,10 @@
         <title>Competition Show with Jagdeep</title>
     </programme>
     <programme start="20250220140000 +0000" stop="20250220150000 +0000" channel="Kanshi TV">
-        <title>Kar Bhalla Ho Bhalla</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250220150000 +0000" stop="20250220160000 +0000" channel="Kanshi TV">
-        <title>Ik Tera Sahara</title>
+        <title>Kanshi TV Special</title>
     </programme>
     <programme start="20250220160000 +0000" stop="20250220170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
@@ -30667,7 +30667,7 @@
         <title>Law and Justice</title>
     </programme>
     <programme start="20250220110000 +0000" stop="20250220120000 +0000" channel="NTV">
-        <title>Ek Joban</title>
+        <title>Goriber Bhai</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
@@ -30679,7 +30679,7 @@
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250220123000 +0000" stop="20250220140000 +0000" channel="NTV">
-        <title>Ek Joban</title>
+        <title>Goriber Bhai</title>
     </programme>
     <programme start="20250220140000 +0000" stop="20250220143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
