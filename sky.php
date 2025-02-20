@@ -37503,22 +37503,22 @@
     <programme start="20250220022500 +0000" stop="20250220034500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220034500 +0000" stop="20250220050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220034500 +0000" stop="20250220060000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220050000 +0000" stop="20250220062000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220060000 +0000" stop="20250220061500 +0000" channel="BBC RB 1 HD">
+        <title>This is BBC Red Button</title>
+    </programme>
+    <programme start="20250220061500 +0000" stop="20250220073500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220062000 +0000" stop="20250220074000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220073500 +0000" stop="20250220085500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220074000 +0000" stop="20250220090000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220085500 +0000" stop="20250220101500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220090000 +0000" stop="20250220102000 +0000" channel="BBC RB 1 HD">
-        <title>MOTD: UEFA Champions League</title>
-    </programme>
-    <programme start="20250220102000 +0000" stop="20250220113500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220101500 +0000" stop="20250220113500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
     <programme start="20250220113500 +0000" stop="20250220130000 +0000" channel="BBC RB 1 HD">
