@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250220133000 +0000" stop="20250220140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Manuel Ugarte</title>
-    </programme>
     <programme start="20250221103000 +0000" stop="20250221110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
+    </programme>
+    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Seattle Reign v Gotham FC</title>
     </programme>
 </tv>
