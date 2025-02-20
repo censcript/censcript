@@ -2617,7 +2617,7 @@
         <title>Airport Security: Rome</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220130000 +0000" channel="Nat Geo HD">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220130000 +0000" stop="20250220140000 +0000" channel="Nat Geo HD">
         <title>Rocky Mountain Railroad</title>
@@ -2632,7 +2632,7 @@
         <title>Murder In The Skies: Who...</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220180000 +0000" channel="Nat Geo HD">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Nat Geo HD">
         <title>Car S.O.S.</title>
@@ -8860,7 +8860,7 @@
         <title>Airport Security: Rome</title>
     </programme>
     <programme start="20250220130000 +0000" stop="20250220140000 +0000" channel="Nat Geo+1">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220140000 +0000" stop="20250220150000 +0000" channel="Nat Geo+1">
         <title>Rocky Mountain Railroad</title>
@@ -8875,7 +8875,7 @@
         <title>Murder In The Skies: Who...</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Nat Geo+1">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="Nat Geo+1">
         <title>Car S.O.S.</title>
@@ -14983,7 +14983,7 @@
         <title>Signed: BBC News</title>
     </programme>
     <programme start="20250220073000 +0000" stop="20250220080000 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250220080000 +0000" stop="20250220083000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
@@ -33235,7 +33235,7 @@
         <title>Airport Security: Rome</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220130000 +0000" channel="Nat Geo">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220130000 +0000" stop="20250220140000 +0000" channel="Nat Geo">
         <title>Rocky Mountain Railroad</title>
@@ -33250,7 +33250,7 @@
         <title>Murder In The Skies: Who...</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220180000 +0000" channel="Nat Geo">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Nat Geo">
         <title>Car S.O.S.</title>
@@ -37098,13 +37098,10 @@
     <programme start="20250220013000 +0000" stop="20250220023000 +0000" channel="BBC One ScotHD">
         <title>Who Do You Think You Are?</title>
     </programme>
-    <programme start="20250220023000 +0000" stop="20250220023500 +0000" channel="BBC One ScotHD">
+    <programme start="20250220023000 +0000" stop="20250220060000 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250220023500 +0000" stop="20250220070000 +0000" channel="BBC One ScotHD">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20250220070000 +0000" stop="20250220093000 +0000" channel="BBC One ScotHD">
+    <programme start="20250220060000 +0000" stop="20250220093000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
     </programme>
     <programme start="20250220093000 +0000" stop="20250220104500 +0000" channel="BBC One ScotHD">
