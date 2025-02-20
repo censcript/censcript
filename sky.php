@@ -13359,16 +13359,16 @@
     <programme start="20250221100000 +0000" stop="20250221110000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Doha</title>
     </programme>
-    <programme start="20250221110000 +0000" stop="20250221130000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250221110000 +0000" stop="20250221130001 +0000" channel="SkySp Tennis HD">
         <title>Tennis Highlights</title>
     </programme>
-    <programme start="20250221130000 +0000" stop="20250221170000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250221130001 +0000" stop="20250221150001 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: WTA 1000 Dubai</title>
     </programme>
-    <programme start="20250221170000 +0000" stop="20250221190000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250221150001 +0000" stop="20250221190001 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: ATP Doha</title>
     </programme>
-    <programme start="20250221190000 +0000" stop="20250221193000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250221190001 +0000" stop="20250221193000 +0000" channel="SkySp Tennis HD">
         <title>WTA Doha 2025 Review</title>
     </programme>
     <programme start="20250221193000 +0000" stop="20250221203000 +0000" channel="SkySp Tennis HD">
@@ -13788,16 +13788,19 @@
     <programme start="20250221120000 +0000" stop="20250221130000 +0000" channel="SkySp+ HD">
         <title>Total Football</title>
     </programme>
-    <programme start="20250221130000 +0000" stop="20250221140000 +0000" channel="SkySp+ HD">
+    <programme start="20250221130000 +0000" stop="20250221140001 +0000" channel="SkySp+ HD">
         <title>Total Football</title>
     </programme>
-    <programme start="20250221140000 +0000" stop="20250221150000 +0000" channel="SkySp+ HD">
+    <programme start="20250221140001 +0000" stop="20250221150001 +0000" channel="SkySp+ HD">
         <title>Total Football</title>
     </programme>
-    <programme start="20250221150000 +0000" stop="20250221190000 +0000" channel="SkySp+ HD">
+    <programme start="20250221150001 +0000" stop="20250221170000 +0000" channel="SkySp+ HD">
+        <title>Live Tennis: WTA 1000 Dubai</title>
+    </programme>
+    <programme start="20250221170000 +0000" stop="20250221190001 +0000" channel="SkySp+ HD">
         <title>Live Tennis: ATP Doha</title>
     </programme>
-    <programme start="20250221190000 +0000" stop="20250221193000 +0000" channel="SkySp+ HD">
+    <programme start="20250221190001 +0000" stop="20250221193000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
     <programme start="20250221193000 +0000" stop="20250221193500 +0000" channel="SkySp+ HD">
@@ -30813,20 +30816,23 @@
     <programme start="20250221153600 +0000" stop="20250221154500 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
-    <programme start="20250221154500 +0000" stop="20250221160000 +0000" channel="TV One">
-        <title>Story Time with Sarah</title>
-    </programme>
-    <programme start="20250221160000 +0000" stop="20250221171500 +0000" channel="TV One">
+    <programme start="20250221154500 +0000" stop="20250221170000 +0000" channel="TV One">
         <title>Ramadan collective Launch</title>
     </programme>
-    <programme start="20250221171500 +0000" stop="20250221173000 +0000" channel="TV One">
-        <title>Praner Sur</title>
+    <programme start="20250221170000 +0000" stop="20250221173000 +0000" channel="TV One">
+        <title>Reflections from the ka'ba</title>
     </programme>
     <programme start="20250221173000 +0000" stop="20250221174000 +0000" channel="TV One">
         <title>Maghrib Azaan</title>
     </programme>
-    <programme start="20250221174000 +0000" stop="20250221183000 +0000" channel="TV One">
+    <programme start="20250221174000 +0000" stop="20250221180000 +0000" channel="TV One">
         <title>Reflections from the ka'ba</title>
+    </programme>
+    <programme start="20250221180000 +0000" stop="20250221181500 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250221181500 +0000" stop="20250221183000 +0000" channel="TV One">
+        <title>Imam Naseeha</title>
     </programme>
     <programme start="20250221183000 +0000" stop="20250221185800 +0000" channel="TV One">
         <title>Evening News</title>
