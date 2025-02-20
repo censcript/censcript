@@ -2635,7 +2635,7 @@
         <title>Car S.O.S</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Nat Geo HD">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="Nat Geo HD">
         <title>Air Crash Investigation</title>
@@ -8878,7 +8878,7 @@
         <title>Car S.O.S</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="Nat Geo+1">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220200000 +0000" stop="20250220210000 +0000" channel="Nat Geo+1">
         <title>Air Crash Investigation</title>
@@ -24571,7 +24571,7 @@
         <title>Outerwear Edit with Helene Berman</title>
     </programme>
     <programme start="20250220110000 +0000" stop="20250220120000 +0000" channel="QVC Style HD">
-        <title>What to Wear For Spring</title>
+        <title>Ben de Lisi: Spring into Style</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220130000 +0000" channel="QVC Style HD">
         <title>Moda In Pelle</title>
@@ -24595,7 +24595,7 @@
         <title>Refresh Your Garden</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="QVC Style HD">
-        <title>Ben de Lisi: Spring into Style</title>
+        <title>20% off Skechers</title>
     </programme>
     <programme start="20250220200000 +0000" stop="20250220210000 +0000" channel="QVC Style HD">
         <title>Moda In Pelle</title>
@@ -24604,7 +24604,7 @@
         <title>Masai Clothing Copenhagen</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250220230000 +0000" channel="QVC Style HD">
-        <title>A Stylish Start with Katy</title>
+        <title>MarlaWynne Fashion</title>
     </programme>
     <programme start="20250220230000 +0000" stop="20250221000000 +0000" channel="QVC Style HD">
         <title>A Stylish Start with Katy</title>
@@ -29079,10 +29079,10 @@
     <programme start="20250220111500 +0000" stop="20250220113000 +0000" channel="Eman Channel">
         <title>Raised Hands</title>
     </programme>
-    <programme start="20250220113000 +0000" stop="20250220114500 +0000" channel="Eman Channel">
+    <programme start="20250220113000 +0000" stop="20250220114600 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250220114500 +0000" stop="20250220120000 +0000" channel="Eman Channel">
+    <programme start="20250220114600 +0000" stop="20250220120000 +0000" channel="Eman Channel">
         <title>Chapter by Chapter</title>
     </programme>
     <programme start="20250220120000 +0000" stop="20250220121900 +0000" channel="Eman Channel">
@@ -33253,7 +33253,7 @@
         <title>Car S.O.S</title>
     </programme>
     <programme start="20250220180000 +0000" stop="20250220190000 +0000" channel="Nat Geo">
-        <title>Car S.O.S.</title>
+        <title>Car S.O.S</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="Nat Geo">
         <title>Air Crash Investigation</title>
