@@ -13923,10 +13923,10 @@
     <programme start="20250220135500 +0000" stop="20250220145000 +0000" channel="Eurosport 1 HD">
         <title>Biathlon: World Championships</title>
     </programme>
-    <programme start="20250220145000 +0000" stop="20250220160500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250220145000 +0000" stop="20250220161000 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250220160500 +0000" stop="20250220170000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250220161000 +0000" stop="20250220170000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220180000 +0000" channel="Eurosport 1 HD">
@@ -24274,7 +24274,7 @@
         <title>New Season Styles with Seasalt</title>
     </programme>
     <programme start="20250220150000 +0000" stop="20250220160000 +0000" channel="QVC HD">
-        <title>Lara Pearls Collection</title>
+        <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250220160000 +0000" stop="20250220170000 +0000" channel="QVC HD">
         <title>Apricot Clothing</title>
@@ -24556,7 +24556,7 @@
         <title>MarlaWynne Fashion</title>
     </programme>
     <programme start="20250220060000 +0000" stop="20250220070000 +0000" channel="QVC Style HD">
-        <title>20% off Skechers</title>
+        <title>20% off Skechers Boots</title>
     </programme>
     <programme start="20250220070000 +0000" stop="20250220080000 +0000" channel="QVC Style HD">
         <title>Ashwood Handbags</title>
@@ -31053,20 +31053,20 @@
     <programme start="20250220172800 +0000" stop="20250220173800 +0000" channel="Deen TV">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250220173800 +0000" stop="20250220185700 +0000" channel="Deen TV">
+    <programme start="20250220173800 +0000" stop="20250220180000 +0000" channel="Deen TV">
         <title>Qari ul Quran</title>
+    </programme>
+    <programme start="20250220180000 +0000" stop="20250220185700 +0000" channel="Deen TV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250220185700 +0000" stop="20250220190200 +0000" channel="Deen TV">
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250220190200 +0000" stop="20250220193000 +0000" channel="Deen TV">
-        <title>Al Khalil &amp; Boruna Reports</title>
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250220193000 +0000" stop="20250220213000 +0000" channel="Deen TV">
-        <title>Waz O Nasihat</title>
-    </programme>
-    <programme start="20250220213000 +0000" stop="20250220220000 +0000" channel="Deen TV">
-        <title>Tilawat-E-Quran</title>
+    <programme start="20250220193000 +0000" stop="20250220220000 +0000" channel="Deen TV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250220223000 +0000" channel="Deen TV">
         <title>Islami Jibon</title>
@@ -34761,10 +34761,10 @@
     <programme start="20250220135500 +0000" stop="20250220145000 +0000" channel="Eurosport 1">
         <title>Biathlon: World Championships</title>
     </programme>
-    <programme start="20250220145000 +0000" stop="20250220160500 +0000" channel="Eurosport 1">
+    <programme start="20250220145000 +0000" stop="20250220161000 +0000" channel="Eurosport 1">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250220160500 +0000" stop="20250220170000 +0000" channel="Eurosport 1">
+    <programme start="20250220161000 +0000" stop="20250220170000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Championships</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220180000 +0000" channel="Eurosport 1">
@@ -37521,8 +37521,11 @@
     <programme start="20250220113500 +0000" stop="20250220130000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250220130000 +0000" stop="20250220170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220130000 +0000" stop="20250220161000 +0000" channel="BBC RB 1 HD">
         <title>World Seniors Darts Championship</title>
+    </programme>
+    <programme start="20250220161000 +0000" stop="20250220170000 +0000" channel="BBC RB 1 HD">
+        <title>Radio 2's Piano Room</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220182000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: UEFA Champions League</title>
