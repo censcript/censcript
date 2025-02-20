@@ -609,59 +609,119 @@
     <programme start="20250220160000 +0000" stop="20250221160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Sunday 5.50pm. 2024 Singapore Premier League: Tampines Rovers vs Brunei DPMM</title>
     </programme>
-    <programme start="20250219160000 +0000" stop="20250219210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250219180000 +0000" stop="20250219182000 +0000" channel="now-80s.mewatch">
+        <title>101 Feelgood Anthems Of The 80s!</title>
     </programme>
-    <programme start="20250219210000 +0000" stop="20250219220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250219182000 +0000" stop="20250219190000 +0000" channel="now-80s.mewatch">
+        <title>The Ultimate 80s Mix!</title>
     </programme>
-    <programme start="20250219220000 +0000" stop="20250219230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250219190000 +0000" stop="20250219192500 +0000" channel="now-80s.mewatch">
+        <title>Rip Rick Buckler</title>
+    </programme>
+    <programme start="20250219192500 +0000" stop="20250219195000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems!</title>
+    </programme>
+    <programme start="20250219195000 +0000" stop="20250219230000 +0000" channel="now-80s.mewatch">
+        <title>Top Of The 80s Charts</title>
     </programme>
     <programme start="20250219230000 +0000" stop="20250220000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+        <title>Spandau Ballet Gold! 1980-1986</title>
     </programme>
-    <programme start="20250220000000 +0000" stop="20250220040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250220000000 +0000" stop="20250220002500 +0000" channel="now-80s.mewatch">
+        <title>Rip Rick Buckler</title>
     </programme>
-    <programme start="20250220040000 +0000" stop="20250220050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250220002500 +0000" stop="20250220010000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
     </programme>
-    <programme start="20250220050000 +0000" stop="20250220100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250220010000 +0000" stop="20250220030500 +0000" channel="now-80s.mewatch">
+        <title>Favourite Bands With Nick Heyward</title>
     </programme>
-    <programme start="20250220100000 +0000" stop="20250220110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250220030500 +0000" stop="20250220040000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
     </programme>
-    <programme start="20250220110000 +0000" stop="20250220160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250220040000 +0000" stop="20250220042500 +0000" channel="now-80s.mewatch">
+        <title>Rip Rick Buckler</title>
     </programme>
-    <programme start="20250220160000 +0000" stop="20250220210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20250220042500 +0000" stop="20250220050000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250220050000 +0000" stop="20250220060000 +0000" channel="now-80s.mewatch">
+        <title>The Complete Blondie! 1978-1999</title>
+    </programme>
+    <programme start="20250220060000 +0000" stop="20250220083500 +0000" channel="now-80s.mewatch">
+        <title>Timmy Mallett&#039;s Brilliant Bands!</title>
+    </programme>
+    <programme start="20250220083500 +0000" stop="20250220090000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250220090000 +0000" stop="20250220103000 +0000" channel="now-80s.mewatch">
+        <title>Gary Kemp&#039;s 25 Coolest Stars!</title>
+    </programme>
+    <programme start="20250220103000 +0000" stop="20250220105000 +0000" channel="now-80s.mewatch">
+        <title>101 Feelgood Anthems Of The 80s!</title>
+    </programme>
+    <programme start="20250220105000 +0000" stop="20250220113000 +0000" channel="now-80s.mewatch">
+        <title>The Ultimate 80s Mix!</title>
+    </programme>
+    <programme start="20250220113000 +0000" stop="20250220120000 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
+    </programme>
+    <programme start="20250220120000 +0000" stop="20250220140000 +0000" channel="now-80s.mewatch">
+        <title>Talk Of The Town! A-Z Of The UK</title>
+    </programme>
+    <programme start="20250220140000 +0000" stop="20250220142500 +0000" channel="now-80s.mewatch">
+        <title>Rip Rick Buckler</title>
+    </programme>
+    <programme start="20250220142500 +0000" stop="20250220173500 +0000" channel="now-80s.mewatch">
+        <title>Best Played At 45 Rpm!</title>
     </programme>
     <programme start="20250219150000 +0000" stop="20250219200000 +0000" channel="now-70s.mewatch">
         <title>Where Did That Come From?! 70-79</title>
     </programme>
-    <programme start="20250219200000 +0000" stop="20250219210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250219160000 +0000" stop="20250219170000 +0000" channel="now-70s.mewatch">
+        <title>Where Did That Come From?! 70-79</title>
     </programme>
-    <programme start="20250219210000 +0000" stop="20250219220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250219170000 +0000" stop="20250219181500 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco!</title>
     </programme>
-    <programme start="20250219220000 +0000" stop="20250219230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250219181500 +0000" stop="20250219182500 +0000" channel="now-70s.mewatch">
+        <title>Reasons To Be Cheerful!</title>
     </programme>
-    <programme start="20250219230000 +0000" stop="20250220000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250219182500 +0000" stop="20250219202500 +0000" channel="now-70s.mewatch">
+        <title>Bubblegum Pop! Top 30</title>
     </programme>
-    <programme start="20250220000000 +0000" stop="20250220090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250219202500 +0000" stop="20250219212500 +0000" channel="now-70s.mewatch">
+        <title>Where Did That Come From?! 70-79</title>
     </programme>
-    <programme start="20250220090000 +0000" stop="20250220100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250219212500 +0000" stop="20250219220000 +0000" channel="now-70s.mewatch">
+        <title>Where Did That Come From?! 70-79</title>
     </programme>
-    <programme start="20250220100000 +0000" stop="20250220200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250219220000 +0000" stop="20250220020500 +0000" channel="now-70s.mewatch">
+        <title>70s Easy Cheesy! Top 60</title>
+    </programme>
+    <programme start="20250220020500 +0000" stop="20250220030000 +0000" channel="now-70s.mewatch">
+        <title>Reasons To Be Cheerful!</title>
+    </programme>
+    <programme start="20250220030000 +0000" stop="20250220062500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50</title>
+    </programme>
+    <programme start="20250220062500 +0000" stop="20250220070000 +0000" channel="now-70s.mewatch">
+        <title>Reasons To Be Cheerful!</title>
+    </programme>
+    <programme start="20250220070000 +0000" stop="20250220090000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1971 Party...Ever!</title>
+    </programme>
+    <programme start="20250220090000 +0000" stop="20250220103000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1972 Party...Ever!</title>
+    </programme>
+    <programme start="20250220103000 +0000" stop="20250220113000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco!</title>
+    </programme>
+    <programme start="20250220113000 +0000" stop="20250220160000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979</title>
+    </programme>
+    <programme start="20250220160000 +0000" stop="20250220170000 +0000" channel="now-70s.mewatch">
+        <title>Novelty Number 1s! 1970-1979</title>
     </programme>
     <programme start="20250219160000 +0000" stop="20250219220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
