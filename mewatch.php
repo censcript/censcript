@@ -597,6 +597,12 @@
     <programme start="20250220160000 +0000" stop="20250220160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20250219160000 +0000" stop="20250220160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250220160000 +0000" stop="20250221160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20250219160000 +0000" stop="20250220160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 21st February, Friday 7.35pm. 2024 Singapore Premier League: Tanjong Pagar United vs Albirex Niigata S</title>
     </programme>

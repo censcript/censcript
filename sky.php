@@ -25222,7 +25222,7 @@
         <title>Garden &amp; DIY Deals</title>
     </programme>
     <programme start="20250220160000 +0000" stop="20250220170000 +0000" channel="QVC Extra">
-        <title>Michael Perry's Garden</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250220170000 +0000" stop="20250220180000 +0000" channel="QVC Extra">
         <title>Home Improvements</title>
@@ -25231,7 +25231,7 @@
         <title>New In Sara Davies Home Collection</title>
     </programme>
     <programme start="20250220190000 +0000" stop="20250220200000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250220200000 +0000" stop="20250220210000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
@@ -25240,7 +25240,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250220230000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Moda In Pelle</title>
     </programme>
     <programme start="20250220230000 +0000" stop="20250221000000 +0000" channel="QVC Extra">
         <title>New In Sara Davies Home Collection</title>
