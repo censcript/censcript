@@ -13567,10 +13567,10 @@
         <title>Live: UEL Goals Show Xtra</title>
     </programme>
     <programme start="20250220230000 +0000" stop="20250220231500 +0000" channel="TNT Sports 1">
-        <title>Dubois v Parker: The Face Off</title>
+        <title>Beterbiev v Bivol 2: The Face Off</title>
     </programme>
     <programme start="20250220231500 +0000" stop="20250220233000 +0000" channel="TNT Sports 1">
-        <title>Beterbiev v Bivol 2: The Face Off</title>
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250220233000 +0000" stop="20250221000000 +0000" channel="TNT Sports 1">
         <title>Live: NBA Tip-Off</title>
@@ -29922,20 +29922,17 @@
     <programme start="20250221090000 +0000" stop="20250221093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250221093000 +0000" stop="20250221094500 +0000" channel="Kanshi TV">
+    <programme start="20250221093000 +0000" stop="20250221100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250221094500 +0000" stop="20250221110000 +0000" channel="Kanshi TV">
+    <programme start="20250221100000 +0000" stop="20250221110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250221110000 +0000" stop="20250221123000 +0000" channel="Kanshi TV">
         <title>Jyotish Amrit Mata - Astrologer</title>
     </programme>
-    <programme start="20250221123000 +0000" stop="20250221133000 +0000" channel="Kanshi TV">
+    <programme start="20250221123000 +0000" stop="20250221140000 +0000" channel="Kanshi TV">
         <title>Bharat ki Awaz</title>
-    </programme>
-    <programme start="20250221133000 +0000" stop="20250221140000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Cooking Show</title>
     </programme>
     <programme start="20250221140000 +0000" stop="20250221150000 +0000" channel="Kanshi TV">
         <title>Love Laugh Live</title>
@@ -29943,11 +29940,8 @@
     <programme start="20250221150000 +0000" stop="20250221160000 +0000" channel="Kanshi TV">
         <title>Spiritual Guidance Show</title>
     </programme>
-    <programme start="20250221160000 +0000" stop="20250221163000 +0000" channel="Kanshi TV">
+    <programme start="20250221160000 +0000" stop="20250221170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
-    </programme>
-    <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Kanshi TV">
-        <title>Kaum de Heere</title>
     </programme>
     <programme start="20250221170000 +0000" stop="20250221180000 +0000" channel="Kanshi TV">
         <title>Sanjhiyan Vichaaran</title>
@@ -34483,10 +34477,10 @@
         <title>Live: UEL Goals Show Xtra</title>
     </programme>
     <programme start="20250220230000 +0000" stop="20250220231500 +0000" channel="TNTSports1 HD">
-        <title>Dubois v Parker: The Face Off</title>
+        <title>Beterbiev v Bivol 2: The Face Off</title>
     </programme>
     <programme start="20250220231500 +0000" stop="20250220233000 +0000" channel="TNTSports1 HD">
-        <title>Beterbiev v Bivol 2: The Face Off</title>
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250220233000 +0000" stop="20250221000000 +0000" channel="TNTSports1 HD">
         <title>Live: NBA Tip-Off</title>

@@ -264,6 +264,9 @@
     <programme start="20250309045500 +0000" stop="20250309071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v Avispa</title>
     </programme>
+    <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 2.optus">
+        <title>N/A - Manchester City v Aston Villa</title>
+    </programme>
     <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Tottenham Hotspur v Bournemouth</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
-    </programme>
-    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Seattle Reign v Gotham FC</title>
     </programme>
 </tv>
