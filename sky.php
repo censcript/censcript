@@ -13225,7 +13225,7 @@
         <title>NFL: D Lions</title>
     </programme>
     <programme start="20250222040000 +0000" stop="20250222060000 +0000" channel="SkySp NFL HD">
-        <title>Live NRL Pre-Season Challenge: Rnd 3</title>
+        <title>Live NRL Pre-Season Challenge</title>
     </programme>
     <programme start="20250222060000 +0000" stop="20250222061500 +0000" channel="SkySp NFL HD">
         <title>S/Lge 24' Highlights</title>
@@ -13234,10 +13234,10 @@
         <title>S/Lge 24' Highlights</title>
     </programme>
     <programme start="20250222063000 +0000" stop="20250222083000 +0000" channel="SkySp NFL HD">
-        <title>Live NRL Pre-Season Challenge: Rnd 3</title>
+        <title>Live NRL Pre-Season Challenge</title>
     </programme>
     <programme start="20250222083000 +0000" stop="20250222103000 +0000" channel="SkySp NFL HD">
-        <title>Live NRL Pre-Season Challenge: Rnd 3</title>
+        <title>Live NRL Pre-Season Challenge</title>
     </programme>
     <programme start="20250222103000 +0000" stop="20250222110000 +0000" channel="SkySp NFL HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
