@@ -13971,13 +13971,13 @@
     <programme start="20250221124500 +0000" stop="20250221130000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Tour of Flanders</title>
     </programme>
-    <programme start="20250221130000 +0000" stop="20250221144000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250221130000 +0000" stop="20250221143000 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: Tour of Andalucia</title>
     </programme>
-    <programme start="20250221144000 +0000" stop="20250221145500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250221143000 +0000" stop="20250221144500 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Paris-Roubaix</title>
     </programme>
-    <programme start="20250221145500 +0000" stop="20250221150000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250221144500 +0000" stop="20250221150000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: Paris-Roubaix</title>
     </programme>
     <programme start="20250221150000 +0000" stop="20250221170000 +0000" channel="Eurosport 2 HD">
@@ -34788,13 +34788,13 @@
     <programme start="20250221124500 +0000" stop="20250221130000 +0000" channel="Eurosport 2">
         <title>Cycling: Tour of Flanders</title>
     </programme>
-    <programme start="20250221130000 +0000" stop="20250221144000 +0000" channel="Eurosport 2">
+    <programme start="20250221130000 +0000" stop="20250221143000 +0000" channel="Eurosport 2">
         <title>Live Cycling: Tour of Andalucia</title>
     </programme>
-    <programme start="20250221144000 +0000" stop="20250221145500 +0000" channel="Eurosport 2">
+    <programme start="20250221143000 +0000" stop="20250221144500 +0000" channel="Eurosport 2">
         <title>Cycling: Paris-Roubaix</title>
     </programme>
-    <programme start="20250221145500 +0000" stop="20250221150000 +0000" channel="Eurosport 2">
+    <programme start="20250221144500 +0000" stop="20250221150000 +0000" channel="Eurosport 2">
         <title>Cycling: Paris-Roubaix</title>
     </programme>
     <programme start="20250221150000 +0000" stop="20250221170000 +0000" channel="Eurosport 2">
