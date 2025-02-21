@@ -228,6 +228,18 @@
     <programme start="20250303192000 +0000" stop="20250303224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Ipswich</title>
     </programme>
+    <programme start="20250304090000 +0000" stop="20250304100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Aaron Ramsey</title>
+    </programme>
+    <programme start="20250304153000 +0000" stop="20250304160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: </title>
+    </programme>
     <programme start="20250305185500 +0000" stop="20250305211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester City</title>
     </programme>
@@ -287,17 +299,5 @@
     </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
-    </programme>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Houston Dash v Washington Spirit</title>
-    </programme>
-    <programme start="20250315164500 +0000" stop="20250315191500 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Kansas City Current v Portland Thorns FC</title>
-    </programme>
-    <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
-    </programme>
-    <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Utah Royals FC v Bay FC</title>
     </programme>
 </tv>
