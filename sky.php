@@ -15991,7 +15991,7 @@
         <title>The Big Fight</title>
     </programme>
     <programme start="20250221160000 +0000" stop="20250221163000 +0000" channel="NDTV World">
-        <title>India Through The Eyes of Its Icon</title>
+        <title>India Through The Eyes of Its Icons</title>
     </programme>
     <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="NDTV World">
         <title>The 10 O'Clock News</title>
@@ -25929,16 +25929,16 @@
     <programme start="20250221185900 +0000" stop="20250221193000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250221193000 +0000" stop="20250221205900 +0000" channel="SONY TV HD">
+    <programme start="20250221193000 +0000" stop="20250221210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250221205900 +0000" stop="20250221220800 +0000" channel="SONY TV HD">
+    <programme start="20250221210000 +0000" stop="20250221220300 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250221220800 +0000" stop="20250221233800 +0000" channel="SONY TV HD">
+    <programme start="20250221220300 +0000" stop="20250221233300 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250221233800 +0000" stop="20250222003800 +0000" channel="SONY TV HD">
+    <programme start="20250221233300 +0000" stop="20250222003300 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250220223000 +0000" stop="20250220233000 +0000" channel="Utsav Bharat">
@@ -35520,16 +35520,16 @@
     <programme start="20250221185900 +0000" stop="20250221193000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250221193000 +0000" stop="20250221205900 +0000" channel="SONY TV">
+    <programme start="20250221193000 +0000" stop="20250221210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250221205900 +0000" stop="20250221220800 +0000" channel="SONY TV">
+    <programme start="20250221210000 +0000" stop="20250221220300 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250221220800 +0000" stop="20250221233800 +0000" channel="SONY TV">
+    <programme start="20250221220300 +0000" stop="20250221233300 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250221233800 +0000" stop="20250222003800 +0000" channel="SONY TV">
+    <programme start="20250221233300 +0000" stop="20250222003300 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250220223400 +0000" stop="20250220230400 +0000" channel="Utsav Plus">
