@@ -7329,10 +7329,7 @@
     <programme start="20250221051000 +0000" stop="20250221055500 +0000" channel="Channel 5+1">
         <title>Million Pound Motorhomes</title>
     </programme>
-    <programme start="20250221055500 +0000" stop="20250221060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250221060000 +0000" stop="20250221062000 +0000" channel="Channel 5+1">
+    <programme start="20250221055500 +0000" stop="20250221062000 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250221062000 +0000" stop="20250221064500 +0000" channel="Channel 5+1">
@@ -29724,8 +29721,11 @@
     <programme start="20250221213000 +0000" stop="20250221220000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250221220000 +0000" stop="20250221230000 +0000" channel="Sikh Channel">
-        <title>Gal Punjab Di</title>
+    <programme start="20250221220000 +0000" stop="20250221223000 +0000" channel="Sikh Channel">
+        <title>Saka Nankana Sahib</title>
+    </programme>
+    <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="Sikh Channel">
+        <title>Saka Nankana Sahib</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250221233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
