@@ -14122,7 +14122,7 @@
         <title>One Championship Weekly Magazine</title>
     </programme>
     <programme start="20250221233000 +0000" stop="20250222003000 +0000" channel="SkySp Mix HD">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250220223000 +0000" stop="20250220230000 +0000" channel="TNT Sports 3">
         <title>Isuzu UTE A-League Highlights</title>
@@ -14713,25 +14713,25 @@
         <title>..programmes coming soon</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250221020000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221020000 +0000" stop="20250221060000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221060000 +0000" stop="20250221100000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221100000 +0000" stop="20250221140000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221140000 +0000" stop="20250221180000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221180000 +0000" stop="20250221220000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250221220000 +0000" stop="20250221230000 +0000" channel="SkySpBoxOffHD">
-        <title>Dubois v Parker Previews</title>
+        <title>Beterbiev v Bivol 2 Previews</title>
     </programme>
     <programme start="20250220223000 +0000" stop="20250220230000 +0000" channel="Sky News HD">
         <title>Press Preview</title>
@@ -24469,7 +24469,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250221100000 +0000" stop="20250221110000 +0000" channel="QVC Beauty">
-        <title>Selfcare Solutions</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250221110000 +0000" stop="20250221120000 +0000" channel="QVC Beauty">
         <title>Liz Earle Naturally Active</title>
@@ -24484,10 +24484,10 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250221150000 +0000" stop="20250221160000 +0000" channel="QVC Beauty">
-        <title>Beauty Heroes</title>
+        <title>Selfcare Solutions</title>
     </programme>
     <programme start="20250221160000 +0000" stop="20250221170000 +0000" channel="QVC Beauty">
-        <title>Prai Beauty</title>
+        <title>Alison Young: Retinoids</title>
     </programme>
     <programme start="20250221170000 +0000" stop="20250221180000 +0000" channel="QVC Beauty">
         <title>Elemis Skin Therapies</title>
@@ -27430,13 +27430,13 @@
         <title>World News</title>
     </programme>
     <programme start="20250221082000 +0000" stop="20250221085000 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Dunya</title>
+        <title>Bachon Ki Duniya</title>
     </programme>
     <programme start="20250221085000 +0000" stop="20250221094000 +0000" channel="MTA1 World HD">
         <title>Gulshan-e-Waqfe Nau</title>
     </programme>
     <programme start="20250221094000 +0000" stop="20250221095000 +0000" channel="MTA1 World HD">
-        <title>MTA Travel</title>
+        <title>Khanpur Dam Lake</title>
     </programme>
     <programme start="20250221095000 +0000" stop="20250221103000 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
@@ -27471,10 +27471,10 @@
     <programme start="20250221142000 +0000" stop="20250221144000 +0000" channel="MTA1 World HD">
         <title>Aal-e-Rasool</title>
     </programme>
-    <programme start="20250221144000 +0000" stop="20250221153000 +0000" channel="MTA1 World HD">
+    <programme start="20250221144000 +0000" stop="20250221152500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250221153000 +0000" stop="20250221160000 +0000" channel="MTA1 World HD">
+    <programme start="20250221152500 +0000" stop="20250221160000 +0000" channel="MTA1 World HD">
         <title>Aaj Musleh Ma'ood Yaad Aye</title>
     </programme>
     <programme start="20250221160000 +0000" stop="20250221165500 +0000" channel="MTA1 World HD">
@@ -27492,25 +27492,22 @@
     <programme start="20250221174500 +0000" stop="20250221180000 +0000" channel="MTA1 World HD">
         <title>The Promised Son</title>
     </programme>
-    <programme start="20250221180000 +0000" stop="20250221182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
-    </programme>
-    <programme start="20250221182000 +0000" stop="20250221183500 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
+    <programme start="20250221180000 +0000" stop="20250221183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250221183500 +0000" stop="20250221185000 +0000" channel="MTA1 World HD">
+        <title>Tilawat</title>
+    </programme>
+    <programme start="20250221185000 +0000" stop="20250221190500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250221185000 +0000" stop="20250221190000 +0000" channel="MTA1 World HD">
-        <title>MTA Travel</title>
-    </programme>
-    <programme start="20250221190000 +0000" stop="20250221194000 +0000" channel="MTA1 World HD">
+    <programme start="20250221190500 +0000" stop="20250221194500 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2018</title>
     </programme>
-    <programme start="20250221194000 +0000" stop="20250221202000 +0000" channel="MTA1 World HD">
+    <programme start="20250221194500 +0000" stop="20250221202500 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
     </programme>
-    <programme start="20250221202000 +0000" stop="20250221205500 +0000" channel="MTA1 World HD">
+    <programme start="20250221202500 +0000" stop="20250221205500 +0000" channel="MTA1 World HD">
         <title>Seerat-un-Nabi</title>
     </programme>
     <programme start="20250221205500 +0000" stop="20250221211500 +0000" channel="MTA1 World HD">
@@ -27534,10 +27531,10 @@
     <programme start="20250221225500 +0000" stop="20250221233500 +0000" channel="MTA1 World HD">
         <title>The Undiscovered Continent</title>
     </programme>
-    <programme start="20250221233500 +0000" stop="20250221235000 +0000" channel="MTA1 World HD">
+    <programme start="20250221233500 +0000" stop="20250221234500 +0000" channel="MTA1 World HD">
         <title>The Promised Son</title>
     </programme>
-    <programme start="20250221235000 +0000" stop="20250222005000 +0000" channel="MTA1 World HD">
+    <programme start="20250221234500 +0000" stop="20250222004500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
     <programme start="20250220220000 +0000" stop="20250220230000 +0000" channel="HUM Masala">
@@ -34951,7 +34948,7 @@
         <title>One Championship Weekly Magazine</title>
     </programme>
     <programme start="20250221233000 +0000" stop="20250222003000 +0000" channel="SkySp Mix">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250220223000 +0000" stop="20250220230000 +0000" channel="TNTSports3 HD">
         <title>Isuzu UTE A-League Highlights</title>
