@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250221103000 +0000" stop="20250221110000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250221120000 +0000" stop="20250221130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 2.optus">
         <title>N/A - Manchester City v Aston Villa</title>
+    </programme>
+    <programme start="20250309130000 +0000" stop="20250309162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
 </tv>
