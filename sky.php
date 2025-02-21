@@ -13212,11 +13212,11 @@
     <programme start="20250221234500 +0000" stop="20250222000000 +0000" channel="SkySp NFL HD">
         <title>NFL: Chiefs @ Jets</title>
     </programme>
-    <programme start="20250222000000 +0000" stop="20250222010000 +0000" channel="SkySp NFL HD">
+    <programme start="20250222000000 +0000" stop="20250222010001 +0000" channel="SkySp NFL HD">
         <title>Live NFL: The Insiders</title>
     </programme>
-    <programme start="20250222010000 +0000" stop="20250222020000 +0000" channel="SkySp NFL HD">
-        <title>Joshua v Dubois Hlts</title>
+    <programme start="20250222010001 +0000" stop="20250222020000 +0000" channel="SkySp NFL HD">
+        <title>Buatsi v Azeez</title>
     </programme>
     <programme start="20250222020000 +0000" stop="20250222030000 +0000" channel="SkySp NFL HD">
         <title>NFL: KC Chiefs</title>
@@ -13242,20 +13242,20 @@
     <programme start="20250222103000 +0000" stop="20250222110000 +0000" channel="SkySp NFL HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
-    <programme start="20250222110000 +0000" stop="20250222120000 +0000" channel="SkySp NFL HD">
+    <programme start="20250222110000 +0000" stop="20250222120001 +0000" channel="SkySp NFL HD">
         <title>Fight Night Int: Stevenson v De Los Santos</title>
     </programme>
-    <programme start="20250222120000 +0000" stop="20250222130000 +0000" channel="SkySp NFL HD">
-        <title>Beterbiev v Bivol I Hlts</title>
+    <programme start="20250222120001 +0000" stop="20250222130000 +0000" channel="SkySp NFL HD">
+        <title>Beterbiev v C.Smith</title>
     </programme>
-    <programme start="20250222130000 +0000" stop="20250222133000 +0000" channel="SkySp NFL HD">
+    <programme start="20250222130000 +0000" stop="20250222133001 +0000" channel="SkySp NFL HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
-    <programme start="20250222133000 +0000" stop="20250222143000 +0000" channel="SkySp NFL HD">
-        <title>Joshua v Dubois Hlts</title>
+    <programme start="20250222133001 +0000" stop="20250222143001 +0000" channel="SkySp NFL HD">
+        <title>Buatsi v Azeez</title>
     </programme>
-    <programme start="20250222143000 +0000" stop="20250222153000 +0000" channel="SkySp NFL HD">
-        <title>Beterbiev v Bivol I Hlts</title>
+    <programme start="20250222143001 +0000" stop="20250222153000 +0000" channel="SkySp NFL HD">
+        <title>Beterbiev v C.Smith</title>
     </programme>
     <programme start="20250222153000 +0000" stop="20250222160000 +0000" channel="SkySp NFL HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
@@ -13818,11 +13818,11 @@
     <programme start="20250222103000 +0000" stop="20250222110000 +0000" channel="SkySp Mix HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
-    <programme start="20250222110000 +0000" stop="20250222120000 +0000" channel="SkySp Mix HD">
+    <programme start="20250222110000 +0000" stop="20250222120001 +0000" channel="SkySp Mix HD">
         <title>Fight Night Int: Stevenson v De Los Santos</title>
     </programme>
-    <programme start="20250222120000 +0000" stop="20250222130000 +0000" channel="SkySp Mix HD">
-        <title>Beterbiev v Bivol I Hlts</title>
+    <programme start="20250222120001 +0000" stop="20250222130000 +0000" channel="SkySp Mix HD">
+        <title>Beterbiev v C.Smith</title>
     </programme>
     <programme start="20250222130000 +0000" stop="20250222133000 +0000" channel="SkySp Mix HD">
         <title>Beterbiev v Bivol 2 Countdown</title>
@@ -23788,7 +23788,7 @@
         <title>Spring Cleaning Solutions</title>
     </programme>
     <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Denim &amp; Co on 5 Easy Pay</title>
     </programme>
     <programme start="20250222210000 +0000" stop="20250222220000 +0000" channel="QVC HD">
         <title>Laura Geller Make-up</title>
@@ -24720,10 +24720,7 @@
     <programme start="20250222130000 +0000" stop="20250222140000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
     </programme>
-    <programme start="20250222140000 +0000" stop="20250222150000 +0000" channel="QVC Extra">
-        <title>QVC Food Hall</title>
-    </programme>
-    <programme start="20250222150000 +0000" stop="20250222160000 +0000" channel="QVC Extra">
+    <programme start="20250222140000 +0000" stop="20250222160000 +0000" channel="QVC Extra">
         <title>QVC Food Hall</title>
     </programme>
     <programme start="20250222160000 +0000" stop="20250222170000 +0000" channel="QVC Extra">
@@ -29203,7 +29200,7 @@
         <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="Sangat">
-        <title>Jaitu da Morcha</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250221233000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
@@ -36892,7 +36889,7 @@
         <title>Stephen Nolan</title>
     </programme>
     <programme start="20250222010000 +0000" stop="20250222050000 +0000" channel="BBC R5L">
-        <title>Rima Ahmed</title>
+        <title>Johnny I'Anson</title>
     </programme>
     <programme start="20250222050000 +0000" stop="20250222060000 +0000" channel="BBC R5L">
         <title>5 Live Boxing</title>
