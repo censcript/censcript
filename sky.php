@@ -29433,10 +29433,10 @@
     <programme start="20250222090000 +0000" stop="20250222093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250222093000 +0000" stop="20250222094500 +0000" channel="Kanshi TV">
+    <programme start="20250222093000 +0000" stop="20250222100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250222094500 +0000" stop="20250222110000 +0000" channel="Kanshi TV">
+    <programme start="20250222100000 +0000" stop="20250222110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250222110000 +0000" stop="20250222120000 +0000" channel="Kanshi TV">
