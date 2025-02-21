@@ -4537,7 +4537,7 @@
         <title>Out for Justice</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="Sky Mix HD">
-        <title>BETERBIEV V BIVOL 2 COUNTDOWN</title>
+        <title>Beterbiev V Bivol 2 Countdown</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250222000000 +0000" channel="Sky Mix HD">
         <title>S.W.A.T.</title>
@@ -12972,14 +12972,8 @@
     <programme start="20250222000000 +0000" stop="20250222010000 +0000" channel="SkySpCricket HD">
         <title>ICC CT'25: BAN v IND Hlts</title>
     </programme>
-    <programme start="20250222010000 +0000" stop="20250222044000 +0000" channel="SkySpCricket HD">
+    <programme start="20250222010000 +0000" stop="20250222050000 +0000" channel="SkySpCricket HD">
         <title>WPL: RCB v Mumbai I</title>
-    </programme>
-    <programme start="20250222044000 +0000" stop="20250222045000 +0000" channel="SkySpCricket HD">
-        <title>The Best of England v Australia</title>
-    </programme>
-    <programme start="20250222045000 +0000" stop="20250222050000 +0000" channel="SkySpCricket HD">
-        <title>The Best of England v Australia</title>
     </programme>
     <programme start="20250222050000 +0000" stop="20250222060000 +0000" channel="SkySpCricket HD">
         <title>IPL 2024</title>
@@ -26053,7 +26047,7 @@
         <title>Weekly Roundup</title>
     </programme>
     <programme start="20250222093000 +0000" stop="20250222100000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
+        <title>My India</title>
     </programme>
     <programme start="20250222100000 +0000" stop="20250222102000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
@@ -26068,7 +26062,7 @@
         <title>Soul Readings &amp; Mindfulness</title>
     </programme>
     <programme start="20250222130000 +0000" stop="20250222133000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>Welcome TV LIVE</title>
     </programme>
     <programme start="20250222133000 +0000" stop="20250222140000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
@@ -26098,16 +26092,19 @@
         <title>Golden Oldies</title>
     </programme>
     <programme start="20250222190000 +0000" stop="20250222193000 +0000" channel="MATV National">
-        <title>India's Republic Day Celebration</title>
+        <title>Old Is Gold</title>
     </programme>
     <programme start="20250222193000 +0000" stop="20250222200000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Old Is Gold</title>
     </programme>
     <programme start="20250222200000 +0000" stop="20250222203000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
-    <programme start="20250222203000 +0000" stop="20250222223000 +0000" channel="MATV National">
-        <title>Tara Sansthan</title>
+    <programme start="20250222203000 +0000" stop="20250222220000 +0000" channel="MATV National">
+        <title>Golden Oldies</title>
+    </programme>
+    <programme start="20250222220000 +0000" stop="20250222223000 +0000" channel="MATV National">
+        <title>Kashmir</title>
     </programme>
     <programme start="20250222223000 +0000" stop="20250222230000 +0000" channel="MATV National">
         <title>Pakistan Reporter</title>
@@ -29997,10 +29994,7 @@
     <programme start="20250222052500 +0000" stop="20250222060000 +0000" channel="ATN">
         <title>Hayre Prem</title>
     </programme>
-    <programme start="20250222060000 +0000" stop="20250222060500 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250222060500 +0000" stop="20250222070000 +0000" channel="ATN">
+    <programme start="20250222060000 +0000" stop="20250222070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250222070000 +0000" stop="20250222073000 +0000" channel="ATN">
@@ -30016,7 +30010,7 @@
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250222090000 +0000" stop="20250222093000 +0000" channel="ATN">
-        <title>Travel Show</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250222093000 +0000" stop="20250222100000 +0000" channel="ATN">
         <title>Music on Demand</title>
@@ -30025,70 +30019,64 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250222103000 +0000" stop="20250222115500 +0000" channel="ATN">
-        <title>Ek Bikele holoud shari</title>
+        <title>Manik Chor</title>
     </programme>
     <programme start="20250222115500 +0000" stop="20250222120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250222120000 +0000" stop="20250222122000 +0000" channel="ATN">
-        <title>Neel Akasher Niche</title>
+        <title>Chachu Amar Chachu</title>
     </programme>
     <programme start="20250222122000 +0000" stop="20250222122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250222122500 +0000" stop="20250222140000 +0000" channel="ATN">
-        <title>Neel Akasher Niche</title>
+        <title>Chachu Amar Chachu</title>
     </programme>
     <programme start="20250222140000 +0000" stop="20250222143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250222143000 +0000" stop="20250222150500 +0000" channel="ATN">
-        <title>Neel Akasher Niche</title>
+    <programme start="20250222143000 +0000" stop="20250222153000 +0000" channel="ATN">
+        <title>Chachu Amar Chachu</title>
     </programme>
-    <programme start="20250222150500 +0000" stop="20250222151000 +0000" channel="ATN">
+    <programme start="20250222153000 +0000" stop="20250222153500 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250222151000 +0000" stop="20250222155500 +0000" channel="ATN">
-        <title>Neel Akasher Niche</title>
+    <programme start="20250222153500 +0000" stop="20250222160000 +0000" channel="ATN">
+        <title>Chachu Amar Chachu</title>
     </programme>
-    <programme start="20250222155500 +0000" stop="20250222160000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250222160000 +0000" stop="20250222165000 +0000" channel="ATN">
+    <programme start="20250222160000 +0000" stop="20250222170000 +0000" channel="ATN">
         <title>ATN News</title>
-    </programme>
-    <programme start="20250222165000 +0000" stop="20250222165600 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250222165600 +0000" stop="20250222170000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
     </programme>
     <programme start="20250222170000 +0000" stop="20250222173000 +0000" channel="ATN">
         <title>Cyber talk</title>
     </programme>
-    <programme start="20250222173000 +0000" stop="20250222180000 +0000" channel="ATN">
+    <programme start="20250222173000 +0000" stop="20250222173200 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250222180000 +0000" stop="20250222183000 +0000" channel="ATN">
+    <programme start="20250222173200 +0000" stop="20250222173700 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250222173700 +0000" stop="20250222180000 +0000" channel="ATN">
+        <title>Smritir Alpona Aki</title>
+    </programme>
+    <programme start="20250222180000 +0000" stop="20250222184500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250222183000 +0000" stop="20250222183500 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250222183500 +0000" stop="20250222184500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250222184500 +0000" stop="20250222200000 +0000" channel="ATN">
+    <programme start="20250222184500 +0000" stop="20250222190000 +0000" channel="ATN">
         <title>Quranic Discussion</title>
     </programme>
-    <programme start="20250222200000 +0000" stop="20250222203000 +0000" channel="ATN">
+    <programme start="20250222190000 +0000" stop="20250222190500 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250222190500 +0000" stop="20250222200000 +0000" channel="ATN">
+        <title>Quranic Discussion</title>
+    </programme>
+    <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="ATN">
         <title>Golpo Ganer Amontrone</title>
     </programme>
-    <programme start="20250222203000 +0000" stop="20250222210000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
     <programme start="20250222210000 +0000" stop="20250222213000 +0000" channel="ATN">
-        <title>Somoyer Sathe</title>
+        <title>Shomoyer Sathe</title>
     </programme>
     <programme start="20250222213000 +0000" stop="20250222220000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30100,7 +30088,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250222230000 +0000" stop="20250223000000 +0000" channel="ATN">
-        <title>Shopnojal</title>
+        <title>Dui Prithibi</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -36549,10 +36537,10 @@
     <programme start="20250222225500 +0000" stop="20250222235500 +0000" channel="BBC Two NI HD">
         <title>Fleetwood Mac: The Dance</title>
     </programme>
-    <programme start="20250221211000 +0000" stop="20250221230000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250221211000 +0000" stop="20250221231500 +0000" channel="BBC RB 1 HD">
         <title>World Seniors Darts Championship</title>
     </programme>
-    <programme start="20250221230000 +0000" stop="20250222050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250221231500 +0000" stop="20250222050000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 3</title>
     </programme>
     <programme start="20250222050000 +0000" stop="20250222060000 +0000" channel="BBC RB 1 HD">

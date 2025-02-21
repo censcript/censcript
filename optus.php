@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Leicester City v Brentford</title>
-    </programme>
     <programme start="20250221223000 +0000" stop="20250221233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Chelsea v Leicester City</title>
+    </programme>
+    <programme start="20250309162000 +0000" stop="20250309193000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester United v Arsenal</title>
     </programme>
 </tv>
