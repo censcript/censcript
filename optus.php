@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250221163000 +0000" stop="20250221170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250221193000 +0000" stop="20250221223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Brentford</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Tottenham Hotspur v Bournemouth</title>
+    </programme>
+    <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Chelsea v Leicester City</title>
     </programme>
 </tv>
