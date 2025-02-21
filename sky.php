@@ -4810,7 +4810,7 @@
         <title>Nothing To Declare</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="Sky Mix HD">
-        <title>DUBOIS V PARKER COUNTDOWN</title>
+        <title>BETERBIEV V BIVOL 2 COUNTDOWN</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250222000000 +0000" channel="Sky Mix HD">
         <title>S.W.A.T.</title>
@@ -15499,7 +15499,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250221073000 +0000" stop="20250221080000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250221080000 +0000" stop="20250221081500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15511,7 +15511,7 @@
         <title>Smalltown Dojos Go Global</title>
     </programme>
     <programme start="20250221083000 +0000" stop="20250221085500 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Spiritual Explorers</title>
     </programme>
     <programme start="20250221085500 +0000" stop="20250221090000 +0000" channel="NHK World HD">
         <title>The Seasons of Yamato</title>
@@ -15562,7 +15562,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250221133000 +0000" stop="20250221140000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250221140000 +0000" stop="20250221141500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15589,7 +15589,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20250221163000 +0000" stop="20250221165500 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Spiritual Explorers</title>
     </programme>
     <programme start="20250221165500 +0000" stop="20250221170000 +0000" channel="NHK World HD">
         <title>The Seasons of Yamato</title>
@@ -15622,7 +15622,7 @@
         <title>Medical Frontiers</title>
     </programme>
     <programme start="20250221193000 +0000" stop="20250221200000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250221200000 +0000" stop="20250221201800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15670,7 +15670,7 @@
         <title>Japanology Plus mini</title>
     </programme>
     <programme start="20250221233000 +0000" stop="20250221235500 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Spiritual Explorers</title>
     </programme>
     <programme start="20250221235500 +0000" stop="20250222005500 +0000" channel="NHK World HD">
         <title>The Seasons of Yamato</title>
@@ -29094,10 +29094,10 @@
     <programme start="20250221110000 +0000" stop="20250221113000 +0000" channel="Eman Channel">
         <title>Parenting Matters</title>
     </programme>
-    <programme start="20250221113000 +0000" stop="20250221115900 +0000" channel="Eman Channel">
+    <programme start="20250221113000 +0000" stop="20250221120000 +0000" channel="Eman Channel">
         <title>The Art of Ramadan</title>
     </programme>
-    <programme start="20250221115900 +0000" stop="20250221121900 +0000" channel="Eman Channel">
+    <programme start="20250221120000 +0000" stop="20250221121900 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250221121900 +0000" stop="20250221123000 +0000" channel="Eman Channel">
@@ -29136,13 +29136,13 @@
     <programme start="20250221170000 +0000" stop="20250221171500 +0000" channel="Eman Channel">
         <title>Qur'an Time</title>
     </programme>
-    <programme start="20250221171500 +0000" stop="20250221172800 +0000" channel="Eman Channel">
+    <programme start="20250221171500 +0000" stop="20250221173000 +0000" channel="Eman Channel">
         <title>Blessed Home</title>
     </programme>
-    <programme start="20250221172800 +0000" stop="20250221173300 +0000" channel="Eman Channel">
+    <programme start="20250221173000 +0000" stop="20250221173400 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250221173300 +0000" stop="20250221174800 +0000" channel="Eman Channel">
+    <programme start="20250221173400 +0000" stop="20250221174800 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
     <programme start="20250221174800 +0000" stop="20250221180000 +0000" channel="Eman Channel">
