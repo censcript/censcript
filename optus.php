@@ -246,6 +246,21 @@
     <programme start="20250305192000 +0000" stop="20250305214000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Chelsea v Leicester</title>
     </programme>
+    <programme start="20250306133000 +0000" stop="20250306140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview: Murillo</title>
+    </programme>
+    <programme start="20250307103000 +0000" stop="20250307110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250307120000 +0000" stop="20250307130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250307163000 +0000" stop="20250307170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250307180000 +0000" stop="20250307190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
     <programme start="20250308045500 +0000" stop="20250308071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Urawa Red Diamonds v Fagiano Okayama</title>
     </programme>
@@ -284,20 +299,5 @@
     </programme>
     <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Chelsea v Leicester City</title>
-    </programme>
-    <programme start="20250309162000 +0000" stop="20250309193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester United v Arsenal</title>
-    </programme>
-    <programme start="20250309193000 +0000" stop="20250309223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - West Ham United v Newcastle United</title>
-    </programme>
-    <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Everton v Arsenal</title>
-    </programme>
-    <programme start="20250314190500 +0000" stop="20250314212500 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Liverpool v Manchester United</title>
-    </programme>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Orlando Pride v Chicago Stars</title>
     </programme>
 </tv>
