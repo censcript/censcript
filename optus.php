@@ -253,7 +253,7 @@
         <title>N/A - Fantasy Premier League</title>
     </programme>
     <programme start="20250307120000 +0000" stop="20250307130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
+        <title>N/A - Welcome to the Weekend</title>
     </programme>
     <programme start="20250307163000 +0000" stop="20250307170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
@@ -273,6 +273,9 @@
     <programme start="20250308113000 +0000" stop="20250308145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Manchester City</title>
     </programme>
+    <programme start="20250308145000 +0000" stop="20250308172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
     <programme start="20250308145000 +0000" stop="20250308171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Liverpool v Southampton</title>
     </programme>
@@ -288,16 +291,13 @@
     <programme start="20250308195000 +0000" stop="20250308223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Everton</title>
     </programme>
+    <programme start="20250308223000 +0000" stop="20250308233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
     <programme start="20250309045500 +0000" stop="20250309071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v Avispa</title>
     </programme>
     <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 2.optus">
         <title>N/A - Manchester City v Aston Villa</title>
-    </programme>
-    <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Tottenham Hotspur v Bournemouth</title>
-    </programme>
-    <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Chelsea v Leicester City</title>
     </programme>
 </tv>
