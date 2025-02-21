@@ -12862,7 +12862,7 @@
         <title>Live FNF: Leicester v Brentford</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="SkySpMainEvHD">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250222000000 +0000" channel="SkySpMainEvHD">
         <title>Live PGA Tour Golf</title>
@@ -13462,7 +13462,7 @@
         <title>Live S/Lge: Warrington v Catalans</title>
     </programme>
     <programme start="20250221221500 +0000" stop="20250221224500 +0000" channel="SkySp NFL HD">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250221224500 +0000" stop="20250221230000 +0000" channel="SkySp NFL HD">
         <title>NFL: Cowboys @ Chargers</title>
@@ -14116,7 +14116,7 @@
         <title>Joshua v Dubois Hlts</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="SkySp Mix HD">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250221233000 +0000" channel="SkySp Mix HD">
         <title>One Championship Weekly Magazine</title>
@@ -34945,7 +34945,7 @@
         <title>Joshua v Dubois Hlts</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="SkySp Mix">
-        <title>Dubois v Parker Countdown</title>
+        <title>Beterbiev v Bivol 2 Countdown</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250221233000 +0000" channel="SkySp Mix">
         <title>One Championship Weekly Magazine</title>
