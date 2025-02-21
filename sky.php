@@ -15118,7 +15118,7 @@
         <title>Northern Ireland Assembly -...</title>
     </programme>
     <programme start="20250221061500 +0000" stop="20250221063000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+        <title>Scottish Parliament - Topical Questions</title>
     </programme>
     <programme start="20250221063000 +0000" stop="20250221070000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Community...</title>
@@ -30510,10 +30510,7 @@
     <programme start="20250221052900 +0000" stop="20250221060000 +0000" channel="ATN">
         <title>Kono Ek Bikele Holud Shari</title>
     </programme>
-    <programme start="20250221060000 +0000" stop="20250221060500 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250221060500 +0000" stop="20250221070000 +0000" channel="ATN">
+    <programme start="20250221060000 +0000" stop="20250221070000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250221070000 +0000" stop="20250221073000 +0000" channel="ATN">
@@ -30523,7 +30520,7 @@
         <title>Islamer Pothe</title>
     </programme>
     <programme start="20250221080000 +0000" stop="20250221090000 +0000" channel="ATN">
-        <title>Moddho Bitter Shongshar</title>
+        <title>Hayre Prem</title>
     </programme>
     <programme start="20250221090000 +0000" stop="20250221093000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
@@ -30555,35 +30552,32 @@
     <programme start="20250221143000 +0000" stop="20250221150000 +0000" channel="ATN">
         <title>Jummah Barer Programme</title>
     </programme>
-    <programme start="20250221150000 +0000" stop="20250221150500 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250221150500 +0000" stop="20250221153000 +0000" channel="ATN">
+    <programme start="20250221150000 +0000" stop="20250221152500 +0000" channel="ATN">
         <title>Amader Shekor</title>
     </programme>
+    <programme start="20250221152500 +0000" stop="20250221153000 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
     <programme start="20250221153000 +0000" stop="20250221160000 +0000" channel="ATN">
-        <title>Sornali Sadakalo</title>
+        <title>Chutki Vandar</title>
     </programme>
-    <programme start="20250221160000 +0000" stop="20250221165200 +0000" channel="ATN">
+    <programme start="20250221160000 +0000" stop="20250221170000 +0000" channel="ATN">
         <title>ATN News</title>
-    </programme>
-    <programme start="20250221165200 +0000" stop="20250221170000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
     </programme>
     <programme start="20250221170000 +0000" stop="20250221173000 +0000" channel="ATN">
-        <title>Travel Show</title>
+        <title>ATN Archive</title>
     </programme>
-    <programme start="20250221173000 +0000" stop="20250221180000 +0000" channel="ATN">
+    <programme start="20250221173000 +0000" stop="20250221173500 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250221173500 +0000" stop="20250221180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250221180000 +0000" stop="20250221183000 +0000" channel="ATN">
+    <programme start="20250221180000 +0000" stop="20250221185800 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250221183000 +0000" stop="20250221183500 +0000" channel="ATN">
+    <programme start="20250221185800 +0000" stop="20250221190000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250221183500 +0000" stop="20250221190000 +0000" channel="ATN">
-        <title>ATN News</title>
     </programme>
     <programme start="20250221190000 +0000" stop="20250221193000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30591,23 +30585,17 @@
     <programme start="20250221193000 +0000" stop="20250221200000 +0000" channel="ATN">
         <title>Art &amp; Craft</title>
     </programme>
-    <programme start="20250221200000 +0000" stop="20250221203000 +0000" channel="ATN">
-        <title>Showbiz World</title>
-    </programme>
-    <programme start="20250221203000 +0000" stop="20250221213000 +0000" channel="ATN">
-        <title>Hawai Mithai</title>
+    <programme start="20250221200000 +0000" stop="20250221213000 +0000" channel="ATN">
+        <title>Omor Ekush</title>
     </programme>
     <programme start="20250221213000 +0000" stop="20250221220000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250221220000 +0000" stop="20250221223000 +0000" channel="ATN">
-        <title>Life And Beauty</title>
-    </programme>
-    <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="ATN">
-        <title>Rehana</title>
+    <programme start="20250221220000 +0000" stop="20250221230000 +0000" channel="ATN">
+        <title>Omor Ekush</title>
     </programme>
     <programme start="20250221230000 +0000" stop="20250222000000 +0000" channel="ATN">
-        <title>Neel Akasher Niche</title>
+        <title>Chachchu Amar Chachchu</title>
     </programme>
     <programme start="20250220223000 +0000" stop="20250220230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -37476,10 +37464,10 @@
     <programme start="20250221230400 +0000" stop="20250222000400 +0000" channel="BBC Two NI HD">
         <title>Introduction to God's Creatures</title>
     </programme>
-    <programme start="20250220190000 +0000" stop="20250220233000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220190000 +0000" stop="20250220235000 +0000" channel="BBC RB 1 HD">
         <title>World Seniors Darts Championship</title>
     </programme>
-    <programme start="20250220233000 +0000" stop="20250221050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250220235000 +0000" stop="20250221050000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 2</title>
     </programme>
     <programme start="20250221050000 +0000" stop="20250221060000 +0000" channel="BBC RB 1 HD">
