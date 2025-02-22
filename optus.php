@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250222045000 +0000" stop="20250222071000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Jeju v Gimcheon</title>
-    </programme>
-    <programme start="20250222045500 +0000" stop="20250222071000 +0000" channel="Optus Sport 12.optus">
-        <title>J1 League - Yokohama FC v Fagiano Okayama</title>
-    </programme>
     <programme start="20250222055500 +0000" stop="20250222081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - FC Tokyo v Machida</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250309193000 +0000" stop="20250309223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - West Ham United v Newcastle United</title>
+    </programme>
+    <programme start="20250309203000 +0000" stop="20250309220000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Everton v Arsenal</title>
     </programme>
 </tv>
