@@ -26086,7 +26086,7 @@
         <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250222183000 +0000" stop="20250222190000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Kashmir</title>
     </programme>
     <programme start="20250222190000 +0000" stop="20250222193000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
@@ -27415,7 +27415,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250222140500 +0000" stop="20250222150000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+        <title>News</title>
     </programme>
     <programme start="20250222150000 +0000" stop="20250222150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
