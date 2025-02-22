@@ -13704,10 +13704,10 @@
     <programme start="20250222095000 +0000" stop="20250222105000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250222105000 +0000" stop="20250222123000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250222105000 +0000" stop="20250222125000 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250222123000 +0000" stop="20250222143000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250222125000 +0000" stop="20250222143000 +0000" channel="Eurosport 2 HD">
         <title>Live Cycling: Tour of Andalucia</title>
     </programme>
     <programme start="20250222143000 +0000" stop="20250222144500 +0000" channel="Eurosport 2 HD">
@@ -26098,10 +26098,10 @@
         <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250222203000 +0000" stop="20250222220000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Tara Sansthan</title>
     </programme>
     <programme start="20250222220000 +0000" stop="20250222223000 +0000" channel="MATV National">
-        <title>Kashmir</title>
+        <title>Tara Sansthan</title>
     </programme>
     <programme start="20250222223000 +0000" stop="20250222230000 +0000" channel="MATV National">
         <title>Pakistan Reporter</title>
@@ -27409,7 +27409,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250222130500 +0000" stop="20250222140000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Sports Room</title>
     </programme>
     <programme start="20250222140000 +0000" stop="20250222140500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -30120,13 +30120,7 @@
     <programme start="20250222053000 +0000" stop="20250222060000 +0000" channel="NTV">
         <title>Quran Onnesha</title>
     </programme>
-    <programme start="20250222060000 +0000" stop="20250222060900 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250222060900 +0000" stop="20250222061400 +0000" channel="NTV">
-        <title>Adhan-a-Fajr</title>
-    </programme>
-    <programme start="20250222061400 +0000" stop="20250222063000 +0000" channel="NTV">
+    <programme start="20250222060000 +0000" stop="20250222063000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250222063000 +0000" stop="20250222070000 +0000" channel="NTV">
@@ -30142,21 +30136,21 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250222083000 +0000" stop="20250222090000 +0000" channel="NTV">
-        <title>Ashiqui</title>
+        <title>Mitthar Raza</title>
     </programme>
     <programme start="20250222090000 +0000" stop="20250222093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250222093000 +0000" stop="20250222120000 +0000" channel="NTV">
-        <title>Ashiqui</title>
+        <title>Mitthar Raza</title>
     </programme>
-    <programme start="20250222120000 +0000" stop="20250222121800 +0000" channel="NTV">
+    <programme start="20250222120000 +0000" stop="20250222121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250222121800 +0000" stop="20250222122300 +0000" channel="NTV">
+    <programme start="20250222121900 +0000" stop="20250222122400 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250222122300 +0000" stop="20250222123000 +0000" channel="NTV">
+    <programme start="20250222122400 +0000" stop="20250222123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250222123000 +0000" stop="20250222140000 +0000" channel="NTV">
@@ -30165,50 +30159,47 @@
     <programme start="20250222140000 +0000" stop="20250222143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250222143000 +0000" stop="20250222145100 +0000" channel="NTV">
+    <programme start="20250222143000 +0000" stop="20250222150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250222145100 +0000" stop="20250222145600 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250222145600 +0000" stop="20250222150000 +0000" channel="NTV">
-        <title>Desher Khobor</title>
-    </programme>
-    <programme start="20250222150000 +0000" stop="20250222163000 +0000" channel="NTV">
+    <programme start="20250222150000 +0000" stop="20250222153800 +0000" channel="NTV">
         <title>Roop kothar Raat</title>
     </programme>
-    <programme start="20250222163000 +0000" stop="20250222164100 +0000" channel="NTV">
-        <title>NTV NEWS-Shondhar Khobor</title>
+    <programme start="20250222153800 +0000" stop="20250222154300 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250222164100 +0000" stop="20250222164600 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
+    <programme start="20250222154300 +0000" stop="20250222163000 +0000" channel="NTV">
+        <title>Roop kothar Raat</title>
     </programme>
-    <programme start="20250222164600 +0000" stop="20250222170000 +0000" channel="NTV">
+    <programme start="20250222163000 +0000" stop="20250222170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
     <programme start="20250222170000 +0000" stop="20250222173000 +0000" channel="NTV">
         <title>Gallary</title>
     </programme>
-    <programme start="20250222173000 +0000" stop="20250222180000 +0000" channel="NTV">
+    <programme start="20250222173000 +0000" stop="20250222173200 +0000" channel="NTV">
         <title>Crime Watch</title>
     </programme>
-    <programme start="20250222180000 +0000" stop="20250222181800 +0000" channel="NTV">
-        <title>Break Up Kono Bepar Na</title>
+    <programme start="20250222173200 +0000" stop="20250222173700 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250222181800 +0000" stop="20250222182300 +0000" channel="NTV">
+    <programme start="20250222173700 +0000" stop="20250222180000 +0000" channel="NTV">
+        <title>Crime Watch</title>
+    </programme>
+    <programme start="20250222180000 +0000" stop="20250222190000 +0000" channel="NTV">
+        <title>Hello Medam</title>
+    </programme>
+    <programme start="20250222190000 +0000" stop="20250222190500 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250222182300 +0000" stop="20250222190000 +0000" channel="NTV">
-        <title>Break Up Kono Bepar Na</title>
-    </programme>
-    <programme start="20250222190000 +0000" stop="20250222191500 +0000" channel="NTV">
+    <programme start="20250222190500 +0000" stop="20250222191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
     <programme start="20250222191500 +0000" stop="20250222200000 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="NTV">
-        <title>Choroi Jora</title>
+        <title>Dangerous Girlfriend</title>
     </programme>
     <programme start="20250222210000 +0000" stop="20250222213000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
@@ -30223,7 +30214,7 @@
         <title>Probashi Poribar</title>
     </programme>
     <programme start="20250222230000 +0000" stop="20250223000000 +0000" channel="NTV">
-        <title>Dur Akasher Tara</title>
+        <title>Jamai Raja</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250222000000 +0000" channel="TV One">
         <title>Live Charity Appeal: Penny Appeal</title>
@@ -34068,10 +34059,10 @@
     <programme start="20250222095000 +0000" stop="20250222105000 +0000" channel="Eurosport 2">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250222105000 +0000" stop="20250222123000 +0000" channel="Eurosport 2">
+    <programme start="20250222105000 +0000" stop="20250222125000 +0000" channel="Eurosport 2">
         <title>Live Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250222123000 +0000" stop="20250222143000 +0000" channel="Eurosport 2">
+    <programme start="20250222125000 +0000" stop="20250222143000 +0000" channel="Eurosport 2">
         <title>Live Cycling: Tour of Andalucia</title>
     </programme>
     <programme start="20250222143000 +0000" stop="20250222144500 +0000" channel="Eurosport 2">
