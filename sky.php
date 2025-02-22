@@ -29772,10 +29772,7 @@
     <programme start="20250222052800 +0000" stop="20250222060000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
     </programme>
-    <programme start="20250222060000 +0000" stop="20250222060600 +0000" channel="CHSTV">
-        <title>Azan-E-Fajr</title>
-    </programme>
-    <programme start="20250222060600 +0000" stop="20250222063000 +0000" channel="CHSTV">
+    <programme start="20250222060000 +0000" stop="20250222063000 +0000" channel="CHSTV">
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250222063000 +0000" stop="20250222070000 +0000" channel="CHSTV">
@@ -29799,14 +29796,17 @@
     <programme start="20250222093000 +0000" stop="20250222110000 +0000" channel="CHSTV">
         <title>Islam Essentials</title>
     </programme>
-    <programme start="20250222110000 +0000" stop="20250222122000 +0000" channel="CHSTV">
+    <programme start="20250222110000 +0000" stop="20250222121900 +0000" channel="CHSTV">
         <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250222122000 +0000" stop="20250222123000 +0000" channel="CHSTV">
+    <programme start="20250222121900 +0000" stop="20250222122500 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250222123000 +0000" stop="20250222133000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
+    <programme start="20250222122500 +0000" stop="20250222130000 +0000" channel="CHSTV">
+        <title>Reality With Mahee</title>
+    </programme>
+    <programme start="20250222130000 +0000" stop="20250222133000 +0000" channel="CHSTV">
+        <title>Islamic Filler</title>
     </programme>
     <programme start="20250222133000 +0000" stop="20250222140000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
@@ -29814,50 +29814,47 @@
     <programme start="20250222140000 +0000" stop="20250222143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250222143000 +0000" stop="20250222150300 +0000" channel="CHSTV">
+    <programme start="20250222143000 +0000" stop="20250222150000 +0000" channel="CHSTV">
         <title>Sharirik Shikkha</title>
     </programme>
-    <programme start="20250222150300 +0000" stop="20250222150700 +0000" channel="CHSTV">
+    <programme start="20250222150000 +0000" stop="20250222153800 +0000" channel="CHSTV">
+        <title>Cross Connection</title>
+    </programme>
+    <programme start="20250222153800 +0000" stop="20250222154500 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250222150700 +0000" stop="20250222163000 +0000" channel="CHSTV">
-        <title>I am Single</title>
+    <programme start="20250222154500 +0000" stop="20250222162000 +0000" channel="CHSTV">
+        <title>Cross Connection</title>
     </programme>
-    <programme start="20250222163000 +0000" stop="20250222165400 +0000" channel="CHSTV">
+    <programme start="20250222162000 +0000" stop="20250222170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250222165400 +0000" stop="20250222170000 +0000" channel="CHSTV">
+    <programme start="20250222170000 +0000" stop="20250222173200 +0000" channel="CHSTV">
+        <title>Seerat</title>
+    </programme>
+    <programme start="20250222173200 +0000" stop="20250222173800 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250222170000 +0000" stop="20250222180000 +0000" channel="CHSTV">
+    <programme start="20250222173800 +0000" stop="20250222180000 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
     <programme start="20250222180000 +0000" stop="20250222183000 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
-    </programme>
-    <programme start="20250222183000 +0000" stop="20250222183500 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250222183500 +0000" stop="20250222190000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250222190000 +0000" stop="20250222200000 +0000" channel="CHSTV">
-        <title>Health Talk</title>
-    </programme>
-    <programme start="20250222200000 +0000" stop="20250222203000 +0000" channel="CHSTV">
+    <programme start="20250222183000 +0000" stop="20250222190000 +0000" channel="CHSTV">
         <title>Community News</title>
     </programme>
-    <programme start="20250222203000 +0000" stop="20250222210000 +0000" channel="CHSTV">
-        <title>Music Lounge</title>
+    <programme start="20250222190000 +0000" stop="20250222190600 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250222210000 +0000" stop="20250222220000 +0000" channel="CHSTV">
-        <title>The Saturday Show</title>
+    <programme start="20250222190600 +0000" stop="20250222220000 +0000" channel="CHSTV">
+        <title>Quran Festival</title>
     </programme>
     <programme start="20250222220000 +0000" stop="20250222223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250222223000 +0000" stop="20250222233000 +0000" channel="CHSTV">
-        <title>Dark Justice</title>
+        <title>Family Secrets</title>
     </programme>
     <programme start="20250221203000 +0000" stop="20250222000000 +0000" channel="IQRA Bangla">
         <title>National Seerah Conference</title>
