@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250222072000 +0000" stop="20250222094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Seoul v Anyang</title>
-    </programme>
     <programme start="20250222113000 +0000" stop="20250222145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Manchester United</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
+    </programme>
+    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Houston Dash v Washington Spirit</title>
     </programme>
 </tv>
