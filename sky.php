@@ -24093,10 +24093,7 @@
     <programme start="20250222090000 +0000" stop="20250222100000 +0000" channel="QVC Style HD">
         <title>The Jewellery Box</title>
     </programme>
-    <programme start="20250222100000 +0000" stop="20250222110000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250222110000 +0000" stop="20250222120000 +0000" channel="QVC Style HD">
+    <programme start="20250222100000 +0000" stop="20250222120000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250222120000 +0000" stop="20250222130000 +0000" channel="QVC Style HD">
@@ -24114,10 +24111,7 @@
     <programme start="20250222160000 +0000" stop="20250222170000 +0000" channel="QVC Style HD">
         <title>Apricot Clothing</title>
     </programme>
-    <programme start="20250222170000 +0000" stop="20250222180000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250222180000 +0000" stop="20250222190000 +0000" channel="QVC Style HD">
+    <programme start="20250222170000 +0000" stop="20250222190000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250222190000 +0000" stop="20250222200000 +0000" channel="QVC Style HD">
@@ -36537,10 +36531,10 @@
     <programme start="20250222225500 +0000" stop="20250222235500 +0000" channel="BBC Two NI HD">
         <title>Fleetwood Mac: The Dance</title>
     </programme>
-    <programme start="20250221211000 +0000" stop="20250221231500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250221211000 +0000" stop="20250221231000 +0000" channel="BBC RB 1 HD">
         <title>World Seniors Darts Championship</title>
     </programme>
-    <programme start="20250221231500 +0000" stop="20250222050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250221231000 +0000" stop="20250222050000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 3</title>
     </programme>
     <programme start="20250222050000 +0000" stop="20250222060000 +0000" channel="BBC RB 1 HD">
