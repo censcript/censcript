@@ -13629,10 +13629,10 @@
     <programme start="20250222124500 +0000" stop="20250222140000 +0000" channel="Eurosport 1 HD">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250222140000 +0000" stop="20250222154000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250222140000 +0000" stop="20250222160000 +0000" channel="Eurosport 1 HD">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250222154000 +0000" stop="20250222164000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250222160000 +0000" stop="20250222164000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250222164000 +0000" stop="20250222165000 +0000" channel="Eurosport 1 HD">
@@ -30753,8 +30753,107 @@
     <programme start="20250222040000 +0000" stop="20250222045000 +0000" channel="SkyNewsArabia">
         <title>News</title>
     </programme>
-    <programme start="20250222045000 +0000" stop="20250222055000 +0000" channel="SkyNewsArabia">
+    <programme start="20250222045000 +0000" stop="20250222050000 +0000" channel="SkyNewsArabia">
         <title>Mini Show</title>
+    </programme>
+    <programme start="20250222050000 +0000" stop="20250222053000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222053000 +0000" stop="20250222060000 +0000" channel="SkyNewsArabia">
+        <title>Best of Morning Show</title>
+    </programme>
+    <programme start="20250222060000 +0000" stop="20250222063000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222063000 +0000" stop="20250222070000 +0000" channel="SkyNewsArabia">
+        <title>Best of Morning Show</title>
+    </programme>
+    <programme start="20250222070000 +0000" stop="20250222073000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222073000 +0000" stop="20250222080000 +0000" channel="SkyNewsArabia">
+        <title>Alam Al Taqa Repeat</title>
+    </programme>
+    <programme start="20250222080000 +0000" stop="20250222085500 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222085500 +0000" stop="20250222090000 +0000" channel="SkyNewsArabia">
+        <title>Mini Show</title>
+    </programme>
+    <programme start="20250222090000 +0000" stop="20250222100000 +0000" channel="SkyNewsArabia">
+        <title>Noon News Show</title>
+    </programme>
+    <programme start="20250222100000 +0000" stop="20250222110000 +0000" channel="SkyNewsArabia">
+        <title>Noon News Show</title>
+    </programme>
+    <programme start="20250222110000 +0000" stop="20250222113000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222113000 +0000" stop="20250222120000 +0000" channel="SkyNewsArabia">
+        <title>Hajma Mortaddah Repeat</title>
+    </programme>
+    <programme start="20250222120000 +0000" stop="20250222130000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222130000 +0000" stop="20250222133000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222133000 +0000" stop="20250222135500 +0000" channel="SkyNewsArabia">
+        <title>Lana Wal Nujoum</title>
+    </programme>
+    <programme start="20250222135500 +0000" stop="20250222140000 +0000" channel="SkyNewsArabia">
+        <title>Mini Show</title>
+    </programme>
+    <programme start="20250222140000 +0000" stop="20250222150000 +0000" channel="SkyNewsArabia">
+        <title>News Radar Part 1</title>
+    </programme>
+    <programme start="20250222150000 +0000" stop="20250222153000 +0000" channel="SkyNewsArabia">
+        <title>News Radar Part 2</title>
+    </programme>
+    <programme start="20250222153000 +0000" stop="20250222160000 +0000" channel="SkyNewsArabia">
+        <title>Minaassat</title>
+    </programme>
+    <programme start="20250222160000 +0000" stop="20250222163000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222163000 +0000" stop="20250222170000 +0000" channel="SkyNewsArabia">
+        <title>Clinic</title>
+    </programme>
+    <programme start="20250222170000 +0000" stop="20250222175500 +0000" channel="SkyNewsArabia">
+        <title>21 Show News</title>
+    </programme>
+    <programme start="20250222175500 +0000" stop="20250222180000 +0000" channel="SkyNewsArabia">
+        <title>Mini Show</title>
+    </programme>
+    <programme start="20250222180000 +0000" stop="20250222190000 +0000" channel="SkyNewsArabia">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250222190000 +0000" stop="20250222200000 +0000" channel="SkyNewsArabia">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250222200000 +0000" stop="20250222205000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222205000 +0000" stop="20250222210000 +0000" channel="SkyNewsArabia">
+        <title>Mini Show</title>
+    </programme>
+    <programme start="20250222210000 +0000" stop="20250222213000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222213000 +0000" stop="20250222220000 +0000" channel="SkyNewsArabia">
+        <title>On The Map Repeat</title>
+    </programme>
+    <programme start="20250222220000 +0000" stop="20250222223000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222223000 +0000" stop="20250222230000 +0000" channel="SkyNewsArabia">
+        <title>News Radar Repeat</title>
+    </programme>
+    <programme start="20250222230000 +0000" stop="20250222233000 +0000" channel="SkyNewsArabia">
+        <title>News</title>
+    </programme>
+    <programme start="20250222233000 +0000" stop="20250223003000 +0000" channel="SkyNewsArabia">
+        <title>Minaassat Repeat</title>
     </programme>
     <programme start="20250221223000 +0000" stop="20250221230000 +0000" channel="PCNE Chinese HD">
         <title>The Great Era</title>
@@ -33984,14 +34083,17 @@
     <programme start="20250222124500 +0000" stop="20250222140000 +0000" channel="Eurosport 1">
         <title>Live Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250222140000 +0000" stop="20250222154000 +0000" channel="Eurosport 1">
+    <programme start="20250222140000 +0000" stop="20250222160000 +0000" channel="Eurosport 1">
         <title>Live Biathlon: World Championships</title>
     </programme>
-    <programme start="20250222154000 +0000" stop="20250222164000 +0000" channel="Eurosport 1">
+    <programme start="20250222160000 +0000" stop="20250222164000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250222164000 +0000" stop="20250222165000 +0000" channel="Eurosport 1">
+    <programme start="20250222164000 +0000" stop="20250222164500 +0000" channel="Eurosport 1">
         <title>Winter Sport</title>
+    </programme>
+    <programme start="20250222164500 +0000" stop="20250222165000 +0000" channel="Eurosport 1">
+        <title>Inspire the World</title>
     </programme>
     <programme start="20250222165000 +0000" stop="20250222180000 +0000" channel="Eurosport 1">
         <title>Live Snowboarding World Cup</title>
