@@ -3,21 +3,6 @@
     <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Southampton v Brighton</title>
-    </programme>
-    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Ipswich v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Fulham v Crystal Palace</title>
-    </programme>
-    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Arsenal v West Ham United</title>
-    </programme>
-    <programme start="20250222145000 +0000" stop="20250222171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Bournemouth v Wolverhampton Wanderers</title>
-    </programme>
     <programme start="20250222172000 +0000" stop="20250222200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Chelsea</title>
     </programme>
@@ -299,5 +284,20 @@
     </programme>
     <programme start="20250315164500 +0000" stop="20250315191500 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Kansas City Current v Portland Thorns FC</title>
+    </programme>
+    <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
+    </programme>
+    <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Utah Royals FC v Bay FC</title>
+    </programme>
+    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Seattle Reign v Gotham FC</title>
+    </programme>
+    <programme start="20250316135500 +0000" stop="20250316161000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Crystal Palace v Aston Villa</title>
+    </programme>
+    <programme start="20250316145500 +0000" stop="20250316171000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Tottenham Hotspur v Brighton and Hove Albion</title>
     </programme>
 </tv>
