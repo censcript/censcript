@@ -36549,10 +36549,7 @@
     <programme start="20250222085000 +0000" stop="20250222110000 +0000" channel="BBC RB 1 HD">
         <title>U20s Six Nations: England v Scotland</title>
     </programme>
-    <programme start="20250222110000 +0000" stop="20250222131000 +0000" channel="BBC RB 1 HD">
-        <title>Premiership Women's Rugby:...</title>
-    </programme>
-    <programme start="20250222131000 +0000" stop="20250222143000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250222110000 +0000" stop="20250222143000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 3</title>
     </programme>
     <programme start="20250222143000 +0000" stop="20250222173000 +0000" channel="BBC RB 1 HD">
