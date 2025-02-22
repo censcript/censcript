@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250222172000 +0000" stop="20250222200000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Aston Villa v Chelsea</title>
-    </programme>
     <programme start="20250222200000 +0000" stop="20250222210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
 </tv>
