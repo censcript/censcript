@@ -16837,10 +16837,10 @@
         <title>WION Fineprint</title>
     </programme>
     <programme start="20250221233000 +0000" stop="20250222000000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250222000000 +0000" stop="20250222003000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250222003000 +0000" stop="20250222010000 +0000" channel="WION HD">
         <title>WION Pulse</title>
@@ -16888,7 +16888,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250222080000 +0000" stop="20250222083000 +0000" channel="WION HD">
-        <title>Dharavi Dreams</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250222083000 +0000" stop="20250222090000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16906,7 +16906,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250222110000 +0000" stop="20250222113000 +0000" channel="WION HD">
-        <title>WION Business Masters</title>
+        <title>India Energy Week 2025</title>
     </programme>
     <programme start="20250222113000 +0000" stop="20250222120000 +0000" channel="WION HD">
         <title>Top Stories</title>
