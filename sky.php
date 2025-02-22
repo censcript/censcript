@@ -13177,7 +13177,7 @@
         <title>Tennis Highlights</title>
     </programme>
     <programme start="20250222150001 +0000" stop="20250222170000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: ATP Rio Final</title>
+        <title>Live Tennis: ATP Doha Final</title>
     </programme>
     <programme start="20250222170000 +0000" stop="20250222180000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Doha</title>
