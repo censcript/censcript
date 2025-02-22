@@ -14706,8 +14706,11 @@
     <programme start="20250222053000 +0000" stop="20250222060000 +0000" channel="BBC NEWS HD">
         <title>Unspun World with John Simpson</title>
     </programme>
-    <programme start="20250222060000 +0000" stop="20250222090000 +0000" channel="BBC NEWS HD">
+    <programme start="20250222060000 +0000" stop="20250222070000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
+    </programme>
+    <programme start="20250222070000 +0000" stop="20250222090000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250222090000 +0000" stop="20250222100000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
