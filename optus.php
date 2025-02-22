@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250222145000 +0000" stop="20250222172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
     <programme start="20250222172000 +0000" stop="20250222200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Chelsea</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250316145500 +0000" stop="20250316171000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v San Diego Wave FC</title>
     </programme>
 </tv>
