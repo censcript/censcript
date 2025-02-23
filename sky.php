@@ -13782,7 +13782,7 @@
     <programme start="20250224170000 +0000" stop="20250224180000 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Day 1</title>
     </programme>
-    <programme start="20250223223000 +0000" stop="20250223230000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250223223500 +0000" stop="20250223230000 +0000" channel="Eurosport 1 HD">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
     <programme start="20250223230000 +0000" stop="20250224000000 +0000" channel="Eurosport 1 HD">
@@ -34779,7 +34779,7 @@
     <programme start="20250224230000 +0000" stop="20250225000000 +0000" channel="TNTSports2 HD">
         <title>Cagliari v Juventus</title>
     </programme>
-    <programme start="20250223223000 +0000" stop="20250223230000 +0000" channel="Eurosport 1">
+    <programme start="20250223223500 +0000" stop="20250223230000 +0000" channel="Eurosport 1">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
     <programme start="20250223230000 +0000" stop="20250224000000 +0000" channel="Eurosport 1">
