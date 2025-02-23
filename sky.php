@@ -13800,7 +13800,13 @@
     <programme start="20250224030000 +0000" stop="20250224040000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224040000 +0000" stop="20250224060000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250224040000 +0000" stop="20250224042000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224042000 +0000" stop="20250224044000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224044000 +0000" stop="20250224060000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250224060000 +0000" stop="20250224090000 +0000" channel="Eurosport 1 HD">
@@ -13860,8 +13866,14 @@
     <programme start="20250224013000 +0000" stop="20250224020000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224020000 +0000" stop="20250224040000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250224020000 +0000" stop="20250224025900 +0000" channel="Eurosport 2 HD">
         <title>Snooker: World Open</title>
+    </programme>
+    <programme start="20250224025900 +0000" stop="20250224031900 +0000" channel="Eurosport 2 HD">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224031900 +0000" stop="20250224040000 +0000" channel="Eurosport 2 HD">
+        <title>Snooker 147s</title>
     </programme>
     <programme start="20250224040000 +0000" stop="20250224050000 +0000" channel="Eurosport 2 HD">
         <title>Cycling: UAE Tour</title>
@@ -27880,13 +27892,13 @@
         <title>Haarna Mana Hai</title>
     </programme>
     <programme start="20250223220500 +0000" stop="20250223230000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai</title>
+        <title>News</title>
     </programme>
     <programme start="20250223230000 +0000" stop="20250223230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250223230500 +0000" stop="20250224000000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Saray Aam</title>
     </programme>
     <programme start="20250224000000 +0000" stop="20250224000500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -34797,7 +34809,13 @@
     <programme start="20250224030000 +0000" stop="20250224040000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224040000 +0000" stop="20250224060000 +0000" channel="Eurosport 1">
+    <programme start="20250224040000 +0000" stop="20250224042000 +0000" channel="Eurosport 1">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224042000 +0000" stop="20250224044000 +0000" channel="Eurosport 1">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224044000 +0000" stop="20250224060000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250224060000 +0000" stop="20250224090000 +0000" channel="Eurosport 1">
@@ -34857,8 +34875,14 @@
     <programme start="20250224013000 +0000" stop="20250224020000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224020000 +0000" stop="20250224040000 +0000" channel="Eurosport 2">
+    <programme start="20250224020000 +0000" stop="20250224025900 +0000" channel="Eurosport 2">
         <title>Snooker: World Open</title>
+    </programme>
+    <programme start="20250224025900 +0000" stop="20250224031900 +0000" channel="Eurosport 2">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224031900 +0000" stop="20250224040000 +0000" channel="Eurosport 2">
+        <title>Snooker 147s</title>
     </programme>
     <programme start="20250224040000 +0000" stop="20250224050000 +0000" channel="Eurosport 2">
         <title>Cycling: UAE Tour</title>
