@@ -24454,76 +24454,76 @@
         <title>Black Friday in February with Adi &amp; Andrew</title>
     </programme>
     <programme start="20250224000000 +0000" stop="20250224010000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224010000 +0000" stop="20250224020000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224020000 +0000" stop="20250224030000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224030000 +0000" stop="20250224040000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224040000 +0000" stop="20250224050000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224050000 +0000" stop="20250224060000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andrew</title>
     </programme>
     <programme start="20250224060000 +0000" stop="20250224070000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224070000 +0000" stop="20250224080000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224080000 +0000" stop="20250224090000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224090000 +0000" stop="20250224100000 +0000" channel="TJC HD">
-        <title>Deal Of The Day</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224100000 +0000" stop="20250224110000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Cris &amp; Stacey</title>
     </programme>
     <programme start="20250224110000 +0000" stop="20250224120000 +0000" channel="TJC HD">
-        <title>One to Own</title>
+        <title>Lifestyle Flash Sale with Cris &amp; Stacey</title>
     </programme>
     <programme start="20250224120000 +0000" stop="20250224130000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Cris &amp; Stacey</title>
     </programme>
     <programme start="20250224130000 +0000" stop="20250224140000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Cris &amp; Stacey</title>
     </programme>
     <programme start="20250224140000 +0000" stop="20250224150000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224150000 +0000" stop="20250224160000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224160000 +0000" stop="20250224170000 +0000" channel="TJC HD">
-        <title>Super Find</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224170000 +0000" stop="20250224180000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale  Chloe</title>
     </programme>
     <programme start="20250224180000 +0000" stop="20250224190000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Jenny</title>
     </programme>
     <programme start="20250224190000 +0000" stop="20250224200000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Jenny</title>
     </programme>
     <programme start="20250224200000 +0000" stop="20250224210000 +0000" channel="TJC HD">
-        <title>Monster Deal</title>
+        <title>Lifestyle Flash Sale with Jenny</title>
     </programme>
     <programme start="20250224210000 +0000" stop="20250224220000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Jenny</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250224230000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andy H</title>
     </programme>
     <programme start="20250224230000 +0000" stop="20250225000000 +0000" channel="TJC HD">
-        <title>Affordable Luxury</title>
+        <title>Lifestyle Flash Sale with Andy H</title>
     </programme>
     <programme start="20250223220000 +0000" stop="20250223230000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -29997,10 +29997,10 @@
     <programme start="20250224090000 +0000" stop="20250224093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250224093000 +0000" stop="20250224094500 +0000" channel="Kanshi TV">
+    <programme start="20250224093000 +0000" stop="20250224100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250224094500 +0000" stop="20250224110000 +0000" channel="Kanshi TV">
+    <programme start="20250224100000 +0000" stop="20250224110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250224110000 +0000" stop="20250224123000 +0000" channel="Kanshi TV">
@@ -30012,20 +30012,14 @@
     <programme start="20250224130000 +0000" stop="20250224140000 +0000" channel="Kanshi TV">
         <title>Health Show with Dr Wali</title>
     </programme>
-    <programme start="20250224140000 +0000" stop="20250224143000 +0000" channel="Kanshi TV">
-        <title>Kanshi TV Cooking Show</title>
-    </programme>
-    <programme start="20250224143000 +0000" stop="20250224150000 +0000" channel="Kanshi TV">
-        <title>Kaum de Heere</title>
+    <programme start="20250224140000 +0000" stop="20250224150000 +0000" channel="Kanshi TV">
+        <title>Music Time</title>
     </programme>
     <programme start="20250224150000 +0000" stop="20250224160000 +0000" channel="Kanshi TV">
         <title>Gallan Baatan with Asha Mall</title>
     </programme>
-    <programme start="20250224160000 +0000" stop="20250224163000 +0000" channel="Kanshi TV">
+    <programme start="20250224160000 +0000" stop="20250224170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
-    </programme>
-    <programme start="20250224163000 +0000" stop="20250224170000 +0000" channel="Kanshi TV">
-        <title>Music Gup Shup</title>
     </programme>
     <programme start="20250224170000 +0000" stop="20250224180000 +0000" channel="Kanshi TV">
         <title>Soch Da Safar</title>
@@ -30604,7 +30598,7 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250224103000 +0000" stop="20250224113000 +0000" channel="ATN">
-        <title>This is Wife</title>
+        <title>Sesh Khela</title>
     </programme>
     <programme start="20250224113000 +0000" stop="20250224115000 +0000" channel="ATN">
         <title>Chobir Gaan</title>
@@ -30613,54 +30607,54 @@
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250224120000 +0000" stop="20250224122000 +0000" channel="ATN">
-        <title>Taka</title>
+        <title>Dhakar King</title>
     </programme>
     <programme start="20250224122000 +0000" stop="20250224122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250224122500 +0000" stop="20250224140000 +0000" channel="ATN">
-        <title>Taka</title>
+        <title>Dhakar King</title>
     </programme>
     <programme start="20250224140000 +0000" stop="20250224143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250224143000 +0000" stop="20250224145500 +0000" channel="ATN">
-        <title>Taka</title>
+    <programme start="20250224143000 +0000" stop="20250224153500 +0000" channel="ATN">
+        <title>Dhakar King</title>
     </programme>
-    <programme start="20250224145500 +0000" stop="20250224150000 +0000" channel="ATN">
+    <programme start="20250224153500 +0000" stop="20250224154000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250224150000 +0000" stop="20250224160000 +0000" channel="ATN">
-        <title>Taka</title>
+    <programme start="20250224154000 +0000" stop="20250224160000 +0000" channel="ATN">
+        <title>Dhakar King</title>
     </programme>
-    <programme start="20250224160000 +0000" stop="20250224164500 +0000" channel="ATN">
+    <programme start="20250224160000 +0000" stop="20250224165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250224164500 +0000" stop="20250224165000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250224165000 +0000" stop="20250224170000 +0000" channel="ATN">
+    <programme start="20250224165500 +0000" stop="20250224170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250224170000 +0000" stop="20250224173000 +0000" channel="ATN">
-        <title>Chotoder Prithibi</title>
+    <programme start="20250224170000 +0000" stop="20250224172500 +0000" channel="ATN">
+        <title>Gaanbaz Junior</title>
     </programme>
-    <programme start="20250224173000 +0000" stop="20250224180000 +0000" channel="ATN">
+    <programme start="20250224172500 +0000" stop="20250224173500 +0000" channel="ATN">
         <title>Mochibot Unlimited</title>
     </programme>
-    <programme start="20250224180000 +0000" stop="20250224182500 +0000" channel="ATN">
+    <programme start="20250224173500 +0000" stop="20250224174000 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250224174000 +0000" stop="20250224180000 +0000" channel="ATN">
+        <title>Mochibot Unlimited</title>
+    </programme>
+    <programme start="20250224180000 +0000" stop="20250224185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250224182500 +0000" stop="20250224183000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250224183000 +0000" stop="20250224185500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250224185500 +0000" stop="20250224190000 +0000" channel="ATN">
+    <programme start="20250224185500 +0000" stop="20250224190300 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250224190000 +0000" stop="20250224193000 +0000" channel="ATN">
+    <programme start="20250224190300 +0000" stop="20250224190600 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250224190600 +0000" stop="20250224193000 +0000" channel="ATN">
         <title>Palki</title>
     </programme>
     <programme start="20250224193000 +0000" stop="20250224200000 +0000" channel="ATN">
@@ -30679,7 +30673,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250224230000 +0000" stop="20250225000000 +0000" channel="ATN">
-        <title>Lal Doriya</title>
+        <title>Baber Adesh</title>
     </programme>
     <programme start="20250223223000 +0000" stop="20250223230000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
