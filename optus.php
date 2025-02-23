@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250223203000 +0000" stop="20250223220000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250223230000 +0000" stop="20250224000000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
     </programme>
 </tv>
