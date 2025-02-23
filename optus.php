@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250223072000 +0000" stop="20250223094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeonbuk v Gwangju</title>
-    </programme>
     <programme start="20250223130000 +0000" stop="20250223162000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Newcastle United v Nottingham Forest</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Bay FC v Racing Louisville FC</title>
     </programme>
 </tv>
