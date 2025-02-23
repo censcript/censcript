@@ -108,7 +108,7 @@
     <programme start="20250301120500 +0000" stop="20250301152500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Preston v Burnley</title>
     </programme>
-    <programme start="20250301145000 +0000" stop="20250301181000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250301145000 +0000" stop="20250301181000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Bournemouth v Wolverhampton Wanderers</title>
     </programme>
     <programme start="20250301173500 +0000" stop="20250301205500 +0000" channel="Optus Sport 2.optus">
@@ -126,7 +126,7 @@
     <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 5.optus">
         <title>Women&#039;s Super League - Manchester United v Leicester</title>
     </programme>
-    <programme start="20250302133500 +0000" stop="20250302165500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250302133500 +0000" stop="20250302165500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Newcastle United v Brighton</title>
     </programme>
     <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 9.optus">
@@ -141,7 +141,7 @@
     <programme start="20250302145000 +0000" stop="20250302171000 +0000" channel="Optus Sport 6.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Chelsea</title>
     </programme>
-    <programme start="20250302162000 +0000" stop="20250302194000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250302162000 +0000" stop="20250302194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Fulham</title>
     </programme>
     <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 5.optus">

@@ -13866,13 +13866,13 @@
     <programme start="20250224013000 +0000" stop="20250224020000 +0000" channel="Eurosport 2 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224020000 +0000" stop="20250224025900 +0000" channel="Eurosport 2 HD">
+    <programme start="20250224020000 +0000" stop="20250224032000 +0000" channel="Eurosport 2 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250224025900 +0000" stop="20250224031900 +0000" channel="Eurosport 2 HD">
+    <programme start="20250224032000 +0000" stop="20250224034000 +0000" channel="Eurosport 2 HD">
         <title>Snooker 147s</title>
     </programme>
-    <programme start="20250224031900 +0000" stop="20250224040000 +0000" channel="Eurosport 2 HD">
+    <programme start="20250224034000 +0000" stop="20250224040000 +0000" channel="Eurosport 2 HD">
         <title>Snooker 147s</title>
     </programme>
     <programme start="20250224040000 +0000" stop="20250224050000 +0000" channel="Eurosport 2 HD">
@@ -34830,13 +34830,13 @@
     <programme start="20250224013000 +0000" stop="20250224020000 +0000" channel="Eurosport 2">
         <title>Alpine Skiing: World Cup</title>
     </programme>
-    <programme start="20250224020000 +0000" stop="20250224025900 +0000" channel="Eurosport 2">
+    <programme start="20250224020000 +0000" stop="20250224032000 +0000" channel="Eurosport 2">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250224025900 +0000" stop="20250224031900 +0000" channel="Eurosport 2">
+    <programme start="20250224032000 +0000" stop="20250224034000 +0000" channel="Eurosport 2">
         <title>Snooker 147s</title>
     </programme>
-    <programme start="20250224031900 +0000" stop="20250224040000 +0000" channel="Eurosport 2">
+    <programme start="20250224034000 +0000" stop="20250224040000 +0000" channel="Eurosport 2">
         <title>Snooker 147s</title>
     </programme>
     <programme start="20250224040000 +0000" stop="20250224050000 +0000" channel="Eurosport 2">
