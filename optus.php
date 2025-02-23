@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250223045000 +0000" stop="20250223071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Ulsan</title>
-    </programme>
-    <programme start="20250223045500 +0000" stop="20250223071000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Sanfrecce v Yokohama FM</title>
-    </programme>
     <programme start="20250223072000 +0000" stop="20250223094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeonbuk v Gwangju</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
+    </programme>
+    <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>
