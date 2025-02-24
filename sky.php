@@ -13836,7 +13836,10 @@
     <programme start="20250224091500 +0000" stop="20250224101500 +0000" channel="Eurosport 1 HD">
         <title>Cycling: Tour of Algarve</title>
     </programme>
-    <programme start="20250224101500 +0000" stop="20250224113000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250224101500 +0000" stop="20250224102500 +0000" channel="Eurosport 1 HD">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224102500 +0000" stop="20250224113000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="Eurosport 1 HD">
@@ -14622,31 +14625,34 @@
     <programme start="20250224051500 +0000" stop="20250224061500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224061500 +0000" stop="20250224071500 +0000" channel="Racing TV">
+    <programme start="20250224061500 +0000" stop="20250224064500 +0000" channel="Racing TV">
+        <title>This is Racing TV</title>
+    </programme>
+    <programme start="20250224064500 +0000" stop="20250224074500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224071500 +0000" stop="20250224081500 +0000" channel="Racing TV">
+    <programme start="20250224074500 +0000" stop="20250224084500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224081500 +0000" stop="20250224091500 +0000" channel="Racing TV">
+    <programme start="20250224084500 +0000" stop="20250224094500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224091500 +0000" stop="20250224101500 +0000" channel="Racing TV">
+    <programme start="20250224094500 +0000" stop="20250224104500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224101500 +0000" stop="20250224111500 +0000" channel="Racing TV">
+    <programme start="20250224104500 +0000" stop="20250224114500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224111500 +0000" stop="20250224130000 +0000" channel="Racing TV">
+    <programme start="20250224114500 +0000" stop="20250224124500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224130000 +0000" stop="20250224134500 +0000" channel="Racing TV">
+    <programme start="20250224124500 +0000" stop="20250224130000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224134500 +0000" stop="20250224141500 +0000" channel="Racing TV">
+    <programme start="20250224130000 +0000" stop="20250224133000 +0000" channel="Racing TV">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250224141500 +0000" stop="20250224174500 +0000" channel="Racing TV">
+    <programme start="20250224133000 +0000" stop="20250224174500 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
     <programme start="20250224174500 +0000" stop="20250224184500 +0000" channel="Racing TV">
@@ -34809,7 +34815,10 @@
     <programme start="20250224091500 +0000" stop="20250224101500 +0000" channel="Eurosport 1">
         <title>Cycling: Tour of Algarve</title>
     </programme>
-    <programme start="20250224101500 +0000" stop="20250224113000 +0000" channel="Eurosport 1">
+    <programme start="20250224101500 +0000" stop="20250224102500 +0000" channel="Eurosport 1">
+        <title>Snooker 147s</title>
+    </programme>
+    <programme start="20250224102500 +0000" stop="20250224113000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="Eurosport 1">
@@ -35238,31 +35247,34 @@
     <programme start="20250224051500 +0000" stop="20250224061500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224061500 +0000" stop="20250224071500 +0000" channel="Racing TV HD">
+    <programme start="20250224061500 +0000" stop="20250224064500 +0000" channel="Racing TV HD">
+        <title>This is Racing TV HD</title>
+    </programme>
+    <programme start="20250224064500 +0000" stop="20250224074500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224071500 +0000" stop="20250224081500 +0000" channel="Racing TV HD">
+    <programme start="20250224074500 +0000" stop="20250224084500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224081500 +0000" stop="20250224091500 +0000" channel="Racing TV HD">
+    <programme start="20250224084500 +0000" stop="20250224094500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224091500 +0000" stop="20250224101500 +0000" channel="Racing TV HD">
+    <programme start="20250224094500 +0000" stop="20250224104500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224101500 +0000" stop="20250224111500 +0000" channel="Racing TV HD">
+    <programme start="20250224104500 +0000" stop="20250224114500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224111500 +0000" stop="20250224130000 +0000" channel="Racing TV HD">
+    <programme start="20250224114500 +0000" stop="20250224124500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224130000 +0000" stop="20250224134500 +0000" channel="Racing TV HD">
+    <programme start="20250224124500 +0000" stop="20250224130000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250224134500 +0000" stop="20250224141500 +0000" channel="Racing TV HD">
+    <programme start="20250224130000 +0000" stop="20250224133000 +0000" channel="Racing TV HD">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250224141500 +0000" stop="20250224174500 +0000" channel="Racing TV HD">
+    <programme start="20250224133000 +0000" stop="20250224174500 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
     <programme start="20250224174500 +0000" stop="20250224184500 +0000" channel="Racing TV HD">
