@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250224130000 +0000" stop="20250224140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250224170000 +0000" stop="20250224180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Washington Spirit v Bay FC</title>
+    </programme>
+    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
     </programme>
 </tv>
