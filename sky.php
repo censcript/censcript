@@ -14029,7 +14029,7 @@
         <title>Girlz Are Playaz Too</title>
     </programme>
     <programme start="20250224230000 +0000" stop="20250224233000 +0000" channel="SkySp Mix HD">
-        <title>Golf's Greatest Holes: The Open</title>
+        <title>Gloves Are Off: Jonas v Price</title>
     </programme>
     <programme start="20250224233000 +0000" stop="20250225000000 +0000" channel="SkySp Mix HD">
         <title>DP World Tour Golf Highlights</title>
@@ -15897,13 +15897,7 @@
     <programme start="20250225073000 +0000" stop="20250225083000 +0000" channel="NDTV World">
         <title>Lunchtime News</title>
     </programme>
-    <programme start="20250225083000 +0000" stop="20250225090000 +0000" channel="NDTV World">
-        <title>News</title>
-    </programme>
-    <programme start="20250225090000 +0000" stop="20250225110000 +0000" channel="NDTV World">
-        <title>Bachpan Manao with EkStep and NDTV</title>
-    </programme>
-    <programme start="20250225110000 +0000" stop="20250225113000 +0000" channel="NDTV World">
+    <programme start="20250225083000 +0000" stop="20250225113000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250225113000 +0000" stop="20250225133000 +0000" channel="NDTV World">
