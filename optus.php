@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250223230000 +0000" stop="20250224000000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20250224130000 +0000" stop="20250224140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -90,7 +87,7 @@
     <programme start="20250228195000 +0000" stop="20250228231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Aston Villa v Cardiff City</title>
     </programme>
-    <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Ulsan v Jeonbuk</title>
     </programme>
     <programme start="20250301045500 +0000" stop="20250301071000 +0000" channel="Optus Sport 10.optus">
@@ -99,7 +96,7 @@
     <programme start="20250301055500 +0000" stop="20250301081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Avispa</title>
     </programme>
-    <programme start="20250301072000 +0000" stop="20250301094000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250301072000 +0000" stop="20250301094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Daegu</title>
     </programme>
     <programme start="20250301120500 +0000" stop="20250301152500 +0000" channel="Optus Sport 2.optus">
@@ -114,7 +111,7 @@
     <programme start="20250301173500 +0000" stop="20250301205500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester City v Plymouth</title>
     </programme>
-    <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daejeon v Suwon FC</title>
     </programme>
     <programme start="20250302045500 +0000" stop="20250302071000 +0000" channel="Optus Sport 9.optus">
@@ -123,31 +120,31 @@
     <programme start="20250302055500 +0000" stop="20250302081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Kashiwa</title>
     </programme>
-    <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Leicester</title>
     </programme>
     <programme start="20250302133500 +0000" stop="20250302165500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Newcastle United v Brighton</title>
     </programme>
-    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Manchester City</title>
     </programme>
-    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Crystal Palace v Liverpool</title>
     </programme>
-    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250302135500 +0000" stop="20250302161000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Aston Villa v Everton</title>
     </programme>
-    <programme start="20250302145000 +0000" stop="20250302171000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250302145000 +0000" stop="20250302171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Chelsea</title>
     </programme>
     <programme start="20250302162000 +0000" stop="20250302194000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Manchester United v Fulham</title>
     </programme>
-    <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v West Ham United</title>
     </programme>
-    <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Gimcheon</title>
     </programme>
     <programme start="20250303192000 +0000" stop="20250303224000 +0000" channel="Optus Sport 2.optus">
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>
