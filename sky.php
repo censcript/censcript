@@ -24664,7 +24664,7 @@
         <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250224070000 +0000" stop="20250224080000 +0000" channel="QVC Style HD">
-        <title>20% off Skechers</title>
+        <title>20% off Skechers Boots</title>
     </programme>
     <programme start="20250224080000 +0000" stop="20250224090000 +0000" channel="QVC Style HD">
         <title>Moda In Pelle</title>
@@ -25333,7 +25333,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250224180000 +0000" stop="20250224190000 +0000" channel="QVC Extra">
-        <title>New Season Ichi Danish Fashion</title>
+        <title>New Season YouGarden</title>
     </programme>
     <programme start="20250224190000 +0000" stop="20250224200000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
