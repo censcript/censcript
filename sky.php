@@ -25986,10 +25986,10 @@
     <programme start="20250224075400 +0000" stop="20250224082700 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250224082700 +0000" stop="20250224085900 +0000" channel="SONY TV HD">
+    <programme start="20250224082700 +0000" stop="20250224090000 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250224085900 +0000" stop="20250224093000 +0000" channel="SONY TV HD">
+    <programme start="20250224090000 +0000" stop="20250224093000 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250224093000 +0000" stop="20250224100000 +0000" channel="SONY TV HD">
@@ -26007,16 +26007,16 @@
     <programme start="20250224130200 +0000" stop="20250224135900 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250224135900 +0000" stop="20250224145600 +0000" channel="SONY TV HD">
+    <programme start="20250224135900 +0000" stop="20250224145500 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250224145600 +0000" stop="20250224155700 +0000" channel="SONY TV HD">
+    <programme start="20250224145500 +0000" stop="20250224155700 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250224155700 +0000" stop="20250224162700 +0000" channel="SONY TV HD">
+    <programme start="20250224155700 +0000" stop="20250224162600 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250224162700 +0000" stop="20250224173000 +0000" channel="SONY TV HD">
+    <programme start="20250224162600 +0000" stop="20250224173000 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
     <programme start="20250224173000 +0000" stop="20250224180000 +0000" channel="SONY TV HD">
@@ -26025,22 +26025,22 @@
     <programme start="20250224180000 +0000" stop="20250224183000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250224183000 +0000" stop="20250224190000 +0000" channel="SONY TV HD">
+    <programme start="20250224183000 +0000" stop="20250224185900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250224190000 +0000" stop="20250224193000 +0000" channel="SONY TV HD">
+    <programme start="20250224185900 +0000" stop="20250224192900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250224193000 +0000" stop="20250224210000 +0000" channel="SONY TV HD">
+    <programme start="20250224192900 +0000" stop="20250224205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250224210000 +0000" stop="20250224220800 +0000" channel="SONY TV HD">
+    <programme start="20250224205900 +0000" stop="20250224221800 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250224220800 +0000" stop="20250224233600 +0000" channel="SONY TV HD">
+    <programme start="20250224221800 +0000" stop="20250224234600 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250224233600 +0000" stop="20250225003600 +0000" channel="SONY TV HD">
+    <programme start="20250224234600 +0000" stop="20250225004600 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250223220000 +0000" stop="20250223230000 +0000" channel="Utsav Bharat">
@@ -35064,8 +35064,11 @@
     <programme start="20250224190000 +0000" stop="20250224200000 +0000" channel="SkySp Mix">
         <title>ICC CT'25: IND v PAK Hlts</title>
     </programme>
-    <programme start="20250224200000 +0000" stop="20250224220000 +0000" channel="SkySp Mix">
+    <programme start="20250224200000 +0000" stop="20250224210001 +0000" channel="SkySp Mix">
         <title>Fight Night Int:Nakatani v Cuellar</title>
+    </programme>
+    <programme start="20250224210001 +0000" stop="20250224220000 +0000" channel="SkySp Mix">
+        <title>Fight Night: Jonas v Habazin</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250224223000 +0000" channel="SkySp Mix">
         <title>Gloves Are Off: Jonas v Price</title>
@@ -35619,10 +35622,10 @@
     <programme start="20250224075400 +0000" stop="20250224082700 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250224082700 +0000" stop="20250224085900 +0000" channel="SONY TV">
+    <programme start="20250224082700 +0000" stop="20250224090000 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250224085900 +0000" stop="20250224093000 +0000" channel="SONY TV">
+    <programme start="20250224090000 +0000" stop="20250224093000 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250224093000 +0000" stop="20250224100000 +0000" channel="SONY TV">
@@ -35640,16 +35643,16 @@
     <programme start="20250224130200 +0000" stop="20250224135900 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250224135900 +0000" stop="20250224145600 +0000" channel="SONY TV">
+    <programme start="20250224135900 +0000" stop="20250224145500 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250224145600 +0000" stop="20250224155700 +0000" channel="SONY TV">
+    <programme start="20250224145500 +0000" stop="20250224155700 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250224155700 +0000" stop="20250224162700 +0000" channel="SONY TV">
+    <programme start="20250224155700 +0000" stop="20250224162600 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250224162700 +0000" stop="20250224173000 +0000" channel="SONY TV">
+    <programme start="20250224162600 +0000" stop="20250224173000 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
     <programme start="20250224173000 +0000" stop="20250224180000 +0000" channel="SONY TV">
@@ -35658,22 +35661,22 @@
     <programme start="20250224180000 +0000" stop="20250224183000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250224183000 +0000" stop="20250224190000 +0000" channel="SONY TV">
+    <programme start="20250224183000 +0000" stop="20250224185900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250224190000 +0000" stop="20250224193000 +0000" channel="SONY TV">
+    <programme start="20250224185900 +0000" stop="20250224192900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250224193000 +0000" stop="20250224210000 +0000" channel="SONY TV">
+    <programme start="20250224192900 +0000" stop="20250224205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250224210000 +0000" stop="20250224220800 +0000" channel="SONY TV">
+    <programme start="20250224205900 +0000" stop="20250224221800 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250224220800 +0000" stop="20250224233600 +0000" channel="SONY TV">
+    <programme start="20250224221800 +0000" stop="20250224234600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250224233600 +0000" stop="20250225003600 +0000" channel="SONY TV">
+    <programme start="20250224234600 +0000" stop="20250225004600 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250223225000 +0000" stop="20250223232000 +0000" channel="Utsav Plus">
