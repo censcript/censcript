@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250224170000 +0000" stop="20250224180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250224183000 +0000" stop="20250224190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Orlando Pride v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Kansas City Current v Utah Royals FC</title>
     </programme>
 </tv>
