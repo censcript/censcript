@@ -1366,7 +1366,7 @@
         <title>New: Last Week Tonight With John Oliver</title>
     </programme>
     <programme start="20250224214500 +0000" stop="20250224230500 +0000" channel="Sky Comedy HD">
-        <title>Bill Maher: Is Anyone Else Else Seeing This? New</title>
+        <title>Bill Maher: Is Anyone Else...</title>
     </programme>
     <programme start="20250224230500 +0000" stop="20250224235000 +0000" channel="Sky Comedy HD">
         <title>Last Week Tonight With John Oliver</title>
@@ -13842,10 +13842,10 @@
     <programme start="20250224102500 +0000" stop="20250224113000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250224113000 +0000" stop="20250224144000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250224143000 +0000" stop="20250224153000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250224144000 +0000" stop="20250224153000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250224153000 +0000" stop="20250224163000 +0000" channel="Eurosport 1 HD">
@@ -29785,28 +29785,28 @@
         <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250224150000 +0000" stop="20250224153000 +0000" channel="Sikh Channel">
-        <title>Teleshopping: Caribbean Cruise</title>
+        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250224153000 +0000" stop="20250224160000 +0000" channel="Sikh Channel">
         <title>Katha - Giani Kulwant Singh Ji</title>
     </programme>
     <programme start="20250224160000 +0000" stop="20250224163000 +0000" channel="Sikh Channel">
-        <title>Teleshopping: Panj Takht Yatra</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250224163000 +0000" stop="20250224170000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+        <title>SC Punjab: Kabaddi</title>
     </programme>
     <programme start="20250224170000 +0000" stop="20250224183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250224183000 +0000" stop="20250224190000 +0000" channel="Sikh Channel">
-        <title>Trinjan Show</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250224190000 +0000" stop="20250224193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250224193000 +0000" stop="20250224200000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Teleshopping - Yatra</title>
     </programme>
     <programme start="20250224200000 +0000" stop="20250224210000 +0000" channel="Sikh Channel">
         <title>Live: Call in Show</title>
@@ -30687,20 +30687,32 @@
     <programme start="20250224180000 +0000" stop="20250224185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250224185500 +0000" stop="20250224190300 +0000" channel="ATN">
+    <programme start="20250224185500 +0000" stop="20250224190000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250224190000 +0000" stop="20250224190300 +0000" channel="ATN">
+        <title>Palki</title>
     </programme>
     <programme start="20250224190300 +0000" stop="20250224190600 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250224190600 +0000" stop="20250224213000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250224190600 +0000" stop="20250224193000 +0000" channel="ATN">
+        <title>Palki</title>
+    </programme>
+    <programme start="20250224193000 +0000" stop="20250224200000 +0000" channel="ATN">
+        <title>Shomadhan Kothai</title>
+    </programme>
+    <programme start="20250224200000 +0000" stop="20250224213000 +0000" channel="ATN">
+        <title>Alapcharita</title>
     </programme>
     <programme start="20250224213000 +0000" stop="20250224220000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250224220000 +0000" stop="20250224230000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250224220000 +0000" stop="20250224223000 +0000" channel="ATN">
+        <title>House Husband</title>
+    </programme>
+    <programme start="20250224223000 +0000" stop="20250224230000 +0000" channel="ATN">
+        <title>Rehana</title>
     </programme>
     <programme start="20250224230000 +0000" stop="20250225000000 +0000" channel="ATN">
         <title>Baber Adesh</title>
@@ -30774,10 +30786,7 @@
     <programme start="20250224121900 +0000" stop="20250224122400 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250224122400 +0000" stop="20250224122500 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250224122500 +0000" stop="20250224123000 +0000" channel="NTV">
+    <programme start="20250224122400 +0000" stop="20250224123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250224123000 +0000" stop="20250224140000 +0000" channel="NTV">
@@ -30801,11 +30810,8 @@
     <programme start="20250224163000 +0000" stop="20250224170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250224170000 +0000" stop="20250224171000 +0000" channel="NTV">
+    <programme start="20250224170000 +0000" stop="20250224173500 +0000" channel="NTV">
         <title>Tafsirul Quran</title>
-    </programme>
-    <programme start="20250224171000 +0000" stop="20250224173500 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
     </programme>
     <programme start="20250224173500 +0000" stop="20250224174000 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
@@ -32770,7 +32776,7 @@
         <title>New: Last Week Tonight With John Oliver</title>
     </programme>
     <programme start="20250224214500 +0000" stop="20250224230500 +0000" channel="Sky Comedy">
-        <title>Bill Maher: Is Anyone Else Else Seeing This? New</title>
+        <title>Bill Maher: Is Anyone Else...</title>
     </programme>
     <programme start="20250224230500 +0000" stop="20250224235000 +0000" channel="Sky Comedy">
         <title>Last Week Tonight With John Oliver</title>
@@ -34842,10 +34848,10 @@
     <programme start="20250224102500 +0000" stop="20250224113000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250224113000 +0000" stop="20250224143000 +0000" channel="Eurosport 1">
+    <programme start="20250224113000 +0000" stop="20250224144000 +0000" channel="Eurosport 1">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250224143000 +0000" stop="20250224153000 +0000" channel="Eurosport 1">
+    <programme start="20250224144000 +0000" stop="20250224153000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
     </programme>
     <programme start="20250224153000 +0000" stop="20250224163000 +0000" channel="Eurosport 1">
