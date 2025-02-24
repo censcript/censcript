@@ -15117,11 +15117,8 @@
     <programme start="20250225050000 +0000" stop="20250225070000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Mental Health Bill, Part 3</title>
     </programme>
-    <programme start="20250225070000 +0000" stop="20250225080000 +0000" channel="BBC Parl HD">
+    <programme start="20250225070000 +0000" stop="20250225081000 +0000" channel="BBC Parl HD">
         <title>Senedd Cymru - Welsh Parliament - Gaza Debate</title>
-    </programme>
-    <programme start="20250225080000 +0000" stop="20250225081000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
     </programme>
     <programme start="20250225081000 +0000" stop="20250225091500 +0000" channel="BBC Parl HD">
         <title>Home Office Questions</title>
@@ -15879,7 +15876,10 @@
     <programme start="20250225000000 +0000" stop="20250225003000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
     </programme>
-    <programme start="20250225003000 +0000" stop="20250225020000 +0000" channel="NDTV World">
+    <programme start="20250225003000 +0000" stop="20250225010000 +0000" channel="NDTV World">
+        <title>Mahakumbh Tales with Amish Tripathi</title>
+    </programme>
+    <programme start="20250225010000 +0000" stop="20250225020000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250225020000 +0000" stop="20250225023000 +0000" channel="NDTV World">
@@ -26061,23 +26061,14 @@
     <programme start="20250225110000 +0000" stop="20250225112800 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
-    <programme start="20250225112800 +0000" stop="20250225113000 +0000" channel="Utsav Bharat">
+    <programme start="20250225112800 +0000" stop="20250225120200 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225113000 +0000" stop="20250225120000 +0000" channel="Utsav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225120000 +0000" stop="20250225120200 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - Nayaa Season</title>
     </programme>
     <programme start="20250225120200 +0000" stop="20250225130000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Nayaa Season</title>
     </programme>
-    <programme start="20250225130000 +0000" stop="20250225133000 +0000" channel="Utsav Bharat">
+    <programme start="20250225130000 +0000" stop="20250225133100 +0000" channel="Utsav Bharat">
         <title>Sanjeev Kapoors Kitchen</title>
-    </programme>
-    <programme start="20250225133000 +0000" stop="20250225133100 +0000" channel="Utsav Bharat">
-        <title>Ishqbaaaz</title>
     </programme>
     <programme start="20250225133100 +0000" stop="20250225140000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
@@ -26094,80 +26085,41 @@
     <programme start="20250225153000 +0000" stop="20250225155800 +0000" channel="Utsav Bharat">
         <title>Radhakrishn</title>
     </programme>
-    <programme start="20250225155800 +0000" stop="20250225160000 +0000" channel="Utsav Bharat">
+    <programme start="20250225155800 +0000" stop="20250225162800 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
-    <programme start="20250225160000 +0000" stop="20250225162800 +0000" channel="Utsav Bharat">
+    <programme start="20250225162800 +0000" stop="20250225170100 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
-    <programme start="20250225162800 +0000" stop="20250225163000 +0000" channel="Utsav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225163000 +0000" stop="20250225170000 +0000" channel="Utsav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225170000 +0000" stop="20250225170100 +0000" channel="Utsav Bharat">
+    <programme start="20250225170100 +0000" stop="20250225180100 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Nayaa Season</title>
     </programme>
-    <programme start="20250225170100 +0000" stop="20250225180000 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - Nayaa Season</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225180100 +0000" channel="Utsav Bharat">
+    <programme start="20250225180100 +0000" stop="20250225183300 +0000" channel="Utsav Bharat">
         <title>Chef's Special</title>
     </programme>
-    <programme start="20250225180100 +0000" stop="20250225183000 +0000" channel="Utsav Bharat">
-        <title>Chef's Special</title>
-    </programme>
-    <programme start="20250225183000 +0000" stop="20250225183300 +0000" channel="Utsav Bharat">
+    <programme start="20250225183300 +0000" stop="20250225190100 +0000" channel="Utsav Bharat">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250225183300 +0000" stop="20250225190000 +0000" channel="Utsav Bharat">
-        <title>Sanjeev Kapoors Kitchen</title>
-    </programme>
-    <programme start="20250225190000 +0000" stop="20250225190100 +0000" channel="Utsav Bharat">
+    <programme start="20250225190100 +0000" stop="20250225193400 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
-    <programme start="20250225190100 +0000" stop="20250225193000 +0000" channel="Utsav Bharat">
+    <programme start="20250225193400 +0000" stop="20250225200500 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
-    <programme start="20250225193000 +0000" stop="20250225193400 +0000" channel="Utsav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225193400 +0000" stop="20250225200000 +0000" channel="Utsav Bharat">
-        <title>Yeh Rishtey Hain Pyaar Ke</title>
-    </programme>
-    <programme start="20250225200000 +0000" stop="20250225200500 +0000" channel="Utsav Bharat">
+    <programme start="20250225200500 +0000" stop="20250225203500 +0000" channel="Utsav Bharat">
         <title>RadhaKrishn</title>
     </programme>
-    <programme start="20250225200500 +0000" stop="20250225203000 +0000" channel="Utsav Bharat">
-        <title>RadhaKrishn</title>
-    </programme>
-    <programme start="20250225203000 +0000" stop="20250225203500 +0000" channel="Utsav Bharat">
+    <programme start="20250225203500 +0000" stop="20250225210600 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
-    <programme start="20250225203500 +0000" stop="20250225210000 +0000" channel="Utsav Bharat">
-        <title>Ishqbaaaz</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225210600 +0000" channel="Utsav Bharat">
+    <programme start="20250225210600 +0000" stop="20250225213700 +0000" channel="Utsav Bharat">
         <title>Mehndi Hai Rachne Waali</title>
     </programme>
-    <programme start="20250225210600 +0000" stop="20250225213000 +0000" channel="Utsav Bharat">
-        <title>Mehndi Hai Rachne Waali</title>
-    </programme>
-    <programme start="20250225213000 +0000" stop="20250225213700 +0000" channel="Utsav Bharat">
+    <programme start="20250225213700 +0000" stop="20250225223300 +0000" channel="Utsav Bharat">
         <title>Lakshya</title>
     </programme>
-    <programme start="20250225213700 +0000" stop="20250225223000 +0000" channel="Utsav Bharat">
-        <title>Lakshya</title>
-    </programme>
-    <programme start="20250225223000 +0000" stop="20250225223300 +0000" channel="Utsav Bharat">
+    <programme start="20250225223300 +0000" stop="20250225233600 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - India Fights Back</title>
-    </programme>
-    <programme start="20250225223300 +0000" stop="20250225233000 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - India Fights Back</title>
-    </programme>
-    <programme start="20250225233000 +0000" stop="20250225233600 +0000" channel="Utsav Bharat">
-        <title>Savdhaan India - Naya Adhyay</title>
     </programme>
     <programme start="20250225233600 +0000" stop="20250226003600 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Naya Adhyay</title>
@@ -26268,10 +26220,7 @@
     <programme start="20250225145900 +0000" stop="20250225152300 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250225152300 +0000" stop="20250225153000 +0000" channel="Utsav Plus HD">
-        <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250225153000 +0000" stop="20250225155900 +0000" channel="Utsav Plus HD">
+    <programme start="20250225152300 +0000" stop="20250225155900 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250225155900 +0000" stop="20250225165900 +0000" channel="Utsav Plus HD">
@@ -26280,11 +26229,8 @@
     <programme start="20250225165900 +0000" stop="20250225173200 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250225173200 +0000" stop="20250225180000 +0000" channel="Utsav Plus HD">
+    <programme start="20250225173200 +0000" stop="20250225180500 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225180500 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic S13</title>
     </programme>
     <programme start="20250225180500 +0000" stop="20250225183400 +0000" channel="Utsav Plus HD">
         <title>Mummy Ka Magic</title>
@@ -26313,11 +26259,8 @@
     <programme start="20250225223400 +0000" stop="20250225230400 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250225230400 +0000" stop="20250225233000 +0000" channel="Utsav Plus HD">
+    <programme start="20250225230400 +0000" stop="20250225233100 +0000" channel="Utsav Plus HD">
         <title>Jaadu Teri Nazar Dayan Ka Mausam</title>
-    </programme>
-    <programme start="20250225233000 +0000" stop="20250225233100 +0000" channel="Utsav Plus HD">
-        <title>Maati Se Bandhi Dor</title>
     </programme>
     <programme start="20250225233100 +0000" stop="20250225235900 +0000" channel="Utsav Plus HD">
         <title>Maati Se Bandhi Dor</title>
@@ -28774,16 +28717,16 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250225150000 +0000" stop="20250225160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225170000 +0000" channel="Takbeer TV">
-        <title>Warafana Laka Zikrak</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250225190000 +0000" stop="20250225200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28792,10 +28735,10 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29830,7 +29773,7 @@
         <title>Sade Rukh</title>
     </programme>
     <programme start="20250225000000 +0000" stop="20250225003000 +0000" channel="Sangat">
-        <title>Sangat News</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250225003000 +0000" stop="20250225013000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
@@ -30651,37 +30594,22 @@
     <programme start="20250225140000 +0000" stop="20250225143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250225143000 +0000" stop="20250225150800 +0000" channel="ATN">
+    <programme start="20250225143000 +0000" stop="20250225154500 +0000" channel="ATN">
         <title>Baber Adesh</title>
-    </programme>
-    <programme start="20250225150800 +0000" stop="20250225151300 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250225151300 +0000" stop="20250225154500 +0000" channel="ATN">
-        <title>Lal Doriya</title>
     </programme>
     <programme start="20250225154500 +0000" stop="20250225155000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250225155000 +0000" stop="20250225155500 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250225155500 +0000" stop="20250225160000 +0000" channel="ATN">
+    <programme start="20250225155000 +0000" stop="20250225160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225165500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250225165500 +0000" stop="20250225165900 +0000" channel="ATN">
+    <programme start="20250225165500 +0000" stop="20250225170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250225165900 +0000" stop="20250225170000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250225170000 +0000" stop="20250225170400 +0000" channel="ATN">
-        <title>Piliar</title>
-    </programme>
-    <programme start="20250225170400 +0000" stop="20250225173000 +0000" channel="ATN">
+    <programme start="20250225170000 +0000" stop="20250225173000 +0000" channel="ATN">
         <title>Piliar</title>
     </programme>
     <programme start="20250225173000 +0000" stop="20250225173700 +0000" channel="ATN">
@@ -30693,13 +30621,7 @@
     <programme start="20250225174200 +0000" stop="20250225180000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250225180000 +0000" stop="20250225183500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250225183500 +0000" stop="20250225184000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250225184000 +0000" stop="20250225185500 +0000" channel="ATN">
+    <programme start="20250225180000 +0000" stop="20250225185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250225185500 +0000" stop="20250225190000 +0000" channel="ATN">
@@ -30711,23 +30633,14 @@
     <programme start="20250225190500 +0000" stop="20250225191000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250225191000 +0000" stop="20250225193000 +0000" channel="ATN">
+    <programme start="20250225191000 +0000" stop="20250225213000 +0000" channel="ATN">
         <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250225193000 +0000" stop="20250225200000 +0000" channel="ATN">
-        <title>Road -e food e</title>
-    </programme>
-    <programme start="20250225200000 +0000" stop="20250225213000 +0000" channel="ATN">
-        <title>Legal Platform</title>
     </programme>
     <programme start="20250225213000 +0000" stop="20250225220000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250225220000 +0000" stop="20250225223000 +0000" channel="ATN">
+    <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="ATN">
         <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250225223000 +0000" stop="20250225230000 +0000" channel="ATN">
-        <title>Rehana</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="ATN">
         <title>Mittha Ohonkar</title>
@@ -30789,25 +30702,16 @@
     <programme start="20250225090000 +0000" stop="20250225093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
-    <programme start="20250225093000 +0000" stop="20250225110000 +0000" channel="NTV">
+    <programme start="20250225093000 +0000" stop="20250225120000 +0000" channel="NTV">
         <title>Yatim Raja</title>
-    </programme>
-    <programme start="20250225110000 +0000" stop="20250225120000 +0000" channel="NTV">
-        <title>A Choke Sudho Tumi</title>
     </programme>
     <programme start="20250225120000 +0000" stop="20250225121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250225121900 +0000" stop="20250225122000 +0000" channel="NTV">
+    <programme start="20250225121900 +0000" stop="20250225122400 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250225122000 +0000" stop="20250225122400 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250225122400 +0000" stop="20250225122500 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250225122500 +0000" stop="20250225123000 +0000" channel="NTV">
+    <programme start="20250225122400 +0000" stop="20250225123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250225123000 +0000" stop="20250225130000 +0000" channel="NTV">
@@ -30822,14 +30726,8 @@
     <programme start="20250225143000 +0000" stop="20250225150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250225150000 +0000" stop="20250225150800 +0000" channel="NTV">
+    <programme start="20250225150000 +0000" stop="20250225154300 +0000" channel="NTV">
         <title>Khowab</title>
-    </programme>
-    <programme start="20250225150800 +0000" stop="20250225151300 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250225151300 +0000" stop="20250225154300 +0000" channel="NTV">
-        <title>Amra Hotash</title>
     </programme>
     <programme start="20250225154300 +0000" stop="20250225154800 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
@@ -30837,17 +30735,11 @@
     <programme start="20250225154800 +0000" stop="20250225163000 +0000" channel="NTV">
         <title>Khowab</title>
     </programme>
-    <programme start="20250225163000 +0000" stop="20250225165900 +0000" channel="NTV">
+    <programme start="20250225163000 +0000" stop="20250225170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250225165900 +0000" stop="20250225170000 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250225170000 +0000" stop="20250225170400 +0000" channel="NTV">
+    <programme start="20250225170000 +0000" stop="20250225173000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250225170400 +0000" stop="20250225173000 +0000" channel="NTV">
-        <title>Ganer Bazar</title>
     </programme>
     <programme start="20250225173000 +0000" stop="20250225173700 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -30858,14 +30750,8 @@
     <programme start="20250225174200 +0000" stop="20250225180000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250225180000 +0000" stop="20250225183300 +0000" channel="NTV">
+    <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250225183300 +0000" stop="20250225183800 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250225183800 +0000" stop="20250225190000 +0000" channel="NTV">
-        <title>Bileter Alap</title>
     </programme>
     <programme start="20250225190000 +0000" stop="20250225190400 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -35835,20 +35721,14 @@
     <programme start="20250225103000 +0000" stop="20250225110400 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250225110400 +0000" stop="20250225113000 +0000" channel="Utsav Plus">
+    <programme start="20250225110400 +0000" stop="20250225113800 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250225113000 +0000" stop="20250225113800 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250225113800 +0000" stop="20250225120300 +0000" channel="Utsav Plus">
         <title>Mummy Ka Magic</title>
     </programme>
-    <programme start="20250225120300 +0000" stop="20250225123000 +0000" channel="Utsav Plus">
+    <programme start="20250225120300 +0000" stop="20250225123200 +0000" channel="Utsav Plus">
         <title>Sanjeev Kapoors Kitchen</title>
-    </programme>
-    <programme start="20250225123000 +0000" stop="20250225123200 +0000" channel="Utsav Plus">
-        <title>Turban Tadka</title>
     </programme>
     <programme start="20250225123200 +0000" stop="20250225130100 +0000" channel="Utsav Plus">
         <title>Turban Tadka</title>
@@ -35874,17 +35754,11 @@
     <programme start="20250225155900 +0000" stop="20250225165900 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250225165900 +0000" stop="20250225170000 +0000" channel="Utsav Plus">
+    <programme start="20250225165900 +0000" stop="20250225173200 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250225170000 +0000" stop="20250225173200 +0000" channel="Utsav Plus">
-        <title>Anupamaa</title>
-    </programme>
-    <programme start="20250225173200 +0000" stop="20250225180000 +0000" channel="Utsav Plus">
+    <programme start="20250225173200 +0000" stop="20250225180500 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225180500 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic S13</title>
     </programme>
     <programme start="20250225180500 +0000" stop="20250225183400 +0000" channel="Utsav Plus">
         <title>Mummy Ka Magic</title>
@@ -35895,14 +35769,8 @@
     <programme start="20250225185900 +0000" stop="20250225192900 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250225192900 +0000" stop="20250225193000 +0000" channel="Utsav Plus">
+    <programme start="20250225192900 +0000" stop="20250225203100 +0000" channel="Utsav Plus">
         <title>Jhanak</title>
-    </programme>
-    <programme start="20250225193000 +0000" stop="20250225203000 +0000" channel="Utsav Plus">
-        <title>Jhanak</title>
-    </programme>
-    <programme start="20250225203000 +0000" stop="20250225203100 +0000" channel="Utsav Plus">
-        <title>Anupamaa</title>
     </programme>
     <programme start="20250225203100 +0000" stop="20250225210500 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
@@ -35913,17 +35781,11 @@
     <programme start="20250225213000 +0000" stop="20250225215900 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250225215900 +0000" stop="20250225220000 +0000" channel="Utsav Plus">
+    <programme start="20250225215900 +0000" stop="20250225223400 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250225220000 +0000" stop="20250225223400 +0000" channel="Utsav Plus">
-        <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250225223400 +0000" stop="20250225230000 +0000" channel="Utsav Plus">
+    <programme start="20250225223400 +0000" stop="20250225230400 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250225230000 +0000" stop="20250225230400 +0000" channel="Utsav Plus">
-        <title>Jaadu Teri Nazar Dayan Ka Mausam</title>
     </programme>
     <programme start="20250225230400 +0000" stop="20250225233100 +0000" channel="Utsav Plus">
         <title>Jaadu Teri Nazar Dayan Ka Mausam</title>
