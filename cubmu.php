@@ -304,91 +304,34 @@
         <title>CNBC Indonesia Exclusive</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250225233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+        <title>CNBC Conversation</title>
     </programme>
-    <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250226000000 +0000" stop="20250226003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
+    <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Autobizz</title>
     </programme>
     <programme start="20250226003000 +0000" stop="20250226010000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
-    <programme start="20250226010000 +0000" stop="20250226013000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub</title>
+    <programme start="20250226010000 +0000" stop="20250226023000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Squawk Box - Live</title>
     </programme>
-    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
+    <programme start="20250226023000 +0000" stop="20250226053000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Economic Outlook 2025 - Live</title>
     </programme>
-    <programme start="20250226020000 +0000" stop="20250226023000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
+    <programme start="20250226053000 +0000" stop="20250226063000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Exclusive</title>
     </programme>
-    <programme start="20250226023000 +0000" stop="20250226030000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Insight</title>
+    <programme start="20250226063000 +0000" stop="20250226110000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Economic Outlook 2025 - Live</title>
     </programme>
-    <programme start="20250226030000 +0000" stop="20250226033000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
+    <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>Property Point - Live</title>
     </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226043000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250226050000 +0000" stop="20250226053000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250226053000 +0000" stop="20250226060000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>My Money</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226063000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>My Money</title>
-    </programme>
-    <programme start="20250226063000 +0000" stop="20250226070000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>My Money</title>
-    </programme>
-    <programme start="20250226070000 +0000" stop="20250226100000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Awards 2024</title>
-    </programme>
-    <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Focus On Infra</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226113000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub</title>
-    </programme>
-    <programme start="20250226113000 +0000" stop="20250226120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub</title>
-    </programme>
-    <programme start="20250226120000 +0000" stop="20250226123000 +0000" channel="CNBC Indonesia.cubmu">
+    <programme start="20250226120000 +0000" stop="20250226130000 +0000" channel="CNBC Indonesia.cubmu">
         <title>Cuap Cuap Cuan</title>
     </programme>
-    <programme start="20250226123000 +0000" stop="20250226130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Energy Corner</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime Pilihan</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Big Stories Of The Week</title>
-    </programme>
-    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250226160000 +0000" stop="20250225170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Investime Pilihan</title>
+    <programme start="20250226130000 +0000" stop="20250225200000 +0000" channel="CNBC Indonesia.cubmu">
+        <title>CNBC Indonesia Economic Outlook 2025</title>
     </programme>
     <programme start="20250225170000 +0000" stop="20250225183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Anak Gaul Lupa Diri</title>
@@ -957,6 +900,108 @@
     <programme start="20250226163600 +0000" stop="20250225170200 +0000" channel="Cartoon TV Premium.cubmu">
         <title>Gasp!</title>
     </programme>
+    <programme start="20250225173300 +0000" stop="20250225182100 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20250225182100 +0000" stop="20250225190800 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20250225190800 +0000" stop="20250225195600 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20250225195600 +0000" stop="20250225204400 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20250225204400 +0000" stop="20250225213200 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20250225213200 +0000" stop="20250225222100 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20250225222100 +0000" stop="20250225230000 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20250225230000 +0000" stop="20250225234800 +0000" channel="Knowledge+.cubmu">
+        <title>Animal Society</title>
+    </programme>
+    <programme start="20250225234800 +0000" stop="20250226000000 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226000000 +0000" stop="20250226003800 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226003800 +0000" stop="20250226012700 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20250226012700 +0000" stop="20250226021500 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20250226021500 +0000" stop="20250226030400 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20250226030400 +0000" stop="20250226035200 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20250226035200 +0000" stop="20250226043900 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20250226043900 +0000" stop="20250226052800 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
+    <programme start="20250226052800 +0000" stop="20250226061600 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20250226061600 +0000" stop="20250226070300 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20250226070300 +0000" stop="20250226075100 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20250226075100 +0000" stop="20250226081500 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20250226081500 +0000" stop="20250226084400 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226084400 +0000" stop="20250226090800 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20250226090800 +0000" stop="20250226093700 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226093700 +0000" stop="20250226100200 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20250226100200 +0000" stop="20250226103100 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226103100 +0000" stop="20250226105600 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20250226105600 +0000" stop="20250226115300 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226115300 +0000" stop="20250226124300 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226124300 +0000" stop="20250226133200 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20250226133200 +0000" stop="20250226142000 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20250226142000 +0000" stop="20250226150900 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20250226150900 +0000" stop="20250226155700 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20250226155700 +0000" stop="20250226164400 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20250226164400 +0000" stop="20250225173300 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
     <programme start="20250225170800 +0000" stop="20250225180000 +0000" channel="Fight TV Premium.cubmu">
         <title>Dynasty Combat Sports</title>
     </programme>
@@ -1373,9 +1418,6 @@
     </programme>
     <programme start="20250226160000 +0000" stop="20250225180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
-    </programme>
-    <programme start="20250225170000 +0000" stop="20250225170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
     </programme>
     <programme start="20250225170500 +0000" stop="20250225180000 +0000" channel="MetroTV.cubmu">
         <title>Primetime News</title>
@@ -2045,9 +2087,6 @@
     </programme>
     <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250225170000 +0000" stop="20250225170500 +0000" channel="jtv.cubmu">
-        <title>Lagu Nasional - Bagimu Negeri</title>
     </programme>
     <programme start="20250225170500 +0000" stop="20250225170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV Versi Full</title>
