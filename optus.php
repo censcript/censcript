@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250225090000 +0000" stop="20250225100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Yaya Toure</title>
-    </programme>
     <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Bay FC v Racing Louisville FC</title>
     </programme>
 </tv>

@@ -13696,16 +13696,16 @@
         <title>What I Wore: Glenn Hoddle</title>
     </programme>
     <programme start="20250225181500 +0000" stop="20250225183000 +0000" channel="TNT Sports 1">
-        <title>In My Blood: Cole Palmer</title>
+        <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="TNT Sports 1">
         <title>Live: Chelsea v Southampton</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250225231500 +0000" channel="TNT Sports 1">
-        <title>In My Blood: Steve Stamp</title>
+        <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250225231500 +0000" stop="20250225233000 +0000" channel="TNT Sports 1">
-        <title>In My Blood: Cole Palmer</title>
+        <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="TNT Sports 1">
         <title>PL Stories: Arsene Wenger</title>
@@ -24658,7 +24658,7 @@
         <title>Fashion Day Review</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="QVC Style HD">
-        <title>Moda In Pelle</title>
+        <title>Vionic Footwear</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250224230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -28789,19 +28789,22 @@
         <title>Choti Si Zindagi</title>
     </programme>
     <programme start="20250225120000 +0000" stop="20250225122400 +0000" channel="HUM EUROPE">
-        <title>Meri Tanhai</title>
+        <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250225122400 +0000" stop="20250225130000 +0000" channel="HUM EUROPE">
-        <title>Meri Tanhai</title>
+        <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250225130000 +0000" stop="20250225140000 +0000" channel="HUM EUROPE">
         <title>Adhi Bewafai</title>
     </programme>
     <programme start="20250225140000 +0000" stop="20250225150100 +0000" channel="HUM EUROPE">
-        <title>Hum Dono</title>
+        <title>Agar Tum Saath Ho</title>
     </programme>
-    <programme start="20250225150100 +0000" stop="20250225160000 +0000" channel="HUM EUROPE">
+    <programme start="20250225150100 +0000" stop="20250225150600 +0000" channel="HUM EUROPE">
         <title>Azan-e-Asar</title>
+    </programme>
+    <programme start="20250225150600 +0000" stop="20250225160000 +0000" channel="HUM EUROPE">
+        <title>Judwaa</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225170000 +0000" channel="HUM EUROPE">
         <title>Choti Si Zindagi</title>
@@ -28821,11 +28824,14 @@
     <programme start="20250225190000 +0000" stop="20250225190400 +0000" channel="HUM EUROPE">
         <title>Adhi Bewafai</title>
     </programme>
-    <programme start="20250225190400 +0000" stop="20250225200000 +0000" channel="HUM EUROPE">
+    <programme start="20250225190400 +0000" stop="20250225190900 +0000" channel="HUM EUROPE">
         <title>Azan-e-Isha</title>
     </programme>
+    <programme start="20250225190900 +0000" stop="20250225200000 +0000" channel="HUM EUROPE">
+        <title>Adhi Bewafai</title>
+    </programme>
     <programme start="20250225200000 +0000" stop="20250225210000 +0000" channel="HUM EUROPE">
-        <title>Hum Dono</title>
+        <title>Agar Tum Saath Ho</title>
     </programme>
     <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="HUM EUROPE">
         <title>Judwaa</title>
@@ -34660,16 +34666,16 @@
         <title>What I Wore: Glenn Hoddle</title>
     </programme>
     <programme start="20250225181500 +0000" stop="20250225183000 +0000" channel="TNTSports1 HD">
-        <title>In My Blood: Cole Palmer</title>
+        <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="TNTSports1 HD">
         <title>Live: Chelsea v Southampton</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250225231500 +0000" channel="TNTSports1 HD">
-        <title>In My Blood: Steve Stamp</title>
+        <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250225231500 +0000" stop="20250225233000 +0000" channel="TNTSports1 HD">
-        <title>In My Blood: Cole Palmer</title>
+        <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="TNTSports1 HD">
         <title>PL Stories: Arsene Wenger</title>
