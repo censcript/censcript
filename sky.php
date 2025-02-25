@@ -13857,16 +13857,16 @@
     <programme start="20250225040000 +0000" stop="20250225060000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250225060000 +0000" stop="20250225090000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250225060000 +0000" stop="20250225085000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250225090000 +0000" stop="20250225093000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250225085000 +0000" stop="20250225092000 +0000" channel="Eurosport 1 HD">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
-    <programme start="20250225093000 +0000" stop="20250225103000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250225092000 +0000" stop="20250225102000 +0000" channel="Eurosport 1 HD">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250225103000 +0000" stop="20250225113000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250225102000 +0000" stop="20250225113000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250225113000 +0000" stop="20250225143000 +0000" channel="Eurosport 1 HD">
@@ -34773,16 +34773,16 @@
     <programme start="20250225040000 +0000" stop="20250225060000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250225060000 +0000" stop="20250225090000 +0000" channel="Eurosport 1">
+    <programme start="20250225060000 +0000" stop="20250225085000 +0000" channel="Eurosport 1">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250225090000 +0000" stop="20250225093000 +0000" channel="Eurosport 1">
+    <programme start="20250225085000 +0000" stop="20250225092000 +0000" channel="Eurosport 1">
         <title>Cyclo-Cross: Exact Cross</title>
     </programme>
-    <programme start="20250225093000 +0000" stop="20250225103000 +0000" channel="Eurosport 1">
+    <programme start="20250225092000 +0000" stop="20250225102000 +0000" channel="Eurosport 1">
         <title>Cycling: UAE Tour</title>
     </programme>
-    <programme start="20250225103000 +0000" stop="20250225113000 +0000" channel="Eurosport 1">
+    <programme start="20250225102000 +0000" stop="20250225113000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
     <programme start="20250225113000 +0000" stop="20250225143000 +0000" channel="Eurosport 1">
