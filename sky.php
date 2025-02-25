@@ -13773,10 +13773,7 @@
     <programme start="20250226143000 +0000" stop="20250226160000 +0000" channel="TNT Sports 2">
         <title>Brighton v Bournemouth</title>
     </programme>
-    <programme start="20250226160000 +0000" stop="20250226160100 +0000" channel="TNT Sports 2">
-        <title>Chelsea v Southampton</title>
-    </programme>
-    <programme start="20250226160100 +0000" stop="20250226173000 +0000" channel="TNT Sports 2">
+    <programme start="20250226160000 +0000" stop="20250226173000 +0000" channel="TNT Sports 2">
         <title>Chelsea v Southampton</title>
     </programme>
     <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="TNT Sports 2">
@@ -14202,17 +14199,8 @@
     <programme start="20250226061500 +0000" stop="20250226064500 +0000" channel="MUTV HD">
         <title>PL Highlights: v Ipswich 24/25 (A)</title>
     </programme>
-    <programme start="20250226064500 +0000" stop="20250226071500 +0000" channel="MUTV HD">
+    <programme start="20250226064500 +0000" stop="20250226084500 +0000" channel="MUTV HD">
         <title>U21s Match: Sutton v Utd</title>
-    </programme>
-    <programme start="20250226071500 +0000" stop="20250226074500 +0000" channel="MUTV HD">
-        <title>U18s: Utd v Newcastle 24/25</title>
-    </programme>
-    <programme start="20250226074500 +0000" stop="20250226081500 +0000" channel="MUTV HD">
-        <title>MUW Highlights: Wolves v United</title>
-    </programme>
-    <programme start="20250226081500 +0000" stop="20250226084500 +0000" channel="MUTV HD">
-        <title>MUW Highlights: United v Crystal Palac</title>
     </programme>
     <programme start="20250226084500 +0000" stop="20250226091500 +0000" channel="MUTV HD">
         <title>FA Youth Cup: Utd v Chelsea 24/25</title>
@@ -14223,11 +14211,8 @@
     <programme start="20250226093000 +0000" stop="20250226100000 +0000" channel="MUTV HD">
         <title>PL: United v Ipswich 94/95</title>
     </programme>
-    <programme start="20250226100000 +0000" stop="20250226114500 +0000" channel="MUTV HD">
+    <programme start="20250226100000 +0000" stop="20250226120000 +0000" channel="MUTV HD">
         <title>U21s Match: Sutton v Utd</title>
-    </programme>
-    <programme start="20250226114500 +0000" stop="20250226120000 +0000" channel="MUTV HD">
-        <title>PL Highlights: v Ipswich 24/25 (A)</title>
     </programme>
     <programme start="20250226120000 +0000" stop="20250226121500 +0000" channel="MUTV HD">
         <title>Masterclass: Diogo x Hargreaves</title>
@@ -15078,11 +15063,20 @@
     <programme start="20250226040500 +0000" stop="20250226060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Ukraine Statement</title>
     </programme>
-    <programme start="20250226060000 +0000" stop="20250226070000 +0000" channel="BBC Parl HD">
-        <title>Foreign, Commonwealth and...</title>
+    <programme start="20250226060000 +0000" stop="20250226061000 +0000" channel="BBC Parl HD">
+        <title>Ten Minute Rule Bill - Cleaning the River Wye</title>
     </programme>
-    <programme start="20250226070000 +0000" stop="20250226093000 +0000" channel="BBC Parl HD">
+    <programme start="20250226061000 +0000" stop="20250226070000 +0000" channel="BBC Parl HD">
+        <title>Foreign Office Questions</title>
+    </programme>
+    <programme start="20250226070000 +0000" stop="20250226070500 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
+    </programme>
+    <programme start="20250226070500 +0000" stop="20250226084500 +0000" channel="BBC Parl HD">
+        <title>Defence and Security Statement</title>
+    </programme>
+    <programme start="20250226084500 +0000" stop="20250226093000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250226093000 +0000" stop="20250226113000 +0000" channel="BBC Parl HD">
         <title>Live Environment, Food and Rural Affairs Committee</title>
@@ -29700,11 +29694,8 @@
     <programme start="20250226020000 +0000" stop="20250226030000 +0000" channel="Sikh Channel">
         <title>Bhai Anantvir Singh Kirtan</title>
     </programme>
-    <programme start="20250226030000 +0000" stop="20250226033000 +0000" channel="Sikh Channel">
+    <programme start="20250226030000 +0000" stop="20250226040000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
-    </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="Sikh Channel">
-        <title>Special Report</title>
     </programme>
     <programme start="20250226040000 +0000" stop="20250226050000 +0000" channel="Sikh Channel">
         <title>Nitnem</title>
@@ -34767,10 +34758,7 @@
     <programme start="20250226143000 +0000" stop="20250226160000 +0000" channel="TNTSports2 HD">
         <title>Brighton v Bournemouth</title>
     </programme>
-    <programme start="20250226160000 +0000" stop="20250226160100 +0000" channel="TNTSports2 HD">
-        <title>Chelsea v Southampton</title>
-    </programme>
-    <programme start="20250226160100 +0000" stop="20250226173000 +0000" channel="TNTSports2 HD">
+    <programme start="20250226160000 +0000" stop="20250226173000 +0000" channel="TNTSports2 HD">
         <title>Chelsea v Southampton</title>
     </programme>
     <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="TNTSports2 HD">
@@ -39623,9 +39611,6 @@
     </programme>
     <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="Heart 90s">
         <title>Non-Stop 90s</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225211300 +0000" channel="BBC R Cymru 2">
-        <title>Caryl</title>
     </programme>
     <programme start="20250225211300 +0000" stop="20250226000000 +0000" channel="BBC R Cymru 2">
         <title>Caryl</title>
