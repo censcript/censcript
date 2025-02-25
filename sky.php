@@ -14697,16 +14697,19 @@
     <programme start="20250225141500 +0000" stop="20250225171500 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250225171500 +0000" stop="20250225194500 +0000" channel="Racing TV">
+    <programme start="20250225171500 +0000" stop="20250225200000 +0000" channel="Racing TV">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250225194500 +0000" stop="20250225213000 +0000" channel="Racing TV">
+    <programme start="20250225200000 +0000" stop="20250225214500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250225213000 +0000" stop="20250225231500 +0000" channel="Racing TV">
+    <programme start="20250225214500 +0000" stop="20250225231500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250225231500 +0000" stop="20250226001500 +0000" channel="Racing TV">
+    <programme start="20250225231500 +0000" stop="20250225233000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250224180000 +0000" stop="20250225000000 +0000" channel="TNTSBoxOffHD">
@@ -25992,10 +25995,10 @@
     <programme start="20250225155500 +0000" stop="20250225172400 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250225172400 +0000" stop="20250225175700 +0000" channel="SONY TV HD">
+    <programme start="20250225172400 +0000" stop="20250225175600 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250225175700 +0000" stop="20250225182900 +0000" channel="SONY TV HD">
+    <programme start="20250225175600 +0000" stop="20250225182900 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250225182900 +0000" stop="20250225190000 +0000" channel="SONY TV HD">
@@ -26007,13 +26010,13 @@
     <programme start="20250225192900 +0000" stop="20250225205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250225205900 +0000" stop="20250225220800 +0000" channel="SONY TV HD">
+    <programme start="20250225205900 +0000" stop="20250225220400 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250225220800 +0000" stop="20250225233600 +0000" channel="SONY TV HD">
+    <programme start="20250225220400 +0000" stop="20250225233400 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250225233600 +0000" stop="20250226003600 +0000" channel="SONY TV HD">
+    <programme start="20250225233400 +0000" stop="20250226003400 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250224223000 +0000" stop="20250224233000 +0000" channel="Utsav Bharat">
@@ -35256,16 +35259,16 @@
     <programme start="20250225141500 +0000" stop="20250225171500 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250225171500 +0000" stop="20250225194500 +0000" channel="Racing TV HD">
+    <programme start="20250225171500 +0000" stop="20250225200000 +0000" channel="Racing TV HD">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250225194500 +0000" stop="20250225213000 +0000" channel="Racing TV HD">
+    <programme start="20250225200000 +0000" stop="20250225214500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250225213000 +0000" stop="20250225231500 +0000" channel="Racing TV HD">
+    <programme start="20250225214500 +0000" stop="20250225233000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250225231500 +0000" stop="20250226001500 +0000" channel="Racing TV HD">
+    <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250224223000 +0000" stop="20250224230000 +0000" channel="Sky News">
@@ -35613,10 +35616,10 @@
     <programme start="20250225155500 +0000" stop="20250225172400 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250225172400 +0000" stop="20250225175700 +0000" channel="SONY TV">
+    <programme start="20250225172400 +0000" stop="20250225175600 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250225175700 +0000" stop="20250225182900 +0000" channel="SONY TV">
+    <programme start="20250225175600 +0000" stop="20250225182900 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250225182900 +0000" stop="20250225190000 +0000" channel="SONY TV">
@@ -35628,13 +35631,13 @@
     <programme start="20250225192900 +0000" stop="20250225205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250225205900 +0000" stop="20250225220800 +0000" channel="SONY TV">
+    <programme start="20250225205900 +0000" stop="20250225220400 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250225220800 +0000" stop="20250225233600 +0000" channel="SONY TV">
+    <programme start="20250225220400 +0000" stop="20250225233400 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250225233600 +0000" stop="20250226003600 +0000" channel="SONY TV">
+    <programme start="20250225233400 +0000" stop="20250226003400 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250224223000 +0000" stop="20250224230000 +0000" channel="Utsav Plus">
