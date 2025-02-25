@@ -12459,14 +12459,14 @@
     <programme start="20250226120000 +0000" stop="20250226140000 +0000" channel="MTV MUSIC">
         <title>No.1s On This Day: 2001-2024</title>
     </programme>
-    <programme start="20250226140000 +0000" stop="20250226190000 +0000" channel="MTV MUSIC">
+    <programme start="20250226140000 +0000" stop="20250226180500 +0000" channel="MTV MUSIC">
         <title>50 Greatest British Hits of The</title>
     </programme>
-    <programme start="20250226190000 +0000" stop="20250226203000 +0000" channel="MTV MUSIC">
-        <title>Brit Hits From The Boys!</title>
+    <programme start="20250226180500 +0000" stop="20250226190000 +0000" channel="MTV MUSIC">
+        <title>Harry Styles: On Repeat</title>
     </programme>
-    <programme start="20250226203000 +0000" stop="20250226203500 +0000" channel="MTV MUSIC">
-        <title>BRITs 2025: Best Pop Act...</title>
+    <programme start="20250226190000 +0000" stop="20250226203500 +0000" channel="MTV MUSIC">
+        <title>Brit Hits From The Boys!</title>
     </programme>
     <programme start="20250226203500 +0000" stop="20250226210000 +0000" channel="MTV MUSIC">
         <title>BRITs 2025: Best Pop Act...</title>
@@ -12501,8 +12501,11 @@
     <programme start="20250226080000 +0000" stop="20250226140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250226140000 +0000" stop="20250226160000 +0000" channel="MTV HITS">
+    <programme start="20250226140000 +0000" stop="20250226154500 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
+    </programme>
+    <programme start="20250226154500 +0000" stop="20250226160000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250226160000 +0000" stop="20250226170000 +0000" channel="MTV HITS">
         <title>We Love Coldplay!</title>
@@ -12537,11 +12540,8 @@
     <programme start="20250226090000 +0000" stop="20250226110000 +0000" channel="MTV 90s">
         <title>Abba Gold: The 90s Tracklisting!</title>
     </programme>
-    <programme start="20250226110000 +0000" stop="20250226130000 +0000" channel="MTV 90s">
+    <programme start="20250226110000 +0000" stop="20250226130500 +0000" channel="MTV 90s">
         <title>Steps: The Hits 1997-2024</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226130500 +0000" channel="MTV 90s">
-        <title>Take That Official Top 10</title>
     </programme>
     <programme start="20250226130500 +0000" stop="20250226140000 +0000" channel="MTV 90s">
         <title>Take That Official Top 10</title>
@@ -12579,20 +12579,17 @@
     <programme start="20250226090000 +0000" stop="20250226131500 +0000" channel="MTV 80s">
         <title>Girlband X Boyband: All Out 80s</title>
     </programme>
-    <programme start="20250226131500 +0000" stop="20250226140000 +0000" channel="MTV 80s">
-        <title>80s Double Shots: 2 From 1!</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="MTV 80s">
+    <programme start="20250226131500 +0000" stop="20250226150000 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226190000 +0000" channel="MTV 80s">
         <title>1981 Wrapped!</title>
     </programme>
-    <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="MTV 80s">
+    <programme start="20250226190000 +0000" stop="20250226205500 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
     </programme>
-    <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="MTV 80s">
-        <title>I Want My MTV 80s!</title>
+    <programme start="20250226205500 +0000" stop="20250226210000 +0000" channel="MTV 80s">
+        <title>Ultimate 50 British Anthems Of The 80s</title>
     </programme>
     <programme start="20250226210000 +0000" stop="20250226220000 +0000" channel="MTV 80s">
         <title>Ultimate 50 British Anthems Of The 80s</title>
@@ -14511,10 +14508,7 @@
     <programme start="20250226110000 +0000" stop="20250226122500 +0000" channel="TNT Sports 4">
         <title>NBA Classic</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226123000 +0000" channel="TNT Sports 4">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250226123000 +0000" stop="20250226134500 +0000" channel="TNT Sports 4">
+    <programme start="20250226122500 +0000" stop="20250226134500 +0000" channel="TNT Sports 4">
         <title>Live: Cross Country Skiing WC</title>
     </programme>
     <programme start="20250226134500 +0000" stop="20250226141500 +0000" channel="TNT Sports 4">
@@ -14523,10 +14517,7 @@
     <programme start="20250226141500 +0000" stop="20250226142500 +0000" channel="TNT Sports 4">
         <title>UEFA Champions League Goals Reload</title>
     </programme>
-    <programme start="20250226142500 +0000" stop="20250226143000 +0000" channel="TNT Sports 4">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250226143000 +0000" stop="20250226154500 +0000" channel="TNT Sports 4">
+    <programme start="20250226142500 +0000" stop="20250226154500 +0000" channel="TNT Sports 4">
         <title>Live: Cross Country Skiing WC</title>
     </programme>
     <programme start="20250226154500 +0000" stop="20250226163000 +0000" channel="TNT Sports 4">
@@ -29700,17 +29691,14 @@
     <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250226003000 +0000" stop="20250226010000 +0000" channel="Sikh Channel">
+    <programme start="20250226003000 +0000" stop="20250226013000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250226010000 +0000" stop="20250226020000 +0000" channel="Sikh Channel">
+    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250226020000 +0000" stop="20250226023000 +0000" channel="Sikh Channel">
+    <programme start="20250226020000 +0000" stop="20250226030000 +0000" channel="Sikh Channel">
         <title>Bhai Anantvir Singh Kirtan</title>
-    </programme>
-    <programme start="20250226023000 +0000" stop="20250226030000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250226030000 +0000" stop="20250226033000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -35178,10 +35166,7 @@
     <programme start="20250226110000 +0000" stop="20250226122500 +0000" channel="TNTSports4 HD">
         <title>NBA Classic</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226123000 +0000" channel="TNTSports4 HD">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250226123000 +0000" stop="20250226134500 +0000" channel="TNTSports4 HD">
+    <programme start="20250226122500 +0000" stop="20250226134500 +0000" channel="TNTSports4 HD">
         <title>Live: Cross Country Skiing WC</title>
     </programme>
     <programme start="20250226134500 +0000" stop="20250226141500 +0000" channel="TNTSports4 HD">
@@ -35190,10 +35175,7 @@
     <programme start="20250226141500 +0000" stop="20250226142500 +0000" channel="TNTSports4 HD">
         <title>UEFA Champions League Goals Reload</title>
     </programme>
-    <programme start="20250226142500 +0000" stop="20250226143000 +0000" channel="TNTSports4 HD">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250226143000 +0000" stop="20250226154500 +0000" channel="TNTSports4 HD">
+    <programme start="20250226142500 +0000" stop="20250226154500 +0000" channel="TNTSports4 HD">
         <title>Live: Cross Country Skiing WC</title>
     </programme>
     <programme start="20250226154500 +0000" stop="20250226163000 +0000" channel="TNTSports4 HD">
@@ -35244,7 +35226,10 @@
     <programme start="20250226081500 +0000" stop="20250226100000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250226100000 +0000" stop="20250226130000 +0000" channel="Racing TV HD">
+    <programme start="20250226100000 +0000" stop="20250226114500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250226114500 +0000" stop="20250226130000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="Racing TV HD">
