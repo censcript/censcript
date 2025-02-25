@@ -25243,58 +25243,58 @@
         <title>Best of QVC Extra</title>
     </programme>
     <programme start="20250225060000 +0000" stop="20250225070000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250225070000 +0000" stop="20250225080000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250225080000 +0000" stop="20250225090000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Household Solutions</title>
     </programme>
     <programme start="20250225090000 +0000" stop="20250225100000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250225100000 +0000" stop="20250225110000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250225110000 +0000" stop="20250225120000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250225120000 +0000" stop="20250225130000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>New Season Garden</title>
     </programme>
     <programme start="20250225130000 +0000" stop="20250225140000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250225140000 +0000" stop="20250225150000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250225150000 +0000" stop="20250225160000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Today's Top Tech with Amazon</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225170000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Moda In Pelle</title>
     </programme>
     <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Fashion Day Review</title>
     </programme>
     <programme start="20250225190000 +0000" stop="20250225200000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250225200000 +0000" stop="20250225210000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Today's Top Tech with Amazon</title>
     </programme>
     <programme start="20250224223000 +0000" stop="20250224230000 +0000" channel="High Street TV 3">
         <title>nutribullet</title>
@@ -29914,7 +29914,7 @@
         <title>Special Report</title>
     </programme>
     <programme start="20250225140000 +0000" stop="20250225150000 +0000" channel="Akaal Channel">
-        <title>Live: 11 Anand Karaj Appeal</title>
+        <title>Live: Water Borewell (Sikligar)</title>
     </programme>
     <programme start="20250225150000 +0000" stop="20250225160000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
