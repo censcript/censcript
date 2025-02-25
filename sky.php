@@ -15096,35 +15096,38 @@
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250224223000 +0000" stop="20250224231500 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Economy Questions</title>
-    </programme>
-    <programme start="20250224231500 +0000" stop="20250225000000 +0000" channel="BBC Parl HD">
+    <programme start="20250224222500 +0000" stop="20250224231000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250225000000 +0000" stop="20250225001000 +0000" channel="BBC Parl HD">
+    <programme start="20250224231000 +0000" stop="20250224232000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Introductions</title>
     </programme>
-    <programme start="20250225001000 +0000" stop="20250225021000 +0000" channel="BBC Parl HD">
+    <programme start="20250224232000 +0000" stop="20250225012000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Mental Health Bill, Part 1</title>
     </programme>
-    <programme start="20250225021000 +0000" stop="20250225041000 +0000" channel="BBC Parl HD">
+    <programme start="20250225012000 +0000" stop="20250225031500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Mental Health Bill, Part 2</title>
     </programme>
-    <programme start="20250225041000 +0000" stop="20250225050000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Online Safety Act Motion</title>
+    <programme start="20250225031500 +0000" stop="20250225045000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Online Safety Act Regulations</title>
     </programme>
-    <programme start="20250225050000 +0000" stop="20250225070000 +0000" channel="BBC Parl HD">
+    <programme start="20250225045000 +0000" stop="20250225055500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Mental Health Bill, Part 3</title>
     </programme>
+    <programme start="20250225055500 +0000" stop="20250225062500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Community...</title>
+    </programme>
+    <programme start="20250225062500 +0000" stop="20250225070000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Grangemouth Statement</title>
+    </programme>
     <programme start="20250225070000 +0000" stop="20250225081000 +0000" channel="BBC Parl HD">
-        <title>Senedd Cymru - Welsh Parliament - Gaza Debate</title>
+        <title>Senedd Cymru - Welsh Parliament Gaza Debate</title>
     </programme>
     <programme start="20250225081000 +0000" stop="20250225091500 +0000" channel="BBC Parl HD">
         <title>Home Office Questions</title>
     </programme>
     <programme start="20250225091500 +0000" stop="20250225100000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250225100000 +0000" stop="20250225113000 +0000" channel="BBC Parl HD">
         <title>Live Environment, Food and Rural Affairs Committee</title>
@@ -18297,11 +18300,8 @@
     <programme start="20250225043000 +0000" stop="20250225050000 +0000" channel="EWTN Catholic">
         <title>Setting Captives Free: A...</title>
     </programme>
-    <programme start="20250225050000 +0000" stop="20250225053000 +0000" channel="EWTN Catholic">
+    <programme start="20250225050000 +0000" stop="20250225054500 +0000" channel="EWTN Catholic">
         <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250225053000 +0000" stop="20250225054500 +0000" channel="EWTN Catholic">
-        <title>Chaplet of St Michael</title>
     </programme>
     <programme start="20250225054500 +0000" stop="20250225060000 +0000" channel="EWTN Catholic">
         <title>Voice of the Pastor</title>
@@ -18321,11 +18321,8 @@
     <programme start="20250225083000 +0000" stop="20250225085900 +0000" channel="EWTN Catholic">
         <title>At Home with Jim and Joy</title>
     </programme>
-    <programme start="20250225085900 +0000" stop="20250225090000 +0000" channel="EWTN Catholic">
+    <programme start="20250225085900 +0000" stop="20250225093000 +0000" channel="EWTN Catholic">
         <title>The Forgotten Souls Of South Sudan</title>
-    </programme>
-    <programme start="20250225090000 +0000" stop="20250225093000 +0000" channel="EWTN Catholic">
-        <title>EWTN Pro-Life Weekly</title>
     </programme>
     <programme start="20250225093000 +0000" stop="20250225100000 +0000" channel="EWTN Catholic">
         <title>I Forgive with Immaculee Ilibagiza</title>
@@ -28326,10 +28323,10 @@
     <programme start="20250225060000 +0000" stop="20250225070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250225070000 +0000" stop="20250225075300 +0000" channel="IQRA TV">
+    <programme start="20250225070000 +0000" stop="20250225075500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250225075300 +0000" stop="20250225081100 +0000" channel="IQRA TV">
+    <programme start="20250225075500 +0000" stop="20250225081100 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
     <programme start="20250225081100 +0000" stop="20250225090000 +0000" channel="IQRA TV">
@@ -30447,10 +30444,7 @@
     <programme start="20250225054100 +0000" stop="20250225060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250225060000 +0000" stop="20250225062000 +0000" channel="IQRA Bangla">
-        <title>Surah Yaseen</title>
-    </programme>
-    <programme start="20250225062000 +0000" stop="20250225082000 +0000" channel="IQRA Bangla">
+    <programme start="20250225060000 +0000" stop="20250225082000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
     <programme start="20250225082000 +0000" stop="20250225083000 +0000" channel="IQRA Bangla">
@@ -30465,25 +30459,19 @@
     <programme start="20250225103000 +0000" stop="20250225110000 +0000" channel="IQRA Bangla">
         <title>Deener Markaz</title>
     </programme>
-    <programme start="20250225110000 +0000" stop="20250225122000 +0000" channel="IQRA Bangla">
+    <programme start="20250225110000 +0000" stop="20250225121900 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250225122000 +0000" stop="20250225123000 +0000" channel="IQRA Bangla">
+    <programme start="20250225121900 +0000" stop="20250225123000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250225123000 +0000" stop="20250225140000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250225140000 +0000" stop="20250225150000 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
     </programme>
-    <programme start="20250225150000 +0000" stop="20250225150800 +0000" channel="IQRA Bangla">
-        <title>Heal your Heart</title>
-    </programme>
-    <programme start="20250225150800 +0000" stop="20250225151300 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250225151300 +0000" stop="20250225153000 +0000" channel="IQRA Bangla">
+    <programme start="20250225150000 +0000" stop="20250225153000 +0000" channel="IQRA Bangla">
         <title>Heal your Heart</title>
     </programme>
     <programme start="20250225153000 +0000" stop="20250225154300 +0000" channel="IQRA Bangla">
@@ -30495,13 +30483,7 @@
     <programme start="20250225154900 +0000" stop="20250225163000 +0000" channel="IQRA Bangla">
         <title>Legal Hour</title>
     </programme>
-    <programme start="20250225163000 +0000" stop="20250225165900 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250225165900 +0000" stop="20250225170400 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250225170400 +0000" stop="20250225173700 +0000" channel="IQRA Bangla">
+    <programme start="20250225163000 +0000" stop="20250225173700 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250225173700 +0000" stop="20250225174200 +0000" channel="IQRA Bangla">
@@ -30510,28 +30492,25 @@
     <programme start="20250225174200 +0000" stop="20250225180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250225180000 +0000" stop="20250225183300 +0000" channel="IQRA Bangla">
+    <programme start="20250225180000 +0000" stop="20250225190400 +0000" channel="IQRA Bangla">
         <title>Focus Point</title>
     </programme>
-    <programme start="20250225183300 +0000" stop="20250225183800 +0000" channel="IQRA Bangla">
+    <programme start="20250225190400 +0000" stop="20250225190900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250225183800 +0000" stop="20250225190400 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250225190400 +0000" stop="20250225200000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Isha</title>
+    <programme start="20250225190900 +0000" stop="20250225200000 +0000" channel="IQRA Bangla">
+        <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250225200000 +0000" stop="20250225203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250225203000 +0000" stop="20250225223000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250225203000 +0000" stop="20250225210000 +0000" channel="IQRA Bangla">
+        <title>Agrodut</title>
     </programme>
-    <programme start="20250225223000 +0000" stop="20250225230000 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
+    <programme start="20250225210000 +0000" stop="20250225223000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250225230000 +0000" stop="20250225233000 +0000" channel="IQRA Bangla">
+    <programme start="20250225223000 +0000" stop="20250225233000 +0000" channel="IQRA Bangla">
         <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="IQRA Bangla">
@@ -30961,10 +30940,10 @@
         <title>News 24</title>
     </programme>
     <programme start="20250225070000 +0000" stop="20250225080000 +0000" channel="iON TV">
-        <title>Quranic Arabic</title>
+        <title>Forty Hadiths</title>
     </programme>
     <programme start="20250225080000 +0000" stop="20250225090000 +0000" channel="iON TV">
-        <title>Forty Hadiths</title>
+        <title>Quranic Arabic</title>
     </programme>
     <programme start="20250225090000 +0000" stop="20250225100000 +0000" channel="iON TV">
         <title>Music Hour</title>
@@ -30997,16 +30976,16 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250225150000 +0000" stop="20250225154300 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250225154300 +0000" stop="20250225154800 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250225154800 +0000" stop="20250225160000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225170000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>News Views</title>
     </programme>
     <programme start="20250225170000 +0000" stop="20250225173700 +0000" channel="iON TV">
         <title>Charity Appeal</title>
