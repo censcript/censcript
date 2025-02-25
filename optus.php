@@ -3,18 +3,6 @@
     <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
-    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Wolverhampton Wanderers v Fulham</title>
-    </programme>
-    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Crystal Palace v Aston Villa</title>
-    </programme>
-    <programme start="20250225192000 +0000" stop="20250225214000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brighton v Bournemouth</title>
-    </programme>
-    <programme start="20250225193500 +0000" stop="20250225225500 +0000" channel="Optus Sport 9.optus">
-        <title>DFB Pokal - Bielefeld v Bremen</title>
-    </programme>
     <programme start="20250225200500 +0000" stop="20250225222500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Chelsea v Southampton</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Bay FC v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>
