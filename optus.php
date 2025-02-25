@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250225183000 +0000" stop="20250225230000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Wednesday Morning</title>
-    </programme>
-    <programme start="20250225200500 +0000" stop="20250225222500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Chelsea v Southampton</title>
-    </programme>
     <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Yokohama FM v Yokohama FC</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Washington Spirit v Bay FC</title>
+    </programme>
+    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Seoul v Daegu</title>
+    </programme>
+    <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Ulsan</title>
     </programme>
 </tv>

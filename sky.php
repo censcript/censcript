@@ -15045,20 +15045,29 @@
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250225225500 +0000" stop="20250225230500 +0000" channel="BBC Parl HD">
+    <programme start="20250225225000 +0000" stop="20250225230000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Plant Oxford Site Statement</title>
     </programme>
-    <programme start="20250225230500 +0000" stop="20250226000500 +0000" channel="BBC Parl HD">
+    <programme start="20250225230000 +0000" stop="20250225234000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Great British Energy Bill</title>
     </programme>
-    <programme start="20250226000500 +0000" stop="20250226020500 +0000" channel="BBC Parl HD">
+    <programme start="20250225234000 +0000" stop="20250226013000 +0000" channel="BBC Parl HD">
         <title>House of Lords - National...</title>
     </programme>
-    <programme start="20250226020500 +0000" stop="20250226040500 +0000" channel="BBC Parl HD">
+    <programme start="20250226013000 +0000" stop="20250226022000 +0000" channel="BBC Parl HD">
         <title>House of Lords - National...</title>
     </programme>
-    <programme start="20250226040500 +0000" stop="20250226060000 +0000" channel="BBC Parl HD">
+    <programme start="20250226022000 +0000" stop="20250226030000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Ukraine Statement</title>
+    </programme>
+    <programme start="20250226030000 +0000" stop="20250226040000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - National...</title>
+    </programme>
+    <programme start="20250226040000 +0000" stop="20250226052500 +0000" channel="BBC Parl HD">
+        <title>Ukraine Statement</title>
+    </programme>
+    <programme start="20250226052500 +0000" stop="20250226060000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly - Members' Statements</title>
     </programme>
     <programme start="20250226060000 +0000" stop="20250226061000 +0000" channel="BBC Parl HD">
         <title>Ten Minute Rule Bill - Cleaning the River Wye</title>
@@ -16692,17 +16701,11 @@
     <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="Arise News">
         <title>This is Arise News</title>
     </programme>
-    <programme start="20250226000000 +0000" stop="20250226003000 +0000" channel="Arise News">
+    <programme start="20250226000000 +0000" stop="20250226010000 +0000" channel="Arise News">
         <title>ARISE Xchange</title>
     </programme>
-    <programme start="20250226003000 +0000" stop="20250226010000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226010000 +0000" stop="20250226013000 +0000" channel="Arise News">
+    <programme start="20250226010000 +0000" stop="20250226020000 +0000" channel="Arise News">
         <title>Prime Time</title>
-    </programme>
-    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
     </programme>
     <programme start="20250226020000 +0000" stop="20250226023000 +0000" channel="Arise News">
         <title>ARISE News Now</title>
@@ -16710,131 +16713,50 @@
     <programme start="20250226023000 +0000" stop="20250226030000 +0000" channel="Arise News">
         <title>ARISE News Now</title>
     </programme>
-    <programme start="20250226030000 +0000" stop="20250226033000 +0000" channel="Arise News">
+    <programme start="20250226030000 +0000" stop="20250226050000 +0000" channel="Arise News">
         <title>Newsnight Nigeria</title>
     </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226043000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226050000 +0000" stop="20250226053000 +0000" channel="Arise News">
+    <programme start="20250226050000 +0000" stop="20250226060000 +0000" channel="Arise News">
         <title>ARISE 360</title>
     </programme>
-    <programme start="20250226053000 +0000" stop="20250226060000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226063000 +0000" channel="Arise News">
+    <programme start="20250226060000 +0000" stop="20250226080000 +0000" channel="Arise News">
         <title>Daybreak</title>
     </programme>
-    <programme start="20250226063000 +0000" stop="20250226070000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226070000 +0000" stop="20250226073000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226073000 +0000" stop="20250226080000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226080000 +0000" stop="20250226083000 +0000" channel="Arise News">
+    <programme start="20250226080000 +0000" stop="20250226110000 +0000" channel="Arise News">
         <title>The Morning Show</title>
     </programme>
-    <programme start="20250226083000 +0000" stop="20250226090000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226090000 +0000" stop="20250226093000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226093000 +0000" stop="20250226100000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226113000 +0000" channel="Arise News">
+    <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="Arise News">
         <title>Global Business Report</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226120000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226120000 +0000" stop="20250226123000 +0000" channel="Arise News">
+    <programme start="20250226120000 +0000" stop="20250226140000 +0000" channel="Arise News">
         <title>Newsday</title>
     </programme>
-    <programme start="20250226123000 +0000" stop="20250226130000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="Arise News">
+    <programme start="20250226140000 +0000" stop="20250226160000 +0000" channel="Arise News">
         <title>Newsday</title>
     </programme>
-    <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226160000 +0000" stop="20250226163000 +0000" channel="Arise News">
+    <programme start="20250226160000 +0000" stop="20250226170000 +0000" channel="Arise News">
         <title>Global Business Report</title>
     </programme>
-    <programme start="20250226163000 +0000" stop="20250226170000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226170000 +0000" stop="20250226173000 +0000" channel="Arise News">
+    <programme start="20250226170000 +0000" stop="20250226180000 +0000" channel="Arise News">
         <title>ARISE 360</title>
     </programme>
-    <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226180000 +0000" stop="20250226183000 +0000" channel="Arise News">
+    <programme start="20250226180000 +0000" stop="20250226190000 +0000" channel="Arise News">
         <title>ARISE News Hour</title>
     </programme>
-    <programme start="20250226183000 +0000" stop="20250226190000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226190000 +0000" stop="20250226193000 +0000" channel="Arise News">
+    <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="Arise News">
         <title>ARISE Xchange</title>
     </programme>
-    <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226200000 +0000" stop="20250226203000 +0000" channel="Arise News">
+    <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="Arise News">
         <title>Prime Time</title>
     </programme>
-    <programme start="20250226203000 +0000" stop="20250226210000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226210000 +0000" stop="20250226213000 +0000" channel="Arise News">
+    <programme start="20250226210000 +0000" stop="20250226220000 +0000" channel="Arise News">
         <title>Newsnight Nigeria</title>
     </programme>
-    <programme start="20250226213000 +0000" stop="20250226220000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="Arise News">
+    <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="Arise News">
         <title>Newsnight Nigeria</title>
     </programme>
-    <programme start="20250226223000 +0000" stop="20250226230000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
-    </programme>
-    <programme start="20250226230000 +0000" stop="20250226233000 +0000" channel="Arise News">
+    <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="Arise News">
         <title>The World</title>
-    </programme>
-    <programme start="20250226233000 +0000" stop="20250227003000 +0000" channel="Arise News">
-        <title>This is Arise News</title>
     </programme>
     <programme start="20250225224000 +0000" stop="20250225230000 +0000" channel="Arirang TV HD">
         <title>The Grand Heritage K-ASMR</title>
