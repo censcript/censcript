@@ -14109,8 +14109,11 @@
     <programme start="20250225174500 +0000" stop="20250225180000 +0000" channel="SkySp Mix HD">
         <title>S/Lge Highlights</title>
     </programme>
-    <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="SkySp Mix HD">
+    <programme start="20250225180000 +0000" stop="20250225180001 +0000" channel="SkySp Mix HD">
         <title>Fight Night</title>
+    </programme>
+    <programme start="20250225180001 +0000" stop="20250225190000 +0000" channel="SkySp Mix HD">
+        <title>Fight Night: Jonas v Habazin</title>
     </programme>
     <programme start="20250225190000 +0000" stop="20250225200000 +0000" channel="SkySp Mix HD">
         <title>Fight Night</title>
@@ -35037,8 +35040,11 @@
     <programme start="20250225174500 +0000" stop="20250225180000 +0000" channel="SkySp Mix">
         <title>S/Lge Highlights</title>
     </programme>
-    <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="SkySp Mix">
+    <programme start="20250225180000 +0000" stop="20250225180001 +0000" channel="SkySp Mix">
         <title>Fight Night</title>
+    </programme>
+    <programme start="20250225180001 +0000" stop="20250225190000 +0000" channel="SkySp Mix">
+        <title>Fight Night: Jonas v Habazin</title>
     </programme>
     <programme start="20250225190000 +0000" stop="20250225200000 +0000" channel="SkySp Mix">
         <title>Fight Night</title>
