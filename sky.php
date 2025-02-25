@@ -13236,11 +13236,11 @@
     <programme start="20250225063000 +0000" stop="20250225073000 +0000" channel="SkySpCricket HD">
         <title>WPL: RCB v UP Warriorz Hlts</title>
     </programme>
-    <programme start="20250225073000 +0000" stop="20250225083000 +0000" channel="SkySpCricket HD">
+    <programme start="20250225073000 +0000" stop="20250225083001 +0000" channel="SkySpCricket HD">
         <title>ICC CT'25: BAN v NZ Hlts</title>
     </programme>
-    <programme start="20250225083000 +0000" stop="20250225173000 +0000" channel="SkySpCricket HD">
-        <title>Live ICC CT'25: AUS v SA</title>
+    <programme start="20250225083001 +0000" stop="20250225173000 +0000" channel="SkySpCricket HD">
+        <title>Live WPL: Delhi C v Gujarat G</title>
     </programme>
     <programme start="20250225173000 +0000" stop="20250225174500 +0000" channel="SkySpCricket HD">
         <title>ICC Men's T20 WC: IND v AUS 2016</title>
@@ -13254,17 +13254,17 @@
     <programme start="20250225190000 +0000" stop="20250225200000 +0000" channel="SkySpCricket HD">
         <title>ICC CT'25: BAN v NZ Hlts</title>
     </programme>
-    <programme start="20250225200000 +0000" stop="20250225210000 +0000" channel="SkySpCricket HD">
+    <programme start="20250225200000 +0000" stop="20250225210001 +0000" channel="SkySpCricket HD">
         <title>WPL: Delhi C v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="SkySpCricket HD">
-        <title>ICC CT'25: AUS v SA Hlts</title>
+    <programme start="20250225210001 +0000" stop="20250225220000 +0000" channel="SkySpCricket HD">
+        <title>ICC Men's WT20 WC: Extra Cover</title>
     </programme>
-    <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="SkySpCricket HD">
+    <programme start="20250225220000 +0000" stop="20250225230001 +0000" channel="SkySpCricket HD">
         <title>WPL: Delhi C v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="SkySpCricket HD">
-        <title>ICC CT'25: AUS v SA Hlts</title>
+    <programme start="20250225230001 +0000" stop="20250226000001 +0000" channel="SkySpCricket HD">
+        <title>ICC CT'25: AUS v ENG Hlts</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250225000000 +0000" channel="SkySp Golf HD">
         <title>Live TGL: LAGC v NYGC</title>
@@ -15030,8 +15030,11 @@
     <programme start="20250225123000 +0000" stop="20250225130000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250225130000 +0000" stop="20250225140000 +0000" channel="BBC NEWS HD">
-        <title>Signed: BBC News at One</title>
+    <programme start="20250225130000 +0000" stop="20250225133000 +0000" channel="BBC NEWS HD">
+        <title>Signed: BBC News Now</title>
+    </programme>
+    <programme start="20250225133000 +0000" stop="20250225140000 +0000" channel="BBC NEWS HD">
+        <title>Signed: BBC News Now</title>
     </programme>
     <programme start="20250225140000 +0000" stop="20250225143000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -18399,11 +18402,8 @@
     <programme start="20250225200000 +0000" stop="20250225210000 +0000" channel="EWTN Catholic">
         <title>Journey Home</title>
     </programme>
-    <programme start="20250225210000 +0000" stop="20250225213000 +0000" channel="EWTN Catholic">
+    <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
-    </programme>
-    <programme start="20250225213000 +0000" stop="20250225220000 +0000" channel="EWTN Catholic">
-        <title>Catholic Sphere</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225223000 +0000" channel="EWTN Catholic">
         <title>The Quest for Shakespeare</title>
@@ -24586,7 +24586,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250225230000 +0000" stop="20250226000000 +0000" channel="QVC Beauty">
-        <title>Revitalizing Supreme+</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250224220000 +0000" stop="20250224230000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
@@ -25276,7 +25276,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250225150000 +0000" stop="20250225160000 +0000" channel="QVC Extra">
-        <title>Today's Top Tech with Amazon</title>
+        <title>Home Improvements</title>
     </programme>
     <programme start="20250225160000 +0000" stop="20250225170000 +0000" channel="QVC Extra">
         <title>New Kitchen Must Haves</title>
