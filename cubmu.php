@@ -438,78 +438,9 @@
     <programme start="20250226161500 +0000" stop="20250225181500 +0000" channel="RCTI.cubmu">
         <title>Sinema Malam</title>
     </programme>
-    <programme start="20250225170000 +0000" stop="20250225173000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Malam</title>
-    </programme>
-    <programme start="20250225173000 +0000" stop="20250225180000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Petang</title>
-    </programme>
-    <programme start="20250225190000 +0000" stop="20250225194500 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama Pagi</title>
-    </programme>
-    <programme start="20250225194500 +0000" stop="20250225203000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
-    </programme>
-    <programme start="20250225203000 +0000" stop="20250225210000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Hari Ini</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225213000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Pagi</title>
-    </programme>
-    <programme start="20250225213000 +0000" stop="20250225230000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Pagi</title>
-    </programme>
-    <programme start="20250225230000 +0000" stop="20250225233000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Pagi</title>
-    </programme>
-    <programme start="20250225233000 +0000" stop="20250226013000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Pagi</title>
-    </programme>
-    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="tvOne.cubmu">
-        <title>Hidup Sehat</title>
-    </programme>
-    <programme start="20250226020000 +0000" stop="20250226023000 +0000" channel="tvOne.cubmu">
-        <title>Inspirasi Pagi</title>
-    </programme>
-    <programme start="20250226023000 +0000" stop="20250226033000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama Pagi</title>
-    </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="tvOne.cubmu">
-        <title>Menyingkap Tabir</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226060000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Siang</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226080000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Siang</title>
-    </programme>
-    <programme start="20250226080000 +0000" stop="20250226090000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Merah Putih</title>
-    </programme>
-    <programme start="20250226090000 +0000" stop="20250226110000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Petang</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226130000 +0000" channel="tvOne.cubmu">
-        <title>Apa Kabar Indonesia Malam</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="tvOne.cubmu">
-        <title>Indonesia Business Forum</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Utama</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Hari Ini</title>
-    </programme>
-    <programme start="20250226160000 +0000" stop="20250226163000 +0000" channel="tvOne.cubmu">
-        <title>Indonesia Mengingat</title>
-    </programme>
-    <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="tvOne.cubmu">
-        <title>Kabar Arena Malam</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68585a001440186343e1a562244 -->
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="rtv.cubmu">
         <title>Di Ujung Rindu</title>
     </programme>

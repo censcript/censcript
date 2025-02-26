@@ -27871,7 +27871,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250226130500 +0000" stop="20250226140000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+        <title>Har Lamha Purjosh</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226140500 +0000" channel="New Vision TV">
         <title>Headline News</title>
