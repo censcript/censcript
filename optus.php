@@ -16,7 +16,7 @@
         <title>N/A - The Catch-Up Show</title>
     </programme>
     <programme start="20250226180000 +0000" stop="20250226183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories</title>
+        <title>N/A - PL Stories: Arsene who?</title>
     </programme>
     <programme start="20250226183000 +0000" stop="20250226230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Thursday Morning</title>

@@ -26542,7 +26542,7 @@
         <title>Golden Oldies</title>
     </programme>
     <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
+        <title>Health is Wealth</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226203000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
@@ -28275,16 +28275,16 @@
     <programme start="20250226060000 +0000" stop="20250226070000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250226070000 +0000" stop="20250226075200 +0000" channel="IQRA TV">
+    <programme start="20250226070000 +0000" stop="20250226075400 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250226075200 +0000" stop="20250226080800 +0000" channel="IQRA TV">
+    <programme start="20250226075400 +0000" stop="20250226081000 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250226080800 +0000" stop="20250226090900 +0000" channel="IQRA TV">
+    <programme start="20250226081000 +0000" stop="20250226090700 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250226090900 +0000" stop="20250226100000 +0000" channel="IQRA TV">
+    <programme start="20250226090700 +0000" stop="20250226100000 +0000" channel="IQRA TV">
         <title>Sehat ek Nemat</title>
     </programme>
     <programme start="20250226100000 +0000" stop="20250226110000 +0000" channel="IQRA TV">
@@ -28681,7 +28681,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -30268,16 +30268,25 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250226093000 +0000" stop="20250226100000 +0000" channel="CHSTV">
-        <title>Good Morning Sylhet</title>
+        <title>Talash</title>
     </programme>
-    <programme start="20250226100000 +0000" stop="20250226113000 +0000" channel="CHSTV">
-        <title>Islam Essentials</title>
+    <programme start="20250226100000 +0000" stop="20250226110000 +0000" channel="CHSTV">
+        <title>Boro Bon</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226122000 +0000" channel="CHSTV">
+    <programme start="20250226110000 +0000" stop="20250226113000 +0000" channel="CHSTV">
+        <title>Jamai Babaji</title>
+    </programme>
+    <programme start="20250226113000 +0000" stop="20250226121800 +0000" channel="CHSTV">
         <title>Talim- ul-Quran</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122600 +0000" channel="CHSTV">
+    <programme start="20250226121800 +0000" stop="20250226122000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
+    </programme>
+    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="CHSTV">
+        <title>Azan-E-Zuhr</title>
+    </programme>
+    <programme start="20250226122500 +0000" stop="20250226122600 +0000" channel="CHSTV">
+        <title>Arabi Kafela</title>
     </programme>
     <programme start="20250226122600 +0000" stop="20250226130000 +0000" channel="CHSTV">
         <title>Talim- ul-Quran</title>
@@ -30292,7 +30301,7 @@
         <title>Independent News</title>
     </programme>
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
+        <title>Out of Rules</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226150800 +0000" channel="CHSTV">
         <title>Obhimot</title>
@@ -30300,17 +30309,32 @@
     <programme start="20250226150800 +0000" stop="20250226151400 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250226151400 +0000" stop="20250226163000 +0000" channel="CHSTV">
+    <programme start="20250226151400 +0000" stop="20250226154400 +0000" channel="CHSTV">
         <title>Obhimot</title>
+    </programme>
+    <programme start="20250226154400 +0000" stop="20250226160000 +0000" channel="CHSTV">
+        <title>Azan-E-Asar</title>
+    </programme>
+    <programme start="20250226160000 +0000" stop="20250226163000 +0000" channel="CHSTV">
+        <title>Sylheter Khobor</title>
     </programme>
     <programme start="20250226163000 +0000" stop="20250226170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250226170000 +0000" stop="20250226180000 +0000" channel="CHSTV">
-        <title>Alal Dulaler Ma</title>
+    <programme start="20250226170000 +0000" stop="20250226173000 +0000" channel="CHSTV">
+        <title>Orthoniti Sharadin</title>
+    </programme>
+    <programme start="20250226173000 +0000" stop="20250226173900 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250226173900 +0000" stop="20250226174500 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
+    </programme>
+    <programme start="20250226174500 +0000" stop="20250226180000 +0000" channel="CHSTV">
+        <title>Independent News</title>
     </programme>
     <programme start="20250226180000 +0000" stop="20250226181800 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250226181800 +0000" stop="20250226183800 +0000" channel="CHSTV">
         <title>Independent News</title>
@@ -30321,8 +30345,14 @@
     <programme start="20250226184200 +0000" stop="20250226190000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250226190000 +0000" stop="20250226193000 +0000" channel="CHSTV">
+    <programme start="20250226190000 +0000" stop="20250226190600 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
+    </programme>
+    <programme start="20250226190600 +0000" stop="20250226191100 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250226191100 +0000" stop="20250226193000 +0000" channel="CHSTV">
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="CHSTV">
         <title>Milon Hobe Kotodine</title>
@@ -30337,7 +30367,7 @@
         <title>News at Ten</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="CHSTV">
-        <title>Obhimot</title>
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250225223000 +0000" stop="20250225233000 +0000" channel="IQRA Bangla">
         <title>Islamer Shikkha</title>
@@ -30366,10 +30396,10 @@
     <programme start="20250226053900 +0000" stop="20250226060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250226060000 +0000" stop="20250226061700 +0000" channel="IQRA Bangla">
+    <programme start="20250226060000 +0000" stop="20250226060700 +0000" channel="IQRA Bangla">
         <title>Surah Yaseen</title>
     </programme>
-    <programme start="20250226061700 +0000" stop="20250226082000 +0000" channel="IQRA Bangla">
+    <programme start="20250226060700 +0000" stop="20250226082000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
     <programme start="20250226082000 +0000" stop="20250226083000 +0000" channel="IQRA Bangla">
@@ -30384,13 +30414,13 @@
     <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
     </programme>
-    <programme start="20250226110000 +0000" stop="20250226122000 +0000" channel="IQRA Bangla">
+    <programme start="20250226110000 +0000" stop="20250226121800 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="IQRA Bangla">
+    <programme start="20250226121800 +0000" stop="20250226122300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226123000 +0000" channel="IQRA Bangla">
+    <programme start="20250226122300 +0000" stop="20250226123000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250226123000 +0000" stop="20250226140000 +0000" channel="IQRA Bangla">
@@ -30399,44 +30429,53 @@
     <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="IQRA Bangla">
         <title>Jannater pothey</title>
     </programme>
-    <programme start="20250226150000 +0000" stop="20250226150900 +0000" channel="IQRA Bangla">
+    <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250226150900 +0000" stop="20250226151400 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250226151400 +0000" stop="20250226153200 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250226153200 +0000" stop="20250226163000 +0000" channel="IQRA Bangla">
+    <programme start="20250226153000 +0000" stop="20250226154400 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250226163000 +0000" stop="20250226170100 +0000" channel="IQRA Bangla">
+    <programme start="20250226154400 +0000" stop="20250226154900 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250226154900 +0000" stop="20250226163000 +0000" channel="IQRA Bangla">
+        <title>Maa Amar Maa</title>
+    </programme>
+    <programme start="20250226163000 +0000" stop="20250226173900 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250226170100 +0000" stop="20250226170700 +0000" channel="IQRA Bangla">
+    <programme start="20250226173900 +0000" stop="20250226174400 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250226170700 +0000" stop="20250226180000 +0000" channel="IQRA Bangla">
+    <programme start="20250226174400 +0000" stop="20250226180000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250226180000 +0000" stop="20250226183400 +0000" channel="IQRA Bangla">
-        <title>Mon</title>
+    <programme start="20250226180000 +0000" stop="20250226190000 +0000" channel="IQRA Bangla">
+        <title>Masnoon Dua</title>
     </programme>
-    <programme start="20250226183400 +0000" stop="20250226183900 +0000" channel="IQRA Bangla">
+    <programme start="20250226190000 +0000" stop="20250226190600 +0000" channel="IQRA Bangla">
+        <title>Dosh Diganta</title>
+    </programme>
+    <programme start="20250226190600 +0000" stop="20250226191100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250226183900 +0000" stop="20250226200000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250226191100 +0000" stop="20250226200000 +0000" channel="IQRA Bangla">
+        <title>Dosh Diganta</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250226203000 +0000" stop="20250226230000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250226203000 +0000" stop="20250226210000 +0000" channel="IQRA Bangla">
+        <title>Mon</title>
     </programme>
-    <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="IQRA Bangla">
+    <programme start="20250226210000 +0000" stop="20250226223000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="IQRA Bangla">
         <title>Tafseer-Ul-Qur'an</title>
+    </programme>
+    <programme start="20250226233000 +0000" stop="20250227003000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -30481,46 +30520,49 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250226073000 +0000" stop="20250226080000 +0000" channel="ATN">
-        <title>Palki</title>
+        <title>Piliar</title>
     </programme>
     <programme start="20250226080000 +0000" stop="20250226083000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
+        <title>Matir Subash</title>
     </programme>
     <programme start="20250226083000 +0000" stop="20250226090000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250226090000 +0000" stop="20250226100000 +0000" channel="ATN">
-        <title>Upri</title>
+        <title>Bhalobashle Purota</title>
     </programme>
     <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250226103000 +0000" stop="20250226115500 +0000" channel="ATN">
-        <title>Education Hour</title>
+        <title>Vejal Mondol</title>
     </programme>
     <programme start="20250226115500 +0000" stop="20250226120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250226120000 +0000" stop="20250226122000 +0000" channel="ATN">
-        <title>Bidhan</title>
+        <title>Mittha Ohonkar</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="ATN">
+    <programme start="20250226122000 +0000" stop="20250226122300 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226140000 +0000" channel="ATN">
-        <title>Bidhan</title>
+    <programme start="20250226122300 +0000" stop="20250226140000 +0000" channel="ATN">
+        <title>Mittha Ohonkar</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250226143000 +0000" stop="20250226151500 +0000" channel="ATN">
-        <title>Bidhan</title>
+    <programme start="20250226143000 +0000" stop="20250226153500 +0000" channel="ATN">
+        <title>Mittha Ohonkar</title>
     </programme>
-    <programme start="20250226151500 +0000" stop="20250226152000 +0000" channel="ATN">
+    <programme start="20250226153500 +0000" stop="20250226154000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250226152000 +0000" stop="20250226160000 +0000" channel="ATN">
-        <title>Bidhan</title>
+    <programme start="20250226154000 +0000" stop="20250226155500 +0000" channel="ATN">
+        <title>Mittha Ohonkar</title>
+    </programme>
+    <programme start="20250226155500 +0000" stop="20250226160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250226160000 +0000" stop="20250226165500 +0000" channel="ATN">
         <title>ATN News</title>
@@ -30529,22 +30571,31 @@
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250226170000 +0000" stop="20250226173000 +0000" channel="ATN">
-        <title>Piliar</title>
+        <title>Mayar Shongshar</title>
     </programme>
-    <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="ATN">
+    <programme start="20250226173000 +0000" stop="20250226173900 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250226180000 +0000" stop="20250226183500 +0000" channel="ATN">
+    <programme start="20250226173900 +0000" stop="20250226174200 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250226174200 +0000" stop="20250226180000 +0000" channel="ATN">
+        <title>Smritir Alpona Aki</title>
+    </programme>
+    <programme start="20250226180000 +0000" stop="20250226183000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250226183500 +0000" stop="20250226184000 +0000" channel="ATN">
+    <programme start="20250226183000 +0000" stop="20250226190600 +0000" channel="ATN">
+        <title>Dars Ul Quran</title>
+    </programme>
+    <programme start="20250226190600 +0000" stop="20250226191000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250226184000 +0000" stop="20250226190000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="ATN">
+    <programme start="20250226191000 +0000" stop="20250226193000 +0000" channel="ATN">
         <title>Dars Ul Quran</title>
+    </programme>
+    <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226213000 +0000" channel="ATN">
         <title>Family Focus</title>
@@ -30559,7 +30610,7 @@
         <title>Rehana</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="ATN">
-        <title>Ek Takar Bow</title>
+        <title>Omor Akbor</title>
     </programme>
     <programme start="20250225223000 +0000" stop="20250225230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -30723,32 +30774,32 @@
     <programme start="20250226052000 +0000" stop="20250226060000 +0000" channel="TV One">
         <title>Live from Kabah</title>
     </programme>
-    <programme start="20250226060000 +0000" stop="20250226074500 +0000" channel="TV One">
-        <title>The Voice Of Oneness 2024</title>
+    <programme start="20250226060000 +0000" stop="20250226073000 +0000" channel="TV One">
+        <title>Quran Class</title>
     </programme>
-    <programme start="20250226074500 +0000" stop="20250226075500 +0000" channel="TV One">
-        <title>Story Time with Ruksana</title>
-    </programme>
-    <programme start="20250226075500 +0000" stop="20250226080500 +0000" channel="TV One">
-        <title>Quraner Paray</title>
-    </programme>
-    <programme start="20250226080500 +0000" stop="20250226085000 +0000" channel="TV One">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250226085000 +0000" stop="20250226090500 +0000" channel="TV One">
-        <title>For Those Left Behind</title>
-    </programme>
-    <programme start="20250226090500 +0000" stop="20250226092000 +0000" channel="TV One">
-        <title>Paschatto somaje sontan protipalon</title>
-    </programme>
-    <programme start="20250226092000 +0000" stop="20250226094000 +0000" channel="TV One">
+    <programme start="20250226073000 +0000" stop="20250226074500 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250226094000 +0000" stop="20250226100500 +0000" channel="TV One">
-        <title>Zuhr Prayer Live from Kabah</title>
+    <programme start="20250226074500 +0000" stop="20250226080000 +0000" channel="TV One">
+        <title>Story Time with Ruksana</title>
     </programme>
-    <programme start="20250226100500 +0000" stop="20250226103000 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
+    <programme start="20250226080000 +0000" stop="20250226081500 +0000" channel="TV One">
+        <title>Quraner Paray</title>
+    </programme>
+    <programme start="20250226081500 +0000" stop="20250226090000 +0000" channel="TV One">
+        <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250226090000 +0000" stop="20250226091500 +0000" channel="TV One">
+        <title>For Those Left Behind</title>
+    </programme>
+    <programme start="20250226091500 +0000" stop="20250226093000 +0000" channel="TV One">
+        <title>Paschatto somaje sontan protipalon</title>
+    </programme>
+    <programme start="20250226093000 +0000" stop="20250226094000 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250226094000 +0000" stop="20250226103000 +0000" channel="TV One">
+        <title>Zuhr Prayer Live from Kabah</title>
     </programme>
     <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="TV One">
         <title>TV One News</title>
@@ -30756,92 +30807,65 @@
     <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250226120000 +0000" stop="20250226122000 +0000" channel="TV One">
-        <title>Praner Sur</title>
+    <programme start="20250226120000 +0000" stop="20250226121800 +0000" channel="TV One">
+        <title>Tunes For Life</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="TV One">
+    <programme start="20250226121800 +0000" stop="20250226122500 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226125500 +0000" channel="TV One">
+    <programme start="20250226122500 +0000" stop="20250226130000 +0000" channel="TV One">
         <title>Message From The Mimber</title>
     </programme>
-    <programme start="20250226125500 +0000" stop="20250226132000 +0000" channel="TV One">
+    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250226132000 +0000" stop="20250226134500 +0000" channel="TV One">
-        <title>Words of Wisdom</title>
-    </programme>
-    <programme start="20250226134500 +0000" stop="20250226140000 +0000" channel="TV One">
+    <programme start="20250226140000 +0000" stop="20250226141500 +0000" channel="TV One">
         <title>Short film</title>
     </programme>
-    <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="TV One">
-        <title>Afternoon News</title>
-    </programme>
-    <programme start="20250226143000 +0000" stop="20250226144500 +0000" channel="TV One">
-        <title>Imam Naseeha</title>
-    </programme>
-    <programme start="20250226144500 +0000" stop="20250226150900 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250226150900 +0000" stop="20250226151600 +0000" channel="TV One">
-        <title>Asr Azaan</title>
-    </programme>
-    <programme start="20250226151600 +0000" stop="20250226154000 +0000" channel="TV One">
-        <title>Maghrib Prayer Live From Kabah</title>
-    </programme>
-    <programme start="20250226154000 +0000" stop="20250226161000 +0000" channel="TV One">
-        <title>Agamir Bangladesh</title>
-    </programme>
-    <programme start="20250226161000 +0000" stop="20250226163000 +0000" channel="TV One">
-        <title>Nouman Ali Khan:Illustrated</title>
-    </programme>
-    <programme start="20250226163000 +0000" stop="20250226164000 +0000" channel="TV One">
-        <title>Story Time with Ruksana</title>
-    </programme>
-    <programme start="20250226164000 +0000" stop="20250226170100 +0000" channel="TV One">
+    <programme start="20250226141500 +0000" stop="20250226143000 +0000" channel="TV One">
         <title>For Those Left Behind</title>
     </programme>
-    <programme start="20250226170100 +0000" stop="20250226171000 +0000" channel="TV One">
-        <title>Maghrib Azaan</title>
+    <programme start="20250226143000 +0000" stop="20250226144500 +0000" channel="TV One">
+        <title>Paschatto somaje sontan protipalon</title>
     </programme>
-    <programme start="20250226171000 +0000" stop="20250226183000 +0000" channel="TV One">
-        <title>Quran Class</title>
+    <programme start="20250226144500 +0000" stop="20250226150100 +0000" channel="TV One">
+        <title>Praner Sur</title>
     </programme>
-    <programme start="20250226183000 +0000" stop="20250226183400 +0000" channel="TV One">
-        <title>Evening News</title>
+    <programme start="20250226150100 +0000" stop="20250226151000 +0000" channel="TV One">
+        <title>Asr Azaan</title>
     </programme>
-    <programme start="20250226183400 +0000" stop="20250226184000 +0000" channel="TV One">
-        <title>Isha Azaan</title>
+    <programme start="20250226151000 +0000" stop="20250226160000 +0000" channel="TV One">
+        <title>360 Degree</title>
     </programme>
-    <programme start="20250226184000 +0000" stop="20250226190000 +0000" channel="TV One">
-        <title>Evening News</title>
-    </programme>
-    <programme start="20250226190000 +0000" stop="20250226200000 +0000" channel="TV One">
+    <programme start="20250226160000 +0000" stop="20250226170000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250226200000 +0000" stop="20250226203000 +0000" channel="TV One">
-        <title>Community News</title>
+    <programme start="20250226170000 +0000" stop="20250226173000 +0000" channel="TV One">
+        <title>Duniar Prapti Akhirater Mokhti</title>
     </programme>
-    <programme start="20250226203000 +0000" stop="20250226213000 +0000" channel="TV One">
-        <title>Gaan Wala</title>
+    <programme start="20250226173000 +0000" stop="20250226173900 +0000" channel="TV One">
+        <title>Quran Class</title>
     </programme>
-    <programme start="20250226213000 +0000" stop="20250226220000 +0000" channel="TV One">
-        <title>Words of Wisdom</title>
+    <programme start="20250226173900 +0000" stop="20250226174500 +0000" channel="TV One">
+        <title>Maghrib Azaan</title>
+    </programme>
+    <programme start="20250226174500 +0000" stop="20250226183000 +0000" channel="TV One">
+        <title>Quran Class</title>
+    </programme>
+    <programme start="20250226183000 +0000" stop="20250226190600 +0000" channel="TV One">
+        <title>Evening News</title>
+    </programme>
+    <programme start="20250226190600 +0000" stop="20250226191000 +0000" channel="TV One">
+        <title>Isha Azaan</title>
+    </programme>
+    <programme start="20250226191000 +0000" stop="20250226220000 +0000" channel="TV One">
+        <title>Live Charity With Islamic Help</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250226223000 +0000" stop="20250226224500 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250226224500 +0000" stop="20250226230000 +0000" channel="TV One">
-        <title>Paschatto somaje sontan protipalon</title>
-    </programme>
-    <programme start="20250226230000 +0000" stop="20250226233000 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
-    </programme>
-    <programme start="20250226233000 +0000" stop="20250227003000 +0000" channel="TV One">
-        <title>360 Degree</title>
+    <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="TV One">
+        <title>Live Charity With Islamic Help</title>
     </programme>
     <programme start="20250225223400 +0000" stop="20250225233400 +0000" channel="iON TV">
         <title>Charity Appeal</title>
@@ -30891,46 +30915,46 @@
     <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250226120000 +0000" stop="20250226122000 +0000" channel="iON TV">
+    <programme start="20250226120000 +0000" stop="20250226121800 +0000" channel="iON TV">
         <title>Gardening and Beyond BGS</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="iON TV">
+    <programme start="20250226121800 +0000" stop="20250226122300 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226130000 +0000" channel="iON TV">
+    <programme start="20250226122300 +0000" stop="20250226130000 +0000" channel="iON TV">
         <title>Gardening and Beyond BGS</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="iON TV">
         <title>Madinar Alo</title>
     </programme>
-    <programme start="20250226150000 +0000" stop="20250226152100 +0000" channel="iON TV">
-        <title>Rajniti</title>
+    <programme start="20250226150000 +0000" stop="20250226154400 +0000" channel="iON TV">
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250226152100 +0000" stop="20250226152600 +0000" channel="iON TV">
+    <programme start="20250226154400 +0000" stop="20250226154900 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250226152600 +0000" stop="20250226170000 +0000" channel="iON TV">
-        <title>Rajniti</title>
+    <programme start="20250226154900 +0000" stop="20250226170000 +0000" channel="iON TV">
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250226170000 +0000" stop="20250226171400 +0000" channel="iON TV">
+    <programme start="20250226170000 +0000" stop="20250226173900 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250226171400 +0000" stop="20250226171900 +0000" channel="iON TV">
+    <programme start="20250226173900 +0000" stop="20250226174400 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250226171900 +0000" stop="20250226184500 +0000" channel="iON TV">
+    <programme start="20250226174400 +0000" stop="20250226190600 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250226184500 +0000" stop="20250226185000 +0000" channel="iON TV">
+    <programme start="20250226190600 +0000" stop="20250226191100 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250226185000 +0000" stop="20250226213000 +0000" channel="iON TV">
+    <programme start="20250226191100 +0000" stop="20250226213000 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250226213000 +0000" stop="20250226220000 +0000" channel="iON TV">
