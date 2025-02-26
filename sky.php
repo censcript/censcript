@@ -28630,16 +28630,16 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="Takbeer TV">
-        <title>Sarkar Ki Batain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250227210000 +0000" stop="20250227220000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29892,11 +29892,8 @@
     <programme start="20250227130000 +0000" stop="20250227140000 +0000" channel="Kanshi TV">
         <title>Competition Show with Jagdeep</title>
     </programme>
-    <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="Kanshi TV">
+    <programme start="20250227140000 +0000" stop="20250227160000 +0000" channel="Kanshi TV">
         <title>Kar Bhalla Ho Bhalla</title>
-    </programme>
-    <programme start="20250227150000 +0000" stop="20250227160000 +0000" channel="Kanshi TV">
-        <title>Ik Tera Sahara</title>
     </programme>
     <programme start="20250227160000 +0000" stop="20250227170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
@@ -30879,13 +30876,13 @@
     <programme start="20250227110000 +0000" stop="20250227120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250227120000 +0000" stop="20250227122000 +0000" channel="iON TV">
+    <programme start="20250227120000 +0000" stop="20250227121800 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250227122000 +0000" stop="20250227122500 +0000" channel="iON TV">
+    <programme start="20250227121800 +0000" stop="20250227122300 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250227122500 +0000" stop="20250227130000 +0000" channel="iON TV">
+    <programme start="20250227122300 +0000" stop="20250227130000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
     <programme start="20250227130000 +0000" stop="20250227133000 +0000" channel="iON TV">
@@ -30897,31 +30894,31 @@
     <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250227150000 +0000" stop="20250227152300 +0000" channel="iON TV">
+    <programme start="20250227150000 +0000" stop="20250227154600 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250227152300 +0000" stop="20250227152800 +0000" channel="iON TV">
+    <programme start="20250227154600 +0000" stop="20250227155100 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250227152800 +0000" stop="20250227160000 +0000" channel="iON TV">
+    <programme start="20250227155100 +0000" stop="20250227160000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
     <programme start="20250227160000 +0000" stop="20250227170000 +0000" channel="iON TV">
         <title>Islamic history and tradition</title>
     </programme>
-    <programme start="20250227170000 +0000" stop="20250227171500 +0000" channel="iON TV">
+    <programme start="20250227170000 +0000" stop="20250227174100 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250227171500 +0000" stop="20250227172000 +0000" channel="iON TV">
+    <programme start="20250227174100 +0000" stop="20250227174600 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250227172000 +0000" stop="20250227184500 +0000" channel="iON TV">
+    <programme start="20250227174600 +0000" stop="20250227190800 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250227184500 +0000" stop="20250227185000 +0000" channel="iON TV">
+    <programme start="20250227190800 +0000" stop="20250227191300 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250227185000 +0000" stop="20250227213000 +0000" channel="iON TV">
+    <programme start="20250227191300 +0000" stop="20250227213000 +0000" channel="iON TV">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="iON TV">

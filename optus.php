@@ -3,21 +3,6 @@
     <programme start="20250226183000 +0000" stop="20250226230000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Thursday Morning</title>
     </programme>
-    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Manchester United v Ipswich</title>
-    </programme>
-    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Tottenham Hotspur v Manchester City</title>
-    </programme>
-    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Nottingham Forest v Arsenal</title>
-    </programme>
-    <programme start="20250226192000 +0000" stop="20250226214000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Brentford v Everton</title>
-    </programme>
-    <programme start="20250226193500 +0000" stop="20250226225500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - RB Leipzig v Wolfsburg</title>
-    </programme>
     <programme start="20250226200500 +0000" stop="20250226222500 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Liverpool v Newcastle United</title>
     </programme>
@@ -252,6 +237,12 @@
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
+    <programme start="20250322135500 +0000" stop="20250322161000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Everton v Crystal Palace</title>
+    </programme>
+    <programme start="20250322172000 +0000" stop="20250322194000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Arsenal v Liverpool</title>
+    </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
     </programme>
@@ -263,6 +254,18 @@
     </programme>
     <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Bay FC v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250323115000 +0000" stop="20250323141000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - West Ham United v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250323142000 +0000" stop="20250323164000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Manchester City v Chelsea</title>
+    </programme>
+    <programme start="20250323145500 +0000" stop="20250323171000 +0000" channel="Optus Sport 9.optus">
+        <title>Women&#039;s Super League - Leicester v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250323162000 +0000" stop="20250323184000 +0000" channel="Optus Sport 10.optus">
+        <title>Women&#039;s Super League - Aston Villa v Manchester United</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Anyang v Jeonbuk</title>
-    </programme>
-    <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Chicago Stars v Racing Louisville FC</title>
     </programme>
 </tv>
