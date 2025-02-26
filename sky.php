@@ -29631,17 +29631,17 @@
     <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250226103000 +0000" stop="20250226113000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
+    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="Sikh Channel">
+        <title>Appeal Show - Poor family</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226120000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+    <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250226120000 +0000" stop="20250226133000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Appeal Show - Poor family</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="Sikh Channel">
         <title>Voice of Yorkshire</title>
@@ -29650,7 +29650,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Appeal Show - Poor family</title>
     </programme>
     <programme start="20250226160000 +0000" stop="20250226170000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
@@ -29659,13 +29659,13 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250226183000 +0000" stop="20250226190000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250226190000 +0000" stop="20250226193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping - Yatra</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="Sikh Channel">
         <title>Sikh Virsa</title>
@@ -29679,10 +29679,10 @@
     <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="Sikh Channel">
         <title>Community Talk</title>
     </programme>
-    <programme start="20250226223000 +0000" stop="20250226230000 +0000" channel="Sikh Channel">
-        <title>Special Report</title>
+    <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="Sikh Channel">
+        <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="Sikh Channel">
+    <programme start="20250226233000 +0000" stop="20250227003000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="Sangat">
