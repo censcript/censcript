@@ -30273,23 +30273,14 @@
     <programme start="20250226100000 +0000" stop="20250226110000 +0000" channel="CHSTV">
         <title>Boro Bon</title>
     </programme>
-    <programme start="20250226110000 +0000" stop="20250226113000 +0000" channel="CHSTV">
+    <programme start="20250226110000 +0000" stop="20250226121800 +0000" channel="CHSTV">
         <title>Jamai Babaji</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226121800 +0000" channel="CHSTV">
-        <title>Talim- ul-Quran</title>
-    </programme>
-    <programme start="20250226121800 +0000" stop="20250226122000 +0000" channel="CHSTV">
+    <programme start="20250226121800 +0000" stop="20250226122500 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250226122500 +0000" stop="20250226122600 +0000" channel="CHSTV">
+    <programme start="20250226122500 +0000" stop="20250226130000 +0000" channel="CHSTV">
         <title>Arabi Kafela</title>
-    </programme>
-    <programme start="20250226122600 +0000" stop="20250226130000 +0000" channel="CHSTV">
-        <title>Talim- ul-Quran</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="CHSTV">
         <title>Amader Gram</title>
@@ -30300,17 +30291,8 @@
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="CHSTV">
+    <programme start="20250226143000 +0000" stop="20250226154400 +0000" channel="CHSTV">
         <title>Out of Rules</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226150800 +0000" channel="CHSTV">
-        <title>Obhimot</title>
-    </programme>
-    <programme start="20250226150800 +0000" stop="20250226151400 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250226151400 +0000" stop="20250226154400 +0000" channel="CHSTV">
-        <title>Obhimot</title>
     </programme>
     <programme start="20250226154400 +0000" stop="20250226160000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
@@ -30333,35 +30315,14 @@
     <programme start="20250226174500 +0000" stop="20250226180000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250226180000 +0000" stop="20250226181800 +0000" channel="CHSTV">
+    <programme start="20250226180000 +0000" stop="20250226190600 +0000" channel="CHSTV">
         <title>RFC Charity Appeal</title>
-    </programme>
-    <programme start="20250226181800 +0000" stop="20250226183800 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250226183800 +0000" stop="20250226184200 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250226184200 +0000" stop="20250226190000 +0000" channel="CHSTV">
-        <title>Independent News</title>
-    </programme>
-    <programme start="20250226190000 +0000" stop="20250226190600 +0000" channel="CHSTV">
-        <title>Sylheter Khobor</title>
     </programme>
     <programme start="20250226190600 +0000" stop="20250226191100 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250226191100 +0000" stop="20250226193000 +0000" channel="CHSTV">
+    <programme start="20250226191100 +0000" stop="20250226220000 +0000" channel="CHSTV">
         <title>RFC Charity Appeal</title>
-    </programme>
-    <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
-    </programme>
-    <programme start="20250226200000 +0000" stop="20250226213000 +0000" channel="CHSTV">
-        <title>Bornomalar Michil</title>
-    </programme>
-    <programme start="20250226213000 +0000" stop="20250226220000 +0000" channel="CHSTV">
-        <title>Kingbodonti</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
