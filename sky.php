@@ -24217,7 +24217,7 @@
         <title>The Lunchtime Show</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Kim &amp; Co February Favourites</title>
     </programme>
     <programme start="20250227150000 +0000" stop="20250227160000 +0000" channel="QVC HD">
         <title>In the Salon with SBC</title>
@@ -24493,7 +24493,7 @@
         <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250227030000 +0000" stop="20250227040000 +0000" channel="QVC Style HD">
-        <title>Summer Fashion Edit</title>
+        <title>The Fashion Edit with Farah</title>
     </programme>
     <programme start="20250227040000 +0000" stop="20250227050000 +0000" channel="QVC Style HD">
         <title>Frank Usher</title>
@@ -24511,13 +24511,13 @@
         <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250227090000 +0000" stop="20250227100000 +0000" channel="QVC Style HD">
-        <title>Summer Fashion Edit</title>
+        <title>The Fashion Edit with Farah</title>
     </programme>
     <programme start="20250227100000 +0000" stop="20250227110000 +0000" channel="QVC Style HD">
         <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250227110000 +0000" stop="20250227120000 +0000" channel="QVC Style HD">
-        <title>QVC Selection</title>
+        <title>Denim and Co, Centigrade Fashion</title>
     </programme>
     <programme start="20250227120000 +0000" stop="20250227130000 +0000" channel="QVC Style HD">
         <title>Clogau Jewellery</title>
@@ -24538,7 +24538,7 @@
         <title>De Jager Bulbs &amp; Plants</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="QVC Style HD">
-        <title>Bring the Outdoors In</title>
+        <title>Your Garden Style</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="QVC Style HD">
         <title>Nina Leonard</title>
@@ -29229,8 +29229,8 @@
     <programme start="20250227233000 +0000" stop="20250228003000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="QTV Religious">
-        <title>Daura E Tarjuma E Qur'an</title>
+    <programme start="20250226210000 +0000" stop="20250226230000 +0000" channel="QTV Religious">
+        <title>Ehsaas Telethon</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="QTV Religious">
         <title>Roshni Sab Kay Liye</title>
@@ -29319,14 +29319,8 @@
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="QTV Religious">
         <title>Meri Pehchan</title>
     </programme>
-    <programme start="20250227210000 +0000" stop="20250227213000 +0000" channel="QTV Religious">
-        <title>Punj Surah</title>
-    </programme>
-    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="QTV Religious">
-        <title>Who Is MUHAMMAD (PBUH)</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="QTV Religious">
-        <title>Daura E Tarjuma E Qur'an</title>
+    <programme start="20250227210000 +0000" stop="20250227230000 +0000" channel="QTV Religious">
+        <title>Ehsaas Telethon</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="QTV Religious">
         <title>Asr e Hazir Aur Ahkam e Deen</title>
@@ -30379,7 +30373,7 @@
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250227123000 +0000" stop="20250227140000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="IQRA Bangla">
         <title>Masnoon Dua</title>
@@ -30406,19 +30400,19 @@
         <title>Iqra Kids TV Show</title>
     </programme>
     <programme start="20250227183000 +0000" stop="20250227190800 +0000" channel="IQRA Bangla">
-        <title>AL Quran Conference</title>
+        <title>National Seerah Conference</title>
     </programme>
     <programme start="20250227190800 +0000" stop="20250227191300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250227191300 +0000" stop="20250227200000 +0000" channel="IQRA Bangla">
-        <title>AL Quran Conference</title>
+        <title>National Seerah Conference</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227203000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
     <programme start="20250227203000 +0000" stop="20250227230000 +0000" channel="IQRA Bangla">
-        <title>AL Quran Conference</title>
+        <title>National Seerah Conference</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="IQRA Bangla">
         <title>Jannater pothey</title>
@@ -30472,7 +30466,7 @@
         <title>Obiram Bangladesh</title>
     </programme>
     <programme start="20250227083000 +0000" stop="20250227090000 +0000" channel="ATN">
-        <title>Rehana</title>
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250227090000 +0000" stop="20250227093000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
@@ -30484,34 +30478,34 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250227103000 +0000" stop="20250227110000 +0000" channel="ATN">
-        <title>Chef's Kitchen With Chef Daniel</title>
+        <title>Gun In Fun</title>
     </programme>
     <programme start="20250227110000 +0000" stop="20250227115500 +0000" channel="ATN">
-        <title>Batpar Company</title>
+        <title>Kaan Pora</title>
     </programme>
     <programme start="20250227115500 +0000" stop="20250227120000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250227120000 +0000" stop="20250227122000 +0000" channel="ATN">
-        <title>Ek Takar Bow</title>
+        <title>Omor Akbor</title>
     </programme>
     <programme start="20250227122000 +0000" stop="20250227122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
     <programme start="20250227122500 +0000" stop="20250227140000 +0000" channel="ATN">
-        <title>Ek Takar Bow</title>
+        <title>Omor Akbor</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250227143000 +0000" stop="20250227151500 +0000" channel="ATN">
-        <title>Ek Takar Bow</title>
+    <programme start="20250227143000 +0000" stop="20250227154500 +0000" channel="ATN">
+        <title>Omor Akbor</title>
     </programme>
-    <programme start="20250227151500 +0000" stop="20250227152000 +0000" channel="ATN">
+    <programme start="20250227154500 +0000" stop="20250227155000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250227152000 +0000" stop="20250227155500 +0000" channel="ATN">
-        <title>Ek Takar Bow</title>
+    <programme start="20250227155000 +0000" stop="20250227155500 +0000" channel="ATN">
+        <title>Omor Akbor</title>
     </programme>
     <programme start="20250227155500 +0000" stop="20250227160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -30522,31 +30516,31 @@
     <programme start="20250227165500 +0000" stop="20250227170000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250227170000 +0000" stop="20250227170300 +0000" channel="ATN">
+    <programme start="20250227170000 +0000" stop="20250227173000 +0000" channel="ATN">
         <title>Shapla Shaluk</title>
     </programme>
-    <programme start="20250227170300 +0000" stop="20250227170800 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250227170800 +0000" stop="20250227173000 +0000" channel="ATN">
-        <title>Shapla Shaluk</title>
-    </programme>
-    <programme start="20250227173000 +0000" stop="20250227180000 +0000" channel="ATN">
+    <programme start="20250227173000 +0000" stop="20250227174100 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250227180000 +0000" stop="20250227183600 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250227174100 +0000" stop="20250227174400 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250227183600 +0000" stop="20250227184100 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
+    <programme start="20250227174400 +0000" stop="20250227180000 +0000" channel="ATN">
+        <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250227184100 +0000" stop="20250227185500 +0000" channel="ATN">
+    <programme start="20250227180000 +0000" stop="20250227185500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250227185500 +0000" stop="20250227190000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250227190000 +0000" stop="20250227213000 +0000" channel="ATN">
+    <programme start="20250227190000 +0000" stop="20250227190800 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250227190800 +0000" stop="20250227191000 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250227191000 +0000" stop="20250227213000 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="ATN">
