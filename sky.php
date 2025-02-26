@@ -14512,13 +14512,13 @@
         <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250226181500 +0000" stop="20250226183000 +0000" channel="TNT Sports 4">
-        <title>Rio Ferdinand Meets: Ruben Amorim</title>
+        <title>Kenny Allstar's Number 1's</title>
     </programme>
     <programme start="20250226183000 +0000" stop="20250226220000 +0000" channel="TNT Sports 4">
         <title>Live: Man United v Ipswich Town</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226221500 +0000" channel="TNT Sports 4">
-        <title>Rio Ferdinand Meets: Ruben Amorim</title>
+        <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250226221500 +0000" stop="20250226224500 +0000" channel="TNT Sports 4">
         <title>Serie A - Full Impact</title>
@@ -18529,7 +18529,7 @@
         <title>Destiny Christian Centre</title>
     </programme>
     <programme start="20250226123000 +0000" stop="20250226130000 +0000" channel="Faith World TV">
-        <title>Bring the Nation Back to God</title>
+        <title>Prayer Line Live</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="Faith World TV">
         <title>Miracle Christian Centre International</title>
@@ -18537,8 +18537,11 @@
     <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="Faith World TV">
         <title>Jack Hibbs Real Life</title>
     </programme>
-    <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="Faith World TV">
+    <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="Faith World TV">
         <title>Bring the Nation Back to God</title>
+    </programme>
+    <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="Faith World TV">
+        <title>Powerland Chapel Int'l</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="Faith World TV">
         <title>Ark of the Covenant Prayer and Worship Tabernacle</title>
@@ -18561,14 +18564,20 @@
     <programme start="20250226180000 +0000" stop="20250226183000 +0000" channel="Faith World TV">
         <title>Faith Flow Podcast-Apostle Grace</title>
     </programme>
-    <programme start="20250226183000 +0000" stop="20250226193000 +0000" channel="Faith World TV">
+    <programme start="20250226183000 +0000" stop="20250226190000 +0000" channel="Faith World TV">
         <title>Bring the Nation Back to God</title>
+    </programme>
+    <programme start="20250226190000 +0000" stop="20250226193000 +0000" channel="Faith World TV">
+        <title>Life &amp; Issues</title>
     </programme>
     <programme start="20250226193000 +0000" stop="20250226200000 +0000" channel="Faith World TV">
         <title>Good News Today</title>
     </programme>
-    <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="Faith World TV">
+    <programme start="20250226200000 +0000" stop="20250226203000 +0000" channel="Faith World TV">
         <title>Divine Power</title>
+    </programme>
+    <programme start="20250226203000 +0000" stop="20250226210000 +0000" channel="Faith World TV">
+        <title>Bring the Nation Back to God</title>
     </programme>
     <programme start="20250226210000 +0000" stop="20250226213000 +0000" channel="Faith World TV">
         <title>Pastor Melusi</title>
@@ -24544,7 +24553,7 @@
         <title>Masai Clothing Copenhagen</title>
     </programme>
     <programme start="20250226120000 +0000" stop="20250226130000 +0000" channel="QVC Style HD">
-        <title>Monsoon</title>
+        <title>The Fashion Edit with Farah</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="QVC Style HD">
         <title>Helene Berman London</title>
@@ -24577,7 +24586,7 @@
         <title>Clogau Jewellery</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="QVC Style HD">
-        <title>The Jewellery Box</title>
+        <title>Nina Leonard's Wardrobe Heroes</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -25183,19 +25192,19 @@
         <title>Monsoon</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="QVC Extra">
-        <title>Fashion Elevated Essentials</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="QVC Extra">
-        <title>Season Perfect Style</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250226160000 +0000" stop="20250226170000 +0000" channel="QVC Extra">
         <title>Practical Gardening Deals</title>
     </programme>
     <programme start="20250226170000 +0000" stop="20250226180000 +0000" channel="QVC Extra">
-        <title>Household Solutions</title>
+        <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250226180000 +0000" stop="20250226190000 +0000" channel="QVC Extra">
         <title>Home Improvements</title>
@@ -25210,10 +25219,10 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="QVC Extra">
-        <title>Fashion Elevated Essentials</title>
+        <title>Fashion Day Review</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="QVC Extra">
-        <title>Moda In Pelle</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250225223000 +0000" stop="20250225230000 +0000" channel="High Street TV 3">
         <title>nutribullet Blender Combo</title>
@@ -29998,7 +30007,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250226090000 +0000" stop="20250226100000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -30058,7 +30067,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250226233000 +0000" stop="20250227003000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -35080,13 +35089,13 @@
         <title>In My Blood: Steve Stamp</title>
     </programme>
     <programme start="20250226181500 +0000" stop="20250226183000 +0000" channel="TNTSports4 HD">
-        <title>Rio Ferdinand Meets: Ruben Amorim</title>
+        <title>Kenny Allstar's Number 1's</title>
     </programme>
     <programme start="20250226183000 +0000" stop="20250226220000 +0000" channel="TNTSports4 HD">
         <title>Live: Man United v Ipswich Town</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226221500 +0000" channel="TNTSports4 HD">
-        <title>Rio Ferdinand Meets: Ruben Amorim</title>
+        <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250226221500 +0000" stop="20250226224500 +0000" channel="TNTSports4 HD">
         <title>Serie A - Full Impact</title>

@@ -3,14 +3,14 @@
     <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Yokohama FM v Yokohama FC</title>
     </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Machida v Tokyo Verdy</title>
-    </programme>
     <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Cerezo</title>
     </programme>
     <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Avispa v Kawasaki</title>
+    </programme>
+    <programme start="20250226100700 +0000" stop="20250226121000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Machida v Tokyo Verdy</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
