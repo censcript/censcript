@@ -438,9 +438,78 @@
     <programme start="20250226161500 +0000" stop="20250225181500 +0000" channel="RCTI.cubmu">
         <title>Sinema Malam</title>
     </programme>
-
-Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
-<!-- Failed to retrieve data for channel_id: 4028c68585a001440186343e1a562244 -->
+    <programme start="20250225170000 +0000" stop="20250225173000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Malam</title>
+    </programme>
+    <programme start="20250225173000 +0000" stop="20250225180000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
+    <programme start="20250225180000 +0000" stop="20250225190000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
+    </programme>
+    <programme start="20250225190000 +0000" stop="20250225194500 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama Pagi</title>
+    </programme>
+    <programme start="20250225194500 +0000" stop="20250225203000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
+    <programme start="20250225203000 +0000" stop="20250225210000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
+    <programme start="20250225210000 +0000" stop="20250225213000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Pagi</title>
+    </programme>
+    <programme start="20250225213000 +0000" stop="20250225230000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Pagi</title>
+    </programme>
+    <programme start="20250225230000 +0000" stop="20250225233000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Pagi</title>
+    </programme>
+    <programme start="20250225233000 +0000" stop="20250226013000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Pagi</title>
+    </programme>
+    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="tvOne.cubmu">
+        <title>Hidup Sehat</title>
+    </programme>
+    <programme start="20250226020000 +0000" stop="20250226023000 +0000" channel="tvOne.cubmu">
+        <title>Inspirasi Pagi</title>
+    </programme>
+    <programme start="20250226023000 +0000" stop="20250226033000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama Pagi</title>
+    </programme>
+    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="tvOne.cubmu">
+        <title>Menyingkap Tabir</title>
+    </programme>
+    <programme start="20250226040000 +0000" stop="20250226060000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Siang</title>
+    </programme>
+    <programme start="20250226060000 +0000" stop="20250226080000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Siang</title>
+    </programme>
+    <programme start="20250226080000 +0000" stop="20250226090000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Merah Putih</title>
+    </programme>
+    <programme start="20250226090000 +0000" stop="20250226110000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Petang</title>
+    </programme>
+    <programme start="20250226110000 +0000" stop="20250226130000 +0000" channel="tvOne.cubmu">
+        <title>Apa Kabar Indonesia Malam</title>
+    </programme>
+    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="tvOne.cubmu">
+        <title>Indonesia Business Forum</title>
+    </programme>
+    <programme start="20250226140000 +0000" stop="20250226150000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Utama</title>
+    </programme>
+    <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Hari Ini</title>
+    </programme>
+    <programme start="20250226160000 +0000" stop="20250226163000 +0000" channel="tvOne.cubmu">
+        <title>Indonesia Mengingat</title>
+    </programme>
+    <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="tvOne.cubmu">
+        <title>Kabar Arena Malam</title>
+    </programme>
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="rtv.cubmu">
         <title>Di Ujung Rindu</title>
     </programme>
@@ -1254,48 +1323,9 @@ Warning: Trying to access array offset on value of type null in /usr/home/Manusi
     <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="Fashion TV.cubmu">
         <title>Lingerie</title>
     </programme>
-    <programme start="20250225170000 +0000" stop="20250225193000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
-    <programme start="20250225193000 +0000" stop="20250225210000 +0000" channel="Indosiar.cubmu">
-        <title>Mega Film Asia</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225213000 +0000" channel="Indosiar.cubmu">
-        <title>Mukjizat Masih Ada</title>
-    </programme>
-    <programme start="20250225213000 +0000" stop="20250225230000 +0000" channel="Indosiar.cubmu">
-        <title>Fokus Pagi</title>
-    </programme>
-    <programme start="20250225230000 +0000" stop="20250226010000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5 Pesantren Edition</title>
-    </programme>
-    <programme start="20250226010000 +0000" stop="20250226030000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Pagi Spesial</title>
-    </programme>
-    <programme start="20250226030000 +0000" stop="20250226040000 +0000" channel="Indosiar.cubmu">
-        <title>Hot Kiss</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226043000 +0000" channel="Indosiar.cubmu">
-        <title>Patroli Siang</title>
-    </programme>
-    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="Indosiar.cubmu">
-        <title>Fokus Siang</title>
-    </programme>
-    <programme start="20250226050000 +0000" stop="20250226060000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Siang Spesial</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226073000 +0000" channel="Indosiar.cubmu">
-        <title>Kisah Nyata Spesial</title>
-    </programme>
-    <programme start="20250226073000 +0000" stop="20250226110000 +0000" channel="Indosiar.cubmu">
-        <title>Liga 2 2024-25</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226130000 +0000" channel="Indosiar.cubmu">
-        <title>Magic 5 Pesantren Edition</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250225170000 +0000" channel="Indosiar.cubmu">
-        <title>Jirayut 24Wadee Party</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be4f342858e9 -->
     <programme start="20250225173000 +0000" stop="20250225184500 +0000" channel="SCTV.cubmu">
         <title>FTV Utama</title>
     </programme>
@@ -1350,174 +1380,9 @@ Warning: Trying to access array offset on value of type null in /usr/home/Manusi
     <programme start="20250226160000 +0000" stop="20250225180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250225170500 +0000" stop="20250225180000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225180500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225180500 +0000" stop="20250225190000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225190000 +0000" stop="20250225190500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225190500 +0000" stop="20250225193000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225193000 +0000" stop="20250225200000 +0000" channel="MetroTV.cubmu">
-        <title>Dunia Kita</title>
-    </programme>
-    <programme start="20250225200000 +0000" stop="20250225200500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225200500 +0000" stop="20250225210000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225210500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225210500 +0000" stop="20250225220000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250225220000 +0000" stop="20250225220500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225220500 +0000" stop="20250225230000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Pagi Primetime</title>
-    </programme>
-    <programme start="20250225230000 +0000" stop="20250225230500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225230500 +0000" stop="20250225233000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Pagi Primetime</title>
-    </programme>
-    <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
-    </programme>
-    <programme start="20250226000000 +0000" stop="20250226000500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226000500 +0000" stop="20250226010000 +0000" channel="MetroTV.cubmu">
-        <title>Editorial Media Indonesia</title>
-    </programme>
-    <programme start="20250226010000 +0000" stop="20250226010500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226010500 +0000" stop="20250226013000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
-    </programme>
-    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
-    </programme>
-    <programme start="20250226020000 +0000" stop="20250226020500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226020500 +0000" stop="20250226030000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
-    </programme>
-    <programme start="20250226030000 +0000" stop="20250226030500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226030500 +0000" stop="20250226033000 +0000" channel="MetroTV.cubmu">
-        <title>Zona Bisnis</title>
-    </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226040500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226040500 +0000" stop="20250226043000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
-    </programme>
-    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226050000 +0000" stop="20250226050500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226050500 +0000" stop="20250226060000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226060500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226060500 +0000" stop="20250226063000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226063000 +0000" stop="20250226070000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226070000 +0000" stop="20250226070500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226070500 +0000" stop="20250226080000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226080000 +0000" stop="20250226080500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226080500 +0000" stop="20250226083000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226083000 +0000" stop="20250226090000 +0000" channel="MetroTV.cubmu">
-        <title>Prioritas Indonesia</title>
-    </programme>
-    <programme start="20250226090000 +0000" stop="20250226090500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226090500 +0000" stop="20250226100000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226100000 +0000" stop="20250226100500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226100500 +0000" stop="20250226103000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226110500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226110500 +0000" stop="20250226120000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226120000 +0000" stop="20250226120500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226120500 +0000" stop="20250226130000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226130500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226130500 +0000" stop="20250226140000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226140500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226140500 +0000" stop="20250226150000 +0000" channel="MetroTV.cubmu">
-        <title>Hot Room</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226150500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226150500 +0000" stop="20250226153000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Xin Wen</title>
-    </programme>
-    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226160000 +0000" stop="20250226160500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226160500 +0000" stop="20250225170000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be4783ff58da -->
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Malam</title>
     </programme>

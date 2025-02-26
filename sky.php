@@ -7666,7 +7666,7 @@
         <title>The Simpsons</title>
     </programme>
     <programme start="20250226210000 +0000" stop="20250226220000 +0000" channel="SkyShowcase+1">
-        <title>New: Landscape Artist Of The Year</title>
+        <title>New: Landscape Artist Of The Year 2025</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="SkyShowcase+1">
         <title>Rob &amp; Romesh Vs Magic in Vegas</title>
@@ -13872,8 +13872,11 @@
     <programme start="20250226103000 +0000" stop="20250226113000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226143000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250226113000 +0000" stop="20250226141000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: World Open</title>
+    </programme>
+    <programme start="20250226141000 +0000" stop="20250226143000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker 147s</title>
     </programme>
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="Eurosport 1 HD">
         <title>Alpine Skiing: World Cup</title>
@@ -31870,7 +31873,7 @@
         <title>The Simpsons</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="Sky Showcase">
-        <title>New: Landscape Artist Of The Year</title>
+        <title>New: Landscape Artist Of The Year 2025</title>
     </programme>
     <programme start="20250226210000 +0000" stop="20250226220000 +0000" channel="Sky Showcase">
         <title>Rob &amp; Romesh Vs Magic in Vegas</title>
@@ -33364,7 +33367,7 @@
         <title>New: The Alfred Hitchcock Hour</title>
     </programme>
     <programme start="20250226200000 +0000" stop="20250226210000 +0000" channel="Sky Arts">
-        <title>New: Landscape Artist Of The Year</title>
+        <title>New: Landscape Artist Of The Year 2025</title>
     </programme>
     <programme start="20250226210000 +0000" stop="20250226213000 +0000" channel="Sky Arts">
         <title>Artist Of The Year: Masterclass</title>
@@ -34731,8 +34734,11 @@
     <programme start="20250226103000 +0000" stop="20250226113000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250226113000 +0000" stop="20250226143000 +0000" channel="Eurosport 1">
+    <programme start="20250226113000 +0000" stop="20250226141000 +0000" channel="Eurosport 1">
         <title>Live Snooker: World Open</title>
+    </programme>
+    <programme start="20250226141000 +0000" stop="20250226143000 +0000" channel="Eurosport 1">
+        <title>Snooker 147s</title>
     </programme>
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="Eurosport 1">
         <title>Alpine Skiing: World Cup</title>
