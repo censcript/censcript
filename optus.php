@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Yokohama FM v Yokohama FC</title>
-    </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kashiwa v Cerezo</title>
-    </programme>
-    <programme start="20250226095500 +0000" stop="20250226121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Avispa v Kawasaki</title>
-    </programme>
-    <programme start="20250226100700 +0000" stop="20250226121000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Machida v Tokyo Verdy</title>
-    </programme>
     <programme start="20250226150000 +0000" stop="20250226160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Ulsan</title>
+    </programme>
+    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Kansas City Current v Utah Royals FC</title>
+    </programme>
+    <programme start="20250330020000 +0000" stop="20250330043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Portland Thorns FC v North Carolina Courage</title>
+    </programme>
+    <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeju v Suwon FC</title>
     </programme>
 </tv>

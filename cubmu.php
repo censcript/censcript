@@ -1419,9 +1419,174 @@
     <programme start="20250226160000 +0000" stop="20250225180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-
-Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
-<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be4783ff58da -->
+    <programme start="20250225170500 +0000" stop="20250225180000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250225180000 +0000" stop="20250225180500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225180500 +0000" stop="20250225190000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250225190000 +0000" stop="20250225190500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225190500 +0000" stop="20250225193000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250225193000 +0000" stop="20250225200000 +0000" channel="MetroTV.cubmu">
+        <title>Dunia Kita</title>
+    </programme>
+    <programme start="20250225200000 +0000" stop="20250225200500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225200500 +0000" stop="20250225210000 +0000" channel="MetroTV.cubmu">
+        <title>Top News</title>
+    </programme>
+    <programme start="20250225210000 +0000" stop="20250225210500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225210500 +0000" stop="20250225220000 +0000" channel="MetroTV.cubmu">
+        <title>Top News</title>
+    </programme>
+    <programme start="20250225220000 +0000" stop="20250225220500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225220500 +0000" stop="20250225230000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Pagi Primetime</title>
+    </programme>
+    <programme start="20250225230000 +0000" stop="20250225230500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250225230500 +0000" stop="20250225233000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Pagi Primetime</title>
+    </programme>
+    <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="MetroTV.cubmu">
+        <title>Go Healthy</title>
+    </programme>
+    <programme start="20250226000000 +0000" stop="20250226000500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226000500 +0000" stop="20250226010000 +0000" channel="MetroTV.cubmu">
+        <title>Editorial Media Indonesia</title>
+    </programme>
+    <programme start="20250226010000 +0000" stop="20250226010500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226010500 +0000" stop="20250226013000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Sport</title>
+    </programme>
+    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="MetroTV.cubmu">
+        <title>Selamat Pagi Indonesia</title>
+    </programme>
+    <programme start="20250226020000 +0000" stop="20250226020500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226020500 +0000" stop="20250226030000 +0000" channel="MetroTV.cubmu">
+        <title>Selamat Pagi Indonesia</title>
+    </programme>
+    <programme start="20250226030000 +0000" stop="20250226030500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226030500 +0000" stop="20250226033000 +0000" channel="MetroTV.cubmu">
+        <title>Zona Bisnis</title>
+    </programme>
+    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="MetroTV.cubmu">
+        <title>Go Healthy</title>
+    </programme>
+    <programme start="20250226040000 +0000" stop="20250226040500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226040500 +0000" stop="20250226043000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Sport</title>
+    </programme>
+    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Siang</title>
+    </programme>
+    <programme start="20250226050000 +0000" stop="20250226050500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226050500 +0000" stop="20250226060000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Siang</title>
+    </programme>
+    <programme start="20250226060000 +0000" stop="20250226060500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226060500 +0000" stop="20250226063000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Siang</title>
+    </programme>
+    <programme start="20250226063000 +0000" stop="20250226070000 +0000" channel="MetroTV.cubmu">
+        <title>Newsline</title>
+    </programme>
+    <programme start="20250226070000 +0000" stop="20250226070500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226070500 +0000" stop="20250226080000 +0000" channel="MetroTV.cubmu">
+        <title>Newsline</title>
+    </programme>
+    <programme start="20250226080000 +0000" stop="20250226080500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226080500 +0000" stop="20250226083000 +0000" channel="MetroTV.cubmu">
+        <title>Newsline</title>
+    </programme>
+    <programme start="20250226083000 +0000" stop="20250226090000 +0000" channel="MetroTV.cubmu">
+        <title>Prioritas Indonesia</title>
+    </programme>
+    <programme start="20250226090000 +0000" stop="20250226090500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226090500 +0000" stop="20250226100000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Hari Ini</title>
+    </programme>
+    <programme start="20250226100000 +0000" stop="20250226100500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226100500 +0000" stop="20250226103000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Hari Ini</title>
+    </programme>
+    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250226110000 +0000" stop="20250226110500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226110500 +0000" stop="20250226120000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250226120000 +0000" stop="20250226120500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226120500 +0000" stop="20250226130000 +0000" channel="MetroTV.cubmu">
+        <title>Primetime News</title>
+    </programme>
+    <programme start="20250226130000 +0000" stop="20250226130500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226130500 +0000" stop="20250226140000 +0000" channel="MetroTV.cubmu">
+        <title>Top News</title>
+    </programme>
+    <programme start="20250226140000 +0000" stop="20250226140500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226140500 +0000" stop="20250226150000 +0000" channel="MetroTV.cubmu">
+        <title>Hot Room</title>
+    </programme>
+    <programme start="20250226150000 +0000" stop="20250226150500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226150500 +0000" stop="20250226153000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Xin Wen</title>
+    </programme>
+    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Hari Ini</title>
+    </programme>
+    <programme start="20250226160000 +0000" stop="20250226160500 +0000" channel="MetroTV.cubmu">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250226160500 +0000" stop="20250225170000 +0000" channel="MetroTV.cubmu">
+        <title>Metro Hari Ini</title>
+    </programme>
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Malam</title>
     </programme>
