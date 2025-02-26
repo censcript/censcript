@@ -24748,7 +24748,7 @@
         <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="High Street TV 1">
-        <title>nutribullet</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="High Street TV 1">
         <title>Pocket Vac</title>
@@ -24796,7 +24796,7 @@
         <title>Horsepower Duck</title>
     </programme>
     <programme start="20250226213000 +0000" stop="20250226220000 +0000" channel="High Street TV 1">
-        <title>nutribullet Portable Blender</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="High Street TV 1">
         <title>YAWN Air Bed</title>
@@ -24904,7 +24904,7 @@
         <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="High Street TV 2">
-        <title>nutribullet</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="High Street TV 2">
         <title>Pocket Vac</title>
@@ -24952,7 +24952,7 @@
         <title>Horsepower Duck</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226223000 +0000" channel="High Street TV 2">
-        <title>nutribullet Portable Blender</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226230000 +0000" channel="High Street TV 2">
         <title>YAWN Air Bed</title>
@@ -25312,7 +25312,7 @@
         <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="High Street TV 3">
-        <title>nutribullet</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="High Street TV 3">
         <title>Pocket Vac</title>
@@ -25360,7 +25360,7 @@
         <title>Horsepower Duck</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226230000 +0000" channel="High Street TV 3">
-        <title>nutribullet Portable Blender</title>
+        <title>Speedi Dry Heated Airer</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250226233000 +0000" channel="High Street TV 3">
         <title>YAWN Air Bed</title>
