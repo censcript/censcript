@@ -37230,8 +37230,11 @@
     <programme start="20250226121500 +0000" stop="20250226130000 +0000" channel="BBC One NI HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="BBC One NI HD">
+    <programme start="20250226130000 +0000" stop="20250226134500 +0000" channel="BBC One NI HD">
         <title>BBC News at One including BBC Newsline</title>
+    </programme>
+    <programme start="20250226134500 +0000" stop="20250226140000 +0000" channel="BBC One NI HD">
+        <title>BBC News at One</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="BBC One NI HD">
         <title>The Big Idea Works</title>
