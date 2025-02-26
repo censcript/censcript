@@ -30798,8 +30798,11 @@
     <programme start="20250226093000 +0000" stop="20250226094000 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250226094000 +0000" stop="20250226103000 +0000" channel="TV One">
+    <programme start="20250226094000 +0000" stop="20250226100000 +0000" channel="TV One">
         <title>Zuhr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250226100000 +0000" stop="20250226103000 +0000" channel="TV One">
+        <title>Documentary - Zam zam</title>
     </programme>
     <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="TV One">
         <title>TV One News</title>
@@ -30816,8 +30819,11 @@
     <programme start="20250226122500 +0000" stop="20250226130000 +0000" channel="TV One">
         <title>Message From The Mimber</title>
     </programme>
-    <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="TV One">
+    <programme start="20250226130000 +0000" stop="20250226133000 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
+    </programme>
+    <programme start="20250226133000 +0000" stop="20250226140000 +0000" channel="TV One">
+        <title>Words of Wisdom</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226141500 +0000" channel="TV One">
         <title>Short film</title>
