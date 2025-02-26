@@ -25699,7 +25699,7 @@
         <title>Indulge &amp; Explore with Celebrity</title>
     </programme>
     <programme start="20250226220000 +0000" stop="20250226230000 +0000" channel="Cruise1st.tv">
-        <title>..programmes start at 5.30am</title>
+        <title>..programmes start at 6am</title>
     </programme>
     <programme start="20250225214600 +0000" stop="20250226012100 +0000" channel="B4U Movies">
         <title>Vivah</title>
@@ -30643,22 +30643,22 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250226093000 +0000" stop="20250226110000 +0000" channel="NTV">
-        <title>Amra Hotash</title>
+        <title>Insomnia</title>
     </programme>
     <programme start="20250226110000 +0000" stop="20250226120000 +0000" channel="NTV">
-        <title>Agnee 2</title>
+        <title>Moghole Azom</title>
     </programme>
-    <programme start="20250226120000 +0000" stop="20250226122000 +0000" channel="NTV">
+    <programme start="20250226120000 +0000" stop="20250226121800 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250226122000 +0000" stop="20250226122500 +0000" channel="NTV">
+    <programme start="20250226121800 +0000" stop="20250226122300 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250226122500 +0000" stop="20250226123000 +0000" channel="NTV">
+    <programme start="20250226122300 +0000" stop="20250226123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250226123000 +0000" stop="20250226140000 +0000" channel="NTV">
-        <title>Agnee 2</title>
+        <title>Moghole Azom</title>
     </programme>
     <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -30666,37 +30666,40 @@
     <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250226150000 +0000" stop="20250226150900 +0000" channel="NTV">
-        <title>Batch 27</title>
+    <programme start="20250226150000 +0000" stop="20250226154400 +0000" channel="NTV">
+        <title>Rimjhim Bristi</title>
     </programme>
-    <programme start="20250226150900 +0000" stop="20250226151400 +0000" channel="NTV">
+    <programme start="20250226154400 +0000" stop="20250226154900 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250226151400 +0000" stop="20250226163000 +0000" channel="NTV">
-        <title>Batch 27</title>
+    <programme start="20250226154900 +0000" stop="20250226163000 +0000" channel="NTV">
+        <title>Rimjhim Bristi</title>
     </programme>
-    <programme start="20250226163000 +0000" stop="20250226170100 +0000" channel="NTV">
+    <programme start="20250226163000 +0000" stop="20250226170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250226170100 +0000" stop="20250226170600 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
+    <programme start="20250226170000 +0000" stop="20250226173000 +0000" channel="NTV">
+        <title>Onnorokom Golpo</title>
     </programme>
-    <programme start="20250226170600 +0000" stop="20250226173000 +0000" channel="NTV">
-        <title>Onnorokom Bhalobasha</title>
-    </programme>
-    <programme start="20250226173000 +0000" stop="20250226180000 +0000" channel="NTV">
+    <programme start="20250226173000 +0000" stop="20250226173900 +0000" channel="NTV">
         <title>Food Caravan</title>
     </programme>
-    <programme start="20250226180000 +0000" stop="20250226183400 +0000" channel="NTV">
-        <title>10 Minute</title>
+    <programme start="20250226173900 +0000" stop="20250226174400 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250226183400 +0000" stop="20250226183900 +0000" channel="NTV">
+    <programme start="20250226174400 +0000" stop="20250226180000 +0000" channel="NTV">
+        <title>Food Caravan</title>
+    </programme>
+    <programme start="20250226180000 +0000" stop="20250226190000 +0000" channel="NTV">
+        <title>Chader Kolongko</title>
+    </programme>
+    <programme start="20250226190000 +0000" stop="20250226190600 +0000" channel="NTV">
+        <title>NTV Evening News (ENGLISH</title>
+    </programme>
+    <programme start="20250226190600 +0000" stop="20250226191100 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250226183900 +0000" stop="20250226190000 +0000" channel="NTV">
-        <title>10 Minute</title>
-    </programme>
-    <programme start="20250226190000 +0000" stop="20250226191500 +0000" channel="NTV">
+    <programme start="20250226191100 +0000" stop="20250226191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
     <programme start="20250226191500 +0000" stop="20250226200000 +0000" channel="NTV">
@@ -37885,7 +37888,7 @@
         <title>talkSPORT Breakfast</title>
     </programme>
     <programme start="20250226100000 +0000" stop="20250226130000 +0000" channel="talkSPORT">
-        <title>White &amp; Jordan</title>
+        <title>White &amp; Jordan with Danny Murphy</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226160000 +0000" channel="talkSPORT">
         <title>Hawksbee &amp; Baker</title>

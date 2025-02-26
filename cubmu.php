@@ -510,9 +510,87 @@
     <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="tvOne.cubmu">
         <title>Kabar Arena Malam</title>
     </programme>
-
-Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
-<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be5cd0b15903 -->
+    <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="rtv.cubmu">
+        <title>Di Ujung Rindu</title>
+    </programme>
+    <programme start="20250225180000 +0000" stop="20250225183000 +0000" channel="rtv.cubmu">
+        <title>Terang Kasih</title>
+    </programme>
+    <programme start="20250225183000 +0000" stop="20250225190000 +0000" channel="rtv.cubmu">
+        <title>Unik Enak</title>
+    </programme>
+    <programme start="20250225190000 +0000" stop="20250225203000 +0000" channel="rtv.cubmu">
+        <title>Movinesia</title>
+    </programme>
+    <programme start="20250225203000 +0000" stop="20250225210000 +0000" channel="rtv.cubmu">
+        <title>Cerita Rara</title>
+    </programme>
+    <programme start="20250225210000 +0000" stop="20250225220000 +0000" channel="rtv.cubmu">
+        <title>Ibra Berkisah</title>
+    </programme>
+    <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="rtv.cubmu">
+        <title>Riko The Series</title>
+    </programme>
+    <programme start="20250225230000 +0000" stop="20250225233000 +0000" channel="rtv.cubmu">
+        <title>Kongsuni</title>
+    </programme>
+    <programme start="20250225233000 +0000" stop="20250226003000 +0000" channel="rtv.cubmu">
+        <title>Si Bocil Trang Quynh</title>
+    </programme>
+    <programme start="20250226003000 +0000" stop="20250226013000 +0000" channel="rtv.cubmu">
+        <title>Grizzy And The Lemmings</title>
+    </programme>
+    <programme start="20250226013000 +0000" stop="20250226030000 +0000" channel="rtv.cubmu">
+        <title>Rainbow Ruby</title>
+    </programme>
+    <programme start="20250226030000 +0000" stop="20250226040000 +0000" channel="rtv.cubmu">
+        <title>Catch! Teenieping</title>
+    </programme>
+    <programme start="20250226040000 +0000" stop="20250226043000 +0000" channel="rtv.cubmu">
+        <title>Tawa Satwa</title>
+    </programme>
+    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="rtv.cubmu">
+        <title>Tawa Satwa</title>
+    </programme>
+    <programme start="20250226050000 +0000" stop="20250226063000 +0000" channel="rtv.cubmu">
+        <title>Boboiboy</title>
+    </programme>
+    <programme start="20250226063000 +0000" stop="20250226073000 +0000" channel="rtv.cubmu">
+        <title>Virtual Guardians</title>
+    </programme>
+    <programme start="20250226073000 +0000" stop="20250226093000 +0000" channel="rtv.cubmu">
+        <title>Ejen Ali</title>
+    </programme>
+    <programme start="20250226093000 +0000" stop="20250226103000 +0000" channel="rtv.cubmu">
+        <title>Quantum Heroes Dinoster</title>
+    </programme>
+    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="rtv.cubmu">
+        <title>Riko The Series</title>
+    </programme>
+    <programme start="20250226110000 +0000" stop="20250226123000 +0000" channel="rtv.cubmu">
+        <title>Boboiboy Galaxy The Movie</title>
+    </programme>
+    <programme start="20250226123000 +0000" stop="20250226140000 +0000" channel="rtv.cubmu">
+        <title>Mechamato</title>
+    </programme>
+    <programme start="20250226140000 +0000" stop="20250226143000 +0000" channel="rtv.cubmu">
+        <title>Si Paling Trending!</title>
+    </programme>
+    <programme start="20250226143000 +0000" stop="20250226150000 +0000" channel="rtv.cubmu">
+        <title>Terkepo-Kepo</title>
+    </programme>
+    <programme start="20250226150000 +0000" stop="20250226153000 +0000" channel="rtv.cubmu">
+        <title>Dunia Dalam Cerita</title>
+    </programme>
+    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="rtv.cubmu">
+        <title>Cetar - Cerita Rasa Artis</title>
+    </programme>
+    <programme start="20250226160000 +0000" stop="20250226163000 +0000" channel="rtv.cubmu">
+        <title>Lensa Indonesia Malam</title>
+    </programme>
+    <programme start="20250226163000 +0000" stop="20250225170000 +0000" channel="rtv.cubmu">
+        <title>Catatan Seputar Investigasi</title>
+    </programme>
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="MDTV.cubmu">
         <title>New Sensasihot</title>
     </programme>
@@ -822,9 +900,108 @@ Warning: Trying to access array offset on value of type null in /usr/home/Manusi
     <programme start="20250226163600 +0000" stop="20250225170200 +0000" channel="Cartoon TV Premium.cubmu">
         <title>Gasp!</title>
     </programme>
-
-Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
-<!-- Failed to retrieve data for channel_id: 4028c6858262bb8001827b6764522be3 -->
+    <programme start="20250225173300 +0000" stop="20250225182100 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20250225182100 +0000" stop="20250225190800 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20250225190800 +0000" stop="20250225195600 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20250225195600 +0000" stop="20250225204400 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20250225204400 +0000" stop="20250225213200 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20250225213200 +0000" stop="20250225222100 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20250225222100 +0000" stop="20250225230000 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20250225230000 +0000" stop="20250225234800 +0000" channel="Knowledge+.cubmu">
+        <title>Animal Society</title>
+    </programme>
+    <programme start="20250225234800 +0000" stop="20250226000000 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226000000 +0000" stop="20250226003800 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226003800 +0000" stop="20250226012700 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20250226012700 +0000" stop="20250226021500 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20250226021500 +0000" stop="20250226030400 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20250226030400 +0000" stop="20250226035200 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20250226035200 +0000" stop="20250226043900 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20250226043900 +0000" stop="20250226052800 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
+    <programme start="20250226052800 +0000" stop="20250226061600 +0000" channel="Knowledge+.cubmu">
+        <title>Food Stories</title>
+    </programme>
+    <programme start="20250226061600 +0000" stop="20250226070300 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Outer Space</title>
+    </programme>
+    <programme start="20250226070300 +0000" stop="20250226075100 +0000" channel="Knowledge+.cubmu">
+        <title>Inside Things</title>
+    </programme>
+    <programme start="20250226075100 +0000" stop="20250226081500 +0000" channel="Knowledge+.cubmu">
+        <title>Mindworks</title>
+    </programme>
+    <programme start="20250226081500 +0000" stop="20250226084400 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226084400 +0000" stop="20250226090800 +0000" channel="Knowledge+.cubmu">
+        <title>More Curious?</title>
+    </programme>
+    <programme start="20250226090800 +0000" stop="20250226093700 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226093700 +0000" stop="20250226100200 +0000" channel="Knowledge+.cubmu">
+        <title>Rethink</title>
+    </programme>
+    <programme start="20250226100200 +0000" stop="20250226103100 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226103100 +0000" stop="20250226105600 +0000" channel="Knowledge+.cubmu">
+        <title>Wild About</title>
+    </programme>
+    <programme start="20250226105600 +0000" stop="20250226115300 +0000" channel="Knowledge+.cubmu">
+        <title>Nature&#039;s Force</title>
+    </programme>
+    <programme start="20250226115300 +0000" stop="20250226124300 +0000" channel="Knowledge+.cubmu">
+        <title>Ancient Grains</title>
+    </programme>
+    <programme start="20250226124300 +0000" stop="20250226133200 +0000" channel="Knowledge+.cubmu">
+        <title>Busy Bodies</title>
+    </programme>
+    <programme start="20250226133200 +0000" stop="20250226142000 +0000" channel="Knowledge+.cubmu">
+        <title>Cities of the World</title>
+    </programme>
+    <programme start="20250226142000 +0000" stop="20250226150900 +0000" channel="Knowledge+.cubmu">
+        <title>Cultural Flavours</title>
+    </programme>
+    <programme start="20250226150900 +0000" stop="20250226155700 +0000" channel="Knowledge+.cubmu">
+        <title>Curious?</title>
+    </programme>
+    <programme start="20250226155700 +0000" stop="20250226164400 +0000" channel="Knowledge+.cubmu">
+        <title>Everyday Elements</title>
+    </programme>
+    <programme start="20250226164400 +0000" stop="20250225173300 +0000" channel="Knowledge+.cubmu">
+        <title>Festivals of the World</title>
+    </programme>
     <programme start="20250225170800 +0000" stop="20250225180000 +0000" channel="Fight TV Premium.cubmu">
         <title>Dynasty Combat Sports</title>
     </programme>
@@ -1242,174 +1419,9 @@ Warning: Trying to access array offset on value of type null in /usr/home/Manusi
     <programme start="20250226160000 +0000" stop="20250225180000 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
     </programme>
-    <programme start="20250225170500 +0000" stop="20250225180000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225180000 +0000" stop="20250225180500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225180500 +0000" stop="20250225190000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225190000 +0000" stop="20250225190500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225190500 +0000" stop="20250225193000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250225193000 +0000" stop="20250225200000 +0000" channel="MetroTV.cubmu">
-        <title>Dunia Kita</title>
-    </programme>
-    <programme start="20250225200000 +0000" stop="20250225200500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225200500 +0000" stop="20250225210000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250225210000 +0000" stop="20250225210500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225210500 +0000" stop="20250225220000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250225220000 +0000" stop="20250225220500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225220500 +0000" stop="20250225230000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Pagi Primetime</title>
-    </programme>
-    <programme start="20250225230000 +0000" stop="20250225230500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250225230500 +0000" stop="20250225233000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Pagi Primetime</title>
-    </programme>
-    <programme start="20250225233000 +0000" stop="20250226000000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
-    </programme>
-    <programme start="20250226000000 +0000" stop="20250226000500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226000500 +0000" stop="20250226010000 +0000" channel="MetroTV.cubmu">
-        <title>Editorial Media Indonesia</title>
-    </programme>
-    <programme start="20250226010000 +0000" stop="20250226010500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226010500 +0000" stop="20250226013000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
-    </programme>
-    <programme start="20250226013000 +0000" stop="20250226020000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
-    </programme>
-    <programme start="20250226020000 +0000" stop="20250226020500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226020500 +0000" stop="20250226030000 +0000" channel="MetroTV.cubmu">
-        <title>Selamat Pagi Indonesia</title>
-    </programme>
-    <programme start="20250226030000 +0000" stop="20250226030500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226030500 +0000" stop="20250226033000 +0000" channel="MetroTV.cubmu">
-        <title>Zona Bisnis</title>
-    </programme>
-    <programme start="20250226033000 +0000" stop="20250226040000 +0000" channel="MetroTV.cubmu">
-        <title>Go Healthy</title>
-    </programme>
-    <programme start="20250226040000 +0000" stop="20250226040500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226040500 +0000" stop="20250226043000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Sport</title>
-    </programme>
-    <programme start="20250226043000 +0000" stop="20250226050000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226050000 +0000" stop="20250226050500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226050500 +0000" stop="20250226060000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226060000 +0000" stop="20250226060500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226060500 +0000" stop="20250226063000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Siang</title>
-    </programme>
-    <programme start="20250226063000 +0000" stop="20250226070000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226070000 +0000" stop="20250226070500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226070500 +0000" stop="20250226080000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226080000 +0000" stop="20250226080500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226080500 +0000" stop="20250226083000 +0000" channel="MetroTV.cubmu">
-        <title>Newsline</title>
-    </programme>
-    <programme start="20250226083000 +0000" stop="20250226090000 +0000" channel="MetroTV.cubmu">
-        <title>Prioritas Indonesia</title>
-    </programme>
-    <programme start="20250226090000 +0000" stop="20250226090500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226090500 +0000" stop="20250226100000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226100000 +0000" stop="20250226100500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226100500 +0000" stop="20250226103000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226103000 +0000" stop="20250226110000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226110000 +0000" stop="20250226110500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226110500 +0000" stop="20250226120000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226120000 +0000" stop="20250226120500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226120500 +0000" stop="20250226130000 +0000" channel="MetroTV.cubmu">
-        <title>Primetime News</title>
-    </programme>
-    <programme start="20250226130000 +0000" stop="20250226130500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226130500 +0000" stop="20250226140000 +0000" channel="MetroTV.cubmu">
-        <title>Top News</title>
-    </programme>
-    <programme start="20250226140000 +0000" stop="20250226140500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226140500 +0000" stop="20250226150000 +0000" channel="MetroTV.cubmu">
-        <title>Hot Room</title>
-    </programme>
-    <programme start="20250226150000 +0000" stop="20250226150500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226150500 +0000" stop="20250226153000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Xin Wen</title>
-    </programme>
-    <programme start="20250226153000 +0000" stop="20250226160000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
-    <programme start="20250226160000 +0000" stop="20250226160500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250226160500 +0000" stop="20250225170000 +0000" channel="MetroTV.cubmu">
-        <title>Metro Hari Ini</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be4783ff58da -->
     <programme start="20250225170000 +0000" stop="20250225180000 +0000" channel="GTV.cubmu">
         <title>Buletin iNews Malam</title>
     </programme>
