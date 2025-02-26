@@ -24559,7 +24559,7 @@
         <title>Masai Clothing Copenhagen</title>
     </programme>
     <programme start="20250226120000 +0000" stop="20250226130000 +0000" channel="QVC Style HD">
-        <title>The Fashion Edit with Farah</title>
+        <title>Summer Fashion Edit</title>
     </programme>
     <programme start="20250226130000 +0000" stop="20250226140000 +0000" channel="QVC Style HD">
         <title>Helene Berman London</title>
@@ -24592,7 +24592,7 @@
         <title>Clogau Jewellery</title>
     </programme>
     <programme start="20250226230000 +0000" stop="20250227000000 +0000" channel="QVC Style HD">
-        <title>Nina Leonard's Wardrobe Heroes</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250225220000 +0000" stop="20250225230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
