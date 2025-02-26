@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250226183000 +0000" stop="20250226230000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Thursday Morning</title>
-    </programme>
-    <programme start="20250226200500 +0000" stop="20250226222500 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Liverpool v Newcastle United</title>
-    </programme>
     <programme start="20250227133000 +0000" stop="20250227140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Jordan Pickford</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Anyang v Jeonbuk</title>
+    </programme>
+    <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Chicago Stars v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
 </tv>
