@@ -3439,7 +3439,7 @@
         <title>Teleshopping</title>
     </programme>
     <programme start="20250227090000 +0000" stop="20250227093000 +0000" channel="4seven">
-        <title>Four in a Bed</title>
+        <title>Jamie's One-Pan Wonders</title>
     </programme>
     <programme start="20250227093000 +0000" stop="20250227103000 +0000" channel="4seven">
         <title>Sun, Sea and Selling Houses</title>
@@ -39036,10 +39036,10 @@
     <programme start="20250227060000 +0000" stop="20250227084500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250227084500 +0000" stop="20250227170000 +0000" channel="BBC R5SX">
+    <programme start="20250227084500 +0000" stop="20250227173000 +0000" channel="BBC R5SX">
         <title>ICC Champions Trophy</title>
     </programme>
-    <programme start="20250227170000 +0000" stop="20250227194500 +0000" channel="BBC R5SX">
+    <programme start="20250227173000 +0000" stop="20250227194500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250227194500 +0000" stop="20250227220000 +0000" channel="BBC R5SX">
