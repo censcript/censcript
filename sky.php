@@ -3039,10 +3039,10 @@
     <programme start="20250227060500 +0000" stop="20250227061500 +0000" channel="S4C">
         <title>Jambori</title>
     </programme>
-    <programme start="20250227061500 +0000" stop="20250227062500 +0000" channel="S4C">
+    <programme start="20250227061500 +0000" stop="20250227063000 +0000" channel="S4C">
         <title>Tomos a'i Ffrindiau</title>
     </programme>
-    <programme start="20250227062500 +0000" stop="20250227064000 +0000" channel="S4C">
+    <programme start="20250227063000 +0000" stop="20250227064000 +0000" channel="S4C">
         <title>Blero'n mynd i Ocido</title>
     </programme>
     <programme start="20250227064000 +0000" stop="20250227070000 +0000" channel="S4C">
@@ -3054,61 +3054,61 @@
     <programme start="20250227070500 +0000" stop="20250227072000 +0000" channel="S4C">
         <title>New: Fferm Fach</title>
     </programme>
-    <programme start="20250227072000 +0000" stop="20250227073000 +0000" channel="S4C">
+    <programme start="20250227072000 +0000" stop="20250227072500 +0000" channel="S4C">
         <title>Odo</title>
     </programme>
-    <programme start="20250227073000 +0000" stop="20250227074500 +0000" channel="S4C">
+    <programme start="20250227072500 +0000" stop="20250227074000 +0000" channel="S4C">
         <title>New: Guto Gwningen</title>
     </programme>
-    <programme start="20250227074500 +0000" stop="20250227080000 +0000" channel="S4C">
+    <programme start="20250227074000 +0000" stop="20250227080000 +0000" channel="S4C">
         <title>Amser Maith Maith Yn Ol</title>
     </programme>
     <programme start="20250227080000 +0000" stop="20250227080500 +0000" channel="S4C">
         <title>Olobobs</title>
     </programme>
-    <programme start="20250227080500 +0000" stop="20250227082000 +0000" channel="S4C">
+    <programme start="20250227080500 +0000" stop="20250227081500 +0000" channel="S4C">
         <title>Twt</title>
     </programme>
-    <programme start="20250227082000 +0000" stop="20250227083000 +0000" channel="S4C">
+    <programme start="20250227081500 +0000" stop="20250227082500 +0000" channel="S4C">
         <title>Shwshaswyn</title>
     </programme>
-    <programme start="20250227083000 +0000" stop="20250227084500 +0000" channel="S4C">
+    <programme start="20250227082500 +0000" stop="20250227083500 +0000" channel="S4C">
         <title>Sion y Chef</title>
     </programme>
-    <programme start="20250227084500 +0000" stop="20250227090000 +0000" channel="S4C">
+    <programme start="20250227083500 +0000" stop="20250227085000 +0000" channel="S4C">
         <title>Help Llaw</title>
     </programme>
-    <programme start="20250227090000 +0000" stop="20250227091000 +0000" channel="S4C">
+    <programme start="20250227085000 +0000" stop="20250227090000 +0000" channel="S4C">
         <title>Sam Tan</title>
     </programme>
-    <programme start="20250227091000 +0000" stop="20250227092500 +0000" channel="S4C">
+    <programme start="20250227090000 +0000" stop="20250227091500 +0000" channel="S4C">
         <title>Sbarc</title>
     </programme>
-    <programme start="20250227092500 +0000" stop="20250227093500 +0000" channel="S4C">
+    <programme start="20250227091500 +0000" stop="20250227093000 +0000" channel="S4C">
         <title>Da 'Di Dona</title>
     </programme>
-    <programme start="20250227093500 +0000" stop="20250227094500 +0000" channel="S4C">
+    <programme start="20250227093000 +0000" stop="20250227094000 +0000" channel="S4C">
         <title>Digbi Draig</title>
     </programme>
-    <programme start="20250227094500 +0000" stop="20250227100000 +0000" channel="S4C">
+    <programme start="20250227094000 +0000" stop="20250227100000 +0000" channel="S4C">
         <title>Ahoi!</title>
     </programme>
-    <programme start="20250227100000 +0000" stop="20250227100500 +0000" channel="S4C">
+    <programme start="20250227100000 +0000" stop="20250227101000 +0000" channel="S4C">
         <title>Brethyn a Fflwff</title>
     </programme>
-    <programme start="20250227100500 +0000" stop="20250227101500 +0000" channel="S4C">
+    <programme start="20250227101000 +0000" stop="20250227102000 +0000" channel="S4C">
         <title>Cymylaubychain</title>
     </programme>
-    <programme start="20250227101500 +0000" stop="20250227103000 +0000" channel="S4C">
+    <programme start="20250227102000 +0000" stop="20250227103500 +0000" channel="S4C">
         <title>Jen a Jim a'r Cywiadur</title>
     </programme>
-    <programme start="20250227103000 +0000" stop="20250227104000 +0000" channel="S4C">
+    <programme start="20250227103500 +0000" stop="20250227104500 +0000" channel="S4C">
         <title>Sam Tan</title>
     </programme>
-    <programme start="20250227104000 +0000" stop="20250227105500 +0000" channel="S4C">
+    <programme start="20250227104500 +0000" stop="20250227110000 +0000" channel="S4C">
         <title>Cacamwnci</title>
     </programme>
-    <programme start="20250227105500 +0000" stop="20250227110500 +0000" channel="S4C">
+    <programme start="20250227110000 +0000" stop="20250227110500 +0000" channel="S4C">
         <title>Sblij a Sbloj</title>
     </programme>
     <programme start="20250227110500 +0000" stop="20250227112000 +0000" channel="S4C">
@@ -3156,10 +3156,10 @@
     <programme start="20250227160500 +0000" stop="20250227161500 +0000" channel="S4C">
         <title>Caru Canu a Stori</title>
     </programme>
-    <programme start="20250227161500 +0000" stop="20250227163000 +0000" channel="S4C">
+    <programme start="20250227161500 +0000" stop="20250227163500 +0000" channel="S4C">
         <title>Byd Tad-cu</title>
     </programme>
-    <programme start="20250227163000 +0000" stop="20250227164500 +0000" channel="S4C">
+    <programme start="20250227163500 +0000" stop="20250227164500 +0000" channel="S4C">
         <title>Guto Gwningen</title>
     </programme>
     <programme start="20250227164500 +0000" stop="20250227170000 +0000" channel="S4C">
@@ -12567,10 +12567,7 @@
     <programme start="20250227131500 +0000" stop="20250227145500 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
-    <programme start="20250227145500 +0000" stop="20250227150000 +0000" channel="MTV 80s">
-        <title>Ultimate 50 British Anthems Of The 80s</title>
-    </programme>
-    <programme start="20250227150000 +0000" stop="20250227192000 +0000" channel="MTV 80s">
+    <programme start="20250227145500 +0000" stop="20250227192000 +0000" channel="MTV 80s">
         <title>Ultimate 50 British Anthems Of The 80s</title>
     </programme>
     <programme start="20250227192000 +0000" stop="20250227210000 +0000" channel="MTV 80s">
@@ -15087,14 +15084,17 @@
     <programme start="20250227050000 +0000" stop="20250227060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Northern...</title>
     </programme>
-    <programme start="20250227060000 +0000" stop="20250227063000 +0000" channel="BBC Parl HD">
+    <programme start="20250227060000 +0000" stop="20250227074000 +0000" channel="BBC Parl HD">
+        <title>Defence and Security Statement</title>
+    </programme>
+    <programme start="20250227074000 +0000" stop="20250227080500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Office Questions</title>
     </programme>
-    <programme start="20250227063000 +0000" stop="20250227070500 +0000" channel="BBC Parl HD">
+    <programme start="20250227080500 +0000" stop="20250227084500 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250227070500 +0000" stop="20250227093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250227084500 +0000" stop="20250227093000 +0000" channel="BBC Parl HD">
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250227093000 +0000" stop="20250227101000 +0000" channel="BBC Parl HD">
         <title>Live Culture, Media and Sport Questions</title>
@@ -15112,7 +15112,7 @@
         <title>Scottish First Minister's Questions</title>
     </programme>
     <programme start="20250227181500 +0000" stop="20250227190000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -19437,10 +19437,7 @@
     <programme start="20250227031500 +0000" stop="20250227033000 +0000" channel="Nicktoons">
         <title>Rock, Paper, Scissors</title>
     </programme>
-    <programme start="20250227033000 +0000" stop="20250227034900 +0000" channel="Nicktoons">
-        <title>Rock, Paper, Scissors</title>
-    </programme>
-    <programme start="20250227034900 +0000" stop="20250227035500 +0000" channel="Nicktoons">
+    <programme start="20250227033000 +0000" stop="20250227035500 +0000" channel="Nicktoons">
         <title>Rock, Paper, Scissors</title>
     </programme>
     <programme start="20250227035500 +0000" stop="20250227041000 +0000" channel="Nicktoons">
@@ -19836,11 +19833,8 @@
     <programme start="20250227134500 +0000" stop="20250227140000 +0000" channel="Nick Jr. HD">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250227140000 +0000" stop="20250227141500 +0000" channel="Nick Jr. HD">
+    <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="Nick Jr. HD">
         <title>Gabby's Dollhouse</title>
-    </programme>
-    <programme start="20250227141500 +0000" stop="20250227143000 +0000" channel="Nick Jr. HD">
-        <title>DORA</title>
     </programme>
     <programme start="20250227143000 +0000" stop="20250227144500 +0000" channel="Nick Jr. HD">
         <title>Peppa Pig</title>
@@ -20976,11 +20970,8 @@
     <programme start="20250227074500 +0000" stop="20250227080000 +0000" channel="Nick Jr. Too">
         <title>Peppa Pig</title>
     </programme>
-    <programme start="20250227080000 +0000" stop="20250227081500 +0000" channel="Nick Jr. Too">
+    <programme start="20250227080000 +0000" stop="20250227083000 +0000" channel="Nick Jr. Too">
         <title>Gabby's Dollhouse</title>
-    </programme>
-    <programme start="20250227081500 +0000" stop="20250227083000 +0000" channel="Nick Jr. Too">
-        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250227083000 +0000" stop="20250227090000 +0000" channel="Nick Jr. Too">
         <title>DORA</title>
@@ -21054,11 +21045,8 @@
     <programme start="20250227144500 +0000" stop="20250227150000 +0000" channel="Nick Jr. Too">
         <title>DORA</title>
     </programme>
-    <programme start="20250227150000 +0000" stop="20250227151500 +0000" channel="Nick Jr. Too">
+    <programme start="20250227150000 +0000" stop="20250227153000 +0000" channel="Nick Jr. Too">
         <title>Gabby's Dollhouse</title>
-    </programme>
-    <programme start="20250227151500 +0000" stop="20250227153000 +0000" channel="Nick Jr. Too">
-        <title>The Adventures of Paddington</title>
     </programme>
     <programme start="20250227153000 +0000" stop="20250227160000 +0000" channel="Nick Jr. Too">
         <title>Gabby's Dollhouse</title>
@@ -22680,11 +22668,8 @@
     <programme start="20250227144500 +0000" stop="20250227150000 +0000" channel="Nick Jr+1">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250227150000 +0000" stop="20250227151500 +0000" channel="Nick Jr+1">
+    <programme start="20250227150000 +0000" stop="20250227153000 +0000" channel="Nick Jr+1">
         <title>Gabby's Dollhouse</title>
-    </programme>
-    <programme start="20250227151500 +0000" stop="20250227153000 +0000" channel="Nick Jr+1">
-        <title>DORA</title>
     </programme>
     <programme start="20250227153000 +0000" stop="20250227154500 +0000" channel="Nick Jr+1">
         <title>Peppa Pig</title>
@@ -24072,11 +24057,8 @@
     <programme start="20250227134500 +0000" stop="20250227140000 +0000" channel="Nick Jr.">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250227140000 +0000" stop="20250227141500 +0000" channel="Nick Jr.">
+    <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="Nick Jr.">
         <title>Gabby's Dollhouse</title>
-    </programme>
-    <programme start="20250227141500 +0000" stop="20250227143000 +0000" channel="Nick Jr.">
-        <title>DORA</title>
     </programme>
     <programme start="20250227143000 +0000" stop="20250227144500 +0000" channel="Nick Jr.">
         <title>Peppa Pig</title>
@@ -29740,16 +29722,13 @@
         <title>Sade Rukh</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Sangat Matrimonial</title>
     </programme>
     <programme start="20250227143000 +0000" stop="20250227150000 +0000" channel="Sangat">
-        <title>Punjabi Rasoi</title>
-    </programme>
-    <programme start="20250227150000 +0000" stop="20250227153000 +0000" channel="Sangat">
         <title>Punjabi Virsa</title>
     </programme>
-    <programme start="20250227153000 +0000" stop="20250227160000 +0000" channel="Sangat">
-        <title>Sangat Matrimonial</title>
+    <programme start="20250227150000 +0000" stop="20250227160000 +0000" channel="Sangat">
+        <title>Katha Vichar</title>
     </programme>
     <programme start="20250227160000 +0000" stop="20250227163000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -29764,7 +29743,7 @@
         <title>Tehal Sewa Smaagum</title>
     </programme>
     <programme start="20250227183000 +0000" stop="20250227190000 +0000" channel="Sangat">
-        <title>350 Years of Shaheedi: Sehaj Paath</title>
+        <title>Sakhi: Guru Arjan Dev Sahib Ji</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="Sangat">
         <title>Legal Guidance</title>
@@ -29775,11 +29754,11 @@
     <programme start="20250227203000 +0000" stop="20250227213000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
     </programme>
-    <programme start="20250227213000 +0000" stop="20250227223000 +0000" channel="Sangat">
-        <title>Naam Simran</title>
+    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="Sangat">
+        <title>Saka Sri Nankana Sahib</title>
     </programme>
-    <programme start="20250227223000 +0000" stop="20250227230000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+    <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="Sangat">
+        <title>Hukamnama Katha</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250227233000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
@@ -29814,10 +29793,7 @@
     <programme start="20250227070000 +0000" stop="20250227070500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
     </programme>
-    <programme start="20250227070500 +0000" stop="20250227071500 +0000" channel="Akaal Channel">
-        <title>Media Watch</title>
-    </programme>
-    <programme start="20250227071500 +0000" stop="20250227080500 +0000" channel="Akaal Channel">
+    <programme start="20250227070500 +0000" stop="20250227080500 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
     <programme start="20250227080500 +0000" stop="20250227090000 +0000" channel="Akaal Channel">
@@ -29862,8 +29838,11 @@
     <programme start="20250227173000 +0000" stop="20250227180000 +0000" channel="Akaal Channel">
         <title>Akaal Glasgow: Rehraas Sahib</title>
     </programme>
-    <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="Akaal Channel">
+    <programme start="20250227180000 +0000" stop="20250227184500 +0000" channel="Akaal Channel">
         <title>Teleshopping: Pakistan Yatra</title>
+    </programme>
+    <programme start="20250227184500 +0000" stop="20250227190000 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="Akaal Channel">
         <title>Live: Save the Life 17 Years Old</title>
@@ -29880,16 +29859,10 @@
     <programme start="20250227213500 +0000" stop="20250227223500 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250227223500 +0000" stop="20250227232000 +0000" channel="Akaal Channel">
+    <programme start="20250227223500 +0000" stop="20250227233500 +0000" channel="Akaal Channel">
         <title>Teleshopping: Kenya Trip</title>
     </programme>
-    <programme start="20250227232000 +0000" stop="20250227233500 +0000" channel="Akaal Channel">
-        <title>Chalant Masle</title>
-    </programme>
-    <programme start="20250227233500 +0000" stop="20250227235000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250227235000 +0000" stop="20250228005000 +0000" channel="Akaal Channel">
+    <programme start="20250227233500 +0000" stop="20250228003500 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
     <programme start="20250226213000 +0000" stop="20250227000500 +0000" channel="Kanshi TV">
@@ -33561,10 +33534,10 @@
     <programme start="20250227060500 +0000" stop="20250227061500 +0000" channel="S4C HD">
         <title>Jambori</title>
     </programme>
-    <programme start="20250227061500 +0000" stop="20250227062500 +0000" channel="S4C HD">
+    <programme start="20250227061500 +0000" stop="20250227063000 +0000" channel="S4C HD">
         <title>Tomos a'i Ffrindiau</title>
     </programme>
-    <programme start="20250227062500 +0000" stop="20250227064000 +0000" channel="S4C HD">
+    <programme start="20250227063000 +0000" stop="20250227064000 +0000" channel="S4C HD">
         <title>Blero'n mynd i Ocido</title>
     </programme>
     <programme start="20250227064000 +0000" stop="20250227070000 +0000" channel="S4C HD">
@@ -33576,61 +33549,61 @@
     <programme start="20250227070500 +0000" stop="20250227072000 +0000" channel="S4C HD">
         <title>New: Fferm Fach</title>
     </programme>
-    <programme start="20250227072000 +0000" stop="20250227073000 +0000" channel="S4C HD">
+    <programme start="20250227072000 +0000" stop="20250227072500 +0000" channel="S4C HD">
         <title>Odo</title>
     </programme>
-    <programme start="20250227073000 +0000" stop="20250227074500 +0000" channel="S4C HD">
+    <programme start="20250227072500 +0000" stop="20250227074000 +0000" channel="S4C HD">
         <title>New: Guto Gwningen</title>
     </programme>
-    <programme start="20250227074500 +0000" stop="20250227080000 +0000" channel="S4C HD">
+    <programme start="20250227074000 +0000" stop="20250227080000 +0000" channel="S4C HD">
         <title>Amser Maith Maith Yn Ol</title>
     </programme>
     <programme start="20250227080000 +0000" stop="20250227080500 +0000" channel="S4C HD">
         <title>Olobobs</title>
     </programme>
-    <programme start="20250227080500 +0000" stop="20250227082000 +0000" channel="S4C HD">
+    <programme start="20250227080500 +0000" stop="20250227081500 +0000" channel="S4C HD">
         <title>Twt</title>
     </programme>
-    <programme start="20250227082000 +0000" stop="20250227083000 +0000" channel="S4C HD">
+    <programme start="20250227081500 +0000" stop="20250227082500 +0000" channel="S4C HD">
         <title>Shwshaswyn</title>
     </programme>
-    <programme start="20250227083000 +0000" stop="20250227084500 +0000" channel="S4C HD">
+    <programme start="20250227082500 +0000" stop="20250227083500 +0000" channel="S4C HD">
         <title>Sion y Chef</title>
     </programme>
-    <programme start="20250227084500 +0000" stop="20250227090000 +0000" channel="S4C HD">
+    <programme start="20250227083500 +0000" stop="20250227085000 +0000" channel="S4C HD">
         <title>Help Llaw</title>
     </programme>
-    <programme start="20250227090000 +0000" stop="20250227091000 +0000" channel="S4C HD">
+    <programme start="20250227085000 +0000" stop="20250227090000 +0000" channel="S4C HD">
         <title>Sam Tan</title>
     </programme>
-    <programme start="20250227091000 +0000" stop="20250227092500 +0000" channel="S4C HD">
+    <programme start="20250227090000 +0000" stop="20250227091500 +0000" channel="S4C HD">
         <title>Sbarc</title>
     </programme>
-    <programme start="20250227092500 +0000" stop="20250227093500 +0000" channel="S4C HD">
+    <programme start="20250227091500 +0000" stop="20250227093000 +0000" channel="S4C HD">
         <title>Da 'Di Dona</title>
     </programme>
-    <programme start="20250227093500 +0000" stop="20250227094500 +0000" channel="S4C HD">
+    <programme start="20250227093000 +0000" stop="20250227094000 +0000" channel="S4C HD">
         <title>Digbi Draig</title>
     </programme>
-    <programme start="20250227094500 +0000" stop="20250227100000 +0000" channel="S4C HD">
+    <programme start="20250227094000 +0000" stop="20250227100000 +0000" channel="S4C HD">
         <title>Ahoi!</title>
     </programme>
-    <programme start="20250227100000 +0000" stop="20250227100500 +0000" channel="S4C HD">
+    <programme start="20250227100000 +0000" stop="20250227101000 +0000" channel="S4C HD">
         <title>Brethyn a Fflwff</title>
     </programme>
-    <programme start="20250227100500 +0000" stop="20250227101500 +0000" channel="S4C HD">
+    <programme start="20250227101000 +0000" stop="20250227102000 +0000" channel="S4C HD">
         <title>Cymylaubychain</title>
     </programme>
-    <programme start="20250227101500 +0000" stop="20250227103000 +0000" channel="S4C HD">
+    <programme start="20250227102000 +0000" stop="20250227103500 +0000" channel="S4C HD">
         <title>Jen a Jim a'r Cywiadur</title>
     </programme>
-    <programme start="20250227103000 +0000" stop="20250227104000 +0000" channel="S4C HD">
+    <programme start="20250227103500 +0000" stop="20250227104500 +0000" channel="S4C HD">
         <title>Sam Tan</title>
     </programme>
-    <programme start="20250227104000 +0000" stop="20250227105500 +0000" channel="S4C HD">
+    <programme start="20250227104500 +0000" stop="20250227110000 +0000" channel="S4C HD">
         <title>Cacamwnci</title>
     </programme>
-    <programme start="20250227105500 +0000" stop="20250227110500 +0000" channel="S4C HD">
+    <programme start="20250227110000 +0000" stop="20250227110500 +0000" channel="S4C HD">
         <title>Sblij a Sbloj</title>
     </programme>
     <programme start="20250227110500 +0000" stop="20250227112000 +0000" channel="S4C HD">
@@ -33678,10 +33651,10 @@
     <programme start="20250227160500 +0000" stop="20250227161500 +0000" channel="S4C HD">
         <title>Caru Canu a Stori</title>
     </programme>
-    <programme start="20250227161500 +0000" stop="20250227163000 +0000" channel="S4C HD">
+    <programme start="20250227161500 +0000" stop="20250227163500 +0000" channel="S4C HD">
         <title>Byd Tad-cu</title>
     </programme>
-    <programme start="20250227163000 +0000" stop="20250227164500 +0000" channel="S4C HD">
+    <programme start="20250227163500 +0000" stop="20250227164500 +0000" channel="S4C HD">
         <title>Guto Gwningen</title>
     </programme>
     <programme start="20250227164500 +0000" stop="20250227170000 +0000" channel="S4C HD">
@@ -37831,7 +37804,7 @@
         <title>Dan Walker</title>
     </programme>
     <programme start="20250227090000 +0000" stop="20250227100000 +0000" channel="Classic FM">
-        <title>Hall of Fame</title>
+        <title>The Classic FM Hall of Fame Hour</title>
     </programme>
     <programme start="20250227100000 +0000" stop="20250227130000 +0000" channel="Classic FM">
         <title>Alexander Armstrong</title>
@@ -39054,7 +39027,7 @@
     <programme start="20250227232500 +0000" stop="20250228002500 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
     </programme>
-    <programme start="20250226170000 +0000" stop="20250227000000 +0000" channel="BBC R5SX">
+    <programme start="20250226180000 +0000" stop="20250227000000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250227000000 +0000" stop="20250227060000 +0000" channel="BBC R5SX">
