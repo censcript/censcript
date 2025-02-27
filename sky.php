@@ -13998,11 +13998,8 @@
     <programme start="20250227110000 +0000" stop="20250227111500 +0000" channel="Eurosport 2 HD">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250227111500 +0000" stop="20250227133500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250227111500 +0000" stop="20250227134500 +0000" channel="Eurosport 2 HD">
         <title>Live: Cross-Country Skiing...</title>
-    </programme>
-    <programme start="20250227133500 +0000" stop="20250227134500 +0000" channel="Eurosport 2 HD">
-        <title>Nordic Combined Skiing: World Cup</title>
     </programme>
     <programme start="20250227134500 +0000" stop="20250227144500 +0000" channel="Eurosport 2 HD">
         <title>Live: Nordic Combined Skiing...</title>
@@ -15877,7 +15874,7 @@
         <title>News</title>
     </programme>
     <programme start="20250227100000 +0000" stop="20250227103000 +0000" channel="NDTV World">
-        <title>Sponsored Feature</title>
+        <title>Banega Swasth India - The Footprint</title>
     </programme>
     <programme start="20250227103000 +0000" stop="20250227113000 +0000" channel="NDTV World">
         <title>News</title>
@@ -34608,11 +34605,8 @@
     <programme start="20250227110000 +0000" stop="20250227111500 +0000" channel="Eurosport 2">
         <title>Winter Sport</title>
     </programme>
-    <programme start="20250227111500 +0000" stop="20250227133500 +0000" channel="Eurosport 2">
+    <programme start="20250227111500 +0000" stop="20250227134500 +0000" channel="Eurosport 2">
         <title>Live: Cross-Country Skiing...</title>
-    </programme>
-    <programme start="20250227133500 +0000" stop="20250227134500 +0000" channel="Eurosport 2">
-        <title>Nordic Combined Skiing: World Cup</title>
     </programme>
     <programme start="20250227134500 +0000" stop="20250227144500 +0000" channel="Eurosport 2">
         <title>Live: Nordic Combined Skiing...</title>
