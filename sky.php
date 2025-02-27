@@ -30262,13 +30262,13 @@
         <title>Esho Quran Shikhi</title>
     </programme>
     <programme start="20250227113000 +0000" stop="20250227122000 +0000" channel="CHSTV">
-        <title>On The Ground</title>
+        <title>Islam Ke Bole</title>
     </programme>
-    <programme start="20250227122000 +0000" stop="20250227122500 +0000" channel="CHSTV">
+    <programme start="20250227122000 +0000" stop="20250227122600 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250227122500 +0000" stop="20250227130000 +0000" channel="CHSTV">
-        <title>On The Ground</title>
+    <programme start="20250227122600 +0000" stop="20250227130000 +0000" channel="CHSTV">
+        <title>Islam Ke Bole</title>
     </programme>
     <programme start="20250227130000 +0000" stop="20250227133000 +0000" channel="CHSTV">
         <title>Amader Gram</title>
@@ -30279,47 +30279,44 @@
     <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250227143000 +0000" stop="20250227150000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
+    <programme start="20250227143000 +0000" stop="20250227154600 +0000" channel="CHSTV">
+        <title>Golpota Amader</title>
     </programme>
-    <programme start="20250227150000 +0000" stop="20250227151100 +0000" channel="CHSTV">
-        <title>Noakhalite Foreign Bou</title>
-    </programme>
-    <programme start="20250227151100 +0000" stop="20250227151500 +0000" channel="CHSTV">
+    <programme start="20250227154600 +0000" stop="20250227155200 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250227151500 +0000" stop="20250227161500 +0000" channel="CHSTV">
-        <title>Noakhalite Foreign Bou</title>
+    <programme start="20250227155200 +0000" stop="20250227162500 +0000" channel="CHSTV">
+        <title>Golpota Amader</title>
     </programme>
-    <programme start="20250227161500 +0000" stop="20250227170300 +0000" channel="CHSTV">
+    <programme start="20250227162500 +0000" stop="20250227170000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250227170300 +0000" stop="20250227183600 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
-    </programme>
-    <programme start="20250227183600 +0000" stop="20250227184100 +0000" channel="CHSTV">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250227184100 +0000" stop="20250227190000 +0000" channel="CHSTV">
+    <programme start="20250227170000 +0000" stop="20250227172000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250227190000 +0000" stop="20250227193000 +0000" channel="CHSTV">
+    <programme start="20250227172000 +0000" stop="20250227174100 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250227193000 +0000" stop="20250227200000 +0000" channel="CHSTV">
-        <title>Sharirik Shikkha</title>
+    <programme start="20250227174100 +0000" stop="20250227174700 +0000" channel="CHSTV">
+        <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250227200000 +0000" stop="20250227213000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
+    <programme start="20250227174700 +0000" stop="20250227180000 +0000" channel="CHSTV">
+        <title>Independent News</title>
     </programme>
-    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="CHSTV">
-        <title>Haat Bazar</title>
+    <programme start="20250227180000 +0000" stop="20250227190800 +0000" channel="CHSTV">
+        <title>RFC Charity Appeal</title>
+    </programme>
+    <programme start="20250227190800 +0000" stop="20250227191300 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250227191300 +0000" stop="20250227220000 +0000" channel="CHSTV">
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="CHSTV">
-        <title>Amar Gao</title>
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="IQRA Bangla">
         <title>Tafseer-Ul-Qur'an</title>
