@@ -13911,10 +13911,13 @@
     <programme start="20250227040000 +0000" stop="20250227060000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250227060000 +0000" stop="20250227090000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250227060000 +0000" stop="20250227083000 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250227090000 +0000" stop="20250227104500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250227083000 +0000" stop="20250227085000 +0000" channel="Eurosport 1 HD">
+        <title>Snooker: World Open</title>
+    </programme>
+    <programme start="20250227085000 +0000" stop="20250227104500 +0000" channel="Eurosport 1 HD">
         <title>Live: Cross-Country Skiing...</title>
     </programme>
     <programme start="20250227104500 +0000" stop="20250227113000 +0000" channel="Eurosport 1 HD">
@@ -34656,10 +34659,13 @@
     <programme start="20250227040000 +0000" stop="20250227060000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250227060000 +0000" stop="20250227090000 +0000" channel="Eurosport 1">
+    <programme start="20250227060000 +0000" stop="20250227083000 +0000" channel="Eurosport 1">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250227090000 +0000" stop="20250227104500 +0000" channel="Eurosport 1">
+    <programme start="20250227083000 +0000" stop="20250227085000 +0000" channel="Eurosport 1">
+        <title>Snooker: World Open</title>
+    </programme>
+    <programme start="20250227085000 +0000" stop="20250227104500 +0000" channel="Eurosport 1">
         <title>Live: Cross-Country Skiing...</title>
     </programme>
     <programme start="20250227104500 +0000" stop="20250227113000 +0000" channel="Eurosport 1">
