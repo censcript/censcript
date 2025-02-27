@@ -14499,41 +14499,38 @@
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="LFCTV HD">
         <title>Liverpool v Newcastle United: The Match</title>
     </programme>
-    <programme start="20250227220000 +0000" stop="20250227234500 +0000" channel="Racing TV">
+    <programme start="20250227220000 +0000" stop="20250228000000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250227234500 +0000" stop="20250228004500 +0000" channel="Racing TV">
+    <programme start="20250228000000 +0000" stop="20250228010000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228004500 +0000" stop="20250228023000 +0000" channel="Racing TV">
+    <programme start="20250228010000 +0000" stop="20250228030000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228023000 +0000" stop="20250228033000 +0000" channel="Racing TV">
+    <programme start="20250228030000 +0000" stop="20250228040000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228033000 +0000" stop="20250228051500 +0000" channel="Racing TV">
+    <programme start="20250228040000 +0000" stop="20250228060000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228051500 +0000" stop="20250228061500 +0000" channel="Racing TV">
+    <programme start="20250228060000 +0000" stop="20250228070000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228061500 +0000" stop="20250228080000 +0000" channel="Racing TV">
+    <programme start="20250228070000 +0000" stop="20250228090000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228080000 +0000" stop="20250228090000 +0000" channel="Racing TV">
+    <programme start="20250228090000 +0000" stop="20250228100000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228090000 +0000" stop="20250228104500 +0000" channel="Racing TV">
+    <programme start="20250228100000 +0000" stop="20250228120000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228104500 +0000" stop="20250228114500 +0000" channel="Racing TV">
+    <programme start="20250228120000 +0000" stop="20250228130000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228114500 +0000" stop="20250228133000 +0000" channel="Racing TV">
+    <programme start="20250228130000 +0000" stop="20250228141500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
-    </programme>
-    <programme start="20250228133000 +0000" stop="20250228141500 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250228141500 +0000" stop="20250228151500 +0000" channel="Racing TV">
         <title>Road To Cheltenham</title>
@@ -14958,29 +14955,29 @@
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC NEWS HD">
         <title>The President's Path</title>
     </programme>
-    <programme start="20250227222000 +0000" stop="20250227232000 +0000" channel="BBC Parl HD">
+    <programme start="20250227222000 +0000" stop="20250227230500 +0000" channel="BBC Parl HD">
         <title>House of Lords - British Citizens Held by Iran</title>
     </programme>
-    <programme start="20250227232000 +0000" stop="20250228015000 +0000" channel="BBC Parl HD">
+    <programme start="20250227230500 +0000" stop="20250228011000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Pre-Nuptial Agreements</title>
     </programme>
-    <programme start="20250228015000 +0000" stop="20250228023000 +0000" channel="BBC Parl HD">
+    <programme start="20250228011000 +0000" stop="20250228014500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Grenfell Inquiry Phase 2 Report</title>
     </programme>
-    <programme start="20250228023000 +0000" stop="20250228031000 +0000" channel="BBC Parl HD">
+    <programme start="20250228014500 +0000" stop="20250228022500 +0000" channel="BBC Parl HD">
         <title>Culture, Media and Sport Questions</title>
     </programme>
-    <programme start="20250228031000 +0000" stop="20250228033000 +0000" channel="BBC Parl HD">
+    <programme start="20250228022500 +0000" stop="20250228025000 +0000" channel="BBC Parl HD">
         <title>Commissioners Questions</title>
     </programme>
-    <programme start="20250228033000 +0000" stop="20250228043000 +0000" channel="BBC Parl HD">
-        <title>Commons Business Questions</title>
-    </programme>
-    <programme start="20250228043000 +0000" stop="20250228051500 +0000" channel="BBC Parl HD">
+    <programme start="20250228025000 +0000" stop="20250228032500 +0000" channel="BBC Parl HD">
         <title>BBC Gaza Coverage Urgent Question</title>
     </programme>
-    <programme start="20250228051500 +0000" stop="20250228060000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250228032500 +0000" stop="20250228053000 +0000" channel="BBC Parl HD">
+        <title>Environment, Food and Rural...</title>
+    </programme>
+    <programme start="20250228053000 +0000" stop="20250228060000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Office Questions</title>
     </programme>
     <programme start="20250228060000 +0000" stop="20250228084000 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
@@ -30213,11 +30210,8 @@
     <programme start="20250228150000 +0000" stop="20250228154700 +0000" channel="IQRA Bangla">
         <title>Islamer Shikkha</title>
     </programme>
-    <programme start="20250228154700 +0000" stop="20250228155200 +0000" channel="IQRA Bangla">
+    <programme start="20250228154700 +0000" stop="20250228160000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250228155200 +0000" stop="20250228160000 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250228160000 +0000" stop="20250228163000 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
@@ -30232,22 +30226,13 @@
         <title>Our Masjid</title>
     </programme>
     <programme start="20250228183000 +0000" stop="20250228191000 +0000" channel="IQRA Bangla">
-        <title>Iman o Amal</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250228191500 +0000" stop="20250228193000 +0000" channel="IQRA Bangla">
-        <title>Iman o Amal</title>
-    </programme>
-    <programme start="20250228193000 +0000" stop="20250228200000 +0000" channel="IQRA Bangla">
-        <title>Islamic Stories</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228203000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
-    </programme>
-    <programme start="20250228203000 +0000" stop="20250228213000 +0000" channel="IQRA Bangla">
-        <title>National Seerah Conference</title>
+    <programme start="20250228191500 +0000" stop="20250228201500 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250228000000 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -30682,7 +30667,7 @@
         <title>Quranic Arabic</title>
     </programme>
     <programme start="20250228090000 +0000" stop="20250228100000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Srestho Manushera</title>
     </programme>
     <programme start="20250228100000 +0000" stop="20250228103000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30691,10 +30676,10 @@
         <title>News 24</title>
     </programme>
     <programme start="20250228110000 +0000" stop="20250228120000 +0000" channel="iON TV">
-        <title>Nasheed</title>
+        <title>Akhsaru Tafaseer</title>
     </programme>
     <programme start="20250228120000 +0000" stop="20250228121800 +0000" channel="iON TV">
-        <title>Dream Home</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250228121800 +0000" stop="20250228122300 +0000" channel="iON TV">
         <title>Azan-e-Jummah</title>
@@ -30712,7 +30697,7 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250228150000 +0000" stop="20250228153000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250228153000 +0000" stop="20250228154700 +0000" channel="iON TV">
         <title>Madinar Alo</title>
@@ -30930,16 +30915,16 @@
     <programme start="20250228140500 +0000" stop="20250228143000 +0000" channel="Islam Bangla">
         <title>Muhammad: Final Legacy</title>
     </programme>
-    <programme start="20250228143000 +0000" stop="20250228145400 +0000" channel="Islam Bangla">
+    <programme start="20250228143000 +0000" stop="20250228150000 +0000" channel="Islam Bangla">
         <title>Riyad-us-Saliheen</title>
     </programme>
-    <programme start="20250228145400 +0000" stop="20250228145800 +0000" channel="Islam Bangla">
+    <programme start="20250228150000 +0000" stop="20250228150400 +0000" channel="Islam Bangla">
         <title>Jummah Khutba from Madinah</title>
     </programme>
-    <programme start="20250228145800 +0000" stop="20250228150300 +0000" channel="Islam Bangla">
+    <programme start="20250228150400 +0000" stop="20250228150900 +0000" channel="Islam Bangla">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250228150300 +0000" stop="20250228152800 +0000" channel="Islam Bangla">
+    <programme start="20250228150900 +0000" stop="20250228152800 +0000" channel="Islam Bangla">
         <title>Jummah Khutba from Madinah</title>
     </programme>
     <programme start="20250228152800 +0000" stop="20250228154800 +0000" channel="Islam Bangla">
@@ -34737,41 +34722,38 @@
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="TNTSports4 HD">
         <title>West Ham United v Leicester City</title>
     </programme>
-    <programme start="20250227220000 +0000" stop="20250227234500 +0000" channel="Racing TV HD">
+    <programme start="20250227220000 +0000" stop="20250228000000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250227234500 +0000" stop="20250228004500 +0000" channel="Racing TV HD">
+    <programme start="20250228000000 +0000" stop="20250228010000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228004500 +0000" stop="20250228023000 +0000" channel="Racing TV HD">
+    <programme start="20250228010000 +0000" stop="20250228030000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228023000 +0000" stop="20250228033000 +0000" channel="Racing TV HD">
+    <programme start="20250228030000 +0000" stop="20250228040000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228033000 +0000" stop="20250228051500 +0000" channel="Racing TV HD">
+    <programme start="20250228040000 +0000" stop="20250228060000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228051500 +0000" stop="20250228061500 +0000" channel="Racing TV HD">
+    <programme start="20250228060000 +0000" stop="20250228070000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228061500 +0000" stop="20250228080000 +0000" channel="Racing TV HD">
+    <programme start="20250228070000 +0000" stop="20250228090000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228080000 +0000" stop="20250228090000 +0000" channel="Racing TV HD">
+    <programme start="20250228090000 +0000" stop="20250228100000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228090000 +0000" stop="20250228104500 +0000" channel="Racing TV HD">
+    <programme start="20250228100000 +0000" stop="20250228120000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250228104500 +0000" stop="20250228114500 +0000" channel="Racing TV HD">
+    <programme start="20250228120000 +0000" stop="20250228130000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250228114500 +0000" stop="20250228133000 +0000" channel="Racing TV HD">
+    <programme start="20250228130000 +0000" stop="20250228141500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
-    </programme>
-    <programme start="20250228133000 +0000" stop="20250228141500 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250228141500 +0000" stop="20250228151500 +0000" channel="Racing TV HD">
         <title>Road To Cheltenham</title>
@@ -36771,87 +36753,7 @@
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC One ScotHD">
         <title>The Chief</title>
     </programme>
-    <programme start="20250227224000 +0000" stop="20250227234000 +0000" channel="BBC One Wal HD">
-        <title>Question Time</title>
-    </programme>
-    <programme start="20250227234000 +0000" stop="20250228001000 +0000" channel="BBC One Wal HD">
-        <title>Newscast</title>
-    </programme>
-    <programme start="20250228001000 +0000" stop="20250228011000 +0000" channel="BBC One Wal HD">
-        <title>The Traitors US</title>
-    </programme>
-    <programme start="20250228011000 +0000" stop="20250228011500 +0000" channel="BBC One Wal HD">
-        <title>Weather for the Week Ahead</title>
-    </programme>
-    <programme start="20250228011500 +0000" stop="20250228060000 +0000" channel="BBC One Wal HD">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20250228060000 +0000" stop="20250228093000 +0000" channel="BBC One Wal HD">
-        <title>Breakfast</title>
-    </programme>
-    <programme start="20250228093000 +0000" stop="20250228104500 +0000" channel="BBC One Wal HD">
-        <title>Morning Live</title>
-    </programme>
-    <programme start="20250228104500 +0000" stop="20250228111500 +0000" channel="BBC One Wal HD">
-        <title>Critical Incident</title>
-    </programme>
-    <programme start="20250228111500 +0000" stop="20250228121500 +0000" channel="BBC One Wal HD">
-        <title>Homes Under the Hammer</title>
-    </programme>
-    <programme start="20250228121500 +0000" stop="20250228130000 +0000" channel="BBC One Wal HD">
-        <title>Bargain Hunt</title>
-    </programme>
-    <programme start="20250228130000 +0000" stop="20250228140000 +0000" channel="BBC One Wal HD">
-        <title>BBC News at One including Wales Today</title>
-    </programme>
-    <programme start="20250228140000 +0000" stop="20250228144500 +0000" channel="BBC One Wal HD">
-        <title>Father Brown</title>
-    </programme>
-    <programme start="20250228144500 +0000" stop="20250228154500 +0000" channel="BBC One Wal HD">
-        <title>Escape to the Country</title>
-    </programme>
-    <programme start="20250228154500 +0000" stop="20250228163000 +0000" channel="BBC One Wal HD">
-        <title>Garden Rescue</title>
-    </programme>
-    <programme start="20250228163000 +0000" stop="20250228171500 +0000" channel="BBC One Wal HD">
-        <title>Antiques Road Trip</title>
-    </programme>
-    <programme start="20250228171500 +0000" stop="20250228180000 +0000" channel="BBC One Wal HD">
-        <title>Pointless</title>
-    </programme>
-    <programme start="20250228180000 +0000" stop="20250228183000 +0000" channel="BBC One Wal HD">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20250228183000 +0000" stop="20250228190000 +0000" channel="BBC One Wal HD">
-        <title>BBC Wales Today</title>
-    </programme>
-    <programme start="20250228190000 +0000" stop="20250228193000 +0000" channel="BBC One Wal HD">
-        <title>Six Nations Greatest Moments</title>
-    </programme>
-    <programme start="20250228193000 +0000" stop="20250228200000 +0000" channel="BBC One Wal HD">
-        <title>Extraordinary Portraits with Bill Bailey</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228203000 +0000" channel="BBC One Wal HD">
-        <title>New: Would I Lie to You?</title>
-    </programme>
-    <programme start="20250228203000 +0000" stop="20250228210000 +0000" channel="BBC One Wal HD">
-        <title>Amanda &amp; Alan's Spanish Job</title>
-    </programme>
-    <programme start="20250228210000 +0000" stop="20250228220000 +0000" channel="BBC One Wal HD">
-        <title>Death in Paradise</title>
-    </programme>
-    <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="BBC One Wal HD">
-        <title>BBC News and Weather</title>
-    </programme>
-    <programme start="20250228223000 +0000" stop="20250228224000 +0000" channel="BBC One Wal HD">
-        <title>BBC Wales Today</title>
-    </programme>
-    <programme start="20250228224000 +0000" stop="20250228233000 +0000" channel="BBC One Wal HD">
-        <title>The Graham Norton Show</title>
-    </programme>
-    <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC One Wal HD">
-        <title>The Last Letter from Your Lover</title>
-    </programme>
+    <!-- Error: Data tidak ditemukan untuk channel ID 2083 -->
     <programme start="20250227224000 +0000" stop="20250227232000 +0000" channel="BBC One NI HD">
         <title>The View</title>
     </programme>
