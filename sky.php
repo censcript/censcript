@@ -15012,11 +15012,11 @@
     <programme start="20250228224000 +0000" stop="20250228230000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - General Questions</title>
     </programme>
-    <programme start="20250228230000 +0000" stop="20250228234500 +0000" channel="BBC Parl HD">
+    <programme start="20250228230000 +0000" stop="20250228235000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250228234500 +0000" stop="20250301004500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250228235000 +0000" stop="20250301005000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Constitution Questions</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -29007,98 +29007,71 @@
     <programme start="20250228083000 +0000" stop="20250228090000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250228090000 +0000" stop="20250228091800 +0000" channel="Eman Channel">
+    <programme start="20250228090000 +0000" stop="20250228091500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250228091800 +0000" stop="20250228100000 +0000" channel="Eman Channel">
-        <title>Live Friday Prayers from Madinah</title>
+    <programme start="20250228091500 +0000" stop="20250228120000 +0000" channel="Eman Channel">
+        <title>Preparing For Ramadan</title>
     </programme>
-    <programme start="20250228100000 +0000" stop="20250228110000 +0000" channel="Eman Channel">
-        <title>Madrasah TV</title>
-    </programme>
-    <programme start="20250228110000 +0000" stop="20250228112700 +0000" channel="Eman Channel">
-        <title>Finding the Balance</title>
-    </programme>
-    <programme start="20250228112700 +0000" stop="20250228115500 +0000" channel="Eman Channel">
-        <title>Stories Told by My Prophet</title>
-    </programme>
-    <programme start="20250228115500 +0000" stop="20250228122000 +0000" channel="Eman Channel">
+    <programme start="20250228120000 +0000" stop="20250228121800 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250228122000 +0000" stop="20250228123000 +0000" channel="Eman Channel">
+    <programme start="20250228121800 +0000" stop="20250228122300 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250228123000 +0000" stop="20250228130000 +0000" channel="Eman Channel">
-        <title>The Promise Of Al Kahf</title>
+    <programme start="20250228122300 +0000" stop="20250228124800 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
+    </programme>
+    <programme start="20250228124800 +0000" stop="20250228130000 +0000" channel="Eman Channel">
+        <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250228130000 +0000" stop="20250228140000 +0000" channel="Eman Channel">
-        <title>Alif Laam Meem REPEAT</title>
+        <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250228140000 +0000" stop="20250228141500 +0000" channel="Eman Channel">
-        <title>Unlocking the Confident Muslimah</title>
+        <title>Meeting Muhammad</title>
     </programme>
-    <programme start="20250228141500 +0000" stop="20250228143500 +0000" channel="Eman Channel">
-        <title>His Wives, our Mothers</title>
+    <programme start="20250228141500 +0000" stop="20250228143000 +0000" channel="Eman Channel">
+        <title>Dweller of the Well</title>
     </programme>
-    <programme start="20250228143500 +0000" stop="20250228144000 +0000" channel="Eman Channel">
+    <programme start="20250228143000 +0000" stop="20250228150500 +0000" channel="Eman Channel">
+        <title>When Is Ramadan</title>
+    </programme>
+    <programme start="20250228150500 +0000" stop="20250228151000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250228144000 +0000" stop="20250228145000 +0000" channel="Eman Channel">
-        <title>His Wives, our Mothers</title>
+    <programme start="20250228151000 +0000" stop="20250228153000 +0000" channel="Eman Channel">
+        <title>When Is Ramadan</title>
     </programme>
-    <programme start="20250228145000 +0000" stop="20250228150000 +0000" channel="Eman Channel">
-        <title>Once Upon a Time</title>
-    </programme>
-    <programme start="20250228150000 +0000" stop="20250228151500 +0000" channel="Eman Channel">
-        <title>Couch Potatoes</title>
-    </programme>
-    <programme start="20250228151500 +0000" stop="20250228154500 +0000" channel="Eman Channel">
-        <title>Snack Attack</title>
-    </programme>
-    <programme start="20250228154500 +0000" stop="20250228160000 +0000" channel="Eman Channel">
-        <title>Once Upon A Time (Huda)</title>
-    </programme>
-    <programme start="20250228160000 +0000" stop="20250228170000 +0000" channel="Eman Channel">
-        <title>Live: Madrasah TV</title>
-    </programme>
-    <programme start="20250228170000 +0000" stop="20250228170400 +0000" channel="Eman Channel">
-        <title>Qur'an Time</title>
-    </programme>
-    <programme start="20250228170400 +0000" stop="20250228170900 +0000" channel="Eman Channel">
-        <title>Maghrib Adhan</title>
-    </programme>
-    <programme start="20250228170900 +0000" stop="20250228172000 +0000" channel="Eman Channel">
-        <title>Blessed Home</title>
-    </programme>
-    <programme start="20250228172000 +0000" stop="20250228173500 +0000" channel="Eman Channel">
-        <title>Qur'an Time</title>
-    </programme>
-    <programme start="20250228173500 +0000" stop="20250228175000 +0000" channel="Eman Channel">
+    <programme start="20250228153000 +0000" stop="20250228154500 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250228175000 +0000" stop="20250228180000 +0000" channel="Eman Channel">
+    <programme start="20250228154500 +0000" stop="20250228160000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
-    <programme start="20250228180000 +0000" stop="20250228183600 +0000" channel="Eman Channel">
-        <title>Alif Laam Meem</title>
+    <programme start="20250228160000 +0000" stop="20250228170000 +0000" channel="Eman Channel">
+        <title>Gems for Ramadan</title>
     </programme>
-    <programme start="20250228183600 +0000" stop="20250228184200 +0000" channel="Eman Channel">
+    <programme start="20250228170000 +0000" stop="20250228171500 +0000" channel="Eman Channel">
+        <title>Omar Suleiman</title>
+    </programme>
+    <programme start="20250228171500 +0000" stop="20250228173000 +0000" channel="Eman Channel">
+        <title>Mufti Menk</title>
+    </programme>
+    <programme start="20250228173000 +0000" stop="20250228174300 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
+    </programme>
+    <programme start="20250228174300 +0000" stop="20250228175500 +0000" channel="Eman Channel">
+        <title>Maghrib Adhan</title>
+    </programme>
+    <programme start="20250228175500 +0000" stop="20250228191000 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
+    </programme>
+    <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250228184200 +0000" stop="20250228190000 +0000" channel="Eman Channel">
-        <title>Alif Laam Meem</title>
-    </programme>
-    <programme start="20250228190000 +0000" stop="20250228191500 +0000" channel="Eman Channel">
-        <title>Evening Remembrance</title>
-    </programme>
-    <programme start="20250228191500 +0000" stop="20250228193000 +0000" channel="Eman Channel">
-        <title>Return to Faith</title>
-    </programme>
-    <programme start="20250228193000 +0000" stop="20250228200000 +0000" channel="Eman Channel">
-        <title>Fiqh of Love</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="Eman Channel">
-        <title>Charity Appeal with Ehsaas Trust</title>
+    <programme start="20250228191500 +0000" stop="20250228201500 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227233000 +0000" channel="ARY Digital">
         <title>Khudsar</title>
@@ -30535,7 +30508,7 @@
         <title>Praner Sur</title>
     </programme>
     <programme start="20250228074500 +0000" stop="20250228080000 +0000" channel="TV One">
-        <title>Story Time with Sarah</title>
+        <title>Story Time with Ruksana</title>
     </programme>
     <programme start="20250228080000 +0000" stop="20250228081500 +0000" channel="TV One">
         <title>Quraner Paray</title>
@@ -30547,7 +30520,7 @@
         <title>TV One News</title>
     </programme>
     <programme start="20250228093000 +0000" stop="20250228103000 +0000" channel="TV One">
-        <title>Jummah Prayer Live from Kabah</title>
+        <title>Live from Kabah</title>
     </programme>
     <programme start="20250228103000 +0000" stop="20250228110000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
@@ -30555,80 +30528,65 @@
     <programme start="20250228110000 +0000" stop="20250228120000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250228120000 +0000" stop="20250228120500 +0000" channel="TV One">
+    <programme start="20250228120000 +0000" stop="20250228121000 +0000" channel="TV One">
         <title>Light Of Jummah</title>
     </programme>
-    <programme start="20250228120500 +0000" stop="20250228122000 +0000" channel="TV One">
+    <programme start="20250228121000 +0000" stop="20250228121800 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250228122000 +0000" stop="20250228122500 +0000" channel="TV One">
+    <programme start="20250228121800 +0000" stop="20250228122500 +0000" channel="TV One">
         <title>Jummah Azaan</title>
     </programme>
-    <programme start="20250228122500 +0000" stop="20250228125500 +0000" channel="TV One">
+    <programme start="20250228122500 +0000" stop="20250228130000 +0000" channel="TV One">
         <title>Angels In Their Presence</title>
     </programme>
-    <programme start="20250228125500 +0000" stop="20250228132500 +0000" channel="TV One">
+    <programme start="20250228130000 +0000" stop="20250228133000 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250228132500 +0000" stop="20250228133500 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250228133500 +0000" stop="20250228140000 +0000" channel="TV One">
+    <programme start="20250228133000 +0000" stop="20250228140000 +0000" channel="TV One">
         <title>The Entrepreneur</title>
     </programme>
-    <programme start="20250228140000 +0000" stop="20250228143000 +0000" channel="TV One">
-        <title>Articles of Faith</title>
+    <programme start="20250228140000 +0000" stop="20250228150000 +0000" channel="TV One">
+        <title>Get Preparation</title>
     </programme>
-    <programme start="20250228143000 +0000" stop="20250228144500 +0000" channel="TV One">
+    <programme start="20250228150000 +0000" stop="20250228151500 +0000" channel="TV One">
         <title>Muhammad Peace be Upon Him</title>
     </programme>
-    <programme start="20250228144500 +0000" stop="20250228145500 +0000" channel="TV One">
+    <programme start="20250228151500 +0000" stop="20250228153000 +0000" channel="TV One">
         <title>Light Of Jummah</title>
     </programme>
-    <programme start="20250228145500 +0000" stop="20250228151300 +0000" channel="TV One">
+    <programme start="20250228153000 +0000" stop="20250228154700 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250228151300 +0000" stop="20250228152000 +0000" channel="TV One">
+    <programme start="20250228154700 +0000" stop="20250228160000 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
-    <programme start="20250228152000 +0000" stop="20250228154500 +0000" channel="TV One">
-        <title>Maghrib Prayer Live From Kabah</title>
+    <programme start="20250228160000 +0000" stop="20250228164500 +0000" channel="TV One">
+        <title>360 Degree</title>
     </programme>
-    <programme start="20250228154500 +0000" stop="20250228164500 +0000" channel="TV One">
-        <title>News Room</title>
+    <programme start="20250228164500 +0000" stop="20250228170000 +0000" channel="TV One">
+        <title>Praner Sur</title>
     </programme>
-    <programme start="20250228164500 +0000" stop="20250228170400 +0000" channel="TV One">
-        <title>Nouman Ali Khan:Illustrated</title>
+    <programme start="20250228170000 +0000" stop="20250228174300 +0000" channel="TV One">
+        <title>Live Appeal with Muslim Hands</title>
     </programme>
-    <programme start="20250228170400 +0000" stop="20250228171000 +0000" channel="TV One">
+    <programme start="20250228174300 +0000" stop="20250228175000 +0000" channel="TV One">
         <title>Maghrib Azaan</title>
     </programme>
-    <programme start="20250228171000 +0000" stop="20250228181000 +0000" channel="TV One">
-        <title>Reflections from the ka'ba</title>
+    <programme start="20250228175000 +0000" stop="20250228191000 +0000" channel="TV One">
+        <title>Live Appeal with Muslim Hands</title>
     </programme>
-    <programme start="20250228181000 +0000" stop="20250228182500 +0000" channel="TV One">
-        <title>Story Time with Sarah</title>
-    </programme>
-    <programme start="20250228182500 +0000" stop="20250228183000 +0000" channel="TV One">
-        <title>Documentary -Inspired by Islam</title>
-    </programme>
-    <programme start="20250228183000 +0000" stop="20250228183600 +0000" channel="TV One">
-        <title>Evening News</title>
-    </programme>
-    <programme start="20250228183600 +0000" stop="20250228184000 +0000" channel="TV One">
+    <programme start="20250228191000 +0000" stop="20250228192000 +0000" channel="TV One">
         <title>Isha Azaan</title>
     </programme>
-    <programme start="20250228184000 +0000" stop="20250228190000 +0000" channel="TV One">
-        <title>Evening News</title>
-    </programme>
-    <programme start="20250228190000 +0000" stop="20250228220000 +0000" channel="TV One">
-        <title>Live Charity Appeal for IBI</title>
+    <programme start="20250228192000 +0000" stop="20250228220000 +0000" channel="TV One">
+        <title>Live Appeal with Muslim Hands</title>
     </programme>
     <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
     <programme start="20250228223000 +0000" stop="20250228233000 +0000" channel="TV One">
-        <title>Live Charity Appeal for IBI</title>
+        <title>Live Appeal with Muslim Hands</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="iON TV">
         <title>Charity Appeal</title>
@@ -36753,7 +36711,87 @@
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC One ScotHD">
         <title>The Chief</title>
     </programme>
-    <!-- Error: Data tidak ditemukan untuk channel ID 2083 -->
+    <programme start="20250227224000 +0000" stop="20250227234000 +0000" channel="BBC One Wal HD">
+        <title>Question Time</title>
+    </programme>
+    <programme start="20250227234000 +0000" stop="20250228001000 +0000" channel="BBC One Wal HD">
+        <title>Newscast</title>
+    </programme>
+    <programme start="20250228001000 +0000" stop="20250228011000 +0000" channel="BBC One Wal HD">
+        <title>The Traitors US</title>
+    </programme>
+    <programme start="20250228011000 +0000" stop="20250228011500 +0000" channel="BBC One Wal HD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250228011500 +0000" stop="20250228060000 +0000" channel="BBC One Wal HD">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250228060000 +0000" stop="20250228093000 +0000" channel="BBC One Wal HD">
+        <title>Breakfast</title>
+    </programme>
+    <programme start="20250228093000 +0000" stop="20250228104500 +0000" channel="BBC One Wal HD">
+        <title>Morning Live</title>
+    </programme>
+    <programme start="20250228104500 +0000" stop="20250228111500 +0000" channel="BBC One Wal HD">
+        <title>Critical Incident</title>
+    </programme>
+    <programme start="20250228111500 +0000" stop="20250228121500 +0000" channel="BBC One Wal HD">
+        <title>Homes Under the Hammer</title>
+    </programme>
+    <programme start="20250228121500 +0000" stop="20250228130000 +0000" channel="BBC One Wal HD">
+        <title>Bargain Hunt</title>
+    </programme>
+    <programme start="20250228130000 +0000" stop="20250228140000 +0000" channel="BBC One Wal HD">
+        <title>BBC News at One including Wales Today</title>
+    </programme>
+    <programme start="20250228140000 +0000" stop="20250228144500 +0000" channel="BBC One Wal HD">
+        <title>Father Brown</title>
+    </programme>
+    <programme start="20250228144500 +0000" stop="20250228154500 +0000" channel="BBC One Wal HD">
+        <title>Escape to the Country</title>
+    </programme>
+    <programme start="20250228154500 +0000" stop="20250228163000 +0000" channel="BBC One Wal HD">
+        <title>Garden Rescue</title>
+    </programme>
+    <programme start="20250228163000 +0000" stop="20250228171500 +0000" channel="BBC One Wal HD">
+        <title>Antiques Road Trip</title>
+    </programme>
+    <programme start="20250228171500 +0000" stop="20250228180000 +0000" channel="BBC One Wal HD">
+        <title>Pointless</title>
+    </programme>
+    <programme start="20250228180000 +0000" stop="20250228183000 +0000" channel="BBC One Wal HD">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250228183000 +0000" stop="20250228190000 +0000" channel="BBC One Wal HD">
+        <title>BBC Wales Today</title>
+    </programme>
+    <programme start="20250228190000 +0000" stop="20250228193000 +0000" channel="BBC One Wal HD">
+        <title>Six Nations Greatest Moments</title>
+    </programme>
+    <programme start="20250228193000 +0000" stop="20250228200000 +0000" channel="BBC One Wal HD">
+        <title>Extraordinary Portraits with Bill Bailey</title>
+    </programme>
+    <programme start="20250228200000 +0000" stop="20250228203000 +0000" channel="BBC One Wal HD">
+        <title>New: Would I Lie to You?</title>
+    </programme>
+    <programme start="20250228203000 +0000" stop="20250228210000 +0000" channel="BBC One Wal HD">
+        <title>Amanda &amp; Alan's Spanish Job</title>
+    </programme>
+    <programme start="20250228210000 +0000" stop="20250228220000 +0000" channel="BBC One Wal HD">
+        <title>Death in Paradise</title>
+    </programme>
+    <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="BBC One Wal HD">
+        <title>BBC News and Weather</title>
+    </programme>
+    <programme start="20250228223000 +0000" stop="20250228224000 +0000" channel="BBC One Wal HD">
+        <title>BBC Wales Today</title>
+    </programme>
+    <programme start="20250228224000 +0000" stop="20250228233000 +0000" channel="BBC One Wal HD">
+        <title>The Graham Norton Show</title>
+    </programme>
+    <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC One Wal HD">
+        <title>The Last Letter from Your Lover</title>
+    </programme>
     <programme start="20250227224000 +0000" stop="20250227232000 +0000" channel="BBC One NI HD">
         <title>The View</title>
     </programme>
