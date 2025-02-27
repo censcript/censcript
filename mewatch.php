@@ -589,10 +589,10 @@
         <title>2024 Singapore Premier League: Geylang International vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250227134500 +0000" stop="20250227160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 2nd March, Sunday 8.20pm. 2024/25 Singapore Cup: Balestier Khalsa vs BG Pathum United</title>
+        <title>No Programme available now. Next Broadcast on 9th March, Sunday 8.20pm. 2024 Singapore Premier League: Hougang United vs Lion City Sailors</title>
     </programme>
     <programme start="20250227160000 +0000" stop="20250228160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 2nd March, Sunday 8.20pm. 2024/25 Singapore Cup: Balestier Khalsa vs BG Pathum United</title>
+        <title>No Programme available now. Next Broadcast on 9th March, Sunday 8.20pm. 2024 Singapore Premier League: Hougang United vs Lion City Sailors</title>
     </programme>
     <programme start="20250226160000 +0000" stop="20250226210000 +0000" channel="now-80s.mewatch">
         <title>80s Rock Anthems Night!</title>
