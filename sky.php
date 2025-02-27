@@ -24382,7 +24382,7 @@
         <title>Payday Deals with Chloe</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="TJC HD">
-        <title>Payday Deals with</title>
+        <title>Payday Deals with Kim</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="TJC HD">
         <title>Payday Deals with Steve &amp; Kim</title>
