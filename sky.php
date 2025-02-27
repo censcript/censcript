@@ -15097,7 +15097,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250227084500 +0000" stop="20250227093000 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250227093000 +0000" stop="20250227101000 +0000" channel="BBC Parl HD">
         <title>Live Culture, Media and Sport Questions</title>
@@ -15105,17 +15105,20 @@
     <programme start="20250227101000 +0000" stop="20250227103000 +0000" channel="BBC Parl HD">
         <title>Live Commissioners Questions</title>
     </programme>
-    <programme start="20250227103000 +0000" stop="20250227113000 +0000" channel="BBC Parl HD">
+    <programme start="20250227103000 +0000" stop="20250227111500 +0000" channel="BBC Parl HD">
+        <title>Live BBC Gaza Coverage Urgent Question</title>
+    </programme>
+    <programme start="20250227111500 +0000" stop="20250227121500 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250227113000 +0000" stop="20250227173000 +0000" channel="BBC Parl HD">
+    <programme start="20250227121500 +0000" stop="20250227173000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250227173000 +0000" stop="20250227181500 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
     <programme start="20250227181500 +0000" stop="20250227190000 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+        <title>Lords Questions</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -18181,7 +18184,7 @@
         <title>Chaplet of St Michael</title>
     </programme>
     <programme start="20250227060000 +0000" stop="20250227070000 +0000" channel="EWTN Catholic">
-        <title>Father Spitzer's Universe</title>
+        <title>A Holy Hour for Pope Francis</title>
     </programme>
     <programme start="20250227070000 +0000" stop="20250227073000 +0000" channel="EWTN Catholic">
         <title>Life Is Worth Living</title>
@@ -18244,7 +18247,7 @@
         <title>At Home with Jim and Joy</title>
     </programme>
     <programme start="20250227173000 +0000" stop="20250227180000 +0000" channel="EWTN Catholic">
-        <title>Patrons of the Arts in the Vatican Museums</title>
+        <title>Patrons of The Arts in The...</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="EWTN Catholic">
         <title>Daily Mass</title>
@@ -18255,14 +18258,14 @@
     <programme start="20250227193000 +0000" stop="20250227200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="EWTN Catholic">
-        <title>EWTN Live</title>
+    <programme start="20250227200000 +0000" stop="20250227204500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250227210000 +0000" stop="20250227213000 +0000" channel="EWTN Catholic">
-        <title>EWTN News Nightly</title>
+    <programme start="20250227204500 +0000" stop="20250227210000 +0000" channel="EWTN Catholic">
+        <title>Voice of the Pastor</title>
     </programme>
-    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="EWTN Catholic">
-        <title>Dominican Sisters of Mary, Mother of the Eucharist</title>
+    <programme start="20250227210000 +0000" stop="20250227220000 +0000" channel="EWTN Catholic">
+        <title>A Holy Hour for Pope Francis</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227223000 +0000" channel="EWTN Catholic">
         <title>The Gospel of Life vs the Culture of Death</title>
@@ -29423,159 +29426,6 @@
     </programme>
     <programme start="20250227233000 +0000" stop="20250228003000 +0000" channel="PTC PUNJABI">
         <title>Panj Taara</title>
-    </programme>
-    <programme start="20250226223000 +0000" stop="20250226230000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250226230000 +0000" stop="20250226233000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250226233000 +0000" stop="20250227000000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227000000 +0000" stop="20250227003000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227003000 +0000" stop="20250227010000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227010000 +0000" stop="20250227013000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227013000 +0000" stop="20250227020000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227020000 +0000" stop="20250227023000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227023000 +0000" stop="20250227030000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227030000 +0000" stop="20250227033000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227033000 +0000" stop="20250227040000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227040000 +0000" stop="20250227043000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227043000 +0000" stop="20250227050000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227050000 +0000" stop="20250227053000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227053000 +0000" stop="20250227060000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227060000 +0000" stop="20250227063000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227063000 +0000" stop="20250227070000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227070000 +0000" stop="20250227073000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227073000 +0000" stop="20250227080000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227080000 +0000" stop="20250227083000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227083000 +0000" stop="20250227090000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227090000 +0000" stop="20250227093000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227093000 +0000" stop="20250227100000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227100000 +0000" stop="20250227103000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227103000 +0000" stop="20250227110000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227110000 +0000" stop="20250227113000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227113000 +0000" stop="20250227120000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227120000 +0000" stop="20250227123000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227123000 +0000" stop="20250227130000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227130000 +0000" stop="20250227133000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227133000 +0000" stop="20250227140000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227143000 +0000" stop="20250227150000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227150000 +0000" stop="20250227153000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227153000 +0000" stop="20250227160000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227160000 +0000" stop="20250227163000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227163000 +0000" stop="20250227170000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227170000 +0000" stop="20250227173000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227173000 +0000" stop="20250227180000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227180000 +0000" stop="20250227183000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227183000 +0000" stop="20250227190000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227190000 +0000" stop="20250227193000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227193000 +0000" stop="20250227200000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227200000 +0000" stop="20250227203000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227203000 +0000" stop="20250227210000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227210000 +0000" stop="20250227213000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250227223000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227223000 +0000" stop="20250227230000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227230000 +0000" stop="20250227233000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
-    </programme>
-    <programme start="20250227233000 +0000" stop="20250228003000 +0000" channel="Brit Asia TV">
-        <title>This is Brit Asia TV</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
