@@ -13062,26 +13062,23 @@
     <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="SkySp PL HD">
         <title>Premier Lge 15/16:Leicester's Year</title>
     </programme>
-    <programme start="20250227224500 +0000" stop="20250227230000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250227225500 +0000" stop="20250227231000 +0000" channel="SkySp F'ball HD">
         <title>SPFL 24/25: Kilmarnock v Rangers</title>
     </programme>
-    <programme start="20250227230000 +0000" stop="20250227233000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250227231000 +0000" stop="20250227234000 +0000" channel="SkySp F'ball HD">
         <title>Bundesliga Weekly</title>
     </programme>
-    <programme start="20250227233000 +0000" stop="20250228000000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250227234000 +0000" stop="20250228001000 +0000" channel="SkySp F'ball HD">
         <title>Bundesliga: Best of February</title>
     </programme>
-    <programme start="20250228000000 +0000" stop="20250228010000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250228001000 +0000" stop="20250228011000 +0000" channel="SkySp F'ball HD">
         <title>SPFL: Celtic's Invincibles</title>
     </programme>
-    <programme start="20250228010000 +0000" stop="20250228013000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250228011000 +0000" stop="20250228014000 +0000" channel="SkySp F'ball HD">
         <title>SPFL: Old Firm Derby Best Goals</title>
     </programme>
-    <programme start="20250228013000 +0000" stop="20250228020000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250228014000 +0000" stop="20250228021500 +0000" channel="SkySp F'ball HD">
         <title>SPFL: Edinburgh Derby Best Goals</title>
-    </programme>
-    <programme start="20250228020000 +0000" stop="20250228021500 +0000" channel="SkySp F'ball HD">
-        <title>SPFL 1996/97: Celtic v Rangers</title>
     </programme>
     <programme start="20250228021500 +0000" stop="20250228023000 +0000" channel="SkySp F'ball HD">
         <title>SPFL 1996/97: Rangers v Celtic</title>
@@ -27361,10 +27358,10 @@
         <title>Mulaqat With Huzoor</title>
     </programme>
     <programme start="20250228095000 +0000" stop="20250228102500 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana Speeches</title>
+        <title>Jalsa Salana Qadian Speeches</title>
     </programme>
     <programme start="20250228102500 +0000" stop="20250228110000 +0000" channel="MTA1 World HD">
-        <title>Seerat-un-Nabi</title>
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250228110000 +0000" stop="20250228111500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -27373,13 +27370,13 @@
         <title>Dars-e-Hadith</title>
     </programme>
     <programme start="20250228113000 +0000" stop="20250228114000 +0000" channel="MTA1 World HD">
-        <title>Jamia Ahmadiyya</title>
+        <title>Jamia Ahmadiyya Humble Beginnings</title>
     </programme>
     <programme start="20250228114000 +0000" stop="20250228120500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
     <programme start="20250228120500 +0000" stop="20250228125000 +0000" channel="MTA1 World HD">
-        <title>Untold Narrations</title>
+        <title>Untold Narrations By Syed Taalay</title>
     </programme>
     <programme start="20250228125000 +0000" stop="20250228130000 +0000" channel="MTA1 World HD">
         <title>Live Proceedings</title>
@@ -27411,26 +27408,23 @@
     <programme start="20250228174000 +0000" stop="20250228180000 +0000" channel="MTA1 World HD">
         <title>One Community One Leader</title>
     </programme>
-    <programme start="20250228180000 +0000" stop="20250228182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
+    <programme start="20250228180000 +0000" stop="20250228183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250228182000 +0000" stop="20250228183000 +0000" channel="MTA1 World HD">
+    <programme start="20250228183500 +0000" stop="20250228184500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250228183000 +0000" stop="20250228184500 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Hadith</title>
-    </programme>
     <programme start="20250228184500 +0000" stop="20250228190000 +0000" channel="MTA1 World HD">
-        <title>MTA Explore</title>
+        <title>Dars-e-Hadith</title>
     </programme>
     <programme start="20250228190000 +0000" stop="20250228194000 +0000" channel="MTA1 World HD">
         <title>Centenary Of The Fazl Mosque</title>
     </programme>
     <programme start="20250228194000 +0000" stop="20250228201500 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana Speeches</title>
+        <title>Jalsa Salana Qadian Speeches</title>
     </programme>
     <programme start="20250228201500 +0000" stop="20250228205000 +0000" channel="MTA1 World HD">
-        <title>Seerat-un-Nabi</title>
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250228205000 +0000" stop="20250228211500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
@@ -27441,17 +27435,17 @@
     <programme start="20250228221000 +0000" stop="20250228222000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250228222000 +0000" stop="20250228224000 +0000" channel="MTA1 World HD">
-        <title>Hayat-e-Javidaan</title>
+    <programme start="20250228222000 +0000" stop="20250228232000 +0000" channel="MTA1 World HD">
+        <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250228224000 +0000" stop="20250228225000 +0000" channel="MTA1 World HD">
-        <title>Jamia Ahmadiyya</title>
+    <programme start="20250228232000 +0000" stop="20250228233000 +0000" channel="MTA1 World HD">
+        <title>Jamia Ahmadiyya Humble Beginnings</title>
     </programme>
-    <programme start="20250228225000 +0000" stop="20250228230000 +0000" channel="MTA1 World HD">
+    <programme start="20250228233000 +0000" stop="20250228234000 +0000" channel="MTA1 World HD">
         <title>Wild Life Of Pakistan</title>
     </programme>
-    <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya</title>
+    <programme start="20250228234000 +0000" stop="20250301004000 +0000" channel="MTA1 World HD">
+        <title>Hayat-e-Javidaan</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="HUM Masala">
         <title>Food Diaries</title>

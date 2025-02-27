@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250227193000 +0000" stop="20250227223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - West Ham United v Leicester City</title>
-    </programme>
     <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
