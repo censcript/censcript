@@ -13326,11 +13326,14 @@
     <programme start="20250227063000 +0000" stop="20250227073000 +0000" channel="SkySpCricket HD">
         <title>WPL: Mumbai I v UP Warriorz</title>
     </programme>
-    <programme start="20250227073000 +0000" stop="20250227083000 +0000" channel="SkySpCricket HD">
+    <programme start="20250227073000 +0000" stop="20250227083001 +0000" channel="SkySpCricket HD">
         <title>ICC CT'25: AFG v ENG Hlts</title>
     </programme>
-    <programme start="20250227083000 +0000" stop="20250227173000 +0000" channel="SkySpCricket HD">
-        <title>Live ICC CT'25: PAK v BAN</title>
+    <programme start="20250227083001 +0000" stop="20250227135001 +0000" channel="SkySpCricket HD">
+        <title>ICC Men's WT20 WC: Extra Cover</title>
+    </programme>
+    <programme start="20250227135001 +0000" stop="20250227173000 +0000" channel="SkySpCricket HD">
+        <title>Live WPL: RCB v Gujarat G</title>
     </programme>
     <programme start="20250227173000 +0000" stop="20250227174500 +0000" channel="SkySpCricket HD">
         <title>ICC Men's T20 WC: ENG v IND 2007</title>
@@ -13344,17 +13347,17 @@
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="SkySpCricket HD">
         <title>ICC CT'25: AFG v ENG Hlts</title>
     </programme>
-    <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="SkySpCricket HD">
+    <programme start="20250227200000 +0000" stop="20250227210001 +0000" channel="SkySpCricket HD">
         <title>WPL: RCB v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250227210000 +0000" stop="20250227220000 +0000" channel="SkySpCricket HD">
-        <title>ICC CT'25: PAK v BAN</title>
+    <programme start="20250227210001 +0000" stop="20250227220000 +0000" channel="SkySpCricket HD">
+        <title>ICC Men's WT20 WC: Extra Cover</title>
     </programme>
-    <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="SkySpCricket HD">
+    <programme start="20250227220000 +0000" stop="20250227230001 +0000" channel="SkySpCricket HD">
         <title>WPL: RCB v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="SkySpCricket HD">
-        <title>ICC CT'25: PAK v BAN</title>
+    <programme start="20250227230001 +0000" stop="20250228000001 +0000" channel="SkySpCricket HD">
+        <title>ICC CT'25: PAK v IND Hlts</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="SkySp Golf HD">
         <title>Legends Tour Golf Highlights</title>
@@ -15106,7 +15109,7 @@
         <title>Live Commissioners Questions</title>
     </programme>
     <programme start="20250227103000 +0000" stop="20250227111500 +0000" channel="BBC Parl HD">
-        <title>Live BBC Gaza Coverage Urgent Question</title>
+        <title>BBC Gaza Coverage Urgent Question</title>
     </programme>
     <programme start="20250227111500 +0000" stop="20250227121500 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
@@ -15120,8 +15123,20 @@
     <programme start="20250227181500 +0000" stop="20250227190000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250227190000 +0000" stop="20250227191000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Introductions</title>
+    </programme>
+    <programme start="20250227191000 +0000" stop="20250227195000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Breakfast Clubs Statement</title>
+    </programme>
+    <programme start="20250227195000 +0000" stop="20250227222000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Post Office...</title>
+    </programme>
+    <programme start="20250227222000 +0000" stop="20250227232000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - British Citizens Held by Iran</title>
+    </programme>
+    <programme start="20250227232000 +0000" stop="20250228002000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Pre-Nuptial Agreements</title>
     </programme>
     <programme start="20250226223000 +0000" stop="20250226233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -29658,14 +29673,14 @@
     <programme start="20250227133000 +0000" stop="20250227140000 +0000" channel="Akaal Channel">
         <title>Weekly Langar Sewa MP</title>
     </programme>
-    <programme start="20250227140000 +0000" stop="20250227143000 +0000" channel="Akaal Channel">
+    <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="Akaal Channel">
+        <title>Live: Save the Life 17 Years Old</title>
+    </programme>
+    <programme start="20250227150000 +0000" stop="20250227153000 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
-    <programme start="20250227143000 +0000" stop="20250227150000 +0000" channel="Akaal Channel">
+    <programme start="20250227153000 +0000" stop="20250227160000 +0000" channel="Akaal Channel">
         <title>Panj Takht Yatra (Darshan Deedare)</title>
-    </programme>
-    <programme start="20250227150000 +0000" stop="20250227160000 +0000" channel="Akaal Channel">
-        <title>Save the 17 Years Old Yong Sikh</title>
     </programme>
     <programme start="20250227160000 +0000" stop="20250227165500 +0000" channel="Akaal Channel">
         <title>Advice Bureau:Alternative Medicine</title>
@@ -29694,14 +29709,17 @@
     <programme start="20250227210000 +0000" stop="20250227213000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>
     </programme>
-    <programme start="20250227213000 +0000" stop="20250227213500 +0000" channel="Akaal Channel">
+    <programme start="20250227213000 +0000" stop="20250227220000 +0000" channel="Akaal Channel">
+        <title>Khabar Te Najar</title>
+    </programme>
+    <programme start="20250227220000 +0000" stop="20250227220500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
     </programme>
-    <programme start="20250227213500 +0000" stop="20250227223500 +0000" channel="Akaal Channel">
+    <programme start="20250227220500 +0000" stop="20250227230500 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250227223500 +0000" stop="20250227233500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
+    <programme start="20250227230500 +0000" stop="20250227233500 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Pakistan Yatra</title>
     </programme>
     <programme start="20250227233500 +0000" stop="20250228003500 +0000" channel="Akaal Channel">
         <title>Special Report</title>
