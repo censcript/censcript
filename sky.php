@@ -27675,20 +27675,14 @@
     <programme start="20250227120000 +0000" stop="20250227120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250227120500 +0000" stop="20250227123000 +0000" channel="GEO News">
-        <title>Geo World News</title>
-    </programme>
-    <programme start="20250227123000 +0000" stop="20250227130000 +0000" channel="GEO News">
+    <programme start="20250227120500 +0000" stop="20250227130000 +0000" channel="GEO News">
         <title>Geo Pakistan</title>
     </programme>
     <programme start="20250227130000 +0000" stop="20250227130500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250227130500 +0000" stop="20250227133000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
-    </programme>
-    <programme start="20250227133000 +0000" stop="20250227140000 +0000" channel="GEO News">
-        <title>Score</title>
+    <programme start="20250227130500 +0000" stop="20250227140000 +0000" channel="GEO News">
+        <title>Geo World News</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227140500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -29065,13 +29059,13 @@
         <title>Once Upon A Time (Huda)</title>
     </programme>
     <programme start="20250227143000 +0000" stop="20250227150200 +0000" channel="Eman Channel">
-        <title>When Is Ramadan</title>
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250227150200 +0000" stop="20250227150700 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
     <programme start="20250227150700 +0000" stop="20250227153000 +0000" channel="Eman Channel">
-        <title>When Is Ramadan</title>
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250227153000 +0000" stop="20250227160000 +0000" channel="Eman Channel">
         <title>Gems for Ramadan</title>
