@@ -13929,10 +13929,10 @@
     <programme start="20250227104500 +0000" stop="20250227113000 +0000" channel="Eurosport 1 HD">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250227113000 +0000" stop="20250227143000 +0000" channel="Eurosport 1 HD">
+    <programme start="20250227113000 +0000" stop="20250227144500 +0000" channel="Eurosport 1 HD">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250227143000 +0000" stop="20250227161500 +0000" channel="Eurosport 1 HD">
+    <programme start="20250227144500 +0000" stop="20250227161500 +0000" channel="Eurosport 1 HD">
         <title>Live Cycling: O Gran Camino</title>
     </programme>
     <programme start="20250227161500 +0000" stop="20250227164500 +0000" channel="Eurosport 1 HD">
@@ -14001,8 +14001,11 @@
     <programme start="20250227111500 +0000" stop="20250227134500 +0000" channel="Eurosport 2 HD">
         <title>Live: Cross-Country Skiing...</title>
     </programme>
-    <programme start="20250227134500 +0000" stop="20250227144500 +0000" channel="Eurosport 2 HD">
+    <programme start="20250227134500 +0000" stop="20250227143500 +0000" channel="Eurosport 2 HD">
         <title>Live: Nordic Combined Skiing...</title>
+    </programme>
+    <programme start="20250227143500 +0000" stop="20250227144500 +0000" channel="Eurosport 2 HD">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250227144500 +0000" stop="20250227154500 +0000" channel="Eurosport 2 HD">
         <title>Ski Jumping: World Cup</title>
@@ -15043,7 +15046,7 @@
         <title>BBC News at Six</title>
     </programme>
     <programme start="20250227183000 +0000" stop="20250227190000 +0000" channel="BBC NEWS HD">
-        <title>Sportsday</title>
+        <title>The World Today with Maryam Moshiri</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227193000 +0000" channel="BBC NEWS HD">
         <title>The World Today with Maryam Moshiri</title>
@@ -29977,10 +29980,10 @@
         <title>PBC Special Show</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="PBC">
-        <title>Live - Panthak Sath</title>
+        <title>PBC Special Show</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="PBC">
-        <title>Fundraising Appeal</title>
+        <title>PBC Special Show</title>
     </programme>
     <programme start="20250227210000 +0000" stop="20250227213000 +0000" channel="PBC">
         <title>PBC Special Show</title>
@@ -34536,10 +34539,10 @@
     <programme start="20250227104500 +0000" stop="20250227113000 +0000" channel="Eurosport 1">
         <title>Snooker: World Open</title>
     </programme>
-    <programme start="20250227113000 +0000" stop="20250227143000 +0000" channel="Eurosport 1">
+    <programme start="20250227113000 +0000" stop="20250227144500 +0000" channel="Eurosport 1">
         <title>Live Snooker: World Open</title>
     </programme>
-    <programme start="20250227143000 +0000" stop="20250227161500 +0000" channel="Eurosport 1">
+    <programme start="20250227144500 +0000" stop="20250227161500 +0000" channel="Eurosport 1">
         <title>Live Cycling: O Gran Camino</title>
     </programme>
     <programme start="20250227161500 +0000" stop="20250227164500 +0000" channel="Eurosport 1">
@@ -34608,8 +34611,11 @@
     <programme start="20250227111500 +0000" stop="20250227134500 +0000" channel="Eurosport 2">
         <title>Live: Cross-Country Skiing...</title>
     </programme>
-    <programme start="20250227134500 +0000" stop="20250227144500 +0000" channel="Eurosport 2">
+    <programme start="20250227134500 +0000" stop="20250227143500 +0000" channel="Eurosport 2">
         <title>Live: Nordic Combined Skiing...</title>
+    </programme>
+    <programme start="20250227143500 +0000" stop="20250227144500 +0000" channel="Eurosport 2">
+        <title>Winter Sport</title>
     </programme>
     <programme start="20250227144500 +0000" stop="20250227154500 +0000" channel="Eurosport 2">
         <title>Ski Jumping: World Cup</title>
@@ -37620,8 +37626,11 @@
     <programme start="20250227160000 +0000" stop="20250227190000 +0000" channel="BBC R5L">
         <title>5 Live Drive</title>
     </programme>
-    <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="BBC R5L">
-        <title>5 Live Sport</title>
+    <programme start="20250227190000 +0000" stop="20250227193000 +0000" channel="BBC R5L">
+        <title>This is BBC R5L</title>
+    </programme>
+    <programme start="20250227193000 +0000" stop="20250227200000 +0000" channel="BBC R5L">
+        <title>This is BBC R5L</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
