@@ -14985,11 +14985,8 @@
     <programme start="20250228060000 +0000" stop="20250228084000 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
     </programme>
-    <programme start="20250228084000 +0000" stop="20250228090000 +0000" channel="BBC Parl HD">
+    <programme start="20250228084000 +0000" stop="20250228092000 +0000" channel="BBC Parl HD">
         <title>Culture, Media and Sport Questions</title>
-    </programme>
-    <programme start="20250228090000 +0000" stop="20250228092000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
     </programme>
     <programme start="20250228092000 +0000" stop="20250228100500 +0000" channel="BBC Parl HD">
         <title>Lords Questions - Thursday</title>
