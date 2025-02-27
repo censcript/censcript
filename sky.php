@@ -24241,7 +24241,7 @@
         <title>The Lunchtime Show</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="QVC HD">
-        <title>Kim &amp; Co February Favourites</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250227150000 +0000" stop="20250227160000 +0000" channel="QVC HD">
         <title>In the Salon with SBC</title>
@@ -24535,19 +24535,19 @@
         <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250227090000 +0000" stop="20250227100000 +0000" channel="QVC Style HD">
-        <title>The Fashion Edit with Farah</title>
+        <title>Summer Fashion Edit</title>
     </programme>
     <programme start="20250227100000 +0000" stop="20250227110000 +0000" channel="QVC Style HD">
         <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250227110000 +0000" stop="20250227120000 +0000" channel="QVC Style HD">
-        <title>Denim and Co, Centigrade Fashion</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250227120000 +0000" stop="20250227130000 +0000" channel="QVC Style HD">
         <title>Clogau Jewellery</title>
     </programme>
     <programme start="20250227130000 +0000" stop="20250227140000 +0000" channel="QVC Style HD">
-        <title>Seasalt Cornwall Fashion</title>
+        <title>Frank Usher</title>
     </programme>
     <programme start="20250227140000 +0000" stop="20250227150000 +0000" channel="QVC Style HD">
         <title>Nina Leonard</title>
@@ -24562,7 +24562,7 @@
         <title>De Jager Bulbs &amp; Plants</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="QVC Style HD">
-        <title>Your Garden Style</title>
+        <title>Bring the Outdoors In</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="QVC Style HD">
         <title>Nina Leonard</title>
@@ -24574,7 +24574,7 @@
         <title>Ben de Lisi</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co</title>
+        <title>Seasalt Cornwall Fashion</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="QVC Style HD">
         <title>Hobbs London</title>
@@ -25180,7 +25180,7 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250227120000 +0000" stop="20250227130000 +0000" channel="QVC Extra">
-        <title>Fashion Day Review</title>
+        <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250227130000 +0000" stop="20250227140000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
@@ -25198,19 +25198,19 @@
         <title>The Charlie Bears Collection</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227190000 +0000" channel="QVC Extra">
-        <title>Denim &amp; Co on 5 Easy Pay</title>
+        <title>Denim &amp; Co, Centigrade Outerwear</title>
     </programme>
     <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="QVC Extra">
-        <title>Clogau Jewellery</title>
+        <title>Seasalt Cornwall Fashion</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="QVC Extra">
         <title>Home Improvements</title>
     </programme>
     <programme start="20250227210000 +0000" stop="20250227220000 +0000" channel="QVC Extra">
-        <title>Masai Clothing Copenhagen</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="QVC Extra">
-        <title>Monsoon</title>
+        <title>Hobbs London</title>
     </programme>
     <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="QVC Extra">
         <title>Helene Berman London</title>
@@ -37626,11 +37626,8 @@
     <programme start="20250227160000 +0000" stop="20250227190000 +0000" channel="BBC R5L">
         <title>5 Live Drive</title>
     </programme>
-    <programme start="20250227190000 +0000" stop="20250227193000 +0000" channel="BBC R5L">
-        <title>This is BBC R5L</title>
-    </programme>
-    <programme start="20250227193000 +0000" stop="20250227200000 +0000" channel="BBC R5L">
-        <title>This is BBC R5L</title>
+    <programme start="20250227190000 +0000" stop="20250227200000 +0000" channel="BBC R5L">
+        <title>5 Live News</title>
     </programme>
     <programme start="20250227200000 +0000" stop="20250227210000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
