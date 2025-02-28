@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250227223000 +0000" stop="20250227233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
-    <programme start="20250228003000 +0000" stop="20250228013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20250228120000 +0000" stop="20250228123000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -68,6 +62,9 @@
     </programme>
     <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v West Ham United</title>
+    </programme>
+    <programme start="20250302183000 +0000" stop="20250302190000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - FA Cup Quarter-final Draw</title>
     </programme>
     <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Gimcheon</title>
