@@ -2643,8 +2643,11 @@
     <programme start="20250228140000 +0000" stop="20250228150000 +0000" channel="Nat Geo HD">
         <title>Air Crash Investigation</title>
     </programme>
-    <programme start="20250228150000 +0000" stop="20250228160000 +0000" channel="Nat Geo HD">
+    <programme start="20250228150000 +0000" stop="20250228150001 +0000" channel="Nat Geo HD">
         <title>Drain Hollywood</title>
+    </programme>
+    <programme start="20250228150001 +0000" stop="20250228160000 +0000" channel="Nat Geo HD">
+        <title>Drain The Oceans</title>
     </programme>
     <programme start="20250228160000 +0000" stop="20250228170000 +0000" channel="Nat Geo HD">
         <title>Nazi Megastructures</title>
@@ -18177,11 +18180,8 @@
     <programme start="20250228204500 +0000" stop="20250228210000 +0000" channel="EWTN Catholic">
         <title>Voice of the Pastor</title>
     </programme>
-    <programme start="20250228210000 +0000" stop="20250228213000 +0000" channel="EWTN Catholic">
+    <programme start="20250228210000 +0000" stop="20250228220000 +0000" channel="EWTN Catholic">
         <title>A Holy Hour for Pope Francis</title>
-    </programme>
-    <programme start="20250228213000 +0000" stop="20250228220000 +0000" channel="EWTN Catholic">
-        <title>Living Divine Mercy</title>
     </programme>
     <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="EWTN Catholic">
         <title>My Lourdes Faith Journey</title>
@@ -30336,16 +30336,10 @@
     <programme start="20250228120000 +0000" stop="20250228121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250228121900 +0000" stop="20250228122000 +0000" channel="NTV">
+    <programme start="20250228121900 +0000" stop="20250228122400 +0000" channel="NTV">
         <title>Adhan-e-Jumuah</title>
     </programme>
-    <programme start="20250228122000 +0000" stop="20250228122400 +0000" channel="NTV">
-        <title>Adhan-e-Jumuah</title>
-    </programme>
-    <programme start="20250228122400 +0000" stop="20250228122500 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250228122500 +0000" stop="20250228123000 +0000" channel="NTV">
+    <programme start="20250228122400 +0000" stop="20250228123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250228123000 +0000" stop="20250228140000 +0000" channel="NTV">
@@ -30357,14 +30351,8 @@
     <programme start="20250228143000 +0000" stop="20250228150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250228150000 +0000" stop="20250228151300 +0000" channel="NTV">
+    <programme start="20250228150000 +0000" stop="20250228153600 +0000" channel="NTV">
         <title>Onuragh</title>
-    </programme>
-    <programme start="20250228151300 +0000" stop="20250228151800 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250228151800 +0000" stop="20250228153600 +0000" channel="NTV">
-        <title>Bibek</title>
     </programme>
     <programme start="20250228153600 +0000" stop="20250228154100 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
@@ -30375,25 +30363,13 @@
     <programme start="20250228163000 +0000" stop="20250228170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250228170000 +0000" stop="20250228170400 +0000" channel="NTV">
-        <title>Dorsay Hadis</title>
-    </programme>
-    <programme start="20250228170400 +0000" stop="20250228170900 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250228170900 +0000" stop="20250228173000 +0000" channel="NTV">
+    <programme start="20250228170000 +0000" stop="20250228173000 +0000" channel="NTV">
         <title>Dorsay Hadis</title>
     </programme>
     <programme start="20250228173000 +0000" stop="20250228173500 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250228173500 +0000" stop="20250228183600 +0000" channel="NTV">
-        <title>Jibon Jiggasha with NTV</title>
-    </programme>
-    <programme start="20250228183600 +0000" stop="20250228184100 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250228184100 +0000" stop="20250228185800 +0000" channel="NTV">
+    <programme start="20250228173500 +0000" stop="20250228185800 +0000" channel="NTV">
         <title>Jibon Jiggasha with NTV</title>
     </programme>
     <programme start="20250228185800 +0000" stop="20250228190000 +0000" channel="NTV">
@@ -32925,8 +32901,11 @@
     <programme start="20250228140000 +0000" stop="20250228150000 +0000" channel="Nat Geo">
         <title>Air Crash Investigation</title>
     </programme>
-    <programme start="20250228150000 +0000" stop="20250228160000 +0000" channel="Nat Geo">
+    <programme start="20250228150000 +0000" stop="20250228150001 +0000" channel="Nat Geo">
         <title>Drain Hollywood</title>
+    </programme>
+    <programme start="20250228150001 +0000" stop="20250228160000 +0000" channel="Nat Geo">
+        <title>Drain The Oceans</title>
     </programme>
     <programme start="20250228160000 +0000" stop="20250228170000 +0000" channel="Nat Geo">
         <title>Nazi Megastructures</title>
