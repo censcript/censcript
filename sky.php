@@ -6399,17 +6399,14 @@
     <programme start="20250228170500 +0000" stop="20250228173500 +0000" channel="That's TV">
         <title>Stopping Hitler's A-Bomb</title>
     </programme>
-    <programme start="20250228173500 +0000" stop="20250228181000 +0000" channel="That's TV">
+    <programme start="20250228173500 +0000" stop="20250228181500 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
     </programme>
-    <programme start="20250228181000 +0000" stop="20250228184500 +0000" channel="That's TV">
+    <programme start="20250228181500 +0000" stop="20250228185500 +0000" channel="That's TV">
         <title>Steptoe and Son</title>
     </programme>
-    <programme start="20250228184500 +0000" stop="20250228192500 +0000" channel="That's TV">
-        <title>Bread</title>
-    </programme>
-    <programme start="20250228192500 +0000" stop="20250228195500 +0000" channel="That's TV">
-        <title>Barbara</title>
+    <programme start="20250228185500 +0000" stop="20250228195500 +0000" channel="That's TV">
+        <title>The Saint</title>
     </programme>
     <programme start="20250228195500 +0000" stop="20250228202500 +0000" channel="That's TV">
         <title>Rising Damp</title>
