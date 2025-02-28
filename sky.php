@@ -14214,14 +14214,20 @@
     <programme start="20250228180000 +0000" stop="20250228193000 +0000" channel="Premier 1 HD">
         <title>Live Viva LALIGA</title>
     </programme>
-    <programme start="20250228193000 +0000" stop="20250228220000 +0000" channel="Premier 1 HD">
+    <programme start="20250228193000 +0000" stop="20250228213500 +0000" channel="Premier 1 HD">
         <title>Live URC: Zebre v Dragons</title>
     </programme>
-    <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="Premier 1 HD">
+    <programme start="20250228213500 +0000" stop="20250228220500 +0000" channel="Premier 1 HD">
         <title>Top 14 Highlights: Round 17</title>
     </programme>
-    <programme start="20250228223000 +0000" stop="20250228230000 +0000" channel="Premier 1 HD">
+    <programme start="20250228220500 +0000" stop="20250228223500 +0000" channel="Premier 1 HD">
         <title>Sporting Greats</title>
+    </programme>
+    <programme start="20250228223500 +0000" stop="20250228225000 +0000" channel="Premier 1 HD">
+        <title>LALIGA Specials: Best Goalkeeper</title>
+    </programme>
+    <programme start="20250228225000 +0000" stop="20250228230000 +0000" channel="Premier 1 HD">
+        <title>LALIGA Match Highlights: Las Palmas v Barcelona</title>
     </programme>
     <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="Premier 1 HD">
         <title>LALIGA: Valladolid v Las Palmas</title>
@@ -14899,7 +14905,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="BBC NEWS HD">
-        <title>The President's Path</title>
+        <title>The President's Path: Macron and Starmer meet Trump</title>
     </programme>
     <programme start="20250227222000 +0000" stop="20250227230500 +0000" channel="BBC Parl HD">
         <title>House of Lords - British Citizens Held by Iran</title>

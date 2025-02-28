@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250228120000 +0000" stop="20250228123000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250228195000 +0000" stop="20250228231000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Aston Villa v Cardiff City</title>
     </programme>
