@@ -30328,19 +30328,19 @@
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250228110000 +0000" stop="20250228120000 +0000" channel="NTV">
-        <title>Guloi</title>
+        <title>Nishas Amar Tumi</title>
     </programme>
-    <programme start="20250228120000 +0000" stop="20250228121900 +0000" channel="NTV">
+    <programme start="20250228120000 +0000" stop="20250228121800 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250228121900 +0000" stop="20250228122400 +0000" channel="NTV">
+    <programme start="20250228121800 +0000" stop="20250228122300 +0000" channel="NTV">
         <title>Adhan-e-Jumuah</title>
     </programme>
-    <programme start="20250228122400 +0000" stop="20250228123000 +0000" channel="NTV">
+    <programme start="20250228122300 +0000" stop="20250228123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250228123000 +0000" stop="20250228140000 +0000" channel="NTV">
-        <title>Guloi</title>
+        <title>Nishas Amar Tumi</title>
     </programme>
     <programme start="20250228140000 +0000" stop="20250228143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -30348,14 +30348,14 @@
     <programme start="20250228143000 +0000" stop="20250228150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250228150000 +0000" stop="20250228153600 +0000" channel="NTV">
-        <title>Onuragh</title>
+    <programme start="20250228150000 +0000" stop="20250228154700 +0000" channel="NTV">
+        <title>Shesh Porjonto</title>
     </programme>
-    <programme start="20250228153600 +0000" stop="20250228154100 +0000" channel="NTV">
+    <programme start="20250228154700 +0000" stop="20250228155200 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250228154100 +0000" stop="20250228163000 +0000" channel="NTV">
-        <title>Onuragh</title>
+    <programme start="20250228155200 +0000" stop="20250228163000 +0000" channel="NTV">
+        <title>Shesh Porjonto</title>
     </programme>
     <programme start="20250228163000 +0000" stop="20250228170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
@@ -30363,26 +30363,29 @@
     <programme start="20250228170000 +0000" stop="20250228173000 +0000" channel="NTV">
         <title>Dorsay Hadis</title>
     </programme>
-    <programme start="20250228173000 +0000" stop="20250228173500 +0000" channel="NTV">
+    <programme start="20250228173000 +0000" stop="20250228174300 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250228174300 +0000" stop="20250228174800 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250228173500 +0000" stop="20250228185800 +0000" channel="NTV">
-        <title>Jibon Jiggasha with NTV</title>
+    <programme start="20250228174800 +0000" stop="20250228190000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250228185800 +0000" stop="20250228190000 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250228190000 +0000" stop="20250228191500 +0000" channel="NTV">
+    <programme start="20250228190000 +0000" stop="20250228191000 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
+    <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="NTV">
+        <title>Adhan-e-Isha</title>
+    </programme>
     <programme start="20250228191500 +0000" stop="20250228200000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="NTV">
-        <title>Law and Legal Aid</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250228210000 +0000" stop="20250228213000 +0000" channel="NTV">
-        <title>Quran Onnesha</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250228213000 +0000" stop="20250228220000 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
@@ -30391,10 +30394,10 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250228223000 +0000" stop="20250228230000 +0000" channel="NTV">
-        <title>Probashi Poribar</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="NTV">
-        <title>Bhalo Hoye Jaw</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250228000000 +0000" channel="TV One">
         <title>Live Charity Appeal for IBI</title>
@@ -30694,22 +30697,13 @@
         <title>Azan-E-Magrib</title>
     </programme>
     <programme start="20250228175500 +0000" stop="20250228191000 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="Deen TV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250228191500 +0000" stop="20250228220000 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="Deen TV">
-        <title>Ruhul Quran</title>
-    </programme>
-    <programme start="20250228223000 +0000" stop="20250228230000 +0000" channel="Deen TV">
-        <title>Waz O Nasihat</title>
-    </programme>
-    <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="Deen TV">
-        <title>Qari ul Quran</title>
+    <programme start="20250228191500 +0000" stop="20250228201500 +0000" channel="Deen TV">
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="Islam Bangla">
         <title>Drama Serial: Yusuf Zulekha</title>
@@ -30841,16 +30835,16 @@
         <title>Darse Hadith</title>
     </programme>
     <programme start="20250228180000 +0000" stop="20250228190000 +0000" channel="Islam Bangla">
-        <title>Legal Show</title>
+        <title>Taraweeh Prayer Al-Aqsa</title>
     </programme>
     <programme start="20250228190000 +0000" stop="20250228191000 +0000" channel="Islam Bangla">
-        <title>MERCY TO HUMANITY</title>
+        <title>Taraweeh Prayer Al-Aqsa</title>
     </programme>
     <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="Islam Bangla">
         <title>Isha Adhan</title>
     </programme>
     <programme start="20250228191500 +0000" stop="20250228193000 +0000" channel="Islam Bangla">
-        <title>MERCY TO HUMANITY</title>
+        <title>Taraweeh Prayer Al-Aqsa</title>
     </programme>
     <programme start="20250228193000 +0000" stop="20250228210000 +0000" channel="Islam Bangla">
         <title>Live Charity Appeal</title>
