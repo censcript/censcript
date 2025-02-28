@@ -6943,7 +6943,7 @@
         <title>Yes, Minister</title>
     </programme>
     <programme start="20250228225000 +0000" stop="20250228233000 +0000" channel="That's TV 2">
-        <title>Up Pompeii!</title>
+        <title>It Ain't Half Hot Mum</title>
     </programme>
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="That's TV 2">
         <title>Till Death Us Do Part</title>
@@ -13781,54 +13781,6 @@
     </programme>
     <programme start="20250228221500 +0000" stop="20250228231500 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Day 5</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="Eurosport 1 HD">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="Eurosport 1 HD">
-        <title>Cross-Country Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228000000 +0000" stop="20250228003000 +0000" channel="Eurosport 1 HD">
-        <title>Nordic Combined Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228003000 +0000" stop="20250228010000 +0000" channel="Eurosport 1 HD">
-        <title>Nordic Combined Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228010000 +0000" stop="20250228020000 +0000" channel="Eurosport 1 HD">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250228020000 +0000" stop="20250228080000 +0000" channel="Eurosport 1 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228080000 +0000" stop="20250228140000 +0000" channel="Eurosport 1 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228140000 +0000" stop="20250228200000 +0000" channel="Eurosport 1 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="Eurosport 1 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250228000000 +0000" channel="Eurosport 2 HD">
-        <title>Snooker: World Open</title>
-    </programme>
-    <programme start="20250228000000 +0000" stop="20250228010000 +0000" channel="Eurosport 2 HD">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250228010000 +0000" stop="20250228020000 +0000" channel="Eurosport 2 HD">
-        <title>Cross-Country Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228020000 +0000" stop="20250228080000 +0000" channel="Eurosport 2 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228080000 +0000" stop="20250228140000 +0000" channel="Eurosport 2 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228140000 +0000" stop="20250228200000 +0000" channel="Eurosport 2 HD">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="Eurosport 2 HD">
-        <title>This Channel Has Closed</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227230000 +0000" channel="SkySp Racing">
         <title>Stateside Live</title>
@@ -29613,17 +29565,14 @@
     <programme start="20250228160000 +0000" stop="20250228170000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
-    <programme start="20250228170000 +0000" stop="20250228173000 +0000" channel="Akaal Channel">
+    <programme start="20250228170000 +0000" stop="20250228172500 +0000" channel="Akaal Channel">
         <title>Weekly Langar Sewa MP</title>
     </programme>
-    <programme start="20250228173000 +0000" stop="20250228180000 +0000" channel="Akaal Channel">
-        <title>Rehraas Sahib with Subtitles</title>
+    <programme start="20250228172500 +0000" stop="20250228174500 +0000" channel="Akaal Channel">
+        <title>Rehras Sahib</title>
     </programme>
-    <programme start="20250228180000 +0000" stop="20250228183000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
-    </programme>
-    <programme start="20250228183000 +0000" stop="20250228190000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+    <programme start="20250228174500 +0000" stop="20250228190000 +0000" channel="Akaal Channel">
+        <title>Sri Nabh Kanwal Raja Sahib Samagam</title>
     </programme>
     <programme start="20250228190000 +0000" stop="20250228200000 +0000" channel="Akaal Channel">
         <title>Live: Save the Life 17 Years Old</title>
@@ -34334,54 +34283,6 @@
     </programme>
     <programme start="20250228233000 +0000" stop="20250301003000 +0000" channel="TNTSports2 HD">
         <title>V8 Supercars Highlights</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250227230000 +0000" channel="Eurosport 1">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250227230000 +0000" stop="20250228000000 +0000" channel="Eurosport 1">
-        <title>Cross-Country Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228000000 +0000" stop="20250228003000 +0000" channel="Eurosport 1">
-        <title>Nordic Combined Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228003000 +0000" stop="20250228010000 +0000" channel="Eurosport 1">
-        <title>Nordic Combined Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228010000 +0000" stop="20250228020000 +0000" channel="Eurosport 1">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250228020000 +0000" stop="20250228080000 +0000" channel="Eurosport 1">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228080000 +0000" stop="20250228140000 +0000" channel="Eurosport 1">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228140000 +0000" stop="20250228200000 +0000" channel="Eurosport 1">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="Eurosport 1">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250227220000 +0000" stop="20250228000000 +0000" channel="Eurosport 2">
-        <title>Snooker: World Open</title>
-    </programme>
-    <programme start="20250228000000 +0000" stop="20250228010000 +0000" channel="Eurosport 2">
-        <title>Cycling: O Gran Camino</title>
-    </programme>
-    <programme start="20250228010000 +0000" stop="20250228020000 +0000" channel="Eurosport 2">
-        <title>Cross-Country Skiing World Championships Trondheim</title>
-    </programme>
-    <programme start="20250228020000 +0000" stop="20250228080000 +0000" channel="Eurosport 2">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228080000 +0000" stop="20250228140000 +0000" channel="Eurosport 2">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228140000 +0000" stop="20250228200000 +0000" channel="Eurosport 2">
-        <title>This Channel Has Closed</title>
-    </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="Eurosport 2">
-        <title>This Channel Has Closed</title>
     </programme>
     <programme start="20250227180000 +0000" stop="20250227230000 +0000" channel="SkySp Racing HD">
         <title>Stateside Live</title>
