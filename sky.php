@@ -29001,13 +29001,10 @@
     <programme start="20250228083000 +0000" stop="20250228090000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250228090000 +0000" stop="20250228091500 +0000" channel="Eman Channel">
-        <title>Morning Remembrance</title>
-    </programme>
-    <programme start="20250228091500 +0000" stop="20250228120000 +0000" channel="Eman Channel">
+    <programme start="20250228090000 +0000" stop="20250228121000 +0000" channel="Eman Channel">
         <title>Preparing For Ramadan</title>
     </programme>
-    <programme start="20250228120000 +0000" stop="20250228121800 +0000" channel="Eman Channel">
+    <programme start="20250228121000 +0000" stop="20250228121800 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250228121800 +0000" stop="20250228122300 +0000" channel="Eman Channel">
@@ -29016,10 +29013,10 @@
     <programme start="20250228122300 +0000" stop="20250228124800 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250228124800 +0000" stop="20250228130000 +0000" channel="Eman Channel">
+    <programme start="20250228124800 +0000" stop="20250228131500 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
-    <programme start="20250228130000 +0000" stop="20250228140000 +0000" channel="Eman Channel">
+    <programme start="20250228131500 +0000" stop="20250228140000 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250228140000 +0000" stop="20250228141500 +0000" channel="Eman Channel">
