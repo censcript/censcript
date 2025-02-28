@@ -30096,8 +30096,11 @@
     <programme start="20250228180000 +0000" stop="20250228191000 +0000" channel="CHSTV">
         <title>RFC Charity Appeal</title>
     </programme>
-    <programme start="20250228191000 +0000" stop="20250228220000 +0000" channel="CHSTV">
+    <programme start="20250228191000 +0000" stop="20250228191500 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250228191500 +0000" stop="20250228220000 +0000" channel="CHSTV">
+        <title>RFC Charity Appeal</title>
     </programme>
     <programme start="20250228220000 +0000" stop="20250228223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
