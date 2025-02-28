@@ -18091,7 +18091,7 @@
         <title>Chaplet of St Michael</title>
     </programme>
     <programme start="20250228060000 +0000" stop="20250228070000 +0000" channel="EWTN Catholic">
-        <title>Scripture and Tradition with Fr Mitch Pacwa</title>
+        <title>A Holy Hour for Pope Francis</title>
     </programme>
     <programme start="20250228070000 +0000" stop="20250228073000 +0000" channel="EWTN Catholic">
         <title>St Luke's Gospel</title>
@@ -18171,11 +18171,14 @@
     <programme start="20250228193000 +0000" stop="20250228200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250228200000 +0000" stop="20250228210000 +0000" channel="EWTN Catholic">
-        <title>The World Over</title>
+    <programme start="20250228200000 +0000" stop="20250228204500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250228204500 +0000" stop="20250228210000 +0000" channel="EWTN Catholic">
+        <title>Voice of the Pastor</title>
     </programme>
     <programme start="20250228210000 +0000" stop="20250228213000 +0000" channel="EWTN Catholic">
-        <title>EWTN News Nightly</title>
+        <title>A Holy Hour for Pope Francis</title>
     </programme>
     <programme start="20250228213000 +0000" stop="20250228220000 +0000" channel="EWTN Catholic">
         <title>Living Divine Mercy</title>
@@ -27622,7 +27625,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250228140500 +0000" stop="20250228150000 +0000" channel="GEO News">
-        <title>Report Card</title>
+        <title>Geo World News</title>
     </programme>
     <programme start="20250228150000 +0000" stop="20250228150500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -27652,7 +27655,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250228190500 +0000" stop="20250228200000 +0000" channel="GEO News">
-        <title>Report Card</title>
+        <title>Geo World News</title>
     </programme>
     <programme start="20250228200000 +0000" stop="20250228200500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -30328,19 +30331,25 @@
         <title>Apnar Jiggasha</title>
     </programme>
     <programme start="20250228110000 +0000" stop="20250228120000 +0000" channel="NTV">
-        <title>Aposh</title>
+        <title>Guloi</title>
     </programme>
-    <programme start="20250228120000 +0000" stop="20250228122000 +0000" channel="NTV">
+    <programme start="20250228120000 +0000" stop="20250228121900 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250228122000 +0000" stop="20250228122500 +0000" channel="NTV">
+    <programme start="20250228121900 +0000" stop="20250228122000 +0000" channel="NTV">
         <title>Adhan-e-Jumuah</title>
+    </programme>
+    <programme start="20250228122000 +0000" stop="20250228122400 +0000" channel="NTV">
+        <title>Adhan-e-Jumuah</title>
+    </programme>
+    <programme start="20250228122400 +0000" stop="20250228122500 +0000" channel="NTV">
+        <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250228122500 +0000" stop="20250228123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250228123000 +0000" stop="20250228140000 +0000" channel="NTV">
-        <title>Aposh</title>
+        <title>Guloi</title>
     </programme>
     <programme start="20250228140000 +0000" stop="20250228143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -30349,13 +30358,19 @@
         <title>Desher Khobor</title>
     </programme>
     <programme start="20250228150000 +0000" stop="20250228151300 +0000" channel="NTV">
-        <title>Bibek</title>
+        <title>Onuragh</title>
     </programme>
     <programme start="20250228151300 +0000" stop="20250228151800 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250228151800 +0000" stop="20250228163000 +0000" channel="NTV">
+    <programme start="20250228151800 +0000" stop="20250228153600 +0000" channel="NTV">
         <title>Bibek</title>
+    </programme>
+    <programme start="20250228153600 +0000" stop="20250228154100 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
+    <programme start="20250228154100 +0000" stop="20250228163000 +0000" channel="NTV">
+        <title>Onuragh</title>
     </programme>
     <programme start="20250228163000 +0000" stop="20250228170000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
@@ -30369,14 +30384,20 @@
     <programme start="20250228170900 +0000" stop="20250228173000 +0000" channel="NTV">
         <title>Dorsay Hadis</title>
     </programme>
-    <programme start="20250228173000 +0000" stop="20250228183600 +0000" channel="NTV">
+    <programme start="20250228173000 +0000" stop="20250228173500 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
+    </programme>
+    <programme start="20250228173500 +0000" stop="20250228183600 +0000" channel="NTV">
         <title>Jibon Jiggasha with NTV</title>
     </programme>
     <programme start="20250228183600 +0000" stop="20250228184100 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250228184100 +0000" stop="20250228190000 +0000" channel="NTV">
+    <programme start="20250228184100 +0000" stop="20250228185800 +0000" channel="NTV">
         <title>Jibon Jiggasha with NTV</title>
+    </programme>
+    <programme start="20250228185800 +0000" stop="20250228190000 +0000" channel="NTV">
+        <title>Adhan-e-Isha</title>
     </programme>
     <programme start="20250228190000 +0000" stop="20250228191500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -30388,7 +30409,7 @@
         <title>Law and Legal Aid</title>
     </programme>
     <programme start="20250228210000 +0000" stop="20250228213000 +0000" channel="NTV">
-        <title>Mohilangon</title>
+        <title>Quran Onnesha</title>
     </programme>
     <programme start="20250228213000 +0000" stop="20250228220000 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
@@ -30400,7 +30421,7 @@
         <title>Probashi Poribar</title>
     </programme>
     <programme start="20250228230000 +0000" stop="20250301000000 +0000" channel="NTV">
-        <title>Agreement Natok</title>
+        <title>Bhalo Hoye Jaw</title>
     </programme>
     <programme start="20250227223000 +0000" stop="20250228000000 +0000" channel="TV One">
         <title>Live Charity Appeal for IBI</title>
