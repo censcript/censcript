@@ -28956,13 +28956,13 @@
     <programme start="20250228121000 +0000" stop="20250228121800 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250228121800 +0000" stop="20250228122300 +0000" channel="Eman Channel">
+    <programme start="20250228121800 +0000" stop="20250228122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250228122300 +0000" stop="20250228124800 +0000" channel="Eman Channel">
+    <programme start="20250228122500 +0000" stop="20250228125500 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250228124800 +0000" stop="20250228131500 +0000" channel="Eman Channel">
+    <programme start="20250228125500 +0000" stop="20250228131500 +0000" channel="Eman Channel">
         <title>Live Asr Prayer from Makkah</title>
     </programme>
     <programme start="20250228131500 +0000" stop="20250228140000 +0000" channel="Eman Channel">
@@ -28974,13 +28974,13 @@
     <programme start="20250228141500 +0000" stop="20250228143000 +0000" channel="Eman Channel">
         <title>Dweller of the Well</title>
     </programme>
-    <programme start="20250228143000 +0000" stop="20250228150500 +0000" channel="Eman Channel">
+    <programme start="20250228143000 +0000" stop="20250228150400 +0000" channel="Eman Channel">
         <title>When Is Ramadan</title>
     </programme>
-    <programme start="20250228150500 +0000" stop="20250228151000 +0000" channel="Eman Channel">
+    <programme start="20250228150400 +0000" stop="20250228150800 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250228151000 +0000" stop="20250228153000 +0000" channel="Eman Channel">
+    <programme start="20250228150800 +0000" stop="20250228153000 +0000" channel="Eman Channel">
         <title>When Is Ramadan</title>
     </programme>
     <programme start="20250228153000 +0000" stop="20250228154500 +0000" channel="Eman Channel">
@@ -28993,7 +28993,7 @@
         <title>Gems for Ramadan</title>
     </programme>
     <programme start="20250228170000 +0000" stop="20250228171500 +0000" channel="Eman Channel">
-        <title>Omar Suleiman</title>
+        <title>The Other Side</title>
     </programme>
     <programme start="20250228171500 +0000" stop="20250228173000 +0000" channel="Eman Channel">
         <title>Mufti Menk</title>
