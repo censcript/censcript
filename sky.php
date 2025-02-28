@@ -13161,8 +13161,11 @@
     <programme start="20250301233000 +0000" stop="20250302003000 +0000" channel="SkySp Golf HD">
         <title>TGL: The Bay v Jupiter Links</title>
     </programme>
-    <programme start="20250228220000 +0000" stop="20250228233000 +0000" channel="SkySp F1 HD">
-        <title>Indycar Practice 1</title>
+    <programme start="20250228223001 +0000" stop="20250228230001 +0000" channel="SkySp F1 HD">
+        <title>Testing Wrap</title>
+    </programme>
+    <programme start="20250228230001 +0000" stop="20250228233000 +0000" channel="SkySp F1 HD">
+        <title>Ted's Testing Notebook</title>
     </programme>
     <programme start="20250228233000 +0000" stop="20250301000000 +0000" channel="SkySp F1 HD">
         <title>Ted's Development Notebook</title>
@@ -17682,23 +17685,8 @@
     <programme start="20250301003000 +0000" stop="20250301010000 +0000" channel="LoveWorld HD">
         <title>GYTV</title>
     </programme>
-    <programme start="20250301010000 +0000" stop="20250301013000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
-    </programme>
-    <programme start="20250301013000 +0000" stop="20250301020000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
-    </programme>
-    <programme start="20250301020000 +0000" stop="20250301023000 +0000" channel="LoveWorld HD">
-        <title>Enter The Healing School</title>
-    </programme>
-    <programme start="20250301023000 +0000" stop="20250301030000 +0000" channel="LoveWorld HD">
-        <title>Real Miracles Today</title>
-    </programme>
-    <programme start="20250301030000 +0000" stop="20250301033000 +0000" channel="LoveWorld HD">
-        <title>Talking Politics</title>
-    </programme>
-    <programme start="20250301033000 +0000" stop="20250301040000 +0000" channel="LoveWorld HD">
-        <title>Talking Politics</title>
+    <programme start="20250301010000 +0000" stop="20250301040000 +0000" channel="LoveWorld HD">
+        <title>Global Prayer and Fasting with Pastor Chris</title>
     </programme>
     <programme start="20250301040000 +0000" stop="20250301043000 +0000" channel="LoveWorld HD">
         <title>Today on Rhapsody of Realities</title>
@@ -28332,25 +28320,28 @@
     <programme start="20250301233000 +0000" stop="20250302003000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250228191500 +0000" stop="20250301011500 +0000" channel="Eman Channel">
+    <programme start="20250228192000 +0000" stop="20250301012000 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250301011500 +0000" stop="20250301050500 +0000" channel="Eman Channel">
+    <programme start="20250301012000 +0000" stop="20250301045400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250301050500 +0000" stop="20250301050900 +0000" channel="Eman Channel">
-        <title>Fajr Adhan</title>
+    <programme start="20250301045400 +0000" stop="20250301050500 +0000" channel="Eman Channel">
+        <title>Fajr Adhan 18 Degrees</title>
     </programme>
-    <programme start="20250301050900 +0000" stop="20250301051500 +0000" channel="Eman Channel">
+    <programme start="20250301050500 +0000" stop="20250301051300 +0000" channel="Eman Channel">
+        <title>Fajr Adhan 12 Degrees</title>
+    </programme>
+    <programme start="20250301051300 +0000" stop="20250301052000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250301051500 +0000" stop="20250301053000 +0000" channel="Eman Channel">
-        <title>The Other Side</title>
+    <programme start="20250301052000 +0000" stop="20250301053500 +0000" channel="Eman Channel">
+        <title>Omar Suleiman</title>
     </programme>
-    <programme start="20250301053000 +0000" stop="20250301054500 +0000" channel="Eman Channel">
+    <programme start="20250301053500 +0000" stop="20250301055000 +0000" channel="Eman Channel">
         <title>Mufti Menk</title>
     </programme>
-    <programme start="20250301054500 +0000" stop="20250301060000 +0000" channel="Eman Channel">
+    <programme start="20250301055000 +0000" stop="20250301060000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250301060000 +0000" stop="20250301070000 +0000" channel="Eman Channel">
