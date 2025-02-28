@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250228195000 +0000" stop="20250228231000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Aston Villa v Cardiff City</title>
-    </programme>
     <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Ulsan v Jeonbuk</title>
     </programme>

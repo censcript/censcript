@@ -14584,7 +14584,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250228233000 +0000" stop="20250301000000 +0000" channel="BBC NEWS HD">
-        <title>The President's Path: Macron and Starmer meet Trump</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250301000000 +0000" stop="20250301003000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -26760,14 +26760,11 @@
     <programme start="20250301061500 +0000" stop="20250301063000 +0000" channel="MTA1 World HD">
         <title>Dars-e-Ramadhan</title>
     </programme>
-    <programme start="20250301063000 +0000" stop="20250301065000 +0000" channel="MTA1 World HD">
-        <title>Virtues Of Ahmad</title>
+    <programme start="20250301063000 +0000" stop="20250301070000 +0000" channel="MTA1 World HD">
+        <title>Noor-e-Hidayat</title>
     </programme>
-    <programme start="20250301065000 +0000" stop="20250301074500 +0000" channel="MTA1 World HD">
+    <programme start="20250301070000 +0000" stop="20250301080000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
-    </programme>
-    <programme start="20250301074500 +0000" stop="20250301080000 +0000" channel="MTA1 World HD">
-        <title>100 Years Of Sierra Leone Jama'at</title>
     </programme>
     <programme start="20250301080000 +0000" stop="20250301085000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
@@ -26785,7 +26782,7 @@
         <title>Peace Symposium 2024</title>
     </programme>
     <programme start="20250301114000 +0000" stop="20250301121000 +0000" channel="MTA1 World HD">
-        <title>Little Legends</title>
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250301121000 +0000" stop="20250301122500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -26818,7 +26815,7 @@
         <title>100 Years Of Sierra Leone Jama'at</title>
     </programme>
     <programme start="20250301175000 +0000" stop="20250301180000 +0000" channel="MTA1 World HD">
-        <title>Obedience Of Sahaba</title>
+        <title>Seerat Sahaba Rasool</title>
     </programme>
     <programme start="20250301180000 +0000" stop="20250301182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26845,7 +26842,7 @@
         <title>Tilawat</title>
     </programme>
     <programme start="20250301235000 +0000" stop="20250302005000 +0000" channel="MTA1 World HD">
-        <title>Obedience Of Sahaba</title>
+        <title>Seerat Sahaba Rasool</title>
     </programme>
     <programme start="20250228220000 +0000" stop="20250228230000 +0000" channel="HUM Masala">
         <title>Food Diaries</title>
