@@ -6051,14 +6051,11 @@
     <programme start="20250301164500 +0000" stop="20250301170000 +0000" channel="BBC ALBA HD">
         <title>Sionnach agus Maigheach (Fox &amp; Hare)</title>
     </programme>
-    <programme start="20250301170000 +0000" stop="20250301171000 +0000" channel="BBC ALBA HD">
+    <programme start="20250301170000 +0000" stop="20250301171500 +0000" channel="BBC ALBA HD">
         <title>Belle agus Sebastian</title>
     </programme>
-    <programme start="20250301171000 +0000" stop="20250301172500 +0000" channel="BBC ALBA HD">
+    <programme start="20250301171500 +0000" stop="20250301173000 +0000" channel="BBC ALBA HD">
         <title>Belle agus Sebastian</title>
-    </programme>
-    <programme start="20250301172500 +0000" stop="20250301173000 +0000" channel="BBC ALBA HD">
-        <title>@12</title>
     </programme>
     <programme start="20250301173000 +0000" stop="20250301174500 +0000" channel="BBC ALBA HD">
         <title>Clann na Cruinne</title>
@@ -7293,11 +7290,8 @@
     <programme start="20250301040000 +0000" stop="20250301053500 +0000" channel="Channel 5+1">
         <title>Xanadu</title>
     </programme>
-    <programme start="20250301053500 +0000" stop="20250301060400 +0000" channel="Channel 5+1">
+    <programme start="20250301053500 +0000" stop="20250301060500 +0000" channel="Channel 5+1">
         <title>Wildlife SOS</title>
-    </programme>
-    <programme start="20250301060400 +0000" stop="20250301060500 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250301060500 +0000" stop="20250301063000 +0000" channel="Channel 5+1">
         <title>Divine Designs</title>
@@ -13146,10 +13140,10 @@
     <programme start="20250301013001 +0000" stop="20250301060000 +0000" channel="SkySp Golf HD">
         <title>Live LPGA Tour Golf</title>
     </programme>
-    <programme start="20250301060000 +0000" stop="20250301073000 +0000" channel="SkySp Golf HD">
+    <programme start="20250301060000 +0000" stop="20250301063001 +0000" channel="SkySp Golf HD">
         <title>Live LPGA Tour Golf</title>
     </programme>
-    <programme start="20250301073000 +0000" stop="20250301103000 +0000" channel="SkySp Golf HD">
+    <programme start="20250301063001 +0000" stop="20250301103000 +0000" channel="SkySp Golf HD">
         <title>Live Icons Series Golf: Bangkok</title>
     </programme>
     <programme start="20250301103000 +0000" stop="20250301150000 +0000" channel="SkySp Golf HD">
@@ -13566,8 +13560,11 @@
     <programme start="20250301151500 +0000" stop="20250301173000 +0000" channel="TNT Sports 2">
         <title>Live: Cycling World Tour - Women</title>
     </programme>
-    <programme start="20250301173000 +0000" stop="20250301193000 +0000" channel="TNT Sports 2">
-        <title>Live: Global Champions Tour</title>
+    <programme start="20250301173000 +0000" stop="20250301183000 +0000" channel="TNT Sports 2">
+        <title>Brisbane Roar v Melbourne Victory</title>
+    </programme>
+    <programme start="20250301183000 +0000" stop="20250301193000 +0000" channel="TNT Sports 2">
+        <title>Macarthur FC v Sydney FC</title>
     </programme>
     <programme start="20250301193000 +0000" stop="20250301210000 +0000" channel="TNT Sports 2">
         <title>NBA: Clippers @ Lakers</title>
@@ -29406,6 +29403,9 @@
     <programme start="20250301223000 +0000" stop="20250301233000 +0000" channel="CHSTV">
         <title>Ramadan Charity Appeal 2025</title>
     </programme>
+    <programme start="20250228202500 +0000" stop="20250301020000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
     <programme start="20250301020000 +0000" stop="20250301050500 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
@@ -29656,88 +29656,91 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250301083000 +0000" stop="20250301090000 +0000" channel="NTV">
-        <title>Badshah</title>
+        <title>Kafelar Canvas</title>
     </programme>
     <programme start="20250301090000 +0000" stop="20250301093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
-    <programme start="20250301093000 +0000" stop="20250301120000 +0000" channel="NTV">
-        <title>Badshah</title>
+    <programme start="20250301093000 +0000" stop="20250301100000 +0000" channel="NTV">
+        <title>Taroka Konthe Al Quran</title>
     </programme>
-    <programme start="20250301120000 +0000" stop="20250301122000 +0000" channel="NTV">
+    <programme start="20250301100000 +0000" stop="20250301110000 +0000" channel="NTV">
+        <title>Quraner Alo</title>
+    </programme>
+    <programme start="20250301110000 +0000" stop="20250301120000 +0000" channel="NTV">
+        <title>Besamal</title>
+    </programme>
+    <programme start="20250301120000 +0000" stop="20250301121800 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250301122000 +0000" stop="20250301122500 +0000" channel="NTV">
+    <programme start="20250301121800 +0000" stop="20250301122300 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250301122500 +0000" stop="20250301123000 +0000" channel="NTV">
+    <programme start="20250301122300 +0000" stop="20250301123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250301123000 +0000" stop="20250301140000 +0000" channel="NTV">
-        <title>Aine O Adhiker</title>
+    <programme start="20250301123000 +0000" stop="20250301130000 +0000" channel="NTV">
+        <title>Food Caravan</title>
+    </programme>
+    <programme start="20250301130000 +0000" stop="20250301140000 +0000" channel="NTV">
+        <title>Al Furqaan</title>
     </programme>
     <programme start="20250301140000 +0000" stop="20250301143000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
+        <title>Kafelar Canvas</title>
     </programme>
     <programme start="20250301143000 +0000" stop="20250301150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250301150000 +0000" stop="20250301151500 +0000" channel="NTV">
-        <title>Roop kothar Raat</title>
+    <programme start="20250301150000 +0000" stop="20250301153000 +0000" channel="NTV">
+        <title>Virtues Of Ramadan</title>
     </programme>
-    <programme start="20250301151500 +0000" stop="20250301152000 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250301152000 +0000" stop="20250301163000 +0000" channel="NTV">
-        <title>Roop kothar Raat</title>
-    </programme>
-    <programme start="20250301163000 +0000" stop="20250301170000 +0000" channel="NTV">
+    <programme start="20250301153000 +0000" stop="20250301154900 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250301170000 +0000" stop="20250301170600 +0000" channel="NTV">
-        <title>Gallary</title>
+    <programme start="20250301154900 +0000" stop="20250301155400 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250301170600 +0000" stop="20250301171100 +0000" channel="NTV">
+    <programme start="20250301155400 +0000" stop="20250301160000 +0000" channel="NTV">
+        <title>NTV NEWS-Shondhar Khobor</title>
+    </programme>
+    <programme start="20250301160000 +0000" stop="20250301170000 +0000" channel="NTV">
+        <title>Quraner Alo</title>
+    </programme>
+    <programme start="20250301170000 +0000" stop="20250301174400 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250301174400 +0000" stop="20250301174900 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250301171100 +0000" stop="20250301173000 +0000" channel="NTV">
-        <title>Gallary</title>
+    <programme start="20250301174900 +0000" stop="20250301190000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250301173000 +0000" stop="20250301180000 +0000" channel="NTV">
-        <title>Crime Watch</title>
+    <programme start="20250301190000 +0000" stop="20250301191000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250301180000 +0000" stop="20250301183800 +0000" channel="NTV">
-        <title>Apon Je Jon</title>
-    </programme>
-    <programme start="20250301183800 +0000" stop="20250301184300 +0000" channel="NTV">
+    <programme start="20250301191000 +0000" stop="20250301191500 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250301184300 +0000" stop="20250301190000 +0000" channel="NTV">
-        <title>Apon Je Jon</title>
-    </programme>
-    <programme start="20250301190000 +0000" stop="20250301191500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
-    </programme>
     <programme start="20250301191500 +0000" stop="20250301200000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250301200000 +0000" stop="20250301210000 +0000" channel="NTV">
-        <title>Bokhate</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250301210000 +0000" stop="20250301213000 +0000" channel="NTV">
-        <title>Kurulus Osman Gazi</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250301213000 +0000" stop="20250301220000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250301220000 +0000" stop="20250301223000 +0000" channel="NTV">
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250301223000 +0000" stop="20250301230000 +0000" channel="NTV">
-        <title>Probashi Poribar</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250301230000 +0000" stop="20250302000000 +0000" channel="NTV">
-        <title>Career</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250228223000 +0000" stop="20250301043000 +0000" channel="TV One">
         <title>Live Appeal with Muslim Hands</title>
@@ -33493,7 +33496,7 @@
         <title>Live: Cycling World Tour - Women</title>
     </programme>
     <programme start="20250301173000 +0000" stop="20250301183000 +0000" channel="TNTSports2 HD">
-        <title>Live: Global Champions Tour</title>
+        <title>Brisbane Roar v Melbourne Victory</title>
     </programme>
     <programme start="20250301183000 +0000" stop="20250301193000 +0000" channel="TNTSports2 HD">
         <title>Macarthur FC v Sydney FC</title>
