@@ -29688,11 +29688,8 @@
     <programme start="20250301093000 +0000" stop="20250301100000 +0000" channel="NTV">
         <title>Taroka Konthe Al Quran</title>
     </programme>
-    <programme start="20250301100000 +0000" stop="20250301110000 +0000" channel="NTV">
-        <title>Quraner Alo</title>
-    </programme>
-    <programme start="20250301110000 +0000" stop="20250301120000 +0000" channel="NTV">
-        <title>Besamal</title>
+    <programme start="20250301100000 +0000" stop="20250301120000 +0000" channel="NTV">
+        <title>Adorer Choto Bhai</title>
     </programme>
     <programme start="20250301120000 +0000" stop="20250301121800 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
@@ -29704,13 +29701,16 @@
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250301123000 +0000" stop="20250301130000 +0000" channel="NTV">
-        <title>Food Caravan</title>
+        <title>Adorer Choto Bhai</title>
     </programme>
-    <programme start="20250301130000 +0000" stop="20250301140000 +0000" channel="NTV">
-        <title>Al Furqaan</title>
+    <programme start="20250301130000 +0000" stop="20250301133000 +0000" channel="NTV">
+        <title>Seeratunnabi</title>
+    </programme>
+    <programme start="20250301133000 +0000" stop="20250301140000 +0000" channel="NTV">
+        <title>Taroka Konthe Al Quran</title>
     </programme>
     <programme start="20250301140000 +0000" stop="20250301143000 +0000" channel="NTV">
-        <title>Kafelar Canvas</title>
+        <title>Shahjalal Madrasha Trust</title>
     </programme>
     <programme start="20250301143000 +0000" stop="20250301150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
