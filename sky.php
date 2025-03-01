@@ -27750,8 +27750,11 @@
     <programme start="20250301045200 +0000" stop="20250301045700 +0000" channel="Islam TV">
         <title>Fajr Azan</title>
     </programme>
-    <programme start="20250301045700 +0000" stop="20250301050700 +0000" channel="Islam TV">
+    <programme start="20250301045700 +0000" stop="20250301050500 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
+    </programme>
+    <programme start="20250301050500 +0000" stop="20250301050700 +0000" channel="Islam TV">
+        <title>Second Sehr Dua</title>
     </programme>
     <programme start="20250301050700 +0000" stop="20250301060000 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
@@ -29929,10 +29932,10 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250301133000 +0000" stop="20250301140000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>Madinar Alo</title>
     </programme>
     <programme start="20250301140000 +0000" stop="20250301150000 +0000" channel="iON TV">
-        <title>Islamic Knowledge By Azhari</title>
+        <title>Madinar Alo</title>
     </programme>
     <programme start="20250301150000 +0000" stop="20250301154900 +0000" channel="iON TV">
         <title>Quran Recitation</title>
