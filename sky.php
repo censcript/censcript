@@ -13320,22 +13320,22 @@
     <programme start="20250302050000 +0000" stop="20250302060000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250302060000 +0000" stop="20250302070000 +0000" channel="SkySp+ HD">
+    <programme start="20250302060000 +0000" stop="20250302063001 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250302070000 +0000" stop="20250302080000 +0000" channel="SkySp+ HD">
-        <title>Good Morning Sports Fans</title>
+    <programme start="20250302063001 +0000" stop="20250302103001 +0000" channel="SkySp+ HD">
+        <title>Live Icons Series Golf: Bangkok</title>
     </programme>
-    <programme start="20250302080000 +0000" stop="20250302090000 +0000" channel="SkySp+ HD">
-        <title>Good Morning Sports Fans</title>
-    </programme>
-    <programme start="20250302090000 +0000" stop="20250302093000 +0000" channel="SkySp+ HD">
-        <title>Good Morning Sports Fans</title>
-    </programme>
-    <programme start="20250302093000 +0000" stop="20250302143000 +0000" channel="SkySp+ HD">
+    <programme start="20250302103001 +0000" stop="20250302140001 +0000" channel="SkySp+ HD">
         <title>Live DP World Tour Golf</title>
     </programme>
-    <programme start="20250302143000 +0000" stop="20250302163000 +0000" channel="SkySp+ HD">
+    <programme start="20250302140001 +0000" stop="20250302140501 +0000" channel="SkySp+ HD">
+        <title>B'Liga Top 10 Der Klassiker Moments</title>
+    </programme>
+    <programme start="20250302140501 +0000" stop="20250302142001 +0000" channel="SkySp+ HD">
+        <title>SPFL 2021/22: Hearts v Hibernian</title>
+    </programme>
+    <programme start="20250302142001 +0000" stop="20250302163000 +0000" channel="SkySp+ HD">
         <title>Live B'Liga: Union Berlin v Kiel</title>
     </programme>
     <programme start="20250302163000 +0000" stop="20250302183000 +0000" channel="SkySp+ HD">
@@ -23437,7 +23437,7 @@
         <title>Hobbs London</title>
     </programme>
     <programme start="20250302010000 +0000" stop="20250302020000 +0000" channel="QVC Style HD">
-        <title>1st Seen in Nina's Wardrobe</title>
+        <title>Nina Leonard's Wardrobe Heroes</title>
     </programme>
     <programme start="20250302020000 +0000" stop="20250302030000 +0000" channel="QVC Style HD">
         <title>Summer Fashion Edit</title>
@@ -23482,7 +23482,7 @@
         <title>New Season Looks with Denim &amp; Co</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302170000 +0000" channel="QVC Style HD">
-        <title>QVC Selection</title>
+        <title>New Season Monsoon</title>
     </programme>
     <programme start="20250302170000 +0000" stop="20250302180000 +0000" channel="QVC Style HD">
         <title>The Footwear Edit</title>
@@ -24097,7 +24097,7 @@
         <title>New Season Looks with Denim &amp; Co</title>
     </programme>
     <programme start="20250302090000 +0000" stop="20250302100000 +0000" channel="QVC Extra">
-        <title>QVC Selection</title>
+        <title>Step into Spring</title>
     </programme>
     <programme start="20250302100000 +0000" stop="20250302110000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -28383,23 +28383,20 @@
     <programme start="20250302113000 +0000" stop="20250302130000 +0000" channel="Sangat">
         <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250302130000 +0000" stop="20250302133000 +0000" channel="Sangat">
-        <title>Saka Sri Nankana Sahib</title>
-    </programme>
-    <programme start="20250302133000 +0000" stop="20250302140000 +0000" channel="Sangat">
-        <title>Walk for Change</title>
+    <programme start="20250302130000 +0000" stop="20250302140000 +0000" channel="Sangat">
+        <title>Organic Farming</title>
     </programme>
     <programme start="20250302140000 +0000" stop="20250302143000 +0000" channel="Sangat">
-        <title>Mental Health Matters</title>
+        <title>350 Years of Shaheedi: Sehaj Paath</title>
     </programme>
     <programme start="20250302143000 +0000" stop="20250302150000 +0000" channel="Sangat">
         <title>Sangat Aid Eye Camp</title>
     </programme>
     <programme start="20250302150000 +0000" stop="20250302153000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Punjabi Rasoi</title>
     </programme>
     <programme start="20250302153000 +0000" stop="20250302160000 +0000" channel="Sangat">
-        <title>350 Years of Shaheedi: Sehaj Paath</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302163000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -28414,7 +28411,7 @@
         <title>Katha Vichar</title>
     </programme>
     <programme start="20250302190000 +0000" stop="20250302193000 +0000" channel="Sangat">
-        <title>Sangat Matrimonial</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250302193000 +0000" stop="20250302203000 +0000" channel="Sangat">
         <title>Educate To Save</title>
@@ -28422,11 +28419,14 @@
     <programme start="20250302203000 +0000" stop="20250302213000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
     </programme>
-    <programme start="20250302213000 +0000" stop="20250302230000 +0000" channel="Sangat">
-        <title>Naam Simran</title>
+    <programme start="20250302213000 +0000" stop="20250302220000 +0000" channel="Sangat">
+        <title>Dharat De Jaaye</title>
+    </programme>
+    <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="Sangat">
+        <title>Hukamnama Katha</title>
     </programme>
     <programme start="20250302230000 +0000" stop="20250303000000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Saka Sri Nankana Sahib</title>
     </programme>
     <programme start="20250301223000 +0000" stop="20250301233000 +0000" channel="Akaal Channel">
         <title>Akaal London: Mudhe</title>
