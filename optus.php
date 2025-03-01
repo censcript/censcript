@@ -3,7 +3,7 @@
     <programme start="20250301145000 +0000" stop="20250301181000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Bournemouth v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250301173500 +0000" stop="20250301205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250301173500 +0000" stop="20250301205500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Manchester City v Plymouth</title>
     </programme>
     <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 8.optus">
