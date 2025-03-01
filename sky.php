@@ -28350,11 +28350,8 @@
     <programme start="20250301051300 +0000" stop="20250301052000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250301052000 +0000" stop="20250301053500 +0000" channel="Eman Channel">
-        <title>Omar Suleiman</title>
-    </programme>
-    <programme start="20250301053500 +0000" stop="20250301055000 +0000" channel="Eman Channel">
-        <title>Mufti Menk</title>
+    <programme start="20250301052000 +0000" stop="20250301055000 +0000" channel="Eman Channel">
+        <title>Light Upon Light Winter 2025</title>
     </programme>
     <programme start="20250301055000 +0000" stop="20250301060000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
