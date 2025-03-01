@@ -26829,8 +26829,14 @@
     <programme start="20250302095000 +0000" stop="20250302100000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Dhuhr</title>
     </programme>
-    <programme start="20250302100000 +0000" stop="20250302103000 +0000" channel="Islam Channel">
-        <title>Deen Show</title>
+    <programme start="20250302100000 +0000" stop="20250302100500 +0000" channel="Islam Channel">
+        <title>Conversations in Quran</title>
+    </programme>
+    <programme start="20250302100500 +0000" stop="20250302101500 +0000" channel="Islam Channel">
+        <title>Palestine Nation Resists, Justice Denied</title>
+    </programme>
+    <programme start="20250302101500 +0000" stop="20250302103000 +0000" channel="Islam Channel">
+        <title>5 Pillars Pop Quiz</title>
     </programme>
     <programme start="20250302103000 +0000" stop="20250302104000 +0000" channel="Islam Channel">
         <title>Other Side: Barzakh and Beyond</title>
@@ -26877,14 +26883,8 @@
     <programme start="20250302151100 +0000" stop="20250302153000 +0000" channel="Islam Channel">
         <title>Recite Live</title>
     </programme>
-    <programme start="20250302153000 +0000" stop="20250302155000 +0000" channel="Islam Channel">
-        <title>Quran for Hearts and Minds</title>
-    </programme>
-    <programme start="20250302155000 +0000" stop="20250302155500 +0000" channel="Islam Channel">
-        <title>He is Messenger of God</title>
-    </programme>
-    <programme start="20250302155500 +0000" stop="20250302160000 +0000" channel="Islam Channel">
-        <title>Animal Stories in Quran</title>
+    <programme start="20250302153000 +0000" stop="20250302160000 +0000" channel="Islam Channel">
+        <title>Ramadan On Road</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302163000 +0000" channel="Islam Channel">
         <title>National Qira'ah Comp Live</title>
@@ -28509,16 +28509,16 @@
     <programme start="20250302210000 +0000" stop="20250302210500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
     </programme>
-    <programme start="20250302210500 +0000" stop="20250302213500 +0000" channel="Akaal Channel">
-        <title>Sikh khabarnama</title>
-    </programme>
-    <programme start="20250302213500 +0000" stop="20250302225000 +0000" channel="Akaal Channel">
+    <programme start="20250302210500 +0000" stop="20250302222000 +0000" channel="Akaal Channel">
         <title>News Point</title>
     </programme>
-    <programme start="20250302225000 +0000" stop="20250302235000 +0000" channel="Akaal Channel">
+    <programme start="20250302222000 +0000" stop="20250302232000 +0000" channel="Akaal Channel">
         <title>Teleshopping: Panj Takht</title>
     </programme>
-    <programme start="20250302235000 +0000" stop="20250303005000 +0000" channel="Akaal Channel">
+    <programme start="20250302232000 +0000" stop="20250302233500 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
+    </programme>
+    <programme start="20250302233500 +0000" stop="20250303003500 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
     <programme start="20250301213000 +0000" stop="20250302001500 +0000" channel="Kanshi TV">
