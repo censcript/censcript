@@ -27499,7 +27499,7 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250302050000 +0000" stop="20250302060000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Ramadan Moments</title>
     </programme>
     <programme start="20250302060000 +0000" stop="20250302070000 +0000" channel="Takbeer TV">
         <title>Tilawat e Quran Pak</title>
@@ -27532,13 +27532,13 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302170000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250302170000 +0000" stop="20250302180000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250302180000 +0000" stop="20250302190000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250302190000 +0000" stop="20250302200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -27996,7 +27996,10 @@
     <programme start="20250302010000 +0000" stop="20250302020000 +0000" channel="ARY Digital">
         <title>Naqaab</title>
     </programme>
-    <programme start="20250302020000 +0000" stop="20250302050300 +0000" channel="ARY Digital">
+    <programme start="20250302020000 +0000" stop="20250302022500 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250302022500 +0000" stop="20250302050300 +0000" channel="ARY Digital">
         <title>Shan-e-Sehr</title>
     </programme>
     <programme start="20250302050300 +0000" stop="20250302051100 +0000" channel="ARY Digital">
@@ -28008,17 +28011,26 @@
     <programme start="20250302053000 +0000" stop="20250302060000 +0000" channel="ARY Digital">
         <title>Dars-e-Bukhari</title>
     </programme>
-    <programme start="20250302060000 +0000" stop="20250302083000 +0000" channel="ARY Digital">
-        <title>Jeeto Pakistan League</title>
+    <programme start="20250302060000 +0000" stop="20250302070000 +0000" channel="ARY Digital">
+        <title>Naqaab</title>
     </programme>
-    <programme start="20250302083000 +0000" stop="20250302090000 +0000" channel="ARY Digital">
-        <title>Sirat-e-Mustaqeem</title>
+    <programme start="20250302070000 +0000" stop="20250302080000 +0000" channel="ARY Digital">
+        <title>Ae Dil</title>
     </programme>
-    <programme start="20250302090000 +0000" stop="20250302110000 +0000" channel="ARY Digital">
-        <title>Good Morning Pakistan</title>
+    <programme start="20250302080000 +0000" stop="20250302090000 +0000" channel="ARY Digital">
+        <title>Ae Ishq-e-Junoon</title>
+    </programme>
+    <programme start="20250302090000 +0000" stop="20250302093000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250302093000 +0000" stop="20250302100000 +0000" channel="ARY Digital">
+        <title>Deen-e-Fitrat</title>
+    </programme>
+    <programme start="20250302100000 +0000" stop="20250302110000 +0000" channel="ARY Digital">
+        <title>Dastak</title>
     </programme>
     <programme start="20250302110000 +0000" stop="20250302120000 +0000" channel="ARY Digital">
-        <title>Ae Ishq-e-Junoon</title>
+        <title>Bharam</title>
     </programme>
     <programme start="20250302120000 +0000" stop="20250302121800 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
@@ -28029,10 +28041,7 @@
     <programme start="20250302122400 +0000" stop="20250302130000 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
     </programme>
-    <programme start="20250302130000 +0000" stop="20250302140000 +0000" channel="ARY Digital">
-        <title>Bulbulay</title>
-    </programme>
-    <programme start="20250302140000 +0000" stop="20250302150600 +0000" channel="ARY Digital">
+    <programme start="20250302130000 +0000" stop="20250302150600 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
     </programme>
     <programme start="20250302150600 +0000" stop="20250302151200 +0000" channel="ARY Digital">
@@ -28044,10 +28053,10 @@
     <programme start="20250302174600 +0000" stop="20250302175200 +0000" channel="ARY Digital">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250302175200 +0000" stop="20250302183000 +0000" channel="ARY Digital">
+    <programme start="20250302175200 +0000" stop="20250302181500 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
     </programme>
-    <programme start="20250302183000 +0000" stop="20250302191200 +0000" channel="ARY Digital">
+    <programme start="20250302181500 +0000" stop="20250302191200 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
     </programme>
     <programme start="20250302191200 +0000" stop="20250302191800 +0000" channel="ARY Digital">
@@ -28056,14 +28065,14 @@
     <programme start="20250302191800 +0000" stop="20250302213000 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
     </programme>
-    <programme start="20250302213000 +0000" stop="20250302220000 +0000" channel="ARY Digital">
-        <title>Bulbulay</title>
+    <programme start="20250302213000 +0000" stop="20250302223000 +0000" channel="ARY Digital">
+        <title>Naqaab</title>
     </programme>
-    <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="ARY Digital">
-        <title>Ae Dil</title>
-    </programme>
-    <programme start="20250302230000 +0000" stop="20250303000000 +0000" channel="ARY Digital">
+    <programme start="20250302223000 +0000" stop="20250302233000 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
+    </programme>
+    <programme start="20250302233000 +0000" stop="20250303003000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
     </programme>
     <programme start="20250301220000 +0000" stop="20250301230000 +0000" channel="QTV Religious">
         <title>Daura E Tarjuma E Qur'an</title>
@@ -28530,13 +28539,13 @@
     <programme start="20250302090000 +0000" stop="20250302093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250302093000 +0000" stop="20250302094500 +0000" channel="Kanshi TV">
+    <programme start="20250302093000 +0000" stop="20250302100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250302094500 +0000" stop="20250302123000 +0000" channel="Kanshi TV">
+    <programme start="20250302100000 +0000" stop="20250302120000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
-    <programme start="20250302123000 +0000" stop="20250302130000 +0000" channel="Kanshi TV">
+    <programme start="20250302120000 +0000" stop="20250302130000 +0000" channel="Kanshi TV">
         <title>Bharat ki Awaz</title>
     </programme>
     <programme start="20250302130000 +0000" stop="20250302140000 +0000" channel="Kanshi TV">
