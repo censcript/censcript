@@ -25386,11 +25386,8 @@
     <programme start="20250302060000 +0000" stop="20250302070000 +0000" channel="MATV National">
         <title>Vishnu Shastranam</title>
     </programme>
-    <programme start="20250302070000 +0000" stop="20250302073000 +0000" channel="MATV National">
-        <title>Gurbani</title>
-    </programme>
-    <programme start="20250302073000 +0000" stop="20250302080000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
+    <programme start="20250302070000 +0000" stop="20250302080000 +0000" channel="MATV National">
+        <title>Gurbani Katha Veechar</title>
     </programme>
     <programme start="20250302080000 +0000" stop="20250302083000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
@@ -26940,38 +26937,32 @@
     <programme start="20250302053000 +0000" stop="20250302060000 +0000" channel="GEO TV">
         <title>Kurulus Osman</title>
     </programme>
-    <programme start="20250302060000 +0000" stop="20250302063000 +0000" channel="GEO TV">
-        <title>Quran Sub Kay Liye</title>
+    <programme start="20250302060000 +0000" stop="20250302070000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
-    <programme start="20250302063000 +0000" stop="20250302080000 +0000" channel="GEO TV">
+    <programme start="20250302070000 +0000" stop="20250302080000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
     <programme start="20250302080000 +0000" stop="20250302090000 +0000" channel="GEO TV">
-        <title>Aas Paas</title>
+        <title>Mann Mast Malang</title>
     </programme>
     <programme start="20250302090000 +0000" stop="20250302100000 +0000" channel="GEO TV">
-        <title>Dao</title>
-    </programme>
-    <programme start="20250302100000 +0000" stop="20250302103000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
-    <programme start="20250302103000 +0000" stop="20250302110000 +0000" channel="GEO TV">
-        <title>Dayyan</title>
+    <programme start="20250302100000 +0000" stop="20250302110000 +0000" channel="GEO TV">
+        <title>Dao</title>
     </programme>
-    <programme start="20250302110000 +0000" stop="20250302120000 +0000" channel="GEO TV">
-        <title>Dayyan</title>
-    </programme>
-    <programme start="20250302120000 +0000" stop="20250302130000 +0000" channel="GEO TV">
+    <programme start="20250302110000 +0000" stop="20250302123000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250302130000 +0000" stop="20250302140000 +0000" channel="GEO TV">
-        <title>Aas Paas</title>
-    </programme>
-    <programme start="20250302140000 +0000" stop="20250302150000 +0000" channel="GEO TV">
+    <programme start="20250302123000 +0000" stop="20250302133000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
     </programme>
-    <programme start="20250302150000 +0000" stop="20250302160000 +0000" channel="GEO TV">
+    <programme start="20250302133000 +0000" stop="20250302143000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
+    </programme>
+    <programme start="20250302143000 +0000" stop="20250302160000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302170000 +0000" channel="GEO TV">
         <title>Makafat</title>
