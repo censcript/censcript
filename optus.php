@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250301072000 +0000" stop="20250301094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Daegu</title>
-    </programme>
     <programme start="20250301120500 +0000" stop="20250301152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Millwall</title>
     </programme>

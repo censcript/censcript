@@ -28374,8 +28374,11 @@
     <programme start="20250301084500 +0000" stop="20250301090000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250301090000 +0000" stop="20250301110000 +0000" channel="Eman Channel">
+    <programme start="20250301090000 +0000" stop="20250301104000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
+    </programme>
+    <programme start="20250301104000 +0000" stop="20250301110000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250301110000 +0000" stop="20250301111500 +0000" channel="Eman Channel">
         <title>A Sisters Ramadan</title>
