@@ -27594,11 +27594,8 @@
     <programme start="20250301070000 +0000" stop="20250301075500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250301075500 +0000" stop="20250301081300 +0000" channel="IQRA TV">
+    <programme start="20250301075500 +0000" stop="20250301081500 +0000" channel="IQRA TV">
         <title>Manzil</title>
-    </programme>
-    <programme start="20250301081300 +0000" stop="20250301081500 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250301081500 +0000" stop="20250301084500 +0000" channel="IQRA TV">
         <title>Ramadan Special</title>
@@ -27609,26 +27606,17 @@
     <programme start="20250301090000 +0000" stop="20250301093000 +0000" channel="IQRA TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250301093000 +0000" stop="20250301094500 +0000" channel="IQRA TV">
+    <programme start="20250301093000 +0000" stop="20250301100000 +0000" channel="IQRA TV">
         <title>Shan e Ramazan</title>
     </programme>
-    <programme start="20250301094500 +0000" stop="20250301100000 +0000" channel="IQRA TV">
-        <title>Tafseer Izhar ul Quran</title>
-    </programme>
-    <programme start="20250301100000 +0000" stop="20250301103000 +0000" channel="IQRA TV">
+    <programme start="20250301100000 +0000" stop="20250301110000 +0000" channel="IQRA TV">
         <title>Paigham e Ramadan</title>
-    </programme>
-    <programme start="20250301103000 +0000" stop="20250301110000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250301110000 +0000" stop="20250301110500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250301110500 +0000" stop="20250301113600 +0000" channel="IQRA TV">
+    <programme start="20250301110500 +0000" stop="20250301120000 +0000" channel="IQRA TV">
         <title>The Zakat Show</title>
-    </programme>
-    <programme start="20250301113600 +0000" stop="20250301120000 +0000" channel="IQRA TV">
-        <title>Seerah of Muhammad (pbuh)</title>
     </programme>
     <programme start="20250301120000 +0000" stop="20250301120500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -27639,11 +27627,8 @@
     <programme start="20250301121700 +0000" stop="20250301122200 +0000" channel="IQRA TV">
         <title>Zuhr Azan</title>
     </programme>
-    <programme start="20250301122200 +0000" stop="20250301123600 +0000" channel="IQRA TV">
+    <programme start="20250301122200 +0000" stop="20250301130000 +0000" channel="IQRA TV">
         <title>Khulasa-tul-Qura'an</title>
-    </programme>
-    <programme start="20250301123600 +0000" stop="20250301130000 +0000" channel="IQRA TV">
-        <title>Bazm-e-naat o Adab</title>
     </programme>
     <programme start="20250301130000 +0000" stop="20250301130500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
