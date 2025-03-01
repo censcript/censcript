@@ -28384,7 +28384,7 @@
         <title>Dua Your Key To Allah</title>
     </programme>
     <programme start="20250301113000 +0000" stop="20250301120000 +0000" channel="Eman Channel">
-        <title>EKTV Gameshow Live</title>
+        <title>Gems for Ramadan</title>
     </programme>
     <programme start="20250301120000 +0000" stop="20250301121800 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
@@ -28392,8 +28392,11 @@
     <programme start="20250301121800 +0000" stop="20250301122600 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250301122600 +0000" stop="20250301140000 +0000" channel="Eman Channel">
+    <programme start="20250301122600 +0000" stop="20250301132400 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
+    </programme>
+    <programme start="20250301132400 +0000" stop="20250301140000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250301140000 +0000" stop="20250301141500 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
@@ -28411,7 +28414,7 @@
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250301153000 +0000" stop="20250301163000 +0000" channel="Eman Channel">
-        <title>Quest for Umrah</title>
+        <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250301163000 +0000" stop="20250301170000 +0000" channel="Eman Channel">
         <title>Cosmic Challengers</title>
@@ -28420,7 +28423,7 @@
         <title>Omar Suleiman</title>
     </programme>
     <programme start="20250301171500 +0000" stop="20250301173000 +0000" channel="Eman Channel">
-        <title>Mufti Menk</title>
+        <title>The Other Side</title>
     </programme>
     <programme start="20250301173000 +0000" stop="20250301174400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
