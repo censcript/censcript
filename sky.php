@@ -26793,14 +26793,14 @@
     <programme start="20250301130000 +0000" stop="20250301140500 +0000" channel="MTA1 World HD">
         <title>Live Intikhab-e-Sukhan</title>
     </programme>
-    <programme start="20250301140500 +0000" stop="20250301142000 +0000" channel="MTA1 World HD">
+    <programme start="20250301140500 +0000" stop="20250301141500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250301142000 +0000" stop="20250301151500 +0000" channel="MTA1 World HD">
+    <programme start="20250301141500 +0000" stop="20250301150500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250301151500 +0000" stop="20250301152500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
+    <programme start="20250301150500 +0000" stop="20250301152500 +0000" channel="MTA1 World HD">
+        <title>Medical Facts</title>
     </programme>
     <programme start="20250301152500 +0000" stop="20250301163000 +0000" channel="MTA1 World HD">
         <title>Deeni-o-Fiqa'hi Masa'il</title>
@@ -26812,7 +26812,7 @@
         <title>100 Years Of Sierra Leone Jama'at</title>
     </programme>
     <programme start="20250301175000 +0000" stop="20250301180000 +0000" channel="MTA1 World HD">
-        <title>Seerat Sahaba Rasool</title>
+        <title>Obedience Of Sahaba</title>
     </programme>
     <programme start="20250301180000 +0000" stop="20250301182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26820,13 +26820,10 @@
     <programme start="20250301182000 +0000" stop="20250301191500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250301191500 +0000" stop="20250301201000 +0000" channel="MTA1 World HD">
+    <programme start="20250301191500 +0000" stop="20250301200500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250301201000 +0000" stop="20250301202000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250301202000 +0000" stop="20250301211000 +0000" channel="MTA1 World HD">
+    <programme start="20250301200500 +0000" stop="20250301211000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
     <programme start="20250301211000 +0000" stop="20250301213000 +0000" channel="MTA1 World HD">
@@ -26839,7 +26836,7 @@
         <title>Tilawat</title>
     </programme>
     <programme start="20250301235000 +0000" stop="20250302005000 +0000" channel="MTA1 World HD">
-        <title>Seerat Sahaba Rasool</title>
+        <title>Obedience Of Sahaba</title>
     </programme>
     <programme start="20250228220000 +0000" stop="20250228230000 +0000" channel="HUM Masala">
         <title>Food Diaries</title>
@@ -27348,11 +27345,17 @@
     <programme start="20250301151000 +0000" stop="20250301153000 +0000" channel="Islam Channel">
         <title>Recite Live</title>
     </programme>
-    <programme start="20250301153000 +0000" stop="20250301155000 +0000" channel="Islam Channel">
-        <title>Quran for Hearts and Minds</title>
+    <programme start="20250301153000 +0000" stop="20250301154000 +0000" channel="Islam Channel">
+        <title>New: Ramadan Journeys</title>
     </programme>
-    <programme start="20250301155000 +0000" stop="20250301160000 +0000" channel="Islam Channel">
+    <programme start="20250301154000 +0000" stop="20250301154500 +0000" channel="Islam Channel">
+        <title>Conversations in Quran</title>
+    </programme>
+    <programme start="20250301154500 +0000" stop="20250301155500 +0000" channel="Islam Channel">
         <title>Suleyman</title>
+    </programme>
+    <programme start="20250301155500 +0000" stop="20250301160000 +0000" channel="Islam Channel">
+        <title>Duas To Allah</title>
     </programme>
     <programme start="20250301160000 +0000" stop="20250301163000 +0000" channel="Islam Channel">
         <title>National Qira'ah Comp Live</title>
@@ -28371,10 +28374,10 @@
     <programme start="20250301084500 +0000" stop="20250301090000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250301090000 +0000" stop="20250301104000 +0000" channel="Eman Channel">
+    <programme start="20250301090000 +0000" stop="20250301104100 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250301104000 +0000" stop="20250301110000 +0000" channel="Eman Channel">
+    <programme start="20250301104100 +0000" stop="20250301110000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250301110000 +0000" stop="20250301111500 +0000" channel="Eman Channel">
@@ -28392,10 +28395,10 @@
     <programme start="20250301121800 +0000" stop="20250301122600 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250301122600 +0000" stop="20250301132400 +0000" channel="Eman Channel">
+    <programme start="20250301122600 +0000" stop="20250301132300 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250301132400 +0000" stop="20250301140000 +0000" channel="Eman Channel">
+    <programme start="20250301132300 +0000" stop="20250301140000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250301140000 +0000" stop="20250301141500 +0000" channel="Eman Channel">
@@ -28407,8 +28410,11 @@
     <programme start="20250301143000 +0000" stop="20250301150500 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250301150500 +0000" stop="20250301151500 +0000" channel="Eman Channel">
+    <programme start="20250301150500 +0000" stop="20250301151100 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
+    </programme>
+    <programme start="20250301151100 +0000" stop="20250301151500 +0000" channel="Eman Channel">
+        <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250301151500 +0000" stop="20250301153000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
@@ -28428,10 +28434,13 @@
     <programme start="20250301173000 +0000" stop="20250301174400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250301174400 +0000" stop="20250301180000 +0000" channel="Eman Channel">
+    <programme start="20250301174400 +0000" stop="20250301175200 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250301180000 +0000" stop="20250301191000 +0000" channel="Eman Channel">
+    <programme start="20250301175200 +0000" stop="20250301181000 +0000" channel="Eman Channel">
+        <title>Evening Remembrance</title>
+    </programme>
+    <programme start="20250301181000 +0000" stop="20250301191000 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250301191000 +0000" stop="20250301191500 +0000" channel="Eman Channel">
@@ -36036,10 +36045,10 @@
     <programme start="20250301120500 +0000" stop="20250301141500 +0000" channel="BBC RB 1 HD">
         <title>FA Cup Fifth Round: Preston North End v Burnley</title>
     </programme>
-    <programme start="20250301141500 +0000" stop="20250301144500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250301141500 +0000" stop="20250301143500 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
-    <programme start="20250301144500 +0000" stop="20250301171500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250301143500 +0000" stop="20250301171500 +0000" channel="BBC RB 1 HD">
         <title>5 Live Final Score</title>
     </programme>
     <programme start="20250301171500 +0000" stop="20250301201000 +0000" channel="BBC RB 1 HD">
