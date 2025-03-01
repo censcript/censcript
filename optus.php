@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250301045000 +0000" stop="20250301071000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Ulsan v Jeonbuk</title>
-    </programme>
-    <programme start="20250301045500 +0000" stop="20250301071000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Kashima v FC Tokyo</title>
-    </programme>
     <programme start="20250301055500 +0000" stop="20250301081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Avispa</title>
     </programme>
