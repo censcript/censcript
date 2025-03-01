@@ -159,13 +159,19 @@
     <programme start="20250302235500 +0000" stop="20250303005500 +0000" channel="BBC Two HD">
         <title>Lynn + Lucy</title>
     </programme>
-    <programme start="20250301225000 +0000" stop="20250301235000 +0000" channel="ITV1 HD">
+    <programme start="20250301201500 +0000" stop="20250301230000 +0000" channel="ITV1 HD">
+        <title>New: The BRIT Awards 2025</title>
+    </programme>
+    <programme start="20250301230000 +0000" stop="20250301231000 +0000" channel="ITV1 HD">
+        <title>ITV News</title>
+    </programme>
+    <programme start="20250301231000 +0000" stop="20250302001000 +0000" channel="ITV1 HD">
         <title>The Murder of Alice Ruggles: Social Media Murders</title>
     </programme>
-    <programme start="20250301235000 +0000" stop="20250302011500 +0000" channel="ITV1 HD">
+    <programme start="20250302001000 +0000" stop="20250302013500 +0000" channel="ITV1 HD">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250302011500 +0000" stop="20250302030000 +0000" channel="ITV1 HD">
+    <programme start="20250302013500 +0000" stop="20250302030000 +0000" channel="ITV1 HD">
         <title>Shop on TV</title>
     </programme>
     <programme start="20250302030000 +0000" stop="20250302035000 +0000" channel="ITV1 HD">
@@ -6945,19 +6951,19 @@
     <programme start="20250302230500 +0000" stop="20250303000500 +0000" channel="That's TV 3">
         <title>Robin Hood</title>
     </programme>
-    <programme start="20250301211500 +0000" stop="20250301234000 +0000" channel="ITV1+1">
+    <programme start="20250301211500 +0000" stop="20250302000000 +0000" channel="ITV1+1">
         <title>New: The BRIT Awards 2025</title>
     </programme>
-    <programme start="20250301234000 +0000" stop="20250301235000 +0000" channel="ITV1+1">
+    <programme start="20250302000000 +0000" stop="20250302001000 +0000" channel="ITV1+1">
         <title>ITV News</title>
     </programme>
-    <programme start="20250301235000 +0000" stop="20250302005000 +0000" channel="ITV1+1">
+    <programme start="20250302001000 +0000" stop="20250302011000 +0000" channel="ITV1+1">
         <title>The Murder of Alice Ruggles: Social Media Murders</title>
     </programme>
-    <programme start="20250302005000 +0000" stop="20250302021500 +0000" channel="ITV1+1">
+    <programme start="20250302011000 +0000" stop="20250302023500 +0000" channel="ITV1+1">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250302021500 +0000" stop="20250302040000 +0000" channel="ITV1+1">
+    <programme start="20250302023500 +0000" stop="20250302040000 +0000" channel="ITV1+1">
         <title>This is ITV+1</title>
     </programme>
     <programme start="20250302040000 +0000" stop="20250302045000 +0000" channel="ITV1+1">
@@ -26271,26 +26277,23 @@
     <programme start="20250302070500 +0000" stop="20250302082000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250302082000 +0000" stop="20250302083000 +0000" channel="MTA1 World HD">
+    <programme start="20250302082000 +0000" stop="20250302084500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250302083000 +0000" stop="20250302090000 +0000" channel="MTA1 World HD">
+    <programme start="20250302084500 +0000" stop="20250302091500 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250302090000 +0000" stop="20250302093000 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
-    </programme>
-    <programme start="20250302093000 +0000" stop="20250302095000 +0000" channel="MTA1 World HD">
-        <title>Aal-e-Rasool</title>
+    <programme start="20250302091500 +0000" stop="20250302095000 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250302095000 +0000" stop="20250302100000 +0000" channel="MTA1 World HD">
-        <title>Jamia Ahmadiyya</title>
+        <title>Jamia Ahmadiyya's Global Journey</title>
     </programme>
     <programme start="20250302100000 +0000" stop="20250302103000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
     <programme start="20250302103000 +0000" stop="20250302110500 +0000" channel="MTA1 World HD">
-        <title>Tabweebul Qur'an</title>
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250302110500 +0000" stop="20250302120000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
@@ -26322,8 +26325,11 @@
     <programme start="20250302164500 +0000" stop="20250302174500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250302174500 +0000" stop="20250302180000 +0000" channel="MTA1 World HD">
+    <programme start="20250302174500 +0000" stop="20250302175500 +0000" channel="MTA1 World HD">
         <title>Maghrib Adhaan</title>
+    </programme>
+    <programme start="20250302175500 +0000" stop="20250302180000 +0000" channel="MTA1 World HD">
+        <title>Jamia Ahmadiyya's Global Journey</title>
     </programme>
     <programme start="20250302180000 +0000" stop="20250302182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26343,14 +26349,14 @@
     <programme start="20250302195000 +0000" stop="20250302200000 +0000" channel="MTA1 World HD">
         <title>Chef's Corner</title>
     </programme>
-    <programme start="20250302200000 +0000" stop="20250302204500 +0000" channel="MTA1 World HD">
+    <programme start="20250302200000 +0000" stop="20250302203500 +0000" channel="MTA1 World HD">
+        <title>Beyond Allegations</title>
+    </programme>
+    <programme start="20250302203500 +0000" stop="20250302211500 +0000" channel="MTA1 World HD">
         <title>The Final Word</title>
     </programme>
-    <programme start="20250302204500 +0000" stop="20250302212000 +0000" channel="MTA1 World HD">
-        <title>Tabweebul Qur'an</title>
-    </programme>
-    <programme start="20250302212000 +0000" stop="20250302213000 +0000" channel="MTA1 World HD">
-        <title>Jamia Ahmadiyya</title>
+    <programme start="20250302211500 +0000" stop="20250302213000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250302213000 +0000" stop="20250302230000 +0000" channel="MTA1 World HD">
         <title>Darsul Qur'an</title>
@@ -27535,7 +27541,7 @@
         <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250302170000 +0000" stop="20250302180000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250302180000 +0000" stop="20250302190000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
