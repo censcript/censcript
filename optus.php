@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250302045000 +0000" stop="20250302071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Suwon FC</title>
-    </programme>
-    <programme start="20250302045500 +0000" stop="20250302071000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Albirex v Cerezo</title>
-    </programme>
     <programme start="20250302055500 +0000" stop="20250302081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Kashiwa</title>
     </programme>
