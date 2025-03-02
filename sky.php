@@ -25429,10 +25429,10 @@
         <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250302183000 +0000" stop="20250302190000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>Masihi Mel Milap</title>
     </programme>
     <programme start="20250302190000 +0000" stop="20250302193000 +0000" channel="MATV National">
-        <title>Masihi Mel Milap</title>
+        <title>Old Is Gold</title>
     </programme>
     <programme start="20250302193000 +0000" stop="20250302200000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
@@ -36009,11 +36009,8 @@
     <programme start="20250302170000 +0000" stop="20250302190000 +0000" channel="BBC R5L">
         <title>606</title>
     </programme>
-    <programme start="20250302190000 +0000" stop="20250302193000 +0000" channel="BBC R5L">
-        <title>Football on Trial: The...</title>
-    </programme>
-    <programme start="20250302193000 +0000" stop="20250302200000 +0000" channel="BBC R5L">
-        <title>Football on Trial: The...</title>
+    <programme start="20250302190000 +0000" stop="20250302200000 +0000" channel="BBC R5L">
+        <title>Stephen Nolan</title>
     </programme>
     <programme start="20250302200000 +0000" stop="20250302210000 +0000" channel="BBC R5L">
         <title>Headliners with Nihal Arthanayake</title>
