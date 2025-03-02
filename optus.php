@@ -16,7 +16,7 @@
         <title>N/A - The Catch-Up Show</title>
     </programme>
     <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: </title>
+        <title>N/A - PL Stories: International Women&#039;s Day</title>
     </programme>
     <programme start="20250305185500 +0000" stop="20250305211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester City</title>
