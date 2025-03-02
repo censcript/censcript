@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250302055500 +0000" stop="20250302081000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Urawa Red Diamonds v Kashiwa</title>
-    </programme>
     <programme start="20250302122000 +0000" stop="20250302144000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Leicester</title>
     </programme>
