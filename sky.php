@@ -36352,7 +36352,7 @@
         <title>BBC News Summary</title>
     </programme>
     <programme start="20250302113230 +0000" stop="20250302115000 +0000" channel="BBC World Sv">
-        <title>Weekend Insights</title>
+        <title>Amazing Sport Stories</title>
     </programme>
     <programme start="20250302115000 +0000" stop="20250302120000 +0000" channel="BBC World Sv">
         <title>More or Less</title>
