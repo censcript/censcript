@@ -1779,8 +1779,8 @@
     <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250302190000 +0000" stop="20250302230000 +0000" channel="ITV4 HD">
-        <title>Darts: UK Open</title>
+    <programme start="20250302223000 +0000" stop="20250302230000 +0000" channel="ITV4 HD">
+        <title>River Monsters</title>
     </programme>
     <programme start="20250302230000 +0000" stop="20250303000500 +0000" channel="ITV4 HD">
         <title>Monty Python's The Meaning of Life</title>
@@ -8313,8 +8313,14 @@
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="ITV3+1">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250302200000 +0000" stop="20250303000000 +0000" channel="ITV4+1">
+    <programme start="20250302200000 +0000" stop="20250302230000 +0000" channel="ITV4+1">
         <title>Darts: UK Open</title>
+    </programme>
+    <programme start="20250302230000 +0000" stop="20250302233000 +0000" channel="ITV4+1">
+        <title>River Monsters</title>
+    </programme>
+    <programme start="20250302233000 +0000" stop="20250303000000 +0000" channel="ITV4+1">
+        <title>River Monsters</title>
     </programme>
     <programme start="20250303000000 +0000" stop="20250303010500 +0000" channel="ITV4+1">
         <title>Monty Python's The Meaning of Life</title>
@@ -14755,7 +14761,7 @@
         <title>Bloomberg The Asia Trade</title>
     </programme>
     <programme start="20250302223000 +0000" stop="20250302230000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
+        <title>President Zelensky Talks to the Media</title>
     </programme>
     <programme start="20250302230000 +0000" stop="20250302233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -27024,47 +27030,50 @@
     <programme start="20250303060000 +0000" stop="20250303065000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250303065000 +0000" stop="20250303070021 +0000" channel="MTA1 World HD">
+    <programme start="20250303065000 +0000" stop="20250303070500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Ramadhan</title>
     </programme>
-    <programme start="20250303070021 +0000" stop="20250303080000 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya</title>
+    <programme start="20250303070500 +0000" stop="20250303074000 +0000" channel="MTA1 World HD">
+        <title>Beyond Allegations</title>
     </programme>
-    <programme start="20250303080000 +0000" stop="20250303082000 +0000" channel="MTA1 World HD">
+    <programme start="20250303074000 +0000" stop="20250303081000 +0000" channel="MTA1 World HD">
+        <title>Bachon Ki Dunya</title>
+    </programme>
+    <programme start="20250303081000 +0000" stop="20250303083000 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250303082000 +0000" stop="20250303085000 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Dunya</title>
-    </programme>
-    <programme start="20250303085000 +0000" stop="20250303100500 +0000" channel="MTA1 World HD">
+    <programme start="20250303083000 +0000" stop="20250303094500 +0000" channel="MTA1 World HD">
         <title>Baitul Muqeet Mosque</title>
     </programme>
-    <programme start="20250303100500 +0000" stop="20250303110500 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya</title>
+    <programme start="20250303094500 +0000" stop="20250303105000 +0000" channel="MTA1 World HD">
+        <title>Deeni-o-Fiqa'hi Masa'il</title>
     </programme>
-    <programme start="20250303110500 +0000" stop="20250303122500 +0000" channel="MTA1 World HD">
+    <programme start="20250303105000 +0000" stop="20250303121500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250303122500 +0000" stop="20250303131000 +0000" channel="MTA1 World HD">
+    <programme start="20250303121500 +0000" stop="20250303130000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250303131000 +0000" stop="20250303144000 +0000" channel="MTA1 World HD">
-        <title>Darsul Qur'an</title>
+    <programme start="20250303130000 +0000" stop="20250303130500 +0000" channel="MTA1 World HD">
+        <title>Chef's Corner</title>
     </programme>
-    <programme start="20250303144000 +0000" stop="20250303150500 +0000" channel="MTA1 World HD">
-        <title>Finding My Faith</title>
-    </programme>
-    <programme start="20250303150500 +0000" stop="20250303154000 +0000" channel="MTA1 World HD">
-        <title>Life Of Muhammad</title>
-    </programme>
-    <programme start="20250303154000 +0000" stop="20250303160500 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Dunya</title>
-    </programme>
-    <programme start="20250303160500 +0000" stop="20250303161500 +0000" channel="MTA1 World HD">
+    <programme start="20250303130500 +0000" stop="20250303131500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250303161500 +0000" stop="20250303164500 +0000" channel="MTA1 World HD">
-        <title>Tabweebul Quran</title>
+    <programme start="20250303131500 +0000" stop="20250303144500 +0000" channel="MTA1 World HD">
+        <title>Darsul Qur'an</title>
+    </programme>
+    <programme start="20250303144500 +0000" stop="20250303151000 +0000" channel="MTA1 World HD">
+        <title>Finding My Faith</title>
+    </programme>
+    <programme start="20250303151000 +0000" stop="20250303154000 +0000" channel="MTA1 World HD">
+        <title>Life Of Muhammad</title>
+    </programme>
+    <programme start="20250303154000 +0000" stop="20250303161000 +0000" channel="MTA1 World HD">
+        <title>Bachon Ki Dunya</title>
+    </programme>
+    <programme start="20250303161000 +0000" stop="20250303164500 +0000" channel="MTA1 World HD">
+        <title>Tabweebul Qur'an</title>
     </programme>
     <programme start="20250303164500 +0000" stop="20250303174700 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -27081,11 +27090,17 @@
     <programme start="20250303183500 +0000" stop="20250303200000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250303200000 +0000" stop="20250303210000 +0000" channel="MTA1 World HD">
-        <title>Inside Ahmadiyya</title>
+    <programme start="20250303200000 +0000" stop="20250303203500 +0000" channel="MTA1 World HD">
+        <title>Beyond Allegations</title>
     </programme>
-    <programme start="20250303210000 +0000" stop="20250303213000 +0000" channel="MTA1 World HD">
+    <programme start="20250303203500 +0000" stop="20250303204500 +0000" channel="MTA1 World HD">
+        <title>Chef's Corner</title>
+    </programme>
+    <programme start="20250303204500 +0000" stop="20250303211500 +0000" channel="MTA1 World HD">
         <title>Life Of Muhammad</title>
+    </programme>
+    <programme start="20250303211500 +0000" stop="20250303213000 +0000" channel="MTA1 World HD">
+        <title>Mahasin-e-Islam</title>
     </programme>
     <programme start="20250303213000 +0000" stop="20250303230000 +0000" channel="MTA1 World HD">
         <title>Darsul Qur'an</title>
@@ -29691,77 +29706,68 @@
     <programme start="20250303052800 +0000" stop="20250303060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250303060000 +0000" stop="20250303061000 +0000" channel="IQRA Bangla">
-        <title>Surah Yaseen</title>
-    </programme>
-    <programme start="20250303061000 +0000" stop="20250303082000 +0000" channel="IQRA Bangla">
+    <programme start="20250303060000 +0000" stop="20250303082000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
     <programme start="20250303082000 +0000" stop="20250303083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250303083000 +0000" stop="20250303093000 +0000" channel="IQRA Bangla">
-        <title>Our Community</title>
+    <programme start="20250303083000 +0000" stop="20250303100000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250303093000 +0000" stop="20250303103000 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250303103000 +0000" stop="20250303110000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250303110000 +0000" stop="20250303122000 +0000" channel="IQRA Bangla">
+    <programme start="20250303100000 +0000" stop="20250303110000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250303122000 +0000" stop="20250303123000 +0000" channel="IQRA Bangla">
+    <programme start="20250303110000 +0000" stop="20250303113000 +0000" channel="IQRA Bangla">
+        <title>Joyful Ramadan</title>
+    </programme>
+    <programme start="20250303113000 +0000" stop="20250303121800 +0000" channel="IQRA Bangla">
+        <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250303121800 +0000" stop="20250303123000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250303123000 +0000" stop="20250303140000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="IQRA Bangla">
-        <title>Nurul Quran</title>
+        <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250303150000 +0000" stop="20250303151800 +0000" channel="IQRA Bangla">
-        <title>Bed time story</title>
+    <programme start="20250303150000 +0000" stop="20250303153000 +0000" channel="IQRA Bangla">
+        <title>Healthy Iftar</title>
     </programme>
-    <programme start="20250303151800 +0000" stop="20250303152300 +0000" channel="IQRA Bangla">
+    <programme start="20250303153000 +0000" stop="20250303155200 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250303155200 +0000" stop="20250303155700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250303152300 +0000" stop="20250303153000 +0000" channel="IQRA Bangla">
-        <title>Bed time story</title>
+    <programme start="20250303155700 +0000" stop="20250303174800 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250303153000 +0000" stop="20250303163000 +0000" channel="IQRA Bangla">
-        <title>Tauhider Shur</title>
-    </programme>
-    <programme start="20250303163000 +0000" stop="20250303171000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250303171000 +0000" stop="20250303171500 +0000" channel="IQRA Bangla">
+    <programme start="20250303174800 +0000" stop="20250303175600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250303171500 +0000" stop="20250303180000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
+    <programme start="20250303175600 +0000" stop="20250303180200 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
     </programme>
-    <programme start="20250303180000 +0000" stop="20250303183000 +0000" channel="IQRA Bangla">
-        <title>Heal your Heart</title>
+    <programme start="20250303180200 +0000" stop="20250303180700 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
     </programme>
-    <programme start="20250303183000 +0000" stop="20250303184100 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250303180700 +0000" stop="20250303181500 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
     </programme>
-    <programme start="20250303184100 +0000" stop="20250303184600 +0000" channel="IQRA Bangla">
+    <programme start="20250303181500 +0000" stop="20250303181900 +0000" channel="IQRA Bangla">
+        <title>Ramadan tips</title>
+    </programme>
+    <programme start="20250303181900 +0000" stop="20250303191200 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250303191200 +0000" stop="20250303191700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250303184600 +0000" stop="20250303200000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250303200000 +0000" stop="20250303203000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
-    </programme>
-    <programme start="20250303203000 +0000" stop="20250303230000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
-    </programme>
-    <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
+    <programme start="20250303191700 +0000" stop="20250303201700 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250302190500 +0000" stop="20250302232300 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -36246,26 +36252,20 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One CI HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302225000 +0000" stop="20250303001000 +0000" channel="BBC One ScotHD">
+    <programme start="20250302225000 +0000" stop="20250303003000 +0000" channel="BBC One ScotHD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303011000 +0000" channel="BBC One ScotHD">
+    <programme start="20250303003000 +0000" stop="20250303013500 +0000" channel="BBC One ScotHD">
         <title>Sportscene: Premiership Highlights</title>
     </programme>
-    <programme start="20250303011000 +0000" stop="20250303020000 +0000" channel="BBC One ScotHD">
+    <programme start="20250303013500 +0000" stop="20250303022000 +0000" channel="BBC One ScotHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303020000 +0000" stop="20250303020500 +0000" channel="BBC One ScotHD">
+    <programme start="20250303022000 +0000" stop="20250303022500 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303020500 +0000" stop="20250303023000 +0000" channel="BBC One ScotHD">
+    <programme start="20250303022500 +0000" stop="20250303025000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250303023000 +0000" stop="20250303024500 +0000" channel="BBC One ScotHD">
-        <title>Superman &amp; Lois</title>
-    </programme>
-    <programme start="20250303024500 +0000" stop="20250303025000 +0000" channel="BBC One ScotHD">
-        <title>Weather for the Week Ahead</title>
     </programme>
     <programme start="20250303025000 +0000" stop="20250303060000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>

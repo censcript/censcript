@@ -126,8 +126,23 @@
     <programme start="20250315072000 +0000" stop="20250315094000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Gangwon v Seoul</title>
     </programme>
+    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Southampton v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Manchester City v Brighton</title>
+    </programme>
+    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Ipswich v Nottingham Forest</title>
+    </programme>
+    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Everton v West Ham United</title>
+    </programme>
     <programme start="20250315164500 +0000" stop="20250315191500 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Kansas City Current v Portland Thorns FC</title>
+    </programme>
+    <programme start="20250315172000 +0000" stop="20250315200000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Bournemouth v Brentford</title>
     </programme>
     <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
@@ -144,11 +159,20 @@
     <programme start="20250316072000 +0000" stop="20250316094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeonbuk v Pohang</title>
     </programme>
+    <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Fulham v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Arsenal v Chelsea</title>
+    </programme>
     <programme start="20250316135500 +0000" stop="20250316161000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Crystal Palace v Aston Villa</title>
     </programme>
     <programme start="20250316145500 +0000" stop="20250316171000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250316183000 +0000" stop="20250316213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Leicester City v Manchester United</title>
     </programme>
     <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v San Diego Wave FC</title>
