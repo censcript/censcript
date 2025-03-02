@@ -6,7 +6,7 @@
     <programme start="20250302172000 +0000" stop="20250302194000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v West Ham United</title>
     </programme>
-    <programme start="20250302184000 +0000" stop="20250302190000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250302193000 +0000" stop="20250302201000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - FA Cup Quarter-final Draw</title>
     </programme>
     <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 8.optus">

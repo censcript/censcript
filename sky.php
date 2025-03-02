@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CendolCen">
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Lon HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Lon HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Lon HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Lon HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Lon HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Lon HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Lon HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Lon HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Lon HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Lon HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Lon HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Lon HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Lon HD">
@@ -35202,22 +35202,22 @@
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="Sky Intro">
         <title>Sky Intro - Sky TV made Simple</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One NE HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One NE HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One NE HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One NE HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One NE HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One NE HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One NE HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One NE HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One NE HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One NE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One NE HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One NE HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One NE HD">
@@ -35289,22 +35289,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One NE HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One NW HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One NW HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One NW HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One NW HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One NW HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One NW HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One NW HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One NW HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One NW HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One NW HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One NW HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One NW HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One NW HD">
@@ -35376,22 +35376,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One NW HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Yks HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Yks HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Yks HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Yks HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Yks HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Yks HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Yks HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Yks HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Yks HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Yks HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Yks HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Yks HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Yks HD">
@@ -35463,22 +35463,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One Yks HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Y&amp;L HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Y&amp;L HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Y&amp;L HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Y&amp;L HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Y&amp;L HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Y&amp;L HD">
@@ -35556,22 +35556,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One Y&amp;L HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One WM HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One WM HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One WM HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One WM HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One WM HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One WM HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One WM HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One WM HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One WM HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One WM HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One WM HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One WM HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One WM HD">
@@ -35643,22 +35643,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One WM HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One EMidHD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One EMidHD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One EMidHD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One EMidHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One EMidHD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One EMidHD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One EMidHD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One EMidHD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One EMidHD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One EMidHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One EMidHD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One EMidHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One EMidHD">
@@ -35730,22 +35730,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One EMidHD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One EastHD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One EastHD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One EastHD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One EastHD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One EastHD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One EastHD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One EastHD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One EastHD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One EastHD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One EastHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One EastHD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One EastHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One EastHD">
@@ -35817,22 +35817,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One EastHD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One SE HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One SE HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One SE HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One SE HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One SE HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One SE HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One SE HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One SE HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One SE HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One SE HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One SE HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One SE HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One SE HD">
@@ -35904,22 +35904,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One SE HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Wst HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Wst HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Wst HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Wst HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Wst HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Wst HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Wst HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Wst HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Wst HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Wst HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Wst HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Wst HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Wst HD">
@@ -35991,22 +35991,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One Wst HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Sth HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Sth HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Sth HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Sth HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Sth HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Sth HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Sth HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Sth HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Sth HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Sth HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Sth HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Sth HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Sth HD">
@@ -36078,22 +36078,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One Sth HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One SW HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One SW HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One SW HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One SW HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One SW HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One SW HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One SW HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One SW HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One SW HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One SW HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One SW HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One SW HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One SW HD">
@@ -36165,22 +36165,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One SW HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One CI HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One CI HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One CI HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One CI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One CI HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One CI HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One CI HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One CI HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One CI HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One CI HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One CI HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One CI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One CI HD">
@@ -36252,7 +36252,7 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One CI HD">
         <title>The Death of Stalin</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One ScotHD">
+    <programme start="20250302223500 +0000" stop="20250303001000 +0000" channel="BBC One ScotHD">
         <title>Calendar Girls</title>
     </programme>
     <programme start="20250303001000 +0000" stop="20250303011000 +0000" channel="BBC One ScotHD">
@@ -36267,7 +36267,10 @@
     <programme start="20250303020500 +0000" stop="20250303023000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One ScotHD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One ScotHD">
+        <title>Weather for the Week Ahead</title>
+    </programme>
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One ScotHD">
@@ -36339,22 +36342,22 @@
     <programme start="20250303235500 +0000" stop="20250304005500 +0000" channel="BBC One ScotHD">
         <title>Sportscene: SWPL Highlights</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One Wal HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One Wal HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One Wal HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One Wal HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One Wal HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One Wal HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One Wal HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One Wal HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One Wal HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One Wal HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One Wal HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One Wal HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One Wal HD">
@@ -36426,22 +36429,22 @@
     <programme start="20250303231000 +0000" stop="20250304001000 +0000" channel="BBC One Wal HD">
         <title>imagine... The Academy of Armando</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303001000 +0000" channel="BBC One NI HD">
+    <programme start="20250302223500 +0000" stop="20250303001500 +0000" channel="BBC One NI HD">
         <title>Calendar Girls</title>
     </programme>
-    <programme start="20250303001000 +0000" stop="20250303010000 +0000" channel="BBC One NI HD">
+    <programme start="20250303001500 +0000" stop="20250303010500 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250303010000 +0000" stop="20250303014500 +0000" channel="BBC One NI HD">
+    <programme start="20250303010500 +0000" stop="20250303015000 +0000" channel="BBC One NI HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303014500 +0000" stop="20250303022500 +0000" channel="BBC One NI HD">
+    <programme start="20250303015000 +0000" stop="20250303023000 +0000" channel="BBC One NI HD">
         <title>Superman &amp; Lois</title>
     </programme>
-    <programme start="20250303022500 +0000" stop="20250303023000 +0000" channel="BBC One NI HD">
+    <programme start="20250303023000 +0000" stop="20250303023500 +0000" channel="BBC One NI HD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250303023000 +0000" stop="20250303060000 +0000" channel="BBC One NI HD">
+    <programme start="20250303023500 +0000" stop="20250303060000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303093000 +0000" channel="BBC One NI HD">
