@@ -14370,11 +14370,8 @@
     <programme start="20250302130000 +0000" stop="20250302140000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250302140000 +0000" stop="20250302143000 +0000" channel="BBC NEWS HD">
+    <programme start="20250302140000 +0000" stop="20250302150000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250302143000 +0000" stop="20250302150000 +0000" channel="BBC NEWS HD">
-        <title>Influential with Katty Kay</title>
     </programme>
     <programme start="20250302150000 +0000" stop="20250302153000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14382,11 +14379,8 @@
     <programme start="20250302153000 +0000" stop="20250302160000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250302160000 +0000" stop="20250302163000 +0000" channel="BBC NEWS HD">
+    <programme start="20250302160000 +0000" stop="20250302170000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250302163000 +0000" stop="20250302170000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
     </programme>
     <programme start="20250302170000 +0000" stop="20250302180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -37175,9 +37169,6 @@
     </programme>
     <programme start="20250302230000 +0000" stop="20250303000000 +0000" channel="TWR">
         <title>TWR Focus</title>
-    </programme>
-    <programme start="20250301130000 +0000" stop="20250302090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250302090000 +0000" stop="20250302093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
