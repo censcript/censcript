@@ -204,11 +204,8 @@
     <programme start="20250302122500 +0000" stop="20250302124500 +0000" channel="ITV1 HD">
         <title>ITV Lunchtime News</title>
     </programme>
-    <programme start="20250302124500 +0000" stop="20250302162500 +0000" channel="ITV1 HD">
+    <programme start="20250302124500 +0000" stop="20250302170000 +0000" channel="ITV1 HD">
         <title>FA Cup: Newcastle Utd v Brighton</title>
-    </programme>
-    <programme start="20250302162500 +0000" stop="20250302170000 +0000" channel="ITV1 HD">
-        <title>Tipping Point: Best Ever Finals</title>
     </programme>
     <programme start="20250302170000 +0000" stop="20250302180000 +0000" channel="ITV1 HD">
         <title>The Chase Celebrity Special</title>
@@ -6996,11 +6993,8 @@
     <programme start="20250302132500 +0000" stop="20250302134500 +0000" channel="ITV1+1">
         <title>ITV Lunchtime News</title>
     </programme>
-    <programme start="20250302134500 +0000" stop="20250302172500 +0000" channel="ITV1+1">
+    <programme start="20250302134500 +0000" stop="20250302180000 +0000" channel="ITV1+1">
         <title>FA Cup: Newcastle Utd v Brighton</title>
-    </programme>
-    <programme start="20250302172500 +0000" stop="20250302180000 +0000" channel="ITV1+1">
-        <title>Tipping Point: Best Ever Finals</title>
     </programme>
     <programme start="20250302180000 +0000" stop="20250302190000 +0000" channel="ITV1+1">
         <title>The Chase Celebrity Special</title>
@@ -29007,13 +29001,7 @@
     <programme start="20250302153000 +0000" stop="20250302160000 +0000" channel="ATN">
         <title>Quran Tilawat</title>
     </programme>
-    <programme start="20250302160000 +0000" stop="20250302160500 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250302160500 +0000" stop="20250302161000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250302161000 +0000" stop="20250302163000 +0000" channel="ATN">
+    <programme start="20250302160000 +0000" stop="20250302163000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250302163000 +0000" stop="20250302164500 +0000" channel="ATN">
@@ -29022,10 +29010,10 @@
     <programme start="20250302164500 +0000" stop="20250302170000 +0000" channel="ATN">
         <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250302170000 +0000" stop="20250302174600 +0000" channel="ATN">
+    <programme start="20250302170000 +0000" stop="20250302174500 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250302174600 +0000" stop="20250302175000 +0000" channel="ATN">
+    <programme start="20250302174500 +0000" stop="20250302175000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
     <programme start="20250302175000 +0000" stop="20250302180500 +0000" channel="ATN">
