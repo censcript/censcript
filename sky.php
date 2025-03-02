@@ -27723,25 +27723,28 @@
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="GEO TV">
         <title>Shiddat</title>
     </programme>
-    <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="Noor TV">
-        <title>Sufiana Mehfil</title>
+    <programme start="20250302210000 +0000" stop="20250302230000 +0000" channel="Noor TV">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250302230000 +0000" stop="20250303003000 +0000" channel="Noor TV">
-        <title>Anwar-e-Shariat</title>
+    <programme start="20250302230000 +0000" stop="20250302233000 +0000" channel="Noor TV">
+        <title>Alauddin Trust</title>
     </programme>
-    <programme start="20250303003000 +0000" stop="20250303013000 +0000" channel="Noor TV">
-        <title>Naats &amp; Nasheeds</title>
+    <programme start="20250302233000 +0000" stop="20250303013000 +0000" channel="Noor TV">
+        <title>Noor-e-Ramazan</title>
     </programme>
     <programme start="20250303013000 +0000" stop="20250303023000 +0000" channel="Noor TV">
         <title>Rittli li Quran</title>
     </programme>
     <programme start="20250303023000 +0000" stop="20250303033000 +0000" channel="Noor TV">
-        <title>Fajar Prayers from Madinah</title>
+        <title>Noor Fiqh</title>
     </programme>
     <programme start="20250303033000 +0000" stop="20250303043000 +0000" channel="Noor TV">
-        <title>Noor-e-Huda</title>
+        <title>Noor Special</title>
     </programme>
-    <programme start="20250303043000 +0000" stop="20250303060000 +0000" channel="Noor TV">
+    <programme start="20250303043000 +0000" stop="20250303050000 +0000" channel="Noor TV">
+        <title>Noor Sehri</title>
+    </programme>
+    <programme start="20250303050000 +0000" stop="20250303060000 +0000" channel="Noor TV">
         <title>Dars-e-Masnavi</title>
     </programme>
     <programme start="20250303060000 +0000" stop="20250303070000 +0000" channel="Noor TV">
@@ -27753,50 +27756,41 @@
     <programme start="20250303080000 +0000" stop="20250303090000 +0000" channel="Noor TV">
         <title>Khatm-e-Khajwan</title>
     </programme>
-    <programme start="20250303090000 +0000" stop="20250303100000 +0000" channel="Noor TV">
-        <title>Noor Special</title>
+    <programme start="20250303090000 +0000" stop="20250303110000 +0000" channel="Noor TV">
+        <title>Noor-e-Ramazan</title>
     </programme>
-    <programme start="20250303100000 +0000" stop="20250303113000 +0000" channel="Noor TV">
-        <title>Ahkam-e-Shariat</title>
+    <programme start="20250303110000 +0000" stop="20250303113000 +0000" channel="Noor TV">
+        <title>Alauddin Trust</title>
     </programme>
-    <programme start="20250303113000 +0000" stop="20250303120000 +0000" channel="Noor TV">
-        <title>Naats &amp; Nasheeds</title>
-    </programme>
-    <programme start="20250303120000 +0000" stop="20250303130000 +0000" channel="Noor TV">
-        <title>Dars-e-Masnavi</title>
-    </programme>
-    <programme start="20250303130000 +0000" stop="20250303140000 +0000" channel="Noor TV">
-        <title>Gojri Baithak</title>
-    </programme>
-    <programme start="20250303140000 +0000" stop="20250303143000 +0000" channel="Noor TV">
-        <title>Noor-e-Hidayat</title>
+    <programme start="20250303113000 +0000" stop="20250303143000 +0000" channel="Noor TV">
+        <title>Mahana Mehfil</title>
     </programme>
     <programme start="20250303143000 +0000" stop="20250303150000 +0000" channel="Noor TV">
-        <title>Naats &amp; Nasheeds</title>
+        <title>Alauddin Trust</title>
     </programme>
     <programme start="20250303150000 +0000" stop="20250303160000 +0000" channel="Noor TV">
         <title>Dars-e-Masnavi</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="Noor TV">
-        <title>Noor-e-Fiqh</title>
+        <title>Noor-e-Ramazan</title>
     </programme>
     <programme start="20250303170000 +0000" stop="20250303180000 +0000" channel="Noor TV">
-        <title>Guest Hour</title>
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250303180000 +0000" stop="20250303190000 +0000" channel="Noor TV">
-        <title>Dars-e-Masnavi</title>
+    <programme start="20250303180000 +0000" stop="20250303183000 +0000" channel="Noor TV">
+        <title>Noor Iftari</title>
     </programme>
-    <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="Noor TV">
-        <title>Noor-e-Huda</title>
+    <programme start="20250303183000 +0000" stop="20250303210000 +0000" channel="Noor TV">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250303200000 +0000" stop="20250303210000 +0000" channel="Noor TV">
-        <title>Noor Diyan Kirnaan</title>
+    <programme start="20250303210000 +0000" stop="20250303230000 +0000" channel="Noor TV">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250303210000 +0000" stop="20250303220000 +0000" channel="Noor TV">
-        <title>Dars-e-Masnavi</title>
+    <programme start="20250303230000 +0000" stop="20250303233000 +0000" channel="Noor TV">
+        <title>Alauddin Trust</title>
     </programme>
-    <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="Noor TV">
-        <title>Mahana Mehfil</title>
+    <programme start="20250303233000 +0000" stop="20250304003000 +0000" channel="Noor TV">
+        <title>Noor-e-Ramazan</title>
     </programme>
     <programme start="20250302223000 +0000" stop="20250302230000 +0000" channel="IQRA TV">
         <title>LIVE Ramadan Appeal</title>
@@ -28252,7 +28246,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250303130000 +0000" stop="20250303140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28261,13 +28255,13 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
-    </programme>
-    <programme start="20250303170000 +0000" stop="20250303180000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
+    <programme start="20250303170000 +0000" stop="20250303180000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
+    </programme>
     <programme start="20250303180000 +0000" stop="20250303190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28279,7 +28273,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
