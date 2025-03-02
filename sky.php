@@ -28993,7 +28993,7 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250303133000 +0000" stop="20250303140000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Marriage Story</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303143000 +0000" channel="Sikh Channel">
         <title>Teleshopping: Panj Takht Yatra</title>
@@ -29005,7 +29005,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="Sikh Channel">
-        <title>Katha - Giani Kulwant Singh Ji</title>
+        <title>Marriage Story</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="Sikh Channel">
         <title>Guru Panth Parkash Gurdwara</title>
