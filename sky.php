@@ -35868,8 +35868,11 @@
     <programme start="20250302065700 +0000" stop="20250302070000 +0000" channel="BBC R4">
         <title>Weather Forecast</title>
     </programme>
-    <programme start="20250302070000 +0000" stop="20250302075400 +0000" channel="BBC R4">
+    <programme start="20250302070000 +0000" stop="20250302071000 +0000" channel="BBC R4">
         <title>News and Sunday Papers</title>
+    </programme>
+    <programme start="20250302071000 +0000" stop="20250302075400 +0000" channel="BBC R4">
+        <title>Sunday</title>
     </programme>
     <programme start="20250302075400 +0000" stop="20250302075700 +0000" channel="BBC R4">
         <title>The Radio 4 Appeal</title>
