@@ -14976,7 +14976,10 @@
     <programme start="20250303143000 +0000" stop="20250303153000 +0000" channel="BBC Parl HD">
         <title>Live Housing, Communities and...</title>
     </programme>
-    <programme start="20250303153000 +0000" stop="20250303223000 +0000" channel="BBC Parl HD">
+    <programme start="20250303153000 +0000" stop="20250303170000 +0000" channel="BBC Parl HD">
+        <title>Live Ukraine Statement</title>
+    </programme>
+    <programme start="20250303170000 +0000" stop="20250303223000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250303223000 +0000" stop="20250303231500 +0000" channel="BBC Parl HD">
@@ -23839,7 +23842,7 @@
         <title>The Holiday Lunchtime Show</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="QVC HD">
-        <title>Your Spring Getaway Wardrobe</title>
+        <title>Getaway</title>
     </programme>
     <programme start="20250303150000 +0000" stop="20250303160000 +0000" channel="QVC HD">
         <title>The Luggage Shop with Mia Tui</title>
@@ -24142,7 +24145,7 @@
         <title>New Season Looks with Denim &amp; Co</title>
     </programme>
     <programme start="20250303110000 +0000" stop="20250303120000 +0000" channel="QVC Style HD">
-        <title>New Season Monsoon</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250303120000 +0000" stop="20250303130000 +0000" channel="QVC Style HD">
         <title>Rieker Footwear</title>
@@ -24787,10 +24790,10 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="QVC Extra">
-        <title>Step into Spring Garden</title>
+        <title>SIA: A Source of Inspiration</title>
     </programme>
     <programme start="20250303150000 +0000" stop="20250303160000 +0000" channel="QVC Extra">
-        <title>Step into Spring Garden</title>
+        <title>SIA: A Source of Inspiration</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="QVC Extra">
         <title>Grumpy Gardener</title>
