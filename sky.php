@@ -13164,25 +13164,34 @@
     <programme start="20250303053000 +0000" stop="20250303060000 +0000" channel="SkySp Golf HD">
         <title>Golf Academy</title>
     </programme>
-    <programme start="20250303060000 +0000" stop="20250303100000 +0000" channel="SkySp Golf HD">
+    <programme start="20250303060000 +0000" stop="20250303063000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf</title>
     </programme>
-    <programme start="20250303100000 +0000" stop="20250303150000 +0000" channel="SkySp Golf HD">
+    <programme start="20250303063000 +0000" stop="20250303113000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
     </programme>
-    <programme start="20250303150000 +0000" stop="20250303153000 +0000" channel="SkySp Golf HD">
+    <programme start="20250303113000 +0000" stop="20250303120000 +0000" channel="SkySp Golf HD">
+        <title>DP World Tour Golf</title>
+    </programme>
+    <programme start="20250303120000 +0000" stop="20250303123000 +0000" channel="SkySp Golf HD">
         <title>Ryder Cup Memories : Pieters</title>
     </programme>
-    <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories : Donald</title>
-    </programme>
-    <programme start="20250303160000 +0000" stop="20250303163000 +0000" channel="SkySp Golf HD">
-        <title>Ryder Cup Memories: J Rose</title>
-    </programme>
-    <programme start="20250303163000 +0000" stop="20250303170000 +0000" channel="SkySp Golf HD">
+    <programme start="20250303123000 +0000" stop="20250303130000 +0000" channel="SkySp Golf HD">
         <title>Golf's Greatest Holes: The Open</title>
     </programme>
-    <programme start="20250303170000 +0000" stop="20250303200000 +0000" channel="SkySp Golf HD">
+    <programme start="20250303130000 +0000" stop="20250303133000 +0000" channel="SkySp Golf HD">
+        <title>Ryder Cup Memories : Donald</title>
+    </programme>
+    <programme start="20250303133000 +0000" stop="20250303140000 +0000" channel="SkySp Golf HD">
+        <title>Golf's Greatest Holes: The Open</title>
+    </programme>
+    <programme start="20250303140000 +0000" stop="20250303143000 +0000" channel="SkySp Golf HD">
+        <title>Ryder Cup Memories: J Rose</title>
+    </programme>
+    <programme start="20250303143000 +0000" stop="20250303150000 +0000" channel="SkySp Golf HD">
+        <title>Golf's Greatest Holes: The Open</title>
+    </programme>
+    <programme start="20250303150000 +0000" stop="20250303200000 +0000" channel="SkySp Golf HD">
         <title>Icons Series Golf: Bangkok</title>
     </programme>
     <programme start="20250303200000 +0000" stop="20250303220000 +0000" channel="SkySp Golf HD">
@@ -29715,13 +29724,13 @@
     <programme start="20250303083000 +0000" stop="20250303100000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250303100000 +0000" stop="20250303110000 +0000" channel="IQRA Bangla">
+    <programme start="20250303100000 +0000" stop="20250303105900 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250303110000 +0000" stop="20250303113000 +0000" channel="IQRA Bangla">
+    <programme start="20250303105900 +0000" stop="20250303112800 +0000" channel="IQRA Bangla">
         <title>Joyful Ramadan</title>
     </programme>
-    <programme start="20250303113000 +0000" stop="20250303121800 +0000" channel="IQRA Bangla">
+    <programme start="20250303112800 +0000" stop="20250303121800 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
     <programme start="20250303121800 +0000" stop="20250303123000 +0000" channel="IQRA Bangla">
@@ -29760,13 +29769,13 @@
     <programme start="20250303181500 +0000" stop="20250303181900 +0000" channel="IQRA Bangla">
         <title>Ramadan tips</title>
     </programme>
-    <programme start="20250303181900 +0000" stop="20250303191200 +0000" channel="IQRA Bangla">
+    <programme start="20250303181900 +0000" stop="20250303191300 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250303191200 +0000" stop="20250303191700 +0000" channel="IQRA Bangla">
+    <programme start="20250303191300 +0000" stop="20250303191800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250303191700 +0000" stop="20250303201700 +0000" channel="IQRA Bangla">
+    <programme start="20250303191800 +0000" stop="20250303201800 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250302190500 +0000" stop="20250302232300 +0000" channel="ATN">
@@ -29791,94 +29800,97 @@
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250303070000 +0000" stop="20250303073000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+        <title>ATN News</title>
     </programme>
     <programme start="20250303073000 +0000" stop="20250303080000 +0000" channel="ATN">
-        <title>Golpo Ganer Amontrone</title>
+        <title>Prophet Story</title>
     </programme>
-    <programme start="20250303080000 +0000" stop="20250303083000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
-    <programme start="20250303083000 +0000" stop="20250303090000 +0000" channel="ATN">
-        <title>Cyber talk</title>
-    </programme>
-    <programme start="20250303090000 +0000" stop="20250303093000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
+    <programme start="20250303080000 +0000" stop="20250303093000 +0000" channel="ATN">
+        <title>Obosheshe Ekdin</title>
     </programme>
     <programme start="20250303093000 +0000" stop="20250303100000 +0000" channel="ATN">
-        <title>Matir Subash</title>
-    </programme>
-    <programme start="20250303100000 +0000" stop="20250303103000 +0000" channel="ATN">
         <title>Amader Shekor</title>
     </programme>
-    <programme start="20250303103000 +0000" stop="20250303113000 +0000" channel="ATN">
-        <title>Hawai Mithai</title>
+    <programme start="20250303100000 +0000" stop="20250303103000 +0000" channel="ATN">
+        <title>ATN News</title>
     </programme>
-    <programme start="20250303113000 +0000" stop="20250303115500 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250303103000 +0000" stop="20250303110000 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250303115500 +0000" stop="20250303120000 +0000" channel="ATN">
+    <programme start="20250303110000 +0000" stop="20250303112000 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
+    </programme>
+    <programme start="20250303112000 +0000" stop="20250303113000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
+    <programme start="20250303113000 +0000" stop="20250303120000 +0000" channel="ATN">
+        <title>Jhotpot Iftar</title>
+    </programme>
     <programme start="20250303120000 +0000" stop="20250303122000 +0000" channel="ATN">
-        <title>Ai ghor Ai shongshar</title>
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250303122000 +0000" stop="20250303122500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250303122500 +0000" stop="20250303145500 +0000" channel="ATN">
-        <title>Ai ghor Ai shongshar</title>
-    </programme>
-    <programme start="20250303145500 +0000" stop="20250303151600 +0000" channel="ATN">
-        <title>Ai ghor Ai shongshar</title>
-    </programme>
-    <programme start="20250303151600 +0000" stop="20250303152100 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250303152100 +0000" stop="20250303153000 +0000" channel="ATN">
-        <title>Ai ghor Ai shongshar</title>
-    </programme>
-    <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
-    <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="ATN">
-        <title>Porir Moto Bou</title>
-    </programme>
-    <programme start="20250303170000 +0000" stop="20250303170800 +0000" channel="ATN">
-        <title>Aha Ki Anondo</title>
-    </programme>
-    <programme start="20250303170800 +0000" stop="20250303171300 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250303171300 +0000" stop="20250303173000 +0000" channel="ATN">
-        <title>Aha Ki Anondo</title>
-    </programme>
-    <programme start="20250303173000 +0000" stop="20250303180000 +0000" channel="ATN">
-        <title>Rehana</title>
-    </programme>
-    <programme start="20250303180000 +0000" stop="20250303184500 +0000" channel="ATN">
-        <title>ATN Archive</title>
-    </programme>
-    <programme start="20250303184500 +0000" stop="20250303185000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250303185000 +0000" stop="20250303190000 +0000" channel="ATN">
+    <programme start="20250303122500 +0000" stop="20250303123000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="ATN">
-        <title>Moddho Bitter Shongshar</title>
+    <programme start="20250303123000 +0000" stop="20250303130000 +0000" channel="ATN">
+        <title>Hamd O Nath</title>
     </programme>
-    <programme start="20250303200000 +0000" stop="20250303213000 +0000" channel="ATN">
-        <title>Jhilmil</title>
+    <programme start="20250303130000 +0000" stop="20250303133000 +0000" channel="ATN">
+        <title>Talimul Quran</title>
     </programme>
-    <programme start="20250303213000 +0000" stop="20250303220000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250303133000 +0000" stop="20250303135000 +0000" channel="ATN">
+        <title>Prophet Story</title>
     </programme>
-    <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="ATN">
-        <title>Hawai Mithai</title>
+    <programme start="20250303135000 +0000" stop="20250303140000 +0000" channel="ATN">
+        <title>Islamer Batighor</title>
     </programme>
-    <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="ATN">
-        <title>Shomadhan</title>
+    <programme start="20250303140000 +0000" stop="20250303143000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250303143000 +0000" stop="20250303153000 +0000" channel="ATN">
+        <title>Heart To Heart</title>
+    </programme>
+    <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="ATN">
+        <title>Quran Tilawat</title>
+    </programme>
+    <programme start="20250303160000 +0000" stop="20250303161000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250303161000 +0000" stop="20250303161500 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250303161500 +0000" stop="20250303163000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250303163000 +0000" stop="20250303170000 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
+    </programme>
+    <programme start="20250303170000 +0000" stop="20250303174700 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250303174700 +0000" stop="20250303175000 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250303175000 +0000" stop="20250303181500 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
+    </programme>
+    <programme start="20250303181500 +0000" stop="20250303191000 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250303191000 +0000" stop="20250303191500 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250303191500 +0000" stop="20250303200000 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250303200000 +0000" stop="20250303203000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250303203000 +0000" stop="20250303213000 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250302223000 +0000" stop="20250302230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
