@@ -165,6 +165,9 @@
     <programme start="20250315072000 +0000" stop="20250315094000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Gangwon v Seoul</title>
     </programme>
+    <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
     <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Southampton v Wolverhampton Wanderers</title>
     </programme>
@@ -225,6 +228,33 @@
     <programme start="20250316230000 +0000" stop="20250317003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
+    <programme start="20250317003000 +0000" stop="20250317013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250318090000 +0000" stop="20250318100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL GOATs: Spanish Stars</title>
+    </programme>
+    <programme start="20250318153000 +0000" stop="20250318160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250319150000 +0000" stop="20250319160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250319180000 +0000" stop="20250319183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Neurodiversity Celebration</title>
+    </programme>
+    <programme start="20250320133000 +0000" stop="20250320140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
@@ -269,32 +299,5 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Washington Spirit v Bay FC</title>
-    </programme>
-    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Seoul v Daegu</title>
-    </programme>
-    <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Ulsan</title>
-    </programme>
-    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
-    </programme>
-    <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Kansas City Current v Utah Royals FC</title>
-    </programme>
-    <programme start="20250330020000 +0000" stop="20250330043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Portland Thorns FC v North Carolina Courage</title>
-    </programme>
-    <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeju v Suwon FC</title>
-    </programme>
-    <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Anyang v Jeonbuk</title>
-    </programme>
-    <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Chicago Stars v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
 </tv>
