@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250303192000 +0000" stop="20250303223000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Nottingham Forest v Ipswich</title>
-    </programme>
     <programme start="20250304090000 +0000" stop="20250304100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Aaron Ramsey</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 8.optus">
         <title>UEFA Nations League - Slovakia v Slovenia</title>
+    </programme>
+    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA Nations League - Bulgaria v Republic of Ireland</title>
     </programme>
 </tv>
