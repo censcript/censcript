@@ -490,7 +490,7 @@
         <title>New: Inheritance: Murder in the...</title>
     </programme>
     <programme start="20250303233000 +0000" stop="20250304003000 +0000" channel="Channel 5">
-        <title>New: Acts of Murder</title>
+        <title>Acts of Murder</title>
     </programme>
     <programme start="20250302220000 +0000" stop="20250303001500 +0000" channel="SkyShowcaseHD">
         <title>Riddick</title>
@@ -13611,10 +13611,10 @@
     <programme start="20250303180000 +0000" stop="20250303213000 +0000" channel="TNT Sports 1">
         <title>Live: Ultimate Pool</title>
     </programme>
-    <programme start="20250303213000 +0000" stop="20250303221500 +0000" channel="TNT Sports 1">
+    <programme start="20250303213000 +0000" stop="20250303223000 +0000" channel="TNT Sports 1">
         <title>Fight Week: UFC 313 Preview Show</title>
     </programme>
-    <programme start="20250303221500 +0000" stop="20250303231500 +0000" channel="TNT Sports 1">
+    <programme start="20250303223000 +0000" stop="20250303233000 +0000" channel="TNT Sports 1">
         <title>Boxing: Garner v Jimenez</title>
     </programme>
     <programme start="20250302210000 +0000" stop="20250303000000 +0000" channel="TNT Sports 2">
@@ -24361,7 +24361,7 @@
         <title>Click Switch 6-in-1 Mop</title>
     </programme>
     <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="High Street TV 1">
-        <title>Speedi Dry Heated Airer</title>
+        <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303163000 +0000" channel="High Street TV 1">
         <title>Ez Well Massage Mattress</title>
@@ -24406,7 +24406,7 @@
         <title>Jet Hawk</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250303233000 +0000" channel="High Street TV 1">
-        <title>Speedi Dry Heated Airer</title>
+        <title>nutribullet</title>
     </programme>
     <programme start="20250303233000 +0000" stop="20250304003000 +0000" channel="High Street TV 1">
         <title>Ez Well Massage Mattress</title>
@@ -24517,7 +24517,7 @@
         <title>Click Switch 6-in-1 Mop</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303163000 +0000" channel="High Street TV 2">
-        <title>Speedi Dry Heated Airer</title>
+        <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250303163000 +0000" stop="20250303170000 +0000" channel="High Street TV 2">
         <title>Ez Well Massage Mattress</title>
@@ -24562,7 +24562,7 @@
         <title>Jet Hawk</title>
     </programme>
     <programme start="20250303233000 +0000" stop="20250304003000 +0000" channel="High Street TV 2">
-        <title>Speedi Dry Heated Airer</title>
+        <title>nutribullet</title>
     </programme>
     <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="Ideal World HD">
         <title>Customer Appreciation Deals with Yiannis</title>
@@ -24925,7 +24925,7 @@
         <title>Click Switch 6-in-1 Mop</title>
     </programme>
     <programme start="20250303163000 +0000" stop="20250303170000 +0000" channel="High Street TV 3">
-        <title>Speedi Dry Heated Airer</title>
+        <title>nutribullet Blender Combo</title>
     </programme>
     <programme start="20250303170000 +0000" stop="20250303173000 +0000" channel="High Street TV 3">
         <title>Ez Well Massage Mattress</title>
@@ -31012,7 +31012,7 @@
         <title>New: Inheritance: Murder in the...</title>
     </programme>
     <programme start="20250303233000 +0000" stop="20250304003000 +0000" channel="Channel 5 HD">
-        <title>New: Acts of Murder</title>
+        <title>Acts of Murder</title>
     </programme>
     <programme start="20250302220000 +0000" stop="20250303001500 +0000" channel="Sky Showcase">
         <title>Riddick</title>
@@ -33795,10 +33795,10 @@
     <programme start="20250303180000 +0000" stop="20250303213000 +0000" channel="TNTSports1 HD">
         <title>Live: Ultimate Pool</title>
     </programme>
-    <programme start="20250303213000 +0000" stop="20250303221500 +0000" channel="TNTSports1 HD">
+    <programme start="20250303213000 +0000" stop="20250303223000 +0000" channel="TNTSports1 HD">
         <title>Fight Week: UFC 313 Preview Show</title>
     </programme>
-    <programme start="20250303221500 +0000" stop="20250303231500 +0000" channel="TNTSports1 HD">
+    <programme start="20250303223000 +0000" stop="20250303233000 +0000" channel="TNTSports1 HD">
         <title>Boxing: Garner v Jimenez</title>
     </programme>
     <programme start="20250302210000 +0000" stop="20250303000000 +0000" channel="TNTSports2 HD">
@@ -34623,10 +34623,10 @@
     <programme start="20250303173000 +0000" stop="20250303175900 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250303175900 +0000" stop="20250303182900 +0000" channel="SONY TV">
+    <programme start="20250303175900 +0000" stop="20250303183000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250303182900 +0000" stop="20250303190000 +0000" channel="SONY TV">
+    <programme start="20250303183000 +0000" stop="20250303190000 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303193000 +0000" channel="SONY TV">
