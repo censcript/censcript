@@ -13687,7 +13687,7 @@
         <title>Cycling World Tour - Women</title>
     </programme>
     <programme start="20250303173000 +0000" stop="20250303183000 +0000" channel="TNT Sports 2">
-        <title>Longines Global Champions Tour</title>
+        <title>FIA World Endurance Championship</title>
     </programme>
     <programme start="20250303183000 +0000" stop="20250303193000 +0000" channel="TNT Sports 2">
         <title>Athletic Club W v Real Madrid W</title>
@@ -25503,10 +25503,10 @@
     <programme start="20250303173000 +0000" stop="20250303175900 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250303175900 +0000" stop="20250303182900 +0000" channel="SONY TV HD">
+    <programme start="20250303175900 +0000" stop="20250303183000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250303182900 +0000" stop="20250303190000 +0000" channel="SONY TV HD">
+    <programme start="20250303183000 +0000" stop="20250303190000 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303193000 +0000" channel="SONY TV HD">
@@ -25515,10 +25515,10 @@
     <programme start="20250303193000 +0000" stop="20250303205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250303205900 +0000" stop="20250303220800 +0000" channel="SONY TV HD">
+    <programme start="20250303205900 +0000" stop="20250303220700 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250303220800 +0000" stop="20250303233400 +0000" channel="SONY TV HD">
+    <programme start="20250303220700 +0000" stop="20250303233400 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250303233400 +0000" stop="20250304003400 +0000" channel="SONY TV HD">
@@ -33871,7 +33871,7 @@
         <title>Cycling World Tour - Women</title>
     </programme>
     <programme start="20250303173000 +0000" stop="20250303183000 +0000" channel="TNTSports2 HD">
-        <title>Longines Global Champions Tour</title>
+        <title>FIA World Endurance Championship</title>
     </programme>
     <programme start="20250303183000 +0000" stop="20250303193000 +0000" channel="TNTSports2 HD">
         <title>Athletic Club W v Real Madrid W</title>
@@ -34635,10 +34635,10 @@
     <programme start="20250303193000 +0000" stop="20250303205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250303205900 +0000" stop="20250303220800 +0000" channel="SONY TV">
+    <programme start="20250303205900 +0000" stop="20250303220700 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250303220800 +0000" stop="20250303233400 +0000" channel="SONY TV">
+    <programme start="20250303220700 +0000" stop="20250303233400 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250303233400 +0000" stop="20250304003400 +0000" channel="SONY TV">
