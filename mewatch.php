@@ -102,7 +102,10 @@
     <programme start="20250303130000 +0000" stop="20250303134500 +0000" channel="Channel 5.mewatch">
         <title>News Tonight With Highlights From Parliament - EP 337</title>
     </programme>
-    <programme start="20250303134500 +0000" stop="20250303171500 +0000" channel="Channel 5.mewatch">
+    <programme start="20250303134500 +0000" stop="20250303141500 +0000" channel="Channel 5.mewatch">
+        <title>The 97th Annual Academy Awards: Oscars Red Carpet</title>
+    </programme>
+    <programme start="20250303141500 +0000" stop="20250303174500 +0000" channel="Channel 5.mewatch">
         <title>The 97th Annual Academy Awards</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250302170000 +0000" channel="Channel 8.mewatch">

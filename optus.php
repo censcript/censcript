@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250303045000 +0000" stop="20250303071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Seoul v Gimcheon</title>
-    </programme>
     <programme start="20250303192000 +0000" stop="20250303224000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Ipswich</title>
     </programme>
