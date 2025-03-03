@@ -28653,8 +28653,11 @@
     <programme start="20250303084500 +0000" stop="20250303090000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250303090000 +0000" stop="20250303110000 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
+    <programme start="20250303090000 +0000" stop="20250303104500 +0000" channel="Eman Channel">
+        <title>Medinah Taraweeh Repeat</title>
+    </programme>
+    <programme start="20250303104500 +0000" stop="20250303110000 +0000" channel="Eman Channel">
+        <title>Morning Remembrance</title>
     </programme>
     <programme start="20250303110000 +0000" stop="20250303111500 +0000" channel="Eman Channel">
         <title>The Believer's Shield</title>
@@ -28671,31 +28674,31 @@
     <programme start="20250303121800 +0000" stop="20250303122500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250303122500 +0000" stop="20250303131000 +0000" channel="Eman Channel">
+    <programme start="20250303122500 +0000" stop="20250303132500 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250303131000 +0000" stop="20250303140000 +0000" channel="Eman Channel">
+    <programme start="20250303132500 +0000" stop="20250303140000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250303140000 +0000" stop="20250303141500 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
     </programme>
-    <programme start="20250303141500 +0000" stop="20250303144500 +0000" channel="Eman Channel">
+    <programme start="20250303141500 +0000" stop="20250303143000 +0000" channel="Eman Channel">
         <title>Raised Hands</title>
+    </programme>
+    <programme start="20250303143000 +0000" stop="20250303144500 +0000" channel="Eman Channel">
+        <title>Reflection From Revelation</title>
     </programme>
     <programme start="20250303144500 +0000" stop="20250303150700 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250303150700 +0000" stop="20250303151300 +0000" channel="Eman Channel">
+    <programme start="20250303150700 +0000" stop="20250303151500 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250303151300 +0000" stop="20250303153000 +0000" channel="Eman Channel">
-        <title>Light Upon Light Winter 2024</title>
+    <programme start="20250303151500 +0000" stop="20250303155000 +0000" channel="Eman Channel">
+        <title>Live Maghrib Prayer from Makkah</title>
     </programme>
-    <programme start="20250303153000 +0000" stop="20250303154500 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
-    </programme>
-    <programme start="20250303154500 +0000" stop="20250303160000 +0000" channel="Eman Channel">
+    <programme start="20250303155000 +0000" stop="20250303160000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="Eman Channel">
@@ -28705,7 +28708,7 @@
         <title>The Other Side</title>
     </programme>
     <programme start="20250303171500 +0000" stop="20250303173000 +0000" channel="Eman Channel">
-        <title>Evening Remembrance</title>
+        <title>Master Dua's</title>
     </programme>
     <programme start="20250303173000 +0000" stop="20250303174800 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
@@ -30151,7 +30154,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250303063000 +0000" stop="20250303070000 +0000" channel="iON TV">
-        <title>News 24</title>
+        <title>In the Light of Islam</title>
     </programme>
     <programme start="20250303070000 +0000" stop="20250303080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
@@ -30160,7 +30163,7 @@
         <title>Forty Hadiths</title>
     </programme>
     <programme start="20250303090000 +0000" stop="20250303100000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250303100000 +0000" stop="20250303103000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30172,13 +30175,13 @@
         <title>Akhsaru Tafaseer</title>
     </programme>
     <programme start="20250303120000 +0000" stop="20250303121800 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Quran Recitation</title>
     </programme>
     <programme start="20250303121800 +0000" stop="20250303122300 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
     <programme start="20250303122300 +0000" stop="20250303130000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Quran Recitation</title>
     </programme>
     <programme start="20250303130000 +0000" stop="20250303133000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30190,16 +30193,16 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250303150000 +0000" stop="20250303155200 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Islamic Discussion</title>
     </programme>
     <programme start="20250303155200 +0000" stop="20250303155700 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250303155700 +0000" stop="20250303160000 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Islamic Discussion</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="iON TV">
-        <title>Ramadan Kareem</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250303170000 +0000" stop="20250303174800 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
