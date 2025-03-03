@@ -24070,25 +24070,25 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250303130000 +0000" stop="20250303140000 +0000" channel="QVC Beauty">
-        <title>Alison Young: Peptides</title>
-    </programme>
-    <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
     </programme>
+    <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="QVC Beauty">
+        <title>Ultrasun Professional Suncare</title>
+    </programme>
     <programme start="20250303150000 +0000" stop="20250303160000 +0000" channel="QVC Beauty">
-        <title>Beauty For You with SBC</title>
+        <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250303170000 +0000" stop="20250303180000 +0000" channel="QVC Beauty">
-        <title>Margaret Dabbs London</title>
+        <title>Beauty For You with SBC</title>
     </programme>
     <programme start="20250303180000 +0000" stop="20250303190000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="QVC Beauty">
-        <title>Alison Young: Peptides</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250303200000 +0000" stop="20250303210000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24100,7 +24100,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="QVC Beauty">
-        <title>Pai Skincare</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="QVC Style HD">
         <title>February Fashion Best Seller</title>
@@ -24178,7 +24178,7 @@
         <title>Rieker Footwear</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="QVC Style HD">
-        <title>Luxury Handbags with Aimee. Kestenberg</title>
+        <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250302220000 +0000" stop="20250302230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -24781,7 +24781,7 @@
         <title>Sleepwear Deals with Cozee</title>
     </programme>
     <programme start="20250303120000 +0000" stop="20250303130000 +0000" channel="QVC Extra">
-        <title>Luxury Handbags with Aimee. Kestenberg</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250303130000 +0000" stop="20250303140000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
@@ -24802,19 +24802,19 @@
         <title>Emma: The Science in Sleep</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="QVC Extra">
-        <title>New Year, New Frank Usher</title>
+        <title>Home Improvements with SFIXX</title>
     </programme>
     <programme start="20250303200000 +0000" stop="20250303210000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250303210000 +0000" stop="20250303220000 +0000" channel="QVC Extra">
-        <title>The Jewellery Box</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="QVC Extra">
-        <title>Moda In Pelle</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="QVC Extra">
-        <title>Luxury Handbags with Aimee. Kestenberg</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250302223000 +0000" stop="20250302230000 +0000" channel="High Street TV 3">
         <title>Speedi Dry Heated Airer</title>
@@ -27696,47 +27696,56 @@
     <programme start="20250303100000 +0000" stop="20250303103000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
-    <programme start="20250303103000 +0000" stop="20250303120000 +0000" channel="GEO TV">
+    <programme start="20250303103000 +0000" stop="20250303110000 +0000" channel="GEO TV">
+        <title>Dayyan</title>
+    </programme>
+    <programme start="20250303110000 +0000" stop="20250303120000 +0000" channel="GEO TV">
         <title>Dayyan</title>
     </programme>
     <programme start="20250303120000 +0000" stop="20250303130000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250303130000 +0000" stop="20250303140000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+    <programme start="20250303130000 +0000" stop="20250303133000 +0000" channel="GEO TV">
+        <title>Mann Mast Malang</title>
     </programme>
-    <programme start="20250303140000 +0000" stop="20250303150000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
+    <programme start="20250303133000 +0000" stop="20250303143000 +0000" channel="GEO TV">
+        <title>Mann Mast Malang</title>
     </programme>
-    <programme start="20250303150000 +0000" stop="20250303160000 +0000" channel="GEO TV">
+    <programme start="20250303143000 +0000" stop="20250303153000 +0000" channel="GEO TV">
+        <title>Aas Paas</title>
+    </programme>
+    <programme start="20250303153000 +0000" stop="20250303160000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250303170000 +0000" channel="GEO TV">
-        <title>Sunn Mere Dil</title>
+        <title>Makafat</title>
     </programme>
     <programme start="20250303170000 +0000" stop="20250303180000 +0000" channel="GEO TV">
-        <title>Mehshar</title>
+        <title>Umme Ayesha</title>
     </programme>
     <programme start="20250303180000 +0000" stop="20250303183000 +0000" channel="GEO TV">
         <title>Kurulus Osman</title>
     </programme>
     <programme start="20250303183000 +0000" stop="20250303190000 +0000" channel="GEO TV">
-        <title>Kurulus Osman</title>
+        <title>Bajjo</title>
     </programme>
     <programme start="20250303190000 +0000" stop="20250303200000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
     <programme start="20250303200000 +0000" stop="20250303210000 +0000" channel="GEO TV">
-        <title>Dil-e-Naadan</title>
+        <title>Dayyan</title>
     </programme>
     <programme start="20250303210000 +0000" stop="20250303220000 +0000" channel="GEO TV">
+        <title>Aas Paas</title>
+    </programme>
+    <programme start="20250303220000 +0000" stop="20250303223000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
-    <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="GEO TV">
+    <programme start="20250303223000 +0000" stop="20250303230000 +0000" channel="GEO TV">
         <title>Guddi</title>
     </programme>
     <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="GEO TV">
-        <title>Shiddat</title>
+        <title>Bajjo</title>
     </programme>
     <programme start="20250302210000 +0000" stop="20250302230000 +0000" channel="Noor TV">
         <title>Charity Appeal</title>
