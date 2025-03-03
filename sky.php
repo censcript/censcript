@@ -29146,7 +29146,7 @@
         <title>Sangat Aid Eye Camp</title>
     </programme>
     <programme start="20250303200000 +0000" stop="20250303203000 +0000" channel="Sangat">
-        <title>Sangat News</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250303203000 +0000" stop="20250303213000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
