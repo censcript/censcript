@@ -105,6 +105,48 @@
     <programme start="20250309203000 +0000" stop="20250309220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
+    <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250310223000 +0000" stop="20250310233000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250311013000 +0000" stop="20250311023000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250311030000 +0000" stop="20250311033000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11: Claude Makalele</title>
+    </programme>
+    <programme start="20250311170000 +0000" stop="20250311173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Match Officials Mic&#039;d Up</title>
+    </programme>
+    <programme start="20250312150000 +0000" stop="20250312160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250312180000 +0000" stop="20250312183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Enzo Maresca - The Italian Job</title>
+    </programme>
+    <programme start="20250313133000 +0000" stop="20250313140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250314120000 +0000" stop="20250314130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
     <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Everton v Arsenal</title>
     </programme>
@@ -141,6 +183,9 @@
     <programme start="20250315172000 +0000" stop="20250315200000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Brentford</title>
     </programme>
+    <programme start="20250315200000 +0000" stop="20250315210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
+    </programme>
     <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
     </programme>
@@ -155,6 +200,9 @@
     </programme>
     <programme start="20250316072000 +0000" stop="20250316094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeonbuk v Pohang</title>
+    </programme>
+    <programme start="20250316123000 +0000" stop="20250316163000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Fulham v Tottenham Hotspur</title>
@@ -173,6 +221,9 @@
     </programme>
     <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250316230000 +0000" stop="20250317003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
