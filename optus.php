@@ -135,6 +135,9 @@
     <programme start="20250313133000 +0000" stop="20250313140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
+    <programme start="20250313143000 +0000" stop="20250313153000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Originals: Masterclass Special</title>
+    </programme>
     <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Gotham FC</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>

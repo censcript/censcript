@@ -23923,7 +23923,7 @@
         <title>Garden Tools With Buildcraft</title>
     </programme>
     <programme start="20250304120000 +0000" stop="20250304130000 +0000" channel="QVC HD">
-        <title>HUCKE Berlin</title>
+        <title>Home Hacks with Cook's Essentials</title>
     </programme>
     <programme start="20250304130000 +0000" stop="20250304140000 +0000" channel="QVC HD">
         <title>The Lunchtime Show</title>
@@ -24229,7 +24229,7 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250304100000 +0000" stop="20250304110000 +0000" channel="QVC Style HD">
-        <title>Spring Footwear Styles</title>
+        <title>New Season Footwear</title>
     </programme>
     <programme start="20250304110000 +0000" stop="20250304120000 +0000" channel="QVC Style HD">
         <title>The Holiday Shoe Shop</title>
@@ -24265,7 +24265,7 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="QVC Style HD">
-        <title>Getaway</title>
+        <title>Your Spring Getaway Wardrobe</title>
     </programme>
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="QVC Style HD">
         <title>New Season Looks with Denim &amp; Co</title>
@@ -24298,25 +24298,25 @@
         <title>Live Falling Auctions</title>
     </programme>
     <programme start="20250304070000 +0000" stop="20250304080000 +0000" channel="Gems TV">
-        <title>Great Value Jewellery</title>
+        <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250304080000 +0000" stop="20250304090000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250304090000 +0000" stop="20250304100000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250304100000 +0000" stop="20250304110000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250304110000 +0000" stop="20250304120000 +0000" channel="Gems TV">
         <title>Great Value Jewellery</title>
     </programme>
     <programme start="20250304120000 +0000" stop="20250304130000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Colorado Amazonite With Ross Murdoch</title>
     </programme>
     <programme start="20250304130000 +0000" stop="20250304140000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Baltic Amber</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304150000 +0000" channel="Gems TV">
         <title>Live Falling Auctions</title>
@@ -24325,7 +24325,7 @@
         <title>The Daily Discount</title>
     </programme>
     <programme start="20250304160000 +0000" stop="20250304170000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Firework Sky Blue Topaz</title>
     </programme>
     <programme start="20250304170000 +0000" stop="20250304180000 +0000" channel="Gems TV">
         <title>Beauty Tuesday with Kati Elliott</title>
@@ -24334,7 +24334,7 @@
         <title>Live Falling Auctions</title>
     </programme>
     <programme start="20250304190000 +0000" stop="20250304200000 +0000" channel="Gems TV">
-        <title>Beauty Tuesday with Kati Elliott</title>
+        <title>Ethiopian Opal with Dave Troth</title>
     </programme>
     <programme start="20250304200000 +0000" stop="20250304210000 +0000" channel="Gems TV">
         <title>Gemporia Jewellery</title>
@@ -28452,20 +28452,20 @@
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="HUM EUROPE">
         <title>My Dear Cinderella</title>
     </programme>
-    <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="Islam Ch Urdu">
-        <title>Qari aur Quran</title>
+    <programme start="20250303192100 +0000" stop="20250304000000 +0000" channel="Islam Ch Urdu">
+        <title>Live Appeal AFH</title>
     </programme>
-    <programme start="20250303230000 +0000" stop="20250304000000 +0000" channel="Islam Ch Urdu">
-        <title>Documentary - Dastan e Andalus</title>
+    <programme start="20250304000000 +0000" stop="20250304024500 +0000" channel="Islam Ch Urdu">
+        <title>Live Appeal AFH</title>
     </programme>
-    <programme start="20250304000000 +0000" stop="20250304023900 +0000" channel="Islam Ch Urdu">
-        <title>Quran Recitation</title>
-    </programme>
-    <programme start="20250304023900 +0000" stop="20250304030000 +0000" channel="Islam Ch Urdu">
+    <programme start="20250304024500 +0000" stop="20250304030700 +0000" channel="Islam Ch Urdu">
         <title>Prayers from Madina: Fajr</title>
     </programme>
-    <programme start="20250304030000 +0000" stop="20250304050000 +0000" channel="Islam Ch Urdu">
-        <title>Quran Recitation</title>
+    <programme start="20250304030700 +0000" stop="20250304045900 +0000" channel="Islam Ch Urdu">
+        <title>Live Appeal AFH</title>
+    </programme>
+    <programme start="20250304045900 +0000" stop="20250304050000 +0000" channel="Islam Ch Urdu">
+        <title>Fajr Adhan</title>
     </programme>
     <programme start="20250304050000 +0000" stop="20250304050600 +0000" channel="Islam Ch Urdu">
         <title>Fajr Adhan</title>
@@ -29310,8 +29310,11 @@
     <programme start="20250304123000 +0000" stop="20250304130000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
     </programme>
-    <programme start="20250304130000 +0000" stop="20250304140000 +0000" channel="Kanshi TV">
+    <programme start="20250304130000 +0000" stop="20250304133000 +0000" channel="Kanshi TV">
         <title>Holistic Show</title>
+    </programme>
+    <programme start="20250304133000 +0000" stop="20250304140000 +0000" channel="Kanshi TV">
+        <title>Kanshi TV Special</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304162000 +0000" channel="Kanshi TV">
         <title>Phir Aaya Toofan - 1973</title>
