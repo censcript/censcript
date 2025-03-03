@@ -174,13 +174,13 @@
     <programme start="20250303230500 +0000" stop="20250304000500 +0000" channel="BBC Two HD">
         <title>Surgeons: At the Edge of Life</title>
     </programme>
-    <programme start="20250302223000 +0000" stop="20250303034500 +0000" channel="ITV1 HD">
+    <programme start="20250302223000 +0000" stop="20250303035500 +0000" channel="ITV1 HD">
         <title>New: Oscars Live</title>
     </programme>
-    <programme start="20250303034500 +0000" stop="20250303043500 +0000" channel="ITV1 HD">
+    <programme start="20250303035500 +0000" stop="20250303044700 +0000" channel="ITV1 HD">
         <title>Ainsley's National Trust Cook Off</title>
     </programme>
-    <programme start="20250303043500 +0000" stop="20250303050500 +0000" channel="ITV1 HD">
+    <programme start="20250303044700 +0000" stop="20250303050500 +0000" channel="ITV1 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250303050500 +0000" stop="20250303060000 +0000" channel="ITV1 HD">
@@ -7134,13 +7134,13 @@
     <programme start="20250302230000 +0000" stop="20250302233000 +0000" channel="ITV1+1">
         <title>ITV News</title>
     </programme>
-    <programme start="20250302233000 +0000" stop="20250303044500 +0000" channel="ITV1+1">
+    <programme start="20250302233000 +0000" stop="20250303045500 +0000" channel="ITV1+1">
         <title>New: Oscars Live</title>
     </programme>
-    <programme start="20250303044500 +0000" stop="20250303053500 +0000" channel="ITV1+1">
+    <programme start="20250303045500 +0000" stop="20250303054700 +0000" channel="ITV1+1">
         <title>Ainsley's National Trust Cook Off</title>
     </programme>
-    <programme start="20250303053500 +0000" stop="20250303060500 +0000" channel="ITV1+1">
+    <programme start="20250303054700 +0000" stop="20250303060500 +0000" channel="ITV1+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250303060500 +0000" stop="20250303070000 +0000" channel="ITV1+1">
@@ -28687,7 +28687,7 @@
         <title>Raised Hands</title>
     </programme>
     <programme start="20250303143000 +0000" stop="20250303144500 +0000" channel="Eman Channel">
-        <title>Reflection From Revelation</title>
+        <title>Reflections From Revelation</title>
     </programme>
     <programme start="20250303144500 +0000" stop="20250303150700 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
