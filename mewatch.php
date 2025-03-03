@@ -1009,10 +1009,10 @@
         <title>No programme available now. Next broadcast on 7th March, Friday 8.30pm. ONE Friday Fights 99</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250303160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 5th March, Wednesday 5.50pm. AFC Champions League Two 2024/25: Sanfrecce Hiroshima vs Lion City Sailors FC</title>
     </programme>
     <programme start="20250303160000 +0000" stop="20250304160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 5th March, Wednesday 5.50pm. AFC Champions League Two 2024/25: Sanfrecce Hiroshima vs Lion City Sailors FC</title>
     </programme>
     <programme start="20250302160000 +0000" stop="20250303160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
