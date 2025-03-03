@@ -11616,46 +11616,31 @@
     <programme start="20250304053000 +0000" stop="20250304060000 +0000" channel="GREAT! romance">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250304060000 +0000" stop="20250304063000 +0000" channel="GREAT! romance">
+    <programme start="20250304060000 +0000" stop="20250304080000 +0000" channel="GREAT! romance">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250304063000 +0000" stop="20250304070000 +0000" channel="GREAT! romance">
-        <title>Teleshopping</title>
+    <programme start="20250304080000 +0000" stop="20250304085500 +0000" channel="GREAT! romance">
+        <title>An Hour Behind</title>
     </programme>
-    <programme start="20250304070000 +0000" stop="20250304073000 +0000" channel="GREAT! romance">
-        <title>Teleshopping</title>
+    <programme start="20250304085500 +0000" stop="20250304090000 +0000" channel="GREAT! romance">
+        <title>Great! Movie News</title>
     </programme>
-    <programme start="20250304073000 +0000" stop="20250304080000 +0000" channel="GREAT! romance">
-        <title>Teleshopping</title>
+    <programme start="20250304090000 +0000" stop="20250304100000 +0000" channel="GREAT! romance">
+        <title>An Hour Behind</title>
     </programme>
-    <programme start="20250304080000 +0000" stop="20250304081000 +0000" channel="GREAT! romance">
+    <programme start="20250304100000 +0000" stop="20250304105500 +0000" channel="GREAT! romance">
+        <title>Hometown Holiday</title>
+    </programme>
+    <programme start="20250304105500 +0000" stop="20250304110000 +0000" channel="GREAT! romance">
+        <title>Great! Movie News</title>
+    </programme>
+    <programme start="20250304110000 +0000" stop="20250304115500 +0000" channel="GREAT! romance">
+        <title>Hometown Holiday</title>
+    </programme>
+    <programme start="20250304115500 +0000" stop="20250304120500 +0000" channel="GREAT! romance">
         <title>Great! Movie News Extra 2025</title>
     </programme>
-    <programme start="20250304081000 +0000" stop="20250304090500 +0000" channel="GREAT! romance">
-        <title>An Hour Behind</title>
-    </programme>
-    <programme start="20250304090500 +0000" stop="20250304091000 +0000" channel="GREAT! romance">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304091000 +0000" stop="20250304101000 +0000" channel="GREAT! romance">
-        <title>An Hour Behind</title>
-    </programme>
-    <programme start="20250304101000 +0000" stop="20250304110500 +0000" channel="GREAT! romance">
-        <title>Hometown Holiday</title>
-    </programme>
-    <programme start="20250304110500 +0000" stop="20250304111000 +0000" channel="GREAT! romance">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304111000 +0000" stop="20250304120500 +0000" channel="GREAT! romance">
-        <title>Hometown Holiday</title>
-    </programme>
-    <programme start="20250304120500 +0000" stop="20250304130000 +0000" channel="GREAT! romance">
-        <title>Christmas With A Prince</title>
-    </programme>
-    <programme start="20250304130000 +0000" stop="20250304130200 +0000" channel="GREAT! romance">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304130200 +0000" stop="20250304140000 +0000" channel="GREAT! romance">
+    <programme start="20250304120500 +0000" stop="20250304140000 +0000" channel="GREAT! romance">
         <title>Christmas With A Prince</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304145500 +0000" channel="GREAT! romance">
@@ -11748,46 +11733,31 @@
     <programme start="20250304063000 +0000" stop="20250304070000 +0000" channel="G! romance+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250304070000 +0000" stop="20250304073000 +0000" channel="G! romance+1">
+    <programme start="20250304070000 +0000" stop="20250304090000 +0000" channel="G! romance+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250304073000 +0000" stop="20250304080000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
+    <programme start="20250304090000 +0000" stop="20250304095500 +0000" channel="G! romance+1">
+        <title>An Hour Behind</title>
     </programme>
-    <programme start="20250304080000 +0000" stop="20250304083000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
+    <programme start="20250304095500 +0000" stop="20250304100000 +0000" channel="G! romance+1">
+        <title>Great! Movie News</title>
     </programme>
-    <programme start="20250304083000 +0000" stop="20250304090000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
+    <programme start="20250304100000 +0000" stop="20250304110000 +0000" channel="G! romance+1">
+        <title>An Hour Behind</title>
     </programme>
-    <programme start="20250304090000 +0000" stop="20250304091000 +0000" channel="G! romance+1">
+    <programme start="20250304110000 +0000" stop="20250304115500 +0000" channel="G! romance+1">
+        <title>Hometown Holiday</title>
+    </programme>
+    <programme start="20250304115500 +0000" stop="20250304120000 +0000" channel="G! romance+1">
+        <title>Great! Movie News</title>
+    </programme>
+    <programme start="20250304120000 +0000" stop="20250304125500 +0000" channel="G! romance+1">
+        <title>Hometown Holiday</title>
+    </programme>
+    <programme start="20250304125500 +0000" stop="20250304130500 +0000" channel="G! romance+1">
         <title>Great! Movie News Extra 2025</title>
     </programme>
-    <programme start="20250304091000 +0000" stop="20250304100500 +0000" channel="G! romance+1">
-        <title>An Hour Behind</title>
-    </programme>
-    <programme start="20250304100500 +0000" stop="20250304101000 +0000" channel="G! romance+1">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304101000 +0000" stop="20250304111000 +0000" channel="G! romance+1">
-        <title>An Hour Behind</title>
-    </programme>
-    <programme start="20250304111000 +0000" stop="20250304120500 +0000" channel="G! romance+1">
-        <title>Hometown Holiday</title>
-    </programme>
-    <programme start="20250304120500 +0000" stop="20250304121000 +0000" channel="G! romance+1">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304121000 +0000" stop="20250304130500 +0000" channel="G! romance+1">
-        <title>Hometown Holiday</title>
-    </programme>
-    <programme start="20250304130500 +0000" stop="20250304140000 +0000" channel="G! romance+1">
-        <title>Christmas With A Prince</title>
-    </programme>
-    <programme start="20250304140000 +0000" stop="20250304140200 +0000" channel="G! romance+1">
-        <title>Great! Movie News</title>
-    </programme>
-    <programme start="20250304140200 +0000" stop="20250304150000 +0000" channel="G! romance+1">
+    <programme start="20250304130500 +0000" stop="20250304150000 +0000" channel="G! romance+1">
         <title>Christmas With A Prince</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304155500 +0000" channel="G! romance+1">
@@ -25686,10 +25656,10 @@
     <programme start="20250304100000 +0000" stop="20250304103000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
-    <programme start="20250304103000 +0000" stop="20250304110000 +0000" channel="Utsav Bharat">
+    <programme start="20250304103000 +0000" stop="20250304105900 +0000" channel="Utsav Bharat">
         <title>Mehndi Hai Rachne Waali</title>
     </programme>
-    <programme start="20250304110000 +0000" stop="20250304113000 +0000" channel="Utsav Bharat">
+    <programme start="20250304105900 +0000" stop="20250304113000 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
     </programme>
     <programme start="20250304113000 +0000" stop="20250304120000 +0000" channel="Utsav Bharat">
@@ -25701,10 +25671,10 @@
     <programme start="20250304130000 +0000" stop="20250304133000 +0000" channel="Utsav Bharat">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
-    <programme start="20250304133000 +0000" stop="20250304140000 +0000" channel="Utsav Bharat">
+    <programme start="20250304133000 +0000" stop="20250304135900 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
-    <programme start="20250304140000 +0000" stop="20250304143000 +0000" channel="Utsav Bharat">
+    <programme start="20250304135900 +0000" stop="20250304143000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
     <programme start="20250304143000 +0000" stop="20250304150000 +0000" channel="Utsav Bharat">
