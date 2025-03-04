@@ -29265,10 +29265,7 @@
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Kanshi TV">
         <title>Khushiyan da Vehra</title>
     </programme>
-    <programme start="20250305170000 +0000" stop="20250305173000 +0000" channel="Kanshi TV">
-        <title>Music Time</title>
-    </programme>
-    <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="Kanshi TV">
+    <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
     </programme>
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="Kanshi TV">
