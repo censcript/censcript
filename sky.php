@@ -24127,10 +24127,10 @@
         <title>Lifestyle Deals with Mark</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Mukesh &amp; Jo</title>
+        <title>Lifestyle Deals Under £50 with Mukesh &amp; Jo</title>
     </programme>
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Mukesh &amp; Jo</title>
+        <title>Lifestyle Deals Under £50 with Mukesh &amp; Jo</title>
     </programme>
     <programme start="20250303220000 +0000" stop="20250303230000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
@@ -36483,8 +36483,11 @@
     <programme start="20250304130000 +0000" stop="20250304134500 +0000" channel="BBC Two Wal HD">
         <title>Impossible</title>
     </programme>
-    <programme start="20250304134500 +0000" stop="20250304144000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250304134500 +0000" stop="20250304143500 +0000" channel="BBC Two Wal HD">
         <title>First Minister's Questions</title>
+    </programme>
+    <programme start="20250304143500 +0000" stop="20250304144000 +0000" channel="BBC Two Wal HD">
+        <title>Nigel Slater's Dish of the Day</title>
     </programme>
     <programme start="20250304144000 +0000" stop="20250304152500 +0000" channel="BBC Two Wal HD">
         <title>Bridge of Lies</title>
