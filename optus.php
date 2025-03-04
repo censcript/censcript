@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250304153000 +0000" stop="20250304160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 10.optus">
         <title>UEFA Nations League - Kosovo v Iceland</title>
+    </programme>
+    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
 </tv>

@@ -14620,7 +14620,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
+        <title>Cheltenham Festival Preview Programme</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
@@ -15048,22 +15048,19 @@
     <programme start="20250304100000 +0000" stop="20250304113000 +0000" channel="BBC Parl HD">
         <title>Culture, Media and Sport Committee on the BBC</title>
     </programme>
-    <programme start="20250304113000 +0000" stop="20250304123000 +0000" channel="BBC Parl HD">
+    <programme start="20250304113000 +0000" stop="20250304134000 +0000" channel="BBC Parl HD">
         <title>Live Treasury Questions</title>
     </programme>
-    <programme start="20250304123000 +0000" stop="20250304131500 +0000" channel="BBC Parl HD">
-        <title>Live Gaza Urgent Question</title>
-    </programme>
-    <programme start="20250304131500 +0000" stop="20250304140000 +0000" channel="BBC Parl HD">
+    <programme start="20250304134000 +0000" stop="20250304142500 +0000" channel="BBC Parl HD">
         <title>Live Hong Kong Urgent Question</title>
     </programme>
-    <programme start="20250304140000 +0000" stop="20250304150000 +0000" channel="BBC Parl HD">
+    <programme start="20250304142500 +0000" stop="20250304151500 +0000" channel="BBC Parl HD">
         <title>Live Iran Statement</title>
     </programme>
-    <programme start="20250304150000 +0000" stop="20250304160000 +0000" channel="BBC Parl HD">
+    <programme start="20250304151500 +0000" stop="20250304161500 +0000" channel="BBC Parl HD">
         <title>Live Neighbourhoods Statement</title>
     </programme>
-    <programme start="20250304160000 +0000" stop="20250304193000 +0000" channel="BBC Parl HD">
+    <programme start="20250304161500 +0000" stop="20250304193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250304193000 +0000" stop="20250304220000 +0000" channel="BBC Parl HD">
@@ -34294,7 +34291,7 @@
         <title>Racing Replay</title>
     </programme>
     <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
+        <title>Cheltenham Festival Preview Programme</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
