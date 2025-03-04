@@ -13753,7 +13753,7 @@
         <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250304163000 +0000" stop="20250304173000 +0000" channel="TNT Sports 2">
-        <title>New Zealand v Sri Lanka - 1st ODI</title>
+        <title>Superbike WC Highlights</title>
     </programme>
     <programme start="20250304173000 +0000" stop="20250304180000 +0000" channel="TNT Sports 2">
         <title>Liberty A-League Women Highlights</title>
@@ -13780,7 +13780,7 @@
         <title>1967: When LA Wolves Conquered the USA</title>
     </programme>
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="TNT Sports 2">
-        <title>New Zealand v Sri Lanka - 1st ODI</title>
+        <title>Bath Rugby v Harlequins</title>
     </programme>
     <programme start="20250303223000 +0000" stop="20250303230000 +0000" channel="SkySp+ HD">
         <title>Back Pages Tonight</title>
@@ -23959,7 +23959,7 @@
         <title>Ninja Cooking Appliances</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="QVC HD">
-        <title>Nails Inc</title>
+        <title>Hair by Philip Kingsley</title>
     </programme>
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="QVC HD">
         <title>Clean &amp; Tidy</title>
@@ -33559,7 +33559,7 @@
         <title>Yukon Vet</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304150000 +0000" channel="Nat Geo Wild">
-        <title>Wild India</title>
+        <title>Wild India: The Badlands</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304160000 +0000" channel="Nat Geo Wild">
         <title>Wild India: The Monsoon Forest</title>
@@ -33859,7 +33859,7 @@
         <title>In My Blood: Cole Palmer</title>
     </programme>
     <programme start="20250304163000 +0000" stop="20250304173000 +0000" channel="TNTSports2 HD">
-        <title>New Zealand v Sri Lanka - 1st ODI</title>
+        <title>Superbike WC Highlights</title>
     </programme>
     <programme start="20250304173000 +0000" stop="20250304180000 +0000" channel="TNTSports2 HD">
         <title>Liberty A-League Women Highlights</title>
@@ -33886,7 +33886,7 @@
         <title>1967: When LA Wolves Conquered the USA</title>
     </programme>
     <programme start="20250304230000 +0000" stop="20250305000000 +0000" channel="TNTSports2 HD">
-        <title>New Zealand v Sri Lanka - 1st ODI</title>
+        <title>Bath Rugby v Harlequins</title>
     </programme>
     <programme start="20250303224500 +0000" stop="20250303230000 +0000" channel="SkySp Racing HD">
         <title>Cheltenham 2025: Nicky Henderson</title>
@@ -37012,7 +37012,7 @@
         <title>talkSPORT Breakfast</title>
     </programme>
     <programme start="20250304100000 +0000" stop="20250304130000 +0000" channel="talkSPORT">
-        <title>Jim White, Alex Crook, Troy Deeney</title>
+        <title>White &amp; Jordan</title>
     </programme>
     <programme start="20250304130000 +0000" stop="20250304160000 +0000" channel="talkSPORT">
         <title>Hawksbee &amp; Baker</title>
@@ -37021,7 +37021,7 @@
         <title>talkSPORT Drive</title>
     </programme>
     <programme start="20250304190000 +0000" stop="20250304220000 +0000" channel="talkSPORT">
-        <title>Kick Off with Adrian Durham</title>
+        <title>Kick Off - PSV v Arsenal</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="talkSPORT">
         <title>The Sports Bar</title>
