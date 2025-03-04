@@ -14947,10 +14947,13 @@
         <title>House of Lords - Terrorism...</title>
     </programme>
     <programme start="20250305065000 +0000" stop="20250305070000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+        <title>Treasury Questions</title>
     </programme>
-    <programme start="20250305070000 +0000" stop="20250305093000 +0000" channel="BBC Parl HD">
+    <programme start="20250305070000 +0000" stop="20250305075500 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
+    </programme>
+    <programme start="20250305075500 +0000" stop="20250305093000 +0000" channel="BBC Parl HD">
+        <title>Joint Committee on the National Security Strategy</title>
     </programme>
     <programme start="20250305093000 +0000" stop="20250305113000 +0000" channel="BBC Parl HD">
         <title>Live Health and Social Care...</title>
@@ -18055,10 +18058,13 @@
         <title>Bob and Penny Lord Present</title>
     </programme>
     <programme start="20250305050000 +0000" stop="20250305053000 +0000" channel="EWTN Catholic">
-        <title>The Holy Land Rosary</title>
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250305053000 +0000" stop="20250305060000 +0000" channel="EWTN Catholic">
+    <programme start="20250305053000 +0000" stop="20250305054500 +0000" channel="EWTN Catholic">
         <title>Chaplet of St Michael</title>
+    </programme>
+    <programme start="20250305054500 +0000" stop="20250305060000 +0000" channel="EWTN Catholic">
+        <title>Voice of the Pastor</title>
     </programme>
     <programme start="20250305060000 +0000" stop="20250305063000 +0000" channel="EWTN Catholic">
         <title>The Promise: We Said I Do Forever</title>
@@ -18076,7 +18082,7 @@
         <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250305081500 +0000" stop="20250305091500 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
+        <title>Lenten Parish Mission</title>
     </programme>
     <programme start="20250305091500 +0000" stop="20250305093000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
@@ -18112,7 +18118,7 @@
         <title>Kenosis</title>
     </programme>
     <programme start="20250305143000 +0000" stop="20250305153000 +0000" channel="EWTN Catholic">
-        <title>EWTN News In Depth</title>
+        <title>Persecuted Christians in Iraq, An EWTN News Special</title>
     </programme>
     <programme start="20250305153000 +0000" stop="20250305173000 +0000" channel="EWTN Catholic">
         <title>Holy Mass with the Blessing...</title>
@@ -18129,8 +18135,11 @@
     <programme start="20250305193000 +0000" stop="20250305200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="EWTN Catholic">
-        <title>Mother Angelica Live Classics</title>
+    <programme start="20250305200000 +0000" stop="20250305204500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250305204500 +0000" stop="20250305210000 +0000" channel="EWTN Catholic">
+        <title>Voice of the Pastor</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305213000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
@@ -28246,7 +28255,7 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Takbeer TV">
         <title>Bulbul-e-Baagh-e-Jinna</title>
@@ -28255,13 +28264,13 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Takbeer TV">
-        <title>Inside News</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28270,16 +28279,16 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28288,7 +28297,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29884,28 +29893,40 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="NTV">
-        <title>Ma Baba Bhai Bon</title>
+        <title>Kafelar Canvas</title>
     </programme>
     <programme start="20250305090000 +0000" stop="20250305093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250305093000 +0000" stop="20250305110000 +0000" channel="NTV">
-        <title>Amra Hotash</title>
+        <title>Bhoyanok Shonghorsho</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="NTV">
         <title>Agnee 2</title>
     </programme>
-    <programme start="20250305120000 +0000" stop="20250305122000 +0000" channel="NTV">
+    <programme start="20250305120000 +0000" stop="20250305121700 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250305122000 +0000" stop="20250305122500 +0000" channel="NTV">
+    <programme start="20250305121700 +0000" stop="20250305122000 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250305122000 +0000" stop="20250305122200 +0000" channel="NTV">
+        <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250305122200 +0000" stop="20250305122500 +0000" channel="NTV">
+        <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250305122500 +0000" stop="20250305123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250305123000 +0000" stop="20250305140000 +0000" channel="NTV">
-        <title>Agnee 2</title>
+    <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="NTV">
+        <title>Bhoyanok Shonghorsho</title>
+    </programme>
+    <programme start="20250305130000 +0000" stop="20250305133000 +0000" channel="NTV">
+        <title>Seeratunnabi</title>
+    </programme>
+    <programme start="20250305133000 +0000" stop="20250305140000 +0000" channel="NTV">
+        <title>Taroka Konthe Al Quran</title>
     </programme>
     <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -29914,16 +29935,28 @@
         <title>Desher Khobor</title>
     </programme>
     <programme start="20250305150000 +0000" stop="20250305150900 +0000" channel="NTV">
-        <title>Batch 27</title>
+        <title>Virtues Of Ramadan</title>
     </programme>
     <programme start="20250305150900 +0000" stop="20250305151400 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250305151400 +0000" stop="20250305163000 +0000" channel="NTV">
+    <programme start="20250305151400 +0000" stop="20250305153000 +0000" channel="NTV">
         <title>Batch 27</title>
     </programme>
-    <programme start="20250305163000 +0000" stop="20250305170100 +0000" channel="NTV">
+    <programme start="20250305153000 +0000" stop="20250305155500 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
+    </programme>
+    <programme start="20250305155500 +0000" stop="20250305160000 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="NTV">
+        <title>Quraner Alo</title>
+    </programme>
+    <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="NTV">
+        <title>NTV NEWS-Shondhar Khobor</title>
+    </programme>
+    <programme start="20250305170000 +0000" stop="20250305170100 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250305170100 +0000" stop="20250305170600 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
@@ -29931,8 +29964,14 @@
     <programme start="20250305170600 +0000" stop="20250305173000 +0000" channel="NTV">
         <title>Onnorokom Bhalobasha</title>
     </programme>
-    <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="NTV">
+    <programme start="20250305173000 +0000" stop="20250305175100 +0000" channel="NTV">
         <title>Food Caravan</title>
+    </programme>
+    <programme start="20250305175100 +0000" stop="20250305175600 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
+    </programme>
+    <programme start="20250305175600 +0000" stop="20250305180000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250305180000 +0000" stop="20250305183400 +0000" channel="NTV">
         <title>10 Minute</title>
@@ -29944,25 +29983,34 @@
         <title>10 Minute</title>
     </programme>
     <programme start="20250305190000 +0000" stop="20250305191500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250305191500 +0000" stop="20250305200000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
+    <programme start="20250305191500 +0000" stop="20250305192000 +0000" channel="NTV">
+        <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250305200000 +0000" stop="20250305213000 +0000" channel="NTV">
+    <programme start="20250305192000 +0000" stop="20250305200000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250305200000 +0000" stop="20250305200500 +0000" channel="NTV">
         <title>Law and Justice</title>
     </programme>
-    <programme start="20250305213000 +0000" stop="20250305220000 +0000" channel="NTV">
+    <programme start="20250305200500 +0000" stop="20250305213000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250305213000 +0000" stop="20250305213500 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
+    </programme>
+    <programme start="20250305213500 +0000" stop="20250305220000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250305220000 +0000" stop="20250305223000 +0000" channel="NTV">
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250305223000 +0000" stop="20250305230000 +0000" channel="NTV">
-        <title>Faul</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="NTV">
-        <title>Aey Shomoy</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250304192000 +0000" stop="20250305012000 +0000" channel="TV One">
         <title>Live charity with UKIM</title>
