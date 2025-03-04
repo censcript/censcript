@@ -81,7 +81,7 @@
     <programme start="20250309072000 +0000" stop="20250309094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Gangwon</title>
     </programme>
-    <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Manchester City v Aston Villa</title>
     </programme>
     <programme start="20250309130000 +0000" stop="20250309162000 +0000" channel="Optus Sport 1.optus">
