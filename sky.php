@@ -26562,10 +26562,10 @@
     <programme start="20250304200000 +0000" stop="20250304203000 +0000" channel="ColorsRishtey">
         <title>Appollena - Sapno Ki Unchi Udann</title>
     </programme>
-    <programme start="20250304203000 +0000" stop="20250304210000 +0000" channel="ColorsRishtey">
+    <programme start="20250304203000 +0000" stop="20250304210500 +0000" channel="ColorsRishtey">
         <title>Udaariyan</title>
     </programme>
-    <programme start="20250304210000 +0000" stop="20250304213000 +0000" channel="ColorsRishtey">
+    <programme start="20250304210500 +0000" stop="20250304213000 +0000" channel="ColorsRishtey">
         <title>Choti Sarrdaarni</title>
     </programme>
     <programme start="20250304213000 +0000" stop="20250304220000 +0000" channel="ColorsRishtey">
@@ -36932,9 +36932,6 @@
     </programme>
     <programme start="20250304233000 +0000" stop="20250305003000 +0000" channel="BBC R4">
         <title>Today in Parliament</title>
-    </programme>
-    <programme start="20250303220000 +0000" stop="20250304010000 +0000" channel="BBC R5L">
-        <title>Tony Livesey</title>
     </programme>
     <programme start="20250304010000 +0000" stop="20250304050000 +0000" channel="BBC R5L">
         <title>Dotun Adebayo</title>
