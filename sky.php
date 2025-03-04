@@ -5968,10 +5968,10 @@
         <title>Yukon Vet</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304150000 +0000" channel="NatGeoWild HD">
-        <title>Wild India</title>
+        <title>Wild India: The Badlands</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304160000 +0000" channel="NatGeoWild HD">
-        <title>Wild India</title>
+        <title>Wild India: The Monsoon Forest</title>
     </programme>
     <programme start="20250304160000 +0000" stop="20250304170000 +0000" channel="NatGeoWild HD">
         <title>Secrets Of The Zoo</title>
@@ -13996,7 +13996,7 @@
         <title>Fight Night: Jonas v Dicaire</title>
     </programme>
     <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="SkySp Mix HD">
-        <title>WPL M15 Hlts</title>
+        <title>WPL: UP Warriroz v Gujarat G Hlts</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="SkySp Mix HD">
         <title>ICC CT'25: IND v NZ Hlts</title>
@@ -24883,10 +24883,10 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250304140000 +0000" stop="20250304150000 +0000" channel="QVC Extra">
-        <title>Emma: The Science in Sleep</title>
+        <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304160000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>The Holiday Shoe Shop</title>
     </programme>
     <programme start="20250304160000 +0000" stop="20250304170000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>
@@ -24901,7 +24901,7 @@
         <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250304200000 +0000" stop="20250304210000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>Home Improvements with SFIXX</title>
     </programme>
     <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="QVC Extra">
         <title>Emma: The Science in Sleep</title>
@@ -27496,7 +27496,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250304090500 +0000" stop="20250304100000 +0000" channel="New Vision TV">
-        <title>Bakhabar Savera</title>
+        <title>Sports Room</title>
     </programme>
     <programme start="20250304100000 +0000" stop="20250304100500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27513,11 +27513,8 @@
     <programme start="20250304120000 +0000" stop="20250304120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250304120500 +0000" stop="20250304123000 +0000" channel="New Vision TV">
-        <title>News</title>
-    </programme>
-    <programme start="20250304123000 +0000" stop="20250304130000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+    <programme start="20250304120500 +0000" stop="20250304130000 +0000" channel="New Vision TV">
+        <title>Har Lamha Purjosh</title>
     </programme>
     <programme start="20250304130000 +0000" stop="20250304130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27529,7 +27526,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250304140500 +0000" stop="20250304150000 +0000" channel="New Vision TV">
-        <title>Har Lamha Purjosh</title>
+        <title>Sham e Ramadan</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -28707,8 +28704,11 @@
     <programme start="20250304120000 +0000" stop="20250304121700 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250304121700 +0000" stop="20250304133000 +0000" channel="Eman Channel">
+    <programme start="20250304121700 +0000" stop="20250304122600 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
+    </programme>
+    <programme start="20250304122600 +0000" stop="20250304133000 +0000" channel="Eman Channel">
+        <title>Repeat Taraweeh</title>
     </programme>
     <programme start="20250304133000 +0000" stop="20250304134500 +0000" channel="Eman Channel">
         <title>Dealing With Difficulty</title>
@@ -33562,7 +33562,7 @@
         <title>Wild India</title>
     </programme>
     <programme start="20250304150000 +0000" stop="20250304160000 +0000" channel="Nat Geo Wild">
-        <title>Wild India</title>
+        <title>Wild India: The Monsoon Forest</title>
     </programme>
     <programme start="20250304160000 +0000" stop="20250304170000 +0000" channel="Nat Geo Wild">
         <title>Secrets Of The Zoo</title>
@@ -34024,7 +34024,7 @@
         <title>Fight Night: Jonas v Dicaire</title>
     </programme>
     <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="SkySp Mix">
-        <title>WPL M15 Hlts</title>
+        <title>WPL: UP Warriroz v Gujarat G Hlts</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="SkySp Mix">
         <title>ICC CT'25: IND v NZ Hlts</title>

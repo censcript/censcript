@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250304090000 +0000" stop="20250304100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Aaron Ramsey</title>
-    </programme>
     <programme start="20250304153000 +0000" stop="20250304160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA Nations League - Bulgaria v Republic of Ireland</title>
+    </programme>
+    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 10.optus">
+        <title>UEFA Nations League - Kosovo v Iceland</title>
     </programme>
 </tv>
