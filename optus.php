@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: International Women&#039;s Day</title>
-    </programme>
     <programme start="20250305185500 +0000" stop="20250305211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322135500 +0000" stop="20250322161000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Everton v Crystal Palace</title>
+    </programme>
+    <programme start="20250322172000 +0000" stop="20250322194000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Arsenal v Liverpool</title>
     </programme>
 </tv>
