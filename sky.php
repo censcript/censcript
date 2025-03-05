@@ -24082,7 +24082,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="QVC Beauty">
-        <title>Independent Living</title>
+        <title>New In Beauty</title>
     </programme>
     <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24097,7 +24097,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="QVC Beauty">
-        <title>The Holiday Beauty Guide</title>
+        <title>Nails Inc</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="QVC Beauty">
         <title>Hair Gain</title>
@@ -24112,10 +24112,10 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="QVC Beauty">
-        <title>Liz Earle Naturally Active</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Hair by Philip Kingsley</title>
     </programme>
     <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="QVC Beauty">
         <title>SKINN Skincare</title>
@@ -24157,7 +24157,7 @@
         <title>Ben de Lisi</title>
     </programme>
     <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="QVC Style HD">
-        <title>Your Spring Getaway Wardrobe</title>
+        <title>New Season White Stuff</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="QVC Style HD">
         <title>New Season Nina Leonard</title>
@@ -24796,7 +24796,7 @@
         <title>Home Hacks with Cook's Essentials</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="QVC Extra">
-        <title>Sleep Deals with Cozee</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="QVC Extra">
         <title>New Kitchen Must Haves</title>
@@ -24805,31 +24805,31 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="QVC Extra">
-        <title>Home Hacks with Cook's Essentials</title>
+        <title>Apricot Clothing</title>
     </programme>
     <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="QVC Extra">
         <title>Home Improvements with SFIXX</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="QVC Extra">
-        <title>Practical Gardening Deals</title>
+        <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="QVC Extra">
-        <title>New Season Nina Leonard</title>
+        <title>The Holiday Shoe Shop</title>
     </programme>
     <programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="QVC Extra">
         <title>Apricot Clothing</title>
     </programme>
     <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>New Season Nina Leonard</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="QVC Extra">
-        <title>Sleep Deals with Cozee</title>
+        <title>Emma: The Science in Sleep</title>
     </programme>
     <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="QVC Extra">
-        <title>Independent Living</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="QVC Extra">
         <title>Your Spring Getaway Wardrobe</title>
@@ -25402,7 +25402,7 @@
         <title>Travel Time Hits</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305173000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>Star Stop</title>
     </programme>
     <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="B4U Music">
         <title>Bajao</title>
@@ -36084,10 +36084,13 @@
     <programme start="20250305011000 +0000" stop="20250305021500 +0000" channel="BBC One ScotHD">
         <title>The Traitors US</title>
     </programme>
-    <programme start="20250305021500 +0000" stop="20250305064000 +0000" channel="BBC One ScotHD">
+    <programme start="20250305021500 +0000" stop="20250305022000 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250305064000 +0000" stop="20250305093000 +0000" channel="BBC One ScotHD">
+    <programme start="20250305022000 +0000" stop="20250305060000 +0000" channel="BBC One ScotHD">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250305060000 +0000" stop="20250305093000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
     </programme>
     <programme start="20250305093000 +0000" stop="20250305104500 +0000" channel="BBC One ScotHD">
