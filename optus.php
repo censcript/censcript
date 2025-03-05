@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250305185500 +0000" stop="20250305211000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - West Ham United v Manchester City</title>
-    </programme>
     <programme start="20250305192000 +0000" stop="20250305214000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Chelsea v Leicester</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322172000 +0000" stop="20250322194000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Arsenal v Liverpool</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - North Carolina Courage v Seattle Reign</title>
     </programme>
 </tv>

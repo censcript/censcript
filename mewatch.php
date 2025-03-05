@@ -771,9 +771,6 @@
     <programme start="20250306150000 +0000" stop="20250306180000 +0000" channel="now-80s.mewatch">
         <title>The Now Yearbook 1984</title>
     </programme>
-    <programme start="20250306160000 +0000" stop="20250306210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
-    </programme>
     <programme start="20250305160000 +0000" stop="20250305162000 +0000" channel="now-70s.mewatch">
         <title>Eat To The Beat! Top 30</title>
     </programme>
