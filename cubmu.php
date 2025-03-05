@@ -2049,9 +2049,63 @@
     <programme start="20250305163000 +0000" stop="20250304170000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
     </programme>
-
-Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
-<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be5ef52a5904 -->
+    <programme start="20250304170000 +0000" stop="20250304190000 +0000" channel="MNC TV.cubmu">
+        <title>Sinema Spesial Pilihan</title>
+    </programme>
+    <programme start="20250304190000 +0000" stop="20250304211500 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Malam</title>
+    </programme>
+    <programme start="20250304211500 +0000" stop="20250304213000 +0000" channel="MNC TV.cubmu">
+        <title>Rangkaian Imsakiyah</title>
+    </programme>
+    <programme start="20250304213000 +0000" stop="20250304221500 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan</title>
+    </programme>
+    <programme start="20250304221500 +0000" stop="20250304230000 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Pagi</title>
+    </programme>
+    <programme start="20250304230000 +0000" stop="20250304233000 +0000" channel="MNC TV.cubmu">
+        <title>Seleb On News</title>
+    </programme>
+    <programme start="20250304233000 +0000" stop="20250305010000 +0000" channel="MNC TV.cubmu">
+        <title>Kiko</title>
+    </programme>
+    <programme start="20250305010000 +0000" stop="20250305030000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250305030000 +0000" stop="20250305043000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Siang</title>
+    </programme>
+    <programme start="20250305043000 +0000" stop="20250305063000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250305063000 +0000" stop="20250305080000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="MNC TV.cubmu">
+        <title>Petualangan Fantastis Kiko</title>
+    </programme>
+    <programme start="20250305090000 +0000" stop="20250305103000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250305103000 +0000" stop="20250305104500 +0000" channel="MNC TV.cubmu">
+        <title>Rangkaian Berbuka</title>
+    </programme>
+    <programme start="20250305104500 +0000" stop="20250305110000 +0000" channel="MNC TV.cubmu">
+        <title>Entong</title>
+    </programme>
+    <programme start="20250305110000 +0000" stop="20250305123000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250305123000 +0000" stop="20250305145000 +0000" channel="MNC TV.cubmu">
+        <title>Family 100</title>
+    </programme>
+    <programme start="20250305145000 +0000" stop="20250305160000 +0000" channel="MNC TV.cubmu">
+        <title>DMD Panggung Rezeki</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250304170000 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Malam</title>
+    </programme>
     <programme start="20250304170000 +0000" stop="20250304173000 +0000" channel="TVRI.cubmu">
         <title>Monitor Olahraga</title>
     </programme>

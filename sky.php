@@ -28617,10 +28617,10 @@
     <programme start="20250305084500 +0000" stop="20250305090000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250305090000 +0000" stop="20250305103000 +0000" channel="Eman Channel">
+    <programme start="20250305090000 +0000" stop="20250305104000 +0000" channel="Eman Channel">
         <title>Medinah Taraweeh Repeat</title>
     </programme>
-    <programme start="20250305103000 +0000" stop="20250305110000 +0000" channel="Eman Channel">
+    <programme start="20250305104000 +0000" stop="20250305110000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305111500 +0000" channel="Eman Channel">
@@ -28641,14 +28641,11 @@
     <programme start="20250305121700 +0000" stop="20250305122400 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250305122400 +0000" stop="20250305133000 +0000" channel="Eman Channel">
+    <programme start="20250305122400 +0000" stop="20250305134500 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250305133000 +0000" stop="20250305134500 +0000" channel="Eman Channel">
-        <title>Dealing With Difficulty</title>
-    </programme>
     <programme start="20250305134500 +0000" stop="20250305140000 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
+        <title>Dealing With Difficulty</title>
     </programme>
     <programme start="20250305140000 +0000" stop="20250305141500 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
@@ -28678,10 +28675,10 @@
         <title>Juzz Amma Revision</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305171500 +0000" channel="Eman Channel">
-        <title>The Other Side</title>
+        <title>Evening Remembrance</title>
     </programme>
     <programme start="20250305171500 +0000" stop="20250305173000 +0000" channel="Eman Channel">
-        <title>Master Dua's</title>
+        <title>The Other Side</title>
     </programme>
     <programme start="20250305173000 +0000" stop="20250305175100 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
@@ -37489,7 +37486,7 @@
         <title>Bobby Friction</title>
     </programme>
     <programme start="20250305200000 +0000" stop="20250305220000 +0000" channel="BBC Asian Net">
-        <title>DJ Limelight &amp; Kan D Man</title>
+        <title>DJ Limelight</title>
     </programme>
     <programme start="20250305220000 +0000" stop="20250305223000 +0000" channel="BBC Asian Net">
         <title>One More Chai</title>
