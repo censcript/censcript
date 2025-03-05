@@ -14946,7 +14946,10 @@
     <programme start="20250305120000 +0000" stop="20250305123500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250305123500 +0000" stop="20250305193000 +0000" channel="BBC Parl HD">
+    <programme start="20250305123500 +0000" stop="20250305133500 +0000" channel="BBC Parl HD">
+        <title>Live Courts and Tribunals Statement</title>
+    </programme>
+    <programme start="20250305133500 +0000" stop="20250305193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250305193000 +0000" stop="20250305220000 +0000" channel="BBC Parl HD">
@@ -38181,11 +38184,8 @@
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="BBC R Cymru">
         <title>Y Talwrn</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305205800 +0000" channel="BBC R Cymru">
+    <programme start="20250305190000 +0000" stop="20250305210000 +0000" channel="BBC R Cymru">
         <title>Mirain Iwerydd</title>
-    </programme>
-    <programme start="20250305205800 +0000" stop="20250305210000 +0000" channel="BBC R Cymru">
-        <title>This is BBC R Cymru</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="BBC R Cymru">
         <title>Caryl</title>
@@ -38574,11 +38574,8 @@
     <programme start="20250305170000 +0000" stop="20250305190000 +0000" channel="BBC R Cymru 2">
         <title>Traciau Radio Cymru 2</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305205800 +0000" channel="BBC R Cymru 2">
+    <programme start="20250305190000 +0000" stop="20250305210000 +0000" channel="BBC R Cymru 2">
         <title>Mirain Iwerydd</title>
-    </programme>
-    <programme start="20250305205800 +0000" stop="20250305210000 +0000" channel="BBC R Cymru 2">
-        <title>This is BBC R Cymru2</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="BBC R Cymru 2">
         <title>Caryl</title>
