@@ -36084,11 +36084,8 @@
     <programme start="20250305011000 +0000" stop="20250305021500 +0000" channel="BBC One ScotHD">
         <title>The Traitors US</title>
     </programme>
-    <programme start="20250305021500 +0000" stop="20250305022000 +0000" channel="BBC One ScotHD">
+    <programme start="20250305021500 +0000" stop="20250305064000 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
-    </programme>
-    <programme start="20250305022000 +0000" stop="20250305064000 +0000" channel="BBC One ScotHD">
-        <title>BBC News</title>
     </programme>
     <programme start="20250305064000 +0000" stop="20250305093000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
