@@ -26113,7 +26113,7 @@
         <title>Bollywood Movie</title>
     </programme>
     <programme start="20250305150000 +0000" stop="20250305163000 +0000" channel="MATV National">
-        <title>Old Is Gold</title>
+        <title>Bollywood Movie</title>
     </programme>
     <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="MATV National">
         <title>Bhajan Mala</title>
@@ -38181,11 +38181,11 @@
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="BBC R Cymru">
         <title>Y Talwrn</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305203000 +0000" channel="BBC R Cymru">
+    <programme start="20250305190000 +0000" stop="20250305205800 +0000" channel="BBC R Cymru">
         <title>Mirain Iwerydd</title>
     </programme>
-    <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="BBC R Cymru">
-        <title>Rhestr Chwarae Mirain</title>
+    <programme start="20250305205800 +0000" stop="20250305210000 +0000" channel="BBC R Cymru">
+        <title>This is BBC R Cymru</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="BBC R Cymru">
         <title>Caryl</title>
@@ -38574,11 +38574,11 @@
     <programme start="20250305170000 +0000" stop="20250305190000 +0000" channel="BBC R Cymru 2">
         <title>Traciau Radio Cymru 2</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305203000 +0000" channel="BBC R Cymru 2">
+    <programme start="20250305190000 +0000" stop="20250305205800 +0000" channel="BBC R Cymru 2">
         <title>Mirain Iwerydd</title>
     </programme>
-    <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="BBC R Cymru 2">
-        <title>Rhestr Chwarae Mirain</title>
+    <programme start="20250305205800 +0000" stop="20250305210000 +0000" channel="BBC R Cymru 2">
+        <title>This is BBC R Cymru2</title>
     </programme>
     <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="BBC R Cymru 2">
         <title>Caryl</title>
