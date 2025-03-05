@@ -7404,10 +7404,7 @@
     <programme start="20250305045000 +0000" stop="20250305054000 +0000" channel="Channel 5+1">
         <title>Million Pound Motorhomes</title>
     </programme>
-    <programme start="20250305054000 +0000" stop="20250305060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250305060000 +0000" stop="20250305060500 +0000" channel="Channel 5+1">
+    <programme start="20250305054000 +0000" stop="20250305060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250305060500 +0000" stop="20250305063000 +0000" channel="Channel 5+1">
@@ -28261,7 +28258,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -29194,7 +29191,7 @@
         <title>Media Watch</title>
     </programme>
     <programme start="20250305192000 +0000" stop="20250305202000 +0000" channel="Akaal Channel">
-        <title>Live: Water Borewell (Sikligar)</title>
+        <title>Live: Save the Life 17 Years Old</title>
     </programme>
     <programme start="20250305202000 +0000" stop="20250305210000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>
