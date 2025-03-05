@@ -29704,7 +29704,7 @@
         <title>Azan-E-Asr</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305175100 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+        <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250305175100 +0000" stop="20250305180100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
@@ -29722,13 +29722,13 @@
         <title>Ramadan tips</title>
     </programme>
     <programme start="20250305182900 +0000" stop="20250305191500 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+        <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250305191500 +0000" stop="20250305192000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250305192000 +0000" stop="20250305202000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+        <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250304192000 +0000" stop="20250305001400 +0000" channel="ATN">
         <title>Charity Appeal</title>
