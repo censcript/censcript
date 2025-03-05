@@ -708,59 +708,131 @@
     <programme start="20250306160000 +0000" stop="20250307160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 9th March, Sunday 8.20pm. 2024 Singapore Premier League: Hougang United vs Lion City Sailors</title>
     </programme>
-    <programme start="20250305160000 +0000" stop="20250305210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250305160000 +0000" stop="20250305174500 +0000" channel="now-80s.mewatch">
+        <title>Big Tunes - Bad Hair! Top 20</title>
     </programme>
-    <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250305174500 +0000" stop="20250305180000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop!</title>
     </programme>
-    <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250305180000 +0000" stop="20250305200000 +0000" channel="now-80s.mewatch">
+        <title>Now That&#039;s What I Call A Musical!</title>
     </programme>
-    <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250305200000 +0000" stop="20250305203500 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop!</title>
     </programme>
-    <programme start="20250306000000 +0000" stop="20250306040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250305203500 +0000" stop="20250305210000 +0000" channel="now-80s.mewatch">
+        <title>Bonnie Tyler&#039;s Greatest Hits!</title>
     </programme>
-    <programme start="20250306040000 +0000" stop="20250306050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250305210000 +0000" stop="20250305212500 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop!</title>
     </programme>
-    <programme start="20250306050000 +0000" stop="20250306100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250305212500 +0000" stop="20250305230000 +0000" channel="now-80s.mewatch">
+        <title>Big Tunes - Bad Hair! Top 20</title>
     </programme>
-    <programme start="20250306100000 +0000" stop="20250306110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250305230000 +0000" stop="20250306010000 +0000" channel="now-80s.mewatch">
+        <title>Dig That Perm! Top 25</title>
     </programme>
-    <programme start="20250306110000 +0000" stop="20250306160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250306010000 +0000" stop="20250306024500 +0000" channel="now-80s.mewatch">
+        <title>Guilty Pleasures: Boys &amp; Big Hair!</title>
+    </programme>
+    <programme start="20250306024500 +0000" stop="20250306030000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250306030000 +0000" stop="20250306050000 +0000" channel="now-80s.mewatch">
+        <title>80s Boybands With Nathan Moore</title>
+    </programme>
+    <programme start="20250306050000 +0000" stop="20250306070000 +0000" channel="now-80s.mewatch">
+        <title>The Complete Pet Shop Boys! 85-95</title>
+    </programme>
+    <programme start="20250306070000 +0000" stop="20250306090500 +0000" channel="now-80s.mewatch">
+        <title>Jason Donovan&#039;s 80s Pop Pin-Ups!</title>
+    </programme>
+    <programme start="20250306090500 +0000" stop="20250306100000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed!</title>
+    </programme>
+    <programme start="20250306100000 +0000" stop="20250306103000 +0000" channel="now-80s.mewatch">
+        <title>The Best 1984 Party - Ever!</title>
+    </programme>
+    <programme start="20250306103000 +0000" stop="20250306113000 +0000" channel="now-80s.mewatch">
+        <title>Now That&#039;s What I Call A Musical!</title>
+    </programme>
+    <programme start="20250306113000 +0000" stop="20250306120000 +0000" channel="now-80s.mewatch">
+        <title>The Best 1984 Party - Ever!</title>
+    </programme>
+    <programme start="20250306120000 +0000" stop="20250306130000 +0000" channel="now-80s.mewatch">
+        <title>The 1984 Video Hall Of Fame</title>
+    </programme>
+    <programme start="20250306130000 +0000" stop="20250306140000 +0000" channel="now-80s.mewatch">
+        <title>The 1984 Power Hour!</title>
+    </programme>
+    <programme start="20250306140000 +0000" stop="20250306150000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s US No.1s Of 1984</title>
+    </programme>
+    <programme start="20250306150000 +0000" stop="20250306180000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1984</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306210000 +0000" channel="now-80s.mewatch">
         <title>80s Dance Party Night!</title>
     </programme>
-    <programme start="20250305100000 +0000" stop="20250305200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250305160000 +0000" stop="20250305162000 +0000" channel="now-70s.mewatch">
+        <title>Eat To The Beat! Top 30</title>
     </programme>
-    <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250305162000 +0000" stop="20250305170000 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed!</title>
     </programme>
-    <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250305170000 +0000" stop="20250305182500 +0000" channel="now-70s.mewatch">
+        <title>Cuddle On The Couch - The Love 40</title>
     </programme>
-    <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250305182500 +0000" stop="20250305192500 +0000" channel="now-70s.mewatch">
+        <title>70s Love Songs</title>
     </programme>
-    <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250305192500 +0000" stop="20250305212500 +0000" channel="now-70s.mewatch">
+        <title>Eat To The Beat! Top 30</title>
     </programme>
-    <programme start="20250306000000 +0000" stop="20250306090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250305212500 +0000" stop="20250305214500 +0000" channel="now-70s.mewatch">
+        <title>Eat To The Beat! Top 30</title>
     </programme>
-    <programme start="20250306090000 +0000" stop="20250306100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250305214500 +0000" stop="20250305220000 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed!</title>
     </programme>
-    <programme start="20250306100000 +0000" stop="20250306200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250305220000 +0000" stop="20250306002500 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Disco Explosion!</title>
+    </programme>
+    <programme start="20250306002500 +0000" stop="20250306010000 +0000" channel="now-70s.mewatch">
+        <title>New Wave Anthems!</title>
+    </programme>
+    <programme start="20250306010000 +0000" stop="20250306014500 +0000" channel="now-70s.mewatch">
+        <title>Blondie: Picture These Vids!</title>
+    </programme>
+    <programme start="20250306014500 +0000" stop="20250306020000 +0000" channel="now-70s.mewatch">
+        <title>New Wave Anthems!</title>
+    </programme>
+    <programme start="20250306020000 +0000" stop="20250306040000 +0000" channel="now-70s.mewatch">
+        <title>The Sound Of The Suburbs! 1977-80</title>
+    </programme>
+    <programme start="20250306040000 +0000" stop="20250306070000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40</title>
+    </programme>
+    <programme start="20250306070000 +0000" stop="20250306091000 +0000" channel="now-70s.mewatch">
+        <title>Blackburn&#039;s 25 Blue Sky Belters!</title>
+    </programme>
+    <programme start="20250306091000 +0000" stop="20250306100000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250306100000 +0000" stop="20250306103000 +0000" channel="now-70s.mewatch">
+        <title>Seven Inch Heroes! 1970-1979</title>
+    </programme>
+    <programme start="20250306103000 +0000" stop="20250306113000 +0000" channel="now-70s.mewatch">
+        <title>Cuddle On The Couch - The Love 40</title>
+    </programme>
+    <programme start="20250306113000 +0000" stop="20250306132500 +0000" channel="now-70s.mewatch">
+        <title>Seven Inch Heroes! 1970-1979</title>
+    </programme>
+    <programme start="20250306132500 +0000" stop="20250306140000 +0000" channel="now-70s.mewatch">
+        <title>We Will Rock You!</title>
+    </programme>
+    <programme start="20250306140000 +0000" stop="20250306161500 +0000" channel="now-70s.mewatch">
+        <title>School Disco Of Rock! Top 30</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

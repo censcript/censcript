@@ -14421,26 +14421,26 @@
     <programme start="20250306084500 +0000" stop="20250306094500 +0000" channel="TNT Sports 4">
         <title>V8 Supercars Highlights</title>
     </programme>
-    <programme start="20250306094500 +0000" stop="20250306111500 +0000" channel="TNT Sports 4">
-        <title>Live: Nordic Combined Skiing WC</title>
-    </programme>
-    <programme start="20250306111500 +0000" stop="20250306131500 +0000" channel="TNT Sports 4">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250306131500 +0000" stop="20250306134500 +0000" channel="TNT Sports 4">
+    <programme start="20250306094500 +0000" stop="20250306101500 +0000" channel="TNT Sports 4">
         <title>Discovery Golf</title>
     </programme>
-    <programme start="20250306134500 +0000" stop="20250306150000 +0000" channel="TNT Sports 4">
-        <title>Live: Nordic Combined Skiing WC</title>
-    </programme>
-    <programme start="20250306150000 +0000" stop="20250306151500 +0000" channel="TNT Sports 4">
-        <title>Superbike Rewind</title>
-    </programme>
-    <programme start="20250306151500 +0000" stop="20250306153000 +0000" channel="TNT Sports 4">
+    <programme start="20250306101500 +0000" stop="20250306103000 +0000" channel="TNT Sports 4">
         <title>MotoGP Rewind: Thailand 2025</title>
     </programme>
-    <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="TNT Sports 4">
-        <title>Discovery Golf</title>
+    <programme start="20250306103000 +0000" stop="20250306104500 +0000" channel="TNT Sports 4">
+        <title>Superbike Rewind</title>
+    </programme>
+    <programme start="20250306104500 +0000" stop="20250306111500 +0000" channel="TNT Sports 4">
+        <title>TNT Sports Reload</title>
+    </programme>
+    <programme start="20250306111500 +0000" stop="20250306124500 +0000" channel="TNT Sports 4">
+        <title>Live: Nordic Combined Skiing WC</title>
+    </programme>
+    <programme start="20250306124500 +0000" stop="20250306144500 +0000" channel="TNT Sports 4">
+        <title>Live: Cross Country Skiing WC</title>
+    </programme>
+    <programme start="20250306144500 +0000" stop="20250306160000 +0000" channel="TNT Sports 4">
+        <title>Live: Nordic Combined Skiing WC</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="TNT Sports 4">
         <title>The Football's On</title>
@@ -34152,26 +34152,26 @@
     <programme start="20250306084500 +0000" stop="20250306094500 +0000" channel="TNTSports4 HD">
         <title>V8 Supercars Highlights</title>
     </programme>
-    <programme start="20250306094500 +0000" stop="20250306111500 +0000" channel="TNTSports4 HD">
-        <title>Live: Nordic Combined Skiing WC</title>
-    </programme>
-    <programme start="20250306111500 +0000" stop="20250306131500 +0000" channel="TNTSports4 HD">
-        <title>Live: Cross Country Skiing WC</title>
-    </programme>
-    <programme start="20250306131500 +0000" stop="20250306134500 +0000" channel="TNTSports4 HD">
+    <programme start="20250306094500 +0000" stop="20250306101500 +0000" channel="TNTSports4 HD">
         <title>Discovery Golf</title>
     </programme>
-    <programme start="20250306134500 +0000" stop="20250306150000 +0000" channel="TNTSports4 HD">
-        <title>Live: Nordic Combined Skiing WC</title>
-    </programme>
-    <programme start="20250306150000 +0000" stop="20250306151500 +0000" channel="TNTSports4 HD">
-        <title>Superbike Rewind</title>
-    </programme>
-    <programme start="20250306151500 +0000" stop="20250306153000 +0000" channel="TNTSports4 HD">
+    <programme start="20250306101500 +0000" stop="20250306103000 +0000" channel="TNTSports4 HD">
         <title>MotoGP Rewind: Thailand 2025</title>
     </programme>
-    <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="TNTSports4 HD">
-        <title>Discovery Golf</title>
+    <programme start="20250306103000 +0000" stop="20250306104500 +0000" channel="TNTSports4 HD">
+        <title>Superbike Rewind</title>
+    </programme>
+    <programme start="20250306104500 +0000" stop="20250306111500 +0000" channel="TNTSports4 HD">
+        <title>TNT Sports Reload</title>
+    </programme>
+    <programme start="20250306111500 +0000" stop="20250306124500 +0000" channel="TNTSports4 HD">
+        <title>Live: Nordic Combined Skiing WC</title>
+    </programme>
+    <programme start="20250306124500 +0000" stop="20250306144500 +0000" channel="TNTSports4 HD">
+        <title>Live: Cross Country Skiing WC</title>
+    </programme>
+    <programme start="20250306144500 +0000" stop="20250306160000 +0000" channel="TNTSports4 HD">
+        <title>Live: Nordic Combined Skiing WC</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="TNTSports4 HD">
         <title>The Football's On</title>
