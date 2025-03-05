@@ -14994,25 +14994,19 @@
     <programme start="20250306230000 +0000" stop="20250307000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250305223500 +0000" stop="20250305232000 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
-    </programme>
-    <programme start="20250305232000 +0000" stop="20250306010500 +0000" channel="BBC Parl HD">
+    <programme start="20250305225500 +0000" stop="20250306004500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Code of Conduct Debate</title>
     </programme>
-    <programme start="20250306010500 +0000" stop="20250306011500 +0000" channel="BBC Parl HD">
+    <programme start="20250306004500 +0000" stop="20250306005500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Situation in Gaza Statement</title>
     </programme>
-    <programme start="20250306011500 +0000" stop="20250306021500 +0000" channel="BBC Parl HD">
+    <programme start="20250306005500 +0000" stop="20250306025500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Product Regulation Bill, Part 1</title>
     </programme>
-    <programme start="20250306021500 +0000" stop="20250306031500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Product Regulation Bill, Part 2</title>
-    </programme>
-    <programme start="20250306031500 +0000" stop="20250306041500 +0000" channel="BBC Parl HD">
+    <programme start="20250306025500 +0000" stop="20250306045000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Armed Forces...</title>
     </programme>
-    <programme start="20250306041500 +0000" stop="20250306060000 +0000" channel="BBC Parl HD">
+    <programme start="20250306045000 +0000" stop="20250306060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Armed Forces...</title>
     </programme>
     <programme start="20250306060000 +0000" stop="20250306062500 +0000" channel="BBC Parl HD">
