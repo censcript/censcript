@@ -14959,7 +14959,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250305223500 +0000" stop="20250305232000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250305232000 +0000" stop="20250306002000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -25467,67 +25467,67 @@
     <programme start="20250305061200 +0000" stop="20250305070000 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250305070000 +0000" stop="20250305073000 +0000" channel="SONY TV HD">
+    <programme start="20250305070000 +0000" stop="20250305072800 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305073000 +0000" stop="20250305080000 +0000" channel="SONY TV HD">
+    <programme start="20250305072800 +0000" stop="20250305075700 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305080000 +0000" stop="20250305083000 +0000" channel="SONY TV HD">
+    <programme start="20250305075700 +0000" stop="20250305082600 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="SONY TV HD">
+    <programme start="20250305082600 +0000" stop="20250305085600 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305090000 +0000" stop="20250305093000 +0000" channel="SONY TV HD">
+    <programme start="20250305085600 +0000" stop="20250305092700 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250305093000 +0000" stop="20250305100000 +0000" channel="SONY TV HD">
+    <programme start="20250305092700 +0000" stop="20250305095800 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="SONY TV HD">
+    <programme start="20250305095800 +0000" stop="20250305110400 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305110000 +0000" stop="20250305113000 +0000" channel="SONY TV HD">
+    <programme start="20250305110400 +0000" stop="20250305113400 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250305113000 +0000" stop="20250305130000 +0000" channel="SONY TV HD">
+    <programme start="20250305113400 +0000" stop="20250305130100 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="SONY TV HD">
+    <programme start="20250305130100 +0000" stop="20250305135800 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="SONY TV HD">
+    <programme start="20250305135800 +0000" stop="20250305145500 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="SONY TV HD">
+    <programme start="20250305145500 +0000" stop="20250305155500 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="SONY TV HD">
+    <programme start="20250305155500 +0000" stop="20250305162500 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250305163000 +0000" stop="20250305173000 +0000" channel="SONY TV HD">
+    <programme start="20250305162500 +0000" stop="20250305173200 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="SONY TV HD">
+    <programme start="20250305173200 +0000" stop="20250305175900 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="SONY TV HD">
+    <programme start="20250305175900 +0000" stop="20250305183000 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250305183000 +0000" stop="20250305190000 +0000" channel="SONY TV HD">
+    <programme start="20250305183000 +0000" stop="20250305185900 +0000" channel="SONY TV HD">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305193000 +0000" channel="SONY TV HD">
+    <programme start="20250305185900 +0000" stop="20250305192900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305193000 +0000" stop="20250305210000 +0000" channel="SONY TV HD">
+    <programme start="20250305192900 +0000" stop="20250305205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="SONY TV HD">
+    <programme start="20250305205900 +0000" stop="20250305220500 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305220000 +0000" stop="20250305233000 +0000" channel="SONY TV HD">
+    <programme start="20250305220500 +0000" stop="20250305233000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250305233000 +0000" stop="20250306003000 +0000" channel="SONY TV HD">
@@ -27582,8 +27582,11 @@
     <programme start="20250305121700 +0000" stop="20250305122200 +0000" channel="Islam Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250305122200 +0000" stop="20250305130000 +0000" channel="Islam Channel">
+    <programme start="20250305122200 +0000" stop="20250305125000 +0000" channel="Islam Channel">
         <title>IslamiQA Live</title>
+    </programme>
+    <programme start="20250305125000 +0000" stop="20250305130000 +0000" channel="Islam Channel">
+        <title>Conversations in Quran</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305131000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Asr</title>
@@ -27597,11 +27600,8 @@
     <programme start="20250305133000 +0000" stop="20250305140000 +0000" channel="Islam Channel">
         <title>Salam Ramadan</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305142000 +0000" channel="Islam Channel">
+    <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="Islam Channel">
         <title>Ramadan in Islamic World</title>
-    </programme>
-    <programme start="20250305142000 +0000" stop="20250305143000 +0000" channel="Islam Channel">
-        <title>Conversations in Quran</title>
     </programme>
     <programme start="20250305143000 +0000" stop="20250305150000 +0000" channel="Islam Channel">
         <title>Great Judges</title>
@@ -28749,10 +28749,10 @@
     <programme start="20250305175100 +0000" stop="20250305175700 +0000" channel="ARY Digital">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250305175700 +0000" stop="20250305183000 +0000" channel="ARY Digital">
+    <programme start="20250305175700 +0000" stop="20250305181500 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
     </programme>
-    <programme start="20250305183000 +0000" stop="20250305191500 +0000" channel="ARY Digital">
+    <programme start="20250305181500 +0000" stop="20250305191500 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
     </programme>
     <programme start="20250305191500 +0000" stop="20250305192100 +0000" channel="ARY Digital">
@@ -28827,8 +28827,17 @@
     <programme start="20250305193000 +0000" stop="20250305200000 +0000" channel="QTV Religious">
         <title>Ilm o Amal</title>
     </programme>
-    <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="QTV Religious">
-        <title>Ehsaas Telethon</title>
+    <programme start="20250305200000 +0000" stop="20250305203000 +0000" channel="QTV Religious">
+        <title>Khulasa e Quran</title>
+    </programme>
+    <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="QTV Religious">
+        <title>Hamd O Naat</title>
+    </programme>
+    <programme start="20250305210000 +0000" stop="20250305233000 +0000" channel="QTV Religious">
+        <title>Daura E Tarjuma E Qur'an</title>
+    </programme>
+    <programme start="20250305233000 +0000" stop="20250306003000 +0000" channel="QTV Religious">
+        <title>Mehfil e Sama</title>
     </programme>
     <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="PTC PUNJABI">
         <title>P_T_C Box Office</title>
@@ -28984,7 +28993,7 @@
         <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250305153000 +0000" stop="20250305160000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Teleshopping: Caribbean Cruise</title>
     </programme>
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
@@ -34515,67 +34524,67 @@
     <programme start="20250305061200 +0000" stop="20250305070000 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250305070000 +0000" stop="20250305073000 +0000" channel="SONY TV">
+    <programme start="20250305070000 +0000" stop="20250305072800 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305073000 +0000" stop="20250305080000 +0000" channel="SONY TV">
+    <programme start="20250305072800 +0000" stop="20250305075700 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305080000 +0000" stop="20250305083000 +0000" channel="SONY TV">
+    <programme start="20250305075700 +0000" stop="20250305082600 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="SONY TV">
+    <programme start="20250305082600 +0000" stop="20250305085600 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250305090000 +0000" stop="20250305093000 +0000" channel="SONY TV">
+    <programme start="20250305085600 +0000" stop="20250305092700 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250305093000 +0000" stop="20250305100000 +0000" channel="SONY TV">
+    <programme start="20250305092700 +0000" stop="20250305095800 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="SONY TV">
+    <programme start="20250305095800 +0000" stop="20250305110400 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305110000 +0000" stop="20250305113000 +0000" channel="SONY TV">
+    <programme start="20250305110400 +0000" stop="20250305113400 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250305113000 +0000" stop="20250305130000 +0000" channel="SONY TV">
+    <programme start="20250305113400 +0000" stop="20250305130100 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="SONY TV">
+    <programme start="20250305130100 +0000" stop="20250305135800 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="SONY TV">
+    <programme start="20250305135800 +0000" stop="20250305145500 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="SONY TV">
+    <programme start="20250305145500 +0000" stop="20250305155500 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="SONY TV">
+    <programme start="20250305155500 +0000" stop="20250305162500 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250305163000 +0000" stop="20250305173000 +0000" channel="SONY TV">
+    <programme start="20250305162500 +0000" stop="20250305173200 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="SONY TV">
+    <programme start="20250305173200 +0000" stop="20250305175900 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="SONY TV">
+    <programme start="20250305175900 +0000" stop="20250305183000 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250305183000 +0000" stop="20250305190000 +0000" channel="SONY TV">
+    <programme start="20250305183000 +0000" stop="20250305185900 +0000" channel="SONY TV">
         <title>Pashminna - Dhaage Mohabbat Ke</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305193000 +0000" channel="SONY TV">
+    <programme start="20250305185900 +0000" stop="20250305192900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250305193000 +0000" stop="20250305210000 +0000" channel="SONY TV">
+    <programme start="20250305192900 +0000" stop="20250305205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="SONY TV">
+    <programme start="20250305205900 +0000" stop="20250305220500 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250305220000 +0000" stop="20250305233000 +0000" channel="SONY TV">
+    <programme start="20250305220500 +0000" stop="20250305233000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250305233000 +0000" stop="20250306003000 +0000" channel="SONY TV">
