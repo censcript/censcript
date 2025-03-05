@@ -14962,7 +14962,7 @@
         <title>House of Lords Questions</title>
     </programme>
     <programme start="20250305232000 +0000" stop="20250306002000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+        <title>House of Lords - Code of Conduct Debate</title>
     </programme>
     <programme start="20250304223000 +0000" stop="20250304233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -26133,11 +26133,11 @@
     <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="MATV National">
         <title>Matv Special</title>
     </programme>
-    <programme start="20250305190000 +0000" stop="20250305193000 +0000" channel="MATV National">
-        <title>Khush Khabri</title>
-    </programme>
-    <programme start="20250305193000 +0000" stop="20250305203000 +0000" channel="MATV National">
+    <programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="MATV National">
         <title>Health is Wealth</title>
+    </programme>
+    <programme start="20250305200000 +0000" stop="20250305203000 +0000" channel="MATV National">
+        <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250305203000 +0000" stop="20250305220000 +0000" channel="MATV National">
         <title>Golden Oldies</title>
