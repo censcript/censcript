@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250305100000 +0000" stop="20250305114500 +0000" channel="NET..firstmedia">
+    <programme start="20250305100000 +0000" stop="20250305114500 +0000" channel="MDTV.firstmedia">
         <title>MD Entertainment Series: Samuel</title>
     </programme>
-    <programme start="20250305114500 +0000" stop="20250305133000 +0000" channel="NET..firstmedia">
-        <title>MD Entertainment Series: Cinta Cinderella</title>
+    <programme start="20250305133000 +0000" stop="20250305151500 +0000" channel="MDTV.firstmedia">
+        <title>MD Entertainment Series: Terlanjur Indah</title>
     </programme>
-    <programme start="20250305151500 +0000" stop="20250305171500 +0000" channel="NET..firstmedia">
+    <programme start="20250305151500 +0000" stop="20250305171500 +0000" channel="MDTV.firstmedia">
         <title>MDTV Sinema: Thank You Cinta</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="NET..firstmedia">
+    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="MDTV.firstmedia">
         <title>Adit Sopo Jarwo</title>
     </programme>
-    <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="NET..firstmedia">
-        <title>Cinta Fitri S2  </title>
+    <programme start="20250305114500 +0000" stop="20250305133000 +0000" channel="MDTV.firstmedia">
+        <title>MD Entertainment Series: Cinta Cinderella</title>
     </programme>
-    <programme start="20250305133000 +0000" stop="20250305151500 +0000" channel="NET..firstmedia">
-        <title>MD Entertainment Series: Terlanjur Indah</title>
+    <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="MDTV.firstmedia">
+        <title>Cinta Fitri S2  </title>
     </programme>
     <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="TV One.firstmedia">
         <title>Kabar Arena Malam (L)</title>
@@ -45,8 +45,8 @@
     <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="TV One.firstmedia">
         <title>Indonesia Mengingat</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305093000 +0000" channel="MOJI.firstmedia">
-        <title>Ramadhan Update</title>
+    <programme start="20250305140000 +0000" stop="20250305160000 +0000" channel="MOJI.firstmedia">
+        <title>Ungkap</title>
     </programme>
     <programme start="20250305093000 +0000" stop="20250305121500 +0000" channel="MOJI.firstmedia">
         <title>Tercyduk</title>
@@ -54,14 +54,11 @@
     <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="MOJI.firstmedia">
         <title>Cinta Terlarang</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305160000 +0000" channel="MOJI.firstmedia">
-        <title>Ungkap</title>
+    <programme start="20250305083000 +0000" stop="20250305093000 +0000" channel="MOJI.firstmedia">
+        <title>Ramadhan Update</title>
     </programme>
     <programme start="20250305121500 +0000" stop="20250305140000 +0000" channel="MOJI.firstmedia">
         <title>MOJI Drama (Magic Tumbler)</title>
-    </programme>
-    <programme start="20250305120000 +0000" stop="20250305133000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Prime</title>
     </programme>
     <programme start="20250305103000 +0000" stop="20250305110000 +0000" channel="MNC News.firstmedia">
         <title>Ramadan Story</title>
@@ -69,17 +66,20 @@
     <programme start="20250305090000 +0000" stop="20250305103000 +0000" channel="MNC News.firstmedia">
         <title>SINDO Sore</title>
     </programme>
-    <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="MNC News.firstmedia">
-        <title>OMG</title>
+    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="MNC News.firstmedia">
+        <title>SINDO Files</title>
     </programme>
     <programme start="20250305133000 +0000" stop="20250305153000 +0000" channel="MNC News.firstmedia">
         <title>Rakyat Bersuara</title>
     </programme>
-    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="MNC News.firstmedia">
-        <title>SINDO Files</title>
-    </programme>
     <programme start="20250305153000 +0000" stop="20250305163000 +0000" channel="MNC News.firstmedia">
         <title>SINDO Malam</title>
+    </programme>
+    <programme start="20250305120000 +0000" stop="20250305133000 +0000" channel="MNC News.firstmedia">
+        <title>SINDO Prime</title>
+    </programme>
+    <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="MNC News.firstmedia">
+        <title>OMG</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Al Quran Al Kareem.firstmedia">
         <title>Live from Mecca</title>
@@ -111,18 +111,6 @@
     <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="Sunnah TV.firstmedia">
         <title>Live from Madinah</title>
     </programme>
-    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Sunnah TV.firstmedia">
-        <title>Live from Madinah</title>
-    </programme>
-    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="Sunnah TV.firstmedia">
-        <title>Live from Madinah</title>
-    </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Sunnah TV.firstmedia">
-        <title>Live from Madinah</title>
-    </programme>
-    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Sunnah TV.firstmedia">
-        <title>Live from Madinah</title>
-    </programme>
     <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Sunnah TV.firstmedia">
         <title>Live from Madinah</title>
     </programme>
@@ -132,7 +120,19 @@
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Sunnah TV.firstmedia">
         <title>Live from Madinah</title>
     </programme>
+    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Sunnah TV.firstmedia">
+        <title>Live from Madinah</title>
+    </programme>
+    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="Sunnah TV.firstmedia">
+        <title>Live from Madinah</title>
+    </programme>
+    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Sunnah TV.firstmedia">
+        <title>Live from Madinah</title>
+    </programme>
     <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Sunnah TV.firstmedia">
+        <title>Live from Madinah</title>
+    </programme>
+    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Sunnah TV.firstmedia">
         <title>Live from Madinah</title>
     </programme>
     <programme start="20250305165500 +0000" stop="20250305174500 +0000" channel="AXN.firstmedia">
@@ -243,20 +243,20 @@
     <programme start="20250305104500 +0000" stop="20250305120000 +0000" channel="GTV.firstmedia">
         <title>Nobita Dan Pulau Keajaiban</title>
     </programme>
-    <programme start="20250305125000 +0000" stop="20250305144500 +0000" channel="Rock Action.firstmedia">
-        <title>The Twilight Saga: Breaking Dawn Part 1</title>
-    </programme>
-    <programme start="20250305144500 +0000" stop="20250305163500 +0000" channel="Rock Action.firstmedia">
-        <title>Star Trek: First Contact</title>
+    <programme start="20250305163500 +0000" stop="20250305181000 +0000" channel="Rock Action.firstmedia">
+        <title>Zathura: A Space Adventure</title>
     </programme>
     <programme start="20250305111500 +0000" stop="20250305125000 +0000" channel="Rock Action.firstmedia">
         <title>Anacondas: The Hunt For The Blood Orchid</title>
     </programme>
+    <programme start="20250305144500 +0000" stop="20250305163500 +0000" channel="Rock Action.firstmedia">
+        <title>Star Trek: First Contact</title>
+    </programme>
     <programme start="20250305092500 +0000" stop="20250305111500 +0000" channel="Rock Action.firstmedia">
         <title>The Water Horse</title>
     </programme>
-    <programme start="20250305163500 +0000" stop="20250305181000 +0000" channel="Rock Action.firstmedia">
-        <title>Zathura: A Space Adventure</title>
+    <programme start="20250305125000 +0000" stop="20250305144500 +0000" channel="Rock Action.firstmedia">
+        <title>The Twilight Saga: Breaking Dawn Part 1</title>
     </programme>
     <programme start="20250305145000 +0000" stop="20250305154500 +0000" channel="The Learning Channel - TLC.firstmedia">
         <title>Winner Cake All (S1)</title>
@@ -498,14 +498,11 @@
     <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Cartoon Network.firstmedia">
         <title>Adventure Time</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="SPOTV.firstmedia">
-        <title>A-League Men 2024/25 Mini Match</title>
-    </programme>
     <programme start="20250305143000 +0000" stop="20250305163000 +0000" channel="SPOTV.firstmedia">
         <title>ISUZU UTE A-League Men 2024/25 Rd21</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305110000 +0000" channel="SPOTV.firstmedia">
-        <title>Major League Baseball 2025: Spring Training</title>
+    <programme start="20250305110000 +0000" stop="20250305130000 +0000" channel="SPOTV.firstmedia">
+        <title>ISUZU UTE A-League Men 2024/25 Rd21</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="SPOTV.firstmedia">
         <title>Roshn Saudi League Recap 2024/25</title>
@@ -513,29 +510,32 @@
     <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="SPOTV.firstmedia">
         <title>Ras Al Khaimah Half Marathon 2025</title>
     </programme>
-    <programme start="20250305110000 +0000" stop="20250305130000 +0000" channel="SPOTV.firstmedia">
-        <title>ISUZU UTE A-League Men 2024/25 Rd21</title>
+    <programme start="20250305083000 +0000" stop="20250305110000 +0000" channel="SPOTV.firstmedia">
+        <title>Major League Baseball 2025: Spring Training</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="SPOTV 2.firstmedia">
+    <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="SPOTV.firstmedia">
+        <title>A-League Men 2024/25 Mini Match</title>
+    </programme>
+    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="SPOTV 2.firstmedia">
         <title>A-League Men 2024/25 Mini Match</title>
     </programme>
     <programme start="20250305143000 +0000" stop="20250305170000 +0000" channel="SPOTV 2.firstmedia">
         <title>MLB 2025: Spring Trainig Wk2</title>
     </programme>
+    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="SPOTV 2.firstmedia">
+        <title>2025 Supercars Sydney</title>
+    </programme>
     <programme start="20250305120000 +0000" stop="20250305140000 +0000" channel="SPOTV 2.firstmedia">
         <title>2025 LOVB Inaugural Season Week 8</title>
-    </programme>
-    <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="SPOTV 2.firstmedia">
-        <title>A-League Men 2024/25 Mini Match</title>
-    </programme>
-    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="SPOTV 2.firstmedia">
-        <title>2025 Asian Tour: NEW ZEALAND OPEN presented by Sky Sport</title>
     </programme>
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="SPOTV 2.firstmedia">
         <title>2024/25 Asian Le Mans Series Round 4</title>
     </programme>
-    <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="SPOTV 2.firstmedia">
-        <title>2025 Supercars Sydney</title>
+    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="SPOTV 2.firstmedia">
+        <title>2025 Asian Tour: NEW ZEALAND OPEN presented by Sky Sport</title>
+    </programme>
+    <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="SPOTV 2.firstmedia">
+        <title>A-League Men 2024/25 Mini Match</title>
     </programme>
     <programme start="20250305083500 +0000" stop="20250305102500 +0000" channel="Celestial Movies.firstmedia">
         <title>Wolf Pack</title>
@@ -552,29 +552,29 @@
     <programme start="20250305102500 +0000" stop="20250305122000 +0000" channel="Celestial Movies.firstmedia">
         <title>Legally Declared Dead</title>
     </programme>
-    <programme start="20250305080500 +0000" stop="20250305085000 +0000" channel="ONE.firstmedia">
-        <title>Desperate Mrs. Seonju</title>
-    </programme>
-    <programme start="20250305114000 +0000" stop="20250305130000 +0000" channel="ONE.firstmedia">
-        <title>Jang Bo Ri Is Here</title>
-    </programme>
     <programme start="20250305144500 +0000" stop="20250305164500 +0000" channel="ONE.firstmedia">
         <title>Survival King: Tribal War</title>
     </programme>
-    <programme start="20250305134000 +0000" stop="20250305144500 +0000" channel="ONE.firstmedia">
-        <title>Celebrity Bromance</title>
-    </programme>
-    <programme start="20250305164500 +0000" stop="20250305180000 +0000" channel="ONE.firstmedia">
+    <programme start="20250305114000 +0000" stop="20250305130000 +0000" channel="ONE.firstmedia">
         <title>Jang Bo Ri Is Here</title>
     </programme>
     <programme start="20250305085000 +0000" stop="20250305093500 +0000" channel="ONE.firstmedia">
         <title>Meant To Be</title>
     </programme>
-    <programme start="20250305093500 +0000" stop="20250305102000 +0000" channel="ONE.firstmedia">
-        <title>Meant To Be</title>
+    <programme start="20250305164500 +0000" stop="20250305180000 +0000" channel="ONE.firstmedia">
+        <title>Jang Bo Ri Is Here</title>
     </programme>
     <programme start="20250305102000 +0000" stop="20250305114000 +0000" channel="ONE.firstmedia">
         <title>Doctors</title>
+    </programme>
+    <programme start="20250305093500 +0000" stop="20250305102000 +0000" channel="ONE.firstmedia">
+        <title>Meant To Be</title>
+    </programme>
+    <programme start="20250305134000 +0000" stop="20250305144500 +0000" channel="ONE.firstmedia">
+        <title>Celebrity Bromance</title>
+    </programme>
+    <programme start="20250305080500 +0000" stop="20250305085000 +0000" channel="ONE.firstmedia">
+        <title>Desperate Mrs. Seonju</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305134000 +0000" channel="ONE.firstmedia">
         <title>Third Marriage</title>
@@ -612,40 +612,43 @@
     <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Zhejiang TV.firstmedia">
         <title>Zhejiang TV</title>
     </programme>
-    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
-    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
-    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
-    <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
     <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Hunan TV.firstmedia">
-        <title>Hunan TV</title>
-    </programme>
-    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
     <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
+    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
+    <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
+    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
+    <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
+    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Hunan TV.firstmedia">
+        <title>Hunan TV</title>
+    </programme>
     <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="Hunan TV.firstmedia">
         <title>Hunan TV</title>
     </programme>
-    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Jiangsu TV.firstmedia">
-        <title>Jiangsu TV</title>
-    </programme>
-    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Jiangsu TV.firstmedia">
+    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
     <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="Jiangsu TV.firstmedia">
+        <title>Jiangsu TV</title>
+    </programme>
+    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Jiangsu TV.firstmedia">
+        <title>Jiangsu TV</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Jiangsu TV.firstmedia">
@@ -657,13 +660,10 @@
     <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Jiangsu TV.firstmedia">
-        <title>Jiangsu TV</title>
-    </programme>
-    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Jiangsu TV.firstmedia">
-        <title>Jiangsu TV</title>
-    </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Jiangsu TV.firstmedia">
+        <title>Jiangsu TV</title>
+    </programme>
+    <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Jiangsu TV.firstmedia">
         <title>Jiangsu TV</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="ANHUI TV.firstmedia">
@@ -696,25 +696,25 @@
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Shenzen TV.firstmedia">
-        <title>ShenzenTV</title>
-    </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Shenzen TV.firstmedia">
-        <title>ShenzenTV</title>
-    </programme>
     <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Shenzen TV.firstmedia">
-        <title>ShenzenTV</title>
-    </programme>
-    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Shenzen TV.firstmedia">
+    <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
     <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
+    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="Shenzen TV.firstmedia">
+        <title>ShenzenTV</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="Shenzen TV.firstmedia">
+        <title>ShenzenTV</title>
+    </programme>
     <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="Shenzen TV.firstmedia">
+        <title>ShenzenTV</title>
+    </programme>
+    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="Shenzen TV.firstmedia">
         <title>ShenzenTV</title>
     </programme>
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="Shenzen TV.firstmedia">
@@ -1089,11 +1089,11 @@
     <programme start="20250305110000 +0000" stop="20250305123000 +0000" channel="HBO Signature HD.firstmedia">
         <title>Double Life</title>
     </programme>
-    <programme start="20250305081500 +0000" stop="20250305110000 +0000" channel="HBO Signature HD.firstmedia">
-        <title>Path To War</title>
-    </programme>
     <programme start="20250305164000 +0000" stop="20250305184500 +0000" channel="HBO Signature HD.firstmedia">
         <title>Good Will Hunting</title>
+    </programme>
+    <programme start="20250305081500 +0000" stop="20250305110000 +0000" channel="HBO Signature HD.firstmedia">
+        <title>Path To War</title>
     </programme>
     <programme start="20250305123000 +0000" stop="20250305140000 +0000" channel="HBO Signature HD.firstmedia">
         <title>Donyale Luna: Supermodel</title>
@@ -1173,20 +1173,23 @@
     <programme start="20250305080000 +0000" stop="20250305082500 +0000" channel="Warner TV HD.firstmedia">
         <title>The Carbonaro Effect S3</title>
     </programme>
-    <programme start="20250305083000 +0000" stop="20250305093000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Password US S2</title>
+    <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Mr Throwback S1</title>
+    </programme>
+    <programme start="20250305150000 +0000" stop="20250305153000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Entertainment Tonight</title>
     </programme>
     <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="HITS Now HD.firstmedia">
         <title>Ghosts S4</title>
     </programme>
-    <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Mr Throwback S1</title>
-    </programme>
-    <programme start="20250305113000 +0000" stop="20250305120000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Entertainment Tonight</title>
+    <programme start="20250305093000 +0000" stop="20250305113000 +0000" channel="HITS Now HD.firstmedia">
+        <title>American Idol 2024</title>
     </programme>
     <programme start="20250305133000 +0000" stop="20250305140000 +0000" channel="HITS Now HD.firstmedia">
         <title>The Goldbergs S1</title>
+    </programme>
+    <programme start="20250305113000 +0000" stop="20250305120000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Entertainment Tonight</title>
     </programme>
     <programme start="20250305130000 +0000" stop="20250305133000 +0000" channel="HITS Now HD.firstmedia">
         <title>Ghosts S4</title>
@@ -1194,23 +1197,23 @@
     <programme start="20250305120000 +0000" stop="20250305123000 +0000" channel="HITS Now HD.firstmedia">
         <title>The $100,000 Pyramid S7</title>
     </programme>
-    <programme start="20250305150000 +0000" stop="20250305153000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Entertainment Tonight</title>
+    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Fire Country S3</title>
+    </programme>
+    <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Mr Throwback S1</title>
     </programme>
     <programme start="20250305153000 +0000" stop="20250305160000 +0000" channel="HITS Now HD.firstmedia">
         <title>The $100,000 Pyramid S7</title>
     </programme>
-    <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Mr Throwback S1</title>
-    </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="HITS Now HD.firstmedia">
-        <title>Fire Country S3</title>
-    </programme>
-    <programme start="20250305093000 +0000" stop="20250305113000 +0000" channel="HITS Now HD.firstmedia">
-        <title>American Idol 2024</title>
+    <programme start="20250305083000 +0000" stop="20250305093000 +0000" channel="HITS Now HD.firstmedia">
+        <title>Password US S2</title>
     </programme>
     <programme start="20250305140000 +0000" stop="20250305161500 +0000" channel="Hits Movies HD.firstmedia">
         <title>Crouching Tiger, Hidden Dragon</title>
+    </programme>
+    <programme start="20250305161500 +0000" stop="20250305191500 +0000" channel="Hits Movies HD.firstmedia">
+        <title>Sleepers</title>
     </programme>
     <programme start="20250305093000 +0000" stop="20250305120000 +0000" channel="Hits Movies HD.firstmedia">
         <title>P.S. I Love You</title>
@@ -1218,23 +1221,8 @@
     <programme start="20250305120000 +0000" stop="20250305140000 +0000" channel="Hits Movies HD.firstmedia">
         <title>Lara Croft: Tomb Raider</title>
     </programme>
-    <programme start="20250305161500 +0000" stop="20250305191500 +0000" channel="Hits Movies HD.firstmedia">
-        <title>Sleepers</title>
-    </programme>
-    <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="HITS HD.firstmedia">
-        <title>Northern Exposure S3</title>
-    </programme>
-    <programme start="20250305120000 +0000" stop="20250305123000 +0000" channel="HITS HD.firstmedia">
-        <title>The Jeffersons S5</title>
-    </programme>
-    <programme start="20250305100000 +0000" stop="20250305103000 +0000" channel="HITS HD.firstmedia">
-        <title>The Jeffersons S5</title>
-    </programme>
-    <programme start="20250305153000 +0000" stop="20250305163000 +0000" channel="HITS HD.firstmedia">
-        <title>Bonanza S2</title>
-    </programme>
-    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="HITS HD.firstmedia">
-        <title>Agatha Christie&#039;s Marple S4</title>
+    <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="HITS HD.firstmedia">
+        <title>Married With Children S3</title>
     </programme>
     <programme start="20250305103000 +0000" stop="20250305110000 +0000" channel="HITS HD.firstmedia">
         <title>Married With Children S3</title>
@@ -1242,19 +1230,31 @@
     <programme start="20250305150000 +0000" stop="20250305153000 +0000" channel="HITS HD.firstmedia">
         <title>Frasier S4</title>
     </programme>
-    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="HITS HD.firstmedia">
-        <title>The Six Million Dollar Man S2</title>
+    <programme start="20250305100000 +0000" stop="20250305103000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
     </programme>
     <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="HITS HD.firstmedia">
         <title>Hawaii Five-O S1</title>
     </programme>
+    <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="HITS HD.firstmedia">
+        <title>Agatha Christie&#039;s Marple S4</title>
+    </programme>
+    <programme start="20250305120000 +0000" stop="20250305123000 +0000" channel="HITS HD.firstmedia">
+        <title>The Jeffersons S5</title>
+    </programme>
+    <programme start="20250305153000 +0000" stop="20250305163000 +0000" channel="HITS HD.firstmedia">
+        <title>Bonanza S2</title>
+    </programme>
     <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="HITS HD.firstmedia">
         <title>The Six Million Dollar Man S2</title>
     </programme>
-    <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="HITS HD.firstmedia">
-        <title>Married With Children S3</title>
+    <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="HITS HD.firstmedia">
+        <title>The Six Million Dollar Man S2</title>
     </programme>
-    <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="HITS HD.firstmedia">
-        <title>The Jeffersons S5</title>
+    <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="HITS HD.firstmedia">
+        <title>Northern Exposure S3</title>
     </programme>
 </tv>
