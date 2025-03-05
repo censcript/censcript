@@ -30154,7 +30154,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250306063000 +0000" stop="20250306070000 +0000" channel="iON TV">
-        <title>News 24</title>
+        <title>Srestho Manushera</title>
     </programme>
     <programme start="20250306070000 +0000" stop="20250306080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
@@ -30163,7 +30163,7 @@
         <title>Forty Hadiths</title>
     </programme>
     <programme start="20250306090000 +0000" stop="20250306100000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>Islamic Song</title>
     </programme>
     <programme start="20250306100000 +0000" stop="20250306103000 +0000" channel="iON TV">
         <title>iON News Time</title>
