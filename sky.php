@@ -29011,7 +29011,7 @@
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250306113000 +0000" stop="20250306120000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250306120000 +0000" stop="20250306133000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -29028,23 +29028,29 @@
     <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="Sikh Channel">
         <title>Lariwar Katha: Giani Kulwant Singh</title>
     </programme>
-    <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="Sikh Channel">
-        <title>Dr Sukhpreet Singh Udhoke</title>
+    <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
-    <programme start="20250306170000 +0000" stop="20250306183000 +0000" channel="Sikh Channel">
+    <programme start="20250306163000 +0000" stop="20250306170000 +0000" channel="Sikh Channel">
+        <title>Marriage Story</title>
+    </programme>
+    <programme start="20250306170000 +0000" stop="20250306180000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
-    <programme start="20250306183000 +0000" stop="20250306190000 +0000" channel="Sikh Channel">
-        <title>Indian Law</title>
+    <programme start="20250306180000 +0000" stop="20250306190000 +0000" channel="Sikh Channel">
+        <title>Live: Indian Law</title>
     </programme>
     <programme start="20250306190000 +0000" stop="20250306193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250306193000 +0000" stop="20250306200000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping - Yatra</title>
     </programme>
-    <programme start="20250306200000 +0000" stop="20250306210000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
+    <programme start="20250306200000 +0000" stop="20250306203000 +0000" channel="Sikh Channel">
+        <title>Langar on Campus</title>
+    </programme>
+    <programme start="20250306203000 +0000" stop="20250306210000 +0000" channel="Sikh Channel">
+        <title>Langar on Campus</title>
     </programme>
     <programme start="20250306210000 +0000" stop="20250306213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -36565,7 +36571,7 @@
         <title>Newsbeat @ 17:45</title>
     </programme>
     <programme start="20250306180000 +0000" stop="20250306200000 +0000" channel="BBC R1">
-        <title>Radio 1's New Music Show with Jack Saunders</title>
+        <title>Radio 1's New Music Show with Alyx Holcombe</title>
     </programme>
     <programme start="20250306200000 +0000" stop="20250306220000 +0000" channel="BBC R1">
         <title>Radio 1's Rave-Up with Arielle Free</title>
