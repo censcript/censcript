@@ -28990,7 +28990,7 @@
         <title>Nirmal Soch</title>
     </programme>
     <programme start="20250307150000 +0000" stop="20250307160000 +0000" channel="Sangat">
-        <title>Documentary: Yatra Sri Hazur Sahib</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250307160000 +0000" stop="20250307163000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -29017,7 +29017,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250307213000 +0000" stop="20250307220000 +0000" channel="Sangat">
-        <title>Kids Special</title>
+        <title>Gallan Battan Bal De Nal</title>
     </programme>
     <programme start="20250307220000 +0000" stop="20250307230000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
