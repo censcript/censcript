@@ -13516,10 +13516,10 @@
         <title>Bitesize Tennis Classics</title>
     </programme>
     <programme start="20250306080000 +0000" stop="20250306100000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells Hlts: Norrie v Nardi</title>
     </programme>
     <programme start="20250306100000 +0000" stop="20250306120000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells Hlts: Osaka v Osorio</title>
     </programme>
     <programme start="20250306120000 +0000" stop="20250306130000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Dubai</title>
@@ -13534,10 +13534,10 @@
         <title>ATP Tour This Week</title>
     </programme>
     <programme start="20250306150000 +0000" stop="20250306170000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells Hlts: Norrie v Nardi</title>
     </programme>
     <programme start="20250306170000 +0000" stop="20250306190000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells Hlts: Osaka v Osorio</title>
     </programme>
     <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Indian Wells</title>
@@ -24850,7 +24850,7 @@
         <title>Sleep Deals with Cozee</title>
     </programme>
     <programme start="20250306120000 +0000" stop="20250306130000 +0000" channel="QVC Extra">
-        <title>Clean &amp; Tidy</title>
+        <title>Household Solutions</title>
     </programme>
     <programme start="20250306130000 +0000" stop="20250306140000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
@@ -24859,16 +24859,16 @@
         <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250306150000 +0000" stop="20250306160000 +0000" channel="QVC Extra">
-        <title>Household Solutions</title>
+        <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="QVC Extra">
-        <title>Dannii Minogue Denim Shop</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250306170000 +0000" stop="20250306180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250306180000 +0000" stop="20250306190000 +0000" channel="QVC Extra">
-        <title>Helene Berman London</title>
+        <title>New Season Nina Leonard</title>
     </programme>
     <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
@@ -24880,7 +24880,7 @@
         <title>Household Solutions</title>
     </programme>
     <programme start="20250306220000 +0000" stop="20250306230000 +0000" channel="QVC Extra">
-        <title>Sleep Deals with Cozee</title>
+        <title>Spring Sleepwear</title>
     </programme>
     <programme start="20250306230000 +0000" stop="20250307000000 +0000" channel="QVC Extra">
         <title>New Kitchen Must Haves</title>
