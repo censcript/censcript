@@ -19731,10 +19731,10 @@
     <programme start="20250306103000 +0000" stop="20250306110000 +0000" channel="CBBC HD">
         <title>Horrible Histories</title>
     </programme>
-    <programme start="20250306110000 +0000" stop="20250306112500 +0000" channel="CBBC HD">
+    <programme start="20250306110000 +0000" stop="20250306113000 +0000" channel="CBBC HD">
         <title>New: World Book Day 2025 - Live Lesson</title>
     </programme>
-    <programme start="20250306112500 +0000" stop="20250306113500 +0000" channel="CBBC HD">
+    <programme start="20250306113000 +0000" stop="20250306113500 +0000" channel="CBBC HD">
         <title>What's Cooking Omari?</title>
     </programme>
     <programme start="20250306113500 +0000" stop="20250306120500 +0000" channel="CBBC HD">
@@ -24427,7 +24427,7 @@
         <title>nutribullet</title>
     </programme>
     <programme start="20250306150000 +0000" stop="20250306153000 +0000" channel="High Street TV 1">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>Garden Force Leaf Chief</title>
     </programme>
     <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="High Street TV 1">
         <title>Speedi Dry Heated Airer</title>
@@ -24583,7 +24583,7 @@
         <title>nutribullet</title>
     </programme>
     <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="High Street TV 2">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>Garden Force Leaf Chief</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="High Street TV 2">
         <title>Speedi Dry Heated Airer</title>
@@ -24991,7 +24991,7 @@
         <title>nutribullet</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="High Street TV 3">
-        <title>Click Switch 6-in-1 Mop</title>
+        <title>Garden Force Leaf Chief</title>
     </programme>
     <programme start="20250306163000 +0000" stop="20250306170000 +0000" channel="High Street TV 3">
         <title>Speedi Dry Heated Airer</title>
@@ -27579,11 +27579,8 @@
     <programme start="20250306030000 +0000" stop="20250306031500 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Fajr</title>
     </programme>
-    <programme start="20250306031500 +0000" stop="20250306045500 +0000" channel="Islam Channel">
+    <programme start="20250306031500 +0000" stop="20250306050000 +0000" channel="Islam Channel">
         <title>UK Islamic Mission Live Appeal</title>
-    </programme>
-    <programme start="20250306045500 +0000" stop="20250306050000 +0000" channel="Islam Channel">
-        <title>Fajr Adhan</title>
     </programme>
     <programme start="20250306050000 +0000" stop="20250306060000 +0000" channel="Islam Channel">
         <title>UK Islamic Mission Live Appeal</title>
@@ -27637,7 +27634,7 @@
         <title>Live Prayers from Makkah: Asr</title>
     </programme>
     <programme start="20250306131000 +0000" stop="20250306132000 +0000" channel="Islam Channel">
-        <title>Guided by Eman</title>
+        <title>5 Pillars Pop Quiz</title>
     </programme>
     <programme start="20250306132000 +0000" stop="20250306133500 +0000" channel="Islam Channel">
         <title>Other Side: Barzakh and Beyond</title>
