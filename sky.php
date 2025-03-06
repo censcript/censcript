@@ -7434,10 +7434,7 @@
     <programme start="20250306045000 +0000" stop="20250306054000 +0000" channel="Channel 5+1">
         <title>Happy Campers: The Caravan Park</title>
     </programme>
-    <programme start="20250306054000 +0000" stop="20250306060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250306060000 +0000" stop="20250306060500 +0000" channel="Channel 5+1">
+    <programme start="20250306054000 +0000" stop="20250306060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250306060500 +0000" stop="20250306063000 +0000" channel="Channel 5+1">
