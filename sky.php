@@ -15024,7 +15024,10 @@
     <programme start="20250306103000 +0000" stop="20250306113000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250306113000 +0000" stop="20250306173000 +0000" channel="BBC Parl HD">
+    <programme start="20250306113000 +0000" stop="20250306123000 +0000" channel="BBC Parl HD">
+        <title>Live North Sea Energy Statement</title>
+    </programme>
+    <programme start="20250306123000 +0000" stop="20250306173000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250306173000 +0000" stop="20250306181500 +0000" channel="BBC Parl HD">
@@ -15033,8 +15036,20 @@
     <programme start="20250306181500 +0000" stop="20250306190000 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250306190000 +0000" stop="20250306191000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Hong Kong Statement</title>
+    </programme>
+    <programme start="20250306191000 +0000" stop="20250306195000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Iran Statement</title>
+    </programme>
+    <programme start="20250306195000 +0000" stop="20250306215000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - International Women's Day, Part 1</title>
+    </programme>
+    <programme start="20250306215000 +0000" stop="20250306235000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - International Women's Day, Part 2</title>
+    </programme>
+    <programme start="20250306235000 +0000" stop="20250307005000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - International Women's Day, Part 3</title>
     </programme>
     <programme start="20250305223000 +0000" stop="20250305233000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -25575,16 +25590,13 @@
     <programme start="20250306185900 +0000" stop="20250306192900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250306192900 +0000" stop="20250306205900 +0000" channel="SONY TV HD">
+    <programme start="20250306192900 +0000" stop="20250306221600 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250306205900 +0000" stop="20250306220900 +0000" channel="SONY TV HD">
-        <title>25 Years Of Kaun Banega Crorepati</title>
-    </programme>
-    <programme start="20250306220900 +0000" stop="20250306233700 +0000" channel="SONY TV HD">
+    <programme start="20250306221600 +0000" stop="20250306234200 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250306233700 +0000" stop="20250307003700 +0000" channel="SONY TV HD">
+    <programme start="20250306234200 +0000" stop="20250307004200 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250305223000 +0000" stop="20250305233000 +0000" channel="Utsav Bharat">
@@ -34572,16 +34584,16 @@
     <programme start="20250306185900 +0000" stop="20250306192900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250306192900 +0000" stop="20250306205900 +0000" channel="SONY TV">
+    <programme start="20250306192900 +0000" stop="20250306210000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250306205900 +0000" stop="20250306220900 +0000" channel="SONY TV">
+    <programme start="20250306210000 +0000" stop="20250306221600 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250306220900 +0000" stop="20250306233700 +0000" channel="SONY TV">
+    <programme start="20250306221600 +0000" stop="20250306234200 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250306233700 +0000" stop="20250307003700 +0000" channel="SONY TV">
+    <programme start="20250306234200 +0000" stop="20250307004200 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250305223400 +0000" stop="20250305230300 +0000" channel="Utsav Plus">
@@ -38683,7 +38695,7 @@
         <title>John Stratford</title>
     </programme>
     <programme start="20250306190000 +0000" stop="20250306230000 +0000" channel="LBC News">
-        <title>Steve Holden</title>
+        <title>Chris Golds</title>
     </programme>
     <programme start="20250306230000 +0000" stop="20250307000000 +0000" channel="LBC News">
         <title>LBC News</title>
