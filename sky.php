@@ -25590,8 +25590,11 @@
     <programme start="20250306185900 +0000" stop="20250306192900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250306192900 +0000" stop="20250306221600 +0000" channel="SONY TV HD">
+    <programme start="20250306192900 +0000" stop="20250306210000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250306210000 +0000" stop="20250306221600 +0000" channel="SONY TV HD">
+        <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
     <programme start="20250306221600 +0000" stop="20250306234200 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
