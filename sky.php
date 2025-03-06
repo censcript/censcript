@@ -28617,10 +28617,10 @@
     <programme start="20250305192400 +0000" stop="20250306012400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250306012400 +0000" stop="20250306044500 +0000" channel="Eman Channel">
+    <programme start="20250306012400 +0000" stop="20250306044200 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250306044500 +0000" stop="20250306045500 +0000" channel="Eman Channel">
+    <programme start="20250306044200 +0000" stop="20250306045500 +0000" channel="Eman Channel">
         <title>Fajr Adhan 18 Degrees</title>
     </programme>
     <programme start="20250306045500 +0000" stop="20250306050000 +0000" channel="Eman Channel">
