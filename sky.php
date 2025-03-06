@@ -29137,7 +29137,7 @@
         <title>Punjabi Virsa</title>
     </programme>
     <programme start="20250306150000 +0000" stop="20250306160000 +0000" channel="Sangat">
-        <title>Katha Vichar</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -29152,7 +29152,7 @@
         <title>Tehal Sewa Smaagum</title>
     </programme>
     <programme start="20250306183000 +0000" stop="20250306190000 +0000" channel="Sangat">
-        <title>Sakhi: Guru Arjan Dev Sahib Ji</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="Sangat">
         <title>Legal Guidance</title>
