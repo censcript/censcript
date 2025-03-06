@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250306133000 +0000" stop="20250306140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Murillo</title>
-    </programme>
     <programme start="20250307103000 +0000" stop="20250307110000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>
