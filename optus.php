@@ -147,6 +147,9 @@
     <programme start="20250315072000 +0000" stop="20250315094000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Gangwon v Seoul</title>
     </programme>
+    <programme start="20250315121000 +0000" stop="20250315152500 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Chelsea v Manchester City</title>
+    </programme>
     <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250322233000 +0000" stop="20250323020000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Kansas City Current</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
     </programme>
 </tv>
