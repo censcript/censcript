@@ -13419,8 +13419,20 @@
     <programme start="20250307000000 +0000" stop="20250307010000 +0000" channel="SkySp NFL HD">
         <title>Live NFL: The Insiders</title>
     </programme>
-    <programme start="20250307010000 +0000" stop="20250307034500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge: Hull FC V Leigh</title>
+    <programme start="20250307010000 +0000" stop="20250307020000 +0000" channel="SkySp NFL HD">
+        <title>Valdez v Wilson Hlts</title>
+    </programme>
+    <programme start="20250307020000 +0000" stop="20250307030000 +0000" channel="SkySp NFL HD">
+        <title>Beterbiev v Smith Hlts</title>
+    </programme>
+    <programme start="20250307030000 +0000" stop="20250307031500 +0000" channel="SkySp NFL HD">
+        <title>S/Lge: Leeds v Catalans</title>
+    </programme>
+    <programme start="20250307031500 +0000" stop="20250307033000 +0000" channel="SkySp NFL HD">
+        <title>S/L: Huddersfield v Castleford Hlts</title>
+    </programme>
+    <programme start="20250307033000 +0000" stop="20250307034500 +0000" channel="SkySp NFL HD">
+        <title>S/L Catalan v Hull KR Hlts</title>
     </programme>
     <programme start="20250307034500 +0000" stop="20250307050000 +0000" channel="SkySp NFL HD">
         <title>Toney v Jones 1994</title>
@@ -29559,83 +29571,68 @@
     <programme start="20250307051900 +0000" stop="20250307060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250307060000 +0000" stop="20250307061000 +0000" channel="IQRA Bangla">
-        <title>Surah Yaseen</title>
-    </programme>
-    <programme start="20250307061000 +0000" stop="20250307075000 +0000" channel="IQRA Bangla">
+    <programme start="20250307060000 +0000" stop="20250307082000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250307075000 +0000" stop="20250307080000 +0000" channel="IQRA Bangla">
+    <programme start="20250307082000 +0000" stop="20250307083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250307080000 +0000" stop="20250307090000 +0000" channel="IQRA Bangla">
+    <programme start="20250307083000 +0000" stop="20250307100000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
+    </programme>
+    <programme start="20250307100000 +0000" stop="20250307110000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250307110000 +0000" stop="20250307113000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Bazar</title>
+    </programme>
+    <programme start="20250307113000 +0000" stop="20250307121700 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250307090000 +0000" stop="20250307100000 +0000" channel="IQRA Bangla">
-        <title>LIVE Jumu'ah from Madinah</title>
+    <programme start="20250307121700 +0000" stop="20250307122200 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250307100000 +0000" stop="20250307103000 +0000" channel="IQRA Bangla">
-        <title>Moshq-e- Tilawat</title>
+    <programme start="20250307122200 +0000" stop="20250307123000 +0000" channel="IQRA Bangla">
+        <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250307103000 +0000" stop="20250307110000 +0000" channel="IQRA Bangla">
-        <title>Islamic Stories</title>
-    </programme>
-    <programme start="20250307110000 +0000" stop="20250307122000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250307122000 +0000" stop="20250307123000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Jummah</title>
-    </programme>
-    <programme start="20250307123000 +0000" stop="20250307130000 +0000" channel="IQRA Bangla">
-        <title>Jumu'ah Khutbah from ELM</title>
-    </programme>
-    <programme start="20250307130000 +0000" stop="20250307133000 +0000" channel="IQRA Bangla">
-        <title>Sribhumir Pothe</title>
-    </programme>
-    <programme start="20250307133000 +0000" stop="20250307140000 +0000" channel="IQRA Bangla">
-        <title>Al-Khair Feedback</title>
+    <programme start="20250307123000 +0000" stop="20250307140000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250307140000 +0000" stop="20250307150000 +0000" channel="IQRA Bangla">
-        <title>Sister's View</title>
+        <title>Ramadan Discussion</title>
     </programme>
-    <programme start="20250307150000 +0000" stop="20250307152500 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
+    <programme start="20250307150000 +0000" stop="20250307153000 +0000" channel="IQRA Bangla">
+        <title>Ahalan Sahalan Mahe Ramadan</title>
     </programme>
-    <programme start="20250307152500 +0000" stop="20250307153000 +0000" channel="IQRA Bangla">
+    <programme start="20250307153000 +0000" stop="20250307155800 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250307155800 +0000" stop="20250307160300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250307153000 +0000" stop="20250307160000 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
+    <programme start="20250307160300 +0000" stop="20250307175500 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250307160000 +0000" stop="20250307163000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250307163000 +0000" stop="20250307171700 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250307171700 +0000" stop="20250307172200 +0000" channel="IQRA Bangla">
+    <programme start="20250307175500 +0000" stop="20250307180300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250307172200 +0000" stop="20250307180000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
+    <programme start="20250307180300 +0000" stop="20250307180900 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
     </programme>
-    <programme start="20250307180000 +0000" stop="20250307183000 +0000" channel="IQRA Bangla">
-        <title>Our Masjid</title>
+    <programme start="20250307180900 +0000" stop="20250307181400 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
     </programme>
-    <programme start="20250307183000 +0000" stop="20250307184700 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250307181400 +0000" stop="20250307182200 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
     </programme>
-    <programme start="20250307184700 +0000" stop="20250307185200 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Isha</title>
+    <programme start="20250307182200 +0000" stop="20250307182600 +0000" channel="IQRA Bangla">
+        <title>Ramadan tips</title>
     </programme>
-    <programme start="20250307185200 +0000" stop="20250307200000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250307182600 +0000" stop="20250307192300 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250307200000 +0000" stop="20250307203000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
-    </programme>
-    <programme start="20250307203000 +0000" stop="20250307213000 +0000" channel="IQRA Bangla">
-        <title>Sha'ban Appeal</title>
+    <programme start="20250307192300 +0000" stop="20250307202300 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250306192500 +0000" stop="20250306233500 +0000" channel="ATN">
         <title>Charity Appeal</title>
