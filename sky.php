@@ -13282,10 +13282,10 @@
         <title>Bitesize Tennis Classics</title>
     </programme>
     <programme start="20250308080000 +0000" stop="20250308100000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells: Begu v Boulter</title>
     </programme>
     <programme start="20250308100000 +0000" stop="20250308120000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells: Norrie v Lehecka</title>
     </programme>
     <programme start="20250308120000 +0000" stop="20250308130000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Doha</title>
@@ -13294,10 +13294,10 @@
         <title>Tie Break Tens</title>
     </programme>
     <programme start="20250308150000 +0000" stop="20250308170000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells: Begu v Boulter</title>
     </programme>
     <programme start="20250308170000 +0000" stop="20250308190000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells Tennis Highlights</title>
+        <title>Indian Wells: Norrie v Lehecka</title>
     </programme>
     <programme start="20250308190000 +0000" stop="20250308200000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Indian Wells</title>
@@ -13887,17 +13887,8 @@
     <programme start="20250308170000 +0000" stop="20250308171000 +0000" channel="MUTV HD">
         <title>What Moves Me</title>
     </programme>
-    <programme start="20250308171000 +0000" stop="20250308173000 +0000" channel="MUTV HD">
+    <programme start="20250308171000 +0000" stop="20250308191500 +0000" channel="MUTV HD">
         <title>Live: Radio Commentary: MUW v Sunderland</title>
-    </programme>
-    <programme start="20250308173000 +0000" stop="20250308180000 +0000" channel="MUTV HD">
-        <title>PL: Arsenal v United 11/12</title>
-    </programme>
-    <programme start="20250308180000 +0000" stop="20250308183000 +0000" channel="MUTV HD">
-        <title>PL: United v Arsenal 09/10</title>
-    </programme>
-    <programme start="20250308183000 +0000" stop="20250308191500 +0000" channel="MUTV HD">
-        <title>U18s Match: Derby v Utd</title>
     </programme>
     <programme start="20250308191500 +0000" stop="20250308194500 +0000" channel="MUTV HD">
         <title>PL: United v Arsenal 05/06</title>
@@ -13905,11 +13896,8 @@
     <programme start="20250308194500 +0000" stop="20250308201500 +0000" channel="MUTV HD">
         <title>PL: Arsenal v United 11/12</title>
     </programme>
-    <programme start="20250308201500 +0000" stop="20250308203500 +0000" channel="MUTV HD">
+    <programme start="20250308201500 +0000" stop="20250308204500 +0000" channel="MUTV HD">
         <title>PL: United v Arsenal 09/10</title>
-    </programme>
-    <programme start="20250308203500 +0000" stop="20250308204500 +0000" channel="MUTV HD">
-        <title>Top 20 David Beckham Goals</title>
     </programme>
     <programme start="20250308204500 +0000" stop="20250308211500 +0000" channel="MUTV HD">
         <title>PL Highlights: v Arsenal 17/18 (H)</title>
@@ -28545,11 +28533,8 @@
     <programme start="20250308053000 +0000" stop="20250308070000 +0000" channel="Akaal Channel">
         <title>Nitnem with Subtitles</title>
     </programme>
-    <programme start="20250308070000 +0000" stop="20250308075500 +0000" channel="Akaal Channel">
+    <programme start="20250308070000 +0000" stop="20250308080000 +0000" channel="Akaal Channel">
         <title>Panth Di Awaz Birmingham</title>
-    </programme>
-    <programme start="20250308075500 +0000" stop="20250308080000 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
     </programme>
     <programme start="20250308080000 +0000" stop="20250308090000 +0000" channel="Akaal Channel">
         <title>Live: Dharam Ateh Rajniti</title>
@@ -36399,7 +36384,10 @@
     <programme start="20250307235500 +0000" stop="20250308000000 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250308000000 +0000" stop="20250308070000 +0000" channel="BBC R Ulster">
+    <programme start="20250308000000 +0000" stop="20250308010000 +0000" channel="BBC R Ulster">
+        <title>Precious Metal</title>
+    </programme>
+    <programme start="20250308010000 +0000" stop="20250308070000 +0000" channel="BBC R Ulster">
         <title>As BBC Radio 5 live</title>
     </programme>
     <programme start="20250308070000 +0000" stop="20250308070300 +0000" channel="BBC R Ulster">
@@ -37569,7 +37557,10 @@
     <programme start="20250307235500 +0000" stop="20250308000000 +0000" channel="BBC R Foyle">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250308000000 +0000" stop="20250308070000 +0000" channel="BBC R Foyle">
+    <programme start="20250308000000 +0000" stop="20250308010000 +0000" channel="BBC R Foyle">
+        <title>Precious Metal</title>
+    </programme>
+    <programme start="20250308010000 +0000" stop="20250308070000 +0000" channel="BBC R Foyle">
         <title>As BBC Radio 5 live</title>
     </programme>
     <programme start="20250308070000 +0000" stop="20250308070300 +0000" channel="BBC R Foyle">
