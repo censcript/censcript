@@ -25443,10 +25443,10 @@
     <programme start="20250307125700 +0000" stop="20250307135100 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250307135100 +0000" stop="20250307145000 +0000" channel="SONY TV HD">
+    <programme start="20250307135100 +0000" stop="20250307144900 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250307145000 +0000" stop="20250307155600 +0000" channel="SONY TV HD">
+    <programme start="20250307144900 +0000" stop="20250307155600 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
     <programme start="20250307155600 +0000" stop="20250307172700 +0000" channel="SONY TV HD">
@@ -28921,7 +28921,7 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250307133000 +0000" stop="20250307140000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Special Report</title>
     </programme>
     <programme start="20250307140000 +0000" stop="20250307143000 +0000" channel="Sikh Channel">
         <title>Marriage Story</title>
@@ -28939,7 +28939,7 @@
         <title>Sri Akhand Path Sahib Sewa</title>
     </programme>
     <programme start="20250307163000 +0000" stop="20250307170000 +0000" channel="Sikh Channel">
-        <title>Marriage Story</title>
+        <title>Special Report</title>
     </programme>
     <programme start="20250307170000 +0000" stop="20250307183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -28953,10 +28953,10 @@
     <programme start="20250307193000 +0000" stop="20250307200000 +0000" channel="Sikh Channel">
         <title>Teleshopping - Yatra</title>
     </programme>
-    <programme start="20250307200000 +0000" stop="20250307210000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+    <programme start="20250307200000 +0000" stop="20250307203000 +0000" channel="Sikh Channel">
+        <title>Special Report</title>
     </programme>
-    <programme start="20250307210000 +0000" stop="20250307213000 +0000" channel="Sikh Channel">
+    <programme start="20250307203000 +0000" stop="20250307213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250307213000 +0000" stop="20250307220000 +0000" channel="Sikh Channel">
@@ -34452,10 +34452,10 @@
     <programme start="20250307125700 +0000" stop="20250307135100 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250307135100 +0000" stop="20250307145000 +0000" channel="SONY TV">
+    <programme start="20250307135100 +0000" stop="20250307144900 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250307145000 +0000" stop="20250307155600 +0000" channel="SONY TV">
+    <programme start="20250307144900 +0000" stop="20250307155600 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
     <programme start="20250307155600 +0000" stop="20250307172700 +0000" channel="SONY TV">
