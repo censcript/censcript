@@ -28563,8 +28563,11 @@
     <programme start="20250307111500 +0000" stop="20250307113000 +0000" channel="Eman Channel">
         <title>15 Reasons Why</title>
     </programme>
-    <programme start="20250307113000 +0000" stop="20250307120000 +0000" channel="Eman Channel">
+    <programme start="20250307113000 +0000" stop="20250307114500 +0000" channel="Eman Channel">
         <title>Our Mothers</title>
+    </programme>
+    <programme start="20250307114500 +0000" stop="20250307120000 +0000" channel="Eman Channel">
+        <title>Keys To Happiness</title>
     </programme>
     <programme start="20250307120000 +0000" stop="20250307121700 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
@@ -28623,10 +28626,10 @@
     <programme start="20250307182300 +0000" stop="20250307191800 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250307191800 +0000" stop="20250307192700 +0000" channel="Eman Channel">
+    <programme start="20250307191800 +0000" stop="20250307192600 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250307192700 +0000" stop="20250307202700 +0000" channel="Eman Channel">
+    <programme start="20250307192600 +0000" stop="20250307202600 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250306223000 +0000" stop="20250306233000 +0000" channel="ARY Digital">
