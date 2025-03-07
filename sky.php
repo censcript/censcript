@@ -14946,13 +14946,13 @@
     <programme start="20250307204000 +0000" stop="20250307210000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - General Questions</title>
     </programme>
-    <programme start="20250307210000 +0000" stop="20250307214500 +0000" channel="BBC Parl HD">
+    <programme start="20250307210000 +0000" stop="20250307215000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250307214500 +0000" stop="20250307221000 +0000" channel="BBC Parl HD">
+    <programme start="20250307215000 +0000" stop="20250307221500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Deputy...</title>
     </programme>
-    <programme start="20250307221000 +0000" stop="20250307231000 +0000" channel="BBC Parl HD">
+    <programme start="20250307221500 +0000" stop="20250307231500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Economy Debate</title>
     </programme>
     <programme start="20250306223000 +0000" stop="20250306233000 +0000" channel="CNBC HD">
@@ -24055,7 +24055,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250307190000 +0000" stop="20250307200000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250307200000 +0000" stop="20250307210000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -24109,7 +24109,7 @@
         <title>Dannii Minogue Denim Shop</title>
     </programme>
     <programme start="20250307110000 +0000" stop="20250307120000 +0000" channel="QVC Style HD">
-        <title>Morning Style with Katy</title>
+        <title>Spring Sleepwear</title>
     </programme>
     <programme start="20250307120000 +0000" stop="20250307130000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
@@ -24124,7 +24124,7 @@
         <title>Rieker Footwear</title>
     </programme>
     <programme start="20250307160000 +0000" stop="20250307170000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250307170000 +0000" stop="20250307180000 +0000" channel="QVC Style HD">
         <title>Plants2Gardens</title>
@@ -24139,7 +24139,7 @@
         <title>Rieker Footwear</title>
     </programme>
     <programme start="20250307210000 +0000" stop="20250307220000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250307220000 +0000" stop="20250307230000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
@@ -24745,16 +24745,16 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250307110000 +0000" stop="20250307120000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>Kuhn Rikon Kitchen Gadgets</title>
     </programme>
     <programme start="20250307120000 +0000" stop="20250307130000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250307130000 +0000" stop="20250307140000 +0000" channel="QVC Extra">
-        <title>Home Improvements</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250307140000 +0000" stop="20250307150000 +0000" channel="QVC Extra">
-        <title>New Kitchen Must Haves</title>
+        <title>Grumpy Gardener</title>
     </programme>
     <programme start="20250307150000 +0000" stop="20250307160000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>
@@ -24772,16 +24772,16 @@
         <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250307200000 +0000" stop="20250307210000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250307210000 +0000" stop="20250307220000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250307220000 +0000" stop="20250307230000 +0000" channel="QVC Extra">
-        <title>Spring Sleepwear</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250307230000 +0000" stop="20250308000000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>New Season Nina Leonard</title>
     </programme>
     <programme start="20250306223000 +0000" stop="20250306230000 +0000" channel="High Street TV 3">
         <title>nutribullet</title>
@@ -29610,13 +29610,13 @@
     <programme start="20250307140000 +0000" stop="20250307143000 +0000" channel="IQRA Bangla">
         <title>Ahalan Sahalan Mahe Ramadan</title>
     </programme>
-    <programme start="20250307143000 +0000" stop="20250307155800 +0000" channel="IQRA Bangla">
+    <programme start="20250307143000 +0000" stop="20250307145800 +0000" channel="IQRA Bangla">
         <title>Gaza Emergency Appeal</title>
     </programme>
-    <programme start="20250307155800 +0000" stop="20250307160300 +0000" channel="IQRA Bangla">
+    <programme start="20250307145800 +0000" stop="20250307150300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250307160300 +0000" stop="20250307165500 +0000" channel="IQRA Bangla">
+    <programme start="20250307150300 +0000" stop="20250307165500 +0000" channel="IQRA Bangla">
         <title>Gaza Emergency Appeal</title>
     </programme>
     <programme start="20250307165500 +0000" stop="20250307170300 +0000" channel="IQRA Bangla">
