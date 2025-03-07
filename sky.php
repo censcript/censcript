@@ -13896,14 +13896,11 @@
     <programme start="20250307060000 +0000" stop="20250307084500 +0000" channel="SkySp Mix HD">
         <title>S/Lge: Leigh v Catalans</title>
     </programme>
-    <programme start="20250307084500 +0000" stop="20250307124500 +0000" channel="SkySp Mix HD">
-        <title>PL Darts: Brighton</title>
-    </programme>
-    <programme start="20250307124500 +0000" stop="20250307125500 +0000" channel="SkySp Mix HD">
-        <title>The Best of England v Australia</title>
-    </programme>
-    <programme start="20250307125500 +0000" stop="20250307135000 +0000" channel="SkySp Mix HD">
+    <programme start="20250307084500 +0000" stop="20250307094000 +0000" channel="SkySp Mix HD">
         <title>WPL: UP Warriorz v Mumbai I</title>
+    </programme>
+    <programme start="20250307094000 +0000" stop="20250307135000 +0000" channel="SkySp Mix HD">
+        <title>PL Darts: Brighton</title>
     </programme>
     <programme start="20250307135000 +0000" stop="20250307173000 +0000" channel="SkySp Mix HD">
         <title>Live WPL: Gujarat G v Delhi C</title>
