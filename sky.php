@@ -29628,8 +29628,11 @@
     <programme start="20250307182200 +0000" stop="20250307182600 +0000" channel="IQRA Bangla">
         <title>Ramadan tips</title>
     </programme>
-    <programme start="20250307182600 +0000" stop="20250307192300 +0000" channel="IQRA Bangla">
+    <programme start="20250307182600 +0000" stop="20250307191800 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250307191800 +0000" stop="20250307192300 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250307192300 +0000" stop="20250307202300 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
