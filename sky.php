@@ -13896,10 +13896,10 @@
     <programme start="20250307060000 +0000" stop="20250307084500 +0000" channel="SkySp Mix HD">
         <title>S/Lge: Leigh v Catalans</title>
     </programme>
-    <programme start="20250307084500 +0000" stop="20250307094000 +0000" channel="SkySp Mix HD">
+    <programme start="20250307084500 +0000" stop="20250307094500 +0000" channel="SkySp Mix HD">
         <title>WPL: UP Warriorz v Mumbai I</title>
     </programme>
-    <programme start="20250307094000 +0000" stop="20250307135000 +0000" channel="SkySp Mix HD">
+    <programme start="20250307094500 +0000" stop="20250307135000 +0000" channel="SkySp Mix HD">
         <title>PL Darts: Brighton</title>
     </programme>
     <programme start="20250307135000 +0000" stop="20250307173000 +0000" channel="SkySp Mix HD">
@@ -29653,103 +29653,91 @@
         <title>Provati Islamic Onushthanmala</title>
     </programme>
     <programme start="20250307070000 +0000" stop="20250307073000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
+        <title>ATN News</title>
     </programme>
     <programme start="20250307073000 +0000" stop="20250307080000 +0000" channel="ATN">
-        <title>Islamer Pothe</title>
+        <title>Prophet Story</title>
     </programme>
     <programme start="20250307080000 +0000" stop="20250307090000 +0000" channel="ATN">
-        <title>Bhabchi Boshe Tomai</title>
+        <title>Shong Sawari</title>
     </programme>
-    <programme start="20250307090000 +0000" stop="20250307093000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250307093000 +0000" stop="20250307100000 +0000" channel="ATN">
-        <title>Music on Demand</title>
+    <programme start="20250307090000 +0000" stop="20250307100000 +0000" channel="ATN">
+        <title>Olot Palot</title>
     </programme>
     <programme start="20250307100000 +0000" stop="20250307103000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+        <title>ATN News</title>
     </programme>
-    <programme start="20250307103000 +0000" stop="20250307114500 +0000" channel="ATN">
-        <title>Quranic Discussion</title>
+    <programme start="20250307103000 +0000" stop="20250307110000 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250307114500 +0000" stop="20250307115000 +0000" channel="ATN">
+    <programme start="20250307110000 +0000" stop="20250307112000 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
+    </programme>
+    <programme start="20250307112000 +0000" stop="20250307113000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250307115000 +0000" stop="20250307122000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+    <programme start="20250307113000 +0000" stop="20250307120000 +0000" channel="ATN">
+        <title>Jhotpot Iftar</title>
     </programme>
-    <programme start="20250307122000 +0000" stop="20250307122500 +0000" channel="ATN">
+    <programme start="20250307120000 +0000" stop="20250307121700 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250307121700 +0000" stop="20250307122200 +0000" channel="ATN">
         <title>Jummah Adhaan</title>
     </programme>
-    <programme start="20250307122500 +0000" stop="20250307140000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+    <programme start="20250307122200 +0000" stop="20250307125000 +0000" channel="ATN">
+        <title>Hamd O Nath</title>
+    </programme>
+    <programme start="20250307125000 +0000" stop="20250307130000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250307130000 +0000" stop="20250307133000 +0000" channel="ATN">
+        <title>Talimul Quran</title>
+    </programme>
+    <programme start="20250307133000 +0000" stop="20250307135000 +0000" channel="ATN">
+        <title>Prophet Story</title>
+    </programme>
+    <programme start="20250307135000 +0000" stop="20250307140000 +0000" channel="ATN">
+        <title>Islamer Batighor</title>
     </programme>
     <programme start="20250307140000 +0000" stop="20250307143000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+        <title>ATN News</title>
     </programme>
-    <programme start="20250307143000 +0000" stop="20250307144500 +0000" channel="ATN">
-        <title>Islami Sawal Jawab</title>
+    <programme start="20250307143000 +0000" stop="20250307153000 +0000" channel="ATN">
+        <title>Heart To Heart</title>
     </programme>
-    <programme start="20250307144500 +0000" stop="20250307145000 +0000" channel="ATN">
+    <programme start="20250307153000 +0000" stop="20250307155800 +0000" channel="ATN">
+        <title>Quran Tilawat</title>
+    </programme>
+    <programme start="20250307155800 +0000" stop="20250307160300 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250307145000 +0000" stop="20250307150000 +0000" channel="ATN">
-        <title>Islami Sawal Jawab</title>
+    <programme start="20250307160300 +0000" stop="20250307163000 +0000" channel="ATN">
+        <title>ATN News</title>
     </programme>
-    <programme start="20250307150000 +0000" stop="20250307153000 +0000" channel="ATN">
-        <title>Sornali Sadakalo</title>
+    <programme start="20250307163000 +0000" stop="20250307164500 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250307153000 +0000" stop="20250307170000 +0000" channel="ATN">
-        <title>Ayesha</title>
+    <programme start="20250307164500 +0000" stop="20250307175500 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250307170000 +0000" stop="20250307171500 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
-    <programme start="20250307171500 +0000" stop="20250307172000 +0000" channel="ATN">
+    <programme start="20250307175500 +0000" stop="20250307180000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250307172000 +0000" stop="20250307173000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
+    <programme start="20250307180000 +0000" stop="20250307181800 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250307173000 +0000" stop="20250307180000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250307181800 +0000" stop="20250307191800 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250307180000 +0000" stop="20250307182500 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250307182500 +0000" stop="20250307184500 +0000" channel="ATN">
-        <title>Ektai Tumi</title>
-    </programme>
-    <programme start="20250307184500 +0000" stop="20250307185000 +0000" channel="ATN">
+    <programme start="20250307191800 +0000" stop="20250307192300 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250307185000 +0000" stop="20250307190000 +0000" channel="ATN">
-        <title>Ektai Tumi</title>
+    <programme start="20250307192300 +0000" stop="20250307234100 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250307190000 +0000" stop="20250307193000 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
-    <programme start="20250307193000 +0000" stop="20250307200000 +0000" channel="ATN">
-        <title>Art &amp; Craft</title>
-    </programme>
-    <programme start="20250307200000 +0000" stop="20250307203000 +0000" channel="ATN">
-        <title>Showbiz World</title>
-    </programme>
-    <programme start="20250307203000 +0000" stop="20250307213000 +0000" channel="ATN">
-        <title>Mon doria</title>
-    </programme>
-    <programme start="20250307213000 +0000" stop="20250307220000 +0000" channel="ATN">
-        <title>ATN Archive</title>
-    </programme>
-    <programme start="20250307220000 +0000" stop="20250307223000 +0000" channel="ATN">
-        <title>Life And Beauty</title>
-    </programme>
-    <programme start="20250307223000 +0000" stop="20250307230000 +0000" channel="ATN">
-        <title>Rehana</title>
-    </programme>
-    <programme start="20250307230000 +0000" stop="20250308000000 +0000" channel="ATN">
-        <title>Mayer Kanna</title>
+    <programme start="20250307234100 +0000" stop="20250308004100 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250306223000 +0000" stop="20250306230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -33858,14 +33846,14 @@
     <programme start="20250307060000 +0000" stop="20250307084500 +0000" channel="SkySp Mix">
         <title>S/Lge: Leigh v Catalans</title>
     </programme>
-    <programme start="20250307084500 +0000" stop="20250307124500 +0000" channel="SkySp Mix">
+    <programme start="20250307084500 +0000" stop="20250307094500 +0000" channel="SkySp Mix">
+        <title>WPL: UP Warriorz v Mumbai I</title>
+    </programme>
+    <programme start="20250307094500 +0000" stop="20250307134500 +0000" channel="SkySp Mix">
         <title>PL Darts: Brighton</title>
     </programme>
-    <programme start="20250307124500 +0000" stop="20250307125500 +0000" channel="SkySp Mix">
+    <programme start="20250307134500 +0000" stop="20250307135000 +0000" channel="SkySp Mix">
         <title>The Best of England v Australia</title>
-    </programme>
-    <programme start="20250307125500 +0000" stop="20250307135000 +0000" channel="SkySp Mix">
-        <title>WPL: UP Warriorz v Mumbai I</title>
     </programme>
     <programme start="20250307135000 +0000" stop="20250307173000 +0000" channel="SkySp Mix">
         <title>Live WPL: Gujarat G v Delhi C</title>
