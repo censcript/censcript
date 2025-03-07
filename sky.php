@@ -1392,10 +1392,13 @@
     <programme start="20250307230500 +0000" stop="20250307233500 +0000" channel="BBC Four HD">
         <title>Tears for Fears: Radio 2 in Concert</title>
     </programme>
-    <programme start="20250307233500 +0000" stop="20250308003500 +0000" channel="BBC Four HD">
+    <programme start="20250307233500 +0000" stop="20250307234000 +0000" channel="BBC Four HD">
         <title>Synth Britannia at the BBC</title>
     </programme>
-    <programme start="20250308003500 +0000" stop="20250308014000 +0000" channel="BBC Four HD">
+    <programme start="20250307234000 +0000" stop="20250308004000 +0000" channel="BBC Four HD">
+        <title>Synth Britannia at the BBC</title>
+    </programme>
+    <programme start="20250308004000 +0000" stop="20250308014000 +0000" channel="BBC Four HD">
         <title>Sparks: 6 Music Festival</title>
     </programme>
     <programme start="20250308014000 +0000" stop="20250308021000 +0000" channel="BBC Four HD">
@@ -6784,7 +6787,7 @@
         <title>Two Doors Down</title>
     </programme>
     <programme start="20250308230000 +0000" stop="20250308233000 +0000" channel="BBCScotlandHD">
-        <title>Chewin the Fat</title>
+        <title>Chewin' the Fat</title>
     </programme>
     <programme start="20250308233000 +0000" stop="20250309003000 +0000" channel="BBCScotlandHD">
         <title>T in the Park: Best Bits</title>
@@ -27039,8 +27042,11 @@
     <programme start="20250308151800 +0000" stop="20250308153000 +0000" channel="Islam Channel">
         <title>Recite Live</title>
     </programme>
-    <programme start="20250308153000 +0000" stop="20250308154700 +0000" channel="Islam Channel">
+    <programme start="20250308153000 +0000" stop="20250308154500 +0000" channel="Islam Channel">
         <title>Quran for Hearts and Minds</title>
+    </programme>
+    <programme start="20250308154500 +0000" stop="20250308154700 +0000" channel="Islam Channel">
+        <title>He is Messenger of God</title>
     </programme>
     <programme start="20250308154700 +0000" stop="20250308160000 +0000" channel="Islam Channel">
         <title>Sarjo</title>
@@ -27049,7 +27055,7 @@
         <title>National Qira'ah Comp Live</title>
     </programme>
     <programme start="20250308163000 +0000" stop="20250308170000 +0000" channel="Islam Channel">
-        <title>Ramadan On Road</title>
+        <title>Salam Ramadan</title>
     </programme>
     <programme start="20250308170000 +0000" stop="20250308175700 +0000" channel="Islam Channel">
         <title>Big Ramadan Show</title>

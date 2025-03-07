@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250307180000 +0000" stop="20250307190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250308045000 +0000" stop="20250308071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Suwon FC v Seoul</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323115000 +0000" stop="20250323141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250323125000 +0000" stop="20250323161000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Bayern Munich v Hoffenheim</title>
     </programme>
 </tv>
