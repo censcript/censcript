@@ -17758,10 +17758,13 @@
         <title>Walsingham Stories</title>
     </programme>
     <programme start="20250308050000 +0000" stop="20250308053000 +0000" channel="EWTN Catholic">
-        <title>The Holy Land Rosary</title>
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250308053000 +0000" stop="20250308060000 +0000" channel="EWTN Catholic">
+    <programme start="20250308053000 +0000" stop="20250308054500 +0000" channel="EWTN Catholic">
         <title>Chaplet of St Michael</title>
+    </programme>
+    <programme start="20250308054500 +0000" stop="20250308060000 +0000" channel="EWTN Catholic">
+        <title>Voice of the Pastor</title>
     </programme>
     <programme start="20250308060000 +0000" stop="20250308070000 +0000" channel="EWTN Catholic">
         <title>Mother Angelica Live Classics</title>
@@ -17841,8 +17844,11 @@
     <programme start="20250308193000 +0000" stop="20250308200000 +0000" channel="EWTN Catholic">
         <title>Children's Rosary</title>
     </programme>
-    <programme start="20250308200000 +0000" stop="20250308210000 +0000" channel="EWTN Catholic">
-        <title>Franciscan University Presents</title>
+    <programme start="20250308200000 +0000" stop="20250308204500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250308204500 +0000" stop="20250308210000 +0000" channel="EWTN Catholic">
+        <title>Into The Breach: The Mission of The Family</title>
     </programme>
     <programme start="20250308210000 +0000" stop="20250308213000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
@@ -25603,7 +25609,7 @@
         <title>Kya Boltey Hai Tarey</title>
     </programme>
     <programme start="20250308160000 +0000" stop="20250308170000 +0000" channel="MATV National">
-        <title>Bhajan Mala</title>
+        <title>Health is Wealth</title>
     </programme>
     <programme start="20250308170000 +0000" stop="20250308171000 +0000" channel="MATV National">
         <title>Hanuman Chalisa</title>
@@ -28614,8 +28620,11 @@
     <programme start="20250308093000 +0000" stop="20250308094500 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250308094500 +0000" stop="20250308110000 +0000" channel="Kanshi TV">
+    <programme start="20250308094500 +0000" stop="20250308104500 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
+    </programme>
+    <programme start="20250308104500 +0000" stop="20250308110000 +0000" channel="Kanshi TV">
+        <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
     <programme start="20250308110000 +0000" stop="20250308120000 +0000" channel="Kanshi TV">
         <title>Jyotish Amrit Mata - Astrologer</title>
@@ -35586,8 +35595,11 @@
     <programme start="20250307215500 +0000" stop="20250308031000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2's Piano Room 2025: Week 4</title>
     </programme>
-    <programme start="20250308031000 +0000" stop="20250308061000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250308031000 +0000" stop="20250308060500 +0000" channel="BBC RB 1 HD">
         <title>Radio 2's Piano Room 2025: Week 4</title>
+    </programme>
+    <programme start="20250308060500 +0000" stop="20250308061000 +0000" channel="BBC RB 1 HD">
+        <title>This is BBC Red Button</title>
     </programme>
     <programme start="20250308061000 +0000" stop="20250308080000 +0000" channel="BBC RB 1 HD">
         <title>Radio 2 Piano Room 2025: Week 4</title>
