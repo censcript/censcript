@@ -1131,6 +1131,132 @@
     <programme start="20250309144000 +0000" stop="20250308171900 +0000" channel="Fight TV Premium.cubmu">
         <title>TNA Wrestling - 10 Reunion</title>
     </programme>
+    <programme start="20250308170200 +0000" stop="20250308175000 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Sonoma, California</title>
+    </programme>
+    <programme start="20250308175000 +0000" stop="20250308180000 +0000" channel="Speed TV.cubmu">
+        <title>Crash Test</title>
+    </programme>
+    <programme start="20250308180000 +0000" stop="20250308182500 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250308182500 +0000" stop="20250308184500 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250308184500 +0000" stop="20250308190000 +0000" channel="Speed TV.cubmu">
+        <title>Motorsports reviews</title>
+    </programme>
+    <programme start="20250308190000 +0000" stop="20250308194800 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Summit Point, West Virginia</title>
+    </programme>
+    <programme start="20250308194800 +0000" stop="20250308200630 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250308200630 +0000" stop="20250308205200 +0000" channel="Speed TV.cubmu">
+        <title>Fine Tuned</title>
+    </programme>
+    <programme start="20250308205200 +0000" stop="20250308214000 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Wall, New Jersey</title>
+    </programme>
+    <programme start="20250308214000 +0000" stop="20250309000000 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309000000 +0000" stop="20250309004800 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Atlanta, Georgia</title>
+    </programme>
+    <programme start="20250309004800 +0000" stop="20250309011700 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309011700 +0000" stop="20250309020200 +0000" channel="Speed TV.cubmu">
+        <title>Fine Tuned</title>
+    </programme>
+    <programme start="20250309020200 +0000" stop="20250309030200 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309030200 +0000" stop="20250309032000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309032000 +0000" stop="20250309033500 +0000" channel="Speed TV.cubmu">
+        <title>Motorsports reviews</title>
+    </programme>
+    <programme start="20250309033500 +0000" stop="20250309034500 +0000" channel="Speed TV.cubmu">
+        <title>Crash Test</title>
+    </programme>
+    <programme start="20250309034500 +0000" stop="20250309041500 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250309041500 +0000" stop="20250309045700 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309045700 +0000" stop="20250309054500 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Englishtown, New Jersey</title>
+    </programme>
+    <programme start="20250309054500 +0000" stop="20250309063000 +0000" channel="Speed TV.cubmu">
+        <title>Fine Tuned</title>
+    </programme>
+    <programme start="20250309063000 +0000" stop="20250309070000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309070000 +0000" stop="20250309074500 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309074500 +0000" stop="20250309075500 +0000" channel="Speed TV.cubmu">
+        <title>Crash Test</title>
+    </programme>
+    <programme start="20250309075500 +0000" stop="20250309082500 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250309082500 +0000" stop="20250309085000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309085000 +0000" stop="20250309090500 +0000" channel="Speed TV.cubmu">
+        <title>Motorsports reviews</title>
+    </programme>
+    <programme start="20250309090500 +0000" stop="20250309095300 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Irwindale, California</title>
+    </programme>
+    <programme start="20250309095300 +0000" stop="20250309103800 +0000" channel="Speed TV.cubmu">
+        <title>Fine Tuned</title>
+    </programme>
+    <programme start="20250309103800 +0000" stop="20250309110000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309110000 +0000" stop="20250309115500 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309115500 +0000" stop="20250309122500 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250309122500 +0000" stop="20250309125000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309125000 +0000" stop="20250309130200 +0000" channel="Speed TV.cubmu">
+        <title>Motorsports reviews</title>
+    </programme>
+    <programme start="20250309130200 +0000" stop="20250309135000 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Long Beach, California</title>
+    </programme>
+    <programme start="20250309135000 +0000" stop="20250309140000 +0000" channel="Speed TV.cubmu">
+        <title>Crash Test</title>
+    </programme>
+    <programme start="20250309140000 +0000" stop="20250309142500 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250309142500 +0000" stop="20250309145000 +0000" channel="Speed TV.cubmu">
+        <title>Expert opinions</title>
+    </programme>
+    <programme start="20250309145000 +0000" stop="20250309151200 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
+    <programme start="20250309151200 +0000" stop="20250309160000 +0000" channel="Speed TV.cubmu">
+        <title>Formula Drift - Monroe, Washington</title>
+    </programme>
+    <programme start="20250309160000 +0000" stop="20250309163600 +0000" channel="Speed TV.cubmu">
+        <title>Xtrem Motorsports</title>
+    </programme>
+    <programme start="20250309163600 +0000" stop="20250308170200 +0000" channel="Speed TV.cubmu">
+        <title>Automotive Club</title>
+    </programme>
     <programme start="20250308170000 +0000" stop="20250308173000 +0000" channel="Fashion TV.cubmu">
         <title>Swimwear</title>
     </programme>
