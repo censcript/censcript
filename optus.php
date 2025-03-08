@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308145000 +0000" stop="20250308172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
-    <programme start="20250308145000 +0000" stop="20250308171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Liverpool v Southampton</title>
-    </programme>
-    <programme start="20250308145000 +0000" stop="20250308171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Crystal Palace v Ipswich</title>
-    </programme>
-    <programme start="20250308145000 +0000" stop="20250308171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Brighton v Fulham</title>
-    </programme>
     <programme start="20250308172000 +0000" stop="20250308195000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brentford v Aston Villa</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Scotland v Greece</title>
+    </programme>
+    <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA Nations League - Serbia v Austria</title>
+    </programme>
+    <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA Nations League - Hungary v Turkiye</title>
+    </programme>
+    <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Nations League - Slovenia v Slovakia</title>
+    </programme>
+    <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA Nations League - Iceland v Kosovo</title>
     </programme>
 </tv>
