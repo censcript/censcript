@@ -26515,10 +26515,13 @@
         <title>World News</title>
     </programme>
     <programme start="20250308182500 +0000" stop="20250308183500 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Ramadhan</title>
+        <title>Tilawat</title>
     </programme>
-    <programme start="20250308183500 +0000" stop="20250308194500 +0000" channel="MTA1 World HD">
+    <programme start="20250308183500 +0000" stop="20250308192500 +0000" channel="MTA1 World HD">
         <title>Huzoor Ke Saath Nashist</title>
+    </programme>
+    <programme start="20250308192500 +0000" stop="20250308194500 +0000" channel="MTA1 World HD">
+        <title>Peace Symposium 2023</title>
     </programme>
     <programme start="20250308194500 +0000" stop="20250308195500 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>

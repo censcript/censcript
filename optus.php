@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308045000 +0000" stop="20250308071000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Suwon FC v Seoul</title>
-    </programme>
-    <programme start="20250308045500 +0000" stop="20250308071000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Urawa Red Diamonds v Fagiano Okayama</title>
-    </programme>
     <programme start="20250308055500 +0000" stop="20250308081000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Gamba v Shimizu</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250323125000 +0000" stop="20250323161000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Bayern Munich v Hoffenheim</title>
+    </programme>
+    <programme start="20250323135000 +0000" stop="20250323161000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Georgia v Armenia</title>
+    </programme>
+    <programme start="20250323142000 +0000" stop="20250323164000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Hamburg v Werder Bremen</title>
     </programme>
 </tv>
