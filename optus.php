@@ -48,9 +48,6 @@
     <programme start="20250309162000 +0000" stop="20250309193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester United v Arsenal</title>
     </programme>
-    <programme start="20250309193000 +0000" stop="20250309223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - West Ham United v Newcastle United</title>
-    </programme>
     <programme start="20250309203000 +0000" stop="20250309220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -59,6 +56,9 @@
     </programme>
     <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250310193000 +0000" stop="20250310223000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - West Ham United v Newcastle United</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Final Word</title>
