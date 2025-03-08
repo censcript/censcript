@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308195000 +0000" stop="20250308223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Wolverhampton Wanderers v Everton</title>
-    </programme>
     <programme start="20250308223000 +0000" stop="20250308233000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Nations League - Germany v Italy</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA Nations League - Portugal v Denmark</title>
     </programme>
 </tv>
