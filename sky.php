@@ -28561,7 +28561,7 @@
         <title>News Point</title>
     </programme>
     <programme start="20250308160000 +0000" stop="20250308170000 +0000" channel="Akaal Channel">
-        <title>Weekly Langar Sewa MP</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250308170000 +0000" stop="20250308173000 +0000" channel="Akaal Channel">
         <title>Live: Suneha</title>
@@ -28576,7 +28576,7 @@
         <title>Sikh Relief</title>
     </programme>
     <programme start="20250308190000 +0000" stop="20250308200000 +0000" channel="Akaal Channel">
-        <title>Live:Sikligar Vanjare Gurdwara Seva</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250308200000 +0000" stop="20250308210000 +0000" channel="Akaal Channel">
         <title>Live: Mudhe</title>
