@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308172000 +0000" stop="20250308195000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brentford v Aston Villa</title>
-    </programme>
     <programme start="20250308195000 +0000" stop="20250308223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Wolverhampton Wanderers v Everton</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 6.optus">
         <title>UEFA Nations League - Iceland v Kosovo</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Nations League - Germany v Italy</title>
     </programme>
 </tv>
