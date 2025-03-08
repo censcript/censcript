@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308055500 +0000" stop="20250308081000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Gamba v Shimizu</title>
-    </programme>
     <programme start="20250308065500 +0000" stop="20250308091000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Cerezo v Nagoya</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323142000 +0000" stop="20250323164000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Hamburg v Werder Bremen</title>
+    </programme>
+    <programme start="20250323142000 +0000" stop="20250323164000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Manchester City v Chelsea</title>
     </programme>
 </tv>

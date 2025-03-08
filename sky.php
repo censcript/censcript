@@ -26514,17 +26514,11 @@
     <programme start="20250308180500 +0000" stop="20250308182500 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250308182500 +0000" stop="20250308183500 +0000" channel="MTA1 World HD">
+    <programme start="20250308182500 +0000" stop="20250308192500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250308183500 +0000" stop="20250308192500 +0000" channel="MTA1 World HD">
-        <title>Huzoor Ke Saath Nashist</title>
-    </programme>
-    <programme start="20250308192500 +0000" stop="20250308194500 +0000" channel="MTA1 World HD">
+    <programme start="20250308192500 +0000" stop="20250308195500 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2023</title>
-    </programme>
-    <programme start="20250308194500 +0000" stop="20250308195500 +0000" channel="MTA1 World HD">
-        <title>Al Asma'ul Husna</title>
     </programme>
     <programme start="20250308195500 +0000" stop="20250308204000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
@@ -36904,7 +36898,7 @@
         <title>Swarzy</title>
     </programme>
     <programme start="20250308100000 +0000" stop="20250308130000 +0000" channel="BBC R1X">
-        <title>Nick Bright</title>
+        <title>CassKidd</title>
     </programme>
     <programme start="20250308130000 +0000" stop="20250308160000 +0000" channel="BBC R1X">
         <title>Joelah Noble</title>
