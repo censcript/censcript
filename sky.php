@@ -27367,7 +27367,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250308161000 +0000" stop="20250308170000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250308170000 +0000" stop="20250308170500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
