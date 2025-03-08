@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308072000 +0000" stop="20250308094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Daegu v Daejeon</title>
-    </programme>
     <programme start="20250308113000 +0000" stop="20250308145000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Manchester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323145500 +0000" stop="20250323171000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Leicester v Brighton and Hove Albion</title>
+    </programme>
+    <programme start="20250323162000 +0000" stop="20250323184000 +0000" channel="Optus Sport 10.optus">
+        <title>Women&#039;s Super League - Aston Villa v Manchester United</title>
     </programme>
 </tv>

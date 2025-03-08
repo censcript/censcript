@@ -37005,7 +37005,10 @@
     <programme start="20250308163000 +0000" stop="20250308184500 +0000" channel="BBC R5SX">
         <title>Rugby Union</title>
     </programme>
-    <programme start="20250308184500 +0000" stop="20250308194500 +0000" channel="BBC R5SX">
+    <programme start="20250308184500 +0000" stop="20250308220000 +0000" channel="BBC R5SX">
+        <title>Coming Up On 5 Sports Extra</title>
+    </programme>
+    <programme start="20250308220000 +0000" stop="20250308230000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250307190000 +0000" stop="20250307230000 +0000" channel="Heart Dance">
