@@ -13371,8 +13371,8 @@
     <programme start="20250309214500 +0000" stop="20250309224500 +0000" channel="TNT Sports 1">
         <title>UFC 313 - Pereira vs Ankalaev</title>
     </programme>
-    <programme start="20250308220000 +0000" stop="20250308230000 +0000" channel="TNT Sports 2">
-        <title>Melbourne Victory v CC Mariners</title>
+    <programme start="20250308210000 +0000" stop="20250308230000 +0000" channel="TNT Sports 2">
+        <title>Snooker World Grand Prix</title>
     </programme>
     <programme start="20250308230000 +0000" stop="20250309013000 +0000" channel="TNT Sports 2">
         <title>Live NBA: Nets @ Hornets</title>
@@ -29004,122 +29004,86 @@
     <programme start="20250309053000 +0000" stop="20250309060000 +0000" channel="TV One">
         <title>Charity Documentary</title>
     </programme>
-    <programme start="20250309060000 +0000" stop="20250309073000 +0000" channel="TV One">
-        <title>Quran Class</title>
-    </programme>
-    <programme start="20250309073000 +0000" stop="20250309074500 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250309074500 +0000" stop="20250309080000 +0000" channel="TV One">
-        <title>Story Time with Sarah</title>
-    </programme>
-    <programme start="20250309080000 +0000" stop="20250309081500 +0000" channel="TV One">
-        <title>Quraner Paray</title>
-    </programme>
-    <programme start="20250309081500 +0000" stop="20250309090500 +0000" channel="TV One">
+    <programme start="20250309060000 +0000" stop="20250309070000 +0000" channel="TV One">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250309090500 +0000" stop="20250309092000 +0000" channel="TV One">
-        <title>The Miraculous Night Journey</title>
+    <programme start="20250309070000 +0000" stop="20250309073000 +0000" channel="TV One">
+        <title>Ramadan Moments</title>
     </programme>
-    <programme start="20250309092000 +0000" stop="20250309093000 +0000" channel="TV One">
-        <title>Words of Wisdom</title>
+    <programme start="20250309073000 +0000" stop="20250309083000 +0000" channel="TV One">
+        <title>One Q&amp;A</title>
+    </programme>
+    <programme start="20250309083000 +0000" stop="20250309084500 +0000" channel="TV One">
+        <title>Ramadan Nasheed</title>
+    </programme>
+    <programme start="20250309084500 +0000" stop="20250309090000 +0000" channel="TV One">
+        <title>Charity Documentary</title>
+    </programme>
+    <programme start="20250309090000 +0000" stop="20250309093000 +0000" channel="TV One">
+        <title>Ampara O Jibon</title>
     </programme>
     <programme start="20250309093000 +0000" stop="20250309094500 +0000" channel="TV One">
-        <title>Praner Sur</title>
+        <title>Ramadan Nasheed</title>
     </programme>
-    <programme start="20250309094500 +0000" stop="20250309100500 +0000" channel="TV One">
-        <title>Zuhr Prayer Live from Kabah</title>
+    <programme start="20250309094500 +0000" stop="20250309100000 +0000" channel="TV One">
+        <title>Quraner Paray</title>
     </programme>
-    <programme start="20250309100500 +0000" stop="20250309103000 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
+    <programme start="20250309100000 +0000" stop="20250309104500 +0000" channel="TV One">
+        <title>Khatme Quran</title>
     </programme>
-    <programme start="20250309103000 +0000" stop="20250309110000 +0000" channel="TV One">
-        <title>TV One News</title>
+    <programme start="20250309104500 +0000" stop="20250309110000 +0000" channel="TV One">
+        <title>Hadiser Shistachar</title>
     </programme>
-    <programme start="20250309110000 +0000" stop="20250309120000 +0000" channel="TV One">
-        <title>One Q&amp;A</title>
+    <programme start="20250309110000 +0000" stop="20250309121600 +0000" channel="TV One">
+        <title>The Voice Of Oneness</title>
     </programme>
-    <programme start="20250309120000 +0000" stop="20250309122000 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250309122000 +0000" stop="20250309123000 +0000" channel="TV One">
+    <programme start="20250309121600 +0000" stop="20250309122500 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250309123000 +0000" stop="20250309130000 +0000" channel="TV One">
-        <title>In The Shade of Islam</title>
+    <programme start="20250309122500 +0000" stop="20250309130000 +0000" channel="TV One">
+        <title>The Voice Of Oneness</title>
     </programme>
     <programme start="20250309130000 +0000" stop="20250309133000 +0000" channel="TV One">
-        <title>Asr Prayer Live from Kabah</title>
+        <title>Qurane Joto Golpo</title>
     </programme>
-    <programme start="20250309133000 +0000" stop="20250309141500 +0000" channel="TV One">
-        <title>360 Degree</title>
+    <programme start="20250309133000 +0000" stop="20250309140000 +0000" channel="TV One">
+        <title>Secred Steps</title>
     </programme>
-    <programme start="20250309141500 +0000" stop="20250309143000 +0000" channel="TV One">
-        <title>Imam Naseeha</title>
-    </programme>
-    <programme start="20250309143000 +0000" stop="20250309150000 +0000" channel="TV One">
-        <title>Aloconay Saban And Ramadan</title>
-    </programme>
-    <programme start="20250309150000 +0000" stop="20250309152800 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250309152800 +0000" stop="20250309153500 +0000" channel="TV One">
-        <title>Asr Azaan</title>
-    </programme>
-    <programme start="20250309153500 +0000" stop="20250309163500 +0000" channel="TV One">
-        <title>Legal Helpline</title>
-    </programme>
-    <programme start="20250309163500 +0000" stop="20250309164500 +0000" channel="TV One">
-        <title>Story Time with Sarah</title>
-    </programme>
-    <programme start="20250309164500 +0000" stop="20250309170000 +0000" channel="TV One">
-        <title>Nouman Ali Khan:Illustrated</title>
-    </programme>
-    <programme start="20250309170000 +0000" stop="20250309172100 +0000" channel="TV One">
-        <title>Praner Sur</title>
-    </programme>
-    <programme start="20250309172100 +0000" stop="20250309173000 +0000" channel="TV One">
-        <title>Asr Azaan</title>
-    </programme>
-    <programme start="20250309173000 +0000" stop="20250309183000 +0000" channel="TV One">
-        <title>Back stage</title>
-    </programme>
-    <programme start="20250309183000 +0000" stop="20250309185100 +0000" channel="TV One">
-        <title>Evening News</title>
-    </programme>
-    <programme start="20250309185100 +0000" stop="20250309190000 +0000" channel="TV One">
-        <title>Isha Azaan</title>
-    </programme>
-    <programme start="20250309190000 +0000" stop="20250309200000 +0000" channel="TV One">
+    <programme start="20250309140000 +0000" stop="20250309150000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250309200000 +0000" stop="20250309203000 +0000" channel="TV One">
-        <title>Community News</title>
+    <programme start="20250309150000 +0000" stop="20250309153000 +0000" channel="TV One">
+        <title>Ramadan- Spotlight</title>
     </programme>
-    <programme start="20250309203000 +0000" stop="20250309213000 +0000" channel="TV One">
-        <title>Bbpo</title>
+    <programme start="20250309153000 +0000" stop="20250309160000 +0000" channel="TV One">
+        <title>Ramadan Quiz Time</title>
     </programme>
-    <programme start="20250309213000 +0000" stop="20250309220000 +0000" channel="TV One">
-        <title>Aloconay Saban And Ramadan</title>
+    <programme start="20250309160000 +0000" stop="20250309160500 +0000" channel="TV One">
+        <title>Asr Azaan</title>
     </programme>
-    <programme start="20250309220000 +0000" stop="20250309223000 +0000" channel="TV One">
+    <programme start="20250309160500 +0000" stop="20250309163000 +0000" channel="TV One">
+        <title>Ramadan Quiz Time</title>
+    </programme>
+    <programme start="20250309163000 +0000" stop="20250309170000 +0000" channel="TV One">
+        <title>Living with Quran</title>
+    </programme>
+    <programme start="20250309170000 +0000" stop="20250309175800 +0000" channel="TV One">
+        <title>Live Charity With Islamic Help</title>
+    </programme>
+    <programme start="20250309175800 +0000" stop="20250309180500 +0000" channel="TV One">
+        <title>Maghrib Azaan</title>
+    </programme>
+    <programme start="20250309180500 +0000" stop="20250309183000 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250309223000 +0000" stop="20250309224500 +0000" channel="TV One">
-        <title>Praner Sur</title>
+    <programme start="20250309183000 +0000" stop="20250309193000 +0000" channel="TV One">
+        <title>Live Charity With Islamic Help</title>
     </programme>
-    <programme start="20250309224500 +0000" stop="20250309230000 +0000" channel="TV One">
-        <title>The Miraculous Night Journey</title>
+    <programme start="20250309193000 +0000" stop="20250309194000 +0000" channel="TV One">
+        <title>Isha Azaan</title>
     </programme>
-    <programme start="20250309230000 +0000" stop="20250309234000 +0000" channel="TV One">
-        <title>360 Degree</title>
-    </programme>
-    <programme start="20250309234000 +0000" stop="20250309235500 +0000" channel="TV One">
-        <title>Words of Wisdom</title>
-    </programme>
-    <programme start="20250309235500 +0000" stop="20250310005500 +0000" channel="TV One">
-        <title>Documentary - Zam zam</title>
+    <programme start="20250309194000 +0000" stop="20250309204000 +0000" channel="TV One">
+        <title>Live Charity With Islamic Help</title>
     </programme>
     <programme start="20250308223400 +0000" stop="20250308233400 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
@@ -29191,7 +29155,7 @@
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250309160600 +0000" stop="20250309170000 +0000" channel="iON TV">
-        <title>Ramadan Kareem</title>
+        <title>iON Exclusive</title>
     </programme>
     <programme start="20250309170000 +0000" stop="20250309175800 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
@@ -32607,8 +32571,8 @@
     <programme start="20250309214500 +0000" stop="20250309224500 +0000" channel="TNTSports1 HD">
         <title>UFC 313 - Pereira vs Ankalaev</title>
     </programme>
-    <programme start="20250308220000 +0000" stop="20250308230000 +0000" channel="TNTSports2 HD">
-        <title>Melbourne Victory v CC Mariners</title>
+    <programme start="20250308210000 +0000" stop="20250308230000 +0000" channel="TNTSports2 HD">
+        <title>Snooker World Grand Prix</title>
     </programme>
     <programme start="20250308230000 +0000" stop="20250309013000 +0000" channel="TNTSports2 HD">
         <title>Live NBA: Nets @ Hornets</title>
