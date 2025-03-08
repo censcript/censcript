@@ -27028,12 +27028,9 @@
         <title>IslamiQA Live</title>
     </programme>
     <programme start="20250308130000 +0000" stop="20250308131000 +0000" channel="Islam Channel">
-        <title>Live Prayers from Makkah: Asr</title>
-    </programme>
-    <programme start="20250308131000 +0000" stop="20250308131500 +0000" channel="Islam Channel">
         <title>Come Iftar With Me</title>
     </programme>
-    <programme start="20250308131500 +0000" stop="20250308133000 +0000" channel="Islam Channel">
+    <programme start="20250308131000 +0000" stop="20250308133000 +0000" channel="Islam Channel">
         <title>5 Pillars Pop Quiz</title>
     </programme>
     <programme start="20250308133000 +0000" stop="20250308140000 +0000" channel="Islam Channel">
