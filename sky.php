@@ -1291,7 +1291,7 @@
         <title>Office (U.S.), The S1</title>
     </programme>
     <programme start="20250308140001 +0000" stop="20250308142500 +0000" channel="Sky Comedy HD">
-        <title>Office (U.S.), The S1</title>
+        <title>The Office (US)</title>
     </programme>
     <programme start="20250308142500 +0000" stop="20250308151000 +0000" channel="Sky Comedy HD">
         <title>The Righteous Gemstones</title>
@@ -1299,11 +1299,11 @@
     <programme start="20250308151000 +0000" stop="20250308155001 +0000" channel="Sky Comedy HD">
         <title>The Righteous Gemstones</title>
     </programme>
-    <programme start="20250308155001 +0000" stop="20250308161501 +0000" channel="Sky Comedy HD">
-        <title>Office (U.S.), The S2</title>
+    <programme start="20250308155001 +0000" stop="20250308161500 +0000" channel="Sky Comedy HD">
+        <title>The Office (US)</title>
     </programme>
-    <programme start="20250308161501 +0000" stop="20250308164000 +0000" channel="Sky Comedy HD">
-        <title>Office (U.S.), The S2</title>
+    <programme start="20250308161500 +0000" stop="20250308164000 +0000" channel="Sky Comedy HD">
+        <title>The Office (US)</title>
     </programme>
     <programme start="20250308164000 +0000" stop="20250308172000 +0000" channel="Sky Comedy HD">
         <title>Curb Your Enthusiasm</title>
@@ -31168,7 +31168,7 @@
         <title>Office (U.S.), The S1</title>
     </programme>
     <programme start="20250308140001 +0000" stop="20250308142500 +0000" channel="Sky Comedy">
-        <title>Office (U.S.), The S1</title>
+        <title>The Office (US)</title>
     </programme>
     <programme start="20250308142500 +0000" stop="20250308151000 +0000" channel="Sky Comedy">
         <title>The Righteous Gemstones</title>
@@ -31176,11 +31176,11 @@
     <programme start="20250308151000 +0000" stop="20250308155001 +0000" channel="Sky Comedy">
         <title>The Righteous Gemstones</title>
     </programme>
-    <programme start="20250308155001 +0000" stop="20250308161501 +0000" channel="Sky Comedy">
-        <title>Office (U.S.), The S2</title>
+    <programme start="20250308155001 +0000" stop="20250308161500 +0000" channel="Sky Comedy">
+        <title>The Office (US)</title>
     </programme>
-    <programme start="20250308161501 +0000" stop="20250308164000 +0000" channel="Sky Comedy">
-        <title>Office (U.S.), The S2</title>
+    <programme start="20250308161500 +0000" stop="20250308164000 +0000" channel="Sky Comedy">
+        <title>The Office (US)</title>
     </programme>
     <programme start="20250308164000 +0000" stop="20250308172000 +0000" channel="Sky Comedy">
         <title>Curb Your Enthusiasm</title>
