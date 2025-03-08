@@ -27679,10 +27679,10 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250308110000 +0000" stop="20250308120000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250308120000 +0000" stop="20250308130000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250308130000 +0000" stop="20250308140000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -27691,7 +27691,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250308150000 +0000" stop="20250308160000 +0000" channel="Takbeer TV">
-        <title>Warafana Laka Zikrak</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250308160000 +0000" stop="20250308170000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
