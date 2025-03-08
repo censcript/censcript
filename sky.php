@@ -26136,11 +26136,8 @@
     <programme start="20250309083000 +0000" stop="20250309090500 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250309090500 +0000" stop="20250309094000 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
-    </programme>
-    <programme start="20250309094000 +0000" stop="20250309100000 +0000" channel="MTA1 World HD">
-        <title>Aal-e-Rasool</title>
+    <programme start="20250309090500 +0000" stop="20250309100000 +0000" channel="MTA1 World HD">
+        <title>Qur'an Tips</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309103000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
