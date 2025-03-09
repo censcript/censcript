@@ -27759,10 +27759,7 @@
     <programme start="20250309122400 +0000" stop="20250309133000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250309133000 +0000" stop="20250309143000 +0000" channel="Eman Channel">
-        <title>Juzz Amma Revision</title>
-    </programme>
-    <programme start="20250309143000 +0000" stop="20250309151400 +0000" channel="Eman Channel">
+    <programme start="20250309133000 +0000" stop="20250309151400 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250309151400 +0000" stop="20250309152200 +0000" channel="Eman Channel">
@@ -34132,7 +34129,7 @@
         <title>Sunday with Laura Kuenssberg</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309103000 +0000" channel="BBC One WM HD">
-        <title>Politics East Midlands</title>
+        <title>Politics Midlands</title>
     </programme>
     <programme start="20250309103000 +0000" stop="20250309113000 +0000" channel="BBC One WM HD">
         <title>Sunday Morning Live</title>
@@ -34219,7 +34216,7 @@
         <title>Sunday with Laura Kuenssberg</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309103000 +0000" channel="BBC One EMidHD">
-        <title>Politics Midlands</title>
+        <title>Politics East Midlands</title>
     </programme>
     <programme start="20250309103000 +0000" stop="20250309113000 +0000" channel="BBC One EMidHD">
         <title>Sunday Morning Live</title>
@@ -36653,9 +36650,6 @@
     </programme>
     <programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="TWR">
         <title>TWR Focus</title>
-    </programme>
-    <programme start="20250308130000 +0000" stop="20250309090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250309090000 +0000" stop="20250309093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
