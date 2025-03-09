@@ -35550,8 +35550,11 @@
     <programme start="20250309010000 +0000" stop="20250309060000 +0000" channel="BBC R5L">
         <title>Johnny I'Anson</title>
     </programme>
-    <programme start="20250309060000 +0000" stop="20250309100000 +0000" channel="BBC R5L">
+    <programme start="20250309060000 +0000" stop="20250309070000 +0000" channel="BBC R5L">
         <title>The Martin Lewis Podcast</title>
+    </programme>
+    <programme start="20250309070000 +0000" stop="20250309100000 +0000" channel="BBC R5L">
+        <title>Sunday Breakfast</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309120000 +0000" channel="BBC R5L">
         <title>Colin Murray</title>
@@ -35820,7 +35823,10 @@
     <programme start="20250309053230 +0000" stop="20250309060600 +0000" channel="BBC World Sv">
         <title>The Documentary</title>
     </programme>
-    <programme start="20250309060600 +0000" stop="20250309080000 +0000" channel="BBC World Sv">
+    <programme start="20250309060600 +0000" stop="20250309070600 +0000" channel="BBC World Sv">
+        <title>Weekend</title>
+    </programme>
+    <programme start="20250309070600 +0000" stop="20250309080000 +0000" channel="BBC World Sv">
         <title>Weekend</title>
     </programme>
     <programme start="20250309080000 +0000" stop="20250309080600 +0000" channel="BBC World Sv">
