@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Manchester City v Aston Villa</title>
-    </programme>
     <programme start="20250309130000 +0000" stop="20250309162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 7.optus">
         <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
     </programme>
 </tv>
