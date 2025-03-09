@@ -28134,14 +28134,8 @@
     <programme start="20250309090000 +0000" stop="20250309093000 +0000" channel="Sangat">
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
     </programme>
-    <programme start="20250309093000 +0000" stop="20250309100000 +0000" channel="Sangat">
-        <title>Jyoti Saroop</title>
-    </programme>
-    <programme start="20250309100000 +0000" stop="20250309103000 +0000" channel="Sangat">
-        <title>Nirmal Soch</title>
-    </programme>
-    <programme start="20250309103000 +0000" stop="20250309113000 +0000" channel="Sangat">
-        <title>Katha Sri Suraj Parkash</title>
+    <programme start="20250309093000 +0000" stop="20250309113000 +0000" channel="Sangat">
+        <title>Salana Barsi Samagam</title>
     </programme>
     <programme start="20250309113000 +0000" stop="20250309130000 +0000" channel="Sangat">
         <title>Sukhmani Sahib</title>

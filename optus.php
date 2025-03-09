@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309072000 +0000" stop="20250309094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeonbuk v Gangwon</title>
-    </programme>
     <programme start="20250309122000 +0000" stop="20250309154000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Manchester City v Aston Villa</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA Nations League - Belgium v Ukraine</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 7.optus">
+        <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
     </programme>
 </tv>
