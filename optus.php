@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309130000 +0000" stop="20250309162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Tottenham Hotspur v Bournemouth</title>
-    </programme>
-    <programme start="20250309135000 +0000" stop="20250309161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Chelsea v Leicester City</title>
-    </programme>
     <programme start="20250309162000 +0000" stop="20250309193000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester United v Arsenal</title>
     </programme>
@@ -299,5 +290,14 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>
