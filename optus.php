@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309203000 +0000" stop="20250309220000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -210,14 +207,50 @@
     <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 10.optus">
         <title>UEFA Nations League - Kosovo v Iceland</title>
     </programme>
+    <programme start="20250321165000 +0000" stop="20250321191000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Cyprus v San Marino</title>
+    </programme>
+    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - England v Albania</title>
+    </programme>
+    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Andorra v Latvia</title>
+    </programme>
+    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Romania v Bosnia-Herzegovina</title>
+    </programme>
+    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Poland v Lithuania</title>
+    </programme>
+    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - Malta v Finland</title>
+    </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
+    </programme>
+    <programme start="20250322135000 +0000" stop="20250322161000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Liechtenstein v North Macedonia</title>
     </programme>
     <programme start="20250322135500 +0000" stop="20250322161000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Everton v Crystal Palace</title>
     </programme>
+    <programme start="20250322165000 +0000" stop="20250322191000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Montenegro v Gibraltar</title>
+    </programme>
+    <programme start="20250322165000 +0000" stop="20250322191000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Moldova v Norway</title>
+    </programme>
     <programme start="20250322172000 +0000" stop="20250322194000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Arsenal v Liverpool</title>
+    </programme>
+    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Czechia v Faroe Islands</title>
+    </programme>
+    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Wales v Kazakhstan</title>
+    </programme>
+    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Israel v Estonia</title>
     </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
@@ -266,38 +299,5 @@
     </programme>
     <programme start="20250323165000 +0000" stop="20250323191000 +0000" channel="Optus Sport 6.optus">
         <title>UEFA Nations League - Iceland v Kosovo</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Nations League - Germany v Italy</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA Nations League - Portugal v Denmark</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - France v Croatia</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Nations League - Spain v Netherlands</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA Nations League - Belgium v Ukraine</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 7.optus">
-        <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Gotham FC</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Washington Spirit v Bay FC</title>
-    </programme>
-    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Seoul v Daegu</title>
     </programme>
 </tv>
