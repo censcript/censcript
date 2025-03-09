@@ -14374,7 +14374,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250309113000 +0000" stop="20250309120000 +0000" channel="BBC NEWS HD">
-        <title>The President's Path</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250309120000 +0000" stop="20250309123000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -28138,7 +28138,7 @@
         <title>Salana Barsi Samagam</title>
     </programme>
     <programme start="20250309113000 +0000" stop="20250309130000 +0000" channel="Sangat">
-        <title>Sukhmani Sahib</title>
+        <title>Salana Barsi Samagam</title>
     </programme>
     <programme start="20250309130000 +0000" stop="20250309140000 +0000" channel="Sangat">
         <title>Barsi Samagam</title>
@@ -36702,7 +36702,13 @@
     <programme start="20250309084500 +0000" stop="20250309170000 +0000" channel="BBC R5SX">
         <title>ICC Champions Trophy</title>
     </programme>
-    <programme start="20250309170000 +0000" stop="20250309180000 +0000" channel="BBC R5SX">
+    <programme start="20250309170000 +0000" stop="20250309200000 +0000" channel="BBC R5SX">
+        <title>Coming Up On 5 Sports Extra</title>
+    </programme>
+    <programme start="20250309200000 +0000" stop="20250309230000 +0000" channel="BBC R5SX">
+        <title>Tennis</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250308190000 +0000" stop="20250308230000 +0000" channel="Heart Dance">
