@@ -29163,10 +29163,7 @@
     <programme start="20250310090000 +0000" stop="20250310093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250310093000 +0000" stop="20250310094500 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250310094500 +0000" stop="20250310110000 +0000" channel="Kanshi TV">
+    <programme start="20250310093000 +0000" stop="20250310110000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250310110000 +0000" stop="20250310123000 +0000" channel="Kanshi TV">
@@ -29182,7 +29179,7 @@
         <title>Kanshi TV Cooking Show</title>
     </programme>
     <programme start="20250310143000 +0000" stop="20250310150000 +0000" channel="Kanshi TV">
-        <title>Kaum de Heere</title>
+        <title>Music Time</title>
     </programme>
     <programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="Kanshi TV">
         <title>Gallan Baatan with Asha Mall</title>
