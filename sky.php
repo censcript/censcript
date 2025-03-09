@@ -29896,10 +29896,10 @@
         <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250309194000 +0000" stop="20250310014000 +0000" channel="TV One">
-        <title>Live Charity With Islamic Help</title>
+        <title>Live Charity Appeal: HRF</title>
     </programme>
     <programme start="20250310014000 +0000" stop="20250310044600 +0000" channel="TV One">
-        <title>Live Charity With Islamic Help</title>
+        <title>Live Charity Appeal: HRF</title>
     </programme>
     <programme start="20250310044600 +0000" stop="20250310050000 +0000" channel="TV One">
         <title>Fajr Azan</title>

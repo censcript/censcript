@@ -1035,8 +1035,17 @@
     <programme start="20250309171900 +0000" stop="20250309184130 +0000" channel="Fight TV Premium.cubmu">
         <title>Bangkok Fight Night</title>
     </programme>
+    <programme start="20250309171900 +0000" stop="20250309184130 +0000" channel="Fight TV Premium.cubmu">
+        <title>Bangkok Fight Night</title>
+    </programme>
     <programme start="20250309184130 +0000" stop="20250309200000 +0000" channel="Fight TV Premium.cubmu">
         <title>Kansas City Fighting Alliance</title>
+    </programme>
+    <programme start="20250309184130 +0000" stop="20250309200000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Kansas City Fighting Alliance</title>
+    </programme>
+    <programme start="20250309200000 +0000" stop="20250309213000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Dynasty Combat Sports</title>
     </programme>
     <programme start="20250309200000 +0000" stop="20250309213000 +0000" channel="Fight TV Premium.cubmu">
         <title>Dynasty Combat Sports</title>
@@ -1044,7 +1053,16 @@
     <programme start="20250309213000 +0000" stop="20250309230000 +0000" channel="Fight TV Premium.cubmu">
         <title>Midwest Championship Fighting</title>
     </programme>
+    <programme start="20250309213000 +0000" stop="20250309230000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Midwest Championship Fighting</title>
+    </programme>
     <programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="Fight TV Premium.cubmu">
+        <title>TNA Wrestling - Turning Point</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="Fight TV Premium.cubmu">
+        <title>TNA Wrestling - Turning Point</title>
+    </programme>
+    <programme start="20250310000000 +0000" stop="20250310015400 +0000" channel="Fight TV Premium.cubmu">
         <title>TNA Wrestling - Turning Point</title>
     </programme>
     <programme start="20250310000000 +0000" stop="20250310015400 +0000" channel="Fight TV Premium.cubmu">
@@ -1053,8 +1071,17 @@
     <programme start="20250310015400 +0000" stop="20250310033500 +0000" channel="Fight TV Premium.cubmu">
         <title>Queensbury Boxing League - In the Line of Fire</title>
     </programme>
+    <programme start="20250310015400 +0000" stop="20250310033500 +0000" channel="Fight TV Premium.cubmu">
+        <title>Queensbury Boxing League - In the Line of Fire</title>
+    </programme>
     <programme start="20250310033500 +0000" stop="20250310040100 +0000" channel="Fight TV Premium.cubmu">
         <title>Midwest Championship Fighting</title>
+    </programme>
+    <programme start="20250310033500 +0000" stop="20250310040100 +0000" channel="Fight TV Premium.cubmu">
+        <title>Midwest Championship Fighting</title>
+    </programme>
+    <programme start="20250310040100 +0000" stop="20250310045400 +0000" channel="Fight TV Premium.cubmu">
+        <title>Dynasty Combat Sports</title>
     </programme>
     <programme start="20250310040100 +0000" stop="20250310045400 +0000" channel="Fight TV Premium.cubmu">
         <title>Dynasty Combat Sports</title>
@@ -1062,8 +1089,17 @@
     <programme start="20250310045400 +0000" stop="20250310060400 +0000" channel="Fight TV Premium.cubmu">
         <title>Kansas City Fighting Alliance</title>
     </programme>
+    <programme start="20250310045400 +0000" stop="20250310060400 +0000" channel="Fight TV Premium.cubmu">
+        <title>Kansas City Fighting Alliance</title>
+    </programme>
     <programme start="20250310060400 +0000" stop="20250310062000 +0000" channel="Fight TV Premium.cubmu">
         <title>Midwest Championship Fighting</title>
+    </programme>
+    <programme start="20250310060400 +0000" stop="20250310062000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Midwest Championship Fighting</title>
+    </programme>
+    <programme start="20250310062000 +0000" stop="20250310083730 +0000" channel="Fight TV Premium.cubmu">
+        <title>Bangkok Fight Night</title>
     </programme>
     <programme start="20250310062000 +0000" stop="20250310083730 +0000" channel="Fight TV Premium.cubmu">
         <title>Bangkok Fight Night</title>
@@ -1071,8 +1107,17 @@
     <programme start="20250310083730 +0000" stop="20250310090000 +0000" channel="Fight TV Premium.cubmu">
         <title>Midwest Championship Fighting</title>
     </programme>
+    <programme start="20250310083730 +0000" stop="20250310090000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Midwest Championship Fighting</title>
+    </programme>
     <programme start="20250310090000 +0000" stop="20250310114900 +0000" channel="Fight TV Premium.cubmu">
         <title>TNA Wrestling - Genesis</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310114900 +0000" channel="Fight TV Premium.cubmu">
+        <title>TNA Wrestling - Genesis</title>
+    </programme>
+    <programme start="20250310114900 +0000" stop="20250310123230 +0000" channel="Fight TV Premium.cubmu">
+        <title>Kansas City Fighting Alliance</title>
     </programme>
     <programme start="20250310114900 +0000" stop="20250310123230 +0000" channel="Fight TV Premium.cubmu">
         <title>Kansas City Fighting Alliance</title>
@@ -1080,14 +1125,29 @@
     <programme start="20250310123230 +0000" stop="20250310130000 +0000" channel="Fight TV Premium.cubmu">
         <title>Bangkok Fight Night</title>
     </programme>
+    <programme start="20250310123230 +0000" stop="20250310130000 +0000" channel="Fight TV Premium.cubmu">
+        <title>Bangkok Fight Night</title>
+    </programme>
+    <programme start="20250310130000 +0000" stop="20250310144100 +0000" channel="Fight TV Premium.cubmu">
+        <title>Queensbury Boxing League - Edge of Greatness</title>
+    </programme>
     <programme start="20250310130000 +0000" stop="20250310144100 +0000" channel="Fight TV Premium.cubmu">
         <title>Queensbury Boxing League - Edge of Greatness</title>
     </programme>
     <programme start="20250310144100 +0000" stop="20250310154100 +0000" channel="Fight TV Premium.cubmu">
         <title>Kansas City Fighting Alliance</title>
     </programme>
+    <programme start="20250310144100 +0000" stop="20250310154100 +0000" channel="Fight TV Premium.cubmu">
+        <title>Kansas City Fighting Alliance</title>
+    </programme>
     <programme start="20250310154100 +0000" stop="20250310164100 +0000" channel="Fight TV Premium.cubmu">
         <title>Dynasty Combat Sports</title>
+    </programme>
+    <programme start="20250310154100 +0000" stop="20250310164100 +0000" channel="Fight TV Premium.cubmu">
+        <title>Dynasty Combat Sports</title>
+    </programme>
+    <programme start="20250310164100 +0000" stop="20250309175400 +0000" channel="Fight TV Premium.cubmu">
+        <title>Kansas City Fighting Alliance</title>
     </programme>
     <programme start="20250310164100 +0000" stop="20250309175400 +0000" channel="Fight TV Premium.cubmu">
         <title>Kansas City Fighting Alliance</title>
@@ -1956,6 +2016,177 @@
     <programme start="20250310070000 +0000" stop="20250310073000 +0000" channel="Jak tv.cubmu">
         <title>Ibu Negara Andara</title>
     </programme>
+    <programme start="20250310073000 +0000" stop="20250310080000 +0000" channel="Jak tv.cubmu">
+        <title>Ibu Negara Andara</title>
+    </programme>
+    <programme start="20250310080000 +0000" stop="20250310090000 +0000" channel="Jak tv.cubmu">
+        <title>Berkah Shop</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310100000 +0000" channel="Jak tv.cubmu">
+        <title>Herbates</title>
+    </programme>
+    <programme start="20250310100000 +0000" stop="20250310103000 +0000" channel="Jak tv.cubmu">
+        <title>Pintar Ngaji</title>
+    </programme>
+    <programme start="20250310103000 +0000" stop="20250310110000 +0000" channel="Jak tv.cubmu">
+        <title>Jendela Sarawak</title>
+    </programme>
+    <programme start="20250310110000 +0000" stop="20250310113000 +0000" channel="Jak tv.cubmu">
+        <title>Muslimpedia</title>
+    </programme>
+    <programme start="20250310113000 +0000" stop="20250310120000 +0000" channel="Jak tv.cubmu">
+        <title>Muslimpedia</title>
+    </programme>
+    <programme start="20250310120000 +0000" stop="20250310123000 +0000" channel="Jak tv.cubmu">
+        <title>Inside</title>
+    </programme>
+    <programme start="20250310123000 +0000" stop="20250310130000 +0000" channel="Jak tv.cubmu">
+        <title>Inovator</title>
+    </programme>
+    <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="Jak tv.cubmu">
+        <title>Herbates</title>
+    </programme>
+    <programme start="20250310140000 +0000" stop="20250310143000 +0000" channel="Jak tv.cubmu">
+        <title>Creative Talk</title>
+    </programme>
+    <programme start="20250310143000 +0000" stop="20250310150000 +0000" channel="Jak tv.cubmu">
+        <title>Jendela Sarawak</title>
+    </programme>
+    <programme start="20250310150000 +0000" stop="20250310153000 +0000" channel="Jak tv.cubmu">
+        <title>Garasi</title>
+    </programme>
+    <programme start="20250310153000 +0000" stop="20250310160000 +0000" channel="Jak tv.cubmu">
+        <title>Motor Aing</title>
+    </programme>
+    <programme start="20250310160000 +0000" stop="20250310163000 +0000" channel="Jak tv.cubmu">
+        <title>Noice</title>
+    </programme>
+    <programme start="20250310163000 +0000" stop="20250309170000 +0000" channel="Jak tv.cubmu">
+        <title>Retro Hour</title>
+    </programme>
+    <programme start="20250309170000 +0000" stop="20250309173000 +0000" channel="BTV.cubmu">
+        <title>Rev</title>
+    </programme>
+    <programme start="20250309173000 +0000" stop="20250309180000 +0000" channel="BTV.cubmu">
+        <title>Film Pendek Indonesia</title>
+    </programme>
+    <programme start="20250309180000 +0000" stop="20250309180300 +0000" channel="BTV.cubmu">
+        <title>Tanah Airku</title>
+    </programme>
+    <programme start="20250309180300 +0000" stop="20250309190000 +0000" channel="BTV.cubmu">
+        <title>Solat Tarawih Masjidil Haram</title>
+    </programme>
+    <programme start="20250309190000 +0000" stop="20250309193000 +0000" channel="BTV.cubmu">
+        <title>Cari Berkah</title>
+    </programme>
+    <programme start="20250309193000 +0000" stop="20250309203000 +0000" channel="BTV.cubmu">
+        <title>Jalan Dakwah Ramadan</title>
+    </programme>
+    <programme start="20250309203000 +0000" stop="20250309210000 +0000" channel="BTV.cubmu">
+        <title>Setulus Hati Ramadan</title>
+    </programme>
+    <programme start="20250309210000 +0000" stop="20250309212500 +0000" channel="BTV.cubmu">
+        <title>Sejarah Islam</title>
+    </programme>
+    <programme start="20250309212500 +0000" stop="20250309213600 +0000" channel="BTV.cubmu">
+        <title>Berita Satu Pagi</title>
+    </programme>
+    <programme start="20250309213600 +0000" stop="20250309214300 +0000" channel="BTV.cubmu">
+        <title>Gema Ramadan</title>
+    </programme>
+    <programme start="20250309214300 +0000" stop="20250309214600 +0000" channel="BTV.cubmu">
+        <title>Adzan Subuh Jakarta</title>
+    </programme>
+    <programme start="20250309214600 +0000" stop="20250309223000 +0000" channel="BTV.cubmu">
+        <title>Berita Satu Pagi</title>
+    </programme>
+    <programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="BTV.cubmu">
+        <title>Jendela Dunia Ramadan</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250309230300 +0000" channel="BTV.cubmu">
+        <title>Indonesia Raya</title>
+    </programme>
+    <programme start="20250309230300 +0000" stop="20250310000000 +0000" channel="BTV.cubmu">
+        <title>Jalan Dakwah Ramadan</title>
+    </programme>
+    <programme start="20250310000000 +0000" stop="20250310003000 +0000" channel="BTV.cubmu">
+        <title>Masak Ala Devina Hermawan Ramadan</title>
+    </programme>
+    <programme start="20250310003000 +0000" stop="20250310011500 +0000" channel="BTV.cubmu">
+        <title>Didi &amp; Friends</title>
+    </programme>
+    <programme start="20250310011500 +0000" stop="20250310021500 +0000" channel="BTV.cubmu">
+        <title>Boonie Cubs</title>
+    </programme>
+    <programme start="20250310021500 +0000" stop="20250310030000 +0000" channel="BTV.cubmu">
+        <title>Motu Patlu</title>
+    </programme>
+    <programme start="20250310030000 +0000" stop="20250310040000 +0000" channel="BTV.cubmu">
+        <title>Ruang Tengah Ramadan</title>
+    </programme>
+    <programme start="20250310040000 +0000" stop="20250310050000 +0000" channel="BTV.cubmu">
+        <title>Berita Satu Siang</title>
+    </programme>
+    <programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="BTV.cubmu">
+        <title>Berita Viral</title>
+    </programme>
+    <programme start="20250310060000 +0000" stop="20250310064500 +0000" channel="BTV.cubmu">
+        <title>Figur Publik</title>
+    </programme>
+    <programme start="20250310064500 +0000" stop="20250310073000 +0000" channel="BTV.cubmu">
+        <title>Info Seleb</title>
+    </programme>
+    <programme start="20250310073000 +0000" stop="20250310080000 +0000" channel="BTV.cubmu">
+        <title>Dunia Rans</title>
+    </programme>
+    <programme start="20250310080000 +0000" stop="20250310090000 +0000" channel="BTV.cubmu">
+        <title>Didi &amp; Friends</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310100000 +0000" channel="BTV.cubmu">
+        <title>Motu Patlu</title>
+    </programme>
+    <programme start="20250310100000 +0000" stop="20250310105900 +0000" channel="BTV.cubmu">
+        <title>Boonie Cubs</title>
+    </programme>
+    <programme start="20250310105900 +0000" stop="20250310110600 +0000" channel="BTV.cubmu">
+        <title>Kultum The Power Of Ramadan</title>
+    </programme>
+    <programme start="20250310110600 +0000" stop="20250310111100 +0000" channel="BTV.cubmu">
+        <title>TVC Nasional - Time Signal</title>
+    </programme>
+    <programme start="20250310111100 +0000" stop="20250310111500 +0000" channel="BTV.cubmu">
+        <title>Adzan Maghrib Jakarta + Doa Berbuka</title>
+    </programme>
+    <programme start="20250310111500 +0000" stop="20250310111900 +0000" channel="BTV.cubmu">
+        <title>TVC Nasional - Time Signal</title>
+    </programme>
+    <programme start="20250310111900 +0000" stop="20250310120000 +0000" channel="BTV.cubmu">
+        <title>Dunia Binatang</title>
+    </programme>
+    <programme start="20250310120000 +0000" stop="20250310124500 +0000" channel="BTV.cubmu">
+        <title>Info Seleb</title>
+    </programme>
+    <programme start="20250310124500 +0000" stop="20250310134000 +0000" channel="BTV.cubmu">
+        <title>Berita Viral</title>
+    </programme>
+    <programme start="20250310134000 +0000" stop="20250310134500 +0000" channel="BTV.cubmu">
+        <title>Gema Ramadan</title>
+    </programme>
+    <programme start="20250310134500 +0000" stop="20250310143000 +0000" channel="BTV.cubmu">
+        <title>Setulus Hati Ramadan</title>
+    </programme>
+    <programme start="20250310143000 +0000" stop="20250310150000 +0000" channel="BTV.cubmu">
+        <title>Jendela Dunia Ramadan</title>
+    </programme>
+    <programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="BTV.cubmu">
+        <title>Berita Satu Malam</title>
+    </programme>
+    <programme start="20250310160000 +0000" stop="20250310163000 +0000" channel="BTV.cubmu">
+        <title>Mitos</title>
+    </programme>
+    <programme start="20250310163000 +0000" stop="20250309173000 +0000" channel="BTV.cubmu">
+        <title>One Vault 2022</title>
+    </programme>
     <programme start="20250309180000 +0000" stop="20250309183000 +0000" channel="Kompas TV.cubmu">
         <title>Cooking Is Fun</title>
     </programme>
@@ -2021,6 +2252,282 @@
     </programme>
     <programme start="20250310163000 +0000" stop="20250309170000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
+    </programme>
+    <programme start="20250309170000 +0000" stop="20250309190000 +0000" channel="MNC TV.cubmu">
+        <title>Sinema Spesial Pilihan</title>
+    </programme>
+    <programme start="20250309190000 +0000" stop="20250309211500 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Malam</title>
+    </programme>
+    <programme start="20250309211500 +0000" stop="20250309213000 +0000" channel="MNC TV.cubmu">
+        <title>Rangkaian Imsakiyah</title>
+    </programme>
+    <programme start="20250309213000 +0000" stop="20250309221500 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan</title>
+    </programme>
+    <programme start="20250309221500 +0000" stop="20250309230000 +0000" channel="MNC TV.cubmu">
+        <title>Serial Pilihan Pagi</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250309233000 +0000" channel="MNC TV.cubmu">
+        <title>Seleb On News</title>
+    </programme>
+    <programme start="20250309233000 +0000" stop="20250310010000 +0000" channel="MNC TV.cubmu">
+        <title>Kiko</title>
+    </programme>
+    <programme start="20250310010000 +0000" stop="20250310030000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250310030000 +0000" stop="20250310043000 +0000" channel="MNC TV.cubmu">
+        <title>Lintas iNews Siang</title>
+    </programme>
+    <programme start="20250310043000 +0000" stop="20250310063000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250310063000 +0000" stop="20250310080000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250310080000 +0000" stop="20250310090000 +0000" channel="MNC TV.cubmu">
+        <title>Petualangan Fantastis Kiko</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310103000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250310103000 +0000" stop="20250310104500 +0000" channel="MNC TV.cubmu">
+        <title>Rangkaian Berbuka</title>
+    </programme>
+    <programme start="20250310104500 +0000" stop="20250310110000 +0000" channel="MNC TV.cubmu">
+        <title>Entong</title>
+    </programme>
+    <programme start="20250310110000 +0000" stop="20250310123000 +0000" channel="MNC TV.cubmu">
+        <title>Upin &amp; Ipin</title>
+    </programme>
+    <programme start="20250310123000 +0000" stop="20250310145000 +0000" channel="MNC TV.cubmu">
+        <title>Family 100</title>
+    </programme>
+    <programme start="20250310145000 +0000" stop="20250310160000 +0000" channel="MNC TV.cubmu">
+        <title>DMD Panggung Rezeki</title>
+    </programme>
+    <programme start="20250310160000 +0000" stop="20250309170000 +0000" channel="MNC TV.cubmu">
+        <title>Kejarlah Daku Kau Kutangkap</title>
+    </programme>
+    <programme start="20250309170000 +0000" stop="20250309173000 +0000" channel="TVRI.cubmu">
+        <title>Monitor Olahraga</title>
+    </programme>
+    <programme start="20250309173000 +0000" stop="20250309193000 +0000" channel="TVRI.cubmu">
+        <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250309193000 +0000" stop="20250309203000 +0000" channel="TVRI.cubmu">
+        <title>Marbot Ali</title>
+    </programme>
+    <programme start="20250309203000 +0000" stop="20250309213000 +0000" channel="TVRI.cubmu">
+        <title>Pengen Beken</title>
+    </programme>
+    <programme start="20250309213000 +0000" stop="20250309230000 +0000" channel="TVRI.cubmu">
+        <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Pagi</title>
+    </programme>
+    <programme start="20250310000000 +0000" stop="20250310010000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Negeri</title>
+    </programme>
+    <programme start="20250310010000 +0000" stop="20250310020000 +0000" channel="TVRI.cubmu">
+        <title>Bersama Perempuan</title>
+    </programme>
+    <programme start="20250310020000 +0000" stop="20250310020300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250310020300 +0000" stop="20250310023000 +0000" channel="TVRI.cubmu">
+        <title>Mari Menggambar</title>
+    </programme>
+    <programme start="20250310023000 +0000" stop="20250310030000 +0000" channel="TVRI.cubmu">
+        <title>Halo Dokter</title>
+    </programme>
+    <programme start="20250310030000 +0000" stop="20250310030300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250310030300 +0000" stop="20250310033000 +0000" channel="TVRI.cubmu">
+        <title>Halo Dokter</title>
+    </programme>
+    <programme start="20250310033000 +0000" stop="20250310040000 +0000" channel="TVRI.cubmu">
+        <title>Dapur Devina</title>
+    </programme>
+    <programme start="20250310040000 +0000" stop="20250310040300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250310040300 +0000" stop="20250310050000 +0000" channel="TVRI.cubmu">
+        <title>Seblak Show</title>
+    </programme>
+    <programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Siang</title>
+    </programme>
+    <programme start="20250310060000 +0000" stop="20250310063000 +0000" channel="TVRI.cubmu">
+        <title>Oase Indonesia</title>
+    </programme>
+    <programme start="20250310063000 +0000" stop="20250310070000 +0000" channel="TVRI.cubmu">
+        <title>Tekno Tani</title>
+    </programme>
+    <programme start="20250310070000 +0000" stop="20250310070300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250310070300 +0000" stop="20250310073000 +0000" channel="TVRI.cubmu">
+        <title>Pesona Indonesia</title>
+    </programme>
+    <programme start="20250310073000 +0000" stop="20250310080000 +0000" channel="TVRI.cubmu">
+        <title>Inspirasi Indonesia</title>
+    </programme>
+    <programme start="20250310080000 +0000" stop="20250310080300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250310080300 +0000" stop="20250310083000 +0000" channel="TVRI.cubmu">
+        <title>Mimbar Agama Katolik</title>
+    </programme>
+    <programme start="20250310083000 +0000" stop="20250310090000 +0000" channel="TVRI.cubmu">
+        <title>Tapal Batas</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310100000 +0000" channel="TVRI.cubmu">
+        <title>Pengen Beken</title>
+    </programme>
+    <programme start="20250310100000 +0000" stop="20250310110000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Rumah Kita Reborn</title>
+    </programme>
+    <programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Petang</title>
+    </programme>
+    <programme start="20250310120000 +0000" stop="20250310130000 +0000" channel="TVRI.cubmu">
+        <title>Indonesia Bicara</title>
+    </programme>
+    <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="TVRI.cubmu">
+        <title>ZOOM: Zona Orang Muda</title>
+    </programme>
+    <programme start="20250310140000 +0000" stop="20250310143000 +0000" channel="TVRI.cubmu">
+        <title>Dunia Dalam Berita</title>
+    </programme>
+    <programme start="20250310143000 +0000" stop="20250310153000 +0000" channel="TVRI.cubmu">
+        <title>Kenangan Masa</title>
+    </programme>
+    <programme start="20250310153000 +0000" stop="20250310163000 +0000" channel="TVRI.cubmu">
+        <title>COD - Canda of the Day</title>
+    </programme>
+    <programme start="20250310163000 +0000" stop="20250309170000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20250309170300 +0000" stop="20250309170800 +0000" channel="jtv.cubmu">
+        <title>Station ID JTV</title>
+    </programme>
+    <programme start="20250309170800 +0000" stop="20250309173800 +0000" channel="jtv.cubmu">
+        <title>Program Kesehatan</title>
+    </programme>
+    <programme start="20250309173800 +0000" stop="20250309180000 +0000" channel="jtv.cubmu">
+        <title>MADU ON : Program Kesehatan</title>
+    </programme>
+    <programme start="20250309180000 +0000" stop="20250309190000 +0000" channel="jtv.cubmu">
+        <title>Stasiun Dangdut</title>
+    </programme>
+    <programme start="20250309190000 +0000" stop="20250309200000 +0000" channel="jtv.cubmu">
+        <title>Musica Hits</title>
+    </programme>
+    <programme start="20250309200000 +0000" stop="20250309210000 +0000" channel="jtv.cubmu">
+        <title>Sahur Bareng Gus Miftah</title>
+    </programme>
+    <programme start="20250309210000 +0000" stop="20250309220000 +0000" channel="jtv.cubmu">
+        <title>Bio HSA : Dialog Kesehatan</title>
+    </programme>
+    <programme start="20250309220000 +0000" stop="20250309225000 +0000" channel="jtv.cubmu">
+        <title>Dialog Kesehatan Remastop</title>
+    </programme>
+    <programme start="20250309225000 +0000" stop="20250309225500 +0000" channel="jtv.cubmu">
+        <title>Station ID JTV</title>
+    </programme>
+    <programme start="20250309225500 +0000" stop="20250309230000 +0000" channel="jtv.cubmu">
+        <title>Lagu Kebangsaan Indonesia Raya</title>
+    </programme>
+    <programme start="20250309230000 +0000" stop="20250310020000 +0000" channel="jtv.cubmu">
+        <title>SEA Morning Show</title>
+    </programme>
+    <programme start="20250310020000 +0000" stop="20250310020200 +0000" channel="jtv.cubmu">
+        <title>Ngopi Sek</title>
+    </programme>
+    <programme start="20250310020200 +0000" stop="20250310030000 +0000" channel="jtv.cubmu">
+        <title>Mata Dwipantara</title>
+    </programme>
+    <programme start="20250310030000 +0000" stop="20250310033000 +0000" channel="jtv.cubmu">
+        <title>Pojok Arena</title>
+    </programme>
+    <programme start="20250310033000 +0000" stop="20250310040000 +0000" channel="jtv.cubmu">
+        <title>Jatim Awan</title>
+    </programme>
+    <programme start="20250310040000 +0000" stop="20250310043000 +0000" channel="jtv.cubmu">
+        <title>Sinau Hurip</title>
+    </programme>
+    <programme start="20250310043000 +0000" stop="20250310050000 +0000" channel="jtv.cubmu">
+        <title>Penting Gak Penting</title>
+    </programme>
+    <programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="jtv.cubmu">
+        <title>Stasiun Dangdut</title>
+    </programme>
+    <programme start="20250310060000 +0000" stop="20250310063000 +0000" channel="jtv.cubmu">
+        <title>Madu Hijau</title>
+    </programme>
+    <programme start="20250310063000 +0000" stop="20250310063300 +0000" channel="jtv.cubmu">
+        <title>Berita Gress</title>
+    </programme>
+    <programme start="20250310063300 +0000" stop="20250310073000 +0000" channel="jtv.cubmu">
+        <title>Simfoni Cestra</title>
+    </programme>
+    <programme start="20250310073000 +0000" stop="20250310080000 +0000" channel="jtv.cubmu">
+        <title>Nusantara Kini</title>
+    </programme>
+    <programme start="20250310080000 +0000" stop="20250310083000 +0000" channel="jtv.cubmu">
+        <title>Nusantara Kini</title>
+    </programme>
+    <programme start="20250310083000 +0000" stop="20250310090000 +0000" channel="jtv.cubmu">
+        <title>Menek Blimbing</title>
+    </programme>
+    <programme start="20250310090000 +0000" stop="20250310090300 +0000" channel="jtv.cubmu">
+        <title>Berita Gress</title>
+    </programme>
+    <programme start="20250310090300 +0000" stop="20250310092800 +0000" channel="jtv.cubmu">
+        <title>Menek Blimbing</title>
+    </programme>
+    <programme start="20250310092800 +0000" stop="20250310095800 +0000" channel="jtv.cubmu">
+        <title>Program Kesehatan</title>
+    </programme>
+    <programme start="20250310095800 +0000" stop="20250310102800 +0000" channel="jtv.cubmu">
+        <title>Madu Hijau</title>
+    </programme>
+    <programme start="20250310102800 +0000" stop="20250310103000 +0000" channel="jtv.cubmu">
+        <title>Ngopi Sek</title>
+    </programme>
+    <programme start="20250310103000 +0000" stop="20250310110000 +0000" channel="jtv.cubmu">
+        <title>Program Kesehatan</title>
+    </programme>
+    <programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="jtv.cubmu">
+        <title>Jatim Bangkit</title>
+    </programme>
+    <programme start="20250310120000 +0000" stop="20250310130000 +0000" channel="jtv.cubmu">
+        <title>Pojok Pitu</title>
+    </programme>
+    <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="jtv.cubmu">
+        <title>Solusi Bisnis</title>
+    </programme>
+    <programme start="20250310140000 +0000" stop="20250310150000 +0000" channel="jtv.cubmu">
+        <title>Pojok Kampung</title>
+    </programme>
+    <programme start="20250310150000 +0000" stop="20250310153000 +0000" channel="jtv.cubmu">
+        <title>Program Kesehatan</title>
+    </programme>
+    <programme start="20250310153000 +0000" stop="20250310160000 +0000" channel="jtv.cubmu">
+        <title>Program Kesehatan</title>
+    </programme>
+    <programme start="20250310160000 +0000" stop="20250310160300 +0000" channel="jtv.cubmu">
+        <title>Ngopi Sek</title>
+    </programme>
+    <programme start="20250310160300 +0000" stop="20250310163300 +0000" channel="jtv.cubmu">
+        <title>Napak Tilas</title>
+    </programme>
+    <programme start="20250310163300 +0000" stop="20250309170000 +0000" channel="jtv.cubmu">
+        <title>Napak Tilas</title>
     </programme>
     <programme start="20250309170000 +0000" stop="20250309220000 +0000" channel="Dunia Anak.cubmu">
         <title>Music Lullaby</title>
