@@ -28059,14 +28059,11 @@
     <programme start="20250309130000 +0000" stop="20250309150000 +0000" channel="Sikh Channel">
         <title>Live: Gurdwara Pita Kalu Sahib</title>
     </programme>
-    <programme start="20250309150000 +0000" stop="20250309153000 +0000" channel="Sikh Channel">
-        <title>Langar on Campus</title>
+    <programme start="20250309150000 +0000" stop="20250309163000 +0000" channel="Sikh Channel">
+        <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250309153000 +0000" stop="20250309160000 +0000" channel="Sikh Channel">
-        <title>Langar on Campus</title>
-    </programme>
-    <programme start="20250309160000 +0000" stop="20250309170000 +0000" channel="Sikh Channel">
-        <title>Akali Cobras Boxing Academy</title>
+    <programme start="20250309163000 +0000" stop="20250309170000 +0000" channel="Sikh Channel">
+        <title>Marriage Story</title>
     </programme>
     <programme start="20250309170000 +0000" stop="20250309183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
