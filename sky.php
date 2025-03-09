@@ -35820,8 +35820,11 @@
     <programme start="20250309043230 +0000" stop="20250309053230 +0000" channel="BBC World Sv">
         <title>Amazing Sport Stories</title>
     </programme>
-    <programme start="20250309053230 +0000" stop="20250309080000 +0000" channel="BBC World Sv">
+    <programme start="20250309053230 +0000" stop="20250309060600 +0000" channel="BBC World Sv">
         <title>The Documentary</title>
+    </programme>
+    <programme start="20250309060600 +0000" stop="20250309080000 +0000" channel="BBC World Sv">
+        <title>Weekend</title>
     </programme>
     <programme start="20250309080000 +0000" stop="20250309080600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -36738,8 +36741,11 @@
     <programme start="20250308220000 +0000" stop="20250309010000 +0000" channel="BBC R London">
         <title>Late Night Jo</title>
     </programme>
-    <programme start="20250309010000 +0000" stop="20250309100000 +0000" channel="BBC R London">
+    <programme start="20250309010000 +0000" stop="20250309060000 +0000" channel="BBC R London">
         <title>Weekend overnights with BBC Radio 5 Live</title>
+    </programme>
+    <programme start="20250309060000 +0000" stop="20250309100000 +0000" channel="BBC R London">
+        <title>Inspirit with Jumoké Fashola</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309140000 +0000" channel="BBC R London">
         <title>Robert Elms</title>
