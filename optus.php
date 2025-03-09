@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309162000 +0000" stop="20250309193000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester United v Arsenal</title>
-    </programme>
     <programme start="20250309203000 +0000" stop="20250309220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Washington Spirit v Bay FC</title>
+    </programme>
+    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Seoul v Daegu</title>
     </programme>
 </tv>
