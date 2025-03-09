@@ -13398,8 +13398,14 @@
     <programme start="20250309100000 +0000" stop="20250309113000 +0000" channel="TNT Sports 2">
         <title>Wolves v Everton</title>
     </programme>
-    <programme start="20250309113000 +0000" stop="20250309153000 +0000" channel="TNT Sports 2">
+    <programme start="20250309113000 +0000" stop="20250309131500 +0000" channel="TNT Sports 2">
         <title>Live: Snooker World Grand Prix</title>
+    </programme>
+    <programme start="20250309131500 +0000" stop="20250309151500 +0000" channel="TNT Sports 2">
+        <title>Snooker World Open Final</title>
+    </programme>
+    <programme start="20250309151500 +0000" stop="20250309153000 +0000" channel="TNT Sports 2">
+        <title>TNT Sports Reload 2025</title>
     </programme>
     <programme start="20250309153000 +0000" stop="20250309170000 +0000" channel="TNT Sports 2">
         <title>NBA: Lakers @ Celtics</title>
@@ -32583,8 +32589,14 @@
     <programme start="20250309100000 +0000" stop="20250309113000 +0000" channel="TNTSports2 HD">
         <title>Wolves v Everton</title>
     </programme>
-    <programme start="20250309113000 +0000" stop="20250309153000 +0000" channel="TNTSports2 HD">
+    <programme start="20250309113000 +0000" stop="20250309131500 +0000" channel="TNTSports2 HD">
         <title>Live: Snooker World Grand Prix</title>
+    </programme>
+    <programme start="20250309131500 +0000" stop="20250309151500 +0000" channel="TNTSports2 HD">
+        <title>Snooker World Open Final</title>
+    </programme>
+    <programme start="20250309151500 +0000" stop="20250309153000 +0000" channel="TNTSports2 HD">
+        <title>TNT Sports Reload 2025</title>
     </programme>
     <programme start="20250309153000 +0000" stop="20250309170000 +0000" channel="TNTSports2 HD">
         <title>NBA: Lakers @ Celtics</title>
@@ -34120,7 +34132,7 @@
         <title>Sunday with Laura Kuenssberg</title>
     </programme>
     <programme start="20250309100000 +0000" stop="20250309103000 +0000" channel="BBC One WM HD">
-        <title>Politics Midlands</title>
+        <title>Politics East Midlands</title>
     </programme>
     <programme start="20250309103000 +0000" stop="20250309113000 +0000" channel="BBC One WM HD">
         <title>Sunday Morning Live</title>
