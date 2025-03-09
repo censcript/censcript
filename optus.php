@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250309045000 +0000" stop="20250309071000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Ulsan v Jeju</title>
-    </programme>
-    <programme start="20250309045500 +0000" stop="20250309071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kyoto v Avispa</title>
-    </programme>
     <programme start="20250309072000 +0000" stop="20250309094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Gangwon</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - France v Croatia</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA Nations League - Spain v Netherlands</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA Nations League - Belgium v Ukraine</title>
     </programme>
 </tv>
