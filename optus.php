@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250308223000 +0000" stop="20250308233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250309045000 +0000" stop="20250309071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Ulsan v Jeju</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA Nations League - Portugal v Denmark</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - France v Croatia</title>
     </programme>
 </tv>
