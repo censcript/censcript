@@ -7371,11 +7371,8 @@
     <programme start="20250311060000 +0000" stop="20250311060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
-    <programme start="20250311060500 +0000" stop="20250311060800 +0000" channel="Channel 5+1">
+    <programme start="20250311060500 +0000" stop="20250311063500 +0000" channel="Channel 5+1">
         <title>Divine Designs</title>
-    </programme>
-    <programme start="20250311060800 +0000" stop="20250311063500 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250311063500 +0000" stop="20250311064000 +0000" channel="Channel 5+1">
         <title>Entertainment News on 5</title>
@@ -15090,11 +15087,8 @@
     <programme start="20250311070000 +0000" stop="20250311072000 +0000" channel="BBC Parl HD">
         <title>House of Lords - National...</title>
     </programme>
-    <programme start="20250311072000 +0000" stop="20250311080000 +0000" channel="BBC Parl HD">
+    <programme start="20250311072000 +0000" stop="20250311082500 +0000" channel="BBC Parl HD">
         <title>Education Questions</title>
-    </programme>
-    <programme start="20250311080000 +0000" stop="20250311082500 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
     </programme>
     <programme start="20250311082500 +0000" stop="20250311091000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Education Questions</title>
