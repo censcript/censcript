@@ -13426,31 +13426,31 @@
         <title>Live: Good Morning Football</title>
     </programme>
     <programme start="20250310140000 +0000" stop="20250310141500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Leeds v St Helens Hlts</title>
     </programme>
     <programme start="20250310141500 +0000" stop="20250310143000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Salford v Wigan Hlts</title>
     </programme>
     <programme start="20250310143000 +0000" stop="20250310144500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: St Helens v Wigan Hlts</title>
     </programme>
     <programme start="20250310144500 +0000" stop="20250310150000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Hull FC v Hull KR Hlts</title>
     </programme>
     <programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Jonas v Price</title>
     </programme>
     <programme start="20250310160000 +0000" stop="20250310161500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24: Leeds v Warrington Hlts</title>
     </programme>
     <programme start="20250310161500 +0000" stop="20250310163000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24: Leigh v Wigan Hlts</title>
     </programme>
     <programme start="20250310163000 +0000" stop="20250310164500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24:Leigh v Huddersfield Hlts</title>
     </programme>
     <programme start="20250310164500 +0000" stop="20250310170000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24: Warrington v Leigh Hlts</title>
     </programme>
     <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="SkySp NFL HD">
         <title>NFL Highlights</title>
@@ -29299,7 +29299,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250310090000 +0000" stop="20250310100000 +0000" channel="PoliticsPunjab">
-        <title>Live: Politics Punjab Special</title>
+        <title>Special Show</title>
     </programme>
     <programme start="20250310100000 +0000" stop="20250310103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -29359,7 +29359,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250310233000 +0000" stop="20250311003000 +0000" channel="PoliticsPunjab">
-        <title>Live: Politics Punjab Special</title>
+        <title>Special Show</title>
     </programme>
     <programme start="20250309220000 +0000" stop="20250310000000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -36868,7 +36868,7 @@
         <title>White &amp; Jordan with Martin Keown</title>
     </programme>
     <programme start="20250310130000 +0000" stop="20250310160000 +0000" channel="talkSPORT">
-        <title>Hawksbee &amp; Jacobs</title>
+        <title>Hawksbee &amp; Baker</title>
     </programme>
     <programme start="20250310160000 +0000" stop="20250310190000 +0000" channel="talkSPORT">
         <title>talkSPORT Drive</title>
