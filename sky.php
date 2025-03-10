@@ -27921,8 +27921,11 @@
     <programme start="20250309220000 +0000" stop="20250309230000 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250309230000 +0000" stop="20250309234000 +0000" channel="Islam TV">
+    <programme start="20250309230000 +0000" stop="20250309232000 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
+    </programme>
+    <programme start="20250309232000 +0000" stop="20250309234000 +0000" channel="Islam TV">
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250309234000 +0000" stop="20250310000000 +0000" channel="Islam TV">
         <title>Surah-Ya-Sin</title>
@@ -28026,8 +28029,11 @@
     <programme start="20250310180700 +0000" stop="20250310190000 +0000" channel="Islam TV">
         <title>Taraweeh Prayer from Makkah</title>
     </programme>
-    <programme start="20250310190000 +0000" stop="20250310194400 +0000" channel="Islam TV">
+    <programme start="20250310190000 +0000" stop="20250310193000 +0000" channel="Islam TV">
         <title>Taraweeh Prayer from Makkah</title>
+    </programme>
+    <programme start="20250310193000 +0000" stop="20250310194400 +0000" channel="Islam TV">
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250310194400 +0000" stop="20250310194900 +0000" channel="Islam TV">
         <title>Isha Azan</title>
