@@ -13026,10 +13026,13 @@
     <programme start="20250310173000 +0000" stop="20250310174500 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: West Brom v QPR</title>
     </programme>
-    <programme start="20250310174500 +0000" stop="20250310180000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250310174500 +0000" stop="20250310180001 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Bristol City v Hull</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310223000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250310180001 +0000" stop="20250310181500 +0000" channel="SkySp F'ball HD">
+        <title>EFL 24/25: Portsmouth v Leeds Utd</title>
+    </programme>
+    <programme start="20250310181500 +0000" stop="20250310223000 +0000" channel="SkySp F'ball HD">
         <title>Live Baller League: Draft Show</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310233000 +0000" channel="SkySp F'ball HD">
@@ -13806,10 +13809,13 @@
     <programme start="20250310173000 +0000" stop="20250310174500 +0000" channel="SkySp Mix HD">
         <title>S/Lge 24:St Helens v Catalans Hlts</title>
     </programme>
-    <programme start="20250310174500 +0000" stop="20250310180000 +0000" channel="SkySp Mix HD">
+    <programme start="20250310174500 +0000" stop="20250310180001 +0000" channel="SkySp Mix HD">
         <title>S/Lge 24: Warrington v Wigan Hlts</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310223000 +0000" channel="SkySp Mix HD">
+    <programme start="20250310180001 +0000" stop="20250310181500 +0000" channel="SkySp Mix HD">
+        <title>Darts Gold</title>
+    </programme>
+    <programme start="20250310181500 +0000" stop="20250310223000 +0000" channel="SkySp Mix HD">
         <title>Live Baller League: Draft Show</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310224500 +0000" channel="SkySp Mix HD">
@@ -33804,10 +33810,13 @@
     <programme start="20250310173000 +0000" stop="20250310174500 +0000" channel="SkySp Mix">
         <title>S/Lge 24:St Helens v Catalans Hlts</title>
     </programme>
-    <programme start="20250310174500 +0000" stop="20250310180000 +0000" channel="SkySp Mix">
+    <programme start="20250310174500 +0000" stop="20250310180001 +0000" channel="SkySp Mix">
         <title>S/Lge 24: Warrington v Wigan Hlts</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310223000 +0000" channel="SkySp Mix">
+    <programme start="20250310180001 +0000" stop="20250310181500 +0000" channel="SkySp Mix">
+        <title>Darts Gold</title>
+    </programme>
+    <programme start="20250310181500 +0000" stop="20250310223000 +0000" channel="SkySp Mix">
         <title>Live Baller League: Draft Show</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310224500 +0000" channel="SkySp Mix">
