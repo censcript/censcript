@@ -13572,8 +13572,11 @@
     <programme start="20250310224500 +0000" stop="20250310230000 +0000" channel="TNT Sports 1">
         <title>Rio Ferdinand Meets: Ruben Amorim</title>
     </programme>
-    <programme start="20250310230000 +0000" stop="20250311000000 +0000" channel="TNT Sports 1">
-        <title>Live NBA: Clippers @ Pelicans</title>
+    <programme start="20250310230000 +0000" stop="20250310233000 +0000" channel="TNT Sports 1">
+        <title>Premier League Stories</title>
+    </programme>
+    <programme start="20250310233000 +0000" stop="20250311003000 +0000" channel="TNT Sports 1">
+        <title>NBA On Fire</title>
     </programme>
     <programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="TNT Sports 2">
         <title>NBA Action</title>
@@ -13876,13 +13879,10 @@
         <title>Juventus v Atalanta</title>
     </programme>
     <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="TNT Sports 3">
-        <title>UEFA Europa League Magazine</title>
+        <title>Cycling World Tour - Women</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310183000 +0000" channel="TNT Sports 3">
-        <title>UEFA Champions League Magazine</title>
-    </programme>
-    <programme start="20250310183000 +0000" stop="20250310190000 +0000" channel="TNT Sports 3">
-        <title>Premier League Stories</title>
+    <programme start="20250310180000 +0000" stop="20250310190000 +0000" channel="TNT Sports 3">
+        <title>Cycling World Tour - Men</title>
     </programme>
     <programme start="20250310190000 +0000" stop="20250310200000 +0000" channel="TNT Sports 3">
         <title>Cycling World Tour - Men</title>
@@ -33621,8 +33621,11 @@
     <programme start="20250310224500 +0000" stop="20250310230000 +0000" channel="TNTSports1 HD">
         <title>Rio Ferdinand Meets: Ruben Amorim</title>
     </programme>
-    <programme start="20250310230000 +0000" stop="20250311000000 +0000" channel="TNTSports1 HD">
-        <title>Live NBA: Clippers @ Pelicans</title>
+    <programme start="20250310230000 +0000" stop="20250310233000 +0000" channel="TNTSports1 HD">
+        <title>Premier League Stories</title>
+    </programme>
+    <programme start="20250310233000 +0000" stop="20250311003000 +0000" channel="TNTSports1 HD">
+        <title>NBA On Fire</title>
     </programme>
     <programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="TNTSports2 HD">
         <title>NBA Action</title>
@@ -33874,13 +33877,10 @@
         <title>Juventus v Atalanta</title>
     </programme>
     <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="TNTSports3 HD">
-        <title>UEFA Europa League Magazine</title>
+        <title>Cycling World Tour - Women</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310183000 +0000" channel="TNTSports3 HD">
-        <title>UEFA Champions League Magazine</title>
-    </programme>
-    <programme start="20250310183000 +0000" stop="20250310190000 +0000" channel="TNTSports3 HD">
-        <title>Premier League Stories</title>
+    <programme start="20250310180000 +0000" stop="20250310190000 +0000" channel="TNTSports3 HD">
+        <title>Cycling World Tour - Men</title>
     </programme>
     <programme start="20250310190000 +0000" stop="20250310200000 +0000" channel="TNTSports3 HD">
         <title>Cycling World Tour - Men</title>
@@ -37992,7 +37992,10 @@
     <programme start="20250310120000 +0000" stop="20250310180000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250310180000 +0000" stop="20250310190000 +0000" channel="BBC R5SX">
+    <programme start="20250310180000 +0000" stop="20250310210000 +0000" channel="BBC R5SX">
+        <title>Tennis</title>
+    </programme>
+    <programme start="20250310210000 +0000" stop="20250310220000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250309220000 +0000" stop="20250310010000 +0000" channel="Heart Dance">
