@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250310193000 +0000" stop="20250310223000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - West Ham United v Newcastle United</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Nations League - Germany v Italy</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA Nations League - Portugal v Denmark</title>
     </programme>
 </tv>
