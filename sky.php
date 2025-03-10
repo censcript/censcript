@@ -16699,7 +16699,7 @@
         <title>WION Pulse</title>
     </programme>
     <programme start="20250310010000 +0000" stop="20250310013000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>World At War</title>
     </programme>
     <programme start="20250310013000 +0000" stop="20250310020000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16765,7 +16765,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250310120000 +0000" stop="20250310123000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION Business Insights</title>
     </programme>
     <programme start="20250310123000 +0000" stop="20250310130000 +0000" channel="WION HD">
         <title>WION Dispatch</title>
@@ -25368,10 +25368,10 @@
     <programme start="20250310052900 +0000" stop="20250310070000 +0000" channel="SONY TV HD">
         <title>Indian Idol 2024</title>
     </programme>
-    <programme start="20250310070000 +0000" stop="20250310072800 +0000" channel="SONY TV HD">
+    <programme start="20250310070000 +0000" stop="20250310072700 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250310072800 +0000" stop="20250310075400 +0000" channel="SONY TV HD">
+    <programme start="20250310072700 +0000" stop="20250310075400 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250310075400 +0000" stop="20250310082400 +0000" channel="SONY TV HD">
@@ -25416,10 +25416,10 @@
     <programme start="20250310175900 +0000" stop="20250310183000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250310183000 +0000" stop="20250310185900 +0000" channel="SONY TV HD">
+    <programme start="20250310183000 +0000" stop="20250310190000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250310185900 +0000" stop="20250310192200 +0000" channel="SONY TV HD">
+    <programme start="20250310190000 +0000" stop="20250310192200 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
     <programme start="20250310192200 +0000" stop="20250310193400 +0000" channel="SONY TV HD">
@@ -25428,13 +25428,13 @@
     <programme start="20250310193400 +0000" stop="20250310205900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250310205900 +0000" stop="20250310220900 +0000" channel="SONY TV HD">
+    <programme start="20250310205900 +0000" stop="20250310221300 +0000" channel="SONY TV HD">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250310220900 +0000" stop="20250310233400 +0000" channel="SONY TV HD">
+    <programme start="20250310221300 +0000" stop="20250310233800 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250310233400 +0000" stop="20250311003400 +0000" channel="SONY TV HD">
+    <programme start="20250310233800 +0000" stop="20250311003800 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250309220000 +0000" stop="20250309230000 +0000" channel="Utsav Bharat">
@@ -27403,7 +27403,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250310210500 +0000" stop="20250310220000 +0000" channel="New Vision TV">
-        <title>11th Hour with Waseem Badami</title>
+        <title>Off The Record With Kashif Abbasi</title>
     </programme>
     <programme start="20250310220000 +0000" stop="20250310220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27415,7 +27415,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250310230500 +0000" stop="20250311000500 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Hoshiyarian</title>
     </programme>
     <programme start="20250309192500 +0000" stop="20250310000000 +0000" channel="Islam Channel">
         <title>Alkhidmat Welfare Live Appeal</title>
@@ -34380,10 +34380,10 @@
     <programme start="20250310052900 +0000" stop="20250310070000 +0000" channel="SONY TV">
         <title>Indian Idol 2024</title>
     </programme>
-    <programme start="20250310070000 +0000" stop="20250310072800 +0000" channel="SONY TV">
+    <programme start="20250310070000 +0000" stop="20250310072700 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250310072800 +0000" stop="20250310075400 +0000" channel="SONY TV">
+    <programme start="20250310072700 +0000" stop="20250310075400 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250310075400 +0000" stop="20250310082400 +0000" channel="SONY TV">
@@ -34428,10 +34428,10 @@
     <programme start="20250310175900 +0000" stop="20250310183000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250310183000 +0000" stop="20250310185900 +0000" channel="SONY TV">
+    <programme start="20250310183000 +0000" stop="20250310190000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250310185900 +0000" stop="20250310192200 +0000" channel="SONY TV">
+    <programme start="20250310190000 +0000" stop="20250310192200 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
     <programme start="20250310192200 +0000" stop="20250310193400 +0000" channel="SONY TV">
@@ -34440,13 +34440,13 @@
     <programme start="20250310193400 +0000" stop="20250310205900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250310205900 +0000" stop="20250310220900 +0000" channel="SONY TV">
+    <programme start="20250310205900 +0000" stop="20250310221300 +0000" channel="SONY TV">
         <title>25 Years Of Kaun Banega Crorepati</title>
     </programme>
-    <programme start="20250310220900 +0000" stop="20250310233400 +0000" channel="SONY TV">
+    <programme start="20250310221300 +0000" stop="20250310233800 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250310233400 +0000" stop="20250311003400 +0000" channel="SONY TV">
+    <programme start="20250310233800 +0000" stop="20250311003800 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="Utsav Plus">
@@ -36964,7 +36964,7 @@
         <title>Toni Phillips</title>
     </programme>
     <programme start="20250310160000 +0000" stop="20250310190000 +0000" channel="Capital XTRA">
-        <title>Yasser</title>
+        <title>Lesziah</title>
     </programme>
     <programme start="20250310190000 +0000" stop="20250310220000 +0000" channel="Capital XTRA">
         <title>Kamilla Rose</title>
