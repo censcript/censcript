@@ -31,7 +31,7 @@
         <title>N/A - PL Stories: Enzo Maresca - The Italian Job</title>
     </programme>
     <programme start="20250313133000 +0000" stop="20250313140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Pervis Estupinan</title>
     </programme>
     <programme start="20250313143000 +0000" stop="20250313153000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Originals: Masterclass Special</title>
