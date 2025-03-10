@@ -29769,8 +29769,11 @@
     <programme start="20250310182100 +0000" stop="20250310192200 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250310192200 +0000" stop="20250310234500 +0000" channel="ATN">
+    <programme start="20250310192200 +0000" stop="20250310192700 +0000" channel="ATN">
         <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250310192700 +0000" stop="20250310234500 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250310234500 +0000" stop="20250311004500 +0000" channel="ATN">
         <title>Charity Appeal</title>
