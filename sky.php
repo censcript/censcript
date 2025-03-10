@@ -14854,7 +14854,7 @@
         <title>Live Education Questions</title>
     </programme>
     <programme start="20250310153000 +0000" stop="20250310163000 +0000" channel="BBC Parl HD">
-        <title>Live House of Commons</title>
+        <title>Live Syria Statement</title>
     </programme>
     <programme start="20250310163000 +0000" stop="20250310223000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
@@ -23755,7 +23755,7 @@
         <title>The Big Deal Morning Show</title>
     </programme>
     <programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="QVC HD">
-        <title>Nina Leonard</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250310120000 +0000" stop="20250310130000 +0000" channel="QVC HD">
         <title>Cook's Essentials</title>
@@ -24052,7 +24052,7 @@
         <title>Rieker Footwear</title>
     </programme>
     <programme start="20250310060000 +0000" stop="20250310070000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250310070000 +0000" stop="20250310080000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -24067,7 +24067,7 @@
         <title>New Season Dannii Minogue Fashion</title>
     </programme>
     <programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="QVC Style HD">
-        <title>Malissa J: New Season, New Style</title>
+        <title>Kim's Trendy Looks of the Season</title>
     </programme>
     <programme start="20250310120000 +0000" stop="20250310130000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
@@ -24097,7 +24097,7 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250310210000 +0000" stop="20250310220000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250310220000 +0000" stop="20250310230000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -24703,22 +24703,22 @@
         <title>New Season de Jager Plants &amp; Bulbs</title>
     </programme>
     <programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="QVC Extra">
-        <title>Sleepwear Deals with Cozee</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250310120000 +0000" stop="20250310130000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Plants2Gardens</title>
     </programme>
     <programme start="20250310130000 +0000" stop="20250310140000 +0000" channel="QVC Extra">
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250310140000 +0000" stop="20250310150000 +0000" channel="QVC Extra">
-        <title>Kelly Hoppen Home Design</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="QVC Extra">
-        <title>Kelly Hoppen Home Design</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250310160000 +0000" stop="20250310170000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250310170000 +0000" stop="20250310180000 +0000" channel="QVC Extra">
         <title>The Secret Linen Store</title>
@@ -24736,7 +24736,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250310220000 +0000" stop="20250310230000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Plants2Gardens</title>
     </programme>
     <programme start="20250310230000 +0000" stop="20250311000000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -28731,17 +28731,8 @@
     <programme start="20250310193000 +0000" stop="20250310200000 +0000" channel="QTV Religious">
         <title>Ilm o Amal</title>
     </programme>
-    <programme start="20250310200000 +0000" stop="20250310203000 +0000" channel="QTV Religious">
-        <title>Khulasa e Quran</title>
-    </programme>
-    <programme start="20250310203000 +0000" stop="20250310210000 +0000" channel="QTV Religious">
-        <title>Hamd O Naat</title>
-    </programme>
-    <programme start="20250310210000 +0000" stop="20250310233000 +0000" channel="QTV Religious">
-        <title>Daura E Tarjuma E Qur'an</title>
-    </programme>
-    <programme start="20250310233000 +0000" stop="20250311003000 +0000" channel="QTV Religious">
-        <title>Mehfil e Sama</title>
+    <programme start="20250310200000 +0000" stop="20250310210000 +0000" channel="QTV Religious">
+        <title>Mission Salaam Telethon</title>
     </programme>
     <programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="PTC PUNJABI">
         <title>Panj Taara</title>
