@@ -17890,145 +17890,157 @@
         <title>Music Stories: Victor Thompson</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310230000 +0000" channel="DAYSTAR HD">
-        <title>Today with Marilyn and Sarah</title>
+        <title>Your Miraculous Life With Dr</title>
     </programme>
     <programme start="20250310230000 +0000" stop="20250310233000 +0000" channel="DAYSTAR HD">
-        <title>Joseph Prince</title>
+        <title>The Jewish Jesus</title>
     </programme>
     <programme start="20250310233000 +0000" stop="20250311000000 +0000" channel="DAYSTAR HD">
-        <title>Amazing Facts with Doug Batchelor</title>
+        <title>Today with Marilyn and Sarah</title>
     </programme>
     <programme start="20250311000000 +0000" stop="20250311003000 +0000" channel="DAYSTAR HD">
-        <title>Rick Renner</title>
-    </programme>
-    <programme start="20250311003000 +0000" stop="20250311010000 +0000" channel="DAYSTAR HD">
-        <title>Believers' Walk of Faith with Bill Winston</title>
-    </programme>
-    <programme start="20250311010000 +0000" stop="20250311013000 +0000" channel="DAYSTAR HD">
-        <title>Harvest with Pastor Greg Laurie</title>
-    </programme>
-    <programme start="20250311013000 +0000" stop="20250311020000 +0000" channel="DAYSTAR HD">
-        <title>Dr. David Jeremiah</title>
-    </programme>
-    <programme start="20250311020000 +0000" stop="20250311023000 +0000" channel="DAYSTAR HD">
-        <title>Healing Time with Dr. Doug Weiss</title>
-    </programme>
-    <programme start="20250311023000 +0000" stop="20250311030000 +0000" channel="DAYSTAR HD">
-        <title>Jewish Voice with Jonathan Bernis</title>
-    </programme>
-    <programme start="20250311030000 +0000" stop="20250311033000 +0000" channel="DAYSTAR HD">
-        <title>Manna-fest with Perry Stone</title>
-    </programme>
-    <programme start="20250311033000 +0000" stop="20250311040000 +0000" channel="DAYSTAR HD">
         <title>Joseph Prince</title>
     </programme>
+    <programme start="20250311003000 +0000" stop="20250311010000 +0000" channel="DAYSTAR HD">
+        <title>Amazing Facts with Doug Batchelor</title>
+    </programme>
+    <programme start="20250311010000 +0000" stop="20250311013000 +0000" channel="DAYSTAR HD">
+        <title>Rick Renner</title>
+    </programme>
+    <programme start="20250311013000 +0000" stop="20250311020000 +0000" channel="DAYSTAR HD">
+        <title>Believers' Walk of Faith with Bill Winston</title>
+    </programme>
+    <programme start="20250311020000 +0000" stop="20250311023000 +0000" channel="DAYSTAR HD">
+        <title>Harvest with Pastor Greg Laurie</title>
+    </programme>
+    <programme start="20250311023000 +0000" stop="20250311030000 +0000" channel="DAYSTAR HD">
+        <title>Dr. David Jeremiah</title>
+    </programme>
+    <programme start="20250311030000 +0000" stop="20250311033000 +0000" channel="DAYSTAR HD">
+        <title>Healing Time with Dr. Doug Weiss</title>
+    </programme>
+    <programme start="20250311033000 +0000" stop="20250311040000 +0000" channel="DAYSTAR HD">
+        <title>Jewish Voice with Jonathan Bernis</title>
+    </programme>
     <programme start="20250311040000 +0000" stop="20250311043000 +0000" channel="DAYSTAR HD">
-        <title>Gospel Truth with Andrew Wommack</title>
+        <title>Manna-fest with Perry Stone</title>
     </programme>
     <programme start="20250311043000 +0000" stop="20250311050000 +0000" channel="DAYSTAR HD">
+        <title>Joseph Prince</title>
+    </programme>
+    <programme start="20250311050000 +0000" stop="20250311053000 +0000" channel="DAYSTAR HD">
+        <title>Gospel Truth with Andrew Wommack</title>
+    </programme>
+    <programme start="20250311053000 +0000" stop="20250311060000 +0000" channel="DAYSTAR HD">
         <title>Joni Table Talk</title>
     </programme>
-    <programme start="20250311050000 +0000" stop="20250311060000 +0000" channel="DAYSTAR HD">
-        <title>Ministry Now</title>
-    </programme>
     <programme start="20250311060000 +0000" stop="20250311063000 +0000" channel="DAYSTAR HD">
-        <title>Harvest with Pastor Greg Laurie</title>
+        <title>Ministry Now</title>
     </programme>
     <programme start="20250311063000 +0000" stop="20250311070000 +0000" channel="DAYSTAR HD">
         <title>Ron Carpenter</title>
     </programme>
     <programme start="20250311070000 +0000" stop="20250311073000 +0000" channel="DAYSTAR HD">
-        <title>Kenneth W. Hagin</title>
+        <title>Harvest with Pastor Greg Laurie</title>
     </programme>
     <programme start="20250311073000 +0000" stop="20250311080000 +0000" channel="DAYSTAR HD">
-        <title>Kenneth Copeland</title>
+        <title>Ron Carpenter</title>
     </programme>
     <programme start="20250311080000 +0000" stop="20250311083000 +0000" channel="DAYSTAR HD">
-        <title>Life Today with James &amp; Betty Robison</title>
+        <title>Kenneth W. Hagin</title>
     </programme>
     <programme start="20250311083000 +0000" stop="20250311090000 +0000" channel="DAYSTAR HD">
-        <title>Joni Table Talk</title>
+        <title>Kenneth Copeland</title>
     </programme>
-    <programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="DAYSTAR HD">
-        <title>Ministry Now</title>
+    <programme start="20250311090000 +0000" stop="20250311093000 +0000" channel="DAYSTAR HD">
+        <title>Life Today with James &amp; Betty Robison</title>
+    </programme>
+    <programme start="20250311093000 +0000" stop="20250311100000 +0000" channel="DAYSTAR HD">
+        <title>Joni Table Talk</title>
     </programme>
     <programme start="20250311100000 +0000" stop="20250311103000 +0000" channel="DAYSTAR HD">
-        <title>Joni Table Talk</title>
+        <title>Ministry Now</title>
     </programme>
     <programme start="20250311103000 +0000" stop="20250311110000 +0000" channel="DAYSTAR HD">
         <title>Reflections</title>
     </programme>
     <programme start="20250311110000 +0000" stop="20250311113000 +0000" channel="DAYSTAR HD">
-        <title>Sid Roth's It's Supernatural!</title>
+        <title>Joni Table Talk</title>
     </programme>
     <programme start="20250311113000 +0000" stop="20250311120000 +0000" channel="DAYSTAR HD">
         <title>Reflections</title>
     </programme>
     <programme start="20250311120000 +0000" stop="20250311123000 +0000" channel="DAYSTAR HD">
+        <title>Sid Roth's It's Supernatural!</title>
+    </programme>
+    <programme start="20250311123000 +0000" stop="20250311130000 +0000" channel="DAYSTAR HD">
         <title>Reflections</title>
     </programme>
-    <programme start="20250311123000 +0000" stop="20250311133000 +0000" channel="DAYSTAR HD">
+    <programme start="20250311130000 +0000" stop="20250311133000 +0000" channel="DAYSTAR HD">
         <title>Reflections</title>
     </programme>
     <programme start="20250311133000 +0000" stop="20250311140000 +0000" channel="DAYSTAR HD">
-        <title>Joseph Prince</title>
+        <title>Reflections</title>
     </programme>
     <programme start="20250311140000 +0000" stop="20250311143000 +0000" channel="DAYSTAR HD">
         <title>Kingdom Connection with Jentezen Franklin</title>
     </programme>
     <programme start="20250311143000 +0000" stop="20250311150000 +0000" channel="DAYSTAR HD">
-        <title>Voice of God with Joseph Z</title>
+        <title>Joseph Prince</title>
     </programme>
     <programme start="20250311150000 +0000" stop="20250311153000 +0000" channel="DAYSTAR HD">
-        <title>Joni Table Talk</title>
+        <title>Kingdom Connection with Jentezen Franklin</title>
     </programme>
     <programme start="20250311153000 +0000" stop="20250311160000 +0000" channel="DAYSTAR HD">
-        <title>The Potter's Touch with Bishop T</title>
+        <title>Voice of God with Joseph Z</title>
     </programme>
     <programme start="20250311160000 +0000" stop="20250311163000 +0000" channel="DAYSTAR HD">
-        <title>Life Today with James &amp; Betty Robison</title>
+        <title>Joni Table Talk</title>
     </programme>
     <programme start="20250311163000 +0000" stop="20250311170000 +0000" channel="DAYSTAR HD">
-        <title>Gospel Truth with Andrew Wommack</title>
+        <title>The Potter's Touch with Bishop T</title>
     </programme>
     <programme start="20250311170000 +0000" stop="20250311173000 +0000" channel="DAYSTAR HD">
-        <title>The Jewish Jesus</title>
+        <title>Life Today with James &amp; Betty Robison</title>
     </programme>
     <programme start="20250311173000 +0000" stop="20250311180000 +0000" channel="DAYSTAR HD">
-        <title>Today with Marilyn and Sarah</title>
+        <title>Gospel Truth with Andrew Wommack</title>
     </programme>
     <programme start="20250311180000 +0000" stop="20250311183000 +0000" channel="DAYSTAR HD">
-        <title>Kenneth Copeland</title>
+        <title>The Jewish Jesus</title>
     </programme>
     <programme start="20250311183000 +0000" stop="20250311190000 +0000" channel="DAYSTAR HD">
-        <title>Creflo Dollar</title>
+        <title>Today with Marilyn and Sarah</title>
     </programme>
     <programme start="20250311190000 +0000" stop="20250311193000 +0000" channel="DAYSTAR HD">
-        <title>Jewish Voice with Jonathan Bernis</title>
+        <title>Kenneth Copeland</title>
     </programme>
     <programme start="20250311193000 +0000" stop="20250311200000 +0000" channel="DAYSTAR HD">
+        <title>Creflo Dollar</title>
+    </programme>
+    <programme start="20250311200000 +0000" stop="20250311203000 +0000" channel="DAYSTAR HD">
+        <title>Jewish Voice with Jonathan Bernis</title>
+    </programme>
+    <programme start="20250311203000 +0000" stop="20250311210000 +0000" channel="DAYSTAR HD">
         <title>Rick Renner</title>
     </programme>
-    <programme start="20250311200000 +0000" stop="20250311210000 +0000" channel="DAYSTAR HD">
-        <title>Ministry Now</title>
-    </programme>
     <programme start="20250311210000 +0000" stop="20250311213000 +0000" channel="DAYSTAR HD">
-        <title>Gary Keesee, Fixing the Money Thing</title>
+        <title>Ministry Now</title>
     </programme>
     <programme start="20250311213000 +0000" stop="20250311220000 +0000" channel="DAYSTAR HD">
         <title>Larry &amp; Tiz Huch</title>
     </programme>
     <programme start="20250311220000 +0000" stop="20250311223000 +0000" channel="DAYSTAR HD">
-        <title>Sid Roth's It's Supernatural!</title>
+        <title>Gary Keesee, Fixing the Money Thing</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="DAYSTAR HD">
-        <title>Today with Marilyn and Sarah</title>
+        <title>Larry &amp; Tiz Huch</title>
     </programme>
     <programme start="20250311230000 +0000" stop="20250311233000 +0000" channel="DAYSTAR HD">
-        <title>Joseph Prince</title>
+        <title>Sid Roth's It's Supernatural!</title>
     </programme>
     <programme start="20250311233000 +0000" stop="20250312003000 +0000" channel="DAYSTAR HD">
-        <title>Dr. Sam</title>
+        <title>Today with Marilyn and Sarah</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310230000 +0000" channel="LoveWorld HD">
         <title>Songs of Zion</title>
@@ -18253,10 +18265,13 @@
         <title>Children's Rosary</title>
     </programme>
     <programme start="20250311170000 +0000" stop="20250311173000 +0000" channel="EWTN Catholic">
-        <title>At Home with Jim and Joy</title>
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250311173000 +0000" stop="20250311180000 +0000" channel="EWTN Catholic">
+    <programme start="20250311173000 +0000" stop="20250311174500 +0000" channel="EWTN Catholic">
         <title>At the Heart of Relationships</title>
+    </programme>
+    <programme start="20250311174500 +0000" stop="20250311180000 +0000" channel="EWTN Catholic">
+        <title>Into The Breach: The Mission of The Family</title>
     </programme>
     <programme start="20250311180000 +0000" stop="20250311190000 +0000" channel="EWTN Catholic">
         <title>Daily Mass</title>
@@ -18267,11 +18282,8 @@
     <programme start="20250311193000 +0000" stop="20250311200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250311200000 +0000" stop="20250311204500 +0000" channel="EWTN Catholic">
-        <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250311204500 +0000" stop="20250311210000 +0000" channel="EWTN Catholic">
-        <title>Into The Breach: The Mission of The Family</title>
+    <programme start="20250311200000 +0000" stop="20250311210000 +0000" channel="EWTN Catholic">
+        <title>Journey Home</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250311213000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
