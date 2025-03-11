@@ -15111,14 +15111,17 @@
     <programme start="20250311193000 +0000" stop="20250311220000 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
     </programme>
-    <programme start="20250311220000 +0000" stop="20250311225000 +0000" channel="BBC Parl HD">
+    <programme start="20250311220000 +0000" stop="20250311225500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
     </programme>
-    <programme start="20250311225000 +0000" stop="20250311233500 +0000" channel="BBC Parl HD">
+    <programme start="20250311225500 +0000" stop="20250311234000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250311233500 +0000" stop="20250312003500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250311234000 +0000" stop="20250311234500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Introduction</title>
+    </programme>
+    <programme start="20250311234500 +0000" stop="20250312004500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Courts and Tribunals Statement</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310230000 +0000" channel="CNBC HD">
         <title>NBC Nightly News</title>
@@ -28956,11 +28959,8 @@
     <programme start="20250311200000 +0000" stop="20250311203000 +0000" channel="QTV Religious">
         <title>Mission Salaam Telethon</title>
     </programme>
-    <programme start="20250311203000 +0000" stop="20250311210000 +0000" channel="QTV Religious">
+    <programme start="20250311203000 +0000" stop="20250311233000 +0000" channel="QTV Religious">
         <title>Hamd O Naat</title>
-    </programme>
-    <programme start="20250311210000 +0000" stop="20250311233000 +0000" channel="QTV Religious">
-        <title>Daura E Tarjuma E Qur'an</title>
     </programme>
     <programme start="20250311233000 +0000" stop="20250312003000 +0000" channel="QTV Religious">
         <title>Mehfil e Sama</title>
@@ -29284,21 +29284,36 @@
         <title>Akaal London: Punjabi Virsa</title>
     </programme>
     <programme start="20250311201500 +0000" stop="20250311210000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Panj Takht</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
-    <programme start="20250311210000 +0000" stop="20250311213000 +0000" channel="Akaal Channel">
+    <programme start="20250311210000 +0000" stop="20250311211500 +0000" channel="Akaal Channel">
+        <title>Akaal Channel News</title>
+    </programme>
+    <programme start="20250311211500 +0000" stop="20250311213000 +0000" channel="Akaal Channel">
         <title>Akaal Channel News</title>
     </programme>
     <programme start="20250311213000 +0000" stop="20250311213500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
     </programme>
-    <programme start="20250311213500 +0000" stop="20250311220000 +0000" channel="Akaal Channel">
+    <programme start="20250311213500 +0000" stop="20250311214500 +0000" channel="Akaal Channel">
         <title>Sikh View Point</title>
     </programme>
-    <programme start="20250311220000 +0000" stop="20250311223000 +0000" channel="Akaal Channel">
+    <programme start="20250311214500 +0000" stop="20250311215000 +0000" channel="Akaal Channel">
+        <title>Today's Sikh History</title>
+    </programme>
+    <programme start="20250311215000 +0000" stop="20250311220000 +0000" channel="Akaal Channel">
+        <title>Sikh View Point</title>
+    </programme>
+    <programme start="20250311220000 +0000" stop="20250311221500 +0000" channel="Akaal Channel">
         <title>Akaal Channel Uncensored</title>
     </programme>
-    <programme start="20250311223000 +0000" stop="20250311233000 +0000" channel="Akaal Channel">
+    <programme start="20250311221500 +0000" stop="20250311223000 +0000" channel="Akaal Channel">
+        <title>Akaal Channel Uncensored</title>
+    </programme>
+    <programme start="20250311223000 +0000" stop="20250311224500 +0000" channel="Akaal Channel">
+        <title>Current Issues</title>
+    </programme>
+    <programme start="20250311224500 +0000" stop="20250311233000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
     <programme start="20250311233000 +0000" stop="20250312003000 +0000" channel="Akaal Channel">
