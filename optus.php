@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250310193000 +0000" stop="20250310223000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - West Ham United v Newcastle United</title>
-    </programme>
-    <programme start="20250310223000 +0000" stop="20250310233000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250311013000 +0000" stop="20250311023000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA Nations League - Portugal v Denmark</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - France v Croatia</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA Nations League - Spain v Netherlands</title>
     </programme>
 </tv>
