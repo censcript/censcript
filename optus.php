@@ -30,10 +30,10 @@
     <programme start="20250314190500 +0000" stop="20250314212500 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Liverpool v Manchester United</title>
     </programme>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
+    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
     </programme>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
+    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Washington Spirit</title>
     </programme>
     <programme start="20250315045000 +0000" stop="20250315071000 +0000" channel="Optus Sport 7.optus">
@@ -72,13 +72,13 @@
     <programme start="20250315200000 +0000" stop="20250315210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
-    <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 404.optus">
+    <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
     </programme>
-    <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 405.optus">
+    <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
     </programme>
-    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 406.optus">
+    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
     </programme>
     <programme start="20250316035500 +0000" stop="20250316061000 +0000" channel="Optus Sport 7.optus">
