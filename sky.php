@@ -29985,16 +29985,10 @@
     <programme start="20250311120000 +0000" stop="20250311121600 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250311121600 +0000" stop="20250311122000 +0000" channel="NTV">
+    <programme start="20250311121600 +0000" stop="20250311122100 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250311122000 +0000" stop="20250311122100 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250311122100 +0000" stop="20250311122500 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250311122500 +0000" stop="20250311123000 +0000" channel="NTV">
+    <programme start="20250311122100 +0000" stop="20250311123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250311123000 +0000" stop="20250311130000 +0000" channel="NTV">
@@ -30012,14 +30006,8 @@
     <programme start="20250311150000 +0000" stop="20250311153000 +0000" channel="NTV">
         <title>Virtues Of Ramadan</title>
     </programme>
-    <programme start="20250311153000 +0000" stop="20250311153100 +0000" channel="NTV">
+    <programme start="20250311153000 +0000" stop="20250311160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250311153100 +0000" stop="20250311153600 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250311153600 +0000" stop="20250311160000 +0000" channel="NTV">
-        <title>Insomnia</title>
     </programme>
     <programme start="20250311160000 +0000" stop="20250311160400 +0000" channel="NTV">
         <title>Quraner Alo</title>
@@ -30027,59 +30015,32 @@
     <programme start="20250311160400 +0000" stop="20250311160900 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250311160900 +0000" stop="20250311163000 +0000" channel="NTV">
+    <programme start="20250311160900 +0000" stop="20250311170000 +0000" channel="NTV">
         <title>Quraner Alo</title>
     </programme>
-    <programme start="20250311163000 +0000" stop="20250311170000 +0000" channel="NTV">
-        <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250311170000 +0000" stop="20250311172500 +0000" channel="NTV">
+    <programme start="20250311170000 +0000" stop="20250311173000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250311172500 +0000" stop="20250311173000 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250311173000 +0000" stop="20250311180000 +0000" channel="NTV">
+    <programme start="20250311173000 +0000" stop="20250311180200 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250311180000 +0000" stop="20250311180200 +0000" channel="NTV">
-        <title>Fire Takao</title>
     </programme>
     <programme start="20250311180200 +0000" stop="20250311180700 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250311180700 +0000" stop="20250311185400 +0000" channel="NTV">
+    <programme start="20250311180700 +0000" stop="20250311192400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250311185400 +0000" stop="20250311190000 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250311190000 +0000" stop="20250311191500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
-    </programme>
-    <programme start="20250311191500 +0000" stop="20250311192400 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250311192400 +0000" stop="20250311192900 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250311192900 +0000" stop="20250311200000 +0000" channel="NTV">
+    <programme start="20250311192900 +0000" stop="20250311201400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250311200000 +0000" stop="20250311201400 +0000" channel="NTV">
-        <title>Ditio Matra</title>
-    </programme>
-    <programme start="20250311201400 +0000" stop="20250311210000 +0000" channel="NTV">
+    <programme start="20250311201400 +0000" stop="20250311211400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250311210000 +0000" stop="20250311211400 +0000" channel="NTV">
-        <title>Kurulus Osman Gazi</title>
-    </programme>
-    <programme start="20250311211400 +0000" stop="20250311213000 +0000" channel="NTV">
+    <programme start="20250311211400 +0000" stop="20250311220000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250311213000 +0000" stop="20250311220000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
     <programme start="20250311220000 +0000" stop="20250311223000 +0000" channel="NTV">
         <title>NTV Europe News</title>

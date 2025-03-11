@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250311013000 +0000" stop="20250311023000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250311030000 +0000" stop="20250311033000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Claude Makalele</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Nations League - Spain v Netherlands</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA Nations League - Belgium v Ukraine</title>
+    </programme>
+    <programme start="20250323193500 +0000" stop="20250323215500 +0000" channel="Optus Sport 7.optus">
+        <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
     </programme>
 </tv>
