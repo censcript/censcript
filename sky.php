@@ -472,7 +472,7 @@
         <title>Charity Scams: Don't Get Caught Out</title>
     </programme>
     <programme start="20250311200000 +0000" stop="20250311210000 +0000" channel="Channel 5">
-        <title>Dogs Behaving (Very) Badly</title>
+        <title>New: Dogs Behaving (Very) Badly</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250311220000 +0000" channel="Channel 5">
         <title>New: The Au Pair</title>
@@ -7483,7 +7483,7 @@
         <title>Charity Scams: Don't Get Caught Out</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250311220000 +0000" channel="Channel 5+1">
-        <title>Dogs Behaving (Very) Badly</title>
+        <title>New: Dogs Behaving (Very) Badly</title>
     </programme>
     <programme start="20250311220000 +0000" stop="20250311230000 +0000" channel="Channel 5+1">
         <title>New: The Au Pair</title>
@@ -24958,7 +24958,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250311130000 +0000" stop="20250311140000 +0000" channel="QVC Extra">
-        <title>Fashion Elevated Essentials</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250311140000 +0000" stop="20250311150000 +0000" channel="QVC Extra">
         <title>Richard Jackson's Garden</title>
@@ -24970,22 +24970,22 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250311170000 +0000" stop="20250311180000 +0000" channel="QVC Extra">
-        <title>Skechers Footwear</title>
+        <title>Original Cake Company</title>
     </programme>
     <programme start="20250311180000 +0000" stop="20250311190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250311190000 +0000" stop="20250311200000 +0000" channel="QVC Extra">
-        <title>The Secret Linen Store</title>
+        <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250311200000 +0000" stop="20250311210000 +0000" channel="QVC Extra">
         <title>Step into Spring with Kim &amp; Co</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250311220000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Spring Gardening Inspirations</title>
     </programme>
     <programme start="20250311220000 +0000" stop="20250311230000 +0000" channel="QVC Extra">
-        <title>Fashion Elevated Essentials</title>
+        <title>Apricot Clothing</title>
     </programme>
     <programme start="20250311230000 +0000" stop="20250312000000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -29847,11 +29847,8 @@
     <programme start="20250311070000 +0000" stop="20250311090000 +0000" channel="ATN">
         <title>Shahoshika</title>
     </programme>
-    <programme start="20250311090000 +0000" stop="20250311093000 +0000" channel="ATN">
+    <programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="ATN">
         <title>Rehana</title>
-    </programme>
-    <programme start="20250311093000 +0000" stop="20250311100000 +0000" channel="ATN">
-        <title>Palki</title>
     </programme>
     <programme start="20250311100000 +0000" stop="20250311103000 +0000" channel="ATN">
         <title>Charity Update: Goreeb Eathem</title>
@@ -29862,65 +29859,14 @@
     <programme start="20250311110000 +0000" stop="20250311120000 +0000" channel="ATN">
         <title>Upri</title>
     </programme>
-    <programme start="20250311120000 +0000" stop="20250311122000 +0000" channel="ATN">
+    <programme start="20250311120000 +0000" stop="20250311153000 +0000" channel="ATN">
         <title>Bashiwala</title>
-    </programme>
-    <programme start="20250311122000 +0000" stop="20250311122500 +0000" channel="ATN">
-        <title>Zuhr Adhaan</title>
-    </programme>
-    <programme start="20250311122500 +0000" stop="20250311145500 +0000" channel="ATN">
-        <title>Bashiwala</title>
-    </programme>
-    <programme start="20250311145500 +0000" stop="20250311152500 +0000" channel="ATN">
-        <title>Bashiwala</title>
-    </programme>
-    <programme start="20250311152500 +0000" stop="20250311153000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
     </programme>
     <programme start="20250311153000 +0000" stop="20250311160000 +0000" channel="ATN">
         <title>Obiram Bangladesh</title>
     </programme>
     <programme start="20250311160000 +0000" stop="20250311170000 +0000" channel="ATN">
         <title>Ektai Tumi</title>
-    </programme>
-    <programme start="20250311170000 +0000" stop="20250311172500 +0000" channel="ATN">
-        <title>Piliar</title>
-    </programme>
-    <programme start="20250311172500 +0000" stop="20250311173000 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250311173000 +0000" stop="20250311180000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250311180000 +0000" stop="20250311184500 +0000" channel="ATN">
-        <title>ATN Archive</title>
-    </programme>
-    <programme start="20250311184500 +0000" stop="20250311185000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250311185000 +0000" stop="20250311190000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250311190000 +0000" stop="20250311193000 +0000" channel="ATN">
-        <title>Palki</title>
-    </programme>
-    <programme start="20250311193000 +0000" stop="20250311200000 +0000" channel="ATN">
-        <title>Road -e food e</title>
-    </programme>
-    <programme start="20250311200000 +0000" stop="20250311213000 +0000" channel="ATN">
-        <title>Obosheshe Ekdin</title>
-    </programme>
-    <programme start="20250311213000 +0000" stop="20250311220000 +0000" channel="ATN">
-        <title>ATN Bangla Music</title>
-    </programme>
-    <programme start="20250311220000 +0000" stop="20250311223000 +0000" channel="ATN">
-        <title>House Husband</title>
-    </programme>
-    <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="ATN">
-        <title>Rehana</title>
-    </programme>
-    <programme start="20250311230000 +0000" stop="20250312000000 +0000" channel="ATN">
-        <title>Bidhan</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
@@ -31030,7 +30976,7 @@
         <title>Charity Scams: Don't Get Caught Out</title>
     </programme>
     <programme start="20250311200000 +0000" stop="20250311210000 +0000" channel="Channel 5 HD">
-        <title>Dogs Behaving (Very) Badly</title>
+        <title>New: Dogs Behaving (Very) Badly</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250311220000 +0000" channel="Channel 5 HD">
         <title>New: The Au Pair</title>
