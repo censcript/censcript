@@ -24235,7 +24235,7 @@
         <title>Doll10 Beauty</title>
     </programme>
     <programme start="20250311100000 +0000" stop="20250311110000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Alison Young: Collagen</title>
     </programme>
     <programme start="20250311110000 +0000" stop="20250311120000 +0000" channel="QVC Beauty">
         <title>Menopause Your Way</title>
@@ -24349,10 +24349,10 @@
         <title>The Fashion Edit with Caroline</title>
     </programme>
     <programme start="20250311220000 +0000" stop="20250311230000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Seasalt</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250311230000 +0000" stop="20250312000000 +0000" channel="QVC Style HD">
-        <title>Luxury Jewellery</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250310220000 +0000" stop="20250310230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -36429,11 +36429,8 @@
     <programme start="20250311223000 +0000" stop="20250311224000 +0000" channel="BBC One NI HD">
         <title>BBC Newsline</title>
     </programme>
-    <programme start="20250311224000 +0000" stop="20250311231000 +0000" channel="BBC One NI HD">
+    <programme start="20250311224000 +0000" stop="20250311234000 +0000" channel="BBC One NI HD">
         <title>Who Killed John George? - Spotlight</title>
-    </programme>
-    <programme start="20250311231000 +0000" stop="20250312001000 +0000" channel="BBC One NI HD">
-        <title>The Hunt for Peter Tobin</title>
     </programme>
     <programme start="20250310223000 +0000" stop="20250310230000 +0000" channel="BBC Two Wal HD">
         <title>Newsnight</title>
