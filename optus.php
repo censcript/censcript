@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250311170000 +0000" stop="20250311173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Match Officials Mic&#039;d Up</title>
-    </programme>
     <programme start="20250312150000 +0000" stop="20250312160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
 </tv>

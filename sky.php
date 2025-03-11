@@ -12309,8 +12309,11 @@
     <programme start="20250312113000 +0000" stop="20250312120000 +0000" channel="MTV MUSIC">
         <title>Massive Dance Hits!</title>
     </programme>
-    <programme start="20250312120000 +0000" stop="20250312170000 +0000" channel="MTV MUSIC">
+    <programme start="20250312120000 +0000" stop="20250312162000 +0000" channel="MTV MUSIC">
         <title>Most Streamed Songs Of The 10s Official Top 50</title>
+    </programme>
+    <programme start="20250312162000 +0000" stop="20250312170000 +0000" channel="MTV MUSIC">
+        <title>New &amp; Now!</title>
     </programme>
     <programme start="20250312170000 +0000" stop="20250312190000 +0000" channel="MTV MUSIC">
         <title>No.1s On This Day: 2001-2024</title>
@@ -12324,10 +12327,7 @@
     <programme start="20250312220000 +0000" stop="20250312222500 +0000" channel="MTV MUSIC">
         <title>Thirty Seconds To Mars: I Want My MTV</title>
     </programme>
-    <programme start="20250312222500 +0000" stop="20250312223000 +0000" channel="MTV MUSIC">
-        <title>Rock.Alt.Indie</title>
-    </programme>
-    <programme start="20250312223000 +0000" stop="20250312230000 +0000" channel="MTV MUSIC">
+    <programme start="20250312222500 +0000" stop="20250312230000 +0000" channel="MTV MUSIC">
         <title>Rock.Alt.Indie</title>
     </programme>
     <programme start="20250312230000 +0000" stop="20250313000000 +0000" channel="MTV MUSIC">
@@ -12354,8 +12354,11 @@
     <programme start="20250312080000 +0000" stop="20250312140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250312140000 +0000" stop="20250312160000 +0000" channel="MTV HITS">
+    <programme start="20250312140000 +0000" stop="20250312154000 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
+    </programme>
+    <programme start="20250312154000 +0000" stop="20250312160000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250312160000 +0000" stop="20250312170000 +0000" channel="MTV HITS">
         <title>Miley Cyrus x Lady Gaga</title>
@@ -12393,17 +12396,20 @@
     <programme start="20250312130000 +0000" stop="20250312140000 +0000" channel="MTV 90s">
         <title>Set Adrift In 90s Chill!</title>
     </programme>
-    <programme start="20250312140000 +0000" stop="20250312180000 +0000" channel="MTV 90s">
+    <programme start="20250312140000 +0000" stop="20250312173000 +0000" channel="MTV 90s">
         <title>1992 Wrapped!</title>
+    </programme>
+    <programme start="20250312173000 +0000" stop="20250312180000 +0000" channel="MTV 90s">
+        <title>1992's Chart Champs!</title>
     </programme>
     <programme start="20250312180000 +0000" stop="20250312185500 +0000" channel="MTV 90s">
         <title>This Week In 1990: Rewind 10!</title>
     </programme>
-    <programme start="20250312185500 +0000" stop="20250312190000 +0000" channel="MTV 90s">
+    <programme start="20250312185500 +0000" stop="20250312235000 +0000" channel="MTV 90s">
         <title>Ultimate 50 Albums Of The 90s</title>
     </programme>
-    <programme start="20250312190000 +0000" stop="20250312200000 +0000" channel="MTV 90s">
-        <title>Ultimate 50 Albums Of The 90s</title>
+    <programme start="20250312235000 +0000" stop="20250313005000 +0000" channel="MTV 90s">
+        <title>Stereophonics: Then &amp; Now!</title>
     </programme>
     <programme start="20250311210000 +0000" stop="20250312014000 +0000" channel="MTV 80s">
         <title>40 Years Young In 2025! Top 50</title>
@@ -12420,19 +12426,13 @@
     <programme start="20250312090000 +0000" stop="20250312134000 +0000" channel="MTV 80s">
         <title>40 Years Young In 2025! Top 50</title>
     </programme>
-    <programme start="20250312134000 +0000" stop="20250312140000 +0000" channel="MTV 80s">
-        <title>80s Double Shots: 2 From 1!</title>
-    </programme>
-    <programme start="20250312140000 +0000" stop="20250312150000 +0000" channel="MTV 80s">
+    <programme start="20250312134000 +0000" stop="20250312150000 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
     <programme start="20250312150000 +0000" stop="20250312192000 +0000" channel="MTV 80s">
         <title>1983 Wrapped!</title>
     </programme>
-    <programme start="20250312192000 +0000" stop="20250312200000 +0000" channel="MTV 80s">
-        <title>I Want My MTV 80s!</title>
-    </programme>
-    <programme start="20250312200000 +0000" stop="20250312210000 +0000" channel="MTV 80s">
+    <programme start="20250312192000 +0000" stop="20250312210000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
     </programme>
     <programme start="20250312210000 +0000" stop="20250312220000 +0000" channel="MTV 80s">
@@ -13986,11 +13986,8 @@
     <programme start="20250312221500 +0000" stop="20250312224500 +0000" channel="TNT Sports 3">
         <title>Match Officials Mic'd Up</title>
     </programme>
-    <programme start="20250312224500 +0000" stop="20250312230000 +0000" channel="TNT Sports 3">
+    <programme start="20250312224500 +0000" stop="20250312231500 +0000" channel="TNT Sports 3">
         <title>Fight Week: UFC 313 Review Show</title>
-    </programme>
-    <programme start="20250312230000 +0000" stop="20250312231500 +0000" channel="TNT Sports 3">
-        <title>Premier League Reload</title>
     </programme>
     <programme start="20250312231500 +0000" stop="20250312234500 +0000" channel="TNT Sports 3">
         <title>UFC Connected</title>
@@ -27522,13 +27519,13 @@
     <programme start="20250311193000 +0000" stop="20250312000000 +0000" channel="Islam Channel">
         <title>Muslim Hands Live Appeal</title>
     </programme>
-    <programme start="20250312000000 +0000" stop="20250312030000 +0000" channel="Islam Channel">
+    <programme start="20250312000000 +0000" stop="20250312023000 +0000" channel="Islam Channel">
         <title>Muslim Hands Live Appeal</title>
     </programme>
-    <programme start="20250312030000 +0000" stop="20250312031500 +0000" channel="Islam Channel">
+    <programme start="20250312023000 +0000" stop="20250312025000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Fajr</title>
     </programme>
-    <programme start="20250312031500 +0000" stop="20250312044100 +0000" channel="Islam Channel">
+    <programme start="20250312025000 +0000" stop="20250312044100 +0000" channel="Islam Channel">
         <title>Muslim Hands Live Appeal</title>
     </programme>
     <programme start="20250312044100 +0000" stop="20250312044600 +0000" channel="Islam Channel">
@@ -27561,26 +27558,17 @@
     <programme start="20250312090000 +0000" stop="20250312091500 +0000" channel="Islam Channel">
         <title>Chronicles of Muhammad</title>
     </programme>
-    <programme start="20250312091500 +0000" stop="20250312092000 +0000" channel="Islam Channel">
+    <programme start="20250312091500 +0000" stop="20250312093000 +0000" channel="Islam Channel">
         <title>5 Pillars Pop Quiz</title>
     </programme>
-    <programme start="20250312092000 +0000" stop="20250312093000 +0000" channel="Islam Channel">
-        <title>IslamiQA Live</title>
-    </programme>
     <programme start="20250312093000 +0000" stop="20250312094000 +0000" channel="Islam Channel">
-        <title>Quran for Hearts and Minds</title>
+        <title>Beyond Occupation</title>
     </programme>
-    <programme start="20250312094000 +0000" stop="20250312095000 +0000" channel="Islam Channel">
+    <programme start="20250312094000 +0000" stop="20250312100000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Dhuhr</title>
     </programme>
-    <programme start="20250312095000 +0000" stop="20250312100000 +0000" channel="Islam Channel">
-        <title>Quran for Hearts and Minds</title>
-    </programme>
-    <programme start="20250312100000 +0000" stop="20250312110000 +0000" channel="Islam Channel">
+    <programme start="20250312100000 +0000" stop="20250312115000 +0000" channel="Islam Channel">
         <title>Salaam Britain Live</title>
-    </programme>
-    <programme start="20250312110000 +0000" stop="20250312115000 +0000" channel="Islam Channel">
-        <title>Great Judges</title>
     </programme>
     <programme start="20250312115000 +0000" stop="20250312120000 +0000" channel="Islam Channel">
         <title>Conversations in Quran</title>
@@ -27612,11 +27600,8 @@
     <programme start="20250312143000 +0000" stop="20250312150000 +0000" channel="Islam Channel">
         <title>Islam Channel News</title>
     </programme>
-    <programme start="20250312150000 +0000" stop="20250312150800 +0000" channel="Islam Channel">
+    <programme start="20250312150000 +0000" stop="20250312151800 +0000" channel="Islam Channel">
         <title>Recite Live</title>
-    </programme>
-    <programme start="20250312150800 +0000" stop="20250312151800 +0000" channel="Islam Channel">
-        <title>Live Taraweeh Prayers</title>
     </programme>
     <programme start="20250312151800 +0000" stop="20250312152300 +0000" channel="Islam Channel">
         <title>Asr Adhan</title>
@@ -29097,13 +29082,13 @@
     <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Sangat">
         <title>Zafarnama</title>
     </programme>
-    <programme start="20250311223000 +0000" stop="20250311224500 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
-    </programme>
     <programme start="20250311224500 +0000" stop="20250311233000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
-    <programme start="20250311233000 +0000" stop="20250312010000 +0000" channel="Akaal Channel">
+    <programme start="20250311233000 +0000" stop="20250311234500 +0000" channel="Akaal Channel">
+        <title>Gurmat Smagam</title>
+    </programme>
+    <programme start="20250311234500 +0000" stop="20250312010000 +0000" channel="Akaal Channel">
         <title>Gurmat Smagam</title>
     </programme>
     <programme start="20250312010000 +0000" stop="20250312020000 +0000" channel="Akaal Channel">
@@ -29121,26 +29106,23 @@
     <programme start="20250312053000 +0000" stop="20250312070000 +0000" channel="Akaal Channel">
         <title>Nitnem with Subtitles</title>
     </programme>
-    <programme start="20250312070000 +0000" stop="20250312080000 +0000" channel="Akaal Channel">
-        <title>Katha: Bhai Pinderpal Singh</title>
-    </programme>
-    <programme start="20250312080000 +0000" stop="20250312080500 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
+    <programme start="20250312070000 +0000" stop="20250312080500 +0000" channel="Akaal Channel">
+        <title>Gurmat Smagam</title>
     </programme>
     <programme start="20250312080500 +0000" stop="20250312090000 +0000" channel="Akaal Channel">
         <title>Katha Veechar</title>
     </programme>
     <programme start="20250312090000 +0000" stop="20250312100000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Sikligar Gurdwara Thara Sahib</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312103000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
-    <programme start="20250312103000 +0000" stop="20250312113000 +0000" channel="Akaal Channel">
+    <programme start="20250312103000 +0000" stop="20250312105500 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
-    <programme start="20250312113000 +0000" stop="20250312115500 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+    <programme start="20250312105500 +0000" stop="20250312115500 +0000" channel="Akaal Channel">
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250312115500 +0000" stop="20250312120000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -29155,13 +29137,13 @@
         <title>Special Report</title>
     </programme>
     <programme start="20250312143000 +0000" stop="20250312153000 +0000" channel="Akaal Channel">
-        <title>Guru Nanak Sahara</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250312153000 +0000" stop="20250312163000 +0000" channel="Akaal Channel">
         <title>Teleshopping: Pakistan Yatra</title>
     </programme>
     <programme start="20250312163000 +0000" stop="20250312173000 +0000" channel="Akaal Channel">
-        <title>Live: Sikligar Wanjare Gurdwara</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250312173000 +0000" stop="20250312180000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
@@ -29173,7 +29155,7 @@
         <title>Media Watch</title>
     </programme>
     <programme start="20250312192000 +0000" stop="20250312202000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250312202000 +0000" stop="20250312210000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>
@@ -34029,11 +34011,8 @@
     <programme start="20250312221500 +0000" stop="20250312224500 +0000" channel="TNTSports3 HD">
         <title>Match Officials Mic'd Up</title>
     </programme>
-    <programme start="20250312224500 +0000" stop="20250312230000 +0000" channel="TNTSports3 HD">
+    <programme start="20250312224500 +0000" stop="20250312231500 +0000" channel="TNTSports3 HD">
         <title>Fight Week: UFC 313 Review Show</title>
-    </programme>
-    <programme start="20250312230000 +0000" stop="20250312231500 +0000" channel="TNTSports3 HD">
-        <title>Premier League Reload</title>
     </programme>
     <programme start="20250312231500 +0000" stop="20250312234500 +0000" channel="TNTSports3 HD">
         <title>UFC Connected</title>
