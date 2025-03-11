@@ -29748,11 +29748,8 @@
     <programme start="20250310192700 +0000" stop="20250311020000 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
     </programme>
-    <programme start="20250311020000 +0000" stop="20250311030000 +0000" channel="IQRA Bangla">
+    <programme start="20250311020000 +0000" stop="20250311044300 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
-    </programme>
-    <programme start="20250311030000 +0000" stop="20250311044300 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250311044300 +0000" stop="20250311045000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Fajr</title>
@@ -36724,7 +36721,7 @@
         <title>Radio 1 News</title>
     </programme>
     <programme start="20250311153300 +0000" stop="20250311174500 +0000" channel="BBC R1">
-        <title>Going Home with Vick, Katie and Jamie on Radio 1</title>
+        <title>Going Home on Radio 1</title>
     </programme>
     <programme start="20250311174500 +0000" stop="20250311180000 +0000" channel="BBC R1">
         <title>Newsbeat @ 17:45</title>
