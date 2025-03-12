@@ -24835,7 +24835,7 @@
         <title>Original Cake Company</title>
     </programme>
     <programme start="20250312160000 +0000" stop="20250312170000 +0000" channel="QVC Extra">
-        <title>Cook's Essentials</title>
+        <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250312170000 +0000" stop="20250312180000 +0000" channel="QVC Extra">
         <title>The Holiday Shop</title>
@@ -24856,7 +24856,7 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250312230000 +0000" stop="20250313000000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Step into Spring with Kim &amp; Co</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="High Street TV 3">
         <title>Pocket Vac</title>
