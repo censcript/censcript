@@ -13890,22 +13890,22 @@
     <programme start="20250312125500 +0000" stop="20250312135000 +0000" channel="SkySp Mix HD">
         <title>WPL: Mumbai I v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250312135000 +0000" stop="20250312173000 +0000" channel="SkySp Mix HD">
+    <programme start="20250312135000 +0000" stop="20250312174501 +0000" channel="SkySp Mix HD">
         <title>WPL: Mumbai I v RCB</title>
     </programme>
-    <programme start="20250312173000 +0000" stop="20250312183000 +0000" channel="SkySp Mix HD">
+    <programme start="20250312174501 +0000" stop="20250312184501 +0000" channel="SkySp Mix HD">
         <title>Fight Night: Jonas v Price</title>
     </programme>
-    <programme start="20250312183000 +0000" stop="20250312200000 +0000" channel="SkySp Mix HD">
+    <programme start="20250312184501 +0000" stop="20250312201501 +0000" channel="SkySp Mix HD">
         <title>Hagler v Duran 1983</title>
     </programme>
-    <programme start="20250312200000 +0000" stop="20250312211500 +0000" channel="SkySp Mix HD">
+    <programme start="20250312201501 +0000" stop="20250312213001 +0000" channel="SkySp Mix HD">
         <title>Barkley v Duran 1989</title>
     </programme>
-    <programme start="20250312211500 +0000" stop="20250312220000 +0000" channel="SkySp Mix HD">
+    <programme start="20250312213001 +0000" stop="20250312221501 +0000" channel="SkySp Mix HD">
         <title>Moore v Duran 1983</title>
     </programme>
-    <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="SkySp Mix HD">
+    <programme start="20250312221501 +0000" stop="20250312231501 +0000" channel="SkySp Mix HD">
         <title>Tri-Nations Rugby: NZ v ARG</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="TNT Sports 3">
@@ -33912,22 +33912,22 @@
     <programme start="20250312125500 +0000" stop="20250312135000 +0000" channel="SkySp Mix">
         <title>WPL: Mumbai I v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250312135000 +0000" stop="20250312173000 +0000" channel="SkySp Mix">
+    <programme start="20250312135000 +0000" stop="20250312174501 +0000" channel="SkySp Mix">
         <title>WPL: Mumbai I v RCB</title>
     </programme>
-    <programme start="20250312173000 +0000" stop="20250312183000 +0000" channel="SkySp Mix">
+    <programme start="20250312174501 +0000" stop="20250312184501 +0000" channel="SkySp Mix">
         <title>Fight Night: Jonas v Price</title>
     </programme>
-    <programme start="20250312183000 +0000" stop="20250312200000 +0000" channel="SkySp Mix">
+    <programme start="20250312184501 +0000" stop="20250312201501 +0000" channel="SkySp Mix">
         <title>Hagler v Duran 1983</title>
     </programme>
-    <programme start="20250312200000 +0000" stop="20250312211500 +0000" channel="SkySp Mix">
+    <programme start="20250312201501 +0000" stop="20250312213001 +0000" channel="SkySp Mix">
         <title>Barkley v Duran 1989</title>
     </programme>
-    <programme start="20250312211500 +0000" stop="20250312220000 +0000" channel="SkySp Mix">
+    <programme start="20250312213001 +0000" stop="20250312221501 +0000" channel="SkySp Mix">
         <title>Moore v Duran 1983</title>
     </programme>
-    <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="SkySp Mix">
+    <programme start="20250312221501 +0000" stop="20250312231501 +0000" channel="SkySp Mix">
         <title>Tri-Nations Rugby: NZ v ARG</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="TNTSports3 HD">
