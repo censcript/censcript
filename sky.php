@@ -13492,13 +13492,13 @@
         <title>NFL Highlights</title>
     </programme>
     <programme start="20250312211500 +0000" stop="20250312213000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24':</title>
+        <title>S/Lge 24': Leeds v Warrington Hlts</title>
     </programme>
     <programme start="20250312213000 +0000" stop="20250312214500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24':</title>
+        <title>S/Lge 24': Leigh v Wigan Hlts</title>
     </programme>
     <programme start="20250312214500 +0000" stop="20250312220000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24':</title>
+        <title>S/Lge 24': Leeds v Huddersfield</title>
     </programme>
     <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="SkySp NFL HD">
         <title>NFL Highlights</title>
@@ -14457,19 +14457,10 @@
     <programme start="20250312121500 +0000" stop="20250312180000 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250312180000 +0000" stop="20250312193000 +0000" channel="Racing TV">
+    <programme start="20250312180000 +0000" stop="20250312204500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312193000 +0000" stop="20250312204500 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312204500 +0000" stop="20250312210000 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312210000 +0000" stop="20250312223000 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312223000 +0000" stop="20250312233000 +0000" channel="Racing TV">
+    <programme start="20250312204500 +0000" stop="20250312233000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Racing TV">
@@ -14913,8 +14904,11 @@
     <programme start="20250312223500 +0000" stop="20250312232000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250312232000 +0000" stop="20250313002000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250312232000 +0000" stop="20250312233500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - US Tariffs Private Notice Question</title>
+    </programme>
+    <programme start="20250312233500 +0000" stop="20250313003500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - North Sea Energy Statement</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="CNBC HD">
         <title>NBC Nightly News</title>
@@ -28717,7 +28711,7 @@
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250312160000 +0000" stop="20250312170000 +0000" channel="Eman Channel">
-        <title>Juzz Amma Revision</title>
+        <title>Juzz Amma R1 LIVE</title>
     </programme>
     <programme start="20250312170000 +0000" stop="20250312171500 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
@@ -34143,19 +34137,10 @@
     <programme start="20250312121500 +0000" stop="20250312180000 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250312180000 +0000" stop="20250312193000 +0000" channel="Racing TV HD">
+    <programme start="20250312180000 +0000" stop="20250312204500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312193000 +0000" stop="20250312204500 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312204500 +0000" stop="20250312210000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312210000 +0000" stop="20250312223000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250312223000 +0000" stop="20250312233000 +0000" channel="Racing TV HD">
+    <programme start="20250312204500 +0000" stop="20250312233000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Racing TV HD">

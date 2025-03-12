@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250312150000 +0000" stop="20250312160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250312180000 +0000" stop="20250312183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Enzo Maresca - The Italian Job</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250324165000 +0000" stop="20250324191000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Lithuania v Finland</title>
     </programme>
 </tv>
