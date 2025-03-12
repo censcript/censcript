@@ -23919,9 +23919,6 @@
     <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="QVC HD">
         <title>Luxury Jewellery</title>
     </programme>
-    <programme start="20250312230000 +0000" stop="20250313000000 +0000" channel="QVC HD">
-        <title>Luxury Jewellery</title>
-    </programme>
     <programme start="20250311220000 +0000" stop="20250311230000 +0000" channel="MstHveIdeasHD">
         <title>Problem Solvers</title>
     </programme>
@@ -24190,7 +24187,7 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250312090000 +0000" stop="20250312100000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312110000 +0000" channel="QVC Style HD">
         <title>Kim's Trendy Looks of the Season</title>
@@ -24856,7 +24853,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250312190000 +0000" stop="20250312200000 +0000" channel="QVC Extra">
-        <title>Frank Usher Fresh Spring Style</title>
+        <title>Fashion with Frank Usher</title>
     </programme>
     <programme start="20250312200000 +0000" stop="20250312210000 +0000" channel="QVC Extra">
         <title>Cozee Home</title>
