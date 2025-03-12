@@ -14439,10 +14439,13 @@
     <programme start="20250312043000 +0000" stop="20250312061500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312061500 +0000" stop="20250312080000 +0000" channel="Racing TV">
+    <programme start="20250312061500 +0000" stop="20250312073000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312080000 +0000" stop="20250312100000 +0000" channel="Racing TV">
+    <programme start="20250312073000 +0000" stop="20250312090000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312090000 +0000" stop="20250312100000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312110000 +0000" channel="Racing TV">
@@ -14457,13 +14460,19 @@
     <programme start="20250312180000 +0000" stop="20250312193000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312193000 +0000" stop="20250312210000 +0000" channel="Racing TV">
+    <programme start="20250312193000 +0000" stop="20250312204500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312204500 +0000" stop="20250312210000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312210000 +0000" stop="20250312223000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312223000 +0000" stop="20250312233000 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250311180000 +0000" stop="20250312000000 +0000" channel="TNTSBoxOffHD">
@@ -28779,11 +28788,8 @@
     <programme start="20250312122100 +0000" stop="20250312130000 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
     </programme>
-    <programme start="20250312130000 +0000" stop="20250312133000 +0000" channel="ARY Digital">
+    <programme start="20250312130000 +0000" stop="20250312134000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
-    </programme>
-    <programme start="20250312133000 +0000" stop="20250312134000 +0000" channel="ARY Digital">
-        <title>Shan-e-Iftar</title>
     </programme>
     <programme start="20250312134000 +0000" stop="20250312151800 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
@@ -29092,7 +29098,7 @@
         <title>Sehaj Paath</title>
     </programme>
     <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Sangat">
-        <title>Zafarnama</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250311224500 +0000" stop="20250311234500 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
@@ -34122,10 +34128,13 @@
     <programme start="20250312043000 +0000" stop="20250312061500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312061500 +0000" stop="20250312080000 +0000" channel="Racing TV HD">
+    <programme start="20250312061500 +0000" stop="20250312073000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312080000 +0000" stop="20250312100000 +0000" channel="Racing TV HD">
+    <programme start="20250312073000 +0000" stop="20250312090000 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312090000 +0000" stop="20250312100000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312110000 +0000" channel="Racing TV HD">
@@ -34140,13 +34149,19 @@
     <programme start="20250312180000 +0000" stop="20250312193000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250312193000 +0000" stop="20250312210000 +0000" channel="Racing TV HD">
+    <programme start="20250312193000 +0000" stop="20250312204500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312204500 +0000" stop="20250312210000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312210000 +0000" stop="20250312223000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250312223000 +0000" stop="20250312233000 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="Sky News">
