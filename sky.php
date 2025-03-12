@@ -3036,8 +3036,11 @@
     <programme start="20250312070000 +0000" stop="20250312070500 +0000" channel="S4C">
         <title>Brethyn a Fflwff</title>
     </programme>
-    <programme start="20250312070500 +0000" stop="20250312073000 +0000" channel="S4C">
+    <programme start="20250312070500 +0000" stop="20250312071500 +0000" channel="S4C">
         <title>New: Twm Twrch</title>
+    </programme>
+    <programme start="20250312071500 +0000" stop="20250312073000 +0000" channel="S4C">
+        <title>Byd Tad-cu</title>
     </programme>
     <programme start="20250312073000 +0000" stop="20250312074000 +0000" channel="S4C">
         <title>New: Joni Jet</title>
@@ -3090,8 +3093,11 @@
     <programme start="20250312104500 +0000" stop="20250312110000 +0000" channel="S4C">
         <title>Kim a Cai a Cranc</title>
     </programme>
-    <programme start="20250312110000 +0000" stop="20250312112000 +0000" channel="S4C">
+    <programme start="20250312110000 +0000" stop="20250312111000 +0000" channel="S4C">
         <title>Blociau Lliw</title>
+    </programme>
+    <programme start="20250312111000 +0000" stop="20250312112000 +0000" channel="S4C">
+        <title>Crawc a'i Ffrindiau</title>
     </programme>
     <programme start="20250312112000 +0000" stop="20250312113000 +0000" channel="S4C">
         <title>Ein Byd Bach...</title>
@@ -3147,8 +3153,11 @@
     <programme start="20250312170000 +0000" stop="20250312170500 +0000" channel="S4C">
         <title>Larfa</title>
     </programme>
-    <programme start="20250312170500 +0000" stop="20250312173500 +0000" channel="S4C">
+    <programme start="20250312170500 +0000" stop="20250312171500 +0000" channel="S4C">
         <title>Byd Rwtsh Dai Potsh</title>
+    </programme>
+    <programme start="20250312171500 +0000" stop="20250312173500 +0000" channel="S4C">
+        <title>New: Academi Gomedi</title>
     </programme>
     <programme start="20250312173500 +0000" stop="20250312175000 +0000" channel="S4C">
         <title>New: Li Ban</title>
@@ -13348,7 +13357,7 @@
         <title>Indian Wells: Muchova v Swiatek</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312120000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells: Paul v Medvedev</title>
+        <title>Indian Wells: Swiatek v Muchova</title>
     </programme>
     <programme start="20250312120000 +0000" stop="20250312130000 +0000" channel="SkySp Tennis HD">
         <title>ATP Final: Rotterdam</title>
@@ -13357,10 +13366,10 @@
         <title>WTA Dubai 2025 Review</title>
     </programme>
     <programme start="20250312133000 +0000" stop="20250312153000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells: Muchova v Swiatek</title>
+        <title>Indian Wells: Rune v Tsitsipas</title>
     </programme>
     <programme start="20250312153000 +0000" stop="20250312173000 +0000" channel="SkySp Tennis HD">
-        <title>Indian Wells: Paul v Medvedev</title>
+        <title>Indian Wells: Swiatek v Muchova</title>
     </programme>
     <programme start="20250312173000 +0000" stop="20250312183000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Indian Wells</title>
@@ -14050,7 +14059,7 @@
         <title>What Moves Me</title>
     </programme>
     <programme start="20250312134500 +0000" stop="20250312140000 +0000" channel="MUTV HD">
-        <title>Retro Shirts With Jonny Evans</title>
+        <title>New: Old Trafford Regeneration: Sir Jim</title>
     </programme>
     <programme start="20250312140000 +0000" stop="20250312160000 +0000" channel="MUTV HD">
         <title>UEL Match: v PAOK 24/25 (H)</title>
@@ -14077,7 +14086,7 @@
         <title>What Moves Me</title>
     </programme>
     <programme start="20250312214500 +0000" stop="20250312220000 +0000" channel="MUTV HD">
-        <title>Fantasy United: Player Challenge</title>
+        <title>New: Old Trafford Regeneration: Omar Ber</title>
     </programme>
     <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="MUTV HD">
         <title>UEL Match: v Rangers 24/25 (H)</title>
@@ -24637,13 +24646,13 @@
         <title>Ideal World with Yiannis</title>
     </programme>
     <programme start="20250312110000 +0000" stop="20250312120000 +0000" channel="Ideal World HD">
-        <title>New Launch: Stamp By Me with Yiannis</title>
+        <title>Ideal World with Yiannis</title>
     </programme>
     <programme start="20250312120000 +0000" stop="20250312130000 +0000" channel="Ideal World HD">
         <title>New Launch: Stamp By Me with Yiannis</title>
     </programme>
     <programme start="20250312130000 +0000" stop="20250312140000 +0000" channel="Ideal World HD">
-        <title>Ideal World with Yiannis</title>
+        <title>New Launch: Stamp By Me with Yiannis</title>
     </programme>
     <programme start="20250312140000 +0000" stop="20250312150000 +0000" channel="Ideal World HD">
         <title>Ideal Fashion with Sally</title>
