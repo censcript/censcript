@@ -14872,7 +14872,7 @@
         <title>Commons Business Questions</title>
     </programme>
     <programme start="20250312070000 +0000" stop="20250312072500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+        <title>House of Commons - Scotland Office Questions</title>
     </programme>
     <programme start="20250312072500 +0000" stop="20250312083500 +0000" channel="BBC Parl HD">
         <title>Justice Questions</title>
@@ -29631,11 +29631,8 @@
     <programme start="20250312053000 +0000" stop="20250312060000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250312060000 +0000" stop="20250312060700 +0000" channel="IQRA Bangla">
+    <programme start="20250312060000 +0000" stop="20250312070000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
-    </programme>
-    <programme start="20250312060700 +0000" stop="20250312070000 +0000" channel="IQRA Bangla">
-        <title>Live Transmission from Madina</title>
     </programme>
     <programme start="20250312070000 +0000" stop="20250312080000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
@@ -29646,17 +29643,11 @@
     <programme start="20250312082000 +0000" stop="20250312083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250312083000 +0000" stop="20250312093000 +0000" channel="IQRA Bangla">
+    <programme start="20250312083000 +0000" stop="20250312100000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250312093000 +0000" stop="20250312100000 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250312100000 +0000" stop="20250312103000 +0000" channel="IQRA Bangla">
+    <programme start="20250312100000 +0000" stop="20250312110000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250312103000 +0000" stop="20250312110000 +0000" channel="IQRA Bangla">
-        <title>Agrodut</title>
     </programme>
     <programme start="20250312110000 +0000" stop="20250312113000 +0000" channel="IQRA Bangla">
         <title>Ramadan in Winter</title>
@@ -29664,17 +29655,11 @@
     <programme start="20250312113000 +0000" stop="20250312121600 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250312121600 +0000" stop="20250312121900 +0000" channel="IQRA Bangla">
+    <programme start="20250312121600 +0000" stop="20250312122100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250312121900 +0000" stop="20250312122100 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250312122100 +0000" stop="20250312122400 +0000" channel="IQRA Bangla">
+    <programme start="20250312122100 +0000" stop="20250312123000 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250312122400 +0000" stop="20250312123000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250312123000 +0000" stop="20250312140000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
@@ -29685,32 +29670,14 @@
     <programme start="20250312150000 +0000" stop="20250312153000 +0000" channel="IQRA Bangla">
         <title>Lifestyle in Ramadan</title>
     </programme>
-    <programme start="20250312153000 +0000" stop="20250312153300 +0000" channel="IQRA Bangla">
+    <programme start="20250312153000 +0000" stop="20250312160500 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250312153300 +0000" stop="20250312154200 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250312154200 +0000" stop="20250312160500 +0000" channel="IQRA Bangla">
-        <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250312160500 +0000" stop="20250312161000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250312161000 +0000" stop="20250312163000 +0000" channel="IQRA Bangla">
+    <programme start="20250312161000 +0000" stop="20250312180300 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
-    </programme>
-    <programme start="20250312163000 +0000" stop="20250312172600 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250312172600 +0000" stop="20250312173100 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250312173100 +0000" stop="20250312180000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250312180000 +0000" stop="20250312180300 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
     </programme>
     <programme start="20250312180300 +0000" stop="20250312181300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
@@ -29727,35 +29694,14 @@
     <programme start="20250312183300 +0000" stop="20250312184100 +0000" channel="IQRA Bangla">
         <title>Ramadan tips</title>
     </programme>
-    <programme start="20250312184100 +0000" stop="20250312185500 +0000" channel="IQRA Bangla">
+    <programme start="20250312184100 +0000" stop="20250312192500 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
-    </programme>
-    <programme start="20250312185500 +0000" stop="20250312190000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250312190000 +0000" stop="20250312192500 +0000" channel="IQRA Bangla">
-        <title>Dosh Diganta</title>
     </programme>
     <programme start="20250312192500 +0000" stop="20250312193000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250312193000 +0000" stop="20250312200000 +0000" channel="IQRA Bangla">
+    <programme start="20250312193000 +0000" stop="20250312203000 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
-    </programme>
-    <programme start="20250312200000 +0000" stop="20250312203000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
-    </programme>
-    <programme start="20250312203000 +0000" stop="20250312210000 +0000" channel="IQRA Bangla">
-        <title>Mon</title>
-    </programme>
-    <programme start="20250312210000 +0000" stop="20250312223000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250312223000 +0000" stop="20250312233000 +0000" channel="IQRA Bangla">
-        <title>Tafseer-Ul-Qur'an</title>
-    </programme>
-    <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250312050000 +0000" stop="20250312060000 +0000" channel="ATN">
         <title>Piliar</title>
@@ -36789,11 +36735,8 @@
     <programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="BBC R4">
         <title>Today in Parliament</title>
     </programme>
-    <programme start="20250311200000 +0000" stop="20250311223000 +0000" channel="BBC R5L">
+    <programme start="20250311200000 +0000" stop="20250311230000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
-    </programme>
-    <programme start="20250311223000 +0000" stop="20250311230000 +0000" channel="BBC R5L">
-        <title>Tony Livesey</title>
     </programme>
     <programme start="20250311230000 +0000" stop="20250312010000 +0000" channel="BBC R5L">
         <title>Tony Livesey</title>
