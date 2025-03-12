@@ -13969,10 +13969,10 @@
         <title>Live NFL: The Insiders</title>
     </programme>
     <programme start="20250312224500 +0000" stop="20250312231500 +0000" channel="TNT Sports 3">
-        <title>Fight Week: UFC 313 Review Show</title>
+        <title>Match Officials Mic'd Up</title>
     </programme>
     <programme start="20250312231500 +0000" stop="20250312234500 +0000" channel="TNT Sports 3">
-        <title>UFC Connected</title>
+        <title>Fight Week: UFC 313 Review Show</title>
     </programme>
     <programme start="20250312234500 +0000" stop="20250313000000 +0000" channel="TNT Sports 3">
         <title>Training Day</title>
@@ -28074,8 +28074,11 @@
     <programme start="20250313195200 +0000" stop="20250313200000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="Islam TV">
+    <programme start="20250313200000 +0000" stop="20250313205000 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
+    </programme>
+    <programme start="20250313205000 +0000" stop="20250313210000 +0000" channel="Islam TV">
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250313210000 +0000" stop="20250313215000 +0000" channel="Islam TV">
         <title>Live Transmission from Makkah</title>
@@ -33970,10 +33973,10 @@
         <title>Live NFL: The Insiders</title>
     </programme>
     <programme start="20250312224500 +0000" stop="20250312231500 +0000" channel="TNTSports3 HD">
-        <title>Fight Week: UFC 313 Review Show</title>
+        <title>Match Officials Mic'd Up</title>
     </programme>
     <programme start="20250312231500 +0000" stop="20250312234500 +0000" channel="TNTSports3 HD">
-        <title>UFC Connected</title>
+        <title>Fight Week: UFC 313 Review Show</title>
     </programme>
     <programme start="20250312234500 +0000" stop="20250313000000 +0000" channel="TNTSports3 HD">
         <title>Training Day</title>
@@ -38025,7 +38028,7 @@
     <programme start="20250313232500 +0000" stop="20250314002500 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
     </programme>
-    <programme start="20250312220000 +0000" stop="20250313010000 +0000" channel="BBC R5SX">
+    <programme start="20250312223000 +0000" stop="20250313010000 +0000" channel="BBC R5SX">
         <title>Tennis</title>
     </programme>
     <programme start="20250313010000 +0000" stop="20250313060000 +0000" channel="BBC R5SX">
