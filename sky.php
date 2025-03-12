@@ -28782,7 +28782,10 @@
     <programme start="20250312130000 +0000" stop="20250312133000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250312133000 +0000" stop="20250312151800 +0000" channel="ARY Digital">
+    <programme start="20250312133000 +0000" stop="20250312134000 +0000" channel="ARY Digital">
+        <title>Shan-e-Iftar</title>
+    </programme>
+    <programme start="20250312134000 +0000" stop="20250312151800 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
     </programme>
     <programme start="20250312151800 +0000" stop="20250312152400 +0000" channel="ARY Digital">
