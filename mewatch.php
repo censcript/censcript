@@ -813,6 +813,9 @@
     <programme start="20250313150000 +0000" stop="20250313160000 +0000" channel="now-70s.mewatch">
         <title>American No.1s Of 1973</title>
     </programme>
+    <programme start="20250313160000 +0000" stop="20250313162500 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1973</title>
+    </programme>
     <programme start="20250312160000 +0000" stop="20250312220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
     </programme>
