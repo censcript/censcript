@@ -28068,17 +28068,17 @@
     <programme start="20250313161200 +0000" stop="20250313170000 +0000" channel="Islam TV">
         <title>Kidz World</title>
     </programme>
-    <programme start="20250313170000 +0000" stop="20250313180000 +0000" channel="Islam TV">
+    <programme start="20250313170000 +0000" stop="20250313175000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250313180000 +0000" stop="20250313180700 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+    <programme start="20250313175000 +0000" stop="20250313180700 +0000" channel="Islam TV">
+        <title>Taraweeh Prayer from Makkah</title>
     </programme>
     <programme start="20250313180700 +0000" stop="20250313181200 +0000" channel="Islam TV">
         <title>Maghrib Azan</title>
     </programme>
     <programme start="20250313181200 +0000" stop="20250313190000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Taraweeh Prayer from Makkah</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313194700 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
@@ -28096,12 +28096,9 @@
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="Islam TV">
-        <title>Taraweeh</title>
+        <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250313230000 +0000" stop="20250313232000 +0000" channel="Islam TV">
-        <title>Taraweeh</title>
-    </programme>
-    <programme start="20250313232000 +0000" stop="20250313234000 +0000" channel="Islam TV">
+    <programme start="20250313230000 +0000" stop="20250313234000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250313234000 +0000" stop="20250314004000 +0000" channel="Islam TV">
@@ -29098,7 +29095,7 @@
         <title>Chaupai Sahib</title>
     </programme>
     <programme start="20250313071500 +0000" stop="20250313080000 +0000" channel="Akaal Channel">
-        <title>Media Watch</title>
+        <title>Current Issues</title>
     </programme>
     <programme start="20250313080000 +0000" stop="20250313080500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -29107,7 +29104,7 @@
         <title>Katha Veechar</title>
     </programme>
     <programme start="20250313090000 +0000" stop="20250313100000 +0000" channel="Akaal Channel">
-        <title>Guru Nanak Seva</title>
+        <title>Weekly Langar Sewa MP</title>
     </programme>
     <programme start="20250313100000 +0000" stop="20250313103000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
@@ -29116,7 +29113,7 @@
         <title>Special Report</title>
     </programme>
     <programme start="20250313110000 +0000" stop="20250313115500 +0000" channel="Akaal Channel">
-        <title>Guru Nanak Seva</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250313115500 +0000" stop="20250313120000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -29125,10 +29122,10 @@
         <title>Live: Sukhmani Sahib</title>
     </programme>
     <programme start="20250313133000 +0000" stop="20250313140000 +0000" channel="Akaal Channel">
-        <title>We Promise We Deliver</title>
+        <title>Teleshopping: Panj Takht</title>
     </programme>
     <programme start="20250313140000 +0000" stop="20250313150000 +0000" channel="Akaal Channel">
-        <title>Live: Sikligar Wanjare Gurdwara</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250313150000 +0000" stop="20250313160000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
@@ -29137,7 +29134,7 @@
         <title>Advice Bureau:Alternative Medicine</title>
     </programme>
     <programme start="20250313165500 +0000" stop="20250313172500 +0000" channel="Akaal Channel">
-        <title>Teleshopping</title>
+        <title>Weekly Langar Sewa MP</title>
     </programme>
     <programme start="20250313172500 +0000" stop="20250313173000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -29145,20 +29142,20 @@
     <programme start="20250313173000 +0000" stop="20250313180000 +0000" channel="Akaal Channel">
         <title>Akaal Glasgow: Rehraas Sahib</title>
     </programme>
-    <programme start="20250313180000 +0000" stop="20250313190000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Panj Takht</title>
+    <programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="Akaal Channel">
+        <title>Akaal News</title>
+    </programme>
+    <programme start="20250313183000 +0000" stop="20250313190000 +0000" channel="Akaal Channel">
+        <title>Khabar Te Nazar</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313200000 +0000" channel="Akaal Channel">
-        <title>Live: Vanjare Sikh Gurdwara MP</title>
+        <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
     <programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="Akaal Channel">
         <title>London Live: Mudhe</title>
     </programme>
-    <programme start="20250313210000 +0000" stop="20250313213000 +0000" channel="Akaal Channel">
-        <title>Akaal News</title>
-    </programme>
-    <programme start="20250313213000 +0000" stop="20250313220000 +0000" channel="Akaal Channel">
-        <title>Khabar Te Nazar</title>
+    <programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="Akaal Channel">
+        <title>Live: Sikh New Year 557</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313220500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -36859,7 +36856,7 @@
         <title>Early Sports Breakfast</title>
     </programme>
     <programme start="20250313060000 +0000" stop="20250313100000 +0000" channel="talkSPORT">
-        <title>talkSPORT Breakfast</title>
+        <title>talkSPORT Breakfast with Alan Brazil, De</title>
     </programme>
     <programme start="20250313100000 +0000" stop="20250313130000 +0000" channel="talkSPORT">
         <title>Jim White, Alex Crook, Troy Deeney</title>
@@ -38034,8 +38031,14 @@
     <programme start="20250313170000 +0000" stop="20250313173000 +0000" channel="BBC RnGàid">
         <title>Aithris an Fheasgair</title>
     </programme>
-    <programme start="20250313173000 +0000" stop="20250313190000 +0000" channel="BBC RnGàid">
-        <title>Siubhal gu Seachd le Pluto</title>
+    <programme start="20250313173000 +0000" stop="20250313180000 +0000" channel="BBC RnGàid">
+        <title>This is BBC R na Gael</title>
+    </programme>
+    <programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="BBC RnGàid">
+        <title>This is BBC R na Gael</title>
+    </programme>
+    <programme start="20250313183000 +0000" stop="20250313190000 +0000" channel="BBC RnGàid">
+        <title>This is BBC R na Gael</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313193000 +0000" channel="BBC RnGàid">
         <title>Spòrscast</title>
