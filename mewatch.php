@@ -684,59 +684,134 @@
     <programme start="20250313160000 +0000" stop="20250314160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 15th March, Saturday 8.20pm. 2024/25 Singapore Cup: Tanjong Pagar United vs Geylang International</title>
     </programme>
-    <programme start="20250312160000 +0000" stop="20250312210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250312160000 +0000" stop="20250312170000 +0000" channel="now-80s.mewatch">
+        <title>80s V 70s Mixtape!</title>
     </programme>
-    <programme start="20250312210000 +0000" stop="20250312220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250312170000 +0000" stop="20250312174500 +0000" channel="now-80s.mewatch">
+        <title>1980&#039;s One-Hit-Wonders! Top 10</title>
+    </programme>
+    <programme start="20250312174500 +0000" stop="20250312180000 +0000" channel="now-80s.mewatch">
+        <title>1980 Unleashed!</title>
+    </programme>
+    <programme start="20250312180000 +0000" stop="20250312184500 +0000" channel="now-80s.mewatch">
+        <title>Duncan James&#039; Eurovision Top 25</title>
+    </programme>
+    <programme start="20250312184500 +0000" stop="20250312190000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
+    </programme>
+    <programme start="20250312190000 +0000" stop="20250312220000 +0000" channel="now-80s.mewatch">
+        <title>80s V 70s Mixtape!</title>
     </programme>
     <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+        <title>80s V 70s Mixtape!</title>
     </programme>
-    <programme start="20250312230000 +0000" stop="20250313000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250312230000 +0000" stop="20250313013000 +0000" channel="now-80s.mewatch">
+        <title>30 Big Selling Movie Songs Of 80s</title>
     </programme>
-    <programme start="20250313000000 +0000" stop="20250313040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250313013000 +0000" stop="20250313020000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1988!</title>
+    </programme>
+    <programme start="20250313020000 +0000" stop="20250313040000 +0000" channel="now-80s.mewatch">
+        <title>Almost Top Of The Pops! 1988</title>
     </programme>
     <programme start="20250313040000 +0000" stop="20250313050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+        <title>The 1988 Video Hall Of Fame</title>
     </programme>
-    <programme start="20250313050000 +0000" stop="20250313100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250313050000 +0000" stop="20250313060000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1988</title>
     </programme>
-    <programme start="20250313100000 +0000" stop="20250313110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250313060000 +0000" stop="20250313090000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1988</title>
     </programme>
-    <programme start="20250313110000 +0000" stop="20250313160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250313090000 +0000" stop="20250313103000 +0000" channel="now-80s.mewatch">
+        <title>High Nrg! 1984-1989</title>
     </programme>
-    <programme start="20250313160000 +0000" stop="20250313210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20250313103000 +0000" stop="20250313111500 +0000" channel="now-80s.mewatch">
+        <title>Duncan James&#039; Eurovision Top 25</title>
+    </programme>
+    <programme start="20250313111500 +0000" stop="20250313113000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
+    </programme>
+    <programme start="20250313113000 +0000" stop="20250313114000 +0000" channel="now-80s.mewatch">
+        <title>High Nrg! 1984-1989</title>
+    </programme>
+    <programme start="20250313114000 +0000" stop="20250313120000 +0000" channel="now-80s.mewatch">
+        <title>80s Dance Anthems Day!</title>
+    </programme>
+    <programme start="20250313120000 +0000" stop="20250313140000 +0000" channel="now-80s.mewatch">
+        <title>Steps&#039; 25 Dance Moves Of The 80s!</title>
+    </programme>
+    <programme start="20250313140000 +0000" stop="20250313160000 +0000" channel="now-80s.mewatch">
+        <title>The Best 1985 Party - Ever!</title>
+    </programme>
+    <programme start="20250313160000 +0000" stop="20250313174500 +0000" channel="now-80s.mewatch">
+        <title>Duncan James&#039; Eurovision Top 25</title>
     </programme>
     <programme start="20250312100000 +0000" stop="20250312200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250312200000 +0000" stop="20250312210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250312160000 +0000" stop="20250312165000 +0000" channel="now-70s.mewatch">
+        <title>Roof Down, Radio Up! Road Trip 50</title>
     </programme>
-    <programme start="20250312210000 +0000" stop="20250312220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250312165000 +0000" stop="20250312170000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night!</title>
     </programme>
-    <programme start="20250312220000 +0000" stop="20250312230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250312170000 +0000" stop="20250312182500 +0000" channel="now-70s.mewatch">
+        <title>That&#039;s Not My Name! 1970-1979</title>
     </programme>
-    <programme start="20250312230000 +0000" stop="20250313000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250312182500 +0000" stop="20250312212500 +0000" channel="now-70s.mewatch">
+        <title>Roof Down, Radio Up! Road Trip 50</title>
     </programme>
-    <programme start="20250313000000 +0000" stop="20250313090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250312212500 +0000" stop="20250312220000 +0000" channel="now-70s.mewatch">
+        <title>Roof Down, Radio Up! Road Trip 50</title>
     </programme>
-    <programme start="20250313090000 +0000" stop="20250313100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250312220000 +0000" stop="20250312232500 +0000" channel="now-70s.mewatch">
+        <title>We Are Family! Top 20</title>
     </programme>
-    <programme start="20250313100000 +0000" stop="20250313200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250312232500 +0000" stop="20250313000000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition</title>
+    </programme>
+    <programme start="20250313000000 +0000" stop="20250313014500 +0000" channel="now-70s.mewatch">
+        <title>Pioneers Of Music Video! 1970-79</title>
+    </programme>
+    <programme start="20250313014500 +0000" stop="20250313020000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition</title>
+    </programme>
+    <programme start="20250313020000 +0000" stop="20250313041000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Surely Not A Cover?!</title>
+    </programme>
+    <programme start="20250313041000 +0000" stop="20250313050000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition</title>
+    </programme>
+    <programme start="20250313050000 +0000" stop="20250313064000 +0000" channel="now-70s.mewatch">
+        <title>Country Crossovers! 1970-1979</title>
+    </programme>
+    <programme start="20250313064000 +0000" stop="20250313070000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973!</title>
+    </programme>
+    <programme start="20250313070000 +0000" stop="20250313093500 +0000" channel="now-70s.mewatch">
+        <title>The Now Yearbook 1973</title>
+    </programme>
+    <programme start="20250313093500 +0000" stop="20250313100000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973!</title>
+    </programme>
+    <programme start="20250313100000 +0000" stop="20250313103000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s Of 1973</title>
+    </programme>
+    <programme start="20250313103000 +0000" stop="20250313113000 +0000" channel="now-70s.mewatch">
+        <title>That&#039;s Not My Name! 1970-1979</title>
+    </programme>
+    <programme start="20250313113000 +0000" stop="20250313120000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973!</title>
+    </programme>
+    <programme start="20250313120000 +0000" stop="20250313140000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1973 Party...Ever!</title>
+    </programme>
+    <programme start="20250313140000 +0000" stop="20250313150000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973!</title>
+    </programme>
+    <programme start="20250313150000 +0000" stop="20250313160000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s Of 1973</title>
     </programme>
     <programme start="20250312160000 +0000" stop="20250312220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
