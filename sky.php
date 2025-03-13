@@ -7377,10 +7377,7 @@
     <programme start="20250313045000 +0000" stop="20250313054000 +0000" channel="Channel 5+1">
         <title>Casualty 24/7: Every Second Counts</title>
     </programme>
-    <programme start="20250313054000 +0000" stop="20250313060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250313060000 +0000" stop="20250313060500 +0000" channel="Channel 5+1">
+    <programme start="20250313054000 +0000" stop="20250313060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250313060500 +0000" stop="20250313063500 +0000" channel="Channel 5+1">
@@ -29157,18 +29154,6 @@
     <programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="Akaal Channel">
         <title>Live: Sikh New Year 557</title>
     </programme>
-    <programme start="20250313220000 +0000" stop="20250313220500 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
-    </programme>
-    <programme start="20250313220500 +0000" stop="20250313225000 +0000" channel="Akaal Channel">
-        <title>Media Watch</title>
-    </programme>
-    <programme start="20250313225000 +0000" stop="20250313235000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
-    </programme>
-    <programme start="20250313235000 +0000" stop="20250314005000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
     <programme start="20250312213000 +0000" stop="20250313001000 +0000" channel="Kanshi TV">
         <title>Pati Patni Aur Tawaif - 1990</title>
     </programme>
@@ -38031,14 +38016,8 @@
     <programme start="20250313170000 +0000" stop="20250313173000 +0000" channel="BBC RnGàid">
         <title>Aithris an Fheasgair</title>
     </programme>
-    <programme start="20250313173000 +0000" stop="20250313180000 +0000" channel="BBC RnGàid">
-        <title>This is BBC R na Gael</title>
-    </programme>
-    <programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="BBC RnGàid">
-        <title>This is BBC R na Gael</title>
-    </programme>
-    <programme start="20250313183000 +0000" stop="20250313190000 +0000" channel="BBC RnGàid">
-        <title>This is BBC R na Gael</title>
+    <programme start="20250313173000 +0000" stop="20250313190000 +0000" channel="BBC RnGàid">
+        <title>Siubhal gu Seachd le Jo</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313193000 +0000" channel="BBC RnGàid">
         <title>Spòrscast</title>
