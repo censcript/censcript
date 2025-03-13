@@ -23860,7 +23860,7 @@
         <title>New Season Footwear</title>
     </programme>
     <programme start="20250313090000 +0000" stop="20250313100000 +0000" channel="QVC HD">
-        <title>Most Wanted Spring Accessories</title>
+        <title>Spring Accessories</title>
     </programme>
     <programme start="20250313100000 +0000" stop="20250313110000 +0000" channel="QVC HD">
         <title>New Season Italian Gold</title>
@@ -23896,7 +23896,7 @@
         <title>My Jewellery List by Tess Daly</title>
     </programme>
     <programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="QVC HD">
-        <title>Spring Home in Bloom</title>
+        <title>Tablescaping Masterclass</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="QVC HD">
         <title>Luxury Handbags with Aimee. Kestenberg</title>
@@ -24199,7 +24199,7 @@
         <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250313180000 +0000" stop="20250313190000 +0000" channel="QVC Style HD">
-        <title>Your Spring Garden</title>
+        <title>Refresh Your Garden</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313200000 +0000" channel="QVC Style HD">
         <title>Marla Wynne Fashion Collection</title>
@@ -24211,7 +24211,7 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="QVC Style HD">
-        <title>Frank Usher Fresh Spring Style</title>
+        <title>Fashion with Frank Usher</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250314000000 +0000" channel="QVC Style HD">
         <title>Accessories by Kipling</title>
@@ -24811,10 +24811,10 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250313100000 +0000" stop="20250313110000 +0000" channel="QVC Extra">
-        <title>Frank Usher Fresh Spring Style</title>
+        <title>Fashion with Frank Usher</title>
     </programme>
     <programme start="20250313110000 +0000" stop="20250313120000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250313120000 +0000" stop="20250313130000 +0000" channel="QVC Extra">
         <title>Best of QVC Extra</title>
@@ -24823,7 +24823,7 @@
         <title>Best of QVC Extra</title>
     </programme>
     <programme start="20250313140000 +0000" stop="20250313150000 +0000" channel="QVC Extra">
-        <title>Cook's Essentials...</title>
+        <title>Cook's Essentials</title>
     </programme>
     <programme start="20250313150000 +0000" stop="20250313160000 +0000" channel="QVC Extra">
         <title>Best of QVC Extra</title>
@@ -24838,7 +24838,7 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313200000 +0000" channel="QVC Extra">
-        <title>Nina Leonard's Wardrobe Heroes</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="QVC Extra">
         <title>Best of QVC Extra</title>
@@ -24847,7 +24847,7 @@
         <title>Cook's Essentials</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>The Secret Linen Store</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250314000000 +0000" channel="QVC Extra">
         <title>Luxury Jewellery</title>
