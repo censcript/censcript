@@ -28120,7 +28120,7 @@
         <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250313234000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
@@ -28243,10 +28243,10 @@
         <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250314220000 +0000" stop="20250314230000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250314234000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
