@@ -13806,11 +13806,8 @@
     <programme start="20250314234500 +0000" stop="20250315004500 +0000" channel="TNT Sports 1">
         <title>TNT Sports Cricket Reload</title>
     </programme>
-    <programme start="20250313190000 +0000" stop="20250313230000 +0000" channel="TNT Sports 2">
+    <programme start="20250313190000 +0000" stop="20250313233000 +0000" channel="TNT Sports 2">
         <title>Live: Rangers v Fenerbahce</title>
-    </programme>
-    <programme start="20250313230000 +0000" stop="20250313233000 +0000" channel="TNT Sports 2">
-        <title>Live: NBA Tip-Off</title>
     </programme>
     <programme start="20250313233000 +0000" stop="20250314020000 +0000" channel="TNT Sports 2">
         <title>Live NBA: Lakers @ Bucks</title>
@@ -14212,7 +14209,7 @@
         <title>Live: Liverpool v MUW - Radio Commentary</title>
     </programme>
     <programme start="20250314211500 +0000" stop="20250314213000 +0000" channel="MUTV HD">
-        <title>New: Phallon Tullis-Joyse: Season Review</title>
+        <title>New: Phallon Tullis-Joyce: Season Review</title>
     </programme>
     <programme start="20250314213000 +0000" stop="20250314220000 +0000" channel="MUTV HD">
         <title>Lifeblood Short: Reds In Europe</title>
@@ -33972,11 +33969,8 @@
     <programme start="20250314234500 +0000" stop="20250315004500 +0000" channel="TNTSports1 HD">
         <title>TNT Sports Cricket Reload</title>
     </programme>
-    <programme start="20250313190000 +0000" stop="20250313230000 +0000" channel="TNTSports2 HD">
+    <programme start="20250313190000 +0000" stop="20250313233000 +0000" channel="TNTSports2 HD">
         <title>Live: Rangers v Fenerbahce</title>
-    </programme>
-    <programme start="20250313230000 +0000" stop="20250313233000 +0000" channel="TNTSports2 HD">
-        <title>Live: NBA Tip-Off</title>
     </programme>
     <programme start="20250313233000 +0000" stop="20250314020000 +0000" channel="TNTSports2 HD">
         <title>Live NBA: Lakers @ Bucks</title>
