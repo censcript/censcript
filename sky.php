@@ -28944,11 +28944,8 @@
     <programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="Sikh Channel">
         <title>LIVE: New Year Chet Smagam 557</title>
     </programme>
-    <programme start="20250313210000 +0000" stop="20250313213000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
-    </programme>
-    <programme start="20250313213000 +0000" stop="20250313220000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+    <programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="Sikh Channel">
+        <title>LIVE: New Year Chet Smagam 557</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="Sikh Channel">
         <title>LIVE: New Year Chet Smagam 557</title>
@@ -37441,7 +37438,7 @@
         <title>Asian Network Certified...</title>
     </programme>
     <programme start="20250313150000 +0000" stop="20250313180000 +0000" channel="BBC Asian Net">
-        <title>Amber Sandhu</title>
+        <title>Shruti Chauhan</title>
     </programme>
     <programme start="20250313180000 +0000" stop="20250313200000 +0000" channel="BBC Asian Net">
         <title>AJD</title>
