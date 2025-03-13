@@ -28053,49 +28053,40 @@
     <programme start="20250313161200 +0000" stop="20250313170000 +0000" channel="Islam TV">
         <title>Kidz World</title>
     </programme>
-    <programme start="20250313170000 +0000" stop="20250313172000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+    <programme start="20250313170000 +0000" stop="20250313180000 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250313172000 +0000" stop="20250313180700 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
+    <programme start="20250313180000 +0000" stop="20250313180700 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250313180700 +0000" stop="20250313181200 +0000" channel="Islam TV">
         <title>Maghrib Azan</title>
     </programme>
-    <programme start="20250313181200 +0000" stop="20250313191000 +0000" channel="Islam TV">
-        <title>Taraweeh Prayer from Makkah</title>
+    <programme start="20250313181200 +0000" stop="20250313190000 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250313191000 +0000" stop="20250313194000 +0000" channel="Islam TV">
-        <title>Live Transmission from Makkah</title>
-    </programme>
-    <programme start="20250313194000 +0000" stop="20250313194700 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+    <programme start="20250313190000 +0000" stop="20250313194700 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250313194700 +0000" stop="20250313195200 +0000" channel="Islam TV">
         <title>Isha Azan</title>
     </programme>
     <programme start="20250313195200 +0000" stop="20250313200000 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
+    </programme>
+    <programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="Islam TV">
+        <title>Al-khair Ramadan Appeal</title>
+    </programme>
+    <programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250313200000 +0000" stop="20250313205000 +0000" channel="Islam TV">
-        <title>Live Transmission from Makkah</title>
+    <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="Islam TV">
+        <title>Taraweeh</title>
     </programme>
-    <programme start="20250313205000 +0000" stop="20250313210000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+    <programme start="20250313230000 +0000" stop="20250313232000 +0000" channel="Islam TV">
+        <title>Taraweeh</title>
     </programme>
-    <programme start="20250313210000 +0000" stop="20250313215000 +0000" channel="Islam TV">
-        <title>Live Transmission from Makkah</title>
-    </programme>
-    <programme start="20250313215000 +0000" stop="20250313220000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
-    </programme>
-    <programme start="20250313220000 +0000" stop="20250313221000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
-    </programme>
-    <programme start="20250313221000 +0000" stop="20250313230000 +0000" channel="Islam TV">
-        <title>Live Transmission from Makkah</title>
-    </programme>
-    <programme start="20250313230000 +0000" stop="20250313234000 +0000" channel="Islam TV">
+    <programme start="20250313232000 +0000" stop="20250313234000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250313234000 +0000" stop="20250314004000 +0000" channel="Islam TV">
