@@ -6820,7 +6820,7 @@
         <title>Food Fact Fun</title>
     </programme>
     <programme start="20250313223000 +0000" stop="20250313230000 +0000" channel="BBCScotlandHD">
-        <title>Chewin the Fat</title>
+        <title>Chewin' the Fat</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250313233000 +0000" channel="BBCScotlandHD">
         <title>Scotcast</title>
@@ -23953,31 +23953,31 @@
         <title>Event Day Finale</title>
     </programme>
     <programme start="20250314000000 +0000" stop="20250314010000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314010000 +0000" stop="20250314020000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314020000 +0000" stop="20250314030000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314030000 +0000" stop="20250314040000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314040000 +0000" stop="20250314050000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314050000 +0000" stop="20250314060000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314060000 +0000" stop="20250314070000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314070000 +0000" stop="20250314080000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314080000 +0000" stop="20250314090000 +0000" channel="QVC HD">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314090000 +0000" stop="20250314100000 +0000" channel="QVC HD">
         <title>The Morning Show</title>
@@ -24004,7 +24004,7 @@
         <title>Fashion on Friday with Kaffe</title>
     </programme>
     <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="QVC HD">
-        <title>Tablescaping Masterclass</title>
+        <title>Spring Home in Bloom</title>
     </programme>
     <programme start="20250314190000 +0000" stop="20250314200000 +0000" channel="QVC HD">
         <title>Yensa Beauty</title>
@@ -24904,13 +24904,13 @@
         <title>Best of QVC Extra</title>
     </programme>
     <programme start="20250314020000 +0000" stop="20250314030000 +0000" channel="QVC Extra">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314030000 +0000" stop="20250314040000 +0000" channel="QVC Extra">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314040000 +0000" stop="20250314050000 +0000" channel="QVC Extra">
-        <title>Spring Household Helpers</title>
+        <title>Your Spring Home</title>
     </programme>
     <programme start="20250314050000 +0000" stop="20250314060000 +0000" channel="QVC Extra">
         <title>Home Hacks with Shark</title>
