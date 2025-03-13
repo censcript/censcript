@@ -14829,11 +14829,8 @@
     <programme start="20250313103000 +0000" stop="20250313110000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250313110000 +0000" stop="20250313113000 +0000" channel="BBC NEWS HD">
+    <programme start="20250313110000 +0000" stop="20250313114500 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250313113000 +0000" stop="20250313114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
     </programme>
     <programme start="20250313114500 +0000" stop="20250313120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -24829,7 +24826,7 @@
         <title>Best of QVC Extra</title>
     </programme>
     <programme start="20250313140000 +0000" stop="20250313150000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Cook's Essentials...</title>
     </programme>
     <programme start="20250313150000 +0000" stop="20250313160000 +0000" channel="QVC Extra">
         <title>Best of QVC Extra</title>
@@ -24841,7 +24838,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250313180000 +0000" stop="20250313190000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250313190000 +0000" stop="20250313200000 +0000" channel="QVC Extra">
         <title>Nina Leonard's Wardrobe Heroes</title>
@@ -24853,10 +24850,10 @@
         <title>Cook's Essentials</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313230000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250314000000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250312223000 +0000" stop="20250312230000 +0000" channel="High Street TV 3">
         <title>Ez Well Massage Mattress</title>
@@ -25771,7 +25768,7 @@
         <title>Udne Ki Aasha</title>
     </programme>
     <programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic</title>
+        <title>Mummy Ka Magic S14</title>
     </programme>
     <programme start="20250313183000 +0000" stop="20250313190000 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
@@ -27481,25 +27478,25 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250313200500 +0000" stop="20250313210000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>Indus Hospital Live Appeal</title>
     </programme>
     <programme start="20250313210000 +0000" stop="20250313210500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250313210500 +0000" stop="20250313220000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Indus Hospital Live Appeal</title>
     </programme>
     <programme start="20250313220000 +0000" stop="20250313220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250313220500 +0000" stop="20250313230000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Indus Hospital Live Appeal</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250313230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250313230500 +0000" stop="20250314000500 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Indus Hospital Live Appeal</title>
     </programme>
     <programme start="20250312193000 +0000" stop="20250313000000 +0000" channel="Islam Channel">
         <title>Al Mustafa Trust Live Appeal</title>
@@ -34660,7 +34657,7 @@
         <title>Udne Ki Aasha</title>
     </programme>
     <programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic</title>
+        <title>Mummy Ka Magic S14</title>
     </programme>
     <programme start="20250313183000 +0000" stop="20250313190000 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
