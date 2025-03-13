@@ -30061,7 +30061,7 @@
         <title>Forty Hadiths</title>
     </programme>
     <programme start="20250313090000 +0000" stop="20250313100000 +0000" channel="iON TV">
-        <title>Tafseer-ul-Qur'aan</title>
+        <title>Islamic Song</title>
     </programme>
     <programme start="20250313100000 +0000" stop="20250313103000 +0000" channel="iON TV">
         <title>iON News Time</title>
