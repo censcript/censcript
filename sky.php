@@ -28344,11 +28344,11 @@
     <programme start="20250315233000 +0000" stop="20250316003000 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250314210000 +0000" stop="20250314233000 +0000" channel="QTV Religious">
-        <title>Daura E Tarjuma E Qur'an</title>
+    <programme start="20250314193000 +0000" stop="20250314233000 +0000" channel="QTV Religious">
+        <title>Live Telethon Penny Appeal</title>
     </programme>
     <programme start="20250314233000 +0000" stop="20250315000000 +0000" channel="QTV Religious">
-        <title>Mehfil e Sama</title>
+        <title>Ilm o Amal</title>
     </programme>
     <programme start="20250315000000 +0000" stop="20250315003000 +0000" channel="QTV Religious">
         <title>Hamd O Naat</title>
