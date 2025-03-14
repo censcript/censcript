@@ -13302,9 +13302,6 @@
     <programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="SkySpCricket HD">
         <title>WPL: Mumbai I v Gujarat G Hlts</title>
     </programme>
-    <programme start="20250313113000 +0000" stop="20250313230000 +0000" channel="SkySp Golf HD">
-        <title>Live The Players Championship R1</title>
-    </programme>
     <programme start="20250313230000 +0000" stop="20250314000000 +0000" channel="SkySp Golf HD">
         <title>The Players: The Golden Era</title>
     </programme>
@@ -13862,9 +13859,6 @@
     </programme>
     <programme start="20250314233000 +0000" stop="20250315003000 +0000" channel="TNT Sports 2">
         <title>NBA On Fire</title>
-    </programme>
-    <programme start="20250313121500 +0000" stop="20250313230000 +0000" channel="SkySp+ HD">
-        <title>Live The Players Championship R1</title>
     </programme>
     <programme start="20250313230000 +0000" stop="20250314000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
@@ -15847,7 +15841,7 @@
         <title>News</title>
     </programme>
     <programme start="20250314050000 +0000" stop="20250314053000 +0000" channel="NDTV World">
-        <title>India Through The Eyes of Its...</title>
+        <title>The NDTV Auto Show</title>
     </programme>
     <programme start="20250314053000 +0000" stop="20250314063000 +0000" channel="NDTV World">
         <title>News</title>
@@ -16419,11 +16413,8 @@
     <programme start="20250314150000 +0000" stop="20250314180000 +0000" channel="GB News HD">
         <title>Martin Daubney</title>
     </programme>
-    <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="GB News HD">
+    <programme start="20250314180000 +0000" stop="20250314200000 +0000" channel="GB News HD">
         <title>Dewbs &amp; Co</title>
-    </programme>
-    <programme start="20250314190000 +0000" stop="20250314200000 +0000" channel="GB News HD">
-        <title>Lee Anderson's Real World</title>
     </programme>
     <programme start="20250314200000 +0000" stop="20250314210000 +0000" channel="GB News HD">
         <title>State Of The Nation</title>
@@ -29596,10 +29587,10 @@
         <title>Pingalwara</title>
     </programme>
     <programme start="20250314193000 +0000" stop="20250314200000 +0000" channel="PBC">
-        <title>GHG Academy</title>
+        <title>PBC Live</title>
     </programme>
     <programme start="20250314200000 +0000" stop="20250314210000 +0000" channel="PBC">
-        <title>PBC Special Show</title>
+        <title>Live - Panthak Sath</title>
     </programme>
     <programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="PBC">
         <title>PBC Special Show</title>
