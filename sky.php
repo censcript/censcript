@@ -18270,11 +18270,8 @@
     <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="EWTN Catholic">
         <title>Children's Rosary</title>
     </programme>
-    <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="EWTN Catholic">
+    <programme start="20250314170000 +0000" stop="20250314174500 +0000" channel="EWTN Catholic">
         <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250314173000 +0000" stop="20250314174500 +0000" channel="EWTN Catholic">
-        <title>At the Heart of Relationships</title>
     </programme>
     <programme start="20250314174500 +0000" stop="20250314180000 +0000" channel="EWTN Catholic">
         <title>Gospel Glimpses</title>
