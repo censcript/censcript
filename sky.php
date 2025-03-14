@@ -29710,7 +29710,7 @@
         <title>Nobi Rasuler Kahani</title>
     </programme>
     <programme start="20250314121500 +0000" stop="20250314122000 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
+        <title>Azan-E-Juma</title>
     </programme>
     <programme start="20250314122000 +0000" stop="20250314123000 +0000" channel="CHSTV">
         <title>Nobi Rasuler Kahani</title>
@@ -29775,13 +29775,13 @@
     <programme start="20250313193100 +0000" stop="20250314043700 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
     </programme>
-    <programme start="20250314043700 +0000" stop="20250314044400 +0000" channel="IQRA Bangla">
+    <programme start="20250314043700 +0000" stop="20250314044200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Fajr</title>
     </programme>
-    <programme start="20250314044400 +0000" stop="20250314050800 +0000" channel="IQRA Bangla">
+    <programme start="20250314044200 +0000" stop="20250314050000 +0000" channel="IQRA Bangla">
         <title>Surah Yaseen</title>
     </programme>
-    <programme start="20250314050800 +0000" stop="20250314060000 +0000" channel="IQRA Bangla">
+    <programme start="20250314050000 +0000" stop="20250314060000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250314060000 +0000" stop="20250314075000 +0000" channel="IQRA Bangla">
@@ -29887,85 +29887,91 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250314073000 +0000" stop="20250314080000 +0000" channel="ATN">
-        <title>Islamer Pothe</title>
+        <title>Prophet Story</title>
     </programme>
     <programme start="20250314080000 +0000" stop="20250314090000 +0000" channel="ATN">
-        <title>Hayre Prem</title>
+        <title>Kacher Manush</title>
     </programme>
-    <programme start="20250314090000 +0000" stop="20250314093000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250314093000 +0000" stop="20250314100000 +0000" channel="ATN">
-        <title>Music on Demand</title>
+    <programme start="20250314090000 +0000" stop="20250314100000 +0000" channel="ATN">
+        <title>Eye Wash</title>
     </programme>
     <programme start="20250314100000 +0000" stop="20250314103000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250314103000 +0000" stop="20250314115000 +0000" channel="ATN">
-        <title>Quranic Discussion</title>
+    <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250314115000 +0000" stop="20250314120000 +0000" channel="ATN">
+    <programme start="20250314110000 +0000" stop="20250314112000 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
+    </programme>
+    <programme start="20250314112000 +0000" stop="20250314113000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250314120000 +0000" stop="20250314122000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+    <programme start="20250314113000 +0000" stop="20250314120000 +0000" channel="ATN">
+        <title>Jhotpot Iftar</title>
     </programme>
-    <programme start="20250314122000 +0000" stop="20250314122500 +0000" channel="ATN">
+    <programme start="20250314120000 +0000" stop="20250314121500 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250314121500 +0000" stop="20250314122000 +0000" channel="ATN">
         <title>Jummah Adhaan</title>
     </programme>
-    <programme start="20250314122500 +0000" stop="20250314140000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
+    <programme start="20250314122000 +0000" stop="20250314125000 +0000" channel="ATN">
+        <title>Hamd O Nath</title>
+    </programme>
+    <programme start="20250314125000 +0000" stop="20250314130000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250314130000 +0000" stop="20250314133000 +0000" channel="ATN">
+        <title>Talimul Quran</title>
+    </programme>
+    <programme start="20250314133000 +0000" stop="20250314135000 +0000" channel="ATN">
+        <title>Prophet Story</title>
+    </programme>
+    <programme start="20250314135000 +0000" stop="20250314140000 +0000" channel="ATN">
+        <title>Islamer Batighor</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314143000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="ATN">
-        <title>Jummah Barer Programme</title>
-    </programme>
-    <programme start="20250314150000 +0000" stop="20250314152500 +0000" channel="ATN">
-        <title>Amader Shekor</title>
-    </programme>
-    <programme start="20250314152500 +0000" stop="20250314153000 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
+    <programme start="20250314143000 +0000" stop="20250314153000 +0000" channel="ATN">
+        <title>Heart To Heart</title>
     </programme>
     <programme start="20250314153000 +0000" stop="20250314160000 +0000" channel="ATN">
-        <title>Chutki Vandar</title>
+        <title>Quran Tilawat</title>
     </programme>
-    <programme start="20250314160000 +0000" stop="20250314170000 +0000" channel="ATN">
+    <programme start="20250314160000 +0000" stop="20250314161000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250314161000 +0000" stop="20250314161500 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250314173000 +0000" stop="20250314173500 +0000" channel="ATN">
+    <programme start="20250314161500 +0000" stop="20250314164500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250314164500 +0000" stop="20250314170000 +0000" channel="ATN">
+        <title>Your Daily Ramadan Reminder</title>
+    </programme>
+    <programme start="20250314170000 +0000" stop="20250314180700 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250314180700 +0000" stop="20250314181000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250314173500 +0000" stop="20250314180000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
+    <programme start="20250314181000 +0000" stop="20250314182800 +0000" channel="ATN">
+        <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250314180000 +0000" stop="20250314185800 +0000" channel="ATN">
-        <title>ATN News</title>
+    <programme start="20250314182800 +0000" stop="20250314192300 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250314185800 +0000" stop="20250314190000 +0000" channel="ATN">
+    <programme start="20250314192300 +0000" stop="20250314192800 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250314190000 +0000" stop="20250314193000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250314192800 +0000" stop="20250314234700 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
-    <programme start="20250314193000 +0000" stop="20250314200000 +0000" channel="ATN">
-        <title>Art &amp; Craft</title>
-    </programme>
-    <programme start="20250314200000 +0000" stop="20250314213000 +0000" channel="ATN">
-        <title>Omor Ekush</title>
-    </programme>
-    <programme start="20250314213000 +0000" stop="20250314220000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250314220000 +0000" stop="20250314230000 +0000" channel="ATN">
-        <title>Omor Ekush</title>
-    </programme>
-    <programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="ATN">
-        <title>Chachchu Amar Chachchu</title>
+    <programme start="20250314234700 +0000" stop="20250315004700 +0000" channel="ATN">
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250313223000 +0000" stop="20250313230000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
