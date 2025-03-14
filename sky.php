@@ -27829,22 +27829,22 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250315080000 +0000" stop="20250315090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250315090000 +0000" stop="20250315100000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250315100000 +0000" stop="20250315110000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Ramadan Moments</title>
     </programme>
     <programme start="20250315110000 +0000" stop="20250315120000 +0000" channel="Takbeer TV">
-        <title>Warafana Laka Zikrak</title>
+        <title>Salaam Ramadaan</title>
     </programme>
     <programme start="20250315120000 +0000" stop="20250315130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250315130000 +0000" stop="20250315140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250315140000 +0000" stop="20250315150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -27853,13 +27853,13 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250315160000 +0000" stop="20250315170000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250315170000 +0000" stop="20250315180000 +0000" channel="Takbeer TV">
-        <title>Gapshap with Papa Khan</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250315180000 +0000" stop="20250315190000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250315190000 +0000" stop="20250315200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28885,7 +28885,7 @@
         <title>Gurbani, Katha &amp; Kirtan</title>
     </programme>
     <programme start="20250315140000 +0000" stop="20250315150000 +0000" channel="PoliticsPunjab">
-        <title>Nagar Kirtan</title>
+        <title>Car Rally Bakersfield (Los Angeles)</title>
     </programme>
     <programme start="20250315150000 +0000" stop="20250315150500 +0000" channel="PoliticsPunjab">
         <title>Fatafat News</title>
