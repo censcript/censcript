@@ -14461,10 +14461,10 @@
         <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250314183000 +0000" stop="20250314190000 +0000" channel="TNT Sports 4">
-        <title>Snowboard World Cup</title>
+        <title>Freestyle Skiing World Cup</title>
     </programme>
     <programme start="20250314190000 +0000" stop="20250314193000 +0000" channel="TNT Sports 4">
-        <title>Snowboard World Cup</title>
+        <title>Ski Jumping World Cup - Men's</title>
     </programme>
     <programme start="20250314193000 +0000" stop="20250314203000 +0000" channel="TNT Sports 4">
         <title>Biathlon World Cup</title>
@@ -14479,10 +14479,10 @@
         <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250314223000 +0000" stop="20250314230000 +0000" channel="TNT Sports 4">
-        <title>Snowboard World Cup</title>
+        <title>Ski Jumping World Cup - Men's</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250314233000 +0000" channel="TNT Sports 4">
-        <title>Snowboard World Cup</title>
+        <title>TNT Sports Reload</title>
     </programme>
     <programme start="20250314233000 +0000" stop="20250315003000 +0000" channel="TNT Sports 4">
         <title>GP of Argentina: The Inside Line</title>
@@ -29236,7 +29236,7 @@
         <title>Jathedar Akali Phula Singh</title>
     </programme>
     <programme start="20250314193000 +0000" stop="20250314200000 +0000" channel="Sangat">
-        <title>Nanakshahi Samat 557</title>
+        <title>Hola Mahalla 2025</title>
     </programme>
     <programme start="20250314200000 +0000" stop="20250314203000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -29245,7 +29245,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250314213000 +0000" stop="20250314220000 +0000" channel="Sangat">
-        <title>Nanakshahi Samat 557</title>
+        <title>Hola Mahalla 2025</title>
     </programme>
     <programme start="20250314220000 +0000" stop="20250314230000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
@@ -34336,10 +34336,10 @@
         <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250314183000 +0000" stop="20250314190000 +0000" channel="TNTSports4 HD">
-        <title>Snowboard World Cup</title>
+        <title>Freestyle Skiing World Cup</title>
     </programme>
     <programme start="20250314190000 +0000" stop="20250314193000 +0000" channel="TNTSports4 HD">
-        <title>Snowboard World Cup</title>
+        <title>Ski Jumping World Cup - Men's</title>
     </programme>
     <programme start="20250314193000 +0000" stop="20250314203000 +0000" channel="TNTSports4 HD">
         <title>Biathlon World Cup</title>
@@ -34354,10 +34354,10 @@
         <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250314223000 +0000" stop="20250314230000 +0000" channel="TNTSports4 HD">
-        <title>Snowboard World Cup</title>
+        <title>Ski Jumping World Cup - Men's</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250314233000 +0000" channel="TNTSports4 HD">
-        <title>Snowboard World Cup</title>
+        <title>TNT Sports Reload</title>
     </programme>
     <programme start="20250314233000 +0000" stop="20250315003000 +0000" channel="TNTSports4 HD">
         <title>GP of Argentina: The Inside Line</title>
