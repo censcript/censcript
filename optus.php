@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250314190500 +0000" stop="20250314212500 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Liverpool v Manchester United</title>
-    </programme>
     <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Orlando Pride v Chicago Stars</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250325165000 +0000" stop="20250325191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Moldova v Estonia</title>
+    </programme>
+    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Montenegro v Faroe Islands</title>
     </programme>
 </tv>

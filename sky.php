@@ -14553,11 +14553,11 @@
     <programme start="20250315203000 +0000" stop="20250315210000 +0000" channel="Sky News HD">
         <title>UK Tonight Highlights</title>
     </programme>
-    <programme start="20250315210000 +0000" stop="20250315213000 +0000" channel="Sky News HD">
+    <programme start="20250315210000 +0000" stop="20250315213001 +0000" channel="Sky News HD">
         <title>Sky News</title>
     </programme>
-    <programme start="20250315213000 +0000" stop="20250315220000 +0000" channel="Sky News HD">
-        <title>The World with Yalda Hakim</title>
+    <programme start="20250315213001 +0000" stop="20250315220000 +0000" channel="Sky News HD">
+        <title>Unreliable Witness</title>
     </programme>
     <programme start="20250315220000 +0000" stop="20250315223000 +0000" channel="Sky News HD">
         <title>News at 10 with Gillian Joseph</title>
@@ -28884,20 +28884,8 @@
     <programme start="20250315133000 +0000" stop="20250315140000 +0000" channel="PoliticsPunjab">
         <title>Gurbani, Katha &amp; Kirtan</title>
     </programme>
-    <programme start="20250315140000 +0000" stop="20250315150000 +0000" channel="PoliticsPunjab">
+    <programme start="20250315140000 +0000" stop="20250315170000 +0000" channel="PoliticsPunjab">
         <title>Car Rally Bakersfield (Los Angeles)</title>
-    </programme>
-    <programme start="20250315150000 +0000" stop="20250315150500 +0000" channel="PoliticsPunjab">
-        <title>Fatafat News</title>
-    </programme>
-    <programme start="20250315150500 +0000" stop="20250315160000 +0000" channel="PoliticsPunjab">
-        <title>Nagar Kirtan</title>
-    </programme>
-    <programme start="20250315160000 +0000" stop="20250315160500 +0000" channel="PoliticsPunjab">
-        <title>Fatafat News</title>
-    </programme>
-    <programme start="20250315160500 +0000" stop="20250315170000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
     </programme>
     <programme start="20250315170000 +0000" stop="20250315173000 +0000" channel="PoliticsPunjab">
         <title>Rehras Sahib Path</title>
@@ -33735,11 +33723,11 @@
     <programme start="20250315203000 +0000" stop="20250315210000 +0000" channel="Sky News">
         <title>UK Tonight Highlights</title>
     </programme>
-    <programme start="20250315210000 +0000" stop="20250315213000 +0000" channel="Sky News">
+    <programme start="20250315210000 +0000" stop="20250315213001 +0000" channel="Sky News">
         <title>Sky News</title>
     </programme>
-    <programme start="20250315213000 +0000" stop="20250315220000 +0000" channel="Sky News">
-        <title>The World with Yalda Hakim</title>
+    <programme start="20250315213001 +0000" stop="20250315220000 +0000" channel="Sky News">
+        <title>Unreliable Witness</title>
     </programme>
     <programme start="20250315220000 +0000" stop="20250315223000 +0000" channel="Sky News">
         <title>News at 10 with Gillian Joseph</title>
@@ -35649,7 +35637,7 @@
     <programme start="20250315231500 +0000" stop="20250316001500 +0000" channel="BBC Two NI HD">
         <title>St Patrick's Day at the BBC</title>
     </programme>
-    <programme start="20250314224000 +0000" stop="20250314230000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250314225500 +0000" stop="20250314230000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250315011000 +0000" channel="BBC RB 1 HD">
