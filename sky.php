@@ -18271,10 +18271,13 @@
         <title>Children's Rosary</title>
     </programme>
     <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="EWTN Catholic">
-        <title>Catholic Classics: Mother Angelica Presents</title>
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250314173000 +0000" stop="20250314180000 +0000" channel="EWTN Catholic">
+    <programme start="20250314173000 +0000" stop="20250314174500 +0000" channel="EWTN Catholic">
         <title>At the Heart of Relationships</title>
+    </programme>
+    <programme start="20250314174500 +0000" stop="20250314180000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="EWTN Catholic">
         <title>Daily Mass</title>
@@ -29680,7 +29683,7 @@
         <title>The Voice of the Quran</title>
     </programme>
     <programme start="20250314063000 +0000" stop="20250314070000 +0000" channel="CHSTV">
-        <title>Islamic Lifestyle</title>
+        <title>The Spirit Of The Quran</title>
     </programme>
     <programme start="20250314070000 +0000" stop="20250314073000 +0000" channel="CHSTV">
         <title>Hamd O Nath</title>
@@ -29689,79 +29692,88 @@
         <title>Arabi Kafela</title>
     </programme>
     <programme start="20250314080000 +0000" stop="20250314083000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
+        <title>Islamic Lifestyle</title>
     </programme>
     <programme start="20250314083000 +0000" stop="20250314090000 +0000" channel="CHSTV">
-        <title>Purbo Poshchim</title>
+        <title>Acts Of Duty</title>
     </programme>
     <programme start="20250314090000 +0000" stop="20250314093000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250314093000 +0000" stop="20250314100000 +0000" channel="CHSTV">
-        <title>Talash</title>
+    <programme start="20250314093000 +0000" stop="20250314110000 +0000" channel="CHSTV">
+        <title>Ramadan Essentials</title>
     </programme>
-    <programme start="20250314100000 +0000" stop="20250314113000 +0000" channel="CHSTV">
-        <title>Esho Quran Shikhi</title>
+    <programme start="20250314110000 +0000" stop="20250314113000 +0000" channel="CHSTV">
+        <title>Haat Bazar</title>
     </programme>
-    <programme start="20250314113000 +0000" stop="20250314122000 +0000" channel="CHSTV">
-        <title>Islam Ke Bole</title>
+    <programme start="20250314113000 +0000" stop="20250314120000 +0000" channel="CHSTV">
+        <title>Understanding Islam</title>
     </programme>
-    <programme start="20250314122000 +0000" stop="20250314123000 +0000" channel="CHSTV">
+    <programme start="20250314120000 +0000" stop="20250314121500 +0000" channel="CHSTV">
+        <title>Nobi Rasuler Kahani</title>
+    </programme>
+    <programme start="20250314121500 +0000" stop="20250314122000 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250314123000 +0000" stop="20250314130000 +0000" channel="CHSTV">
-        <title>Islam Ke Bole</title>
+    <programme start="20250314122000 +0000" stop="20250314123000 +0000" channel="CHSTV">
+        <title>Nobi Rasuler Kahani</title>
+    </programme>
+    <programme start="20250314123000 +0000" stop="20250314124000 +0000" channel="CHSTV">
+        <title>Adesh Koren Allah</title>
+    </programme>
+    <programme start="20250314124000 +0000" stop="20250314125000 +0000" channel="CHSTV">
+        <title>Aloy Bhora Ramadan</title>
+    </programme>
+    <programme start="20250314125000 +0000" stop="20250314130000 +0000" channel="CHSTV">
+        <title>The Light Of Islam</title>
     </programme>
     <programme start="20250314130000 +0000" stop="20250314133000 +0000" channel="CHSTV">
-        <title>Amader Gram</title>
+        <title>In The Light Of Quran</title>
     </programme>
     <programme start="20250314133000 +0000" stop="20250314140000 +0000" channel="CHSTV">
-        <title>Islam Keno Shantir Dhormo</title>
+        <title>Islamic Gaan</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314143000 +0000" channel="CHSTV">
-        <title>Independent News</title>
+        <title>Islam And Society</title>
     </programme>
     <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
+        <title>Islamic Gaan</title>
     </programme>
-    <programme start="20250314150000 +0000" stop="20250314153500 +0000" channel="CHSTV">
-        <title>Paliye Biyer Por</title>
+    <programme start="20250314150000 +0000" stop="20250314160800 +0000" channel="CHSTV">
+        <title>Ramadan Essentials</title>
     </programme>
-    <programme start="20250314153500 +0000" stop="20250314154000 +0000" channel="CHSTV">
+    <programme start="20250314160800 +0000" stop="20250314161400 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250314154000 +0000" stop="20250314163000 +0000" channel="CHSTV">
-        <title>Paliye Biyer Por</title>
+    <programme start="20250314161400 +0000" stop="20250314163000 +0000" channel="CHSTV">
+        <title>Ramadan Essentials</title>
     </programme>
     <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
+        <title>Acts Of Duty</title>
     </programme>
-    <programme start="20250314170000 +0000" stop="20250314172800 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
+    <programme start="20250314170000 +0000" stop="20250314180700 +0000" channel="CHSTV">
+        <title>Ramadan Charity Appeal 2025</title>
     </programme>
-    <programme start="20250314172800 +0000" stop="20250314173500 +0000" channel="CHSTV">
+    <programme start="20250314180700 +0000" stop="20250314181500 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250314173500 +0000" stop="20250314183000 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
+    <programme start="20250314181500 +0000" stop="20250314183000 +0000" channel="CHSTV">
+        <title>The Noble Quran</title>
     </programme>
-    <programme start="20250314183000 +0000" stop="20250314190000 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
+    <programme start="20250314183000 +0000" stop="20250314192800 +0000" channel="CHSTV">
+        <title>Ramadan Charity Appeal 2025</title>
     </programme>
-    <programme start="20250314190000 +0000" stop="20250314193000 +0000" channel="CHSTV">
-        <title>Independent News</title>
+    <programme start="20250314192800 +0000" stop="20250314193500 +0000" channel="CHSTV">
+        <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250314193000 +0000" stop="20250314200000 +0000" channel="CHSTV">
-        <title>Sharirik Shikkha</title>
-    </programme>
-    <programme start="20250314200000 +0000" stop="20250314220000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
+    <programme start="20250314193500 +0000" stop="20250314220000 +0000" channel="CHSTV">
+        <title>Ramadan Charity Appeal 2025</title>
     </programme>
     <programme start="20250314220000 +0000" stop="20250314223000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250314223000 +0000" stop="20250314233000 +0000" channel="CHSTV">
-        <title>Amar Gao</title>
+        <title>Ramadan Charity Appeal 2025</title>
     </programme>
     <programme start="20250313193100 +0000" stop="20250314043700 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
@@ -30217,13 +30229,13 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250314063000 +0000" stop="20250314070000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250314070000 +0000" stop="20250314080000 +0000" channel="iON TV">
-        <title>Quranic Arabic</title>
+        <title>Forty Hadiths</title>
     </programme>
     <programme start="20250314080000 +0000" stop="20250314090000 +0000" channel="iON TV">
-        <title>Forty Hadiths</title>
+        <title>Quranic Arabic</title>
     </programme>
     <programme start="20250314090000 +0000" stop="20250314100000 +0000" channel="iON TV">
         <title>Tafseer-ul-Qur'aan</title>
@@ -30232,7 +30244,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250314110000 +0000" stop="20250314120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
@@ -30250,7 +30262,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250314133000 +0000" stop="20250314140000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
@@ -30259,13 +30271,13 @@
         <title>Quran Recitation</title>
     </programme>
     <programme start="20250314160000 +0000" stop="20250314160800 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250314160800 +0000" stop="20250314161300 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250314161300 +0000" stop="20250314165900 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250314165900 +0000" stop="20250314180700 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
