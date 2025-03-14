@@ -13567,7 +13567,7 @@
         <title>Fight Night Int: Teraji v Akui</title>
     </programme>
     <programme start="20250314090000 +0000" stop="20250314110000 +0000" channel="SkySp NFL HD">
-        <title>Live NRL Rnd 2: Panthers v Roosters</title>
+        <title>Live NRL: Panthers v Roosters</title>
     </programme>
     <programme start="20250314110000 +0000" stop="20250314120000 +0000" channel="SkySp NFL HD">
         <title>Fight Night Int: Teraji v Akui</title>
