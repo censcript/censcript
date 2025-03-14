@@ -547,7 +547,7 @@
         <title>East Asia Tonight - EP 232</title>
     </programme>
     <programme start="20250314110000 +0000" stop="20250314120000 +0000" channel="CNA.mewatch">
-        <title>Extraordinary People - EP 4</title>
+        <title>Extraordinary People - EP 2</title>
     </programme>
     <programme start="20250314120000 +0000" stop="20250314130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight - EP 348</title>
