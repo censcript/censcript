@@ -7362,10 +7362,7 @@
     <programme start="20250314045000 +0000" stop="20250314054000 +0000" channel="Channel 5+1">
         <title>Gardening with Carol Klein</title>
     </programme>
-    <programme start="20250314054000 +0000" stop="20250314060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250314060000 +0000" stop="20250314060500 +0000" channel="Channel 5+1">
+    <programme start="20250314054000 +0000" stop="20250314060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250314060500 +0000" stop="20250314063500 +0000" channel="Channel 5+1">
@@ -23986,13 +23983,13 @@
         <title>Your Spring Home</title>
     </programme>
     <programme start="20250314060000 +0000" stop="20250314070000 +0000" channel="QVC HD">
-        <title>Your Spring Home</title>
+        <title>Style Your Spring Home</title>
     </programme>
     <programme start="20250314070000 +0000" stop="20250314080000 +0000" channel="QVC HD">
-        <title>Your Spring Home</title>
+        <title>Spring Household Helpers</title>
     </programme>
     <programme start="20250314080000 +0000" stop="20250314090000 +0000" channel="QVC HD">
-        <title>Your Spring Home</title>
+        <title>Style Your Spring Home</title>
     </programme>
     <programme start="20250314090000 +0000" stop="20250314100000 +0000" channel="QVC HD">
         <title>The Morning Show</title>
@@ -24019,7 +24016,7 @@
         <title>Fashion on Friday with Kaffe</title>
     </programme>
     <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="QVC HD">
-        <title>Spring Home in Bloom</title>
+        <title>Tablescaping Masterclass</title>
     </programme>
     <programme start="20250314190000 +0000" stop="20250314200000 +0000" channel="QVC HD">
         <title>Yensa Beauty</title>
@@ -24307,16 +24304,16 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250314100000 +0000" stop="20250314110000 +0000" channel="QVC Style HD">
-        <title>Luxury Handbags with Aimee. Kestenberg</title>
+        <title>New Season Italian Gold</title>
     </programme>
     <programme start="20250314110000 +0000" stop="20250314120000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co</title>
+        <title>Faith &amp; Brown</title>
     </programme>
     <programme start="20250314120000 +0000" stop="20250314130000 +0000" channel="QVC Style HD">
         <title>New Season Luella Grey</title>
     </programme>
     <programme start="20250314130000 +0000" stop="20250314140000 +0000" channel="QVC Style HD">
-        <title>Lara Pearls Collection</title>
+        <title>Superga and Spring Footwear Edit</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314150000 +0000" channel="QVC Style HD">
         <title>Ashwood Handbags</title>
@@ -24955,7 +24952,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314150000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Cook's Essentials on 4 Easy Pay</title>
     </programme>
     <programme start="20250314150000 +0000" stop="20250314160000 +0000" channel="QVC Extra">
         <title>New Season Skechers Footwear</title>
@@ -24973,7 +24970,7 @@
         <title>The Holiday Shop</title>
     </programme>
     <programme start="20250314200000 +0000" stop="20250314210000 +0000" channel="QVC Extra">
-        <title>Cook's Essentials</title>
+        <title>Cook's Essentials on 4 Easy Pay</title>
     </programme>
     <programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="QVC Extra">
         <title>New Season Italian Gold</title>
@@ -28623,8 +28620,11 @@
     <programme start="20250314170500 +0000" stop="20250314172000 +0000" channel="Islam Ch Urdu">
         <title>Live Prayers from Madina: Isha</title>
     </programme>
-    <programme start="20250314172000 +0000" stop="20250314180700 +0000" channel="Islam Ch Urdu">
+    <programme start="20250314172000 +0000" stop="20250314173000 +0000" channel="Islam Ch Urdu">
         <title>Fazail e Ramadan</title>
+    </programme>
+    <programme start="20250314173000 +0000" stop="20250314180700 +0000" channel="Islam Ch Urdu">
+        <title>Live Charity Appeal Orphans in Need</title>
     </programme>
     <programme start="20250314180700 +0000" stop="20250314181400 +0000" channel="Islam Ch Urdu">
         <title>Maghrib Adhan</title>
@@ -28884,8 +28884,11 @@
     <programme start="20250314180700 +0000" stop="20250314181300 +0000" channel="ARY Digital">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250314181300 +0000" stop="20250314182500 +0000" channel="ARY Digital">
+    <programme start="20250314181300 +0000" stop="20250314182200 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
+    </programme>
+    <programme start="20250314182200 +0000" stop="20250314182500 +0000" channel="ARY Digital">
+        <title>Jeeto Pakistan League</title>
     </programme>
     <programme start="20250314182500 +0000" stop="20250314192800 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
@@ -29325,17 +29328,14 @@
     <programme start="20250314190000 +0000" stop="20250314200000 +0000" channel="Akaal Channel">
         <title>Live: Thara Sahib &amp; Diwan Hall</title>
     </programme>
-    <programme start="20250314200000 +0000" stop="20250314210000 +0000" channel="Akaal Channel">
+    <programme start="20250314200000 +0000" stop="20250314213000 +0000" channel="Akaal Channel">
         <title>News Point</title>
     </programme>
-    <programme start="20250314210000 +0000" stop="20250314213000 +0000" channel="Akaal Channel">
+    <programme start="20250314213000 +0000" stop="20250314220000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>
     </programme>
-    <programme start="20250314213000 +0000" stop="20250314223000 +0000" channel="Akaal Channel">
+    <programme start="20250314220000 +0000" stop="20250314230000 +0000" channel="Akaal Channel">
         <title>Teleshopping: Panj Takht</title>
-    </programme>
-    <programme start="20250314223000 +0000" stop="20250314230000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
