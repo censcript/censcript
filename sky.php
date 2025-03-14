@@ -36591,10 +36591,10 @@
     <programme start="20250314060500 +0000" stop="20250314093000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250314093000 +0000" stop="20250314143000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250314093000 +0000" stop="20250314135500 +0000" channel="BBC RB 1 HD">
         <title>All England Open Badminton Championships</title>
     </programme>
-    <programme start="20250314143000 +0000" stop="20250314192000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250314135500 +0000" stop="20250314192000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
     <programme start="20250314192000 +0000" stop="20250314213000 +0000" channel="BBC RB 1 HD">
@@ -37641,11 +37641,8 @@
     <programme start="20250314173000 +0000" stop="20250314190000 +0000" channel="BBC R6 Music">
         <title>Huw Stephens</title>
     </programme>
-    <programme start="20250314190000 +0000" stop="20250314203000 +0000" channel="BBC R6 Music">
+    <programme start="20250314190000 +0000" stop="20250314210000 +0000" channel="BBC R6 Music">
         <title>The People's Party with AFRODEUTSCHE</title>
-    </programme>
-    <programme start="20250314203000 +0000" stop="20250314210000 +0000" channel="BBC R6 Music">
-        <title>6 Music's Rave Forever</title>
     </programme>
     <programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="BBC R6 Music">
         <title>6 Music's Indie Forever</title>
