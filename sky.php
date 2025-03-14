@@ -15843,32 +15843,59 @@
     <programme start="20250314050000 +0000" stop="20250314053000 +0000" channel="NDTV World">
         <title>The NDTV Auto Show</title>
     </programme>
-    <programme start="20250314053000 +0000" stop="20250314063000 +0000" channel="NDTV World">
+    <programme start="20250314053000 +0000" stop="20250314060000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
-    <programme start="20250314063000 +0000" stop="20250314073000 +0000" channel="NDTV World">
+    <programme start="20250314060000 +0000" stop="20250314063000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its...</title>
+    </programme>
+    <programme start="20250314063000 +0000" stop="20250314070000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
-    <programme start="20250314073000 +0000" stop="20250314083000 +0000" channel="NDTV World">
+    <programme start="20250314070000 +0000" stop="20250314073000 +0000" channel="NDTV World">
+        <title>Gadgets 360 With Technical Guruji</title>
+    </programme>
+    <programme start="20250314073000 +0000" stop="20250314080000 +0000" channel="NDTV World">
         <title>Lunchtime News</title>
     </programme>
-    <programme start="20250314083000 +0000" stop="20250314100000 +0000" channel="NDTV World">
+    <programme start="20250314080000 +0000" stop="20250314083000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its Icons: Javed Akhtar</title>
+    </programme>
+    <programme start="20250314083000 +0000" stop="20250314090000 +0000" channel="NDTV World">
+        <title>News</title>
+    </programme>
+    <programme start="20250314090000 +0000" stop="20250314093000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its Icons: Salim Khan</title>
+    </programme>
+    <programme start="20250314093000 +0000" stop="20250314100000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250314100000 +0000" stop="20250314103000 +0000" channel="NDTV World">
         <title>Entertainment Special</title>
     </programme>
-    <programme start="20250314103000 +0000" stop="20250314113000 +0000" channel="NDTV World">
+    <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
-    <programme start="20250314113000 +0000" stop="20250314133000 +0000" channel="NDTV World">
+    <programme start="20250314110000 +0000" stop="20250314113000 +0000" channel="NDTV World">
+        <title>Tech With TG</title>
+    </programme>
+    <programme start="20250314113000 +0000" stop="20250314120000 +0000" channel="NDTV World">
         <title>Newsbreak</title>
+    </programme>
+    <programme start="20250314120000 +0000" stop="20250314123000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its...</title>
+    </programme>
+    <programme start="20250314123000 +0000" stop="20250314130000 +0000" channel="NDTV World">
+        <title>Newsbreak</title>
+    </programme>
+    <programme start="20250314130000 +0000" stop="20250314133000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its...</title>
     </programme>
     <programme start="20250314133000 +0000" stop="20250314140000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250314140000 +0000" stop="20250314143000 +0000" channel="NDTV World">
-        <title>Newsbreak</title>
+        <title>Meet The Delhi Cabinet</title>
     </programme>
     <programme start="20250314143000 +0000" stop="20250314150000 +0000" channel="NDTV World">
         <title>The News</title>
@@ -15882,35 +15909,17 @@
     <programme start="20250314160000 +0000" stop="20250314163000 +0000" channel="NDTV World">
         <title>India Through The Eyes of Its Icons: Tarun Tahiliani</title>
     </programme>
-    <programme start="20250314163000 +0000" stop="20250314173000 +0000" channel="NDTV World">
+    <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="NDTV World">
         <title>The 10 O'Clock News</title>
     </programme>
-    <programme start="20250314173000 +0000" stop="20250314183000 +0000" channel="NDTV World">
+    <programme start="20250314170000 +0000" stop="20250314173000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its...</title>
+    </programme>
+    <programme start="20250314173000 +0000" stop="20250314210000 +0000" channel="NDTV World">
         <title>News</title>
-    </programme>
-    <programme start="20250314183000 +0000" stop="20250314193000 +0000" channel="NDTV World">
-        <title>The Big Fight</title>
-    </programme>
-    <programme start="20250314193000 +0000" stop="20250314200000 +0000" channel="NDTV World">
-        <title>News</title>
-    </programme>
-    <programme start="20250314200000 +0000" stop="20250314203000 +0000" channel="NDTV World">
-        <title>The News</title>
-    </programme>
-    <programme start="20250314203000 +0000" stop="20250314210000 +0000" channel="NDTV World">
-        <title>The Last Word</title>
     </programme>
     <programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="NDTV World">
         <title>News</title>
-    </programme>
-    <programme start="20250314220000 +0000" stop="20250314223000 +0000" channel="NDTV World">
-        <title>The Last Word</title>
-    </programme>
-    <programme start="20250314223000 +0000" stop="20250314233000 +0000" channel="NDTV World">
-        <title>News</title>
-    </programme>
-    <programme start="20250314233000 +0000" stop="20250315003000 +0000" channel="NDTV World">
-        <title>The Big Fight</title>
     </programme>
     <programme start="20250313225100 +0000" stop="20250313230000 +0000" channel="FRANCE 24 HD">
         <title>Focus</title>
@@ -29826,13 +29835,13 @@
     <programme start="20250314160800 +0000" stop="20250314161300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250314161300 +0000" stop="20250314180800 +0000" channel="IQRA Bangla">
+    <programme start="20250314161300 +0000" stop="20250314180700 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
     </programme>
-    <programme start="20250314180800 +0000" stop="20250314181600 +0000" channel="IQRA Bangla">
+    <programme start="20250314180700 +0000" stop="20250314181500 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250314181600 +0000" stop="20250314182200 +0000" channel="IQRA Bangla">
+    <programme start="20250314181500 +0000" stop="20250314182200 +0000" channel="IQRA Bangla">
         <title>The Sound Of Revelations</title>
     </programme>
     <programme start="20250314182200 +0000" stop="20250314182700 +0000" channel="IQRA Bangla">
@@ -36591,10 +36600,13 @@
     <programme start="20250314060500 +0000" stop="20250314093000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250314093000 +0000" stop="20250314135500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250314093000 +0000" stop="20250314135000 +0000" channel="BBC RB 1 HD">
         <title>All England Open Badminton Championships</title>
     </programme>
-    <programme start="20250314135500 +0000" stop="20250314192000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250314135000 +0000" stop="20250314143000 +0000" channel="BBC RB 1 HD">
+        <title>Winterwatch: Winter Magic</title>
+    </programme>
+    <programme start="20250314143000 +0000" stop="20250314192000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
     <programme start="20250314192000 +0000" stop="20250314213000 +0000" channel="BBC RB 1 HD">
