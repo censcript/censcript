@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Everton v Arsenal</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Poland v Malta</title>
+    </programme>
+    <programme start="20250325090000 +0000" stop="20250325100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11: Chris Hughton</title>
     </programme>
 </tv>
