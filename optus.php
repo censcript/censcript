@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v Cyprus</title>
+    </programme>
+    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Poland v Malta</title>
     </programme>
 </tv>
