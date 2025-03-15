@@ -29389,16 +29389,16 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250316150000 +0000" stop="20250316160000 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250316160000 +0000" stop="20250316161100 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250316161100 +0000" stop="20250316161600 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250316161600 +0000" stop="20250316165700 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250316165700 +0000" stop="20250316181000 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>

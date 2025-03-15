@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315200000 +0000" stop="20250315210000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
-    <programme start="20250315210000 +0000" stop="20250315233000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
-    </programme>
     <programme start="20250315233000 +0000" stop="20250316020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Utah Royals FC v Bay FC</title>
+    </programme>
+    <programme start="20250316000000 +0000" stop="20250316023000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
     </programme>
     <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Daegu</title>
+    </programme>
+    <programme start="20250329055500 +0000" stop="20250329081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Kashima v Vissel Kobe</title>
     </programme>
 </tv>
