@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315045000 +0000" stop="20250315071000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Daejeon</title>
-    </programme>
-    <programme start="20250315045500 +0000" stop="20250315071000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Yokohama FC v Cerezo</title>
-    </programme>
     <programme start="20250315072000 +0000" stop="20250315094000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Gangwon v Seoul</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - North Macedonia v Wales</title>
+    </programme>
+    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Liechtenstein v Kazakhstan</title>
+    </programme>
+    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Israel v Norway</title>
     </programme>
 </tv>
