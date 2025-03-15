@@ -27511,7 +27511,7 @@
         <title>Asr Azan</title>
     </programme>
     <programme start="20250315161500 +0000" stop="20250315170000 +0000" channel="IQRA TV">
-        <title>Iqra With IQRA</title>
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250315170000 +0000" stop="20250315170500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
