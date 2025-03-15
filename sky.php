@@ -14469,8 +14469,8 @@
     <programme start="20250316230000 +0000" stop="20250317000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20250315223000 +0000" stop="20250315230000 +0000" channel="BBC NEWS HD">
-        <title>The Media Show</title>
+    <programme start="20250315220000 +0000" stop="20250315230000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250315230000 +0000" stop="20250315233000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -29037,8 +29037,11 @@
     <programme start="20250316121500 +0000" stop="20250316122000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250316122000 +0000" stop="20250316130000 +0000" channel="ATN">
+    <programme start="20250316122000 +0000" stop="20250316123000 +0000" channel="ATN">
         <title>Charity Update: Goreeb Eathem</title>
+    </programme>
+    <programme start="20250316123000 +0000" stop="20250316130000 +0000" channel="ATN">
+        <title>Hamd O Nath</title>
     </programme>
     <programme start="20250316130000 +0000" stop="20250316133000 +0000" channel="ATN">
         <title>Talimul Quran</title>
@@ -35604,16 +35607,16 @@
     <programme start="20250316233000 +0000" stop="20250317003000 +0000" channel="BBC Two NI HD">
         <title>Sunday Politics</title>
     </programme>
-    <programme start="20250315221500 +0000" stop="20250316001000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250315222000 +0000" stop="20250316003000 +0000" channel="BBC RB 1 HD">
         <title>Rugby League Challenge Cup: Wigan v Hull FC</title>
     </programme>
-    <programme start="20250316001000 +0000" stop="20250316032000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250316003000 +0000" stop="20250316034500 +0000" channel="BBC RB 1 HD">
         <title>MOTD: Chelsea v Manchester...</title>
     </programme>
-    <programme start="20250316032000 +0000" stop="20250316043000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250316034500 +0000" stop="20250316045000 +0000" channel="BBC RB 1 HD">
         <title>Asian Network Comedy London 2025</title>
     </programme>
-    <programme start="20250316043000 +0000" stop="20250316060000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250316045000 +0000" stop="20250316060000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250316060000 +0000" stop="20250316083500 +0000" channel="BBC RB 1 HD">
