@@ -12759,9 +12759,6 @@
     <programme start="20250315220000 +0000" stop="20250315230000 +0000" channel="That's Melody">
         <title>Mellow Melody</title>
     </programme>
-    <programme start="20250314113000 +0000" stop="20250314230000 +0000" channel="SkySpMainEvHD">
-        <title>Live The Players Championship R2</title>
-    </programme>
     <programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="SkySpMainEvHD">
         <title>The F1 Show: Australia</title>
     </programme>
@@ -13091,9 +13088,6 @@
     </programme>
     <programme start="20250315230000 +0000" stop="20250316000000 +0000" channel="SkySpCricket HD">
         <title>ICC - History of the ICC CT</title>
-    </programme>
-    <programme start="20250314113000 +0000" stop="20250314230000 +0000" channel="SkySp Golf HD">
-        <title>Live The Players Championship R2</title>
     </programme>
     <programme start="20250314230000 +0000" stop="20250314233000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
@@ -28701,7 +28695,10 @@
     <programme start="20250315110000 +0000" stop="20250315120000 +0000" channel="Akaal Channel">
         <title>Teleshopping: Panj Takht</title>
     </programme>
-    <programme start="20250315120000 +0000" stop="20250315140000 +0000" channel="Akaal Channel">
+    <programme start="20250315120000 +0000" stop="20250315123000 +0000" channel="Akaal Channel">
+        <title>Akaal Patiala: Hola Mohalla</title>
+    </programme>
+    <programme start="20250315123000 +0000" stop="20250315140000 +0000" channel="Akaal Channel">
         <title>Panthic Ikath Punjab</title>
     </programme>
     <programme start="20250315140000 +0000" stop="20250315150000 +0000" channel="Akaal Channel">
@@ -28738,10 +28735,10 @@
         <title>Panthic Ikath Punjab</title>
     </programme>
     <programme start="20250315223000 +0000" stop="20250315230000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+        <title>Akaal Patiala: Hola Mohalla</title>
     </programme>
     <programme start="20250315230000 +0000" stop="20250316000000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
+        <title>D Live: Hola Mohalla Anandpur S</title>
     </programme>
     <programme start="20250314213000 +0000" stop="20250315002000 +0000" channel="Kanshi TV">
         <title>Sabse Bada Khiladi - 1995</title>
