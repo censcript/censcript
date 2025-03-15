@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Orlando Pride v Chicago Stars</title>
-    </programme>
-    <programme start="20250315000000 +0000" stop="20250315023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Washington Spirit</title>
-    </programme>
     <programme start="20250315045000 +0000" stop="20250315071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Daejeon</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Montenegro v Faroe Islands</title>
+    </programme>
+    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - Gibraltar v Czechia</title>
+    </programme>
+    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - North Macedonia v Wales</title>
     </programme>
 </tv>
