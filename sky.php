@@ -26640,19 +26640,19 @@
     <programme start="20250315065500 +0000" stop="20250315080000 +0000" channel="MTA1 World HD">
         <title>Deeni-o-Fiqa'hi Masa'il</title>
     </programme>
-    <programme start="20250315080000 +0000" stop="20250315085000 +0000" channel="MTA1 World HD">
+    <programme start="20250315080000 +0000" stop="20250315090000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250315085000 +0000" stop="20250315094500 +0000" channel="MTA1 World HD">
+    <programme start="20250315090000 +0000" stop="20250315095500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250315094500 +0000" stop="20250315095500 +0000" channel="MTA1 World HD">
+    <programme start="20250315095500 +0000" stop="20250315100500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250315095500 +0000" stop="20250315102500 +0000" channel="MTA1 World HD">
+    <programme start="20250315100500 +0000" stop="20250315103500 +0000" channel="MTA1 World HD">
         <title>Talk Islam Today</title>
     </programme>
-    <programme start="20250315102500 +0000" stop="20250315110500 +0000" channel="MTA1 World HD">
+    <programme start="20250315103500 +0000" stop="20250315110500 +0000" channel="MTA1 World HD">
         <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250315110500 +0000" stop="20250315120500 +0000" channel="MTA1 World HD">
@@ -26661,8 +26661,11 @@
     <programme start="20250315120500 +0000" stop="20250315121500 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250315121500 +0000" stop="20250315131500 +0000" channel="MTA1 World HD">
+    <programme start="20250315121500 +0000" stop="20250315130500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
+    </programme>
+    <programme start="20250315130500 +0000" stop="20250315131500 +0000" channel="MTA1 World HD">
+        <title>30 Years Of MTA</title>
     </programme>
     <programme start="20250315131500 +0000" stop="20250315143000 +0000" channel="MTA1 World HD">
         <title>Darsul Qur'an</title>
@@ -26697,13 +26700,16 @@
     <programme start="20250315183500 +0000" stop="20250315193000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250315193000 +0000" stop="20250315195500 +0000" channel="MTA1 World HD">
+    <programme start="20250315193000 +0000" stop="20250315194500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Ramadhan</title>
     </programme>
-    <programme start="20250315195500 +0000" stop="20250315204500 +0000" channel="MTA1 World HD">
+    <programme start="20250315194500 +0000" stop="20250315195500 +0000" channel="MTA1 World HD">
+        <title>Chef's Corner</title>
+    </programme>
+    <programme start="20250315195500 +0000" stop="20250315205500 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250315204500 +0000" stop="20250315213000 +0000" channel="MTA1 World HD">
+    <programme start="20250315205500 +0000" stop="20250315213000 +0000" channel="MTA1 World HD">
         <title>The Final Word</title>
     </programme>
     <programme start="20250315213000 +0000" stop="20250315224500 +0000" channel="MTA1 World HD">
