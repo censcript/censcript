@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315172000 +0000" stop="20250315200000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v Brentford</title>
-    </programme>
     <programme start="20250315200000 +0000" stop="20250315210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329035000 +0000" stop="20250329060500 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Fagiano Okayama v Yokohama FM</title>
+    </programme>
+    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Seoul v Daegu</title>
     </programme>
 </tv>

@@ -23302,7 +23302,7 @@
         <title>New Season Garden</title>
     </programme>
     <programme start="20250316090000 +0000" stop="20250316110000 +0000" channel="QVC HD">
-        <title>New Season Garden with Michael...</title>
+        <title>New Season Garden</title>
     </programme>
     <programme start="20250316110000 +0000" stop="20250316130000 +0000" channel="QVC HD">
         <title>New Season Plants2Gardens</title>
@@ -23578,7 +23578,7 @@
         <title>New Season Italian Gold</title>
     </programme>
     <programme start="20250316000000 +0000" stop="20250316010000 +0000" channel="QVC Style HD">
-        <title>Spring Accessories</title>
+        <title>Most Wanted Spring Accessories</title>
     </programme>
     <programme start="20250316010000 +0000" stop="20250316020000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday with Kaffe</title>
@@ -24244,7 +24244,7 @@
         <title>Hayloft Plants</title>
     </programme>
     <programme start="20250316100000 +0000" stop="20250316110000 +0000" channel="QVC Extra">
-        <title>Kim &amp; Co Fresh New Fashion</title>
+        <title>Sosandar Fashion</title>
     </programme>
     <programme start="20250316110000 +0000" stop="20250316120000 +0000" channel="QVC Extra">
         <title>Sleep Better, Feel Better</title>
