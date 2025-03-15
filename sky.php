@@ -13587,9 +13587,6 @@
     <programme start="20250315230000 +0000" stop="20250316000000 +0000" channel="TNT Sports 2">
         <title>Live: UFC Fight Night</title>
     </programme>
-    <programme start="20250314121500 +0000" stop="20250314230000 +0000" channel="SkySp+ HD">
-        <title>Live The Players Championship R2</title>
-    </programme>
     <programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
