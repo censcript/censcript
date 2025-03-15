@@ -3,18 +3,6 @@
     <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Southampton v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Manchester City v Brighton</title>
-    </programme>
-    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Ipswich v Nottingham Forest</title>
-    </programme>
-    <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Everton v West Ham United</title>
-    </programme>
     <programme start="20250315164500 +0000" stop="20250315191500 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Kansas City Current v Portland Thorns FC</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250326180000 +0000" stop="20250326183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Eduardo da Silva</title>
+    </programme>
+    <programme start="20250327133000 +0000" stop="20250327140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250328095500 +0000" stop="20250328121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Cerezo v Urawa Red Diamonds</title>
+    </programme>
+    <programme start="20250328163000 +0000" stop="20250328170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Gotham FC</title>
     </programme>
 </tv>
