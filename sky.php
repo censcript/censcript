@@ -28221,10 +28221,10 @@
     <programme start="20250315120000 +0000" stop="20250315121400 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250315121400 +0000" stop="20250315122200 +0000" channel="Eman Channel">
+    <programme start="20250315121400 +0000" stop="20250315122100 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250315122200 +0000" stop="20250315133000 +0000" channel="Eman Channel">
+    <programme start="20250315122100 +0000" stop="20250315133000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
     <programme start="20250315133000 +0000" stop="20250315143000 +0000" channel="Eman Channel">
@@ -28233,10 +28233,10 @@
     <programme start="20250315143000 +0000" stop="20250315150000 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250315150000 +0000" stop="20250315151000 +0000" channel="Eman Channel">
+    <programme start="20250315150000 +0000" stop="20250315150900 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
-    <programme start="20250315151000 +0000" stop="20250315152100 +0000" channel="Eman Channel">
+    <programme start="20250315150900 +0000" stop="20250315152100 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250315152100 +0000" stop="20250315153000 +0000" channel="Eman Channel">
@@ -28257,19 +28257,19 @@
     <programme start="20250315173000 +0000" stop="20250315180900 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250315180900 +0000" stop="20250315181800 +0000" channel="Eman Channel">
+    <programme start="20250315180900 +0000" stop="20250315181700 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250315181800 +0000" stop="20250315183700 +0000" channel="Eman Channel">
+    <programme start="20250315181700 +0000" stop="20250315183700 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
     <programme start="20250315183700 +0000" stop="20250315193000 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250315193000 +0000" stop="20250315194000 +0000" channel="Eman Channel">
+    <programme start="20250315193000 +0000" stop="20250315194100 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250315194000 +0000" stop="20250315204000 +0000" channel="Eman Channel">
+    <programme start="20250315194100 +0000" stop="20250315204100 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250314223000 +0000" stop="20250314233000 +0000" channel="ARY Digital">
