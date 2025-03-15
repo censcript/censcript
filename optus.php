@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315121000 +0000" stop="20250315152500 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Chelsea v Manchester City</title>
-    </programme>
     <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250326180000 +0000" stop="20250326183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Eduardo da Silva</title>
     </programme>
 </tv>
