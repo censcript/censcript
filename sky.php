@@ -25492,7 +25492,7 @@
         <title>Tejasvini</title>
     </programme>
     <programme start="20250316093000 +0000" stop="20250316100000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
+        <title>My India</title>
     </programme>
     <programme start="20250316100000 +0000" stop="20250316103000 +0000" channel="MATV National">
         <title>Jyotish Aur Ayurved Amrit</title>

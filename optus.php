@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
     <programme start="20250315164500 +0000" stop="20250315191500 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Kansas City Current v Portland Thorns FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Gotham FC</title>
+    </programme>
+    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
 </tv>
