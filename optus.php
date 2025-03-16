@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316183000 +0000" stop="20250316213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Leicester City v Manchester United</title>
-    </programme>
     <programme start="20250316225000 +0000" stop="20250317012000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v San Diego Wave FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 11.optus">
         <title>Women&#039;s Super League - Liverpool v Aston Villa</title>
+    </programme>
+    <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 10.optus">
+        <title>Women&#039;s Super League - Crystal Palace v Arsenal</title>
     </programme>
 </tv>
