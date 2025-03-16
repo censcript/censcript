@@ -3,15 +3,6 @@
     <programme start="20250316123000 +0000" stop="20250316163000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
-    <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Fulham v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Arsenal v Chelsea</title>
-    </programme>
-    <programme start="20250316135500 +0000" stop="20250316161000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Crystal Palace v Aston Villa</title>
-    </programme>
     <programme start="20250316145500 +0000" stop="20250316171000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Brighton and Hove Albion</title>
     </programme>
@@ -299,5 +290,14 @@
     </programme>
     <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeju v Suwon FC</title>
+    </programme>
+    <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Anyang v Jeonbuk</title>
+    </programme>
+    <programme start="20250330105000 +0000" stop="20250330131000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester United v Everton</title>
+    </programme>
+    <programme start="20250330122000 +0000" stop="20250330154000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Preston North End v Aston Villa</title>
     </programme>
 </tv>

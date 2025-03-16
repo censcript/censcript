@@ -543,11 +543,8 @@
     <programme start="20250316153000 +0000" stop="20250316200000 +0000" channel="SkyShowcaseHD">
         <title>Live EFL Cup: L'pool v Newcastle</title>
     </programme>
-    <programme start="20250316200000 +0000" stop="20250316210000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250316200000 +0000" stop="20250316210001 +0000" channel="SkyShowcaseHD">
         <title>Australian F1 GP Highlights</title>
-    </programme>
-    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="SkyShowcaseHD">
-        <title>New: Michael Flatley: Billion Dollar Dancer</title>
     </programme>
     <programme start="20250316210001 +0000" stop="20250316230000 +0000" channel="SkyShowcaseHD">
         <title>Football's Funniest Moments 1</title>
@@ -12249,9 +12246,6 @@
     <programme start="20250316234500 +0000" stop="20250317004500 +0000" channel="NOW 80s">
         <title>Fist Pumping Power Ballads!</title>
     </programme>
-    <programme start="20250315150000 +0000" stop="20250316003000 +0000" channel="NOW 90s &amp; 00s">
-        <title>NOW 100 Hits: Power Ballads!</title>
-    </programme>
     <programme start="20250316003000 +0000" stop="20250316060000 +0000" channel="NOW 90s &amp; 00s">
         <title>Mellow Moments!</title>
     </programme>
@@ -13382,9 +13376,6 @@
     </programme>
     <programme start="20250316233000 +0000" stop="20250317003000 +0000" channel="TNT Sports 2">
         <title>New Zealand v Sri Lanka - 2nd T20</title>
-    </programme>
-    <programme start="20250315150000 +0000" stop="20250315230000 +0000" channel="SkySp+ HD">
-        <title>Live The Players Championship R3</title>
     </programme>
     <programme start="20250315230000 +0000" stop="20250316000000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
@@ -28456,7 +28447,7 @@
         <title>Current Issues</title>
     </programme>
     <programme start="20250316164500 +0000" stop="20250316173000 +0000" channel="Akaal Channel">
-        <title>Gurmat Smagam France</title>
+        <title>Gurmat Smagam Italy</title>
     </programme>
     <programme start="20250316173000 +0000" stop="20250316180000 +0000" channel="Akaal Channel">
         <title>Akaal Glasgow: Rehraas Sahib</title>
