@@ -24292,7 +24292,7 @@
         <title>Phase Eight</title>
     </programme>
     <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="QVC Style HD">
-        <title>Spring Accessories</title>
+        <title>Most Wanted Spring Accessories</title>
     </programme>
     <programme start="20250317140000 +0000" stop="20250317150000 +0000" channel="QVC Style HD">
         <title>All About Accessories</title>
@@ -24301,7 +24301,7 @@
         <title>Outerwear Edit</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317170000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion Deals</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="QVC Style HD">
         <title>Discover Plants with Michael...</title>
@@ -24898,7 +24898,7 @@
         <title>New Season, New Marla Wynne</title>
     </programme>
     <programme start="20250317030000 +0000" stop="20250317040000 +0000" channel="QVC Extra">
-        <title>New Year, New Marla Wynne</title>
+        <title>New Season, New Marla Wynne</title>
     </programme>
     <programme start="20250317040000 +0000" stop="20250317050000 +0000" channel="QVC Extra">
         <title>New Season, New Marla Wynne</title>
@@ -24952,7 +24952,7 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250317210000 +0000" stop="20250317220000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>The Jewellery Box</title>
     </programme>
     <programme start="20250317220000 +0000" stop="20250317230000 +0000" channel="QVC Extra">
         <title>Lara Pearls Collection</title>
@@ -36702,16 +36702,16 @@
     <programme start="20250317051500 +0000" stop="20250317060000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250317060000 +0000" stop="20250317110500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250317060000 +0000" stop="20250317111500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250317110500 +0000" stop="20250317133000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250317111500 +0000" stop="20250317134000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: Women's Super League:...</title>
     </programme>
-    <programme start="20250317133000 +0000" stop="20250317164000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250317134000 +0000" stop="20250317165000 +0000" channel="BBC RB 1 HD">
         <title>MOTD: Chelsea v Manchester...</title>
     </programme>
-    <programme start="20250317164000 +0000" stop="20250317183500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250317165000 +0000" stop="20250317183500 +0000" channel="BBC RB 1 HD">
         <title>Netball Super League: London...</title>
     </programme>
     <programme start="20250317183500 +0000" stop="20250317210000 +0000" channel="BBC RB 1 HD">
