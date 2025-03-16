@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Seattle Reign v Gotham FC</title>
-    </programme>
     <programme start="20250316035500 +0000" stop="20250316061000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Kyoto</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329075500 +0000" stop="20250329101000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - FC Tokyo v Kawasaki</title>
+    </programme>
+    <programme start="20250329120500 +0000" stop="20250329152500 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Fulham v Crystal Palace</title>
     </programme>
 </tv>

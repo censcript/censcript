@@ -19419,8 +19419,11 @@
     <programme start="20250316181500 +0000" stop="20250316184000 +0000" channel="CBBC HD">
         <title>So Awkward Academy</title>
     </programme>
-    <programme start="20250316184000 +0000" stop="20250316194000 +0000" channel="CBBC HD">
+    <programme start="20250316184000 +0000" stop="20250316185800 +0000" channel="CBBC HD">
         <title>Gladiators: Epic Pranks</title>
+    </programme>
+    <programme start="20250316185800 +0000" stop="20250316195800 +0000" channel="CBBC HD">
+        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250315185800 +0000" stop="20250316005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -19641,8 +19644,11 @@
     <programme start="20250316182000 +0000" stop="20250316185000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250316185000 +0000" stop="20250316195000 +0000" channel="CBeebies HD">
+    <programme start="20250316185000 +0000" stop="20250316185800 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
+    </programme>
+    <programme start="20250316185800 +0000" stop="20250316195800 +0000" channel="CBeebies HD">
+        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250315224500 +0000" stop="20250315230000 +0000" channel="Sky Kids HD">
         <title>The Pingu Show</title>
@@ -27420,14 +27426,11 @@
     <programme start="20250316161600 +0000" stop="20250316170000 +0000" channel="Islam TV">
         <title>Kidz World</title>
     </programme>
-    <programme start="20250316170000 +0000" stop="20250316172000 +0000" channel="Islam TV">
+    <programme start="20250316170000 +0000" stop="20250316175000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250316172000 +0000" stop="20250316175000 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
-    </programme>
     <programme start="20250316175000 +0000" stop="20250316181200 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
+        <title>Taraweeh Prayer from Makkah</title>
     </programme>
     <programme start="20250316181200 +0000" stop="20250316181700 +0000" channel="Islam TV">
         <title>Maghrib Azan</title>
