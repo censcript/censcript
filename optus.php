@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316045000 +0000" stop="20250316071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Suwon FC v Ulsan</title>
-    </programme>
-    <programme start="20250316045500 +0000" stop="20250316071000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Yokohama FM v Gamba</title>
-    </programme>
     <programme start="20250316055500 +0000" stop="20250316081000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Shonan v Vissel Kobe</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Orlando Pride v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250329170500 +0000" stop="20250329202500 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Brighton v Nottingham Forest</title>
+    </programme>
+    <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Kansas City Current v Utah Royals FC</title>
     </programme>
 </tv>

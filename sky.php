@@ -27966,22 +27966,22 @@
     <programme start="20250316113000 +0000" stop="20250316120000 +0000" channel="Eman Channel">
         <title>EKTV Game Show</title>
     </programme>
-    <programme start="20250316120000 +0000" stop="20250316121500 +0000" channel="Eman Channel">
+    <programme start="20250316120000 +0000" stop="20250316121400 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250316121500 +0000" stop="20250316122200 +0000" channel="Eman Channel">
+    <programme start="20250316121400 +0000" stop="20250316122000 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250316122200 +0000" stop="20250316133000 +0000" channel="Eman Channel">
+    <programme start="20250316122000 +0000" stop="20250316133000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
     <programme start="20250316133000 +0000" stop="20250316143000 +0000" channel="Eman Channel">
         <title>Juzz Amma Round 1 Live</title>
     </programme>
-    <programme start="20250316143000 +0000" stop="20250316151200 +0000" channel="Eman Channel">
+    <programme start="20250316143000 +0000" stop="20250316151500 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250316151200 +0000" stop="20250316152200 +0000" channel="Eman Channel">
+    <programme start="20250316151500 +0000" stop="20250316152200 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250316152200 +0000" stop="20250316153000 +0000" channel="Eman Channel">
@@ -28005,10 +28005,10 @@
     <programme start="20250316181000 +0000" stop="20250316182000 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250316182000 +0000" stop="20250316184000 +0000" channel="Eman Channel">
+    <programme start="20250316182000 +0000" stop="20250316183800 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250316184000 +0000" stop="20250316193100 +0000" channel="Eman Channel">
+    <programme start="20250316183800 +0000" stop="20250316193100 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250316193100 +0000" stop="20250316194000 +0000" channel="Eman Channel">
