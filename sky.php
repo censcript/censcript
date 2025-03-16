@@ -13525,7 +13525,7 @@
         <title>S/Lge 24: W'ton v St Helens Hlts</title>
     </programme>
     <programme start="20250316234500 +0000" stop="20250317000000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Wigan v Hull KR Hlts</title>
     </programme>
     <programme start="20250317000000 +0000" stop="20250317020000 +0000" channel="SkySp NFL HD">
         <title>Tri Nations Rugby: ARG v SA</title>
@@ -13537,31 +13537,31 @@
         <title>Fight Night: Azim v Lipinets</title>
     </programme>
     <programme start="20250317040000 +0000" stop="20250317041500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24:W'ton v Huddersfield Hlts</title>
     </programme>
     <programme start="20250317041500 +0000" stop="20250317043000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Leigh v St Helens Hlts</title>
     </programme>
     <programme start="20250317043000 +0000" stop="20250317044500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>WS/Lge 24: Wigan v Leeds Hlts</title>
     </programme>
     <programme start="20250317044500 +0000" stop="20250317050000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>WS/Lge SF 24: Leeds v York Hlts</title>
     </programme>
     <programme start="20250317050000 +0000" stop="20250317060000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Azim v Lipinets</title>
     </programme>
     <programme start="20250317060000 +0000" stop="20250317061500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250317061500 +0000" stop="20250317063000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Catalan v W'gton Hlts</title>
     </programme>
     <programme start="20250317063000 +0000" stop="20250317064500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': St Helens v Leeds Hlts</title>
     </programme>
     <programme start="20250317064500 +0000" stop="20250317070000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>WS/Lge 24': St Helens v Leeds Hlts</title>
     </programme>
     <programme start="20250317070000 +0000" stop="20250317080000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Wardley v Clarke</title>
@@ -13570,16 +13570,16 @@
         <title>Fight Night: Jonas v Price</title>
     </programme>
     <programme start="20250317090000 +0000" stop="20250317091500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24:St Helens v Catalans Hlts</title>
     </programme>
     <programme start="20250317091500 +0000" stop="20250317093000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Warrington v Wigan Hlts</title>
     </programme>
     <programme start="20250317093000 +0000" stop="20250317094500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Hull FC v Leeds Hlts</title>
     </programme>
     <programme start="20250317094500 +0000" stop="20250317100000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24:Warrington v Salford Hlts</title>
     </programme>
     <programme start="20250317100000 +0000" stop="20250317111500 +0000" channel="SkySp NFL HD">
         <title>Barkley v Duran 1989</title>
@@ -13600,16 +13600,16 @@
         <title>Fight Night: Jonas v Price</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317161500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Hull FC v Hull KR Hlts</title>
     </programme>
     <programme start="20250317161500 +0000" stop="20250317163000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Warrington v Leeds Hlts</title>
     </programme>
     <programme start="20250317163000 +0000" stop="20250317164500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Wigan v St Helens  Hlts</title>
     </programme>
     <programme start="20250317164500 +0000" stop="20250317170000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>WS/Lge 24': Wigan v St Helens Hlts</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="SkySp NFL HD">
         <title>Barkley v Duran 1989</title>
@@ -13624,13 +13624,13 @@
         <title>NFL Highlights</title>
     </programme>
     <programme start="20250317211500 +0000" stop="20250317213000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Warrington v Leeds Hlts</title>
     </programme>
     <programme start="20250317213000 +0000" stop="20250317214500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>S/Lge 24': Wigan v St Helens  Hlts</title>
     </programme>
     <programme start="20250317214500 +0000" stop="20250317220000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Highlights</title>
+        <title>WS/Lge 24':Wigan v St Helens  Hlts</title>
     </programme>
     <programme start="20250317220000 +0000" stop="20250317230000 +0000" channel="SkySp NFL HD">
         <title>NFL Highlights</title>
