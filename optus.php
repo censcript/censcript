@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316123000 +0000" stop="20250316163000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250316145500 +0000" stop="20250316171000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Tottenham Hotspur v Brighton and Hove Albion</title>
-    </programme>
     <programme start="20250316183000 +0000" stop="20250316213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Manchester United</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250330122000 +0000" stop="20250330154000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Preston North End v Aston Villa</title>
+    </programme>
+    <programme start="20250330125000 +0000" stop="20250330151000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Leicester v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 11.optus">
+        <title>Women&#039;s Super League - Liverpool v Aston Villa</title>
     </programme>
 </tv>
