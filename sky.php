@@ -28381,22 +28381,22 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250317080000 +0000" stop="20250317090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250317090000 +0000" stop="20250317100000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
-    </programme>
-    <programme start="20250317100000 +0000" stop="20250317110000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
+    <programme start="20250317100000 +0000" stop="20250317110000 +0000" channel="Takbeer TV">
+        <title>Ramadan Moments</title>
+    </programme>
     <programme start="20250317110000 +0000" stop="20250317120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Salaam Ramadaan</title>
     </programme>
     <programme start="20250317120000 +0000" stop="20250317130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250317140000 +0000" stop="20250317150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28405,13 +28405,13 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317170000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250317180000 +0000" stop="20250317190000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250317190000 +0000" stop="20250317200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28423,7 +28423,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250317220000 +0000" stop="20250317230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250317230000 +0000" stop="20250318000000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29941,10 +29941,10 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250317073000 +0000" stop="20250317080000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+        <title>Prophet Story</title>
     </programme>
     <programme start="20250317080000 +0000" stop="20250317083000 +0000" channel="ATN">
-        <title>Obiram Bangladesh</title>
+        <title>Bhalobasha The Juice</title>
     </programme>
     <programme start="20250317083000 +0000" stop="20250317100000 +0000" channel="ATN">
         <title>Music Lounge</title>
@@ -38331,8 +38331,8 @@
     <programme start="20250317232500 +0000" stop="20250318002500 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
     </programme>
-    <programme start="20250316210000 +0000" stop="20250317010000 +0000" channel="BBC R5SX">
-        <title>Tennis</title>
+    <programme start="20250316223000 +0000" stop="20250317010000 +0000" channel="BBC R5SX">
+        <title>Golf</title>
     </programme>
     <programme start="20250317010000 +0000" stop="20250317060000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
