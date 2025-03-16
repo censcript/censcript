@@ -12909,9 +12909,6 @@
     <programme start="20250316230000 +0000" stop="20250317000000 +0000" channel="SkySpCricket HD">
         <title>WPL Final: Delhi C v Mumbai I Hlts</title>
     </programme>
-    <programme start="20250315130000 +0000" stop="20250315230000 +0000" channel="SkySp Golf HD">
-        <title>Live The Players Championship R3</title>
-    </programme>
     <programme start="20250315230000 +0000" stop="20250315233000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
@@ -37205,9 +37202,6 @@
     </programme>
     <programme start="20250316230000 +0000" stop="20250317000000 +0000" channel="TWR">
         <title>TWR Focus</title>
-    </programme>
-    <programme start="20250315130000 +0000" stop="20250316090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250316090000 +0000" stop="20250316093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
