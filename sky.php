@@ -546,8 +546,11 @@
     <programme start="20250316200000 +0000" stop="20250316210000 +0000" channel="SkyShowcaseHD">
         <title>Australian F1 GP Highlights</title>
     </programme>
-    <programme start="20250316210000 +0000" stop="20250316230000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="SkyShowcaseHD">
         <title>New: Michael Flatley: Billion Dollar Dancer</title>
+    </programme>
+    <programme start="20250316210001 +0000" stop="20250316230000 +0000" channel="SkyShowcaseHD">
+        <title>Football's Funniest Moments 1</title>
     </programme>
     <programme start="20250316230000 +0000" stop="20250317000000 +0000" channel="SkyShowcaseHD">
         <title>Brassic</title>
@@ -7356,8 +7359,11 @@
     <programme start="20250316163000 +0000" stop="20250316210000 +0000" channel="SkyShowcase+1">
         <title>Live EFL Cup: L'pool v Newcastle</title>
     </programme>
-    <programme start="20250316210000 +0000" stop="20250316220000 +0000" channel="SkyShowcase+1">
+    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="SkyShowcase+1">
         <title>Australian F1 GP Highlights</title>
+    </programme>
+    <programme start="20250316210001 +0000" stop="20250316220000 +0000" channel="SkyShowcase+1">
+        <title>Football's Funniest Moments 1</title>
     </programme>
     <programme start="20250316220000 +0000" stop="20250316230000 +0000" channel="SkyShowcase+1">
         <title>New: Michael Flatley: Billion Dollar Dancer</title>
@@ -30282,8 +30288,11 @@
     <programme start="20250316200000 +0000" stop="20250316210000 +0000" channel="Sky Showcase">
         <title>Australian F1 GP Highlights</title>
     </programme>
-    <programme start="20250316210000 +0000" stop="20250316230000 +0000" channel="Sky Showcase">
+    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="Sky Showcase">
         <title>New: Michael Flatley: Billion Dollar Dancer</title>
+    </programme>
+    <programme start="20250316210001 +0000" stop="20250316230000 +0000" channel="Sky Showcase">
+        <title>Football's Funniest Moments 1</title>
     </programme>
     <programme start="20250316230000 +0000" stop="20250317000000 +0000" channel="Sky Showcase">
         <title>Brassic</title>
@@ -36033,8 +36042,11 @@
     <programme start="20250316033000 +0000" stop="20250316060000 +0000" channel="BBC R5L">
         <title>5 Live Formula 1: 2025: Grand Prix</title>
     </programme>
-    <programme start="20250316060000 +0000" stop="20250316070000 +0000" channel="BBC R5L">
-        <title>The Martin Lewis Podcast</title>
+    <programme start="20250316060000 +0000" stop="20250316063000 +0000" channel="BBC R5L">
+        <title>This is BBC R5L</title>
+    </programme>
+    <programme start="20250316063000 +0000" stop="20250316070000 +0000" channel="BBC R5L">
+        <title>Elis James and John Robins</title>
     </programme>
     <programme start="20250316070000 +0000" stop="20250316100000 +0000" channel="BBC R5L">
         <title>Sunday Breakfast</title>
@@ -37272,11 +37284,14 @@
     <programme start="20250316132500 +0000" stop="20250316153000 +0000" channel="BBC R5SX">
         <title>Football</title>
     </programme>
-    <programme start="20250316153000 +0000" stop="20250316180000 +0000" channel="BBC R5SX">
+    <programme start="20250316153000 +0000" stop="20250316190000 +0000" channel="BBC R5SX">
+        <title>Golf</title>
+    </programme>
+    <programme start="20250316190000 +0000" stop="20250316210000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250316180000 +0000" stop="20250316190000 +0000" channel="BBC R5SX">
-        <title>Golf</title>
+    <programme start="20250316210000 +0000" stop="20250316220000 +0000" channel="BBC R5SX">
+        <title>Tennis</title>
     </programme>
     <programme start="20250315190000 +0000" stop="20250315230000 +0000" channel="Heart Dance">
         <title>Club Classics</title>
