@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316055500 +0000" stop="20250316081000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Shonan v Vissel Kobe</title>
-    </programme>
     <programme start="20250316072000 +0000" stop="20250316094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeonbuk v Pohang</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Kansas City Current v Utah Royals FC</title>
+    </programme>
+    <programme start="20250330020000 +0000" stop="20250330043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Portland Thorns FC v North Carolina Courage</title>
     </programme>
 </tv>
