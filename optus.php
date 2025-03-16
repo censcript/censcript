@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316000000 +0000" stop="20250316023000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Racing Louisville FC v North Carolina Courage</title>
-    </programme>
     <programme start="20250316020000 +0000" stop="20250316043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Seattle Reign v Gotham FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Ulsan</title>
+    </programme>
+    <programme start="20250329075500 +0000" stop="20250329101000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - FC Tokyo v Kawasaki</title>
     </programme>
 </tv>
