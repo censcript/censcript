@@ -12951,13 +12951,10 @@
     <programme start="20250316113000 +0000" stop="20250316114500 +0000" channel="SkySp Golf HD">
         <title>Masterpiece Theatre</title>
     </programme>
-    <programme start="20250316114500 +0000" stop="20250316120000 +0000" channel="SkySp Golf HD">
+    <programme start="20250316114500 +0000" stop="20250316120001 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Profiles</title>
     </programme>
-    <programme start="20250316120000 +0000" stop="20250316130000 +0000" channel="SkySp Golf HD">
-        <title>Players Championship R3 Highlights</title>
-    </programme>
-    <programme start="20250316130000 +0000" stop="20250316223000 +0000" channel="SkySp Golf HD">
+    <programme start="20250316120001 +0000" stop="20250316223000 +0000" channel="SkySp Golf HD">
         <title>Live The Players Championship R4</title>
     </programme>
     <programme start="20250316223000 +0000" stop="20250316233000 +0000" channel="SkySp Golf HD">
@@ -30285,11 +30282,8 @@
     <programme start="20250316153000 +0000" stop="20250316200000 +0000" channel="Sky Showcase">
         <title>Live EFL Cup: L'pool v Newcastle</title>
     </programme>
-    <programme start="20250316200000 +0000" stop="20250316210000 +0000" channel="Sky Showcase">
+    <programme start="20250316200000 +0000" stop="20250316210001 +0000" channel="Sky Showcase">
         <title>Australian F1 GP Highlights</title>
-    </programme>
-    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="Sky Showcase">
-        <title>New: Michael Flatley: Billion Dollar Dancer</title>
     </programme>
     <programme start="20250316210001 +0000" stop="20250316230000 +0000" channel="Sky Showcase">
         <title>Football's Funniest Moments 1</title>
