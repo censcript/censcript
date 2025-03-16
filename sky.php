@@ -1828,7 +1828,7 @@
         <title>Chernobyl, My Promised Land</title>
     </programme>
     <programme start="20250316020000 +0000" stop="20250316040000 +0000" channel="SkyDocmntrsHD">
-        <title>New: Michael Flatley: Billion Dollar Dancer</title>
+        <title>The Loneliest Whale</title>
     </programme>
     <programme start="20250316040000 +0000" stop="20250316060000 +0000" channel="SkyDocmntrsHD">
         <title>Music Box: Woodstock '99</title>
@@ -26358,11 +26358,8 @@
     <programme start="20250316083000 +0000" stop="20250316090500 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250316090500 +0000" stop="20250316094000 +0000" channel="MTA1 World HD">
+    <programme start="20250316090500 +0000" stop="20250316100000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
-    </programme>
-    <programme start="20250316094000 +0000" stop="20250316100000 +0000" channel="MTA1 World HD">
-        <title>Aal-e-Rasool</title>
     </programme>
     <programme start="20250316100000 +0000" stop="20250316103000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
@@ -26394,10 +26391,10 @@
     <programme start="20250316153000 +0000" stop="20250316162500 +0000" channel="MTA1 World HD">
         <title>Nashr-e-Ramadhan</title>
     </programme>
-    <programme start="20250316162500 +0000" stop="20250316170500 +0000" channel="MTA1 World HD">
+    <programme start="20250316162500 +0000" stop="20250316171000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250316170500 +0000" stop="20250316180900 +0000" channel="MTA1 World HD">
+    <programme start="20250316171000 +0000" stop="20250316180900 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
     <programme start="20250316180900 +0000" stop="20250316181500 +0000" channel="MTA1 World HD">
@@ -28902,11 +28899,8 @@
     <programme start="20250316043200 +0000" stop="20250316043900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Fajr</title>
     </programme>
-    <programme start="20250316043900 +0000" stop="20250316045900 +0000" channel="IQRA Bangla">
+    <programme start="20250316043900 +0000" stop="20250316060000 +0000" channel="IQRA Bangla">
         <title>Surah Yaseen</title>
-    </programme>
-    <programme start="20250316045900 +0000" stop="20250316060000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250316060000 +0000" stop="20250316082000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
@@ -31078,7 +31072,7 @@
         <title>Chernobyl, My Promised Land</title>
     </programme>
     <programme start="20250316020000 +0000" stop="20250316040000 +0000" channel="SkyDocumntrs">
-        <title>New: Michael Flatley: Billion Dollar Dancer</title>
+        <title>The Loneliest Whale</title>
     </programme>
     <programme start="20250316040000 +0000" stop="20250316060000 +0000" channel="SkyDocumntrs">
         <title>Music Box: Woodstock '99</title>
