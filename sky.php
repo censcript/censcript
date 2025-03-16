@@ -26238,11 +26238,8 @@
     <programme start="20250317060000 +0000" stop="20250317070000 +0000" channel="MATV National">
         <title>Vishnu Shastranam</title>
     </programme>
-    <programme start="20250317070000 +0000" stop="20250317073000 +0000" channel="MATV National">
-        <title>Vishnu Shastranam</title>
-    </programme>
-    <programme start="20250317073000 +0000" stop="20250317080000 +0000" channel="MATV National">
-        <title>Gurbani</title>
+    <programme start="20250317070000 +0000" stop="20250317080000 +0000" channel="MATV National">
+        <title>Gurbani Katha Veechar</title>
     </programme>
     <programme start="20250317080000 +0000" stop="20250317083000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
@@ -26256,10 +26253,10 @@
     <programme start="20250317093000 +0000" stop="20250317100000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
-    <programme start="20250317100000 +0000" stop="20250317102000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
+    <programme start="20250317100000 +0000" stop="20250317103000 +0000" channel="MATV National">
+        <title>Jyotish Aur Ayurved Amrit</title>
     </programme>
-    <programme start="20250317102000 +0000" stop="20250317110000 +0000" channel="MATV National">
+    <programme start="20250317103000 +0000" stop="20250317110000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250317110000 +0000" stop="20250317120000 +0000" channel="MATV National">
@@ -26290,7 +26287,7 @@
         <title>Bollywood Fresh</title>
     </programme>
     <programme start="20250317190000 +0000" stop="20250317200000 +0000" channel="MATV National">
-        <title>Bollywood Fresh</title>
+        <title>Health is Wealth</title>
     </programme>
     <programme start="20250317200000 +0000" stop="20250317203000 +0000" channel="MATV National">
         <title>Weekly Roundup</title>
