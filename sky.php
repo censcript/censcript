@@ -1866,11 +1866,8 @@
     <programme start="20250316190000 +0000" stop="20250316200000 +0000" channel="SkyDocmntrsHD">
         <title>Boyzone: No Matter What</title>
     </programme>
-    <programme start="20250316200000 +0000" stop="20250316210000 +0000" channel="SkyDocmntrsHD">
+    <programme start="20250316200000 +0000" stop="20250316210001 +0000" channel="SkyDocmntrsHD">
         <title>Boyzone: No Matter What</title>
-    </programme>
-    <programme start="20250316210000 +0000" stop="20250316210001 +0000" channel="SkyDocmntrsHD">
-        <title>New: Michael Flatley: Billion Dollar Dancer</title>
     </programme>
     <programme start="20250316210001 +0000" stop="20250316230000 +0000" channel="SkyDocmntrsHD">
         <title>Fatboy Slim: Right Here, Right Now</title>
@@ -14551,7 +14548,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250316163000 +0000" stop="20250316170000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250316170000 +0000" stop="20250316180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
