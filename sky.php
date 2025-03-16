@@ -28059,10 +28059,10 @@
     <programme start="20250316122000 +0000" stop="20250316130000 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
     </programme>
-    <programme start="20250316130000 +0000" stop="20250316134000 +0000" channel="ARY Digital">
+    <programme start="20250316130000 +0000" stop="20250316140000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250316134000 +0000" stop="20250316152200 +0000" channel="ARY Digital">
+    <programme start="20250316140000 +0000" stop="20250316152200 +0000" channel="ARY Digital">
         <title>Shan-e-Iftar</title>
     </programme>
     <programme start="20250316152200 +0000" stop="20250316152800 +0000" channel="ARY Digital">
@@ -28083,10 +28083,10 @@
     <programme start="20250316193100 +0000" stop="20250316193700 +0000" channel="ARY Digital">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250316193700 +0000" stop="20250316213000 +0000" channel="ARY Digital">
+    <programme start="20250316193700 +0000" stop="20250316214000 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
     </programme>
-    <programme start="20250316213000 +0000" stop="20250316223000 +0000" channel="ARY Digital">
+    <programme start="20250316214000 +0000" stop="20250316223000 +0000" channel="ARY Digital">
         <title>Naqaab</title>
     </programme>
     <programme start="20250316223000 +0000" stop="20250316233000 +0000" channel="ARY Digital">
