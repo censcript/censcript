@@ -27604,10 +27604,10 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250316160000 +0000" stop="20250316170000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250316170000 +0000" stop="20250316180000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250316180000 +0000" stop="20250316190000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>

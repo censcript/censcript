@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250316035500 +0000" stop="20250316061000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Shimizu v Kyoto</title>
-    </programme>
     <programme start="20250316045000 +0000" stop="20250316071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Suwon FC v Ulsan</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250329120500 +0000" stop="20250329152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Fulham v Crystal Palace</title>
+    </programme>
+    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
     </programme>
 </tv>
