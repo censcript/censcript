@@ -13350,11 +13350,8 @@
     <programme start="20250317153000 +0000" stop="20250317160000 +0000" channel="SkySp Golf HD">
         <title>Golf Academy: Rory McIlroy</title>
     </programme>
-    <programme start="20250317160000 +0000" stop="20250317164500 +0000" channel="SkySp Golf HD">
+    <programme start="20250317160000 +0000" stop="20250317170000 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
-    </programme>
-    <programme start="20250317164500 +0000" stop="20250317170000 +0000" channel="SkySp Golf HD">
-        <title>PGA Tour Profiles</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="SkySp Golf HD">
         <title>The Players: The Golden Era</title>
@@ -18276,11 +18273,8 @@
     <programme start="20250317193000 +0000" stop="20250317200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250317200000 +0000" stop="20250317203000 +0000" channel="EWTN Catholic">
+    <programme start="20250317200000 +0000" stop="20250317204500 +0000" channel="EWTN Catholic">
         <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250317203000 +0000" stop="20250317204500 +0000" channel="EWTN Catholic">
-        <title>I Forgive with Immaculee Ilibagiza</title>
     </programme>
     <programme start="20250317204500 +0000" stop="20250317210000 +0000" channel="EWTN Catholic">
         <title>Gospel Glimpses</title>
@@ -25903,7 +25897,7 @@
         <title>Udne Ki Aasha</title>
     </programme>
     <programme start="20250317180000 +0000" stop="20250317183000 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic S14</title>
+        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
@@ -29665,10 +29659,10 @@
         <title>PBC Special Show</title>
     </programme>
     <programme start="20250317190000 +0000" stop="20250317200000 +0000" channel="PBC">
-        <title>Live - Kaptan with PBC</title>
+        <title>PBC Special Show</title>
     </programme>
     <programme start="20250317200000 +0000" stop="20250317210000 +0000" channel="PBC">
-        <title>PBC Live</title>
+        <title>PBC Special Show</title>
     </programme>
     <programme start="20250317210000 +0000" stop="20250317213000 +0000" channel="PBC">
         <title>PBC Special Show</title>
@@ -34903,7 +34897,7 @@
         <title>Udne Ki Aasha</title>
     </programme>
     <programme start="20250317180000 +0000" stop="20250317183000 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic S14</title>
+        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
@@ -38884,7 +38878,7 @@
         <title>Radio Foyle News</title>
     </programme>
     <programme start="20250317120300 +0000" stop="20250317130000 +0000" channel="BBC R Foyle">
-        <title>The Mark Patterson Show</title>
+        <title>Talkback</title>
     </programme>
     <programme start="20250317130000 +0000" stop="20250317131000 +0000" channel="BBC R Foyle">
         <title>North West at One</title>
