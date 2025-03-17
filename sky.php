@@ -6984,17 +6984,11 @@
     <programme start="20250318173500 +0000" stop="20250318180500 +0000" channel="That's TV 2">
         <title>Birds of a Feather</title>
     </programme>
-    <programme start="20250318180500 +0000" stop="20250318183000 +0000" channel="That's TV 2">
+    <programme start="20250318180500 +0000" stop="20250318184000 +0000" channel="That's TV 2">
         <title>Just Good Friends</title>
     </programme>
-    <programme start="20250318183000 +0000" stop="20250318184000 +0000" channel="That's TV 2">
-        <title>2point4 Children</title>
-    </programme>
-    <programme start="20250318184000 +0000" stop="20250318190000 +0000" channel="That's TV 2">
+    <programme start="20250318184000 +0000" stop="20250318192000 +0000" channel="That's TV 2">
         <title>Some Mothers Do 'Ave 'Em</title>
-    </programme>
-    <programme start="20250318190000 +0000" stop="20250318192000 +0000" channel="That's TV 2">
-        <title>You Rang, M'Lord?</title>
     </programme>
     <programme start="20250318192000 +0000" stop="20250318195500 +0000" channel="That's TV 2">
         <title>2point4 Children</title>
