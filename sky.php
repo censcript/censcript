@@ -14508,20 +14508,14 @@
     <programme start="20250318100000 +0000" stop="20250318104500 +0000" channel="TNT Sports 4">
         <title>Motocross World Championship</title>
     </programme>
-    <programme start="20250318104500 +0000" stop="20250318110000 +0000" channel="TNT Sports 4">
+    <programme start="20250318104500 +0000" stop="20250318113000 +0000" channel="TNT Sports 4">
         <title>Motocross World Championship</title>
-    </programme>
-    <programme start="20250318110000 +0000" stop="20250318113000 +0000" channel="TNT Sports 4">
-        <title>Fishing: On the Bank</title>
     </programme>
     <programme start="20250318113000 +0000" stop="20250318121500 +0000" channel="TNT Sports 4">
         <title>Motocross World Championship</title>
     </programme>
-    <programme start="20250318121500 +0000" stop="20250318123000 +0000" channel="TNT Sports 4">
+    <programme start="20250318121500 +0000" stop="20250318130000 +0000" channel="TNT Sports 4">
         <title>Motocross World Championship</title>
-    </programme>
-    <programme start="20250318123000 +0000" stop="20250318130000 +0000" channel="TNT Sports 4">
-        <title>Classic Premier League</title>
     </programme>
     <programme start="20250318130000 +0000" stop="20250318160000 +0000" channel="TNT Sports 4">
         <title>Live Powerlifting European Classic</title>
@@ -18150,11 +18144,8 @@
     <programme start="20250318030000 +0000" stop="20250318040000 +0000" channel="EWTN Catholic">
         <title>Living Right with Dr Ray</title>
     </programme>
-    <programme start="20250318040000 +0000" stop="20250318043000 +0000" channel="EWTN Catholic">
+    <programme start="20250318040000 +0000" stop="20250318044500 +0000" channel="EWTN Catholic">
         <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250318043000 +0000" stop="20250318044500 +0000" channel="EWTN Catholic">
-        <title>Setting Captives Free: A...</title>
     </programme>
     <programme start="20250318044500 +0000" stop="20250318050000 +0000" channel="EWTN Catholic">
         <title>Gospel Glimpses</title>
@@ -25764,31 +25755,22 @@
     <programme start="20250318070000 +0000" stop="20250318072900 +0000" channel="Utsav Plus HD">
         <title>Woh To Hai Albelaa</title>
     </programme>
-    <programme start="20250318072900 +0000" stop="20250318073000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318072900 +0000" stop="20250318080000 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250318073000 +0000" stop="20250318080000 +0000" channel="Utsav Plus HD">
-        <title>Advocate Anjali Awasthi</title>
-    </programme>
-    <programme start="20250318080000 +0000" stop="20250318083000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318080000 +0000" stop="20250318083100 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250318083000 +0000" stop="20250318083100 +0000" channel="Utsav Plus HD">
-        <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
     <programme start="20250318083100 +0000" stop="20250318090000 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250318090000 +0000" stop="20250318100000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318090000 +0000" stop="20250318100100 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250318100000 +0000" stop="20250318100100 +0000" channel="Utsav Plus HD">
+    <programme start="20250318100100 +0000" stop="20250318103100 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250318100100 +0000" stop="20250318103000 +0000" channel="Utsav Plus HD">
-        <title>Pocket Mein Aasmaan</title>
-    </programme>
-    <programme start="20250318103000 +0000" stop="20250318110000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318103100 +0000" stop="20250318110000 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
     <programme start="20250318110000 +0000" stop="20250318113000 +0000" channel="Utsav Plus HD">
@@ -25818,38 +25800,23 @@
     <programme start="20250318140000 +0000" stop="20250318143000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250318143000 +0000" stop="20250318150000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318143000 +0000" stop="20250318145700 +0000" channel="Utsav Plus HD">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250318150000 +0000" stop="20250318152800 +0000" channel="Utsav Plus HD">
+    <programme start="20250318145700 +0000" stop="20250318152800 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250318152800 +0000" stop="20250318153000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318152800 +0000" stop="20250318155700 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
-    <programme start="20250318153000 +0000" stop="20250318155700 +0000" channel="Utsav Plus HD">
-        <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250318155700 +0000" stop="20250318160000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318155700 +0000" stop="20250318165700 +0000" channel="Utsav Plus HD">
         <title>Jhanak</title>
     </programme>
-    <programme start="20250318160000 +0000" stop="20250318165700 +0000" channel="Utsav Plus HD">
-        <title>Jhanak</title>
-    </programme>
-    <programme start="20250318165700 +0000" stop="20250318170000 +0000" channel="Utsav Plus HD">
+    <programme start="20250318165700 +0000" stop="20250318173100 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250318170000 +0000" stop="20250318173000 +0000" channel="Utsav Plus HD">
-        <title>Anupamaa</title>
-    </programme>
-    <programme start="20250318173000 +0000" stop="20250318173100 +0000" channel="Utsav Plus HD">
+    <programme start="20250318173100 +0000" stop="20250318180100 +0000" channel="Utsav Plus HD">
         <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250318173100 +0000" stop="20250318180000 +0000" channel="Utsav Plus HD">
-        <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250318180000 +0000" stop="20250318180100 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250318180100 +0000" stop="20250318182800 +0000" channel="Utsav Plus HD">
         <title>Mummy Ka Magic</title>
@@ -29230,7 +29197,7 @@
         <title>Rehraas Sahib Takht Sri Patna Sahib</title>
     </programme>
     <programme start="20250318180000 +0000" stop="20250318190000 +0000" channel="Sangat">
-        <title>GNNSJ Kirtan</title>
+        <title>Nishan Sahib</title>
     </programme>
     <programme start="20250318190000 +0000" stop="20250318193000 +0000" channel="Sangat">
         <title>Walk for Change</title>
@@ -34251,20 +34218,14 @@
     <programme start="20250318100000 +0000" stop="20250318104500 +0000" channel="TNTSports4 HD">
         <title>Motocross World Championship</title>
     </programme>
-    <programme start="20250318104500 +0000" stop="20250318110000 +0000" channel="TNTSports4 HD">
+    <programme start="20250318104500 +0000" stop="20250318113000 +0000" channel="TNTSports4 HD">
         <title>Motocross World Championship</title>
-    </programme>
-    <programme start="20250318110000 +0000" stop="20250318113000 +0000" channel="TNTSports4 HD">
-        <title>Fishing: On the Bank</title>
     </programme>
     <programme start="20250318113000 +0000" stop="20250318121500 +0000" channel="TNTSports4 HD">
         <title>Motocross World Championship</title>
     </programme>
-    <programme start="20250318121500 +0000" stop="20250318123000 +0000" channel="TNTSports4 HD">
+    <programme start="20250318121500 +0000" stop="20250318130000 +0000" channel="TNTSports4 HD">
         <title>Motocross World Championship</title>
-    </programme>
-    <programme start="20250318123000 +0000" stop="20250318130000 +0000" channel="TNTSports4 HD">
-        <title>Classic Premier League</title>
     </programme>
     <programme start="20250318130000 +0000" stop="20250318160000 +0000" channel="TNTSports4 HD">
         <title>Live Powerlifting European Classic</title>
@@ -34809,16 +34770,10 @@
     <programme start="20250318140000 +0000" stop="20250318143000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250318143000 +0000" stop="20250318150000 +0000" channel="Utsav Plus">
+    <programme start="20250318143000 +0000" stop="20250318152800 +0000" channel="Utsav Plus">
         <title>Iss Ishq Ka Rabb Rakha</title>
     </programme>
-    <programme start="20250318150000 +0000" stop="20250318152800 +0000" channel="Utsav Plus">
-        <title>Ghum Hai Kisikey Pyaar Meiin</title>
-    </programme>
-    <programme start="20250318152800 +0000" stop="20250318153000 +0000" channel="Utsav Plus">
-        <title>Yeh Rishta Kya Kehlata Hai</title>
-    </programme>
-    <programme start="20250318153000 +0000" stop="20250318155700 +0000" channel="Utsav Plus">
+    <programme start="20250318152800 +0000" stop="20250318155700 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250318155700 +0000" stop="20250318160000 +0000" channel="Utsav Plus">
@@ -34836,11 +34791,8 @@
     <programme start="20250318173000 +0000" stop="20250318173100 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
     </programme>
-    <programme start="20250318173100 +0000" stop="20250318180000 +0000" channel="Utsav Plus">
+    <programme start="20250318173100 +0000" stop="20250318180100 +0000" channel="Utsav Plus">
         <title>Udne Ki Aasha</title>
-    </programme>
-    <programme start="20250318180000 +0000" stop="20250318180100 +0000" channel="Utsav Plus">
-        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250318180100 +0000" stop="20250318182800 +0000" channel="Utsav Plus">
         <title>Mummy Ka Magic</title>

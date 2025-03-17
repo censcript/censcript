@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250318090000 +0000" stop="20250318100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL GOATs: Spanish Stars</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v Seattle Reign</title>
+    </programme>
+    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Wolverhampton Wanderers v West Ham United</title>
     </programme>
 </tv>
