@@ -13603,7 +13603,7 @@
         <title>Barkley v Duran 1989</title>
     </programme>
     <programme start="20250317111500 +0000" stop="20250317114500 +0000" channel="SkySp NFL HD">
-        <title>Foreman v Clooney 1990</title>
+        <title>Foreman v Cooney 1990</title>
     </programme>
     <programme start="20250317114500 +0000" stop="20250317120000 +0000" channel="SkySp NFL HD">
         <title>Hearns v Barkley 1</title>
@@ -28857,16 +28857,31 @@
     <programme start="20250317180000 +0000" stop="20250317181000 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250317181000 +0000" stop="20250317183000 +0000" channel="Eman Channel">
+    <programme start="20250317181000 +0000" stop="20250317181200 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250317183000 +0000" stop="20250317192200 +0000" channel="Eman Channel">
+    <programme start="20250317181200 +0000" stop="20250317182200 +0000" channel="Eman Channel">
+        <title>Maghrib Adhan</title>
+    </programme>
+    <programme start="20250317182200 +0000" stop="20250317183000 +0000" channel="Eman Channel">
+        <title>Evening Remembrance</title>
+    </programme>
+    <programme start="20250317183000 +0000" stop="20250317184400 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
+    </programme>
+    <programme start="20250317184400 +0000" stop="20250317192200 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250317192200 +0000" stop="20250317193000 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250317193000 +0000" stop="20250317203000 +0000" channel="Eman Channel">
+    <programme start="20250317193000 +0000" stop="20250317193200 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
+    </programme>
+    <programme start="20250317193200 +0000" stop="20250317194000 +0000" channel="Eman Channel">
+        <title>Isha Adhan</title>
+    </programme>
+    <programme start="20250317194000 +0000" stop="20250317204000 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250316223000 +0000" stop="20250316233000 +0000" channel="ARY Digital">
