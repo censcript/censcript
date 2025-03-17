@@ -30283,13 +30283,13 @@
         <title>In the Light of Islam</title>
     </programme>
     <programme start="20250317070000 +0000" stop="20250317080000 +0000" channel="iON TV">
-        <title>Quranic Arabic</title>
-    </programme>
-    <programme start="20250317080000 +0000" stop="20250317090000 +0000" channel="iON TV">
         <title>Forty Hadiths</title>
     </programme>
+    <programme start="20250317080000 +0000" stop="20250317090000 +0000" channel="iON TV">
+        <title>Quranic Arabic</title>
+    </programme>
     <programme start="20250317090000 +0000" stop="20250317100000 +0000" channel="iON TV">
-        <title>Tafseer-ul-Qur'aan</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250317100000 +0000" stop="20250317103000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30319,16 +30319,16 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250317150000 +0000" stop="20250317160000 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317161200 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250317161200 +0000" stop="20250317161700 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250317161700 +0000" stop="20250317170000 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317181200 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
