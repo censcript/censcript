@@ -297,7 +297,7 @@
     <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
-    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Wolverhampton Wanderers v West Ham United</title>
+    <programme start="20250401183500 +0000" stop="20250401215500 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Bayer Leverkusen</title>
     </programme>
 </tv>
