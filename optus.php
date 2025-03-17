@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250330152000 +0000" stop="20250330184000 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Bournemouth v Manchester City</title>
+    </programme>
+    <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Chicago Stars v Racing Louisville FC</title>
     </programme>
 </tv>
