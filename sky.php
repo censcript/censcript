@@ -12918,11 +12918,8 @@
     <programme start="20250317120000 +0000" stop="20250317130000 +0000" channel="SkySpMainEvHD">
         <title>The Football Show</title>
     </programme>
-    <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250317130000 +0000" stop="20250317153000 +0000" channel="SkySpMainEvHD">
         <title>Live: The Players Day 5 (Play-Off)</title>
-    </programme>
-    <programme start="20250317140000 +0000" stop="20250317153000 +0000" channel="SkySpMainEvHD">
-        <title>Sports Desk</title>
     </programme>
     <programme start="20250317153000 +0000" stop="20250317160000 +0000" channel="SkySpMainEvHD">
         <title>Sports Desk</title>
@@ -13606,7 +13603,7 @@
         <title>Foreman v Cooney 1990</title>
     </programme>
     <programme start="20250317114500 +0000" stop="20250317120000 +0000" channel="SkySp NFL HD">
-        <title>Hearns v Barkley 1</title>
+        <title>Hearns v Barkley 1 1988</title>
     </programme>
     <programme start="20250317120000 +0000" stop="20250317140000 +0000" channel="SkySp NFL HD">
         <title>Live: Good Morning Football</title>
@@ -18268,10 +18265,13 @@
         <title>Women of Grace</title>
     </programme>
     <programme start="20250317200000 +0000" stop="20250317203000 +0000" channel="EWTN Catholic">
-        <title>Dietrich von Hildebrand: A Knight for Truth</title>
+        <title>Rosary For Pope Francis</title>
     </programme>
-    <programme start="20250317203000 +0000" stop="20250317210000 +0000" channel="EWTN Catholic">
+    <programme start="20250317203000 +0000" stop="20250317204500 +0000" channel="EWTN Catholic">
         <title>I Forgive with Immaculee Ilibagiza</title>
+    </programme>
+    <programme start="20250317204500 +0000" stop="20250317210000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250317210000 +0000" stop="20250317213000 +0000" channel="EWTN Catholic">
         <title>EWTN Pro-Life Weekly</title>
@@ -24319,7 +24319,7 @@
         <title>Outerwear Edit</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317170000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="QVC Style HD">
         <title>Discover Plants with Michael...</title>
