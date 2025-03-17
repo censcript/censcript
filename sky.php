@@ -12924,7 +12924,10 @@
     <programme start="20250317140000 +0000" stop="20250317150000 +0000" channel="SkySpMainEvHD">
         <title>Sports Desk</title>
     </programme>
-    <programme start="20250317150000 +0000" stop="20250317160000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250317150000 +0000" stop="20250317153000 +0000" channel="SkySpMainEvHD">
+        <title>Sports Desk</title>
+    </programme>
+    <programme start="20250317153000 +0000" stop="20250317160000 +0000" channel="SkySpMainEvHD">
         <title>Sports Desk</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317170000 +0000" channel="SkySpMainEvHD">
