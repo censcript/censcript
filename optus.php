@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Chicago Stars v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
 </tv>
