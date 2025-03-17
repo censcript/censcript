@@ -25525,7 +25525,7 @@
         <title>Sooper Hits</title>
     </programme>
     <programme start="20250317113000 +0000" stop="20250317120000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>First Cut</title>
     </programme>
     <programme start="20250317120000 +0000" stop="20250317123000 +0000" channel="B4U Music">
         <title>Hitz</title>
@@ -25549,7 +25549,7 @@
         <title>Travel Time Hits</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317173000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>First Cut</title>
     </programme>
     <programme start="20250317173000 +0000" stop="20250317180000 +0000" channel="B4U Music">
         <title>Bajao</title>
@@ -29173,7 +29173,7 @@
         <title>Live: Dil Diyan Gallan</title>
     </programme>
     <programme start="20250317150000 +0000" stop="20250317160000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317163000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -29194,7 +29194,7 @@
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250317200000 +0000" stop="20250317203000 +0000" channel="Sikh Channel">
-        <title>Bhallo Bhallo Re Kirtania</title>
+        <title>Sikh New Year Chet Wadhayain</title>
     </programme>
     <programme start="20250317203000 +0000" stop="20250317213000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
