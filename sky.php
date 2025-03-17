@@ -1498,7 +1498,7 @@
         <title>Jack Vettriano: Heaven &amp; Hell - Ex-S</title>
     </programme>
     <programme start="20250317230000 +0000" stop="20250317231500 +0000" channel="BBC Four HD">
-        <title>Timothy Spall Remembers Benjamin Zephaniah</title>
+        <title>Timothy Spall Remembers... Benjamin Zephaniah</title>
     </programme>
     <programme start="20250317231500 +0000" stop="20250317234500 +0000" channel="BBC Four HD">
         <title>Dread Poets Society - Screen Play</title>
@@ -29176,10 +29176,10 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250317160000 +0000" stop="20250317163000 +0000" channel="Sikh Channel">
-        <title>Teleshopping: Chalo Dubai Chaliye</title>
+        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250317163000 +0000" stop="20250317170000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250317170000 +0000" stop="20250317183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -38877,14 +38877,8 @@
     <programme start="20250317120000 +0000" stop="20250317120300 +0000" channel="BBC R Foyle">
         <title>Radio Foyle News</title>
     </programme>
-    <programme start="20250317120300 +0000" stop="20250317130000 +0000" channel="BBC R Foyle">
+    <programme start="20250317120300 +0000" stop="20250317133000 +0000" channel="BBC R Foyle">
         <title>Talkback</title>
-    </programme>
-    <programme start="20250317130000 +0000" stop="20250317131000 +0000" channel="BBC R Foyle">
-        <title>North West at One</title>
-    </programme>
-    <programme start="20250317131000 +0000" stop="20250317133000 +0000" channel="BBC R Foyle">
-        <title>20 Minutes with Mark Patterson</title>
     </programme>
     <programme start="20250317133000 +0000" stop="20250317150000 +0000" channel="BBC R Foyle">
         <title>Hugo Duncan</title>
