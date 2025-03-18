@@ -13963,10 +13963,10 @@
         <title>SailGP Highlights</title>
     </programme>
     <programme start="20250318200000 +0000" stop="20250318210000 +0000" channel="TNT Sports 2">
-        <title>New Zealand v Sri Lanka - 3rd T20</title>
+        <title>New Zealand v Pakistan - 2nd T20</title>
     </programme>
     <programme start="20250318210000 +0000" stop="20250318220000 +0000" channel="TNT Sports 2">
-        <title>New Zealand v Pakistan - 2nd T20</title>
+        <title>Fishing: On the Bank</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="TNT Sports 2">
         <title>Boxing: Ball v Doheny</title>
@@ -18210,20 +18210,20 @@
     <programme start="20250318173000 +0000" stop="20250318180000 +0000" channel="EWTN Catholic">
         <title>Prayer: Be Renewed!</title>
     </programme>
-    <programme start="20250318180000 +0000" stop="20250318190000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+    <programme start="20250318180000 +0000" stop="20250318183000 +0000" channel="EWTN Catholic">
+        <title>Path to Rome: St Paul's Captivity Epistles</title>
     </programme>
-    <programme start="20250318190000 +0000" stop="20250318193000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
+    <programme start="20250318183000 +0000" stop="20250318191500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250318191500 +0000" stop="20250318193000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250318193000 +0000" stop="20250318200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
     </programme>
-    <programme start="20250318200000 +0000" stop="20250318204500 +0000" channel="EWTN Catholic">
-        <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250318204500 +0000" stop="20250318210000 +0000" channel="EWTN Catholic">
-        <title>Gospel Glimpses</title>
+    <programme start="20250318200000 +0000" stop="20250318210000 +0000" channel="EWTN Catholic">
+        <title>Journey Home</title>
     </programme>
     <programme start="20250318210000 +0000" stop="20250318213000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
@@ -33913,10 +33913,10 @@
         <title>SailGP Highlights</title>
     </programme>
     <programme start="20250318200000 +0000" stop="20250318210000 +0000" channel="TNTSports2 HD">
-        <title>New Zealand v Sri Lanka - 3rd T20</title>
+        <title>New Zealand v Pakistan - 2nd T20</title>
     </programme>
     <programme start="20250318210000 +0000" stop="20250318220000 +0000" channel="TNTSports2 HD">
-        <title>New Zealand v Pakistan - 2nd T20</title>
+        <title>Fishing: On the Bank</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="TNTSports2 HD">
         <title>Boxing: Ball v Doheny</title>
