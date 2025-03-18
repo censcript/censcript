@@ -13440,14 +13440,8 @@
     <programme start="20250318082501 +0000" stop="20250318085501 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Max Homa Part 2</title>
     </programme>
-    <programme start="20250318085501 +0000" stop="20250318100000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318085501 +0000" stop="20250318103001 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
-    </programme>
-    <programme start="20250318100000 +0000" stop="20250318103000 +0000" channel="SkySp Golf HD">
-        <title>Playing Lessons: Nick Dougherty</title>
-    </programme>
-    <programme start="20250318103000 +0000" stop="20250318103001 +0000" channel="SkySp Golf HD">
-        <title>Playing Lessons: Patty Tavatanakit</title>
     </programme>
     <programme start="20250318103001 +0000" stop="20250318110001 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Patty Tavatanakit</title>
@@ -13461,11 +13455,8 @@
     <programme start="20250318131001 +0000" stop="20250318145001 +0000" channel="SkySp Golf HD">
         <title>TGL SF: NYGC v LAGC</title>
     </programme>
-    <programme start="20250318145001 +0000" stop="20250318160000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318145001 +0000" stop="20250318163000 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
-    </programme>
-    <programme start="20250318160000 +0000" stop="20250318163000 +0000" channel="SkySp Golf HD">
-        <title>Playing Lessons: Aaron Wise</title>
     </programme>
     <programme start="20250318163000 +0000" stop="20250318170000 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Corey Conners</title>
@@ -28134,11 +28125,8 @@
     <programme start="20250318220000 +0000" stop="20250318224000 +0000" channel="Islam TV">
         <title>Loss of our Aid Workers</title>
     </programme>
-    <programme start="20250318224000 +0000" stop="20250318230000 +0000" channel="Islam TV">
+    <programme start="20250318224000 +0000" stop="20250318234000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
-    </programme>
-    <programme start="20250318230000 +0000" stop="20250318234000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250318234000 +0000" stop="20250319004000 +0000" channel="Islam TV">
         <title>Surah-Ya-Sin</title>
@@ -28704,10 +28692,7 @@
     <programme start="20250318152400 +0000" stop="20250318153000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250318153000 +0000" stop="20250318153100 +0000" channel="Eman Channel">
-        <title>Live Maghrib Prayer from Makkah</title>
-    </programme>
-    <programme start="20250318153100 +0000" stop="20250318154500 +0000" channel="Eman Channel">
+    <programme start="20250318153000 +0000" stop="20250318154500 +0000" channel="Eman Channel">
         <title>Live Maghrib Prayer from Makkah</title>
     </programme>
     <programme start="20250318154500 +0000" stop="20250318160000 +0000" channel="Eman Channel">
@@ -28716,11 +28701,8 @@
     <programme start="20250318160000 +0000" stop="20250318163000 +0000" channel="Eman Channel">
         <title>Let's Eat Street</title>
     </programme>
-    <programme start="20250318163000 +0000" stop="20250318164500 +0000" channel="Eman Channel">
+    <programme start="20250318163000 +0000" stop="20250318170000 +0000" channel="Eman Channel">
         <title>Reconnecting with Revelation</title>
-    </programme>
-    <programme start="20250318164500 +0000" stop="20250318170000 +0000" channel="Eman Channel">
-        <title>Seerah Moments</title>
     </programme>
     <programme start="20250318170000 +0000" stop="20250318171500 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
@@ -28731,17 +28713,11 @@
     <programme start="20250318173000 +0000" stop="20250318181400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250318181400 +0000" stop="20250318182200 +0000" channel="Eman Channel">
+    <programme start="20250318181400 +0000" stop="20250318182400 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250318182200 +0000" stop="20250318182400 +0000" channel="Eman Channel">
+    <programme start="20250318182400 +0000" stop="20250318184300 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
-    </programme>
-    <programme start="20250318182400 +0000" stop="20250318184000 +0000" channel="Eman Channel">
-        <title>Evening Remembrance</title>
-    </programme>
-    <programme start="20250318184000 +0000" stop="20250318184300 +0000" channel="Eman Channel">
-        <title>Night Of Giving</title>
     </programme>
     <programme start="20250318184300 +0000" stop="20250318193400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
