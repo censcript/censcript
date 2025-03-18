@@ -25545,10 +25545,10 @@
     <programme start="20250318135600 +0000" stop="20250318145600 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250318145600 +0000" stop="20250318155700 +0000" channel="SONY TV HD">
+    <programme start="20250318145600 +0000" stop="20250318155800 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250318155700 +0000" stop="20250318162800 +0000" channel="SONY TV HD">
+    <programme start="20250318155800 +0000" stop="20250318162800 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250318162800 +0000" stop="20250318175600 +0000" channel="SONY TV HD">
@@ -34578,10 +34578,10 @@
     <programme start="20250318135600 +0000" stop="20250318145600 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250318145600 +0000" stop="20250318155700 +0000" channel="SONY TV">
+    <programme start="20250318145600 +0000" stop="20250318155800 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250318155700 +0000" stop="20250318162800 +0000" channel="SONY TV">
+    <programme start="20250318155800 +0000" stop="20250318162800 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250318162800 +0000" stop="20250318175600 +0000" channel="SONY TV">
