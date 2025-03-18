@@ -18072,11 +18072,8 @@
     <programme start="20250319033000 +0000" stop="20250319040000 +0000" channel="EWTN Catholic">
         <title>From The Heart, with Mother Angelica</title>
     </programme>
-    <programme start="20250319040000 +0000" stop="20250319043000 +0000" channel="EWTN Catholic">
+    <programme start="20250319040000 +0000" stop="20250319044500 +0000" channel="EWTN Catholic">
         <title>Rosary For Pope Francis</title>
-    </programme>
-    <programme start="20250319043000 +0000" stop="20250319044500 +0000" channel="EWTN Catholic">
-        <title>Bob and Penny Lord Present</title>
     </programme>
     <programme start="20250319044500 +0000" stop="20250319050000 +0000" channel="EWTN Catholic">
         <title>Gospel Glimpses</title>
@@ -18099,11 +18096,8 @@
     <programme start="20250319073000 +0000" stop="20250319080000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
     </programme>
-    <programme start="20250319080000 +0000" stop="20250319081500 +0000" channel="EWTN Catholic">
+    <programme start="20250319080000 +0000" stop="20250319090000 +0000" channel="EWTN Catholic">
         <title>Faith of Our Fathers</title>
-    </programme>
-    <programme start="20250319081500 +0000" stop="20250319090000 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
     </programme>
     <programme start="20250319090000 +0000" stop="20250319093000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
@@ -18147,14 +18141,8 @@
     <programme start="20250319153000 +0000" stop="20250319160000 +0000" channel="EWTN Catholic">
         <title>Saints and Heroes</title>
     </programme>
-    <programme start="20250319160000 +0000" stop="20250319170000 +0000" channel="EWTN Catholic">
+    <programme start="20250319160000 +0000" stop="20250319174500 +0000" channel="EWTN Catholic">
         <title>Holy Mass of The Solemnity of Saint Joseph</title>
-    </programme>
-    <programme start="20250319170000 +0000" stop="20250319173000 +0000" channel="EWTN Catholic">
-        <title>Hail, Holy Queen</title>
-    </programme>
-    <programme start="20250319173000 +0000" stop="20250319174500 +0000" channel="EWTN Catholic">
-        <title>Prayer: Be Renewed!</title>
     </programme>
     <programme start="20250319174500 +0000" stop="20250319180000 +0000" channel="EWTN Catholic">
         <title>Kenosis</title>

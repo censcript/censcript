@@ -162,9 +162,6 @@
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
     </programme>
-    <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250324165000 +0000" stop="20250324191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Lithuania v Finland</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Arsenal v Fulham</title>
+    </programme>
+    <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Nottingham Forest v Manchester United</title>
     </programme>
 </tv>
