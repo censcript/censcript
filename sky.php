@@ -867,10 +867,10 @@
     <programme start="20250318040000 +0000" stop="20250318060000 +0000" channel="U&amp;Gold HD">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318060000 +0000" stop="20250318070000 +0000" channel="U&amp;Gold HD">
+    <programme start="20250318060000 +0000" stop="20250318071000 +0000" channel="U&amp;Gold HD">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318070000 +0000" stop="20250318074500 +0000" channel="U&amp;Gold HD">
+    <programme start="20250318071000 +0000" stop="20250318074500 +0000" channel="U&amp;Gold HD">
         <title>Last of the Summer Wine</title>
     </programme>
     <programme start="20250318074500 +0000" stop="20250318082000 +0000" channel="U&amp;Gold HD">
@@ -7929,10 +7929,10 @@
     <programme start="20250318050000 +0000" stop="20250318070000 +0000" channel="U&amp;Gold+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318070000 +0000" stop="20250318080000 +0000" channel="U&amp;Gold+1">
+    <programme start="20250318070000 +0000" stop="20250318081000 +0000" channel="U&amp;Gold+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318080000 +0000" stop="20250318084500 +0000" channel="U&amp;Gold+1">
+    <programme start="20250318081000 +0000" stop="20250318084500 +0000" channel="U&amp;Gold+1">
         <title>Last of the Summer Wine</title>
     </programme>
     <programme start="20250318084500 +0000" stop="20250318092000 +0000" channel="U&amp;Gold+1">
@@ -15072,7 +15072,10 @@
     <programme start="20250318113000 +0000" stop="20250318123000 +0000" channel="BBC Parl HD">
         <title>Live Energy Security and Net Zero Questions</title>
     </programme>
-    <programme start="20250318123000 +0000" stop="20250318193000 +0000" channel="BBC Parl HD">
+    <programme start="20250318123000 +0000" stop="20250318133000 +0000" channel="BBC Parl HD">
+        <title>Live Welfare Reform Statement</title>
+    </programme>
+    <programme start="20250318133000 +0000" stop="20250318193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250318193000 +0000" stop="20250318220000 +0000" channel="BBC Parl HD">
@@ -24061,16 +24064,16 @@
         <title>SPRING BEAUTY GALA with Carmel</title>
     </programme>
     <programme start="20250318140000 +0000" stop="20250318150000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Jenny</title>
+        <title>Lifestyle Deals with Andy H</title>
     </programme>
     <programme start="20250318150000 +0000" stop="20250318160000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Jenny</title>
+        <title>Lifestyle Deals with Andy H</title>
     </programme>
     <programme start="20250318160000 +0000" stop="20250318170000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Jenny</title>
+        <title>Lifestyle Deals with Andy H</title>
     </programme>
     <programme start="20250318170000 +0000" stop="20250318180000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Jenny</title>
+        <title>Lifestyle Deals with Andy H</title>
     </programme>
     <programme start="20250318180000 +0000" stop="20250318190000 +0000" channel="TJC HD">
         <title>Lifestyle Deals with Mark</title>
@@ -24085,10 +24088,10 @@
         <title>Lifestyle Deals with Mark</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Marina</title>
+        <title>GP Collection with Gaia &amp; Marina</title>
     </programme>
     <programme start="20250318230000 +0000" stop="20250319000000 +0000" channel="TJC HD">
-        <title>Lifestyle Deals with Marina</title>
+        <title>GP Collection with Gaia &amp; Marina</title>
     </programme>
     <programme start="20250317220000 +0000" stop="20250317230000 +0000" channel="QVC Beauty">
         <title>Alison Young: Collagen</title>
@@ -31413,10 +31416,10 @@
     <programme start="20250318040000 +0000" stop="20250318060000 +0000" channel="U&amp;Gold">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318060000 +0000" stop="20250318070000 +0000" channel="U&amp;Gold">
+    <programme start="20250318060000 +0000" stop="20250318071000 +0000" channel="U&amp;Gold">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250318070000 +0000" stop="20250318074500 +0000" channel="U&amp;Gold">
+    <programme start="20250318071000 +0000" stop="20250318074500 +0000" channel="U&amp;Gold">
         <title>Last of the Summer Wine</title>
     </programme>
     <programme start="20250318074500 +0000" stop="20250318082000 +0000" channel="U&amp;Gold">
