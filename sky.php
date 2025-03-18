@@ -28083,11 +28083,8 @@
     <programme start="20250318125000 +0000" stop="20250318131500 +0000" channel="Islam TV">
         <title>Live Prayer from Makkaah</title>
     </programme>
-    <programme start="20250318131500 +0000" stop="20250318133000 +0000" channel="Islam TV">
+    <programme start="20250318131500 +0000" stop="20250318140000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
-    </programme>
-    <programme start="20250318133000 +0000" stop="20250318140000 +0000" channel="Islam TV">
-        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250318140000 +0000" stop="20250318150000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
@@ -28095,10 +28092,7 @@
     <programme start="20250318150000 +0000" stop="20250318152000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250318152000 +0000" stop="20250318152500 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
-    </programme>
-    <programme start="20250318152500 +0000" stop="20250318160000 +0000" channel="Islam TV">
+    <programme start="20250318152000 +0000" stop="20250318160000 +0000" channel="Islam TV">
         <title>Live Prayer from Makkaah</title>
     </programme>
     <programme start="20250318160000 +0000" stop="20250318161400 +0000" channel="Islam TV">
@@ -28137,7 +28131,10 @@
     <programme start="20250318210000 +0000" stop="20250318220000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="Islam TV">
+    <programme start="20250318220000 +0000" stop="20250318224000 +0000" channel="Islam TV">
+        <title>Loss of our Aid Workers</title>
+    </programme>
+    <programme start="20250318224000 +0000" stop="20250318230000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250318230000 +0000" stop="20250318234000 +0000" channel="Islam TV">
