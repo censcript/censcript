@@ -13567,28 +13567,28 @@
         <title>Australian F1 GP Highlights</title>
     </programme>
     <programme start="20250317220000 +0000" stop="20250317230000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Indian Wells</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250317230000 +0000" stop="20250318000000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Merida</title>
     </programme>
     <programme start="20250318000000 +0000" stop="20250318010000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Santiago</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250318010000 +0000" stop="20250318020000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Austin</title>
     </programme>
     <programme start="20250318020000 +0000" stop="20250318030000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Acapulco</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250318030000 +0000" stop="20250318040000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Dubai</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250318040000 +0000" stop="20250318050000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Indian Wells</title>
     </programme>
     <programme start="20250318050000 +0000" stop="20250318060000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Indian Wells</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250318060000 +0000" stop="20250318070000 +0000" channel="SkySp Tennis HD">
         <title>ATP Final: Dubai</title>
@@ -13609,7 +13609,7 @@
         <title>WTA Final: Indian Wells</title>
     </programme>
     <programme start="20250318120000 +0000" stop="20250318130000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Final: Indian Wells</title>
+        <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250318130000 +0000" stop="20250318133000 +0000" channel="SkySp Tennis HD">
         <title>ATP Tour This Week</title>
@@ -24316,7 +24316,7 @@
         <title>Colour Change Fluorite</title>
     </programme>
     <programme start="20250318210000 +0000" stop="20250318220000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Pandai Court Collection</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
