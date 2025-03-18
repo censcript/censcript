@@ -14977,7 +14977,7 @@
         <title>BBC News Now</title>
     </programme>
     <programme start="20250318130000 +0000" stop="20250318140000 +0000" channel="BBC NEWS HD">
-        <title>Signed: BBC News at One</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250318140000 +0000" stop="20250318143000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -29770,7 +29770,7 @@
         <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250318150000 +0000" stop="20250318153000 +0000" channel="IQRA Bangla">
-        <title>Ramadan in Winter</title>
+        <title>AKF Team in Gaza</title>
     </programme>
     <programme start="20250318153000 +0000" stop="20250318161400 +0000" channel="IQRA Bangla">
         <title>Charity Appeal</title>
@@ -29962,19 +29962,19 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250318093000 +0000" stop="20250318120000 +0000" channel="NTV">
-        <title>Jontrona</title>
+        <title>Bhulona Amay</title>
     </programme>
-    <programme start="20250318120000 +0000" stop="20250318121600 +0000" channel="NTV">
+    <programme start="20250318120000 +0000" stop="20250318121400 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250318121600 +0000" stop="20250318122100 +0000" channel="NTV">
+    <programme start="20250318121400 +0000" stop="20250318121900 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250318122100 +0000" stop="20250318123000 +0000" channel="NTV">
+    <programme start="20250318121900 +0000" stop="20250318123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250318123000 +0000" stop="20250318130000 +0000" channel="NTV">
-        <title>Jontrona</title>
+        <title>Bhulona Amay</title>
     </programme>
     <programme start="20250318130000 +0000" stop="20250318140000 +0000" channel="NTV">
         <title>Family Feud</title>
@@ -29991,37 +29991,40 @@
     <programme start="20250318153000 +0000" stop="20250318160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250318160000 +0000" stop="20250318160400 +0000" channel="NTV">
+    <programme start="20250318160000 +0000" stop="20250318161400 +0000" channel="NTV">
         <title>Quraner Alo</title>
     </programme>
-    <programme start="20250318160400 +0000" stop="20250318160900 +0000" channel="NTV">
+    <programme start="20250318161400 +0000" stop="20250318161900 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250318160900 +0000" stop="20250318170000 +0000" channel="NTV">
+    <programme start="20250318161900 +0000" stop="20250318170000 +0000" channel="NTV">
         <title>Quraner Alo</title>
     </programme>
     <programme start="20250318170000 +0000" stop="20250318173000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318173000 +0000" stop="20250318180200 +0000" channel="NTV">
+    <programme start="20250318173000 +0000" stop="20250318181400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318180200 +0000" stop="20250318180700 +0000" channel="NTV">
+    <programme start="20250318181400 +0000" stop="20250318181900 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250318180700 +0000" stop="20250318192400 +0000" channel="NTV">
+    <programme start="20250318181900 +0000" stop="20250318192400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318192400 +0000" stop="20250318192900 +0000" channel="NTV">
+    <programme start="20250318192400 +0000" stop="20250318193400 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250318193400 +0000" stop="20250318193900 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250318192900 +0000" stop="20250318201400 +0000" channel="NTV">
+    <programme start="20250318193900 +0000" stop="20250318202400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318201400 +0000" stop="20250318211400 +0000" channel="NTV">
+    <programme start="20250318202400 +0000" stop="20250318212400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318211400 +0000" stop="20250318220000 +0000" channel="NTV">
+    <programme start="20250318212400 +0000" stop="20250318220000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318223000 +0000" channel="NTV">
