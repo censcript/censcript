@@ -6939,22 +6939,13 @@
     <programme start="20250319160000 +0000" stop="20250319173000 +0000" channel="That's TV 2">
         <title>That's 80s - The Best Music</title>
     </programme>
-    <programme start="20250319173000 +0000" stop="20250319173500 +0000" channel="That's TV 2">
+    <programme start="20250319173000 +0000" stop="20250319175500 +0000" channel="That's TV 2">
         <title>Birds of a Feather</title>
     </programme>
-    <programme start="20250319173500 +0000" stop="20250319175500 +0000" channel="That's TV 2">
-        <title>Birds of a Feather</title>
-    </programme>
-    <programme start="20250319175500 +0000" stop="20250319180000 +0000" channel="That's TV 2">
+    <programme start="20250319175500 +0000" stop="20250319183500 +0000" channel="That's TV 2">
         <title>Just Good Friends</title>
     </programme>
-    <programme start="20250319180000 +0000" stop="20250319183500 +0000" channel="That's TV 2">
-        <title>Just Good Friends</title>
-    </programme>
-    <programme start="20250319183500 +0000" stop="20250319184000 +0000" channel="That's TV 2">
-        <title>Some Mothers Do 'Ave 'Em</title>
-    </programme>
-    <programme start="20250319184000 +0000" stop="20250319192000 +0000" channel="That's TV 2">
+    <programme start="20250319183500 +0000" stop="20250319192000 +0000" channel="That's TV 2">
         <title>Some Mothers Do 'Ave 'Em</title>
     </programme>
     <programme start="20250319192000 +0000" stop="20250319195500 +0000" channel="That's TV 2">
@@ -6966,29 +6957,17 @@
     <programme start="20250319210000 +0000" stop="20250319213500 +0000" channel="That's TV 2">
         <title>Just Good Friends</title>
     </programme>
-    <programme start="20250319213500 +0000" stop="20250319221000 +0000" channel="That's TV 2">
+    <programme start="20250319213500 +0000" stop="20250319221500 +0000" channel="That's TV 2">
         <title>Bread</title>
     </programme>
-    <programme start="20250319221000 +0000" stop="20250319221500 +0000" channel="That's TV 2">
+    <programme start="20250319221500 +0000" stop="20250319225500 +0000" channel="That's TV 2">
         <title>Yes, Prime Minister</title>
     </programme>
-    <programme start="20250319221500 +0000" stop="20250319224500 +0000" channel="That's TV 2">
-        <title>Yes, Prime Minister</title>
-    </programme>
-    <programme start="20250319224500 +0000" stop="20250319225500 +0000" channel="That's TV 2">
+    <programme start="20250319225500 +0000" stop="20250319233000 +0000" channel="That's TV 2">
         <title>It Ain't Half Hot Mum</title>
     </programme>
-    <programme start="20250319225500 +0000" stop="20250319232500 +0000" channel="That's TV 2">
-        <title>It Ain't Half Hot Mum</title>
-    </programme>
-    <programme start="20250319232500 +0000" stop="20250319233000 +0000" channel="That's TV 2">
+    <programme start="20250319233000 +0000" stop="20250320003000 +0000" channel="That's TV 2">
         <title>In Sickness and in Health</title>
-    </programme>
-    <programme start="20250319233000 +0000" stop="20250319235500 +0000" channel="That's TV 2">
-        <title>In Sickness and in Health</title>
-    </programme>
-    <programme start="20250319235500 +0000" stop="20250320005500 +0000" channel="That's TV 2">
-        <title>2point4 Children Xmas '93</title>
     </programme>
     <programme start="20250318223500 +0000" stop="20250318230500 +0000" channel="Rewind TV">
         <title>Drop The Dead Donkey</title>
