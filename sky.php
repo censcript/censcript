@@ -28240,7 +28240,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250319010000 +0000" stop="20250319020000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250319020000 +0000" stop="20250319030000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28261,22 +28261,22 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250319080000 +0000" stop="20250319090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250319090000 +0000" stop="20250319100000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250319100000 +0000" stop="20250319110000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Ramadan Moments</title>
     </programme>
     <programme start="20250319110000 +0000" stop="20250319120000 +0000" channel="Takbeer TV">
-        <title>Inside News</title>
+        <title>Salaam Ramadaan</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250319130000 +0000" stop="20250319140000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250319140000 +0000" stop="20250319150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28285,16 +28285,16 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250319160000 +0000" stop="20250319170000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
-    </programme>
-    <programme start="20250319170000 +0000" stop="20250319180000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
+    <programme start="20250319170000 +0000" stop="20250319180000 +0000" channel="Takbeer TV">
+        <title>Sham e Arfaan</title>
+    </programme>
     <programme start="20250319180000 +0000" stop="20250319190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250319190000 +0000" stop="20250319200000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250319200000 +0000" stop="20250319210000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29817,53 +29817,20 @@
     <programme start="20250319233000 +0000" stop="20250320003000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250318210000 +0000" stop="20250318220000 +0000" channel="ATN">
+    <programme start="20250318210000 +0000" stop="20250319042500 +0000" channel="ATN">
         <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250318230000 +0000" stop="20250319010000 +0000" channel="ATN">
-        <title>Mittha Ohonkar</title>
-    </programme>
-    <programme start="20250319010000 +0000" stop="20250319013000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250319013000 +0000" stop="20250319030000 +0000" channel="ATN">
-        <title>Mittha Ohonkar</title>
-    </programme>
-    <programme start="20250319030000 +0000" stop="20250319033000 +0000" channel="ATN">
-        <title>Smritir Alpona Aki</title>
-    </programme>
-    <programme start="20250319033000 +0000" stop="20250319040000 +0000" channel="ATN">
-        <title>Amader Shekor</title>
-    </programme>
-    <programme start="20250319040000 +0000" stop="20250319042500 +0000" channel="ATN">
-        <title>Palki</title>
     </programme>
     <programme start="20250319042500 +0000" stop="20250319042700 +0000" channel="ATN">
         <title>Fajr Adhaan</title>
     </programme>
-    <programme start="20250319042700 +0000" stop="20250319043000 +0000" channel="ATN">
+    <programme start="20250319042700 +0000" stop="20250319043700 +0000" channel="ATN">
         <title>Islamer Batighor</title>
     </programme>
-    <programme start="20250319043000 +0000" stop="20250319043700 +0000" channel="ATN">
-        <title>Charity Update: Goreeb Eathem</title>
-    </programme>
-    <programme start="20250319043700 +0000" stop="20250319050000 +0000" channel="ATN">
+    <programme start="20250319043700 +0000" stop="20250319050700 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250319050000 +0000" stop="20250319050700 +0000" channel="ATN">
-        <title>Piliar</title>
-    </programme>
-    <programme start="20250319050700 +0000" stop="20250319051200 +0000" channel="ATN">
+    <programme start="20250319050700 +0000" stop="20250319053000 +0000" channel="ATN">
         <title>Hamd O Nath</title>
-    </programme>
-    <programme start="20250319051200 +0000" stop="20250319051700 +0000" channel="ATN">
-        <title>Fajr Adhaan</title>
-    </programme>
-    <programme start="20250319051700 +0000" stop="20250319053000 +0000" channel="ATN">
-        <title>Piliar</title>
     </programme>
     <programme start="20250319053000 +0000" stop="20250319060000 +0000" channel="ATN">
         <title>Your Daily Ramadan Reminder</title>
