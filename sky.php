@@ -13434,34 +13434,34 @@
     <programme start="20250318073000 +0000" stop="20250318080000 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Corey Conners</title>
     </programme>
-    <programme start="20250318080000 +0000" stop="20250318083000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318080000 +0000" stop="20250318082501 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Max Homa Part 1</title>
     </programme>
-    <programme start="20250318083000 +0000" stop="20250318090000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318082501 +0000" stop="20250318085501 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Max Homa Part 2</title>
     </programme>
-    <programme start="20250318090000 +0000" stop="20250318100000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318085501 +0000" stop="20250318100000 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
     </programme>
     <programme start="20250318100000 +0000" stop="20250318103000 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Nick Dougherty</title>
     </programme>
-    <programme start="20250318103000 +0000" stop="20250318110000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318103000 +0000" stop="20250318103001 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Patty Tavatanakit</title>
     </programme>
-    <programme start="20250318110000 +0000" stop="20250318113000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318103001 +0000" stop="20250318110001 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Patty Tavatanakit</title>
     </programme>
-    <programme start="20250318113000 +0000" stop="20250318120000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318110001 +0000" stop="20250318113001 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Kamaiu Johnson</title>
     </programme>
-    <programme start="20250318120000 +0000" stop="20250318130000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318113001 +0000" stop="20250318131001 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
     </programme>
-    <programme start="20250318130000 +0000" stop="20250318150000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318131001 +0000" stop="20250318145001 +0000" channel="SkySp Golf HD">
         <title>TGL SF: NYGC v LAGC</title>
     </programme>
-    <programme start="20250318150000 +0000" stop="20250318160000 +0000" channel="SkySp Golf HD">
+    <programme start="20250318145001 +0000" stop="20250318160000 +0000" channel="SkySp Golf HD">
         <title>The Players Day 5 Play-off</title>
     </programme>
     <programme start="20250318160000 +0000" stop="20250318163000 +0000" channel="SkySp Golf HD">
@@ -28699,13 +28699,19 @@
         <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250318151500 +0000" stop="20250318152400 +0000" channel="Eman Channel">
-        <title>Kids Evening Remembrance</title>
+        <title>Live Maghrib Prayer from Makkah</title>
     </programme>
-    <programme start="20250318152400 +0000" stop="20250318153100 +0000" channel="Eman Channel">
+    <programme start="20250318152400 +0000" stop="20250318153000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250318153100 +0000" stop="20250318160000 +0000" channel="Eman Channel">
+    <programme start="20250318153000 +0000" stop="20250318153100 +0000" channel="Eman Channel">
         <title>Live Maghrib Prayer from Makkah</title>
+    </programme>
+    <programme start="20250318153100 +0000" stop="20250318154500 +0000" channel="Eman Channel">
+        <title>Live Maghrib Prayer from Makkah</title>
+    </programme>
+    <programme start="20250318154500 +0000" stop="20250318160000 +0000" channel="Eman Channel">
+        <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250318160000 +0000" stop="20250318163000 +0000" channel="Eman Channel">
         <title>Let's Eat Street</title>
@@ -28728,10 +28734,16 @@
     <programme start="20250318181400 +0000" stop="20250318182200 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250318182200 +0000" stop="20250318184000 +0000" channel="Eman Channel">
+    <programme start="20250318182200 +0000" stop="20250318182400 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250318184000 +0000" stop="20250318193400 +0000" channel="Eman Channel">
+    <programme start="20250318182400 +0000" stop="20250318184000 +0000" channel="Eman Channel">
+        <title>Evening Remembrance</title>
+    </programme>
+    <programme start="20250318184000 +0000" stop="20250318184300 +0000" channel="Eman Channel">
+        <title>Night Of Giving</title>
+    </programme>
+    <programme start="20250318184300 +0000" stop="20250318193400 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250318193400 +0000" stop="20250318194100 +0000" channel="Eman Channel">
@@ -29979,16 +29991,10 @@
     <programme start="20250318120000 +0000" stop="20250318121600 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250318121600 +0000" stop="20250318121900 +0000" channel="NTV">
+    <programme start="20250318121600 +0000" stop="20250318122100 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250318121900 +0000" stop="20250318122100 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250318122100 +0000" stop="20250318122400 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250318122400 +0000" stop="20250318123000 +0000" channel="NTV">
+    <programme start="20250318122100 +0000" stop="20250318123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
     <programme start="20250318123000 +0000" stop="20250318130000 +0000" channel="NTV">
@@ -30006,14 +30012,8 @@
     <programme start="20250318150000 +0000" stop="20250318153000 +0000" channel="NTV">
         <title>Virtues Of Ramadan</title>
     </programme>
-    <programme start="20250318153000 +0000" stop="20250318154300 +0000" channel="NTV">
+    <programme start="20250318153000 +0000" stop="20250318160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250318154300 +0000" stop="20250318154800 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250318154800 +0000" stop="20250318160000 +0000" channel="NTV">
-        <title>Khowab</title>
     </programme>
     <programme start="20250318160000 +0000" stop="20250318160400 +0000" channel="NTV">
         <title>Quraner Alo</title>
@@ -30021,65 +30021,32 @@
     <programme start="20250318160400 +0000" stop="20250318160900 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250318160900 +0000" stop="20250318163000 +0000" channel="NTV">
+    <programme start="20250318160900 +0000" stop="20250318170000 +0000" channel="NTV">
         <title>Quraner Alo</title>
-    </programme>
-    <programme start="20250318163000 +0000" stop="20250318170000 +0000" channel="NTV">
-        <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
     <programme start="20250318170000 +0000" stop="20250318173000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318173000 +0000" stop="20250318173700 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318173700 +0000" stop="20250318174200 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250318174200 +0000" stop="20250318180000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318180000 +0000" stop="20250318180200 +0000" channel="NTV">
+    <programme start="20250318173000 +0000" stop="20250318180200 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250318180200 +0000" stop="20250318180700 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250318180700 +0000" stop="20250318190000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318190000 +0000" stop="20250318190400 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
-    </programme>
-    <programme start="20250318190400 +0000" stop="20250318190900 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250318190900 +0000" stop="20250318191500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
-    </programme>
-    <programme start="20250318191500 +0000" stop="20250318192400 +0000" channel="NTV">
+    <programme start="20250318180700 +0000" stop="20250318192400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250318192400 +0000" stop="20250318192900 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250318192900 +0000" stop="20250318200000 +0000" channel="NTV">
+    <programme start="20250318192900 +0000" stop="20250318201400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318200000 +0000" stop="20250318201400 +0000" channel="NTV">
+    <programme start="20250318201400 +0000" stop="20250318211400 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250318201400 +0000" stop="20250318210000 +0000" channel="NTV">
+    <programme start="20250318211400 +0000" stop="20250318220000 +0000" channel="NTV">
         <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318210000 +0000" stop="20250318211400 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318211400 +0000" stop="20250318213000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250318213000 +0000" stop="20250318220000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318223000 +0000" channel="NTV">
         <title>NTV Europe News</title>
