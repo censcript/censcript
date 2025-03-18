@@ -15027,11 +15027,8 @@
     <programme start="20250318210000 +0000" stop="20250318213000 +0000" channel="BBC NEWS HD">
         <title>The Context</title>
     </programme>
-    <programme start="20250318213000 +0000" stop="20250318220000 +0000" channel="BBC NEWS HD">
+    <programme start="20250318213000 +0000" stop="20250318223000 +0000" channel="BBC NEWS HD">
         <title>Splashdown Live: Astronauts Return</title>
-    </programme>
-    <programme start="20250318220000 +0000" stop="20250318223000 +0000" channel="BBC NEWS HD">
-        <title>BBC News at Ten</title>
     </programme>
     <programme start="20250318223000 +0000" stop="20250318230000 +0000" channel="BBC NEWS HD">
         <title>Newsnight</title>
@@ -15087,8 +15084,11 @@
     <programme start="20250318225000 +0000" stop="20250318233500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250318233500 +0000" stop="20250319003500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250318233500 +0000" stop="20250318235000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Gaza Ceasefire Question</title>
+    </programme>
+    <programme start="20250318235000 +0000" stop="20250319005000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Sustainable Farming Statement</title>
     </programme>
     <programme start="20250317223000 +0000" stop="20250317230000 +0000" channel="CNBC HD">
         <title>NBC Nightly News</title>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250318153000 +0000" stop="20250318160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20250319150000 +0000" stop="20250319160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Wolverhampton Wanderers v West Ham United</title>
+    </programme>
+    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Arsenal v Fulham</title>
     </programme>
 </tv>
