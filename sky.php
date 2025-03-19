@@ -24115,7 +24115,7 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250319110000 +0000" stop="20250319120000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>skinSense by Abi Cleeve</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24124,7 +24124,7 @@
         <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250319140000 +0000" stop="20250319150000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Alison Young: Collagen</title>
     </programme>
     <programme start="20250319150000 +0000" stop="20250319160000 +0000" channel="QVC Beauty">
         <title>Elizabeth Grant</title>
@@ -24133,22 +24133,22 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250319170000 +0000" stop="20250319180000 +0000" channel="QVC Beauty">
-        <title>Judith Williams Beauty</title>
+        <title>Proto-Col</title>
     </programme>
     <programme start="20250319180000 +0000" stop="20250319190000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250319190000 +0000" stop="20250319200000 +0000" channel="QVC Beauty">
-        <title>Elemis Skin Therapies</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250319200000 +0000" stop="20250319210000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250319210000 +0000" stop="20250319220000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250319220000 +0000" stop="20250319230000 +0000" channel="QVC Beauty">
-        <title>Estee Lauder</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250319230000 +0000" stop="20250320000000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
