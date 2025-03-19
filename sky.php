@@ -21735,59 +21735,47 @@
     <programme start="20250319085000 +0000" stop="20250319090000 +0000" channel="Tiny Pop">
         <title>Masha and the Bear Shorties</title>
     </programme>
-    <programme start="20250319090000 +0000" stop="20250319091000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319090000 +0000" stop="20250319091500 +0000" channel="Tiny Pop">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319091000 +0000" stop="20250319092000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319091500 +0000" stop="20250319093000 +0000" channel="Tiny Pop">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319092000 +0000" stop="20250319093000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319093000 +0000" stop="20250319094500 +0000" channel="Tiny Pop">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319093000 +0000" stop="20250319094000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319094000 +0000" stop="20250319095000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319095000 +0000" stop="20250319100000 +0000" channel="Tiny Pop">
-        <title>Masha and the Bear Shorties</title>
+    <programme start="20250319094500 +0000" stop="20250319100000 +0000" channel="Tiny Pop">
+        <title>Super Wings</title>
     </programme>
     <programme start="20250319100000 +0000" stop="20250319101000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319101000 +0000" stop="20250319102000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319102000 +0000" stop="20250319103000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319103000 +0000" stop="20250319104000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319104000 +0000" stop="20250319105000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319105000 +0000" stop="20250319110000 +0000" channel="Tiny Pop">
-        <title>Masha and the Bear Shorties</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
-    <programme start="20250319110000 +0000" stop="20250319111000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319110000 +0000" stop="20250319111500 +0000" channel="Tiny Pop">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319111000 +0000" stop="20250319112000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319111500 +0000" stop="20250319113000 +0000" channel="Tiny Pop">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319112000 +0000" stop="20250319113000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
+    <programme start="20250319113000 +0000" stop="20250319114500 +0000" channel="Tiny Pop">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319113000 +0000" stop="20250319114000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319114000 +0000" stop="20250319115000 +0000" channel="Tiny Pop">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319115000 +0000" stop="20250319120000 +0000" channel="Tiny Pop">
-        <title>Masha and the Bear Shorties</title>
+    <programme start="20250319114500 +0000" stop="20250319120000 +0000" channel="Tiny Pop">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319121500 +0000" channel="Tiny Pop">
         <title>Billy The Cowboy Hamster</title>
@@ -21801,14 +21789,11 @@
     <programme start="20250319124500 +0000" stop="20250319130000 +0000" channel="Tiny Pop">
         <title>Billy The Cowboy Hamster</title>
     </programme>
-    <programme start="20250319130000 +0000" stop="20250319131000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319130000 +0000" stop="20250319131500 +0000" channel="Tiny Pop">
+        <title>Baby Born</title>
     </programme>
-    <programme start="20250319131000 +0000" stop="20250319132000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
-    </programme>
-    <programme start="20250319132000 +0000" stop="20250319133000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319131500 +0000" stop="20250319133000 +0000" channel="Tiny Pop">
+        <title>Baby Born</title>
     </programme>
     <programme start="20250319133000 +0000" stop="20250319134000 +0000" channel="Tiny Pop">
         <title>Go! Go! Cory Carson</title>
@@ -21915,14 +21900,11 @@
     <programme start="20250319194500 +0000" stop="20250319200000 +0000" channel="Tiny Pop">
         <title>Billy The Cowboy Hamster</title>
     </programme>
-    <programme start="20250319200000 +0000" stop="20250319201000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319200000 +0000" stop="20250319201500 +0000" channel="Tiny Pop">
+        <title>Baby Born</title>
     </programme>
-    <programme start="20250319201000 +0000" stop="20250319202000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
-    </programme>
-    <programme start="20250319202000 +0000" stop="20250319203000 +0000" channel="Tiny Pop">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319201500 +0000" stop="20250319203000 +0000" channel="Tiny Pop">
+        <title>Baby Born</title>
     </programme>
     <programme start="20250319203000 +0000" stop="20250319204000 +0000" channel="Tiny Pop">
         <title>Go! Go! Cory Carson</title>
@@ -22992,59 +22974,47 @@
     <programme start="20250319095000 +0000" stop="20250319100000 +0000" channel="Tiny Pop+1">
         <title>Masha and the Bear Shorties</title>
     </programme>
-    <programme start="20250319100000 +0000" stop="20250319101000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319100000 +0000" stop="20250319101500 +0000" channel="Tiny Pop+1">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319101000 +0000" stop="20250319102000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319101500 +0000" stop="20250319103000 +0000" channel="Tiny Pop+1">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319102000 +0000" stop="20250319103000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319103000 +0000" stop="20250319104500 +0000" channel="Tiny Pop+1">
+        <title>Super Wings</title>
     </programme>
-    <programme start="20250319103000 +0000" stop="20250319104000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319104000 +0000" stop="20250319105000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319105000 +0000" stop="20250319110000 +0000" channel="Tiny Pop+1">
-        <title>Masha and the Bear Shorties</title>
+    <programme start="20250319104500 +0000" stop="20250319110000 +0000" channel="Tiny Pop+1">
+        <title>Super Wings</title>
     </programme>
     <programme start="20250319110000 +0000" stop="20250319111000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319111000 +0000" stop="20250319112000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319112000 +0000" stop="20250319113000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319113000 +0000" stop="20250319114000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319114000 +0000" stop="20250319115000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
     <programme start="20250319115000 +0000" stop="20250319120000 +0000" channel="Tiny Pop+1">
-        <title>Masha and the Bear Shorties</title>
+        <title>Go! Go! Cory Carson</title>
     </programme>
-    <programme start="20250319120000 +0000" stop="20250319121000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319120000 +0000" stop="20250319121500 +0000" channel="Tiny Pop+1">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319121000 +0000" stop="20250319122000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319121500 +0000" stop="20250319123000 +0000" channel="Tiny Pop+1">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319122000 +0000" stop="20250319123000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
+    <programme start="20250319123000 +0000" stop="20250319124500 +0000" channel="Tiny Pop+1">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
-    <programme start="20250319123000 +0000" stop="20250319124000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319124000 +0000" stop="20250319125000 +0000" channel="Tiny Pop+1">
-        <title>Masha And The Bear</title>
-    </programme>
-    <programme start="20250319125000 +0000" stop="20250319130000 +0000" channel="Tiny Pop+1">
-        <title>Masha and the Bear Shorties</title>
+    <programme start="20250319124500 +0000" stop="20250319130000 +0000" channel="Tiny Pop+1">
+        <title>Hello Kitty: Super Style!</title>
     </programme>
     <programme start="20250319130000 +0000" stop="20250319131500 +0000" channel="Tiny Pop+1">
         <title>Billy The Cowboy Hamster</title>
@@ -23058,14 +23028,11 @@
     <programme start="20250319134500 +0000" stop="20250319140000 +0000" channel="Tiny Pop+1">
         <title>Billy The Cowboy Hamster</title>
     </programme>
-    <programme start="20250319140000 +0000" stop="20250319141000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319140000 +0000" stop="20250319141500 +0000" channel="Tiny Pop+1">
+        <title>Baby Born</title>
     </programme>
-    <programme start="20250319141000 +0000" stop="20250319142000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
-    </programme>
-    <programme start="20250319142000 +0000" stop="20250319143000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319141500 +0000" stop="20250319143000 +0000" channel="Tiny Pop+1">
+        <title>Baby Born</title>
     </programme>
     <programme start="20250319143000 +0000" stop="20250319144000 +0000" channel="Tiny Pop+1">
         <title>Go! Go! Cory Carson</title>
@@ -23172,14 +23139,11 @@
     <programme start="20250319204500 +0000" stop="20250319210000 +0000" channel="Tiny Pop+1">
         <title>Billy The Cowboy Hamster</title>
     </programme>
-    <programme start="20250319210000 +0000" stop="20250319211000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319210000 +0000" stop="20250319211500 +0000" channel="Tiny Pop+1">
+        <title>Baby Born</title>
     </programme>
-    <programme start="20250319211000 +0000" stop="20250319212000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
-    </programme>
-    <programme start="20250319212000 +0000" stop="20250319213000 +0000" channel="Tiny Pop+1">
-        <title>Go! Go! Cory Carson</title>
+    <programme start="20250319211500 +0000" stop="20250319213000 +0000" channel="Tiny Pop+1">
+        <title>Baby Born</title>
     </programme>
     <programme start="20250319213000 +0000" stop="20250319214000 +0000" channel="Tiny Pop+1">
         <title>Go! Go! Cory Carson</title>
@@ -37452,8 +37416,11 @@
     <programme start="20250319150400 +0000" stop="20250319160000 +0000" channel="BBC R Ulster">
         <title>The Afternoon Show</title>
     </programme>
-    <programme start="20250319160000 +0000" stop="20250319180000 +0000" channel="BBC R Ulster">
+    <programme start="20250319160000 +0000" stop="20250319175500 +0000" channel="BBC R Ulster">
         <title>Evening Extra</title>
+    </programme>
+    <programme start="20250319175500 +0000" stop="20250319180000 +0000" channel="BBC R Ulster">
+        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319180000 +0000" stop="20250319180500 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
