@@ -25503,22 +25503,22 @@
     <programme start="20250319155600 +0000" stop="20250319162800 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250319162800 +0000" stop="20250319175500 +0000" channel="SONY TV HD">
+    <programme start="20250319162800 +0000" stop="20250319175400 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250319175500 +0000" stop="20250319182800 +0000" channel="SONY TV HD">
+    <programme start="20250319175400 +0000" stop="20250319182800 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250319182800 +0000" stop="20250319185900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250319185900 +0000" stop="20250319195900 +0000" channel="SONY TV HD">
+    <programme start="20250319185900 +0000" stop="20250319200000 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250319195900 +0000" stop="20250319212900 +0000" channel="SONY TV HD">
+    <programme start="20250319200000 +0000" stop="20250319213000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250319212900 +0000" stop="20250319223000 +0000" channel="SONY TV HD">
+    <programme start="20250319213000 +0000" stop="20250319223000 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
     <programme start="20250319223000 +0000" stop="20250319235700 +0000" channel="SONY TV HD">
@@ -34608,22 +34608,22 @@
     <programme start="20250319155600 +0000" stop="20250319162800 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250319162800 +0000" stop="20250319175500 +0000" channel="SONY TV">
+    <programme start="20250319162800 +0000" stop="20250319175400 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250319175500 +0000" stop="20250319182800 +0000" channel="SONY TV">
+    <programme start="20250319175400 +0000" stop="20250319182800 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250319182800 +0000" stop="20250319185900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250319185900 +0000" stop="20250319195900 +0000" channel="SONY TV">
+    <programme start="20250319185900 +0000" stop="20250319200000 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250319195900 +0000" stop="20250319212900 +0000" channel="SONY TV">
+    <programme start="20250319200000 +0000" stop="20250319213000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250319212900 +0000" stop="20250319223000 +0000" channel="SONY TV">
+    <programme start="20250319213000 +0000" stop="20250319223000 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
     <programme start="20250319223000 +0000" stop="20250319235700 +0000" channel="SONY TV">
@@ -37392,11 +37392,17 @@
     <programme start="20250319000000 +0000" stop="20250319063000 +0000" channel="BBC R Ulster">
         <title>As BBC Radio 5 live</title>
     </programme>
-    <programme start="20250319063000 +0000" stop="20250319090000 +0000" channel="BBC R Ulster">
+    <programme start="20250319063000 +0000" stop="20250319085500 +0000" channel="BBC R Ulster">
         <title>Good Morning Ulster</title>
     </programme>
-    <programme start="20250319090000 +0000" stop="20250319103000 +0000" channel="BBC R Ulster">
+    <programme start="20250319085500 +0000" stop="20250319090000 +0000" channel="BBC R Ulster">
+        <title>This is BBC Radio Ulster</title>
+    </programme>
+    <programme start="20250319090000 +0000" stop="20250319102500 +0000" channel="BBC R Ulster">
         <title>The Nolan Show</title>
+    </programme>
+    <programme start="20250319102500 +0000" stop="20250319103000 +0000" channel="BBC R Ulster">
+        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319103000 +0000" stop="20250319120000 +0000" channel="BBC R Ulster">
         <title>The Connor Phillips Show</title>
@@ -37404,8 +37410,11 @@
     <programme start="20250319120000 +0000" stop="20250319120300 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250319120300 +0000" stop="20250319133000 +0000" channel="BBC R Ulster">
+    <programme start="20250319120300 +0000" stop="20250319132800 +0000" channel="BBC R Ulster">
         <title>Talkback</title>
+    </programme>
+    <programme start="20250319132800 +0000" stop="20250319133000 +0000" channel="BBC R Ulster">
+        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319133000 +0000" stop="20250319150000 +0000" channel="BBC R Ulster">
         <title>Hugo Duncan</title>
@@ -37416,11 +37425,8 @@
     <programme start="20250319150400 +0000" stop="20250319160000 +0000" channel="BBC R Ulster">
         <title>The Afternoon Show</title>
     </programme>
-    <programme start="20250319160000 +0000" stop="20250319175500 +0000" channel="BBC R Ulster">
+    <programme start="20250319160000 +0000" stop="20250319180000 +0000" channel="BBC R Ulster">
         <title>Evening Extra</title>
-    </programme>
-    <programme start="20250319175500 +0000" stop="20250319180000 +0000" channel="BBC R Ulster">
-        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319180000 +0000" stop="20250319180500 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
