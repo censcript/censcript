@@ -14790,11 +14790,8 @@
     <programme start="20250319230000 +0000" stop="20250320000000 +0000" channel="Bloomberg HD">
         <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20250318213000 +0000" stop="20250318223000 +0000" channel="BBC NEWS HD">
+    <programme start="20250318213000 +0000" stop="20250318230000 +0000" channel="BBC NEWS HD">
         <title>Splashdown Live: Astronauts Return</title>
-    </programme>
-    <programme start="20250318223000 +0000" stop="20250318230000 +0000" channel="BBC NEWS HD">
-        <title>Newsnight</title>
     </programme>
     <programme start="20250318230000 +0000" stop="20250319000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
