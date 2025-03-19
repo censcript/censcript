@@ -28279,22 +28279,22 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250320080000 +0000" stop="20250320090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250320090000 +0000" stop="20250320100000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250320100000 +0000" stop="20250320110000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Ramadan Moments</title>
     </programme>
     <programme start="20250320110000 +0000" stop="20250320120000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Salaam Ramadaan</title>
     </programme>
     <programme start="20250320120000 +0000" stop="20250320130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250320130000 +0000" stop="20250320140000 +0000" channel="Takbeer TV">
-        <title>Gapshap with Papa Khan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250320140000 +0000" stop="20250320150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28303,13 +28303,13 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250320160000 +0000" stop="20250320170000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250320170000 +0000" stop="20250320180000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250320180000 +0000" stop="20250320190000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250320190000 +0000" stop="20250320200000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28989,17 +28989,17 @@
     <programme start="20250319223000 +0000" stop="20250319230000 +0000" channel="Sikh Channel">
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
-    <programme start="20250319230000 +0000" stop="20250320000000 +0000" channel="Sikh Channel">
+    <programme start="20250319230000 +0000" stop="20250319233000 +0000" channel="Sikh Channel">
+        <title>SC India: Punjab News</title>
+    </programme>
+    <programme start="20250319233000 +0000" stop="20250320003000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250320000000 +0000" stop="20250320010000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
-    </programme>
-    <programme start="20250320010000 +0000" stop="20250320013000 +0000" channel="Sikh Channel">
+    <programme start="20250320003000 +0000" stop="20250320013000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250320013000 +0000" stop="20250320020000 +0000" channel="Sikh Channel">
-        <title>Special Report</title>
+        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250320020000 +0000" stop="20250320030000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -36955,7 +36955,7 @@
         <title>Classic FM Requests</title>
     </programme>
     <programme start="20250320140000 +0000" stop="20250320160000 +0000" channel="Classic FM">
-        <title>Joanna Gosling</title>
+        <title>Anne-Marie Minhall</title>
     </programme>
     <programme start="20250320160000 +0000" stop="20250320190000 +0000" channel="Classic FM">
         <title>Margherita Taylor</title>
