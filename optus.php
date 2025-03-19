@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250319150000 +0000" stop="20250319160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250319180000 +0000" stop="20250319183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Neurodiversity Celebration</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Nottingham Forest v Manchester United</title>
+    </programme>
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Tokyo Verdy v FC Tokyo</title>
     </programme>
 </tv>

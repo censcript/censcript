@@ -12831,9 +12831,6 @@
     <programme start="20250319220000 +0000" stop="20250319230000 +0000" channel="That's Melody">
         <title>Mellow Melody</title>
     </programme>
-    <programme start="20250318150000 +0000" stop="20250318230000 +0000" channel="SkySpMainEvHD">
-        <title>Live Tennis: Miami</title>
-    </programme>
     <programme start="20250318230000 +0000" stop="20250319010000 +0000" channel="SkySpMainEvHD">
         <title>Live TGL SF:Atlanta D v The Bay GC</title>
     </programme>
@@ -13442,9 +13439,6 @@
     </programme>
     <programme start="20250319220000 +0000" stop="20250319230000 +0000" channel="SkySp F1 HD">
         <title>Australian F1 Grand Prix</title>
-    </programme>
-    <programme start="20250318150000 +0000" stop="20250318230000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: Miami</title>
     </programme>
     <programme start="20250318230000 +0000" stop="20250318233000 +0000" channel="SkySp Tennis HD">
         <title>WTA Indian Wells 2025 Review</title>
@@ -14134,7 +14128,7 @@
         <title>Fergie's First XI</title>
     </programme>
     <programme start="20250319044500 +0000" stop="20250319060000 +0000" channel="MUTV HD">
-        <title>Official UTD Podcast - Sir Alex</title>
+        <title>Utd Podcast: Sir Alex</title>
     </programme>
     <programme start="20250319060000 +0000" stop="20250319070000 +0000" channel="MUTV HD">
         <title>Inspiration: Danny Wallace Story</title>
@@ -14152,7 +14146,7 @@
         <title>John Gidman: My Story</title>
     </programme>
     <programme start="20250319100000 +0000" stop="20250319111500 +0000" channel="MUTV HD">
-        <title>Utd Podcast - Ruud van Nistelrooy</title>
+        <title>Utd Podcast: Van Nistelrooy</title>
     </programme>
     <programme start="20250319111500 +0000" stop="20250319121500 +0000" channel="MUTV HD">
         <title>All The Goals: Van Nistelrooy</title>
@@ -14170,7 +14164,7 @@
         <title>Old Trafford Regeneration</title>
     </programme>
     <programme start="20250319131500 +0000" stop="20250319143000 +0000" channel="MUTV HD">
-        <title>Official UTD Podcast - Sir Alex</title>
+        <title>Utd Podcast: Sir Alex</title>
     </programme>
     <programme start="20250319143000 +0000" stop="20250319144500 +0000" channel="MUTV HD">
         <title>Old Trafford Regeneration</title>
@@ -14188,7 +14182,7 @@
         <title>Wembley '77: Que Sera Sera...</title>
     </programme>
     <programme start="20250319171500 +0000" stop="20250319184500 +0000" channel="MUTV HD">
-        <title>Utd Podcast - Mickey Thomas</title>
+        <title>Utd Podcast: Mickey Thomas</title>
     </programme>
     <programme start="20250319184500 +0000" stop="20250319194500 +0000" channel="MUTV HD">
         <title>Inspiration: Danny Wallace Story</title>
@@ -14203,7 +14197,7 @@
         <title>Born and Bred</title>
     </programme>
     <programme start="20250319211500 +0000" stop="20250319223000 +0000" channel="MUTV HD">
-        <title>Podcast - Fabio &amp; Rafael da Silva</title>
+        <title>Utd Podcast: Fabio &amp; Rafael da Silva</title>
     </programme>
     <programme start="20250319223000 +0000" stop="20250319233000 +0000" channel="MUTV HD">
         <title>The Impossible Dream</title>
@@ -18096,10 +18090,13 @@
     <programme start="20250319073000 +0000" stop="20250319080000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
     </programme>
-    <programme start="20250319080000 +0000" stop="20250319090000 +0000" channel="EWTN Catholic">
+    <programme start="20250319080000 +0000" stop="20250319081500 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
+    </programme>
+    <programme start="20250319081500 +0000" stop="20250319091500 +0000" channel="EWTN Catholic">
         <title>Faith of Our Fathers</title>
     </programme>
-    <programme start="20250319090000 +0000" stop="20250319093000 +0000" channel="EWTN Catholic">
+    <programme start="20250319091500 +0000" stop="20250319093000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
     </programme>
     <programme start="20250319093000 +0000" stop="20250319100000 +0000" channel="EWTN Catholic">
@@ -24076,7 +24073,7 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250319110000 +0000" stop="20250319120000 +0000" channel="QVC Beauty">
-        <title>skinSense by Abi Cleeve</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -29208,17 +29205,17 @@
     <programme start="20250319173000 +0000" stop="20250319180000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
-    <programme start="20250319180000 +0000" stop="20250319183000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
+    <programme start="20250319180000 +0000" stop="20250319184500 +0000" channel="Akaal Channel">
+        <title>Live: Call in Show</title>
     </programme>
-    <programme start="20250319183000 +0000" stop="20250319192000 +0000" channel="Akaal Channel">
+    <programme start="20250319184500 +0000" stop="20250319190000 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
+    </programme>
+    <programme start="20250319190000 +0000" stop="20250319200000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250319192000 +0000" stop="20250319202000 +0000" channel="Akaal Channel">
+    <programme start="20250319200000 +0000" stop="20250319210000 +0000" channel="Akaal Channel">
         <title>Live: Thara Sahib &amp; Diwan Hall</title>
-    </programme>
-    <programme start="20250319202000 +0000" stop="20250319210000 +0000" channel="Akaal Channel">
-        <title>Live: Jee Aayan Nu</title>
     </programme>
     <programme start="20250319210000 +0000" stop="20250319213000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>
@@ -38539,7 +38536,7 @@
         <title>The Ryan Tubridy Show</title>
     </programme>
     <programme start="20250319130000 +0000" stop="20250319160000 +0000" channel="Virgin Radio">
-        <title>Jayne Middlemiss</title>
+        <title>James Merritt</title>
     </programme>
     <programme start="20250319160000 +0000" stop="20250319190000 +0000" channel="Virgin Radio">
         <title>Leigh Francis</title>
