@@ -550,7 +550,7 @@
         <title>The Resurrection Quest - EP 4</title>
     </programme>
     <programme start="20250318220000 +0000" stop="20250318230000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight - EP 352</title>
+        <title>Singapore Tonight - EP 0</title>
     </programme>
     <programme start="20250318230000 +0000" stop="20250319020000 +0000" channel="CNA.mewatch">
         <title>Asia First - EP 245</title>
@@ -577,13 +577,13 @@
         <title>The Resurrection Quest - EP 1</title>
     </programme>
     <programme start="20250319100000 +0000" stop="20250319110000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight - EP 235</title>
+        <title>East Asia Tonight - EP 0</title>
     </programme>
     <programme start="20250319110000 +0000" stop="20250319120000 +0000" channel="CNA.mewatch">
         <title>The Resurrection Quest - EP 2</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319130000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight - EP 353</title>
+        <title>Asia Tonight - EP 0</title>
     </programme>
     <programme start="20250319130000 +0000" stop="20250319133000 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 1</title>
@@ -592,7 +592,7 @@
         <title>CNA Correspondent - EP 45</title>
     </programme>
     <programme start="20250319140000 +0000" stop="20250319150000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight - EP 353</title>
+        <title>Singapore Tonight - EP 0</title>
     </programme>
     <programme start="20250319150000 +0000" stop="20250319160000 +0000" channel="CNA.mewatch">
         <title>The Resurrection Quest - EP 4</title>
