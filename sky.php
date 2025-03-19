@@ -29050,7 +29050,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250319153000 +0000" stop="20250319160000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250319160000 +0000" stop="20250319170000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
