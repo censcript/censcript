@@ -3675,10 +3675,7 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -14997,23 +14994,23 @@
     <programme start="20250320230000 +0000" stop="20250321000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250319224000 +0000" stop="20250319232500 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
-    </programme>
-    <programme start="20250319232500 +0000" stop="20250319233500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Sentencing Guidelines Statement</title>
-    </programme>
-    <programme start="20250319233500 +0000" stop="20250320001500 +0000" channel="BBC Parl HD">
+    <programme start="20250319224000 +0000" stop="20250319232000 +0000" channel="BBC Parl HD">
         <title>House of Lords - NHS England Statement</title>
     </programme>
-    <programme start="20250320001500 +0000" stop="20250320021500 +0000" channel="BBC Parl HD">
+    <programme start="20250319232000 +0000" stop="20250320003000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Church of Scotland Bill</title>
     </programme>
-    <programme start="20250320021500 +0000" stop="20250320041500 +0000" channel="BBC Parl HD">
+    <programme start="20250320003000 +0000" stop="20250320024000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Finance Bill</title>
     </programme>
-    <programme start="20250320041500 +0000" stop="20250320060000 +0000" channel="BBC Parl HD">
+    <programme start="20250320024000 +0000" stop="20250320035500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Infected Blood Compensation Scheme</title>
+    </programme>
+    <programme start="20250320035500 +0000" stop="20250320055000 +0000" channel="BBC Parl HD">
+        <title>Environment Committee on the Water Industry</title>
+    </programme>
+    <programme start="20250320055000 +0000" stop="20250320060000 +0000" channel="BBC Parl HD">
+        <title>Ten Minute Rule Bill on Food Products</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320062500 +0000" channel="BBC Parl HD">
         <title>Women and Equalities Questions</title>
