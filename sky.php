@@ -14994,14 +14994,17 @@
     <programme start="20250319193000 +0000" stop="20250319220000 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
     </programme>
-    <programme start="20250319220000 +0000" stop="20250319223500 +0000" channel="BBC Parl HD">
+    <programme start="20250319220000 +0000" stop="20250319224000 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250319223500 +0000" stop="20250319232000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+    <programme start="20250319224000 +0000" stop="20250319232500 +0000" channel="BBC Parl HD">
+        <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250319232000 +0000" stop="20250320002000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250319232500 +0000" stop="20250319233500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Sentencing Guidelines Statement</title>
+    </programme>
+    <programme start="20250319233500 +0000" stop="20250320003500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - NHS England Statement</title>
     </programme>
     <programme start="20250318223000 +0000" stop="20250318230000 +0000" channel="CNBC HD">
         <title>NBC Nightly News</title>
@@ -28246,7 +28249,7 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250319160000 +0000" stop="20250319170000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250319170000 +0000" stop="20250319180000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -37392,17 +37395,11 @@
     <programme start="20250319000000 +0000" stop="20250319063000 +0000" channel="BBC R Ulster">
         <title>As BBC Radio 5 live</title>
     </programme>
-    <programme start="20250319063000 +0000" stop="20250319085500 +0000" channel="BBC R Ulster">
+    <programme start="20250319063000 +0000" stop="20250319090000 +0000" channel="BBC R Ulster">
         <title>Good Morning Ulster</title>
     </programme>
-    <programme start="20250319085500 +0000" stop="20250319090000 +0000" channel="BBC R Ulster">
-        <title>This is BBC Radio Ulster</title>
-    </programme>
-    <programme start="20250319090000 +0000" stop="20250319102500 +0000" channel="BBC R Ulster">
+    <programme start="20250319090000 +0000" stop="20250319103000 +0000" channel="BBC R Ulster">
         <title>The Nolan Show</title>
-    </programme>
-    <programme start="20250319102500 +0000" stop="20250319103000 +0000" channel="BBC R Ulster">
-        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319103000 +0000" stop="20250319120000 +0000" channel="BBC R Ulster">
         <title>The Connor Phillips Show</title>
@@ -37410,11 +37407,8 @@
     <programme start="20250319120000 +0000" stop="20250319120300 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250319120300 +0000" stop="20250319132800 +0000" channel="BBC R Ulster">
+    <programme start="20250319120300 +0000" stop="20250319133000 +0000" channel="BBC R Ulster">
         <title>Talkback</title>
-    </programme>
-    <programme start="20250319132800 +0000" stop="20250319133000 +0000" channel="BBC R Ulster">
-        <title>This is BBC Radio Ulster</title>
     </programme>
     <programme start="20250319133000 +0000" stop="20250319150000 +0000" channel="BBC R Ulster">
         <title>Hugo Duncan</title>
