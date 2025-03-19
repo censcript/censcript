@@ -13474,16 +13474,16 @@
         <title>WTA Indian Wells 2025 Review</title>
     </programme>
     <programme start="20250320070000 +0000" stop="20250320090000 +0000" channel="SkySp Tennis HD">
-        <title>Miami Tennis Highlights</title>
+        <title>Miami: Raducanu v Ishii</title>
     </programme>
     <programme start="20250320090000 +0000" stop="20250320110000 +0000" channel="SkySp Tennis HD">
-        <title>Miami Tennis Highlights</title>
+        <title>Miami: Boulter v Stearns</title>
     </programme>
     <programme start="20250320110000 +0000" stop="20250320130000 +0000" channel="SkySp Tennis HD">
-        <title>Miami Tennis Highlights</title>
+        <title>Miami: Raducanu v Ishii</title>
     </programme>
     <programme start="20250320130000 +0000" stop="20250320150000 +0000" channel="SkySp Tennis HD">
-        <title>Miami Tennis Highlights</title>
+        <title>Miami: Boulter v Stearns</title>
     </programme>
     <programme start="20250320150000 +0000" stop="20250320230000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Miami</title>
