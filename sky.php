@@ -14874,10 +14874,7 @@
     <programme start="20250319110000 +0000" stop="20250319113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250319113000 +0000" stop="20250319114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250319114500 +0000" stop="20250319120000 +0000" channel="BBC NEWS HD">
+    <programme start="20250319113000 +0000" stop="20250319120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250319120000 +0000" stop="20250319123000 +0000" channel="BBC NEWS HD">
@@ -15759,10 +15756,7 @@
     <programme start="20250318233000 +0000" stop="20250319000000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
     </programme>
-    <programme start="20250319000000 +0000" stop="20250319003000 +0000" channel="NDTV World">
-        <title>Left, Right &amp; Centre</title>
-    </programme>
-    <programme start="20250319003000 +0000" stop="20250319020000 +0000" channel="NDTV World">
+    <programme start="20250319000000 +0000" stop="20250319020000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250319020000 +0000" stop="20250319023000 +0000" channel="NDTV World">
@@ -29043,8 +29037,11 @@
     <programme start="20250319133000 +0000" stop="20250319140000 +0000" channel="Sikh Channel">
         <title>Hukamnama Explanations</title>
     </programme>
-    <programme start="20250319140000 +0000" stop="20250319150000 +0000" channel="Sikh Channel">
-        <title>Voice of Yorkshire</title>
+    <programme start="20250319140000 +0000" stop="20250319143000 +0000" channel="Sikh Channel">
+        <title>Mahima Sukhmani Sahib Path</title>
+    </programme>
+    <programme start="20250319143000 +0000" stop="20250319150000 +0000" channel="Sikh Channel">
+        <title>Mahima Sukhmani Sahib Path</title>
     </programme>
     <programme start="20250319150000 +0000" stop="20250319153000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -29059,10 +29056,10 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250319183000 +0000" stop="20250319190000 +0000" channel="Sikh Channel">
-        <title>SC India: Punjab News</title>
+        <title>Teleshopping - Yatra</title>
     </programme>
     <programme start="20250319190000 +0000" stop="20250319193000 +0000" channel="Sikh Channel">
-        <title>Teleshopping - Yatra</title>
+        <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250319193000 +0000" stop="20250319200000 +0000" channel="Sikh Channel">
         <title>Sri Sehaj Path - 350 Sala</title>
