@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250319180000 +0000" stop="20250319183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Neurodiversity Celebration</title>
-    </programme>
     <programme start="20250320133000 +0000" stop="20250320140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Tokyo Verdy v FC Tokyo</title>
+    </programme>
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Nagoya v Yokohama FM</title>
     </programme>
 </tv>
