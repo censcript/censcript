@@ -3675,7 +3675,10 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -13302,8 +13305,11 @@
     <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="SkySp Golf HD">
         <title>Live DP World Tour Golf</title>
     </programme>
-    <programme start="20250320060000 +0000" stop="20250320100000 +0000" channel="SkySp Golf HD">
-        <title>Live DP World Tour Golf</title>
+    <programme start="20250320060000 +0000" stop="20250320080000 +0000" channel="SkySp Golf HD">
+        <title>TGL Semi Final 1 - LAGC v NYGC</title>
+    </programme>
+    <programme start="20250320080000 +0000" stop="20250320100000 +0000" channel="SkySp Golf HD">
+        <title>TGL Semi Final 2 - Atlanta Drive v The B</title>
     </programme>
     <programme start="20250320100000 +0000" stop="20250320103000 +0000" channel="SkySp Golf HD">
         <title>UnFiltered At The Rolex Series</title>
