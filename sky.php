@@ -23821,7 +23821,7 @@
         <title>Fashion on Friday</title>
     </programme>
     <programme start="20250321180000 +0000" stop="20250321190000 +0000" channel="QVC HD">
-        <title>Garden Furniture Deals</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250321190000 +0000" stop="20250321200000 +0000" channel="QVC HD">
         <title>Annie Haak Jewellery</title>
@@ -27496,7 +27496,7 @@
         <title>SKT Welfare Live Appeal</title>
     </programme>
     <programme start="20250321050000 +0000" stop="20250321060000 +0000" channel="Islam Channel">
-        <title>SKT Welfare Live Appeal</title>
+        <title>Action For Humanity Appeal</title>
     </programme>
     <programme start="20250321060000 +0000" stop="20250321063000 +0000" channel="Islam Channel">
         <title>Reflections On Prophets</title>
@@ -27516,20 +27516,17 @@
     <programme start="20250321084500 +0000" stop="20250321090000 +0000" channel="Islam Channel">
         <title>Once Upon Every Ramadan</title>
     </programme>
-    <programme start="20250321090000 +0000" stop="20250321093000 +0000" channel="Islam Channel">
+    <programme start="20250321090000 +0000" stop="20250321092500 +0000" channel="Islam Channel">
         <title>Surah Al Kahf</title>
     </programme>
-    <programme start="20250321093000 +0000" stop="20250321100000 +0000" channel="Islam Channel">
+    <programme start="20250321092500 +0000" stop="20250321100500 +0000" channel="Islam Channel">
         <title>Live Jumuah Prayer Makkah</title>
     </programme>
-    <programme start="20250321100000 +0000" stop="20250321101000 +0000" channel="Islam Channel">
-        <title>Final Teachings of the Prophet (SAW)</title>
-    </programme>
-    <programme start="20250321101000 +0000" stop="20250321104500 +0000" channel="Islam Channel">
+    <programme start="20250321100500 +0000" stop="20250321104500 +0000" channel="Islam Channel">
         <title>Live Jumuah Prayer Al Aqsa</title>
     </programme>
     <programme start="20250321104500 +0000" stop="20250321110000 +0000" channel="Islam Channel">
-        <title>Other Side: Barzakh and Beyond</title>
+        <title>He is Messenger of God</title>
     </programme>
     <programme start="20250321110000 +0000" stop="20250321113000 +0000" channel="Islam Channel">
         <title>Live Jumuah Prayer Madinah</title>
@@ -27537,17 +27534,11 @@
     <programme start="20250321113000 +0000" stop="20250321120000 +0000" channel="Islam Channel">
         <title>Your Local Jumuah</title>
     </programme>
-    <programme start="20250321120000 +0000" stop="20250321121000 +0000" channel="Islam Channel">
-        <title>New: Ramadan Journeys</title>
+    <programme start="20250321120000 +0000" stop="20250321121800 +0000" channel="Islam Channel">
+        <title>Final Teachings of the Prophet (SAW)</title>
     </programme>
-    <programme start="20250321121000 +0000" stop="20250321121500 +0000" channel="Islam Channel">
-        <title>5 Pillars Pop Quiz</title>
-    </programme>
-    <programme start="20250321121500 +0000" stop="20250321122000 +0000" channel="Islam Channel">
-        <title>Dhuhr Adhan</title>
-    </programme>
-    <programme start="20250321122000 +0000" stop="20250321123000 +0000" channel="Islam Channel">
-        <title>5 Pillars Pop Quiz</title>
+    <programme start="20250321121800 +0000" stop="20250321123000 +0000" channel="Islam Channel">
+        <title>Conversations in Quran</title>
     </programme>
     <programme start="20250321123000 +0000" stop="20250321130000 +0000" channel="Islam Channel">
         <title>Great Judges</title>
@@ -27562,18 +27553,15 @@
         <title>Melodies Of Quran</title>
     </programme>
     <programme start="20250321143000 +0000" stop="20250321150000 +0000" channel="Islam Channel">
-        <title>Islam Channel News</title>
+        <title>Adhan Competition</title>
     </programme>
-    <programme start="20250321150000 +0000" stop="20250321152000 +0000" channel="Islam Channel">
+    <programme start="20250321150000 +0000" stop="20250321152700 +0000" channel="Islam Channel">
         <title>Recite Live</title>
     </programme>
-    <programme start="20250321152000 +0000" stop="20250321152500 +0000" channel="Islam Channel">
+    <programme start="20250321152700 +0000" stop="20250321153200 +0000" channel="Islam Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250321152500 +0000" stop="20250321153000 +0000" channel="Islam Channel">
-        <title>Recite Live</title>
-    </programme>
-    <programme start="20250321153000 +0000" stop="20250321160000 +0000" channel="Islam Channel">
+    <programme start="20250321153200 +0000" stop="20250321160000 +0000" channel="Islam Channel">
         <title>Ramadan On Road</title>
     </programme>
     <programme start="20250321160000 +0000" stop="20250321163000 +0000" channel="Islam Channel">
@@ -27583,25 +27571,22 @@
         <title>Big Ramadan Show</title>
     </programme>
     <programme start="20250321170000 +0000" stop="20250321180000 +0000" channel="Islam Channel">
-        <title>Muslim Aid Live Appeal</title>
+        <title>Muslim Hands Live Appeal</title>
     </programme>
-    <programme start="20250321180000 +0000" stop="20250321180700 +0000" channel="Islam Channel">
+    <programme start="20250321180000 +0000" stop="20250321181900 +0000" channel="Islam Channel">
         <title>Live Taraweeh Prayers</title>
     </programme>
-    <programme start="20250321180700 +0000" stop="20250321181200 +0000" channel="Islam Channel">
+    <programme start="20250321181900 +0000" stop="20250321182400 +0000" channel="Islam Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250321181200 +0000" stop="20250321190000 +0000" channel="Islam Channel">
+    <programme start="20250321182400 +0000" stop="20250321190000 +0000" channel="Islam Channel">
         <title>Live Taraweeh Prayers</title>
     </programme>
-    <programme start="20250321190000 +0000" stop="20250321192800 +0000" channel="Islam Channel">
-        <title>Muslim Aid Live Appeal</title>
+    <programme start="20250321190000 +0000" stop="20250321194400 +0000" channel="Islam Channel">
+        <title>Muslim Hands Live Appeal</title>
     </programme>
-    <programme start="20250321192800 +0000" stop="20250321193300 +0000" channel="Islam Channel">
-        <title>Isha Adhan</title>
-    </programme>
-    <programme start="20250321193300 +0000" stop="20250321203300 +0000" channel="Islam Channel">
-        <title>Muslim Aid Live Appeal</title>
+    <programme start="20250321194400 +0000" stop="20250321204400 +0000" channel="Islam Channel">
+        <title>Muslim Hands Live Appeal</title>
     </programme>
     <programme start="20250320223000 +0000" stop="20250320230000 +0000" channel="GEO TV">
         <title>Guddi</title>
@@ -28674,10 +28659,10 @@
     <programme start="20250321194500 +0000" stop="20250321204500 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250320223000 +0000" stop="20250320233000 +0000" channel="ARY Digital">
+    <programme start="20250320225600 +0000" stop="20250320234100 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
     </programme>
-    <programme start="20250320233000 +0000" stop="20250321013000 +0000" channel="ARY Digital">
+    <programme start="20250320234100 +0000" stop="20250321013000 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
     <programme start="20250321013000 +0000" stop="20250321023000 +0000" channel="ARY Digital">
