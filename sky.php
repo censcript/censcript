@@ -3675,10 +3675,7 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
