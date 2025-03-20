@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Italy v Germany</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 7.optus">
-        <title>UEFA Nations League - Denmark v Portugal</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA Nations League - Croatia v France</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Nations League - Netherlands v Spain</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Nations League - Greece v Scotland</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 9.optus">
-        <title>UEFA Nations League - Austria v Serbia</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 12.optus">
-        <title>UEFA Nations League - Ukraine v Belgium</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 8.optus">
-        <title>UEFA Nations League - Slovakia v Slovenia</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA Nations League - Bulgaria v Republic of Ireland</title>
-    </programme>
-    <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 10.optus">
-        <title>UEFA Nations League - Kosovo v Iceland</title>
-    </programme>
     <programme start="20250321165000 +0000" stop="20250321191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Cyprus v San Marino</title>
     </programme>
@@ -299,5 +269,35 @@
     </programme>
     <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Nagoya v Yokohama FM</title>
+    </programme>
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Cerezo v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250402102500 +0000" stop="20250402124000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Urawa Red Diamonds v Shimizu</title>
+    </programme>
+    <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 8.optus">
+        <title>DFB Pokal - Stuttgart v RB Leipzig</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 6.optus">
+        <title>Premier League - Southampton v Crystal Palace</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Newcastle United v Brentford</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Manchester City v Leicester City</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Brighton v Aston Villa</title>
+    </programme>
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Bournemouth v Ipswich</title>
     </programme>
 </tv>
