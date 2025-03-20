@@ -3675,10 +3675,7 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -12545,9 +12542,6 @@
     </programme>
     <programme start="20250320233000 +0000" stop="20250321003000 +0000" channel="NOW 70s">
         <title>70s Glam Slam!</title>
-    </programme>
-    <programme start="20250319130000 +0000" stop="20250320000000 +0000" channel="NOW 80s">
-        <title>Every Number 1 of the 80s!</title>
     </programme>
     <programme start="20250320000000 +0000" stop="20250320000500 +0000" channel="NOW 80s">
         <title>Every Number 1 of the 80s!</title>
@@ -25951,7 +25945,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250320212000 +0000" stop="20250320215000 +0000" channel="COLORS HD">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250320215000 +0000" stop="20250320222500 +0000" channel="COLORS HD">
         <title>Suman Indori</title>
@@ -31690,28 +31684,28 @@
         <title>Friends</title>
     </programme>
     <programme start="20250320170000 +0000" stop="20250320173000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320173000 +0000" stop="20250320180000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320180000 +0000" stop="20250320183000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320183000 +0000" stop="20250320190000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320190000 +0000" stop="20250320193000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320193000 +0000" stop="20250320200000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320200000 +0000" stop="20250320203000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320203000 +0000" stop="20250320210000 +0000" channel="ComedyCentral">
-        <title>Friends: The Ultimate Quiz</title>
+        <title>Friends</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250320230000 +0000" channel="ComedyCentral">
         <title>Vacation</title>
@@ -34924,7 +34918,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250320212000 +0000" stop="20250320215000 +0000" channel="COLORS">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250320215000 +0000" stop="20250320222500 +0000" channel="COLORS">
         <title>Suman Indori</title>

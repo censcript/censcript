@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250320133000 +0000" stop="20250320140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview - Jack Taylor</title>
-    </programme>
     <programme start="20250320165000 +0000" stop="20250320191000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Nations League - Turkiye v Hungary</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Arsenal v Fulham</title>
+    </programme>
+    <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Nottingham Forest v Manchester United</title>
     </programme>
 </tv>
