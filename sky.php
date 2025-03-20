@@ -3675,7 +3675,10 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -24133,7 +24136,7 @@
         <title>The Fragrance Hall</title>
     </programme>
     <programme start="20250320110000 +0000" stop="20250320120000 +0000" channel="QVC Beauty">
-        <title>Proto-Col</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250320120000 +0000" stop="20250320130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24142,10 +24145,10 @@
         <title>L'Occitane: Beauty En Provence</title>
     </programme>
     <programme start="20250320140000 +0000" stop="20250320150000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Alison Young: Collagen</title>
     </programme>
     <programme start="20250320150000 +0000" stop="20250320160000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Alison Young: SPF</title>
     </programme>
     <programme start="20250320160000 +0000" stop="20250320170000 +0000" channel="QVC Beauty">
         <title>skinSense by Abi Cleeve</title>
@@ -24169,7 +24172,7 @@
         <title>Alison Young: Collagen</title>
     </programme>
     <programme start="20250320230000 +0000" stop="20250321000000 +0000" channel="QVC Beauty">
-        <title>Elizabeth Grant</title>
+        <title>Proto-Col</title>
     </programme>
     <programme start="20250319220000 +0000" stop="20250319230000 +0000" channel="QVC Style HD">
         <title>Finery London</title>
@@ -24211,13 +24214,13 @@
         <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250320110000 +0000" stop="20250320120000 +0000" channel="QVC Style HD">
-        <title>Accessories by Kipling</title>
+        <title>Dannii Minogue Style</title>
     </programme>
     <programme start="20250320120000 +0000" stop="20250320130000 +0000" channel="QVC Style HD">
         <title>A Seasonal Style Refresh</title>
     </programme>
     <programme start="20250320130000 +0000" stop="20250320140000 +0000" channel="QVC Style HD">
-        <title>Kim &amp; Co</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250320140000 +0000" stop="20250320150000 +0000" channel="QVC Style HD">
         <title>Malissa J Collection</title>
@@ -24859,7 +24862,7 @@
         <title>All About Accessories</title>
     </programme>
     <programme start="20250320150000 +0000" stop="20250320160000 +0000" channel="QVC Extra">
-        <title>Garden to Table: Farm Shop</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250320160000 +0000" stop="20250320170000 +0000" channel="QVC Extra">
         <title>New Season Grumpy Gardener</title>
@@ -24877,7 +24880,7 @@
         <title>Home Hacks</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250320220000 +0000" channel="QVC Extra">
-        <title>Illuminate Your Garden</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250320220000 +0000" stop="20250320230000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>
@@ -29413,7 +29416,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250320090000 +0000" stop="20250320100000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250320100000 +0000" stop="20250320103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -29473,7 +29476,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250320233000 +0000" stop="20250321003000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250319220000 +0000" stop="20250319230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -29539,7 +29542,7 @@
         <title>Live - Panthak Sath</title>
     </programme>
     <programme start="20250320200000 +0000" stop="20250320210000 +0000" channel="PBC">
-        <title>Fundraising Appeal</title>
+        <title>PBC Live</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250320213000 +0000" channel="PBC">
         <title>PBC Special Show</title>
