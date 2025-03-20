@@ -3675,7 +3675,10 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -5995,13 +5998,13 @@
         <title>The Bill</title>
     </programme>
     <programme start="20250320011500 +0000" stop="20250320015500 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320015500 +0000" stop="20250320023000 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320023000 +0000" stop="20250320031000 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320031000 +0000" stop="20250320044500 +0000" channel="U&amp;Eden">
         <title>The Brokenwood Mysteries</title>
@@ -6052,13 +6055,13 @@
         <title>The Bill</title>
     </programme>
     <programme start="20250320190000 +0000" stop="20250320194000 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320194000 +0000" stop="20250320202000 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320202000 +0000" stop="20250320210000 +0000" channel="U&amp;Eden">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250320230000 +0000" channel="U&amp;Eden">
         <title>The Brokenwood Mysteries</title>
@@ -10537,13 +10540,13 @@
         <title>The Bill</title>
     </programme>
     <programme start="20250320021500 +0000" stop="20250320025500 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320025500 +0000" stop="20250320033000 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320033000 +0000" stop="20250320041000 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320041000 +0000" stop="20250320054500 +0000" channel="U&amp;Eden+1">
         <title>The Brokenwood Mysteries</title>
@@ -10594,13 +10597,13 @@
         <title>The Bill</title>
     </programme>
     <programme start="20250320200000 +0000" stop="20250320204000 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320204000 +0000" stop="20250320212000 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320212000 +0000" stop="20250320220000 +0000" channel="U&amp;Eden+1">
-        <title>TOTP: 1997</title>
+        <title>TOTP</title>
     </programme>
     <programme start="20250320220000 +0000" stop="20250320230000 +0000" channel="U&amp;Eden+1">
         <title>The Brokenwood Mysteries</title>
@@ -29727,71 +29730,86 @@
     <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250320060000 +0000" stop="20250320082000 +0000" channel="IQRA Bangla">
-        <title>Live Transmission from Madina</title>
+    <programme start="20250320060000 +0000" stop="20250320063000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
+    </programme>
+    <programme start="20250320063000 +0000" stop="20250320072400 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250320072400 +0000" stop="20250320075400 +0000" channel="IQRA Bangla">
+        <title>Lifestyle in Ramadan</title>
+    </programme>
+    <programme start="20250320075400 +0000" stop="20250320080200 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
+    </programme>
+    <programme start="20250320080200 +0000" stop="20250320081300 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
+    </programme>
+    <programme start="20250320081300 +0000" stop="20250320082000 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
     </programme>
     <programme start="20250320082000 +0000" stop="20250320083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250320083000 +0000" stop="20250320093000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
+    <programme start="20250320083000 +0000" stop="20250320100000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250320093000 +0000" stop="20250320103000 +0000" channel="IQRA Bangla">
+    <programme start="20250320100000 +0000" stop="20250320110000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250320110000 +0000" stop="20250320113000 +0000" channel="IQRA Bangla">
+        <title>Lifestyle in Ramadan</title>
+    </programme>
+    <programme start="20250320113000 +0000" stop="20250320121300 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250320103000 +0000" stop="20250320110000 +0000" channel="IQRA Bangla">
-        <title>Mon</title>
-    </programme>
-    <programme start="20250320110000 +0000" stop="20250320121800 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250320121800 +0000" stop="20250320123000 +0000" channel="IQRA Bangla">
+    <programme start="20250320121300 +0000" stop="20250320121800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250320123000 +0000" stop="20250320140000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+    <programme start="20250320121800 +0000" stop="20250320123000 +0000" channel="IQRA Bangla">
+        <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250320123000 +0000" stop="20250320135300 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
+    </programme>
+    <programme start="20250320135300 +0000" stop="20250320140000 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
     </programme>
     <programme start="20250320140000 +0000" stop="20250320150000 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
-    </programme>
-    <programme start="20250320150000 +0000" stop="20250320153000 +0000" channel="IQRA Bangla">
-        <title>Moshq-e- Tilawat</title>
-    </programme>
-    <programme start="20250320153000 +0000" stop="20250320154600 +0000" channel="IQRA Bangla">
-        <title>Dosh Diganta</title>
-    </programme>
-    <programme start="20250320154600 +0000" stop="20250320155100 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250320155100 +0000" stop="20250320163000 +0000" channel="IQRA Bangla">
-        <title>Dosh Diganta</title>
-    </programme>
-    <programme start="20250320163000 +0000" stop="20250320174100 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250320174100 +0000" stop="20250320180000 +0000" channel="IQRA Bangla">
+    <programme start="20250320150000 +0000" stop="20250320153000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Bazar</title>
+    </programme>
+    <programme start="20250320153000 +0000" stop="20250320161600 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
+    </programme>
+    <programme start="20250320161600 +0000" stop="20250320162100 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250320162100 +0000" stop="20250320181700 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
+    </programme>
+    <programme start="20250320181700 +0000" stop="20250320182500 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250320180000 +0000" stop="20250320183000 +0000" channel="IQRA Bangla">
-        <title>Iqra Kids TV Show</title>
+    <programme start="20250320182500 +0000" stop="20250320183400 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
     </programme>
-    <programme start="20250320183000 +0000" stop="20250320190800 +0000" channel="IQRA Bangla">
-        <title>National Seerah Conference</title>
+    <programme start="20250320183400 +0000" stop="20250320183900 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
     </programme>
-    <programme start="20250320190800 +0000" stop="20250320191300 +0000" channel="IQRA Bangla">
+    <programme start="20250320183900 +0000" stop="20250320184600 +0000" channel="IQRA Bangla">
+        <title>Ramadan tips</title>
+    </programme>
+    <programme start="20250320184600 +0000" stop="20250320193700 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
+    </programme>
+    <programme start="20250320193700 +0000" stop="20250320194200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250320191300 +0000" stop="20250320200000 +0000" channel="IQRA Bangla">
-        <title>National Seerah Conference</title>
-    </programme>
-    <programme start="20250320200000 +0000" stop="20250320203000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
-    </programme>
-    <programme start="20250320203000 +0000" stop="20250320230000 +0000" channel="IQRA Bangla">
-        <title>National Seerah Conference</title>
-    </programme>
-    <programme start="20250320230000 +0000" stop="20250321000000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
+    <programme start="20250320194200 +0000" stop="20250320204200 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250319210000 +0000" stop="20250320013000 +0000" channel="ATN">
         <title>Charity Appeal</title>
@@ -29821,10 +29839,10 @@
         <title>Prophet Story</title>
     </programme>
     <programme start="20250320080000 +0000" stop="20250320090000 +0000" channel="ATN">
-        <title>Paner Dokandar</title>
+        <title>Hot Temper</title>
     </programme>
     <programme start="20250320090000 +0000" stop="20250320100000 +0000" channel="ATN">
-        <title>Fida</title>
+        <title>Black Rose</title>
     </programme>
     <programme start="20250320100000 +0000" stop="20250320103000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -29841,13 +29859,13 @@
     <programme start="20250320113000 +0000" stop="20250320120000 +0000" channel="ATN">
         <title>Jhotpot Iftar</title>
     </programme>
-    <programme start="20250320120000 +0000" stop="20250320122000 +0000" channel="ATN">
+    <programme start="20250320120000 +0000" stop="20250320121300 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250320122000 +0000" stop="20250320122500 +0000" channel="ATN">
+    <programme start="20250320121300 +0000" stop="20250320122000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250320122500 +0000" stop="20250320130000 +0000" channel="ATN">
+    <programme start="20250320122000 +0000" stop="20250320130000 +0000" channel="ATN">
         <title>Hamd O Nath</title>
     </programme>
     <programme start="20250320130000 +0000" stop="20250320133000 +0000" channel="ATN">
@@ -29868,37 +29886,34 @@
     <programme start="20250320153000 +0000" stop="20250320160000 +0000" channel="ATN">
         <title>Quran Tilawat</title>
     </programme>
-    <programme start="20250320160000 +0000" stop="20250320161400 +0000" channel="ATN">
+    <programme start="20250320160000 +0000" stop="20250320161600 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250320161400 +0000" stop="20250320161900 +0000" channel="ATN">
+    <programme start="20250320161600 +0000" stop="20250320162100 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250320161900 +0000" stop="20250320163000 +0000" channel="ATN">
+    <programme start="20250320162100 +0000" stop="20250320163000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250320163000 +0000" stop="20250320170000 +0000" channel="ATN">
         <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250320170000 +0000" stop="20250320181500 +0000" channel="ATN">
+    <programme start="20250320170000 +0000" stop="20250320181700 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250320181500 +0000" stop="20250320181800 +0000" channel="ATN">
+    <programme start="20250320181700 +0000" stop="20250320182000 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250320181800 +0000" stop="20250320183600 +0000" channel="ATN">
+    <programme start="20250320182000 +0000" stop="20250320183800 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250320183600 +0000" stop="20250320193500 +0000" channel="ATN">
+    <programme start="20250320183800 +0000" stop="20250320193700 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250320193500 +0000" stop="20250320194000 +0000" channel="ATN">
+    <programme start="20250320193700 +0000" stop="20250320194200 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250320194000 +0000" stop="20250320235800 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250320235800 +0000" stop="20250321005800 +0000" channel="ATN">
+    <programme start="20250320194200 +0000" stop="20250320204200 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250319223000 +0000" stop="20250319230000 +0000" channel="NTV">
