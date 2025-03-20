@@ -3675,7 +3675,10 @@
     <programme start="20250320043000 +0000" stop="20250320050000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="Food Network">
+    <programme start="20250320050000 +0000" stop="20250320053000 +0000" channel="Food Network">
+        <title>Teleshopping</title>
+    </programme>
+    <programme start="20250320053000 +0000" stop="20250320060000 +0000" channel="Food Network">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="Food Network">
@@ -12888,11 +12891,14 @@
     <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="SkySpMainEvHD">
         <title>Live DP World Tour Golf</title>
     </programme>
-    <programme start="20250320060000 +0000" stop="20250320100000 +0000" channel="SkySpMainEvHD">
-        <title>Live DP World Tour Golf</title>
+    <programme start="20250320060000 +0000" stop="20250320070000 +0000" channel="SkySpMainEvHD">
+        <title>Sky Sports News</title>
     </programme>
-    <programme start="20250320100000 +0000" stop="20250320110000 +0000" channel="SkySpMainEvHD">
-        <title>The Football Show</title>
+    <programme start="20250320070000 +0000" stop="20250320090000 +0000" channel="SkySpMainEvHD">
+        <title>Good Morning Sports Fans</title>
+    </programme>
+    <programme start="20250320090000 +0000" stop="20250320110000 +0000" channel="SkySpMainEvHD">
+        <title>Live NRL Rnd 3: Storm v Panthers</title>
     </programme>
     <programme start="20250320110000 +0000" stop="20250320113000 +0000" channel="SkySpMainEvHD">
         <title>The Football Show</title>
@@ -18201,11 +18207,14 @@
     <programme start="20250320173000 +0000" stop="20250320180000 +0000" channel="EWTN Catholic">
         <title>Prayer: Be Renewed!</title>
     </programme>
-    <programme start="20250320180000 +0000" stop="20250320190000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+    <programme start="20250320180000 +0000" stop="20250320183000 +0000" channel="EWTN Catholic">
+        <title>Path to Rome: St Paul's Captivity Epistles</title>
     </programme>
-    <programme start="20250320190000 +0000" stop="20250320193000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
+    <programme start="20250320183000 +0000" stop="20250320191500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250320191500 +0000" stop="20250320193000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250320193000 +0000" stop="20250320200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
@@ -30205,13 +30214,13 @@
         <title>Quran Recitation</title>
     </programme>
     <programme start="20250320160000 +0000" stop="20250320161600 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250320161600 +0000" stop="20250320162100 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250320162100 +0000" stop="20250320165900 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250320165900 +0000" stop="20250320181700 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
