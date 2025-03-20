@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250320165000 +0000" stop="20250320191000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Nations League - Turkiye v Hungary</title>
-    </programme>
-    <programme start="20250320165000 +0000" stop="20250320191000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Armenia v Georgia</title>
-    </programme>
     <programme start="20250320193500 +0000" stop="20250320215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Italy v Germany</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Nottingham Forest v Manchester United</title>
+    </programme>
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Tokyo Verdy v FC Tokyo</title>
+    </programme>
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Nagoya v Yokohama FM</title>
     </programme>
 </tv>
