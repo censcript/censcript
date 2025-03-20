@@ -12870,9 +12870,6 @@
     <programme start="20250320220000 +0000" stop="20250320230000 +0000" channel="That's Melody">
         <title>Mellow Melody</title>
     </programme>
-    <programme start="20250319150000 +0000" stop="20250319230000 +0000" channel="SkySpMainEvHD">
-        <title>Live Tennis: Miami</title>
-    </programme>
     <programme start="20250319230000 +0000" stop="20250320030000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Miami</title>
     </programme>
@@ -13439,9 +13436,6 @@
     </programme>
     <programme start="20250320233000 +0000" stop="20250321003000 +0000" channel="SkySp F1 HD">
         <title>Toleman Story</title>
-    </programme>
-    <programme start="20250319150000 +0000" stop="20250319230000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: Miami</title>
     </programme>
     <programme start="20250319230000 +0000" stop="20250320030000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Miami</title>
@@ -27553,25 +27547,25 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250320200500 +0000" stop="20250320210000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>Live Telethon Penny Appeal</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250320210500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250320210500 +0000" stop="20250320220000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Live Telethon Penny Appeal</title>
     </programme>
     <programme start="20250320220000 +0000" stop="20250320220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250320220500 +0000" stop="20250320230000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Live Telethon Penny Appeal</title>
     </programme>
     <programme start="20250320230000 +0000" stop="20250320230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250320230500 +0000" stop="20250321000500 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Live Telethon Penny Appeal</title>
     </programme>
     <programme start="20250319194000 +0000" stop="20250320000000 +0000" channel="Islam Channel">
         <title>Alkhidmat Welfare Live Appeal</title>
