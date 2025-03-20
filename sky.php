@@ -27460,25 +27460,25 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250321200500 +0000" stop="20250321210000 +0000" channel="New Vision TV">
-        <title>The Reporters</title>
+        <title>KORT Live Telethon</title>
     </programme>
     <programme start="20250321210000 +0000" stop="20250321210500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250321210500 +0000" stop="20250321220000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>KORT Live Telethon</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250321220500 +0000" stop="20250321230000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>KORT Live Telethon</title>
     </programme>
     <programme start="20250321230000 +0000" stop="20250321230500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250321230500 +0000" stop="20250322000500 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai</title>
+        <title>KORT Live Telethon</title>
     </programme>
     <programme start="20250320194200 +0000" stop="20250321000000 +0000" channel="Islam Channel">
         <title>Action For Humanity Appeal</title>
@@ -27763,7 +27763,7 @@
         <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250320230000 +0000" stop="20250320231200 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250320231200 +0000" stop="20250321000000 +0000" channel="IQRA TV">
         <title>LIVE Ramadan Appeal</title>

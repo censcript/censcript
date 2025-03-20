@@ -60,13 +60,13 @@
     <programme start="20250323115000 +0000" stop="20250323141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250323125000 +0000" stop="20250323161000 +0000" channel="Optus Sport 12.optus">
+    <programme start="20250323125000 +0000" stop="20250323161000 +0000" channel="Optus Sport 207.optus">
         <title>N/A - Bayern Munich v Hoffenheim</title>
     </programme>
     <programme start="20250323135000 +0000" stop="20250323171000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Georgia v Armenia</title>
     </programme>
-    <programme start="20250323142000 +0000" stop="20250323174000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250323142000 +0000" stop="20250323174000 +0000" channel="Optus Sport 206.optus">
         <title>N/A - Hamburg v Werder Bremen</title>
     </programme>
     <programme start="20250323142000 +0000" stop="20250323164000 +0000" channel="Optus Sport 8.optus">
@@ -78,16 +78,16 @@
     <programme start="20250323162000 +0000" stop="20250323184000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Aston Villa v Manchester United</title>
     </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 12.optus">
         <title>UEFA Nations League - Scotland v Greece</title>
     </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA Nations League - Serbia v Austria</title>
     </programme>
     <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Nations League - Hungary v Turkiye</title>
     </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 8.optus">
         <title>UEFA Nations League - Slovenia v Slovakia</title>
     </programme>
     <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 6.optus">
@@ -108,7 +108,7 @@
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA Nations League - Belgium v Ukraine</title>
     </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
