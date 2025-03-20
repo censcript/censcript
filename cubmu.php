@@ -288,72 +288,9 @@
     <programme start="20250320160000 +0000" stop="20250319171500 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Newsroom</title>
     </programme>
-    <programme start="20250319170000 +0000" stop="20250319190000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20250319190000 +0000" stop="20250319193000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250319193000 +0000" stop="20250319200000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250319200000 +0000" stop="20250319203000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250319203000 +0000" stop="20250319210000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Editor&#039;s View</title>
-    </programme>
-    <programme start="20250319210000 +0000" stop="20250319223000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250319223000 +0000" stop="20250319230000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Number&#039;s Bite</title>
-    </programme>
-    <programme start="20250319230000 +0000" stop="20250319233000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
-    </programme>
-    <programme start="20250319233000 +0000" stop="20250320003000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Property Point</title>
-    </programme>
-    <programme start="20250320003000 +0000" stop="20250320010000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250320010000 +0000" stop="20250320030000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box - Live</title>
-    </programme>
-    <programme start="20250320030000 +0000" stop="20250320045500 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Profit - Live</title>
-    </programme>
-    <programme start="20250320045500 +0000" stop="20250320070000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Power Lunch - Live</title>
-    </programme>
-    <programme start="20250320070000 +0000" stop="20250320073000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Managing Asia</title>
-    </programme>
-    <programme start="20250320073000 +0000" stop="20250320080000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>CNBC Indonesia Exclusive</title>
-    </programme>
-    <programme start="20250320080000 +0000" stop="20250320100000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Closing Bell - Live</title>
-    </programme>
-    <programme start="20250320100000 +0000" stop="20250320110500 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Evening Up - Live</title>
-    </programme>
-    <programme start="20250320110500 +0000" stop="20250320120000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Nation Hub - Live</title>
-    </programme>
-    <programme start="20250320120000 +0000" stop="20250320123000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Cuap Cuap Cuan</title>
-    </programme>
-    <programme start="20250320123000 +0000" stop="20250320130000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Energy Corner</title>
-    </programme>
-    <programme start="20250320130000 +0000" stop="20250320150000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Squawk Box</title>
-    </programme>
-    <programme start="20250320150000 +0000" stop="20250319170000 +0000" channel="CNBC Indonesia.cubmu">
-        <title>Profit</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be4b82c758dc -->
     <programme start="20250319170000 +0000" stop="20250319183000 +0000" channel="Bioskop Indonesia.cubmu">
         <title>Tersengat Cinta Sepeda Listrik</title>
     </programme>
@@ -1626,48 +1563,9 @@
     <programme start="20250320163000 +0000" stop="20250319170500 +0000" channel="MetroTV.cubmu">
         <title>Realitas</title>
     </programme>
-    <programme start="20250319170000 +0000" stop="20250319180000 +0000" channel="GTV.cubmu">
-        <title>Buletin iNews Malam</title>
-    </programme>
-    <programme start="20250319180000 +0000" stop="20250319190000 +0000" channel="GTV.cubmu">
-        <title>Golok Pembunuh Naga</title>
-    </programme>
-    <programme start="20250319190000 +0000" stop="20250319220000 +0000" channel="GTV.cubmu">
-        <title>Big Movies Platinum</title>
-    </programme>
-    <programme start="20250319220000 +0000" stop="20250319223000 +0000" channel="GTV.cubmu">
-        <title>KV +62</title>
-    </programme>
-    <programme start="20250319223000 +0000" stop="20250319230000 +0000" channel="GTV.cubmu">
-        <title>Bestie</title>
-    </programme>
-    <programme start="20250319230000 +0000" stop="20250320003000 +0000" channel="GTV.cubmu">
-        <title>CoComelon</title>
-    </programme>
-    <programme start="20250320003000 +0000" stop="20250320020000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250320020000 +0000" stop="20250320033000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250320033000 +0000" stop="20250320060000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250320060000 +0000" stop="20250320073000 +0000" channel="GTV.cubmu">
-        <title>SpongeBob SquarePants Movie</title>
-    </programme>
-    <programme start="20250320073000 +0000" stop="20250320111000 +0000" channel="GTV.cubmu">
-        <title>AFC Asian Qual.: AUS Vs IDN</title>
-    </programme>
-    <programme start="20250320111000 +0000" stop="20250320133000 +0000" channel="GTV.cubmu">
-        <title>Kisah Viral Specta</title>
-    </programme>
-    <programme start="20250320133000 +0000" stop="20250320150000 +0000" channel="GTV.cubmu">
-        <title>Big Movies Platinum</title>
-    </programme>
-    <programme start="20250320150000 +0000" stop="20250319170000 +0000" channel="GTV.cubmu">
-        <title>Big Movies Platinum</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be52f87b58f2 -->
     <programme start="20250319173000 +0000" stop="20250319190000 +0000" channel="ANTV.cubmu">
         <title>Mega Bollywood : Shakti The Power</title>
     </programme>
@@ -2106,108 +2004,9 @@
     <programme start="20250320163000 +0000" stop="20250319173000 +0000" channel="MNC TV.cubmu">
         <title>Kejarlah Daku Kau Kutangkap</title>
     </programme>
-    <programme start="20250319170000 +0000" stop="20250319173000 +0000" channel="TVRI.cubmu">
-        <title>Monitor Olahraga</title>
-    </programme>
-    <programme start="20250319173000 +0000" stop="20250319193000 +0000" channel="TVRI.cubmu">
-        <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250319193000 +0000" stop="20250319203000 +0000" channel="TVRI.cubmu">
-        <title>Marbot Ali</title>
-    </programme>
-    <programme start="20250319203000 +0000" stop="20250319213000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250319213000 +0000" stop="20250319230000 +0000" channel="TVRI.cubmu">
-        <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250319230000 +0000" stop="20250320000000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Pagi</title>
-    </programme>
-    <programme start="20250320000000 +0000" stop="20250320010000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Negeri</title>
-    </programme>
-    <programme start="20250320010000 +0000" stop="20250320020000 +0000" channel="TVRI.cubmu">
-        <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250320020000 +0000" stop="20250320020300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250320020300 +0000" stop="20250320023000 +0000" channel="TVRI.cubmu">
-        <title>Mari Menggambar</title>
-    </programme>
-    <programme start="20250320023000 +0000" stop="20250320030000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250320030000 +0000" stop="20250320030300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250320030300 +0000" stop="20250320033000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250320033000 +0000" stop="20250320040000 +0000" channel="TVRI.cubmu">
-        <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250320040000 +0000" stop="20250320040300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250320040300 +0000" stop="20250320050000 +0000" channel="TVRI.cubmu">
-        <title>Seblak Show</title>
-    </programme>
-    <programme start="20250320050000 +0000" stop="20250320060000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250320060000 +0000" stop="20250320063000 +0000" channel="TVRI.cubmu">
-        <title>Saba Desa</title>
-    </programme>
-    <programme start="20250320063000 +0000" stop="20250320070000 +0000" channel="TVRI.cubmu">
-        <title>Ayo Bertani</title>
-    </programme>
-    <programme start="20250320070000 +0000" stop="20250320070300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250320070300 +0000" stop="20250320073000 +0000" channel="TVRI.cubmu">
-        <title>Pesona Indonesia</title>
-    </programme>
-    <programme start="20250320073000 +0000" stop="20250320080000 +0000" channel="TVRI.cubmu">
-        <title>Inspirasi Indonesia</title>
-    </programme>
-    <programme start="20250320080000 +0000" stop="20250320080300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250320080300 +0000" stop="20250320083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Budha</title>
-    </programme>
-    <programme start="20250320083000 +0000" stop="20250320090000 +0000" channel="TVRI.cubmu">
-        <title>Jelajah Negeri</title>
-    </programme>
-    <programme start="20250320090000 +0000" stop="20250320100000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250320100000 +0000" stop="20250320110000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Rumah Kita Reborn</title>
-    </programme>
-    <programme start="20250320110000 +0000" stop="20250320120000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Petang</title>
-    </programme>
-    <programme start="20250320120000 +0000" stop="20250320130000 +0000" channel="TVRI.cubmu">
-        <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250320130000 +0000" stop="20250320140000 +0000" channel="TVRI.cubmu">
-        <title>Bunga Khatulistiwa</title>
-    </programme>
-    <programme start="20250320140000 +0000" stop="20250320143000 +0000" channel="TVRI.cubmu">
-        <title>Dunia Dalam Berita</title>
-    </programme>
-    <programme start="20250320143000 +0000" stop="20250320153000 +0000" channel="TVRI.cubmu">
-        <title>Irama Gambus</title>
-    </programme>
-    <programme start="20250320153000 +0000" stop="20250320163000 +0000" channel="TVRI.cubmu">
-        <title>Menjemput RidhoMu</title>
-    </programme>
-    <programme start="20250320163000 +0000" stop="20250319170000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Malam</title>
-    </programme>
+
+Warning: Trying to access array offset on value of type null in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/cubmu.php on line 68
+<!-- Failed to retrieve data for channel_id: 4028c68574537fcd0174be6135dc5905 -->
     <programme start="20250319170500 +0000" stop="20250319170800 +0000" channel="jtv.cubmu">
         <title>Station ID JTV</title>
     </programme>
