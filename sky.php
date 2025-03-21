@@ -1695,16 +1695,16 @@
     <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="ITV3 HD">
         <title>A Touch of Frost</title>
     </programme>
-    <programme start="20250321184500 +0000" stop="20250321231500 +0000" channel="ITV4 HD">
+    <programme start="20250321184500 +0000" stop="20250321230500 +0000" channel="ITV4 HD">
         <title>Snooker: Players Championship</title>
     </programme>
-    <programme start="20250321231500 +0000" stop="20250322011000 +0000" channel="ITV4 HD">
+    <programme start="20250321230500 +0000" stop="20250322010500 +0000" channel="ITV4 HD">
         <title>All Elite Wrestling: Dynamite</title>
     </programme>
-    <programme start="20250322011000 +0000" stop="20250322021000 +0000" channel="ITV4 HD">
-        <title>Minder</title>
+    <programme start="20250322010500 +0000" stop="20250322020000 +0000" channel="ITV4 HD">
+        <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250322021000 +0000" stop="20250322023500 +0000" channel="ITV4 HD">
+    <programme start="20250322020000 +0000" stop="20250322023500 +0000" channel="ITV4 HD">
         <title>Auto Mundial</title>
     </programme>
     <programme start="20250322023500 +0000" stop="20250322030000 +0000" channel="ITV4 HD">
@@ -8103,16 +8103,16 @@
     <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="ITV3+1">
         <title>Vera</title>
     </programme>
-    <programme start="20250321194500 +0000" stop="20250322021000 +0000" channel="ITV4+1">
+    <programme start="20250321194500 +0000" stop="20250322000500 +0000" channel="ITV4+1">
         <title>Snooker: Players Championship</title>
     </programme>
-    <programme start="20250322021000 +0000" stop="20250322021500 +0000" channel="ITV4+1">
-        <title>Minder</title>
+    <programme start="20250322000500 +0000" stop="20250322020500 +0000" channel="ITV4+1">
+        <title>All Elite Wrestling: Dynamite</title>
     </programme>
-    <programme start="20250322021500 +0000" stop="20250322031000 +0000" channel="ITV4+1">
+    <programme start="20250322020500 +0000" stop="20250322030000 +0000" channel="ITV4+1">
         <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250322031000 +0000" stop="20250322033500 +0000" channel="ITV4+1">
+    <programme start="20250322030000 +0000" stop="20250322033500 +0000" channel="ITV4+1">
         <title>Auto Mundial</title>
     </programme>
     <programme start="20250322033500 +0000" stop="20250322040000 +0000" channel="ITV4+1">
@@ -28080,7 +28080,10 @@
     <programme start="20250321234000 +0000" stop="20250322013000 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250322013000 +0000" stop="20250322042000 +0000" channel="ARY Digital">
+    <programme start="20250322013000 +0000" stop="20250322020000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250322020000 +0000" stop="20250322042000 +0000" channel="ARY Digital">
         <title>Shan-e-Sehr</title>
     </programme>
     <programme start="20250322042000 +0000" stop="20250322042800 +0000" channel="ARY Digital">
@@ -29095,10 +29098,10 @@
         <title>Prophet Story</title>
     </programme>
     <programme start="20250322080000 +0000" stop="20250322090000 +0000" channel="ATN">
-        <title>Mubarak Ho Mahe Ramadan</title>
+        <title>Tomake Vebe</title>
     </programme>
     <programme start="20250322090000 +0000" stop="20250322100000 +0000" channel="ATN">
-        <title>Porir Moto Bou</title>
+        <title>Bibaho Impossible</title>
     </programme>
     <programme start="20250322100000 +0000" stop="20250322103000 +0000" channel="ATN">
         <title>ATN News</title>
@@ -29115,19 +29118,19 @@
     <programme start="20250322113000 +0000" stop="20250322120000 +0000" channel="ATN">
         <title>Jhotpot Iftar</title>
     </programme>
-    <programme start="20250322120000 +0000" stop="20250322123000 +0000" channel="ATN">
+    <programme start="20250322120000 +0000" stop="20250322121200 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250322123000 +0000" stop="20250322130000 +0000" channel="ATN">
-        <title>Hamd O Nath</title>
-    </programme>
-    <programme start="20250322130000 +0000" stop="20250322131500 +0000" channel="ATN">
-        <title>Talimul Quran</title>
-    </programme>
-    <programme start="20250322131500 +0000" stop="20250322132000 +0000" channel="ATN">
+    <programme start="20250322121200 +0000" stop="20250322121500 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250322132000 +0000" stop="20250322133000 +0000" channel="ATN">
+    <programme start="20250322121500 +0000" stop="20250322125500 +0000" channel="ATN">
+        <title>Hamd O Nath</title>
+    </programme>
+    <programme start="20250322125500 +0000" stop="20250322130000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250322130000 +0000" stop="20250322133000 +0000" channel="ATN">
         <title>Talimul Quran</title>
     </programme>
     <programme start="20250322133000 +0000" stop="20250322135000 +0000" channel="ATN">
@@ -29145,37 +29148,40 @@
     <programme start="20250322153000 +0000" stop="20250322160000 +0000" channel="ATN">
         <title>Quran Tilawat</title>
     </programme>
-    <programme start="20250322160000 +0000" stop="20250322161000 +0000" channel="ATN">
+    <programme start="20250322160000 +0000" stop="20250322161900 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250322161000 +0000" stop="20250322161500 +0000" channel="ATN">
+    <programme start="20250322161900 +0000" stop="20250322162400 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250322161500 +0000" stop="20250322164500 +0000" channel="ATN">
+    <programme start="20250322162400 +0000" stop="20250322163000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250322164500 +0000" stop="20250322170000 +0000" channel="ATN">
+    <programme start="20250322163000 +0000" stop="20250322170000 +0000" channel="ATN">
         <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250322170000 +0000" stop="20250322180900 +0000" channel="ATN">
+    <programme start="20250322170000 +0000" stop="20250322182000 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250322180900 +0000" stop="20250322181200 +0000" channel="ATN">
+    <programme start="20250322182000 +0000" stop="20250322182500 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250322181200 +0000" stop="20250322183000 +0000" channel="ATN">
+    <programme start="20250322182500 +0000" stop="20250322183000 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250322183000 +0000" stop="20250322192500 +0000" channel="ATN">
+    <programme start="20250322183000 +0000" stop="20250322193900 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250322192500 +0000" stop="20250322193000 +0000" channel="ATN">
+    <programme start="20250322193900 +0000" stop="20250322194400 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250322193000 +0000" stop="20250322234800 +0000" channel="ATN">
+    <programme start="20250322194400 +0000" stop="20250322203000 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
-    <programme start="20250322234800 +0000" stop="20250323004800 +0000" channel="ATN">
+    <programme start="20250322203000 +0000" stop="20250322210000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250322210000 +0000" stop="20250322220000 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250321223000 +0000" stop="20250321230000 +0000" channel="NTV">
