@@ -15780,8 +15780,11 @@
     <programme start="20250321150000 +0000" stop="20250321153000 +0000" channel="NDTV World">
         <title>The Last Word</title>
     </programme>
-    <programme start="20250321153000 +0000" stop="20250321163000 +0000" channel="NDTV World">
+    <programme start="20250321153000 +0000" stop="20250321160000 +0000" channel="NDTV World">
         <title>The Big Fight</title>
+    </programme>
+    <programme start="20250321160000 +0000" stop="20250321163000 +0000" channel="NDTV World">
+        <title>India Through The Eyes of Its Icons - Sudha Murty</title>
     </programme>
     <programme start="20250321163000 +0000" stop="20250321173000 +0000" channel="NDTV World">
         <title>The 10 O'Clock News</title>
