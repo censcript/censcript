@@ -27807,13 +27807,13 @@
     <programme start="20250321042700 +0000" stop="20250321060000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250321060000 +0000" stop="20250321064000 +0000" channel="IQRA TV">
+    <programme start="20250321060000 +0000" stop="20250321063500 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250321064000 +0000" stop="20250321073500 +0000" channel="IQRA TV">
+    <programme start="20250321063500 +0000" stop="20250321073000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250321073500 +0000" stop="20250321081500 +0000" channel="IQRA TV">
+    <programme start="20250321073000 +0000" stop="20250321081500 +0000" channel="IQRA TV">
         <title>Surah Kahf</title>
     </programme>
     <programme start="20250321081500 +0000" stop="20250321084500 +0000" channel="IQRA TV">
@@ -28065,10 +28065,10 @@
     <programme start="20250321220000 +0000" stop="20250321230000 +0000" channel="Islam TV">
         <title>Live Tahajjud from Makkaah</title>
     </programme>
-    <programme start="20250321230000 +0000" stop="20250321233000 +0000" channel="Islam TV">
+    <programme start="20250321230000 +0000" stop="20250321231500 +0000" channel="Islam TV">
         <title>Live Tahajjud from Makkaah</title>
     </programme>
-    <programme start="20250321233000 +0000" stop="20250321234000 +0000" channel="Islam TV">
+    <programme start="20250321231500 +0000" stop="20250321234000 +0000" channel="Islam TV">
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250321234000 +0000" stop="20250322004000 +0000" channel="Islam TV">
@@ -29649,67 +29649,79 @@
     <programme start="20250321050000 +0000" stop="20250321060000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250321060000 +0000" stop="20250321075000 +0000" channel="IQRA Bangla">
-        <title>Live Transmission from Madina</title>
+    <programme start="20250321060000 +0000" stop="20250321063000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250321075000 +0000" stop="20250321080000 +0000" channel="IQRA Bangla">
+    <programme start="20250321063000 +0000" stop="20250321073000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250321073000 +0000" stop="20250321080000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Bazar</title>
+    </programme>
+    <programme start="20250321080000 +0000" stop="20250321081000 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
+    </programme>
+    <programme start="20250321081000 +0000" stop="20250321082000 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
+    </programme>
+    <programme start="20250321082000 +0000" stop="20250321083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250321080000 +0000" stop="20250321090000 +0000" channel="IQRA Bangla">
+    <programme start="20250321083000 +0000" stop="20250321100000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
+    </programme>
+    <programme start="20250321100000 +0000" stop="20250321110000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250321110000 +0000" stop="20250321113000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Bazar</title>
+    </programme>
+    <programme start="20250321113000 +0000" stop="20250321121300 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250321090000 +0000" stop="20250321100000 +0000" channel="IQRA Bangla">
-        <title>LIVE Jumu'ah from Madinah</title>
-    </programme>
-    <programme start="20250321100000 +0000" stop="20250321103000 +0000" channel="IQRA Bangla">
-        <title>Moshq-e- Tilawat</title>
-    </programme>
-    <programme start="20250321103000 +0000" stop="20250321110000 +0000" channel="IQRA Bangla">
-        <title>Islamic Stories</title>
-    </programme>
-    <programme start="20250321110000 +0000" stop="20250321121800 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
+    <programme start="20250321121300 +0000" stop="20250321121800 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Zuhr</title>
     </programme>
     <programme start="20250321121800 +0000" stop="20250321123000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Jummah</title>
+        <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250321123000 +0000" stop="20250321130000 +0000" channel="IQRA Bangla">
-        <title>Jumu'ah Khutbah from ELM</title>
-    </programme>
-    <programme start="20250321130000 +0000" stop="20250321133000 +0000" channel="IQRA Bangla">
-        <title>Sribhumir Pothe</title>
-    </programme>
-    <programme start="20250321133000 +0000" stop="20250321140000 +0000" channel="IQRA Bangla">
-        <title>Al-Khair Feedback</title>
+    <programme start="20250321123000 +0000" stop="20250321140000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321150000 +0000" channel="IQRA Bangla">
-        <title>Sister's View</title>
+        <title>Ramadan Discussion</title>
     </programme>
-    <programme start="20250321150000 +0000" stop="20250321154700 +0000" channel="IQRA Bangla">
-        <title>Islamer Shikkha</title>
+    <programme start="20250321150000 +0000" stop="20250321153000 +0000" channel="IQRA Bangla">
+        <title>Ahalan Sahalan Mahe Ramadan</title>
     </programme>
-    <programme start="20250321154700 +0000" stop="20250321160000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250321160000 +0000" stop="20250321163000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
-    </programme>
-    <programme start="20250321163000 +0000" stop="20250321174300 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250321174300 +0000" stop="20250321180000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250321180000 +0000" stop="20250321183000 +0000" channel="IQRA Bangla">
-        <title>Our Masjid</title>
-    </programme>
-    <programme start="20250321183000 +0000" stop="20250321191000 +0000" channel="IQRA Bangla">
+    <programme start="20250321153000 +0000" stop="20250321161800 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250321191000 +0000" stop="20250321191500 +0000" channel="IQRA Bangla">
+    <programme start="20250321161800 +0000" stop="20250321162300 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250321162300 +0000" stop="20250321181900 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250321181900 +0000" stop="20250321182700 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Magrib</title>
+    </programme>
+    <programme start="20250321182700 +0000" stop="20250321183300 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
+    </programme>
+    <programme start="20250321183300 +0000" stop="20250321183800 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
+    </programme>
+    <programme start="20250321183800 +0000" stop="20250321184200 +0000" channel="IQRA Bangla">
+        <title>Ramadan tips</title>
+    </programme>
+    <programme start="20250321184200 +0000" stop="20250321193800 +0000" channel="IQRA Bangla">
+        <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250321193800 +0000" stop="20250321194300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250321191500 +0000" stop="20250321201500 +0000" channel="IQRA Bangla">
+    <programme start="20250321194300 +0000" stop="20250321204300 +0000" channel="IQRA Bangla">
         <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250320210000 +0000" stop="20250321000000 +0000" channel="ATN">
@@ -29869,31 +29881,31 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250321083000 +0000" stop="20250321090000 +0000" channel="NTV">
-        <title>Ma Baba Bhai Bon</title>
+        <title>Kafelar Canvas</title>
     </programme>
     <programme start="20250321090000 +0000" stop="20250321093000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
-    <programme start="20250321093000 +0000" stop="20250321103000 +0000" channel="NTV">
-        <title>Property Show with Kazi Arif</title>
+    <programme start="20250321093000 +0000" stop="20250321120000 +0000" channel="NTV">
+        <title>Khodar Pore Maa</title>
     </programme>
-    <programme start="20250321103000 +0000" stop="20250321110000 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250321110000 +0000" stop="20250321120000 +0000" channel="NTV">
-        <title>Guloi</title>
-    </programme>
-    <programme start="20250321120000 +0000" stop="20250321121900 +0000" channel="NTV">
+    <programme start="20250321120000 +0000" stop="20250321121300 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250321121900 +0000" stop="20250321122400 +0000" channel="NTV">
+    <programme start="20250321121300 +0000" stop="20250321121800 +0000" channel="NTV">
         <title>Adhan-e-Jumuah</title>
     </programme>
-    <programme start="20250321122400 +0000" stop="20250321123000 +0000" channel="NTV">
+    <programme start="20250321121800 +0000" stop="20250321123000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250321123000 +0000" stop="20250321140000 +0000" channel="NTV">
-        <title>Guloi</title>
+    <programme start="20250321123000 +0000" stop="20250321130000 +0000" channel="NTV">
+        <title>Khodar Pore Maa</title>
+    </programme>
+    <programme start="20250321130000 +0000" stop="20250321133000 +0000" channel="NTV">
+        <title>Seeratunnabi</title>
+    </programme>
+    <programme start="20250321133000 +0000" stop="20250321140000 +0000" channel="NTV">
+        <title>Taroka Konthe Al Quran</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -29901,53 +29913,50 @@
     <programme start="20250321143000 +0000" stop="20250321150000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250321150000 +0000" stop="20250321153600 +0000" channel="NTV">
-        <title>Onuragh</title>
+    <programme start="20250321150000 +0000" stop="20250321153000 +0000" channel="NTV">
+        <title>Virtues Of Ramadan</title>
     </programme>
-    <programme start="20250321153600 +0000" stop="20250321154100 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250321154100 +0000" stop="20250321163000 +0000" channel="NTV">
-        <title>Onuragh</title>
-    </programme>
-    <programme start="20250321163000 +0000" stop="20250321170000 +0000" channel="NTV">
+    <programme start="20250321153000 +0000" stop="20250321160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250321170000 +0000" stop="20250321173000 +0000" channel="NTV">
-        <title>Dorsay Hadis</title>
+    <programme start="20250321160000 +0000" stop="20250321161800 +0000" channel="NTV">
+        <title>Quraner Alo</title>
     </programme>
-    <programme start="20250321173000 +0000" stop="20250321173500 +0000" channel="NTV">
+    <programme start="20250321161800 +0000" stop="20250321162300 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
+    <programme start="20250321162300 +0000" stop="20250321170000 +0000" channel="NTV">
+        <title>Quraner Alo</title>
+    </programme>
+    <programme start="20250321170000 +0000" stop="20250321181900 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
+    </programme>
+    <programme start="20250321181900 +0000" stop="20250321182400 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250321173500 +0000" stop="20250321185800 +0000" channel="NTV">
-        <title>Jibon Jiggasha with NTV</title>
+    <programme start="20250321182400 +0000" stop="20250321193800 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250321185800 +0000" stop="20250321190000 +0000" channel="NTV">
+    <programme start="20250321193800 +0000" stop="20250321194300 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250321190000 +0000" stop="20250321191500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
+    <programme start="20250321194300 +0000" stop="20250321201300 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250321191500 +0000" stop="20250321200000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
+    <programme start="20250321201300 +0000" stop="20250321210800 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
-    <programme start="20250321200000 +0000" stop="20250321210000 +0000" channel="NTV">
-        <title>Law and Legal Aid</title>
-    </programme>
-    <programme start="20250321210000 +0000" stop="20250321213000 +0000" channel="NTV">
-        <title>Quran Onnesha</title>
-    </programme>
-    <programme start="20250321213000 +0000" stop="20250321220000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
+    <programme start="20250321210800 +0000" stop="20250321220000 +0000" channel="NTV">
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321223000 +0000" channel="NTV">
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250321223000 +0000" stop="20250321230000 +0000" channel="NTV">
-        <title>Probashi Poribar</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250321230000 +0000" stop="20250322000000 +0000" channel="NTV">
-        <title>Bhalo Hoye Jaw</title>
+        <title>Live Charity Appeal</title>
     </programme>
     <programme start="20250320195000 +0000" stop="20250321015000 +0000" channel="TV One">
         <title>Live charity with UKIM</title>
