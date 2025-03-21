@@ -36676,7 +36676,7 @@
         <title>Chiles on Friday</title>
     </programme>
     <programme start="20250321130000 +0000" stop="20250321140000 +0000" channel="BBC R5L">
-        <title>Elis James and John Robins</title>
+        <title>Elis James and John Robins - Tuesday Podcast</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321160000 +0000" channel="BBC R5L">
         <title>Matt Chorley</title>
