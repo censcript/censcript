@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - England v Albania</title>
-    </programme>
-    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - Andorra v Latvia</title>
-    </programme>
-    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Romania v Bosnia-Herzegovina</title>
-    </programme>
-    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Poland v Lithuania</title>
-    </programme>
-    <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Malta v Finland</title>
-    </programme>
     <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Angel City FC</title>
     </programme>
@@ -299,5 +284,20 @@
     </programme>
     <programme start="20250402185000 +0000" stop="20250402211000 +0000" channel="Optus Sport 7.optus">
         <title>Premier League - Liverpool v Everton</title>
+    </programme>
+    <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250403180000 +0000" stop="20250403220000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Thursday Morning</title>
+    </programme>
+    <programme start="20250403183000 +0000" stop="20250403213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Chelsea v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250403233000 +0000" stop="20250404003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250404010000 +0000" stop="20250404013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
     </programme>
 </tv>
