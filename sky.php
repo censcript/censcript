@@ -24040,13 +24040,13 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250321110000 +0000" stop="20250321120000 +0000" channel="QVC Beauty">
-        <title>skinSense by Abi Cleeve</title>
+        <title>Alison Young: SPF</title>
     </programme>
     <programme start="20250321120000 +0000" stop="20250321130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250321130000 +0000" stop="20250321140000 +0000" channel="QVC Beauty">
-        <title>L'Occitane: Beauty En Provence</title>
+        <title>Big Brand Cosmetics</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321150000 +0000" channel="QVC Beauty">
         <title>Elemis Skin Therapies</title>
@@ -24073,7 +24073,7 @@
         <title>Alison Young: SPF</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321230000 +0000" channel="QVC Beauty">
-        <title>Alison Young: Collagen</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250321230000 +0000" stop="20250322000000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
@@ -24787,7 +24787,7 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321230000 +0000" channel="QVC Extra">
-        <title>Garden to Table: Farm Shop</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250321230000 +0000" stop="20250322000000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -28632,10 +28632,10 @@
     <programme start="20250321120000 +0000" stop="20250321121300 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250321121300 +0000" stop="20250321122100 +0000" channel="Eman Channel">
+    <programme start="20250321121300 +0000" stop="20250321122300 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250321122100 +0000" stop="20250321133000 +0000" channel="Eman Channel">
+    <programme start="20250321122300 +0000" stop="20250321133000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
     <programme start="20250321133000 +0000" stop="20250321134500 +0000" channel="Eman Channel">
@@ -28677,13 +28677,13 @@
     <programme start="20250321173000 +0000" stop="20250321181900 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250321181900 +0000" stop="20250321182800 +0000" channel="Eman Channel">
+    <programme start="20250321181900 +0000" stop="20250321182700 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250321182800 +0000" stop="20250321184500 +0000" channel="Eman Channel">
+    <programme start="20250321182700 +0000" stop="20250321184400 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250321184500 +0000" stop="20250321193800 +0000" channel="Eman Channel">
+    <programme start="20250321184400 +0000" stop="20250321193800 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250321193800 +0000" stop="20250321194500 +0000" channel="Eman Channel">
@@ -34128,11 +34128,8 @@
     <programme start="20250321113000 +0000" stop="20250321133000 +0000" channel="TNTSports4 HD">
         <title>Live Freestyle Skiing World Champs</title>
     </programme>
-    <programme start="20250321133000 +0000" stop="20250321150000 +0000" channel="TNTSports4 HD">
+    <programme start="20250321133000 +0000" stop="20250321151500 +0000" channel="TNTSports4 HD">
         <title>Live Freestyle Skiing World Champs</title>
-    </programme>
-    <programme start="20250321150000 +0000" stop="20250321151500 +0000" channel="TNTSports4 HD">
-        <title>MotoGP Rewind: Argentina 2025</title>
     </programme>
     <programme start="20250321151500 +0000" stop="20250321154500 +0000" channel="TNTSports4 HD">
         <title>Discovery Golf</title>
