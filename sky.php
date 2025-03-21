@@ -14020,7 +14020,7 @@
         <title>Live: Cycling Pro Series - Men</title>
     </programme>
     <programme start="20250321164500 +0000" stop="20250321171500 +0000" channel="TNT Sports 3">
-        <title>Cycling Pro Series - Men</title>
+        <title>NBA Action</title>
     </programme>
     <programme start="20250321171500 +0000" stop="20250321184500 +0000" channel="TNT Sports 3">
         <title>NBA: Bucks @ Lakers</title>
@@ -14041,7 +14041,7 @@
         <title>Tom Aspinall's Fight Lab - London</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321223000 +0000" channel="TNT Sports 3">
-        <title>Cycling Pro Series - Men</title>
+        <title>WRC - Safari Kenya</title>
     </programme>
     <programme start="20250321223000 +0000" stop="20250321224500 +0000" channel="TNT Sports 3">
         <title>UEFA Europa League Goals Reload</title>
@@ -15316,7 +15316,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250321073000 +0000" stop="20250321080000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250321080000 +0000" stop="20250321081500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15379,7 +15379,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250321133000 +0000" stop="20250321140000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321141500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15439,7 +15439,7 @@
         <title>Medical Frontiers</title>
     </programme>
     <programme start="20250321193000 +0000" stop="20250321200000 +0000" channel="NHK World HD">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250321200000 +0000" stop="20250321201800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -18177,11 +18177,14 @@
     <programme start="20250321173000 +0000" stop="20250321180000 +0000" channel="EWTN Catholic">
         <title>Prayer: Be Renewed!</title>
     </programme>
-    <programme start="20250321180000 +0000" stop="20250321190000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+    <programme start="20250321180000 +0000" stop="20250321183000 +0000" channel="EWTN Catholic">
+        <title>Path to Rome: St Paul's Captivity Epistles</title>
     </programme>
-    <programme start="20250321190000 +0000" stop="20250321193000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
+    <programme start="20250321183000 +0000" stop="20250321191500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250321191500 +0000" stop="20250321193000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250321193000 +0000" stop="20250321200000 +0000" channel="EWTN Catholic">
         <title>Women of Grace</title>
@@ -34042,7 +34045,7 @@
         <title>Live: Cycling Pro Series - Men</title>
     </programme>
     <programme start="20250321164500 +0000" stop="20250321171500 +0000" channel="TNTSports3 HD">
-        <title>Cycling Pro Series - Men</title>
+        <title>NBA Action</title>
     </programme>
     <programme start="20250321171500 +0000" stop="20250321184500 +0000" channel="TNTSports3 HD">
         <title>NBA: Bucks @ Lakers</title>
@@ -34063,7 +34066,7 @@
         <title>Tom Aspinall's Fight Lab - London</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250321223000 +0000" channel="TNTSports3 HD">
-        <title>Cycling Pro Series - Men</title>
+        <title>WRC - Safari Kenya</title>
     </programme>
     <programme start="20250321223000 +0000" stop="20250321224500 +0000" channel="TNTSports3 HD">
         <title>UEFA Europa League Goals Reload</title>
