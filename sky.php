@@ -27825,10 +27825,10 @@
     <programme start="20250321090000 +0000" stop="20250321093000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250321093000 +0000" stop="20250321100000 +0000" channel="IQRA TV">
+    <programme start="20250321093000 +0000" stop="20250321101300 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250321100000 +0000" stop="20250321110000 +0000" channel="IQRA TV">
+    <programme start="20250321101300 +0000" stop="20250321110000 +0000" channel="IQRA TV">
         <title>Paigham e Ramadan</title>
     </programme>
     <programme start="20250321110000 +0000" stop="20250321110500 +0000" channel="IQRA TV">
@@ -30091,7 +30091,7 @@
         <title>iON News Time.</title>
     </programme>
     <programme start="20250321063000 +0000" stop="20250321070000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250321070000 +0000" stop="20250321080000 +0000" channel="iON TV">
         <title>Forty Hadiths</title>
@@ -30106,7 +30106,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250321103000 +0000" stop="20250321110000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250321110000 +0000" stop="20250321120000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
@@ -30124,7 +30124,7 @@
         <title>iON News Time</title>
     </programme>
     <programme start="20250321133000 +0000" stop="20250321140000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250321140000 +0000" stop="20250321150000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
