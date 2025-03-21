@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250321165000 +0000" stop="20250321191000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Cyprus v San Marino</title>
-    </programme>
     <programme start="20250321193500 +0000" stop="20250321215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - England v Albania</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Bournemouth v Ipswich</title>
+    </programme>
+    <programme start="20250402185000 +0000" stop="20250402211000 +0000" channel="Optus Sport 7.optus">
+        <title>Premier League - Liverpool v Everton</title>
     </programme>
 </tv>
