@@ -12945,14 +12945,17 @@
     <programme start="20250323040000 +0000" stop="20250323060000 +0000" channel="SkySp Golf HD">
         <title>Live DP World Tour Golf</title>
     </programme>
-    <programme start="20250323060000 +0000" stop="20250323100000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="SkySp Golf HD">
         <title>Live DP World Tour Golf</title>
     </programme>
-    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323070000 +0000" stop="20250323073000 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="SkySp Golf HD">
-        <title>UnFiltered At The Rolex Series</title>
+    <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="SkySp Golf HD">
+        <title>Women's Asian Amateur C'Ship Hlts</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323110000 +0000" channel="SkySp Golf HD">
+        <title>Porsche Singapore Classic Day 4</title>
     </programme>
     <programme start="20250323110000 +0000" stop="20250323111500 +0000" channel="SkySp Golf HD">
         <title>My Ryder Cup - Phillip Price</title>

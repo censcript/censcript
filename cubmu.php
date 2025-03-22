@@ -849,6 +849,66 @@
     <programme start="20250323150000 +0000" stop="20250322170000 +0000" channel="rtv.cubmu">
         <title>Operasi Trisula</title>
     </programme>
+    <programme start="20250322170000 +0000" stop="20250322181500 +0000" channel="MDTV.cubmu">
+        <title>The Penthouse 1</title>
+    </programme>
+    <programme start="20250322181500 +0000" stop="20250322193000 +0000" channel="MDTV.cubmu">
+        <title>Makan Enak</title>
+    </programme>
+    <programme start="20250322193000 +0000" stop="20250322213500 +0000" channel="MDTV.cubmu">
+        <title>Ini Baru Sahur</title>
+    </programme>
+    <programme start="20250322213500 +0000" stop="20250322223000 +0000" channel="MDTV.cubmu">
+        <title>Janda Kembang</title>
+    </programme>
+    <programme start="20250322223000 +0000" stop="20250322230000 +0000" channel="MDTV.cubmu">
+        <title>Keajaiban Dunia</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="MDTV.cubmu">
+        <title>Top Spot</title>
+    </programme>
+    <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="MDTV.cubmu">
+        <title>AADD - Ada Apa Dengan Dunia Spesial Ramadan</title>
+    </programme>
+    <programme start="20250323010000 +0000" stop="20250323020000 +0000" channel="MDTV.cubmu">
+        <title>Fakta +62 Weekend</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323030000 +0000" channel="MDTV.cubmu">
+        <title>New Sensasihot</title>
+    </programme>
+    <programme start="20250323030000 +0000" stop="20250323043000 +0000" channel="MDTV.cubmu">
+        <title>Cahaya Cinta</title>
+    </programme>
+    <programme start="20250323043000 +0000" stop="20250323053000 +0000" channel="MDTV.cubmu">
+        <title>Makan Enak</title>
+    </programme>
+    <programme start="20250323053000 +0000" stop="20250323063000 +0000" channel="MDTV.cubmu">
+        <title>Masak Gesss!!! Spesial Ramadan</title>
+    </programme>
+    <programme start="20250323063000 +0000" stop="20250323073000 +0000" channel="MDTV.cubmu">
+        <title>Seru-Seruan</title>
+    </programme>
+    <programme start="20250323073000 +0000" stop="20250323083000 +0000" channel="MDTV.cubmu">
+        <title>AADD - Ada Apa Dengan Dunia</title>
+    </programme>
+    <programme start="20250323083000 +0000" stop="20250323093000 +0000" channel="MDTV.cubmu">
+        <title>Adit Sopo Jarwo</title>
+    </programme>
+    <programme start="20250323093000 +0000" stop="20250323110000 +0000" channel="MDTV.cubmu">
+        <title>Cinta Fitri S2</title>
+    </programme>
+    <programme start="20250323110000 +0000" stop="20250323122000 +0000" channel="MDTV.cubmu">
+        <title>MD Entertainment Series: Samuel</title>
+    </programme>
+    <programme start="20250323122000 +0000" stop="20250323134000 +0000" channel="MDTV.cubmu">
+        <title>MD Entertainment Series: Cinta Cinderella</title>
+    </programme>
+    <programme start="20250323134000 +0000" stop="20250323150000 +0000" channel="MDTV.cubmu">
+        <title>MD Entertainment Series: Terlanjur Indah</title>
+    </programme>
+    <programme start="20250323150000 +0000" stop="20250322170000 +0000" channel="MDTV.cubmu">
+        <title>MDTV Sinema: Dignitate</title>
+    </programme>
     <programme start="20250322170200 +0000" stop="20250322171430 +0000" channel="Cartoon TV Premium.cubmu">
         <title>Om Nom Stories</title>
     </programme>
@@ -2238,8 +2298,44 @@
     <programme start="20250322170000 +0000" stop="20250322173000 +0000" channel="TVRI.cubmu">
         <title>Monitor Olahraga</title>
     </programme>
+    <programme start="20250322170000 +0000" stop="20250322173000 +0000" channel="TVRI.cubmu">
+        <title>Monitor Olahraga</title>
+    </programme>
+    <programme start="20250322170000 +0000" stop="20250322173000 +0000" channel="TVRI.cubmu">
+        <title>Monitor Olahraga</title>
+    </programme>
+    <programme start="20250322170000 +0000" stop="20250322173000 +0000" channel="TVRI.cubmu">
+        <title>Monitor Olahraga</title>
+    </programme>
+    <programme start="20250322170000 +0000" stop="20250322173000 +0000" channel="TVRI.cubmu">
+        <title>Monitor Olahraga</title>
+    </programme>
     <programme start="20250322173000 +0000" stop="20250322193000 +0000" channel="TVRI.cubmu">
         <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250322173000 +0000" stop="20250322193000 +0000" channel="TVRI.cubmu">
+        <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250322173000 +0000" stop="20250322193000 +0000" channel="TVRI.cubmu">
+        <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250322173000 +0000" stop="20250322193000 +0000" channel="TVRI.cubmu">
+        <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250322173000 +0000" stop="20250322193000 +0000" channel="TVRI.cubmu">
+        <title>Antar Gelanggang</title>
+    </programme>
+    <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="TVRI.cubmu">
+        <title>Marbot Ali</title>
+    </programme>
+    <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="TVRI.cubmu">
+        <title>Marbot Ali</title>
+    </programme>
+    <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="TVRI.cubmu">
+        <title>Marbot Ali</title>
+    </programme>
+    <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="TVRI.cubmu">
+        <title>Marbot Ali</title>
     </programme>
     <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="TVRI.cubmu">
         <title>Marbot Ali</title>
@@ -2247,8 +2343,44 @@
     <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="TVRI.cubmu">
         <title>Urban Street</title>
     </programme>
+    <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="TVRI.cubmu">
+        <title>Urban Street</title>
+    </programme>
+    <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="TVRI.cubmu">
+        <title>Urban Street</title>
+    </programme>
+    <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="TVRI.cubmu">
+        <title>Urban Street</title>
+    </programme>
+    <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="TVRI.cubmu">
+        <title>Urban Street</title>
+    </programme>
     <programme start="20250322213000 +0000" stop="20250322230000 +0000" channel="TVRI.cubmu">
         <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250322213000 +0000" stop="20250322230000 +0000" channel="TVRI.cubmu">
+        <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250322213000 +0000" stop="20250322230000 +0000" channel="TVRI.cubmu">
+        <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250322213000 +0000" stop="20250322230000 +0000" channel="TVRI.cubmu">
+        <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250322213000 +0000" stop="20250322230000 +0000" channel="TVRI.cubmu">
+        <title>Serambi Islami</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Pagi</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Pagi</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Pagi</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Pagi</title>
     </programme>
     <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Pagi</title>
@@ -2256,8 +2388,44 @@
     <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="TVRI.cubmu">
         <title>Jendela Negeri</title>
     </programme>
+    <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Negeri</title>
+    </programme>
+    <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Negeri</title>
+    </programme>
+    <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Negeri</title>
+    </programme>
+    <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="TVRI.cubmu">
+        <title>Jendela Negeri</title>
+    </programme>
     <programme start="20250323010000 +0000" stop="20250323013000 +0000" channel="TVRI.cubmu">
         <title>Sehari Bersama</title>
+    </programme>
+    <programme start="20250323010000 +0000" stop="20250323013000 +0000" channel="TVRI.cubmu">
+        <title>Sehari Bersama</title>
+    </programme>
+    <programme start="20250323010000 +0000" stop="20250323013000 +0000" channel="TVRI.cubmu">
+        <title>Sehari Bersama</title>
+    </programme>
+    <programme start="20250323010000 +0000" stop="20250323013000 +0000" channel="TVRI.cubmu">
+        <title>Sehari Bersama</title>
+    </programme>
+    <programme start="20250323010000 +0000" stop="20250323013000 +0000" channel="TVRI.cubmu">
+        <title>Sehari Bersama</title>
+    </programme>
+    <programme start="20250323013000 +0000" stop="20250323020000 +0000" channel="TVRI.cubmu">
+        <title>Anak Indonesia</title>
+    </programme>
+    <programme start="20250323013000 +0000" stop="20250323020000 +0000" channel="TVRI.cubmu">
+        <title>Anak Indonesia</title>
+    </programme>
+    <programme start="20250323013000 +0000" stop="20250323020000 +0000" channel="TVRI.cubmu">
+        <title>Anak Indonesia</title>
+    </programme>
+    <programme start="20250323013000 +0000" stop="20250323020000 +0000" channel="TVRI.cubmu">
+        <title>Anak Indonesia</title>
     </programme>
     <programme start="20250323013000 +0000" stop="20250323020000 +0000" channel="TVRI.cubmu">
         <title>Anak Indonesia</title>
@@ -2265,8 +2433,44 @@
     <programme start="20250323020000 +0000" stop="20250323020300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
     </programme>
+    <programme start="20250323020000 +0000" stop="20250323020300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323020300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323020300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323020000 +0000" stop="20250323020300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
     <programme start="20250323020300 +0000" stop="20250323023000 +0000" channel="TVRI.cubmu">
         <title>Ayo Ke Museum</title>
+    </programme>
+    <programme start="20250323020300 +0000" stop="20250323023000 +0000" channel="TVRI.cubmu">
+        <title>Ayo Ke Museum</title>
+    </programme>
+    <programme start="20250323020300 +0000" stop="20250323023000 +0000" channel="TVRI.cubmu">
+        <title>Ayo Ke Museum</title>
+    </programme>
+    <programme start="20250323020300 +0000" stop="20250323023000 +0000" channel="TVRI.cubmu">
+        <title>Ayo Ke Museum</title>
+    </programme>
+    <programme start="20250323020300 +0000" stop="20250323023000 +0000" channel="TVRI.cubmu">
+        <title>Ayo Ke Museum</title>
+    </programme>
+    <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="TVRI.cubmu">
+        <title>Netting</title>
+    </programme>
+    <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="TVRI.cubmu">
+        <title>Netting</title>
+    </programme>
+    <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="TVRI.cubmu">
+        <title>Netting</title>
+    </programme>
+    <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="TVRI.cubmu">
+        <title>Netting</title>
     </programme>
     <programme start="20250323023000 +0000" stop="20250323030000 +0000" channel="TVRI.cubmu">
         <title>Netting</title>
@@ -2274,8 +2478,44 @@
     <programme start="20250323030000 +0000" stop="20250323030300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
     </programme>
+    <programme start="20250323030000 +0000" stop="20250323030300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323030000 +0000" stop="20250323030300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323030000 +0000" stop="20250323030300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323030000 +0000" stop="20250323030300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
     <programme start="20250323030300 +0000" stop="20250323033000 +0000" channel="TVRI.cubmu">
         <title>The Greatest of All Time</title>
+    </programme>
+    <programme start="20250323030300 +0000" stop="20250323033000 +0000" channel="TVRI.cubmu">
+        <title>The Greatest of All Time</title>
+    </programme>
+    <programme start="20250323030300 +0000" stop="20250323033000 +0000" channel="TVRI.cubmu">
+        <title>The Greatest of All Time</title>
+    </programme>
+    <programme start="20250323030300 +0000" stop="20250323033000 +0000" channel="TVRI.cubmu">
+        <title>The Greatest of All Time</title>
+    </programme>
+    <programme start="20250323030300 +0000" stop="20250323033000 +0000" channel="TVRI.cubmu">
+        <title>The Greatest of All Time</title>
+    </programme>
+    <programme start="20250323033000 +0000" stop="20250323040000 +0000" channel="TVRI.cubmu">
+        <title>Berburu Rasa</title>
+    </programme>
+    <programme start="20250323033000 +0000" stop="20250323040000 +0000" channel="TVRI.cubmu">
+        <title>Berburu Rasa</title>
+    </programme>
+    <programme start="20250323033000 +0000" stop="20250323040000 +0000" channel="TVRI.cubmu">
+        <title>Berburu Rasa</title>
+    </programme>
+    <programme start="20250323033000 +0000" stop="20250323040000 +0000" channel="TVRI.cubmu">
+        <title>Berburu Rasa</title>
     </programme>
     <programme start="20250323033000 +0000" stop="20250323040000 +0000" channel="TVRI.cubmu">
         <title>Berburu Rasa</title>
@@ -2283,8 +2523,44 @@
     <programme start="20250323040000 +0000" stop="20250323040300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
     </programme>
+    <programme start="20250323040000 +0000" stop="20250323040300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323040000 +0000" stop="20250323040300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323040000 +0000" stop="20250323040300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323040000 +0000" stop="20250323040300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
     <programme start="20250323040300 +0000" stop="20250323050000 +0000" channel="TVRI.cubmu">
         <title>Minggu Misa</title>
+    </programme>
+    <programme start="20250323040300 +0000" stop="20250323050000 +0000" channel="TVRI.cubmu">
+        <title>Minggu Misa</title>
+    </programme>
+    <programme start="20250323040300 +0000" stop="20250323050000 +0000" channel="TVRI.cubmu">
+        <title>Minggu Misa</title>
+    </programme>
+    <programme start="20250323040300 +0000" stop="20250323050000 +0000" channel="TVRI.cubmu">
+        <title>Minggu Misa</title>
+    </programme>
+    <programme start="20250323040300 +0000" stop="20250323050000 +0000" channel="TVRI.cubmu">
+        <title>Minggu Misa</title>
+    </programme>
+    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Siang</title>
+    </programme>
+    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Siang</title>
+    </programme>
+    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Siang</title>
+    </programme>
+    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Siang</title>
     </programme>
     <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Siang</title>
@@ -2292,8 +2568,44 @@
     <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TVRI.cubmu">
         <title>Kajian Islami</title>
     </programme>
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TVRI.cubmu">
+        <title>Kajian Islami</title>
+    </programme>
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TVRI.cubmu">
+        <title>Kajian Islami</title>
+    </programme>
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TVRI.cubmu">
+        <title>Kajian Islami</title>
+    </programme>
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TVRI.cubmu">
+        <title>Kajian Islami</title>
+    </programme>
     <programme start="20250323070000 +0000" stop="20250323070300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323070300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323070300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323070300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323070300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323070300 +0000" stop="20250323073000 +0000" channel="TVRI.cubmu">
+        <title>Pesona Indonesia</title>
+    </programme>
+    <programme start="20250323070300 +0000" stop="20250323073000 +0000" channel="TVRI.cubmu">
+        <title>Pesona Indonesia</title>
+    </programme>
+    <programme start="20250323070300 +0000" stop="20250323073000 +0000" channel="TVRI.cubmu">
+        <title>Pesona Indonesia</title>
+    </programme>
+    <programme start="20250323070300 +0000" stop="20250323073000 +0000" channel="TVRI.cubmu">
+        <title>Pesona Indonesia</title>
     </programme>
     <programme start="20250323070300 +0000" stop="20250323073000 +0000" channel="TVRI.cubmu">
         <title>Pesona Indonesia</title>
@@ -2301,8 +2613,44 @@
     <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="TVRI.cubmu">
         <title>Inspirasi Indonesia</title>
     </programme>
+    <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="TVRI.cubmu">
+        <title>Inspirasi Indonesia</title>
+    </programme>
+    <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="TVRI.cubmu">
+        <title>Inspirasi Indonesia</title>
+    </programme>
+    <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="TVRI.cubmu">
+        <title>Inspirasi Indonesia</title>
+    </programme>
+    <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="TVRI.cubmu">
+        <title>Inspirasi Indonesia</title>
+    </programme>
     <programme start="20250323080000 +0000" stop="20250323080300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323080300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323080300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323080300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323080300 +0000" channel="TVRI.cubmu">
+        <title>Info Terkini</title>
+    </programme>
+    <programme start="20250323080300 +0000" stop="20250323090000 +0000" channel="TVRI.cubmu">
+        <title>Buah Hatiku Sayang</title>
+    </programme>
+    <programme start="20250323080300 +0000" stop="20250323090000 +0000" channel="TVRI.cubmu">
+        <title>Buah Hatiku Sayang</title>
+    </programme>
+    <programme start="20250323080300 +0000" stop="20250323090000 +0000" channel="TVRI.cubmu">
+        <title>Buah Hatiku Sayang</title>
+    </programme>
+    <programme start="20250323080300 +0000" stop="20250323090000 +0000" channel="TVRI.cubmu">
+        <title>Buah Hatiku Sayang</title>
     </programme>
     <programme start="20250323080300 +0000" stop="20250323090000 +0000" channel="TVRI.cubmu">
         <title>Buah Hatiku Sayang</title>
@@ -2310,8 +2658,44 @@
     <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="TVRI.cubmu">
         <title>Rest Area</title>
     </programme>
+    <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="TVRI.cubmu">
+        <title>Rest Area</title>
+    </programme>
+    <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="TVRI.cubmu">
+        <title>Rest Area</title>
+    </programme>
+    <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="TVRI.cubmu">
+        <title>Rest Area</title>
+    </programme>
+    <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="TVRI.cubmu">
+        <title>Rest Area</title>
+    </programme>
     <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="TVRI.cubmu">
         <title>Creative Talk</title>
+    </programme>
+    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="TVRI.cubmu">
+        <title>Creative Talk</title>
+    </programme>
+    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="TVRI.cubmu">
+        <title>Creative Talk</title>
+    </programme>
+    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="TVRI.cubmu">
+        <title>Creative Talk</title>
+    </programme>
+    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="TVRI.cubmu">
+        <title>Creative Talk</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="TVRI.cubmu">
+        <title>Jadi Tahu</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="TVRI.cubmu">
+        <title>Jadi Tahu</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="TVRI.cubmu">
+        <title>Jadi Tahu</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="TVRI.cubmu">
+        <title>Jadi Tahu</title>
     </programme>
     <programme start="20250323103000 +0000" stop="20250323110000 +0000" channel="TVRI.cubmu">
         <title>Jadi Tahu</title>
@@ -2319,8 +2703,44 @@
     <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Petang</title>
     </programme>
+    <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Petang</title>
+    </programme>
+    <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Petang</title>
+    </programme>
+    <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Petang</title>
+    </programme>
+    <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Petang</title>
+    </programme>
     <programme start="20250323120000 +0000" stop="20250323123000 +0000" channel="TVRI.cubmu">
         <title>Indonesia Raya Jelajah Sains</title>
+    </programme>
+    <programme start="20250323120000 +0000" stop="20250323123000 +0000" channel="TVRI.cubmu">
+        <title>Indonesia Raya Jelajah Sains</title>
+    </programme>
+    <programme start="20250323120000 +0000" stop="20250323123000 +0000" channel="TVRI.cubmu">
+        <title>Indonesia Raya Jelajah Sains</title>
+    </programme>
+    <programme start="20250323120000 +0000" stop="20250323123000 +0000" channel="TVRI.cubmu">
+        <title>Indonesia Raya Jelajah Sains</title>
+    </programme>
+    <programme start="20250323120000 +0000" stop="20250323123000 +0000" channel="TVRI.cubmu">
+        <title>Indonesia Raya Jelajah Sains</title>
+    </programme>
+    <programme start="20250323123000 +0000" stop="20250323140000 +0000" channel="TVRI.cubmu">
+        <title>Rumah Musik Indonesia</title>
+    </programme>
+    <programme start="20250323123000 +0000" stop="20250323140000 +0000" channel="TVRI.cubmu">
+        <title>Rumah Musik Indonesia</title>
+    </programme>
+    <programme start="20250323123000 +0000" stop="20250323140000 +0000" channel="TVRI.cubmu">
+        <title>Rumah Musik Indonesia</title>
+    </programme>
+    <programme start="20250323123000 +0000" stop="20250323140000 +0000" channel="TVRI.cubmu">
+        <title>Rumah Musik Indonesia</title>
     </programme>
     <programme start="20250323123000 +0000" stop="20250323140000 +0000" channel="TVRI.cubmu">
         <title>Rumah Musik Indonesia</title>
@@ -2328,11 +2748,59 @@
     <programme start="20250323140000 +0000" stop="20250323143000 +0000" channel="TVRI.cubmu">
         <title>Dunia Dalam Berita</title>
     </programme>
+    <programme start="20250323140000 +0000" stop="20250323143000 +0000" channel="TVRI.cubmu">
+        <title>Dunia Dalam Berita</title>
+    </programme>
+    <programme start="20250323140000 +0000" stop="20250323143000 +0000" channel="TVRI.cubmu">
+        <title>Dunia Dalam Berita</title>
+    </programme>
+    <programme start="20250323140000 +0000" stop="20250323143000 +0000" channel="TVRI.cubmu">
+        <title>Dunia Dalam Berita</title>
+    </programme>
+    <programme start="20250323140000 +0000" stop="20250323143000 +0000" channel="TVRI.cubmu">
+        <title>Dunia Dalam Berita</title>
+    </programme>
+    <programme start="20250323143000 +0000" stop="20250323150000 +0000" channel="TVRI.cubmu">
+        <title>VOA Reportase Weekend</title>
+    </programme>
+    <programme start="20250323143000 +0000" stop="20250323150000 +0000" channel="TVRI.cubmu">
+        <title>VOA Reportase Weekend</title>
+    </programme>
+    <programme start="20250323143000 +0000" stop="20250323150000 +0000" channel="TVRI.cubmu">
+        <title>VOA Reportase Weekend</title>
+    </programme>
+    <programme start="20250323143000 +0000" stop="20250323150000 +0000" channel="TVRI.cubmu">
+        <title>VOA Reportase Weekend</title>
+    </programme>
     <programme start="20250323143000 +0000" stop="20250323150000 +0000" channel="TVRI.cubmu">
         <title>VOA Reportase Weekend</title>
     </programme>
     <programme start="20250323150000 +0000" stop="20250323163000 +0000" channel="TVRI.cubmu">
         <title>Kethoprak Milenial</title>
+    </programme>
+    <programme start="20250323150000 +0000" stop="20250323163000 +0000" channel="TVRI.cubmu">
+        <title>Kethoprak Milenial</title>
+    </programme>
+    <programme start="20250323150000 +0000" stop="20250323163000 +0000" channel="TVRI.cubmu">
+        <title>Kethoprak Milenial</title>
+    </programme>
+    <programme start="20250323150000 +0000" stop="20250323163000 +0000" channel="TVRI.cubmu">
+        <title>Kethoprak Milenial</title>
+    </programme>
+    <programme start="20250323150000 +0000" stop="20250323163000 +0000" channel="TVRI.cubmu">
+        <title>Kethoprak Milenial</title>
+    </programme>
+    <programme start="20250323163000 +0000" stop="20250322170000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20250323163000 +0000" stop="20250322170000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20250323163000 +0000" stop="20250322170000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Malam</title>
+    </programme>
+    <programme start="20250323163000 +0000" stop="20250322170000 +0000" channel="TVRI.cubmu">
+        <title>Klik Indonesia Malam</title>
     </programme>
     <programme start="20250323163000 +0000" stop="20250322170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>

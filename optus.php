@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250322165000 +0000" stop="20250322191000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Montenegro v Gibraltar</title>
-    </programme>
-    <programme start="20250322165000 +0000" stop="20250322191000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Moldova v Norway</title>
-    </programme>
     <programme start="20250322172000 +0000" stop="20250322194000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Arsenal v Liverpool</title>
     </programme>
@@ -299,5 +293,8 @@
     </programme>
     <programme start="20250404170000 +0000" stop="20250404180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250405135000 +0000" stop="20250405162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>
