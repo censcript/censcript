@@ -16423,10 +16423,10 @@
         <title>WION Fineprint</title>
     </programme>
     <programme start="20250321233000 +0000" stop="20250322000000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250322000000 +0000" stop="20250322003000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250322003000 +0000" stop="20250322010000 +0000" channel="WION HD">
         <title>WION Pulse</title>
@@ -16474,7 +16474,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250322080000 +0000" stop="20250322083000 +0000" channel="WION HD">
-        <title>Dharavi Dreams</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250322083000 +0000" stop="20250322090000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16492,7 +16492,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250322110000 +0000" stop="20250322113000 +0000" channel="WION HD">
-        <title>WION Business Masters</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250322113000 +0000" stop="20250322120000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16510,7 +16510,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250322140000 +0000" stop="20250322143000 +0000" channel="WION HD">
-        <title>Inside South Asia</title>
+        <title>Token Money Magnet</title>
     </programme>
     <programme start="20250322143000 +0000" stop="20250322150000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -17697,11 +17697,14 @@
     <programme start="20250322173000 +0000" stop="20250322180000 +0000" channel="EWTN Catholic">
         <title>Cross Training</title>
     </programme>
-    <programme start="20250322180000 +0000" stop="20250322190000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+    <programme start="20250322180000 +0000" stop="20250322183000 +0000" channel="EWTN Catholic">
+        <title>Path to Rome: St Paul's Captivity Epistles</title>
     </programme>
-    <programme start="20250322190000 +0000" stop="20250322193000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
+    <programme start="20250322183000 +0000" stop="20250322191500 +0000" channel="EWTN Catholic">
+        <title>Rosary For Pope Francis</title>
+    </programme>
+    <programme start="20250322191500 +0000" stop="20250322193000 +0000" channel="EWTN Catholic">
+        <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250322193000 +0000" stop="20250322200000 +0000" channel="EWTN Catholic">
         <title>Children's Rosary</title>
