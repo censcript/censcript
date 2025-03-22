@@ -12333,9 +12333,6 @@
     <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="NOW 70s">
         <title>Love Is In The Air! 1970-1979</title>
     </programme>
-    <programme start="20250321130000 +0000" stop="20250321233000 +0000" channel="NOW 80s">
-        <title>Gary Davies: Video Hall of Fame!</title>
-    </programme>
     <programme start="20250321233000 +0000" stop="20250322000000 +0000" channel="NOW 80s">
         <title>Get Fresh at the Weekend!</title>
     </programme>
@@ -27265,13 +27262,13 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250322130500 +0000" stop="20250322140000 +0000" channel="IQRA TV">
-        <title>Ramadan Appeal</title>
+        <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250322140000 +0000" stop="20250322140500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250322140500 +0000" stop="20250322150000 +0000" channel="IQRA TV">
-        <title>Ramadan Appeal</title>
+        <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250322150000 +0000" stop="20250322151200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
