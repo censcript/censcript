@@ -36703,7 +36703,7 @@
         <title>Smooth Sanctuary</title>
     </programme>
     <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="Smooth">
-        <title>Smooth Late Show</title>
+        <title>Simon Clarke</title>
     </programme>
     <programme start="20250321220000 +0000" stop="20250322000000 +0000" channel="Panjab Radio">
         <title>Panjab Radio</title>
