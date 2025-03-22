@@ -28446,7 +28446,10 @@
     <programme start="20250322190000 +0000" stop="20250322193000 +0000" channel="Sangat">
         <title>S. Baghel Singh Delhi Fateh</title>
     </programme>
-    <programme start="20250322193000 +0000" stop="20250322203000 +0000" channel="Sangat">
+    <programme start="20250322193000 +0000" stop="20250322200000 +0000" channel="Sangat">
+        <title>Jyoti Saroop</title>
+    </programme>
+    <programme start="20250322200000 +0000" stop="20250322203000 +0000" channel="Sangat">
         <title>Nishan Sahib</title>
     </programme>
     <programme start="20250322203000 +0000" stop="20250322213000 +0000" channel="Sangat">
