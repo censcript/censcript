@@ -12939,10 +12939,10 @@
     <programme start="20250322233000 +0000" stop="20250323000000 +0000" channel="SkySp Golf HD">
         <title>Playing Lessons: Max Homa Part 2</title>
     </programme>
-    <programme start="20250323000000 +0000" stop="20250323050000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323000000 +0000" stop="20250323040000 +0000" channel="SkySp Golf HD">
         <title>Live Ladies European Tour Golf</title>
     </programme>
-    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323040000 +0000" stop="20250323060000 +0000" channel="SkySp Golf HD">
         <title>Live DP World Tour Golf</title>
     </programme>
     <programme start="20250323060000 +0000" stop="20250323100000 +0000" channel="SkySp Golf HD">
@@ -23107,73 +23107,73 @@
         <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250323000000 +0000" stop="20250323010000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323010000 +0000" stop="20250323020000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323020000 +0000" stop="20250323030000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323030000 +0000" stop="20250323040000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323040000 +0000" stop="20250323050000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323070000 +0000" stop="20250323080000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323080000 +0000" stop="20250323090000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323090000 +0000" stop="20250323110000 +0000" channel="QVC HD">
-        <title>Michael Perry's Garden</title>
+        <title>Michael Perry's Garden on Free Delivery</title>
     </programme>
     <programme start="20250323110000 +0000" stop="20250323120000 +0000" channel="QVC HD">
-        <title>Liz Earle Superskin Saviours</title>
+        <title>Liz Earle Superskin on Free Delivery</title>
     </programme>
     <programme start="20250323120000 +0000" stop="20250323130000 +0000" channel="QVC HD">
-        <title>New Season Plants2Gardens</title>
+        <title>Free Delivery Plants2Gardens</title>
     </programme>
     <programme start="20250323130000 +0000" stop="20250323140000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323140000 +0000" stop="20250323150000 +0000" channel="QVC HD">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Garden Deals on Free Delivery</title>
     </programme>
     <programme start="20250323150000 +0000" stop="20250323160000 +0000" channel="QVC HD">
-        <title>Seasonal Spring Style</title>
+        <title>Fashion Finds: Free Delivery</title>
     </programme>
     <programme start="20250323160000 +0000" stop="20250323170000 +0000" channel="QVC HD">
-        <title>Beauty Showcase with Liz Earle</title>
+        <title>Beauty Free Delivery Deals</title>
     </programme>
     <programme start="20250323170000 +0000" stop="20250323180000 +0000" channel="QVC HD">
-        <title>Laura Geller Make-up</title>
+        <title>Free Delivery Laura Geller</title>
     </programme>
     <programme start="20250323180000 +0000" stop="20250323190000 +0000" channel="QVC HD">
-        <title>Vionic Footwear</title>
+        <title>Free Delivery Vionic Footwear</title>
     </programme>
     <programme start="20250323190000 +0000" stop="20250323200000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Free Delivery Liz Earle</title>
     </programme>
     <programme start="20250323200000 +0000" stop="20250323210000 +0000" channel="QVC HD">
-        <title>Accessories by Kipling</title>
+        <title>Kipling on Free Delivery</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250323220000 +0000" channel="QVC HD">
         <title>Spring Treats with Hotel Chocolat</title>
     </programme>
     <programme start="20250323220000 +0000" stop="20250323230000 +0000" channel="QVC HD">
-        <title>Liz Earle Naturally Active</title>
+        <title>Beauty Free Delivery Finale</title>
     </programme>
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="QVC HD">
-        <title>Offers End Today</title>
+        <title>Free Delivery Ends Today!</title>
     </programme>
     <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="MstHveIdeasHD">
         <title>Feel Good Finds</title>
@@ -23344,7 +23344,7 @@
         <title>Margaret Dabbs London</title>
     </programme>
     <programme start="20250323020000 +0000" stop="20250323030000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>The Fragrance Hall</title>
     </programme>
     <programme start="20250323030000 +0000" stop="20250323040000 +0000" channel="QVC Beauty">
         <title>Health &amp; Wellbeing</title>
@@ -23437,7 +23437,7 @@
         <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323070000 +0000" stop="20250323080000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323080000 +0000" stop="20250323090000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -23455,16 +23455,16 @@
         <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323130000 +0000" stop="20250323140000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323140000 +0000" stop="20250323150000 +0000" channel="QVC Style HD">
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250323150000 +0000" stop="20250323160000 +0000" channel="QVC Style HD">
-        <title>Plants2Gardens</title>
+        <title>Free Delivery Plants2Gardens</title>
     </programme>
     <programme start="20250323160000 +0000" stop="20250323170000 +0000" channel="QVC Style HD">
-        <title>Garden Furniture Deals</title>
+        <title>Garden &amp; DIY on Free Delivery</title>
     </programme>
     <programme start="20250323170000 +0000" stop="20250323180000 +0000" channel="QVC Style HD">
         <title>Afternoon Style with Katy</title>
@@ -23473,7 +23473,7 @@
         <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323190000 +0000" stop="20250323200000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Spring Layering</title>
     </programme>
     <programme start="20250323200000 +0000" stop="20250323210000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday with Julia</title>
@@ -26476,7 +26476,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250323090500 +0000" stop="20250323100000 +0000" channel="GEO News">
-        <title>Jirga</title>
+        <title>Geo Sports</title>
     </programme>
     <programme start="20250323100000 +0000" stop="20250323100500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
