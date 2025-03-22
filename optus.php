@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250322135000 +0000" stop="20250322161000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Liechtenstein v North Macedonia</title>
-    </programme>
-    <programme start="20250322135500 +0000" stop="20250322161000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Everton v Crystal Palace</title>
-    </programme>
     <programme start="20250322165000 +0000" stop="20250322191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Montenegro v Gibraltar</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250404153000 +0000" stop="20250404160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250404170000 +0000" stop="20250404180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
 </tv>
