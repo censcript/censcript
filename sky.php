@@ -12966,16 +12966,13 @@
     <programme start="20250322100000 +0000" stop="20250322103000 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250322103000 +0000" stop="20250322110000 +0000" channel="SkySp Golf HD">
+    <programme start="20250322103000 +0000" stop="20250322110001 +0000" channel="SkySp Golf HD">
         <title>Women's Asian Amateur C'Ship Hlts</title>
     </programme>
-    <programme start="20250322110000 +0000" stop="20250322111500 +0000" channel="SkySp Golf HD">
-        <title>My Ryder Cup - Colin Montgomerie</title>
-    </programme>
-    <programme start="20250322111500 +0000" stop="20250322114500 +0000" channel="SkySp Golf HD">
+    <programme start="20250322110001 +0000" stop="20250322113001 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250322114500 +0000" stop="20250322170000 +0000" channel="SkySp Golf HD">
+    <programme start="20250322113001 +0000" stop="20250322170000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
     <programme start="20250322170000 +0000" stop="20250322220000 +0000" channel="SkySp Golf HD">
@@ -26403,26 +26400,23 @@
     <programme start="20250322070500 +0000" stop="20250322081000 +0000" channel="MTA1 World HD">
         <title>Deeni-o-Fiqa'hi Masa'il</title>
     </programme>
-    <programme start="20250322081000 +0000" stop="20250322090000 +0000" channel="MTA1 World HD">
+    <programme start="20250322081000 +0000" stop="20250322091000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250322090000 +0000" stop="20250322095500 +0000" channel="MTA1 World HD">
+    <programme start="20250322091000 +0000" stop="20250322101000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250322095500 +0000" stop="20250322100500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250322100500 +0000" stop="20250322103000 +0000" channel="MTA1 World HD">
+    <programme start="20250322101000 +0000" stop="20250322103500 +0000" channel="MTA1 World HD">
         <title>Talk Islam Today</title>
     </programme>
-    <programme start="20250322103000 +0000" stop="20250322110500 +0000" channel="MTA1 World HD">
+    <programme start="20250322103500 +0000" stop="20250322110500 +0000" channel="MTA1 World HD">
         <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250322110500 +0000" stop="20250322115500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
     <programme start="20250322115500 +0000" stop="20250322121500 +0000" channel="MTA1 World HD">
-        <title>Darul Masih</title>
+        <title>Safar-e-Jehlum</title>
     </programme>
     <programme start="20250322121500 +0000" stop="20250322130500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -26446,7 +26440,7 @@
         <title>Live Rah-e-Huda</title>
     </programme>
     <programme start="20250322173500 +0000" stop="20250322175500 +0000" channel="MTA1 World HD">
-        <title>Darul Masih</title>
+        <title>Safar-e-Jehlum</title>
     </programme>
     <programme start="20250322175500 +0000" stop="20250322181900 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26457,13 +26451,13 @@
     <programme start="20250322183000 +0000" stop="20250322192500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250322192500 +0000" stop="20250322195500 +0000" channel="MTA1 World HD">
+    <programme start="20250322192500 +0000" stop="20250322195000 +0000" channel="MTA1 World HD">
         <title>National Waqifat-e-Nau Ijtema</title>
     </programme>
-    <programme start="20250322195500 +0000" stop="20250322204500 +0000" channel="MTA1 World HD">
+    <programme start="20250322195000 +0000" stop="20250322205000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250322204500 +0000" stop="20250322213000 +0000" channel="MTA1 World HD">
+    <programme start="20250322205000 +0000" stop="20250322213000 +0000" channel="MTA1 World HD">
         <title>The Final Word</title>
     </programme>
     <programme start="20250322213000 +0000" stop="20250322230500 +0000" channel="MTA1 World HD">

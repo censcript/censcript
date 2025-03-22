@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250322020000 +0000" stop="20250322043000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Portland Thorns FC v Angel City FC</title>
-    </programme>
     <programme start="20250322135000 +0000" stop="20250322161000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Liechtenstein v North Macedonia</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250404010000 +0000" stop="20250404013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250404093000 +0000" stop="20250404100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
     </programme>
 </tv>
