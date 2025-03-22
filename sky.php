@@ -13348,10 +13348,10 @@
         <title>Live: Washington S v Kansas City</title>
     </programme>
     <programme start="20250323014500 +0000" stop="20250323021500 +0000" channel="TNT Sports 2">
-        <title>Alpine Skiing World Cup - Men's</title>
+        <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323021500 +0000" stop="20250323024500 +0000" channel="TNT Sports 2">
-        <title>Alpine Skiing World Cup - Women's</title>
+        <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323024500 +0000" stop="20250323030000 +0000" channel="TNT Sports 2">
         <title>MotoGP Rewind: Argentina 2025</title>
@@ -13879,7 +13879,7 @@
         <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323060000 +0000" stop="20250323063000 +0000" channel="TNT Sports 4">
-        <title>Alpine Skiing World Cup - Men's</title>
+        <title>Freestyle Skiing World Champs</title>
     </programme>
     <programme start="20250323063000 +0000" stop="20250323070000 +0000" channel="TNT Sports 4">
         <title>Alpine Skiing World Cup - Women's</title>
@@ -27984,8 +27984,14 @@
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="ARY Digital">
         <title>Kabhi Main Kabhi Tum</title>
     </programme>
-    <programme start="20250322200000 +0000" stop="20250323000000 +0000" channel="QTV Religious">
+    <programme start="20250322190000 +0000" stop="20250322230000 +0000" channel="QTV Religious">
         <title>Save An Orphan Global- Live Telethon</title>
+    </programme>
+    <programme start="20250322230000 +0000" stop="20250322233000 +0000" channel="QTV Religious">
+        <title>Hamd O Naat</title>
+    </programme>
+    <programme start="20250322233000 +0000" stop="20250323000000 +0000" channel="QTV Religious">
+        <title>Mehfil e Sama</title>
     </programme>
     <programme start="20250323000000 +0000" stop="20250323003000 +0000" channel="QTV Religious">
         <title>Hamd O Naat</title>
@@ -28398,20 +28404,11 @@
     <programme start="20250323090000 +0000" stop="20250323093000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250323093000 +0000" stop="20250323094500 +0000" channel="Kanshi TV">
+    <programme start="20250323093000 +0000" stop="20250323100000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250323094500 +0000" stop="20250323123000 +0000" channel="Kanshi TV">
-        <title>Ravidassia Dharam 2025</title>
-    </programme>
-    <programme start="20250323123000 +0000" stop="20250323130000 +0000" channel="Kanshi TV">
-        <title>Bharat ki Awaz</title>
-    </programme>
-    <programme start="20250323130000 +0000" stop="20250323140000 +0000" channel="Kanshi TV">
-        <title>Ek Niwas Universal Divine Temple</title>
-    </programme>
-    <programme start="20250323140000 +0000" stop="20250323150000 +0000" channel="Kanshi TV">
-        <title>Jyotish Amrit Mata - Astrologer</title>
+    <programme start="20250323100000 +0000" stop="20250323150000 +0000" channel="Kanshi TV">
+        <title>Shi Guru Ravidass Bhawan, Bedford</title>
     </programme>
     <programme start="20250323150000 +0000" stop="20250323160000 +0000" channel="Kanshi TV">
         <title>Health Talk Show with Balbir Kaur</title>
@@ -32686,10 +32683,10 @@
         <title>Live: Washington S v Kansas City</title>
     </programme>
     <programme start="20250323014500 +0000" stop="20250323021500 +0000" channel="TNTSports2 HD">
-        <title>Alpine Skiing World Cup - Men's</title>
+        <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323021500 +0000" stop="20250323024500 +0000" channel="TNTSports2 HD">
-        <title>Alpine Skiing World Cup - Women's</title>
+        <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323024500 +0000" stop="20250323030000 +0000" channel="TNTSports2 HD">
         <title>MotoGP Rewind: Argentina 2025</title>
@@ -32947,7 +32944,7 @@
         <title>Biathlon World Cup</title>
     </programme>
     <programme start="20250323060000 +0000" stop="20250323063000 +0000" channel="TNTSports4 HD">
-        <title>Alpine Skiing World Cup - Men's</title>
+        <title>Freestyle Skiing World Champs</title>
     </programme>
     <programme start="20250323063000 +0000" stop="20250323070000 +0000" channel="TNTSports4 HD">
         <title>Alpine Skiing World Cup - Women's</title>
