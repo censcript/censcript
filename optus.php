@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250322125000 +0000" stop="20250322161000 +0000" channel="Optus Sport 207.optus">
-        <title>N/A - Bayern Munich v Hoffenheim</title>
-    </programme>
     <programme start="20250322135000 +0000" stop="20250322161000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Liechtenstein v North Macedonia</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250404093000 +0000" stop="20250404100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
     </programme>
 </tv>
