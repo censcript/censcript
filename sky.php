@@ -35487,19 +35487,19 @@
     <programme start="20250322044000 +0000" stop="20250322060500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250322060500 +0000" stop="20250322095500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250322060500 +0000" stop="20250322100500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250322095500 +0000" stop="20250322113000 +0000" channel="BBC RB 1 HD">
-        <title>Snowboard, Freestyle and...</title>
-    </programme>
-    <programme start="20250322113000 +0000" stop="20250322122500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250322100500 +0000" stop="20250322111500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250322122500 +0000" stop="20250322140500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250322111500 +0000" stop="20250322125000 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
     </programme>
-    <programme start="20250322140500 +0000" stop="20250322174500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250322125000 +0000" stop="20250322143000 +0000" channel="BBC RB 1 HD">
+        <title>Snowboard, Freestyle and...</title>
+    </programme>
+    <programme start="20250322143000 +0000" stop="20250322174500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
     <programme start="20250322174500 +0000" stop="20250322194500 +0000" channel="BBC RB 1 HD">
