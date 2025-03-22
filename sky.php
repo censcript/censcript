@@ -1728,8 +1728,8 @@
     <programme start="20250323235500 +0000" stop="20250324005500 +0000" channel="ITV3 HD">
         <title>Protection</title>
     </programme>
-    <programme start="20250322221500 +0000" stop="20250322231500 +0000" channel="ITV4 HD">
-        <title>River Monsters</title>
+    <programme start="20250322184500 +0000" stop="20250322231500 +0000" channel="ITV4 HD">
+        <title>Snooker: Players Championship</title>
     </programme>
     <programme start="20250322231500 +0000" stop="20250323011000 +0000" channel="ITV4 HD">
         <title>All Elite Wrestling: Dynamite</title>
@@ -8109,11 +8109,8 @@
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="ITV3+1">
         <title>Vera</title>
     </programme>
-    <programme start="20250322194500 +0000" stop="20250322231500 +0000" channel="ITV4+1">
+    <programme start="20250322194500 +0000" stop="20250323001500 +0000" channel="ITV4+1">
         <title>Snooker: Players Championship</title>
-    </programme>
-    <programme start="20250322231500 +0000" stop="20250323001500 +0000" channel="ITV4+1">
-        <title>River Monsters</title>
     </programme>
     <programme start="20250323001500 +0000" stop="20250323021000 +0000" channel="ITV4+1">
         <title>All Elite Wrestling: Dynamite</title>
@@ -13599,11 +13596,8 @@
     <programme start="20250323141500 +0000" stop="20250323154500 +0000" channel="TNT Sports 3">
         <title>Live: Biathlon World Cup</title>
     </programme>
-    <programme start="20250323154500 +0000" stop="20250323161500 +0000" channel="TNT Sports 3">
-        <title>Alpine Skiing World Cup - Women's</title>
-    </programme>
-    <programme start="20250323161500 +0000" stop="20250323164500 +0000" channel="TNT Sports 3">
-        <title>Alpine Skiing World Cup - Men's</title>
+    <programme start="20250323154500 +0000" stop="20250323164500 +0000" channel="TNT Sports 3">
+        <title>Snowboard World Championship</title>
     </programme>
     <programme start="20250323164500 +0000" stop="20250323180000 +0000" channel="TNT Sports 3">
         <title>Live: Alpine Skiing WC - Women</title>
@@ -13878,11 +13872,8 @@
     <programme start="20250323053000 +0000" stop="20250323060000 +0000" channel="TNT Sports 4">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250323060000 +0000" stop="20250323063000 +0000" channel="TNT Sports 4">
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TNT Sports 4">
         <title>Freestyle Skiing World Champs</title>
-    </programme>
-    <programme start="20250323063000 +0000" stop="20250323070000 +0000" channel="TNT Sports 4">
-        <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250323070000 +0000" stop="20250323100000 +0000" channel="TNT Sports 4">
         <title>Live: Women's Curling World Champs</title>
@@ -32889,11 +32880,8 @@
     <programme start="20250323141500 +0000" stop="20250323154500 +0000" channel="TNTSports3 HD">
         <title>Live: Biathlon World Cup</title>
     </programme>
-    <programme start="20250323154500 +0000" stop="20250323161500 +0000" channel="TNTSports3 HD">
-        <title>Alpine Skiing World Cup - Women's</title>
-    </programme>
-    <programme start="20250323161500 +0000" stop="20250323164500 +0000" channel="TNTSports3 HD">
-        <title>Alpine Skiing World Cup - Men's</title>
+    <programme start="20250323154500 +0000" stop="20250323164500 +0000" channel="TNTSports3 HD">
+        <title>Snowboard World Championship</title>
     </programme>
     <programme start="20250323164500 +0000" stop="20250323180000 +0000" channel="TNTSports3 HD">
         <title>Live: Alpine Skiing WC - Women</title>
@@ -32943,11 +32931,8 @@
     <programme start="20250323053000 +0000" stop="20250323060000 +0000" channel="TNTSports4 HD">
         <title>Biathlon World Cup</title>
     </programme>
-    <programme start="20250323060000 +0000" stop="20250323063000 +0000" channel="TNTSports4 HD">
+    <programme start="20250323060000 +0000" stop="20250323070000 +0000" channel="TNTSports4 HD">
         <title>Freestyle Skiing World Champs</title>
-    </programme>
-    <programme start="20250323063000 +0000" stop="20250323070000 +0000" channel="TNTSports4 HD">
-        <title>Alpine Skiing World Cup - Women's</title>
     </programme>
     <programme start="20250323070000 +0000" stop="20250323100000 +0000" channel="TNTSports4 HD">
         <title>Live: Women's Curling World Champs</title>

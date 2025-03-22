@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Czechia v Faroe Islands</title>
-    </programme>
-    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Wales v Kazakhstan</title>
-    </programme>
-    <programme start="20250322193500 +0000" stop="20250322215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Israel v Estonia</title>
-    </programme>
     <programme start="20250322230000 +0000" stop="20250323013000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - North Carolina Courage v Seattle Reign</title>
     </programme>
