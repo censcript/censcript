@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 12.optus">
-        <title>UEFA Nations League - Scotland v Greece</title>
-    </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250323165000 +0000" stop="20250323192500 +0000" channel="Optus Sport 7.optus">
         <title>UEFA Nations League - Serbia v Austria</title>
-    </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Nations League - Hungary v Turkiye</title>
-    </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 8.optus">
-        <title>UEFA Nations League - Slovenia v Slovakia</title>
-    </programme>
-    <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA Nations League - Iceland v Kosovo</title>
     </programme>
     <programme start="20250323185300 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Chicago Stars v Houston Dash</title>
@@ -79,13 +67,13 @@
         <title>UEFA World Cup Qualifiers - Israel v Norway</title>
     </programme>
     <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
+        <title>N/A - The Catch-Up Show: Season So Far</title>
     </programme>
     <programme start="20250326180000 +0000" stop="20250326183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Eduardo da Silva</title>
     </programme>
     <programme start="20250327133000 +0000" stop="20250327140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Luis Garcia</title>
     </programme>
     <programme start="20250328095500 +0000" stop="20250328121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Urawa Red Diamonds</title>
@@ -252,7 +240,37 @@
     <programme start="20250404170000 +0000" stop="20250404180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Everton v Arsenal</title>
+    </programme>
+    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - West Ham United v Bournemouth</title>
+    </programme>
+    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Ipswich v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Crystal Palace v Brighton</title>
+    </programme>
     <programme start="20250405135000 +0000" stop="20250405162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250405152000 +0000" stop="20250405190000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Aston Villa v Nottingham Forest</title>
+    </programme>
+    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Tottenham Hotspur v Southampton</title>
+    </programme>
+    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Fulham v Liverpool</title>
+    </programme>
+    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Brentford v Chelsea</title>
+    </programme>
+    <programme start="20250406152000 +0000" stop="20250406183000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester United v Manchester City</title>
+    </programme>
+    <programme start="20250407183000 +0000" stop="20250407213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Leicester City v Newcastle United</title>
     </programme>
 </tv>
