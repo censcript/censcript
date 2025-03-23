@@ -3,9 +3,6 @@
     <programme start="20250323165000 +0000" stop="20250323192500 +0000" channel="Optus Sport 7.optus">
         <title>UEFA Nations League - Serbia v Austria</title>
     </programme>
-    <programme start="20250323185300 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
-    </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Nations League - Germany v Italy</title>
     </programme>
