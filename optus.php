@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - San Diego Wave FC v Utah Royals FC</title>
-    </programme>
-    <programme start="20250323020000 +0000" stop="20250323043000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Bay FC v Racing Louisville FC</title>
-    </programme>
     <programme start="20250323115000 +0000" stop="20250323141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Tottenham Hotspur</title>
     </programme>
