@@ -24544,16 +24544,16 @@
         <title>Ez Well Massage Mattress</title>
     </programme>
     <programme start="20250323220000 +0000" stop="20250323230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home Improvement with Yiannis</title>
     </programme>
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Health &amp; Wellness with Yiannis</title>
     </programme>
     <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Midnight Madness Deals with Yiannis</title>
     </programme>
     <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Midnight Madness Deals with Yiannis</title>
     </programme>
     <programme start="20250324020000 +0000" stop="20250324030000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -24568,58 +24568,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250324060000 +0000" stop="20250324070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Last in Stock Beauty with ...</title>
     </programme>
     <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Morning Glow with Natalia</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Mark Birch Haircare with Natalia</title>
     </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Morning Glow with Natalia</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Garden Essentials with Jeremy</title>
     </programme>
     <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Bedding with Jeremy</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>TSB! Smith &amp; Jones 5-Pack T-Shirts with Jeremy</title>
     </programme>
     <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Cleaning Solutions with Jeremy</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324150000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal World with Lindday</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Fabulous Fashion with Lindday</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Spring Fashion with Lindday</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324180000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Spring Fashion with Lindday</title>
     </programme>
     <programme start="20250324180000 +0000" stop="20250324190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Cleaning Solutions with Peter</title>
     </programme>
     <programme start="20250324190000 +0000" stop="20250324200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal World with Peter</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324210000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Yesterday's Pick of the Day with Peter</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324220000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Pick of the Day! Karaoke Machine with Peter</title>
     </programme>
     <programme start="20250324220000 +0000" stop="20250324230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Spring Fashion with Emma</title>
     </programme>
     <programme start="20250324230000 +0000" stop="20250325000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Luxury Handbags with Emma</title>
     </programme>
     <programme start="20250323180000 +0000" stop="20250324000000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -29161,46 +29161,46 @@
         <title>Live: Shabad Veechar</title>
     </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="Akaal Channel">
-        <title>Sewa: Harvinder Singh</title>
+        <title>Save a life of Gurvinder Singh</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324103000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
     <programme start="20250324103000 +0000" stop="20250324110000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Har Rai Ji Parkash</title>
+        <title>Weekly Langar Sewa MP</title>
     </programme>
-    <programme start="20250324110000 +0000" stop="20250324115500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Pakistan Yatra</title>
-    </programme>
-    <programme start="20250324115500 +0000" stop="20250324120000 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
+    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Panj Takht</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324133000 +0000" channel="Akaal Channel">
         <title>Live: Sukhmani Sahib</title>
     </programme>
     <programme start="20250324133000 +0000" stop="20250324140000 +0000" channel="Akaal Channel">
-        <title>Sukhmani Sahib on Itihasik Dihare</title>
+        <title>Special Report</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324150000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Sikligar Gurdwara Thara Sahib</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324170000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Save a life of Gurvinder Singh</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324173000 +0000" channel="Akaal Channel">
+        <title>We Promise We Deliver</title>
+    </programme>
+    <programme start="20250324173000 +0000" stop="20250324180000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib with Subtitles</title>
     </programme>
-    <programme start="20250324173000 +0000" stop="20250324183000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+    <programme start="20250324180000 +0000" stop="20250324185000 +0000" channel="Akaal Channel">
+        <title>Current Issues</title>
     </programme>
-    <programme start="20250324183000 +0000" stop="20250324200000 +0000" channel="Akaal Channel">
-        <title>Wangar Panth Nu</title>
+    <programme start="20250324185000 +0000" stop="20250324195000 +0000" channel="Akaal Channel">
+        <title>Sikligar Gurdwara Thara Sahib</title>
     </programme>
-    <programme start="20250324200000 +0000" stop="20250324210000 +0000" channel="Akaal Channel">
-        <title>Sewa: Harvinder Singh</title>
+    <programme start="20250324195000 +0000" stop="20250324210000 +0000" channel="Akaal Channel">
+        <title>Ep2: Parchol Narrative Ka Mayajal</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324213000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>

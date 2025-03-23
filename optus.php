@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323162000 +0000" stop="20250323184000 +0000" channel="Optus Sport 10.optus">
-        <title>Women&#039;s Super League - Aston Villa v Manchester United</title>
-    </programme>
     <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 12.optus">
         <title>UEFA Nations League - Scotland v Greece</title>
     </programme>
@@ -17,6 +14,9 @@
     </programme>
     <programme start="20250323165000 +0000" stop="20250323201000 +0000" channel="Optus Sport 6.optus">
         <title>UEFA Nations League - Iceland v Kosovo</title>
+    </programme>
+    <programme start="20250323185300 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Chicago Stars v Houston Dash</title>
     </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Nations League - Germany v Italy</title>
@@ -35,9 +35,6 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Chicago Stars v Houston Dash</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v Orlando Pride</title>
