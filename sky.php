@@ -35226,8 +35226,11 @@
     <programme start="20250323033000 +0000" stop="20250323050000 +0000" channel="BBC R1">
         <title>Pete Tong's Hot Mix</title>
     </programme>
-    <programme start="20250323050000 +0000" stop="20250323100000 +0000" channel="BBC R1">
+    <programme start="20250323050000 +0000" stop="20250323070000 +0000" channel="BBC R1">
         <title>Radio 1's Chillout Anthems</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323100000 +0000" channel="BBC R1">
+        <title>Radio 1 Weekend Breakfast with James Cusack</title>
     </programme>
     <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="BBC R1">
         <title>Radio 1 Anthems with James Cusack</title>
