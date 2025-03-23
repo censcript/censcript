@@ -35787,7 +35787,10 @@
     <programme start="20250323053230 +0000" stop="20250323060600 +0000" channel="BBC World Sv">
         <title>The Documentary</title>
     </programme>
-    <programme start="20250323060600 +0000" stop="20250323080000 +0000" channel="BBC World Sv">
+    <programme start="20250323060600 +0000" stop="20250323070600 +0000" channel="BBC World Sv">
+        <title>Weekend</title>
+    </programme>
+    <programme start="20250323070600 +0000" stop="20250323080000 +0000" channel="BBC World Sv">
         <title>Weekend</title>
     </programme>
     <programme start="20250323080000 +0000" stop="20250323080600 +0000" channel="BBC World Sv">
