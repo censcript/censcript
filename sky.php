@@ -12951,16 +12951,13 @@
     <programme start="20250323073000 +0000" stop="20250323080000 +0000" channel="SkySp Golf HD">
         <title>Women's Asian Amateur C'Ship Hlts</title>
     </programme>
-    <programme start="20250323080000 +0000" stop="20250323110000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323080000 +0000" stop="20250323110001 +0000" channel="SkySp Golf HD">
         <title>Porsche Singapore Classic Day 4</title>
     </programme>
-    <programme start="20250323110000 +0000" stop="20250323111500 +0000" channel="SkySp Golf HD">
-        <title>My Ryder Cup - Phillip Price</title>
-    </programme>
-    <programme start="20250323111500 +0000" stop="20250323114500 +0000" channel="SkySp Golf HD">
+    <programme start="20250323110001 +0000" stop="20250323113000 +0000" channel="SkySp Golf HD">
         <title>Women's Asian Amateur C'Ship Hlts</title>
     </programme>
-    <programme start="20250323114500 +0000" stop="20250323170000 +0000" channel="SkySp Golf HD">
+    <programme start="20250323113000 +0000" stop="20250323170000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
     <programme start="20250323170000 +0000" stop="20250323220000 +0000" channel="SkySp Golf HD">
@@ -19251,8 +19248,11 @@
     <programme start="20250323181500 +0000" stop="20250323184000 +0000" channel="CBBC HD">
         <title>So Awkward Academy</title>
     </programme>
-    <programme start="20250323184000 +0000" stop="20250323194000 +0000" channel="CBBC HD">
+    <programme start="20250323184000 +0000" stop="20250323185800 +0000" channel="CBBC HD">
         <title>Gladiators: Epic Pranks</title>
+    </programme>
+    <programme start="20250323185800 +0000" stop="20250323195800 +0000" channel="CBBC HD">
+        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250322185800 +0000" stop="20250323005800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -19473,8 +19473,11 @@
     <programme start="20250323182000 +0000" stop="20250323185000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250323185000 +0000" stop="20250323195000 +0000" channel="CBeebies HD">
+    <programme start="20250323185000 +0000" stop="20250323185800 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
+    </programme>
+    <programme start="20250323185800 +0000" stop="20250323195800 +0000" channel="CBeebies HD">
+        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250322224500 +0000" stop="20250322230000 +0000" channel="Sky Kids HD">
         <title>The Pingu Show</title>
