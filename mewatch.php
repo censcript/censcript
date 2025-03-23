@@ -684,53 +684,92 @@
     <programme start="20250323160000 +0000" stop="20250324160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 29th March, Saturday 8.20pm. 2024/25 Singapore Cup: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
-    <programme start="20250322160000 +0000" stop="20250322190000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250322161500 +0000" stop="20250322170000 +0000" channel="now-80s.mewatch">
+        <title>1986 Unleashed!</title>
     </programme>
-    <programme start="20250322190000 +0000" stop="20250322220000 +0000" channel="now-80s.mewatch">
-        <title>Get Fresh At The Weekend!</title>
+    <programme start="20250322170000 +0000" stop="20250322180000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1986</title>
     </programme>
-    <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250322180000 +0000" stop="20250322194500 +0000" channel="now-80s.mewatch">
+        <title>The Now 100 Of The 80s!</title>
     </programme>
-    <programme start="20250322230000 +0000" stop="20250323040000 +0000" channel="now-80s.mewatch">
-        <title>Sunday Love Songs!</title>
+    <programme start="20250322194500 +0000" stop="20250322200000 +0000" channel="now-80s.mewatch">
+        <title>1986 Unleashed!</title>
     </programme>
-    <programme start="20250323040000 +0000" stop="20250323100000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250322200000 +0000" stop="20250322221500 +0000" channel="now-80s.mewatch">
+        <title>Every Song From Now 7 - 1986</title>
     </programme>
-    <programme start="20250323100000 +0000" stop="20250323110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250322221500 +0000" stop="20250322230000 +0000" channel="now-80s.mewatch">
+        <title>1986 Unleashed!</title>
     </programme>
-    <programme start="20250323110000 +0000" stop="20250323160000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems!</title>
+    <programme start="20250322230000 +0000" stop="20250323074000 +0000" channel="now-80s.mewatch">
+        <title>Now 100 Hits: Love Songs!</title>
+    </programme>
+    <programme start="20250323074000 +0000" stop="20250323080000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250323080000 +0000" stop="20250323103000 +0000" channel="now-80s.mewatch">
+        <title>Timmy Mallett&#039;s Brilliant Bands!</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323113000 +0000" channel="now-80s.mewatch">
+        <title>The Now 100 Of The 80s!</title>
+    </programme>
+    <programme start="20250323113000 +0000" stop="20250323150500 +0000" channel="now-80s.mewatch">
+        <title>Tucker &amp; Roland&#039;s School Disco 50!</title>
+    </programme>
+    <programme start="20250323150500 +0000" stop="20250323160000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over!</title>
     </programme>
     <programme start="20250323160000 +0000" stop="20250323190000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems!</title>
     </programme>
-    <programme start="20250322160000 +0000" stop="20250322200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250322170000 +0000" stop="20250322185000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50</title>
     </programme>
-    <programme start="20250322200000 +0000" stop="20250322210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250322185000 +0000" stop="20250322192500 +0000" channel="now-70s.mewatch">
+        <title>Saturday Night&#039;s Alright!</title>
     </programme>
-    <programme start="20250322210000 +0000" stop="20250322220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250322192500 +0000" stop="20250322220000 +0000" channel="now-70s.mewatch">
+        <title>Love Is In The Air! 1970-1979</title>
     </programme>
     <programme start="20250322220000 +0000" stop="20250322230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+        <title>Punk &amp; New Wave Anthems!</title>
     </programme>
-    <programme start="20250322230000 +0000" stop="20250323000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250322230000 +0000" stop="20250323002500 +0000" channel="now-70s.mewatch">
+        <title>Clare Grogan&#039;s Teenage Kicks!</title>
     </programme>
-    <programme start="20250323000000 +0000" stop="20250323090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250323002500 +0000" stop="20250323010000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250323090000 +0000" stop="20250323100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250323010000 +0000" stop="20250323031000 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1975&#039;s Best Sellers!</title>
     </programme>
-    <programme start="20250323100000 +0000" stop="20250323200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250323031000 +0000" stop="20250323040000 +0000" channel="now-70s.mewatch">
+        <title>Reasons To Be Cheerful!</title>
+    </programme>
+    <programme start="20250323040000 +0000" stop="20250323062500 +0000" channel="now-70s.mewatch">
+        <title>Thirty-Three Times A Lady!</title>
+    </programme>
+    <programme start="20250323062500 +0000" stop="20250323070000 +0000" channel="now-70s.mewatch">
+        <title>Groovy Little Numbers!</title>
+    </programme>
+    <programme start="20250323070000 +0000" stop="20250323091000 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Hellraisers! Top 25</title>
+    </programme>
+    <programme start="20250323091000 +0000" stop="20250323100000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
+    </programme>
+    <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s Presents Now 60s!</title>
+    </programme>
+    <programme start="20250323103000 +0000" stop="20250323113000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50</title>
+    </programme>
+    <programme start="20250323113000 +0000" stop="20250323150500 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s Presents Now 60s!</title>
+    </programme>
+    <programme start="20250323150500 +0000" stop="20250323200000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man!</title>
     </programme>
     <programme start="20250322160000 +0000" stop="20250322220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
