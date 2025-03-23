@@ -1752,20 +1752,20 @@
     <programme start="20250324220000 +0000" stop="20250324230000 +0000" channel="ITV3 HD">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250323220000 +0000" stop="20250323230000 +0000" channel="ITV4 HD">
+    <programme start="20250323184500 +0000" stop="20250323230000 +0000" channel="ITV4 HD">
+        <title>Snooker: Players Championship</title>
+    </programme>
+    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="ITV4 HD">
         <title>D-Tox</title>
     </programme>
-    <programme start="20250323230000 +0000" stop="20250323230500 +0000" channel="ITV4 HD">
+    <programme start="20250324000000 +0000" stop="20250324000500 +0000" channel="ITV4 HD">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250323230500 +0000" stop="20250323235000 +0000" channel="ITV4 HD">
+    <programme start="20250324000500 +0000" stop="20250324005000 +0000" channel="ITV4 HD">
         <title>D-Tox</title>
     </programme>
-    <programme start="20250323235000 +0000" stop="20250324002000 +0000" channel="ITV4 HD">
+    <programme start="20250324005000 +0000" stop="20250324012000 +0000" channel="ITV4 HD">
         <title>River Monsters</title>
-    </programme>
-    <programme start="20250324002000 +0000" stop="20250324012000 +0000" channel="ITV4 HD">
-        <title>The Sweeney</title>
     </programme>
     <programme start="20250324012000 +0000" stop="20250324022000 +0000" channel="ITV4 HD">
         <title>Minder</title>
@@ -8292,23 +8292,20 @@
     <programme start="20250324230000 +0000" stop="20250325000000 +0000" channel="ITV3+1">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250323194500 +0000" stop="20250323230000 +0000" channel="ITV4+1">
+    <programme start="20250323194500 +0000" stop="20250324000000 +0000" channel="ITV4+1">
         <title>Snooker: Players Championship</title>
     </programme>
-    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="ITV4+1">
+    <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="ITV4+1">
         <title>D-Tox</title>
     </programme>
-    <programme start="20250324000000 +0000" stop="20250324000500 +0000" channel="ITV4+1">
+    <programme start="20250324010000 +0000" stop="20250324010500 +0000" channel="ITV4+1">
         <title>FYI Daily</title>
     </programme>
-    <programme start="20250324000500 +0000" stop="20250324005000 +0000" channel="ITV4+1">
+    <programme start="20250324010500 +0000" stop="20250324015000 +0000" channel="ITV4+1">
         <title>D-Tox</title>
     </programme>
-    <programme start="20250324005000 +0000" stop="20250324012000 +0000" channel="ITV4+1">
+    <programme start="20250324015000 +0000" stop="20250324022000 +0000" channel="ITV4+1">
         <title>River Monsters</title>
-    </programme>
-    <programme start="20250324012000 +0000" stop="20250324022000 +0000" channel="ITV4+1">
-        <title>The Sweeney</title>
     </programme>
     <programme start="20250324022000 +0000" stop="20250324032000 +0000" channel="ITV4+1">
         <title>Minder</title>
@@ -29658,8 +29655,23 @@
     <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250324060000 +0000" stop="20250324082000 +0000" channel="IQRA Bangla">
-        <title>Live Transmission from Madina</title>
+    <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="IQRA Bangla">
+        <title>Ramadan Q&amp;A</title>
+    </programme>
+    <programme start="20250324063000 +0000" stop="20250324073000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
+    </programme>
+    <programme start="20250324073000 +0000" stop="20250324074400 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
+    </programme>
+    <programme start="20250324074400 +0000" stop="20250324075600 +0000" channel="IQRA Bangla">
+        <title>Beautiful Mosques</title>
+    </programme>
+    <programme start="20250324075600 +0000" stop="20250324080700 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
+    </programme>
+    <programme start="20250324080700 +0000" stop="20250324082000 +0000" channel="IQRA Bangla">
+        <title>Ramadan tips</title>
     </programme>
     <programme start="20250324082000 +0000" stop="20250324083000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
@@ -29673,53 +29685,53 @@
     <programme start="20250324110000 +0000" stop="20250324113000 +0000" channel="IQRA Bangla">
         <title>Joyful Ramadan</title>
     </programme>
-    <programme start="20250324113000 +0000" stop="20250324121800 +0000" channel="IQRA Bangla">
+    <programme start="20250324113000 +0000" stop="20250324121200 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250324121800 +0000" stop="20250324123000 +0000" channel="IQRA Bangla">
+    <programme start="20250324121200 +0000" stop="20250324121700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250324123000 +0000" stop="20250324140000 +0000" channel="IQRA Bangla">
+    <programme start="20250324121700 +0000" stop="20250324123000 +0000" channel="IQRA Bangla">
+        <title>Khatmul Quran</title>
+    </programme>
+    <programme start="20250324123000 +0000" stop="20250324135300 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
     </programme>
-    <programme start="20250324140000 +0000" stop="20250324150000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250324150000 +0000" stop="20250324153000 +0000" channel="IQRA Bangla">
-        <title>Healthy Iftar</title>
-    </programme>
-    <programme start="20250324153000 +0000" stop="20250324155200 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250324155200 +0000" stop="20250324155700 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250324155700 +0000" stop="20250324174800 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250324174800 +0000" stop="20250324175600 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250324175600 +0000" stop="20250324180200 +0000" channel="IQRA Bangla">
-        <title>The Sound Of Revelations</title>
-    </programme>
-    <programme start="20250324180200 +0000" stop="20250324180700 +0000" channel="IQRA Bangla">
-        <title>Know your zakat</title>
-    </programme>
-    <programme start="20250324180700 +0000" stop="20250324181500 +0000" channel="IQRA Bangla">
+    <programme start="20250324135300 +0000" stop="20250324140000 +0000" channel="IQRA Bangla">
         <title>Beautiful Mosques</title>
     </programme>
-    <programme start="20250324181500 +0000" stop="20250324181900 +0000" channel="IQRA Bangla">
+    <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="IQRA Bangla">
+        <title>Healthy Iftar</title>
+    </programme>
+    <programme start="20250324143000 +0000" stop="20250324162200 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
+    </programme>
+    <programme start="20250324162200 +0000" stop="20250324162700 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250324162700 +0000" stop="20250324182400 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
+    </programme>
+    <programme start="20250324182400 +0000" stop="20250324183200 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Magrib</title>
+    </programme>
+    <programme start="20250324183200 +0000" stop="20250324184000 +0000" channel="IQRA Bangla">
+        <title>The Sound Of Revelations</title>
+    </programme>
+    <programme start="20250324184000 +0000" stop="20250324184500 +0000" channel="IQRA Bangla">
+        <title>Know your zakat</title>
+    </programme>
+    <programme start="20250324184500 +0000" stop="20250324185700 +0000" channel="IQRA Bangla">
         <title>Ramadan tips</title>
     </programme>
-    <programme start="20250324181900 +0000" stop="20250324191200 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250324185700 +0000" stop="20250324194300 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
     </programme>
-    <programme start="20250324191200 +0000" stop="20250324191700 +0000" channel="IQRA Bangla">
+    <programme start="20250324194300 +0000" stop="20250324194800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250324191700 +0000" stop="20250324201700 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250324194800 +0000" stop="20250324204800 +0000" channel="IQRA Bangla">
+        <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250324020000 +0000" channel="ATN">
         <title>Charity Appeal</title>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323165000 +0000" stop="20250323192500 +0000" channel="Optus Sport 7.optus">
-        <title>UEFA Nations League - Serbia v Austria</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Nations League - Germany v Italy</title>
-    </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA Nations League - Portugal v Denmark</title>
     </programme>
@@ -14,9 +8,6 @@
     </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Nations League - Spain v Netherlands</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA Nations League - Belgium v Ukraine</title>
     </programme>
     <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
@@ -105,7 +96,7 @@
     <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Orlando Pride v San Diego Wave FC</title>
     </programme>
-    <programme start="20250329170500 +0000" stop="20250329202500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250329170500 +0000" stop="20250329202500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Brighton v Nottingham Forest</title>
     </programme>
     <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
