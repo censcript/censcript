@@ -35784,8 +35784,11 @@
     <programme start="20250323040600 +0000" stop="20250323053230 +0000" channel="BBC World Sv">
         <title>From Our Own Correspondent</title>
     </programme>
-    <programme start="20250323053230 +0000" stop="20250323080000 +0000" channel="BBC World Sv">
+    <programme start="20250323053230 +0000" stop="20250323060600 +0000" channel="BBC World Sv">
         <title>The Documentary</title>
+    </programme>
+    <programme start="20250323060600 +0000" stop="20250323080000 +0000" channel="BBC World Sv">
+        <title>Weekend</title>
     </programme>
     <programme start="20250323080000 +0000" stop="20250323080600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
