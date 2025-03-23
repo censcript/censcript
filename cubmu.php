@@ -79,7 +79,7 @@
         <title>Music For Us</title>
     </programme>
     <programme start="20250323170000 +0000" stop="20250323190000 +0000" channel="Trans TV.cubmu">
-        <title>Bioskop TransTV - Lethal Weapon Part 2</title>
+        <title>Bioskop TransTV - Black Demon</title>
     </programme>
     <programme start="20250323190000 +0000" stop="20250323220000 +0000" channel="Trans TV.cubmu">
         <title>Blockbuster Sahur Movie - Godzilla</title>
@@ -129,17 +129,8 @@
     <programme start="20250323181500 +0000" stop="20250323193000 +0000" channel="Trans 7.cubmu">
         <title>Best Fishing</title>
     </programme>
-    <programme start="20250323181500 +0000" stop="20250323193000 +0000" channel="Trans 7.cubmu">
-        <title>Best Fishing</title>
-    </programme>
     <programme start="20250323193000 +0000" stop="20250323213000 +0000" channel="Trans 7.cubmu">
         <title>Sahur Lebih Segerrrr</title>
-    </programme>
-    <programme start="20250323193000 +0000" stop="20250323213000 +0000" channel="Trans 7.cubmu">
-        <title>Sahur Lebih Segerrrr</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323223000 +0000" channel="Trans 7.cubmu">
-        <title>Kisah Para Nabi</title>
     </programme>
     <programme start="20250323213000 +0000" stop="20250323223000 +0000" channel="Trans 7.cubmu">
         <title>Kisah Para Nabi</title>
@@ -147,17 +138,8 @@
     <programme start="20250323223000 +0000" stop="20250323231500 +0000" channel="Trans 7.cubmu">
         <title>Imam Akhir 7aman</title>
     </programme>
-    <programme start="20250323223000 +0000" stop="20250323231500 +0000" channel="Trans 7.cubmu">
-        <title>Imam Akhir 7aman</title>
-    </programme>
     <programme start="20250323231500 +0000" stop="20250324000000 +0000" channel="Trans 7.cubmu">
         <title>Titik Targer</title>
-    </programme>
-    <programme start="20250323231500 +0000" stop="20250324000000 +0000" channel="Trans 7.cubmu">
-        <title>Titik Targer</title>
-    </programme>
-    <programme start="20250324000000 +0000" stop="20250324004500 +0000" channel="Trans 7.cubmu">
-        <title>Spotlite</title>
     </programme>
     <programme start="20250324000000 +0000" stop="20250324004500 +0000" channel="Trans 7.cubmu">
         <title>Spotlite</title>
@@ -165,17 +147,8 @@
     <programme start="20250324004500 +0000" stop="20250324013000 +0000" channel="Trans 7.cubmu">
         <title>Selebrita Pagi</title>
     </programme>
-    <programme start="20250324004500 +0000" stop="20250324013000 +0000" channel="Trans 7.cubmu">
-        <title>Selebrita Pagi</title>
-    </programme>
     <programme start="20250324013000 +0000" stop="20250324023000 +0000" channel="Trans 7.cubmu">
         <title>FYP - For Your Pagi</title>
-    </programme>
-    <programme start="20250324013000 +0000" stop="20250324023000 +0000" channel="Trans 7.cubmu">
-        <title>FYP - For Your Pagi</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324031500 +0000" channel="Trans 7.cubmu">
-        <title>Selebrita Heits</title>
     </programme>
     <programme start="20250324023000 +0000" stop="20250324031500 +0000" channel="Trans 7.cubmu">
         <title>Selebrita Heits</title>
@@ -183,17 +156,8 @@
     <programme start="20250324031500 +0000" stop="20250324040000 +0000" channel="Trans 7.cubmu">
         <title>Big-Bang!</title>
     </programme>
-    <programme start="20250324031500 +0000" stop="20250324040000 +0000" channel="Trans 7.cubmu">
-        <title>Big-Bang!</title>
-    </programme>
     <programme start="20250324040000 +0000" stop="20250324044500 +0000" channel="Trans 7.cubmu">
         <title>Enah Bikin Enak</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324044500 +0000" channel="Trans 7.cubmu">
-        <title>Enah Bikin Enak</title>
-    </programme>
-    <programme start="20250324044500 +0000" stop="20250324061500 +0000" channel="Trans 7.cubmu">
-        <title>Movievaganza : Habibie &amp; Ainun</title>
     </programme>
     <programme start="20250324044500 +0000" stop="20250324061500 +0000" channel="Trans 7.cubmu">
         <title>Movievaganza : Habibie &amp; Ainun</title>
@@ -201,17 +165,8 @@
     <programme start="20250324061500 +0000" stop="20250324070000 +0000" channel="Trans 7.cubmu">
         <title>Redaksi</title>
     </programme>
-    <programme start="20250324061500 +0000" stop="20250324070000 +0000" channel="Trans 7.cubmu">
-        <title>Redaksi</title>
-    </programme>
     <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="Trans 7.cubmu">
         <title>Jejak Si Gundul</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="Trans 7.cubmu">
-        <title>Jejak Si Gundul</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="Trans 7.cubmu">
-        <title>Makan Receh Ngabuburit</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="Trans 7.cubmu">
         <title>Makan Receh Ngabuburit</title>
@@ -219,17 +174,8 @@
     <programme start="20250324090000 +0000" stop="20250324110000 +0000" channel="Trans 7.cubmu">
         <title>Thetaer Pas Buka</title>
     </programme>
-    <programme start="20250324090000 +0000" stop="20250324110000 +0000" channel="Trans 7.cubmu">
-        <title>Thetaer Pas Buka</title>
-    </programme>
     <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="Trans 7.cubmu">
         <title>On The Spot</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="Trans 7.cubmu">
-        <title>On The Spot</title>
-    </programme>
-    <programme start="20250324120000 +0000" stop="20250324123000 +0000" channel="Trans 7.cubmu">
-        <title>Secret Story</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324123000 +0000" channel="Trans 7.cubmu">
         <title>Secret Story</title>
@@ -237,17 +183,8 @@
     <programme start="20250324123000 +0000" stop="20250324131500 +0000" channel="Trans 7.cubmu">
         <title>POV - Pasti Obrolan Viral</title>
     </programme>
-    <programme start="20250324123000 +0000" stop="20250324131500 +0000" channel="Trans 7.cubmu">
-        <title>POV - Pasti Obrolan Viral</title>
-    </programme>
     <programme start="20250324131500 +0000" stop="20250324143000 +0000" channel="Trans 7.cubmu">
         <title>Arisan</title>
-    </programme>
-    <programme start="20250324131500 +0000" stop="20250324143000 +0000" channel="Trans 7.cubmu">
-        <title>Arisan</title>
-    </programme>
-    <programme start="20250324143000 +0000" stop="20250324154500 +0000" channel="Trans 7.cubmu">
-        <title>Lapor Pak!</title>
     </programme>
     <programme start="20250324143000 +0000" stop="20250324154500 +0000" channel="Trans 7.cubmu">
         <title>Lapor Pak!</title>
@@ -255,17 +192,8 @@
     <programme start="20250324154500 +0000" stop="20250324163000 +0000" channel="Trans 7.cubmu">
         <title>The Police</title>
     </programme>
-    <programme start="20250324154500 +0000" stop="20250324163000 +0000" channel="Trans 7.cubmu">
-        <title>The Police</title>
-    </programme>
     <programme start="20250324163000 +0000" stop="20250323171500 +0000" channel="Trans 7.cubmu">
         <title>Newstainment</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250323171500 +0000" channel="Trans 7.cubmu">
-        <title>Newstainment</title>
-    </programme>
-    <programme start="20250323174500 +0000" stop="20250323193000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Live From Masjidil Haram</title>
     </programme>
     <programme start="20250323174500 +0000" stop="20250323193000 +0000" channel="CNN Indonesia.cubmu">
         <title>Live From Masjidil Haram</title>
@@ -273,17 +201,8 @@
     <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="CNN Indonesia.cubmu">
         <title>Prime News</title>
     </programme>
-    <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Prime News</title>
-    </programme>
     <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="CNN Indonesia.cubmu">
         <title>Kabi &#039;Kisah Teladan Nabi &amp; Cerita Islami&#039;</title>
-    </programme>
-    <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Kabi &#039;Kisah Teladan Nabi &amp; Cerita Islami&#039;</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323220000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Redaksi Akhir Pekan</title>
     </programme>
     <programme start="20250323213000 +0000" stop="20250323220000 +0000" channel="CNN Indonesia.cubmu">
         <title>Redaksi Akhir Pekan</title>
@@ -291,17 +210,8 @@
     <programme start="20250323220000 +0000" stop="20250323224500 +0000" channel="CNN Indonesia.cubmu">
         <title>Gapai Kemuliaan</title>
     </programme>
-    <programme start="20250323220000 +0000" stop="20250323224500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Gapai Kemuliaan</title>
-    </programme>
     <programme start="20250323224500 +0000" stop="20250324000000 +0000" channel="CNN Indonesia.cubmu">
         <title>Redaksi Pagi</title>
-    </programme>
-    <programme start="20250323224500 +0000" stop="20250324000000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Redaksi Pagi</title>
-    </programme>
-    <programme start="20250324000000 +0000" stop="20250324003000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Lacak Kriminal</title>
     </programme>
     <programme start="20250324000000 +0000" stop="20250324003000 +0000" channel="CNN Indonesia.cubmu">
         <title>Lacak Kriminal</title>
@@ -309,17 +219,8 @@
     <programme start="20250324003000 +0000" stop="20250324013000 +0000" channel="CNN Indonesia.cubmu">
         <title>Good Morning</title>
     </programme>
-    <programme start="20250324003000 +0000" stop="20250324013000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Good Morning</title>
-    </programme>
     <programme start="20250324013000 +0000" stop="20250324023000 +0000" channel="CNN Indonesia.cubmu">
         <title>Kabi &#039;Kisah Teladan Nabi &amp; Cerita Islami&#039;</title>
-    </programme>
-    <programme start="20250324013000 +0000" stop="20250324023000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Kabi &#039;Kisah Teladan Nabi &amp; Cerita Islami&#039;</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Lacak Kriminal</title>
     </programme>
     <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="CNN Indonesia.cubmu">
         <title>Lacak Kriminal</title>
@@ -327,17 +228,8 @@
     <programme start="20250324030000 +0000" stop="20250324030500 +0000" channel="CNN Indonesia.cubmu">
         <title>Go Mudik Update</title>
     </programme>
-    <programme start="20250324030000 +0000" stop="20250324030500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Go Mudik Update</title>
-    </programme>
     <programme start="20250324030500 +0000" stop="20250324040000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Business</title>
-    </programme>
-    <programme start="20250324030500 +0000" stop="20250324040000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia Business</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324040500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Go Mudik Update</title>
     </programme>
     <programme start="20250324040000 +0000" stop="20250324040500 +0000" channel="CNN Indonesia.cubmu">
         <title>Go Mudik Update</title>
@@ -345,17 +237,8 @@
     <programme start="20250324040500 +0000" stop="20250324050000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia News Hour</title>
     </programme>
-    <programme start="20250324040500 +0000" stop="20250324050000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia News Hour</title>
-    </programme>
     <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="CNN Indonesia.cubmu">
         <title>Program Special CNN Indonesia Go Mudik</title>
-    </programme>
-    <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Program Special CNN Indonesia Go Mudik</title>
-    </programme>
-    <programme start="20250324060000 +0000" stop="20250324061500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Sanggraloka</title>
     </programme>
     <programme start="20250324060000 +0000" stop="20250324061500 +0000" channel="CNN Indonesia.cubmu">
         <title>Sanggraloka</title>
@@ -363,17 +246,8 @@
     <programme start="20250324061500 +0000" stop="20250324070000 +0000" channel="CNN Indonesia.cubmu">
         <title>Redaksi</title>
     </programme>
-    <programme start="20250324061500 +0000" stop="20250324070000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Redaksi</title>
-    </programme>
     <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Business</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia Business</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia News Report</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia News Report</title>
@@ -381,17 +255,8 @@
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Newsroom</title>
     </programme>
-    <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia Newsroom</title>
-    </programme>
     <programme start="20250324100000 +0000" stop="20250324100500 +0000" channel="CNN Indonesia.cubmu">
         <title>Go Mudik Update</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324100500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Go Mudik Update</title>
-    </programme>
-    <programme start="20250324100500 +0000" stop="20250324103000 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia Newsroom</title>
     </programme>
     <programme start="20250324100500 +0000" stop="20250324103000 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Newsroom</title>
@@ -399,17 +264,8 @@
     <programme start="20250324103000 +0000" stop="20250324110000 +0000" channel="CNN Indonesia.cubmu">
         <title>Rona Ramadan</title>
     </programme>
-    <programme start="20250324103000 +0000" stop="20250324110000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Rona Ramadan</title>
-    </programme>
     <programme start="20250324110000 +0000" stop="20250324111500 +0000" channel="CNN Indonesia.cubmu">
         <title>Kultum Gapai Kemuliaan</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324111500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Kultum Gapai Kemuliaan</title>
-    </programme>
-    <programme start="20250324111500 +0000" stop="20250324120000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Prime News</title>
     </programme>
     <programme start="20250324111500 +0000" stop="20250324120000 +0000" channel="CNN Indonesia.cubmu">
         <title>Prime News</title>
@@ -417,17 +273,8 @@
     <programme start="20250324120000 +0000" stop="20250324120500 +0000" channel="CNN Indonesia.cubmu">
         <title>Go Mudik Update</title>
     </programme>
-    <programme start="20250324120000 +0000" stop="20250324120500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Go Mudik Update</title>
-    </programme>
     <programme start="20250324120500 +0000" stop="20250324130000 +0000" channel="CNN Indonesia.cubmu">
         <title>Prime News</title>
-    </programme>
-    <programme start="20250324120500 +0000" stop="20250324130000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Prime News</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324130500 +0000" channel="CNN Indonesia.cubmu">
-        <title>Go Mudik Update</title>
     </programme>
     <programme start="20250324130000 +0000" stop="20250324130500 +0000" channel="CNN Indonesia.cubmu">
         <title>Go Mudik Update</title>
@@ -435,29 +282,14 @@
     <programme start="20250324130500 +0000" stop="20250324133000 +0000" channel="CNN Indonesia.cubmu">
         <title>Prime News</title>
     </programme>
-    <programme start="20250324130500 +0000" stop="20250324133000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Prime News</title>
-    </programme>
-    <programme start="20250324133000 +0000" stop="20250324150000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Political Show</title>
-    </programme>
     <programme start="20250324133000 +0000" stop="20250324150000 +0000" channel="CNN Indonesia.cubmu">
         <title>Political Show</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324153000 +0000" channel="CNN Indonesia.cubmu">
         <title>Lacak Kriminal</title>
     </programme>
-    <programme start="20250324150000 +0000" stop="20250324153000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Lacak Kriminal</title>
-    </programme>
     <programme start="20250324153000 +0000" stop="20250324160000 +0000" channel="CNN Indonesia.cubmu">
         <title>Redaksi</title>
-    </programme>
-    <programme start="20250324153000 +0000" stop="20250324160000 +0000" channel="CNN Indonesia.cubmu">
-        <title>Redaksi</title>
-    </programme>
-    <programme start="20250324160000 +0000" stop="20250323171500 +0000" channel="CNN Indonesia.cubmu">
-        <title>CNN Indonesia Newsroom</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250323171500 +0000" channel="CNN Indonesia.cubmu">
         <title>CNN Indonesia Newsroom</title>
@@ -1212,12 +1044,6 @@
     <programme start="20250324155700 +0000" stop="20250324164400 +0000" channel="Knowledge+.cubmu">
         <title>Everyday Elements</title>
     </programme>
-    <programme start="20250324155700 +0000" stop="20250324164400 +0000" channel="Knowledge+.cubmu">
-        <title>Everyday Elements</title>
-    </programme>
-    <programme start="20250324164400 +0000" stop="20250323173300 +0000" channel="Knowledge+.cubmu">
-        <title>Festivals of the World</title>
-    </programme>
     <programme start="20250324164400 +0000" stop="20250323173300 +0000" channel="Knowledge+.cubmu">
         <title>Festivals of the World</title>
     </programme>
@@ -1596,56 +1422,53 @@
     <programme start="20250324153000 +0000" stop="20250323173000 +0000" channel="Indosiar.cubmu">
         <title>Mega Film Asia</title>
     </programme>
-    <programme start="20250323180000 +0000" stop="20250323192500 +0000" channel="SCTV.cubmu">
+    <programme start="20250323180000 +0000" stop="20250323194000 +0000" channel="SCTV.cubmu">
         <title>Program Sahur</title>
     </programme>
-    <programme start="20250323192500 +0000" stop="20250323212500 +0000" channel="SCTV.cubmu">
+    <programme start="20250323194000 +0000" stop="20250323214500 +0000" channel="SCTV.cubmu">
         <title>Para Pencari Tuhan Jilid 18 Dunia Sementara, Coy!</title>
     </programme>
-    <programme start="20250323212500 +0000" stop="20250323225500 +0000" channel="SCTV.cubmu">
+    <programme start="20250323214500 +0000" stop="20250323230600 +0000" channel="SCTV.cubmu">
         <title>Lorong Waktu</title>
     </programme>
-    <programme start="20250323225500 +0000" stop="20250323235600 +0000" channel="SCTV.cubmu">
+    <programme start="20250323230600 +0000" stop="20250324001100 +0000" channel="SCTV.cubmu">
         <title>Liputan 6 Pagi</title>
     </programme>
-    <programme start="20250323235600 +0000" stop="20250324003000 +0000" channel="SCTV.cubmu">
+    <programme start="20250324001100 +0000" stop="20250324004400 +0000" channel="SCTV.cubmu">
         <title>Hot Shot</title>
     </programme>
-    <programme start="20250324003000 +0000" stop="20250324020800 +0000" channel="SCTV.cubmu">
+    <programme start="20250324004400 +0000" stop="20250324021100 +0000" channel="SCTV.cubmu">
         <title>Gaspol: Games Asyik Paling Nampol</title>
     </programme>
-    <programme start="20250324020800 +0000" stop="20250324033800 +0000" channel="SCTV.cubmu">
-        <title>Lucky Voice</title>
-    </programme>
-    <programme start="20250324033800 +0000" stop="20250324054300 +0000" channel="SCTV.cubmu">
-        <title>FTV Pagi</title>
-    </programme>
-    <programme start="20250324054300 +0000" stop="20250324061600 +0000" channel="SCTV.cubmu">
-        <title>Liputan 6 Siang</title>
-    </programme>
-    <programme start="20250324061600 +0000" stop="20250324080000 +0000" channel="SCTV.cubmu">
-        <title>FTV Siang</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324093000 +0000" channel="SCTV.cubmu">
-        <title>Lorong Waktu</title>
-    </programme>
-    <programme start="20250324093000 +0000" stop="20250324111500 +0000" channel="SCTV.cubmu">
+    <programme start="20250324021100 +0000" stop="20250324034500 +0000" channel="SCTV.cubmu">
         <title>Asmara Gen Z</title>
     </programme>
-    <programme start="20250324111500 +0000" stop="20250324130000 +0000" channel="SCTV.cubmu">
+    <programme start="20250324034500 +0000" stop="20250324053200 +0000" channel="SCTV.cubmu">
+        <title>FTV Pagi</title>
+    </programme>
+    <programme start="20250324053200 +0000" stop="20250324060500 +0000" channel="SCTV.cubmu">
+        <title>Liputan 6 Siang</title>
+    </programme>
+    <programme start="20250324060500 +0000" stop="20250324075600 +0000" channel="SCTV.cubmu">
+        <title>FTV Siang</title>
+    </programme>
+    <programme start="20250324075600 +0000" stop="20250324092500 +0000" channel="SCTV.cubmu">
+        <title>Lorong Waktu</title>
+    </programme>
+    <programme start="20250324092500 +0000" stop="20250324111500 +0000" channel="SCTV.cubmu">
+        <title>Asmara Gen Z</title>
+    </programme>
+    <programme start="20250324111500 +0000" stop="20250324131100 +0000" channel="SCTV.cubmu">
         <title>Ketika Cinta Memanggilmu</title>
     </programme>
-    <programme start="20250324130000 +0000" stop="20250324144500 +0000" channel="SCTV.cubmu">
+    <programme start="20250324131100 +0000" stop="20250324143500 +0000" channel="SCTV.cubmu">
         <title>Cinta Di Ujung Sajadah</title>
     </programme>
-    <programme start="20250324144500 +0000" stop="20250324161500 +0000" channel="SCTV.cubmu">
+    <programme start="20250324143500 +0000" stop="20250324160100 +0000" channel="SCTV.cubmu">
         <title>Luka Cinta</title>
     </programme>
-    <programme start="20250324161500 +0000" stop="20250323180000 +0000" channel="SCTV.cubmu">
+    <programme start="20250324160100 +0000" stop="20250323172800 +0000" channel="SCTV.cubmu">
         <title>FTV Primetime</title>
-    </programme>
-    <programme start="20250323170000 +0000" stop="20250323170500 +0000" channel="MetroTV.cubmu">
-        <title>Headline News</title>
     </programme>
     <programme start="20250323170500 +0000" stop="20250323180000 +0000" channel="MetroTV.cubmu">
         <title>Metro Hari Ini</title>
@@ -2157,8 +1980,17 @@
     <programme start="20250323170000 +0000" stop="20250323180000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Malam</title>
     </programme>
+    <programme start="20250323170000 +0000" stop="20250323180000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Malam</title>
+    </programme>
     <programme start="20250323180000 +0000" stop="20250323183000 +0000" channel="Kompas TV.cubmu">
         <title>Cooking Is Fun</title>
+    </programme>
+    <programme start="20250323180000 +0000" stop="20250323183000 +0000" channel="Kompas TV.cubmu">
+        <title>Cooking Is Fun</title>
+    </programme>
+    <programme start="20250323183000 +0000" stop="20250323190000 +0000" channel="Kompas TV.cubmu">
+        <title>Kilas Kompas</title>
     </programme>
     <programme start="20250323183000 +0000" stop="20250323190000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
@@ -2166,8 +1998,17 @@
     <programme start="20250323190000 +0000" stop="20250323200000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Sahur</title>
     </programme>
+    <programme start="20250323190000 +0000" stop="20250323200000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Sahur</title>
+    </programme>
     <programme start="20250323200000 +0000" stop="20250323210000 +0000" channel="Kompas TV.cubmu">
         <title>One Day In The Haram</title>
+    </programme>
+    <programme start="20250323200000 +0000" stop="20250323210000 +0000" channel="Kompas TV.cubmu">
+        <title>One Day In The Haram</title>
+    </programme>
+    <programme start="20250323210000 +0000" stop="20250323213000 +0000" channel="Kompas TV.cubmu">
+        <title>Cities Of Faith</title>
     </programme>
     <programme start="20250323210000 +0000" stop="20250323213000 +0000" channel="Kompas TV.cubmu">
         <title>Cities Of Faith</title>
@@ -2175,8 +2016,17 @@
     <programme start="20250323213000 +0000" stop="20250324000000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Pagi</title>
     </programme>
+    <programme start="20250323213000 +0000" stop="20250324000000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Pagi</title>
+    </programme>
     <programme start="20250324000000 +0000" stop="20250324023000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Pagi</title>
+    </programme>
+    <programme start="20250324000000 +0000" stop="20250324023000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Pagi</title>
+    </programme>
+    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="Kompas TV.cubmu">
+        <title>Kilas Kompas</title>
     </programme>
     <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
@@ -2184,8 +2034,17 @@
     <programme start="20250324030000 +0000" stop="20250324040000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
+    <programme start="20250324030000 +0000" stop="20250324040000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
     <programme start="20250324040000 +0000" stop="20250324060000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Siang</title>
+    </programme>
+    <programme start="20250324040000 +0000" stop="20250324060000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Siang</title>
+    </programme>
+    <programme start="20250324060000 +0000" stop="20250324070000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Siang</title>
     </programme>
     <programme start="20250324060000 +0000" stop="20250324070000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Siang</title>
@@ -2193,8 +2052,17 @@
     <programme start="20250324070000 +0000" stop="20250324073000 +0000" channel="Kompas TV.cubmu">
         <title>Pop News</title>
     </programme>
+    <programme start="20250324070000 +0000" stop="20250324073000 +0000" channel="Kompas TV.cubmu">
+        <title>Pop News</title>
+    </programme>
     <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="Kompas TV.cubmu">
         <title>Jurnal Merah Putih</title>
+    </programme>
+    <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="Kompas TV.cubmu">
+        <title>Jurnal Merah Putih</title>
+    </programme>
+    <programme start="20250324080000 +0000" stop="20250324083000 +0000" channel="Kompas TV.cubmu">
+        <title>Indonesia Update</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324083000 +0000" channel="Kompas TV.cubmu">
         <title>Indonesia Update</title>
@@ -2202,8 +2070,17 @@
     <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="Kompas TV.cubmu">
         <title>Borgol</title>
     </programme>
+    <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="Kompas TV.cubmu">
+        <title>Borgol</title>
+    </programme>
     <programme start="20250324090000 +0000" stop="20250324103000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Petang</title>
+    </programme>
+    <programme start="20250324090000 +0000" stop="20250324103000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Petang</title>
+    </programme>
+    <programme start="20250324103000 +0000" stop="20250324123000 +0000" channel="Kompas TV.cubmu">
+        <title>Sapa Indonesia Malam</title>
     </programme>
     <programme start="20250324103000 +0000" stop="20250324123000 +0000" channel="Kompas TV.cubmu">
         <title>Sapa Indonesia Malam</title>
@@ -2211,14 +2088,29 @@
     <programme start="20250324123000 +0000" stop="20250324133000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
     </programme>
+    <programme start="20250324123000 +0000" stop="20250324133000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
+    <programme start="20250324133000 +0000" stop="20250324143000 +0000" channel="Kompas TV.cubmu">
+        <title>Dipo Investigasi</title>
+    </programme>
     <programme start="20250324133000 +0000" stop="20250324143000 +0000" channel="Kompas TV.cubmu">
         <title>Dipo Investigasi</title>
     </programme>
     <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="Kompas TV.cubmu">
         <title>Kompas Malam</title>
     </programme>
+    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="Kompas TV.cubmu">
+        <title>Kompas Malam</title>
+    </programme>
     <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="Kompas TV.cubmu">
         <title>Berita Utama</title>
+    </programme>
+    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="Kompas TV.cubmu">
+        <title>Berita Utama</title>
+    </programme>
+    <programme start="20250324163000 +0000" stop="20250323183000 +0000" channel="Kompas TV.cubmu">
+        <title>Kilas Kompas</title>
     </programme>
     <programme start="20250324163000 +0000" stop="20250323183000 +0000" channel="Kompas TV.cubmu">
         <title>Kilas Kompas</title>
@@ -2280,44 +2172,8 @@
     <programme start="20250323170000 +0000" stop="20250323173000 +0000" channel="TVRI.cubmu">
         <title>Monitor Olahraga</title>
     </programme>
-    <programme start="20250323170000 +0000" stop="20250323173000 +0000" channel="TVRI.cubmu">
-        <title>Monitor Olahraga</title>
-    </programme>
-    <programme start="20250323170000 +0000" stop="20250323173000 +0000" channel="TVRI.cubmu">
-        <title>Monitor Olahraga</title>
-    </programme>
-    <programme start="20250323170000 +0000" stop="20250323173000 +0000" channel="TVRI.cubmu">
-        <title>Monitor Olahraga</title>
-    </programme>
-    <programme start="20250323170000 +0000" stop="20250323173000 +0000" channel="TVRI.cubmu">
-        <title>Monitor Olahraga</title>
-    </programme>
     <programme start="20250323173000 +0000" stop="20250323193000 +0000" channel="TVRI.cubmu">
         <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250323173000 +0000" stop="20250323193000 +0000" channel="TVRI.cubmu">
-        <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250323173000 +0000" stop="20250323193000 +0000" channel="TVRI.cubmu">
-        <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250323173000 +0000" stop="20250323193000 +0000" channel="TVRI.cubmu">
-        <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250323173000 +0000" stop="20250323193000 +0000" channel="TVRI.cubmu">
-        <title>Antar Gelanggang</title>
-    </programme>
-    <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="TVRI.cubmu">
-        <title>Marbot Ali</title>
-    </programme>
-    <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="TVRI.cubmu">
-        <title>Marbot Ali</title>
-    </programme>
-    <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="TVRI.cubmu">
-        <title>Marbot Ali</title>
-    </programme>
-    <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="TVRI.cubmu">
-        <title>Marbot Ali</title>
     </programme>
     <programme start="20250323193000 +0000" stop="20250323203000 +0000" channel="TVRI.cubmu">
         <title>Marbot Ali</title>
@@ -2325,44 +2181,8 @@
     <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="TVRI.cubmu">
         <title>Pengen Beken</title>
     </programme>
-    <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250323203000 +0000" stop="20250323213000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
     <programme start="20250323213000 +0000" stop="20250323230000 +0000" channel="TVRI.cubmu">
         <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323230000 +0000" channel="TVRI.cubmu">
-        <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323230000 +0000" channel="TVRI.cubmu">
-        <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323230000 +0000" channel="TVRI.cubmu">
-        <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250323213000 +0000" stop="20250323230000 +0000" channel="TVRI.cubmu">
-        <title>Serambi Islami</title>
-    </programme>
-    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Pagi</title>
-    </programme>
-    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Pagi</title>
-    </programme>
-    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Pagi</title>
-    </programme>
-    <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Pagi</title>
     </programme>
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Pagi</title>
@@ -2370,44 +2190,8 @@
     <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TVRI.cubmu">
         <title>Jendela Negeri</title>
     </programme>
-    <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Negeri</title>
-    </programme>
-    <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Negeri</title>
-    </programme>
-    <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Negeri</title>
-    </programme>
-    <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Negeri</title>
-    </programme>
     <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TVRI.cubmu">
         <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TVRI.cubmu">
-        <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TVRI.cubmu">
-        <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TVRI.cubmu">
-        <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TVRI.cubmu">
-        <title>Bersama Perempuan</title>
-    </programme>
-    <programme start="20250324020000 +0000" stop="20250324020300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324020000 +0000" stop="20250324020300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324020000 +0000" stop="20250324020300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324020000 +0000" stop="20250324020300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
     </programme>
     <programme start="20250324020000 +0000" stop="20250324020300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
@@ -2415,44 +2199,8 @@
     <programme start="20250324020300 +0000" stop="20250324023000 +0000" channel="TVRI.cubmu">
         <title>Mari Menggambar</title>
     </programme>
-    <programme start="20250324020300 +0000" stop="20250324023000 +0000" channel="TVRI.cubmu">
-        <title>Mari Menggambar</title>
-    </programme>
-    <programme start="20250324020300 +0000" stop="20250324023000 +0000" channel="TVRI.cubmu">
-        <title>Mari Menggambar</title>
-    </programme>
-    <programme start="20250324020300 +0000" stop="20250324023000 +0000" channel="TVRI.cubmu">
-        <title>Mari Menggambar</title>
-    </programme>
-    <programme start="20250324020300 +0000" stop="20250324023000 +0000" channel="TVRI.cubmu">
-        <title>Mari Menggambar</title>
-    </programme>
     <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="TVRI.cubmu">
         <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324023000 +0000" stop="20250324030000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324030000 +0000" stop="20250324030300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324030000 +0000" stop="20250324030300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324030000 +0000" stop="20250324030300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324030000 +0000" stop="20250324030300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
     </programme>
     <programme start="20250324030000 +0000" stop="20250324030300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
@@ -2460,44 +2208,8 @@
     <programme start="20250324030300 +0000" stop="20250324033000 +0000" channel="TVRI.cubmu">
         <title>Halo Dokter</title>
     </programme>
-    <programme start="20250324030300 +0000" stop="20250324033000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324030300 +0000" stop="20250324033000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324030300 +0000" stop="20250324033000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
-    <programme start="20250324030300 +0000" stop="20250324033000 +0000" channel="TVRI.cubmu">
-        <title>Halo Dokter</title>
-    </programme>
     <programme start="20250324033000 +0000" stop="20250324040000 +0000" channel="TVRI.cubmu">
         <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250324033000 +0000" stop="20250324040000 +0000" channel="TVRI.cubmu">
-        <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250324033000 +0000" stop="20250324040000 +0000" channel="TVRI.cubmu">
-        <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250324033000 +0000" stop="20250324040000 +0000" channel="TVRI.cubmu">
-        <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250324033000 +0000" stop="20250324040000 +0000" channel="TVRI.cubmu">
-        <title>Dapur Devina</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324040300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324040300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324040300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324040000 +0000" stop="20250324040300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
     </programme>
     <programme start="20250324040000 +0000" stop="20250324040300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
@@ -2505,44 +2217,8 @@
     <programme start="20250324040300 +0000" stop="20250324050000 +0000" channel="TVRI.cubmu">
         <title>Seblak Show</title>
     </programme>
-    <programme start="20250324040300 +0000" stop="20250324050000 +0000" channel="TVRI.cubmu">
-        <title>Seblak Show</title>
-    </programme>
-    <programme start="20250324040300 +0000" stop="20250324050000 +0000" channel="TVRI.cubmu">
-        <title>Seblak Show</title>
-    </programme>
-    <programme start="20250324040300 +0000" stop="20250324050000 +0000" channel="TVRI.cubmu">
-        <title>Seblak Show</title>
-    </programme>
-    <programme start="20250324040300 +0000" stop="20250324050000 +0000" channel="TVRI.cubmu">
-        <title>Seblak Show</title>
-    </programme>
     <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Siang</title>
-    </programme>
-    <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="TVRI.cubmu">
-        <title>Oase Indonesia</title>
-    </programme>
-    <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="TVRI.cubmu">
-        <title>Oase Indonesia</title>
-    </programme>
-    <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="TVRI.cubmu">
-        <title>Oase Indonesia</title>
-    </programme>
-    <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="TVRI.cubmu">
-        <title>Oase Indonesia</title>
     </programme>
     <programme start="20250324060000 +0000" stop="20250324063000 +0000" channel="TVRI.cubmu">
         <title>Oase Indonesia</title>
@@ -2550,44 +2226,8 @@
     <programme start="20250324063000 +0000" stop="20250324070000 +0000" channel="TVRI.cubmu">
         <title>Tekno Tani</title>
     </programme>
-    <programme start="20250324063000 +0000" stop="20250324070000 +0000" channel="TVRI.cubmu">
-        <title>Tekno Tani</title>
-    </programme>
-    <programme start="20250324063000 +0000" stop="20250324070000 +0000" channel="TVRI.cubmu">
-        <title>Tekno Tani</title>
-    </programme>
-    <programme start="20250324063000 +0000" stop="20250324070000 +0000" channel="TVRI.cubmu">
-        <title>Tekno Tani</title>
-    </programme>
-    <programme start="20250324063000 +0000" stop="20250324070000 +0000" channel="TVRI.cubmu">
-        <title>Tekno Tani</title>
-    </programme>
     <programme start="20250324070000 +0000" stop="20250324070300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324070300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324070300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324070300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324070000 +0000" stop="20250324070300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324070300 +0000" stop="20250324073000 +0000" channel="TVRI.cubmu">
-        <title>Pesona Indonesia</title>
-    </programme>
-    <programme start="20250324070300 +0000" stop="20250324073000 +0000" channel="TVRI.cubmu">
-        <title>Pesona Indonesia</title>
-    </programme>
-    <programme start="20250324070300 +0000" stop="20250324073000 +0000" channel="TVRI.cubmu">
-        <title>Pesona Indonesia</title>
-    </programme>
-    <programme start="20250324070300 +0000" stop="20250324073000 +0000" channel="TVRI.cubmu">
-        <title>Pesona Indonesia</title>
     </programme>
     <programme start="20250324070300 +0000" stop="20250324073000 +0000" channel="TVRI.cubmu">
         <title>Pesona Indonesia</title>
@@ -2595,44 +2235,8 @@
     <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="TVRI.cubmu">
         <title>Inspirasi Indonesia</title>
     </programme>
-    <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="TVRI.cubmu">
-        <title>Inspirasi Indonesia</title>
-    </programme>
-    <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="TVRI.cubmu">
-        <title>Inspirasi Indonesia</title>
-    </programme>
-    <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="TVRI.cubmu">
-        <title>Inspirasi Indonesia</title>
-    </programme>
-    <programme start="20250324073000 +0000" stop="20250324080000 +0000" channel="TVRI.cubmu">
-        <title>Inspirasi Indonesia</title>
-    </programme>
     <programme start="20250324080000 +0000" stop="20250324080300 +0000" channel="TVRI.cubmu">
         <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324080300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324080300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324080300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324080000 +0000" stop="20250324080300 +0000" channel="TVRI.cubmu">
-        <title>Info Terkini</title>
-    </programme>
-    <programme start="20250324080300 +0000" stop="20250324083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Katolik</title>
-    </programme>
-    <programme start="20250324080300 +0000" stop="20250324083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Katolik</title>
-    </programme>
-    <programme start="20250324080300 +0000" stop="20250324083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Katolik</title>
-    </programme>
-    <programme start="20250324080300 +0000" stop="20250324083000 +0000" channel="TVRI.cubmu">
-        <title>Mimbar Agama Katolik</title>
     </programme>
     <programme start="20250324080300 +0000" stop="20250324083000 +0000" channel="TVRI.cubmu">
         <title>Mimbar Agama Katolik</title>
@@ -2640,44 +2244,8 @@
     <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="TVRI.cubmu">
         <title>Tapal Batas</title>
     </programme>
-    <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="TVRI.cubmu">
-        <title>Tapal Batas</title>
-    </programme>
-    <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="TVRI.cubmu">
-        <title>Tapal Batas</title>
-    </programme>
-    <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="TVRI.cubmu">
-        <title>Tapal Batas</title>
-    </programme>
-    <programme start="20250324083000 +0000" stop="20250324090000 +0000" channel="TVRI.cubmu">
-        <title>Tapal Batas</title>
-    </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TVRI.cubmu">
         <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TVRI.cubmu">
-        <title>Pengen Beken</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Rumah Kita Reborn</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Rumah Kita Reborn</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Rumah Kita Reborn</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TVRI.cubmu">
-        <title>Jendela Rumah Kita Reborn</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TVRI.cubmu">
         <title>Jendela Rumah Kita Reborn</title>
@@ -2685,44 +2253,8 @@
     <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Petang</title>
     </programme>
-    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Petang</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Petang</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Petang</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Petang</title>
-    </programme>
     <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TVRI.cubmu">
         <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TVRI.cubmu">
-        <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TVRI.cubmu">
-        <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TVRI.cubmu">
-        <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TVRI.cubmu">
-        <title>Indonesia Bicara</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TVRI.cubmu">
-        <title>ZOOM: Zona Orang Muda</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TVRI.cubmu">
-        <title>ZOOM: Zona Orang Muda</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TVRI.cubmu">
-        <title>ZOOM: Zona Orang Muda</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TVRI.cubmu">
-        <title>ZOOM: Zona Orang Muda</title>
     </programme>
     <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TVRI.cubmu">
         <title>ZOOM: Zona Orang Muda</title>
@@ -2730,68 +2262,14 @@
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="TVRI.cubmu">
         <title>Dunia Dalam Berita</title>
     </programme>
-    <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="TVRI.cubmu">
-        <title>Dunia Dalam Berita</title>
-    </programme>
-    <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="TVRI.cubmu">
-        <title>Dunia Dalam Berita</title>
-    </programme>
-    <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="TVRI.cubmu">
-        <title>Dunia Dalam Berita</title>
-    </programme>
-    <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="TVRI.cubmu">
-        <title>Dunia Dalam Berita</title>
-    </programme>
-    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="TVRI.cubmu">
-        <title>Kenangan Masa</title>
-    </programme>
-    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="TVRI.cubmu">
-        <title>Kenangan Masa</title>
-    </programme>
-    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="TVRI.cubmu">
-        <title>Kenangan Masa</title>
-    </programme>
-    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="TVRI.cubmu">
-        <title>Kenangan Masa</title>
-    </programme>
     <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="TVRI.cubmu">
         <title>Kenangan Masa</title>
     </programme>
     <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="TVRI.cubmu">
         <title>COD - Canda of the Day</title>
     </programme>
-    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="TVRI.cubmu">
-        <title>COD - Canda of the Day</title>
-    </programme>
-    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="TVRI.cubmu">
-        <title>COD - Canda of the Day</title>
-    </programme>
-    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="TVRI.cubmu">
-        <title>COD - Canda of the Day</title>
-    </programme>
-    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="TVRI.cubmu">
-        <title>COD - Canda of the Day</title>
-    </programme>
     <programme start="20250324163000 +0000" stop="20250323170000 +0000" channel="TVRI.cubmu">
         <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250323170000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250323170000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250323170000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250323170000 +0000" channel="TVRI.cubmu">
-        <title>Klik Indonesia Malam</title>
-    </programme>
-    <programme start="20250323170000 +0000" stop="20250323170300 +0000" channel="jtv.cubmu">
-        <title>Lagu Bagimu Negeri</title>
-    </programme>
-    <programme start="20250323170300 +0000" stop="20250323170800 +0000" channel="jtv.cubmu">
-        <title>Station ID JTV</title>
     </programme>
     <programme start="20250323170800 +0000" stop="20250323173800 +0000" channel="jtv.cubmu">
         <title>Program Kesehatan</title>

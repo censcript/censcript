@@ -23926,76 +23926,76 @@
         <title>That's Clever!</title>
     </programme>
     <programme start="20250323220000 +0000" stop="20250323230000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Adi &amp; Kim</title>
+        <title>Opal Clearance with Kieran &amp; Kim</title>
     </programme>
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Kieran &amp; Kim</title>
+        <title>Opal Clearance with Kieran &amp; Kim</title>
     </programme>
     <programme start="20250324000000 +0000" stop="20250324010000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Kim</title>
+        <title>Tanzanite Clearance with Kieran &amp; Kim</title>
     </programme>
     <programme start="20250324010000 +0000" stop="20250324020000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Kim</title>
+        <title>Amethyst Under £30 Clearance with Kieran &amp; Kim</title>
     </programme>
     <programme start="20250324020000 +0000" stop="20250324030000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Andy O</title>
+        <title>Accessories Clearance with Andy O</title>
     </programme>
     <programme start="20250324030000 +0000" stop="20250324040000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Andy O</title>
+        <title>Accessories Clearance with Andy O</title>
     </programme>
     <programme start="20250324040000 +0000" stop="20250324050000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Andy O</title>
+        <title>Rapid Jewellery Clearance Under £30 with Andy O</title>
     </programme>
     <programme start="20250324050000 +0000" stop="20250324060000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Andy O</title>
+        <title>Rapid Jewellery Clearance Under £30 with Andy O</title>
     </programme>
     <programme start="20250324060000 +0000" stop="20250324070000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Chloe</title>
+        <title>Footwear Clearance with Chloe</title>
     </programme>
     <programme start="20250324070000 +0000" stop="20250324080000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Chloe</title>
+        <title>Footwear Clearance with Chloe</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Chloe</title>
+        <title>Fashion &amp; Handbag Clearance with Chloe</title>
     </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Chloe</title>
+        <title>Fashion &amp; Handbag Clearance with Chloe</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Marina</title>
+        <title>Gemstone Jewellery Clearance Under £20 with Cris</title>
     </programme>
     <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Marina</title>
+        <title>Plain Gold Jewellery Clearance with Cris</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Marina</title>
+        <title>Rapid Gold Clearance with Vikram &amp; Cris</title>
     </programme>
     <programme start="20250324130000 +0000" stop="20250324140000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Marina</title>
+        <title>Ruby Clearance with Vikram &amp; Cris</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324150000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Cris</title>
+        <title>Fashion Clearance with Carmel &amp; Marina</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Cris</title>
+        <title>Fashion Clearance with Carmel &amp; Marina</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324170000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Cris</title>
+        <title>Leather Handbag Clearance with Carmel &amp; Marina</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324180000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Cris</title>
+        <title>Silver Clearance with Carmel &amp; Marina</title>
     </programme>
     <programme start="20250324180000 +0000" stop="20250324190000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Mark</title>
+        <title>Spring Clearance Under £10 with Mark</title>
     </programme>
     <programme start="20250324190000 +0000" stop="20250324200000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Mark</title>
+        <title>Spring Clearance Under £10 with Mark</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324210000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Mark</title>
+        <title>Spring Clearance Under £10 with Mark</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324220000 +0000" channel="TJC HD">
-        <title>Biggest Ever Spring Clearance with Mark</title>
+        <title>Spring Clearance Under £10 with Mark</title>
     </programme>
     <programme start="20250324220000 +0000" stop="20250324230000 +0000" channel="TJC HD">
         <title>Biggest Ever Spring Clearance with Kim</title>
@@ -28237,16 +28237,16 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324090000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Daras e Quran</title>
     </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
-    </programme>
-    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
+    <programme start="20250324100000 +0000" stop="20250324110000 +0000" channel="Takbeer TV">
+        <title>Ramadan Moments</title>
+    </programme>
     <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Salaam Ramadaan</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -28261,10 +28261,10 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324170000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324180000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250324180000 +0000" stop="20250324190000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
