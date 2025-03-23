@@ -12540,16 +12540,16 @@
     <programme start="20250323100000 +0000" stop="20250323103000 +0000" channel="SkySpMainEvHD">
         <title>Live Ted's Notebook: China</title>
     </programme>
-    <programme start="20250323103000 +0000" stop="20250323113000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250323103000 +0000" stop="20250323113001 +0000" channel="SkySpMainEvHD">
         <title>Chinese F1 GP Highlights</title>
     </programme>
-    <programme start="20250323113000 +0000" stop="20250323114500 +0000" channel="SkySpMainEvHD">
-        <title>Carragher vs Thomas Frank Quiz</title>
+    <programme start="20250323113001 +0000" stop="20250323120000 +0000" channel="SkySpMainEvHD">
+        <title>Sky Sports News</title>
     </programme>
-    <programme start="20250323114500 +0000" stop="20250323140000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250323120000 +0000" stop="20250323140001 +0000" channel="SkySpMainEvHD">
         <title>Live WSL: West Ham v Tottenham</title>
     </programme>
-    <programme start="20250323140000 +0000" stop="20250323150000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250323140001 +0000" stop="20250323150000 +0000" channel="SkySpMainEvHD">
         <title>Sports Sunday</title>
     </programme>
     <programme start="20250323150000 +0000" stop="20250323160000 +0000" channel="SkySpMainEvHD">
@@ -35286,8 +35286,11 @@
     <programme start="20250323020000 +0000" stop="20250323050000 +0000" channel="BBC R2">
         <title>Dance Sounds of the 90s with Vernon Kay</title>
     </programme>
-    <programme start="20250323050000 +0000" stop="20250323090000 +0000" channel="BBC R2">
+    <programme start="20250323050000 +0000" stop="20250323060000 +0000" channel="BBC R2">
         <title>Tracks of My Years</title>
+    </programme>
+    <programme start="20250323060000 +0000" stop="20250323090000 +0000" channel="BBC R2">
+        <title>Good Morning Sunday</title>
     </programme>
     <programme start="20250323090000 +0000" stop="20250323110000 +0000" channel="BBC R2">
         <title>Love Songs with Michael Ball</title>
