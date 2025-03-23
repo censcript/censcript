@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323115000 +0000" stop="20250323141000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - West Ham United v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250323135000 +0000" stop="20250323171000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Georgia v Armenia</title>
     </programme>

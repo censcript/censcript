@@ -36639,9 +36639,6 @@
     <programme start="20250323230000 +0000" stop="20250324000000 +0000" channel="TWR">
         <title>TWR Focus</title>
     </programme>
-    <programme start="20250322130000 +0000" stop="20250323090000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
-    </programme>
     <programme start="20250323090000 +0000" stop="20250323093000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
     </programme>
