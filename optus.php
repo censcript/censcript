@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA Nations League - Portugal v Denmark</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - France v Croatia</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Nations League - Spain v Netherlands</title>
-    </programme>
-    <programme start="20250323193500 +0000" stop="20250323225500 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA Nations League - Republic of Ireland v Bulgaria</title>
-    </programme>
-    <programme start="20250323210000 +0000" stop="20250323233000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Gotham FC v Orlando Pride</title>
-    </programme>
     <programme start="20250324165000 +0000" stop="20250324191000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Lithuania v Finland</title>
     </programme>
@@ -75,19 +60,19 @@
     <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Washington Spirit v Bay FC</title>
     </programme>
-    <programme start="20250329035000 +0000" stop="20250329060500 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250329035000 +0000" stop="20250329060500 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Fagiano Okayama v Yokohama FM</title>
     </programme>
-    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250329045000 +0000" stop="20250329071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Daegu</title>
     </programme>
-    <programme start="20250329055500 +0000" stop="20250329081000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250329055500 +0000" stop="20250329081000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Kashima v Vissel Kobe</title>
     </programme>
     <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Ulsan</title>
     </programme>
-    <programme start="20250329075500 +0000" stop="20250329101000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250329075500 +0000" stop="20250329101000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - FC Tokyo v Kawasaki</title>
     </programme>
     <programme start="20250329120500 +0000" stop="20250329152500 +0000" channel="Optus Sport 2.optus">
@@ -180,7 +165,7 @@
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories</title>
     </programme>
-    <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v RB Leipzig</title>
     </programme>
     <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 6.optus">

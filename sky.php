@@ -1768,7 +1768,7 @@
         <title>River Monsters</title>
     </programme>
     <programme start="20250324012000 +0000" stop="20250324022000 +0000" channel="ITV4 HD">
-        <title>Minder</title>
+        <title>The Sweeney</title>
     </programme>
     <programme start="20250324022000 +0000" stop="20250324025000 +0000" channel="ITV4 HD">
         <title>The Protectors</title>
@@ -8308,7 +8308,7 @@
         <title>River Monsters</title>
     </programme>
     <programme start="20250324022000 +0000" stop="20250324032000 +0000" channel="ITV4+1">
-        <title>Minder</title>
+        <title>The Sweeney</title>
     </programme>
     <programme start="20250324032000 +0000" stop="20250324035000 +0000" channel="ITV4+1">
         <title>The Protectors</title>
