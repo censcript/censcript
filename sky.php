@@ -14484,11 +14484,8 @@
     <programme start="20250324114500 +0000" stop="20250324131500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250324131500 +0000" stop="20250324133000 +0000" channel="Racing TV">
+    <programme start="20250324131500 +0000" stop="20250324140000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
-    </programme>
-    <programme start="20250324133000 +0000" stop="20250324140000 +0000" channel="Racing TV">
-        <title>Mark Your Card</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="Racing TV">
         <title>Mark Your Card</title>
@@ -15289,10 +15286,10 @@
         <title>1/2: People Who Don't Drink</title>
     </programme>
     <programme start="20250324063500 +0000" stop="20250324064000 +0000" channel="NHK World HD">
-        <title>1/50: People Who Lost A Newborn</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324064000 +0000" stop="20250324064500 +0000" channel="NHK World HD">
-        <title>1/156: Transgenders</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324064500 +0000" stop="20250324065500 +0000" channel="NHK World HD">
         <title>Sing for Ukraine, Sing for Peace</title>
@@ -15352,13 +15349,13 @@
         <title>Newsroom Tokyo</title>
     </programme>
     <programme start="20250324123000 +0000" stop="20250324123500 +0000" channel="NHK World HD">
-        <title>1/45: Gambling Addiction</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324123500 +0000" stop="20250324124000 +0000" channel="NHK World HD">
-        <title>1/27: People Without Smartphones</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324124000 +0000" stop="20250324124500 +0000" channel="NHK World HD">
-        <title>1/2500: New Farmers</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324124500 +0000" stop="20250324125500 +0000" channel="NHK World HD">
         <title>Sing for Ukraine, Sing for Peace</title>
@@ -15409,13 +15406,13 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250324173000 +0000" stop="20250324173500 +0000" channel="NHK World HD">
-        <title>1/36: Foreign Residents in Japan</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324173500 +0000" stop="20250324174000 +0000" channel="NHK World HD">
-        <title>1/30: People With Mental Illness</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324174000 +0000" stop="20250324174500 +0000" channel="NHK World HD">
-        <title>1/10: Married By Matching Apps</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324174500 +0000" stop="20250324175500 +0000" channel="NHK World HD">
         <title>Sing for Ukraine, Sing for Peace</title>
@@ -15478,13 +15475,13 @@
         <title>Newsline Biz</title>
     </programme>
     <programme start="20250324223000 +0000" stop="20250324223500 +0000" channel="NHK World HD">
-        <title>1/1000: Lay Judges</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324223500 +0000" stop="20250324224000 +0000" channel="NHK World HD">
-        <title>1/2: People Who Don't Drink</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324224000 +0000" stop="20250324224500 +0000" channel="NHK World HD">
-        <title>1/50: People Who Lost A Newborn</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20250324224500 +0000" stop="20250324225500 +0000" channel="NHK World HD">
         <title>Sing for Ukraine, Sing for Peace</title>
@@ -25803,11 +25800,8 @@
     <programme start="20250324070000 +0000" stop="20250324073000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250324073000 +0000" stop="20250324075500 +0000" channel="COLORS HD">
+    <programme start="20250324073000 +0000" stop="20250324082500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250324075500 +0000" stop="20250324082500 +0000" channel="COLORS HD">
-        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250324082500 +0000" stop="20250324085500 +0000" channel="COLORS HD">
         <title>Suman Indori</title>
@@ -25845,11 +25839,8 @@
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="COLORS HD">
         <title>Suman Indori</title>
     </programme>
-    <programme start="20250324143000 +0000" stop="20250324145500 +0000" channel="COLORS HD">
+    <programme start="20250324143000 +0000" stop="20250324152500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250324145500 +0000" stop="20250324152500 +0000" channel="COLORS HD">
-        <title>Suman Indori</title>
     </programme>
     <programme start="20250324152500 +0000" stop="20250324160000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -27744,10 +27735,7 @@
     <programme start="20250324183000 +0000" stop="20250324190000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250324190000 +0000" stop="20250324193000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
-    </programme>
-    <programme start="20250324193000 +0000" stop="20250324200000 +0000" channel="GEO TV">
+    <programme start="20250324190000 +0000" stop="20250324200000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324210000 +0000" channel="GEO TV">
@@ -28095,44 +28083,41 @@
     <programme start="20250324140000 +0000" stop="20250324150000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
     </programme>
-    <programme start="20250324150000 +0000" stop="20250324152000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
-    </programme>
-    <programme start="20250324152000 +0000" stop="20250324160000 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
+    <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="Islam TV">
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324162200 +0000" channel="Islam TV">
-        <title>Kidz World</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324162200 +0000" stop="20250324162700 +0000" channel="Islam TV">
         <title>Asr Azan</title>
     </programme>
     <programme start="20250324162700 +0000" stop="20250324170000 +0000" channel="Islam TV">
-        <title>Kidz World</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324175000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324175000 +0000" stop="20250324182600 +0000" channel="Islam TV">
-        <title>Taraweeh Prayer from Makkah</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324182600 +0000" stop="20250324183100 +0000" channel="Islam TV">
         <title>Maghrib Azan</title>
     </programme>
-    <programme start="20250324183100 +0000" stop="20250324191000 +0000" channel="Islam TV">
-        <title>Taraweeh Prayer from Makkah</title>
+    <programme start="20250324183100 +0000" stop="20250324190000 +0000" channel="Islam TV">
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
-    <programme start="20250324191000 +0000" stop="20250324200000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+    <programme start="20250324190000 +0000" stop="20250324200000 +0000" channel="Islam TV">
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324200500 +0000" channel="Islam TV">
         <title>Isha Azan</title>
     </programme>
     <programme start="20250324200500 +0000" stop="20250324210000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324213000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250324213000 +0000" stop="20250324220000 +0000" channel="Islam TV">
         <title>Live Tahajjud from Makkaah</title>
@@ -29832,19 +29817,10 @@
     <programme start="20250324121200 +0000" stop="20250324121700 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250324121700 +0000" stop="20250324123000 +0000" channel="ATN">
+    <programme start="20250324121700 +0000" stop="20250324130000 +0000" channel="ATN">
         <title>Hamd O Nath</title>
     </programme>
-    <programme start="20250324123000 +0000" stop="20250324130000 +0000" channel="ATN">
-        <title>Hamd O Nath</title>
-    </programme>
-    <programme start="20250324130000 +0000" stop="20250324131500 +0000" channel="ATN">
-        <title>Talimul Quran</title>
-    </programme>
-    <programme start="20250324131500 +0000" stop="20250324132000 +0000" channel="ATN">
-        <title>Zuhr Adhaan</title>
-    </programme>
-    <programme start="20250324132000 +0000" stop="20250324133000 +0000" channel="ATN">
+    <programme start="20250324130000 +0000" stop="20250324133000 +0000" channel="ATN">
         <title>Talimul Quran</title>
     </programme>
     <programme start="20250324133000 +0000" stop="20250324135000 +0000" channel="ATN">
@@ -29862,13 +29838,7 @@
     <programme start="20250324153000 +0000" stop="20250324160000 +0000" channel="ATN">
         <title>Quran Tilawat</title>
     </programme>
-    <programme start="20250324160000 +0000" stop="20250324161000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250324161000 +0000" stop="20250324161500 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250324161500 +0000" stop="20250324162200 +0000" channel="ATN">
+    <programme start="20250324160000 +0000" stop="20250324162200 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250324162200 +0000" stop="20250324162700 +0000" channel="ATN">
@@ -29877,46 +29847,25 @@
     <programme start="20250324162700 +0000" stop="20250324163000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250324163000 +0000" stop="20250324164500 +0000" channel="ATN">
+    <programme start="20250324163000 +0000" stop="20250324170000 +0000" channel="ATN">
         <title>Your Daily Ramadan Reminder</title>
     </programme>
-    <programme start="20250324164500 +0000" stop="20250324170000 +0000" channel="ATN">
-        <title>Your Daily Ramadan Reminder</title>
-    </programme>
-    <programme start="20250324170000 +0000" stop="20250324180900 +0000" channel="ATN">
+    <programme start="20250324170000 +0000" stop="20250324182400 +0000" channel="ATN">
         <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250324180900 +0000" stop="20250324181200 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250324181200 +0000" stop="20250324182400 +0000" channel="ATN">
-        <title>Islamer Pothe</title>
     </programme>
     <programme start="20250324182400 +0000" stop="20250324182900 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250324182900 +0000" stop="20250324183000 +0000" channel="ATN">
+    <programme start="20250324182900 +0000" stop="20250324184700 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250324183000 +0000" stop="20250324184700 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250324184700 +0000" stop="20250324192500 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250324192500 +0000" stop="20250324193000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250324193000 +0000" stop="20250324194300 +0000" channel="ATN">
+    <programme start="20250324184700 +0000" stop="20250324194300 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250324194300 +0000" stop="20250324194800 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250324194800 +0000" stop="20250324234800 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250324234800 +0000" stop="20250325004800 +0000" channel="ATN">
+    <programme start="20250324194800 +0000" stop="20250324204800 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250323223000 +0000" stop="20250323230000 +0000" channel="NTV">
@@ -34236,11 +34185,8 @@
     <programme start="20250324114500 +0000" stop="20250324131500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250324131500 +0000" stop="20250324133000 +0000" channel="Racing TV HD">
+    <programme start="20250324131500 +0000" stop="20250324140000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
-    </programme>
-    <programme start="20250324133000 +0000" stop="20250324140000 +0000" channel="Racing TV HD">
-        <title>Mark Your Card</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="Racing TV HD">
         <title>Mark Your Card</title>
