@@ -25440,16 +25440,25 @@
     <programme start="20250324075000 +0000" stop="20250324082100 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250324082100 +0000" stop="20250324085200 +0000" channel="SONY TV HD">
+    <programme start="20250324082100 +0000" stop="20250324082200 +0000" channel="SONY TV HD">
+        <title>Katha Ankahee</title>
+    </programme>
+    <programme start="20250324082200 +0000" stop="20250324085200 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250324085200 +0000" stop="20250324095300 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250324095300 +0000" stop="20250324105400 +0000" channel="SONY TV HD">
+    <programme start="20250324095300 +0000" stop="20250324105300 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250324105400 +0000" stop="20250324112400 +0000" channel="SONY TV HD">
+    <programme start="20250324105300 +0000" stop="20250324105400 +0000" channel="SONY TV HD">
+        <title>Yeh Un Dinon Ki Baat Hai</title>
+    </programme>
+    <programme start="20250324105400 +0000" stop="20250324112300 +0000" channel="SONY TV HD">
+        <title>Yeh Un Dinon Ki Baat Hai</title>
+    </programme>
+    <programme start="20250324112300 +0000" stop="20250324112400 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250324112400 +0000" stop="20250324115400 +0000" channel="SONY TV HD">
@@ -25464,13 +25473,22 @@
     <programme start="20250324143000 +0000" stop="20250324152900 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250324152900 +0000" stop="20250324162900 +0000" channel="SONY TV HD">
+    <programme start="20250324152900 +0000" stop="20250324153000 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250324162900 +0000" stop="20250324175500 +0000" channel="SONY TV HD">
+    <programme start="20250324153000 +0000" stop="20250324162900 +0000" channel="SONY TV HD">
+        <title>CID</title>
+    </programme>
+    <programme start="20250324162900 +0000" stop="20250324163000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250324175500 +0000" stop="20250324182900 +0000" channel="SONY TV HD">
+    <programme start="20250324163000 +0000" stop="20250324175500 +0000" channel="SONY TV HD">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250324175500 +0000" stop="20250324175700 +0000" channel="SONY TV HD">
+        <title>Mere Sai - Shraddha Aur Saburi</title>
+    </programme>
+    <programme start="20250324175700 +0000" stop="20250324182900 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250324182900 +0000" stop="20250324185900 +0000" channel="SONY TV HD">
@@ -34536,16 +34554,25 @@
     <programme start="20250324075000 +0000" stop="20250324082100 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250324082100 +0000" stop="20250324085200 +0000" channel="SONY TV">
+    <programme start="20250324082100 +0000" stop="20250324082200 +0000" channel="SONY TV">
+        <title>Katha Ankahee</title>
+    </programme>
+    <programme start="20250324082200 +0000" stop="20250324085200 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250324085200 +0000" stop="20250324095300 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250324095300 +0000" stop="20250324105400 +0000" channel="SONY TV">
+    <programme start="20250324095300 +0000" stop="20250324105300 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250324105400 +0000" stop="20250324112400 +0000" channel="SONY TV">
+    <programme start="20250324105300 +0000" stop="20250324105400 +0000" channel="SONY TV">
+        <title>Yeh Un Dinon Ki Baat Hai</title>
+    </programme>
+    <programme start="20250324105400 +0000" stop="20250324112300 +0000" channel="SONY TV">
+        <title>Yeh Un Dinon Ki Baat Hai</title>
+    </programme>
+    <programme start="20250324112300 +0000" stop="20250324112400 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250324112400 +0000" stop="20250324115400 +0000" channel="SONY TV">
@@ -34560,13 +34587,22 @@
     <programme start="20250324143000 +0000" stop="20250324152900 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250324152900 +0000" stop="20250324162900 +0000" channel="SONY TV">
+    <programme start="20250324152900 +0000" stop="20250324153000 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250324162900 +0000" stop="20250324175500 +0000" channel="SONY TV">
+    <programme start="20250324153000 +0000" stop="20250324162900 +0000" channel="SONY TV">
+        <title>CID</title>
+    </programme>
+    <programme start="20250324162900 +0000" stop="20250324163000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250324175500 +0000" stop="20250324182900 +0000" channel="SONY TV">
+    <programme start="20250324163000 +0000" stop="20250324175500 +0000" channel="SONY TV">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250324175500 +0000" stop="20250324175700 +0000" channel="SONY TV">
+        <title>Mere Sai - Shraddha Aur Saburi</title>
+    </programme>
+    <programme start="20250324175700 +0000" stop="20250324182900 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250324182900 +0000" stop="20250324185900 +0000" channel="SONY TV">
