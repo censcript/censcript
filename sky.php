@@ -30106,7 +30106,7 @@
         <title>Quranic Arabic</title>
     </programme>
     <programme start="20250324090000 +0000" stop="20250324100000 +0000" channel="iON TV">
-        <title>Tafseer-ul-Qur'aan</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324103000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -30136,7 +30136,7 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250324162200 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
