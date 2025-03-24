@@ -14952,7 +14952,10 @@
     <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="BBC Parl HD">
         <title>Live Defence Questions</title>
     </programme>
-    <programme start="20250324153000 +0000" stop="20250324223000 +0000" channel="BBC Parl HD">
+    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="BBC Parl HD">
+        <title>Live Heathrow Airport Statement</title>
+    </programme>
+    <programme start="20250324163000 +0000" stop="20250324223000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250324223000 +0000" stop="20250324231500 +0000" channel="BBC Parl HD">
@@ -15774,8 +15777,11 @@
     <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
     </programme>
-    <programme start="20250324163000 +0000" stop="20250324173000 +0000" channel="NDTV World">
-        <title>The 10 O'Clock News</title>
+    <programme start="20250324163000 +0000" stop="20250324170000 +0000" channel="NDTV World">
+        <title>News Night</title>
+    </programme>
+    <programme start="20250324170000 +0000" stop="20250324173000 +0000" channel="NDTV World">
+        <title>News</title>
     </programme>
     <programme start="20250324173000 +0000" stop="20250324183000 +0000" channel="NDTV World">
         <title>News</title>
@@ -25437,10 +25443,7 @@
     <programme start="20250324072300 +0000" stop="20250324075000 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250324075000 +0000" stop="20250324082100 +0000" channel="SONY TV HD">
-        <title>Katha Ankahee</title>
-    </programme>
-    <programme start="20250324082100 +0000" stop="20250324082200 +0000" channel="SONY TV HD">
+    <programme start="20250324075000 +0000" stop="20250324082200 +0000" channel="SONY TV HD">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250324082200 +0000" stop="20250324085200 +0000" channel="SONY TV HD">
@@ -25452,16 +25455,10 @@
     <programme start="20250324095300 +0000" stop="20250324105300 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250324105300 +0000" stop="20250324105400 +0000" channel="SONY TV HD">
+    <programme start="20250324105300 +0000" stop="20250324112300 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250324105400 +0000" stop="20250324112300 +0000" channel="SONY TV HD">
-        <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250324112300 +0000" stop="20250324112400 +0000" channel="SONY TV HD">
-        <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250324112400 +0000" stop="20250324115400 +0000" channel="SONY TV HD">
+    <programme start="20250324112300 +0000" stop="20250324115400 +0000" channel="SONY TV HD">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250324115400 +0000" stop="20250324131600 +0000" channel="SONY TV HD">
@@ -25470,23 +25467,14 @@
     <programme start="20250324131600 +0000" stop="20250324143000 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250324143000 +0000" stop="20250324152900 +0000" channel="SONY TV HD">
+    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250324152900 +0000" stop="20250324153000 +0000" channel="SONY TV HD">
+    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250324153000 +0000" stop="20250324162900 +0000" channel="SONY TV HD">
-        <title>CID</title>
-    </programme>
-    <programme start="20250324162900 +0000" stop="20250324163000 +0000" channel="SONY TV HD">
+    <programme start="20250324163000 +0000" stop="20250324175700 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250324175500 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250324175500 +0000" stop="20250324175700 +0000" channel="SONY TV HD">
-        <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250324175700 +0000" stop="20250324182900 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
@@ -27036,38 +27024,23 @@
     <programme start="20250324071500 +0000" stop="20250324081500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250324081500 +0000" stop="20250324082500 +0000" channel="MTA1 World HD">
+    <programme start="20250324081500 +0000" stop="20250324083500 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250324082500 +0000" stop="20250324083500 +0000" channel="MTA1 World HD">
-        <title>World News</title>
-    </programme>
-    <programme start="20250324083500 +0000" stop="20250324084500 +0000" channel="MTA1 World HD">
-        <title>Islam Amn-e-Alam</title>
-    </programme>
-    <programme start="20250324084500 +0000" stop="20250324091500 +0000" channel="MTA1 World HD">
+    <programme start="20250324083500 +0000" stop="20250324091500 +0000" channel="MTA1 World HD">
         <title>Islam Amn-e-Alam</title>
     </programme>
     <programme start="20250324091500 +0000" stop="20250324092000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250324092000 +0000" stop="20250324093000 +0000" channel="MTA1 World HD">
+    <programme start="20250324092000 +0000" stop="20250324095500 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2023</title>
     </programme>
-    <programme start="20250324093000 +0000" stop="20250324095500 +0000" channel="MTA1 World HD">
-        <title>Peace Symposium 2023</title>
-    </programme>
-    <programme start="20250324095500 +0000" stop="20250324100500 +0000" channel="MTA1 World HD">
+    <programme start="20250324095500 +0000" stop="20250324110000 +0000" channel="MTA1 World HD">
         <title>Deeni-o-Fiqa'hi Masa'il</title>
     </programme>
-    <programme start="20250324100500 +0000" stop="20250324110000 +0000" channel="MTA1 World HD">
-        <title>Deeni-o-Fiqa'hi Masa'il</title>
-    </programme>
-    <programme start="20250324110000 +0000" stop="20250324111000 +0000" channel="MTA1 World HD">
+    <programme start="20250324110000 +0000" stop="20250324120000 +0000" channel="MTA1 World HD">
         <title>From The Archives</title>
-    </programme>
-    <programme start="20250324111000 +0000" stop="20250324120000 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
     </programme>
     <programme start="20250324120000 +0000" stop="20250324121500 +0000" channel="MTA1 World HD">
         <title>The Phonograph Of Promised Messiah</title>
@@ -29742,16 +29715,16 @@
     <programme start="20250324121700 +0000" stop="20250324123000 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250324123000 +0000" stop="20250324135300 +0000" channel="IQRA Bangla">
+    <programme start="20250324123000 +0000" stop="20250324140000 +0000" channel="IQRA Bangla">
         <title>Ramadan Q&amp;A</title>
-    </programme>
-    <programme start="20250324135300 +0000" stop="20250324140000 +0000" channel="IQRA Bangla">
-        <title>Beautiful Mosques</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="IQRA Bangla">
         <title>Healthy Iftar</title>
     </programme>
-    <programme start="20250324143000 +0000" stop="20250324162200 +0000" channel="IQRA Bangla">
+    <programme start="20250324143000 +0000" stop="20250324150000 +0000" channel="IQRA Bangla">
+        <title>Joyful Ramadan</title>
+    </programme>
+    <programme start="20250324150000 +0000" stop="20250324162200 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250324162200 +0000" stop="20250324162700 +0000" channel="IQRA Bangla">
@@ -34551,10 +34524,7 @@
     <programme start="20250324072300 +0000" stop="20250324075000 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
-    <programme start="20250324075000 +0000" stop="20250324082100 +0000" channel="SONY TV">
-        <title>Katha Ankahee</title>
-    </programme>
-    <programme start="20250324082100 +0000" stop="20250324082200 +0000" channel="SONY TV">
+    <programme start="20250324075000 +0000" stop="20250324082200 +0000" channel="SONY TV">
         <title>Katha Ankahee</title>
     </programme>
     <programme start="20250324082200 +0000" stop="20250324085200 +0000" channel="SONY TV">
@@ -34566,16 +34536,10 @@
     <programme start="20250324095300 +0000" stop="20250324105300 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250324105300 +0000" stop="20250324105400 +0000" channel="SONY TV">
+    <programme start="20250324105300 +0000" stop="20250324112300 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20250324105400 +0000" stop="20250324112300 +0000" channel="SONY TV">
-        <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250324112300 +0000" stop="20250324112400 +0000" channel="SONY TV">
-        <title>Yeh Un Dinon Ki Baat Hai</title>
-    </programme>
-    <programme start="20250324112400 +0000" stop="20250324115400 +0000" channel="SONY TV">
+    <programme start="20250324112300 +0000" stop="20250324115400 +0000" channel="SONY TV">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
     <programme start="20250324115400 +0000" stop="20250324131600 +0000" channel="SONY TV">
@@ -34584,23 +34548,14 @@
     <programme start="20250324131600 +0000" stop="20250324143000 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250324143000 +0000" stop="20250324152900 +0000" channel="SONY TV">
+    <programme start="20250324143000 +0000" stop="20250324153000 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250324152900 +0000" stop="20250324153000 +0000" channel="SONY TV">
+    <programme start="20250324153000 +0000" stop="20250324163000 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250324153000 +0000" stop="20250324162900 +0000" channel="SONY TV">
-        <title>CID</title>
-    </programme>
-    <programme start="20250324162900 +0000" stop="20250324163000 +0000" channel="SONY TV">
+    <programme start="20250324163000 +0000" stop="20250324175700 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250324163000 +0000" stop="20250324175500 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250324175500 +0000" stop="20250324175700 +0000" channel="SONY TV">
-        <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
     <programme start="20250324175700 +0000" stop="20250324182900 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
