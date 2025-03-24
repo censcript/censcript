@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250324165000 +0000" stop="20250324191000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Lithuania v Finland</title>
-    </programme>
     <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - England v Latvia</title>
     </programme>
