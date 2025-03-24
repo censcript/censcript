@@ -29347,22 +29347,25 @@
         <title>Punjabi News</title>
     </programme>
     <programme start="20250324080000 +0000" stop="20250324100000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250324100000 +0000" stop="20250324103000 +0000" channel="PoliticsPunjab">
         <title>News</title>
     </programme>
     <programme start="20250324103000 +0000" stop="20250324103500 +0000" channel="PoliticsPunjab">
-        <title>Fatafat News</title>
+        <title>Gurbani, Katha &amp; Kirtan</title>
     </programme>
-    <programme start="20250324103500 +0000" stop="20250324130000 +0000" channel="PoliticsPunjab">
+    <programme start="20250324103500 +0000" stop="20250324110000 +0000" channel="PoliticsPunjab">
         <title>D-Live: Khalistan Referendum, LA</title>
+    </programme>
+    <programme start="20250324110000 +0000" stop="20250324130000 +0000" channel="PoliticsPunjab">
+        <title>Fatafat News</title>
     </programme>
     <programme start="20250324130000 +0000" stop="20250324133000 +0000" channel="PoliticsPunjab">
         <title>Punjabi News</title>
     </programme>
     <programme start="20250324133000 +0000" stop="20250324150000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Gurbani, Katha &amp; Kirtan</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324150500 +0000" channel="PoliticsPunjab">
         <title>Fatafat News</title>
@@ -29374,7 +29377,7 @@
         <title>Fatafat News</title>
     </programme>
     <programme start="20250324160500 +0000" stop="20250324170000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Live: Ranjit Nagara</title>
     </programme>
     <programme start="20250324170000 +0000" stop="20250324173000 +0000" channel="PoliticsPunjab">
         <title>Rehras Sahib Path</title>
@@ -29383,22 +29386,22 @@
         <title>News</title>
     </programme>
     <programme start="20250324180000 +0000" stop="20250324190000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Live: Current Affairs</title>
     </programme>
     <programme start="20250324190000 +0000" stop="20250324210000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Live: Jawaab Mangda Punjab</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324213000 +0000" channel="PoliticsPunjab">
         <title>News</title>
     </programme>
     <programme start="20250324213000 +0000" stop="20250324223000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Ranjit Nagara (Bikramjit Singh)</title>
     </programme>
     <programme start="20250324223000 +0000" stop="20250324223500 +0000" channel="PoliticsPunjab">
         <title>Fatafat News</title>
     </programme>
     <programme start="20250324223500 +0000" stop="20250324233000 +0000" channel="PoliticsPunjab">
-        <title>D-Live: Khalistan Referendum, LA</title>
+        <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250324233000 +0000" stop="20250325003000 +0000" channel="PoliticsPunjab">
         <title>D-Live: Khalistan Referendum, LA</title>
