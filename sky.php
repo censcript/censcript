@@ -13483,16 +13483,16 @@
         <title>Live: Good Morning Football</title>
     </programme>
     <programme start="20250324140000 +0000" stop="20250324141500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Hull KR v Hull FC Hlts</title>
     </programme>
     <programme start="20250324141500 +0000" stop="20250324143000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: St Helens v Wigan Hlts</title>
     </programme>
     <programme start="20250324143000 +0000" stop="20250324144500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Leeds v Warrington Hlts</title>
     </programme>
     <programme start="20250324144500 +0000" stop="20250324150000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24 Highlights</title>
+        <title>S/Lge 24: Leigh v Wigan Hlts</title>
     </programme>
     <programme start="20250324150000 +0000" stop="20250324160000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Azim v Lipinets</title>
@@ -24073,7 +24073,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324210000 +0000" channel="QVC Beauty">
-        <title>Alison Young: SPF</title>
+        <title>Jurlique with Alison Young</title>
     </programme>
     <programme start="20250324210000 +0000" stop="20250324220000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -27024,23 +27024,44 @@
     <programme start="20250324070000 +0000" stop="20250324071500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Ramadhan</title>
     </programme>
-    <programme start="20250324071500 +0000" stop="20250324082500 +0000" channel="MTA1 World HD">
+    <programme start="20250324071500 +0000" stop="20250324081500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250324082500 +0000" stop="20250324084500 +0000" channel="MTA1 World HD">
+    <programme start="20250324081500 +0000" stop="20250324082500 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250324084500 +0000" stop="20250324093000 +0000" channel="MTA1 World HD">
+    <programme start="20250324082500 +0000" stop="20250324083500 +0000" channel="MTA1 World HD">
+        <title>World News</title>
+    </programme>
+    <programme start="20250324083500 +0000" stop="20250324084500 +0000" channel="MTA1 World HD">
         <title>Islam Amn-e-Alam</title>
     </programme>
-    <programme start="20250324093000 +0000" stop="20250324100500 +0000" channel="MTA1 World HD">
+    <programme start="20250324084500 +0000" stop="20250324091500 +0000" channel="MTA1 World HD">
+        <title>Islam Amn-e-Alam</title>
+    </programme>
+    <programme start="20250324091500 +0000" stop="20250324092000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250324092000 +0000" stop="20250324093000 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2023</title>
     </programme>
-    <programme start="20250324100500 +0000" stop="20250324111000 +0000" channel="MTA1 World HD">
+    <programme start="20250324093000 +0000" stop="20250324095500 +0000" channel="MTA1 World HD">
+        <title>Peace Symposium 2023</title>
+    </programme>
+    <programme start="20250324095500 +0000" stop="20250324100500 +0000" channel="MTA1 World HD">
         <title>Deeni-o-Fiqa'hi Masa'il</title>
     </programme>
-    <programme start="20250324111000 +0000" stop="20250324121500 +0000" channel="MTA1 World HD">
+    <programme start="20250324100500 +0000" stop="20250324110000 +0000" channel="MTA1 World HD">
+        <title>Deeni-o-Fiqa'hi Masa'il</title>
+    </programme>
+    <programme start="20250324110000 +0000" stop="20250324111000 +0000" channel="MTA1 World HD">
+        <title>From The Archives</title>
+    </programme>
+    <programme start="20250324111000 +0000" stop="20250324120000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250324120000 +0000" stop="20250324121500 +0000" channel="MTA1 World HD">
+        <title>The Phonograph Of Promised Messiah</title>
     </programme>
     <programme start="20250324121500 +0000" stop="20250324130500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -27049,7 +27070,7 @@
         <title>Mahasin-e-Islam</title>
     </programme>
     <programme start="20250324131500 +0000" stop="20250324143000 +0000" channel="MTA1 World HD">
-        <title>Dars-ul-Quran</title>
+        <title>Darsul Qur'an</title>
     </programme>
     <programme start="20250324143000 +0000" stop="20250324145500 +0000" channel="MTA1 World HD">
         <title>Finding My Faith</title>
@@ -27061,7 +27082,7 @@
         <title>Chef's Corner</title>
     </programme>
     <programme start="20250324154500 +0000" stop="20250324163000 +0000" channel="MTA1 World HD">
-        <title>Islam Amn-e-Alam</title>
+        <title>Yaum-e-Masih-e-Ma'ood</title>
     </programme>
     <programme start="20250324163000 +0000" stop="20250324170500 +0000" channel="MTA1 World HD">
         <title>Tabweebul Qur'an</title>
@@ -27075,20 +27096,26 @@
     <programme start="20250324182300 +0000" stop="20250324183000 +0000" channel="MTA1 World HD">
         <title>Maghrib Adhaan</title>
     </programme>
-    <programme start="20250324183000 +0000" stop="20250324185000 +0000" channel="MTA1 World HD">
+    <programme start="20250324183000 +0000" stop="20250324184500 +0000" channel="MTA1 World HD">
         <title>World News</title>
+    </programme>
+    <programme start="20250324184500 +0000" stop="20250324185000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250324185000 +0000" stop="20250324191000 +0000" channel="MTA1 World HD">
         <title>Finding My Faith</title>
     </programme>
     <programme start="20250324191000 +0000" stop="20250324201500 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
+        <title>From The Archives</title>
     </programme>
-    <programme start="20250324201500 +0000" stop="20250324213000 +0000" channel="MTA1 World HD">
+    <programme start="20250324201500 +0000" stop="20250324211500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
+    <programme start="20250324211500 +0000" stop="20250324213000 +0000" channel="MTA1 World HD">
+        <title>God Is Sufficient</title>
+    </programme>
     <programme start="20250324213000 +0000" stop="20250324224500 +0000" channel="MTA1 World HD">
-        <title>Dars-ul-Quran</title>
+        <title>Darsul Qur'an</title>
     </programme>
     <programme start="20250324224500 +0000" stop="20250324232000 +0000" channel="MTA1 World HD">
         <title>Life Of Muhammad</title>
@@ -34806,11 +34833,8 @@
     <programme start="20250324070000 +0000" stop="20250324073000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250324073000 +0000" stop="20250324075500 +0000" channel="COLORS">
+    <programme start="20250324073000 +0000" stop="20250324082500 +0000" channel="COLORS">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250324075500 +0000" stop="20250324082500 +0000" channel="COLORS">
-        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250324082500 +0000" stop="20250324085500 +0000" channel="COLORS">
         <title>Suman Indori</title>
@@ -34848,11 +34872,8 @@
     <programme start="20250324140000 +0000" stop="20250324143000 +0000" channel="COLORS">
         <title>Suman Indori</title>
     </programme>
-    <programme start="20250324143000 +0000" stop="20250324145500 +0000" channel="COLORS">
+    <programme start="20250324143000 +0000" stop="20250324152500 +0000" channel="COLORS">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250324145500 +0000" stop="20250324152500 +0000" channel="COLORS">
-        <title>Suman Indori</title>
     </programme>
     <programme start="20250324152500 +0000" stop="20250324160000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -37369,7 +37390,7 @@
         <title>Drivetime</title>
     </programme>
     <programme start="20250324180000 +0000" stop="20250324200000 +0000" channel="BBC R Scot">
-        <title>Get it On with Bryan Burnett</title>
+        <title>Get it On with Vic Galloway</title>
     </programme>
     <programme start="20250324200000 +0000" stop="20250324220000 +0000" channel="BBC R Scot">
         <title>Vic Galloway</title>
@@ -37471,7 +37492,7 @@
         <title>BBC News NI update</title>
     </programme>
     <programme start="20250324220400 +0000" stop="20250324235500 +0000" channel="BBC R Ulster">
-        <title>The Late Show</title>
+        <title>The Late Show with Eve Blair</title>
     </programme>
     <programme start="20250324235500 +0000" stop="20250325005500 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
@@ -38677,7 +38698,7 @@
         <title>BBC News NI update</title>
     </programme>
     <programme start="20250324220400 +0000" stop="20250324235500 +0000" channel="BBC R Foyle">
-        <title>The Late Show</title>
+        <title>The Late Show with Eve Blair</title>
     </programme>
     <programme start="20250324235500 +0000" stop="20250325005500 +0000" channel="BBC R Foyle">
         <title>BBC News NI update</title>
