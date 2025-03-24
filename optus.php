@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - England v Latvia</title>
-    </programme>
-    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Albania v Andorra</title>
-    </programme>
-    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - San Marino v Romania</title>
-    </programme>
-    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v Cyprus</title>
-    </programme>
-    <programme start="20250324193500 +0000" stop="20250324215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Poland v Malta</title>
-    </programme>
     <programme start="20250325090000 +0000" stop="20250325100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Chris Hughton</title>
     </programme>
