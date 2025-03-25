@@ -29043,7 +29043,10 @@
     <programme start="20250326100000 +0000" stop="20250326103000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250326103000 +0000" stop="20250326113000 +0000" channel="Sikh Channel">
+    <programme start="20250326103000 +0000" stop="20250326110000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
+    </programme>
+    <programme start="20250326110000 +0000" stop="20250326113000 +0000" channel="Sikh Channel">
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250326113000 +0000" stop="20250326120000 +0000" channel="Sikh Channel">
@@ -29071,7 +29074,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250326183000 +0000" stop="20250326190000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250326190000 +0000" stop="20250326193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>

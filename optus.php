@@ -237,6 +237,12 @@
     <programme start="20250412020000 +0000" stop="20250412043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Portland Thorns FC</title>
     </programme>
+    <programme start="20250412072000 +0000" stop="20250412094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Anyang</title>
+    </programme>
+    <programme start="20250412072000 +0000" stop="20250412094000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Seoul v Daejeon</title>
+    </programme>
     <programme start="20250412210000 +0000" stop="20250412233000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Racing Louisville FC v Washington Spirit</title>
     </programme>
@@ -248,6 +254,12 @@
     </programme>
     <programme start="20250413020000 +0000" stop="20250413043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - San Diego Wave FC v Kansas City Current</title>
+    </programme>
+    <programme start="20250413045000 +0000" stop="20250413071000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gangwon v Gwangju</title>
+    </programme>
+    <programme start="20250413072000 +0000" stop="20250413094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Daegu v Ulsan</title>
     </programme>
     <programme start="20250413200000 +0000" stop="20250413223000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v North Carolina Courage</title>
