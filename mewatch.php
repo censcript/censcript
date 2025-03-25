@@ -1045,9 +1045,9 @@
         <title>No Programme available now. Next Broadcast on 26th March, Wednesday 9.20am. FIBA 3x3 Asia Cup 2025</title>
     </programme>
     <programme start="20250324160000 +0000" stop="20250325160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women&#039;s Race</title>
     </programme>
     <programme start="20250325160000 +0000" stop="20250326160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women&#039;s Race</title>
     </programme>
 </tv>
