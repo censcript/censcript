@@ -15142,7 +15142,7 @@
         <title>Live Health and Social Care Questions</title>
     </programme>
     <programme start="20250325123000 +0000" stop="20250325131500 +0000" channel="BBC Parl HD">
-        <title>Live House of Commons</title>
+        <title>Live Asylum Hotels and Illegal...</title>
     </programme>
     <programme start="20250325131500 +0000" stop="20250325193000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
@@ -26065,7 +26065,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250325212000 +0000" stop="20250325215000 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250325215000 +0000" stop="20250325222000 +0000" channel="COLORS HD">
         <title>Suman Indori</title>
@@ -35011,7 +35011,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250325212000 +0000" stop="20250325215000 +0000" channel="COLORS">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250325215000 +0000" stop="20250325222000 +0000" channel="COLORS">
         <title>Suman Indori</title>
