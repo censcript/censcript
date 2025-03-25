@@ -840,17 +840,11 @@
     <programme start="20250326005500 +0000" stop="20250326013500 +0000" channel="U&amp;Gold HD">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326013500 +0000" stop="20250326021000 +0000" channel="U&amp;Gold HD">
+    <programme start="20250326013500 +0000" stop="20250326022500 +0000" channel="U&amp;Gold HD">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326021000 +0000" stop="20250326022500 +0000" channel="U&amp;Gold HD">
+    <programme start="20250326022500 +0000" stop="20250326025500 +0000" channel="U&amp;Gold HD">
         <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326022500 +0000" stop="20250326024500 +0000" channel="U&amp;Gold HD">
-        <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326024500 +0000" stop="20250326025500 +0000" channel="U&amp;Gold HD">
-        <title>Live at the Apollo</title>
     </programme>
     <programme start="20250326025500 +0000" stop="20250326040000 +0000" channel="U&amp;Gold HD">
         <title>Live at the Apollo</title>
@@ -7416,11 +7410,8 @@
     <programme start="20250326060000 +0000" stop="20250326060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
-    <programme start="20250326060500 +0000" stop="20250326060700 +0000" channel="Channel 5+1">
+    <programme start="20250326060500 +0000" stop="20250326063000 +0000" channel="Channel 5+1">
         <title>House Busters</title>
-    </programme>
-    <programme start="20250326060700 +0000" stop="20250326063000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250326063000 +0000" stop="20250326064000 +0000" channel="Channel 5+1">
         <title>Entertainment News on 5</title>
@@ -7908,17 +7899,11 @@
     <programme start="20250326015500 +0000" stop="20250326023500 +0000" channel="U&amp;Gold+1">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326023500 +0000" stop="20250326031000 +0000" channel="U&amp;Gold+1">
+    <programme start="20250326023500 +0000" stop="20250326032500 +0000" channel="U&amp;Gold+1">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326031000 +0000" stop="20250326032500 +0000" channel="U&amp;Gold+1">
+    <programme start="20250326032500 +0000" stop="20250326035500 +0000" channel="U&amp;Gold+1">
         <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326032500 +0000" stop="20250326034500 +0000" channel="U&amp;Gold+1">
-        <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326034500 +0000" stop="20250326035500 +0000" channel="U&amp;Gold+1">
-        <title>Live at the Apollo</title>
     </programme>
     <programme start="20250326035500 +0000" stop="20250326050000 +0000" channel="U&amp;Gold+1">
         <title>Live at the Apollo</title>
@@ -12330,16 +12315,19 @@
     <programme start="20250326113000 +0000" stop="20250326120000 +0000" channel="MTV MUSIC">
         <title>Massive Dance Hits!</title>
     </programme>
-    <programme start="20250326120000 +0000" stop="20250326170000 +0000" channel="MTV MUSIC">
+    <programme start="20250326120000 +0000" stop="20250326163500 +0000" channel="MTV MUSIC">
         <title>MTV's 50 Hits From The Girls</title>
+    </programme>
+    <programme start="20250326163500 +0000" stop="20250326170000 +0000" channel="MTV MUSIC">
+        <title>New &amp; Now!</title>
     </programme>
     <programme start="20250326170000 +0000" stop="20250326190000 +0000" channel="MTV MUSIC">
         <title>No.1s On This Day: 2001-2024</title>
     </programme>
-    <programme start="20250326190000 +0000" stop="20250326210000 +0000" channel="MTV MUSIC">
+    <programme start="20250326190000 +0000" stop="20250326205500 +0000" channel="MTV MUSIC">
         <title>Official Top 20 Of The 20s So Far!</title>
     </programme>
-    <programme start="20250326210000 +0000" stop="20250326220000 +0000" channel="MTV MUSIC">
+    <programme start="20250326205500 +0000" stop="20250326220000 +0000" channel="MTV MUSIC">
         <title>Gonzo: The Playlist</title>
     </programme>
     <programme start="20250326220000 +0000" stop="20250326230000 +0000" channel="MTV MUSIC">
@@ -12369,8 +12357,11 @@
     <programme start="20250326080000 +0000" stop="20250326140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250326140000 +0000" stop="20250326160000 +0000" channel="MTV HITS">
+    <programme start="20250326140000 +0000" stop="20250326154500 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
+    </programme>
+    <programme start="20250326154500 +0000" stop="20250326160000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326170000 +0000" channel="MTV HITS">
         <title>Usher: Past, Present, Future...</title>
@@ -12441,17 +12432,17 @@
     <programme start="20250326060000 +0000" stop="20250326090000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
     </programme>
-    <programme start="20250326090000 +0000" stop="20250326140000 +0000" channel="MTV 80s">
+    <programme start="20250326090000 +0000" stop="20250326132500 +0000" channel="MTV 80s">
         <title>50 Karaoke Classics!</title>
     </programme>
-    <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="MTV 80s">
+    <programme start="20250326132500 +0000" stop="20250326150000 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
-    <programme start="20250326150000 +0000" stop="20250326200000 +0000" channel="MTV 80s">
+    <programme start="20250326150000 +0000" stop="20250326194500 +0000" channel="MTV 80s">
         <title>1985 Wrapped!</title>
     </programme>
-    <programme start="20250326200000 +0000" stop="20250326210000 +0000" channel="MTV 80s">
-        <title>Guess The Year</title>
+    <programme start="20250326194500 +0000" stop="20250326210000 +0000" channel="MTV 80s">
+        <title>I Want My MTV 80s!</title>
     </programme>
     <programme start="20250326210000 +0000" stop="20250326220000 +0000" channel="MTV 80s">
         <title>Poster Boys &amp; Girls! 1980-1989</title>
@@ -14994,8 +14985,14 @@
     <programme start="20250326060000 +0000" stop="20250326070000 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Questions</title>
     </programme>
-    <programme start="20250326070000 +0000" stop="20250326093000 +0000" channel="BBC Parl HD">
+    <programme start="20250326070000 +0000" stop="20250326071500 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
+    </programme>
+    <programme start="20250326071500 +0000" stop="20250326080000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
+    </programme>
+    <programme start="20250326080000 +0000" stop="20250326093000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Local Elections Motion</title>
     </programme>
     <programme start="20250326093000 +0000" stop="20250326113000 +0000" channel="BBC Parl HD">
         <title>Live Health and Social Care Committee on NHS England</title>
@@ -31395,17 +31392,11 @@
     <programme start="20250326005500 +0000" stop="20250326013500 +0000" channel="U&amp;Gold">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326013500 +0000" stop="20250326021000 +0000" channel="U&amp;Gold">
+    <programme start="20250326013500 +0000" stop="20250326022500 +0000" channel="U&amp;Gold">
         <title>The Cleaner</title>
     </programme>
-    <programme start="20250326021000 +0000" stop="20250326022500 +0000" channel="U&amp;Gold">
+    <programme start="20250326022500 +0000" stop="20250326025500 +0000" channel="U&amp;Gold">
         <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326022500 +0000" stop="20250326024500 +0000" channel="U&amp;Gold">
-        <title>The Fast Show</title>
-    </programme>
-    <programme start="20250326024500 +0000" stop="20250326025500 +0000" channel="U&amp;Gold">
-        <title>Live at the Apollo</title>
     </programme>
     <programme start="20250326025500 +0000" stop="20250326040000 +0000" channel="U&amp;Gold">
         <title>Live at the Apollo</title>
@@ -36289,7 +36280,7 @@
         <title>Billy Monger: The Race is On for Comic Relief</title>
     </programme>
     <programme start="20250326004000 +0000" stop="20250326004500 +0000" channel="BBC One NI HD">
-        <title>Weather for the Week Ahead</title>
+        <title>Weather For The Week Ahead</title>
     </programme>
     <programme start="20250326004500 +0000" stop="20250326060000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
