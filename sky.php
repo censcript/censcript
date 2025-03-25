@@ -24280,25 +24280,25 @@
         <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250326090000 +0000" stop="20250326100000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
-    </programme>
-    <programme start="20250326100000 +0000" stop="20250326110000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
-    </programme>
-    <programme start="20250326110000 +0000" stop="20250326120000 +0000" channel="Gems TV">
         <title>Green Sapphire</title>
     </programme>
+    <programme start="20250326100000 +0000" stop="20250326110000 +0000" channel="Gems TV">
+        <title>Angel Skin Opal</title>
+    </programme>
+    <programme start="20250326110000 +0000" stop="20250326120000 +0000" channel="Gems TV">
+        <title>Diary of a CFO: The Diamond...</title>
+    </programme>
     <programme start="20250326120000 +0000" stop="20250326130000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Diary of a CFO: The Diamond...</title>
     </programme>
     <programme start="20250326130000 +0000" stop="20250326140000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Diary of a CFO: The Diamond...</title>
     </programme>
     <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Jadeite with Dave Troth</title>
     </programme>
     <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Gems TV">
-        <title>The Daily Discount</title>
+        <title>Type A Green Jadeite with Dave Troth</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326170000 +0000" channel="Gems TV">
         <title>Batalha Topaz Showcase</title>
@@ -36895,7 +36895,7 @@
         <title>Bill Overton</title>
     </programme>
     <programme start="20250326040000 +0000" stop="20250326063000 +0000" channel="Classic FM">
-        <title>Early Breakfast with Sam Pittis</title>
+        <title>Early Breakfast with Lucy Coward</title>
     </programme>
     <programme start="20250326063000 +0000" stop="20250326090000 +0000" channel="Classic FM">
         <title>Aled Jones</title>

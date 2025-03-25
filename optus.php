@@ -189,6 +189,12 @@
     <programme start="20250404170000 +0000" stop="20250404180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250405045000 +0000" stop="20250405071000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Seoul</title>
+    </programme>
+    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Daejeon v Jeonbuk</title>
+    </programme>
     <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Arsenal</title>
     </programme>
@@ -206,6 +212,12 @@
     </programme>
     <programme start="20250405152000 +0000" stop="20250405190000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Aston Villa v Nottingham Forest</title>
+    </programme>
+    <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Anyang v Gangwon</title>
+    </programme>
+    <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gwangju v Jeju</title>
     </programme>
     <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Tottenham Hotspur v Southampton</title>
