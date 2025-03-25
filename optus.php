@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Montenegro v Faroe Islands</title>
-    </programme>
-    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Gibraltar v Czechia</title>
-    </programme>
-    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - North Macedonia v Wales</title>
-    </programme>
-    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - Liechtenstein v Kazakhstan</title>
-    </programme>
-    <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Israel v Norway</title>
-    </programme>
     <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show: Season So Far</title>
     </programme>
