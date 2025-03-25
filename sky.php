@@ -29128,16 +29128,19 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250325153000 +0000" stop="20250325160000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
-    <programme start="20250325160000 +0000" stop="20250325170000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250325160000 +0000" stop="20250325163000 +0000" channel="Sikh Channel">
+        <title>Eye Camp - Bhuna (Punjab)</title>
+    </programme>
+    <programme start="20250325163000 +0000" stop="20250325170000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250325170000 +0000" stop="20250325183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250325183000 +0000" stop="20250325190000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250325190000 +0000" stop="20250325193000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -29152,10 +29155,10 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250325213000 +0000" stop="20250325220000 +0000" channel="Sikh Channel">
-        <title>SC India: Punjab News</title>
+        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250325220000 +0000" stop="20250325223000 +0000" channel="Sikh Channel">
-        <title>Basics of Sikhi</title>
+        <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250325223000 +0000" stop="20250325230000 +0000" channel="Sikh Channel">
         <title>Sri Sehaj Path - 350 Sala</title>
