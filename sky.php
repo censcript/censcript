@@ -14967,19 +14967,19 @@
     <programme start="20250326230000 +0000" stop="20250327000000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250325225000 +0000" stop="20250325233500 +0000" channel="BBC Parl HD">
+    <programme start="20250325225000 +0000" stop="20250325233000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250325233500 +0000" stop="20250326013500 +0000" channel="BBC Parl HD">
+    <programme start="20250325233000 +0000" stop="20250326013000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 1</title>
     </programme>
-    <programme start="20250326013500 +0000" stop="20250326033500 +0000" channel="BBC Parl HD">
+    <programme start="20250326013000 +0000" stop="20250326032500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 2</title>
     </programme>
-    <programme start="20250326033500 +0000" stop="20250326053500 +0000" channel="BBC Parl HD">
+    <programme start="20250326032500 +0000" stop="20250326052000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 3</title>
     </programme>
-    <programme start="20250326053500 +0000" stop="20250326060000 +0000" channel="BBC Parl HD">
+    <programme start="20250326052000 +0000" stop="20250326060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Heathrow Disruption Statement</title>
     </programme>
     <programme start="20250326060000 +0000" stop="20250326071500 +0000" channel="BBC Parl HD">
@@ -30172,7 +30172,7 @@
         <title>Quranic Arabic</title>
     </programme>
     <programme start="20250326090000 +0000" stop="20250326100000 +0000" channel="iON TV">
-        <title>Tafseer-ul-Qur'aan</title>
+        <title>Islamic history and tradition</title>
     </programme>
     <programme start="20250326100000 +0000" stop="20250326103000 +0000" channel="iON TV">
         <title>iON News Time</title>
