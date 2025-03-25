@@ -14982,11 +14982,8 @@
     <programme start="20250326053500 +0000" stop="20250326060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Heathrow Disruption Statement</title>
     </programme>
-    <programme start="20250326060000 +0000" stop="20250326070000 +0000" channel="BBC Parl HD">
+    <programme start="20250326060000 +0000" stop="20250326071500 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Questions</title>
-    </programme>
-    <programme start="20250326070000 +0000" stop="20250326071500 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
     </programme>
     <programme start="20250326071500 +0000" stop="20250326080000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>

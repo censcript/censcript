@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250325165000 +0000" stop="20250325191000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Moldova v Estonia</title>
-    </programme>
     <programme start="20250325193500 +0000" stop="20250325215500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Montenegro v Faroe Islands</title>
     </programme>
@@ -69,7 +66,7 @@
     <programme start="20250330020000 +0000" stop="20250330043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Portland Thorns FC v North Carolina Courage</title>
     </programme>
-    <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Suwon FC</title>
     </programme>
     <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
@@ -117,22 +114,22 @@
     <programme start="20250401183500 +0000" stop="20250401215500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Bayer Leverkusen</title>
     </programme>
-    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Wolverhampton Wanderers v West Ham United</title>
     </programme>
-    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Arsenal v Fulham</title>
     </programme>
-    <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Nottingham Forest v Manchester United</title>
     </programme>
-    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v FC Tokyo</title>
     </programme>
     <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Nagoya v Yokohama FM</title>
     </programme>
-    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Cerezo v Fagiano Okayama</title>
     </programme>
     <programme start="20250402102500 +0000" stop="20250402124000 +0000" channel="Optus Sport 10.optus">
