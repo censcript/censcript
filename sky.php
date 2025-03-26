@@ -14974,7 +14974,7 @@
         <title>Health and Social Care Questions</title>
     </programme>
     <programme start="20250326071500 +0000" stop="20250326080000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250326080000 +0000" stop="20250326093000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Local Elections Motion</title>
@@ -15001,7 +15001,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250326223500 +0000" stop="20250326232000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250326232000 +0000" stop="20250327002000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -25566,10 +25566,10 @@
     <programme start="20250326212600 +0000" stop="20250326223000 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250326223000 +0000" stop="20250326235800 +0000" channel="SONY TV HD">
+    <programme start="20250326223000 +0000" stop="20250326235700 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250326235800 +0000" stop="20250327005800 +0000" channel="SONY TV HD">
+    <programme start="20250326235700 +0000" stop="20250327005700 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250325223000 +0000" stop="20250325233000 +0000" channel="Utsav Bharat">
@@ -29853,7 +29853,13 @@
     <programme start="20250326194500 +0000" stop="20250326195000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250326195000 +0000" stop="20250326205000 +0000" channel="ATN">
+    <programme start="20250326195000 +0000" stop="20250326203000 +0000" channel="ATN">
+        <title>Charity Appeal</title>
+    </programme>
+    <programme start="20250326203000 +0000" stop="20250326210000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250326210000 +0000" stop="20250326220000 +0000" channel="ATN">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250325223000 +0000" stop="20250325230000 +0000" channel="NTV">
@@ -30225,13 +30231,13 @@
     <programme start="20250326122000 +0000" stop="20250326140000 +0000" channel="Deen TV">
         <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="Deen TV">
-        <title>Qari ul Quran</title>
+    <programme start="20250326140000 +0000" stop="20250326143000 +0000" channel="Deen TV">
+        <title>Al Khalil &amp; Boruna Reports</title>
     </programme>
-    <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Deen TV">
+    <programme start="20250326143000 +0000" stop="20250326153000 +0000" channel="Deen TV">
         <title>Hifzul Quran Protijogita</title>
     </programme>
-    <programme start="20250326160000 +0000" stop="20250326162500 +0000" channel="Deen TV">
+    <programme start="20250326153000 +0000" stop="20250326162500 +0000" channel="Deen TV">
         <title>Live Ramadan Appeal</title>
     </programme>
     <programme start="20250326162500 +0000" stop="20250326163000 +0000" channel="Deen TV">
@@ -34596,10 +34602,10 @@
     <programme start="20250326212600 +0000" stop="20250326223000 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250326223000 +0000" stop="20250326235800 +0000" channel="SONY TV">
+    <programme start="20250326223000 +0000" stop="20250326235700 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250326235800 +0000" stop="20250327005800 +0000" channel="SONY TV">
+    <programme start="20250326235700 +0000" stop="20250327005700 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250325223000 +0000" stop="20250325230000 +0000" channel="Utsav Plus">
