@@ -29730,68 +29730,44 @@
     <programme start="20250326044700 +0000" stop="20250326060000 +0000" channel="IQRA Bangla">
         <title>GAZA - 2 Day Appeal</title>
     </programme>
-    <programme start="20250326060000 +0000" stop="20250326082000 +0000" channel="IQRA Bangla">
-        <title>Live Transmission from Madina</title>
+    <programme start="20250326060000 +0000" stop="20250326121100 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
     </programme>
-    <programme start="20250326082000 +0000" stop="20250326083000 +0000" channel="IQRA Bangla">
-        <title>Dua Time</title>
-    </programme>
-    <programme start="20250326083000 +0000" stop="20250326100000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
-    </programme>
-    <programme start="20250326100000 +0000" stop="20250326110000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250326110000 +0000" stop="20250326113000 +0000" channel="IQRA Bangla">
-        <title>Ramadan in Winter</title>
-    </programme>
-    <programme start="20250326113000 +0000" stop="20250326121700 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250326121700 +0000" stop="20250326123000 +0000" channel="IQRA Bangla">
+    <programme start="20250326121100 +0000" stop="20250326121600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250326123000 +0000" stop="20250326140000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
+    <programme start="20250326121600 +0000" stop="20250326162400 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
     </programme>
-    <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250326150000 +0000" stop="20250326153000 +0000" channel="IQRA Bangla">
-        <title>Lifestyle in Ramadan</title>
-    </programme>
-    <programme start="20250326153000 +0000" stop="20250326155500 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250326155500 +0000" stop="20250326160000 +0000" channel="IQRA Bangla">
+    <programme start="20250326162400 +0000" stop="20250326163000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250326160000 +0000" stop="20250326175100 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250326163000 +0000" stop="20250326182700 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
     </programme>
-    <programme start="20250326175100 +0000" stop="20250326180100 +0000" channel="IQRA Bangla">
+    <programme start="20250326182700 +0000" stop="20250326183400 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250326180100 +0000" stop="20250326180700 +0000" channel="IQRA Bangla">
+    <programme start="20250326183400 +0000" stop="20250326184100 +0000" channel="IQRA Bangla">
         <title>The Sound Of Revelations</title>
     </programme>
-    <programme start="20250326180700 +0000" stop="20250326181400 +0000" channel="IQRA Bangla">
+    <programme start="20250326184100 +0000" stop="20250326184800 +0000" channel="IQRA Bangla">
         <title>Know your zakat</title>
     </programme>
-    <programme start="20250326181400 +0000" stop="20250326182100 +0000" channel="IQRA Bangla">
-        <title>Beautiful Mosques</title>
-    </programme>
-    <programme start="20250326182100 +0000" stop="20250326182900 +0000" channel="IQRA Bangla">
+    <programme start="20250326184800 +0000" stop="20250326185500 +0000" channel="IQRA Bangla">
         <title>Ramadan tips</title>
     </programme>
-    <programme start="20250326182900 +0000" stop="20250326191500 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250326185500 +0000" stop="20250326194500 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
     </programme>
-    <programme start="20250326191500 +0000" stop="20250326192000 +0000" channel="IQRA Bangla">
+    <programme start="20250326194500 +0000" stop="20250326203000 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
+    </programme>
+    <programme start="20250326203000 +0000" stop="20250326203500 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250326192000 +0000" stop="20250326202000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250326203500 +0000" stop="20250326213500 +0000" channel="IQRA Bangla">
+        <title>GAZA - 2 Day Appeal</title>
     </programme>
     <programme start="20250325210000 +0000" stop="20250326020000 +0000" channel="ATN">
         <title>Charity Appeal</title>
