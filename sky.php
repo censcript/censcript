@@ -15043,7 +15043,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250327071000 +0000" stop="20250327093000 +0000" channel="BBC Parl HD">
-        <title>House of Commons - Spring Statement</title>
+        <title>Spring Statement</title>
     </programme>
     <programme start="20250327093000 +0000" stop="20250327103000 +0000" channel="BBC Parl HD">
         <title>Live Transport Questions</title>
