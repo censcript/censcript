@@ -12483,11 +12483,8 @@
     <programme start="20250327150000 +0000" stop="20250327192000 +0000" channel="MTV 80s">
         <title>Poster Boys &amp; Girls! 1980-1989</title>
     </programme>
-    <programme start="20250327192000 +0000" stop="20250327200000 +0000" channel="MTV 80s">
+    <programme start="20250327192000 +0000" stop="20250327210000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
-    </programme>
-    <programme start="20250327200000 +0000" stop="20250327210000 +0000" channel="MTV 80s">
-        <title>Guess The Year</title>
     </programme>
     <programme start="20250327210000 +0000" stop="20250327220000 +0000" channel="MTV 80s">
         <title>1985 Wrapped!</title>
@@ -29334,11 +29331,8 @@
     <programme start="20250327130000 +0000" stop="20250327140000 +0000" channel="Kanshi TV">
         <title>Competition Show with Jagdeep</title>
     </programme>
-    <programme start="20250327140000 +0000" stop="20250327150000 +0000" channel="Kanshi TV">
+    <programme start="20250327140000 +0000" stop="20250327161500 +0000" channel="Kanshi TV">
         <title>Shri Guru Ravidass Gurpurb, Bedford</title>
-    </programme>
-    <programme start="20250327150000 +0000" stop="20250327161500 +0000" channel="Kanshi TV">
-        <title>Ik Tera Sahara</title>
     </programme>
     <programme start="20250327161500 +0000" stop="20250327170000 +0000" channel="Kanshi TV">
         <title>Music Time</title>
