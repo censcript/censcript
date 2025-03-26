@@ -14293,7 +14293,7 @@
         <title>NHL: This is Hockey: Argentina</title>
     </programme>
     <programme start="20250326191500 +0000" stop="20250326221500 +0000" channel="Premier 1 HD">
-        <title>Live EIHL Glasgow Clan: Glasgow Clan v Guildford</title>
+        <title>Live EIHL: Glasgow Clan v Guildford</title>
     </programme>
     <programme start="20250326221500 +0000" stop="20250326224500 +0000" channel="Premier 1 HD">
         <title>NHL: This is Hockey: Jamaica</title>
