@@ -14892,26 +14892,11 @@
     <programme start="20250326103000 +0000" stop="20250326110000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250326110000 +0000" stop="20250326113000 +0000" channel="BBC NEWS HD">
+    <programme start="20250326110000 +0000" stop="20250326111500 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250326113000 +0000" stop="20250326114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250326114500 +0000" stop="20250326120000 +0000" channel="BBC NEWS HD">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20250326120000 +0000" stop="20250326123000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20250326123000 +0000" stop="20250326130000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20250326130000 +0000" stop="20250326140000 +0000" channel="BBC NEWS HD">
-        <title>Signed: BBC News at One</title>
-    </programme>
-    <programme start="20250326140000 +0000" stop="20250326143000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
+    <programme start="20250326111500 +0000" stop="20250326143000 +0000" channel="BBC NEWS HD">
+        <title>Politics Live</title>
     </programme>
     <programme start="20250326143000 +0000" stop="20250326150000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -15007,7 +14992,7 @@
         <title>Live Spring Statement</title>
     </programme>
     <programme start="20250326143000 +0000" stop="20250326193000 +0000" channel="BBC Parl HD">
-        <title>Live Spring Statement Debate</title>
+        <title>Live House of Commons</title>
     </programme>
     <programme start="20250326193000 +0000" stop="20250326220000 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
@@ -29062,10 +29047,10 @@
         <title>Voice of Yorkshire</title>
     </programme>
     <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Gal Punjab Di</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326170000 +0000" channel="Sikh Channel">
-        <title>Gal Punjab Di</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250326170000 +0000" stop="20250326183000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
