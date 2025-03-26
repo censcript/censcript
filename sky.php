@@ -12357,23 +12357,35 @@
     <programme start="20250327100000 +0000" stop="20250327110000 +0000" channel="MTV MUSIC">
         <title>Fresh Out</title>
     </programme>
-    <programme start="20250327110000 +0000" stop="20250327130000 +0000" channel="MTV MUSIC">
+    <programme start="20250327110000 +0000" stop="20250327124000 +0000" channel="MTV MUSIC">
         <title>Today's UK Big 20</title>
     </programme>
-    <programme start="20250327130000 +0000" stop="20250327150000 +0000" channel="MTV MUSIC">
+    <programme start="20250327124000 +0000" stop="20250327130000 +0000" channel="MTV MUSIC">
+        <title>Benson Boone: On Repeat!</title>
+    </programme>
+    <programme start="20250327130000 +0000" stop="20250327145000 +0000" channel="MTV MUSIC">
         <title>Justin Bieber: MTV 20!</title>
+    </programme>
+    <programme start="20250327145000 +0000" stop="20250327150000 +0000" channel="MTV MUSIC">
+        <title>JENNIE X2!</title>
     </programme>
     <programme start="20250327150000 +0000" stop="20250327160000 +0000" channel="MTV MUSIC">
         <title>Dua Lipa Official Top 10</title>
     </programme>
-    <programme start="20250327160000 +0000" stop="20250327210000 +0000" channel="MTV MUSIC">
+    <programme start="20250327160000 +0000" stop="20250327204000 +0000" channel="MTV MUSIC">
         <title>MTV's 50 Hits From The Girls</title>
+    </programme>
+    <programme start="20250327204000 +0000" stop="20250327210000 +0000" channel="MTV MUSIC">
+        <title>Sabrina Carpenter: On Repeat!</title>
     </programme>
     <programme start="20250327210000 +0000" stop="20250327230000 +0000" channel="MTV MUSIC">
         <title>Rock.Alt.Indie</title>
     </programme>
-    <programme start="20250327230000 +0000" stop="20250328000000 +0000" channel="MTV MUSIC">
+    <programme start="20250327230000 +0000" stop="20250327235500 +0000" channel="MTV MUSIC">
         <title>Doja Cat: MTV 10!</title>
+    </programme>
+    <programme start="20250327235500 +0000" stop="20250328005500 +0000" channel="MTV MUSIC">
+        <title>JADE X2!</title>
     </programme>
     <programme start="20250326200000 +0000" stop="20250327005000 +0000" channel="MTV HITS">
         <title>MTV's 50 Biggest Videos Of The 2010s</title>
