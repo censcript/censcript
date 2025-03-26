@@ -108,11 +108,8 @@
     <programme start="20250326090000 +0000" stop="20250326111500 +0000" channel="BBC Two HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250326111500 +0000" stop="20250326123000 +0000" channel="BBC Two HD">
-        <title>Politics Live</title>
-    </programme>
-    <programme start="20250326123000 +0000" stop="20250326143000 +0000" channel="BBC Two HD">
-        <title>Politics Live: Spring Statement</title>
+    <programme start="20250326111500 +0000" stop="20250326143000 +0000" channel="BBC Two HD">
+        <title>Analysis of the Spring Statement 2025</title>
     </programme>
     <programme start="20250326143000 +0000" stop="20250326151500 +0000" channel="BBC Two HD">
         <title>Impossible</title>
@@ -13359,8 +13356,14 @@
     <programme start="20250326130000 +0000" stop="20250326150000 +0000" channel="SkySp Golf HD">
         <title>TGL Finals G2: Atlanta D v NYGC</title>
     </programme>
-    <programme start="20250326150000 +0000" stop="20250326170000 +0000" channel="SkySp Golf HD">
+    <programme start="20250326150000 +0000" stop="20250326150001 +0000" channel="SkySp Golf HD">
         <title>TGL Finals G3: Atlanta D v NYGC</title>
+    </programme>
+    <programme start="20250326150001 +0000" stop="20250326160000 +0000" channel="SkySp Golf HD">
+        <title>Ladies European Tour Golf Hlts</title>
+    </programme>
+    <programme start="20250326160000 +0000" stop="20250326170000 +0000" channel="SkySp Golf HD">
+        <title>Ladies European Tour Golf Hlts</title>
     </programme>
     <programme start="20250326170000 +0000" stop="20250326180000 +0000" channel="SkySp Golf HD">
         <title>Asian Tour Golf Highlights</title>
@@ -13374,8 +13377,11 @@
     <programme start="20250326193000 +0000" stop="20250326200000 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250326200000 +0000" stop="20250326220000 +0000" channel="SkySp Golf HD">
+    <programme start="20250326200000 +0000" stop="20250326200001 +0000" channel="SkySp Golf HD">
         <title>TGL Finals G3: Atlanta D v NYGC</title>
+    </programme>
+    <programme start="20250326200001 +0000" stop="20250326220000 +0000" channel="SkySp Golf HD">
+        <title>TGL Final G2: Atlanta D v NYGC</title>
     </programme>
     <programme start="20250326220000 +0000" stop="20250326223000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour: The Cut</title>
@@ -14131,10 +14137,13 @@
         <title>Man City Women v Chelsea Women</title>
     </programme>
     <programme start="20250326140000 +0000" stop="20250326163000 +0000" channel="TNT Sports 3">
-        <title>Live: Cycling World Tour - Men</title>
+        <title>UEFA Champions League Goals Reload</title>
     </programme>
-    <programme start="20250326163000 +0000" stop="20250326173000 +0000" channel="TNT Sports 3">
+    <programme start="20250326163000 +0000" stop="20250326170000 +0000" channel="TNT Sports 3">
         <title>Barcelona Women v Real Madrid W</title>
+    </programme>
+    <programme start="20250326170000 +0000" stop="20250326173000 +0000" channel="TNT Sports 3">
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250326173000 +0000" stop="20250326194500 +0000" channel="TNT Sports 3">
         <title>Live: Lyon Women v Bayern Munich W</title>
@@ -34086,11 +34095,17 @@
     <programme start="20250326130000 +0000" stop="20250326140000 +0000" channel="TNTSports3 HD">
         <title>Man City Women v Chelsea Women</title>
     </programme>
-    <programme start="20250326140000 +0000" stop="20250326163000 +0000" channel="TNTSports3 HD">
+    <programme start="20250326140000 +0000" stop="20250326141500 +0000" channel="TNTSports3 HD">
+        <title>UEFA Champions League Goals Reload</title>
+    </programme>
+    <programme start="20250326141500 +0000" stop="20250326163000 +0000" channel="TNTSports3 HD">
         <title>Live: Cycling World Tour - Men</title>
     </programme>
-    <programme start="20250326163000 +0000" stop="20250326173000 +0000" channel="TNTSports3 HD">
+    <programme start="20250326163000 +0000" stop="20250326170000 +0000" channel="TNTSports3 HD">
         <title>Barcelona Women v Real Madrid W</title>
+    </programme>
+    <programme start="20250326170000 +0000" stop="20250326173000 +0000" channel="TNTSports3 HD">
+        <title>What I Wore: Best Of</title>
     </programme>
     <programme start="20250326173000 +0000" stop="20250326194500 +0000" channel="TNTSports3 HD">
         <title>Live: Lyon Women v Bayern Munich W</title>
@@ -36348,11 +36363,8 @@
     <programme start="20250326090000 +0000" stop="20250326111500 +0000" channel="BBC Two Wal HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250326111500 +0000" stop="20250326123000 +0000" channel="BBC Two Wal HD">
-        <title>Politics Live</title>
-    </programme>
-    <programme start="20250326123000 +0000" stop="20250326143000 +0000" channel="BBC Two Wal HD">
-        <title>Politics Live: Spring Statement</title>
+    <programme start="20250326111500 +0000" stop="20250326143000 +0000" channel="BBC Two Wal HD">
+        <title>Analysis of the Spring Statement 2025</title>
     </programme>
     <programme start="20250326143000 +0000" stop="20250326151500 +0000" channel="BBC Two Wal HD">
         <title>Impossible</title>
@@ -36432,11 +36444,8 @@
     <programme start="20250326090000 +0000" stop="20250326111500 +0000" channel="BBC Two NI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250326111500 +0000" stop="20250326123000 +0000" channel="BBC Two NI HD">
-        <title>Politics Live</title>
-    </programme>
-    <programme start="20250326123000 +0000" stop="20250326143000 +0000" channel="BBC Two NI HD">
-        <title>Politics Live: Spring Statement</title>
+    <programme start="20250326111500 +0000" stop="20250326143000 +0000" channel="BBC Two NI HD">
+        <title>Analysis of the Spring Statement 2025</title>
     </programme>
     <programme start="20250326143000 +0000" stop="20250326151500 +0000" channel="BBC Two NI HD">
         <title>Impossible</title>
