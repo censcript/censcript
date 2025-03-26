@@ -28111,16 +28111,22 @@
         <title>Live Prayer from Makkaah</title>
     </programme>
     <programme start="20250326131500 +0000" stop="20250326140000 +0000" channel="Islam TV">
-        <title>LIVE Gaza 2-Day Appeal</title>
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="Islam TV">
         <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326150000 +0000" stop="20250326152000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
-    <programme start="20250326152000 +0000" stop="20250326160000 +0000" channel="Islam TV">
+    <programme start="20250326152000 +0000" stop="20250326154000 +0000" channel="Islam TV">
         <title>Live Prayer from Makkaah</title>
+    </programme>
+    <programme start="20250326154000 +0000" stop="20250326155500 +0000" channel="Islam TV">
+        <title>Live Prayer from Makkaah</title>
+    </programme>
+    <programme start="20250326155500 +0000" stop="20250326160000 +0000" channel="Islam TV">
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326162400 +0000" channel="Islam TV">
         <title>Kidz World</title>
