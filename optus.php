@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250326150000 +0000" stop="20250326160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show: Season So Far</title>
-    </programme>
     <programme start="20250326180000 +0000" stop="20250326183000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Eduardo da Silva</title>
     </programme>
