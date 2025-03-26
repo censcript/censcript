@@ -28116,11 +28116,8 @@
     <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="Islam TV">
         <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
-    <programme start="20250326150000 +0000" stop="20250326152000 +0000" channel="Islam TV">
+    <programme start="20250326150000 +0000" stop="20250326154000 +0000" channel="Islam TV">
         <title>LIVE Gaza 2-Day Appeal</title>
-    </programme>
-    <programme start="20250326152000 +0000" stop="20250326154000 +0000" channel="Islam TV">
-        <title>Live Prayer from Makkaah</title>
     </programme>
     <programme start="20250326154000 +0000" stop="20250326155500 +0000" channel="Islam TV">
         <title>Live Prayer from Makkaah</title>
@@ -28713,11 +28710,14 @@
     <programme start="20250326120000 +0000" stop="20250326121100 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250326121100 +0000" stop="20250326121700 +0000" channel="Eman Channel">
+    <programme start="20250326121100 +0000" stop="20250326122000 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250326121700 +0000" stop="20250326133000 +0000" channel="Eman Channel">
+    <programme start="20250326122000 +0000" stop="20250326131800 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
+    </programme>
+    <programme start="20250326131800 +0000" stop="20250326133000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250326133000 +0000" stop="20250326134500 +0000" channel="Eman Channel">
         <title>Dealing With Difficulty</title>
@@ -28734,10 +28734,10 @@
     <programme start="20250326143000 +0000" stop="20250326144500 +0000" channel="Eman Channel">
         <title>A Sisters Ramadan</title>
     </programme>
-    <programme start="20250326144500 +0000" stop="20250326151500 +0000" channel="Eman Channel">
+    <programme start="20250326144500 +0000" stop="20250326151800 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250326151500 +0000" stop="20250326153200 +0000" channel="Eman Channel">
+    <programme start="20250326151800 +0000" stop="20250326153200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250326153200 +0000" stop="20250326153600 +0000" channel="Eman Channel">
