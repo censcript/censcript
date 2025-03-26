@@ -18094,7 +18094,7 @@
         <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250326081500 +0000" stop="20250326091500 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
+        <title>Smiles from Heaven: The Little Angels of Bethlehem Home</title>
     </programme>
     <programme start="20250326091500 +0000" stop="20250326093000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
@@ -18124,7 +18124,7 @@
         <title>Litany of Saint Joseph</title>
     </programme>
     <programme start="20250326133000 +0000" stop="20250326140000 +0000" channel="EWTN Catholic">
-        <title>The Holy Land Rosary</title>
+        <title>The Holy Rosary with Mother Angelica</title>
     </programme>
     <programme start="20250326140000 +0000" stop="20250326150000 +0000" channel="EWTN Catholic">
         <title>EWTN News In Depth</title>
@@ -27919,58 +27919,52 @@
         <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326060000 +0000" stop="20250326070000 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326070000 +0000" stop="20250326075500 +0000" channel="IQRA TV">
-        <title>Khatmul Quran</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326075500 +0000" stop="20250326081500 +0000" channel="IQRA TV">
-        <title>Manzil</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
-    <programme start="20250326081500 +0000" stop="20250326084500 +0000" channel="IQRA TV">
-        <title>Ramadan Special</title>
+    <programme start="20250326081500 +0000" stop="20250326090000 +0000" channel="IQRA TV">
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
-    <programme start="20250326084500 +0000" stop="20250326090000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
-    </programme>
-    <programme start="20250326090000 +0000" stop="20250326093000 +0000" channel="IQRA TV">
-        <title>Lazeez Cuisine Ramadan Special</title>
-    </programme>
-    <programme start="20250326093000 +0000" stop="20250326100000 +0000" channel="IQRA TV">
-        <title>Shan e Ramazan</title>
+    <programme start="20250326090000 +0000" stop="20250326100000 +0000" channel="IQRA TV">
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326100000 +0000" stop="20250326110000 +0000" channel="IQRA TV">
-        <title>Paigham e Ramadan</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326110000 +0000" stop="20250326110500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250326110500 +0000" stop="20250326120000 +0000" channel="IQRA TV">
-        <title>The Zakat Show</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326120000 +0000" stop="20250326120500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250326120500 +0000" stop="20250326121000 +0000" channel="IQRA TV">
-        <title>Khulasa-tul-Qura'an</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326121000 +0000" stop="20250326121500 +0000" channel="IQRA TV">
         <title>Zuhr Azan</title>
     </programme>
     <programme start="20250326121500 +0000" stop="20250326130000 +0000" channel="IQRA TV">
-        <title>Khulasa-tul-Qura'an</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326130000 +0000" stop="20250326130500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250326130500 +0000" stop="20250326140000 +0000" channel="IQRA TV">
-        <title>Ramadan Appeal</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326140000 +0000" stop="20250326140500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250326140500 +0000" stop="20250326150000 +0000" channel="IQRA TV">
-        <title>Ramadan Appeal</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326150000 +0000" stop="20250326151200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -27979,19 +27973,19 @@
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250326151500 +0000" stop="20250326160000 +0000" channel="IQRA TV">
-        <title>Lazeez Cuisine Ramadan Special</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326160500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250326160500 +0000" stop="20250326162400 +0000" channel="IQRA TV">
-        <title>Iqra With IQRA</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326162400 +0000" stop="20250326162900 +0000" channel="IQRA TV">
         <title>Asr Azan</title>
     </programme>
     <programme start="20250326162900 +0000" stop="20250326170000 +0000" channel="IQRA TV">
-        <title>Iqra With IQRA</title>
+        <title>LIVE Gaza 2-Day Appeal</title>
     </programme>
     <programme start="20250326170000 +0000" stop="20250326170500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
