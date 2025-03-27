@@ -687,59 +687,107 @@
     <programme start="20250327160000 +0000" stop="20250328160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 29th March, Saturday 8.20pm. 2024/25 Singapore Cup: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
-    <programme start="20250326160000 +0000" stop="20250326210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250326160000 +0000" stop="20250326174500 +0000" channel="now-80s.mewatch">
+        <title>Duncan James&#039; Eurovision Top 25</title>
     </programme>
-    <programme start="20250326210000 +0000" stop="20250326220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250326174500 +0000" stop="20250326180000 +0000" channel="now-80s.mewatch">
+        <title>80s Dance Party Night!</title>
+    </programme>
+    <programme start="20250326180000 +0000" stop="20250326200000 +0000" channel="now-80s.mewatch">
+        <title>Creature Comforts! Top 25</title>
+    </programme>
+    <programme start="20250326200000 +0000" stop="20250326220000 +0000" channel="now-80s.mewatch">
+        <title>Strictly Dance Crazes Of The 80s!</title>
     </programme>
     <programme start="20250326220000 +0000" stop="20250326230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+        <title>Duncan James&#039; Eurovision Top 25</title>
     </programme>
-    <programme start="20250326230000 +0000" stop="20250327000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250326230000 +0000" stop="20250327080000 +0000" channel="now-80s.mewatch">
+        <title>101 Power Ballads: 1980-1989</title>
     </programme>
-    <programme start="20250327000000 +0000" stop="20250327040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250327080000 +0000" stop="20250327103000 +0000" channel="now-80s.mewatch">
+        <title>Tony Hadley&#039;s Solid Gold Anthems!</title>
     </programme>
-    <programme start="20250327040000 +0000" stop="20250327050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250327103000 +0000" stop="20250327113000 +0000" channel="now-80s.mewatch">
+        <title>Creature Comforts! Top 25</title>
     </programme>
-    <programme start="20250327050000 +0000" stop="20250327100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250327113000 +0000" stop="20250327124000 +0000" channel="now-80s.mewatch">
+        <title>Cartoon Capers! 80s Animated Vids</title>
     </programme>
-    <programme start="20250327100000 +0000" stop="20250327110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250327124000 +0000" stop="20250327130000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250327110000 +0000" stop="20250327160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
-    </programme>
-    <programme start="20250327160000 +0000" stop="20250327210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
+    <programme start="20250327130000 +0000" stop="20250327162000 +0000" channel="now-80s.mewatch">
+        <title>40 One-Hit Wonders With Pat Sharp</title>
     </programme>
     <programme start="20250326100000 +0000" stop="20250326200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250326200000 +0000" stop="20250326210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250326160000 +0000" stop="20250326170000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1977</title>
     </programme>
-    <programme start="20250326210000 +0000" stop="20250326220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250326170000 +0000" stop="20250326174000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Forgotten No.1s</title>
+    </programme>
+    <programme start="20250326174000 +0000" stop="20250326182500 +0000" channel="now-70s.mewatch">
+        <title>All Day - They Hit The Top Spot!</title>
+    </programme>
+    <programme start="20250326182500 +0000" stop="20250326191000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1972</title>
+    </programme>
+    <programme start="20250326191000 +0000" stop="20250326192500 +0000" channel="now-70s.mewatch">
+        <title>All Day - They Hit The Top Spot!</title>
+    </programme>
+    <programme start="20250326192500 +0000" stop="20250326202500 +0000" channel="now-70s.mewatch">
+        <title>Novelty Number 1s! 1970-1979</title>
+    </programme>
+    <programme start="20250326202500 +0000" stop="20250326211000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1971</title>
+    </programme>
+    <programme start="20250326211000 +0000" stop="20250326212500 +0000" channel="now-70s.mewatch">
+        <title>All Day - They Hit The Top Spot!</title>
+    </programme>
+    <programme start="20250326212500 +0000" stop="20250326220000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1977</title>
     </programme>
     <programme start="20250326220000 +0000" stop="20250326230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+        <title>Simon Bates Golden Hour: 1970</title>
     </programme>
-    <programme start="20250326230000 +0000" stop="20250327000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250326230000 +0000" stop="20250327054000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of The 70s!</title>
     </programme>
-    <programme start="20250327000000 +0000" stop="20250327090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250327054000 +0000" stop="20250327060000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
     </programme>
-    <programme start="20250327090000 +0000" stop="20250327100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250327060000 +0000" stop="20250327083000 +0000" channel="now-70s.mewatch">
+        <title>The Complete Abba! 1973-2022</title>
     </programme>
-    <programme start="20250327100000 +0000" stop="20250327200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250327083000 +0000" stop="20250327090000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250327090000 +0000" stop="20250327103000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s 40 Guilty Pleasures!</title>
+    </programme>
+    <programme start="20250327103000 +0000" stop="20250327111000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Forgotten No.1s</title>
+    </programme>
+    <programme start="20250327111000 +0000" stop="20250327113000 +0000" channel="now-70s.mewatch">
+        <title>All Day - They Hit The Top Spot!</title>
+    </programme>
+    <programme start="20250327113000 +0000" stop="20250327121000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s 40 Guilty Pleasures!</title>
+    </programme>
+    <programme start="20250327121000 +0000" stop="20250327130000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
+    </programme>
+    <programme start="20250327130000 +0000" stop="20250327152000 +0000" channel="now-70s.mewatch">
+        <title>Who Had The Most Hits In The 70s?</title>
+    </programme>
+    <programme start="20250327152000 +0000" stop="20250327160000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
+    </programme>
+    <programme start="20250327160000 +0000" stop="20250327165000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s Of 1971</title>
     </programme>
     <programme start="20250326160000 +0000" stop="20250326220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
