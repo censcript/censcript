@@ -17677,7 +17677,7 @@
         <title>Politics Today</title>
     </programme>
     <programme start="20250327210000 +0000" stop="20250327223000 +0000" channel="revelation">
-        <title>The Debate</title>
+        <title>Creation: Is Life by Design?</title>
     </programme>
     <programme start="20250327223000 +0000" stop="20250327230000 +0000" channel="revelation">
         <title>The Healing Scriptures</title>
@@ -24157,7 +24157,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250327140000 +0000" stop="20250327150000 +0000" channel="QVC Beauty">
-        <title>Neom Wellbeing London</title>
+        <title>SVR Laboratoires Skincare</title>
     </programme>
     <programme start="20250327150000 +0000" stop="20250327160000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -24232,7 +24232,7 @@
         <title>Spring Starts with Frank Usher</title>
     </programme>
     <programme start="20250327130000 +0000" stop="20250327140000 +0000" channel="QVC Style HD">
-        <title>Denim &amp; Co on 4 Easy Pay</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250327140000 +0000" stop="20250327150000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
@@ -24262,7 +24262,7 @@
         <title>Luxury Handbags</title>
     </programme>
     <programme start="20250327230000 +0000" stop="20250328000000 +0000" channel="QVC Style HD">
-        <title>White Stuff</title>
+        <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250326220000 +0000" stop="20250326230000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
