@@ -15076,7 +15076,13 @@
         <title>Lords Questions</title>
     </programme>
     <programme start="20250327190000 +0000" stop="20250327200000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+        <title>House of Lords - Spring Statement</title>
+    </programme>
+    <programme start="20250327200000 +0000" stop="20250327220000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Employment Rights Bill, Part 1</title>
+    </programme>
+    <programme start="20250327220000 +0000" stop="20250327230000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Employment Rights Bill, Part 2</title>
     </programme>
     <programme start="20250326223000 +0000" stop="20250326230000 +0000" channel="CNBC HD">
         <title>NBC Nightly News</title>
@@ -25651,7 +25657,7 @@
         <title>Savdhaan India - Naya Adhyay</title>
     </programme>
     <programme start="20250327130000 +0000" stop="20250327133000 +0000" channel="Utsav Bharat">
-        <title>Cook Smart</title>
+        <title>Cook Smart S01</title>
     </programme>
     <programme start="20250327133000 +0000" stop="20250327140000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
@@ -25681,7 +25687,7 @@
         <title>Chef's Special</title>
     </programme>
     <programme start="20250327183000 +0000" stop="20250327190000 +0000" channel="Utsav Bharat">
-        <title>Cook Smart</title>
+        <title>Cook Smart S01</title>
     </programme>
     <programme start="20250327190000 +0000" stop="20250327193000 +0000" channel="Utsav Bharat">
         <title>Yeh Rishtey Hain Pyaar Ke</title>
