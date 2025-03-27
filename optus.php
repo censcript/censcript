@@ -234,6 +234,24 @@
     <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Art of... The Central Defensive Midfielder</title>
     </programme>
+    <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250410123000 +0000" stop="20250410130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview: Robert Pires</title>
+    </programme>
+    <programme start="20250411093000 +0000" stop="20250411100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250411153000 +0000" stop="20250411160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
     <programme start="20250412020000 +0000" stop="20250412043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Portland Thorns FC</title>
     </programme>
@@ -242,6 +260,12 @@
     </programme>
     <programme start="20250412072000 +0000" stop="20250412094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Daejeon</title>
+    </programme>
+    <programme start="20250412135000 +0000" stop="20250412162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250412190000 +0000" stop="20250412200000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
     </programme>
     <programme start="20250412210000 +0000" stop="20250412233000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Racing Louisville FC v Washington Spirit</title>
@@ -260,6 +284,12 @@
     </programme>
     <programme start="20250413072000 +0000" stop="20250413094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daegu v Ulsan</title>
+    </programme>
+    <programme start="20250413120000 +0000" stop="20250413152000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
+    <programme start="20250413190000 +0000" stop="20250413203000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250413200000 +0000" stop="20250413223000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v North Carolina Courage</title>

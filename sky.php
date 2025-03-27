@@ -28707,16 +28707,16 @@
     <programme start="20250327111500 +0000" stop="20250327113000 +0000" channel="Eman Channel">
         <title>The Power of Giving</title>
     </programme>
-    <programme start="20250327113000 +0000" stop="20250327120000 +0000" channel="Eman Channel">
+    <programme start="20250327113000 +0000" stop="20250327115900 +0000" channel="Eman Channel">
         <title>The Art of Dua</title>
     </programme>
-    <programme start="20250327120000 +0000" stop="20250327121100 +0000" channel="Eman Channel">
+    <programme start="20250327115900 +0000" stop="20250327121100 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250327121100 +0000" stop="20250327122000 +0000" channel="Eman Channel">
+    <programme start="20250327121100 +0000" stop="20250327121800 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250327122000 +0000" stop="20250327133000 +0000" channel="Eman Channel">
+    <programme start="20250327121800 +0000" stop="20250327133000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
     <programme start="20250327133000 +0000" stop="20250327134500 +0000" channel="Eman Channel">
