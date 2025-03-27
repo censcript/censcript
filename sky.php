@@ -13474,7 +13474,7 @@
         <title>WTA Miami: Raducanu v Pegula</title>
     </programme>
     <programme start="20250327090000 +0000" stop="20250327110000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Miami: Korda v Djokovic</title>
+        <title>ATP Miami: Cerundolo v Dimitrov</title>
     </programme>
     <programme start="20250327110000 +0000" stop="20250327120000 +0000" channel="SkySp Tennis HD">
         <title>ATP Indian Wells 2025 Review</title>
@@ -13486,7 +13486,7 @@
         <title>WTA Miami: Raducanu v Pegula</title>
     </programme>
     <programme start="20250327143000 +0000" stop="20250327163000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Miami: Korda v Djokovic</title>
+        <title>ATP Miami: Cerundolo v Dimitrov</title>
     </programme>
     <programme start="20250327163000 +0000" stop="20250327190000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: ATP Miami QFs</title>
@@ -24427,7 +24427,7 @@
         <title>Steam Twister 3-in-1 Steam Mop</title>
     </programme>
     <programme start="20250327150000 +0000" stop="20250327153000 +0000" channel="High Street TV 1">
-        <title>YAWN Air Bed</title>
+        <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250327153000 +0000" stop="20250327160000 +0000" channel="High Street TV 1">
         <title>CleverPot</title>
@@ -24436,7 +24436,7 @@
         <title>Kelton Cookware</title>
     </programme>
     <programme start="20250327163000 +0000" stop="20250327170000 +0000" channel="High Street TV 1">
-        <title>Ruby Horsepower</title>
+        <title>Power XL Vortex Air Fryer</title>
     </programme>
     <programme start="20250327170000 +0000" stop="20250327173000 +0000" channel="High Street TV 1">
         <title>Pocket Hose Copper Bullet</title>
@@ -24583,7 +24583,7 @@
         <title>Steam Twister 3-in-1 Steam Mop</title>
     </programme>
     <programme start="20250327153000 +0000" stop="20250327160000 +0000" channel="High Street TV 2">
-        <title>YAWN Air Bed</title>
+        <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250327160000 +0000" stop="20250327163000 +0000" channel="High Street TV 2">
         <title>CleverPot</title>
@@ -24592,7 +24592,7 @@
         <title>Kelton Cookware</title>
     </programme>
     <programme start="20250327170000 +0000" stop="20250327173000 +0000" channel="High Street TV 2">
-        <title>Ruby Horsepower</title>
+        <title>Power XL Vortex Air Fryer</title>
     </programme>
     <programme start="20250327173000 +0000" stop="20250327180000 +0000" channel="High Street TV 2">
         <title>Pocket Hose Copper Bullet</title>
@@ -24991,7 +24991,7 @@
         <title>Steam Twister 3-in-1 Steam Mop</title>
     </programme>
     <programme start="20250327160000 +0000" stop="20250327163000 +0000" channel="High Street TV 3">
-        <title>YAWN Air Bed</title>
+        <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250327163000 +0000" stop="20250327170000 +0000" channel="High Street TV 3">
         <title>CleverPot</title>
@@ -25000,7 +25000,7 @@
         <title>Kelton Cookware</title>
     </programme>
     <programme start="20250327173000 +0000" stop="20250327180000 +0000" channel="High Street TV 3">
-        <title>Ruby Horsepower</title>
+        <title>Power XL Vortex Air Fryer</title>
     </programme>
     <programme start="20250327180000 +0000" stop="20250327183000 +0000" channel="High Street TV 3">
         <title>Pocket Hose Copper Bullet</title>
@@ -29059,7 +29059,7 @@
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250327113000 +0000" stop="20250327120000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250327120000 +0000" stop="20250327133000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
