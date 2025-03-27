@@ -28144,13 +28144,13 @@
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250327160000 +0000" stop="20250327162500 +0000" channel="Islam TV">
-        <title>Kidz World</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250327162500 +0000" stop="20250327163000 +0000" channel="Islam TV">
         <title>Asr Azan</title>
     </programme>
     <programme start="20250327163000 +0000" stop="20250327170000 +0000" channel="Islam TV">
-        <title>Kidz World</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250327170000 +0000" stop="20250327175000 +0000" channel="Islam TV">
         <title>Al-khair Ramadan Appeal</title>
@@ -28186,7 +28186,7 @@
         <title>Live Tahajjud from Makkaah</title>
     </programme>
     <programme start="20250327231500 +0000" stop="20250327234000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>Al-khair Ramadan Appeal</title>
     </programme>
     <programme start="20250327234000 +0000" stop="20250328004000 +0000" channel="Islam TV">
         <title>Surah-Ya-Sin</title>
