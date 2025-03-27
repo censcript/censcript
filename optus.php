@@ -213,8 +213,26 @@
     <programme start="20250406152000 +0000" stop="20250406183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester United v Manchester City</title>
     </programme>
+    <programme start="20250407120000 +0000" stop="20250407130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250407160000 +0000" stop="20250407170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250407183000 +0000" stop="20250407213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Newcastle United</title>
+    </programme>
+    <programme start="20250407213000 +0000" stop="20250407223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250407233000 +0000" stop="20250408003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250408010000 +0000" stop="20250408013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Art of... The Central Defensive Midfielder</title>
     </programme>
     <programme start="20250412020000 +0000" stop="20250412043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Portland Thorns FC</title>
