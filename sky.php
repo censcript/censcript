@@ -29479,7 +29479,7 @@
         <title>Gurbani, Katha &amp; Kirtan</title>
     </programme>
     <programme start="20250327140000 +0000" stop="20250327150000 +0000" channel="PoliticsPunjab">
-        <title>Lehnda Punjab</title>
+        <title>Special Show</title>
     </programme>
     <programme start="20250327150000 +0000" stop="20250327150500 +0000" channel="PoliticsPunjab">
         <title>Fatafat News</title>

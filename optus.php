@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250327133000 +0000" stop="20250327140000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Luis Garcia</title>
-    </programme>
     <programme start="20250328095500 +0000" stop="20250328121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Urawa Red Diamonds</title>
     </programme>
