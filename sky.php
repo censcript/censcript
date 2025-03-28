@@ -1476,13 +1476,13 @@
     <programme start="20250328035500 +0000" stop="20250328053024 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
-    <programme start="20250328053024 +0000" stop="20250328113000 +0000" channel="BBC Four HD">
+    <programme start="20250328053024 +0000" stop="20250328113024 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
-    <programme start="20250328113000 +0000" stop="20250328173000 +0000" channel="BBC Four HD">
+    <programme start="20250328113024 +0000" stop="20250328173024 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
-    <programme start="20250328173000 +0000" stop="20250328185800 +0000" channel="BBC Four HD">
+    <programme start="20250328173024 +0000" stop="20250328185800 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250328185800 +0000" stop="20250328190000 +0000" channel="BBC Four HD">
@@ -28785,8 +28785,20 @@
     <programme start="20250328193000 +0000" stop="20250328200000 +0000" channel="QTV Religious">
         <title>Ilm o Amal</title>
     </programme>
-    <programme start="20250328200000 +0000" stop="20250328210000 +0000" channel="QTV Religious">
-        <title>Save An Orphan Global- Live Telethon</title>
+    <programme start="20250328200000 +0000" stop="20250328203000 +0000" channel="QTV Religious">
+        <title>Khulasa e Quran</title>
+    </programme>
+    <programme start="20250328203000 +0000" stop="20250328210000 +0000" channel="QTV Religious">
+        <title>Hamd O Naat</title>
+    </programme>
+    <programme start="20250328210000 +0000" stop="20250328230000 +0000" channel="QTV Religious">
+        <title>Daura E Tarjuma E Qur'an</title>
+    </programme>
+    <programme start="20250328230000 +0000" stop="20250328233000 +0000" channel="QTV Religious">
+        <title>Hamd O Naat</title>
+    </programme>
+    <programme start="20250328233000 +0000" stop="20250329003000 +0000" channel="QTV Religious">
+        <title>Mehfil e Sama</title>
     </programme>
     <programme start="20250327220000 +0000" stop="20250327230000 +0000" channel="PTC PUNJABI">
         <title>P_T_C Box Office</title>
