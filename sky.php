@@ -29421,16 +29421,10 @@
     <programme start="20250329110000 +0000" stop="20250329121500 +0000" channel="TV One">
         <title>The Voice Of Oneness</title>
     </programme>
-    <programme start="20250329121500 +0000" stop="20250329121600 +0000" channel="TV One">
+    <programme start="20250329121500 +0000" stop="20250329122000 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250329121600 +0000" stop="20250329122000 +0000" channel="TV One">
-        <title>Zuhr Azaan</title>
-    </programme>
-    <programme start="20250329122000 +0000" stop="20250329122500 +0000" channel="TV One">
-        <title>The Voice Of Oneness</title>
-    </programme>
-    <programme start="20250329122500 +0000" stop="20250329124500 +0000" channel="TV One">
+    <programme start="20250329122000 +0000" stop="20250329124500 +0000" channel="TV One">
         <title>The Voice Of Oneness</title>
     </programme>
     <programme start="20250329124500 +0000" stop="20250329130000 +0000" channel="TV One">
@@ -29442,38 +29436,14 @@
     <programme start="20250329133000 +0000" stop="20250329140000 +0000" channel="TV One">
         <title>Secred Steps</title>
     </programme>
-    <programme start="20250329140000 +0000" stop="20250329150000 +0000" channel="TV One">
+    <programme start="20250329140000 +0000" stop="20250329163000 +0000" channel="TV One">
         <title>Live charity appeal for RC</title>
-    </programme>
-    <programme start="20250329150000 +0000" stop="20250329153000 +0000" channel="TV One">
-        <title>Ramadan- Spotlight</title>
-    </programme>
-    <programme start="20250329153000 +0000" stop="20250329160000 +0000" channel="TV One">
-        <title>Ramadan Quiz Time</title>
-    </programme>
-    <programme start="20250329160000 +0000" stop="20250329160500 +0000" channel="TV One">
-        <title>Asr Azaan</title>
-    </programme>
-    <programme start="20250329160500 +0000" stop="20250329163000 +0000" channel="TV One">
-        <title>Ramadan Quiz Time</title>
     </programme>
     <programme start="20250329163000 +0000" stop="20250329164000 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
-    <programme start="20250329164000 +0000" stop="20250329170000 +0000" channel="TV One">
+    <programme start="20250329164000 +0000" stop="20250329183200 +0000" channel="TV One">
         <title>Live charity appeal for RC</title>
-    </programme>
-    <programme start="20250329170000 +0000" stop="20250329175700 +0000" channel="TV One">
-        <title>Live Charity Appeal: Penny Appeal</title>
-    </programme>
-    <programme start="20250329175700 +0000" stop="20250329180500 +0000" channel="TV One">
-        <title>Maghrib Azaan</title>
-    </programme>
-    <programme start="20250329180500 +0000" stop="20250329183000 +0000" channel="TV One">
-        <title>TV One News</title>
-    </programme>
-    <programme start="20250329183000 +0000" stop="20250329183200 +0000" channel="TV One">
-        <title>Live Charity Appeal: Penny Appeal</title>
     </programme>
     <programme start="20250329183200 +0000" stop="20250329184000 +0000" channel="TV One">
         <title>Maghrib Azaan</title>
@@ -29481,14 +29451,8 @@
     <programme start="20250329184000 +0000" stop="20250329190500 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250329190500 +0000" stop="20250329192000 +0000" channel="TV One">
+    <programme start="20250329190500 +0000" stop="20250329195500 +0000" channel="TV One">
         <title>Live charity appeal for RC</title>
-    </programme>
-    <programme start="20250329192000 +0000" stop="20250329192500 +0000" channel="TV One">
-        <title>Isha Azaan</title>
-    </programme>
-    <programme start="20250329192500 +0000" stop="20250329195500 +0000" channel="TV One">
-        <title>Live Charity With Penny Appeal</title>
     </programme>
     <programme start="20250329195500 +0000" stop="20250329200000 +0000" channel="TV One">
         <title>Isha Azaan</title>
