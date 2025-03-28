@@ -13873,10 +13873,10 @@
         <title>Live S/Rugby:Hurricanes v Waratahs</title>
     </programme>
     <programme start="20250328080000 +0000" stop="20250328081500 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: Leeds v Hull KR Hlts</title>
     </programme>
     <programme start="20250328081500 +0000" stop="20250328083000 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: St Helens v W'ton Hlts</title>
     </programme>
     <programme start="20250328083000 +0000" stop="20250328103000 +0000" channel="SkySp Mix HD">
         <title>Live S/Rugby:Brumbies v Higlanders</title>
@@ -13885,25 +13885,25 @@
         <title>PL Darts: Newcastle</title>
     </programme>
     <programme start="20250328143000 +0000" stop="20250328144500 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: St Helens v W'ton Hlts</title>
     </programme>
     <programme start="20250328144500 +0000" stop="20250328150000 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Huddesrfield v Leeds Hlts</title>
     </programme>
     <programme start="20250328150000 +0000" stop="20250328170000 +0000" channel="SkySp Mix HD">
         <title>Tri-Nations Rugby: NZ v ARG</title>
     </programme>
     <programme start="20250328170000 +0000" stop="20250328171500 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Huddesrfield v Leeds Hlts</title>
     </programme>
     <programme start="20250328171500 +0000" stop="20250328173000 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328173000 +0000" stop="20250328183000 +0000" channel="SkySp Mix HD">
         <title>Fight Night Int: Teraji v Akui</title>
     </programme>
     <programme start="20250328183000 +0000" stop="20250328184500 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328184500 +0000" stop="20250328185500 +0000" channel="SkySp Mix HD">
         <title>My Icon: Pam Cookey</title>
@@ -13918,10 +13918,10 @@
         <title>My Icon: Pam Cookey</title>
     </programme>
     <programme start="20250328213000 +0000" stop="20250328214500 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328214500 +0000" stop="20250328220000 +0000" channel="SkySp Mix HD">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Wigan v Huddersfield Hlts</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="SkySp Mix HD">
         <title>Fight Night Int: Mayer v Ryan</title>
@@ -14817,10 +14817,7 @@
     <programme start="20250328110000 +0000" stop="20250328113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250328113000 +0000" stop="20250328114500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250328114500 +0000" stop="20250328120000 +0000" channel="BBC NEWS HD">
+    <programme start="20250328113000 +0000" stop="20250328120000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250328120000 +0000" stop="20250328123000 +0000" channel="BBC NEWS HD">
@@ -14829,8 +14826,14 @@
     <programme start="20250328123000 +0000" stop="20250328130000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250328130000 +0000" stop="20250328140000 +0000" channel="BBC NEWS HD">
-        <title>Signed: BBC News at One</title>
+    <programme start="20250328130000 +0000" stop="20250328133000 +0000" channel="BBC NEWS HD">
+        <title>BBC News Now</title>
+    </programme>
+    <programme start="20250328133000 +0000" stop="20250328134500 +0000" channel="BBC NEWS HD">
+        <title>Business Today - NYSE Opening Bell</title>
+    </programme>
+    <programme start="20250328134500 +0000" stop="20250328140000 +0000" channel="BBC NEWS HD">
+        <title>BBC News Now</title>
     </programme>
     <programme start="20250328140000 +0000" stop="20250328143000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -15649,7 +15652,7 @@
         <title>News</title>
     </programme>
     <programme start="20250327230000 +0000" stop="20250327233000 +0000" channel="NDTV World">
-        <title>The News</title>
+        <title>The Last Word</title>
     </programme>
     <programme start="20250327233000 +0000" stop="20250328000000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
@@ -15721,10 +15724,13 @@
         <title>News</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328223000 +0000" channel="NDTV World">
-        <title>The Last Word</title>
+        <title>News Night</title>
     </programme>
-    <programme start="20250328223000 +0000" stop="20250328233000 +0000" channel="NDTV World">
+    <programme start="20250328223000 +0000" stop="20250328230000 +0000" channel="NDTV World">
         <title>News</title>
+    </programme>
+    <programme start="20250328230000 +0000" stop="20250328233000 +0000" channel="NDTV World">
+        <title>The Last Word</title>
     </programme>
     <programme start="20250328233000 +0000" stop="20250329003000 +0000" channel="NDTV World">
         <title>The Big Fight</title>
@@ -29554,7 +29560,7 @@
         <title>Ummahatul Muminin</title>
     </programme>
     <programme start="20250328121100 +0000" stop="20250328121700 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
+        <title>Azan-E-Juma</title>
     </programme>
     <programme start="20250328121700 +0000" stop="20250328123000 +0000" channel="CHSTV">
         <title>Ummahatul Muminin</title>
@@ -29568,14 +29574,17 @@
     <programme start="20250328125000 +0000" stop="20250328130000 +0000" channel="CHSTV">
         <title>The Light Of Islam</title>
     </programme>
-    <programme start="20250328130000 +0000" stop="20250328140000 +0000" channel="CHSTV">
-        <title>RFC Legacy</title>
+    <programme start="20250328130000 +0000" stop="20250328133000 +0000" channel="CHSTV">
+        <title>In The Light Of Quran</title>
+    </programme>
+    <programme start="20250328133000 +0000" stop="20250328140000 +0000" channel="CHSTV">
+        <title>Islamic Filler</title>
     </programme>
     <programme start="20250328140000 +0000" stop="20250328143000 +0000" channel="CHSTV">
         <title>Pearls Of Wisdom</title>
     </programme>
     <programme start="20250328143000 +0000" stop="20250328150000 +0000" channel="CHSTV">
-        <title>Islamic Filler</title>
+        <title>Islamic Gaan</title>
     </programme>
     <programme start="20250328150000 +0000" stop="20250328162700 +0000" channel="CHSTV">
         <title>Ramadan Essentials</title>
@@ -29593,7 +29602,7 @@
         <title>Azan-E-Maghrib</title>
     </programme>
     <programme start="20250328184000 +0000" stop="20250328190000 +0000" channel="CHSTV">
-        <title>The Noble Quran</title>
+        <title>Islamic Filler</title>
     </programme>
     <programme start="20250328190000 +0000" stop="20250328194900 +0000" channel="CHSTV">
         <title>Ramadan Charity Appeal 2025</title>
@@ -33823,10 +33832,10 @@
         <title>Live S/Rugby:Hurricanes v Waratahs</title>
     </programme>
     <programme start="20250328080000 +0000" stop="20250328081500 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: Leeds v Hull KR Hlts</title>
     </programme>
     <programme start="20250328081500 +0000" stop="20250328083000 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: St Helens v W'ton Hlts</title>
     </programme>
     <programme start="20250328083000 +0000" stop="20250328103000 +0000" channel="SkySp Mix">
         <title>Live S/Rugby:Brumbies v Higlanders</title>
@@ -33835,25 +33844,25 @@
         <title>PL Darts: Newcastle</title>
     </programme>
     <programme start="20250328143000 +0000" stop="20250328144500 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: St Helens v W'ton Hlts</title>
     </programme>
     <programme start="20250328144500 +0000" stop="20250328150000 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Huddesrfield v Leeds Hlts</title>
     </programme>
     <programme start="20250328150000 +0000" stop="20250328170000 +0000" channel="SkySp Mix">
         <title>Tri-Nations Rugby: NZ v ARG</title>
     </programme>
     <programme start="20250328170000 +0000" stop="20250328171500 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Huddesrfield v Leeds Hlts</title>
     </programme>
     <programme start="20250328171500 +0000" stop="20250328173000 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328173000 +0000" stop="20250328183000 +0000" channel="SkySp Mix">
         <title>Fight Night Int: Teraji v Akui</title>
     </programme>
     <programme start="20250328183000 +0000" stop="20250328184500 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328184500 +0000" stop="20250328185500 +0000" channel="SkySp Mix">
         <title>My Icon: Pam Cookey</title>
@@ -33868,10 +33877,10 @@
         <title>My Icon: Pam Cookey</title>
     </programme>
     <programme start="20250328213000 +0000" stop="20250328214500 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24: W'ton v Hull KR Hlts</title>
     </programme>
     <programme start="20250328214500 +0000" stop="20250328220000 +0000" channel="SkySp Mix">
-        <title>S/Lge Highlights</title>
+        <title>S/Lge 24:Wigan v Huddersfield Hlts</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="SkySp Mix">
         <title>Fight Night Int: Mayer v Ryan</title>
@@ -36426,9 +36435,6 @@
     <programme start="20250328210000 +0000" stop="20250328220000 +0000" channel="Sky Intro">
         <title>Sky Intro</title>
     </programme>
-    <programme start="20250327220000 +0000" stop="20250327230000 +0000" channel="BBC R1">
-        <title>BBC Introducing on Radio 1 Dance with Jaguar</title>
-    </programme>
     <programme start="20250327230000 +0000" stop="20250328010000 +0000" channel="BBC R1">
         <title>Radio 1's Residency - Sammy Virji</title>
     </programme>
@@ -36705,13 +36711,10 @@
     <programme start="20250328090000 +0000" stop="20250328110000 +0000" channel="BBC R5L">
         <title>Nicky Campbell</title>
     </programme>
-    <programme start="20250328110000 +0000" stop="20250328130000 +0000" channel="BBC R5L">
+    <programme start="20250328110000 +0000" stop="20250328133000 +0000" channel="BBC R5L">
         <title>Chiles on Friday</title>
     </programme>
-    <programme start="20250328130000 +0000" stop="20250328140000 +0000" channel="BBC R5L">
-        <title>Elis James and John Robins</title>
-    </programme>
-    <programme start="20250328140000 +0000" stop="20250328160000 +0000" channel="BBC R5L">
+    <programme start="20250328133000 +0000" stop="20250328160000 +0000" channel="BBC R5L">
         <title>Matt Chorley</title>
     </programme>
     <programme start="20250328160000 +0000" stop="20250328190000 +0000" channel="BBC R5L">
