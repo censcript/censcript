@@ -28747,7 +28747,7 @@
         <title>Punjabi News</title>
     </programme>
     <programme start="20250329080000 +0000" stop="20250329090000 +0000" channel="PoliticsPunjab">
-        <title>Lehnda Punjab</title>
+        <title>Outdoor Shows</title>
     </programme>
     <programme start="20250329090000 +0000" stop="20250329100000 +0000" channel="PoliticsPunjab">
         <title>Gunjhaa Sikh Raj Diyaan</title>
@@ -28792,7 +28792,7 @@
         <title>Punjabi News</title>
     </programme>
     <programme start="20250329180000 +0000" stop="20250329190000 +0000" channel="PoliticsPunjab">
-        <title>Lehnda Punjab</title>
+        <title>Outdoor Shows</title>
     </programme>
     <programme start="20250329190000 +0000" stop="20250329210000 +0000" channel="PoliticsPunjab">
         <title>Live: Haftawari Sargarmiyaan</title>
@@ -28807,7 +28807,7 @@
         <title>Fatafat News</title>
     </programme>
     <programme start="20250329223500 +0000" stop="20250329233000 +0000" channel="PoliticsPunjab">
-        <title>Lehnda Punjab</title>
+        <title>Outdoor Shows</title>
     </programme>
     <programme start="20250329233000 +0000" stop="20250330003000 +0000" channel="PoliticsPunjab">
         <title>Gunjhaa Sikh Raj Diyaan</title>
