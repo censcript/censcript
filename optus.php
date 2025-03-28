@@ -234,6 +234,9 @@
     <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
+    <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: The Run In - True Turning Points</title>
+    </programme>
     <programme start="20250410123000 +0000" stop="20250410130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Robert Pires</title>
     </programme>

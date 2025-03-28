@@ -19987,7 +19987,7 @@
         <title>In the Night Garden</title>
     </programme>
     <programme start="20250328185000 +0000" stop="20250328185800 +0000" channel="CBeebies HD">
-        <title>CBeebies Bedtime Stories</title>
+        <title>New: CBeebies Bedtime Stories</title>
     </programme>
     <programme start="20250328185800 +0000" stop="20250328195800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
