@@ -16318,7 +16318,7 @@
         <title>Seeds Of Change - 1</title>
     </programme>
     <programme start="20250328094500 +0000" stop="20250328100000 +0000" channel="TRT World">
-        <title>Documentary: The Awakening...</title>
+        <title>One On One: Yilmaz Tunc</title>
     </programme>
     <programme start="20250328100000 +0000" stop="20250328103000 +0000" channel="TRT World">
         <title>News</title>
@@ -34300,7 +34300,7 @@
         <title>Seeds Of Change - 1</title>
     </programme>
     <programme start="20250328094500 +0000" stop="20250328100000 +0000" channel="TRT World HD">
-        <title>Documentary: The Awakening...</title>
+        <title>One On One: Yilmaz Tunc</title>
     </programme>
     <programme start="20250328100000 +0000" stop="20250328103000 +0000" channel="TRT World HD">
         <title>News</title>
@@ -36378,10 +36378,10 @@
     <programme start="20250328060500 +0000" stop="20250328105500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250328105500 +0000" stop="20250328124000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250328105500 +0000" stop="20250328125500 +0000" channel="BBC RB 1 HD">
         <title>Freestyle World Championships: Snowboard Cross Finals</title>
     </programme>
-    <programme start="20250328124000 +0000" stop="20250328151500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250328125500 +0000" stop="20250328151500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
     <programme start="20250328151500 +0000" stop="20250328212000 +0000" channel="BBC RB 1 HD">
