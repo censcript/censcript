@@ -24013,13 +24013,13 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250328110000 +0000" stop="20250328120000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Alison Young on Beauty Trends</title>
     </programme>
     <programme start="20250328120000 +0000" stop="20250328130000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250328130000 +0000" stop="20250328140000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250328140000 +0000" stop="20250328150000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -24028,7 +24028,7 @@
         <title>Australian Bodycare: Crafted by Nature</title>
     </programme>
     <programme start="20250328160000 +0000" stop="20250328170000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Neom Wellbeing London</title>
     </programme>
     <programme start="20250328170000 +0000" stop="20250328180000 +0000" channel="QVC Beauty">
         <title>Alison Young on Beauty Trends</title>
@@ -24037,7 +24037,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250328190000 +0000" stop="20250328200000 +0000" channel="QVC Beauty">
-        <title>Bobbi Brown</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250328200000 +0000" stop="20250328210000 +0000" channel="QVC Beauty">
         <title>Elemis Skin Therapies</title>
@@ -24046,10 +24046,10 @@
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="QVC Beauty">
-        <title>Neom Wellbeing London</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250328230000 +0000" stop="20250329000000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250327220000 +0000" stop="20250327230000 +0000" channel="QVC Style HD">
         <title>Luxury Handbags</title>

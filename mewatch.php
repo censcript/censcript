@@ -1023,11 +1023,11 @@
     <programme start="20250328160000 +0000" stop="20250329110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 29th March, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250327160000 +0000" stop="20250328123000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
+    <programme start="20250327160000 +0000" stop="20250328160000 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
-    <programme start="20250328123000 +0000" stop="20250328163000 +0000" channel="Live 2.mewatch">
-        <title>ONE Friday Fights 102</title>
+    <programme start="20250328160000 +0000" stop="20250329160000 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250327160000 +0000" stop="20250328062000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th March, Friday 2.20pm. FIBA 3x3 Asia Cup 2025</title>
@@ -1036,7 +1036,7 @@
         <title>FIBA 3x3 Asia Cup 2025</title>
     </programme>
     <programme start="20250328091000 +0000" stop="20250328103000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th March, Saturday 6.30pm. FIBA 3x3 Asia Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 28th March, Friday 6.30pm. FIBA 3x3 Asia Cup 2025</title>
     </programme>
     <programme start="20250328103000 +0000" stop="20250328133000 +0000" channel="Live 5.mewatch">
         <title>FIBA 3x3 Asia Cup 2025</title>
