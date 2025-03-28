@@ -26481,11 +26481,8 @@
     <programme start="20250329225000 +0000" stop="20250329230000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250329230000 +0000" stop="20250329234500 +0000" channel="MTA1 World HD">
+    <programme start="20250329230000 +0000" stop="20250330000000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
-    </programme>
-    <programme start="20250329234500 +0000" stop="20250330004500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="HUM Masala">
         <title>Mere Mehrbaan</title>
