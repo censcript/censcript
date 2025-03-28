@@ -14829,10 +14829,7 @@
     <programme start="20250328130000 +0000" stop="20250328133000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250328133000 +0000" stop="20250328134500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
-    </programme>
-    <programme start="20250328134500 +0000" stop="20250328140000 +0000" channel="BBC NEWS HD">
+    <programme start="20250328133000 +0000" stop="20250328140000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
     <programme start="20250328140000 +0000" stop="20250328143000 +0000" channel="BBC NEWS HD">
@@ -14916,17 +14913,20 @@
     <programme start="20250328063000 +0000" stop="20250328093000 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
     </programme>
-    <programme start="20250328093000 +0000" stop="20250328150000 +0000" channel="BBC Parl HD">
+    <programme start="20250328093000 +0000" stop="20250328145500 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
-    <programme start="20250328150000 +0000" stop="20250328164500 +0000" channel="BBC Parl HD">
+    <programme start="20250328145500 +0000" stop="20250328164000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Food Debate, Part 1</title>
     </programme>
-    <programme start="20250328164500 +0000" stop="20250328173000 +0000" channel="BBC Parl HD">
+    <programme start="20250328164000 +0000" stop="20250328172500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Food Debate, Part 2</title>
     </programme>
-    <programme start="20250328173000 +0000" stop="20250328201000 +0000" channel="BBC Parl HD">
+    <programme start="20250328172500 +0000" stop="20250328193000 +0000" channel="BBC Parl HD">
         <title>Modern Slavery Act Debate</title>
+    </programme>
+    <programme start="20250328193000 +0000" stop="20250328201000 +0000" channel="BBC Parl HD">
+        <title>Scunthorpe Steelworks Urgent Question</title>
     </programme>
     <programme start="20250328201000 +0000" stop="20250328210000 +0000" channel="BBC Parl HD">
         <title>Export-led Growth Committee</title>
@@ -36378,10 +36378,10 @@
     <programme start="20250328105500 +0000" stop="20250328125500 +0000" channel="BBC RB 1 HD">
         <title>Freestyle World Championships: Snowboard Cross Finals</title>
     </programme>
-    <programme start="20250328125500 +0000" stop="20250328151500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250328125500 +0000" stop="20250328151000 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250328151500 +0000" stop="20250328212000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250328151000 +0000" stop="20250328212000 +0000" channel="BBC RB 1 HD">
         <title>World Figure Skating...</title>
     </programme>
     <programme start="20250328212000 +0000" stop="20250328220000 +0000" channel="BBC RB 1 HD">
