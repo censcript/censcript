@@ -14865,11 +14865,8 @@
     <programme start="20250328183000 +0000" stop="20250328190000 +0000" channel="BBC NEWS HD">
         <title>Sportsday</title>
     </programme>
-    <programme start="20250328190000 +0000" stop="20250328193000 +0000" channel="BBC NEWS HD">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20250328193000 +0000" stop="20250328200000 +0000" channel="BBC NEWS HD">
-        <title>The World Today with Maryam Moshiri</title>
+    <programme start="20250328190000 +0000" stop="20250328200000 +0000" channel="BBC NEWS HD">
+        <title>Myanmar Earthquake: State of Emergency</title>
     </programme>
     <programme start="20250328200000 +0000" stop="20250328203000 +0000" channel="BBC NEWS HD">
         <title>The Context</title>
@@ -14922,13 +14919,13 @@
     <programme start="20250328093000 +0000" stop="20250328150000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
-    <programme start="20250328150000 +0000" stop="20250328163000 +0000" channel="BBC Parl HD">
+    <programme start="20250328150000 +0000" stop="20250328164500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Food Debate, Part 1</title>
     </programme>
-    <programme start="20250328163000 +0000" stop="20250328180000 +0000" channel="BBC Parl HD">
+    <programme start="20250328164500 +0000" stop="20250328173000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Food Debate, Part 2</title>
     </programme>
-    <programme start="20250328180000 +0000" stop="20250328201000 +0000" channel="BBC Parl HD">
+    <programme start="20250328173000 +0000" stop="20250328201000 +0000" channel="BBC Parl HD">
         <title>Modern Slavery Act Debate</title>
     </programme>
     <programme start="20250328201000 +0000" stop="20250328210000 +0000" channel="BBC Parl HD">
