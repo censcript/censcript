@@ -7371,10 +7371,7 @@
     <programme start="20250328045000 +0000" stop="20250328054000 +0000" channel="Channel 5+1">
         <title>Gardening with Carol Klein</title>
     </programme>
-    <programme start="20250328054000 +0000" stop="20250328060000 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
-    </programme>
-    <programme start="20250328060000 +0000" stop="20250328060500 +0000" channel="Channel 5+1">
+    <programme start="20250328054000 +0000" stop="20250328060500 +0000" channel="Channel 5+1">
         <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250328060500 +0000" stop="20250328063000 +0000" channel="Channel 5+1">
@@ -24052,7 +24049,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250328230000 +0000" stop="20250329000000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250327220000 +0000" stop="20250327230000 +0000" channel="QVC Style HD">
         <title>Luxury Handbags</title>
@@ -24760,7 +24757,7 @@
         <title>Patio, Lawn &amp; Garden Deals</title>
     </programme>
     <programme start="20250328210000 +0000" stop="20250328220000 +0000" channel="QVC Extra">
-        <title>QVC Garden</title>
+        <title>Patio, Lawn &amp; Garden Deals</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="QVC Extra">
         <title>Denim &amp; Co on 4 Easy Pay</title>
