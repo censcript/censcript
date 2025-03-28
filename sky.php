@@ -12153,8 +12153,11 @@
     <programme start="20250329080000 +0000" stop="20250329100000 +0000" channel="MTV MUSIC">
         <title>Guess The Year</title>
     </programme>
-    <programme start="20250329100000 +0000" stop="20250329120000 +0000" channel="MTV MUSIC">
+    <programme start="20250329100000 +0000" stop="20250329114000 +0000" channel="MTV MUSIC">
         <title>Today's UK Big 20</title>
+    </programme>
+    <programme start="20250329114000 +0000" stop="20250329120000 +0000" channel="MTV MUSIC">
+        <title>Gracie Abrams: On Repeat!</title>
     </programme>
     <programme start="20250329120000 +0000" stop="20250329130000 +0000" channel="MTV MUSIC">
         <title>Fresh Out</title>
@@ -12165,11 +12168,17 @@
     <programme start="20250329140000 +0000" stop="20250329160000 +0000" channel="MTV MUSIC">
         <title>No.1s On This Day: 2001-2024</title>
     </programme>
-    <programme start="20250329160000 +0000" stop="20250329210000 +0000" channel="MTV MUSIC">
+    <programme start="20250329160000 +0000" stop="20250329202500 +0000" channel="MTV MUSIC">
         <title>MTV's 50 Heartbreak Anthems</title>
     </programme>
-    <programme start="20250329210000 +0000" stop="20250329230000 +0000" channel="MTV MUSIC">
+    <programme start="20250329202500 +0000" stop="20250329210000 +0000" channel="MTV MUSIC">
+        <title>New &amp; Now!</title>
+    </programme>
+    <programme start="20250329210000 +0000" stop="20250329224500 +0000" channel="MTV MUSIC">
         <title>Party Like A Rockstar! Top 20</title>
+    </programme>
+    <programme start="20250329224500 +0000" stop="20250329230000 +0000" channel="MTV MUSIC">
+        <title>Rock.Alt.Indie</title>
     </programme>
     <programme start="20250329230000 +0000" stop="20250330000000 +0000" channel="MTV MUSIC">
         <title>Club MTV's Big 20</title>
@@ -12189,17 +12198,20 @@
     <programme start="20250329060000 +0000" stop="20250329070000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250329070000 +0000" stop="20250329090000 +0000" channel="MTV HITS">
+    <programme start="20250329070000 +0000" stop="20250329082500 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
     </programme>
-    <programme start="20250329090000 +0000" stop="20250329140000 +0000" channel="MTV HITS">
+    <programme start="20250329082500 +0000" stop="20250329140000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250329140000 +0000" stop="20250329150000 +0000" channel="MTV HITS">
         <title>Fresh Out</title>
     </programme>
-    <programme start="20250329150000 +0000" stop="20250329200000 +0000" channel="MTV HITS">
+    <programme start="20250329150000 +0000" stop="20250329185500 +0000" channel="MTV HITS">
         <title>MTV's 50 Covers &amp; Samples</title>
+    </programme>
+    <programme start="20250329185500 +0000" stop="20250329200000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250329200000 +0000" stop="20250329210000 +0000" channel="MTV HITS">
         <title>Massive Dance Hits!</title>
@@ -12255,16 +12267,16 @@
     <programme start="20250329060000 +0000" stop="20250329090000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
     </programme>
-    <programme start="20250329090000 +0000" stop="20250329140000 +0000" channel="MTV 80s">
+    <programme start="20250329090000 +0000" stop="20250329132500 +0000" channel="MTV 80s">
         <title>50 Karaoke Classics!</title>
     </programme>
-    <programme start="20250329140000 +0000" stop="20250329160000 +0000" channel="MTV 80s">
+    <programme start="20250329132500 +0000" stop="20250329155500 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
-    <programme start="20250329160000 +0000" stop="20250329210000 +0000" channel="MTV 80s">
+    <programme start="20250329155500 +0000" stop="20250329202500 +0000" channel="MTV 80s">
         <title>50 Greatest Groups Of The 80s!</title>
     </programme>
-    <programme start="20250329210000 +0000" stop="20250329220000 +0000" channel="MTV 80s">
+    <programme start="20250329202500 +0000" stop="20250329212500 +0000" channel="MTV 80s">
         <title>MTV 80s @ The Movies!</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250329000000 +0000" channel="Clubland TV">
@@ -17586,101 +17598,38 @@
     <programme start="20250329233000 +0000" stop="20250330003000 +0000" channel="DAYSTAR HD">
         <title>Israel Now News</title>
     </programme>
-    <programme start="20250328223000 +0000" stop="20250328230000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
+    <programme start="20250328200000 +0000" stop="20250329000000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250328230000 +0000" stop="20250329000000 +0000" channel="LoveWorld HD">
-        <title>GYTV</title>
+    <programme start="20250329000000 +0000" stop="20250329030000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329000000 +0000" stop="20250329003000 +0000" channel="LoveWorld HD">
-        <title>GYTV</title>
+    <programme start="20250329030000 +0000" stop="20250329050000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329003000 +0000" stop="20250329010000 +0000" channel="LoveWorld HD">
-        <title>GYTV</title>
+    <programme start="20250329050000 +0000" stop="20250329080000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329010000 +0000" stop="20250329013000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
+    <programme start="20250329080000 +0000" stop="20250329110000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329013000 +0000" stop="20250329020000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
+    <programme start="20250329110000 +0000" stop="20250329140000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329020000 +0000" stop="20250329023000 +0000" channel="LoveWorld HD">
-        <title>Enter The Healing School</title>
-    </programme>
-    <programme start="20250329023000 +0000" stop="20250329030000 +0000" channel="LoveWorld HD">
-        <title>Real Miracles Today</title>
-    </programme>
-    <programme start="20250329030000 +0000" stop="20250329033000 +0000" channel="LoveWorld HD">
-        <title>Talking Politics</title>
-    </programme>
-    <programme start="20250329033000 +0000" stop="20250329040000 +0000" channel="LoveWorld HD">
-        <title>Talking Politics</title>
-    </programme>
-    <programme start="20250329040000 +0000" stop="20250329043000 +0000" channel="LoveWorld HD">
-        <title>Today on Rhapsody of Realities</title>
-    </programme>
-    <programme start="20250329043000 +0000" stop="20250329050000 +0000" channel="LoveWorld HD">
-        <title>Songs of Zion</title>
-    </programme>
-    <programme start="20250329050000 +0000" stop="20250329053000 +0000" channel="LoveWorld HD">
-        <title>Enter The Healing School</title>
-    </programme>
-    <programme start="20250329053000 +0000" stop="20250329060000 +0000" channel="LoveWorld HD">
-        <title>Rhapsody TV</title>
-    </programme>
-    <programme start="20250329060000 +0000" stop="20250329063000 +0000" channel="LoveWorld HD">
-        <title>Rhapsody TV</title>
-    </programme>
-    <programme start="20250329063000 +0000" stop="20250329070000 +0000" channel="LoveWorld HD">
-        <title>Today on Rhapsody of Realities</title>
-    </programme>
-    <programme start="20250329070000 +0000" stop="20250329073000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
-    </programme>
-    <programme start="20250329073000 +0000" stop="20250329080000 +0000" channel="LoveWorld HD">
-        <title>Songs Of Zion</title>
-    </programme>
-    <programme start="20250329080000 +0000" stop="20250329083000 +0000" channel="LoveWorld HD">
-        <title>SuperBook</title>
-    </programme>
-    <programme start="20250329083000 +0000" stop="20250329090000 +0000" channel="LoveWorld HD">
-        <title>SuperBook</title>
-    </programme>
-    <programme start="20250329090000 +0000" stop="20250329100000 +0000" channel="LoveWorld HD">
-        <title>Lovetoons</title>
-    </programme>
-    <programme start="20250329100000 +0000" stop="20250329103000 +0000" channel="LoveWorld HD">
-        <title>Ricky and Friends</title>
-    </programme>
-    <programme start="20250329103000 +0000" stop="20250329110000 +0000" channel="LoveWorld HD">
-        <title>Fast Kids</title>
-    </programme>
-    <programme start="20250329110000 +0000" stop="20250329130000 +0000" channel="LoveWorld HD">
-        <title>Healing Streams festival of Miracles</title>
-    </programme>
-    <programme start="20250329130000 +0000" stop="20250329140000 +0000" channel="LoveWorld HD">
-        <title>Loveworld Extra</title>
-    </programme>
-    <programme start="20250329140000 +0000" stop="20250329150000 +0000" channel="LoveWorld HD">
-        <title>Loveworld Extra</title>
-    </programme>
-    <programme start="20250329150000 +0000" stop="20250329153000 +0000" channel="LoveWorld HD">
-        <title>Sports Recap</title>
-    </programme>
-    <programme start="20250329153000 +0000" stop="20250329170000 +0000" channel="LoveWorld HD">
-        <title>The Vocal Lexicon</title>
+    <programme start="20250329140000 +0000" stop="20250329170000 +0000" channel="LoveWorld HD">
+        <title>Global Day of Prayer and...</title>
     </programme>
     <programme start="20250329170000 +0000" stop="20250329200000 +0000" channel="LoveWorld HD">
-        <title>Healing Streams festival of Miracles</title>
+        <title>Global Day of Prayer and...</title>
     </programme>
-    <programme start="20250329200000 +0000" stop="20250329220000 +0000" channel="LoveWorld HD">
+    <programme start="20250329200000 +0000" stop="20250329203000 +0000" channel="LoveWorld HD">
+        <title>The Narrative</title>
+    </programme>
+    <programme start="20250329203000 +0000" stop="20250329220000 +0000" channel="LoveWorld HD">
         <title>Loveworld Movie Night</title>
     </programme>
-    <programme start="20250329220000 +0000" stop="20250329230000 +0000" channel="LoveWorld HD">
+    <programme start="20250329220000 +0000" stop="20250329233000 +0000" channel="LoveWorld HD">
         <title>Loveworld Movie Night</title>
-    </programme>
-    <programme start="20250329230000 +0000" stop="20250329233000 +0000" channel="LoveWorld HD">
-        <title>Rhapsody TV</title>
     </programme>
     <programme start="20250329233000 +0000" stop="20250330003000 +0000" channel="LoveWorld HD">
         <title>Jerry Savelle Ministries</title>
@@ -35953,7 +35902,7 @@
         <title>Johnny I'Anson</title>
     </programme>
     <programme start="20250329050000 +0000" stop="20250329053000 +0000" channel="BBC R5L">
-        <title>5 Live Boxing - 2024/25 - Pod</title>
+        <title>5 Live Boxing</title>
     </programme>
     <programme start="20250329053000 +0000" stop="20250329060000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
@@ -36868,16 +36817,16 @@
         <title>Panjab Radio</title>
     </programme>
     <programme start="20250328223000 +0000" stop="20250328230000 +0000" channel="BBC R4 Extra">
-        <title>Trevor's World Of Sport</title>
+        <title>Trevor's World of Sport</title>
     </programme>
     <programme start="20250328230000 +0000" stop="20250328231500 +0000" channel="BBC R4 Extra">
         <title>Sarah Keyworth - Are you a Boy or a Girl?</title>
     </programme>
     <programme start="20250328231500 +0000" stop="20250328233000 +0000" channel="BBC R4 Extra">
-        <title>Tom Mayhew is Benefit Scum</title>
+        <title>Tom Mayhew Is Benefit Scum</title>
     </programme>
     <programme start="20250328233000 +0000" stop="20250329000000 +0000" channel="BBC R4 Extra">
-        <title>Talking To Strangers</title>
+        <title>Talking to Strangers</title>
     </programme>
     <programme start="20250329000000 +0000" stop="20250329003000 +0000" channel="BBC R4 Extra">
         <title>Soul Music</title>
