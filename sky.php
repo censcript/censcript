@@ -15259,7 +15259,7 @@
         <title>Chatroom Japan</title>
     </programme>
     <programme start="20250328083000 +0000" stop="20250328090000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Rene and Me</title>
     </programme>
     <programme start="20250328090000 +0000" stop="20250328091500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15316,7 +15316,7 @@
         <title>Newsline In Depth</title>
     </programme>
     <programme start="20250328143000 +0000" stop="20250328150000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Japan in Focus</title>
     </programme>
     <programme start="20250328150000 +0000" stop="20250328151500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15334,7 +15334,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20250328163000 +0000" stop="20250328170000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Rene and Me</title>
     </programme>
     <programme start="20250328170000 +0000" stop="20250328171500 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15373,7 +15373,7 @@
         <title>Newsline Biz</title>
     </programme>
     <programme start="20250328203000 +0000" stop="20250328210000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Japan in Focus</title>
     </programme>
     <programme start="20250328210000 +0000" stop="20250328211800 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15406,7 +15406,7 @@
         <title>Japan's Top Inventions</title>
     </programme>
     <programme start="20250328233000 +0000" stop="20250329003000 +0000" channel="NHK World HD">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Rene and Me</title>
     </programme>
     <programme start="20250327223000 +0000" stop="20250327230000 +0000" channel="Euronews">
         <title>The European Debrief</title>
@@ -26571,31 +26571,31 @@
     <programme start="20250328060000 +0000" stop="20250328062100 +0000" channel="SONY SAB">
         <title>Ali Baba Ek Andaaz Undekha Chapter -2</title>
     </programme>
-    <programme start="20250328062100 +0000" stop="20250328064200 +0000" channel="SONY SAB">
+    <programme start="20250328062100 +0000" stop="20250328064500 +0000" channel="SONY SAB">
         <title>Veer Hanuman - Bolo Bajrang Bali Ki Jai</title>
     </programme>
-    <programme start="20250328064200 +0000" stop="20250328070300 +0000" channel="SONY SAB">
+    <programme start="20250328064500 +0000" stop="20250328070600 +0000" channel="SONY SAB">
         <title>Pushpa Impossible</title>
     </programme>
-    <programme start="20250328070300 +0000" stop="20250328072500 +0000" channel="SONY SAB">
+    <programme start="20250328070600 +0000" stop="20250328072700 +0000" channel="SONY SAB">
         <title>Wagle Ki Duniya</title>
     </programme>
-    <programme start="20250328072500 +0000" stop="20250328074500 +0000" channel="SONY SAB">
+    <programme start="20250328072700 +0000" stop="20250328074800 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
-    <programme start="20250328074500 +0000" stop="20250328080700 +0000" channel="SONY SAB">
+    <programme start="20250328074800 +0000" stop="20250328080900 +0000" channel="SONY SAB">
         <title>Tenali Rama 2.0</title>
     </programme>
-    <programme start="20250328080700 +0000" stop="20250328085400 +0000" channel="SONY SAB">
+    <programme start="20250328080900 +0000" stop="20250328085500 +0000" channel="SONY SAB">
         <title>Vighnaharta Ganesh</title>
     </programme>
-    <programme start="20250328085400 +0000" stop="20250328093700 +0000" channel="SONY SAB">
+    <programme start="20250328085500 +0000" stop="20250328093800 +0000" channel="SONY SAB">
         <title>Vighnaharta Ganesh</title>
     </programme>
-    <programme start="20250328093700 +0000" stop="20250328102100 +0000" channel="SONY SAB">
+    <programme start="20250328093800 +0000" stop="20250328102200 +0000" channel="SONY SAB">
         <title>Vighnaharta Ganesh</title>
     </programme>
-    <programme start="20250328102100 +0000" stop="20250328120100 +0000" channel="SONY SAB">
+    <programme start="20250328102200 +0000" stop="20250328120100 +0000" channel="SONY SAB">
         <title>The Kapil Sharma Show</title>
     </programme>
     <programme start="20250328120100 +0000" stop="20250328122800 +0000" channel="SONY SAB">
@@ -26610,22 +26610,25 @@
     <programme start="20250328132200 +0000" stop="20250328134900 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
-    <programme start="20250328134900 +0000" stop="20250328141300 +0000" channel="SONY SAB">
+    <programme start="20250328134900 +0000" stop="20250328141400 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
-    <programme start="20250328141300 +0000" stop="20250328143000 +0000" channel="SONY SAB">
+    <programme start="20250328141400 +0000" stop="20250328143100 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
-    <programme start="20250328143000 +0000" stop="20250328152900 +0000" channel="SONY SAB">
+    <programme start="20250328143100 +0000" stop="20250328153000 +0000" channel="SONY SAB">
         <title>Mann Mein Vishwaas Hai</title>
     </programme>
-    <programme start="20250328152900 +0000" stop="20250328170000 +0000" channel="SONY SAB">
+    <programme start="20250328153000 +0000" stop="20250328164500 +0000" channel="SONY SAB">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250328170000 +0000" stop="20250328173000 +0000" channel="SONY SAB">
+    <programme start="20250328164500 +0000" stop="20250328170000 +0000" channel="SONY SAB">
+        <title>The Kapil Sharma Show</title>
+    </programme>
+    <programme start="20250328170000 +0000" stop="20250328172800 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
-    <programme start="20250328173000 +0000" stop="20250328180000 +0000" channel="SONY SAB">
+    <programme start="20250328172800 +0000" stop="20250328180000 +0000" channel="SONY SAB">
         <title>Veer Hanuman - Bolo Bajrang Bali Ki Jai</title>
     </programme>
     <programme start="20250328180000 +0000" stop="20250328183000 +0000" channel="SONY SAB">
@@ -26637,16 +26640,19 @@
     <programme start="20250328190000 +0000" stop="20250328193000 +0000" channel="SONY SAB">
         <title>Flavours Of Ramadan 2025</title>
     </programme>
-    <programme start="20250328193000 +0000" stop="20250328200000 +0000" channel="SONY SAB">
+    <programme start="20250328193000 +0000" stop="20250328194000 +0000" channel="SONY SAB">
+        <title>Flavours Of Ramadan 2025</title>
+    </programme>
+    <programme start="20250328194000 +0000" stop="20250328200000 +0000" channel="SONY SAB">
         <title>Taarak Mehta Ka Ooltah Chashmah</title>
     </programme>
     <programme start="20250328200000 +0000" stop="20250328203000 +0000" channel="SONY SAB">
         <title>Veer Hanuman - Bolo Bajrang Bali Ki Jai</title>
     </programme>
-    <programme start="20250328203000 +0000" stop="20250328210000 +0000" channel="SONY SAB">
+    <programme start="20250328203000 +0000" stop="20250328205900 +0000" channel="SONY SAB">
         <title>Tenali Rama 2.0</title>
     </programme>
-    <programme start="20250328210000 +0000" stop="20250328213000 +0000" channel="SONY SAB">
+    <programme start="20250328205900 +0000" stop="20250328213000 +0000" channel="SONY SAB">
         <title>Flavours Of Ramadan 2025</title>
     </programme>
     <programme start="20250328213000 +0000" stop="20250328220000 +0000" channel="SONY SAB">
@@ -36769,7 +36775,7 @@
         <title>talkSPORT Breakfast</title>
     </programme>
     <programme start="20250328100000 +0000" stop="20250328130000 +0000" channel="talkSPORT">
-        <title>White &amp; Jordan</title>
+        <title>Sam Matterface, Alex Crook</title>
     </programme>
     <programme start="20250328130000 +0000" stop="20250328160000 +0000" channel="talkSPORT">
         <title>Hawksbee &amp; Jacobs</title>
