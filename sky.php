@@ -29530,7 +29530,7 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250329150000 +0000" stop="20250329160000 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+        <title>Ramadan Charity Appeal</title>
     </programme>
     <programme start="20250329160000 +0000" stop="20250329162800 +0000" channel="iON TV">
         <title>Ramadan Charity Appeal</title>
