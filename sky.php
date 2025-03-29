@@ -25735,13 +25735,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330170500 +0000" stop="20250330180000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai Eid</title>
+        <title>Off The Record Eid Special</title>
     </programme>
     <programme start="20250330180000 +0000" stop="20250330180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330180500 +0000" stop="20250330190000 +0000" channel="New Vision TV">
-        <title>Eid Hungama</title>
+        <title>Aitraaz Hai</title>
     </programme>
     <programme start="20250330190000 +0000" stop="20250330190500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25759,7 +25759,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330210500 +0000" stop="20250330220000 +0000" channel="New Vision TV">
-        <title>Andaz Apna Apna</title>
+        <title>Masoomana Khel</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
