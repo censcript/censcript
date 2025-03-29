@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250329160000 +0000" stop="20250329183000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Orlando Pride v San Diego Wave FC</title>
-    </programme>
     <programme start="20250329170500 +0000" stop="20250329202500 +0000" channel="Optus Sport 3.optus">
         <title>FA Cup - Brighton v Nottingham Forest</title>
     </programme>

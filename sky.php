@@ -22303,7 +22303,7 @@
         <title>Enjoy Your Garden</title>
     </programme>
     <programme start="20250330130000 +0000" stop="20250330140000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>Top Offers</title>
     </programme>
     <programme start="20250330140000 +0000" stop="20250330150000 +0000" channel="QVC HD">
         <title>Tili Beauty: Try it, Love it</title>
@@ -22606,10 +22606,10 @@
         <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250330140000 +0000" stop="20250330150000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Accessories for Spring</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330160000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330170000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
@@ -23215,7 +23215,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250330120000 +0000" stop="20250330130000 +0000" channel="QVC Extra">
-        <title>Fashion Elevated Essentials</title>
+        <title>Denim &amp; Co on 4 Easy Pay</title>
     </programme>
     <programme start="20250330130000 +0000" stop="20250330140000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>
@@ -23224,7 +23224,7 @@
         <title>Discover Kitchen Gadgets</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330160000 +0000" channel="QVC Extra">
-        <title>Cozee Home on 4 Easy Pay</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330170000 +0000" channel="QVC Extra">
         <title>Fashion on Friday with Ben de Lisi</title>
@@ -25650,17 +25650,14 @@
     <programme start="20250330030000 +0000" stop="20250330030500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250330030500 +0000" stop="20250330033000 +0000" channel="New Vision TV">
+    <programme start="20250330030500 +0000" stop="20250330040000 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250330033000 +0000" stop="20250330040000 +0000" channel="New Vision TV">
+    <programme start="20250330040000 +0000" stop="20250330040500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250330040000 +0000" stop="20250330040500 +0000" channel="New Vision TV">
-        <title>Saray Aam</title>
-    </programme>
     <programme start="20250330040500 +0000" stop="20250330050000 +0000" channel="New Vision TV">
-        <title>Aaghai</title>
+        <title>Saray Aam</title>
     </programme>
     <programme start="20250330050000 +0000" stop="20250330050500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25684,13 +25681,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330080500 +0000" stop="20250330090000 +0000" channel="New Vision TV">
-        <title>Sham e Ramadan</title>
+        <title>BKS Eid Special</title>
     </programme>
     <programme start="20250330090000 +0000" stop="20250330090500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330090500 +0000" stop="20250330100000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai</title>
+        <title>BKS Eid Special</title>
     </programme>
     <programme start="20250330100000 +0000" stop="20250330100500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25702,13 +25699,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330110500 +0000" stop="20250330120000 +0000" channel="New Vision TV">
-        <title>Aitraaz Hai</title>
+        <title>Masoomana Khel</title>
     </programme>
     <programme start="20250330120000 +0000" stop="20250330120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330120500 +0000" stop="20250330130000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Sports Room Eid</title>
     </programme>
     <programme start="20250330130000 +0000" stop="20250330130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25720,13 +25717,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330140500 +0000" stop="20250330150000 +0000" channel="New Vision TV">
-        <title>Sham e Ramadan</title>
+        <title>Hoshiyarian Eid</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330150500 +0000" stop="20250330160000 +0000" channel="New Vision TV">
-        <title>Saray Aam</title>
+        <title>Jahan Bean Eid</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25738,13 +25735,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330170500 +0000" stop="20250330180000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai</title>
+        <title>Sawal Yeh Hai Eid</title>
     </programme>
     <programme start="20250330180000 +0000" stop="20250330180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330180500 +0000" stop="20250330190000 +0000" channel="New Vision TV">
-        <title>Aitraaz Hai</title>
+        <title>Eid Hungama</title>
     </programme>
     <programme start="20250330190000 +0000" stop="20250330190500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -25756,13 +25753,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250330200500 +0000" stop="20250330210000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Hoshiyarian Eid</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250330210500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250330210500 +0000" stop="20250330220000 +0000" channel="New Vision TV">
-        <title>Aitraaz Hai</title>
+        <title>Andaz Apna Apna</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
