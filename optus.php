@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250329072000 +0000" stop="20250329094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Ulsan</title>
-    </programme>
-    <programme start="20250329075500 +0000" stop="20250329101000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - FC Tokyo v Kawasaki</title>
-    </programme>
     <programme start="20250329120500 +0000" stop="20250329152500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Fulham v Crystal Palace</title>
     </programme>
