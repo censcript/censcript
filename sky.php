@@ -28015,7 +28015,7 @@
         <title>Dua Your Key To Allah</title>
     </programme>
     <programme start="20250329113000 +0000" stop="20250329120000 +0000" channel="Eman Channel">
-        <title>EKTV Game Show</title>
+        <title>The Art of Dua</title>
     </programme>
     <programme start="20250329120000 +0000" stop="20250329121000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
@@ -28026,13 +28026,13 @@
     <programme start="20250329121600 +0000" stop="20250329134500 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250329134500 +0000" stop="20250329140000 +0000" channel="Eman Channel">
+    <programme start="20250329134500 +0000" stop="20250329140500 +0000" channel="Eman Channel">
         <title>Dealing With Difficulty</title>
     </programme>
-    <programme start="20250329140000 +0000" stop="20250329141000 +0000" channel="Eman Channel">
+    <programme start="20250329140500 +0000" stop="20250329141500 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
     </programme>
-    <programme start="20250329141000 +0000" stop="20250329144500 +0000" channel="Eman Channel">
+    <programme start="20250329141500 +0000" stop="20250329144500 +0000" channel="Eman Channel">
         <title>The Signs of Prophethood</title>
     </programme>
     <programme start="20250329144500 +0000" stop="20250329153500 +0000" channel="Eman Channel">
@@ -28050,22 +28050,22 @@
     <programme start="20250329161000 +0000" stop="20250329170000 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250329170000 +0000" stop="20250329172000 +0000" channel="Eman Channel">
+    <programme start="20250329170000 +0000" stop="20250329171500 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250329172000 +0000" stop="20250329173000 +0000" channel="Eman Channel">
+    <programme start="20250329171500 +0000" stop="20250329173000 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
     <programme start="20250329173000 +0000" stop="20250329183200 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
-    <programme start="20250329183200 +0000" stop="20250329184000 +0000" channel="Eman Channel">
+    <programme start="20250329183200 +0000" stop="20250329183900 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250329184000 +0000" stop="20250329190000 +0000" channel="Eman Channel">
+    <programme start="20250329183900 +0000" stop="20250329185900 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250329190000 +0000" stop="20250329194900 +0000" channel="Eman Channel">
+    <programme start="20250329185900 +0000" stop="20250329194900 +0000" channel="Eman Channel">
         <title>Night Of Giving</title>
     </programme>
     <programme start="20250329194900 +0000" stop="20250329195500 +0000" channel="Eman Channel">
