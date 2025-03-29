@@ -948,13 +948,13 @@
     <programme start="20250329062000 +0000" stop="20250329090000 +0000" channel="Live 5.mewatch">
         <title>FIBA 3x3 Asia Cup 2025</title>
     </programme>
-    <programme start="20250329090000 +0000" stop="20250329103000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th March, Saturday 6.30pm. FIBA 3x3 Asia Cup 2025</title>
+    <programme start="20250329090000 +0000" stop="20250329102500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th March, Saturday 6.25pm. FIBA 3x3 Asia Cup 2025</title>
     </programme>
-    <programme start="20250329103000 +0000" stop="20250329130000 +0000" channel="Live 5.mewatch">
+    <programme start="20250329102500 +0000" stop="20250329133000 +0000" channel="Live 5.mewatch">
         <title>FIBA 3x3 Asia Cup 2025</title>
     </programme>
-    <programme start="20250329130000 +0000" stop="20250329160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250329133000 +0000" stop="20250329160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 30th March, Sunday 1.20pm. FIBA 3x3 Asia Cup 2025</title>
     </programme>
     <programme start="20250329160000 +0000" stop="20250330052000 +0000" channel="Live 5.mewatch">

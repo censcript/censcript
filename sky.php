@@ -26424,8 +26424,11 @@
     <programme start="20250329105500 +0000" stop="20250329110500 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250329110500 +0000" stop="20250329120500 +0000" channel="MTA1 World HD">
+    <programme start="20250329110500 +0000" stop="20250329120000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
+    </programme>
+    <programme start="20250329120000 +0000" stop="20250329120500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250329120500 +0000" stop="20250329121500 +0000" channel="MTA1 World HD">
         <title>UK Tabligh Pioneers</title>
@@ -26442,8 +26445,11 @@
     <programme start="20250329143500 +0000" stop="20250329145000 +0000" channel="MTA1 World HD">
         <title>Chef's Corner</title>
     </programme>
-    <programme start="20250329145000 +0000" stop="20250329153000 +0000" channel="MTA1 World HD">
+    <programme start="20250329145000 +0000" stop="20250329152000 +0000" channel="MTA1 World HD">
         <title>Noor-e-Hidayat</title>
+    </programme>
+    <programme start="20250329152000 +0000" stop="20250329153000 +0000" channel="MTA1 World HD">
+        <title>Laylatul Qadr</title>
     </programme>
     <programme start="20250329153000 +0000" stop="20250329162000 +0000" channel="MTA1 World HD">
         <title>Live Nashr-e-Ramadhan</title>
@@ -26466,8 +26472,11 @@
     <programme start="20250329184000 +0000" stop="20250329194000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250329194000 +0000" stop="20250329195500 +0000" channel="MTA1 World HD">
+    <programme start="20250329194000 +0000" stop="20250329194500 +0000" channel="MTA1 World HD">
         <title>UK Tabligh Pioneers</title>
+    </programme>
+    <programme start="20250329194500 +0000" stop="20250329195500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250329195500 +0000" stop="20250329204500 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
@@ -26481,8 +26490,11 @@
     <programme start="20250329225000 +0000" stop="20250329230000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250329230000 +0000" stop="20250330000000 +0000" channel="MTA1 World HD">
+    <programme start="20250329230000 +0000" stop="20250329235000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
+    </programme>
+    <programme start="20250329235000 +0000" stop="20250330005000 +0000" channel="MTA1 World HD">
+        <title>Laylatul Qadr</title>
     </programme>
     <programme start="20250328220000 +0000" stop="20250328230000 +0000" channel="HUM Masala">
         <title>Mere Mehrbaan</title>
@@ -29161,7 +29173,7 @@
         <title>Prophet Story</title>
     </programme>
     <programme start="20250329080000 +0000" stop="20250329090000 +0000" channel="ATN">
-        <title>Telefilm</title>
+        <title>Nonod vs Vabi</title>
     </programme>
     <programme start="20250329090000 +0000" stop="20250329100000 +0000" channel="ATN">
         <title>Porir Moto Bou</title>
