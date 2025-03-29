@@ -28453,7 +28453,7 @@
         <title>GNNSJ Kar Sewa Update</title>
     </programme>
     <programme start="20250329190000 +0000" stop="20250329193000 +0000" channel="Sangat">
-        <title>Bhai Subeg Singh Ji</title>
+        <title>Gurmat Samagam</title>
     </programme>
     <programme start="20250329193000 +0000" stop="20250329200000 +0000" channel="Sangat">
         <title>Jyoti Saroop</title>
@@ -28465,16 +28465,13 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250329213000 +0000" stop="20250329220000 +0000" channel="Sangat">
-        <title>Punjabi Virsa</title>
+        <title>Gurmat Samagam</title>
     </programme>
     <programme start="20250329220000 +0000" stop="20250329230000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
     </programme>
-    <programme start="20250329230000 +0000" stop="20250329233000 +0000" channel="Sangat">
-        <title>Sahit de Sang</title>
-    </programme>
-    <programme start="20250329233000 +0000" stop="20250330003000 +0000" channel="Sangat">
-        <title>Sardar Bhagat Singh</title>
+    <programme start="20250329230000 +0000" stop="20250330000000 +0000" channel="Sangat">
+        <title>Gurmat Samagam</title>
     </programme>
     <programme start="20250328223000 +0000" stop="20250328230000 +0000" channel="Akaal Channel">
         <title>Chalant Masle</title>
