@@ -25900,34 +25900,28 @@
         <title>Aas Paas</title>
     </programme>
     <programme start="20250330020000 +0000" stop="20250330030000 +0000" channel="GEO TV">
-        <title>Sehri Transmission</title>
-    </programme>
-    <programme start="20250330030000 +0000" stop="20250330040000 +0000" channel="GEO TV">
-        <title>Sehri Transmission</title>
-    </programme>
-    <programme start="20250330040000 +0000" stop="20250330050000 +0000" channel="GEO TV">
-        <title>Sehri Transmission</title>
-    </programme>
-    <programme start="20250330050000 +0000" stop="20250330053000 +0000" channel="GEO TV">
-        <title>Quran Sub Kay Liye</title>
-    </programme>
-    <programme start="20250330053000 +0000" stop="20250330060000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
-    </programme>
-    <programme start="20250330060000 +0000" stop="20250330070000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
+    <programme start="20250330030000 +0000" stop="20250330040000 +0000" channel="GEO TV">
+        <title>Mann Mast Malang</title>
+    </programme>
+    <programme start="20250330040000 +0000" stop="20250330050000 +0000" channel="GEO TV">
+        <title>Quran Sub Kay Liye</title>
+    </programme>
+    <programme start="20250330050000 +0000" stop="20250330060000 +0000" channel="GEO TV">
+        <title>Bajjo</title>
+    </programme>
+    <programme start="20250330060000 +0000" stop="20250330070000 +0000" channel="GEO TV">
+        <title>Eid Namaz</title>
+    </programme>
     <programme start="20250330070000 +0000" stop="20250330080000 +0000" channel="GEO TV">
-        <title>Aas Paas</title>
+        <title>Parday Main Rehnay Do</title>
     </programme>
     <programme start="20250330080000 +0000" stop="20250330090000 +0000" channel="GEO TV">
-        <title>Kaffara</title>
+        <title>Parday Main Rehnay Do</title>
     </programme>
-    <programme start="20250330090000 +0000" stop="20250330093000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
-    </programme>
-    <programme start="20250330093000 +0000" stop="20250330100000 +0000" channel="GEO TV">
-        <title>Dayyan</title>
+    <programme start="20250330090000 +0000" stop="20250330100000 +0000" channel="GEO TV">
+        <title>Parday Main Rehnay Do</title>
     </programme>
     <programme start="20250330100000 +0000" stop="20250330110000 +0000" channel="GEO TV">
         <title>Dayyan</title>
@@ -25935,29 +25929,23 @@
     <programme start="20250330110000 +0000" stop="20250330120000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250330120000 +0000" stop="20250330123000 +0000" channel="GEO TV">
+    <programme start="20250330120000 +0000" stop="20250330130000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
     </programme>
-    <programme start="20250330123000 +0000" stop="20250330133000 +0000" channel="GEO TV">
-        <title>Mann Mast Malang</title>
+    <programme start="20250330130000 +0000" stop="20250330140000 +0000" channel="GEO TV">
+        <title>Na Maloom Afraad 2</title>
     </programme>
-    <programme start="20250330133000 +0000" stop="20250330143000 +0000" channel="GEO TV">
-        <title>Aas Paas</title>
-    </programme>
-    <programme start="20250330143000 +0000" stop="20250330150000 +0000" channel="GEO TV">
-        <title>Mann Marzi</title>
+    <programme start="20250330140000 +0000" stop="20250330150000 +0000" channel="GEO TV">
+        <title>Na Maloom Afraad 2</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330160000 +0000" channel="GEO TV">
-        <title>Makafat</title>
+        <title>Na Maloom Afraad 2</title>
     </programme>
-    <programme start="20250330160000 +0000" stop="20250330170000 +0000" channel="GEO TV">
+    <programme start="20250330160000 +0000" stop="20250330173000 +0000" channel="GEO TV">
         <title>Umme Ayesha</title>
     </programme>
-    <programme start="20250330170000 +0000" stop="20250330173000 +0000" channel="GEO TV">
-        <title>Kurulus Osman</title>
-    </programme>
     <programme start="20250330173000 +0000" stop="20250330180000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+        <title>Kurulus Osman</title>
     </programme>
     <programme start="20250330180000 +0000" stop="20250330190000 +0000" channel="GEO TV">
         <title>Bajjo</title>
@@ -25975,7 +25963,7 @@
         <title>Guddi</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330230000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+        <title>Jodi Ban Gayi</title>
     </programme>
     <programme start="20250329210000 +0000" stop="20250329230000 +0000" channel="Noor TV">
         <title>Charity Appeal</title>
