@@ -28005,11 +28005,8 @@
     <programme start="20250329084500 +0000" stop="20250329090000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250329090000 +0000" stop="20250329103000 +0000" channel="Eman Channel">
+    <programme start="20250329090000 +0000" stop="20250329110000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
-    </programme>
-    <programme start="20250329103000 +0000" stop="20250329110000 +0000" channel="Eman Channel">
-        <title>Repeat: EKTV</title>
     </programme>
     <programme start="20250329110000 +0000" stop="20250329111500 +0000" channel="Eman Channel">
         <title>A Sisters Ramadan</title>
@@ -28020,20 +28017,17 @@
     <programme start="20250329113000 +0000" stop="20250329120000 +0000" channel="Eman Channel">
         <title>EKTV Game Show</title>
     </programme>
-    <programme start="20250329120000 +0000" stop="20250329121100 +0000" channel="Eman Channel">
+    <programme start="20250329120000 +0000" stop="20250329121000 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250329121100 +0000" stop="20250329122000 +0000" channel="Eman Channel">
+    <programme start="20250329121000 +0000" stop="20250329121600 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250329122000 +0000" stop="20250329133000 +0000" channel="Eman Channel">
+    <programme start="20250329121600 +0000" stop="20250329134500 +0000" channel="Eman Channel">
         <title>Repeat Taraweeh</title>
     </programme>
-    <programme start="20250329133000 +0000" stop="20250329134500 +0000" channel="Eman Channel">
-        <title>Dealing With Difficulty</title>
-    </programme>
     <programme start="20250329134500 +0000" stop="20250329140000 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
+        <title>Dealing With Difficulty</title>
     </programme>
     <programme start="20250329140000 +0000" stop="20250329141000 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
@@ -28056,10 +28050,10 @@
     <programme start="20250329161000 +0000" stop="20250329170000 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
-    <programme start="20250329170000 +0000" stop="20250329171500 +0000" channel="Eman Channel">
+    <programme start="20250329170000 +0000" stop="20250329172000 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250329171500 +0000" stop="20250329173000 +0000" channel="Eman Channel">
+    <programme start="20250329172000 +0000" stop="20250329173000 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
     <programme start="20250329173000 +0000" stop="20250329183200 +0000" channel="Eman Channel">
