@@ -16528,7 +16528,7 @@
         <title>WION Fineprint</title>
     </programme>
     <programme start="20250328233000 +0000" stop="20250329000000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250329000000 +0000" stop="20250329003000 +0000" channel="WION HD">
         <title>Top Stories</title>
