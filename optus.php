@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Gotham FC</title>
-    </programme>
-    <programme start="20250329000000 +0000" stop="20250329023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Washington Spirit v Bay FC</title>
-    </programme>
     <programme start="20250329035000 +0000" stop="20250329060500 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Fagiano Okayama v Yokohama FM</title>
     </programme>
