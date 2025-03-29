@@ -26452,7 +26452,7 @@
         <title>Daras e Quran</title>
     </programme>
     <programme start="20250330090000 +0000" stop="20250330100000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250330100000 +0000" stop="20250330110000 +0000" channel="Takbeer TV">
         <title>Ramadan Moments</title>
@@ -27742,85 +27742,91 @@
         <title>Arabi Kafela</title>
     </programme>
     <programme start="20250330070000 +0000" stop="20250330073000 +0000" channel="CHSTV">
-        <title>Islamic Lifestyle</title>
+        <title>Good Morning Sylhet</title>
     </programme>
     <programme start="20250330073000 +0000" stop="20250330080000 +0000" channel="CHSTV">
-        <title>Acts Of Duty</title>
+        <title>Amader Gram</title>
     </programme>
     <programme start="20250330080000 +0000" stop="20250330083000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250330083000 +0000" stop="20250330100000 +0000" channel="CHSTV">
-        <title>Ramadan Essentials</title>
+    <programme start="20250330083000 +0000" stop="20250330090000 +0000" channel="CHSTV">
+        <title>Briddhasrome Eid</title>
     </programme>
-    <programme start="20250330100000 +0000" stop="20250330103000 +0000" channel="CHSTV">
-        <title>Haat Bazar</title>
+    <programme start="20250330090000 +0000" stop="20250330100000 +0000" channel="CHSTV">
+        <title>Sylheti Poua</title>
     </programme>
-    <programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="CHSTV">
-        <title>Understanding Islam</title>
+    <programme start="20250330100000 +0000" stop="20250330110000 +0000" channel="CHSTV">
+        <title>Family Ties</title>
     </programme>
     <programme start="20250330110000 +0000" stop="20250330113000 +0000" channel="CHSTV">
-        <title>Ummahatul Muminin</title>
+        <title>Bondhua Bihone Go</title>
     </programme>
-    <programme start="20250330113000 +0000" stop="20250330114000 +0000" channel="CHSTV">
-        <title>Adesh Koren Allah</title>
-    </programme>
-    <programme start="20250330114000 +0000" stop="20250330115000 +0000" channel="CHSTV">
-        <title>Aloy Bhora Ramadan</title>
-    </programme>
-    <programme start="20250330115000 +0000" stop="20250330120000 +0000" channel="CHSTV">
-        <title>The Light Of Islam</title>
+    <programme start="20250330113000 +0000" stop="20250330120000 +0000" channel="CHSTV">
+        <title>Elo Khushir Eid</title>
     </programme>
     <programme start="20250330120000 +0000" stop="20250330121000 +0000" channel="CHSTV">
-        <title>RFC Legacy</title>
+        <title>Puthi Path</title>
     </programme>
-    <programme start="20250330121000 +0000" stop="20250330121500 +0000" channel="CHSTV">
+    <programme start="20250330121000 +0000" stop="20250330121600 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250330121500 +0000" stop="20250330130000 +0000" channel="CHSTV">
-        <title>RFC Legacy</title>
+    <programme start="20250330121600 +0000" stop="20250330130000 +0000" channel="CHSTV">
+        <title>Puthi Path</title>
     </programme>
-    <programme start="20250330130000 +0000" stop="20250330133000 +0000" channel="CHSTV">
-        <title>Pearls Of Wisdom</title>
+    <programme start="20250330130000 +0000" stop="20250330140000 +0000" channel="CHSTV">
+        <title>Amader Eid</title>
     </programme>
-    <programme start="20250330133000 +0000" stop="20250330140000 +0000" channel="CHSTV">
-        <title>Islamic Gaan</title>
+    <programme start="20250330140000 +0000" stop="20250330143000 +0000" channel="CHSTV">
+        <title>Eid Anondoloke</title>
     </programme>
-    <programme start="20250330140000 +0000" stop="20250330153000 +0000" channel="CHSTV">
-        <title>Ramadan Essentials</title>
+    <programme start="20250330143000 +0000" stop="20250330150000 +0000" channel="CHSTV">
+        <title>Eid Anondoloke</title>
+    </programme>
+    <programme start="20250330150000 +0000" stop="20250330153000 +0000" channel="CHSTV">
+        <title>Limited Edition</title>
     </programme>
     <programme start="20250330153000 +0000" stop="20250330160000 +0000" channel="CHSTV">
-        <title>Sylheter Khobor</title>
+        <title>Dhitang Dhitang Bol</title>
     </programme>
-    <programme start="20250330160000 +0000" stop="20250330162900 +0000" channel="CHSTV">
-        <title>RFC Charity Appeal</title>
+    <programme start="20250330160000 +0000" stop="20250330163100 +0000" channel="CHSTV">
+        <title>Amar Balcony</title>
     </programme>
-    <programme start="20250330162900 +0000" stop="20250330163500 +0000" channel="CHSTV">
+    <programme start="20250330163100 +0000" stop="20250330163700 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250330163500 +0000" stop="20250330183400 +0000" channel="CHSTV">
-        <title>RFC Charity Appeal</title>
+    <programme start="20250330163700 +0000" stop="20250330170000 +0000" channel="CHSTV">
+        <title>Amar Balcony</title>
     </programme>
-    <programme start="20250330183400 +0000" stop="20250330184000 +0000" channel="CHSTV">
+    <programme start="20250330170000 +0000" stop="20250330180000 +0000" channel="CHSTV">
+        <title>Eid Bazar</title>
+    </programme>
+    <programme start="20250330180000 +0000" stop="20250330183400 +0000" channel="CHSTV">
+        <title>Sylheter Khobor</title>
+    </programme>
+    <programme start="20250330183400 +0000" stop="20250330184200 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250330184000 +0000" stop="20250330195100 +0000" channel="CHSTV">
-        <title>RFC Charity Appeal</title>
+    <programme start="20250330184200 +0000" stop="20250330190000 +0000" channel="CHSTV">
+        <title>OnThe Ohter Side</title>
     </programme>
-    <programme start="20250330195100 +0000" stop="20250330195600 +0000" channel="CHSTV">
+    <programme start="20250330190000 +0000" stop="20250330195300 +0000" channel="CHSTV">
+        <title>Eid Anondo</title>
+    </programme>
+    <programme start="20250330195300 +0000" stop="20250330200000 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250330195600 +0000" stop="20250330210000 +0000" channel="CHSTV">
-        <title>RFC Charity Appeal</title>
+    <programme start="20250330200000 +0000" stop="20250330210000 +0000" channel="CHSTV">
+        <title>Eid Anondo</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250330213000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250330213000 +0000" stop="20250330220000 +0000" channel="CHSTV">
-        <title>RFC Charity Appeal</title>
+        <title>Betikrom</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330230000 +0000" channel="CHSTV">
-        <title>One Ummah One Dua</title>
+        <title>Celebrity Adda</title>
     </programme>
     <programme start="20250329195400 +0000" stop="20250330010000 +0000" channel="IQRA Bangla">
         <title>Live Ramadan Appeal</title>
