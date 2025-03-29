@@ -2985,10 +2985,10 @@
     <programme start="20250329141500 +0000" stop="20250329144500 +0000" channel="S4C">
         <title>Gwladfa: Gwilym Bowen Rhys</title>
     </programme>
-    <programme start="20250329144500 +0000" stop="20250329170000 +0000" channel="S4C">
+    <programme start="20250329144500 +0000" stop="20250329170500 +0000" channel="S4C">
         <title>Clwb Rygbi: Scarlets v Gweilch</title>
     </programme>
-    <programme start="20250329170000 +0000" stop="20250329173000 +0000" channel="S4C">
+    <programme start="20250329170500 +0000" stop="20250329173000 +0000" channel="S4C">
         <title>Ralio: Saffari Kenya</title>
     </programme>
     <programme start="20250329173000 +0000" stop="20250329190000 +0000" channel="S4C">
@@ -16531,7 +16531,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250329000000 +0000" stop="20250329003000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION E-Club</title>
     </programme>
     <programme start="20250329003000 +0000" stop="20250329010000 +0000" channel="WION HD">
         <title>WION Pulse</title>
@@ -32064,10 +32064,10 @@
     <programme start="20250329141500 +0000" stop="20250329144500 +0000" channel="S4C HD">
         <title>Gwladfa: Gwilym Bowen Rhys</title>
     </programme>
-    <programme start="20250329144500 +0000" stop="20250329170000 +0000" channel="S4C HD">
+    <programme start="20250329144500 +0000" stop="20250329170500 +0000" channel="S4C HD">
         <title>Clwb Rygbi: Scarlets v Gweilch</title>
     </programme>
-    <programme start="20250329170000 +0000" stop="20250329173000 +0000" channel="S4C HD">
+    <programme start="20250329170500 +0000" stop="20250329173000 +0000" channel="S4C HD">
         <title>Ralio: Saffari Kenya</title>
     </programme>
     <programme start="20250329173000 +0000" stop="20250329190000 +0000" channel="S4C HD">
@@ -35538,11 +35538,8 @@
     <programme start="20250329115000 +0000" stop="20250329125500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250329125500 +0000" stop="20250329142500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250329125500 +0000" stop="20250329144500 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
-    </programme>
-    <programme start="20250329142500 +0000" stop="20250329144500 +0000" channel="BBC RB 1 HD">
-        <title>What's Your Thing?</title>
     </programme>
     <programme start="20250329144500 +0000" stop="20250329170000 +0000" channel="BBC RB 1 HD">
         <title>5 Live Final Score</title>
