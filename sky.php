@@ -26698,7 +26698,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250329140500 +0000" stop="20250329150000 +0000" channel="GEO News">
-        <title>Report Card</title>
+        <title>Geo World News</title>
     </programme>
     <programme start="20250329150000 +0000" stop="20250329150500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
