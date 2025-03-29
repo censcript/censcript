@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250329170500 +0000" stop="20250329202500 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Brighton v Nottingham Forest</title>
-    </programme>
     <programme start="20250329233000 +0000" stop="20250330020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Kansas City Current v Utah Royals FC</title>
     </programme>
