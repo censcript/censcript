@@ -25297,12 +25297,18 @@
         <title>Roundup</title>
     </programme>
     <programme start="20250330093000 +0000" stop="20250330095000 +0000" channel="MTA1 World HD">
+        <title>Salatul Kusuf Sermon</title>
+    </programme>
+    <programme start="20250330095000 +0000" stop="20250330100000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250330100000 +0000" stop="20250330102000 +0000" channel="MTA1 World HD">
         <title>Aal-e-Rasool</title>
     </programme>
-    <programme start="20250330095000 +0000" stop="20250330102500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250330102000 +0000" stop="20250330103000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
-    <programme start="20250330102500 +0000" stop="20250330110000 +0000" channel="MTA1 World HD">
+    <programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="MTA1 World HD">
         <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250330110000 +0000" stop="20250330115500 +0000" channel="MTA1 World HD">
@@ -25327,13 +25333,13 @@
         <title>The Final Word</title>
     </programme>
     <programme start="20250330151500 +0000" stop="20250330160500 +0000" channel="MTA1 World HD">
-        <title>Qur'an Tips</title>
+        <title>Holy Qur'an Tips</title>
     </programme>
     <programme start="20250330160500 +0000" stop="20250330163500 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
     <programme start="20250330163500 +0000" stop="20250330170000 +0000" channel="MTA1 World HD">
-        <title>Chef's Corner</title>
+        <title>Salatul Kusuf Sermon</title>
     </programme>
     <programme start="20250330170000 +0000" stop="20250330173000 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
@@ -25347,20 +25353,20 @@
     <programme start="20250330184000 +0000" stop="20250330190000 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250330190000 +0000" stop="20250330195500 +0000" channel="MTA1 World HD">
+    <programme start="20250330190000 +0000" stop="20250330200000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250330195500 +0000" stop="20250330200500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250330200500 +0000" stop="20250330204000 +0000" channel="MTA1 World HD">
+    <programme start="20250330200000 +0000" stop="20250330203500 +0000" channel="MTA1 World HD">
         <title>Beyond Allegations</title>
     </programme>
-    <programme start="20250330204000 +0000" stop="20250330210000 +0000" channel="MTA1 World HD">
-        <title>Chef's Corner</title>
+    <programme start="20250330203500 +0000" stop="20250330205000 +0000" channel="MTA1 World HD">
+        <title>Salatul Kusuf Sermon</title>
+    </programme>
+    <programme start="20250330205000 +0000" stop="20250330210000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250330215000 +0000" channel="MTA1 World HD">
-        <title>Qur'an Tips</title>
+        <title>Holy Qur'an Tips</title>
     </programme>
     <programme start="20250330215000 +0000" stop="20250330222000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
@@ -26278,55 +26284,55 @@
         <title>Zuhr Azan</title>
     </programme>
     <programme start="20250330121400 +0000" stop="20250330130000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330130000 +0000" stop="20250330140000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330140000 +0000" stop="20250330150000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330160000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330162900 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Kidz World</title>
     </programme>
     <programme start="20250330162900 +0000" stop="20250330163400 +0000" channel="Islam TV">
         <title>Asr Azan</title>
     </programme>
     <programme start="20250330163400 +0000" stop="20250330170000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Kidz World</title>
     </programme>
     <programme start="20250330170000 +0000" stop="20250330180000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330180000 +0000" stop="20250330183600 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330183600 +0000" stop="20250330184100 +0000" channel="Islam TV">
         <title>Maghrib Azan</title>
     </programme>
     <programme start="20250330184100 +0000" stop="20250330190000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330190000 +0000" stop="20250330200000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330200000 +0000" stop="20250330200700 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330200700 +0000" stop="20250330201200 +0000" channel="Islam TV">
         <title>Isha Azan</title>
     </programme>
     <programme start="20250330201200 +0000" stop="20250330210000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250330220000 +0000" channel="Islam TV">
-        <title>Al-khair Ramadan Appeal</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330224000 +0000" channel="Islam TV">
-        <title>Al-Khair Reports</title>
+        <title>Khatam Ul Quran</title>
     </programme>
     <programme start="20250330224000 +0000" stop="20250330234000 +0000" channel="Islam TV">
         <title>Surah-Ya-Sin</title>
