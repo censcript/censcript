@@ -14556,11 +14556,8 @@
     <programme start="20250329123000 +0000" stop="20250329130000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250329130000 +0000" stop="20250329133000 +0000" channel="BBC NEWS HD">
+    <programme start="20250329130000 +0000" stop="20250329140000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250329133000 +0000" stop="20250329140000 +0000" channel="BBC NEWS HD">
-        <title>Troublemakers: Drugged, Framed and Detained</title>
     </programme>
     <programme start="20250329140000 +0000" stop="20250329143000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -14577,11 +14574,8 @@
     <programme start="20250329154500 +0000" stop="20250329160000 +0000" channel="BBC NEWS HD">
         <title>Newswatch</title>
     </programme>
-    <programme start="20250329160000 +0000" stop="20250329163000 +0000" channel="BBC NEWS HD">
+    <programme start="20250329160000 +0000" stop="20250329170000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250329163000 +0000" stop="20250329170000 +0000" channel="BBC NEWS HD">
-        <title>The Balkans: Europe's Forgotten Frontier</title>
     </programme>
     <programme start="20250329170000 +0000" stop="20250329180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -35538,11 +35532,14 @@
     <programme start="20250329060000 +0000" stop="20250329095500 +0000" channel="BBC RB 1 HD">
         <title>What's Your Thing?</title>
     </programme>
-    <programme start="20250329095500 +0000" stop="20250329105500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250329095500 +0000" stop="20250329110500 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
     </programme>
-    <programme start="20250329105500 +0000" stop="20250329125500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250329110500 +0000" stop="20250329115000 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
+    </programme>
+    <programme start="20250329115000 +0000" stop="20250329125500 +0000" channel="BBC RB 1 HD">
+        <title>What's Your Thing?</title>
     </programme>
     <programme start="20250329125500 +0000" stop="20250329142500 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
