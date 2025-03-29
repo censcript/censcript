@@ -23275,7 +23275,7 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250329170000 +0000" stop="20250329180000 +0000" channel="QVC HD">
-        <title>Hair by Philip Kingsley</title>
+        <title>Beauty Refresh</title>
     </programme>
     <programme start="20250329180000 +0000" stop="20250329190000 +0000" channel="QVC HD">
         <title>One Time Only Offers</title>
