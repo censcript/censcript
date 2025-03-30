@@ -13896,11 +13896,8 @@
     <programme start="20250330093000 +0000" stop="20250330100000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250330100000 +0000" stop="20250330103000 +0000" channel="BBC NEWS HD">
+    <programme start="20250330100000 +0000" stop="20250330110000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="BBC NEWS HD">
-        <title>The President's Path</title>
     </programme>
     <programme start="20250330110000 +0000" stop="20250330113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -13926,11 +13923,8 @@
     <programme start="20250330143000 +0000" stop="20250330150000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250330150000 +0000" stop="20250330153000 +0000" channel="BBC NEWS HD">
+    <programme start="20250330150000 +0000" stop="20250330160000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250330153000 +0000" stop="20250330160000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330170000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -34035,10 +34029,10 @@
     <programme start="20250330050000 +0000" stop="20250330085500 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
-    <programme start="20250330085500 +0000" stop="20250330100000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250330085500 +0000" stop="20250330095500 +0000" channel="BBC RB 1 HD">
         <title>Snowboard, Freestyle and...</title>
     </programme>
-    <programme start="20250330100000 +0000" stop="20250330105000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250330095500 +0000" stop="20250330105000 +0000" channel="BBC RB 1 HD">
         <title>Winterwatch: Winter Magic</title>
     </programme>
     <programme start="20250330105000 +0000" stop="20250330131500 +0000" channel="BBC RB 1 HD">
