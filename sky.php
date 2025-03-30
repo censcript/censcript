@@ -11763,9 +11763,6 @@
     <programme start="20250330221500 +0000" stop="20250330231500 +0000" channel="NOW 90s &amp; 00s">
         <title>The Feelgood Weekender!</title>
     </programme>
-    <programme start="20250329150000 +0000" stop="20250330000000 +0000" channel="NOW ROCK">
-        <title>99 Reasons The 90s Rocked!</title>
-    </programme>
     <programme start="20250330000000 +0000" stop="20250330040000 +0000" channel="NOW ROCK">
         <title>Party Rock Anthems!</title>
     </programme>
@@ -12546,37 +12543,34 @@
     <programme start="20250330142000 +0000" stop="20250330151500 +0000" channel="SkySp F1 HD">
         <title>Live Ferrari Challenge: Monza</title>
     </programme>
-    <programme start="20250330151500 +0000" stop="20250330152000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330151500 +0000" stop="20250330152500 +0000" channel="SkySp F1 HD">
         <title>F1 Explained - Banking</title>
     </programme>
-    <programme start="20250330152000 +0000" stop="20250330153000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330152500 +0000" stop="20250330153500 +0000" channel="SkySp F1 HD">
         <title>Naomi &amp; Oscar Piastri</title>
     </programme>
-    <programme start="20250330153000 +0000" stop="20250330163000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330153500 +0000" stop="20250330164000 +0000" channel="SkySp F1 HD">
         <title>Ferrari Challenge: Monza</title>
     </programme>
-    <programme start="20250330163000 +0000" stop="20250330173000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330164000 +0000" stop="20250330175000 +0000" channel="SkySp F1 HD">
         <title>Ferrari Challenge: Monza</title>
     </programme>
-    <programme start="20250330173000 +0000" stop="20250330183000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330175000 +0000" stop="20250330185500 +0000" channel="SkySp F1 HD">
         <title>Ferrari Challenge: Monza</title>
     </programme>
-    <programme start="20250330183000 +0000" stop="20250330204500 +0000" channel="SkySp F1 HD">
+    <programme start="20250330185500 +0000" stop="20250330211000 +0000" channel="SkySp F1 HD">
         <title>Chinese F1 Grand Prix</title>
     </programme>
-    <programme start="20250330204500 +0000" stop="20250330211500 +0000" channel="SkySp F1 HD">
+    <programme start="20250330211000 +0000" stop="20250330214000 +0000" channel="SkySp F1 HD">
         <title>Ted's Notebook: China</title>
     </programme>
-    <programme start="20250330211500 +0000" stop="20250330212500 +0000" channel="SkySp F1 HD">
+    <programme start="20250330214000 +0000" stop="20250330215000 +0000" channel="SkySp F1 HD">
         <title>Rookies Play Bowls</title>
     </programme>
-    <programme start="20250330212500 +0000" stop="20250330213000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330215000 +0000" stop="20250330215500 +0000" channel="SkySp F1 HD">
         <title>F1 Explained - Banking</title>
     </programme>
-    <programme start="20250330213000 +0000" stop="20250330223000 +0000" channel="SkySp F1 HD">
-        <title>Ferrari Challenge: Monza</title>
-    </programme>
-    <programme start="20250330223000 +0000" stop="20250330233000 +0000" channel="SkySp F1 HD">
+    <programme start="20250330215500 +0000" stop="20250330225500 +0000" channel="SkySp F1 HD">
         <title>Ferrari Challenge: Monza</title>
     </programme>
     <programme start="20250329220000 +0000" stop="20250329230000 +0000" channel="SkySp Tennis HD">

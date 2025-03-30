@@ -979,10 +979,10 @@
         <title>No programme available now. Next broadcast on 31st March, Monday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250329160000 +0000" stop="20250330160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250331160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250329160000 +0000" stop="20250330052000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 30th March, Sunday 1.20pm. FIBA 3x3 Asia Cup 2025</title>
@@ -997,10 +997,10 @@
         <title>FIBA 3x3 Asia Cup 2025</title>
     </programme>
     <programme start="20250330135000 +0000" stop="20250330160000 +0000" channel="Live 5.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250331160000 +0000" channel="Live 5.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
     </programme>
     <programme start="20250329160000 +0000" stop="20250330160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women&#039;s Race</title>
