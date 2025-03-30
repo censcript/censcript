@@ -26082,11 +26082,8 @@
     <programme start="20250330045100 +0000" stop="20250330050400 +0000" channel="IQRA TV">
         <title>Al-Khair Reports</title>
     </programme>
-    <programme start="20250330050400 +0000" stop="20250330050600 +0000" channel="IQRA TV">
+    <programme start="20250330050400 +0000" stop="20250330060000 +0000" channel="IQRA TV">
         <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250330050600 +0000" stop="20250330060000 +0000" channel="IQRA TV">
-        <title>Dua and Recitation</title>
     </programme>
     <programme start="20250330060000 +0000" stop="20250330065500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
