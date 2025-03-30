@@ -26140,13 +26140,13 @@
         <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250330150000 +0000" stop="20250330150500 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330150500 +0000" stop="20250330160000 +0000" channel="IQRA TV">
         <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330160500 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330160500 +0000" stop="20250330162900 +0000" channel="IQRA TV">
         <title>LIVE Ramadan Appeal</title>

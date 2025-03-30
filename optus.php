@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330122000 +0000" stop="20250330154000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Preston North End v Aston Villa</title>
-    </programme>
-    <programme start="20250330125000 +0000" stop="20250330151000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Leicester v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 12.optus">
-        <title>Women&#039;s Super League - Liverpool v Aston Villa</title>
-    </programme>
-    <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 9.optus">
-        <title>Women&#039;s Super League - Crystal Palace v Arsenal</title>
-    </programme>
-    <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 10.optus">
-        <title>Women&#039;s Super League - Brighton and Hove Albion v Manchester City</title>
-    </programme>
-    <programme start="20250330142800 +0000" stop="20250330150000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - FA Cup Semi-final Draw</title>
-    </programme>
     <programme start="20250330152000 +0000" stop="20250330174000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v West Ham United</title>
     </programme>
