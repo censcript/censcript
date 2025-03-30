@@ -96,7 +96,10 @@
     <programme start="20250405045000 +0000" stop="20250405071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Seoul</title>
     </programme>
-    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250405045500 +0000" stop="20250405071000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Yokohama FM v Tokyo Verdy</title>
+    </programme>
+    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Daejeon v Jeonbuk</title>
     </programme>
     <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1.optus">
@@ -116,6 +119,15 @@
     </programme>
     <programme start="20250405162000 +0000" stop="20250405190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Nottingham Forest</title>
+    </programme>
+    <programme start="20250406045500 +0000" stop="20250406071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Kawasaki</title>
+    </programme>
+    <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Sanfrecce v Cerezo</title>
+    </programme>
+    <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Kashiwa v Gamba</title>
     </programme>
     <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Anyang v Gangwon</title>

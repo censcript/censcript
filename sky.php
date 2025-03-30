@@ -27610,18 +27610,18 @@
         <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330221200 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330221200 +0000" stop="20250330230000 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330230000 +0000" stop="20250330230500 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
+        <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250330230500 +0000" stop="20250331000000 +0000" channel="IQRA TV">
-        <title>Live Transmission from Makkah</title>
+    <programme start="20250330230500 +0000" stop="20250330234500 +0000" channel="IQRA TV">
+        <title>Ramadan Appeal</title>
     </programme>
-    <programme start="20250331000000 +0000" stop="20250331010000 +0000" channel="IQRA TV">
+    <programme start="20250330234500 +0000" stop="20250331010000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250331010000 +0000" stop="20250331020000 +0000" channel="IQRA TV">
