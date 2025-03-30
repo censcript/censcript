@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
+    <programme start="20250330200000 +0000" stop="20250331000000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Chicago Stars v Racing Louisville FC</title>
     </programme>
     <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
@@ -43,7 +43,7 @@
         <title>N/A - The Catch-Up Show</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories</title>
+        <title>N/A - PL Stories: Arjan de Zeeuw</title>
     </programme>
     <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v RB Leipzig</title>
@@ -60,14 +60,14 @@
     <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Brighton v Aston Villa</title>
     </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 8.optus">
         <title>Premier League - Bournemouth v Ipswich</title>
     </programme>
-    <programme start="20250402185000 +0000" stop="20250402211000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250402185000 +0000" stop="20250402211000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Liverpool v Everton</title>
     </programme>
     <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Andoni Iraola</title>
     </programme>
     <programme start="20250403180000 +0000" stop="20250403220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Thursday Morning</title>
@@ -114,7 +114,7 @@
     <programme start="20250405135000 +0000" stop="20250405162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250405152000 +0000" stop="20250405190000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250405162000 +0000" stop="20250405190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Nottingham Forest</title>
     </programme>
     <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10.optus">
@@ -122,6 +122,9 @@
     </programme>
     <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gwangju v Jeju</title>
+    </programme>
+    <programme start="20250406120000 +0000" stop="20250406152000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Tottenham Hotspur v Southampton</title>
