@@ -26814,47 +26814,44 @@
     <programme start="20250330051400 +0000" stop="20250330060000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250330060000 +0000" stop="20250330070000 +0000" channel="Eman Channel">
-        <title>Makkah Live</title>
-    </programme>
-    <programme start="20250330070000 +0000" stop="20250330071500 +0000" channel="Eman Channel">
+    <programme start="20250330060000 +0000" stop="20250330061500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250330071500 +0000" stop="20250330080000 +0000" channel="Eman Channel">
+    <programme start="20250330061500 +0000" stop="20250330070000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250330080000 +0000" stop="20250330083000 +0000" channel="Eman Channel">
+    <programme start="20250330070000 +0000" stop="20250330073000 +0000" channel="Eman Channel">
         <title>Snack Attack</title>
     </programme>
-    <programme start="20250330083000 +0000" stop="20250330084500 +0000" channel="Eman Channel">
+    <programme start="20250330073000 +0000" stop="20250330074500 +0000" channel="Eman Channel">
         <title>Kids Morning Remembrance</title>
     </programme>
-    <programme start="20250330084500 +0000" stop="20250330090000 +0000" channel="Eman Channel">
+    <programme start="20250330074500 +0000" stop="20250330080000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
     </programme>
-    <programme start="20250330090000 +0000" stop="20250330103000 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
+    <programme start="20250330080000 +0000" stop="20250330093000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
-    <programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="Eman Channel">
+    <programme start="20250330093000 +0000" stop="20250330100000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250330110000 +0000" stop="20250330111500 +0000" channel="Eman Channel">
+    <programme start="20250330100000 +0000" stop="20250330101500 +0000" channel="Eman Channel">
         <title>Linguistic Miracles</title>
     </programme>
-    <programme start="20250330111500 +0000" stop="20250330113000 +0000" channel="Eman Channel">
+    <programme start="20250330101500 +0000" stop="20250330103000 +0000" channel="Eman Channel">
         <title>Contentment From Revelation</title>
     </programme>
-    <programme start="20250330113000 +0000" stop="20250330120000 +0000" channel="Eman Channel">
+    <programme start="20250330103000 +0000" stop="20250330110000 +0000" channel="Eman Channel">
         <title>The Art of Dua</title>
     </programme>
-    <programme start="20250330120000 +0000" stop="20250330121000 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
+    <programme start="20250330110000 +0000" stop="20250330121000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250330121000 +0000" stop="20250330121500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
     <programme start="20250330121500 +0000" stop="20250330124500 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
+        <title>Makkah Live</title>
     </programme>
     <programme start="20250330124500 +0000" stop="20250330130000 +0000" channel="Eman Channel">
         <title>The Azharis</title>
