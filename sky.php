@@ -28380,22 +28380,16 @@
     <programme start="20250330234200 +0000" stop="20250331000000 +0000" channel="Eman Channel">
         <title>Keys To Happiness</title>
     </programme>
-    <programme start="20250331000000 +0000" stop="20250331003000 +0000" channel="Eman Channel">
-        <title>This is EMAN</title>
-    </programme>
-    <programme start="20250331003000 +0000" stop="20250331010000 +0000" channel="Eman Channel">
-        <title>This is EMAN</title>
-    </programme>
-    <programme start="20250331010000 +0000" stop="20250331013000 +0000" channel="Eman Channel">
-        <title>This is EMAN</title>
-    </programme>
-    <programme start="20250331013000 +0000" stop="20250331020000 +0000" channel="Eman Channel">
-        <title>This is EMAN</title>
-    </programme>
-    <programme start="20250331020000 +0000" stop="20250331021500 +0000" channel="Eman Channel">
+    <programme start="20250331000000 +0000" stop="20250331001500 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
-    <programme start="20250331021500 +0000" stop="20250331033900 +0000" channel="Eman Channel">
+    <programme start="20250331001500 +0000" stop="20250331015800 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
+    </programme>
+    <programme start="20250331015800 +0000" stop="20250331025500 +0000" channel="Eman Channel">
+        <title>Live Fajr from Makkah</title>
+    </programme>
+    <programme start="20250331025500 +0000" stop="20250331033900 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250331033900 +0000" stop="20250331034300 +0000" channel="Eman Channel">
@@ -28414,97 +28408,136 @@
         <title>Makkah Live</title>
     </programme>
     <programme start="20250331070000 +0000" stop="20250331071500 +0000" channel="Eman Channel">
+        <title>Kids Morning Remembrance</title>
+    </programme>
+    <programme start="20250331071500 +0000" stop="20250331073000 +0000" channel="Eman Channel">
+        <title>Kids Mix</title>
+    </programme>
+    <programme start="20250331073000 +0000" stop="20250331074500 +0000" channel="Eman Channel">
+        <title>Lantern Tales</title>
+    </programme>
+    <programme start="20250331074500 +0000" stop="20250331080000 +0000" channel="Eman Channel">
+        <title>Blessed Home</title>
+    </programme>
+    <programme start="20250331080000 +0000" stop="20250331081500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250331071500 +0000" stop="20250331080000 +0000" channel="Eman Channel">
-        <title>Quran Circle</title>
+    <programme start="20250331081500 +0000" stop="20250331091500 +0000" channel="Eman Channel">
+        <title>Madrasah TV</title>
     </programme>
-    <programme start="20250331080000 +0000" stop="20250331084500 +0000" channel="Eman Channel">
-        <title>The Blessed Chapters</title>
+    <programme start="20250331091500 +0000" stop="20250331093000 +0000" channel="Eman Channel">
+        <title>Qur'an Time</title>
     </programme>
-    <programme start="20250331084500 +0000" stop="20250331090000 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
+    <programme start="20250331093000 +0000" stop="20250331094500 +0000" channel="Eman Channel">
+        <title>Couch Potatoes</title>
     </programme>
-    <programme start="20250331090000 +0000" stop="20250331103000 +0000" channel="Eman Channel">
-        <title>Medinah Taraweeh Repeat</title>
+    <programme start="20250331094500 +0000" stop="20250331100000 +0000" channel="Eman Channel">
+        <title>Family Circle</title>
+    </programme>
+    <programme start="20250331100000 +0000" stop="20250331101500 +0000" channel="Eman Channel">
+        <title>Healthy Bites</title>
+    </programme>
+    <programme start="20250331101500 +0000" stop="20250331103000 +0000" channel="Eman Channel">
+        <title>Chapter by Chapter</title>
     </programme>
     <programme start="20250331103000 +0000" stop="20250331110000 +0000" channel="Eman Channel">
-        <title>Repeat: EKTV</title>
+        <title>Life of Aisha RA</title>
     </programme>
-    <programme start="20250331110000 +0000" stop="20250331111500 +0000" channel="Eman Channel">
-        <title>The Believer's Shield</title>
+    <programme start="20250331110000 +0000" stop="20250331120000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
-    <programme start="20250331111500 +0000" stop="20250331113000 +0000" channel="Eman Channel">
-        <title>Ramadan Ke Ahkam</title>
+    <programme start="20250331120000 +0000" stop="20250331121000 +0000" channel="Eman Channel">
+        <title>Repeat: Alif Laam Meem</title>
     </programme>
-    <programme start="20250331113000 +0000" stop="20250331120000 +0000" channel="Eman Channel">
-        <title>The Art of Dua</title>
-    </programme>
-    <programme start="20250331120000 +0000" stop="20250331121600 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
-    </programme>
-    <programme start="20250331121600 +0000" stop="20250331122400 +0000" channel="Eman Channel">
+    <programme start="20250331121000 +0000" stop="20250331121500 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250331122400 +0000" stop="20250331133000 +0000" channel="Eman Channel">
-        <title>Repeat Taraweeh</title>
+    <programme start="20250331121500 +0000" stop="20250331130000 +0000" channel="Eman Channel">
+        <title>Repeat: Alif Laam Meem</title>
     </programme>
-    <programme start="20250331133000 +0000" stop="20250331134500 +0000" channel="Eman Channel">
-        <title>Dealing With Difficulty</title>
-    </programme>
-    <programme start="20250331134500 +0000" stop="20250331140000 +0000" channel="Eman Channel">
-        <title>The Azharis</title>
-    </programme>
-    <programme start="20250331140000 +0000" stop="20250331141500 +0000" channel="Eman Channel">
-        <title>Meeting Muhammad</title>
-    </programme>
-    <programme start="20250331141500 +0000" stop="20250331143000 +0000" channel="Eman Channel">
-        <title>Raised Hands</title>
-    </programme>
-    <programme start="20250331143000 +0000" stop="20250331144500 +0000" channel="Eman Channel">
-        <title>Reflection From The Revelation</title>
-    </programme>
-    <programme start="20250331144500 +0000" stop="20250331151600 +0000" channel="Eman Channel">
-        <title>Light Upon Light Winter 2024</title>
-    </programme>
-    <programme start="20250331151600 +0000" stop="20250331152200 +0000" channel="Eman Channel">
-        <title>Asr Adhan</title>
-    </programme>
-    <programme start="20250331152200 +0000" stop="20250331155200 +0000" channel="Eman Channel">
-        <title>Live Maghrib Prayer from Makkah</title>
-    </programme>
-    <programme start="20250331155200 +0000" stop="20250331160000 +0000" channel="Eman Channel">
-        <title>Kids Evening Remembrance</title>
-    </programme>
-    <programme start="20250331160000 +0000" stop="20250331163000 +0000" channel="Eman Channel">
-        <title>Raising Believers</title>
-    </programme>
-    <programme start="20250331163000 +0000" stop="20250331170000 +0000" channel="Eman Channel">
-        <title>A Sisters Ramadan</title>
-    </programme>
-    <programme start="20250331170000 +0000" stop="20250331171500 +0000" channel="Eman Channel">
-        <title>Evening Remembrance</title>
-    </programme>
-    <programme start="20250331171500 +0000" stop="20250331173000 +0000" channel="Eman Channel">
+    <programme start="20250331130000 +0000" stop="20250331131500 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
-    <programme start="20250331173000 +0000" stop="20250331180000 +0000" channel="Eman Channel">
-        <title>Night Of Giving</title>
+    <programme start="20250331131500 +0000" stop="20250331133000 +0000" channel="Eman Channel">
+        <title>Seerah Moments</title>
     </programme>
-    <programme start="20250331180000 +0000" stop="20250331181000 +0000" channel="Eman Channel">
+    <programme start="20250331133000 +0000" stop="20250331140000 +0000" channel="Eman Channel">
+        <title>Let's Eat Street</title>
+    </programme>
+    <programme start="20250331140000 +0000" stop="20250331141500 +0000" channel="Eman Channel">
+        <title>Oriental Scholars</title>
+    </programme>
+    <programme start="20250331141500 +0000" stop="20250331144500 +0000" channel="Eman Channel">
+        <title>Repeat: EKTV</title>
+    </programme>
+    <programme start="20250331144500 +0000" stop="20250331150000 +0000" channel="Eman Channel">
+        <title>Qur'an Time</title>
+    </programme>
+    <programme start="20250331150000 +0000" stop="20250331153700 +0000" channel="Eman Channel">
+        <title>Live: Madrasah TV</title>
+    </programme>
+    <programme start="20250331153700 +0000" stop="20250331154300 +0000" channel="Eman Channel">
+        <title>Asr Adhan</title>
+    </programme>
+    <programme start="20250331154300 +0000" stop="20250331160000 +0000" channel="Eman Channel">
+        <title>Live: Madrasah TV</title>
+    </programme>
+    <programme start="20250331160000 +0000" stop="20250331163000 +0000" channel="Eman Channel">
+        <title>Team Noon</title>
+    </programme>
+    <programme start="20250331163000 +0000" stop="20250331170000 +0000" channel="Eman Channel">
+        <title>Every Word Counts</title>
+    </programme>
+    <programme start="20250331170000 +0000" stop="20250331180000 +0000" channel="Eman Channel">
+        <title>Eman Eid Party</title>
+    </programme>
+    <programme start="20250331180000 +0000" stop="20250331181500 +0000" channel="Eman Channel">
+        <title>A Light Along The Path</title>
+    </programme>
+    <programme start="20250331181500 +0000" stop="20250331183600 +0000" channel="Eman Channel">
+        <title>Dweller of the Well</title>
+    </programme>
+    <programme start="20250331183600 +0000" stop="20250331184400 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250331181000 +0000" stop="20250331183000 +0000" channel="Eman Channel">
+    <programme start="20250331184400 +0000" stop="20250331190000 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250331183000 +0000" stop="20250331192200 +0000" channel="Eman Channel">
-        <title>Night Of Giving</title>
+    <programme start="20250331190000 +0000" stop="20250331193000 +0000" channel="Eman Channel">
+        <title>Raising Believers</title>
     </programme>
-    <programme start="20250331192200 +0000" stop="20250331193000 +0000" channel="Eman Channel">
+    <programme start="20250331193000 +0000" stop="20250331195300 +0000" channel="Eman Channel">
+        <title>Let's Eat Street</title>
+    </programme>
+    <programme start="20250331195300 +0000" stop="20250331195700 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250331193000 +0000" stop="20250331203000 +0000" channel="Eman Channel">
-        <title>Night Of Giving</title>
+    <programme start="20250331195700 +0000" stop="20250331200500 +0000" channel="Eman Channel">
+        <title>Let's Eat Street</title>
+    </programme>
+    <programme start="20250331200500 +0000" stop="20250331202000 +0000" channel="Eman Channel">
+        <title>Gems From Surah Yusuf</title>
+    </programme>
+    <programme start="20250331202000 +0000" stop="20250331203000 +0000" channel="Eman Channel">
+        <title>Day of Judgement</title>
+    </programme>
+    <programme start="20250331203000 +0000" stop="20250331204500 +0000" channel="Eman Channel">
+        <title>Reconnecting with Revelation</title>
+    </programme>
+    <programme start="20250331204500 +0000" stop="20250331210000 +0000" channel="Eman Channel">
+        <title>Return to Faith</title>
+    </programme>
+    <programme start="20250331210000 +0000" stop="20250331211500 +0000" channel="Eman Channel">
+        <title>Habits and Addictions</title>
+    </programme>
+    <programme start="20250331211500 +0000" stop="20250331213000 +0000" channel="Eman Channel">
+        <title>Sounds of Faith</title>
+    </programme>
+    <programme start="20250331213000 +0000" stop="20250331220000 +0000" channel="Eman Channel">
+        <title>The Beautiful Manners</title>
+    </programme>
+    <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="Eman Channel">
+        <title>Quran Circle</title>
     </programme>
     <programme start="20250330195700 +0000" stop="20250330223000 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan League</title>
@@ -29565,95 +29598,95 @@
     <programme start="20250331050000 +0000" stop="20250331060000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250331060000 +0000" stop="20250331070000 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250331070000 +0000" stop="20250331073000 +0000" channel="ATN">
+    <programme start="20250331060000 +0000" stop="20250331063000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250331073000 +0000" stop="20250331080000 +0000" channel="ATN">
-        <title>Prophet Story</title>
-    </programme>
-    <programme start="20250331080000 +0000" stop="20250331090000 +0000" channel="ATN">
-        <title>Mubarak Ho Mahe Ramadan</title>
-    </programme>
-    <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="ATN">
-        <title>Porir Moto Bou</title>
-    </programme>
-    <programme start="20250331100000 +0000" stop="20250331103000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250331103000 +0000" stop="20250331110000 +0000" channel="ATN">
-        <title>Your Daily Ramadan Reminder</title>
-    </programme>
-    <programme start="20250331110000 +0000" stop="20250331112000 +0000" channel="ATN">
+    <programme start="20250331063000 +0000" stop="20250331070000 +0000" channel="ATN">
         <title>Islamer Pothe</title>
     </programme>
-    <programme start="20250331112000 +0000" stop="20250331113000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="ATN">
+        <title>Dhakai Taka Ure</title>
     </programme>
-    <programme start="20250331113000 +0000" stop="20250331120000 +0000" channel="ATN">
-        <title>Jhotpot Iftar</title>
+    <programme start="20250331080000 +0000" stop="20250331083000 +0000" channel="ATN">
+        <title>Anondo Hillol</title>
     </programme>
-    <programme start="20250331120000 +0000" stop="20250331123000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
+    <programme start="20250331083000 +0000" stop="20250331090000 +0000" channel="ATN">
+        <title>Eid Anondo Eid Adda</title>
     </programme>
-    <programme start="20250331123000 +0000" stop="20250331130000 +0000" channel="ATN">
-        <title>Hamd O Nath</title>
+    <programme start="20250331090000 +0000" stop="20250331093000 +0000" channel="ATN">
+        <title>ATN News</title>
     </programme>
-    <programme start="20250331130000 +0000" stop="20250331131500 +0000" channel="ATN">
-        <title>Talimul Quran</title>
+    <programme start="20250331093000 +0000" stop="20250331110000 +0000" channel="ATN">
+        <title>Eid Anondo Eid Adda</title>
     </programme>
-    <programme start="20250331131500 +0000" stop="20250331132000 +0000" channel="ATN">
+    <programme start="20250331110000 +0000" stop="20250331121500 +0000" channel="ATN">
+        <title>Shopner Thikana</title>
+    </programme>
+    <programme start="20250331121500 +0000" stop="20250331122000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250331132000 +0000" stop="20250331133000 +0000" channel="ATN">
-        <title>Talimul Quran</title>
+    <programme start="20250331122000 +0000" stop="20250331130000 +0000" channel="ATN">
+        <title>Shopner Thikana</title>
     </programme>
-    <programme start="20250331133000 +0000" stop="20250331135000 +0000" channel="ATN">
-        <title>Prophet Story</title>
-    </programme>
-    <programme start="20250331135000 +0000" stop="20250331140000 +0000" channel="ATN">
-        <title>Islamer Batighor</title>
-    </programme>
-    <programme start="20250331140000 +0000" stop="20250331143000 +0000" channel="ATN">
+    <programme start="20250331130000 +0000" stop="20250331133000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250331143000 +0000" stop="20250331153000 +0000" channel="ATN">
-        <title>Heart To Heart</title>
+    <programme start="20250331133000 +0000" stop="20250331145500 +0000" channel="ATN">
+        <title>Shopner Thikana</title>
     </programme>
-    <programme start="20250331153000 +0000" stop="20250331160000 +0000" channel="ATN">
-        <title>Quran Tilawat</title>
+    <programme start="20250331145500 +0000" stop="20250331150000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250331160000 +0000" stop="20250331161000 +0000" channel="ATN">
+    <programme start="20250331150000 +0000" stop="20250331153000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250331161000 +0000" stop="20250331161500 +0000" channel="ATN">
+    <programme start="20250331153000 +0000" stop="20250331155500 +0000" channel="ATN">
+        <title>Mina Cartoon</title>
+    </programme>
+    <programme start="20250331155500 +0000" stop="20250331160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250331160000 +0000" stop="20250331163500 +0000" channel="ATN">
+        <title>Gane Gane Golpo</title>
+    </programme>
+    <programme start="20250331163500 +0000" stop="20250331164000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250331161500 +0000" stop="20250331164500 +0000" channel="ATN">
+    <programme start="20250331164000 +0000" stop="20250331170000 +0000" channel="ATN">
+        <title>Gane Gane Golpo</title>
+    </programme>
+    <programme start="20250331170000 +0000" stop="20250331180000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250331164500 +0000" stop="20250331170000 +0000" channel="ATN">
-        <title>Your Daily Ramadan Reminder</title>
+    <programme start="20250331180000 +0000" stop="20250331183000 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
     </programme>
-    <programme start="20250331170000 +0000" stop="20250331180900 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250331183000 +0000" stop="20250331183700 +0000" channel="ATN">
+        <title>Jibone o tumi Morone o tumi</title>
     </programme>
-    <programme start="20250331180900 +0000" stop="20250331181200 +0000" channel="ATN">
+    <programme start="20250331183700 +0000" stop="20250331184200 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250331181200 +0000" stop="20250331183000 +0000" channel="ATN">
-        <title>Islamer Pothe</title>
+    <programme start="20250331184200 +0000" stop="20250331193000 +0000" channel="ATN">
+        <title>Jibone o tumi Morone o tumi</title>
     </programme>
-    <programme start="20250331183000 +0000" stop="20250331192500 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250331193000 +0000" stop="20250331195500 +0000" channel="ATN">
+        <title>Zilmil Eid</title>
     </programme>
-    <programme start="20250331192500 +0000" stop="20250331193000 +0000" channel="ATN">
+    <programme start="20250331195500 +0000" stop="20250331200000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250331193000 +0000" stop="20250331203000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250331200000 +0000" stop="20250331203000 +0000" channel="ATN">
+        <title>Zilmil Eid</title>
+    </programme>
+    <programme start="20250331203000 +0000" stop="20250331210000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250331210000 +0000" stop="20250331220000 +0000" channel="ATN">
+        <title>Panch Foron</title>
+    </programme>
+    <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="ATN">
+        <title>Choto Songshar</title>
     </programme>
     <programme start="20250330213000 +0000" stop="20250330220000 +0000" channel="NTV">
         <title>Lal Sabujer Dola</title>
@@ -29965,15 +29998,15 @@
         <title>iON Eid Anondo</title>
     </programme>
     <programme start="20250331170000 +0000" stop="20250331173400 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+        <title>Cine Hour</title>
     </programme>
     <programme start="20250331173400 +0000" stop="20250331175500 +0000" channel="iON TV">
+        <title>Cine Hour</title>
+    </programme>
+    <programme start="20250331175500 +0000" stop="20250331180000 +0000" channel="iON TV">
         <title>iON Eid Anondo</title>
     </programme>
-    <programme start="20250331175500 +0000" stop="20250331182900 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
-    </programme>
-    <programme start="20250331182900 +0000" stop="20250331183600 +0000" channel="iON TV">
+    <programme start="20250331180000 +0000" stop="20250331183600 +0000" channel="iON TV">
         <title>iON Eid Anondo</title>
     </programme>
     <programme start="20250331183600 +0000" stop="20250331184100 +0000" channel="iON TV">
