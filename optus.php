@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330045000 +0000" stop="20250330071000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Suwon FC</title>
-    </programme>
     <programme start="20250330072000 +0000" stop="20250330094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Anyang v Jeonbuk</title>
     </programme>
