@@ -35646,10 +35646,10 @@
     <programme start="20250330050000 +0000" stop="20250330095500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250330095500 +0000" stop="20250330140000 +0000" channel="BBC R5SX">
+    <programme start="20250330095500 +0000" stop="20250330135500 +0000" channel="BBC R5SX">
         <title>IPL Cricket</title>
     </programme>
-    <programme start="20250330140000 +0000" stop="20250330151500 +0000" channel="BBC R5SX">
+    <programme start="20250330135500 +0000" stop="20250330151500 +0000" channel="BBC R5SX">
         <title>IPL Cricket</title>
     </programme>
     <programme start="20250330151500 +0000" stop="20250330173000 +0000" channel="BBC R5SX">
