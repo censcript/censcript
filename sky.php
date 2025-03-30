@@ -1347,13 +1347,13 @@
     <programme start="20250330025000 +0000" stop="20250330043234 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
-    <programme start="20250330043234 +0000" stop="20250330103209 +0000" channel="BBC Four HD">
+    <programme start="20250330043234 +0000" stop="20250330103234 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
-    <programme start="20250330103209 +0000" stop="20250330163209 +0000" channel="BBC Four HD">
+    <programme start="20250330103234 +0000" stop="20250330163234 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
-    <programme start="20250330163209 +0000" stop="20250330175800 +0000" channel="BBC Four HD">
+    <programme start="20250330163234 +0000" stop="20250330175800 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250330175800 +0000" stop="20250330180000 +0000" channel="BBC Four HD">
@@ -26083,13 +26083,10 @@
         <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250330050400 +0000" stop="20250330050600 +0000" channel="IQRA TV">
-        <title>Second Sehr Dua</title>
-    </programme>
-    <programme start="20250330050600 +0000" stop="20250330050900 +0000" channel="IQRA TV">
-        <title>Dua and Recitation</title>
-    </programme>
-    <programme start="20250330050900 +0000" stop="20250330060000 +0000" channel="IQRA TV">
         <title>Ramadan Appeal</title>
+    </programme>
+    <programme start="20250330050600 +0000" stop="20250330060000 +0000" channel="IQRA TV">
+        <title>Dua and Recitation</title>
     </programme>
     <programme start="20250330060000 +0000" stop="20250330065500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
@@ -26110,22 +26107,22 @@
         <title>Shan e Ramazan</title>
     </programme>
     <programme start="20250330090000 +0000" stop="20250330100000 +0000" channel="IQRA TV">
-        <title>Paigham e Ramadan</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330100000 +0000" stop="20250330100500 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330100500 +0000" stop="20250330110000 +0000" channel="IQRA TV">
-        <title>The Zakat Show</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330110000 +0000" stop="20250330110500 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330110500 +0000" stop="20250330120000 +0000" channel="IQRA TV">
-        <title>Khulasa-tul-Qura'an</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330120000 +0000" stop="20250330120500 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330120500 +0000" stop="20250330120900 +0000" channel="IQRA TV">
         <title>Dua and Recitation</title>
@@ -26155,7 +26152,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250330150500 +0000" stop="20250330160000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Ramadan Appeal</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330160500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -26206,10 +26203,10 @@
         <title>LIVE Ramadan Appeal</title>
     </programme>
     <programme start="20250330220000 +0000" stop="20250330221200 +0000" channel="IQRA TV">
-        <title>LIVE Ramadan Appeal</title>
+        <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250330221200 +0000" stop="20250330231200 +0000" channel="IQRA TV">
-        <title>LIVE Ramadan Appeal</title>
+        <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250329220000 +0000" stop="20250329230000 +0000" channel="Islam TV">
         <title>Live Tahajjud from Makkaah</title>
