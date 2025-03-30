@@ -26896,7 +26896,7 @@
         <title>A Life with Allah</title>
     </programme>
     <programme start="20250330181500 +0000" stop="20250330183000 +0000" channel="Eman Channel">
-        <title>Tazkita Through Quran</title>
+        <title>The Other Side</title>
     </programme>
     <programme start="20250330183000 +0000" stop="20250330183400 +0000" channel="Eman Channel">
         <title>Cultivating Character</title>
