@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330105000 +0000" stop="20250330131000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Everton</title>
-    </programme>
     <programme start="20250330122000 +0000" stop="20250330154000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Preston North End v Aston Villa</title>
     </programme>
