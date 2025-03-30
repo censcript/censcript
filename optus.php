@@ -15,7 +15,7 @@
     <programme start="20250330125500 +0000" stop="20250330151000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Manchester City</title>
     </programme>
-    <programme start="20250330143000 +0000" stop="20250330150000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250330142800 +0000" stop="20250330150000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - FA Cup Semi-final Draw</title>
     </programme>
     <programme start="20250330152000 +0000" stop="20250330174000 +0000" channel="Optus Sport 7.optus">
