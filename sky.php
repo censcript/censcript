@@ -27480,20 +27480,20 @@
     <programme start="20250331040000 +0000" stop="20250331050000 +0000" channel="GEO TV">
         <title>Quran Sub Kay Liye</title>
     </programme>
-    <programme start="20250331050000 +0000" stop="20250331060000 +0000" channel="GEO TV">
+    <programme start="20250331050000 +0000" stop="20250331053000 +0000" channel="GEO TV">
+        <title>Mann Marzi</title>
+    </programme>
+    <programme start="20250331053000 +0000" stop="20250331070000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250331060000 +0000" stop="20250331070000 +0000" channel="GEO TV">
-        <title>Eid Namaz</title>
-    </programme>
     <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="GEO TV">
-        <title>Parday Main Rehnay Do</title>
+        <title>Ghabrana Nahi Hai</title>
     </programme>
     <programme start="20250331080000 +0000" stop="20250331090000 +0000" channel="GEO TV">
-        <title>Parday Main Rehnay Do</title>
+        <title>Ghabrana Nahi Hai</title>
     </programme>
     <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="GEO TV">
-        <title>Parday Main Rehnay Do</title>
+        <title>Ghabrana Nahi Hai</title>
     </programme>
     <programme start="20250331100000 +0000" stop="20250331110000 +0000" channel="GEO TV">
         <title>Aas Paas</title>
@@ -27505,13 +27505,13 @@
         <title>Mann Mast Malang</title>
     </programme>
     <programme start="20250331130000 +0000" stop="20250331140000 +0000" channel="GEO TV">
-        <title>Na Maloom Afraad 2</title>
+        <title>Load Wedding</title>
     </programme>
     <programme start="20250331140000 +0000" stop="20250331150000 +0000" channel="GEO TV">
-        <title>Na Maloom Afraad 2</title>
+        <title>Load Wedding</title>
     </programme>
     <programme start="20250331150000 +0000" stop="20250331160000 +0000" channel="GEO TV">
-        <title>Na Maloom Afraad 2</title>
+        <title>Load Wedding</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331163000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
@@ -27535,7 +27535,7 @@
         <title>Hashtag</title>
     </programme>
     <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="GEO TV">
-        <title>Jodi Ban Gayi</title>
+        <title>Pyaar Tou Warh Gaya</title>
     </programme>
     <programme start="20250330200000 +0000" stop="20250330220000 +0000" channel="Noor TV">
         <title>Charity Appeal</title>
@@ -28770,8 +28770,11 @@
     <programme start="20250331083000 +0000" stop="20250331090000 +0000" channel="Sikh Channel">
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
-    <programme start="20250331090000 +0000" stop="20250331103000 +0000" channel="Sikh Channel">
-        <title>Katha - Bhai Pinderpal Singh Ji</title>
+    <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
+    </programme>
+    <programme start="20250331100000 +0000" stop="20250331103000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250331103000 +0000" stop="20250331110000 +0000" channel="Sikh Channel">
         <title>Teleshopping: Chalo Dubai Chaliye</title>
@@ -28785,14 +28788,14 @@
     <programme start="20250331130000 +0000" stop="20250331140000 +0000" channel="Sikh Channel">
         <title>Live: Dil Diyan Gallan</title>
     </programme>
-    <programme start="20250331140000 +0000" stop="20250331143000 +0000" channel="Sikh Channel">
+    <programme start="20250331140000 +0000" stop="20250331150000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250331143000 +0000" stop="20250331150000 +0000" channel="Sikh Channel">
+    <programme start="20250331150000 +0000" stop="20250331153000 +0000" channel="Sikh Channel">
         <title>Free conference In Parma (Italy)</title>
     </programme>
-    <programme start="20250331150000 +0000" stop="20250331160000 +0000" channel="Sikh Channel">
-        <title>Wrestling Tournament - Windsor</title>
+    <programme start="20250331153000 +0000" stop="20250331160000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
