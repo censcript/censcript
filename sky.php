@@ -23947,7 +23947,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250331100000 +0000" stop="20250331110000 +0000" channel="QVC Style HD">
         <title>Accessories by Kipling</title>
@@ -24577,16 +24577,16 @@
         <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250331080000 +0000" stop="20250331090000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="QVC Extra">
         <title>Plants2Gardens</title>
     </programme>
     <programme start="20250331100000 +0000" stop="20250331110000 +0000" channel="QVC Extra">
-        <title>Cozee Home on 4 Easy Pay</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250331110000 +0000" stop="20250331120000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24601,7 +24601,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250331150000 +0000" stop="20250331160000 +0000" channel="QVC Extra">
-        <title>Adesso Footwear</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331170000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>

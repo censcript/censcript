@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330152000 +0000" stop="20250330174000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Chelsea v West Ham United</title>
-    </programme>
-    <programme start="20250330152000 +0000" stop="20250330184000 +0000" channel="Optus Sport 3.optus">
-        <title>FA Cup - Bournemouth v Manchester City</title>
-    </programme>
     <programme start="20250330200000 +0000" stop="20250330223000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Chicago Stars v Racing Louisville FC</title>
     </programme>

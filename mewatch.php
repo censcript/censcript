@@ -523,13 +523,13 @@
         <title>No Programme available now. Next Broadcast on 4th April, Friday 7.15pm. 2024 Singapore Premier League: Tampines Rovers vs Geylang International</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250401160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 4th April, Friday 7.15pm. 2024 Singapore Premier League: Tampines Rovers vs Geylang International</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250331160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 5.50pm. 2024 Singapore Premier League: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250401160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 5th April, Saturday 5.50pm. 2024 Singapore Premier League: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250330190000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems!</title>
@@ -895,13 +895,13 @@
         <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250401160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250331160000 +0000" channel="Live 5.mewatch">
         <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250401160000 +0000" channel="Live 5.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.30pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: PSM Makassar FC vs Công An Hà Nôi FC</title>
     </programme>
     <programme start="20250330160000 +0000" stop="20250331160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women&#039;s Race</title>
