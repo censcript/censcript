@@ -28282,22 +28282,22 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250401090000 +0000" stop="20250401100000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Jaan Ha Tou Jahan Hai</title>
     </programme>
     <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28306,25 +28306,25 @@
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithiyan Gallan</title>
     </programme>
     <programme start="20250401190000 +0000" stop="20250401200000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Inside News</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250331200000 +0000" stop="20250331220000 +0000" channel="HUM EUROPE">
         <title>Absolutely Yes</title>
