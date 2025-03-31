@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Angel City FC v Seattle Reign</title>
-    </programme>
     <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Glenn Murray</title>
     </programme>
@@ -216,6 +213,9 @@
     <programme start="20250412135000 +0000" stop="20250412162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
+    <programme start="20250412162000 +0000" stop="20250412190000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Arsenal v Brentford</title>
+    </programme>
     <programme start="20250412190000 +0000" stop="20250412200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -267,9 +267,4 @@
     <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Fulham</title>
     </programme>
-
-Fatal error: Uncaught Exception: Failed to parse time string (N/A) at position 1 (/): Unexpected character in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php:43
-Stack trace:
-#0 /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php(43): DateTime->__construct('N/A', Object(DateTimeZone))
-#1 {main}
-  thrown in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php on line 43
+</tv>

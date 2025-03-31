@@ -13209,11 +13209,11 @@
     <programme start="20250331050000 +0000" stop="20250331100000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf</title>
     </programme>
-    <programme start="20250331100000 +0000" stop="20250331150000 +0000" channel="SkySp Golf HD">
+    <programme start="20250331100000 +0000" stop="20250331151500 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
     </programme>
-    <programme start="20250331150000 +0000" stop="20250331153000 +0000" channel="SkySp Golf HD">
-        <title>Best of The Women's Openzone</title>
+    <programme start="20250331151500 +0000" stop="20250331153000 +0000" channel="SkySp Golf HD">
+        <title>My Icon Henni Goya</title>
     </programme>
     <programme start="20250331153000 +0000" stop="20250331160000 +0000" channel="SkySp Golf HD">
         <title>Best of The OpenZone 2023</title>
