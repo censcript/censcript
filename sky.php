@@ -13846,7 +13846,7 @@
         <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
     <programme start="20250331110000 +0000" stop="20250331120000 +0000" channel="SkySp Mix HD">
-        <title>Fight Night Int</title>
+        <title>Fight Night Int: Davis v Lemos</title>
     </programme>
     <programme start="20250331120000 +0000" stop="20250331121500 +0000" channel="SkySp Mix HD">
         <title>My Icon: Johnny Nelson (Pt1)</title>
@@ -13855,10 +13855,10 @@
         <title>My Icon: Duke McKenzie</title>
     </programme>
     <programme start="20250331123000 +0000" stop="20250331133000 +0000" channel="SkySp Mix HD">
-        <title>Fight Night Int</title>
+        <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
     <programme start="20250331133000 +0000" stop="20250331153000 +0000" channel="SkySp Mix HD">
-        <title>TRC Rnd</title>
+        <title>Tri-Nations Rugby: ARG v AUS</title>
     </programme>
     <programme start="20250331153000 +0000" stop="20250331154500 +0000" channel="SkySp Mix HD">
         <title>My Icon: Johnny Nelson (Pt1)</title>
@@ -18038,87 +18038,6 @@
     </programme>
     <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="EWTN Catholic">
         <title>Daily Mass</title>
-    </programme>
-    <programme start="20250330213000 +0000" stop="20250330220000 +0000" channel="Word Network">
-        <title>Damon Davis</title>
-    </programme>
-    <programme start="20250330220000 +0000" stop="20250330223000 +0000" channel="Word Network">
-        <title>The Jewish Jesus</title>
-    </programme>
-    <programme start="20250330223000 +0000" stop="20250330233000 +0000" channel="Word Network">
-        <title>Mercy Ships</title>
-    </programme>
-    <programme start="20250330233000 +0000" stop="20250331000000 +0000" channel="Word Network">
-        <title>Joel Osteen</title>
-    </programme>
-    <programme start="20250331000000 +0000" stop="20250331003000 +0000" channel="Word Network">
-        <title>The Operation Smile</title>
-    </programme>
-    <programme start="20250331003000 +0000" stop="20250331010000 +0000" channel="Word Network">
-        <title>Tomorrow's World</title>
-    </programme>
-    <programme start="20250331010000 +0000" stop="20250331013000 +0000" channel="Word Network">
-        <title>Charles H. Ellis III</title>
-    </programme>
-    <programme start="20250331013000 +0000" stop="20250331023000 +0000" channel="Word Network">
-        <title>David Cerullo</title>
-    </programme>
-    <programme start="20250331023000 +0000" stop="20250331030000 +0000" channel="Word Network">
-        <title>Woody Martin</title>
-    </programme>
-    <programme start="20250331030000 +0000" stop="20250331033000 +0000" channel="Word Network">
-        <title>Bobby Hogan</title>
-    </programme>
-    <programme start="20250331033000 +0000" stop="20250331040000 +0000" channel="Word Network">
-        <title>Jim Whittington</title>
-    </programme>
-    <programme start="20250331040000 +0000" stop="20250331043000 +0000" channel="Word Network">
-        <title>Randy Brodhagen</title>
-    </programme>
-    <programme start="20250331043000 +0000" stop="20250331050000 +0000" channel="Word Network">
-        <title>Dr. Jamal Bryant</title>
-    </programme>
-    <programme start="20250331050000 +0000" stop="20250331053000 +0000" channel="Word Network">
-        <title>Damon Davis</title>
-    </programme>
-    <programme start="20250331053000 +0000" stop="20250331060000 +0000" channel="Word Network">
-        <title>Beyond Today</title>
-    </programme>
-    <programme start="20250331060000 +0000" stop="20250331063000 +0000" channel="Word Network">
-        <title>Damon Davis</title>
-    </programme>
-    <programme start="20250331063000 +0000" stop="20250331070000 +0000" channel="Word Network">
-        <title>James Robison</title>
-    </programme>
-    <programme start="20250331070000 +0000" stop="20250331073000 +0000" channel="Word Network">
-        <title>The Jewish Jesus</title>
-    </programme>
-    <programme start="20250331073000 +0000" stop="20250331080000 +0000" channel="Word Network">
-        <title>Sid Roth</title>
-    </programme>
-    <programme start="20250331080000 +0000" stop="20250331083000 +0000" channel="Word Network">
-        <title>Walt Smith</title>
-    </programme>
-    <programme start="20250331083000 +0000" stop="20250331090000 +0000" channel="Word Network">
-        <title>The Jewish Jesus</title>
-    </programme>
-    <programme start="20250331090000 +0000" stop="20250331093000 +0000" channel="Word Network">
-        <title>Tomorrow's World</title>
-    </programme>
-    <programme start="20250331093000 +0000" stop="20250331100000 +0000" channel="Word Network">
-        <title>James Robison</title>
-    </programme>
-    <programme start="20250331100000 +0000" stop="20250331103000 +0000" channel="Word Network">
-        <title>Joyce Meyer</title>
-    </programme>
-    <programme start="20250331103000 +0000" stop="20250331110000 +0000" channel="Word Network">
-        <title>Joseph Prince</title>
-    </programme>
-    <programme start="20250331110000 +0000" stop="20250331170000 +0000" channel="Word Network">
-        <title>The Word Network</title>
-    </programme>
-    <programme start="20250331170000 +0000" stop="20250331180000 +0000" channel="Word Network">
-        <title>The Word Network</title>
     </programme>
     <programme start="20250330213000 +0000" stop="20250330220000 +0000" channel="Faith World TV">
         <title>Hour of Liberation</title>
@@ -23866,7 +23785,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250331190000 +0000" stop="20250331200000 +0000" channel="QVC Beauty">
-        <title>Perricone MD Skincare</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250331200000 +0000" stop="20250331210000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -33772,7 +33691,7 @@
         <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
     <programme start="20250331110000 +0000" stop="20250331120000 +0000" channel="SkySp Mix">
-        <title>Fight Night Int</title>
+        <title>Fight Night Int: Davis v Lemos</title>
     </programme>
     <programme start="20250331120000 +0000" stop="20250331121500 +0000" channel="SkySp Mix">
         <title>My Icon: Johnny Nelson (Pt1)</title>
@@ -33781,10 +33700,10 @@
         <title>My Icon: Duke McKenzie</title>
     </programme>
     <programme start="20250331123000 +0000" stop="20250331133000 +0000" channel="SkySp Mix">
-        <title>Fight Night Int</title>
+        <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
     <programme start="20250331133000 +0000" stop="20250331153000 +0000" channel="SkySp Mix">
-        <title>TRC Rnd</title>
+        <title>Tri-Nations Rugby: ARG v AUS</title>
     </programme>
     <programme start="20250331153000 +0000" stop="20250331154500 +0000" channel="SkySp Mix">
         <title>My Icon: Johnny Nelson (Pt1)</title>
