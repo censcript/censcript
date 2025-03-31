@@ -177,6 +177,9 @@
     <programme start="20250411093000 +0000" stop="20250411100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
+    <programme start="20250411095500 +0000" stop="20250411121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - FC Tokyo v Kashiwa</title>
+    </programme>
     <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -188,6 +191,12 @@
     </programme>
     <programme start="20250412020000 +0000" stop="20250412043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Portland Thorns FC</title>
+    </programme>
+    <programme start="20250412045500 +0000" stop="20250412071000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Sanfrecce v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250412055500 +0000" stop="20250412081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Cerezo v Kashima</title>
     </programme>
     <programme start="20250412072000 +0000" stop="20250412094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Anyang</title>
@@ -234,6 +243,9 @@
     <programme start="20250413045000 +0000" stop="20250413071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Gwangju</title>
     </programme>
+    <programme start="20250413045500 +0000" stop="20250413071000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Albirex v Yokohama FC</title>
+    </programme>
     <programme start="20250413072000 +0000" stop="20250413094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daegu v Ulsan</title>
     </programme>
@@ -266,5 +278,17 @@
     </programme>
     <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Fulham</title>
+    </programme>
+    <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Vissel Kobe v Machida</title>
+    </programme>
+    <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shimizu v Avispa</title>
+    </programme>
+    <programme start="20250420055500 +0000" stop="20250420081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Cerezo v FC Tokyo</title>
+    </programme>
+    <programme start="20250420065500 +0000" stop="20250420091000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Urawa Red Diamonds v Yokohama FM</title>
     </programme>
 </tv>
