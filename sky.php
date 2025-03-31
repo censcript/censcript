@@ -13788,36 +13788,6 @@
     <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250330190000 +0000" stop="20250330234500 +0000" channel="SkySp Racing">
-        <title>Stateside Live</title>
-    </programme>
-    <programme start="20250330234500 +0000" stop="20250331000000 +0000" channel="SkySp Racing">
-        <title>The Maggs Twins: Inseparable</title>
-    </programme>
-    <programme start="20250331000000 +0000" stop="20250331010000 +0000" channel="SkySp Racing">
-        <title>Sky Sports News</title>
-    </programme>
-    <programme start="20250331010000 +0000" stop="20250331050000 +0000" channel="SkySp Racing">
-        <title>Australian Racing Live</title>
-    </programme>
-    <programme start="20250331050000 +0000" stop="20250331060000 +0000" channel="SkySp Racing">
-        <title>Australian Racing Live</title>
-    </programme>
-    <programme start="20250331060000 +0000" stop="20250331100000 +0000" channel="SkySp Racing">
-        <title>Sky Sports News</title>
-    </programme>
-    <programme start="20250331100000 +0000" stop="20250331124500 +0000" channel="SkySp Racing">
-        <title>International Raceday Live</title>
-    </programme>
-    <programme start="20250331124500 +0000" stop="20250331200000 +0000" channel="SkySp Racing">
-        <title>Raceday Live</title>
-    </programme>
-    <programme start="20250331200000 +0000" stop="20250331210000 +0000" channel="SkySp Racing">
-        <title>Stateside Live</title>
-    </programme>
-    <programme start="20250331210000 +0000" stop="20250331220000 +0000" channel="SkySp Racing">
-        <title>Sky Sports News</title>
-    </programme>
     <programme start="20250330210000 +0000" stop="20250330220000 +0000" channel="SkySp Mix HD">
         <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
@@ -27480,10 +27450,10 @@
     <programme start="20250331040000 +0000" stop="20250331050000 +0000" channel="GEO TV">
         <title>Quran Sub Kay Liye</title>
     </programme>
-    <programme start="20250331050000 +0000" stop="20250331053000 +0000" channel="GEO TV">
+    <programme start="20250331050000 +0000" stop="20250331060000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
-    <programme start="20250331053000 +0000" stop="20250331070000 +0000" channel="GEO TV">
+    <programme start="20250331060000 +0000" stop="20250331070000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
     <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="GEO TV">
@@ -28102,19 +28072,19 @@
         <title>Meem Se Muhabbat</title>
     </programme>
     <programme start="20250331060000 +0000" stop="20250331070000 +0000" channel="HUM EUROPE">
-        <title>My Dear Cinderella</title>
-    </programme>
-    <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="HUM EUROPE">
         <title>Dil Wali Gali Main</title>
     </programme>
-    <programme start="20250331080000 +0000" stop="20250331090000 +0000" channel="HUM EUROPE">
+    <programme start="20250331070000 +0000" stop="20250331080000 +0000" channel="HUM EUROPE">
         <title>Adhi Bewafai</title>
+    </programme>
+    <programme start="20250331080000 +0000" stop="20250331090000 +0000" channel="HUM EUROPE">
+        <title>Subh Se Agay</title>
     </programme>
     <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="HUM EUROPE">
         <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250331100000 +0000" stop="20250331110000 +0000" channel="HUM EUROPE">
-        <title>Meem Se Muhabbat</title>
+        <title>Allahyar &amp; the Legend of Markhors</title>
     </programme>
     <programme start="20250331110000 +0000" stop="20250331120000 +0000" channel="HUM EUROPE">
         <title>Hijr</title>
@@ -28129,7 +28099,7 @@
         <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250331130000 +0000" stop="20250331140000 +0000" channel="HUM EUROPE">
-        <title>Meri Tanhai</title>
+        <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250331140000 +0000" stop="20250331150000 +0000" channel="HUM EUROPE">
         <title>Dil Wali Gali Main</title>
@@ -28144,7 +28114,7 @@
         <title>Adhi Bewafai</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331170000 +0000" channel="HUM EUROPE">
-        <title>Ramzan Aur Hum &amp; Iftaar Package</title>
+        <title>Mohabbat Yun Bhi Honi Thi</title>
     </programme>
     <programme start="20250331170000 +0000" stop="20250331180000 +0000" channel="HUM EUROPE">
         <title>Sirat-E-Mustqeem</title>
@@ -28159,13 +28129,13 @@
         <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250331190000 +0000" stop="20250331195300 +0000" channel="HUM EUROPE">
-        <title>Meri Tanhai</title>
+        <title>Dil Wali Gali Main</title>
     </programme>
     <programme start="20250331195300 +0000" stop="20250331200000 +0000" channel="HUM EUROPE">
         <title>Azan-e-Isha</title>
     </programme>
     <programme start="20250331200000 +0000" stop="20250331210000 +0000" channel="HUM EUROPE">
-        <title>Dil Wali Gali Main</title>
+        <title>Absolutely Yes</title>
     </programme>
     <programme start="20250331210000 +0000" stop="20250331220000 +0000" channel="HUM EUROPE">
         <title>Adhi Bewafai</title>
@@ -37919,33 +37889,6 @@
     </programme>
     <programme start="20250331220000 +0000" stop="20250331230000 +0000" channel="BBC R1X">
         <title>Snoochie Shy</title>
-    </programme>
-    <programme start="20250330210000 +0000" stop="20250330220000 +0000" channel="TWR">
-        <title>TWR Focus</title>
-    </programme>
-    <programme start="20250330220000 +0000" stop="20250330230000 +0000" channel="TWR">
-        <title>TWR Focus</title>
-    </programme>
-    <programme start="20250330230000 +0000" stop="20250331020000 +0000" channel="TWR">
-        <title>TWR Bible</title>
-    </programme>
-    <programme start="20250331020000 +0000" stop="20250331050000 +0000" channel="TWR">
-        <title>TWR Bible</title>
-    </programme>
-    <programme start="20250331050000 +0000" stop="20250331070000 +0000" channel="TWR">
-        <title>TWR Talk</title>
-    </programme>
-    <programme start="20250331070000 +0000" stop="20250331090000 +0000" channel="TWR">
-        <title>TWR Talk</title>
-    </programme>
-    <programme start="20250331090000 +0000" stop="20250331110000 +0000" channel="TWR">
-        <title>TWR Talk</title>
-    </programme>
-    <programme start="20250331110000 +0000" stop="20250331170000 +0000" channel="TWR">
-        <title>This service has now closed</title>
-    </programme>
-    <programme start="20250331170000 +0000" stop="20250331180000 +0000" channel="TWR">
-        <title>This service has now closed</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250331063000 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
