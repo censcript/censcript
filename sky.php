@@ -15666,7 +15666,13 @@
     <programme start="20250331073000 +0000" stop="20250331083000 +0000" channel="NDTV World">
         <title>Lunchtime News</title>
     </programme>
-    <programme start="20250331083000 +0000" stop="20250331113000 +0000" channel="NDTV World">
+    <programme start="20250331083000 +0000" stop="20250331090000 +0000" channel="NDTV World">
+        <title>News</title>
+    </programme>
+    <programme start="20250331090000 +0000" stop="20250331100000 +0000" channel="NDTV World">
+        <title>TechXpedite: Grand Finale 2024-25</title>
+    </programme>
+    <programme start="20250331100000 +0000" stop="20250331113000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250331113000 +0000" stop="20250331133000 +0000" channel="NDTV World">
@@ -27181,7 +27187,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250331150500 +0000" stop="20250331160000 +0000" channel="New Vision TV">
-        <title>Jahan Bean Eid</title>
+        <title>Eid Hungama</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27193,7 +27199,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250331170500 +0000" stop="20250331180000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai Eid</title>
+        <title>Off The Record Eid</title>
     </programme>
     <programme start="20250331180000 +0000" stop="20250331180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
