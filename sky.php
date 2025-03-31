@@ -29203,7 +29203,7 @@
         <title>Fatafat News</title>
     </programme>
     <programme start="20250331100500 +0000" stop="20250331120000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Haftawari Sargarmiyaan</title>
+        <title>Repeat: Jawaab Mangda Punjab</title>
     </programme>
     <programme start="20250331120000 +0000" stop="20250331123000 +0000" channel="PoliticsPunjab">
         <title>Punjabi News</title>
@@ -29251,7 +29251,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250331223000 +0000" stop="20250331233000 +0000" channel="PoliticsPunjab">
-        <title>Repeat: Current Affairs</title>
+        <title>Special Show</title>
     </programme>
     <programme start="20250330210000 +0000" stop="20250330230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
