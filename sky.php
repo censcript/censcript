@@ -27021,13 +27021,7 @@
     <programme start="20250331110000 +0000" stop="20250331110500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250331110500 +0000" stop="20250331120000 +0000" channel="GEO News">
-        <title>Mazahiya Mushaira</title>
-    </programme>
-    <programme start="20250331120000 +0000" stop="20250331120500 +0000" channel="GEO News">
-        <title>Geo World News Headlines</title>
-    </programme>
-    <programme start="20250331120500 +0000" stop="20250331130000 +0000" channel="GEO News">
+    <programme start="20250331110500 +0000" stop="20250331130000 +0000" channel="GEO News">
         <title>Mazahiya Mushaira</title>
     </programme>
     <programme start="20250331130000 +0000" stop="20250331130500 +0000" channel="GEO News">
@@ -27057,13 +27051,7 @@
     <programme start="20250331170000 +0000" stop="20250331170500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250331170500 +0000" stop="20250331180000 +0000" channel="GEO News">
-        <title>Hansna Mana Hai</title>
-    </programme>
-    <programme start="20250331180000 +0000" stop="20250331180500 +0000" channel="GEO News">
-        <title>Geo World News Headlines</title>
-    </programme>
-    <programme start="20250331180500 +0000" stop="20250331190000 +0000" channel="GEO News">
+    <programme start="20250331170500 +0000" stop="20250331190000 +0000" channel="GEO News">
         <title>Hansna Mana Hai</title>
     </programme>
     <programme start="20250331190000 +0000" stop="20250331190500 +0000" channel="GEO News">
@@ -27081,13 +27069,7 @@
     <programme start="20250331210000 +0000" stop="20250331210500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250331210500 +0000" stop="20250331220000 +0000" channel="GEO News">
-        <title>Hansna Mana Hai</title>
-    </programme>
-    <programme start="20250331220000 +0000" stop="20250331220500 +0000" channel="GEO News">
-        <title>Geo World News Headlines</title>
-    </programme>
-    <programme start="20250331220500 +0000" stop="20250331230500 +0000" channel="GEO News">
+    <programme start="20250331210500 +0000" stop="20250331220500 +0000" channel="GEO News">
         <title>Hansna Mana Hai</title>
     </programme>
     <programme start="20250330210500 +0000" stop="20250330220000 +0000" channel="New Vision TV">
