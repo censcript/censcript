@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250330200000 +0000" stop="20250331000000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Chicago Stars v Racing Louisville FC</title>
-    </programme>
     <programme start="20250331000000 +0000" stop="20250331023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Angel City FC v Seattle Reign</title>
     </programme>
@@ -201,6 +198,21 @@
     <programme start="20250412072000 +0000" stop="20250412094000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Daejeon</title>
     </programme>
+    <programme start="20250412103000 +0000" stop="20250412135000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester City v Crystal Palace</title>
+    </programme>
+    <programme start="20250412110500 +0000" stop="20250412142500 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Chelsea v Liverpool</title>
+    </programme>
+    <programme start="20250412135000 +0000" stop="20250412161000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Southampton v Aston Villa</title>
+    </programme>
+    <programme start="20250412135000 +0000" stop="20250412161000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Nottingham Forest v Everton</title>
+    </programme>
+    <programme start="20250412135000 +0000" stop="20250412161000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Brighton v Leicester City</title>
+    </programme>
     <programme start="20250412135000 +0000" stop="20250412162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -228,6 +240,21 @@
     <programme start="20250413120000 +0000" stop="20250413152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
+    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Wolverhampton Wanderers v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Liverpool v West Ham United</title>
+    </programme>
+    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Chelsea v Ipswich</title>
+    </programme>
+    <programme start="20250413135000 +0000" stop="20250413171000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Manchester City v Manchester United</title>
+    </programme>
+    <programme start="20250413152000 +0000" stop="20250413180000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Newcastle United v Manchester United</title>
+    </programme>
     <programme start="20250413190000 +0000" stop="20250413203000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -237,4 +264,12 @@
     <programme start="20250413230000 +0000" stop="20250414013000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Bay FC v Chicago Stars</title>
     </programme>
-</tv>
+    <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Bournemouth v Fulham</title>
+    </programme>
+
+Fatal error: Uncaught Exception: Failed to parse time string (N/A) at position 1 (/): Unexpected character in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php:43
+Stack trace:
+#0 /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php(43): DateTime->__construct('N/A', Object(DateTimeZone))
+#1 {main}
+  thrown in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/optus.php on line 43
