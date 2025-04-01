@@ -24829,7 +24829,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="QVC Extra">
-        <title>Accessories by Kipling</title>
+        <title>Vionic Footwear</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24838,16 +24838,16 @@
         <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250401190000 +0000" stop="20250401200000 +0000" channel="QVC Extra">
-        <title>Moda In Pelle</title>
+        <title>Sleep Better, Feel Better</title>
     </programme>
     <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="QVC Extra">
         <title>YouGarden</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Ben de Lisi</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="QVC Extra">
-        <title>Plants2Gardens</title>
+        <title>FireLight Lab Grown Diamonds</title>
     </programme>
     <programme start="20250331213000 +0000" stop="20250331220000 +0000" channel="High Street TV 3">
         <title>nutribullet Blender Combo</title>
@@ -27075,35 +27075,20 @@
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250401140000 +0000" stop="20250401141000 +0000" channel="MTA1 World HD">
+    <programme start="20250401140000 +0000" stop="20250401142000 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250401141000 +0000" stop="20250401142000 +0000" channel="MTA1 World HD">
-        <title>Ahd-e-Rafta</title>
-    </programme>
-    <programme start="20250401142000 +0000" stop="20250401143000 +0000" channel="MTA1 World HD">
+    <programme start="20250401142000 +0000" stop="20250401144500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250401143000 +0000" stop="20250401144500 +0000" channel="MTA1 World HD">
-        <title>Villages Of Africa</title>
-    </programme>
-    <programme start="20250401144500 +0000" stop="20250401145500 +0000" channel="MTA1 World HD">
+    <programme start="20250401144500 +0000" stop="20250401153000 +0000" channel="MTA1 World HD">
         <title>Eid-ul-Fitr Sermon</title>
     </programme>
-    <programme start="20250401145500 +0000" stop="20250401153000 +0000" channel="MTA1 World HD">
-        <title>Eid-ul-Fitr Sermon 2025</title>
-    </programme>
-    <programme start="20250401153000 +0000" stop="20250401160000 +0000" channel="MTA1 World HD">
+    <programme start="20250401153000 +0000" stop="20250401160500 +0000" channel="MTA1 World HD">
         <title>Empowering Women</title>
     </programme>
-    <programme start="20250401160000 +0000" stop="20250401160500 +0000" channel="MTA1 World HD">
+    <programme start="20250401160500 +0000" stop="20250401162500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
-    </programme>
-    <programme start="20250401160500 +0000" stop="20250401161500 +0000" channel="MTA1 World HD">
-        <title>Kudak</title>
-    </programme>
-    <programme start="20250401161500 +0000" stop="20250401162500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250401162500 +0000" stop="20250401165500 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
@@ -27126,11 +27111,8 @@
     <programme start="20250401191500 +0000" stop="20250401193000 +0000" channel="MTA1 World HD">
         <title>My Dear Huzoor</title>
     </programme>
-    <programme start="20250401193000 +0000" stop="20250401195000 +0000" channel="MTA1 World HD">
+    <programme start="20250401193000 +0000" stop="20250401200500 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
-    </programme>
-    <programme start="20250401195000 +0000" stop="20250401200500 +0000" channel="MTA1 World HD">
-        <title>My Dear Huzoor</title>
     </programme>
     <programme start="20250401200500 +0000" stop="20250401204500 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
@@ -27144,14 +27126,8 @@
     <programme start="20250401221000 +0000" stop="20250401222000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250401222000 +0000" stop="20250401223000 +0000" channel="MTA1 World HD">
+    <programme start="20250401222000 +0000" stop="20250401225500 +0000" channel="MTA1 World HD">
         <title>Empowering Women</title>
-    </programme>
-    <programme start="20250401223000 +0000" stop="20250401224500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250401224500 +0000" stop="20250401225500 +0000" channel="MTA1 World HD">
-        <title>The Impact Of MTA In Indonesia</title>
     </programme>
     <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="MTA1 World HD">
         <title>Intikhab-e-Sukhan</title>
@@ -27766,13 +27742,13 @@
         <title>Bajjo</title>
     </programme>
     <programme start="20250401070000 +0000" stop="20250401080000 +0000" channel="GEO TV">
-        <title>Ghabrana Nahi Hai</title>
+        <title>Karachi se Lahore</title>
     </programme>
     <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="GEO TV">
-        <title>Ghabrana Nahi Hai</title>
+        <title>Karachi se Lahore</title>
     </programme>
     <programme start="20250401090000 +0000" stop="20250401100000 +0000" channel="GEO TV">
-        <title>Ghabrana Nahi Hai</title>
+        <title>Karachi se Lahore</title>
     </programme>
     <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="GEO TV">
         <title>Bajjo</title>
@@ -27784,13 +27760,13 @@
         <title>Dayyan</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="GEO TV">
-        <title>Load Wedding</title>
+        <title>Actor In Law</title>
     </programme>
     <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="GEO TV">
-        <title>Load Wedding</title>
+        <title>Actor In Law</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="GEO TV">
-        <title>Load Wedding</title>
+        <title>Actor In Law</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401163000 +0000" channel="GEO TV">
         <title>Dayyan</title>
@@ -27814,7 +27790,7 @@
         <title>Hashtag</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="GEO TV">
-        <title>Pyaar Tou Warh Gaya</title>
+        <title>Love Siyappa</title>
     </programme>
     <programme start="20250331200000 +0000" stop="20250331220000 +0000" channel="Noor TV">
         <title>Charity Appeal</title>
