@@ -1803,25 +1803,25 @@
     <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="ITV3 HD">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250401213000 +0000" stop="20250401223000 +0000" channel="ITV4 HD">
+    <programme start="20250401174500 +0000" stop="20250401220000 +0000" channel="ITV4 HD">
+        <title>Snooker: Tour Championship</title>
+    </programme>
+    <programme start="20250401220000 +0000" stop="20250401225500 +0000" channel="ITV4 HD">
         <title>World Superbike Highlights</title>
     </programme>
-    <programme start="20250401223000 +0000" stop="20250402002500 +0000" channel="ITV4 HD">
+    <programme start="20250401225500 +0000" stop="20250402005000 +0000" channel="ITV4 HD">
         <title>All Elite Wrestling: Collision</title>
     </programme>
-    <programme start="20250402002500 +0000" stop="20250402012500 +0000" channel="ITV4 HD">
-        <title>BattleBots</title>
-    </programme>
-    <programme start="20250402012500 +0000" stop="20250402015500 +0000" channel="ITV4 HD">
+    <programme start="20250402005000 +0000" stop="20250402012500 +0000" channel="ITV4 HD">
         <title>The Protectors</title>
     </programme>
-    <programme start="20250402015500 +0000" stop="20250402022500 +0000" channel="ITV4 HD">
+    <programme start="20250402012500 +0000" stop="20250402015500 +0000" channel="ITV4 HD">
         <title>Motorsport Mundial</title>
     </programme>
-    <programme start="20250402022500 +0000" stop="20250402023000 +0000" channel="ITV4 HD">
+    <programme start="20250402015500 +0000" stop="20250402020000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
-    <programme start="20250402023000 +0000" stop="20250402050000 +0000" channel="ITV4 HD">
+    <programme start="20250402020000 +0000" stop="20250402050000 +0000" channel="ITV4 HD">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250402050000 +0000" stop="20250402053500 +0000" channel="ITV4 HD">
@@ -8385,28 +8385,25 @@
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="ITV3+1">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250401184500 +0000" stop="20250401223000 +0000" channel="ITV4+1">
+    <programme start="20250401184500 +0000" stop="20250401230000 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250401223000 +0000" stop="20250401233000 +0000" channel="ITV4+1">
+    <programme start="20250401230000 +0000" stop="20250401235500 +0000" channel="ITV4+1">
         <title>World Superbike Highlights</title>
     </programme>
-    <programme start="20250401233000 +0000" stop="20250402012500 +0000" channel="ITV4+1">
+    <programme start="20250401235500 +0000" stop="20250402015000 +0000" channel="ITV4+1">
         <title>All Elite Wrestling: Collision</title>
     </programme>
-    <programme start="20250402012500 +0000" stop="20250402022500 +0000" channel="ITV4+1">
-        <title>BattleBots</title>
-    </programme>
-    <programme start="20250402022500 +0000" stop="20250402025500 +0000" channel="ITV4+1">
+    <programme start="20250402015000 +0000" stop="20250402022500 +0000" channel="ITV4+1">
         <title>The Protectors</title>
     </programme>
-    <programme start="20250402025500 +0000" stop="20250402032500 +0000" channel="ITV4+1">
+    <programme start="20250402022500 +0000" stop="20250402025500 +0000" channel="ITV4+1">
         <title>Motorsport Mundial</title>
     </programme>
-    <programme start="20250402032500 +0000" stop="20250402033000 +0000" channel="ITV4+1">
+    <programme start="20250402025500 +0000" stop="20250402030000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
-    <programme start="20250402033000 +0000" stop="20250402060000 +0000" channel="ITV4+1">
+    <programme start="20250402030000 +0000" stop="20250402060000 +0000" channel="ITV4+1">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250402060000 +0000" stop="20250402063500 +0000" channel="ITV4+1">
@@ -14937,19 +14934,22 @@
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250401215000 +0000" stop="20250401223500 +0000" channel="BBC Parl HD">
+    <programme start="20250401211500 +0000" stop="20250401221500 +0000" channel="BBC Parl HD">
+        <title>Welsh First Minister's Questions</title>
+    </programme>
+    <programme start="20250401221500 +0000" stop="20250401230000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250401223500 +0000" stop="20250401225500 +0000" channel="BBC Parl HD">
+    <programme start="20250401230000 +0000" stop="20250401232000 +0000" channel="BBC Parl HD">
         <title>House of Lords - National...</title>
     </programme>
-    <programme start="20250401225500 +0000" stop="20250402005500 +0000" channel="BBC Parl HD">
+    <programme start="20250401232000 +0000" stop="20250402011500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 1</title>
     </programme>
-    <programme start="20250402005500 +0000" stop="20250402025500 +0000" channel="BBC Parl HD">
+    <programme start="20250402011500 +0000" stop="20250402030000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 2</title>
     </programme>
-    <programme start="20250402025500 +0000" stop="20250402050000 +0000" channel="BBC Parl HD">
+    <programme start="20250402030000 +0000" stop="20250402050000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Hereditary Peers Bill, Part 3</title>
     </programme>
     <programme start="20250402050000 +0000" stop="20250402061500 +0000" channel="BBC Parl HD">
@@ -26773,7 +26773,7 @@
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250402075000 +0000" stop="20250402080000 +0000" channel="MTA1 World HD">
-        <title>Bissa Waterfall Kashmir</title>
+        <title>Bissa Waterfall</title>
     </programme>
     <programme start="20250402080000 +0000" stop="20250402082000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26784,7 +26784,10 @@
     <programme start="20250402085500 +0000" stop="20250402093000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402094000 +0000" channel="MTA1 World HD">
+    <programme start="20250402093000 +0000" stop="20250402093500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250402093500 +0000" stop="20250402094000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
     <programme start="20250402094000 +0000" stop="20250402095500 +0000" channel="MTA1 World HD">
@@ -26806,7 +26809,7 @@
         <title>Nazm</title>
     </programme>
     <programme start="20250402115500 +0000" stop="20250402120500 +0000" channel="MTA1 World HD">
-        <title>Bissa Waterfall Kashmir</title>
+        <title>Bissa Waterfall</title>
     </programme>
     <programme start="20250402120500 +0000" stop="20250402122000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -26820,7 +26823,10 @@
     <programme start="20250402130000 +0000" stop="20250402133500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Address At Shura UK</title>
     </programme>
-    <programme start="20250402133500 +0000" stop="20250402140500 +0000" channel="MTA1 World HD">
+    <programme start="20250402133500 +0000" stop="20250402134000 +0000" channel="MTA1 World HD">
+        <title>History Of Khilafat</title>
+    </programme>
+    <programme start="20250402134000 +0000" stop="20250402140500 +0000" channel="MTA1 World HD">
         <title>History Of Khilafat</title>
     </programme>
     <programme start="20250402140500 +0000" stop="20250402144500 +0000" channel="MTA1 World HD">
@@ -26859,22 +26865,37 @@
     <programme start="20250402185000 +0000" stop="20250402193000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Students</title>
     </programme>
-    <programme start="20250402193000 +0000" stop="20250402195500 +0000" channel="MTA1 World HD">
+    <programme start="20250402193000 +0000" stop="20250402193500 +0000" channel="MTA1 World HD">
         <title>History Of Khilafat</title>
     </programme>
-    <programme start="20250402195500 +0000" stop="20250402210000 +0000" channel="MTA1 World HD">
+    <programme start="20250402193500 +0000" stop="20250402195500 +0000" channel="MTA1 World HD">
         <title>Rah-e-Huda</title>
     </programme>
-    <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Address At Shura UK</title>
+    <programme start="20250402195500 +0000" stop="20250402204000 +0000" channel="MTA1 World HD">
+        <title>Rah-e-Huda</title>
     </programme>
-    <programme start="20250402213000 +0000" stop="20250402215500 +0000" channel="MTA1 World HD">
+    <programme start="20250402204000 +0000" stop="20250402210000 +0000" channel="MTA1 World HD">
+        <title>Salatul Kusuf Sermon</title>
+    </programme>
+    <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="MTA1 World HD">
+        <title>Beyond Allegations</title>
+    </programme>
+    <programme start="20250402213000 +0000" stop="20250402213500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250402215500 +0000" stop="20250402225000 +0000" channel="MTA1 World HD">
+    <programme start="20250402213500 +0000" stop="20250402215500 +0000" channel="MTA1 World HD">
+        <title>Huzoor's Address At Shura UK</title>
+    </programme>
+    <programme start="20250402215500 +0000" stop="20250402221500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250402225000 +0000" stop="20250402235000 +0000" channel="MTA1 World HD">
+    <programme start="20250402221500 +0000" stop="20250402225000 +0000" channel="MTA1 World HD">
+        <title>Jalsa Salana Speeches</title>
+    </programme>
+    <programme start="20250402225000 +0000" stop="20250402225500 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250402225500 +0000" stop="20250402235500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="HUM Masala">

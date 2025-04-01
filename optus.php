@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250401180000 +0000" stop="20250401220000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Wednesday Morning</title>
-    </programme>
     <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v FC Tokyo</title>
     </programme>
@@ -267,6 +264,9 @@
     <programme start="20250419105000 +0000" stop="20250419131000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester United</title>
     </programme>
+    <programme start="20250419112500 +0000" stop="20250419134500 +0000" channel="Optus Sport 9.optus">
+        <title>Women&#039;s Super League - Brighton and Hove Albion v Liverpool</title>
+    </programme>
     <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Vissel Kobe v Machida</title>
     </programme>
@@ -278,5 +278,14 @@
     </programme>
     <programme start="20250420065500 +0000" stop="20250420091000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Urawa Red Diamonds v Yokohama FM</title>
+    </programme>
+    <programme start="20250420115500 +0000" stop="20250420141000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester City v Everton</title>
+    </programme>
+    <programme start="20250420125500 +0000" stop="20250420151000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Tottenham Hotspur v Aston Villa</title>
+    </programme>
+    <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
     </programme>
 </tv>
