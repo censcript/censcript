@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - 1-to-11: Glenn Murray</title>
-    </programme>
     <programme start="20250401143000 +0000" stop="20250401150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind</title>
     </programme>

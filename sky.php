@@ -12826,7 +12826,7 @@
         <title>Mellow Moments!</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="NOW 90s &amp; 00s">
-        <title>Mairah Carey: Power Diva</title>
+        <title>Mariah Carey: Power Diva</title>
     </programme>
     <programme start="20250331210000 +0000" stop="20250401010000 +0000" channel="NOW ROCK">
         <title>50 Rock Heroes of the 00s!</title>
