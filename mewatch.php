@@ -120,7 +120,7 @@
     <programme start="20250401143022 +0000" stop="20250401153029 +0000" channel="Channel 5.mewatch">
         <title>Almost Paradise S2 - EP 6</title>
     </programme>
-    <programme start="20250401153029 +0000" stop="20250401162021 +0000" channel="Channel 5.mewatch">
+    <programme start="20250401153029 +0000" stop="20250401162020 +0000" channel="Channel 5.mewatch">
         <title>The Ark S2 - EP 12</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331170000 +0000" channel="Channel 8.mewatch">
@@ -216,32 +216,29 @@
     <programme start="20250401093149 +0000" stop="20250401103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 617</title>
     </programme>
-    <programme start="20250401103000 +0000" stop="20250401113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401103000 +0000" stop="20250401113041 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 1</title>
     </programme>
-    <programme start="20250401113000 +0000" stop="20250401120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401113041 +0000" stop="20250401120007 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 2</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401120007 +0000" stop="20250401123008 +0000" channel="Channel 8.mewatch">
         <title>Say It Right! S2 - EP 8</title>
     </programme>
-    <programme start="20250401123000 +0000" stop="20250401130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401123008 +0000" stop="20250401130028 +0000" channel="Channel 8.mewatch">
         <title>Tuesday Report : Shophouses Through the Ages - EP 3</title>
     </programme>
-    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401130028 +0000" stop="20250401140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 10</title>
     </programme>
-    <programme start="20250401140000 +0000" stop="20250401143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401140000 +0000" stop="20250401143150 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250401143000 +0000" stop="20250401150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401143150 +0000" stop="20250401150129 +0000" channel="Channel 8.mewatch">
         <title>The Truth About Health - EP 7</title>
     </programme>
-    <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250401150129 +0000" stop="20250401160055 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 32</title>
-    </programme>
-    <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 21</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331163000 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 10</title>
@@ -417,17 +414,14 @@
     <programme start="20250401120000 +0000" stop="20250401123000 +0000" channel="Suria.mewatch">
         <title>Berita - EP 1</title>
     </programme>
-    <programme start="20250401123000 +0000" stop="20250401133000 +0000" channel="Suria.mewatch">
+    <programme start="20250401123000 +0000" stop="20250401132957 +0000" channel="Suria.mewatch">
         <title>Zaman Sekolah S4 - EP 9</title>
     </programme>
-    <programme start="20250401133000 +0000" stop="20250401153000 +0000" channel="Suria.mewatch">
+    <programme start="20250401132957 +0000" stop="20250401153000 +0000" channel="Suria.mewatch">
         <title>Zero to Millionaire</title>
     </programme>
-    <programme start="20250401153000 +0000" stop="20250401160000 +0000" channel="Suria.mewatch">
+    <programme start="20250401153000 +0000" stop="20250401160101 +0000" channel="Suria.mewatch">
         <title>Berita - EP 1</title>
-    </programme>
-    <programme start="20250401160000 +0000" stop="20250401180000 +0000" channel="Suria.mewatch">
-        <title>Manisan Syawal</title>
     </programme>
     <programme start="20250331140000 +0000" stop="20250331170000 +0000" channel="Vasantham.mewatch">
         <title>Lubber Pandhu</title>
@@ -471,22 +465,22 @@
     <programme start="20250401120000 +0000" stop="20250401123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 13</title>
     </programme>
-    <programme start="20250401123000 +0000" stop="20250401130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401123000 +0000" stop="20250401130110 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250401130000 +0000" stop="20250401133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401130110 +0000" stop="20250401132956 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 14</title>
     </programme>
-    <programme start="20250401133000 +0000" stop="20250401140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401132956 +0000" stop="20250401135955 +0000" channel="Vasantham.mewatch">
         <title>Pesuvom Sr 2 - EP 12</title>
     </programme>
-    <programme start="20250401140000 +0000" stop="20250401143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401135955 +0000" stop="20250401142955 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 2</title>
     </programme>
-    <programme start="20250401143000 +0000" stop="20250401150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401142955 +0000" stop="20250401145956 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 48</title>
     </programme>
-    <programme start="20250401150000 +0000" stop="20250401153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401145956 +0000" stop="20250401153000 +0000" channel="Vasantham.mewatch">
         <title>Thuninthu Sel - EP 7</title>
     </programme>
     <programme start="20250401153000 +0000" stop="20250401160108 +0000" channel="Vasantham.mewatch">

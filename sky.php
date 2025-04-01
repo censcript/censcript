@@ -24127,7 +24127,7 @@
         <title>Molton Brown</title>
     </programme>
     <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="QVC Beauty">
-        <title>Neom Wellbeing London</title>
+        <title>Shay &amp; Blue Boutique Fragrance</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24181,7 +24181,7 @@
         <title>Ben de Lisi</title>
     </programme>
     <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="QVC Style HD">
-        <title>Luxury Jewellery</title>
+        <title>Adesso Footwear</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="QVC Style HD">
         <title>Moda In Pelle</title>
@@ -28704,13 +28704,7 @@
     <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401121000 +0000" channel="Eman Channel">
-        <title>Repeat: Alif Laam Meem</title>
-    </programme>
-    <programme start="20250401121000 +0000" stop="20250401121500 +0000" channel="Eman Channel">
-        <title>Dhuhr Adhan</title>
-    </programme>
-    <programme start="20250401121500 +0000" stop="20250401130000 +0000" channel="Eman Channel">
+    <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401131500 +0000" channel="Eman Channel">
@@ -28734,11 +28728,8 @@
     <programme start="20250401150000 +0000" stop="20250401153800 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
-    <programme start="20250401153800 +0000" stop="20250401154400 +0000" channel="Eman Channel">
+    <programme start="20250401153800 +0000" stop="20250401160000 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
-    </programme>
-    <programme start="20250401154400 +0000" stop="20250401160000 +0000" channel="Eman Channel">
-        <title>Live: Madrasah TV</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401161500 +0000" channel="Eman Channel">
         <title>The Deenies</title>
