@@ -120,7 +120,7 @@
     <programme start="20250401143022 +0000" stop="20250401153029 +0000" channel="Channel 5.mewatch">
         <title>Almost Paradise S2 - EP 6</title>
     </programme>
-    <programme start="20250401153029 +0000" stop="20250401162021 +0000" channel="Channel 5.mewatch">
+    <programme start="20250401153029 +0000" stop="20250401162020 +0000" channel="Channel 5.mewatch">
         <title>The Ark S2 - EP 12</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331170000 +0000" channel="Channel 8.mewatch">

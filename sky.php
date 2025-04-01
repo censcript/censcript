@@ -14493,8 +14493,23 @@
     <programme start="20250401030000 +0000" stop="20250401050000 +0000" channel="Premier 2 HD">
         <title>Top 14: Bayonne v Lyon</title>
     </programme>
-    <programme start="20250401050000 +0000" stop="20250401080000 +0000" channel="Premier 2 HD">
-        <title>NASCAR Trucks: Martinsville Speedway</title>
+    <programme start="20250401050000 +0000" stop="20250401053000 +0000" channel="Premier 2 HD">
+        <title>This is Premier Sports 2 HD</title>
+    </programme>
+    <programme start="20250401053000 +0000" stop="20250401060000 +0000" channel="Premier 2 HD">
+        <title>This is Premier Sports 2 HD</title>
+    </programme>
+    <programme start="20250401060000 +0000" stop="20250401063000 +0000" channel="Premier 2 HD">
+        <title>This is Premier Sports 2 HD</title>
+    </programme>
+    <programme start="20250401063000 +0000" stop="20250401070000 +0000" channel="Premier 2 HD">
+        <title>This is Premier Sports 2 HD</title>
+    </programme>
+    <programme start="20250401070000 +0000" stop="20250401073000 +0000" channel="Premier 2 HD">
+        <title>This is Premier Sports 2 HD</title>
+    </programme>
+    <programme start="20250401073000 +0000" stop="20250401080000 +0000" channel="Premier 2 HD">
+        <title>GP Confidential</title>
     </programme>
     <programme start="20250401080000 +0000" stop="20250401083000 +0000" channel="Premier 2 HD">
         <title>Bike World</title>
@@ -14505,16 +14520,19 @@
     <programme start="20250401090000 +0000" stop="20250401110000 +0000" channel="Premier 2 HD">
         <title>Top 14: Toulouse v Pau</title>
     </programme>
-    <programme start="20250401110000 +0000" stop="20250401130000 +0000" channel="Premier 2 HD">
-        <title>NHL: Nashville at Philadelphia</title>
+    <programme start="20250401110000 +0000" stop="20250401125500 +0000" channel="Premier 2 HD">
+        <title>PSA Squash Tour: Semi-Final 1</title>
+    </programme>
+    <programme start="20250401125500 +0000" stop="20250401130000 +0000" channel="Premier 2 HD">
+        <title>PSA Squash Tour</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Premier 2 HD">
         <title>PSA Squash Tour: Semi-Final 1</title>
     </programme>
-    <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="Premier 2 HD">
+    <programme start="20250401140000 +0000" stop="20250401144500 +0000" channel="Premier 2 HD">
         <title>PSA Squash Tour</title>
     </programme>
-    <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Premier 2 HD">
+    <programme start="20250401144500 +0000" stop="20250401160000 +0000" channel="Premier 2 HD">
         <title>PSA Squash Tour: Final</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401175500 +0000" channel="Premier 2 HD">
@@ -15246,13 +15264,28 @@
     <programme start="20250401085000 +0000" stop="20250401090000 +0000" channel="BBC Parl HD">
         <title>Ten Minute Rule Bill - Growth and Regulators</title>
     </programme>
-    <programme start="20250401090000 +0000" stop="20250401103000 +0000" channel="BBC Parl HD">
+    <programme start="20250401090000 +0000" stop="20250401093000 +0000" channel="BBC Parl HD">
         <title>Live Treasury Committee on the Spring Statement</title>
+    </programme>
+    <programme start="20250401093000 +0000" stop="20250401103000 +0000" channel="BBC Parl HD">
+        <title>Live Food Supply Chain Committee</title>
     </programme>
     <programme start="20250401103000 +0000" stop="20250401113000 +0000" channel="BBC Parl HD">
         <title>Live Foreign, Commonwealth and...</title>
     </programme>
-    <programme start="20250401113000 +0000" stop="20250401183000 +0000" channel="BBC Parl HD">
+    <programme start="20250401113000 +0000" stop="20250401121500 +0000" channel="BBC Parl HD">
+        <title>Live NHS Pensions Urgent Question</title>
+    </programme>
+    <programme start="20250401121500 +0000" stop="20250401130000 +0000" channel="BBC Parl HD">
+        <title>Live Adoption Urgent Question</title>
+    </programme>
+    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="BBC Parl HD">
+        <title>Live Sentencing Council Guidelines Statement</title>
+    </programme>
+    <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="BBC Parl HD">
+        <title>Live Foreign Influence Statement</title>
+    </programme>
+    <programme start="20250401150000 +0000" stop="20250401183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250401183000 +0000" stop="20250401210000 +0000" channel="BBC Parl HD">
@@ -24670,10 +24703,10 @@
         <title>Pick of the Day with Mike</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="Ideal World HD">
-        <title>Gut Wealth Daily Supplements with Jeremy</title>
+        <title>Gut Wealth Daily Supplements with Natalia</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Ideal World HD">
-        <title>Miss it &amp; Miss Out with Jeremy</title>
+        <title>Miss it &amp; Miss Out with Natalia</title>
     </programme>
     <programme start="20250331170000 +0000" stop="20250331230000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -27451,7 +27484,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250401110500 +0000" stop="20250401120000 +0000" channel="New Vision TV">
-        <title>Sawal Yeh Hai Eid</title>
+        <title>Off The Record Eid</title>
     </programme>
     <programme start="20250401120000 +0000" stop="20250401120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27735,10 +27768,7 @@
     <programme start="20250401053000 +0000" stop="20250401060000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
-    <programme start="20250401060000 +0000" stop="20250401063000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
-    </programme>
-    <programme start="20250401063000 +0000" stop="20250401070000 +0000" channel="GEO TV">
+    <programme start="20250401060000 +0000" stop="20250401070000 +0000" channel="GEO TV">
         <title>Bajjo</title>
     </programme>
     <programme start="20250401070000 +0000" stop="20250401080000 +0000" channel="GEO TV">
@@ -28279,52 +28309,52 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250401070000 +0000" stop="20250401080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
-    </programme>
-    <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
-    <programme start="20250401090000 +0000" stop="20250401100000 +0000" channel="Takbeer TV">
+    <programme start="20250401080000 +0000" stop="20250401090000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
-    <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Takbeer TV">
+    <programme start="20250401090000 +0000" stop="20250401100000 +0000" channel="Takbeer TV">
         <title>Jaan Ha Tou Jahan Hai</title>
     </programme>
-    <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Takbeer TV">
+    <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="Takbeer TV">
+    <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
-    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Takbeer TV">
+    <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
+    </programme>
+    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Takbeer TV">
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Takbeer TV">
         <title>Warafana Laka Zikrak</title>
     </programme>
-    <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="Takbeer TV">
+    <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Takbeer TV">
         <title>Q&amp;A with Takbeer</title>
     </programme>
-    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="Takbeer TV">
+    <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="Takbeer TV">
         <title>Mithiyan Gallan</title>
     </programme>
-    <programme start="20250401190000 +0000" stop="20250401200000 +0000" channel="Takbeer TV">
+    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
-    <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="Takbeer TV">
+    <programme start="20250401190000 +0000" stop="20250401200000 +0000" channel="Takbeer TV">
         <title>Inside News</title>
+    </programme>
+    <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="Takbeer TV">
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="Takbeer TV">
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250331200000 +0000" stop="20250331220000 +0000" channel="HUM EUROPE">
         <title>Absolutely Yes</title>
@@ -28704,7 +28734,10 @@
     <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="Eman Channel">
+    <programme start="20250401120000 +0000" stop="20250401121300 +0000" channel="Eman Channel">
+        <title>Repeat: Alif Laam Meem</title>
+    </programme>
+    <programme start="20250401121300 +0000" stop="20250401130000 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401131500 +0000" channel="Eman Channel">
@@ -28728,11 +28761,14 @@
     <programme start="20250401150000 +0000" stop="20250401153800 +0000" channel="Eman Channel">
         <title>Live: Madrasah TV</title>
     </programme>
-    <programme start="20250401153800 +0000" stop="20250401160000 +0000" channel="Eman Channel">
+    <programme start="20250401153800 +0000" stop="20250401154300 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
+    <programme start="20250401154300 +0000" stop="20250401160000 +0000" channel="Eman Channel">
+        <title>Live: Madrasah TV</title>
+    </programme>
     <programme start="20250401160000 +0000" stop="20250401161500 +0000" channel="Eman Channel">
-        <title>The Deenies</title>
+        <title>The Misri Bunch</title>
     </programme>
     <programme start="20250401161500 +0000" stop="20250401163000 +0000" channel="Eman Channel">
         <title>Once Upon a Time</title>
@@ -29832,14 +29868,17 @@
     <programme start="20250401190000 +0000" stop="20250401193000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250401193000 +0000" stop="20250401200000 +0000" channel="IQRA Bangla">
+    <programme start="20250401193000 +0000" stop="20250401195400 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
+    </programme>
+    <programme start="20250401195400 +0000" stop="20250401200000 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250401200000 +0000" stop="20250401213000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250401213000 +0000" stop="20250401223000 +0000" channel="IQRA Bangla">
-        <title>Tafseer-Ul-Qur'an</title>
+        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250401223000 +0000" stop="20250401233000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
