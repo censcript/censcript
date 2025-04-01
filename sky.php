@@ -26115,17 +26115,29 @@
     <programme start="20250331210500 +0000" stop="20250331230000 +0000" channel="Zee Cinema">
         <title>Kisi Ka Bhai Kisi Ki Jaan</title>
     </programme>
-    <programme start="20250331230000 +0000" stop="20250401020000 +0000" channel="Zee Cinema">
+    <programme start="20250331230000 +0000" stop="20250401001000 +0000" channel="Zee Cinema">
+        <title>Trimurti</title>
+    </programme>
+    <programme start="20250401001000 +0000" stop="20250401012500 +0000" channel="Zee Cinema">
+        <title>Pure Bollywood</title>
+    </programme>
+    <programme start="20250401012500 +0000" stop="20250401020000 +0000" channel="Zee Cinema">
         <title>Trimurti</title>
     </programme>
     <programme start="20250401020000 +0000" stop="20250401050000 +0000" channel="Zee Cinema">
         <title>Shirdi Ke Sai Baba</title>
     </programme>
-    <programme start="20250401050000 +0000" stop="20250401080000 +0000" channel="Zee Cinema">
+    <programme start="20250401050000 +0000" stop="20250401063000 +0000" channel="Zee Cinema">
         <title>Chori Chori Chupke Chupke</title>
     </programme>
-    <programme start="20250401080000 +0000" stop="20250401110000 +0000" channel="Zee Cinema">
+    <programme start="20250401063000 +0000" stop="20250401080000 +0000" channel="Zee Cinema">
         <title>April Fool</title>
+    </programme>
+    <programme start="20250401080000 +0000" stop="20250401100000 +0000" channel="Zee Cinema">
+        <title>April Fool</title>
+    </programme>
+    <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Zee Cinema">
+        <title>Dono</title>
     </programme>
     <programme start="20250401110000 +0000" stop="20250401140000 +0000" channel="Zee Cinema">
         <title>Dono</title>
@@ -26136,8 +26148,11 @@
     <programme start="20250401170000 +0000" stop="20250401200000 +0000" channel="Zee Cinema">
         <title>Mrs. Chatterjee Vs Norway</title>
     </programme>
-    <programme start="20250401200000 +0000" stop="20250401210000 +0000" channel="Zee Cinema">
+    <programme start="20250401200000 +0000" stop="20250401220000 +0000" channel="Zee Cinema">
         <title>Kakuda</title>
+    </programme>
+    <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Zee Cinema">
+        <title>Cheeni Kum</title>
     </programme>
     <programme start="20250331213000 +0000" stop="20250331220000 +0000" channel="MATV National">
         <title>Pakistan Reporter</title>
@@ -27490,7 +27505,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250401120500 +0000" stop="20250401130000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+        <title>ISPR Show</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27520,13 +27535,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250401170500 +0000" stop="20250401180000 +0000" channel="New Vision TV">
-        <title>Off The Record Eid</title>
+        <title>Yaad-e-Rafta</title>
     </programme>
     <programme start="20250401180000 +0000" stop="20250401180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250401180500 +0000" stop="20250401190000 +0000" channel="New Vision TV">
-        <title>Eid Hungama</title>
+        <title>Sara Aam Eid</title>
     </programme>
     <programme start="20250401190000 +0000" stop="20250401190500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27544,7 +27559,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250401210500 +0000" stop="20250401220000 +0000" channel="New Vision TV">
-        <title>Andaz Apna Apna</title>
+        <title>Khabar with M. Malick K Saath</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -28734,8 +28749,11 @@
     <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401121300 +0000" channel="Eman Channel">
+    <programme start="20250401120000 +0000" stop="20250401120900 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
+    </programme>
+    <programme start="20250401120900 +0000" stop="20250401121300 +0000" channel="Eman Channel">
+        <title>Dhuhr Adhan</title>
     </programme>
     <programme start="20250401121300 +0000" stop="20250401130000 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
