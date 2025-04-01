@@ -28323,74 +28323,41 @@
     <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250401220000 +0000" stop="20250401223000 +0000" channel="Madani Chnl">
+    <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Madani Chnl">
         <title>Ameer e Ahle Sunnat Aur Sadaat</title>
-    </programme>
-    <programme start="20250401223000 +0000" stop="20250401230000 +0000" channel="Madani Chnl">
-        <title>News of Dawat-e-Islami</title>
     </programme>
     <programme start="20250401230000 +0000" stop="20250401233000 +0000" channel="Madani Chnl">
         <title>Post Ramadan Reminders</title>
     </programme>
-    <programme start="20250401233000 +0000" stop="20250402000000 +0000" channel="Madani Chnl">
+    <programme start="20250401233000 +0000" stop="20250402010000 +0000" channel="Madani Chnl">
         <title>The Joy of Eid</title>
     </programme>
-    <programme start="20250402000000 +0000" stop="20250402010000 +0000" channel="Madani Chnl">
-        <title>Islah e A'amaal</title>
-    </programme>
-    <programme start="20250402010000 +0000" stop="20250402013000 +0000" channel="Madani Chnl">
+    <programme start="20250402010000 +0000" stop="20250402014500 +0000" channel="Madani Chnl">
         <title>Days of Celebration and Reflection</title>
     </programme>
-    <programme start="20250402013000 +0000" stop="20250402014500 +0000" channel="Madani Chnl">
-        <title>This is a Sunnah Too</title>
-    </programme>
-    <programme start="20250402014500 +0000" stop="20250402020000 +0000" channel="Madani Chnl">
+    <programme start="20250402014500 +0000" stop="20250402023000 +0000" channel="Madani Chnl">
         <title>Podcast With Abdul Habib Attari</title>
     </programme>
-    <programme start="20250402020000 +0000" stop="20250402023000 +0000" channel="Madani Chnl">
-        <title>Rise and Shine</title>
-    </programme>
-    <programme start="20250402023000 +0000" stop="20250402030000 +0000" channel="Madani Chnl">
+    <programme start="20250402023000 +0000" stop="20250402033000 +0000" channel="Madani Chnl">
         <title>Bachon Ki Eid</title>
     </programme>
-    <programme start="20250402030000 +0000" stop="20250402033000 +0000" channel="Madani Chnl">
-        <title>Reformation of Ummah</title>
-    </programme>
-    <programme start="20250402033000 +0000" stop="20250402040000 +0000" channel="Madani Chnl">
+    <programme start="20250402033000 +0000" stop="20250402050000 +0000" channel="Madani Chnl">
         <title>Path to Success</title>
-    </programme>
-    <programme start="20250402040000 +0000" stop="20250402043000 +0000" channel="Madani Chnl">
-        <title>The Challenges of Youth</title>
-    </programme>
-    <programme start="20250402043000 +0000" stop="20250402050000 +0000" channel="Madani Chnl">
-        <title>Islam And Our Life</title>
     </programme>
     <programme start="20250402050000 +0000" stop="20250402053000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250402053000 +0000" stop="20250402060000 +0000" channel="Madani Chnl">
+    <programme start="20250402053000 +0000" stop="20250402063000 +0000" channel="Madani Chnl">
         <title>The Early Echo</title>
     </programme>
-    <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="Madani Chnl">
-        <title>Hamara Islam</title>
-    </programme>
-    <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="Madani Chnl">
+    <programme start="20250402063000 +0000" stop="20250402073000 +0000" channel="Madani Chnl">
         <title>The Days of Gratitude</title>
     </programme>
-    <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="Madani Chnl">
-        <title>News of Dawat-e-Islami</title>
-    </programme>
-    <programme start="20250402073000 +0000" stop="20250402083000 +0000" channel="Madani Chnl">
+    <programme start="20250402073000 +0000" stop="20250402090000 +0000" channel="Madani Chnl">
         <title>Rise and Shine</title>
     </programme>
-    <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="Madani Chnl">
-        <title>Rise and Shine</title>
-    </programme>
-    <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="Madani Chnl">
+    <programme start="20250402090000 +0000" stop="20250402103000 +0000" channel="Madani Chnl">
         <title>The Joy of Eid</title>
-    </programme>
-    <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="Madani Chnl">
-        <title>Madani Muzakara</title>
     </programme>
     <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Madani Chnl">
         <title>Post Ramadan Reminders</title>
@@ -28398,65 +28365,29 @@
     <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="Madani Chnl">
         <title>Blissful Eid</title>
     </programme>
-    <programme start="20250402113000 +0000" stop="20250402123000 +0000" channel="Madani Chnl">
+    <programme start="20250402113000 +0000" stop="20250402131500 +0000" channel="Madani Chnl">
         <title>Islamic Festive Season</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402131500 +0000" channel="Madani Chnl">
-        <title>Treasures of Wisdom</title>
-    </programme>
-    <programme start="20250402131500 +0000" stop="20250402133000 +0000" channel="Madani Chnl">
+    <programme start="20250402131500 +0000" stop="20250402141500 +0000" channel="Madani Chnl">
         <title>I Love Islam</title>
     </programme>
-    <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="Madani Chnl">
-        <title>The Mercy of Allah Almighty</title>
-    </programme>
-    <programme start="20250402140000 +0000" stop="20250402141500 +0000" channel="Madani Chnl">
-        <title>Adaab e Zindagi</title>
-    </programme>
-    <programme start="20250402141500 +0000" stop="20250402150000 +0000" channel="Madani Chnl">
+    <programme start="20250402141500 +0000" stop="20250402151500 +0000" channel="Madani Chnl">
         <title>Kid's Eid</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402151500 +0000" channel="Madani Chnl">
-        <title>News of Dawat-e-Islami</title>
-    </programme>
-    <programme start="20250402151500 +0000" stop="20250402153000 +0000" channel="Madani Chnl">
+    <programme start="20250402151500 +0000" stop="20250402183000 +0000" channel="Madani Chnl">
         <title>Jaan Hain Wo Jahan Ki</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="Madani Chnl">
-        <title>The Majestic Prophet</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="Madani Chnl">
-        <title>Aik Teen Panch</title>
-    </programme>
-    <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="Madani Chnl">
-        <title>The Light of Guidance</title>
-    </programme>
-    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="Madani Chnl">
-        <title>Spiritual Cures</title>
-    </programme>
-    <programme start="20250402183000 +0000" stop="20250402190000 +0000" channel="Madani Chnl">
+    <programme start="20250402183000 +0000" stop="20250402203000 +0000" channel="Madani Chnl">
         <title>Blessings of Eid-ul-Fitr</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="Madani Chnl">
-        <title>Sunnah Inspired Bayan</title>
-    </programme>
-    <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="Madani Chnl">
-        <title>Islam and Science</title>
-    </programme>
-    <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="Madani Chnl">
+    <programme start="20250402203000 +0000" stop="20250402213000 +0000" channel="Madani Chnl">
         <title>Faith And Festivity</title>
-    </programme>
-    <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="Madani Chnl">
-        <title>Invitation to virtue</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="Madani Chnl">
+    <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="Madani Chnl">
         <title>Special People's Eid with Attar</title>
-    </programme>
-    <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="Madani Chnl">
-        <title>News of Dawat-e-Islami</title>
     </programme>
     <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="Eman Channel">
         <title>The Waz And Nav Show</title>
