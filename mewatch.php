@@ -360,7 +360,7 @@
     <programme start="20250401150000 +0000" stop="20250401153000 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250401153000 +0000" stop="20250401163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250401153000 +0000" stop="20250401162707 +0000" channel="Channel U.mewatch">
         <title>Hi! Let&#039;s Go S2 - EP 1</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331180000 +0000" channel="Suria.mewatch">
