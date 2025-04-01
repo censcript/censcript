@@ -16444,7 +16444,7 @@
         <title>News Live</title>
     </programme>
     <programme start="20250401093000 +0000" stop="20250401100000 +0000" channel="Al Jazeera HD">
-        <title>The Listening Post</title>
+        <title>This is Al Jazeera Eng HD</title>
     </programme>
     <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Al Jazeera HD">
         <title>Newshour</title>
@@ -25563,8 +25563,11 @@
     <programme start="20250401104200 +0000" stop="20250401120900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401120900 +0000" stop="20250401130600 +0000" channel="SONY TV HD">
+    <programme start="20250401120900 +0000" stop="20250401130500 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250401130500 +0000" stop="20250401130600 +0000" channel="SONY TV HD">
+        <title>CID</title>
     </programme>
     <programme start="20250401130600 +0000" stop="20250401135800 +0000" channel="SONY TV HD">
         <title>CID</title>
@@ -25575,7 +25578,10 @@
     <programme start="20250401145800 +0000" stop="20250401152800 +0000" channel="SONY TV HD">
         <title>Flavours Of Ramadan 2025</title>
     </programme>
-    <programme start="20250401152800 +0000" stop="20250401165700 +0000" channel="SONY TV HD">
+    <programme start="20250401152800 +0000" stop="20250401152900 +0000" channel="SONY TV HD">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401152900 +0000" stop="20250401165700 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250401165700 +0000" stop="20250401173000 +0000" channel="SONY TV HD">
@@ -25584,19 +25590,34 @@
     <programme start="20250401173000 +0000" stop="20250401175900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250401175900 +0000" stop="20250401190000 +0000" channel="SONY TV HD">
+    <programme start="20250401175900 +0000" stop="20250401180000 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250401190000 +0000" stop="20250401202700 +0000" channel="SONY TV HD">
+    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="SONY TV HD">
+        <title>Radhika Dil Se</title>
+    </programme>
+    <programme start="20250401190000 +0000" stop="20250401190100 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401202700 +0000" stop="20250401212700 +0000" channel="SONY TV HD">
+    <programme start="20250401190100 +0000" stop="20250401202700 +0000" channel="SONY TV HD">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401202700 +0000" stop="20250401202800 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250401212700 +0000" stop="20250401225400 +0000" channel="SONY TV HD">
+    <programme start="20250401202800 +0000" stop="20250401212700 +0000" channel="SONY TV HD">
+        <title>C.i.d. - 2024</title>
+    </programme>
+    <programme start="20250401212700 +0000" stop="20250401212800 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401225400 +0000" stop="20250401235400 +0000" channel="SONY TV HD">
+    <programme start="20250401212800 +0000" stop="20250401225400 +0000" channel="SONY TV HD">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401225400 +0000" stop="20250401225500 +0000" channel="SONY TV HD">
+        <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250331203000 +0000" stop="20250331223000 +0000" channel="Utsav Bharat">
@@ -26121,34 +26142,25 @@
     <programme start="20250401001000 +0000" stop="20250401012500 +0000" channel="Zee Cinema">
         <title>Pure Bollywood</title>
     </programme>
-    <programme start="20250401012500 +0000" stop="20250401020000 +0000" channel="Zee Cinema">
+    <programme start="20250401012500 +0000" stop="20250401050000 +0000" channel="Zee Cinema">
         <title>Trimurti</title>
     </programme>
-    <programme start="20250401020000 +0000" stop="20250401050000 +0000" channel="Zee Cinema">
-        <title>Shirdi Ke Sai Baba</title>
-    </programme>
     <programme start="20250401050000 +0000" stop="20250401063000 +0000" channel="Zee Cinema">
-        <title>Chori Chori Chupke Chupke</title>
+        <title>Bhoot Returns</title>
     </programme>
-    <programme start="20250401063000 +0000" stop="20250401080000 +0000" channel="Zee Cinema">
+    <programme start="20250401063000 +0000" stop="20250401100000 +0000" channel="Zee Cinema">
         <title>April Fool</title>
     </programme>
-    <programme start="20250401080000 +0000" stop="20250401100000 +0000" channel="Zee Cinema">
-        <title>April Fool</title>
-    </programme>
-    <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Zee Cinema">
+    <programme start="20250401100000 +0000" stop="20250401131500 +0000" channel="Zee Cinema">
         <title>Dono</title>
     </programme>
-    <programme start="20250401110000 +0000" stop="20250401140000 +0000" channel="Zee Cinema">
-        <title>Dono</title>
-    </programme>
-    <programme start="20250401140000 +0000" stop="20250401170000 +0000" channel="Zee Cinema">
+    <programme start="20250401131500 +0000" stop="20250401170000 +0000" channel="Zee Cinema">
         <title>Mughal-E-Azam</title>
     </programme>
-    <programme start="20250401170000 +0000" stop="20250401200000 +0000" channel="Zee Cinema">
+    <programme start="20250401170000 +0000" stop="20250401194500 +0000" channel="Zee Cinema">
         <title>Mrs. Chatterjee Vs Norway</title>
     </programme>
-    <programme start="20250401200000 +0000" stop="20250401220000 +0000" channel="Zee Cinema">
+    <programme start="20250401194500 +0000" stop="20250401220000 +0000" channel="Zee Cinema">
         <title>Kakuda</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="Zee Cinema">
@@ -28008,7 +28020,10 @@
     <programme start="20250401140000 +0000" stop="20250401141200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250401141200 +0000" stop="20250401150000 +0000" channel="IQRA TV">
+    <programme start="20250401141200 +0000" stop="20250401143400 +0000" channel="IQRA TV">
+        <title>Eid-ul-Fitr with Iqra</title>
+    </programme>
+    <programme start="20250401143400 +0000" stop="20250401150000 +0000" channel="IQRA TV">
         <title>Eid-ul-Fitr with Iqra</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401150500 +0000" channel="IQRA TV">
@@ -28027,16 +28042,16 @@
         <title>Asr Azan</title>
     </programme>
     <programme start="20250401163700 +0000" stop="20250401170000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401170500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250401170500 +0000" stop="20250401173000 +0000" channel="IQRA TV">
-        <title>Eid with Iqra</title>
+        <title>Two White Muslims Eid Special</title>
     </programme>
     <programme start="20250401173000 +0000" stop="20250401180000 +0000" channel="IQRA TV">
-        <title>Eid-ul-Fitr with Iqra</title>
+        <title>Two White Muslims Eid Special</title>
     </programme>
     <programme start="20250401180000 +0000" stop="20250401181200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -28054,10 +28069,10 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250401190500 +0000" stop="20250401193000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Eid with Iqra</title>
     </programme>
     <programme start="20250401193000 +0000" stop="20250401200000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Eid-ul-Fitr with Iqra</title>
     </programme>
     <programme start="20250401200000 +0000" stop="20250401200900 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -28066,7 +28081,7 @@
         <title>Isha Azan</title>
     </programme>
     <programme start="20250401201400 +0000" stop="20250401201800 +0000" channel="IQRA TV">
-        <title>Iqra News</title>
+        <title>Eid with IQRA</title>
     </programme>
     <programme start="20250401201800 +0000" stop="20250401210000 +0000" channel="IQRA TV">
         <title>Eid ul Fitr with Iqra</title>
@@ -29884,7 +29899,7 @@
         <title>Maa Amar Maa</title>
     </programme>
     <programme start="20250401190000 +0000" stop="20250401193000 +0000" channel="IQRA Bangla">
-        <title>Iqra Bangla News</title>
+        <title>Al-Khair Feedback</title>
     </programme>
     <programme start="20250401193000 +0000" stop="20250401195400 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
@@ -34773,8 +34788,11 @@
     <programme start="20250401104200 +0000" stop="20250401120900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401120900 +0000" stop="20250401130600 +0000" channel="SONY TV">
+    <programme start="20250401120900 +0000" stop="20250401130500 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250401130500 +0000" stop="20250401130600 +0000" channel="SONY TV">
+        <title>CID</title>
     </programme>
     <programme start="20250401130600 +0000" stop="20250401135800 +0000" channel="SONY TV">
         <title>CID</title>
@@ -34785,7 +34803,10 @@
     <programme start="20250401145800 +0000" stop="20250401152800 +0000" channel="SONY TV">
         <title>Flavours Of Ramadan 2025</title>
     </programme>
-    <programme start="20250401152800 +0000" stop="20250401165700 +0000" channel="SONY TV">
+    <programme start="20250401152800 +0000" stop="20250401152900 +0000" channel="SONY TV">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401152900 +0000" stop="20250401165700 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250401165700 +0000" stop="20250401173000 +0000" channel="SONY TV">
@@ -34794,19 +34815,34 @@
     <programme start="20250401173000 +0000" stop="20250401175900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250401175900 +0000" stop="20250401190000 +0000" channel="SONY TV">
+    <programme start="20250401175900 +0000" stop="20250401180000 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250401190000 +0000" stop="20250401202700 +0000" channel="SONY TV">
+    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="SONY TV">
+        <title>Radhika Dil Se</title>
+    </programme>
+    <programme start="20250401190000 +0000" stop="20250401190100 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401202700 +0000" stop="20250401212700 +0000" channel="SONY TV">
+    <programme start="20250401190100 +0000" stop="20250401202700 +0000" channel="SONY TV">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401202700 +0000" stop="20250401202800 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250401212700 +0000" stop="20250401225400 +0000" channel="SONY TV">
+    <programme start="20250401202800 +0000" stop="20250401212700 +0000" channel="SONY TV">
+        <title>C.i.d. - 2024</title>
+    </programme>
+    <programme start="20250401212700 +0000" stop="20250401212800 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401225400 +0000" stop="20250401235400 +0000" channel="SONY TV">
+    <programme start="20250401212800 +0000" stop="20250401225400 +0000" channel="SONY TV">
+        <title>Shark Tank India - 2025</title>
+    </programme>
+    <programme start="20250401225400 +0000" stop="20250401225500 +0000" channel="SONY TV">
+        <title>Crime Patrol - Tez</title>
+    </programme>
+    <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250331213000 +0000" stop="20250331220000 +0000" channel="Utsav Plus">
