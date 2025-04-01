@@ -11461,7 +11461,7 @@
         <title>This is LegendXtra</title>
     </programme>
     <programme start="20250401235000 +0000" stop="20250402000000 +0000" channel="LEGEND XTRA">
-        <title>This is LegendXtra</title>
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402000000 +0000" stop="20250402002000 +0000" channel="LEGEND XTRA">
         <title>Red Rock West</title>
@@ -11508,8 +11508,11 @@
     <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
     </programme>
-    <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="LEGEND XTRA">
+    <programme start="20250402063000 +0000" stop="20250402065000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
+    </programme>
+    <programme start="20250402065000 +0000" stop="20250402070000 +0000" channel="LEGEND XTRA">
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="LEGEND XTRA">
         <title>The Curse Of King Tut</title>
@@ -11520,8 +11523,11 @@
     <programme start="20250402080000 +0000" stop="20250402083000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
     </programme>
-    <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="LEGEND XTRA">
+    <programme start="20250402083000 +0000" stop="20250402085000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
+    </programme>
+    <programme start="20250402085000 +0000" stop="20250402090000 +0000" channel="LEGEND XTRA">
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402090000 +0000" stop="20250402093000 +0000" channel="LEGEND XTRA">
         <title>Farscape</title>
@@ -11538,8 +11544,11 @@
     <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
     </programme>
-    <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="LEGEND XTRA">
+    <programme start="20250402113000 +0000" stop="20250402115000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
+    </programme>
+    <programme start="20250402115000 +0000" stop="20250402120000 +0000" channel="LEGEND XTRA">
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402123000 +0000" channel="LEGEND XTRA">
         <title>The Curse Of King Tut</title>
@@ -11550,8 +11559,11 @@
     <programme start="20250402130000 +0000" stop="20250402133000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
     </programme>
-    <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="LEGEND XTRA">
+    <programme start="20250402133000 +0000" stop="20250402135000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
+    </programme>
+    <programme start="20250402135000 +0000" stop="20250402140000 +0000" channel="LEGEND XTRA">
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="LEGEND XTRA">
         <title>Farscape</title>
@@ -11560,7 +11572,7 @@
         <title>This is LegendXtra</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402153000 +0000" channel="LEGEND XTRA">
-        <title>This is LegendXtra</title>
+        <title>Star Trek - The Original Series</title>
     </programme>
     <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
@@ -11574,8 +11586,11 @@
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
     </programme>
-    <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="LEGEND XTRA">
+    <programme start="20250402173000 +0000" stop="20250402175000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
+    </programme>
+    <programme start="20250402175000 +0000" stop="20250402180000 +0000" channel="LEGEND XTRA">
+        <title>This is Legend Xtra</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="LEGEND XTRA">
         <title>Farscape</title>
@@ -11584,7 +11599,7 @@
         <title>This is LegendXtra</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="LEGEND XTRA">
-        <title>This is LegendXtra</title>
+        <title>Star Trek - The Original Series</title>
     </programme>
     <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="LEGEND XTRA">
         <title>This is LegendXtra</title>
@@ -12660,11 +12675,8 @@
     <programme start="20250402140000 +0000" stop="20250402184000 +0000" channel="MTV 80s">
         <title>1986 Wrapped!</title>
     </programme>
-    <programme start="20250402184000 +0000" stop="20250402190000 +0000" channel="MTV 80s">
+    <programme start="20250402184000 +0000" stop="20250402200000 +0000" channel="MTV 80s">
         <title>I Want My MTV 80s!</title>
-    </programme>
-    <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="MTV 80s">
-        <title>Guess The Year</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="MTV 80s">
         <title>50 Heartwarming Hits!</title>
@@ -15060,8 +15072,17 @@
     <programme start="20250402050000 +0000" stop="20250402060000 +0000" channel="BBC Parl HD">
         <title>Foreign, Commonwealth and...</title>
     </programme>
-    <programme start="20250402060000 +0000" stop="20250402081500 +0000" channel="BBC Parl HD">
+    <programme start="20250402060000 +0000" stop="20250402061500 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
+    </programme>
+    <programme start="20250402061500 +0000" stop="20250402064500 +0000" channel="BBC Parl HD">
+        <title>Bosnia-Herzegovina Urgent Question</title>
+    </programme>
+    <programme start="20250402064500 +0000" stop="20250402072000 +0000" channel="BBC Parl HD">
+        <title>Birmingham City Council Statement</title>
+    </programme>
+    <programme start="20250402072000 +0000" stop="20250402081500 +0000" channel="BBC Parl HD">
+        <title>Sentencing Council Guidelines Statement</title>
     </programme>
     <programme start="20250402081500 +0000" stop="20250402103000 +0000" channel="BBC Parl HD">
         <title>Live Transport Committee on Heathrow Disruption</title>
@@ -18106,7 +18127,7 @@
         <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250402071500 +0000" stop="20250402081500 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
+        <title>Living the Liturgy: Clear Creek Monastery</title>
     </programme>
     <programme start="20250402081500 +0000" stop="20250402083000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
@@ -24064,7 +24085,7 @@
         <title>Great Value Jewellery</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Type A Burmese Jadeite</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402130000 +0000" channel="Gems TV">
         <title>Huge Jewellery Savings</title>
@@ -24079,10 +24100,10 @@
         <title>Gemporia Jewellery</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="Gems TV">
-        <title>Type A Burmese Jadeite with Dave Troth</title>
+        <title>Platinum Jewellery</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>2 for 1 Deals</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="Gems TV">
         <title>Kimbie Home: Easter Bunny</title>
@@ -26419,7 +26440,7 @@
         <title>LOC: Kargil</title>
     </programme>
     <programme start="20250402040000 +0000" stop="20250402050000 +0000" channel="Utsav Gold HD">
-        <title>Koffee With Karan S02</title>
+        <title>Koffee With Karan</title>
     </programme>
     <programme start="20250402050000 +0000" stop="20250402063000 +0000" channel="Utsav Gold HD">
         <title>Bal Hanuman 2</title>
@@ -26439,10 +26460,10 @@
     <programme start="20250402170000 +0000" stop="20250402200000 +0000" channel="Utsav Gold HD">
         <title>Golmaal - Fun Unlimited</title>
     </programme>
-    <programme start="20250402200000 +0000" stop="20250402224500 +0000" channel="Utsav Gold HD">
+    <programme start="20250402200000 +0000" stop="20250402224600 +0000" channel="Utsav Gold HD">
         <title>De De Pyaar De</title>
     </programme>
-    <programme start="20250402224500 +0000" stop="20250402234500 +0000" channel="Utsav Gold HD">
+    <programme start="20250402224600 +0000" stop="20250402234600 +0000" channel="Utsav Gold HD">
         <title>Total Dhamaal</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250402002400 +0000" channel="SONY SAB">
@@ -28380,11 +28401,8 @@
     <programme start="20250402122500 +0000" stop="20250402123100 +0000" channel="Islam Ch Urdu">
         <title>Tilawat e Quran</title>
     </programme>
-    <programme start="20250402123100 +0000" stop="20250402124500 +0000" channel="Islam Ch Urdu">
+    <programme start="20250402123100 +0000" stop="20250402130000 +0000" channel="Islam Ch Urdu">
         <title>Zaiqe ki Baat</title>
-    </programme>
-    <programme start="20250402124500 +0000" stop="20250402130000 +0000" channel="Islam Ch Urdu">
-        <title>Live Prayers from Madina: Maghrib</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402130700 +0000" channel="Islam Ch Urdu">
         <title>Khubsurat Masajid</title>
@@ -28491,74 +28509,107 @@
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="Islam Ch Urdu">
         <title>Documentary - Safar e Muqaddas</title>
     </programme>
-    <programme start="20250401213000 +0000" stop="20250401223000 +0000" channel="Madani Chnl">
-        <title>Madani Muzakara</title>
+    <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="Madani Chnl">
+        <title>News of Dawat-e-Islami</title>
+    </programme>
+    <programme start="20250401220000 +0000" stop="20250401223000 +0000" channel="Madani Chnl">
+        <title>Ameer e Ahle Sunnat Aur Sadaat</title>
     </programme>
     <programme start="20250401223000 +0000" stop="20250401230000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
-    <programme start="20250401230000 +0000" stop="20250402000000 +0000" channel="Madani Chnl">
-        <title>The Early Echo</title>
+    <programme start="20250401230000 +0000" stop="20250401233000 +0000" channel="Madani Chnl">
+        <title>Post Ramadan Reminders</title>
+    </programme>
+    <programme start="20250401233000 +0000" stop="20250402000000 +0000" channel="Madani Chnl">
+        <title>The Joy of Eid</title>
     </programme>
     <programme start="20250402000000 +0000" stop="20250402010000 +0000" channel="Madani Chnl">
         <title>Islah e A'amaal</title>
     </programme>
     <programme start="20250402010000 +0000" stop="20250402013000 +0000" channel="Madani Chnl">
-        <title>The Clear Criterion</title>
+        <title>Days of Celebration and Reflection</title>
     </programme>
-    <programme start="20250402013000 +0000" stop="20250402020000 +0000" channel="Madani Chnl">
+    <programme start="20250402013000 +0000" stop="20250402014500 +0000" channel="Madani Chnl">
         <title>This is a Sunnah Too</title>
     </programme>
-    <programme start="20250402020000 +0000" stop="20250402030000 +0000" channel="Madani Chnl">
+    <programme start="20250402014500 +0000" stop="20250402020000 +0000" channel="Madani Chnl">
+        <title>Podcast With Abdul Habib Attari</title>
+    </programme>
+    <programme start="20250402020000 +0000" stop="20250402023000 +0000" channel="Madani Chnl">
         <title>Rise and Shine</title>
     </programme>
-    <programme start="20250402030000 +0000" stop="20250402040000 +0000" channel="Madani Chnl">
+    <programme start="20250402023000 +0000" stop="20250402030000 +0000" channel="Madani Chnl">
+        <title>Bachon Ki Eid</title>
+    </programme>
+    <programme start="20250402030000 +0000" stop="20250402033000 +0000" channel="Madani Chnl">
         <title>Reformation of Ummah</title>
+    </programme>
+    <programme start="20250402033000 +0000" stop="20250402040000 +0000" channel="Madani Chnl">
+        <title>Path to Success</title>
     </programme>
     <programme start="20250402040000 +0000" stop="20250402043000 +0000" channel="Madani Chnl">
         <title>The Challenges of Youth</title>
     </programme>
-    <programme start="20250402043000 +0000" stop="20250402053000 +0000" channel="Madani Chnl">
+    <programme start="20250402043000 +0000" stop="20250402050000 +0000" channel="Madani Chnl">
         <title>Islam And Our Life</title>
     </programme>
+    <programme start="20250402050000 +0000" stop="20250402053000 +0000" channel="Madani Chnl">
+        <title>News of Dawat-e-Islami</title>
+    </programme>
     <programme start="20250402053000 +0000" stop="20250402060000 +0000" channel="Madani Chnl">
-        <title>True Prophetic Love</title>
+        <title>The Early Echo</title>
     </programme>
     <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="Madani Chnl">
         <title>Hamara Islam</title>
     </programme>
     <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="Madani Chnl">
-        <title>Bachay Aur Baray</title>
+        <title>The Days of Gratitude</title>
     </programme>
     <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
     </programme>
     <programme start="20250402073000 +0000" stop="20250402083000 +0000" channel="Madani Chnl">
-        <title>The Early Echo</title>
-    </programme>
-    <programme start="20250402083000 +0000" stop="20250402100000 +0000" channel="Madani Chnl">
         <title>Rise and Shine</title>
     </programme>
-    <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="Madani Chnl">
+    <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="Madani Chnl">
+        <title>Rise and Shine</title>
+    </programme>
+    <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="Madani Chnl">
+        <title>The Joy of Eid</title>
+    </programme>
+    <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="Madani Chnl">
         <title>Madani Muzakara</title>
     </programme>
+    <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Madani Chnl">
+        <title>Post Ramadan Reminders</title>
+    </programme>
     <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="Madani Chnl">
-        <title>A Journey To Some Countries</title>
+        <title>Blissful Eid</title>
     </programme>
     <programme start="20250402113000 +0000" stop="20250402123000 +0000" channel="Madani Chnl">
-        <title>Yesterday, Today &amp; Tommorow</title>
+        <title>Islamic Festive Season</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402133000 +0000" channel="Madani Chnl">
+    <programme start="20250402123000 +0000" stop="20250402131500 +0000" channel="Madani Chnl">
         <title>Treasures of Wisdom</title>
+    </programme>
+    <programme start="20250402131500 +0000" stop="20250402133000 +0000" channel="Madani Chnl">
+        <title>I Love Islam</title>
     </programme>
     <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="Madani Chnl">
         <title>The Mercy of Allah Almighty</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="Madani Chnl">
+    <programme start="20250402140000 +0000" stop="20250402141500 +0000" channel="Madani Chnl">
         <title>Adaab e Zindagi</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402153000 +0000" channel="Madani Chnl">
+    <programme start="20250402141500 +0000" stop="20250402150000 +0000" channel="Madani Chnl">
+        <title>Kid's Eid</title>
+    </programme>
+    <programme start="20250402150000 +0000" stop="20250402151500 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
+    </programme>
+    <programme start="20250402151500 +0000" stop="20250402153000 +0000" channel="Madani Chnl">
+        <title>Jaan Hain Wo Jahan Ki</title>
     </programme>
     <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="Madani Chnl">
         <title>The Majestic Prophet</title>
@@ -28569,20 +28620,29 @@
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="Madani Chnl">
         <title>The Light of Guidance</title>
     </programme>
-    <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="Madani Chnl">
+    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="Madani Chnl">
         <title>Spiritual Cures</title>
+    </programme>
+    <programme start="20250402183000 +0000" stop="20250402190000 +0000" channel="Madani Chnl">
+        <title>Blessings of Eid-ul-Fitr</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="Madani Chnl">
         <title>Sunnah Inspired Bayan</title>
     </programme>
-    <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="Madani Chnl">
+    <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="Madani Chnl">
         <title>Islam and Science</title>
+    </programme>
+    <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="Madani Chnl">
+        <title>Faith And Festivity</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="Madani Chnl">
         <title>Invitation to virtue</title>
     </programme>
-    <programme start="20250402213000 +0000" stop="20250402223000 +0000" channel="Madani Chnl">
-        <title>Bayan of Ameer e Ahlesunnat</title>
+    <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="Madani Chnl">
+        <title>News of Dawat-e-Islami</title>
+    </programme>
+    <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="Madani Chnl">
+        <title>Special People's Eid with Attar</title>
     </programme>
     <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="Madani Chnl">
         <title>News of Dawat-e-Islami</title>
@@ -30402,11 +30462,8 @@
     <programme start="20250402100000 +0000" stop="20250402101700 +0000" channel="Islam Bangla">
         <title>Darse Hadith</title>
     </programme>
-    <programme start="20250402101700 +0000" stop="20250402102200 +0000" channel="Islam Bangla">
+    <programme start="20250402101700 +0000" stop="20250402103000 +0000" channel="Islam Bangla">
         <title>Dhuhr Adhan</title>
-    </programme>
-    <programme start="20250402102200 +0000" stop="20250402103000 +0000" channel="Islam Bangla">
-        <title>Islamic Story</title>
     </programme>
     <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Islam Bangla">
         <title>Special Drama: MUAZZIN</title>
@@ -30444,11 +30501,8 @@
     <programme start="20250402131500 +0000" stop="20250402131600 +0000" channel="Islam Bangla">
         <title>Riyad-us-Saliheen</title>
     </programme>
-    <programme start="20250402131600 +0000" stop="20250402132800 +0000" channel="Islam Bangla">
+    <programme start="20250402131600 +0000" stop="20250402133000 +0000" channel="Islam Bangla">
         <title>Riyad-us-Saliheen</title>
-    </programme>
-    <programme start="20250402132800 +0000" stop="20250402133000 +0000" channel="Islam Bangla">
-        <title>Live Makkah Maghrib Prayers</title>
     </programme>
     <programme start="20250402133000 +0000" stop="20250402134100 +0000" channel="Islam Bangla">
         <title>Special Drama: Digital Zakat</title>
@@ -34990,7 +35044,7 @@
         <title>LOC: Kargil</title>
     </programme>
     <programme start="20250402040000 +0000" stop="20250402050000 +0000" channel="Utsav Gold">
-        <title>Koffee With Karan S02</title>
+        <title>Koffee With Karan</title>
     </programme>
     <programme start="20250402050000 +0000" stop="20250402063000 +0000" channel="Utsav Gold">
         <title>Bal Hanuman 2</title>
@@ -35010,10 +35064,10 @@
     <programme start="20250402170000 +0000" stop="20250402200000 +0000" channel="Utsav Gold">
         <title>Golmaal - Fun Unlimited</title>
     </programme>
-    <programme start="20250402200000 +0000" stop="20250402224500 +0000" channel="Utsav Gold">
+    <programme start="20250402200000 +0000" stop="20250402224600 +0000" channel="Utsav Gold">
         <title>De De Pyaar De</title>
     </programme>
-    <programme start="20250402224500 +0000" stop="20250402234500 +0000" channel="Utsav Gold">
+    <programme start="20250402224600 +0000" stop="20250402234600 +0000" channel="Utsav Gold">
         <title>Total Dhamaal</title>
     </programme>
     <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="Zee TV">
