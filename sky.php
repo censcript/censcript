@@ -1839,8 +1839,11 @@
     <programme start="20250401114500 +0000" stop="20250401153000 +0000" channel="ITV4 HD">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250401153000 +0000" stop="20250401163500 +0000" channel="ITV4 HD">
+    <programme start="20250401153000 +0000" stop="20250401163000 +0000" channel="ITV4 HD">
         <title>Minder</title>
+    </programme>
+    <programme start="20250401163000 +0000" stop="20250401163500 +0000" channel="ITV4 HD">
+        <title>Nijinsky's Triple Crown</title>
     </programme>
     <programme start="20250401163500 +0000" stop="20250401174500 +0000" channel="ITV4 HD">
         <title>The Sweeney</title>
@@ -2659,7 +2662,7 @@
         <title>Lost Treasures Of Rome</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Nat Geo HD">
-        <title>Nazi Megastructures: America's War</title>
+        <title>Hitler's Final Offensive</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Nat Geo HD">
         <title>Car S.O.S</title>
@@ -8451,8 +8454,11 @@
     <programme start="20250401124500 +0000" stop="20250401163000 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250401163000 +0000" stop="20250401173500 +0000" channel="ITV4+1">
+    <programme start="20250401163000 +0000" stop="20250401173000 +0000" channel="ITV4+1">
         <title>Minder</title>
+    </programme>
+    <programme start="20250401173000 +0000" stop="20250401173500 +0000" channel="ITV4+1">
+        <title>Nijinsky's Triple Crown</title>
     </programme>
     <programme start="20250401173500 +0000" stop="20250401184500 +0000" channel="ITV4+1">
         <title>The Sweeney</title>
@@ -8884,7 +8890,7 @@
         <title>Lost Treasures Of Rome</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Nat Geo+1">
-        <title>Nazi Megastructures: America's War</title>
+        <title>Hitler's Final Offensive</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="Nat Geo+1">
         <title>Car S.O.S</title>
@@ -14523,13 +14529,7 @@
     <programme start="20250401110000 +0000" stop="20250401125500 +0000" channel="Premier 2 HD">
         <title>PSA Squash Tour: Semi-Final 1</title>
     </programme>
-    <programme start="20250401125500 +0000" stop="20250401130000 +0000" channel="Premier 2 HD">
-        <title>PSA Squash Tour</title>
-    </programme>
-    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="Premier 2 HD">
-        <title>PSA Squash Tour: Semi-Final 1</title>
-    </programme>
-    <programme start="20250401140000 +0000" stop="20250401144500 +0000" channel="Premier 2 HD">
+    <programme start="20250401125500 +0000" stop="20250401144500 +0000" channel="Premier 2 HD">
         <title>PSA Squash Tour</title>
     </programme>
     <programme start="20250401144500 +0000" stop="20250401160000 +0000" channel="Premier 2 HD">
@@ -15297,8 +15297,11 @@
     <programme start="20250401215000 +0000" stop="20250401223500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250401223500 +0000" stop="20250401233500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250401223500 +0000" stop="20250401225500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - National...</title>
+    </programme>
+    <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Hereditary Peers Bill, Part 1</title>
     </programme>
     <programme start="20250331213000 +0000" stop="20250331223000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -16444,7 +16447,7 @@
         <title>News Live</title>
     </programme>
     <programme start="20250401093000 +0000" stop="20250401100000 +0000" channel="Al Jazeera HD">
-        <title>This is Al Jazeera Eng HD</title>
+        <title>UpFront</title>
     </programme>
     <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Al Jazeera HD">
         <title>Newshour</title>
@@ -24136,13 +24139,13 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="QVC Beauty">
         <title>Molton Brown</title>
     </programme>
     <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="QVC Beauty">
-        <title>M. Asam Beauty Is Our Tradition</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="QVC Beauty">
         <title>Alison Young on Beauty Trends</title>
@@ -24226,7 +24229,7 @@
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="QVC Style HD">
-        <title>Garden Reflections</title>
+        <title>Garden Reflections at QVC</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="QVC Style HD">
         <title>Plants2Gardens</title>
@@ -24862,7 +24865,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="QVC Extra">
-        <title>Vionic Footwear</title>
+        <title>Vionic Footwear with FMT Technology</title>
     </programme>
     <programme start="20250401170000 +0000" stop="20250401180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24877,10 +24880,10 @@
         <title>YouGarden</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="QVC Extra">
-        <title>Ben de Lisi</title>
+        <title>Furniture &amp; Garden Savings</title>
     </programme>
     <programme start="20250401220000 +0000" stop="20250401230000 +0000" channel="QVC Extra">
-        <title>FireLight Lab Grown Diamonds</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250331213000 +0000" stop="20250331220000 +0000" channel="High Street TV 3">
         <title>nutribullet Blender Combo</title>
@@ -25566,20 +25569,14 @@
     <programme start="20250401120900 +0000" stop="20250401130500 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250401130500 +0000" stop="20250401130600 +0000" channel="SONY TV HD">
-        <title>CID</title>
-    </programme>
-    <programme start="20250401130600 +0000" stop="20250401135800 +0000" channel="SONY TV HD">
+    <programme start="20250401130500 +0000" stop="20250401135800 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
     <programme start="20250401135800 +0000" stop="20250401145800 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250401145800 +0000" stop="20250401152800 +0000" channel="SONY TV HD">
+    <programme start="20250401145800 +0000" stop="20250401152900 +0000" channel="SONY TV HD">
         <title>Flavours Of Ramadan 2025</title>
-    </programme>
-    <programme start="20250401152800 +0000" stop="20250401152900 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250401152900 +0000" stop="20250401165700 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
@@ -25587,35 +25584,20 @@
     <programme start="20250401165700 +0000" stop="20250401173000 +0000" channel="SONY TV HD">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250401173000 +0000" stop="20250401175900 +0000" channel="SONY TV HD">
+    <programme start="20250401173000 +0000" stop="20250401180000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250401175900 +0000" stop="20250401180000 +0000" channel="SONY TV HD">
+    <programme start="20250401180000 +0000" stop="20250401190100 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="SONY TV HD">
-        <title>Radhika Dil Se</title>
-    </programme>
-    <programme start="20250401190000 +0000" stop="20250401190100 +0000" channel="SONY TV HD">
+    <programme start="20250401190100 +0000" stop="20250401202800 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401190100 +0000" stop="20250401202700 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401202700 +0000" stop="20250401202800 +0000" channel="SONY TV HD">
+    <programme start="20250401202800 +0000" stop="20250401212800 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250401202800 +0000" stop="20250401212700 +0000" channel="SONY TV HD">
-        <title>C.i.d. - 2024</title>
-    </programme>
-    <programme start="20250401212700 +0000" stop="20250401212800 +0000" channel="SONY TV HD">
+    <programme start="20250401212800 +0000" stop="20250401225500 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401212800 +0000" stop="20250401225400 +0000" channel="SONY TV HD">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401225400 +0000" stop="20250401225500 +0000" channel="SONY TV HD">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
@@ -28080,11 +28062,8 @@
     <programme start="20250401200900 +0000" stop="20250401201400 +0000" channel="IQRA TV">
         <title>Isha Azan</title>
     </programme>
-    <programme start="20250401201400 +0000" stop="20250401201800 +0000" channel="IQRA TV">
+    <programme start="20250401201400 +0000" stop="20250401210000 +0000" channel="IQRA TV">
         <title>Eid with IQRA</title>
-    </programme>
-    <programme start="20250401201800 +0000" stop="20250401210000 +0000" channel="IQRA TV">
-        <title>Eid ul Fitr with Iqra</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401210500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -32629,7 +32608,7 @@
         <title>Lost Treasures Of Rome</title>
     </programme>
     <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Nat Geo">
-        <title>Nazi Megastructures: America's War</title>
+        <title>Hitler's Final Offensive</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401170000 +0000" channel="Nat Geo">
         <title>Car S.O.S</title>
@@ -34791,20 +34770,14 @@
     <programme start="20250401120900 +0000" stop="20250401130500 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
-    <programme start="20250401130500 +0000" stop="20250401130600 +0000" channel="SONY TV">
-        <title>CID</title>
-    </programme>
-    <programme start="20250401130600 +0000" stop="20250401135800 +0000" channel="SONY TV">
+    <programme start="20250401130500 +0000" stop="20250401135800 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
     <programme start="20250401135800 +0000" stop="20250401145800 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250401145800 +0000" stop="20250401152800 +0000" channel="SONY TV">
+    <programme start="20250401145800 +0000" stop="20250401152900 +0000" channel="SONY TV">
         <title>Flavours Of Ramadan 2025</title>
-    </programme>
-    <programme start="20250401152800 +0000" stop="20250401152900 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250401152900 +0000" stop="20250401165700 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
@@ -34812,35 +34785,20 @@
     <programme start="20250401165700 +0000" stop="20250401173000 +0000" channel="SONY TV">
         <title>Mere Sai - Shraddha Aur Saburi</title>
     </programme>
-    <programme start="20250401173000 +0000" stop="20250401175900 +0000" channel="SONY TV">
+    <programme start="20250401173000 +0000" stop="20250401180000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250401175900 +0000" stop="20250401180000 +0000" channel="SONY TV">
+    <programme start="20250401180000 +0000" stop="20250401190100 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250401180000 +0000" stop="20250401190000 +0000" channel="SONY TV">
-        <title>Radhika Dil Se</title>
-    </programme>
-    <programme start="20250401190000 +0000" stop="20250401190100 +0000" channel="SONY TV">
+    <programme start="20250401190100 +0000" stop="20250401202800 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250401190100 +0000" stop="20250401202700 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401202700 +0000" stop="20250401202800 +0000" channel="SONY TV">
+    <programme start="20250401202800 +0000" stop="20250401212800 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250401202800 +0000" stop="20250401212700 +0000" channel="SONY TV">
-        <title>C.i.d. - 2024</title>
-    </programme>
-    <programme start="20250401212700 +0000" stop="20250401212800 +0000" channel="SONY TV">
+    <programme start="20250401212800 +0000" stop="20250401225500 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401212800 +0000" stop="20250401225400 +0000" channel="SONY TV">
-        <title>Shark Tank India - 2025</title>
-    </programme>
-    <programme start="20250401225400 +0000" stop="20250401225500 +0000" channel="SONY TV">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250401225500 +0000" stop="20250401235500 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>

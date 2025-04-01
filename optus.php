@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250401143000 +0000" stop="20250401150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20250401180000 +0000" stop="20250401220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
