@@ -483,7 +483,7 @@
     <programme start="20250401145956 +0000" stop="20250401153000 +0000" channel="Vasantham.mewatch">
         <title>Thuninthu Sel - EP 7</title>
     </programme>
-    <programme start="20250401153000 +0000" stop="20250401160108 +0000" channel="Vasantham.mewatch">
+    <programme start="20250401153000 +0000" stop="20250402010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331160300 +0000" channel="CNA.mewatch">

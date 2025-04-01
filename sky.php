@@ -27036,8 +27036,11 @@
     <programme start="20250401063000 +0000" stop="20250401064000 +0000" channel="MTA1 World HD">
         <title>The Impact Of MTA In Indonesia</title>
     </programme>
-    <programme start="20250401064000 +0000" stop="20250401074500 +0000" channel="MTA1 World HD">
-        <title>Eid-ul-Fitr Sermon 2025</title>
+    <programme start="20250401064000 +0000" stop="20250401072500 +0000" channel="MTA1 World HD">
+        <title>Eid-ul-Fitr Sermon</title>
+    </programme>
+    <programme start="20250401072500 +0000" stop="20250401074500 +0000" channel="MTA1 World HD">
+        <title>Ahd-e-Rafta</title>
     </programme>
     <programme start="20250401074500 +0000" stop="20250401075000 +0000" channel="MTA1 World HD">
         <title>Art And Craft</title>
@@ -27073,18 +27076,30 @@
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250401140000 +0000" stop="20250401141000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250401141000 +0000" stop="20250401143000 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250401143000 +0000" stop="20250401145500 +0000" channel="MTA1 World HD">
+    <programme start="20250401141000 +0000" stop="20250401142000 +0000" channel="MTA1 World HD">
+        <title>Ahd-e-Rafta</title>
+    </programme>
+    <programme start="20250401142000 +0000" stop="20250401143000 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250401145500 +0000" stop="20250401160000 +0000" channel="MTA1 World HD">
+    <programme start="20250401143000 +0000" stop="20250401144500 +0000" channel="MTA1 World HD">
+        <title>Villages Of Africa</title>
+    </programme>
+    <programme start="20250401144500 +0000" stop="20250401145500 +0000" channel="MTA1 World HD">
+        <title>Eid-ul-Fitr Sermon</title>
+    </programme>
+    <programme start="20250401145500 +0000" stop="20250401153000 +0000" channel="MTA1 World HD">
         <title>Eid-ul-Fitr Sermon 2025</title>
     </programme>
-    <programme start="20250401160000 +0000" stop="20250401161500 +0000" channel="MTA1 World HD">
+    <programme start="20250401153000 +0000" stop="20250401160000 +0000" channel="MTA1 World HD">
+        <title>Empowering Women</title>
+    </programme>
+    <programme start="20250401160000 +0000" stop="20250401160500 +0000" channel="MTA1 World HD">
+        <title>Kudak</title>
+    </programme>
+    <programme start="20250401160500 +0000" stop="20250401161500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
     <programme start="20250401161500 +0000" stop="20250401162500 +0000" channel="MTA1 World HD">
@@ -27108,8 +27123,11 @@
     <programme start="20250401183500 +0000" stop="20250401191500 +0000" channel="MTA1 World HD">
         <title>Peace Symposium 2024</title>
     </programme>
-    <programme start="20250401191500 +0000" stop="20250401195000 +0000" channel="MTA1 World HD">
-        <title>Attaul Mujeeb Rashid</title>
+    <programme start="20250401191500 +0000" stop="20250401193000 +0000" channel="MTA1 World HD">
+        <title>My Dear Huzoor</title>
+    </programme>
+    <programme start="20250401193000 +0000" stop="20250401195000 +0000" channel="MTA1 World HD">
+        <title>Hiqayat-e-Sidqo Wafa</title>
     </programme>
     <programme start="20250401195000 +0000" stop="20250401200500 +0000" channel="MTA1 World HD">
         <title>My Dear Huzoor</title>
@@ -27120,8 +27138,14 @@
     <programme start="20250401204500 +0000" stop="20250401213000 +0000" channel="MTA1 World HD">
         <title>Untold Narrations By Syed Taalay</title>
     </programme>
-    <programme start="20250401213000 +0000" stop="20250401223000 +0000" channel="MTA1 World HD">
-        <title>Eid-ul-Fitr Sermon 2025</title>
+    <programme start="20250401213000 +0000" stop="20250401221000 +0000" channel="MTA1 World HD">
+        <title>Eid-ul-Fitr Sermon</title>
+    </programme>
+    <programme start="20250401221000 +0000" stop="20250401222000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250401222000 +0000" stop="20250401223000 +0000" channel="MTA1 World HD">
+        <title>Empowering Women</title>
     </programme>
     <programme start="20250401223000 +0000" stop="20250401224500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -27937,7 +27961,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250401110500 +0000" stop="20250401113000 +0000" channel="IQRA TV">
-        <title>Eid-ul-Fitr with Iqra</title>
+        <title>Eid with IQRA</title>
     </programme>
     <programme start="20250401113000 +0000" stop="20250401120000 +0000" channel="IQRA TV">
         <title>Iqra Kids TV Show</title>
@@ -27946,7 +27970,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250401120500 +0000" stop="20250401120800 +0000" channel="IQRA TV">
-        <title>Dua and Recitation</title>
+        <title>Lazeez Cuisine Eid Special</title>
     </programme>
     <programme start="20250401120800 +0000" stop="20250401121300 +0000" channel="IQRA TV">
         <title>Zuhr Azan</title>
@@ -29052,11 +29076,11 @@
     <programme start="20250401090000 +0000" stop="20250401093000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250401093000 +0000" stop="20250401103000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
+    <programme start="20250401093000 +0000" stop="20250401100000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
-    <programme start="20250401103000 +0000" stop="20250401110000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+    <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250401110000 +0000" stop="20250401123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -29071,16 +29095,19 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250401143000 +0000" stop="20250401150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Babaji Baldev Singh Ji</title>
     </programme>
-    <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250401150000 +0000" stop="20250401153000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250401153000 +0000" stop="20250401160000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Caribbean Cruise</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250401173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250401173000 +0000" stop="20250401180000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250401180000 +0000" stop="20250401183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
