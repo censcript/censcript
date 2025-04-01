@@ -33,6 +33,9 @@
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Arjan de Zeeuw</title>
     </programme>
+    <programme start="20250402180000 +0000" stop="20250402220000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Thursday Morning</title>
+    </programme>
     <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Stuttgart v RB Leipzig</title>
     </programme>
@@ -42,7 +45,7 @@
     <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Newcastle United v Brentford</title>
     </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Manchester City v Leicester City</title>
     </programme>
     <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 3.optus">
@@ -56,9 +59,6 @@
     </programme>
     <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Andoni Iraola</title>
-    </programme>
-    <programme start="20250403180000 +0000" stop="20250403220000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Thursday Morning</title>
     </programme>
     <programme start="20250403183000 +0000" stop="20250403213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Tottenham Hotspur</title>
@@ -87,7 +87,7 @@
     <programme start="20250405045500 +0000" stop="20250405071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Yokohama FM v Tokyo Verdy</title>
     </programme>
-    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daejeon v Jeonbuk</title>
     </programme>
     <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1.optus">
