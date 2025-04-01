@@ -360,7 +360,7 @@
     <programme start="20250401150000 +0000" stop="20250401153000 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250401153000 +0000" stop="20250401162707 +0000" channel="Channel U.mewatch">
+    <programme start="20250401153000 +0000" stop="20250401163000 +0000" channel="Channel U.mewatch">
         <title>Hi! Let&#039;s Go S2 - EP 1</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250331180000 +0000" channel="Suria.mewatch">
@@ -552,22 +552,22 @@
     <programme start="20250401100000 +0000" stop="20250401110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250401110000 +0000" stop="20250401120000 +0000" channel="CNA.mewatch">
+    <programme start="20250401110000 +0000" stop="20250401115959 +0000" channel="CNA.mewatch">
         <title>Undercover Asia S11: Silent Soldiers - EP 1</title>
     </programme>
-    <programme start="20250401120000 +0000" stop="20250401130000 +0000" channel="CNA.mewatch">
+    <programme start="20250401115959 +0000" stop="20250401125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250401130000 +0000" stop="20250401140000 +0000" channel="CNA.mewatch">
+    <programme start="20250401125959 +0000" stop="20250401140000 +0000" channel="CNA.mewatch">
         <title>The Untold Story of Singapore&#039;s Public Housing - EP 1</title>
     </programme>
-    <programme start="20250401140000 +0000" stop="20250401150000 +0000" channel="CNA.mewatch">
+    <programme start="20250401140000 +0000" stop="20250401150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250401150000 +0000" stop="20250401160000 +0000" channel="CNA.mewatch">
+    <programme start="20250401150105 +0000" stop="20250401160000 +0000" channel="CNA.mewatch">
         <title>Undercover Asia S11: The Digital Hostage - EP 1</title>
     </programme>
-    <programme start="20250401160000 +0000" stop="20250401160300 +0000" channel="CNA.mewatch">
+    <programme start="20250401160000 +0000" stop="20250401160315 +0000" channel="CNA.mewatch">
         <title>Headline News 2025/2026</title>
     </programme>
     <programme start="20250331160000 +0000" stop="20250401160000 +0000" channel="Oktolidays.mewatch">
