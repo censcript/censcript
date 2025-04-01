@@ -3,18 +3,6 @@
     <programme start="20250401180000 +0000" stop="20250401220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
-    <programme start="20250401183500 +0000" stop="20250401215500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Bayer Leverkusen</title>
-    </programme>
-    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Wolverhampton Wanderers v West Ham United</title>
-    </programme>
-    <programme start="20250401183500 +0000" stop="20250401205500 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Arsenal v Fulham</title>
-    </programme>
-    <programme start="20250401185000 +0000" stop="20250401211000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Nottingham Forest v Manchester United</title>
-    </programme>
     <programme start="20250402095500 +0000" stop="20250402121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v FC Tokyo</title>
     </programme>
@@ -272,6 +260,12 @@
     </programme>
     <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Fulham</title>
+    </programme>
+    <programme start="20250415182000 +0000" stop="20250415204000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Arsenal v Leicester</title>
+    </programme>
+    <programme start="20250419105000 +0000" stop="20250419131000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - West Ham United v Manchester United</title>
     </programme>
     <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Vissel Kobe v Machida</title>
