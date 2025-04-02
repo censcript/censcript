@@ -14101,10 +14101,10 @@
         <title>MUW Highlights: United v Everton</title>
     </programme>
     <programme start="20250402203000 +0000" stop="20250402223000 +0000" channel="MUTV HD">
-        <title>PL Match: v Nott. Forest 24/25 (A)</title>
+        <title>UEL Match: v Real Sociedad 24/25 (H)</title>
     </programme>
     <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="MUTV HD">
-        <title>Match Day Review</title>
+        <title>All The Goals: PL Free-Kicks</title>
     </programme>
     <programme start="20250401192500 +0000" stop="20250401223000 +0000" channel="Premier 1 HD">
         <title>Live Copa del Rey: Real Madrid v Real Sociedad</title>
