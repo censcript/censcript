@@ -11556,122 +11556,53 @@
     <programme start="20250402053000 +0000" stop="20250402060000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402060000 +0000" stop="20250402075000 +0000" channel="LEGEND XTRA+1">
         <title>Against a Crooked Sky</title>
-    </programme>
-    <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402073000 +0000" stop="20250402075000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402075000 +0000" stop="20250402080000 +0000" channel="LEGEND XTRA+1">
         <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250402080000 +0000" stop="20250402083000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402080000 +0000" stop="20250402095000 +0000" channel="LEGEND XTRA+1">
         <title>The Curse Of King Tut</title>
-    </programme>
-    <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402090000 +0000" stop="20250402093000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402093000 +0000" stop="20250402095000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402095000 +0000" stop="20250402100000 +0000" channel="LEGEND XTRA+1">
         <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="LEGEND XTRA+1">
         <title>Farscape</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402110000 +0000" stop="20250402125000 +0000" channel="LEGEND XTRA+1">
         <title>Shark Season</title>
-    </programme>
-    <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402120000 +0000" stop="20250402123000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402123000 +0000" stop="20250402125000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402125000 +0000" stop="20250402130000 +0000" channel="LEGEND XTRA+1">
         <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250402130000 +0000" stop="20250402133000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402130000 +0000" stop="20250402145000 +0000" channel="LEGEND XTRA+1">
         <title>The Curse Of King Tut</title>
-    </programme>
-    <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402143000 +0000" stop="20250402145000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402145000 +0000" stop="20250402150000 +0000" channel="LEGEND XTRA+1">
         <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402153000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="LEGEND XTRA+1">
         <title>Farscape</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402163000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="LEGEND XTRA+1">
         <title>Star Trek - The Original Series</title>
     </programme>
-    <programme start="20250402163000 +0000" stop="20250402170000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402170000 +0000" stop="20250402185000 +0000" channel="LEGEND XTRA+1">
         <title>Against a Crooked Sky</title>
-    </programme>
-    <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402183000 +0000" stop="20250402185000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402185000 +0000" stop="20250402190000 +0000" channel="LEGEND XTRA+1">
         <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="LEGEND XTRA+1">
         <title>Farscape</title>
     </programme>
-    <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="LEGEND XTRA+1">
         <title>Star Trek - The Original Series</title>
     </programme>
-    <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="LEGEND XTRA+1">
         <title>The Devil's Own</title>
-    </programme>
-    <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
-    </programme>
-    <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250401215200 +0000" stop="20250401225000 +0000" channel="GREAT! romance">
         <title>Lucky In Love</title>
@@ -23830,7 +23761,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="QVC Beauty">
-        <title>Cambridge Pharmaceuticals</title>
+        <title>Molton Brown</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="QVC Beauty">
         <title>Alison Young on Beauty Trends</title>
@@ -23839,7 +23770,7 @@
         <title>HoMedics Personal Wellness</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="QVC Beauty">
-        <title>Menopause Your Way</title>
+        <title>Cambridge Pharmaceuticals</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24532,7 +24463,7 @@
         <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="QVC Extra">
-        <title>Plants2Gardens</title>
+        <title>Diamonique</title>
     </programme>
     <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="QVC Extra">
         <title>Cozee Home</title>
@@ -24544,13 +24475,13 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="QVC Extra">
-        <title>Your Spring Garden</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="QVC Extra">
-        <title>Ben de Lisi</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="QVC Extra">
         <title>Garden Furniture Deals</title>
@@ -24559,7 +24490,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="QVC Extra">
-        <title>Sleep Better, Feel Better</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="QVC Extra">
         <title>Diamonique Jewellery with Kathryn</title>
@@ -24568,10 +24499,10 @@
         <title>Malissa J Collection</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Big Brands in Home</title>
     </programme>
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="High Street TV 3">
         <title>Power Air Fryer Cooker</title>
@@ -31821,8 +31752,11 @@
     <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="SkyDocumntrs">
         <title>New: Eyes On The Prize III</title>
     </programme>
-    <programme start="20250402200000 +0000" stop="20250402220000 +0000" channel="SkyDocumntrs">
+    <programme start="20250402200000 +0000" stop="20250402200001 +0000" channel="SkyDocumntrs">
         <title>4 Little Girls</title>
+    </programme>
+    <programme start="20250402200001 +0000" stop="20250402220000 +0000" channel="SkyDocumntrs">
+        <title>Val</title>
     </programme>
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="SkyDocumntrs">
         <title>The Jinx: The Life And Deaths of Robert Durst</title>
@@ -32748,8 +32682,11 @@
     <programme start="20250402151000 +0000" stop="20250402152500 +0000" channel="S4C HD">
         <title>Crawc a'i Ffrindiau</title>
     </programme>
-    <programme start="20250402152500 +0000" stop="20250402154500 +0000" channel="S4C HD">
+    <programme start="20250402152500 +0000" stop="20250402153500 +0000" channel="S4C HD">
         <title>Bendibwmbwls</title>
+    </programme>
+    <programme start="20250402153500 +0000" stop="20250402154500 +0000" channel="S4C HD">
+        <title>Joni Jet</title>
     </programme>
     <programme start="20250402154500 +0000" stop="20250402160000 +0000" channel="S4C HD">
         <title>Kim a Cai a Cranc</title>
