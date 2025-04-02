@@ -528,9 +528,6 @@
     <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="Vasantham.mewatch">
         <title>Seithi - EP 2</title>
     </programme>
-    <programme start="20250402160000 +0000" stop="20250403010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250401160000 +0000" stop="20250401160315 +0000" channel="CNA.mewatch">
         <title>Headline News 2025/2026</title>
     </programme>

@@ -288,4 +288,16 @@
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
     </programme>
+    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Nagoya</title>
+    </programme>
+    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Tokyo Verdy v Cerezo</title>
+    </programme>
+    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
+    </programme>
+    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Kashiwa v Albirex</title>
+    </programme>
 </tv>
