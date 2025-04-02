@@ -114,28 +114,28 @@
     <programme start="20250402093006 +0000" stop="20250402103000 +0000" channel="Channel 5.mewatch">
         <title>Beat the Chasers S6 - EP 8</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402103000 +0000" stop="20250402110006 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 124</title>
     </programme>
-    <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402110006 +0000" stop="20250402113019 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7954</title>
     </programme>
-    <programme start="20250402113000 +0000" stop="20250402123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402113019 +0000" stop="20250402123014 +0000" channel="Channel 5.mewatch">
         <title>The Cube USA S2 - EP 9</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402123014 +0000" stop="20250402130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 47</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250402133000 +0000" stop="20250402143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402133000 +0000" stop="20250402143010 +0000" channel="Channel 5.mewatch">
         <title>Deal or No Deal Island USA S1 - EP 7</title>
     </programme>
-    <programme start="20250402143000 +0000" stop="20250402153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402143010 +0000" stop="20250402152930 +0000" channel="Channel 5.mewatch">
         <title>An Unfinished Portrait - EP 2</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402152930 +0000" stop="20250402160000 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead - EP 7</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402163000 +0000" channel="Channel 5.mewatch">
@@ -450,8 +450,11 @@
     <programme start="20250402143000 +0000" stop="20250402153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 1</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="Suria.mewatch">
+    <programme start="20250402153000 +0000" stop="20250402155955 +0000" channel="Suria.mewatch">
         <title>Berita - EP 2</title>
+    </programme>
+    <programme start="20250402155955 +0000" stop="20250402220000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
