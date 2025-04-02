@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Arjan de Zeeuw</title>
-    </programme>
     <programme start="20250402180000 +0000" stop="20250402220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Thursday Morning</title>
     </programme>
