@@ -108,10 +108,10 @@
     <programme start="20250402070000 +0000" stop="20250402080000 +0000" channel="BBC Two HD">
         <title>Celebrity Antiques Road Trip</title>
     </programme>
-    <programme start="20250402080000 +0000" stop="20250402111500 +0000" channel="BBC Two HD">
+    <programme start="20250402080000 +0000" stop="20250402101500 +0000" channel="BBC Two HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250402111500 +0000" stop="20250402120000 +0000" channel="BBC Two HD">
+    <programme start="20250402101500 +0000" stop="20250402120000 +0000" channel="BBC Two HD">
         <title>Politics Live</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402124500 +0000" channel="BBC Two HD">
@@ -1920,8 +1920,11 @@
     <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="SkyDocmntrsHD">
         <title>New: Eyes On The Prize III</title>
     </programme>
-    <programme start="20250402200000 +0000" stop="20250402220000 +0000" channel="SkyDocmntrsHD">
+    <programme start="20250402200000 +0000" stop="20250402200001 +0000" channel="SkyDocmntrsHD">
         <title>4 Little Girls</title>
+    </programme>
+    <programme start="20250402200001 +0000" stop="20250402220000 +0000" channel="SkyDocmntrsHD">
+        <title>Val</title>
     </programme>
     <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="SkyDocmntrsHD">
         <title>The Jinx: The Life And Deaths of Robert Durst</title>
@@ -31749,11 +31752,8 @@
     <programme start="20250402180500 +0000" stop="20250402190000 +0000" channel="SkyDocumntrs">
         <title>Shaq</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="SkyDocumntrs">
+    <programme start="20250402190000 +0000" stop="20250402200001 +0000" channel="SkyDocumntrs">
         <title>New: Eyes On The Prize III</title>
-    </programme>
-    <programme start="20250402200000 +0000" stop="20250402200001 +0000" channel="SkyDocumntrs">
-        <title>4 Little Girls</title>
     </programme>
     <programme start="20250402200001 +0000" stop="20250402220000 +0000" channel="SkyDocumntrs">
         <title>Val</title>
@@ -36099,10 +36099,10 @@
     <programme start="20250402070000 +0000" stop="20250402080000 +0000" channel="BBC Two Wal HD">
         <title>Celebrity Antiques Road Trip</title>
     </programme>
-    <programme start="20250402080000 +0000" stop="20250402111500 +0000" channel="BBC Two Wal HD">
+    <programme start="20250402080000 +0000" stop="20250402101500 +0000" channel="BBC Two Wal HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250402111500 +0000" stop="20250402120000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250402101500 +0000" stop="20250402120000 +0000" channel="BBC Two Wal HD">
         <title>Politics Live</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402124500 +0000" channel="BBC Two Wal HD">
@@ -36189,10 +36189,10 @@
     <programme start="20250402070000 +0000" stop="20250402080000 +0000" channel="BBC Two NI HD">
         <title>Celebrity Antiques Road Trip</title>
     </programme>
-    <programme start="20250402080000 +0000" stop="20250402111500 +0000" channel="BBC Two NI HD">
+    <programme start="20250402080000 +0000" stop="20250402101500 +0000" channel="BBC Two NI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250402111500 +0000" stop="20250402120000 +0000" channel="BBC Two NI HD">
+    <programme start="20250402101500 +0000" stop="20250402120000 +0000" channel="BBC Two NI HD">
         <title>Politics Live</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402124500 +0000" channel="BBC Two NI HD">
