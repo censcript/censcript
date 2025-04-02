@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250402180000 +0000" stop="20250402220000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Thursday Morning</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402215500 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Stuttgart v RB Leipzig</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Southampton v Crystal Palace</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Newcastle United v Brentford</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Manchester City v Leicester City</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brighton v Aston Villa</title>
-    </programme>
-    <programme start="20250402183500 +0000" stop="20250402205500 +0000" channel="Optus Sport 8.optus">
-        <title>Premier League - Bournemouth v Ipswich</title>
-    </programme>
-    <programme start="20250402185000 +0000" stop="20250402211000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Liverpool v Everton</title>
-    </programme>
     <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Andoni Iraola</title>
     </programme>
