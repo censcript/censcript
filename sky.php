@@ -14812,7 +14812,7 @@
         <title>BBC News Now</title>
     </programme>
     <programme start="20250402133000 +0000" stop="20250402134500 +0000" channel="BBC NEWS HD">
-        <title>Business Today - NYSE Opening Bell</title>
+        <title>BBC News Now</title>
     </programme>
     <programme start="20250402134500 +0000" stop="20250402140000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -24463,10 +24463,10 @@
         <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="QVC Extra">
-        <title>Diamonique</title>
+        <title>Plants2Gardens</title>
     </programme>
     <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Diamonique Jewellery with Kathryn</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24484,7 +24484,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -25825,10 +25825,10 @@
         <title>Kashmir</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="MATV National">
-        <title>Thames Speaks</title>
+        <title>Khush Khabri</title>
     </programme>
     <programme start="20250402183000 +0000" stop="20250402190000 +0000" channel="MATV National">
-        <title>Thames Speaks</title>
+        <title>Old Is Gold</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="MATV National">
         <title>Weekly Roundup</title>
@@ -28941,14 +28941,14 @@
     <programme start="20250402163000 +0000" stop="20250402170000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
-    <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Pakistan Yatra</title>
-    </programme>
-    <programme start="20250402173000 +0000" stop="20250402182000 +0000" channel="Akaal Channel">
+    <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250402182000 +0000" stop="20250402192000 +0000" channel="Akaal Channel">
+    <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="Akaal Channel">
         <title>Live: Guru Nanak Seva</title>
+    </programme>
+    <programme start="20250402190000 +0000" stop="20250402192000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Pakistan Yatra</title>
     </programme>
     <programme start="20250402192000 +0000" stop="20250402200000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>
