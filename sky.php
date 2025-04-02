@@ -1917,11 +1917,8 @@
     <programme start="20250402180500 +0000" stop="20250402190000 +0000" channel="SkyDocmntrsHD">
         <title>Shaq</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402200000 +0000" channel="SkyDocmntrsHD">
+    <programme start="20250402190000 +0000" stop="20250402200001 +0000" channel="SkyDocmntrsHD">
         <title>New: Eyes On The Prize III</title>
-    </programme>
-    <programme start="20250402200000 +0000" stop="20250402200001 +0000" channel="SkyDocmntrsHD">
-        <title>4 Little Girls</title>
     </programme>
     <programme start="20250402200001 +0000" stop="20250402220000 +0000" channel="SkyDocmntrsHD">
         <title>Val</title>
@@ -11766,16 +11763,7 @@
     <programme start="20250402053000 +0000" stop="20250402060000 +0000" channel="G! romance+1">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="G! romance+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250402073000 +0000" stop="20250402080000 +0000" channel="G! romance+1">
+    <programme start="20250402060000 +0000" stop="20250402080000 +0000" channel="G! romance+1">
         <title>Teleshopping</title>
     </programme>
     <programme start="20250402080000 +0000" stop="20250402085500 +0000" channel="G! romance+1">
@@ -23785,7 +23773,7 @@
         <title>Molton Brown</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="QVC Beauty">
-        <title>Beauty Tools with Easilocks</title>
+        <title>M. Asam Beauty Is Our Tradition</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -24478,7 +24466,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="QVC Extra">
         <title>Michael Perry's Garden</title>
@@ -24487,7 +24475,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="QVC Extra">
-        <title>Garden Furniture Deals</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -25395,16 +25383,13 @@
     <programme start="20250402090000 +0000" stop="20250402093000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402100000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402093000 +0000" stop="20250402095900 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402095900 +0000" stop="20250402105900 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Utsav Plus HD">
-        <title>Mummy Ka Magic</title>
-    </programme>
-    <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402105900 +0000" stop="20250402113000 +0000" channel="Utsav Plus HD">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
     <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="Utsav Plus HD">
@@ -25440,10 +25425,10 @@
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Utsav Plus HD">
         <title>Mummy Ka Magic</title>
     </programme>
-    <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402173000 +0000" stop="20250402175900 +0000" channel="Utsav Plus HD">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402175900 +0000" stop="20250402183000 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250402183000 +0000" stop="20250402193000 +0000" channel="Utsav Plus HD">
@@ -25464,10 +25449,10 @@
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402220000 +0000" stop="20250402222900 +0000" channel="Utsav Plus HD">
         <title>Jaadu Teri Nazar Dayan Ka Mausam</title>
     </programme>
-    <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="Utsav Plus HD">
+    <programme start="20250402222900 +0000" stop="20250402232900 +0000" channel="Utsav Plus HD">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250401215000 +0000" stop="20250401223000 +0000" channel="COLORS HD">
@@ -27172,7 +27157,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250402150500 +0000" stop="20250402160000 +0000" channel="New Vision TV">
-        <title>Sara Aam Eid</title>
+        <title>Saray Aam Eid</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27640,7 +27625,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250402120500 +0000" stop="20250402120800 +0000" channel="IQRA TV">
-        <title>Dua and Recitation</title>
+        <title>Lazeez Cuisine Eid Special</title>
     </programme>
     <programme start="20250402120800 +0000" stop="20250402121300 +0000" channel="IQRA TV">
         <title>Zuhr Azan</title>
@@ -28045,49 +28030,49 @@
         <title>Tum Se Na Ho Paye Ga</title>
     </programme>
     <programme start="20250402070000 +0000" stop="20250402080000 +0000" channel="HUM EUROPE">
-        <title>Dil Wali Gali Main</title>
+        <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250402080000 +0000" stop="20250402090000 +0000" channel="HUM EUROPE">
-        <title>Adhi Bewafai</title>
+        <title>Subh Se Agay</title>
     </programme>
     <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="HUM EUROPE">
-        <title>Agar Tum Saath Ho</title>
+        <title>Best of Bridal Couture Week</title>
     </programme>
     <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="HUM EUROPE">
-        <title>Hijr</title>
+        <title>Aghwa Baraye Love</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="HUM EUROPE">
         <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402120900 +0000" channel="HUM EUROPE">
-        <title>My Dear Cinderella</title>
+        <title>IFFC Award</title>
     </programme>
     <programme start="20250402120900 +0000" stop="20250402121400 +0000" channel="HUM EUROPE">
         <title>Azan-e-Zuhr</title>
     </programme>
     <programme start="20250402121400 +0000" stop="20250402130000 +0000" channel="HUM EUROPE">
-        <title>My Dear Cinderella</title>
+        <title>IFFC Award</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="HUM EUROPE">
-        <title>Meem Se Muhabbat</title>
+        <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="HUM EUROPE">
         <title>Dil Wali Gali Main</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402153900 +0000" channel="HUM EUROPE">
-        <title>Adhi Bewafai</title>
+        <title>Mano Aur Mani Ki love Story</title>
     </programme>
     <programme start="20250402153900 +0000" stop="20250402154400 +0000" channel="HUM EUROPE">
         <title>Azan-e-Asar</title>
     </programme>
     <programme start="20250402154400 +0000" stop="20250402160000 +0000" channel="HUM EUROPE">
-        <title>Adhi Bewafai</title>
+        <title>Mano Aur Mani Ki love Story</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="HUM EUROPE">
         <title>Ramzan Aur Hum &amp; Iftaar Package</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="HUM EUROPE">
-        <title>Sirat-E-Mustqeem</title>
+        <title>Best of Bridal Couture Week</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402183900 +0000" channel="HUM EUROPE">
         <title>My Dear Cinderella</title>
@@ -28099,13 +28084,13 @@
         <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402195500 +0000" channel="HUM EUROPE">
-        <title>Meem Se Muhabbat</title>
+        <title>Dil Wali Gali Main</title>
     </programme>
     <programme start="20250402195500 +0000" stop="20250402200000 +0000" channel="HUM EUROPE">
         <title>Azan-e-Isha</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="HUM EUROPE">
-        <title>Dil Wali Gali Main</title>
+        <title>9th Hum Awards - Main Show</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="HUM EUROPE">
         <title>Adhi Bewafai</title>
@@ -34446,16 +34431,16 @@
     <programme start="20250402090000 +0000" stop="20250402093000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402100000 +0000" channel="Utsav Plus">
+    <programme start="20250402093000 +0000" stop="20250402095900 +0000" channel="Utsav Plus">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="Utsav Plus">
+    <programme start="20250402095900 +0000" stop="20250402102900 +0000" channel="Utsav Plus">
         <title>Anupamaa</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="Utsav Plus">
+    <programme start="20250402102900 +0000" stop="20250402105900 +0000" channel="Utsav Plus">
         <title>Mummy Ka Magic</title>
     </programme>
-    <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="Utsav Plus">
+    <programme start="20250402105900 +0000" stop="20250402113000 +0000" channel="Utsav Plus">
         <title>Sanjeev Kapoors Kitchen</title>
     </programme>
     <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="Utsav Plus">
@@ -34491,10 +34476,10 @@
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="Utsav Plus">
         <title>Mummy Ka Magic</title>
     </programme>
-    <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="Utsav Plus">
+    <programme start="20250402173000 +0000" stop="20250402175900 +0000" channel="Utsav Plus">
         <title>Advocate Anjali Awasthi</title>
     </programme>
-    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="Utsav Plus">
+    <programme start="20250402175900 +0000" stop="20250402183000 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250402183000 +0000" stop="20250402193000 +0000" channel="Utsav Plus">
@@ -34515,10 +34500,10 @@
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
     </programme>
-    <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="Utsav Plus">
+    <programme start="20250402220000 +0000" stop="20250402222900 +0000" channel="Utsav Plus">
         <title>Jaadu Teri Nazar Dayan Ka Mausam</title>
     </programme>
-    <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="Utsav Plus">
+    <programme start="20250402222900 +0000" stop="20250402232900 +0000" channel="Utsav Plus">
         <title>Yeh Rishta Kya Kehlata Hai</title>
     </programme>
     <programme start="20250401215000 +0000" stop="20250401223000 +0000" channel="COLORS">
@@ -36664,7 +36649,7 @@
         <title>Hawksbee &amp; Jacobs</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402180000 +0000" channel="talkSPORT">
-        <title>talkSPORT Drive</title>
+        <title>talkSPORT Drive with Ade Oladipo</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402210000 +0000" channel="talkSPORT">
         <title>GameNight - Brighton v Aston Villa</title>
