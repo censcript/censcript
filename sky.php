@@ -220,7 +220,7 @@
         <title>ITV News London</title>
     </programme>
     <programme start="20250402172500 +0000" stop="20250402173000 +0000" channel="ITV1 HD">
-        <title>Party Political Broadcast: Liberal Democrats</title>
+        <title>Party Election Broadcast: Liberal Democrats</title>
     </programme>
     <programme start="20250402173000 +0000" stop="20250402183000 +0000" channel="ITV1 HD">
         <title>ITV Evening News</title>
@@ -7231,7 +7231,7 @@
         <title>ITV News London</title>
     </programme>
     <programme start="20250402182500 +0000" stop="20250402183000 +0000" channel="ITV1+1">
-        <title>Party Political Broadcast: Liberal Democrats</title>
+        <title>Party Election Broadcast: Liberal Democrats</title>
     </programme>
     <programme start="20250402183000 +0000" stop="20250402193000 +0000" channel="ITV1+1">
         <title>ITV Evening News</title>
@@ -23782,7 +23782,7 @@
         <title>Molton Brown</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="QVC Beauty">
-        <title>M. Asam Beauty Is Our Tradition</title>
+        <title>Beauty Tools with Easilocks</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="QVC Beauty">
         <title>Meet the Beauty Experts</title>
@@ -27655,49 +27655,49 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250402150500 +0000" stop="20250402160000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Iqra With IQRA</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402160500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250402160500 +0000" stop="20250402163300 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Iqra With IQRA</title>
     </programme>
     <programme start="20250402163300 +0000" stop="20250402163800 +0000" channel="IQRA TV">
         <title>Asr Azan</title>
     </programme>
     <programme start="20250402163800 +0000" stop="20250402170000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Bazm-e-naat o Adab</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402170500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250402170500 +0000" stop="20250402173000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Two White Muslims</title>
     </programme>
     <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Two White Muslims</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402181200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250402181200 +0000" stop="20250402184100 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Q &amp; A</title>
     </programme>
     <programme start="20250402184100 +0000" stop="20250402184600 +0000" channel="IQRA TV">
         <title>Maghrib Azan</title>
     </programme>
     <programme start="20250402184600 +0000" stop="20250402190000 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Q &amp; A</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402190500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250402190500 +0000" stop="20250402193000 +0000" channel="IQRA TV">
-        <title>Eid-ul-Fitr with Iqra</title>
+        <title>Aap Kay Masail</title>
     </programme>
     <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="IQRA TV">
-        <title>Eid with Iqra</title>
+        <title>Aap Kay Masail</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402201000 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -27721,7 +27721,7 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250402221200 +0000" stop="20250402231200 +0000" channel="IQRA TV">
-        <title>Eid with IQRA</title>
+        <title>Ustadh Abu Taymiyyah</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="Islam TV">
         <title>Khatam Ul Quran</title>

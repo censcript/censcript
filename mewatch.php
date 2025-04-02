@@ -447,7 +447,7 @@
     <programme start="20250402153000 +0000" stop="20250402155955 +0000" channel="Suria.mewatch">
         <title>Berita - EP 2</title>
     </programme>
-    <programme start="20250402155955 +0000" stop="20250402220000 +0000" channel="Suria.mewatch">
+    <programme start="20250402155955 +0000" stop="20250402160000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403010000 +0000" channel="Suria.mewatch">
