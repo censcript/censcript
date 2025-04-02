@@ -237,32 +237,29 @@
     <programme start="20250402092830 +0000" stop="20250402103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 619</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402103000 +0000" stop="20250402112945 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 2</title>
     </programme>
-    <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402112945 +0000" stop="20250402120005 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 3</title>
     </programme>
-    <programme start="20250402120000 +0000" stop="20250402123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402120005 +0000" stop="20250402122936 +0000" channel="Channel 8.mewatch">
         <title>GAStro Bites by Chef James - EP 6</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402122936 +0000" stop="20250402130104 +0000" channel="Channel 8.mewatch">
         <title>Rolling with Love - EP 5</title>
     </programme>
-    <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402130104 +0000" stop="20250402140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 11</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402140000 +0000" stop="20250402143140 +0000" channel="Channel 8.mewatch">
         <title>News Tonight 2025/2026</title>
     </programme>
-    <programme start="20250402143000 +0000" stop="20250402150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402143140 +0000" stop="20250402150155 +0000" channel="Channel 8.mewatch">
         <title>Hermit Master - EP 12</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402150155 +0000" stop="20250402160153 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 33</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 22</title>
     </programme>
     <programme start="20250401152954 +0000" stop="20250401163150 +0000" channel="Channel U.mewatch">
         <title>Hi! Let&#039;s Go S2 - EP 1</title>
@@ -363,22 +360,22 @@
     <programme start="20250402100013 +0000" stop="20250402110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 12</title>
     </programme>
-    <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402110000 +0000" stop="20250402115858 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 9</title>
     </programme>
-    <programme start="20250402120000 +0000" stop="20250402130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402115858 +0000" stop="20250402125909 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 10</title>
     </programme>
-    <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402125909 +0000" stop="20250402140036 +0000" channel="Channel U.mewatch">
         <title>Catching a Scammer - EP 1</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402140036 +0000" stop="20250402150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 14</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402150000 +0000" stop="20250402153029 +0000" channel="Channel U.mewatch">
         <title>News Tonight 2025/2026</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250402153029 +0000" stop="20250402163050 +0000" channel="Channel U.mewatch">
         <title>Catching a Scammer - EP 1</title>
     </programme>
     <programme start="20250401153000 +0000" stop="20250401160101 +0000" channel="Suria.mewatch">
@@ -435,16 +432,16 @@
     <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="Suria.mewatch">
         <title>Siapa Viral - EP 7</title>
     </programme>
-    <programme start="20250402120000 +0000" stop="20250402123000 +0000" channel="Suria.mewatch">
+    <programme start="20250402120000 +0000" stop="20250402122959 +0000" channel="Suria.mewatch">
         <title>Berita - EP 2</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402130000 +0000" channel="Suria.mewatch">
+    <programme start="20250402122959 +0000" stop="20250402130006 +0000" channel="Suria.mewatch">
         <title>Detik Khas 2025/2026 - EP 1</title>
     </programme>
-    <programme start="20250402130000 +0000" stop="20250402143000 +0000" channel="Suria.mewatch">
+    <programme start="20250402130006 +0000" stop="20250402143009 +0000" channel="Suria.mewatch">
         <title>Ubi Superstar Raya</title>
     </programme>
-    <programme start="20250402143000 +0000" stop="20250402153000 +0000" channel="Suria.mewatch">
+    <programme start="20250402143009 +0000" stop="20250402153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 1</title>
     </programme>
     <programme start="20250402153000 +0000" stop="20250402155955 +0000" channel="Suria.mewatch">
@@ -588,17 +585,14 @@
     <programme start="20250402120000 +0000" stop="20250402130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="CNA.mewatch">
+    <programme start="20250402130000 +0000" stop="20250402140001 +0000" channel="CNA.mewatch">
         <title>The Untold Story of Singapore&#039;s Public Housing - EP 2</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="CNA.mewatch">
+    <programme start="20250402140001 +0000" stop="20250402150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="CNA.mewatch">
+    <programme start="20250402150001 +0000" stop="20250402160001 +0000" channel="CNA.mewatch">
         <title>The Untold Story of Singapore&#039;s Public Housing - EP 1</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402160300 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
     </programme>
     <programme start="20250401160000 +0000" stop="20250402160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
