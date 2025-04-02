@@ -25803,17 +25803,11 @@
     <programme start="20250402120000 +0000" stop="20250402133000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
     </programme>
-    <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="MATV National">
+    <programme start="20250402133000 +0000" stop="20250402143000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="MATV National">
-        <title>Bollywood Movie</title>
-    </programme>
-    <programme start="20250402143000 +0000" stop="20250402150000 +0000" channel="MATV National">
+    <programme start="20250402143000 +0000" stop="20250402160000 +0000" channel="MATV National">
         <title>Tara Sansthan</title>
-    </programme>
-    <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="MATV National">
-        <title>Bollywood Movie</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402161000 +0000" channel="MATV National">
         <title>Hanuman Chalisa</title>
@@ -25824,11 +25818,8 @@
     <programme start="20250402163000 +0000" stop="20250402170000 +0000" channel="MATV National">
         <title>Dada Bhagwan</title>
     </programme>
-    <programme start="20250402170000 +0000" stop="20250402171000 +0000" channel="MATV National">
+    <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="MATV National">
         <title>Dada Bhagwan</title>
-    </programme>
-    <programme start="20250402171000 +0000" stop="20250402173000 +0000" channel="MATV National">
-        <title>Ram Raksha Stotra</title>
     </programme>
     <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="MATV National">
         <title>Kashmir</title>
@@ -25842,13 +25833,7 @@
     <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="MATV National">
         <title>Weekly Roundup</title>
     </programme>
-    <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="MATV National">
-        <title>Navratra Chowki</title>
-    </programme>
-    <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
-    </programme>
-    <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="MATV National">
+    <programme start="20250402193000 +0000" stop="20250402210000 +0000" channel="MATV National">
         <title>Navratra Chowki</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="MATV National">
