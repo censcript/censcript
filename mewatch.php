@@ -258,7 +258,7 @@
     <programme start="20250402143140 +0000" stop="20250402150155 +0000" channel="Channel 8.mewatch">
         <title>Hermit Master - EP 12</title>
     </programme>
-    <programme start="20250402150155 +0000" stop="20250402160153 +0000" channel="Channel 8.mewatch">
+    <programme start="20250402150155 +0000" stop="20250402160154 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 33</title>
     </programme>
     <programme start="20250401152954 +0000" stop="20250401163150 +0000" channel="Channel U.mewatch">

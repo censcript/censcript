@@ -3054,10 +3054,10 @@
     <programme start="20250402060000 +0000" stop="20250402060500 +0000" channel="S4C">
         <title>Brethyn a Fflwff</title>
     </programme>
-    <programme start="20250402060500 +0000" stop="20250402062000 +0000" channel="S4C">
+    <programme start="20250402060500 +0000" stop="20250402061500 +0000" channel="S4C">
         <title>New: Twm Twrch</title>
     </programme>
-    <programme start="20250402062000 +0000" stop="20250402063000 +0000" channel="S4C">
+    <programme start="20250402061500 +0000" stop="20250402063000 +0000" channel="S4C">
         <title>Byd Tad-cu</title>
     </programme>
     <programme start="20250402063000 +0000" stop="20250402064500 +0000" channel="S4C">
@@ -3102,10 +3102,10 @@
     <programme start="20250402090500 +0000" stop="20250402092000 +0000" channel="S4C">
         <title>Twm Twrch</title>
     </programme>
-    <programme start="20250402092000 +0000" stop="20250402093000 +0000" channel="S4C">
+    <programme start="20250402092000 +0000" stop="20250402093500 +0000" channel="S4C">
         <title>Byd Tad-cu</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402094500 +0000" channel="S4C">
+    <programme start="20250402093500 +0000" stop="20250402094500 +0000" channel="S4C">
         <title>Joni Jet</title>
     </programme>
     <programme start="20250402094500 +0000" stop="20250402100000 +0000" channel="S4C">
@@ -3120,10 +3120,10 @@
     <programme start="20250402102000 +0000" stop="20250402103000 +0000" channel="S4C">
         <title>Ein Byd Bach</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402104500 +0000" channel="S4C">
+    <programme start="20250402103000 +0000" stop="20250402104000 +0000" channel="S4C">
         <title>Twt</title>
     </programme>
-    <programme start="20250402104500 +0000" stop="20250402110000 +0000" channel="S4C">
+    <programme start="20250402104000 +0000" stop="20250402110000 +0000" channel="S4C">
         <title>Help Llaw</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402110500 +0000" channel="S4C">
@@ -3153,16 +3153,16 @@
     <programme start="20250402140500 +0000" stop="20250402150000 +0000" channel="S4C">
         <title>Byd Eithafol Neo-Nazis yn Ein Plith</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402150500 +0000" channel="S4C">
+    <programme start="20250402150000 +0000" stop="20250402151000 +0000" channel="S4C">
         <title>Y Tralalas</title>
     </programme>
-    <programme start="20250402150500 +0000" stop="20250402152000 +0000" channel="S4C">
+    <programme start="20250402151000 +0000" stop="20250402152500 +0000" channel="S4C">
         <title>Crawc a'i Ffrindiau</title>
     </programme>
-    <programme start="20250402152000 +0000" stop="20250402153000 +0000" channel="S4C">
+    <programme start="20250402152500 +0000" stop="20250402153500 +0000" channel="S4C">
         <title>Bendibwmbwls</title>
     </programme>
-    <programme start="20250402153000 +0000" stop="20250402154500 +0000" channel="S4C">
+    <programme start="20250402153500 +0000" stop="20250402154500 +0000" channel="S4C">
         <title>Joni Jet</title>
     </programme>
     <programme start="20250402154500 +0000" stop="20250402160000 +0000" channel="S4C">
@@ -3174,10 +3174,10 @@
     <programme start="20250402160500 +0000" stop="20250402162000 +0000" channel="S4C">
         <title>Byd Rwtsh Dai Potsh</title>
     </programme>
-    <programme start="20250402162000 +0000" stop="20250402164000 +0000" channel="S4C">
+    <programme start="20250402162000 +0000" stop="20250402163500 +0000" channel="S4C">
         <title>Itopia</title>
     </programme>
-    <programme start="20250402164000 +0000" stop="20250402165000 +0000" channel="S4C">
+    <programme start="20250402163500 +0000" stop="20250402165000 +0000" channel="S4C">
         <title>LEGO ® Ffrindiau: Amdani Ferched!</title>
     </programme>
     <programme start="20250402165000 +0000" stop="20250402170000 +0000" channel="S4C">
@@ -11557,7 +11557,7 @@
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402060000 +0000" stop="20250402063000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Against a Crooked Sky</title>
     </programme>
     <programme start="20250402063000 +0000" stop="20250402070000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -11565,11 +11565,14 @@
     <programme start="20250402070000 +0000" stop="20250402073000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402073000 +0000" stop="20250402080000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402073000 +0000" stop="20250402075000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
+    <programme start="20250402075000 +0000" stop="20250402080000 +0000" channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
     <programme start="20250402080000 +0000" stop="20250402083000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>The Curse Of King Tut</title>
     </programme>
     <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -11577,17 +11580,20 @@
     <programme start="20250402090000 +0000" stop="20250402093000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402100000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402093000 +0000" stop="20250402095000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
+    <programme start="20250402095000 +0000" stop="20250402100000 +0000" channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
     <programme start="20250402100000 +0000" stop="20250402103000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Farscape</title>
     </programme>
     <programme start="20250402103000 +0000" stop="20250402110000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402113000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Shark Season</title>
     </programme>
     <programme start="20250402113000 +0000" stop="20250402120000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -11595,11 +11601,14 @@
     <programme start="20250402120000 +0000" stop="20250402123000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402123000 +0000" stop="20250402130000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402123000 +0000" stop="20250402125000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
+    <programme start="20250402125000 +0000" stop="20250402130000 +0000" channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
     <programme start="20250402130000 +0000" stop="20250402133000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>The Curse Of King Tut</title>
     </programme>
     <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -11607,23 +11616,26 @@
     <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402143000 +0000" stop="20250402150000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402143000 +0000" stop="20250402145000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
+    <programme start="20250402145000 +0000" stop="20250402150000 +0000" channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
     <programme start="20250402150000 +0000" stop="20250402153000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Farscape</title>
     </programme>
     <programme start="20250402153000 +0000" stop="20250402160000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402163000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Star Trek - The Original Series</title>
     </programme>
     <programme start="20250402163000 +0000" stop="20250402170000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402173000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Against a Crooked Sky</title>
     </programme>
     <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -11631,23 +11643,26 @@
     <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
-    <programme start="20250402183000 +0000" stop="20250402190000 +0000" channel="LEGEND XTRA+1">
+    <programme start="20250402183000 +0000" stop="20250402185000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
+    <programme start="20250402185000 +0000" stop="20250402190000 +0000" channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
     <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Farscape</title>
     </programme>
     <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>Star Trek - The Original Series</title>
     </programme>
     <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="LEGEND XTRA+1">
-        <title>This is LegendXtra+1</title>
+        <title>The Devil's Own</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="LEGEND XTRA+1">
         <title>This is LegendXtra+1</title>
@@ -28042,19 +28057,19 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -32628,10 +32643,10 @@
     <programme start="20250402060000 +0000" stop="20250402060500 +0000" channel="S4C HD">
         <title>Brethyn a Fflwff</title>
     </programme>
-    <programme start="20250402060500 +0000" stop="20250402062000 +0000" channel="S4C HD">
+    <programme start="20250402060500 +0000" stop="20250402061500 +0000" channel="S4C HD">
         <title>New: Twm Twrch</title>
     </programme>
-    <programme start="20250402062000 +0000" stop="20250402063000 +0000" channel="S4C HD">
+    <programme start="20250402061500 +0000" stop="20250402063000 +0000" channel="S4C HD">
         <title>Byd Tad-cu</title>
     </programme>
     <programme start="20250402063000 +0000" stop="20250402064500 +0000" channel="S4C HD">
@@ -32676,10 +32691,10 @@
     <programme start="20250402090500 +0000" stop="20250402092000 +0000" channel="S4C HD">
         <title>Twm Twrch</title>
     </programme>
-    <programme start="20250402092000 +0000" stop="20250402093000 +0000" channel="S4C HD">
+    <programme start="20250402092000 +0000" stop="20250402093500 +0000" channel="S4C HD">
         <title>Byd Tad-cu</title>
     </programme>
-    <programme start="20250402093000 +0000" stop="20250402094500 +0000" channel="S4C HD">
+    <programme start="20250402093500 +0000" stop="20250402094500 +0000" channel="S4C HD">
         <title>Joni Jet</title>
     </programme>
     <programme start="20250402094500 +0000" stop="20250402100000 +0000" channel="S4C HD">
@@ -32694,10 +32709,10 @@
     <programme start="20250402102000 +0000" stop="20250402103000 +0000" channel="S4C HD">
         <title>Ein Byd Bach</title>
     </programme>
-    <programme start="20250402103000 +0000" stop="20250402104500 +0000" channel="S4C HD">
+    <programme start="20250402103000 +0000" stop="20250402104000 +0000" channel="S4C HD">
         <title>Twt</title>
     </programme>
-    <programme start="20250402104500 +0000" stop="20250402110000 +0000" channel="S4C HD">
+    <programme start="20250402104000 +0000" stop="20250402110000 +0000" channel="S4C HD">
         <title>Help Llaw</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402110500 +0000" channel="S4C HD">
@@ -32727,17 +32742,14 @@
     <programme start="20250402140500 +0000" stop="20250402150000 +0000" channel="S4C HD">
         <title>Byd Eithafol Neo-Nazis yn Ein Plith</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402150500 +0000" channel="S4C HD">
+    <programme start="20250402150000 +0000" stop="20250402151000 +0000" channel="S4C HD">
         <title>Y Tralalas</title>
     </programme>
-    <programme start="20250402150500 +0000" stop="20250402152000 +0000" channel="S4C HD">
+    <programme start="20250402151000 +0000" stop="20250402152500 +0000" channel="S4C HD">
         <title>Crawc a'i Ffrindiau</title>
     </programme>
-    <programme start="20250402152000 +0000" stop="20250402153000 +0000" channel="S4C HD">
+    <programme start="20250402152500 +0000" stop="20250402154500 +0000" channel="S4C HD">
         <title>Bendibwmbwls</title>
-    </programme>
-    <programme start="20250402153000 +0000" stop="20250402154500 +0000" channel="S4C HD">
-        <title>Joni Jet</title>
     </programme>
     <programme start="20250402154500 +0000" stop="20250402160000 +0000" channel="S4C HD">
         <title>Kim a Cai a Cranc</title>
@@ -32748,10 +32760,10 @@
     <programme start="20250402160500 +0000" stop="20250402162000 +0000" channel="S4C HD">
         <title>Byd Rwtsh Dai Potsh</title>
     </programme>
-    <programme start="20250402162000 +0000" stop="20250402164000 +0000" channel="S4C HD">
+    <programme start="20250402162000 +0000" stop="20250402163500 +0000" channel="S4C HD">
         <title>Itopia</title>
     </programme>
-    <programme start="20250402164000 +0000" stop="20250402165000 +0000" channel="S4C HD">
+    <programme start="20250402163500 +0000" stop="20250402165000 +0000" channel="S4C HD">
         <title>LEGO ® Ffrindiau: Amdani Ferched!</title>
     </programme>
     <programme start="20250402165000 +0000" stop="20250402170000 +0000" channel="S4C HD">
