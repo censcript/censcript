@@ -132,14 +132,11 @@
     <programme start="20250402133000 +0000" stop="20250402143010 +0000" channel="Channel 5.mewatch">
         <title>Deal or No Deal Island USA S1 - EP 7</title>
     </programme>
-    <programme start="20250402143010 +0000" stop="20250402152930 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402143010 +0000" stop="20250402153000 +0000" channel="Channel 5.mewatch">
         <title>An Unfinished Portrait - EP 2</title>
     </programme>
-    <programme start="20250402152930 +0000" stop="20250402160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250402153000 +0000" stop="20250402160001 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead - EP 7</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 47</title>
     </programme>
     <programme start="20250401150129 +0000" stop="20250401160055 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 32</title>
@@ -984,10 +981,10 @@
     <programme start="20250402160000 +0000" stop="20250403110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 3rd April, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250401160000 +0000" stop="20250402120300 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.03pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
+    <programme start="20250401160000 +0000" stop="20250402120400 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 2nd April, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
-    <programme start="20250402120300 +0000" stop="20250402143000 +0000" channel="Live 2.mewatch">
+    <programme start="20250402120400 +0000" stop="20250402143000 +0000" channel="Live 2.mewatch">
         <title>Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
     </programme>
     <programme start="20250402143000 +0000" stop="20250402160000 +0000" channel="Live 2.mewatch">
