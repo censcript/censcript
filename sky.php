@@ -14910,7 +14910,16 @@
     <programme start="20250402110000 +0000" stop="20250402113500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250402113500 +0000" stop="20250402183000 +0000" channel="BBC Parl HD">
+    <programme start="20250402113500 +0000" stop="20250402121500 +0000" channel="BBC Parl HD">
+        <title>Live Chagos Islands Urgent Question</title>
+    </programme>
+    <programme start="20250402121500 +0000" stop="20250402130000 +0000" channel="BBC Parl HD">
+        <title>Live Gaza Urgent Question</title>
+    </programme>
+    <programme start="20250402130000 +0000" stop="20250402140000 +0000" channel="BBC Parl HD">
+        <title>Live Nursery Capital Grant Statement</title>
+    </programme>
+    <programme start="20250402140000 +0000" stop="20250402183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250402183000 +0000" stop="20250402210000 +0000" channel="BBC Parl HD">
@@ -25191,13 +25200,13 @@
     <programme start="20250402172900 +0000" stop="20250402175900 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250402175900 +0000" stop="20250402190000 +0000" channel="SONY TV HD">
+    <programme start="20250402175900 +0000" stop="20250402190100 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402202700 +0000" channel="SONY TV HD">
+    <programme start="20250402190100 +0000" stop="20250402202600 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250402202700 +0000" stop="20250402212700 +0000" channel="SONY TV HD">
+    <programme start="20250402202600 +0000" stop="20250402212700 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
     <programme start="20250402212700 +0000" stop="20250402225400 +0000" channel="SONY TV HD">
@@ -25386,8 +25395,11 @@
     <programme start="20250402093000 +0000" stop="20250402095900 +0000" channel="Utsav Plus HD">
         <title>Ghum Hai Kisikey Pyaar Meiin</title>
     </programme>
-    <programme start="20250402095900 +0000" stop="20250402105900 +0000" channel="Utsav Plus HD">
+    <programme start="20250402095900 +0000" stop="20250402102900 +0000" channel="Utsav Plus HD">
         <title>Anupamaa</title>
+    </programme>
+    <programme start="20250402102900 +0000" stop="20250402105900 +0000" channel="Utsav Plus HD">
+        <title>Mummy Ka Magic</title>
     </programme>
     <programme start="20250402105900 +0000" stop="20250402113000 +0000" channel="Utsav Plus HD">
         <title>Sanjeev Kapoors Kitchen</title>
@@ -25786,49 +25798,70 @@
         <title>Aaj Ka Samachar</title>
     </programme>
     <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="MATV National">
-        <title>Katha</title>
-    </programme>
-    <programme start="20250402120000 +0000" stop="20250402140000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
     </programme>
-    <programme start="20250402140000 +0000" stop="20250402150000 +0000" channel="MATV National">
+    <programme start="20250402120000 +0000" stop="20250402133000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
     </programme>
-    <programme start="20250402150000 +0000" stop="20250402163000 +0000" channel="MATV National">
+    <programme start="20250402133000 +0000" stop="20250402140000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
+    </programme>
+    <programme start="20250402140000 +0000" stop="20250402143000 +0000" channel="MATV National">
+        <title>Bollywood Movie</title>
+    </programme>
+    <programme start="20250402143000 +0000" stop="20250402150000 +0000" channel="MATV National">
+        <title>Tara Sansthan</title>
+    </programme>
+    <programme start="20250402150000 +0000" stop="20250402160000 +0000" channel="MATV National">
+        <title>Bollywood Movie</title>
+    </programme>
+    <programme start="20250402160000 +0000" stop="20250402161000 +0000" channel="MATV National">
+        <title>Hanuman Chalisa</title>
+    </programme>
+    <programme start="20250402161000 +0000" stop="20250402163000 +0000" channel="MATV National">
+        <title>Ram Raksha Stotra</title>
     </programme>
     <programme start="20250402163000 +0000" stop="20250402170000 +0000" channel="MATV National">
-        <title>Bhajan Mala</title>
+        <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402171000 +0000" channel="MATV National">
-        <title>Hanuman Chalisa</title>
+        <title>Dada Bhagwan</title>
     </programme>
     <programme start="20250402171000 +0000" stop="20250402173000 +0000" channel="MATV National">
         <title>Ram Raksha Stotra</title>
     </programme>
     <programme start="20250402173000 +0000" stop="20250402180000 +0000" channel="MATV National">
-        <title>Dada Bhagwan</title>
+        <title>Kashmir</title>
     </programme>
-    <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="MATV National">
-        <title>Matv Special</title>
+    <programme start="20250402180000 +0000" stop="20250402183000 +0000" channel="MATV National">
+        <title>Thames Speaks</title>
+    </programme>
+    <programme start="20250402183000 +0000" stop="20250402190000 +0000" channel="MATV National">
+        <title>Thames Speaks</title>
     </programme>
     <programme start="20250402190000 +0000" stop="20250402193000 +0000" channel="MATV National">
-        <title>Khush Khabri</title>
+        <title>Weekly Roundup</title>
     </programme>
     <programme start="20250402193000 +0000" stop="20250402200000 +0000" channel="MATV National">
-        <title>Kashmir</title>
+        <title>Navratra Chowki</title>
     </programme>
     <programme start="20250402200000 +0000" stop="20250402203000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
-    <programme start="20250402203000 +0000" stop="20250402220000 +0000" channel="MATV National">
+    <programme start="20250402203000 +0000" stop="20250402210000 +0000" channel="MATV National">
         <title>Navratra Chowki</title>
+    </programme>
+    <programme start="20250402210000 +0000" stop="20250402213000 +0000" channel="MATV National">
+        <title>Navratra Chowki</title>
+    </programme>
+    <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="MATV National">
+        <title>Pakistan Reporter</title>
     </programme>
     <programme start="20250402220000 +0000" stop="20250402223000 +0000" channel="MATV National">
-        <title>Navratra Chowki</title>
+        <title>News Night</title>
     </programme>
     <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="MATV National">
-        <title>Pakistan Reporter</title>
+        <title>Bollywood Movie</title>
     </programme>
     <programme start="20250401213000 +0000" stop="20250401220000 +0000" channel="AAJ TAK">
         <title>10Tak</title>
@@ -26484,23 +26517,14 @@
     <programme start="20250402074000 +0000" stop="20250402080000 +0000" channel="Aastha">
         <title>Bhajan</title>
     </programme>
-    <programme start="20250402080000 +0000" stop="20250402082000 +0000" channel="Aastha">
-        <title>Didi Maa Ritambharaji</title>
-    </programme>
-    <programme start="20250402082000 +0000" stop="20250402083000 +0000" channel="Aastha">
-        <title>Bhajan</title>
-    </programme>
-    <programme start="20250402083000 +0000" stop="20250402090000 +0000" channel="Aastha">
-        <title>Aastha Special</title>
-    </programme>
-    <programme start="20250402090000 +0000" stop="20250402120000 +0000" channel="Aastha">
-        <title>Aastha Special</title>
+    <programme start="20250402080000 +0000" stop="20250402120000 +0000" channel="Aastha">
+        <title>Morari Bapu</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402150000 +0000" channel="Aastha">
-        <title>Aastha Special</title>
+        <title>Bhaishri Rameshbhai Oza</title>
     </programme>
     <programme start="20250402150000 +0000" stop="20250402180000 +0000" channel="Aastha">
-        <title>Chinmayanand Bapu</title>
+        <title>Sarita Devji Upadhyay</title>
     </programme>
     <programme start="20250402180000 +0000" stop="20250402182500 +0000" channel="Aastha">
         <title>Jagadguru Kripaluji Maharaj</title>
@@ -26527,13 +26551,10 @@
         <title>Aastha Special</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402223000 +0000" channel="Aastha">
-        <title>Prembhushanji Maharaj</title>
+        <title>Pujya Rajanji Maharaj</title>
     </programme>
-    <programme start="20250402223000 +0000" stop="20250402224000 +0000" channel="Aastha">
-        <title>Bhajan</title>
-    </programme>
-    <programme start="20250402224000 +0000" stop="20250402234000 +0000" channel="Aastha">
-        <title>Bhajan</title>
+    <programme start="20250402223000 +0000" stop="20250402233000 +0000" channel="Aastha">
+        <title>Pujya Pandit Pradeep Mishraji</title>
     </programme>
     <programme start="20250401215000 +0000" stop="20250401222000 +0000" channel="Sanskar">
         <title>Shri Vinod Ji Agrawal</title>
@@ -28038,11 +28059,8 @@
     <programme start="20250402090000 +0000" stop="20250402100000 +0000" channel="HUM EUROPE">
         <title>Best of Bridal Couture Week</title>
     </programme>
-    <programme start="20250402100000 +0000" stop="20250402110000 +0000" channel="HUM EUROPE">
+    <programme start="20250402100000 +0000" stop="20250402120000 +0000" channel="HUM EUROPE">
         <title>Aghwa Baraye Love</title>
-    </programme>
-    <programme start="20250402110000 +0000" stop="20250402120000 +0000" channel="HUM EUROPE">
-        <title>Qarz-e-Jaan</title>
     </programme>
     <programme start="20250402120000 +0000" stop="20250402120900 +0000" channel="HUM EUROPE">
         <title>IFFC Award</title>
@@ -28065,11 +28083,8 @@
     <programme start="20250402153900 +0000" stop="20250402154400 +0000" channel="HUM EUROPE">
         <title>Azan-e-Asar</title>
     </programme>
-    <programme start="20250402154400 +0000" stop="20250402160000 +0000" channel="HUM EUROPE">
+    <programme start="20250402154400 +0000" stop="20250402170000 +0000" channel="HUM EUROPE">
         <title>Mano Aur Mani Ki love Story</title>
-    </programme>
-    <programme start="20250402160000 +0000" stop="20250402170000 +0000" channel="HUM EUROPE">
-        <title>Ramzan Aur Hum &amp; Iftaar Package</title>
     </programme>
     <programme start="20250402170000 +0000" stop="20250402180000 +0000" channel="HUM EUROPE">
         <title>Best of Bridal Couture Week</title>
@@ -28091,12 +28106,6 @@
     </programme>
     <programme start="20250402200000 +0000" stop="20250402210000 +0000" channel="HUM EUROPE">
         <title>9th Hum Awards - Main Show</title>
-    </programme>
-    <programme start="20250402210000 +0000" stop="20250402220000 +0000" channel="HUM EUROPE">
-        <title>Adhi Bewafai</title>
-    </programme>
-    <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="HUM EUROPE">
-        <title>My Dear Cinderella</title>
     </programme>
     <programme start="20250401210000 +0000" stop="20250401220000 +0000" channel="Islam Ch Urdu">
         <title>Documentary - Dastan e Andalus</title>
@@ -34353,13 +34362,13 @@
     <programme start="20250402172900 +0000" stop="20250402175900 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250402175900 +0000" stop="20250402190000 +0000" channel="SONY TV">
+    <programme start="20250402175900 +0000" stop="20250402190100 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250402190000 +0000" stop="20250402202700 +0000" channel="SONY TV">
+    <programme start="20250402190100 +0000" stop="20250402202600 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250402202700 +0000" stop="20250402212700 +0000" channel="SONY TV">
+    <programme start="20250402202600 +0000" stop="20250402212700 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
     <programme start="20250402212700 +0000" stop="20250402225400 +0000" channel="SONY TV">
@@ -38382,10 +38391,7 @@
     <programme start="20250402150000 +0000" stop="20250402180000 +0000" channel="LBC News">
         <title>John Stratford</title>
     </programme>
-    <programme start="20250402180000 +0000" stop="20250402220000 +0000" channel="LBC News">
+    <programme start="20250402180000 +0000" stop="20250402190000 +0000" channel="LBC News">
         <title>Steve Holden</title>
-    </programme>
-    <programme start="20250402220000 +0000" stop="20250402230000 +0000" channel="LBC News">
-        <title>LBC News</title>
     </programme>
 </tv>
