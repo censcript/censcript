@@ -447,6 +447,9 @@
     <programme start="20250403160000 +0000" stop="20250404010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20250402160000 +0000" stop="20250403010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250403010000 +0000" stop="20250403012931 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 30</title>
     </programme>
