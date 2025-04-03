@@ -15073,7 +15073,7 @@
         <title>Antimicrobial Resistance Committee</title>
     </programme>
     <programme start="20250404092500 +0000" stop="20250404113500 +0000" channel="BBC Parl HD">
-        <title>Health and Social Care Committee on NHS England</title>
+        <title>NHS England Committee</title>
     </programme>
     <programme start="20250404113500 +0000" stop="20250404131500 +0000" channel="BBC Parl HD">
         <title>UK-US Trade Statement</title>
@@ -28626,7 +28626,7 @@
     <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250403210000 +0000" stop="20250403230000 +0000" channel="ARY Digital">
+    <programme start="20250403211300 +0000" stop="20250403230000 +0000" channel="ARY Digital">
         <title>Achari Muhabbat</title>
     </programme>
     <programme start="20250403230000 +0000" stop="20250404000000 +0000" channel="ARY Digital">
