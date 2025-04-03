@@ -26839,7 +26839,7 @@
         <title>World News</title>
     </programme>
     <programme start="20250404082000 +0000" stop="20250404085000 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Duniya</title>
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250404085000 +0000" stop="20250404094500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Converts</title>
@@ -26872,7 +26872,7 @@
         <title>Ahd-e-Rafta</title>
     </programme>
     <programme start="20250404134000 +0000" stop="20250404142500 +0000" channel="MTA1 World HD">
-        <title>Untold Narrations</title>
+        <title>Untold Narrations By Syed Taalay</title>
     </programme>
     <programme start="20250404142500 +0000" stop="20250404145500 +0000" channel="MTA1 World HD">
         <title>Bachon Ki Duniya</title>
@@ -26925,14 +26925,11 @@
     <programme start="20250404221000 +0000" stop="20250404222000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250404222000 +0000" stop="20250404224000 +0000" channel="MTA1 World HD">
-        <title>Ahd-e-Rafta</title>
-    </programme>
-    <programme start="20250404224000 +0000" stop="20250404225000 +0000" channel="MTA1 World HD">
-        <title>Science Online</title>
+    <programme start="20250404222000 +0000" stop="20250404225000 +0000" channel="MTA1 World HD">
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250404225000 +0000" stop="20250404235000 +0000" channel="MTA1 World HD">
-        <title>Untold Narrations</title>
+        <title>Untold Narrations By Syed Taalay</title>
     </programme>
     <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="HUM Masala">
         <title>Riwayati Pakwan - Chef Jamali</title>
@@ -30118,10 +30115,10 @@
         <title>Akhsaru Tafaseer</title>
     </programme>
     <programme start="20250404110000 +0000" stop="20250404112500 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Dream Home</title>
     </programme>
     <programme start="20250404112500 +0000" stop="20250404120000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Dream Home</title>
     </programme>
     <programme start="20250404120000 +0000" stop="20250404120900 +0000" channel="iON TV">
         <title>iON News Time</title>
