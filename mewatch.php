@@ -430,7 +430,7 @@
         <title>Siapa Viral - EP 8</title>
     </programme>
     <programme start="20250403120000 +0000" stop="20250403123000 +0000" channel="Suria.mewatch">
-        <title>Berita - EP 3</title>
+        <title>Berita</title>
     </programme>
     <programme start="20250403123000 +0000" stop="20250403133000 +0000" channel="Suria.mewatch">
         <title>Romantika Raya Special 2024 - EP 2</title>
@@ -442,12 +442,15 @@
         <title>Marina - EP 2</title>
     </programme>
     <programme start="20250403153000 +0000" stop="20250403160000 +0000" channel="Suria.mewatch">
-        <title>Berita - EP 3</title>
+        <title>Berita</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250404010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250402160000 +0000" stop="20250403010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250402160000 +0000" stop="20250403000000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250403000000 +0000" stop="20250403010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250403010000 +0000" stop="20250403012931 +0000" channel="Vasantham.mewatch">
@@ -588,10 +591,10 @@
     <programme start="20250403125959 +0000" stop="20250403140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 18</title>
     </programme>
-    <programme start="20250403140000 +0000" stop="20250403150105 +0000" channel="CNA.mewatch">
+    <programme start="20250403140000 +0000" stop="20250403150055 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250403150105 +0000" stop="20250403160002 +0000" channel="CNA.mewatch">
+    <programme start="20250403150055 +0000" stop="20250403160002 +0000" channel="CNA.mewatch">
         <title>Tech To Save The World - EP 4</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403160000 +0000" channel="Oktolidays.mewatch">
