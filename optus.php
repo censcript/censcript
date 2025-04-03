@@ -213,17 +213,65 @@
     <programme start="20250413230000 +0000" stop="20250414013000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Bay FC v Chicago Stars</title>
     </programme>
+    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250414160000 +0000" stop="20250414170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Fulham</title>
     </programme>
+    <programme start="20250414213000 +0000" stop="20250414223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250414233000 +0000" stop="20250415003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250415010000 +0000" stop="20250415013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250415080000 +0000" stop="20250415090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Art of... Recruitment</title>
+    </programme>
+    <programme start="20250415143000 +0000" stop="20250415150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
     <programme start="20250415182000 +0000" stop="20250415204000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v Leicester</title>
+    </programme>
+    <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Philippe Coutinho</title>
+    </programme>
+    <programme start="20250417123000 +0000" stop="20250417130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250418093000 +0000" stop="20250418100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250418110000 +0000" stop="20250418120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250418153000 +0000" stop="20250418160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250419105000 +0000" stop="20250419131000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester United</title>
     </programme>
     <programme start="20250419112500 +0000" stop="20250419134500 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Liverpool</title>
+    </programme>
+    <programme start="20250419130000 +0000" stop="20250419162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Everton v Manchester City</title>
+    </programme>
+    <programme start="20250419190000 +0000" stop="20250419200000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
     </programme>
     <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Vissel Kobe v Machida</title>
@@ -240,25 +288,16 @@
     <programme start="20250420115500 +0000" stop="20250420141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Everton</title>
     </programme>
+    <programme start="20250420120000 +0000" stop="20250420152000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Ipswich v Arsenal</title>
+    </programme>
     <programme start="20250420125500 +0000" stop="20250420151000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Aston Villa</title>
     </programme>
+    <programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
-    </programme>
-    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Nagoya</title>
-    </programme>
-    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Tokyo Verdy v Cerezo</title>
-    </programme>
-    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
-    </programme>
-    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Kashiwa v Albirex</title>
-    </programme>
-    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Bayern Munich v Werder Bremen</title>
     </programme>
 </tv>
