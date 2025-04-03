@@ -471,8 +471,11 @@
     <programme start="20250403170000 +0000" stop="20250403172500 +0000" channel="Channel 5">
         <title>Eggheads</title>
     </programme>
-    <programme start="20250403172500 +0000" stop="20250403180000 +0000" channel="Channel 5">
+    <programme start="20250403172500 +0000" stop="20250403175500 +0000" channel="Channel 5">
         <title>Eggheads</title>
+    </programme>
+    <programme start="20250403175500 +0000" stop="20250403180000 +0000" channel="Channel 5">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="Channel 5">
         <title>Portugal with Michael Portillo</title>
@@ -6228,8 +6231,11 @@
     <programme start="20250403183000 +0000" stop="20250403190000 +0000" channel="BBC ALBA HD">
         <title>SpeakGaelic</title>
     </programme>
-    <programme start="20250403190000 +0000" stop="20250403193000 +0000" channel="BBC ALBA HD">
+    <programme start="20250403190000 +0000" stop="20250403192500 +0000" channel="BBC ALBA HD">
         <title>An Là</title>
+    </programme>
+    <programme start="20250403192500 +0000" stop="20250403193000 +0000" channel="BBC ALBA HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403193000 +0000" stop="20250403200000 +0000" channel="BBC ALBA HD">
         <title>Garraidhean Mora</title>
@@ -7494,8 +7500,11 @@
     <programme start="20250403180000 +0000" stop="20250403182500 +0000" channel="Channel 5+1">
         <title>Eggheads</title>
     </programme>
-    <programme start="20250403182500 +0000" stop="20250403190000 +0000" channel="Channel 5+1">
+    <programme start="20250403182500 +0000" stop="20250403185500 +0000" channel="Channel 5+1">
         <title>Eggheads</title>
+    </programme>
+    <programme start="20250403185500 +0000" stop="20250403190000 +0000" channel="Channel 5+1">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403200000 +0000" channel="Channel 5+1">
         <title>Portugal with Michael Portillo</title>
@@ -24544,10 +24553,10 @@
         <title>Home Hacks</title>
     </programme>
     <programme start="20250403140000 +0000" stop="20250403150000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Inspirations</title>
+        <title>Clean &amp; Tidy</title>
     </programme>
     <programme start="20250403150000 +0000" stop="20250403160000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Kelly Hoppen Home Design</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250403170000 +0000" channel="QVC Extra">
         <title>What's Cooking with Eilidh</title>
@@ -24559,16 +24568,16 @@
         <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403200000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Dannii Minogue's Summer Shine</title>
     </programme>
     <programme start="20250403200000 +0000" stop="20250403210000 +0000" channel="QVC Extra">
         <title>The Hottest Names in Tech</title>
     </programme>
     <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250403220000 +0000" stop="20250403230000 +0000" channel="QVC Extra">
-        <title>Fashion Top Offers</title>
+        <title>Clean &amp; Tidy</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="High Street TV 3">
         <title>Power XL Vortex Air Fryer</title>
@@ -25138,7 +25147,7 @@
         <title>HItz</title>
     </programme>
     <programme start="20250403113000 +0000" stop="20250403120000 +0000" channel="B4U Music">
-        <title>Cancer Barriers</title>
+        <title>Hitz</title>
     </programme>
     <programme start="20250403120000 +0000" stop="20250403123000 +0000" channel="B4U Music">
         <title>Kadak</title>
@@ -30894,8 +30903,11 @@
     <programme start="20250403170000 +0000" stop="20250403172500 +0000" channel="Channel 5 HD">
         <title>Eggheads</title>
     </programme>
-    <programme start="20250403172500 +0000" stop="20250403180000 +0000" channel="Channel 5 HD">
+    <programme start="20250403172500 +0000" stop="20250403175500 +0000" channel="Channel 5 HD">
         <title>Eggheads</title>
+    </programme>
+    <programme start="20250403175500 +0000" stop="20250403180000 +0000" channel="Channel 5 HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="Channel 5 HD">
         <title>Portugal with Michael Portillo</title>
