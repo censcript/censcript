@@ -169,7 +169,7 @@
         <title>Golden Age Talentime - EP 13</title>
     </programme>
     <programme start="20250402225940 +0000" stop="20250402233015 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight 2025/2026</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250402233015 +0000" stop="20250402235955 +0000" channel="Channel 8.mewatch">
         <title>The Heartland Hero - EP 31</title>
@@ -208,7 +208,7 @@
         <title>- EP 266</title>
     </programme>
     <programme start="20250403050000 +0000" stop="20250403053010 +0000" channel="Channel 8.mewatch">
-        <title>News 8 at One 2025/2026</title>
+        <title>News 8 at One</title>
     </programme>
     <programme start="20250403053010 +0000" stop="20250403055926 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1081</title>
@@ -237,29 +237,26 @@
     <programme start="20250403092804 +0000" stop="20250403103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 621</title>
     </programme>
-    <programme start="20250403103000 +0000" stop="20250403113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403103000 +0000" stop="20250403113115 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 3</title>
     </programme>
-    <programme start="20250403113000 +0000" stop="20250403120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403113115 +0000" stop="20250403120020 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 4</title>
     </programme>
-    <programme start="20250403120000 +0000" stop="20250403130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403120020 +0000" stop="20250403130023 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 3</title>
     </programme>
-    <programme start="20250403130000 +0000" stop="20250403140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403130023 +0000" stop="20250403140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 12</title>
     </programme>
-    <programme start="20250403140000 +0000" stop="20250403143000 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight 2025/2026</title>
+    <programme start="20250403140000 +0000" stop="20250403143140 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight</title>
     </programme>
-    <programme start="20250403143000 +0000" stop="20250403150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403143140 +0000" stop="20250403150055 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 1</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250403150055 +0000" stop="20250403160055 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 34</title>
-    </programme>
-    <programme start="20250403160000 +0000" stop="20250403170000 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 23</title>
     </programme>
     <programme start="20250402153029 +0000" stop="20250402163050 +0000" channel="Channel U.mewatch">
         <title>Catching a Scammer - EP 1</title>
@@ -382,7 +379,7 @@
         <title>Story of Kunning Palace - EP 15</title>
     </programme>
     <programme start="20250403150000 +0000" stop="20250403153104 +0000" channel="Channel U.mewatch">
-        <title>News Tonight 2025/2026</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250403153104 +0000" stop="20250403163035 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 9</title>

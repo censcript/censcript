@@ -23827,7 +23827,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250403130000 +0000" stop="20250403140000 +0000" channel="QVC Beauty">
-        <title>HoMedics Personal Wellness</title>
+        <title>Cambridge Pharmaceuticals</title>
     </programme>
     <programme start="20250403140000 +0000" stop="20250403150000 +0000" channel="QVC Beauty">
         <title>Ultrasun Professional Suncare</title>
@@ -23896,7 +23896,7 @@
         <title>Malissa J Collection</title>
     </programme>
     <programme start="20250403100000 +0000" stop="20250403110000 +0000" channel="QVC Style HD">
-        <title>Luxury Jewellery</title>
+        <title>Finery London</title>
     </programme>
     <programme start="20250403110000 +0000" stop="20250403120000 +0000" channel="QVC Style HD">
         <title>Dannii Minogue's Summer Shine</title>
@@ -28825,7 +28825,7 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Teleshopping: Caribbean Cruise</title>
     </programme>
     <programme start="20250403130000 +0000" stop="20250403140000 +0000" channel="Sikh Channel">
         <title>Sikh Virsa</title>
@@ -28833,11 +28833,11 @@
     <programme start="20250403140000 +0000" stop="20250403143000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250403143000 +0000" stop="20250403150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+    <programme start="20250403143000 +0000" stop="20250403153000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403160000 +0000" channel="Sikh Channel">
-        <title>Dr Sukhpreet Singh Udhoke</title>
+    <programme start="20250403153000 +0000" stop="20250403160000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250403170000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
@@ -28852,7 +28852,7 @@
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403200000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
+        <title>Wrestling Tournament - Coventry</title>
     </programme>
     <programme start="20250403200000 +0000" stop="20250403203000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
