@@ -27286,7 +27286,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250403170500 +0000" stop="20250403180000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Off The Record</title>
     </programme>
     <programme start="20250403180000 +0000" stop="20250403180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27310,7 +27310,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250403210500 +0000" stop="20250403220000 +0000" channel="New Vision TV">
-        <title>11th Hour with Waseem Badami</title>
+        <title>Off The Record</title>
     </programme>
     <programme start="20250403220000 +0000" stop="20250403220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -37458,10 +37458,13 @@
     <programme start="20250403170000 +0000" stop="20250403180000 +0000" channel="BBC R Scot">
         <title>Get It On with Grant Stott</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403213000 +0000" channel="BBC R Scot">
+    <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="BBC R Scot">
         <title>Sportsound</title>
     </programme>
-    <programme start="20250403213000 +0000" stop="20250403223000 +0000" channel="BBC R Scot">
+    <programme start="20250403190000 +0000" stop="20250403210000 +0000" channel="BBC R Scot">
+        <title>Travelling Folk</title>
+    </programme>
+    <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="BBC R Scot">
         <title>Natasha Raskin Sharp</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402230000 +0000" channel="BBC R Wales">
