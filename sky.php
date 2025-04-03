@@ -15042,47 +15042,62 @@
     <programme start="20250404223000 +0000" stop="20250404233000 +0000" channel="BBC NEWS HD">
         <title>The President's Path</title>
     </programme>
-    <programme start="20250403213000 +0000" stop="20250403222000 +0000" channel="BBC Parl HD">
+    <programme start="20250403212500 +0000" stop="20250403221500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Landmines and Cluster Munitions Debate</title>
     </programme>
-    <programme start="20250403222000 +0000" stop="20250403234000 +0000" channel="BBC Parl HD">
+    <programme start="20250403221500 +0000" stop="20250403234000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Net Zero Targets Debate, Part 1</title>
     </programme>
-    <programme start="20250403234000 +0000" stop="20250404003000 +0000" channel="BBC Parl HD">
+    <programme start="20250403234000 +0000" stop="20250404004000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Net Zero Targets Debate, Part 2</title>
     </programme>
-    <programme start="20250404003000 +0000" stop="20250404011500 +0000" channel="BBC Parl HD">
+    <programme start="20250404004000 +0000" stop="20250404013500 +0000" channel="BBC Parl HD">
         <title>House of Lords - US Trade and Tariffs Statement</title>
     </programme>
-    <programme start="20250404011500 +0000" stop="20250404015500 +0000" channel="BBC Parl HD">
+    <programme start="20250404013500 +0000" stop="20250404021500 +0000" channel="BBC Parl HD">
         <title>Culture, Media and Sport Questions</title>
     </programme>
-    <programme start="20250404015500 +0000" stop="20250404021500 +0000" channel="BBC Parl HD">
+    <programme start="20250404021500 +0000" stop="20250404023500 +0000" channel="BBC Parl HD">
         <title>Commissioners Questions</title>
     </programme>
-    <programme start="20250404021500 +0000" stop="20250404033500 +0000" channel="BBC Parl HD">
+    <programme start="20250404023500 +0000" stop="20250404035500 +0000" channel="BBC Parl HD">
         <title>Commons Business Questions</title>
     </programme>
-    <programme start="20250404033500 +0000" stop="20250404050000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250404035500 +0000" stop="20250404050000 +0000" channel="BBC Parl HD">
+        <title>Nursery Capital Grant Statement</title>
     </programme>
-    <programme start="20250404050000 +0000" stop="20250404080000 +0000" channel="BBC Parl HD">
-        <title>Westminster Hall   31/03/2025</title>
+    <programme start="20250404050000 +0000" stop="20250404063000 +0000" channel="BBC Parl HD">
+        <title>Westminster Hall</title>
     </programme>
-    <programme start="20250404080000 +0000" stop="20250404130000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250404063000 +0000" stop="20250404092500 +0000" channel="BBC Parl HD">
+        <title>Antimicrobial Resistance Committee</title>
     </programme>
-    <programme start="20250404130000 +0000" stop="20250404170000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250404092500 +0000" stop="20250404113500 +0000" channel="BBC Parl HD">
+        <title>Health and Social Care Committee on NHS England</title>
     </programme>
-    <programme start="20250404170000 +0000" stop="20250404200000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250404113500 +0000" stop="20250404131500 +0000" channel="BBC Parl HD">
+        <title>UK-US Trade Statement</title>
     </programme>
-    <programme start="20250404200000 +0000" stop="20250404204500 +0000" channel="BBC Parl HD">
+    <programme start="20250404131500 +0000" stop="20250404152000 +0000" channel="BBC Parl HD">
+        <title>Treasury Committee on the...</title>
+    </programme>
+    <programme start="20250404152000 +0000" stop="20250404171500 +0000" channel="BBC Parl HD">
+        <title>Treasury Committee on the...</title>
+    </programme>
+    <programme start="20250404171500 +0000" stop="20250404193500 +0000" channel="BBC Parl HD">
+        <title>Treasury Committee on the...</title>
+    </programme>
+    <programme start="20250404193500 +0000" stop="20250404195000 +0000" channel="BBC Parl HD">
+        <title>NHS Pensions Urgent Question</title>
+    </programme>
+    <programme start="20250404195000 +0000" stop="20250404201500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - General Questions</title>
+    </programme>
+    <programme start="20250404201500 +0000" stop="20250404210000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250404204500 +0000" stop="20250404214500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250404210000 +0000" stop="20250404220000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Impact of the Spring Statement</title>
     </programme>
     <programme start="20250403213000 +0000" stop="20250403220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -29604,71 +29619,77 @@
     <programme start="20250404042100 +0000" stop="20250404060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250404060000 +0000" stop="20250404082000 +0000" channel="IQRA Bangla">
+    <programme start="20250404060000 +0000" stop="20250404072000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250404082000 +0000" stop="20250404083000 +0000" channel="IQRA Bangla">
+    <programme start="20250404072000 +0000" stop="20250404073000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250404083000 +0000" stop="20250404100000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
+    <programme start="20250404073000 +0000" stop="20250404083000 +0000" channel="IQRA Bangla">
+        <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250404100000 +0000" stop="20250404110000 +0000" channel="IQRA Bangla">
+    <programme start="20250404083000 +0000" stop="20250404090000 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
+    </programme>
+    <programme start="20250404090000 +0000" stop="20250404100000 +0000" channel="IQRA Bangla">
+        <title>LIVE Jumu'ah from Madinah</title>
+    </programme>
+    <programme start="20250404100000 +0000" stop="20250404114000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250404110000 +0000" stop="20250404113000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Bazar</title>
+    <programme start="20250404114000 +0000" stop="20250404120900 +0000" channel="IQRA Bangla">
+        <title>Jumu'ah Khutbah from ELM</title>
     </programme>
-    <programme start="20250404113000 +0000" stop="20250404121700 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
+    <programme start="20250404120900 +0000" stop="20250404123000 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Jummah</title>
     </programme>
-    <programme start="20250404121700 +0000" stop="20250404122200 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Zuhr</title>
+    <programme start="20250404123000 +0000" stop="20250404130000 +0000" channel="IQRA Bangla">
+        <title>Sribhumir Pothe</title>
     </programme>
-    <programme start="20250404122200 +0000" stop="20250404123000 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250404123000 +0000" stop="20250404140000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
+    <programme start="20250404130000 +0000" stop="20250404140000 +0000" channel="IQRA Bangla">
+        <title>Sister's View</title>
     </programme>
     <programme start="20250404140000 +0000" stop="20250404150000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Discussion</title>
+        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250404150000 +0000" stop="20250404153000 +0000" channel="IQRA Bangla">
-        <title>Ahalan Sahalan Mahe Ramadan</title>
+        <title>Al-Khair Feedback</title>
     </programme>
-    <programme start="20250404153000 +0000" stop="20250404155800 +0000" channel="IQRA Bangla">
-        <title>Gaza Emergency Appeal</title>
+    <programme start="20250404153000 +0000" stop="20250404163500 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250404155800 +0000" stop="20250404160300 +0000" channel="IQRA Bangla">
+    <programme start="20250404163500 +0000" stop="20250404164100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250404160300 +0000" stop="20250404175500 +0000" channel="IQRA Bangla">
-        <title>Gaza Emergency Appeal</title>
+    <programme start="20250404164100 +0000" stop="20250404170000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250404175500 +0000" stop="20250404180300 +0000" channel="IQRA Bangla">
+    <programme start="20250404170000 +0000" stop="20250404173000 +0000" channel="IQRA Bangla">
+        <title>Our Masjid</title>
+    </programme>
+    <programme start="20250404173000 +0000" stop="20250404183000 +0000" channel="IQRA Bangla">
+        <title>Iman o Amal</title>
+    </programme>
+    <programme start="20250404183000 +0000" stop="20250404184200 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
+    </programme>
+    <programme start="20250404184200 +0000" stop="20250404184800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250404180300 +0000" stop="20250404180900 +0000" channel="IQRA Bangla">
-        <title>The Sound Of Revelations</title>
+    <programme start="20250404184800 +0000" stop="20250404190000 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
     </programme>
-    <programme start="20250404180900 +0000" stop="20250404181400 +0000" channel="IQRA Bangla">
-        <title>Know your zakat</title>
+    <programme start="20250404190000 +0000" stop="20250404193000 +0000" channel="IQRA Bangla">
+        <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250404181400 +0000" stop="20250404182200 +0000" channel="IQRA Bangla">
-        <title>Beautiful Mosques</title>
+    <programme start="20250404193000 +0000" stop="20250404195800 +0000" channel="IQRA Bangla">
+        <title>National Seerah Conference</title>
     </programme>
-    <programme start="20250404182200 +0000" stop="20250404182600 +0000" channel="IQRA Bangla">
-        <title>Ramadan tips</title>
-    </programme>
-    <programme start="20250404182600 +0000" stop="20250404191800 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
-    </programme>
-    <programme start="20250404191800 +0000" stop="20250404192300 +0000" channel="IQRA Bangla">
+    <programme start="20250404195800 +0000" stop="20250404200300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250404192300 +0000" stop="20250404202300 +0000" channel="IQRA Bangla">
-        <title>Ramadan Appeal</title>
+    <programme start="20250404200300 +0000" stop="20250404210300 +0000" channel="IQRA Bangla">
+        <title>National Seerah Conference</title>
     </programme>
     <programme start="20250403213000 +0000" stop="20250403231500 +0000" channel="ATN">
         <title>Payel</title>
