@@ -4714,7 +4714,7 @@
         <title>Police Interceptors</title>
     </programme>
     <programme start="20250403200000 +0000" stop="20250403210000 +0000" channel="5ACTION">
-        <title>Trucking Hell: Specials</title>
+        <title>New: Trucking Hell: Mega Rollovers</title>
     </programme>
     <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="5ACTION">
         <title>Outback Truckers</title>
@@ -7416,11 +7416,8 @@
     <programme start="20250403035000 +0000" stop="20250403044000 +0000" channel="Channel 5+1">
         <title>Britain by Bike with Larry &amp; George Lamb</title>
     </programme>
-    <programme start="20250403044000 +0000" stop="20250403050400 +0000" channel="Channel 5+1">
+    <programme start="20250403044000 +0000" stop="20250403050500 +0000" channel="Channel 5+1">
         <title>Wildlife SOS</title>
-    </programme>
-    <programme start="20250403050400 +0000" stop="20250403050500 +0000" channel="Channel 5+1">
-        <title>This is Channel 5 +1</title>
     </programme>
     <programme start="20250403050500 +0000" stop="20250403053000 +0000" channel="Channel 5+1">
         <title>House Busters</title>
@@ -23671,7 +23668,7 @@
         <title>Luxury Handbags with Aimee. Kestenberg</title>
     </programme>
     <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>All New from Sosandar</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403200000 +0000" channel="QVC HD">
         <title>All New from Shoon Footwear</title>
@@ -24589,7 +24586,7 @@
         <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250403090000 +0000" stop="20250403100000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250403100000 +0000" stop="20250403110000 +0000" channel="QVC Extra">
         <title>Accessories by Kipling</title>
@@ -29524,13 +29521,13 @@
         <title>Somogro Bangladesh</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250403163400 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
+        <title>Tora Manush Hobi Kobe</title>
     </programme>
     <programme start="20250403163400 +0000" stop="20250403164000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
     <programme start="20250403164000 +0000" stop="20250403173000 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
+        <title>Tora Manush Hobi Kobe</title>
     </programme>
     <programme start="20250403173000 +0000" stop="20250403180000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
@@ -37455,11 +37452,8 @@
     <programme start="20250403165700 +0000" stop="20250403170000 +0000" channel="BBC R Scot">
         <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
-    <programme start="20250403170000 +0000" stop="20250403180000 +0000" channel="BBC R Scot">
+    <programme start="20250403170000 +0000" stop="20250403190000 +0000" channel="BBC R Scot">
         <title>Get It On with Grant Stott</title>
-    </programme>
-    <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="BBC R Scot">
-        <title>Sportsound</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403210000 +0000" channel="BBC R Scot">
         <title>Travelling Folk</title>
