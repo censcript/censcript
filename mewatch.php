@@ -991,10 +991,10 @@
         <title>No programme available now. Next broadcast on 4th April, Friday 8.30pm. ONE Friday Fights 103</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Tuesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
+        <title>No Programme available now. Next Broadcast on 5th April, Saturday 10.25am. HSBC SVNS Singapore 2025</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250404160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Tuesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
+        <title>No Programme available now. Next Broadcast on 5th April, Saturday 10.25am. HSBC SVNS Singapore 2025</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women&#039;s Race</title>
