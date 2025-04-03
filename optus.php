@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250403183000 +0000" stop="20250403213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Chelsea v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250403233000 +0000" stop="20250404003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Nagoya</title>
+    </programme>
+    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Tokyo Verdy v Cerezo</title>
     </programme>
 </tv>
