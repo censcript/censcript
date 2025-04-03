@@ -15003,13 +15003,13 @@
     <programme start="20250403091000 +0000" stop="20250403093000 +0000" channel="BBC Parl HD">
         <title>Live Commissioners Questions</title>
     </programme>
-    <programme start="20250403093000 +0000" stop="20250403103000 +0000" channel="BBC Parl HD">
+    <programme start="20250403093000 +0000" stop="20250403105000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250403103000 +0000" stop="20250403113000 +0000" channel="BBC Parl HD">
+    <programme start="20250403105000 +0000" stop="20250403115000 +0000" channel="BBC Parl HD">
         <title>Live UK-US Trade Statement</title>
     </programme>
-    <programme start="20250403113000 +0000" stop="20250403163000 +0000" channel="BBC Parl HD">
+    <programme start="20250403115000 +0000" stop="20250403163000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250403163000 +0000" stop="20250403171500 +0000" channel="BBC Parl HD">
@@ -15018,8 +15018,26 @@
     <programme start="20250403171500 +0000" stop="20250403180000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250403180000 +0000" stop="20250403181000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - NHS Pensions Statement</title>
+    </programme>
+    <programme start="20250403181000 +0000" stop="20250403182000 +0000" channel="BBC Parl HD">
+        <title>House of Lords -...</title>
+    </programme>
+    <programme start="20250403182000 +0000" stop="20250403190000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Sentencing...</title>
+    </programme>
+    <programme start="20250403190000 +0000" stop="20250403201500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Farming and...</title>
+    </programme>
+    <programme start="20250403201500 +0000" stop="20250403213000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Farming and...</title>
+    </programme>
+    <programme start="20250403213000 +0000" stop="20250403223000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Landmines and Cluster Munitions Debate</title>
+    </programme>
+    <programme start="20250403223000 +0000" stop="20250403233000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Net Zero Targets Debate, Part 1</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402223000 +0000" channel="CNBC HD">
         <title>Late Night with Seth Meyers</title>
@@ -15142,13 +15160,13 @@
         <title>Closing Bell: Overtime</title>
     </programme>
     <programme start="20250403210000 +0000" stop="20250403213000 +0000" channel="CNBC HD">
-        <title>Managing Asia</title>
+        <title>Fast Money</title>
     </programme>
-    <programme start="20250403213000 +0000" stop="20250403223000 +0000" channel="CNBC HD">
-        <title>Late Night with Seth Meyers</title>
+    <programme start="20250403213000 +0000" stop="20250403220000 +0000" channel="CNBC HD">
+        <title>Fast Money</title>
     </programme>
-    <programme start="20250403223000 +0000" stop="20250403233000 +0000" channel="CNBC HD">
-        <title>NBC Nightly News</title>
+    <programme start="20250403220000 +0000" stop="20250403230000 +0000" channel="CNBC HD">
+        <title>Asia Squawk Box</title>
     </programme>
     <programme start="20250402213000 +0000" stop="20250402220000 +0000" channel="CNN HD">
         <title>World Sport</title>
@@ -27075,19 +27093,13 @@
     <programme start="20250403120000 +0000" stop="20250403120500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250403120500 +0000" stop="20250403123000 +0000" channel="GEO News">
-        <title>Geo Pakistan</title>
-    </programme>
-    <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="GEO News">
+    <programme start="20250403120500 +0000" stop="20250403130000 +0000" channel="GEO News">
         <title>Geo Pakistan</title>
     </programme>
     <programme start="20250403130000 +0000" stop="20250403130500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250403130500 +0000" stop="20250403133000 +0000" channel="GEO News">
-        <title>Score</title>
-    </programme>
-    <programme start="20250403133000 +0000" stop="20250403140000 +0000" channel="GEO News">
+    <programme start="20250403130500 +0000" stop="20250403140000 +0000" channel="GEO News">
         <title>Score</title>
     </programme>
     <programme start="20250403140000 +0000" stop="20250403140500 +0000" channel="GEO News">
@@ -38142,8 +38154,11 @@
     <programme start="20250403143000 +0000" stop="20250403160000 +0000" channel="BBC RnGàid">
         <title>Crùnluath</title>
     </programme>
-    <programme start="20250403160000 +0000" stop="20250403163000 +0000" channel="BBC RnGàid">
+    <programme start="20250403160000 +0000" stop="20250403162700 +0000" channel="BBC RnGàid">
         <title>Aithris an Fheasgair</title>
+    </programme>
+    <programme start="20250403162700 +0000" stop="20250403163000 +0000" channel="BBC RnGàid">
+        <title>Tagradh às leth an DEC (Mianmar)</title>
     </programme>
     <programme start="20250403163000 +0000" stop="20250403180000 +0000" channel="BBC RnGàid">
         <title>Siubhal gu Seachd le Pluto</title>
