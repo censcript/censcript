@@ -14466,8 +14466,17 @@
     <programme start="20250403070000 +0000" stop="20250403080000 +0000" channel="LFCTV HD">
         <title>130 Greatest LFC Goals</title>
     </programme>
-    <programme start="20250403080000 +0000" stop="20250403100000 +0000" channel="LFCTV HD">
+    <programme start="20250403080000 +0000" stop="20250403090000 +0000" channel="LFCTV HD">
         <title>Liverpool v Everton: The Match</title>
+    </programme>
+    <programme start="20250403090000 +0000" stop="20250403091000 +0000" channel="LFCTV HD">
+        <title>The RED Archive</title>
+    </programme>
+    <programme start="20250403091000 +0000" stop="20250403094500 +0000" channel="LFCTV HD">
+        <title>Live Press Conference</title>
+    </programme>
+    <programme start="20250403094500 +0000" stop="20250403100000 +0000" channel="LFCTV HD">
+        <title>Goal Rush</title>
     </programme>
     <programme start="20250403100000 +0000" stop="20250403101500 +0000" channel="LFCTV HD">
         <title>On This Day</title>
@@ -25311,16 +25320,16 @@
     <programme start="20250403173100 +0000" stop="20250403180000 +0000" channel="SONY TV HD">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403185900 +0000" channel="SONY TV HD">
+    <programme start="20250403180000 +0000" stop="20250403190100 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250403185900 +0000" stop="20250403202500 +0000" channel="SONY TV HD">
+    <programme start="20250403190100 +0000" stop="20250403202500 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250403202500 +0000" stop="20250403212800 +0000" channel="SONY TV HD">
+    <programme start="20250403202500 +0000" stop="20250403212900 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250403212800 +0000" stop="20250403225700 +0000" channel="SONY TV HD">
+    <programme start="20250403212900 +0000" stop="20250403225700 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250403225700 +0000" stop="20250403235700 +0000" channel="SONY TV HD">
@@ -34578,16 +34587,16 @@
     <programme start="20250403173100 +0000" stop="20250403180000 +0000" channel="SONY TV">
         <title>Aangan Aapno Kaa</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403185900 +0000" channel="SONY TV">
+    <programme start="20250403180000 +0000" stop="20250403190100 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250403185900 +0000" stop="20250403202500 +0000" channel="SONY TV">
+    <programme start="20250403190100 +0000" stop="20250403202500 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250403202500 +0000" stop="20250403212800 +0000" channel="SONY TV">
+    <programme start="20250403202500 +0000" stop="20250403212900 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250403212800 +0000" stop="20250403225700 +0000" channel="SONY TV">
+    <programme start="20250403212900 +0000" stop="20250403225700 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250403225700 +0000" stop="20250403235700 +0000" channel="SONY TV">
@@ -37485,8 +37494,11 @@
     <programme start="20250403130000 +0000" stop="20250403160000 +0000" channel="BBC R Wales">
         <title>Behnaz Akhgar</title>
     </programme>
-    <programme start="20250403160000 +0000" stop="20250403173000 +0000" channel="BBC R Wales">
+    <programme start="20250403160000 +0000" stop="20250403172700 +0000" channel="BBC R Wales">
         <title>Radio Wales Drive</title>
+    </programme>
+    <programme start="20250403172700 +0000" stop="20250403173000 +0000" channel="BBC R Wales">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403173000 +0000" stop="20250403180000 +0000" channel="BBC R Wales">
         <title>Welcome Strangers</title>

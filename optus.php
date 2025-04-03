@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250403123000 +0000" stop="20250403130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Andoni Iraola</title>
-    </programme>
     <programme start="20250403183000 +0000" stop="20250403213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Tottenham Hotspur</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
+    </programme>
+    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Nagoya</title>
     </programme>
 </tv>
