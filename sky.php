@@ -216,8 +216,11 @@
     <programme start="20250403172000 +0000" stop="20250403173000 +0000" channel="ITV1 HD">
         <title>Party Election Broadcast: Green Party</title>
     </programme>
-    <programme start="20250403173000 +0000" stop="20250403183000 +0000" channel="ITV1 HD">
+    <programme start="20250403173000 +0000" stop="20250403182700 +0000" channel="ITV1 HD">
         <title>ITV Evening News</title>
+    </programme>
+    <programme start="20250403182700 +0000" stop="20250403183000 +0000" channel="ITV1 HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403183000 +0000" stop="20250403193000 +0000" channel="ITV1 HD">
         <title>Emmerdale</title>
@@ -228,10 +231,13 @@
     <programme start="20250403200000 +0000" stop="20250403210000 +0000" channel="ITV1 HD">
         <title>Coronation Street</title>
     </programme>
-    <programme start="20250403210000 +0000" stop="20250403213000 +0000" channel="ITV1 HD">
+    <programme start="20250403210000 +0000" stop="20250403213200 +0000" channel="ITV1 HD">
         <title>ITV News at Ten</title>
     </programme>
-    <programme start="20250403213000 +0000" stop="20250403214500 +0000" channel="ITV1 HD">
+    <programme start="20250403213200 +0000" stop="20250403213500 +0000" channel="ITV1 HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
+    </programme>
+    <programme start="20250403213500 +0000" stop="20250403214500 +0000" channel="ITV1 HD">
         <title>ITV News London</title>
     </programme>
     <programme start="20250403214500 +0000" stop="20250403221000 +0000" channel="ITV1 HD">
@@ -1479,8 +1485,11 @@
     <programme start="20250403175800 +0000" stop="20250403180000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403190000 +0000" channel="BBC Four HD">
+    <programme start="20250403180000 +0000" stop="20250403185500 +0000" channel="BBC Four HD">
         <title>Frozen Planet II</title>
+    </programme>
+    <programme start="20250403185500 +0000" stop="20250403190000 +0000" channel="BBC Four HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403203000 +0000" channel="BBC Four HD">
         <title>The Great Gatsby (2000)</title>
@@ -7242,8 +7251,11 @@
     <programme start="20250403182000 +0000" stop="20250403183000 +0000" channel="ITV1+1">
         <title>Party Election Broadcast: Green Party</title>
     </programme>
-    <programme start="20250403183000 +0000" stop="20250403193000 +0000" channel="ITV1+1">
+    <programme start="20250403183000 +0000" stop="20250403192700 +0000" channel="ITV1+1">
         <title>ITV Evening News</title>
+    </programme>
+    <programme start="20250403192700 +0000" stop="20250403193000 +0000" channel="ITV1+1">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403193000 +0000" stop="20250403203000 +0000" channel="ITV1+1">
         <title>Emmerdale</title>
@@ -7254,10 +7266,13 @@
     <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="ITV1+1">
         <title>Coronation Street</title>
     </programme>
-    <programme start="20250403220000 +0000" stop="20250403223000 +0000" channel="ITV1+1">
+    <programme start="20250403220000 +0000" stop="20250403223200 +0000" channel="ITV1+1">
         <title>ITV News at Ten</title>
     </programme>
-    <programme start="20250403223000 +0000" stop="20250403224500 +0000" channel="ITV1+1">
+    <programme start="20250403223200 +0000" stop="20250403223500 +0000" channel="ITV1+1">
+        <title>DEC Myanmar Earthquake Appeal</title>
+    </programme>
+    <programme start="20250403223500 +0000" stop="20250403224500 +0000" channel="ITV1+1">
         <title>ITV News London</title>
     </programme>
     <programme start="20250403224500 +0000" stop="20250403234500 +0000" channel="ITV1+1">
@@ -14865,11 +14880,8 @@
     <programme start="20250403100000 +0000" stop="20250403103000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250403103000 +0000" stop="20250403104500 +0000" channel="BBC NEWS HD">
+    <programme start="20250403103000 +0000" stop="20250403110000 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
-    </programme>
-    <programme start="20250403104500 +0000" stop="20250403110000 +0000" channel="BBC NEWS HD">
-        <title>BBC News</title>
     </programme>
     <programme start="20250403110000 +0000" stop="20250403113000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -14883,11 +14895,8 @@
     <programme start="20250403130000 +0000" stop="20250403133000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250403133000 +0000" stop="20250403134500 +0000" channel="BBC NEWS HD">
+    <programme start="20250403133000 +0000" stop="20250403140000 +0000" channel="BBC NEWS HD">
         <title>Business Today - NYSE Opening Bell</title>
-    </programme>
-    <programme start="20250403134500 +0000" stop="20250403140000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
     </programme>
     <programme start="20250403140000 +0000" stop="20250403143000 +0000" channel="BBC NEWS HD">
         <title>Verified Live</title>
@@ -28479,11 +28488,14 @@
     <programme start="20250403131500 +0000" stop="20250403133000 +0000" channel="Eman Channel">
         <title>Empowered by Example</title>
     </programme>
-    <programme start="20250403133000 +0000" stop="20250403140000 +0000" channel="Eman Channel">
+    <programme start="20250403133000 +0000" stop="20250403134500 +0000" channel="Eman Channel">
         <title>Muslim Money Matters</title>
     </programme>
+    <programme start="20250403134500 +0000" stop="20250403140000 +0000" channel="Eman Channel">
+        <title>Men Around The Prophet</title>
+    </programme>
     <programme start="20250403140000 +0000" stop="20250403141500 +0000" channel="Eman Channel">
-        <title>Oriental Scholars</title>
+        <title>Lantern Tales</title>
     </programme>
     <programme start="20250403141500 +0000" stop="20250403144500 +0000" channel="Eman Channel">
         <title>Snack Attack</title>
@@ -28525,7 +28537,7 @@
         <title>Evening Remembrance</title>
     </programme>
     <programme start="20250403190000 +0000" stop="20250403195700 +0000" channel="Eman Channel">
-        <title>Tarbiyah Twins</title>
+        <title>Empowered By Example</title>
     </programme>
     <programme start="20250403195700 +0000" stop="20250403200100 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
@@ -35115,8 +35127,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One NE HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One NE HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One NE HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One NE HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One NE HD">
         <title>BBC News</title>
@@ -35196,8 +35211,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One NW HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One NW HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One NW HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One NW HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One NW HD">
         <title>BBC News</title>
@@ -35277,8 +35295,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One Yks HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One Yks HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One Yks HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One Yks HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One Yks HD">
         <title>BBC News</title>
@@ -35358,8 +35379,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One Y&amp;L HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One Y&amp;L HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One Y&amp;L HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News</title>
@@ -35439,8 +35463,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One WM HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One WM HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One WM HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One WM HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One WM HD">
         <title>BBC News</title>
@@ -35601,8 +35628,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One EastHD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One EastHD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One EastHD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One EastHD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One EastHD">
         <title>BBC News</title>
@@ -35682,8 +35712,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One SE HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One SE HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One SE HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One SE HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One SE HD">
         <title>BBC News</title>
@@ -35763,8 +35796,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One Wst HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One Wst HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One Wst HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One Wst HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One Wst HD">
         <title>BBC News</title>
@@ -35925,8 +35961,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One SW HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One SW HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One SW HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One SW HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One SW HD">
         <title>BBC News</title>
@@ -36006,8 +36045,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One CI HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One CI HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One CI HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One CI HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One CI HD">
         <title>BBC News</title>
@@ -36090,8 +36132,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One ScotHD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One ScotHD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One ScotHD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One ScotHD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
@@ -36168,8 +36213,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One Wal HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One Wal HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One Wal HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One Wal HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One Wal HD">
         <title>BBC News</title>
@@ -36246,8 +36294,11 @@
     <programme start="20250403153000 +0000" stop="20250403161500 +0000" channel="BBC One NI HD">
         <title>New: The Finish Line</title>
     </programme>
-    <programme start="20250403161500 +0000" stop="20250403170000 +0000" channel="BBC One NI HD">
+    <programme start="20250403161500 +0000" stop="20250403165500 +0000" channel="BBC One NI HD">
         <title>New: Pointless</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC One NI HD">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
@@ -36708,8 +36759,11 @@
     <programme start="20250403044500 +0000" stop="20250403050000 +0000" channel="BBC R4">
         <title>Farming Today</title>
     </programme>
-    <programme start="20250403050000 +0000" stop="20250403080000 +0000" channel="BBC R4">
+    <programme start="20250403050000 +0000" stop="20250403075700 +0000" channel="BBC R4">
         <title>Today</title>
+    </programme>
+    <programme start="20250403075700 +0000" stop="20250403080000 +0000" channel="BBC R4">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403080000 +0000" stop="20250403084500 +0000" channel="BBC R4">
         <title>In Our Time</title>
@@ -36768,8 +36822,11 @@
     <programme start="20250403160000 +0000" stop="20250403170000 +0000" channel="BBC R4">
         <title>PM</title>
     </programme>
-    <programme start="20250403170000 +0000" stop="20250403173000 +0000" channel="BBC R4">
+    <programme start="20250403170000 +0000" stop="20250403172700 +0000" channel="BBC R4">
         <title>Six O'Clock News</title>
+    </programme>
+    <programme start="20250403172700 +0000" stop="20250403173000 +0000" channel="BBC R4">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403173000 +0000" stop="20250403180000 +0000" channel="BBC R4">
         <title>Mark Watson Talks a Bit About Life</title>
@@ -37299,8 +37356,11 @@
     <programme start="20250403143000 +0000" stop="20250403150000 +0000" channel="BBC R Scot">
         <title>Afternoons</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403170000 +0000" channel="BBC R Scot">
+    <programme start="20250403150000 +0000" stop="20250403165700 +0000" channel="BBC R Scot">
         <title>Drivetime</title>
+    </programme>
+    <programme start="20250403165700 +0000" stop="20250403170000 +0000" channel="BBC R Scot">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403180000 +0000" channel="BBC R Scot">
         <title>Get It On with Grant Stott</title>
@@ -37386,8 +37446,11 @@
     <programme start="20250403140400 +0000" stop="20250403150000 +0000" channel="BBC R Ulster">
         <title>The Afternoon Show</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403170000 +0000" channel="BBC R Ulster">
+    <programme start="20250403150000 +0000" stop="20250403165500 +0000" channel="BBC R Ulster">
         <title>Evening Extra</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC R Ulster">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403170500 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
@@ -38589,8 +38652,11 @@
     <programme start="20250403140400 +0000" stop="20250403150000 +0000" channel="BBC R Foyle">
         <title>Sean Coyle</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403170000 +0000" channel="BBC R Foyle">
+    <programme start="20250403150000 +0000" stop="20250403165500 +0000" channel="BBC R Foyle">
         <title>Evening Extra</title>
+    </programme>
+    <programme start="20250403165500 +0000" stop="20250403170000 +0000" channel="BBC R Foyle">
+        <title>DEC Myanmar Earthquake Appeal</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403170500 +0000" channel="BBC R Foyle">
         <title>BBC News NI update</title>

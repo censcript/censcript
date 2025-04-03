@@ -571,7 +571,7 @@
         <title>Tech To Save The World - EP 4</title>
     </programme>
     <programme start="20250403090000 +0000" stop="20250403090200 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20250403090200 +0000" stop="20250403100001 +0000" channel="CNA.mewatch">
         <title>Undercover Asia S11: Copy+Paste+Steal - EP 2</title>
@@ -583,7 +583,7 @@
         <title>Undercover Asia S11: The Digital Hostage - EP 1</title>
     </programme>
     <programme start="20250403115959 +0000" stop="20250403125959 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight 2025/2026</title>
+        <title>Asia Tonight</title>
     </programme>
     <programme start="20250403125959 +0000" stop="20250403140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 18</title>
@@ -595,7 +595,7 @@
         <title>Tech To Save The World - EP 4</title>
     </programme>
     <programme start="20250403155959 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
