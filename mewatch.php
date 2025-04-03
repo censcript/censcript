@@ -135,9 +135,6 @@
     <programme start="20250404140000 +0000" stop="20250404160000 +0000" channel="Channel 5.mewatch">
         <title>Unstoppable</title>
     </programme>
-    <programme start="20250404160000 +0000" stop="20250404180000 +0000" channel="Channel 5.mewatch">
-        <title>Survivor 48 - EP 1</title>
-    </programme>
     <programme start="20250403150055 +0000" stop="20250403160055 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 34</title>
     </programme>
@@ -262,9 +259,6 @@
         <title>The Land of Warriors - EP 35</title>
     </programme>
     <programme start="20250404155951 +0000" stop="20250404165952 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 24</title>
-    </programme>
-    <programme start="20250404160000 +0000" stop="20250404170000 +0000" channel="Channel 8.mewatch">
         <title>Mysterious Lotus Casebook - EP 24</title>
     </programme>
     <programme start="20250403153104 +0000" stop="20250403163035 +0000" channel="Channel U.mewatch">
