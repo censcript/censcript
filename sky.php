@@ -1461,11 +1461,8 @@
     <programme start="20250403020000 +0000" stop="20250403030000 +0000" channel="BBC Four HD">
         <title>Frozen Planet II</title>
     </programme>
-    <programme start="20250403030000 +0000" stop="20250403043000 +0000" channel="BBC Four HD">
+    <programme start="20250403030000 +0000" stop="20250403103000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
-    </programme>
-    <programme start="20250403043000 +0000" stop="20250403103000 +0000" channel="BBC Four HD">
-        <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250403103000 +0000" stop="20250403163000 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
@@ -28585,13 +28582,13 @@
         <title>Bharam</title>
     </programme>
     <programme start="20250403150000 +0000" stop="20250403154000 +0000" channel="ARY Digital">
-        <title>1970 - A Love Story</title>
+        <title>Pyar Ki Love Story</title>
     </programme>
     <programme start="20250403154000 +0000" stop="20250403154600 +0000" channel="ARY Digital">
         <title>Azan-e-Asar</title>
     </programme>
     <programme start="20250403154600 +0000" stop="20250403170000 +0000" channel="ARY Digital">
-        <title>1970 - A Love Story</title>
+        <title>Pyar Ki Love Story</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403180000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>

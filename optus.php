@@ -258,4 +258,7 @@
     <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Kashiwa v Albirex</title>
     </programme>
+    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Bayern Munich v Werder Bremen</title>
+    </programme>
 </tv>
