@@ -36568,7 +36568,7 @@
         <title>BBC Introducing on Radio 1 Dance with Jaguar</title>
     </programme>
     <programme start="20250403220000 +0000" stop="20250403230000 +0000" channel="BBC R1">
-        <title>Radio 1's Residency</title>
+        <title>Radio 1's Residency - Tita Lau</title>
     </programme>
     <programme start="20250402210000 +0000" stop="20250402230000 +0000" channel="BBC R2">
         <title>The Good Groove with DJ Spoony</title>
@@ -38115,8 +38115,11 @@
     <programme start="20250403130000 +0000" stop="20250403160000 +0000" channel="BBC R Cymru">
         <title>Ifan Jones Evans</title>
     </programme>
-    <programme start="20250403160000 +0000" stop="20250403170000 +0000" channel="BBC R Cymru">
+    <programme start="20250403160000 +0000" stop="20250403165600 +0000" channel="BBC R Cymru">
         <title>Post Prynhawn</title>
+    </programme>
+    <programme start="20250403165600 +0000" stop="20250403170000 +0000" channel="BBC R Cymru">
+        <title>Apêl Daeargryn Myanmar DEC</title>
     </programme>
     <programme start="20250403170000 +0000" stop="20250403180000 +0000" channel="BBC R Cymru">
         <title>Beti a'i Phobol</title>

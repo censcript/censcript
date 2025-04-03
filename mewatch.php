@@ -141,7 +141,7 @@
     <programme start="20250403140040 +0000" stop="20250403150013 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 2</title>
     </programme>
-    <programme start="20250403150013 +0000" stop="20250403160043 +0000" channel="Channel 5.mewatch">
+    <programme start="20250403150013 +0000" stop="20250403160038 +0000" channel="Channel 5.mewatch">
         <title>CSI: Vegas S3 - EP 6</title>
     </programme>
     <programme start="20250402150155 +0000" stop="20250402160154 +0000" channel="Channel 8.mewatch">
@@ -369,22 +369,22 @@
     <programme start="20250403100025 +0000" stop="20250403110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 13</title>
     </programme>
-    <programme start="20250403110000 +0000" stop="20250403120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403110000 +0000" stop="20250403115817 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 11</title>
     </programme>
-    <programme start="20250403120000 +0000" stop="20250403130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403115817 +0000" stop="20250403130006 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 12</title>
     </programme>
-    <programme start="20250403130000 +0000" stop="20250403140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403130006 +0000" stop="20250403135948 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 9</title>
     </programme>
-    <programme start="20250403140000 +0000" stop="20250403150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403135948 +0000" stop="20250403150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 15</title>
     </programme>
-    <programme start="20250403150000 +0000" stop="20250403153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403150000 +0000" stop="20250403153104 +0000" channel="Channel U.mewatch">
         <title>News Tonight 2025/2026</title>
     </programme>
-    <programme start="20250403153000 +0000" stop="20250403163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250403153104 +0000" stop="20250403163035 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 9</title>
     </programme>
     <programme start="20250402153000 +0000" stop="20250403010000 +0000" channel="Suria.mewatch">
@@ -426,19 +426,19 @@
     <programme start="20250403103106 +0000" stop="20250403110000 +0000" channel="Suria.mewatch">
         <title>SQFT - EP 2</title>
     </programme>
-    <programme start="20250403110000 +0000" stop="20250403120000 +0000" channel="Suria.mewatch">
+    <programme start="20250403110000 +0000" stop="20250403120007 +0000" channel="Suria.mewatch">
         <title>Siapa Viral - EP 8</title>
     </programme>
-    <programme start="20250403120000 +0000" stop="20250403123000 +0000" channel="Suria.mewatch">
+    <programme start="20250403120007 +0000" stop="20250403123007 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250403123000 +0000" stop="20250403133000 +0000" channel="Suria.mewatch">
+    <programme start="20250403123007 +0000" stop="20250403133013 +0000" channel="Suria.mewatch">
         <title>Romantika Raya Special 2024 - EP 2</title>
     </programme>
-    <programme start="20250403133000 +0000" stop="20250403143000 +0000" channel="Suria.mewatch">
+    <programme start="20250403133013 +0000" stop="20250403143002 +0000" channel="Suria.mewatch">
         <title>Pinjaman Syurga - EP 1</title>
     </programme>
-    <programme start="20250403143000 +0000" stop="20250403153000 +0000" channel="Suria.mewatch">
+    <programme start="20250403143002 +0000" stop="20250403153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 2</title>
     </programme>
     <programme start="20250403153000 +0000" stop="20250403160000 +0000" channel="Suria.mewatch">
@@ -594,8 +594,11 @@
     <programme start="20250403140000 +0000" stop="20250403150055 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250403150055 +0000" stop="20250403160002 +0000" channel="CNA.mewatch">
+    <programme start="20250403150055 +0000" stop="20250403155959 +0000" channel="CNA.mewatch">
         <title>Tech To Save The World - EP 4</title>
+    </programme>
+    <programme start="20250403155959 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
+        <title>Headline News 2025/2026</title>
     </programme>
     <programme start="20250402160000 +0000" stop="20250403160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
