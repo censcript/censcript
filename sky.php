@@ -15070,7 +15070,7 @@
         <title>Antimicrobial Resistance Committee</title>
     </programme>
     <programme start="20250404092500 +0000" stop="20250404113500 +0000" channel="BBC Parl HD">
-        <title>NHS England Committee</title>
+        <title>Select Committees   Health and...</title>
     </programme>
     <programme start="20250404113500 +0000" stop="20250404131500 +0000" channel="BBC Parl HD">
         <title>UK-US Trade Statement</title>
@@ -23983,13 +23983,13 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250404150000 +0000" stop="20250404160000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250404160000 +0000" stop="20250404170000 +0000" channel="QVC Style HD">
         <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250404170000 +0000" stop="20250404180000 +0000" channel="QVC Style HD">
-        <title>Your Spring Garden</title>
+        <title>Spring Garden Living</title>
     </programme>
     <programme start="20250404180000 +0000" stop="20250404190000 +0000" channel="QVC Style HD">
         <title>Skechers Footwear</title>
@@ -24592,7 +24592,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250404060000 +0000" stop="20250404070000 +0000" channel="QVC Extra">
-        <title>Garden Furniture Deals</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250404070000 +0000" stop="20250404080000 +0000" channel="QVC Extra">
         <title>Clean &amp; Tidy</title>
@@ -36373,7 +36373,7 @@
         <title>BBC Wales Today</title>
     </programme>
     <programme start="20250404180000 +0000" stop="20250404201500 +0000" channel="BBC One Wal HD">
-        <title>Match of the Day Wales</title>
+        <title>Match of the Day Live: Wales v Denmark</title>
     </programme>
     <programme start="20250404201500 +0000" stop="20250404204500 +0000" channel="BBC One Wal HD">
         <title>Have I Got News For You</title>
