@@ -28132,7 +28132,7 @@
         <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250404190000 +0000" stop="20250404200000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250404200000 +0000" stop="20250404210000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
