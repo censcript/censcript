@@ -1734,13 +1734,10 @@
     <programme start="20250404235000 +0000" stop="20250405004500 +0000" channel="ITV4 HD">
         <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250405004500 +0000" stop="20250405011500 +0000" channel="ITV4 HD">
-        <title>Auto Mundial</title>
+    <programme start="20250405004500 +0000" stop="20250405014500 +0000" channel="ITV4 HD">
+        <title>River Monsters</title>
     </programme>
-    <programme start="20250405011500 +0000" stop="20250405014000 +0000" channel="ITV4 HD">
-        <title>Motorsport Mundial</title>
-    </programme>
-    <programme start="20250405014000 +0000" stop="20250405020000 +0000" channel="ITV4 HD">
+    <programme start="20250405014500 +0000" stop="20250405020000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250405020000 +0000" stop="20250405050000 +0000" channel="ITV4 HD">
@@ -8247,13 +8244,10 @@
     <programme start="20250405005000 +0000" stop="20250405014500 +0000" channel="ITV4+1">
         <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250405014500 +0000" stop="20250405021500 +0000" channel="ITV4+1">
-        <title>Auto Mundial</title>
+    <programme start="20250405014500 +0000" stop="20250405024500 +0000" channel="ITV4+1">
+        <title>River Monsters</title>
     </programme>
-    <programme start="20250405021500 +0000" stop="20250405024000 +0000" channel="ITV4+1">
-        <title>Motorsport Mundial</title>
-    </programme>
-    <programme start="20250405024000 +0000" stop="20250405030000 +0000" channel="ITV4+1">
+    <programme start="20250405024500 +0000" stop="20250405030000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250405030000 +0000" stop="20250405060000 +0000" channel="ITV4+1">
