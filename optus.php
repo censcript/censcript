@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250403233000 +0000" stop="20250404003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250404010000 +0000" stop="20250404013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250404093000 +0000" stop="20250404100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -262,7 +256,7 @@
         <title>Women&#039;s Super League - Brighton and Hove Albion v Liverpool</title>
     </programme>
     <programme start="20250419130000 +0000" stop="20250419162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Everton v Manchester City</title>
+        <title>N/A - Goal Rush - Overnight Saturday </title>
     </programme>
     <programme start="20250419190000 +0000" stop="20250419200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
@@ -283,7 +277,7 @@
         <title>Women&#039;s Super League - Manchester City v Everton</title>
     </programme>
     <programme start="20250420120000 +0000" stop="20250420152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Ipswich v Arsenal</title>
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
     <programme start="20250420125500 +0000" stop="20250420151000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Aston Villa</title>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Tokyo Verdy v Cerezo</title>
+    </programme>
+    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
+    </programme>
+    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Kashiwa v Albirex</title>
     </programme>
 </tv>

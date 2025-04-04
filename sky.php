@@ -23824,7 +23824,7 @@
         <title>Live from Jaipur Birthday Deals with Cris</title>
     </programme>
     <programme start="20250404130000 +0000" stop="20250404140000 +0000" channel="TJC HD">
-        <title>TJC Birthday Bonanza with Chloe</title>
+        <title>TJC Birthday Bonanza with Andria &amp; Chloe</title>
     </programme>
     <programme start="20250404140000 +0000" stop="20250404150000 +0000" channel="TJC HD">
         <title>TJC Birthday Bonanza with Chloe</title>
