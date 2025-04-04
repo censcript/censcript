@@ -14967,11 +14967,8 @@
     <programme start="20250404103000 +0000" stop="20250404104500 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
     </programme>
-    <programme start="20250404104500 +0000" stop="20250404110000 +0000" channel="BBC NEWS HD">
+    <programme start="20250404104500 +0000" stop="20250404113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250404110000 +0000" stop="20250404113000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
     </programme>
     <programme start="20250404113000 +0000" stop="20250404120000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -37231,7 +37228,7 @@
         <title>Johnny Vaughan</title>
     </programme>
     <programme start="20250404180000 +0000" stop="20250404220000 +0000" channel="Radio X">
-        <title>Indie Night</title>
+        <title>Sarah Gosling</title>
     </programme>
     <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="Radio X">
         <title>X-Posure with John Kennedy</title>
