@@ -29656,13 +29656,13 @@
         <title>The Voice Of Oneness 2024</title>
     </programme>
     <programme start="20250404210000 +0000" stop="20250404220000 +0000" channel="iON TV">
-        <title>Music Hour</title>
-    </programme>
-    <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
+    <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="iON TV">
+        <title>Cine Hour</title>
+    </programme>
     <programme start="20250404230000 +0000" stop="20250405000000 +0000" channel="iON TV">
-        <title>Nasheed</title>
+        <title>Express 24</title>
     </programme>
     <programme start="20250405000000 +0000" stop="20250405003000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -29685,10 +29685,7 @@
     <programme start="20250405040000 +0000" stop="20250405044900 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
-    <programme start="20250405044900 +0000" stop="20250405045400 +0000" channel="iON TV">
-        <title>Azan-e-Fajr</title>
-    </programme>
-    <programme start="20250405045400 +0000" stop="20250405050000 +0000" channel="iON TV">
+    <programme start="20250405044900 +0000" stop="20250405050000 +0000" channel="iON TV">
         <title>Quran Recitation</title>
     </programme>
     <programme start="20250405050000 +0000" stop="20250405053000 +0000" channel="iON TV">
