@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250404093000 +0000" stop="20250404100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Kashiwa v Albirex</title>
+    </programme>
+    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Bayern Munich v Werder Bremen</title>
     </programme>
 </tv>
