@@ -1728,25 +1728,19 @@
     <programme start="20250405220000 +0000" stop="20250405230000 +0000" channel="ITV3 HD">
         <title>Inspector Morse</title>
     </programme>
-    <programme start="20250404174500 +0000" stop="20250404220000 +0000" channel="ITV4 HD">
-        <title>Snooker: Tour Championship</title>
-    </programme>
-    <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="ITV4 HD">
+    <programme start="20250404215000 +0000" stop="20250404235000 +0000" channel="ITV4 HD">
         <title>All Elite Wrestling: Dynamite</title>
     </programme>
-    <programme start="20250404230000 +0000" stop="20250404235500 +0000" channel="ITV4 HD">
+    <programme start="20250404235000 +0000" stop="20250405004500 +0000" channel="ITV4 HD">
         <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250404235500 +0000" stop="20250405005500 +0000" channel="ITV4 HD">
-        <title>River Monsters</title>
-    </programme>
-    <programme start="20250405005500 +0000" stop="20250405012500 +0000" channel="ITV4 HD">
+    <programme start="20250405004500 +0000" stop="20250405011500 +0000" channel="ITV4 HD">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250405012500 +0000" stop="20250405015000 +0000" channel="ITV4 HD">
+    <programme start="20250405011500 +0000" stop="20250405014000 +0000" channel="ITV4 HD">
         <title>Motorsport Mundial</title>
     </programme>
-    <programme start="20250405015000 +0000" stop="20250405020000 +0000" channel="ITV4 HD">
+    <programme start="20250405014000 +0000" stop="20250405020000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250405020000 +0000" stop="20250405050000 +0000" channel="ITV4 HD">
@@ -8244,25 +8238,22 @@
     <programme start="20250405210000 +0000" stop="20250405220000 +0000" channel="ITV3+1">
         <title>Vera</title>
     </programme>
-    <programme start="20250404184500 +0000" stop="20250404230000 +0000" channel="ITV4+1">
+    <programme start="20250404184500 +0000" stop="20250404225000 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250404230000 +0000" stop="20250405000000 +0000" channel="ITV4+1">
+    <programme start="20250404225000 +0000" stop="20250405005000 +0000" channel="ITV4+1">
         <title>All Elite Wrestling: Dynamite</title>
     </programme>
-    <programme start="20250405000000 +0000" stop="20250405005500 +0000" channel="ITV4+1">
+    <programme start="20250405005000 +0000" stop="20250405014500 +0000" channel="ITV4+1">
         <title>New: Dark Side of the Ring</title>
     </programme>
-    <programme start="20250405005500 +0000" stop="20250405015500 +0000" channel="ITV4+1">
-        <title>River Monsters</title>
-    </programme>
-    <programme start="20250405015500 +0000" stop="20250405022500 +0000" channel="ITV4+1">
+    <programme start="20250405014500 +0000" stop="20250405021500 +0000" channel="ITV4+1">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250405022500 +0000" stop="20250405025000 +0000" channel="ITV4+1">
+    <programme start="20250405021500 +0000" stop="20250405024000 +0000" channel="ITV4+1">
         <title>Motorsport Mundial</title>
     </programme>
-    <programme start="20250405025000 +0000" stop="20250405030000 +0000" channel="ITV4+1">
+    <programme start="20250405024000 +0000" stop="20250405030000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250405030000 +0000" stop="20250405060000 +0000" channel="ITV4+1">
@@ -29706,83 +29697,95 @@
     <programme start="20250405053000 +0000" stop="20250405060000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250405060000 +0000" stop="20250405063000 +0000" channel="iON TV">
-        <title>iON News Time.</title>
-    </programme>
-    <programme start="20250405063000 +0000" stop="20250405070000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+    <programme start="20250405060000 +0000" stop="20250405070000 +0000" channel="iON TV">
+        <title>Quranic Arabic</title>
     </programme>
     <programme start="20250405070000 +0000" stop="20250405080000 +0000" channel="iON TV">
         <title>Forty Hadiths</title>
     </programme>
     <programme start="20250405080000 +0000" stop="20250405090000 +0000" channel="iON TV">
-        <title>Quranic Arabic</title>
+        <title>Music Hour</title>
     </programme>
-    <programme start="20250405090000 +0000" stop="20250405100000 +0000" channel="iON TV">
-        <title>Tafseer-ul-Qur'aan</title>
-    </programme>
-    <programme start="20250405100000 +0000" stop="20250405103000 +0000" channel="iON TV">
+    <programme start="20250405090000 +0000" stop="20250405093000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250405103000 +0000" stop="20250405110000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+    <programme start="20250405093000 +0000" stop="20250405100000 +0000" channel="iON TV">
+        <title>News 24</title>
     </programme>
-    <programme start="20250405110000 +0000" stop="20250405120000 +0000" channel="iON TV">
-        <title>Akhsaru Tafaseer</title>
+    <programme start="20250405100000 +0000" stop="20250405110000 +0000" channel="iON TV">
+        <title>Susto Thakun</title>
     </programme>
-    <programme start="20250405120000 +0000" stop="20250405121200 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250405110000 +0000" stop="20250405112000 +0000" channel="iON TV">
+        <title>Community Focus</title>
     </programme>
-    <programme start="20250405121200 +0000" stop="20250405121700 +0000" channel="iON TV">
+    <programme start="20250405112000 +0000" stop="20250405120000 +0000" channel="iON TV">
+        <title>Community Focus</title>
+    </programme>
+    <programme start="20250405120000 +0000" stop="20250405120800 +0000" channel="iON TV">
+        <title>iON News Time</title>
+    </programme>
+    <programme start="20250405120800 +0000" stop="20250405121300 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250405121700 +0000" stop="20250405130000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
-    </programme>
-    <programme start="20250405130000 +0000" stop="20250405133000 +0000" channel="iON TV">
+    <programme start="20250405121300 +0000" stop="20250405123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250405133000 +0000" stop="20250405140000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+    <programme start="20250405123000 +0000" stop="20250405130000 +0000" channel="iON TV">
+        <title>Madinar Alo</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405150000 +0000" channel="iON TV">
-        <title>Islamic Knowledge By Azhari</title>
+    <programme start="20250405130000 +0000" stop="20250405140000 +0000" channel="iON TV">
+        <title>Madinar Alo</title>
+    </programme>
+    <programme start="20250405140000 +0000" stop="20250405142000 +0000" channel="iON TV">
+        <title>Alor Pothe</title>
+    </programme>
+    <programme start="20250405142000 +0000" stop="20250405150000 +0000" channel="iON TV">
+        <title>Alor Pothe</title>
     </programme>
     <programme start="20250405150000 +0000" stop="20250405160000 +0000" channel="iON TV">
-        <title>Quran Recitation</title>
+        <title>Bornomala</title>
     </programme>
-    <programme start="20250405160000 +0000" stop="20250405161900 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405160000 +0000" stop="20250405163700 +0000" channel="iON TV">
+        <title>Nasheed</title>
     </programme>
-    <programme start="20250405161900 +0000" stop="20250405162400 +0000" channel="iON TV">
+    <programme start="20250405163700 +0000" stop="20250405164200 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250405162400 +0000" stop="20250405165900 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405164200 +0000" stop="20250405170000 +0000" channel="iON TV">
+        <title>Nasheed</title>
     </programme>
-    <programme start="20250405165900 +0000" stop="20250405182000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405170000 +0000" stop="20250405173800 +0000" channel="iON TV">
+        <title>Documentary</title>
     </programme>
-    <programme start="20250405182000 +0000" stop="20250405182500 +0000" channel="iON TV">
+    <programme start="20250405173800 +0000" stop="20250405180000 +0000" channel="iON TV">
+        <title>Documentary</title>
+    </programme>
+    <programme start="20250405180000 +0000" stop="20250405184400 +0000" channel="iON TV">
+        <title>Music Hour</title>
+    </programme>
+    <programme start="20250405184400 +0000" stop="20250405184900 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250405182500 +0000" stop="20250405193900 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405184900 +0000" stop="20250405190000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
-    <programme start="20250405193900 +0000" stop="20250405194400 +0000" channel="iON TV">
+    <programme start="20250405190000 +0000" stop="20250405200000 +0000" channel="iON TV">
+        <title>Drama Time</title>
+    </programme>
+    <programme start="20250405200000 +0000" stop="20250405200500 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250405194400 +0000" stop="20250405213000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405200500 +0000" stop="20250405203000 +0000" channel="iON TV">
+        <title>News 24</title>
     </programme>
-    <programme start="20250405213000 +0000" stop="20250405220000 +0000" channel="iON TV">
+    <programme start="20250405203000 +0000" stop="20250405210000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250405220000 +0000" stop="20250405223000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405210000 +0000" stop="20250405220000 +0000" channel="iON TV">
+        <title>Cine Hour</title>
     </programme>
-    <programme start="20250405223000 +0000" stop="20250405233000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250405220000 +0000" stop="20250405230000 +0000" channel="iON TV">
+        <title>News Views</title>
     </programme>
     <programme start="20250404200300 +0000" stop="20250404220000 +0000" channel="Deen TV">
         <title>International Qirat Conference</title>
