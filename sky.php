@@ -23695,7 +23695,7 @@
         <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250404220000 +0000" stop="20250404230000 +0000" channel="QVC HD">
-        <title>Ultrasun Professional Suncare</title>
+        <title>Ultrasun on 4EZ Pay</title>
     </programme>
     <programme start="20250403210000 +0000" stop="20250403220000 +0000" channel="MstHveIdeasHD">
         <title>Love to Clean</title>

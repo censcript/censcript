@@ -405,16 +405,16 @@
     <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 1</title>
     </programme>
-    <programme start="20250404120000 +0000" stop="20250404123000 +0000" channel="Suria.mewatch">
+    <programme start="20250404120000 +0000" stop="20250404123012 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250404123000 +0000" stop="20250404130000 +0000" channel="Suria.mewatch">
+    <programme start="20250404123012 +0000" stop="20250404130022 +0000" channel="Suria.mewatch">
         <title>Legenda Puteri Qaseh - EP 1</title>
     </programme>
-    <programme start="20250404130000 +0000" stop="20250404133000 +0000" channel="Suria.mewatch">
+    <programme start="20250404130022 +0000" stop="20250404133006 +0000" channel="Suria.mewatch">
         <title>Tali dan Tangga - EP 11</title>
     </programme>
-    <programme start="20250404133000 +0000" stop="20250404153000 +0000" channel="Suria.mewatch">
+    <programme start="20250404133006 +0000" stop="20250404153000 +0000" channel="Suria.mewatch">
         <title>HeistDilfitri</title>
     </programme>
     <programme start="20250404153000 +0000" stop="20250406160000 +0000" channel="Suria.mewatch">
@@ -477,16 +477,16 @@
     <programme start="20250404115935 +0000" stop="20250404123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 1</title>
     </programme>
-    <programme start="20250404123000 +0000" stop="20250404125955 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404123000 +0000" stop="20250404125958 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250404125955 +0000" stop="20250404133003 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404125958 +0000" stop="20250404133009 +0000" channel="Vasantham.mewatch">
         <title>Crime Watch 2025 - EP 1</title>
     </programme>
-    <programme start="20250404133003 +0000" stop="20250404140016 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404133009 +0000" stop="20250404140018 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 1</title>
     </programme>
-    <programme start="20250404140016 +0000" stop="20250404170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404140018 +0000" stop="20250404170000 +0000" channel="Vasantham.mewatch">
         <title>Pulikkuthi Pandi</title>
     </programme>
     <programme start="20250403155959 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
