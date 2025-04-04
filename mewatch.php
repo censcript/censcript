@@ -231,26 +231,23 @@
     <programme start="20250404113005 +0000" stop="20250404120011 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 5</title>
     </programme>
-    <programme start="20250404120011 +0000" stop="20250404122942 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404120011 +0000" stop="20250404122917 +0000" channel="Channel 8.mewatch">
         <title>Every Body Knows - EP 13</title>
     </programme>
-    <programme start="20250404122942 +0000" stop="20250404130056 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404122917 +0000" stop="20250404130031 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 1</title>
     </programme>
-    <programme start="20250404130056 +0000" stop="20250404140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404130031 +0000" stop="20250404140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 13</title>
     </programme>
     <programme start="20250404140000 +0000" stop="20250404143125 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250404143125 +0000" stop="20250404150002 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404143125 +0000" stop="20250404150012 +0000" channel="Channel 8.mewatch">
         <title>A Thousand Years of Shaanxi Cuisine S2 - EP 4</title>
     </programme>
-    <programme start="20250404150002 +0000" stop="20250404155951 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404150012 +0000" stop="20250404160003 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 35</title>
-    </programme>
-    <programme start="20250404155951 +0000" stop="20250404165952 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 24</title>
     </programme>
     <programme start="20250403153104 +0000" stop="20250403163035 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 9</title>
@@ -354,22 +351,22 @@
     <programme start="20250404095918 +0000" stop="20250404110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 14</title>
     </programme>
-    <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404110000 +0000" stop="20250404115820 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 13</title>
     </programme>
-    <programme start="20250404120000 +0000" stop="20250404130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404115820 +0000" stop="20250404125935 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 14</title>
     </programme>
-    <programme start="20250404130000 +0000" stop="20250404140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404125935 +0000" stop="20250404140011 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 5</title>
     </programme>
-    <programme start="20250404140000 +0000" stop="20250404150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404140011 +0000" stop="20250404150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 16</title>
     </programme>
-    <programme start="20250404150000 +0000" stop="20250404153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404150000 +0000" stop="20250404153022 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250404153000 +0000" stop="20250404163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250404153022 +0000" stop="20250404163112 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 5</title>
     </programme>
     <programme start="20250404010000 +0000" stop="20250404012958 +0000" channel="Suria.mewatch">
@@ -474,22 +471,22 @@
     <programme start="20250404103015 +0000" stop="20250404110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 5</title>
     </programme>
-    <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404110000 +0000" stop="20250404115935 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 25</title>
     </programme>
-    <programme start="20250404120000 +0000" stop="20250404123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404115935 +0000" stop="20250404123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 1</title>
     </programme>
-    <programme start="20250404123000 +0000" stop="20250404130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404123000 +0000" stop="20250404125955 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250404130000 +0000" stop="20250404133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404125955 +0000" stop="20250404133003 +0000" channel="Vasantham.mewatch">
         <title>Crime Watch 2025 - EP 1</title>
     </programme>
-    <programme start="20250404133000 +0000" stop="20250404140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404133003 +0000" stop="20250404140016 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 1</title>
     </programme>
-    <programme start="20250404140000 +0000" stop="20250404170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404140016 +0000" stop="20250404170000 +0000" channel="Vasantham.mewatch">
         <title>Pulikkuthi Pandi</title>
     </programme>
     <programme start="20250403155959 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
@@ -546,22 +543,22 @@
     <programme start="20250404095959 +0000" stop="20250404110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="CNA.mewatch">
+    <programme start="20250404110000 +0000" stop="20250404115959 +0000" channel="CNA.mewatch">
         <title>The Untold Story of Singapore&#039;s Public Housing - EP 1</title>
     </programme>
-    <programme start="20250404120000 +0000" stop="20250404130000 +0000" channel="CNA.mewatch">
+    <programme start="20250404115959 +0000" stop="20250404125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250404130000 +0000" stop="20250404140000 +0000" channel="CNA.mewatch">
+    <programme start="20250404125959 +0000" stop="20250404135959 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 1</title>
     </programme>
-    <programme start="20250404140000 +0000" stop="20250404150000 +0000" channel="CNA.mewatch">
+    <programme start="20250404135959 +0000" stop="20250404150114 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250404150000 +0000" stop="20250404160000 +0000" channel="CNA.mewatch">
+    <programme start="20250404150114 +0000" stop="20250404160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 18</title>
     </programme>
-    <programme start="20250404160000 +0000" stop="20250404160300 +0000" channel="CNA.mewatch">
+    <programme start="20250404160000 +0000" stop="20250404160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250403160000 +0000" stop="20250404160000 +0000" channel="Oktolidays.mewatch">
