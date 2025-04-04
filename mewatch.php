@@ -393,16 +393,16 @@
     <programme start="20250404055946 +0000" stop="20250404065945 +0000" channel="Suria.mewatch">
         <title>Sunshine - EP 2</title>
     </programme>
-    <programme start="20250404065945 +0000" stop="20250404074943 +0000" channel="Suria.mewatch">
+    <programme start="20250404065945 +0000" stop="20250404080017 +0000" channel="Suria.mewatch">
         <title>Romantika Raya Special 2024 - EP 2</title>
     </programme>
-    <programme start="20250404074943 +0000" stop="20250404093942 +0000" channel="Suria.mewatch">
+    <programme start="20250404080017 +0000" stop="20250404095958 +0000" channel="Suria.mewatch">
         <title>Permintaan Terakhir Abah</title>
     </programme>
-    <programme start="20250404093942 +0000" stop="20250404100944 +0000" channel="Suria.mewatch">
+    <programme start="20250404095958 +0000" stop="20250404103000 +0000" channel="Suria.mewatch">
         <title>Mechamato &#039;The Animated Series&#039; S2 - EP 4</title>
     </programme>
-    <programme start="20250404100944 +0000" stop="20250404110000 +0000" channel="Suria.mewatch">
+    <programme start="20250404103000 +0000" stop="20250404110000 +0000" channel="Suria.mewatch">
         <title>SQFT - EP 3</title>
     </programme>
     <programme start="20250404110000 +0000" stop="20250404120000 +0000" channel="Suria.mewatch">
@@ -420,7 +420,7 @@
     <programme start="20250404133000 +0000" stop="20250404153000 +0000" channel="Suria.mewatch">
         <title>HeistDilfitri</title>
     </programme>
-    <programme start="20250404153000 +0000" stop="20250405010000 +0000" channel="Suria.mewatch">
+    <programme start="20250404153000 +0000" stop="20250406160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250403160007 +0000" stop="20250403162829 +0000" channel="Vasantham.mewatch">
@@ -495,22 +495,25 @@
     <programme start="20250403155959 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250403160329 +0000" stop="20250403170059 +0000" channel="CNA.mewatch">
+    <programme start="20250403160001 +0000" stop="20250403160329 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250403160329 +0000" stop="20250403170047 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250403170059 +0000" stop="20250403180000 +0000" channel="CNA.mewatch">
+    <programme start="20250403170047 +0000" stop="20250403180000 +0000" channel="CNA.mewatch">
         <title>Undercover Asia S11: The Digital Hostage - EP 1</title>
     </programme>
-    <programme start="20250403180000 +0000" stop="20250403185959 +0000" channel="CNA.mewatch">
+    <programme start="20250403180000 +0000" stop="20250403185901 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250403185959 +0000" stop="20250403195959 +0000" channel="CNA.mewatch">
+    <programme start="20250403185901 +0000" stop="20250403200000 +0000" channel="CNA.mewatch">
         <title>Undercover Asia S11: Copy+Paste+Steal - EP 2</title>
     </programme>
-    <programme start="20250403195959 +0000" stop="20250403205958 +0000" channel="CNA.mewatch">
+    <programme start="20250403200000 +0000" stop="20250403210018 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250403205958 +0000" stop="20250403220000 +0000" channel="CNA.mewatch">
+    <programme start="20250403210018 +0000" stop="20250403220000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 18</title>
     </programme>
     <programme start="20250403220000 +0000" stop="20250403225959 +0000" channel="CNA.mewatch">
