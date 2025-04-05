@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250405045000 +0000" stop="20250405071000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Seoul</title>
-    </programme>
-    <programme start="20250405045500 +0000" stop="20250405071000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Yokohama FM v Tokyo Verdy</title>
-    </programme>
     <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daejeon v Jeonbuk</title>
     </programme>

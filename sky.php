@@ -28165,7 +28165,7 @@
         <title>Oriental Scholars</title>
     </programme>
     <programme start="20250405100000 +0000" stop="20250405103000 +0000" channel="Eman Channel">
-        <title>New LIVE with Sh. Naif</title>
+        <title>Activ8</title>
     </programme>
     <programme start="20250405103000 +0000" stop="20250405110000 +0000" channel="Eman Channel">
         <title>Little Explorers: The Den</title>
