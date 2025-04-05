@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250405190000 +0000" stop="20250405200000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250406045500 +0000" stop="20250406071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Kawasaki</title>
     </programme>

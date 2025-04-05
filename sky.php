@@ -8178,8 +8178,8 @@
     <programme start="20250406220000 +0000" stop="20250406230000 +0000" channel="ITV3+1">
         <title>Vera</title>
     </programme>
-    <programme start="20250405184500 +0000" stop="20250405220000 +0000" channel="ITV4+1">
-        <title>Snooker: Tour Championship</title>
+    <programme start="20250405214500 +0000" stop="20250405220000 +0000" channel="ITV4+1">
+        <title>British Touring Car Crashes and Smashes</title>
     </programme>
     <programme start="20250405220000 +0000" stop="20250405230000 +0000" channel="ITV4+1">
         <title>River Monsters</title>
@@ -29566,10 +29566,10 @@
         <title>News 24</title>
     </programme>
     <programme start="20250406060000 +0000" stop="20250406070000 +0000" channel="iON TV">
-        <title>Quranic Arabic</title>
+        <title>Forty Hadiths</title>
     </programme>
     <programme start="20250406070000 +0000" stop="20250406080000 +0000" channel="iON TV">
-        <title>Forty Hadiths</title>
+        <title>Quranic Arabic</title>
     </programme>
     <programme start="20250406080000 +0000" stop="20250406090000 +0000" channel="iON TV">
         <title>Music Hour</title>
