@@ -37257,11 +37257,8 @@
     <programme start="20250405033500 +0000" stop="20250405055500 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
-    <programme start="20250405055500 +0000" stop="20250405071500 +0000" channel="BBC R5SX">
+    <programme start="20250405055500 +0000" stop="20250405095500 +0000" channel="BBC R5SX">
         <title>Formula 1</title>
-    </programme>
-    <programme start="20250405071500 +0000" stop="20250405095500 +0000" channel="BBC R5SX">
-        <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250405095500 +0000" stop="20250405112500 +0000" channel="BBC R5SX">
         <title>Cricket</title>
