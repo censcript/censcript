@@ -13731,10 +13731,13 @@
     <programme start="20250405112500 +0000" stop="20250405140000 +0000" channel="SkySp+ HD">
         <title>Live EFL: West Brom v Sunderland</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405170000 +0000" channel="SkySp+ HD">
+    <programme start="20250405140000 +0000" stop="20250405150000 +0000" channel="SkySp+ HD">
+        <title>Gillette Soccer Sat: Live Scores</title>
+    </programme>
+    <programme start="20250405150000 +0000" stop="20250405170001 +0000" channel="SkySp+ HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
-    <programme start="20250405170000 +0000" stop="20250405220000 +0000" channel="SkySp+ HD">
+    <programme start="20250405170001 +0000" stop="20250405220000 +0000" channel="SkySp+ HD">
         <title>Live PGA Tour Golf</title>
     </programme>
     <programme start="20250405220000 +0000" stop="20250405230000 +0000" channel="SkySp+ HD">
@@ -13788,10 +13791,22 @@
     <programme start="20250405104500 +0000" stop="20250405110000 +0000" channel="SkySp Mix HD">
         <title>My Icon: Johnny Nelson (Pt2)</title>
     </programme>
-    <programme start="20250405110000 +0000" stop="20250405140000 +0000" channel="SkySp Mix HD">
+    <programme start="20250405110000 +0000" stop="20250405130000 +0000" channel="SkySp Mix HD">
         <title>Live Ladies European Tour Golf</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405151500 +0000" channel="SkySp Mix HD">
+    <programme start="20250405130000 +0000" stop="20250405131500 +0000" channel="SkySp Mix HD">
+        <title>My Icon: Henni Goya</title>
+    </programme>
+    <programme start="20250405131500 +0000" stop="20250405133000 +0000" channel="SkySp Mix HD">
+        <title>My Icon: Catriona Matthew</title>
+    </programme>
+    <programme start="20250405133000 +0000" stop="20250405134500 +0000" channel="SkySp Mix HD">
+        <title>My Icon: Johnny Nelson (Part 1)</title>
+    </programme>
+    <programme start="20250405134500 +0000" stop="20250405140001 +0000" channel="SkySp Mix HD">
+        <title>My Icon:  Johnny Nelson (Part 2)</title>
+    </programme>
+    <programme start="20250405140001 +0000" stop="20250405151500 +0000" channel="SkySp Mix HD">
         <title>Abbie Ward: A Bump In The Road</title>
     </programme>
     <programme start="20250405151500 +0000" stop="20250405153000 +0000" channel="SkySp Mix HD">
@@ -33375,10 +33390,22 @@
     <programme start="20250405104500 +0000" stop="20250405110000 +0000" channel="SkySp Mix">
         <title>My Icon: Johnny Nelson (Pt2)</title>
     </programme>
-    <programme start="20250405110000 +0000" stop="20250405140000 +0000" channel="SkySp Mix">
+    <programme start="20250405110000 +0000" stop="20250405130000 +0000" channel="SkySp Mix">
         <title>Live Ladies European Tour Golf</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405151500 +0000" channel="SkySp Mix">
+    <programme start="20250405130000 +0000" stop="20250405131500 +0000" channel="SkySp Mix">
+        <title>My Icon: Henni Goya</title>
+    </programme>
+    <programme start="20250405131500 +0000" stop="20250405133000 +0000" channel="SkySp Mix">
+        <title>My Icon: Catriona Matthew</title>
+    </programme>
+    <programme start="20250405133000 +0000" stop="20250405134500 +0000" channel="SkySp Mix">
+        <title>My Icon: Johnny Nelson (Part 1)</title>
+    </programme>
+    <programme start="20250405134500 +0000" stop="20250405140001 +0000" channel="SkySp Mix">
+        <title>My Icon:  Johnny Nelson (Part 2)</title>
+    </programme>
+    <programme start="20250405140001 +0000" stop="20250405151500 +0000" channel="SkySp Mix">
         <title>Abbie Ward: A Bump In The Road</title>
     </programme>
     <programme start="20250405151500 +0000" stop="20250405153000 +0000" channel="SkySp Mix">
