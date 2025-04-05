@@ -13227,22 +13227,19 @@
     <programme start="20250405050000 +0000" stop="20250405080000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
     </programme>
-    <programme start="20250405080000 +0000" stop="20250405100000 +0000" channel="SkySp Golf HD">
+    <programme start="20250405080000 +0000" stop="20250405100001 +0000" channel="SkySp Golf HD">
         <title>LPGA Matchplay Golf</title>
     </programme>
-    <programme start="20250405100000 +0000" stop="20250405103000 +0000" channel="SkySp Golf HD">
-        <title>PGA Tour Champions Learning Centre</title>
-    </programme>
-    <programme start="20250405103000 +0000" stop="20250405110000 +0000" channel="SkySp Golf HD">
-        <title>Golf's Greatest Holes: The Open</title>
-    </programme>
-    <programme start="20250405110000 +0000" stop="20250405140000 +0000" channel="SkySp Golf HD">
+    <programme start="20250405100001 +0000" stop="20250405130000 +0000" channel="SkySp Golf HD">
         <title>Live Ladies European Tour Golf</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405160000 +0000" channel="SkySp Golf HD">
+    <programme start="20250405130000 +0000" stop="20250405150000 +0000" channel="SkySp Golf HD">
+        <title>Augusta Women's Amateur R2</title>
+    </programme>
+    <programme start="20250405150000 +0000" stop="20250405160001 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
-    <programme start="20250405160000 +0000" stop="20250405190000 +0000" channel="SkySp Golf HD">
+    <programme start="20250405160001 +0000" stop="20250405190000 +0000" channel="SkySp Golf HD">
         <title>Live Augusta Women's Amateur R3</title>
     </programme>
     <programme start="20250405190000 +0000" stop="20250405220000 +0000" channel="SkySp Golf HD">
@@ -28576,16 +28573,16 @@
         <title>Khas-GalBaat</title>
     </programme>
     <programme start="20250405190000 +0000" stop="20250405200000 +0000" channel="Sikh Channel">
-        <title>Wrestling Tournament - Coventry</title>
+        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250405200000 +0000" stop="20250405210000 +0000" channel="Sikh Channel">
         <title>King's Award - Sikh Soldier</title>
     </programme>
     <programme start="20250405210000 +0000" stop="20250405213000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+        <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250405213000 +0000" stop="20250405220000 +0000" channel="Sikh Channel">
-        <title>SC India: Punjab News</title>
+        <title>Khas Mulakat</title>
     </programme>
     <programme start="20250405220000 +0000" stop="20250405230000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>

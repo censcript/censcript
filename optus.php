@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daejeon v Jeonbuk</title>
-    </programme>
     <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Arsenal</title>
     </programme>
