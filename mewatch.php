@@ -552,10 +552,10 @@
     <programme start="20250404160000 +0000" stop="20250405095000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 5.50pm. 2024 Singapore Premier League: Hougang United vs Albirex Niigata S</title>
     </programme>
-    <programme start="20250405095000 +0000" stop="20250405142000 +0000" channel="spl01.mewatch">
+    <programme start="20250405095000 +0000" stop="20250405140000 +0000" channel="spl01.mewatch">
         <title>2024 Singapore Premier League: Hougang United vs Albirex Niigata S</title>
     </programme>
-    <programme start="20250405142000 +0000" stop="20250405160000 +0000" channel="spl01.mewatch">
+    <programme start="20250405140000 +0000" stop="20250405160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th April, Sunday 5.50pm. 2024 Singapore Premier League: Young Lions vs Lion City Sailors</title>
     </programme>
     <programme start="20250405160000 +0000" stop="20250406095000 +0000" channel="spl01.mewatch">
@@ -564,10 +564,10 @@
     <programme start="20250404160000 +0000" stop="20250405095000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Saturday 5.50pm. 2024 Singapore Premier League: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
-    <programme start="20250405095000 +0000" stop="20250405142000 +0000" channel="spl02.mewatch">
+    <programme start="20250405095000 +0000" stop="20250405140000 +0000" channel="spl02.mewatch">
         <title>2024 Singapore Premier League: Balestier Khalsa vs Tanjong Pagar United</title>
     </programme>
-    <programme start="20250405142000 +0000" stop="20250405160000 +0000" channel="spl02.mewatch">
+    <programme start="20250405140000 +0000" stop="20250405160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 13th April, Sunday 5.50pm. 2024 Singapore Premier League: Albirex Niigata S vs Young Lions</title>
     </programme>
     <programme start="20250405160000 +0000" stop="20250406160000 +0000" channel="spl02.mewatch">
