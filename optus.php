@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - West Ham United v Bournemouth</title>
-    </programme>
-    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Ipswich v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Crystal Palace v Brighton</title>
-    </programme>
-    <programme start="20250405135000 +0000" stop="20250405162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
-    <programme start="20250405172000 +0000" stop="20250405190000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250405162000 +0000" stop="20250405190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Nottingham Forest</title>
     </programme>
     <programme start="20250406045500 +0000" stop="20250406071000 +0000" channel="Optus Sport 7.optus">

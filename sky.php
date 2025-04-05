@@ -1767,8 +1767,11 @@
     <programme start="20250405113000 +0000" stop="20250405114500 +0000" channel="ITV4 HD">
         <title>World of Sport</title>
     </programme>
-    <programme start="20250405114500 +0000" stop="20250405153000 +0000" channel="ITV4 HD">
+    <programme start="20250405114500 +0000" stop="20250405151500 +0000" channel="ITV4 HD">
         <title>Snooker: Tour Championship</title>
+    </programme>
+    <programme start="20250405151500 +0000" stop="20250405153000 +0000" channel="ITV4 HD">
+        <title>The Best of the 70s</title>
     </programme>
     <programme start="20250405153000 +0000" stop="20250405163000 +0000" channel="ITV4 HD">
         <title>Euro 96 - England v Germany ITV Football Classics</title>
@@ -8277,8 +8280,11 @@
     <programme start="20250405123000 +0000" stop="20250405124500 +0000" channel="ITV4+1">
         <title>World of Sport</title>
     </programme>
-    <programme start="20250405124500 +0000" stop="20250405163000 +0000" channel="ITV4+1">
+    <programme start="20250405124500 +0000" stop="20250405161500 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
+    </programme>
+    <programme start="20250405161500 +0000" stop="20250405163000 +0000" channel="ITV4+1">
+        <title>The Best of the 70s</title>
     </programme>
     <programme start="20250405163000 +0000" stop="20250405173000 +0000" channel="ITV4+1">
         <title>Euro 96 - England v Germany ITV Football Classics</title>
