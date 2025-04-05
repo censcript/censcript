@@ -129,97 +129,97 @@
     <programme start="20250404205910 +0000" stop="20250404220000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 623</title>
     </programme>
-    <programme start="20250404220000 +0000" stop="20250404225000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404220000 +0000" stop="20250404225028 +0000" channel="Channel 8.mewatch">
         <title>Fun With SINGnese - EP 7</title>
     </programme>
-    <programme start="20250404225000 +0000" stop="20250404232000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404225028 +0000" stop="20250404232028 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250404232000 +0000" stop="20250405001000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250404232028 +0000" stop="20250405001059 +0000" channel="Channel 8.mewatch">
         <title>The Journey: Tumultuous Times - EP 11</title>
     </programme>
-    <programme start="20250405001000 +0000" stop="20250405010000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405001059 +0000" stop="20250405010203 +0000" channel="Channel 8.mewatch">
         <title>The Journey: Tumultuous Times - EP 12</title>
     </programme>
-    <programme start="20250405010000 +0000" stop="20250405011500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405010203 +0000" stop="20250405011532 +0000" channel="Channel 8.mewatch">
         <title>Go Go Dino S3-S5 - EP 51</title>
     </programme>
-    <programme start="20250405011500 +0000" stop="20250405013000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405011532 +0000" stop="20250405013010 +0000" channel="Channel 8.mewatch">
         <title>Go Go Dino S3-S5 - EP 52</title>
     </programme>
-    <programme start="20250405013000 +0000" stop="20250405020000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405013010 +0000" stop="20250405020111 +0000" channel="Channel 8.mewatch">
         <title>New Doraemon - EP 381</title>
     </programme>
-    <programme start="20250405020000 +0000" stop="20250405023000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405020111 +0000" stop="20250405023015 +0000" channel="Channel 8.mewatch">
         <title>Miniforce X [S2] - EP 33</title>
     </programme>
-    <programme start="20250405023000 +0000" stop="20250405024500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405023015 +0000" stop="20250405024705 +0000" channel="Channel 8.mewatch">
         <title>Monsters in the Forbidden City - EP 43</title>
     </programme>
-    <programme start="20250405024500 +0000" stop="20250405030000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405024705 +0000" stop="20250405025953 +0000" channel="Channel 8.mewatch">
         <title>Monsters in the Forbidden City - EP 44</title>
     </programme>
-    <programme start="20250405030000 +0000" stop="20250405033000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405025953 +0000" stop="20250405032944 +0000" channel="Channel 8.mewatch">
         <title>Rolling with Love - EP 3</title>
     </programme>
-    <programme start="20250405033000 +0000" stop="20250405040000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405032944 +0000" stop="20250405035947 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 1</title>
     </programme>
-    <programme start="20250405040000 +0000" stop="20250405050000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405035947 +0000" stop="20250405050004 +0000" channel="Channel 8.mewatch">
         <title>King Of Culinary - EP 5</title>
     </programme>
-    <programme start="20250405050000 +0000" stop="20250405060000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405050004 +0000" stop="20250405055923 +0000" channel="Channel 8.mewatch">
         <title>Golden Age Talentime - EP 14</title>
     </programme>
-    <programme start="20250405060000 +0000" stop="20250405063000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405055923 +0000" stop="20250405062921 +0000" channel="Channel 8.mewatch">
         <title>A Thousand Years of Shaanxi Cuisine S2 - EP 4</title>
     </programme>
-    <programme start="20250405063000 +0000" stop="20250405064400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405062921 +0000" stop="20250405064321 +0000" channel="Channel 8.mewatch">
         <title>- EP 245</title>
     </programme>
-    <programme start="20250405064400 +0000" stop="20250405064600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405064321 +0000" stop="20250405064521 +0000" channel="Channel 8.mewatch">
         <title>- EP 260</title>
     </programme>
-    <programme start="20250405064600 +0000" stop="20250405070000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405064521 +0000" stop="20250405065921 +0000" channel="Channel 8.mewatch">
         <title>- EP 176</title>
     </programme>
-    <programme start="20250405070000 +0000" stop="20250405071400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405065921 +0000" stop="20250405071321 +0000" channel="Channel 8.mewatch">
         <title>- EP 234</title>
     </programme>
-    <programme start="20250405071400 +0000" stop="20250405071600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405071321 +0000" stop="20250405071521 +0000" channel="Channel 8.mewatch">
         <title>- EP 223</title>
     </programme>
-    <programme start="20250405071600 +0000" stop="20250405073000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405071521 +0000" stop="20250405072941 +0000" channel="Channel 8.mewatch">
         <title>- EP 264</title>
     </programme>
-    <programme start="20250405073000 +0000" stop="20250405080000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405072941 +0000" stop="20250405075932 +0000" channel="Channel 8.mewatch">
         <title>Hermit Master - EP 12</title>
     </programme>
-    <programme start="20250405080000 +0000" stop="20250405083000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405075932 +0000" stop="20250405082843 +0000" channel="Channel 8.mewatch">
         <title>Be My Guest S2 - EP 6</title>
     </programme>
-    <programme start="20250405083000 +0000" stop="20250405093000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405082843 +0000" stop="20250405092810 +0000" channel="Channel 8.mewatch">
         <title>I Do, Do I? - EP 3</title>
     </programme>
-    <programme start="20250405093000 +0000" stop="20250405103000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405092810 +0000" stop="20250405103000 +0000" channel="Channel 8.mewatch">
         <title>I Do, Do I? - EP 4</title>
     </programme>
-    <programme start="20250405103000 +0000" stop="20250405110000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405103000 +0000" stop="20250405110026 +0000" channel="Channel 8.mewatch">
         <title>Singapore Today</title>
     </programme>
-    <programme start="20250405110000 +0000" stop="20250405120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405110026 +0000" stop="20250405120213 +0000" channel="Channel 8.mewatch">
         <title>Proud Of You - EP 114</title>
     </programme>
-    <programme start="20250405120000 +0000" stop="20250405130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405120213 +0000" stop="20250405130231 +0000" channel="Channel 8.mewatch">
         <title>Proud Of You - EP 115</title>
     </programme>
-    <programme start="20250405130000 +0000" stop="20250405140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405130231 +0000" stop="20250405140000 +0000" channel="Channel 8.mewatch">
         <title>Proud Of You - EP 116</title>
     </programme>
-    <programme start="20250405140000 +0000" stop="20250405143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405140000 +0000" stop="20250405143156 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250405143000 +0000" stop="20250405170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250405143156 +0000" stop="20250405170001 +0000" channel="Channel 8.mewatch">
         <title>Flashover</title>
     </programme>
     <programme start="20250404153022 +0000" stop="20250404163112 +0000" channel="Channel U.mewatch">
@@ -363,8 +363,11 @@
     <programme start="20250404140018 +0000" stop="20250404170000 +0000" channel="Vasantham.mewatch">
         <title>Pulikkuthi Pandi</title>
     </programme>
-    <programme start="20250404170000 +0000" stop="20250405010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250404170000 +0000" stop="20250405000000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
+    </programme>
+    <programme start="20250405000000 +0000" stop="20250405010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250405010000 +0000" stop="20250405012957 +0000" channel="Vasantham.mewatch">
         <title>Chhota Bheem - EP 23</title>
