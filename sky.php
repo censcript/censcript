@@ -26502,8 +26502,11 @@
     <programme start="20250405104500 +0000" stop="20250405110000 +0000" channel="MTA1 World HD">
         <title>Chef's Corner</title>
     </programme>
-    <programme start="20250405110000 +0000" stop="20250405120500 +0000" channel="MTA1 World HD">
+    <programme start="20250405110000 +0000" stop="20250405114500 +0000" channel="MTA1 World HD">
         <title>Eid-ul-Fitr Sermon</title>
+    </programme>
+    <programme start="20250405114500 +0000" stop="20250405120500 +0000" channel="MTA1 World HD">
+        <title>MTA In The Making</title>
     </programme>
     <programme start="20250405120500 +0000" stop="20250405122000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -26517,20 +26520,20 @@
     <programme start="20250405130000 +0000" stop="20250405140500 +0000" channel="MTA1 World HD">
         <title>Live Intikhab-e-Sukhan</title>
     </programme>
-    <programme start="20250405140500 +0000" stop="20250405143000 +0000" channel="MTA1 World HD">
+    <programme start="20250405140500 +0000" stop="20250405143500 +0000" channel="MTA1 World HD">
         <title>Little Legends</title>
     </programme>
-    <programme start="20250405143000 +0000" stop="20250405152500 +0000" channel="MTA1 World HD">
+    <programme start="20250405143500 +0000" stop="20250405153000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250405152500 +0000" stop="20250405153500 +0000" channel="MTA1 World HD">
+    <programme start="20250405153000 +0000" stop="20250405154000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250405153500 +0000" stop="20250405155500 +0000" channel="MTA1 World HD">
+    <programme start="20250405154000 +0000" stop="20250405160000 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250405155500 +0000" stop="20250405163000 +0000" channel="MTA1 World HD">
-        <title>Hiqayat-e-Sidqo Wafa</title>
+    <programme start="20250405160000 +0000" stop="20250405163000 +0000" channel="MTA1 World HD">
+        <title>Noor-e-Hidayat</title>
     </programme>
     <programme start="20250405163000 +0000" stop="20250405173500 +0000" channel="MTA1 World HD">
         <title>Live Rah-e-Huda</title>
@@ -26541,31 +26544,31 @@
     <programme start="20250405180000 +0000" stop="20250405182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250405182000 +0000" stop="20250405183000 +0000" channel="MTA1 World HD">
+    <programme start="20250405182000 +0000" stop="20250405183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250405183000 +0000" stop="20250405190000 +0000" channel="MTA1 World HD">
+    <programme start="20250405183500 +0000" stop="20250405190500 +0000" channel="MTA1 World HD">
         <title>Bachon Ki Duniya</title>
     </programme>
-    <programme start="20250405190000 +0000" stop="20250405200500 +0000" channel="MTA1 World HD">
-        <title>Gulshan-e-Waqfe Nau</title>
+    <programme start="20250405190500 +0000" stop="20250405195500 +0000" channel="MTA1 World HD">
+        <title>Eid-ul-Fitr Sermon</title>
     </programme>
-    <programme start="20250405200500 +0000" stop="20250405205500 +0000" channel="MTA1 World HD">
+    <programme start="20250405195500 +0000" stop="20250405204500 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250405205500 +0000" stop="20250405213000 +0000" channel="MTA1 World HD">
+    <programme start="20250405204500 +0000" stop="20250405212000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
     </programme>
-    <programme start="20250405213000 +0000" stop="20250405220500 +0000" channel="MTA1 World HD">
+    <programme start="20250405212000 +0000" stop="20250405220000 +0000" channel="MTA1 World HD">
         <title>The Golden Age Of Islam</title>
     </programme>
-    <programme start="20250405220500 +0000" stop="20250405223000 +0000" channel="MTA1 World HD">
-        <title>Balance</title>
+    <programme start="20250405220000 +0000" stop="20250405223500 +0000" channel="MTA1 World HD">
+        <title>Noor-e-Hidayat</title>
     </programme>
-    <programme start="20250405223000 +0000" stop="20250405225000 +0000" channel="MTA1 World HD">
+    <programme start="20250405223500 +0000" stop="20250405225500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250405225000 +0000" stop="20250405235000 +0000" channel="MTA1 World HD">
+    <programme start="20250405225500 +0000" stop="20250405235500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250404210000 +0000" stop="20250404220000 +0000" channel="HUM Masala">
