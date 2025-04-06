@@ -28710,23 +28710,20 @@
     <programme start="20250407223000 +0000" stop="20250407233000 +0000" channel="PTC PUNJABI">
         <title>Panj Taara</title>
     </programme>
-    <programme start="20250406213000 +0000" stop="20250406220000 +0000" channel="Sikh Channel">
-        <title>Bhallo Bhallo Re Kirtania</title>
+    <programme start="20250406210000 +0000" stop="20250406220000 +0000" channel="Sikh Channel">
+        <title>Nagar Kirtan - Southall</title>
     </programme>
     <programme start="20250406220000 +0000" stop="20250406230000 +0000" channel="Sikh Channel">
-        <title>Gal Punjab Di</title>
-    </programme>
-    <programme start="20250406230000 +0000" stop="20250407000000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250407000000 +0000" stop="20250407003000 +0000" channel="Sikh Channel">
-        <title>Bhai Gurdeep Singh</title>
-    </programme>
-    <programme start="20250407003000 +0000" stop="20250407013000 +0000" channel="Sikh Channel">
+    <programme start="20250406230000 +0000" stop="20250407000000 +0000" channel="Sikh Channel">
         <title>Gurbani Katha Veechar</title>
     </programme>
-    <programme start="20250407013000 +0000" stop="20250407020000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan - Spain</title>
+    <programme start="20250407000000 +0000" stop="20250407010000 +0000" channel="Sikh Channel">
+        <title>Gurbani Kirtan</title>
+    </programme>
+    <programme start="20250407010000 +0000" stop="20250407020000 +0000" channel="Sikh Channel">
+        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250407020000 +0000" stop="20250407030000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
