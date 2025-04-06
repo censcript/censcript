@@ -28044,22 +28044,19 @@
     <programme start="20250406080000 +0000" stop="20250406081500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250406081500 +0000" stop="20250406091500 +0000" channel="Eman Channel">
+    <programme start="20250406081500 +0000" stop="20250406092000 +0000" channel="Eman Channel">
         <title>Madrasah TV Supercharge</title>
     </programme>
-    <programme start="20250406091500 +0000" stop="20250406094500 +0000" channel="Eman Channel">
+    <programme start="20250406092000 +0000" stop="20250406102000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250406094500 +0000" stop="20250406100000 +0000" channel="Eman Channel">
+    <programme start="20250406102000 +0000" stop="20250406103500 +0000" channel="Eman Channel">
         <title>Oriental Scholars</title>
     </programme>
-    <programme start="20250406100000 +0000" stop="20250406103000 +0000" channel="Eman Channel">
-        <title>New LIVE with Sh. Naif</title>
-    </programme>
-    <programme start="20250406103000 +0000" stop="20250406110000 +0000" channel="Eman Channel">
+    <programme start="20250406103500 +0000" stop="20250406110500 +0000" channel="Eman Channel">
         <title>Little Explorers: The Den</title>
     </programme>
-    <programme start="20250406110000 +0000" stop="20250406120000 +0000" channel="Eman Channel">
+    <programme start="20250406110500 +0000" stop="20250406120000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250406120000 +0000" stop="20250406120800 +0000" channel="Eman Channel">

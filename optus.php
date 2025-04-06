@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Anyang v Gangwon</title>
-    </programme>
-    <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gwangju v Jeju</title>
-    </programme>
     <programme start="20250406120000 +0000" stop="20250406152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
