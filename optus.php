@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Sanfrecce v Cerezo</title>
-    </programme>
-    <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Kashiwa v Gamba</title>
-    </programme>
     <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Anyang v Gangwon</title>
     </programme>
