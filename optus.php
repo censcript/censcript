@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250406120000 +0000" stop="20250406152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Tottenham Hotspur v Southampton</title>
-    </programme>
-    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Fulham v Liverpool</title>
-    </programme>
-    <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brentford v Chelsea</title>
-    </programme>
     <programme start="20250406152000 +0000" stop="20250406183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester United v Manchester City</title>
     </programme>

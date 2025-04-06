@@ -26809,7 +26809,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250406140500 +0000" stop="20250406150000 +0000" channel="New Vision TV">
-        <title>Saray Aam</title>
+        <title>Kahay Faqir</title>
     </programme>
     <programme start="20250406150000 +0000" stop="20250406150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
