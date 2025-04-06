@@ -12498,9 +12498,6 @@
     <programme start="20250406220000 +0000" stop="20250406230000 +0000" channel="NOW 80s">
         <title>School Disco of Rock! Top 25</title>
     </programme>
-    <programme start="20250405150000 +0000" stop="20250405231000 +0000" channel="NOW 90s &amp; 00s">
-        <title>The NOW 100 Of The 00s</title>
-    </programme>
     <programme start="20250405231000 +0000" stop="20250406000000 +0000" channel="NOW 90s &amp; 00s">
         <title>The Feelgood Weekender!</title>
     </programme>
@@ -26815,7 +26812,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250406150500 +0000" stop="20250406160000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Saray Aam</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250406160500 +0000" channel="New Vision TV">
         <title>Headline News</title>
