@@ -1791,22 +1791,19 @@
     <programme start="20250407225000 +0000" stop="20250407235000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250406174500 +0000" stop="20250406220000 +0000" channel="ITV4 HD">
+    <programme start="20250406174500 +0000" stop="20250406230000 +0000" channel="ITV4 HD">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250406220000 +0000" stop="20250406233000 +0000" channel="ITV4 HD">
+    <programme start="20250406230000 +0000" stop="20250407003000 +0000" channel="ITV4 HD">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250406233000 +0000" stop="20250407002500 +0000" channel="ITV4 HD">
+    <programme start="20250407003000 +0000" stop="20250407012500 +0000" channel="ITV4 HD">
         <title>BattleBots</title>
     </programme>
-    <programme start="20250407002500 +0000" stop="20250407012000 +0000" channel="ITV4 HD">
-        <title>Minder</title>
-    </programme>
-    <programme start="20250407012000 +0000" stop="20250407015000 +0000" channel="ITV4 HD">
+    <programme start="20250407012500 +0000" stop="20250407015500 +0000" channel="ITV4 HD">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250407015000 +0000" stop="20250407020000 +0000" channel="ITV4 HD">
+    <programme start="20250407015500 +0000" stop="20250407020000 +0000" channel="ITV4 HD">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250407020000 +0000" stop="20250407050000 +0000" channel="ITV4 HD">
@@ -8415,22 +8412,19 @@
     <programme start="20250407220000 +0000" stop="20250407230000 +0000" channel="ITV3+1">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250406184500 +0000" stop="20250406230000 +0000" channel="ITV4+1">
+    <programme start="20250406184500 +0000" stop="20250407000000 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
     </programme>
-    <programme start="20250406230000 +0000" stop="20250407003000 +0000" channel="ITV4+1">
+    <programme start="20250407000000 +0000" stop="20250407013000 +0000" channel="ITV4+1">
         <title>English Football League Highlights</title>
     </programme>
-    <programme start="20250407003000 +0000" stop="20250407012500 +0000" channel="ITV4+1">
+    <programme start="20250407013000 +0000" stop="20250407022500 +0000" channel="ITV4+1">
         <title>BattleBots</title>
     </programme>
-    <programme start="20250407012500 +0000" stop="20250407022000 +0000" channel="ITV4+1">
-        <title>Minder</title>
-    </programme>
-    <programme start="20250407022000 +0000" stop="20250407025000 +0000" channel="ITV4+1">
+    <programme start="20250407022500 +0000" stop="20250407025500 +0000" channel="ITV4+1">
         <title>Auto Mundial</title>
     </programme>
-    <programme start="20250407025000 +0000" stop="20250407030000 +0000" channel="ITV4+1">
+    <programme start="20250407025500 +0000" stop="20250407030000 +0000" channel="ITV4+1">
         <title>Unwind with ITV</title>
     </programme>
     <programme start="20250407030000 +0000" stop="20250407060000 +0000" channel="ITV4+1">

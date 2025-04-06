@@ -180,6 +180,12 @@
     <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250419045000 +0000" stop="20250419071000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Gangwon</title>
+    </programme>
+    <programme start="20250419072000 +0000" stop="20250419094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Anyang v Suwon FC</title>
+    </programme>
     <programme start="20250419105000 +0000" stop="20250419131000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester United</title>
     </programme>
@@ -203,6 +209,12 @@
     </programme>
     <programme start="20250420065500 +0000" stop="20250420091000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Urawa Red Diamonds v Yokohama FM</title>
+    </programme>
+    <programme start="20250420072000 +0000" stop="20250420094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeonbuk v Daegu</title>
+    </programme>
+    <programme start="20250420072000 +0000" stop="20250420094000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Jeju v Pohang</title>
     </programme>
     <programme start="20250420115500 +0000" stop="20250420141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Everton</title>
