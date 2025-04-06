@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250406045500 +0000" stop="20250406071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Machida v Kawasaki</title>
-    </programme>
     <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Sanfrecce v Cerezo</title>
     </programme>
