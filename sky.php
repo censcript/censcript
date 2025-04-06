@@ -1791,8 +1791,8 @@
     <programme start="20250407225000 +0000" stop="20250407235000 +0000" channel="ITV3 HD">
         <title>Endeavour</title>
     </programme>
-    <programme start="20250406210000 +0000" stop="20250406220000 +0000" channel="ITV4 HD">
-        <title>River Monsters</title>
+    <programme start="20250406174500 +0000" stop="20250406220000 +0000" channel="ITV4 HD">
+        <title>Snooker: Tour Championship</title>
     </programme>
     <programme start="20250406220000 +0000" stop="20250406233000 +0000" channel="ITV4 HD">
         <title>English Football League Highlights</title>
@@ -8415,11 +8415,8 @@
     <programme start="20250407220000 +0000" stop="20250407230000 +0000" channel="ITV3+1">
         <title>Foyle's War</title>
     </programme>
-    <programme start="20250406184500 +0000" stop="20250406220000 +0000" channel="ITV4+1">
+    <programme start="20250406184500 +0000" stop="20250406230000 +0000" channel="ITV4+1">
         <title>Snooker: Tour Championship</title>
-    </programme>
-    <programme start="20250406220000 +0000" stop="20250406230000 +0000" channel="ITV4+1">
-        <title>River Monsters</title>
     </programme>
     <programme start="20250406230000 +0000" stop="20250407003000 +0000" channel="ITV4+1">
         <title>English Football League Highlights</title>
