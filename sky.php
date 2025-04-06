@@ -28554,8 +28554,11 @@
     <programme start="20250406160000 +0000" stop="20250406170000 +0000" channel="Sangat">
         <title>Rehraas Sahib Takht Sri Patna Sahib</title>
     </programme>
-    <programme start="20250406170000 +0000" stop="20250406183000 +0000" channel="Sangat">
-        <title>Gurmat Vichar</title>
+    <programme start="20250406170000 +0000" stop="20250406180000 +0000" channel="Sangat">
+        <title>Ek Noor</title>
+    </programme>
+    <programme start="20250406180000 +0000" stop="20250406183000 +0000" channel="Sangat">
+        <title>Sangat Matrimonial</title>
     </programme>
     <programme start="20250406183000 +0000" stop="20250406193000 +0000" channel="Sangat">
         <title>Educate To Save</title>
@@ -28564,7 +28567,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250406203000 +0000" stop="20250406210000 +0000" channel="Sangat">
-        <title>Sangat Matrimonial</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250406210000 +0000" stop="20250406220000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
@@ -37253,9 +37256,6 @@
     </programme>
     <programme start="20250406210000 +0000" stop="20250406220000 +0000" channel="BBC R1X">
         <title>BBC Introducing on 1Xtra with Theo Johnson</title>
-    </programme>
-    <programme start="20250405120000 +0000" stop="20250406080000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250406080000 +0000" stop="20250406083000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
