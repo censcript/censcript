@@ -14937,17 +14937,11 @@
     <programme start="20250408220000 +0000" stop="20250408230000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250407211500 +0000" stop="20250407213000 +0000" channel="BBC Parl HD">
+    <programme start="20250407211500 +0000" stop="20250407220000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Education Questions</title>
     </programme>
-    <programme start="20250407213000 +0000" stop="20250407220000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Education Questions</title>
-    </programme>
-    <programme start="20250407220000 +0000" stop="20250407221500 +0000" channel="BBC Parl HD">
+    <programme start="20250407220000 +0000" stop="20250407224500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Finance Questions</title>
-    </programme>
-    <programme start="20250407221500 +0000" stop="20250407224500 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly</title>
     </programme>
     <programme start="20250407224500 +0000" stop="20250407231000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - US Tariffs Statement</title>
@@ -14965,13 +14959,10 @@
         <title>Northern Ireland Assembly - Education Questions</title>
     </programme>
     <programme start="20250408002000 +0000" stop="20250408005000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Members' statements</title>
+        <title>Northern Ireland Assembly - Members' Statements</title>
     </programme>
-    <programme start="20250408005000 +0000" stop="20250408010000 +0000" channel="BBC Parl HD">
+    <programme start="20250408005000 +0000" stop="20250408011000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament</title>
-    </programme>
-    <programme start="20250408010000 +0000" stop="20250408011000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Finance Questions</title>
     </programme>
     <programme start="20250408011000 +0000" stop="20250408014500 +0000" channel="BBC Parl HD">
         <title>Scunthorpe Steelworks Urgent Question</title>
@@ -26608,7 +26599,7 @@
         <title>Dars-e-Malfoozat</title>
     </programme>
     <programme start="20250408063500 +0000" stop="20250408064500 +0000" channel="MTA1 World HD">
-        <title>The Impact Of MTA In Indonesia</title>
+        <title>The Historic Prayer Duel Of 1907</title>
     </programme>
     <programme start="20250408064500 +0000" stop="20250408074000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
@@ -26653,7 +26644,7 @@
         <title>Ahd-e-Rafta</title>
     </programme>
     <programme start="20250408143000 +0000" stop="20250408145500 +0000" channel="MTA1 World HD">
-        <title>Villages Of Africa</title>
+        <title>Balance</title>
     </programme>
     <programme start="20250408145500 +0000" stop="20250408155000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
@@ -26664,7 +26655,10 @@
     <programme start="20250408161000 +0000" stop="20250408164000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250408164000 +0000" stop="20250408172500 +0000" channel="MTA1 World HD">
+    <programme start="20250408164000 +0000" stop="20250408171500 +0000" channel="MTA1 World HD">
+        <title>Life Of Muhammad</title>
+    </programme>
+    <programme start="20250408171500 +0000" stop="20250408172500 +0000" channel="MTA1 World HD">
         <title>A Class With Huzoor</title>
     </programme>
     <programme start="20250408172500 +0000" stop="20250408180000 +0000" channel="MTA1 World HD">
@@ -26682,8 +26676,11 @@
     <programme start="20250408190500 +0000" stop="20250408194500 +0000" channel="MTA1 World HD">
         <title>The Story Of A Night</title>
     </programme>
-    <programme start="20250408194500 +0000" stop="20250408200000 +0000" channel="MTA1 World HD">
+    <programme start="20250408194500 +0000" stop="20250408195000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
+    </programme>
+    <programme start="20250408195000 +0000" stop="20250408200000 +0000" channel="MTA1 World HD">
+        <title>The Historic Prayer Duel Of 1907</title>
     </programme>
     <programme start="20250408200000 +0000" stop="20250408202500 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
@@ -26692,7 +26689,7 @@
         <title>Beacon Of Guidance</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408213000 +0000" channel="MTA1 World HD">
-        <title>Empowering Women</title>
+        <title>Balance</title>
     </programme>
     <programme start="20250408213000 +0000" stop="20250408223000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
@@ -26701,7 +26698,7 @@
         <title>Nazm</title>
     </programme>
     <programme start="20250408224500 +0000" stop="20250408225500 +0000" channel="MTA1 World HD">
-        <title>The Impact Of MTA In Indonesia</title>
+        <title>Art And Craft</title>
     </programme>
     <programme start="20250408225500 +0000" stop="20250408235500 +0000" channel="MTA1 World HD">
         <title>Intikhab-e-Sukhan</title>
@@ -29520,29 +29517,29 @@
     <programme start="20250408120700 +0000" stop="20250408121200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250408121200 +0000" stop="20250408130000 +0000" channel="IQRA Bangla">
+    <programme start="20250408121200 +0000" stop="20250408123000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250408130000 +0000" stop="20250408133000 +0000" channel="IQRA Bangla">
-        <title>Heal your Heart</title>
+    <programme start="20250408123000 +0000" stop="20250408130000 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
     </programme>
-    <programme start="20250408133000 +0000" stop="20250408143000 +0000" channel="IQRA Bangla">
+    <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
     </programme>
+    <programme start="20250408140000 +0000" stop="20250408143000 +0000" channel="IQRA Bangla">
+        <title>Heal your Heart</title>
+    </programme>
     <programme start="20250408143000 +0000" stop="20250408153000 +0000" channel="IQRA Bangla">
-        <title>Nurul Quran</title>
+        <title>Legal Hour</title>
     </programme>
     <programme start="20250408153000 +0000" stop="20250408164000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250408164000 +0000" stop="20250408164500 +0000" channel="IQRA Bangla">
+    <programme start="20250408164000 +0000" stop="20250408170000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250408164500 +0000" stop="20250408170000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
-    </programme>
     <programme start="20250408170000 +0000" stop="20250408180000 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
+        <title>Focus Point</title>
     </programme>
     <programme start="20250408180000 +0000" stop="20250408184900 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
@@ -29868,44 +29865,41 @@
     <programme start="20250408060000 +0000" stop="20250408063000 +0000" channel="TV One">
         <title>Quran Class</title>
     </programme>
-    <programme start="20250408063000 +0000" stop="20250408070000 +0000" channel="TV One">
+    <programme start="20250408063000 +0000" stop="20250408064500 +0000" channel="TV One">
         <title>Praner Sur</title>
+    </programme>
+    <programme start="20250408064500 +0000" stop="20250408070000 +0000" channel="TV One">
+        <title>Story Time with Sarah</title>
     </programme>
     <programme start="20250408070000 +0000" stop="20250408071500 +0000" channel="TV One">
         <title>Quraner Paray</title>
     </programme>
-    <programme start="20250408071500 +0000" stop="20250408073000 +0000" channel="TV One">
+    <programme start="20250408071500 +0000" stop="20250408080000 +0000" channel="TV One">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250408073000 +0000" stop="20250408083000 +0000" channel="TV One">
-        <title>One Q&amp;A</title>
+    <programme start="20250408080000 +0000" stop="20250408081500 +0000" channel="TV One">
+        <title>Jannah Home at Last</title>
     </programme>
-    <programme start="20250408083000 +0000" stop="20250408084500 +0000" channel="TV One">
+    <programme start="20250408081500 +0000" stop="20250408083000 +0000" channel="TV One">
+        <title>Muhammad Peace be Upon Him</title>
+    </programme>
+    <programme start="20250408083000 +0000" stop="20250408090000 +0000" channel="TV One">
         <title>Documentary - Zam zam</title>
     </programme>
-    <programme start="20250408084500 +0000" stop="20250408090000 +0000" channel="TV One">
-        <title>Charity Documentary</title>
-    </programme>
-    <programme start="20250408090000 +0000" stop="20250408093000 +0000" channel="TV One">
+    <programme start="20250408090000 +0000" stop="20250408093500 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250408093000 +0000" stop="20250408093500 +0000" channel="TV One">
-        <title>Ramadan Nasheed</title>
-    </programme>
-    <programme start="20250408093500 +0000" stop="20250408094500 +0000" channel="TV One">
+    <programme start="20250408093500 +0000" stop="20250408100000 +0000" channel="TV One">
         <title>Zuhr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250408094500 +0000" stop="20250408100000 +0000" channel="TV One">
-        <title>Quraner Paray</title>
-    </programme>
-    <programme start="20250408100000 +0000" stop="20250408104500 +0000" channel="TV One">
+    <programme start="20250408100000 +0000" stop="20250408110000 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250408104500 +0000" stop="20250408110000 +0000" channel="TV One">
-        <title>Meeting Muhammad By Omar Suleyman</title>
-    </programme>
-    <programme start="20250408110000 +0000" stop="20250408114500 +0000" channel="TV One">
+    <programme start="20250408110000 +0000" stop="20250408111500 +0000" channel="TV One">
         <title>Praner Sur</title>
+    </programme>
+    <programme start="20250408111500 +0000" stop="20250408114500 +0000" channel="TV One">
+        <title>Asmaul Husna</title>
     </programme>
     <programme start="20250408114500 +0000" stop="20250408120700 +0000" channel="TV One">
         <title>Short film</title>
@@ -29913,35 +29907,23 @@
     <programme start="20250408120700 +0000" stop="20250408121500 +0000" channel="TV One">
         <title>Zuhr Azaan</title>
     </programme>
-    <programme start="20250408121500 +0000" stop="20250408122000 +0000" channel="TV One">
+    <programme start="20250408121500 +0000" stop="20250408124500 +0000" channel="TV One">
         <title>Qurane Joto Golpo</title>
     </programme>
-    <programme start="20250408122000 +0000" stop="20250408125000 +0000" channel="TV One">
-        <title>Ramadan Dates</title>
-    </programme>
-    <programme start="20250408125000 +0000" stop="20250408130000 +0000" channel="TV One">
-        <title>Ramadan Nasheed</title>
+    <programme start="20250408124500 +0000" stop="20250408130000 +0000" channel="TV One">
+        <title>Imam Naseeha</title>
     </programme>
     <programme start="20250408130000 +0000" stop="20250408133000 +0000" channel="TV One">
         <title>Asr Prayer Live from Kabah</title>
     </programme>
-    <programme start="20250408133000 +0000" stop="20250408140000 +0000" channel="TV One">
+    <programme start="20250408133000 +0000" stop="20250408143000 +0000" channel="TV One">
         <title>Money Matters</title>
-    </programme>
-    <programme start="20250408140000 +0000" stop="20250408143000 +0000" channel="TV One">
-        <title>One Q&amp;A</title>
     </programme>
     <programme start="20250408143000 +0000" stop="20250408144500 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250408144500 +0000" stop="20250408150000 +0000" channel="TV One">
+    <programme start="20250408144500 +0000" stop="20250408153000 +0000" channel="TV One">
         <title>360 Degree</title>
-    </programme>
-    <programme start="20250408150000 +0000" stop="20250408151500 +0000" channel="TV One">
-        <title>Ramadan Nasheed</title>
-    </programme>
-    <programme start="20250408151500 +0000" stop="20250408153000 +0000" channel="TV One">
-        <title>Ramadaner Ahoban</title>
     </programme>
     <programme start="20250408153000 +0000" stop="20250408154500 +0000" channel="TV One">
         <title>Story Time with Sarah</title>
@@ -29949,41 +29931,23 @@
     <programme start="20250408154500 +0000" stop="20250408160000 +0000" channel="TV One">
         <title>Praner Sur</title>
     </programme>
-    <programme start="20250408160000 +0000" stop="20250408160500 +0000" channel="TV One">
+    <programme start="20250408160000 +0000" stop="20250408164000 +0000" channel="TV One">
         <title>Quran Class</title>
-    </programme>
-    <programme start="20250408160500 +0000" stop="20250408163000 +0000" channel="TV One">
-        <title>Quran Class</title>
-    </programme>
-    <programme start="20250408163000 +0000" stop="20250408164000 +0000" channel="TV One">
-        <title>Why Me</title>
     </programme>
     <programme start="20250408164000 +0000" stop="20250408164500 +0000" channel="TV One">
         <title>Asr Azaan</title>
     </programme>
-    <programme start="20250408164500 +0000" stop="20250408170000 +0000" channel="TV One">
+    <programme start="20250408164500 +0000" stop="20250408173000 +0000" channel="TV One">
         <title>Quran Class</title>
-    </programme>
-    <programme start="20250408170000 +0000" stop="20250408173000 +0000" channel="TV One">
-        <title>Live Charity Appeal for IBI</title>
     </programme>
     <programme start="20250408173000 +0000" stop="20250408180000 +0000" channel="TV One">
         <title>Evening News</title>
     </programme>
-    <programme start="20250408180000 +0000" stop="20250408181400 +0000" channel="TV One">
+    <programme start="20250408180000 +0000" stop="20250408184900 +0000" channel="TV One">
         <title>One Q&amp;A</title>
     </programme>
-    <programme start="20250408181400 +0000" stop="20250408182000 +0000" channel="TV One">
+    <programme start="20250408184900 +0000" stop="20250408190000 +0000" channel="TV One">
         <title>Maghrib Azaan</title>
-    </programme>
-    <programme start="20250408182000 +0000" stop="20250408184900 +0000" channel="TV One">
-        <title>TV One News</title>
-    </programme>
-    <programme start="20250408184900 +0000" stop="20250408185000 +0000" channel="TV One">
-        <title>Maghrib Azaan</title>
-    </programme>
-    <programme start="20250408185000 +0000" stop="20250408190000 +0000" channel="TV One">
-        <title>Live Charity Appeal for IBI</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408191500 +0000" channel="TV One">
         <title>Tunes For Life</title>
@@ -29991,23 +29955,29 @@
     <programme start="20250408191500 +0000" stop="20250408193000 +0000" channel="TV One">
         <title>Jannah Home at Last</title>
     </programme>
-    <programme start="20250408193000 +0000" stop="20250408193500 +0000" channel="TV One">
+    <programme start="20250408193000 +0000" stop="20250408200500 +0000" channel="TV One">
         <title>Eid Tales</title>
     </programme>
-    <programme start="20250408193500 +0000" stop="20250408194000 +0000" channel="TV One">
+    <programme start="20250408200500 +0000" stop="20250408201000 +0000" channel="TV One">
         <title>Isha Azaan</title>
     </programme>
-    <programme start="20250408194000 +0000" stop="20250408201000 +0000" channel="TV One">
-        <title>Live Charity Appeal for IBI</title>
-    </programme>
-    <programme start="20250408201000 +0000" stop="20250408210000 +0000" channel="TV One">
+    <programme start="20250408201000 +0000" stop="20250408203000 +0000" channel="TV One">
         <title>Eid Tales</title>
     </programme>
-    <programme start="20250408210000 +0000" stop="20250408215500 +0000" channel="TV One">
+    <programme start="20250408203000 +0000" stop="20250408210000 +0000" channel="TV One">
+        <title>Qurane Joto Golpo</title>
+    </programme>
+    <programme start="20250408210000 +0000" stop="20250408213500 +0000" channel="TV One">
         <title>TV One News</title>
     </programme>
-    <programme start="20250408215500 +0000" stop="20250408225500 +0000" channel="TV One">
+    <programme start="20250408213500 +0000" stop="20250408215500 +0000" channel="TV One">
+        <title>Praner Sur</title>
+    </programme>
+    <programme start="20250408215500 +0000" stop="20250408223000 +0000" channel="TV One">
         <title>Asmaul Husna</title>
+    </programme>
+    <programme start="20250408223000 +0000" stop="20250408233000 +0000" channel="TV One">
+        <title>Documentary - Zam zam</title>
     </programme>
     <programme start="20250407210000 +0000" stop="20250407220000 +0000" channel="iON TV">
         <title>Drama Time</title>
@@ -30088,7 +30058,7 @@
         <title>Music Hour</title>
     </programme>
     <programme start="20250408150000 +0000" stop="20250408160000 +0000" channel="iON TV">
-        <title>Documentary</title>
+        <title>Travel Show</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250408163900 +0000" channel="iON TV">
         <title>Drama Time</title>

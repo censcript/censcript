@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250407213000 +0000" stop="20250407223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250407233000 +0000" stop="20250408003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
