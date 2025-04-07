@@ -27150,11 +27150,8 @@
     <programme start="20250408035000 +0000" stop="20250408040000 +0000" channel="Islam Channel">
         <title>Oh Allah</title>
     </programme>
-    <programme start="20250408040000 +0000" stop="20250408040400 +0000" channel="Islam Channel">
+    <programme start="20250408040000 +0000" stop="20250408043000 +0000" channel="Islam Channel">
         <title>Morning Supplications</title>
-    </programme>
-    <programme start="20250408040400 +0000" stop="20250408043000 +0000" channel="Islam Channel">
-        <title>Al Mustafa Trust Live Appeal</title>
     </programme>
     <programme start="20250408043000 +0000" stop="20250408050000 +0000" channel="Islam Channel">
         <title>Daily Duaa</title>
