@@ -420,11 +420,8 @@
     <programme start="20250407143000 +0000" stop="20250407153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 3</title>
     </programme>
-    <programme start="20250407153000 +0000" stop="20250407160000 +0000" channel="Suria.mewatch">
+    <programme start="20250407153000 +0000" stop="20250408010000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250407160000 +0000" stop="20250407220000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250406140013 +0000" stop="20250406170000 +0000" channel="Vasantham.mewatch">
         <title>Kaakha Kaakha</title>
@@ -486,7 +483,7 @@
     <programme start="20250407150007 +0000" stop="20250407153000 +0000" channel="Vasantham.mewatch">
         <title>Thuninthu Sel - EP 10</title>
     </programme>
-    <programme start="20250407153000 +0000" stop="20250408160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250407153000 +0000" stop="20250408010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250406155959 +0000" stop="20250406160324 +0000" channel="CNA.mewatch">
@@ -580,16 +577,16 @@
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250407160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.15pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
     </programme>
     <programme start="20250407160000 +0000" stop="20250408160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.15pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250407160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 13th April, Sunday 5.50pm. 2024 Singapore Premier League: Albirex Niigata S vs Young Lions</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
     </programme>
     <programme start="20250407160000 +0000" stop="20250408160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 13th April, Sunday 5.50pm. 2024 Singapore Premier League: Albirex Niigata S vs Young Lions</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250406190000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems!</title>
