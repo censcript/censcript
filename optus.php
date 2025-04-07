@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250407160000 +0000" stop="20250407170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250407183000 +0000" stop="20250407213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Leicester City v Newcastle United</title>
     </programme>
