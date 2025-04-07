@@ -19581,9 +19581,6 @@
     <programme start="20250407175800 +0000" stop="20250407185800 +0000" channel="CBBC HD">
         <title>.programmes start at 7.00am</title>
     </programme>
-    <programme start="20250406175800 +0000" stop="20250406235800 +0000" channel="CBeebies HD">
-        <title>..programmes start at 6.00am</title>
-    </programme>
     <programme start="20250406235800 +0000" stop="20250407043000 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
     </programme>
@@ -29965,7 +29962,7 @@
         <title>News 24</title>
     </programme>
     <programme start="20250407060000 +0000" stop="20250407070000 +0000" channel="iON TV">
-        <title>iON News Time.</title>
+        <title>Forty Hadiths</title>
     </programme>
     <programme start="20250407070000 +0000" stop="20250407080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
