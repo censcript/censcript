@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250407120000 +0000" stop="20250407130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250407160000 +0000" stop="20250407170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
