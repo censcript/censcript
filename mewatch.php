@@ -108,25 +108,25 @@
     <programme start="20250407093006 +0000" stop="20250407103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 2</title>
     </programme>
-    <programme start="20250407103000 +0000" stop="20250407110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407103000 +0000" stop="20250407110011 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 127</title>
     </programme>
-    <programme start="20250407110000 +0000" stop="20250407113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407110011 +0000" stop="20250407113051 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7956</title>
     </programme>
-    <programme start="20250407113000 +0000" stop="20250407123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407113051 +0000" stop="20250407123017 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 2</title>
     </programme>
-    <programme start="20250407123000 +0000" stop="20250407130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407123017 +0000" stop="20250407130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 49</title>
     </programme>
     <programme start="20250407130000 +0000" stop="20250407133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250407133000 +0000" stop="20250407140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407133000 +0000" stop="20250407140024 +0000" channel="Channel 5.mewatch">
         <title>A Street Like This - EP 5</title>
     </programme>
-    <programme start="20250407140000 +0000" stop="20250407150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250407140024 +0000" stop="20250407150000 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 2</title>
     </programme>
     <programme start="20250407150000 +0000" stop="20250407160000 +0000" channel="Channel 5.mewatch">
@@ -979,10 +979,10 @@
         <title>No programme available now. Next broadcast on 11th April, Friday 8.30pm. ONE Friday Fights 104</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250407160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Tuesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
+        <title>No Programme available now. Next Broadcast on 9th April, Wednesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
     </programme>
-    <programme start="20250407160000 +0000" stop="20250407175000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Tuesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
+    <programme start="20250407160000 +0000" stop="20250408160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th April, Wednesday 1.50am. AFC Champions League Two 2024/25: Al Taawoun FC vs Sharjah FC</title>
     </programme>
     <programme start="20250406160000 +0000" stop="20250407160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 9th April, Wednesday 1.55pm. Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>

@@ -243,6 +243,12 @@
     <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Kashiwa v Albirex</title>
     </programme>
+    <programme start="20250426160500 +0000" stop="20250426192500 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Crystal Palace v Aston Villa</title>
+    </programme>
+    <programme start="20250428135000 +0000" stop="20250428171000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Nottingham Forest v Manchester City</title>
+    </programme>
     <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Bayern Munich v Werder Bremen</title>
     </programme>
