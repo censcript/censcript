@@ -27105,23 +27105,59 @@
     <programme start="20250408220500 +0000" stop="20250408230500 +0000" channel="New Vision TV">
         <title>News</title>
     </programme>
-    <programme start="20250407183000 +0000" stop="20250407230000 +0000" channel="Islam Channel">
+    <programme start="20250407183000 +0000" stop="20250407213000 +0000" channel="Islam Channel">
         <title>SKT Welfare Live Appeal</title>
     </programme>
-    <programme start="20250407230000 +0000" stop="20250408020000 +0000" channel="Islam Channel">
-        <title>Al Mustafa Trust Live Appeal</title>
+    <programme start="20250407213000 +0000" stop="20250407220000 +0000" channel="Islam Channel">
+        <title>Analysis</title>
+    </programme>
+    <programme start="20250407220000 +0000" stop="20250407224000 +0000" channel="Islam Channel">
+        <title>Aafia Siddiqui: True Story</title>
+    </programme>
+    <programme start="20250407224000 +0000" stop="20250407224500 +0000" channel="Islam Channel">
+        <title>This Day In History</title>
+    </programme>
+    <programme start="20250407224500 +0000" stop="20250407230000 +0000" channel="Islam Channel">
+        <title>Gaza Inferno</title>
+    </programme>
+    <programme start="20250407230000 +0000" stop="20250407233000 +0000" channel="Islam Channel">
+        <title>Islam Channel News</title>
+    </programme>
+    <programme start="20250407233000 +0000" stop="20250408000000 +0000" channel="Islam Channel">
+        <title>Analysis</title>
+    </programme>
+    <programme start="20250408000000 +0000" stop="20250408020000 +0000" channel="Islam Channel">
+        <title>Salaam Britain</title>
     </programme>
     <programme start="20250408020000 +0000" stop="20250408021500 +0000" channel="Islam Channel">
+        <title>Historic Mosques</title>
+    </programme>
+    <programme start="20250408021500 +0000" stop="20250408022000 +0000" channel="Islam Channel">
+        <title>Al Mustafa Trust Live Appeal</title>
+    </programme>
+    <programme start="20250408022000 +0000" stop="20250408024500 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Fajr</title>
     </programme>
-    <programme start="20250408021500 +0000" stop="20250408040000 +0000" channel="Islam Channel">
-        <title>Al Mustafa Trust Live Appeal</title>
+    <programme start="20250408024500 +0000" stop="20250408030000 +0000" channel="Islam Channel">
+        <title>Hotel Jerusalem</title>
     </programme>
-    <programme start="20250408040000 +0000" stop="20250408040400 +0000" channel="Islam Channel">
+    <programme start="20250408030000 +0000" stop="20250408034500 +0000" channel="Islam Channel">
+        <title>Quran Recitation</title>
+    </programme>
+    <programme start="20250408034500 +0000" stop="20250408035000 +0000" channel="Islam Channel">
         <title>Fajr Adhan</title>
     </programme>
-    <programme start="20250408040400 +0000" stop="20250408050000 +0000" channel="Islam Channel">
+    <programme start="20250408035000 +0000" stop="20250408040000 +0000" channel="Islam Channel">
+        <title>Oh Allah</title>
+    </programme>
+    <programme start="20250408040000 +0000" stop="20250408040400 +0000" channel="Islam Channel">
+        <title>Morning Supplications</title>
+    </programme>
+    <programme start="20250408040400 +0000" stop="20250408043000 +0000" channel="Islam Channel">
         <title>Al Mustafa Trust Live Appeal</title>
+    </programme>
+    <programme start="20250408043000 +0000" stop="20250408050000 +0000" channel="Islam Channel">
+        <title>Daily Duaa</title>
     </programme>
     <programme start="20250408050000 +0000" stop="20250408053000 +0000" channel="Islam Channel">
         <title>Quranic Encyclopaedia</title>
@@ -28518,11 +28554,8 @@
     <programme start="20250408073000 +0000" stop="20250408080000 +0000" channel="QTV Religious">
         <title>Punj Surah</title>
     </programme>
-    <programme start="20250408080000 +0000" stop="20250408083000 +0000" channel="QTV Religious">
+    <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="QTV Religious">
         <title>Daura E Tarjuma E Qur'an</title>
-    </programme>
-    <programme start="20250408083000 +0000" stop="20250408090000 +0000" channel="QTV Religious">
-        <title>Punj Surah</title>
     </programme>
     <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="QTV Religious">
         <title>Roshni Sab Kay Liye</title>
@@ -28536,11 +28569,8 @@
     <programme start="20250408110000 +0000" stop="20250408120000 +0000" channel="QTV Religious">
         <title>Quran suniye aur sunaiyye</title>
     </programme>
-    <programme start="20250408120000 +0000" stop="20250408123000 +0000" channel="QTV Religious">
+    <programme start="20250408120000 +0000" stop="20250408130000 +0000" channel="QTV Religious">
         <title>Meezan-e-Shariyat</title>
-    </programme>
-    <programme start="20250408123000 +0000" stop="20250408130000 +0000" channel="QTV Religious">
-        <title>Hamd O Naat</title>
     </programme>
     <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="QTV Religious">
         <title>Paigham E Qur'an</title>
@@ -28842,11 +28872,8 @@
     <programme start="20250408160000 +0000" stop="20250408170000 +0000" channel="Sangat">
         <title>Rehraas Sahib Takht Sri Patna Sahib</title>
     </programme>
-    <programme start="20250408170000 +0000" stop="20250408173000 +0000" channel="Sangat">
+    <programme start="20250408170000 +0000" stop="20250408180000 +0000" channel="Sangat">
         <title>GNNSJ Kirtan</title>
-    </programme>
-    <programme start="20250408173000 +0000" stop="20250408180000 +0000" channel="Sangat">
-        <title>Gurmat Samagam</title>
     </programme>
     <programme start="20250408180000 +0000" stop="20250408183000 +0000" channel="Sangat">
         <title>Ek Noor</title>
