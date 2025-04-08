@@ -480,35 +480,32 @@
     <programme start="20250408103003 +0000" stop="20250408110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 10</title>
     </programme>
-    <programme start="20250408110000 +0000" stop="20250408120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408110000 +0000" stop="20250408115954 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 27</title>
     </programme>
-    <programme start="20250408120000 +0000" stop="20250408123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408115954 +0000" stop="20250408123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 17</title>
     </programme>
-    <programme start="20250408123000 +0000" stop="20250408130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408123000 +0000" stop="20250408130003 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250408130000 +0000" stop="20250408133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408130003 +0000" stop="20250408133005 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 18</title>
     </programme>
-    <programme start="20250408133000 +0000" stop="20250408140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408133005 +0000" stop="20250408140005 +0000" channel="Vasantham.mewatch">
         <title>Pesuvom Sr 2 - EP 13</title>
     </programme>
-    <programme start="20250408140000 +0000" stop="20250408143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408140005 +0000" stop="20250408143003 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 5</title>
     </programme>
-    <programme start="20250408143000 +0000" stop="20250408150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408143003 +0000" stop="20250408150001 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 52</title>
     </programme>
-    <programme start="20250408150000 +0000" stop="20250408153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408150001 +0000" stop="20250408153000 +0000" channel="Vasantham.mewatch">
         <title>Thuninthu Sel - EP 11</title>
     </programme>
-    <programme start="20250408153000 +0000" stop="20250408160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250408153000 +0000" stop="20250409010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20250408160000 +0000" stop="20250409000000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250407150001 +0000" stop="20250407160001 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 1</title>

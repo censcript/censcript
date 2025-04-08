@@ -3981,11 +3981,17 @@
     <programme start="20250408030000 +0000" stop="20250408050000 +0000" channel="U&amp;Drama">
         <title>Teleshopping</title>
     </programme>
-    <programme start="20250408050000 +0000" stop="20250408061000 +0000" channel="U&amp;Drama">
-        <title>Teleshopping</title>
+    <programme start="20250408050000 +0000" stop="20250408053000 +0000" channel="U&amp;Drama">
+        <title>This is U&amp;Drama</title>
+    </programme>
+    <programme start="20250408053000 +0000" stop="20250408060000 +0000" channel="U&amp;Drama">
+        <title>This is U&amp;Drama</title>
+    </programme>
+    <programme start="20250408060000 +0000" stop="20250408061000 +0000" channel="U&amp;Drama">
+        <title>This is U&amp;Drama</title>
     </programme>
     <programme start="20250408061000 +0000" stop="20250408070000 +0000" channel="U&amp;Drama">
-        <title>All Creatures Great and Small</title>
+        <title>Annika</title>
     </programme>
     <programme start="20250408070000 +0000" stop="20250408074000 +0000" channel="U&amp;Drama">
         <title>Classic Doctors</title>
@@ -9508,7 +9514,7 @@
         <title>Teleshopping</title>
     </programme>
     <programme start="20250408071000 +0000" stop="20250408080000 +0000" channel="U&amp;Drama+1">
-        <title>All Creatures Great and Small</title>
+        <title>Annika</title>
     </programme>
     <programme start="20250408080000 +0000" stop="20250408084000 +0000" channel="U&amp;Drama+1">
         <title>Classic Doctors</title>
@@ -13746,11 +13752,8 @@
     <programme start="20250408213000 +0000" stop="20250408214500 +0000" channel="TNT Sports 1">
         <title>No Filter Cycling</title>
     </programme>
-    <programme start="20250408214500 +0000" stop="20250408223000 +0000" channel="TNT Sports 1">
+    <programme start="20250408214500 +0000" stop="20250408224500 +0000" channel="TNT Sports 1">
         <title>Premier League Review</title>
-    </programme>
-    <programme start="20250408223000 +0000" stop="20250408224500 +0000" channel="TNT Sports 1">
-        <title>NBA On Fire</title>
     </programme>
     <programme start="20250408224500 +0000" stop="20250408234500 +0000" channel="TNT Sports 1">
         <title>Playing For Our Future - Football</title>
@@ -33717,11 +33720,8 @@
     <programme start="20250408213000 +0000" stop="20250408214500 +0000" channel="TNTSports1 HD">
         <title>No Filter Cycling</title>
     </programme>
-    <programme start="20250408214500 +0000" stop="20250408223000 +0000" channel="TNTSports1 HD">
+    <programme start="20250408214500 +0000" stop="20250408224500 +0000" channel="TNTSports1 HD">
         <title>Premier League Review</title>
-    </programme>
-    <programme start="20250408223000 +0000" stop="20250408224500 +0000" channel="TNTSports1 HD">
-        <title>NBA On Fire</title>
     </programme>
     <programme start="20250408224500 +0000" stop="20250408234500 +0000" channel="TNTSports1 HD">
         <title>Playing For Our Future - Football</title>
