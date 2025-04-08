@@ -564,23 +564,20 @@
     <programme start="20250408095959 +0000" stop="20250408110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250408110000 +0000" stop="20250408120000 +0000" channel="CNA.mewatch">
+    <programme start="20250408110000 +0000" stop="20250408115959 +0000" channel="CNA.mewatch">
         <title>The Earthquake Detectives</title>
     </programme>
-    <programme start="20250408120000 +0000" stop="20250408130000 +0000" channel="CNA.mewatch">
+    <programme start="20250408115959 +0000" stop="20250408125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="CNA.mewatch">
+    <programme start="20250408125959 +0000" stop="20250408140001 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 2</title>
     </programme>
-    <programme start="20250408140000 +0000" stop="20250408150000 +0000" channel="CNA.mewatch">
+    <programme start="20250408140001 +0000" stop="20250408150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250408150000 +0000" stop="20250408160000 +0000" channel="CNA.mewatch">
+    <programme start="20250408150001 +0000" stop="20250408160001 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 1</title>
-    </programme>
-    <programme start="20250408160000 +0000" stop="20250408160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250407160000 +0000" stop="20250408160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

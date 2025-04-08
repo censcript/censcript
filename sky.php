@@ -23653,7 +23653,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250408100000 +0000" stop="20250408110000 +0000" channel="QVC Beauty">
-        <title>Molton Brown</title>
+        <title>New In Beauty</title>
     </programme>
     <programme start="20250408110000 +0000" stop="20250408120000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23662,13 +23662,13 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="QVC Beauty">
-        <title>Discover Laura Geller</title>
+        <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250408140000 +0000" stop="20250408150000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250408150000 +0000" stop="20250408160000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Alison Young on Beauty Trends</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250408170000 +0000" channel="QVC Beauty">
         <title>Ultrasun Professional Suncare</title>
@@ -23683,7 +23683,7 @@
         <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250408200000 +0000" stop="20250408210000 +0000" channel="QVC Beauty">
-        <title>M. Asam Beauty Is Our Tradition</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="QVC Beauty">
         <title>Bellamianta Luxury Tanning</title>
@@ -23728,7 +23728,7 @@
         <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="QVC Style HD">
-        <title>Radley London</title>
+        <title>Helene made with Liberty's Fabric</title>
     </programme>
     <programme start="20250408100000 +0000" stop="20250408110000 +0000" channel="QVC Style HD">
         <title>Coastal Edit with Denim &amp; Co</title>
@@ -28306,7 +28306,7 @@
         <title>Qur'an Time</title>
     </programme>
     <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="Eman Channel">
-        <title>Live: Madrasah TV Hajj</title>
+        <title>REPEAT: Madrasah TV Hajj</title>
     </programme>
     <programme start="20250408100000 +0000" stop="20250408101500 +0000" channel="Eman Channel">
         <title>Once Upon a Time</title>
@@ -28452,10 +28452,10 @@
     <programme start="20250408070000 +0000" stop="20250408080000 +0000" channel="ARY Digital">
         <title>Parwarish</title>
     </programme>
-    <programme start="20250408080000 +0000" stop="20250408100000 +0000" channel="ARY Digital">
+    <programme start="20250408080000 +0000" stop="20250408100900 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250408100000 +0000" stop="20250408103000 +0000" channel="ARY Digital">
+    <programme start="20250408100900 +0000" stop="20250408103000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
     <programme start="20250408103000 +0000" stop="20250408120000 +0000" channel="ARY Digital">
