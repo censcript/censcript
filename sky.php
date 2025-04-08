@@ -14952,11 +14952,8 @@
     <programme start="20250407234000 +0000" stop="20250407235500 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250407235500 +0000" stop="20250408001500 +0000" channel="BBC Parl HD">
+    <programme start="20250407235500 +0000" stop="20250408002000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
-    </programme>
-    <programme start="20250408001500 +0000" stop="20250408002000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Education Questions</title>
     </programme>
     <programme start="20250408002000 +0000" stop="20250408005000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly - Members' Statements</title>
@@ -14964,11 +14961,8 @@
     <programme start="20250408005000 +0000" stop="20250408011000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament</title>
     </programme>
-    <programme start="20250408011000 +0000" stop="20250408014500 +0000" channel="BBC Parl HD">
+    <programme start="20250408011000 +0000" stop="20250408015000 +0000" channel="BBC Parl HD">
         <title>Scunthorpe Steelworks Urgent Question</title>
-    </programme>
-    <programme start="20250408014500 +0000" stop="20250408015000 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly</title>
     </programme>
     <programme start="20250408015000 +0000" stop="20250408025000 +0000" channel="BBC Parl HD">
         <title>Zero Emission Vehicle Mandate Statement</title>
@@ -26658,11 +26652,8 @@
     <programme start="20250408164000 +0000" stop="20250408171500 +0000" channel="MTA1 World HD">
         <title>Life Of Muhammad</title>
     </programme>
-    <programme start="20250408171500 +0000" stop="20250408172500 +0000" channel="MTA1 World HD">
+    <programme start="20250408171500 +0000" stop="20250408180000 +0000" channel="MTA1 World HD">
         <title>A Class With Huzoor</title>
-    </programme>
-    <programme start="20250408172500 +0000" stop="20250408180000 +0000" channel="MTA1 World HD">
-        <title>Empowering Women</title>
     </programme>
     <programme start="20250408180000 +0000" stop="20250408182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26673,11 +26664,8 @@
     <programme start="20250408183500 +0000" stop="20250408190500 +0000" channel="MTA1 World HD">
         <title>Masjid Bait-ul-Ikram Reception</title>
     </programme>
-    <programme start="20250408190500 +0000" stop="20250408194500 +0000" channel="MTA1 World HD">
+    <programme start="20250408190500 +0000" stop="20250408195000 +0000" channel="MTA1 World HD">
         <title>The Story Of A Night</title>
-    </programme>
-    <programme start="20250408194500 +0000" stop="20250408195000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250408195000 +0000" stop="20250408200000 +0000" channel="MTA1 World HD">
         <title>The Historic Prayer Duel Of 1907</title>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250407233000 +0000" stop="20250408003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250408010000 +0000" stop="20250408013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Art of... The Central Defensive Midfielder</title>
     </programme>
@@ -152,6 +146,9 @@
     </programme>
     <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Philippe Coutinho</title>
+    </programme>
+    <programme start="20250416180000 +0000" stop="20250416210000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Newcastle United v Crystal Palace</title>
     </programme>
     <programme start="20250417123000 +0000" stop="20250417130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
