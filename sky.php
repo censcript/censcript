@@ -12360,8 +12360,11 @@
     <programme start="20250409070000 +0000" stop="20250409130000 +0000" channel="MTV HITS">
         <title>Worldwide Hits!</title>
     </programme>
-    <programme start="20250409130000 +0000" stop="20250409150000 +0000" channel="MTV HITS">
+    <programme start="20250409130000 +0000" stop="20250409144500 +0000" channel="MTV HITS">
         <title>MTV Top 20</title>
+    </programme>
+    <programme start="20250409144500 +0000" stop="20250409150000 +0000" channel="MTV HITS">
+        <title>Worldwide Hits!</title>
     </programme>
     <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="MTV HITS">
         <title>Dua Lipa &amp; Friends</title>
@@ -14916,10 +14919,10 @@
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250408204000 +0000" stop="20250408224500 +0000" channel="BBC Parl HD">
+    <programme start="20250408204000 +0000" stop="20250408225000 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Committee on NHS England</title>
     </programme>
-    <programme start="20250408224500 +0000" stop="20250409010500 +0000" channel="BBC Parl HD">
+    <programme start="20250408225000 +0000" stop="20250409010500 +0000" channel="BBC Parl HD">
         <title>Education Committee on Higher Education and Funding</title>
     </programme>
     <programme start="20250409010500 +0000" stop="20250409020000 +0000" channel="BBC Parl HD">
@@ -14928,16 +14931,16 @@
     <programme start="20250409020000 +0000" stop="20250409022500 +0000" channel="BBC Parl HD">
         <title>EU Tariffs and Northern Ireland Urgent Question</title>
     </programme>
-    <programme start="20250409022500 +0000" stop="20250409032000 +0000" channel="BBC Parl HD">
+    <programme start="20250409022500 +0000" stop="20250409033000 +0000" channel="BBC Parl HD">
         <title>Horizon Redress and Post Office Update Statement</title>
     </programme>
-    <programme start="20250409032000 +0000" stop="20250409034500 +0000" channel="BBC Parl HD">
+    <programme start="20250409033000 +0000" stop="20250409035500 +0000" channel="BBC Parl HD">
         <title>Defence Select Committee Statement</title>
     </programme>
-    <programme start="20250409034500 +0000" stop="20250409044500 +0000" channel="BBC Parl HD">
+    <programme start="20250409035500 +0000" stop="20250409045500 +0000" channel="BBC Parl HD">
         <title>Zero Emission Vehicle Mandate Statement</title>
     </programme>
-    <programme start="20250409044500 +0000" stop="20250409050000 +0000" channel="BBC Parl HD">
+    <programme start="20250409045500 +0000" stop="20250409050000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250409050000 +0000" stop="20250409061500 +0000" channel="BBC Parl HD">
