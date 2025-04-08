@@ -12912,8 +12912,14 @@
     <programme start="20250408090000 +0000" stop="20250408130000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: ATP Monte-Carlo</title>
     </programme>
-    <programme start="20250408130000 +0000" stop="20250408180000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250408130000 +0000" stop="20250408150000 +0000" channel="SkySpMainEvHD">
         <title>Live From The Masters</title>
+    </programme>
+    <programme start="20250408150000 +0000" stop="20250408170000 +0000" channel="SkySpMainEvHD">
+        <title>Live Tennis: ATP Monte-Carlo</title>
+    </programme>
+    <programme start="20250408170000 +0000" stop="20250408180000 +0000" channel="SkySpMainEvHD">
+        <title>Sky Sports News</title>
     </programme>
     <programme start="20250408180000 +0000" stop="20250408213000 +0000" channel="SkySpMainEvHD">
         <title>Live EFL: Middlesbrough v Leeds</title>
@@ -14943,29 +14949,32 @@
     <programme start="20250408103000 +0000" stop="20250408113000 +0000" channel="BBC Parl HD">
         <title>Live Treasury Questions</title>
     </programme>
-    <programme start="20250408113000 +0000" stop="20250408121500 +0000" channel="BBC Parl HD">
+    <programme start="20250408113000 +0000" stop="20250408121000 +0000" channel="BBC Parl HD">
         <title>Live EU Tariffs and Northern Ireland Urgent Question</title>
     </programme>
-    <programme start="20250408121500 +0000" stop="20250408131500 +0000" channel="BBC Parl HD">
+    <programme start="20250408121000 +0000" stop="20250408130500 +0000" channel="BBC Parl HD">
         <title>Live Tackling Child Sexual Abuse Statement</title>
     </programme>
-    <programme start="20250408131500 +0000" stop="20250408141500 +0000" channel="BBC Parl HD">
+    <programme start="20250408130500 +0000" stop="20250408141000 +0000" channel="BBC Parl HD">
         <title>Live Horizon Redress and Post Office Update Statement</title>
     </programme>
-    <programme start="20250408141500 +0000" stop="20250408143500 +0000" channel="BBC Parl HD">
+    <programme start="20250408141000 +0000" stop="20250408143500 +0000" channel="BBC Parl HD">
         <title>Live Defence Select Committee Statement</title>
     </programme>
     <programme start="20250408143500 +0000" stop="20250408183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
-    <programme start="20250408183000 +0000" stop="20250408191500 +0000" channel="BBC Parl HD">
-        <title>Northern Ireland Assembly - Health Questions</title>
+    <programme start="20250408183000 +0000" stop="20250408191000 +0000" channel="BBC Parl HD">
+        <title>Northern Ireland Assembly Finance Questions</title>
     </programme>
-    <programme start="20250408191500 +0000" stop="20250408214500 +0000" channel="BBC Parl HD">
+    <programme start="20250408191000 +0000" stop="20250408204000 +0000" channel="BBC Parl HD">
         <title>Liaison Committee with Sir Keir Starmer</title>
     </programme>
-    <programme start="20250408214500 +0000" stop="20250408224500 +0000" channel="BBC Parl HD">
+    <programme start="20250408204000 +0000" stop="20250408224500 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Committee on NHS England</title>
+    </programme>
+    <programme start="20250408224500 +0000" stop="20250408234500 +0000" channel="BBC Parl HD">
+        <title>Education Committee on Higher Education and Funding</title>
     </programme>
     <programme start="20250407213000 +0000" stop="20250407220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -23695,10 +23704,10 @@
         <title>Accessories by Kipling</title>
     </programme>
     <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="QVC Style HD">
-        <title>Helene made with Liberty's Fabric</title>
+        <title>Radley London</title>
     </programme>
     <programme start="20250408100000 +0000" stop="20250408110000 +0000" channel="QVC Style HD">
         <title>Coastal Edit with Denim &amp; Co</title>
@@ -24346,7 +24355,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="QVC Extra">
-        <title>Garden Furniture Deals</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250408140000 +0000" stop="20250408150000 +0000" channel="QVC Extra">
         <title>Rieker Footwear</title>
@@ -36694,7 +36703,7 @@
         <title>Front Row</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408194000 +0000" channel="BBC R4">
-        <title>The Invincible TikTok Gurus</title>
+        <title>The Boys Are Not Alright</title>
     </programme>
     <programme start="20250408194000 +0000" stop="20250408200000 +0000" channel="BBC R4">
         <title>In Touch</title>
@@ -37231,7 +37240,7 @@
         <title>Wake Up with Radio Wales</title>
     </programme>
     <programme start="20250408053100 +0000" stop="20250408060000 +0000" channel="BBC R Wales">
-        <title>Jacko's Sporting Amanac</title>
+        <title>Jacko's Sporting Almanac</title>
     </programme>
     <programme start="20250408060000 +0000" stop="20250408080000 +0000" channel="BBC R Wales">
         <title>Radio Wales Breakfast</title>
