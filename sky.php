@@ -13542,10 +13542,10 @@
     <programme start="20250408170000 +0000" stop="20250408190000 +0000" channel="SkySp NFL HD">
         <title>NBC's Pro-Football Talk</title>
     </programme>
-    <programme start="20250408190000 +0000" stop="20250408213000 +0000" channel="SkySp NFL HD">
+    <programme start="20250408190000 +0000" stop="20250408220000 +0000" channel="SkySp NFL HD">
         <title>NCAA B'Ball: March Madness</title>
     </programme>
-    <programme start="20250408213000 +0000" stop="20250408223000 +0000" channel="SkySp NFL HD">
+    <programme start="20250408220000 +0000" stop="20250408223000 +0000" channel="SkySp NFL HD">
         <title>NFL Highlights</title>
     </programme>
     <programme start="20250408223000 +0000" stop="20250408224500 +0000" channel="SkySp NFL HD">
@@ -28428,81 +28428,66 @@
     <programme start="20250408060000 +0000" stop="20250408070000 +0000" channel="ARY Digital">
         <title>Shikwa</title>
     </programme>
-    <programme start="202504080e>
-    <programme start="20250408080000 +0000" stoF
+    <programme start="20250408070000 +0000" stop="20250408080000 +0000" channel="00 +0000" channel="Eman Channel">
+        <title>Mtafotadina: Asar</title>
     </programme>
-    <programme start="20250408185c  <title>Once Upon a Time</title>
-    </progroltart="202504080e>
-    <prograg Believers</title>
+    <programme start="20250408132500 +0000" stop="20250408134000 +0000" le>Brunch Time</title>
+    <ehtle>Mtafotadina: Asar</titleel="Islam Ch Urdu">
+        <titr132500 +0000" stop="20250408134000 +0000" le>Brunch Time</title>
+    <ehtle>Mtafotadina: Asar</titleel="Islam Ch Urdu">l490ie</title>
     </programme>
-    <proerogramme start="20250408185c  <title>Once U<title>Once Upon a Time</title>
- s   <programme start="20250408120000 +0000" stop="2025lAzai8101500 +0000" channel="Eman Channel">
-        <title rse</title>
+    <programme start="2025 00" stop="20250408140000 +0000" channel="Eman Channel">
+  lar</titleel="Islam Ch Urdu">l490ie</title>
+    </programitle>
     </programme>
-    <programme start="2025040l0408120000 +0000" stop="2025lAzai8101500 +0000" channel=500 +0000" channel="Eman Chan0 +0000" stop="20250408121200 +0000" channel=e"Eman Channel">
-        <title>Project Hafiramme start="20250407230000 +0sstart="20250408040000 +0000" stop="202504080500D0" stop="20250408120000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
-    </programmeamme>
-    <progi</title>
+    <p<title>Dhuhr Adhan</title>
     </programme>
-   channe-e00" stop="202504080500D0" stop="20250408120000 +00iran ium    tt Hafidh</title>
-    </prog8170sExplorers</title>
+ e>
+    <programme start="20250408182000 +000l="Eman Channel">
+        <titsbeer TV">
+        <title>Tilawat e Quran Pak</tDaiye Quran Sekhain</title>
     </programme>
-    <programme start="20250408140000 +0000" stop="20250408141500 +0000" channel="Eman otart="202504080e>
-    7>Choti Si Zindagi</title>
-    ean Coal">e>
+    <programme start="20250408120000 +0000" stop="20250408130000 +00 +0000" channe" stop="20250408110000 +0000" 
+    <-eTilawat e Quran Pak</tDaiye Quran Sekhain</title>
+i8034iummme t0 +0000" stop="202504081830    s00 +0000" stop="20250408141500 +0000" channel="Eman Channel">
+        <title>Lantern Tales</title>
     </programme>
-    <programme start="2025040g +0000" channel="Eman Chaein</title>
+    <o0000" channel="Eman Ch70408220000 +0000" stop="202504eprogoart="20250408130000 +0000" channel="Eman Channel">
+  g  </programme>
+    <progre0" stop="20250408081500 +0000" channel="Eman Chann +0000" channiucD itle>
+    </progr-e="202504eprogoart="20250408130000 +0000" channel="egHo000 +0000" channel="se>
+    <programme start="20250408150000 +0000" stop="20250408154400 +0000" channel="Eman Channel">
+        <title>REPEAT:o"2025 00" stop="2025047programme start="2025040723000eHe Toamme</progr-e="202504eprogoart="-e408150000 +0000" stop="20250408154400 +0000" channaco408170000 +0000" channel="Islam Ch Urdu">
+       Pak<u M  <ps202504eprogoart="-e408150000 +0000" stop="20250408154400 +0000" channaco408170000 +0000" channel="Islam Ch Urdu">
+       Pe>RbWel="ileel="Iastop="20250408023300 +0000" channel="Islam Ch Urdu">
+        <title>Prayers from Madina: Fajr</title>
+ e5040o   PAP0250408120000 +0000" stop="2+000samme>
+    <programme start="20250408161500 +0000" stop="20250408163000 +0000" channel="Eman Channel">
+        <title>OnceiWkwa</title>
+    </programnel">/progi03000 +0000" channel="Eman Channel">
+        <title>30 Duas That Changed The World</title>
     </programme>
-    <programme start="mme>
-    <proiucD  +0000" channel="-ele>
-    ean Coal">e>
+    <programme</title>
     </programme>
-    <programegHogramme>
-    <programsnel="Eman Channel">
-        <title>Qur'an Time</title>
+    <programme start=be000stop="2+000samme>
+    <programme start="2025040816150050000 +0000" channel="ARY Digital">
+        <title>Dar </programme>
+    <programme staryhannel="Eman Channel">
+ 20250408100000 +0000" stop="20250408110000 5Ptop>
+        <tir:ineDigi      <title>Naqaab</title>
     </programme>
-    <programme start="20250408150000 +0000" stop=otitle rse</title>
-    7"Islam Ch Urdu">
-        <titleop="ochanannel="-ele>
-    ean Coal">e-eitle>Qur'an Time</title>
+   programme>
+    <programme start="20250408170000 +  <programme start="2025040Pn0" stop="20250408170000 +0000" channel="Eman Chan Channel">
+        <title>Qur'an Time</ti500 +0000" channel="Eman Ch      <title>The Waz And Nav Show</title>
     </programme>
-    <proaco </programme>
-    <programme start="20250408163000805u Mel">s>
-    ean Coal">e-eitle>Qur'an Time</title>
+    <programme start="20250408220000 +0000" stop="20man Chan Channel">
+        <t +0000" stop="20250408200000 +0000" channel="Eman Channelr Hart="20250408103000 +0000" stop="20250408110000 +0000" channel="Eman Channel">
+        <title>Raising Believer">
+        <t +0000" stop="20ert="uaeman Ch      <title>The Waz And Nav Show</title>
     </programme>
-    <proaco </programme>
-    <programme start="2025040816300000"bWgrami000 +00a/title>
+    <programme start="20250408ud +0000" channel="Islam Ch Urdu">
+        <title>Aagahi</title>
     </programme>
-    <programme start="20250408021000 +0000" stop="20250408023300 +0000" channee   <o3000AP>Aaiye Quran Sekhain</title>me>
-sel="Eman Channel">
-        <title>The Misri Bunch</title>
-    </programme>
-    <programme start="20250408161500 +0000" stiWstop="20250408070000 +000"2025000" irogramme>
-    <programme start="20250408101500 +0000" stop="20250408103000 +0000" channel="Eman Channel">
-        <title>30000" channel="Eman Channel">
-        <title>Kibe>
- /title>me>
-sel="Eman Channel">
-        <title>The Misrrogramme>
-    <programme start="20250408043000 +0000" channel="ARY Digital">
-        <ty<programme start="202504tle>Khubsurat Masajid</title>
-    </program5Ptit0250408180000r:inetart08000000 +0000" stop="20250408010000 +0000" chanEman Channel">
-        <title>Kids Evening Remembnnel="ARY Digital">
-       Pnon</title>
-    </programme>
-    <programme startstart="20250408084500 +0000" stop="2025040gramme>
-    <programme star 213000 +0000" stop="20250408220000 +0000" channel="Eman Channel">
-        <title>The Waz And Nav Show</title>
-e startstart="20250408084500 mbrance</title>
-    </programme>
-    <programme start="20r Huas That Changed The World</title>
-    </programme>
-    <programme start="20250408103000 +0000" stop="20250408250408084500 mbrance</title>
-eu">
-uaee star 213000 +0000" stop="20250408220000 +0000" channel="Eman Channel">
-        <title>The Wazudmme>
-    <programme start="20250407220000 +0000" stop="20250407230000 +0000" channel="Islam Ch Urdu">
-        <8de>
-    <proaco </prograogramme>
-    <programme start="20250408103000 +0000" stop="20250408250408084500 mbrance</title>lNAP>A
+    <programme start="2025040728d0000" channaco4081700000000 +0000" channel="Eman Channel">
+        <title>Raising Believer">
+        <t +0000" stop="2lNAP02
