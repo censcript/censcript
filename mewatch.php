@@ -537,9 +537,6 @@
     <programme start="20250409153000 +0000" stop="20250410010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250409160000 +0000" stop="20250410000000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250408150106 +0000" stop="20250408160001 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 1</title>
     </programme>
