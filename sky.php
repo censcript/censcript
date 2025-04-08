@@ -29460,29 +29460,14 @@
     <programme start="20250409041000 +0000" stop="20250409060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250409060000 +0000" stop="20250409063000 +0000" channel="IQRA Bangla">
+    <programme start="20250409060000 +0000" stop="20250409072000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
-    </programme>
-    <programme start="20250409063000 +0000" stop="20250409072000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250409072000 +0000" stop="20250409073000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250409073000 +0000" stop="20250409074500 +0000" channel="IQRA Bangla">
+    <programme start="20250409073000 +0000" stop="20250409083000 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
-    </programme>
-    <programme start="20250409074500 +0000" stop="20250409080000 +0000" channel="IQRA Bangla">
-        <title>Beautiful Mosques</title>
-    </programme>
-    <programme start="20250409080000 +0000" stop="20250409080500 +0000" channel="IQRA Bangla">
-        <title>Know your zakat</title>
-    </programme>
-    <programme start="20250409080500 +0000" stop="20250409082000 +0000" channel="IQRA Bangla">
-        <title>Ramadan tips</title>
-    </programme>
-    <programme start="20250409082000 +0000" stop="20250409083000 +0000" channel="IQRA Bangla">
-        <title>Dua Time</title>
     </programme>
     <programme start="20250409083000 +0000" stop="20250409093000 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
@@ -29490,11 +29475,8 @@
     <programme start="20250409093000 +0000" stop="20250409100000 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
     </programme>
-    <programme start="20250409100000 +0000" stop="20250409110000 +0000" channel="IQRA Bangla">
+    <programme start="20250409100000 +0000" stop="20250409113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250409110000 +0000" stop="20250409113000 +0000" channel="IQRA Bangla">
-        <title>Healthy Iftar</title>
     </programme>
     <programme start="20250409113000 +0000" stop="20250409120700 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
@@ -29502,17 +29484,8 @@
     <programme start="20250409120700 +0000" stop="20250409121200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250409121200 +0000" stop="20250409121400 +0000" channel="IQRA Bangla">
+    <programme start="20250409121200 +0000" stop="20250409130000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250409121400 +0000" stop="20250409121900 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250409121900 +0000" stop="20250409123000 +0000" channel="IQRA Bangla">
-        <title>Khatmul Quran</title>
-    </programme>
-    <programme start="20250409123000 +0000" stop="20250409130000 +0000" channel="IQRA Bangla">
-        <title>Ramadan Q&amp;A</title>
     </programme>
     <programme start="20250409130000 +0000" stop="20250409140000 +0000" channel="IQRA Bangla">
         <title>Jannater pothey</title>
@@ -29520,20 +29493,11 @@
     <programme start="20250409140000 +0000" stop="20250409143000 +0000" channel="IQRA Bangla">
         <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250409143000 +0000" stop="20250409150000 +0000" channel="IQRA Bangla">
+    <programme start="20250409143000 +0000" stop="20250409153000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250409150000 +0000" stop="20250409153000 +0000" channel="IQRA Bangla">
-        <title>AKF Team in Gaza</title>
-    </programme>
-    <programme start="20250409153000 +0000" stop="20250409161400 +0000" channel="IQRA Bangla">
+    <programme start="20250409153000 +0000" stop="20250409164100 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
-    </programme>
-    <programme start="20250409161400 +0000" stop="20250409161900 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250409161900 +0000" stop="20250409164100 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
     </programme>
     <programme start="20250409164100 +0000" stop="20250409170000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
@@ -29541,23 +29505,8 @@
     <programme start="20250409170000 +0000" stop="20250409180000 +0000" channel="IQRA Bangla">
         <title>Masnoon Dua</title>
     </programme>
-    <programme start="20250409180000 +0000" stop="20250409181400 +0000" channel="IQRA Bangla">
+    <programme start="20250409180000 +0000" stop="20250409185100 +0000" channel="IQRA Bangla">
         <title>Dosh Diganta</title>
-    </programme>
-    <programme start="20250409181400 +0000" stop="20250409182400 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250409182400 +0000" stop="20250409183000 +0000" channel="IQRA Bangla">
-        <title>The Sound Of Revelations</title>
-    </programme>
-    <programme start="20250409183000 +0000" stop="20250409183500 +0000" channel="IQRA Bangla">
-        <title>Know your zakat</title>
-    </programme>
-    <programme start="20250409183500 +0000" stop="20250409184000 +0000" channel="IQRA Bangla">
-        <title>Ramadan tips</title>
-    </programme>
-    <programme start="20250409184000 +0000" stop="20250409185100 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
     </programme>
     <programme start="20250409185100 +0000" stop="20250409190000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
@@ -29565,14 +29514,8 @@
     <programme start="20250409190000 +0000" stop="20250409193000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250409193000 +0000" stop="20250409193400 +0000" channel="IQRA Bangla">
+    <programme start="20250409193000 +0000" stop="20250409200600 +0000" channel="IQRA Bangla">
         <title>Mon</title>
-    </programme>
-    <programme start="20250409193400 +0000" stop="20250409193900 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250409193900 +0000" stop="20250409200600 +0000" channel="IQRA Bangla">
-        <title>Charity Appeal</title>
     </programme>
     <programme start="20250409200600 +0000" stop="20250409201100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
@@ -30000,83 +29943,89 @@
     <programme start="20250409053000 +0000" stop="20250409060000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250409060000 +0000" stop="20250409063000 +0000" channel="iON TV">
-        <title>iON News Time.</title>
-    </programme>
-    <programme start="20250409063000 +0000" stop="20250409070000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
-    </programme>
-    <programme start="20250409070000 +0000" stop="20250409080000 +0000" channel="iON TV">
+    <programme start="20250409060000 +0000" stop="20250409070000 +0000" channel="iON TV">
         <title>Forty Hadiths</title>
     </programme>
-    <programme start="20250409080000 +0000" stop="20250409090000 +0000" channel="iON TV">
+    <programme start="20250409070000 +0000" stop="20250409080000 +0000" channel="iON TV">
         <title>Quranic Arabic</title>
     </programme>
-    <programme start="20250409090000 +0000" stop="20250409100000 +0000" channel="iON TV">
-        <title>Islamic history and tradition</title>
+    <programme start="20250409080000 +0000" stop="20250409090000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
-    <programme start="20250409100000 +0000" stop="20250409103000 +0000" channel="iON TV">
+    <programme start="20250409090000 +0000" stop="20250409093000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250409103000 +0000" stop="20250409110000 +0000" channel="iON TV">
-        <title>In the Light of Islam</title>
+    <programme start="20250409093000 +0000" stop="20250409100000 +0000" channel="iON TV">
+        <title>News 24</title>
     </programme>
-    <programme start="20250409110000 +0000" stop="20250409120000 +0000" channel="iON TV">
+    <programme start="20250409100000 +0000" stop="20250409110000 +0000" channel="iON TV">
         <title>Akhsaru Tafaseer</title>
     </programme>
-    <programme start="20250409120000 +0000" stop="20250409121100 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+    <programme start="20250409110000 +0000" stop="20250409120000 +0000" channel="iON TV">
+        <title>Gardening and Beyond BGS</title>
     </programme>
-    <programme start="20250409121100 +0000" stop="20250409121600 +0000" channel="iON TV">
-        <title>Azan-e-Zuhr</title>
-    </programme>
-    <programme start="20250409121600 +0000" stop="20250409130000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
-    </programme>
-    <programme start="20250409130000 +0000" stop="20250409133000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409133000 +0000" stop="20250409140000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409160000 +0000" stop="20250409162400 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409162400 +0000" stop="20250409162900 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250409162900 +0000" stop="20250409165900 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409165900 +0000" stop="20250409182700 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409182700 +0000" stop="20250409183200 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250409183200 +0000" stop="20250409194500 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409194500 +0000" stop="20250409195000 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250409195000 +0000" stop="20250409213000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
-    </programme>
-    <programme start="20250409213000 +0000" stop="20250409220000 +0000" channel="iON TV">
+    <programme start="20250409120000 +0000" stop="20250409120700 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250409220000 +0000" stop="20250409223000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250409120700 +0000" stop="20250409121200 +0000" channel="iON TV">
+        <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250409223000 +0000" stop="20250409233000 +0000" channel="iON TV">
-        <title>Ramadan Charity Appeal</title>
+    <programme start="20250409121200 +0000" stop="20250409123000 +0000" channel="iON TV">
+        <title>iON News Time</title>
+    </programme>
+    <programme start="20250409123000 +0000" stop="20250409130000 +0000" channel="iON TV">
+        <title>News 24</title>
+    </programme>
+    <programme start="20250409130000 +0000" stop="20250409140000 +0000" channel="iON TV">
+        <title>Islamic Knowledge By Azhari</title>
+    </programme>
+    <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="iON TV">
+        <title>Music Hour</title>
+    </programme>
+    <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="iON TV">
+        <title>Travel Show</title>
+    </programme>
+    <programme start="20250409160000 +0000" stop="20250409164100 +0000" channel="iON TV">
+        <title>Islamic Discussion</title>
+    </programme>
+    <programme start="20250409164100 +0000" stop="20250409164600 +0000" channel="iON TV">
+        <title>Azan-e-Asr</title>
+    </programme>
+    <programme start="20250409164600 +0000" stop="20250409170000 +0000" channel="iON TV">
+        <title>Islamic Discussion</title>
+    </programme>
+    <programme start="20250409170000 +0000" stop="20250409180000 +0000" channel="iON TV">
+        <title>Cine Hour</title>
+    </programme>
+    <programme start="20250409180000 +0000" stop="20250409183000 +0000" channel="iON TV">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250409183000 +0000" stop="20250409185100 +0000" channel="iON TV">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250409185100 +0000" stop="20250409185600 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250409185600 +0000" stop="20250409190000 +0000" channel="iON TV">
+        <title>News Room</title>
+    </programme>
+    <programme start="20250409190000 +0000" stop="20250409200600 +0000" channel="iON TV">
+        <title>Drama Time</title>
+    </programme>
+    <programme start="20250409200600 +0000" stop="20250409201100 +0000" channel="iON TV">
+        <title>Azan-e-Isha</title>
+    </programme>
+    <programme start="20250409201100 +0000" stop="20250409203000 +0000" channel="iON TV">
+        <title>News 24</title>
+    </programme>
+    <programme start="20250409203000 +0000" stop="20250409210000 +0000" channel="iON TV">
+        <title>iON News Time</title>
+    </programme>
+    <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="iON TV">
+        <title>Travel Show</title>
+    </programme>
+    <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
     <programme start="20250408213000 +0000" stop="20250408220000 +0000" channel="Deen TV">
         <title>Deener Alo</title>
