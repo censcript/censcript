@@ -595,10 +595,10 @@
         <title>No Programme available now. Next Broadcast on 11th April, Friday 7.15pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
     </programme>
     <programme start="20250407160000 +0000" stop="20250408160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Hougang United FC</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250409160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Hougang United FC</title>
     </programme>
     <programme start="20250407120000 +0000" stop="20250407210000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies!</title>
