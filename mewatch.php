@@ -387,6 +387,9 @@
     <programme start="20250407153000 +0000" stop="20250408010000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
+    <programme start="20250407220000 +0000" stop="20250408010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20250408010000 +0000" stop="20250408013000 +0000" channel="Suria.mewatch">
         <title>Mechamato &#039;The Animated Series&#039; S2 - EP 6</title>
     </programme>
@@ -446,6 +449,9 @@
     </programme>
     <programme start="20250407153000 +0000" stop="20250408010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
+    </programme>
+    <programme start="20250408000000 +0000" stop="20250408010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250408010000 +0000" stop="20250408012958 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 33</title>
