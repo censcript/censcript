@@ -126,19 +126,19 @@
     <programme start="20250408123030 +0000" stop="20250408130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 50</title>
     </programme>
-    <programme start="20250408130000 +0000" stop="20250408134500 +0000" channel="Channel 5.mewatch">
+    <programme start="20250408130000 +0000" stop="20250408134459 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250408134500 +0000" stop="20250408141506 +0000" channel="Channel 5.mewatch">
+    <programme start="20250408134459 +0000" stop="20250408141505 +0000" channel="Channel 5.mewatch">
         <title>Makan Time Stories S3 - EP 1</title>
     </programme>
-    <programme start="20250408141506 +0000" stop="20250408144508 +0000" channel="Channel 5.mewatch">
+    <programme start="20250408141505 +0000" stop="20250408144507 +0000" channel="Channel 5.mewatch">
         <title>Wedding Pig - EP 2</title>
     </programme>
-    <programme start="20250408144508 +0000" stop="20250408153519 +0000" channel="Channel 5.mewatch">
+    <programme start="20250408144507 +0000" stop="20250408153518 +0000" channel="Channel 5.mewatch">
         <title>Almost Paradise S2 - EP 7</title>
     </programme>
-    <programme start="20250408153519 +0000" stop="20250408162045 +0000" channel="Channel 5.mewatch">
+    <programme start="20250408153518 +0000" stop="20250408162014 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 1</title>
     </programme>
     <programme start="20250407150105 +0000" stop="20250407160055 +0000" channel="Channel 8.mewatch">
@@ -627,26 +627,80 @@
     <programme start="20250407100000 +0000" stop="20250407200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250407200000 +0000" stop="20250407210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250407160500 +0000" stop="20250407170000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250407210000 +0000" stop="20250407220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250407170000 +0000" stop="20250407172500 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed!</title>
+    </programme>
+    <programme start="20250407172500 +0000" stop="20250407191500 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979</title>
+    </programme>
+    <programme start="20250407191500 +0000" stop="20250407192500 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed!</title>
+    </programme>
+    <programme start="20250407192500 +0000" stop="20250407213000 +0000" channel="now-70s.mewatch">
+        <title>Easter&#039;s Biggest Hits: 1970-1979</title>
+    </programme>
+    <programme start="20250407213000 +0000" stop="20250407220000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
     <programme start="20250407220000 +0000" stop="20250407230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+        <title>The Best 1971 Party...Ever!</title>
     </programme>
-    <programme start="20250407230000 +0000" stop="20250408000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250407230000 +0000" stop="20250408010000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Pop Pin-Ups!</title>
     </programme>
-    <programme start="20250408000000 +0000" stop="20250408090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250408010000 +0000" stop="20250408032000 +0000" channel="now-70s.mewatch">
+        <title>70s V 80s Rock Legends!</title>
     </programme>
-    <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250408032000 +0000" stop="20250408040000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Day!</title>
     </programme>
-    <programme start="20250408100000 +0000" stop="20250408200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250408040000 +0000" stop="20250408044500 +0000" channel="now-70s.mewatch">
+        <title>Meat Loaf 1975-1995</title>
+    </programme>
+    <programme start="20250408044500 +0000" stop="20250408050000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Day!</title>
+    </programme>
+    <programme start="20250408050000 +0000" stop="20250408061000 +0000" channel="now-70s.mewatch">
+        <title>Fleetwood Mac! 1975-1989</title>
+    </programme>
+    <programme start="20250408061000 +0000" stop="20250408070000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Day!</title>
+    </programme>
+    <programme start="20250408070000 +0000" stop="20250408090500 +0000" channel="now-70s.mewatch">
+        <title>Antiques Rockshow With Robin Banks</title>
+    </programme>
+    <programme start="20250408090500 +0000" stop="20250408100000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Day!</title>
+    </programme>
+    <programme start="20250408100000 +0000" stop="20250408103000 +0000" channel="now-70s.mewatch">
+        <title>The 50s Revival! Top 25</title>
+    </programme>
+    <programme start="20250408103000 +0000" stop="20250408105500 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed!</title>
+    </programme>
+    <programme start="20250408105500 +0000" stop="20250408113000 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979</title>
+    </programme>
+    <programme start="20250408113000 +0000" stop="20250408114500 +0000" channel="now-70s.mewatch">
+        <title>The 50s Revival! Top 25</title>
+    </programme>
+    <programme start="20250408114500 +0000" stop="20250408120000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250408120000 +0000" stop="20250408142000 +0000" channel="now-70s.mewatch">
+        <title>Who Had The Most Hits In The 70s?</title>
+    </programme>
+    <programme start="20250408142000 +0000" stop="20250408150000 +0000" channel="now-70s.mewatch">
+        <title>Magic Moments! The 70s</title>
+    </programme>
+    <programme start="20250408150000 +0000" stop="20250408160000 +0000" channel="now-70s.mewatch">
+        <title>The 1970 Power Hour With Bam!</title>
+    </programme>
+    <programme start="20250408160000 +0000" stop="20250408170000 +0000" channel="now-70s.mewatch">
+        <title>It&#039;s A Massive 70s Party Night!</title>
     </programme>
     <programme start="20250407160000 +0000" stop="20250407220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
