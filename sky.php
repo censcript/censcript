@@ -2113,7 +2113,7 @@
         <title>Forged In Fire</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408200000 +0000" channel="Sky HistoryHD">
-        <title>New: Pawn Stars</title>
+        <title>New: Pawn Stars 25</title>
     </programme>
     <programme start="20250408200000 +0000" stop="20250408210000 +0000" channel="Sky HistoryHD">
         <title>New: Jack The Ripper: Written In Blood</title>
@@ -3123,10 +3123,10 @@
     <programme start="20250408094000 +0000" stop="20250408095500 +0000" channel="S4C">
         <title>Awyr Iach</title>
     </programme>
-    <programme start="20250408095500 +0000" stop="20250408100000 +0000" channel="S4C">
+    <programme start="20250408095500 +0000" stop="20250408100500 +0000" channel="S4C">
         <title>Caru Canu</title>
     </programme>
-    <programme start="20250408100000 +0000" stop="20250408101500 +0000" channel="S4C">
+    <programme start="20250408100500 +0000" stop="20250408101500 +0000" channel="S4C">
         <title>Fferm Fach</title>
     </programme>
     <programme start="20250408101500 +0000" stop="20250408102500 +0000" channel="S4C">
@@ -8638,7 +8638,7 @@
         <title>Forged In Fire</title>
     </programme>
     <programme start="20250408200000 +0000" stop="20250408210000 +0000" channel="Sky History+1">
-        <title>New: Pawn Stars</title>
+        <title>New: Pawn Stars 25</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="Sky History+1">
         <title>New: Jack The Ripper: Written In Blood</title>
@@ -13492,10 +13492,10 @@
         <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408210000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Zverev v Berrettini</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Draper v Giron</title>
     </programme>
     <programme start="20250407213000 +0000" stop="20250407223000 +0000" channel="SkySp NFL HD">
         <title>NFL Highlights</title>
@@ -13720,7 +13720,7 @@
         <title>Live: Cycling World Tour - Men</title>
     </programme>
     <programme start="20250408154500 +0000" stop="20250408160000 +0000" channel="TNT Sports 1">
-        <title>No Filter Cycling</title>
+        <title>Playing For Our Future - Cycling</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250408161500 +0000" channel="TNT Sports 1">
         <title>Kenny Allstar's Number 1's</title>
@@ -13743,11 +13743,17 @@
     <programme start="20250408210000 +0000" stop="20250408213000 +0000" channel="TNT Sports 1">
         <title>Live: Champions League Highlights</title>
     </programme>
-    <programme start="20250408213000 +0000" stop="20250408223000 +0000" channel="TNT Sports 1">
+    <programme start="20250408213000 +0000" stop="20250408214500 +0000" channel="TNT Sports 1">
+        <title>No Filter Cycling</title>
+    </programme>
+    <programme start="20250408214500 +0000" stop="20250408223000 +0000" channel="TNT Sports 1">
         <title>Premier League Review</title>
     </programme>
-    <programme start="20250408223000 +0000" stop="20250408233000 +0000" channel="TNT Sports 1">
+    <programme start="20250408223000 +0000" stop="20250408224500 +0000" channel="TNT Sports 1">
         <title>NBA On Fire</title>
+    </programme>
+    <programme start="20250408224500 +0000" stop="20250408234500 +0000" channel="TNT Sports 1">
+        <title>Playing For Our Future - Football</title>
     </programme>
     <programme start="20250407210000 +0000" stop="20250407220000 +0000" channel="TNT Sports 2">
         <title>UEFA Europa League Magazine</title>
@@ -24376,10 +24382,10 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250408130000 +0000" stop="20250408140000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Garden Furniture Deals</title>
     </programme>
     <programme start="20250408140000 +0000" stop="20250408150000 +0000" channel="QVC Extra">
-        <title>The Hottest Names in Tech</title>
+        <title>Rieker Footwear</title>
     </programme>
     <programme start="20250408150000 +0000" stop="20250408160000 +0000" channel="QVC Extra">
         <title>Your Spring Garden</title>
@@ -32029,7 +32035,7 @@
         <title>Forged In Fire</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408200000 +0000" channel="Sky History">
-        <title>New: Pawn Stars</title>
+        <title>New: Pawn Stars 25</title>
     </programme>
     <programme start="20250408200000 +0000" stop="20250408210000 +0000" channel="Sky History">
         <title>New: Jack The Ripper: Written In Blood</title>
@@ -32727,10 +32733,10 @@
     <programme start="20250408094000 +0000" stop="20250408095500 +0000" channel="S4C HD">
         <title>Awyr Iach</title>
     </programme>
-    <programme start="20250408095500 +0000" stop="20250408100000 +0000" channel="S4C HD">
+    <programme start="20250408095500 +0000" stop="20250408100500 +0000" channel="S4C HD">
         <title>Caru Canu</title>
     </programme>
-    <programme start="20250408100000 +0000" stop="20250408101500 +0000" channel="S4C HD">
+    <programme start="20250408100500 +0000" stop="20250408101500 +0000" channel="S4C HD">
         <title>Fferm Fach</title>
     </programme>
     <programme start="20250408101500 +0000" stop="20250408102500 +0000" channel="S4C HD">
@@ -33685,7 +33691,7 @@
         <title>Live: Cycling World Tour - Men</title>
     </programme>
     <programme start="20250408154500 +0000" stop="20250408160000 +0000" channel="TNTSports1 HD">
-        <title>No Filter Cycling</title>
+        <title>Playing For Our Future - Cycling</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250408161500 +0000" channel="TNTSports1 HD">
         <title>Kenny Allstar's Number 1's</title>
@@ -33708,11 +33714,17 @@
     <programme start="20250408210000 +0000" stop="20250408213000 +0000" channel="TNTSports1 HD">
         <title>Live: Champions League Highlights</title>
     </programme>
-    <programme start="20250408213000 +0000" stop="20250408223000 +0000" channel="TNTSports1 HD">
+    <programme start="20250408213000 +0000" stop="20250408214500 +0000" channel="TNTSports1 HD">
+        <title>No Filter Cycling</title>
+    </programme>
+    <programme start="20250408214500 +0000" stop="20250408223000 +0000" channel="TNTSports1 HD">
         <title>Premier League Review</title>
     </programme>
-    <programme start="20250408223000 +0000" stop="20250408233000 +0000" channel="TNTSports1 HD">
+    <programme start="20250408223000 +0000" stop="20250408224500 +0000" channel="TNTSports1 HD">
         <title>NBA On Fire</title>
+    </programme>
+    <programme start="20250408224500 +0000" stop="20250408234500 +0000" channel="TNTSports1 HD">
+        <title>Playing For Our Future - Football</title>
     </programme>
     <programme start="20250407210000 +0000" stop="20250407220000 +0000" channel="TNTSports2 HD">
         <title>UEFA Europa League Magazine</title>

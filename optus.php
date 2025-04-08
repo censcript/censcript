@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Art of... The Central Defensive Midfielder</title>
-    </programme>
     <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
