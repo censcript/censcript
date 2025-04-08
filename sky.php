@@ -5196,49 +5196,7 @@
     <programme start="20250408220000 +0000" stop="20250408230000 +0000" channel="U&amp;Yesterday HD">
         <title>Bangers &amp; Cash</title>
     </programme>
-    <programme start="20250407210000 +0000" stop="20250407220000 +0000" channel="Crime+Inv HD">
-        <title>Crimes That Shook Britain</title>
-    </programme>
-    <programme start="20250407220000 +0000" stop="20250407230000 +0000" channel="Crime+Inv HD">
-        <title>Britain's Darkest Taboos</title>
-    </programme>
-    <programme start="20250407230000 +0000" stop="20250408000000 +0000" channel="Crime+Inv HD">
-        <title>Crimes That Shook Britain</title>
-    </programme>
-    <programme start="20250408000000 +0000" stop="20250408010000 +0000" channel="Crime+Inv HD">
-        <title>Murders At Little Bridge Farm</title>
-    </programme>
-    <programme start="20250408010000 +0000" stop="20250408013000 +0000" channel="Crime+Inv HD">
-        <title>Hometown Tragedy</title>
-    </programme>
-    <programme start="20250408013000 +0000" stop="20250408020000 +0000" channel="Crime+Inv HD">
-        <title>Hometown Tragedy</title>
-    </programme>
-    <programme start="20250408020000 +0000" stop="20250408030000 +0000" channel="Crime+Inv HD">
-        <title>Green Eyed Killers</title>
-    </programme>
-    <programme start="20250408030000 +0000" stop="20250408040000 +0000" channel="Crime+Inv HD">
-        <title>On The Case With Paula Zahn</title>
-    </programme>
-    <programme start="20250408040000 +0000" stop="20250408050000 +0000" channel="Crime+Inv HD">
-        <title>An Hour To Kill</title>
-    </programme>
-    <programme start="20250408050000 +0000" stop="20250408060000 +0000" channel="Crime+Inv HD">
-        <title>Cold Case Files</title>
-    </programme>
-    <programme start="20250408060000 +0000" stop="20250408070000 +0000" channel="Crime+Inv HD">
-        <title>Homicide Hunter</title>
-    </programme>
-    <programme start="20250408070000 +0000" stop="20250408080000 +0000" channel="Crime+Inv HD">
-        <title>Mastermind Of Murder</title>
-    </programme>
-    <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Crime+Inv HD">
-        <title>Judge Rinder's Interrogation Secrets</title>
-    </programme>
-    <programme start="20250408090000 +0000" stop="20250408093000 +0000" channel="Crime+Inv HD">
-        <title>Hometown Tragedy</title>
-    </programme>
-    <programme start="20250408093000 +0000" stop="20250408100000 +0000" channel="Crime+Inv HD">
+    <programme start="20250408090000 +0000" stop="20250408100000 +0000" channel="Crime+Inv HD">
         <title>Hometown Tragedy</title>
     </programme>
     <programme start="20250408100000 +0000" stop="20250408110000 +0000" channel="Crime+Inv HD">
