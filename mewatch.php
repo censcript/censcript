@@ -456,7 +456,7 @@
     <programme start="20250410153000 +0000" stop="20250410160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250410160000 +0000" stop="20250410220000 +0000" channel="Suria.mewatch">
+    <programme start="20250410160000 +0000" stop="20250411010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250409153000 +0000" stop="20250410010000 +0000" channel="Vasantham.mewatch">
@@ -528,7 +528,7 @@
     <programme start="20250410153000 +0000" stop="20250410160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 2</title>
     </programme>
-    <programme start="20250410160000 +0000" stop="20250410163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410160000 +0000" stop="20250411010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250409160000 +0000" stop="20250409160315 +0000" channel="CNA.mewatch">

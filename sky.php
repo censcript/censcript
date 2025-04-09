@@ -23446,7 +23446,7 @@
         <title>The Lunchtime Show</title>
     </programme>
     <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>What to Wear this April</title>
     </programme>
     <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="QVC HD">
         <title>Silentnight</title>
@@ -23767,7 +23767,7 @@
         <title>Perfect Patio</title>
     </programme>
     <programme start="20250410170000 +0000" stop="20250410180000 +0000" channel="QVC Style HD">
-        <title>In the Garden with Thompson &amp; Morgan</title>
+        <title>Spring Garden</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410190000 +0000" channel="QVC Style HD">
         <title>Accessories by Kipling</title>
@@ -27853,52 +27853,52 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250410070000 +0000" stop="20250410080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250410080000 +0000" stop="20250410090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250410090000 +0000" stop="20250410100000 +0000" channel="Takbeer TV">
         <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250410100000 +0000" stop="20250410110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250410110000 +0000" stop="20250410120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
-    </programme>
-    <programme start="20250410120000 +0000" stop="20250410130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
-    <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250410160000 +0000" stop="20250410170000 +0000" channel="Takbeer TV">
+    <programme start="20250410120000 +0000" stop="20250410130000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="Takbeer TV">
+        <title>The Best of Creations</title>
+    </programme>
+    <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="Takbeer TV">
+        <title>The Best of Creations</title>
+    </programme>
+    <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="Takbeer TV">
+        <title>Sham e Arfaan</title>
+    </programme>
+    <programme start="20250410160000 +0000" stop="20250410170000 +0000" channel="Takbeer TV">
+        <title>Aaiye Quran Sekhain</title>
+    </programme>
     <programme start="20250410170000 +0000" stop="20250410180000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410190000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250410190000 +0000" stop="20250410200000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Sarkar Ki Batain</title>
     </programme>
     <programme start="20250410200000 +0000" stop="20250410210000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250410220000 +0000" stop="20250410230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="HUM EUROPE">
         <title>Choti Si Zindagi</title>
