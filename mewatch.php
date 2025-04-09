@@ -585,16 +585,16 @@
     <programme start="20250409100000 +0000" stop="20250409110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250409110000 +0000" stop="20250409113000 +0000" channel="CNA.mewatch">
+    <programme start="20250409110000 +0000" stop="20250409112959 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 4</title>
     </programme>
-    <programme start="20250409113000 +0000" stop="20250409120000 +0000" channel="CNA.mewatch">
+    <programme start="20250409112959 +0000" stop="20250409120001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 2</title>
     </programme>
-    <programme start="20250409120000 +0000" stop="20250409130000 +0000" channel="CNA.mewatch">
+    <programme start="20250409120001 +0000" stop="20250409130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250409130000 +0000" stop="20250409140000 +0000" channel="CNA.mewatch">
+    <programme start="20250409130001 +0000" stop="20250409140000 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 3</title>
     </programme>
     <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="CNA.mewatch">
@@ -603,7 +603,7 @@
     <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 2</title>
     </programme>
-    <programme start="20250409160000 +0000" stop="20250409160300 +0000" channel="CNA.mewatch">
+    <programme start="20250409160000 +0000" stop="20250409160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250408160000 +0000" stop="20250409160000 +0000" channel="Oktolidays.mewatch">

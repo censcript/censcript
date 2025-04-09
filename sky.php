@@ -13750,7 +13750,7 @@
         <title>Playing For Our Future - Cycling</title>
     </programme>
     <programme start="20250409134500 +0000" stop="20250409154500 +0000" channel="TNT Sports 2">
-        <title>Cycling Pro Series - Men</title>
+        <title>Live: Cycling Pro Series - Men</title>
     </programme>
     <programme start="20250409154500 +0000" stop="20250409164500 +0000" channel="TNT Sports 2">
         <title>Chasing Cobbles: Mads Pedersen</title>
@@ -33676,7 +33676,7 @@
         <title>Playing For Our Future - Cycling</title>
     </programme>
     <programme start="20250409134500 +0000" stop="20250409154500 +0000" channel="TNTSports2 HD">
-        <title>Cycling Pro Series - Men</title>
+        <title>Live: Cycling Pro Series - Men</title>
     </programme>
     <programme start="20250409154500 +0000" stop="20250409164500 +0000" channel="TNTSports2 HD">
         <title>Chasing Cobbles: Mads Pedersen</title>
