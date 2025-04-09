@@ -28899,22 +28899,31 @@
     <programme start="20250409143000 +0000" stop="20250409153000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
     </programme>
-    <programme start="20250409153000 +0000" stop="20250409163000 +0000" channel="Akaal Channel">
+    <programme start="20250409153000 +0000" stop="20250409160000 +0000" channel="Akaal Channel">
         <title>Weekly Langar Sewa MP</title>
+    </programme>
+    <programme start="20250409160000 +0000" stop="20250409163000 +0000" channel="Akaal Channel">
+        <title>Akaal Advice Bureau</title>
     </programme>
     <programme start="20250409163000 +0000" stop="20250409170000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
     <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250409173000 +0000" stop="20250409182000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250409182000 +0000" stop="20250409192000 +0000" channel="Akaal Channel">
+    <programme start="20250409173000 +0000" stop="20250409181000 +0000" channel="Akaal Channel">
+        <title>Media Watch</title>
+    </programme>
+    <programme start="20250409181000 +0000" stop="20250409191000 +0000" channel="Akaal Channel">
         <title>Live: Sikligar Sikhs Anand Karaj</title>
     </programme>
-    <programme start="20250409192000 +0000" stop="20250409200000 +0000" channel="Akaal Channel">
+    <programme start="20250409191000 +0000" stop="20250409192000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Pakistan Yatra</title>
+    </programme>
+    <programme start="20250409192000 +0000" stop="20250409192500 +0000" channel="Akaal Channel">
+        <title>Live: Jee Aayan Nu</title>
+    </programme>
+    <programme start="20250409192500 +0000" stop="20250409200000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>
     </programme>
     <programme start="20250409200000 +0000" stop="20250409203000 +0000" channel="Akaal Channel">
