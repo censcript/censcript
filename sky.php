@@ -2007,11 +2007,8 @@
     <programme start="20250409001000 +0000" stop="20250409011000 +0000" channel="Sky HistoryHD">
         <title>Pawn Stars</title>
     </programme>
-    <programme start="20250409011000 +0000" stop="20250409020500 +0000" channel="Sky HistoryHD">
+    <programme start="20250409011000 +0000" stop="20250409030000 +0000" channel="Sky HistoryHD">
         <title>The Curse Of Oak Island</title>
-    </programme>
-    <programme start="20250409020500 +0000" stop="20250409030000 +0000" channel="Sky HistoryHD">
-        <title>Pawn Stars 25</title>
     </programme>
     <programme start="20250409030000 +0000" stop="20250409033000 +0000" channel="Sky HistoryHD">
         <title>Storage Wars</title>
@@ -2025,11 +2022,8 @@
     <programme start="20250409043000 +0000" stop="20250409050000 +0000" channel="Sky HistoryHD">
         <title>Storage Wars</title>
     </programme>
-    <programme start="20250409050000 +0000" stop="20250409055000 +0000" channel="Sky HistoryHD">
+    <programme start="20250409050000 +0000" stop="20250409064500 +0000" channel="Sky HistoryHD">
         <title>American Pickers</title>
-    </programme>
-    <programme start="20250409055000 +0000" stop="20250409064500 +0000" channel="Sky HistoryHD">
-        <title>Pawn Stars 25</title>
     </programme>
     <programme start="20250409064500 +0000" stop="20250409074500 +0000" channel="Sky HistoryHD">
         <title>Rust Valley Restorers</title>
@@ -7143,16 +7137,16 @@
     <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="That's TV 3">
         <title>That's Oldies: Classic Hit Music</title>
     </programme>
-    <programme start="20250409200000 +0000" stop="20250409203000 +0000" channel="That's TV 3">
+    <programme start="20250409200000 +0000" stop="20250409203500 +0000" channel="That's TV 3">
         <title>After You've Gone</title>
     </programme>
-    <programme start="20250409203000 +0000" stop="20250409210000 +0000" channel="That's TV 3">
+    <programme start="20250409203500 +0000" stop="20250409211000 +0000" channel="That's TV 3">
         <title>Waiting for God</title>
     </programme>
-    <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="That's TV 3">
+    <programme start="20250409211000 +0000" stop="20250409221000 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="That's TV 3">
+    <programme start="20250409221000 +0000" stop="20250409231000 +0000" channel="That's TV 3">
         <title>The Saint</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="ITV1+1">
@@ -13441,10 +13435,10 @@
         <title>ATP Tour This Week</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409210000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Rublev v Monfils</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Djokovic v Tabilo</title>
     </programme>
     <programme start="20250408190000 +0000" stop="20250408220000 +0000" channel="SkySp NFL HD">
         <title>NCAA B'Ball: March Madness</title>
@@ -23623,7 +23617,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250409100000 +0000" stop="20250409110000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Bellamianta Luxury Tanning</title>
     </programme>
     <programme start="20250409110000 +0000" stop="20250409120000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23635,7 +23629,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="QVC Beauty">
         <title>Bellamianta Luxury Tanning</title>
@@ -23656,7 +23650,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="QVC Beauty">
-        <title>Menopause Your Way</title>
+        <title>Doll10 Beauty</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24352,25 +24346,22 @@
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="QVC Extra">
-        <title>Big Brand Tech</title>
+        <title>Rieker Footwear</title>
     </programme>
     <programme start="20250409160000 +0000" stop="20250409170000 +0000" channel="QVC Extra">
-        <title>New In JM Home by Julien MacDonald</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250409170000 +0000" stop="20250409180000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409190000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>Helene Berman London</title>
     </programme>
-    <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
-    </programme>
-    <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+    <programme start="20250409190000 +0000" stop="20250409210000 +0000" channel="QVC Extra">
+        <title>Your Spring Garden</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="QVC Extra">
-        <title>EMU Spring-Summer Edit</title>
+        <title>Big Brand Tech</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24940,7 +24931,7 @@
         <title>Hitz</title>
     </programme>
     <programme start="20250409113000 +0000" stop="20250409120000 +0000" channel="B4U Music">
-        <title>Hitz</title>
+        <title>City Beats</title>
     </programme>
     <programme start="20250409120000 +0000" stop="20250409123000 +0000" channel="B4U Music">
         <title>Kadak</title>
@@ -24967,7 +24958,7 @@
         <title>Bajao</title>
     </programme>
     <programme start="20250409173000 +0000" stop="20250409180000 +0000" channel="B4U Music">
-        <title>Pinkvilla</title>
+        <title>City Beats</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409183000 +0000" channel="B4U Music">
         <title>Solid Hits</title>
@@ -28437,10 +28428,10 @@
     <programme start="20250409070000 +0000" stop="20250409080000 +0000" channel="ARY Digital">
         <title>Parwarish</title>
     </programme>
-    <programme start="20250409080000 +0000" stop="20250409100000 +0000" channel="ARY Digital">
+    <programme start="20250409080000 +0000" stop="20250409100700 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250409100000 +0000" stop="20250409103000 +0000" channel="ARY Digital">
+    <programme start="20250409100700 +0000" stop="20250409103000 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
     <programme start="20250409103000 +0000" stop="20250409120000 +0000" channel="ARY Digital">
@@ -29191,67 +29182,67 @@
         <title>Amritvela</title>
     </programme>
     <programme start="20250409060000 +0000" stop="20250409063000 +0000" channel="PBC">
-        <title>Amritvela</title>
+        <title>Shri Sehaj Path</title>
     </programme>
     <programme start="20250409063000 +0000" stop="20250409070000 +0000" channel="PBC">
-        <title>Amritvela</title>
-    </programme>
-    <programme start="20250409070000 +0000" stop="20250409073000 +0000" channel="PBC">
-        <title>Shri Sehaj Path</title>
-    </programme>
-    <programme start="20250409073000 +0000" stop="20250409080000 +0000" channel="PBC">
         <title>Kirtan</title>
     </programme>
-    <programme start="20250409080000 +0000" stop="20250409083000 +0000" channel="PBC">
+    <programme start="20250409070000 +0000" stop="20250409073000 +0000" channel="PBC">
         <title>Children's Corner</title>
     </programme>
-    <programme start="20250409083000 +0000" stop="20250409090000 +0000" channel="PBC">
+    <programme start="20250409073000 +0000" stop="20250409080000 +0000" channel="PBC">
         <title>Katha</title>
     </programme>
-    <programme start="20250409090000 +0000" stop="20250409100000 +0000" channel="PBC">
+    <programme start="20250409080000 +0000" stop="20250409090000 +0000" channel="PBC">
         <title>PBC Morning Show</title>
     </programme>
-    <programme start="20250409100000 +0000" stop="20250409120000 +0000" channel="PBC">
+    <programme start="20250409090000 +0000" stop="20250409110000 +0000" channel="PBC">
         <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250409120000 +0000" stop="20250409123000 +0000" channel="PBC">
+    <programme start="20250409110000 +0000" stop="20250409113000 +0000" channel="PBC">
         <title>Shri Sehaj Path</title>
+    </programme>
+    <programme start="20250409113000 +0000" stop="20250409123000 +0000" channel="PBC">
+        <title>PBC Repeat Show</title>
     </programme>
     <programme start="20250409123000 +0000" stop="20250409140000 +0000" channel="PBC">
         <title>PBC Repeat Show</title>
     </programme>
-    <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="PBC">
-        <title>PBC Repeat Show</title>
-    </programme>
-    <programme start="20250409150000 +0000" stop="20250409160000 +0000" channel="PBC">
+    <programme start="20250409140000 +0000" stop="20250409143000 +0000" channel="PBC">
         <title>The Next Generation</title>
     </programme>
-    <programme start="20250409160000 +0000" stop="20250409163000 +0000" channel="PBC">
+    <programme start="20250409143000 +0000" stop="20250409150000 +0000" channel="PBC">
+        <title>The Next Generation</title>
+    </programme>
+    <programme start="20250409150000 +0000" stop="20250409153000 +0000" channel="PBC">
         <title>Cover to Cover</title>
     </programme>
-    <programme start="20250409163000 +0000" stop="20250409170000 +0000" channel="PBC">
-        <title>Kav-e-Sikhi</title>
+    <programme start="20250409153000 +0000" stop="20250409160000 +0000" channel="PBC">
+        <title>Jithe Baba Pair Dhare</title>
     </programme>
-    <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="PBC">
+    <programme start="20250409160000 +0000" stop="20250409163000 +0000" channel="PBC">
         <title>Sikh Soorveerta</title>
     </programme>
-    <programme start="20250409173000 +0000" stop="20250409180000 +0000" channel="PBC">
+    <programme start="20250409163000 +0000" stop="20250409170000 +0000" channel="PBC">
         <title>Rehraas Sahib</title>
     </programme>
-    <programme start="20250409180000 +0000" stop="20250409190000 +0000" channel="PBC">
+    <programme start="20250409170000 +0000" stop="20250409180000 +0000" channel="PBC">
         <title>PBC Special Show</title>
     </programme>
-    <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="PBC">
+    <programme start="20250409180000 +0000" stop="20250409190000 +0000" channel="PBC">
         <title>Vicharan Di Saanjh</title>
     </programme>
-    <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="PBC">
+    <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="PBC">
         <title>PBC Live</title>
     </programme>
-    <programme start="20250409210000 +0000" stop="20250409213000 +0000" channel="PBC">
+    <programme start="20250409200000 +0000" stop="20250409203000 +0000" channel="PBC">
         <title>PBC Special Show</title>
     </programme>
-    <programme start="20250409213000 +0000" stop="20250409220000 +0000" channel="PBC">
-        <title>PBC Special Show</title>
+    <programme start="20250409203000 +0000" stop="20250409210000 +0000" channel="PBC">
+        <title>Shri Sehaj Path</title>
+    </programme>
+    <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="PBC">
+        <title>Guru Granth Sahib Academy</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
