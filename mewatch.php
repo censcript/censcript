@@ -1071,4 +1071,16 @@
     <programme start="20250409160000 +0000" stop="20250410025500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 10th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
     </programme>
+    <programme start="20250408160000 +0000" stop="20250409042500 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th April, Wednesday 12.25pm. Bank of Ningbo Badminton Asia Championships 2025</title>
+    </programme>
+    <programme start="20250409042500 +0000" stop="20250409123000 +0000" channel="Live 7.mewatch">
+        <title>Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
+    </programme>
+    <programme start="20250409123000 +0000" stop="20250409160000 +0000" channel="Live 7.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250409160000 +0000" stop="20250410160000 +0000" channel="Live 7.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
 </tv>

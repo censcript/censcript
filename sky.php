@@ -229,7 +229,7 @@
         <title>ITV News London</title>
     </programme>
     <programme start="20250409214500 +0000" stop="20250409224000 +0000" channel="ITV1 HD">
-        <title>Peston</title>
+        <title>New: Peston</title>
     </programme>
     <programme start="20250409224000 +0000" stop="20250409234000 +0000" channel="ITV1 HD">
         <title>Olivia Attwood's Bad Boyfriends</title>
@@ -7237,7 +7237,7 @@
         <title>ITV News London</title>
     </programme>
     <programme start="20250409224500 +0000" stop="20250409234500 +0000" channel="ITV1+1">
-        <title>Peston</title>
+        <title>New: Peston</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="Channel 4+1">
         <title>New: George Clarke's Amazing...</title>
