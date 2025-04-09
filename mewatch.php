@@ -135,29 +135,26 @@
     <programme start="20250409103000 +0000" stop="20250409110028 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 129</title>
     </programme>
-    <programme start="20250409110028 +0000" stop="20250409113002 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409110028 +0000" stop="20250409113006 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7958</title>
     </programme>
-    <programme start="20250409113002 +0000" stop="20250409123001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409113006 +0000" stop="20250409123008 +0000" channel="Channel 5.mewatch">
         <title>The Cube USA S2 - EP 10</title>
     </programme>
-    <programme start="20250409123001 +0000" stop="20250409130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409123008 +0000" stop="20250409130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 51</title>
     </programme>
     <programme start="20250409130000 +0000" stop="20250409133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250409133000 +0000" stop="20250409143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409133000 +0000" stop="20250409143037 +0000" channel="Channel 5.mewatch">
         <title>Deal or No Deal Island USA S1 - EP 8</title>
     </programme>
-    <programme start="20250409143000 +0000" stop="20250409153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409143037 +0000" stop="20250409153000 +0000" channel="Channel 5.mewatch">
         <title>The Business Of Pawrenting - EP 1</title>
     </programme>
-    <programme start="20250409153000 +0000" stop="20250409160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409153000 +0000" stop="20250409160017 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead - EP 8</title>
-    </programme>
-    <programme start="20250409160000 +0000" stop="20250409163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 51</title>
     </programme>
     <programme start="20250408151447 +0000" stop="20250408161408 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 37</title>
@@ -462,7 +459,7 @@
     <programme start="20250409153000 +0000" stop="20250409160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250409160000 +0000" stop="20250409220000 +0000" channel="Suria.mewatch">
+    <programme start="20250409160000 +0000" stop="20250410010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250408153000 +0000" stop="20250409010000 +0000" channel="Vasantham.mewatch">
