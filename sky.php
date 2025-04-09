@@ -6336,10 +6336,10 @@
     <programme start="20250409165500 +0000" stop="20250409170000 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
     </programme>
-    <programme start="20250409170000 +0000" stop="20250409174000 +0000" channel="That's TV">
+    <programme start="20250409170000 +0000" stop="20250409173500 +0000" channel="That's TV">
         <title>Steptoe and Son</title>
     </programme>
-    <programme start="20250409174000 +0000" stop="20250409181500 +0000" channel="That's TV">
+    <programme start="20250409173500 +0000" stop="20250409181500 +0000" channel="That's TV">
         <title>Bread</title>
     </programme>
     <programme start="20250409181500 +0000" stop="20250409185000 +0000" channel="That's TV">
@@ -13099,7 +13099,7 @@
         <title>EFL 24/25: Huddersfield v Wycombe</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409183000 +0000" channel="SkySp F'ball HD">
-        <title>EFL Trophy: Birmingham v Bradford</title>
+        <title>EFL League One Highlights</title>
     </programme>
     <programme start="20250409183000 +0000" stop="20250409213000 +0000" channel="SkySp F'ball HD">
         <title>Live EFL: Coventry v Portsmouth</title>
