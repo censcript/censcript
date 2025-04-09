@@ -28785,14 +28785,8 @@
     <programme start="20250410223000 +0000" stop="20250410233000 +0000" channel="Sikh Channel">
         <title>Derby Q &amp; A</title>
     </programme>
-    <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="Sangat">
-        <title>Hukamnama Katha</title>
-    </programme>
-    <programme start="20250409220000 +0000" stop="20250409223000 +0000" channel="Sangat">
-        <title>Sehaj Paath</title>
-    </programme>
-    <programme start="20250409223000 +0000" stop="20250409230000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+    <programme start="20250409213000 +0000" stop="20250409230000 +0000" channel="Sangat">
+        <title>Gurmat Samagam</title>
     </programme>
     <programme start="20250409230000 +0000" stop="20250409233000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -28822,7 +28816,7 @@
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
     </programme>
     <programme start="20250410083000 +0000" stop="20250410090000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Walk for Change</title>
     </programme>
     <programme start="20250410090000 +0000" stop="20250410093000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
