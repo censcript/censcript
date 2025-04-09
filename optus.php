@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Title Run In - True Turning Points</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250426160500 +0000" stop="20250426192500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Aston Villa</title>
+    </programme>
+    <programme start="20250427120000 +0000" stop="20250427152000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Bournemouth v Manchester United</title>
     </programme>
 </tv>

@@ -3949,10 +3949,10 @@
         <title>Last of the Summer Wine</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="U&amp;Drama">
-        <title>Annika</title>
+        <title>New: Annika</title>
     </programme>
     <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="U&amp;Drama">
-        <title>Annika</title>
+        <title>New: Annika</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409222000 +0000" channel="U&amp;Drama">
         <title>New Tricks</title>
@@ -9478,10 +9478,10 @@
         <title>Last of the Summer Wine</title>
     </programme>
     <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="U&amp;Drama+1">
-        <title>Annika</title>
+        <title>New: Annika</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="U&amp;Drama+1">
-        <title>Annika</title>
+        <title>New: Annika</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="U&amp;Drama+1">
         <title>New Tricks</title>
@@ -17956,7 +17956,7 @@
         <title>Gospel Glimpses</title>
     </programme>
     <programme start="20250409071500 +0000" stop="20250409081500 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
+        <title>Life Is Worth Living</title>
     </programme>
     <programme start="20250409081500 +0000" stop="20250409083000 +0000" channel="EWTN Catholic">
         <title>The Angelus from the Grotto of...</title>
@@ -23530,10 +23530,10 @@
         <title>Champagne Diamonds Birthday Deals with Steve</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="TJC HD">
-        <title>Under £20 Birthday Deals with Adi &amp; Marina</title>
+        <title>Under £20 Birthday Deals with Mark</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="TJC HD">
-        <title>Under £20 Birthday Deals with Adi &amp; Marina</title>
+        <title>Under £20 Birthday Deals with Mark</title>
     </programme>
     <programme start="20250408210000 +0000" stop="20250408220000 +0000" channel="QVC Beauty">
         <title>Bellamianta Luxury Tanning</title>
@@ -28908,20 +28908,14 @@
     <programme start="20250409163000 +0000" stop="20250409170000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
-    <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="Akaal Channel">
-        <title>Media Watch</title>
-    </programme>
-    <programme start="20250409173000 +0000" stop="20250409181000 +0000" channel="Akaal Channel">
+    <programme start="20250409170000 +0000" stop="20250409181000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
     <programme start="20250409181000 +0000" stop="20250409191000 +0000" channel="Akaal Channel">
         <title>Live: Sikligar Sikhs Anand Karaj</title>
     </programme>
-    <programme start="20250409191000 +0000" stop="20250409192000 +0000" channel="Akaal Channel">
+    <programme start="20250409191000 +0000" stop="20250409192500 +0000" channel="Akaal Channel">
         <title>Teleshopping: Pakistan Yatra</title>
-    </programme>
-    <programme start="20250409192000 +0000" stop="20250409192500 +0000" channel="Akaal Channel">
-        <title>Live: Jee Aayan Nu</title>
     </programme>
     <programme start="20250409192500 +0000" stop="20250409200000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>
