@@ -10821,11 +10821,11 @@
     <programme start="20250409052000 +0000" stop="20250409071000 +0000" channel="SkyPremiereHD">
         <title>My Penguin Friend</title>
     </programme>
-    <programme start="20250409071000 +0000" stop="20250409085500 +0000" channel="SkyPremiereHD">
+    <programme start="20250409071000 +0000" stop="20250409085501 +0000" channel="SkyPremiereHD">
         <title>Despicable Me 4</title>
     </programme>
-    <programme start="20250409085500 +0000" stop="20250409103500 +0000" channel="SkyPremiereHD">
-        <title>Sneaks</title>
+    <programme start="20250409085501 +0000" stop="20250409103500 +0000" channel="SkyPremiereHD">
+        <title>Fox and Hare Save the Forest</title>
     </programme>
     <programme start="20250409103500 +0000" stop="20250409123000 +0000" channel="SkyPremiereHD">
         <title>I'll Be Right There</title>
@@ -14059,10 +14059,10 @@
         <title>Retro Shirts With Jonny Evans</title>
     </programme>
     <programme start="20250409091500 +0000" stop="20250409093000 +0000" channel="MUTV HD">
-        <title>What Moves Me</title>
+        <title>Live: United In Training</title>
     </programme>
     <programme start="20250409093000 +0000" stop="20250409094500 +0000" channel="MUTV HD">
-        <title>Live: United In Training</title>
+        <title>What Moves Me</title>
     </programme>
     <programme start="20250409094500 +0000" stop="20250409100000 +0000" channel="MUTV HD">
         <title>Masterclass: Diogo x Hargreaves</title>
