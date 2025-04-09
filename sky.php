@@ -322,7 +322,7 @@
         <title>A Place in the Sun: What...</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409190000 +0000" channel="Channel 4 HD">
-        <title>Channel 4 News</title>
+        <title>Trump's Trade War: Channel 4...</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="Channel 4 HD">
         <title>New: Worst House on the Street</title>
@@ -7288,7 +7288,7 @@
         <title>A Place in the Sun: What...</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="Channel 4+1">
-        <title>Channel 4 News</title>
+        <title>Trump's Trade War: Channel 4...</title>
     </programme>
     <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="Channel 4+1">
         <title>New: Worst House on the Street</title>
@@ -26869,7 +26869,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250409180500 +0000" stop="20250409190000 +0000" channel="GEO News">
-        <title>Jurm o Saza</title>
+        <title>Naya Pakistan</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409190500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -26892,7 +26892,10 @@
     <programme start="20250409220000 +0000" stop="20250409220500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250409220500 +0000" stop="20250409230500 +0000" channel="GEO News">
+    <programme start="20250409220500 +0000" stop="20250409223000 +0000" channel="GEO News">
+        <title>Naya Pakistan</title>
+    </programme>
+    <programme start="20250409223000 +0000" stop="20250409233000 +0000" channel="GEO News">
         <title>Jurm o Saza</title>
     </programme>
     <programme start="20250408210500 +0000" stop="20250408220000 +0000" channel="New Vision TV">
@@ -29665,22 +29668,22 @@
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250409083000 +0000" stop="20250409100000 +0000" channel="NTV">
-        <title>Aj kicho hobe</title>
+        <title>Mon Re</title>
     </programme>
     <programme start="20250409100000 +0000" stop="20250409110000 +0000" channel="NTV">
-        <title>Anjuman</title>
+        <title>Bidhata</title>
     </programme>
     <programme start="20250409110000 +0000" stop="20250409113000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250409113000 +0000" stop="20250409120900 +0000" channel="NTV">
-        <title>Anjuman</title>
+    <programme start="20250409113000 +0000" stop="20250409120700 +0000" channel="NTV">
+        <title>Bidhata</title>
     </programme>
-    <programme start="20250409120900 +0000" stop="20250409121400 +0000" channel="NTV">
+    <programme start="20250409120700 +0000" stop="20250409121200 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250409121400 +0000" stop="20250409130000 +0000" channel="NTV">
-        <title>Anjuman</title>
+    <programme start="20250409121200 +0000" stop="20250409130000 +0000" channel="NTV">
+        <title>Bidhata</title>
     </programme>
     <programme start="20250409130000 +0000" stop="20250409133000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -29689,45 +29692,45 @@
         <title>Desher Khobor</title>
     </programme>
     <programme start="20250409140000 +0000" stop="20250409153000 +0000" channel="NTV">
-        <title>Beche Thakuk Bhalobasha</title>
+        <title>Akash Jora megh</title>
     </programme>
     <programme start="20250409153000 +0000" stop="20250409160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
     <programme start="20250409160000 +0000" stop="20250409163000 +0000" channel="NTV">
-        <title>Ganer Bazar</title>
+        <title>Onnorokom Golpo</title>
     </programme>
-    <programme start="20250409163000 +0000" stop="20250409163300 +0000" channel="NTV">
-        <title>Glamour World</title>
+    <programme start="20250409163000 +0000" stop="20250409164100 +0000" channel="NTV">
+        <title>Food Caravan</title>
     </programme>
-    <programme start="20250409163300 +0000" stop="20250409163800 +0000" channel="NTV">
+    <programme start="20250409164100 +0000" stop="20250409164600 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250409163800 +0000" stop="20250409170000 +0000" channel="NTV">
-        <title>Glamour World</title>
+    <programme start="20250409164600 +0000" stop="20250409170000 +0000" channel="NTV">
+        <title>Food Caravan</title>
     </programme>
     <programme start="20250409170000 +0000" stop="20250409180000 +0000" channel="NTV">
-        <title>Apon Je Jon</title>
+        <title>Probasider Keton</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409181500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
-    <programme start="20250409181500 +0000" stop="20250409183900 +0000" channel="NTV">
+    <programme start="20250409181500 +0000" stop="20250409185100 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
-    <programme start="20250409183900 +0000" stop="20250409184400 +0000" channel="NTV">
+    <programme start="20250409185100 +0000" stop="20250409185600 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250409184400 +0000" stop="20250409190000 +0000" channel="NTV">
+    <programme start="20250409185600 +0000" stop="20250409190000 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
-    <programme start="20250409190000 +0000" stop="20250409195600 +0000" channel="NTV">
+    <programme start="20250409190000 +0000" stop="20250409200600 +0000" channel="NTV">
         <title>Law and Justice</title>
     </programme>
-    <programme start="20250409195600 +0000" stop="20250409200000 +0000" channel="NTV">
+    <programme start="20250409200600 +0000" stop="20250409201100 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250409200000 +0000" stop="20250409203000 +0000" channel="NTV">
+    <programme start="20250409201100 +0000" stop="20250409203000 +0000" channel="NTV">
         <title>Law and Justice</title>
     </programme>
     <programme start="20250409203000 +0000" stop="20250409210000 +0000" channel="NTV">
@@ -29737,10 +29740,10 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250409213000 +0000" stop="20250409220000 +0000" channel="NTV">
-        <title>Lal Sabujer Dola</title>
+        <title>Faul</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250409230000 +0000" channel="NTV">
-        <title>Khuchra Papi</title>
+        <title>Aey Shomoy</title>
     </programme>
     <programme start="20250408215500 +0000" stop="20250408223000 +0000" channel="TV One">
         <title>Asmaul Husna</title>
