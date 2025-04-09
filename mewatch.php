@@ -147,10 +147,10 @@
     <programme start="20250409130000 +0000" stop="20250409133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250409133000 +0000" stop="20250409143102 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409133000 +0000" stop="20250409143042 +0000" channel="Channel 5.mewatch">
         <title>Deal or No Deal Island USA S1 - EP 8</title>
     </programme>
-    <programme start="20250409143102 +0000" stop="20250409153020 +0000" channel="Channel 5.mewatch">
+    <programme start="20250409143042 +0000" stop="20250409153020 +0000" channel="Channel 5.mewatch">
         <title>The Business Of Pawrenting - EP 1</title>
     </programme>
     <programme start="20250409153020 +0000" stop="20250409160012 +0000" channel="Channel 5.mewatch">
