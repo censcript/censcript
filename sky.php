@@ -27468,13 +27468,16 @@
     <programme start="20250409221100 +0000" stop="20250409230000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250409230000 +0000" stop="20250409235000 +0000" channel="IQRA TV">
+    <programme start="20250409230000 +0000" stop="20250409230500 +0000" channel="IQRA TV">
+        <title>Iqra News</title>
+    </programme>
+    <programme start="20250409230500 +0000" stop="20250410000000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250409235000 +0000" stop="20250410001500 +0000" channel="IQRA TV">
+    <programme start="20250410000000 +0000" stop="20250410002000 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250410001500 +0000" stop="20250410031000 +0000" channel="IQRA TV">
+    <programme start="20250410002000 +0000" stop="20250410031000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250410031000 +0000" stop="20250410031200 +0000" channel="IQRA TV">
@@ -29562,8 +29565,11 @@
     <programme start="20250410093000 +0000" stop="20250410100000 +0000" channel="ATN">
         <title>Chobir Gaan</title>
     </programme>
-    <programme start="20250410100000 +0000" stop="20250410110000 +0000" channel="ATN">
+    <programme start="20250410100000 +0000" stop="20250410105500 +0000" channel="ATN">
         <title>Bhabchi Boshe Tomai</title>
+    </programme>
+    <programme start="20250410105500 +0000" stop="20250410110000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250410110000 +0000" stop="20250410120700 +0000" channel="ATN">
         <title>Phul R Kata</title>

@@ -994,10 +994,10 @@
         <title>No Programme available now. Next Broadcast on 15th April, Tuesday 11.50pm. AFC Champions League Two 2024/25: Sharjah FC vs Al Taawoun FC</title>
     </programme>
     <programme start="20250409160000 +0000" stop="20250410025500 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 10th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
+        <title>No Programme available now. Next Broadcast on 10th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2025: Round of 16</title>
     </programme>
     <programme start="20250410025500 +0000" stop="20250410110000 +0000" channel="Live 6.mewatch">
-        <title>Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
+        <title>Bank of Ningbo Badminton Asia Championships 2025: Round of 16</title>
     </programme>
     <programme start="20250410110000 +0000" stop="20250410160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Friday 9.55am. Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
