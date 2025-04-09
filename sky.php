@@ -24315,7 +24315,10 @@
     <programme start="20250409180000 +0000" stop="20250409190000 +0000" channel="QVC Extra">
         <title>Helene Berman London</title>
     </programme>
-    <programme start="20250409190000 +0000" stop="20250409210000 +0000" channel="QVC Extra">
+    <programme start="20250409190000 +0000" stop="20250409200000 +0000" channel="QVC Extra">
+        <title>Your Spring Garden</title>
+    </programme>
+    <programme start="20250409200000 +0000" stop="20250409210000 +0000" channel="QVC Extra">
         <title>Your Spring Garden</title>
     </programme>
     <programme start="20250409210000 +0000" stop="20250409220000 +0000" channel="QVC Extra">
@@ -26868,8 +26871,11 @@
     <programme start="20250409180000 +0000" stop="20250409180500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250409180500 +0000" stop="20250409190000 +0000" channel="GEO News">
+    <programme start="20250409180500 +0000" stop="20250409183000 +0000" channel="GEO News">
         <title>Naya Pakistan</title>
+    </programme>
+    <programme start="20250409183000 +0000" stop="20250409190000 +0000" channel="GEO News">
+        <title>Jurm o Saza</title>
     </programme>
     <programme start="20250409190000 +0000" stop="20250409190500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -28723,7 +28729,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250409173000 +0000" stop="20250409180000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250409180000 +0000" stop="20250409183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
