@@ -255,37 +255,34 @@
     <programme start="20250410092811 +0000" stop="20250410103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 631</title>
     </programme>
-    <programme start="20250410103000 +0000" stop="20250410113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410103000 +0000" stop="20250410112959 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 8</title>
     </programme>
-    <programme start="20250410113000 +0000" stop="20250410120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410112959 +0000" stop="20250410115948 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 9</title>
     </programme>
-    <programme start="20250410120000 +0000" stop="20250410130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410115948 +0000" stop="20250410130000 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 4</title>
     </programme>
     <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 17</title>
     </programme>
-    <programme start="20250410140000 +0000" stop="20250410143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410140000 +0000" stop="20250410143104 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250410143000 +0000" stop="20250410150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410143104 +0000" stop="20250410150157 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 2</title>
     </programme>
-    <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410150157 +0000" stop="20250410160108 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 1</title>
-    </programme>
-    <programme start="20250410160000 +0000" stop="20250410170000 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 28</title>
     </programme>
     <programme start="20250409153025 +0000" stop="20250409163043 +0000" channel="Channel U.mewatch">
         <title>Catching a Scammer - EP 2</title>
     </programme>
-    <programme start="20250409163043 +0000" stop="20250409172609 +0000" channel="Channel U.mewatch">
+    <programme start="20250409163130 +0000" stop="20250409172657 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 19</title>
     </programme>
-    <programme start="20250409172609 +0000" stop="20250409220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250409172657 +0000" stop="20250409220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 20</title>
     </programme>
     <programme start="20250409220000 +0000" stop="20250410025814 +0000" channel="Channel U.mewatch">
