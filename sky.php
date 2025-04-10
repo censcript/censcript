@@ -25230,6 +25230,9 @@
     <programme start="20250410213000 +0000" stop="20250410223000 +0000" channel="Utsav Bharat">
         <title>The Great Indian Laughter Challenge</title>
     </programme>
+    <programme start="20250410223000 +0000" stop="20250410233000 +0000" channel="Utsav Bharat">
+        <title>Savdhaan India - Apni Khaki</title>
+    </programme>
     <programme start="20250409213000 +0000" stop="20250409220000 +0000" channel="Utsav Plus HD">
         <title>Pocket Mein Aasmaan</title>
     </programme>
