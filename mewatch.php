@@ -150,10 +150,10 @@
     <programme start="20250410130000 +0000" stop="20250410133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250410133000 +0000" stop="20250410140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250410133000 +0000" stop="20250410135958 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 9</title>
     </programme>
-    <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250410135958 +0000" stop="20250410150000 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 3</title>
     </programme>
     <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="Channel 5.mewatch">
