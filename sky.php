@@ -29881,10 +29881,10 @@
         <title>Live Charity Appeal with MATW</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="iON TV">
-        <title>Cine Hour</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250410220000 +0000" stop="20250410230000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Cine Hour</title>
     </programme>
     <programme start="20250410230000 +0000" stop="20250411000000 +0000" channel="iON TV">
         <title>Nasheed</title>
@@ -30076,25 +30076,25 @@
         <title>Munajat-e-Maqbool</title>
     </programme>
     <programme start="20250411160000 +0000" stop="20250411164500 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
+        <title>International Qirat Conference</title>
     </programme>
     <programme start="20250411164500 +0000" stop="20250411165000 +0000" channel="Deen TV">
         <title>Azan-E-Asr</title>
     </programme>
     <programme start="20250411165000 +0000" stop="20250411185400 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
+        <title>International Qirat Conference</title>
     </programme>
-    <programme start="20250411185400 +0000" stop="20250411190500 +0000" channel="Deen TV">
+    <programme start="20250411185400 +0000" stop="20250411190000 +0000" channel="Deen TV">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250411190500 +0000" stop="20250411201000 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250411190000 +0000" stop="20250411201000 +0000" channel="Deen TV">
+        <title>International Qirat Conference</title>
     </programme>
     <programme start="20250411201000 +0000" stop="20250411201500 +0000" channel="Deen TV">
         <title>Azan-E-Isha</title>
     </programme>
     <programme start="20250411201500 +0000" stop="20250411210000 +0000" channel="Deen TV">
-        <title>Live Charity Appeal</title>
+        <title>International Qirat Conference</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411213000 +0000" channel="Deen TV">
         <title>Ruhul Quran</title>
