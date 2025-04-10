@@ -27118,7 +27118,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250410210500 +0000" stop="20250410220000 +0000" channel="New Vision TV">
-        <title>Hoshiyarian</title>
+        <title>Off The Record</title>
     </programme>
     <programme start="20250410220000 +0000" stop="20250410220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
