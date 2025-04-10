@@ -25762,27 +25762,21 @@
         <title>Sooryavanshi</title>
     </programme>
     <programme start="20250410213000 +0000" stop="20250410220000 +0000" channel="MATV National">
-        <title>Golden Oldies</title>
-    </programme>
-    <programme start="20250410220000 +0000" stop="20250410223000 +0000" channel="MATV National">
-        <title>Kashmir</title>
-    </programme>
-    <programme start="20250410223000 +0000" stop="20250410230000 +0000" channel="MATV National">
         <title>Sarhad Ke Do Rukh</title>
     </programme>
-    <programme start="20250410230000 +0000" stop="20250410233000 +0000" channel="MATV National">
+    <programme start="20250410220000 +0000" stop="20250410223000 +0000" channel="MATV National">
         <title>News Night</title>
     </programme>
-    <programme start="20250410233000 +0000" stop="20250411023000 +0000" channel="MATV National">
+    <programme start="20250410223000 +0000" stop="20250411013000 +0000" channel="MATV National">
         <title>Bollywood Movie</title>
     </programme>
-    <programme start="20250411023000 +0000" stop="20250411050000 +0000" channel="MATV National">
+    <programme start="20250411013000 +0000" stop="20250411040000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
     </programme>
-    <programme start="20250411050000 +0000" stop="20250411053000 +0000" channel="MATV National">
+    <programme start="20250411040000 +0000" stop="20250411043000 +0000" channel="MATV National">
         <title>Suprabhat</title>
     </programme>
-    <programme start="20250411053000 +0000" stop="20250411060000 +0000" channel="MATV National">
+    <programme start="20250411043000 +0000" stop="20250411060000 +0000" channel="MATV National">
         <title>Vishnu Shastranam</title>
     </programme>
     <programme start="20250411060000 +0000" stop="20250411070000 +0000" channel="MATV National">
@@ -28500,7 +28494,7 @@
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250410210000 +0000" stop="20250410223000 +0000" channel="ARY Digital">
+    <programme start="20250410210800 +0000" stop="20250410223000 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
     <programme start="20250410223000 +0000" stop="20250410230000 +0000" channel="ARY Digital">
@@ -28950,86 +28944,29 @@
     <programme start="20250410230500 +0000" stop="20250411000000 +0000" channel="Akaal Channel">
         <title>Gurmat Smagam</title>
     </programme>
-    <programme start="20250411000000 +0000" stop="20250411020000 +0000" channel="Akaal Channel">
-        <title>Gurmat Samagam</title>
-    </programme>
-    <programme start="20250411020000 +0000" stop="20250411023000 +0000" channel="Akaal Channel">
+    <programme start="20250411000000 +0000" stop="20250411003000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
-    <programme start="20250411023000 +0000" stop="20250411043000 +0000" channel="Akaal Channel">
-        <title>Asa Di War</title>
-    </programme>
-    <programme start="20250411043000 +0000" stop="20250411060000 +0000" channel="Akaal Channel">
-        <title>Nitnem with Subtitles</title>
-    </programme>
-    <programme start="20250411060000 +0000" stop="20250411070000 +0000" channel="Akaal Channel">
+    <programme start="20250411003000 +0000" stop="20250411013000 +0000" channel="Akaal Channel">
         <title>Gurmat Smagam</title>
     </programme>
-    <programme start="20250411070000 +0000" stop="20250411070500 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
+    <programme start="20250411013000 +0000" stop="20250411033000 +0000" channel="Akaal Channel">
+        <title>Asa Di War</title>
     </programme>
-    <programme start="20250411070500 +0000" stop="20250411080000 +0000" channel="Akaal Channel">
-        <title>Katha Veechar</title>
+    <programme start="20250411033000 +0000" stop="20250411045900 +0000" channel="Akaal Channel">
+        <title>Nitnem with Subtitles</title>
     </programme>
-    <programme start="20250411080000 +0000" stop="20250411090000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+    <programme start="20250411045900 +0000" stop="20250411060000 +0000" channel="Akaal Channel">
+        <title>Live: Akhand Path on Vaisakhi</title>
     </programme>
-    <programme start="20250411090000 +0000" stop="20250411093000 +0000" channel="Akaal Channel">
-        <title>Larivaar Gurbani Santhiya</title>
+    <programme start="20250411060000 +0000" stop="20250411120000 +0000" channel="Akaal Channel">
+        <title>Live: Akhand Path on Vaisakhi</title>
     </programme>
-    <programme start="20250411093000 +0000" stop="20250411095500 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250411095500 +0000" stop="20250411105500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Panj Takht Yatra</title>
-    </programme>
-    <programme start="20250411105500 +0000" stop="20250411110000 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
-    </programme>
-    <programme start="20250411110000 +0000" stop="20250411123000 +0000" channel="Akaal Channel">
-        <title>Live: Sukhmani Sahib</title>
-    </programme>
-    <programme start="20250411123000 +0000" stop="20250411133000 +0000" channel="Akaal Channel">
-        <title>Live: News Point</title>
-    </programme>
-    <programme start="20250411133000 +0000" stop="20250411140000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
-    </programme>
-    <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
-    </programme>
-    <programme start="20250411150000 +0000" stop="20250411160000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
-    </programme>
-    <programme start="20250411160000 +0000" stop="20250411163000 +0000" channel="Akaal Channel">
-        <title>Weekly Langar Sewa MP</title>
-    </programme>
-    <programme start="20250411163000 +0000" stop="20250411170000 +0000" channel="Akaal Channel">
-        <title>Rehraas Sahib with Subtitles</title>
-    </programme>
-    <programme start="20250411170000 +0000" stop="20250411173000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
-    </programme>
-    <programme start="20250411173000 +0000" stop="20250411180000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+    <programme start="20250411120000 +0000" stop="20250411180000 +0000" channel="Akaal Channel">
+        <title>Live: Akhand Path on Vaisakhi</title>
     </programme>
     <programme start="20250411180000 +0000" stop="20250411190000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
-    </programme>
-    <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="Akaal Channel">
-        <title>News Point</title>
-    </programme>
-    <programme start="20250411200000 +0000" stop="20250411203000 +0000" channel="Akaal Channel">
-        <title>Akaal News</title>
-    </programme>
-    <programme start="20250411203000 +0000" stop="20250411213000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
-    </programme>
-    <programme start="20250411213000 +0000" stop="20250411220000 +0000" channel="Akaal Channel">
-        <title>Chalant Masle</title>
-    </programme>
-    <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
+        <title>Live: Akhand Path on Vaisakhi</title>
     </programme>
     <programme start="20250410203000 +0000" stop="20250410230000 +0000" channel="Kanshi TV">
         <title>Kanshi TV Movie Time</title>
