@@ -38398,13 +38398,13 @@
         <title>The Ryan Tubridy Show</title>
     </programme>
     <programme start="20250410120000 +0000" stop="20250410150000 +0000" channel="Virgin Radio">
-        <title>Jayne Middlemiss</title>
+        <title>James Merritt</title>
     </programme>
     <programme start="20250410150000 +0000" stop="20250410180000 +0000" channel="Virgin Radio">
         <title>Leigh Francis</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410210000 +0000" channel="Virgin Radio">
-        <title>James Merritt</title>
+        <title>Rich Williams</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="Virgin Radio">
         <title>Olivia Jones</title>
