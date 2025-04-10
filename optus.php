@@ -282,6 +282,9 @@
     <programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
+    <programme start="20250423170000 +0000" stop="20250423173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Mo Salah</title>
+    </programme>
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Nagoya</title>
-    </programme>
-    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Tokyo Verdy v Cerezo</title>
     </programme>
 </tv>

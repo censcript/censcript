@@ -258,13 +258,13 @@
     <programme start="20250410103000 +0000" stop="20250410112959 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 8</title>
     </programme>
-    <programme start="20250410112959 +0000" stop="20250410115948 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410112959 +0000" stop="20250410115953 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 9</title>
     </programme>
-    <programme start="20250410115948 +0000" stop="20250410130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410115953 +0000" stop="20250410130008 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 4</title>
     </programme>
-    <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250410130008 +0000" stop="20250410140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 17</title>
     </programme>
     <programme start="20250410140000 +0000" stop="20250410143104 +0000" channel="Channel 8.mewatch">
@@ -372,22 +372,22 @@
     <programme start="20250410095946 +0000" stop="20250410110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 18</title>
     </programme>
-    <programme start="20250410110000 +0000" stop="20250410120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410110000 +0000" stop="20250410115748 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 21</title>
     </programme>
-    <programme start="20250410120000 +0000" stop="20250410130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410115748 +0000" stop="20250410125950 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 22</title>
     </programme>
-    <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410125950 +0000" stop="20250410140021 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 10</title>
     </programme>
-    <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410140021 +0000" stop="20250410150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 20</title>
     </programme>
-    <programme start="20250410150000 +0000" stop="20250410153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410150000 +0000" stop="20250410153004 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250410153000 +0000" stop="20250410163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410153004 +0000" stop="20250410163041 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 10</title>
     </programme>
     <programme start="20250409153000 +0000" stop="20250410010000 +0000" channel="Suria.mewatch">
@@ -507,22 +507,22 @@
     <programme start="20250410123000 +0000" stop="20250410130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250410130000 +0000" stop="20250410133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410130000 +0000" stop="20250410133001 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 20</title>
     </programme>
-    <programme start="20250410133000 +0000" stop="20250410140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410133001 +0000" stop="20250410140001 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 6</title>
     </programme>
-    <programme start="20250410140000 +0000" stop="20250410143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410140001 +0000" stop="20250410143002 +0000" channel="Vasantham.mewatch">
         <title>Irul - EP 10</title>
     </programme>
-    <programme start="20250410143000 +0000" stop="20250410150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410143002 +0000" stop="20250410150002 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 54</title>
     </programme>
-    <programme start="20250410150000 +0000" stop="20250410153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410150002 +0000" stop="20250410153003 +0000" channel="Vasantham.mewatch">
         <title>Thuninthu Sel - EP 13</title>
     </programme>
-    <programme start="20250410153000 +0000" stop="20250410160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410153003 +0000" stop="20250410160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 2</title>
     </programme>
     <programme start="20250410160000 +0000" stop="20250411010000 +0000" channel="Vasantham.mewatch">
@@ -579,23 +579,20 @@
     <programme start="20250410100000 +0000" stop="20250410110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250410110000 +0000" stop="20250410120000 +0000" channel="CNA.mewatch">
+    <programme start="20250410110000 +0000" stop="20250410120001 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 1</title>
     </programme>
-    <programme start="20250410120000 +0000" stop="20250410130000 +0000" channel="CNA.mewatch">
+    <programme start="20250410120001 +0000" stop="20250410130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="CNA.mewatch">
+    <programme start="20250410130001 +0000" stop="20250410140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 1</title>
     </programme>
-    <programme start="20250410140000 +0000" stop="20250410150000 +0000" channel="CNA.mewatch">
+    <programme start="20250410140000 +0000" stop="20250410150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="CNA.mewatch">
+    <programme start="20250410150105 +0000" stop="20250410160001 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 1</title>
-    </programme>
-    <programme start="20250410160000 +0000" stop="20250410160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250409160000 +0000" stop="20250410160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Friday 7.15pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
