@@ -153,14 +153,11 @@
     <programme start="20250410133000 +0000" stop="20250410135958 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 9</title>
     </programme>
-    <programme start="20250410135958 +0000" stop="20250410150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250410135958 +0000" stop="20250410150035 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 3</title>
     </programme>
-    <programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250410150035 +0000" stop="20250410160021 +0000" channel="Channel 5.mewatch">
         <title>CSI: Vegas S3 - EP 7</title>
-    </programme>
-    <programme start="20250410160000 +0000" stop="20250410163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 52</title>
     </programme>
     <programme start="20250409150121 +0000" stop="20250409160029 +0000" channel="Channel 8.mewatch">
         <title>The Land of Warriors - EP 38</title>
