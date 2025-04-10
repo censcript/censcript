@@ -14989,7 +14989,7 @@
         <title>BBC News at Six</title>
     </programme>
     <programme start="20250410173000 +0000" stop="20250410180000 +0000" channel="BBC NEWS HD">
-        <title>Sportsday</title>
+        <title>Trump Tariffs Explained</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410183000 +0000" channel="BBC NEWS HD">
         <title>The World Today with Maryam Moshiri</title>
@@ -16168,7 +16168,7 @@
         <title>News Live</title>
     </programme>
     <programme start="20250410093000 +0000" stop="20250410100000 +0000" channel="Al Jazeera HD">
-        <title>The Bottom Line</title>
+        <title>101 East</title>
     </programme>
     <programme start="20250410100000 +0000" stop="20250410110000 +0000" channel="Al Jazeera HD">
         <title>Newshour</title>
@@ -23770,7 +23770,7 @@
         <title>Perfect Patio</title>
     </programme>
     <programme start="20250410170000 +0000" stop="20250410180000 +0000" channel="QVC Style HD">
-        <title>Spring Garden</title>
+        <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410190000 +0000" channel="QVC Style HD">
         <title>Accessories by Kipling</title>
@@ -27498,13 +27498,13 @@
     <programme start="20250410031900 +0000" stop="20250410060000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250410060000 +0000" stop="20250410065000 +0000" channel="IQRA TV">
+    <programme start="20250410060000 +0000" stop="20250410064800 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250410065000 +0000" stop="20250410070800 +0000" channel="IQRA TV">
+    <programme start="20250410064800 +0000" stop="20250410070500 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250410070800 +0000" stop="20250410080000 +0000" channel="IQRA TV">
+    <programme start="20250410070500 +0000" stop="20250410080000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250410080000 +0000" stop="20250410090000 +0000" channel="IQRA TV">
@@ -28870,7 +28870,7 @@
         <title>Tehal Sewa Smaagum</title>
     </programme>
     <programme start="20250410173000 +0000" stop="20250410180000 +0000" channel="Sangat">
-        <title>Gurdwara Darshan</title>
+        <title>Sangat Matrimonial</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410190000 +0000" channel="Sangat">
         <title>Legal Guidance</title>
