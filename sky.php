@@ -25789,7 +25789,7 @@
         <title>Bhajan Mala</title>
     </programme>
     <programme start="20250411083000 +0000" stop="20250411090000 +0000" channel="MATV National">
-        <title>Aaj Ka Samachar</title>
+        <title>Hanuman Chalisa Analysis</title>
     </programme>
     <programme start="20250411090000 +0000" stop="20250411100000 +0000" channel="MATV National">
         <title>Aaj Ka Samachar</title>
@@ -27958,52 +27958,52 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250411070000 +0000" stop="20250411080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250411080000 +0000" stop="20250411090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250411090000 +0000" stop="20250411100000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250411100000 +0000" stop="20250411110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
-    </programme>
-    <programme start="20250411120000 +0000" stop="20250411130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
+    <programme start="20250411120000 +0000" stop="20250411130000 +0000" channel="Takbeer TV">
+        <title>Takbeer Special</title>
+    </programme>
     <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250411150000 +0000" stop="20250411160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250411160000 +0000" stop="20250411170000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250411180000 +0000" stop="20250411190000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250411200000 +0000" stop="20250411210000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="HUM EUROPE">
         <title>Choti Si Zindagi</title>
