@@ -252,11 +252,35 @@
     <programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
+    <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250421183000 +0000" stop="20250421213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Tottenham Hotspur v Nottingham Forest</title>
     </programme>
+    <programme start="20250421213000 +0000" stop="20250421223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250421233000 +0000" stop="20250422003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250422010000 +0000" stop="20250422013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11: Muzzy Izzet</title>
+    </programme>
+    <programme start="20250422180000 +0000" stop="20250422183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Match Officials Mic&#039;d Up</title>
+    </programme>
     <programme start="20250422183000 +0000" stop="20250422213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Aston Villa</title>
+    </programme>
+    <programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
     </programme>
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
@@ -264,40 +288,16 @@
     <programme start="20250423183000 +0000" stop="20250423213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Arsenal v Crystal Palace</title>
     </programme>
+    <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Nagoya</title>
     </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Tokyo Verdy v Cerezo</title>
-    </programme>
-    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
-    </programme>
-    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Kashiwa v Albirex</title>
-    </programme>
-    <programme start="20250426103000 +0000" stop="20250426135000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Chelsea v Everton</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Wolverhampton Wanderers v Leicester City</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Southampton v Fulham</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Newcastle United v Ipswich</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Brighton v West Ham United</title>
-    </programme>
-    <programme start="20250426160500 +0000" stop="20250426192500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Crystal Palace v Aston Villa</title>
-    </programme>
-    <programme start="20250427120000 +0000" stop="20250427152000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v Manchester United</title>
-    </programme>
-    <programme start="20250427152000 +0000" stop="20250427183000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Liverpool v Tottenham Hotspur</title>
     </programme>
 </tv>
