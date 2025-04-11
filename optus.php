@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250411153000 +0000" stop="20250411160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
 </tv>
