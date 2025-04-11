@@ -7011,10 +7011,10 @@
     <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="That's TV 2">
         <title>That's 80s - The Best Music</title>
     </programme>
-    <programme start="20250411150000 +0000" stop="20250411164000 +0000" channel="That's TV 2">
+    <programme start="20250411150000 +0000" stop="20250411163500 +0000" channel="That's TV 2">
         <title>That's 80s - The Best Music</title>
     </programme>
-    <programme start="20250411164000 +0000" stop="20250411170500 +0000" channel="That's TV 2">
+    <programme start="20250411163500 +0000" stop="20250411170500 +0000" channel="That's TV 2">
         <title>Birds of a Feather</title>
     </programme>
     <programme start="20250411170500 +0000" stop="20250411174500 +0000" channel="That's TV 2">
@@ -7032,20 +7032,17 @@
     <programme start="20250411200000 +0000" stop="20250411203500 +0000" channel="That's TV 2">
         <title>Just Good Friends</title>
     </programme>
-    <programme start="20250411203500 +0000" stop="20250411211000 +0000" channel="That's TV 2">
+    <programme start="20250411203500 +0000" stop="20250411211500 +0000" channel="That's TV 2">
         <title>Bread</title>
     </programme>
-    <programme start="20250411211000 +0000" stop="20250411214500 +0000" channel="That's TV 2">
+    <programme start="20250411211500 +0000" stop="20250411215000 +0000" channel="That's TV 2">
         <title>Yes, Prime Minister</title>
     </programme>
-    <programme start="20250411214500 +0000" stop="20250411222000 +0000" channel="That's TV 2">
+    <programme start="20250411215000 +0000" stop="20250411223000 +0000" channel="That's TV 2">
         <title>It Ain't Half Hot Mum</title>
     </programme>
-    <programme start="20250411222000 +0000" stop="20250411225500 +0000" channel="That's TV 2">
+    <programme start="20250411223000 +0000" stop="20250411233000 +0000" channel="That's TV 2">
         <title>In Sickness and in Health</title>
-    </programme>
-    <programme start="20250411225500 +0000" stop="20250411235500 +0000" channel="That's TV 2">
-        <title>2point4 Children</title>
     </programme>
     <programme start="20250410213000 +0000" stop="20250410220000 +0000" channel="Rewind TV">
         <title>Drop The Dead Donkey</title>
@@ -28551,10 +28548,10 @@
     <programme start="20250411120700 +0000" stop="20250411121300 +0000" channel="ARY Digital">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250411121300 +0000" stop="20250411130000 +0000" channel="ARY Digital">
+    <programme start="20250411121300 +0000" stop="20250411130400 +0000" channel="ARY Digital">
         <title>Ae Dil</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="ARY Digital">
+    <programme start="20250411130400 +0000" stop="20250411140000 +0000" channel="ARY Digital">
         <title>Naqaab</title>
     </programme>
     <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="ARY Digital">
