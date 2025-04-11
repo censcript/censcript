@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250411093000 +0000" stop="20250411100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250411095500 +0000" stop="20250411121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - FC Tokyo v Kashiwa</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Tokyo Verdy v Cerezo</title>
+    </programme>
+    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
     </programme>
 </tv>

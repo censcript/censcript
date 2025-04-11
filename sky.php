@@ -37416,7 +37416,13 @@
     <programme start="20250411060000 +0000" stop="20250411090000 +0000" channel="BBC R6 Music">
         <title>Nick Grimshaw</title>
     </programme>
-    <programme start="20250411090000 +0000" stop="20250411120000 +0000" channel="BBC R6 Music">
+    <programme start="20250411090000 +0000" stop="20250411110500 +0000" channel="BBC R6 Music">
+        <title>Lauren Laverne</title>
+    </programme>
+    <programme start="20250411110500 +0000" stop="20250411113000 +0000" channel="BBC R6 Music">
+        <title>Lauren Laverne</title>
+    </programme>
+    <programme start="20250411113000 +0000" stop="20250411120000 +0000" channel="BBC R6 Music">
         <title>Lauren Laverne</title>
     </programme>
     <programme start="20250411120000 +0000" stop="20250411150000 +0000" channel="BBC R6 Music">
