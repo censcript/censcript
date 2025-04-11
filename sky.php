@@ -6436,7 +6436,7 @@
         <title>Shop: Atlas for Men</title>
     </programme>
     <programme start="20250411070000 +0000" stop="20250411080000 +0000" channel="That's TV">
-        <title>That's 60s - Best Music Live!</title>
+        <title>When the Boat Comes In</title>
     </programme>
     <programme start="20250411080000 +0000" stop="20250411083000 +0000" channel="That's TV">
         <title>Duty Free</title>
@@ -6456,22 +6456,25 @@
     <programme start="20250411111500 +0000" stop="20250411115000 +0000" channel="That's TV">
         <title>Likely Lads: Whatever Happened?</title>
     </programme>
-    <programme start="20250411115000 +0000" stop="20250411124500 +0000" channel="That's TV">
-        <title>Secret Scotland with Susan Calman</title>
+    <programme start="20250411115000 +0000" stop="20250411122500 +0000" channel="That's TV">
+        <title>On the Buses</title>
     </programme>
-    <programme start="20250411124500 +0000" stop="20250411135000 +0000" channel="That's TV">
+    <programme start="20250411122500 +0000" stop="20250411125500 +0000" channel="That's TV">
+        <title>The Rag Trade</title>
+    </programme>
+    <programme start="20250411125500 +0000" stop="20250411135500 +0000" channel="That's TV">
         <title>Gladiators of WWII</title>
     </programme>
-    <programme start="20250411135000 +0000" stop="20250411145000 +0000" channel="That's TV">
+    <programme start="20250411135500 +0000" stop="20250411145500 +0000" channel="That's TV">
         <title>Gladiators of WWII</title>
     </programme>
-    <programme start="20250411145000 +0000" stop="20250411155000 +0000" channel="That's TV">
+    <programme start="20250411145500 +0000" stop="20250411155500 +0000" channel="That's TV">
         <title>Gladiators of WWII</title>
     </programme>
-    <programme start="20250411155000 +0000" stop="20250411164500 +0000" channel="That's TV">
+    <programme start="20250411155500 +0000" stop="20250411165500 +0000" channel="That's TV">
         <title>Gladiators of WWII</title>
     </programme>
-    <programme start="20250411164500 +0000" stop="20250411170000 +0000" channel="That's TV">
+    <programme start="20250411165500 +0000" stop="20250411170000 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250411170000 +0000" stop="20250411174000 +0000" channel="That's TV">
@@ -7230,16 +7233,16 @@
     <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="That's TV 3">
         <title>That's Oldies: Classic Hit Music</title>
     </programme>
-    <programme start="20250411200000 +0000" stop="20250411203000 +0000" channel="That's TV 3">
+    <programme start="20250411200000 +0000" stop="20250411203500 +0000" channel="That's TV 3">
         <title>After You've Gone</title>
     </programme>
-    <programme start="20250411203000 +0000" stop="20250411210000 +0000" channel="That's TV 3">
+    <programme start="20250411203500 +0000" stop="20250411211000 +0000" channel="That's TV 3">
         <title>Waiting for God</title>
     </programme>
-    <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="That's TV 3">
+    <programme start="20250411211000 +0000" stop="20250411221500 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="That's TV 3">
+    <programme start="20250411221500 +0000" stop="20250411231500 +0000" channel="That's TV 3">
         <title>The Saint</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="ITV1+1">

@@ -237,32 +237,29 @@
     <programme start="20250411093128 +0000" stop="20250411103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 633</title>
     </programme>
-    <programme start="20250411103000 +0000" stop="20250411113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411103000 +0000" stop="20250411112950 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 9</title>
     </programme>
-    <programme start="20250411113000 +0000" stop="20250411120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411112950 +0000" stop="20250411115954 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 10</title>
     </programme>
-    <programme start="20250411120000 +0000" stop="20250411123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411115954 +0000" stop="20250411122905 +0000" channel="Channel 8.mewatch">
         <title>Every Body Knows - EP 14</title>
     </programme>
-    <programme start="20250411123000 +0000" stop="20250411130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411122905 +0000" stop="20250411130028 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 2</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411130028 +0000" stop="20250411140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 18</title>
     </programme>
-    <programme start="20250411140000 +0000" stop="20250411143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411140000 +0000" stop="20250411143124 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250411143000 +0000" stop="20250411150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411143124 +0000" stop="20250411150050 +0000" channel="Channel 8.mewatch">
         <title>A Thousand Years of Shaanxi Cuisine S2 - EP 5</title>
     </programme>
-    <programme start="20250411150000 +0000" stop="20250411160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250411150050 +0000" stop="20250411160024 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 2</title>
-    </programme>
-    <programme start="20250411160000 +0000" stop="20250411170000 +0000" channel="Channel 8.mewatch">
-        <title>Mysterious Lotus Casebook - EP 29</title>
     </programme>
     <programme start="20250410153004 +0000" stop="20250410163041 +0000" channel="Channel U.mewatch">
         <title>Panda&#039;s Family - EP 10</title>
@@ -360,22 +357,22 @@
     <programme start="20250411100001 +0000" stop="20250411110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 19</title>
     </programme>
-    <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411110000 +0000" stop="20250411115802 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 23</title>
     </programme>
-    <programme start="20250411120000 +0000" stop="20250411130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411115802 +0000" stop="20250411125943 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 24</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411125943 +0000" stop="20250411135919 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 6</title>
     </programme>
-    <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411135919 +0000" stop="20250411150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 21</title>
     </programme>
-    <programme start="20250411150000 +0000" stop="20250411153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411150000 +0000" stop="20250411152955 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250411153000 +0000" stop="20250411163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250411152955 +0000" stop="20250411163009 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 6</title>
     </programme>
     <programme start="20250410153000 +0000" stop="20250411010000 +0000" channel="Suria.mewatch">
@@ -552,22 +549,22 @@
     <programme start="20250411100001 +0000" stop="20250411110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="CNA.mewatch">
+    <programme start="20250411110000 +0000" stop="20250411115959 +0000" channel="CNA.mewatch">
         <title>Inside The Women&#039;s Prison - EP 2</title>
     </programme>
-    <programme start="20250411120000 +0000" stop="20250411130000 +0000" channel="CNA.mewatch">
+    <programme start="20250411115959 +0000" stop="20250411125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="CNA.mewatch">
+    <programme start="20250411125959 +0000" stop="20250411140000 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 2</title>
     </programme>
-    <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="CNA.mewatch">
+    <programme start="20250411140000 +0000" stop="20250411150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250411150000 +0000" stop="20250411160000 +0000" channel="CNA.mewatch">
+    <programme start="20250411150105 +0000" stop="20250411155959 +0000" channel="CNA.mewatch">
         <title>Insight - EP 1</title>
     </programme>
-    <programme start="20250411160000 +0000" stop="20250411160300 +0000" channel="CNA.mewatch">
+    <programme start="20250411155959 +0000" stop="20250411160324 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250410160000 +0000" stop="20250411113500 +0000" channel="spl01.mewatch">
