@@ -13269,8 +13269,11 @@
     <programme start="20250412210000 +0000" stop="20250412220000 +0000" channel="TNT Sports 1">
         <title>Live: Houston Dash v Angel City FC</title>
     </programme>
-    <programme start="20250411213000 +0000" stop="20250411223000 +0000" channel="TNT Sports 2">
+    <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="TNT Sports 2">
         <title>MLB Highlights</title>
+    </programme>
+    <programme start="20250411220000 +0000" stop="20250411223000 +0000" channel="TNT Sports 2">
+        <title>GP of Qatar: The Inside Line</title>
     </programme>
     <programme start="20250411223000 +0000" stop="20250411230000 +0000" channel="TNT Sports 2">
         <title>MLB: Off The Bat</title>
@@ -32613,8 +32616,11 @@
     <programme start="20250412210000 +0000" stop="20250412220000 +0000" channel="TNTSports1 HD">
         <title>Live: Houston Dash v Angel City FC</title>
     </programme>
-    <programme start="20250411213000 +0000" stop="20250411223000 +0000" channel="TNTSports2 HD">
+    <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="TNTSports2 HD">
         <title>MLB Highlights</title>
+    </programme>
+    <programme start="20250411220000 +0000" stop="20250411223000 +0000" channel="TNTSports2 HD">
+        <title>GP of Qatar: The Inside Line</title>
     </programme>
     <programme start="20250411223000 +0000" stop="20250411230000 +0000" channel="TNTSports2 HD">
         <title>MLB: Off The Bat</title>
