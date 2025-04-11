@@ -981,10 +981,10 @@
     <programme start="20250411060000 +0000" stop="20250411085500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Friday 4.55pm. Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
     </programme>
-    <programme start="20250411085500 +0000" stop="20250411143000 +0000" channel="Live 6.mewatch">
+    <programme start="20250411085500 +0000" stop="20250411150000 +0000" channel="Live 6.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
     </programme>
-    <programme start="20250411143000 +0000" stop="20250411160000 +0000" channel="Live 6.mewatch">
+    <programme start="20250411150000 +0000" stop="20250411160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 12th April, Saturday 9.55am. Bank of Ningbo Badminton Asia Championships 2025: Semi-Finals</title>
     </programme>
     <programme start="20250411160000 +0000" stop="20250412015500 +0000" channel="Live 6.mewatch">

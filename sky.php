@@ -23791,13 +23791,13 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250411200000 +0000" stop="20250411210000 +0000" channel="QVC Beauty">
         <title>Nails Inc</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="QVC Beauty">
-        <title>Buy Women Built Beauty</title>
+        <title>Bellamianta Luxury Tanning</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="QVC Beauty">
         <title>Alison Young on Beauty Trends</title>
@@ -23866,7 +23866,7 @@
         <title>My Garden Escape Big Deals</title>
     </programme>
     <programme start="20250411180000 +0000" stop="20250411190000 +0000" channel="QVC Style HD">
-        <title>Your Scandi-Style Edit</title>
+        <title>Your Scandi-Style Edit'</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="QVC Style HD">
         <title>Hush Puppies</title>
@@ -24499,7 +24499,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250411180000 +0000" stop="20250411190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -36931,7 +36931,7 @@
         <title>DJ Semtex</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Capital XTRA">
-        <title>Kennedy Taylor</title>
+        <title>Dynamic</title>
     </programme>
     <programme start="20250410213230 +0000" stop="20250410220000 +0000" channel="BBC World Sv">
         <title>The Food Chain</title>
@@ -38404,7 +38404,7 @@
         <title>The Ryan Tubridy Show</title>
     </programme>
     <programme start="20250411120000 +0000" stop="20250411150000 +0000" channel="Virgin Radio">
-        <title>Jayne Middlemiss</title>
+        <title>James Merritt</title>
     </programme>
     <programme start="20250411150000 +0000" stop="20250411180000 +0000" channel="Virgin Radio">
         <title>Leigh Francis</title>
