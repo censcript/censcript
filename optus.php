@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250412020000 +0000" stop="20250412043000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Portland Thorns FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - Kashiwa v Albirex</title>
     </programme>
 </tv>
