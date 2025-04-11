@@ -23767,7 +23767,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250411100000 +0000" stop="20250411110000 +0000" channel="QVC Beauty">
-        <title>Bellamianta Luxury Tanning</title>
+        <title>Nails Inc</title>
     </programme>
     <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23785,7 +23785,7 @@
         <title>skinSense by Abi Cleeve</title>
     </programme>
     <programme start="20250411160000 +0000" stop="20250411170000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250411170000 +0000" stop="20250411180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23803,7 +23803,7 @@
         <title>Buy Women Built Beauty</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Alison Young on Beauty Trends</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="QVC Style HD">
         <title>Helene Berman London</title>
@@ -24490,7 +24490,7 @@
         <title>Fashion Elevated Essentials</title>
     </programme>
     <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Richard Jackson's Garden</title>
     </programme>
     <programme start="20250411140000 +0000" stop="20250411150000 +0000" channel="QVC Extra">
         <title>In The Kitchen</title>
@@ -24511,13 +24511,13 @@
         <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250411200000 +0000" stop="20250411210000 +0000" channel="QVC Extra">
-        <title>Phase Eight</title>
+        <title>What to Wear this April</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="QVC Extra">
-        <title>Big Brand Tech</title>
+        <title>Phase Eight</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="QVC Extra">
-        <title>Get it or Regret it</title>
+        <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250410213000 +0000" stop="20250410220000 +0000" channel="High Street TV 3">
         <title>Power XL Vortex Air Fryer</title>

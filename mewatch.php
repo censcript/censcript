@@ -480,19 +480,19 @@
     <programme start="20250411103002 +0000" stop="20250411110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 6</title>
     </programme>
-    <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250411110000 +0000" stop="20250411115958 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 30</title>
     </programme>
-    <programme start="20250411120000 +0000" stop="20250411123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250411115958 +0000" stop="20250411123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 2</title>
     </programme>
-    <programme start="20250411123000 +0000" stop="20250411130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250411123000 +0000" stop="20250411130008 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250411130008 +0000" stop="20250411140007 +0000" channel="Vasantham.mewatch">
         <title>Acham Yenbathu Madamaiyadaa S3 - EP 1</title>
     </programme>
-    <programme start="20250411140000 +0000" stop="20250411163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250411140007 +0000" stop="20250411163000 +0000" channel="Vasantham.mewatch">
         <title>Pistha</title>
     </programme>
     <programme start="20250410150105 +0000" stop="20250410160001 +0000" channel="CNA.mewatch">
@@ -975,10 +975,16 @@
     <programme start="20250410160000 +0000" stop="20250411015500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Friday 9.55am. Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
     </programme>
-    <programme start="20250411015500 +0000" stop="20250411130000 +0000" channel="Live 6.mewatch">
+    <programme start="20250411015500 +0000" stop="20250411060000 +0000" channel="Live 6.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
     </programme>
-    <programme start="20250411130000 +0000" stop="20250411160000 +0000" channel="Live 6.mewatch">
+    <programme start="20250411060000 +0000" stop="20250411085500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 4.55pm. Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
+    </programme>
+    <programme start="20250411085500 +0000" stop="20250411120000 +0000" channel="Live 6.mewatch">
+        <title>Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
+    </programme>
+    <programme start="20250411120000 +0000" stop="20250411160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 12th April, Saturday 9.55am. Bank of Ningbo Badminton Asia Championships 2025: Semi-Finals</title>
     </programme>
     <programme start="20250411160000 +0000" stop="20250412015500 +0000" channel="Live 6.mewatch">
