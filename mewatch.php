@@ -129,10 +129,10 @@
     <programme start="20250411092959 +0000" stop="20250411103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 6</title>
     </programme>
-    <programme start="20250411103000 +0000" stop="20250411110017 +0000" channel="Channel 5.mewatch">
+    <programme start="20250411103000 +0000" stop="20250411110049 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 131</title>
     </programme>
-    <programme start="20250411110017 +0000" stop="20250411130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250411110049 +0000" stop="20250411130000 +0000" channel="Channel 5.mewatch">
         <title>Mr. Magorium&#039;s Wonder Emporium</title>
     </programme>
     <programme start="20250411130000 +0000" stop="20250411133000 +0000" channel="Channel 5.mewatch">
@@ -570,17 +570,17 @@
     <programme start="20250411160000 +0000" stop="20250411160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250410160000 +0000" stop="20250411111500 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.15pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
+    <programme start="20250410160000 +0000" stop="20250411113500 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
     </programme>
-    <programme start="20250411111500 +0000" stop="20250411134500 +0000" channel="spl01.mewatch">
+    <programme start="20250411113500 +0000" stop="20250411134500 +0000" channel="spl01.mewatch">
         <title>2024 Singapore Premier League: Tanjong Pagar United vs Tampines Rovers</title>
     </programme>
     <programme start="20250411134500 +0000" stop="20250411160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th April, Saturday 5.50pm. 2024 Singapore Premier League: Lion City Sailors vs Brunei DPMM</title>
+        <title>No Programme available now. Next Broadcast on 12th April, Saturday 5.30pm. 2024 Singapore Premier League: Lion City Sailors vs Brunei DPMM</title>
     </programme>
-    <programme start="20250411160000 +0000" stop="20250412095000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th April, Saturday 5.50pm. 2024 Singapore Premier League: Lion City Sailors vs Brunei DPMM</title>
+    <programme start="20250411160000 +0000" stop="20250412093000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th April, Saturday 5.30pm. 2024 Singapore Premier League: Lion City Sailors vs Brunei DPMM</title>
     </programme>
     <programme start="20250410160000 +0000" stop="20250411113500 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Friday 7.35pm. 2024 Singapore Premier League: Geylang International vs Hougang United FC</title>
