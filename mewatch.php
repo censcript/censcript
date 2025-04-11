@@ -270,10 +270,10 @@
     <programme start="20250410163041 +0000" stop="20250410172617 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 21</title>
     </programme>
-    <programme start="20250410172617 +0000" stop="20250410220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250410172617 +0000" stop="20250410215959 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 22</title>
     </programme>
-    <programme start="20250410220000 +0000" stop="20250411025807 +0000" channel="Channel U.mewatch">
+    <programme start="20250410215959 +0000" stop="20250411025807 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250411025807 +0000" stop="20250411031207 +0000" channel="Channel U.mewatch">
@@ -435,8 +435,11 @@
     <programme start="20250411153000 +0000" stop="20250412010000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250410160000 +0000" stop="20250411010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250410160000 +0000" stop="20250410162903 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
+    </programme>
+    <programme start="20250410162903 +0000" stop="20250411010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250411010000 +0000" stop="20250411013003 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 36</title>
