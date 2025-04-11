@@ -28920,11 +28920,11 @@
     <programme start="20250411193000 +0000" stop="20250411203000 +0000" channel="Sangat">
         <title>Katha Sri Suraj Parkash</title>
     </programme>
-    <programme start="20250411203000 +0000" stop="20250411210000 +0000" channel="Sangat">
-        <title>Jyoti Jot Diwas</title>
+    <programme start="20250411203000 +0000" stop="20250411213000 +0000" channel="Sangat">
+        <title>Guru Teg Bahadur Sahib Ji</title>
     </programme>
-    <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="Sangat">
-        <title>Hukamnama Katha</title>
+    <programme start="20250411213000 +0000" stop="20250411220000 +0000" channel="Sangat">
+        <title>Jyoti Jot Diwas</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411223000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
