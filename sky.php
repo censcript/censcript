@@ -14743,13 +14743,13 @@
         <title>HD Downtime</title>
     </programme>
     <programme start="20250411090000 +0000" stop="20250411100000 +0000" channel="SkySpBoxOffHD">
-        <title>Chris Eubank Jr v Nigel Benn</title>
+        <title>HD Downtime</title>
     </programme>
     <programme start="20250411100000 +0000" stop="20250411110000 +0000" channel="SkySpBoxOffHD">
         <title>HD Downtime</title>
     </programme>
     <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="SkySpBoxOffHD">
-        <title>Chris Eubank Jr v Nigel Benn</title>
+        <title>HD Downtime</title>
     </programme>
     <programme start="20250411120000 +0000" stop="20250411130000 +0000" channel="SkySpBoxOffHD">
         <title>HD Downtime</title>
