@@ -30132,146 +30132,161 @@
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Deen TV">
         <title>Qari ul Quran</title>
     </programme>
-    <programme start="20250410213500 +0000" stop="20250410220000 +0000" channel="Islam Bangla">
-        <title>Ramzaner Fazilat</title>
-    </programme>
-    <programme start="20250410220000 +0000" stop="20250410230000 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Makkah</title>
-    </programme>
-    <programme start="20250410230000 +0000" stop="20250410233500 +0000" channel="Islam Bangla">
-        <title>ICB News</title>
-    </programme>
-    <programme start="20250410233500 +0000" stop="20250411000000 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Makkah</title>
-    </programme>
-    <programme start="20250411000000 +0000" stop="20250411004500 +0000" channel="Islam Bangla">
-        <title>Drama Serial: Yusuf Zulekha</title>
-    </programme>
-    <programme start="20250411004500 +0000" stop="20250411010000 +0000" channel="Islam Bangla">
-        <title>Live Prayers from Makkah: Fajr</title>
-    </programme>
-    <programme start="20250411010000 +0000" stop="20250411013000 +0000" channel="Islam Bangla">
-        <title>Ramzaner Fazilat</title>
-    </programme>
-    <programme start="20250411013000 +0000" stop="20250411020000 +0000" channel="Islam Bangla">
-        <title>Patheyo</title>
-    </programme>
-    <programme start="20250411020000 +0000" stop="20250411023500 +0000" channel="Islam Bangla">
-        <title>ICB News</title>
-    </programme>
-    <programme start="20250411023500 +0000" stop="20250411025200 +0000" channel="Islam Bangla">
-        <title>Riyad-us-Saliheen</title>
-    </programme>
-    <programme start="20250411025200 +0000" stop="20250411030000 +0000" channel="Islam Bangla">
-        <title>Fajr Adhan</title>
-    </programme>
-    <programme start="20250411030000 +0000" stop="20250411040000 +0000" channel="Islam Bangla">
+    <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="Islam Bangla">
         <title>Islamic Story</title>
     </programme>
-    <programme start="20250411040000 +0000" stop="20250411043000 +0000" channel="Islam Bangla">
+    <programme start="20250410220000 +0000" stop="20250410223500 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250410223500 +0000" stop="20250410230000 +0000" channel="Islam Bangla">
         <title>Darse Hadith</title>
     </programme>
+    <programme start="20250410230000 +0000" stop="20250411000000 +0000" channel="Islam Bangla">
+        <title>Suvo Sondha</title>
+    </programme>
+    <programme start="20250411000000 +0000" stop="20250411003000 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250411003000 +0000" stop="20250411010000 +0000" channel="Islam Bangla">
+        <title>Muhammad: Final Legacy</title>
+    </programme>
+    <programme start="20250411010000 +0000" stop="20250411020000 +0000" channel="Islam Bangla">
+        <title>JonoRay</title>
+    </programme>
+    <programme start="20250411020000 +0000" stop="20250411022500 +0000" channel="Islam Bangla">
+        <title>Special Drama: Digital Zakat</title>
+    </programme>
+    <programme start="20250411022500 +0000" stop="20250411024000 +0000" channel="Islam Bangla">
+        <title>Live Prayers from Makkah: Fajr</title>
+    </programme>
+    <programme start="20250411024000 +0000" stop="20250411030000 +0000" channel="Islam Bangla">
+        <title>Riyad-us-Saliheen</title>
+    </programme>
+    <programme start="20250411030000 +0000" stop="20250411033000 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250411033000 +0000" stop="20250411035400 +0000" channel="Islam Bangla">
+        <title>Darse Hadith</title>
+    </programme>
+    <programme start="20250411035400 +0000" stop="20250411040000 +0000" channel="Islam Bangla">
+        <title>Fajr Adhan</title>
+    </programme>
+    <programme start="20250411040000 +0000" stop="20250411043000 +0000" channel="Islam Bangla">
+        <title>Muhammad: Final Legacy</title>
+    </programme>
     <programme start="20250411043000 +0000" stop="20250411050000 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Makkah</title>
+        <title>Darse Hadith</title>
     </programme>
     <programme start="20250411050000 +0000" stop="20250411060000 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Makkah</title>
+        <title>Suvo Sondha</title>
     </programme>
     <programme start="20250411060000 +0000" stop="20250411070000 +0000" channel="Islam Bangla">
-        <title>Drama Serial: Yusuf Zulekha</title>
+        <title>Islami Jigghasha</title>
     </programme>
-    <programme start="20250411070000 +0000" stop="20250411073000 +0000" channel="Islam Bangla">
-        <title>Patheyo</title>
+    <programme start="20250411070000 +0000" stop="20250411080000 +0000" channel="Islam Bangla">
+        <title>JonoRay</title>
     </programme>
-    <programme start="20250411073000 +0000" stop="20250411073500 +0000" channel="Islam Bangla">
-        <title>Riyad-us-Saliheen</title>
+    <programme start="20250411080000 +0000" stop="20250411085000 +0000" channel="Islam Bangla">
+        <title>Islamic Story</title>
     </programme>
-    <programme start="20250411073500 +0000" stop="20250411082000 +0000" channel="Islam Bangla">
+    <programme start="20250411085000 +0000" stop="20250411092600 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250411092600 +0000" stop="20250411101000 +0000" channel="Islam Bangla">
         <title>Live Jummah Khutba from Makka</title>
     </programme>
-    <programme start="20250411082000 +0000" stop="20250411085000 +0000" channel="Islam Bangla">
-        <title>ICB News</title>
-    </programme>
-    <programme start="20250411085000 +0000" stop="20250411090000 +0000" channel="Islam Bangla">
+    <programme start="20250411101000 +0000" stop="20250411103000 +0000" channel="Islam Bangla">
         <title>Riyad-us-Saliheen</title>
     </programme>
-    <programme start="20250411090000 +0000" stop="20250411094500 +0000" channel="Islam Bangla">
+    <programme start="20250411103000 +0000" stop="20250411111000 +0000" channel="Islam Bangla">
         <title>Jummah Khutba from Al-Aqsa</title>
     </programme>
-    <programme start="20250411094500 +0000" stop="20250411100000 +0000" channel="Islam Bangla">
-        <title>Bangla Nasheed</title>
+    <programme start="20250411111000 +0000" stop="20250411120000 +0000" channel="Islam Bangla">
+        <title>Suvo Sondha</title>
     </programme>
-    <programme start="20250411100000 +0000" stop="20250411101700 +0000" channel="Islam Bangla">
-        <title>Islamic Story</title>
+    <programme start="20250411120000 +0000" stop="20250411120700 +0000" channel="Islam Bangla">
+        <title>Quraner Sur</title>
     </programme>
-    <programme start="20250411101700 +0000" stop="20250411102200 +0000" channel="Islam Bangla">
+    <programme start="20250411120700 +0000" stop="20250411121200 +0000" channel="Islam Bangla">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250411102200 +0000" stop="20250411110000 +0000" channel="Islam Bangla">
-        <title>Islamic Story</title>
+    <programme start="20250411121200 +0000" stop="20250411125500 +0000" channel="Islam Bangla">
+        <title>JonoRay</title>
     </programme>
-    <programme start="20250411110000 +0000" stop="20250411110300 +0000" channel="Islam Bangla">
-        <title>Drama Serial: Yusuf Zulekha</title>
-    </programme>
-    <programme start="20250411110300 +0000" stop="20250411111600 +0000" channel="Islam Bangla">
+    <programme start="20250411125500 +0000" stop="20250411131000 +0000" channel="Islam Bangla">
         <title>Live Prayers from Makkah: Asr</title>
     </programme>
-    <programme start="20250411111600 +0000" stop="20250411120000 +0000" channel="Islam Bangla">
-        <title>Drama Serial: Yusuf Zulekha</title>
+    <programme start="20250411131000 +0000" stop="20250411133000 +0000" channel="Islam Bangla">
+        <title>JonoRay</title>
     </programme>
-    <programme start="20250411120000 +0000" stop="20250411123000 +0000" channel="Islam Bangla">
-        <title>Patheyo</title>
+    <programme start="20250411133000 +0000" stop="20250411140000 +0000" channel="Islam Bangla">
+        <title>Muhammad: Final Legacy</title>
     </programme>
-    <programme start="20250411123000 +0000" stop="20250411130000 +0000" channel="Islam Bangla">
-        <title>Ramzaner Fazilat</title>
-    </programme>
-    <programme start="20250411130000 +0000" stop="20250411131200 +0000" channel="Islam Bangla">
+    <programme start="20250411140000 +0000" stop="20250411144500 +0000" channel="Islam Bangla">
         <title>Jummah Khutba from Madinah</title>
     </programme>
-    <programme start="20250411131200 +0000" stop="20250411131700 +0000" channel="Islam Bangla">
+    <programme start="20250411144500 +0000" stop="20250411150000 +0000" channel="Islam Bangla">
+        <title>Riyad-us-Saliheen</title>
+    </programme>
+    <programme start="20250411150000 +0000" stop="20250411151500 +0000" channel="Islam Bangla">
+        <title>Cartoon: Stories of prophets</title>
+    </programme>
+    <programme start="20250411151500 +0000" stop="20250411153000 +0000" channel="Islam Bangla">
+        <title>Cartoon: Ibn Battuta</title>
+    </programme>
+    <programme start="20250411153000 +0000" stop="20250411154600 +0000" channel="Islam Bangla">
+        <title>Quraner Sur</title>
+    </programme>
+    <programme start="20250411154600 +0000" stop="20250411155100 +0000" channel="Islam Bangla">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250411131700 +0000" stop="20250411132800 +0000" channel="Islam Bangla">
-        <title>Jummah Khutba from Madinah</title>
-    </programme>
-    <programme start="20250411132800 +0000" stop="20250411134100 +0000" channel="Islam Bangla">
+    <programme start="20250411155100 +0000" stop="20250411160500 +0000" channel="Islam Bangla">
         <title>Live Makkah Maghrib Prayers</title>
     </programme>
-    <programme start="20250411134100 +0000" stop="20250411140000 +0000" channel="Islam Bangla">
-        <title>Jummah Khutba from Madinah</title>
+    <programme start="20250411160500 +0000" stop="20250411163000 +0000" channel="Islam Bangla">
+        <title>Special Drama: MUAZZIN</title>
     </programme>
-    <programme start="20250411140000 +0000" stop="20250411153000 +0000" channel="Islam Bangla">
-        <title>Live Mahe Ramadan</title>
+    <programme start="20250411163000 +0000" stop="20250411170000 +0000" channel="Islam Bangla">
+        <title>Darse Hadith</title>
     </programme>
-    <programme start="20250411153000 +0000" stop="20250411155000 +0000" channel="Islam Bangla">
-        <title>Ramzaner Fazilat</title>
+    <programme start="20250411170000 +0000" stop="20250411173500 +0000" channel="Islam Bangla">
+        <title>Islamic Story</title>
     </programme>
-    <programme start="20250411155000 +0000" stop="20250411155500 +0000" channel="Islam Bangla">
-        <title>Dua before Iftar</title>
+    <programme start="20250411173500 +0000" stop="20250411175000 +0000" channel="Islam Bangla">
+        <title>Live Prayers from Makkah: Isha</title>
     </programme>
-    <programme start="20250411155500 +0000" stop="20250411160000 +0000" channel="Islam Bangla">
+    <programme start="20250411175000 +0000" stop="20250411180000 +0000" channel="Islam Bangla">
+        <title>Islamic Story</title>
+    </programme>
+    <programme start="20250411180000 +0000" stop="20250411185400 +0000" channel="Islam Bangla">
+        <title>Live Islami Jigghasha</title>
+    </programme>
+    <programme start="20250411185400 +0000" stop="20250411190000 +0000" channel="Islam Bangla">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250411160000 +0000" stop="20250411171800 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Al-Aqsa</title>
+    <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="Islam Bangla">
+        <title>Live Bhalobashi Community</title>
     </programme>
-    <programme start="20250411171800 +0000" stop="20250411172300 +0000" channel="Islam Bangla">
-        <title>Isha Adhan</title>
-    </programme>
-    <programme start="20250411172300 +0000" stop="20250411173000 +0000" channel="Islam Bangla">
-        <title>Taraweeh Prayer Al-Aqsa</title>
-    </programme>
-    <programme start="20250411173000 +0000" stop="20250411190000 +0000" channel="Islam Bangla">
-        <title>Live Charity Appeal</title>
-    </programme>
-    <programme start="20250411190000 +0000" stop="20250411193000 +0000" channel="Islam Bangla">
+    <programme start="20250411200000 +0000" stop="20250411200900 +0000" channel="Islam Bangla">
         <title>ICB News</title>
     </programme>
-    <programme start="20250411193000 +0000" stop="20250411220000 +0000" channel="Islam Bangla">
-        <title>Live Charity Appeal</title>
+    <programme start="20250411200900 +0000" stop="20250411201400 +0000" channel="Islam Bangla">
+        <title>Isha Adhan</title>
     </programme>
-    <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Islam Bangla">
-        <title>Live Charity Appeal</title>
+    <programme start="20250411201400 +0000" stop="20250411203500 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250411203500 +0000" stop="20250411210000 +0000" channel="Islam Bangla">
+        <title>Special Drama: MUAZZIN</title>
+    </programme>
+    <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="Islam Bangla">
+        <title>Islamic Story</title>
+    </programme>
+    <programme start="20250411220000 +0000" stop="20250411223500 +0000" channel="Islam Bangla">
+        <title>ICB News</title>
+    </programme>
+    <programme start="20250411223500 +0000" stop="20250411233500 +0000" channel="Islam Bangla">
+        <title>Darse Hadith</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="SkyNewsArabia">
         <title>News</title>
