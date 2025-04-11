@@ -13600,10 +13600,10 @@
         <title>WTA All Access Magazine</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411210000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Fils v Alcaraz</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="SkySp Tennis HD">
-        <title>ATP Monte-Carlo Tennis Highlights</title>
+        <title>Monte-Carlo: Dimitrov v Minaur</title>
     </programme>
     <programme start="20250410180000 +0000" stop="20250410220000 +0000" channel="SkySp NFL HD">
         <title>Live PL Darts: Manchester</title>
@@ -14703,17 +14703,14 @@
     <programme start="20250411114500 +0000" stop="20250411121500 +0000" channel="Racing TV">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250411121500 +0000" stop="20250411193000 +0000" channel="Racing TV">
+    <programme start="20250411121500 +0000" stop="20250411194500 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250411193000 +0000" stop="20250411211500 +0000" channel="Racing TV">
+    <programme start="20250411194500 +0000" stop="20250411213000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250411211500 +0000" stop="20250411224500 +0000" channel="Racing TV">
+    <programme start="20250411213000 +0000" stop="20250411223000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250411224500 +0000" stop="20250411234500 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250410170000 +0000" stop="20250410230000 +0000" channel="TNTSBoxOffHD">
         <title>..programmes coming soon</title>
@@ -16476,8 +16473,11 @@
     <programme start="20250411093000 +0000" stop="20250411100000 +0000" channel="TRT World">
         <title>Strait Talk</title>
     </programme>
-    <programme start="20250411100000 +0000" stop="20250411110000 +0000" channel="TRT World">
+    <programme start="20250411100000 +0000" stop="20250411103000 +0000" channel="TRT World">
         <title>News</title>
+    </programme>
+    <programme start="20250411103000 +0000" stop="20250411110000 +0000" channel="TRT World">
+        <title>Beyond The Game</title>
     </programme>
     <programme start="20250411110000 +0000" stop="20250411113000 +0000" channel="TRT World">
         <title>News</title>
@@ -18082,10 +18082,10 @@
         <title>Enter The Healing School</title>
     </programme>
     <programme start="20250411140000 +0000" stop="20250411143000 +0000" channel="LoveWorld HD">
-        <title>Jerry Savelle Ministries</title>
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250411143000 +0000" stop="20250411150000 +0000" channel="LoveWorld HD">
-        <title>Loveworld Network News</title>
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250411150000 +0000" stop="20250411170000 +0000" channel="LoveWorld HD">
         <title>Healing Streams</title>
@@ -18094,7 +18094,7 @@
         <title>The LN News Room</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411193000 +0000" channel="LoveWorld HD">
-        <title>Travel Vlog</title>
+        <title>Loveworld Expression</title>
     </programme>
     <programme start="20250411193000 +0000" stop="20250411200000 +0000" channel="LoveWorld HD">
         <title>Young Kings Bulletin</title>
@@ -27142,28 +27142,25 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250411110500 +0000" stop="20250411120000 +0000" channel="New Vision TV">
-        <title>Off The Record</title>
+        <title>Kahay Faqir</title>
     </programme>
     <programme start="20250411120000 +0000" stop="20250411120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
-    <programme start="20250411120500 +0000" stop="20250411123000 +0000" channel="New Vision TV">
-        <title>News</title>
-    </programme>
-    <programme start="20250411123000 +0000" stop="20250411130000 +0000" channel="New Vision TV">
-        <title>Sports Room</title>
+    <programme start="20250411120500 +0000" stop="20250411130000 +0000" channel="New Vision TV">
+        <title>Off The Record</title>
     </programme>
     <programme start="20250411130000 +0000" stop="20250411130500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250411130500 +0000" stop="20250411140000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Sports Room Special PSL 10</title>
     </programme>
     <programme start="20250411140000 +0000" stop="20250411140500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250411140500 +0000" stop="20250411150000 +0000" channel="New Vision TV">
-        <title>Kahay Faqir</title>
+        <title>News</title>
     </programme>
     <programme start="20250411150000 +0000" stop="20250411150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -27991,19 +27988,19 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250411180000 +0000" stop="20250411190000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250411190000 +0000" stop="20250411200000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250411200000 +0000" stop="20250411210000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250411210000 +0000" stop="20250411220000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250411220000 +0000" stop="20250411230000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250410210000 +0000" stop="20250410220000 +0000" channel="HUM EUROPE">
         <title>Choti Si Zindagi</title>
@@ -34134,17 +34131,14 @@
     <programme start="20250411114500 +0000" stop="20250411121500 +0000" channel="Racing TV HD">
         <title>Mark Your Card</title>
     </programme>
-    <programme start="20250411121500 +0000" stop="20250411193000 +0000" channel="Racing TV HD">
+    <programme start="20250411121500 +0000" stop="20250411194500 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250411193000 +0000" stop="20250411211500 +0000" channel="Racing TV HD">
+    <programme start="20250411194500 +0000" stop="20250411213000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250411211500 +0000" stop="20250411224500 +0000" channel="Racing TV HD">
+    <programme start="20250411213000 +0000" stop="20250411223000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250411224500 +0000" stop="20250411234500 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
     </programme>
     <programme start="20250410213000 +0000" stop="20250410220000 +0000" channel="Sky News">
         <title>Press Preview</title>
@@ -34356,8 +34350,11 @@
     <programme start="20250411093000 +0000" stop="20250411100000 +0000" channel="TRT World HD">
         <title>Strait Talk</title>
     </programme>
-    <programme start="20250411100000 +0000" stop="20250411110000 +0000" channel="TRT World HD">
+    <programme start="20250411100000 +0000" stop="20250411103000 +0000" channel="TRT World HD">
         <title>News</title>
+    </programme>
+    <programme start="20250411103000 +0000" stop="20250411110000 +0000" channel="TRT World HD">
+        <title>Beyond The Game</title>
     </programme>
     <programme start="20250411110000 +0000" stop="20250411113000 +0000" channel="TRT World HD">
         <title>News</title>
