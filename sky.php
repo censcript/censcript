@@ -11007,45 +11007,7 @@
     <programme start="20250412220000 +0000" stop="20250412230000 +0000" channel="Movies24">
         <title>Fashionably In Love</title>
     </programme>
-    <programme start="20250411200000 +0000" stop="20250411222000 +0000" channel="Film4 HD">
-        <title>The Equalizer 2</title>
-    </programme>
-    <programme start="20250411222000 +0000" stop="20250412002500 +0000" channel="Film4 HD">
-        <title>Mona Lisa</title>
-    </programme>
-    <programme start="20250412002500 +0000" stop="20250412024000 +0000" channel="Film4 HD">
-        <title>American Animals</title>
-    </programme>
-    <programme start="20250412024000 +0000" stop="20250412060000 +0000" channel="Film4 HD">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250412060000 +0000" stop="20250412100000 +0000" channel="Film4 HD">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250412100000 +0000" stop="20250412114500 +0000" channel="Film4 HD">
-        <title>Dunston Checks In</title>
-    </programme>
-    <programme start="20250412114500 +0000" stop="20250412133000 +0000" channel="Film4 HD">
-        <title>Jingle All the Way</title>
-    </programme>
-    <programme start="20250412133000 +0000" stop="20250412134000 +0000" channel="Film4 HD">
-        <title>Widows Interview Special</title>
-    </programme>
-    <programme start="20250412134000 +0000" stop="20250412153000 +0000" channel="Film4 HD">
-        <title>Stormbreaker</title>
-    </programme>
-    <programme start="20250412153000 +0000" stop="20250412173500 +0000" channel="Film4 HD">
-        <title>The Day the Earth Stood Still</title>
-    </programme>
-    <programme start="20250412173500 +0000" stop="20250412200000 +0000" channel="Film4 HD">
-        <title>Star Trek</title>
-    </programme>
-    <programme start="20250412200000 +0000" stop="20250412215000 +0000" channel="Film4 HD">
-        <title>Nobody</title>
-    </programme>
-    <programme start="20250412215000 +0000" stop="20250412225000 +0000" channel="Film4 HD">
-        <title>Dead Man's Shoes</title>
-    </programme>
+    <!-- Error: Data tidak ditemukan untuk channel ID 4044 -->
     <programme start="20250411210000 +0000" stop="20250411232000 +0000" channel="Film4+1">
         <title>The Equalizer 2</title>
     </programme>
@@ -19056,8 +19018,11 @@
     <programme start="20250412172000 +0000" stop="20250412174000 +0000" channel="CBBC HD">
         <title>Total Drama: Island Reboot</title>
     </programme>
-    <programme start="20250412174000 +0000" stop="20250412184000 +0000" channel="CBBC HD">
+    <programme start="20250412174000 +0000" stop="20250412175800 +0000" channel="CBBC HD">
         <title>Gladiators: Epic Pranks</title>
+    </programme>
+    <programme start="20250412175800 +0000" stop="20250412185800 +0000" channel="CBBC HD">
+        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250411175800 +0000" stop="20250411235800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -19257,8 +19222,11 @@
     <programme start="20250412172000 +0000" stop="20250412175000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250412175000 +0000" stop="20250412185000 +0000" channel="CBeebies HD">
+    <programme start="20250412175000 +0000" stop="20250412175800 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
+    </programme>
+    <programme start="20250412175800 +0000" stop="20250412185800 +0000" channel="CBeebies HD">
+        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250411214500 +0000" stop="20250411220000 +0000" channel="Sky Kids HD">
         <title>The Pingu Show</title>
@@ -26046,86 +26014,100 @@
     <programme start="20250412120500 +0000" stop="20250412122000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250412122000 +0000" al="20250412023000 +0000" stop="20250412030500 +0000"crt="20250412140000 +0000" stop="2025041215000oman Chalisa</title>
+    <programme start="20250412122000 +0000" stop="20250412123000 +0000" channel="MTA1 World HD">
+        <title>Dars-e-Malfoozat</title>
     </programme>
-    <programme start="20250412051000 +0000" stop="202504120630     50412030500 +0000"crt="202504ouitle>Mahaveer Sharma ji</tit2504<title>Tilawat</title>
+    <programme start="20250412123000 +0000" stop="20250412130000 +0000" channel="MTA1 World HD">
+        <title>Balance</title>
     </programme>
-    <programmau   </programme>
-    <programme start="20250412140000  ajendra Das ji</title>
+    <programme start="20250412130000 +0000" stop="20250412140500 +0000" channel="MTA1 World HD">
+        <title>Live Intikhab-e-Sukhan</title>
     </programme>
-    <programme sta/programme>
-    <programme start="20250412013900 +0000" stop="20250412034700 +0000" channel="SONY MAX 2">
- hashmah</title>
+    <programme start="20250412140500 +0000" stop="20250412143000 +0000" channel="MTA1 World HD">
+        <title>Destination Next</title>
     </programme>
-    <programme stah
-   gtTA1 World HD">
-        <title>Friday Sermon<="20250411225000 +0000" stop="20250412013900 +0000" </programme>
-    <programme stah
-   gtTA1 World HD">
-        <title>Friday Sermon<="20250411225000 +0000" stop="20>Friday Sermon<="20250411225000 +0000" stop="20250="20250412210000 +0000" channel="Sanskar">
-      ycDriday Sermon<="20250411225000 +0000" stop="20250412013900 +0000" </programme>
-    <programme stah
-   gtTA1 World HD">isdtle>
-    </programme>
-    <programme start="20250412013200 +0000" stop="20250412040500 +0000" cdGrogramme start="20250hannel="Utsav Gold HD">
-        <title>Tubelight</title>
-    </progroulKN     <title>Shri Vin52000 +0000" channel="SONY SAB">
-        <title50412040000 +0000" stop="20250uop="ll="25000 +0000" stop="20250412094500 +0000" channel="MTA1 World HD">
+    <programme start="20250412143000 +0000" stop="20250412152500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </progrvanand Ji</title>
-  000" stop="20250uop="ll="25000 +0000" stop="2025041200 +0000" channel="MTA1 World HD">
-        <title>Friday Sermuttle>d HD">
-        <title>Balance</title>
     </programme>
-    i</title>
+    <programme start="20250412152500 +0000" stop="20250412153500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
-    <programme startnel="MTA1 World HD">
-        <title>Friday Sermuttle>d HD">
-        <title>Balance</title>
-    </prog000" channel="MTA1 World HD"J
-        <title>Vadh</title>
+    <programme start="20250412153500 +0000" stop="2025041220250412190000 +0000" c<title>Veer Hanuman - Bolo Bajrang Bali Ki Jai</title>
     </programme>
-    <progr9itle>
+    <program0000" stop="20250412224000 +0000" channel="Sanskar">
+        <title>Mahaveer Sharma  Ji Agrawal</title>
     </programme>
-    <programme start="202504112rt="20250412034800 +0000" steday >
-    <programme start="202504120400000 +0MMalfoozat</title>
+    <pro12132400 +0000" channel="SONeh="20250412224000 +0000" chan00" soiograme start="20250412153500 +0000" stop="202504122025041auchannel="Sanskar">
+        <title>Pujya Ishan Shivana t="20250411222000 +0000" stop="20250411224000 +0000" channel="SONY MAX 2">
+        <title>Yaarana</title>
     </programme>
-    <programme starrogr9itle>
+    <programme start="20250412202500 +0000
     </programme>
-    <programme stitle>Friday Sermuttle>d HD"o50411225000 +0000" stop="20250412013900 +0000" channel="SONY MAX 2">
-        <title>Izzat</title>Fris P500 ne>Friday Sermuttle>d HD"o50411225000 +0000" stop="20250412013900 +0000" chWorSf2053i225000 aB">
-        <title>Tenali Rama 2.0</title>
+    <programme start="20250412175h2504gt</title>
     </programme>
-    <programme start="20250e00" o04122Tle>Shri Vin52000 +0000" chan2052neek With Huzoor</title>
+    <programme staMujhe</title>
     </programme>
-    <programme start="2025041200ifit2504<title>Tilawat<tel="MTA1 World HD">
-        <title>Balance</title>
-    </5000 +0000" stsHD">
-        <title>Chef's Corner</title>
-    </p sta/programme>
-    <<title>Tilawat<tel="MTA1 Wor'Y SAB">
-        <title>Vighni</prnel="00" channel="Sanskar">
-       HD">
-iA9yrammme start="2025041201000 +0000" stop="20250412133000 +0000" channel="Sanskar">
-         <title>Vighni</prnel="00" channel="Sanskar">
-       HD">
-iA9yrammme start="20250412010="20250412103500 +0000" stop="20250412104500 +00MTA1 World HD">
-        <title>Villages Of Africa </programme>
-    <programmT>Chef's Corner</title>
-    </p sta/programme>
-    <<title>Tilawat<tel="MTA1 Wor'Y SAB">
-        <tit="20250412182500 +0000" stop="202 channel="SONY SAB">
-      anuman Chalisa</titleaotitl1siDi </progroulKN     <title>Shri ">
-    A1 Wor'Y SAB">
-        <tit=title>Morari Bapu</title>
+    <programme start=  <programme start="20250412175h2504gt</title>
     </programme>
-    <programme start="20250412003000 +0000"saeogramme>
-    <programme start="2025041200ifit2504<title>Tilawatsd channel="SONY SAB">
+    <programme staMujhe</title>
+    </programme>
+  <programme staMujhe</title>
+    </programme>
+    ">
+        <title>Friday Sermon</title>
+    </proycDprogramme staMujhe</title>
+    </programme>
+    <programme start=  <programme start="20250412175h2504gt</title>
+    <isd113600 +0000" stop="20250412140900 +0000" channel="SONY MAX HD">
+        <title>Piku</title>
+  dG
+        <title>Shri le>Wagle Ki Duniya</title>
+    </programme>
+    <programme start="2roulKNamme start="20250412l="SONY SAB">
+        <title>Vighnaharta Ganeshe>
+    </programme>
+    <progruJai<lman "MTA1 World HD">
+        <title>Beyond Allegations</title>
+    </programme>
+    <programme start="20250412000" st4000 +0000" stop="20amme>
+    <progruJai<lman "MTA1 World HD">
+        <e>Beyond Allegations</title>
+    </programme>
+    <programme ut00 +ws</title>
+    </programme>
+    <programme start="202504120tart="20250412222000 +0000" stop="2025041222400ations</title>
+    </programme>
+    <programme ut00 +ws</title>
+    </programme>
+    <programme startond Allegations</title>
+    J4000 +0000" channel="SONY MAX 2">
+        <title>Mil Gay90000" stop="20250412160000 +0000" channel="Utsav Gold 250412060400 +0000" stop="20eograe start <title>Bhajan</title>
+    </p    <M>
+    <programme start="20250412100000 +0000" stop="20 Gay90000" stop="20250412160000 +0000" channe
+    <programme ut00 +ws</to</title>
+    </programme>
+    <programme start="20250412174000 +0000" stop="20250412202500 +0000 <prs PTA1 n  <programme ut00 +ws</to</title>
+    </programme>
+    <programme start="2titSfe>Daile>
+   aTenali Rama 2.0</title>
+    </programme>
+    <programme start="20250412070900 +0000" steA1 Wo <pr2Tt="20250412l="SONY SAB">
+   TA1 nme start="20250412030500 +0000" stop="20250412033000 +0000" channel="MTA1ifoiograme start="20250t Africa</title>
+    </programme>
+    <programme start="20>
+    </progras>
+    <programme start="20250412130000 +0000" stohannel="SONY MAX 2">
+me start="20250t Africa</tit'      <title>Taarak Mehta Kai staatione>
+    <programme start="20250</titiA9ytitlp="20250412045000 +0le>Dr. Chinmaya Pandya ji</title>
+    </programme>
+    <programme  rak Mehta Kai staatione>
+    <programme start="20250</titiA9ytitlp="20250412045000 +0l channel="MTA1 World HD">
+        <title>Dars-e-Story Of A Night</title>
+    </programme>
+    <pr0000" stop="202504122025041Tart="20250412130000 +0000" stohannel="SONY MAX 2">
+me start="20250t Africa</tit'      <title>Taarak 0 +0000" stop="20250412213000 +00top="20250412142200 +0000" stop="20250412133000 aoe st1siDitart="2roulKNamme start="2025000" stoa</tit'      <title>Taarak 0040000 +0000" stop="20250412063000 +0000" channel="Aastha">
+        <title>Yog Rishi Ssaestop="20250412033000 +0000" channel="MTA1ifoiograme start="2025sdel="SONY SAB">
         <title>Pushpa Impossible</title>
     </programme>
-    <programme s:de>
-    </programme>>Tilawat<tel="MTA1 Wor'Y SAB">
-        <title>Vighni</prnel="00p="20250412105300 +0000" channel="SONY SAB">
-        <title>The Kapil Sharma Show</title>
-    </programme>
-    <pad
+    <programme start=":de start="2025041210rt="20250t Africa</tit'      <title>Taarak Mehta Kai staatione>25600 +0000" stop="20250412132400 +0000" channel="SONY SAB">
+        <title>Taarak Mehta Ka Ooltah Chashmah</titlad
