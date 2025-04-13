@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250413045000 +0000" stop="20250413071000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gangwon v Gwangju</title>
-    </programme>
-    <programme start="20250413045500 +0000" stop="20250413071000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Albirex v Yokohama FC</title>
-    </programme>
-    <programme start="20250413072000 +0000" stop="20250413094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daegu v Ulsan</title>
-    </programme>
-    <programme start="20250413120000 +0000" stop="20250413152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Wolverhampton Wanderers v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Liverpool v West Ham United</title>
-    </programme>
-    <programme start="20250413125000 +0000" stop="20250413151000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Chelsea v Ipswich</title>
-    </programme>
-    <programme start="20250413135000 +0000" stop="20250413171000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Manchester City v Manchester United</title>
-    </programme>
-    <programme start="20250413152000 +0000" stop="20250413180000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Newcastle United v Manchester United</title>
-    </programme>
     <programme start="20250413190000 +0000" stop="20250413203000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +272,8 @@
     </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>
