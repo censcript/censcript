@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250412190000 +0000" stop="20250412200000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
-    <programme start="20250412210000 +0000" stop="20250412233000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Racing Louisville FC v Washington Spirit</title>
-    </programme>
-    <programme start="20250412210000 +0000" stop="20250412233000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Angel City FC</title>
-    </programme>
-    <programme start="20250412233000 +0000" stop="20250413020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Seattle Reign v Orlando Pride</title>
-    </programme>
-    <programme start="20250413020000 +0000" stop="20250413043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - San Diego Wave FC v Kansas City Current</title>
-    </programme>
     <programme start="20250413045000 +0000" stop="20250413071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Gwangju</title>
     </programme>
@@ -299,5 +284,20 @@
     </programme>
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250428135000 +0000" stop="20250428171000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Nottingham Forest v Manchester City</title>
+    </programme>
+    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Bayern Munich v Werder Bremen</title>
+    </programme>
+    <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Nottingham Forest v Brentford</title>
+    </programme>
+    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
 </tv>
