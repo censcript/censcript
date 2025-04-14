@@ -23395,55 +23395,55 @@
         <title>Lifestyle Egg-Stravaganza with Chloe &amp; Caroline</title>
     </programme>
     <programme start="20250414060000 +0000" stop="20250414070000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe &amp; Caroline</title>
+        <title>Your Purchase Feeds Challenge</title>
     </programme>
     <programme start="20250414070000 +0000" stop="20250414080000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe &amp; Caroline</title>
+        <title>Fashion! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414080000 +0000" stop="20250414090000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe &amp; Caroline</title>
+        <title>Fashion! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414090000 +0000" stop="20250414100000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Cris</title>
+        <title>Your Purchase Feeds Challenge</title>
     </programme>
     <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Cris</title>
+        <title>Your Purchase Feeds Challenge</title>
     </programme>
     <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Cris</title>
+        <title>Home! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Cris</title>
+        <title>One to Own! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe</title>
+        <title>Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe</title>
+        <title>Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414150000 +0000" stop="20250414160000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe</title>
+        <title>Super Find! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414160000 +0000" stop="20250414170000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Chloe</title>
+        <title>Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414170000 +0000" stop="20250414180000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Mark</title>
+        <title>Under £10! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414180000 +0000" stop="20250414190000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Mark</title>
+        <title>Under £10! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414190000 +0000" stop="20250414200000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Mark</title>
+        <title>Under £10! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414200000 +0000" stop="20250414210000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Mark</title>
+        <title>Under £10! Lifestyle Egg-Stravaganza</title>
     </programme>
     <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Derek</title>
+        <title>Your Purchase Feeds Challenge</title>
     </programme>
     <programme start="20250414220000 +0000" stop="20250414230000 +0000" channel="TJC HD">
-        <title>Lifestyle Egg-Stravaganza with Derek</title>
+        <title>Your Purchase Feeds Challenge</title>
     </programme>
     <programme start="20250413210000 +0000" stop="20250413220000 +0000" channel="QVC Beauty">
         <title>Bellamianta Luxury Tanning</title>
@@ -24010,49 +24010,49 @@
         <title>Ideal Beauty</title>
     </programme>
     <programme start="20250414060000 +0000" stop="20250414070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Benjamin Button Collagen with Lindsey</title>
     </programme>
     <programme start="20250414070000 +0000" stop="20250414080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>L(A)B Skincare Technology with Lindsey</title>
     </programme>
     <programme start="20250414080000 +0000" stop="20250414090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>L(A)B Skincare Technology with Lindsey</title>
     </programme>
     <programme start="20250414090000 +0000" stop="20250414100000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Fashion Outlet with Katy</title>
     </programme>
     <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Fashion Outlet with Katy</title>
     </programme>
     <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Sankom Shapewear with Katy</title>
     </programme>
     <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Cleaning Deals with Katy</title>
     </programme>
     <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>MAX&amp;Co. Sunglasses with Emma</title>
     </programme>
     <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Bengaline Stretch Trousers with Emma</title>
     </programme>
     <programme start="20250414150000 +0000" stop="20250414160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>New Anamour Dresses with Emma</title>
     </programme>
     <programme start="20250414160000 +0000" stop="20250414170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Last in Stock Fashion with Emma</title>
     </programme>
     <programme start="20250414170000 +0000" stop="20250414180000 +0000" channel="Ideal World HD">
         <title>Home &amp; Garden Essentials with Peter</title>
     </programme>
     <programme start="20250414180000 +0000" stop="20250414190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Gammon Fragrances with Peter</title>
     </programme>
     <programme start="20250414190000 +0000" stop="20250414200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Yesterday's Pick of the Day with Peter</title>
     </programme>
     <programme start="20250414200000 +0000" stop="20250414210000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Pick of the Day with Peter</title>
     </programme>
     <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="Ideal World HD">
         <title>Gem Decor: Handcrafted ...</title>
@@ -28675,10 +28675,13 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Gurmat Vichar</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414150000 +0000" channel="Sangat">
-        <title>Sahit de Sang</title>
+    <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="Sangat">
+        <title>Educate To Save</title>
+    </programme>
+    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="Sangat">
+        <title>Katha Vichar</title>
     </programme>
     <programme start="20250414150000 +0000" stop="20250414153000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -28693,7 +28696,7 @@
         <title>Gurmat Sewa Jatha's Pakistan Yatra</title>
     </programme>
     <programme start="20250414173000 +0000" stop="20250414190000 +0000" channel="Sangat">
-        <title>Sangat Matrimonial</title>
+        <title>Live: Atam Ras Raag Darbar</title>
     </programme>
     <programme start="20250414190000 +0000" stop="20250414193000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -28702,7 +28705,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250414203000 +0000" stop="20250414210000 +0000" channel="Sangat">
-        <title>Gallan Battan Bal De Nal</title>
+        <title>Guru Teg Bahadur Boliya</title>
     </programme>
     <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
@@ -28711,7 +28714,7 @@
         <title>Sehaj Paath</title>
     </programme>
     <programme start="20250414223000 +0000" stop="20250414233000 +0000" channel="Sangat">
-        <title>Darshan Dedare</title>
+        <title>Kavi Darbar</title>
     </programme>
     <programme start="20250413202000 +0000" stop="20250413220000 +0000" channel="Akaal Channel">
         <title>Exclusive: Conference on Vaisakhi</title>
@@ -36768,7 +36771,10 @@
     <programme start="20250414150000 +0000" stop="20250414180000 +0000" channel="BBC R5L">
         <title>5 Live Drive</title>
     </programme>
-    <programme start="20250414180000 +0000" stop="20250414200000 +0000" channel="BBC R5L">
+    <programme start="20250414180000 +0000" stop="20250414190000 +0000" channel="BBC R5L">
+        <title>5 Live Sport</title>
+    </programme>
+    <programme start="20250414190000 +0000" stop="20250414200000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
     </programme>
     <programme start="20250414200000 +0000" stop="20250414210000 +0000" channel="BBC R5L">
