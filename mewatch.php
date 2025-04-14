@@ -123,32 +123,29 @@
     <programme start="20250414093013 +0000" stop="20250414103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 7</title>
     </programme>
-    <programme start="20250414103000 +0000" stop="20250414110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414103000 +0000" stop="20250414110034 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 132</title>
     </programme>
-    <programme start="20250414110000 +0000" stop="20250414113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414110034 +0000" stop="20250414113014 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7960</title>
     </programme>
-    <programme start="20250414113000 +0000" stop="20250414123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414113014 +0000" stop="20250414123000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 3</title>
     </programme>
     <programme start="20250414123000 +0000" stop="20250414130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 53</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414130000 +0000" stop="20250414132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250414133000 +0000" stop="20250414140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414132959 +0000" stop="20250414140012 +0000" channel="Channel 5.mewatch">
         <title>A Street Like This - EP 6</title>
     </programme>
-    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414140012 +0000" stop="20250414150017 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 3</title>
     </programme>
-    <programme start="20250414150000 +0000" stop="20250414160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414150017 +0000" stop="20250414160004 +0000" channel="Channel 5.mewatch">
         <title>Sullivan&#039;s Crossing - Series 2 - EP 5</title>
-    </programme>
-    <programme start="20250414160000 +0000" stop="20250414163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 53</title>
     </programme>
     <programme start="20250413155949 +0000" stop="20250413170004 +0000" channel="Channel 8.mewatch">
         <title>The Family Court - EP 8</title>
