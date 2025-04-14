@@ -13428,37 +13428,28 @@
     <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="SkySp F1 HD">
         <title>Indycar Highlights</title>
     </programme>
-    <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250414180000 +0000" stop="20250414220001 +0000" channel="SkySp Tennis HD">
+        <title>Live Tennis: WTA Rouen &amp; Stuttgart</title>
+    </programme>
+    <programme start="20250414220001 +0000" stop="20250414231501 +0000" channel="SkySp Tennis HD">
         <title>ATP 2025 Season Final Hlts</title>
     </programme>
-    <programme start="20250414220000 +0000" stop="20250414230000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250414231501 +0000" stop="20250415001501 +0000" channel="SkySp Tennis HD">
         <title>ATP Miami 2025 Review</title>
     </programme>
-    <programme start="20250414230000 +0000" stop="20250415000000 +0000" channel="SkySp Tennis HD">
-        <title>Venus v Serena 2001</title>
+    <programme start="20250415001501 +0000" stop="20250415010001 +0000" channel="SkySp Tennis HD">
+        <title>WTA Miami 2025 Review</title>
     </programme>
-    <programme start="20250415000000 +0000" stop="20250415010000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250415010001 +0000" stop="20250415020001 +0000" channel="SkySp Tennis HD">
         <title>Sampras v Agassi 2002</title>
     </programme>
-    <programme start="20250415010000 +0000" stop="20250415011500 +0000" channel="SkySp Tennis HD">
-        <title>Bitesize Tennis Classics</title>
-    </programme>
-    <programme start="20250415011500 +0000" stop="20250415013000 +0000" channel="SkySp Tennis HD">
-        <title>Bitesize Tennis Classics</title>
-    </programme>
-    <programme start="20250415013000 +0000" stop="20250415014500 +0000" channel="SkySp Tennis HD">
-        <title>Billie Jean King: My Story</title>
-    </programme>
-    <programme start="20250415014500 +0000" stop="20250415020000 +0000" channel="SkySp Tennis HD">
-        <title>Martina Navratilova: Unstoppable</title>
-    </programme>
-    <programme start="20250415020000 +0000" stop="20250415030000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250415020001 +0000" stop="20250415030001 +0000" channel="SkySp Tennis HD">
         <title>ATP 2025 Season Final Hlts</title>
     </programme>
-    <programme start="20250415030000 +0000" stop="20250415040000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250415030001 +0000" stop="20250415040001 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Bogota</title>
     </programme>
-    <programme start="20250415040000 +0000" stop="20250415050000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250415040001 +0000" stop="20250415050000 +0000" channel="SkySp Tennis HD">
         <title>ATP 2025 Season Final Hlts</title>
     </programme>
     <programme start="20250415050000 +0000" stop="20250415070000 +0000" channel="SkySp Tennis HD">

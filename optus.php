@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250414213000 +0000" stop="20250414223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250414233000 +0000" stop="20250415003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Gamba v Kyoto</title>
+    </programme>
+    <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Cerezo v Machida</title>
     </programme>
 </tv>
