@@ -26698,13 +26698,13 @@
         <title>News Bulletin</title>
     </programme>
     <programme start="20250414090000 +0000" stop="20250414100000 +0000" channel="HUM Masala">
-        <title>Phir Wohi Mohabbat</title>
+        <title>Alvida</title>
     </programme>
     <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="HUM Masala">
         <title>Masala Mornings</title>
     </programme>
     <programme start="20250414110000 +0000" stop="20250414113000 +0000" channel="HUM Masala">
-        <title>Safar-e-Japan</title>
+        <title>Samina Ka Kitchen</title>
     </programme>
     <programme start="20250414113000 +0000" stop="20250414120000 +0000" channel="HUM Masala">
         <title>Sanwari</title>
@@ -26734,7 +26734,7 @@
         <title>Fusion Food with Saad</title>
     </programme>
     <programme start="20250414160000 +0000" stop="20250414170000 +0000" channel="HUM Masala">
-        <title>Phir Wohi Mohabbat</title>
+        <title>Alvida</title>
     </programme>
     <programme start="20250414170000 +0000" stop="20250414180000 +0000" channel="HUM Masala">
         <title>Ishq Murshid</title>
@@ -26743,7 +26743,7 @@
         <title>Sanwari</title>
     </programme>
     <programme start="20250414183000 +0000" stop="20250414190100 +0000" channel="HUM Masala">
-        <title>Safar-e-Japan</title>
+        <title>Samina Ka Kitchen</title>
     </programme>
     <programme start="20250414190100 +0000" stop="20250414190600 +0000" channel="HUM Masala">
         <title>Azan-e-Maghrib</title>
@@ -27277,7 +27277,7 @@
         <title>Mann Marzi</title>
     </programme>
     <programme start="20250414060000 +0000" stop="20250414070000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+        <title>Kathputli</title>
     </programme>
     <programme start="20250414070000 +0000" stop="20250414080000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
@@ -27291,11 +27291,11 @@
     <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="GEO TV">
         <title>Dayyan</title>
     </programme>
-    <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+    <programme start="20250414110000 +0000" stop="20250414113000 +0000" channel="GEO TV">
+        <title>Kathputli</title>
     </programme>
-    <programme start="20250414120000 +0000" stop="20250414123000 +0000" channel="GEO TV">
-        <title>Mann Mast Malang</title>
+    <programme start="20250414113000 +0000" stop="20250414123000 +0000" channel="GEO TV">
+        <title>Kathputli</title>
     </programme>
     <programme start="20250414123000 +0000" stop="20250414133000 +0000" channel="GEO TV">
         <title>Mann Mast Malang</title>
@@ -27306,20 +27306,20 @@
     <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="GEO TV">
         <title>Mann Marzi</title>
     </programme>
-    <programme start="20250414150000 +0000" stop="20250414160000 +0000" channel="GEO TV">
-        <title>Mehshar</title>
-    </programme>
-    <programme start="20250414160000 +0000" stop="20250414170000 +0000" channel="GEO TV">
-        <title>Mehshar</title>
-    </programme>
-    <programme start="20250414170000 +0000" stop="20250414173000 +0000" channel="GEO TV">
+    <programme start="20250414150000 +0000" stop="20250414153000 +0000" channel="GEO TV">
         <title>Kurulus Osman</title>
+    </programme>
+    <programme start="20250414153000 +0000" stop="20250414163000 +0000" channel="GEO TV">
+        <title>Dayyan</title>
+    </programme>
+    <programme start="20250414163000 +0000" stop="20250414173000 +0000" channel="GEO TV">
+        <title>Mann Mast Malang</title>
     </programme>
     <programme start="20250414173000 +0000" stop="20250414180000 +0000" channel="GEO TV">
         <title>Kurulus Osman</title>
     </programme>
     <programme start="20250414180000 +0000" stop="20250414190000 +0000" channel="GEO TV">
-        <title>Bajjo</title>
+        <title>Kathputli</title>
     </programme>
     <programme start="20250414190000 +0000" stop="20250414200000 +0000" channel="GEO TV">
         <title>Dayyan</title>

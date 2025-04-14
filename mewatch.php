@@ -123,16 +123,16 @@
     <programme start="20250414093013 +0000" stop="20250414103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 7</title>
     </programme>
-    <programme start="20250414103000 +0000" stop="20250414110034 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414103000 +0000" stop="20250414110030 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 132</title>
     </programme>
-    <programme start="20250414110034 +0000" stop="20250414113014 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414110030 +0000" stop="20250414113019 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7960</title>
     </programme>
-    <programme start="20250414113014 +0000" stop="20250414123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414113019 +0000" stop="20250414123005 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 3</title>
     </programme>
-    <programme start="20250414123000 +0000" stop="20250414130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250414123005 +0000" stop="20250414130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 53</title>
     </programme>
     <programme start="20250414130000 +0000" stop="20250414132959 +0000" channel="Channel 5.mewatch">
@@ -429,11 +429,8 @@
     <programme start="20250414143000 +0000" stop="20250414153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 7</title>
     </programme>
-    <programme start="20250414153000 +0000" stop="20250414160000 +0000" channel="Suria.mewatch">
+    <programme start="20250414153000 +0000" stop="20250415010000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250414160000 +0000" stop="20250415010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250413135958 +0000" stop="20250413173000 +0000" channel="Vasantham.mewatch">
         <title>Meiyazhagan</title>
