@@ -14077,7 +14077,7 @@
         <title>MUW Highlights: Aston Villa v United</title>
     </programme>
     <programme start="20250414180000 +0000" stop="20250414183000 +0000" channel="MUTV HD">
-        <title>MUW Highlights: United v Everton</title>
+        <title>MUW Highlights: Man City v United</title>
     </programme>
     <programme start="20250414183000 +0000" stop="20250414190000 +0000" channel="MUTV HD">
         <title>U18s: Utd v Leeds 24/25</title>
@@ -14089,7 +14089,7 @@
         <title>All The Goals: Giggs</title>
     </programme>
     <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="MUTV HD">
-        <title>PL Match: v Newcastle 24/25 (A)</title>
+        <title>All The Goals: Rooney</title>
     </programme>
     <programme start="20250413190000 +0000" stop="20250413230000 +0000" channel="Premier 1 HD">
         <title>Live NASCAR Cup: Bristol Motor Speedway</title>
@@ -14466,11 +14466,29 @@
     <programme start="20250413230000 +0000" stop="20250414050000 +0000" channel="SkySpBoxOffHD">
         <title>..programmes coming soon</title>
     </programme>
-    <programme start="20250414050000 +0000" stop="20250414110000 +0000" channel="SkySpBoxOffHD">
+    <programme start="20250414050000 +0000" stop="20250414100000 +0000" channel="SkySpBoxOffHD">
         <title>..programmes coming soon</title>
+    </programme>
+    <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="SkySpBoxOffHD">
+        <title>UHD Downtime</title>
     </programme>
     <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="SkySpBoxOffHD">
         <title>Eubank Jr v Benn</title>
+    </programme>
+    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="SkySpBoxOffHD">
+        <title>UHD Downtime</title>
+    </programme>
+    <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="SkySpBoxOffHD">
+        <title>Eubank Jr v Benn</title>
+    </programme>
+    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="SkySpBoxOffHD">
+        <title>UHD Downtime</title>
+    </programme>
+    <programme start="20250414150000 +0000" stop="20250414210000 +0000" channel="SkySpBoxOffHD">
+        <title>..programmes coming soon</title>
+    </programme>
+    <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="SkySpBoxOffHD">
+        <title>..programmes coming soon</title>
     </programme>
     <programme start="20250413213000 +0000" stop="20250413220000 +0000" channel="Sky News HD">
         <title>Press Preview</title>
@@ -24025,7 +24043,7 @@
         <title>Ideal Fashion</title>
     </programme>
     <programme start="20250414170000 +0000" stop="20250414180000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Garden Essentials with Peter</title>
     </programme>
     <programme start="20250414180000 +0000" stop="20250414190000 +0000" channel="Ideal World HD">
         <title>Ideal Lifestyle</title>
@@ -24037,10 +24055,10 @@
         <title>Pick of the Day</title>
     </programme>
     <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Gem Decor: Handcrafted ...</title>
     </programme>
     <programme start="20250414220000 +0000" stop="20250414230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Homesmart Tower Fan with Joanne</title>
     </programme>
     <programme start="20250413170000 +0000" stop="20250413230000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
