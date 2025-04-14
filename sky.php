@@ -26535,14 +26535,8 @@
     <programme start="20250415115500 +0000" stop="20250415121000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250415121000 +0000" stop="20250415122500 +0000" channel="MTA1 World HD">
+    <programme start="20250415121000 +0000" stop="20250415131500 +0000" channel="MTA1 World HD">
         <title>Apnay Des Mein</title>
-    </programme>
-    <programme start="20250415122500 +0000" stop="20250415131000 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
-    </programme>
-    <programme start="20250415131000 +0000" stop="20250415131500 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
     </programme>
     <programme start="20250415131500 +0000" stop="20250415141000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
@@ -26550,41 +26544,23 @@
     <programme start="20250415141000 +0000" stop="20250415142500 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250415142500 +0000" stop="20250415145000 +0000" channel="MTA1 World HD">
+    <programme start="20250415142500 +0000" stop="20250415150000 +0000" channel="MTA1 World HD">
         <title>Life Of Muhammad</title>
     </programme>
-    <programme start="20250415145000 +0000" stop="20250415150000 +0000" channel="MTA1 World HD">
+    <programme start="20250415150000 +0000" stop="20250415153500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Address To French Guests</title>
     </programme>
-    <programme start="20250415150000 +0000" stop="20250415152500 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Address To French Guests</title>
-    </programme>
-    <programme start="20250415152500 +0000" stop="20250415153500 +0000" channel="MTA1 World HD">
+    <programme start="20250415153500 +0000" stop="20250415160000 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250415153500 +0000" stop="20250415155000 +0000" channel="MTA1 World HD">
-        <title>Kudak</title>
-    </programme>
-    <programme start="20250415155000 +0000" stop="20250415160000 +0000" channel="MTA1 World HD">
+    <programme start="20250415160000 +0000" stop="20250415163000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
-    </programme>
-    <programme start="20250415160000 +0000" stop="20250415162000 +0000" channel="MTA1 World HD">
-        <title>Roundup</title>
-    </programme>
-    <programme start="20250415162000 +0000" stop="20250415163000 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Mulaqat With Khuddam</title>
     </programme>
     <programme start="20250415163000 +0000" stop="20250415170000 +0000" channel="MTA1 World HD">
         <title>Mind Body Spirit</title>
     </programme>
-    <programme start="20250415170000 +0000" stop="20250415172000 +0000" channel="MTA1 World HD">
+    <programme start="20250415170000 +0000" stop="20250415180000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Khuddam</title>
-    </programme>
-    <programme start="20250415172000 +0000" stop="20250415174500 +0000" channel="MTA1 World HD">
-        <title>Jamia Canada</title>
-    </programme>
-    <programme start="20250415174500 +0000" stop="20250415180000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250415180000 +0000" stop="20250415182000 +0000" channel="MTA1 World HD">
         <title>World News</title>
@@ -26604,17 +26580,11 @@
     <programme start="20250415203500 +0000" stop="20250415210500 +0000" channel="MTA1 World HD">
         <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250415210500 +0000" stop="20250415211000 +0000" channel="MTA1 World HD">
+    <programme start="20250415210500 +0000" stop="20250415213000 +0000" channel="MTA1 World HD">
         <title>Balance</title>
     </programme>
-    <programme start="20250415211000 +0000" stop="20250415213000 +0000" channel="MTA1 World HD">
-        <title>Jamia Canada</title>
-    </programme>
-    <programme start="20250415213000 +0000" stop="20250415214000 +0000" channel="MTA1 World HD">
+    <programme start="20250415213000 +0000" stop="20250415214500 +0000" channel="MTA1 World HD">
         <title>Art and Craft</title>
-    </programme>
-    <programme start="20250415214000 +0000" stop="20250415214500 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
     </programme>
     <programme start="20250415214500 +0000" stop="20250415224500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
