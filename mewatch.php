@@ -348,28 +348,28 @@
     <programme start="20250414100047 +0000" stop="20250414110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 20</title>
     </programme>
-    <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414110000 +0000" stop="20250414115825 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 25</title>
     </programme>
-    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414115825 +0000" stop="20250414125956 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 26</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414133000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414125956 +0000" stop="20250414132921 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 12</title>
     </programme>
-    <programme start="20250414133000 +0000" stop="20250414140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414132921 +0000" stop="20250414140015 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 12</title>
     </programme>
-    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414140015 +0000" stop="20250414150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 22</title>
     </programme>
-    <programme start="20250414150000 +0000" stop="20250414153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414150000 +0000" stop="20250414152942 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250414153000 +0000" stop="20250414160000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414152942 +0000" stop="20250414155908 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 12</title>
     </programme>
-    <programme start="20250414160000 +0000" stop="20250414163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250414155908 +0000" stop="20250414162839 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 12</title>
     </programme>
     <programme start="20250413153000 +0000" stop="20250414010000 +0000" channel="Suria.mewatch">
@@ -414,19 +414,19 @@
     <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 7</title>
     </programme>
-    <programme start="20250414120000 +0000" stop="20250414123000 +0000" channel="Suria.mewatch">
+    <programme start="20250414120000 +0000" stop="20250414123014 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250414123000 +0000" stop="20250414130000 +0000" channel="Suria.mewatch">
+    <programme start="20250414123014 +0000" stop="20250414130015 +0000" channel="Suria.mewatch">
         <title>Kembara Chef Wan Laluan Sutera - EP 9</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414133000 +0000" channel="Suria.mewatch">
+    <programme start="20250414130015 +0000" stop="20250414133011 +0000" channel="Suria.mewatch">
         <title>Cheap Thrills - EP 13</title>
     </programme>
-    <programme start="20250414133000 +0000" stop="20250414143000 +0000" channel="Suria.mewatch">
+    <programme start="20250414133011 +0000" stop="20250414143008 +0000" channel="Suria.mewatch">
         <title>ORIGENE - EP 4</title>
     </programme>
-    <programme start="20250414143000 +0000" stop="20250414153000 +0000" channel="Suria.mewatch">
+    <programme start="20250414143008 +0000" stop="20250414153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 7</title>
     </programme>
     <programme start="20250414153000 +0000" stop="20250415010000 +0000" channel="Suria.mewatch">
@@ -480,10 +480,10 @@
     <programme start="20250414123000 +0000" stop="20250414130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250414130000 +0000" stop="20250414140001 +0000" channel="Vasantham.mewatch">
         <title>Vasanthathin Kondattam Season 3 - EP 6</title>
     </programme>
-    <programme start="20250414140000 +0000" stop="20250414170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250414140001 +0000" stop="20250414170000 +0000" channel="Vasantham.mewatch">
         <title>Pathu Thalai</title>
     </programme>
     <programme start="20250413160000 +0000" stop="20250413160305 +0000" channel="CNA.mewatch">
@@ -552,25 +552,25 @@
     <programme start="20250414100001 +0000" stop="20250414110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250414110000 +0000" stop="20250414113000 +0000" channel="CNA.mewatch">
+    <programme start="20250414110000 +0000" stop="20250414113003 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 2</title>
     </programme>
-    <programme start="20250414113000 +0000" stop="20250414120000 +0000" channel="CNA.mewatch">
+    <programme start="20250414113003 +0000" stop="20250414120000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 9</title>
     </programme>
-    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="CNA.mewatch">
+    <programme start="20250414120000 +0000" stop="20250414130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="CNA.mewatch">
+    <programme start="20250414130001 +0000" stop="20250414140000 +0000" channel="CNA.mewatch">
         <title>Echoes Of Change - EP 1</title>
     </programme>
-    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="CNA.mewatch">
+    <programme start="20250414140000 +0000" stop="20250414150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250414150000 +0000" stop="20250414160000 +0000" channel="CNA.mewatch">
+    <programme start="20250414150105 +0000" stop="20250414155959 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 2</title>
     </programme>
-    <programme start="20250414160000 +0000" stop="20250414160300 +0000" channel="CNA.mewatch">
+    <programme start="20250414155959 +0000" stop="20250414160324 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250413160000 +0000" stop="20250414160000 +0000" channel="spl01.mewatch">
