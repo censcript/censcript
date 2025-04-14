@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250414183000 +0000" stop="20250414213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v Fulham</title>
-    </programme>
     <programme start="20250414213000 +0000" stop="20250414223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Final Word</title>
     </programme>
@@ -287,6 +284,9 @@
     </programme>
     <programme start="20250427193000 +0000" stop="20250427210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250427200000 +0000" stop="20250427223000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Portland Thorns FC v Racing Louisville FC</title>
     </programme>
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
