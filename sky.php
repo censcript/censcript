@@ -14466,29 +14466,11 @@
     <programme start="20250413230000 +0000" stop="20250414050000 +0000" channel="SkySpBoxOffHD">
         <title>..programmes coming soon</title>
     </programme>
-    <programme start="20250414050000 +0000" stop="20250414100000 +0000" channel="SkySpBoxOffHD">
+    <programme start="20250414050000 +0000" stop="20250414110000 +0000" channel="SkySpBoxOffHD">
         <title>..programmes coming soon</title>
-    </programme>
-    <programme start="20250414100000 +0000" stop="20250414110000 +0000" channel="SkySpBoxOffHD">
-        <title>HD Downtime</title>
     </programme>
     <programme start="20250414110000 +0000" stop="20250414120000 +0000" channel="SkySpBoxOffHD">
         <title>Eubank Jr v Benn</title>
-    </programme>
-    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="SkySpBoxOffHD">
-        <title>HD Downtime</title>
-    </programme>
-    <programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="SkySpBoxOffHD">
-        <title>Eubank Jr v Benn</title>
-    </programme>
-    <programme start="20250414140000 +0000" stop="20250414150000 +0000" channel="SkySpBoxOffHD">
-        <title>HD Downtime</title>
-    </programme>
-    <programme start="20250414150000 +0000" stop="20250414210000 +0000" channel="SkySpBoxOffHD">
-        <title>..programmes coming soon</title>
-    </programme>
-    <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="SkySpBoxOffHD">
-        <title>..programmes coming soon</title>
     </programme>
     <programme start="20250413213000 +0000" stop="20250413220000 +0000" channel="Sky News HD">
         <title>Press Preview</title>
@@ -28674,20 +28656,11 @@
     <programme start="20250414103000 +0000" stop="20250414120000 +0000" channel="Sangat">
         <title>Sukhmani Sahib</title>
     </programme>
-    <programme start="20250414120000 +0000" stop="20250414123000 +0000" channel="Sangat">
+    <programme start="20250414120000 +0000" stop="20250414130000 +0000" channel="Sangat">
         <title>Kirtan ras</title>
     </programme>
-    <programme start="20250414123000 +0000" stop="20250414130000 +0000" channel="Sangat">
-        <title>Punjabi Rasoi</title>
-    </programme>
-    <programme start="20250414130000 +0000" stop="20250414133000 +0000" channel="Sangat">
+    <programme start="20250414130000 +0000" stop="20250414150000 +0000" channel="Sangat">
         <title>Sahit de Sang</title>
-    </programme>
-    <programme start="20250414133000 +0000" stop="20250414143000 +0000" channel="Sangat">
-        <title>Gurmat Vichar</title>
-    </programme>
-    <programme start="20250414143000 +0000" stop="20250414150000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
     </programme>
     <programme start="20250414150000 +0000" stop="20250414153000 +0000" channel="Sangat">
         <title>Dada Ji Diyan Battan</title>
@@ -28701,14 +28674,8 @@
     <programme start="20250414170000 +0000" stop="20250414173000 +0000" channel="Sangat">
         <title>Gurmat Sewa Jatha's Pakistan Yatra</title>
     </programme>
-    <programme start="20250414173000 +0000" stop="20250414180000 +0000" channel="Sangat">
+    <programme start="20250414173000 +0000" stop="20250414190000 +0000" channel="Sangat">
         <title>Sangat Matrimonial</title>
-    </programme>
-    <programme start="20250414180000 +0000" stop="20250414183000 +0000" channel="Sangat">
-        <title>Dharat De Jaaye</title>
-    </programme>
-    <programme start="20250414183000 +0000" stop="20250414190000 +0000" channel="Sangat">
-        <title>Walk for Change</title>
     </programme>
     <programme start="20250414190000 +0000" stop="20250414193000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -37164,11 +37131,17 @@
     <programme start="20250414143000 +0000" stop="20250414143230 +0000" channel="BBC World Sv">
         <title>BBC News Summary</title>
     </programme>
-    <programme start="20250414143230 +0000" stop="20250414150600 +0000" channel="BBC World Sv">
+    <programme start="20250414143230 +0000" stop="20250414150000 +0000" channel="BBC World Sv">
         <title>World Business Report</title>
     </programme>
-    <programme start="20250414150600 +0000" stop="20250414160600 +0000" channel="BBC World Sv">
+    <programme start="20250414150000 +0000" stop="20250414150600 +0000" channel="BBC World Sv">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250414150600 +0000" stop="20250414160000 +0000" channel="BBC World Sv">
         <title>BBC OS</title>
+    </programme>
+    <programme start="20250414160000 +0000" stop="20250414160600 +0000" channel="BBC World Sv">
+        <title>BBC News</title>
     </programme>
     <programme start="20250414160600 +0000" stop="20250414170000 +0000" channel="BBC World Sv">
         <title>BBC OS</title>
