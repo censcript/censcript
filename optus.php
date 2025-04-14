@@ -168,6 +168,9 @@
     <programme start="20250422183000 +0000" stop="20250422213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Aston Villa</title>
     </programme>
+    <programme start="20250423023000 +0000" stop="20250423050000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Portland Thorns FC v Gotham FC</title>
+    </programme>
     <programme start="20250423102000 +0000" stop="20250423124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Anyang v Ulsan</title>
     </programme>
@@ -207,6 +210,12 @@
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250426000000 +0000" stop="20250426023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Utah Royals FC</title>
+    </programme>
+    <programme start="20250426000000 +0000" stop="20250426023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Orlando Pride v Angel City FC</title>
+    </programme>
     <programme start="20250426045000 +0000" stop="20250426071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Suwon FC v Jeonbuk</title>
     </programme>
@@ -239,6 +248,18 @@
     </programme>
     <programme start="20250426163000 +0000" stop="20250426173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250426170000 +0000" stop="20250426193000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Washington Spirit v Gotham FC</title>
+    </programme>
+    <programme start="20250426230000 +0000" stop="20250427013000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - North Carolina Courage v Kansas City Current</title>
+    </programme>
+    <programme start="20250426233000 +0000" stop="20250427020000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Chicago Stars v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250427020000 +0000" stop="20250427043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Bay FC v Seattle Reign</title>
     </programme>
     <programme start="20250427045000 +0000" stop="20250427071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Pohang v Seoul</title>
@@ -278,26 +299,5 @@
     </programme>
     <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Gamba v Kyoto</title>
-    </programme>
-    <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Cerezo v Machida</title>
-    </programme>
-    <programme start="20250430165500 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Aston Villa v Arsenal</title>
-    </programme>
-    <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Chelsea</title>
-    </programme>
-    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Bayern Munich v Werder Bremen</title>
-    </programme>
-    <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Nottingham Forest v Brentford</title>
-    </programme>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Gimcheon</title>
-    </programme>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Gwangju</title>
     </programme>
 </tv>
