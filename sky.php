@@ -17470,7 +17470,7 @@
         <title>The Lord's Challenge</title>
     </programme>
     <programme start="20250415200000 +0000" stop="20250415210000 +0000" channel="revelation">
-        <title>Behind the Headlines</title>
+        <title>Behind The Headlines</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415213000 +0000" channel="revelation">
         <title>Face to Face</title>
