@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250415080000 +0000" stop="20250415090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Art of...Recruitment</title>
-    </programme>
     <programme start="20250415143000 +0000" stop="20250415150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind: Alan Shearer - My Newcastle story</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
+    </programme>
+    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Bayern Munich v Werder Bremen</title>
     </programme>
 </tv>
