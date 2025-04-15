@@ -570,16 +570,16 @@
     <programme start="20250415120000 +0000" stop="20250415130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250415130000 +0000" stop="20250415140000 +0000" channel="CNA.mewatch">
+    <programme start="20250415130000 +0000" stop="20250415135959 +0000" channel="CNA.mewatch">
         <title>Fact Vs. Fiction - EP 1</title>
     </programme>
-    <programme start="20250415140000 +0000" stop="20250415150000 +0000" channel="CNA.mewatch">
+    <programme start="20250415135959 +0000" stop="20250415150104 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250415150000 +0000" stop="20250415160000 +0000" channel="CNA.mewatch">
+    <programme start="20250415150104 +0000" stop="20250415160000 +0000" channel="CNA.mewatch">
         <title>Echoes Of Change - EP 1</title>
     </programme>
-    <programme start="20250415160000 +0000" stop="20250415160300 +0000" channel="CNA.mewatch">
+    <programme start="20250415160000 +0000" stop="20250415160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250414160000 +0000" stop="20250415160000 +0000" channel="spl01.mewatch">
