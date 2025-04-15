@@ -29490,10 +29490,10 @@
     <programme start="20250416180000 +0000" stop="20250416190200 +0000" channel="IQRA Bangla">
         <title>Dosh Diganta</title>
     </programme>
-    <programme start="20250416190200 +0000" stop="20250416190700 +0000" channel="IQRA Bangla">
+    <programme start="20250416190200 +0000" stop="20250416190600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250416190700 +0000" stop="20250416193000 +0000" channel="IQRA Bangla">
+    <programme start="20250416190600 +0000" stop="20250416193000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
     <programme start="20250416193000 +0000" stop="20250416200000 +0000" channel="IQRA Bangla">
@@ -29971,15 +29971,15 @@
         <title>Akhsaru Tafaseer</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416120000 +0000" channel="iON TV">
-        <title>Islamic Discussion</title>
+        <title>Gardening and Beyond BGS</title>
     </programme>
-    <programme start="20250416120000 +0000" stop="20250416120900 +0000" channel="iON TV">
+    <programme start="20250416120000 +0000" stop="20250416120500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250416120900 +0000" stop="20250416121400 +0000" channel="iON TV">
+    <programme start="20250416120500 +0000" stop="20250416121000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250416121400 +0000" stop="20250416123000 +0000" channel="iON TV">
+    <programme start="20250416121000 +0000" stop="20250416123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="iON TV">
@@ -29989,55 +29989,49 @@
         <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+        <title>Rajniti</title>
     </programme>
-    <programme start="20250416150000 +0000" stop="20250416163300 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+    <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="iON TV">
+        <title>Rajniti</title>
     </programme>
-    <programme start="20250416163300 +0000" stop="20250416163800 +0000" channel="iON TV">
+    <programme start="20250416160000 +0000" stop="20250416165500 +0000" channel="iON TV">
+        <title>Islamic Discussion</title>
+    </programme>
+    <programme start="20250416165500 +0000" stop="20250416170000 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250416163800 +0000" stop="20250416170000 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="iON TV">
+        <title>Cine Hour</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416173400 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+    <programme start="20250416180000 +0000" stop="20250416183000 +0000" channel="iON TV">
+        <title>News Room</title>
     </programme>
-    <programme start="20250416173400 +0000" stop="20250416175500 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
+    <programme start="20250416183000 +0000" stop="20250416190300 +0000" channel="iON TV">
+        <title>News Room</title>
     </programme>
-    <programme start="20250416175500 +0000" stop="20250416182900 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
-    </programme>
-    <programme start="20250416182900 +0000" stop="20250416183900 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
-    </programme>
-    <programme start="20250416183900 +0000" stop="20250416184400 +0000" channel="iON TV">
+    <programme start="20250416190300 +0000" stop="20250416190800 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250416184400 +0000" stop="20250416190000 +0000" channel="iON TV">
-        <title>iON Eid Anondo</title>
-    </programme>
-    <programme start="20250416190000 +0000" stop="20250416195600 +0000" channel="iON TV">
+    <programme start="20250416190800 +0000" stop="20250416200000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250416195600 +0000" stop="20250416200100 +0000" channel="iON TV">
+    <programme start="20250416200000 +0000" stop="20250416201700 +0000" channel="iON TV">
+        <title>News 24</title>
+    </programme>
+    <programme start="20250416201700 +0000" stop="20250416202200 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250416200100 +0000" stop="20250416201800 +0000" channel="iON TV">
-        <title>Eid Mubarak</title>
-    </programme>
-    <programme start="20250416201800 +0000" stop="20250416203000 +0000" channel="iON TV">
-        <title>Eid Mubarak</title>
+    <programme start="20250416202200 +0000" stop="20250416203000 +0000" channel="iON TV">
+        <title>News 24</title>
     </programme>
     <programme start="20250416203000 +0000" stop="20250416210000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Travel Show</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250415213000 +0000" stop="20250415220000 +0000" channel="Deen TV">
         <title>Deener Alo</title>
