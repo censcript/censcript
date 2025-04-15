@@ -28287,8 +28287,59 @@
     <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250414190100 +0000" stop="20250415190000 +0000" channel="ARY Digital">
-        <title>Azan-e-Maghrib</title>
+    <programme start="20250415050000 +0000" stop="20250415053000 +0000" channel="ARY Digital">
+        <title>This is ARY Digital</title>
+    </programme>
+    <programme start="20250415053000 +0000" stop="20250415060000 +0000" channel="ARY Digital">
+        <title>This is ARY Digital</title>
+    </programme>
+    <programme start="20250415060000 +0000" stop="20250415070000 +0000" channel="ARY Digital">
+        <title>Shikwa</title>
+    </programme>
+    <programme start="20250415070000 +0000" stop="20250415080000 +0000" channel="ARY Digital">
+        <title>Parwarish</title>
+    </programme>
+    <programme start="20250415080000 +0000" stop="20250415100000 +0000" channel="ARY Digital">
+        <title>Good Morning Pakistan</title>
+    </programme>
+    <programme start="20250415100000 +0000" stop="20250415103000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250415103000 +0000" stop="20250415120000 +0000" channel="ARY Digital">
+        <title>Mujhe Pyaar Hua Tha</title>
+    </programme>
+    <programme start="20250415120000 +0000" stop="20250415120600 +0000" channel="ARY Digital">
+        <title>Parwarish</title>
+    </programme>
+    <programme start="20250415120600 +0000" stop="20250415121200 +0000" channel="ARY Digital">
+        <title>Azan-e-Zuhr</title>
+    </programme>
+    <programme start="20250415121200 +0000" stop="20250415130000 +0000" channel="ARY Digital">
+        <title>Parwarish</title>
+    </programme>
+    <programme start="20250415130000 +0000" stop="20250415140000 +0000" channel="ARY Digital">
+        <title>Naqaab</title>
+    </programme>
+    <programme start="20250415140000 +0000" stop="20250415150000 +0000" channel="ARY Digital">
+        <title>Shikwa</title>
+    </programme>
+    <programme start="20250415150000 +0000" stop="20250415155000 +0000" channel="ARY Digital">
+        <title>Ae Dil</title>
+    </programme>
+    <programme start="20250415155000 +0000" stop="20250415155600 +0000" channel="ARY Digital">
+        <title>Azan-e-Asar</title>
+    </programme>
+    <programme start="20250415155600 +0000" stop="20250415160000 +0000" channel="ARY Digital">
+        <title>Ae Dil</title>
+    </programme>
+    <programme start="20250415160000 +0000" stop="20250415170000 +0000" channel="ARY Digital">
+        <title>Parwarish</title>
+    </programme>
+    <programme start="20250415170000 +0000" stop="20250415180000 +0000" channel="ARY Digital">
+        <title>Bulbulay</title>
+    </programme>
+    <programme start="20250415180000 +0000" stop="20250415190000 +0000" channel="ARY Digital">
+        <title>Naqaab</title>
     </programme>
     <programme start="20250415190000 +0000" stop="20250415190600 +0000" channel="ARY Digital">
         <title>Azan-e-Maghrib</title>
