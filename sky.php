@@ -23698,31 +23698,31 @@
         <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250415080000 +0000" stop="20250415090000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Fast Pace Wheel</title>
     </programme>
     <programme start="20250415090000 +0000" stop="20250415100000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Grandidierite</title>
     </programme>
     <programme start="20250415100000 +0000" stop="20250415110000 +0000" channel="Gems TV">
-        <title>Great Value Jewellery</title>
+        <title>Kimbie Home: Easter Bunny</title>
     </programme>
     <programme start="20250415110000 +0000" stop="20250415120000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Type A Lavender Jadeite with Dave Troth</title>
     </programme>
     <programme start="20250415120000 +0000" stop="20250415130000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Golden Silk Quartzite Jade with Dave Troth</title>
     </programme>
     <programme start="20250415130000 +0000" stop="20250415140000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Glenn Lehrer: Eye of Consciousness</title>
     </programme>
     <programme start="20250415140000 +0000" stop="20250415150000 +0000" channel="Gems TV">
         <title>The Daily Discount</title>
     </programme>
     <programme start="20250415150000 +0000" stop="20250415160000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Olmec Jadeite</title>
     </programme>
     <programme start="20250415160000 +0000" stop="20250415170000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Burmese Amber</title>
     </programme>
     <programme start="20250415170000 +0000" stop="20250415180000 +0000" channel="Gems TV">
         <title>Beauty Tuesday with Kati Elliott</title>
@@ -23731,10 +23731,10 @@
         <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250415190000 +0000" stop="20250415200000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Akoya Pearls with Dave Troth</title>
     </programme>
     <programme start="20250415200000 +0000" stop="20250415210000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Bi-Colour Jadeite</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415220000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>

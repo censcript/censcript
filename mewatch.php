@@ -252,19 +252,19 @@
     <programme start="20250415092926 +0000" stop="20250415103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 637</title>
     </programme>
-    <programme start="20250415103000 +0000" stop="20250415113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250415103000 +0000" stop="20250415112955 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 11</title>
     </programme>
-    <programme start="20250415113000 +0000" stop="20250415115941 +0000" channel="Channel 8.mewatch">
+    <programme start="20250415112955 +0000" stop="20250415115936 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 12</title>
     </programme>
-    <programme start="20250415115941 +0000" stop="20250415122947 +0000" channel="Channel 8.mewatch">
+    <programme start="20250415115936 +0000" stop="20250415122942 +0000" channel="Channel 8.mewatch">
         <title>Say It Right! S2 - EP 10</title>
     </programme>
-    <programme start="20250415122947 +0000" stop="20250415130017 +0000" channel="Channel 8.mewatch">
+    <programme start="20250415122942 +0000" stop="20250415130012 +0000" channel="Channel 8.mewatch">
         <title>Tuesday Report : Shophouses Through the Ages - EP 5</title>
     </programme>
-    <programme start="20250415130017 +0000" stop="20250415140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250415130012 +0000" stop="20250415140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 20</title>
     </programme>
     <programme start="20250415140000 +0000" stop="20250415143059 +0000" channel="Channel 8.mewatch">
