@@ -597,56 +597,128 @@
     <programme start="20250414120000 +0000" stop="20250414210000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies!</title>
     </programme>
-    <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250414162000 +0000" stop="20250414170000 +0000" channel="now-80s.mewatch">
+        <title>1980 Unleashed!</title>
     </programme>
-    <programme start="20250414220000 +0000" stop="20250414230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250414170000 +0000" stop="20250414190000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1980</title>
     </programme>
-    <programme start="20250414230000 +0000" stop="20250415000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250414190000 +0000" stop="20250414194500 +0000" channel="now-80s.mewatch">
+        <title>1980&#039;s One-Hit-Wonders! Top 10</title>
     </programme>
-    <programme start="20250415000000 +0000" stop="20250415040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250414194500 +0000" stop="20250414200000 +0000" channel="now-80s.mewatch">
+        <title>1980 Unleashed!</title>
     </programme>
-    <programme start="20250415040000 +0000" stop="20250415050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250414200000 +0000" stop="20250414220000 +0000" channel="now-80s.mewatch">
+        <title>Gary Davies: 25 Stadium Anthems!</title>
     </programme>
-    <programme start="20250415050000 +0000" stop="20250415100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250414220000 +0000" stop="20250414231500 +0000" channel="now-80s.mewatch">
+        <title>Every Video- Queen&#039;s Greatest Hits</title>
     </programme>
-    <programme start="20250415100000 +0000" stop="20250415110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250414231500 +0000" stop="20250415000000 +0000" channel="now-80s.mewatch">
+        <title>How Rock Shook The World!</title>
     </programme>
-    <programme start="20250415110000 +0000" stop="20250415160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250415000000 +0000" stop="20250415020500 +0000" channel="now-80s.mewatch">
+        <title>It Takes Two Baby! Top 25</title>
     </programme>
-    <programme start="20250415160000 +0000" stop="20250415210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250415020500 +0000" stop="20250415030000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250415030000 +0000" stop="20250415050000 +0000" channel="now-80s.mewatch">
+        <title>Steps&#039; 25 Dance Moves Of The 80s!</title>
+    </programme>
+    <programme start="20250415050000 +0000" stop="20250415070000 +0000" channel="now-80s.mewatch">
+        <title>Karaoke For Your Kids! Top 25</title>
+    </programme>
+    <programme start="20250415070000 +0000" stop="20250415083000 +0000" channel="now-80s.mewatch">
+        <title>The Opening Track From Every Now!</title>
+    </programme>
+    <programme start="20250415083000 +0000" stop="20250415090000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed!</title>
+    </programme>
+    <programme start="20250415090000 +0000" stop="20250415093000 +0000" channel="now-80s.mewatch">
+        <title>David Bowie&#039;s Top 10s: 1980-1989</title>
+    </programme>
+    <programme start="20250415093000 +0000" stop="20250415103000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1980</title>
+    </programme>
+    <programme start="20250415103000 +0000" stop="20250415130000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1981</title>
+    </programme>
+    <programme start="20250415130000 +0000" stop="20250415134000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s One-Hit-Wonders! Top 10</title>
+    </programme>
+    <programme start="20250415134000 +0000" stop="20250415140000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed!</title>
+    </programme>
+    <programme start="20250415140000 +0000" stop="20250415163500 +0000" channel="now-80s.mewatch">
+        <title>Toyah&#039;s Sack The Stylist?! Top 30</title>
     </programme>
     <programme start="20250414100000 +0000" stop="20250414200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250414200000 +0000" stop="20250414210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250414160000 +0000" stop="20250414162500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1979</title>
     </programme>
-    <programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250414162500 +0000" stop="20250414182500 +0000" channel="now-70s.mewatch">
+        <title>The Best 1979 Party...Ever!</title>
     </programme>
-    <programme start="20250414220000 +0000" stop="20250414230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250414182500 +0000" stop="20250414192500 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1979!</title>
     </programme>
-    <programme start="20250414230000 +0000" stop="20250415000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250414192500 +0000" stop="20250414202500 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1979</title>
     </programme>
-    <programme start="20250415000000 +0000" stop="20250415090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250414202500 +0000" stop="20250414205000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1973</title>
     </programme>
-    <programme start="20250415090000 +0000" stop="20250415100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250414205000 +0000" stop="20250414210000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Night!</title>
     </programme>
-    <programme start="20250415100000 +0000" stop="20250415200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250414210000 +0000" stop="20250414230500 +0000" channel="now-70s.mewatch">
+        <title>Easter&#039;s Biggest Hits: 1970-1979</title>
+    </programme>
+    <programme start="20250414230500 +0000" stop="20250415000000 +0000" channel="now-70s.mewatch">
+        <title>Easter Holiday School Disco!</title>
+    </programme>
+    <programme start="20250415000000 +0000" stop="20250415025000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco!</title>
+    </programme>
+    <programme start="20250415025000 +0000" stop="20250415030000 +0000" channel="now-70s.mewatch">
+        <title>Easter Holiday School Disco!</title>
+    </programme>
+    <programme start="20250415030000 +0000" stop="20250415060000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40</title>
+    </programme>
+    <programme start="20250415060000 +0000" stop="20250415070000 +0000" channel="now-70s.mewatch">
+        <title>Abba Gold! 1974-1979</title>
+    </programme>
+    <programme start="20250415070000 +0000" stop="20250415093000 +0000" channel="now-70s.mewatch">
+        <title>Karaoke For The Kids! 1970-1979</title>
+    </programme>
+    <programme start="20250415093000 +0000" stop="20250415095500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1979</title>
+    </programme>
+    <programme start="20250415095500 +0000" stop="20250415103000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1979 Party...Ever!</title>
+    </programme>
+    <programme start="20250415103000 +0000" stop="20250415104500 +0000" channel="now-70s.mewatch">
+        <title>Karaoke For The Kids! 1970-1979</title>
+    </programme>
+    <programme start="20250415104500 +0000" stop="20250415110000 +0000" channel="now-70s.mewatch">
+        <title>Easter Holiday School Disco!</title>
+    </programme>
+    <programme start="20250415110000 +0000" stop="20250415130000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1978 Party...Ever!</title>
+    </programme>
+    <programme start="20250415130000 +0000" stop="20250415150500 +0000" channel="now-70s.mewatch">
+        <title>Party Hits &#039;76! With Dave Bartram</title>
+    </programme>
+    <programme start="20250415150500 +0000" stop="20250415160000 +0000" channel="now-70s.mewatch">
+        <title>1976 Unleashed!</title>
+    </programme>
+    <programme start="20250415160000 +0000" stop="20250415161000 +0000" channel="now-70s.mewatch">
+        <title>Karaoke For The Kids! 1970-1979</title>
     </programme>
     <programme start="20250414160000 +0000" stop="20250414220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
