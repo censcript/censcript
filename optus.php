@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250415143000 +0000" stop="20250415150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind: Alan Shearer - My Newcastle story</title>
-    </programme>
     <programme start="20250415182000 +0000" stop="20250415204000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v Leicester</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Bayern Munich v Werder Bremen</title>
+    </programme>
+    <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Nottingham Forest v Brentford</title>
     </programme>
 </tv>

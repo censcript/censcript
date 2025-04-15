@@ -26938,7 +26938,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250415110500 +0000" stop="20250415120000 +0000" channel="New Vision TV">
-        <title>Off The Record</title>
+        <title>Off The Record With Kashif Abbasi</title>
     </programme>
     <programme start="20250415120000 +0000" stop="20250415120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -26974,7 +26974,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250415170500 +0000" stop="20250415180000 +0000" channel="New Vision TV">
-        <title>Off The Record</title>
+        <title>Off The Record With Kashif Abbasi</title>
     </programme>
     <programme start="20250415180000 +0000" stop="20250415180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
