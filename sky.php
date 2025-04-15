@@ -27829,52 +27829,52 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250416070000 +0000" stop="20250416080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250416080000 +0000" stop="20250416090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250416090000 +0000" stop="20250416100000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
-    </programme>
-    <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
+    <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="Takbeer TV">
+        <title>Takbeer Special</title>
+    </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250416200000 +0000" stop="20250416210000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>The Best of Creations</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>The Best of Creations</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415220000 +0000" channel="HUM EUROPE">
         <title>Choti Si Zindagi</title>
