@@ -29914,13 +29914,13 @@
         <title>24 Ghonta</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415220000 +0000" channel="iON TV">
-        <title>Drama Time</title>
-    </programme>
-    <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
+    <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="iON TV">
+        <title>Rajniti</title>
+    </programme>
     <programme start="20250415230000 +0000" stop="20250416000000 +0000" channel="iON TV">
-        <title>Travel Show</title>
+        <title>Rajniti</title>
     </programme>
     <programme start="20250416000000 +0000" stop="20250416003000 +0000" channel="iON TV">
         <title>iON News Time</title>
@@ -38154,8 +38154,11 @@
     <programme start="20250416140000 +0000" stop="20250416153000 +0000" channel="RTÉ Radio 1">
         <title>The Ray D'Arcy Show</title>
     </programme>
-    <programme start="20250416153000 +0000" stop="20250416180000 +0000" channel="RTÉ Radio 1">
+    <programme start="20250416153000 +0000" stop="20250416173000 +0000" channel="RTÉ Radio 1">
         <title>Drivetime</title>
+    </programme>
+    <programme start="20250416173000 +0000" stop="20250416180000 +0000" channel="RTÉ Radio 1">
+        <title>Hot Mess</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="RTÉ Radio 1">
         <title>Arena</title>
