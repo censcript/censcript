@@ -198,7 +198,7 @@
     <programme start="20250426045000 +0000" stop="20250426071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Suwon FC v Jeonbuk</title>
     </programme>
-    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashiwa v Albirex</title>
     </programme>
     <programme start="20250426072000 +0000" stop="20250426094000 +0000" channel="Optus Sport 9.optus">
@@ -213,7 +213,7 @@
     <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Wolverhampton Wanderers v Leicester City</title>
     </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 6.optus">
         <title>Premier League - Southampton v Fulham</title>
     </programme>
     <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 3.optus">
@@ -261,6 +261,9 @@
     <programme start="20250427135000 +0000" stop="20250427161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Leicester v Manchester City</title>
     </programme>
+    <programme start="20250427152000 +0000" stop="20250427184000 +0000" channel="Optus Sport 2.optus">
+        <title>FA Cup - Nottingham Forest v Manchester City</title>
+    </programme>
     <programme start="20250427152000 +0000" stop="20250427183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Tottenham Hotspur</title>
     </programme>
@@ -272,9 +275,6 @@
     </programme>
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250428135000 +0000" stop="20250428171000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Nottingham Forest v Manchester City</title>
     </programme>
     <programme start="20250429040000 +0000" stop="20250429061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - FC Tokyo v Shimizu</title>
