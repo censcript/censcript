@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250414233000 +0000" stop="20250415003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250415010000 +0000" stop="20250415013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250415080000 +0000" stop="20250415090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Art of...Recruitment</title>
     </programme>
@@ -156,7 +150,7 @@
     <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Muzzy Izzet</title>
     </programme>
-    <programme start="20250422180000 +0000" stop="20250422183000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250422160000 +0000" stop="20250422163000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Match Officials Mic&#039;d Up</title>
     </programme>
     <programme start="20250422183000 +0000" stop="20250422213000 +0000" channel="Optus Sport 1.optus">
@@ -222,7 +216,7 @@
     <programme start="20250426103000 +0000" stop="20250426135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Everton</title>
     </programme>
-    <programme start="20250426135000 +0000" stop="20250426162000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250426135000 +0000" stop="20250426163000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
     <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 5.optus">
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Cerezo v Machida</title>
+    </programme>
+    <programme start="20250430165500 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
+        <title>Women&#039;s Super League - Aston Villa v Arsenal</title>
+    </programme>
+    <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
 </tv>

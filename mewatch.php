@@ -129,16 +129,16 @@
     <programme start="20250415093008 +0000" stop="20250415103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 8</title>
     </programme>
-    <programme start="20250415103000 +0000" stop="20250415110020 +0000" channel="Channel 5.mewatch">
+    <programme start="20250415103000 +0000" stop="20250415110105 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 133</title>
     </programme>
-    <programme start="20250415110020 +0000" stop="20250415113003 +0000" channel="Channel 5.mewatch">
+    <programme start="20250415110105 +0000" stop="20250415112935 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7973</title>
     </programme>
-    <programme start="20250415113003 +0000" stop="20250415123122 +0000" channel="Channel 5.mewatch">
+    <programme start="20250415112935 +0000" stop="20250415123053 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 7</title>
     </programme>
-    <programme start="20250415123122 +0000" stop="20250415130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250415123053 +0000" stop="20250415130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 54</title>
     </programme>
     <programme start="20250415130000 +0000" stop="20250415133000 +0000" channel="Channel 5.mewatch">
@@ -456,8 +456,11 @@
     <programme start="20250414140001 +0000" stop="20250414170000 +0000" channel="Vasantham.mewatch">
         <title>Pathu Thalai</title>
     </programme>
-    <programme start="20250414170000 +0000" stop="20250415010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250414170000 +0000" stop="20250414173016 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
+    </programme>
+    <programme start="20250414173016 +0000" stop="20250415010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250415010000 +0000" stop="20250415013001 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 37</title>

@@ -29191,10 +29191,10 @@
         <title>Somogro Bangladesh</title>
     </programme>
     <programme start="20250415160000 +0000" stop="20250415163000 +0000" channel="CHSTV">
-        <title>Independent News</title>
+        <title>Sylheter Khobor</title>
     </programme>
     <programme start="20250415163000 +0000" stop="20250415165000 +0000" channel="CHSTV">
-        <title>Sylheter Khobor</title>
+        <title>Orthoniti Sharadin</title>
     </programme>
     <programme start="20250415165000 +0000" stop="20250415170000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
