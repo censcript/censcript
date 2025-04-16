@@ -18094,10 +18094,10 @@
         <title>EWTN News Nightly</title>
     </programme>
     <programme start="20250416203000 +0000" stop="20250416213000 +0000" channel="EWTN Catholic">
-        <title>The Face of Mercy</title>
+        <title>Holy Week Retreat with Father Pablo Straub</title>
     </programme>
     <programme start="20250416213000 +0000" stop="20250416220000 +0000" channel="EWTN Catholic">
-        <title>Icons: Windows Onto Heaven</title>
+        <title>For God So Loved the World</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="EWTN Catholic">
         <title>Daily Mass</title>
@@ -23359,7 +23359,7 @@
         <title>Ben &amp; Holly's Little Kingdom</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415220000 +0000" channel="QVC HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>Marla Wynne's Wardrobe Heroes</title>
     </programme>
     <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="QVC HD">
         <title>Garden Deals from 20% off</title>
@@ -23419,10 +23419,10 @@
         <title>What's Cooking with Eilidh</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="QVC HD">
-        <title>Beauty Loves...</title>
+        <title>Beauty Finds with Estee Lauder</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="QVC HD">
-        <title>Nina Leonard</title>
+        <title>Nina Leonard New Spring Fashion</title>
     </programme>
     <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="QVC HD">
         <title>Beauty Insider with Alison Young</title>
@@ -23593,7 +23593,7 @@
         <title>Mega Day Prime Time Deals with Mark</title>
     </programme>
     <programme start="20250415210000 +0000" stop="20250415220000 +0000" channel="QVC Beauty">
-        <title>Alison Young on Beauty Trends</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -23656,7 +23656,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="QVC Beauty">
-        <title>Algenist Biotechnological Skincare</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="QVC Beauty">
         <title>Elemis Skin Therapies</title>
@@ -23707,7 +23707,7 @@
         <title>Izabel London Fashion</title>
     </programme>
     <programme start="20250416090000 +0000" stop="20250416100000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>Marla Wynne's Wardrobe Heroes</title>
     </programme>
     <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="QVC Style HD">
         <title>Diamonique Jewellery</title>
@@ -23716,7 +23716,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="QVC Style HD">
         <title>Nina Leonard</title>
@@ -24139,10 +24139,10 @@
         <title>Home Collection with Emma</title>
     </programme>
     <programme start="20250415230000 +0000" stop="20250416000000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal World Outlet with Emma</title>
     </programme>
     <programme start="20250416000000 +0000" stop="20250416010000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Ideal World Outlet with Emma</title>
     </programme>
     <programme start="20250416010000 +0000" stop="20250416020000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -24157,58 +24157,58 @@
         <title>Ideal World</title>
     </programme>
     <programme start="20250416050000 +0000" stop="20250416060000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Last in Stock Beauty with Lindsey</title>
     </programme>
     <programme start="20250416060000 +0000" stop="20250416070000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>TSB! Sankom Shapewear with Lindsey</title>
     </programme>
     <programme start="20250416070000 +0000" stop="20250416080000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Ideal World with Lindsey</title>
     </programme>
     <programme start="20250416080000 +0000" stop="20250416090000 +0000" channel="Ideal World HD">
-        <title>Ideal Beauty</title>
+        <title>Numii Everyday Greens with Lindsey</title>
     </programme>
     <programme start="20250416090000 +0000" stop="20250416100000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Garden Solar Lights with Yiannis</title>
     </programme>
     <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Lorem Cosmetics with Yiannis</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416120000 +0000" channel="Ideal World HD">
-        <title>Today's Star Buy</title>
+        <title>Stamps by Me: The Crafting Hour with Yiannis</title>
     </programme>
     <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Cleaning Deals with Yiannis</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Sketchers Sunglasses with Sally</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Ladies Diamante Tops with Sally</title>
     </programme>
     <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Big Bargain Deals with Sally</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="Ideal World HD">
-        <title>Ideal Fashion</title>
+        <title>Summer Essential Totes with Sally</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Father's Day Gifting with Mike</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Set of 5 - Smith &amp; Jones ...</title>
     </programme>
     <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Home &amp; Cleaning Deals with Mike</title>
     </programme>
     <programme start="20250416200000 +0000" stop="20250416210000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day</title>
+        <title>Pick of the Day with Mike</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Mix &amp; Match Accessories with Emma</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="Ideal World HD">
-        <title>Ideal Lifestyle</title>
+        <title>Glow &amp; Thrive: Beauty &amp; Wellness with Emma</title>
     </programme>
     <programme start="20250415170000 +0000" stop="20250415230000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
@@ -24313,76 +24313,76 @@
         <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250415230000 +0000" stop="20250416000000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250416000000 +0000" stop="20250416010000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250416010000 +0000" stop="20250416020000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250416020000 +0000" stop="20250416030000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250416030000 +0000" stop="20250416040000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Beauty Loves...</title>
     </programme>
     <programme start="20250416040000 +0000" stop="20250416050000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Lara Pearls Collection</title>
     </programme>
     <programme start="20250416050000 +0000" stop="20250416060000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Strive Footwear</title>
     </programme>
     <programme start="20250416060000 +0000" stop="20250416070000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Hayloft Plants</title>
     </programme>
     <programme start="20250416070000 +0000" stop="20250416080000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Stylish Sorbet Outdoor Space</title>
     </programme>
     <programme start="20250416080000 +0000" stop="20250416090000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250416090000 +0000" stop="20250416100000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Cozee Home</title>
     </programme>
     <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Spring Gardening Solutions</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416120000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>New Kitchen Must Haves</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Crocs Footwear</title>
     </programme>
     <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Up-to 50% off Kipling</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Garden Deals from 20% off</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250416200000 +0000" stop="20250416210000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Home Hacks</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="QVC Extra">
-        <title>Best of QVC Extra</title>
+        <title>Strive Footwear</title>
     </programme>
     <programme start="20250415213000 +0000" stop="20250415220000 +0000" channel="High Street TV 3">
         <title>Horsepower Duck</title>
