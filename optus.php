@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250416180000 +0000" stop="20250416210000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Newcastle United v Crystal Palace</title>
-    </programme>
     <programme start="20250417123000 +0000" stop="20250417130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Mikel Merino</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Racing Louisville FC</title>
     </programme>
 </tv>

@@ -27811,7 +27811,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250417000000 +0000" stop="20250417010000 +0000" channel="Takbeer TV">
-        <title>Dil Darya Sumander</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250417010000 +0000" stop="20250417020000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -27832,52 +27832,52 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250417070000 +0000" stop="20250417080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250417080000 +0000" stop="20250417090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
-    </programme>
-    <programme start="20250417090000 +0000" stop="20250417100000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
-    </programme>
-    <programme start="20250417100000 +0000" stop="20250417110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
-    </programme>
-    <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
-    </programme>
-    <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="Takbeer TV">
-        <title>Aaiye Quran Sekhain</title>
-    </programme>
-    <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250417160000 +0000" stop="20250417170000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
     </programme>
+    <programme start="20250417090000 +0000" stop="20250417100000 +0000" channel="Takbeer TV">
+        <title>Sham e Arfaan</title>
+    </programme>
+    <programme start="20250417100000 +0000" stop="20250417110000 +0000" channel="Takbeer TV">
+        <title>Q&amp;A with Takbeer</title>
+    </programme>
+    <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="Takbeer TV">
+        <title>Aaiye Quran Sekhain</title>
+    </programme>
+    <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="Takbeer TV">
+        <title>Takbeer Special</title>
+    </programme>
+    <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="Takbeer TV">
+        <title>Milad-e-Mustafa (SAW)</title>
+    </programme>
+    <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="Takbeer TV">
+        <title>Sham e Arfaan</title>
+    </programme>
+    <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="Takbeer TV">
+        <title>Sham e Arfaan</title>
+    </programme>
+    <programme start="20250417160000 +0000" stop="20250417170000 +0000" channel="Takbeer TV">
+        <title>Aaiye Quran Sekhain</title>
+    </programme>
+    <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="Takbeer TV">
+        <title>Takbeer Special</title>
+    </programme>
     <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250417190000 +0000" stop="20250417200000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Sarkar Ki Batain</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417210000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250417210000 +0000" stop="20250417220000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250417220000 +0000" stop="20250417230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="HUM EUROPE">
         <title>Zindagi Gulzar Hai</title>
