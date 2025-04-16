@@ -13272,10 +13272,16 @@
     <programme start="20250417101500 +0000" stop="20250417104500 +0000" channel="SkySp Golf HD">
         <title>PGA Tour: The Cut</title>
     </programme>
-    <programme start="20250417104500 +0000" stop="20250417111500 +0000" channel="SkySp Golf HD">
+    <programme start="20250417104500 +0000" stop="20250417111501 +0000" channel="SkySp Golf HD">
         <title>Golf's Greatest Holes: The Open</title>
     </programme>
-    <programme start="20250417111500 +0000" stop="20250417180000 +0000" channel="SkySp Golf HD">
+    <programme start="20250417111501 +0000" stop="20250417113000 +0000" channel="SkySp Golf HD">
+        <title>My Ryder Cup: Paul McGinley</title>
+    </programme>
+    <programme start="20250417113000 +0000" stop="20250417120000 +0000" channel="SkySp Golf HD">
+        <title>HotelPlanner Tour Golf Highlights</title>
+    </programme>
+    <programme start="20250417120000 +0000" stop="20250417180000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
     <programme start="20250417180000 +0000" stop="20250417220000 +0000" channel="SkySp Golf HD">
@@ -29982,13 +29988,13 @@
     <programme start="20250417112500 +0000" stop="20250417120000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250417120000 +0000" stop="20250417120900 +0000" channel="iON TV">
+    <programme start="20250417120000 +0000" stop="20250417120500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250417120900 +0000" stop="20250417121400 +0000" channel="iON TV">
+    <programme start="20250417120500 +0000" stop="20250417121000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250417121400 +0000" stop="20250417123000 +0000" channel="iON TV">
+    <programme start="20250417121000 +0000" stop="20250417123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250417123000 +0000" stop="20250417130000 +0000" channel="iON TV">
@@ -30012,13 +30018,13 @@
     <programme start="20250417153800 +0000" stop="20250417160000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250417160000 +0000" stop="20250417163400 +0000" channel="iON TV">
+    <programme start="20250417160000 +0000" stop="20250417165000 +0000" channel="iON TV">
         <title>News Room</title>
     </programme>
-    <programme start="20250417163400 +0000" stop="20250417163900 +0000" channel="iON TV">
+    <programme start="20250417165000 +0000" stop="20250417165500 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250417163900 +0000" stop="20250417170000 +0000" channel="iON TV">
+    <programme start="20250417165500 +0000" stop="20250417170000 +0000" channel="iON TV">
         <title>News Room</title>
     </programme>
     <programme start="20250417170000 +0000" stop="20250417173000 +0000" channel="iON TV">
@@ -30027,32 +30033,35 @@
     <programme start="20250417173000 +0000" stop="20250417180000 +0000" channel="iON TV">
         <title>Health Guide</title>
     </programme>
-    <programme start="20250417180000 +0000" stop="20250417184100 +0000" channel="iON TV">
+    <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250417184100 +0000" stop="20250417184600 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250417184600 +0000" stop="20250417190000 +0000" channel="iON TV">
-        <title>Drama Time</title>
-    </programme>
-    <programme start="20250417190000 +0000" stop="20250417195700 +0000" channel="iON TV">
+    <programme start="20250417190000 +0000" stop="20250417190400 +0000" channel="iON TV">
         <title>Dream Home</title>
     </programme>
-    <programme start="20250417195700 +0000" stop="20250417200200 +0000" channel="iON TV">
+    <programme start="20250417190400 +0000" stop="20250417190900 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250417190900 +0000" stop="20250417200000 +0000" channel="iON TV">
+        <title>Dream Home</title>
+    </programme>
+    <programme start="20250417200000 +0000" stop="20250417201800 +0000" channel="iON TV">
+        <title>News 24</title>
+    </programme>
+    <programme start="20250417201800 +0000" stop="20250417202300 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250417200200 +0000" stop="20250417203000 +0000" channel="iON TV">
+    <programme start="20250417202300 +0000" stop="20250417203000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
     <programme start="20250417203000 +0000" stop="20250417210000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250417210000 +0000" stop="20250417220000 +0000" channel="iON TV">
-        <title>Cine Hour</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250417220000 +0000" stop="20250417230000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Cine Hour</title>
     </programme>
     <programme start="20250416213000 +0000" stop="20250416220000 +0000" channel="Deen TV">
         <title>Tadrisul Hadith</title>

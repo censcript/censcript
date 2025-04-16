@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Philippe Coutinho</title>
-    </programme>
     <programme start="20250416180000 +0000" stop="20250416210000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Newcastle United v Crystal Palace</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Gwangju</title>
+    </programme>
+    <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
     </programme>
 </tv>
