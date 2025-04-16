@@ -29935,19 +29935,19 @@
         <title>24 Ghonta</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="iON TV">
-        <title>Travel Show</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="iON TV">
         <title>Cine Hour</title>
     </programme>
     <programme start="20250416230000 +0000" stop="20250417000000 +0000" channel="iON TV">
-        <title>Drama Time</title>
+        <title>Travel Show</title>
     </programme>
     <programme start="20250417000000 +0000" stop="20250417003000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250417003000 +0000" stop="20250417010000 +0000" channel="iON TV">
-        <title>News 24</title>
+        <title>Searchlight</title>
     </programme>
     <programme start="20250417010000 +0000" stop="20250417030000 +0000" channel="iON TV">
         <title>Movie Time</title>
@@ -38145,11 +38145,8 @@
     <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="BBC R Cymru">
         <title>Beti a'i Phobol</title>
     </programme>
-    <programme start="20250417180000 +0000" stop="20250417195800 +0000" channel="BBC R Cymru">
+    <programme start="20250417180000 +0000" stop="20250417200000 +0000" channel="BBC R Cymru">
         <title>Huw Stephens</title>
-    </programme>
-    <programme start="20250417195800 +0000" stop="20250417200000 +0000" channel="BBC R Cymru">
-        <title>This is BBC R Cymru</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417210000 +0000" channel="BBC R Cymru">
         <title>Caryl</title>
@@ -38547,11 +38544,8 @@
     <programme start="20250417160000 +0000" stop="20250417180000 +0000" channel="BBC R Cymru 2">
         <title>Traciau Radio Cymru 2</title>
     </programme>
-    <programme start="20250417180000 +0000" stop="20250417195800 +0000" channel="BBC R Cymru 2">
+    <programme start="20250417180000 +0000" stop="20250417200000 +0000" channel="BBC R Cymru 2">
         <title>Huw Stephens</title>
-    </programme>
-    <programme start="20250417195800 +0000" stop="20250417200000 +0000" channel="BBC R Cymru 2">
-        <title>This is BBC R Cymru2</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417210000 +0000" channel="BBC R Cymru 2">
         <title>Caryl</title>
