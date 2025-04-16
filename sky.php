@@ -27105,11 +27105,8 @@
     <programme start="20250415213000 +0000" stop="20250415220000 +0000" channel="Islam Channel">
         <title>Analysis</title>
     </programme>
-    <programme start="20250415220000 +0000" stop="20250415223000 +0000" channel="Islam Channel">
-        <title>Catastrophe: The War Begins</title>
-    </programme>
-    <programme start="20250415223000 +0000" stop="20250415230000 +0000" channel="Islam Channel">
-        <title>Evening Supplications</title>
+    <programme start="20250415220000 +0000" stop="20250415230000 +0000" channel="Islam Channel">
+        <title>In Memory of Prof. Khurshid Ahmad</title>
     </programme>
     <programme start="20250415230000 +0000" stop="20250415233000 +0000" channel="Islam Channel">
         <title>Islam Channel News</title>
@@ -27210,10 +27207,13 @@
     <programme start="20250416123000 +0000" stop="20250416124500 +0000" channel="Islam Channel">
         <title>From Palestine</title>
     </programme>
-    <programme start="20250416124500 +0000" stop="20250416130000 +0000" channel="Islam Channel">
-        <title>Halal Money Show</title>
+    <programme start="20250416124500 +0000" stop="20250416125000 +0000" channel="Islam Channel">
+        <title>This Day In History</title>
     </programme>
-    <programme start="20250416130000 +0000" stop="20250416131000 +0000" channel="Islam Channel">
+    <programme start="20250416125000 +0000" stop="20250416125500 +0000" channel="Islam Channel">
+        <title>Islamic Etiquettes</title>
+    </programme>
+    <programme start="20250416125500 +0000" stop="20250416131000 +0000" channel="Islam Channel">
         <title>Live Prayers from Makkah: Asr</title>
     </programme>
     <programme start="20250416131000 +0000" stop="20250416133000 +0000" channel="Islam Channel">
@@ -28947,14 +28947,14 @@
     <programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="Akaal Channel">
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250416173000 +0000" stop="20250416182000 +0000" channel="Akaal Channel">
+    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250416182000 +0000" stop="20250416192000 +0000" channel="Akaal Channel">
-        <title>Live: Sikligar Sikh Anand Karaj Appeal</title>
+    <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Dubai Trip</title>
+    </programme>
+    <programme start="20250416190000 +0000" stop="20250416192000 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
     </programme>
     <programme start="20250416192000 +0000" stop="20250416200000 +0000" channel="Akaal Channel">
         <title>Live: Jee Aayan Nu</title>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Philippe Coutinho</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Gimcheon</title>
+    </programme>
+    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Gwangju</title>
     </programme>
 </tv>
