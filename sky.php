@@ -14461,7 +14461,7 @@
         <title>Goal Rush</title>
     </programme>
     <programme start="20250416091500 +0000" stop="20250416093000 +0000" channel="LFCTV HD">
-        <title>Sunderland v Liverpool U18: Shortcut</title>
+        <title>Wolverhampton Wanderers v Liverpool U18: Shortcut</title>
     </programme>
     <programme start="20250416093000 +0000" stop="20250416095500 +0000" channel="LFCTV HD">
         <title>Rush Scored Four</title>
