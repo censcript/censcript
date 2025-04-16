@@ -27859,7 +27859,7 @@
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Takbeer TV">
-        <title>Warafana Laka Zikrak</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -29610,11 +29610,11 @@
     <programme start="20250416165400 +0000" stop="20250416170000 +0000" channel="ATN">
         <title>Smritir Alpona Aki</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="ATN">
+    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250416173000 +0000" stop="20250416183000 +0000" channel="ATN">
-        <title>Dars Ul Quran</title>
+    <programme start="20250416180000 +0000" stop="20250416183000 +0000" channel="ATN">
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250416183000 +0000" stop="20250416190200 +0000" channel="ATN">
         <title>Charity Update: Goreeb Eathem</title>
