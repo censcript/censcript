@@ -28338,10 +28338,10 @@
     <programme start="20250416155000 +0000" stop="20250416155400 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250416155400 +0000" stop="20250416160400 +0000" channel="Eman Channel">
+    <programme start="20250416155400 +0000" stop="20250416160200 +0000" channel="Eman Channel">
         <title>REPEAT: Madrasah TV Hajj</title>
     </programme>
-    <programme start="20250416160400 +0000" stop="20250416163000 +0000" channel="Eman Channel">
+    <programme start="20250416160200 +0000" stop="20250416163000 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
     <programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="Eman Channel">
@@ -28362,10 +28362,10 @@
     <programme start="20250416184500 +0000" stop="20250416190200 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250416190200 +0000" stop="20250416191700 +0000" channel="Eman Channel">
+    <programme start="20250416190200 +0000" stop="20250416191500 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250416191700 +0000" stop="20250416200000 +0000" channel="Eman Channel">
+    <programme start="20250416191500 +0000" stop="20250416200000 +0000" channel="Eman Channel">
         <title>Ask Eman Urdu</title>
     </programme>
     <programme start="20250416200000 +0000" stop="20250416201700 +0000" channel="Eman Channel">
@@ -38611,7 +38611,7 @@
         <title>Breakfast with Vanessa Baffoe</title>
     </programme>
     <programme start="20250416090000 +0000" stop="20250416120000 +0000" channel="LBC News">
-        <title>Steve Holden</title>
+        <title>Simon Conway</title>
     </programme>
     <programme start="20250416120000 +0000" stop="20250416150000 +0000" channel="LBC News">
         <title>Jim Diamond</title>
