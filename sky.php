@@ -12591,9 +12591,6 @@
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="NOW 90s &amp; 00s">
         <title>Mariah Carey: Power Diva</title>
     </programme>
-    <programme start="20250415150000 +0000" stop="20250416002500 +0000" channel="NOW ROCK">
-        <title>100 Rock Ballads with Simon Bates</title>
-    </programme>
     <programme start="20250416002500 +0000" stop="20250416020000 +0000" channel="NOW ROCK">
         <title>Blazing Rock Ballads!</title>
     </programme>
@@ -23641,7 +23638,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250416120000 +0000" stop="20250416130000 +0000" channel="QVC Beauty">
-        <title>Meet the Beauty Experts</title>
+        <title>skinSense by Abi Cleeve</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -23653,7 +23650,7 @@
         <title>UK Lash</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="QVC Beauty">
-        <title>Sunday Riley Skincare</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -24349,7 +24346,7 @@
         <title>Cozee Home</title>
     </programme>
     <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="QVC Extra">
-        <title>Spring Gardening Solutions</title>
+        <title>Home Hacks</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416120000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24367,10 +24364,10 @@
         <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="QVC Extra">
-        <title>Up-to 50% off Kipling</title>
+        <title>New Season Kim &amp; Co</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="QVC Extra">
-        <title>Garden Deals from 20% off</title>
+        <title>Home Hacks</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24382,10 +24379,10 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="QVC Extra">
-        <title>Home Hacks</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="QVC Extra">
-        <title>Strive Footwear</title>
+        <title>Michael Perry's Garden</title>
     </programme>
     <programme start="20250415213000 +0000" stop="20250415220000 +0000" channel="High Street TV 3">
         <title>Horsepower Duck</title>
@@ -30013,7 +30010,7 @@
         <title>Azan-e-Asr</title>
     </programme>
     <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="iON TV">
-        <title>Cine Hour</title>
+        <title>Music Hour</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416183000 +0000" channel="iON TV">
         <title>News Room</title>
@@ -30043,7 +30040,7 @@
         <title>Travel Show</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="iON TV">
-        <title>Music Hour</title>
+        <title>Cine Hour</title>
     </programme>
     <programme start="20250415213000 +0000" stop="20250415220000 +0000" channel="Deen TV">
         <title>Deener Alo</title>
