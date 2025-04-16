@@ -5833,7 +5833,7 @@
         <title>In Search Of Aliens</title>
     </programme>
     <programme start="20250416010000 +0000" stop="20250416020000 +0000" channel="BLAZE">
-        <title>Weird Or What?...</title>
+        <title>Weird Or What? With William Shatner</title>
     </programme>
     <programme start="20250416020000 +0000" stop="20250416022500 +0000" channel="BLAZE">
         <title>Hardcore Pawn: Behind The Deal</title>
@@ -29683,91 +29683,97 @@
         <title>Shastho Protidin</title>
     </programme>
     <programme start="20250416060000 +0000" stop="20250416063000 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250416063000 +0000" stop="20250416070000 +0000" channel="NTV">
-        <title>Shastho Protidin</title>
-    </programme>
-    <programme start="20250416070000 +0000" stop="20250416073000 +0000" channel="NTV">
         <title>Ek Shobdey Quran</title>
     </programme>
-    <programme start="20250416073000 +0000" stop="20250416080000 +0000" channel="NTV">
+    <programme start="20250416063000 +0000" stop="20250416070000 +0000" channel="NTV">
         <title>Siddika Kabirs Recipe</title>
     </programme>
-    <programme start="20250416080000 +0000" stop="20250416083000 +0000" channel="NTV">
+    <programme start="20250416070000 +0000" stop="20250416073000 +0000" channel="NTV">
         <title>NTV Europe News</title>
     </programme>
-    <programme start="20250416083000 +0000" stop="20250416090000 +0000" channel="NTV">
-        <title>Kafelar Canvas</title>
+    <programme start="20250416073000 +0000" stop="20250416080000 +0000" channel="NTV">
+        <title>Ma Baba Bhai Bon</title>
     </programme>
-    <programme start="20250416090000 +0000" stop="20250416093000 +0000" channel="NTV">
+    <programme start="20250416080000 +0000" stop="20250416083000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
-    <programme start="20250416093000 +0000" stop="20250416120000 +0000" channel="NTV">
-        <title>Dakter Bari</title>
+    <programme start="20250416083000 +0000" stop="20250416100000 +0000" channel="NTV">
+        <title>Buker vitor nupur</title>
     </programme>
-    <programme start="20250416120000 +0000" stop="20250416121300 +0000" channel="NTV">
+    <programme start="20250416100000 +0000" stop="20250416110000 +0000" channel="NTV">
+        <title>Bachaw Desh</title>
+    </programme>
+    <programme start="20250416110000 +0000" stop="20250416113000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250416121300 +0000" stop="20250416121800 +0000" channel="NTV">
+    <programme start="20250416113000 +0000" stop="20250416120500 +0000" channel="NTV">
+        <title>Bachaw Desh</title>
+    </programme>
+    <programme start="20250416120500 +0000" stop="20250416121000 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250416121800 +0000" stop="20250416123000 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="NTV">
-        <title>Dakter Bari</title>
+    <programme start="20250416121000 +0000" stop="20250416130000 +0000" channel="NTV">
+        <title>Bachaw Desh</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416133000 +0000" channel="NTV">
-        <title>Seeratunnabi</title>
-    </programme>
-    <programme start="20250416133000 +0000" stop="20250416140000 +0000" channel="NTV">
-        <title>Taroka Konthe Al Quran</title>
-    </programme>
-    <programme start="20250416140000 +0000" stop="20250416143000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
     </programme>
-    <programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="NTV">
+    <programme start="20250416133000 +0000" stop="20250416140000 +0000" channel="NTV">
         <title>Desher Khobor</title>
     </programme>
-    <programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="NTV">
-        <title>Virtues Of Ramadan</title>
+    <programme start="20250416140000 +0000" stop="20250416153000 +0000" channel="NTV">
+        <title>Priyo Obhibhabok</title>
     </programme>
     <programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
     </programme>
-    <programme start="20250416160000 +0000" stop="20250416161500 +0000" channel="NTV">
-        <title>Quraner Alo</title>
+    <programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="NTV">
+        <title>Onnorokom Golpo</title>
     </programme>
-    <programme start="20250416161500 +0000" stop="20250416162000 +0000" channel="NTV">
+    <programme start="20250416163000 +0000" stop="20250416164900 +0000" channel="NTV">
+        <title>Food Caravan</title>
+    </programme>
+    <programme start="20250416164900 +0000" stop="20250416165400 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250416162000 +0000" stop="20250416170000 +0000" channel="NTV">
-        <title>Quraner Alo</title>
+    <programme start="20250416165400 +0000" stop="20250416170000 +0000" channel="NTV">
+        <title>Food Caravan</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416181500 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="NTV">
+        <title>Pronoy Falgune</title>
     </programme>
-    <programme start="20250416181500 +0000" stop="20250416182000 +0000" channel="NTV">
+    <programme start="20250416180000 +0000" stop="20250416181500 +0000" channel="NTV">
+        <title>NTV Evening News (ENGLISH</title>
+    </programme>
+    <programme start="20250416181500 +0000" stop="20250416190000 +0000" channel="NTV">
+        <title>NTV NEWS-Rater Khobor</title>
+    </programme>
+    <programme start="20250416190000 +0000" stop="20250416190200 +0000" channel="NTV">
+        <title>Law and Justice</title>
+    </programme>
+    <programme start="20250416190200 +0000" stop="20250416190700 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250416182000 +0000" stop="20250416193500 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250416190700 +0000" stop="20250416201700 +0000" channel="NTV">
+        <title>Law and Justice</title>
     </programme>
-    <programme start="20250416193500 +0000" stop="20250416194000 +0000" channel="NTV">
+    <programme start="20250416201700 +0000" stop="20250416202200 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250416194000 +0000" stop="20250416203000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250416202200 +0000" stop="20250416203000 +0000" channel="NTV">
+        <title>Law and Justice</title>
     </programme>
-    <programme start="20250416203000 +0000" stop="20250416220000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250416203000 +0000" stop="20250416210000 +0000" channel="NTV">
+        <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
-    <programme start="20250416220000 +0000" stop="20250416223000 +0000" channel="NTV">
+    <programme start="20250416210000 +0000" stop="20250416213000 +0000" channel="NTV">
         <title>NTV Europe News</title>
     </programme>
-    <programme start="20250416223000 +0000" stop="20250416233000 +0000" channel="NTV">
-        <title>Live Charity Appeal</title>
+    <programme start="20250416213000 +0000" stop="20250416220000 +0000" channel="NTV">
+        <title>Faul</title>
+    </programme>
+    <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="NTV">
+        <title>Aey Shomoy</title>
     </programme>
     <programme start="20250415215000 +0000" stop="20250415220000 +0000" channel="TV One">
         <title>Imam Naseeha</title>
