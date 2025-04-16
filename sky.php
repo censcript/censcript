@@ -27043,7 +27043,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250416130500 +0000" stop="20250416140000 +0000" channel="New Vision TV">
-        <title>Sports Room Special PSL 10</title>
+        <title>Sports Room Special PSL10</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416140500 +0000" channel="New Vision TV">
         <title>Headline News</title>
