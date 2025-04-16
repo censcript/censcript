@@ -16365,8 +16365,11 @@
     <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="TRT World">
         <title>News - London</title>
     </programme>
-    <programme start="20250416173000 +0000" stop="20250416180000 +0000" channel="TRT World">
-        <title>NexTech</title>
+    <programme start="20250416173000 +0000" stop="20250416174500 +0000" channel="TRT World">
+        <title>Focal Point: Chad: In...</title>
+    </programme>
+    <programme start="20250416174500 +0000" stop="20250416180000 +0000" channel="TRT World">
+        <title>Documentary: Surviving...</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416181500 +0000" channel="TRT World">
         <title>News - London</title>
@@ -28756,7 +28759,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250416173000 +0000" stop="20250416180000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Leicester Smagam Update</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -34404,8 +34407,11 @@
     <programme start="20250416170000 +0000" stop="20250416173000 +0000" channel="TRT World HD">
         <title>News - London</title>
     </programme>
-    <programme start="20250416173000 +0000" stop="20250416180000 +0000" channel="TRT World HD">
-        <title>NexTech</title>
+    <programme start="20250416173000 +0000" stop="20250416174500 +0000" channel="TRT World HD">
+        <title>Focal Point: Chad: In...</title>
+    </programme>
+    <programme start="20250416174500 +0000" stop="20250416180000 +0000" channel="TRT World HD">
+        <title>Documentary: Surviving...</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416181500 +0000" channel="TRT World HD">
         <title>News - London</title>
