@@ -28732,13 +28732,13 @@
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250416103000 +0000" stop="20250416110000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250416110000 +0000" stop="20250416123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250416123000 +0000" stop="20250416130000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250416130000 +0000" stop="20250416140000 +0000" channel="Sikh Channel">
         <title>Voice of Yorkshire</title>
@@ -28747,7 +28747,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250416143000 +0000" stop="20250416150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
@@ -28756,7 +28756,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250416173000 +0000" stop="20250416180000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Khas-GalBaat</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
