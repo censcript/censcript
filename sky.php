@@ -23511,10 +23511,7 @@
     <programme start="20250418070000 +0000" stop="20250418080000 +0000" channel="QVC Style HD">
         <title>Vionic Footwear</title>
     </programme>
-    <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Style HD">
+    <programme start="20250418080000 +0000" stop="20250418100000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250418100000 +0000" stop="20250418110000 +0000" channel="QVC Style HD">
@@ -23533,7 +23530,7 @@
         <title>Luxury Handbags</title>
     </programme>
     <programme start="20250418150000 +0000" stop="20250418160000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday</title>
+        <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250418160000 +0000" stop="20250418170000 +0000" channel="QVC Style HD">
         <title>Richard Jackson's Garden</title>
@@ -23548,7 +23545,7 @@
         <title>Luxury Handbags</title>
     </programme>
     <programme start="20250418200000 +0000" stop="20250418210000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday</title>
+        <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250418210000 +0000" stop="20250418220000 +0000" channel="QVC Style HD">
         <title>Dressage by Paul Costelloe</title>
@@ -24174,17 +24171,14 @@
     <programme start="20250418160000 +0000" stop="20250418170000 +0000" channel="QVC Extra">
         <title>Stylish Sorbet Outdoor Space</title>
     </programme>
-    <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="QVC Extra">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250418180000 +0000" stop="20250418190000 +0000" channel="QVC Extra">
+    <programme start="20250418170000 +0000" stop="20250418190000 +0000" channel="QVC Extra">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250418190000 +0000" stop="20250418200000 +0000" channel="QVC Extra">
         <title>Easter Offers</title>
     </programme>
     <programme start="20250418200000 +0000" stop="20250418210000 +0000" channel="QVC Extra">
-        <title>Christopher Radko Christmas Collection</title>
+        <title>Crocs Footwear</title>
     </programme>
     <programme start="20250418210000 +0000" stop="20250418220000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -28218,13 +28212,13 @@
     <programme start="20250418220000 +0000" stop="20250418230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250417210000 +0000" stop="20250417223000 +0000" channel="ARY Digital">
+    <programme start="20250417210900 +0000" stop="20250417224200 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
-    <programme start="20250417223000 +0000" stop="20250417230000 +0000" channel="ARY Digital">
+    <programme start="20250417224200 +0000" stop="20250417231100 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250417230000 +0000" stop="20250418000000 +0000" channel="ARY Digital">
+    <programme start="20250417231100 +0000" stop="20250418000000 +0000" channel="ARY Digital">
         <title>Ae Dil</title>
     </programme>
     <programme start="20250418000000 +0000" stop="20250418010000 +0000" channel="ARY Digital">
@@ -29814,46 +29808,25 @@
     <programme start="20250418120000 +0000" stop="20250418120500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250418120500 +0000" stop="20250418120900 +0000" channel="iON TV">
+    <programme start="20250418120500 +0000" stop="20250418121000 +0000" channel="iON TV">
         <title>Azan-e-Jummah</title>
     </programme>
-    <programme start="20250418120900 +0000" stop="20250418121000 +0000" channel="iON TV">
-        <title>Azan-e-Jummah</title>
-    </programme>
-    <programme start="20250418121000 +0000" stop="20250418121400 +0000" channel="iON TV">
-        <title>iON News Time</title>
-    </programme>
-    <programme start="20250418121400 +0000" stop="20250418123000 +0000" channel="iON TV">
+    <programme start="20250418121000 +0000" stop="20250418123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250418123000 +0000" stop="20250418130000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250418130000 +0000" stop="20250418133000 +0000" channel="iON TV">
+    <programme start="20250418130000 +0000" stop="20250418140000 +0000" channel="iON TV">
         <title>Islamic Knowledge By Azhari</title>
     </programme>
-    <programme start="20250418133000 +0000" stop="20250418140000 +0000" channel="iON TV">
-        <title>Islamic Knowledge By Azhari</title>
-    </programme>
-    <programme start="20250418140000 +0000" stop="20250418143000 +0000" channel="iON TV">
+    <programme start="20250418140000 +0000" stop="20250418150000 +0000" channel="iON TV">
         <title>Nasheed</title>
     </programme>
-    <programme start="20250418143000 +0000" stop="20250418150000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
-    </programme>
-    <programme start="20250418150000 +0000" stop="20250418153800 +0000" channel="iON TV">
+    <programme start="20250418150000 +0000" stop="20250418160000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250418153800 +0000" stop="20250418160000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
-    </programme>
-    <programme start="20250418160000 +0000" stop="20250418163500 +0000" channel="iON TV">
-        <title>Alor Pothe</title>
-    </programme>
-    <programme start="20250418163500 +0000" stop="20250418164000 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250418164000 +0000" stop="20250418165200 +0000" channel="iON TV">
+    <programme start="20250418160000 +0000" stop="20250418165200 +0000" channel="iON TV">
         <title>Alor Pothe</title>
     </programme>
     <programme start="20250418165200 +0000" stop="20250418165700 +0000" channel="iON TV">
@@ -29868,31 +29841,16 @@
     <programme start="20250418173000 +0000" stop="20250418180000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250418180000 +0000" stop="20250418184200 +0000" channel="iON TV">
+    <programme start="20250418180000 +0000" stop="20250418190600 +0000" channel="iON TV">
         <title>Susto Thakun</title>
-    </programme>
-    <programme start="20250418184200 +0000" stop="20250418184700 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250418184700 +0000" stop="20250418190000 +0000" channel="iON TV">
-        <title>Susto Thakun</title>
-    </programme>
-    <programme start="20250418190000 +0000" stop="20250418190600 +0000" channel="iON TV">
-        <title>Dream Home</title>
     </programme>
     <programme start="20250418190600 +0000" stop="20250418191100 +0000" channel="iON TV">
         <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250418191100 +0000" stop="20250418195800 +0000" channel="iON TV">
+    <programme start="20250418191100 +0000" stop="20250418200000 +0000" channel="iON TV">
         <title>Life Style</title>
     </programme>
-    <programme start="20250418195800 +0000" stop="20250418200000 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250418200000 +0000" stop="20250418200300 +0000" channel="iON TV">
-        <title>News 24</title>
-    </programme>
-    <programme start="20250418200300 +0000" stop="20250418202000 +0000" channel="iON TV">
+    <programme start="20250418200000 +0000" stop="20250418202000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
     <programme start="20250418202000 +0000" stop="20250418202500 +0000" channel="iON TV">
