@@ -267,6 +267,9 @@
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20250428173000 +0000" stop="20250428180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
     <programme start="20250429040000 +0000" stop="20250429061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - FC Tokyo v Shimizu</title>
     </programme>
@@ -276,28 +279,25 @@
     <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Cerezo v Machida</title>
     </programme>
+    <programme start="20250429080000 +0000" stop="20250429090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - 1-to-11: Luis Garcia</title>
+    </programme>
+    <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250430140000 +0000" stop="20250430150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
     <programme start="20250430165500 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Aston Villa v Arsenal</title>
+    </programme>
+    <programme start="20250430170000 +0000" stop="20250430173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Reggae Rhythms in the Premier League</title>
     </programme>
     <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
-    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Bayern Munich v Werder Bremen</title>
-    </programme>
-    <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Nottingham Forest v Brentford</title>
-    </programme>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Gimcheon</title>
-    </programme>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Gwangju</title>
-    </programme>
-    <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Racing Louisville FC</title>
+    <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
     </programme>
 </tv>
