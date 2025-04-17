@@ -13398,23 +13398,23 @@
     <programme start="20250418220000 +0000" stop="20250418230000 +0000" channel="SkySp News HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250417213000 +0000" stop="20250417223000 +0000" channel="TNT Sports 1">
+    <programme start="20250417180000 +0000" stop="20250417223000 +0000" channel="TNT Sports 1">
+        <title>Live: Manchester United v Lyon</title>
+    </programme>
+    <programme start="20250417223000 +0000" stop="20250417233000 +0000" channel="TNT Sports 1">
         <title>Live: UEL &amp; UCoL Highlights</title>
     </programme>
-    <programme start="20250417223000 +0000" stop="20250417224500 +0000" channel="TNT Sports 1">
-        <title>No Filter Football</title>
-    </programme>
-    <programme start="20250417224500 +0000" stop="20250417231500 +0000" channel="TNT Sports 1">
+    <programme start="20250417233000 +0000" stop="20250418000000 +0000" channel="TNT Sports 1">
         <title>Ally's Social Club</title>
     </programme>
-    <programme start="20250417231500 +0000" stop="20250417233000 +0000" channel="TNT Sports 1">
-        <title>TNT Sports Reload</title>
-    </programme>
-    <programme start="20250417233000 +0000" stop="20250418010000 +0000" channel="TNT Sports 1">
+    <programme start="20250418000000 +0000" stop="20250418013000 +0000" channel="TNT Sports 1">
         <title>AFL: Brisbane Lions v Collingwood</title>
     </programme>
-    <programme start="20250418010000 +0000" stop="20250418023000 +0000" channel="TNT Sports 1">
-        <title>NBA: Heat @ Bulls</title>
+    <programme start="20250418013000 +0000" stop="20250418020000 +0000" channel="TNT Sports 1">
+        <title>Discovery Golf</title>
+    </programme>
+    <programme start="20250418020000 +0000" stop="20250418023000 +0000" channel="TNT Sports 1">
+        <title>NBA Action</title>
     </programme>
     <programme start="20250418023000 +0000" stop="20250418040000 +0000" channel="TNT Sports 1">
         <title>NBA: Mavericks @ Kings</title>
@@ -33360,23 +33360,23 @@
     <programme start="20250418220000 +0000" stop="20250418230000 +0000" channel="SkySp News">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250417213000 +0000" stop="20250417223000 +0000" channel="TNTSports1 HD">
+    <programme start="20250417180000 +0000" stop="20250417223000 +0000" channel="TNTSports1 HD">
+        <title>Live: Manchester United v Lyon</title>
+    </programme>
+    <programme start="20250417223000 +0000" stop="20250417233000 +0000" channel="TNTSports1 HD">
         <title>Live: UEL &amp; UCoL Highlights</title>
     </programme>
-    <programme start="20250417223000 +0000" stop="20250417224500 +0000" channel="TNTSports1 HD">
-        <title>No Filter Football</title>
-    </programme>
-    <programme start="20250417224500 +0000" stop="20250417231500 +0000" channel="TNTSports1 HD">
+    <programme start="20250417233000 +0000" stop="20250418000000 +0000" channel="TNTSports1 HD">
         <title>Ally's Social Club</title>
     </programme>
-    <programme start="20250417231500 +0000" stop="20250417233000 +0000" channel="TNTSports1 HD">
-        <title>TNT Sports Reload</title>
-    </programme>
-    <programme start="20250417233000 +0000" stop="20250418010000 +0000" channel="TNTSports1 HD">
+    <programme start="20250418000000 +0000" stop="20250418013000 +0000" channel="TNTSports1 HD">
         <title>AFL: Brisbane Lions v Collingwood</title>
     </programme>
-    <programme start="20250418010000 +0000" stop="20250418023000 +0000" channel="TNTSports1 HD">
-        <title>NBA: Heat @ Bulls</title>
+    <programme start="20250418013000 +0000" stop="20250418020000 +0000" channel="TNTSports1 HD">
+        <title>Discovery Golf</title>
+    </programme>
+    <programme start="20250418020000 +0000" stop="20250418023000 +0000" channel="TNTSports1 HD">
+        <title>NBA Action</title>
     </programme>
     <programme start="20250418023000 +0000" stop="20250418040000 +0000" channel="TNTSports1 HD">
         <title>NBA: Mavericks @ Kings</title>
@@ -36576,7 +36576,10 @@
     <programme start="20250418223000 +0000" stop="20250418233000 +0000" channel="BBC R4">
         <title>BBC National Short Story Award 2024</title>
     </programme>
-    <programme start="20250417213000 +0000" stop="20250418000000 +0000" channel="BBC R5L">
+    <programme start="20250417190000 +0000" stop="20250417220000 +0000" channel="BBC R5L">
+        <title>5 Live Sport</title>
+    </programme>
+    <programme start="20250417220000 +0000" stop="20250418000000 +0000" channel="BBC R5L">
         <title>Tony Livesey</title>
     </programme>
     <programme start="20250418000000 +0000" stop="20250418040000 +0000" channel="BBC R5L">
