@@ -23440,7 +23440,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Best Of QVC Beauty</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -26413,7 +26413,7 @@
         <title>Gulshan-e-Waqfe Nau</title>
     </programme>
     <programme start="20250418095000 +0000" stop="20250418103000 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana Speeches</title>
+        <title>Jalsa Salana Speech</title>
     </programme>
     <programme start="20250418103000 +0000" stop="20250418110500 +0000" channel="MTA1 World HD">
         <title>Tabweeb Al-Qur'an</title>
@@ -26466,29 +26466,26 @@
     <programme start="20250418175000 +0000" stop="20250418180000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250418180000 +0000" stop="20250418182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
-    </programme>
-    <programme start="20250418182000 +0000" stop="20250418183500 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
+    <programme start="20250418180000 +0000" stop="20250418183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250418183500 +0000" stop="20250418185000 +0000" channel="MTA1 World HD">
+        <title>Tilawat</title>
+    </programme>
+    <programme start="20250418185000 +0000" stop="20250418190500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250418185000 +0000" stop="20250418190000 +0000" channel="MTA1 World HD">
+    <programme start="20250418190500 +0000" stop="20250418191500 +0000" channel="MTA1 World HD">
         <title>Dulmial</title>
     </programme>
-    <programme start="20250418190000 +0000" stop="20250418193500 +0000" channel="MTA1 World HD">
-        <title>Peace Symposium</title>
+    <programme start="20250418191500 +0000" stop="20250418195000 +0000" channel="MTA1 World HD">
+        <title>Peace Symposium 2023</title>
     </programme>
-    <programme start="20250418193500 +0000" stop="20250418201500 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana Speeches</title>
+    <programme start="20250418195000 +0000" stop="20250418202500 +0000" channel="MTA1 World HD">
+        <title>Jalsa Salana Speech</title>
     </programme>
-    <programme start="20250418201500 +0000" stop="20250418203500 +0000" channel="MTA1 World HD">
+    <programme start="20250418202500 +0000" stop="20250418204500 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
-    </programme>
-    <programme start="20250418203500 +0000" stop="20250418204500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250418204500 +0000" stop="20250418211500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
