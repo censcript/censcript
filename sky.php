@@ -23686,7 +23686,7 @@
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="QVC Style HD">
-        <title>Best of QVC Style</title>
+        <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="QVC Style HD">
         <title>Morning Style with Katy</title>
@@ -24307,7 +24307,7 @@
         <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250417060000 +0000" stop="20250417070000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Garden Furniture Deals</title>
     </programme>
     <programme start="20250417070000 +0000" stop="20250417080000 +0000" channel="QVC Extra">
         <title>Spring Gardening Solutions</title>
@@ -24340,13 +24340,13 @@
         <title>Nina Leonard New Spring Fashion</title>
     </programme>
     <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>Stylish Sorbet Outdoor Space</title>
     </programme>
     <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250417190000 +0000" stop="20250417200000 +0000" channel="QVC Extra">
-        <title>Stylish Sorbet Outdoor Space</title>
+        <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417210000 +0000" channel="QVC Extra">
         <title>Lock &amp; Lock Storage Solutions</title>
