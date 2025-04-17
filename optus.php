@@ -267,6 +267,12 @@
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250428173000 +0000" stop="20250428180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
@@ -293,11 +299,5 @@
     </programme>
     <programme start="20250430170000 +0000" stop="20250430173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Reggae Rhythms in the Premier League</title>
-    </programme>
-    <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Chelsea</title>
-    </programme>
-    <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
     </programme>
 </tv>
