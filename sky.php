@@ -18001,7 +18001,7 @@
         <title>Chrism Mass in Rome with Pope Francis</title>
     </programme>
     <programme start="20250417093000 +0000" stop="20250417100000 +0000" channel="EWTN Catholic">
-        <title>An EWTN Holy Land Experience</title>
+        <title>Reasons for Our Hope</title>
     </programme>
     <programme start="20250417100000 +0000" stop="20250417110000 +0000" channel="EWTN Catholic">
         <title>Mother Angelica Live Classics</title>
@@ -18016,19 +18016,19 @@
         <title>The Holy Rosary with Mother Angelica</title>
     </programme>
     <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="EWTN Catholic">
-        <title>Triumphant Hour</title>
+        <title>Holy Week Retreat with Father Pablo Straub</title>
     </programme>
     <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="EWTN Catholic">
         <title>Life Is Worth Living</title>
     </programme>
     <programme start="20250417140000 +0000" stop="20250417153000 +0000" channel="EWTN Catholic">
-        <title>Solemn Mass of The Lord's Supper from Rome</title>
+        <title>In Concert</title>
     </programme>
     <programme start="20250417153000 +0000" stop="20250417160000 +0000" channel="EWTN Catholic">
         <title>Image of God</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="EWTN Catholic">
-        <title>At Home with Jim and Joy</title>
+        <title>The Real Presence: The Mass</title>
     </programme>
     <programme start="20250417163000 +0000" stop="20250417170000 +0000" channel="EWTN Catholic">
         <title>Icons: Windows Onto Heaven</title>
@@ -18043,13 +18043,13 @@
         <title>Crux</title>
     </programme>
     <programme start="20250417193000 +0000" stop="20250417200000 +0000" channel="EWTN Catholic">
-        <title>Answering the Questions of Jesus</title>
+        <title>Meditations with Fr Groeschel</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417203000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
     </programme>
     <programme start="20250417203000 +0000" stop="20250417213000 +0000" channel="EWTN Catholic">
-        <title>Love, Agony, and Hope</title>
+        <title>The Shroud: The Story of a Mystery</title>
     </programme>
     <programme start="20250417213000 +0000" stop="20250417220000 +0000" channel="EWTN Catholic">
         <title>Choral Meditations on The Eucharist</title>
