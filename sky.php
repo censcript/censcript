@@ -29245,10 +29245,10 @@
         <title>Live - Panthak Sath</title>
     </programme>
     <programme start="20250417190000 +0000" stop="20250417200000 +0000" channel="PBC">
-        <title>PBC Live</title>
+        <title>Nagar Kirtan</title>
     </programme>
     <programme start="20250417200000 +0000" stop="20250417203000 +0000" channel="PBC">
-        <title>PBC Special Show</title>
+        <title>Nagar Kirtan</title>
     </programme>
     <programme start="20250417203000 +0000" stop="20250417210000 +0000" channel="PBC">
         <title>Shri Sehaj Path</title>
