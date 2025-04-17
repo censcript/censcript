@@ -13014,10 +13014,16 @@
     <programme start="20250418101500 +0000" stop="20250418104500 +0000" channel="SkySp Golf HD">
         <title>Golf's Greatest Holes: The Open</title>
     </programme>
-    <programme start="20250418104500 +0000" stop="20250418111500 +0000" channel="SkySp Golf HD">
+    <programme start="20250418104500 +0000" stop="20250418111501 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250418111500 +0000" stop="20250418180000 +0000" channel="SkySp Golf HD">
+    <programme start="20250418111501 +0000" stop="20250418113000 +0000" channel="SkySp Golf HD">
+        <title>My Ryder Cup: Paul McGinley</title>
+    </programme>
+    <programme start="20250418113000 +0000" stop="20250418120000 +0000" channel="SkySp Golf HD">
+        <title>Golf's Greatest Holes: The Open</title>
+    </programme>
+    <programme start="20250418120000 +0000" stop="20250418180000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
     <programme start="20250418180000 +0000" stop="20250418220000 +0000" channel="SkySp Golf HD">
