@@ -556,16 +556,19 @@
         <title>Myanmar In Turmoil</title>
     </programme>
     <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
+        <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="CNA.mewatch">
+    <programme start="20250417130000 +0000" stop="20250417135959 +0000" channel="CNA.mewatch">
         <title>Insight - EP 2</title>
     </programme>
-    <programme start="20250417140000 +0000" stop="20250417150055 +0000" channel="CNA.mewatch">
+    <programme start="20250417135959 +0000" stop="20250417150054 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250417150055 +0000" stop="20250417160001 +0000" channel="CNA.mewatch">
+    <programme start="20250417150054 +0000" stop="20250417160000 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 2</title>
+    </programme>
+    <programme start="20250417160000 +0000" stop="20250417160330 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250417160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
