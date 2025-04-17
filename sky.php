@@ -23617,7 +23617,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Alison Young on Beauty Trends</title>
     </programme>
     <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="QVC Beauty">
         <title>UK Lash</title>
@@ -24328,19 +24328,19 @@
         <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Crocs Footwear</title>
     </programme>
     <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="QVC Extra">
         <title>What's Cooking with Eilidh</title>
     </programme>
     <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="QVC Extra">
-        <title>Diamonique Jewellery</title>
+        <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250417170000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Nina Leonard New Spring Fashion</title>
     </programme>
     <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="QVC Extra">
-        <title>Lara Pearls Collection</title>
+        <title>Most Wanted Spring Fashion</title>
     </programme>
     <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -24355,7 +24355,7 @@
         <title>Apricot Clothing</title>
     </programme>
     <programme start="20250417220000 +0000" stop="20250417230000 +0000" channel="QVC Extra">
-        <title>Garden Deals from 20% off</title>
+        <title>Finery London</title>
     </programme>
     <programme start="20250416213000 +0000" stop="20250416220000 +0000" channel="High Street TV 3">
         <title>Click Switch 6-in-1 Mop</title>
