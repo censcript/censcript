@@ -120,157 +120,157 @@
     <programme start="20250417063015 +0000" stop="20250417070031 +0000" channel="Channel 5.mewatch">
         <title>Pokemon Master Journeys: The Series (S24) - EP 25</title>
     </programme>
-    <programme start="20250417070031 +0000" stop="20250417073031 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417070031 +0000" stop="20250417073000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7962</title>
     </programme>
-    <programme start="20250417073031 +0000" stop="20250417080011 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417073000 +0000" stop="20250417080001 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 55</title>
     </programme>
-    <programme start="20250417080011 +0000" stop="20250417083004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417080001 +0000" stop="20250417082954 +0000" channel="Channel 5.mewatch">
         <title>Kin - EP 129</title>
     </programme>
-    <programme start="20250417083004 +0000" stop="20250417093015 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417082954 +0000" stop="20250417092959 +0000" channel="Channel 5.mewatch">
         <title>Bake Off: The Professionals S2 - EP 5</title>
     </programme>
-    <programme start="20250417093015 +0000" stop="20250417103000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417092959 +0000" stop="20250417103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 10</title>
     </programme>
-    <programme start="20250417103000 +0000" stop="20250417104500 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417103000 +0000" stop="20250417104514 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S23 - EP 1</title>
     </programme>
-    <programme start="20250417104500 +0000" stop="20250417130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417104514 +0000" stop="20250417130000 +0000" channel="Channel 5.mewatch">
         <title>Sing 2</title>
     </programme>
     <programme start="20250417130000 +0000" stop="20250417133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250417133000 +0000" stop="20250417143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417133000 +0000" stop="20250417143004 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 1</title>
     </programme>
-    <programme start="20250417143000 +0000" stop="20250417164000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250417143004 +0000" stop="20250417164045 +0000" channel="Channel 5.mewatch">
         <title>Marry Me</title>
     </programme>
-    <programme start="20250416160000 +0000" stop="20250416170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416160014 +0000" stop="20250416170038 +0000" channel="Channel 8.mewatch">
         <title>Mysterious Lotus Casebook - EP 32</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416170038 +0000" stop="20250416180123 +0000" channel="Channel 8.mewatch">
         <title>Growing Wild S1 - EP 2</title>
     </programme>
-    <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416180123 +0000" stop="20250416190121 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms - EP 15</title>
     </programme>
-    <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416190121 +0000" stop="20250416200024 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms - EP 16</title>
     </programme>
-    <programme start="20250416200000 +0000" stop="20250416210000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416200024 +0000" stop="20250416210105 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 638</title>
     </programme>
-    <programme start="20250416210000 +0000" stop="20250416220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416210105 +0000" stop="20250416220000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 639</title>
     </programme>
-    <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416220000 +0000" stop="20250416230022 +0000" channel="Channel 8.mewatch">
         <title>Golden Age Talentime - EP 15</title>
     </programme>
-    <programme start="20250416230000 +0000" stop="20250416233000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416230022 +0000" stop="20250416233002 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250416233000 +0000" stop="20250417000000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250416233002 +0000" stop="20250417000002 +0000" channel="Channel 8.mewatch">
         <title>The Heartland Hero - EP 39</title>
     </programme>
-    <programme start="20250417000000 +0000" stop="20250417010000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417000002 +0000" stop="20250417005959 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 21</title>
     </programme>
-    <programme start="20250417010000 +0000" stop="20250417013000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417005959 +0000" stop="20250417012955 +0000" channel="Channel 8.mewatch">
         <title>Morning Express</title>
     </programme>
-    <programme start="20250417013000 +0000" stop="20250417020000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417012955 +0000" stop="20250417020052 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 13</title>
     </programme>
-    <programme start="20250417020000 +0000" stop="20250417021400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417020052 +0000" stop="20250417021452 +0000" channel="Channel 8.mewatch">
         <title>- EP 230</title>
     </programme>
-    <programme start="20250417021400 +0000" stop="20250417021600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417021452 +0000" stop="20250417021652 +0000" channel="Channel 8.mewatch">
         <title>- EP 223</title>
     </programme>
-    <programme start="20250417021600 +0000" stop="20250417023000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417021652 +0000" stop="20250417023212 +0000" channel="Channel 8.mewatch">
         <title>- EP 253</title>
     </programme>
-    <programme start="20250417023000 +0000" stop="20250417033000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417023212 +0000" stop="20250417033203 +0000" channel="Channel 8.mewatch">
         <title>Taste Of Life - EP 656</title>
     </programme>
-    <programme start="20250417033000 +0000" stop="20250417043000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417033203 +0000" stop="20250417042941 +0000" channel="Channel 8.mewatch">
         <title>Taste Of Life - EP 657</title>
     </programme>
-    <programme start="20250417043000 +0000" stop="20250417044400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417042941 +0000" stop="20250417044341 +0000" channel="Channel 8.mewatch">
         <title>- EP 244</title>
     </programme>
-    <programme start="20250417044400 +0000" stop="20250417044600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417044341 +0000" stop="20250417044541 +0000" channel="Channel 8.mewatch">
         <title>- EP 260</title>
     </programme>
-    <programme start="20250417044600 +0000" stop="20250417050000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417044541 +0000" stop="20250417050000 +0000" channel="Channel 8.mewatch">
         <title>- EP 134</title>
     </programme>
-    <programme start="20250417050000 +0000" stop="20250417053000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417050000 +0000" stop="20250417053024 +0000" channel="Channel 8.mewatch">
         <title>News 8 at One</title>
     </programme>
-    <programme start="20250417053000 +0000" stop="20250417060000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417053024 +0000" stop="20250417060028 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1111</title>
     </programme>
-    <programme start="20250417060000 +0000" stop="20250417063000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417060028 +0000" stop="20250417062918 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1112</title>
     </programme>
-    <programme start="20250417063000 +0000" stop="20250417070000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417062918 +0000" stop="20250417070106 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1113</title>
     </programme>
-    <programme start="20250417070000 +0000" stop="20250417071400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417070106 +0000" stop="20250417071506 +0000" channel="Channel 8.mewatch">
         <title>- EP 248</title>
     </programme>
-    <programme start="20250417071400 +0000" stop="20250417071600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417071506 +0000" stop="20250417071706 +0000" channel="Channel 8.mewatch">
         <title>- EP 153</title>
     </programme>
-    <programme start="20250417071600 +0000" stop="20250417073000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417071706 +0000" stop="20250417073126 +0000" channel="Channel 8.mewatch">
         <title>- EP 252</title>
     </programme>
-    <programme start="20250417073000 +0000" stop="20250417083000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417073126 +0000" stop="20250417083034 +0000" channel="Channel 8.mewatch">
         <title>Sisterhood - EP 29</title>
     </programme>
-    <programme start="20250417083000 +0000" stop="20250417093000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417083034 +0000" stop="20250417092839 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 640</title>
     </programme>
-    <programme start="20250417093000 +0000" stop="20250417103000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417092839 +0000" stop="20250417103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 641</title>
     </programme>
-    <programme start="20250417103000 +0000" stop="20250417113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417103000 +0000" stop="20250417113029 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 13</title>
     </programme>
-    <programme start="20250417113000 +0000" stop="20250417120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417113029 +0000" stop="20250417120006 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 14</title>
     </programme>
-    <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417120006 +0000" stop="20250417130002 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 5</title>
     </programme>
-    <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417130002 +0000" stop="20250417140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 22</title>
     </programme>
-    <programme start="20250417140000 +0000" stop="20250417143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417140000 +0000" stop="20250417143049 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250417143000 +0000" stop="20250417150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417143049 +0000" stop="20250417150022 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 3</title>
     </programme>
-    <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417150022 +0000" stop="20250417155938 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 6</title>
     </programme>
-    <programme start="20250417160000 +0000" stop="20250417170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250417155938 +0000" stop="20250417170005 +0000" channel="Channel 8.mewatch">
         <title>Mysterious Lotus Casebook - EP 33</title>
     </programme>
     <programme start="20250416153000 +0000" stop="20250416163000 +0000" channel="Channel U.mewatch">
         <title>Catching a Scammer - EP 3</title>
     </programme>
-    <programme start="20250416163000 +0000" stop="20250416173000 +0000" channel="Channel U.mewatch">
+    <programme start="20250416163036 +0000" stop="20250416173025 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 29</title>
     </programme>
-    <programme start="20250416173000 +0000" stop="20250416220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250416173025 +0000" stop="20250416220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 30</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250417025811 +0000" channel="Channel U.mewatch">
@@ -348,76 +348,76 @@
     <programme start="20250417064211 +0000" stop="20250417064411 +0000" channel="Channel U.mewatch">
         <title>- EP 223</title>
     </programme>
-    <programme start="20250417064411 +0000" stop="20250417070000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417064411 +0000" stop="20250417065959 +0000" channel="Channel U.mewatch">
         <title>- EP 76</title>
     </programme>
-    <programme start="20250417070000 +0000" stop="20250417080000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417065959 +0000" stop="20250417075955 +0000" channel="Channel U.mewatch">
         <title>Hello Taiwan S7 - EP 18</title>
     </programme>
-    <programme start="20250417080000 +0000" stop="20250417090000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417075955 +0000" stop="20250417085927 +0000" channel="Channel U.mewatch">
         <title>Rebooting S2 - EP 2</title>
     </programme>
-    <programme start="20250417090000 +0000" stop="20250417100000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417085927 +0000" stop="20250417095935 +0000" channel="Channel U.mewatch">
         <title>My Wonderful Life - EP 42</title>
     </programme>
-    <programme start="20250417100000 +0000" stop="20250417110000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417095935 +0000" stop="20250417110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 23</title>
     </programme>
-    <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417110000 +0000" stop="20250417115919 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 31</title>
     </programme>
-    <programme start="20250417120000 +0000" stop="20250417130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417115919 +0000" stop="20250417130002 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 32</title>
     </programme>
-    <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417130002 +0000" stop="20250417140017 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 1</title>
     </programme>
-    <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417140017 +0000" stop="20250417150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 25</title>
     </programme>
-    <programme start="20250417150000 +0000" stop="20250417153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417150000 +0000" stop="20250417153024 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250417153000 +0000" stop="20250417163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250417153024 +0000" stop="20250417163018 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 1</title>
     </programme>
     <programme start="20250416153000 +0000" stop="20250417010000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250417010000 +0000" stop="20250417013000 +0000" channel="Suria.mewatch">
+    <programme start="20250417010000 +0000" stop="20250417013014 +0000" channel="Suria.mewatch">
         <title>Mechamato &#039;The Animated Series&#039; S2 - EP 13</title>
     </programme>
-    <programme start="20250417013000 +0000" stop="20250417020000 +0000" channel="Suria.mewatch">
+    <programme start="20250417013014 +0000" stop="20250417020016 +0000" channel="Suria.mewatch">
         <title>SQFT - EP 7</title>
     </programme>
-    <programme start="20250417020000 +0000" stop="20250417030000 +0000" channel="Suria.mewatch">
+    <programme start="20250417020016 +0000" stop="20250417030018 +0000" channel="Suria.mewatch">
         <title>(SILENT CRY) - EP 1</title>
     </programme>
-    <programme start="20250417030000 +0000" stop="20250417040000 +0000" channel="Suria.mewatch">
+    <programme start="20250417030018 +0000" stop="20250417040018 +0000" channel="Suria.mewatch">
         <title>Single Terlalu Lama - EP 15</title>
     </programme>
-    <programme start="20250417040000 +0000" stop="20250417050000 +0000" channel="Suria.mewatch">
+    <programme start="20250417040018 +0000" stop="20250417050019 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 9</title>
     </programme>
-    <programme start="20250417050000 +0000" stop="20250417060000 +0000" channel="Suria.mewatch">
+    <programme start="20250417050019 +0000" stop="20250417060012 +0000" channel="Suria.mewatch">
         <title>Marina - EP 9</title>
     </programme>
-    <programme start="20250417060000 +0000" stop="20250417070000 +0000" channel="Suria.mewatch">
+    <programme start="20250417060012 +0000" stop="20250417070007 +0000" channel="Suria.mewatch">
         <title>Sunshine - EP 11</title>
     </programme>
-    <programme start="20250417070000 +0000" stop="20250417073000 +0000" channel="Suria.mewatch">
+    <programme start="20250417070007 +0000" stop="20250417073003 +0000" channel="Suria.mewatch">
         <title>Detik Semasa - EP 2</title>
     </programme>
-    <programme start="20250417073000 +0000" stop="20250417080000 +0000" channel="Suria.mewatch">
+    <programme start="20250417073003 +0000" stop="20250417080007 +0000" channel="Suria.mewatch">
         <title>Sedapur Bersama Zara Zya - EP 1</title>
     </programme>
-    <programme start="20250417080000 +0000" stop="20250417090000 +0000" channel="Suria.mewatch">
+    <programme start="20250417080007 +0000" stop="20250417090007 +0000" channel="Suria.mewatch">
         <title>Akira Khan - EP 9</title>
     </programme>
-    <programme start="20250417090000 +0000" stop="20250417100000 +0000" channel="Suria.mewatch">
+    <programme start="20250417090007 +0000" stop="20250417100006 +0000" channel="Suria.mewatch">
         <title>ORIGENE - EP 6</title>
     </programme>
-    <programme start="20250417100000 +0000" stop="20250417103000 +0000" channel="Suria.mewatch">
+    <programme start="20250417100006 +0000" stop="20250417103000 +0000" channel="Suria.mewatch">
         <title>Mechamato &#039;The Animated Series&#039; S2 - EP 13</title>
     </programme>
     <programme start="20250417103000 +0000" stop="20250417110000 +0000" channel="Suria.mewatch">
@@ -426,23 +426,20 @@
     <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 10</title>
     </programme>
-    <programme start="20250417120000 +0000" stop="20250417123000 +0000" channel="Suria.mewatch">
+    <programme start="20250417120000 +0000" stop="20250417122959 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250417123000 +0000" stop="20250417133000 +0000" channel="Suria.mewatch">
+    <programme start="20250417122959 +0000" stop="20250417133000 +0000" channel="Suria.mewatch">
         <title>From KL to PL - EP 1</title>
     </programme>
-    <programme start="20250417133000 +0000" stop="20250417143000 +0000" channel="Suria.mewatch">
+    <programme start="20250417133000 +0000" stop="20250417143012 +0000" channel="Suria.mewatch">
         <title>Pinjaman Syurga - EP 3</title>
     </programme>
-    <programme start="20250417143000 +0000" stop="20250417153000 +0000" channel="Suria.mewatch">
+    <programme start="20250417143012 +0000" stop="20250417153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 10</title>
     </programme>
-    <programme start="20250417153000 +0000" stop="20250417160000 +0000" channel="Suria.mewatch">
+    <programme start="20250417153000 +0000" stop="20250417160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250417160000 +0000" stop="20250417173000 +0000" channel="Suria.mewatch">
-        <title>Karipap Haiz - EP 1</title>
     </programme>
     <programme start="20250416153000 +0000" stop="20250417010000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -501,13 +498,10 @@
     <programme start="20250417140000 +0000" stop="20250417170000 +0000" channel="Vasantham.mewatch">
         <title>Star</title>
     </programme>
-    <programme start="20250416160000 +0000" stop="20250416160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250416160300 +0000" stop="20250416170000 +0000" channel="CNA.mewatch">
+    <programme start="20250416160314 +0000" stop="20250416165959 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="CNA.mewatch">
+    <programme start="20250416165959 +0000" stop="20250416180000 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 2</title>
     </programme>
     <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="CNA.mewatch">
@@ -519,43 +513,43 @@
     <programme start="20250416200000 +0000" stop="20250416210000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250416210000 +0000" stop="20250416213000 +0000" channel="CNA.mewatch">
+    <programme start="20250416210000 +0000" stop="20250416212958 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 5</title>
     </programme>
-    <programme start="20250416213000 +0000" stop="20250416220000 +0000" channel="CNA.mewatch">
+    <programme start="20250416212958 +0000" stop="20250416220000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 3</title>
     </programme>
     <programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250416230000 +0000" stop="20250417020000 +0000" channel="CNA.mewatch">
+    <programme start="20250416230000 +0000" stop="20250417020055 +0000" channel="CNA.mewatch">
         <title>Asia First</title>
     </programme>
-    <programme start="20250417020000 +0000" stop="20250417023000 +0000" channel="CNA.mewatch">
+    <programme start="20250417020055 +0000" stop="20250417023001 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 5</title>
     </programme>
-    <programme start="20250417023000 +0000" stop="20250417030000 +0000" channel="CNA.mewatch">
+    <programme start="20250417023001 +0000" stop="20250417030001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 3</title>
     </programme>
-    <programme start="20250417030000 +0000" stop="20250417050000 +0000" channel="CNA.mewatch">
+    <programme start="20250417030001 +0000" stop="20250417050056 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250417050000 +0000" stop="20250417060000 +0000" channel="CNA.mewatch">
+    <programme start="20250417050056 +0000" stop="20250417060001 +0000" channel="CNA.mewatch">
         <title>Fact Vs. Fiction - EP 1</title>
     </programme>
-    <programme start="20250417060000 +0000" stop="20250417080000 +0000" channel="CNA.mewatch">
+    <programme start="20250417060001 +0000" stop="20250417080106 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250417080000 +0000" stop="20250417090000 +0000" channel="CNA.mewatch">
+    <programme start="20250417080106 +0000" stop="20250417090000 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 2</title>
     </programme>
-    <programme start="20250417090000 +0000" stop="20250417090200 +0000" channel="CNA.mewatch">
+    <programme start="20250417090000 +0000" stop="20250417090215 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250417090200 +0000" stop="20250417100000 +0000" channel="CNA.mewatch">
+    <programme start="20250417090215 +0000" stop="20250417100001 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 2</title>
     </programme>
-    <programme start="20250417100000 +0000" stop="20250417110000 +0000" channel="CNA.mewatch">
+    <programme start="20250417100001 +0000" stop="20250417110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
     <programme start="20250417110000 +0000" stop="20250417120000 +0000" channel="CNA.mewatch">
@@ -567,26 +561,23 @@
     <programme start="20250417130000 +0000" stop="20250417140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 2</title>
     </programme>
-    <programme start="20250417140000 +0000" stop="20250417150000 +0000" channel="CNA.mewatch">
+    <programme start="20250417140000 +0000" stop="20250417150055 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250417150000 +0000" stop="20250417160000 +0000" channel="CNA.mewatch">
+    <programme start="20250417150055 +0000" stop="20250417160001 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 2</title>
     </programme>
-    <programme start="20250417160000 +0000" stop="20250417160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250416160000 +0000" stop="20250417160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th April, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250418160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th April, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Albirex Niigata S</title>
+        <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
     </programme>
     <programme start="20250416160000 +0000" stop="20250417160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th April, Saturday 5.50pm. 2024 Singapore Premier League: Young Lions vs Geylang International</title>
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250418160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th April, Saturday 5.50pm. 2024 Singapore Premier League: Young Lions vs Geylang International</title>
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250416140000 +0000" stop="20250416164000 +0000" channel="now-80s.mewatch">
         <title>Tight Fit&#039;s 30 Fantasy Islands!</title>
