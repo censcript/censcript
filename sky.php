@@ -14278,7 +14278,7 @@
         <title>NHL: New Jersey at Boston</title>
     </programme>
     <programme start="20250416230000 +0000" stop="20250417020000 +0000" channel="Premier 2 HD">
-        <title>Live NHL: Anaheim at Winnipeg</title>
+        <title>Live NHL: Carolina at Montreal</title>
     </programme>
     <programme start="20250417020000 +0000" stop="20250417023000 +0000" channel="Premier 2 HD">
         <title>Fastzone</title>
