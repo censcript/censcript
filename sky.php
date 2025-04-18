@@ -15435,7 +15435,13 @@
     <programme start="20250419063000 +0000" stop="20250419073000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
-    <programme start="20250419073000 +0000" stop="20250419090000 +0000" channel="NDTV World">
+    <programme start="20250419073000 +0000" stop="20250419080000 +0000" channel="NDTV World">
+        <title>News</title>
+    </programme>
+    <programme start="20250419080000 +0000" stop="20250419083000 +0000" channel="NDTV World">
+        <title>Dharavi Dialogues</title>
+    </programme>
+    <programme start="20250419083000 +0000" stop="20250419090000 +0000" channel="NDTV World">
         <title>News</title>
     </programme>
     <programme start="20250419090000 +0000" stop="20250419093000 +0000" channel="NDTV World">
@@ -29671,7 +29677,7 @@
         <title>Priyo Gaan</title>
     </programme>
     <programme start="20250419123000 +0000" stop="20250419143000 +0000" channel="Deen TV">
-        <title>Charity Appeal</title>
+        <title>International Qirat Conference</title>
     </programme>
     <programme start="20250419143000 +0000" stop="20250419150000 +0000" channel="Deen TV">
         <title>Tilawat-E-Quran</title>
