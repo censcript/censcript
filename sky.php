@@ -29155,94 +29155,88 @@
         <title>Islamic Lifestyle</title>
     </programme>
     <programme start="20250418060000 +0000" stop="20250418063000 +0000" channel="CHSTV">
-        <title>The Voice of the Quran</title>
-    </programme>
-    <programme start="20250418063000 +0000" stop="20250418070000 +0000" channel="CHSTV">
-        <title>The Spirit Of The Quran</title>
-    </programme>
-    <programme start="20250418070000 +0000" stop="20250418073000 +0000" channel="CHSTV">
         <title>Hamd O Nath</title>
     </programme>
-    <programme start="20250418073000 +0000" stop="20250418080000 +0000" channel="CHSTV">
+    <programme start="20250418063000 +0000" stop="20250418070000 +0000" channel="CHSTV">
         <title>Arabi Kafela</title>
     </programme>
+    <programme start="20250418070000 +0000" stop="20250418073000 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
+    </programme>
+    <programme start="20250418073000 +0000" stop="20250418080000 +0000" channel="CHSTV">
+        <title>Purbo Poshchim</title>
+    </programme>
     <programme start="20250418080000 +0000" stop="20250418083000 +0000" channel="CHSTV">
-        <title>Islamic Lifestyle</title>
-    </programme>
-    <programme start="20250418083000 +0000" stop="20250418090000 +0000" channel="CHSTV">
-        <title>Acts Of Duty</title>
-    </programme>
-    <programme start="20250418090000 +0000" stop="20250418093000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250418093000 +0000" stop="20250418110000 +0000" channel="CHSTV">
-        <title>Ramadan Essentials</title>
+    <programme start="20250418083000 +0000" stop="20250418100000 +0000" channel="CHSTV">
+        <title>Amar Gao</title>
     </programme>
-    <programme start="20250418110000 +0000" stop="20250418113000 +0000" channel="CHSTV">
-        <title>Haat Bazar</title>
+    <programme start="20250418100000 +0000" stop="20250418113000 +0000" channel="CHSTV">
+        <title>Legal Advice</title>
     </programme>
-    <programme start="20250418113000 +0000" stop="20250418120000 +0000" channel="CHSTV">
-        <title>Understanding Islam</title>
+    <programme start="20250418113000 +0000" stop="20250418120500 +0000" channel="CHSTV">
+        <title>Amader Gram</title>
     </programme>
-    <programme start="20250418120000 +0000" stop="20250418121100 +0000" channel="CHSTV">
-        <title>Ummahatul Muminin</title>
+    <programme start="20250418120500 +0000" stop="20250418121000 +0000" channel="CHSTV">
+        <title>Azan-E-Juma</title>
     </programme>
-    <programme start="20250418121100 +0000" stop="20250418121700 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
-    </programme>
-    <programme start="20250418121700 +0000" stop="20250418123000 +0000" channel="CHSTV">
-        <title>Ummahatul Muminin</title>
-    </programme>
-    <programme start="20250418123000 +0000" stop="20250418124000 +0000" channel="CHSTV">
-        <title>Adesh Koren Allah</title>
-    </programme>
-    <programme start="20250418124000 +0000" stop="20250418125000 +0000" channel="CHSTV">
-        <title>Aloy Bhora Ramadan</title>
-    </programme>
-    <programme start="20250418125000 +0000" stop="20250418130000 +0000" channel="CHSTV">
-        <title>The Light Of Islam</title>
-    </programme>
-    <programme start="20250418130000 +0000" stop="20250418140000 +0000" channel="CHSTV">
-        <title>RFC Legacy</title>
-    </programme>
-    <programme start="20250418140000 +0000" stop="20250418143000 +0000" channel="CHSTV">
-        <title>Pearls Of Wisdom</title>
-    </programme>
-    <programme start="20250418143000 +0000" stop="20250418150000 +0000" channel="CHSTV">
+    <programme start="20250418121000 +0000" stop="20250418123000 +0000" channel="CHSTV">
         <title>Islamic Filler</title>
     </programme>
-    <programme start="20250418150000 +0000" stop="20250418162700 +0000" channel="CHSTV">
-        <title>Ramadan Essentials</title>
+    <programme start="20250418123000 +0000" stop="20250418130000 +0000" channel="CHSTV">
+        <title>Islam Keno Shantir Dhormo</title>
     </programme>
-    <programme start="20250418162700 +0000" stop="20250418163200 +0000" channel="CHSTV">
+    <programme start="20250418130000 +0000" stop="20250418133000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250418133000 +0000" stop="20250418140000 +0000" channel="CHSTV">
+        <title>Sharirik Shikkha</title>
+    </programme>
+    <programme start="20250418140000 +0000" stop="20250418153000 +0000" channel="CHSTV">
+        <title>Reality With Mahee</title>
+    </programme>
+    <programme start="20250418153000 +0000" stop="20250418160000 +0000" channel="CHSTV">
+        <title>Somogro Bangladesh</title>
+    </programme>
+    <programme start="20250418160000 +0000" stop="20250418165200 +0000" channel="CHSTV">
+        <title>Tafsir</title>
+    </programme>
+    <programme start="20250418165200 +0000" stop="20250418170000 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250418163200 +0000" stop="20250418170000 +0000" channel="CHSTV">
-        <title>Adom Bepari</title>
+    <programme start="20250418170000 +0000" stop="20250418173000 +0000" channel="CHSTV">
+        <title>Haat Bazar</title>
     </programme>
-    <programme start="20250418170000 +0000" stop="20250418183100 +0000" channel="CHSTV">
-        <title>Ramadan Charity Appeal 2025</title>
+    <programme start="20250418173000 +0000" stop="20250418180000 +0000" channel="CHSTV">
+        <title>Orthoniti Sharadin</title>
     </programme>
-    <programme start="20250418183100 +0000" stop="20250418184000 +0000" channel="CHSTV">
+    <programme start="20250418180000 +0000" stop="20250418183000 +0000" channel="CHSTV">
+        <title>Independent News</title>
+    </programme>
+    <programme start="20250418183000 +0000" stop="20250418190000 +0000" channel="CHSTV">
+        <title>Sharirik Shikkha</title>
+    </programme>
+    <programme start="20250418190000 +0000" stop="20250418190600 +0000" channel="CHSTV">
+        <title>Islamic Filler</title>
+    </programme>
+    <programme start="20250418190600 +0000" stop="20250418191200 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250418184000 +0000" stop="20250418190000 +0000" channel="CHSTV">
-        <title>The Noble Quran</title>
+    <programme start="20250418191200 +0000" stop="20250418202000 +0000" channel="CHSTV">
+        <title>Islam Essentials</title>
     </programme>
-    <programme start="20250418190000 +0000" stop="20250418194900 +0000" channel="CHSTV">
-        <title>Ramadan Charity Appeal 2025</title>
-    </programme>
-    <programme start="20250418194900 +0000" stop="20250418195400 +0000" channel="CHSTV">
+    <programme start="20250418202000 +0000" stop="20250418203000 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250418195400 +0000" stop="20250418220000 +0000" channel="CHSTV">
-        <title>Ramadan Charity Appeal 2025</title>
+    <programme start="20250418203000 +0000" stop="20250418210000 +0000" channel="CHSTV">
+        <title>Haat Bazar</title>
     </programme>
-    <programme start="20250418220000 +0000" stop="20250418223000 +0000" channel="CHSTV">
+    <programme start="20250418210000 +0000" stop="20250418213000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
-    <programme start="20250418223000 +0000" stop="20250418233000 +0000" channel="CHSTV">
-        <title>Ramadan Charity Appeal 2025</title>
+    <programme start="20250418213000 +0000" stop="20250418223000 +0000" channel="CHSTV">
+        <title>Shuvo Kamona</title>
     </programme>
     <programme start="20250417202300 +0000" stop="20250417220000 +0000" channel="IQRA Bangla">
         <title>AL Quran Conference</title>
