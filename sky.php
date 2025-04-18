@@ -23425,7 +23425,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Best Of QVC Beauty</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
