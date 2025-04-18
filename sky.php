@@ -26232,32 +26232,29 @@
     <programme start="20250419074500 +0000" stop="20250419080000 +0000" channel="MTA1 World HD">
         <title>Majlis Ilm-o-Irfan</title>
     </programme>
-    <programme start="20250419080000 +0000" stop="20250419085000 +0000" channel="MTA1 World HD">
+    <programme start="20250419080000 +0000" stop="20250419090000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250419085000 +0000" stop="20250419094500 +0000" channel="MTA1 World HD">
+    <programme start="20250419090000 +0000" stop="20250419095500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250419094500 +0000" stop="20250419100000 +0000" channel="MTA1 World HD">
+    <programme start="20250419095500 +0000" stop="20250419100500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250419100000 +0000" stop="20250419103500 +0000" channel="MTA1 World HD">
+    <programme start="20250419100500 +0000" stop="20250419104000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Truth</title>
     </programme>
-    <programme start="20250419103500 +0000" stop="20250419104500 +0000" channel="MTA1 World HD">
+    <programme start="20250419104000 +0000" stop="20250419105000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250419104500 +0000" stop="20250419110000 +0000" channel="MTA1 World HD">
+    <programme start="20250419105000 +0000" stop="20250419110500 +0000" channel="MTA1 World HD">
         <title>Chef's Corner</title>
     </programme>
-    <programme start="20250419110000 +0000" stop="20250419113000 +0000" channel="MTA1 World HD">
+    <programme start="20250419110500 +0000" stop="20250419113000 +0000" channel="MTA1 World HD">
         <title>Newsweek Interview Of Huzoor</title>
     </programme>
-    <programme start="20250419113000 +0000" stop="20250419115000 +0000" channel="MTA1 World HD">
-        <title>Darweshan-e-Qadian</title>
-    </programme>
-    <programme start="20250419115000 +0000" stop="20250419120500 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
+    <programme start="20250419113000 +0000" stop="20250419120500 +0000" channel="MTA1 World HD">
+        <title>Open Forum</title>
     </programme>
     <programme start="20250419120500 +0000" stop="20250419122000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -26298,16 +26295,16 @@
     <programme start="20250419182000 +0000" stop="20250419183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250419183500 +0000" stop="20250419190500 +0000" channel="MTA1 World HD">
+    <programme start="20250419183500 +0000" stop="20250419190000 +0000" channel="MTA1 World HD">
         <title>Bachon Ki Duniya</title>
     </programme>
-    <programme start="20250419190500 +0000" stop="20250419200500 +0000" channel="MTA1 World HD">
+    <programme start="20250419190000 +0000" stop="20250419200000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Khuddam</title>
     </programme>
-    <programme start="20250419200500 +0000" stop="20250419205500 +0000" channel="MTA1 World HD">
+    <programme start="20250419200000 +0000" stop="20250419210000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250419205500 +0000" stop="20250419213000 +0000" channel="MTA1 World HD">
+    <programme start="20250419210000 +0000" stop="20250419213000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
     </programme>
     <programme start="20250419213000 +0000" stop="20250419220000 +0000" channel="MTA1 World HD">
