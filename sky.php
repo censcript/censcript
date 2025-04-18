@@ -19311,11 +19311,8 @@
     <programme start="20250418172500 +0000" stop="20250418175000 +0000" channel="CBBC HD">
         <title>The Next Step</title>
     </programme>
-    <programme start="20250418175000 +0000" stop="20250418175800 +0000" channel="CBBC HD">
+    <programme start="20250418175000 +0000" stop="20250418185000 +0000" channel="CBBC HD">
         <title>Blue Peter Challenges</title>
-    </programme>
-    <programme start="20250418175800 +0000" stop="20250418185800 +0000" channel="CBBC HD">
-        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250417175800 +0000" stop="20250417235800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -23440,7 +23437,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Best Of QVC Beauty</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
