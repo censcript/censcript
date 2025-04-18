@@ -14205,17 +14205,17 @@
     <programme start="20250418060000 +0000" stop="20250418070000 +0000" channel="LFCTV HD">
         <title>LFC Trending</title>
     </programme>
-    <programme start="20250418070000 +0000" stop="20250418080000 +0000" channel="LFCTV HD">
+    <programme start="20250418070000 +0000" stop="20250418075500 +0000" channel="LFCTV HD">
         <title>Retro Reds</title>
     </programme>
-    <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="LFCTV HD">
-        <title>Press Box</title>
+    <programme start="20250418075500 +0000" stop="20250418083000 +0000" channel="LFCTV HD">
+        <title>Live Press Conference</title>
     </programme>
-    <programme start="20250418090000 +0000" stop="20250418093000 +0000" channel="LFCTV HD">
-        <title>Kop 10</title>
+    <programme start="20250418083000 +0000" stop="20250418093000 +0000" channel="LFCTV HD">
+        <title>Goal Rush</title>
     </programme>
     <programme start="20250418093000 +0000" stop="20250418094500 +0000" channel="LFCTV HD">
-        <title>Liverpool U18 v Manchester City: Shortcut</title>
+        <title>Kop 10</title>
     </programme>
     <programme start="20250418094500 +0000" stop="20250418100000 +0000" channel="LFCTV HD">
         <title>Goal Rush</title>
@@ -23425,7 +23425,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Best Of QVC Beauty</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
