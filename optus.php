@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250419013000 +0000" stop="20250419040000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Chicago Stars</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Brentford</title>
+    </programme>
+    <programme start="20250502093000 +0000" stop="20250502100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
     </programme>
 </tv>

@@ -23077,7 +23077,7 @@
         <title>Big Kitchen Brands with Ninja</title>
     </programme>
     <programme start="20250419110000 +0000" stop="20250419120000 +0000" channel="QVC HD">
-        <title>QVC Selection</title>
+        <title>20% off White Stuff</title>
     </programme>
     <programme start="20250419120000 +0000" stop="20250419130000 +0000" channel="QVC HD">
         <title>Up to 30% off Skincare</title>
@@ -23355,16 +23355,10 @@
     <programme start="20250418230000 +0000" stop="20250419000000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
-    <programme start="20250419000000 +0000" stop="20250419010000 +0000" channel="QVC Style HD">
+    <programme start="20250419000000 +0000" stop="20250419020000 +0000" channel="QVC Style HD">
         <title>MarlaWynne Fashion</title>
     </programme>
-    <programme start="20250419010000 +0000" stop="20250419020000 +0000" channel="QVC Style HD">
-        <title>MarlaWynne Fashion</title>
-    </programme>
-    <programme start="20250419020000 +0000" stop="20250419030000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250419030000 +0000" stop="20250419040000 +0000" channel="QVC Style HD">
+    <programme start="20250419020000 +0000" stop="20250419040000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250419040000 +0000" stop="20250419050000 +0000" channel="QVC Style HD">
@@ -23377,15 +23371,12 @@
         <title>Marla Wynne's Wardrobe Heroes</title>
     </programme>
     <programme start="20250419070000 +0000" stop="20250419080000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday</title>
+        <title>Fashion on Friday with Julia</title>
     </programme>
     <programme start="20250419080000 +0000" stop="20250419090000 +0000" channel="QVC Style HD">
         <title>Morning Style with Katy</title>
     </programme>
-    <programme start="20250419090000 +0000" stop="20250419100000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250419100000 +0000" stop="20250419110000 +0000" channel="QVC Style HD">
+    <programme start="20250419090000 +0000" stop="20250419110000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250419110000 +0000" stop="20250419120000 +0000" channel="QVC Style HD">
@@ -23403,10 +23394,7 @@
     <programme start="20250419150000 +0000" stop="20250419160000 +0000" channel="QVC Style HD">
         <title>Plants2Gardens</title>
     </programme>
-    <programme start="20250419160000 +0000" stop="20250419170000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
-    </programme>
-    <programme start="20250419170000 +0000" stop="20250419180000 +0000" channel="QVC Style HD">
+    <programme start="20250419160000 +0000" stop="20250419180000 +0000" channel="QVC Style HD">
         <title>Ruth Langsford Fashion</title>
     </programme>
     <programme start="20250419180000 +0000" stop="20250419190000 +0000" channel="QVC Style HD">
@@ -24024,10 +24012,7 @@
     <programme start="20250419090000 +0000" stop="20250419100000 +0000" channel="QVC Extra">
         <title>Easter Offers</title>
     </programme>
-    <programme start="20250419100000 +0000" stop="20250419110000 +0000" channel="QVC Extra">
-        <title>Your Easter Garden</title>
-    </programme>
-    <programme start="20250419110000 +0000" stop="20250419120000 +0000" channel="QVC Extra">
+    <programme start="20250419100000 +0000" stop="20250419120000 +0000" channel="QVC Extra">
         <title>Your Easter Garden</title>
     </programme>
     <programme start="20250419120000 +0000" stop="20250419130000 +0000" channel="QVC Extra">
@@ -24043,7 +24028,7 @@
         <title>Step into Spring with Rieker</title>
     </programme>
     <programme start="20250419160000 +0000" stop="20250419170000 +0000" channel="QVC Extra">
-        <title>Home Hacks</title>
+        <title>Crocs Footwear</title>
     </programme>
     <programme start="20250419170000 +0000" stop="20250419180000 +0000" channel="QVC Extra">
         <title>Cozee Home</title>
@@ -27481,37 +27466,37 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250419070000 +0000" stop="20250419080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250419080000 +0000" stop="20250419090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250419090000 +0000" stop="20250419100000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Mithy Bol</title>
     </programme>
     <programme start="20250419100000 +0000" stop="20250419110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250419110000 +0000" stop="20250419120000 +0000" channel="Takbeer TV">
-        <title>Salaam Ramadaan</title>
-    </programme>
-    <programme start="20250419120000 +0000" stop="20250419130000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
+    <programme start="20250419120000 +0000" stop="20250419130000 +0000" channel="Takbeer TV">
+        <title>Takbeer Special</title>
+    </programme>
     <programme start="20250419130000 +0000" stop="20250419140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250419140000 +0000" stop="20250419150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250419150000 +0000" stop="20250419160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250419160000 +0000" stop="20250419170000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250419170000 +0000" stop="20250419180000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250419180000 +0000" stop="20250419190000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -29554,25 +29539,25 @@
         <title>Susto Thakun</title>
     </programme>
     <programme start="20250419110000 +0000" stop="20250419112000 +0000" channel="iON TV">
-        <title>Community Focus</title>
+        <title>Drama Time</title>
     </programme>
     <programme start="20250419112000 +0000" stop="20250419120000 +0000" channel="iON TV">
-        <title>Community Focus</title>
+        <title>Drama Time</title>
     </programme>
-    <programme start="20250419120000 +0000" stop="20250419120800 +0000" channel="iON TV">
+    <programme start="20250419120000 +0000" stop="20250419120500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250419120800 +0000" stop="20250419121300 +0000" channel="iON TV">
+    <programme start="20250419120500 +0000" stop="20250419121000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250419121300 +0000" stop="20250419123000 +0000" channel="iON TV">
+    <programme start="20250419121000 +0000" stop="20250419123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250419123000 +0000" stop="20250419130000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250419130000 +0000" stop="20250419140000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250419140000 +0000" stop="20250419142000 +0000" channel="iON TV">
         <title>Alor Pothe</title>
@@ -29581,16 +29566,13 @@
         <title>Alor Pothe</title>
     </programme>
     <programme start="20250419150000 +0000" stop="20250419160000 +0000" channel="iON TV">
-        <title>Bornomala</title>
+        <title>Community Focus</title>
     </programme>
-    <programme start="20250419160000 +0000" stop="20250419163700 +0000" channel="iON TV">
+    <programme start="20250419160000 +0000" stop="20250419165300 +0000" channel="iON TV">
         <title>Nasheed</title>
     </programme>
-    <programme start="20250419163700 +0000" stop="20250419164200 +0000" channel="iON TV">
+    <programme start="20250419165300 +0000" stop="20250419170000 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250419164200 +0000" stop="20250419170000 +0000" channel="iON TV">
-        <title>Nasheed</title>
     </programme>
     <programme start="20250419170000 +0000" stop="20250419173800 +0000" channel="iON TV">
         <title>Documentary</title>
@@ -29598,22 +29580,28 @@
     <programme start="20250419173800 +0000" stop="20250419180000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250419180000 +0000" stop="20250419184400 +0000" channel="iON TV">
+    <programme start="20250419180000 +0000" stop="20250419183000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250419184400 +0000" stop="20250419184900 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250419184900 +0000" stop="20250419190000 +0000" channel="iON TV">
+    <programme start="20250419183000 +0000" stop="20250419190000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250419190000 +0000" stop="20250419200000 +0000" channel="iON TV">
+    <programme start="20250419190000 +0000" stop="20250419190700 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250419200000 +0000" stop="20250419200500 +0000" channel="iON TV">
+    <programme start="20250419190700 +0000" stop="20250419191200 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250419191200 +0000" stop="20250419200000 +0000" channel="iON TV">
+        <title>Drama Time</title>
+    </programme>
+    <programme start="20250419200000 +0000" stop="20250419202100 +0000" channel="iON TV">
+        <title>News 24</title>
+    </programme>
+    <programme start="20250419202100 +0000" stop="20250419202600 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250419200500 +0000" stop="20250419203000 +0000" channel="iON TV">
+    <programme start="20250419202600 +0000" stop="20250419203000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
     <programme start="20250419203000 +0000" stop="20250419210000 +0000" channel="iON TV">
