@@ -13285,7 +13285,7 @@
         <title>S/Lge 24': Hull FC v Hulll KR Hlts</title>
     </programme>
     <programme start="20250418104500 +0000" stop="20250418110000 +0000" channel="SkySp NFL HD">
-        <title>S/Lge 24': Hull KR v Hulll FC Hlts</title>
+        <title>S/Lge 24': Hull KR v Hull FC Hlts</title>
     </programme>
     <programme start="20250418110000 +0000" stop="20250418134500 +0000" channel="SkySp NFL HD">
         <title>Live S/Lge: Hull FC v Hull KR</title>
@@ -13722,11 +13722,11 @@
     <programme start="20250418195000 +0000" stop="20250418200000 +0000" channel="SkySp Mix HD">
         <title>The Best of England v Australia</title>
     </programme>
-    <programme start="20250418200000 +0000" stop="20250418224500 +0000" channel="SkySp Mix HD">
+    <programme start="20250418200000 +0000" stop="20250418224501 +0000" channel="SkySp Mix HD">
         <title>S/Lge: Hull FC v Hull KR</title>
     </programme>
-    <programme start="20250418224500 +0000" stop="20250418234500 +0000" channel="SkySp Mix HD">
-        <title>PL Darts: Rotterdam</title>
+    <programme start="20250418224501 +0000" stop="20250418234501 +0000" channel="SkySp Mix HD">
+        <title>S/Lge: Wigan v St Helens</title>
     </programme>
     <programme start="20250417213000 +0000" stop="20250417223000 +0000" channel="TNT Sports 3">
         <title>The Football's On</title>
@@ -17826,47 +17826,38 @@
     <programme start="20250418060000 +0000" stop="20250418063000 +0000" channel="EWTN Catholic">
         <title>The Human Face of God in the Holy Veil of Manoppello</title>
     </programme>
-    <programme start="20250418063000 +0000" stop="20250418070000 +0000" channel="EWTN Catholic">
-        <title>Reasons for Our Hope</title>
-    </programme>
-    <programme start="20250418070000 +0000" stop="20250418080000 +0000" channel="EWTN Catholic">
-        <title>Life Is Worth Living</title>
+    <programme start="20250418063000 +0000" stop="20250418080000 +0000" channel="EWTN Catholic">
+        <title>Solemn Mass of The Lord's Supper from Rome</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="EWTN Catholic">
-        <title>The Face of Mercy</title>
+        <title>The Seven Last Words of Christ with Fr Raymond de Souza</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418093000 +0000" channel="EWTN Catholic">
-        <title>Web of Faith 2.0</title>
+        <title>For God So Loved the World</title>
     </programme>
     <programme start="20250418093000 +0000" stop="20250418100000 +0000" channel="EWTN Catholic">
-        <title>The Conversation</title>
+        <title>Reasons for Our Hope</title>
     </programme>
     <programme start="20250418100000 +0000" stop="20250418110000 +0000" channel="EWTN Catholic">
         <title>EWTN Live</title>
     </programme>
-    <programme start="20250418110000 +0000" stop="20250418112000 +0000" channel="EWTN Catholic">
-        <title>Chaplet of Divine Mercy</title>
-    </programme>
-    <programme start="20250418112000 +0000" stop="20250418113000 +0000" channel="EWTN Catholic">
-        <title>Rome's Hidden Churches: A Lenten Pilgrimage</title>
+    <programme start="20250418110000 +0000" stop="20250418113000 +0000" channel="EWTN Catholic">
+        <title>The Real Presence: The Mass</title>
     </programme>
     <programme start="20250418113000 +0000" stop="20250418120000 +0000" channel="EWTN Catholic">
         <title>The Holy Rosary with Mother Angelica</title>
     </programme>
     <programme start="20250418120000 +0000" stop="20250418130000 +0000" channel="EWTN Catholic">
-        <title>The Seven Last Words of Christ with Fr Raymond de Souza</title>
+        <title>The Shroud: The Story of a Mystery</title>
     </programme>
-    <programme start="20250418130000 +0000" stop="20250418133000 +0000" channel="EWTN Catholic">
-        <title>Built on Faith: The Church of the Holy Sepulchre</title>
-    </programme>
-    <programme start="20250418133000 +0000" stop="20250418140000 +0000" channel="EWTN Catholic">
-        <title>Stations of the Cross</title>
+    <programme start="20250418130000 +0000" stop="20250418140000 +0000" channel="EWTN Catholic">
+        <title>Stations Of the Cross From Lourdes</title>
     </programme>
     <programme start="20250418140000 +0000" stop="20250418142000 +0000" channel="EWTN Catholic">
         <title>Chaplet of Divine Mercy</title>
     </programme>
     <programme start="20250418142000 +0000" stop="20250418143000 +0000" channel="EWTN Catholic">
-        <title>Live Adoration from EWTN Chapel</title>
+        <title>Rome's Hidden Churches: A Lenten Pilgrimage</title>
     </programme>
     <programme start="20250418143000 +0000" stop="20250418150000 +0000" channel="EWTN Catholic">
         <title>My Time With Jesus</title>
@@ -17875,22 +17866,31 @@
         <title>Celebration of the Lord's Passion from Rome</title>
     </programme>
     <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="EWTN Catholic">
-        <title>The Pilgrim - The Road to Emmaus</title>
+        <title>Life Is Worth Living</title>
     </programme>
     <programme start="20250418180000 +0000" stop="20250418183000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
+        <title>Stations of the Cross</title>
     </programme>
     <programme start="20250418183000 +0000" stop="20250418190000 +0000" channel="EWTN Catholic">
+        <title>Good Friday Meditations</title>
+    </programme>
+    <programme start="20250418190000 +0000" stop="20250418191500 +0000" channel="EWTN Catholic">
+        <title>Kenosis</title>
+    </programme>
+    <programme start="20250418191500 +0000" stop="20250418204500 +0000" channel="EWTN Catholic">
+        <title>Way of the Cross from Rome</title>
+    </programme>
+    <programme start="20250418204500 +0000" stop="20250418210000 +0000" channel="EWTN Catholic">
+        <title>Crux</title>
+    </programme>
+    <programme start="20250418210000 +0000" stop="20250418213000 +0000" channel="EWTN Catholic">
+        <title>Reasons for Our Hope</title>
+    </programme>
+    <programme start="20250418213000 +0000" stop="20250418220000 +0000" channel="EWTN Catholic">
         <title>Choral Meditations on the Passion of Christ</title>
     </programme>
-    <programme start="20250418190000 +0000" stop="20250418210000 +0000" channel="EWTN Catholic">
+    <programme start="20250418220000 +0000" stop="20250418230000 +0000" channel="EWTN Catholic">
         <title>Liturgy of the Lord's Passion</title>
-    </programme>
-    <programme start="20250418210000 +0000" stop="20250418223000 +0000" channel="EWTN Catholic">
-        <title>Redeemer</title>
-    </programme>
-    <programme start="20250418223000 +0000" stop="20250418233000 +0000" channel="EWTN Catholic">
-        <title>Way of the Cross from Rome</title>
     </programme>
     <programme start="20250417213000 +0000" stop="20250417220000 +0000" channel="Faith World TV">
         <title>Christian Hope Ministry</title>
@@ -23425,7 +23425,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>Best Of QVC Beauty</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -28090,7 +28090,7 @@
         <title>Live: Madrasah TV Hajj</title>
     </programme>
     <programme start="20250418100000 +0000" stop="20250418101500 +0000" channel="Eman Channel">
-        <title>Once Upon a Time with Sister Venessa</title>
+        <title>Once Upon a Time with Venessa</title>
     </programme>
     <programme start="20250418101500 +0000" stop="20250418103000 +0000" channel="Eman Channel">
         <title>15 Reasons Why</title>
@@ -28144,7 +28144,7 @@
         <title>Blessed Home</title>
     </programme>
     <programme start="20250418161500 +0000" stop="20250418163000 +0000" channel="Eman Channel">
-        <title>Once Upon a Time with Sister Venessa</title>
+        <title>Once Upon a Time with Venessa</title>
     </programme>
     <programme start="20250418163000 +0000" stop="20250418164500 +0000" channel="Eman Channel">
         <title>Qur'an Time</title>
@@ -28164,16 +28164,13 @@
     <programme start="20250418183000 +0000" stop="20250418184500 +0000" channel="Eman Channel">
         <title>Verses of Hope &amp; Healing from the Qur'an</title>
     </programme>
-    <programme start="20250418184500 +0000" stop="20250418190000 +0000" channel="Eman Channel">
+    <programme start="20250418184500 +0000" stop="20250418190600 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250418190000 +0000" stop="20250418190600 +0000" channel="Eman Channel">
-        <title>Ask Eman</title>
-    </programme>
-    <programme start="20250418190600 +0000" stop="20250418192000 +0000" channel="Eman Channel">
+    <programme start="20250418190600 +0000" stop="20250418191600 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250418192000 +0000" stop="20250418200000 +0000" channel="Eman Channel">
+    <programme start="20250418191600 +0000" stop="20250418200000 +0000" channel="Eman Channel">
         <title>Ask Eman</title>
     </programme>
     <programme start="20250418200000 +0000" stop="20250418201500 +0000" channel="Eman Channel">
@@ -28552,13 +28549,10 @@
         <title>Hukamnama Explanations</title>
     </programme>
     <programme start="20250418130000 +0000" stop="20250418140000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Parkash Purab Guru Tegh Bahadur Ji</title>
     </programme>
-    <programme start="20250418140000 +0000" stop="20250418143000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
-    </programme>
-    <programme start="20250418143000 +0000" stop="20250418150000 +0000" channel="Sikh Channel">
-        <title>Leicester Smagam Update</title>
+    <programme start="20250418140000 +0000" stop="20250418150000 +0000" channel="Sikh Channel">
+        <title>Parkash Purab Guru Tegh Bahadur Ji</title>
     </programme>
     <programme start="20250418150000 +0000" stop="20250418153000 +0000" channel="Sikh Channel">
         <title>Teleshopping: Chalo Dubai Chaliye</title>
@@ -28566,11 +28560,11 @@
     <programme start="20250418153000 +0000" stop="20250418160000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250418160000 +0000" stop="20250418170000 +0000" channel="Sikh Channel">
+    <programme start="20250418160000 +0000" stop="20250418173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
-    <programme start="20250418170000 +0000" stop="20250418180000 +0000" channel="Sikh Channel">
-        <title>Interview: Sai Syed Ali Raza</title>
+    <programme start="20250418173000 +0000" stop="20250418180000 +0000" channel="Sikh Channel">
+        <title>Parkash Purab Guru Tegh Bahadur Ji</title>
     </programme>
     <programme start="20250418180000 +0000" stop="20250418183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -28588,13 +28582,13 @@
         <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250418210000 +0000" stop="20250418213000 +0000" channel="Sikh Channel">
-        <title>Gal Punjab Di</title>
+        <title>Parkash Purab Guru Tegh Bahadur Ji</title>
     </programme>
     <programme start="20250418213000 +0000" stop="20250418220000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+        <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250418220000 +0000" stop="20250418223000 +0000" channel="Sikh Channel">
-        <title>Sri Sehaj Path - 350 Sala</title>
+        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250418223000 +0000" stop="20250418233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -33627,11 +33621,11 @@
     <programme start="20250418195000 +0000" stop="20250418200000 +0000" channel="SkySp Mix">
         <title>The Best of England v Australia</title>
     </programme>
-    <programme start="20250418200000 +0000" stop="20250418224500 +0000" channel="SkySp Mix">
+    <programme start="20250418200000 +0000" stop="20250418224501 +0000" channel="SkySp Mix">
         <title>S/Lge: Hull FC v Hull KR</title>
     </programme>
-    <programme start="20250418224500 +0000" stop="20250418234500 +0000" channel="SkySp Mix">
-        <title>PL Darts: Rotterdam</title>
+    <programme start="20250418224501 +0000" stop="20250418234501 +0000" channel="SkySp Mix">
+        <title>S/Lge: Wigan v St Helens</title>
     </programme>
     <programme start="20250417213000 +0000" stop="20250417223000 +0000" channel="TNTSports3 HD">
         <title>The Football's On</title>
