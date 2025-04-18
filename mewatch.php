@@ -553,10 +553,10 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250418160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
+        <title>No Programme available now. Next Broadcast on 19th April, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Albirex Niigata S</title>
     </programme>
-    <programme start="20250418160000 +0000" stop="20250419160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
+    <programme start="20250418160000 +0000" stop="20250419120500 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th April, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Albirex Niigata S</title>
     </programme>
     <programme start="20250417160000 +0000" stop="20250418160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
