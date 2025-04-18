@@ -16204,7 +16204,7 @@
         <title>News - London</title>
     </programme>
     <programme start="20250418213000 +0000" stop="20250418220000 +0000" channel="TRT World">
-        <title>Roundtable</title>
+        <title>One On One: Jeyhun Bayramov</title>
     </programme>
     <programme start="20250418220000 +0000" stop="20250418223000 +0000" channel="TRT World">
         <title>News</title>
@@ -23425,7 +23425,7 @@
         <title>Elemis Skin Therapies</title>
     </programme>
     <programme start="20250418080000 +0000" stop="20250418090000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>Best Of QVC Beauty</title>
     </programme>
     <programme start="20250418090000 +0000" stop="20250418100000 +0000" channel="QVC Beauty">
         <title>Look Good, Feel Good</title>
@@ -28666,7 +28666,7 @@
         <title>Educate To Save</title>
     </programme>
     <programme start="20250418180000 +0000" stop="20250418190000 +0000" channel="Sangat">
-        <title>Live: Atam Ras Raag Darbar</title>
+        <title>Parkash Gurpurab</title>
     </programme>
     <programme start="20250418190000 +0000" stop="20250418193000 +0000" channel="Sangat">
         <title>Sangat News</title>
@@ -28678,13 +28678,7 @@
         <title>Guru Teg Bahadur Boliya</title>
     </programme>
     <programme start="20250418210000 +0000" stop="20250418220000 +0000" channel="Sangat">
-        <title>Hukamnama Katha</title>
-    </programme>
-    <programme start="20250418220000 +0000" stop="20250418223000 +0000" channel="Sangat">
-        <title>Sehaj Paath</title>
-    </programme>
-    <programme start="20250418223000 +0000" stop="20250418233000 +0000" channel="Sangat">
-        <title>Salok M:9</title>
+        <title>Mahan Gurmat Samagam</title>
     </programme>
     <programme start="20250417210500 +0000" stop="20250417220500 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
@@ -28725,11 +28719,11 @@
     <programme start="20250418090000 +0000" stop="20250418093000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
-    <programme start="20250418093000 +0000" stop="20250418095500 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+    <programme start="20250418093000 +0000" stop="20250418100000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Dubai Trip</title>
     </programme>
-    <programme start="20250418095500 +0000" stop="20250418105500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Panj Takht Yatra</title>
+    <programme start="20250418100000 +0000" stop="20250418105500 +0000" channel="Akaal Channel">
+        <title>Live: Guru Nanak Seva</title>
     </programme>
     <programme start="20250418105500 +0000" stop="20250418110000 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
@@ -28756,13 +28750,13 @@
         <title>Rehraas Sahib with Subtitles</title>
     </programme>
     <programme start="20250418170000 +0000" stop="20250418173000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
+        <title>Teleshopping: Panj Takht</title>
     </programme>
     <programme start="20250418173000 +0000" stop="20250418180000 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
     <programme start="20250418180000 +0000" stop="20250418190000 +0000" channel="Akaal Channel">
-        <title>Live: Guru Nanak Seva</title>
+        <title>Live: Sikligar Sikhs Anand Karaj</title>
     </programme>
     <programme start="20250418190000 +0000" stop="20250418200000 +0000" channel="Akaal Channel">
         <title>News Point</title>
@@ -34162,7 +34156,7 @@
         <title>News - London</title>
     </programme>
     <programme start="20250418213000 +0000" stop="20250418220000 +0000" channel="TRT World HD">
-        <title>Roundtable</title>
+        <title>One On One: Jeyhun Bayramov</title>
     </programme>
     <programme start="20250418220000 +0000" stop="20250418223000 +0000" channel="TRT World HD">
         <title>News</title>
