@@ -13872,29 +13872,14 @@
     <programme start="20250418024500 +0000" stop="20250418030000 +0000" channel="MUTV HD">
         <title>My Perfect Player</title>
     </programme>
-    <programme start="20250418030000 +0000" stop="20250418050000 +0000" channel="MUTV HD">
+    <programme start="20250418030000 +0000" stop="20250418054500 +0000" channel="MUTV HD">
         <title>UEL Match: v Olympique Lyonnais (H)</title>
     </programme>
-    <programme start="20250418050000 +0000" stop="20250418053000 +0000" channel="MUTV HD">
-        <title>Match Day Review</title>
-    </programme>
-    <programme start="20250418053000 +0000" stop="20250418073000 +0000" channel="MUTV HD">
+    <programme start="20250418054500 +0000" stop="20250418083000 +0000" channel="MUTV HD">
         <title>UEL Match: v Olympique Lyonnais (H)</title>
     </programme>
-    <programme start="20250418073000 +0000" stop="20250418080000 +0000" channel="MUTV HD">
-        <title>Match Day Review</title>
-    </programme>
-    <programme start="20250418080000 +0000" stop="20250418100000 +0000" channel="MUTV HD">
+    <programme start="20250418083000 +0000" stop="20250418111500 +0000" channel="MUTV HD">
         <title>UEL Match: v Olympique Lyonnais (H)</title>
-    </programme>
-    <programme start="20250418100000 +0000" stop="20250418103000 +0000" channel="MUTV HD">
-        <title>Match Day Review</title>
-    </programme>
-    <programme start="20250418103000 +0000" stop="20250418104500 +0000" channel="MUTV HD">
-        <title>Div 1: United v Wolves 72/73</title>
-    </programme>
-    <programme start="20250418104500 +0000" stop="20250418111500 +0000" channel="MUTV HD">
-        <title>United v Wolves 81/82</title>
     </programme>
     <programme start="20250418111500 +0000" stop="20250418114500 +0000" channel="MUTV HD">
         <title>PL: United v Wolves 09/10</title>
@@ -37753,7 +37738,7 @@
         <title>1Xtra's Rave Show - Get Lit Mix</title>
     </programme>
     <programme start="20250418200000 +0000" stop="20250418213000 +0000" channel="BBC R1X">
-        <title>The Tiffany Calver Show</title>
+        <title>The Tiffany Calver Show with CassKidd</title>
     </programme>
     <programme start="20250418213000 +0000" stop="20250418220000 +0000" channel="BBC R1X">
         <title>The Tiffany Calver Show - Main Room Mix</title>
