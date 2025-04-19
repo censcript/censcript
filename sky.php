@@ -27948,11 +27948,11 @@
     <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="Pitaara">
         <title>Songs</title>
     </programme>
-    <programme start="20250419213500 +0000" stop="20250419223000 +0000" channel="PoliticsPunjab">
-        <title>Lehnda Punjab</title>
+    <programme start="20250419210000 +0000" stop="20250419230000 +0000" channel="PoliticsPunjab">
+        <title>Live: International Akhand Kirtan Samaga</title>
     </programme>
-    <programme start="20250419223000 +0000" stop="20250419233000 +0000" channel="PoliticsPunjab">
-        <title>Gunjhaa Sikh Raj Diyaan</title>
+    <programme start="20250419230000 +0000" stop="20250419233000 +0000" channel="PoliticsPunjab">
+        <title>Punjabi News</title>
     </programme>
     <programme start="20250419233000 +0000" stop="20250420020000 +0000" channel="PoliticsPunjab">
         <title>Gurbani, Katha &amp; Kirtan</title>
@@ -28021,7 +28021,7 @@
         <title>Outdoor Shows</title>
     </programme>
     <programme start="20250420180000 +0000" stop="20250420200000 +0000" channel="PoliticsPunjab">
-        <title>Live: Haftawari Sargarmiyaan</title>
+        <title>Akhand Kirtan Samagam (Derby)</title>
     </programme>
     <programme start="20250420200000 +0000" stop="20250420203000 +0000" channel="PoliticsPunjab">
         <title>Punjabi News</title>
@@ -28032,8 +28032,11 @@
     <programme start="20250420213000 +0000" stop="20250420213500 +0000" channel="PoliticsPunjab">
         <title>Fatafat News</title>
     </programme>
-    <programme start="20250420213500 +0000" stop="20250420223000 +0000" channel="PoliticsPunjab">
+    <programme start="20250420213500 +0000" stop="20250420220000 +0000" channel="PoliticsPunjab">
         <title>Outdoor Shows</title>
+    </programme>
+    <programme start="20250420220000 +0000" stop="20250420223000 +0000" channel="PoliticsPunjab">
+        <title>Akhand Kirtan Samagam (Derby)</title>
     </programme>
     <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="PoliticsPunjab">
         <title>Sangharsh</title>
