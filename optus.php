@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419162000 +0000" stop="20250419190000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Aston Villa v Newcastle United</title>
-    </programme>
     <programme start="20250419190000 +0000" stop="20250419200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250503055500 +0000" stop="20250503081000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Kashima v Machida</title>
+    </programme>
+    <programme start="20250503072000 +0000" stop="20250503094000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Daejeon v Anyang</title>
     </programme>
 </tv>

@@ -14076,14 +14076,20 @@
     <programme start="20250420170000 +0000" stop="20250420173000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250420173000 +0000" stop="20250420180000 +0000" channel="BBC NEWS HD">
+    <programme start="20250420173000 +0000" stop="20250420174500 +0000" channel="BBC NEWS HD">
         <title>Sportsday</title>
+    </programme>
+    <programme start="20250420174500 +0000" stop="20250420180000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250420180000 +0000" stop="20250420183000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250420183000 +0000" stop="20250420190000 +0000" channel="BBC NEWS HD">
+    <programme start="20250420183000 +0000" stop="20250420184500 +0000" channel="BBC NEWS HD">
         <title>Sportsday</title>
+    </programme>
+    <programme start="20250420184500 +0000" stop="20250420190000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250420190000 +0000" stop="20250420193000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -26803,37 +26809,37 @@
         <title>Tilawat e Quran Pak</title>
     </programme>
     <programme start="20250420070000 +0000" stop="20250420080000 +0000" channel="Takbeer TV">
-        <title>Tilawat e Quran Pak</title>
+        <title>Takbeer Special</title>
     </programme>
     <programme start="20250420080000 +0000" stop="20250420090000 +0000" channel="Takbeer TV">
-        <title>Daras e Quran</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420100000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250420100000 +0000" stop="20250420110000 +0000" channel="Takbeer TV">
-        <title>Ramadan Moments</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250420110000 +0000" stop="20250420120000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250420120000 +0000" stop="20250420130000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420130000 +0000" stop="20250420140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420140000 +0000" stop="20250420150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420150000 +0000" stop="20250420160000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420160000 +0000" stop="20250420170000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
+    <programme start="20250420130000 +0000" stop="20250420140000 +0000" channel="Takbeer TV">
+        <title>Mithy Bol</title>
+    </programme>
+    <programme start="20250420140000 +0000" stop="20250420150000 +0000" channel="Takbeer TV">
+        <title>Mithy Bol</title>
+    </programme>
+    <programme start="20250420150000 +0000" stop="20250420160000 +0000" channel="Takbeer TV">
+        <title>Q&amp;A with Takbeer</title>
+    </programme>
+    <programme start="20250420160000 +0000" stop="20250420170000 +0000" channel="Takbeer TV">
+        <title>Sarkar Ki Batain</title>
+    </programme>
     <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250420180000 +0000" stop="20250420190000 +0000" channel="Takbeer TV">
         <title>Charity Appeal</title>
@@ -28020,26 +28026,11 @@
     <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="PoliticsPunjab">
         <title>Outdoor Shows</title>
     </programme>
-    <programme start="20250420180000 +0000" stop="20250420200000 +0000" channel="PoliticsPunjab">
+    <programme start="20250420180000 +0000" stop="20250420220000 +0000" channel="PoliticsPunjab">
         <title>Akhand Kirtan Samagam (Derby)</title>
     </programme>
-    <programme start="20250420200000 +0000" stop="20250420203000 +0000" channel="PoliticsPunjab">
-        <title>Punjabi News</title>
-    </programme>
-    <programme start="20250420203000 +0000" stop="20250420213000 +0000" channel="PoliticsPunjab">
-        <title>Special Show</title>
-    </programme>
-    <programme start="20250420213000 +0000" stop="20250420213500 +0000" channel="PoliticsPunjab">
-        <title>Fatafat News</title>
-    </programme>
-    <programme start="20250420213500 +0000" stop="20250420220000 +0000" channel="PoliticsPunjab">
-        <title>Outdoor Shows</title>
-    </programme>
-    <programme start="20250420220000 +0000" stop="20250420223000 +0000" channel="PoliticsPunjab">
+    <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="PoliticsPunjab">
         <title>Akhand Kirtan Samagam (Derby)</title>
-    </programme>
-    <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="PoliticsPunjab">
-        <title>Sangharsh</title>
     </programme>
     <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
@@ -28821,13 +28812,13 @@
     <programme start="20250420110000 +0000" stop="20250420120000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250420120000 +0000" stop="20250420120800 +0000" channel="iON TV">
+    <programme start="20250420120000 +0000" stop="20250420120500 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250420120800 +0000" stop="20250420121300 +0000" channel="iON TV">
+    <programme start="20250420120500 +0000" stop="20250420121000 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250420121300 +0000" stop="20250420123000 +0000" channel="iON TV">
+    <programme start="20250420121000 +0000" stop="20250420123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250420123000 +0000" stop="20250420130000 +0000" channel="iON TV">
@@ -28842,14 +28833,11 @@
     <programme start="20250420150000 +0000" stop="20250420160000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250420160000 +0000" stop="20250420163800 +0000" channel="iON TV">
+    <programme start="20250420160000 +0000" stop="20250420165400 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250420163800 +0000" stop="20250420164300 +0000" channel="iON TV">
+    <programme start="20250420165400 +0000" stop="20250420170000 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250420164300 +0000" stop="20250420170000 +0000" channel="iON TV">
-        <title>Drama Time</title>
     </programme>
     <programme start="20250420170000 +0000" stop="20250420173800 +0000" channel="iON TV">
         <title>Travel Show</title>
@@ -28857,23 +28845,23 @@
     <programme start="20250420173800 +0000" stop="20250420180000 +0000" channel="iON TV">
         <title>Travel Show</title>
     </programme>
-    <programme start="20250420180000 +0000" stop="20250420184600 +0000" channel="iON TV">
-        <title>News Views</title>
+    <programme start="20250420180000 +0000" stop="20250420190000 +0000" channel="iON TV">
+        <title>Prokriti O Jibon</title>
     </programme>
-    <programme start="20250420184600 +0000" stop="20250420185100 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250420185100 +0000" stop="20250420190000 +0000" channel="iON TV">
-        <title>News Views</title>
-    </programme>
-    <programme start="20250420190000 +0000" stop="20250420200200 +0000" channel="iON TV">
+    <programme start="20250420190000 +0000" stop="20250420190900 +0000" channel="iON TV">
         <title>Sahih Quran Shikha</title>
     </programme>
-    <programme start="20250420200200 +0000" stop="20250420200700 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
+    <programme start="20250420190900 +0000" stop="20250420191400 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
     </programme>
-    <programme start="20250420200700 +0000" stop="20250420203000 +0000" channel="iON TV">
+    <programme start="20250420191400 +0000" stop="20250420200000 +0000" channel="iON TV">
+        <title>Sahih Quran Shikha</title>
+    </programme>
+    <programme start="20250420200000 +0000" stop="20250420202300 +0000" channel="iON TV">
         <title>News 24</title>
+    </programme>
+    <programme start="20250420202300 +0000" stop="20250420203000 +0000" channel="iON TV">
+        <title>Azan-e-Isha</title>
     </programme>
     <programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="iON TV">
         <title>iON News Time</title>
