@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419013000 +0000" stop="20250419040000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Utah Royals FC v Chicago Stars</title>
-    </programme>
     <programme start="20250419020000 +0000" stop="20250419043000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Seattle Reign v Portland Thorns FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502093000 +0000" stop="20250502100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Gimcheon</title>
     </programme>
 </tv>
