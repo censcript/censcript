@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419190000 +0000" stop="20250419213000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Racing Louisville FC v San Diego Wave FC</title>
-    </programme>
     <programme start="20250419210000 +0000" stop="20250419233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Orlando Pride v Washington Spirit</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250503095000 +0000" stop="20250503121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Jeonbuk</title>
+    </programme>
+    <programme start="20250503095500 +0000" stop="20250503121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kyoto v Cerezo</title>
     </programme>
 </tv>

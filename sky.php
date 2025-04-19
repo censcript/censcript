@@ -1311,25 +1311,25 @@
     <programme start="20250420224000 +0000" stop="20250420234000 +0000" channel="BBC Three HD">
         <title>Bad Education</title>
     </programme>
-    <programme start="20250419213000 +0000" stop="20250419223000 +0000" channel="BBC Four HD">
+    <programme start="20250419180000 +0000" stop="20250419221500 +0000" channel="BBC Four HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250419221500 +0000" stop="20250419231500 +0000" channel="BBC Four HD">
         <title>When Snooker Ruled the World</title>
     </programme>
-    <programme start="20250419223000 +0000" stop="20250419233000 +0000" channel="BBC Four HD">
+    <programme start="20250419231500 +0000" stop="20250420001500 +0000" channel="BBC Four HD">
         <title>Parkinson with Peter Cook,...</title>
     </programme>
-    <programme start="20250419233000 +0000" stop="20250420000500 +0000" channel="BBC Four HD">
+    <programme start="20250420001500 +0000" stop="20250420005000 +0000" channel="BBC Four HD">
         <title>The Good Life</title>
     </programme>
-    <programme start="20250420000500 +0000" stop="20250420003500 +0000" channel="BBC Four HD">
+    <programme start="20250420005000 +0000" stop="20250420012000 +0000" channel="BBC Four HD">
         <title>The Fall and Rise of Reginald Perrin</title>
     </programme>
-    <programme start="20250420003500 +0000" stop="20250420013500 +0000" channel="BBC Four HD">
-        <title>When Snooker Ruled the World</title>
-    </programme>
-    <programme start="20250420013500 +0000" stop="20250420023500 +0000" channel="BBC Four HD">
+    <programme start="20250420012000 +0000" stop="20250420022000 +0000" channel="BBC Four HD">
         <title>Princes in the Tower: Lucy Worsley Investigates</title>
     </programme>
-    <programme start="20250420023500 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
+    <programme start="20250420022000 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250420043000 +0000" stop="20250420103000 +0000" channel="BBC Four HD">
@@ -6426,16 +6426,16 @@
     <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="Travelxp">
         <title>Timeless Tamil Nadu</title>
     </programme>
-    <programme start="20250419200000 +0000" stop="20250419220000 +0000" channel="BBCScotlandHD">
+    <programme start="20250419200000 +0000" stop="20250419221500 +0000" channel="BBCScotlandHD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419223000 +0000" channel="BBCScotlandHD">
+    <programme start="20250419221500 +0000" stop="20250419224500 +0000" channel="BBCScotlandHD">
         <title>Chewin' the Fat</title>
     </programme>
-    <programme start="20250419223000 +0000" stop="20250419230000 +0000" channel="BBCScotlandHD">
+    <programme start="20250419224500 +0000" stop="20250419231500 +0000" channel="BBCScotlandHD">
         <title>T in the Park: Best Bits</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420050000 +0000" channel="BBCScotlandHD">
+    <programme start="20250419231500 +0000" stop="20250420050000 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
     </programme>
     <programme start="20250420050000 +0000" stop="20250420110000 +0000" channel="BBCScotlandHD">
@@ -12576,38 +12576,20 @@
     <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="SkySp Golf HD">
         <title>Live LPGA Tour Golf</title>
     </programme>
-    <programme start="20250419214501 +0000" stop="20250419215000 +0000" channel="SkySp F1 HD">
+    <programme start="20250419214501 +0000" stop="20250419224001 +0000" channel="SkySp F1 HD">
         <title>F1 Academy: Race 1</title>
     </programme>
-    <programme start="20250419215000 +0000" stop="20250419220000 +0000" channel="SkySp F1 HD">
-        <title>Rachel &amp; Lando Norris</title>
-    </programme>
-    <programme start="20250419220000 +0000" stop="20250419224001 +0000" channel="SkySp F1 HD">
+    <programme start="20250419224001 +0000" stop="20250419234001 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F2: Sprint</title>
     </programme>
-    <programme start="20250419224001 +0000" stop="20250419230000 +0000" channel="SkySp F1 HD">
-        <title>Saudi Arabian F2: Sprint</title>
-    </programme>
-    <programme start="20250419230000 +0000" stop="20250419234001 +0000" channel="SkySp F1 HD">
+    <programme start="20250419234001 +0000" stop="20250420005501 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Practice 3</title>
-    </programme>
-    <programme start="20250419234001 +0000" stop="20250420001500 +0000" channel="SkySp F1 HD">
-        <title>Saudi Arabian F1 GP: Practice 3</title>
-    </programme>
-    <programme start="20250420001500 +0000" stop="20250420005501 +0000" channel="SkySp F1 HD">
-        <title>Jenson &amp; the FW22</title>
     </programme>
     <programme start="20250420005501 +0000" stop="20250420011001 +0000" channel="SkySp F1 HD">
         <title>Jenson &amp; the FW22</title>
     </programme>
-    <programme start="20250420011001 +0000" stop="20250420024500 +0000" channel="SkySp F1 HD">
+    <programme start="20250420011001 +0000" stop="20250420033001 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Qualifying</title>
-    </programme>
-    <programme start="20250420024500 +0000" stop="20250420030000 +0000" channel="SkySp F1 HD">
-        <title>Ted Drives: Part 3 - F1 Car</title>
-    </programme>
-    <programme start="20250420030000 +0000" stop="20250420033001 +0000" channel="SkySp F1 HD">
-        <title>The Home of Formula One</title>
     </programme>
     <programme start="20250420033001 +0000" stop="20250420034501 +0000" channel="SkySp F1 HD">
         <title>Ferrari's SF-25 Shakedown</title>
@@ -12618,29 +12600,14 @@
     <programme start="20250420040000 +0000" stop="20250420050000 +0000" channel="SkySp F1 HD">
         <title>The Home of Formula One</title>
     </programme>
-    <programme start="20250420050000 +0000" stop="20250420070000 +0000" channel="SkySp F1 HD">
+    <programme start="20250420050000 +0000" stop="20250420073000 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250420070000 +0000" stop="20250420071500 +0000" channel="SkySp F1 HD">
-        <title>Karun Meets Kimi Antonelli</title>
-    </programme>
-    <programme start="20250420071500 +0000" stop="20250420073000 +0000" channel="SkySp F1 HD">
-        <title>F1 &amp; the Silver Bullet</title>
-    </programme>
-    <programme start="20250420073000 +0000" stop="20250420093000 +0000" channel="SkySp F1 HD">
+    <programme start="20250420073000 +0000" stop="20250420095500 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250420093000 +0000" stop="20250420093500 +0000" channel="SkySp F1 HD">
-        <title>George Russell on 2025</title>
-    </programme>
-    <programme start="20250420093500 +0000" stop="20250420094500 +0000" channel="SkySp F1 HD">
-        <title>Eddie Jordan: In Memoriam</title>
-    </programme>
-    <programme start="20250420094500 +0000" stop="20250420104500 +0000" channel="SkySp F1 HD">
+    <programme start="20250420095500 +0000" stop="20250420110000 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F2: Sprint</title>
-    </programme>
-    <programme start="20250420104500 +0000" stop="20250420110000 +0000" channel="SkySp F1 HD">
-        <title>Jenson &amp; the FW22</title>
     </programme>
     <programme start="20250420110000 +0000" stop="20250420115000 +0000" channel="SkySp F1 HD">
         <title>F1 Academy: Race 1</title>
@@ -26452,25 +26419,25 @@
         <title>Sister's Corner</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420100000 +0000" channel="IQRA TV">
-        <title>Legal Talk</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420100000 +0000" stop="20250420100500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420100500 +0000" stop="20250420103000 +0000" channel="IQRA TV">
-        <title>Lazeez Cuisine</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420103000 +0000" stop="20250420110000 +0000" channel="IQRA TV">
-        <title>Great Personalites of Islam</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420110000 +0000" stop="20250420110500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420110500 +0000" stop="20250420113000 +0000" channel="IQRA TV">
-        <title>The Lives of the Prophets</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420113000 +0000" stop="20250420120000 +0000" channel="IQRA TV">
-        <title>Bazm-e-naat o Adab</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420120000 +0000" stop="20250420120300 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -26479,28 +26446,31 @@
         <title>Zuhr Azan</title>
     </programme>
     <programme start="20250420120800 +0000" stop="20250420130000 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420130000 +0000" stop="20250420130500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420130500 +0000" stop="20250420140000 +0000" channel="IQRA TV">
-        <title>Khulasa-tul-Qura'an</title>
+        <title>Al - Quds Conference</title>
     </programme>
     <programme start="20250420140000 +0000" stop="20250420141200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420141200 +0000" stop="20250420144500 +0000" channel="IQRA TV">
-        <title>Khulasa-tul-Qura'an</title>
+        <title>Ustadh Abu Taymiyyah</title>
     </programme>
     <programme start="20250420144500 +0000" stop="20250420150000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Ustadh Abu Taymiyyah</title>
     </programme>
     <programme start="20250420150000 +0000" stop="20250420150500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250420150500 +0000" stop="20250420160000 +0000" channel="IQRA TV">
-        <title>Youth Challenges</title>
+    <programme start="20250420150500 +0000" stop="20250420153000 +0000" channel="IQRA TV">
+        <title>Ustadh Abu Taymiyyah</title>
+    </programme>
+    <programme start="20250420153000 +0000" stop="20250420160000 +0000" channel="IQRA TV">
+        <title>Al-Khair Reports</title>
     </programme>
     <programme start="20250420160000 +0000" stop="20250420160500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -26521,55 +26491,55 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250420170500 +0000" stop="20250420180000 +0000" channel="IQRA TV">
-        <title>Islamic Finance &amp; Properties</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420180000 +0000" stop="20250420181200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420181200 +0000" stop="20250420184200 +0000" channel="IQRA TV">
-        <title>The Five Pillars of Islam</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420184200 +0000" stop="20250420190000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420190000 +0000" stop="20250420190500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420190500 +0000" stop="20250420191100 +0000" channel="IQRA TV">
-        <title>Gardens of the Righteous</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420191100 +0000" stop="20250420191600 +0000" channel="IQRA TV">
         <title>Maghrib Azan</title>
     </programme>
     <programme start="20250420191600 +0000" stop="20250420200000 +0000" channel="IQRA TV">
-        <title>Gardens of the Righteous</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420200000 +0000" stop="20250420201200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420201200 +0000" stop="20250420203000 +0000" channel="IQRA TV">
-        <title>Important of Hadith</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420203000 +0000" stop="20250420203500 +0000" channel="IQRA TV">
         <title>Isha Azan</title>
     </programme>
     <programme start="20250420203500 +0000" stop="20250420210000 +0000" channel="IQRA TV">
-        <title>Important of Hadith</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420210000 +0000" stop="20250420210500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420210500 +0000" stop="20250420213000 +0000" channel="IQRA TV">
-        <title>Journey of Salvation Gaza</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420213000 +0000" stop="20250420220000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250420220000 +0000" stop="20250420221200 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250420221200 +0000" stop="20250420231200 +0000" channel="IQRA TV">
-        <title>Dars-e-Quran</title>
+        <title>Al - Quran Conference</title>
     </programme>
     <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="Islam TV">
         <title>Khatam Ul Quran</title>
@@ -28150,13 +28120,13 @@
         <title>Community News</title>
     </programme>
     <programme start="20250420010000 +0000" stop="20250420031800 +0000" channel="CHSTV">
-        <title>Nishana</title>
+        <title>Guerrilla</title>
     </programme>
     <programme start="20250420031800 +0000" stop="20250420032500 +0000" channel="CHSTV">
         <title>Azan-E-Fajr</title>
     </programme>
     <programme start="20250420032500 +0000" stop="20250420040000 +0000" channel="CHSTV">
-        <title>Nishana</title>
+        <title>Guerrilla</title>
     </programme>
     <programme start="20250420040000 +0000" stop="20250420050000 +0000" channel="CHSTV">
         <title>Somoyer Golpo</title>
@@ -34620,16 +34590,16 @@
     <programme start="20250420224000 +0000" stop="20250420234000 +0000" channel="BBC One NI HD">
         <title>The Women's Football Show</title>
     </programme>
-    <programme start="20250419200000 +0000" stop="20250419220000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250419200000 +0000" stop="20250419221500 +0000" channel="BBC Two Wal HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419223000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250419221500 +0000" stop="20250419224500 +0000" channel="BBC Two Wal HD">
         <title>Legends of Welsh Sport: Johnny...</title>
     </programme>
-    <programme start="20250419223000 +0000" stop="20250419230000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250419224500 +0000" stop="20250419231500 +0000" channel="BBC Two Wal HD">
         <title>Dad's Army</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420004000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250419231500 +0000" stop="20250420004000 +0000" channel="BBC Two Wal HD">
         <title>Paul Simon: Under African Skies</title>
     </programme>
     <programme start="20250420004000 +0000" stop="20250420024000 +0000" channel="BBC Two Wal HD">
@@ -34692,14 +34662,11 @@
     <programme start="20250420224500 +0000" stop="20250420234500 +0000" channel="BBC Two Wal HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250419200000 +0000" stop="20250419220000 +0000" channel="BBC Two NI HD">
+    <programme start="20250419200000 +0000" stop="20250419221500 +0000" channel="BBC Two NI HD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250420002500 +0000" channel="BBC Two NI HD">
+    <programme start="20250419221500 +0000" stop="20250420004000 +0000" channel="BBC Two NI HD">
         <title>Paul Simon: Live in Central Park 1991</title>
-    </programme>
-    <programme start="20250420002500 +0000" stop="20250420004000 +0000" channel="BBC Two NI HD">
-        <title>The Chronicles of Mourne Shorts</title>
     </programme>
     <programme start="20250420004000 +0000" stop="20250420024000 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship Extra</title>
@@ -34749,10 +34716,10 @@
     <programme start="20250420224500 +0000" stop="20250420234500 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250419213000 +0000" stop="20250419234000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250419214500 +0000" stop="20250419235500 +0000" channel="BBC RB 1 HD">
         <title>Women's Six Nations: Italy v France</title>
     </programme>
-    <programme start="20250419234000 +0000" stop="20250420010000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250419235500 +0000" stop="20250420010000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250420010000 +0000" stop="20250420040000 +0000" channel="BBC RB 1 HD">
