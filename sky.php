@@ -1311,25 +1311,25 @@
     <programme start="20250420224000 +0000" stop="20250420234000 +0000" channel="BBC Three HD">
         <title>Bad Education</title>
     </programme>
-    <programme start="20250419180000 +0000" stop="20250419221500 +0000" channel="BBC Four HD">
+    <programme start="20250419180000 +0000" stop="20250419221000 +0000" channel="BBC Four HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250419221500 +0000" stop="20250419231500 +0000" channel="BBC Four HD">
+    <programme start="20250419221000 +0000" stop="20250419231000 +0000" channel="BBC Four HD">
         <title>When Snooker Ruled the World</title>
     </programme>
-    <programme start="20250419231500 +0000" stop="20250420001500 +0000" channel="BBC Four HD">
+    <programme start="20250419231000 +0000" stop="20250420001000 +0000" channel="BBC Four HD">
         <title>Parkinson with Peter Cook,...</title>
     </programme>
-    <programme start="20250420001500 +0000" stop="20250420005000 +0000" channel="BBC Four HD">
+    <programme start="20250420001000 +0000" stop="20250420004500 +0000" channel="BBC Four HD">
         <title>The Good Life</title>
     </programme>
-    <programme start="20250420005000 +0000" stop="20250420012000 +0000" channel="BBC Four HD">
+    <programme start="20250420004500 +0000" stop="20250420011500 +0000" channel="BBC Four HD">
         <title>The Fall and Rise of Reginald Perrin</title>
     </programme>
-    <programme start="20250420012000 +0000" stop="20250420022000 +0000" channel="BBC Four HD">
+    <programme start="20250420011500 +0000" stop="20250420021500 +0000" channel="BBC Four HD">
         <title>Princes in the Tower: Lucy Worsley Investigates</title>
     </programme>
-    <programme start="20250420022000 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
+    <programme start="20250420021500 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250420043000 +0000" stop="20250420103000 +0000" channel="BBC Four HD">
@@ -6429,13 +6429,13 @@
     <programme start="20250419200000 +0000" stop="20250419221500 +0000" channel="BBCScotlandHD">
         <title>Nations Fight Night</title>
     </programme>
-    <programme start="20250419221500 +0000" stop="20250419224500 +0000" channel="BBCScotlandHD">
-        <title>Chewin' the Fat</title>
+    <programme start="20250419221500 +0000" stop="20250419223000 +0000" channel="BBCScotlandHD">
+        <title>Growing Up Scottish</title>
     </programme>
-    <programme start="20250419224500 +0000" stop="20250419231500 +0000" channel="BBCScotlandHD">
+    <programme start="20250419223000 +0000" stop="20250419230000 +0000" channel="BBCScotlandHD">
         <title>T in the Park: Best Bits</title>
     </programme>
-    <programme start="20250419231500 +0000" stop="20250420050000 +0000" channel="BBCScotlandHD">
+    <programme start="20250419230000 +0000" stop="20250420050000 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
     </programme>
     <programme start="20250420050000 +0000" stop="20250420110000 +0000" channel="BBCScotlandHD">
@@ -25533,11 +25533,11 @@
     <programme start="20250420075000 +0000" stop="20250420080500 +0000" channel="MTA1 World HD">
         <title>Art And Craft</title>
     </programme>
-    <programme start="20250420080500 +0000" stop="20250420083000 +0000" channel="MTA1 World HD">
+    <programme start="20250420080500 +0000" stop="20250420082500 +0000" channel="MTA1 World HD">
         <title>Destination Next</title>
     </programme>
-    <programme start="20250420083000 +0000" stop="20250420090000 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250420082500 +0000" stop="20250420090000 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420093000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
@@ -25612,7 +25612,7 @@
         <title>Science Online</title>
     </programme>
     <programme start="20250420211000 +0000" stop="20250420214500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+        <title>This Week With Huzoor</title>
     </programme>
     <programme start="20250420214500 +0000" stop="20250420222500 +0000" channel="MTA1 World HD">
         <title>Mind Body Spirit</title>
@@ -28248,71 +28248,83 @@
     <programme start="20250420034500 +0000" stop="20250420060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250420060000 +0000" stop="20250420070000 +0000" channel="IQRA Bangla">
+    <programme start="20250420060000 +0000" stop="20250420072000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250420070000 +0000" stop="20250420110000 +0000" channel="IQRA Bangla">
+    <programme start="20250420072000 +0000" stop="20250420073000 +0000" channel="IQRA Bangla">
+        <title>Dua Time</title>
+    </programme>
+    <programme start="20250420073000 +0000" stop="20250420083000 +0000" channel="IQRA Bangla">
+        <title>Law &amp; Order</title>
+    </programme>
+    <programme start="20250420083000 +0000" stop="20250420093000 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250420110000 +0000" stop="20250420120000 +0000" channel="IQRA Bangla">
-        <title>Eid Adda</title>
+    <programme start="20250420093000 +0000" stop="20250420100000 +0000" channel="IQRA Bangla">
+        <title>Iqra Quiz</title>
     </programme>
-    <programme start="20250420120000 +0000" stop="20250420121000 +0000" channel="IQRA Bangla">
-        <title>Eid Mubarak Assalam</title>
+    <programme start="20250420100000 +0000" stop="20250420113000 +0000" channel="IQRA Bangla">
+        <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250420121000 +0000" stop="20250420121500 +0000" channel="IQRA Bangla">
+    <programme start="20250420113000 +0000" stop="20250420120400 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250420120400 +0000" stop="20250420120900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250420121500 +0000" stop="20250420130000 +0000" channel="IQRA Bangla">
-        <title>Eid Mubarak Assalam</title>
+    <programme start="20250420120900 +0000" stop="20250420130000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250420130000 +0000" stop="20250420140000 +0000" channel="IQRA Bangla">
-        <title>Eider Khushi</title>
+        <title>Amader Sylhet</title>
     </programme>
     <programme start="20250420140000 +0000" stop="20250420150000 +0000" channel="IQRA Bangla">
-        <title>Mayors EID</title>
+        <title>Sister's View</title>
     </programme>
     <programme start="20250420150000 +0000" stop="20250420153000 +0000" channel="IQRA Bangla">
-        <title>Islamic Stories</title>
+        <title>Islam is way of life</title>
     </programme>
-    <programme start="20250420153000 +0000" stop="20250420162900 +0000" channel="IQRA Bangla">
+    <programme start="20250420153000 +0000" stop="20250420165400 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250420162900 +0000" stop="20250420163400 +0000" channel="IQRA Bangla">
+    <programme start="20250420165400 +0000" stop="20250420170000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250420163400 +0000" stop="20250420170000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
+    <programme start="20250420170000 +0000" stop="20250420173000 +0000" channel="IQRA Bangla">
+        <title>Weekly Insider</title>
     </programme>
-    <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="IQRA Bangla">
-        <title>The Beauty Of Eid</title>
+    <programme start="20250420173000 +0000" stop="20250420180000 +0000" channel="IQRA Bangla">
+        <title>Moshq-e- Tilawat</title>
     </programme>
-    <programme start="20250420180000 +0000" stop="20250420183400 +0000" channel="IQRA Bangla">
-        <title>Quran Festival</title>
+    <programme start="20250420180000 +0000" stop="20250420190000 +0000" channel="IQRA Bangla">
+        <title>Our Community</title>
     </programme>
-    <programme start="20250420183400 +0000" stop="20250420183900 +0000" channel="IQRA Bangla">
+    <programme start="20250420190000 +0000" stop="20250420190900 +0000" channel="IQRA Bangla">
+        <title>Iqra Bangla News</title>
+    </programme>
+    <programme start="20250420190900 +0000" stop="20250420191300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250420183900 +0000" stop="20250420193000 +0000" channel="IQRA Bangla">
-        <title>Ghorer Eid</title>
+    <programme start="20250420191300 +0000" stop="20250420193000 +0000" channel="IQRA Bangla">
+        <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250420193000 +0000" stop="20250420195100 +0000" channel="IQRA Bangla">
-        <title>Priyo Konteh Priyo Sur</title>
+    <programme start="20250420193000 +0000" stop="20250420200000 +0000" channel="IQRA Bangla">
+        <title>Bed time story</title>
     </programme>
-    <programme start="20250420195100 +0000" stop="20250420195600 +0000" channel="IQRA Bangla">
+    <programme start="20250420200000 +0000" stop="20250420202300 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250420202300 +0000" stop="20250420202800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250420195600 +0000" stop="20250420203000 +0000" channel="IQRA Bangla">
-        <title>Priyo Konteh Priyo Sur</title>
+    <programme start="20250420202800 +0000" stop="20250420213000 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="IQRA Bangla">
-        <title>Eid In Horizon</title>
-    </programme>
-    <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="IQRA Bangla">
-        <title>Eid Mubarak Assalam</title>
+    <programme start="20250420213000 +0000" stop="20250420220000 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
     </programme>
     <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="IQRA Bangla">
-        <title>Eider Khushi</title>
+        <title>Tauhider Shur</title>
     </programme>
     <programme start="20250419213000 +0000" stop="20250419220000 +0000" channel="ATN">
         <title>Rehana</title>
@@ -34596,10 +34608,10 @@
     <programme start="20250419221500 +0000" stop="20250419224500 +0000" channel="BBC Two Wal HD">
         <title>Legends of Welsh Sport: Johnny...</title>
     </programme>
-    <programme start="20250419224500 +0000" stop="20250419231500 +0000" channel="BBC Two Wal HD">
-        <title>Dad's Army</title>
+    <programme start="20250419224500 +0000" stop="20250419230000 +0000" channel="BBC Two Wal HD">
+        <title>Coast</title>
     </programme>
-    <programme start="20250419231500 +0000" stop="20250420004000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250419230000 +0000" stop="20250420004000 +0000" channel="BBC Two Wal HD">
         <title>Paul Simon: Under African Skies</title>
     </programme>
     <programme start="20250420004000 +0000" stop="20250420024000 +0000" channel="BBC Two Wal HD">
