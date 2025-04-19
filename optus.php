@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419112500 +0000" stop="20250419134000 +0000" channel="Optus Sport 9.optus">
-        <title>Women&#039;s Super League - Brighton and Hove Albion v Liverpool</title>
-    </programme>
     <programme start="20250419130000 +0000" stop="20250419162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday </title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502213000 +0000" stop="20250502220000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Houston Dash v Racing Louisville FC</title>
     </programme>
 </tv>
