@@ -1311,25 +1311,25 @@
     <programme start="20250420224000 +0000" stop="20250420234000 +0000" channel="BBC Three HD">
         <title>Bad Education</title>
     </programme>
-    <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="BBC Four HD">
+    <programme start="20250419213000 +0000" stop="20250419223000 +0000" channel="BBC Four HD">
         <title>When Snooker Ruled the World</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="BBC Four HD">
+    <programme start="20250419223000 +0000" stop="20250419233000 +0000" channel="BBC Four HD">
         <title>Parkinson with Peter Cook,...</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250419233500 +0000" channel="BBC Four HD">
+    <programme start="20250419233000 +0000" stop="20250420000500 +0000" channel="BBC Four HD">
         <title>The Good Life</title>
     </programme>
-    <programme start="20250419233500 +0000" stop="20250420000500 +0000" channel="BBC Four HD">
+    <programme start="20250420000500 +0000" stop="20250420003500 +0000" channel="BBC Four HD">
         <title>The Fall and Rise of Reginald Perrin</title>
     </programme>
-    <programme start="20250420000500 +0000" stop="20250420010500 +0000" channel="BBC Four HD">
+    <programme start="20250420003500 +0000" stop="20250420013500 +0000" channel="BBC Four HD">
         <title>When Snooker Ruled the World</title>
     </programme>
-    <programme start="20250420010500 +0000" stop="20250420020500 +0000" channel="BBC Four HD">
+    <programme start="20250420013500 +0000" stop="20250420023500 +0000" channel="BBC Four HD">
         <title>Princes in the Tower: Lucy Worsley Investigates</title>
     </programme>
-    <programme start="20250420020500 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
+    <programme start="20250420023500 +0000" stop="20250420043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250420043000 +0000" stop="20250420103000 +0000" channel="BBC Four HD">
@@ -12576,29 +12576,44 @@
     <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="SkySp Golf HD">
         <title>Live LPGA Tour Golf</title>
     </programme>
+    <programme start="20250419214501 +0000" stop="20250419215000 +0000" channel="SkySp F1 HD">
+        <title>F1 Academy: Race 1</title>
+    </programme>
     <programme start="20250419215000 +0000" stop="20250419220000 +0000" channel="SkySp F1 HD">
         <title>Rachel &amp; Lando Norris</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="SkySp F1 HD">
+    <programme start="20250419220000 +0000" stop="20250419224001 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F2: Sprint</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420001500 +0000" channel="SkySp F1 HD">
+    <programme start="20250419224001 +0000" stop="20250419230000 +0000" channel="SkySp F1 HD">
+        <title>Saudi Arabian F2: Sprint</title>
+    </programme>
+    <programme start="20250419230000 +0000" stop="20250419234001 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Practice 3</title>
     </programme>
-    <programme start="20250420001500 +0000" stop="20250420003000 +0000" channel="SkySp F1 HD">
+    <programme start="20250419234001 +0000" stop="20250420001500 +0000" channel="SkySp F1 HD">
+        <title>Saudi Arabian F1 GP: Practice 3</title>
+    </programme>
+    <programme start="20250420001500 +0000" stop="20250420005501 +0000" channel="SkySp F1 HD">
         <title>Jenson &amp; the FW22</title>
     </programme>
-    <programme start="20250420003000 +0000" stop="20250420023000 +0000" channel="SkySp F1 HD">
-        <title>Saudi Arabian F1 GP: Qualifying</title>
+    <programme start="20250420005501 +0000" stop="20250420011001 +0000" channel="SkySp F1 HD">
+        <title>Jenson &amp; the FW22</title>
     </programme>
-    <programme start="20250420023000 +0000" stop="20250420024500 +0000" channel="SkySp F1 HD">
-        <title>Ferrari's SF-25 Shakedown</title>
+    <programme start="20250420011001 +0000" stop="20250420024500 +0000" channel="SkySp F1 HD">
+        <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
     <programme start="20250420024500 +0000" stop="20250420030000 +0000" channel="SkySp F1 HD">
         <title>Ted Drives: Part 3 - F1 Car</title>
     </programme>
-    <programme start="20250420030000 +0000" stop="20250420040000 +0000" channel="SkySp F1 HD">
+    <programme start="20250420030000 +0000" stop="20250420033001 +0000" channel="SkySp F1 HD">
         <title>The Home of Formula One</title>
+    </programme>
+    <programme start="20250420033001 +0000" stop="20250420034501 +0000" channel="SkySp F1 HD">
+        <title>Ferrari's SF-25 Shakedown</title>
+    </programme>
+    <programme start="20250420034501 +0000" stop="20250420040000 +0000" channel="SkySp F1 HD">
+        <title>Ted Drives: Part 3 - F1 Car</title>
     </programme>
     <programme start="20250420040000 +0000" stop="20250420050000 +0000" channel="SkySp F1 HD">
         <title>The Home of Formula One</title>
@@ -28368,92 +28383,95 @@
     <programme start="20250420050000 +0000" stop="20250420060000 +0000" channel="ATN">
         <title>Provati Islamic Onushthanmala</title>
     </programme>
-    <programme start="20250420060000 +0000" stop="20250420070000 +0000" channel="ATN">
-        <title>Provati Islamic Onushthanmala</title>
-    </programme>
-    <programme start="20250420070000 +0000" stop="20250420073000 +0000" channel="ATN">
+    <programme start="20250420060000 +0000" stop="20250420063000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250420073000 +0000" stop="20250420080000 +0000" channel="ATN">
-        <title>Prophet Story</title>
+    <programme start="20250420063000 +0000" stop="20250420070000 +0000" channel="ATN">
+        <title>Golpo Ganer Amontrone</title>
     </programme>
-    <programme start="20250420080000 +0000" stop="20250420090000 +0000" channel="ATN">
-        <title>Drama BCS</title>
+    <programme start="20250420070000 +0000" stop="20250420073000 +0000" channel="ATN">
+        <title>Charity Update: Goreeb Eathem</title>
+    </programme>
+    <programme start="20250420073000 +0000" stop="20250420080000 +0000" channel="ATN">
+        <title>Shornali Shadakalo</title>
+    </programme>
+    <programme start="20250420080000 +0000" stop="20250420083000 +0000" channel="ATN">
+        <title>Smritir Alpona Aki</title>
+    </programme>
+    <programme start="20250420083000 +0000" stop="20250420090000 +0000" channel="ATN">
+        <title>Matir Subash</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420093000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250420093000 +0000" stop="20250420100000 +0000" channel="ATN">
-        <title>Your Daily Ramadan Reminder</title>
+    <programme start="20250420093000 +0000" stop="20250420105500 +0000" channel="ATN">
+        <title>Community Issue</title>
     </programme>
-    <programme start="20250420100000 +0000" stop="20250420102000 +0000" channel="ATN">
-        <title>Islamer Pothe</title>
-    </programme>
-    <programme start="20250420102000 +0000" stop="20250420103000 +0000" channel="ATN">
+    <programme start="20250420105500 +0000" stop="20250420110000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250420103000 +0000" stop="20250420110000 +0000" channel="ATN">
-        <title>Jhotpot Iftar</title>
+    <programme start="20250420110000 +0000" stop="20250420120500 +0000" channel="ATN">
+        <title>Akorshon</title>
     </programme>
-    <programme start="20250420110000 +0000" stop="20250420113000 +0000" channel="ATN">
-        <title>Goreeb Yateem Docu</title>
-    </programme>
-    <programme start="20250420113000 +0000" stop="20250420120000 +0000" channel="ATN">
-        <title>Hamd O Nath</title>
-    </programme>
-    <programme start="20250420120000 +0000" stop="20250420121000 +0000" channel="ATN">
-        <title>Talimul Quran</title>
-    </programme>
-    <programme start="20250420121000 +0000" stop="20250420121500 +0000" channel="ATN">
+    <programme start="20250420120500 +0000" stop="20250420121000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250420121500 +0000" stop="20250420123000 +0000" channel="ATN">
-        <title>Talimul Quran</title>
-    </programme>
-    <programme start="20250420123000 +0000" stop="20250420125000 +0000" channel="ATN">
-        <title>Prophet Story</title>
-    </programme>
-    <programme start="20250420125000 +0000" stop="20250420130000 +0000" channel="ATN">
-        <title>Islamer Batighor</title>
+    <programme start="20250420121000 +0000" stop="20250420130000 +0000" channel="ATN">
+        <title>Akorshon</title>
     </programme>
     <programme start="20250420130000 +0000" stop="20250420133000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250420133000 +0000" stop="20250420143000 +0000" channel="ATN">
-        <title>Heart To Heart</title>
+    <programme start="20250420133000 +0000" stop="20250420145500 +0000" channel="ATN">
+        <title>Akorshon</title>
     </programme>
-    <programme start="20250420143000 +0000" stop="20250420150000 +0000" channel="ATN">
-        <title>Quran Tilawat</title>
+    <programme start="20250420145500 +0000" stop="20250420150000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250420150000 +0000" stop="20250420153000 +0000" channel="ATN">
+    <programme start="20250420150000 +0000" stop="20250420155500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250420153000 +0000" stop="20250420160000 +0000" channel="ATN">
-        <title>Your Daily Ramadan Reminder</title>
+    <programme start="20250420155500 +0000" stop="20250420160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250420160000 +0000" stop="20250420162900 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250420160000 +0000" stop="20250420163000 +0000" channel="ATN">
+        <title>Dhum Tana</title>
     </programme>
-    <programme start="20250420162900 +0000" stop="20250420163400 +0000" channel="ATN">
+    <programme start="20250420163000 +0000" stop="20250420165500 +0000" channel="ATN">
+        <title>Mochibot Unlimited</title>
+    </programme>
+    <programme start="20250420165500 +0000" stop="20250420170000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250420163400 +0000" stop="20250420183400 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420183400 +0000" stop="20250420183900 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250420183900 +0000" stop="20250420193000 +0000" channel="ATN">
-        <title>Charity Appeal</title>
-    </programme>
-    <programme start="20250420193000 +0000" stop="20250420200000 +0000" channel="ATN">
+    <programme start="20250420170000 +0000" stop="20250420175500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250420200000 +0000" stop="20250420200500 +0000" channel="ATN">
+    <programme start="20250420175500 +0000" stop="20250420180000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250420180000 +0000" stop="20250420190000 +0000" channel="ATN">
+        <title>Crime Petrol</title>
+    </programme>
+    <programme start="20250420190000 +0000" stop="20250420190900 +0000" channel="ATN">
+        <title>Music Lounge</title>
+    </programme>
+    <programme start="20250420190900 +0000" stop="20250420191400 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250420191400 +0000" stop="20250420202500 +0000" channel="ATN">
+        <title>Music Lounge</title>
+    </programme>
+    <programme start="20250420202500 +0000" stop="20250420203000 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250420200500 +0000" stop="20250420210500 +0000" channel="ATN">
-        <title>Charity Appeal</title>
+    <programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="ATN">
+        <title>Ghaura Poribar</title>
+    </programme>
+    <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="ATN">
+        <title>O Shathire</title>
     </programme>
     <programme start="20250419213000 +0000" stop="20250419220000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
