@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419130000 +0000" stop="20250419162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday </title>
-    </programme>
-    <programme start="20250419135000 +0000" stop="20250419161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - West Ham United v Southampton</title>
-    </programme>
-    <programme start="20250419135000 +0000" stop="20250419161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Everton v Manchester City</title>
-    </programme>
-    <programme start="20250419135000 +0000" stop="20250419161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Crystal Palace v Bournemouth</title>
-    </programme>
-    <programme start="20250419135000 +0000" stop="20250419161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brentford v Brighton</title>
-    </programme>
     <programme start="20250419162000 +0000" stop="20250419190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Newcastle United</title>
     </programme>
@@ -299,5 +284,20 @@
     </programme>
     <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Washington Spirit v Angel City FC</title>
+    </programme>
+    <programme start="20250503023000 +0000" stop="20250503050000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Seattle Reign v Kansas City Current</title>
+    </programme>
+    <programme start="20250503035500 +0000" stop="20250503061000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Sanfrecce v Avispa</title>
+    </programme>
+    <programme start="20250503055500 +0000" stop="20250503081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Urawa Red Diamonds v Tokyo Verdy</title>
+    </programme>
+    <programme start="20250503055500 +0000" stop="20250503081000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Kashima v Machida</title>
     </programme>
 </tv>
