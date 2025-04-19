@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419020000 +0000" stop="20250419043000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Seattle Reign v Portland Thorns FC</title>
-    </programme>
-    <programme start="20250419023000 +0000" stop="20250419050000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Angel City FC v Gotham FC</title>
-    </programme>
     <programme start="20250419045000 +0000" stop="20250419071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Gangwon</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Gimcheon</title>
+    </programme>
+    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Gwangju</title>
+    </programme>
+    <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
     </programme>
 </tv>
