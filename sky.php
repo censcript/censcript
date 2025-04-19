@@ -27927,13 +27927,13 @@
     <programme start="20250419110000 +0000" stop="20250419120000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250419120000 +0000" stop="20250419120400 +0000" channel="Eman Channel">
+    <programme start="20250419120000 +0000" stop="20250419120500 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
     </programme>
-    <programme start="20250419120400 +0000" stop="20250419121000 +0000" channel="Eman Channel">
+    <programme start="20250419120500 +0000" stop="20250419120900 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250419121000 +0000" stop="20250419130000 +0000" channel="Eman Channel">
+    <programme start="20250419120900 +0000" stop="20250419130000 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
     </programme>
     <programme start="20250419130000 +0000" stop="20250419140000 +0000" channel="Eman Channel">
@@ -27967,7 +27967,7 @@
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250419170000 +0000" stop="20250419180000 +0000" channel="Eman Channel">
-        <title>Al-Furqan LIVE</title>
+        <title>Alif Laam Meem</title>
     </programme>
     <programme start="20250419180000 +0000" stop="20250419181500 +0000" channel="Eman Channel">
         <title>Meeting Muhammad</title>
@@ -27981,10 +27981,10 @@
     <programme start="20250419184500 +0000" stop="20250419190700 +0000" channel="Eman Channel">
         <title>Evening Remembrance</title>
     </programme>
-    <programme start="20250419190700 +0000" stop="20250419191900 +0000" channel="Eman Channel">
+    <programme start="20250419190700 +0000" stop="20250419191800 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250419191900 +0000" stop="20250419200000 +0000" channel="Eman Channel">
+    <programme start="20250419191800 +0000" stop="20250419200000 +0000" channel="Eman Channel">
         <title>Ask Eman</title>
     </programme>
     <programme start="20250419200000 +0000" stop="20250419202100 +0000" channel="Eman Channel">
@@ -36016,7 +36016,7 @@
         <title>Jay London</title>
     </programme>
     <programme start="20250419150000 +0000" stop="20250419180000 +0000" channel="Capital">
-        <title>Sonny Jay</title>
+        <title>Ant Payne</title>
     </programme>
     <programme start="20250419180000 +0000" stop="20250419210000 +0000" channel="Capital">
         <title>Kem Cetinay</title>
