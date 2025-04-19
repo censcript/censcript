@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419072000 +0000" stop="20250419094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Anyang v Suwon FC</title>
-    </programme>
     <programme start="20250419105000 +0000" stop="20250419131000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Manchester United</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250502153000 +0000" stop="20250502160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
     </programme>
 </tv>
