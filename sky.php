@@ -35173,7 +35173,7 @@
         <title>Mary Berry: Love to Cook</title>
     </programme>
     <programme start="20250419110000 +0000" stop="20250419140000 +0000" channel="BBC One ScotHD">
-        <title>Sportscene: Scottish Cup Semi Final</title>
+        <title>Sportscene: Scottish Cup Semi-Final</title>
     </programme>
     <programme start="20250419140000 +0000" stop="20250419153000 +0000" channel="BBC One ScotHD">
         <title>Snooker: World Championship</title>
