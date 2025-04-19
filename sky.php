@@ -429,40 +429,37 @@
     <programme start="20250420221500 +0000" stop="20250420231500 +0000" channel="Channel 5">
         <title>Britain's Favourite 70s Sitcoms</title>
     </programme>
-    <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250419213001 +0000" stop="20250419223001 +0000" channel="SkyShowcaseHD">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250419223001 +0000" stop="20250419233001 +0000" channel="SkyShowcaseHD">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420000000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250419233001 +0000" stop="20250420003001 +0000" channel="SkyShowcaseHD">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
-    <programme start="20250420000000 +0000" stop="20250420010000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420003001 +0000" stop="20250420013001 +0000" channel="SkyShowcaseHD">
         <title>An Idiot Abroad</title>
     </programme>
-    <programme start="20250420010000 +0000" stop="20250420013000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420013001 +0000" stop="20250420020001 +0000" channel="SkyShowcaseHD">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420013000 +0000" stop="20250420020000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420020001 +0000" stop="20250420023001 +0000" channel="SkyShowcaseHD">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420020000 +0000" stop="20250420023000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420023001 +0000" stop="20250420030001 +0000" channel="SkyShowcaseHD">
         <title>Road Wars</title>
     </programme>
-    <programme start="20250420023000 +0000" stop="20250420030000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420030001 +0000" stop="20250420033001 +0000" channel="SkyShowcaseHD">
         <title>Road Wars</title>
     </programme>
-    <programme start="20250420030000 +0000" stop="20250420033000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420033001 +0000" stop="20250420040001 +0000" channel="SkyShowcaseHD">
         <title>Nothing To Declare</title>
     </programme>
-    <programme start="20250420033000 +0000" stop="20250420040000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420040001 +0000" stop="20250420043001 +0000" channel="SkyShowcaseHD">
         <title>Nothing To Declare</title>
     </programme>
-    <programme start="20250420040000 +0000" stop="20250420043000 +0000" channel="SkyShowcaseHD">
-        <title>Nothing To Declare</title>
-    </programme>
-    <programme start="20250420043000 +0000" stop="20250420050000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420043001 +0000" stop="20250420050000 +0000" channel="SkyShowcaseHD">
         <title>Nothing To Declare</title>
     </programme>
     <programme start="20250420050000 +0000" stop="20250420052500 +0000" channel="SkyShowcaseHD">
@@ -495,13 +492,10 @@
     <programme start="20250420073000 +0000" stop="20250420080000 +0000" channel="SkyShowcaseHD">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420080000 +0000" stop="20250420083000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420080000 +0000" stop="20250420083001 +0000" channel="SkyShowcaseHD">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420083000 +0000" stop="20250420090000 +0000" channel="SkyShowcaseHD">
-        <title>The Office (US)</title>
-    </programme>
-    <programme start="20250420090000 +0000" stop="20250420110000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250420083001 +0000" stop="20250420110000 +0000" channel="SkyShowcaseHD">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
     <programme start="20250420110000 +0000" stop="20250420130000 +0000" channel="SkyShowcaseHD">
@@ -7056,13 +7050,13 @@
     <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="Channel 5+1">
         <title>The Kenny Everett Video Show</title>
     </programme>
-    <programme start="20250419200000 +0000" stop="20250419220000 +0000" channel="SkyShowcase+1">
+    <programme start="20250419200000 +0000" stop="20250419223001 +0000" channel="SkyShowcase+1">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="SkyShowcase+1">
+    <programme start="20250419223001 +0000" stop="20250419233001 +0000" channel="SkyShowcase+1">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420000000 +0000" channel="SkyShowcase+1">
+    <programme start="20250419233001 +0000" stop="20250420000000 +0000" channel="SkyShowcase+1">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
     <programme start="20250420000000 +0000" stop="20250420010000 +0000" channel="SkyShowcase+1">
@@ -7080,13 +7074,10 @@
     <programme start="20250420030000 +0000" stop="20250420033000 +0000" channel="SkyShowcase+1">
         <title>Road Wars</title>
     </programme>
-    <programme start="20250420033000 +0000" stop="20250420040000 +0000" channel="SkyShowcase+1">
+    <programme start="20250420033000 +0000" stop="20250420043001 +0000" channel="SkyShowcase+1">
         <title>Road Wars</title>
     </programme>
-    <programme start="20250420040000 +0000" stop="20250420043000 +0000" channel="SkyShowcase+1">
-        <title>Nothing To Declare</title>
-    </programme>
-    <programme start="20250420043000 +0000" stop="20250420050000 +0000" channel="SkyShowcase+1">
+    <programme start="20250420043001 +0000" stop="20250420050000 +0000" channel="SkyShowcase+1">
         <title>Nothing To Declare</title>
     </programme>
     <programme start="20250420050000 +0000" stop="20250420053000 +0000" channel="SkyShowcase+1">
@@ -7119,10 +7110,7 @@
     <programme start="20250420073500 +0000" stop="20250420080000 +0000" channel="SkyShowcase+1">
         <title>Monkey Life</title>
     </programme>
-    <programme start="20250420080000 +0000" stop="20250420083000 +0000" channel="SkyShowcase+1">
-        <title>The Office (US)</title>
-    </programme>
-    <programme start="20250420083000 +0000" stop="20250420090000 +0000" channel="SkyShowcase+1">
+    <programme start="20250420080000 +0000" stop="20250420090000 +0000" channel="SkyShowcase+1">
         <title>The Office (US)</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420093000 +0000" channel="SkyShowcase+1">
@@ -29697,13 +29685,10 @@
     <programme start="20250420073000 +0000" stop="20250420080000 +0000" channel="Sky Showcase">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420080000 +0000" stop="20250420083000 +0000" channel="Sky Showcase">
+    <programme start="20250420080000 +0000" stop="20250420083001 +0000" channel="Sky Showcase">
         <title>The Office (US)</title>
     </programme>
-    <programme start="20250420083000 +0000" stop="20250420090000 +0000" channel="Sky Showcase">
-        <title>The Office (US)</title>
-    </programme>
-    <programme start="20250420090000 +0000" stop="20250420110000 +0000" channel="Sky Showcase">
+    <programme start="20250420083001 +0000" stop="20250420110000 +0000" channel="Sky Showcase">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
     <programme start="20250420110000 +0000" stop="20250420130000 +0000" channel="Sky Showcase">
