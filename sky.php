@@ -12564,10 +12564,16 @@
     <programme start="20250420093000 +0000" stop="20250420103000 +0000" channel="SkySp Golf HD">
         <title>Ladies European Tour Golf Hlts</title>
     </programme>
-    <programme start="20250420103000 +0000" stop="20250420104500 +0000" channel="SkySp Golf HD">
+    <programme start="20250420103000 +0000" stop="20250420104501 +0000" channel="SkySp Golf HD">
         <title>My Ryder Cup - Paul McGinley</title>
     </programme>
-    <programme start="20250420104500 +0000" stop="20250420170000 +0000" channel="SkySp Golf HD">
+    <programme start="20250420104501 +0000" stop="20250420111501 +0000" channel="SkySp Golf HD">
+        <title>Best of The Women's Openzone</title>
+    </programme>
+    <programme start="20250420111501 +0000" stop="20250420114500 +0000" channel="SkySp Golf HD">
+        <title>Best of The OpenZone 2023</title>
+    </programme>
+    <programme start="20250420114500 +0000" stop="20250420170000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf Early Coverage</title>
     </programme>
     <programme start="20250420170000 +0000" stop="20250420220000 +0000" channel="SkySp Golf HD">
