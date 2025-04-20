@@ -27267,10 +27267,10 @@
     <programme start="20250420155300 +0000" stop="20250420155800 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250420155800 +0000" stop="20250420162000 +0000" channel="Eman Channel">
+    <programme start="20250420155800 +0000" stop="20250420161700 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
-    <programme start="20250420162000 +0000" stop="20250420164500 +0000" channel="Eman Channel">
+    <programme start="20250420161700 +0000" stop="20250420164500 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
     <programme start="20250420164500 +0000" stop="20250420170000 +0000" channel="Eman Channel">
@@ -27294,19 +27294,19 @@
     <programme start="20250420190000 +0000" stop="20250420190900 +0000" channel="Eman Channel">
         <title>Inspire</title>
     </programme>
-    <programme start="20250420190900 +0000" stop="20250420191300 +0000" channel="Eman Channel">
+    <programme start="20250420190900 +0000" stop="20250420191400 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250420191300 +0000" stop="20250420200000 +0000" channel="Eman Channel">
+    <programme start="20250420191400 +0000" stop="20250420200000 +0000" channel="Eman Channel">
         <title>Inspire</title>
     </programme>
     <programme start="20250420200000 +0000" stop="20250420202300 +0000" channel="Eman Channel">
         <title>The Firsts</title>
     </programme>
-    <programme start="20250420202300 +0000" stop="20250420202700 +0000" channel="Eman Channel">
+    <programme start="20250420202300 +0000" stop="20250420203000 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250420202700 +0000" stop="20250420210000 +0000" channel="Eman Channel">
+    <programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="Eman Channel">
         <title>The Firsts</title>
     </programme>
     <programme start="20250420210000 +0000" stop="20250420213000 +0000" channel="Eman Channel">

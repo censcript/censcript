@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420055500 +0000" stop="20250420081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v FC Tokyo</title>
-    </programme>
     <programme start="20250420065500 +0000" stop="20250420091000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - Urawa Red Diamonds v Yokohama FM</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250503162000 +0000" stop="20250503190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Arsenal v Bournemouth</title>
+    </programme>
+    <programme start="20250503190000 +0000" stop="20250503200000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
     </programme>
 </tv>
