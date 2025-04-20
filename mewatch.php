@@ -498,49 +498,49 @@
     <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="CNA.mewatch">
         <title>When Titans Clash: The Tariff War hits ASEAN</title>
     </programme>
-    <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="CNA.mewatch">
+    <programme start="20250419220000 +0000" stop="20250419225959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250419233000 +0000" channel="CNA.mewatch">
+    <programme start="20250419225959 +0000" stop="20250419232959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250419233000 +0000" stop="20250420000000 +0000" channel="CNA.mewatch">
+    <programme start="20250419232959 +0000" stop="20250419235959 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 3</title>
     </programme>
-    <programme start="20250420000000 +0000" stop="20250420003000 +0000" channel="CNA.mewatch">
+    <programme start="20250419235959 +0000" stop="20250420002959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250420003000 +0000" stop="20250420010000 +0000" channel="CNA.mewatch">
+    <programme start="20250420002959 +0000" stop="20250420005959 +0000" channel="CNA.mewatch">
         <title>Lunch With Us - EP 3</title>
     </programme>
-    <programme start="20250420010000 +0000" stop="20250420013000 +0000" channel="CNA.mewatch">
+    <programme start="20250420005959 +0000" stop="20250420012959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250420013000 +0000" stop="20250420020000 +0000" channel="CNA.mewatch">
+    <programme start="20250420012959 +0000" stop="20250420015959 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 9</title>
     </programme>
-    <programme start="20250420020000 +0000" stop="20250420020200 +0000" channel="CNA.mewatch">
+    <programme start="20250420015959 +0000" stop="20250420020229 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420020200 +0000" stop="20250420030000 +0000" channel="CNA.mewatch">
+    <programme start="20250420020229 +0000" stop="20250420030001 +0000" channel="CNA.mewatch">
         <title>Japan Hour [English Subtitles] - EP 16</title>
     </programme>
-    <programme start="20250420030000 +0000" stop="20250420033000 +0000" channel="CNA.mewatch">
+    <programme start="20250420030001 +0000" stop="20250420033001 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250420033000 +0000" stop="20250420040000 +0000" channel="CNA.mewatch">
+    <programme start="20250420033001 +0000" stop="20250420040001 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 5</title>
     </programme>
-    <programme start="20250420040000 +0000" stop="20250420043000 +0000" channel="CNA.mewatch">
+    <programme start="20250420040001 +0000" stop="20250420043001 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250420043000 +0000" stop="20250420050000 +0000" channel="CNA.mewatch">
+    <programme start="20250420043001 +0000" stop="20250420050001 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 3</title>
     </programme>
-    <programme start="20250420050000 +0000" stop="20250420050200 +0000" channel="CNA.mewatch">
+    <programme start="20250420050001 +0000" stop="20250420050231 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420050200 +0000" stop="20250420060000 +0000" channel="CNA.mewatch">
+    <programme start="20250420050231 +0000" stop="20250420060000 +0000" channel="CNA.mewatch">
         <title>Japan Hour [English Subtitles] - EP 16</title>
     </programme>
     <programme start="20250420060000 +0000" stop="20250420063000 +0000" channel="CNA.mewatch">
@@ -555,10 +555,10 @@
     <programme start="20250420073000 +0000" stop="20250420080000 +0000" channel="CNA.mewatch">
         <title>Singapore After Work - EP 8</title>
     </programme>
-    <programme start="20250420080000 +0000" stop="20250420080200 +0000" channel="CNA.mewatch">
+    <programme start="20250420080000 +0000" stop="20250420080215 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420080200 +0000" stop="20250420090000 +0000" channel="CNA.mewatch">
+    <programme start="20250420080215 +0000" stop="20250420090000 +0000" channel="CNA.mewatch">
         <title>Myanmar In Turmoil</title>
     </programme>
     <programme start="20250420090000 +0000" stop="20250420093000 +0000" channel="CNA.mewatch">
@@ -567,40 +567,40 @@
     <programme start="20250420093000 +0000" stop="20250420100000 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 3</title>
     </programme>
-    <programme start="20250420100000 +0000" stop="20250420103000 +0000" channel="CNA.mewatch">
+    <programme start="20250420100000 +0000" stop="20250420102959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250420103000 +0000" stop="20250420110000 +0000" channel="CNA.mewatch">
+    <programme start="20250420102959 +0000" stop="20250420110000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 9</title>
     </programme>
-    <programme start="20250420110000 +0000" stop="20250420110200 +0000" channel="CNA.mewatch">
+    <programme start="20250420110000 +0000" stop="20250420110215 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420110200 +0000" stop="20250420120000 +0000" channel="CNA.mewatch">
+    <programme start="20250420110215 +0000" stop="20250420115959 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 3</title>
     </programme>
-    <programme start="20250420120000 +0000" stop="20250420123000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
+    <programme start="20250420115959 +0000" stop="20250420122959 +0000" channel="CNA.mewatch">
+        <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250420123000 +0000" stop="20250420130000 +0000" channel="CNA.mewatch">
+    <programme start="20250420122959 +0000" stop="20250420125959 +0000" channel="CNA.mewatch">
         <title>Lunch With Us - EP 4</title>
     </programme>
-    <programme start="20250420130000 +0000" stop="20250420130200 +0000" channel="CNA.mewatch">
+    <programme start="20250420125959 +0000" stop="20250420130219 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420130200 +0000" stop="20250420140000 +0000" channel="CNA.mewatch">
+    <programme start="20250420130219 +0000" stop="20250420140000 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 3</title>
     </programme>
-    <programme start="20250420140000 +0000" stop="20250420150000 +0000" channel="CNA.mewatch">
+    <programme start="20250420140000 +0000" stop="20250420145959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250420150000 +0000" stop="20250420150300 +0000" channel="CNA.mewatch">
+    <programme start="20250420145959 +0000" stop="20250420150319 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250420150300 +0000" stop="20250420160000 +0000" channel="CNA.mewatch">
+    <programme start="20250420150319 +0000" stop="20250420160000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 1</title>
     </programme>
-    <programme start="20250420160000 +0000" stop="20250420160300 +0000" channel="CNA.mewatch">
+    <programme start="20250420160000 +0000" stop="20250420160320 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250419160000 +0000" stop="20250420160000 +0000" channel="spl01.mewatch">
