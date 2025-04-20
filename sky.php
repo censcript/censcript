@@ -28456,7 +28456,7 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="ATN">
-        <title>Ghaura Poribar</title>
+        <title>Music Lounge</title>
     </programme>
     <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="ATN">
         <title>O Shathire</title>
@@ -34725,10 +34725,10 @@
     <programme start="20250420070000 +0000" stop="20250420090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250420090000 +0000" stop="20250420130000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250420090000 +0000" stop="20250420114000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250420130000 +0000" stop="20250420133000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250420114000 +0000" stop="20250420133000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250420133000 +0000" stop="20250420170000 +0000" channel="BBC RB 1 HD">
@@ -36269,9 +36269,6 @@
     </programme>
     <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="BBC R1X">
         <title>BBC Introducing on 1Xtra with Theo Johnson</title>
-    </programme>
-    <programme start="20250419120000 +0000" stop="20250420080000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250420080000 +0000" stop="20250420083000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
