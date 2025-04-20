@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420065500 +0000" stop="20250420091000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - Urawa Red Diamonds v Yokohama FM</title>
-    </programme>
     <programme start="20250420072000 +0000" stop="20250420094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Jeonbuk v Daegu</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250503190000 +0000" stop="20250503200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250503233000 +0000" stop="20250504020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Portland Thorns FC v Orlando Pride</title>
     </programme>
 </tv>

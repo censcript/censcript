@@ -17275,7 +17275,7 @@
         <title>Citadel Global Community Church</title>
     </programme>
     <programme start="20250420120000 +0000" stop="20250420123000 +0000" channel="Faith World TV">
-        <title>Gospel Church In London</title>
+        <title>Foundation on a Solid Rock Ministry</title>
     </programme>
     <programme start="20250420123000 +0000" stop="20250420133000 +0000" channel="Faith World TV">
         <title>Executive Television</title>
@@ -17329,7 +17329,7 @@
         <title>Hour of Liberation</title>
     </programme>
     <programme start="20250420220000 +0000" stop="20250420223000 +0000" channel="Faith World TV">
-        <title>Let's Talk About</title>
+        <title>Foundation on a Solid Rock Ministry</title>
     </programme>
     <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="Faith World TV">
         <title>Bring the Nation Back to God</title>
@@ -25978,7 +25978,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250420140500 +0000" stop="20250420150000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Special Interview with Salman Iqbal</title>
     </programme>
     <programme start="20250420150000 +0000" stop="20250420150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
