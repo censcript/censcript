@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420115500 +0000" stop="20250420141000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester City v Everton</title>
-    </programme>
     <programme start="20250420120000 +0000" stop="20250420152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504105000 +0000" stop="20250504131000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Manchester City</title>
+    </programme>
+    <programme start="20250504105500 +0000" stop="20250504131000 +0000" channel="Optus Sport 9.optus">
+        <title>Women&#039;s Super League - Liverpool v Everton</title>
     </programme>
 </tv>
