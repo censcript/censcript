@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420072000 +0000" stop="20250420094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Jeonbuk v Daegu</title>
-    </programme>
-    <programme start="20250420072000 +0000" stop="20250420094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Pohang</title>
-    </programme>
     <programme start="20250420115500 +0000" stop="20250420141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester City v Everton</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250503233000 +0000" stop="20250504020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Portland Thorns FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250504020000 +0000" stop="20250504043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Utah Royals FC v North Carolina Courage</title>
+    </programme>
+    <programme start="20250504105000 +0000" stop="20250504131000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Manchester United v Manchester City</title>
     </programme>
 </tv>
