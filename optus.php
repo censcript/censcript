@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420193000 +0000" stop="20250420210000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504135500 +0000" stop="20250504161000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - West Ham United v Aston Villa</title>
+    </programme>
+    <programme start="20250504152000 +0000" stop="20250504183000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Chelsea v Liverpool</title>
     </programme>
 </tv>

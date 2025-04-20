@@ -1386,19 +1386,19 @@
     <programme start="20250421224500 +0000" stop="20250421234500 +0000" channel="BBC Three HD">
         <title>Cuckoo</title>
     </programme>
-    <programme start="20250420210000 +0000" stop="20250420223000 +0000" channel="BBC Four HD">
+    <programme start="20250420213000 +0000" stop="20250420230000 +0000" channel="BBC Four HD">
         <title>Cynthia Erivo: Legendary Voices at the Proms</title>
     </programme>
-    <programme start="20250420223000 +0000" stop="20250420235000 +0000" channel="BBC Four HD">
+    <programme start="20250420230000 +0000" stop="20250421002000 +0000" channel="BBC Four HD">
         <title>White Sings Robeson</title>
     </programme>
-    <programme start="20250420235000 +0000" stop="20250421011500 +0000" channel="BBC Four HD">
+    <programme start="20250421002000 +0000" stop="20250421014500 +0000" channel="BBC Four HD">
         <title>The Rolling Stones: Live at the Fonda</title>
     </programme>
-    <programme start="20250421011500 +0000" stop="20250421024500 +0000" channel="BBC Four HD">
+    <programme start="20250421014500 +0000" stop="20250421031500 +0000" channel="BBC Four HD">
         <title>Cynthia Erivo: Legendary Voices at the Proms</title>
     </programme>
-    <programme start="20250421024500 +0000" stop="20250421043000 +0000" channel="BBC Four HD">
+    <programme start="20250421031500 +0000" stop="20250421043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250421043000 +0000" stop="20250421103000 +0000" channel="BBC Four HD">
