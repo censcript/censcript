@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419233000 +0000" stop="20250420020000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Kansas City Current v Houston Dash</title>
-    </programme>
     <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Machida</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - West Ham United v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Leicester City v Southampton</title>
     </programme>
 </tv>
