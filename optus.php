@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250419210000 +0000" stop="20250419233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Orlando Pride v Washington Spirit</title>
-    </programme>
-    <programme start="20250419230000 +0000" stop="20250420013000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - North Carolina Courage v Bay FC</title>
-    </programme>
     <programme start="20250419233000 +0000" stop="20250420020000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Kansas City Current v Houston Dash</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250503095500 +0000" stop="20250503121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kyoto v Cerezo</title>
+    </programme>
+    <programme start="20250503103000 +0000" stop="20250503135000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Aston Villa v Fulham</title>
+    </programme>
+    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - West Ham United v Tottenham Hotspur</title>
     </programme>
 </tv>

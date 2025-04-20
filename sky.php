@@ -22552,10 +22552,10 @@
         <title>That's Clever!</title>
     </programme>
     <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="TJC HD">
-        <title>Gold Smackdown Deals with Jo</title>
+        <title>Jewellery Deals with Jo</title>
     </programme>
     <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="TJC HD">
-        <title>Gold Smackdown Deals with Jo</title>
+        <title>Jewellery Deals with Jo</title>
     </programme>
     <programme start="20250419230000 +0000" stop="20250420000000 +0000" channel="TJC HD">
         <title>Easter Sunday Smackdown with Jo</title>
@@ -29625,35 +29625,8 @@
     <programme start="20250419220000 +0000" stop="20250419230000 +0000" channel="Sky Showcase">
         <title>Dynamo: Beyond Belief...</title>
     </programme>
-    <programme start="20250419230000 +0000" stop="20250420000000 +0000" channel="Sky Showcase">
+    <programme start="20250419230000 +0000" stop="20250420050000 +0000" channel="Sky Showcase">
         <title>Dynamo: Beyond Belief...</title>
-    </programme>
-    <programme start="20250420000000 +0000" stop="20250420010000 +0000" channel="Sky Showcase">
-        <title>An Idiot Abroad</title>
-    </programme>
-    <programme start="20250420010000 +0000" stop="20250420013000 +0000" channel="Sky Showcase">
-        <title>The Office (US)</title>
-    </programme>
-    <programme start="20250420013000 +0000" stop="20250420020000 +0000" channel="Sky Showcase">
-        <title>The Office (US)</title>
-    </programme>
-    <programme start="20250420020000 +0000" stop="20250420023000 +0000" channel="Sky Showcase">
-        <title>Road Wars</title>
-    </programme>
-    <programme start="20250420023000 +0000" stop="20250420030000 +0000" channel="Sky Showcase">
-        <title>Road Wars</title>
-    </programme>
-    <programme start="20250420030000 +0000" stop="20250420033000 +0000" channel="Sky Showcase">
-        <title>Nothing To Declare</title>
-    </programme>
-    <programme start="20250420033000 +0000" stop="20250420040000 +0000" channel="Sky Showcase">
-        <title>Nothing To Declare</title>
-    </programme>
-    <programme start="20250420040000 +0000" stop="20250420043000 +0000" channel="Sky Showcase">
-        <title>Nothing To Declare</title>
-    </programme>
-    <programme start="20250420043000 +0000" stop="20250420050000 +0000" channel="Sky Showcase">
-        <title>Nothing To Declare</title>
     </programme>
     <programme start="20250420050000 +0000" stop="20250420052500 +0000" channel="Sky Showcase">
         <title>Monkey Life</title>
