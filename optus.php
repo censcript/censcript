@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Vissel Kobe v Machida</title>
-    </programme>
-    <programme start="20250420045500 +0000" stop="20250420071000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Shimizu v Avispa</title>
-    </programme>
     <programme start="20250420055500 +0000" stop="20250420081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v FC Tokyo</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Leicester City v Southampton</title>
+    </programme>
+    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Everton v Ipswich</title>
+    </programme>
+    <programme start="20250503162000 +0000" stop="20250503190000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Arsenal v Bournemouth</title>
     </programme>
 </tv>
