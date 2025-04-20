@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420152000 +0000" stop="20250420183000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Leicester City v Liverpool</title>
-    </programme>
     <programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504130500 +0000" stop="20250504152500 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Chelsea</title>
+    </programme>
+    <programme start="20250504135500 +0000" stop="20250504161000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - West Ham United v Aston Villa</title>
     </programme>
 </tv>
