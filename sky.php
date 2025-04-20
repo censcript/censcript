@@ -27414,11 +27414,8 @@
     <programme start="20250420202900 +0000" stop="20250420210000 +0000" channel="ARY Digital">
         <title>Jeeto Pakistan</title>
     </programme>
-    <programme start="20250420210000 +0000" stop="20250420223000 +0000" channel="ARY Digital">
+    <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
-    </programme>
-    <programme start="20250420223000 +0000" stop="20250420233000 +0000" channel="ARY Digital">
-        <title>Bulbulay</title>
     </programme>
     <programme start="20250419210000 +0000" stop="20250419220000 +0000" channel="QTV Religious">
         <title>Daura E Tarjuma E Qur'an</title>
