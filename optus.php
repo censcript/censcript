@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250420193000 +0000" stop="20250420210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="Optus Sport 11.optus">
