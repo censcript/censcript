@@ -1386,26 +1386,20 @@
     <programme start="20250421224500 +0000" stop="20250421234500 +0000" channel="BBC Three HD">
         <title>Cuckoo</title>
     </programme>
-    <programme start="20250420180000 +0000" stop="20250420221500 +0000" channel="BBC Four HD">
+    <programme start="20250420180000 +0000" stop="20250420222000 +0000" channel="BBC Four HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250420221500 +0000" stop="20250420234500 +0000" channel="BBC Four HD">
+    <programme start="20250420222000 +0000" stop="20250420235000 +0000" channel="BBC Four HD">
         <title>Cynthia Erivo: Legendary Voices at the Proms</title>
     </programme>
-    <programme start="20250420234500 +0000" stop="20250421010500 +0000" channel="BBC Four HD">
+    <programme start="20250420235000 +0000" stop="20250421011000 +0000" channel="BBC Four HD">
         <title>White Sings Robeson</title>
     </programme>
-    <programme start="20250421010500 +0000" stop="20250421023000 +0000" channel="BBC Four HD">
+    <programme start="20250421011000 +0000" stop="20250421023500 +0000" channel="BBC Four HD">
         <title>The Rolling Stones: Live at the Fonda</title>
     </programme>
-    <programme start="20250421023000 +0000" stop="20250421040000 +0000" channel="BBC Four HD">
-        <title>Cynthia Erivo: Legendary Voices at the Proms</title>
-    </programme>
-    <programme start="20250421040000 +0000" stop="20250421043000 +0000" channel="BBC Four HD">
+    <programme start="20250421023500 +0000" stop="20250421103000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
-    </programme>
-    <programme start="20250421043000 +0000" stop="20250421103000 +0000" channel="BBC Four HD">
-        <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250421103000 +0000" stop="20250421163000 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
@@ -35670,10 +35664,10 @@
     <programme start="20250421020000 +0000" stop="20250421030000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250421030000 +0000" stop="20250421044500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250421030000 +0000" stop="20250421043500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250421044500 +0000" stop="20250421050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250421043500 +0000" stop="20250421050000 +0000" channel="BBC RB 1 HD">
         <title>GB Swimming Championships</title>
     </programme>
     <programme start="20250421050000 +0000" stop="20250421070000 +0000" channel="BBC RB 1 HD">
