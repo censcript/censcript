@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250421183000 +0000" stop="20250421213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Tottenham Hotspur v Nottingham Forest</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504170000 +0000" stop="20250504193000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v Chicago Stars</title>
+    </programme>
+    <programme start="20250504190000 +0000" stop="20250504203000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
     </programme>
 </tv>
