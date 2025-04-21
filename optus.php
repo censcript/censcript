@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504152000 +0000" stop="20250504183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Liverpool</title>
+    </programme>
+    <programme start="20250504170000 +0000" stop="20250504193000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Gotham FC v Chicago Stars</title>
     </programme>
 </tv>
