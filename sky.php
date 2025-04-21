@@ -14032,7 +14032,7 @@
         <title>UEL &amp; UCoL Highlights Show</title>
     </programme>
     <programme start="20250422050000 +0000" stop="20250422060000 +0000" channel="TNT Sports 3">
-        <title>Cycling Pro Series - Men</title>
+        <title>Cycling World Tour - Men</title>
     </programme>
     <programme start="20250422060000 +0000" stop="20250422070000 +0000" channel="TNT Sports 3">
         <title>Cycling Pro Series - Women</title>
@@ -28278,10 +28278,10 @@
     <programme start="20250422220000 +0000" stop="20250422230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250421210000 +0000" stop="20250421230000 +0000" channel="ARY Digital">
+    <programme start="20250421210700 +0000" stop="20250421231000 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
-    <programme start="20250421230000 +0000" stop="20250422000000 +0000" channel="ARY Digital">
+    <programme start="20250421231000 +0000" stop="20250422000000 +0000" channel="ARY Digital">
         <title>Parwarish</title>
     </programme>
     <programme start="20250422000000 +0000" stop="20250422010000 +0000" channel="ARY Digital">
@@ -33787,7 +33787,7 @@
         <title>UEL &amp; UCoL Highlights Show</title>
     </programme>
     <programme start="20250422050000 +0000" stop="20250422060000 +0000" channel="TNTSports3 HD">
-        <title>Cycling Pro Series - Men</title>
+        <title>Cycling World Tour - Men</title>
     </programme>
     <programme start="20250422060000 +0000" stop="20250422070000 +0000" channel="TNTSports3 HD">
         <title>Cycling Pro Series - Women</title>
