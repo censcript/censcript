@@ -354,29 +354,26 @@
     <programme start="20250421100020 +0000" stop="20250421110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 25</title>
     </programme>
-    <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421110000 +0000" stop="20250421115911 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 35</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421115911 +0000" stop="20250421130034 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 36</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421133000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421130034 +0000" stop="20250421133058 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 13</title>
     </programme>
-    <programme start="20250421133000 +0000" stop="20250421140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421133058 +0000" stop="20250421140047 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 13</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421140047 +0000" stop="20250421150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 27</title>
     </programme>
-    <programme start="20250421150000 +0000" stop="20250421153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421150000 +0000" stop="20250421153059 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250421153000 +0000" stop="20250421160000 +0000" channel="Channel U.mewatch">
+    <programme start="20250421153059 +0000" stop="20250421160114 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 13</title>
-    </programme>
-    <programme start="20250421160000 +0000" stop="20250421163000 +0000" channel="Channel U.mewatch">
-        <title>Happy Long Stay - EP 13</title>
     </programme>
     <programme start="20250420153000 +0000" stop="20250420160105 +0000" channel="Suria.mewatch">
         <title>Berita</title>
@@ -420,22 +417,22 @@
     <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 12</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123010 +0000" channel="Suria.mewatch">
+    <programme start="20250421120000 +0000" stop="20250421123045 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250421123010 +0000" stop="20250421130002 +0000" channel="Suria.mewatch">
+    <programme start="20250421123045 +0000" stop="20250421130007 +0000" channel="Suria.mewatch">
         <title>Kembara Chef Wan Laluan Sutera - EP 10</title>
     </programme>
-    <programme start="20250421130002 +0000" stop="20250421133008 +0000" channel="Suria.mewatch">
+    <programme start="20250421130007 +0000" stop="20250421133003 +0000" channel="Suria.mewatch">
         <title>Kanvas Harapan - EP 6</title>
     </programme>
-    <programme start="20250421133008 +0000" stop="20250421143017 +0000" channel="Suria.mewatch">
+    <programme start="20250421133003 +0000" stop="20250421143012 +0000" channel="Suria.mewatch">
         <title>ORIGENE - EP 7</title>
     </programme>
-    <programme start="20250421143017 +0000" stop="20250421153000 +0000" channel="Suria.mewatch">
+    <programme start="20250421143012 +0000" stop="20250421153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 11</title>
     </programme>
-    <programme start="20250421153000 +0000" stop="20250421160139 +0000" channel="Suria.mewatch">
+    <programme start="20250421153000 +0000" stop="20250421160149 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250420140002 +0000" stop="20250420163000 +0000" channel="Vasantham.mewatch">

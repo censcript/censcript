@@ -18,8 +18,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Lon HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Lon HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Lon HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Lon HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Lon HD">
         <title>Homes Under the Hammer</title>
@@ -27,16 +30,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Lon HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One Lon HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One Lon HD">
         <title>BBC News at One including BBC London News</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One Lon HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One Lon HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Lon HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Lon HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Lon HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Lon HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Lon HD">
@@ -108,11 +111,8 @@
     <programme start="20250421080000 +0000" stop="20250421094500 +0000" channel="BBC Two HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two HD">
-        <title>Animal Park</title>
-    </programme>
-    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two HD">
-        <title>BBC News</title>
+    <programme start="20250421094500 +0000" stop="20250421120000 +0000" channel="BBC Two HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two HD">
         <title>Snooker: World Championship</title>
@@ -32889,14 +32889,8 @@
     <programme start="20250421170000 +0000" stop="20250421173000 +0000" channel="TNTSports1 HD">
         <title>The WRC Magazine</title>
     </programme>
-    <programme start="20250421173000 +0000" stop="20250421183000 +0000" channel="TNTSports1 HD">
-        <title>AC Milan v Atalanta</title>
-    </programme>
-    <programme start="20250421183000 +0000" stop="20250421204500 +0000" channel="TNTSports1 HD">
-        <title>Live: Parma v Juventus</title>
-    </programme>
-    <programme start="20250421204500 +0000" stop="20250421210000 +0000" channel="TNTSports1 HD">
-        <title>Superbike Rewind</title>
+    <programme start="20250421173000 +0000" stop="20250421210000 +0000" channel="TNTSports1 HD">
+        <title>Live: Snooker World Championship</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="TNTSports1 HD">
         <title>UFC Main Event - Season 12</title>
@@ -34215,8 +34209,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NE HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One NE HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NE HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NE HD">
         <title>Homes Under the Hammer</title>
@@ -34224,19 +34221,19 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One NE HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One NE HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One NE HD">
         <title>BBC News at One including Look...</title>
-    </programme>
-    <programme start="20250421123000 +0000" stop="20250421124500 +0000" channel="BBC One NE HD">
-        <title>The Snail and the Whale</title>
     </programme>
     <programme start="20250421124500 +0000" stop="20250421130000 +0000" channel="BBC One NE HD">
         <title>BBC News at One</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One NE HD">
+    <programme start="20250421130000 +0000" stop="20250421131500 +0000" channel="BBC One NE HD">
+        <title>The Snail and the Whale</title>
+    </programme>
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One NE HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One NE HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One NE HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One NE HD">
@@ -34299,8 +34296,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NW HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One NW HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NW HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NW HD">
         <title>Homes Under the Hammer</title>
@@ -34308,16 +34308,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One NW HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One NW HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One NW HD">
         <title>BBC News at One including North West Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One NW HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One NW HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One NW HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One NW HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One NW HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One NW HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One NW HD">
@@ -34380,8 +34380,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Yks HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Yks HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Yks HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Yks HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Yks HD">
         <title>Homes Under the Hammer</title>
@@ -34389,16 +34392,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Yks HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One Yks HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One Yks HD">
         <title>BBC News at One including Look North (Yorkshire)</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One Yks HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One Yks HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Yks HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Yks HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Yks HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Yks HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Yks HD">
@@ -34461,8 +34464,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Y&amp;L HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Y&amp;L HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Y&amp;L HD">
         <title>Homes Under the Hammer</title>
@@ -34470,19 +34476,19 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Y&amp;L HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News at One including Look...</title>
-    </programme>
-    <programme start="20250421123000 +0000" stop="20250421124500 +0000" channel="BBC One Y&amp;L HD">
-        <title>The Snail and the Whale</title>
     </programme>
     <programme start="20250421124500 +0000" stop="20250421130000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News at One</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250421130000 +0000" stop="20250421131500 +0000" channel="BBC One Y&amp;L HD">
+        <title>The Snail and the Whale</title>
+    </programme>
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Y&amp;L HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Y&amp;L HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Y&amp;L HD">
@@ -34545,8 +34551,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One WM HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One WM HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One WM HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One WM HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One WM HD">
         <title>Homes Under the Hammer</title>
@@ -34554,16 +34563,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One WM HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One WM HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One WM HD">
         <title>BBC News at One including Midlands Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One WM HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One WM HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One WM HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One WM HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One WM HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One WM HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One WM HD">
@@ -34626,8 +34635,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One EMidHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One EMidHD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One EMidHD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One EMidHD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One EMidHD">
         <title>Homes Under the Hammer</title>
@@ -34635,16 +34647,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One EMidHD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One EMidHD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One EMidHD">
         <title>BBC News at One including East Midlands Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One EMidHD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One EMidHD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One EMidHD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One EMidHD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One EMidHD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One EMidHD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One EMidHD">
@@ -34707,8 +34719,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One EastHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One EastHD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One EastHD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One EastHD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One EastHD">
         <title>Homes Under the Hammer</title>
@@ -34716,16 +34731,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One EastHD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One EastHD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One EastHD">
         <title>BBC News at One including Look East</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One EastHD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One EastHD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One EastHD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One EastHD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One EastHD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One EastHD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One EastHD">
@@ -34788,8 +34803,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One SE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One SE HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One SE HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One SE HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One SE HD">
         <title>Homes Under the Hammer</title>
@@ -34797,16 +34815,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One SE HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One SE HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One SE HD">
         <title>BBC News at One including South East Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One SE HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One SE HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One SE HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One SE HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One SE HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One SE HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One SE HD">
@@ -34869,8 +34887,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Wst HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Wst HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Wst HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Wst HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Wst HD">
         <title>Homes Under the Hammer</title>
@@ -34878,16 +34899,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Wst HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One Wst HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One Wst HD">
         <title>BBC News at One including Points West</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One Wst HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One Wst HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Wst HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Wst HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Wst HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Wst HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Wst HD">
@@ -34950,8 +34971,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Sth HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Sth HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Sth HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Sth HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Sth HD">
         <title>Homes Under the Hammer</title>
@@ -34959,16 +34983,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Sth HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One Sth HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One Sth HD">
         <title>BBC News at One including South Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One Sth HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One Sth HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Sth HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Sth HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Sth HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Sth HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Sth HD">
@@ -35031,8 +35055,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One SW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One SW HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One SW HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One SW HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One SW HD">
         <title>Homes Under the Hammer</title>
@@ -35040,16 +35067,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One SW HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One SW HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One SW HD">
         <title>BBC News at One including Spotlight</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One SW HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One SW HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One SW HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One SW HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One SW HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One SW HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One SW HD">
@@ -35112,8 +35139,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One CI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One CI HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One CI HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One CI HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One CI HD">
         <title>Homes Under the Hammer</title>
@@ -35121,16 +35151,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One CI HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One CI HD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One CI HD">
         <title>BBC News at One including Spotlight</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One CI HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One CI HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One CI HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One CI HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One CI HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One CI HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One CI HD">
@@ -35196,8 +35226,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One ScotHD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One ScotHD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One ScotHD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One ScotHD">
         <title>Homes Under the Hammer</title>
@@ -35205,16 +35238,16 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One ScotHD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="BBC One ScotHD">
+    <programme start="20250421120000 +0000" stop="20250421124500 +0000" channel="BBC One ScotHD">
         <title>BBC News at One including Reporting Scotland</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One ScotHD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One ScotHD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One ScotHD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One ScotHD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One ScotHD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One ScotHD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One ScotHD">
@@ -35277,8 +35310,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Wal HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Wal HD">
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One Wal HD">
         <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Wal HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Wal HD">
         <title>Homes Under the Hammer</title>
@@ -35286,19 +35322,19 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One Wal HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421122000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421120000 +0000" stop="20250421123500 +0000" channel="BBC One Wal HD">
         <title>BBC News at One</title>
     </programme>
-    <programme start="20250421122000 +0000" stop="20250421123000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421123500 +0000" stop="20250421124500 +0000" channel="BBC One Wal HD">
         <title>BBC Wales Today</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One Wal HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One Wal HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One Wal HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One Wal HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One Wal HD">
@@ -35361,8 +35397,11 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NI HD">
-        <title>Rip Off Britain</title>
+    <programme start="20250421083000 +0000" stop="20250421094500 +0000" channel="BBC One NI HD">
+        <title>BBC News Special</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NI HD">
+        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NI HD">
         <title>Homes Under the Hammer</title>
@@ -35370,19 +35409,19 @@
     <programme start="20250421111500 +0000" stop="20250421120000 +0000" channel="BBC One NI HD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421122000 +0000" channel="BBC One NI HD">
+    <programme start="20250421120000 +0000" stop="20250421123500 +0000" channel="BBC One NI HD">
         <title>BBC News at One</title>
     </programme>
-    <programme start="20250421122000 +0000" stop="20250421123000 +0000" channel="BBC One NI HD">
+    <programme start="20250421123500 +0000" stop="20250421124500 +0000" channel="BBC One NI HD">
         <title>BBC Newsline</title>
     </programme>
-    <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="BBC One NI HD">
+    <programme start="20250421124500 +0000" stop="20250421131500 +0000" channel="BBC One NI HD">
         <title>The Snail and the Whale</title>
     </programme>
-    <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="BBC One NI HD">
+    <programme start="20250421131500 +0000" stop="20250421141500 +0000" channel="BBC One NI HD">
         <title>Attenborough and the Sea Dragon</title>
     </programme>
-    <programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="BBC One NI HD">
+    <programme start="20250421141500 +0000" stop="20250421144500 +0000" channel="BBC One NI HD">
         <title>Escape to the Country</title>
     </programme>
     <programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="BBC One NI HD">
@@ -35457,11 +35496,8 @@
     <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC Two Wal HD">
         <title>Dr Xand's Con or Cure</title>
     </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two Wal HD">
-        <title>Animal Park</title>
-    </programme>
-    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two Wal HD">
-        <title>BBC News</title>
+    <programme start="20250421094500 +0000" stop="20250421120000 +0000" channel="BBC Two Wal HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two Wal HD">
         <title>Snooker: World Championship</title>
@@ -35520,11 +35556,8 @@
     <programme start="20250421080000 +0000" stop="20250421094500 +0000" channel="BBC Two NI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two NI HD">
-        <title>Animal Park</title>
-    </programme>
-    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two NI HD">
-        <title>BBC News</title>
+    <programme start="20250421094500 +0000" stop="20250421120000 +0000" channel="BBC Two NI HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship</title>
@@ -35929,12 +35962,12 @@
         <title>Naga Munchetty</title>
     </programme>
     <programme start="20250421130000 +0000" stop="20250421133000 +0000" channel="BBC R5L">
-        <title>Match of the Day: Top 10</title>
+        <title>5 Live News</title>
     </programme>
-    <programme start="20250421133000 +0000" stop="20250421161500 +0000" channel="BBC R5L">
+    <programme start="20250421133000 +0000" stop="20250421160000 +0000" channel="BBC R5L">
         <title>5 Live Sport</title>
     </programme>
-    <programme start="20250421161500 +0000" stop="20250421180000 +0000" channel="BBC R5L">
+    <programme start="20250421160000 +0000" stop="20250421180000 +0000" channel="BBC R5L">
         <title>5 Live Drive</title>
     </programme>
     <programme start="20250421180000 +0000" stop="20250421210000 +0000" channel="BBC R5L">
@@ -36256,19 +36289,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250421090600 +0000" stop="20250421100000 +0000" channel="BBC World Sv">
-        <title>The History Hour</title>
+        <title>The Newsroom</title>
     </programme>
     <programme start="20250421100000 +0000" stop="20250421100600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421100600 +0000" stop="20250421103000 +0000" channel="BBC World Sv">
+    <programme start="20250421100600 +0000" stop="20250421110000 +0000" channel="BBC World Sv">
         <title>The Newsroom</title>
-    </programme>
-    <programme start="20250421103000 +0000" stop="20250421103230 +0000" channel="BBC World Sv">
-        <title>BBC News Summary</title>
-    </programme>
-    <programme start="20250421103230 +0000" stop="20250421110000 +0000" channel="BBC World Sv">
-        <title>The Conversation</title>
     </programme>
     <programme start="20250421110000 +0000" stop="20250421110600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -36300,14 +36327,8 @@
     <programme start="20250421140000 +0000" stop="20250421140600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421140600 +0000" stop="20250421143000 +0000" channel="BBC World Sv">
+    <programme start="20250421140600 +0000" stop="20250421150000 +0000" channel="BBC World Sv">
         <title>Newshour</title>
-    </programme>
-    <programme start="20250421143000 +0000" stop="20250421143230 +0000" channel="BBC World Sv">
-        <title>BBC News Summary</title>
-    </programme>
-    <programme start="20250421143230 +0000" stop="20250421150000 +0000" channel="BBC World Sv">
-        <title>World Business Report</title>
     </programme>
     <programme start="20250421150000 +0000" stop="20250421150600 +0000" channel="BBC World Sv">
         <title>BBC News</title>
@@ -37194,11 +37215,8 @@
     <programme start="20250421130000 +0000" stop="20250421160000 +0000" channel="BBC R Cymru">
         <title>Chwaraeon Radio Cymru</title>
     </programme>
-    <programme start="20250421160000 +0000" stop="20250421163000 +0000" channel="BBC R Cymru">
+    <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="BBC R Cymru">
         <title>Post Prynhawn</title>
-    </programme>
-    <programme start="20250421163000 +0000" stop="20250421170000 +0000" channel="BBC R Cymru">
-        <title>Gwleidydda</title>
     </programme>
     <programme start="20250421170000 +0000" stop="20250421180000 +0000" channel="BBC R Cymru">
         <title>Ffion Dafis</title>
