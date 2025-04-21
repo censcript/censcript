@@ -177,82 +177,82 @@
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 645</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250421230000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250421220000 +0000" stop="20250421230004 +0000" channel="Channel 8.mewatch">
         <title>LNX x Hawkers - EP 8</title>
     </programme>
-    <programme start="20250421230000 +0000" stop="20250421233000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250421230004 +0000" stop="20250421233006 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250421233000 +0000" stop="20250422000000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250421233006 +0000" stop="20250422000003 +0000" channel="Channel 8.mewatch">
         <title>The Heartland Hero - EP 41</title>
     </programme>
-    <programme start="20250422000000 +0000" stop="20250422010000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422000003 +0000" stop="20250422010000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 24</title>
     </programme>
-    <programme start="20250422010000 +0000" stop="20250422013000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422010000 +0000" stop="20250422013005 +0000" channel="Channel 8.mewatch">
         <title>Morning Express</title>
     </programme>
-    <programme start="20250422013000 +0000" stop="20250422020000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422013005 +0000" stop="20250422015940 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 16</title>
     </programme>
-    <programme start="20250422020000 +0000" stop="20250422020700 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422015940 +0000" stop="20250422020640 +0000" channel="Channel 8.mewatch">
         <title>- EP 254</title>
     </programme>
-    <programme start="20250422020700 +0000" stop="20250422021400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422020640 +0000" stop="20250422021340 +0000" channel="Channel 8.mewatch">
         <title>- EP 243</title>
     </programme>
-    <programme start="20250422021400 +0000" stop="20250422021600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422021340 +0000" stop="20250422021540 +0000" channel="Channel 8.mewatch">
         <title>- EP 223</title>
     </programme>
-    <programme start="20250422021600 +0000" stop="20250422022300 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422021540 +0000" stop="20250422022240 +0000" channel="Channel 8.mewatch">
         <title>- EP 228</title>
     </programme>
-    <programme start="20250422022300 +0000" stop="20250422023000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422022240 +0000" stop="20250422023000 +0000" channel="Channel 8.mewatch">
         <title>- EP 214</title>
     </programme>
-    <programme start="20250422023000 +0000" stop="20250422033000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422023000 +0000" stop="20250422033014 +0000" channel="Channel 8.mewatch">
         <title>Taste Of Life - EP 660</title>
     </programme>
-    <programme start="20250422033000 +0000" stop="20250422043000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422033014 +0000" stop="20250422042949 +0000" channel="Channel 8.mewatch">
         <title>Taste Of Life - EP 661</title>
     </programme>
-    <programme start="20250422043000 +0000" stop="20250422044400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422042949 +0000" stop="20250422044349 +0000" channel="Channel 8.mewatch">
         <title>- EP 242</title>
     </programme>
-    <programme start="20250422044400 +0000" stop="20250422044600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422044349 +0000" stop="20250422044549 +0000" channel="Channel 8.mewatch">
         <title>- EP 192</title>
     </programme>
-    <programme start="20250422044600 +0000" stop="20250422050000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422044549 +0000" stop="20250422050000 +0000" channel="Channel 8.mewatch">
         <title>- EP 237</title>
     </programme>
-    <programme start="20250422050000 +0000" stop="20250422053000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422050000 +0000" stop="20250422052959 +0000" channel="Channel 8.mewatch">
         <title>News 8 at One</title>
     </programme>
-    <programme start="20250422053000 +0000" stop="20250422060000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422052959 +0000" stop="20250422055939 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1120</title>
     </programme>
-    <programme start="20250422060000 +0000" stop="20250422063000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422055939 +0000" stop="20250422062848 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1121</title>
     </programme>
-    <programme start="20250422063000 +0000" stop="20250422070000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422062848 +0000" stop="20250422070106 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1122</title>
     </programme>
-    <programme start="20250422070000 +0000" stop="20250422071400 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422070106 +0000" stop="20250422071506 +0000" channel="Channel 8.mewatch">
         <title>- EP 234</title>
     </programme>
-    <programme start="20250422071400 +0000" stop="20250422071600 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422071506 +0000" stop="20250422071706 +0000" channel="Channel 8.mewatch">
         <title>- EP 260</title>
     </programme>
-    <programme start="20250422071600 +0000" stop="20250422073000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422071706 +0000" stop="20250422073121 +0000" channel="Channel 8.mewatch">
         <title>- EP 196</title>
     </programme>
-    <programme start="20250422073000 +0000" stop="20250422083000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422073121 +0000" stop="20250422082948 +0000" channel="Channel 8.mewatch">
         <title>Sisterhood - EP 31</title>
     </programme>
-    <programme start="20250422083000 +0000" stop="20250422093000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422082948 +0000" stop="20250422092937 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 646</title>
     </programme>
-    <programme start="20250422093000 +0000" stop="20250422103000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422092937 +0000" stop="20250422103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 647</title>
     </programme>
     <programme start="20250422103000 +0000" stop="20250422113000 +0000" channel="Channel 8.mewatch">
@@ -549,28 +549,28 @@
     <programme start="20250421230000 +0000" stop="20250422020000 +0000" channel="CNA.mewatch">
         <title>Asia First 2025/2026</title>
     </programme>
-    <programme start="20250422020000 +0000" stop="20250422030000 +0000" channel="CNA.mewatch">
+    <programme start="20250422020000 +0000" stop="20250422025959 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 1</title>
     </programme>
-    <programme start="20250422030000 +0000" stop="20250422050000 +0000" channel="CNA.mewatch">
+    <programme start="20250422025959 +0000" stop="20250422045959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250422050000 +0000" stop="20250422060000 +0000" channel="CNA.mewatch">
+    <programme start="20250422045959 +0000" stop="20250422060000 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 3</title>
     </programme>
     <programme start="20250422060000 +0000" stop="20250422080000 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="CNA.mewatch">
+    <programme start="20250422080000 +0000" stop="20250422085959 +0000" channel="CNA.mewatch">
         <title>A Safe Harbour In A Turbulent World</title>
     </programme>
-    <programme start="20250422090000 +0000" stop="20250422090200 +0000" channel="CNA.mewatch">
+    <programme start="20250422085959 +0000" stop="20250422090204 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250422090200 +0000" stop="20250422100000 +0000" channel="CNA.mewatch">
+    <programme start="20250422090204 +0000" stop="20250422095959 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 3</title>
     </programme>
-    <programme start="20250422100000 +0000" stop="20250422110000 +0000" channel="CNA.mewatch">
+    <programme start="20250422095959 +0000" stop="20250422110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight 2025/2026</title>
     </programme>
     <programme start="20250422110000 +0000" stop="20250422120000 +0000" channel="CNA.mewatch">

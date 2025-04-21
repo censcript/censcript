@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CendolCen">
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One Lon HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One Lon HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One Lon HD">
@@ -34821,7 +34821,7 @@
     <programme start="20250422200000 +0000" stop="20250422210000 +0000" channel="Sky Intro">
         <title>Sky Intro - Sky TV made Simple</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One NE HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One NE HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One NE HD">
@@ -34908,7 +34908,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One NE HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One NW HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One NW HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One NW HD">
@@ -34995,7 +34995,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One NW HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One Yks HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One Yks HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One Yks HD">
@@ -35082,7 +35082,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One Yks HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One Y&amp;L HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One Y&amp;L HD">
@@ -35169,7 +35169,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One Y&amp;L HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One WM HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One WM HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One WM HD">
@@ -35256,7 +35256,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One WM HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One EMidHD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One EMidHD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One EMidHD">
@@ -35343,7 +35343,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One EMidHD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One EastHD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One EastHD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One EastHD">
@@ -35430,7 +35430,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One EastHD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One SE HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One SE HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One SE HD">
@@ -35517,7 +35517,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One SE HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One Wst HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One Wst HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One Wst HD">
@@ -35604,7 +35604,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One Wst HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One Sth HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One Sth HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One Sth HD">
@@ -35691,7 +35691,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One Sth HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One SW HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One SW HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One SW HD">
@@ -35778,7 +35778,7 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One SW HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421224000 +0000" channel="BBC One CI HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One CI HD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
     <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One CI HD">
@@ -35865,22 +35865,25 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One CI HD">
         <title>The Repair Shop</title>
     </programme>
-    <programme start="20250421214500 +0000" stop="20250421222000 +0000" channel="BBC One ScotHD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One ScotHD">
         <title>Paddy and Chris: Road Tripping</title>
     </programme>
-    <programme start="20250421222000 +0000" stop="20250421225000 +0000" channel="BBC One ScotHD">
+    <programme start="20250421224000 +0000" stop="20250421232500 +0000" channel="BBC One ScotHD">
+        <title>Have I Got a Bit More News for You</title>
+    </programme>
+    <programme start="20250421232500 +0000" stop="20250421235500 +0000" channel="BBC One ScotHD">
         <title>Sportscene: SWPL Highlights</title>
     </programme>
-    <programme start="20250421225000 +0000" stop="20250421232500 +0000" channel="BBC One ScotHD">
+    <programme start="20250421235500 +0000" stop="20250422004000 +0000" channel="BBC One ScotHD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250421232500 +0000" stop="20250422001000 +0000" channel="BBC One ScotHD">
+    <programme start="20250422004000 +0000" stop="20250422012500 +0000" channel="BBC One ScotHD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250422001000 +0000" stop="20250422001500 +0000" channel="BBC One ScotHD">
+    <programme start="20250422012500 +0000" stop="20250422013000 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250422001500 +0000" stop="20250422050000 +0000" channel="BBC One ScotHD">
+    <programme start="20250422013000 +0000" stop="20250422050000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
     </programme>
     <programme start="20250422050000 +0000" stop="20250422083000 +0000" channel="BBC One ScotHD">
@@ -35952,16 +35955,19 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One ScotHD">
         <title>Scotcast</title>
     </programme>
-    <programme start="20250421215500 +0000" stop="20250421224000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421214500 +0000" stop="20250421221500 +0000" channel="BBC One Wal HD">
+        <title>Scrum V Highlights</title>
+    </programme>
+    <programme start="20250421221500 +0000" stop="20250421230000 +0000" channel="BBC One Wal HD">
         <title>Have I Got a Bit More News for You</title>
     </programme>
-    <programme start="20250421224000 +0000" stop="20250421231500 +0000" channel="BBC One Wal HD">
+    <programme start="20250421230000 +0000" stop="20250421234000 +0000" channel="BBC One Wal HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250421231500 +0000" stop="20250422000000 +0000" channel="BBC One Wal HD">
+    <programme start="20250421234000 +0000" stop="20250422002500 +0000" channel="BBC One Wal HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250422000000 +0000" stop="20250422050000 +0000" channel="BBC One Wal HD">
+    <programme start="20250422002500 +0000" stop="20250422050000 +0000" channel="BBC One Wal HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250422050000 +0000" stop="20250422083000 +0000" channel="BBC One Wal HD">
@@ -36036,19 +36042,19 @@
     <programme start="20250422224000 +0000" stop="20250422234000 +0000" channel="BBC One Wal HD">
         <title>Kinahan: The True Story of Ireland's Mafia</title>
     </programme>
-    <programme start="20250421213500 +0000" stop="20250421223500 +0000" channel="BBC One NI HD">
+    <programme start="20250421214000 +0000" stop="20250421224000 +0000" channel="BBC One NI HD">
         <title>Kinahan: The True Story of Ireland's Mafia</title>
     </programme>
-    <programme start="20250421223500 +0000" stop="20250421232000 +0000" channel="BBC One NI HD">
-        <title>Have I Got a Bit More News for You</title>
+    <programme start="20250421224000 +0000" stop="20250421234000 +0000" channel="BBC One NI HD">
+        <title>Paddy and Chris: Road Tripping</title>
     </programme>
-    <programme start="20250421232000 +0000" stop="20250421235500 +0000" channel="BBC One NI HD">
+    <programme start="20250421234000 +0000" stop="20250422001500 +0000" channel="BBC One NI HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250421235500 +0000" stop="20250422004000 +0000" channel="BBC One NI HD">
+    <programme start="20250422001500 +0000" stop="20250422010000 +0000" channel="BBC One NI HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250422004000 +0000" stop="20250422050000 +0000" channel="BBC One NI HD">
+    <programme start="20250422010000 +0000" stop="20250422050000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250422050000 +0000" stop="20250422083000 +0000" channel="BBC One NI HD">
