@@ -435,10 +435,10 @@
     <programme start="20250421143000 +0000" stop="20250421153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 11</title>
     </programme>
-    <programme start="20250421153000 +0000" stop="20250421160000 +0000" channel="Suria.mewatch">
+    <programme start="20250421153000 +0000" stop="20250421155939 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250421160000 +0000" stop="20250422010000 +0000" channel="Suria.mewatch">
+    <programme start="20250421155939 +0000" stop="20250422010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250420140002 +0000" stop="20250420163000 +0000" channel="Vasantham.mewatch">
