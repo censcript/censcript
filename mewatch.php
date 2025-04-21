@@ -384,9 +384,6 @@
     <programme start="20250420153000 +0000" stop="20250420160105 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250420160105 +0000" stop="20250421010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250421010000 +0000" stop="20250421012954 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 2</title>
     </programme>

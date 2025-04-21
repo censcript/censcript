@@ -1398,8 +1398,11 @@
     <programme start="20250421011000 +0000" stop="20250421023500 +0000" channel="BBC Four HD">
         <title>The Rolling Stones: Live at the Fonda</title>
     </programme>
-    <programme start="20250421023500 +0000" stop="20250421103000 +0000" channel="BBC Four HD">
+    <programme start="20250421023500 +0000" stop="20250421043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
+    </programme>
+    <programme start="20250421043000 +0000" stop="20250421103000 +0000" channel="BBC Four HD">
+        <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250421103000 +0000" stop="20250421163000 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
