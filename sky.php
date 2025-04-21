@@ -204,13 +204,13 @@
     <programme start="20250421200000 +0000" stop="20250421210000 +0000" channel="ITV1 HD">
         <title>New: Celebrity Big Brother</title>
     </programme>
-    <programme start="20250421210000 +0000" stop="20250421213000 +0000" channel="ITV1 HD">
-        <title>G'wed</title>
-    </programme>
-    <programme start="20250421213000 +0000" stop="20250421215000 +0000" channel="ITV1 HD">
+    <programme start="20250421210000 +0000" stop="20250421213500 +0000" channel="ITV1 HD">
         <title>ITV News</title>
     </programme>
-    <programme start="20250421215000 +0000" stop="20250421225000 +0000" channel="ITV1 HD">
+    <programme start="20250421213500 +0000" stop="20250421220500 +0000" channel="ITV1 HD">
+        <title>G'wed</title>
+    </programme>
+    <programme start="20250421220500 +0000" stop="20250421230500 +0000" channel="ITV1 HD">
         <title>An Evening with Elton John and Brandi Carlile</title>
     </programme>
     <programme start="20250420213000 +0000" stop="20250421000000 +0000" channel="Channel 4 HD">
@@ -295,7 +295,7 @@
         <title>A Place in the Sun</title>
     </programme>
     <programme start="20250421173000 +0000" stop="20250421180000 +0000" channel="Channel 4 HD">
-        <title>Channel 4 News</title>
+        <title>Pope Francis Dies: C4 News Special</title>
     </programme>
     <programme start="20250421180000 +0000" stop="20250421190000 +0000" channel="Channel 4 HD">
         <title>New: Food Unwrapped's Great...</title>
@@ -7014,14 +7014,11 @@
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="ITV1+1">
         <title>New: Celebrity Big Brother</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250421223000 +0000" channel="ITV1+1">
-        <title>G'wed</title>
-    </programme>
-    <programme start="20250421223000 +0000" stop="20250421225000 +0000" channel="ITV1+1">
+    <programme start="20250421220000 +0000" stop="20250421223500 +0000" channel="ITV1+1">
         <title>ITV News</title>
     </programme>
-    <programme start="20250421225000 +0000" stop="20250421235000 +0000" channel="ITV1+1">
-        <title>An Evening with Elton John and Brandi Carlile</title>
+    <programme start="20250421223500 +0000" stop="20250421233500 +0000" channel="ITV1+1">
+        <title>G'wed</title>
     </programme>
     <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="Channel 4+1">
         <title>New: The Piano</title>
@@ -7111,7 +7108,7 @@
         <title>A Place in the Sun</title>
     </programme>
     <programme start="20250421183000 +0000" stop="20250421190000 +0000" channel="Channel 4+1">
-        <title>Channel 4 News</title>
+        <title>Pope Francis Dies: C4 News Special</title>
     </programme>
     <programme start="20250421190000 +0000" stop="20250421200000 +0000" channel="Channel 4+1">
         <title>New: Food Unwrapped's Great...</title>
@@ -10713,13 +10710,13 @@
     <programme start="20250421072000 +0000" stop="20250421093000 +0000" channel="Sky Thriller HD">
         <title>The Sum Of All Fears</title>
     </programme>
-    <programme start="20250421093000 +0000" stop="20250421110500 +0000" channel="Sky Thriller HD">
+    <programme start="20250421093000 +0000" stop="20250421110501 +0000" channel="Sky Thriller HD">
         <title>Retribution (2023)</title>
     </programme>
-    <programme start="20250421110500 +0000" stop="20250421132500 +0000" channel="Sky Thriller HD">
-        <title>Angels &amp; Demons</title>
+    <programme start="20250421110501 +0000" stop="20250421132501 +0000" channel="Sky Thriller HD">
+        <title>After Yang</title>
     </programme>
-    <programme start="20250421132500 +0000" stop="20250421152000 +0000" channel="Sky Thriller HD">
+    <programme start="20250421132501 +0000" stop="20250421152000 +0000" channel="Sky Thriller HD">
         <title>Contraband</title>
     </programme>
     <programme start="20250421152000 +0000" stop="20250421172000 +0000" channel="Sky Thriller HD">
@@ -13152,14 +13149,8 @@
     <programme start="20250421170000 +0000" stop="20250421173000 +0000" channel="TNT Sports 1">
         <title>The WRC Magazine</title>
     </programme>
-    <programme start="20250421173000 +0000" stop="20250421183000 +0000" channel="TNT Sports 1">
-        <title>AC Milan v Atalanta</title>
-    </programme>
-    <programme start="20250421183000 +0000" stop="20250421204500 +0000" channel="TNT Sports 1">
-        <title>Live: Parma v Juventus</title>
-    </programme>
-    <programme start="20250421204500 +0000" stop="20250421210000 +0000" channel="TNT Sports 1">
-        <title>Superbike Rewind</title>
+    <programme start="20250421173000 +0000" stop="20250421210000 +0000" channel="TNT Sports 1">
+        <title>Live: Snooker World Championship</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="TNT Sports 1">
         <title>UFC Main Event - Season 12</title>
@@ -14323,7 +14314,7 @@
         <title>The World Today with Maryam Moshiri</title>
     </programme>
     <programme start="20250421173000 +0000" stop="20250421174500 +0000" channel="BBC NEWS HD">
-        <title>Sportsday</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250421174500 +0000" stop="20250421180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -35920,7 +35911,7 @@
         <title>Front Row</title>
     </programme>
     <programme start="20250421190000 +0000" stop="20250421193000 +0000" channel="BBC R4">
-        <title>The Briefing Room</title>
+        <title>The Life of Pope Francis</title>
     </programme>
     <programme start="20250421193000 +0000" stop="20250421200000 +0000" channel="BBC R4">
         <title>BBC Inside Science</title>
