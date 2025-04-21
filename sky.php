@@ -1404,10 +1404,16 @@
     <programme start="20250422225500 +0000" stop="20250422235500 +0000" channel="BBC Three HD">
         <title>The Young Offenders</title>
     </programme>
+    <programme start="20250421180000 +0000" stop="20250421210000 +0000" channel="BBC Four HD">
+        <title>Snooker: World Championship</title>
+    </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="BBC Four HD">
         <title>Turner: The Man Who Painted Britain</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250421232500 +0000" channel="BBC Four HD">
+    <programme start="20250421220000 +0000" stop="20250421230000 +0000" channel="BBC Four HD">
+        <title>Turner: The Man Who Painted Britain</title>
+    </programme>
+    <programme start="20250421230000 +0000" stop="20250421232500 +0000" channel="BBC Four HD">
         <title>Artists and Models</title>
     </programme>
     <programme start="20250421232500 +0000" stop="20250422002500 +0000" channel="BBC Four HD">
@@ -36267,10 +36273,10 @@
     <programme start="20250422220000 +0000" stop="20250422230000 +0000" channel="BBC Two NI HD">
         <title>Saving Lives in Cardiff</title>
     </programme>
-    <programme start="20250421213000 +0000" stop="20250421234500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250421214500 +0000" stop="20250422000000 +0000" channel="BBC RB 1 HD">
         <title>Women's Six Nations: Wales v Ireland</title>
     </programme>
-    <programme start="20250421234500 +0000" stop="20250422010000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250422000000 +0000" stop="20250422010000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250422010000 +0000" stop="20250422040000 +0000" channel="BBC RB 1 HD">
