@@ -29355,56 +29355,62 @@
     <programme start="20250422100000 +0000" stop="20250422113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250422113000 +0000" stop="20250422120900 +0000" channel="IQRA Bangla">
+    <programme start="20250422113000 +0000" stop="20250422120400 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250422120900 +0000" stop="20250422121400 +0000" channel="IQRA Bangla">
+    <programme start="20250422120400 +0000" stop="20250422120900 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250422121400 +0000" stop="20250422130000 +0000" channel="IQRA Bangla">
+    <programme start="20250422120900 +0000" stop="20250422123000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250422130000 +0000" stop="20250422133000 +0000" channel="IQRA Bangla">
-        <title>Heal your Heart</title>
+    <programme start="20250422123000 +0000" stop="20250422130000 +0000" channel="IQRA Bangla">
+        <title>Islamic Stories</title>
     </programme>
-    <programme start="20250422133000 +0000" stop="20250422143000 +0000" channel="IQRA Bangla">
+    <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="IQRA Bangla">
         <title>Islamic Life</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422153000 +0000" channel="IQRA Bangla">
-        <title>Nurul Quran</title>
+    <programme start="20250422140000 +0000" stop="20250422143000 +0000" channel="IQRA Bangla">
+        <title>Heal your Heart</title>
     </programme>
-    <programme start="20250422153000 +0000" stop="20250422163200 +0000" channel="IQRA Bangla">
+    <programme start="20250422143000 +0000" stop="20250422153000 +0000" channel="IQRA Bangla">
+        <title>Legal Hour</title>
+    </programme>
+    <programme start="20250422153000 +0000" stop="20250422165600 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250422163200 +0000" stop="20250422163700 +0000" channel="IQRA Bangla">
+    <programme start="20250422165600 +0000" stop="20250422170200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250422163700 +0000" stop="20250422170000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
+    <programme start="20250422170200 +0000" stop="20250422180000 +0000" channel="IQRA Bangla">
+        <title>Focus Point</title>
     </programme>
-    <programme start="20250422170000 +0000" stop="20250422180000 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
-    </programme>
-    <programme start="20250422180000 +0000" stop="20250422183700 +0000" channel="IQRA Bangla">
+    <programme start="20250422180000 +0000" stop="20250422190000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250422183700 +0000" stop="20250422184200 +0000" channel="IQRA Bangla">
+    <programme start="20250422190000 +0000" stop="20250422191200 +0000" channel="IQRA Bangla">
+        <title>Iqra Bangla News</title>
+    </programme>
+    <programme start="20250422191200 +0000" stop="20250422191700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250422184200 +0000" stop="20250422190000 +0000" channel="IQRA Bangla">
-        <title>Maa Amar Maa</title>
-    </programme>
-    <programme start="20250422190000 +0000" stop="20250422193000 +0000" channel="IQRA Bangla">
+    <programme start="20250422191700 +0000" stop="20250422193000 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
     <programme start="20250422193000 +0000" stop="20250422200000 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
     </programme>
-    <programme start="20250422200000 +0000" stop="20250422213000 +0000" channel="IQRA Bangla">
+    <programme start="20250422200000 +0000" stop="20250422202600 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250422202600 +0000" stop="20250422203100 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Isha</title>
+    </programme>
+    <programme start="20250422203100 +0000" stop="20250422213000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="IQRA Bangla">
-        <title>Tafseer-Ul-Qur'an</title>
+        <title>Islamer Shikkha</title>
     </programme>
     <programme start="20250422223000 +0000" stop="20250422233000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
