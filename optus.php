@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250421183000 +0000" stop="20250421213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Tottenham Hotspur v Nottingham Forest</title>
-    </programme>
     <programme start="20250421213000 +0000" stop="20250421223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Final Word</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250504190000 +0000" stop="20250504203000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - San Diego Wave FC v Bay FC</title>
     </programme>
 </tv>
