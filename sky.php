@@ -16171,7 +16171,7 @@
         <title>WION Pulse</title>
     </programme>
     <programme start="20250421010000 +0000" stop="20250421013000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>World At War</title>
     </programme>
     <programme start="20250421013000 +0000" stop="20250421020000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16237,7 +16237,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421123000 +0000" channel="WION HD">
-        <title>Top Stories</title>
+        <title>WION Business Insights</title>
     </programme>
     <programme start="20250421123000 +0000" stop="20250421130000 +0000" channel="WION HD">
         <title>WION Dispatch</title>
@@ -36166,7 +36166,7 @@
         <title>Kamilla Rose</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="Capital XTRA">
-        <title>Leah Davis</title>
+        <title>Lesziah</title>
     </programme>
     <programme start="20250420215000 +0000" stop="20250420220000 +0000" channel="BBC World Sv">
         <title>Over to You</title>
