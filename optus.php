@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250421213000 +0000" stop="20250421223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250421233000 +0000" stop="20250422003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Bay FC</title>
+    </programme>
+    <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
+        <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
     </programme>
 </tv>

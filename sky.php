@@ -13431,16 +13431,16 @@
     <programme start="20250422103000 +0000" stop="20250422125500 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250422125500 +0000" stop="20250422141500 +0000" channel="SkySp F1 HD">
+    <programme start="20250422125500 +0000" stop="20250422141501 +0000" channel="SkySp F1 HD">
         <title>Grand Prix Sunday</title>
     </programme>
-    <programme start="20250422141500 +0000" stop="20250422163000 +0000" channel="SkySp F1 HD">
+    <programme start="20250422141501 +0000" stop="20250422163000 +0000" channel="SkySp F1 HD">
         <title>Saudi Arabian F1 Grand Prix</title>
     </programme>
-    <programme start="20250422163000 +0000" stop="20250422173000 +0000" channel="SkySp F1 HD">
+    <programme start="20250422163000 +0000" stop="20250422173001 +0000" channel="SkySp F1 HD">
         <title>Chequered Flag: Saudi Arabia</title>
     </programme>
-    <programme start="20250422173000 +0000" stop="20250422174000 +0000" channel="SkySp F1 HD">
+    <programme start="20250422173001 +0000" stop="20250422174000 +0000" channel="SkySp F1 HD">
         <title>Ted Drives: Part 3 - F1 Car</title>
     </programme>
     <programme start="20250422174000 +0000" stop="20250422194500 +0000" channel="SkySp F1 HD">
