@@ -420,26 +420,23 @@
     <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 12</title>
     </programme>
-    <programme start="20250421120000 +0000" stop="20250421122955 +0000" channel="Suria.mewatch">
+    <programme start="20250421120000 +0000" stop="20250421123010 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250421122955 +0000" stop="20250421125947 +0000" channel="Suria.mewatch">
+    <programme start="20250421123010 +0000" stop="20250421130002 +0000" channel="Suria.mewatch">
         <title>Kembara Chef Wan Laluan Sutera - EP 10</title>
     </programme>
-    <programme start="20250421125947 +0000" stop="20250421132953 +0000" channel="Suria.mewatch">
+    <programme start="20250421130002 +0000" stop="20250421133008 +0000" channel="Suria.mewatch">
         <title>Kanvas Harapan - EP 6</title>
     </programme>
-    <programme start="20250421132953 +0000" stop="20250421143002 +0000" channel="Suria.mewatch">
+    <programme start="20250421133008 +0000" stop="20250421143017 +0000" channel="Suria.mewatch">
         <title>ORIGENE - EP 7</title>
     </programme>
-    <programme start="20250421143002 +0000" stop="20250421153000 +0000" channel="Suria.mewatch">
+    <programme start="20250421143017 +0000" stop="20250421153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 11</title>
     </programme>
-    <programme start="20250421153000 +0000" stop="20250421155939 +0000" channel="Suria.mewatch">
+    <programme start="20250421153000 +0000" stop="20250421160139 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250421155939 +0000" stop="20250422010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250420140002 +0000" stop="20250420163000 +0000" channel="Vasantham.mewatch">
         <title>Gurumoorthi</title>

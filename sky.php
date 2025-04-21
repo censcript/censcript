@@ -18,14 +18,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Lon HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Lon HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Lon HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Lon HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Lon HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Lon HD">
         <title>Homes Under the Hammer</title>
@@ -111,13 +105,13 @@
     <programme start="20250421065000 +0000" stop="20250421080000 +0000" channel="BBC Two HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250421080000 +0000" stop="20250421090000 +0000" channel="BBC Two HD">
+    <programme start="20250421080000 +0000" stop="20250421094500 +0000" channel="BBC Two HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421090000 +0000" stop="20250421110000 +0000" channel="BBC Two HD">
-        <title>Snooker: World Championship</title>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two HD">
+        <title>Animal Park</title>
     </programme>
-    <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="BBC Two HD">
+    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two HD">
@@ -34221,14 +34215,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One NE HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One NE HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NE HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NE HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NE HD">
         <title>Homes Under the Hammer</title>
@@ -34311,14 +34299,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One NW HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One NW HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NW HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NW HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NW HD">
         <title>Homes Under the Hammer</title>
@@ -34398,14 +34380,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Yks HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Yks HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Yks HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Yks HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Yks HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Yks HD">
         <title>Homes Under the Hammer</title>
@@ -34485,14 +34461,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Y&amp;L HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Y&amp;L HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Y&amp;L HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Y&amp;L HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Y&amp;L HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Y&amp;L HD">
         <title>Homes Under the Hammer</title>
@@ -34575,14 +34545,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One WM HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One WM HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One WM HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One WM HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One WM HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One WM HD">
         <title>Homes Under the Hammer</title>
@@ -34662,14 +34626,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One EMidHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One EMidHD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One EMidHD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One EMidHD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One EMidHD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One EMidHD">
         <title>Homes Under the Hammer</title>
@@ -34749,14 +34707,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One EastHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One EastHD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One EastHD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One EastHD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One EastHD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One EastHD">
         <title>Homes Under the Hammer</title>
@@ -34836,14 +34788,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One SE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One SE HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One SE HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One SE HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One SE HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One SE HD">
         <title>Homes Under the Hammer</title>
@@ -34923,14 +34869,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Wst HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Wst HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Wst HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Wst HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Wst HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Wst HD">
         <title>Homes Under the Hammer</title>
@@ -35010,14 +34950,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Sth HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Sth HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Sth HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Sth HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Sth HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Sth HD">
         <title>Homes Under the Hammer</title>
@@ -35097,14 +35031,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One SW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One SW HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One SW HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One SW HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One SW HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One SW HD">
         <title>Homes Under the Hammer</title>
@@ -35184,14 +35112,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One CI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One CI HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One CI HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One CI HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One CI HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One CI HD">
         <title>Homes Under the Hammer</title>
@@ -35274,14 +35196,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One ScotHD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One ScotHD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One ScotHD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One ScotHD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One ScotHD">
         <title>Homes Under the Hammer</title>
@@ -35361,14 +35277,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One Wal HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One Wal HD">
-        <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One Wal HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One Wal HD">
-        <title>Animal Park</title>
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One Wal HD">
+        <title>BBC News Special</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One Wal HD">
         <title>Homes Under the Hammer</title>
@@ -35451,14 +35361,8 @@
     <programme start="20250421050000 +0000" stop="20250421083000 +0000" channel="BBC One NI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC One NI HD">
+    <programme start="20250421083000 +0000" stop="20250421101500 +0000" channel="BBC One NI HD">
         <title>Rip Off Britain</title>
-    </programme>
-    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC One NI HD">
-        <title>Dr Xand's Con or Cure</title>
-    </programme>
-    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC One NI HD">
-        <title>Animal Park</title>
     </programme>
     <programme start="20250421101500 +0000" stop="20250421111500 +0000" channel="BBC One NI HD">
         <title>Homes Under the Hammer</title>
@@ -35544,13 +35448,19 @@
     <programme start="20250421065000 +0000" stop="20250421080000 +0000" channel="BBC Two Wal HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250421080000 +0000" stop="20250421090000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250421080000 +0000" stop="20250421083000 +0000" channel="BBC Two Wal HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421090000 +0000" stop="20250421110000 +0000" channel="BBC Two Wal HD">
-        <title>Snooker: World Championship</title>
+    <programme start="20250421083000 +0000" stop="20250421091500 +0000" channel="BBC Two Wal HD">
+        <title>Rip Off Britain</title>
     </programme>
-    <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250421091500 +0000" stop="20250421094500 +0000" channel="BBC Two Wal HD">
+        <title>Dr Xand's Con or Cure</title>
+    </programme>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two Wal HD">
+        <title>Animal Park</title>
+    </programme>
+    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two Wal HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two Wal HD">
@@ -35607,13 +35517,13 @@
     <programme start="20250421065000 +0000" stop="20250421080000 +0000" channel="BBC Two NI HD">
         <title>Match of the Day 2</title>
     </programme>
-    <programme start="20250421080000 +0000" stop="20250421090000 +0000" channel="BBC Two NI HD">
+    <programme start="20250421080000 +0000" stop="20250421094500 +0000" channel="BBC Two NI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250421090000 +0000" stop="20250421110000 +0000" channel="BBC Two NI HD">
-        <title>Snooker: World Championship</title>
+    <programme start="20250421094500 +0000" stop="20250421101500 +0000" channel="BBC Two NI HD">
+        <title>Animal Park</title>
     </programme>
-    <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="BBC Two NI HD">
+    <programme start="20250421101500 +0000" stop="20250421120000 +0000" channel="BBC Two NI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421170000 +0000" channel="BBC Two NI HD">
@@ -36391,7 +36301,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250421140600 +0000" stop="20250421143000 +0000" channel="BBC World Sv">
-        <title>The Interview</title>
+        <title>Newshour</title>
     </programme>
     <programme start="20250421143000 +0000" stop="20250421143230 +0000" channel="BBC World Sv">
         <title>BBC News Summary</title>
@@ -36871,7 +36781,7 @@
         <title>Ben Kentish</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421150000 +0000" channel="LBC">
-        <title>Ali Miraj</title>
+        <title>Shelagh Fogarty</title>
     </programme>
     <programme start="20250421150000 +0000" stop="20250421180000 +0000" channel="LBC">
         <title>Simon Marks</title>
@@ -37167,10 +37077,10 @@
     <programme start="20250421150000 +0000" stop="20250421160000 +0000" channel="BBC RnGàid">
         <title>Fàilt' air an Dùthaich</title>
     </programme>
-    <programme start="20250421160000 +0000" stop="20250421161500 +0000" channel="BBC RnGàid">
+    <programme start="20250421160000 +0000" stop="20250421163000 +0000" channel="BBC RnGàid">
         <title>Aithris an Fheasgair</title>
     </programme>
-    <programme start="20250421161500 +0000" stop="20250421180000 +0000" channel="BBC RnGàid">
+    <programme start="20250421163000 +0000" stop="20250421180000 +0000" channel="BBC RnGàid">
         <title>Siubhal gu Seachd le Pluto</title>
     </programme>
     <programme start="20250421180000 +0000" stop="20250421200000 +0000" channel="BBC RnGàid">
