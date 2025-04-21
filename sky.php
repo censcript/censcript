@@ -22924,73 +22924,73 @@
         <title>Midnight Special with Andrew</title>
     </programme>
     <programme start="20250421000000 +0000" stop="20250421010000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Andrew</title>
+        <title>Bank Holiday Deals with Andrew</title>
     </programme>
     <programme start="20250421010000 +0000" stop="20250421020000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Andrew</title>
+        <title>Bank Holiday Deals with Andrew</title>
     </programme>
     <programme start="20250421020000 +0000" stop="20250421030000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Andrew</title>
+        <title>Bank Holiday Deals with Andrew</title>
     </programme>
     <programme start="20250421030000 +0000" stop="20250421040000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Andrew</title>
+        <title>Bank Holiday Deals with Andrew</title>
     </programme>
     <programme start="20250421040000 +0000" stop="20250421050000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Andrew</title>
+        <title>Bank Holiday Deals with Andrew</title>
     </programme>
     <programme start="20250421050000 +0000" stop="20250421060000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Jenny</title>
+        <title>Bank Holiday Deals with Jenny</title>
     </programme>
     <programme start="20250421060000 +0000" stop="20250421070000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Jenny</title>
+        <title>Bank Holiday Deals with Jenny</title>
     </programme>
     <programme start="20250421070000 +0000" stop="20250421080000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Jenny</title>
+        <title>Bank Holiday Deals with Jenny</title>
     </programme>
     <programme start="20250421080000 +0000" stop="20250421090000 +0000" channel="TJC HD">
         <title>Deal of the Day with Jenny</title>
     </programme>
     <programme start="20250421090000 +0000" stop="20250421100000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Carmel</title>
+        <title>Bank Holiday Deals with Carmel</title>
     </programme>
     <programme start="20250421100000 +0000" stop="20250421110000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Carmel</title>
+        <title>Bank Holiday Deals with Carmel</title>
     </programme>
     <programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Carmel</title>
+        <title>Bank Holiday Deals with Carmel</title>
     </programme>
     <programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="TJC HD">
         <title>One to Own with Carmel</title>
     </programme>
     <programme start="20250421130000 +0000" stop="20250421140000 +0000" channel="TJC HD">
-        <title>Kashmir Kyanite with Marina</title>
+        <title>Bank Holiday Deals with Marina</title>
     </programme>
     <programme start="20250421140000 +0000" stop="20250421150000 +0000" channel="TJC HD">
-        <title>Kashmir Kyanite with Marina</title>
+        <title>Bank Holiday Deals with Marina</title>
     </programme>
     <programme start="20250421150000 +0000" stop="20250421160000 +0000" channel="TJC HD">
         <title>Super Find with Marina</title>
     </programme>
     <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="TJC HD">
-        <title>Kashmir Kyanite with Marina</title>
+        <title>Bank Holiday Deals with Marina</title>
     </programme>
     <programme start="20250421170000 +0000" stop="20250421180000 +0000" channel="TJC HD">
-        <title>Under £10 Monday Markdown with Stacey</title>
+        <title>Bank Holiday Deals with Stacey and Craig</title>
     </programme>
     <programme start="20250421180000 +0000" stop="20250421190000 +0000" channel="TJC HD">
-        <title>Under £10 Monday Markdown with Stacey</title>
+        <title>Bank Holiday Deals with Stacey and Craig</title>
     </programme>
     <programme start="20250421190000 +0000" stop="20250421200000 +0000" channel="TJC HD">
         <title>Under £10 Monster Deal with Stacey</title>
     </programme>
     <programme start="20250421200000 +0000" stop="20250421210000 +0000" channel="TJC HD">
-        <title>Under £10 Monday Markdown with Stacey</title>
+        <title>Bank Holiday Deals with Stacey and Craig</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Steve</title>
+        <title>Bank Holiday Deals with Steve</title>
     </programme>
     <programme start="20250421220000 +0000" stop="20250421230000 +0000" channel="TJC HD">
-        <title>Monday Markdown with Steve</title>
+        <title>Bank Holiday Deals with Steve</title>
     </programme>
     <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="QVC Beauty">
         <title>skinSense by Abi Cleeve</title>
