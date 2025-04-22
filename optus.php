@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250422183000 +0000" stop="20250422213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester City v Aston Villa</title>
-    </programme>
     <programme start="20250423023000 +0000" stop="20250423050000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Portland Thorns FC v Gotham FC</title>
     </programme>
@@ -22,7 +19,7 @@
         <title>Premier League - Arsenal v Crystal Palace</title>
     </programme>
     <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Jurrien Timber</title>
     </programme>
     <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
@@ -123,7 +120,7 @@
     <programme start="20250427152000 +0000" stop="20250427183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250427193000 +0000" stop="20250427210000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250427190000 +0000" stop="20250427203000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250427200000 +0000" stop="20250427223000 +0000" channel="Optus Sport 407.optus">
@@ -228,9 +225,6 @@
     <programme start="20250503103000 +0000" stop="20250503135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Fulham</title>
     </programme>
-    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - West Ham United v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Leicester City v Southampton</title>
     </programme>
@@ -260,6 +254,9 @@
     </programme>
     <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Brighton v Newcastle United</title>
+    </programme>
+    <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - West Ham United v Tottenham Hotspur</title>
     </programme>
     <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Brentford v Manchester United</title>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
+    </programme>
+    <programme start="20260503135000 +0000" stop="20260503162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>

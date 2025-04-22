@@ -1410,22 +1410,19 @@
     <programme start="20250423222500 +0000" stop="20250423232500 +0000" channel="BBC Three HD">
         <title>Suits</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="BBC Four HD">
+    <programme start="20250422214500 +0000" stop="20250422224500 +0000" channel="BBC Four HD">
         <title>American History's Biggest Fibs with Lucy Worsley</title>
     </programme>
-    <programme start="20250422220000 +0000" stop="20250422235500 +0000" channel="BBC Four HD">
+    <programme start="20250422224500 +0000" stop="20250423004000 +0000" channel="BBC Four HD">
         <title>The Great American Buffalo</title>
     </programme>
-    <programme start="20250422235500 +0000" stop="20250423005500 +0000" channel="BBC Four HD">
+    <programme start="20250423004000 +0000" stop="20250423014000 +0000" channel="BBC Four HD">
         <title>Flying Scotsman from the Footplate</title>
     </programme>
-    <programme start="20250423005500 +0000" stop="20250423015500 +0000" channel="BBC Four HD">
-        <title>Art of France</title>
-    </programme>
-    <programme start="20250423015500 +0000" stop="20250423025500 +0000" channel="BBC Four HD">
+    <programme start="20250423014000 +0000" stop="20250423024000 +0000" channel="BBC Four HD">
         <title>American History's Biggest Fibs with Lucy Worsley</title>
     </programme>
-    <programme start="20250423025500 +0000" stop="20250423043000 +0000" channel="BBC Four HD">
+    <programme start="20250423024000 +0000" stop="20250423043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250423043000 +0000" stop="20250423103000 +0000" channel="BBC Four HD">
@@ -14821,19 +14818,25 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250422213000 +0000" stop="20250422221500 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+        <title>Lords Questions</title>
     </programme>
-    <programme start="20250422221500 +0000" stop="20250423001500 +0000" channel="BBC Parl HD">
+    <programme start="20250422221500 +0000" stop="20250422234500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 1</title>
     </programme>
-    <programme start="20250423001500 +0000" stop="20250423021500 +0000" channel="BBC Parl HD">
+    <programme start="20250422234500 +0000" stop="20250423020000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250423021500 +0000" stop="20250423041500 +0000" channel="BBC Parl HD">
+    <programme start="20250423020000 +0000" stop="20250423030500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250423041500 +0000" stop="20250423060000 +0000" channel="BBC Parl HD">
+    <programme start="20250423030500 +0000" stop="20250423034500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Child Sexual Abuse Statement</title>
+    </programme>
+    <programme start="20250423034500 +0000" stop="20250423044500 +0000" channel="BBC Parl HD">
+        <title>British Steel Update Statement</title>
+    </programme>
+    <programme start="20250423044500 +0000" stop="20250423060000 +0000" channel="BBC Parl HD">
+        <title>Ukraine Update Statement</title>
     </programme>
     <programme start="20250423060000 +0000" stop="20250423070500 +0000" channel="BBC Parl HD">
         <title>Justice Questions</title>
@@ -27382,19 +27385,19 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250423150000 +0000" stop="20250423160000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250423170000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="Takbeer TV">
-        <title>Mithiyan Gallan</title>
+        <title>Sham e Arfaan</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="Takbeer TV">
         <title>Sham e Arfaan</title>
@@ -27409,7 +27412,7 @@
         <title>The Best of Creations</title>
     </programme>
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="Takbeer TV">
-        <title>Charity Appeal</title>
+        <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250422210000 +0000" stop="20250422220000 +0000" channel="HUM EUROPE">
         <title>Zindagi Gulzar Hai</title>
@@ -35883,7 +35886,7 @@
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="BBC Two NI HD">
         <title>Kinahan: The True Story of Ireland's Mafia</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250422214000 +0000" stop="20250422223000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250422223000 +0000" stop="20250423020000 +0000" channel="BBC RB 1 HD">
