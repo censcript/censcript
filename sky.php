@@ -27948,13 +27948,13 @@
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250422210000 +0000" stop="20250422223700 +0000" channel="ARY Digital">
+    <programme start="20250422210500 +0000" stop="20250422224500 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
-    <programme start="20250422223700 +0000" stop="20250422230400 +0000" channel="ARY Digital">
+    <programme start="20250422224500 +0000" stop="20250422230900 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250422230400 +0000" stop="20250423000000 +0000" channel="ARY Digital">
+    <programme start="20250422230900 +0000" stop="20250423000000 +0000" channel="ARY Digital">
         <title>Parwarish</title>
     </programme>
     <programme start="20250423000000 +0000" stop="20250423010000 +0000" channel="ARY Digital">
