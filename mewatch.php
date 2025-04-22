@@ -574,13 +574,16 @@
         <title>East Asia Tonight 2025/2026</title>
     </programme>
     <programme start="20250422110000 +0000" stop="20250422120000 +0000" channel="CNA.mewatch">
-        <title>When Titans Clash: The Tariff War hits ASEAN</title>
+        <title>Wombless - EP 2</title>
     </programme>
     <programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="CNA.mewatch">
-        <title>Wombless - EP 2</title>
+    <programme start="20250422130000 +0000" stop="20250422133000 +0000" channel="CNA.mewatch">
+        <title>Remembering Puan Noor Aishah - EP 1</title>
+    </programme>
+    <programme start="20250422133000 +0000" stop="20250422140000 +0000" channel="CNA.mewatch">
+        <title>CNA Correspondent - EP 3</title>
     </programme>
     <programme start="20250422140000 +0000" stop="20250422150000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
