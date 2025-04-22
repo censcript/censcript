@@ -18120,17 +18120,11 @@
     <programme start="20250422142000 +0000" stop="20250422143000 +0000" channel="EWTN Catholic">
         <title>Live Adoration from EWTN Chapel</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="EWTN Catholic">
+    <programme start="20250422143000 +0000" stop="20250422150500 +0000" channel="EWTN Catholic">
         <title>Stations of the Cross for the...</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422150500 +0000" channel="EWTN Catholic">
-        <title>The Roamin' Catholic</title>
-    </programme>
-    <programme start="20250422150500 +0000" stop="20250422153000 +0000" channel="EWTN Catholic">
+    <programme start="20250422150500 +0000" stop="20250422160000 +0000" channel="EWTN Catholic">
         <title>Special Presentation Interregnum (Irondale)</title>
-    </programme>
-    <programme start="20250422153000 +0000" stop="20250422160000 +0000" channel="EWTN Catholic">
-        <title>Children's Rosary</title>
     </programme>
     <programme start="20250422160000 +0000" stop="20250422163000 +0000" channel="EWTN Catholic">
         <title>At Home with Jim and Joy</title>
@@ -25050,22 +25044,22 @@
     <programme start="20250422163000 +0000" stop="20250422180000 +0000" channel="SONY TV HD">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250422180000 +0000" stop="20250422185900 +0000" channel="SONY TV HD">
+    <programme start="20250422180000 +0000" stop="20250422190000 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250422185900 +0000" stop="20250422192900 +0000" channel="SONY TV HD">
+    <programme start="20250422190000 +0000" stop="20250422193000 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250422192900 +0000" stop="20250422200200 +0000" channel="SONY TV HD">
+    <programme start="20250422193000 +0000" stop="20250422200200 +0000" channel="SONY TV HD">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
     <programme start="20250422200200 +0000" stop="20250422213000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422222900 +0000" channel="SONY TV HD">
+    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250422222900 +0000" stop="20250422232900 +0000" channel="SONY TV HD">
+    <programme start="20250422223000 +0000" stop="20250422233000 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250421213000 +0000" stop="20250421223000 +0000" channel="Utsav Bharat">
@@ -34308,23 +34302,20 @@
     <programme start="20250422163000 +0000" stop="20250422180000 +0000" channel="SONY TV">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250422180000 +0000" stop="20250422185900 +0000" channel="SONY TV">
+    <programme start="20250422180000 +0000" stop="20250422190000 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250422185900 +0000" stop="20250422192900 +0000" channel="SONY TV">
+    <programme start="20250422190000 +0000" stop="20250422193000 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250422192900 +0000" stop="20250422200200 +0000" channel="SONY TV">
+    <programme start="20250422193000 +0000" stop="20250422200200 +0000" channel="SONY TV">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
     <programme start="20250422200200 +0000" stop="20250422213000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422222900 +0000" channel="SONY TV">
+    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
-    </programme>
-    <programme start="20250422222900 +0000" stop="20250422232900 +0000" channel="SONY TV">
-        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250421213000 +0000" stop="20250421220000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
