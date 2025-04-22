@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250421233000 +0000" stop="20250422003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250422010000 +0000" stop="20250422013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - 1-to-11: Muzzy Izzet</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
+    </programme>
+    <programme start="20250505183000 +0000" stop="20250505213000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Crystal Palace v Nottingham Forest</title>
+    </programme>
+    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Stuttgart</title>
     </programme>
 </tv>
