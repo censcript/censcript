@@ -28287,8 +28287,11 @@
     <programme start="20250423090000 +0000" stop="20250423093000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250423093000 +0000" stop="20250423103000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
+    <programme start="20250423093000 +0000" stop="20250423100000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250423100000 +0000" stop="20250423103000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250423103000 +0000" stop="20250423110000 +0000" channel="Sikh Channel">
         <title>Khas-GalBaat</title>
@@ -28297,7 +28300,7 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250423123000 +0000" stop="20250423130000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="Sikh Channel">
         <title>Voice of Yorkshire</title>
@@ -28306,7 +28309,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250423143000 +0000" stop="20250423150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250423150000 +0000" stop="20250423160000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
@@ -28315,7 +28318,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250423173000 +0000" stop="20250423180000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Leicester Smagam Update</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
