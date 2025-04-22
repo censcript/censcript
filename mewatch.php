@@ -132,13 +132,13 @@
     <programme start="20250422093008 +0000" stop="20250422103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 12</title>
     </programme>
-    <programme start="20250422103000 +0000" stop="20250422110018 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422103000 +0000" stop="20250422110043 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 136</title>
     </programme>
-    <programme start="20250422110018 +0000" stop="20250422113004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422110043 +0000" stop="20250422112959 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7964</title>
     </programme>
-    <programme start="20250422113004 +0000" stop="20250422123008 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422112959 +0000" stop="20250422123008 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 8</title>
     </programme>
     <programme start="20250422123008 +0000" stop="20250422130000 +0000" channel="Channel 5.mewatch">
