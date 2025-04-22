@@ -19608,8 +19608,11 @@
     <programme start="20250422175000 +0000" stop="20250422175500 +0000" channel="CBBC HD">
         <title>The Dumping Ground</title>
     </programme>
-    <programme start="20250422175500 +0000" stop="20250422185500 +0000" channel="CBBC HD">
+    <programme start="20250422175500 +0000" stop="20250422175800 +0000" channel="CBBC HD">
         <title>High Hoops</title>
+    </programme>
+    <programme start="20250422175800 +0000" stop="20250422185800 +0000" channel="CBBC HD">
+        <title>.programmes start at 7.00am</title>
     </programme>
     <programme start="20250421175800 +0000" stop="20250421235800 +0000" channel="CBeebies HD">
         <title>..programmes start at 6.00am</title>
@@ -19833,8 +19836,11 @@
     <programme start="20250422172000 +0000" stop="20250422175000 +0000" channel="CBeebies HD">
         <title>In the Night Garden</title>
     </programme>
-    <programme start="20250422175000 +0000" stop="20250422185000 +0000" channel="CBeebies HD">
+    <programme start="20250422175000 +0000" stop="20250422175800 +0000" channel="CBeebies HD">
         <title>CBeebies Bedtime Stories</title>
+    </programme>
+    <programme start="20250422175800 +0000" stop="20250422185800 +0000" channel="CBeebies HD">
+        <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250421215500 +0000" stop="20250421220000 +0000" channel="Sky Kids HD">
         <title>Simon</title>
