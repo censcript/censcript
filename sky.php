@@ -15021,14 +15021,26 @@
     <programme start="20250422133000 +0000" stop="20250422143000 +0000" channel="BBC Parl HD">
         <title>Live Justice Questions</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422213000 +0000" channel="BBC Parl HD">
+    <programme start="20250422143000 +0000" stop="20250422151500 +0000" channel="BBC Parl HD">
+        <title>Live Birmingham Bin Strikes Urgent Question</title>
+    </programme>
+    <programme start="20250422151500 +0000" stop="20250422161500 +0000" channel="BBC Parl HD">
+        <title>Live Ukraine Update Statement</title>
+    </programme>
+    <programme start="20250422161500 +0000" stop="20250422171500 +0000" channel="BBC Parl HD">
+        <title>Live Supreme Court Ruling on Equality Act Statement</title>
+    </programme>
+    <programme start="20250422171500 +0000" stop="20250422181500 +0000" channel="BBC Parl HD">
+        <title>Live British Steel Update Statement</title>
+    </programme>
+    <programme start="20250422181500 +0000" stop="20250422213000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250422213000 +0000" stop="20250422221500 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
     </programme>
     <programme start="20250422221500 +0000" stop="20250422231500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+        <title>House of Lords - Renters' Rights Bill, Part 1</title>
     </programme>
     <programme start="20250421213000 +0000" stop="20250421220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -34316,6 +34328,9 @@
     </programme>
     <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
+    </programme>
+    <programme start="20250422223000 +0000" stop="20250422233000 +0000" channel="SONY TV">
+        <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250421213000 +0000" stop="20250421220000 +0000" channel="Utsav Plus">
         <title>Pocket Mein Aasmaan</title>
