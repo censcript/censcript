@@ -13545,8 +13545,11 @@
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="SkySp News HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="TNT Sports 1">
-        <title>MLB Highlights</title>
+    <programme start="20250422173000 +0000" stop="20250422220000 +0000" channel="TNT Sports 1">
+        <title>Live: Snooker World Championship</title>
+    </programme>
+    <programme start="20250422220000 +0000" stop="20250422223000 +0000" channel="TNT Sports 1">
+        <title>Match Officials Mic'd Up</title>
     </programme>
     <programme start="20250422223000 +0000" stop="20250422230000 +0000" channel="TNT Sports 1">
         <title>Live: MLB Lead Off</title>
@@ -33150,8 +33153,11 @@
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="SkySp News">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="TNTSports1 HD">
-        <title>MLB Highlights</title>
+    <programme start="20250422173000 +0000" stop="20250422220000 +0000" channel="TNTSports1 HD">
+        <title>Live: Snooker World Championship</title>
+    </programme>
+    <programme start="20250422220000 +0000" stop="20250422223000 +0000" channel="TNTSports1 HD">
+        <title>Match Officials Mic'd Up</title>
     </programme>
     <programme start="20250422223000 +0000" stop="20250422230000 +0000" channel="TNTSports1 HD">
         <title>Live: MLB Lead Off</title>
@@ -33447,11 +33453,14 @@
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="SkySp Mix">
         <title>Chris Eubank v Nigel Benn 1990</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="TNTSports3 HD">
-        <title>Liberty A-League Women Highlights</title>
+    <programme start="20250422173000 +0000" stop="20250422220000 +0000" channel="TNTSports3 HD">
+        <title>Live: Snooker World Championship</title>
     </programme>
-    <programme start="20250422220000 +0000" stop="20250422230000 +0000" channel="TNTSports3 HD">
-        <title>Cliff Diving World Series</title>
+    <programme start="20250422220000 +0000" stop="20250422223000 +0000" channel="TNTSports3 HD">
+        <title>Ally's Social Club</title>
+    </programme>
+    <programme start="20250422223000 +0000" stop="20250422230000 +0000" channel="TNTSports3 HD">
+        <title>Liberty A-League Women Highlights</title>
     </programme>
     <programme start="20250422230000 +0000" stop="20250423000000 +0000" channel="TNTSports3 HD">
         <title>Boston Marathon</title>
@@ -35892,11 +35901,14 @@
     <programme start="20250422223000 +0000" stop="20250423020000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250423020000 +0000" stop="20250423050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250423020000 +0000" stop="20250423045500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250423050000 +0000" stop="20250423070000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250423045500 +0000" stop="20250423065500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
+    </programme>
+    <programme start="20250423065500 +0000" stop="20250423070000 +0000" channel="BBC RB 1 HD">
+        <title>This is BBC Red Button</title>
     </programme>
     <programme start="20250423070000 +0000" stop="20250423090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>

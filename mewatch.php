@@ -411,8 +411,11 @@
     <programme start="20250423143000 +0000" stop="20250423153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 13</title>
     </programme>
-    <programme start="20250423153000 +0000" stop="20250423160000 +0000" channel="Suria.mewatch">
+    <programme start="20250423153000 +0000" stop="20250423155948 +0000" channel="Suria.mewatch">
         <title>Berita</title>
+    </programme>
+    <programme start="20250423155948 +0000" stop="20250424010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250424010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
