@@ -1410,7 +1410,7 @@
     <programme start="20250423222500 +0000" stop="20250423232500 +0000" channel="BBC Three HD">
         <title>Suits</title>
     </programme>
-    <programme start="20250422210000 +0000" stop="20250422220000 +0000" channel="BBC Four HD">
+    <programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="BBC Four HD">
         <title>American History's Biggest Fibs with Lucy Worsley</title>
     </programme>
     <programme start="20250422220000 +0000" stop="20250422235500 +0000" channel="BBC Four HD">
@@ -17799,23 +17799,11 @@
     <programme start="20250423073000 +0000" stop="20250423080000 +0000" channel="LoveWorld HD">
         <title>The Book Club</title>
     </programme>
-    <programme start="20250423080000 +0000" stop="20250423083000 +0000" channel="LoveWorld HD">
-        <title>Today on Rhapsody of Realities</title>
+    <programme start="20250423080000 +0000" stop="20250423100000 +0000" channel="LoveWorld HD">
+        <title>Global Prayer and Fasting with Pastor Chris</title>
     </programme>
-    <programme start="20250423083000 +0000" stop="20250423090000 +0000" channel="LoveWorld HD">
-        <title>Enter The Healing School</title>
-    </programme>
-    <programme start="20250423090000 +0000" stop="20250423093000 +0000" channel="LoveWorld HD">
-        <title>Loveworld Network News</title>
-    </programme>
-    <programme start="20250423093000 +0000" stop="20250423100000 +0000" channel="LoveWorld HD">
-        <title>The Watchmen</title>
-    </programme>
-    <programme start="20250423100000 +0000" stop="20250423103000 +0000" channel="LoveWorld HD">
-        <title>The 700 Club</title>
-    </programme>
-    <programme start="20250423103000 +0000" stop="20250423110000 +0000" channel="LoveWorld HD">
-        <title>The 700 Club</title>
+    <programme start="20250423100000 +0000" stop="20250423110000 +0000" channel="LoveWorld HD">
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250423110000 +0000" stop="20250423113000 +0000" channel="LoveWorld HD">
         <title>Praying With Pastor Chris</title>
@@ -17839,19 +17827,19 @@
         <title>Loveworld Network News</title>
     </programme>
     <programme start="20250423150000 +0000" stop="20250423153000 +0000" channel="LoveWorld HD">
-        <title>Full Disclosure</title>
+        <title>SuperBook</title>
     </programme>
     <programme start="20250423153000 +0000" stop="20250423160000 +0000" channel="LoveWorld HD">
         <title>Fast Kids</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250423170000 +0000" channel="LoveWorld HD">
-        <title>SuperBook</title>
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423190000 +0000" channel="LoveWorld HD">
-        <title>The LN News Room</title>
+        <title>Global Prayer and Fasting with Pastor Chris</title>
     </programme>
     <programme start="20250423190000 +0000" stop="20250423200000 +0000" channel="LoveWorld HD">
-        <title>Talking Politics</title>
+        <title>Full Disclosure</title>
     </programme>
     <programme start="20250423200000 +0000" stop="20250423203000 +0000" channel="LoveWorld HD">
         <title>Loveworld Network News</title>
@@ -23290,7 +23278,7 @@
         <title>Helene Berman London</title>
     </programme>
     <programme start="20250423010000 +0000" stop="20250423020000 +0000" channel="QVC Style HD">
-        <title>Diamonique Jewellery</title>
+        <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250423020000 +0000" stop="20250423030000 +0000" channel="QVC Style HD">
         <title>Ben de Lisi</title>
@@ -23308,7 +23296,7 @@
         <title>Helene Berman London</title>
     </programme>
     <programme start="20250423070000 +0000" stop="20250423080000 +0000" channel="QVC Style HD">
-        <title>Diamonique Jewellery</title>
+        <title>Diamonds on 6 Easy Pay</title>
     </programme>
     <programme start="20250423080000 +0000" stop="20250423090000 +0000" channel="QVC Style HD">
         <title>Ben de Lisi</title>
