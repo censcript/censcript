@@ -606,13 +606,7 @@
     <programme start="20250422160000 +0000" stop="20250422160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250421160000 +0000" stop="20250422113500 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd April, Tuesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
-    </programme>
-    <programme start="20250422113500 +0000" stop="20250422134500 +0000" channel="spl01.mewatch">
-        <title>2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
-    </programme>
-    <programme start="20250422134500 +0000" stop="20250422160000 +0000" channel="spl01.mewatch">
+    <programme start="20250421160000 +0000" stop="20250422160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 24th April, Thursday 7.35pm. 2024 Singapore Premier League:Balestier Khalsa vs Hougang United</title>
     </programme>
     <programme start="20250422160000 +0000" stop="20250423160000 +0000" channel="spl01.mewatch">

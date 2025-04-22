@@ -13603,7 +13603,7 @@
         <title>My Icon: Johnny Nelson (Pt2)</title>
     </programme>
     <programme start="20250422170000 +0000" stop="20250422190000 +0000" channel="SkySp NFL HD">
-        <title>Pro Football Talk</title>
+        <title>NBC's Pro-Football Talk</title>
     </programme>
     <programme start="20250422190000 +0000" stop="20250422200000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Whittaker v Cameron 2</title>
@@ -15730,7 +15730,7 @@
         <title>News</title>
     </programme>
     <programme start="20250421230000 +0000" stop="20250421233000 +0000" channel="NDTV World">
-        <title>India Matters</title>
+        <title>News</title>
     </programme>
     <programme start="20250421233000 +0000" stop="20250422003000 +0000" channel="NDTV World">
         <title>Left, Right &amp; Centre</title>
@@ -18121,10 +18121,13 @@
         <title>Live Adoration from EWTN Chapel</title>
     </programme>
     <programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="EWTN Catholic">
-        <title>Rosary for Kids</title>
+        <title>Stations of the Cross for the...</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422153000 +0000" channel="EWTN Catholic">
+    <programme start="20250422150000 +0000" stop="20250422150500 +0000" channel="EWTN Catholic">
         <title>The Roamin' Catholic</title>
+    </programme>
+    <programme start="20250422150500 +0000" stop="20250422153000 +0000" channel="EWTN Catholic">
+        <title>Special Presentation Interregnum (Irondale)</title>
     </programme>
     <programme start="20250422153000 +0000" stop="20250422160000 +0000" channel="EWTN Catholic">
         <title>Children's Rosary</title>
@@ -18145,7 +18148,7 @@
         <title>Women of Grace</title>
     </programme>
     <programme start="20250422190000 +0000" stop="20250422200000 +0000" channel="EWTN Catholic">
-        <title>Journey Home</title>
+        <title>Special Holy Hour for the...</title>
     </programme>
     <programme start="20250422200000 +0000" stop="20250422203000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
@@ -18156,11 +18159,11 @@
     <programme start="20250422210000 +0000" stop="20250422213000 +0000" channel="EWTN Catholic">
         <title>Door of Faith</title>
     </programme>
-    <programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="EWTN Catholic">
-        <title>Long Ride Home with Bear Woznick</title>
-    </programme>
-    <programme start="20250422220000 +0000" stop="20250422230000 +0000" channel="EWTN Catholic">
+    <programme start="20250422213000 +0000" stop="20250422223000 +0000" channel="EWTN Catholic">
         <title>Mass for the Repose of the...</title>
+    </programme>
+    <programme start="20250422223000 +0000" stop="20250422233000 +0000" channel="EWTN Catholic">
+        <title>Vespers With the Franciscan...</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="Faith World TV">
         <title>Hot Country TV</title>
@@ -23767,7 +23770,7 @@
         <title>Huge Jewellery Savings</title>
     </programme>
     <programme start="20250422090000 +0000" stop="20250422100000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Uruguayan Amethyst</title>
     </programme>
     <programme start="20250422100000 +0000" stop="20250422110000 +0000" channel="Gems TV">
         <title>Beauty Tuesday with Kati Elliott</title>
@@ -23776,7 +23779,7 @@
         <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>IF Diamonds</title>
     </programme>
     <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="Gems TV">
         <title>Live Falling Auctions</title>
@@ -23788,7 +23791,7 @@
         <title>Gemporia Jewellery</title>
     </programme>
     <programme start="20250422160000 +0000" stop="20250422170000 +0000" channel="Gems TV">
-        <title>Huge Jewellery Savings</title>
+        <title>Birthstone Bonanza</title>
     </programme>
     <programme start="20250422170000 +0000" stop="20250422180000 +0000" channel="Gems TV">
         <title>Live Falling Auctions</title>
@@ -28624,22 +28627,22 @@
         <title>Hukamnama Explanations</title>
     </programme>
     <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Tuhada Pind - Digoh</title>
     </programme>
     <programme start="20250422140000 +0000" stop="20250422143000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+    <programme start="20250422143000 +0000" stop="20250422153000 +0000" channel="Sikh Channel">
+        <title>Nagar Kirtan - Willenhall</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422160000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250422153000 +0000" stop="20250422160000 +0000" channel="Sikh Channel">
+        <title>Teleshopping: Caribbean Cruise</title>
     </programme>
     <programme start="20250422160000 +0000" stop="20250422173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250422173000 +0000" stop="20250422180000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Guru Nanak International Trust</title>
     </programme>
     <programme start="20250422180000 +0000" stop="20250422183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -36357,11 +36360,8 @@
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="BBC R1">
         <title>Radio 1's Power Down Playlist with Sian Eleri</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250422000000 +0000" channel="BBC R1">
+    <programme start="20250421220000 +0000" stop="20250422010000 +0000" channel="BBC R1">
         <title>Radio 1's Rock Show with Alyx Holcombe</title>
-    </programme>
-    <programme start="20250422000000 +0000" stop="20250422010000 +0000" channel="BBC R1">
-        <title>BBC Introducing Rock on Radio 1 with Alyx Holcombe</title>
     </programme>
     <programme start="20250422010000 +0000" stop="20250422030000 +0000" channel="BBC R1">
         <title>Radio 1 Anthems</title>
@@ -37197,10 +37197,10 @@
     <programme start="20250422123000 +0000" stop="20250422140000 +0000" channel="BBC R Ulster">
         <title>Hugo Duncan</title>
     </programme>
-    <programme start="20250422140000 +0000" stop="20250422140500 +0000" channel="BBC R Ulster">
+    <programme start="20250422140000 +0000" stop="20250422140400 +0000" channel="BBC R Ulster">
         <title>BBC News NI update</title>
     </programme>
-    <programme start="20250422140500 +0000" stop="20250422150000 +0000" channel="BBC R Ulster">
+    <programme start="20250422140400 +0000" stop="20250422150000 +0000" channel="BBC R Ulster">
         <title>What Makes a Derry Girl?</title>
     </programme>
     <programme start="20250422150000 +0000" stop="20250422170000 +0000" channel="BBC R Ulster">
