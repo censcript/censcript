@@ -259,7 +259,7 @@
         <title>Hello Singapore - EP 16</title>
     </programme>
     <programme start="20250422113000 +0000" stop="20250422120000 +0000" channel="Channel 8.mewatch">
-        <title>Remembering Puan Noor Aishah - EP 1</title>
+        <title>Remembering Puan Noor Aishah &lt;Chinese&gt;</title>
     </programme>
     <programme start="20250422120000 +0000" stop="20250422123000 +0000" channel="Channel 8.mewatch">
         <title>#MindOurBusiness - EP 1</title>
