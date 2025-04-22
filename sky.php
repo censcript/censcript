@@ -14715,8 +14715,11 @@
     <programme start="20250423060000 +0000" stop="20250423063000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
     </programme>
-    <programme start="20250423063000 +0000" stop="20250423070000 +0000" channel="BBC NEWS HD">
+    <programme start="20250423063000 +0000" stop="20250423064500 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
+    </programme>
+    <programme start="20250423064500 +0000" stop="20250423070000 +0000" channel="BBC NEWS HD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250423070000 +0000" stop="20250423073000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News</title>
@@ -14832,14 +14835,20 @@
     <programme start="20250423041500 +0000" stop="20250423060000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Child Sexual Abuse Statement</title>
     </programme>
-    <programme start="20250423060000 +0000" stop="20250423070000 +0000" channel="BBC Parl HD">
+    <programme start="20250423060000 +0000" stop="20250423070500 +0000" channel="BBC Parl HD">
         <title>Justice Questions</title>
     </programme>
-    <programme start="20250423070000 +0000" stop="20250423083000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250423070500 +0000" stop="20250423071000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
-    <programme start="20250423083000 +0000" stop="20250423103000 +0000" channel="BBC Parl HD">
-        <title>Live Select Committees</title>
+    <programme start="20250423071000 +0000" stop="20250423073000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Topical Questions</title>
+    </programme>
+    <programme start="20250423073000 +0000" stop="20250423081500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
+    </programme>
+    <programme start="20250423081500 +0000" stop="20250423103000 +0000" channel="BBC Parl HD">
+        <title>Live Transport Committee</title>
     </programme>
     <programme start="20250423103000 +0000" stop="20250423110000 +0000" channel="BBC Parl HD">
         <title>Live Scotland Office Questions</title>
@@ -38047,7 +38056,7 @@
         <title>Steve Holden</title>
     </programme>
     <programme start="20250423120000 +0000" stop="20250423150000 +0000" channel="LBC News">
-        <title>Jim Diamond</title>
+        <title>Chris Golds</title>
     </programme>
     <programme start="20250423150000 +0000" stop="20250423180000 +0000" channel="LBC News">
         <title>John Stratford</title>
