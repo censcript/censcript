@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - 1-to-11: Muzzy Izzet</title>
-    </programme>
     <programme start="20250422160000 +0000" stop="20250422163000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Match Officials Mic&#039;d Up</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
 </tv>

@@ -132,16 +132,16 @@
     <programme start="20250422093008 +0000" stop="20250422103000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S5 - EP 12</title>
     </programme>
-    <programme start="20250422103000 +0000" stop="20250422110043 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422103000 +0000" stop="20250422110016 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 136</title>
     </programme>
-    <programme start="20250422110043 +0000" stop="20250422112959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422110016 +0000" stop="20250422112956 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7964</title>
     </programme>
-    <programme start="20250422112959 +0000" stop="20250422123008 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422112956 +0000" stop="20250422123111 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 8</title>
     </programme>
-    <programme start="20250422123008 +0000" stop="20250422130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422123111 +0000" stop="20250422130000 +0000" channel="Channel 5.mewatch">
         <title>Remembering Puan Noor Aishah - EP 1</title>
     </programme>
     <programme start="20250422130000 +0000" stop="20250422135959 +0000" channel="Channel 5.mewatch">
@@ -150,10 +150,10 @@
     <programme start="20250422135959 +0000" stop="20250422143029 +0000" channel="Channel 5.mewatch">
         <title>Wedding Pig - EP 4</title>
     </programme>
-    <programme start="20250422143029 +0000" stop="20250422153012 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422143029 +0000" stop="20250422153014 +0000" channel="Channel 5.mewatch">
         <title>Almost Paradise S2 - EP 9</title>
     </programme>
-    <programme start="20250422153012 +0000" stop="20250422162000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250422153014 +0000" stop="20250422162008 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 3</title>
     </programme>
     <programme start="20250421160000 +0000" stop="20250421170000 +0000" channel="Channel 8.mewatch">
@@ -255,31 +255,31 @@
     <programme start="20250422092937 +0000" stop="20250422103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 647</title>
     </programme>
-    <programme start="20250422103000 +0000" stop="20250422113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422103000 +0000" stop="20250422113004 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 16</title>
     </programme>
-    <programme start="20250422113000 +0000" stop="20250422120000 +0000" channel="Channel 8.mewatch">
-        <title>Remembering Puan Noor Aishah &lt;Chinese&gt;</title>
+    <programme start="20250422113004 +0000" stop="20250422115959 +0000" channel="Channel 8.mewatch">
+        <title>Remembering Puan Noor Aishah</title>
     </programme>
-    <programme start="20250422120000 +0000" stop="20250422123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422115959 +0000" stop="20250422122959 +0000" channel="Channel 8.mewatch">
         <title>#MindOurBusiness - EP 1</title>
     </programme>
-    <programme start="20250422123000 +0000" stop="20250422130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422122959 +0000" stop="20250422130005 +0000" channel="Channel 8.mewatch">
         <title>Tuesday Report : Shophouses Through the Ages - EP 6</title>
     </programme>
-    <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422130005 +0000" stop="20250422140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 25</title>
     </programme>
-    <programme start="20250422140000 +0000" stop="20250422143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422140000 +0000" stop="20250422143030 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422143030 +0000" stop="20250422150053 +0000" channel="Channel 8.mewatch">
         <title>The Truth About Health - EP 10</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422150053 +0000" stop="20250422155942 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 9</title>
     </programme>
-    <programme start="20250422160000 +0000" stop="20250422170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250422155942 +0000" stop="20250422170050 +0000" channel="Channel 8.mewatch">
         <title>Mysterious Lotus Casebook - EP 36</title>
     </programme>
     <programme start="20250421153059 +0000" stop="20250421160114 +0000" channel="Channel U.mewatch">
@@ -378,22 +378,22 @@
     <programme start="20250422100018 +0000" stop="20250422110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 26</title>
     </programme>
-    <programme start="20250422110000 +0000" stop="20250422120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422110000 +0000" stop="20250422115709 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 37</title>
     </programme>
-    <programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422115709 +0000" stop="20250422125855 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 38</title>
     </programme>
-    <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422125855 +0000" stop="20250422135937 +0000" channel="Channel U.mewatch">
         <title>Hi! Let&#039;s Go S2 - EP 4</title>
     </programme>
-    <programme start="20250422140000 +0000" stop="20250422150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422135937 +0000" stop="20250422150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 28</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422150000 +0000" stop="20250422153004 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250422153000 +0000" stop="20250422163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250422153004 +0000" stop="20250422162924 +0000" channel="Channel U.mewatch">
         <title>Hi! Let&#039;s Go S2 - EP 4</title>
     </programme>
     <programme start="20250421153000 +0000" stop="20250421160149 +0000" channel="Suria.mewatch">
@@ -495,28 +495,28 @@
     <programme start="20250422075957 +0000" stop="20250422110000 +0000" channel="Vasantham.mewatch">
         <title>Mayor Meenakshi</title>
     </programme>
-    <programme start="20250422110000 +0000" stop="20250422120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422110000 +0000" stop="20250422120002 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 35</title>
     </programme>
-    <programme start="20250422120000 +0000" stop="20250422123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422120002 +0000" stop="20250422123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 24</title>
     </programme>
-    <programme start="20250422123000 +0000" stop="20250422130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422123000 +0000" stop="20250422125958 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250422130000 +0000" stop="20250422133000 +0000" channel="Vasantham.mewatch">
-        <title>Arya - EP 24</title>
+    <programme start="20250422125958 +0000" stop="20250422132952 +0000" channel="Vasantham.mewatch">
+        <title>Remembering Puan Noor Aishah</title>
     </programme>
-    <programme start="20250422133000 +0000" stop="20250422140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422132952 +0000" stop="20250422135953 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 2</title>
     </programme>
-    <programme start="20250422140000 +0000" stop="20250422143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422135953 +0000" stop="20250422142954 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 10</title>
     </programme>
-    <programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422142954 +0000" stop="20250422145954 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 58</title>
     </programme>
-    <programme start="20250422150000 +0000" stop="20250422153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250422145954 +0000" stop="20250422153000 +0000" channel="Vasantham.mewatch">
         <title>Uncle Taxi Sr 4 - EP 1</title>
     </programme>
     <programme start="20250422153000 +0000" stop="20250422160048 +0000" channel="Vasantham.mewatch">
@@ -624,56 +624,101 @@
     <programme start="20250421120000 +0000" stop="20250421210000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies!</title>
     </programme>
-    <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250421161000 +0000" stop="20250421170000 +0000" channel="now-80s.mewatch">
+        <title>Monday Night At The Movies!</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250421230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250421170000 +0000" stop="20250421190000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1985</title>
     </programme>
-    <programme start="20250421230000 +0000" stop="20250422000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250421190000 +0000" stop="20250421200000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1985</title>
     </programme>
-    <programme start="20250422000000 +0000" stop="20250422040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250421200000 +0000" stop="20250421220000 +0000" channel="now-80s.mewatch">
+        <title>Alternative 80s! With Wayne Hussey</title>
+    </programme>
+    <programme start="20250421220000 +0000" stop="20250422010000 +0000" channel="now-80s.mewatch">
+        <title>Megastar Minihits! 1980-1989</title>
+    </programme>
+    <programme start="20250422010000 +0000" stop="20250422020000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1988</title>
+    </programme>
+    <programme start="20250422020000 +0000" stop="20250422030000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1986</title>
+    </programme>
+    <programme start="20250422030000 +0000" stop="20250422040000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1984</title>
     </programme>
     <programme start="20250422040000 +0000" stop="20250422050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+        <title>Bruno&#039;s Forgotten Hits: 1982</title>
     </programme>
-    <programme start="20250422050000 +0000" stop="20250422100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250422050000 +0000" stop="20250422060000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1980</title>
     </programme>
-    <programme start="20250422100000 +0000" stop="20250422110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250422060000 +0000" stop="20250422070000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax!</title>
     </programme>
-    <programme start="20250422110000 +0000" stop="20250422160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250422070000 +0000" stop="20250422092500 +0000" channel="now-80s.mewatch">
+        <title>It&#039;s Better With Two! 80s Duos</title>
     </programme>
-    <programme start="20250422160000 +0000" stop="20250422210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250422092500 +0000" stop="20250422093000 +0000" channel="now-80s.mewatch">
+        <title>1986 Unleashed!</title>
+    </programme>
+    <programme start="20250422093000 +0000" stop="20250422103000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1985</title>
+    </programme>
+    <programme start="20250422103000 +0000" stop="20250422130000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1986</title>
+    </programme>
+    <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="now-80s.mewatch">
+        <title>1986&#039;s One-Hit-Wonders! Top 12</title>
+    </programme>
+    <programme start="20250422140000 +0000" stop="20250422163500 +0000" channel="now-80s.mewatch">
+        <title>Denise&#039;s 5*star Families - Top 30!</title>
     </programme>
     <programme start="20250421100000 +0000" stop="20250421200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250421200000 +0000" stop="20250421210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250421160000 +0000" stop="20250421162500 +0000" channel="now-70s.mewatch">
+        <title>Disco Bling! Top 25</title>
     </programme>
-    <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250421162500 +0000" stop="20250421210000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s Presents Now 60s!</title>
     </programme>
-    <programme start="20250421220000 +0000" stop="20250421230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250421210000 +0000" stop="20250422032500 +0000" channel="now-70s.mewatch">
+        <title>Essential 70s - The No 2s</title>
     </programme>
-    <programme start="20250421230000 +0000" stop="20250422000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250422032500 +0000" stop="20250422040000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250422000000 +0000" stop="20250422090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250422040000 +0000" stop="20250422061000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Surely Not A Cover?!</title>
     </programme>
-    <programme start="20250422090000 +0000" stop="20250422100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250422061000 +0000" stop="20250422070000 +0000" channel="now-70s.mewatch">
+        <title>70s Love Songs</title>
     </programme>
-    <programme start="20250422100000 +0000" stop="20250422200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250422070000 +0000" stop="20250422090000 +0000" channel="now-70s.mewatch">
+        <title>Essentials! 70s Folk Rock</title>
+    </programme>
+    <programme start="20250422090000 +0000" stop="20250422093000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Singersongwriters</title>
+    </programme>
+    <programme start="20250422093000 +0000" stop="20250422095500 +0000" channel="now-70s.mewatch">
+        <title>Disco Bling! Top 25</title>
+    </programme>
+    <programme start="20250422095500 +0000" stop="20250422103000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s Presents Now 60s!</title>
+    </programme>
+    <programme start="20250422103000 +0000" stop="20250422120000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Singersongwriters</title>
+    </programme>
+    <programme start="20250422120000 +0000" stop="20250422152500 +0000" channel="now-70s.mewatch">
+        <title>Seven Inch Heroes! 1970-1979</title>
+    </programme>
+    <programme start="20250422152500 +0000" stop="20250422160000 +0000" channel="now-70s.mewatch">
+        <title>1976 Unleashed!</title>
+    </programme>
+    <programme start="20250422160000 +0000" stop="20250422172500 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Singersongwriters</title>
     </programme>
     <programme start="20250421160000 +0000" stop="20250421220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
