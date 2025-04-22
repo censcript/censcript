@@ -23695,7 +23695,7 @@
         <title>Luxury Handbags</title>
     </programme>
     <programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="QVC Style HD">
-        <title>Fashion on Friday with Julia</title>
+        <title>Fashion on Friday</title>
     </programme>
     <programme start="20250422090000 +0000" stop="20250422100000 +0000" channel="QVC Style HD">
         <title>Fashion on Friday with Denim &amp; Co</title>
@@ -23707,7 +23707,7 @@
         <title>Helene Berman London</title>
     </programme>
     <programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="QVC Style HD">
-        <title>Ben de Lisi: Fresh Fashion</title>
+        <title>Ben De Lisi: New April Capsule</title>
     </programme>
     <programme start="20250422130000 +0000" stop="20250422140000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -24340,7 +24340,7 @@
         <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250422110000 +0000" stop="20250422120000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Garden Furniture Deals</title>
     </programme>
     <programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="QVC Extra">
         <title>Most Wanted Spring Fashion</title>
