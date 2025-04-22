@@ -13519,10 +13519,10 @@
         <title>WTA Final: Stuttgart</title>
     </programme>
     <programme start="20250422200000 +0000" stop="20250422220000 +0000" channel="SkySp Tennis HD">
-        <title>Madrid Tennis Highlights</title>
+        <title>WTA Madrid: Boulter v Siniakova</title>
     </programme>
     <programme start="20250422220000 +0000" stop="20250422230000 +0000" channel="SkySp Tennis HD">
-        <title>Madrid Tennis Highlights</title>
+        <title>WTA Madrid: Osaka v Bronzetti</title>
     </programme>
     <programme start="20250421210000 +0000" stop="20250421220000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Smith v Eubank Jr 2</title>
@@ -28320,11 +28320,8 @@
     <programme start="20250422080000 +0000" stop="20250422100000 +0000" channel="ARY Digital">
         <title>Good Morning Pakistan</title>
     </programme>
-    <programme start="20250422100000 +0000" stop="20250422120000 +0000" channel="ARY Digital">
+    <programme start="20250422100000 +0000" stop="20250422120400 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
-    </programme>
-    <programme start="20250422120000 +0000" stop="20250422120400 +0000" channel="ARY Digital">
-        <title>Parwarish</title>
     </programme>
     <programme start="20250422120400 +0000" stop="20250422121000 +0000" channel="ARY Digital">
         <title>Azan-e-Zuhr</title>
@@ -28723,7 +28720,7 @@
         <title>Babul Da Vehra</title>
     </programme>
     <programme start="20250422133000 +0000" stop="20250422140000 +0000" channel="Sangat">
-        <title>Jyoti Saroop</title>
+        <title>Sahit de Sang</title>
     </programme>
     <programme start="20250422140000 +0000" stop="20250422150000 +0000" channel="Sangat">
         <title>Katha Vichar</title>
@@ -28741,7 +28738,7 @@
         <title>GNNSJ Kirtan</title>
     </programme>
     <programme start="20250422180000 +0000" stop="20250422183000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Bhagat Dhanna Ji</title>
     </programme>
     <programme start="20250422183000 +0000" stop="20250422190000 +0000" channel="Sangat">
         <title>Nirmal Soch</title>
