@@ -17446,7 +17446,7 @@
         <title>The Bible Tells Me</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="revelation">
-        <title>Q and A</title>
+        <title>Voices from Israel</title>
     </programme>
     <programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="revelation">
         <title>Cain and Abel by Paul Taylor</title>
@@ -23005,7 +23005,7 @@
         <title>The Lunchtime Show</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="QVC HD">
-        <title>Effortless Style, Spring Icons</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="QVC HD">
         <title>Hush Puppies</title>
@@ -23299,13 +23299,13 @@
         <title>Helene Berman London</title>
     </programme>
     <programme start="20250423070000 +0000" stop="20250423080000 +0000" channel="QVC Style HD">
-        <title>Diamonds on 6 Easy Pay</title>
+        <title>Diamonique Jewellery</title>
     </programme>
     <programme start="20250423080000 +0000" stop="20250423090000 +0000" channel="QVC Style HD">
         <title>Ben de Lisi</title>
     </programme>
     <programme start="20250423090000 +0000" stop="20250423100000 +0000" channel="QVC Style HD">
-        <title>Marla New Spring Fashion</title>
+        <title>Fresh New Fashion with Marla Wynne</title>
     </programme>
     <programme start="20250423100000 +0000" stop="20250423110000 +0000" channel="QVC Style HD">
         <title>Seasalt Cornwall Fashion</title>
@@ -23944,10 +23944,10 @@
         <title>Stylish Sorbet Outdoor Space</title>
     </programme>
     <programme start="20250423100000 +0000" stop="20250423110000 +0000" channel="QVC Extra">
-        <title>Vionic Footwear</title>
+        <title>Vionic Footwear with FMT Technology</title>
     </programme>
     <programme start="20250423110000 +0000" stop="20250423120000 +0000" channel="QVC Extra">
-        <title>Marla New Spring Fashion</title>
+        <title>Fresh New Fashion with Marla Wynne</title>
     </programme>
     <programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="QVC Extra">
         <title>Most Wanted Spring Fashion</title>
@@ -23965,7 +23965,7 @@
         <title>Today's Top Tech</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="QVC Extra">
-        <title>Luxury Jewellery</title>
+        <title>Superga, Crocs, and Hunters</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
