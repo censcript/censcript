@@ -273,16 +273,31 @@
     <programme start="20250505183000 +0000" stop="20250505213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Crystal Palace v Nottingham Forest</title>
     </programme>
+    <programme start="20250506045500 +0000" stop="20250506071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Urawa Red Diamonds v Gamba</title>
+    </programme>
+    <programme start="20250506065500 +0000" stop="20250506091000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kashiwa v Shimizu</title>
+    </programme>
+    <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Shonan v Sanfrecce</title>
+    </programme>
+    <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Kyoto</title>
+    </programme>
+    <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FC v Avispa</title>
+    </programme>
+    <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kashiwa v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Kawasaki</title>
+    </programme>
+    <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Yokohama FM</title>
+    </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
-    </programme>
-    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Germany v Portugal</title>
-    </programme>
-    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Spain v France</title>
-    </programme>
-    <programme start="20260503135000 +0000" stop="20260503162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>
