@@ -201,10 +201,10 @@
     <programme start="20250423160000 +0000" stop="20250423170000 +0000" channel="ITV1 HD">
         <title>The Chase</title>
     </programme>
-    <programme start="20250423170000 +0000" stop="20250423172000 +0000" channel="ITV1 HD">
+    <programme start="20250423170000 +0000" stop="20250423172500 +0000" channel="ITV1 HD">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250423172000 +0000" stop="20250423173000 +0000" channel="ITV1 HD">
+    <programme start="20250423172500 +0000" stop="20250423173000 +0000" channel="ITV1 HD">
         <title>Party Election Broadcast: Reform UK</title>
     </programme>
     <programme start="20250423173000 +0000" stop="20250423183000 +0000" channel="ITV1 HD">
@@ -7185,10 +7185,10 @@
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="ITV1+1">
         <title>The Chase</title>
     </programme>
-    <programme start="20250423180000 +0000" stop="20250423182000 +0000" channel="ITV1+1">
+    <programme start="20250423180000 +0000" stop="20250423182500 +0000" channel="ITV1+1">
         <title>ITV News London</title>
     </programme>
-    <programme start="20250423182000 +0000" stop="20250423183000 +0000" channel="ITV1+1">
+    <programme start="20250423182500 +0000" stop="20250423183000 +0000" channel="ITV1+1">
         <title>Party Election Broadcast: Reform UK</title>
     </programme>
     <programme start="20250423183000 +0000" stop="20250423193000 +0000" channel="ITV1+1">
@@ -25200,8 +25200,11 @@
     <programme start="20250423131500 +0000" stop="20250423170000 +0000" channel="Zee Cinema">
         <title>Dillagi</title>
     </programme>
-    <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="Zee Cinema">
+    <programme start="20250423170000 +0000" stop="20250423203500 +0000" channel="Zee Cinema">
         <title>Om Jai Jagdish</title>
+    </programme>
+    <programme start="20250423203500 +0000" stop="20250423213500 +0000" channel="Zee Cinema">
+        <title>Jism</title>
     </programme>
     <programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="MATV National">
         <title>Sarhad Ke Do Rukh</title>

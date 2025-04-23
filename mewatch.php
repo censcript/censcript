@@ -486,11 +486,8 @@
     <programme start="20250423150000 +0000" stop="20250423153000 +0000" channel="Vasantham.mewatch">
         <title>Uncle Taxi Sr 4 - EP 2</title>
     </programme>
-    <programme start="20250423153000 +0000" stop="20250423160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250423153000 +0000" stop="20250423160002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20250423160000 +0000" stop="20250424010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250422160000 +0000" stop="20250422160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
@@ -519,19 +516,19 @@
     <programme start="20250422230000 +0000" stop="20250423020000 +0000" channel="CNA.mewatch">
         <title>Asia First 2025/2026</title>
     </programme>
-    <programme start="20250423020000 +0000" stop="20250423080000 +0000" channel="CNA.mewatch">
+    <programme start="20250423020000 +0000" stop="20250423080107 +0000" channel="CNA.mewatch">
         <title>Singapore Votes 2025: Nomination Day</title>
     </programme>
-    <programme start="20250423080000 +0000" stop="20250423090000 +0000" channel="CNA.mewatch">
+    <programme start="20250423080107 +0000" stop="20250423090001 +0000" channel="CNA.mewatch">
         <title>Insight - EP 2</title>
     </programme>
-    <programme start="20250423090000 +0000" stop="20250423090200 +0000" channel="CNA.mewatch">
+    <programme start="20250423090001 +0000" stop="20250423090216 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250423090200 +0000" stop="20250423100000 +0000" channel="CNA.mewatch">
+    <programme start="20250423090216 +0000" stop="20250423100001 +0000" channel="CNA.mewatch">
         <title>When Titans Clash: The Tariff War hits ASEAN</title>
     </programme>
-    <programme start="20250423100000 +0000" stop="20250423110000 +0000" channel="CNA.mewatch">
+    <programme start="20250423100001 +0000" stop="20250423110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight 2025/2026</title>
     </programme>
     <programme start="20250423110000 +0000" stop="20250423120000 +0000" channel="CNA.mewatch">
