@@ -36913,7 +36913,7 @@
         <title>Asian Network Evenings with Kan D Man</title>
     </programme>
     <programme start="20250423190000 +0000" stop="20250423210000 +0000" channel="BBC Asian Net">
-        <title>Asian Network's New Music Show with DJ Limelight</title>
+        <title>Asian Network's New Music Show with DJ Kizzi</title>
     </programme>
     <programme start="20250423210000 +0000" stop="20250423213000 +0000" channel="BBC Asian Net">
         <title>One More Chai</title>
