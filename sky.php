@@ -28291,10 +28291,10 @@
         <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250423100000 +0000" stop="20250423103000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Marriage Story</title>
     </programme>
     <programme start="20250423103000 +0000" stop="20250423110000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Teleshopping: Chalo Dubai Chaliye</title>
     </programme>
     <programme start="20250423110000 +0000" stop="20250423123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
