@@ -28495,16 +28495,13 @@
         <title>Rehraas Sahib: Bhai Jarnail Singh</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kashmir Trip</title>
+        <title>Sikligar Sikhs Anand Karaj Appeal</title>
     </programme>
-    <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="Akaal Channel">
-        <title>Live: Save Gurvinder Singh</title>
+    <programme start="20250423180000 +0000" stop="20250423193000 +0000" channel="Akaal Channel">
+        <title>Nagar Kirtan Wolverhampton</title>
     </programme>
-    <programme start="20250423190000 +0000" stop="20250423192000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250423192000 +0000" stop="20250423200000 +0000" channel="Akaal Channel">
-        <title>Live: Jee Aayan Nu</title>
+    <programme start="20250423193000 +0000" stop="20250423200000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Kenya Trip</title>
     </programme>
     <programme start="20250423200000 +0000" stop="20250423203000 +0000" channel="Akaal Channel">
         <title>Akaal News</title>
@@ -36310,7 +36307,7 @@
         <title>Margherita Taylor</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423210000 +0000" channel="Classic FM">
-        <title>Relaxing Evenings with Zeb Soanes</title>
+        <title>John Brunning</title>
     </programme>
     <programme start="20250423210000 +0000" stop="20250423220000 +0000" channel="Classic FM">
         <title>Calm Classics with Ritula Shah</title>
