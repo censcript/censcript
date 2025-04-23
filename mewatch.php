@@ -135,13 +135,13 @@
     <programme start="20250423103000 +0000" stop="20250423110032 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 137</title>
     </programme>
-    <programme start="20250423110032 +0000" stop="20250423113002 +0000" channel="Channel 5.mewatch">
+    <programme start="20250423110032 +0000" stop="20250423113004 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7965</title>
     </programme>
-    <programme start="20250423113002 +0000" stop="20250423123019 +0000" channel="Channel 5.mewatch">
+    <programme start="20250423113004 +0000" stop="20250423123016 +0000" channel="Channel 5.mewatch">
         <title>The Cube USA S2 - EP 12</title>
     </programme>
-    <programme start="20250423123019 +0000" stop="20250423130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250423123016 +0000" stop="20250423130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 57</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423140006 +0000" channel="Channel 5.mewatch">
@@ -419,9 +419,6 @@
     </programme>
     <programme start="20250422153000 +0000" stop="20250422160048 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20250422160048 +0000" stop="20250423010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250423010000 +0000" stop="20250423013000 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 42</title>
