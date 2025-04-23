@@ -13893,11 +13893,8 @@
     <programme start="20250423070000 +0000" stop="20250423090000 +0000" channel="TNT Sports 3">
         <title>Snooker World Championship</title>
     </programme>
-    <programme start="20250423090000 +0000" stop="20250423120000 +0000" channel="TNT Sports 3">
+    <programme start="20250423090000 +0000" stop="20250423130000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="TNT Sports 3">
-        <title>IFSC Climbing World Cup Highlights</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423133000 +0000" channel="TNT Sports 3">
         <title>Formula E Flashback - Season 2</title>
@@ -14748,11 +14745,8 @@
     <programme start="20250423103000 +0000" stop="20250423104500 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
     </programme>
-    <programme start="20250423104500 +0000" stop="20250423110000 +0000" channel="BBC NEWS HD">
+    <programme start="20250423104500 +0000" stop="20250423113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250423110000 +0000" stop="20250423113000 +0000" channel="BBC NEWS HD">
-        <title>BBC News Now</title>
     </programme>
     <programme start="20250423113000 +0000" stop="20250423120000 +0000" channel="BBC NEWS HD">
         <title>BBC News Now</title>
@@ -14854,7 +14848,7 @@
         <title>Scottish Parliament - Topical Questions</title>
     </programme>
     <programme start="20250423073000 +0000" stop="20250423081500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250423081500 +0000" stop="20250423103000 +0000" channel="BBC Parl HD">
         <title>Live Transport Committee</title>
@@ -14875,7 +14869,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250423213500 +0000" stop="20250423222000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250423222000 +0000" stop="20250423232000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -24636,19 +24630,19 @@
     <programme start="20250423075400 +0000" stop="20250423082600 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250423082600 +0000" stop="20250423085900 +0000" channel="SONY TV HD">
+    <programme start="20250423082600 +0000" stop="20250423090000 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250423085900 +0000" stop="20250423095800 +0000" channel="SONY TV HD">
+    <programme start="20250423090000 +0000" stop="20250423095800 +0000" channel="SONY TV HD">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250423095800 +0000" stop="20250423102500 +0000" channel="SONY TV HD">
+    <programme start="20250423095800 +0000" stop="20250423102600 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423102500 +0000" stop="20250423115500 +0000" channel="SONY TV HD">
+    <programme start="20250423102600 +0000" stop="20250423115600 +0000" channel="SONY TV HD">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250423115500 +0000" stop="20250423125500 +0000" channel="SONY TV HD">
+    <programme start="20250423115600 +0000" stop="20250423125500 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250423125500 +0000" stop="20250423135300 +0000" channel="SONY TV HD">
@@ -24660,16 +24654,16 @@
     <programme start="20250423145200 +0000" stop="20250423154700 +0000" channel="SONY TV HD">
         <title>CID</title>
     </programme>
-    <programme start="20250423154700 +0000" stop="20250423155800 +0000" channel="SONY TV HD">
+    <programme start="20250423154700 +0000" stop="20250423155700 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423155800 +0000" stop="20250423162300 +0000" channel="SONY TV HD">
+    <programme start="20250423155700 +0000" stop="20250423162300 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423162300 +0000" stop="20250423180000 +0000" channel="SONY TV HD">
+    <programme start="20250423162300 +0000" stop="20250423175900 +0000" channel="SONY TV HD">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="SONY TV HD">
+    <programme start="20250423175900 +0000" stop="20250423190000 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
     <programme start="20250423190000 +0000" stop="20250423193000 +0000" channel="SONY TV HD">
@@ -33492,11 +33486,8 @@
     <programme start="20250423070000 +0000" stop="20250423090000 +0000" channel="TNTSports3 HD">
         <title>Snooker World Championship</title>
     </programme>
-    <programme start="20250423090000 +0000" stop="20250423120000 +0000" channel="TNTSports3 HD">
+    <programme start="20250423090000 +0000" stop="20250423130000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="TNTSports3 HD">
-        <title>IFSC Climbing World Cup Highlights</title>
     </programme>
     <programme start="20250423130000 +0000" stop="20250423133000 +0000" channel="TNTSports3 HD">
         <title>Formula E Flashback - Season 2</title>
@@ -33963,19 +33954,19 @@
     <programme start="20250423075400 +0000" stop="20250423082600 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250423082600 +0000" stop="20250423085900 +0000" channel="SONY TV">
+    <programme start="20250423082600 +0000" stop="20250423090000 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250423085900 +0000" stop="20250423095800 +0000" channel="SONY TV">
+    <programme start="20250423090000 +0000" stop="20250423095800 +0000" channel="SONY TV">
         <title>C.i.d. - 2024</title>
     </programme>
-    <programme start="20250423095800 +0000" stop="20250423102500 +0000" channel="SONY TV">
+    <programme start="20250423095800 +0000" stop="20250423102600 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423102500 +0000" stop="20250423115500 +0000" channel="SONY TV">
+    <programme start="20250423102600 +0000" stop="20250423115600 +0000" channel="SONY TV">
         <title>Kaun Banega Crorepati - 2024</title>
     </programme>
-    <programme start="20250423115500 +0000" stop="20250423125500 +0000" channel="SONY TV">
+    <programme start="20250423115600 +0000" stop="20250423125500 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250423125500 +0000" stop="20250423135300 +0000" channel="SONY TV">
@@ -33987,16 +33978,16 @@
     <programme start="20250423145200 +0000" stop="20250423154700 +0000" channel="SONY TV">
         <title>CID</title>
     </programme>
-    <programme start="20250423154700 +0000" stop="20250423155800 +0000" channel="SONY TV">
+    <programme start="20250423154700 +0000" stop="20250423155700 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423155800 +0000" stop="20250423162300 +0000" channel="SONY TV">
+    <programme start="20250423155700 +0000" stop="20250423162300 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250423162300 +0000" stop="20250423180000 +0000" channel="SONY TV">
+    <programme start="20250423162300 +0000" stop="20250423175900 +0000" channel="SONY TV">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="SONY TV">
+    <programme start="20250423175900 +0000" stop="20250423190000 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
     <programme start="20250423190000 +0000" stop="20250423193000 +0000" channel="SONY TV">
