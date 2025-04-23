@@ -25264,7 +25264,7 @@
         <title>Bollywood Fresh</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423183000 +0000" channel="MATV National">
-        <title>Khush Khabri</title>
+        <title>Bollywood Fresh</title>
     </programme>
     <programme start="20250423183000 +0000" stop="20250423190000 +0000" channel="MATV National">
         <title>Old Is Gold</title>
