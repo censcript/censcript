@@ -6348,10 +6348,10 @@
     <programme start="20250423150000 +0000" stop="20250423160500 +0000" channel="That's TV">
         <title>The Secret World of Richard Nixon</title>
     </programme>
-    <programme start="20250423160500 +0000" stop="20250423170000 +0000" channel="That's TV">
+    <programme start="20250423160500 +0000" stop="20250423165500 +0000" channel="That's TV">
         <title>Nazi Quest for the Holy Grail</title>
     </programme>
-    <programme start="20250423170000 +0000" stop="20250423171000 +0000" channel="That's TV">
+    <programme start="20250423165500 +0000" stop="20250423171000 +0000" channel="That's TV">
         <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250423171000 +0000" stop="20250423174000 +0000" channel="That's TV">
@@ -6375,10 +6375,10 @@
     <programme start="20250423210000 +0000" stop="20250423215500 +0000" channel="That's TV">
         <title>Shameless</title>
     </programme>
-    <programme start="20250423215500 +0000" stop="20250423222500 +0000" channel="That's TV">
+    <programme start="20250423215500 +0000" stop="20250423223000 +0000" channel="That's TV">
         <title>Duty Free</title>
     </programme>
-    <programme start="20250423222500 +0000" stop="20250423232500 +0000" channel="That's TV">
+    <programme start="20250423223000 +0000" stop="20250423233000 +0000" channel="That's TV">
         <title>Likely Lads: Whatever Happened?</title>
     </programme>
     <programme start="20250422204000 +0000" stop="20250422230000 +0000" channel="PBS America">
@@ -13381,10 +13381,10 @@
         <title>ATP Tour This Week</title>
     </programme>
     <programme start="20250423200000 +0000" stop="20250423220000 +0000" channel="SkySp Tennis HD">
-        <title>Madrid Tennis Highlights</title>
+        <title>WTA Madrid: Raducanu v Lemens</title>
     </programme>
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="SkySp Tennis HD">
-        <title>Madrid Tennis Highlights</title>
+        <title>WTA Madrid: Kartal v Cristian</title>
     </programme>
     <programme start="20250422210000 +0000" stop="20250422220000 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Brook v Khan</title>
@@ -23233,10 +23233,10 @@
         <title>Beauty Day Deals</title>
     </programme>
     <programme start="20250423090000 +0000" stop="20250423100000 +0000" channel="QVC Beauty">
-        <title>Alison Young on Beauty Trends</title>
+        <title>Summer Ready with Margaret Dabbs</title>
     </programme>
     <programme start="20250423100000 +0000" stop="20250423110000 +0000" channel="QVC Beauty">
-        <title>Beauty Day Deals</title>
+        <title>Meet the Beauty Experts</title>
     </programme>
     <programme start="20250423110000 +0000" stop="20250423120000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23254,13 +23254,13 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250423170000 +0000" channel="QVC Beauty">
-        <title>In the Salon with Gatineau</title>
+        <title>Beauty Day Deals</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="QVC Beauty">
-        <title>Molton Brown</title>
+        <title>Beauty Top Offers</title>
     </programme>
     <programme start="20250423190000 +0000" stop="20250423200000 +0000" channel="QVC Beauty">
         <title>Beauty Day Deals</title>
@@ -23272,7 +23272,7 @@
         <title>Summer Ready with Margaret Dabbs</title>
     </programme>
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="QVC Beauty">
-        <title>L'Occitane: Beauty En Provence</title>
+        <title>Live Well with Confidence</title>
     </programme>
     <programme start="20250422210000 +0000" stop="20250422220000 +0000" channel="QVC Style HD">
         <title>Luxury Jewellery</title>
@@ -23965,13 +23965,13 @@
         <title>Seasalt Cornwall Fashion</title>
     </programme>
     <programme start="20250423150000 +0000" stop="20250423160000 +0000" channel="QVC Extra">
-        <title>Garden Furniture Deals</title>
+        <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250423170000 +0000" channel="QVC Extra">
-        <title>Cozee Home</title>
+        <title>Today's Top Tech</title>
     </programme>
     <programme start="20250423170000 +0000" stop="20250423180000 +0000" channel="QVC Extra">
-        <title>Superga, Crocs, and Hunters</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250423180000 +0000" stop="20250423190000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
@@ -23983,7 +23983,7 @@
         <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250423210000 +0000" stop="20250423220000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>Stylish Sorbet Outdoor Space</title>
     </programme>
     <programme start="20250423220000 +0000" stop="20250423230000 +0000" channel="QVC Extra">
         <title>Cozee Home</title>
