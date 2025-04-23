@@ -135,10 +135,10 @@
     <programme start="20250423103000 +0000" stop="20250423110032 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 137</title>
     </programme>
-    <programme start="20250423110032 +0000" stop="20250423113004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250423110032 +0000" stop="20250423112958 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7965</title>
     </programme>
-    <programme start="20250423113004 +0000" stop="20250423123016 +0000" channel="Channel 5.mewatch">
+    <programme start="20250423112958 +0000" stop="20250423123016 +0000" channel="Channel 5.mewatch">
         <title>The Cube USA S2 - EP 12</title>
     </programme>
     <programme start="20250423123016 +0000" stop="20250423130000 +0000" channel="Channel 5.mewatch">
@@ -411,10 +411,10 @@
     <programme start="20250423143000 +0000" stop="20250423153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 13</title>
     </programme>
-    <programme start="20250423153000 +0000" stop="20250423160000 +0000" channel="Suria.mewatch">
+    <programme start="20250423153000 +0000" stop="20250423155948 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250423160000 +0000" stop="20250424010000 +0000" channel="Suria.mewatch">
+    <programme start="20250423155948 +0000" stop="20250424010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250422153000 +0000" stop="20250422160048 +0000" channel="Vasantham.mewatch">
