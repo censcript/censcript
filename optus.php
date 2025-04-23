@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250423183000 +0000" stop="20250423213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Arsenal v Crystal Palace</title>
-    </programme>
     <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Jurrien Timber</title>
     </programme>
@@ -297,7 +294,10 @@
     <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Yokohama FM</title>
     </programme>
-    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Vissel Kobe v Gamba</title>
+    </programme>
+    <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Shonan v Yokohama FC</title>
     </programme>
 </tv>
