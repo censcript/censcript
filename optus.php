@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250423170000 +0000" stop="20250423173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Mo Salah</title>
-    </programme>
     <programme start="20250423180500 +0000" stop="20250423202500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Crystal Palace</title>
     </programme>
