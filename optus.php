@@ -78,19 +78,19 @@
     <programme start="20250427072000 +0000" stop="20250427094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daejeon v Gangwon</title>
     </programme>
-    <programme start="20250427105000 +0000" stop="20250427131000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250427105500 +0000" stop="20250427131000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Liverpool v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250427112500 +0000" stop="20250427134000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250427112000 +0000" stop="20250427134000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Crystal Palace v West Ham United</title>
     </programme>
     <programme start="20250427120000 +0000" stop="20250427152000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Manchester United</title>
     </programme>
-    <programme start="20250427125000 +0000" stop="20250427151000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250427125500 +0000" stop="20250427151000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Everton v Brighton and Hove Albion</title>
     </programme>
-    <programme start="20250427135000 +0000" stop="20250427161000 +0000" channel="Optus Sport 10.optus">
+    <programme start="20250427135500 +0000" stop="20250427161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Leicester v Manchester City</title>
     </programme>
     <programme start="20250427152000 +0000" stop="20250427184000 +0000" channel="Optus Sport 2.optus">
@@ -135,13 +135,13 @@
     <programme start="20250430140000 +0000" stop="20250430150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
-    <programme start="20250430165500 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250430165000 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Aston Villa v Arsenal</title>
     </programme>
     <programme start="20250430170000 +0000" stop="20250430173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Reggae Rhythms in the Premier League</title>
     </programme>
-    <programme start="20250430191000 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250430190500 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
