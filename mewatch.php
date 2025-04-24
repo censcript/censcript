@@ -441,10 +441,10 @@
     <programme start="20250424143000 +0000" stop="20250424153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 14</title>
     </programme>
-    <programme start="20250424153000 +0000" stop="20250424155938 +0000" channel="Suria.mewatch">
+    <programme start="20250424153000 +0000" stop="20250424160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250424155938 +0000" stop="20250425010000 +0000" channel="Suria.mewatch">
+    <programme start="20250424160000 +0000" stop="20250425010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250423153000 +0000" stop="20250423160002 +0000" channel="Vasantham.mewatch">
