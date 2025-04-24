@@ -1416,16 +1416,16 @@
     <programme start="20250425221500 +0000" stop="20250425231500 +0000" channel="BBC Three HD">
         <title>Ashley Cain: Into the Danger Zone</title>
     </programme>
-    <programme start="20250424213000 +0000" stop="20250424224500 +0000" channel="BBC Four HD">
+    <programme start="20250424180000 +0000" stop="20250424223000 +0000" channel="BBC Four HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250424223000 +0000" stop="20250425001500 +0000" channel="BBC Four HD">
         <title>Priscilla</title>
     </programme>
-    <programme start="20250424224500 +0000" stop="20250425003000 +0000" channel="BBC Four HD">
+    <programme start="20250425001500 +0000" stop="20250425020000 +0000" channel="BBC Four HD">
         <title>Nine to Five</title>
     </programme>
-    <programme start="20250425003000 +0000" stop="20250425022500 +0000" channel="BBC Four HD">
-        <title>The Great American Buffalo</title>
-    </programme>
-    <programme start="20250425022500 +0000" stop="20250425043000 +0000" channel="BBC Four HD">
+    <programme start="20250425020000 +0000" stop="20250425043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250425043000 +0000" stop="20250425103000 +0000" channel="BBC Four HD">
@@ -25867,7 +25867,7 @@
         <title>World News</title>
     </programme>
     <programme start="20250425082000 +0000" stop="20250425084000 +0000" channel="MTA1 World HD">
-        <title>Bachon Ki Dunya</title>
+        <title>Bachon Ki Duniya</title>
     </programme>
     <programme start="20250425084000 +0000" stop="20250425085000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -25882,7 +25882,7 @@
         <title>Chef's Corner</title>
     </programme>
     <programme start="20250425103500 +0000" stop="20250425110500 +0000" channel="MTA1 World HD">
-        <title>Tabweeb Al-Qur'an</title>
+        <title>Tabweebul Qur'an</title>
     </programme>
     <programme start="20250425110500 +0000" stop="20250425112000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
@@ -25920,25 +25920,22 @@
     <programme start="20250425174000 +0000" stop="20250425180000 +0000" channel="MTA1 World HD">
         <title>Averting WWIII</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
+    <programme start="20250425180000 +0000" stop="20250425183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250425182000 +0000" stop="20250425183500 +0000" channel="MTA1 World HD">
+    <programme start="20250425183500 +0000" stop="20250425185000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250425183500 +0000" stop="20250425184500 +0000" channel="MTA1 World HD">
+    <programme start="20250425185000 +0000" stop="20250425190500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250425184500 +0000" stop="20250425190000 +0000" channel="MTA1 World HD">
-        <title>Chef's Corner</title>
-    </programme>
-    <programme start="20250425190000 +0000" stop="20250425194000 +0000" channel="MTA1 World HD">
+    <programme start="20250425190500 +0000" stop="20250425194500 +0000" channel="MTA1 World HD">
         <title>Ijtema Khuddamul Ahmadiyya UK</title>
     </programme>
-    <programme start="20250425194000 +0000" stop="20250425202000 +0000" channel="MTA1 World HD">
+    <programme start="20250425194500 +0000" stop="20250425202500 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
     </programme>
-    <programme start="20250425202000 +0000" stop="20250425205500 +0000" channel="MTA1 World HD">
+    <programme start="20250425202500 +0000" stop="20250425205500 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
     </programme>
     <programme start="20250425205500 +0000" stop="20250425211500 +0000" channel="MTA1 World HD">
@@ -28267,15 +28264,12 @@
         <title>Amrit Bani</title>
     </programme>
     <programme start="20250425060000 +0000" stop="20250425080000 +0000" channel="Kanshi TV">
-        <title>Amrit Bani Jaap</title>
+        <title>Sant Meena Devi Jajjon Doaba</title>
     </programme>
     <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250425083000 +0000" stop="20250425084500 +0000" channel="Kanshi TV">
-        <title>Guru Ravidass Ji Da Jaikara</title>
-    </programme>
-    <programme start="20250425084500 +0000" stop="20250425100000 +0000" channel="Kanshi TV">
+    <programme start="20250425083000 +0000" stop="20250425100000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250425100000 +0000" stop="20250425113000 +0000" channel="Kanshi TV">
@@ -35562,10 +35556,13 @@
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="BBC Two NI HD">
         <title>Relic</title>
     </programme>
-    <programme start="20250424213000 +0000" stop="20250424235500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250424180000 +0000" stop="20250424223000 +0000" channel="BBC RB 1 HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250424223000 +0000" stop="20250425005500 +0000" channel="BBC RB 1 HD">
         <title>MOTD Live: Women's Super League Chelsea v Crystal Palace</title>
     </programme>
-    <programme start="20250424235500 +0000" stop="20250425010000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250425005500 +0000" stop="20250425010000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250425010000 +0000" stop="20250425040000 +0000" channel="BBC RB 1 HD">
