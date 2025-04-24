@@ -14704,10 +14704,10 @@
         <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250425051000 +0000" stop="20250425061000 +0000" channel="BBC Parl HD">
-        <title>Cabinet Office Questions</title>
+        <title>House of Commons - Cabinet Office Questions</title>
     </programme>
     <programme start="20250425061000 +0000" stop="20250425074500 +0000" channel="BBC Parl HD">
-        <title>Commons Business Questions</title>
+        <title>House of Commons - Commons Business Questions</title>
     </programme>
     <programme start="20250425074500 +0000" stop="20250425083000 +0000" channel="BBC Parl HD">
         <title>Lords Questions</title>
@@ -27154,19 +27154,19 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250425180000 +0000" stop="20250425190000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250425190000 +0000" stop="20250425200000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425210000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425220000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250424210000 +0000" stop="20250424220000 +0000" channel="HUM EUROPE">
         <title>Zindagi Gulzar Hai</title>
