@@ -562,7 +562,7 @@
         <title>Myanmar In Turmoil</title>
     </programme>
     <programme start="20250424030000 +0000" stop="20250424050000 +0000" channel="CNA.mewatch">
-        <title>Asia Now </title>
+        <title>Asia Now 2025/2026</title>
     </programme>
     <programme start="20250424050000 +0000" stop="20250424060000 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 2</title>
