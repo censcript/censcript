@@ -444,7 +444,7 @@
     <programme start="20250424153000 +0000" stop="20250424160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250424160000 +0000" stop="20250425010000 +0000" channel="Suria.mewatch">
+    <programme start="20250424160000 +0000" stop="20250424160106 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250423153000 +0000" stop="20250423160002 +0000" channel="Vasantham.mewatch">
@@ -556,7 +556,7 @@
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20250423225959 +0000" stop="20250424020104 +0000" channel="CNA.mewatch">
-        <title>Asia First 2025/2026</title>
+        <title>Asia First</title>
     </programme>
     <programme start="20250424020104 +0000" stop="20250424025959 +0000" channel="CNA.mewatch">
         <title>Myanmar In Turmoil</title>
@@ -568,25 +568,25 @@
         <title>Wombless - EP 2</title>
     </programme>
     <programme start="20250424060000 +0000" stop="20250424080105 +0000" channel="CNA.mewatch">
-        <title>Asia Now 2025/2026</title>
+        <title>Asia Now </title>
     </programme>
     <programme start="20250424080105 +0000" stop="20250424090001 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 3</title>
     </programme>
     <programme start="20250424090001 +0000" stop="20250424090216 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
+        <title>Headline News 2025/2026 (Ep 1 to 1000)</title>
     </programme>
     <programme start="20250424090216 +0000" stop="20250424100001 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 3</title>
     </programme>
     <programme start="20250424100001 +0000" stop="20250424110000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight 2025/2026</title>
+        <title>East Asia Tonight</title>
     </programme>
     <programme start="20250424110000 +0000" stop="20250424115959 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 1</title>
     </programme>
     <programme start="20250424115959 +0000" stop="20250424125959 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight 2025/2026</title>
+        <title>Asia Tonight</title>
     </programme>
     <programme start="20250424125959 +0000" stop="20250424135959 +0000" channel="CNA.mewatch">
         <title>Cargo: The Weight of Freight</title>
