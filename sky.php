@@ -7152,11 +7152,11 @@
     <programme start="20250424210500 +0000" stop="20250424214000 +0000" channel="That's TV 3">
         <title>Waiting for God</title>
     </programme>
-    <programme start="20250424214000 +0000" stop="20250424224000 +0000" channel="That's TV 3">
-        <title>The Two Ronnies in Australia</title>
+    <programme start="20250424214000 +0000" stop="20250424221000 +0000" channel="That's TV 3">
+        <title>Never the Twain</title>
     </programme>
-    <programme start="20250424224000 +0000" stop="20250424234000 +0000" channel="That's TV 3">
-        <title>The Saint</title>
+    <programme start="20250424221000 +0000" stop="20250424231000 +0000" channel="That's TV 3">
+        <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250423210000 +0000" stop="20250423220000 +0000" channel="ITV1+1">
         <title>New: Celebrity Big Brother</title>
