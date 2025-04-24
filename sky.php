@@ -14830,7 +14830,7 @@
         <title>Scottish First Minister's Questions</title>
     </programme>
     <programme start="20250424171500 +0000" stop="20250424180000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250424180000 +0000" stop="20250424190000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -24565,7 +24565,7 @@
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250424085500 +0000" stop="20250424095400 +0000" channel="SONY TV HD">
-        <title>C.i.d. - 2024</title>
+        <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250424095400 +0000" stop="20250424102800 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
@@ -24607,7 +24607,7 @@
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250424212900 +0000" stop="20250424222700 +0000" channel="SONY TV HD">
-        <title>C.i.d. - 2024</title>
+        <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250424222700 +0000" stop="20250424232700 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
@@ -26512,13 +26512,13 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250424130500 +0000" stop="20250424140000 +0000" channel="New Vision TV">
-        <title>Sports Room Special PSL10</title>
+        <title>News</title>
     </programme>
     <programme start="20250424140000 +0000" stop="20250424140500 +0000" channel="New Vision TV">
         <title>Headline News</title>
     </programme>
     <programme start="20250424140500 +0000" stop="20250424150000 +0000" channel="New Vision TV">
-        <title>News</title>
+        <title>Bakhabar Savera</title>
     </programme>
     <programme start="20250424150000 +0000" stop="20250424150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -28213,13 +28213,13 @@
         <title>Sukhmani Sahib</title>
     </programme>
     <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="Sikh Channel">
-        <title>Hukamnama Explanations</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="Sikh Channel">
-        <title>Sikh Virsa</title>
+        <title>Vaisakhi Nagar Kirtan - Bradford</title>
     </programme>
     <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="Sikh Channel">
-        <title>Vaisakhi Nagar Kirtan - Bradford</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250424150000 +0000" stop="20250424153000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -33886,7 +33886,7 @@
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250424085500 +0000" stop="20250424095400 +0000" channel="SONY TV">
-        <title>C.i.d. - 2024</title>
+        <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250424095400 +0000" stop="20250424102800 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
@@ -33928,7 +33928,7 @@
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250424212900 +0000" stop="20250424222700 +0000" channel="SONY TV">
-        <title>C.i.d. - 2024</title>
+        <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250424222700 +0000" stop="20250424232700 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
