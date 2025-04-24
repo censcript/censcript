@@ -1416,7 +1416,7 @@
     <programme start="20250425221500 +0000" stop="20250425231500 +0000" channel="BBC Three HD">
         <title>Ashley Cain: Into the Danger Zone</title>
     </programme>
-    <programme start="20250424210000 +0000" stop="20250424224500 +0000" channel="BBC Four HD">
+    <programme start="20250424213000 +0000" stop="20250424224500 +0000" channel="BBC Four HD">
         <title>Priscilla</title>
     </programme>
     <programme start="20250424224500 +0000" stop="20250425003000 +0000" channel="BBC Four HD">
@@ -27675,13 +27675,13 @@
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250424210000 +0000" stop="20250424223000 +0000" channel="ARY Digital">
+    <programme start="20250424210900 +0000" stop="20250424224700 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
-    <programme start="20250424223000 +0000" stop="20250424230000 +0000" channel="ARY Digital">
+    <programme start="20250424224700 +0000" stop="20250424231500 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250424230000 +0000" stop="20250425000000 +0000" channel="ARY Digital">
+    <programme start="20250424231500 +0000" stop="20250425000000 +0000" channel="ARY Digital">
         <title>Ae Dil</title>
     </programme>
     <programme start="20250425000000 +0000" stop="20250425010000 +0000" channel="ARY Digital">
@@ -28713,8 +28713,8 @@
     <programme start="20250425213000 +0000" stop="20250425223000 +0000" channel="CHSTV">
         <title>Kobutor Buzz</title>
     </programme>
-    <programme start="20250424210000 +0000" stop="20250424220000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
+    <programme start="20250424213000 +0000" stop="20250424220000 +0000" channel="IQRA Bangla">
+        <title>Al-Khair Feedback</title>
     </programme>
     <programme start="20250424220000 +0000" stop="20250424230000 +0000" channel="IQRA Bangla">
         <title>Masnoon Dua</title>
