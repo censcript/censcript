@@ -14676,38 +14676,32 @@
     <programme start="20250425223000 +0000" stop="20250425233000 +0000" channel="BBC NEWS HD">
         <title>The President's Path</title>
     </programme>
-    <programme start="20250424205000 +0000" stop="20250424225000 +0000" channel="BBC Parl HD">
+    <programme start="20250424200000 +0000" stop="20250424220500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250424225000 +0000" stop="20250424235000 +0000" channel="BBC Parl HD">
+    <programme start="20250424220500 +0000" stop="20250424232000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250424235000 +0000" stop="20250425005000 +0000" channel="BBC Parl HD">
+    <programme start="20250424232000 +0000" stop="20250425000500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Safety of Journalists Debate</title>
     </programme>
-    <programme start="20250425005000 +0000" stop="20250425011500 +0000" channel="BBC Parl HD">
+    <programme start="20250425000500 +0000" stop="20250425004000 +0000" channel="BBC Parl HD">
         <title>House of Lords - British Steel Statement</title>
     </programme>
-    <programme start="20250425011500 +0000" stop="20250425021500 +0000" channel="BBC Parl HD">
+    <programme start="20250425004000 +0000" stop="20250425014000 +0000" channel="BBC Parl HD">
         <title>Cabinet Office Questions</title>
     </programme>
-    <programme start="20250425021500 +0000" stop="20250425031500 +0000" channel="BBC Parl HD">
+    <programme start="20250425014000 +0000" stop="20250425022500 +0000" channel="BBC Parl HD">
+        <title>London Ukraine Talks Urgent Question</title>
+    </programme>
+    <programme start="20250425022500 +0000" stop="20250425025500 +0000" channel="BBC Parl HD">
+        <title>London Sudan Conference Urgent Question</title>
+    </programme>
+    <programme start="20250425025500 +0000" stop="20250425043000 +0000" channel="BBC Parl HD">
         <title>Commons Business Questions</title>
     </programme>
-    <programme start="20250425031500 +0000" stop="20250425034500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250425034500 +0000" stop="20250425041500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250425041500 +0000" stop="20250425044500 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250425044500 +0000" stop="20250425050000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
-    </programme>
-    <programme start="20250425050000 +0000" stop="20250425051000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250425043000 +0000" stop="20250425051000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250425051000 +0000" stop="20250425061000 +0000" channel="BBC Parl HD">
         <title>Cabinet Office Questions</title>
@@ -28017,11 +28011,11 @@
     <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250425093000 +0000" stop="20250425103000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
-    </programme>
-    <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="Sikh Channel">
+    <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250425100000 +0000" stop="20250425110000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250425110000 +0000" stop="20250425123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -28032,20 +28026,20 @@
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425143000 +0000" channel="Sikh Channel">
+    <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="Sikh Channel">
+        <title>Vaisakhi Nagar Kirtan - Bradford</title>
+    </programme>
+    <programme start="20250425150000 +0000" stop="20250425153000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250425143000 +0000" stop="20250425150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
-    </programme>
-    <programme start="20250425150000 +0000" stop="20250425160000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Sikh Channel">
+        <title>Marriage Story</title>
     </programme>
     <programme start="20250425160000 +0000" stop="20250425173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250425173000 +0000" stop="20250425180000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Nagar Kirtan &amp; Smagam show</title>
     </programme>
     <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -28054,7 +28048,7 @@
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250425190000 +0000" stop="20250425200000 +0000" channel="Sikh Channel">
-        <title>Current Issues</title>
+        <title>Nagar Kirtan - Woolwich</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -28066,10 +28060,10 @@
         <title>Gal Punjab Di</title>
     </programme>
     <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+        <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250425220000 +0000" stop="20250425223000 +0000" channel="Sikh Channel">
-        <title>Sri Sehaj Path - 350 Sala</title>
+        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250425223000 +0000" stop="20250425233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
