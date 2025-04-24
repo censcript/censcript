@@ -14817,13 +14817,13 @@
     <programme start="20250424093000 +0000" stop="20250424101500 +0000" channel="BBC Parl HD">
         <title>Live London Ukraine Talks Urgent Question</title>
     </programme>
-    <programme start="20250424101500 +0000" stop="20250424110000 +0000" channel="BBC Parl HD">
+    <programme start="20250424101500 +0000" stop="20250424104500 +0000" channel="BBC Parl HD">
         <title>Live London Sudan Conference Urgent Question</title>
     </programme>
-    <programme start="20250424110000 +0000" stop="20250424120000 +0000" channel="BBC Parl HD">
+    <programme start="20250424104500 +0000" stop="20250424121000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250424120000 +0000" stop="20250424163000 +0000" channel="BBC Parl HD">
+    <programme start="20250424121000 +0000" stop="20250424163000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250424163000 +0000" stop="20250424171500 +0000" channel="BBC Parl HD">
@@ -14832,8 +14832,20 @@
     <programme start="20250424171500 +0000" stop="20250424180000 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250424180000 +0000" stop="20250424190000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250424180000 +0000" stop="20250424181000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Birmingham Bin Strikes Statement</title>
+    </programme>
+    <programme start="20250424181000 +0000" stop="20250424185000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Supreme Court Ruling on Equalities Law</title>
+    </programme>
+    <programme start="20250424185000 +0000" stop="20250424205000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Renters' Rights Bill, Part 1</title>
+    </programme>
+    <programme start="20250424205000 +0000" stop="20250424225000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Renters' Rights Bill, Part 2</title>
+    </programme>
+    <programme start="20250424225000 +0000" stop="20250424235000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
     <programme start="20250423213000 +0000" stop="20250423220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>

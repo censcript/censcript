@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250424123000 +0000" stop="20250424130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Jurrien Timber</title>
-    </programme>
     <programme start="20250425093000 +0000" stop="20250425100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Shonan v Yokohama FC</title>
+    </programme>
+    <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
     </programme>
 </tv>
