@@ -23182,7 +23182,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="QVC Beauty">
-        <title>Beauty Day Deals</title>
+        <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="QVC Beauty">
         <title>Summer Ready with Margaret Dabbs</title>
@@ -23245,7 +23245,7 @@
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250424070000 +0000" stop="20250424080000 +0000" channel="QVC Style HD">
-        <title>Marla New Spring Fashion</title>
+        <title>Fresh New Fashion with Marla Wynne</title>
     </programme>
     <programme start="20250424080000 +0000" stop="20250424090000 +0000" channel="QVC Style HD">
         <title>Butler &amp; Wilson Fashion Jewellery</title>
@@ -23254,10 +23254,10 @@
         <title>Morning Style with Katy</title>
     </programme>
     <programme start="20250424100000 +0000" stop="20250424110000 +0000" channel="QVC Style HD">
-        <title>Effortless Style, Spring Icons</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250424110000 +0000" stop="20250424120000 +0000" channel="QVC Style HD">
-        <title>Helene made with Liberty's Fabric</title>
+        <title>Ben De Lisi: New April Capsule</title>
     </programme>
     <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="QVC Style HD">
         <title>Superga, Crocs, and Hunters</title>
@@ -23890,19 +23890,19 @@
         <title>Helene made with Liberty's Fabric</title>
     </programme>
     <programme start="20250424100000 +0000" stop="20250424110000 +0000" channel="QVC Extra">
-        <title>Effortless Style, Spring Icons</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250424110000 +0000" stop="20250424120000 +0000" channel="QVC Extra">
         <title>Love to Cook: Cook's Essentials</title>
     </programme>
     <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>Hush Puppies</title>
     </programme>
     <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Garden Furniture Deals</title>
     </programme>
     <programme start="20250424150000 +0000" stop="20250424160000 +0000" channel="QVC Extra">
         <title>Cozee Home</title>
@@ -23917,13 +23917,13 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250424190000 +0000" stop="20250424200000 +0000" channel="QVC Extra">
-        <title>Phase Eight</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250424200000 +0000" stop="20250424210000 +0000" channel="QVC Extra">
-        <title>Up to 50% Off Fashion</title>
+        <title>In the Garden with Thompson &amp; Morgan</title>
     </programme>
     <programme start="20250424210000 +0000" stop="20250424220000 +0000" channel="QVC Extra">
-        <title>Marla New Spring Fashion</title>
+        <title>Fresh New Fashion with Marla Wynne</title>
     </programme>
     <programme start="20250424220000 +0000" stop="20250424230000 +0000" channel="QVC Extra">
         <title>Emma: The Science in Sleep</title>
@@ -30190,7 +30190,7 @@
         <title>Laxmi Sadaiv Mangalam</title>
     </programme>
     <programme start="20250424153000 +0000" stop="20250424160000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri - Sambandho Ni Safare</title>
+        <title>Rashi Rikshawali</title>
     </programme>
     <programme start="20250424160000 +0000" stop="20250424163000 +0000" channel="ColorsGujarati">
         <title>Loveyatri - Sambandho Ni Safare</title>
@@ -30208,7 +30208,7 @@
         <title>Loveyatri - Preet Na Rang</title>
     </programme>
     <programme start="20250424190000 +0000" stop="20250424193000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri - Preet Na Rang</title>
+        <title>Rashi Rikshawali</title>
     </programme>
     <programme start="20250424193000 +0000" stop="20250424200000 +0000" channel="ColorsGujarati">
         <title>Moti Baa Ni Nani Vahu</title>
@@ -35913,10 +35913,10 @@
     <programme start="20250424093500 +0000" stop="20250424120000 +0000" channel="BBC RB 1 HD">
         <title>MOTD Live: Women's Super League Chelsea v Crystal Palace</title>
     </programme>
-    <programme start="20250424120000 +0000" stop="20250424170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250424120000 +0000" stop="20250424151500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250424170000 +0000" stop="20250424180000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250424151500 +0000" stop="20250424180000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250424180000 +0000" stop="20250424213000 +0000" channel="BBC RB 1 HD">
