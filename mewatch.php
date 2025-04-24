@@ -246,25 +246,25 @@
     <programme start="20250424092901 +0000" stop="20250424103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 651</title>
     </programme>
-    <programme start="20250424103000 +0000" stop="20250424113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424103000 +0000" stop="20250424113014 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 18</title>
     </programme>
-    <programme start="20250424113000 +0000" stop="20250424120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424113014 +0000" stop="20250424115938 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 18</title>
     </programme>
-    <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424115938 +0000" stop="20250424130020 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 6</title>
     </programme>
-    <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424130020 +0000" stop="20250424140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 27</title>
     </programme>
-    <programme start="20250424140000 +0000" stop="20250424144500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424140000 +0000" stop="20250424144604 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250424144500 +0000" stop="20250424151500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424144604 +0000" stop="20250424151527 +0000" channel="Channel 8.mewatch">
         <title>Borneo Culinary Adventures - Sarawak - EP 10</title>
     </programme>
-    <programme start="20250424151500 +0000" stop="20250424160500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250424151527 +0000" stop="20250424160555 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 11</title>
     </programme>
     <programme start="20250423154537 +0000" stop="20250423164048 +0000" channel="Channel U.mewatch">
@@ -366,22 +366,22 @@
     <programme start="20250424100017 +0000" stop="20250424110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 28</title>
     </programme>
-    <programme start="20250424110000 +0000" stop="20250424120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424110000 +0000" stop="20250424115949 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 41</title>
     </programme>
-    <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424115949 +0000" stop="20250424130009 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 42</title>
     </programme>
-    <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424130009 +0000" stop="20250424140022 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 2</title>
     </programme>
-    <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424140022 +0000" stop="20250424150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 30</title>
     </programme>
-    <programme start="20250424150000 +0000" stop="20250424154500 +0000" channel="Channel U.mewatch">
+    <programme start="20250424150000 +0000" stop="20250424154538 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250424154500 +0000" stop="20250424164000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424154538 +0000" stop="20250424164040 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 2</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250424010000 +0000" channel="Suria.mewatch">
@@ -510,22 +510,22 @@
     <programme start="20250424130000 +0000" stop="20250424133000 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 25</title>
     </programme>
-    <programme start="20250424133000 +0000" stop="20250424140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424133000 +0000" stop="20250424140002 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 7</title>
     </programme>
-    <programme start="20250424140000 +0000" stop="20250424143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424140002 +0000" stop="20250424143002 +0000" channel="Vasantham.mewatch">
         <title>Irul - EP 11</title>
     </programme>
-    <programme start="20250424143000 +0000" stop="20250424150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424143002 +0000" stop="20250424150006 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 61</title>
     </programme>
-    <programme start="20250424150000 +0000" stop="20250424153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424150006 +0000" stop="20250424153003 +0000" channel="Vasantham.mewatch">
         <title>Uncle Taxi Sr 4 - EP 3</title>
     </programme>
-    <programme start="20250424153000 +0000" stop="20250424160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424153003 +0000" stop="20250424160000 +0000" channel="Vasantham.mewatch">
         <title>Mitcham Meethi Puthusu - EP 9</title>
     </programme>
-    <programme start="20250424160000 +0000" stop="20250424163054 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424160000 +0000" stop="20250424162949 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250423160300 +0000" channel="CNA.mewatch">
@@ -562,7 +562,7 @@
         <title>Myanmar In Turmoil</title>
     </programme>
     <programme start="20250424025959 +0000" stop="20250424050104 +0000" channel="CNA.mewatch">
-        <title>Asia Now 2025/2026</title>
+        <title>Asia Now</title>
     </programme>
     <programme start="20250424050104 +0000" stop="20250424060000 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 2</title>
@@ -582,23 +582,20 @@
     <programme start="20250424100001 +0000" stop="20250424110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250424110000 +0000" stop="20250424120000 +0000" channel="CNA.mewatch">
+    <programme start="20250424110000 +0000" stop="20250424115959 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 1</title>
     </programme>
-    <programme start="20250424120000 +0000" stop="20250424130000 +0000" channel="CNA.mewatch">
+    <programme start="20250424115959 +0000" stop="20250424125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight 2025/2026</title>
     </programme>
-    <programme start="20250424130000 +0000" stop="20250424140000 +0000" channel="CNA.mewatch">
+    <programme start="20250424125959 +0000" stop="20250424135959 +0000" channel="CNA.mewatch">
         <title>Cargo: The Weight of Freight</title>
     </programme>
-    <programme start="20250424140000 +0000" stop="20250424150000 +0000" channel="CNA.mewatch">
+    <programme start="20250424135959 +0000" stop="20250424150104 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250424150000 +0000" stop="20250424160000 +0000" channel="CNA.mewatch">
+    <programme start="20250424150104 +0000" stop="20250424160001 +0000" channel="CNA.mewatch">
         <title>Growing Wild: Project Castaway - EP 3</title>
-    </programme>
-    <programme start="20250424160000 +0000" stop="20250424160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250423160000 +0000" stop="20250424113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 24th April, Thursday 7.35pm. 2024 Singapore Premier League:Balestier Khalsa vs Hougang United</title>
