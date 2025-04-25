@@ -17730,8 +17730,11 @@
     <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="EWTN Catholic">
         <title>Savouring Our Faith</title>
     </programme>
-    <programme start="20250425080000 +0000" stop="20250425090000 +0000" channel="EWTN Catholic">
-        <title>Jubilee For Teenagers: An EWTN Special</title>
+    <programme start="20250425080000 +0000" stop="20250425083000 +0000" channel="EWTN Catholic">
+        <title>The Quest</title>
+    </programme>
+    <programme start="20250425083000 +0000" stop="20250425090000 +0000" channel="EWTN Catholic">
+        <title>Explore With the Miracle Hunter</title>
     </programme>
     <programme start="20250425090000 +0000" stop="20250425093000 +0000" channel="EWTN Catholic">
         <title>Web of Faith 2.0</title>
@@ -17775,17 +17778,23 @@
     <programme start="20250425150000 +0000" stop="20250425153000 +0000" channel="EWTN Catholic">
         <title>Chaplet of the Seven Sorrows of Mary</title>
     </programme>
-    <programme start="20250425153000 +0000" stop="20250425180000 +0000" channel="EWTN Catholic">
-        <title>Jubilee of Teenagers: Prayer of the Via Lucis</title>
+    <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="EWTN Catholic">
+        <title>Children's Rosary</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425183000 +0000" channel="EWTN Catholic">
+    <programme start="20250425160000 +0000" stop="20250425163000 +0000" channel="EWTN Catholic">
+        <title>Catholic Classics: Living the Scriptures</title>
+    </programme>
+    <programme start="20250425163000 +0000" stop="20250425170000 +0000" channel="EWTN Catholic">
+        <title>Living The Christian Way</title>
+    </programme>
+    <programme start="20250425170000 +0000" stop="20250425173000 +0000" channel="EWTN Catholic">
         <title>Rosary for the Repose of the...</title>
     </programme>
-    <programme start="20250425183000 +0000" stop="20250425190000 +0000" channel="EWTN Catholic">
-        <title>Women of Grace</title>
+    <programme start="20250425173000 +0000" stop="20250425193000 +0000" channel="EWTN Catholic">
+        <title>Closing of the Coffin of the Roman Pontiff Francis</title>
     </programme>
-    <programme start="20250425190000 +0000" stop="20250425200000 +0000" channel="EWTN Catholic">
-        <title>World Over</title>
+    <programme start="20250425193000 +0000" stop="20250425200000 +0000" channel="EWTN Catholic">
+        <title>Women of Grace</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
