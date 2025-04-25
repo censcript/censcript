@@ -258,10 +258,10 @@
     <programme start="20250424164040 +0000" stop="20250424173637 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 41</title>
     </programme>
-    <programme start="20250424173637 +0000" stop="20250424220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250424173637 +0000" stop="20250424215959 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 42</title>
     </programme>
-    <programme start="20250424220000 +0000" stop="20250425025816 +0000" channel="Channel U.mewatch">
+    <programme start="20250424215959 +0000" stop="20250425025816 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250425025816 +0000" stop="20250425031216 +0000" channel="Channel U.mewatch">
@@ -429,7 +429,10 @@
     <programme start="20250424160000 +0000" stop="20250424162949 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250424162949 +0000" stop="20250425010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424162949 +0000" stop="20250424163001 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250424163001 +0000" stop="20250425010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250425010000 +0000" stop="20250425012959 +0000" channel="Vasantham.mewatch">

@@ -13470,11 +13470,8 @@
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="SkySp News HD">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250424210000 +0000" stop="20250424223000 +0000" channel="TNT Sports 1">
-        <title>NBA: Warriors @ Rockets</title>
-    </programme>
-    <programme start="20250424223000 +0000" stop="20250424230000 +0000" channel="TNT Sports 1">
-        <title>Live: NBA Tip-Off</title>
+    <programme start="20250424173000 +0000" stop="20250424230000 +0000" channel="TNT Sports 1">
+        <title>Live: Snooker World Championship</title>
     </programme>
     <programme start="20250424230000 +0000" stop="20250425013000 +0000" channel="TNT Sports 1">
         <title>Live NBA: Knicks @ Pistons</title>
@@ -13731,29 +13728,20 @@
     <programme start="20250425200000 +0000" stop="20250425210000 +0000" channel="SkySp Mix HD">
         <title>Live: NFL Draft Kickoff</title>
     </programme>
-    <programme start="20250424213000 +0000" stop="20250424230000 +0000" channel="TNT Sports 3">
+    <programme start="20250424173000 +0000" stop="20250424231500 +0000" channel="TNT Sports 3">
+        <title>Live: Snooker World Championship</title>
+    </programme>
+    <programme start="20250424231500 +0000" stop="20250424234500 +0000" channel="TNT Sports 3">
+        <title>Ally's Social Club</title>
+    </programme>
+    <programme start="20250424234500 +0000" stop="20250425011500 +0000" channel="TNT Sports 3">
         <title>Ultimate Pool</title>
     </programme>
-    <programme start="20250424230000 +0000" stop="20250425000000 +0000" channel="TNT Sports 3">
+    <programme start="20250425011500 +0000" stop="20250425021500 +0000" channel="TNT Sports 3">
         <title>Parma v Juventus</title>
     </programme>
-    <programme start="20250425000000 +0000" stop="20250425020000 +0000" channel="TNT Sports 3">
+    <programme start="20250425021500 +0000" stop="20250425043000 +0000" channel="TNT Sports 3">
         <title>Snooker World Championship</title>
-    </programme>
-    <programme start="20250425020000 +0000" stop="20250425023000 +0000" channel="TNT Sports 3">
-        <title>The Football Archives UCL</title>
-    </programme>
-    <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="TNT Sports 3">
-        <title>Liverpool v Real Madrid 2008/09</title>
-    </programme>
-    <programme start="20250425030000 +0000" stop="20250425033000 +0000" channel="TNT Sports 3">
-        <title>Barcelona v Leverkusen 2011/12</title>
-    </programme>
-    <programme start="20250425033000 +0000" stop="20250425040000 +0000" channel="TNT Sports 3">
-        <title>Man Utd v Real Madrid 2012/13</title>
-    </programme>
-    <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="TNT Sports 3">
-        <title>Bayern Munich v Barcelona 2012/13</title>
     </programme>
     <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="TNT Sports 3">
         <title>Bayern Munich v Man City 2013/14</title>
@@ -32856,11 +32844,8 @@
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="SkySp News">
         <title>Sky Sports News</title>
     </programme>
-    <programme start="20250424210000 +0000" stop="20250424223000 +0000" channel="TNTSports1 HD">
-        <title>NBA: Warriors @ Rockets</title>
-    </programme>
-    <programme start="20250424223000 +0000" stop="20250424230000 +0000" channel="TNTSports1 HD">
-        <title>Live: NBA Tip-Off</title>
+    <programme start="20250424173000 +0000" stop="20250424230000 +0000" channel="TNTSports1 HD">
+        <title>Live: Snooker World Championship</title>
     </programme>
     <programme start="20250424230000 +0000" stop="20250425013000 +0000" channel="TNTSports1 HD">
         <title>Live NBA: Knicks @ Pistons</title>
@@ -33087,29 +33072,20 @@
     <programme start="20250425200000 +0000" stop="20250425210000 +0000" channel="SkySp Mix">
         <title>Live: NFL Draft Kickoff</title>
     </programme>
-    <programme start="20250424213000 +0000" stop="20250424230000 +0000" channel="TNTSports3 HD">
+    <programme start="20250424173000 +0000" stop="20250424231500 +0000" channel="TNTSports3 HD">
+        <title>Live: Snooker World Championship</title>
+    </programme>
+    <programme start="20250424231500 +0000" stop="20250424234500 +0000" channel="TNTSports3 HD">
+        <title>Ally's Social Club</title>
+    </programme>
+    <programme start="20250424234500 +0000" stop="20250425011500 +0000" channel="TNTSports3 HD">
         <title>Ultimate Pool</title>
     </programme>
-    <programme start="20250424230000 +0000" stop="20250425000000 +0000" channel="TNTSports3 HD">
+    <programme start="20250425011500 +0000" stop="20250425021500 +0000" channel="TNTSports3 HD">
         <title>Parma v Juventus</title>
     </programme>
-    <programme start="20250425000000 +0000" stop="20250425020000 +0000" channel="TNTSports3 HD">
+    <programme start="20250425021500 +0000" stop="20250425043000 +0000" channel="TNTSports3 HD">
         <title>Snooker World Championship</title>
-    </programme>
-    <programme start="20250425020000 +0000" stop="20250425023000 +0000" channel="TNTSports3 HD">
-        <title>The Football Archives UCL</title>
-    </programme>
-    <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="TNTSports3 HD">
-        <title>Liverpool v Real Madrid 2008/09</title>
-    </programme>
-    <programme start="20250425030000 +0000" stop="20250425033000 +0000" channel="TNTSports3 HD">
-        <title>Barcelona v Leverkusen 2011/12</title>
-    </programme>
-    <programme start="20250425033000 +0000" stop="20250425040000 +0000" channel="TNTSports3 HD">
-        <title>Man Utd v Real Madrid 2012/13</title>
-    </programme>
-    <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="TNTSports3 HD">
-        <title>Bayern Munich v Barcelona 2012/13</title>
     </programme>
     <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="TNTSports3 HD">
         <title>Bayern Munich v Man City 2013/14</title>
@@ -35550,13 +35526,13 @@
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="BBC Two NI HD">
         <title>Relic</title>
     </programme>
-    <programme start="20250424180000 +0000" stop="20250424233000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250424180000 +0000" stop="20250424231000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250424233000 +0000" stop="20250425015500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250424231000 +0000" stop="20250425013500 +0000" channel="BBC RB 1 HD">
         <title>MOTD Live: Women's Super League Chelsea v Crystal Palace</title>
     </programme>
-    <programme start="20250425015500 +0000" stop="20250425040000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250425013500 +0000" stop="20250425040000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250425040000 +0000" stop="20250425050000 +0000" channel="BBC RB 1 HD">

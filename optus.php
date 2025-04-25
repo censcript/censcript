@@ -141,7 +141,7 @@
     <programme start="20250430170000 +0000" stop="20250430173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Reggae Rhythms in the Premier League</title>
     </programme>
-    <programme start="20250430190500 +0000" stop="20250430212000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250430190500 +0000" stop="20250430212500 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
