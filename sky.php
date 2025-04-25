@@ -12753,11 +12753,8 @@
     <programme start="20250425080000 +0000" stop="20250425090000 +0000" channel="SkySpMainEvHD">
         <title>Good Morning Sports Fans</title>
     </programme>
-    <programme start="20250425090000 +0000" stop="20250425150000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250425090000 +0000" stop="20250425170000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Madrid</title>
-    </programme>
-    <programme start="20250425150000 +0000" stop="20250425170000 +0000" channel="SkySpMainEvHD">
-        <title>Live LPGA Tour Golf</title>
     </programme>
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="SkySpMainEvHD">
         <title>Live Weigh-In: Eubank Jr v Benn</title>
