@@ -12,19 +12,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Lon HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Lon HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Lon HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Lon HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Lon HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Lon HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Lon HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Lon HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Lon HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Lon HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Lon HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Lon HD">
@@ -26833,19 +26833,19 @@
         <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250426180000 +0000" stop="20250426190000 +0000" channel="Takbeer TV">
-        <title>Dil Darya Sumander</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250426190000 +0000" stop="20250426200000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250426200000 +0000" stop="20250426210000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="Takbeer TV">
-        <title>Sarkar Ki Batain</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250426220000 +0000" stop="20250426230000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425220000 +0000" channel="HUM EUROPE">
         <title>Diyar-e-Dil</title>
@@ -33636,19 +33636,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One NE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One NE HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One NE HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One NE HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One NE HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One NE HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One NE HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One NE HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One NE HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One NE HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One NE HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One NE HD">
@@ -33702,19 +33702,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One NW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One NW HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One NW HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One NW HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One NW HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One NW HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One NW HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One NW HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One NW HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One NW HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One NW HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One NW HD">
@@ -33768,19 +33768,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Yks HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Yks HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Yks HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Yks HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Yks HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Yks HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Yks HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Yks HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Yks HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Yks HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Yks HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Yks HD">
@@ -33834,19 +33834,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Y&amp;L HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Y&amp;L HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Y&amp;L HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Y&amp;L HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Y&amp;L HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Y&amp;L HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Y&amp;L HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Y&amp;L HD">
@@ -33900,19 +33900,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One WM HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One WM HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One WM HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One WM HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One WM HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One WM HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One WM HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One WM HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One WM HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One WM HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One WM HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One WM HD">
@@ -33966,19 +33966,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One EMidHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One EMidHD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One EMidHD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One EMidHD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One EMidHD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One EMidHD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One EMidHD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One EMidHD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One EMidHD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One EMidHD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One EMidHD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One EMidHD">
@@ -34032,19 +34032,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One EastHD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One EastHD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One EastHD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One EastHD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One EastHD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One EastHD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One EastHD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One EastHD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One EastHD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One EastHD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One EastHD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One EastHD">
@@ -34098,19 +34098,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One SE HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One SE HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One SE HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One SE HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One SE HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One SE HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One SE HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One SE HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One SE HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One SE HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One SE HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One SE HD">
@@ -34164,19 +34164,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Wst HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Wst HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Wst HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Wst HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Wst HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Wst HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Wst HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Wst HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Wst HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Wst HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Wst HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Wst HD">
@@ -34230,19 +34230,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Sth HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Sth HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Sth HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Sth HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Sth HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Sth HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Sth HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Sth HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Sth HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Sth HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Sth HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Sth HD">
@@ -34296,19 +34296,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One SW HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One SW HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One SW HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One SW HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One SW HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One SW HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One SW HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One SW HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One SW HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One SW HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One SW HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One SW HD">
@@ -34362,19 +34362,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One CI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One CI HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One CI HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One CI HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One CI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One CI HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One CI HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One CI HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One CI HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One CI HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One CI HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One CI HD">
@@ -34432,7 +34432,7 @@
         <title>Breakfast</title>
     </programme>
     <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One ScotHD">
-        <title>BBC News Special</title>
+        <title>The Funeral of Pope Francis</title>
     </programme>
     <programme start="20250426110000 +0000" stop="20250426131500 +0000" channel="BBC One ScotHD">
         <title>Sportscene</title>
@@ -34491,19 +34491,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One Wal HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One Wal HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One Wal HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One Wal HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One Wal HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One Wal HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One Wal HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One Wal HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One Wal HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One Wal HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One Wal HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One Wal HD">
@@ -34557,19 +34557,19 @@
     <programme start="20250426050000 +0000" stop="20250426073000 +0000" channel="BBC One NI HD">
         <title>Breakfast</title>
     </programme>
-    <programme start="20250426073000 +0000" stop="20250426113000 +0000" channel="BBC One NI HD">
+    <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBC One NI HD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426113000 +0000" stop="20250426114000 +0000" channel="BBC One NI HD">
+    <programme start="20250426110000 +0000" stop="20250426111000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426114000 +0000" stop="20250426114500 +0000" channel="BBC One NI HD">
+    <programme start="20250426111000 +0000" stop="20250426111500 +0000" channel="BBC One NI HD">
         <title>Weather</title>
     </programme>
-    <programme start="20250426114500 +0000" stop="20250426121500 +0000" channel="BBC One NI HD">
+    <programme start="20250426111500 +0000" stop="20250426114500 +0000" channel="BBC One NI HD">
         <title>London Marathon: My Reason to Run</title>
     </programme>
-    <programme start="20250426121500 +0000" stop="20250426152500 +0000" channel="BBC One NI HD">
+    <programme start="20250426114500 +0000" stop="20250426152500 +0000" channel="BBC One NI HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One NI HD">
@@ -34797,11 +34797,14 @@
     <programme start="20250425223000 +0000" stop="20250426020000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250426020000 +0000" stop="20250426050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250426020000 +0000" stop="20250426045500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250426050000 +0000" stop="20250426070000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250426045500 +0000" stop="20250426065500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
+    </programme>
+    <programme start="20250426065500 +0000" stop="20250426070000 +0000" channel="BBC RB 1 HD">
+        <title>This is BBC Red Button</title>
     </programme>
     <programme start="20250426070000 +0000" stop="20250426090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
