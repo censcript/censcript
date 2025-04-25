@@ -1398,28 +1398,31 @@
     <programme start="20250426224000 +0000" stop="20250426234000 +0000" channel="BBC Three HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250425214500 +0000" stop="20250425221500 +0000" channel="BBC Four HD">
+    <programme start="20250425180000 +0000" stop="20250425222000 +0000" channel="BBC Four HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250425222000 +0000" stop="20250425225000 +0000" channel="BBC Four HD">
         <title>TOTP: 1983</title>
     </programme>
-    <programme start="20250425221500 +0000" stop="20250425224500 +0000" channel="BBC Four HD">
+    <programme start="20250425225000 +0000" stop="20250425232000 +0000" channel="BBC Four HD">
         <title>TOTP: 1982</title>
     </programme>
-    <programme start="20250425224500 +0000" stop="20250426001000 +0000" channel="BBC Four HD">
+    <programme start="20250425232000 +0000" stop="20250426004500 +0000" channel="BBC Four HD">
         <title>Rolling Stones: Some Girls Live in Texas</title>
     </programme>
-    <programme start="20250426001000 +0000" stop="20250426011000 +0000" channel="BBC Four HD">
+    <programme start="20250426004500 +0000" stop="20250426014500 +0000" channel="BBC Four HD">
         <title>Ronnie Wood: My Life as a Rolling Stone</title>
     </programme>
-    <programme start="20250426011000 +0000" stop="20250426021000 +0000" channel="BBC Four HD">
+    <programme start="20250426014500 +0000" stop="20250426024500 +0000" channel="BBC Four HD">
         <title>Charlie Watts: My Life as a Rolling Stone</title>
     </programme>
-    <programme start="20250426021000 +0000" stop="20250426031000 +0000" channel="BBC Four HD">
+    <programme start="20250426024500 +0000" stop="20250426034500 +0000" channel="BBC Four HD">
         <title>Rolling Stones: Licked Live in NYC</title>
     </programme>
-    <programme start="20250426031000 +0000" stop="20250426034000 +0000" channel="BBC Four HD">
+    <programme start="20250426034500 +0000" stop="20250426041500 +0000" channel="BBC Four HD">
         <title>TOTP: 1983</title>
     </programme>
-    <programme start="20250426034000 +0000" stop="20250426043000 +0000" channel="BBC Four HD">
+    <programme start="20250426041500 +0000" stop="20250426043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250426043000 +0000" stop="20250426103000 +0000" channel="BBC Four HD">
@@ -27898,7 +27901,7 @@
         <title>Amrit Bani</title>
     </programme>
     <programme start="20250426060000 +0000" stop="20250426080000 +0000" channel="Kanshi TV">
-        <title>Amrit Bani Jaap</title>
+        <title>Sant Meena Devi Jajjon Doaba</title>
     </programme>
     <programme start="20250426080000 +0000" stop="20250426083000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
@@ -27925,7 +27928,7 @@
         <title>Pate Di Gall</title>
     </programme>
     <programme start="20250426160000 +0000" stop="20250426170000 +0000" channel="Kanshi TV">
-        <title>Music Time</title>
+        <title>Keh Ravidas Khalaas Chamara</title>
     </programme>
     <programme start="20250426170000 +0000" stop="20250426180000 +0000" channel="Kanshi TV">
         <title>Kanshi TV Special</title>
@@ -34782,7 +34785,10 @@
     <programme start="20250426221500 +0000" stop="20250426231500 +0000" channel="BBC Two NI HD">
         <title>40 Hidden Music Treasures at the BBC: Volume 1</title>
     </programme>
-    <programme start="20250425214500 +0000" stop="20250425223000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250425180000 +0000" stop="20250425221500 +0000" channel="BBC RB 1 HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250425221500 +0000" stop="20250425223000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250425223000 +0000" stop="20250426020000 +0000" channel="BBC RB 1 HD">
