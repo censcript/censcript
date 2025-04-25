@@ -6687,10 +6687,7 @@
     <programme start="20250426073000 +0000" stop="20250426110000 +0000" channel="BBCScotlandHD">
         <title>The Funeral of Pope Francis</title>
     </programme>
-    <programme start="20250426110000 +0000" stop="20250426113000 +0000" channel="BBCScotlandHD">
-        <title>This is BBC Scotland</title>
-    </programme>
-    <programme start="20250426113000 +0000" stop="20250426131500 +0000" channel="BBCScotlandHD">
+    <programme start="20250426110000 +0000" stop="20250426131500 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
     </programme>
     <programme start="20250426131500 +0000" stop="20250426153000 +0000" channel="BBCScotlandHD">
@@ -28905,20 +28902,20 @@
     <programme start="20250426112000 +0000" stop="20250426120000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250426120000 +0000" stop="20250426120600 +0000" channel="iON TV">
+    <programme start="20250426120000 +0000" stop="20250426120300 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250426120600 +0000" stop="20250426121100 +0000" channel="iON TV">
+    <programme start="20250426120300 +0000" stop="20250426120800 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250426121100 +0000" stop="20250426123000 +0000" channel="iON TV">
+    <programme start="20250426120800 +0000" stop="20250426123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250426123000 +0000" stop="20250426130000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
+        <title>News 24</title>
     </programme>
     <programme start="20250426130000 +0000" stop="20250426140000 +0000" channel="iON TV">
-        <title>Madinar Alo</title>
+        <title>Islamic Knowledge By Azhari</title>
     </programme>
     <programme start="20250426140000 +0000" stop="20250426142000 +0000" channel="iON TV">
         <title>Alor Pothe</title>
@@ -28927,42 +28924,42 @@
         <title>Alor Pothe</title>
     </programme>
     <programme start="20250426150000 +0000" stop="20250426160000 +0000" channel="iON TV">
-        <title>Bornomala</title>
+        <title>Community Focus</title>
     </programme>
-    <programme start="20250426160000 +0000" stop="20250426164500 +0000" channel="iON TV">
+    <programme start="20250426160000 +0000" stop="20250426170000 +0000" channel="iON TV">
         <title>Nasheed</title>
     </programme>
-    <programme start="20250426164500 +0000" stop="20250426165000 +0000" channel="iON TV">
+    <programme start="20250426170000 +0000" stop="20250426170500 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250426165000 +0000" stop="20250426170000 +0000" channel="iON TV">
-        <title>Nasheed</title>
-    </programme>
-    <programme start="20250426170000 +0000" stop="20250426173800 +0000" channel="iON TV">
+    <programme start="20250426170500 +0000" stop="20250426173800 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
     <programme start="20250426173800 +0000" stop="20250426180000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250426180000 +0000" stop="20250426185600 +0000" channel="iON TV">
+    <programme start="20250426180000 +0000" stop="20250426183000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250426185600 +0000" stop="20250426190000 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
+    <programme start="20250426183000 +0000" stop="20250426190000 +0000" channel="iON TV">
+        <title>Music Hour</title>
     </programme>
-    <programme start="20250426190000 +0000" stop="20250426200000 +0000" channel="iON TV">
+    <programme start="20250426190000 +0000" stop="20250426191900 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250426200000 +0000" stop="20250426201100 +0000" channel="iON TV">
+    <programme start="20250426191900 +0000" stop="20250426192400 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250426192400 +0000" stop="20250426200000 +0000" channel="iON TV">
+        <title>Drama Time</title>
+    </programme>
+    <programme start="20250426200000 +0000" stop="20250426203100 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250426201100 +0000" stop="20250426201600 +0000" channel="iON TV">
+    <programme start="20250426203100 +0000" stop="20250426203600 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250426201600 +0000" stop="20250426203000 +0000" channel="iON TV">
-        <title>News 24</title>
-    </programme>
-    <programme start="20250426203000 +0000" stop="20250426210000 +0000" channel="iON TV">
+    <programme start="20250426203600 +0000" stop="20250426210000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="iON TV">
