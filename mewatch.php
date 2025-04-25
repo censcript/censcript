@@ -558,11 +558,8 @@
     <programme start="20250425120000 +0000" stop="20250425130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425133000 +0000" channel="CNA.mewatch">
+    <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
-    </programme>
-    <programme start="20250425133000 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
-        <title>Money Mind - EP 3</title>
     </programme>
     <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>

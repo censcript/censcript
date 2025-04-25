@@ -1425,8 +1425,11 @@
     <programme start="20250425010000 +0000" stop="20250425024500 +0000" channel="BBC Four HD">
         <title>Nine to Five</title>
     </programme>
-    <programme start="20250425024500 +0000" stop="20250425103000 +0000" channel="BBC Four HD">
+    <programme start="20250425024500 +0000" stop="20250425043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
+    </programme>
+    <programme start="20250425043000 +0000" stop="20250425103000 +0000" channel="BBC Four HD">
+        <title>..programmes start at 7.00pm</title>
     </programme>
     <programme start="20250425103000 +0000" stop="20250425163000 +0000" channel="BBC Four HD">
         <title>..programmes start at 7.00pm</title>
