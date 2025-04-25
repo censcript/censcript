@@ -264,8 +264,20 @@
     <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
     </programme>
+    <programme start="20250505160000 +0000" stop="20250505170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250505183000 +0000" stop="20250505213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Crystal Palace v Nottingham Forest</title>
+    </programme>
+    <programme start="20250505213000 +0000" stop="20250505223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Final Word</title>
+    </programme>
+    <programme start="20250505233000 +0000" stop="20250506003000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250506010000 +0000" stop="20250506013000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
     </programme>
     <programme start="20250506045500 +0000" stop="20250506071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Gamba</title>
@@ -273,31 +285,19 @@
     <programme start="20250506065500 +0000" stop="20250506091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Shimizu</title>
     </programme>
+    <programme start="20250506080000 +0000" stop="20250506090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Alan Shearer</title>
+    </programme>
+    <programme start="20250506120000 +0000" stop="20250506130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
     <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Shonan v Sanfrecce</title>
     </programme>
     <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Kyoto</title>
     </programme>
-    <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Yokohama FC v Avispa</title>
-    </programme>
-    <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kashiwa v Fagiano Okayama</title>
-    </programme>
-    <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Kawasaki</title>
-    </programme>
-    <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Yokohama FM</title>
-    </programme>
-    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Vissel Kobe v Gamba</title>
-    </programme>
-    <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Shonan v Yokohama FC</title>
-    </programme>
-    <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
+    <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
     </programme>
 </tv>
