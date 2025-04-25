@@ -1398,31 +1398,25 @@
     <programme start="20250426224000 +0000" stop="20250426234000 +0000" channel="BBC Three HD">
         <title>Just Act Normal</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425222000 +0000" channel="BBC Four HD">
+    <programme start="20250425180000 +0000" stop="20250425221500 +0000" channel="BBC Four HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250425222000 +0000" stop="20250425225000 +0000" channel="BBC Four HD">
+    <programme start="20250425221500 +0000" stop="20250425224500 +0000" channel="BBC Four HD">
         <title>TOTP: 1983</title>
     </programme>
-    <programme start="20250425225000 +0000" stop="20250425232000 +0000" channel="BBC Four HD">
+    <programme start="20250425224500 +0000" stop="20250425231500 +0000" channel="BBC Four HD">
         <title>TOTP: 1982</title>
     </programme>
-    <programme start="20250425232000 +0000" stop="20250426004500 +0000" channel="BBC Four HD">
+    <programme start="20250425231500 +0000" stop="20250426004000 +0000" channel="BBC Four HD">
         <title>Rolling Stones: Some Girls Live in Texas</title>
     </programme>
-    <programme start="20250426004500 +0000" stop="20250426014500 +0000" channel="BBC Four HD">
+    <programme start="20250426004000 +0000" stop="20250426014000 +0000" channel="BBC Four HD">
         <title>Ronnie Wood: My Life as a Rolling Stone</title>
     </programme>
-    <programme start="20250426014500 +0000" stop="20250426024500 +0000" channel="BBC Four HD">
+    <programme start="20250426014000 +0000" stop="20250426024000 +0000" channel="BBC Four HD">
         <title>Charlie Watts: My Life as a Rolling Stone</title>
     </programme>
-    <programme start="20250426024500 +0000" stop="20250426034500 +0000" channel="BBC Four HD">
-        <title>Rolling Stones: Licked Live in NYC</title>
-    </programme>
-    <programme start="20250426034500 +0000" stop="20250426041500 +0000" channel="BBC Four HD">
-        <title>TOTP: 1983</title>
-    </programme>
-    <programme start="20250426041500 +0000" stop="20250426043000 +0000" channel="BBC Four HD">
+    <programme start="20250426024000 +0000" stop="20250426043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250426043000 +0000" stop="20250426103000 +0000" channel="BBC Four HD">
@@ -34785,10 +34779,10 @@
     <programme start="20250426221500 +0000" stop="20250426231500 +0000" channel="BBC Two NI HD">
         <title>40 Hidden Music Treasures at the BBC: Volume 1</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425221500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250425180000 +0000" stop="20250425221000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250425221500 +0000" stop="20250425223000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250425221000 +0000" stop="20250425223000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250425223000 +0000" stop="20250426020000 +0000" channel="BBC RB 1 HD">
