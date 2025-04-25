@@ -14691,13 +14691,16 @@
     <programme start="20250425083000 +0000" stop="20250425140000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425160000 +0000" channel="BBC Parl HD">
-        <title>House of Lords - National Debt Debate</title>
+    <programme start="20250425140000 +0000" stop="20250425151500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - National Debt Debate, Part 1</title>
     </programme>
-    <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="BBC Parl HD">
+    <programme start="20250425151500 +0000" stop="20250425163000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - National Debt Debate, Part 2</title>
+    </programme>
+    <programme start="20250425163000 +0000" stop="20250425183000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Future of News Debate</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425200000 +0000" channel="BBC Parl HD">
+    <programme start="20250425183000 +0000" stop="20250425200000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Enhancing Public Trust Debate</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425204500 +0000" channel="BBC Parl HD">

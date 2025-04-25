@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Nagoya</title>
-    </programme>
-    <programme start="20250425095500 +0000" stop="20250425121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Tokyo Verdy v Cerezo</title>
-    </programme>
-    <programme start="20250425102500 +0000" stop="20250425124000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v Sanfrecce</title>
-    </programme>
-    <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
+    </programme>
+    <programme start="20250509093000 +0000" stop="20250509100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250509110000 +0000" stop="20250509120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250509153000 +0000" stop="20250509160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
 </tv>
