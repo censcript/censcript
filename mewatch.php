@@ -123,10 +123,10 @@
     <programme start="20250425095254 +0000" stop="20250425120000 +0000" channel="Channel 5.mewatch">
         <title>The Nanny Diaries</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425124608 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124607 +0000" channel="Channel 5.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425124608 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425124607 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
         <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 5.mewatch">
@@ -228,28 +228,28 @@
     <programme start="20250425093113 +0000" stop="20250425103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 653</title>
     </programme>
-    <programme start="20250425103000 +0000" stop="20250425113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425103000 +0000" stop="20250425112954 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 19</title>
     </programme>
-    <programme start="20250425113000 +0000" stop="20250425120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425112954 +0000" stop="20250425115959 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 19</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425124500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425115959 +0000" stop="20250425124443 +0000" channel="Channel 8.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425124500 +0000" stop="20250425130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425124443 +0000" stop="20250425125934 +0000" channel="Channel 8.mewatch">
         <title>World Food S2 - EP 17</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425125934 +0000" stop="20250425140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 28</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425144500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425140000 +0000" stop="20250425144547 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250425144500 +0000" stop="20250425151500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425144547 +0000" stop="20250425151545 +0000" channel="Channel 8.mewatch">
         <title>A Thousand Years of Shaanxi Cuisine S2 - EP 7</title>
     </programme>
-    <programme start="20250425151500 +0000" stop="20250425160500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425151545 +0000" stop="20250425160626 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 12</title>
     </programme>
     <programme start="20250424154538 +0000" stop="20250424164040 +0000" channel="Channel U.mewatch">
@@ -348,22 +348,22 @@
     <programme start="20250425095955 +0000" stop="20250425110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 29</title>
     </programme>
-    <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425110000 +0000" stop="20250425115830 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 43</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425115830 +0000" stop="20250425130008 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 44</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425130008 +0000" stop="20250425135939 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 8</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425135939 +0000" stop="20250425150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 31</title>
     </programme>
     <programme start="20250425150000 +0000" stop="20250425154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250425154500 +0000" stop="20250425163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425154500 +0000" stop="20250425163138 +0000" channel="Channel U.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
     <programme start="20250425010000 +0000" stop="20250425013008 +0000" channel="Suria.mewatch">
@@ -408,13 +408,13 @@
     <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425131500 +0000" channel="Suria.mewatch">
+    <programme start="20250425123000 +0000" stop="20250425131526 +0000" channel="Suria.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425131500 +0000" stop="20250425151500 +0000" channel="Suria.mewatch">
+    <programme start="20250425131526 +0000" stop="20250425151524 +0000" channel="Suria.mewatch">
         <title>Sumpahan Peti Ais</title>
     </programme>
-    <programme start="20250425151500 +0000" stop="20250425153000 +0000" channel="Suria.mewatch">
+    <programme start="20250425151524 +0000" stop="20250425153000 +0000" channel="Suria.mewatch">
         <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Suria.mewatch">
@@ -471,22 +471,22 @@
     <programme start="20250425080002 +0000" stop="20250425110000 +0000" channel="Vasantham.mewatch">
         <title>Cuckoo</title>
     </programme>
-    <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425110000 +0000" stop="20250425115958 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 38</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425115958 +0000" stop="20250425123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 4</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425123000 +0000" stop="20250425125955 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425134500 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425125955 +0000" stop="20250425134443 +0000" channel="Vasantham.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425134500 +0000" stop="20250425140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425134443 +0000" stop="20250425135922 +0000" channel="Vasantham.mewatch">
         <title>Thithikuthey - EP 1</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425135922 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
         <title>Yugi</title>
     </programme>
     <programme start="20250424150104 +0000" stop="20250424160001 +0000" channel="CNA.mewatch">
@@ -531,40 +531,40 @@
     <programme start="20250425053000 +0000" stop="20250425060000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 4</title>
     </programme>
-    <programme start="20250425060000 +0000" stop="20250425075959 +0000" channel="CNA.mewatch">
+    <programme start="20250425060000 +0000" stop="20250425075859 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250425075959 +0000" stop="20250425090001 +0000" channel="CNA.mewatch">
+    <programme start="20250425075859 +0000" stop="20250425085831 +0000" channel="CNA.mewatch">
         <title>When Titans Clash: The Tariff War hits ASEAN</title>
     </programme>
-    <programme start="20250425090001 +0000" stop="20250425090226 +0000" channel="CNA.mewatch">
+    <programme start="20250425085831 +0000" stop="20250425090056 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250425090226 +0000" stop="20250425100000 +0000" channel="CNA.mewatch">
+    <programme start="20250425090056 +0000" stop="20250425095800 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 1</title>
     </programme>
-    <programme start="20250425100000 +0000" stop="20250425110000 +0000" channel="CNA.mewatch">
+    <programme start="20250425095800 +0000" stop="20250425110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="CNA.mewatch">
+    <programme start="20250425110000 +0000" stop="20250425115959 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 2</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425130000 +0000" channel="CNA.mewatch">
+    <programme start="20250425115959 +0000" stop="20250425125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425134600 +0000" channel="CNA.mewatch">
+    <programme start="20250425125959 +0000" stop="20250425134610 +0000" channel="CNA.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425134600 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
+    <programme start="20250425134610 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 4</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="CNA.mewatch">
+    <programme start="20250425140000 +0000" stop="20250425150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250425150000 +0000" stop="20250425160000 +0000" channel="CNA.mewatch">
+    <programme start="20250425150001 +0000" stop="20250425160000 +0000" channel="CNA.mewatch">
         <title>Cargo: The Weight of Freight</title>
     </programme>
-    <programme start="20250425160000 +0000" stop="20250425160300 +0000" channel="CNA.mewatch">
+    <programme start="20250425160000 +0000" stop="20250425160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250424160000 +0000" stop="20250425113500 +0000" channel="spl01.mewatch">
