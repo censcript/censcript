@@ -423,70 +423,70 @@
     <programme start="20250425160000 +0000" stop="20250426010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250424160011 +0000" stop="20250424163001 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424160000 +0000" stop="20250424163000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250424163001 +0000" stop="20250425010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424163000 +0000" stop="20250425010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250425010000 +0000" stop="20250425012959 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425010000 +0000" stop="20250425013000 +0000" channel="Vasantham.mewatch">
         <title>Vera Level - EP 44</title>
     </programme>
-    <programme start="20250425012959 +0000" stop="20250425020000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425013000 +0000" stop="20250425020000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 26</title>
     </programme>
     <programme start="20250425020000 +0000" stop="20250425023000 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 3</title>
     </programme>
-    <programme start="20250425023000 +0000" stop="20250425030002 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425023000 +0000" stop="20250425030000 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 25</title>
     </programme>
-    <programme start="20250425030002 +0000" stop="20250425040001 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425030000 +0000" stop="20250425040000 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 37</title>
     </programme>
-    <programme start="20250425040001 +0000" stop="20250425043001 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425040000 +0000" stop="20250425043000 +0000" channel="Vasantham.mewatch">
         <title>Kannaadi Pookkal - EP 9</title>
     </programme>
-    <programme start="20250425043001 +0000" stop="20250425050005 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425043000 +0000" stop="20250425050000 +0000" channel="Vasantham.mewatch">
         <title>Kannaadi Pookkal - EP 10</title>
     </programme>
-    <programme start="20250425050005 +0000" stop="20250425053003 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425050000 +0000" stop="20250425053000 +0000" channel="Vasantham.mewatch">
         <title>Kaalavarai - EP 36</title>
     </programme>
-    <programme start="20250425053003 +0000" stop="20250425060005 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425053000 +0000" stop="20250425060000 +0000" channel="Vasantham.mewatch">
         <title>Kaalavarai - EP 37</title>
     </programme>
-    <programme start="20250425060005 +0000" stop="20250425063003 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425060000 +0000" stop="20250425063000 +0000" channel="Vasantham.mewatch">
         <title>Annamalai 3 - EP 40</title>
     </programme>
-    <programme start="20250425063003 +0000" stop="20250425070006 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425063000 +0000" stop="20250425070000 +0000" channel="Vasantham.mewatch">
         <title>Annamalai 3 - EP 41</title>
     </programme>
-    <programme start="20250425070006 +0000" stop="20250425073004 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425070000 +0000" stop="20250425073000 +0000" channel="Vasantham.mewatch">
         <title>Theerpugal S5 - EP 7</title>
     </programme>
-    <programme start="20250425073004 +0000" stop="20250425080002 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425073000 +0000" stop="20250425080000 +0000" channel="Vasantham.mewatch">
         <title>Theerpugal S5 - EP 8</title>
     </programme>
-    <programme start="20250425080002 +0000" stop="20250425110000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425080000 +0000" stop="20250425110000 +0000" channel="Vasantham.mewatch">
         <title>Cuckoo</title>
     </programme>
-    <programme start="20250425110000 +0000" stop="20250425115958 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425110000 +0000" stop="20250425120000 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 38</title>
     </programme>
-    <programme start="20250425115958 +0000" stop="20250425123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 4</title>
     </programme>
     <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425134450 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425130000 +0000" stop="20250425133500 +0000" channel="Vasantham.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425134450 +0000" stop="20250425135929 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425133500 +0000" stop="20250425140000 +0000" channel="Vasantham.mewatch">
         <title>Thithikuthey - EP 1</title>
     </programme>
-    <programme start="20250425135929 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425140000 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
         <title>Yugi</title>
     </programme>
     <programme start="20250424150104 +0000" stop="20250424160001 +0000" channel="CNA.mewatch">
