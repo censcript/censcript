@@ -123,10 +123,10 @@
     <programme start="20250425095254 +0000" stop="20250425120000 +0000" channel="Channel 5.mewatch">
         <title>The Nanny Diaries</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425124607 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124819 +0000" channel="Channel 5.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425124607 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425124819 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
         <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 5.mewatch">
@@ -231,10 +231,10 @@
     <programme start="20250425103000 +0000" stop="20250425112954 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 19</title>
     </programme>
-    <programme start="20250425112954 +0000" stop="20250425115959 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425112954 +0000" stop="20250425120000 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 19</title>
     </programme>
-    <programme start="20250425115959 +0000" stop="20250425124443 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124443 +0000" channel="Channel 8.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
     <programme start="20250425124443 +0000" stop="20250425125934 +0000" channel="Channel 8.mewatch">
@@ -477,16 +477,16 @@
     <programme start="20250425115958 +0000" stop="20250425123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 4</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425125955 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250425125955 +0000" stop="20250425134443 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425130000 +0000" stop="20250425134450 +0000" channel="Vasantham.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425134443 +0000" stop="20250425135922 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425134450 +0000" stop="20250425135929 +0000" channel="Vasantham.mewatch">
         <title>Thithikuthey - EP 1</title>
     </programme>
-    <programme start="20250425135922 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425135929 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
         <title>Yugi</title>
     </programme>
     <programme start="20250424150104 +0000" stop="20250424160001 +0000" channel="CNA.mewatch">
@@ -531,19 +531,19 @@
     <programme start="20250425053000 +0000" stop="20250425060000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 4</title>
     </programme>
-    <programme start="20250425060000 +0000" stop="20250425075859 +0000" channel="CNA.mewatch">
+    <programme start="20250425060000 +0000" stop="20250425075959 +0000" channel="CNA.mewatch">
         <title>Asia Now </title>
     </programme>
-    <programme start="20250425075859 +0000" stop="20250425085831 +0000" channel="CNA.mewatch">
+    <programme start="20250425075959 +0000" stop="20250425090000 +0000" channel="CNA.mewatch">
         <title>When Titans Clash: The Tariff War hits ASEAN</title>
     </programme>
-    <programme start="20250425085831 +0000" stop="20250425090056 +0000" channel="CNA.mewatch">
+    <programme start="20250425090000 +0000" stop="20250425090225 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250425090056 +0000" stop="20250425095800 +0000" channel="CNA.mewatch">
+    <programme start="20250425090225 +0000" stop="20250425100000 +0000" channel="CNA.mewatch">
         <title>Wombless - EP 1</title>
     </programme>
-    <programme start="20250425095800 +0000" stop="20250425110000 +0000" channel="CNA.mewatch">
+    <programme start="20250425100000 +0000" stop="20250425110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
     <programme start="20250425110000 +0000" stop="20250425115959 +0000" channel="CNA.mewatch">
@@ -561,11 +561,8 @@
     <programme start="20250425140000 +0000" stop="20250425150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250425150001 +0000" stop="20250425160000 +0000" channel="CNA.mewatch">
+    <programme start="20250425150001 +0000" stop="20250425160001 +0000" channel="CNA.mewatch">
         <title>Cargo: The Weight of Freight</title>
-    </programme>
-    <programme start="20250425160000 +0000" stop="20250425160315 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250424160000 +0000" stop="20250425113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 25th April, Friday 7.35pm. 2024 Singapore Premier League: Albirex Niigata S vs Lion City Sailors</title>

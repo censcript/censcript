@@ -13950,8 +13950,14 @@
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="Premier 1 HD">
         <title>URC in 60: Round 15</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425210000 +0000" channel="Premier 1 HD">
+    <programme start="20250425180000 +0000" stop="20250425203500 +0000" channel="Premier 1 HD">
         <title>Live URC: Zebre v Edinburgh</title>
+    </programme>
+    <programme start="20250425203500 +0000" stop="20250425204500 +0000" channel="Premier 1 HD">
+        <title>LALIGA Match Highlights: Barcelona v Mallorca</title>
+    </programme>
+    <programme start="20250425204500 +0000" stop="20250425210000 +0000" channel="Premier 1 HD">
+        <title>LALIGA Specials: Best Goalkeeper</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="Premier 1 HD">
         <title>Sporting Greats</title>
@@ -14685,26 +14691,32 @@
     <programme start="20250425083000 +0000" stop="20250425140000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
-    <programme start="20250425140000 +0000" stop="20250425180000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250425140000 +0000" stop="20250425160000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - National Debt Debate</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425203000 +0000" channel="BBC Parl HD">
-        <title>Transport Committee</title>
+    <programme start="20250425160000 +0000" stop="20250425180000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Future of News Debate</title>
     </programme>
-    <programme start="20250425203000 +0000" stop="20250425211500 +0000" channel="BBC Parl HD">
+    <programme start="20250425180000 +0000" stop="20250425200000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Enhancing Public Trust Debate</title>
+    </programme>
+    <programme start="20250425200000 +0000" stop="20250425204500 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250425211500 +0000" stop="20250425213500 +0000" channel="BBC Parl HD">
+    <programme start="20250425204500 +0000" stop="20250425210500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - General Questions</title>
     </programme>
-    <programme start="20250425213500 +0000" stop="20250425215500 +0000" channel="BBC Parl HD">
+    <programme start="20250425210500 +0000" stop="20250425212500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament -...</title>
     </programme>
-    <programme start="20250425215500 +0000" stop="20250425221500 +0000" channel="BBC Parl HD">
+    <programme start="20250425212500 +0000" stop="20250425214500 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Topical Questions</title>
     </programme>
-    <programme start="20250425221500 +0000" stop="20250425231500 +0000" channel="BBC Parl HD">
+    <programme start="20250425214500 +0000" stop="20250425224000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Supreme...</title>
+    </programme>
+    <programme start="20250425224000 +0000" stop="20250425234000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament -...</title>
     </programme>
     <programme start="20250424213000 +0000" stop="20250424220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -24465,10 +24477,10 @@
     <programme start="20250425180000 +0000" stop="20250425190000 +0000" channel="Utsav Bharat">
         <title>The Great Indian Laughter Challenge</title>
     </programme>
-    <programme start="20250425190000 +0000" stop="20250425193000 +0000" channel="Utsav Bharat">
+    <programme start="20250425190000 +0000" stop="20250425193100 +0000" channel="Utsav Bharat">
         <title>RadhaKrishn</title>
     </programme>
-    <programme start="20250425193000 +0000" stop="20250425200000 +0000" channel="Utsav Bharat">
+    <programme start="20250425193100 +0000" stop="20250425200000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="Utsav Bharat">
@@ -25416,10 +25428,10 @@
     <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="Utsav Gold HD">
         <title>Koffee With Karan</title>
     </programme>
-    <programme start="20250425060000 +0000" stop="20250425084500 +0000" channel="Utsav Gold HD">
+    <programme start="20250425060000 +0000" stop="20250425084400 +0000" channel="Utsav Gold HD">
         <title>Golmaal Returns</title>
     </programme>
-    <programme start="20250425084500 +0000" stop="20250425120000 +0000" channel="Utsav Gold HD">
+    <programme start="20250425084400 +0000" stop="20250425120000 +0000" channel="Utsav Gold HD">
         <title>Pathaan</title>
     </programme>
     <programme start="20250425120000 +0000" stop="20250425143000 +0000" channel="Utsav Gold HD">
@@ -27550,13 +27562,13 @@
         <title>Makkah Live</title>
     </programme>
     <programme start="20250425120000 +0000" stop="20250425120400 +0000" channel="Eman Channel">
-        <title>LIVE: UK Khutbah</title>
+        <title>Repeat: Alif Laam Meem</title>
     </programme>
     <programme start="20250425120400 +0000" stop="20250425120800 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
     <programme start="20250425120800 +0000" stop="20250425123000 +0000" channel="Eman Channel">
-        <title>LIVE: UK Khutbah</title>
+        <title>Repeat: Alif Laam Meem</title>
     </programme>
     <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Eman Channel">
         <title>The Promise Of Al Kahf</title>
@@ -27621,23 +27633,20 @@
     <programme start="20250425191700 +0000" stop="20250425193100 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250425193100 +0000" stop="20250425200000 +0000" channel="Eman Channel">
+    <programme start="20250425193100 +0000" stop="20250425195900 +0000" channel="Eman Channel">
         <title>Ask Eman</title>
     </programme>
-    <programme start="20250425200000 +0000" stop="20250425201500 +0000" channel="Eman Channel">
+    <programme start="20250425195900 +0000" stop="20250425203000 +0000" channel="Eman Channel">
         <title>7 Steps of Hajj</title>
-    </programme>
-    <programme start="20250425201500 +0000" stop="20250425203000 +0000" channel="Eman Channel">
-        <title>Heavenly 7</title>
     </programme>
     <programme start="20250425203000 +0000" stop="20250425203500 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
     <programme start="20250425203500 +0000" stop="20250425205000 +0000" channel="Eman Channel">
-        <title>Heavenly 7</title>
+        <title>Qualities of a Muslim</title>
     </programme>
     <programme start="20250425205000 +0000" stop="20250425212000 +0000" channel="Eman Channel">
-        <title>The Staff</title>
+        <title>Heavenly 7</title>
     </programme>
     <programme start="20250425212000 +0000" stop="20250425213000 +0000" channel="Eman Channel">
         <title>For those left behind</title>
@@ -28023,20 +28032,14 @@
     <programme start="20250425190000 +0000" stop="20250425200000 +0000" channel="Sikh Channel">
         <title>Nagar Kirtan - Woolwich</title>
     </programme>
-    <programme start="20250425200000 +0000" stop="20250425203000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
-    </programme>
-    <programme start="20250425203000 +0000" stop="20250425210000 +0000" channel="Sikh Channel">
-        <title>SC India: Punjab News</title>
-    </programme>
-    <programme start="20250425210000 +0000" stop="20250425213000 +0000" channel="Sikh Channel">
-        <title>Gal Punjab Di</title>
+    <programme start="20250425200000 +0000" stop="20250425213000 +0000" channel="Sikh Channel">
+        <title>Antim Darshan Sant Bhagwan Singh</title>
     </programme>
     <programme start="20250425213000 +0000" stop="20250425220000 +0000" channel="Sikh Channel">
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250425220000 +0000" stop="20250425223000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+        <title>SC India: Punjab News</title>
     </programme>
     <programme start="20250425223000 +0000" stop="20250425233000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -33909,10 +33912,10 @@
     <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="Utsav Gold">
         <title>Koffee With Karan</title>
     </programme>
-    <programme start="20250425060000 +0000" stop="20250425084500 +0000" channel="Utsav Gold">
+    <programme start="20250425060000 +0000" stop="20250425084400 +0000" channel="Utsav Gold">
         <title>Golmaal Returns</title>
     </programme>
-    <programme start="20250425084500 +0000" stop="20250425120000 +0000" channel="Utsav Gold">
+    <programme start="20250425084400 +0000" stop="20250425120000 +0000" channel="Utsav Gold">
         <title>Pathaan</title>
     </programme>
     <programme start="20250425120000 +0000" stop="20250425143000 +0000" channel="Utsav Gold">
@@ -37002,11 +37005,8 @@
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="BBC R1X">
         <title>Remi Burgz</title>
     </programme>
-    <programme start="20250425180000 +0000" stop="20250425193000 +0000" channel="BBC R1X">
+    <programme start="20250425180000 +0000" stop="20250425200000 +0000" channel="BBC R1X">
         <title>1Xtra's Rave Show with Kash &amp; Pharaoh G</title>
-    </programme>
-    <programme start="20250425193000 +0000" stop="20250425200000 +0000" channel="BBC R1X">
-        <title>1Xtra's Rave Show - Get Lit Mix</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425213000 +0000" channel="BBC R1X">
         <title>The Tiffany Calver Show</title>
