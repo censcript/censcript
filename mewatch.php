@@ -123,11 +123,11 @@
     <programme start="20250425095254 +0000" stop="20250425120000 +0000" channel="Channel 5.mewatch">
         <title>The Nanny Diaries</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124615 +0000" channel="Channel 5.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
-        <title>Makan Kakis: Heritage Food Edition - EP 6</title>
+    <programme start="20250425124615 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
+        <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
@@ -234,11 +234,11 @@
     <programme start="20250425113000 +0000" stop="20250425120000 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 19</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124500 +0000" channel="Channel 8.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Channel 8.mewatch">
-        <title>Let&#039;s Talk About Health - EP 27</title>
+    <programme start="20250425124500 +0000" stop="20250425130000 +0000" channel="Channel 8.mewatch">
+        <title>World Food S2 - EP 17</title>
     </programme>
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 28</title>
@@ -363,7 +363,7 @@
     <programme start="20250425150000 +0000" stop="20250425154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250425154500 +0000" stop="20250425161500 +0000" channel="Channel U.mewatch">
+    <programme start="20250425154500 +0000" stop="20250425163000 +0000" channel="Channel U.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
     <programme start="20250424160000 +0000" stop="20250425010000 +0000" channel="Suria.mewatch">
@@ -558,8 +558,11 @@
     <programme start="20250425120000 +0000" stop="20250425130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
+    <programme start="20250425130000 +0000" stop="20250425134600 +0000" channel="CNA.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
+    </programme>
+    <programme start="20250425134600 +0000" stop="20250425140000 +0000" channel="CNA.mewatch">
+        <title>CNA Correspondent - EP 4</title>
     </programme>
     <programme start="20250425140000 +0000" stop="20250425150000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
