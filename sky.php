@@ -460,7 +460,7 @@
         <title>Terracotta Army with Dan Snow</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425210000 +0000" channel="Channel 5">
-        <title>Michael Portillo's Travel Diaries</title>
+        <title>New: Michael Portillo's Travel Diaries</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425225000 +0000" channel="Channel 5">
         <title>New: Flowers in the Attic: The Origin</title>
@@ -7453,7 +7453,7 @@
         <title>Terracotta Army with Dan Snow</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425220000 +0000" channel="Channel 5+1">
-        <title>Michael Portillo's Travel Diaries</title>
+        <title>New: Michael Portillo's Travel Diaries</title>
     </programme>
     <programme start="20250425220000 +0000" stop="20250425230000 +0000" channel="Channel 5+1">
         <title>New: Flowers in the Attic: The Origin</title>
@@ -30109,7 +30109,7 @@
         <title>Terracotta Army with Dan Snow</title>
     </programme>
     <programme start="20250425200000 +0000" stop="20250425210000 +0000" channel="Channel 5 HD">
-        <title>Michael Portillo's Travel Diaries</title>
+        <title>New: Michael Portillo's Travel Diaries</title>
     </programme>
     <programme start="20250425210000 +0000" stop="20250425225000 +0000" channel="Channel 5 HD">
         <title>New: Flowers in the Attic: The Origin</title>

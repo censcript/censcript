@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250425170000 +0000" stop="20250425180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FC v Avispa</title>
     </programme>
 </tv>
