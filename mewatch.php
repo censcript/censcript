@@ -423,11 +423,8 @@
     <programme start="20250425160000 +0000" stop="20250426010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250424160000 +0000" stop="20250424162949 +0000" channel="Vasantham.mewatch">
+    <programme start="20250424160011 +0000" stop="20250424163001 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20250424162949 +0000" stop="20250424163001 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250424163001 +0000" stop="20250425010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
