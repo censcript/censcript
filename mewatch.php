@@ -123,10 +123,10 @@
     <programme start="20250425095254 +0000" stop="20250425120000 +0000" channel="Channel 5.mewatch">
         <title>The Nanny Diaries</title>
     </programme>
-    <programme start="20250425120000 +0000" stop="20250425124615 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425120000 +0000" stop="20250425124608 +0000" channel="Channel 5.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425124615 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250425124608 +0000" stop="20250425130000 +0000" channel="Channel 5.mewatch">
         <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425130000 +0000" stop="20250425140000 +0000" channel="Channel 5.mewatch">
@@ -366,40 +366,37 @@
     <programme start="20250425154500 +0000" stop="20250425163000 +0000" channel="Channel U.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250424160000 +0000" stop="20250425010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250425010000 +0000" stop="20250425013000 +0000" channel="Suria.mewatch">
+    <programme start="20250425010000 +0000" stop="20250425013008 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 6</title>
     </programme>
-    <programme start="20250425013000 +0000" stop="20250425020000 +0000" channel="Suria.mewatch">
+    <programme start="20250425013008 +0000" stop="20250425020023 +0000" channel="Suria.mewatch">
         <title>SQFT - EP 11</title>
     </programme>
-    <programme start="20250425020000 +0000" stop="20250425030000 +0000" channel="Suria.mewatch">
+    <programme start="20250425020023 +0000" stop="20250425030027 +0000" channel="Suria.mewatch">
         <title>Selagi Ada Kasih 3 - Jeritan Sepi - EP 7</title>
     </programme>
-    <programme start="20250425030000 +0000" stop="20250425040000 +0000" channel="Suria.mewatch">
+    <programme start="20250425030027 +0000" stop="20250425040024 +0000" channel="Suria.mewatch">
         <title>Single Terlalu Lama - EP 20</title>
     </programme>
-    <programme start="20250425040000 +0000" stop="20250425050000 +0000" channel="Suria.mewatch">
+    <programme start="20250425040024 +0000" stop="20250425050025 +0000" channel="Suria.mewatch">
         <title>Baby Papa - EP 15</title>
     </programme>
-    <programme start="20250425050000 +0000" stop="20250425060000 +0000" channel="Suria.mewatch">
+    <programme start="20250425050025 +0000" stop="20250425060026 +0000" channel="Suria.mewatch">
         <title>Marina - EP 14</title>
     </programme>
-    <programme start="20250425060000 +0000" stop="20250425070000 +0000" channel="Suria.mewatch">
+    <programme start="20250425060026 +0000" stop="20250425070021 +0000" channel="Suria.mewatch">
         <title>Private Bodyguard - EP 4</title>
     </programme>
-    <programme start="20250425070000 +0000" stop="20250425080000 +0000" channel="Suria.mewatch">
+    <programme start="20250425070021 +0000" stop="20250425080021 +0000" channel="Suria.mewatch">
         <title>From KL to PL - EP 2</title>
     </programme>
-    <programme start="20250425080000 +0000" stop="20250425090000 +0000" channel="Suria.mewatch">
+    <programme start="20250425080021 +0000" stop="20250425090022 +0000" channel="Suria.mewatch">
         <title>Akira Khan - EP 14</title>
     </programme>
-    <programme start="20250425090000 +0000" stop="20250425100000 +0000" channel="Suria.mewatch">
+    <programme start="20250425090022 +0000" stop="20250425100013 +0000" channel="Suria.mewatch">
         <title>Pinjaman Syurga - EP 4</title>
     </programme>
-    <programme start="20250425100000 +0000" stop="20250425103000 +0000" channel="Suria.mewatch">
+    <programme start="20250425100013 +0000" stop="20250425103000 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 6</title>
     </programme>
     <programme start="20250425103000 +0000" stop="20250425110000 +0000" channel="Suria.mewatch">
@@ -411,14 +408,14 @@
     <programme start="20250425120000 +0000" stop="20250425123000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Suria.mewatch">
-        <title>Party Political Broadcast 1</title>
+    <programme start="20250425123000 +0000" stop="20250425131500 +0000" channel="Suria.mewatch">
+        <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425150000 +0000" channel="Suria.mewatch">
+    <programme start="20250425131500 +0000" stop="20250425151500 +0000" channel="Suria.mewatch">
         <title>Sumpahan Peti Ais</title>
     </programme>
-    <programme start="20250425150000 +0000" stop="20250425153000 +0000" channel="Suria.mewatch">
-        <title>Eat,Fun And Pray - EP 1</title>
+    <programme start="20250425151500 +0000" stop="20250425153000 +0000" channel="Suria.mewatch">
+        <title>Unboxing Art - EP 4</title>
     </programme>
     <programme start="20250425153000 +0000" stop="20250425160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
@@ -486,10 +483,10 @@
     <programme start="20250425123000 +0000" stop="20250425130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250425130000 +0000" stop="20250425133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425130000 +0000" stop="20250425134500 +0000" channel="Vasantham.mewatch">
         <title>Party Political Broadcast 2025 - EP 1</title>
     </programme>
-    <programme start="20250425133000 +0000" stop="20250425140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250425134500 +0000" stop="20250425140000 +0000" channel="Vasantham.mewatch">
         <title>Thithikuthey - EP 1</title>
     </programme>
     <programme start="20250425140000 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
