@@ -12891,14 +12891,8 @@
     <programme start="20250425190000 +0000" stop="20250425220000 +0000" channel="SkySp Golf HD">
         <title>Live PGA Tour Golf</title>
     </programme>
-    <programme start="20250425220000 +0000" stop="20250426000000 +0000" channel="SkySp Golf HD">
+    <programme start="20250425220000 +0000" stop="20250426010000 +0000" channel="SkySp Golf HD">
         <title>Live LPGA Tour Golf</title>
-    </programme>
-    <programme start="20250426000000 +0000" stop="20250426003000 +0000" channel="SkySp Golf HD">
-        <title>Best of The Women's Openzone</title>
-    </programme>
-    <programme start="20250426003000 +0000" stop="20250426010000 +0000" channel="SkySp Golf HD">
-        <title>Best of The OpenZone 2023</title>
     </programme>
     <programme start="20250426010000 +0000" stop="20250426020000 +0000" channel="SkySp Golf HD">
         <title>Zurich Classic of New Orleans 2017</title>

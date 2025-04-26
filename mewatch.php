@@ -234,10 +234,10 @@
     <programme start="20250425163138 +0000" stop="20250425172859 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 43</title>
     </programme>
-    <programme start="20250425172859 +0000" stop="20250425220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250425172859 +0000" stop="20250425215959 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 44</title>
     </programme>
-    <programme start="20250425220000 +0000" stop="20250426005809 +0000" channel="Channel U.mewatch">
+    <programme start="20250425215959 +0000" stop="20250426005809 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250426005809 +0000" stop="20250426011209 +0000" channel="Channel U.mewatch">
