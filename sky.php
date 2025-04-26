@@ -27417,10 +27417,7 @@
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
     </programme>
-    <programme start="20250426220000 +0000" stop="20250426230000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
-    </programme>
-    <programme start="20250426230000 +0000" stop="20250426233000 +0000" channel="Sangat">
+    <programme start="20250426220000 +0000" stop="20250426233000 +0000" channel="Sangat">
         <title>Kirtan ras</title>
     </programme>
     <programme start="20250426233000 +0000" stop="20250427003000 +0000" channel="Sangat">
@@ -27978,17 +27975,8 @@
     <programme start="20250427153000 +0000" stop="20250427160000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250427160000 +0000" stop="20250427164000 +0000" channel="CHSTV">
+    <programme start="20250427160000 +0000" stop="20250427170100 +0000" channel="CHSTV">
         <title>Tafsir</title>
-    </programme>
-    <programme start="20250427164000 +0000" stop="20250427164500 +0000" channel="CHSTV">
-        <title>Azan-E-Asar</title>
-    </programme>
-    <programme start="20250427164500 +0000" stop="20250427170000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
-    </programme>
-    <programme start="20250427170000 +0000" stop="20250427170100 +0000" channel="CHSTV">
-        <title>Orthoniti Sharadin</title>
     </programme>
     <programme start="20250427170100 +0000" stop="20250427170600 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
@@ -28002,11 +27990,8 @@
     <programme start="20250427180000 +0000" stop="20250427183000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
     </programme>
-    <programme start="20250427183000 +0000" stop="20250427184600 +0000" channel="CHSTV">
+    <programme start="20250427183000 +0000" stop="20250427190000 +0000" channel="CHSTV">
         <title>Online Offline</title>
-    </programme>
-    <programme start="20250427184600 +0000" stop="20250427190000 +0000" channel="CHSTV">
-        <title>Azan-E-Maghrib</title>
     </programme>
     <programme start="20250427190000 +0000" stop="20250427203300 +0000" channel="CHSTV">
         <title>Mr &amp; Mrs Chapabaz</title>

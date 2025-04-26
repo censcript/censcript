@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250426160500 +0000" stop="20250426192500 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Crystal Palace v Aston Villa</title>
-    </programme>
-    <programme start="20250426163000 +0000" stop="20250426173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250426170000 +0000" stop="20250426193000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Washington Spirit v Gotham FC</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
+    </programme>
+    <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kawasaki v Cerezo</title>
+    </programme>
+    <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FM v Vissel Kobe</title>
     </programme>
 </tv>
