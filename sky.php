@@ -14397,11 +14397,8 @@
     <programme start="20250426160000 +0000" stop="20250426170000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250426170000 +0000" stop="20250426173000 +0000" channel="BBC NEWS HD">
+    <programme start="20250426170000 +0000" stop="20250426180000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250426173000 +0000" stop="20250426180000 +0000" channel="BBC NEWS HD">
-        <title>Sportsday</title>
     </programme>
     <programme start="20250426180000 +0000" stop="20250426183000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -34410,8 +34407,11 @@
     <programme start="20250426111500 +0000" stop="20250426133000 +0000" channel="BBC One ScotHD">
         <title>Sportscene</title>
     </programme>
-    <programme start="20250426133000 +0000" stop="20250426153500 +0000" channel="BBC One ScotHD">
+    <programme start="20250426133000 +0000" stop="20250426152500 +0000" channel="BBC One ScotHD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250426152500 +0000" stop="20250426153500 +0000" channel="BBC One ScotHD">
+        <title>BBC News</title>
     </programme>
     <programme start="20250426153500 +0000" stop="20250426154000 +0000" channel="BBC One ScotHD">
         <title>Reporting Scotland</title>
