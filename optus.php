@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250426045000 +0000" stop="20250426071000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Suwon FC v Jeonbuk</title>
-    </programme>
-    <programme start="20250426045500 +0000" stop="20250426071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashiwa v Albirex</title>
-    </programme>
     <programme start="20250426072000 +0000" stop="20250426094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Anyang v Jeju</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Kawasaki</title>
+    </programme>
+    <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Yokohama FM</title>
     </programme>
 </tv>
