@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250426103000 +0000" stop="20250426135000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Chelsea v Everton</title>
-    </programme>
     <programme start="20250426135000 +0000" stop="20250426163000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Yokohama FM</title>
+    </programme>
+    <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
 </tv>

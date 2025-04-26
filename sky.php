@@ -14409,11 +14409,8 @@
     <programme start="20250426183000 +0000" stop="20250426190000 +0000" channel="BBC NEWS HD">
         <title>Sportsday</title>
     </programme>
-    <programme start="20250426190000 +0000" stop="20250426193000 +0000" channel="BBC NEWS HD">
+    <programme start="20250426190000 +0000" stop="20250426200000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
-    </programme>
-    <programme start="20250426193000 +0000" stop="20250426200000 +0000" channel="BBC NEWS HD">
-        <title>Newscast</title>
     </programme>
     <programme start="20250426200000 +0000" stop="20250426210000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
@@ -28492,7 +28489,7 @@
         <title>Goreeb Yateem Docu</title>
     </programme>
     <programme start="20250426150000 +0000" stop="20250426155500 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>Love Trip</title>
     </programme>
     <programme start="20250426155500 +0000" stop="20250426160000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
@@ -28504,13 +28501,13 @@
         <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250426170000 +0000" stop="20250426170500 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250426170500 +0000" stop="20250426171000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
     <programme start="20250426171000 +0000" stop="20250426175500 +0000" channel="ATN">
-        <title>ATN News</title>
+        <title>ATN Archive</title>
     </programme>
     <programme start="20250426175500 +0000" stop="20250426180000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
