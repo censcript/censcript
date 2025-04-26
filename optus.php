@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250426000000 +0000" stop="20250426023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Utah Royals FC</title>
-    </programme>
-    <programme start="20250426000000 +0000" stop="20250426023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Orlando Pride v Angel City FC</title>
-    </programme>
     <programme start="20250426045000 +0000" stop="20250426071000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Suwon FC v Jeonbuk</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
+    </programme>
+    <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Matchday Live Extra</title>
     </programme>
 </tv>
