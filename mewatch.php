@@ -369,10 +369,10 @@
     <programme start="20250426143000 +0000" stop="20250426153000 +0000" channel="Suria.mewatch">
         <title>Jaga Aku Selamanya - EP 13</title>
     </programme>
-    <programme start="20250426153000 +0000" stop="20250426155951 +0000" channel="Suria.mewatch">
+    <programme start="20250426153000 +0000" stop="20250426160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250426155951 +0000" stop="20250427010000 +0000" channel="Suria.mewatch">
+    <programme start="20250426160000 +0000" stop="20250427010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250425140000 +0000" stop="20250425163000 +0000" channel="Vasantham.mewatch">
