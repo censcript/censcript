@@ -13512,11 +13512,8 @@
     <programme start="20250426070000 +0000" stop="20250426090000 +0000" channel="TNT Sports 3">
         <title>Live: Newcastle Jets v WSW</title>
     </programme>
-    <programme start="20250426090000 +0000" stop="20250426120000 +0000" channel="TNT Sports 3">
+    <programme start="20250426090000 +0000" stop="20250426133000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250426120000 +0000" stop="20250426133000 +0000" channel="TNT Sports 3">
-        <title>NBA: Lakers @ Timberwolves</title>
     </programme>
     <programme start="20250426133000 +0000" stop="20250426163000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
@@ -32607,11 +32604,8 @@
     <programme start="20250426070000 +0000" stop="20250426090000 +0000" channel="TNTSports3 HD">
         <title>Live: Newcastle Jets v WSW</title>
     </programme>
-    <programme start="20250426090000 +0000" stop="20250426120000 +0000" channel="TNTSports3 HD">
+    <programme start="20250426090000 +0000" stop="20250426133000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250426120000 +0000" stop="20250426133000 +0000" channel="TNTSports3 HD">
-        <title>NBA: Lakers @ Timberwolves</title>
     </programme>
     <programme start="20250426133000 +0000" stop="20250426163000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>
