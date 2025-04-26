@@ -36777,10 +36777,10 @@
     <programme start="20250426000000 +0000" stop="20250426050000 +0000" channel="LBC News">
         <title>LBC News</title>
     </programme>
-    <programme start="20250426050000 +0000" stop="20250426100000 +0000" channel="LBC News">
+    <programme start="20250426050000 +0000" stop="20250426101500 +0000" channel="LBC News">
         <title>John Stratford</title>
     </programme>
-    <programme start="20250426100000 +0000" stop="20250426140000 +0000" channel="LBC News">
+    <programme start="20250426101500 +0000" stop="20250426140000 +0000" channel="LBC News">
         <title>Chris Golds</title>
     </programme>
     <programme start="20250426140000 +0000" stop="20250426180000 +0000" channel="LBC News">
