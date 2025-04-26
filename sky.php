@@ -6690,10 +6690,10 @@
     <programme start="20250426110000 +0000" stop="20250426131500 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
     </programme>
-    <programme start="20250426131500 +0000" stop="20250426153000 +0000" channel="BBCScotlandHD">
+    <programme start="20250426131500 +0000" stop="20250426153500 +0000" channel="BBCScotlandHD">
         <title>Women's Six Nations: Scotland v Ireland</title>
     </programme>
-    <programme start="20250426153000 +0000" stop="20250426163000 +0000" channel="BBCScotlandHD">
+    <programme start="20250426153500 +0000" stop="20250426163000 +0000" channel="BBCScotlandHD">
         <title>Sportscene: Open All Mics</title>
     </programme>
     <programme start="20250426163000 +0000" stop="20250426180000 +0000" channel="BBCScotlandHD">
@@ -12210,9 +12210,6 @@
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="Clubland TV">
         <title>Kevin &amp; Perry's Massive Night Out!</title>
     </programme>
-    <programme start="20250425150000 +0000" stop="20250425223000 +0000" channel="NOW 70s">
-        <title>101 Feelgood Anthems of the 70s!</title>
-    </programme>
     <programme start="20250425223000 +0000" stop="20250425230000 +0000" channel="NOW 70s">
         <title>Let The Good Times Roll!</title>
     </programme>
@@ -13515,11 +13512,8 @@
     <programme start="20250426090000 +0000" stop="20250426133000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
     </programme>
-    <programme start="20250426133000 +0000" stop="20250426163000 +0000" channel="TNT Sports 3">
+    <programme start="20250426133000 +0000" stop="20250426173000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250426163000 +0000" stop="20250426173000 +0000" channel="TNT Sports 3">
-        <title>UEFA Europa League Magazine</title>
     </programme>
     <programme start="20250426173000 +0000" stop="20250426210000 +0000" channel="TNT Sports 3">
         <title>Live: Snooker World Championship</title>
@@ -32601,11 +32595,8 @@
     <programme start="20250426090000 +0000" stop="20250426133000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>
     </programme>
-    <programme start="20250426133000 +0000" stop="20250426163000 +0000" channel="TNTSports3 HD">
+    <programme start="20250426133000 +0000" stop="20250426173000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>
-    </programme>
-    <programme start="20250426163000 +0000" stop="20250426173000 +0000" channel="TNTSports3 HD">
-        <title>UEFA Europa League Magazine</title>
     </programme>
     <programme start="20250426173000 +0000" stop="20250426210000 +0000" channel="TNTSports3 HD">
         <title>Live: Snooker World Championship</title>

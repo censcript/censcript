@@ -3,18 +3,6 @@
     <programme start="20250426135000 +0000" stop="20250426163000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Wolverhampton Wanderers v Leicester City</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 6.optus">
-        <title>Premier League - Southampton v Fulham</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Newcastle United v Ipswich</title>
-    </programme>
-    <programme start="20250426135000 +0000" stop="20250426161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Brighton v West Ham United</title>
-    </programme>
     <programme start="20250426160500 +0000" stop="20250426192500 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Aston Villa</title>
     </programme>
@@ -299,5 +287,17 @@
     </programme>
     <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
+    <programme start="20250511193000 +0000" stop="20250511210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Vissel Kobe v Gamba</title>
+    </programme>
+    <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Shonan v Yokohama FC</title>
     </programme>
 </tv>
