@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250426170000 +0000" stop="20250426193000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Washington Spirit v Gotham FC</title>
-    </programme>
     <programme start="20250426230000 +0000" stop="20250427013000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - North Carolina Courage v Kansas City Current</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Yokohama FM v Vissel Kobe</title>
+    </programme>
+    <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Cerezo v Avispa</title>
     </programme>
 </tv>

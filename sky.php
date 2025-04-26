@@ -12580,7 +12580,7 @@
         <title>IPL'25: RCB v RR Highlights</title>
     </programme>
     <programme start="20250427000000 +0000" stop="20250427041000 +0000" channel="SkySpCricket HD">
-        <title>IPL'25: KKR v PK</title>
+        <title>IPL'25: RCB v RR</title>
     </programme>
     <programme start="20250427041000 +0000" stop="20250427042000 +0000" channel="SkySpCricket HD">
         <title>The Best of England v Australia</title>
@@ -12607,7 +12607,7 @@
         <title>IPL'25: CSK v SRH Highlights</title>
     </programme>
     <programme start="20250427085500 +0000" stop="20250427095000 +0000" channel="SkySpCricket HD">
-        <title>IPL'25: KKR v PBKS Highlights</title>
+        <title>IPL'25: RCB v RR Highlights</title>
     </programme>
     <programme start="20250427095000 +0000" stop="20250427140000 +0000" channel="SkySpCricket HD">
         <title>Live IPL'25: MI v LSG</title>
@@ -16126,7 +16126,7 @@
         <title>WION Pulse</title>
     </programme>
     <programme start="20250427010000 +0000" stop="20250427013000 +0000" channel="WION HD">
-        <title>World Of Africa</title>
+        <title>Top Stories</title>
     </programme>
     <programme start="20250427013000 +0000" stop="20250427020000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16150,19 +16150,19 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250427050000 +0000" stop="20250427053000 +0000" channel="WION HD">
-        <title>World At War</title>
+        <title>Token Money Magnet</title>
     </programme>
     <programme start="20250427053000 +0000" stop="20250427060000 +0000" channel="WION HD">
         <title>Top Stories</title>
     </programme>
     <programme start="20250427060000 +0000" stop="20250427063000 +0000" channel="WION HD">
-        <title>The West Asia Post</title>
+        <title>World At War</title>
     </programme>
     <programme start="20250427063000 +0000" stop="20250427070000 +0000" channel="WION HD">
         <title>Top Stories</title>
     </programme>
     <programme start="20250427070000 +0000" stop="20250427073000 +0000" channel="WION HD">
-        <title>WION Business Masters</title>
+        <title>WION Wideangle</title>
     </programme>
     <programme start="20250427073000 +0000" stop="20250427080000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -16174,7 +16174,7 @@
         <title>Top Stories</title>
     </programme>
     <programme start="20250427090000 +0000" stop="20250427093000 +0000" channel="WION HD">
-        <title>Dharavi Dreams</title>
+        <title>Tech It Out</title>
     </programme>
     <programme start="20250427093000 +0000" stop="20250427100000 +0000" channel="WION HD">
         <title>Top Stories</title>
@@ -28146,92 +28146,95 @@
     <programme start="20250427060000 +0000" stop="20250427063000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250427063000 +0000" stop="20250427070000 +0000" channel="ATN">
-        <title>Chayer Chumuke</title>
+    <programme start="20250427063000 +0000" stop="20250427073000 +0000" channel="ATN">
+        <title>Gane Gane Golpo</title>
     </programme>
-    <programme start="20250427070000 +0000" stop="20250427080000 +0000" channel="ATN">
-        <title>Chatri Porano Nished</title>
+    <programme start="20250427073000 +0000" stop="20250427080000 +0000" channel="ATN">
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250427080000 +0000" stop="20250427083000 +0000" channel="ATN">
-        <title>Dhum Tana</title>
+        <title>Smritir Alpona Aki</title>
     </programme>
     <programme start="20250427083000 +0000" stop="20250427090000 +0000" channel="ATN">
-        <title>House No 420</title>
+        <title>Matir Subash</title>
     </programme>
     <programme start="20250427090000 +0000" stop="20250427093000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250427093000 +0000" stop="20250427100000 +0000" channel="ATN">
-        <title>Tune With Oyshi</title>
+    <programme start="20250427093000 +0000" stop="20250427105500 +0000" channel="ATN">
+        <title>The Chain</title>
     </programme>
-    <programme start="20250427100000 +0000" stop="20250427110000 +0000" channel="ATN">
-        <title>Bondhu Tumi Amar</title>
+    <programme start="20250427105500 +0000" stop="20250427110000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250427110000 +0000" stop="20250427121500 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+    <programme start="20250427110000 +0000" stop="20250427120500 +0000" channel="ATN">
+        <title>Dinkal</title>
     </programme>
-    <programme start="20250427121500 +0000" stop="20250427122000 +0000" channel="ATN">
+    <programme start="20250427120500 +0000" stop="20250427121000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250427122000 +0000" stop="20250427130000 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+    <programme start="20250427121000 +0000" stop="20250427130000 +0000" channel="ATN">
+        <title>Dinkal</title>
     </programme>
     <programme start="20250427130000 +0000" stop="20250427133000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250427133000 +0000" stop="20250427150000 +0000" channel="ATN">
-        <title>A Jibon Tomar Amar</title>
+    <programme start="20250427133000 +0000" stop="20250427145500 +0000" channel="ATN">
+        <title>Dinkal</title>
     </programme>
-    <programme start="20250427150000 +0000" stop="20250427153000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250427153000 +0000" stop="20250427163800 +0000" channel="ATN">
-        <title>Ami Shudhu Che-e-chi Tomai</title>
-    </programme>
-    <programme start="20250427163800 +0000" stop="20250427164300 +0000" channel="ATN">
-        <title>Asr Adhaan</title>
-    </programme>
-    <programme start="20250427164300 +0000" stop="20250427170000 +0000" channel="ATN">
-        <title>Ami Shudhu Che-e-chi Tomai</title>
-    </programme>
-    <programme start="20250427170000 +0000" stop="20250427173000 +0000" channel="ATN">
-        <title>ATN News</title>
-    </programme>
-    <programme start="20250427173000 +0000" stop="20250427180000 +0000" channel="ATN">
-        <title>Amader Eid</title>
-    </programme>
-    <programme start="20250427180000 +0000" stop="20250427181500 +0000" channel="ATN">
-        <title>House No 420</title>
-    </programme>
-    <programme start="20250427181500 +0000" stop="20250427183000 +0000" channel="ATN">
+    <programme start="20250427145500 +0000" stop="20250427150000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250427183000 +0000" stop="20250427184600 +0000" channel="ATN">
-        <title>Romantic Juddho</title>
-    </programme>
-    <programme start="20250427184600 +0000" stop="20250427185100 +0000" channel="ATN">
-        <title>Magrib Adhaan</title>
-    </programme>
-    <programme start="20250427185100 +0000" stop="20250427193000 +0000" channel="ATN">
-        <title>Romantic Juddho</title>
-    </programme>
-    <programme start="20250427193000 +0000" stop="20250427200500 +0000" channel="ATN">
-        <title>Protishodh</title>
-    </programme>
-    <programme start="20250427200500 +0000" stop="20250427201000 +0000" channel="ATN">
-        <title>Isha Adhaan</title>
-    </programme>
-    <programme start="20250427201000 +0000" stop="20250427203000 +0000" channel="ATN">
-        <title>Protishodh</title>
-    </programme>
-    <programme start="20250427203000 +0000" stop="20250427210000 +0000" channel="ATN">
+    <programme start="20250427150000 +0000" stop="20250427155500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427213000 +0000" channel="ATN">
-        <title>Music Mania</title>
+    <programme start="20250427155500 +0000" stop="20250427160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250427213000 +0000" stop="20250427223000 +0000" channel="ATN">
-        <title>Summer Vacation</title>
+    <programme start="20250427160000 +0000" stop="20250427163000 +0000" channel="ATN">
+        <title>Nupurer Chonde</title>
+    </programme>
+    <programme start="20250427163000 +0000" stop="20250427170000 +0000" channel="ATN">
+        <title>Mochibot Unlimited</title>
+    </programme>
+    <programme start="20250427170000 +0000" stop="20250427170500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250427170500 +0000" stop="20250427171000 +0000" channel="ATN">
+        <title>Asr Adhaan</title>
+    </programme>
+    <programme start="20250427171000 +0000" stop="20250427175500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250427175500 +0000" stop="20250427180000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
+    </programme>
+    <programme start="20250427180000 +0000" stop="20250427190000 +0000" channel="ATN">
+        <title>Crime Petrol</title>
+    </programme>
+    <programme start="20250427190000 +0000" stop="20250427192100 +0000" channel="ATN">
+        <title>Music Lounge</title>
+    </programme>
+    <programme start="20250427192100 +0000" stop="20250427192600 +0000" channel="ATN">
+        <title>Magrib Adhaan</title>
+    </programme>
+    <programme start="20250427192600 +0000" stop="20250427203000 +0000" channel="ATN">
+        <title>Music Lounge</title>
+    </programme>
+    <programme start="20250427203000 +0000" stop="20250427203300 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250427203300 +0000" stop="20250427203800 +0000" channel="ATN">
+        <title>Isha Adhaan</title>
+    </programme>
+    <programme start="20250427203800 +0000" stop="20250427210000 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="ATN">
+        <title>Bou Beshi Bujhe</title>
+    </programme>
+    <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="ATN">
+        <title>Ai Je Dunia</title>
     </programme>
     <programme start="20250426213000 +0000" stop="20250426220000 +0000" channel="NTV">
         <title>Probashi Poribar</title>
@@ -28572,13 +28575,13 @@
     <programme start="20250427110000 +0000" stop="20250427120000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250427120000 +0000" stop="20250427120600 +0000" channel="iON TV">
+    <programme start="20250427120000 +0000" stop="20250427120300 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250427120600 +0000" stop="20250427121100 +0000" channel="iON TV">
+    <programme start="20250427120300 +0000" stop="20250427120800 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250427121100 +0000" stop="20250427123000 +0000" channel="iON TV">
+    <programme start="20250427120800 +0000" stop="20250427123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250427123000 +0000" stop="20250427130000 +0000" channel="iON TV">
@@ -28593,40 +28596,34 @@
     <programme start="20250427150000 +0000" stop="20250427160000 +0000" channel="iON TV">
         <title>Documentary</title>
     </programme>
-    <programme start="20250427160000 +0000" stop="20250427164600 +0000" channel="iON TV">
+    <programme start="20250427160000 +0000" stop="20250427170100 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250427164600 +0000" stop="20250427165100 +0000" channel="iON TV">
+    <programme start="20250427170100 +0000" stop="20250427170600 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250427165100 +0000" stop="20250427170000 +0000" channel="iON TV">
-        <title>Drama Time</title>
-    </programme>
-    <programme start="20250427170000 +0000" stop="20250427173800 +0000" channel="iON TV">
+    <programme start="20250427170600 +0000" stop="20250427180000 +0000" channel="iON TV">
         <title>Travel Show</title>
     </programme>
-    <programme start="20250427173800 +0000" stop="20250427180000 +0000" channel="iON TV">
-        <title>Travel Show</title>
-    </programme>
-    <programme start="20250427180000 +0000" stop="20250427185700 +0000" channel="iON TV">
+    <programme start="20250427180000 +0000" stop="20250427190000 +0000" channel="iON TV">
         <title>Prokriti O Jibon</title>
     </programme>
-    <programme start="20250427185700 +0000" stop="20250427190200 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250427190200 +0000" stop="20250427200000 +0000" channel="iON TV">
+    <programme start="20250427190000 +0000" stop="20250427192100 +0000" channel="iON TV">
         <title>Sahih Quran Shikha</title>
     </programme>
-    <programme start="20250427200000 +0000" stop="20250427201200 +0000" channel="iON TV">
+    <programme start="20250427192100 +0000" stop="20250427192600 +0000" channel="iON TV">
+        <title>Azan-e-Maghrib</title>
+    </programme>
+    <programme start="20250427192600 +0000" stop="20250427200000 +0000" channel="iON TV">
+        <title>Sahih Quran Shikha</title>
+    </programme>
+    <programme start="20250427200000 +0000" stop="20250427203300 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
-    <programme start="20250427201200 +0000" stop="20250427201700 +0000" channel="iON TV">
+    <programme start="20250427203300 +0000" stop="20250427203800 +0000" channel="iON TV">
         <title>Azan-e-Isha</title>
     </programme>
-    <programme start="20250427201700 +0000" stop="20250427203000 +0000" channel="iON TV">
-        <title>News 24</title>
-    </programme>
-    <programme start="20250427203000 +0000" stop="20250427210000 +0000" channel="iON TV">
+    <programme start="20250427203800 +0000" stop="20250427210000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="iON TV">
