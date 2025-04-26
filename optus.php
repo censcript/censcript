@@ -267,6 +267,9 @@
     <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
+    <programme start="20250507170000 +0000" stop="20250507173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories</title>
+    </programme>
     <programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kawasaki</title>
-    </programme>
-    <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Yokohama FM</title>
     </programme>
 </tv>

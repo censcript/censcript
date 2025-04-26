@@ -13123,7 +13123,7 @@
         <title>Live NRL: NQ Cowboys v Titans</title>
     </programme>
     <programme start="20250426093000 +0000" stop="20250426113000 +0000" channel="SkySp NFL HD">
-        <title>Live Super Rugby</title>
+        <title>Live S/Rugby: Brumbies v H'Canes</title>
     </programme>
     <programme start="20250426113000 +0000" stop="20250426141500 +0000" channel="SkySp NFL HD">
         <title>S/Lge: Leeds v Hull KR</title>
@@ -27282,13 +27282,13 @@
     <programme start="20250426155700 +0000" stop="20250426160100 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250426160100 +0000" stop="20250426162000 +0000" channel="Eman Channel">
+    <programme start="20250426160100 +0000" stop="20250426162500 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
-    <programme start="20250426162000 +0000" stop="20250426165000 +0000" channel="Eman Channel">
+    <programme start="20250426162500 +0000" stop="20250426165200 +0000" channel="Eman Channel">
         <title>The Adventures of Saladin</title>
     </programme>
-    <programme start="20250426165000 +0000" stop="20250426170000 +0000" channel="Eman Channel">
+    <programme start="20250426165200 +0000" stop="20250426170000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
     <programme start="20250426170000 +0000" stop="20250426180000 +0000" channel="Eman Channel">
