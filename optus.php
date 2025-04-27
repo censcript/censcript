@@ -43,7 +43,7 @@
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Emile Smith Rowe</title>
     </programme>
     <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Bayern Munich v Werder Bremen</title>
@@ -69,7 +69,7 @@
     <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
     </programme>
-    <programme start="20250502213000 +0000" stop="20250502220000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250502213000 +0000" stop="20250502223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
@@ -159,6 +159,15 @@
     <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Bay FC</title>
     </programme>
+    <programme start="20250505072000 +0000" stop="20250505094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Ulsan v Pohang</title>
+    </programme>
+    <programme start="20250505072000 +0000" stop="20250505094000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gwangju v Gimcheon</title>
+    </programme>
+    <programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
     <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
     </programme>
@@ -177,6 +186,9 @@
     <programme start="20250506010000 +0000" stop="20250506013000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Netbusters</title>
     </programme>
+    <programme start="20250506045000 +0000" stop="20250506071000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Jeonbuk v Daejeon</title>
+    </programme>
     <programme start="20250506045500 +0000" stop="20250506071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Gamba</title>
     </programme>
@@ -186,8 +198,8 @@
     <programme start="20250506080000 +0000" stop="20250506090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Alan Shearer</title>
     </programme>
-    <programme start="20250506120000 +0000" stop="20250506130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    <programme start="20250506095000 +0000" stop="20250506121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Anyang v Seoul</title>
     </programme>
     <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Shonan v Sanfrecce</title>
@@ -221,6 +233,9 @@
     </programme>
     <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Fagiano Okayama</title>
+    </programme>
+    <programme start="20250510072000 +0000" stop="20250510094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Pohang v Suwon FC</title>
     </programme>
     <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
@@ -284,14 +299,5 @@
     </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Shimizu</title>
-    </programme>
-    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Germany v Portugal</title>
-    </programme>
-    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Spain v France</title>
-    </programme>
-    <programme start="20260503135000 +0000" stop="20260503162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>
