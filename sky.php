@@ -28095,13 +28095,13 @@
     <programme start="20250428220000 +0000" stop="20250428230000 +0000" channel="Eman Channel">
         <title>Quran Circle</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427223000 +0000" channel="ARY Digital">
+    <programme start="20250427210000 +0000" stop="20250427223500 +0000" channel="ARY Digital">
         <title>Mujhe Pyaar Hua Tha</title>
     </programme>
-    <programme start="20250427223000 +0000" stop="20250427230000 +0000" channel="ARY Digital">
+    <programme start="20250427223500 +0000" stop="20250427230400 +0000" channel="ARY Digital">
         <title>Bulbulay</title>
     </programme>
-    <programme start="20250427230000 +0000" stop="20250428000000 +0000" channel="ARY Digital">
+    <programme start="20250427230400 +0000" stop="20250428000000 +0000" channel="ARY Digital">
         <title>Dastak</title>
     </programme>
     <programme start="20250428000000 +0000" stop="20250428010000 +0000" channel="ARY Digital">

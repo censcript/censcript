@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427152000 +0000" stop="20250427184000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Nottingham Forest v Manchester City</title>
-    </programme>
-    <programme start="20250427152000 +0000" stop="20250427183000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Liverpool v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250427190000 +0000" stop="20250427203000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -299,5 +293,8 @@
     </programme>
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
+    </programme>
+    <programme start="20260503135000 +0000" stop="20260503162000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
 </tv>
