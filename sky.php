@@ -1701,13 +1701,10 @@
     <programme start="20250427192500 +0000" stop="20250427210000 +0000" channel="ITV4 HD">
         <title>For Your Eyes Only</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="ITV4 HD">
-        <title>The Silence of the Lambs</title>
+    <programme start="20250427210000 +0000" stop="20250427222000 +0000" channel="ITV4 HD">
+        <title>Fatal Fury: Eubank v Benn Highlights</title>
     </programme>
-    <programme start="20250427220000 +0000" stop="20250427220500 +0000" channel="ITV4 HD">
-        <title>FYI Daily</title>
-    </programme>
-    <programme start="20250427220500 +0000" stop="20250427230500 +0000" channel="ITV4 HD">
+    <programme start="20250427222000 +0000" stop="20250427232000 +0000" channel="ITV4 HD">
         <title>The Silence of the Lambs</title>
     </programme>
     <programme start="20250426200000 +0000" stop="20250426220000 +0000" channel="SkyDocmntrsHD">
@@ -7942,7 +7939,7 @@
         <title>For Your Eyes Only</title>
     </programme>
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="ITV4+1">
-        <title>The Silence of the Lambs</title>
+        <title>Fatal Fury: Eubank v Benn Highlights</title>
     </programme>
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="Sky Crime+1">
         <title>World's Most Evil Killers</title>
@@ -26994,10 +26991,10 @@
     <programme start="20250427120300 +0000" stop="20250427120700 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
-    <programme start="20250427120700 +0000" stop="20250427130200 +0000" channel="Eman Channel">
+    <programme start="20250427120700 +0000" stop="20250427130000 +0000" channel="Eman Channel">
         <title>Repeat: Alif Laam Meem</title>
     </programme>
-    <programme start="20250427130200 +0000" stop="20250427140000 +0000" channel="Eman Channel">
+    <programme start="20250427130000 +0000" stop="20250427140000 +0000" channel="Eman Channel">
         <title>Light Upon Light Winter 2024</title>
     </programme>
     <programme start="20250427140000 +0000" stop="20250427144500 +0000" channel="Eman Channel">
@@ -27054,10 +27051,10 @@
     <programme start="20250427194500 +0000" stop="20250427203300 +0000" channel="Eman Channel">
         <title>The Firsts</title>
     </programme>
-    <programme start="20250427203300 +0000" stop="20250427204000 +0000" channel="Eman Channel">
+    <programme start="20250427203300 +0000" stop="20250427203800 +0000" channel="Eman Channel">
         <title>Isha Adhan</title>
     </programme>
-    <programme start="20250427204000 +0000" stop="20250427212000 +0000" channel="Eman Channel">
+    <programme start="20250427203800 +0000" stop="20250427212000 +0000" channel="Eman Channel">
         <title>The Firsts</title>
     </programme>
     <programme start="20250427212000 +0000" stop="20250427213500 +0000" channel="Eman Channel">
