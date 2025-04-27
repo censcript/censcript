@@ -12499,7 +12499,7 @@
         <title>EFL 24/25: Oxford v Sunderland</title>
     </programme>
     <programme start="20250427100000 +0000" stop="20250427120000 +0000" channel="SkySp F'ball HD">
-        <title>SPFL: Dundee United v Rangers</title>
+        <title>SPFL: Dundee United v Celtic</title>
     </programme>
     <programme start="20250427120000 +0000" stop="20250427121500 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Hull City v Derby</title>
