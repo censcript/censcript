@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427072000 +0000" stop="20250427094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daejeon v Gangwon</title>
-    </programme>
     <programme start="20250427105500 +0000" stop="20250427131000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Liverpool v Tottenham Hotspur</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kawasaki v Gamba</title>
+    </programme>
+    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Yokohama FM</title>
     </programme>
 </tv>
