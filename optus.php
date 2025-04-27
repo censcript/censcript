@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427190000 +0000" stop="20250427203000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250427200000 +0000" stop="20250427223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Portland Thorns FC v Racing Louisville FC</title>
     </programme>

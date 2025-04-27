@@ -1440,22 +1440,25 @@
     <programme start="20250428223000 +0000" stop="20250428233000 +0000" channel="BBC Three HD">
         <title>Cuckoo</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427223000 +0000" channel="BBC Four HD">
+    <programme start="20250427191500 +0000" stop="20250427220000 +0000" channel="BBC Four HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250427220000 +0000" stop="20250427233000 +0000" channel="BBC Four HD">
         <title>Leonard Bernstein's West Side Story - Omnibus</title>
     </programme>
-    <programme start="20250427223000 +0000" stop="20250427232000 +0000" channel="BBC Four HD">
+    <programme start="20250427233000 +0000" stop="20250428002000 +0000" channel="BBC Four HD">
         <title>Bryn on Broadway</title>
     </programme>
-    <programme start="20250427232000 +0000" stop="20250428002000 +0000" channel="BBC Four HD">
+    <programme start="20250428002000 +0000" stop="20250428012000 +0000" channel="BBC Four HD">
         <title>South Pacific in London</title>
     </programme>
-    <programme start="20250428002000 +0000" stop="20250428011000 +0000" channel="BBC Four HD">
+    <programme start="20250428012000 +0000" stop="20250428021000 +0000" channel="BBC Four HD">
         <title>Bryn on Broadway</title>
     </programme>
-    <programme start="20250428011000 +0000" stop="20250428021000 +0000" channel="BBC Four HD">
+    <programme start="20250428021000 +0000" stop="20250428031000 +0000" channel="BBC Four HD">
         <title>Lee Miller - A Life on the Front Line</title>
     </programme>
-    <programme start="20250428021000 +0000" stop="20250428043000 +0000" channel="BBC Four HD">
+    <programme start="20250428031000 +0000" stop="20250428043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250428043000 +0000" stop="20250428103000 +0000" channel="BBC Four HD">
@@ -36270,10 +36273,13 @@
     <programme start="20250428220000 +0000" stop="20250428230000 +0000" channel="BBC Two NI HD">
         <title>Stephen Rea: The Fire in Me Now</title>
     </programme>
-    <programme start="20250427213000 +0000" stop="20250427235500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250427180000 +0000" stop="20250427220000 +0000" channel="BBC RB 1 HD">
+        <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250427220000 +0000" stop="20250428002500 +0000" channel="BBC RB 1 HD">
         <title>Women's Super League: Crystal Palace v West Ham</title>
     </programme>
-    <programme start="20250427235500 +0000" stop="20250428010000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250428002500 +0000" stop="20250428010000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250428010000 +0000" stop="20250428050000 +0000" channel="BBC RB 1 HD">
