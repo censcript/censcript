@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427020000 +0000" stop="20250427043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Bay FC v Seattle Reign</title>
-    </programme>
     <programme start="20250427045000 +0000" stop="20250427071000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Pohang v Seoul</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shimizu v Vissel Kobe</title>
     </programme>
 </tv>
