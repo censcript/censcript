@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427200000 +0000" stop="20250427223000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Portland Thorns FC v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -237,6 +231,9 @@
     <programme start="20250510072000 +0000" stop="20250510094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Pohang v Suwon FC</title>
     </programme>
+    <programme start="20250510095000 +0000" stop="20250510121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Daejeon v Seoul</title>
+    </programme>
     <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
@@ -248,6 +245,12 @@
     </programme>
     <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Yokohama FM</title>
+    </programme>
+    <programme start="20250511072000 +0000" stop="20250511094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Jeju v Ulsan</title>
+    </programme>
+    <programme start="20250511095000 +0000" stop="20250511121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gwangju v Jeonbuk</title>
     </programme>
     <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
-    </programme>
-    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Shimizu</title>
     </programme>
 </tv>
