@@ -12903,11 +12903,17 @@
     <programme start="20250427141500 +0000" stop="20250427151500 +0000" channel="SkySp NFL HD">
         <title>Fight Night: Navarrete v Berinchyk</title>
     </programme>
-    <programme start="20250427151500 +0000" stop="20250427180000 +0000" channel="SkySp NFL HD">
+    <programme start="20250427151500 +0000" stop="20250427180001 +0000" channel="SkySp NFL HD">
         <title>S/Lge: Warrington v St Helens</title>
     </programme>
-    <programme start="20250427180000 +0000" stop="20250427204500 +0000" channel="SkySp NFL HD">
-        <title>S/Lge: Leeds v Hull KR</title>
+    <programme start="20250427180001 +0000" stop="20250427193501 +0000" channel="SkySp NFL HD">
+        <title>Rugby Champs Classic:AUS v NZ 2000</title>
+    </programme>
+    <programme start="20250427193501 +0000" stop="20250427203001 +0000" channel="SkySp NFL HD">
+        <title>Crusaders v Blues 1998</title>
+    </programme>
+    <programme start="20250427203001 +0000" stop="20250427204500 +0000" channel="SkySp NFL HD">
+        <title>My Icon: Martin Offiah</title>
     </programme>
     <programme start="20250427204500 +0000" stop="20250427214500 +0000" channel="SkySp NFL HD">
         <title>Super League Grand Final</title>
@@ -27829,13 +27835,13 @@
         <title>Rehraas Sahib</title>
     </programme>
     <programme start="20250427170000 +0000" stop="20250427180000 +0000" channel="PBC">
-        <title>Wah Vi Wah</title>
+        <title>PBC Live</title>
     </programme>
     <programme start="20250427180000 +0000" stop="20250427190000 +0000" channel="PBC">
-        <title>Velati Sath</title>
+        <title>PBC Live</title>
     </programme>
     <programme start="20250427190000 +0000" stop="20250427200000 +0000" channel="PBC">
-        <title>PBC Live</title>
+        <title>The 1 Show</title>
     </programme>
     <programme start="20250427200000 +0000" stop="20250427210000 +0000" channel="PBC">
         <title>PBC Special Show</title>
