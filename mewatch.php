@@ -327,109 +327,103 @@
     <programme start="20250427154449 +0000" stop="20250427163908 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 11</title>
     </programme>
-    <programme start="20250426160000 +0000" stop="20250427010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250427010000 +0000" stop="20250427013000 +0000" channel="Suria.mewatch">
+    <programme start="20250427010000 +0000" stop="20250427012958 +0000" channel="Suria.mewatch">
         <title>Upin &amp; Ipin S10 - EP 6</title>
     </programme>
-    <programme start="20250427013000 +0000" stop="20250427020000 +0000" channel="Suria.mewatch">
+    <programme start="20250427012958 +0000" stop="20250427020006 +0000" channel="Suria.mewatch">
         <title>Mata Pancing - EP 1</title>
     </programme>
-    <programme start="20250427020000 +0000" stop="20250427030000 +0000" channel="Suria.mewatch">
+    <programme start="20250427020006 +0000" stop="20250427030005 +0000" channel="Suria.mewatch">
         <title>Cantik Detektif S5 - EP 4</title>
     </programme>
-    <programme start="20250427030000 +0000" stop="20250427040000 +0000" channel="Suria.mewatch">
+    <programme start="20250427030005 +0000" stop="20250427040006 +0000" channel="Suria.mewatch">
         <title>Tuah 13 S3 - EP 12</title>
     </programme>
-    <programme start="20250427040000 +0000" stop="20250427043000 +0000" channel="Suria.mewatch">
+    <programme start="20250427040006 +0000" stop="20250427043008 +0000" channel="Suria.mewatch">
         <title>Sweet Treats - EP 4</title>
     </programme>
-    <programme start="20250427043000 +0000" stop="20250427050000 +0000" channel="Suria.mewatch">
+    <programme start="20250427043008 +0000" stop="20250427050010 +0000" channel="Suria.mewatch">
         <title>Chill &amp; Healing S1 - EP 4</title>
     </programme>
-    <programme start="20250427050000 +0000" stop="20250427060000 +0000" channel="Suria.mewatch">
+    <programme start="20250427050010 +0000" stop="20250427060007 +0000" channel="Suria.mewatch">
         <title>Wifi Sebelah Rumah - EP 5</title>
     </programme>
-    <programme start="20250427060000 +0000" stop="20250427070000 +0000" channel="Suria.mewatch">
+    <programme start="20250427060007 +0000" stop="20250427070010 +0000" channel="Suria.mewatch">
         <title>Wifi Sebelah Rumah - EP 7</title>
     </programme>
-    <programme start="20250427070000 +0000" stop="20250427080000 +0000" channel="Suria.mewatch">
+    <programme start="20250427070010 +0000" stop="20250427080016 +0000" channel="Suria.mewatch">
         <title>Sepahtu Reunion Al Raya - EP 7</title>
     </programme>
-    <programme start="20250427080000 +0000" stop="20250427090000 +0000" channel="Suria.mewatch">
+    <programme start="20250427080016 +0000" stop="20250427090019 +0000" channel="Suria.mewatch">
         <title>Mencari Marina - EP 2</title>
     </programme>
-    <programme start="20250427090000 +0000" stop="20250427100000 +0000" channel="Suria.mewatch">
+    <programme start="20250427090019 +0000" stop="20250427100012 +0000" channel="Suria.mewatch">
         <title>Restu - EP 9</title>
     </programme>
-    <programme start="20250427100000 +0000" stop="20250427103000 +0000" channel="Suria.mewatch">
+    <programme start="20250427100012 +0000" stop="20250427103003 +0000" channel="Suria.mewatch">
         <title>Upin &amp; Ipin S10 - EP 6</title>
     </programme>
-    <programme start="20250427103000 +0000" stop="20250427110000 +0000" channel="Suria.mewatch">
+    <programme start="20250427103003 +0000" stop="20250427110000 +0000" channel="Suria.mewatch">
         <title>Mata Pancing - EP 2</title>
     </programme>
-    <programme start="20250427110000 +0000" stop="20250427113000 +0000" channel="Suria.mewatch">
+    <programme start="20250427110000 +0000" stop="20250427113001 +0000" channel="Suria.mewatch">
         <title>Sweet Treats - EP 4</title>
     </programme>
-    <programme start="20250427113000 +0000" stop="20250427120000 +0000" channel="Suria.mewatch">
+    <programme start="20250427113001 +0000" stop="20250427120000 +0000" channel="Suria.mewatch">
         <title>Chill &amp; Healing S1 - EP 4</title>
     </programme>
-    <programme start="20250427120000 +0000" stop="20250427123000 +0000" channel="Suria.mewatch">
+    <programme start="20250427120000 +0000" stop="20250427123017 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250427123000 +0000" stop="20250427133000 +0000" channel="Suria.mewatch">
+    <programme start="20250427123017 +0000" stop="20250427133029 +0000" channel="Suria.mewatch">
         <title>Sepahtu Reunion Al Raya - EP 8</title>
     </programme>
-    <programme start="20250427133000 +0000" stop="20250427143000 +0000" channel="Suria.mewatch">
+    <programme start="20250427133029 +0000" stop="20250427143008 +0000" channel="Suria.mewatch">
         <title>Restu - EP 10</title>
     </programme>
-    <programme start="20250427143000 +0000" stop="20250427153000 +0000" channel="Suria.mewatch">
+    <programme start="20250427143008 +0000" stop="20250427153000 +0000" channel="Suria.mewatch">
         <title>Andai Itu Takdirnya - EP 1</title>
     </programme>
-    <programme start="20250427153000 +0000" stop="20250427160000 +0000" channel="Suria.mewatch">
+    <programme start="20250427153000 +0000" stop="20250427160027 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250427160000 +0000" stop="20250428010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250426140000 +0000" stop="20250426170000 +0000" channel="Vasantham.mewatch">
         <title>Iraivan</title>
     </programme>
-    <programme start="20250426170000 +0000" stop="20250426173000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250426170000 +0000" stop="20250426172945 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250426173000 +0000" stop="20250427010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250426172945 +0000" stop="20250427010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250427010000 +0000" stop="20250427020000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427010000 +0000" stop="20250427015957 +0000" channel="Vasantham.mewatch">
         <title>Legends of India Season 1 - EP 7</title>
     </programme>
-    <programme start="20250427020000 +0000" stop="20250427050000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427015957 +0000" stop="20250427045955 +0000" channel="Vasantham.mewatch">
         <title>Unnai Ninathu</title>
     </programme>
-    <programme start="20250427050000 +0000" stop="20250427073000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427045955 +0000" stop="20250427072958 +0000" channel="Vasantham.mewatch">
         <title>Anandam Paramanandam</title>
     </programme>
-    <programme start="20250427073000 +0000" stop="20250427080000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427072958 +0000" stop="20250427075959 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 4</title>
     </programme>
-    <programme start="20250427080000 +0000" stop="20250427110000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427075959 +0000" stop="20250427110000 +0000" channel="Vasantham.mewatch">
         <title>Ippadai Vellum</title>
     </programme>
-    <programme start="20250427110000 +0000" stop="20250427120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427110000 +0000" stop="20250427120001 +0000" channel="Vasantham.mewatch">
         <title>Rap Porkalam S2 - EP 4</title>
     </programme>
-    <programme start="20250427120000 +0000" stop="20250427123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427120001 +0000" stop="20250427123000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 1</title>
     </programme>
     <programme start="20250427123000 +0000" stop="20250427130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250427130000 +0000" stop="20250427140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427130000 +0000" stop="20250427140002 +0000" channel="Vasantham.mewatch">
         <title>Raja Paarvai - EP 3</title>
     </programme>
-    <programme start="20250427140000 +0000" stop="20250427170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427140002 +0000" stop="20250427170000 +0000" channel="Vasantham.mewatch">
         <title>Thadam</title>
     </programme>
     <programme start="20250426160000 +0000" stop="20250426160315 +0000" channel="CNA.mewatch">

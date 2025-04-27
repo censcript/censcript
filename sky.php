@@ -105,11 +105,11 @@
     <programme start="20250427080000 +0000" stop="20250427090000 +0000" channel="BBC Two HD">
         <title>Sunday with Laura Kuenssberg</title>
     </programme>
-    <programme start="20250427090000 +0000" stop="20250427112500 +0000" channel="BBC Two HD">
+    <programme start="20250427090000 +0000" stop="20250427121000 +0000" channel="BBC Two HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250427112500 +0000" stop="20250427122500 +0000" channel="BBC Two HD">
-        <title>Interior Design Masters with Alan Carr</title>
+    <programme start="20250427121000 +0000" stop="20250427122500 +0000" channel="BBC Two HD">
+        <title>Best Dishes Ever</title>
     </programme>
     <programme start="20250427122500 +0000" stop="20250427130000 +0000" channel="BBC Two HD">
         <title>Songs of Praise: Positive Power of Community</title>
@@ -34470,11 +34470,11 @@
     <programme start="20250427080000 +0000" stop="20250427090000 +0000" channel="BBC Two NI HD">
         <title>Sunday with Laura Kuenssberg</title>
     </programme>
-    <programme start="20250427090000 +0000" stop="20250427112500 +0000" channel="BBC Two NI HD">
+    <programme start="20250427090000 +0000" stop="20250427121000 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250427112500 +0000" stop="20250427122500 +0000" channel="BBC Two NI HD">
-        <title>Interior Design Masters with Alan Carr</title>
+    <programme start="20250427121000 +0000" stop="20250427122500 +0000" channel="BBC Two NI HD">
+        <title>Best Dishes Ever</title>
     </programme>
     <programme start="20250427122500 +0000" stop="20250427130000 +0000" channel="BBC Two NI HD">
         <title>Songs of Praise: Positive Power of Community</title>
@@ -36050,9 +36050,6 @@
     </programme>
     <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="BBC R1X">
         <title>BBC Introducing on 1Xtra with Theo Johnson</title>
-    </programme>
-    <programme start="20250426120000 +0000" stop="20250427080000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
     </programme>
     <programme start="20250427080000 +0000" stop="20250427083000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
