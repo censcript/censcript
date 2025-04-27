@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427120000 +0000" stop="20250427152000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v Manchester United</title>
-    </programme>
-    <programme start="20250427125500 +0000" stop="20250427151000 +0000" channel="Optus Sport 8.optus">
-        <title>Women&#039;s Super League - Everton v Brighton and Hove Albion</title>
-    </programme>
     <programme start="20250427135500 +0000" stop="20250427161000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Leicester v Manchester City</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
+    </programme>
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Shimizu</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
 </tv>

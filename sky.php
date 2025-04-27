@@ -13272,11 +13272,11 @@
     <programme start="20250427200000 +0000" stop="20250427210000 +0000" channel="SkySp Mix HD">
         <title>PSL: Lahore Q v Peshawar Z Hlts</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="SkySp Mix HD">
+    <programme start="20250427210000 +0000" stop="20250427220001 +0000" channel="SkySp Mix HD">
         <title>PSL: Quetta G v Karachi K Hlts</title>
     </programme>
-    <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="SkySp Mix HD">
-        <title>S//Lge: Leeds v Hull KR</title>
+    <programme start="20250427220001 +0000" stop="20250427230001 +0000" channel="SkySp Mix HD">
+        <title>Rugby Champs Classic:SA v NZ 2013</title>
     </programme>
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="TNT Sports 3">
         <title>The Ultimate Cycling Show</title>
@@ -28212,10 +28212,10 @@
     <programme start="20250427175500 +0000" stop="20250427180000 +0000" channel="ATN">
         <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250427180000 +0000" stop="20250427190000 +0000" channel="ATN">
+    <programme start="20250427180000 +0000" stop="20250427185500 +0000" channel="ATN">
         <title>Crime Petrol</title>
     </programme>
-    <programme start="20250427190000 +0000" stop="20250427192100 +0000" channel="ATN">
+    <programme start="20250427185500 +0000" stop="20250427192100 +0000" channel="ATN">
         <title>Music Lounge</title>
     </programme>
     <programme start="20250427192100 +0000" stop="20250427192600 +0000" channel="ATN">
@@ -28234,7 +28234,7 @@
         <title>ATN News</title>
     </programme>
     <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="ATN">
-        <title>Bou Beshi Bujhe</title>
+        <title>Music Lounge</title>
     </programme>
     <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="ATN">
         <title>Ai Je Dunia</title>
@@ -32175,11 +32175,11 @@
     <programme start="20250427200000 +0000" stop="20250427210000 +0000" channel="SkySp Mix">
         <title>PSL: Lahore Q v Peshawar Z Hlts</title>
     </programme>
-    <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="SkySp Mix">
+    <programme start="20250427210000 +0000" stop="20250427220001 +0000" channel="SkySp Mix">
         <title>PSL: Quetta G v Karachi K Hlts</title>
     </programme>
-    <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="SkySp Mix">
-        <title>S//Lge: Leeds v Hull KR</title>
+    <programme start="20250427220001 +0000" stop="20250427230001 +0000" channel="SkySp Mix">
+        <title>Rugby Champs Classic:SA v NZ 2013</title>
     </programme>
     <programme start="20250426210000 +0000" stop="20250426220000 +0000" channel="TNTSports3 HD">
         <title>The Ultimate Cycling Show</title>
@@ -34533,10 +34533,10 @@
     <programme start="20250427090000 +0000" stop="20250427111500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250427111500 +0000" stop="20250427134000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250427111500 +0000" stop="20250427133500 +0000" channel="BBC RB 1 HD">
         <title>Women's Super League: Crystal Palace v West Ham</title>
     </programme>
-    <programme start="20250427134000 +0000" stop="20250427170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250427133500 +0000" stop="20250427170000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
     <programme start="20250427170000 +0000" stop="20250427180000 +0000" channel="BBC RB 1 HD">

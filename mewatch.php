@@ -390,10 +390,10 @@
     <programme start="20250426140000 +0000" stop="20250426170000 +0000" channel="Vasantham.mewatch">
         <title>Iraivan</title>
     </programme>
-    <programme start="20250426170000 +0000" stop="20250426172945 +0000" channel="Vasantham.mewatch">
+    <programme start="20250426165950 +0000" stop="20250426172927 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250426172945 +0000" stop="20250427010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250426172927 +0000" stop="20250427010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250427010000 +0000" stop="20250427015957 +0000" channel="Vasantham.mewatch">
