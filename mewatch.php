@@ -387,8 +387,11 @@
     <programme start="20250427143000 +0000" stop="20250427153000 +0000" channel="Suria.mewatch">
         <title>Andai Itu Takdirnya - EP 1</title>
     </programme>
-    <programme start="20250427153000 +0000" stop="20250427160027 +0000" channel="Suria.mewatch">
+    <programme start="20250427153000 +0000" stop="20250427160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
+    </programme>
+    <programme start="20250427160000 +0000" stop="20250428010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250426140000 +0000" stop="20250426170000 +0000" channel="Vasantham.mewatch">
         <title>Iraivan</title>
