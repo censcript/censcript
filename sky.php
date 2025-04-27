@@ -29064,16 +29064,13 @@
     <programme start="20250428090000 +0000" stop="20250428100000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250428100000 +0000" stop="20250428120000 +0000" channel="CHSTV">
-        <title>Bisonno Sondhar Diary</title>
+    <programme start="20250428100000 +0000" stop="20250428120300 +0000" channel="CHSTV">
+        <title>Mr &amp; Mrs Chapabaz</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428120800 +0000" channel="CHSTV">
-        <title>Tafsir</title>
-    </programme>
-    <programme start="20250428120800 +0000" stop="20250428121400 +0000" channel="CHSTV">
+    <programme start="20250428120300 +0000" stop="20250428120700 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250428121400 +0000" stop="20250428130000 +0000" channel="CHSTV">
+    <programme start="20250428120700 +0000" stop="20250428130000 +0000" channel="CHSTV">
         <title>Tafsir</title>
     </programme>
     <programme start="20250428130000 +0000" stop="20250428133000 +0000" channel="CHSTV">
@@ -29094,14 +29091,14 @@
     <programme start="20250428153000 +0000" stop="20250428160000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250428160000 +0000" stop="20250428163900 +0000" channel="CHSTV">
+    <programme start="20250428160000 +0000" stop="20250428170200 +0000" channel="CHSTV">
         <title>Talim- ul-Quran</title>
     </programme>
-    <programme start="20250428163900 +0000" stop="20250428164500 +0000" channel="CHSTV">
+    <programme start="20250428170200 +0000" stop="20250428170800 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250428164500 +0000" stop="20250428173000 +0000" channel="CHSTV">
-        <title>Tajweed- ul-Quran</title>
+    <programme start="20250428170800 +0000" stop="20250428173000 +0000" channel="CHSTV">
+        <title>Talim- ul-Quran</title>
     </programme>
     <programme start="20250428173000 +0000" stop="20250428180000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
@@ -29109,25 +29106,25 @@
     <programme start="20250428180000 +0000" stop="20250428183000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250428183000 +0000" stop="20250428183900 +0000" channel="CHSTV">
+    <programme start="20250428183000 +0000" stop="20250428190000 +0000" channel="CHSTV">
         <title>Milon Hobe Kotodine</title>
     </programme>
-    <programme start="20250428183900 +0000" stop="20250428184500 +0000" channel="CHSTV">
+    <programme start="20250428190000 +0000" stop="20250428192200 +0000" channel="CHSTV">
+        <title>Islam Essentials</title>
+    </programme>
+    <programme start="20250428192200 +0000" stop="20250428193000 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250428184500 +0000" stop="20250428190000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
-    </programme>
-    <programme start="20250428190000 +0000" stop="20250428200300 +0000" channel="CHSTV">
+    <programme start="20250428193000 +0000" stop="20250428203000 +0000" channel="CHSTV">
         <title>Islam Essentials</title>
     </programme>
-    <programme start="20250428200300 +0000" stop="20250428201000 +0000" channel="CHSTV">
+    <programme start="20250428203000 +0000" stop="20250428203500 +0000" channel="CHSTV">
+        <title>Amader Gram</title>
+    </programme>
+    <programme start="20250428203500 +0000" stop="20250428204000 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250428201000 +0000" stop="20250428203000 +0000" channel="CHSTV">
-        <title>Islam Essentials</title>
-    </programme>
-    <programme start="20250428203000 +0000" stop="20250428210000 +0000" channel="CHSTV">
+    <programme start="20250428204000 +0000" stop="20250428210000 +0000" channel="CHSTV">
         <title>Amader Gram</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428213000 +0000" channel="CHSTV">
