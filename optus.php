@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250427135500 +0000" stop="20250427161000 +0000" channel="Optus Sport 10.optus">
-        <title>Women&#039;s Super League - Leicester v Manchester City</title>
-    </programme>
     <programme start="20250427152000 +0000" stop="20250427184000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Nottingham Forest v Manchester City</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>

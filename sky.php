@@ -13803,8 +13803,41 @@
     <programme start="20250427164500 +0000" stop="20250427171500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250427171500 +0000" stop="20250427181500 +0000" channel="Racing TV">
-        <title>Punchestown Festival 2024</title>
+    <programme start="20250427171500 +0000" stop="20250427174500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427174500 +0000" stop="20250427181500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427181500 +0000" stop="20250427184500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427184500 +0000" stop="20250427191500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427191500 +0000" stop="20250427194500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427194500 +0000" stop="20250427201500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427201500 +0000" stop="20250427204500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427204500 +0000" stop="20250427211500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427211500 +0000" stop="20250427214500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427214500 +0000" stop="20250427221500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427221500 +0000" stop="20250427224500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427224500 +0000" stop="20250427234500 +0000" channel="Racing TV">
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250426170000 +0000" stop="20250426230000 +0000" channel="TNTSBoxOffHD">
         <title>...programmes coming soon</title>
@@ -32331,8 +32364,41 @@
     <programme start="20250427164500 +0000" stop="20250427171500 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250427171500 +0000" stop="20250427181500 +0000" channel="Racing TV HD">
-        <title>Punchestown Festival 2024</title>
+    <programme start="20250427171500 +0000" stop="20250427174500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427174500 +0000" stop="20250427181500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427181500 +0000" stop="20250427184500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427184500 +0000" stop="20250427191500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427191500 +0000" stop="20250427194500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427194500 +0000" stop="20250427201500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427201500 +0000" stop="20250427204500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427204500 +0000" stop="20250427211500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427211500 +0000" stop="20250427214500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427214500 +0000" stop="20250427221500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427221500 +0000" stop="20250427224500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
+    </programme>
+    <programme start="20250427224500 +0000" stop="20250427234500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250426213000 +0000" stop="20250426220000 +0000" channel="Sky News">
         <title>Press Preview</title>
@@ -34536,10 +34602,10 @@
     <programme start="20250427111500 +0000" stop="20250427133500 +0000" channel="BBC RB 1 HD">
         <title>Women's Super League: Crystal Palace v West Ham</title>
     </programme>
-    <programme start="20250427133500 +0000" stop="20250427170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250427133500 +0000" stop="20250427160500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250427170000 +0000" stop="20250427180000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250427160500 +0000" stop="20250427180000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250427180000 +0000" stop="20250427213000 +0000" channel="BBC RB 1 HD">
