@@ -7221,16 +7221,16 @@
     <programme start="20250428190000 +0000" stop="20250428200000 +0000" channel="That's TV 3">
         <title>That's Oldies: Classic Hit Music</title>
     </programme>
-    <programme start="20250428200000 +0000" stop="20250428210000 +0000" channel="That's TV 3">
+    <programme start="20250428200000 +0000" stop="20250428210500 +0000" channel="That's TV 3">
         <title>When the Boat Comes In</title>
     </programme>
-    <programme start="20250428210000 +0000" stop="20250428213500 +0000" channel="That's TV 3">
+    <programme start="20250428210500 +0000" stop="20250428214000 +0000" channel="That's TV 3">
         <title>Waiting for God</title>
     </programme>
-    <programme start="20250428213500 +0000" stop="20250428220500 +0000" channel="That's TV 3">
+    <programme start="20250428214000 +0000" stop="20250428221000 +0000" channel="That's TV 3">
         <title>Never the Twain</title>
     </programme>
-    <programme start="20250428220500 +0000" stop="20250428230500 +0000" channel="That's TV 3">
+    <programme start="20250428221000 +0000" stop="20250428231000 +0000" channel="That's TV 3">
         <title>That's 60s - Best Music Live!</title>
     </programme>
     <programme start="20250427200000 +0000" stop="20250427220000 +0000" channel="ITV1+1">
@@ -13467,11 +13467,8 @@
     <programme start="20250428163001 +0000" stop="20250428170001 +0000" channel="SkySp Tennis HD">
         <title>ATP Tour This Week</title>
     </programme>
-    <programme start="20250428170001 +0000" stop="20250428180000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250428170001 +0000" stop="20250428190001 +0000" channel="SkySp Tennis HD">
         <title>Madrid: Gauff v Bencic</title>
-    </programme>
-    <programme start="20250428180000 +0000" stop="20250428190001 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250428190001 +0000" stop="20250428210001 +0000" channel="SkySp Tennis HD">
         <title>Madrid: Andreeva v Starodubsteva</title>
@@ -13833,11 +13830,8 @@
     <programme start="20250428090000 +0000" stop="20250428153001 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Madrid</title>
     </programme>
-    <programme start="20250428153001 +0000" stop="20250428170000 +0000" channel="SkySp+ HD">
+    <programme start="20250428153001 +0000" stop="20250428210000 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
-    </programme>
-    <programme start="20250428170000 +0000" stop="20250428210000 +0000" channel="SkySp+ HD">
-        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428213000 +0000" channel="SkySp+ HD">
         <title>SSN @ 10</title>
@@ -14977,7 +14971,7 @@
         <title>Northern Ireland Assembly -...</title>
     </programme>
     <programme start="20250428221500 +0000" stop="20250428231500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="CNBC HD">
         <title>Unlocked</title>
@@ -23125,7 +23119,7 @@
         <title>The Big Deal Morning Show</title>
     </programme>
     <programme start="20250428100000 +0000" stop="20250428110000 +0000" channel="QVC HD">
-        <title>Frank Usher</title>
+        <title>Frank Usher April Favourites</title>
     </programme>
     <programme start="20250428110000 +0000" stop="20250428120000 +0000" channel="QVC HD">
         <title>Clean &amp; Tidy with Lynsey Queen</title>
@@ -23377,7 +23371,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="QVC Beauty">
-        <title>New Beauty ft Michael Van Clarke</title>
+        <title>Laura Geller Make-up</title>
     </programme>
     <programme start="20250428170000 +0000" stop="20250428180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23431,7 +23425,7 @@
         <title>Denim &amp; Co</title>
     </programme>
     <programme start="20250428090000 +0000" stop="20250428100000 +0000" channel="QVC Style HD">
-        <title>Handbag Must Haves</title>
+        <title>QVC Selection</title>
     </programme>
     <programme start="20250428100000 +0000" stop="20250428110000 +0000" channel="QVC Style HD">
         <title>Monsoon</title>
@@ -23464,7 +23458,7 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250428200000 +0000" stop="20250428210000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="QVC Style HD">
         <title>Save up to 50% off on Kim &amp; Co</title>
@@ -36213,8 +36207,11 @@
     <programme start="20250428111500 +0000" stop="20250428120000 +0000" channel="BBC Two Wal HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428160000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250428120000 +0000" stop="20250428151500 +0000" channel="BBC Two Wal HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250428151500 +0000" stop="20250428160000 +0000" channel="BBC Two Wal HD">
+        <title>Natural World</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="BBC Two Wal HD">
         <title>Flog It!</title>
