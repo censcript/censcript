@@ -216,25 +216,25 @@
     <programme start="20250428093143 +0000" stop="20250428103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 655</title>
     </programme>
-    <programme start="20250428103000 +0000" stop="20250428113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428103000 +0000" stop="20250428112917 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 20</title>
     </programme>
-    <programme start="20250428113000 +0000" stop="20250428120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428112917 +0000" stop="20250428120000 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 20</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428120000 +0000" stop="20250428130005 +0000" channel="Channel 8.mewatch">
         <title>Travel with Mommy - EP 9</title>
     </programme>
-    <programme start="20250428130000 +0000" stop="20250428140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428130005 +0000" stop="20250428140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 29</title>
     </programme>
-    <programme start="20250428140000 +0000" stop="20250428144500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428140000 +0000" stop="20250428144534 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250428144500 +0000" stop="20250428151500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428144534 +0000" stop="20250428151538 +0000" channel="Channel 8.mewatch">
         <title>Travel Odd - EP 16</title>
     </programme>
-    <programme start="20250428151500 +0000" stop="20250428160500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428151538 +0000" stop="20250428160521 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 13</title>
     </programme>
     <programme start="20250427154449 +0000" stop="20250427163908 +0000" channel="Channel U.mewatch">
@@ -333,25 +333,25 @@
     <programme start="20250428095819 +0000" stop="20250428110000 +0000" channel="Channel U.mewatch">
         <title>Bad Romeo - EP 30</title>
     </programme>
-    <programme start="20250428110000 +0000" stop="20250428120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428110000 +0000" stop="20250428115839 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 45</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428115839 +0000" stop="20250428130001 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 46</title>
     </programme>
-    <programme start="20250428130000 +0000" stop="20250428133000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428130001 +0000" stop="20250428132926 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 14</title>
     </programme>
-    <programme start="20250428133000 +0000" stop="20250428140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428132926 +0000" stop="20250428140018 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 14</title>
     </programme>
-    <programme start="20250428140000 +0000" stop="20250428150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428140018 +0000" stop="20250428150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 32</title>
     </programme>
-    <programme start="20250428150000 +0000" stop="20250428154500 +0000" channel="Channel U.mewatch">
+    <programme start="20250428150000 +0000" stop="20250428154622 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250428154500 +0000" stop="20250428161500 +0000" channel="Channel U.mewatch">
+    <programme start="20250428154622 +0000" stop="20250428161436 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 14</title>
     </programme>
     <programme start="20250427153000 +0000" stop="20250427160027 +0000" channel="Suria.mewatch">
@@ -417,9 +417,6 @@
     <programme start="20250428153000 +0000" stop="20250428160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250428160000 +0000" stop="20250429010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250427140002 +0000" stop="20250427170000 +0000" channel="Vasantham.mewatch">
         <title>Thadam</title>
     </programme>
@@ -459,25 +456,25 @@
     <programme start="20250428102924 +0000" stop="20250428110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 11</title>
     </programme>
-    <programme start="20250428110000 +0000" stop="20250428120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428110000 +0000" stop="20250428115957 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 39</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428115957 +0000" stop="20250428123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 27</title>
     </programme>
-    <programme start="20250428123000 +0000" stop="20250428130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428123000 +0000" stop="20250428125957 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250428130000 +0000" stop="20250428133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428125957 +0000" stop="20250428132959 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 26</title>
     </programme>
-    <programme start="20250428133000 +0000" stop="20250428140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428132959 +0000" stop="20250428135956 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 3</title>
     </programme>
-    <programme start="20250428140000 +0000" stop="20250428143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428135956 +0000" stop="20250428142956 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 12</title>
     </programme>
-    <programme start="20250428143000 +0000" stop="20250428153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250428142956 +0000" stop="20250428153000 +0000" channel="Vasantham.mewatch">
         <title>Iruvar - EP 62</title>
     </programme>
     <programme start="20250428153000 +0000" stop="20250428160135 +0000" channel="Vasantham.mewatch">
@@ -549,17 +546,14 @@
     <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250428130000 +0000" stop="20250428140000 +0000" channel="CNA.mewatch">
+    <programme start="20250428130000 +0000" stop="20250428135959 +0000" channel="CNA.mewatch">
         <title>No Screen, No Life? - EP 1</title>
     </programme>
-    <programme start="20250428140000 +0000" stop="20250428150000 +0000" channel="CNA.mewatch">
+    <programme start="20250428135959 +0000" stop="20250428145959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250428150000 +0000" stop="20250428160000 +0000" channel="CNA.mewatch">
+    <programme start="20250428145959 +0000" stop="20250428160001 +0000" channel="CNA.mewatch">
         <title>Hidden Histories - EP 4</title>
-    </programme>
-    <programme start="20250428160000 +0000" stop="20250428160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250427160000 +0000" stop="20250428160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 29th April, Tuesday 7.35pm. 2024 Singapore Premier League: Geylang International vs Brunei DPMM</title>
