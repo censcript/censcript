@@ -13296,17 +13296,8 @@
     <programme start="20250428050000 +0000" stop="20250428100000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
     </programme>
-    <programme start="20250428100000 +0000" stop="20250428140000 +0000" channel="SkySp Golf HD">
+    <programme start="20250428100000 +0000" stop="20250428153000 +0000" channel="SkySp Golf HD">
         <title>LPGA Tour Golf</title>
-    </programme>
-    <programme start="20250428140000 +0000" stop="20250428143000 +0000" channel="SkySp Golf HD">
-        <title>HotelPlanner Tour Golf</title>
-    </programme>
-    <programme start="20250428143000 +0000" stop="20250428150000 +0000" channel="SkySp Golf HD">
-        <title>Nick Dougherty's Tee Time Tips</title>
-    </programme>
-    <programme start="20250428150000 +0000" stop="20250428153000 +0000" channel="SkySp Golf HD">
-        <title>Nick Dougherty's Tee Time Tips</title>
     </programme>
     <programme start="20250428153000 +0000" stop="20250428160000 +0000" channel="SkySp Golf HD">
         <title>Golf's Greatest Holes: The Open</title>
