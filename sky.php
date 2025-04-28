@@ -26080,7 +26080,7 @@
         <title>Aastha Special</title>
     </programme>
     <programme start="20250428090000 +0000" stop="20250428120000 +0000" channel="Aastha">
-        <title>Aastha Special</title>
+        <title>Pujya Mahesh Guru ji</title>
     </programme>
     <programme start="20250428120000 +0000" stop="20250428150000 +0000" channel="Aastha">
         <title>Prashant Agarwal</title>
@@ -26103,17 +26103,23 @@
     <programme start="20250428202000 +0000" stop="20250428204000 +0000" channel="Aastha">
         <title>Ayurved Evam Jeevan Darshan</title>
     </programme>
-    <programme start="20250428204000 +0000" stop="20250428210000 +0000" channel="Aastha">
+    <programme start="20250428204000 +0000" stop="20250428204500 +0000" channel="Aastha">
         <title>Pujya Deepakbhai</title>
     </programme>
-    <programme start="20250428210000 +0000" stop="20250428212000 +0000" channel="Aastha">
+    <programme start="20250428204500 +0000" stop="20250428210000 +0000" channel="Aastha">
+        <title>Pujya Deepakbhai</title>
+    </programme>
+    <programme start="20250428210000 +0000" stop="20250428211000 +0000" channel="Aastha">
         <title>Pujya Swami Nlinanand Giri ji...</title>
+    </programme>
+    <programme start="20250428211000 +0000" stop="20250428212000 +0000" channel="Aastha">
+        <title>Aastha Special</title>
     </programme>
     <programme start="20250428212000 +0000" stop="20250428213000 +0000" channel="Aastha">
         <title>Aastha Special</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428223000 +0000" channel="Aastha">
-        <title>Pujya Rajanji Maharaj</title>
+        <title>Pujya Brajnandanji</title>
     </programme>
     <programme start="20250428223000 +0000" stop="20250428224000 +0000" channel="Aastha">
         <title>Bhajan</title>
