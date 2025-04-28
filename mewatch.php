@@ -946,10 +946,10 @@
         <title>No programme available now. Next broadcast on 29th April, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250427160000 +0000" stop="20250428160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd May, Friday 8.30pm. ONE Friday Fights 106</title>
+        <title>No programme available now. Next broadcast on 30th April, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs PSM Makassar FC</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250429160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 2nd May, Friday 8.30pm. ONE Friday Fights 106</title>
+        <title>No programme available now. Next broadcast on 30th April, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs PSM Makassar FC</title>
     </programme>
     <programme start="20250427160000 +0000" stop="20250428160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
