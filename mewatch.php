@@ -228,13 +228,13 @@
     <programme start="20250428130005 +0000" stop="20250428140000 +0000" channel="Channel 8.mewatch">
         <title>Emerald Hill - The Little Nyonya Story - EP 29</title>
     </programme>
-    <programme start="20250428140000 +0000" stop="20250428144534 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428140000 +0000" stop="20250428144537 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250428144534 +0000" stop="20250428151538 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428144537 +0000" stop="20250428151541 +0000" channel="Channel 8.mewatch">
         <title>Travel Odd - EP 16</title>
     </programme>
-    <programme start="20250428151538 +0000" stop="20250428160521 +0000" channel="Channel 8.mewatch">
+    <programme start="20250428151541 +0000" stop="20250428160524 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 13</title>
     </programme>
     <programme start="20250427154449 +0000" stop="20250427163908 +0000" channel="Channel U.mewatch">
@@ -342,10 +342,10 @@
     <programme start="20250428130001 +0000" stop="20250428132926 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 14</title>
     </programme>
-    <programme start="20250428132926 +0000" stop="20250428140018 +0000" channel="Channel U.mewatch">
+    <programme start="20250428132926 +0000" stop="20250428140023 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 14</title>
     </programme>
-    <programme start="20250428140018 +0000" stop="20250428150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250428140023 +0000" stop="20250428150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 32</title>
     </programme>
     <programme start="20250428150000 +0000" stop="20250428154622 +0000" channel="Channel U.mewatch">
