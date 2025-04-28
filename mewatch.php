@@ -423,10 +423,10 @@
     <programme start="20250427140002 +0000" stop="20250427170000 +0000" channel="Vasantham.mewatch">
         <title>Thadam</title>
     </programme>
-    <programme start="20250427170000 +0000" stop="20250427172934 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427165942 +0000" stop="20250427172748 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250427172934 +0000" stop="20250428010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250427172748 +0000" stop="20250428010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250428010000 +0000" stop="20250428012959 +0000" channel="Vasantham.mewatch">

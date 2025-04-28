@@ -27562,10 +27562,10 @@
         <title>Asan Na Kashmir</title>
     </programme>
     <programme start="20250428090000 +0000" stop="20250428100000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250428100000 +0000" stop="20250428110000 +0000" channel="Takbeer TV">
-        <title>Milad-e-Mustafa (SAW)</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250428110000 +0000" stop="20250428120000 +0000" channel="Takbeer TV">
         <title>Aaiye Quran Sekhain</title>
@@ -27574,34 +27574,34 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250428130000 +0000" stop="20250428140000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250428140000 +0000" stop="20250428150000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250428150000 +0000" stop="20250428160000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="Takbeer TV">
-        <title>Sarkar Ki Batain</title>
+        <title>Bulbul-e-Baagh-e-Jinna</title>
     </programme>
     <programme start="20250428170000 +0000" stop="20250428180000 +0000" channel="Takbeer TV">
-        <title>Asan Na Kashmir</title>
+        <title>Milad-e-Mustafa (SAW)</title>
     </programme>
     <programme start="20250428180000 +0000" stop="20250428190000 +0000" channel="Takbeer TV">
-        <title>Warafana Laka Zikrak</title>
+        <title>Q&amp;A with Takbeer</title>
     </programme>
     <programme start="20250428190000 +0000" stop="20250428200000 +0000" channel="Takbeer TV">
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250428200000 +0000" stop="20250428210000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="Takbeer TV">
-        <title>The Best of Creations</title>
+        <title>Friends Of Allah</title>
     </programme>
     <programme start="20250428220000 +0000" stop="20250428230000 +0000" channel="Takbeer TV">
-        <title>Q&amp;A with Takbeer</title>
+        <title>Warafana Laka Zikrak</title>
     </programme>
     <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="HUM EUROPE">
         <title>Diyar-e-Dil</title>
@@ -29064,14 +29064,20 @@
     <programme start="20250428090000 +0000" stop="20250428100000 +0000" channel="CHSTV">
         <title>Health Talk</title>
     </programme>
-    <programme start="20250428100000 +0000" stop="20250428120300 +0000" channel="CHSTV">
+    <programme start="20250428100000 +0000" stop="20250428111500 +0000" channel="CHSTV">
         <title>Mr &amp; Mrs Chapabaz</title>
+    </programme>
+    <programme start="20250428111500 +0000" stop="20250428120300 +0000" channel="CHSTV">
+        <title>Tafsir</title>
     </programme>
     <programme start="20250428120300 +0000" stop="20250428120700 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250428120700 +0000" stop="20250428130000 +0000" channel="CHSTV">
-        <title>Tafsir</title>
+    <programme start="20250428120700 +0000" stop="20250428123000 +0000" channel="CHSTV">
+        <title>Islamic Filler</title>
+    </programme>
+    <programme start="20250428123000 +0000" stop="20250428130000 +0000" channel="CHSTV">
+        <title>Islam Keno Shantir Dhormo</title>
     </programme>
     <programme start="20250428130000 +0000" stop="20250428133000 +0000" channel="CHSTV">
         <title>Independent News</title>

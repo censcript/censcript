@@ -96,10 +96,10 @@
     <programme start="20250503103000 +0000" stop="20250503135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Fulham</title>
     </programme>
-    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Leicester City v Southampton</title>
     </programme>
-    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Everton v Ipswich</title>
     </programme>
     <programme start="20250503162000 +0000" stop="20250503190000 +0000" channel="Optus Sport 1.optus">
