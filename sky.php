@@ -15132,25 +15132,25 @@
     <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="BBC NEWS HD">
         <title>BBC World News America</title>
     </programme>
-    <programme start="20250428213000 +0000" stop="20250428221500 +0000" channel="BBC Parl HD">
+    <programme start="20250428215000 +0000" stop="20250428224000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
     </programme>
-    <programme start="20250428221500 +0000" stop="20250428230000 +0000" channel="BBC Parl HD">
+    <programme start="20250428224000 +0000" stop="20250428232000 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250428230000 +0000" stop="20250428231000 +0000" channel="BBC Parl HD">
+    <programme start="20250428232000 +0000" stop="20250428233500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Sudan Conference Statement</title>
     </programme>
-    <programme start="20250428231000 +0000" stop="20250428232000 +0000" channel="BBC Parl HD">
+    <programme start="20250428233500 +0000" stop="20250428234500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Ukraine Talks Statement</title>
     </programme>
-    <programme start="20250428232000 +0000" stop="20250429012000 +0000" channel="BBC Parl HD">
+    <programme start="20250428234500 +0000" stop="20250429014500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 1</title>
     </programme>
-    <programme start="20250429012000 +0000" stop="20250429032000 +0000" channel="BBC Parl HD">
+    <programme start="20250429014500 +0000" stop="20250429034500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250429032000 +0000" stop="20250429060500 +0000" channel="BBC Parl HD">
+    <programme start="20250429034500 +0000" stop="20250429060500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
     <programme start="20250429060500 +0000" stop="20250429071000 +0000" channel="BBC Parl HD">
@@ -36465,10 +36465,10 @@
     <programme start="20250429013000 +0000" stop="20250429045500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250429045500 +0000" stop="20250429070000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429045500 +0000" stop="20250429065500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250429070000 +0000" stop="20250429090000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429065500 +0000" stop="20250429090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
     <programme start="20250429090000 +0000" stop="20250429130000 +0000" channel="BBC RB 1 HD">

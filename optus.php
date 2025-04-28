@@ -228,6 +228,21 @@
     <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Saturday</title>
     </programme>
+    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Wolverhampton Wanderers v Brighton</title>
+    </programme>
+    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Southampton v Manchester City</title>
+    </programme>
+    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Ipswich v Brentford</title>
+    </programme>
+    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Fulham v Everton</title>
+    </programme>
+    <programme start="20250510162000 +0000" stop="20250510190000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Bournemouth v Aston Villa</title>
+    </programme>
     <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -243,8 +258,23 @@
     <programme start="20250511095000 +0000" stop="20250511121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gwangju v Jeonbuk</title>
     </programme>
+    <programme start="20250511100000 +0000" stop="20250511131000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Newcastle United v Chelsea</title>
+    </programme>
     <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
+    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 4.optus">
+        <title>Premier League - Nottingham Forest v Leicester City</title>
+    </programme>
+    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Tottenham Hotspur v Crystal Palace</title>
+    </programme>
+    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Manchester United v West Ham United</title>
+    </programme>
+    <programme start="20250511152000 +0000" stop="20250511183000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Liverpool v Arsenal</title>
     </programme>
     <programme start="20250511193000 +0000" stop="20250511210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
@@ -269,35 +299,5 @@
     </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
-    </programme>
-    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
-    </programme>
-    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Stuttgart</title>
-    </programme>
-    <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Shimizu v Vissel Kobe</title>
-    </programme>
-    <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kawasaki v Gamba</title>
-    </programme>
-    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Machida v Yokohama FM</title>
-    </programme>
-    <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Sanfrecce v Kawasaki</title>
-    </programme>
-    <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kyoto v FC Tokyo</title>
-    </programme>
-    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Shimizu</title>
-    </programme>
-    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Germany v Portugal</title>
-    </programme>
-    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>
