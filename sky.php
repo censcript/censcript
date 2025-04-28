@@ -132,8 +132,11 @@
     <programme start="20250428111500 +0000" stop="20250428120000 +0000" channel="BBC Two HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428160000 +0000" channel="BBC Two HD">
+    <programme start="20250428120000 +0000" stop="20250428151500 +0000" channel="BBC Two HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250428151500 +0000" stop="20250428160000 +0000" channel="BBC Two HD">
+        <title>Natural World</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="BBC Two HD">
         <title>Flog It!</title>
@@ -13455,11 +13458,26 @@
     <programme start="20250428070000 +0000" stop="20250428090000 +0000" channel="SkySp Tennis HD">
         <title>Madrid Tennis Highlights</title>
     </programme>
-    <programme start="20250428090000 +0000" stop="20250428180000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250428090000 +0000" stop="20250428153001 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Madrid</title>
     </programme>
-    <programme start="20250428180000 +0000" stop="20250428220000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250428153001 +0000" stop="20250428163001 +0000" channel="SkySp Tennis HD">
+        <title>ATP Final: Barcelona</title>
+    </programme>
+    <programme start="20250428163001 +0000" stop="20250428170001 +0000" channel="SkySp Tennis HD">
+        <title>ATP Tour This Week</title>
+    </programme>
+    <programme start="20250428170001 +0000" stop="20250428180000 +0000" channel="SkySp Tennis HD">
+        <title>Madrid: Gauff v Bencic</title>
+    </programme>
+    <programme start="20250428180000 +0000" stop="20250428190001 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Madrid</title>
+    </programme>
+    <programme start="20250428190001 +0000" stop="20250428210001 +0000" channel="SkySp Tennis HD">
+        <title>Madrid: Andreeva v Starodubsteva</title>
+    </programme>
+    <programme start="20250428210001 +0000" stop="20250428220000 +0000" channel="SkySp Tennis HD">
+        <title>WTA Final: Rouen</title>
     </programme>
     <programme start="20250428220000 +0000" stop="20250428230000 +0000" channel="SkySp Tennis HD">
         <title>WTA Final: Stuttgart</title>
@@ -13812,8 +13830,11 @@
     <programme start="20250428080000 +0000" stop="20250428090000 +0000" channel="SkySp+ HD">
         <title>Good Morning Sports Fans</title>
     </programme>
-    <programme start="20250428090000 +0000" stop="20250428170000 +0000" channel="SkySp+ HD">
+    <programme start="20250428090000 +0000" stop="20250428153001 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Madrid</title>
+    </programme>
+    <programme start="20250428153001 +0000" stop="20250428170000 +0000" channel="SkySp+ HD">
+        <title>Sky Sports News</title>
     </programme>
     <programme start="20250428170000 +0000" stop="20250428210000 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Madrid</title>
@@ -14478,25 +14499,16 @@
     <programme start="20250428200000 +0000" stop="20250428210000 +0000" channel="Racing TV">
         <title>Road to Punchestown</title>
     </programme>
-    <programme start="20250428210000 +0000" stop="20250428211500 +0000" channel="Racing TV">
+    <programme start="20250428210000 +0000" stop="20250428213000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250428211500 +0000" stop="20250428213000 +0000" channel="Racing TV">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250428213000 +0000" stop="20250428214500 +0000" channel="Racing TV">
+    <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250428214500 +0000" stop="20250428221500 +0000" channel="Racing TV">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250428221500 +0000" stop="20250428223000 +0000" channel="Racing TV">
+    <programme start="20250428220000 +0000" stop="20250428223000 +0000" channel="Racing TV">
         <title>The Verdict</title>
     </programme>
-    <programme start="20250428223000 +0000" stop="20250428224500 +0000" channel="Racing TV">
-        <title>The Verdict</title>
-    </programme>
-    <programme start="20250428224500 +0000" stop="20250428234500 +0000" channel="Racing TV">
+    <programme start="20250428223000 +0000" stop="20250428233000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250427170000 +0000" stop="20250427230000 +0000" channel="TNTSBoxOffHD">
@@ -33813,25 +33825,16 @@
     <programme start="20250428200000 +0000" stop="20250428210000 +0000" channel="Racing TV HD">
         <title>Road to Punchestown</title>
     </programme>
-    <programme start="20250428210000 +0000" stop="20250428211500 +0000" channel="Racing TV HD">
+    <programme start="20250428210000 +0000" stop="20250428213000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250428211500 +0000" stop="20250428213000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250428213000 +0000" stop="20250428214500 +0000" channel="Racing TV HD">
+    <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250428214500 +0000" stop="20250428221500 +0000" channel="Racing TV HD">
-        <title>Irish Racing Replay</title>
-    </programme>
-    <programme start="20250428221500 +0000" stop="20250428223000 +0000" channel="Racing TV HD">
+    <programme start="20250428220000 +0000" stop="20250428223000 +0000" channel="Racing TV HD">
         <title>The Verdict</title>
     </programme>
-    <programme start="20250428223000 +0000" stop="20250428224500 +0000" channel="Racing TV HD">
-        <title>The Verdict</title>
-    </programme>
-    <programme start="20250428224500 +0000" stop="20250428234500 +0000" channel="Racing TV HD">
+    <programme start="20250428223000 +0000" stop="20250428233000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
     <programme start="20250427213000 +0000" stop="20250427220000 +0000" channel="Sky News">
@@ -36279,8 +36282,11 @@
     <programme start="20250428111500 +0000" stop="20250428120000 +0000" channel="BBC Two NI HD">
         <title>Politics Live</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428160000 +0000" channel="BBC Two NI HD">
+    <programme start="20250428120000 +0000" stop="20250428151500 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250428151500 +0000" stop="20250428160000 +0000" channel="BBC Two NI HD">
+        <title>Natural World</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="BBC Two NI HD">
         <title>Flog It!</title>
@@ -36333,10 +36339,10 @@
     <programme start="20250428093500 +0000" stop="20250428120000 +0000" channel="BBC RB 1 HD">
         <title>Women's Super League: Crystal Palace v West Ham</title>
     </programme>
-    <programme start="20250428120000 +0000" stop="20250428170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250428120000 +0000" stop="20250428150500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250428170000 +0000" stop="20250428180000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250428150500 +0000" stop="20250428180000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250428180000 +0000" stop="20250428213000 +0000" channel="BBC RB 1 HD">
