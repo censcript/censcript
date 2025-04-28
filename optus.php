@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250428173000 +0000" stop="20250428180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250429040000 +0000" stop="20250429061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - FC Tokyo v Shimizu</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>

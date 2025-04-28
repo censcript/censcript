@@ -13681,7 +13681,7 @@
         <title>Live NFL: The Insiders</title>
     </programme>
     <programme start="20250429000000 +0000" stop="20250429040000 +0000" channel="SkySp NFL HD">
-        <title>PL Darts:</title>
+        <title>PL Darts: Liverpool</title>
     </programme>
     <programme start="20250429040000 +0000" stop="20250429041500 +0000" channel="SkySp NFL HD">
         <title>S/Lge 24': Hull FC v Hull KR Hlts</title>
@@ -15153,17 +15153,11 @@
     <programme start="20250429032000 +0000" stop="20250429060500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250429060500 +0000" stop="20250429070000 +0000" channel="BBC Parl HD">
+    <programme start="20250429060500 +0000" stop="20250429071000 +0000" channel="BBC Parl HD">
         <title>Education Questions</title>
     </programme>
-    <programme start="20250429070000 +0000" stop="20250429071000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
-    </programme>
-    <programme start="20250429071000 +0000" stop="20250429083000 +0000" channel="BBC Parl HD">
+    <programme start="20250429071000 +0000" stop="20250429090000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Enhancing Public Trust Debate</title>
-    </programme>
-    <programme start="20250429083000 +0000" stop="20250429090000 +0000" channel="BBC Parl HD">
-        <title>Live Select Committees</title>
     </programme>
     <programme start="20250429090000 +0000" stop="20250429103000 +0000" channel="BBC Parl HD">
         <title>Live Culture, Media and Sport Committee</title>
