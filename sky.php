@@ -15150,14 +15150,20 @@
     <programme start="20250429014500 +0000" stop="20250429034500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250429034500 +0000" stop="20250429060500 +0000" channel="BBC Parl HD">
+    <programme start="20250429034500 +0000" stop="20250429054500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Renters' Rights Bill, Part 3</title>
+    </programme>
+    <programme start="20250429054500 +0000" stop="20250429060500 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250429060500 +0000" stop="20250429071000 +0000" channel="BBC Parl HD">
         <title>Education Questions</title>
     </programme>
-    <programme start="20250429071000 +0000" stop="20250429090000 +0000" channel="BBC Parl HD">
+    <programme start="20250429071000 +0000" stop="20250429085500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Enhancing Public Trust Debate</title>
+    </programme>
+    <programme start="20250429085500 +0000" stop="20250429090000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250429090000 +0000" stop="20250429103000 +0000" channel="BBC Parl HD">
         <title>Live Culture, Media and Sport Committee</title>
@@ -26572,10 +26578,13 @@
         <title>Dars-e-Malfoozat</title>
     </programme>
     <programme start="20250429063000 +0000" stop="20250429064000 +0000" channel="MTA1 World HD">
-        <title>Football In The Gambia</title>
+        <title>Football In Gambia</title>
     </programme>
-    <programme start="20250429064000 +0000" stop="20250429074500 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Jalsa Salana Address</title>
+    <programme start="20250429064000 +0000" stop="20250429073500 +0000" channel="MTA1 World HD">
+        <title>National Waqfeen-e-Nau Ijtema 2025</title>
+    </programme>
+    <programme start="20250429073500 +0000" stop="20250429074500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250429074500 +0000" stop="20250429075000 +0000" channel="MTA1 World HD">
         <title>Art And Craft</title>
@@ -26589,43 +26598,79 @@
     <programme start="20250429085000 +0000" stop="20250429094500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Lajna</title>
     </programme>
-    <programme start="20250429094500 +0000" stop="20250429105000 +0000" channel="MTA1 World HD">
+    <programme start="20250429094500 +0000" stop="20250429095000 +0000" channel="MTA1 World HD">
+        <title>Intikhab-e-Sukhan</title>
+    </programme>
+    <programme start="20250429095000 +0000" stop="20250429105000 +0000" channel="MTA1 World HD">
         <title>Intikhab-e-Sukhan</title>
     </programme>
     <programme start="20250429105000 +0000" stop="20250429113000 +0000" channel="MTA1 World HD">
-        <title>Address At Lajna Ijtema UK</title>
+        <title>National Waqfeen-e-Nau Ijtema 2025</title>
     </programme>
-    <programme start="20250429113000 +0000" stop="20250429120000 +0000" channel="MTA1 World HD">
+    <programme start="20250429113000 +0000" stop="20250429114500 +0000" channel="MTA1 World HD">
         <title>The Age Of Reform In Muslim India</title>
     </programme>
-    <programme start="20250429120000 +0000" stop="20250429121500 +0000" channel="MTA1 World HD">
+    <programme start="20250429114500 +0000" stop="20250429115500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250429115500 +0000" stop="20250429120000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250429121500 +0000" stop="20250429122500 +0000" channel="MTA1 World HD">
+    <programme start="20250429120000 +0000" stop="20250429121000 +0000" channel="MTA1 World HD">
+        <title>Tilawat</title>
+    </programme>
+    <programme start="20250429121000 +0000" stop="20250429121500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Malfoozat</title>
     </programme>
-    <programme start="20250429122500 +0000" stop="20250429125500 +0000" channel="MTA1 World HD">
+    <programme start="20250429121500 +0000" stop="20250429122000 +0000" channel="MTA1 World HD">
+        <title>Dars-e-Malfoozat</title>
+    </programme>
+    <programme start="20250429122000 +0000" stop="20250429122500 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250429125500 +0000" stop="20250429135500 +0000" channel="MTA1 World HD">
+    <programme start="20250429122500 +0000" stop="20250429125000 +0000" channel="MTA1 World HD">
+        <title>Roundup</title>
+    </programme>
+    <programme start="20250429125000 +0000" stop="20250429125500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
-    <programme start="20250429135500 +0000" stop="20250429141000 +0000" channel="MTA1 World HD">
+    <programme start="20250429125500 +0000" stop="20250429135000 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250429135000 +0000" stop="20250429135500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
+    </programme>
+    <programme start="20250429135500 +0000" stop="20250429140500 +0000" channel="MTA1 World HD">
+        <title>Ahd-e-Rafta</title>
+    </programme>
+    <programme start="20250429140500 +0000" stop="20250429141000 +0000" channel="MTA1 World HD">
+        <title>Life Of Muhammad</title>
     </programme>
     <programme start="20250429141000 +0000" stop="20250429142000 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250429142000 +0000" stop="20250429144000 +0000" channel="MTA1 World HD">
+    <programme start="20250429142000 +0000" stop="20250429143500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250429144000 +0000" stop="20250429154500 +0000" channel="MTA1 World HD">
+    <programme start="20250429143500 +0000" stop="20250429144000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250429154500 +0000" stop="20250429161500 +0000" channel="MTA1 World HD">
+    <programme start="20250429144000 +0000" stop="20250429154000 +0000" channel="MTA1 World HD">
+        <title>Huzoor's Jalsa Salana Address</title>
+    </programme>
+    <programme start="20250429154000 +0000" stop="20250429154500 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250429161500 +0000" stop="20250429164000 +0000" channel="MTA1 World HD">
+    <programme start="20250429154500 +0000" stop="20250429161000 +0000" channel="MTA1 World HD">
+        <title>Kudak</title>
+    </programme>
+    <programme start="20250429161000 +0000" stop="20250429161500 +0000" channel="MTA1 World HD">
+        <title>Mind Body Spirit</title>
+    </programme>
+    <programme start="20250429161500 +0000" stop="20250429163500 +0000" channel="MTA1 World HD">
+        <title>Roundup</title>
+    </programme>
+    <programme start="20250429163500 +0000" stop="20250429164000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
     <programme start="20250429164000 +0000" stop="20250429170500 +0000" channel="MTA1 World HD">
@@ -26641,18 +26686,36 @@
         <title>Tilawat</title>
     </programme>
     <programme start="20250429183500 +0000" stop="20250429191500 +0000" channel="MTA1 World HD">
-        <title>Address At Lajna Ijtema UK</title>
+        <title>National Waqfeen-e-Nau Ijtema 2025</title>
     </programme>
-    <programme start="20250429191500 +0000" stop="20250429202000 +0000" channel="MTA1 World HD">
+    <programme start="20250429191500 +0000" stop="20250429193000 +0000" channel="MTA1 World HD">
         <title>The Palestine Israel Conflict</title>
+    </programme>
+    <programme start="20250429193000 +0000" stop="20250429194000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250429194000 +0000" stop="20250429200000 +0000" channel="MTA1 World HD">
+        <title>MTA Explore</title>
+    </programme>
+    <programme start="20250429200000 +0000" stop="20250429202000 +0000" channel="MTA1 World HD">
+        <title>Hiqayat-e-Sidqo Wafa</title>
     </programme>
     <programme start="20250429202000 +0000" stop="20250429205000 +0000" channel="MTA1 World HD">
         <title>Beacon Of Guidance</title>
     </programme>
-    <programme start="20250429205000 +0000" stop="20250429211000 +0000" channel="MTA1 World HD">
+    <programme start="20250429205000 +0000" stop="20250429210000 +0000" channel="MTA1 World HD">
         <title>Balance</title>
     </programme>
-    <programme start="20250429211000 +0000" stop="20250429221000 +0000" channel="MTA1 World HD">
+    <programme start="20250429210000 +0000" stop="20250429211000 +0000" channel="MTA1 World HD">
+        <title>Balance</title>
+    </programme>
+    <programme start="20250429211000 +0000" stop="20250429212000 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250429212000 +0000" stop="20250429213000 +0000" channel="MTA1 World HD">
+        <title>Ahd-e-Rafta</title>
+    </programme>
+    <programme start="20250429213000 +0000" stop="20250429221000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250429221000 +0000" stop="20250429222000 +0000" channel="MTA1 World HD">
@@ -26661,7 +26724,16 @@
     <programme start="20250429222000 +0000" stop="20250429223000 +0000" channel="MTA1 World HD">
         <title>Football In The Gambia</title>
     </programme>
-    <programme start="20250429223000 +0000" stop="20250429233000 +0000" channel="MTA1 World HD">
+    <programme start="20250429223000 +0000" stop="20250429223500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250429223500 +0000" stop="20250429224500 +0000" channel="MTA1 World HD">
+        <title>Art And Craft</title>
+    </programme>
+    <programme start="20250429224500 +0000" stop="20250429225500 +0000" channel="MTA1 World HD">
+        <title>Football In Gambia</title>
+    </programme>
+    <programme start="20250429225500 +0000" stop="20250429235500 +0000" channel="MTA1 World HD">
         <title>Intikhab-e-Sukhan</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="HUM Masala">
