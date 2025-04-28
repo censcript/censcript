@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250428120000 +0000" stop="20250428130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250428160000 +0000" stop="20250428170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
+    </programme>
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Shimizu</title>
     </programme>
 </tv>
