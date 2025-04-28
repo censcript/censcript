@@ -24822,20 +24822,14 @@
     <programme start="20250429083000 +0000" stop="20250429090000 +0000" channel="Cruise1st.tv">
         <title>Big &amp; New Ships with MSC Cruises</title>
     </programme>
-    <programme start="20250429090000 +0000" stop="20250429091500 +0000" channel="Cruise1st.tv">
+    <programme start="20250429090000 +0000" stop="20250429093000 +0000" channel="Cruise1st.tv">
         <title>Royal Caribbean Cruising Special</title>
-    </programme>
-    <programme start="20250429091500 +0000" stop="20250429093000 +0000" channel="Cruise1st.tv">
-        <title>Big Adventures on Big Cruise Ships</title>
     </programme>
     <programme start="20250429093000 +0000" stop="20250429100000 +0000" channel="Cruise1st.tv">
         <title>Exciting Deals on NCL Prima Class</title>
     </programme>
-    <programme start="20250429100000 +0000" stop="20250429103000 +0000" channel="Cruise1st.tv">
+    <programme start="20250429100000 +0000" stop="20250429110000 +0000" channel="Cruise1st.tv">
         <title>Luxury Collections: The Haven</title>
-    </programme>
-    <programme start="20250429103000 +0000" stop="20250429110000 +0000" channel="Cruise1st.tv">
-        <title>Derek's 2025 Caribbean Adventure</title>
     </programme>
     <programme start="20250429110000 +0000" stop="20250429111500 +0000" channel="Cruise1st.tv">
         <title>The Ultimate Tour of Vietnam</title>
@@ -24879,11 +24873,8 @@
     <programme start="20250429163000 +0000" stop="20250429170000 +0000" channel="Cruise1st.tv">
         <title>Royal Caribbean Thrills &amp; Spills</title>
     </programme>
-    <programme start="20250429170000 +0000" stop="20250429171500 +0000" channel="Cruise1st.tv">
+    <programme start="20250429170000 +0000" stop="20250429173000 +0000" channel="Cruise1st.tv">
         <title>Derek's 2026 Alaskan Adventure</title>
-    </programme>
-    <programme start="20250429171500 +0000" stop="20250429173000 +0000" channel="Cruise1st.tv">
-        <title>Best of the Rockies Tour &amp; Alaska</title>
     </programme>
     <programme start="20250429173000 +0000" stop="20250429180000 +0000" channel="Cruise1st.tv">
         <title>Winter Sun Deals from £649pp</title>
@@ -24894,17 +24885,11 @@
     <programme start="20250429183000 +0000" stop="20250429190000 +0000" channel="Cruise1st.tv">
         <title>Derek's 2025 Caribbean Adventure</title>
     </programme>
-    <programme start="20250429190000 +0000" stop="20250429193000 +0000" channel="Cruise1st.tv">
+    <programme start="20250429190000 +0000" stop="20250429200000 +0000" channel="Cruise1st.tv">
         <title>Luxury Collections: The Retreat</title>
     </programme>
-    <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="Cruise1st.tv">
-        <title>Derek's 2025 Caribbean Adventure</title>
-    </programme>
-    <programme start="20250429200000 +0000" stop="20250429201500 +0000" channel="Cruise1st.tv">
+    <programme start="20250429200000 +0000" stop="20250429203000 +0000" channel="Cruise1st.tv">
         <title>Big &amp; New Ships with MSC Cruises</title>
-    </programme>
-    <programme start="20250429201500 +0000" stop="20250429203000 +0000" channel="Cruise1st.tv">
-        <title>Epic Asia: Temples &amp; Treasures</title>
     </programme>
     <programme start="20250429203000 +0000" stop="20250429210000 +0000" channel="Cruise1st.tv">
         <title>Royal Caribbean Cruising Special</title>
@@ -29991,16 +29976,10 @@
     <programme start="20250429120000 +0000" stop="20250429120300 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250429120300 +0000" stop="20250429120600 +0000" channel="iON TV">
+    <programme start="20250429120300 +0000" stop="20250429120800 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250429120600 +0000" stop="20250429120800 +0000" channel="iON TV">
-        <title>Azan-e-Zuhr</title>
-    </programme>
-    <programme start="20250429120800 +0000" stop="20250429121100 +0000" channel="iON TV">
-        <title>iON News Time</title>
-    </programme>
-    <programme start="20250429121100 +0000" stop="20250429123000 +0000" channel="iON TV">
+    <programme start="20250429120800 +0000" stop="20250429123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250429123000 +0000" stop="20250429130000 +0000" channel="iON TV">
@@ -30015,17 +29994,8 @@
     <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="iON TV">
         <title>iON Exclusive</title>
     </programme>
-    <programme start="20250429160000 +0000" stop="20250429164800 +0000" channel="iON TV">
+    <programme start="20250429160000 +0000" stop="20250429170300 +0000" channel="iON TV">
         <title>Drama Time</title>
-    </programme>
-    <programme start="20250429164800 +0000" stop="20250429165300 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250429165300 +0000" stop="20250429170000 +0000" channel="iON TV">
-        <title>Drama Time</title>
-    </programme>
-    <programme start="20250429170000 +0000" stop="20250429170300 +0000" channel="iON TV">
-        <title>Cine Hour</title>
     </programme>
     <programme start="20250429170300 +0000" stop="20250429170800 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
@@ -30036,13 +30006,7 @@
     <programme start="20250429180000 +0000" stop="20250429190000 +0000" channel="iON TV">
         <title>News Room</title>
     </programme>
-    <programme start="20250429190000 +0000" stop="20250429190100 +0000" channel="iON TV">
-        <title>Gardening and Beyond with BGS</title>
-    </programme>
-    <programme start="20250429190100 +0000" stop="20250429190600 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250429190600 +0000" stop="20250429192400 +0000" channel="iON TV">
+    <programme start="20250429190000 +0000" stop="20250429192400 +0000" channel="iON TV">
         <title>Gardening and Beyond with BGS</title>
     </programme>
     <programme start="20250429192400 +0000" stop="20250429192900 +0000" channel="iON TV">
@@ -30051,13 +30015,7 @@
     <programme start="20250429192900 +0000" stop="20250429200000 +0000" channel="iON TV">
         <title>Gardening and Beyond with BGS</title>
     </programme>
-    <programme start="20250429200000 +0000" stop="20250429201600 +0000" channel="iON TV">
-        <title>News 24</title>
-    </programme>
-    <programme start="20250429201600 +0000" stop="20250429202100 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250429202100 +0000" stop="20250429203000 +0000" channel="iON TV">
+    <programme start="20250429200000 +0000" stop="20250429203000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
     <programme start="20250429203000 +0000" stop="20250429203500 +0000" channel="iON TV">
@@ -36504,10 +36462,10 @@
     <programme start="20250428183000 +0000" stop="20250429013000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250429013000 +0000" stop="20250429050000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429013000 +0000" stop="20250429045500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250429050000 +0000" stop="20250429070000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429045500 +0000" stop="20250429070000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
     <programme start="20250429070000 +0000" stop="20250429090000 +0000" channel="BBC RB 1 HD">
