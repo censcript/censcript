@@ -568,10 +568,10 @@
         <title>No Programme available now. Next Broadcast on 29th April, Tuesday 7.35pm. 2024 Singapore Premier League: Geylang International vs Brunei DPMM</title>
     </programme>
     <programme start="20250427160000 +0000" stop="20250428160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 2nd May, Friday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250428160000 +0000" stop="20250429160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 2nd May, Friday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250427160000 +0000" stop="20250427190000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems!</title>
