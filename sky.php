@@ -15144,10 +15144,19 @@
     <programme start="20250429090000 +0000" stop="20250429103000 +0000" channel="BBC Parl HD">
         <title>Live Culture, Media and Sport Committee</title>
     </programme>
-    <programme start="20250429103000 +0000" stop="20250429113000 +0000" channel="BBC Parl HD">
+    <programme start="20250429103000 +0000" stop="20250429114000 +0000" channel="BBC Parl HD">
         <title>Live Energy Security and Net Zero Questions</title>
     </programme>
-    <programme start="20250429113000 +0000" stop="20250429183000 +0000" channel="BBC Parl HD">
+    <programme start="20250429114000 +0000" stop="20250429123000 +0000" channel="BBC Parl HD">
+        <title>Live Kashmir Urgent Question</title>
+    </programme>
+    <programme start="20250429123000 +0000" stop="20250429133500 +0000" channel="BBC Parl HD">
+        <title>Live Kneecap Urgent Question</title>
+    </programme>
+    <programme start="20250429133500 +0000" stop="20250429143500 +0000" channel="BBC Parl HD">
+        <title>Live Palestinian Authority Visit Statement</title>
+    </programme>
+    <programme start="20250429143500 +0000" stop="20250429183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250429183000 +0000" stop="20250429210000 +0000" channel="BBC Parl HD">
@@ -15160,7 +15169,7 @@
         <title>House of Lords Questions</title>
     </programme>
     <programme start="20250429223500 +0000" stop="20250429233500 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+        <title>House of Lords - Bus Services (No</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -23407,7 +23416,7 @@
         <title>Ultrasun Professional Suncare</title>
     </programme>
     <programme start="20250429110000 +0000" stop="20250429120000 +0000" channel="QVC HD">
-        <title>Nina Leonard's Wardrobe Heroes</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250429120000 +0000" stop="20250429130000 +0000" channel="QVC HD">
         <title>The Lunchtime Show</title>
@@ -23638,7 +23647,7 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250429100000 +0000" stop="20250429110000 +0000" channel="QVC Beauty">
-        <title>OPI Professional Nailcare</title>
+        <title>Feel Good &amp; Glow Beauty</title>
     </programme>
     <programme start="20250429110000 +0000" stop="20250429120000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23674,7 +23683,7 @@
         <title>Bobbi Brown</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="QVC Beauty">
-        <title>Summer Ready with Margaret Dabbs</title>
+        <title>OPI Professional Nailcare</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="QVC Style HD">
         <title>Save up to 50% off on Kim &amp; Co</title>
@@ -24394,7 +24403,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="QVC Extra">
-        <title>Spring Fashion with Jockey</title>
+        <title>Garden &amp; Furniture Deals</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="High Street TV 3">
         <title>5 Minute CleverChef</title>
@@ -30004,7 +30013,7 @@
         <title>Cine Hour</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429190000 +0000" channel="iON TV">
-        <title>News Room</title>
+        <title>Health Guide</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429192400 +0000" channel="iON TV">
         <title>Gardening and Beyond with BGS</title>
@@ -36393,8 +36402,11 @@
     <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="BBC Two Wal HD">
         <title>Newsnight, followed by Weather</title>
     </programme>
-    <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250429220000 +0000" stop="20250429225500 +0000" channel="BBC Two Wal HD">
         <title>First Minister's Questions</title>
+    </programme>
+    <programme start="20250429225500 +0000" stop="20250429235500 +0000" channel="BBC Two Wal HD">
+        <title>Coast</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="BBC Two NI HD">
         <title>Newsnight, followed by Weather</title>
@@ -36483,8 +36495,11 @@
     <programme start="20250429124000 +0000" stop="20250429133000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250429133000 +0000" stop="20250429170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429133000 +0000" stop="20250429160000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250429160000 +0000" stop="20250429170000 +0000" channel="BBC RB 1 HD">
+        <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250429170000 +0000" stop="20250429180000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
