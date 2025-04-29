@@ -123,7 +123,7 @@
     <programme start="20250504170000 +0000" stop="20250504193000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Gotham FC v Chicago Stars</title>
     </programme>
-    <programme start="20250504190000 +0000" stop="20250504203000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250504193000 +0000" stop="20250504210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
@@ -180,8 +180,8 @@
     <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
-    <programme start="20250507170000 +0000" stop="20250507173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories</title>
+    <programme start="20250507170000 +0000" stop="20250507180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Inside Matters</title>
     </programme>
     <programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
