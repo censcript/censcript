@@ -12246,23 +12246,35 @@
     <programme start="20250430050000 +0000" stop="20250430080000 +0000" channel="MTV MUSIC">
         <title>New &amp; Now!</title>
     </programme>
-    <programme start="20250430080000 +0000" stop="20250430100000 +0000" channel="MTV MUSIC">
+    <programme start="20250430080000 +0000" stop="20250430095500 +0000" channel="MTV MUSIC">
         <title>Calvin Harris Official Top 20</title>
     </programme>
-    <programme start="20250430100000 +0000" stop="20250430150000 +0000" channel="MTV MUSIC">
+    <programme start="20250430095500 +0000" stop="20250430100000 +0000" channel="MTV MUSIC">
+        <title>PinkPantheress: Brand New Vid</title>
+    </programme>
+    <programme start="20250430100000 +0000" stop="20250430141000 +0000" channel="MTV MUSIC">
         <title>Top 50 Ultimate Debut No.1s!</title>
+    </programme>
+    <programme start="20250430141000 +0000" stop="20250430150000 +0000" channel="MTV MUSIC">
+        <title>Should've Been 2020s No.1s!</title>
     </programme>
     <programme start="20250430150000 +0000" stop="20250430160000 +0000" channel="MTV MUSIC">
         <title>Fresh Out</title>
     </programme>
-    <programme start="20250430160000 +0000" stop="20250430180000 +0000" channel="MTV MUSIC">
+    <programme start="20250430160000 +0000" stop="20250430175000 +0000" channel="MTV MUSIC">
         <title>No.1s On This Day: 2001-2024</title>
+    </programme>
+    <programme start="20250430175000 +0000" stop="20250430180000 +0000" channel="MTV MUSIC">
+        <title>Kendrick x SZA</title>
     </programme>
     <programme start="20250430180000 +0000" stop="20250430190000 +0000" channel="MTV MUSIC">
         <title>Guess The Year</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="MTV MUSIC">
+    <programme start="20250430190000 +0000" stop="20250430195500 +0000" channel="MTV MUSIC">
         <title>Miley Cyrus Official Top 10</title>
+    </programme>
+    <programme start="20250430195500 +0000" stop="20250430200000 +0000" channel="MTV MUSIC">
+        <title>Hot Spot: Ravyn Lenae</title>
     </programme>
     <programme start="20250430200000 +0000" stop="20250430220000 +0000" channel="MTV MUSIC">
         <title>Nu-Metal Mayhem with Jack</title>
@@ -12294,19 +12306,13 @@
     <programme start="20250430130000 +0000" stop="20250430134500 +0000" channel="MTV HITS">
         <title>Club MTV's Big 10</title>
     </programme>
-    <programme start="20250430134500 +0000" stop="20250430140000 +0000" channel="MTV HITS">
-        <title>Party Anthems!</title>
-    </programme>
-    <programme start="20250430140000 +0000" stop="20250430170000 +0000" channel="MTV HITS">
+    <programme start="20250430134500 +0000" stop="20250430170000 +0000" channel="MTV HITS">
         <title>Party Anthems!</title>
     </programme>
     <programme start="20250430170000 +0000" stop="20250430204000 +0000" channel="MTV HITS">
         <title>David Guetta: Hit 50!</title>
     </programme>
-    <programme start="20250430204000 +0000" stop="20250430220000 +0000" channel="MTV HITS">
-        <title>Big Tunes!</title>
-    </programme>
-    <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="MTV HITS">
+    <programme start="20250430204000 +0000" stop="20250430214000 +0000" channel="MTV HITS">
         <title>Big Tunes!</title>
     </programme>
     <programme start="20250429200000 +0000" stop="20250429220000 +0000" channel="MTV 90s">
@@ -12324,38 +12330,29 @@
     <programme start="20250430050000 +0000" stop="20250430075500 +0000" channel="MTV 90s">
         <title>The Big Breakfast Mix!</title>
     </programme>
-    <programme start="20250430075500 +0000" stop="20250430080000 +0000" channel="MTV 90s">
+    <programme start="20250430075500 +0000" stop="20250430095500 +0000" channel="MTV 90s">
         <title>Michael x Janet Jackson Hit Battle</title>
     </programme>
-    <programme start="20250430080000 +0000" stop="20250430095500 +0000" channel="MTV 90s">
-        <title>Michael x Janet Jackson Hit Battle</title>
-    </programme>
-    <programme start="20250430095500 +0000" stop="20250430100000 +0000" channel="MTV 90s">
+    <programme start="20250430095500 +0000" stop="20250430115500 +0000" channel="MTV 90s">
         <title>Ultimate 20: 90s Movie Soundtracks</title>
     </programme>
-    <programme start="20250430100000 +0000" stop="20250430115500 +0000" channel="MTV 90s">
-        <title>Ultimate 20: 90s Movie Soundtracks</title>
-    </programme>
-    <programme start="20250430115500 +0000" stop="20250430120000 +0000" channel="MTV 90s">
+    <programme start="20250430115500 +0000" stop="20250430125500 +0000" channel="MTV 90s">
         <title>Take That Official Top 10</title>
     </programme>
-    <programme start="20250430120000 +0000" stop="20250430125500 +0000" channel="MTV 90s">
-        <title>Take That Official Top 10</title>
-    </programme>
-    <programme start="20250430125500 +0000" stop="20250430130000 +0000" channel="MTV 90s">
+    <programme start="20250430125500 +0000" stop="20250430162000 +0000" channel="MTV 90s">
         <title>1999 Wrapped!</title>
     </programme>
-    <programme start="20250430130000 +0000" stop="20250430170000 +0000" channel="MTV 90s">
-        <title>1999 Wrapped!</title>
+    <programme start="20250430162000 +0000" stop="20250430170000 +0000" channel="MTV 90s">
+        <title>1999's Chart Champs!</title>
     </programme>
     <programme start="20250430170000 +0000" stop="20250430175500 +0000" channel="MTV 90s">
         <title>This Week In 1990: Rewind 10!</title>
     </programme>
-    <programme start="20250430175500 +0000" stop="20250430180000 +0000" channel="MTV 90s">
+    <programme start="20250430175500 +0000" stop="20250430220500 +0000" channel="MTV 90s">
         <title>50 Boyband Bops: 90s Vs The Rest</title>
     </programme>
-    <programme start="20250430180000 +0000" stop="20250430190000 +0000" channel="MTV 90s">
-        <title>50 Boyband Bops: 90s Vs The Rest</title>
+    <programme start="20250430220500 +0000" stop="20250430230500 +0000" channel="MTV 90s">
+        <title>Definitely Maybe vs Parklife!</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429232500 +0000" channel="MTV 80s">
         <title>Happy Hits Of The 80s!</title>
@@ -12372,25 +12369,16 @@
     <programme start="20250430080000 +0000" stop="20250430122000 +0000" channel="MTV 80s">
         <title>Happy Hits Of The 80s!</title>
     </programme>
-    <programme start="20250430122000 +0000" stop="20250430130000 +0000" channel="MTV 80s">
-        <title>80s Double Shots: 2 From 1!</title>
-    </programme>
-    <programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="MTV 80s">
+    <programme start="20250430122000 +0000" stop="20250430140000 +0000" channel="MTV 80s">
         <title>80s Double Shots: 2 From 1!</title>
     </programme>
     <programme start="20250430140000 +0000" stop="20250430183000 +0000" channel="MTV 80s">
         <title>Top 50 US Number 1s Of The 80s!</title>
     </programme>
-    <programme start="20250430183000 +0000" stop="20250430190000 +0000" channel="MTV 80s">
+    <programme start="20250430183000 +0000" stop="20250430195500 +0000" channel="MTV 80s">
         <title>Guess The Year</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430195500 +0000" channel="MTV 80s">
-        <title>Guess The Year</title>
-    </programme>
-    <programme start="20250430195500 +0000" stop="20250430200000 +0000" channel="MTV 80s">
-        <title>Power Ballad Heaven! Top 50</title>
-    </programme>
-    <programme start="20250430200000 +0000" stop="20250430210000 +0000" channel="MTV 80s">
+    <programme start="20250430195500 +0000" stop="20250430205500 +0000" channel="MTV 80s">
         <title>Power Ballad Heaven! Top 50</title>
     </programme>
     <programme start="20250429160000 +0000" stop="20250429230500 +0000" channel="Clubland TV">
@@ -28062,13 +28050,7 @@
     <programme start="20250429220000 +0000" stop="20250429221300 +0000" channel="Eman Channel">
         <title>What we Say Before we Sleep</title>
     </programme>
-    <programme start="20250429221300 +0000" stop="20250429230000 +0000" channel="Eman Channel">
-        <title>Makkah Live</title>
-    </programme>
-    <programme start="20250429230000 +0000" stop="20250429231300 +0000" channel="Eman Channel">
-        <title>What we Say Before we Sleep</title>
-    </programme>
-    <programme start="20250429231300 +0000" stop="20250430013000 +0000" channel="Eman Channel">
+    <programme start="20250429221300 +0000" stop="20250430013000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250430013000 +0000" stop="20250430020500 +0000" channel="Eman Channel">
@@ -29559,14 +29541,8 @@
     <programme start="20250430120300 +0000" stop="20250430120800 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250430120800 +0000" stop="20250430120900 +0000" channel="NTV">
+    <programme start="20250430120800 +0000" stop="20250430130000 +0000" channel="NTV">
         <title>Shashon</title>
-    </programme>
-    <programme start="20250430120900 +0000" stop="20250430121400 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250430121400 +0000" stop="20250430130000 +0000" channel="NTV">
-        <title>Anjuman</title>
     </programme>
     <programme start="20250430130000 +0000" stop="20250430133000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -29583,14 +29559,8 @@
     <programme start="20250430160000 +0000" stop="20250430163000 +0000" channel="NTV">
         <title>Onnorokom Golpo</title>
     </programme>
-    <programme start="20250430163000 +0000" stop="20250430163300 +0000" channel="NTV">
+    <programme start="20250430163000 +0000" stop="20250430170000 +0000" channel="NTV">
         <title>Food Caravan</title>
-    </programme>
-    <programme start="20250430163300 +0000" stop="20250430163800 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250430163800 +0000" stop="20250430170000 +0000" channel="NTV">
-        <title>Glamour World</title>
     </programme>
     <programme start="20250430170000 +0000" stop="20250430170400 +0000" channel="NTV">
         <title>Toke Pawar Jonno</title>
@@ -29604,13 +29574,7 @@
     <programme start="20250430180000 +0000" stop="20250430181500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
-    <programme start="20250430181500 +0000" stop="20250430183900 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
-    </programme>
-    <programme start="20250430183900 +0000" stop="20250430184400 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250430184400 +0000" stop="20250430190000 +0000" channel="NTV">
+    <programme start="20250430181500 +0000" stop="20250430190000 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430192600 +0000" channel="NTV">
@@ -29619,13 +29583,7 @@
     <programme start="20250430192600 +0000" stop="20250430193100 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250430193100 +0000" stop="20250430195600 +0000" channel="NTV">
-        <title>Law and Justice</title>
-    </programme>
-    <programme start="20250430195600 +0000" stop="20250430200000 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250430200000 +0000" stop="20250430203000 +0000" channel="NTV">
+    <programme start="20250430193100 +0000" stop="20250430203000 +0000" channel="NTV">
         <title>Law and Justice</title>
     </programme>
     <programme start="20250430203000 +0000" stop="20250430203700 +0000" channel="NTV">
@@ -36139,7 +36097,7 @@
         <title>First Minister's Questions</title>
     </programme>
     <programme start="20250429225500 +0000" stop="20250429230500 +0000" channel="BBC Two Wal HD">
-        <title>Natural World</title>
+        <title>Meet the Bears</title>
     </programme>
     <programme start="20250429230500 +0000" stop="20250430010500 +0000" channel="BBC Two Wal HD">
         <title>Snooker: World Championship Extra</title>
