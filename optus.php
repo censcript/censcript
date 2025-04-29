@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Rewind</title>
-    </programme>
     <programme start="20250430140000 +0000" stop="20250430150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kawasaki v Gamba</title>
+    </programme>
+    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Yokohama FM</title>
     </programme>
 </tv>

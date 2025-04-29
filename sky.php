@@ -25047,10 +25047,10 @@
     <programme start="20250429052400 +0000" stop="20250429060000 +0000" channel="SONY TV HD">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250429060000 +0000" stop="20250429065100 +0000" channel="SONY TV HD">
+    <programme start="20250429060000 +0000" stop="20250429065200 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250429065100 +0000" stop="20250429072100 +0000" channel="SONY TV HD">
+    <programme start="20250429065200 +0000" stop="20250429072100 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250429072100 +0000" stop="20250429075400 +0000" channel="SONY TV HD">
@@ -25062,10 +25062,10 @@
     <programme start="20250429082600 +0000" stop="20250429085800 +0000" channel="SONY TV HD">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250429085800 +0000" stop="20250429100100 +0000" channel="SONY TV HD">
+    <programme start="20250429085800 +0000" stop="20250429100000 +0000" channel="SONY TV HD">
         <title>C.I.D. - 2024</title>
     </programme>
-    <programme start="20250429100100 +0000" stop="20250429103100 +0000" channel="SONY TV HD">
+    <programme start="20250429100000 +0000" stop="20250429103100 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
     <programme start="20250429103100 +0000" stop="20250429115700 +0000" channel="SONY TV HD">
@@ -25089,16 +25089,16 @@
     <programme start="20250429162300 +0000" stop="20250429180000 +0000" channel="SONY TV HD">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429190100 +0000" channel="SONY TV HD">
+    <programme start="20250429180000 +0000" stop="20250429190200 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250429190100 +0000" stop="20250429193000 +0000" channel="SONY TV HD">
+    <programme start="20250429190200 +0000" stop="20250429193000 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250429193000 +0000" stop="20250429200100 +0000" channel="SONY TV HD">
+    <programme start="20250429193000 +0000" stop="20250429200200 +0000" channel="SONY TV HD">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250429200100 +0000" stop="20250429212900 +0000" channel="SONY TV HD">
+    <programme start="20250429200200 +0000" stop="20250429212900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250429212900 +0000" stop="20250429223100 +0000" channel="SONY TV HD">
@@ -34152,8 +34152,11 @@
     <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250429200000 +0000" stop="20250429214500 +0000" channel="Racing TV HD">
+    <programme start="20250429200000 +0000" stop="20250429211500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
+    </programme>
+    <programme start="20250429211500 +0000" stop="20250429214500 +0000" channel="Racing TV HD">
+        <title>Racing Replay</title>
     </programme>
     <programme start="20250429214500 +0000" stop="20250429224500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
@@ -34467,10 +34470,10 @@
     <programme start="20250429052400 +0000" stop="20250429060000 +0000" channel="SONY TV">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250429060000 +0000" stop="20250429065100 +0000" channel="SONY TV">
+    <programme start="20250429060000 +0000" stop="20250429065200 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250429065100 +0000" stop="20250429072100 +0000" channel="SONY TV">
+    <programme start="20250429065200 +0000" stop="20250429072100 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
     <programme start="20250429072100 +0000" stop="20250429075400 +0000" channel="SONY TV">
@@ -34482,10 +34485,10 @@
     <programme start="20250429082600 +0000" stop="20250429085800 +0000" channel="SONY TV">
         <title>Shrimad Ramayan</title>
     </programme>
-    <programme start="20250429085800 +0000" stop="20250429100100 +0000" channel="SONY TV">
+    <programme start="20250429085800 +0000" stop="20250429100000 +0000" channel="SONY TV">
         <title>C.I.D. - 2024</title>
     </programme>
-    <programme start="20250429100100 +0000" stop="20250429103100 +0000" channel="SONY TV">
+    <programme start="20250429100000 +0000" stop="20250429103100 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
     <programme start="20250429103100 +0000" stop="20250429115700 +0000" channel="SONY TV">
@@ -34509,16 +34512,16 @@
     <programme start="20250429162300 +0000" stop="20250429180000 +0000" channel="SONY TV">
         <title>The Kapil Sharma Show</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429190100 +0000" channel="SONY TV">
+    <programme start="20250429180000 +0000" stop="20250429190200 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250429190100 +0000" stop="20250429193000 +0000" channel="SONY TV">
+    <programme start="20250429190200 +0000" stop="20250429193000 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250429193000 +0000" stop="20250429200100 +0000" channel="SONY TV">
+    <programme start="20250429193000 +0000" stop="20250429200200 +0000" channel="SONY TV">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250429200100 +0000" stop="20250429212900 +0000" channel="SONY TV">
+    <programme start="20250429200200 +0000" stop="20250429212900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
     <programme start="20250429212900 +0000" stop="20250429223100 +0000" channel="SONY TV">
