@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250429040000 +0000" stop="20250429061500 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - FC Tokyo v Shimizu</title>
-    </programme>
     <programme start="20250429055500 +0000" stop="20250429081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Gamba v Kyoto</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
+    </programme>
+    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
     </programme>
 </tv>
