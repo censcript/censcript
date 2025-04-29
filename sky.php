@@ -337,7 +337,7 @@
         <title>New: George Clarke's Amazing...</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220500 +0000" channel="Channel 4 HD">
-        <title>New: Barristers: Fighting for...</title>
+        <title>Celebrity Gogglebox</title>
     </programme>
     <programme start="20250429220500 +0000" stop="20250429230500 +0000" channel="Channel 4 HD">
         <title>Gogglebox</title>
@@ -7444,7 +7444,7 @@
         <title>New: George Clarke's Amazing...</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="Channel 4+1">
-        <title>New: Barristers: Fighting for...</title>
+        <title>Celebrity Gogglebox</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="Channel 5+1">
         <title>New: Forensics: Crash Scene Investigators</title>
@@ -36231,8 +36231,11 @@
     <programme start="20250429213000 +0000" stop="20250429214000 +0000" channel="BBC One Wal HD">
         <title>BBC Wales Today</title>
     </programme>
-    <programme start="20250429214000 +0000" stop="20250429224000 +0000" channel="BBC One Wal HD">
-        <title>P Diddy: The Rise and Fall</title>
+    <programme start="20250429214000 +0000" stop="20250429221000 +0000" channel="BBC One Wal HD">
+        <title>Rewind: 60 Years of Welsh Pop -...</title>
+    </programme>
+    <programme start="20250429221000 +0000" stop="20250429224000 +0000" channel="BBC One Wal HD">
+        <title>Mike Peters: The Alarm Live</title>
     </programme>
     <programme start="20250429224000 +0000" stop="20250429234000 +0000" channel="BBC One Wal HD">
         <title>The Repair Shop</title>
