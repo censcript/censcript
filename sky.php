@@ -13044,11 +13044,8 @@
     <programme start="20250429090001 +0000" stop="20250429100000 +0000" channel="SkySpMainEvHD">
         <title>Good Morning Sports Fans</title>
     </programme>
-    <programme start="20250429100000 +0000" stop="20250429140000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250429100000 +0000" stop="20250429180000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Madrid</title>
-    </programme>
-    <programme start="20250429140000 +0000" stop="20250429180000 +0000" channel="SkySpMainEvHD">
-        <title>Live IPL'25: DC v KKR</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429220000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Madrid</title>
@@ -14182,7 +14179,7 @@
         <title>Live PSL: Quetta G v Multan S</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429200000 +0000" channel="SkySp Mix HD">
-        <title>Chris Euabnk Jr v Conor Benn Hlts</title>
+        <title>Chris Eubank Jr v Conor Benn Hlts</title>
     </programme>
     <programme start="20250429200000 +0000" stop="20250429210000 +0000" channel="SkySp Mix HD">
         <title>DP World Tour Golf Highlights</title>
@@ -14718,19 +14715,19 @@
     <programme start="20250429130000 +0000" stop="20250429180000 +0000" channel="Racing TV">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429194500 +0000" channel="Racing TV">
+    <programme start="20250429180000 +0000" stop="20250429193000 +0000" channel="Racing TV">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250429194500 +0000" stop="20250429201500 +0000" channel="Racing TV">
+    <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250429201500 +0000" stop="20250429213000 +0000" channel="Racing TV">
+    <programme start="20250429200000 +0000" stop="20250429211500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="Racing TV">
+    <programme start="20250429211500 +0000" stop="20250429214500 +0000" channel="Racing TV">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="Racing TV">
+    <programme start="20250429214500 +0000" stop="20250429224500 +0000" channel="Racing TV">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250428170000 +0000" stop="20250428230000 +0000" channel="TNTSBoxOffHD">
@@ -25393,13 +25390,13 @@
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250429080000 +0000" stop="20250429083000 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429083000 +0000" stop="20250429093000 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250429093000 +0000" stop="20250429100000 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429100000 +0000" stop="20250429105000 +0000" channel="COLORS HD">
         <title>Parineetii</title>
@@ -25450,7 +25447,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250429211500 +0000" stop="20250429214500 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429214500 +0000" stop="20250429222000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -28917,11 +28914,8 @@
     <programme start="20250429184500 +0000" stop="20250429191500 +0000" channel="Akaal Channel">
         <title>Akaal London: Punjabi Virsa</title>
     </programme>
-    <programme start="20250429191500 +0000" stop="20250429200000 +0000" channel="Akaal Channel">
+    <programme start="20250429191500 +0000" stop="20250429201500 +0000" channel="Akaal Channel">
         <title>Live: Support Punjab Farmers</title>
-    </programme>
-    <programme start="20250429200000 +0000" stop="20250429201500 +0000" channel="Akaal Channel">
-        <title>Akaal Channel News</title>
     </programme>
     <programme start="20250429201500 +0000" stop="20250429204500 +0000" channel="Akaal Channel">
         <title>Akaal Channel Uncensored</title>
@@ -34152,19 +34146,16 @@
     <programme start="20250429130000 +0000" stop="20250429180000 +0000" channel="Racing TV HD">
         <title>Live Racing</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429194500 +0000" channel="Racing TV HD">
+    <programme start="20250429180000 +0000" stop="20250429193000 +0000" channel="Racing TV HD">
         <title>Luck on Sunday</title>
     </programme>
-    <programme start="20250429194500 +0000" stop="20250429201500 +0000" channel="Racing TV HD">
+    <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="Racing TV HD">
         <title>Racing Replay</title>
     </programme>
-    <programme start="20250429201500 +0000" stop="20250429213000 +0000" channel="Racing TV HD">
+    <programme start="20250429200000 +0000" stop="20250429214500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
-    <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="Racing TV HD">
-        <title>Racing Replay</title>
-    </programme>
-    <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="Racing TV HD">
+    <programme start="20250429214500 +0000" stop="20250429224500 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="Sky News">
@@ -34708,13 +34699,13 @@
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250429080000 +0000" stop="20250429083000 +0000" channel="COLORS">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429083000 +0000" stop="20250429093000 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250429093000 +0000" stop="20250429100000 +0000" channel="COLORS">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429100000 +0000" stop="20250429105000 +0000" channel="COLORS">
         <title>Parineetii</title>
@@ -34765,7 +34756,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250429211500 +0000" stop="20250429214500 +0000" channel="COLORS">
-        <title>Doree 2</title>
+        <title>Doree</title>
     </programme>
     <programme start="20250429214500 +0000" stop="20250429222000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
