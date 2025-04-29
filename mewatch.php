@@ -375,9 +375,6 @@
     <programme start="20250429154500 +0000" stop="20250429164000 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 1</title>
     </programme>
-    <programme start="20250428160016 +0000" stop="20250429010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250429010000 +0000" stop="20250429013006 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 8</title>
     </programme>

@@ -26586,55 +26586,34 @@
     <programme start="20250429073500 +0000" stop="20250429074500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250429074500 +0000" stop="20250429075000 +0000" channel="MTA1 World HD">
+    <programme start="20250429074500 +0000" stop="20250429080000 +0000" channel="MTA1 World HD">
         <title>Art And Craft</title>
-    </programme>
-    <programme start="20250429075000 +0000" stop="20250429080000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
     </programme>
     <programme start="20250429080000 +0000" stop="20250429085000 +0000" channel="MTA1 World HD">
         <title>International Jama'at News</title>
     </programme>
-    <programme start="20250429085000 +0000" stop="20250429094500 +0000" channel="MTA1 World HD">
+    <programme start="20250429085000 +0000" stop="20250429095000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Lajna</title>
-    </programme>
-    <programme start="20250429094500 +0000" stop="20250429095000 +0000" channel="MTA1 World HD">
-        <title>Intikhab-e-Sukhan</title>
     </programme>
     <programme start="20250429095000 +0000" stop="20250429105000 +0000" channel="MTA1 World HD">
         <title>Intikhab-e-Sukhan</title>
     </programme>
-    <programme start="20250429105000 +0000" stop="20250429113000 +0000" channel="MTA1 World HD">
+    <programme start="20250429105000 +0000" stop="20250429114500 +0000" channel="MTA1 World HD">
         <title>National Waqfeen-e-Nau Ijtema 2025</title>
-    </programme>
-    <programme start="20250429113000 +0000" stop="20250429114500 +0000" channel="MTA1 World HD">
-        <title>The Age Of Reform In Muslim India</title>
     </programme>
     <programme start="20250429114500 +0000" stop="20250429115500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250429115500 +0000" stop="20250429120000 +0000" channel="MTA1 World HD">
+    <programme start="20250429115500 +0000" stop="20250429121000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250429120000 +0000" stop="20250429121000 +0000" channel="MTA1 World HD">
-        <title>Tilawat</title>
-    </programme>
-    <programme start="20250429121000 +0000" stop="20250429121500 +0000" channel="MTA1 World HD">
+    <programme start="20250429121000 +0000" stop="20250429122000 +0000" channel="MTA1 World HD">
         <title>Dars-e-Malfoozat</title>
     </programme>
-    <programme start="20250429121500 +0000" stop="20250429122000 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Malfoozat</title>
-    </programme>
-    <programme start="20250429122000 +0000" stop="20250429122500 +0000" channel="MTA1 World HD">
+    <programme start="20250429122000 +0000" stop="20250429125000 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
     </programme>
-    <programme start="20250429122500 +0000" stop="20250429125000 +0000" channel="MTA1 World HD">
-        <title>Roundup</title>
-    </programme>
-    <programme start="20250429125000 +0000" stop="20250429125500 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250429125500 +0000" stop="20250429135000 +0000" channel="MTA1 World HD">
+    <programme start="20250429125000 +0000" stop="20250429135000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250429135000 +0000" stop="20250429135500 +0000" channel="MTA1 World HD">
@@ -26643,38 +26622,20 @@
     <programme start="20250429135500 +0000" stop="20250429140500 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250429140500 +0000" stop="20250429141000 +0000" channel="MTA1 World HD">
+    <programme start="20250429140500 +0000" stop="20250429143500 +0000" channel="MTA1 World HD">
         <title>Life Of Muhammad</title>
     </programme>
-    <programme start="20250429141000 +0000" stop="20250429142000 +0000" channel="MTA1 World HD">
-        <title>Ahd-e-Rafta</title>
-    </programme>
-    <programme start="20250429142000 +0000" stop="20250429143500 +0000" channel="MTA1 World HD">
-        <title>Villages Of Africa</title>
-    </programme>
-    <programme start="20250429143500 +0000" stop="20250429144000 +0000" channel="MTA1 World HD">
+    <programme start="20250429143500 +0000" stop="20250429154000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
-    <programme start="20250429144000 +0000" stop="20250429154000 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Jalsa Salana Address</title>
-    </programme>
-    <programme start="20250429154000 +0000" stop="20250429154500 +0000" channel="MTA1 World HD">
+    <programme start="20250429154000 +0000" stop="20250429161000 +0000" channel="MTA1 World HD">
         <title>Kudak</title>
     </programme>
-    <programme start="20250429154500 +0000" stop="20250429161000 +0000" channel="MTA1 World HD">
-        <title>Kudak</title>
-    </programme>
-    <programme start="20250429161000 +0000" stop="20250429161500 +0000" channel="MTA1 World HD">
+    <programme start="20250429161000 +0000" stop="20250429163500 +0000" channel="MTA1 World HD">
         <title>Mind Body Spirit</title>
     </programme>
-    <programme start="20250429161500 +0000" stop="20250429163500 +0000" channel="MTA1 World HD">
+    <programme start="20250429163500 +0000" stop="20250429170500 +0000" channel="MTA1 World HD">
         <title>Roundup</title>
-    </programme>
-    <programme start="20250429163500 +0000" stop="20250429164000 +0000" channel="MTA1 World HD">
-        <title>Roundup</title>
-    </programme>
-    <programme start="20250429164000 +0000" stop="20250429170500 +0000" channel="MTA1 World HD">
-        <title>Mind Body Spirit</title>
     </programme>
     <programme start="20250429170500 +0000" stop="20250429180000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Mulaqat With Lajna</title>
@@ -26685,11 +26646,8 @@
     <programme start="20250429182000 +0000" stop="20250429183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250429183500 +0000" stop="20250429191500 +0000" channel="MTA1 World HD">
+    <programme start="20250429183500 +0000" stop="20250429193000 +0000" channel="MTA1 World HD">
         <title>National Waqfeen-e-Nau Ijtema 2025</title>
-    </programme>
-    <programme start="20250429191500 +0000" stop="20250429193000 +0000" channel="MTA1 World HD">
-        <title>The Palestine Israel Conflict</title>
     </programme>
     <programme start="20250429193000 +0000" stop="20250429194000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -26697,32 +26655,20 @@
     <programme start="20250429194000 +0000" stop="20250429200000 +0000" channel="MTA1 World HD">
         <title>MTA Explore</title>
     </programme>
-    <programme start="20250429200000 +0000" stop="20250429202000 +0000" channel="MTA1 World HD">
+    <programme start="20250429200000 +0000" stop="20250429202500 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
     </programme>
-    <programme start="20250429202000 +0000" stop="20250429205000 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250429202500 +0000" stop="20250429210000 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250429205000 +0000" stop="20250429210000 +0000" channel="MTA1 World HD">
+    <programme start="20250429210000 +0000" stop="20250429212000 +0000" channel="MTA1 World HD">
         <title>Balance</title>
-    </programme>
-    <programme start="20250429210000 +0000" stop="20250429211000 +0000" channel="MTA1 World HD">
-        <title>Balance</title>
-    </programme>
-    <programme start="20250429211000 +0000" stop="20250429212000 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
     </programme>
     <programme start="20250429212000 +0000" stop="20250429213000 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
     </programme>
-    <programme start="20250429213000 +0000" stop="20250429221000 +0000" channel="MTA1 World HD">
+    <programme start="20250429213000 +0000" stop="20250429223000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
-    </programme>
-    <programme start="20250429221000 +0000" stop="20250429222000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250429222000 +0000" stop="20250429223000 +0000" channel="MTA1 World HD">
-        <title>Football In The Gambia</title>
     </programme>
     <programme start="20250429223000 +0000" stop="20250429223500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -29511,13 +29457,13 @@
     <programme start="20250429100000 +0000" stop="20250429113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250429113000 +0000" stop="20250429120700 +0000" channel="IQRA Bangla">
+    <programme start="20250429113000 +0000" stop="20250429120300 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250429120700 +0000" stop="20250429121200 +0000" channel="IQRA Bangla">
+    <programme start="20250429120300 +0000" stop="20250429120800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250429121200 +0000" stop="20250429123000 +0000" channel="IQRA Bangla">
+    <programme start="20250429120800 +0000" stop="20250429123000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250429123000 +0000" stop="20250429130000 +0000" channel="IQRA Bangla">
@@ -29532,31 +29478,34 @@
     <programme start="20250429143000 +0000" stop="20250429153000 +0000" channel="IQRA Bangla">
         <title>Legal Hour</title>
     </programme>
-    <programme start="20250429153000 +0000" stop="20250429164000 +0000" channel="IQRA Bangla">
+    <programme start="20250429153000 +0000" stop="20250429170300 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250429164000 +0000" stop="20250429170000 +0000" channel="IQRA Bangla">
+    <programme start="20250429170300 +0000" stop="20250429171000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250429170000 +0000" stop="20250429180000 +0000" channel="IQRA Bangla">
+    <programme start="20250429171000 +0000" stop="20250429180500 +0000" channel="IQRA Bangla">
         <title>Focus Point</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429184900 +0000" channel="IQRA Bangla">
+    <programme start="20250429180500 +0000" stop="20250429190000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250429184900 +0000" stop="20250429190000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250429190000 +0000" stop="20250429193000 +0000" channel="IQRA Bangla">
+    <programme start="20250429190000 +0000" stop="20250429192400 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250429193000 +0000" stop="20250429200500 +0000" channel="IQRA Bangla">
+    <programme start="20250429192400 +0000" stop="20250429193000 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Magrib</title>
+    </programme>
+    <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="IQRA Bangla">
         <title>Agrodut</title>
     </programme>
-    <programme start="20250429200500 +0000" stop="20250429201100 +0000" channel="IQRA Bangla">
+    <programme start="20250429200000 +0000" stop="20250429203500 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250429203500 +0000" stop="20250429204000 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250429201100 +0000" stop="20250429213000 +0000" channel="IQRA Bangla">
+    <programme start="20250429204000 +0000" stop="20250429213000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429223000 +0000" channel="IQRA Bangla">
@@ -29604,98 +29553,98 @@
     <programme start="20250429060000 +0000" stop="20250429063000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250429063000 +0000" stop="20250429070000 +0000" channel="ATN">
-        <title>Chayer Chumuke</title>
-    </programme>
-    <programme start="20250429070000 +0000" stop="20250429080000 +0000" channel="ATN">
-        <title>Kajol chokher meye</title>
+    <programme start="20250429063000 +0000" stop="20250429080000 +0000" channel="ATN">
+        <title>Alapcharita</title>
     </programme>
     <programme start="20250429080000 +0000" stop="20250429083000 +0000" channel="ATN">
-        <title>Dhum Tana</title>
+        <title>Rehana</title>
     </programme>
     <programme start="20250429083000 +0000" stop="20250429090000 +0000" channel="ATN">
-        <title>House No 420</title>
+        <title>Palki</title>
     </programme>
     <programme start="20250429090000 +0000" stop="20250429093000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250429093000 +0000" stop="20250429100000 +0000" channel="ATN">
-        <title>Obiram Bangladesh</title>
+        <title>Amader Shekor</title>
     </programme>
     <programme start="20250429100000 +0000" stop="20250429110000 +0000" channel="ATN">
-        <title>Khalato Boner Shongsher</title>
+        <title>Batpar Unlimited</title>
     </programme>
-    <programme start="20250429110000 +0000" stop="20250429120700 +0000" channel="ATN">
-        <title>Bashiwala</title>
+    <programme start="20250429110000 +0000" stop="20250429120500 +0000" channel="ATN">
+        <title>Rongbaz Badsha</title>
     </programme>
-    <programme start="20250429120700 +0000" stop="20250429121200 +0000" channel="ATN">
+    <programme start="20250429120500 +0000" stop="20250429121000 +0000" channel="ATN">
         <title>Zuhr Adhaan</title>
     </programme>
-    <programme start="20250429121200 +0000" stop="20250429130000 +0000" channel="ATN">
-        <title>Bashiwala</title>
+    <programme start="20250429121000 +0000" stop="20250429130000 +0000" channel="ATN">
+        <title>Rongbaz Badsha</title>
     </programme>
     <programme start="20250429130000 +0000" stop="20250429133000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250429133000 +0000" stop="20250429143000 +0000" channel="ATN">
-        <title>Bashiwala</title>
+    <programme start="20250429133000 +0000" stop="20250429145500 +0000" channel="ATN">
+        <title>Rongbaz Badsha</title>
     </programme>
-    <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250429145500 +0000" stop="20250429150000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250429150000 +0000" stop="20250429153000 +0000" channel="ATN">
+    <programme start="20250429150000 +0000" stop="20250429155500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250429153000 +0000" stop="20250429163000 +0000" channel="ATN">
-        <title>Neel Sharee</title>
+    <programme start="20250429155500 +0000" stop="20250429160000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250429163000 +0000" stop="20250429164500 +0000" channel="ATN">
-        <title>ATN Bangla Music</title>
+    <programme start="20250429160000 +0000" stop="20250429163000 +0000" channel="ATN">
+        <title>Mic</title>
     </programme>
-    <programme start="20250429164500 +0000" stop="20250429165000 +0000" channel="ATN">
+    <programme start="20250429163000 +0000" stop="20250429170000 +0000" channel="ATN">
+        <title>Smritir Alpona Aki</title>
+    </programme>
+    <programme start="20250429170000 +0000" stop="20250429170500 +0000" channel="ATN">
+        <title>ATN News</title>
+    </programme>
+    <programme start="20250429170500 +0000" stop="20250429171000 +0000" channel="ATN">
         <title>Asr Adhaan</title>
     </programme>
-    <programme start="20250429165000 +0000" stop="20250429170000 +0000" channel="ATN">
-        <title>ATN Bangla Music</title>
-    </programme>
-    <programme start="20250429170000 +0000" stop="20250429173000 +0000" channel="ATN">
+    <programme start="20250429171000 +0000" stop="20250429175500 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
-    <programme start="20250429173000 +0000" stop="20250429180000 +0000" channel="ATN">
-        <title>Dhum Tana</title>
+    <programme start="20250429175500 +0000" stop="20250429180000 +0000" channel="ATN">
+        <title>Goreeb Yateem Docu</title>
     </programme>
-    <programme start="20250429180000 +0000" stop="20250429181000 +0000" channel="ATN">
-        <title>House No 420</title>
+    <programme start="20250429180000 +0000" stop="20250429183000 +0000" channel="ATN">
+        <title>Palki</title>
     </programme>
-    <programme start="20250429181000 +0000" stop="20250429184900 +0000" channel="ATN">
-        <title>Smart Girl</title>
+    <programme start="20250429183000 +0000" stop="20250429190000 +0000" channel="ATN">
+        <title>Shimana Chariye</title>
     </programme>
-    <programme start="20250429184900 +0000" stop="20250429185400 +0000" channel="ATN">
+    <programme start="20250429190000 +0000" stop="20250429192400 +0000" channel="ATN">
+        <title>Aponjon</title>
+    </programme>
+    <programme start="20250429192400 +0000" stop="20250429192900 +0000" channel="ATN">
         <title>Magrib Adhaan</title>
     </programme>
-    <programme start="20250429185400 +0000" stop="20250429190000 +0000" channel="ATN">
-        <title>Smart Girl</title>
+    <programme start="20250429192900 +0000" stop="20250429203000 +0000" channel="ATN">
+        <title>Aponjon</title>
     </programme>
-    <programme start="20250429190000 +0000" stop="20250429200500 +0000" channel="ATN">
-        <title>Legal Platform</title>
+    <programme start="20250429203000 +0000" stop="20250429203700 +0000" channel="ATN">
+        <title>ATN News</title>
     </programme>
-    <programme start="20250429200500 +0000" stop="20250429201000 +0000" channel="ATN">
+    <programme start="20250429203700 +0000" stop="20250429204200 +0000" channel="ATN">
         <title>Isha Adhaan</title>
     </programme>
-    <programme start="20250429201000 +0000" stop="20250429203000 +0000" channel="ATN">
-        <title>Legal Platform</title>
-    </programme>
-    <programme start="20250429203000 +0000" stop="20250429210000 +0000" channel="ATN">
+    <programme start="20250429204200 +0000" stop="20250429210000 +0000" channel="ATN">
         <title>ATN News</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429213000 +0000" channel="ATN">
-        <title>Eid Binodon Mela</title>
+        <title>Chutki Vandar</title>
     </programme>
-    <programme start="20250429213000 +0000" stop="20250429223000 +0000" channel="ATN">
-        <title>Valobashar Kache Fera</title>
+    <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="ATN">
+        <title>Rehana</title>
     </programme>
-    <programme start="20250429223000 +0000" stop="20250429233000 +0000" channel="ATN">
-        <title>ATN Archive</title>
+    <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="ATN">
+        <title>Sultan</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428220000 +0000" channel="NTV">
         <title>Faul</title>
@@ -30064,7 +30013,7 @@
         <title>Music Hour</title>
     </programme>
     <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="iON TV">
-        <title>iON Exclusive</title>
+        <title>News Room</title>
     </programme>
     <programme start="20250429160000 +0000" stop="20250429170300 +0000" channel="iON TV">
         <title>Drama Time</title>

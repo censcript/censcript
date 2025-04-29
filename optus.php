@@ -30,7 +30,7 @@
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Emile Smith Rowe</title>
     </programme>
-    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 207.optus">
         <title>N/A - Bayern Munich v Werder Bremen</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
