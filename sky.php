@@ -28891,7 +28891,7 @@
         <title>Chalant Masle</title>
     </programme>
     <programme start="20250429130000 +0000" stop="20250429140000 +0000" channel="Akaal Channel">
-        <title>Sikligar Sikhs Anand Karaj Appeal</title>
+        <title>Live: Support Punjab Farmers</title>
     </programme>
     <programme start="20250429140000 +0000" stop="20250429150000 +0000" channel="Akaal Channel">
         <title>Current Issues</title>
@@ -28900,13 +28900,16 @@
         <title>Akaal Channel Uncensored</title>
     </programme>
     <programme start="20250429153000 +0000" stop="20250429163000 +0000" channel="Akaal Channel">
-        <title>Weekly Langar Sewa MP</title>
+        <title>Live: Support Punjab Farmers</title>
     </programme>
     <programme start="20250429163000 +0000" stop="20250429170000 +0000" channel="Akaal Channel">
         <title>New: Rehras &amp; Aarti Bangla Sahib</title>
     </programme>
-    <programme start="20250429170000 +0000" stop="20250429180000 +0000" channel="Akaal Channel">
-        <title>Live: Sikligar Sikhs Anand Karaj</title>
+    <programme start="20250429170000 +0000" stop="20250429173000 +0000" channel="Akaal Channel">
+        <title>Live: Nagar Kirtan &amp; Jor Mel W'ton</title>
+    </programme>
+    <programme start="20250429173000 +0000" stop="20250429180000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Dubai Trip</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429184500 +0000" channel="Akaal Channel">
         <title>Kaumi Chetna</title>
@@ -28915,18 +28918,21 @@
         <title>Akaal London: Punjabi Virsa</title>
     </programme>
     <programme start="20250429191500 +0000" stop="20250429200000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
+        <title>Live: Support Punjab Farmers</title>
     </programme>
-    <programme start="20250429200000 +0000" stop="20250429203000 +0000" channel="Akaal Channel">
+    <programme start="20250429200000 +0000" stop="20250429201500 +0000" channel="Akaal Channel">
         <title>Akaal Channel News</title>
     </programme>
-    <programme start="20250429203000 +0000" stop="20250429203500 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
-    </programme>
-    <programme start="20250429203500 +0000" stop="20250429210500 +0000" channel="Akaal Channel">
+    <programme start="20250429201500 +0000" stop="20250429204500 +0000" channel="Akaal Channel">
         <title>Akaal Channel Uncensored</title>
     </programme>
-    <programme start="20250429210500 +0000" stop="20250429213000 +0000" channel="Akaal Channel">
+    <programme start="20250429204500 +0000" stop="20250429205000 +0000" channel="Akaal Channel">
+        <title>Today's Sikh History</title>
+    </programme>
+    <programme start="20250429205000 +0000" stop="20250429211500 +0000" channel="Akaal Channel">
+        <title>Special Report</title>
+    </programme>
+    <programme start="20250429211500 +0000" stop="20250429213000 +0000" channel="Akaal Channel">
         <title>Special Report</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429223000 +0000" channel="Akaal Channel">
@@ -36477,10 +36483,10 @@
     <programme start="20250429065500 +0000" stop="20250429090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250429090000 +0000" stop="20250429130000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429090000 +0000" stop="20250429124000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250429130000 +0000" stop="20250429133000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250429124000 +0000" stop="20250429133000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250429133000 +0000" stop="20250429170000 +0000" channel="BBC RB 1 HD">
@@ -36892,7 +36898,7 @@
         <title>talkSPORT Drive</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429210000 +0000" channel="talkSPORT">
-        <title>Kick Off with Adrian Durham</title>
+        <title>Kick Off</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="talkSPORT">
         <title>The Sports Bar</title>
