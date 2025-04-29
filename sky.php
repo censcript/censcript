@@ -23794,16 +23794,16 @@
         <title>Huge Jewellery Savings</title>
     </programme>
     <programme start="20250429090000 +0000" stop="20250429100000 +0000" channel="Gems TV">
-        <title>Live Falling Auctions</title>
+        <title>Unheated Golden Tanzanite</title>
     </programme>
     <programme start="20250429100000 +0000" stop="20250429110000 +0000" channel="Gems TV">
         <title>Great Value Jewellery</title>
     </programme>
     <programme start="20250429110000 +0000" stop="20250429120000 +0000" channel="Gems TV">
-        <title>Olmec Jadeite</title>
+        <title>Si Diamonds</title>
     </programme>
     <programme start="20250429120000 +0000" stop="20250429130000 +0000" channel="Gems TV">
-        <title>Polki Diamonds</title>
+        <title>Manager's Special</title>
     </programme>
     <programme start="20250429130000 +0000" stop="20250429140000 +0000" channel="Gems TV">
         <title>Clearance Hour</title>
@@ -23812,22 +23812,22 @@
         <title>The Daily Discount</title>
     </programme>
     <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="Gems TV">
-        <title>Gemporia Jewellery</title>
+        <title>Tanzanite</title>
     </programme>
     <programme start="20250429160000 +0000" stop="20250429170000 +0000" channel="Gems TV">
-        <title>Omphacite Jade Carving</title>
+        <title>Oyster Copper Mojave</title>
     </programme>
     <programme start="20250429170000 +0000" stop="20250429180000 +0000" channel="Gems TV">
         <title>South Sea Pearls</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429190000 +0000" channel="Gems TV">
-        <title>Clearance Hour</title>
+        <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429200000 +0000" channel="Gems TV">
-        <title>Mutuca Indicolite with Jake Thompson</title>
+        <title>Beauty Tuesday with Kati Elliott</title>
     </programme>
     <programme start="20250429200000 +0000" stop="20250429210000 +0000" channel="Gems TV">
-        <title>Mutuca Indicolite with Jake Thompson</title>
+        <title>Mutuca Indicolite</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="Gems TV">
         <title>Deal of the Day</title>
@@ -26286,25 +26286,25 @@
     <programme start="20250429032600 +0000" stop="20250429060000 +0000" channel="SONY MAX 2">
         <title>Jeevan Ek Sanghursh</title>
     </programme>
-    <programme start="20250429060000 +0000" stop="20250429081900 +0000" channel="SONY MAX 2">
+    <programme start="20250429060000 +0000" stop="20250429084900 +0000" channel="SONY MAX 2">
         <title>Neend Hamari Khwab Tumhare</title>
     </programme>
-    <programme start="20250429081900 +0000" stop="20250429111200 +0000" channel="SONY MAX 2">
+    <programme start="20250429084900 +0000" stop="20250429114200 +0000" channel="SONY MAX 2">
         <title>Dil Aur Deewar</title>
     </programme>
-    <programme start="20250429111200 +0000" stop="20250429143000 +0000" channel="SONY MAX 2">
+    <programme start="20250429114200 +0000" stop="20250429150000 +0000" channel="SONY MAX 2">
         <title>Policewala</title>
     </programme>
-    <programme start="20250429143000 +0000" stop="20250429172600 +0000" channel="SONY MAX 2">
+    <programme start="20250429150000 +0000" stop="20250429175600 +0000" channel="SONY MAX 2">
         <title>Kissise Na Kehna</title>
     </programme>
-    <programme start="20250429172600 +0000" stop="20250429200200 +0000" channel="SONY MAX 2">
+    <programme start="20250429175600 +0000" stop="20250429203200 +0000" channel="SONY MAX 2">
         <title>Disco Dancer</title>
     </programme>
-    <programme start="20250429200200 +0000" stop="20250429203300 +0000" channel="SONY MAX 2">
+    <programme start="20250429203200 +0000" stop="20250429210300 +0000" channel="SONY MAX 2">
         <title>Conversation With Poonam Dhillion</title>
     </programme>
-    <programme start="20250429203300 +0000" stop="20250429213300 +0000" channel="SONY MAX 2">
+    <programme start="20250429210300 +0000" stop="20250429220300 +0000" channel="SONY MAX 2">
         <title>Hum Se Badhkar Kaun</title>
     </programme>
     <programme start="20250428213000 +0000" stop="20250428230000 +0000" channel="Aastha">
