@@ -1413,22 +1413,22 @@
     <programme start="20250430225000 +0000" stop="20250430235000 +0000" channel="BBC Three HD">
         <title>Glow Up: Britain's Next Make-Up Star</title>
     </programme>
-    <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="BBC Four HD">
+    <programme start="20250429213000 +0000" stop="20250429223000 +0000" channel="BBC Four HD">
         <title>Classic British Cars: Made in Coventry</title>
     </programme>
-    <programme start="20250429220000 +0000" stop="20250429235500 +0000" channel="BBC Four HD">
+    <programme start="20250429223000 +0000" stop="20250430002500 +0000" channel="BBC Four HD">
         <title>The Great American Buffalo</title>
     </programme>
-    <programme start="20250429235500 +0000" stop="20250430003500 +0000" channel="BBC Four HD">
+    <programme start="20250430002500 +0000" stop="20250430010500 +0000" channel="BBC Four HD">
         <title>Lucian Freud - Omnibus</title>
     </programme>
-    <programme start="20250430003500 +0000" stop="20250430010000 +0000" channel="BBC Four HD">
+    <programme start="20250430010500 +0000" stop="20250430013000 +0000" channel="BBC Four HD">
         <title>Auerbach at the Biennale</title>
     </programme>
-    <programme start="20250430010000 +0000" stop="20250430024000 +0000" channel="BBC Four HD">
+    <programme start="20250430013000 +0000" stop="20250430031000 +0000" channel="BBC Four HD">
         <title>Listen to Me Marlon - imagine...</title>
     </programme>
-    <programme start="20250430024000 +0000" stop="20250430043000 +0000" channel="BBC Four HD">
+    <programme start="20250430031000 +0000" stop="20250430043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250430043000 +0000" stop="20250430103000 +0000" channel="BBC Four HD">
@@ -26394,8 +26394,11 @@
     <programme start="20250430063000 +0000" stop="20250430065000 +0000" channel="MTA1 World HD">
         <title>Destination Next</title>
     </programme>
-    <programme start="20250430065000 +0000" stop="20250430075000 +0000" channel="MTA1 World HD">
+    <programme start="20250430065000 +0000" stop="20250430074500 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250430074500 +0000" stop="20250430075000 +0000" channel="MTA1 World HD">
+        <title>Qaseedah</title>
     </programme>
     <programme start="20250430075000 +0000" stop="20250430080000 +0000" channel="MTA1 World HD">
         <title>Qaseedah</title>
@@ -26403,11 +26406,17 @@
     <programme start="20250430080000 +0000" stop="20250430082000 +0000" channel="MTA1 World HD">
         <title>World News</title>
     </programme>
-    <programme start="20250430082000 +0000" stop="20250430085500 +0000" channel="MTA1 World HD">
+    <programme start="20250430082000 +0000" stop="20250430085000 +0000" channel="MTA1 World HD">
         <title>The Review Of Religions</title>
     </programme>
-    <programme start="20250430085500 +0000" stop="20250430095000 +0000" channel="MTA1 World HD">
+    <programme start="20250430085000 +0000" stop="20250430085500 +0000" channel="MTA1 World HD">
+        <title>National Waqifat-e-Nau Ijtema 2025</title>
+    </programme>
+    <programme start="20250430085500 +0000" stop="20250430094500 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
+    </programme>
+    <programme start="20250430094500 +0000" stop="20250430095000 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
     </programme>
     <programme start="20250430095000 +0000" stop="20250430095500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -26422,7 +26431,7 @@
         <title>Bachon Ki Duniya</title>
     </programme>
     <programme start="20250430110000 +0000" stop="20250430115000 +0000" channel="MTA1 World HD">
-        <title>USA Maryland Khuddam</title>
+        <title>Huzoor's Mulaqat With Khuddam</title>
     </programme>
     <programme start="20250430115000 +0000" stop="20250430115500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
@@ -26437,36 +26446,57 @@
         <title>Dars-e-Tehreerat</title>
     </programme>
     <programme start="20250430123500 +0000" stop="20250430131000 +0000" channel="MTA1 World HD">
-        <title>Tabweeb Al-Qur'an</title>
+        <title>Tabweebul Qur'an</title>
     </programme>
     <programme start="20250430131000 +0000" stop="20250430135000 +0000" channel="MTA1 World HD">
-        <title>Address At Ansarullah Ijtema UK</title>
+        <title>National Waqifat-e-Nau Ijtema 2025</title>
     </programme>
     <programme start="20250430135000 +0000" stop="20250430140500 +0000" channel="MTA1 World HD">
         <title>Kya, Kyun? Kaise...</title>
     </programme>
-    <programme start="20250430140500 +0000" stop="20250430144000 +0000" channel="MTA1 World HD">
+    <programme start="20250430140500 +0000" stop="20250430141500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250430141500 +0000" stop="20250430142500 +0000" channel="MTA1 World HD">
+        <title>Kya, Kyun, Kaise</title>
+    </programme>
+    <programme start="20250430142500 +0000" stop="20250430144000 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana Speeches</title>
     </programme>
-    <programme start="20250430144000 +0000" stop="20250430154000 +0000" channel="MTA1 World HD">
+    <programme start="20250430144000 +0000" stop="20250430150000 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon</title>
+    </programme>
+    <programme start="20250430150000 +0000" stop="20250430154000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon</title>
     </programme>
     <programme start="20250430154000 +0000" stop="20250430155000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250430155000 +0000" stop="20250430162000 +0000" channel="MTA1 World HD">
+    <programme start="20250430155000 +0000" stop="20250430160000 +0000" channel="MTA1 World HD">
         <title>The Review Of Religions</title>
     </programme>
-    <programme start="20250430162000 +0000" stop="20250430164000 +0000" channel="MTA1 World HD">
+    <programme start="20250430160000 +0000" stop="20250430162000 +0000" channel="MTA1 World HD">
+        <title>The Review Of Religions</title>
+    </programme>
+    <programme start="20250430162000 +0000" stop="20250430163000 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon 4 Kids</title>
+    </programme>
+    <programme start="20250430163000 +0000" stop="20250430164000 +0000" channel="MTA1 World HD">
         <title>Friday Sermon 4 Kids</title>
     </programme>
     <programme start="20250430164000 +0000" stop="20250430164500 +0000" channel="MTA1 World HD">
         <title>The Lost History</title>
     </programme>
-    <programme start="20250430164500 +0000" stop="20250430165500 +0000" channel="MTA1 World HD">
+    <programme start="20250430164500 +0000" stop="20250430165000 +0000" channel="MTA1 World HD">
         <title>Al Asma'ul Husna</title>
     </programme>
-    <programme start="20250430165500 +0000" stop="20250430175000 +0000" channel="MTA1 World HD">
+    <programme start="20250430165000 +0000" stop="20250430165500 +0000" channel="MTA1 World HD">
+        <title>The Lost History</title>
+    </programme>
+    <programme start="20250430165500 +0000" stop="20250430170000 +0000" channel="MTA1 World HD">
+        <title>Huzoor's Jalsa Salana Address</title>
+    </programme>
+    <programme start="20250430170000 +0000" stop="20250430175000 +0000" channel="MTA1 World HD">
         <title>Huzoor's Jalsa Salana Address</title>
     </programme>
     <programme start="20250430175000 +0000" stop="20250430180000 +0000" channel="MTA1 World HD">
@@ -26482,13 +26512,19 @@
         <title>Dars-e-Tehreerat</title>
     </programme>
     <programme start="20250430185000 +0000" stop="20250430194000 +0000" channel="MTA1 World HD">
-        <title>USA Maryland Khuddam</title>
+        <title>Huzoor's Mulaqat With Khuddam</title>
     </programme>
-    <programme start="20250430194000 +0000" stop="20250430195000 +0000" channel="MTA1 World HD">
+    <programme start="20250430194000 +0000" stop="20250430194500 +0000" channel="MTA1 World HD">
         <title>Humanitarian Services Of Jama'at</title>
     </programme>
-    <programme start="20250430195000 +0000" stop="20250430205500 +0000" channel="MTA1 World HD">
+    <programme start="20250430194500 +0000" stop="20250430195000 +0000" channel="MTA1 World HD">
         <title>Rah-e-Huda</title>
+    </programme>
+    <programme start="20250430195000 +0000" stop="20250430205000 +0000" channel="MTA1 World HD">
+        <title>Rah-e-Huda</title>
+    </programme>
+    <programme start="20250430205000 +0000" stop="20250430205500 +0000" channel="MTA1 World HD">
+        <title>National Waqifat-e-Nau Ijtema 2025</title>
     </programme>
     <programme start="20250430205500 +0000" stop="20250430213500 +0000" channel="MTA1 World HD">
         <title>Address At Ansarullah Ijtema UK</title>
@@ -26496,10 +26532,16 @@
     <programme start="20250430213500 +0000" stop="20250430214000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250430214000 +0000" stop="20250430215500 +0000" channel="MTA1 World HD">
+    <programme start="20250430214000 +0000" stop="20250430214500 +0000" channel="MTA1 World HD">
         <title>Kya, Kyun? Kaise...</title>
     </programme>
-    <programme start="20250430215500 +0000" stop="20250430225500 +0000" channel="MTA1 World HD">
+    <programme start="20250430214500 +0000" stop="20250430215500 +0000" channel="MTA1 World HD">
+        <title>Nazm</title>
+    </programme>
+    <programme start="20250430215500 +0000" stop="20250430220000 +0000" channel="MTA1 World HD">
+        <title>Kya, Kyun, Kaise</title>
+    </programme>
+    <programme start="20250430220000 +0000" stop="20250430225500 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
     <programme start="20250430225500 +0000" stop="20250430235500 +0000" channel="MTA1 World HD">
