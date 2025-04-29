@@ -429,8 +429,11 @@
     <programme start="20250429143000 +0000" stop="20250429153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 16</title>
     </programme>
-    <programme start="20250429153000 +0000" stop="20250429160008 +0000" channel="Suria.mewatch">
+    <programme start="20250429153000 +0000" stop="20250429160000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
+    </programme>
+    <programme start="20250429160000 +0000" stop="20250430010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250428153000 +0000" stop="20250428160135 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -588,32 +591,71 @@
     <programme start="20250428120000 +0000" stop="20250428210000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies!</title>
     </programme>
-    <programme start="20250428210000 +0000" stop="20250428220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250428160000 +0000" stop="20250428164000 +0000" channel="now-80s.mewatch">
+        <title>Rod Stewart In The 80s!</title>
     </programme>
-    <programme start="20250428220000 +0000" stop="20250428230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250428164000 +0000" stop="20250428170000 +0000" channel="now-80s.mewatch">
+        <title>Seven Inch Heroes!</title>
     </programme>
-    <programme start="20250428230000 +0000" stop="20250429000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250428170000 +0000" stop="20250428181000 +0000" channel="now-80s.mewatch">
+        <title>Now Electronic! Top 30</title>
     </programme>
-    <programme start="20250429000000 +0000" stop="20250429040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250428181000 +0000" stop="20250428190000 +0000" channel="now-80s.mewatch">
+        <title>Seven Inch Heroes!</title>
     </programme>
-    <programme start="20250429040000 +0000" stop="20250429050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250428190000 +0000" stop="20250428213500 +0000" channel="now-80s.mewatch">
+        <title>Clare Grogan&#039;s Tartan Top 30</title>
     </programme>
-    <programme start="20250429050000 +0000" stop="20250429100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250428213500 +0000" stop="20250428220000 +0000" channel="now-80s.mewatch">
+        <title>Seven Inch Heroes!</title>
     </programme>
-    <programme start="20250429100000 +0000" stop="20250429110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250428220000 +0000" stop="20250429014500 +0000" channel="now-80s.mewatch">
+        <title>What? They Only Peaked At 11?</title>
     </programme>
-    <programme start="20250429110000 +0000" stop="20250429160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250429014500 +0000" stop="20250429020000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250429160000 +0000" stop="20250429210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250429020000 +0000" stop="20250429042500 +0000" channel="now-80s.mewatch">
+        <title>The Heat Is On! Top 30</title>
+    </programme>
+    <programme start="20250429042500 +0000" stop="20250429050000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250429050000 +0000" stop="20250429075000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1989</title>
+    </programme>
+    <programme start="20250429075000 +0000" stop="20250429080000 +0000" channel="now-80s.mewatch">
+        <title>1982 Unleashed!</title>
+    </programme>
+    <programme start="20250429080000 +0000" stop="20250429084500 +0000" channel="now-80s.mewatch">
+        <title>1982&#039;s One-Hit-Wonders! Top 10</title>
+    </programme>
+    <programme start="20250429084500 +0000" stop="20250429090000 +0000" channel="now-80s.mewatch">
+        <title>1982 Unleashed!</title>
+    </programme>
+    <programme start="20250429090000 +0000" stop="20250429093000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1982</title>
+    </programme>
+    <programme start="20250429093000 +0000" stop="20250429103000 +0000" channel="now-80s.mewatch">
+        <title>Now Electronic! Top 30</title>
+    </programme>
+    <programme start="20250429103000 +0000" stop="20250429113500 +0000" channel="now-80s.mewatch">
+        <title>Doris &amp; Bruno&#039;s Top 20 Fame Songs!</title>
+    </programme>
+    <programme start="20250429113500 +0000" stop="20250429120000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250429120000 +0000" stop="20250429143500 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks!</title>
+    </programme>
+    <programme start="20250429143500 +0000" stop="20250429150000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="now-80s.mewatch">
+        <title>Kate Bush 1978-1989</title>
+    </programme>
+    <programme start="20250429160000 +0000" stop="20250429165000 +0000" channel="now-80s.mewatch">
+        <title>The Amazing Whitney Houston!</title>
     </programme>
     <programme start="20250428100000 +0000" stop="20250428200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
