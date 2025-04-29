@@ -13659,10 +13659,13 @@
     <programme start="20250429050000 +0000" stop="20250429070000 +0000" channel="SkySp Tennis HD">
         <title>Madrid: Gauff v Bencic</title>
     </programme>
-    <programme start="20250429070000 +0000" stop="20250429090000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250429070000 +0000" stop="20250429090001 +0000" channel="SkySp Tennis HD">
         <title>Madrid: Andreeva v Starodubsteva</title>
     </programme>
-    <programme start="20250429090000 +0000" stop="20250429180000 +0000" channel="SkySp Tennis HD">
+    <programme start="20250429090001 +0000" stop="20250429100000 +0000" channel="SkySp Tennis HD">
+        <title>ATP Final: Barcelona</title>
+    </programme>
+    <programme start="20250429100000 +0000" stop="20250429180000 +0000" channel="SkySp Tennis HD">
         <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429220000 +0000" channel="SkySp Tennis HD">
@@ -14046,20 +14049,8 @@
     <programme start="20250429090001 +0000" stop="20250429100000 +0000" channel="SkySp+ HD">
         <title>Good Morning Sports Fans</title>
     </programme>
-    <programme start="20250429100000 +0000" stop="20250429150000 +0000" channel="SkySp+ HD">
+    <programme start="20250429100000 +0000" stop="20250429183000 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Madrid</title>
-    </programme>
-    <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="SkySp+ HD">
-        <title>Sports Desk</title>
-    </programme>
-    <programme start="20250429160000 +0000" stop="20250429170000 +0000" channel="SkySp+ HD">
-        <title>Sports Centre</title>
-    </programme>
-    <programme start="20250429170000 +0000" stop="20250429180000 +0000" channel="SkySp+ HD">
-        <title>Sports Centre</title>
-    </programme>
-    <programme start="20250429180000 +0000" stop="20250429183000 +0000" channel="SkySp+ HD">
-        <title>Sky Sports News</title>
     </programme>
     <programme start="20250429183000 +0000" stop="20250429183500 +0000" channel="SkySp+ HD">
         <title>Bundesliga Legends: Mario Gomez</title>
@@ -15117,26 +15108,8 @@
     <programme start="20250429183000 +0000" stop="20250429190000 +0000" channel="BBC NEWS HD">
         <title>The World Today with Maryam Moshiri</title>
     </programme>
-    <programme start="20250429190000 +0000" stop="20250429193000 +0000" channel="BBC NEWS HD">
-        <title>The Context</title>
-    </programme>
-    <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="BBC NEWS HD">
-        <title>The Context</title>
-    </programme>
-    <programme start="20250429200000 +0000" stop="20250429203000 +0000" channel="BBC NEWS HD">
-        <title>The Context</title>
-    </programme>
-    <programme start="20250429203000 +0000" stop="20250429210000 +0000" channel="BBC NEWS HD">
-        <title>The Context</title>
-    </programme>
-    <programme start="20250429210000 +0000" stop="20250429213000 +0000" channel="BBC NEWS HD">
-        <title>BBC News at Ten</title>
-    </programme>
-    <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="BBC NEWS HD">
-        <title>Newsnight</title>
-    </programme>
-    <programme start="20250429220000 +0000" stop="20250429230000 +0000" channel="BBC NEWS HD">
-        <title>BBC World News America</title>
+    <programme start="20250429190000 +0000" stop="20250429200000 +0000" channel="BBC NEWS HD">
+        <title>President Trump: The First 100 Days</title>
     </programme>
     <programme start="20250428215000 +0000" stop="20250428224000 +0000" channel="BBC Parl HD">
         <title>Northern Ireland Assembly -...</title>
@@ -23962,7 +23935,7 @@
         <title>Plungeroo</title>
     </programme>
     <programme start="20250429133000 +0000" stop="20250429140000 +0000" channel="High Street TV 1">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>Pocket Hose Copper Bullet</title>
     </programme>
     <programme start="20250429140000 +0000" stop="20250429143000 +0000" channel="High Street TV 1">
         <title>nutribullet Blender Combo</title>
@@ -23992,7 +23965,7 @@
         <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250429183000 +0000" stop="20250429190000 +0000" channel="High Street TV 1">
-        <title>5 Minute CleverChef</title>
+        <title>Fast Chill Tower</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429193000 +0000" channel="High Street TV 1">
         <title>Click Switch 6-in-1 Mop</title>
@@ -24010,7 +23983,7 @@
         <title>Pocket Vac</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="High Street TV 1">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429223000 +0000" channel="High Street TV 1">
         <title>Jet Hawk</title>
@@ -24121,7 +24094,7 @@
         <title>Plungeroo</title>
     </programme>
     <programme start="20250429140000 +0000" stop="20250429143000 +0000" channel="High Street TV 2">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>Pocket Hose Copper Bullet</title>
     </programme>
     <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="High Street TV 2">
         <title>nutribullet Blender Combo</title>
@@ -24151,7 +24124,7 @@
         <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250429190000 +0000" stop="20250429193000 +0000" channel="High Street TV 2">
-        <title>5 Minute CleverChef</title>
+        <title>Fast Chill Tower</title>
     </programme>
     <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="High Street TV 2">
         <title>Click Switch 6-in-1 Mop</title>
@@ -24169,7 +24142,7 @@
         <title>Pocket Vac</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429223000 +0000" channel="High Street TV 2">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250429223000 +0000" stop="20250429233000 +0000" channel="High Street TV 2">
         <title>Jet Hawk</title>
@@ -24532,7 +24505,7 @@
         <title>Plungeroo</title>
     </programme>
     <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="High Street TV 3">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>Pocket Hose Copper Bullet</title>
     </programme>
     <programme start="20250429150000 +0000" stop="20250429153000 +0000" channel="High Street TV 3">
         <title>nutribullet Blender Combo</title>
@@ -24562,7 +24535,7 @@
         <title>Power Air Fryer Cooker</title>
     </programme>
     <programme start="20250429193000 +0000" stop="20250429200000 +0000" channel="High Street TV 3">
-        <title>5 Minute CleverChef</title>
+        <title>Fast Chill Tower</title>
     </programme>
     <programme start="20250429200000 +0000" stop="20250429203000 +0000" channel="High Street TV 3">
         <title>Click Switch 6-in-1 Mop</title>
@@ -24580,7 +24553,7 @@
         <title>Pocket Vac</title>
     </programme>
     <programme start="20250429223000 +0000" stop="20250429233000 +0000" channel="High Street TV 3">
-        <title>Power XL Vortex Air Fryer</title>
+        <title>5 Minute CleverChef</title>
     </programme>
     <programme start="20250428210000 +0000" stop="20250428230000 +0000" channel="JewelleryMaker">
         <title>JewelleryMaker plus Recorded Demos</title>
@@ -28731,20 +28704,20 @@
     <programme start="20250429130000 +0000" stop="20250429140000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250429140000 +0000" stop="20250429143000 +0000" channel="Sikh Channel">
+    <programme start="20250429140000 +0000" stop="20250429150000 +0000" channel="Sikh Channel">
+        <title>Nagar Kirtan - Woolwich</title>
+    </programme>
+    <programme start="20250429150000 +0000" stop="20250429153000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250429143000 +0000" stop="20250429150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
-    </programme>
-    <programme start="20250429150000 +0000" stop="20250429160000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+    <programme start="20250429153000 +0000" stop="20250429160000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250429160000 +0000" stop="20250429173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250429173000 +0000" stop="20250429180000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Mahima Sukhmani Sahib Path</title>
     </programme>
     <programme start="20250429180000 +0000" stop="20250429183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
