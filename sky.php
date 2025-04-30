@@ -28140,8 +28140,11 @@
     <programme start="20250430190000 +0000" stop="20250430192600 +0000" channel="Eman Channel">
         <title>Ask Eman Urdu</title>
     </programme>
-    <programme start="20250430192600 +0000" stop="20250430194300 +0000" channel="Eman Channel">
+    <programme start="20250430192600 +0000" stop="20250430194100 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
+    </programme>
+    <programme start="20250430194100 +0000" stop="20250430194300 +0000" channel="Eman Channel">
+        <title>Ask Eman Urdu</title>
     </programme>
     <programme start="20250430194300 +0000" stop="20250430200000 +0000" channel="Eman Channel">
         <title>Ask Eman Urdu</title>
@@ -35989,7 +35992,7 @@
         <title>MOTD: UEFA Champions League Highlights</title>
     </programme>
     <programme start="20250430222500 +0000" stop="20250430232500 +0000" channel="BBC One Wal HD">
-        <title>Who Do You Think You Are?</title>
+        <title>P Diddy: The Rise and Fall</title>
     </programme>
     <programme start="20250429214000 +0000" stop="20250429223000 +0000" channel="BBC One NI HD">
         <title>The Crime I Can't Forget</title>
