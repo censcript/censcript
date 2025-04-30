@@ -13423,10 +13423,10 @@
         <title>Madrid Tennis Highlights</title>
     </programme>
     <programme start="20250430110000 +0000" stop="20250430180000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: Madrid QFs</title>
+        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250430180000 +0000" stop="20250430220000 +0000" channel="SkySp Tennis HD">
-        <title>Live Tennis: Madrid QFs</title>
+        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430223000 +0000" channel="SkySp Tennis HD">
         <title>WTA Miami 2025 Review</title>
@@ -13773,8 +13773,11 @@
     <programme start="20250430100000 +0000" stop="20250430110000 +0000" channel="SkySp+ HD">
         <title>The Football Show</title>
     </programme>
-    <programme start="20250430110000 +0000" stop="20250430113000 +0000" channel="SkySp+ HD">
+    <programme start="20250430110000 +0000" stop="20250430110001 +0000" channel="SkySp+ HD">
         <title>Lunchtime Live</title>
+    </programme>
+    <programme start="20250430110001 +0000" stop="20250430113000 +0000" channel="SkySp+ HD">
+        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250430113000 +0000" stop="20250430120000 +0000" channel="SkySp+ HD">
         <title>Lunchtime Live</title>
@@ -13797,11 +13800,8 @@
     <programme start="20250430170000 +0000" stop="20250430180000 +0000" channel="SkySp+ HD">
         <title>Sports Centre</title>
     </programme>
-    <programme start="20250430180000 +0000" stop="20250430183000 +0000" channel="SkySp+ HD">
+    <programme start="20250430180000 +0000" stop="20250430183500 +0000" channel="SkySp+ HD">
         <title>Sky Sports News</title>
-    </programme>
-    <programme start="20250430183000 +0000" stop="20250430183500 +0000" channel="SkySp+ HD">
-        <title>Bundesliga Legends: Mario Gomez</title>
     </programme>
     <programme start="20250430183500 +0000" stop="20250430204500 +0000" channel="SkySp+ HD">
         <title>Live EFL: Blackpool v Birmingham</title>
@@ -23461,7 +23461,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250430120000 +0000" stop="20250430130000 +0000" channel="QVC Beauty">
-        <title>Hair by Philip Kingsley</title>
+        <title>Look Good, Feel Good</title>
     </programme>
     <programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="QVC Beauty">
         <title>Beauty Day Deals</title>
@@ -23482,7 +23482,7 @@
         <title>OPI Professional Nailcare</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="QVC Beauty">
-        <title>L'Occitane: Beauty En Provence</title>
+        <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250430200000 +0000" stop="20250430210000 +0000" channel="QVC Beauty">
         <title>Laura Geller Make-up</title>
@@ -24196,13 +24196,13 @@
         <title>Today's Top Tech</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
-    </programme>
-    <programme start="20250430200000 +0000" stop="20250430210000 +0000" channel="QVC Extra">
         <title>Home Hacks</title>
     </programme>
+    <programme start="20250430200000 +0000" stop="20250430210000 +0000" channel="QVC Extra">
+        <title>Your Spring Garden</title>
+    </programme>
     <programme start="20250430210000 +0000" stop="20250430220000 +0000" channel="QVC Extra">
-        <title>Garden &amp; Furniture Deals</title>
+        <title>Your Spring Garden</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="QVC Extra">
         <title>MarlaWynne April Favourites</title>
@@ -25264,7 +25264,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="COLORS HD">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430224000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
@@ -28143,10 +28143,7 @@
     <programme start="20250430192600 +0000" stop="20250430194100 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250430194100 +0000" stop="20250430194300 +0000" channel="Eman Channel">
-        <title>Ask Eman Urdu</title>
-    </programme>
-    <programme start="20250430194300 +0000" stop="20250430200000 +0000" channel="Eman Channel">
+    <programme start="20250430194100 +0000" stop="20250430200000 +0000" channel="Eman Channel">
         <title>Ask Eman Urdu</title>
     </programme>
     <programme start="20250430200000 +0000" stop="20250430201500 +0000" channel="Eman Channel">
@@ -34555,7 +34552,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="COLORS">
-        <title>Doree</title>
+        <title>Doree 2</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430224000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
@@ -37261,7 +37258,7 @@
         <title>Nick Grimshaw</title>
     </programme>
     <programme start="20250430090000 +0000" stop="20250430120000 +0000" channel="BBC R6 Music">
-        <title>Lauren Laverne</title>
+        <title>Deb Grant</title>
     </programme>
     <programme start="20250430120000 +0000" stop="20250430150000 +0000" channel="BBC R6 Music">
         <title>Craig Charles</title>
