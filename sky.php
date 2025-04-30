@@ -14995,7 +14995,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430224500 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250430224500 +0000" stop="20250430225500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Child Rape Gang Statement</title>
