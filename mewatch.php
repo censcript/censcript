@@ -3,28 +3,28 @@
     <programme start="20250429153006 +0000" stop="20250429162003 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 4</title>
     </programme>
-    <programme start="20250429162003 +0000" stop="20250429164550 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429162001 +0000" stop="20250429164547 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 60</title>
     </programme>
-    <programme start="20250429164550 +0000" stop="20250429174013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429164547 +0000" stop="20250429174010 +0000" channel="Channel 5.mewatch">
         <title>The Good Karma Hospital S3 - EP 5</title>
     </programme>
-    <programme start="20250429174013 +0000" stop="20250429184016 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429174010 +0000" stop="20250429184013 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 9</title>
     </programme>
-    <programme start="20250429184016 +0000" stop="20250429193523 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429184013 +0000" stop="20250429193521 +0000" channel="Channel 5.mewatch">
         <title>Password US S1 - EP 4</title>
     </programme>
-    <programme start="20250429193523 +0000" stop="20250429200511 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429193521 +0000" stop="20250429200509 +0000" channel="Channel 5.mewatch">
         <title>Arts 21 - EP 396</title>
     </programme>
-    <programme start="20250429200511 +0000" stop="20250429203021 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429200509 +0000" stop="20250429203019 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7966</title>
     </programme>
-    <programme start="20250429203021 +0000" stop="20250429210000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429203019 +0000" stop="20250429205958 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 141</title>
     </programme>
-    <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250429205958 +0000" stop="20250429220000 +0000" channel="Channel 5.mewatch">
         <title>Bake Off: The Professionals S3 - EP 2</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250429223005 +0000" channel="Channel 5.mewatch">
@@ -246,10 +246,10 @@
     <programme start="20250429154508 +0000" stop="20250429164021 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 1</title>
     </programme>
-    <programme start="20250429164021 +0000" stop="20250429173421 +0000" channel="Channel U.mewatch">
+    <programme start="20250429163952 +0000" stop="20250429173351 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 47</title>
     </programme>
-    <programme start="20250429173421 +0000" stop="20250429220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250429173351 +0000" stop="20250429220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 48</title>
     </programme>
     <programme start="20250429220000 +0000" stop="20250430025808 +0000" channel="Channel U.mewatch">
@@ -483,16 +483,13 @@
     <programme start="20250430140000 +0000" stop="20250430163000 +0000" channel="Vasantham.mewatch">
         <title>Sevappi</title>
     </programme>
-    <programme start="20250429160000 +0000" stop="20250429160315 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250429160315 +0000" stop="20250429170105 +0000" channel="CNA.mewatch">
+    <programme start="20250429160413 +0000" stop="20250429170206 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250429170105 +0000" stop="20250429175959 +0000" channel="CNA.mewatch">
+    <programme start="20250429170206 +0000" stop="20250429180000 +0000" channel="CNA.mewatch">
         <title>No Ordinary Rescue S2 - EP 4</title>
     </programme>
-    <programme start="20250429175959 +0000" stop="20250429185959 +0000" channel="CNA.mewatch">
+    <programme start="20250429180000 +0000" stop="20250429185959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20250429185959 +0000" stop="20250429200000 +0000" channel="CNA.mewatch">
