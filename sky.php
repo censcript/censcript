@@ -405,10 +405,10 @@
     <programme start="20250430065500 +0000" stop="20250430071000 +0000" channel="Channel 5">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430071000 +0000" stop="20250430072000 +0000" channel="Channel 5">
+    <programme start="20250430071000 +0000" stop="20250430072500 +0000" channel="Channel 5">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430072000 +0000" stop="20250430073500 +0000" channel="Channel 5">
+    <programme start="20250430072500 +0000" stop="20250430073500 +0000" channel="Channel 5">
         <title>Milo</title>
     </programme>
     <programme start="20250430073500 +0000" stop="20250430074500 +0000" channel="Channel 5">
@@ -555,7 +555,10 @@
     <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="SkyShowcaseHD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430213000 +0000" stop="20250430223000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250430213000 +0000" stop="20250430214500 +0000" channel="SkyShowcaseHD">
+        <title>An Idiot Abroad</title>
+    </programme>
+    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkyShowcaseHD">
         <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="SkyShowcaseHD">
@@ -7422,10 +7425,10 @@
     <programme start="20250430075500 +0000" stop="20250430081000 +0000" channel="Channel 5+1">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430081000 +0000" stop="20250430082000 +0000" channel="Channel 5+1">
+    <programme start="20250430081000 +0000" stop="20250430082500 +0000" channel="Channel 5+1">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430082000 +0000" stop="20250430083500 +0000" channel="Channel 5+1">
+    <programme start="20250430082500 +0000" stop="20250430083500 +0000" channel="Channel 5+1">
         <title>Milo</title>
     </programme>
     <programme start="20250430083500 +0000" stop="20250430084500 +0000" channel="Channel 5+1">
@@ -7575,7 +7578,10 @@
     <programme start="20250430200000 +0000" stop="20250430223000 +0000" channel="SkyShowcase+1">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="SkyShowcase+1">
+    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkyShowcase+1">
+        <title>An Idiot Abroad</title>
+    </programme>
+    <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkyShowcase+1">
         <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="Sky Witness+1">
@@ -12870,11 +12876,8 @@
     <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="SkySpMainEvHD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430214500 +0000" stop="20250430224500 +0000" channel="SkySpMainEvHD">
         <title>Chris Eubank Jr v Conor Benn Hlts</title>
-    </programme>
-    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkySpMainEvHD">
-        <title>Sky Sports News</title>
     </programme>
     <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkySpMainEvHD">
         <title>Sky Sports News</title>
@@ -13134,11 +13137,8 @@
     <programme start="20250430163000 +0000" stop="20250430190000 +0000" channel="SkySp F'ball HD">
         <title>Live WSL: Aston Villa v Arsenal</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="SkySp F'ball HD">
+    <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="SkySp F'ball HD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
-    </programme>
-    <programme start="20250430213000 +0000" stop="20250430214500 +0000" channel="SkySp F'ball HD">
-        <title>EFL 24/25: Hull City v Derby</title>
     </programme>
     <programme start="20250430214500 +0000" stop="20250430220000 +0000" channel="SkySp F'ball HD">
         <title>EFL 24/25: Leeds v Bristol City</title>
@@ -14967,8 +14967,11 @@
     <programme start="20250430072500 +0000" stop="20250430081500 +0000" channel="BBC Parl HD">
         <title>Welsh First Minister's Questions</title>
     </programme>
-    <programme start="20250430081500 +0000" stop="20250430103000 +0000" channel="BBC Parl HD">
+    <programme start="20250430081500 +0000" stop="20250430102000 +0000" channel="BBC Parl HD">
         <title>Live Transport Committee</title>
+    </programme>
+    <programme start="20250430102000 +0000" stop="20250430103000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250430103000 +0000" stop="20250430110000 +0000" channel="BBC Parl HD">
         <title>Live Wales Office Questions</title>
@@ -14976,7 +14979,13 @@
     <programme start="20250430110000 +0000" stop="20250430113500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250430113500 +0000" stop="20250430183000 +0000" channel="BBC Parl HD">
+    <programme start="20250430113500 +0000" stop="20250430123500 +0000" channel="BBC Parl HD">
+        <title>Live Houthi Airstrike Statement</title>
+    </programme>
+    <programme start="20250430123500 +0000" stop="20250430133500 +0000" channel="BBC Parl HD">
+        <title>Live Energy Grid Resilience Statement</title>
+    </programme>
+    <programme start="20250430133500 +0000" stop="20250430183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250430183000 +0000" stop="20250430210000 +0000" channel="BBC Parl HD">
@@ -30567,10 +30576,10 @@
     <programme start="20250430065500 +0000" stop="20250430071000 +0000" channel="Channel 5 HD">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430071000 +0000" stop="20250430072000 +0000" channel="Channel 5 HD">
+    <programme start="20250430071000 +0000" stop="20250430072500 +0000" channel="Channel 5 HD">
         <title>PAW Patrol</title>
     </programme>
-    <programme start="20250430072000 +0000" stop="20250430073500 +0000" channel="Channel 5 HD">
+    <programme start="20250430072500 +0000" stop="20250430073500 +0000" channel="Channel 5 HD">
         <title>Milo</title>
     </programme>
     <programme start="20250430073500 +0000" stop="20250430074500 +0000" channel="Channel 5 HD">
@@ -30717,7 +30726,10 @@
     <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="Sky Showcase">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430213000 +0000" stop="20250430223000 +0000" channel="Sky Showcase">
+    <programme start="20250430213000 +0000" stop="20250430214500 +0000" channel="Sky Showcase">
+        <title>An Idiot Abroad</title>
+    </programme>
+    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="Sky Showcase">
         <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="Sky Showcase">
@@ -36001,7 +36013,7 @@
         <title>Bargain Hunt</title>
     </programme>
     <programme start="20250430120000 +0000" stop="20250430123500 +0000" channel="BBC One NI HD">
-        <title>BBC News at One</title>
+        <title>BBC News at One including BBC Newsline</title>
     </programme>
     <programme start="20250430123500 +0000" stop="20250430130000 +0000" channel="BBC One NI HD">
         <title>BBC Newsline</title>

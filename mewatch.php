@@ -967,7 +967,7 @@
         <title>No programme available now. Next broadcast on 30th April, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs PSM Makassar FC</title>
     </programme>
     <programme start="20250430120400 +0000" stop="20250430143000 +0000" channel="Live 2.mewatch">
-        <title>Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs BG Pathum United FC</title>
+        <title>Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs PSM Makassar FC</title>
     </programme>
     <programme start="20250430143000 +0000" stop="20250430160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 2nd May, Friday 8.30pm. ONE Friday Fights 106</title>
