@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250430190500 +0000" stop="20250430213000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Chelsea</title>
-    </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Emile Smith Rowe</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Arsenal v Newcastle United</title>
+    </programme>
+    <programme start="20250518175000 +0000" stop="20250518210000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Manchester City v Bournemouth</title>
     </programme>
 </tv>
