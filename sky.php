@@ -14128,7 +14128,7 @@
         <title>EL: Ajax Final 16/17</title>
     </programme>
     <programme start="20250501111500 +0000" stop="20250501114500 +0000" channel="MUTV HD">
-        <title>UEL Highlights: FC Twente 24/25 (H)</title>
+        <title>MUW Highlights: United v Chelsea</title>
     </programme>
     <programme start="20250501114500 +0000" stop="20250501121500 +0000" channel="MUTV HD">
         <title>UEL Highlights: Porto 24/25 (A)</title>
@@ -14194,7 +14194,7 @@
         <title>Busby's Dream: The Triumph of '68</title>
     </programme>
     <programme start="20250501221500 +0000" stop="20250501224500 +0000" channel="MUTV HD">
-        <title>Bruno Fernandes: Exclusive Interview</title>
+        <title>MUW Highlights: United v Chelsea</title>
     </programme>
     <programme start="20250501224500 +0000" stop="20250501234500 +0000" channel="MUTV HD">
         <title>Top 20 Bizarre and Unusual Goals</title>
@@ -15021,14 +15021,17 @@
     <programme start="20250501040000 +0000" stop="20250501052500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Agriculture Regulations 2025</title>
     </programme>
-    <programme start="20250501052500 +0000" stop="20250501053000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+    <programme start="20250501052500 +0000" stop="20250501055000 +0000" channel="BBC Parl HD">
+        <title>Wales Office Questions</title>
     </programme>
-    <programme start="20250501053000 +0000" stop="20250501060500 +0000" channel="BBC Parl HD">
+    <programme start="20250501055000 +0000" stop="20250501060500 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250501060500 +0000" stop="20250501083000 +0000" channel="BBC Parl HD">
+    <programme start="20250501060500 +0000" stop="20250501063000 +0000" channel="BBC Parl HD">
         <title>House of Commons</title>
+    </programme>
+    <programme start="20250501063000 +0000" stop="20250501083000 +0000" channel="BBC Parl HD">
+        <title>Culture, Media and Sport Committee</title>
     </programme>
     <programme start="20250501083000 +0000" stop="20250501093000 +0000" channel="BBC Parl HD">
         <title>Live Business and Trade Questions</title>
@@ -29223,13 +29226,13 @@
     <programme start="20250501100000 +0000" stop="20250501113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250501113000 +0000" stop="20250501120700 +0000" channel="IQRA Bangla">
+    <programme start="20250501113000 +0000" stop="20250501120300 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250501120700 +0000" stop="20250501121200 +0000" channel="IQRA Bangla">
+    <programme start="20250501120300 +0000" stop="20250501120800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250501121200 +0000" stop="20250501130000 +0000" channel="IQRA Bangla">
+    <programme start="20250501120800 +0000" stop="20250501130000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501140000 +0000" channel="IQRA Bangla">
@@ -29241,32 +29244,32 @@
     <programme start="20250501143000 +0000" stop="20250501153000 +0000" channel="IQRA Bangla">
         <title>Dosh Diganta</title>
     </programme>
-    <programme start="20250501153000 +0000" stop="20250501164300 +0000" channel="IQRA Bangla">
+    <programme start="20250501153000 +0000" stop="20250501170500 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250501164300 +0000" stop="20250501170000 +0000" channel="IQRA Bangla">
+    <programme start="20250501170500 +0000" stop="20250501171100 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250501170000 +0000" stop="20250501173000 +0000" channel="IQRA Bangla">
+    <programme start="20250501171100 +0000" stop="20250501173600 +0000" channel="IQRA Bangla">
         <title>Iqra Kids TV Show</title>
     </programme>
-    <programme start="20250501173000 +0000" stop="20250501185200 +0000" channel="IQRA Bangla">
-        <title>Myanmar Emergency Appeal</title>
+    <programme start="20250501173600 +0000" stop="20250501192700 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250501185200 +0000" stop="20250501190000 +0000" channel="IQRA Bangla">
+    <programme start="20250501192700 +0000" stop="20250501193200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250501190000 +0000" stop="20250501192300 +0000" channel="IQRA Bangla">
+    <programme start="20250501193200 +0000" stop="20250501194900 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250501192300 +0000" stop="20250501200700 +0000" channel="IQRA Bangla">
-        <title>Myanmar Emergency Appeal</title>
+    <programme start="20250501194900 +0000" stop="20250501203800 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250501200700 +0000" stop="20250501201200 +0000" channel="IQRA Bangla">
+    <programme start="20250501203800 +0000" stop="20250501204300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250501201200 +0000" stop="20250501220000 +0000" channel="IQRA Bangla">
-        <title>Myanmar Emergency Appeal</title>
+    <programme start="20250501204300 +0000" stop="20250501220000 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="IQRA Bangla">
         <title>Jannater pothey</title>
@@ -36219,16 +36222,13 @@
     <programme start="20250501013000 +0000" stop="20250501050000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250501050000 +0000" stop="20250501060000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250501050000 +0000" stop="20250501055500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250501060000 +0000" stop="20250501080000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250501055500 +0000" stop="20250501095500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250501080000 +0000" stop="20250501100000 +0000" channel="BBC RB 1 HD">
-        <title>Snooker: World Championship Extra</title>
-    </programme>
-    <programme start="20250501100000 +0000" stop="20250501120000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250501095500 +0000" stop="20250501120000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
     <programme start="20250501120000 +0000" stop="20250501170000 +0000" channel="BBC RB 1 HD">

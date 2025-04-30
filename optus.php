@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250430190500 +0000" stop="20250430212500 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250430190500 +0000" stop="20250430213000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Manchester United v Chelsea</title>
     </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Optus Sport 11.optus">
