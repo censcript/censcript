@@ -13263,37 +13263,46 @@
     <programme start="20250430050000 +0000" stop="20250430090000 +0000" channel="SkySp Golf HD">
         <title>LPGA Tour Golf</title>
     </programme>
-    <programme start="20250430090000 +0000" stop="20250430110000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430090000 +0000" stop="20250430102001 +0000" channel="SkySp Golf HD">
         <title>The Greatest Solheim</title>
     </programme>
-    <programme start="20250430110000 +0000" stop="20250430150000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430102001 +0000" stop="20250430122001 +0000" channel="SkySp Golf HD">
+        <title>The Greatest Solheim</title>
+    </programme>
+    <programme start="20250430122001 +0000" stop="20250430150000 +0000" channel="SkySp Golf HD">
         <title>LPGA Tour Golf</title>
     </programme>
-    <programme start="20250430150000 +0000" stop="20250430153000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430150000 +0000" stop="20250430170000 +0000" channel="SkySp Golf HD">
         <title>Best of The Women's Openzone</title>
     </programme>
-    <programme start="20250430153000 +0000" stop="20250430160000 +0000" channel="SkySp Golf HD">
-        <title>Roots: Annika Sorenstam</title>
-    </programme>
-    <programme start="20250430160000 +0000" stop="20250430170000 +0000" channel="SkySp Golf HD">
-        <title>DP World Tour Golf Highlights</title>
-    </programme>
-    <programme start="20250430170000 +0000" stop="20250430180000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430170000 +0000" stop="20250430175001 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Champions Highlights</title>
     </programme>
-    <programme start="20250430180000 +0000" stop="20250430183000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430175001 +0000" stop="20250430180000 +0000" channel="SkySp Golf HD">
+        <title>DP World Tour Golf Highlights</title>
+    </programme>
+    <programme start="20250430180000 +0000" stop="20250430185001 +0000" channel="SkySp Golf HD">
         <title>PGA Tour: The Cut</title>
     </programme>
-    <programme start="20250430183000 +0000" stop="20250430193000 +0000" channel="SkySp Golf HD">
-        <title>DP World Tour Golf Highlights</title>
-    </programme>
-    <programme start="20250430193000 +0000" stop="20250430203000 +0000" channel="SkySp Golf HD">
-        <title>PGA Tour Golf Highlights</title>
-    </programme>
-    <programme start="20250430203000 +0000" stop="20250430213000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430185001 +0000" stop="20250430193000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Champions Highlights</title>
     </programme>
-    <programme start="20250430213000 +0000" stop="20250430223000 +0000" channel="SkySp Golf HD">
+    <programme start="20250430193000 +0000" stop="20250430195001 +0000" channel="SkySp Golf HD">
+        <title>PGA Tour Golf Highlights</title>
+    </programme>
+    <programme start="20250430195001 +0000" stop="20250430202001 +0000" channel="SkySp Golf HD">
+        <title>PGA Tour: The Cut</title>
+    </programme>
+    <programme start="20250430202001 +0000" stop="20250430203000 +0000" channel="SkySp Golf HD">
+        <title>DP World Tour Golf Highlights</title>
+    </programme>
+    <programme start="20250430203000 +0000" stop="20250430211001 +0000" channel="SkySp Golf HD">
+        <title>PGA Tour Champions Highlights</title>
+    </programme>
+    <programme start="20250430211001 +0000" stop="20250430221001 +0000" channel="SkySp Golf HD">
+        <title>PGA Tour Champions Highlights</title>
+    </programme>
+    <programme start="20250430221001 +0000" stop="20250430223000 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
     <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="SkySp Golf HD">

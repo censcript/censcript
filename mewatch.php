@@ -357,9 +357,6 @@
     <programme start="20250430154500 +0000" stop="20250430164000 +0000" channel="Channel U.mewatch">
         <title>The Last Defenders - EP 2</title>
     </programme>
-    <programme start="20250429160000 +0000" stop="20250430010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250430010000 +0000" stop="20250430013000 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 9</title>
     </programme>
@@ -420,10 +417,10 @@
     <programme start="20250430160000 +0000" stop="20250430180000 +0000" channel="Suria.mewatch">
         <title>Bonda</title>
     </programme>
-    <programme start="20250429153000 +0000" stop="20250429160313 +0000" channel="Vasantham.mewatch">
+    <programme start="20250429152957 +0000" stop="20250429160127 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250429160313 +0000" stop="20250430010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250429160126 +0000" stop="20250430010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250430010000 +0000" stop="20250430013001 +0000" channel="Vasantham.mewatch">
