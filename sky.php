@@ -552,11 +552,8 @@
     <programme start="20250430183000 +0000" stop="20250430190000 +0000" channel="SkyShowcaseHD">
         <title>The Simpsons</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="SkyShowcaseHD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
-    </programme>
-    <programme start="20250430213000 +0000" stop="20250430214500 +0000" channel="SkyShowcaseHD">
-        <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkyShowcaseHD">
         <title>An Idiot Abroad</title>
@@ -7575,11 +7572,8 @@
     <programme start="20250430193000 +0000" stop="20250430200000 +0000" channel="SkyShowcase+1">
         <title>The Simpsons</title>
     </programme>
-    <programme start="20250430200000 +0000" stop="20250430223000 +0000" channel="SkyShowcase+1">
+    <programme start="20250430200000 +0000" stop="20250430224500 +0000" channel="SkyShowcase+1">
         <title>Live WSL: Manchester Utd v Chelsea</title>
-    </programme>
-    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkyShowcase+1">
-        <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkyShowcase+1">
         <title>An Idiot Abroad</title>
@@ -12867,8 +12861,11 @@
     <programme start="20250430113000 +0000" stop="20250430140000 +0000" channel="SkySpMainEvHD">
         <title>Live: Royal Ascot Trials Day</title>
     </programme>
-    <programme start="20250430140000 +0000" stop="20250430163000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430140000 +0000" stop="20250430140001 +0000" channel="SkySpMainEvHD">
         <title>Live IPL'25: CSK v PBKS</title>
+    </programme>
+    <programme start="20250430140001 +0000" stop="20250430163000 +0000" channel="SkySpMainEvHD">
+        <title>Live Tennis: Madrid</title>
     </programme>
     <programme start="20250430163000 +0000" stop="20250430190000 +0000" channel="SkySpMainEvHD">
         <title>Live WSL: Aston Villa v Arsenal</title>
@@ -13278,13 +13275,13 @@
     <programme start="20250430185001 +0000" stop="20250430193000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Champions Highlights</title>
     </programme>
-    <programme start="20250430193000 +0000" stop="20250430195001 +0000" channel="SkySp Golf HD">
+    <programme start="20250430193000 +0000" stop="20250430195000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf Highlights</title>
     </programme>
-    <programme start="20250430195001 +0000" stop="20250430202001 +0000" channel="SkySp Golf HD">
+    <programme start="20250430195000 +0000" stop="20250430202000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour: The Cut</title>
     </programme>
-    <programme start="20250430202001 +0000" stop="20250430211001 +0000" channel="SkySp Golf HD">
+    <programme start="20250430202000 +0000" stop="20250430211001 +0000" channel="SkySp Golf HD">
         <title>DP World Tour Golf Highlights</title>
     </programme>
     <programme start="20250430211001 +0000" stop="20250430221001 +0000" channel="SkySp Golf HD">
@@ -14995,7 +14992,7 @@
         <title>Prime Minister's Questions</title>
     </programme>
     <programme start="20250430213500 +0000" stop="20250430222000 +0000" channel="BBC Parl HD">
-        <title>Lords Questions</title>
+        <title>House of Lords Questions</title>
     </programme>
     <programme start="20250430222000 +0000" stop="20250430232000 +0000" channel="BBC Parl HD">
         <title>House of Lords</title>
@@ -24894,13 +24891,13 @@
     <programme start="20250430190000 +0000" stop="20250430192900 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250430192900 +0000" stop="20250430200100 +0000" channel="SONY TV HD">
+    <programme start="20250430192900 +0000" stop="20250430200200 +0000" channel="SONY TV HD">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250430200100 +0000" stop="20250430212900 +0000" channel="SONY TV HD">
+    <programme start="20250430200200 +0000" stop="20250430213000 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250430212900 +0000" stop="20250430223400 +0000" channel="SONY TV HD">
+    <programme start="20250430213000 +0000" stop="20250430223400 +0000" channel="SONY TV HD">
         <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250430223400 +0000" stop="20250430233400 +0000" channel="SONY TV HD">
@@ -27051,8 +27048,11 @@
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="Islam Channel">
         <title>Analysis</title>
     </programme>
-    <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="Islam Channel">
-        <title>Commanders Of Faithful</title>
+    <programme start="20250430220000 +0000" stop="20250430223000 +0000" channel="Islam Channel">
+        <title>Timeline: Vietnam War</title>
+    </programme>
+    <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="Islam Channel">
+        <title>Evening Supplications</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="GEO TV">
         <title>Baylagaam</title>
@@ -30723,11 +30723,8 @@
     <programme start="20250430183000 +0000" stop="20250430190000 +0000" channel="Sky Showcase">
         <title>The Simpsons</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="Sky Showcase">
+    <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="Sky Showcase">
         <title>Live WSL: Manchester Utd v Chelsea</title>
-    </programme>
-    <programme start="20250430213000 +0000" stop="20250430214500 +0000" channel="Sky Showcase">
-        <title>An Idiot Abroad</title>
     </programme>
     <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="Sky Showcase">
         <title>An Idiot Abroad</title>
@@ -34296,13 +34293,13 @@
     <programme start="20250430190000 +0000" stop="20250430192900 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250430192900 +0000" stop="20250430200100 +0000" channel="SONY TV">
+    <programme start="20250430192900 +0000" stop="20250430200200 +0000" channel="SONY TV">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250430200100 +0000" stop="20250430212900 +0000" channel="SONY TV">
+    <programme start="20250430200200 +0000" stop="20250430213000 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250430212900 +0000" stop="20250430223400 +0000" channel="SONY TV">
+    <programme start="20250430213000 +0000" stop="20250430223400 +0000" channel="SONY TV">
         <title>C.I.D. - 2024</title>
     </programme>
     <programme start="20250430223400 +0000" stop="20250430233400 +0000" channel="SONY TV">
