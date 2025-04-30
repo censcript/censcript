@@ -29745,16 +29745,10 @@
     <programme start="20250501120000 +0000" stop="20250501120300 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
-    <programme start="20250501120300 +0000" stop="20250501120500 +0000" channel="iON TV">
+    <programme start="20250501120300 +0000" stop="20250501120800 +0000" channel="iON TV">
         <title>Azan-e-Zuhr</title>
     </programme>
-    <programme start="20250501120500 +0000" stop="20250501120800 +0000" channel="iON TV">
-        <title>Azan-e-Zuhr</title>
-    </programme>
-    <programme start="20250501120800 +0000" stop="20250501121000 +0000" channel="iON TV">
-        <title>iON News Time</title>
-    </programme>
-    <programme start="20250501121000 +0000" stop="20250501123000 +0000" channel="iON TV">
+    <programme start="20250501120800 +0000" stop="20250501123000 +0000" channel="iON TV">
         <title>iON News Time</title>
     </programme>
     <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="iON TV">
@@ -29778,13 +29772,7 @@
     <programme start="20250501153800 +0000" stop="20250501160000 +0000" channel="iON TV">
         <title>Music Hour</title>
     </programme>
-    <programme start="20250501160000 +0000" stop="20250501165000 +0000" channel="iON TV">
-        <title>News Room</title>
-    </programme>
-    <programme start="20250501165000 +0000" stop="20250501165500 +0000" channel="iON TV">
-        <title>Azan-e-Asr</title>
-    </programme>
-    <programme start="20250501165500 +0000" stop="20250501170000 +0000" channel="iON TV">
+    <programme start="20250501160000 +0000" stop="20250501170000 +0000" channel="iON TV">
         <title>News Room</title>
     </programme>
     <programme start="20250501170000 +0000" stop="20250501170500 +0000" channel="iON TV">
@@ -29793,22 +29781,13 @@
     <programme start="20250501170500 +0000" stop="20250501171000 +0000" channel="iON TV">
         <title>Azan-e-Asr</title>
     </programme>
-    <programme start="20250501171000 +0000" stop="20250501173000 +0000" channel="iON TV">
-        <title>Health Guide</title>
-    </programme>
-    <programme start="20250501173000 +0000" stop="20250501180000 +0000" channel="iON TV">
+    <programme start="20250501171000 +0000" stop="20250501180000 +0000" channel="iON TV">
         <title>Health Guide</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501190000 +0000" channel="iON TV">
         <title>Drama Time</title>
     </programme>
-    <programme start="20250501190000 +0000" stop="20250501190400 +0000" channel="iON TV">
-        <title>Dream Home</title>
-    </programme>
-    <programme start="20250501190400 +0000" stop="20250501190900 +0000" channel="iON TV">
-        <title>Azan-e-Maghrib</title>
-    </programme>
-    <programme start="20250501190900 +0000" stop="20250501192700 +0000" channel="iON TV">
+    <programme start="20250501190000 +0000" stop="20250501192700 +0000" channel="iON TV">
         <title>Dream Home</title>
     </programme>
     <programme start="20250501192700 +0000" stop="20250501193200 +0000" channel="iON TV">
@@ -29817,13 +29796,7 @@
     <programme start="20250501193200 +0000" stop="20250501200000 +0000" channel="iON TV">
         <title>Dream Home</title>
     </programme>
-    <programme start="20250501200000 +0000" stop="20250501201800 +0000" channel="iON TV">
-        <title>News 24</title>
-    </programme>
-    <programme start="20250501201800 +0000" stop="20250501202300 +0000" channel="iON TV">
-        <title>Azan-e-Isha</title>
-    </programme>
-    <programme start="20250501202300 +0000" stop="20250501203000 +0000" channel="iON TV">
+    <programme start="20250501200000 +0000" stop="20250501203000 +0000" channel="iON TV">
         <title>News 24</title>
     </programme>
     <programme start="20250501203000 +0000" stop="20250501203800 +0000" channel="iON TV">
