@@ -12867,13 +12867,16 @@
     <programme start="20250430163000 +0000" stop="20250430190000 +0000" channel="SkySpMainEvHD">
         <title>Live WSL: Aston Villa v Arsenal</title>
     </programme>
-    <programme start="20250430190000 +0000" stop="20250430213000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="SkySpMainEvHD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430213000 +0000" stop="20250430223000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkySpMainEvHD">
         <title>Chris Eubank Jr v Conor Benn Hlts</title>
     </programme>
-    <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkySpMainEvHD">
+        <title>Sky Sports News</title>
+    </programme>
+    <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkySpMainEvHD">
         <title>Sky Sports News</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="SkySp PL HD">
@@ -13770,38 +13773,11 @@
     <programme start="20250430090000 +0000" stop="20250430100000 +0000" channel="SkySp+ HD">
         <title>The Football Show</title>
     </programme>
-    <programme start="20250430100000 +0000" stop="20250430110000 +0000" channel="SkySp+ HD">
+    <programme start="20250430100000 +0000" stop="20250430110001 +0000" channel="SkySp+ HD">
         <title>The Football Show</title>
     </programme>
-    <programme start="20250430110000 +0000" stop="20250430110001 +0000" channel="SkySp+ HD">
-        <title>Lunchtime Live</title>
-    </programme>
-    <programme start="20250430110001 +0000" stop="20250430113000 +0000" channel="SkySp+ HD">
+    <programme start="20250430110001 +0000" stop="20250430183500 +0000" channel="SkySp+ HD">
         <title>Live Tennis: Madrid</title>
-    </programme>
-    <programme start="20250430113000 +0000" stop="20250430120000 +0000" channel="SkySp+ HD">
-        <title>Lunchtime Live</title>
-    </programme>
-    <programme start="20250430120000 +0000" stop="20250430130000 +0000" channel="SkySp+ HD">
-        <title>Lunchtime Live</title>
-    </programme>
-    <programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="SkySp+ HD">
-        <title>Sports Desk</title>
-    </programme>
-    <programme start="20250430140000 +0000" stop="20250430150000 +0000" channel="SkySp+ HD">
-        <title>Sports Desk</title>
-    </programme>
-    <programme start="20250430150000 +0000" stop="20250430160000 +0000" channel="SkySp+ HD">
-        <title>Sports Desk</title>
-    </programme>
-    <programme start="20250430160000 +0000" stop="20250430170000 +0000" channel="SkySp+ HD">
-        <title>Sports Centre</title>
-    </programme>
-    <programme start="20250430170000 +0000" stop="20250430180000 +0000" channel="SkySp+ HD">
-        <title>Sports Centre</title>
-    </programme>
-    <programme start="20250430180000 +0000" stop="20250430183500 +0000" channel="SkySp+ HD">
-        <title>Sky Sports News</title>
     </programme>
     <programme start="20250430183500 +0000" stop="20250430204500 +0000" channel="SkySp+ HD">
         <title>Live EFL: Blackpool v Birmingham</title>
