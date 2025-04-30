@@ -555,11 +555,8 @@
     <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="SkyShowcaseHD">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250430214500 +0000" stop="20250430224500 +0000" channel="SkyShowcaseHD">
         <title>An Idiot Abroad</title>
-    </programme>
-    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkyShowcaseHD">
-        <title>The Force: Manchester</title>
     </programme>
     <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkyShowcaseHD">
         <title>The Force: Manchester</title>
@@ -14973,13 +14970,13 @@
     <programme start="20250430110000 +0000" stop="20250430113500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250430113500 +0000" stop="20250430123500 +0000" channel="BBC Parl HD">
+    <programme start="20250430113500 +0000" stop="20250430123000 +0000" channel="BBC Parl HD">
         <title>Live Houthi Airstrike Statement</title>
     </programme>
-    <programme start="20250430123500 +0000" stop="20250430133500 +0000" channel="BBC Parl HD">
+    <programme start="20250430123000 +0000" stop="20250430132000 +0000" channel="BBC Parl HD">
         <title>Live Energy Grid Resilience Statement</title>
     </programme>
-    <programme start="20250430133500 +0000" stop="20250430183000 +0000" channel="BBC Parl HD">
+    <programme start="20250430132000 +0000" stop="20250430183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250430183000 +0000" stop="20250430210000 +0000" channel="BBC Parl HD">
@@ -14988,11 +14985,20 @@
     <programme start="20250430210000 +0000" stop="20250430213500 +0000" channel="BBC Parl HD">
         <title>Prime Minister's Questions</title>
     </programme>
-    <programme start="20250430213500 +0000" stop="20250430222000 +0000" channel="BBC Parl HD">
-        <title>House of Lords Questions</title>
+    <programme start="20250430213500 +0000" stop="20250430221500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions</title>
     </programme>
-    <programme start="20250430222000 +0000" stop="20250430232000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250430221500 +0000" stop="20250430222500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Child Rape Gang Statement</title>
+    </programme>
+    <programme start="20250430222500 +0000" stop="20250430223500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Headingley Incident Statement</title>
+    </programme>
+    <programme start="20250430223500 +0000" stop="20250430224500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Kneecap Statement</title>
+    </programme>
+    <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Kashmir Statement</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -16368,8 +16374,11 @@
     <programme start="20250430100000 +0000" stop="20250430103000 +0000" channel="TRT World">
         <title>News</title>
     </programme>
-    <programme start="20250430103000 +0000" stop="20250430110000 +0000" channel="TRT World">
+    <programme start="20250430103000 +0000" stop="20250430104500 +0000" channel="TRT World">
         <title>Focal Point: DRC: An Elusive Peace</title>
+    </programme>
+    <programme start="20250430104500 +0000" stop="20250430110000 +0000" channel="TRT World">
+        <title>Digital Documentaries: Yemen's...</title>
     </programme>
     <programme start="20250430110000 +0000" stop="20250430113000 +0000" channel="TRT World">
         <title>News</title>
@@ -30729,11 +30738,8 @@
     <programme start="20250430190000 +0000" stop="20250430214500 +0000" channel="Sky Showcase">
         <title>Live WSL: Manchester Utd v Chelsea</title>
     </programme>
-    <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="Sky Showcase">
+    <programme start="20250430214500 +0000" stop="20250430224500 +0000" channel="Sky Showcase">
         <title>An Idiot Abroad</title>
-    </programme>
-    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="Sky Showcase">
-        <title>The Force: Manchester</title>
     </programme>
     <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="Sky Showcase">
         <title>The Force: Manchester</title>
@@ -34167,8 +34173,11 @@
     <programme start="20250430130000 +0000" stop="20250430133000 +0000" channel="TRT World HD">
         <title>News</title>
     </programme>
-    <programme start="20250430133000 +0000" stop="20250430140000 +0000" channel="TRT World HD">
+    <programme start="20250430133000 +0000" stop="20250430134500 +0000" channel="TRT World HD">
         <title>One On One: Ersin Tatar</title>
+    </programme>
+    <programme start="20250430134500 +0000" stop="20250430140000 +0000" channel="TRT World HD">
+        <title>Displaced Smiles</title>
     </programme>
     <programme start="20250430140000 +0000" stop="20250430143000 +0000" channel="TRT World HD">
         <title>News</title>

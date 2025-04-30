@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250430140000 +0000" stop="20250430150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250430165000 +0000" stop="20250430191000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Aston Villa v Arsenal</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
         <title>Premier League - Brentford v Fulham</title>
+    </programme>
+    <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
 </tv>
