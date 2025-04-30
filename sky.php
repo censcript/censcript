@@ -23239,7 +23239,7 @@
         <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250430180000 +0000" stop="20250430190000 +0000" channel="QVC HD">
-        <title>Sosandar Fashion Premiere</title>
+        <title>Summer Starts with Sosandar</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="QVC HD">
         <title>Feel Good Beauty with Alison Young</title>
@@ -23455,7 +23455,7 @@
         <title>Beauty Steals and Deals</title>
     </programme>
     <programme start="20250430120000 +0000" stop="20250430130000 +0000" channel="QVC Beauty">
-        <title>Look Good, Feel Good</title>
+        <title>Hair by Philip Kingsley</title>
     </programme>
     <programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="QVC Beauty">
         <title>Beauty Day Deals</title>
@@ -23479,10 +23479,10 @@
         <title>In the Salon with Gatineau</title>
     </programme>
     <programme start="20250430200000 +0000" stop="20250430210000 +0000" channel="QVC Beauty">
-        <title>Laura Geller Make-up</title>
+        <title>Beauty Day Deals</title>
     </programme>
     <programme start="20250430210000 +0000" stop="20250430220000 +0000" channel="QVC Beauty">
-        <title>Nassif MD Skincare</title>
+        <title>NassifMD Skincare</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="QVC Beauty">
         <title>Tarte Cosmetics</title>
@@ -23521,10 +23521,10 @@
         <title>Skechers Footwear</title>
     </programme>
     <programme start="20250430080000 +0000" stop="20250430090000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250430090000 +0000" stop="20250430100000 +0000" channel="QVC Style HD">
-        <title>Nina Leonard's Wardrobe Heroes</title>
+        <title>1st Seen in Nina's Wardrobe</title>
     </programme>
     <programme start="20250430100000 +0000" stop="20250430110000 +0000" channel="QVC Style HD">
         <title>Spotlight on Spring Knitwear</title>
@@ -23560,7 +23560,7 @@
         <title>Kim &amp; Co</title>
     </programme>
     <programme start="20250430210000 +0000" stop="20250430220000 +0000" channel="QVC Style HD">
-        <title>Ruth Langsford Fashion</title>
+        <title>Ruth Langsford Fashion Deals</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="QVC Style HD">
         <title>Frank Usher April Favourites</title>
@@ -29265,13 +29265,13 @@
     <programme start="20250430100000 +0000" stop="20250430113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250430113000 +0000" stop="20250430120700 +0000" channel="IQRA Bangla">
+    <programme start="20250430113000 +0000" stop="20250430120300 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250430120700 +0000" stop="20250430121200 +0000" channel="IQRA Bangla">
+    <programme start="20250430120300 +0000" stop="20250430120800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250430121200 +0000" stop="20250430130000 +0000" channel="IQRA Bangla">
+    <programme start="20250430120800 +0000" stop="20250430130000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="IQRA Bangla">
@@ -29283,31 +29283,37 @@
     <programme start="20250430143000 +0000" stop="20250430153000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250430153000 +0000" stop="20250430164100 +0000" channel="IQRA Bangla">
+    <programme start="20250430153000 +0000" stop="20250430165800 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250430164100 +0000" stop="20250430170000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250430170000 +0000" stop="20250430180000 +0000" channel="IQRA Bangla">
+    <programme start="20250430165800 +0000" stop="20250430170400 +0000" channel="IQRA Bangla">
         <title>Masnoon Dua</title>
     </programme>
-    <programme start="20250430180000 +0000" stop="20250430185100 +0000" channel="IQRA Bangla">
+    <programme start="20250430170400 +0000" stop="20250430170900 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250430170900 +0000" stop="20250430180000 +0000" channel="IQRA Bangla">
+        <title>Masnoon Dua</title>
+    </programme>
+    <programme start="20250430180000 +0000" stop="20250430190000 +0000" channel="IQRA Bangla">
         <title>Dosh Diganta</title>
     </programme>
-    <programme start="20250430185100 +0000" stop="20250430190000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250430190000 +0000" stop="20250430193000 +0000" channel="IQRA Bangla">
+    <programme start="20250430190000 +0000" stop="20250430192600 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250430193000 +0000" stop="20250430200600 +0000" channel="IQRA Bangla">
+    <programme start="20250430192600 +0000" stop="20250430193100 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Magrib</title>
+    </programme>
+    <programme start="20250430193100 +0000" stop="20250430200000 +0000" channel="IQRA Bangla">
         <title>Mon</title>
     </programme>
-    <programme start="20250430200600 +0000" stop="20250430201100 +0000" channel="IQRA Bangla">
+    <programme start="20250430200000 +0000" stop="20250430203700 +0000" channel="IQRA Bangla">
+        <title>Islamic Q&amp;A With IQRA</title>
+    </programme>
+    <programme start="20250430203700 +0000" stop="20250430204200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250430201100 +0000" stop="20250430213000 +0000" channel="IQRA Bangla">
+    <programme start="20250430204200 +0000" stop="20250430213000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430223000 +0000" channel="IQRA Bangla">

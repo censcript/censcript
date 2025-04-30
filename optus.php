@@ -264,6 +264,12 @@
     <programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
+    <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250512160000 +0000" stop="20250512170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
     <programme start="20250516183000 +0000" stop="20250516213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Manchester United</title>
     </programme>
@@ -293,11 +299,5 @@
     </programme>
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Crystal Palace v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
-        <title>Premier League - Brentford v Fulham</title>
-    </programme>
-    <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
 </tv>
