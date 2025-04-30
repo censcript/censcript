@@ -129,19 +129,19 @@
     <programme start="20250429151511 +0000" stop="20250429160605 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 14</title>
     </programme>
-    <programme start="20250429160605 +0000" stop="20250429170020 +0000" channel="Channel 8.mewatch">
+    <programme start="20250429160549 +0000" stop="20250429170004 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 1</title>
     </programme>
-    <programme start="20250429170020 +0000" stop="20250429180003 +0000" channel="Channel 8.mewatch">
+    <programme start="20250429170004 +0000" stop="20250429175947 +0000" channel="Channel 8.mewatch">
         <title>Towkay, Take A Break - EP 1</title>
     </programme>
-    <programme start="20250429180003 +0000" stop="20250429185927 +0000" channel="Channel 8.mewatch">
+    <programme start="20250429175947 +0000" stop="20250429185911 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms - EP 33</title>
     </programme>
-    <programme start="20250429185927 +0000" stop="20250429200004 +0000" channel="Channel 8.mewatch">
+    <programme start="20250429185911 +0000" stop="20250429200003 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms - EP 34</title>
     </programme>
-    <programme start="20250429200004 +0000" stop="20250429205933 +0000" channel="Channel 8.mewatch">
+    <programme start="20250429200003 +0000" stop="20250429205933 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 656</title>
     </programme>
     <programme start="20250429205933 +0000" stop="20250429220000 +0000" channel="Channel 8.mewatch">
@@ -166,16 +166,16 @@
         <title>Take Two - EP 21</title>
     </programme>
     <programme start="20250430020133 +0000" stop="20250430021533 +0000" channel="Channel 8.mewatch">
-        <title>- EP 245</title>
+        <title>The Wonder Shop - EP 245</title>
     </programme>
     <programme start="20250430021533 +0000" stop="20250430021733 +0000" channel="Channel 8.mewatch">
-        <title>- EP 260</title>
+        <title>The Wonder Shop - EP 260</title>
     </programme>
     <programme start="20250430021733 +0000" stop="20250430022433 +0000" channel="Channel 8.mewatch">
-        <title>- EP 228</title>
+        <title>The Wonder Shop - EP 228</title>
     </programme>
     <programme start="20250430022433 +0000" stop="20250430023153 +0000" channel="Channel 8.mewatch">
-        <title>- EP 214</title>
+        <title>The Wonder Shop - EP 214</title>
     </programme>
     <programme start="20250430023153 +0000" stop="20250430033008 +0000" channel="Channel 8.mewatch">
         <title>Taste Of Life - EP 668</title>
@@ -184,13 +184,13 @@
         <title>Taste Of Life - EP 669</title>
     </programme>
     <programme start="20250430042936 +0000" stop="20250430044341 +0000" channel="Channel 8.mewatch">
-        <title>- EP 251</title>
+        <title>The Wonder Shop - EP 251</title>
     </programme>
     <programme start="20250430044341 +0000" stop="20250430044541 +0000" channel="Channel 8.mewatch">
-        <title>- EP 223</title>
+        <title>The Wonder Shop - EP 223</title>
     </programme>
     <programme start="20250430044541 +0000" stop="20250430050000 +0000" channel="Channel 8.mewatch">
-        <title>- EP 241</title>
+        <title>The Wonder Shop - EP 241</title>
     </programme>
     <programme start="20250430050000 +0000" stop="20250430053027 +0000" channel="Channel 8.mewatch">
         <title>News 8 at One</title>
@@ -205,13 +205,13 @@
         <title>Lo &amp; Behold - EP 1138</title>
     </programme>
     <programme start="20250430070102 +0000" stop="20250430071502 +0000" channel="Channel 8.mewatch">
-        <title>- EP 268</title>
+        <title>The Wonder Shop - EP 268</title>
     </programme>
     <programme start="20250430071502 +0000" stop="20250430071702 +0000" channel="Channel 8.mewatch">
-        <title>- EP 238</title>
+        <title>The Wonder Shop - EP 238</title>
     </programme>
     <programme start="20250430071702 +0000" stop="20250430073122 +0000" channel="Channel 8.mewatch">
-        <title>- EP 250</title>
+        <title>The Wonder Shop - EP 250</title>
     </programme>
     <programme start="20250430073122 +0000" stop="20250430083022 +0000" channel="Channel 8.mewatch">
         <title>Sisterhood - EP 36</title>
@@ -256,79 +256,79 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20250430025808 +0000" stop="20250430031208 +0000" channel="Channel U.mewatch">
-        <title>- EP 30</title>
+        <title>The Wonder Shop - EP 30</title>
     </programme>
     <programme start="20250430031208 +0000" stop="20250430031408 +0000" channel="Channel U.mewatch">
-        <title>- EP 153</title>
+        <title>The Wonder Shop - EP 153</title>
     </programme>
     <programme start="20250430031408 +0000" stop="20250430032808 +0000" channel="Channel U.mewatch">
-        <title>- EP 249</title>
+        <title>The Wonder Shop - EP 249</title>
     </programme>
     <programme start="20250430032808 +0000" stop="20250430034208 +0000" channel="Channel U.mewatch">
-        <title>- EP 196</title>
+        <title>The Wonder Shop - EP 196</title>
     </programme>
     <programme start="20250430034208 +0000" stop="20250430034408 +0000" channel="Channel U.mewatch">
-        <title>- EP 154</title>
+        <title>The Wonder Shop - EP 154</title>
     </programme>
     <programme start="20250430034408 +0000" stop="20250430035808 +0000" channel="Channel U.mewatch">
-        <title>- EP 219</title>
+        <title>The Wonder Shop - EP 219</title>
     </programme>
     <programme start="20250430035808 +0000" stop="20250430041208 +0000" channel="Channel U.mewatch">
-        <title>- EP 244</title>
+        <title>The Wonder Shop - EP 244</title>
     </programme>
     <programme start="20250430041208 +0000" stop="20250430041408 +0000" channel="Channel U.mewatch">
-        <title>- EP 223</title>
+        <title>The Wonder Shop - EP 223</title>
     </programme>
     <programme start="20250430041408 +0000" stop="20250430042808 +0000" channel="Channel U.mewatch">
-        <title>- EP 259</title>
+        <title>The Wonder Shop - EP 259</title>
     </programme>
     <programme start="20250430042808 +0000" stop="20250430043508 +0000" channel="Channel U.mewatch">
-        <title>- EP 254</title>
+        <title>The Wonder Shop - EP 254</title>
     </programme>
     <programme start="20250430043508 +0000" stop="20250430044208 +0000" channel="Channel U.mewatch">
-        <title>- EP 243</title>
+        <title>The Wonder Shop - EP 243</title>
     </programme>
     <programme start="20250430044208 +0000" stop="20250430044408 +0000" channel="Channel U.mewatch">
-        <title>- EP 260</title>
+        <title>The Wonder Shop - EP 260</title>
     </programme>
     <programme start="20250430044408 +0000" stop="20250430045808 +0000" channel="Channel U.mewatch">
-        <title>- EP 229</title>
+        <title>The Wonder Shop - EP 229</title>
     </programme>
     <programme start="20250430045808 +0000" stop="20250430051208 +0000" channel="Channel U.mewatch">
-        <title>- EP 263</title>
+        <title>The Wonder Shop - EP 263</title>
     </programme>
     <programme start="20250430051208 +0000" stop="20250430051408 +0000" channel="Channel U.mewatch">
-        <title>- EP 238</title>
+        <title>The Wonder Shop - EP 238</title>
     </programme>
     <programme start="20250430051408 +0000" stop="20250430052808 +0000" channel="Channel U.mewatch">
-        <title>- EP 253</title>
+        <title>The Wonder Shop - EP 253</title>
     </programme>
     <programme start="20250430052808 +0000" stop="20250430054208 +0000" channel="Channel U.mewatch">
-        <title>- EP 230</title>
+        <title>The Wonder Shop - EP 230</title>
     </programme>
     <programme start="20250430054208 +0000" stop="20250430054408 +0000" channel="Channel U.mewatch">
-        <title>- EP 192</title>
+        <title>The Wonder Shop - EP 192</title>
     </programme>
     <programme start="20250430054408 +0000" stop="20250430055808 +0000" channel="Channel U.mewatch">
-        <title>- EP 248</title>
+        <title>The Wonder Shop - EP 248</title>
     </programme>
     <programme start="20250430055808 +0000" stop="20250430061208 +0000" channel="Channel U.mewatch">
-        <title>- EP 203</title>
+        <title>The Wonder Shop - EP 203</title>
     </programme>
     <programme start="20250430061208 +0000" stop="20250430061408 +0000" channel="Channel U.mewatch">
-        <title>- EP 239</title>
+        <title>The Wonder Shop - EP 239</title>
     </programme>
     <programme start="20250430061408 +0000" stop="20250430062808 +0000" channel="Channel U.mewatch">
-        <title>- EP 224</title>
+        <title>The Wonder Shop - EP 224</title>
     </programme>
     <programme start="20250430062808 +0000" stop="20250430064208 +0000" channel="Channel U.mewatch">
-        <title>- EP 179</title>
+        <title>The Wonder Shop - EP 179</title>
     </programme>
     <programme start="20250430064208 +0000" stop="20250430064408 +0000" channel="Channel U.mewatch">
-        <title>- EP 261</title>
+        <title>The Wonder Shop - EP 261</title>
     </programme>
     <programme start="20250430064408 +0000" stop="20250430065959 +0000" channel="Channel U.mewatch">
-        <title>- EP 134</title>
+        <title>The Wonder Shop - EP 134</title>
     </programme>
     <programme start="20250430065959 +0000" stop="20250430085944 +0000" channel="Channel U.mewatch">
         <title>Sisters Who Make Waves S3 - EP 1</title>
