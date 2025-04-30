@@ -27172,7 +27172,7 @@
         <title>Bazm-e-Noor</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="IQRA TV">
-        <title>Al-Khair Reports</title>
+        <title>Tafseer Izhar ul Quran</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430221100 +0000" channel="IQRA TV">
         <title>Iqra News</title>
@@ -27180,13 +27180,16 @@
     <programme start="20250430221100 +0000" stop="20250430230000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250430230000 +0000" stop="20250430235000 +0000" channel="IQRA TV">
+    <programme start="20250430230000 +0000" stop="20250430230500 +0000" channel="IQRA TV">
+        <title>Iqra News</title>
+    </programme>
+    <programme start="20250430230500 +0000" stop="20250430235500 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250430235000 +0000" stop="20250501001500 +0000" channel="IQRA TV">
+    <programme start="20250430235500 +0000" stop="20250501002000 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
-    <programme start="20250501001500 +0000" stop="20250501020200 +0000" channel="IQRA TV">
+    <programme start="20250501002000 +0000" stop="20250501020200 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
     <programme start="20250501020200 +0000" stop="20250501020400 +0000" channel="IQRA TV">
@@ -27201,13 +27204,13 @@
     <programme start="20250501021100 +0000" stop="20250501060000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250501060000 +0000" stop="20250501064800 +0000" channel="IQRA TV">
+    <programme start="20250501060000 +0000" stop="20250501064300 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250501064800 +0000" stop="20250501070500 +0000" channel="IQRA TV">
+    <programme start="20250501064300 +0000" stop="20250501070000 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250501070500 +0000" stop="20250501080000 +0000" channel="IQRA TV">
+    <programme start="20250501070000 +0000" stop="20250501080000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250501080000 +0000" stop="20250501090000 +0000" channel="IQRA TV">
@@ -29452,28 +29455,28 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250501073000 +0000" stop="20250501080000 +0000" channel="NTV">
-        <title>Ma Baba Bhai Bon</title>
+        <title>Family Crisis</title>
     </programme>
     <programme start="20250501080000 +0000" stop="20250501083000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250501083000 +0000" stop="20250501100000 +0000" channel="NTV">
-        <title>Akash Jora megh</title>
+        <title>Law and Justice</title>
     </programme>
     <programme start="20250501100000 +0000" stop="20250501110000 +0000" channel="NTV">
-        <title>Shikari</title>
+        <title>Bossgiri</title>
     </programme>
     <programme start="20250501110000 +0000" stop="20250501113000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250501113000 +0000" stop="20250501120700 +0000" channel="NTV">
-        <title>Shikari</title>
+    <programme start="20250501113000 +0000" stop="20250501120300 +0000" channel="NTV">
+        <title>Bossgiri</title>
     </programme>
-    <programme start="20250501120700 +0000" stop="20250501121200 +0000" channel="NTV">
+    <programme start="20250501120300 +0000" stop="20250501120800 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250501121200 +0000" stop="20250501130000 +0000" channel="NTV">
-        <title>Shikari</title>
+    <programme start="20250501120800 +0000" stop="20250501130000 +0000" channel="NTV">
+        <title>Bossgiri</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501133000 +0000" channel="NTV">
         <title>Shahjalal Madrasha Trust</title>
@@ -29482,7 +29485,7 @@
         <title>Desher Khobor</title>
     </programme>
     <programme start="20250501140000 +0000" stop="20250501153000 +0000" channel="NTV">
-        <title>Golap Kabbo</title>
+        <title>Pashe Theko</title>
     </programme>
     <programme start="20250501153000 +0000" stop="20250501160000 +0000" channel="NTV">
         <title>NTV NEWS-Shondhar Khobor</title>
@@ -29490,40 +29493,40 @@
     <programme start="20250501160000 +0000" stop="20250501163000 +0000" channel="NTV">
         <title>Apnar Jiggasha</title>
     </programme>
-    <programme start="20250501163000 +0000" stop="20250501164300 +0000" channel="NTV">
+    <programme start="20250501163000 +0000" stop="20250501170000 +0000" channel="NTV">
         <title>Biggane Anandho</title>
     </programme>
-    <programme start="20250501164300 +0000" stop="20250501164800 +0000" channel="NTV">
+    <programme start="20250501170000 +0000" stop="20250501170500 +0000" channel="NTV">
+        <title>Silent Bou</title>
+    </programme>
+    <programme start="20250501170500 +0000" stop="20250501171000 +0000" channel="NTV">
         <title>Adhan-e-Asr</title>
     </programme>
-    <programme start="20250501164800 +0000" stop="20250501170000 +0000" channel="NTV">
-        <title>Biggane Anandho</title>
-    </programme>
-    <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="NTV">
-        <title>Alo Chaya</title>
+    <programme start="20250501171000 +0000" stop="20250501180000 +0000" channel="NTV">
+        <title>Silent Bou</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501181500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
-    <programme start="20250501181500 +0000" stop="20250501185200 +0000" channel="NTV">
+    <programme start="20250501181500 +0000" stop="20250501190000 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
     </programme>
-    <programme start="20250501185200 +0000" stop="20250501185700 +0000" channel="NTV">
+    <programme start="20250501190000 +0000" stop="20250501192700 +0000" channel="NTV">
+        <title>Megher Danay Tui</title>
+    </programme>
+    <programme start="20250501192700 +0000" stop="20250501193200 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250501185700 +0000" stop="20250501190000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
+    <programme start="20250501193200 +0000" stop="20250501203000 +0000" channel="NTV">
+        <title>Megher Danay Tui</title>
     </programme>
-    <programme start="20250501190000 +0000" stop="20250501200700 +0000" channel="NTV">
-        <title>Rongin Chosma</title>
+    <programme start="20250501203000 +0000" stop="20250501203800 +0000" channel="NTV">
+        <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
-    <programme start="20250501200700 +0000" stop="20250501201200 +0000" channel="NTV">
+    <programme start="20250501203800 +0000" stop="20250501204300 +0000" channel="NTV">
         <title>Adhan-e-Isha</title>
     </programme>
-    <programme start="20250501201200 +0000" stop="20250501203000 +0000" channel="NTV">
-        <title>Rongin Chosma</title>
-    </programme>
-    <programme start="20250501203000 +0000" stop="20250501210000 +0000" channel="NTV">
+    <programme start="20250501204300 +0000" stop="20250501210000 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
     <programme start="20250501210000 +0000" stop="20250501213000 +0000" channel="NTV">
@@ -29533,7 +29536,7 @@
         <title>Crime Watch</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="NTV">
-        <title>Cha Er Dokandar</title>
+        <title>Prakton</title>
     </programme>
     <programme start="20250430214500 +0000" stop="20250430220000 +0000" channel="TV One">
         <title>Imam Naseeha</title>
@@ -36210,7 +36213,7 @@
     <programme start="20250501225500 +0000" stop="20250501235500 +0000" channel="BBC Two NI HD">
         <title>Upstart Crow</title>
     </programme>
-    <programme start="20250430213000 +0000" stop="20250501013000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250430201500 +0000" stop="20250501013000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250501013000 +0000" stop="20250501050000 +0000" channel="BBC RB 1 HD">
@@ -37270,7 +37273,7 @@
         <title>Nick Grimshaw</title>
     </programme>
     <programme start="20250501090000 +0000" stop="20250501120000 +0000" channel="BBC R6 Music">
-        <title>Lauren Laverne</title>
+        <title>Nemone</title>
     </programme>
     <programme start="20250501120000 +0000" stop="20250501150000 +0000" channel="BBC R6 Music">
         <title>Craig Charles</title>
