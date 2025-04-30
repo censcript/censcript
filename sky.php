@@ -12858,11 +12858,8 @@
     <programme start="20250430110000 +0000" stop="20250430113000 +0000" channel="SkySpMainEvHD">
         <title>Lunchtime Live</title>
     </programme>
-    <programme start="20250430113000 +0000" stop="20250430140000 +0000" channel="SkySpMainEvHD">
+    <programme start="20250430113000 +0000" stop="20250430140001 +0000" channel="SkySpMainEvHD">
         <title>Live: Royal Ascot Trials Day</title>
-    </programme>
-    <programme start="20250430140000 +0000" stop="20250430140001 +0000" channel="SkySpMainEvHD">
-        <title>Live IPL'25: CSK v PBKS</title>
     </programme>
     <programme start="20250430140001 +0000" stop="20250430163000 +0000" channel="SkySpMainEvHD">
         <title>Live Tennis: Madrid</title>
@@ -36210,10 +36207,10 @@
     <programme start="20250430070000 +0000" stop="20250430090000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250430090000 +0000" stop="20250430130000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250430090000 +0000" stop="20250430124000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250430130000 +0000" stop="20250430133000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250430124000 +0000" stop="20250430133000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250430133000 +0000" stop="20250430170000 +0000" channel="BBC RB 1 HD">
