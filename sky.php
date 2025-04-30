@@ -558,7 +558,10 @@
     <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="SkyShowcaseHD">
         <title>An Idiot Abroad</title>
     </programme>
-    <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="SkyShowcaseHD">
+    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="SkyShowcaseHD">
+        <title>The Force: Manchester</title>
+    </programme>
+    <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="SkyShowcaseHD">
         <title>The Force: Manchester</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="Sky Witness HD">
@@ -12417,9 +12420,6 @@
     <programme start="20250430210000 +0000" stop="20250430220000 +0000" channel="Clubland TV">
         <title>Kevin &amp; Perry's Massive Night Out!</title>
     </programme>
-    <programme start="20250429130000 +0000" stop="20250429233500 +0000" channel="NOW 70s">
-        <title>Every No.1 of the 70s!</title>
-    </programme>
     <programme start="20250429233500 +0000" stop="20250430000000 +0000" channel="NOW 70s">
         <title>All Day - They Hit The Top Spot!</title>
     </programme>
@@ -15139,7 +15139,7 @@
         <title>Fast Money</title>
     </programme>
     <programme start="20250430220000 +0000" stop="20250430230000 +0000" channel="CNBC HD">
-        <title>U.S. Markets Edition</title>
+        <title>American Greed</title>
     </programme>
     <programme start="20250429213000 +0000" stop="20250429220000 +0000" channel="CNN HD">
         <title>World Sport</title>
@@ -16369,7 +16369,7 @@
         <title>News</title>
     </programme>
     <programme start="20250430103000 +0000" stop="20250430110000 +0000" channel="TRT World">
-        <title>Inside America</title>
+        <title>Focal Point: DRC: An Elusive Peace</title>
     </programme>
     <programme start="20250430110000 +0000" stop="20250430113000 +0000" channel="TRT World">
         <title>News</title>
@@ -16383,8 +16383,11 @@
     <programme start="20250430130000 +0000" stop="20250430133000 +0000" channel="TRT World">
         <title>News</title>
     </programme>
-    <programme start="20250430133000 +0000" stop="20250430140000 +0000" channel="TRT World">
-        <title>My America</title>
+    <programme start="20250430133000 +0000" stop="20250430134500 +0000" channel="TRT World">
+        <title>One On One: Ersin Tatar</title>
+    </programme>
+    <programme start="20250430134500 +0000" stop="20250430140000 +0000" channel="TRT World">
+        <title>Displaced Smiles</title>
     </programme>
     <programme start="20250430140000 +0000" stop="20250430143000 +0000" channel="TRT World">
         <title>News</title>
@@ -16413,8 +16416,11 @@
     <programme start="20250430181500 +0000" stop="20250430183000 +0000" channel="TRT World">
         <title>Newsfeed</title>
     </programme>
-    <programme start="20250430183000 +0000" stop="20250430190000 +0000" channel="TRT World">
-        <title>Beyond Borders</title>
+    <programme start="20250430183000 +0000" stop="20250430184500 +0000" channel="TRT World">
+        <title>Focal Point: DRC: An Elusive Peace</title>
+    </programme>
+    <programme start="20250430184500 +0000" stop="20250430190000 +0000" channel="TRT World">
+        <title>Digital Documentaries:...</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="TRT World">
         <title>Newshour - London</title>
@@ -30726,7 +30732,10 @@
     <programme start="20250430214500 +0000" stop="20250430223000 +0000" channel="Sky Showcase">
         <title>An Idiot Abroad</title>
     </programme>
-    <programme start="20250430223000 +0000" stop="20250430233000 +0000" channel="Sky Showcase">
+    <programme start="20250430223000 +0000" stop="20250430224500 +0000" channel="Sky Showcase">
+        <title>The Force: Manchester</title>
+    </programme>
+    <programme start="20250430224500 +0000" stop="20250430234500 +0000" channel="Sky Showcase">
         <title>The Force: Manchester</title>
     </programme>
     <programme start="20250429210000 +0000" stop="20250429220000 +0000" channel="Sky Witness">
@@ -34140,8 +34149,11 @@
     <programme start="20250430100000 +0000" stop="20250430103000 +0000" channel="TRT World HD">
         <title>News</title>
     </programme>
-    <programme start="20250430103000 +0000" stop="20250430110000 +0000" channel="TRT World HD">
-        <title>Inside America</title>
+    <programme start="20250430103000 +0000" stop="20250430104500 +0000" channel="TRT World HD">
+        <title>Focal Point: DRC: An Elusive Peace</title>
+    </programme>
+    <programme start="20250430104500 +0000" stop="20250430110000 +0000" channel="TRT World HD">
+        <title>Digital Documentaries: Yemen's...</title>
     </programme>
     <programme start="20250430110000 +0000" stop="20250430113000 +0000" channel="TRT World HD">
         <title>News</title>
@@ -34156,7 +34168,7 @@
         <title>News</title>
     </programme>
     <programme start="20250430133000 +0000" stop="20250430140000 +0000" channel="TRT World HD">
-        <title>My America</title>
+        <title>One On One: Ersin Tatar</title>
     </programme>
     <programme start="20250430140000 +0000" stop="20250430143000 +0000" channel="TRT World HD">
         <title>News</title>
@@ -34185,8 +34197,11 @@
     <programme start="20250430181500 +0000" stop="20250430183000 +0000" channel="TRT World HD">
         <title>Newsfeed</title>
     </programme>
-    <programme start="20250430183000 +0000" stop="20250430190000 +0000" channel="TRT World HD">
-        <title>Beyond Borders</title>
+    <programme start="20250430183000 +0000" stop="20250430184500 +0000" channel="TRT World HD">
+        <title>Focal Point: DRC: An Elusive Peace</title>
+    </programme>
+    <programme start="20250430184500 +0000" stop="20250430190000 +0000" channel="TRT World HD">
+        <title>Digital Documentaries:...</title>
     </programme>
     <programme start="20250430190000 +0000" stop="20250430200000 +0000" channel="TRT World HD">
         <title>Newshour - London</title>
