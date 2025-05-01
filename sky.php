@@ -13600,7 +13600,7 @@
         <title>NFL Highlights</title>
     </programme>
     <programme start="20250501150000 +0000" stop="20250501160000 +0000" channel="SkySp NFL HD">
-        <title>Fight Night Int: Mauer v Ryan 2</title>
+        <title>Fight Night Int: Mayer v Ryan 2</title>
     </programme>
     <programme start="20250501160000 +0000" stop="20250501180000 +0000" channel="SkySp NFL HD">
         <title>NBC's Pro-Football Talk</title>
@@ -15046,9 +15046,12 @@
         <title>Live Business and Trade Questions</title>
     </programme>
     <programme start="20250501093000 +0000" stop="20250501103000 +0000" channel="BBC Parl HD">
+        <title>Live Energy Prices Urgent Question</title>
+    </programme>
+    <programme start="20250501103000 +0000" stop="20250501113000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250501103000 +0000" stop="20250501163000 +0000" channel="BBC Parl HD">
+    <programme start="20250501113000 +0000" stop="20250501163000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250501163000 +0000" stop="20250501171500 +0000" channel="BBC Parl HD">
@@ -24981,19 +24984,19 @@
     <programme start="20250501173000 +0000" stop="20250501180000 +0000" channel="Utsav Bharat">
         <title>Cook Smart</title>
     </programme>
-    <programme start="20250501180000 +0000" stop="20250501190000 +0000" channel="Utsav Bharat">
+    <programme start="20250501180000 +0000" stop="20250501190300 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Apni Khaki</title>
     </programme>
-    <programme start="20250501190000 +0000" stop="20250501193000 +0000" channel="Utsav Bharat">
+    <programme start="20250501190300 +0000" stop="20250501193300 +0000" channel="Utsav Bharat">
         <title>Radhakrishn</title>
     </programme>
-    <programme start="20250501193000 +0000" stop="20250501200000 +0000" channel="Utsav Bharat">
+    <programme start="20250501193300 +0000" stop="20250501200300 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
-    <programme start="20250501200000 +0000" stop="20250501203000 +0000" channel="Utsav Bharat">
+    <programme start="20250501200300 +0000" stop="20250501203300 +0000" channel="Utsav Bharat">
         <title>Mehndi Hai Rachne Waali</title>
     </programme>
-    <programme start="20250501203000 +0000" stop="20250501213000 +0000" channel="Utsav Bharat">
+    <programme start="20250501203300 +0000" stop="20250501213000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Naya Adhyay</title>
     </programme>
     <programme start="20250501213000 +0000" stop="20250501223000 +0000" channel="Utsav Bharat">
@@ -28662,10 +28665,7 @@
     <programme start="20250501043000 +0000" stop="20250501060000 +0000" channel="Akaal Channel">
         <title>Nitnem with Subtitles</title>
     </programme>
-    <programme start="20250501060000 +0000" stop="20250501061500 +0000" channel="Akaal Channel">
-        <title>Chaupai Sahib</title>
-    </programme>
-    <programme start="20250501061500 +0000" stop="20250501070000 +0000" channel="Akaal Channel">
+    <programme start="20250501060000 +0000" stop="20250501070000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
     <programme start="20250501070000 +0000" stop="20250501070500 +0000" channel="Akaal Channel">
@@ -28675,31 +28675,31 @@
         <title>Katha Veechar</title>
     </programme>
     <programme start="20250501080000 +0000" stop="20250501090000 +0000" channel="Akaal Channel">
-        <title>Guru Nanak Seva</title>
+        <title>Support Punjab Farmers</title>
     </programme>
     <programme start="20250501090000 +0000" stop="20250501093000 +0000" channel="Akaal Channel">
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
-    <programme start="20250501093000 +0000" stop="20250501100000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
-    </programme>
-    <programme start="20250501100000 +0000" stop="20250501105500 +0000" channel="Akaal Channel">
-        <title>Guru Nanak Seva</title>
-    </programme>
-    <programme start="20250501105500 +0000" stop="20250501110000 +0000" channel="Akaal Channel">
-        <title>Today's Sikh History</title>
-    </programme>
-    <programme start="20250501110000 +0000" stop="20250501123000 +0000" channel="Akaal Channel">
+    <programme start="20250501093000 +0000" stop="20250501110000 +0000" channel="Akaal Channel">
         <title>Live: Sukhmani Sahib</title>
     </programme>
-    <programme start="20250501123000 +0000" stop="20250501130000 +0000" channel="Akaal Channel">
-        <title>We Promise We Deliver</title>
+    <programme start="20250501110000 +0000" stop="20250501120000 +0000" channel="Akaal Channel">
+        <title>Support Punjab Farmers</title>
+    </programme>
+    <programme start="20250501120000 +0000" stop="20250501125500 +0000" channel="Akaal Channel">
+        <title>Current Issues</title>
+    </programme>
+    <programme start="20250501125500 +0000" stop="20250501130000 +0000" channel="Akaal Channel">
+        <title>Today's Sikh History</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501140000 +0000" channel="Akaal Channel">
-        <title>Live: Sikligar Wanjare Gurdwara</title>
+        <title>Live: Support Punjab Farmers</title>
     </programme>
-    <programme start="20250501140000 +0000" stop="20250501150000 +0000" channel="Akaal Channel">
-        <title>Current Issues</title>
+    <programme start="20250501140000 +0000" stop="20250501143000 +0000" channel="Akaal Channel">
+        <title>Akaal Exclusive : Ground Report</title>
+    </programme>
+    <programme start="20250501143000 +0000" stop="20250501150000 +0000" channel="Akaal Channel">
+        <title>Akaal Exclusive : Ground Report</title>
     </programme>
     <programme start="20250501150000 +0000" stop="20250501155500 +0000" channel="Akaal Channel">
         <title>Advice Bureau:Alternative Medicine</title>
@@ -28714,10 +28714,10 @@
         <title>Akaal Glasgow: Rehraas Sahib</title>
     </programme>
     <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Panj Takht</title>
+        <title>Live: Current Issues</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501190000 +0000" channel="Akaal Channel">
-        <title>Live: Vanjare Sikh Gurdwara MP</title>
+        <title>Live: Support Punjab Farmers</title>
     </programme>
     <programme start="20250501190000 +0000" stop="20250501200000 +0000" channel="Akaal Channel">
         <title>London Live: Mudhe</title>
@@ -28731,14 +28731,11 @@
     <programme start="20250501210000 +0000" stop="20250501210500 +0000" channel="Akaal Channel">
         <title>Today's Sikh History</title>
     </programme>
-    <programme start="20250501210500 +0000" stop="20250501215000 +0000" channel="Akaal Channel">
+    <programme start="20250501210500 +0000" stop="20250501220000 +0000" channel="Akaal Channel">
         <title>Media Watch</title>
     </programme>
-    <programme start="20250501215000 +0000" stop="20250501225000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Kenya Trip</title>
-    </programme>
-    <programme start="20250501225000 +0000" stop="20250501235000 +0000" channel="Akaal Channel">
-        <title>Special Report</title>
+    <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="Akaal Channel">
+        <title>Teleshopping: Panj Takht</title>
     </programme>
     <programme start="20250430203000 +0000" stop="20250430230000 +0000" channel="Kanshi TV">
         <title>Salaami - 1994</title>
