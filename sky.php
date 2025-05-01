@@ -27999,11 +27999,14 @@
     <programme start="20250501025500 +0000" stop="20250501060000 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250501060000 +0000" stop="20250501070000 +0000" channel="Eman Channel">
+    <programme start="20250501060000 +0000" stop="20250501064500 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250501070000 +0000" stop="20250501071500 +0000" channel="Eman Channel">
+    <programme start="20250501064500 +0000" stop="20250501070000 +0000" channel="Eman Channel">
         <title>Kids Morning Remembrance</title>
+    </programme>
+    <programme start="20250501070000 +0000" stop="20250501071500 +0000" channel="Eman Channel">
+        <title>Qur'an Time</title>
     </programme>
     <programme start="20250501071500 +0000" stop="20250501073000 +0000" channel="Eman Channel">
         <title>Stories from the Prophet</title>
