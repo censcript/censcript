@@ -810,6 +810,48 @@
     <programme start="20250501160000 +0000" stop="20250501163000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - The Sun</title>
     </programme>
+    <programme start="20250430160000 +0000" stop="20250430180500 +0000" channel="cinemaworld.mewatch">
+        <title>Open Door</title>
+    </programme>
+    <programme start="20250430180500 +0000" stop="20250430202000 +0000" channel="cinemaworld.mewatch">
+        <title>The Salvation Of The World As We Know It</title>
+    </programme>
+    <programme start="20250430202000 +0000" stop="20250430220000 +0000" channel="cinemaworld.mewatch">
+        <title>Murders in Dinard</title>
+    </programme>
+    <programme start="20250430220000 +0000" stop="20250430233000 +0000" channel="cinemaworld.mewatch">
+        <title>Victoria Must Go</title>
+    </programme>
+    <programme start="20250430233000 +0000" stop="20250501011000 +0000" channel="cinemaworld.mewatch">
+        <title>Your Children</title>
+    </programme>
+    <programme start="20250501011000 +0000" stop="20250501025500 +0000" channel="cinemaworld.mewatch">
+        <title>Aurora (II)</title>
+    </programme>
+    <programme start="20250501025500 +0000" stop="20250501043000 +0000" channel="cinemaworld.mewatch">
+        <title>Sarah Kohr: Ghost Lights</title>
+    </programme>
+    <programme start="20250501043000 +0000" stop="20250501062000 +0000" channel="cinemaworld.mewatch">
+        <title>Joy Of Fatherhood</title>
+    </programme>
+    <programme start="20250501062000 +0000" stop="20250501075500 +0000" channel="cinemaworld.mewatch">
+        <title>Deserted</title>
+    </programme>
+    <programme start="20250501075500 +0000" stop="20250501094000 +0000" channel="cinemaworld.mewatch">
+        <title>GAADI - Children Of The Sun</title>
+    </programme>
+    <programme start="20250501094000 +0000" stop="20250501112500 +0000" channel="cinemaworld.mewatch">
+        <title>Catch The Wind</title>
+    </programme>
+    <programme start="20250501112500 +0000" stop="20250501130000 +0000" channel="cinemaworld.mewatch">
+        <title>Kuma</title>
+    </programme>
+    <programme start="20250501130000 +0000" stop="20250501152000 +0000" channel="cinemaworld.mewatch">
+        <title>Commitment Asli</title>
+    </programme>
+    <programme start="20250501152000 +0000" stop="20250501165500 +0000" channel="cinemaworld.mewatch">
+        <title>Amerika Square</title>
+    </programme>
     <programme start="20250430160000 +0000" stop="20250501110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 1st May, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
