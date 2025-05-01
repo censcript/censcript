@@ -1419,17 +1419,17 @@
     <programme start="20250501194500 +0000" stop="20250501200000 +0000" channel="BBC Three HD">
         <title>Zen Motoring</title>
     </programme>
-    <programme start="20250501200000 +0000" stop="20250501202500 +0000" channel="BBC Three HD">
+    <programme start="20250501200000 +0000" stop="20250501202000 +0000" channel="BBC Three HD">
         <title>Man Like Mobeen</title>
     </programme>
-    <programme start="20250501202500 +0000" stop="20250501205000 +0000" channel="BBC Three HD">
-        <title>Man Like Mobeen</title>
-    </programme>
-    <programme start="20250501205000 +0000" stop="20250501210000 +0000" channel="BBC Three HD">
+    <programme start="20250501202000 +0000" stop="20250501203500 +0000" channel="BBC Three HD">
         <title>Donkey</title>
     </programme>
-    <programme start="20250501210000 +0000" stop="20250501225500 +0000" channel="BBC Three HD">
+    <programme start="20250501203500 +0000" stop="20250501222500 +0000" channel="BBC Three HD">
         <title>The Beach</title>
+    </programme>
+    <programme start="20250501222500 +0000" stop="20250501225500 +0000" channel="BBC Three HD">
+        <title>Charlotte in Sunderland</title>
     </programme>
     <programme start="20250501225500 +0000" stop="20250501235500 +0000" channel="BBC Three HD">
         <title>Charlotte in Sunderland</title>
@@ -14403,7 +14403,10 @@
     <programme start="20250501123000 +0000" stop="20250501140000 +0000" channel="TNT Sports 4">
         <title>NBA: Timberwolves @ Lakers</title>
     </programme>
-    <programme start="20250501140000 +0000" stop="20250501143000 +0000" channel="TNT Sports 4">
+    <programme start="20250501140000 +0000" stop="20250501140100 +0000" channel="TNT Sports 4">
+        <title>Isuzu UTE A-League Highlights</title>
+    </programme>
+    <programme start="20250501140100 +0000" stop="20250501143000 +0000" channel="TNT Sports 4">
         <title>Isuzu UTE A-League Highlights</title>
     </programme>
     <programme start="20250501143000 +0000" stop="20250501160000 +0000" channel="TNT Sports 4">
@@ -14422,7 +14425,7 @@
         <title>MLB: Off The Bat</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="TNT Sports 4">
-        <title>Cycling: Tour of Turkiye - Stage 5</title>
+        <title>Tour of Romandie - Stage 2</title>
     </programme>
     <programme start="20250430210000 +0000" stop="20250430220000 +0000" channel="LFCTV HD">
         <title>Press Box</title>
@@ -28485,11 +28488,11 @@
     <programme start="20250501090000 +0000" stop="20250501093000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250501093000 +0000" stop="20250501103000 +0000" channel="Sikh Channel">
-        <title>Sab Te Utam Har Ki Katha</title>
-    </programme>
-    <programme start="20250501103000 +0000" stop="20250501110000 +0000" channel="Sikh Channel">
+    <programme start="20250501093000 +0000" stop="20250501100000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250501100000 +0000" stop="20250501110000 +0000" channel="Sikh Channel">
+        <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250501110000 +0000" stop="20250501123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -28498,22 +28501,22 @@
         <title>Hukamnama Explanations</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501140000 +0000" channel="Sikh Channel">
-        <title>Sikh Virsa</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250501140000 +0000" stop="20250501143000 +0000" channel="Sikh Channel">
-        <title>Khas Galbat: Jasvir Singh Mukatsar</title>
+    <programme start="20250501140000 +0000" stop="20250501150000 +0000" channel="Sikh Channel">
+        <title>Nagar Kirtan - Woolwich</title>
     </programme>
-    <programme start="20250501143000 +0000" stop="20250501150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
-    </programme>
-    <programme start="20250501150000 +0000" stop="20250501160000 +0000" channel="Sikh Channel">
+    <programme start="20250501150000 +0000" stop="20250501153000 +0000" channel="Sikh Channel">
         <title>Dr Sukhpreet Singh Udhoke</title>
     </programme>
-    <programme start="20250501160000 +0000" stop="20250501170000 +0000" channel="Sikh Channel">
+    <programme start="20250501153000 +0000" stop="20250501160000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250501160000 +0000" stop="20250501173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
-    <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="Sikh Channel">
-        <title>Live: Indian Law</title>
+    <programme start="20250501173000 +0000" stop="20250501180000 +0000" channel="Sikh Channel">
+        <title>Vaisakhi in the Park (Smethwick)</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -28522,7 +28525,7 @@
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250501190000 +0000" stop="20250501200000 +0000" channel="Sikh Channel">
-        <title>Game Show (Punjab)</title>
+        <title>Nagar Kirtan - Wolverhampton</title>
     </programme>
     <programme start="20250501200000 +0000" stop="20250501203000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -33807,7 +33810,10 @@
     <programme start="20250501123000 +0000" stop="20250501140000 +0000" channel="TNTSports4 HD">
         <title>NBA: Timberwolves @ Lakers</title>
     </programme>
-    <programme start="20250501140000 +0000" stop="20250501143000 +0000" channel="TNTSports4 HD">
+    <programme start="20250501140000 +0000" stop="20250501140100 +0000" channel="TNTSports4 HD">
+        <title>Isuzu UTE A-League Highlights</title>
+    </programme>
+    <programme start="20250501140100 +0000" stop="20250501143000 +0000" channel="TNTSports4 HD">
         <title>Isuzu UTE A-League Highlights</title>
     </programme>
     <programme start="20250501143000 +0000" stop="20250501160000 +0000" channel="TNTSports4 HD">
@@ -33826,7 +33832,7 @@
         <title>MLB: Off The Bat</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="TNTSports4 HD">
-        <title>Cycling: Tour of Turkiye - Stage 5</title>
+        <title>Tour of Romandie - Stage 2</title>
     </programme>
     <programme start="20250430204500 +0000" stop="20250430220000 +0000" channel="Racing TV HD">
         <title>Irish Racing Replay</title>
