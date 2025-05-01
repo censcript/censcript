@@ -14953,7 +14953,7 @@
         <title>Verified Live</title>
     </programme>
     <programme start="20250501153000 +0000" stop="20250501154500 +0000" channel="BBC NEWS HD">
-        <title>Business Today</title>
+        <title>Verified Live</title>
     </programme>
     <programme start="20250501154500 +0000" stop="20250501160000 +0000" channel="BBC NEWS HD">
         <title>Verified Live</title>
@@ -15058,7 +15058,7 @@
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250501141000 +0000" stop="20250501163000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+        <title>Live House of Lords</title>
     </programme>
     <programme start="20250501163000 +0000" stop="20250501171500 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
@@ -15066,7 +15066,13 @@
     <programme start="20250501171500 +0000" stop="20250501180000 +0000" channel="BBC Parl HD">
         <title>House of Lords Questions</title>
     </programme>
-    <programme start="20250501180000 +0000" stop="20250501190000 +0000" channel="BBC Parl HD">
+    <programme start="20250501180000 +0000" stop="20250501200000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Children's...</title>
+    </programme>
+    <programme start="20250501200000 +0000" stop="20250501220000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Children's...</title>
+    </programme>
+    <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="BBC Parl HD">
         <title>House of Lords - Children's...</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="CNBC HD">
@@ -23962,16 +23968,16 @@
         <title>Beauty Lab with Sally</title>
     </programme>
     <programme start="20250501070000 +0000" stop="20250501080000 +0000" channel="Ideal World HD">
-        <title>EMS Massager with Natalia</title>
+        <title>Beauty Lab with Sally</title>
     </programme>
     <programme start="20250501080000 +0000" stop="20250501090000 +0000" channel="Ideal World HD">
-        <title>Sankom Shapewear with Genivieve</title>
+        <title>Garden Makeover with Halley</title>
     </programme>
     <programme start="20250501090000 +0000" stop="20250501100000 +0000" channel="Ideal World HD">
-        <title>Home &amp; Accessories with Genivieve</title>
+        <title>Garden Makeover with Halley</title>
     </programme>
     <programme start="20250501100000 +0000" stop="20250501110000 +0000" channel="Ideal World HD">
-        <title>Summer Travel Essentials with Natalia</title>
+        <title>Health &amp; Fitness with Sally</title>
     </programme>
     <programme start="20250501110000 +0000" stop="20250501120000 +0000" channel="Ideal World HD">
         <title>Summer Fashion Special with Sally</title>
@@ -23980,10 +23986,10 @@
         <title>Summer Accessories with Sally</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501140000 +0000" channel="Ideal World HD">
-        <title>with Genivieve</title>
+        <title>Summer Fashion Special with Sally</title>
     </programme>
     <programme start="20250501140000 +0000" stop="20250501150000 +0000" channel="Ideal World HD">
-        <title>Mudflower Fashion with Genivieve</title>
+        <title>Summer Fashion Special with Sally</title>
     </programme>
     <programme start="20250501150000 +0000" stop="20250501160000 +0000" channel="Ideal World HD">
         <title>Plenty Twenty with Mike</title>
@@ -23992,22 +23998,22 @@
         <title>Men's Fashion with Mike</title>
     </programme>
     <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day - Back by Demand with Mi</title>
+        <title>Pick of the Day with Mike</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501190000 +0000" channel="Ideal World HD">
         <title>Instant Effect with Richard &amp; Yiannis</title>
     </programme>
     <programme start="20250501190000 +0000" stop="20250501200000 +0000" channel="Ideal World HD">
-        <title>Ideal World with Peter</title>
+        <title>Lorem with Yiannis</title>
     </programme>
     <programme start="20250501200000 +0000" stop="20250501210000 +0000" channel="Ideal World HD">
-        <title>Pick of the Day - Adorma Mattress with M</title>
+        <title>Pick of the Day with Mike</title>
     </programme>
     <programme start="20250501210000 +0000" stop="20250501220000 +0000" channel="Ideal World HD">
-        <title>Home &amp; Bedding with Alex &amp; Mike</title>
+        <title>Beauty Lab with Mike</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250501230000 +0000" channel="Ideal World HD">
-        <title>Summertime Specials with Peter</title>
+        <title>Men's Fashion with Yiannis</title>
     </programme>
     <programme start="20250430170000 +0000" stop="20250430230000 +0000" channel="Best Direct">
         <title>Best Direct Evening Offers</title>
