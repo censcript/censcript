@@ -25173,49 +25173,52 @@
     <programme start="20250501053000 +0000" stop="20250501061000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501061000 +0000" stop="20250501071000 +0000" channel="COLORS HD">
-        <title>Mangal Lakshmi</title>
+    <programme start="20250501061000 +0000" stop="20250501064000 +0000" channel="COLORS HD">
+        <title>This is COLORS HD</title>
     </programme>
-    <programme start="20250501071000 +0000" stop="20250501074500 +0000" channel="COLORS HD">
+    <programme start="20250501064000 +0000" stop="20250501065000 +0000" channel="COLORS HD">
+        <title>This is COLORS HD</title>
+    </programme>
+    <programme start="20250501065000 +0000" stop="20250501073000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501074500 +0000" stop="20250501081500 +0000" channel="COLORS HD">
+    <programme start="20250501073000 +0000" stop="20250501075500 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501081500 +0000" stop="20250501084500 +0000" channel="COLORS HD">
+    <programme start="20250501075500 +0000" stop="20250501082500 +0000" channel="COLORS HD">
         <title>Doree 2</title>
     </programme>
-    <programme start="20250501084500 +0000" stop="20250501094500 +0000" channel="COLORS HD">
+    <programme start="20250501082500 +0000" stop="20250501092500 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501094500 +0000" stop="20250501102000 +0000" channel="COLORS HD">
+    <programme start="20250501092500 +0000" stop="20250501100000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501102000 +0000" stop="20250501105000 +0000" channel="COLORS HD">
+    <programme start="20250501100000 +0000" stop="20250501103500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501105000 +0000" stop="20250501112000 +0000" channel="COLORS HD">
+    <programme start="20250501103500 +0000" stop="20250501110000 +0000" channel="COLORS HD">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250501112000 +0000" stop="20250501115000 +0000" channel="COLORS HD">
+    <programme start="20250501110000 +0000" stop="20250501113500 +0000" channel="COLORS HD">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250501115000 +0000" stop="20250501122000 +0000" channel="COLORS HD">
+    <programme start="20250501113500 +0000" stop="20250501120500 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501122000 +0000" stop="20250501132000 +0000" channel="COLORS HD">
+    <programme start="20250501120500 +0000" stop="20250501130500 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501132000 +0000" stop="20250501135000 +0000" channel="COLORS HD">
+    <programme start="20250501130500 +0000" stop="20250501133500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501135000 +0000" stop="20250501142000 +0000" channel="COLORS HD">
+    <programme start="20250501133500 +0000" stop="20250501140500 +0000" channel="COLORS HD">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250501142000 +0000" stop="20250501145500 +0000" channel="COLORS HD">
+    <programme start="20250501140500 +0000" stop="20250501145000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501145500 +0000" stop="20250501152500 +0000" channel="COLORS HD">
+    <programme start="20250501145000 +0000" stop="20250501152500 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250501152500 +0000" stop="20250501160000 +0000" channel="COLORS HD">
@@ -25230,32 +25233,29 @@
     <programme start="20250501173000 +0000" stop="20250501180500 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501180500 +0000" stop="20250501183500 +0000" channel="COLORS HD">
+    <programme start="20250501180500 +0000" stop="20250501184000 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501183500 +0000" stop="20250501190500 +0000" channel="COLORS HD">
+    <programme start="20250501184000 +0000" stop="20250501191000 +0000" channel="COLORS HD">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501190500 +0000" stop="20250501201000 +0000" channel="COLORS HD">
+    <programme start="20250501191000 +0000" stop="20250501201500 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501201000 +0000" stop="20250501203500 +0000" channel="COLORS HD">
+    <programme start="20250501201500 +0000" stop="20250501205000 +0000" channel="COLORS HD">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250501203500 +0000" stop="20250501212000 +0000" channel="COLORS HD">
+    <programme start="20250501205000 +0000" stop="20250501214000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501212000 +0000" stop="20250501215000 +0000" channel="COLORS HD">
+    <programme start="20250501214000 +0000" stop="20250501221000 +0000" channel="COLORS HD">
         <title>Doree 2</title>
     </programme>
-    <programme start="20250501215000 +0000" stop="20250501222500 +0000" channel="COLORS HD">
+    <programme start="20250501221000 +0000" stop="20250501224500 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501222500 +0000" stop="20250501225500 +0000" channel="COLORS HD">
+    <programme start="20250501224500 +0000" stop="20250501234500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250501225500 +0000" stop="20250501235500 +0000" channel="COLORS HD">
-        <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250430213000 +0000" stop="20250430220000 +0000" channel="Zee TV HD">
         <title>Bhagya Lakshmi</title>
@@ -34434,49 +34434,52 @@
     <programme start="20250501053000 +0000" stop="20250501061000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501061000 +0000" stop="20250501071000 +0000" channel="COLORS">
-        <title>Mangal Lakshmi</title>
+    <programme start="20250501061000 +0000" stop="20250501064000 +0000" channel="COLORS">
+        <title>This is COLORS</title>
     </programme>
-    <programme start="20250501071000 +0000" stop="20250501074500 +0000" channel="COLORS">
+    <programme start="20250501064000 +0000" stop="20250501065000 +0000" channel="COLORS">
+        <title>This is COLORS</title>
+    </programme>
+    <programme start="20250501065000 +0000" stop="20250501073000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501074500 +0000" stop="20250501081500 +0000" channel="COLORS">
+    <programme start="20250501073000 +0000" stop="20250501075500 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501081500 +0000" stop="20250501084500 +0000" channel="COLORS">
+    <programme start="20250501075500 +0000" stop="20250501082500 +0000" channel="COLORS">
         <title>Doree 2</title>
     </programme>
-    <programme start="20250501084500 +0000" stop="20250501094500 +0000" channel="COLORS">
+    <programme start="20250501082500 +0000" stop="20250501092500 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501094500 +0000" stop="20250501102000 +0000" channel="COLORS">
+    <programme start="20250501092500 +0000" stop="20250501100000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501102000 +0000" stop="20250501105000 +0000" channel="COLORS">
+    <programme start="20250501100000 +0000" stop="20250501103500 +0000" channel="COLORS">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501105000 +0000" stop="20250501112000 +0000" channel="COLORS">
+    <programme start="20250501103500 +0000" stop="20250501110000 +0000" channel="COLORS">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250501112000 +0000" stop="20250501115000 +0000" channel="COLORS">
+    <programme start="20250501110000 +0000" stop="20250501113500 +0000" channel="COLORS">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250501115000 +0000" stop="20250501122000 +0000" channel="COLORS">
+    <programme start="20250501113500 +0000" stop="20250501120500 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501122000 +0000" stop="20250501132000 +0000" channel="COLORS">
+    <programme start="20250501120500 +0000" stop="20250501130500 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501132000 +0000" stop="20250501135000 +0000" channel="COLORS">
+    <programme start="20250501130500 +0000" stop="20250501133500 +0000" channel="COLORS">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501135000 +0000" stop="20250501142000 +0000" channel="COLORS">
+    <programme start="20250501133500 +0000" stop="20250501140500 +0000" channel="COLORS">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250501142000 +0000" stop="20250501145500 +0000" channel="COLORS">
+    <programme start="20250501140500 +0000" stop="20250501145000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501145500 +0000" stop="20250501152500 +0000" channel="COLORS">
+    <programme start="20250501145000 +0000" stop="20250501152500 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250501152500 +0000" stop="20250501160000 +0000" channel="COLORS">
@@ -34491,32 +34494,29 @@
     <programme start="20250501173000 +0000" stop="20250501180500 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501180500 +0000" stop="20250501183500 +0000" channel="COLORS">
+    <programme start="20250501180500 +0000" stop="20250501184000 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250501183500 +0000" stop="20250501190500 +0000" channel="COLORS">
+    <programme start="20250501184000 +0000" stop="20250501191000 +0000" channel="COLORS">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250501190500 +0000" stop="20250501201000 +0000" channel="COLORS">
+    <programme start="20250501191000 +0000" stop="20250501201500 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250501201000 +0000" stop="20250501203500 +0000" channel="COLORS">
+    <programme start="20250501201500 +0000" stop="20250501205000 +0000" channel="COLORS">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250501203500 +0000" stop="20250501212000 +0000" channel="COLORS">
+    <programme start="20250501205000 +0000" stop="20250501214000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250501212000 +0000" stop="20250501215000 +0000" channel="COLORS">
+    <programme start="20250501214000 +0000" stop="20250501221000 +0000" channel="COLORS">
         <title>Doree 2</title>
     </programme>
-    <programme start="20250501215000 +0000" stop="20250501222500 +0000" channel="COLORS">
+    <programme start="20250501221000 +0000" stop="20250501224500 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250501222500 +0000" stop="20250501225500 +0000" channel="COLORS">
+    <programme start="20250501224500 +0000" stop="20250501234500 +0000" channel="COLORS">
         <title>Parineetii</title>
-    </programme>
-    <programme start="20250501225500 +0000" stop="20250501235500 +0000" channel="COLORS">
-        <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250430200000 +0000" stop="20250430232800 +0000" channel="SONY MAX">
         <title>Panipat</title>
