@@ -27460,19 +27460,19 @@
         <title>Takbeer Special</title>
     </programme>
     <programme start="20250502180000 +0000" stop="20250502190000 +0000" channel="Takbeer TV">
-        <title>Bulbul-e-Baagh-e-Jinna</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250502190000 +0000" stop="20250502200000 +0000" channel="Takbeer TV">
-        <title>Takbeer Special</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502210000 +0000" channel="Takbeer TV">
-        <title>Sham e Arfaan</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250502210000 +0000" stop="20250502220000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250502220000 +0000" stop="20250502230000 +0000" channel="Takbeer TV">
-        <title>Mithy Bol</title>
+        <title>Charity Appeal</title>
     </programme>
     <programme start="20250501210000 +0000" stop="20250501220000 +0000" channel="HUM EUROPE">
         <title>Zindagi Gulzar Hai</title>
@@ -28509,10 +28509,10 @@
     <programme start="20250502080000 +0000" stop="20250502083000 +0000" channel="Kanshi TV">
         <title>Kanshi TV News</title>
     </programme>
-    <programme start="20250502083000 +0000" stop="20250502084500 +0000" channel="Kanshi TV">
+    <programme start="20250502083000 +0000" stop="20250502090000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250502084500 +0000" stop="20250502100000 +0000" channel="Kanshi TV">
+    <programme start="20250502090000 +0000" stop="20250502100000 +0000" channel="Kanshi TV">
         <title>Ravidassia Dharam 2025</title>
     </programme>
     <programme start="20250502100000 +0000" stop="20250502113000 +0000" channel="Kanshi TV">
