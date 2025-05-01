@@ -14400,11 +14400,8 @@
     <programme start="20250501120000 +0000" stop="20250501123000 +0000" channel="TNT Sports 4">
         <title>UEFA Champions League Highlights</title>
     </programme>
-    <programme start="20250501123000 +0000" stop="20250501140000 +0000" channel="TNT Sports 4">
+    <programme start="20250501123000 +0000" stop="20250501140100 +0000" channel="TNT Sports 4">
         <title>NBA: Timberwolves @ Lakers</title>
-    </programme>
-    <programme start="20250501140000 +0000" stop="20250501140100 +0000" channel="TNT Sports 4">
-        <title>Isuzu UTE A-League Highlights</title>
     </programme>
     <programme start="20250501140100 +0000" stop="20250501143000 +0000" channel="TNT Sports 4">
         <title>Isuzu UTE A-League Highlights</title>
@@ -15048,13 +15045,13 @@
     <programme start="20250501083000 +0000" stop="20250501093000 +0000" channel="BBC Parl HD">
         <title>Live Business and Trade Questions</title>
     </programme>
-    <programme start="20250501093000 +0000" stop="20250501103000 +0000" channel="BBC Parl HD">
+    <programme start="20250501093000 +0000" stop="20250501095500 +0000" channel="BBC Parl HD">
         <title>Live Energy Prices Urgent Question</title>
     </programme>
-    <programme start="20250501103000 +0000" stop="20250501113000 +0000" channel="BBC Parl HD">
+    <programme start="20250501095500 +0000" stop="20250501111000 +0000" channel="BBC Parl HD">
         <title>Live Commons Business Questions</title>
     </programme>
-    <programme start="20250501113000 +0000" stop="20250501163000 +0000" channel="BBC Parl HD">
+    <programme start="20250501111000 +0000" stop="20250501163000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250501163000 +0000" stop="20250501171500 +0000" channel="BBC Parl HD">
@@ -33807,11 +33804,8 @@
     <programme start="20250501120000 +0000" stop="20250501123000 +0000" channel="TNTSports4 HD">
         <title>UEFA Champions League Highlights</title>
     </programme>
-    <programme start="20250501123000 +0000" stop="20250501140000 +0000" channel="TNTSports4 HD">
+    <programme start="20250501123000 +0000" stop="20250501140100 +0000" channel="TNTSports4 HD">
         <title>NBA: Timberwolves @ Lakers</title>
-    </programme>
-    <programme start="20250501140000 +0000" stop="20250501140100 +0000" channel="TNTSports4 HD">
-        <title>Isuzu UTE A-League Highlights</title>
     </programme>
     <programme start="20250501140100 +0000" stop="20250501143000 +0000" channel="TNTSports4 HD">
         <title>Isuzu UTE A-League Highlights</title>
