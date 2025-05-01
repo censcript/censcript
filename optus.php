@@ -255,8 +255,32 @@
     <programme start="20250512160000 +0000" stop="20250512170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
+    <programme start="20250512173000 +0000" stop="20250512180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Robert Pires</title>
+    </programme>
+    <programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Rewind</title>
+    </programme>
+    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250516093000 +0000" stop="20250516100000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Welcome to the Weekend</title>
+    </programme>
+    <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
     <programme start="20250516183000 +0000" stop="20250516213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Manchester United</title>
+    </programme>
+    <programme start="20250516213000 +0000" stop="20250516223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
     </programme>
     <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Gamba</title>
@@ -273,31 +297,7 @@
     <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Southampton</title>
     </programme>
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - West Ham United v Nottingham Forest</title>
-    </programme>
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Aston Villa v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Leicester City v Ipswich</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Crystal Palace v Wolverhampton Wanderers</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
-        <title>Premier League - Brentford v Fulham</title>
-    </programme>
-    <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Arsenal v Newcastle United</title>
-    </programme>
-    <programme start="20250518175000 +0000" stop="20250518210000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester City v Bournemouth</title>
-    </programme>
-    <programme start="20250519183000 +0000" stop="20250519213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brighton v Liverpool</title>
-    </programme>
-    <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Yokohama FM v Vissel Kobe</title>
+    <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
 </tv>

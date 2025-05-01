@@ -14814,14 +14814,8 @@
     <programme start="20250502120000 +0000" stop="20250502130000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News at One</title>
     </programme>
-    <programme start="20250502130000 +0000" stop="20250502150000 +0000" channel="BBC NEWS HD">
+    <programme start="20250502130000 +0000" stop="20250502160000 +0000" channel="BBC NEWS HD">
         <title>Elections 2025</title>
-    </programme>
-    <programme start="20250502150000 +0000" stop="20250502153000 +0000" channel="BBC NEWS HD">
-        <title>Verified Live</title>
-    </programme>
-    <programme start="20250502153000 +0000" stop="20250502160000 +0000" channel="BBC NEWS HD">
-        <title>Verified Live</title>
     </programme>
     <programme start="20250502160000 +0000" stop="20250502163000 +0000" channel="BBC NEWS HD">
         <title>Verified Live</title>
@@ -14886,23 +14880,56 @@
     <programme start="20250502042500 +0000" stop="20250502050000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament</title>
     </programme>
-    <programme start="20250502050000 +0000" stop="20250502080000 +0000" channel="BBC Parl HD">
+    <programme start="20250502050000 +0000" stop="20250502063500 +0000" channel="BBC Parl HD">
         <title>Westminster Hall</title>
     </programme>
-    <programme start="20250502080000 +0000" stop="20250502130000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250502063500 +0000" stop="20250502080500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Agriculture Regulations 2025</title>
     </programme>
-    <programme start="20250502130000 +0000" stop="20250502170000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250502080500 +0000" stop="20250502094000 +0000" channel="BBC Parl HD">
+        <title>Foreign Office Committee</title>
     </programme>
-    <programme start="20250502170000 +0000" stop="20250502200000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250502094000 +0000" stop="20250502114500 +0000" channel="BBC Parl HD">
+        <title>Transport Committee</title>
     </programme>
-    <programme start="20250502200000 +0000" stop="20250502204500 +0000" channel="BBC Parl HD">
+    <programme start="20250502114500 +0000" stop="20250502134500 +0000" channel="BBC Parl HD">
+        <title>Culture, Media and Sport Committee</title>
+    </programme>
+    <programme start="20250502134500 +0000" stop="20250502143000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Monday</title>
+    </programme>
+    <programme start="20250502143000 +0000" stop="20250502151500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Tuesday</title>
+    </programme>
+    <programme start="20250502151500 +0000" stop="20250502160000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Wednesday</title>
+    </programme>
+    <programme start="20250502160000 +0000" stop="20250502164500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Thursday</title>
+    </programme>
+    <programme start="20250502164500 +0000" stop="20250502170000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Kashmir Statement</title>
+    </programme>
+    <programme start="20250502170000 +0000" stop="20250502183500 +0000" channel="BBC Parl HD">
+        <title>Foreign Office Committee</title>
+    </programme>
+    <programme start="20250502183500 +0000" stop="20250502203500 +0000" channel="BBC Parl HD">
+        <title>Culture, Media and Sport Committee</title>
+    </programme>
+    <programme start="20250502203500 +0000" stop="20250502212000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250502204500 +0000" stop="20250502214500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250502212000 +0000" stop="20250502215000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Deputy...</title>
+    </programme>
+    <programme start="20250502215000 +0000" stop="20250502221500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Finance...</title>
+    </programme>
+    <programme start="20250502221500 +0000" stop="20250502224500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Grangemouth Statement</title>
+    </programme>
+    <programme start="20250502224500 +0000" stop="20250502234500 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Motorists Debate</title>
     </programme>
     <programme start="20250501213000 +0000" stop="20250501220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -23248,7 +23275,7 @@
         <title>Effy Jewellery Collection</title>
     </programme>
     <programme start="20250501230000 +0000" stop="20250502000000 +0000" channel="QVC Style HD">
-        <title>1st Seen in Nina's Wardrobe</title>
+        <title>Nina Leonard's Wardrobe Heroes</title>
     </programme>
     <programme start="20250502000000 +0000" stop="20250502010000 +0000" channel="QVC Style HD">
         <title>Frank Usher</title>
