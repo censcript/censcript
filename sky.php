@@ -24685,12 +24685,12 @@
         <title>Sikka</title>
     </programme>
     <programme start="20250501101800 +0000" stop="20250501135100 +0000" channel="B4U Movies">
-        <title>Swayamvar</title>
+        <title>Krantiveer</title>
     </programme>
-    <programme start="20250501135100 +0000" stop="20250501164200 +0000" channel="B4U Movies">
+    <programme start="20250501135100 +0000" stop="20250501164300 +0000" channel="B4U Movies">
         <title>Aaj Ka Ravan</title>
     </programme>
-    <programme start="20250501164200 +0000" stop="20250501201100 +0000" channel="B4U Movies">
+    <programme start="20250501164300 +0000" stop="20250501201100 +0000" channel="B4U Movies">
         <title>Karz</title>
     </programme>
     <programme start="20250501201100 +0000" stop="20250501211100 +0000" channel="B4U Movies">
@@ -36117,8 +36117,11 @@
     <programme start="20250501115000 +0000" stop="20250501120000 +0000" channel="BBC Two Wal HD">
         <title>Lifeline</title>
     </programme>
-    <programme start="20250501120000 +0000" stop="20250501150000 +0000" channel="BBC Two Wal HD">
+    <programme start="20250501120000 +0000" stop="20250501141500 +0000" channel="BBC Two Wal HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250501141500 +0000" stop="20250501150000 +0000" channel="BBC Two Wal HD">
+        <title>Best Bakes Ever</title>
     </programme>
     <programme start="20250501150000 +0000" stop="20250501160000 +0000" channel="BBC Two Wal HD">
         <title>Jimmy and the Wild Honey Hunters</title>
@@ -36183,8 +36186,11 @@
     <programme start="20250501115000 +0000" stop="20250501120000 +0000" channel="BBC Two NI HD">
         <title>Lifeline</title>
     </programme>
-    <programme start="20250501120000 +0000" stop="20250501150000 +0000" channel="BBC Two NI HD">
+    <programme start="20250501120000 +0000" stop="20250501141500 +0000" channel="BBC Two NI HD">
         <title>Snooker: World Championship</title>
+    </programme>
+    <programme start="20250501141500 +0000" stop="20250501150000 +0000" channel="BBC Two NI HD">
+        <title>Best Bakes Ever</title>
     </programme>
     <programme start="20250501150000 +0000" stop="20250501160000 +0000" channel="BBC Two NI HD">
         <title>Jimmy and the Wild Honey Hunters</title>
@@ -36237,10 +36243,10 @@
     <programme start="20250501095500 +0000" stop="20250501120000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship Extra</title>
     </programme>
-    <programme start="20250501120000 +0000" stop="20250501170000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250501120000 +0000" stop="20250501140500 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250501140500 +0000" stop="20250501180000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250501180000 +0000" stop="20250501213000 +0000" channel="BBC RB 1 HD">
