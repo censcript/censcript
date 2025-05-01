@@ -423,22 +423,22 @@
     <programme start="20250501153010 +0000" stop="20250501160024 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250430135956 +0000" stop="20250430162956 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430135902 +0000" stop="20250430162906 +0000" channel="Vasantham.mewatch">
         <title>Sevappi</title>
     </programme>
-    <programme start="20250430162956 +0000" stop="20250430165957 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430162906 +0000" stop="20250430165907 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 10</title>
     </programme>
-    <programme start="20250430165957 +0000" stop="20250430172955 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430165907 +0000" stop="20250430172945 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250430172955 +0000" stop="20250430195957 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430172945 +0000" stop="20250430195947 +0000" channel="Vasantham.mewatch">
         <title>Biishman</title>
     </programme>
-    <programme start="20250430195957 +0000" stop="20250430203000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430195947 +0000" stop="20250430202946 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta - EP 14</title>
     </programme>
-    <programme start="20250430203000 +0000" stop="20250430230000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250430202946 +0000" stop="20250430230000 +0000" channel="Vasantham.mewatch">
         <title>Varnapatala</title>
     </programme>
     <programme start="20250430230000 +0000" stop="20250430235939 +0000" channel="Vasantham.mewatch">
