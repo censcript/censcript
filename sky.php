@@ -1416,19 +1416,16 @@
     <programme start="20250502223500 +0000" stop="20250502233500 +0000" channel="BBC Three HD">
         <title>Glow Up: Britain's Next Make-Up Star</title>
     </programme>
-    <programme start="20250501213000 +0000" stop="20250501232000 +0000" channel="BBC Four HD">
+    <programme start="20250501214000 +0000" stop="20250502000000 +0000" channel="BBC Four HD">
         <title>West Side Story</title>
     </programme>
-    <programme start="20250501232000 +0000" stop="20250502005000 +0000" channel="BBC Four HD">
-        <title>Leonard Bernstein's West Side Story - Omnibus</title>
-    </programme>
-    <programme start="20250502005000 +0000" stop="20250502015000 +0000" channel="BBC Four HD">
+    <programme start="20250502000000 +0000" stop="20250502010000 +0000" channel="BBC Four HD">
         <title>Classic British Cars: Made in Coventry</title>
     </programme>
-    <programme start="20250502015000 +0000" stop="20250502025000 +0000" channel="BBC Four HD">
+    <programme start="20250502010000 +0000" stop="20250502020000 +0000" channel="BBC Four HD">
         <title>Tutankhamun in Colour</title>
     </programme>
-    <programme start="20250502025000 +0000" stop="20250502043000 +0000" channel="BBC Four HD">
+    <programme start="20250502020000 +0000" stop="20250502043000 +0000" channel="BBC Four HD">
         <title>This is BBC Four</title>
     </programme>
     <programme start="20250502043000 +0000" stop="20250502103000 +0000" channel="BBC Four HD">
@@ -27063,13 +27060,13 @@
     <programme start="20250502053500 +0000" stop="20250502060000 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250502060000 +0000" stop="20250502064500 +0000" channel="IQRA TV">
+    <programme start="20250502060000 +0000" stop="20250502062200 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250502064500 +0000" stop="20250502070000 +0000" channel="IQRA TV">
+    <programme start="20250502062200 +0000" stop="20250502070500 +0000" channel="IQRA TV">
         <title>Surah Kahf</title>
     </programme>
-    <programme start="20250502070000 +0000" stop="20250502080000 +0000" channel="IQRA TV">
+    <programme start="20250502070500 +0000" stop="20250502080000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
     <programme start="20250502080000 +0000" stop="20250502090000 +0000" channel="IQRA TV">
@@ -27082,16 +27079,16 @@
         <title>Iqra News</title>
     </programme>
     <programme start="20250502100500 +0000" stop="20250502110000 +0000" channel="IQRA TV">
-        <title>Iqra With IQRA</title>
+        <title>Qurbani Appeal</title>
     </programme>
     <programme start="20250502110000 +0000" stop="20250502110600 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
     <programme start="20250502110600 +0000" stop="20250502113000 +0000" channel="IQRA TV">
-        <title>Iqra With IQRA</title>
+        <title>Qurbani Appeal</title>
     </programme>
     <programme start="20250502113000 +0000" stop="20250502115900 +0000" channel="IQRA TV">
-        <title>Bazm-e-naat o Adab</title>
+        <title>Qurbani Appeal</title>
     </programme>
     <programme start="20250502115900 +0000" stop="20250502120100 +0000" channel="IQRA TV">
         <title>Dua and Recitation</title>

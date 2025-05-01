@@ -288,16 +288,16 @@
     <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
     </programme>
+    <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Jeonbuk v Anyang</title>
+    </programme>
+    <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gangwon v Ulsan</title>
+    </programme>
     <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kawasaki v Cerezo</title>
     </programme>
-    <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Everton v Southampton</title>
-    </programme>
-    <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - West Ham United v Nottingham Forest</title>
+    <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Daegu v Seoul</title>
     </programme>
 </tv>
