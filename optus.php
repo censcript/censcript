@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250501135000 +0000" stop="20250501171000 +0000" channel="Optus Sport 207.optus">
-        <title>N/A - Bayern Munich v Werder Bremen</title>
-    </programme>
     <programme start="20250501180000 +0000" stop="20250501210000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Nottingham Forest v Brentford</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250519183000 +0000" stop="20250519213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brighton v Liverpool</title>
+    </programme>
+    <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FM v Vissel Kobe</title>
     </programme>
 </tv>
