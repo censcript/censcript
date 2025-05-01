@@ -12099,17 +12099,20 @@
     <programme start="20250501145000 +0000" stop="20250501145600 +0000" channel="GREAT! action">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250501145600 +0000" stop="20250501154000 +0000" channel="GREAT! action">
+    <programme start="20250501145600 +0000" stop="20250501153000 +0000" channel="GREAT! action">
         <title>Fort Ti</title>
     </programme>
-    <programme start="20250501154000 +0000" stop="20250501163500 +0000" channel="GREAT! action">
+    <programme start="20250501153000 +0000" stop="20250501162500 +0000" channel="GREAT! action">
         <title>Kentucky Rifle</title>
     </programme>
-    <programme start="20250501163500 +0000" stop="20250501164100 +0000" channel="GREAT! action">
+    <programme start="20250501162500 +0000" stop="20250501163100 +0000" channel="GREAT! action">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250501164100 +0000" stop="20250501173000 +0000" channel="GREAT! action">
+    <programme start="20250501163100 +0000" stop="20250501172000 +0000" channel="GREAT! action">
         <title>Kentucky Rifle</title>
+    </programme>
+    <programme start="20250501172000 +0000" stop="20250501173000 +0000" channel="GREAT! action">
+        <title>Great! Movie News Extra</title>
     </programme>
     <programme start="20250501173000 +0000" stop="20250501180000 +0000" channel="GREAT! action">
         <title>Wanted: Dead Or Alive</title>
@@ -12219,17 +12222,20 @@
     <programme start="20250501155000 +0000" stop="20250501155600 +0000" channel="GREAT!action+1">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250501155600 +0000" stop="20250501164000 +0000" channel="GREAT!action+1">
+    <programme start="20250501155600 +0000" stop="20250501163000 +0000" channel="GREAT!action+1">
         <title>Fort Ti</title>
     </programme>
-    <programme start="20250501164000 +0000" stop="20250501173500 +0000" channel="GREAT!action+1">
+    <programme start="20250501163000 +0000" stop="20250501172500 +0000" channel="GREAT!action+1">
         <title>Kentucky Rifle</title>
     </programme>
-    <programme start="20250501173500 +0000" stop="20250501174100 +0000" channel="GREAT!action+1">
+    <programme start="20250501172500 +0000" stop="20250501173100 +0000" channel="GREAT!action+1">
         <title>This Week Back Then</title>
     </programme>
-    <programme start="20250501174100 +0000" stop="20250501183000 +0000" channel="GREAT!action+1">
+    <programme start="20250501173100 +0000" stop="20250501182000 +0000" channel="GREAT!action+1">
         <title>Kentucky Rifle</title>
+    </programme>
+    <programme start="20250501182000 +0000" stop="20250501183000 +0000" channel="GREAT!action+1">
+        <title>Great! Movie News Extra</title>
     </programme>
     <programme start="20250501183000 +0000" stop="20250501190000 +0000" channel="GREAT!action+1">
         <title>Wanted: Dead Or Alive</title>

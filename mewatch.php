@@ -87,10 +87,10 @@
     <programme start="20250501101000 +0000" stop="20250501120006 +0000" channel="Channel 5.mewatch">
         <title>Harold and The Purple Crayon</title>
     </programme>
-    <programme start="20250501120006 +0000" stop="20250501124626 +0000" channel="Channel 5.mewatch">
+    <programme start="20250501120006 +0000" stop="20250501124500 +0000" channel="Channel 5.mewatch">
         <title>Party Political Broadcast 2025 - EP 2</title>
     </programme>
-    <programme start="20250501124626 +0000" stop="20250501130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250501124500 +0000" stop="20250501130000 +0000" channel="Channel 5.mewatch">
         <title>Unboxing Art - EP 2</title>
     </programme>
     <programme start="20250501130000 +0000" stop="20250501140002 +0000" channel="Channel 5.mewatch">
