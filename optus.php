@@ -270,6 +270,9 @@
     <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
+    <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Chris Wood</title>
+    </programme>
     <programme start="20250516093000 +0000" stop="20250516100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeonbuk v Anyang</title>
-    </programme>
-    <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gangwon v Ulsan</title>
     </programme>
 </tv>
