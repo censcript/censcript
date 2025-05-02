@@ -26163,32 +26163,32 @@
     <programme start="20250502085000 +0000" stop="20250502095500 +0000" channel="MTA1 World HD">
         <title>Gulshan-e-Waqfe Nau</title>
     </programme>
-    <programme start="20250502095500 +0000" stop="20250502103000 +0000" channel="MTA1 World HD">
+    <programme start="20250502095500 +0000" stop="20250502103500 +0000" channel="MTA1 World HD">
         <title>Jalsa Salana UK Speeches</title>
     </programme>
-    <programme start="20250502103000 +0000" stop="20250502110500 +0000" channel="MTA1 World HD">
+    <programme start="20250502103500 +0000" stop="20250502111000 +0000" channel="MTA1 World HD">
         <title>Tabweebul Qur'an</title>
     </programme>
-    <programme start="20250502110500 +0000" stop="20250502112000 +0000" channel="MTA1 World HD">
+    <programme start="20250502111000 +0000" stop="20250502112500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250502112000 +0000" stop="20250502113500 +0000" channel="MTA1 World HD">
+    <programme start="20250502112500 +0000" stop="20250502114000 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250502113500 +0000" stop="20250502115000 +0000" channel="MTA1 World HD">
+    <programme start="20250502114000 +0000" stop="20250502115500 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250502115000 +0000" stop="20250502120000 +0000" channel="MTA1 World HD">
+    <programme start="20250502115500 +0000" stop="20250502120000 +0000" channel="MTA1 World HD">
         <title>Live Proceedings</title>
     </programme>
-    <programme start="20250502120000 +0000" stop="20250502130000 +0000" channel="MTA1 World HD">
+    <programme start="20250502120000 +0000" stop="20250502130500 +0000" channel="MTA1 World HD">
         <title>Live Friday Sermon</title>
     </programme>
-    <programme start="20250502130000 +0000" stop="20250502132000 +0000" channel="MTA1 World HD">
-        <title>Live Proceedings</title>
-    </programme>
-    <programme start="20250502132000 +0000" stop="20250502142500 +0000" channel="MTA1 World HD">
+    <programme start="20250502130500 +0000" stop="20250502140500 +0000" channel="MTA1 World HD">
         <title>The Palestine Israel Conflict</title>
+    </programme>
+    <programme start="20250502140500 +0000" stop="20250502142500 +0000" channel="MTA1 World HD">
+        <title>Chef's Corner</title>
     </programme>
     <programme start="20250502142500 +0000" stop="20250502144000 +0000" channel="MTA1 World HD">
         <title>Ahd-e-Rafta</title>
@@ -26211,26 +26211,20 @@
     <programme start="20250502174000 +0000" stop="20250502180000 +0000" channel="MTA1 World HD">
         <title>Basketball</title>
     </programme>
-    <programme start="20250502180000 +0000" stop="20250502182000 +0000" channel="MTA1 World HD">
-        <title>World News</title>
+    <programme start="20250502180000 +0000" stop="20250502183500 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250502182000 +0000" stop="20250502183500 +0000" channel="MTA1 World HD">
+    <programme start="20250502183500 +0000" stop="20250502185000 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250502183500 +0000" stop="20250502184500 +0000" channel="MTA1 World HD">
+    <programme start="20250502185000 +0000" stop="20250502190500 +0000" channel="MTA1 World HD">
         <title>Dars-e-Hadith</title>
     </programme>
-    <programme start="20250502184500 +0000" stop="20250502190000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250502190000 +0000" stop="20250502192500 +0000" channel="MTA1 World HD">
-        <title>Inaugural Address Noor Mosque</title>
-    </programme>
-    <programme start="20250502192500 +0000" stop="20250502193500 +0000" channel="MTA1 World HD">
+    <programme start="20250502190500 +0000" stop="20250502191500 +0000" channel="MTA1 World HD">
         <title>IAAAE In Jakpa</title>
     </programme>
-    <programme start="20250502193500 +0000" stop="20250502201500 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana UK Speeches</title>
+    <programme start="20250502191500 +0000" stop="20250502201500 +0000" channel="MTA1 World HD">
+        <title>Inaugural Address Noor Mosque</title>
     </programme>
     <programme start="20250502201500 +0000" stop="20250502204000 +0000" channel="MTA1 World HD">
         <title>Hiqayat-e-Sidqo Wafa</title>
