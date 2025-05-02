@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250502213000 +0000" stop="20250502223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250503000000 +0000" stop="20250503023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Racing Louisville FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Ulsan</title>
+    </programme>
+    <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kawasaki v Cerezo</title>
     </programme>
 </tv>
