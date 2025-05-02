@@ -23245,7 +23245,7 @@
         <title>New In Beauty</title>
     </programme>
     <programme start="20250502150000 +0000" stop="20250502160000 +0000" channel="QVC Beauty">
-        <title>Beauty Day Deals</title>
+        <title>Feel Good &amp; Glow Beauty</title>
     </programme>
     <programme start="20250502160000 +0000" stop="20250502170000 +0000" channel="QVC Beauty">
         <title>In the Salon with Gatineau</title>
@@ -23266,7 +23266,7 @@
         <title>Feel Good Beauty with Alison Young</title>
     </programme>
     <programme start="20250502220000 +0000" stop="20250502230000 +0000" channel="QVC Beauty">
-        <title>Tarte Cosmetics</title>
+        <title>New In Beauty</title>
     </programme>
     <programme start="20250501210000 +0000" stop="20250501220000 +0000" channel="QVC Style HD">
         <title>Summer Starts with Sosandar</title>
@@ -23956,7 +23956,7 @@
         <title>Garden Bank Holiday Deals</title>
     </programme>
     <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="QVC Extra">
-        <title>Hayloft Plants</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250502120000 +0000" stop="20250502130000 +0000" channel="QVC Extra">
         <title>Garden Furniture Deals</title>
@@ -23983,13 +23983,13 @@
         <title>Bank Holiday Deals</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502210000 +0000" channel="QVC Extra">
-        <title>Diamonique Jewellery</title>
+        <title>Don't Lose Your Cool</title>
     </programme>
     <programme start="20250502210000 +0000" stop="20250502220000 +0000" channel="QVC Extra">
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250502220000 +0000" stop="20250502230000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250501213000 +0000" stop="20250501220000 +0000" channel="High Street TV 3">
         <title>5 Minute CleverChef</title>
@@ -36187,7 +36187,7 @@
         <title>talkSPORT Breakfast</title>
     </programme>
     <programme start="20250502090000 +0000" stop="20250502120000 +0000" channel="talkSPORT">
-        <title>White &amp; Jordan</title>
+        <title>Sam Matterface &amp; Alex Crook</title>
     </programme>
     <programme start="20250502120000 +0000" stop="20250502150000 +0000" channel="talkSPORT">
         <title>Hawksbee &amp; Jacobs</title>
