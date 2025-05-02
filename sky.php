@@ -3144,8 +3144,14 @@
     <programme start="20250502130000 +0000" stop="20250502130500 +0000" channel="S4C">
         <title>Newyddion S4C</title>
     </programme>
-    <programme start="20250502130500 +0000" stop="20250502140000 +0000" channel="S4C">
-        <title>New: Prynhawn Da</title>
+    <programme start="20250502130500 +0000" stop="20250502132000 +0000" channel="S4C">
+        <title>Agor y Clo</title>
+    </programme>
+    <programme start="20250502132000 +0000" stop="20250502135000 +0000" channel="S4C">
+        <title>Codi Pac</title>
+    </programme>
+    <programme start="20250502135000 +0000" stop="20250502140000 +0000" channel="S4C">
+        <title>New: Agor y Clo Byr</title>
     </programme>
     <programme start="20250502140000 +0000" stop="20250502140500 +0000" channel="S4C">
         <title>Newyddion S4C</title>
@@ -23035,7 +23041,7 @@
         <title>Prep &amp; Serve with Crimpit</title>
     </programme>
     <programme start="20250502150000 +0000" stop="20250502160000 +0000" channel="QVC HD">
-        <title>Summer Kitchen Deals</title>
+        <title>Sunset Kitchen Steals</title>
     </programme>
     <programme start="20250502160000 +0000" stop="20250502170000 +0000" channel="QVC HD">
         <title>Food Flavours of the Season</title>
@@ -28462,7 +28468,7 @@
         <title>Larivaar Gurbani Santhiya</title>
     </programme>
     <programme start="20250502093000 +0000" stop="20250502100000 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Jammu &amp; Manikaran S.</title>
+        <title>Teleshopping: Shimla-Manikaran S.</title>
     </programme>
     <programme start="20250502100000 +0000" stop="20250502110000 +0000" channel="Akaal Channel">
         <title>Support Punjab Farmers</title>
@@ -28489,7 +28495,7 @@
         <title>Rehraas Sahib with Subtitles</title>
     </programme>
     <programme start="20250502170000 +0000" stop="20250502174500 +0000" channel="Akaal Channel">
-        <title>Teleshopping: Jammu-Manikaran S.</title>
+        <title>Teleshopping: Shimla-Manikaran S.</title>
     </programme>
     <programme start="20250502174500 +0000" stop="20250502180000 +0000" channel="Akaal Channel">
         <title>Special Report</title>
@@ -32241,8 +32247,14 @@
     <programme start="20250502130000 +0000" stop="20250502130500 +0000" channel="S4C HD">
         <title>Newyddion S4C</title>
     </programme>
-    <programme start="20250502130500 +0000" stop="20250502140000 +0000" channel="S4C HD">
-        <title>New: Prynhawn Da</title>
+    <programme start="20250502130500 +0000" stop="20250502132000 +0000" channel="S4C HD">
+        <title>Agor y Clo</title>
+    </programme>
+    <programme start="20250502132000 +0000" stop="20250502135000 +0000" channel="S4C HD">
+        <title>Codi Pac</title>
+    </programme>
+    <programme start="20250502135000 +0000" stop="20250502140000 +0000" channel="S4C HD">
+        <title>New: Agor y Clo Byr</title>
     </programme>
     <programme start="20250502140000 +0000" stop="20250502140500 +0000" channel="S4C HD">
         <title>Newyddion S4C</title>
