@@ -11904,17 +11904,17 @@
     <programme start="20250502050000 +0000" stop="20250502080000 +0000" channel="GREAT! movies">
         <title>TJC Affordable Luxury</title>
     </programme>
-    <programme start="20250502080000 +0000" stop="20250502085500 +0000" channel="GREAT! movies">
-        <title>Polar Storm</title>
+    <programme start="20250502080000 +0000" stop="20250502090000 +0000" channel="GREAT! movies">
+        <title>Heathrow: Britain's Busiest...</title>
     </programme>
-    <programme start="20250502085500 +0000" stop="20250502085700 +0000" channel="GREAT! movies">
+    <programme start="20250502090000 +0000" stop="20250502095500 +0000" channel="GREAT! movies">
+        <title>Turbulence</title>
+    </programme>
+    <programme start="20250502095500 +0000" stop="20250502095700 +0000" channel="GREAT! movies">
         <title>Great! Movie News</title>
     </programme>
-    <programme start="20250502085700 +0000" stop="20250502100000 +0000" channel="GREAT! movies">
-        <title>Polar Storm</title>
-    </programme>
-    <programme start="20250502100000 +0000" stop="20250502110000 +0000" channel="GREAT! movies">
-        <title>Saving Lives at Sea</title>
+    <programme start="20250502095700 +0000" stop="20250502110000 +0000" channel="GREAT! movies">
+        <title>Turbulence</title>
     </programme>
     <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="GREAT! movies">
         <title>Paddington Station 24/7</title>
@@ -12006,17 +12006,17 @@
     <programme start="20250502060000 +0000" stop="20250502090000 +0000" channel="GREAT! movies+1">
         <title>TJC Affordable Luxury</title>
     </programme>
-    <programme start="20250502090000 +0000" stop="20250502095500 +0000" channel="GREAT! movies+1">
-        <title>Polar Storm</title>
+    <programme start="20250502090000 +0000" stop="20250502100000 +0000" channel="GREAT! movies+1">
+        <title>Heathrow: Britain's Busiest...</title>
     </programme>
-    <programme start="20250502095500 +0000" stop="20250502095700 +0000" channel="GREAT! movies+1">
+    <programme start="20250502100000 +0000" stop="20250502105500 +0000" channel="GREAT! movies+1">
+        <title>Turbulence</title>
+    </programme>
+    <programme start="20250502105500 +0000" stop="20250502105700 +0000" channel="GREAT! movies+1">
         <title>Great! Movie News</title>
     </programme>
-    <programme start="20250502095700 +0000" stop="20250502110000 +0000" channel="GREAT! movies+1">
-        <title>Polar Storm</title>
-    </programme>
-    <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="GREAT! movies+1">
-        <title>Saving Lives at Sea</title>
+    <programme start="20250502105700 +0000" stop="20250502120000 +0000" channel="GREAT! movies+1">
+        <title>Turbulence</title>
     </programme>
     <programme start="20250502120000 +0000" stop="20250502130000 +0000" channel="GREAT! movies+1">
         <title>Paddington Station 24/7</title>
@@ -14784,7 +14784,10 @@
     <programme start="20250502043000 +0000" stop="20250502050000 +0000" channel="BBC NEWS HD">
         <title>Business Today</title>
     </programme>
-    <programme start="20250502050000 +0000" stop="20250502080000 +0000" channel="BBC NEWS HD">
+    <programme start="20250502050000 +0000" stop="20250502051500 +0000" channel="BBC NEWS HD">
+        <title>This is BBC NEWS HD</title>
+    </programme>
+    <programme start="20250502051500 +0000" stop="20250502080000 +0000" channel="BBC NEWS HD">
         <title>Breakfast</title>
     </programme>
     <programme start="20250502080000 +0000" stop="20250502083000 +0000" channel="BBC NEWS HD">
@@ -14811,10 +14814,22 @@
     <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="BBC NEWS HD">
         <title>Elections 2025</title>
     </programme>
-    <programme start="20250502120000 +0000" stop="20250502130000 +0000" channel="BBC NEWS HD">
+    <programme start="20250502120000 +0000" stop="20250502123000 +0000" channel="BBC NEWS HD">
         <title>Signed: BBC News at One</title>
     </programme>
-    <programme start="20250502130000 +0000" stop="20250502160000 +0000" channel="BBC NEWS HD">
+    <programme start="20250502123000 +0000" stop="20250502130000 +0000" channel="BBC NEWS HD">
+        <title>BBC News Now</title>
+    </programme>
+    <programme start="20250502130000 +0000" stop="20250502133000 +0000" channel="BBC NEWS HD">
+        <title>BBC News Now</title>
+    </programme>
+    <programme start="20250502133000 +0000" stop="20250502134500 +0000" channel="BBC NEWS HD">
+        <title>Business Today - NYSE Opening Bell</title>
+    </programme>
+    <programme start="20250502134500 +0000" stop="20250502140000 +0000" channel="BBC NEWS HD">
+        <title>BBC News Now</title>
+    </programme>
+    <programme start="20250502140000 +0000" stop="20250502160000 +0000" channel="BBC NEWS HD">
         <title>Elections 2025</title>
     </programme>
     <programme start="20250502160000 +0000" stop="20250502163000 +0000" channel="BBC NEWS HD">
@@ -35790,10 +35805,10 @@
     <programme start="20250502050000 +0000" stop="20250502090000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
-    <programme start="20250502090000 +0000" stop="20250502130000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250502090000 +0000" stop="20250502110000 +0000" channel="BBC RB 1 HD">
         <title>Snooker: World Championship</title>
     </programme>
-    <programme start="20250502130000 +0000" stop="20250502133000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250502110000 +0000" stop="20250502133000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250502133000 +0000" stop="20250502170000 +0000" channel="BBC RB 1 HD">
