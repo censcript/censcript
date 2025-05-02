@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250502093000 +0000" stop="20250502100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Gimcheon</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250516213000 +0000" stop="20250516223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
+    </programme>
+    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Vissel Kobe v Gamba</title>
     </programme>
 </tv>

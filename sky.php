@@ -15240,8 +15240,11 @@
     <programme start="20250502070000 +0000" stop="20250502073000 +0000" channel="NHK World HD">
         <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20250502073000 +0000" stop="20250502080000 +0000" channel="NHK World HD">
-        <title>NHK World Selection</title>
+    <programme start="20250502073000 +0000" stop="20250502075000 +0000" channel="NHK World HD">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250502075000 +0000" stop="20250502080000 +0000" channel="NHK World HD">
+        <title>Nun's Seasonal Calendar</title>
     </programme>
     <programme start="20250502080000 +0000" stop="20250502083000 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15282,8 +15285,11 @@
     <programme start="20250502130000 +0000" stop="20250502133000 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20250502133000 +0000" stop="20250502140000 +0000" channel="NHK World HD">
-        <title>NHK World Selection</title>
+    <programme start="20250502133000 +0000" stop="20250502135000 +0000" channel="NHK World HD">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250502135000 +0000" stop="20250502140000 +0000" channel="NHK World HD">
+        <title>Nun's Seasonal Calendar</title>
     </programme>
     <programme start="20250502140000 +0000" stop="20250502143000 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
@@ -15324,8 +15330,11 @@
     <programme start="20250502190000 +0000" stop="20250502193000 +0000" channel="NHK World HD">
         <title>Medical Frontiers</title>
     </programme>
-    <programme start="20250502193000 +0000" stop="20250502200000 +0000" channel="NHK World HD">
-        <title>NHK World Selection</title>
+    <programme start="20250502193000 +0000" stop="20250502195000 +0000" channel="NHK World HD">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250502195000 +0000" stop="20250502200000 +0000" channel="NHK World HD">
+        <title>Nun's Seasonal Calendar</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502203000 +0000" channel="NHK World HD">
         <title>NHK Newsline</title>
