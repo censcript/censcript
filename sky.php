@@ -6705,13 +6705,13 @@
     <programme start="20250503224600 +0000" stop="20250503234600 +0000" channel="Travelxp">
         <title>Landmarks</title>
     </programme>
-    <programme start="20250502213000 +0000" stop="20250502220000 +0000" channel="BBCScotlandHD">
+    <programme start="20250502214500 +0000" stop="20250502221500 +0000" channel="BBCScotlandHD">
         <title>New: Sacked in the Morning</title>
     </programme>
-    <programme start="20250502220000 +0000" stop="20250502230000 +0000" channel="BBCScotlandHD">
+    <programme start="20250502221500 +0000" stop="20250502231500 +0000" channel="BBCScotlandHD">
         <title>Pitch Invasion: How the...</title>
     </programme>
-    <programme start="20250502230000 +0000" stop="20250503050000 +0000" channel="BBCScotlandHD">
+    <programme start="20250502231500 +0000" stop="20250503050000 +0000" channel="BBCScotlandHD">
         <title>This is BBC Scotland</title>
     </programme>
     <programme start="20250503050000 +0000" stop="20250503110000 +0000" channel="BBCScotlandHD">
@@ -35079,7 +35079,7 @@
     <programme start="20250503225000 +0000" stop="20250503235000 +0000" channel="BBC Two NI HD">
         <title>Pan's Labyrinth</title>
     </programme>
-    <programme start="20250502213000 +0000" stop="20250503013000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250502203000 +0000" stop="20250503013000 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250503013000 +0000" stop="20250503051000 +0000" channel="BBC RB 1 HD">
