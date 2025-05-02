@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250502183000 +0000" stop="20250502213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Manchester City v Wolverhampton Wanderers</title>
-    </programme>
     <programme start="20250502213000 +0000" stop="20250502223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeonbuk v Anyang</title>
+    </programme>
+    <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gangwon v Ulsan</title>
     </programme>
 </tv>
