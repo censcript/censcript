@@ -22606,7 +22606,7 @@
         <title>Michael Perry Live in Holland</title>
     </programme>
     <programme start="20250503100000 +0000" stop="20250503110000 +0000" channel="QVC HD">
-        <title>New Season Styles with Vionic</title>
+        <title>New Season Vionic Footwear</title>
     </programme>
     <programme start="20250503110000 +0000" stop="20250503120000 +0000" channel="QVC HD">
         <title>Elemis Skin Therapies</title>
@@ -22888,7 +22888,7 @@
         <title>Dannii Minogue Fashion</title>
     </programme>
     <programme start="20250503000000 +0000" stop="20250503010000 +0000" channel="QVC Style HD">
-        <title>Effy Jewellery Collection</title>
+        <title>Skechers Footwear</title>
     </programme>
     <programme start="20250503010000 +0000" stop="20250503020000 +0000" channel="QVC Style HD">
         <title>Hush Puppies</title>
@@ -27798,19 +27798,19 @@
     <programme start="20250503220000 +0000" stop="20250503230000 +0000" channel="PTC PUNJABI">
         <title>Vichar Taqrar</title>
     </programme>
-    <programme start="20250502213000 +0000" stop="20250502220000 +0000" channel="Sikh Channel">
-        <title>Sri Sehaj Path - 350 Sala</title>
+    <programme start="20250502210000 +0000" stop="20250502220000 +0000" channel="Sikh Channel">
+        <title>Nagar Kirtan - Derby</title>
     </programme>
     <programme start="20250502220000 +0000" stop="20250502223000 +0000" channel="Sikh Channel">
-        <title>SC India: Punjab News</title>
-    </programme>
-    <programme start="20250502223000 +0000" stop="20250502230000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
     </programme>
-    <programme start="20250502230000 +0000" stop="20250502233000 +0000" channel="Sikh Channel">
+    <programme start="20250502223000 +0000" stop="20250502230000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250502233000 +0000" stop="20250503003000 +0000" channel="Sikh Channel">
+    <programme start="20250502230000 +0000" stop="20250503000000 +0000" channel="Sikh Channel">
+        <title>Gurbani Kirtan</title>
+    </programme>
+    <programme start="20250503000000 +0000" stop="20250503003000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250503003000 +0000" stop="20250503013000 +0000" channel="Sikh Channel">
@@ -28744,22 +28744,28 @@
         <title>NTV Europe News</title>
     </programme>
     <programme start="20250503073000 +0000" stop="20250503080000 +0000" channel="NTV">
-        <title>Badshah</title>
+        <title>Doob</title>
     </programme>
     <programme start="20250503080000 +0000" stop="20250503083000 +0000" channel="NTV">
         <title>NTV NEWS- Sokaler Khobor</title>
     </programme>
     <programme start="20250503083000 +0000" stop="20250503110000 +0000" channel="NTV">
-        <title>Badshah</title>
+        <title>Doob</title>
     </programme>
     <programme start="20250503110000 +0000" stop="20250503113000 +0000" channel="NTV">
         <title>NTV NEWS-Dupurer Khobor</title>
     </programme>
-    <programme start="20250503113000 +0000" stop="20250503120600 +0000" channel="NTV">
+    <programme start="20250503113000 +0000" stop="20250503120300 +0000" channel="NTV">
         <title>Aine O Adhiker</title>
     </programme>
-    <programme start="20250503120600 +0000" stop="20250503121100 +0000" channel="NTV">
+    <programme start="20250503120300 +0000" stop="20250503120600 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250503120600 +0000" stop="20250503120800 +0000" channel="NTV">
+        <title>Adhan-e-Zuhr</title>
+    </programme>
+    <programme start="20250503120800 +0000" stop="20250503121100 +0000" channel="NTV">
+        <title>Aine O Adhiker</title>
     </programme>
     <programme start="20250503121100 +0000" stop="20250503130000 +0000" channel="NTV">
         <title>Aine O Adhiker</title>
@@ -28788,8 +28794,14 @@
     <programme start="20250503165000 +0000" stop="20250503170000 +0000" channel="NTV">
         <title>Crime Watch</title>
     </programme>
-    <programme start="20250503170000 +0000" stop="20250503180000 +0000" channel="NTV">
-        <title>100 Days</title>
+    <programme start="20250503170000 +0000" stop="20250503170700 +0000" channel="NTV">
+        <title>Community Matters</title>
+    </programme>
+    <programme start="20250503170700 +0000" stop="20250503171200 +0000" channel="NTV">
+        <title>Adhan-e-Asr</title>
+    </programme>
+    <programme start="20250503171200 +0000" stop="20250503180000 +0000" channel="NTV">
+        <title>Community Matters</title>
     </programme>
     <programme start="20250503180000 +0000" stop="20250503181500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
@@ -28800,8 +28812,14 @@
     <programme start="20250503185600 +0000" stop="20250503190000 +0000" channel="NTV">
         <title>Adhan-e-Maghrib</title>
     </programme>
-    <programme start="20250503190000 +0000" stop="20250503200000 +0000" channel="NTV">
-        <title>Abar Bhalobashar Saad Jage</title>
+    <programme start="20250503190000 +0000" stop="20250503193100 +0000" channel="NTV">
+        <title>Obohon</title>
+    </programme>
+    <programme start="20250503193100 +0000" stop="20250503193600 +0000" channel="NTV">
+        <title>Adhan-e-Maghrib</title>
+    </programme>
+    <programme start="20250503193600 +0000" stop="20250503200000 +0000" channel="NTV">
+        <title>Obohon</title>
     </programme>
     <programme start="20250503200000 +0000" stop="20250503201100 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
@@ -28812,7 +28830,13 @@
     <programme start="20250503201600 +0000" stop="20250503203000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
     </programme>
-    <programme start="20250503203000 +0000" stop="20250503210000 +0000" channel="NTV">
+    <programme start="20250503203000 +0000" stop="20250503204200 +0000" channel="NTV">
+        <title>NTV NEWS-Moddhorater Khobor</title>
+    </programme>
+    <programme start="20250503204200 +0000" stop="20250503204700 +0000" channel="NTV">
+        <title>Adhan-e-Isha</title>
+    </programme>
+    <programme start="20250503204700 +0000" stop="20250503210000 +0000" channel="NTV">
         <title>NTV NEWS-Moddhorater Khobor</title>
     </programme>
     <programme start="20250503210000 +0000" stop="20250503213000 +0000" channel="NTV">
@@ -28822,7 +28846,7 @@
         <title>Probashi Poribar</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250503230000 +0000" channel="NTV">
-        <title>Adhare Alo</title>
+        <title>Powerfull Dompoti</title>
     </programme>
     <programme start="20250502213500 +0000" stop="20250502230000 +0000" channel="TV One">
         <title>Live Charity Appeal for IBI</title>
