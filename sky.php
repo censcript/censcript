@@ -26641,7 +26641,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250502140500 +0000" stop="20250502150000 +0000" channel="New Vision TV">
-        <title>Kahay Faqir</title>
+        <title>News</title>
     </programme>
     <programme start="20250502150000 +0000" stop="20250502150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -28765,10 +28765,10 @@
         <title>PBC Special Show</title>
     </programme>
     <programme start="20250502190000 +0000" stop="20250502200000 +0000" channel="PBC">
-        <title>PBC Live</title>
+        <title>Nagar Kirtan</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502203000 +0000" channel="PBC">
-        <title>PBC Live</title>
+        <title>Nagar Kirtan</title>
     </programme>
     <programme start="20250502203000 +0000" stop="20250502210000 +0000" channel="PBC">
         <title>Shri Sehaj Path</title>
