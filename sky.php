@@ -26620,7 +26620,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250502110500 +0000" stop="20250502120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Kahay Faqir</title>
     </programme>
     <programme start="20250502120000 +0000" stop="20250502120500 +0000" channel="New Vision TV">
         <title>Headline News</title>

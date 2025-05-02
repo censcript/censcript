@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Gimcheon</title>
-    </programme>
-    <programme start="20250502102000 +0000" stop="20250502124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Gwangju</title>
-    </programme>
-    <programme start="20250502110000 +0000" stop="20250502120000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250502153000 +0000" stop="20250502160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -299,5 +290,14 @@
     </programme>
     <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Gamba</title>
+    </programme>
+    <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Shonan v Yokohama FC</title>
+    </programme>
+    <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
+    </programme>
+    <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Jeonbuk v Anyang</title>
     </programme>
 </tv>
