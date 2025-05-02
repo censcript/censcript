@@ -23734,10 +23734,10 @@
         <title>Men's Fashion with Yiannis</title>
     </programme>
     <programme start="20250501230000 +0000" stop="20250502000000 +0000" channel="Ideal World HD">
-        <title>Ideal World Oulet with Yiannis</title>
+        <title>Ideal World Outlet with Yiannis</title>
     </programme>
     <programme start="20250502000000 +0000" stop="20250502010000 +0000" channel="Ideal World HD">
-        <title>Ideal World Oulet with Yiannis</title>
+        <title>Ideal World Outlet with Yiannis</title>
     </programme>
     <programme start="20250502010000 +0000" stop="20250502020000 +0000" channel="Ideal World HD">
         <title>Ideal World</title>
@@ -28878,23 +28878,20 @@
     <programme start="20250502080000 +0000" stop="20250502083000 +0000" channel="CHSTV">
         <title>News at Nine</title>
     </programme>
-    <programme start="20250502083000 +0000" stop="20250502090000 +0000" channel="CHSTV">
-        <title>Talash</title>
+    <programme start="20250502083000 +0000" stop="20250502100000 +0000" channel="CHSTV">
+        <title>Amar Gao</title>
     </programme>
-    <programme start="20250502090000 +0000" stop="20250502103000 +0000" channel="CHSTV">
-        <title>Esho Quran Shikhi</title>
+    <programme start="20250502100000 +0000" stop="20250502113000 +0000" channel="CHSTV">
+        <title>Legal Advice</title>
     </programme>
-    <programme start="20250502103000 +0000" stop="20250502120000 +0000" channel="CHSTV">
-        <title>Islam Ke Bole</title>
-    </programme>
-    <programme start="20250502120000 +0000" stop="20250502120700 +0000" channel="CHSTV">
+    <programme start="20250502113000 +0000" stop="20250502120300 +0000" channel="CHSTV">
         <title>Amader Gram</title>
     </programme>
-    <programme start="20250502120700 +0000" stop="20250502121200 +0000" channel="CHSTV">
-        <title>Azan-E-Zuhr</title>
+    <programme start="20250502120300 +0000" stop="20250502120800 +0000" channel="CHSTV">
+        <title>Azan-E-Juma</title>
     </programme>
-    <programme start="20250502121200 +0000" stop="20250502123000 +0000" channel="CHSTV">
-        <title>Amader Gram</title>
+    <programme start="20250502120800 +0000" stop="20250502123000 +0000" channel="CHSTV">
+        <title>Islam Keno Shantir Dhormo</title>
     </programme>
     <programme start="20250502123000 +0000" stop="20250502130000 +0000" channel="CHSTV">
         <title>Islam Keno Shantir Dhormo</title>
@@ -28902,23 +28899,20 @@
     <programme start="20250502130000 +0000" stop="20250502133000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250502133000 +0000" stop="20250502140000 +0000" channel="CHSTV">
-        <title>Milon Hobe Kotodine</title>
+    <programme start="20250502133000 +0000" stop="20250502150000 +0000" channel="CHSTV">
+        <title>Reality With Mahee</title>
     </programme>
-    <programme start="20250502140000 +0000" stop="20250502153000 +0000" channel="CHSTV">
-        <title>Khosru Plus Moina</title>
+    <programme start="20250502150000 +0000" stop="20250502163000 +0000" channel="CHSTV">
+        <title>Obhimot</title>
     </programme>
-    <programme start="20250502153000 +0000" stop="20250502160000 +0000" channel="CHSTV">
-        <title>Somogro Bangladesh</title>
+    <programme start="20250502163000 +0000" stop="20250502170600 +0000" channel="CHSTV">
+        <title>Tafsir</title>
     </programme>
-    <programme start="20250502160000 +0000" stop="20250502164300 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
-    </programme>
-    <programme start="20250502164300 +0000" stop="20250502165000 +0000" channel="CHSTV">
+    <programme start="20250502170600 +0000" stop="20250502171200 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250502165000 +0000" stop="20250502173000 +0000" channel="CHSTV">
-        <title>Legal Advice</title>
+    <programme start="20250502171200 +0000" stop="20250502173000 +0000" channel="CHSTV">
+        <title>Tafsir</title>
     </programme>
     <programme start="20250502173000 +0000" stop="20250502180000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
@@ -28926,29 +28920,32 @@
     <programme start="20250502180000 +0000" stop="20250502183000 +0000" channel="CHSTV">
         <title>Independent News</title>
     </programme>
-    <programme start="20250502183000 +0000" stop="20250502185200 +0000" channel="CHSTV">
+    <programme start="20250502183000 +0000" stop="20250502190000 +0000" channel="CHSTV">
         <title>Sharirik Shikkha</title>
     </programme>
-    <programme start="20250502185200 +0000" stop="20250502190000 +0000" channel="CHSTV">
+    <programme start="20250502190000 +0000" stop="20250502192900 +0000" channel="CHSTV">
+        <title>Islam Essentials</title>
+    </programme>
+    <programme start="20250502192900 +0000" stop="20250502193500 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250502190000 +0000" stop="20250502200700 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
+    <programme start="20250502193500 +0000" stop="20250502203000 +0000" channel="CHSTV">
+        <title>Islam Essentials</title>
     </programme>
-    <programme start="20250502200700 +0000" stop="20250502201200 +0000" channel="CHSTV">
+    <programme start="20250502203000 +0000" stop="20250502204000 +0000" channel="CHSTV">
+        <title>Haat Bazar</title>
+    </programme>
+    <programme start="20250502204000 +0000" stop="20250502204500 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250502201200 +0000" stop="20250502203000 +0000" channel="CHSTV">
-        <title>Reality With Mahee</title>
-    </programme>
-    <programme start="20250502203000 +0000" stop="20250502210000 +0000" channel="CHSTV">
+    <programme start="20250502204500 +0000" stop="20250502210000 +0000" channel="CHSTV">
         <title>Haat Bazar</title>
     </programme>
     <programme start="20250502210000 +0000" stop="20250502213000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250502213000 +0000" stop="20250502223000 +0000" channel="CHSTV">
-        <title>Amar Gao</title>
+        <title>Amader Shomaj Biggan</title>
     </programme>
     <programme start="20250501204300 +0000" stop="20250501220000 +0000" channel="IQRA Bangla">
         <title>Qurbani Appeal</title>

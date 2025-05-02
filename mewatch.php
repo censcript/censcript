@@ -240,10 +240,10 @@
     <programme start="20250501154612 +0000" stop="20250501164142 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 3</title>
     </programme>
-    <programme start="20250501164142 +0000" stop="20250501173450 +0000" channel="Channel U.mewatch">
+    <programme start="20250501164153 +0000" stop="20250501173511 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 51</title>
     </programme>
-    <programme start="20250501173450 +0000" stop="20250501220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250501173511 +0000" stop="20250501220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 52</title>
     </programme>
     <programme start="20250501220000 +0000" stop="20250502025821 +0000" channel="Channel U.mewatch">

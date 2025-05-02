@@ -177,6 +177,12 @@
     <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250510000000 +0000" stop="20250510023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Racing Louisville FC v Gotham FC</title>
+    </programme>
+    <programme start="20250510023000 +0000" stop="20250510050000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Angel City FC v Utah Royals FC</title>
+    </programme>
     <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Yokohama FC v Avispa</title>
     </programme>
@@ -207,8 +213,17 @@
     <programme start="20250510162000 +0000" stop="20250510190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Aston Villa</title>
     </programme>
+    <programme start="20250510165000 +0000" stop="20250510192000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Chicago Stars v Washington Spirit</title>
+    </programme>
     <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
+    </programme>
+    <programme start="20250510233000 +0000" stop="20250511020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - North Carolina Courage v Orlando Pride</title>
+    </programme>
+    <programme start="20250511020000 +0000" stop="20250511043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - San Diego Wave FC v Portland Thorns FC</title>
     </programme>
     <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kawasaki</title>
@@ -240,11 +255,17 @@
     <programme start="20250511152000 +0000" stop="20250511183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Arsenal</title>
     </programme>
+    <programme start="20250511170000 +0000" stop="20250511193000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Kansas City Current v Bay FC</title>
+    </programme>
     <programme start="20250511193000 +0000" stop="20250511210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
+    </programme>
+    <programme start="20250512000000 +0000" stop="20250512023000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Seattle Reign v Houston Dash</title>
     </programme>
     <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
@@ -278,26 +299,5 @@
     </programme>
     <programme start="20250516213000 +0000" stop="20250516223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
-    </programme>
-    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Vissel Kobe v Gamba</title>
-    </programme>
-    <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Shonan v Yokohama FC</title>
-    </programme>
-    <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
-    </programme>
-    <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Jeonbuk v Anyang</title>
-    </programme>
-    <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gangwon v Ulsan</title>
-    </programme>
-    <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kawasaki v Cerezo</title>
-    </programme>
-    <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daegu v Seoul</title>
     </programme>
 </tv>
