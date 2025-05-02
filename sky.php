@@ -14553,10 +14553,10 @@
     <programme start="20250503170000 +0000" stop="20250503190000 +0000" channel="BBC Parl HD">
         <title>Home Affairs Committee on Asylum Accommodation</title>
     </programme>
-    <programme start="20250503190000 +0000" stop="20250503195000 +0000" channel="BBC Parl HD">
+    <programme start="20250503190000 +0000" stop="20250503195500 +0000" channel="BBC Parl HD">
         <title>Treasury Committee on Finfluencers</title>
     </programme>
-    <programme start="20250503195000 +0000" stop="20250503203000 +0000" channel="BBC Parl HD">
+    <programme start="20250503195500 +0000" stop="20250503203000 +0000" channel="BBC Parl HD">
         <title>House of Lords   Palestinian...</title>
     </programme>
     <programme start="20250503203000 +0000" stop="20250503223500 +0000" channel="BBC Parl HD">
@@ -28758,16 +28758,10 @@
     <programme start="20250503113000 +0000" stop="20250503120300 +0000" channel="NTV">
         <title>Aine O Adhiker</title>
     </programme>
-    <programme start="20250503120300 +0000" stop="20250503120600 +0000" channel="NTV">
+    <programme start="20250503120300 +0000" stop="20250503120800 +0000" channel="NTV">
         <title>Adhan-e-Zuhr</title>
     </programme>
-    <programme start="20250503120600 +0000" stop="20250503120800 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250503120800 +0000" stop="20250503121100 +0000" channel="NTV">
-        <title>Aine O Adhiker</title>
-    </programme>
-    <programme start="20250503121100 +0000" stop="20250503130000 +0000" channel="NTV">
+    <programme start="20250503120800 +0000" stop="20250503130000 +0000" channel="NTV">
         <title>Aine O Adhiker</title>
     </programme>
     <programme start="20250503130000 +0000" stop="20250503133000 +0000" channel="NTV">
@@ -28785,13 +28779,7 @@
     <programme start="20250503160000 +0000" stop="20250503163000 +0000" channel="NTV">
         <title>Gallary</title>
     </programme>
-    <programme start="20250503163000 +0000" stop="20250503164500 +0000" channel="NTV">
-        <title>Crime Watch</title>
-    </programme>
-    <programme start="20250503164500 +0000" stop="20250503165000 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250503165000 +0000" stop="20250503170000 +0000" channel="NTV">
+    <programme start="20250503163000 +0000" stop="20250503170000 +0000" channel="NTV">
         <title>Crime Watch</title>
     </programme>
     <programme start="20250503170000 +0000" stop="20250503170700 +0000" channel="NTV">
@@ -28806,11 +28794,8 @@
     <programme start="20250503180000 +0000" stop="20250503181500 +0000" channel="NTV">
         <title>NTV Evening News (ENGLISH</title>
     </programme>
-    <programme start="20250503181500 +0000" stop="20250503185600 +0000" channel="NTV">
+    <programme start="20250503181500 +0000" stop="20250503190000 +0000" channel="NTV">
         <title>NTV NEWS-Rater Khobor</title>
-    </programme>
-    <programme start="20250503185600 +0000" stop="20250503190000 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
     </programme>
     <programme start="20250503190000 +0000" stop="20250503193100 +0000" channel="NTV">
         <title>Obohon</title>
@@ -28821,13 +28806,7 @@
     <programme start="20250503193600 +0000" stop="20250503200000 +0000" channel="NTV">
         <title>Obohon</title>
     </programme>
-    <programme start="20250503200000 +0000" stop="20250503201100 +0000" channel="NTV">
-        <title>Kurulus Osman Gazi</title>
-    </programme>
-    <programme start="20250503201100 +0000" stop="20250503201600 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250503201600 +0000" stop="20250503203000 +0000" channel="NTV">
+    <programme start="20250503200000 +0000" stop="20250503203000 +0000" channel="NTV">
         <title>Kurulus Osman Gazi</title>
     </programme>
     <programme start="20250503203000 +0000" stop="20250503204200 +0000" channel="NTV">
