@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503095000 +0000" stop="20250503121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Seoul v Jeonbuk</title>
-    </programme>
-    <programme start="20250503095500 +0000" stop="20250503121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kyoto v Cerezo</title>
-    </programme>
     <programme start="20250503103000 +0000" stop="20250503135000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Aston Villa v Fulham</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Aston Villa v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Leicester City v Ipswich</title>
+    </programme>
+    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
+        <title>Premier League - Brentford v Fulham</title>
     </programme>
 </tv>
