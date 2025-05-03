@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503190000 +0000" stop="20250503200000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250503233000 +0000" stop="20250504020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Portland Thorns FC v Orlando Pride</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250520185000 +0000" stop="20250520211000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Manchester City v Bournemouth</title>
+    </programme>
+    <programme start="20250520185000 +0000" stop="20250520211000 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - Crystal Palace v Wolverhampton Wanderers</title>
     </programme>
 </tv>
