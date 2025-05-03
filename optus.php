@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503035500 +0000" stop="20250503061000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Sanfrecce v Avispa</title>
-    </programme>
     <programme start="20250503055500 +0000" stop="20250503081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Urawa Red Diamonds v Tokyo Verdy</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Southampton</title>
+    </programme>
+    <programme start="20250518122000 +0000" stop="20250518154000 +0000" channel="Optus Sport 4.optus">
+        <title>N/A - Chelsea v Manchester United</title>
     </programme>
 </tv>
