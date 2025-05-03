@@ -25401,13 +25401,13 @@
     <programme start="20250504080500 +0000" stop="20250504081500 +0000" channel="MTA1 World HD">
         <title>Art And Craft</title>
     </programme>
-    <programme start="20250504081500 +0000" stop="20250504083500 +0000" channel="MTA1 World HD">
+    <programme start="20250504081500 +0000" stop="20250504083000 +0000" channel="MTA1 World HD">
         <title>Destination Next</title>
     </programme>
-    <programme start="20250504083500 +0000" stop="20250504090500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250504083000 +0000" stop="20250504091000 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250504090500 +0000" stop="20250504093000 +0000" channel="MTA1 World HD">
+    <programme start="20250504091000 +0000" stop="20250504093000 +0000" channel="MTA1 World HD">
         <title>Common Grounds</title>
     </programme>
     <programme start="20250504093000 +0000" stop="20250504103000 +0000" channel="MTA1 World HD">
@@ -25419,37 +25419,31 @@
     <programme start="20250504104000 +0000" stop="20250504110000 +0000" channel="MTA1 World HD">
         <title>Villages Of Africa</title>
     </programme>
-    <programme start="20250504110000 +0000" stop="20250504115500 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
+    <programme start="20250504110000 +0000" stop="20250504123000 +0000" channel="MTA1 World HD">
+        <title>Live Jamia Convocation Shahid 2024</title>
     </programme>
-    <programme start="20250504115500 +0000" stop="20250504120500 +0000" channel="MTA1 World HD">
+    <programme start="20250504123000 +0000" stop="20250504124000 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250504120500 +0000" stop="20250504122000 +0000" channel="MTA1 World HD">
+    <programme start="20250504124000 +0000" stop="20250504125500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250504122000 +0000" stop="20250504123500 +0000" channel="MTA1 World HD">
-        <title>Dars-e-Tehreerat</title>
+    <programme start="20250504125500 +0000" stop="20250504133000 +0000" channel="MTA1 World HD">
+        <title>Jalsa Salana Speeches</title>
     </programme>
-    <programme start="20250504123500 +0000" stop="20250504131000 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana UK Speeches</title>
-    </programme>
-    <programme start="20250504131000 +0000" stop="20250504141000 +0000" channel="MTA1 World HD">
+    <programme start="20250504133000 +0000" stop="20250504143000 +0000" channel="MTA1 World HD">
         <title>Mulaqat With Huzoor</title>
     </programme>
-    <programme start="20250504141000 +0000" stop="20250504144500 +0000" channel="MTA1 World HD">
+    <programme start="20250504143000 +0000" stop="20250504150500 +0000" channel="MTA1 World HD">
         <title>Seerat-un-Nabi</title>
     </programme>
-    <programme start="20250504144500 +0000" stop="20250504155000 +0000" channel="MTA1 World HD">
-        <title>Huzoor's Jalsa Salana Address</title>
+    <programme start="20250504150500 +0000" stop="20250504160500 +0000" channel="MTA1 World HD">
+        <title>Friday Sermon</title>
     </programme>
-    <programme start="20250504155000 +0000" stop="20250504161000 +0000" channel="MTA1 World HD">
+    <programme start="20250504160500 +0000" stop="20250504162500 +0000" channel="MTA1 World HD">
         <title>Destination Next</title>
     </programme>
-    <programme start="20250504161000 +0000" stop="20250504163000 +0000" channel="MTA1 World HD">
-        <title>Common Grounds</title>
-    </programme>
-    <programme start="20250504163000 +0000" stop="20250504173000 +0000" channel="MTA1 World HD">
+    <programme start="20250504162500 +0000" stop="20250504173000 +0000" channel="MTA1 World HD">
         <title>The Palestine Israel Conflict</title>
     </programme>
     <programme start="20250504173000 +0000" stop="20250504180000 +0000" channel="MTA1 World HD">
@@ -25461,35 +25455,29 @@
     <programme start="20250504182000 +0000" stop="20250504183500 +0000" channel="MTA1 World HD">
         <title>Tilawat</title>
     </programme>
-    <programme start="20250504183500 +0000" stop="20250504193000 +0000" channel="MTA1 World HD">
-        <title>Friday Sermon</title>
+    <programme start="20250504183500 +0000" stop="20250504193500 +0000" channel="MTA1 World HD">
+        <title>Jamia Convocation Shahid 2024</title>
     </programme>
-    <programme start="20250504193000 +0000" stop="20250504194000 +0000" channel="MTA1 World HD">
+    <programme start="20250504193500 +0000" stop="20250504194500 +0000" channel="MTA1 World HD">
         <title>Nazm</title>
     </programme>
-    <programme start="20250504194000 +0000" stop="20250504194500 +0000" channel="MTA1 World HD">
+    <programme start="20250504194500 +0000" stop="20250504195500 +0000" channel="MTA1 World HD">
         <title>Football In Gambia</title>
     </programme>
-    <programme start="20250504194500 +0000" stop="20250504200000 +0000" channel="MTA1 World HD">
-        <title>Nazm</title>
-    </programme>
-    <programme start="20250504200000 +0000" stop="20250504205500 +0000" channel="MTA1 World HD">
+    <programme start="20250504195500 +0000" stop="20250504205000 +0000" channel="MTA1 World HD">
         <title>Inside Ahmadiyya</title>
     </programme>
-    <programme start="20250504205500 +0000" stop="20250504211500 +0000" channel="MTA1 World HD">
+    <programme start="20250504205000 +0000" stop="20250504211000 +0000" channel="MTA1 World HD">
         <title>Common Grounds</title>
     </programme>
-    <programme start="20250504211500 +0000" stop="20250504214500 +0000" channel="MTA1 World HD">
-        <title>Beacon Of Guidance</title>
+    <programme start="20250504211000 +0000" stop="20250504215000 +0000" channel="MTA1 World HD">
+        <title>This Week With Huzoor</title>
     </programme>
-    <programme start="20250504214500 +0000" stop="20250504221500 +0000" channel="MTA1 World HD">
+    <programme start="20250504215000 +0000" stop="20250504222000 +0000" channel="MTA1 World HD">
         <title>Mind Body Spirit</title>
     </programme>
-    <programme start="20250504221500 +0000" stop="20250504225500 +0000" channel="MTA1 World HD">
-        <title>Jalsa Salana UK Speeches</title>
-    </programme>
-    <programme start="20250504225500 +0000" stop="20250504235500 +0000" channel="MTA1 World HD">
-        <title>Villages Of Africa</title>
+    <programme start="20250504222000 +0000" stop="20250504232000 +0000" channel="MTA1 World HD">
+        <title>Jalsa Salana Speeches</title>
     </programme>
     <programme start="20250503210000 +0000" stop="20250503220000 +0000" channel="HUM Masala">
         <title>Riwayati Pakwan - Chef Jamali</title>
