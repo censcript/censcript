@@ -17641,34 +17641,19 @@
         <title>Marian Procession from the Holy Land</title>
     </programme>
     <programme start="20250503120000 +0000" stop="20250503130000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Mass for the Repose of the...</title>
     </programme>
     <programme start="20250503130000 +0000" stop="20250503133000 +0000" channel="EWTN Catholic">
-        <title>First Saturday Devotion</title>
+        <title>Rosary for the Repose of the...</title>
     </programme>
     <programme start="20250503133000 +0000" stop="20250503140000 +0000" channel="EWTN Catholic">
         <title>Savouring Our Faith</title>
     </programme>
-    <programme start="20250503140000 +0000" stop="20250503142000 +0000" channel="EWTN Catholic">
-        <title>Chaplet of Divine Mercy</title>
-    </programme>
-    <programme start="20250503142000 +0000" stop="20250503143000 +0000" channel="EWTN Catholic">
-        <title>Live Adoration from EWTN Chapel</title>
-    </programme>
-    <programme start="20250503143000 +0000" stop="20250503150000 +0000" channel="EWTN Catholic">
-        <title>Life on the Rock</title>
-    </programme>
-    <programme start="20250503150000 +0000" stop="20250503160000 +0000" channel="EWTN Catholic">
-        <title>Called to Communion with Dr David Anders</title>
-    </programme>
-    <programme start="20250503160000 +0000" stop="20250503163000 +0000" channel="EWTN Catholic">
-        <title>At Home with Jim and Joy</title>
-    </programme>
-    <programme start="20250503163000 +0000" stop="20250503170000 +0000" channel="EWTN Catholic">
-        <title>Cross Training</title>
+    <programme start="20250503140000 +0000" stop="20250503170000 +0000" channel="EWTN Catholic">
+        <title>Novena of Masses for the Holy Father</title>
     </programme>
     <programme start="20250503170000 +0000" stop="20250503180000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Mass for the Repose of the...</title>
     </programme>
     <programme start="20250503180000 +0000" stop="20250503183000 +0000" channel="EWTN Catholic">
         <title>The Holy Rosary from Lourdes</title>
@@ -17689,7 +17674,7 @@
         <title>Catholics Come Home</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250503230000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Mass for the Repose of the...</title>
     </programme>
     <programme start="20250502213000 +0000" stop="20250502220000 +0000" channel="Faith World TV">
         <title>Producing the Life of Jesus</title>
