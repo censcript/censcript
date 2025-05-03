@@ -27702,10 +27702,10 @@
     <programme start="20250504083000 +0000" stop="20250504090000 +0000" channel="Kanshi TV">
         <title>Guru Ravidass Ji Da Jaikara</title>
     </programme>
-    <programme start="20250504090000 +0000" stop="20250504120000 +0000" channel="Kanshi TV">
-        <title>Ravidassia Dharam 2025</title>
+    <programme start="20250504090000 +0000" stop="20250504130000 +0000" channel="Kanshi TV">
+        <title>Live Gurpurb Celebration of Guru Ravidass Ji</title>
     </programme>
-    <programme start="20250504120000 +0000" stop="20250504140000 +0000" channel="Kanshi TV">
+    <programme start="20250504130000 +0000" stop="20250504140000 +0000" channel="Kanshi TV">
         <title>Ravidassia Heritage Foundation</title>
     </programme>
     <programme start="20250504140000 +0000" stop="20250504150000 +0000" channel="Kanshi TV">
@@ -28134,13 +28134,13 @@
     <programme start="20250504100000 +0000" stop="20250504113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250504113000 +0000" stop="20250504120600 +0000" channel="IQRA Bangla">
+    <programme start="20250504113000 +0000" stop="20250504120200 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250504120600 +0000" stop="20250504121100 +0000" channel="IQRA Bangla">
+    <programme start="20250504120200 +0000" stop="20250504120700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250504121100 +0000" stop="20250504130000 +0000" channel="IQRA Bangla">
+    <programme start="20250504120700 +0000" stop="20250504130000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250504130000 +0000" stop="20250504140000 +0000" channel="IQRA Bangla">
@@ -28152,37 +28152,40 @@
     <programme start="20250504150000 +0000" stop="20250504153000 +0000" channel="IQRA Bangla">
         <title>Islam is way of life</title>
     </programme>
-    <programme start="20250504153000 +0000" stop="20250504164600 +0000" channel="IQRA Bangla">
+    <programme start="20250504153000 +0000" stop="20250504170000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250504164600 +0000" stop="20250504170000 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Asr</title>
-    </programme>
-    <programme start="20250504170000 +0000" stop="20250504173000 +0000" channel="IQRA Bangla">
+    <programme start="20250504170000 +0000" stop="20250504170800 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>
     </programme>
-    <programme start="20250504173000 +0000" stop="20250504180000 +0000" channel="IQRA Bangla">
+    <programme start="20250504170800 +0000" stop="20250504171300 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Asr</title>
+    </programme>
+    <programme start="20250504171300 +0000" stop="20250504173500 +0000" channel="IQRA Bangla">
+        <title>Weekly Insider</title>
+    </programme>
+    <programme start="20250504173500 +0000" stop="20250504180000 +0000" channel="IQRA Bangla">
         <title>Moshq-e- Tilawat</title>
     </programme>
-    <programme start="20250504180000 +0000" stop="20250504185700 +0000" channel="IQRA Bangla">
+    <programme start="20250504180000 +0000" stop="20250504190000 +0000" channel="IQRA Bangla">
         <title>Our Community</title>
     </programme>
-    <programme start="20250504185700 +0000" stop="20250504190100 +0000" channel="IQRA Bangla">
-        <title>Azan-E-Magrib</title>
-    </programme>
-    <programme start="20250504190100 +0000" stop="20250504193000 +0000" channel="IQRA Bangla">
+    <programme start="20250504190000 +0000" stop="20250504193200 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250504193000 +0000" stop="20250504200000 +0000" channel="IQRA Bangla">
+    <programme start="20250504193200 +0000" stop="20250504193700 +0000" channel="IQRA Bangla">
+        <title>Azan-E-Magrib</title>
+    </programme>
+    <programme start="20250504193700 +0000" stop="20250504200000 +0000" channel="IQRA Bangla">
         <title>Bed time story</title>
     </programme>
-    <programme start="20250504200000 +0000" stop="20250504201200 +0000" channel="IQRA Bangla">
+    <programme start="20250504200000 +0000" stop="20250504203300 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
-    <programme start="20250504201200 +0000" stop="20250504201700 +0000" channel="IQRA Bangla">
+    <programme start="20250504203300 +0000" stop="20250504203800 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250504201700 +0000" stop="20250504213000 +0000" channel="IQRA Bangla">
+    <programme start="20250504203800 +0000" stop="20250504213000 +0000" channel="IQRA Bangla">
         <title>Islamic Q&amp;A With IQRA</title>
     </programme>
     <programme start="20250504213000 +0000" stop="20250504220000 +0000" channel="IQRA Bangla">
@@ -36108,7 +36111,10 @@
     <programme start="20250504210000 +0000" stop="20250504220000 +0000" channel="BBC RnGàid">
         <title>Mar Radio Alba</title>
     </programme>
-    <programme start="20250503211500 +0000" stop="20250503230000 +0000" channel="BBC R5SX">
+    <programme start="20250503203000 +0000" stop="20250503220000 +0000" channel="BBC R5SX">
+        <title>Formula 1</title>
+    </programme>
+    <programme start="20250503220000 +0000" stop="20250503230000 +0000" channel="BBC R5SX">
         <title>Coming Up On 5 Sports Extra</title>
     </programme>
     <programme start="20250503230000 +0000" stop="20250504050000 +0000" channel="BBC R5SX">
