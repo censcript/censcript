@@ -1426,7 +1426,7 @@
         <title>Wogan with Felicity Kendal</title>
     </programme>
     <programme start="20250503222500 +0000" stop="20250503232500 +0000" channel="BBC Four HD">
-        <title>Parkinson</title>
+        <title>Parkinson with Paul Daniels,...</title>
     </programme>
     <programme start="20250502210000 +0000" stop="20250502220000 +0000" channel="London Live">
         <title>Bloodline Detectives</title>
@@ -3000,10 +3000,10 @@
     <programme start="20250503220000 +0000" stop="20250503222000 +0000" channel="S4C">
         <title>Strip</title>
     </programme>
-    <programme start="20250503222000 +0000" stop="20250503224000 +0000" channel="S4C">
-        <title>Strip</title>
+    <programme start="20250503222000 +0000" stop="20250503224500 +0000" channel="S4C">
+        <title>Carufanio</title>
     </programme>
-    <programme start="20250503224000 +0000" stop="20250503234000 +0000" channel="S4C">
+    <programme start="20250503224500 +0000" stop="20250503234500 +0000" channel="S4C">
         <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502224500 +0000" channel="E4 HD">
@@ -31659,10 +31659,10 @@
     <programme start="20250503220000 +0000" stop="20250503222000 +0000" channel="S4C HD">
         <title>Strip</title>
     </programme>
-    <programme start="20250503222000 +0000" stop="20250503224000 +0000" channel="S4C HD">
-        <title>Strip</title>
+    <programme start="20250503222000 +0000" stop="20250503224500 +0000" channel="S4C HD">
+        <title>Carufanio</title>
     </programme>
-    <programme start="20250503224000 +0000" stop="20250503234000 +0000" channel="S4C HD">
+    <programme start="20250503224500 +0000" stop="20250503234500 +0000" channel="S4C HD">
         <title>..programmes start at 6.00am</title>
     </programme>
     <programme start="20250502200000 +0000" stop="20250502224500 +0000" channel="E4">

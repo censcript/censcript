@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503103000 +0000" stop="20250503135000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Aston Villa v Fulham</title>
-    </programme>
     <programme start="20250503135000 +0000" stop="20250503161000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Leicester City v Southampton</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
         <title>Premier League - Brentford v Fulham</title>
+    </programme>
+    <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
+        <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
 </tv>
