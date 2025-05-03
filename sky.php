@@ -14410,7 +14410,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250503103000 +0000" stop="20250503110000 +0000" channel="BBC NEWS HD">
-        <title>Talking Business</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250503110000 +0000" stop="20250503113000 +0000" channel="BBC NEWS HD">
         <title>BBC News</title>
