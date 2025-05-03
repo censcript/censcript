@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503000000 +0000" stop="20250503045000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Houston Dash v Racing Louisville FC</title>
-    </programme>
-    <programme start="20250503023000 +0000" stop="20250503050000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Seattle Reign v Kansas City Current</title>
-    </programme>
     <programme start="20250503035500 +0000" stop="20250503061000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Sanfrecce v Avispa</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daegu v Seoul</title>
+    </programme>
+    <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Gwangju</title>
+    </programme>
+    <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
+        <title>Premier League - Everton v Southampton</title>
     </programme>
 </tv>
