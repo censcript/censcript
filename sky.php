@@ -34521,10 +34521,10 @@
     <programme start="20250503222500 +0000" stop="20250504002500 +0000" channel="BBC RB 1 HD">
         <title>Athletics: Diamond League Keqiao</title>
     </programme>
-    <programme start="20250504002500 +0000" stop="20250504022000 +0000" channel="BBC RB 1 HD">
+    <programme start="20250504002500 +0000" stop="20250504023000 +0000" channel="BBC RB 1 HD">
         <title>Athletics: Diamond League Keqiao</title>
     </programme>
-    <programme start="20250504022000 +0000" stop="20250504044500 +0000" channel="BBC RB 1 HD">
+    <programme start="20250504023000 +0000" stop="20250504044500 +0000" channel="BBC RB 1 HD">
         <title>The Story So Far: The Best Of, Part 3</title>
     </programme>
     <programme start="20250504044500 +0000" stop="20250504064500 +0000" channel="BBC RB 1 HD">
