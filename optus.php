@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503000000 +0000" stop="20250503043000 +0000" channel="Optus Sport 402.optus">
+    <programme start="20250503000000 +0000" stop="20250503045000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Houston Dash v Racing Louisville FC</title>
     </programme>
     <programme start="20250503023000 +0000" stop="20250503050000 +0000" channel="Optus Sport 403.optus">

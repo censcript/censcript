@@ -360,10 +360,10 @@
     <programme start="20250502140000 +0000" stop="20250502170000 +0000" channel="Vasantham.mewatch">
         <title>Let&#039;s Get Married</title>
     </programme>
-    <programme start="20250502170000 +0000" stop="20250502173122 +0000" channel="Vasantham.mewatch">
+    <programme start="20250502165955 +0000" stop="20250502173000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250502173122 +0000" stop="20250503010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250502173000 +0000" stop="20250503010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250503010000 +0000" stop="20250503012959 +0000" channel="Vasantham.mewatch">
