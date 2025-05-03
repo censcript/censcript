@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503055500 +0000" stop="20250503083000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Kashima v Machida</title>
-    </programme>
     <programme start="20250503072000 +0000" stop="20250503094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Daejeon v Anyang</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
+    </programme>
+    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 3.optus">
+        <title>Premier League - West Ham United v Nottingham Forest</title>
     </programme>
 </tv>
