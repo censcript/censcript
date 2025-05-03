@@ -207,10 +207,10 @@
     <programme start="20250502153023 +0000" stop="20250502163022 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 9</title>
     </programme>
-    <programme start="20250502163022 +0000" stop="20250502173033 +0000" channel="Channel U.mewatch">
+    <programme start="20250502163017 +0000" stop="20250502173028 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 53</title>
     </programme>
-    <programme start="20250502173033 +0000" stop="20250502220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250502173028 +0000" stop="20250502220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 54</title>
     </programme>
     <programme start="20250502220000 +0000" stop="20250503005807 +0000" channel="Channel U.mewatch">
