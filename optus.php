@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250504105000 +0000" stop="20250504131000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Manchester United v Manchester City</title>
-    </programme>
-    <programme start="20250504105500 +0000" stop="20250504131000 +0000" channel="Optus Sport 9.optus">
-        <title>Women&#039;s Super League - Liverpool v Everton</title>
-    </programme>
     <programme start="20250504120000 +0000" stop="20250504152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250523102000 +0000" stop="20250523124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Anyang v Pohang</title>
+    </programme>
+    <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Cerezo v Avispa</title>
+    </programme>
+    <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Seoul v Suwon FC</title>
     </programme>
 </tv>

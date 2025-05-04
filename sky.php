@@ -36030,9 +36030,6 @@
     <programme start="20250504210000 +0000" stop="20250504220000 +0000" channel="BBC R1X">
         <title>BBC Introducing on 1Xtra with Theo Johnson</title>
     </programme>
-    <programme start="20250503120000 +0000" stop="20250504080000 +0000" channel="BBC RnGàid">
-        <title>Mar Radio Alba</title>
-    </programme>
     <programme start="20250504080000 +0000" stop="20250504083000 +0000" channel="BBC RnGàid">
         <title>Dèanamaid Adhradh</title>
     </programme>
