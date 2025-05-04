@@ -27063,25 +27063,25 @@
     <programme start="20250504080000 +0000" stop="20250504081500 +0000" channel="Eman Channel">
         <title>Morning Remembrance</title>
     </programme>
-    <programme start="20250504081500 +0000" stop="20250504091500 +0000" channel="Eman Channel">
+    <programme start="20250504081500 +0000" stop="20250504092000 +0000" channel="Eman Channel">
         <title>Madrasah TV Supercharge</title>
     </programme>
-    <programme start="20250504091500 +0000" stop="20250504094500 +0000" channel="Eman Channel">
+    <programme start="20250504092000 +0000" stop="20250504095000 +0000" channel="Eman Channel">
         <title>Repeat: EKTV</title>
     </programme>
-    <programme start="20250504094500 +0000" stop="20250504100000 +0000" channel="Eman Channel">
+    <programme start="20250504095000 +0000" stop="20250504100500 +0000" channel="Eman Channel">
         <title>Oriental Scholars</title>
     </programme>
-    <programme start="20250504100000 +0000" stop="20250504103000 +0000" channel="Eman Channel">
+    <programme start="20250504100500 +0000" stop="20250504103000 +0000" channel="Eman Channel">
         <title>Omar &amp; Hana</title>
     </programme>
     <programme start="20250504103000 +0000" stop="20250504110000 +0000" channel="Eman Channel">
         <title>Little Explorers: The Den</title>
     </programme>
-    <programme start="20250504110000 +0000" stop="20250504120300 +0000" channel="Eman Channel">
+    <programme start="20250504110000 +0000" stop="20250504120200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
-    <programme start="20250504120300 +0000" stop="20250504120700 +0000" channel="Eman Channel">
+    <programme start="20250504120200 +0000" stop="20250504120700 +0000" channel="Eman Channel">
         <title>Dhuhr Adhan</title>
     </programme>
     <programme start="20250504120700 +0000" stop="20250504130500 +0000" channel="Eman Channel">
@@ -27105,10 +27105,10 @@
     <programme start="20250504154500 +0000" stop="20250504160300 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
-    <programme start="20250504160300 +0000" stop="20250504160800 +0000" channel="Eman Channel">
+    <programme start="20250504160300 +0000" stop="20250504160700 +0000" channel="Eman Channel">
         <title>Asr Adhan</title>
     </programme>
-    <programme start="20250504160800 +0000" stop="20250504161500 +0000" channel="Eman Channel">
+    <programme start="20250504160700 +0000" stop="20250504161500 +0000" channel="Eman Channel">
         <title>The Other Side</title>
     </programme>
     <programme start="20250504161500 +0000" stop="20250504164500 +0000" channel="Eman Channel">
@@ -27117,29 +27117,20 @@
     <programme start="20250504164500 +0000" stop="20250504170000 +0000" channel="Eman Channel">
         <title>Kids Evening Remembrance</title>
     </programme>
-    <programme start="20250504170000 +0000" stop="20250504180000 +0000" channel="Eman Channel">
-        <title>Alif Laam Meem</title>
+    <programme start="20250504170000 +0000" stop="20250504173000 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
     </programme>
-    <programme start="20250504180000 +0000" stop="20250504181500 +0000" channel="Eman Channel">
-        <title>His Hajj Story</title>
+    <programme start="20250504173000 +0000" stop="20250504193200 +0000" channel="Eman Channel">
+        <title>LUL Friend of Allah</title>
     </programme>
-    <programme start="20250504181500 +0000" stop="20250504183000 +0000" channel="Eman Channel">
-        <title>Comfort in Times of Crisis</title>
-    </programme>
-    <programme start="20250504183000 +0000" stop="20250504184500 +0000" channel="Eman Channel">
-        <title>A Beautiful Patience</title>
-    </programme>
-    <programme start="20250504184500 +0000" stop="20250504185900 +0000" channel="Eman Channel">
-        <title>Evening Remembrance</title>
-    </programme>
-    <programme start="20250504185900 +0000" stop="20250504193100 +0000" channel="Eman Channel">
-        <title>Inspire</title>
-    </programme>
-    <programme start="20250504193100 +0000" stop="20250504193600 +0000" channel="Eman Channel">
+    <programme start="20250504193200 +0000" stop="20250504193600 +0000" channel="Eman Channel">
         <title>Maghrib Adhan</title>
     </programme>
-    <programme start="20250504193600 +0000" stop="20250504200000 +0000" channel="Eman Channel">
-        <title>Inspire</title>
+    <programme start="20250504193600 +0000" stop="20250504194500 +0000" channel="Eman Channel">
+        <title>Makkah Live</title>
+    </programme>
+    <programme start="20250504194500 +0000" stop="20250504200000 +0000" channel="Eman Channel">
+        <title>Evening Remembrance</title>
     </programme>
     <programme start="20250504200000 +0000" stop="20250504204300 +0000" channel="Eman Channel">
         <title>The Firsts</title>
@@ -27156,10 +27147,10 @@
     <programme start="20250504213000 +0000" stop="20250504220000 +0000" channel="Eman Channel">
         <title>The Promise Of Al Kahf</title>
     </programme>
-    <programme start="20250504220000 +0000" stop="20250504221300 +0000" channel="Eman Channel">
+    <programme start="20250504220000 +0000" stop="20250504221200 +0000" channel="Eman Channel">
         <title>What we Say Before we Sleep</title>
     </programme>
-    <programme start="20250504221300 +0000" stop="20250504231300 +0000" channel="Eman Channel">
+    <programme start="20250504221200 +0000" stop="20250504231200 +0000" channel="Eman Channel">
         <title>Makkah Live</title>
     </programme>
     <programme start="20250503204900 +0000" stop="20250503220000 +0000" channel="ARY Digital">
