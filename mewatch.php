@@ -3,13 +3,13 @@
     <programme start="20250503120000 +0000" stop="20250503200011 +0000" channel="Channel 5.mewatch">
         <title>Singapore Votes 2025: The Results</title>
     </programme>
-    <programme start="20250503200011 +0000" stop="20250503203020 +0000" channel="Channel 5.mewatch">
+    <programme start="20250503200308 +0000" stop="20250503203317 +0000" channel="Channel 5.mewatch">
         <title>Stars In Style S8 - EP 9</title>
     </programme>
-    <programme start="20250503203020 +0000" stop="20250503213048 +0000" channel="Channel 5.mewatch">
+    <programme start="20250503203317 +0000" stop="20250503213050 +0000" channel="Channel 5.mewatch">
         <title>The Chase USA S3 - EP 8</title>
     </programme>
-    <programme start="20250503213048 +0000" stop="20250503220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250503213050 +0000" stop="20250503220000 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 22</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250503223020 +0000" channel="Channel 5.mewatch">
@@ -372,7 +372,7 @@
     <programme start="20250504143001 +0000" stop="20250504153000 +0000" channel="Suria.mewatch">
         <title>Andai Itu Takdirnya - EP 2</title>
     </programme>
-    <programme start="20250504153000 +0000" stop="20250504160000 +0000" channel="Suria.mewatch">
+    <programme start="20250504153000 +0000" stop="20250504160137 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250503120000 +0000" stop="20250503170018 +0000" channel="Vasantham.mewatch">
@@ -384,46 +384,22 @@
     <programme start="20250503171745 +0000" stop="20250503174518 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 9</title>
     </programme>
-    <programme start="20250503174518 +0000" stop="20250503180026 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503174518 +0000" stop="20250503180005 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 11</title>
     </programme>
-    <programme start="20250503180026 +0000" stop="20250503181529 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503180005 +0000" stop="20250503182146 +0000" channel="Vasantham.mewatch">
         <title>GE2025 Seithi Live Update</title>
     </programme>
-    <programme start="20250503181529 +0000" stop="20250503184531 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503182146 +0000" stop="20250503184935 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 11</title>
     </programme>
-    <programme start="20250503184531 +0000" stop="20250503190030 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503184935 +0000" stop="20250503190250 +0000" channel="Vasantham.mewatch">
         <title>Unboxing Art - EP 4</title>
     </programme>
-    <programme start="20250503190030 +0000" stop="20250503191545 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503190250 +0000" stop="20250503200019 +0000" channel="Vasantham.mewatch">
         <title>GE2025 Seithi Live Update</title>
     </programme>
-    <programme start="20250503191545 +0000" stop="20250503194542 +0000" channel="Vasantham.mewatch">
-        <title>Thinna Thinna Aasai - EP 6</title>
-    </programme>
-    <programme start="20250503194542 +0000" stop="20250503200041 +0000" channel="Vasantham.mewatch">
-        <title>Unboxing Art - EP 3</title>
-    </programme>
-    <programme start="20250503200041 +0000" stop="20250503201556 +0000" channel="Vasantham.mewatch">
-        <title>GE2025 Seithi Live Update</title>
-    </programme>
-    <programme start="20250503201556 +0000" stop="20250503204541 +0000" channel="Vasantham.mewatch">
-        <title>Thinna Thinna Aasai - EP 7</title>
-    </programme>
-    <programme start="20250503204541 +0000" stop="20250503210039 +0000" channel="Vasantham.mewatch">
-        <title>Unboxing Art - EP 2</title>
-    </programme>
-    <programme start="20250503210039 +0000" stop="20250503211554 +0000" channel="Vasantham.mewatch">
-        <title>GE2025 Seithi Live Update</title>
-    </programme>
-    <programme start="20250503211554 +0000" stop="20250503214500 +0000" channel="Vasantham.mewatch">
-        <title>Thinna Thinna Aasai - EP 4</title>
-    </programme>
-    <programme start="20250503214500 +0000" stop="20250503215515 +0000" channel="Vasantham.mewatch">
-        <title>Urban Vivasaayi - EP 1</title>
-    </programme>
-    <programme start="20250503215515 +0000" stop="20250503220000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503200019 +0000" stop="20250503220000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250504010000 +0000" channel="Vasantham.mewatch">
