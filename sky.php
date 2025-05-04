@@ -14485,7 +14485,7 @@
         <title>House of Lords - Children's...</title>
     </programme>
     <programme start="20250505201500 +0000" stop="20250505221500 +0000" channel="BBC Parl HD">
-        <title>Select Committees - Culture,...</title>
+        <title>Culture, Media and Sport Committee</title>
     </programme>
     <programme start="20250505221500 +0000" stop="20250505231500 +0000" channel="BBC Parl HD">
         <title>Women and Equalities Committee on Misogyny</title>
