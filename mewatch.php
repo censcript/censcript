@@ -405,11 +405,8 @@
     <programme start="20250504143001 +0000" stop="20250504153000 +0000" channel="Suria.mewatch">
         <title>Andai Itu Takdirnya - EP 2</title>
     </programme>
-    <programme start="20250504153000 +0000" stop="20250504160000 +0000" channel="Suria.mewatch">
+    <programme start="20250504153000 +0000" stop="20250504160137 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250504160000 +0000" stop="20250505010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250503120000 +0000" stop="20250503170018 +0000" channel="Vasantham.mewatch">
         <title>Singapore Votes 2025: The Results</title>

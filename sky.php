@@ -12720,14 +12720,11 @@
     <programme start="20250504053000 +0000" stop="20250504060000 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
     </programme>
-    <programme start="20250504060000 +0000" stop="20250504090000 +0000" channel="SkySp Golf HD">
+    <programme start="20250504060000 +0000" stop="20250504093000 +0000" channel="SkySp Golf HD">
         <title>PGA Tour Golf</title>
     </programme>
-    <programme start="20250504090000 +0000" stop="20250504110000 +0000" channel="SkySp Golf HD">
+    <programme start="20250504093000 +0000" stop="20250504113000 +0000" channel="SkySp Golf HD">
         <title>LPGA Tour Golf</title>
-    </programme>
-    <programme start="20250504110000 +0000" stop="20250504113000 +0000" channel="SkySp Golf HD">
-        <title>PGA Tour Champions Learning Centre</title>
     </programme>
     <programme start="20250504113000 +0000" stop="20250504120000 +0000" channel="SkySp Golf HD">
         <title>HotelPlanner Tour Golf</title>
