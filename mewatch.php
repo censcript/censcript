@@ -426,9 +426,6 @@
     <programme start="20250505155959 +0000" stop="20250506010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250505160000 +0000" stop="20250506010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250504140002 +0000" stop="20250504170000 +0000" channel="Vasantham.mewatch">
         <title>Ratsasan</title>
     </programme>
