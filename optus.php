@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250504120000 +0000" stop="20250504152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
-    <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Brighton v Newcastle United</title>
-    </programme>
-    <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - West Ham United v Tottenham Hotspur</title>
-    </programme>
-    <programme start="20250504125000 +0000" stop="20250504151000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Brentford v Manchester United</title>
-    </programme>
-    <programme start="20250504125500 +0000" stop="20250504151000 +0000" channel="Optus Sport 10.optus">
-        <title>Women&#039;s Super League - Crystal Palace v Leicester</title>
-    </programme>
     <programme start="20250504130500 +0000" stop="20250504152500 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Tottenham Hotspur v Chelsea</title>
     </programme>
@@ -299,5 +284,20 @@
     </programme>
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
+    </programme>
+    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
+    </programme>
+    <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Gimcheon</title>
+    </programme>
+    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shimizu v Vissel Kobe</title>
+    </programme>
+    <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kawasaki v Gamba</title>
     </programme>
 </tv>
