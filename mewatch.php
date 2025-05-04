@@ -300,52 +300,19 @@
     <programme start="20250503120000 +0000" stop="20250503170021 +0000" channel="Suria.mewatch">
         <title>Singapore Votes 2025: The Results</title>
     </programme>
-    <programme start="20250503170021 +0000" stop="20250503171538 +0000" channel="Suria.mewatch">
+    <programme start="20250503175852 +0000" stop="20250503181324 +0000" channel="Suria.mewatch">
         <title>Unboxing Art - EP 2</title>
     </programme>
-    <programme start="20250503171538 +0000" stop="20250503174537 +0000" channel="Suria.mewatch">
+    <programme start="20250503181324 +0000" stop="20250503184408 +0000" channel="Suria.mewatch">
         <title>Siapa Master? 2 - EP 1</title>
     </programme>
-    <programme start="20250503174537 +0000" stop="20250503180041 +0000" channel="Suria.mewatch">
-        <title>Janji Sedap - EP 25</title>
+    <programme start="20250503184408 +0000" stop="20250503190156 +0000" channel="Suria.mewatch">
+        <title>Juara Memasak All-Star - EP 5</title>
     </programme>
-    <programme start="20250503180041 +0000" stop="20250503181556 +0000" channel="Suria.mewatch">
+    <programme start="20250503190156 +0000" stop="20250503200241 +0000" channel="Suria.mewatch">
         <title>GE2025 Berita Live Update</title>
     </programme>
-    <programme start="20250503181556 +0000" stop="20250503184550 +0000" channel="Suria.mewatch">
-        <title>Siapa Master? 2 - EP 2</title>
-    </programme>
-    <programme start="20250503184550 +0000" stop="20250503190055 +0000" channel="Suria.mewatch">
-        <title>Unboxing Art - EP 1</title>
-    </programme>
-    <programme start="20250503190055 +0000" stop="20250503191609 +0000" channel="Suria.mewatch">
-        <title>GE2025 Berita Live Update</title>
-    </programme>
-    <programme start="20250503191609 +0000" stop="20250503194615 +0000" channel="Suria.mewatch">
-        <title>Siapa Master? 2 - EP 3</title>
-    </programme>
-    <programme start="20250503194615 +0000" stop="20250503200037 +0000" channel="Suria.mewatch">
-        <title>Wira Kita - EP 3</title>
-    </programme>
-    <programme start="20250503200037 +0000" stop="20250503201552 +0000" channel="Suria.mewatch">
-        <title>GE2025 Berita Live Update</title>
-    </programme>
-    <programme start="20250503201552 +0000" stop="20250503204553 +0000" channel="Suria.mewatch">
-        <title>Siapa Master? 2 - EP 4</title>
-    </programme>
-    <programme start="20250503204553 +0000" stop="20250503210114 +0000" channel="Suria.mewatch">
-        <title>Wira Kita - EP 2</title>
-    </programme>
-    <programme start="20250503210114 +0000" stop="20250503211629 +0000" channel="Suria.mewatch">
-        <title>GE2025 Berita Live Update</title>
-    </programme>
-    <programme start="20250503211629 +0000" stop="20250503214508 +0000" channel="Suria.mewatch">
-        <title>Siapa Master? 2 - EP 5</title>
-    </programme>
-    <programme start="20250503214508 +0000" stop="20250503215954 +0000" channel="Suria.mewatch">
-        <title>Janji Sedap - EP 26</title>
-    </programme>
-    <programme start="20250503215954 +0000" stop="20250504010000 +0000" channel="Suria.mewatch">
+    <programme start="20250503200241 +0000" stop="20250504010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250504010000 +0000" stop="20250504013025 +0000" channel="Suria.mewatch">
