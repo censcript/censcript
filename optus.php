@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250504193000 +0000" stop="20250504210000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Bay FC</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
+    </programme>
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Shimizu</title>
     </programme>
 </tv>
