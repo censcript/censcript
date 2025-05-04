@@ -243,10 +243,10 @@
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
         <title>Premier League - Brentford v Fulham</title>
     </programme>
-    <programme start="20250518152000 +0000" stop="20250518174000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250518152000 +0000" stop="20250518183000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
-    <programme start="20250518213000 +0000" stop="20250518230000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250518193000 +0000" stop="20250518210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
     <programme start="20250519183000 +0000" stop="20250519213000 +0000" channel="Optus Sport 1.optus">
