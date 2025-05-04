@@ -219,7 +219,7 @@
     <programme start="20250503155929 +0000" stop="20250503162957 +0000" channel="Channel U.mewatch">
         <title>Invisible Design - EP 8</title>
     </programme>
-    <programme start="20250503162957 +0000" stop="20250503220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250503162958 +0000" stop="20250503220000 +0000" channel="Channel U.mewatch">
         <title>Come Sing With Me S5 - EP 1</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250504005810 +0000" channel="Channel U.mewatch">
@@ -405,19 +405,19 @@
     <programme start="20250504143001 +0000" stop="20250504153000 +0000" channel="Suria.mewatch">
         <title>Andai Itu Takdirnya - EP 2</title>
     </programme>
-    <programme start="20250504153000 +0000" stop="20250504160000 +0000" channel="Suria.mewatch">
+    <programme start="20250504153000 +0000" stop="20250504160137 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250503120000 +0000" stop="20250503170018 +0000" channel="Vasantham.mewatch">
         <title>Singapore Votes 2025: The Results</title>
     </programme>
-    <programme start="20250503170018 +0000" stop="20250503171516 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503170246 +0000" stop="20250503171745 +0000" channel="Vasantham.mewatch">
         <title>Unboxing Art - EP 1</title>
     </programme>
-    <programme start="20250503171516 +0000" stop="20250503174515 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503171745 +0000" stop="20250503174518 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 9</title>
     </programme>
-    <programme start="20250503174515 +0000" stop="20250503180026 +0000" channel="Vasantham.mewatch">
+    <programme start="20250503174518 +0000" stop="20250503180026 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 11</title>
     </programme>
     <programme start="20250503180026 +0000" stop="20250503181529 +0000" channel="Vasantham.mewatch">

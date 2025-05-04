@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250503233000 +0000" stop="20250504020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Portland Thorns FC v Orlando Pride</title>
-    </programme>
     <programme start="20250504020000 +0000" stop="20250504043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Utah Royals FC v North Carolina Courage</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250520185000 +0000" stop="20250520211000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Crystal Palace v Wolverhampton Wanderers</title>
+    </programme>
+    <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Yokohama FM v Vissel Kobe</title>
     </programme>
 </tv>

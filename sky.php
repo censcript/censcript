@@ -12744,41 +12744,35 @@
     <programme start="20250503193500 +0000" stop="20250503220000 +0000" channel="SkySp F1 HD">
         <title>Live Miami F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250503220000 +0000" stop="20250503223000 +0000" channel="SkySp F1 HD">
+    <programme start="20250503220000 +0000" stop="20250503224500 +0000" channel="SkySp F1 HD">
         <title>Live Ted's Quali Notebook: Miami</title>
     </programme>
-    <programme start="20250503223000 +0000" stop="20250504003000 +0000" channel="SkySp F1 HD">
+    <programme start="20250503224500 +0000" stop="20250504005500 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250504003000 +0000" stop="20250504010000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504005500 +0000" stop="20250504012500 +0000" channel="SkySp F1 HD">
         <title>Ted's Quali Notebook: Miami</title>
     </programme>
-    <programme start="20250504010000 +0000" stop="20250504020000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504012500 +0000" stop="20250504024500 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Sprint</title>
     </programme>
-    <programme start="20250504020000 +0000" stop="20250504030000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504024500 +0000" stop="20250504035000 +0000" channel="SkySp F1 HD">
         <title>Indycar: Practice 2</title>
     </programme>
-    <programme start="20250504030000 +0000" stop="20250504034500 +0000" channel="SkySp F1 HD">
+    <programme start="20250504035000 +0000" stop="20250504044500 +0000" channel="SkySp F1 HD">
         <title>F1 Academy: Race 1</title>
     </programme>
-    <programme start="20250504034500 +0000" stop="20250504040000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504044500 +0000" stop="20250504050000 +0000" channel="SkySp F1 HD">
         <title>72 Hours with Jack Doohan</title>
-    </programme>
-    <programme start="20250504040000 +0000" stop="20250504050000 +0000" channel="SkySp F1 HD">
-        <title>The Home of Formula One</title>
     </programme>
     <programme start="20250504050000 +0000" stop="20250504060000 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Sprint Quali</title>
     </programme>
-    <programme start="20250504060000 +0000" stop="20250504070000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504060000 +0000" stop="20250504072000 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Sprint</title>
     </programme>
-    <programme start="20250504070000 +0000" stop="20250504090000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504072000 +0000" stop="20250504093000 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Qualifying</title>
-    </programme>
-    <programme start="20250504090000 +0000" stop="20250504093000 +0000" channel="SkySp F1 HD">
-        <title>Ted's Quali Notebook: Miami</title>
     </programme>
     <programme start="20250504093000 +0000" stop="20250504111500 +0000" channel="SkySp F1 HD">
         <title>Live GT World Challenge: Sprint R1</title>
@@ -12786,20 +12780,14 @@
     <programme start="20250504111500 +0000" stop="20250504113000 +0000" channel="SkySp F1 HD">
         <title>Ted Drives: Part 3 - F1 Car</title>
     </programme>
-    <programme start="20250504113000 +0000" stop="20250504133000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504113000 +0000" stop="20250504134000 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Qualifying</title>
     </programme>
-    <programme start="20250504133000 +0000" stop="20250504140000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504134000 +0000" stop="20250504141000 +0000" channel="SkySp F1 HD">
         <title>Ted's Quali Notebook: Miami</title>
     </programme>
-    <programme start="20250504140000 +0000" stop="20250504150000 +0000" channel="SkySp F1 HD">
+    <programme start="20250504141000 +0000" stop="20250504153000 +0000" channel="SkySp F1 HD">
         <title>Miami F1 GP: Sprint</title>
-    </programme>
-    <programme start="20250504150000 +0000" stop="20250504151500 +0000" channel="SkySp F1 HD">
-        <title>Ted Drives: Part 3 - F1 Car</title>
-    </programme>
-    <programme start="20250504151500 +0000" stop="20250504153000 +0000" channel="SkySp F1 HD">
-        <title>Jenson &amp; the FW22</title>
     </programme>
     <programme start="20250504153000 +0000" stop="20250504163000 +0000" channel="SkySp F1 HD">
         <title>Live Indy NXT</title>
@@ -28009,21 +27997,18 @@
         <title>News at Nine</title>
     </programme>
     <programme start="20250504083000 +0000" stop="20250504100000 +0000" channel="CHSTV">
-        <title>Dehotori</title>
+        <title>Amar Prem Tumi</title>
     </programme>
     <programme start="20250504100000 +0000" stop="20250504110000 +0000" channel="CHSTV">
-        <title>Sporium</title>
+        <title>Plastic</title>
     </programme>
-    <programme start="20250504110000 +0000" stop="20250504120000 +0000" channel="CHSTV">
+    <programme start="20250504110000 +0000" stop="20250504120200 +0000" channel="CHSTV">
         <title>Seerat</title>
     </programme>
-    <programme start="20250504120000 +0000" stop="20250504121000 +0000" channel="CHSTV">
-        <title>Amader Gram</title>
-    </programme>
-    <programme start="20250504121000 +0000" stop="20250504121600 +0000" channel="CHSTV">
+    <programme start="20250504120200 +0000" stop="20250504120700 +0000" channel="CHSTV">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250504121600 +0000" stop="20250504123000 +0000" channel="CHSTV">
+    <programme start="20250504120700 +0000" stop="20250504123000 +0000" channel="CHSTV">
         <title>Amader Gram</title>
     </programme>
     <programme start="20250504123000 +0000" stop="20250504130000 +0000" channel="CHSTV">
@@ -28036,7 +28021,7 @@
         <title>Online Offline</title>
     </programme>
     <programme start="20250504140000 +0000" stop="20250504150000 +0000" channel="CHSTV">
-        <title>Health Talk</title>
+        <title>Obhimot</title>
     </programme>
     <programme start="20250504150000 +0000" stop="20250504153000 +0000" channel="CHSTV">
         <title>Community News</title>
@@ -28044,13 +28029,16 @@
     <programme start="20250504153000 +0000" stop="20250504160000 +0000" channel="CHSTV">
         <title>Somogro Bangladesh</title>
     </programme>
-    <programme start="20250504160000 +0000" stop="20250504165000 +0000" channel="CHSTV">
+    <programme start="20250504160000 +0000" stop="20250504170000 +0000" channel="CHSTV">
         <title>Tafsir</title>
     </programme>
-    <programme start="20250504165000 +0000" stop="20250504170000 +0000" channel="CHSTV">
+    <programme start="20250504170000 +0000" stop="20250504170800 +0000" channel="CHSTV">
+        <title>Orthoniti Sharadin</title>
+    </programme>
+    <programme start="20250504170800 +0000" stop="20250504171300 +0000" channel="CHSTV">
         <title>Azan-E-Asar</title>
     </programme>
-    <programme start="20250504170000 +0000" stop="20250504173000 +0000" channel="CHSTV">
+    <programme start="20250504171300 +0000" stop="20250504173000 +0000" channel="CHSTV">
         <title>Orthoniti Sharadin</title>
     </programme>
     <programme start="20250504173000 +0000" stop="20250504180000 +0000" channel="CHSTV">
@@ -28059,26 +28047,32 @@
     <programme start="20250504180000 +0000" stop="20250504183000 +0000" channel="CHSTV">
         <title>Sylheter Khobor</title>
     </programme>
-    <programme start="20250504183000 +0000" stop="20250504185700 +0000" channel="CHSTV">
+    <programme start="20250504183000 +0000" stop="20250504190000 +0000" channel="CHSTV">
         <title>Online Offline</title>
     </programme>
-    <programme start="20250504185700 +0000" stop="20250504190300 +0000" channel="CHSTV">
+    <programme start="20250504190000 +0000" stop="20250504193200 +0000" channel="CHSTV">
+        <title>Ek Mutho Prem</title>
+    </programme>
+    <programme start="20250504193200 +0000" stop="20250504194000 +0000" channel="CHSTV">
         <title>Azan-E-Maghrib</title>
     </programme>
-    <programme start="20250504190300 +0000" stop="20250504201500 +0000" channel="CHSTV">
-        <title>Agdum Bagdum</title>
+    <programme start="20250504194000 +0000" stop="20250504200000 +0000" channel="CHSTV">
+        <title>Ek Mutho Prem</title>
     </programme>
-    <programme start="20250504201500 +0000" stop="20250504202500 +0000" channel="CHSTV">
+    <programme start="20250504200000 +0000" stop="20250504203000 +0000" channel="CHSTV">
+        <title>Filler Songs</title>
+    </programme>
+    <programme start="20250504203000 +0000" stop="20250504205000 +0000" channel="CHSTV">
+        <title>Amader Gram</title>
+    </programme>
+    <programme start="20250504205000 +0000" stop="20250504210000 +0000" channel="CHSTV">
         <title>Azan-E-Isha</title>
-    </programme>
-    <programme start="20250504202500 +0000" stop="20250504210000 +0000" channel="CHSTV">
-        <title>Talash</title>
     </programme>
     <programme start="20250504210000 +0000" stop="20250504213000 +0000" channel="CHSTV">
         <title>News at Ten</title>
     </programme>
     <programme start="20250504213000 +0000" stop="20250504223000 +0000" channel="CHSTV">
-        <title>Buddhiman Gadha</title>
+        <title>Dui Diner Duniya</title>
     </programme>
     <programme start="20250503213000 +0000" stop="20250503220000 +0000" channel="IQRA Bangla">
         <title>Weekly Insider</title>
