@@ -114,10 +114,10 @@
     <programme start="20250503120000 +0000" stop="20250503200021 +0000" channel="Channel 8.mewatch">
         <title>Singapore Votes 2025: The Results</title>
     </programme>
-    <programme start="20250503200021 +0000" stop="20250503205753 +0000" channel="Channel 8.mewatch">
+    <programme start="20250503200521 +0000" stop="20250503205803 +0000" channel="Channel 8.mewatch">
         <title>Table Of Glory - EP 11</title>
     </programme>
-    <programme start="20250503205753 +0000" stop="20250503220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250503205803 +0000" stop="20250503220000 +0000" channel="Channel 8.mewatch">
         <title>Table Of Glory - EP 12</title>
     </programme>
     <programme start="20250503220000 +0000" stop="20250503225017 +0000" channel="Channel 8.mewatch">
@@ -342,10 +342,10 @@
     <programme start="20250503211629 +0000" stop="20250503214508 +0000" channel="Suria.mewatch">
         <title>Siapa Master? 2 - EP 5</title>
     </programme>
-    <programme start="20250503214508 +0000" stop="20250503220029 +0000" channel="Suria.mewatch">
+    <programme start="20250503214508 +0000" stop="20250503215954 +0000" channel="Suria.mewatch">
         <title>Janji Sedap - EP 26</title>
     </programme>
-    <programme start="20250503220029 +0000" stop="20250504010000 +0000" channel="Suria.mewatch">
+    <programme start="20250503215954 +0000" stop="20250504010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250504010000 +0000" stop="20250504013025 +0000" channel="Suria.mewatch">
