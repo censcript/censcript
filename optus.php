@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250505000000 +0000" stop="20250505023000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - San Diego Wave FC v Bay FC</title>
-    </programme>
     <programme start="20250505072000 +0000" stop="20250505094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Ulsan v Pohang</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Gimcheon</title>
+    </programme>
+    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Stuttgart</title>
     </programme>
 </tv>
