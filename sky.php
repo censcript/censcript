@@ -11079,42 +11079,7 @@
     <programme start="20250505221500 +0000" stop="20250505231500 +0000" channel="Film4 HD">
         <title>Angel Has Fallen</title>
     </programme>
-    <programme start="20250504210000 +0000" stop="20250504225000 +0000" channel="Film4+1">
-        <title>Commando</title>
-    </programme>
-    <programme start="20250504225000 +0000" stop="20250505013500 +0000" channel="Film4+1">
-        <title>Bad Times at the El Royale</title>
-    </programme>
-    <programme start="20250505013500 +0000" stop="20250505032500 +0000" channel="Film4+1">
-        <title>Bad Teacher</title>
-    </programme>
-    <programme start="20250505032500 +0000" stop="20250505060000 +0000" channel="Film4+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250505060000 +0000" stop="20250505080000 +0000" channel="Film4+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250505080000 +0000" stop="20250505083000 +0000" channel="Film4+1">
-        <title>LumoTV: Punk Chef Kids Challenge</title>
-    </programme>
-    <programme start="20250505083000 +0000" stop="20250505110000 +0000" channel="Film4+1">
-        <title>Teleshopping</title>
-    </programme>
-    <programme start="20250505110000 +0000" stop="20250505134500 +0000" channel="Film4+1">
-        <title>Reach for the Sky</title>
-    </programme>
-    <programme start="20250505134500 +0000" stop="20250505160500 +0000" channel="Film4+1">
-        <title>Anzio</title>
-    </programme>
-    <programme start="20250505160500 +0000" stop="20250505185500 +0000" channel="Film4+1">
-        <title>Independence Day</title>
-    </programme>
-    <programme start="20250505185500 +0000" stop="20250505210000 +0000" channel="Film4+1">
-        <title>Central Intelligence</title>
-    </programme>
-    <programme start="20250505210000 +0000" stop="20250505220000 +0000" channel="Film4+1">
-        <title>Uncharted</title>
-    </programme>
+    <!-- Error: Data tidak ditemukan untuk channel ID 1629 -->
     <programme start="20250504210000 +0000" stop="20250504230000 +0000" channel="Movies24+">
         <title>An Easter Bloom</title>
     </programme>
@@ -11307,40 +11272,98 @@
     <programme start="20250504235200 +0000" stop="20250505005000 +0000" channel="GREAT! romance">
         <title>Recipe For Love</title>
     </programme>
-    <programme start="202505020250505005000 +0000" channel="GREAT! romance">
-        <title>oBcipeul504210000 +0000" stop="20250504225000 +0000" channel="LEGEND XTRA+1">
-        <title>Dracula:20250505063000 +0000" channel="Movies24+">
+    <programme start="20250505005000 +0000" stop="20250505010000 +0000" channel="GREAT! romance">
+        <title>Great! Movie News Extra 2025</title>
+    </programme>
+    <programme start="20250505010000 +0000" stop="20250505020000 +0000" channel="GREAT! romance">
+        <title>Highway To Heaven</title>
+    </programme>
+    <programme start="20250505020000 +0000" stop="20250505035000 +0000" channel="GREAT! romance">
+        <title>My One and Only</title>
+    </programme>
+    <programme start="20250505035000 +0000" stop="20250505040000 +0000" channel="GREAT! romance">
+        <title>Great! Movie News Extra 2025</title>
+    </programme>
+    <programme start="20250505040000 +0000" stop="20250505043000 +0000" channel="GREAT! romance">
         <title>Teleshopping</title>
-    </5000 +0000" channel="LEGEND XTRA+1">
-        <title>Dracula:20250505063000 +0000" channel="Movies24+">
-     000" stop="20250505223000 +00me start="202505020250505005000 +0000" channel="GRE0505210000 +0000" stop="2025050atII u topiso63000 +0000" channel="Movies24+">
-     000" stop="20250505223000 +00me start="202505020250505005000 +0000" ch000" channel="Film4+1">
-      50atII u topiso63000 +0000" channel="Movies24+">
-     000" stop="20250505223000 +00me sioD XTRA">
-        <title>The Gambler Returns: Luck Ofsn rt="20250505135000 +0000" stop="20250505140000 +0000" channel="LEGEND XTRA">
-        <title>This is Legend W2025el="WWnd XS0 +0000" stop="2025050    <title>Apocalypse Of Ice</title>
     </programme>
-    <05010000 +0000" channel="Movies24+">
-        <title>Sweetnm  <title>This is Leetral Intelligence</title>
- hFI5050    <title>Apocalypseprogramme>
-    <05010000 +000nprogramme>
-    <0501000itle>Sweetnm  <title>This is Leetral Intelli23500 +0000" channel="Sky Comedy title>The Prince Of Ews0505e start="20250505113500 +0000" stop="20250505131000 +000a0250505175000 +0000" channeend Sannel="LEGEND XTRA+1">5020250505005000 +0000" channel="GRE0505210000 +0000" stop="2025050atII u topiso63000 +0000" channel="Movies24+"rGSThis is Leetral Intelli23500 +0000" channel="Sky Comedy title>The Prince Of Ews0505e start="202s24+"rGSThis is Leetral Intelli23500 +0000" channel="Sky Comedy title>The Prince Of Ews0505e start="ulrpI +0000" channel="Sky Come Ews0505e start="202s24+"rGSTn Ews0505e start="202s24 channel="Sky Comedy title>The Prince Of Ews50505064500 +0000" channel="Sky CFamily HD">
-        <wsasg7nce Of Ews0505e start="202s24+"rGSThis is Leetral Intelli23500 +0000" channel="Sky Comedy title064500 +0000" channel="Sky CFamily HD">
-        <wsasg7nce OLEGEND XTRA+1">
-        <title>This is Legend Xtra</titlel000" channel="Sky Comedy title064500 +0000" chanis Legend Xtra</title>
+    <programme start="20250505043000 +0000" stop="20250505050000 +0000" channel="GREAT! romance">
+        <title>Teleshopping</title>
     </programme>
-    <progn="20250505073000 +0000" stoDoHD">0" stop="20250505131000 +000aio0000" channel="LEGENrogramme start="2025050500" scamme>
-    <programme omme 1000 +0000" stop="2025eI  <progn="20250505073000e0250505073000 +0000" stoDoHD"Bgence</o Logramme start="20250505r000" stop="20250505190000 +0000" cce">
-        <title>oBcipeullomme 1000 +0000" stop="2025eIBDrnnel="LEGEND XTRA">
-    oHD"Bgence</o Logramme start="20250505r000" sttnrt="20250505r000" stop=130000 +0000" stop="20250505145000 +0000" channel="LEGEND        <title>Boonie Bears: Guardian Code</title>
-    iop="20250505200000 +0title>
+    <programme start="20250505050000 +0000" stop="20250505053000 +0000" channel="" channel="GREAT! romance">
+        <title>Teleshopping</title>
     </programme>
-Pnogramme>
-    <programme staDH="LEGEND        <title>Bme start="20250504225500 +0000" ssDoHD"Bgence</o Logramme startP00 +0000" channel="Sky Comedy title064500 +0000" channel="Sky CFamily HD">
-        <wsasg7nce OLEGEN0 +0yme start="20250504225500 +00t="20250505053500 +0000" stop="20250505071000 +0000" chanse And Sensibility (20" channel="Film4 HD">
-        <title>Teleshopping</titletart="20250505170000 +0000" stop="20250505185000 +0000" channel="LEGEND XTRA+1">
-      y0250505065000 +0000" sto50505020000 +0000" stop=tcGo05175000 +0000" channeend Sannel="LEGEND XTRA+1">50202505050050iSmily HD">
-        <wsasg7nce OLEGEN0 +0yme start="20250504225500 +00t="20250505053500 +0000" sto0 +0000" channeend Sannel="LEGEND XTRA+1">50202505050050iSmily HD">
-        <wsasg7nce OLEGEN0 +0yme start="2025050422550nnMGsae Of Ice</title>
+    <programme stprogramme>
+    <programme sta>
+    <programme start="20250505064500 +0000" stop="20250505085000 +0000" channel="S" c  channel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
     </programme>
-    <programme start="20250505185000 +0000" stop="20250505190000 +0000" channelwS
+    <programme start="2o50505064500 +0000" stop="20250505085000 +0000" chanp</taannel="LEGEND XTRA+1">
+        <title>This is Legend Xtra</title>
+    </programme>
+ >
+    <programme start="20250505200000 +0000" stop="202"20250505080000 +0000" channel="LEGEND XTRA+1">
+        <titloup="20250505145000 +00TRA">
+        <title>This is Legend Xtra</title>
+    </programme>
+    <programme sta250505080000 +0000" channel="LEGEND XTRA+1">
+        <titloup="20250505145000 +00TRA">
+el="Sky Thriller HD">
+        <title>Inferno (2016)</ramme start="20250505130000ramme sta250505080000 +0000" channel="LEGEND XTRA+1">
+        <titloup="20250505145000 +00TRA">iton ramme start="20250505223000 +0000" stop="20250505233000 +0000" channel="LEGEND XTRA">
+        <title>Death W +002505WW0000STeleshopping</title>
+ 05005000 +0000" channel="LEGEND XTRA+1">
+        <title>Thi00 +0000" channel="Movies24+">
+        <title>Paging Mr. nm">
+        <title>De0 +0000" stop="202505051245hFIe>
+ 05005000 +0000" chane      <title>Thi00 +0000" chan      <title>Thi00 +000aging Mr. nm">
+        <title>De0 +0000" sto0505190000 +0000" stop="202505052="SkyAnimationHD">
+  wsogra/title>
+    </programme>
+    <programme start="202505050agramme start="20250505004006000Srogramme>
+ >
+    <prog05145000 +00TRA">
+        <title>This is Legend Xtra</title>
+    </programme>
+    <programme sta250505080000 +00rGS  <title>De0 +0000" sto0505190000 +0000" stop="202505052="SkyAnimationHD">
+  wsogra/title>
+    0 +00rGS  <title>De0 +0000" sto0505190000 +0000" stop="202505052="SkyAnimationHD">
+  wsogra/title>
+ ulrpI90000 +0000" stop="20250e  wsogra/title>
+    0 +00rGS n  wsogra/title>
+    0 +0000" stop="202505052="SkyAnimationHD">
+  ws    <programme start="20250504223top="20250505215500 +wsasg7nHD">
+  wsogra/title>
+    0 +00rGS  <title>De0 +0000" sto0505190000 +0000" stop="202505052="Skyprogramme start="20250504223top="20250505215500 +wsasg7nHD">20250505210000 +0000" channel="LEGEND XTRA+1">
+        <tl00 +0000" stop="202505052="Skyprogramme start="2 channel="GREAT! romance">
+        <title>Great! nBad Teacher</title>
+    </pDo0 +0 <programme start="202505050aioamme start="202505050250505030000 +0000" stoids Cc     <title>Dumb And oaner</title>
+    </programeIGreat! nBad Teacher</tite Teacher</title>
+    </pDo0 +Bp="2025o Lat! Movie News</title>
+r<programme start="20250505050000 +RA+1">
+        <title>This iloaner</title>
+    </programeIBDr00 +0000" stop="20250505o0 +Bp="2025o Lat! Movie News</title>
+r<progratnews</title>
+r<programme1ramme start="20250505210000 +0000" stop="20250505220000 0" channel="SkyAnimationHD">
+        <title>The Boss Bairogramme>
+    <progranel="Sky Drama HD">
+    Pne>
+    <programme start="20DH5220000 0" channel="SkyAce">
+        <title>Teleshopping<sDo0 +Bp="2025o Lat! Movie NewP5190000 +0000" stop="202505052="Skyprogramme start="20250504223top="20250505215500 +wsasg7nHD">20250op="yce">
+        <title>Teleshopy Of A Murder</title>
+    </programme>
+    <programme st00" stop="202505042200programme start="20250504215000 +0000" stop="202505050035 News</title>
+    </programme>
+    <programme start="20250504235200 +0000" stop="202505yht</title>
+    </prograo    </programme>
+    <prtcGoe start="20250505004006000Srogramme>
+ >
+    <prog05145000 +00TRiSp="20250505215500 +wsasg7nHD">20250op="yce">
+        <title>Teleshopy Of A Murder</title>
+    <o="20250505004006000Srogramme>
+ >
+    <prog05145000 +00TRiSp="20250505215500 +wsasg7nHD">20250op="yce">
+        <title>TelnnMGsaannel="GREAT! romance">
+        <title>Recipe For Love</title>
+    </programme>
+    <programme start="20250505005wS
