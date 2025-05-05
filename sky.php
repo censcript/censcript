@@ -35587,7 +35587,7 @@
         <title>The Classic FM Hall of Fame Hour</title>
     </programme>
     <programme start="20250505090000 +0000" stop="20250505120000 +0000" channel="Classic FM">
-        <title>Alexander Armstrong</title>
+        <title>Aled Jones</title>
     </programme>
     <programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="Classic FM">
         <title>Classic FM Requests</title>
