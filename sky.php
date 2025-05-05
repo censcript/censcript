@@ -28048,7 +28048,7 @@
         <title>Shudh Paath Bodh Gurbani Santhiya</title>
     </programme>
     <programme start="20250505083000 +0000" stop="20250505090000 +0000" channel="Sangat">
-        <title>Guru Teg Bahadur Boliya</title>
+        <title>Kirtan ras</title>
     </programme>
     <programme start="20250505090000 +0000" stop="20250505093000 +0000" channel="Sangat">
         <title>Sehaj Paath</title>
