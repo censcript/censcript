@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250505072000 +0000" stop="20250505094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Ulsan v Pohang</title>
-    </programme>
-    <programme start="20250505072000 +0000" stop="20250505094000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gwangju v Gimcheon</title>
-    </programme>
     <programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shimizu v Vissel Kobe</title>
+    </programme>
+    <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kawasaki v Gamba</title>
     </programme>
 </tv>
