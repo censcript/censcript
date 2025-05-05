@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kawasaki v Gamba</title>
+    </programme>
+    <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Gwangju v Gangwon</title>
     </programme>
 </tv>
