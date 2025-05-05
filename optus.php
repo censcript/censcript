@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250505145000 +0000" stop="20250505171000 +0000" channel="Optus Sport 7.optus">
-        <title>Women&#039;s Super League - Brighton and Hove Albion v Arsenal</title>
-    </programme>
-    <programme start="20250505160000 +0000" stop="20250505170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250505183000 +0000" stop="20250505213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Crystal Palace v Nottingham Forest</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gwangju v Gangwon</title>
+    </programme>
+    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Yokohama FM</title>
+    </programme>
+    <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Sanfrecce v Kawasaki</title>
     </programme>
 </tv>
