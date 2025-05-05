@@ -28333,7 +28333,7 @@
         <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250505080000 +0000" stop="20250505090000 +0000" channel="PoliticsPunjab">
-        <title>Special Show</title>
+        <title>Live: Politics Punjab Special</title>
     </programme>
     <programme start="20250505090000 +0000" stop="20250505093000 +0000" channel="PoliticsPunjab">
         <title>News</title>
@@ -28393,7 +28393,7 @@
         <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250505223000 +0000" stop="20250505233000 +0000" channel="PoliticsPunjab">
-        <title>Special Show</title>
+        <title>Repeat: Politics Punjab Special</title>
     </programme>
     <programme start="20250504210000 +0000" stop="20250504230000 +0000" channel="PBC">
         <title>Guru Granth Sahib Academy</title>
