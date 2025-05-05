@@ -498,9 +498,6 @@
     <programme start="20250506153000 +0000" stop="20250506160005 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250506160000 +0000" stop="20250507010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250505160000 +0000" stop="20250505160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
