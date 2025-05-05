@@ -35577,8 +35577,11 @@
     <programme start="20250505030000 +0000" stop="20250505053000 +0000" channel="Classic FM">
         <title>Early Breakfast with Lucy Coward</title>
     </programme>
-    <programme start="20250505053000 +0000" stop="20250505080000 +0000" channel="Classic FM">
-        <title>Dan Walker</title>
+    <programme start="20250505053000 +0000" stop="20250505060000 +0000" channel="Classic FM">
+        <title>This is Classic FM</title>
+    </programme>
+    <programme start="20250505060000 +0000" stop="20250505080000 +0000" channel="Classic FM">
+        <title>Tim Lihoreau</title>
     </programme>
     <programme start="20250505080000 +0000" stop="20250505090000 +0000" channel="Classic FM">
         <title>The Classic FM Hall of Fame Hour</title>
