@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250506065500 +0000" stop="20250506091000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kashiwa v Shimizu</title>
-    </programme>
-    <programme start="20250506080000 +0000" stop="20250506090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Alan Shearer</title>
-    </programme>
     <programme start="20250506095000 +0000" stop="20250506121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Anyang v Seoul</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Sanfrecce v Kawasaki</title>
+    </programme>
+    <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kyoto v FC Tokyo</title>
+    </programme>
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Shimizu</title>
     </programme>
 </tv>
