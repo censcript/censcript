@@ -23212,7 +23212,7 @@
         <title>Blowfish Malibu Footwear</title>
     </programme>
     <programme start="20250506140000 +0000" stop="20250506150000 +0000" channel="QVC HD">
-        <title>Nina Leonard</title>
+        <title>Nina Leonard Spring Fashion</title>
     </programme>
     <programme start="20250506150000 +0000" stop="20250506160000 +0000" channel="QVC HD">
         <title>Beauty Offers with Perricone</title>
@@ -23446,10 +23446,10 @@
         <title>Feel Good &amp; Glow Beauty</title>
     </programme>
     <programme start="20250506150000 +0000" stop="20250506160000 +0000" channel="QVC Beauty">
-        <title>SachaJuan</title>
+        <title>Nassif MD Skincare</title>
     </programme>
     <programme start="20250506160000 +0000" stop="20250506170000 +0000" channel="QVC Beauty">
-        <title>Ultrasun Professional Suncare</title>
+        <title>Alison Young on Beauty Trends</title>
     </programme>
     <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="QVC Beauty">
         <title>Beauty Steals and Deals</title>
@@ -23467,7 +23467,7 @@
         <title>Liz Earle Naturally Active</title>
     </programme>
     <programme start="20250506220000 +0000" stop="20250506230000 +0000" channel="QVC Beauty">
-        <title>Tarte Cosmetics</title>
+        <title>Feel Good &amp; Glow Beauty</title>
     </programme>
     <programme start="20250505210000 +0000" stop="20250505220000 +0000" channel="QVC Style HD">
         <title>Accessories by Kipling</title>
@@ -24160,7 +24160,7 @@
         <title>Get it or Regret it</title>
     </programme>
     <programme start="20250506100000 +0000" stop="20250506110000 +0000" channel="QVC Extra">
-        <title>Refresh Your Bedroom</title>
+        <title>Ninja Cooking Appliances</title>
     </programme>
     <programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="QVC Extra">
         <title>Must-Have Tech Deals</title>
@@ -24181,16 +24181,16 @@
         <title>Andi Peters' Food Fest</title>
     </programme>
     <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="QVC Extra">
-        <title>Most Wanted Spring Fashion</title>
+        <title>White Stuff on 4 Easy Pay</title>
     </programme>
     <programme start="20250506180000 +0000" stop="20250506190000 +0000" channel="QVC Extra">
-        <title>Michael Perry Live in Holland</title>
+        <title>Luxury Jewellery</title>
     </programme>
     <programme start="20250506190000 +0000" stop="20250506200000 +0000" channel="QVC Extra">
-        <title>Michael Perry Live in Holland</title>
+        <title>Dannii Minogue Fashion</title>
     </programme>
     <programme start="20250506200000 +0000" stop="20250506210000 +0000" channel="QVC Extra">
-        <title>Don't Lose Your Cool</title>
+        <title>Get it or Regret it</title>
     </programme>
     <programme start="20250506210000 +0000" stop="20250506220000 +0000" channel="QVC Extra">
         <title>Must-Have Tech Deals</title>
@@ -36625,7 +36625,7 @@
         <title>Aimee Vivian</title>
     </programme>
     <programme start="20250506150000 +0000" stop="20250506180000 +0000" channel="Capital">
-        <title>Will Manning</title>
+        <title>Tom Watts</title>
     </programme>
     <programme start="20250506180000 +0000" stop="20250506210000 +0000" channel="Capital">
         <title>Jimmy Hill</title>
