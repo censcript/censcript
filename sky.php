@@ -15079,7 +15079,7 @@
         <title>House of Lords - Genetic Technology Motion</title>
     </programme>
     <programme start="20250507054000 +0000" stop="20250507060000 +0000" channel="BBC Parl HD">
-        <title>This is BBC Parliament HD</title>
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250507060000 +0000" stop="20250507071000 +0000" channel="BBC Parl HD">
         <title>Health and Social Care Questions</title>
