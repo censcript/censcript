@@ -28485,11 +28485,14 @@
     <programme start="20250506090000 +0000" stop="20250506093000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
     </programme>
-    <programme start="20250506093000 +0000" stop="20250506103000 +0000" channel="Sikh Channel">
+    <programme start="20250506093000 +0000" stop="20250506100000 +0000" channel="Sikh Channel">
+        <title>Anand Karaj Appeal Seva</title>
+    </programme>
+    <programme start="20250506100000 +0000" stop="20250506103000 +0000" channel="Sikh Channel">
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250506103000 +0000" stop="20250506110000 +0000" channel="Sikh Channel">
-        <title>Anand Karaj Appeal Seva</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250506110000 +0000" stop="20250506123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -28500,20 +28503,17 @@
     <programme start="20250506130000 +0000" stop="20250506140000 +0000" channel="Sikh Channel">
         <title>Anand Karaj Appeal Seva</title>
     </programme>
-    <programme start="20250506140000 +0000" stop="20250506143000 +0000" channel="Sikh Channel">
+    <programme start="20250506140000 +0000" stop="20250506150000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
-    <programme start="20250506143000 +0000" stop="20250506150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
-    </programme>
     <programme start="20250506150000 +0000" stop="20250506160000 +0000" channel="Sikh Channel">
-        <title>Gurbani Kirtan</title>
+        <title>Nagar Kirtan: Nottingham</title>
     </programme>
     <programme start="20250506160000 +0000" stop="20250506173000 +0000" channel="Sikh Channel">
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250506173000 +0000" stop="20250506180000 +0000" channel="Sikh Channel">
-        <title>LIVE : Legal Show</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250506180000 +0000" stop="20250506183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
