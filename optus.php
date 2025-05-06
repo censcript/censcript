@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250505233000 +0000" stop="20250506003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250506010000 +0000" stop="20250506013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250506045000 +0000" stop="20250506071000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Jeonbuk v Daejeon</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Shimizu</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>
