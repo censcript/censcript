@@ -45,14 +45,14 @@
     <programme start="20250510095000 +0000" stop="20250510121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Daejeon v Seoul</title>
     </programme>
-    <programme start="20250510112000 +0000" stop="20250510134000 +0000" channel="Optus Sport 6.optus">
-        <title>Women&#039;s Super League - Manchester City v Crystal Palace</title>
-    </programme>
     <programme start="20250510112000 +0000" stop="20250510141000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Chelsea v Liverpool</title>
     </programme>
     <programme start="20250510112000 +0000" stop="20250510134000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Arsenal v Manchester United</title>
+    </programme>
+    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 6.optus">
+        <title>Women&#039;s Super League - Manchester City v Crystal Palace</title>
     </programme>
     <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 12.optus">
         <title>Women&#039;s Super League - Leicester v West Ham United</title>

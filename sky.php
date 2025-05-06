@@ -340,7 +340,7 @@
         <title>New: Worst House on the Street</title>
     </programme>
     <programme start="20250507200000 +0000" stop="20250507210000 +0000" channel="Channel 4 HD">
-        <title>New: True Crime Investigation</title>
+        <title>New: Madeleine McCann: The...</title>
     </programme>
     <programme start="20250507210000 +0000" stop="20250507223500 +0000" channel="Channel 4 HD">
         <title>Gogglebox 10 Year Anniversary...</title>
@@ -7387,7 +7387,7 @@
         <title>New: Worst House on the Street</title>
     </programme>
     <programme start="20250507210000 +0000" stop="20250507220000 +0000" channel="Channel 4+1">
-        <title>New: True Crime Investigation</title>
+        <title>New: Madeleine McCann: The...</title>
     </programme>
     <programme start="20250507220000 +0000" stop="20250507230000 +0000" channel="Channel 4+1">
         <title>Gogglebox 10 Year Anniversary...</title>
