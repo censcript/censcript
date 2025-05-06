@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250506045000 +0000" stop="20250506071000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Jeonbuk v Daejeon</title>
-    </programme>
-    <programme start="20250506045500 +0000" stop="20250506071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Urawa Red Diamonds v Gamba</title>
-    </programme>
     <programme start="20250506065500 +0000" stop="20250506091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Shimizu</title>
     </programme>
@@ -299,5 +293,11 @@
     </programme>
     <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gwangju v Gangwon</title>
+    </programme>
+    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Yokohama FM</title>
+    </programme>
+    <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Sanfrecce v Kawasaki</title>
     </programme>
 </tv>
