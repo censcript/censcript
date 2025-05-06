@@ -118,12 +118,9 @@
         <title>Password US S1 - EP 8</title>
     </programme>
     <programme start="20250506103000 +0000" stop="20250506110024 +0000" channel="Channel 5.mewatch">
-        <title>Deal Or No Deal Australia S12 - EP 144</title>
-    </programme>
-    <programme start="20250506110024 +0000" stop="20250506113000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7968</title>
     </programme>
-    <programme start="20250506113000 +0000" stop="20250506123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250506110024 +0000" stop="20250506123000 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 10</title>
     </programme>
     <programme start="20250506123000 +0000" stop="20250506130000 +0000" channel="Channel 5.mewatch">
@@ -438,10 +435,7 @@
     <programme start="20250506153000 +0000" stop="20250506155434 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250506155434 +0000" stop="20250506160000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250506160000 +0000" stop="20250507010000 +0000" channel="Suria.mewatch">
+    <programme start="20250506155434 +0000" stop="20250507010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250505153001 +0000" stop="20250505160013 +0000" channel="Vasantham.mewatch">
@@ -498,11 +492,8 @@
     <programme start="20250506150000 +0000" stop="20250506153000 +0000" channel="Vasantham.mewatch">
         <title>Uncle Taxi Sr 4 - EP 6</title>
     </programme>
-    <programme start="20250506153000 +0000" stop="20250506160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250506153000 +0000" stop="20250506160005 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20250506160000 +0000" stop="20250507010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250505160000 +0000" stop="20250505160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
