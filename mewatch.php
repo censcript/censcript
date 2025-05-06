@@ -621,32 +621,74 @@
     <programme start="20250506140000 +0000" stop="20250506163000 +0000" channel="now-80s.mewatch">
         <title>Chartbusters! With Bruno Brookes</title>
     </programme>
-    <programme start="20250506160000 +0000" stop="20250506210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
-    </programme>
     <programme start="20250505100000 +0000" stop="20250505200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250505200000 +0000" stop="20250505210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250505160000 +0000" stop="20250505181500 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco!</title>
     </programme>
-    <programme start="20250505210000 +0000" stop="20250505220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250505181500 +0000" stop="20250505182500 +0000" channel="now-70s.mewatch">
+        <title>The Bank Holiday Boogie!</title>
     </programme>
-    <programme start="20250505220000 +0000" stop="20250505230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250505182500 +0000" stop="20250505205500 +0000" channel="now-70s.mewatch">
+        <title>The Complete Abba! 1973-2022</title>
     </programme>
-    <programme start="20250505230000 +0000" stop="20250506000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250505205500 +0000" stop="20250505210000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights!</title>
     </programme>
-    <programme start="20250506000000 +0000" stop="20250506090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250505210000 +0000" stop="20250506000000 +0000" channel="now-70s.mewatch">
+        <title>Essentials! 70s Rock Groups</title>
     </programme>
-    <programme start="20250506090000 +0000" stop="20250506100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250506000000 +0000" stop="20250506010000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1979</title>
     </programme>
-    <programme start="20250506100000 +0000" stop="20250506200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250506010000 +0000" stop="20250506020000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1978</title>
+    </programme>
+    <programme start="20250506020000 +0000" stop="20250506030000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1977</title>
+    </programme>
+    <programme start="20250506030000 +0000" stop="20250506040000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1976</title>
+    </programme>
+    <programme start="20250506040000 +0000" stop="20250506050000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1975</title>
+    </programme>
+    <programme start="20250506050000 +0000" stop="20250506060000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1974</title>
+    </programme>
+    <programme start="20250506060000 +0000" stop="20250506070000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1973</title>
+    </programme>
+    <programme start="20250506070000 +0000" stop="20250506080000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1972</title>
+    </programme>
+    <programme start="20250506080000 +0000" stop="20250506090000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1971</title>
+    </programme>
+    <programme start="20250506090000 +0000" stop="20250506093000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1970</title>
+    </programme>
+    <programme start="20250506093000 +0000" stop="20250506103000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco!</title>
+    </programme>
+    <programme start="20250506103000 +0000" stop="20250506110000 +0000" channel="now-70s.mewatch">
+        <title>Magic Moments! The 70s</title>
+    </programme>
+    <programme start="20250506110000 +0000" stop="20250506134500 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes-Never Even A Top 10?</title>
+    </programme>
+    <programme start="20250506134500 +0000" stop="20250506140000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly!</title>
+    </programme>
+    <programme start="20250506140000 +0000" stop="20250506152000 +0000" channel="now-70s.mewatch">
+        <title>Not A Top 10?! Punk &amp; New Wave</title>
+    </programme>
+    <programme start="20250506152000 +0000" stop="20250506160000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly!</title>
+    </programme>
+    <programme start="20250506160000 +0000" stop="20250506162500 +0000" channel="now-70s.mewatch">
+        <title>Magic Moments! The 70s</title>
     </programme>
     <programme start="20250505160000 +0000" stop="20250505220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
