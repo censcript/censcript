@@ -117,10 +117,10 @@
     <programme start="20250506093040 +0000" stop="20250506103000 +0000" channel="Channel 5.mewatch">
         <title>Password US S1 - EP 8</title>
     </programme>
-    <programme start="20250506103000 +0000" stop="20250506110024 +0000" channel="Channel 5.mewatch">
+    <programme start="20250506103000 +0000" stop="20250506111500 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7968</title>
     </programme>
-    <programme start="20250506110024 +0000" stop="20250506123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250506111500 +0000" stop="20250506123000 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Australia Dessert Masters S2 - EP 10</title>
     </programme>
     <programme start="20250506123000 +0000" stop="20250506130000 +0000" channel="Channel 5.mewatch">
@@ -420,22 +420,22 @@
     <programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 3</title>
     </programme>
-    <programme start="20250506120000 +0000" stop="20250506122744 +0000" channel="Suria.mewatch">
+    <programme start="20250506120000 +0000" stop="20250506123000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250506122744 +0000" stop="20250506131651 +0000" channel="Suria.mewatch">
+    <programme start="20250506123000 +0000" stop="20250506133000 +0000" channel="Suria.mewatch">
         <title>Tauke Pasar Malam - EP 4</title>
     </programme>
-    <programme start="20250506131651 +0000" stop="20250506140248 +0000" channel="Suria.mewatch">
+    <programme start="20250506133000 +0000" stop="20250506143000 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 6</title>
     </programme>
-    <programme start="20250506140248 +0000" stop="20250506153000 +0000" channel="Suria.mewatch">
+    <programme start="20250506143000 +0000" stop="20250506153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 20</title>
     </programme>
-    <programme start="20250506153000 +0000" stop="20250506155434 +0000" channel="Suria.mewatch">
+    <programme start="20250506153000 +0000" stop="20250506155944 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250506155434 +0000" stop="20250507010000 +0000" channel="Suria.mewatch">
+    <programme start="20250506155944 +0000" stop="20250507010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250505153001 +0000" stop="20250505160013 +0000" channel="Vasantham.mewatch">
