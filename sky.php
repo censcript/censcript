@@ -23494,10 +23494,10 @@
         <title>The Fashion Edit with Caroline</title>
     </programme>
     <programme start="20250507040000 +0000" stop="20250507050000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>MarlaWynne Fashion</title>
     </programme>
     <programme start="20250507050000 +0000" stop="20250507060000 +0000" channel="QVC Style HD">
-        <title>Marla Wynne Fashion Collection</title>
+        <title>MarlaWynne Fashion</title>
     </programme>
     <programme start="20250507060000 +0000" stop="20250507070000 +0000" channel="QVC Style HD">
         <title>Kim &amp; Co</title>
@@ -24178,7 +24178,7 @@
         <title>Picnic Ready Must Haves</title>
     </programme>
     <programme start="20250507150000 +0000" stop="20250507160000 +0000" channel="QVC Extra">
-        <title>Refresh Your Bedroom</title>
+        <title>Refresh Your Bedding</title>
     </programme>
     <programme start="20250507160000 +0000" stop="20250507170000 +0000" channel="QVC Extra">
         <title>Summer Travel Essentials</title>
@@ -28482,11 +28482,8 @@
     <programme start="20250506230000 +0000" stop="20250507000000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
     </programme>
-    <programme start="20250507000000 +0000" stop="20250507003000 +0000" channel="Sikh Channel">
-        <title>Bhai Anantvir Singh Kirtan</title>
-    </programme>
-    <programme start="20250507003000 +0000" stop="20250507010000 +0000" channel="Sikh Channel">
-        <title>Special Report</title>
+    <programme start="20250507000000 +0000" stop="20250507010000 +0000" channel="Sikh Channel">
+        <title>Gurbani Kirtan</title>
     </programme>
     <programme start="20250507010000 +0000" stop="20250507020000 +0000" channel="Sikh Channel">
         <title>Gurbani Kirtan</title>
@@ -28519,7 +28516,7 @@
         <title>Sab Te Utam Har Ki Katha</title>
     </programme>
     <programme start="20250507103000 +0000" stop="20250507110000 +0000" channel="Sikh Channel">
-        <title>Khas-GalBaat</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250507110000 +0000" stop="20250507123000 +0000" channel="Sikh Channel">
         <title>Sukhmani Sahib</title>
@@ -28534,7 +28531,7 @@
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
     </programme>
     <programme start="20250507143000 +0000" stop="20250507150000 +0000" channel="Sikh Channel">
-        <title>Lariwar Katha: Giani Kulwant Singh</title>
+        <title>Anand Karaj Appeal Seva</title>
     </programme>
     <programme start="20250507150000 +0000" stop="20250507160000 +0000" channel="Sikh Channel">
         <title>Gal Punjab Di</title>
@@ -28543,7 +28540,7 @@
         <title>EXCLUSIVE: Gurdwara Bangla Sahib</title>
     </programme>
     <programme start="20250507173000 +0000" stop="20250507180000 +0000" channel="Sikh Channel">
-        <title>SC Europe</title>
+        <title>Teleshopping: Panj Takht Yatra</title>
     </programme>
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="Sikh Channel">
         <title>SC India: Punjab News</title>
@@ -28552,7 +28549,7 @@
         <title>Sri Sehaj Path - 350 Sala</title>
     </programme>
     <programme start="20250507190000 +0000" stop="20250507200000 +0000" channel="Sikh Channel">
-        <title>Sikh Virsa</title>
+        <title>Leicester Nagar Kirtan</title>
     </programme>
     <programme start="20250507200000 +0000" stop="20250507203000 +0000" channel="Sikh Channel">
         <title>Khas Galbat: Jasvir Singh Mukatsar</title>
@@ -29265,14 +29262,14 @@
     <programme start="20250507030400 +0000" stop="20250507060000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250507060000 +0000" stop="20250507072000 +0000" channel="IQRA Bangla">
+    <programme start="20250507060000 +0000" stop="20250507065000 +0000" channel="IQRA Bangla">
         <title>Live Transmission from Madina</title>
     </programme>
-    <programme start="20250507072000 +0000" stop="20250507073000 +0000" channel="IQRA Bangla">
+    <programme start="20250507065000 +0000" stop="20250507070000 +0000" channel="IQRA Bangla">
         <title>Dua Time</title>
     </programme>
-    <programme start="20250507073000 +0000" stop="20250507083000 +0000" channel="IQRA Bangla">
-        <title>Islamic Life</title>
+    <programme start="20250507070000 +0000" stop="20250507083000 +0000" channel="IQRA Bangla">
+        <title>Hajj &amp; Qurbani Discussion</title>
     </programme>
     <programme start="20250507083000 +0000" stop="20250507093000 +0000" channel="IQRA Bangla">
         <title>Khatmul Quran</title>
@@ -29283,59 +29280,53 @@
     <programme start="20250507100000 +0000" stop="20250507113000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250507113000 +0000" stop="20250507120500 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+    <programme start="20250507113000 +0000" stop="20250507120200 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250507120500 +0000" stop="20250507121000 +0000" channel="IQRA Bangla">
+    <programme start="20250507120200 +0000" stop="20250507120700 +0000" channel="IQRA Bangla">
         <title>Azan-E-Zuhr</title>
     </programme>
-    <programme start="20250507121000 +0000" stop="20250507130000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+    <programme start="20250507120700 +0000" stop="20250507130000 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507140000 +0000" channel="IQRA Bangla">
-        <title>Jannater pothey</title>
-    </programme>
-    <programme start="20250507140000 +0000" stop="20250507143000 +0000" channel="IQRA Bangla">
-        <title>Banglar Bazaar</title>
+    <programme start="20250507130000 +0000" stop="20250507143000 +0000" channel="IQRA Bangla">
+        <title>Hajj &amp; Qurbani Discussion</title>
     </programme>
     <programme start="20250507143000 +0000" stop="20250507153000 +0000" channel="IQRA Bangla">
         <title>Maa Amar Maa</title>
     </programme>
-    <programme start="20250507153000 +0000" stop="20250507164900 +0000" channel="IQRA Bangla">
+    <programme start="20250507153000 +0000" stop="20250507170000 +0000" channel="IQRA Bangla">
         <title>Iqra-Ul-Quran</title>
     </programme>
-    <programme start="20250507164900 +0000" stop="20250507170000 +0000" channel="IQRA Bangla">
+    <programme start="20250507170000 +0000" stop="20250507171100 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
+    </programme>
+    <programme start="20250507171100 +0000" stop="20250507171600 +0000" channel="IQRA Bangla">
         <title>Azan-E-Asr</title>
     </programme>
-    <programme start="20250507170000 +0000" stop="20250507180000 +0000" channel="IQRA Bangla">
-        <title>Masnoon Dua</title>
+    <programme start="20250507171600 +0000" stop="20250507173000 +0000" channel="IQRA Bangla">
+        <title>Banglar Bazaar</title>
     </programme>
-    <programme start="20250507180000 +0000" stop="20250507190200 +0000" channel="IQRA Bangla">
-        <title>Dosh Diganta</title>
+    <programme start="20250507173000 +0000" stop="20250507193700 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250507190200 +0000" stop="20250507190600 +0000" channel="IQRA Bangla">
+    <programme start="20250507193700 +0000" stop="20250507194200 +0000" channel="IQRA Bangla">
         <title>Azan-E-Magrib</title>
     </programme>
-    <programme start="20250507190600 +0000" stop="20250507193000 +0000" channel="IQRA Bangla">
+    <programme start="20250507194200 +0000" stop="20250507195700 +0000" channel="IQRA Bangla">
         <title>Iqra Bangla News</title>
     </programme>
-    <programme start="20250507193000 +0000" stop="20250507200000 +0000" channel="IQRA Bangla">
-        <title>Mon</title>
+    <programme start="20250507195700 +0000" stop="20250507204800 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250507200000 +0000" stop="20250507201700 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
-    </programme>
-    <programme start="20250507201700 +0000" stop="20250507202200 +0000" channel="IQRA Bangla">
+    <programme start="20250507204800 +0000" stop="20250507205300 +0000" channel="IQRA Bangla">
         <title>Azan-E-Isha</title>
     </programme>
-    <programme start="20250507202200 +0000" stop="20250507213000 +0000" channel="IQRA Bangla">
-        <title>Islamic Q&amp;A With IQRA</title>
+    <programme start="20250507205300 +0000" stop="20250507220000 +0000" channel="IQRA Bangla">
+        <title>Qurbani Appeal</title>
     </programme>
-    <programme start="20250507213000 +0000" stop="20250507223000 +0000" channel="IQRA Bangla">
+    <programme start="20250507220000 +0000" stop="20250507230000 +0000" channel="IQRA Bangla">
         <title>Tafseer-Ul-Qur'an</title>
-    </programme>
-    <programme start="20250507223000 +0000" stop="20250507233000 +0000" channel="IQRA Bangla">
-        <title>Iqra-Ul-Quran</title>
     </programme>
     <programme start="20250506213000 +0000" stop="20250506220000 +0000" channel="ATN">
         <title>Rehana</title>
