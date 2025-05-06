@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250506095000 +0000" stop="20250506121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Anyang v Seoul</title>
-    </programme>
     <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Shonan v Sanfrecce</title>
     </programme>
@@ -299,5 +296,8 @@
     </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Shimizu</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
 </tv>

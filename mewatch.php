@@ -582,29 +582,44 @@
     <programme start="20250505120000 +0000" stop="20250505210000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies!</title>
     </programme>
+    <programme start="20250505164500 +0000" stop="20250505170000 +0000" channel="now-80s.mewatch">
+        <title>Monday Night At The Movies!</title>
+    </programme>
+    <programme start="20250505170000 +0000" stop="20250505190000 +0000" channel="now-80s.mewatch">
+        <title>101 Power Ballads: 1980-1989</title>
+    </programme>
+    <programme start="20250505190000 +0000" stop="20250505204500 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates: Our Tune Top 20</title>
+    </programme>
+    <programme start="20250505204500 +0000" stop="20250505210000 +0000" channel="now-80s.mewatch">
+        <title>Bank Holiday Power Ballads Day!</title>
+    </programme>
     <programme start="20250505210000 +0000" stop="20250505220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+        <title>Big Tunes - Bad Hair! Top 20</title>
     </programme>
-    <programme start="20250505220000 +0000" stop="20250505230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250505220000 +0000" stop="20250505234500 +0000" channel="now-80s.mewatch">
+        <title>The UK Top 20 Of The 80s</title>
     </programme>
-    <programme start="20250505230000 +0000" stop="20250506000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250505234500 +0000" stop="20250506000000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
     </programme>
-    <programme start="20250506000000 +0000" stop="20250506040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250506000000 +0000" stop="20250506010000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1980</title>
     </programme>
-    <programme start="20250506040000 +0000" stop="20250506050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250506010000 +0000" stop="20250506093000 +0000" channel="now-80s.mewatch">
+        <title>Every Number 2 Of The 80s!</title>
     </programme>
-    <programme start="20250506050000 +0000" stop="20250506100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250506093000 +0000" stop="20250506103000 +0000" channel="now-80s.mewatch">
+        <title>101 Power Ballads: 1980-1989</title>
     </programme>
-    <programme start="20250506100000 +0000" stop="20250506110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250506103000 +0000" stop="20250506130500 +0000" channel="now-80s.mewatch">
+        <title>Every Number 2 Of The 80s!</title>
     </programme>
-    <programme start="20250506110000 +0000" stop="20250506160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250506130500 +0000" stop="20250506140000 +0000" channel="now-80s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250506140000 +0000" stop="20250506163000 +0000" channel="now-80s.mewatch">
+        <title>Chartbusters! With Bruno Brookes</title>
     </programme>
     <programme start="20250506160000 +0000" stop="20250506210000 +0000" channel="now-80s.mewatch">
         <title>Every Song A Number 1!</title>
