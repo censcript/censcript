@@ -39,28 +39,28 @@
     <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Fagiano Okayama</title>
     </programme>
-    <programme start="20250510072000 +0000" stop="20250510094000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250510072000 +0000" stop="20250510094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Pohang v Suwon FC</title>
     </programme>
-    <programme start="20250510095000 +0000" stop="20250510121000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250510095000 +0000" stop="20250510121000 +0000" channel="Optus Sport 12.optus">
         <title>N/A - Daejeon v Seoul</title>
     </programme>
-    <programme start="20250510112000 +0000" stop="20250510141000 +0000" channel="Optus Sport 9.optus">
+    <programme start="20250510112000 +0000" stop="20250510141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Liverpool</title>
     </programme>
-    <programme start="20250510112000 +0000" stop="20250510134000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250510112000 +0000" stop="20250510134000 +0000" channel="Optus Sport 8.optus">
         <title>Women&#039;s Super League - Arsenal v Manchester United</title>
     </programme>
-    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 9.optus">
         <title>Women&#039;s Super League - Manchester City v Crystal Palace</title>
     </programme>
-    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 12.optus">
+    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 205.optus">
         <title>Women&#039;s Super League - Leicester v West Ham United</title>
     </programme>
     <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 10.optus">
         <title>Women&#039;s Super League - Everton v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250510112500 +0000" stop="20250510134000 +0000" channel="Optus Sport 202.optus">
         <title>Women&#039;s Super League - Aston Villa v Brighton and Hove Albion</title>
     </programme>
     <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
