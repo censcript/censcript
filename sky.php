@@ -13266,11 +13266,11 @@
     <programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="SkySpCricket HD">
         <title>IPL'25: KKR v RR Highlights</title>
     </programme>
-    <programme start="20250506120000 +0000" stop="20250506125500 +0000" channel="SkySpCricket HD">
+    <programme start="20250506120000 +0000" stop="20250506125501 +0000" channel="SkySpCricket HD">
         <title>IPL'25: PBKS v LSG Highlights</title>
     </programme>
-    <programme start="20250506125500 +0000" stop="20250506135000 +0000" channel="SkySpCricket HD">
-        <title>IPL'25: KKR v RR Highlights</title>
+    <programme start="20250506125501 +0000" stop="20250506135000 +0000" channel="SkySpCricket HD">
+        <title>IPL'25: KKR v GT Highlights</title>
     </programme>
     <programme start="20250506135000 +0000" stop="20250506180000 +0000" channel="SkySpCricket HD">
         <title>Live IPL'25: MI v GT</title>
@@ -13287,11 +13287,11 @@
     <programme start="20250506183000 +0000" stop="20250506184500 +0000" channel="SkySpCricket HD">
         <title>ICC Men's T20 WC: ENG v NED 2009</title>
     </programme>
-    <programme start="20250506184500 +0000" stop="20250506190000 +0000" channel="SkySpCricket HD">
+    <programme start="20250506184500 +0000" stop="20250506190001 +0000" channel="SkySpCricket HD">
         <title>ICC Men's T20 WC: NZ v PAK 2010</title>
     </programme>
-    <programme start="20250506190000 +0000" stop="20250506200000 +0000" channel="SkySpCricket HD">
-        <title>IPL'25: KKR v RR Highlights</title>
+    <programme start="20250506190001 +0000" stop="20250506200000 +0000" channel="SkySpCricket HD">
+        <title>IPL'25: KKR v GT Highlights</title>
     </programme>
     <programme start="20250506200000 +0000" stop="20250506210000 +0000" channel="SkySpCricket HD">
         <title>IPL'25: MI v GT Highlights</title>
@@ -13992,8 +13992,11 @@
     <programme start="20250506160000 +0000" stop="20250506170000 +0000" channel="SkySp Mix HD">
         <title>PSL: Multan S v Peshawar Z Hlts</title>
     </programme>
-    <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="SkySp Mix HD">
-        <title>IPL'25: KKR v RR Highlights</title>
+    <programme start="20250506170000 +0000" stop="20250506170001 +0000" channel="SkySp Mix HD">
+        <title>IPL'25: SRH v DC Highlights</title>
+    </programme>
+    <programme start="20250506170001 +0000" stop="20250506180000 +0000" channel="SkySp Mix HD">
+        <title>IPL'25: KKR v GT Highlights</title>
     </programme>
     <programme start="20250506180000 +0000" stop="20250506190000 +0000" channel="SkySp Mix HD">
         <title>PGA Tour Golf Highlights</title>
@@ -24742,7 +24745,7 @@
         <title>Costar</title>
     </programme>
     <programme start="20250506103000 +0000" stop="20250506110000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>First Cut</title>
     </programme>
     <programme start="20250506110000 +0000" stop="20250506113000 +0000" channel="B4U Music">
         <title>Hitz</title>
@@ -24766,7 +24769,7 @@
         <title>Travel Time Hits</title>
     </programme>
     <programme start="20250506160000 +0000" stop="20250506163000 +0000" channel="B4U Music">
-        <title>Loop</title>
+        <title>First Cut</title>
     </programme>
     <programme start="20250506163000 +0000" stop="20250506170000 +0000" channel="B4U Music">
         <title>Bajao</title>
@@ -24933,10 +24936,10 @@
     <programme start="20250506070000 +0000" stop="20250506073000 +0000" channel="Utsav Bharat">
         <title>Mehndi Hai Rachne Waali</title>
     </programme>
-    <programme start="20250506073000 +0000" stop="20250506080000 +0000" channel="Utsav Bharat">
+    <programme start="20250506073000 +0000" stop="20250506080100 +0000" channel="Utsav Bharat">
         <title>Radhakrishn</title>
     </programme>
-    <programme start="20250506080000 +0000" stop="20250506083000 +0000" channel="Utsav Bharat">
+    <programme start="20250506080100 +0000" stop="20250506083000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
     <programme start="20250506083000 +0000" stop="20250506090000 +0000" channel="Utsav Bharat">
@@ -24993,10 +24996,10 @@
     <programme start="20250506180000 +0000" stop="20250506190000 +0000" channel="Utsav Bharat">
         <title>Savdhaan India - Apni Khaki</title>
     </programme>
-    <programme start="20250506190000 +0000" stop="20250506193000 +0000" channel="Utsav Bharat">
+    <programme start="20250506190000 +0000" stop="20250506193100 +0000" channel="Utsav Bharat">
         <title>Radhakrishn</title>
     </programme>
-    <programme start="20250506193000 +0000" stop="20250506200000 +0000" channel="Utsav Bharat">
+    <programme start="20250506193100 +0000" stop="20250506200000 +0000" channel="Utsav Bharat">
         <title>Ishqbaaaz</title>
     </programme>
     <programme start="20250506200000 +0000" stop="20250506203000 +0000" channel="Utsav Bharat">
@@ -27073,7 +27076,7 @@
         <title>Behkaway</title>
     </programme>
     <programme start="20250506060000 +0000" stop="20250506070000 +0000" channel="GEO TV">
-        <title>Kathputli</title>
+        <title>Aik Lafz Zindagi</title>
     </programme>
     <programme start="20250506070000 +0000" stop="20250506073000 +0000" channel="GEO TV">
         <title>Kathputli</title>
@@ -27090,11 +27093,8 @@
     <programme start="20250506100000 +0000" stop="20250506110000 +0000" channel="GEO TV">
         <title>Humraaz</title>
     </programme>
-    <programme start="20250506110000 +0000" stop="20250506113000 +0000" channel="GEO TV">
+    <programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="GEO TV">
         <title>Aik Lafz Zindagi</title>
-    </programme>
-    <programme start="20250506113000 +0000" stop="20250506120000 +0000" channel="GEO TV">
-        <title>Kathputli</title>
     </programme>
     <programme start="20250506120000 +0000" stop="20250506123000 +0000" channel="GEO TV">
         <title>Dayyan</title>
@@ -27102,10 +27102,7 @@
     <programme start="20250506123000 +0000" stop="20250506133000 +0000" channel="GEO TV">
         <title>Dayyan</title>
     </programme>
-    <programme start="20250506133000 +0000" stop="20250506140000 +0000" channel="GEO TV">
-        <title>Behkaway</title>
-    </programme>
-    <programme start="20250506140000 +0000" stop="20250506143000 +0000" channel="GEO TV">
+    <programme start="20250506133000 +0000" stop="20250506143000 +0000" channel="GEO TV">
         <title>Behkaway</title>
     </programme>
     <programme start="20250506143000 +0000" stop="20250506150000 +0000" channel="GEO TV">
@@ -33681,11 +33678,11 @@
     <programme start="20250506153000 +0000" stop="20250506160000 +0000" channel="SkySp Mix">
         <title>PL Legends: Shearer</title>
     </programme>
-    <programme start="20250506160000 +0000" stop="20250506170000 +0000" channel="SkySp Mix">
+    <programme start="20250506160000 +0000" stop="20250506170001 +0000" channel="SkySp Mix">
         <title>PSL: Multan S v Peshawar Z Hlts</title>
     </programme>
-    <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="SkySp Mix">
-        <title>IPL'25: KKR v RR Highlights</title>
+    <programme start="20250506170001 +0000" stop="20250506180000 +0000" channel="SkySp Mix">
+        <title>IPL'25: KKR v GT Highlights</title>
     </programme>
     <programme start="20250506180000 +0000" stop="20250506190000 +0000" channel="SkySp Mix">
         <title>PGA Tour Golf Highlights</title>
