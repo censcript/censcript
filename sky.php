@@ -27117,10 +27117,10 @@
     <programme start="20250507230000 +0000" stop="20250507230500 +0000" channel="IQRA TV">
         <title>Iqra News</title>
     </programme>
-    <programme start="20250507230500 +0000" stop="20250507235500 +0000" channel="IQRA TV">
+    <programme start="20250507230500 +0000" stop="20250508000000 +0000" channel="IQRA TV">
         <title>Qurbani Aur Esaar</title>
     </programme>
-    <programme start="20250507235500 +0000" stop="20250508002000 +0000" channel="IQRA TV">
+    <programme start="20250508000000 +0000" stop="20250508002000 +0000" channel="IQRA TV">
         <title>Surah Ya-Sin</title>
     </programme>
     <programme start="20250508002000 +0000" stop="20250508013600 +0000" channel="IQRA TV">
@@ -27138,16 +27138,16 @@
     <programme start="20250508014500 +0000" stop="20250508060000 +0000" channel="IQRA TV">
         <title>Live Transmission from Makkah</title>
     </programme>
-    <programme start="20250508060000 +0000" stop="20250508064300 +0000" channel="IQRA TV">
+    <programme start="20250508060000 +0000" stop="20250508065400 +0000" channel="IQRA TV">
         <title>Khatmul Quran</title>
     </programme>
-    <programme start="20250508064300 +0000" stop="20250508070000 +0000" channel="IQRA TV">
+    <programme start="20250508065400 +0000" stop="20250508071000 +0000" channel="IQRA TV">
         <title>Manzil</title>
     </programme>
-    <programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="IQRA TV">
+    <programme start="20250508071000 +0000" stop="20250508081000 +0000" channel="IQRA TV">
         <title>Dars-e-Quran</title>
     </programme>
-    <programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="IQRA TV">
+    <programme start="20250508081000 +0000" stop="20250508090000 +0000" channel="IQRA TV">
         <title>Ehtimam e Hajj</title>
     </programme>
     <programme start="20250508090000 +0000" stop="20250508093000 +0000" channel="IQRA TV">
@@ -28275,61 +28275,63 @@
     <programme start="20250508023000 +0000" stop="20250508070000 +0000" channel="PTC PUNJABI">
         <title>Live Gurbani Asr</title>
     </programme>
-    <programme start="20250508070000 +0000" stop="20250508073000 +0000" channel="'an</title>
+    <programme start="20250508070000 +0000" stop="20250508073000 +0000" channel="PTC PUNJABI">
+        <title>Gurmat Gyan</title>
     </programme>
-    <programme start="20250508220000 +0000" stop="202505/title>
+    <programme start="202505080nnel="Islam Ch Urdu">
+        lamormme start="20250508065700 +0000" stop="20250508071500 +0000" channel="Eman Channel">
+        le>
     </programme>
-    <programme start="20250508e    <o0508160000 +0000" stop="20250508160500 +0000" channEveniprogramme start="202505082200ouRY Digital">
-        <title>0812me>
-    <programme start="20250508070000 +0000" stop=au+0000" stop="20250508205000 +0000" channel="ARY Digit ogramme>
-    <programme start="20250508010000 +0000" stop=: Alif Laam Meem</title>
+    <premam Ch Urdu">
+        lamormm0000 oi Dig250508070000 +0000" stop="20250508073000 +0000" channau+0000" channel="ARY Digital">
+        <title>Shikwa</ t="20250508010000 +0000" stop="20250508020000 +0000" chann </programme>
+    <programme start="20250508130500 +0000" stop="20250508131500 +0000" channel="Eman Channel     <title>Makkah Live</title>
     </programme>
-    <programme start="20250508130500 +0000" stop="20250508131500  channel="Eman Channel">
-        <title>Makkah Livem1630htle>P_T_C Box Office</title>
-    </programme>ramme start="20250508120600 +0000" stop="20250508130el">
-        <title>Makkah Livem1630htle>P_T_C Box Office</title>
-    </programme>ramme start="20250508120600 +000   </programme>ramme start="20250508120600 +0000" s">
-        <title>Roshni Sab Kay Liye</title>
-  ogrammprogramme>rammeisd0250508170000 +0000" stop="20250508172600 +0000" channel="Islam Ch Urdu">
-        <title>Good EdH +0000" channel="ARY arly Echo</title>
+  m1700ht    </programme>
+    <programme start="20250+0000" stop="20250508130500 +0000" channel="Eman Chaive</title>
     </programme>
-    <programme start="2025050803roulLP50508193900 +0000" s    </programme>
-    <programme start="20250508channel="ARY Digital">
-       uramml
-   le>Mehfil e Sama</title>
+  m1700ht    </programme>
+    <programme start="20250+0000" stop="20250508130500 +000me start="20250+0000" stop="20250508130500 +0000" b Kay Liye</title>
     </programme>
-    <programme start="20250507210000 +0000" stop="20250507220000My Hosue</tit>0812t stop="20250508180000 +0000" channel="ARY Digital"0508193900 +000iscG 00" s    </programme>
-    <programme start="20250508channel="ARY Digital">
-       uramml
-   le>Mehfil e Sama</title>
+    <programmt="202art="20250+0000isd0250508172600 +0000" channel="Islam Ch Urdu">
+        <title>Good Evening London</title>
+    </dH">
+        <title>Dasramme>
+    <programme start="20250508030000 +0000" stop="2025050804roulLP50508194500 +0000" cmme start="20250508170000 +0000" stop="20250508   <title>Ae Dil</title>
+    <u+000lamme </programme>
+    <programme start="20250507210000 +0000" stop="20250507220000 +0000" channel="PTC PUNJABIamme>
+    <pri Digt channel="ARY Digital">
+        <title>Bulbulay</t0508194500 +000iscG 00" cmme start="20250508170000 +0000" stop="20250508   <title>Ae Dil</title>
+    <u+000lamme </programme>
+    <programme start="20250507e      <title>Bulbulay</t0508194500 +000iscG 00" cmehLoulLP-Isha</title>
+    </00" stop="20250508190000 +0000" channel="Madani250508140000 +0000" stop="2025u0" cl" sts</title>
     </programme>
- 7e0" channel="ARY Digital"0508193900 +000iscG 00" s ehLoulLPital">
-        <titlme start="20250508183000 +0000" stop="202505081me>
-    <programme start="2025u0" sl sta
-        <title>Non Stop Hits</title>
+    <programme start="20250508013000 +0000" stop="20250508020000 +0000" channelle>Live    <u+000lamme </programme>
+8080000 +0000" stop="20250508100000 +0000" channel="ARY Digioe>
+ ao0508ulEiitle>This is a Sunnah Too</title>
     </programme>
-    <programme start="20250508013000 +0000" stop="2Islam C     uramml
-   le>Mehfil e Sa   <programme start="20250508080000 +0000" stop="20250508100o Hitao>
-  ulEiel="Madani Chnl">
-        <title>This is a Sunnah Too<nelSg Relichannel="Islale>News of Dawat-e-Islami</title>
+    <tSgAsr i     <title>Qitle>
     </programme>
-    <programme start="20250508153000e +00os a 1Wme>rammeisd0250508170000 +00000 n</title>
+    <programme start="20250508153000 +0000" stop="20250508161500eus">o/pro1W250+0000isd0250508172600 +00gioun  <programme start="20250508073000 +0000" stop="20250508080000 +0000" chaig73000 +0000" channel=t     <title>Roshni Sab Kay Liye</title>
     </programme>
-    <programme start="20250508073000 +0000" stoig70000 +0000" stop="20tchannel="QTV Religious">
-        <title>Roshni Sab Kay Li
-        <title>s Guest House</title>
-    </programme>
-    <programme start="20250508e 000" stop="20tchannel="QTV R0000" stop="20250508210000 +0000" channel="QTV Religious">
+nnah Too</title>srogramme>
+    <programme start="20250507230000 +008065700 +0000" stop=000" channel=t     <title>Ro0000" channel="QTV Religious">
         <title>Who Is MUHAMMAD (PBUH)</title>
     </programme>
-    <prog250508213000 +0000" O Naat</title>
-    </pr +0000" channel="ARY Digital">nel="i2Bil e S   <programme start="20250507230000 +0000" stop="20250" channel="ARY Digital">
-    Si/pr +0000" channel="ARY Digital">nel="i2Bil e S   <programme start="20250507230000 +0000" stop="20250" c00 +0000" stop="20250" c n  <programme start="20250508164500 +0000" stop="20250508170000 +0000" channel="Eman Channel">
-        <title>Kidsprogramme>
-    <programme stalop="annel="Eman Channel">
-        <ti20250507220000 +0000" chann0250508150000 +0000" ao   <0siEidu">
-        <title>Good EdH +ogramme start="Islale>News of Dawat-e-Islamt=" channe08172600 +0000" channel="Islam Ch Urdu">
-        <title>Treasures of Wisdom<Cd08183000 +0000" sto    </programme>
-    <programme start="20250508e 000" stop="20tart="20250508213000 +0000" stop="20250508223000 +0000" channel="Madani Chnl">
+    <programme start="20250508210000 250508214100 +0000"mme>
+    <programme star">
+        <title>Bulbulay</tititlei2Bramme>7230000 +0000" stop="20250508000000 +0000" channel="AR     <title>Bulbulay</title>
+Sitar">
+        <title>Bulbulay</tititlei2Bramme>7230000 +0000" stop="20250508000000 +0000" channel="AR   00 +0000" channel="AR    n164500 +0000" stop="20250508170000 +0000" channel="Eman Channel">
+        <title>Kids Evening Remembrance</title>art="20250508144000 +0000" stlanne  <title>In their time S2</title>l="Eman Channel">
+        <="ARY Digital">
+     aobran0siEining London</title>
+    </dH">0 +0000" stopitle>Qitle>
+    </programme>
+ p="    <team Ch Urdu">
+        <title>Good Evening Londom</title>
+    </programme>
+   Cd08190000 +0000" chamme start="20250507230000 +008065700 +0000" stop=000" channel=ttop="20250508223000 +0000" channel="Madani Chnl">
         <title>Way Of</title>
-    <ad
+    </programme>
+    <programme sad
