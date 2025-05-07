@@ -24852,19 +24852,19 @@
     <programme start="20250507180000 +0000" stop="20250507185900 +0000" channel="SONY TV HD">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250507185900 +0000" stop="20250507193000 +0000" channel="SONY TV HD">
+    <programme start="20250507185900 +0000" stop="20250507193100 +0000" channel="SONY TV HD">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250507193000 +0000" stop="20250507200100 +0000" channel="SONY TV HD">
+    <programme start="20250507193100 +0000" stop="20250507200300 +0000" channel="SONY TV HD">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250507200100 +0000" stop="20250507212800 +0000" channel="SONY TV HD">
+    <programme start="20250507200300 +0000" stop="20250507212900 +0000" channel="SONY TV HD">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250507212800 +0000" stop="20250507222700 +0000" channel="SONY TV HD">
+    <programme start="20250507212900 +0000" stop="20250507222800 +0000" channel="SONY TV HD">
         <title>Crime Patrol - 26 Jurm, 26 Cases</title>
     </programme>
-    <programme start="20250507222700 +0000" stop="20250507232700 +0000" channel="SONY TV HD">
+    <programme start="20250507222800 +0000" stop="20250507232800 +0000" channel="SONY TV HD">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250506213000 +0000" stop="20250506223000 +0000" channel="Utsav Bharat">
@@ -25155,13 +25155,13 @@
     <programme start="20250507070000 +0000" stop="20250507073000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507073000 +0000" stop="20250507080500 +0000" channel="COLORS HD">
+    <programme start="20250507073000 +0000" stop="20250507075500 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507080500 +0000" stop="20250507083000 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+    <programme start="20250507075500 +0000" stop="20250507082500 +0000" channel="COLORS HD">
+        <title>Doree</title>
     </programme>
-    <programme start="20250507083000 +0000" stop="20250507093000 +0000" channel="COLORS HD">
+    <programme start="20250507082500 +0000" stop="20250507093000 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507093000 +0000" stop="20250507100000 +0000" channel="COLORS HD">
@@ -25188,16 +25188,16 @@
     <programme start="20250507133500 +0000" stop="20250507140500 +0000" channel="COLORS HD">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250507140500 +0000" stop="20250507145500 +0000" channel="COLORS HD">
+    <programme start="20250507140500 +0000" stop="20250507144000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250507145500 +0000" stop="20250507152500 +0000" channel="COLORS HD">
+    <programme start="20250507144000 +0000" stop="20250507151000 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507152500 +0000" stop="20250507155500 +0000" channel="COLORS HD">
+    <programme start="20250507151000 +0000" stop="20250507155000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507155500 +0000" stop="20250507170000 +0000" channel="COLORS HD">
+    <programme start="20250507155000 +0000" stop="20250507170000 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507170000 +0000" stop="20250507173000 +0000" channel="COLORS HD">
@@ -25209,25 +25209,25 @@
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="COLORS HD">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507183000 +0000" stop="20250507190500 +0000" channel="COLORS HD">
+    <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="COLORS HD">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250507190500 +0000" stop="20250507200500 +0000" channel="COLORS HD">
+    <programme start="20250507190000 +0000" stop="20250507200500 +0000" channel="COLORS HD">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507200500 +0000" stop="20250507204000 +0000" channel="COLORS HD">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250507204000 +0000" stop="20250507212500 +0000" channel="COLORS HD">
+    <programme start="20250507204000 +0000" stop="20250507212000 +0000" channel="COLORS HD">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250507212500 +0000" stop="20250507215500 +0000" channel="COLORS HD">
-        <title>Doree 2</title>
+    <programme start="20250507212000 +0000" stop="20250507215000 +0000" channel="COLORS HD">
+        <title>Doree</title>
     </programme>
-    <programme start="20250507215500 +0000" stop="20250507222500 +0000" channel="COLORS HD">
+    <programme start="20250507215000 +0000" stop="20250507222000 +0000" channel="COLORS HD">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507222500 +0000" stop="20250507225500 +0000" channel="COLORS HD">
+    <programme start="20250507222000 +0000" stop="20250507225500 +0000" channel="COLORS HD">
         <title>Parineetii</title>
     </programme>
     <programme start="20250507225500 +0000" stop="20250507235500 +0000" channel="COLORS HD">
@@ -29433,141 +29433,7 @@
     <programme start="20250507220000 +0000" stop="20250507230000 +0000" channel="ATN">
         <title>Dhakar King</title>
     </programme>
-    <programme start="20250506213000 +0000" stop="20250506220000 +0000" channel="NTV">
-        <title>Faul</title>
-    </programme>
-    <programme start="20250506220000 +0000" stop="20250506230000 +0000" channel="NTV">
-        <title>Aey Shomoy</title>
-    </programme>
-    <programme start="20250506230000 +0000" stop="20250507000000 +0000" channel="NTV">
-        <title>Dhuka</title>
-    </programme>
-    <programme start="20250507000000 +0000" stop="20250507003000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
-    </programme>
-    <programme start="20250507003000 +0000" stop="20250507020000 +0000" channel="NTV">
-        <title>Dhuka</title>
-    </programme>
-    <programme start="20250507020000 +0000" stop="20250507023000 +0000" channel="NTV">
-        <title>Glamour World</title>
-    </programme>
-    <programme start="20250507023000 +0000" stop="20250507023700 +0000" channel="NTV">
-        <title>Ganer Bazar</title>
-    </programme>
-    <programme start="20250507023700 +0000" stop="20250507024200 +0000" channel="NTV">
-        <title>Adhan-a-Fajr</title>
-    </programme>
-    <programme start="20250507024200 +0000" stop="20250507030000 +0000" channel="NTV">
-        <title>Ganer Bazar</title>
-    </programme>
-    <programme start="20250507030000 +0000" stop="20250507033000 +0000" channel="NTV">
-        <title>Kurulus Osman Gazi</title>
-    </programme>
-    <programme start="20250507033000 +0000" stop="20250507040000 +0000" channel="NTV">
-        <title>Faul</title>
-    </programme>
-    <programme start="20250507040000 +0000" stop="20250507050000 +0000" channel="NTV">
-        <title>Ekjon Durbol Manush</title>
-    </programme>
-    <programme start="20250507050000 +0000" stop="20250507053000 +0000" channel="NTV">
-        <title>Apnar Jiggasha</title>
-    </programme>
-    <programme start="20250507053000 +0000" stop="20250507060000 +0000" channel="NTV">
-        <title>Shastho Protidin</title>
-    </programme>
-    <programme start="20250507060000 +0000" stop="20250507063000 +0000" channel="NTV">
-        <title>Ek Shobdey Quran</title>
-    </programme>
-    <programme start="20250507063000 +0000" stop="20250507070000 +0000" channel="NTV">
-        <title>Siddika Kabirs Recipe</title>
-    </programme>
-    <programme start="20250507070000 +0000" stop="20250507073000 +0000" channel="NTV">
-        <title>NTV Europe News</title>
-    </programme>
-    <programme start="20250507073000 +0000" stop="20250507080000 +0000" channel="NTV">
-        <title>Family Crisis</title>
-    </programme>
-    <programme start="20250507080000 +0000" stop="20250507083000 +0000" channel="NTV">
-        <title>NTV NEWS- Sokaler Khobor</title>
-    </programme>
-    <programme start="20250507083000 +0000" stop="20250507100000 +0000" channel="NTV">
-        <title>Money for nothing</title>
-    </programme>
-    <programme start="20250507100000 +0000" stop="20250507110000 +0000" channel="NTV">
-        <title>Dui Diner Duniya</title>
-    </programme>
-    <programme start="20250507110000 +0000" stop="20250507113000 +0000" channel="NTV">
-        <title>NTV NEWS-Dupurer Khobor</title>
-    </programme>
-    <programme start="20250507113000 +0000" stop="20250507120200 +0000" channel="NTV">
-        <title>Dui Diner Duniya</title>
-    </programme>
-    <programme start="20250507120200 +0000" stop="20250507120700 +0000" channel="NTV">
-        <title>Adhan-e-Zuhr</title>
-    </programme>
-    <programme start="20250507120700 +0000" stop="20250507130000 +0000" channel="NTV">
-        <title>Dui Diner Duniya</title>
-    </programme>
-    <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="NTV">
-        <title>Shahjalal Madrasha Trust</title>
-    </programme>
-    <programme start="20250507133000 +0000" stop="20250507140000 +0000" channel="NTV">
-        <title>Desher Khobor</title>
-    </programme>
-    <programme start="20250507140000 +0000" stop="20250507153000 +0000" channel="NTV">
-        <title>Prithok</title>
-    </programme>
-    <programme start="20250507153000 +0000" stop="20250507160000 +0000" channel="NTV">
-        <title>NTV NEWS-Shondhar Khobor</title>
-    </programme>
-    <programme start="20250507160000 +0000" stop="20250507163000 +0000" channel="NTV">
-        <title>Onnorokom Golpo</title>
-    </programme>
-    <programme start="20250507163000 +0000" stop="20250507170000 +0000" channel="NTV">
-        <title>Food Caravan</title>
-    </programme>
-    <programme start="20250507170000 +0000" stop="20250507171100 +0000" channel="NTV">
-        <title>Sweet Like Venom</title>
-    </programme>
-    <programme start="20250507171100 +0000" stop="20250507171600 +0000" channel="NTV">
-        <title>Adhan-e-Asr</title>
-    </programme>
-    <programme start="20250507171600 +0000" stop="20250507180000 +0000" channel="NTV">
-        <title>Sweet Like Venom</title>
-    </programme>
-    <programme start="20250507180000 +0000" stop="20250507181500 +0000" channel="NTV">
-        <title>NTV Evening News (ENGLISH</title>
-    </programme>
-    <programme start="20250507181500 +0000" stop="20250507190000 +0000" channel="NTV">
-        <title>NTV NEWS-Rater Khobor</title>
-    </programme>
-    <programme start="20250507190000 +0000" stop="20250507193700 +0000" channel="NTV">
-        <title>Law and Justice</title>
-    </programme>
-    <programme start="20250507193700 +0000" stop="20250507194200 +0000" channel="NTV">
-        <title>Adhan-e-Maghrib</title>
-    </programme>
-    <programme start="20250507194200 +0000" stop="20250507203000 +0000" channel="NTV">
-        <title>Law and Justice</title>
-    </programme>
-    <programme start="20250507203000 +0000" stop="20250507204800 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
-    </programme>
-    <programme start="20250507204800 +0000" stop="20250507205300 +0000" channel="NTV">
-        <title>Adhan-e-Isha</title>
-    </programme>
-    <programme start="20250507205300 +0000" stop="20250507210000 +0000" channel="NTV">
-        <title>NTV NEWS-Moddhorater Khobor</title>
-    </programme>
-    <programme start="20250507210000 +0000" stop="20250507213000 +0000" channel="NTV">
-        <title>NTV Europe News</title>
-    </programme>
-    <programme start="20250507213000 +0000" stop="20250507220000 +0000" channel="NTV">
-        <title>Faul</title>
-    </programme>
-    <programme start="20250507220000 +0000" stop="20250507230000 +0000" channel="NTV">
-        <title>Aey Shomoy</title>
-    </programme>
+    <!-- Error: Data tidak ditemukan untuk channel ID 4540 -->
     <programme start="20250506215000 +0000" stop="20250506220000 +0000" channel="TV One">
         <title>Imam Naseeha</title>
     </programme>
@@ -34302,19 +34168,19 @@
     <programme start="20250507180000 +0000" stop="20250507185900 +0000" channel="SONY TV">
         <title>Radhika Dil Se</title>
     </programme>
-    <programme start="20250507185900 +0000" stop="20250507193000 +0000" channel="SONY TV">
+    <programme start="20250507185900 +0000" stop="20250507193100 +0000" channel="SONY TV">
         <title>Pehla Pyaar</title>
     </programme>
-    <programme start="20250507193000 +0000" stop="20250507200100 +0000" channel="SONY TV">
+    <programme start="20250507193100 +0000" stop="20250507200300 +0000" channel="SONY TV">
         <title>Shirdi Wale Sai Baba</title>
     </programme>
-    <programme start="20250507200100 +0000" stop="20250507212800 +0000" channel="SONY TV">
+    <programme start="20250507200300 +0000" stop="20250507212900 +0000" channel="SONY TV">
         <title>Shark Tank India - 2025</title>
     </programme>
-    <programme start="20250507212800 +0000" stop="20250507222700 +0000" channel="SONY TV">
+    <programme start="20250507212900 +0000" stop="20250507222800 +0000" channel="SONY TV">
         <title>Crime Patrol - 26 Jurm, 26 Cases</title>
     </programme>
-    <programme start="20250507222700 +0000" stop="20250507232700 +0000" channel="SONY TV">
+    <programme start="20250507222800 +0000" stop="20250507232800 +0000" channel="SONY TV">
         <title>Crime Patrol - Tez</title>
     </programme>
     <programme start="20250506213000 +0000" stop="20250506220000 +0000" channel="Utsav Plus">
@@ -34491,13 +34357,13 @@
     <programme start="20250507070000 +0000" stop="20250507073000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507073000 +0000" stop="20250507080500 +0000" channel="COLORS">
+    <programme start="20250507073000 +0000" stop="20250507075500 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507080500 +0000" stop="20250507083000 +0000" channel="COLORS">
-        <title>Doree 2</title>
+    <programme start="20250507075500 +0000" stop="20250507082500 +0000" channel="COLORS">
+        <title>Doree</title>
     </programme>
-    <programme start="20250507083000 +0000" stop="20250507093000 +0000" channel="COLORS">
+    <programme start="20250507082500 +0000" stop="20250507093000 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507093000 +0000" stop="20250507100000 +0000" channel="COLORS">
@@ -34524,16 +34390,16 @@
     <programme start="20250507133500 +0000" stop="20250507140500 +0000" channel="COLORS">
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
-    <programme start="20250507140500 +0000" stop="20250507145500 +0000" channel="COLORS">
+    <programme start="20250507140500 +0000" stop="20250507144000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250507145500 +0000" stop="20250507152500 +0000" channel="COLORS">
+    <programme start="20250507144000 +0000" stop="20250507151000 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507152500 +0000" stop="20250507155500 +0000" channel="COLORS">
+    <programme start="20250507151000 +0000" stop="20250507155000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507155500 +0000" stop="20250507170000 +0000" channel="COLORS">
+    <programme start="20250507155000 +0000" stop="20250507170000 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507170000 +0000" stop="20250507173000 +0000" channel="COLORS">
@@ -34545,25 +34411,25 @@
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="COLORS">
         <title>Megha Barsenge</title>
     </programme>
-    <programme start="20250507183000 +0000" stop="20250507190500 +0000" channel="COLORS">
+    <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="COLORS">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250507190500 +0000" stop="20250507200500 +0000" channel="COLORS">
+    <programme start="20250507190000 +0000" stop="20250507200500 +0000" channel="COLORS">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250507200500 +0000" stop="20250507204000 +0000" channel="COLORS">
         <title>Ram Bhavan</title>
     </programme>
-    <programme start="20250507204000 +0000" stop="20250507212500 +0000" channel="COLORS">
+    <programme start="20250507204000 +0000" stop="20250507212000 +0000" channel="COLORS">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250507212500 +0000" stop="20250507215500 +0000" channel="COLORS">
-        <title>Doree 2</title>
+    <programme start="20250507212000 +0000" stop="20250507215000 +0000" channel="COLORS">
+        <title>Doree</title>
     </programme>
-    <programme start="20250507215500 +0000" stop="20250507222500 +0000" channel="COLORS">
+    <programme start="20250507215000 +0000" stop="20250507222000 +0000" channel="COLORS">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250507222500 +0000" stop="20250507225500 +0000" channel="COLORS">
+    <programme start="20250507222000 +0000" stop="20250507225500 +0000" channel="COLORS">
         <title>Parineetii</title>
     </programme>
     <programme start="20250507225500 +0000" stop="20250507235500 +0000" channel="COLORS">
