@@ -165,7 +165,10 @@
     <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
-    <programme start="20250516183000 +0000" stop="20250516213000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250516182000 +0000" stop="20250516204000 +0000" channel="Optus Sport 2.optus">
+        <title>Premier League - Aston Villa v Tottenham Hotspur</title>
+    </programme>
+    <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Chelsea v Manchester United</title>
     </programme>
     <programme start="20250516213000 +0000" stop="20250516223000 +0000" channel="Optus Sport 11.optus">
@@ -230,9 +233,6 @@
     </programme>
     <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - West Ham United v Nottingham Forest</title>
-    </programme>
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Aston Villa v Tottenham Hotspur</title>
     </programme>
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Leicester City v Ipswich</title>
