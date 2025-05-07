@@ -142,7 +142,7 @@
         <title>Anna Haugh's Big Irish Food Tour</title>
     </programme>
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="BBC Two HD">
-        <title>Grand Tours of Scotland's Rivers</title>
+        <title>The Joe Biden One: Political Thinking</title>
     </programme>
     <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="BBC Two HD">
         <title>Dad's Army</title>
@@ -15102,7 +15102,13 @@
     <programme start="20250507110000 +0000" stop="20250507113500 +0000" channel="BBC Parl HD">
         <title>Live Prime Minister's Questions</title>
     </programme>
-    <programme start="20250507113500 +0000" stop="20250507183000 +0000" channel="BBC Parl HD">
+    <programme start="20250507113500 +0000" stop="20250507122000 +0000" channel="BBC Parl HD">
+        <title>Live US Film Tariffs Urgent Question</title>
+    </programme>
+    <programme start="20250507122000 +0000" stop="20250507132000 +0000" channel="BBC Parl HD">
+        <title>Live India and Pakistan Statement</title>
+    </programme>
+    <programme start="20250507132000 +0000" stop="20250507183000 +0000" channel="BBC Parl HD">
         <title>Live House of Commons</title>
     </programme>
     <programme start="20250507183000 +0000" stop="20250507210000 +0000" channel="BBC Parl HD">
@@ -18160,31 +18166,16 @@
         <title>Live With Passion with Father Cedric</title>
     </programme>
     <programme start="20250507060000 +0000" stop="20250507063000 +0000" channel="EWTN Catholic">
-        <title>Great Books Every Catholic Should Know</title>
+        <title>The Doctors of the Church</title>
     </programme>
     <programme start="20250507063000 +0000" stop="20250507070000 +0000" channel="EWTN Catholic">
         <title>EWTN News Nightly</title>
     </programme>
-    <programme start="20250507070000 +0000" stop="20250507071500 +0000" channel="EWTN Catholic">
-        <title>Gospel Glimpses</title>
+    <programme start="20250507070000 +0000" stop="20250507103000 +0000" channel="EWTN Catholic">
+        <title>Holy Mass for the Election of the Supreme Pontiff</title>
     </programme>
-    <programme start="20250507071500 +0000" stop="20250507081500 +0000" channel="EWTN Catholic">
-        <title>Papal Audience</title>
-    </programme>
-    <programme start="20250507081500 +0000" stop="20250507083000 +0000" channel="EWTN Catholic">
-        <title>Regina Caeli with the Sisters of Our Lady of Angels</title>
-    </programme>
-    <programme start="20250507083000 +0000" stop="20250507090000 +0000" channel="EWTN Catholic">
+    <programme start="20250507103000 +0000" stop="20250507110000 +0000" channel="EWTN Catholic">
         <title>The Hour of the Laity</title>
-    </programme>
-    <programme start="20250507090000 +0000" stop="20250507093000 +0000" channel="EWTN Catholic">
-        <title>Life on the Rock</title>
-    </programme>
-    <programme start="20250507093000 +0000" stop="20250507100000 +0000" channel="EWTN Catholic">
-        <title>The Doctors of the Church</title>
-    </programme>
-    <programme start="20250507100000 +0000" stop="20250507110000 +0000" channel="EWTN Catholic">
-        <title>Franciscan University Presents</title>
     </programme>
     <programme start="20250507110000 +0000" stop="20250507112000 +0000" channel="EWTN Catholic">
         <title>Chaplet of Divine Mercy</title>
@@ -18196,25 +18187,16 @@
         <title>The Holy Rosary with Mother Angelica</title>
     </programme>
     <programme start="20250507120000 +0000" stop="20250507130000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Mass for the Election of the Pope</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507140000 +0000" channel="EWTN Catholic">
-        <title>EWTN News In Depth</title>
+    <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="EWTN Catholic">
+        <title>Holy Rosary for the Conclave</title>
     </programme>
-    <programme start="20250507140000 +0000" stop="20250507142000 +0000" channel="EWTN Catholic">
-        <title>Chaplet of Divine Mercy</title>
+    <programme start="20250507133000 +0000" stop="20250507140000 +0000" channel="EWTN Catholic">
+        <title>The Glory of the Papacy</title>
     </programme>
-    <programme start="20250507142000 +0000" stop="20250507143000 +0000" channel="EWTN Catholic">
-        <title>Live Adoration from EWTN Chapel</title>
-    </programme>
-    <programme start="20250507143000 +0000" stop="20250507150000 +0000" channel="EWTN Catholic">
-        <title>God's Footprints</title>
-    </programme>
-    <programme start="20250507150000 +0000" stop="20250507153000 +0000" channel="EWTN Catholic">
-        <title>Global Divine Mercy Chaplet</title>
-    </programme>
-    <programme start="20250507153000 +0000" stop="20250507160000 +0000" channel="EWTN Catholic">
-        <title>Children's Rosary</title>
+    <programme start="20250507140000 +0000" stop="20250507160000 +0000" channel="EWTN Catholic">
+        <title>Procession of Cardinal...</title>
     </programme>
     <programme start="20250507160000 +0000" stop="20250507163000 +0000" channel="EWTN Catholic">
         <title>Hail, Holy Queen</title>
@@ -18223,31 +18205,16 @@
         <title>The Hour of the Laity</title>
     </programme>
     <programme start="20250507170000 +0000" stop="20250507180000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Conclave From the Vatican</title>
     </programme>
-    <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="EWTN Catholic">
-        <title>The Holy Rosary from Lourdes</title>
-    </programme>
-    <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="EWTN Catholic">
-        <title>Women of Grace</title>
-    </programme>
-    <programme start="20250507190000 +0000" stop="20250507200000 +0000" channel="EWTN Catholic">
-        <title>Mother Angelica Live Classics</title>
-    </programme>
-    <programme start="20250507200000 +0000" stop="20250507203000 +0000" channel="EWTN Catholic">
-        <title>EWTN News Nightly</title>
-    </programme>
-    <programme start="20250507203000 +0000" stop="20250507210000 +0000" channel="EWTN Catholic">
-        <title>Cross Training</title>
-    </programme>
-    <programme start="20250507210000 +0000" stop="20250507213000 +0000" channel="EWTN Catholic">
-        <title>For God So Loved the World</title>
+    <programme start="20250507180000 +0000" stop="20250507213000 +0000" channel="EWTN Catholic">
+        <title>Holy Mass for the Election of the Supreme Pontiff</title>
     </programme>
     <programme start="20250507213000 +0000" stop="20250507220000 +0000" channel="EWTN Catholic">
-        <title>St Luke's Gospel</title>
+        <title>The Glory of the Papacy</title>
     </programme>
     <programme start="20250507220000 +0000" stop="20250507230000 +0000" channel="EWTN Catholic">
-        <title>Daily Mass</title>
+        <title>Mass for the Election of the Pope</title>
     </programme>
     <programme start="20250506210000 +0000" stop="20250506220000 +0000" channel="Faith World TV">
         <title>The Road To Nashville</title>
@@ -23230,7 +23197,7 @@
         <title>Helene Berman London</title>
     </programme>
     <programme start="20250507190000 +0000" stop="20250507200000 +0000" channel="QVC HD">
-        <title>Aveda</title>
+        <title>Beauty Loves with Aveda</title>
     </programme>
     <programme start="20250507200000 +0000" stop="20250507210000 +0000" channel="QVC HD">
         <title>All New Monsoon</title>
@@ -26791,7 +26758,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250507110500 +0000" stop="20250507120000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Off The Record</title>
     </programme>
     <programme start="20250507120000 +0000" stop="20250507120500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -26827,7 +26794,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250507170500 +0000" stop="20250507180000 +0000" channel="New Vision TV">
-        <title>Off The Record With Kashif Abbasi</title>
+        <title>Off The Record</title>
     </programme>
     <programme start="20250507180000 +0000" stop="20250507180500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -30484,7 +30451,7 @@
         <title>Rashi Rikshawali</title>
     </programme>
     <programme start="20250507160000 +0000" stop="20250507163000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri - Preet Na Rang</title>
+        <title>Loveyatri</title>
     </programme>
     <programme start="20250507163000 +0000" stop="20250507173000 +0000" channel="ColorsGujarati">
         <title>Rasoi Show</title>
@@ -30496,7 +30463,7 @@
         <title>Shyam Dhun Laagi Re</title>
     </programme>
     <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri - Preet Na Rang</title>
+        <title>Loveyatri</title>
     </programme>
     <programme start="20250507190000 +0000" stop="20250507193000 +0000" channel="ColorsGujarati">
         <title>Rashi Rikshawali</title>
@@ -35853,11 +35820,8 @@
     <programme start="20250507111500 +0000" stop="20250507120000 +0000" channel="BBC One ScotHD">
         <title>Bargain Hunt</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507123500 +0000" channel="BBC One ScotHD">
-        <title>BBC News at One</title>
-    </programme>
-    <programme start="20250507123500 +0000" stop="20250507130000 +0000" channel="BBC One ScotHD">
-        <title>Reporting Scotland</title>
+    <programme start="20250507120000 +0000" stop="20250507130000 +0000" channel="BBC One ScotHD">
+        <title>BBC News at One including Reporting Scotland</title>
     </programme>
     <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="BBC One ScotHD">
         <title>Scam Interceptors</title>
@@ -35901,10 +35865,10 @@
     <programme start="20250507213000 +0000" stop="20250507214000 +0000" channel="BBC One ScotHD">
         <title>Reporting Scotland</title>
     </programme>
-    <programme start="20250507214000 +0000" stop="20250507223000 +0000" channel="BBC One ScotHD">
+    <programme start="20250507214000 +0000" stop="20250507224000 +0000" channel="BBC One ScotHD">
         <title>MOTD: UEFA Champions League</title>
     </programme>
-    <programme start="20250507223000 +0000" stop="20250507233000 +0000" channel="BBC One ScotHD">
+    <programme start="20250507224000 +0000" stop="20250507234000 +0000" channel="BBC One ScotHD">
         <title>Debate Night</title>
     </programme>
     <programme start="20250506214000 +0000" stop="20250506224000 +0000" channel="BBC One Wal HD">
@@ -36133,7 +36097,7 @@
         <title>Anna Haugh's Big Irish Food Tour</title>
     </programme>
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="BBC Two Wal HD">
-        <title>Grand Tours of Scotland's Rivers</title>
+        <title>The Joe Biden One: Political Thinking</title>
     </programme>
     <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="BBC Two Wal HD">
         <title>Dad's Army</title>
@@ -36220,7 +36184,7 @@
         <title>Anna Haugh's Big Irish Food Tour</title>
     </programme>
     <programme start="20250507180000 +0000" stop="20250507183000 +0000" channel="BBC Two NI HD">
-        <title>Grand Tours of Scotland's Rivers</title>
+        <title>The Joe Biden One: Political Thinking</title>
     </programme>
     <programme start="20250507183000 +0000" stop="20250507190000 +0000" channel="BBC Two NI HD">
         <title>Dad's Army</title>

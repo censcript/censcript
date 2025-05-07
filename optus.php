@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Shonan v Sanfrecce</title>
-    </programme>
-    <programme start="20250507095500 +0000" stop="20250507121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Machida v Kyoto</title>
-    </programme>
     <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -299,5 +293,8 @@
     </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>
 </tv>
