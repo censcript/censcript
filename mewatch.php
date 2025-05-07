@@ -234,29 +234,26 @@
     <programme start="20250507093149 +0000" stop="20250507103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 669</title>
     </programme>
-    <programme start="20250507103000 +0000" stop="20250507113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507103000 +0000" stop="20250507113025 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 27</title>
     </programme>
-    <programme start="20250507113000 +0000" stop="20250507120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507113025 +0000" stop="20250507120033 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 27</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507120033 +0000" stop="20250507130014 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places S4 - EP 18</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507130014 +0000" stop="20250507140000 +0000" channel="Channel 8.mewatch">
         <title>Devil Behind The Gate - EP 5</title>
     </programme>
-    <programme start="20250507140000 +0000" stop="20250507143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507140000 +0000" stop="20250507143130 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250507143000 +0000" stop="20250507150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507143130 +0000" stop="20250507150100 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 5</title>
     </programme>
-    <programme start="20250507150000 +0000" stop="20250507160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250507150100 +0000" stop="20250507160007 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 20</title>
-    </programme>
-    <programme start="20250507160000 +0000" stop="20250507170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 7</title>
     </programme>
     <programme start="20250506153014 +0000" stop="20250506162859 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 2</title>
@@ -426,10 +423,10 @@
     <programme start="20250507133042 +0000" stop="20250507143014 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 7</title>
     </programme>
-    <programme start="20250507143014 +0000" stop="20250507152954 +0000" channel="Suria.mewatch">
+    <programme start="20250507143014 +0000" stop="20250507153004 +0000" channel="Suria.mewatch">
         <title>Marina - EP 21</title>
     </programme>
-    <programme start="20250507152954 +0000" stop="20250507160041 +0000" channel="Suria.mewatch">
+    <programme start="20250507153004 +0000" stop="20250507160051 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250507010000 +0000" stop="20250507012947 +0000" channel="Vasantham.mewatch">
