@@ -351,22 +351,22 @@
     <programme start="20250507100017 +0000" stop="20250507110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 2</title>
     </programme>
-    <programme start="20250507110000 +0000" stop="20250507120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507110000 +0000" stop="20250507115913 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 59</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507115913 +0000" stop="20250507125958 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 60</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507125958 +0000" stop="20250507140022 +0000" channel="Channel U.mewatch">
         <title>The Last Defenders - EP 3</title>
     </programme>
-    <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507140022 +0000" stop="20250507150000 +0000" channel="Channel U.mewatch">
         <title>Story of Kunning Palace - EP 38</title>
     </programme>
-    <programme start="20250507150000 +0000" stop="20250507153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507150000 +0000" stop="20250507153044 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250507153000 +0000" stop="20250507163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250507153044 +0000" stop="20250507163013 +0000" channel="Channel U.mewatch">
         <title>The Last Defenders - EP 3</title>
     </programme>
     <programme start="20250506153018 +0000" stop="20250506160016 +0000" channel="Suria.mewatch">
@@ -411,29 +411,26 @@
     <programme start="20250507103029 +0000" stop="20250507110000 +0000" channel="Suria.mewatch">
         <title>Indonesia Authentic Places - EP 3</title>
     </programme>
-    <programme start="20250507110000 +0000" stop="20250507120000 +0000" channel="Suria.mewatch">
+    <programme start="20250507110000 +0000" stop="20250507120025 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 4</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507123000 +0000" channel="Suria.mewatch">
+    <programme start="20250507120025 +0000" stop="20250507123011 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250507123000 +0000" stop="20250507130000 +0000" channel="Suria.mewatch">
+    <programme start="20250507123011 +0000" stop="20250507130029 +0000" channel="Suria.mewatch">
         <title>Hard to Heart S4 - EP 6</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="Suria.mewatch">
+    <programme start="20250507130029 +0000" stop="20250507133042 +0000" channel="Suria.mewatch">
         <title>Jejak Jenayah 2025 - EP 2</title>
     </programme>
-    <programme start="20250507133000 +0000" stop="20250507143000 +0000" channel="Suria.mewatch">
+    <programme start="20250507133042 +0000" stop="20250507143014 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 7</title>
     </programme>
-    <programme start="20250507143000 +0000" stop="20250507153000 +0000" channel="Suria.mewatch">
+    <programme start="20250507143014 +0000" stop="20250507152954 +0000" channel="Suria.mewatch">
         <title>Marina - EP 21</title>
     </programme>
-    <programme start="20250507153000 +0000" stop="20250507160000 +0000" channel="Suria.mewatch">
+    <programme start="20250507152954 +0000" stop="20250507160041 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250507160000 +0000" stop="20250508010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250507010000 +0000" stop="20250507012947 +0000" channel="Vasantham.mewatch">
         <title>Rusiyo Rusi S3 - EP 5</title>
@@ -474,28 +471,28 @@
     <programme start="20250507080015 +0000" stop="20250507110000 +0000" channel="Vasantham.mewatch">
         <title>Silambattam</title>
     </programme>
-    <programme start="20250507110000 +0000" stop="20250507120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507110000 +0000" stop="20250507120016 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 45</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507120016 +0000" stop="20250507123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 32</title>
     </programme>
-    <programme start="20250507123000 +0000" stop="20250507130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507123000 +0000" stop="20250507130003 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507130003 +0000" stop="20250507133009 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 31</title>
     </programme>
-    <programme start="20250507133000 +0000" stop="20250507140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507133009 +0000" stop="20250507140010 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 4</title>
     </programme>
-    <programme start="20250507140000 +0000" stop="20250507143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507140010 +0000" stop="20250507143018 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 16</title>
     </programme>
-    <programme start="20250507143000 +0000" stop="20250507150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507143018 +0000" stop="20250507150013 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 4</title>
     </programme>
-    <programme start="20250507150000 +0000" stop="20250507153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250507150013 +0000" stop="20250507153000 +0000" channel="Vasantham.mewatch">
         <title>Uncle Taxi Sr 4 - EP 7</title>
     </programme>
     <programme start="20250507153000 +0000" stop="20250507155959 +0000" channel="Vasantham.mewatch">
@@ -555,13 +552,13 @@
     <programme start="20250507100001 +0000" stop="20250507110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250507110000 +0000" stop="20250507120000 +0000" channel="CNA.mewatch">
+    <programme start="20250507110000 +0000" stop="20250507115959 +0000" channel="CNA.mewatch">
         <title>Has The Internet Broken Parenting? - EP 1</title>
     </programme>
-    <programme start="20250507120000 +0000" stop="20250507130000 +0000" channel="CNA.mewatch">
+    <programme start="20250507115959 +0000" stop="20250507125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250507130000 +0000" stop="20250507133000 +0000" channel="CNA.mewatch">
+    <programme start="20250507125959 +0000" stop="20250507133000 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 8</title>
     </programme>
     <programme start="20250507133000 +0000" stop="20250507140000 +0000" channel="CNA.mewatch">
@@ -570,11 +567,8 @@
     <programme start="20250507140000 +0000" stop="20250507150000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250507150000 +0000" stop="20250507160000 +0000" channel="CNA.mewatch">
+    <programme start="20250507150000 +0000" stop="20250507160003 +0000" channel="CNA.mewatch">
         <title>An Unequal Heatwave</title>
-    </programme>
-    <programme start="20250507160000 +0000" stop="20250507160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250506160000 +0000" stop="20250507113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 7th May, Wednesday 7.35pm. 2024 Singapore Premier League: Tanjong Pagar United vs Young Lions</title>
