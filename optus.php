@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <programme start="20250507170000 +0000" stop="20250507180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Inside Matters</title>
-    </programme>
     <programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
