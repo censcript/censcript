@@ -26773,7 +26773,7 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250508140500 +0000" stop="20250508150000 +0000" channel="New Vision TV">
-        <title>Bakhabar Savera</title>
+        <title>News</title>
     </programme>
     <programme start="20250508150000 +0000" stop="20250508150500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -30412,7 +30412,7 @@
         <title>Rashi Rikshawali</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508163000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri</title>
+        <title>Loveyatri - Preet Na Rang</title>
     </programme>
     <programme start="20250508163000 +0000" stop="20250508173000 +0000" channel="ColorsGujarati">
         <title>Rasoi Show</title>
@@ -30424,7 +30424,7 @@
         <title>Shyam Dhun Laagi Re</title>
     </programme>
     <programme start="20250508183000 +0000" stop="20250508190000 +0000" channel="ColorsGujarati">
-        <title>Loveyatri</title>
+        <title>Loveyatri - Preet Na Rang</title>
     </programme>
     <programme start="20250508190000 +0000" stop="20250508193000 +0000" channel="ColorsGujarati">
         <title>Rashi Rikshawali</title>
