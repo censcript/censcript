@@ -49,5 +49,5 @@ urls = [
     "https://cindo.mra.my.id/epg/mytv.php",
 ]
 
-# Jalankan fungsi
+# Jalankan fungsi EPG
 download_and_merge_epg(urls)
