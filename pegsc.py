@@ -1,31 +1,21 @@
 import requests
-import xml.etree.ElementTree as ET
 
-def download_and_merge_epg(urls, output_file="merged_epg.xml"):
-    # Buat elemen root baru untuk hasil gabungan
-    root = ET.Element("tv")
-    root.set("generator-info-name", "CendolCen")
-
+def download_epg(urls):
     for url in urls:
+        # Mendapatkan nama file dari URL
+        file_name = url.split('/')[-1]
+        
+        # Mengirim permintaan GET ke URL
         response = requests.get(url)
+        
+        # Memeriksa apakah permintaan berhasil
         if response.status_code == 200:
-            try:
-                # Parsing XML dari konten
-                tree = ET.ElementTree(ET.fromstring(response.content))
-                epg_root = tree.getroot()
-
-                for programme in epg_root.findall("programme"):
-                    root.append(programme)
-                print(f"Berhasil menambahkan data dari {url}")
-            except ET.ParseError:
-                print(f"Gagal mem-parsing XML dari {url}")
+            # Menyimpan konten ke file
+            with open(file_name, 'wb') as file:
+                file.write(response.content)
+            print(f"File {file_name} berhasil didownload.")
         else:
-            print(f"Gagal mengunduh {url}. Status code: {response.status_code}")
-
-    # Menulis hasil gabungan ke file
-    tree = ET.ElementTree(root)
-    tree.write(output_file, encoding="utf-8", xml_declaration=True)
-    print(f"File EPG gabungan berhasil disimpan sebagai {output_file}")
+            print(f"Gagal mendownload file {file_name}. Status code: {response.status_code}")
 
 # Daftar URL EPG
 urls = [
@@ -49,5 +39,5 @@ urls = [
     "https://cindo.mra.my.id/epg/mytv.php",
 ]
 
-# Jalankan fungsi EPG
-download_and_merge_epg(urls)
+# Memanggil fungsi untuk mendownload semua EPG
+download_epg(urls)
