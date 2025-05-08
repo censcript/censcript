@@ -7260,6 +7260,9 @@
     <programme start="20250509134000 +0000" stop="20250509141000 +0000" channel="beIN Sports HD.starhub">
         <title>F1 ACADEMY RACING SERIES, ROUND 3 MIAMI, 2025</title>
     </programme>
+    <programme start="20250509141000 +0000" stop="20250509144000 +0000" channel="beIN Sports HD.starhub">
+        <title>Imola</title>
+    </programme>
     <programme start="20250509144000 +0000" stop="20250509154000 +0000" channel="beIN Sports HD.starhub">
         <title>Porsche Carrera Cup Germany 2025: Spa Race 1 (Live)</title>
     </programme>

@@ -14821,7 +14821,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250509170000 +0000" stop="20250509173000 +0000" channel="BBC NEWS HD">
-        <title>BBC News at Six</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250509173000 +0000" stop="20250509180000 +0000" channel="BBC NEWS HD">
         <title>Sportsday</title>
