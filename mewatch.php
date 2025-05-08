@@ -138,7 +138,7 @@
     <programme start="20250508140010 +0000" stop="20250508150046 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 5</title>
     </programme>
-    <programme start="20250508150046 +0000" stop="20250508160020 +0000" channel="Channel 5.mewatch">
+    <programme start="20250508150046 +0000" stop="20250508160005 +0000" channel="Channel 5.mewatch">
         <title>CSI: Vegas S3 - EP 9</title>
     </programme>
     <programme start="20250507150100 +0000" stop="20250507160007 +0000" channel="Channel 8.mewatch">
