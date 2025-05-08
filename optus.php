@@ -144,6 +144,9 @@
     <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Chris Wood</title>
     </programme>
+    <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview</title>
+    </programme>
     <programme start="20250516093000 +0000" stop="20250516100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -152,6 +155,9 @@
     </programme>
     <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - Saturday Morning</title>
     </programme>
     <programme start="20250516182000 +0000" stop="20250516204000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Aston Villa v Tottenham Hotspur</title>
@@ -293,11 +299,5 @@
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Liverpool v Crystal Palace</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 9.optus">
-        <title>Premier League - Ipswich v West Ham United</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 7.optus">
-        <title>Premier League - Fulham v Manchester City</title>
     </programme>
 </tv>
