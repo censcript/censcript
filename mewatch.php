@@ -237,28 +237,28 @@
     <programme start="20250508092704 +0000" stop="20250508103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 671</title>
     </programme>
-    <programme start="20250508103000 +0000" stop="20250508113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508103000 +0000" stop="20250508112950 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 28</title>
     </programme>
-    <programme start="20250508113000 +0000" stop="20250508120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508112950 +0000" stop="20250508120010 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 28</title>
     </programme>
-    <programme start="20250508120000 +0000" stop="20250508130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508120010 +0000" stop="20250508130013 +0000" channel="Channel 8.mewatch">
         <title>World&#039;s Unique Neighbourhoods - EP 8</title>
     </programme>
-    <programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508130013 +0000" stop="20250508140000 +0000" channel="Channel 8.mewatch">
         <title>Devil Behind The Gate - EP 6</title>
     </programme>
-    <programme start="20250508140000 +0000" stop="20250508143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508140000 +0000" stop="20250508143029 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250508143000 +0000" stop="20250508150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508143029 +0000" stop="20250508150008 +0000" channel="Channel 8.mewatch">
         <title>Borneo Culinary Adventures - Sarawak - EP 8</title>
     </programme>
-    <programme start="20250508150000 +0000" stop="20250508160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508150008 +0000" stop="20250508155901 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 21</title>
     </programme>
-    <programme start="20250508160000 +0000" stop="20250508170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250508155901 +0000" stop="20250508165912 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 8</title>
     </programme>
     <programme start="20250507153044 +0000" stop="20250507163013 +0000" channel="Channel U.mewatch">
@@ -357,22 +357,22 @@
     <programme start="20250508100014 +0000" stop="20250508110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 3</title>
     </programme>
-    <programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508110000 +0000" stop="20250508120009 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 61</title>
     </programme>
-    <programme start="20250508120000 +0000" stop="20250508130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508120009 +0000" stop="20250508125941 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 62</title>
     </programme>
-    <programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508125941 +0000" stop="20250508135952 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 4</title>
     </programme>
-    <programme start="20250508140000 +0000" stop="20250508150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508135952 +0000" stop="20250508150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 1</title>
     </programme>
-    <programme start="20250508150000 +0000" stop="20250508153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508150000 +0000" stop="20250508153029 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250508153000 +0000" stop="20250508163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250508153029 +0000" stop="20250508163014 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 4</title>
     </programme>
     <programme start="20250507153004 +0000" stop="20250507160051 +0000" channel="Suria.mewatch">
@@ -417,26 +417,23 @@
     <programme start="20250508103035 +0000" stop="20250508110000 +0000" channel="Suria.mewatch">
         <title>Indonesia Authentic Places - EP 4</title>
     </programme>
-    <programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="Suria.mewatch">
+    <programme start="20250508110000 +0000" stop="20250508115958 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 5</title>
     </programme>
-    <programme start="20250508120000 +0000" stop="20250508123000 +0000" channel="Suria.mewatch">
+    <programme start="20250508115958 +0000" stop="20250508123009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250508123000 +0000" stop="20250508133000 +0000" channel="Suria.mewatch">
+    <programme start="20250508123009 +0000" stop="20250508133010 +0000" channel="Suria.mewatch">
         <title>From KL to PL - EP 3</title>
     </programme>
-    <programme start="20250508133000 +0000" stop="20250508143000 +0000" channel="Suria.mewatch">
+    <programme start="20250508133010 +0000" stop="20250508143009 +0000" channel="Suria.mewatch">
         <title>Pinjaman Syurga - EP 6</title>
     </programme>
-    <programme start="20250508143000 +0000" stop="20250508153000 +0000" channel="Suria.mewatch">
+    <programme start="20250508143009 +0000" stop="20250508153012 +0000" channel="Suria.mewatch">
         <title>Marina - EP 22</title>
     </programme>
-    <programme start="20250508153000 +0000" stop="20250508160000 +0000" channel="Suria.mewatch">
+    <programme start="20250508153012 +0000" stop="20250508160001 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250508160000 +0000" stop="20250509010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250507155959 +0000" stop="20250508010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
@@ -480,10 +477,10 @@
     <programme start="20250508075959 +0000" stop="20250508110000 +0000" channel="Vasantham.mewatch">
         <title>Vaanathaippola</title>
     </programme>
-    <programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508110000 +0000" stop="20250508115959 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 46</title>
     </programme>
-    <programme start="20250508120000 +0000" stop="20250508123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508115959 +0000" stop="20250508123000 +0000" channel="Vasantham.mewatch">
         <title>Ayya Veedu - EP 33</title>
     </programme>
     <programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="Vasantham.mewatch">
@@ -492,19 +489,19 @@
     <programme start="20250508130000 +0000" stop="20250508133000 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 32</title>
     </programme>
-    <programme start="20250508133000 +0000" stop="20250508140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508133000 +0000" stop="20250508140002 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 8</title>
     </programme>
-    <programme start="20250508140000 +0000" stop="20250508143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508140002 +0000" stop="20250508143006 +0000" channel="Vasantham.mewatch">
         <title>Irul - EP 12</title>
     </programme>
-    <programme start="20250508143000 +0000" stop="20250508150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508143006 +0000" stop="20250508145958 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 5</title>
     </programme>
-    <programme start="20250508150000 +0000" stop="20250508153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508145958 +0000" stop="20250508153001 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 1</title>
     </programme>
-    <programme start="20250508153000 +0000" stop="20250508160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250508153001 +0000" stop="20250508160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 4</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508163000 +0000" channel="Vasantham.mewatch">
@@ -573,19 +570,19 @@
     <programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="CNA.mewatch">
         <title>Echoes Of Change - EP 3</title>
     </programme>
-    <programme start="20250508120000 +0000" stop="20250508130000 +0000" channel="CNA.mewatch">
+    <programme start="20250508120000 +0000" stop="20250508130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="CNA.mewatch">
+    <programme start="20250508130001 +0000" stop="20250508140001 +0000" channel="CNA.mewatch">
         <title>Insight - EP 3</title>
     </programme>
-    <programme start="20250508140000 +0000" stop="20250508150000 +0000" channel="CNA.mewatch">
+    <programme start="20250508140001 +0000" stop="20250508150115 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250508150000 +0000" stop="20250508160000 +0000" channel="CNA.mewatch">
+    <programme start="20250508150115 +0000" stop="20250508155959 +0000" channel="CNA.mewatch">
         <title>The Last Defenders S2 - EP 3</title>
     </programme>
-    <programme start="20250508160000 +0000" stop="20250508160300 +0000" channel="CNA.mewatch">
+    <programme start="20250508155959 +0000" stop="20250508160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250507160000 +0000" stop="20250508160000 +0000" channel="spl01.mewatch">
