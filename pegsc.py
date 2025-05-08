@@ -34,7 +34,7 @@ urls = [
     "https://www.bevy.be/bevyfiles/italy2.xml",
     "https://www.bevy.be/bevyfiles/portugal2.xml",
     "https://manusiabiasa.serv00.net/cen/epg/alkass.php",
-    "https://manusiabiasa.serv00.net/cen/epg/vision.php",
+    "https://astvstreamingpro.my.id/epg/vision.php",
     "https://cindo.mra.my.id/epg/sky.php",
     "https://cindo.mra.my.id/epg/mytv.php",
 ]
