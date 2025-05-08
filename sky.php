@@ -26566,7 +26566,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250508060500 +0000" stop="20250508070000 +0000" channel="GEO News">
-        <title>Aaj Shazaib Khanzada Kay Saath</title>
+        <title>Capital Talk</title>
     </programme>
     <programme start="20250508070000 +0000" stop="20250508070500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -26619,17 +26619,32 @@
     <programme start="20250508140000 +0000" stop="20250508140500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250508140500 +0000" stop="20250508143000 +0000" channel="GEO News">
+    <programme start="20250508140500 +0000" stop="20250508150000 +0000" channel="GEO News">
+        <title>Report Card</title>
+    </programme>
+    <programme start="20250508150000 +0000" stop="20250508150500 +0000" channel="GEO News">
+        <title>Geo World News Headlines</title>
+    </programme>
+    <programme start="20250508150500 +0000" stop="20250508160000 +0000" channel="GEO News">
+        <title>Capital Talk</title>
+    </programme>
+    <programme start="20250508160000 +0000" stop="20250508160500 +0000" channel="GEO News">
+        <title>Geo World News Headlines</title>
+    </programme>
+    <programme start="20250508160500 +0000" stop="20250508170000 +0000" channel="GEO News">
         <title>Geo World News</title>
     </programme>
-    <programme start="20250508143000 +0000" stop="20250508150000 +0000" channel="GEO News">
-        <title>Pre Match Analysis</title>
+    <programme start="20250508170000 +0000" stop="20250508170500 +0000" channel="GEO News">
+        <title>Geo World News Headlines</title>
     </programme>
-    <programme start="20250508150000 +0000" stop="20250508183000 +0000" channel="GEO News">
-        <title>PSL 10 ___ P-Zalmi vs K-Kings</title>
+    <programme start="20250508170500 +0000" stop="20250508180000 +0000" channel="GEO News">
+        <title>Aaj Shazaib Khanzada Kay Saath</title>
     </programme>
-    <programme start="20250508183000 +0000" stop="20250508190000 +0000" channel="GEO News">
-        <title>Post Match Analysis</title>
+    <programme start="20250508180000 +0000" stop="20250508180500 +0000" channel="GEO News">
+        <title>Geo World News Headlines</title>
+    </programme>
+    <programme start="20250508180500 +0000" stop="20250508190000 +0000" channel="GEO News">
+        <title>Special Programme (War Room)</title>
     </programme>
     <programme start="20250508190000 +0000" stop="20250508190500 +0000" channel="GEO News">
         <title>Geo World News Headlines</title>
@@ -26653,7 +26668,7 @@
         <title>Geo World News Headlines</title>
     </programme>
     <programme start="20250508220500 +0000" stop="20250508230500 +0000" channel="GEO News">
-        <title>Haarna Mana Hai</title>
+        <title>Special Programme (War Room)</title>
     </programme>
     <programme start="20250507210500 +0000" stop="20250507220000 +0000" channel="New Vision TV">
         <title>Har Lamha Purjosh</title>
