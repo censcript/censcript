@@ -19690,7 +19690,7 @@
         <title>Yakka Dee!</title>
     </programme>
     <programme start="20250508081500 +0000" stop="20250508082000 +0000" channel="CBeebies HD">
-        <title>Lu &amp; The Bally Bunch</title>
+        <title>Lu &amp; the Bally Bunch</title>
     </programme>
     <programme start="20250508082000 +0000" stop="20250508083500 +0000" channel="CBeebies HD">
         <title>Dylan's Playtime Adventures</title>
@@ -23149,7 +23149,7 @@
         <title>All New Monsoon</title>
     </programme>
     <programme start="20250508170000 +0000" stop="20250508180000 +0000" channel="QVC HD">
-        <title>Up to 50% off Denim &amp; Co Holiday</title>
+        <title>Up to 50% off Denim &amp; Co Swimwear</title>
     </programme>
     <programme start="20250508180000 +0000" stop="20250508200000 +0000" channel="QVC HD">
         <title>Ruth Langsford Holiday Shop</title>
@@ -23425,10 +23425,10 @@
         <title>Travel Accessories</title>
     </programme>
     <programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="QVC Style HD">
-        <title>MarlaWynne Fashion</title>
+        <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="QVC Style HD">
-        <title>MarlaWynne Fashion</title>
+        <title>Marla Wynne Fashion Collection</title>
     </programme>
     <programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="QVC Style HD">
         <title>The Fashion Edit with Caroline</title>
@@ -28600,7 +28600,7 @@
         <title>Katha Sri Suraj Parkash</title>
     </programme>
     <programme start="20250508203000 +0000" stop="20250508210000 +0000" channel="Sangat">
-        <title>Kirtan ras</title>
+        <title>Gallan Battan Bal De Nal</title>
     </programme>
     <programme start="20250508210000 +0000" stop="20250508220000 +0000" channel="Sangat">
         <title>Hukamnama Katha</title>
