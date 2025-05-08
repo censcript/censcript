@@ -14250,28 +14250,28 @@
     <programme start="20250509223000 +0000" stop="20250509233000 +0000" channel="Premier 2 HD">
         <title>Temples of Sport</title>
     </programme>
-    <programme start="20250508213000 +0000" stop="20250508223000 +0000" channel="TNT Sports 4">
+    <programme start="20250508214500 +0000" stop="20250508221500 +0000" channel="TNT Sports 4">
+        <title>MLB Plays of the Week</title>
+    </programme>
+    <programme start="20250508221500 +0000" stop="20250508231500 +0000" channel="TNT Sports 4">
         <title>Cycling: Vuelta Espana - Stage 5</title>
     </programme>
-    <programme start="20250508223000 +0000" stop="20250509000000 +0000" channel="TNT Sports 4">
+    <programme start="20250508231500 +0000" stop="20250509004500 +0000" channel="TNT Sports 4">
         <title>Ultimate Pool</title>
     </programme>
-    <programme start="20250509000000 +0000" stop="20250509010000 +0000" channel="TNT Sports 4">
+    <programme start="20250509004500 +0000" stop="20250509014500 +0000" channel="TNT Sports 4">
         <title>Snooker World Championship Review</title>
     </programme>
-    <programme start="20250509010000 +0000" stop="20250509020000 +0000" channel="TNT Sports 4">
+    <programme start="20250509014500 +0000" stop="20250509024500 +0000" channel="TNT Sports 4">
         <title>HSBC SVNS Highlights - Los Angeles</title>
     </programme>
-    <programme start="20250509020000 +0000" stop="20250509030000 +0000" channel="TNT Sports 4">
+    <programme start="20250509024500 +0000" stop="20250509034500 +0000" channel="TNT Sports 4">
         <title>Superbike WC Highlights</title>
     </programme>
-    <programme start="20250509030000 +0000" stop="20250509040000 +0000" channel="TNT Sports 4">
+    <programme start="20250509034500 +0000" stop="20250509044500 +0000" channel="TNT Sports 4">
         <title>UFC Countdown: 315</title>
     </programme>
-    <programme start="20250509040000 +0000" stop="20250509043000 +0000" channel="TNT Sports 4">
-        <title>UCL Stories of the Finals</title>
-    </programme>
-    <programme start="20250509043000 +0000" stop="20250509050000 +0000" channel="TNT Sports 4">
+    <programme start="20250509044500 +0000" stop="20250509050000 +0000" channel="TNT Sports 4">
         <title>TNT Sports Reload</title>
     </programme>
     <programme start="20250509050000 +0000" stop="20250509063000 +0000" channel="TNT Sports 4">
@@ -14874,23 +14874,50 @@
     <programme start="20250509023000 +0000" stop="20250509044000 +0000" channel="BBC Parl HD">
         <title>Scottish Parliament - Programme for Government</title>
     </programme>
-    <programme start="20250509044000 +0000" stop="20250509090000 +0000" channel="BBC Parl HD">
+    <programme start="20250509044000 +0000" stop="20250509050000 +0000" channel="BBC Parl HD">
         <title>This is BBC Parliament</title>
+    </programme>
+    <programme start="20250509050000 +0000" stop="20250509063500 +0000" channel="BBC Parl HD">
+        <title>Culture, Media and Sport Select Committee</title>
+    </programme>
+    <programme start="20250509063500 +0000" stop="20250509081500 +0000" channel="BBC Parl HD">
+        <title>Lord Chancellor Committee</title>
+    </programme>
+    <programme start="20250509081500 +0000" stop="20250509090000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Thursday</title>
     </programme>
     <programme start="20250509090000 +0000" stop="20250509140000 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
     </programme>
-    <programme start="20250509140000 +0000" stop="20250509170000 +0000" channel="BBC Parl HD">
-        <title>House of Lords</title>
+    <programme start="20250509140000 +0000" stop="20250509144500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Tuesday</title>
     </programme>
-    <programme start="20250509170000 +0000" stop="20250509200000 +0000" channel="BBC Parl HD">
-        <title>Select Committees</title>
+    <programme start="20250509144500 +0000" stop="20250509152500 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Wednesday</title>
     </programme>
-    <programme start="20250509200000 +0000" stop="20250509204500 +0000" channel="BBC Parl HD">
+    <programme start="20250509152500 +0000" stop="20250509161000 +0000" channel="BBC Parl HD">
+        <title>Lords Questions - Thursday</title>
+    </programme>
+    <programme start="20250509161000 +0000" stop="20250509162000 +0000" channel="BBC Parl HD">
+        <title>House of Lords - Energy Prices Statement</title>
+    </programme>
+    <programme start="20250509162000 +0000" stop="20250509165500 +0000" channel="BBC Parl HD">
+        <title>House of Lords - UK Energy Grid Resilience Statement</title>
+    </programme>
+    <programme start="20250509165500 +0000" stop="20250509170000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
+    </programme>
+    <programme start="20250509170000 +0000" stop="20250509183500 +0000" channel="BBC Parl HD">
+        <title>Culture, Media and Sport Select Committee</title>
+    </programme>
+    <programme start="20250509183500 +0000" stop="20250509201500 +0000" channel="BBC Parl HD">
+        <title>Lord Chancellor Committee</title>
+    </programme>
+    <programme start="20250509201500 +0000" stop="20250509211000 +0000" channel="BBC Parl HD">
         <title>Scottish First Minister's Questions</title>
     </programme>
-    <programme start="20250509204500 +0000" stop="20250509214500 +0000" channel="BBC Parl HD">
-        <title>Scottish Parliament</title>
+    <programme start="20250509211000 +0000" stop="20250509221000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Scottish...</title>
     </programme>
     <programme start="20250508213000 +0000" stop="20250508220000 +0000" channel="CNBC HD">
         <title>Fast Money</title>
@@ -26476,7 +26503,7 @@
         <title>Haarna Mana Hai</title>
     </programme>
     <programme start="20250508210500 +0000" stop="20250508220000 +0000" channel="New Vision TV">
-        <title>Har Lamha Purjosh</title>
+        <title>News</title>
     </programme>
     <programme start="20250508220000 +0000" stop="20250508220500 +0000" channel="New Vision TV">
         <title>Headline News</title>
@@ -33489,28 +33516,28 @@
     <programme start="20250509213000 +0000" stop="20250509223000 +0000" channel="TNTSports3 HD">
         <title>NBA: Warriors @ Timberwolves</title>
     </programme>
-    <programme start="20250508213000 +0000" stop="20250508223000 +0000" channel="TNTSports4 HD">
+    <programme start="20250508214500 +0000" stop="20250508221500 +0000" channel="TNTSports4 HD">
+        <title>MLB Plays of the Week</title>
+    </programme>
+    <programme start="20250508221500 +0000" stop="20250508231500 +0000" channel="TNTSports4 HD">
         <title>Cycling: Vuelta Espana - Stage 5</title>
     </programme>
-    <programme start="20250508223000 +0000" stop="20250509000000 +0000" channel="TNTSports4 HD">
+    <programme start="20250508231500 +0000" stop="20250509004500 +0000" channel="TNTSports4 HD">
         <title>Ultimate Pool</title>
     </programme>
-    <programme start="20250509000000 +0000" stop="20250509010000 +0000" channel="TNTSports4 HD">
+    <programme start="20250509004500 +0000" stop="20250509014500 +0000" channel="TNTSports4 HD">
         <title>Snooker World Championship Review</title>
     </programme>
-    <programme start="20250509010000 +0000" stop="20250509020000 +0000" channel="TNTSports4 HD">
+    <programme start="20250509014500 +0000" stop="20250509024500 +0000" channel="TNTSports4 HD">
         <title>HSBC SVNS Highlights - Los Angeles</title>
     </programme>
-    <programme start="20250509020000 +0000" stop="20250509030000 +0000" channel="TNTSports4 HD">
+    <programme start="20250509024500 +0000" stop="20250509034500 +0000" channel="TNTSports4 HD">
         <title>Superbike WC Highlights</title>
     </programme>
-    <programme start="20250509030000 +0000" stop="20250509040000 +0000" channel="TNTSports4 HD">
+    <programme start="20250509034500 +0000" stop="20250509044500 +0000" channel="TNTSports4 HD">
         <title>UFC Countdown: 315</title>
     </programme>
-    <programme start="20250509040000 +0000" stop="20250509043000 +0000" channel="TNTSports4 HD">
-        <title>UCL Stories of the Finals</title>
-    </programme>
-    <programme start="20250509043000 +0000" stop="20250509050000 +0000" channel="TNTSports4 HD">
+    <programme start="20250509044500 +0000" stop="20250509050000 +0000" channel="TNTSports4 HD">
         <title>TNT Sports Reload</title>
     </programme>
     <programme start="20250509050000 +0000" stop="20250509063000 +0000" channel="TNTSports4 HD">
@@ -35625,10 +35652,10 @@
     <programme start="20250509015000 +0000" stop="20250509015500 +0000" channel="BBC One ScotHD">
         <title>Weather for the Week Ahead</title>
     </programme>
-    <programme start="20250509015500 +0000" stop="20250509062500 +0000" channel="BBC One ScotHD">
+    <programme start="20250509015500 +0000" stop="20250509050000 +0000" channel="BBC One ScotHD">
         <title>BBC News</title>
     </programme>
-    <programme start="20250509062500 +0000" stop="20250509083000 +0000" channel="BBC One ScotHD">
+    <programme start="20250509050000 +0000" stop="20250509083000 +0000" channel="BBC One ScotHD">
         <title>Breakfast</title>
     </programme>
     <programme start="20250509083000 +0000" stop="20250509094500 +0000" channel="BBC One ScotHD">
@@ -35805,10 +35832,7 @@
     <programme start="20250508234500 +0000" stop="20250509001500 +0000" channel="BBC One NI HD">
         <title>Newscast</title>
     </programme>
-    <programme start="20250509001500 +0000" stop="20250509011500 +0000" channel="BBC One NI HD">
-        <title>Who Do You Think You Are?</title>
-    </programme>
-    <programme start="20250509011500 +0000" stop="20250509050000 +0000" channel="BBC One NI HD">
+    <programme start="20250509001500 +0000" stop="20250509050000 +0000" channel="BBC One NI HD">
         <title>BBC News</title>
     </programme>
     <programme start="20250509050000 +0000" stop="20250509083000 +0000" channel="BBC One NI HD">

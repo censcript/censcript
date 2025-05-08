@@ -135,6 +135,9 @@
     <programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind</title>
     </programme>
+    <programme start="20250513180000 +0000" stop="20250513183000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Match Officials Mic&#039;d Up</title>
+    </programme>
     <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -296,8 +299,5 @@
     </programme>
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
-    </programme>
-    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
     </programme>
 </tv>
