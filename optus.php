@@ -219,7 +219,7 @@
     <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - West Ham United v Nottingham Forest</title>
     </programme>
     <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
