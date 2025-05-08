@@ -288,16 +288,16 @@
     <programme start="20250523110000 +0000" stop="20250523120000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
+    <programme start="20250523153000 +0000" stop="20250523160000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Preview</title>
+    </programme>
+    <programme start="20250523213000 +0000" stop="20250523223000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Team Talks</title>
+    </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
     </programme>
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
-    </programme>
-    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
-    </programme>
-    <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Gimcheon</title>
     </programme>
 </tv>
