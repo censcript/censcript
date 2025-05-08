@@ -14856,26 +14856,26 @@
     <programme start="20250509223000 +0000" stop="20250509233000 +0000" channel="BBC NEWS HD">
         <title>The President's Path</title>
     </programme>
-    <programme start="20250508201000 +0000" stop="20250508221000 +0000" channel="BBC Parl HD">
+    <programme start="20250508214000 +0000" stop="20250508232500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Employment Rights Bill, Part 2</title>
     </programme>
-    <programme start="20250508221000 +0000" stop="20250509001000 +0000" channel="BBC Parl HD">
+    <programme start="20250508232500 +0000" stop="20250509005500 +0000" channel="BBC Parl HD">
         <title>House of Lords - Employment Rights Bill, Part 3</title>
     </programme>
-    <programme start="20250509001000 +0000" stop="20250509011500 +0000" channel="BBC Parl HD">
-        <title>House of Lords - Employment Rights Bill, Part 4</title>
-    </programme>
-    <programme start="20250509011500 +0000" stop="20250509015500 +0000" channel="BBC Parl HD">
+    <programme start="20250509005500 +0000" stop="20250509014000 +0000" channel="BBC Parl HD">
         <title>Environment, Food and Rural Affairs Questions</title>
     </programme>
-    <programme start="20250509015500 +0000" stop="20250509021500 +0000" channel="BBC Parl HD">
+    <programme start="20250509014000 +0000" stop="20250509015500 +0000" channel="BBC Parl HD">
         <title>Solicitor General Questions</title>
     </programme>
-    <programme start="20250509021500 +0000" stop="20250509031500 +0000" channel="BBC Parl HD">
+    <programme start="20250509015500 +0000" stop="20250509023000 +0000" channel="BBC Parl HD">
         <title>Commons Business Questions</title>
     </programme>
-    <programme start="20250509031500 +0000" stop="20250509090000 +0000" channel="BBC Parl HD">
-        <title>House of Commons</title>
+    <programme start="20250509023000 +0000" stop="20250509044000 +0000" channel="BBC Parl HD">
+        <title>Scottish Parliament - Programme for Government</title>
+    </programme>
+    <programme start="20250509044000 +0000" stop="20250509090000 +0000" channel="BBC Parl HD">
+        <title>This is BBC Parliament</title>
     </programme>
     <programme start="20250509090000 +0000" stop="20250509140000 +0000" channel="BBC Parl HD">
         <title>Live House of Lords</title>
