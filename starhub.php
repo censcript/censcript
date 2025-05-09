@@ -4068,9 +4068,6 @@
     <programme start="20250508205300 +0000" stop="20250508205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20250508205600 +0000" stop="20250508210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
     <programme start="20250508210000 +0000" stop="20250508220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
     </programme>
@@ -7755,9 +7752,6 @@
     <programme start="20250508200000 +0000" stop="20250508203000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>
     </programme>
-    <programme start="20250508203000 +0000" stop="20250508210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Joe Biden One</title>
-    </programme>
     <programme start="20250508210000 +0000" stop="20250508213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
@@ -7794,8 +7788,11 @@
     <programme start="20250509020000 +0000" stop="20250509023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250509023000 +0000" stop="20250509030000 +0000" channel="BBC World News HD.starhub">
-        <title>The Joe Biden One</title>
+    <programme start="20250509023000 +0000" stop="20250509024500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20250509024500 +0000" stop="20250509030000 +0000" channel="BBC World News HD.starhub">
+        <title>Sportsday</title>
     </programme>
     <programme start="20250509030000 +0000" stop="20250509033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -8275,7 +8272,7 @@
         <title>Thundu</title>
     </programme>
     <programme start="20250509073000 +0000" stop="20250509103000 +0000" channel="Asianet Movies.starhub">
-        <title>Teja Bhai &amp; Family</title>
+        <title>Thejabhai &amp; Family</title>
     </programme>
     <programme start="20250509103000 +0000" stop="20250509133000 +0000" channel="Asianet Movies.starhub">
         <title>Siren 108</title>
