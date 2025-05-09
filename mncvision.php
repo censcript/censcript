@@ -2248,7 +2248,135 @@
 <programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="CGTN Documentary.mncvision">
     <title>Nankai: A School..., Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Channel News Asia.mncvision">
+    <title>An Unequal Heatwave</title>
+</programme>
+<programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20250509190000 +0000" stop="20250509200000 +0000" channel="Channel News Asia.mncvision">
+    <title>Echoes Of Change, Ep 3</title>
+</programme>
+<programme start="20250509200000 +0000" stop="20250509210000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250509220000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Last Defenders S2, Ep 2</title>
+</programme>
+<programme start="20250509220000 +0000" stop="20250509230000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250509233000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250509233000 +0000" stop="20250510000000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 11</title>
+</programme>
+<programme start="20250510000000 +0000" stop="20250510003000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510003000 +0000" stop="20250510010000 +0000" channel="Channel News Asia.mncvision">
+    <title>Tender Loving Food, Ep 3</title>
+</programme>
+<programme start="20250510010000 +0000" stop="20250510013000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510013000 +0000" stop="20250510020000 +0000" channel="Channel News Asia.mncvision">
+    <title>Lunch With Us, Ep 6</title>
+</programme>
+<programme start="20250510020000 +0000" stop="20250510020200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510020200 +0000" stop="20250510030000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Last Defenders S2, Ep 2</title>
+</programme>
+<programme start="20250510030000 +0000" stop="20250510033000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510033000 +0000" stop="20250510040000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 11</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510043000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510043000 +0000" stop="20250510050000 +0000" channel="Channel News Asia.mncvision">
+    <title>Sour, Salty &amp; Alive, Ep 8</title>
+</programme>
+<programme start="20250510050000 +0000" stop="20250510050200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510050200 +0000" stop="20250510060000 +0000" channel="Channel News Asia.mncvision">
+    <title>Insight, Ep 3</title>
+</programme>
+<programme start="20250510060000 +0000" stop="20250510063000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510063000 +0000" stop="20250510070000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 19</title>
+</programme>
+<programme start="20250510070000 +0000" stop="20250510073000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="Channel News Asia.mncvision">
+    <title>Lunch With Us, Ep 6</title>
+</programme>
+<programme start="20250510080000 +0000" stop="20250510080200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510080200 +0000" stop="20250510090000 +0000" channel="Channel News Asia.mncvision">
+    <title>Has Internet Broken..., Ep 1</title>
+</programme>
+<programme start="20250510090000 +0000" stop="20250510093000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510093000 +0000" stop="20250510100000 +0000" channel="Channel News Asia.mncvision">
+    <title>Tender Loving Food, Ep 3</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510103000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20250510103000 +0000" stop="20250510110000 +0000" channel="Channel News Asia.mncvision">
+    <title>Lunch With Us, Ep 6</title>
+</programme>
+<programme start="20250510110000 +0000" stop="20250510110200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510110200 +0000" stop="20250510120000 +0000" channel="Channel News Asia.mncvision">
+    <title>Japan Hour, Ep 19</title>
+</programme>
+<programme start="20250510120000 +0000" stop="20250510123000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20250510123000 +0000" stop="20250510130000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 4</title>
+</programme>
+<programme start="20250510130000 +0000" stop="20250510130200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510130200 +0000" stop="20250510140000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Internet &amp; Us</title>
+</programme>
+<programme start="20250510140000 +0000" stop="20250510143000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20250510143000 +0000" stop="20250510150000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 2</title>
+</programme>
+<programme start="20250510150000 +0000" stop="20250510150300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510150300 +0000" stop="20250510160000 +0000" channel="Channel News Asia.mncvision">
+    <title>Japan Hour, Ep 19</title>
+</programme>
+<programme start="20250510160000 +0000" stop="20250510160300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250510160300 +0000" stop="20250510163000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 19</title>
+</programme>
+<programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 4</title>
+</programme>
 <programme start="20250509173800 +0000" stop="20250509192100 +0000" channel="CINEEDGE.mncvision">
     <title>Direct Action</title>
 </programme>
@@ -2288,8 +2416,129 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="CINEEDGE.mncvision">
     <title>Submerged</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509173800 +0000" stop="20250509192100 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Direct Action</title>
+</programme>
+<programme start="20250509192100 +0000" stop="20250509212100 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250509212100 +0000" stop="20250509230300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>One Shot</title>
+</programme>
+<programme start="20250509230300 +0000" stop="20250510011000 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510011000 +0000" stop="20250510025900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Killerman</title>
+</programme>
+<programme start="20250510025900 +0000" stop="20250510043500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510043500 +0000" stop="20250510061600 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Edison</title>
+</programme>
+<programme start="20250510061600 +0000" stop="20250510083200 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510083200 +0000" stop="20250510101800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Agent Jade Black</title>
+</programme>
+<programme start="20250510101800 +0000" stop="20250510114700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510114700 +0000" stop="20250510133000 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Direct Action</title>
+</programme>
+<programme start="20250510133000 +0000" stop="20250510153000 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Submerged</title>
+</programme>
+<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="CNBC.mncvision">
+    <title>The Exchange</title>
+</programme>
+<programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="CNBC.mncvision">
+    <title>Power Lunch</title>
+</programme>
+<programme start="20250509190000 +0000" stop="20250509200000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell</title>
+</programme>
+<programme start="20250509200000 +0000" stop="20250509210000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell: Overtime</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250509220000 +0000" channel="CNBC.mncvision">
+    <title>Fast Money</title>
+</programme>
+<programme start="20250509220000 +0000" stop="20250509223000 +0000" channel="CNBC.mncvision">
+    <title>Sustainable Future</title>
+</programme>
+<programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="CNBC.mncvision">
+    <title>Who Owns...?</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250510000000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell: Overtime</title>
+</programme>
+<programme start="20250510000000 +0000" stop="20250510010000 +0000" channel="CNBC.mncvision">
+    <title>Fast Money</title>
+</programme>
+<programme start="20250510010000 +0000" stop="20250510013000 +0000" channel="CNBC.mncvision">
+    <title>On The Record</title>
+</programme>
+<programme start="20250510013000 +0000" stop="20250510020000 +0000" channel="CNBC.mncvision">
+    <title>Conversation</title>
+</programme>
+<programme start="20250510020000 +0000" stop="20250510023000 +0000" channel="CNBC.mncvision">
+    <title>Channel Japan</title>
+</programme>
+<programme start="20250510023000 +0000" stop="20250510030000 +0000" channel="CNBC.mncvision">
+    <title>Meet China</title>
+</programme>
+<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="CNBC.mncvision">
+    <title>American Greed</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510060000 +0000" channel="CNBC.mncvision">
+    <title>PGA Tour: CJ CUP Byron Nelson</title>
+</programme>
+<programme start="20250510060000 +0000" stop="20250510070000 +0000" channel="CNBC.mncvision">
+    <title>European Le Mans</title>
+</programme>
+<programme start="20250510070000 +0000" stop="20250510073000 +0000" channel="CNBC.mncvision">
+    <title>Michelin Le Mans Cup</title>
+</programme>
+<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="CNBC.mncvision">
+    <title>Barcelona Marathon</title>
+</programme>
+<programme start="20250510080000 +0000" stop="20250510100000 +0000" channel="CNBC.mncvision">
+    <title>Late Night With Seth Meyers</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510103000 +0000" channel="CNBC.mncvision">
+    <title>CNBC Meets</title>
+</programme>
+<programme start="20250510103000 +0000" stop="20250510110000 +0000" channel="CNBC.mncvision">
+    <title>Who Owns...?</title>
+</programme>
+<programme start="20250510110000 +0000" stop="20250510113000 +0000" channel="CNBC.mncvision">
+    <title>On The Record</title>
+</programme>
+<programme start="20250510113000 +0000" stop="20250510120000 +0000" channel="CNBC.mncvision">
+    <title>Conversation</title>
+</programme>
+<programme start="20250510120000 +0000" stop="20250510140000 +0000" channel="CNBC.mncvision">
+    <title>The Tonight Show, Jimmy Fallon</title>
+</programme>
+<programme start="20250510140000 +0000" stop="20250510143000 +0000" channel="CNBC.mncvision">
+    <title>CNBC Meets</title>
+</programme>
+<programme start="20250510143000 +0000" stop="20250510150000 +0000" channel="CNBC.mncvision">
+    <title>Who Owns...?</title>
+</programme>
+<programme start="20250510150000 +0000" stop="20250510160000 +0000" channel="CNBC.mncvision">
+    <title>American Greed</title>
+</programme>
+<programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="CNBC.mncvision">
+    <title>Late Night With Seth Meyers</title>
+</programme>
 <programme start="20250509172000 +0000" stop="20250509181500 +0000" channel="Crime Investigation.mncvision">
     <title>Anatomy Of A Crime, Ep 5</title>
 </programme>
@@ -5215,99 +5464,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="LIFE.mncvision">
-    <title>Talk With CGN</title>
-</programme>
-<programme start="20250509180000 +0000" stop="20250509183000 +0000" channel="LIFE.mncvision">
-    <title>Love Revolution</title>
-</programme>
-<programme start="20250509183000 +0000" stop="20250509193000 +0000" channel="LIFE.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20250509193000 +0000" stop="20250509203000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20250509203000 +0000" stop="20250509210000 +0000" channel="LIFE.mncvision">
-    <title>Solusi</title>
-</programme>
-<programme start="20250509210000 +0000" stop="20250509220000 +0000" channel="LIFE.mncvision">
-    <title>Building A Better You</title>
-</programme>
-<programme start="20250509220000 +0000" stop="20250509230000 +0000" channel="LIFE.mncvision">
-    <title>GEBADA: Gerakan Baca Dengar...</title>
-</programme>
-<programme start="20250509230000 +0000" stop="20250510000000 +0000" channel="LIFE.mncvision">
-    <title>Khotbah CGNTV Global</title>
-</programme>
-<programme start="20250510000000 +0000" stop="20250510010000 +0000" channel="LIFE.mncvision">
-    <title>Glow Series</title>
-</programme>
-<programme start="20250510010000 +0000" stop="20250510020000 +0000" channel="LIFE.mncvision">
-    <title>Daily Show</title>
-</programme>
-<programme start="20250510020000 +0000" stop="20250510030000 +0000" channel="LIFE.mncvision">
-    <title>GBI ACS</title>
-</programme>
-<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="LIFE.mncvision">
-    <title>Sekolah Minggu Gembira</title>
-</programme>
-<programme start="20250510040000 +0000" stop="20250510043000 +0000" channel="LIFE.mncvision">
-    <title>Miracle Service</title>
-</programme>
-<programme start="20250510043000 +0000" stop="20250510050000 +0000" channel="LIFE.mncvision">
-    <title>Generasi Penerobos</title>
-</programme>
-<programme start="20250510050000 +0000" stop="20250510053000 +0000" channel="LIFE.mncvision">
-    <title>Shalom Doc</title>
-</programme>
-<programme start="20250510053000 +0000" stop="20250510060000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250510060000 +0000" stop="20250510070000 +0000" channel="LIFE.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20250510070000 +0000" stop="20250510073000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="LIFE.mncvision">
-    <title>Superyouth</title>
-</programme>
-<programme start="20250510080000 +0000" stop="20250510090000 +0000" channel="LIFE.mncvision">
-    <title>Building A Better You</title>
-</programme>
-<programme start="20250510090000 +0000" stop="20250510093000 +0000" channel="LIFE.mncvision">
-    <title>Joy Kids</title>
-</programme>
-<programme start="20250510093000 +0000" stop="20250510100000 +0000" channel="LIFE.mncvision">
-    <title>AOC Teens</title>
-</programme>
-<programme start="20250510100000 +0000" stop="20250510110000 +0000" channel="LIFE.mncvision">
-    <title>Daily Show</title>
-</programme>
-<programme start="20250510110000 +0000" stop="20250510120000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20250510120000 +0000" stop="20250510130000 +0000" channel="LIFE.mncvision">
-    <title>AnugerahNya</title>
-</programme>
-<programme start="20250510130000 +0000" stop="20250510133000 +0000" channel="LIFE.mncvision">
-    <title>Shalom Doc</title>
-</programme>
-<programme start="20250510133000 +0000" stop="20250510140000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250510140000 +0000" stop="20250510153000 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Minggu GSKI Jakarta</title>
-</programme>
-<programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="LIFE.mncvision">
-    <title>This Is My Song</title>
-</programme>
-<programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="LIFE.mncvision">
-    <title>Solusi</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250509173500 +0000" stop="20250509183500 +0000" channel="Lifetime.mncvision">
     <title>Hit-And-Miss Tour, Ep 10</title>
 </programme>
