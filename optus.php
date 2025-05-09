@@ -1,6 +1,3 @@
-    <programme start="20250509153000 +0000" stop="20250509160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Nagoya v Urawa Red Diamonds</title>
+    </programme>
+    <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Gimcheon</title>
     </programme>
