@@ -4027,9 +4027,6 @@
     <programme start="20250508171000 +0000" stop="20250508173500 +0000" channel="NHK World Premium HD.starhub">
         <title>Haru&#039;s Weekend at Japanese Old House Cafe</title>
     </programme>
-    <programme start="20250508173500 +0000" stop="20250508174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>100 Beautiful Mountains of Japan Mini</title>
-    </programme>
     <programme start="20250508174000 +0000" stop="20250508174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
@@ -4051,12 +4048,6 @@
     <programme start="20250508193000 +0000" stop="20250508195800 +0000" channel="NHK World Premium HD.starhub">
         <title>Where We Call Home Encore (B)</title>
     </programme>
-    <programme start="20250508195800 +0000" stop="20250508200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250508200000 +0000" stop="20250508201000 +0000" channel="NHK World Premium HD.starhub">
-        <title>TV Exercise</title>
-    </programme>
     <programme start="20250508201000 +0000" stop="20250508202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Health for Today</title>
     </programme>
@@ -4065,9 +4056,6 @@
     </programme>
     <programme start="20250508205300 +0000" stop="20250508205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
-    </programme>
-    <programme start="20250508205600 +0000" stop="20250508210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20250508210000 +0000" stop="20250508220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>

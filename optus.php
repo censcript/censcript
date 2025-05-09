@@ -1,6 +1,3 @@
-    <programme start="20250509110000 +0000" stop="20250509120000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250509153000 +0000" stop="20250509160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
+    </programme>
+    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
     </programme>
