@@ -24,7 +24,7 @@ urls = [
     "https://manusiabiasa.serv00.net/cen/epg/starhub.php",
     "https://manusiabiasa.serv00.net/cen/epg/mewatch.php",
     #"https://cindo.mra.my.id/epg/vid.php",
-    #"https://manusiabiasa.serv00.net/cen/epg/optus.php",
+    "https://manusiabiasa.serv00.net/cen/epg/optus.php",
     #"https://manusiabiasa.serv00.net/cen/epg/astro.php",
     #"https://manusiabiasa.serv00.net/cen/epg/antik.php",
     #"https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
