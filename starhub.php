@@ -3307,8 +3307,8 @@
     <programme start="20250509094500 +0000" stop="20250509135000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M47 - Rajasthan Royals vs Gujarat Titans</title>
     </programme>
-    <programme start="20250509135000 +0000" stop="20250509180000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>TATA Indian Premier League 2025: M59 - Lucknow Super Giants vs Royal Challengers</title>
+    <programme start="20250509135000 +0000" stop="20250509175000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2025: M01 - Kolkata Knight Riders vs Royal Challenger</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
