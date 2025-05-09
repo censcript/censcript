@@ -170,10 +170,10 @@
 <title>Rating 5</title>
 </programme>
 <programme start="20250509083000 +0000" stop="20250509090000 +0000" channel="GTV.vision">
-<title>Shaun The Sheep</title>
+<title>Ini Faktanya</title>
 </programme>
 <programme start="20250509090000 +0000" stop="20250509100000 +0000" channel="GTV.vision">
-<title>Ini Faktanya</title>
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250509100000 +0000" stop="20250509110000 +0000" channel="GTV.vision">
 <title>Doraemon The Movie (GTV)</title>
@@ -194,7 +194,7 @@
 <title>Buletin iNews Malam</title>
 </programme>
 <programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="GTV.vision">
-<title>Crime.KV</title>
+<title>Superhero Kocak</title>
 </programme>
 <programme start="20250509190000 +0000" stop="20250509220000 +0000" channel="GTV.vision">
 <title>Abdel Vs Temon Masih Bukan...</title>
@@ -208,11 +208,8 @@
 <programme start="20250510000000 +0000" stop="20250510013000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20250510013000 +0000" stop="20250510023000 +0000" channel="GTV.vision">
+<programme start="20250510013000 +0000" stop="20250510030000 +0000" channel="GTV.vision">
 <title>Zak Storm</title>
-</programme>
-<programme start="20250510023000 +0000" stop="20250510030000 +0000" channel="GTV.vision">
-<title>Bleach</title>
 </programme>
 <programme start="20250510030000 +0000" stop="20250510033000 +0000" channel="GTV.vision">
 <title>Naruto Shippuden</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250510021500 +0000" stop="20250510030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
+</programme>
+<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
