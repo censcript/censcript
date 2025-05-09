@@ -1,6 +1,3 @@
-    <programme start="20250509093000 +0000" stop="20250509100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250509110000 +0000" stop="20250509120000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Welcome to the Weekend</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
+    </programme>
+    <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Seoul v Suwon FC</title>
     </programme>

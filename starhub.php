@@ -7390,13 +7390,13 @@
     <programme start="20250508173000 +0000" stop="20250508180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Tokyo&#039;s Bobsled Factories</title>
     </programme>
-    <programme start="20250508180000 +0000" stop="20250508182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250508180000 +0000" stop="20250508182900 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsroom Tokyo</title>
     </programme>
-    <programme start="20250508182800 +0000" stop="20250508184300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250508182900 +0000" stop="20250508184400 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Direct Talk</title>
     </programme>
-    <programme start="20250508184300 +0000" stop="20250508185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250508184400 +0000" stop="20250508185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Matsuri: The Heartbeat of Japan</title>
     </programme>
     <programme start="20250508185500 +0000" stop="20250508190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
@@ -7448,7 +7448,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250509023000 +0000" stop="20250509030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Inside Japan&#039;s Mega Food &amp; Beverage Exhibition</title>
     </programme>
     <programme start="20250509030000 +0000" stop="20250509033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7478,7 +7478,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250509073000 +0000" stop="20250509080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Inside Japan&#039;s Mega Food &amp; Beverage Exhibition</title>
     </programme>
     <programme start="20250509080000 +0000" stop="20250509083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7520,7 +7520,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250509133000 +0000" stop="20250509140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Inside Japan&#039;s Mega Food &amp; Beverage Exhibition</title>
     </programme>
     <programme start="20250509140000 +0000" stop="20250509143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -8177,7 +8177,7 @@
         <title>The Kapil Sharma Show</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508161500 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News</title>
+        <title>ABC Late News (2025)</title>
     </programme>
     <programme start="20250508161500 +0000" stop="20250508163000 +0000" channel="ABC Australia HD.starhub">
         <title>The Business (2025)</title>
@@ -8185,8 +8185,11 @@
     <programme start="20250508163000 +0000" stop="20250508173000 +0000" channel="ABC Australia HD.starhub">
         <title>Making a Nation</title>
     </programme>
-    <programme start="20250508173000 +0000" stop="20250508183000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250508173000 +0000" stop="20250508182500 +0000" channel="ABC Australia HD.starhub">
         <title>Day 30: 3 People Remain</title>
+    </programme>
+    <programme start="20250508182500 +0000" stop="20250508183000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Truth About Snakes in Australia</title>
     </programme>
     <programme start="20250508183000 +0000" stop="20250508190000 +0000" channel="ABC Australia HD.starhub">
         <title>The Pacific (2025)</title>
@@ -8204,13 +8207,13 @@
         <title>ABC News At Noon (2025)</title>
     </programme>
     <programme start="20250509030000 +0000" stop="20250509040000 +0000" channel="ABC Australia HD.starhub">
-        <title>Gardening Australia S36</title>
+        <title>Autumn: Suburban Homestead &amp; Dahlia Farm</title>
     </programme>
-    <programme start="20250509040000 +0000" stop="20250509043000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250509040000 +0000" stop="20250509042500 +0000" channel="ABC Australia HD.starhub">
         <title>Big Blue Ocean</title>
     </programme>
-    <programme start="20250509043000 +0000" stop="20250509050000 +0000" channel="ABC Australia HD.starhub">
-        <title>The Elders - Miriam-Rose Ungunmerr Baumann</title>
+    <programme start="20250509042500 +0000" stop="20250509050000 +0000" channel="ABC Australia HD.starhub">
+        <title>Miriam-Rose Ungunmerr Baumann</title>
     </programme>
     <programme start="20250509050000 +0000" stop="20250509053000 +0000" channel="ABC Australia HD.starhub">
         <title>The Pacific (2025)</title>
@@ -8221,11 +8224,11 @@
     <programme start="20250509060000 +0000" stop="20250509070000 +0000" channel="ABC Australia HD.starhub">
         <title>Afternoon Briefing (2025)</title>
     </programme>
-    <programme start="20250509070000 +0000" stop="20250509080000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250509070000 +0000" stop="20250509075500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News with Joe O&#039;Brien (2025)</title>
     </programme>
-    <programme start="20250509080000 +0000" stop="20250509085500 +0000" channel="ABC Australia HD.starhub">
-        <title>Gardening Australia S36</title>
+    <programme start="20250509075500 +0000" stop="20250509085500 +0000" channel="ABC Australia HD.starhub">
+        <title>Autumn: Suburban Homestead &amp; Dahlia Farm</title>
     </programme>
     <programme start="20250509085500 +0000" stop="20250509092500 +0000" channel="ABC Australia HD.starhub">
         <title>Camperdown, VIC</title>
@@ -8233,17 +8236,17 @@
     <programme start="20250509092500 +0000" stop="20250509122500 +0000" channel="ABC Australia HD.starhub">
         <title>Round 9 - St Kilda v Carlton</title>
     </programme>
-    <programme start="20250509122500 +0000" stop="20250509130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250509122500 +0000" stop="20250509125500 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250509130000 +0000" stop="20250509134500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250509125500 +0000" stop="20250509134500 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America: Weekend Edition (2025)</title>
     </programme>
     <programme start="20250509134500 +0000" stop="20250509141500 +0000" channel="ABC Australia HD.starhub">
         <title>Close Of Business (2025)</title>
     </programme>
     <programme start="20250509141500 +0000" stop="20250509143000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC News</title>
+        <title>ABC Late News (2025)</title>
     </programme>
     <programme start="20250509143000 +0000" stop="20250509150000 +0000" channel="ABC Australia HD.starhub">
         <title>Asia News Week (2025)</title>
@@ -8252,7 +8255,7 @@
         <title>The World (2025)</title>
     </programme>
     <programme start="20250509153000 +0000" stop="20250509163000 +0000" channel="ABC Australia HD.starhub">
-        <title>Gardening Australia S36</title>
+        <title>Autumn: Suburban Homestead &amp; Dahlia Farm</title>
     </programme>
     <programme start="20250508133000 +0000" stop="20250508163000 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
