@@ -1,6 +1,3 @@
-    <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250510000000 +0000" stop="20250510023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Racing Louisville FC v Gotham FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Gimcheon</title>
+    </programme>
+    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
+        <title>DFB Pokal - Bielefeld v Stuttgart</title>
     </programme>

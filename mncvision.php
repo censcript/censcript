@@ -1528,7 +1528,90 @@
 <programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Originals</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250509180000 +0000" stop="20250509180300 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20250509180300 +0000" stop="20250509190000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250509190000 +0000" stop="20250509200000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250509200000 +0000" stop="20250509210000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250509213000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250509213000 +0000" stop="20250509223000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250509230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250509230300 +0000" stop="20250510003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250510003000 +0000" stop="20250510011500 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20250510011500 +0000" stop="20250510021500 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250510021500 +0000" stop="20250510030000 +0000" channel="BTV.mncvision">
+    <title>Endeus</title>
+</programme>
+<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250510050000 +0000" stop="20250510060000 +0000" channel="BTV.mncvision">
+    <title>Dunia RANS</title>
+</programme>
+<programme start="20250510060000 +0000" stop="20250510070000 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Didi &amp; Friends</title>
+</programme>
+<programme start="20250510070000 +0000" stop="20250510080000 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Motu Patlu</title>
+</programme>
+<programme start="20250510080000 +0000" stop="20250510090000 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Boonie Bears</title>
+</programme>
+<programme start="20250510090000 +0000" stop="20250510100000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510110000 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20250510110000 +0000" stop="20250510120000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250510120000 +0000" stop="20250510130000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250510130000 +0000" stop="20250510140000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250510140000 +0000" stop="20250510150000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250510150000 +0000" stop="20250510160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="BTV.mncvision">
+    <title>Dari Nol</title>
+</programme>
+<programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="BTV.mncvision">
+    <title>Monster Jam</title>
+</programme>
 <programme start="20250509175400 +0000" stop="20250509193500 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
@@ -2165,135 +2248,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="CGTN Documentary.mncvision">
     <title>Nankai: A School..., Ep 2</title>
 </programme>
-<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="Channel News Asia.mncvision">
-    <title>An Unequal Heatwave</title>
-</programme>
-<programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="Channel News Asia.mncvision">
-    <title>Singapore Tonight</title>
-</programme>
-<programme start="20250509190000 +0000" stop="20250509200000 +0000" channel="Channel News Asia.mncvision">
-    <title>Echoes Of Change, Ep 3</title>
-</programme>
-<programme start="20250509200000 +0000" stop="20250509210000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Tonight</title>
-</programme>
-<programme start="20250509210000 +0000" stop="20250509220000 +0000" channel="Channel News Asia.mncvision">
-    <title>The Last Defenders S2, Ep 2</title>
-</programme>
-<programme start="20250509220000 +0000" stop="20250509230000 +0000" channel="Channel News Asia.mncvision">
-    <title>Singapore Tonight</title>
-</programme>
-<programme start="20250509230000 +0000" stop="20250509233000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250509233000 +0000" stop="20250510000000 +0000" channel="Channel News Asia.mncvision">
-    <title>On The Red Dot, Ep 11</title>
-</programme>
-<programme start="20250510000000 +0000" stop="20250510003000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510003000 +0000" stop="20250510010000 +0000" channel="Channel News Asia.mncvision">
-    <title>Tender Loving Food, Ep 3</title>
-</programme>
-<programme start="20250510010000 +0000" stop="20250510013000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510013000 +0000" stop="20250510020000 +0000" channel="Channel News Asia.mncvision">
-    <title>Lunch With Us, Ep 6</title>
-</programme>
-<programme start="20250510020000 +0000" stop="20250510020200 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510020200 +0000" stop="20250510030000 +0000" channel="Channel News Asia.mncvision">
-    <title>The Last Defenders S2, Ep 2</title>
-</programme>
-<programme start="20250510030000 +0000" stop="20250510033000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510033000 +0000" stop="20250510040000 +0000" channel="Channel News Asia.mncvision">
-    <title>On The Red Dot, Ep 11</title>
-</programme>
-<programme start="20250510040000 +0000" stop="20250510043000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510043000 +0000" stop="20250510050000 +0000" channel="Channel News Asia.mncvision">
-    <title>Sour, Salty &amp; Alive, Ep 8</title>
-</programme>
-<programme start="20250510050000 +0000" stop="20250510050200 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510050200 +0000" stop="20250510060000 +0000" channel="Channel News Asia.mncvision">
-    <title>Insight, Ep 3</title>
-</programme>
-<programme start="20250510060000 +0000" stop="20250510063000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510063000 +0000" stop="20250510070000 +0000" channel="Channel News Asia.mncvision">
-    <title>CNA Correspondent, Ep 19</title>
-</programme>
-<programme start="20250510070000 +0000" stop="20250510073000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="Channel News Asia.mncvision">
-    <title>Lunch With Us, Ep 6</title>
-</programme>
-<programme start="20250510080000 +0000" stop="20250510080200 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510080200 +0000" stop="20250510090000 +0000" channel="Channel News Asia.mncvision">
-    <title>Has Internet Broken..., Ep 1</title>
-</programme>
-<programme start="20250510090000 +0000" stop="20250510093000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510093000 +0000" stop="20250510100000 +0000" channel="Channel News Asia.mncvision">
-    <title>Tender Loving Food, Ep 3</title>
-</programme>
-<programme start="20250510100000 +0000" stop="20250510103000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Now</title>
-</programme>
-<programme start="20250510103000 +0000" stop="20250510110000 +0000" channel="Channel News Asia.mncvision">
-    <title>Lunch With Us, Ep 6</title>
-</programme>
-<programme start="20250510110000 +0000" stop="20250510110200 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510110200 +0000" stop="20250510120000 +0000" channel="Channel News Asia.mncvision">
-    <title>Japan Hour, Ep 19</title>
-</programme>
-<programme start="20250510120000 +0000" stop="20250510123000 +0000" channel="Channel News Asia.mncvision">
-    <title>Asia Tonight</title>
-</programme>
-<programme start="20250510123000 +0000" stop="20250510130000 +0000" channel="Channel News Asia.mncvision">
-    <title>Money Mind, Ep 4</title>
-</programme>
-<programme start="20250510130000 +0000" stop="20250510130200 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510130200 +0000" stop="20250510140000 +0000" channel="Channel News Asia.mncvision">
-    <title>The Internet &amp; Us</title>
-</programme>
-<programme start="20250510140000 +0000" stop="20250510143000 +0000" channel="Channel News Asia.mncvision">
-    <title>Singapore Tonight</title>
-</programme>
-<programme start="20250510143000 +0000" stop="20250510150000 +0000" channel="Channel News Asia.mncvision">
-    <title>On The Red Dot, Ep 2</title>
-</programme>
-<programme start="20250510150000 +0000" stop="20250510150300 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510150300 +0000" stop="20250510160000 +0000" channel="Channel News Asia.mncvision">
-    <title>Japan Hour, Ep 19</title>
-</programme>
-<programme start="20250510160000 +0000" stop="20250510160300 +0000" channel="Channel News Asia.mncvision">
-    <title>Headline News</title>
-</programme>
-<programme start="20250510160300 +0000" stop="20250510163000 +0000" channel="Channel News Asia.mncvision">
-    <title>CNA Correspondent, Ep 19</title>
-</programme>
-<programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="Channel News Asia.mncvision">
-    <title>Money Mind, Ep 4</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250509173800 +0000" stop="20250509192100 +0000" channel="CINEEDGE.mncvision">
     <title>Direct Action</title>
 </programme>
@@ -2333,129 +2288,8 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="CINEEDGE.mncvision">
     <title>Submerged</title>
 </programme>
-<programme start="20250509173800 +0000" stop="20250509192100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Direct Action</title>
-</programme>
-<programme start="20250509192100 +0000" stop="20250509212100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250509212100 +0000" stop="20250509230300 +0000" channel="CINEEDGE HD.mncvision">
-    <title>One Shot</title>
-</programme>
-<programme start="20250509230300 +0000" stop="20250510011000 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250510011000 +0000" stop="20250510025900 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Killerman</title>
-</programme>
-<programme start="20250510025900 +0000" stop="20250510043500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250510043500 +0000" stop="20250510061600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Edison</title>
-</programme>
-<programme start="20250510061600 +0000" stop="20250510083200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250510083200 +0000" stop="20250510101800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Agent Jade Black</title>
-</programme>
-<programme start="20250510101800 +0000" stop="20250510114700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250510114700 +0000" stop="20250510133000 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Direct Action</title>
-</programme>
-<programme start="20250510133000 +0000" stop="20250510153000 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Submerged</title>
-</programme>
-<programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="CNBC.mncvision">
-    <title>The Exchange</title>
-</programme>
-<programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="CNBC.mncvision">
-    <title>Power Lunch</title>
-</programme>
-<programme start="20250509190000 +0000" stop="20250509200000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell</title>
-</programme>
-<programme start="20250509200000 +0000" stop="20250509210000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell: Overtime</title>
-</programme>
-<programme start="20250509210000 +0000" stop="20250509220000 +0000" channel="CNBC.mncvision">
-    <title>Fast Money</title>
-</programme>
-<programme start="20250509220000 +0000" stop="20250509223000 +0000" channel="CNBC.mncvision">
-    <title>Sustainable Future</title>
-</programme>
-<programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="CNBC.mncvision">
-    <title>Who Owns...?</title>
-</programme>
-<programme start="20250509230000 +0000" stop="20250510000000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell: Overtime</title>
-</programme>
-<programme start="20250510000000 +0000" stop="20250510010000 +0000" channel="CNBC.mncvision">
-    <title>Fast Money</title>
-</programme>
-<programme start="20250510010000 +0000" stop="20250510013000 +0000" channel="CNBC.mncvision">
-    <title>On The Record</title>
-</programme>
-<programme start="20250510013000 +0000" stop="20250510020000 +0000" channel="CNBC.mncvision">
-    <title>Conversation</title>
-</programme>
-<programme start="20250510020000 +0000" stop="20250510023000 +0000" channel="CNBC.mncvision">
-    <title>Channel Japan</title>
-</programme>
-<programme start="20250510023000 +0000" stop="20250510030000 +0000" channel="CNBC.mncvision">
-    <title>Meet China</title>
-</programme>
-<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="CNBC.mncvision">
-    <title>American Greed</title>
-</programme>
-<programme start="20250510040000 +0000" stop="20250510060000 +0000" channel="CNBC.mncvision">
-    <title>PGA Tour: CJ CUP Byron Nelson</title>
-</programme>
-<programme start="20250510060000 +0000" stop="20250510070000 +0000" channel="CNBC.mncvision">
-    <title>European Le Mans</title>
-</programme>
-<programme start="20250510070000 +0000" stop="20250510073000 +0000" channel="CNBC.mncvision">
-    <title>Michelin Le Mans Cup</title>
-</programme>
-<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="CNBC.mncvision">
-    <title>Barcelona Marathon</title>
-</programme>
-<programme start="20250510080000 +0000" stop="20250510100000 +0000" channel="CNBC.mncvision">
-    <title>Late Night With Seth Meyers</title>
-</programme>
-<programme start="20250510100000 +0000" stop="20250510103000 +0000" channel="CNBC.mncvision">
-    <title>CNBC Meets</title>
-</programme>
-<programme start="20250510103000 +0000" stop="20250510110000 +0000" channel="CNBC.mncvision">
-    <title>Who Owns...?</title>
-</programme>
-<programme start="20250510110000 +0000" stop="20250510113000 +0000" channel="CNBC.mncvision">
-    <title>On The Record</title>
-</programme>
-<programme start="20250510113000 +0000" stop="20250510120000 +0000" channel="CNBC.mncvision">
-    <title>Conversation</title>
-</programme>
-<programme start="20250510120000 +0000" stop="20250510140000 +0000" channel="CNBC.mncvision">
-    <title>The Tonight Show, Jimmy Fallon</title>
-</programme>
-<programme start="20250510140000 +0000" stop="20250510143000 +0000" channel="CNBC.mncvision">
-    <title>CNBC Meets</title>
-</programme>
-<programme start="20250510143000 +0000" stop="20250510150000 +0000" channel="CNBC.mncvision">
-    <title>Who Owns...?</title>
-</programme>
-<programme start="20250510150000 +0000" stop="20250510160000 +0000" channel="CNBC.mncvision">
-    <title>American Greed</title>
-</programme>
-<programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="CNBC.mncvision">
-    <title>Late Night With Seth Meyers</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250509172000 +0000" stop="20250509181500 +0000" channel="Crime Investigation.mncvision">
     <title>Anatomy Of A Crime, Ep 5</title>
 </programme>
@@ -2843,7 +2677,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510130000 +0000" stop="20250510133000 +0000" channel="Dreamworks HD.mncvision">
     <title>Dawn Of The Croods</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509170000 +0000" stop="20250509171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509171500 +0000" stop="20250509173000 +0000" channel="DW English.mncvision">
+    <title>Business Beyond: What Killed...</title>
+</programme>
+<programme start="20250509173000 +0000" stop="20250509180000 +0000" channel="DW English.mncvision">
+    <title>Afrimaxx: African Lifestyle</title>
+</programme>
+<programme start="20250509180000 +0000" stop="20250509183000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509183000 +0000" stop="20250509190000 +0000" channel="DW English.mncvision">
+    <title>Best Of DW Podcasts</title>
+</programme>
+<programme start="20250509190000 +0000" stop="20250509190200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509190200 +0000" stop="20250509193000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
+</programme>
+<programme start="20250509193000 +0000" stop="20250509200000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: How To Make...</title>
+</programme>
+<programme start="20250509200000 +0000" stop="20250509203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509203000 +0000" stop="20250509210000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250509210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509210200 +0000" stop="20250509211500 +0000" channel="DW English.mncvision">
+    <title>Business Beyond: What Killed...</title>
+</programme>
+<programme start="20250509211500 +0000" stop="20250509220000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250509220000 +0000" stop="20250509220200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509220200 +0000" stop="20250509223000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="DW English.mncvision">
+    <title>Eco India: Environment</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250509231500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250509231500 +0000" stop="20250509233000 +0000" channel="DW English.mncvision">
+    <title>Business Beyond: What Killed...</title>
+</programme>
+<programme start="20250509233000 +0000" stop="20250510000000 +0000" channel="DW English.mncvision">
+    <title>DW News: Africa</title>
+</programme>
+<programme start="20250510000000 +0000" stop="20250510000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510000200 +0000" stop="20250510003000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250510003000 +0000" stop="20250510010000 +0000" channel="DW English.mncvision">
+    <title>REV: Auto &amp; Mobility Show</title>
+</programme>
+<programme start="20250510010000 +0000" stop="20250510011500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510011500 +0000" stop="20250510013000 +0000" channel="DW English.mncvision">
+    <title>Planet A: This Invisible...</title>
+</programme>
+<programme start="20250510013000 +0000" stop="20250510020000 +0000" channel="DW English.mncvision">
+    <title>Tomorrow Today: Science</title>
+</programme>
+<programme start="20250510020000 +0000" stop="20250510020200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510020200 +0000" stop="20250510021500 +0000" channel="DW English.mncvision">
+    <title>Shift: What Will Mobility...</title>
+</programme>
+<programme start="20250510021500 +0000" stop="20250510030000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250510030000 +0000" stop="20250510031500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510031500 +0000" stop="20250510033000 +0000" channel="DW English.mncvision">
+    <title>Business Beyond: What Killed...</title>
+</programme>
+<programme start="20250510033000 +0000" stop="20250510040000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510041500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510041500 +0000" stop="20250510043000 +0000" channel="DW English.mncvision">
+    <title>Shift: What Will Mobility...</title>
+</programme>
+<programme start="20250510043000 +0000" stop="20250510050000 +0000" channel="DW English.mncvision">
+    <title>Euromaxx: Lifestyle Europe</title>
+</programme>
+<programme start="20250510050000 +0000" stop="20250510050200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510050200 +0000" stop="20250510053000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Experiencing...</title>
+</programme>
+<programme start="20250510053000 +0000" stop="20250510060000 +0000" channel="DW English.mncvision">
+    <title>The 77 Percent: Africa&#039;s Youth</title>
+</programme>
+<programme start="20250510060000 +0000" stop="20250510061500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510061500 +0000" stop="20250510063000 +0000" channel="DW English.mncvision">
+    <title>Business Beyond: What Killed...</title>
+</programme>
+<programme start="20250510063000 +0000" stop="20250510070000 +0000" channel="DW English.mncvision">
+    <title>REV: Auto &amp; Mobility Show</title>
+</programme>
+<programme start="20250510070000 +0000" stop="20250510071500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510071500 +0000" stop="20250510073000 +0000" channel="DW English.mncvision">
+    <title>Sports Life: A Marathon Pro</title>
+</programme>
+<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="DW English.mncvision">
+    <title>Tomorrow Today: Science</title>
+</programme>
+<programme start="20250510080000 +0000" stop="20250510081500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510081500 +0000" stop="20250510090000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250510090000 +0000" stop="20250510091500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510091500 +0000" stop="20250510093000 +0000" channel="DW English.mncvision">
+    <title>Sports Life: A Marathon Pro</title>
+</programme>
+<programme start="20250510093000 +0000" stop="20250510100000 +0000" channel="DW English.mncvision">
+    <title>In Good Shape: The Health Show</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510101500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250510101500 +0000" stop="20250510104500 +0000" channel="DW English.mncvision">
+    <title>Shift: What Will Mobility...</title>
+</programme>
 <programme start="20250509170000 +0000" stop="20250509173000 +0000" channel="Entertainment.mncvision">
     <title>Mata-Mata</title>
 </programme>
@@ -4269,8 +4252,123 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510144500 +0000" stop="20250510151500 +0000" channel="HITS MOVIES.mncvision">
     <title>P.S. I Love You</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509181500 +0000" stop="20250509210000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Minority Report</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250510001500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Deer Hunter</title>
+</programme>
+<programme start="20250510001500 +0000" stop="20250510031500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ali</title>
+</programme>
+<programme start="20250510031500 +0000" stop="20250510063000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Deer Hunter</title>
+</programme>
+<programme start="20250510063000 +0000" stop="20250510093000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ali</title>
+</programme>
+<programme start="20250510093000 +0000" stop="20250510120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Lovely Bones</title>
+</programme>
+<programme start="20250510120000 +0000" stop="20250510144500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Fight Club</title>
+</programme>
+<programme start="20250510144500 +0000" stop="20250510151500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>P.S. I Love You</title>
+</programme>
+<programme start="20250509173000 +0000" stop="20250509183000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250509183000 +0000" stop="20250509193000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250509193000 +0000" stop="20250509203000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250509203000 +0000" stop="20250509213000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250509213000 +0000" stop="20250509223000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250509233000 +0000" channel="IDX.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250509233000 +0000" stop="20250510003000 +0000" channel="IDX.mncvision">
+    <title>IDX 2nd Session Closing Market</title>
+</programme>
+<programme start="20250510003000 +0000" stop="20250510013000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250510013000 +0000" stop="20250510023000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250510023000 +0000" stop="20250510033000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250510033000 +0000" stop="20250510040000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510043000 +0000" channel="IDX.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250510043000 +0000" stop="20250510053000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250510053000 +0000" stop="20250510063000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250510063000 +0000" stop="20250510073000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250510073000 +0000" stop="20250510080000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250510080000 +0000" stop="20250510083000 +0000" channel="IDX.mncvision">
+    <title>Small Space</title>
+</programme>
+<programme start="20250510083000 +0000" stop="20250510090000 +0000" channel="IDX.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250510090000 +0000" stop="20250510093000 +0000" channel="IDX.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250510093000 +0000" stop="20250510103000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250510103000 +0000" stop="20250510110000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250510110000 +0000" stop="20250510113000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250510113000 +0000" stop="20250510120000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250510120000 +0000" stop="20250510130000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250510130000 +0000" stop="20250510140000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250510140000 +0000" stop="20250510150000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250510150000 +0000" stop="20250510153000 +0000" channel="IDX.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250510153000 +0000" stop="20250510160000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250510160000 +0000" stop="20250510163000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250510163000 +0000" stop="20250509170000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20250509173000 +0000" stop="20250509183000 +0000" channel="IDX HD.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
