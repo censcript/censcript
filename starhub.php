@@ -2053,7 +2053,7 @@
         <title>The UEL Preview Show 2024/25 Man United vs Athletic Bilbao - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20250508185500 +0000" stop="20250508210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2024/25 Man United vs Athletic Bilbao -SF, 2nd Leg (Live)</title>
+        <title>Man United vs Athletic Bilbao -SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20250508210000 +0000" stop="20250508213000 +0000" channel="beIN Sports 3.starhub">
         <title>The UEL Review Show 2024/25 Man United vs Athletic Bilbao - SF, 2nd Leg (Live)</title>
@@ -2067,23 +2067,26 @@
     <programme start="20250508223000 +0000" stop="20250508230000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2024/25 PSG vs Arsenal - SF, 2nd Leg</title>
     </programme>
-    <programme start="20250508230000 +0000" stop="20250509005000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250508230000 +0000" stop="20250509013200 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Conference League 2024/25 Fiorentina vs Real Betis - SF, 2nd Leg</title>
     </programme>
-    <programme start="20250509005000 +0000" stop="20250509024000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250509013200 +0000" stop="20250509032500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Man United vs Athletic Bilbao -SF, 2nd Leg</title>
     </programme>
-    <programme start="20250509024000 +0000" stop="20250509043000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250509032500 +0000" stop="20250509051500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Conference League 2024/25 Chelsea vs Djurgarden - SF, 2nd Leg</title>
     </programme>
-    <programme start="20250509043000 +0000" stop="20250509062000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250509051500 +0000" stop="20250509070500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Bodo/Glimt vs Tottenham -SF, 2nd Leg</title>
     </programme>
-    <programme start="20250509062000 +0000" stop="20250509081000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250509070500 +0000" stop="20250509090000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Man United vs Athletic Bilbao -SF, 2nd Leg</title>
     </programme>
-    <programme start="20250509081000 +0000" stop="20250509100000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2024/25 Fiorentina vs Real Betis - SF, 2nd Leg</title>
+    <programme start="20250509090000 +0000" stop="20250509093000 +0000" channel="beIN Sports 3.starhub">
+        <title>Mini Match - UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
+    </programme>
+    <programme start="20250509093000 +0000" stop="20250509100000 +0000" channel="beIN Sports 3.starhub">
+        <title>Mini Match - UEFA Champions League 2024/25 PSG vs Arsenal - SF, 2nd Leg</title>
     </programme>
     <programme start="20250509100000 +0000" stop="20250509103000 +0000" channel="beIN Sports 3.starhub">
         <title>SFs,2nd Leg</title>
@@ -2509,16 +2512,13 @@
         <title>NBA Playoffs 2025 CSFG2: Golden State Warriors vs Minnesota Timberwolves</title>
     </programme>
     <programme start="20250509080000 +0000" stop="20250509130000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>TotalEnergies BWF Sudirman Cup Finals 2025 Finals: China vs Korea</title>
+        <title>TotalEnergies BWF Sudirman Cup Finals 2025: China vs Korea</title>
     </programme>
-    <programme start="20250509130000 +0000" stop="20250509133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#535</title>
-    </programme>
-    <programme start="20250509133000 +0000" stop="20250509140000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Supertri E World Triathlon Championships Highlights</title>
-    </programme>
-    <programme start="20250509140000 +0000" stop="20250509160000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250509130000 +0000" stop="20250509150000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NBA Playoffs 2025 CSFG2: Golden State Warriors vs Minnesota Timberwolves</title>
+    </programme>
+    <programme start="20250509150000 +0000" stop="20250509190000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Truist Championship Round 2</title>
     </programme>
     <programme start="20250508144500 +0000" stop="20250508164500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -4068,6 +4068,9 @@
     <programme start="20250508205300 +0000" stop="20250508205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
+    <programme start="20250508205600 +0000" stop="20250508210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
     <programme start="20250508210000 +0000" stop="20250508220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
     </programme>
@@ -4473,8 +4476,8 @@
     <programme start="20250509103000 +0000" stop="20250509153000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Turkish Open Day 2</title>
     </programme>
-    <programme start="20250509153000 +0000" stop="20250509180000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Mizuho Americas Open Round 2 (JIP)</title>
+    <programme start="20250509153000 +0000" stop="20250509160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Abu Dhabi Challenge</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508161500 +0000" channel="France24.starhub">
         <title>News</title>
@@ -7198,7 +7201,7 @@
         <title>Mini Match - Bundesliga 2024/25: FC Union vs Werder Bremen</title>
     </programme>
     <programme start="20250508185500 +0000" stop="20250508210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2024/25: Bodo/Glimt vs Tottenham -SF, 2nd Leg (Live)</title>
+        <title>Bodo/Glimt vs Tottenham -SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20250508210000 +0000" stop="20250508213000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga World 2024/25</title>
@@ -7750,6 +7753,9 @@
         <title>The Context</title>
     </programme>
     <programme start="20250508200000 +0000" stop="20250508203000 +0000" channel="BBC World News HD.starhub">
+        <title>The Context</title>
+    </programme>
+    <programme start="20250508203000 +0000" stop="20250508210000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>
     </programme>
     <programme start="20250508210000 +0000" stop="20250508213000 +0000" channel="BBC World News HD.starhub">
