@@ -6327,11 +6327,14 @@
     <programme start="20250509040000 +0000" stop="20250509100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250509100000 +0000" stop="20250509140000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250509100000 +0000" stop="20250509130000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250509140000 +0000" stop="20250509160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250509130000 +0000" stop="20250509150000 +0000" channel="Hub Sports 6.starhub">
         <title>ONEflight Myrtle Beach Classic Round 2</title>
+    </programme>
+    <programme start="20250509150000 +0000" stop="20250509160000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508170000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
@@ -6673,16 +6676,13 @@
         <title>NBA Playoffs 2025 CSFG2: Golden State Warriors vs Minnesota Timberwolves</title>
     </programme>
     <programme start="20250509080000 +0000" stop="20250509130000 +0000" channel="TestChannel 995.starhub">
-        <title>TotalEnergies BWF Sudirman Cup Finals 2025 Finals: China vs Korea</title>
+        <title>TotalEnergies BWF Sudirman Cup Finals 2025: China vs Korea</title>
     </programme>
-    <programme start="20250509130000 +0000" stop="20250509133000 +0000" channel="TestChannel 995.starhub">
-        <title>#535</title>
-    </programme>
-    <programme start="20250509133000 +0000" stop="20250509140000 +0000" channel="TestChannel 995.starhub">
-        <title>Supertri E World Triathlon Championships Highlights</title>
-    </programme>
-    <programme start="20250509140000 +0000" stop="20250509160000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250509130000 +0000" stop="20250509150000 +0000" channel="TestChannel 995.starhub">
         <title>NBA Playoffs 2025 CSFG2: Golden State Warriors vs Minnesota Timberwolves</title>
+    </programme>
+    <programme start="20250509150000 +0000" stop="20250509190000 +0000" channel="TestChannel 995.starhub">
+        <title>Truist Championship Round 2</title>
     </programme>
     <programme start="20250508160000 +0000" stop="20250508163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
