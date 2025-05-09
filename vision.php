@@ -536,7 +536,7 @@
 <title>Makan Receh</title>
 </programme>
 <programme start="20250509101500 +0000" stop="20250509110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
+<title>Exposed Uncensored</title>
 </programme>
 <programme start="20250509110000 +0000" stop="20250509120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
