@@ -1222,7 +1222,72 @@
 <programme start="20250510150000 +0000" stop="20250510153000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 1000 2025: Rome (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509170000 +0000" stop="20250509183000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Viva LaLiga 2024/25: Friday (L)</title>
+</programme>
+<programme start="20250509183000 +0000" stop="20250509184000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV: Top 20 Goals by Defenders</title>
+</programme>
+<programme start="20250509184000 +0000" stop="20250509185500 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV: Top 20 Rooney Goals</title>
+</programme>
+<programme start="20250509185500 +0000" stop="20250509210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: LPM Vs RAY (L)</title>
+</programme>
+<programme start="20250509210000 +0000" stop="20250509213000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2024/25: BOU Vs MUN</title>
+</programme>
+<programme start="20250509213000 +0000" stop="20250509233000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2024/25: BRE Vs MUN</title>
+</programme>
+<programme start="20250509233000 +0000" stop="20250510000000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: BRE Vs MUN</title>
+</programme>
+<programme start="20250510000000 +0000" stop="20250510003000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2025: May</title>
+</programme>
+<programme start="20250510003000 +0000" stop="20250510010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250510010000 +0000" stop="20250510023000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Miami</title>
+</programme>
+<programme start="20250510023000 +0000" stop="20250510040000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Miami</title>
+</programme>
+<programme start="20250510040000 +0000" stop="20250510043000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Talking Football 2024/25</title>
+</programme>
+<programme start="20250510043000 +0000" stop="20250510050000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250510050000 +0000" stop="20250510065000 +0000" channel="beIN Sports 3.mncvision">
+    <title>U-20 AFCON 2025: RSA Vs ZAM</title>
+</programme>
+<programme start="20250510065000 +0000" stop="20250510084000 +0000" channel="beIN Sports 3.mncvision">
+    <title>U-20 AFCON 2025: EGY Vs TAN</title>
+</programme>
+<programme start="20250510084000 +0000" stop="20250510090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Zap 2024/25, Ep 9</title>
+</programme>
+<programme start="20250510090000 +0000" stop="20250510093000 +0000" channel="beIN Sports 3.mncvision">
+    <title>This Is Paris 2024/25, Ep 34</title>
+</programme>
+<programme start="20250510093000 +0000" stop="20250510100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510115500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: LPM Vs RAY</title>
+</programme>
+<programme start="20250510115500 +0000" stop="20250510141000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: VAL Vs GET (L)</title>
+</programme>
+<programme start="20250510141000 +0000" stop="20250510162500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: CEL Vs SEV (L)</title>
+</programme>
+<programme start="20250510162500 +0000" stop="20250510165500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: GIR Vs VIL (L)</title>
+</programme>
 <programme start="20250509170000 +0000" stop="20250509183000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Viva LaLiga 2024/25: Friday (L)</title>
 </programme>
@@ -8984,9 +9049,120 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250510165500 +0000" stop="20250509172500 +0000" channel="Studio Universal.mncvision">
     <title>Dracula Untold</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250509183500 +0000" stop="20250509200500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Antz</title>
+</programme>
+<programme start="20250509200500 +0000" stop="20250509221000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Mummy (1999)</title>
+</programme>
+<programme start="20250509221000 +0000" stop="20250509230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20250509230000 +0000" stop="20250510010000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Mummy: Dragon Emperor</title>
+</programme>
+<programme start="20250510010000 +0000" stop="20250510024000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Home</title>
+</programme>
+<programme start="20250510024000 +0000" stop="20250510041000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Antz</title>
+</programme>
+<programme start="20250510041000 +0000" stop="20250510061500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Mummy (1999)</title>
+</programme>
+<programme start="20250510061500 +0000" stop="20250510081500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Mummy: Dragon Emperor</title>
+</programme>
+<programme start="20250510081500 +0000" stop="20250510100000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Rise Of The Guardians</title>
+</programme>
+<programme start="20250510100000 +0000" stop="20250510114000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250510114000 +0000" stop="20250510132000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Burn After Reading</title>
+</programme>
+<programme start="20250510132000 +0000" stop="20250510151000 +0000" channel="Studio Universal HD.mncvision">
+    <title>American Dreamz</title>
+</programme>
+<programme start="20250510151000 +0000" stop="20250510165500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Role Models</title>
+</programme>
+<programme start="20250510165500 +0000" stop="20250509172500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Dracula Untold</title>
+</programme>
+<programme start="20250509175900 +0000" stop="20250509195600 +0000" channel="Superrix.mncvision">
+    <title>Minor Premise</title>
+</programme>
+<programme start="20250509195600 +0000" stop="20250509215700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250509215700 +0000" stop="20250509235400 +0000" channel="Superrix.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20250509235400 +0000" stop="20250510015700 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250510015700 +0000" stop="20250510034900 +0000" channel="Superrix.mncvision">
+    <title>Dead Trigger</title>
+</programme>
+<programme start="20250510034900 +0000" stop="20250510055900 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510055900 +0000" stop="20250510074600 +0000" channel="Superrix.mncvision">
+    <title>Max Steel</title>
+</programme>
+<programme start="20250510074600 +0000" stop="20250510095500 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250510095500 +0000" stop="20250510115300 +0000" channel="Superrix.mncvision">
+    <title>Wildflower</title>
+</programme>
+<programme start="20250510115300 +0000" stop="20250510140600 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510140600 +0000" stop="20250510155800 +0000" channel="Superrix.mncvision">
+    <title>Equals</title>
+</programme>
+<programme start="20250510155800 +0000" stop="20250510162800 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250509175900 +0000" stop="20250509195600 +0000" channel="Superrix HD.mncvision">
+    <title>Minor Premise</title>
+</programme>
+<programme start="20250509195600 +0000" stop="20250509215700 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250509215700 +0000" stop="20250509235400 +0000" channel="Superrix HD.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20250509235400 +0000" stop="20250510015700 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250510015700 +0000" stop="20250510034900 +0000" channel="Superrix HD.mncvision">
+    <title>Dead Trigger</title>
+</programme>
+<programme start="20250510034900 +0000" stop="20250510055900 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510055900 +0000" stop="20250510074600 +0000" channel="Superrix HD.mncvision">
+    <title>Max Steel</title>
+</programme>
+<programme start="20250510074600 +0000" stop="20250510095500 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250510095500 +0000" stop="20250510115300 +0000" channel="Superrix HD.mncvision">
+    <title>Wildflower</title>
+</programme>
+<programme start="20250510115300 +0000" stop="20250510140600 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250510140600 +0000" stop="20250510155800 +0000" channel="Superrix HD.mncvision">
+    <title>Equals</title>
+</programme>
+<programme start="20250510155800 +0000" stop="20250510162800 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20250509170000 +0000" stop="20250509173000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>
