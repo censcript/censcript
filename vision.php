@@ -170,10 +170,10 @@
 <title>Rating 5</title>
 </programme>
 <programme start="20250509083000 +0000" stop="20250509090000 +0000" channel="GTV.vision">
-<title>Ini Faktanya</title>
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250509090000 +0000" stop="20250509100000 +0000" channel="GTV.vision">
-<title>Shaun The Sheep</title>
+<title>Ini Faktanya</title>
 </programme>
 <programme start="20250509100000 +0000" stop="20250509110000 +0000" channel="GTV.vision">
 <title>Doraemon The Movie (GTV)</title>
@@ -194,7 +194,7 @@
 <title>Buletin iNews Malam</title>
 </programme>
 <programme start="20250509180000 +0000" stop="20250509190000 +0000" channel="GTV.vision">
-<title>Superhero Kocak</title>
+<title>Crime.KV</title>
 </programme>
 <programme start="20250509190000 +0000" stop="20250509220000 +0000" channel="GTV.vision">
 <title>Abdel Vs Temon Masih Bukan...</title>
@@ -208,8 +208,11 @@
 <programme start="20250510000000 +0000" stop="20250510013000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20250510013000 +0000" stop="20250510030000 +0000" channel="GTV.vision">
+<programme start="20250510013000 +0000" stop="20250510023000 +0000" channel="GTV.vision">
 <title>Zak Storm</title>
+</programme>
+<programme start="20250510023000 +0000" stop="20250510030000 +0000" channel="GTV.vision">
+<title>Bleach</title>
 </programme>
 <programme start="20250510030000 +0000" stop="20250510033000 +0000" channel="GTV.vision">
 <title>Naruto Shippuden</title>
@@ -415,19 +418,19 @@
 <programme start="20250510104000 +0000" stop="20250510122500 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>
 </programme>
-<programme start="20250507233000 +0000" stop="20250508003000 +0000" channel="Trans TV.vision">
+<programme start="20250508233000 +0000" stop="20250509003000 +0000" channel="Trans TV.vision">
 <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20250508003000 +0000" stop="20250508013000 +0000" channel="Trans TV.vision">
+<programme start="20250509003000 +0000" stop="20250509013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
-<programme start="20250508013000 +0000" stop="20250508033000 +0000" channel="Trans TV.vision">
+<programme start="20250509013000 +0000" stop="20250509033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
 </programme>
-<programme start="20250508033000 +0000" stop="20250508053000 +0000" channel="Trans TV.vision">
+<programme start="20250509033000 +0000" stop="20250509053000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20250508053000 +0000" stop="20250508070000 +0000" channel="Trans TV.vision">
+<programme start="20250509053000 +0000" stop="20250509070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
 </programme>
 <programme start="20250509070000 +0000" stop="20250509080000 +0000" channel="Trans TV.vision">
@@ -445,16 +448,16 @@
 <programme start="20250509103000 +0000" stop="20250509114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20250508114500 +0000" stop="20250508130000 +0000" channel="Trans TV.vision">
+<programme start="20250509114500 +0000" stop="20250509130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="Trans TV.vision">
+<programme start="20250509130000 +0000" stop="20250509140000 +0000" channel="Trans TV.vision">
 <title>Kajian Hati</title>
 </programme>
-<programme start="20250508140000 +0000" stop="20250508150000 +0000" channel="Trans TV.vision">
+<programme start="20250509140000 +0000" stop="20250509150000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250508150000 +0000" stop="20250508170000 +0000" channel="Trans TV.vision">
+<programme start="20250509150000 +0000" stop="20250509180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250509180000 +0000" stop="20250509220000 +0000" channel="Trans TV.vision">
@@ -475,13 +478,13 @@
 <programme start="20250510023000 +0000" stop="20250510043000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
-<programme start="20250509033000 +0000" stop="20250509053000 +0000" channel="Trans TV.vision">
+<programme start="20250510043000 +0000" stop="20250510053000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
 <programme start="20250510053000 +0000" stop="20250510070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20250509070000 +0000" stop="20250509080000 +0000" channel="Trans TV.vision">
+<programme start="20250510070000 +0000" stop="20250510080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
 </programme>
 <programme start="20250510080000 +0000" stop="20250510090000 +0000" channel="Trans TV.vision">
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250510021500 +0000" stop="20250510030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
-</programme>
-<programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
