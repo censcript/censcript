@@ -274,6 +274,9 @@
     <programme start="20250521140000 +0000" stop="20250521150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
+    <programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Goodbye Goodison</title>
+    </programme>
     <programme start="20250522123000 +0000" stop="20250522130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
@@ -294,7 +297,4 @@
     </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
-    </programme>
-    <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Seoul v Suwon FC</title>
     </programme>
