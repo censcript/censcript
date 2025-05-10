@@ -1,6 +1,3 @@
-    <programme start="20250510023000 +0000" stop="20250510050000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Angel City FC v Utah Royals FC</title>
-    </programme>
     <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Yokohama FC v Avispa</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Vissel Kobe</title>
+    </programme>
+    <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Kawasaki v Gamba</title>
     </programme>
