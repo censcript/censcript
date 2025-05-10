@@ -4501,30 +4501,7 @@
 <programme start="20250510144500 +0000" stop="20250510151500 +0000" channel="HITS MOVIES.mncvision">
     <title>P.S. I Love You</title>
 </programme>
-<programme start="20250509181500 +0000" stop="20250509210000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Minority Report</title>
-</programme>
-<programme start="20250509210000 +0000" stop="20250510001500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>The Deer Hunter</title>
-</programme>
-<programme start="20250510001500 +0000" stop="20250510031500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Ali</title>
-</programme>
-<programme start="20250510031500 +0000" stop="20250510063000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>The Deer Hunter</title>
-</programme>
-<programme start="20250510063000 +0000" stop="20250510093000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Ali</title>
-</programme>
-<programme start="20250510093000 +0000" stop="20250510120000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>The Lovely Bones</title>
-</programme>
-<programme start="20250510120000 +0000" stop="20250510144500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Fight Club</title>
-</programme>
-<programme start="20250510144500 +0000" stop="20250510151500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>P.S. I Love You</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250509173000 +0000" stop="20250509183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
