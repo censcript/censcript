@@ -25,6 +25,24 @@
 <programme start="20250510160000 +0000" stop="20250510183000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
+<programme start="20250510183000 +0000" stop="20250510190000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250510200000 +0000" stop="20250510203000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250510203000 +0000" stop="20250510213000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250510213000 +0000" stop="20250510231500 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250510231500 +0000" stop="20250510234500 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
 <programme start="20250510234500 +0000" stop="20250511003000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
@@ -94,7 +112,61 @@
 <programme start="20250510160000 +0000" stop="20250510170000 +0000" channel="MNCTV.vision">
 <title>Roy &amp; Marten Sahabat...</title>
 </programme>
+<programme start="20250510170000 +0000" stop="20250510173000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510173000 +0000" stop="20250510190000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510200000 +0000" stop="20250510203000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510203000 +0000" stop="20250510213000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510213000 +0000" stop="20250510220000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510220000 +0000" stop="20250510223000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510223000 +0000" stop="20250510230000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250510230000 +0000" stop="20250511000000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511000000 +0000" stop="20250511003000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511003000 +0000" stop="20250511010000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511010000 +0000" stop="20250511013000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511013000 +0000" stop="20250511040000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511040000 +0000" stop="20250511060000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
 <programme start="20250511060000 +0000" stop="20250511080000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511080000 +0000" stop="20250511103000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511103000 +0000" stop="20250511110000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511110000 +0000" stop="20250511113000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250511113000 +0000" stop="20250511121500 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
 <programme start="20250510000000 +0000" stop="20250510013000 +0000" channel="GTV.vision">

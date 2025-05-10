@@ -1,6 +1,3 @@
-    <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kashiwa v Fagiano Okayama</title>
-    </programme>
     <programme start="20250510072000 +0000" stop="20250510094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Pohang v Suwon FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gwangju v Gangwon</title>
+    </programme>
+    <programme start="20250525134000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
+        <title>N/A - Goal Rush - The Final Day</title>
     </programme>
