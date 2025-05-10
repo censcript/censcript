@@ -1,6 +1,3 @@
-    <programme start="20250510045500 +0000" stop="20250510071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Yokohama FC v Avispa</title>
-    </programme>
     <programme start="20250510065500 +0000" stop="20250510091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kashiwa v Fagiano Okayama</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Kawasaki v Gamba</title>
+    </programme>
+    <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Gwangju v Gangwon</title>
     </programme>
