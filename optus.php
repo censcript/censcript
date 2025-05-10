@@ -1,9 +1,3 @@
-    <programme start="20250510162000 +0000" stop="20250510190000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Bournemouth v Aston Villa</title>
-    </programme>
-    <programme start="20250510165000 +0000" stop="20250510192000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Chicago Stars v Washington Spirit</title>
-    </programme>
     <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Matchday Live Extra</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Sanfrecce v Kawasaki</title>
+    </programme>
+    <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kyoto v FC Tokyo</title>
+    </programme>
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Shimizu</title>
     </programme>
