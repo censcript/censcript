@@ -541,12 +541,6 @@
 <programme start="20250510154500 +0000" stop="20250510163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250510163000 +0000" stop="20250510171500 +0000" channel="Trans 7.vision">
-<title>Starting Grid MotoGP France</title>
-</programme>
-<programme start="20250510171500 +0000" stop="20250510180000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race France</title>
-</programme>
 <programme start="20250510180000 +0000" stop="20250510190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250511090000 +0000" stop="20250511100000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
+</programme>
+<programme start="20250511100000 +0000" stop="20250511110000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250511110000 +0000" stop="20250511120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
