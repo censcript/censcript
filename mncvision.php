@@ -457,7 +457,156 @@
 <programme start="20250511153000 +0000" stop="20250511160000 +0000" channel="ANTV.mncvision">
     <title>Anita Ular Betina</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250510170000 +0000" stop="20250510171000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20250510171000 +0000" stop="20250510173000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20250510173000 +0000" stop="20250510180000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20250510180000 +0000" stop="20250510183000 +0000" channel="Arirang.mncvision">
+    <title>Rewind It: I&#039;m Live</title>
+</programme>
+<programme start="20250510183000 +0000" stop="20250510185000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20250510185000 +0000" stop="20250510190000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250510190000 +0000" stop="20250510193000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20250510193000 +0000" stop="20250510200000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250510200000 +0000" stop="20250510210000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20250510210000 +0000" stop="20250510213000 +0000" channel="Arirang.mncvision">
+    <title>Home To Table</title>
+</programme>
+<programme start="20250510213000 +0000" stop="20250510220000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20250510220000 +0000" stop="20250510221500 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20250510221500 +0000" stop="20250510223000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20250510223000 +0000" stop="20250510224000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20250510224000 +0000" stop="20250510230000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250510230000 +0000" stop="20250511000000 +0000" channel="Arirang.mncvision">
+    <title>Gugak: The Music Of Korea</title>
+</programme>
+<programme start="20250511000000 +0000" stop="20250511010000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20250511010000 +0000" stop="20250511012000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Creative Lab B</title>
+</programme>
+<programme start="20250511012000 +0000" stop="20250511013000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250511013000 +0000" stop="20250511023000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop Gateway To Korea</title>
+</programme>
+<programme start="20250511023000 +0000" stop="20250511024000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20250511024000 +0000" stop="20250511030000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Land</title>
+</programme>
+<programme start="20250511030000 +0000" stop="20250511033000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20250511033000 +0000" stop="20250511040000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20250511040000 +0000" stop="20250511042000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20250511042000 +0000" stop="20250511043000 +0000" channel="Arirang.mncvision">
+    <title>Heritage Walks, Little Friend</title>
+</programme>
+<programme start="20250511043000 +0000" stop="20250511050000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20250511050000 +0000" stop="20250511060000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20250511060000 +0000" stop="20250511063000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250511063000 +0000" stop="20250511070000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250511070000 +0000" stop="20250511072000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Creative Lab B</title>
+</programme>
+<programme start="20250511072000 +0000" stop="20250511073000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250511073000 +0000" stop="20250511083000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop Gateway To Korea</title>
+</programme>
+<programme start="20250511083000 +0000" stop="20250511084000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20250511084000 +0000" stop="20250511090000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250511090000 +0000" stop="20250511093000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20250511093000 +0000" stop="20250511100000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20250511100000 +0000" stop="20250511110000 +0000" channel="Arirang.mncvision">
+    <title>Gugak: The Music Of Korea</title>
+</programme>
+<programme start="20250511110000 +0000" stop="20250511113000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20250511113000 +0000" stop="20250511120000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20250511120000 +0000" stop="20250511122000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20250511122000 +0000" stop="20250511123500 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20250511123500 +0000" stop="20250511125000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20250511125000 +0000" stop="20250511130000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20250511130000 +0000" stop="20250511132000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Creative Lab B</title>
+</programme>
+<programme start="20250511132000 +0000" stop="20250511133000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250511133000 +0000" stop="20250511140000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20250511140000 +0000" stop="20250511143000 +0000" channel="Arirang.mncvision">
+    <title>Home To Table</title>
+</programme>
+<programme start="20250511143000 +0000" stop="20250511150000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20250511150000 +0000" stop="20250511153000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
 <programme start="20250510172000 +0000" stop="20250510181000 +0000" channel="AXN.mncvision">
     <title>Sight Unseen S1, Ep 6</title>
 </programme>
