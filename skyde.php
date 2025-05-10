@@ -3238,13 +3238,19 @@
 <programme start="20250509220000 +0000" stop="20250509230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20250509230000 +0000" stop="20250510030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250509230000 +0000" stop="20250510020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Toronto Maple Leafs, Playoffs, 2. Runde, Spiel 3</title>
+</programme>
+<programme start="20250510020000 +0000" stop="20250510030000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: Highlights: Rally Islas Canarias</title>
 </programme>
 <programme start="20250510030000 +0000" stop="20250510042000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP Frankreich</title>
 </programme>
-<programme start="20250510042000 +0000" stop="20250510063500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250510042000 +0000" stop="20250510043000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Best Starts 2024</title>
+</programme>
+<programme start="20250510043000 +0000" stop="20250510063500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Toronto Maple Leafs, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20250510063500 +0000" stop="20250510071500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3520,11 +3526,14 @@
 <programme start="20250509224500 +0000" stop="20250509230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Highlights XXL: WOB - TSG, 33. Spieltag</title>
 </programme>
-<programme start="20250509230000 +0000" stop="20250510025500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250509230000 +0000" stop="20250510020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers - Toronto Maple Leafs, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
-<programme start="20250510025500 +0000" stop="20250510040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250510020000 +0000" stop="20250510033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Qualifying in Indianapolis</title>
+</programme>
+<programme start="20250510033000 +0000" stop="20250510040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
 <programme start="20250510040000 +0000" stop="20250510050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Winamax Highlightshow, 33. Spieltag, Freitag</title>

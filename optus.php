@@ -1,18 +1,3 @@
-    <programme start="20250510130000 +0000" stop="20250510162000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Saturday</title>
-    </programme>
-    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Wolverhampton Wanderers v Brighton</title>
-    </programme>
-    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Southampton v Manchester City</title>
-    </programme>
-    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Ipswich v Brentford</title>
-    </programme>
-    <programme start="20250510135000 +0000" stop="20250510161000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Fulham v Everton</title>
-    </programme>
     <programme start="20250510162000 +0000" stop="20250510190000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Bournemouth v Aston Villa</title>
     </programme>
@@ -297,4 +282,19 @@
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 9.optus">
         <title>Premier League - Ipswich v West Ham United</title>
+    </programme>
+    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 7.optus">
+        <title>Premier League - Fulham v Manchester City</title>
+    </programme>
+    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 12.optus">
+        <title>Premier League - Bournemouth v Leicester City</title>
+    </programme>
+    <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Yokohama FM</title>
+    </programme>
+    <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Sanfrecce v Kawasaki</title>
     </programme>
