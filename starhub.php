@@ -9700,6 +9700,12 @@
     <programme start="20250509220000 +0000" stop="20250510040000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
     </programme>
+    <programme start="20250510040000 +0000" stop="20250510100000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250510100000 +0000" stop="20250510160000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
     <programme start="20250509160000 +0000" stop="20250509220000 +0000" channel="Cricbuzz.starhub">
         <title>No Transmission</title>
     </programme>
