@@ -2899,10 +2899,10 @@
 <programme start="20250511145500 +0000" stop="20250511170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Legenden-Kommentar: FK Austria Wien - SK Rapid, 30. Runde</title>
 </programme>
-<programme start="20250511170000 +0000" stop="20250511173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250511171500 +0000" stop="20250511173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: ÖFB-Frauen BL</title>
 </programme>
-<programme start="20250511173500 +0000" stop="20250511203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250511173500 +0000" stop="20250511200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Fußball: FK Austria Wien - First Vienna FC 1894, ÖFB-Frauen Bundesliga, 41. Runde</title>
 </programme>
 <programme start="20250511084000 +0000" stop="20250511090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3448,7 +3448,7 @@
 <programme start="20250511213000 +0000" stop="20250511233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20250511134000 +0000" stop="20250511140000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250511135500 +0000" stop="20250511140000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20250511140000 +0000" stop="20250511190000 +0000" channel="Sky Sport 5 HD.skyde">
