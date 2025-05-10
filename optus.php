@@ -1,6 +1,3 @@
-    <programme start="20250510190000 +0000" stop="20250510200000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Matchday Live Extra</title>
-    </programme>
     <programme start="20250510233000 +0000" stop="20250511020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - North Carolina Courage v Orlando Pride</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Shimizu</title>
+    </programme>
+    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
