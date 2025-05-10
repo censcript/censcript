@@ -1,6 +1,3 @@
-    <programme start="20250510000000 +0000" stop="20250510023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Racing Louisville FC v Gotham FC</title>
-    </programme>
     <programme start="20250510023000 +0000" stop="20250510050000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Angel City FC v Utah Royals FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shimizu v Vissel Kobe</title>
     </programme>

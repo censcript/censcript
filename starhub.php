@@ -5401,10 +5401,10 @@
     <programme start="20250509203000 +0000" stop="20250509223000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250509223000 +0000" stop="20250510010000 +0000" channel="SPOTV.starhub">
+    <programme start="20250509223000 +0000" stop="20250510011000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250510010000 +0000" stop="20250510020000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510011000 +0000" stop="20250510020000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250510020000 +0000" stop="20250510030000 +0000" channel="SPOTV.starhub">
@@ -5413,14 +5413,14 @@
     <programme start="20250510030000 +0000" stop="20250510040000 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
     </programme>
-    <programme start="20250510040000 +0000" stop="20250510050000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510040000 +0000" stop="20250510051500 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
     </programme>
-    <programme start="20250510050000 +0000" stop="20250510061500 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250510061500 +0000" stop="20250510080000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510051500 +0000" stop="20250510070000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
+    </programme>
+    <programme start="20250510070000 +0000" stop="20250510080000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250510080000 +0000" stop="20250510093000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
@@ -5428,13 +5428,13 @@
     <programme start="20250510093000 +0000" stop="20250510113500 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 24/25 Elimination Finals Western Sydney Wanderers vs Melb</title>
     </programme>
-    <programme start="20250510113500 +0000" stop="20250510133000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510113500 +0000" stop="20250510133500 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 MD30 - Al Qadsiah vs Al Kholood</title>
     </programme>
-    <programme start="20250510133000 +0000" stop="20250510140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510133500 +0000" stop="20250510140500 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
     </programme>
-    <programme start="20250510140000 +0000" stop="20250510160000 +0000" channel="SPOTV.starhub">
+    <programme start="20250510140500 +0000" stop="20250510160000 +0000" channel="SPOTV.starhub">
         <title>ISUZU UTE A-League Men 24/25 Rd29 - Wellington Phoenix vs Perth Glory</title>
     </programme>
     <programme start="20250509154000 +0000" stop="20250509165500 +0000" channel="KBS World HD.starhub">
