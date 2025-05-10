@@ -1702,28 +1702,28 @@
 <programme start="20250509230000 +0000" stop="20250509232000 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250509232000 +0000" stop="20250509234000 +0000" channel="Nicktoons.skyde">
+<programme start="20250509232000 +0000" stop="20250509234500 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250509234000 +0000" stop="20250510000000 +0000" channel="Nicktoons.skyde">
+<programme start="20250509234500 +0000" stop="20250510000500 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250510000000 +0000" stop="20250510002500 +0000" channel="Nicktoons.skyde">
+<programme start="20250510000500 +0000" stop="20250510002500 +0000" channel="Nicktoons.skyde">
     <title>Kung Fu Panda: Legenden mit Fell und Fu</title>
 </programme>
-<programme start="20250510002500 +0000" stop="20250510004500 +0000" channel="Nicktoons.skyde">
+<programme start="20250510002500 +0000" stop="20250510005000 +0000" channel="Nicktoons.skyde">
     <title>Planet Max</title>
 </programme>
-<programme start="20250510004500 +0000" stop="20250510010500 +0000" channel="Nicktoons.skyde">
+<programme start="20250510005000 +0000" stop="20250510011000 +0000" channel="Nicktoons.skyde">
     <title>Top Wing - Das coolste Team der Lüfte</title>
 </programme>
-<programme start="20250510010500 +0000" stop="20250510013000 +0000" channel="Nicktoons.skyde">
+<programme start="20250510011000 +0000" stop="20250510013000 +0000" channel="Nicktoons.skyde">
     <title>Avatar - Der Herr der Elemente</title>
 </programme>
-<programme start="20250510013000 +0000" stop="20250510015000 +0000" channel="Nicktoons.skyde">
+<programme start="20250510013000 +0000" stop="20250510015500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250510015000 +0000" stop="20250510021500 +0000" channel="Nicktoons.skyde">
+<programme start="20250510015500 +0000" stop="20250510021500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250510021500 +0000" stop="20250510023500 +0000" channel="Nicktoons.skyde">
@@ -3238,19 +3238,13 @@
 <programme start="20250509220000 +0000" stop="20250509230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20250509230000 +0000" stop="20250510020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250509230000 +0000" stop="20250510030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Toronto Maple Leafs, Playoffs, 2. Runde, Spiel 3</title>
-</programme>
-<programme start="20250510020000 +0000" stop="20250510030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WRC: Highlights: Rally Islas Canarias</title>
 </programme>
 <programme start="20250510030000 +0000" stop="20250510042000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP Frankreich</title>
 </programme>
-<programme start="20250510042000 +0000" stop="20250510043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Best Starts 2024</title>
-</programme>
-<programme start="20250510043000 +0000" stop="20250510063500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250510042000 +0000" stop="20250510063500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Toronto Maple Leafs, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20250510063500 +0000" stop="20250510071500 +0000" channel="Sky Sport Mix HD.skyde">

@@ -1,6 +1,3 @@
-    <programme start="20250510095000 +0000" stop="20250510121000 +0000" channel="Optus Sport 12.optus">
-        <title>N/A - Daejeon v Seoul</title>
-    </programme>
     <programme start="20250510112000 +0000" stop="20250510141000 +0000" channel="Optus Sport 7.optus">
         <title>Women&#039;s Super League - Chelsea v Liverpool</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 10.optus">
         <title>Premier League - Wolverhampton Wanderers v Brentford</title>
+    </programme>
+    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 8.optus">
+        <title>Premier League - Tottenham Hotspur v Brighton</title>
     </programme>
