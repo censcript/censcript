@@ -1,6 +1,3 @@
-    <programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
     <programme start="20250512000000 +0000" stop="20250512023000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Seattle Reign v Houston Dash</title>
     </programme>
