@@ -1,9 +1,3 @@
-    <programme start="20250511152000 +0000" stop="20250511183000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Liverpool v Arsenal</title>
-    </programme>
-    <programme start="20250511170000 +0000" stop="20250511193000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Kansas City Current v Bay FC</title>
-    </programme>
     <programme start="20250511193000 +0000" stop="20250511210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
