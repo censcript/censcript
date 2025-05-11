@@ -454,37 +454,34 @@
     <programme start="20250511140000 +0000" stop="20250511170005 +0000" channel="Vasantham.mewatch">
         <title>Twenty-Four</title>
     </programme>
-    <programme start="20250510160000 +0000" stop="20250510160305 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250510160305 +0000" stop="20250510163000 +0000" channel="CNA.mewatch">
+    <programme start="20250510160307 +0000" stop="20250510163003 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 19</title>
     </programme>
-    <programme start="20250510163000 +0000" stop="20250510170002 +0000" channel="CNA.mewatch">
+    <programme start="20250510163003 +0000" stop="20250510170005 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 4</title>
     </programme>
-    <programme start="20250510170002 +0000" stop="20250510173000 +0000" channel="CNA.mewatch">
+    <programme start="20250510170005 +0000" stop="20250510173001 +0000" channel="CNA.mewatch">
         <title>Sour, Salty &amp; Alive - EP 8</title>
     </programme>
-    <programme start="20250510173000 +0000" stop="20250510175959 +0000" channel="CNA.mewatch">
+    <programme start="20250510173001 +0000" stop="20250510180000 +0000" channel="CNA.mewatch">
         <title>Tender Loving Food - EP 3</title>
     </programme>
-    <programme start="20250510175959 +0000" stop="20250510182959 +0000" channel="CNA.mewatch">
+    <programme start="20250510180000 +0000" stop="20250510182927 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250510182959 +0000" stop="20250510185958 +0000" channel="CNA.mewatch">
+    <programme start="20250510182927 +0000" stop="20250510185957 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 22</title>
     </programme>
-    <programme start="20250510185958 +0000" stop="20250510200001 +0000" channel="CNA.mewatch">
+    <programme start="20250510185957 +0000" stop="20250510200000 +0000" channel="CNA.mewatch">
         <title>An Unequal Heatwave</title>
     </programme>
-    <programme start="20250510200001 +0000" stop="20250510203001 +0000" channel="CNA.mewatch">
+    <programme start="20250510200000 +0000" stop="20250510203006 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250510203001 +0000" stop="20250510210000 +0000" channel="CNA.mewatch">
+    <programme start="20250510203006 +0000" stop="20250510210004 +0000" channel="CNA.mewatch">
         <title>Lunch With Us - EP 6</title>
     </programme>
-    <programme start="20250510210000 +0000" stop="20250510220000 +0000" channel="CNA.mewatch">
+    <programme start="20250510210004 +0000" stop="20250510220000 +0000" channel="CNA.mewatch">
         <title>The Internet &amp; Us</title>
     </programme>
     <programme start="20250510220000 +0000" stop="20250510222959 +0000" channel="CNA.mewatch">
