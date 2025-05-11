@@ -1,6 +1,3 @@
-    <programme start="20250511100000 +0000" stop="20250511131000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Newcastle United v Chelsea</title>
-    </programme>
     <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Overnight Sunday</title>
     </programme>
