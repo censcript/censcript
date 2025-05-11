@@ -1,6 +1,3 @@
-    <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Kawasaki</title>
-    </programme>
     <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Yokohama FM</title>
     </programme>
