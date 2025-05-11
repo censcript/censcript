@@ -1609,7 +1609,48 @@
 <programme start="20250512154900 +0000" stop="20250512161900 +0000" channel="BUDDY STARS.mncvision">
     <title>Dogtanian &amp; Three Muskehounds</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250511171700 +0000" stop="20250511185300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250511185300 +0000" stop="20250511204500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Donkey King</title>
+</programme>
+<programme start="20250511204500 +0000" stop="20250511221900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250511221900 +0000" stop="20250512001900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Donkey King</title>
+</programme>
+<programme start="20250512001900 +0000" stop="20250512021700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250512021700 +0000" stop="20250512035400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Come Away</title>
+</programme>
+<programme start="20250512035400 +0000" stop="20250512053700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250512053700 +0000" stop="20250512070800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Ribbit</title>
+</programme>
+<programme start="20250512070800 +0000" stop="20250512085800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250512085800 +0000" stop="20250512105300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Donkey King</title>
+</programme>
+<programme start="20250512105300 +0000" stop="20250512123900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250512123900 +0000" stop="20250512142000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dragon Rider</title>
+</programme>
+<programme start="20250512142000 +0000" stop="20250512154900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250512154900 +0000" stop="20250512161900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dogtanian &amp; Three Muskehounds</title>
+</programme>
 <programme start="20250511170500 +0000" stop="20250511171500 +0000" channel="CBeebies.mncvision">
     <title>Teletubbies S1, Ep 113</title>
 </programme>
@@ -2327,7 +2368,54 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250512152700 +0000" stop="20250512155700 +0000" channel="CINEEDGE HD.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250511180000 +0000" stop="20250511190000 +0000" channel="CNBC.mncvision">
+    <title>Meet The Press</title>
+</programme>
+<programme start="20250511190000 +0000" stop="20250511210000 +0000" channel="CNBC.mncvision">
+    <title>The Tonight Show, Jimmy Fallon</title>
+</programme>
+<programme start="20250511210000 +0000" stop="20250511213000 +0000" channel="CNBC.mncvision">
+    <title>Managing Asia</title>
+</programme>
+<programme start="20250511213000 +0000" stop="20250511220000 +0000" channel="CNBC.mncvision">
+    <title>Who Owns...?</title>
+</programme>
+<programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="CNBC.mncvision">
+    <title>Meet The Press</title>
+</programme>
+<programme start="20250511230000 +0000" stop="20250512020000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Asia</title>
+</programme>
+<programme start="20250512020000 +0000" stop="20250512030000 +0000" channel="CNBC.mncvision">
+    <title>The China Connection</title>
+</programme>
+<programme start="20250512030000 +0000" stop="20250512040000 +0000" channel="CNBC.mncvision">
+    <title>Inside India</title>
+</programme>
+<programme start="20250512040000 +0000" stop="20250512050000 +0000" channel="CNBC.mncvision">
+    <title>Access Middle East</title>
+</programme>
+<programme start="20250512050000 +0000" stop="20250512060000 +0000" channel="CNBC.mncvision">
+    <title>Europe Early Edition</title>
+</programme>
+<programme start="20250512060000 +0000" stop="20250512090000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Europe</title>
+</programme>
+<programme start="20250512090000 +0000" stop="20250512100000 +0000" channel="CNBC.mncvision">
+    <title>Worldwide Exchange</title>
+</programme>
+<programme start="20250512100000 +0000" stop="20250512130000 +0000" channel="CNBC.mncvision">
+    <title>US Squawk Box</title>
+</programme>
+<programme start="20250512130000 +0000" stop="20250512150000 +0000" channel="CNBC.mncvision">
+    <title>Squawk On The Street</title>
+</programme>
+<programme start="20250512150000 +0000" stop="20250512160000 +0000" channel="CNBC.mncvision">
+    <title>Money Movers</title>
+</programme>
+<programme start="20250512160000 +0000" stop="20250512163000 +0000" channel="CNBC.mncvision">
+    <title>Halftime Report</title>
+</programme>
 <programme start="20250511172000 +0000" stop="20250511181500 +0000" channel="Crime Investigation.mncvision">
     <title>Interrogation Raw S2, Ep 19</title>
 </programme>
@@ -3678,8 +3766,222 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250512154000 +0000" stop="20250512161000 +0000" channel="Galaxy Premium.mncvision">
     <title>Don&#039;t Breathe</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250511173000 +0000" stop="20250511182000 +0000" channel="Global Trekker.mncvision">
+    <title>Loch Lomond: A Year In..., Ep 4</title>
+</programme>
+<programme start="20250511182000 +0000" stop="20250511191000 +0000" channel="Global Trekker.mncvision">
+    <title>Sports Detectives, Ep 1</title>
+</programme>
+<programme start="20250511191000 +0000" stop="20250511200000 +0000" channel="Global Trekker.mncvision">
+    <title>Sports Detectives, Ep 4</title>
+</programme>
+<programme start="20250511200000 +0000" stop="20250511205500 +0000" channel="Global Trekker.mncvision">
+    <title>40 Under 40</title>
+</programme>
+<programme start="20250511205500 +0000" stop="20250511220000 +0000" channel="Global Trekker.mncvision">
+    <title>David Attenborough: Life On...</title>
+</programme>
+<programme start="20250511220000 +0000" stop="20250511224500 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 4</title>
+</programme>
+<programme start="20250511224500 +0000" stop="20250511233000 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20250511233000 +0000" stop="20250512002000 +0000" channel="Global Trekker.mncvision">
+    <title>Around The World With..., Ep 6</title>
+</programme>
+<programme start="20250512002000 +0000" stop="20250512005000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20250512005000 +0000" stop="20250512012000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20250512012000 +0000" stop="20250512015000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20250512015000 +0000" stop="20250512022000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
+<programme start="20250512022000 +0000" stop="20250512025000 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 1</title>
+</programme>
+<programme start="20250512025000 +0000" stop="20250512032500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 2</title>
+</programme>
+<programme start="20250512032500 +0000" stop="20250512035500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 3</title>
+</programme>
+<programme start="20250512035500 +0000" stop="20250512042500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 4</title>
+</programme>
+<programme start="20250512042500 +0000" stop="20250512045500 +0000" channel="Global Trekker.mncvision">
+    <title>Essence Of India, Ep 1</title>
+</programme>
+<programme start="20250512045500 +0000" stop="20250512052500 +0000" channel="Global Trekker.mncvision">
+    <title>Essence Of India, Ep 2</title>
+</programme>
+<programme start="20250512052500 +0000" stop="20250512061500 +0000" channel="Global Trekker.mncvision">
+    <title>Around The World With..., Ep 6</title>
+</programme>
+<programme start="20250512061500 +0000" stop="20250512064500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20250512064500 +0000" stop="20250512071500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20250512071500 +0000" stop="20250512074500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20250512074500 +0000" stop="20250512081500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
+<programme start="20250512081500 +0000" stop="20250512084500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 1</title>
+</programme>
+<programme start="20250512084500 +0000" stop="20250512093000 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20250512093000 +0000" stop="20250512102000 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 6</title>
+</programme>
+<programme start="20250512102000 +0000" stop="20250512104500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 5</title>
+</programme>
+<programme start="20250512104500 +0000" stop="20250512111000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 6</title>
+</programme>
+<programme start="20250512111000 +0000" stop="20250512113500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 7</title>
+</programme>
+<programme start="20250512113500 +0000" stop="20250512120000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 8</title>
+</programme>
+<programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Global Trekker.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20250512130000 +0000" stop="20250512135500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250512135500 +0000" stop="20250512145000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250512145000 +0000" stop="20250512154500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250512154500 +0000" stop="20250512164000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250512164000 +0000" stop="20250511171000 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20250511173000 +0000" stop="20250511182000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Loch Lomond: A Year In..., Ep 4</title>
+</programme>
+<programme start="20250511182000 +0000" stop="20250511191000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 1</title>
+</programme>
+<programme start="20250511191000 +0000" stop="20250511200000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 4</title>
+</programme>
+<programme start="20250511200000 +0000" stop="20250511205500 +0000" channel="Global Trekker HD.mncvision">
+    <title>40 Under 40</title>
+</programme>
+<programme start="20250511205500 +0000" stop="20250511220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>David Attenborough: Life On...</title>
+</programme>
+<programme start="20250511220000 +0000" stop="20250511224500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 4</title>
+</programme>
+<programme start="20250511224500 +0000" stop="20250511233000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20250511233000 +0000" stop="20250512002000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Around The World With..., Ep 6</title>
+</programme>
+<programme start="20250512002000 +0000" stop="20250512005000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20250512005000 +0000" stop="20250512012000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20250512012000 +0000" stop="20250512015000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20250512015000 +0000" stop="20250512022000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
+<programme start="20250512022000 +0000" stop="20250512025000 +0000" channel="Global Trekker HD.mncvision">
+    <title>United Plates Of America, Ep 1</title>
+</programme>
+<programme start="20250512025000 +0000" stop="20250512032500 +0000" channel="Global Trekker HD.mncvision">
+    <title>United Plates Of America, Ep 2</title>
+</programme>
+<programme start="20250512032500 +0000" stop="20250512035500 +0000" channel="Global Trekker HD.mncvision">
+    <title>United Plates Of America, Ep 3</title>
+</programme>
+<programme start="20250512035500 +0000" stop="20250512042500 +0000" channel="Global Trekker HD.mncvision">
+    <title>United Plates Of America, Ep 4</title>
+</programme>
+<programme start="20250512042500 +0000" stop="20250512045500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Essence Of India, Ep 1</title>
+</programme>
+<programme start="20250512045500 +0000" stop="20250512052500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Essence Of India, Ep 2</title>
+</programme>
+<programme start="20250512052500 +0000" stop="20250512061500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Around The World With..., Ep 6</title>
+</programme>
+<programme start="20250512061500 +0000" stop="20250512064500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20250512064500 +0000" stop="20250512071500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20250512071500 +0000" stop="20250512074500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20250512074500 +0000" stop="20250512081500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
+<programme start="20250512081500 +0000" stop="20250512084500 +0000" channel="Global Trekker HD.mncvision">
+    <title>United Plates Of America, Ep 1</title>
+</programme>
+<programme start="20250512084500 +0000" stop="20250512093000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20250512093000 +0000" stop="20250512102000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 6</title>
+</programme>
+<programme start="20250512102000 +0000" stop="20250512104500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Heroes, Ep 5</title>
+</programme>
+<programme start="20250512104500 +0000" stop="20250512111000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Heroes, Ep 6</title>
+</programme>
+<programme start="20250512111000 +0000" stop="20250512113500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Heroes, Ep 7</title>
+</programme>
+<programme start="20250512113500 +0000" stop="20250512120000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Heroes, Ep 8</title>
+</programme>
+<programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20250512130000 +0000" stop="20250512135500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250512135500 +0000" stop="20250512145000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250512145000 +0000" stop="20250512154500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250512154500 +0000" stop="20250512164000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250512164000 +0000" stop="20250511171000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
 <programme start="20250511170000 +0000" stop="20250511180000 +0000" channel="GTV.mncvision">
     <title>Legenda Sang Penunggu</title>
 </programme>
@@ -7415,7 +7717,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250512162000 +0000" stop="20250512165000 +0000" channel="Rock Entertainment.mncvision">
     <title>The Tonight Show S12, Ep 108</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250511173000 +0000" stop="20250511184500 +0000" channel="SCTV.mncvision">
+    <title>Nasi Padang Rasa Bali</title>
+</programme>
+<programme start="20250511184500 +0000" stop="20250511200000 +0000" channel="SCTV.mncvision">
+    <title>Sinema Malam</title>
+</programme>
+<programme start="20250511200000 +0000" stop="20250511210000 +0000" channel="SCTV.mncvision">
+    <title>Sinema Dini Hari</title>
+</programme>
+<programme start="20250511210000 +0000" stop="20250511213000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250511213000 +0000" stop="20250511230000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250511230000 +0000" stop="20250511233000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250511233000 +0000" stop="20250512000000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512000000 +0000" stop="20250512013000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512013000 +0000" stop="20250512030000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512030000 +0000" stop="20250512050000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512050000 +0000" stop="20250512053000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512053000 +0000" stop="20250512063000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512063000 +0000" stop="20250512084500 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512084500 +0000" stop="20250512094500 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512094500 +0000" stop="20250512111500 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512111500 +0000" stop="20250512130000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512130000 +0000" stop="20250512143000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512143000 +0000" stop="20250512160000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
+<programme start="20250512160000 +0000" stop="20250512163000 +0000" channel="SCTV.mncvision">
+    <title>SCTV</title>
+</programme>
 <programme start="20250511173000 +0000" stop="20250511184500 +0000" channel="SCTV HD.mncvision">
     <title>Nasi Padang Rasa Bali</title>
 </programme>
