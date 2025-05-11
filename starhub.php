@@ -7978,13 +7978,13 @@
     <programme start="20250510133000 +0000" stop="20250510163000 +0000" channel="Asianet Movies.starhub">
         <title>Bramayugam</title>
     </programme>
-    <programme start="20250510163000 +0000" stop="20250510190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250510163000 +0000" stop="20250510191000 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
-    <programme start="20250510190000 +0000" stop="20250510220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250510191000 +0000" stop="20250510214000 +0000" channel="Asianet Movies.starhub">
         <title>Daya</title>
     </programme>
-    <programme start="20250510220000 +0000" stop="20250510233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250510214000 +0000" stop="20250510233000 +0000" channel="Asianet Movies.starhub">
         <title>Boy Friend</title>
     </programme>
     <programme start="20250510233000 +0000" stop="20250511013000 +0000" channel="Asianet Movies.starhub">
