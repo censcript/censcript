@@ -1,6 +1,3 @@
-    <programme start="20250511020000 +0000" stop="20250511043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - San Diego Wave FC v Portland Thorns FC</title>
-    </programme>
     <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kawasaki</title>
     </programme>
