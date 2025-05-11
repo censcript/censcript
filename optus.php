@@ -1,6 +1,3 @@
-    <programme start="20250511095000 +0000" stop="20250511121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gwangju v Jeonbuk</title>
-    </programme>
     <programme start="20250511100000 +0000" stop="20250511131000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Newcastle United v Chelsea</title>
     </programme>
