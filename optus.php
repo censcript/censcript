@@ -1,6 +1,3 @@
-    <programme start="20250510233000 +0000" stop="20250511020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - North Carolina Courage v Orlando Pride</title>
-    </programme>
     <programme start="20250511020000 +0000" stop="20250511043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - San Diego Wave FC v Portland Thorns FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Nations League - Spain v France</title>
     </programme>

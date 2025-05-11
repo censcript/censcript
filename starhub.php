@@ -7996,10 +7996,10 @@
     <programme start="20250511043000 +0000" stop="20250511073000 +0000" channel="Asianet Movies.starhub">
         <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20250511073000 +0000" stop="20250511103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250511073000 +0000" stop="20250511104500 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20250511103000 +0000" stop="20250511133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250511104500 +0000" stop="20250511133000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
     <programme start="20250511133000 +0000" stop="20250511163000 +0000" channel="Asianet Movies.starhub">

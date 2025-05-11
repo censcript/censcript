@@ -2899,16 +2899,16 @@
 <programme start="20250511145500 +0000" stop="20250511170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Legenden-Kommentar: FK Austria Wien - SK Rapid, 30. Runde</title>
 </programme>
-<programme start="20250511171500 +0000" stop="20250511173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250511170000 +0000" stop="20250511173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: ÖFB-Frauen BL</title>
 </programme>
-<programme start="20250511173500 +0000" stop="20250511200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250511173500 +0000" stop="20250511203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Fußball: FK Austria Wien - First Vienna FC 1894, ÖFB-Frauen Bundesliga, 41. Runde</title>
 </programme>
 <programme start="20250511084000 +0000" stop="20250511090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Tennis ATP</title>
 </programme>
-<programme start="20250511090000 +0000" stop="20250511210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250511090000 +0000" stop="20250511230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20250510221500 +0000" stop="20250510231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3457,13 +3457,13 @@
 <programme start="20250511124500 +0000" stop="20250511130500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20250511130500 +0000" stop="20250511151500 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250511130500 +0000" stop="20250511154500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Manchester United - West Ham United, 36. Spieltag</title>
 </programme>
 <programme start="20250511124500 +0000" stop="20250511130500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20250511130500 +0000" stop="20250511151500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250511130500 +0000" stop="20250511154500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Crystal Palace, 36. Spieltag</title>
 </programme>
 <programme start="20250510224000 +0000" stop="20250511003000 +0000" channel="SYFY HD.skyde">
