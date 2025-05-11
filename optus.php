@@ -1,6 +1,3 @@
-    <programme start="20250511072000 +0000" stop="20250511094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Jeju v Ulsan</title>
-    </programme>
     <programme start="20250511095000 +0000" stop="20250511121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gwangju v Jeonbuk</title>
     </programme>
