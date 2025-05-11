@@ -1,6 +1,3 @@
-    <programme start="20250511055500 +0000" stop="20250511081000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Yokohama FM</title>
-    </programme>
     <programme start="20250511072000 +0000" stop="20250511094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Jeju v Ulsan</title>
     </programme>
