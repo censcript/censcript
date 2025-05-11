@@ -526,9 +526,6 @@
 <programme start="20250511090000 +0000" stop="20250511100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250511100000 +0000" stop="20250511130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025 France (L)</title>
-</programme>
 <programme start="20250511130000 +0000" stop="20250511141500 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250512100000 +0000" stop="20250512105900 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250512105900 +0000" stop="20250512111100 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

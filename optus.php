@@ -1,12 +1,3 @@
-    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Nottingham Forest v Leicester City</title>
-    </programme>
-    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Tottenham Hotspur v Crystal Palace</title>
-    </programme>
-    <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Manchester United v West Ham United</title>
-    </programme>
     <programme start="20250511152000 +0000" stop="20250511183000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Liverpool v Arsenal</title>
     </programme>
