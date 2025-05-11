@@ -3043,25 +3043,25 @@
 <programme start="20250511173000 +0000" stop="20250511180000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: SGE - STP, 33. Spieltag</title>
 </programme>
-<programme start="20250511180000 +0000" stop="20250511183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250511180000 +0000" stop="20250511184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Dein Fußball Sonntag - Die Show</title>
 </programme>
 <programme start="20250511104000 +0000" stop="20250511110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20250511110000 +0000" stop="20250511133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250511110000 +0000" stop="20250511134500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - SV Darmstadt 98, 33. Spieltag</title>
 </programme>
 <programme start="20250511104000 +0000" stop="20250511110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20250511110000 +0000" stop="20250511133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250511110000 +0000" stop="20250511134500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hannover 96 - SpVgg Greuther Fürth, 33. Spieltag</title>
 </programme>
 <programme start="20250511104000 +0000" stop="20250511110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20250511110000 +0000" stop="20250511133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250511110000 +0000" stop="20250511134500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Jahn Regensburg - Karlsruher SC, 33. Spieltag</title>
 </programme>
 <programme start="20250510230000 +0000" stop="20250510233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3286,7 +3286,7 @@
 <programme start="20250511213000 +0000" stop="20250511220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Skylights</title>
 </programme>
-<programme start="20250510231000 +0000" stop="20250510233000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250510231500 +0000" stop="20250510233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 36. Spieltag</title>
 </programme>
 <programme start="20250510233000 +0000" stop="20250511013000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3358,20 +3358,23 @@
 <programme start="20250510230500 +0000" stop="20250511000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250511000000 +0000" stop="20250511020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - J. Ostapenko (LAT), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
+<programme start="20250511000000 +0000" stop="20250511014500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Mertens (BEL) - J. Pegula (USA), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
 </programme>
-<programme start="20250511020000 +0000" stop="20250511040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - M. Navone (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
-</programme>
-<programme start="20250511040000 +0000" stop="20250511043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250511014500 +0000" stop="20250511021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250511043000 +0000" stop="20250511050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250511021500 +0000" stop="20250511041000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - M. Navone (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
+</programme>
+<programme start="20250511041000 +0000" stop="20250511044000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250511044000 +0000" stop="20250511051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Madrid</title>
 </programme>
-<programme start="20250511050000 +0000" stop="20250511070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - J. Ostapenko (LAT), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
+<programme start="20250511051500 +0000" stop="20250511070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Mertens (BEL) - J. Pegula (USA), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
 </programme>
 <programme start="20250511070000 +0000" stop="20250511090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - M. Navone (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
@@ -3451,7 +3454,7 @@
 <programme start="20250511135500 +0000" stop="20250511140000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250511140000 +0000" stop="20250511190000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250511140000 +0000" stop="20250511210000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20250511124500 +0000" stop="20250511130500 +0000" channel="Sky Sport 6 HD.skyde">
