@@ -941,10 +941,10 @@
         <title>No programme available now. Next broadcast on 13th May, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250511160000 +0000" stop="20250512160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 16th May, Friday 8.30pm. ONE Friday Fights 108</title>
+        <title>No programme available now. Next broadcast on 14th May, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs Buriram United FC</title>
     </programme>
     <programme start="20250512160000 +0000" stop="20250513160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 16th May, Friday 8.30pm. ONE Friday Fights 108</title>
+        <title>No programme available now. Next broadcast on 14th May, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Công An Hà Nôi FC vs Buriram United FC</title>
     </programme>
     <programme start="20250511160000 +0000" stop="20250512160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

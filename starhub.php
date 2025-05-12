@@ -8428,7 +8428,7 @@
     <programme start="20250512134000 +0000" stop="20250512155000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
     </programme>
-    <programme start="20250512155000 +0000" stop="20250512181500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250512155000 +0000" stop="20250512180500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 31 Al Hilal vs Al Orobah</title>
     </programme>
     <programme start="20250511153000 +0000" stop="20250511163000 +0000" channel="Dragon TV.starhub">
