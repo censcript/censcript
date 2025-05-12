@@ -1,3 +1,7 @@
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20250511220000 +0000" stop="20250511224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2893,34 +2897,34 @@
 <programme start="20250512203000 +0000" stop="20250512220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Friesland: Prima Klima</title>
 </programme>
-<programme start="20250511220000 +0000" stop="20250511223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250511221000 +0000" stop="20250511223500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250511223000 +0000" stop="20250512003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250511223500 +0000" stop="20250512003500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SK Rapid, 30. Runde</title>
 </programme>
-<programme start="20250512003000 +0000" stop="20250512023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512003500 +0000" stop="20250512022500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
-<programme start="20250512023000 +0000" stop="20250512030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512022500 +0000" stop="20250512030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
 </programme>
 <programme start="20250512030000 +0000" stop="20250512050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SK Rapid, 30. Runde</title>
 </programme>
-<programme start="20250512050000 +0000" stop="20250512053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512050000 +0000" stop="20250512053500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
 </programme>
-<programme start="20250512053000 +0000" stop="20250512060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512053500 +0000" stop="20250512060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
 </programme>
-<programme start="20250512060000 +0000" stop="20250512063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512060500 +0000" stop="20250512063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250512063000 +0000" stop="20250512070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512063000 +0000" stop="20250512070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
 </programme>
-<programme start="20250512070000 +0000" stop="20250512081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250512070500 +0000" stop="20250512081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
 <programme start="20250512081500 +0000" stop="20250512083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3142,7 +3146,7 @@
 <programme start="20250512210000 +0000" stop="20250512220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Bahrain</title>
 </programme>
-<programme start="20250511220500 +0000" stop="20250512010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250511220000 +0000" stop="20250512010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Turkish Open, 4. Tag in Antalya (Türkei)</title>
 </programme>
 <programme start="20250512010000 +0000" stop="20250512040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3161,10 +3165,10 @@
     <title>Golf: Truist Championship, 4. Tag in Philadelphia, PA (USA)</title>
 </programme>
 <programme start="20250512150000 +0000" stop="20250512154500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tiger 2000</title>
+    <title></title>
 </programme>
 <programme start="20250512154500 +0000" stop="20250512160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (3)</title>
+    <title></title>
 </programme>
 <programme start="20250512160000 +0000" stop="20250512190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Mizuho Americas Open, Finaltag in Jersey City, NJ (USA)</title>
@@ -3412,23 +3416,20 @@
 <programme start="20250511233000 +0000" stop="20250512003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20250512003000 +0000" stop="20250512021000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Nosková (CZE) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512003000 +0000" stop="20250512023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512021000 +0000" stop="20250512040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - V. Gaubas (LTU), Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512023000 +0000" stop="20250512043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512040000 +0000" stop="20250512050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Madrid</title>
-</programme>
-<programme start="20250512050000 +0000" stop="20250512053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250512043000 +0000" stop="20250512050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250512053000 +0000" stop="20250512071500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Nosková (CZE) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512050000 +0000" stop="20250512070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512071500 +0000" stop="20250512090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - V. Gaubas (LTU), Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512070000 +0000" stop="20250512090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20250512090000 +0000" stop="20250512210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 7. Tag</title>
