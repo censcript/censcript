@@ -433,9 +433,6 @@
     <programme start="20250513153000 +0000" stop="20250513160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250513160000 +0000" stop="20250514010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250512140041 +0000" stop="20250512163051 +0000" channel="Vasantham.mewatch">
         <title>Aayiram Porkaasukal</title>
     </programme>
