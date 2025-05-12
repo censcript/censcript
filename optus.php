@@ -1,6 +1,3 @@
-    <programme start="20250512000000 +0000" stop="20250512023000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Seattle Reign v Houston Dash</title>
-    </programme>
     <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -43,7 +40,7 @@
     <programme start="20250516182000 +0000" stop="20250516204000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Aston Villa v Tottenham Hotspur</title>
     </programme>
-    <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Chelsea v Manchester United</title>
     </programme>
     <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Optus Sport 11.optus">
@@ -109,13 +106,13 @@
     <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - West Ham United v Nottingham Forest</title>
     </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Leicester City v Ipswich</title>
     </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Brentford v Fulham</title>
     </programme>
-    <programme start="20250518152000 +0000" stop="20250518183000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250518152000 +0000" stop="20250518183000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
     <programme start="20250518193000 +0000" stop="20250518210000 +0000" channel="Optus Sport 11.optus">
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250708185000 +0000" stop="20250708211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Poland v Sweden</title>
+    </programme>
+    <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - England v Netherlands</title>
     </programme>
