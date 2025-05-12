@@ -1393,7 +1393,39 @@
 <programme start="20250513165500 +0000" stop="20250512172500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga 2024/25: VLD Vs GIR (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250512173000 +0000" stop="20250512200000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250512200000 +0000" stop="20250512220000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250512220000 +0000" stop="20250513010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513010000 +0000" stop="20250513030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513030000 +0000" stop="20250513050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513050000 +0000" stop="20250513070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513070000 +0000" stop="20250513090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513090000 +0000" stop="20250513110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513110000 +0000" stop="20250513130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513130000 +0000" stop="20250513150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250513150000 +0000" stop="20250513153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20250512174500 +0000" stop="20250512200000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -3368,8 +3400,189 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250513163000 +0000" stop="20250512170000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Orderan Masak Besar</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250512173000 +0000" stop="20250512183000 +0000" channel="Food Travel HD.mncvision">
+    <title>D&#039;Power Of Emak-Emak</title>
+</programme>
+<programme start="20250512183000 +0000" stop="20250512193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250512193000 +0000" stop="20250512203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250512203000 +0000" stop="20250512210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250512210000 +0000" stop="20250512213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250512213000 +0000" stop="20250512220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250512220000 +0000" stop="20250512223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Explorazi</title>
+</programme>
+<programme start="20250512223000 +0000" stop="20250512230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250512230000 +0000" stop="20250512233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250512233000 +0000" stop="20250513000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250513000000 +0000" stop="20250513003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250513003000 +0000" stop="20250513010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Cooking With Queen</title>
+</programme>
+<programme start="20250513010000 +0000" stop="20250513013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250513013000 +0000" stop="20250513020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kungfu Chef</title>
+</programme>
+<programme start="20250513020000 +0000" stop="20250513023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250513023000 +0000" stop="20250513030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Explorazi</title>
+</programme>
+<programme start="20250513030000 +0000" stop="20250513040000 +0000" channel="Food Travel HD.mncvision">
+    <title>D&#039;Power Of Emak-Emak</title>
+</programme>
+<programme start="20250513040000 +0000" stop="20250513050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250513050000 +0000" stop="20250513060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250513060000 +0000" stop="20250513063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250513063000 +0000" stop="20250513070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250513070000 +0000" stop="20250513080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
+<programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Food Travel HD.mncvision">
+    <title>D&#039;Power Of Emak-Emak</title>
+</programme>
+<programme start="20250513090000 +0000" stop="20250513100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250513100000 +0000" stop="20250513110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250513110000 +0000" stop="20250513113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Spesial Liburan</title>
+</programme>
+<programme start="20250513113000 +0000" stop="20250513120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250513120000 +0000" stop="20250513123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250513123000 +0000" stop="20250513130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Explorazi</title>
+</programme>
+<programme start="20250513130000 +0000" stop="20250513133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food Spesial Liburan</title>
+</programme>
+<programme start="20250513133000 +0000" stop="20250513140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip Spesial Liburan</title>
+</programme>
+<programme start="20250513140000 +0000" stop="20250513143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Siti Tour Spesial Liburan</title>
+</programme>
+<programme start="20250513150000 +0000" stop="20250513153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Cooking With Queen</title>
+</programme>
+<programme start="20250513153000 +0000" stop="20250513160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kungfu Chef</title>
+</programme>
+<programme start="20250513163000 +0000" stop="20250512170000 +0000" channel="Food Travel HD.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
+<programme start="20250512170000 +0000" stop="20250512180000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20250512180000 +0000" stop="20250512190000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20250512190000 +0000" stop="20250512200000 +0000" channel="FOX News.mncvision">
+    <title>The Story</title>
+</programme>
+<programme start="20250512200000 +0000" stop="20250512210000 +0000" channel="FOX News.mncvision">
+    <title>Your World</title>
+</programme>
+<programme start="20250512210000 +0000" stop="20250512220000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20250512220000 +0000" stop="20250512230000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20250512230000 +0000" stop="20250513000000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20250513000000 +0000" stop="20250513010000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20250513010000 +0000" stop="20250513020000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20250513020000 +0000" stop="20250513030000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20250513030000 +0000" stop="20250513040000 +0000" channel="FOX News.mncvision">
+    <title>Fox News At Night</title>
+</programme>
+<programme start="20250513040000 +0000" stop="20250513050000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20250513050000 +0000" stop="20250513060000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20250513060000 +0000" stop="20250513070000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20250513070000 +0000" stop="20250513080000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20250513090000 +0000" stop="20250513100000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends First</title>
+</programme>
+<programme start="20250513100000 +0000" stop="20250513110000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250513110000 +0000" stop="20250513120000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250513120000 +0000" stop="20250513130000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250513130000 +0000" stop="20250513140000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20250513140000 +0000" stop="20250513150000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20250513150000 +0000" stop="20250513160000 +0000" channel="FOX News.mncvision">
+    <title>The Faulkner Focus</title>
+</programme>
+<programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="FOX News.mncvision">
+    <title>Outnumbered</title>
+</programme>
 <programme start="20250512170000 +0000" stop="20250512171000 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -8494,7 +8707,69 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="SPOTV 2.mncvision">
     <title>Roshn Saudi League 2024-25</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250512181500 +0000" stop="20250512201500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>GTour Mixed 1st Tournament</title>
+</programme>
+<programme start="20250512201500 +0000" stop="20250512204500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
+<programme start="20250512204500 +0000" stop="20250512211500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men 2024/25</title>
+</programme>
+<programme start="20250512211500 +0000" stop="20250512221500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250512221500 +0000" stop="20250512234000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250512234000 +0000" stop="20250513005500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250513005500 +0000" stop="20250513030000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250513030000 +0000" stop="20250513050000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Grand Slam Track: Miami</title>
+</programme>
+<programme start="20250513050000 +0000" stop="20250513053000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men 2024/25</title>
+</programme>
+<programme start="20250513053000 +0000" stop="20250513061500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 MotoE Michelin GP: FRA</title>
+</programme>
+<programme start="20250513061500 +0000" stop="20250513070000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 MotoE Michelin GP: FRA</title>
+</programme>
+<programme start="20250513070000 +0000" stop="20250513090000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Roshn Saudi League 2024-25</title>
+</programme>
+<programme start="20250513090000 +0000" stop="20250513100000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Supercars C&#039;ship: Tasmania</title>
+</programme>
+<programme start="20250513100000 +0000" stop="20250513103000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Spotlight: Yamaha</title>
+</programme>
+<programme start="20250513103000 +0000" stop="20250513113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 Red Bull Rookies Cup</title>
+</programme>
+<programme start="20250513113000 +0000" stop="20250513121500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 MotoE Michelin GP: FRA</title>
+</programme>
+<programme start="20250513121500 +0000" stop="20250513131500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250513131500 +0000" stop="20250513141500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250513141500 +0000" stop="20250513153000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: Grand Prix de France</title>
+</programme>
+<programme start="20250513153000 +0000" stop="20250513160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2024/25 A-League Men HL</title>
+</programme>
+<programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Roshn Saudi League 2024-25</title>
+</programme>
 <programme start="20250512170000 +0000" stop="20250512174500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Monaco HL</title>
 </programme>

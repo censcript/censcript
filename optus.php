@@ -1,6 +1,3 @@
-    <programme start="20250512173000 +0000" stop="20250512180000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Robert Pires</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
+    </programme>
+    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
     </programme>
