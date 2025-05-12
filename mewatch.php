@@ -1,16 +1,16 @@
-    <programme start="20250511153018 +0000" stop="20250511171540 +0000" channel="Channel 5.mewatch">
+    <programme start="20250511153133 +0000" stop="20250511171655 +0000" channel="Channel 5.mewatch">
         <title>Take The Night</title>
     </programme>
-    <programme start="20250511171540 +0000" stop="20250511174506 +0000" channel="Channel 5.mewatch">
+    <programme start="20250511171655 +0000" stop="20250511174621 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S12 - EP 14</title>
     </programme>
-    <programme start="20250511174506 +0000" stop="20250511184502 +0000" channel="Channel 5.mewatch">
+    <programme start="20250511174621 +0000" stop="20250511184508 +0000" channel="Channel 5.mewatch">
         <title>Game Of Talents UK - EP 3</title>
     </programme>
-    <programme start="20250511184502 +0000" stop="20250511194502 +0000" channel="Channel 5.mewatch">
+    <programme start="20250511184508 +0000" stop="20250511194508 +0000" channel="Channel 5.mewatch">
         <title>Crime Scene Kitchen S2 - EP 10</title>
     </programme>
-    <programme start="20250511194502 +0000" stop="20250511204026 +0000" channel="Channel 5.mewatch">
+    <programme start="20250511194508 +0000" stop="20250511204026 +0000" channel="Channel 5.mewatch">
         <title>Joanna Lumley&#039;s Spice Trail Adventure - EP 4</title>
     </programme>
     <programme start="20250511204026 +0000" stop="20250511220000 +0000" channel="Channel 5.mewatch">
@@ -211,10 +211,10 @@
     <programme start="20250512155938 +0000" stop="20250512170008 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 10</title>
     </programme>
-    <programme start="20250511153025 +0000" stop="20250511162924 +0000" channel="Channel U.mewatch">
+    <programme start="20250511152951 +0000" stop="20250511162849 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 14</title>
     </programme>
-    <programme start="20250511162924 +0000" stop="20250511220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250511162849 +0000" stop="20250511220000 +0000" channel="Channel U.mewatch">
         <title>Show It All - EP 11</title>
     </programme>
     <programme start="20250511220000 +0000" stop="20250512025814 +0000" channel="Channel U.mewatch">
@@ -328,22 +328,19 @@
     <programme start="20250512153044 +0000" stop="20250512160031 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 16</title>
     </programme>
-    <programme start="20250511153019 +0000" stop="20250511160015 +0000" channel="Suria.mewatch">
-        <title>Berita</title>
-    </programme>
-    <programme start="20250511160015 +0000" stop="20250511180018 +0000" channel="Suria.mewatch">
+    <programme start="20250511155957 +0000" stop="20250511180000 +0000" channel="Suria.mewatch">
         <title>Mama Drama Queen</title>
     </programme>
-    <programme start="20250511180018 +0000" stop="20250511190018 +0000" channel="Suria.mewatch">
+    <programme start="20250511180000 +0000" stop="20250511190000 +0000" channel="Suria.mewatch">
         <title>Rintihan Hati - EP 2</title>
     </programme>
-    <programme start="20250511190018 +0000" stop="20250511200014 +0000" channel="Suria.mewatch">
+    <programme start="20250511190000 +0000" stop="20250511195956 +0000" channel="Suria.mewatch">
         <title>Rintihan Hati - EP 3</title>
     </programme>
-    <programme start="20250511200014 +0000" stop="20250511210019 +0000" channel="Suria.mewatch">
+    <programme start="20250511195956 +0000" stop="20250511210001 +0000" channel="Suria.mewatch">
         <title>Rintihan Hati - EP 4</title>
     </programme>
-    <programme start="20250511210019 +0000" stop="20250511220000 +0000" channel="Suria.mewatch">
+    <programme start="20250511210001 +0000" stop="20250511220000 +0000" channel="Suria.mewatch">
         <title>Rintihan Hati - EP 5</title>
     </programme>
     <programme start="20250511220000 +0000" stop="20250511230005 +0000" channel="Suria.mewatch">

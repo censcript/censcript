@@ -256,3 +256,45 @@
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
+    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
+    </programme>
+    <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
+    </programme>
+    <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Belgium v Italy</title>
+    </programme>
+    <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
+    </programme>
+    <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
+    </programme>
+    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
+    </programme>
+    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
+    </programme>
+    <programme start="20250705185000 +0000" stop="20250705211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - France v England</title>
+    </programme>
+    <programme start="20250706155000 +0000" stop="20250706181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Norway v Finland</title>
+    </programme>
+    <programme start="20250706185000 +0000" stop="20250706211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Switzerland v Iceland</title>
+    </programme>
+    <programme start="20250707155000 +0000" stop="20250707181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Spain v Belgium</title>
+    </programme>
+    <programme start="20250707185000 +0000" stop="20250707211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Portugal v Italy</title>
+    </programme>
+    <programme start="20250708155000 +0000" stop="20250708181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Germany v Denmark</title>
+    </programme>
+    <programme start="20250708185000 +0000" stop="20250708211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Poland v Sweden</title>
+    </programme>
