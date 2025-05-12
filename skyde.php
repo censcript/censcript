@@ -3502,7 +3502,7 @@
 <programme start="20250512084000 +0000" stop="20250512090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250512090000 +0000" stop="20250512230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250512090000 +0000" stop="20250512210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 7. Tag</title>
 </programme>
 <programme start="20250511232500 +0000" stop="20250511233000 +0000" channel="SYFY HD.skyde">
