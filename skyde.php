@@ -1,7 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20250511220000 +0000" stop="20250511224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -3146,7 +3142,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250512210000 +0000" stop="20250512220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Bahrain</title>
 </programme>
-<programme start="20250511220000 +0000" stop="20250512010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250511220500 +0000" stop="20250512010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Turkish Open, 4. Tag in Antalya (Türkei)</title>
 </programme>
 <programme start="20250512010000 +0000" stop="20250512040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3165,10 +3161,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Truist Championship, 4. Tag in Philadelphia, PA (USA)</title>
 </programme>
 <programme start="20250512150000 +0000" stop="20250512154500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title></title>
+    <title>Golf: Tiger 2000</title>
 </programme>
 <programme start="20250512154500 +0000" stop="20250512160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title></title>
+    <title>Golf: Projekt 0 (3)</title>
 </programme>
 <programme start="20250512160000 +0000" stop="20250512190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Mizuho Americas Open, Finaltag in Jersey City, NJ (USA)</title>
@@ -3321,7 +3317,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Nottingham Forest - Leicester City, 36. Spieltag</title>
 </programme>
 <programme start="20250512030000 +0000" stop="20250512050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Nottingham Forest - Leicester City, 36. Spieltag</title>
+    <title>PL: FC Liverpool - FC Arsenal, Match of the Week, 36. Spieltag</title>
 </programme>
 <programme start="20250512050000 +0000" stop="20250512053000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Teddy Sheringham</title>
@@ -3416,20 +3412,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250511233000 +0000" stop="20250512003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20250512003000 +0000" stop="20250512023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512003000 +0000" stop="20250512021000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: L. Nosková (CZE) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512023000 +0000" stop="20250512043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512021000 +0000" stop="20250512040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - V. Gaubas (LTU), Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512043000 +0000" stop="20250512050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250512040000 +0000" stop="20250512050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Madrid</title>
+</programme>
+<programme start="20250512050000 +0000" stop="20250512053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250512050000 +0000" stop="20250512070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512053000 +0000" stop="20250512071500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: L. Nosková (CZE) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
-<programme start="20250512070000 +0000" stop="20250512090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
+<programme start="20250512071500 +0000" stop="20250512090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - V. Gaubas (LTU), Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20250512090000 +0000" stop="20250512210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 7. Tag</title>
