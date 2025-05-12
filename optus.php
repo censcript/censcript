@@ -1,6 +1,3 @@
-    <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Kelly &amp; Wrighty Show</title>
-    </programme>
     <programme start="20250512160000 +0000" stop="20250512170000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Generation xG</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
+    </programme>
+    <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - France v Wales</title>
     </programme>

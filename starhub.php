@@ -2980,6 +2980,9 @@
     <programme start="20250511210000 +0000" stop="20250511213000 +0000" channel="ANC.starhub">
         <title>Dwellings</title>
     </programme>
+    <programme start="20250511210000 +0000" stop="20250512080000 +0000" channel="ANC.starhub">
+        <title>Halalan 2025</title>
+    </programme>
     <programme start="20250511213000 +0000" stop="20250511220000 +0000" channel="ANC.starhub">
         <title>Citizen Pinoy</title>
     </programme>
@@ -2989,86 +2992,14 @@
     <programme start="20250511230000 +0000" stop="20250511233000 +0000" channel="ANC.starhub">
         <title>Global Us</title>
     </programme>
-    <programme start="20250511233000 +0000" stop="20250512000000 +0000" channel="ANC.starhub">
-        <title>Beyond The Exchange</title>
+    <programme start="20250512080000 +0000" stop="20250512103000 +0000" channel="ANC.starhub">
+        <title>TV Patrol Express: Halalan 2025 Special Coverage</title>
     </programme>
-    <programme start="20250512000000 +0000" stop="20250512010000 +0000" channel="ANC.starhub">
-        <title>Headstart</title>
+    <programme start="20250512103000 +0000" stop="20250512120000 +0000" channel="ANC.starhub">
+        <title>TV Patrol: Halalan 2025 Special Coverage</title>
     </programme>
-    <programme start="20250512010000 +0000" stop="20250512013000 +0000" channel="ANC.starhub">
-        <title>The Business Outlook</title>
-    </programme>
-    <programme start="20250512013000 +0000" stop="20250512020000 +0000" channel="ANC.starhub">
-        <title>Insights: Israel And Middle East</title>
-    </programme>
-    <programme start="20250512020000 +0000" stop="20250512023000 +0000" channel="ANC.starhub">
-        <title>Hotcopy On Headstart</title>
-    </programme>
-    <programme start="20250512023000 +0000" stop="20250512030000 +0000" channel="ANC.starhub">
-        <title>America&#039;s Hidden History</title>
-    </programme>
-    <programme start="20250512030000 +0000" stop="20250512033000 +0000" channel="ANC.starhub">
-        <title>In Good Shape</title>
-    </programme>
-    <programme start="20250512033000 +0000" stop="20250512040000 +0000" channel="ANC.starhub">
-        <title>Ano Na Bev?</title>
-    </programme>
-    <programme start="20250512040000 +0000" stop="20250512050000 +0000" channel="ANC.starhub">
-        <title>Dateline Philippines</title>
-    </programme>
-    <programme start="20250512050000 +0000" stop="20250512060000 +0000" channel="ANC.starhub">
-        <title>Foodprints</title>
-    </programme>
-    <programme start="20250512060000 +0000" stop="20250512063000 +0000" channel="ANC.starhub">
-        <title>Arts.21</title>
-    </programme>
-    <programme start="20250512063000 +0000" stop="20250512070000 +0000" channel="ANC.starhub">
-        <title>My Italy With Margarita</title>
-    </programme>
-    <programme start="20250512070000 +0000" stop="20250512080000 +0000" channel="ANC.starhub">
-        <title>Market Edge</title>
-    </programme>
-    <programme start="20250512080000 +0000" stop="20250512083000 +0000" channel="ANC.starhub">
-        <title>At The Moment</title>
-    </programme>
-    <programme start="20250512083000 +0000" stop="20250512090000 +0000" channel="ANC.starhub">
-        <title>My Italy With Margarita</title>
-    </programme>
-    <programme start="20250512090000 +0000" stop="20250512100000 +0000" channel="ANC.starhub">
-        <title>Top Story</title>
-    </programme>
-    <programme start="20250512100000 +0000" stop="20250512103000 +0000" channel="ANC.starhub">
-        <title>Executive Class</title>
-    </programme>
-    <programme start="20250512103000 +0000" stop="20250512110000 +0000" channel="ANC.starhub">
-        <title>Insights: Israel And Middle East</title>
-    </programme>
-    <programme start="20250512110000 +0000" stop="20250512113000 +0000" channel="ANC.starhub">
-        <title>Arts.21</title>
-    </programme>
-    <programme start="20250512113000 +0000" stop="20250512120000 +0000" channel="ANC.starhub">
-        <title>Made In Germany</title>
-    </programme>
-    <programme start="20250512120000 +0000" stop="20250512123000 +0000" channel="ANC.starhub">
-        <title>The Business Outlook</title>
-    </programme>
-    <programme start="20250512123000 +0000" stop="20250512130000 +0000" channel="ANC.starhub">
-        <title>Beyond The Exchange</title>
-    </programme>
-    <programme start="20250512130000 +0000" stop="20250512133000 +0000" channel="ANC.starhub">
-        <title>The World Tonight</title>
-    </programme>
-    <programme start="20250512133000 +0000" stop="20250512140000 +0000" channel="ANC.starhub">
-        <title>Executive Class</title>
-    </programme>
-    <programme start="20250512140000 +0000" stop="20250512143000 +0000" channel="ANC.starhub">
-        <title>Tomorrow Today</title>
-    </programme>
-    <programme start="20250512143000 +0000" stop="20250512150000 +0000" channel="ANC.starhub">
-        <title>Banker After Dark</title>
-    </programme>
-    <programme start="20250512150000 +0000" stop="20250512160000 +0000" channel="ANC.starhub">
-        <title>Beached</title>
+    <programme start="20250512120000 +0000" stop="20250512160000 +0000" channel="ANC.starhub">
+        <title>Halalan 2025</title>
     </programme>
     <programme start="20250511153000 +0000" stop="20250511164500 +0000" channel="Karisma.starhub">
         <title>Jatuh Cinta Sama Kamu Gejala Awalnya Gimana Sih?</title>
