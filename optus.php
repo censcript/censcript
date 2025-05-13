@@ -157,6 +157,12 @@
     <programme start="20250523213000 +0000" stop="20250523223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
+    <programme start="20250524013000 +0000" stop="20250524040000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Utah Royals FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250524020000 +0000" stop="20250524043000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Seattle Reign v Washington Spirit</title>
+    </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
     </programme>
@@ -171,6 +177,15 @@
     </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
+    </programme>
+    <programme start="20250524210000 +0000" stop="20250524233000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Houston Dash v Bay FC</title>
+    </programme>
+    <programme start="20250524233000 +0000" stop="20250525020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Chicago Stars v Kansas City Current</title>
+    </programme>
+    <programme start="20250525020000 +0000" stop="20250525043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Angel City FC v Racing Louisville FC</title>
     </programme>
     <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Vissel Kobe</title>
@@ -216,6 +231,9 @@
     </programme>
     <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
+    </programme>
+    <programme start="20250526020000 +0000" stop="20250526043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - San Diego Wave FC v North Carolina Courage</title>
     </programme>
     <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Yokohama FM</title>
@@ -279,22 +297,4 @@
     </programme>
     <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
-    </programme>
-    <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - France v Wales</title>
-    </programme>
-    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
-    </programme>
-    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
-    </programme>
-    <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Portugal v Belgium</title>
-    </programme>
-    <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Italy v Spain</title>
-    </programme>
-    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
     </programme>
