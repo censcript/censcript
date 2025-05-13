@@ -1890,63 +1890,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250513215500 +0000" stop="20250513221500 +0000" channel="Nicktoons.skyde">
     <title>Die Abenteuer der Teenage Mutant Ninja Turtles</title>
 </programme>
-<programme start="20250512223000 +0000" stop="20250513000000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz: Fels in der Brandung</title>
-</programme>
-<programme start="20250513000000 +0000" stop="20250513013000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz: Gegen den Schmerz</title>
-</programme>
-<programme start="20250513013000 +0000" stop="20250513021500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250513021500 +0000" stop="20250513022000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250513022000 +0000" stop="20250513022500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250513022500 +0000" stop="20250513040500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Sacher. In bester Gesellschaft, Teil 1</title>
-</programme>
-<programme start="20250513040500 +0000" stop="20250513054000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumhotel: Afrika</title>
-</programme>
-<programme start="20250513054000 +0000" stop="20250513071500 +0000" channel="Romance TV HD.skyde">
-    <title>Praxis mit Meerblick: Dornröschen</title>
-</programme>
-<programme start="20250513071500 +0000" stop="20250513084000 +0000" channel="Romance TV HD.skyde">
-    <title>Liebe nur geträumt?</title>
-</programme>
-<programme start="20250513084000 +0000" stop="20250513093500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250513093500 +0000" stop="20250513110500 +0000" channel="Romance TV HD.skyde">
-    <title>Dora Heldt: Unzertrennlich</title>
-</programme>
-<programme start="20250513110500 +0000" stop="20250513124000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz: Fels in der Brandung</title>
-</programme>
-<programme start="20250513124000 +0000" stop="20250513141500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz: Gegen den Schmerz</title>
-</programme>
-<programme start="20250513141500 +0000" stop="20250513154500 +0000" channel="Romance TV HD.skyde">
-    <title>Malibu - Ein Zelt für drei</title>
-</programme>
-<programme start="20250513154500 +0000" stop="20250513172000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Los Angeles</title>
-</programme>
-<programme start="20250513172000 +0000" stop="20250513181500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250513181500 +0000" stop="20250513194500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Flügel der Liebe</title>
-</programme>
-<programme start="20250513194500 +0000" stop="20250513212000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Nebel über Schloss Kilrush</title>
-</programme>
-<programme start="20250513212000 +0000" stop="20250513221500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
 <programme start="20250512224500 +0000" stop="20250512233000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Warrior</title>
 </programme>
@@ -3386,45 +3329,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250513214500 +0000" stop="20250513220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
-</programme>
-<programme start="20250512220000 +0000" stop="20250512230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20250512230000 +0000" stop="20250513000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Rennen - GP Frankreich</title>
-</programme>
-<programme start="20250513000000 +0000" stop="20250513001500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights TOR@FLA, Playoffs, 2. Runde, Spiel 4</title>
-</programme>
-<programme start="20250513001500 +0000" stop="20250513003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights WPG@DAL, Playoffs, 2. Runde, Spiel 3</title>
-</programme>
-<programme start="20250513003000 +0000" stop="20250513033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Edmonton Oilers - Vegas Golden Knights, Playoffs, 2. Runde, Spiel 4</title>
-</programme>
-<programme start="20250513033000 +0000" stop="20250513040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Golf: Highlights Turkish Open</title>
-</programme>
-<programme start="20250513040000 +0000" stop="20250513050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Nachspielzeit - die Highlightshow, 22. Spieltag</title>
-</programme>
-<programme start="20250513050000 +0000" stop="20250513060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20250513060000 +0000" stop="20250513063000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 90in30: HSV - ULM, 33.Spieltag</title>
-</programme>
-<programme start="20250513063000 +0000" stop="20250513070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: 90in30: FCB - BMG, 33.Spieltag</title>
-</programme>
-<programme start="20250513070000 +0000" stop="20250513090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Edmonton Oilers - Vegas Golden Knights, Playoffs, 2. Runde, Spiel 4</title>
-</programme>
-<programme start="20250513090000 +0000" stop="20250513210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 8. Tag</title>
-</programme>
-<programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Highlights: GP Frankreich</title>
 </programme>
 <programme start="20250513083000 +0000" stop="20250513103000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Liverpool - FC Arsenal, Match of the Week, 36. Spieltag</title>
