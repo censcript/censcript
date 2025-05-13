@@ -403,7 +403,45 @@
 <programme start="20250514163000 +0000" stop="20250513170000 +0000" channel="Animax.mncvision">
     <title>My Deer Friend Nokotan, Ep 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513173000 +0000" stop="20250513193000 +0000" channel="ANTV.mncvision">
+    <title>Street Dancer</title>
+</programme>
+<programme start="20250513193000 +0000" stop="20250513210000 +0000" channel="ANTV.mncvision">
+    <title>Terowongan Rumah Sakit</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
+</programme>
+<programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250514000000 +0000" channel="ANTV.mncvision">
+    <title>Dragon Rescue Riders: Heroes...</title>
+</programme>
+<programme start="20250514000000 +0000" stop="20250514020000 +0000" channel="ANTV.mncvision">
+    <title>Lembah Duka</title>
+</programme>
+<programme start="20250514020000 +0000" stop="20250514053000 +0000" channel="ANTV.mncvision">
+    <title>Raja Hindustani</title>
+</programme>
+<programme start="20250514053000 +0000" stop="20250514083000 +0000" channel="ANTV.mncvision">
+    <title>Radha Mohan</title>
+</programme>
+<programme start="20250514083000 +0000" stop="20250514103000 +0000" channel="ANTV.mncvision">
+    <title>Bhagya Lakshmi</title>
+</programme>
+<programme start="20250514103000 +0000" stop="20250514120000 +0000" channel="ANTV.mncvision">
+    <title>Imlie</title>
+</programme>
+<programme start="20250514120000 +0000" stop="20250514140000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250514140000 +0000" stop="20250514153000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250514153000 +0000" stop="20250514160000 +0000" channel="ANTV.mncvision">
+    <title>Benyamin Raja Lenong</title>
+</programme>
 <programme start="20250513170000 +0000" stop="20250513173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
 </programme>
@@ -554,7 +592,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514125000 +0000" stop="20250514132000 +0000" channel="Arirang.mncvision">
     <title>Discovering Korea: View</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513172500 +0000" stop="20250513182000 +0000" channel="AXN.mncvision">
+    <title>Coroner S4, Ep 10</title>
+</programme>
+<programme start="20250513182000 +0000" stop="20250513191500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S4, Ep 15</title>
+</programme>
+<programme start="20250513191500 +0000" stop="20250513201000 +0000" channel="AXN.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 7</title>
+</programme>
+<programme start="20250513201000 +0000" stop="20250513210500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 11</title>
+</programme>
+<programme start="20250513210500 +0000" stop="20250513220000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 5</title>
+</programme>
+<programme start="20250513220000 +0000" stop="20250513224500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S4, Ep 15</title>
+</programme>
+<programme start="20250513224500 +0000" stop="20250513233500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 11</title>
+</programme>
+<programme start="20250513233500 +0000" stop="20250514002500 +0000" channel="AXN.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 7</title>
+</programme>
+<programme start="20250514002500 +0000" stop="20250514011500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 6</title>
+</programme>
+<programme start="20250514011500 +0000" stop="20250514020500 +0000" channel="AXN.mncvision">
+    <title>Coroner S4, Ep 10</title>
+</programme>
+<programme start="20250514020500 +0000" stop="20250514030000 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 11</title>
+</programme>
+<programme start="20250514030000 +0000" stop="20250514035500 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 13</title>
+</programme>
+<programme start="20250514035500 +0000" stop="20250514044500 +0000" channel="AXN.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 7</title>
+</programme>
+<programme start="20250514044500 +0000" stop="20250514054000 +0000" channel="AXN.mncvision">
+    <title>Coroner S4, Ep 10</title>
+</programme>
+<programme start="20250514054000 +0000" stop="20250514063500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 6</title>
+</programme>
+<programme start="20250514063500 +0000" stop="20250514073000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 13</title>
+</programme>
+<programme start="20250514073000 +0000" stop="20250514082500 +0000" channel="AXN.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 7</title>
+</programme>
+<programme start="20250514082500 +0000" stop="20250514091500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 11</title>
+</programme>
+<programme start="20250514091500 +0000" stop="20250514101000 +0000" channel="AXN.mncvision">
+    <title>Coroner S4, Ep 11</title>
+</programme>
+<programme start="20250514101000 +0000" stop="20250514110000 +0000" channel="AXN.mncvision">
+    <title>FBI S7, Ep 2</title>
+</programme>
+<programme start="20250514110000 +0000" stop="20250514115500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S4, Ep 16</title>
+</programme>
+<programme start="20250514115500 +0000" stop="20250514125000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 14</title>
+</programme>
+<programme start="20250514125000 +0000" stop="20250514134500 +0000" channel="AXN.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 8</title>
+</programme>
+<programme start="20250514134500 +0000" stop="20250514144000 +0000" channel="AXN.mncvision">
+    <title>The Rookie S7, Ep 18</title>
+</programme>
+<programme start="20250514144000 +0000" stop="20250514153500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 12</title>
+</programme>
+<programme start="20250514153500 +0000" stop="20250514163000 +0000" channel="AXN.mncvision">
+    <title>The Rookie S7, Ep 18</title>
+</programme>
+<programme start="20250514163000 +0000" stop="20250513170000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 6</title>
+</programme>
 <programme start="20250513172500 +0000" stop="20250513182000 +0000" channel="AXN HD.mncvision">
     <title>Coroner S4, Ep 10</title>
 </programme>
@@ -4182,9 +4300,150 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514164000 +0000" stop="20250513171000 +0000" channel="History.mncvision">
     <title>Swamp People: Serpent S3, Ep 13</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513170000 +0000" stop="20250513180000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 19</title>
+</programme>
+<programme start="20250513180000 +0000" stop="20250513190000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 11</title>
+</programme>
+<programme start="20250513190000 +0000" stop="20250513200000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 18</title>
+</programme>
+<programme start="20250513200000 +0000" stop="20250513210000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 14</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 19</title>
+</programme>
+<programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 11</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250514000000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 14</title>
+</programme>
+<programme start="20250514000000 +0000" stop="20250514010000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 19</title>
+</programme>
+<programme start="20250514010000 +0000" stop="20250514013000 +0000" channel="HITS.mncvision">
+    <title>Cheers S3, Ep 17</title>
+</programme>
+<programme start="20250514013000 +0000" stop="20250514023000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S1, Ep 3</title>
+</programme>
+<programme start="20250514023000 +0000" stop="20250514033000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S1, Ep 4</title>
+</programme>
+<programme start="20250514033000 +0000" stop="20250514040000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 12</title>
+</programme>
+<programme start="20250514040000 +0000" stop="20250514043000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 7</title>
+</programme>
+<programme start="20250514043000 +0000" stop="20250514063000 +0000" channel="HITS.mncvision">
+    <title>Christmas Getaway</title>
+</programme>
+<programme start="20250514063000 +0000" stop="20250514070000 +0000" channel="HITS.mncvision">
+    <title>Cheers S3, Ep 18</title>
+</programme>
+<programme start="20250514070000 +0000" stop="20250514080000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S1, Ep 5</title>
+</programme>
+<programme start="20250514080000 +0000" stop="20250514090000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S1, Ep 6</title>
+</programme>
+<programme start="20250514090000 +0000" stop="20250514100000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 19</title>
+</programme>
+<programme start="20250514100000 +0000" stop="20250514103000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 12</title>
+</programme>
+<programme start="20250514103000 +0000" stop="20250514110000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 7</title>
+</programme>
+<programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 15</title>
+</programme>
+<programme start="20250514120000 +0000" stop="20250514123000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 13</title>
+</programme>
+<programme start="20250514123000 +0000" stop="20250514130000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 8</title>
+</programme>
+<programme start="20250514130000 +0000" stop="20250514140000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 20</title>
+</programme>
+<programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 12</title>
+</programme>
+<programme start="20250514150000 +0000" stop="20250514160000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 19</title>
+</programme>
+<programme start="20250514160000 +0000" stop="20250514163000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 13</title>
+</programme>
+<programme start="20250514163000 +0000" stop="20250513170000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 8</title>
+</programme>
+<programme start="20250513184500 +0000" stop="20250513210000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513230000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250514010000 +0000" channel="HITS MOVIES.mncvision">
+    <title>High Noon</title>
+</programme>
+<programme start="20250514010000 +0000" stop="20250514030000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Legend</title>
+</programme>
+<programme start="20250514030000 +0000" stop="20250514053000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250514053000 +0000" stop="20250514074500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250514074500 +0000" stop="20250514100000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Knight And Day</title>
+</programme>
+<programme start="20250514100000 +0000" stop="20250514120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20250514120000 +0000" stop="20250514144500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Fight Club</title>
+</programme>
+<programme start="20250514144500 +0000" stop="20250514151500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Three Days Of The Condor</title>
+</programme>
+<programme start="20250513184500 +0000" stop="20250513210000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513230000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250514010000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>High Noon</title>
+</programme>
+<programme start="20250514010000 +0000" stop="20250514030000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Legend</title>
+</programme>
+<programme start="20250514030000 +0000" stop="20250514053000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250514053000 +0000" stop="20250514074500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250514074500 +0000" stop="20250514100000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Knight And Day</title>
+</programme>
+<programme start="20250514100000 +0000" stop="20250514120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20250514120000 +0000" stop="20250514144500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Fight Club</title>
+</programme>
+<programme start="20250514144500 +0000" stop="20250514151500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Three Days Of The Condor</title>
+</programme>
 <programme start="20250513173000 +0000" stop="20250513183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -5475,7 +5734,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514160000 +0000" stop="20250514163000 +0000" channel="MDTV.mncvision">
     <title>Satu Amin Dua Iman</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513170000 +0000" stop="20250513170500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513170500 +0000" stop="20250513173000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513173000 +0000" stop="20250513180000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513180000 +0000" stop="20250513180500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513180500 +0000" stop="20250513183000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513183000 +0000" stop="20250513184500 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513184500 +0000" stop="20250513190000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513190000 +0000" stop="20250513190500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513190500 +0000" stop="20250513193000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250513193000 +0000" stop="20250513200000 +0000" channel="Metro TV.mncvision">
+    <title>Melawan Lupa</title>
+</programme>
+<programme start="20250513200000 +0000" stop="20250513200500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513200500 +0000" stop="20250513203000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250513203000 +0000" stop="20250513210000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513210500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513210500 +0000" stop="20250513213000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250513213000 +0000" stop="20250513220000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250513220000 +0000" stop="20250513220500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513220500 +0000" stop="20250513223000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250513223000 +0000" stop="20250513225000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250513225000 +0000" stop="20250513230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250513230500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250513230500 +0000" stop="20250513232000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250513232000 +0000" stop="20250513233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20250514000000 +0000" stop="20250514000500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250514000500 +0000" stop="20250514003000 +0000" channel="Metro TV.mncvision">
+    <title>Editorial Media Indonesia</title>
+</programme>
+<programme start="20250514003000 +0000" stop="20250514010000 +0000" channel="Metro TV.mncvision">
+    <title>The One</title>
+</programme>
+<programme start="20250514010000 +0000" stop="20250514010500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250514010500 +0000" stop="20250514013000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250514013000 +0000" stop="20250514014800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514014800 +0000" stop="20250514015500 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514015500 +0000" stop="20250514020000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514020000 +0000" stop="20250514020500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250514020500 +0000" stop="20250514021800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514021800 +0000" stop="20250514023000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514023000 +0000" stop="20250514024800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514024800 +0000" stop="20250514030000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250514030000 +0000" stop="20250514030500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250514030500 +0000" stop="20250514033000 +0000" channel="Metro TV.mncvision">
+    <title>Zona Bisnis</title>
+</programme>
+<programme start="20250514033000 +0000" stop="20250514040000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20250514040000 +0000" stop="20250514040500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250514040500 +0000" stop="20250514043000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250514043000 +0000" stop="20250514050000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514050000 +0000" stop="20250514053000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514053000 +0000" stop="20250514054800 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514054800 +0000" stop="20250514060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514060000 +0000" stop="20250514061800 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514061800 +0000" stop="20250514063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250514063000 +0000" stop="20250514070000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20250514070000 +0000" stop="20250514073000 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
 <programme start="20250513170000 +0000" stop="20250513173000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
 </programme>
@@ -8194,8 +8602,111 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Sportacular Match</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513173000 +0000" stop="20250513200000 +0000" channel="Sportstars HD.mncvision">
+    <title>Daihatsu Indonesia Masters 2025</title>
+</programme>
+<programme start="20250513200000 +0000" stop="20250513203000 +0000" channel="Sportstars HD.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20250513203000 +0000" stop="20250513210000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513230000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250513230000 +0000" stop="20250513233000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="Sportstars HD.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20250514000000 +0000" stop="20250514003000 +0000" channel="Sportstars HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250514003000 +0000" stop="20250514023000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Women</title>
+</programme>
+<programme start="20250514023000 +0000" stop="20250514043000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
+</programme>
+<programme start="20250514043000 +0000" stop="20250514050000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250514050000 +0000" stop="20250514053000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250514053000 +0000" stop="20250514080000 +0000" channel="Sportstars HD.mncvision">
+    <title>Daihatsu Indonesia Masters 2025</title>
+</programme>
+<programme start="20250514080000 +0000" stop="20250514083000 +0000" channel="Sportstars HD.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20250514083000 +0000" stop="20250514090000 +0000" channel="Sportstars HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250514090000 +0000" stop="20250514110000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250514110000 +0000" stop="20250514130000 +0000" channel="Sportstars HD.mncvision">
+    <title>FIBA Asia Cup 2025 Qualifiers</title>
+</programme>
+<programme start="20250514130000 +0000" stop="20250514133000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250514133000 +0000" stop="20250514153000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Women</title>
+</programme>
+<programme start="20250514153000 +0000" stop="20250514160000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
+</programme>
+<programme start="20250513170000 +0000" stop="20250513173000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S11: Monaco HL</title>
+</programme>
+<programme start="20250513173000 +0000" stop="20250513180000 +0000" channel="SPOTV.mncvision">
+    <title>A-League Men 2024/25</title>
+</programme>
+<programme start="20250513180000 +0000" stop="20250513193500 +0000" channel="SPOTV.mncvision">
+    <title>European Le Mans Series</title>
+</programme>
+<programme start="20250513193500 +0000" stop="20250513223500 +0000" channel="SPOTV.mncvision">
+    <title>European Le Mans Series</title>
+</programme>
+<programme start="20250513223500 +0000" stop="20250514010000 +0000" channel="SPOTV.mncvision">
+    <title>European Le Mans Series</title>
+</programme>
+<programme start="20250514010000 +0000" stop="20250514030000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 2024/25</title>
+</programme>
+<programme start="20250514030000 +0000" stop="20250514040000 +0000" channel="SPOTV.mncvision">
+    <title>UIM E1: Champions Of The Water</title>
+</programme>
+<programme start="20250514040000 +0000" stop="20250514050000 +0000" channel="SPOTV.mncvision">
+    <title>2025 European Running C&#039;ships</title>
+</programme>
+<programme start="20250514050000 +0000" stop="20250514055000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S11: Monaco</title>
+</programme>
+<programme start="20250514055000 +0000" stop="20250514064000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S11: Monaco</title>
+</programme>
+<programme start="20250514064000 +0000" stop="20250514084500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S11: Monaco</title>
+</programme>
+<programme start="20250514084500 +0000" stop="20250514113000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S11: Monaco</title>
+</programme>
+<programme start="20250514113000 +0000" stop="20250514123000 +0000" channel="SPOTV.mncvision">
+    <title>2025 Hyundai Archery World Cup</title>
+</programme>
+<programme start="20250514123000 +0000" stop="20250514133000 +0000" channel="SPOTV.mncvision">
+    <title>RSL Recap M31 HL</title>
+</programme>
+<programme start="20250514133000 +0000" stop="20250514160000 +0000" channel="SPOTV.mncvision">
+    <title>MLS 2025: VAN Vs LAFC</title>
+</programme>
+<programme start="20250514160000 +0000" stop="20250514163000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 2024/25</title>
+</programme>
 <programme start="20250513180000 +0000" stop="20250513191500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Grand Prix de France</title>
 </programme>
@@ -8682,7 +9193,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514162000 +0000" stop="20250514165000 +0000" channel="Thrill.mncvision">
     <title>Jealousy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250513171500 +0000" stop="20250513174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250513174500 +0000" stop="20250513181500 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250513181500 +0000" stop="20250513193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250513193000 +0000" stop="20250513204500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250513204500 +0000" stop="20250513210000 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs</title>
+</programme>
+<programme start="20250513210000 +0000" stop="20250513214500 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20250513214500 +0000" stop="20250513223000 +0000" channel="Trans 7.mncvision">
+    <title>Titik Target</title>
+</programme>
+<programme start="20250513223000 +0000" stop="20250513234500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250513234500 +0000" stop="20250514004500 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250514004500 +0000" stop="20250514013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20250514013000 +0000" stop="20250514023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20250514023000 +0000" stop="20250514031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20250514031500 +0000" stop="20250514041500 +0000" channel="Trans 7.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20250514041500 +0000" stop="20250514050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20250514050000 +0000" stop="20250514054500 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20250514054500 +0000" stop="20250514063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang</title>
+</programme>
+<programme start="20250514063000 +0000" stop="20250514071500 +0000" channel="Trans 7.mncvision">
+    <title>Ujung-Ujungnya Damkar</title>
+</programme>
+<programme start="20250514071500 +0000" stop="20250514081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20250514081500 +0000" stop="20250514090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250514090000 +0000" stop="20250514101500 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250514101500 +0000" stop="20250514110000 +0000" channel="Trans 7.mncvision">
+    <title>Exposed Uncensored</title>
+</programme>
+<programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250514120000 +0000" stop="20250514123000 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250514123000 +0000" stop="20250514131500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250514131500 +0000" stop="20250514134500 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250514134500 +0000" stop="20250514154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20250514154500 +0000" stop="20250514163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250514163000 +0000" stop="20250513170000 +0000" channel="Trans 7.mncvision">
+    <title>Newstainment</title>
+</programme>
 <programme start="20250513180000 +0000" stop="20250513220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Connected</title>
 </programme>

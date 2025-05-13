@@ -3295,10 +3295,10 @@
     <programme start="20250513183000 +0000" stop="20250513220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250513220000 +0000" stop="20250514010000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250513220000 +0000" stop="20250513231500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250514010000 +0000" stop="20250514020000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250513231500 +0000" stop="20250514001500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Champions Trophy 2025: M10 - Afghanistan vs Australia HLs</title>
     </programme>
     <programme start="20250514020000 +0000" stop="20250514060000 +0000" channel="Hub Sports 4 HD.starhub">

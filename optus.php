@@ -1,6 +1,3 @@
-    <programme start="20250513180000 +0000" stop="20250513183000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Match Officials Mic&#039;d Up</title>
-    </programme>
     <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Italy v Spain</title>
+    </programme>
+    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
     </programme>
