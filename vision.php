@@ -115,56 +115,56 @@
 <programme start="20250513160000 +0000" stop="20250513170000 +0000" channel="MNCTV.vision">
 <title>AWOL</title>
 </programme>
+<programme start="20250513170000 +0000" stop="20250513173000 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
+</programme>
 <programme start="20250513173000 +0000" stop="20250513190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250513190000 +0000" stop="20250513203000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250513203000 +0000" stop="20250513213000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20250513213000 +0000" stop="20250513220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Jurnal Lintas iNews Pagi</title>
 </programme>
 <programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
-<programme start="20250513230000 +0000" stop="20250513233000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250513230000 +0000" stop="20250513234500 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250513234500 +0000" stop="20250514000000 +0000" channel="MNCTV.vision">
+<title>Sinema Spesial Upin &amp; Ipin</title>
 </programme>
 <programme start="20250514000000 +0000" stop="20250514010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
-<programme start="20250514010000 +0000" stop="20250514030000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250514010000 +0000" stop="20250514023000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20250514030000 +0000" stop="20250514040000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250514023000 +0000" stop="20250514033000 +0000" channel="MNCTV.vision">
+<title>Lintas iNews Siang</title>
+</programme>
+<programme start="20250514033000 +0000" stop="20250514040000 +0000" channel="MNCTV.vision">
+<title>Seleb On News</title>
 </programme>
 <programme start="20250514040000 +0000" stop="20250514060000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250514060000 +0000" stop="20250514080000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250514080000 +0000" stop="20250514093000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20250514093000 +0000" stop="20250514103000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250514103000 +0000" stop="20250514110000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20250514110000 +0000" stop="20250514113000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20250514113000 +0000" stop="20250514121500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250514103000 +0000" stop="20250514120000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250513000000 +0000" stop="20250513020000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
