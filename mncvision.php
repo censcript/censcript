@@ -4064,7 +4064,7 @@
     <title>Crocodile Island</title>
 </programme>
 <programme start="20250513150000 +0000" stop="20250513153000 +0000" channel="GTV.mncvision">
-    <title>US Seal</title>
+    <title>Swat Duty: City Crisis</title>
 </programme>
 <programme start="20250512170000 +0000" stop="20250512180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4112,7 +4112,7 @@
     <title>Crocodile Island</title>
 </programme>
 <programme start="20250513150000 +0000" stop="20250513153000 +0000" channel="GTV HD.mncvision">
-    <title>US Seal</title>
+    <title>Swat Duty: City Crisis</title>
 </programme>
 <programme start="20250512180000 +0000" stop="20250512183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

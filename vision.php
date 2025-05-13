@@ -1447,7 +1447,7 @@
 <programme start="20250513160000 +0000" stop="20250513170000 +0000" channel="BTV.vision">
 <title>Mitos Tengah Malam</title>
 </programme>
-<programme start="20250509180300 +0000" stop="20250509190000 +0000" channel="BTV.vision">
+<programme start="20250513170000 +0000" stop="20250513180000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
 </programme>
 <programme start="20250513180000 +0000" stop="20250513180300 +0000" channel="BTV.vision">

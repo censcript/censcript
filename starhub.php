@@ -2263,8 +2263,14 @@
     <programme start="20250513150000 +0000" stop="20250513160000 +0000" channel="CNN HD.starhub">
         <title>One World</title>
     </programme>
-    <programme start="20250512160000 +0000" stop="20250512220000 +0000" channel="KTV HD.starhub">
+    <programme start="20250512160000 +0000" stop="20250512170000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
+    </programme>
+    <programme start="20250512170000 +0000" stop="20250512200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Valeba Raja</title>
+    </programme>
+    <programme start="20250512200000 +0000" stop="20250512223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Enga Annan Varattum</title>
     </programme>
     <programme start="20250512223000 +0000" stop="20250513010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Virudhunagar Sandhippu</title>
@@ -6851,7 +6857,7 @@
         <title>Un Soupcon</title>
     </programme>
     <programme start="20250512160000 +0000" stop="20250512163000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Zurich Marató Barcelona Highlights</title>
+        <title>Zurich Marató Barcelona H/Ls</title>
     </programme>
     <programme start="20250512163000 +0000" stop="20250512183000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d&#039;Italia (1000) Rd 16 Session 3</title>
