@@ -842,16 +842,16 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20250512170000 +0000" stop="20250512180000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20250512180000 +0000" stop="20250512190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20250512190000 +0000" stop="20250512200000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
     </programme>
     <programme start="20250512200000 +0000" stop="20250512210000 +0000" channel="Fox News Channel.starhub">
-        <title>Your World</title>
+        <title>The Will Cain Show</title>
     </programme>
     <programme start="20250512210000 +0000" stop="20250512220000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>

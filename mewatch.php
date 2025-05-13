@@ -106,28 +106,28 @@
     <programme start="20250513103000 +0000" stop="20250513105058 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 147</title>
     </programme>
-    <programme start="20250513105058 +0000" stop="20250513110021 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513105058 +0000" stop="20250513110056 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 2</title>
     </programme>
-    <programme start="20250513110021 +0000" stop="20250513113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513110056 +0000" stop="20250513113058 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7976</title>
     </programme>
-    <programme start="20250513113000 +0000" stop="20250513123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513113058 +0000" stop="20250513123022 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 1</title>
     </programme>
-    <programme start="20250513123000 +0000" stop="20250513130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513123022 +0000" stop="20250513130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 65</title>
     </programme>
     <programme start="20250513130000 +0000" stop="20250513133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250513133000 +0000" stop="20250513140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513133000 +0000" stop="20250513140052 +0000" channel="Channel 5.mewatch">
         <title>Makan Time Stories S3 - EP 5</title>
     </programme>
-    <programme start="20250513140000 +0000" stop="20250513143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513140052 +0000" stop="20250513142520 +0000" channel="Channel 5.mewatch">
         <title>Scene City: Trade Secrets</title>
     </programme>
-    <programme start="20250513143000 +0000" stop="20250513153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513142520 +0000" stop="20250513153000 +0000" channel="Channel 5.mewatch">
         <title>Red Eye (UK) - EP 2</title>
     </programme>
     <programme start="20250513153000 +0000" stop="20250513162000 +0000" channel="Channel 5.mewatch">
