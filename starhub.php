@@ -3301,13 +3301,13 @@
     <programme start="20250513231500 +0000" stop="20250514001500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Champions Trophy 2025: M10 - Afghanistan vs Australia HLs</title>
     </programme>
-    <programme start="20250514020000 +0000" stop="20250514060000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250514001500 +0000" stop="20250514044500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M21 - Kolkata Knight Riders vs Lucknow Super Gi</title>
     </programme>
-    <programme start="20250514060000 +0000" stop="20250514100000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250514044500 +0000" stop="20250514092000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M45 - Mumbai Indians vs Lucknow Super Giants</title>
     </programme>
-    <programme start="20250514100000 +0000" stop="20250514140000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250514092000 +0000" stop="20250514140000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M52 - Royal Challengers Bengaluru vs Chennai Su</title>
     </programme>
     <programme start="20250514140000 +0000" stop="20250514180000 +0000" channel="Hub Sports 4 HD.starhub">
