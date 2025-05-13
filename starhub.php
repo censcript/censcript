@@ -8216,7 +8216,7 @@
         <title>Annie from Bombala, NSW</title>
     </programme>
     <programme start="20250513033000 +0000" stop="20250513040000 +0000" channel="ABC Australia HD.starhub">
-        <title>Col Clausen and Laura Aisbett</title>
+        <title>Heartfelt - Col Clausen and Laura Aisbett</title>
     </programme>
     <programme start="20250513040000 +0000" stop="20250513045500 +0000" channel="ABC Australia HD.starhub">
         <title>Wetlands</title>
@@ -8240,7 +8240,7 @@
         <title>Annie from Bombala, NSW</title>
     </programme>
     <programme start="20250513083000 +0000" stop="20250513090000 +0000" channel="ABC Australia HD.starhub">
-        <title>Col Clausen and Laura Aisbett</title>
+        <title>Heartfelt - Col Clausen and Laura Aisbett</title>
     </programme>
     <programme start="20250513090000 +0000" stop="20250513093000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC National News (2025)</title>
@@ -8264,7 +8264,7 @@
         <title>ABC Late News (2025)</title>
     </programme>
     <programme start="20250513133000 +0000" stop="20250513140000 +0000" channel="ABC Australia HD.starhub">
-        <title>Col Clausen and Laura Aisbett</title>
+        <title>Heartfelt - Col Clausen and Laura Aisbett</title>
     </programme>
     <programme start="20250513140000 +0000" stop="20250513141500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>

@@ -9409,45 +9409,7 @@
 <programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="tvN Movies.mncvision">
     <title>Pilot</title>
 </programme>
-<programme start="20250512173500 +0000" stop="20250512193000 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Devil&#039;s Deal</title>
-</programme>
-<programme start="20250512193000 +0000" stop="20250512212500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Meet The In-Laws</title>
-</programme>
-<programme start="20250512212500 +0000" stop="20250512230500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Unbowed</title>
-</programme>
-<programme start="20250512230500 +0000" stop="20250513004000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Escape</title>
-</programme>
-<programme start="20250513004000 +0000" stop="20250513023000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Love Guide For Dumpees</title>
-</programme>
-<programme start="20250513023000 +0000" stop="20250513040500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Drive</title>
-</programme>
-<programme start="20250513040500 +0000" stop="20250513062000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Steel Rain: Summit</title>
-</programme>
-<programme start="20250513062000 +0000" stop="20250513081500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Mama</title>
-</programme>
-<programme start="20250513081500 +0000" stop="20250513100000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Okay! Madam</title>
-</programme>
-<programme start="20250513100000 +0000" stop="20250513115500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Fatal Intuition</title>
-</programme>
-<programme start="20250513115500 +0000" stop="20250513140000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Hot Young Bloods</title>
-</programme>
-<programme start="20250513140000 +0000" stop="20250513160000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Love Reset</title>
-</programme>
-<programme start="20250513160000 +0000" stop="20250513163000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Pilot</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250512170000 +0000" stop="20250512173000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama</title>
 </programme>
@@ -9634,48 +9596,7 @@
 <programme start="20250513163000 +0000" stop="20250512170000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20250512172100 +0000" stop="20250512185400 +0000" channel="UNIQUES.mncvision">
-    <title>Coda</title>
-</programme>
-<programme start="20250512185400 +0000" stop="20250512203000 +0000" channel="UNIQUES.mncvision">
-    <title>Gangster Land</title>
-</programme>
-<programme start="20250512203000 +0000" stop="20250512222500 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250512222500 +0000" stop="20250513000000 +0000" channel="UNIQUES.mncvision">
-    <title>The Bling Ring</title>
-</programme>
-<programme start="20250513000000 +0000" stop="20250513014300 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513014300 +0000" stop="20250513032800 +0000" channel="UNIQUES.mncvision">
-    <title>Under The Stadium Lights</title>
-</programme>
-<programme start="20250513032800 +0000" stop="20250513050700 +0000" channel="UNIQUES.mncvision">
-    <title>Renegades</title>
-</programme>
-<programme start="20250513050700 +0000" stop="20250513065100 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513065100 +0000" stop="20250513081700 +0000" channel="UNIQUES.mncvision">
-    <title>Curse Of The Nun</title>
-</programme>
-<programme start="20250513081700 +0000" stop="20250513100600 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513100600 +0000" stop="20250513115000 +0000" channel="UNIQUES.mncvision">
-    <title>Under The Stadium Lights</title>
-</programme>
-<programme start="20250513115000 +0000" stop="20250513133500 +0000" channel="UNIQUES.mncvision">
-    <title>The Stand In</title>
-</programme>
-<programme start="20250513133500 +0000" stop="20250513153400 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513153400 +0000" stop="20250513160400 +0000" channel="UNIQUES.mncvision">
-    <title>Deadlock</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250512172100 +0000" stop="20250512185400 +0000" channel="UNIQUES HD.mncvision">
     <title>Coda</title>
 </programme>

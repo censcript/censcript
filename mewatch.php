@@ -1,16 +1,16 @@
     <programme start="20250512140101 +0000" stop="20250512160002 +0000" channel="Channel 5.mewatch">
         <title>Book Of Love</title>
     </programme>
-    <programme start="20250512160002 +0000" stop="20250512183010 +0000" channel="Channel 5.mewatch">
+    <programme start="20250512160018 +0000" stop="20250512183046 +0000" channel="Channel 5.mewatch">
         <title>The Professor &amp; The Madman</title>
     </programme>
-    <programme start="20250512183010 +0000" stop="20250512202959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250512183046 +0000" stop="20250512203036 +0000" channel="Channel 5.mewatch">
         <title>The Old Man &amp; the Gun</title>
     </programme>
-    <programme start="20250512202959 +0000" stop="20250512213001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250512203036 +0000" stop="20250512213038 +0000" channel="Channel 5.mewatch">
         <title>Animal Impossible - EP 4</title>
     </programme>
-    <programme start="20250512213001 +0000" stop="20250512220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250512213038 +0000" stop="20250512220000 +0000" channel="Channel 5.mewatch">
         <title>Famous Foodies S3 - EP 13</title>
     </programme>
     <programme start="20250512220000 +0000" stop="20250512223009 +0000" channel="Channel 5.mewatch">
@@ -256,16 +256,16 @@
     <programme start="20250513160000 +0000" stop="20250513170000 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 11</title>
     </programme>
-    <programme start="20250512153044 +0000" stop="20250512160031 +0000" channel="Channel U.mewatch">
+    <programme start="20250512153047 +0000" stop="20250512160033 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 16</title>
     </programme>
-    <programme start="20250512160031 +0000" stop="20250512163015 +0000" channel="Channel U.mewatch">
+    <programme start="20250512160033 +0000" stop="20250512163018 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 16</title>
     </programme>
-    <programme start="20250512163015 +0000" stop="20250512172449 +0000" channel="Channel U.mewatch">
+    <programme start="20250512163018 +0000" stop="20250512172451 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 65</title>
     </programme>
-    <programme start="20250512172449 +0000" stop="20250512220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250512172451 +0000" stop="20250512220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 66</title>
     </programme>
     <programme start="20250512220000 +0000" stop="20250513025807 +0000" channel="Channel U.mewatch">
@@ -375,9 +375,6 @@
     </programme>
     <programme start="20250512153015 +0000" stop="20250512160003 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250512160003 +0000" stop="20250513010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250513010000 +0000" stop="20250513013012 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 18</title>
