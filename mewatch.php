@@ -118,10 +118,10 @@
     <programme start="20250513123022 +0000" stop="20250513130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 65</title>
     </programme>
-    <programme start="20250513130000 +0000" stop="20250513133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513130000 +0000" stop="20250513132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250513133000 +0000" stop="20250513140017 +0000" channel="Channel 5.mewatch">
+    <programme start="20250513132959 +0000" stop="20250513140017 +0000" channel="Channel 5.mewatch">
         <title>Makan Time Stories S3 - EP 5</title>
     </programme>
     <programme start="20250513140017 +0000" stop="20250513143010 +0000" channel="Channel 5.mewatch">

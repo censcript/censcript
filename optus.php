@@ -1,6 +1,3 @@
-    <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Robert Pires</title>
-    </programme>
     <programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Rewind</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
+    </programme>
+    <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Portugal v Belgium</title>
     </programme>
