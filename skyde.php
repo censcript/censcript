@@ -3115,7 +3115,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Highlights Truist Championship</title>
 </programme>
 <programme start="20250513153000 +0000" stop="20250513160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Cut</title>
+    <title>Golf: Highlights Turkish Open</title>
 </programme>
 <programme start="20250513160000 +0000" stop="20250513170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 1999 (Tiger Woods)</title>
@@ -3876,28 +3876,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250513203500 +0000" stop="20250513224000 +0000" channel="Warner TV Film.skyde">
     <title>Der Schakal</title>
 </programme>
-<programme start="20250512235500 +0000" stop="20250513020000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513000000 +0000" stop="20250513020500 +0000" channel="Warner TV Film HD.skyde">
     <title>Stirb Langsam 4.0</title>
 </programme>
-<programme start="20250513020000 +0000" stop="20250513040000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513020500 +0000" stop="20250513040000 +0000" channel="Warner TV Film HD.skyde">
     <title>Dirty Harry kommt zurück</title>
 </programme>
 <programme start="20250513040000 +0000" stop="20250513052500 +0000" channel="Warner TV Film HD.skyde">
     <title>Wichita</title>
 </programme>
-<programme start="20250513052500 +0000" stop="20250513065000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513052500 +0000" stop="20250513065500 +0000" channel="Warner TV Film HD.skyde">
     <title>Dumm und dümmerer</title>
 </programme>
-<programme start="20250513065000 +0000" stop="20250513085000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513065500 +0000" stop="20250513085500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
-<programme start="20250513085000 +0000" stop="20250513103500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513085500 +0000" stop="20250513103500 +0000" channel="Warner TV Film HD.skyde">
     <title>Grand Budapest Hotel</title>
 </programme>
-<programme start="20250513103500 +0000" stop="20250513125000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513103500 +0000" stop="20250513125500 +0000" channel="Warner TV Film HD.skyde">
     <title>Uhrwerk Orange</title>
 </programme>
-<programme start="20250513125000 +0000" stop="20250513143500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250513125500 +0000" stop="20250513143500 +0000" channel="Warner TV Film HD.skyde">
     <title>Shaft</title>
 </programme>
 <programme start="20250513143500 +0000" stop="20250513161500 +0000" channel="Warner TV Film HD.skyde">
