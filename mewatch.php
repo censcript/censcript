@@ -580,9 +580,6 @@
     <programme start="20250513155959 +0000" stop="20250513160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250513160000 +0000" stop="20250513160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
     <programme start="20250512160000 +0000" stop="20250513113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 13th May, Tuesday 7.35pm. 2024 Singapore Premier League: Tanjong Pagar United vs Hougang United</title>
     </programme>
