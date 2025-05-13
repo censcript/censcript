@@ -946,9 +946,6 @@
     <programme start="20250512213000 +0000" stop="20250512223000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Host Hunt</title>
     </programme>
-    <programme start="20250512223000 +0000" stop="20250512230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Chief Editor&#039;S Time (12/5/25)</title>
-    </programme>
     <programme start="20250512230000 +0000" stop="20250513000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Morning Express (13/5/25 Pt1)</title>
     </programme>
@@ -976,11 +973,11 @@
     <programme start="20250513050000 +0000" stop="20250513053000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Chief Editor&#039;S Time (12/5/25)</title>
     </programme>
-    <programme start="20250513053000 +0000" stop="20250513060000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>We Are One</title>
+    <programme start="20250513053000 +0000" stop="20250513054500 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>My Hong Kong Story</title>
     </programme>
-    <programme start="20250513060000 +0000" stop="20250513063000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Lawrence Viewpoint</title>
+    <programme start="20250513054500 +0000" stop="20250513063000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Chit Chat With Me</title>
     </programme>
     <programme start="20250513063000 +0000" stop="20250513070000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Panorama</title>
@@ -991,8 +988,11 @@
     <programme start="20250513080000 +0000" stop="20250513083000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Mainland Q&amp;A</title>
     </programme>
-    <programme start="20250513083000 +0000" stop="20250513093000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Host Hunt</title>
+    <programme start="20250513083000 +0000" stop="20250513090000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>The Great Era</title>
+    </programme>
+    <programme start="20250513090000 +0000" stop="20250513093000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Lawrence Viewpoint</title>
     </programme>
     <programme start="20250513093000 +0000" stop="20250513100000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Summary Of Press (13/5/25)</title>
