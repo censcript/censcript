@@ -2306,34 +2306,34 @@
         <title>ATP Tour 1000 2025: Rome Day 7 Match 2</title>
     </programme>
     <programme start="20250514020000 +0000" stop="20250514033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 3</title>
+        <title>Rome Day 7 Sinner v Cerundolo</title>
     </programme>
     <programme start="20250514033000 +0000" stop="20250514050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 4</title>
+        <title>Rome Day 7 Alcaraz v Khachanov</title>
     </programme>
     <programme start="20250514050000 +0000" stop="20250514053000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250514053000 +0000" stop="20250514070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 5</title>
+        <title>Rome Day 7 De Minaur v Paul</title>
     </programme>
     <programme start="20250514070000 +0000" stop="20250514083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 6</title>
+        <title>Rome Day 7 Medvedev v Musetti</title>
     </programme>
-    <programme start="20250514083000 +0000" stop="20250514093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Madrid</title>
-    </programme>
-    <programme start="20250514093000 +0000" stop="20250514100000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250514083000 +0000" stop="20250514090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250514100000 +0000" stop="20250514113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 1</title>
+    <programme start="20250514090000 +0000" stop="20250514103000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Rome Day 7 Alcaraz v Khachanov</title>
     </programme>
-    <programme start="20250514113000 +0000" stop="20250514130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome Day 7 Match 5</title>
+    <programme start="20250514103000 +0000" stop="20250514120000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Rome Day 7 Sinner v Cerundolo</title>
+    </programme>
+    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Rome Day 8 Ruud v Munar</title>
     </programme>
     <programme start="20250514130000 +0000" stop="20250514150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Rome QF 1</title>
+        <title>Rome QF 1 Alcaraz v Draper</title>
     </programme>
     <programme start="20250514150000 +0000" stop="20250514160000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Madrid</title>
@@ -3317,16 +3317,16 @@
         <title>News</title>
     </programme>
     <programme start="20250513161500 +0000" stop="20250513164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Tough Business - The Oyster Farmers of Arcachon</title>
     </programme>
     <programme start="20250513164500 +0000" stop="20250513170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Mexico: Parents Search for Their Missing Daughter</title>
     </programme>
     <programme start="20250513170000 +0000" stop="20250513171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250513171500 +0000" stop="20250513173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250513173000 +0000" stop="20250513180000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3341,7 +3341,7 @@
         <title>News</title>
     </programme>
     <programme start="20250513190200 +0000" stop="20250513193000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Taking action to secure an eco-friendlier future</title>
     </programme>
     <programme start="20250513193000 +0000" stop="20250513200000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3356,10 +3356,10 @@
         <title>News</title>
     </programme>
     <programme start="20250513210200 +0000" stop="20250513211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250513211500 +0000" stop="20250513214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Tough Business - The Oyster Farmers of Arcachon</title>
     </programme>
     <programme start="20250513214500 +0000" stop="20250513220000 +0000" channel="DW English HD.starhub">
         <title>What will mobility look like in the future?</title>
@@ -3371,13 +3371,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250513223000 +0000" stop="20250513230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Nigeria Fake Pastors - Is it time for tougher laws?</title>
     </programme>
     <programme start="20250513230000 +0000" stop="20250513231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250513231500 +0000" stop="20250513233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="DW English HD.starhub">
         <title>Roots of resistance: Defending Chile&#039;s oldest tree</title>
