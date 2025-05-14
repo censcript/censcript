@@ -352,22 +352,22 @@
     <programme start="20250514100008 +0000" stop="20250514110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 7</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514110000 +0000" stop="20250514115839 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 69</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514115839 +0000" stop="20250514125945 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 70</title>
     </programme>
-    <programme start="20250514130000 +0000" stop="20250514140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514125945 +0000" stop="20250514140006 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514140006 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 5</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514150000 +0000" stop="20250514153014 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250514153000 +0000" stop="20250514163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514153014 +0000" stop="20250514163106 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
     <programme start="20250513155952 +0000" stop="20250514010000 +0000" channel="Suria.mewatch">
@@ -475,10 +475,10 @@
     <programme start="20250514080009 +0000" stop="20250514110000 +0000" channel="Vasantham.mewatch">
         <title>Nala Damayanthi</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514110000 +0000" stop="20250514115956 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 49</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514115956 +0000" stop="20250514123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 2</title>
     </programme>
     <programme start="20250514123000 +0000" stop="20250514130000 +0000" channel="Vasantham.mewatch">
@@ -487,16 +487,16 @@
     <programme start="20250514130000 +0000" stop="20250514133000 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 34</title>
     </programme>
-    <programme start="20250514133000 +0000" stop="20250514140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514133000 +0000" stop="20250514140003 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 3</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514140003 +0000" stop="20250514143004 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 18</title>
     </programme>
-    <programme start="20250514143000 +0000" stop="20250514150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514143004 +0000" stop="20250514150002 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 7</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250514150002 +0000" stop="20250514153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 4</title>
     </programme>
     <programme start="20250514153000 +0000" stop="20250514160000 +0000" channel="Vasantham.mewatch">
@@ -559,26 +559,23 @@
     <programme start="20250514095959 +0000" stop="20250514110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="CNA.mewatch">
+    <programme start="20250514110000 +0000" stop="20250514120001 +0000" channel="CNA.mewatch">
         <title>Has The Internet Broken Parenting? - EP 2</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="CNA.mewatch">
+    <programme start="20250514120001 +0000" stop="20250514130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250514130000 +0000" stop="20250514133000 +0000" channel="CNA.mewatch">
+    <programme start="20250514130001 +0000" stop="20250514133002 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 1</title>
     </programme>
-    <programme start="20250514133000 +0000" stop="20250514140000 +0000" channel="CNA.mewatch">
+    <programme start="20250514133002 +0000" stop="20250514140001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 7</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="CNA.mewatch">
+    <programme start="20250514140001 +0000" stop="20250514150106 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514160000 +0000" channel="CNA.mewatch">
+    <programme start="20250514150106 +0000" stop="20250514160002 +0000" channel="CNA.mewatch">
         <title>Elite Schools - EP 2</title>
-    </programme>
-    <programme start="20250514160000 +0000" stop="20250514160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250513160000 +0000" stop="20250514113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 14th May, Wednesday 7.35pm. 2024 Singapore Premier League: Lion City Sailors vs Balestier Khalsa</title>
@@ -598,35 +595,38 @@
     <programme start="20250514160000 +0000" stop="20250515160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 24th May, Saturday 5.30pm. 2024 Singapore Premier League: Hougang United vs Brunei DPMM</title>
     </programme>
-    <programme start="20250513160000 +0000" stop="20250513210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250513170000 +0000" stop="20250513183500 +0000" channel="now-80s.mewatch">
+        <title>60 Summer Sizzlers! 1980-1989</title>
+    </programme>
+    <programme start="20250513183500 +0000" stop="20250513190000 +0000" channel="now-80s.mewatch">
+        <title>Eurovision Party Night!</title>
+    </programme>
+    <programme start="20250513190000 +0000" stop="20250513204500 +0000" channel="now-80s.mewatch">
+        <title>Eurovision: The Highs &amp; Lows!</title>
+    </programme>
+    <programme start="20250513204500 +0000" stop="20250513210000 +0000" channel="now-80s.mewatch">
+        <title>Eurovision Party Night!</title>
     </programme>
     <programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+        <title>Timmy Mallett&#039;s Brilliant 80s!</title>
     </programme>
-    <programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250513220000 +0000" stop="20250514090500 +0000" channel="now-80s.mewatch">
+        <title>Every Number 1 Of The 80s!</title>
     </programme>
-    <programme start="20250513230000 +0000" stop="20250514000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250514090500 +0000" stop="20250514093000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
     </programme>
-    <programme start="20250514000000 +0000" stop="20250514040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250514093000 +0000" stop="20250514103000 +0000" channel="now-80s.mewatch">
+        <title>60 Summer Sizzlers! 1980-1989</title>
     </programme>
-    <programme start="20250514040000 +0000" stop="20250514050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250514103000 +0000" stop="20250514132000 +0000" channel="now-80s.mewatch">
+        <title>Who Had The Most Hits In The 80s?</title>
     </programme>
-    <programme start="20250514050000 +0000" stop="20250514100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250514132000 +0000" stop="20250514140000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers!</title>
     </programme>
-    <programme start="20250514100000 +0000" stop="20250514110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
-    </programme>
-    <programme start="20250514110000 +0000" stop="20250514160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
-    </programme>
-    <programme start="20250514160000 +0000" stop="20250514210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250514140000 +0000" stop="20250514161500 +0000" channel="now-80s.mewatch">
+        <title>Matt Goss&#039; Famous Pop Of The 80s!</title>
     </programme>
     <programme start="20250513100000 +0000" stop="20250513200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>

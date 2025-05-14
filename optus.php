@@ -232,8 +232,38 @@
     <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
+    <programme start="20250526020000 +0000" stop="20250526030000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Premier League Highlights Show</title>
+    </programme>
     <programme start="20250526020000 +0000" stop="20250526043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - San Diego Wave FC v North Carolina Courage</title>
+    </programme>
+    <programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Fantasy Premier League</title>
+    </programme>
+    <programme start="20250526120000 +0000" stop="20250526130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Kelly &amp; Wrighty Show</title>
+    </programme>
+    <programme start="20250526160000 +0000" stop="20250526170000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Generation xG</title>
+    </programme>
+    <programme start="20250526173000 +0000" stop="20250526180000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - Netbusters</title>
+    </programme>
+    <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Moments: Steve McManaman</title>
+    </programme>
+    <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Catch-Up Show</title>
+    </programme>
+    <programme start="20250528170000 +0000" stop="20250528173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Champions Story</title>
+    </programme>
+    <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - The Big Interview: Curtis Jones - Champions Special</title>
+    </programme>
+    <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
     <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Yokohama FM</title>
@@ -267,34 +297,4 @@
     </programme>
     <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
-    </programme>
-    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
-    </programme>
-    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
-    </programme>
-    <programme start="20250705185000 +0000" stop="20250705211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - France v England</title>
-    </programme>
-    <programme start="20250706155000 +0000" stop="20250706181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Norway v Finland</title>
-    </programme>
-    <programme start="20250706185000 +0000" stop="20250706211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Switzerland v Iceland</title>
-    </programme>
-    <programme start="20250707155000 +0000" stop="20250707181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Spain v Belgium</title>
-    </programme>
-    <programme start="20250707185000 +0000" stop="20250707211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Portugal v Italy</title>
-    </programme>
-    <programme start="20250708155000 +0000" stop="20250708181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Germany v Denmark</title>
-    </programme>
-    <programme start="20250708185000 +0000" stop="20250708211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Poland v Sweden</title>
-    </programme>
-    <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - England v Netherlands</title>
     </programme>
