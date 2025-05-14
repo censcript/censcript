@@ -3380,7 +3380,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Roots of resistance: Defending Chile&#039;s oldest tree</title>
     </programme>
     <programme start="20250514000000 +0000" stop="20250514000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3395,7 +3395,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514011500 +0000" stop="20250514020000 +0000" channel="DW English HD.starhub">
-        <title>Putin’s Silent War - Hybrid Attacks in Europe</title>
+        <title>Putin&#039;s Silent War - Hybrid Attacks in Europe</title>
     </programme>
     <programme start="20250514020000 +0000" stop="20250514020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3404,13 +3404,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250514023000 +0000" stop="20250514030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Roots of resistance: Defending Chile&#039;s oldest tree</title>
     </programme>
     <programme start="20250514030000 +0000" stop="20250514031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250514031500 +0000" stop="20250514033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250514033000 +0000" stop="20250514040000 +0000" channel="DW English HD.starhub">
         <title>How to make education, housing and public transport greener</title>
@@ -3419,7 +3419,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514041500 +0000" stop="20250514050000 +0000" channel="DW English HD.starhub">
-        <title>Putin’s Silent War - Hybrid Attacks in Europe</title>
+        <title>Putin&#039;s Silent War - Hybrid Attacks in Europe</title>
     </programme>
     <programme start="20250514050000 +0000" stop="20250514050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3434,7 +3434,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514061500 +0000" stop="20250514063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250514063000 +0000" stop="20250514070000 +0000" channel="DW English HD.starhub">
         <title>The Health Show</title>
@@ -3443,13 +3443,13 @@
         <title>News</title>
     </programme>
     <programme start="20250514073000 +0000" stop="20250514080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Tough Business - The Oyster Farmers of Arcachon</title>
     </programme>
     <programme start="20250514080000 +0000" stop="20250514083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250514083000 +0000" stop="20250514090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Taking action to secure an eco-friendlier future</title>
     </programme>
     <programme start="20250514090000 +0000" stop="20250514091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3461,7 +3461,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514103000 +0000" stop="20250514110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Tough Business - The Oyster Farmers of Arcachon</title>
     </programme>
     <programme start="20250514110000 +0000" stop="20250514113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3479,7 +3479,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514131500 +0000" stop="20250514133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why can&#039;t Ethiopia and Eritrea be friends?</title>
     </programme>
     <programme start="20250514133000 +0000" stop="20250514140000 +0000" channel="DW English HD.starhub">
         <title>How to make education, housing and public transport greener</title>
@@ -3494,7 +3494,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514153000 +0000" stop="20250514160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Taking action to secure an eco-friendlier future</title>
     </programme>
     <programme start="20250513160000 +0000" stop="20250513220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

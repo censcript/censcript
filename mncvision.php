@@ -2407,45 +2407,7 @@
 <programme start="20250514162200 +0000" stop="20250514165200 +0000" channel="CINEEDGE.mncvision">
     <title>The Hunter&#039;s Prayer</title>
 </programme>
-<programme start="20250513174100 +0000" stop="20250513191100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Disturbing The Peace</title>
-</programme>
-<programme start="20250513191100 +0000" stop="20250513210500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513210500 +0000" stop="20250513225200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Control</title>
-</programme>
-<programme start="20250513225200 +0000" stop="20250514010500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514010500 +0000" stop="20250514024900 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Mercenary For Justice</title>
-</programme>
-<programme start="20250514024900 +0000" stop="20250514045700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514045700 +0000" stop="20250514064400 +0000" channel="CINEEDGE HD.mncvision">
-    <title>American Sicario</title>
-</programme>
-<programme start="20250514064400 +0000" stop="20250514084600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514084600 +0000" stop="20250514102100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Security</title>
-</programme>
-<programme start="20250514102100 +0000" stop="20250514121500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514121500 +0000" stop="20250514140600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Spooks: The Greater Good</title>
-</programme>
-<programme start="20250514140600 +0000" stop="20250514162200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514162200 +0000" stop="20250514165200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>The Hunter&#039;s Prayer</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250513170000 +0000" stop="20250513180000 +0000" channel="CNBC.mncvision">
     <title>The Exchange</title>
 </programme>
@@ -9694,48 +9656,7 @@
 <programme start="20250514163000 +0000" stop="20250513170000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20250513171200 +0000" stop="20250513190100 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250513190100 +0000" stop="20250513204300 +0000" channel="UNIQUES.mncvision">
-    <title>The Marksman</title>
-</programme>
-<programme start="20250513204300 +0000" stop="20250513224300 +0000" channel="UNIQUES.mncvision">
-    <title>Capone</title>
-</programme>
-<programme start="20250513224300 +0000" stop="20250514004000 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514004000 +0000" stop="20250514021200 +0000" channel="UNIQUES.mncvision">
-    <title>Colonials</title>
-</programme>
-<programme start="20250514021200 +0000" stop="20250514035700 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514035700 +0000" stop="20250514054000 +0000" channel="UNIQUES.mncvision">
-    <title>The Marksman</title>
-</programme>
-<programme start="20250514054000 +0000" stop="20250514072000 +0000" channel="UNIQUES.mncvision">
-    <title>The Girl On The Mountain</title>
-</programme>
-<programme start="20250514072000 +0000" stop="20250514091100 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514091100 +0000" stop="20250514112300 +0000" channel="UNIQUES.mncvision">
-    <title>The Harbinger</title>
-</programme>
-<programme start="20250514112300 +0000" stop="20250514132300 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250514132300 +0000" stop="20250514151800 +0000" channel="UNIQUES.mncvision">
-    <title>The Space Between Us</title>
-</programme>
-<programme start="20250514151800 +0000" stop="20250514165800 +0000" channel="UNIQUES.mncvision">
-    <title>Disturbing The Peace</title>
-</programme>
-<programme start="20250514165800 +0000" stop="20250513172800 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250513171200 +0000" stop="20250513190100 +0000" channel="UNIQUES HD.mncvision">
     <title>Platinum</title>
 </programme>
