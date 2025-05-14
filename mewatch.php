@@ -592,38 +592,35 @@
     <programme start="20250514160000 +0000" stop="20250515160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 24th May, Saturday 5.30pm. 2024 Singapore Premier League: Hougang United vs Brunei DPMM</title>
     </programme>
-    <programme start="20250513170000 +0000" stop="20250513183500 +0000" channel="now-80s.mewatch">
-        <title>60 Summer Sizzlers! 1980-1989</title>
-    </programme>
-    <programme start="20250513183500 +0000" stop="20250513190000 +0000" channel="now-80s.mewatch">
-        <title>Eurovision Party Night!</title>
-    </programme>
-    <programme start="20250513190000 +0000" stop="20250513204500 +0000" channel="now-80s.mewatch">
-        <title>Eurovision: The Highs &amp; Lows!</title>
-    </programme>
-    <programme start="20250513204500 +0000" stop="20250513210000 +0000" channel="now-80s.mewatch">
-        <title>Eurovision Party Night!</title>
+    <programme start="20250513160000 +0000" stop="20250513210000 +0000" channel="now-80s.mewatch">
+        <title>Every Song A Number 1!</title>
     </programme>
     <programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="now-80s.mewatch">
-        <title>Timmy Mallett&#039;s Brilliant 80s!</title>
+        <title>80s - To The Max!</title>
     </programme>
-    <programme start="20250513220000 +0000" stop="20250514090500 +0000" channel="now-80s.mewatch">
-        <title>Every Number 1 Of The 80s!</title>
+    <programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="now-80s.mewatch">
+        <title>Teleshopping</title>
     </programme>
-    <programme start="20250514090500 +0000" stop="20250514093000 +0000" channel="now-80s.mewatch">
-        <title>Chart Toppers!</title>
+    <programme start="20250513230000 +0000" stop="20250514000000 +0000" channel="now-80s.mewatch">
+        <title>Wake Me Up Before You Go Go!</title>
     </programme>
-    <programme start="20250514093000 +0000" stop="20250514103000 +0000" channel="now-80s.mewatch">
-        <title>60 Summer Sizzlers! 1980-1989</title>
+    <programme start="20250514000000 +0000" stop="20250514040000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems!</title>
     </programme>
-    <programme start="20250514103000 +0000" stop="20250514132000 +0000" channel="now-80s.mewatch">
-        <title>Who Had The Most Hits In The 80s?</title>
+    <programme start="20250514040000 +0000" stop="20250514050000 +0000" channel="now-80s.mewatch">
+        <title>The 80s (What A Feeling!)</title>
     </programme>
-    <programme start="20250514132000 +0000" stop="20250514140000 +0000" channel="now-80s.mewatch">
-        <title>Chart Toppers!</title>
+    <programme start="20250514050000 +0000" stop="20250514100000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems!</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514161500 +0000" channel="now-80s.mewatch">
-        <title>Matt Goss&#039; Famous Pop Of The 80s!</title>
+    <programme start="20250514100000 +0000" stop="20250514110000 +0000" channel="now-80s.mewatch">
+        <title>Bring Out The 80s!</title>
+    </programme>
+    <programme start="20250514110000 +0000" stop="20250514160000 +0000" channel="now-80s.mewatch">
+        <title>80s Hit After 80s Hit!</title>
+    </programme>
+    <programme start="20250514160000 +0000" stop="20250514210000 +0000" channel="now-80s.mewatch">
+        <title>80s Rock Anthems Night!</title>
     </programme>
     <programme start="20250513100000 +0000" stop="20250513200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
