@@ -352,22 +352,22 @@
     <programme start="20250514100008 +0000" stop="20250514110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 7</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514115839 +0000" channel="Channel U.mewatch">
+    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 69</title>
     </programme>
-    <programme start="20250514115839 +0000" stop="20250514125945 +0000" channel="Channel U.mewatch">
+    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 70</title>
     </programme>
-    <programme start="20250514125945 +0000" stop="20250514140006 +0000" channel="Channel U.mewatch">
+    <programme start="20250514130000 +0000" stop="20250514140000 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
-    <programme start="20250514140006 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 5</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514153014 +0000" channel="Channel U.mewatch">
+    <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250514153014 +0000" stop="20250514163106 +0000" channel="Channel U.mewatch">
+    <programme start="20250514153000 +0000" stop="20250514163000 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
     <programme start="20250513155952 +0000" stop="20250514010000 +0000" channel="Suria.mewatch">
