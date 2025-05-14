@@ -574,6 +574,9 @@
     <programme start="20250514150106 +0000" stop="20250514160000 +0000" channel="CNA.mewatch">
         <title>Elite Schools - EP 2</title>
     </programme>
+    <programme start="20250514160000 +0000" stop="20250514160315 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
     <programme start="20250513160000 +0000" stop="20250514113500 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 14th May, Wednesday 7.35pm. 2024 Singapore Premier League: Lion City Sailors vs Balestier Khalsa</title>
     </programme>
