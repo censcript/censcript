@@ -142,9 +142,6 @@
     <programme start="20250515150038 +0000" stop="20250515160046 +0000" channel="Channel 5.mewatch">
         <title>CSI: Vegas S3 - EP 10</title>
     </programme>
-    <programme start="20250515160000 +0000" stop="20250515163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 67</title>
-    </programme>
     <programme start="20250514150114 +0000" stop="20250514160006 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 25</title>
     </programme>
