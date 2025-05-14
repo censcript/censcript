@@ -508,22 +508,25 @@
     <programme start="20250513155959 +0000" stop="20250513160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250513160314 +0000" stop="20250513170044 +0000" channel="CNA.mewatch">
+    <programme start="20250513160002 +0000" stop="20250513160316 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250513160316 +0000" stop="20250513170059 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250513170044 +0000" stop="20250513180000 +0000" channel="CNA.mewatch">
+    <programme start="20250513170059 +0000" stop="20250513180000 +0000" channel="CNA.mewatch">
         <title>The Internet &amp; Us</title>
     </programme>
-    <programme start="20250513180000 +0000" stop="20250513190000 +0000" channel="CNA.mewatch">
+    <programme start="20250513180000 +0000" stop="20250513190001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250513190000 +0000" stop="20250513195958 +0000" channel="CNA.mewatch">
+    <programme start="20250513190001 +0000" stop="20250513200000 +0000" channel="CNA.mewatch">
         <title>The Last Defenders S2 - EP 2</title>
     </programme>
-    <programme start="20250513195958 +0000" stop="20250513205958 +0000" channel="CNA.mewatch">
+    <programme start="20250513200000 +0000" stop="20250513205955 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250513205958 +0000" stop="20250513220000 +0000" channel="CNA.mewatch">
+    <programme start="20250513205955 +0000" stop="20250513220000 +0000" channel="CNA.mewatch">
         <title>Panda Power: Rise Of Furry Diplomats - EP 2</title>
     </programme>
     <programme start="20250513220000 +0000" stop="20250513225959 +0000" channel="CNA.mewatch">
