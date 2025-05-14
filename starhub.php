@@ -3380,7 +3380,7 @@
         <title>From Trash to Treasure</title>
     </programme>
     <programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="DW English HD.starhub">
-        <title>Roots of resistance: Defending Chile&#039;s oldest tree</title>
+        <title>Roots of resistance: Defending Chile’s oldest tree</title>
     </programme>
     <programme start="20250514000000 +0000" stop="20250514000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3389,13 +3389,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250514003000 +0000" stop="20250514010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Opportunities and risks in a changing job market</title>
     </programme>
     <programme start="20250514010000 +0000" stop="20250514011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250514011500 +0000" stop="20250514020000 +0000" channel="DW English HD.starhub">
-        <title>Putin&#039;s Silent War - Hybrid Attacks in Europe</title>
+        <title>Putin’s Silent War - Hybrid Attacks in Europe</title>
     </programme>
     <programme start="20250514020000 +0000" stop="20250514020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3404,7 +3404,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250514023000 +0000" stop="20250514030000 +0000" channel="DW English HD.starhub">
-        <title>Roots of resistance: Defending Chile&#039;s oldest tree</title>
+        <title>Roots of resistance: Defending Chile’s oldest tree</title>
     </programme>
     <programme start="20250514030000 +0000" stop="20250514031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3419,7 +3419,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514041500 +0000" stop="20250514050000 +0000" channel="DW English HD.starhub">
-        <title>Putin&#039;s Silent War - Hybrid Attacks in Europe</title>
+        <title>Putin’s Silent War - Hybrid Attacks in Europe</title>
     </programme>
     <programme start="20250514050000 +0000" stop="20250514050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3428,7 +3428,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250514053000 +0000" stop="20250514060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Opportunities and risks in a changing job market</title>
     </programme>
     <programme start="20250514060000 +0000" stop="20250514061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3463,11 +3463,8 @@
     <programme start="20250514103000 +0000" stop="20250514110000 +0000" channel="DW English HD.starhub">
         <title>A Tough Business - The Oyster Farmers of Arcachon</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514113000 +0000" channel="DW English HD.starhub">
+    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250514113000 +0000" stop="20250514120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
     </programme>
     <programme start="20250514120000 +0000" stop="20250514121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3479,7 +3476,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514131500 +0000" stop="20250514133000 +0000" channel="DW English HD.starhub">
-        <title>Why can&#039;t Ethiopia and Eritrea be friends?</title>
+        <title>Why can’t Ethiopia and Eritrea be friends?</title>
     </programme>
     <programme start="20250514133000 +0000" stop="20250514140000 +0000" channel="DW English HD.starhub">
         <title>How to make education, housing and public transport greener</title>
@@ -3488,7 +3485,7 @@
         <title>News</title>
     </programme>
     <programme start="20250514143000 +0000" stop="20250514150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Opportunities and risks in a changing job market</title>
     </programme>
     <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="DW English HD.starhub">
         <title>News</title>

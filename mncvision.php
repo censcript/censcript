@@ -2951,7 +2951,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250514003000 +0000" stop="20250514010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Opportunities</title>
 </programme>
 <programme start="20250514010000 +0000" stop="20250514011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2990,7 +2990,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250514053000 +0000" stop="20250514060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Opportunities</title>
 </programme>
 <programme start="20250514060000 +0000" stop="20250514061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3025,14 +3025,14 @@
 <programme start="20250514103000 +0000" stop="20250514110000 +0000" channel="DW English.mncvision">
     <title>Close Up: A Tough Business</title>
 </programme>
-<programme start="20250514110000 +0000" stop="20250514113000 +0000" channel="DW English.mncvision">
+<programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20250514113000 +0000" stop="20250514120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
-</programme>
-<programme start="20250514120000 +0000" stop="20250514123000 +0000" channel="DW English.mncvision">
+<programme start="20250514120000 +0000" stop="20250514121500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20250514121500 +0000" stop="20250514124500 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
 </programme>
 <programme start="20250513170000 +0000" stop="20250513173000 +0000" channel="Entertainment.mncvision">
     <title>Mata-Mata</title>
