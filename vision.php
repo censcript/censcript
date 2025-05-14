@@ -1490,11 +1490,11 @@
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20250515050000 +0000" stop="20250515060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
+<title>Dunia Binatang</title>
 </programme>
-<programme start="20250515060000 +0000" stop="20250515070000 +0000" channel="BTV.vision">
+<programme start="20250515060000 +0000" stop="20250515064500 +0000" channel="BTV.vision">
 <title>Kids Universe: Motu Patlu</title>
 </programme>
-<programme start="20250515070000 +0000" stop="20250515080000 +0000" channel="BTV.vision">
+<programme start="20250515064500 +0000" stop="20250515073000 +0000" channel="BTV.vision">
 <title>Kids Universe: Didi &amp; Friends</title>
 </programme>

@@ -1,6 +1,3 @@
-    <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Chris Wood</title>
-    </programme>
     <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Germany v Poland</title>
+    </programme>
+    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
     </programme>
