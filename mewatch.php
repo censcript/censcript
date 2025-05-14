@@ -235,25 +235,25 @@
     <programme start="20250514093214 +0000" stop="20250514103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 679</title>
     </programme>
-    <programme start="20250514103000 +0000" stop="20250514113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514103000 +0000" stop="20250514113041 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 32</title>
     </programme>
-    <programme start="20250514113000 +0000" stop="20250514120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514113041 +0000" stop="20250514120033 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 32</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514120033 +0000" stop="20250514130042 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places S4 - EP 19</title>
     </programme>
-    <programme start="20250514130000 +0000" stop="20250514140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514130042 +0000" stop="20250514140000 +0000" channel="Channel 8.mewatch">
         <title>Devil Behind The Gate - EP 10</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514140000 +0000" stop="20250514143135 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250514143000 +0000" stop="20250514150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514143135 +0000" stop="20250514150114 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 6</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514150114 +0000" stop="20250514160006 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 25</title>
     </programme>
     <programme start="20250514160000 +0000" stop="20250514170000 +0000" channel="Channel 8.mewatch">
@@ -352,22 +352,22 @@
     <programme start="20250514100008 +0000" stop="20250514110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 7</title>
     </programme>
-    <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514110000 +0000" stop="20250514115839 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 69</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514115839 +0000" stop="20250514125945 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 70</title>
     </programme>
-    <programme start="20250514130000 +0000" stop="20250514140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514125945 +0000" stop="20250514140006 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
-    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514140006 +0000" stop="20250514150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 5</title>
     </programme>
-    <programme start="20250514150000 +0000" stop="20250514153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514150000 +0000" stop="20250514153014 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250514153000 +0000" stop="20250514163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514153014 +0000" stop="20250514163106 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
     <programme start="20250513155952 +0000" stop="20250514010000 +0000" channel="Suria.mewatch">
@@ -412,26 +412,23 @@
     <programme start="20250514110000 +0000" stop="20250514120000 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 9</title>
     </programme>
-    <programme start="20250514120000 +0000" stop="20250514123000 +0000" channel="Suria.mewatch">
+    <programme start="20250514120000 +0000" stop="20250514123002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250514123000 +0000" stop="20250514130000 +0000" channel="Suria.mewatch">
+    <programme start="20250514123002 +0000" stop="20250514130012 +0000" channel="Suria.mewatch">
         <title>Hard to Heart S4 - EP 7</title>
     </programme>
-    <programme start="20250514130000 +0000" stop="20250514133000 +0000" channel="Suria.mewatch">
+    <programme start="20250514130012 +0000" stop="20250514133012 +0000" channel="Suria.mewatch">
         <title>Sedapur Bersama Zara Zya - EP 4</title>
     </programme>
-    <programme start="20250514133000 +0000" stop="20250514143000 +0000" channel="Suria.mewatch">
+    <programme start="20250514133012 +0000" stop="20250514143016 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 10</title>
     </programme>
-    <programme start="20250514143000 +0000" stop="20250514153000 +0000" channel="Suria.mewatch">
+    <programme start="20250514143016 +0000" stop="20250514153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 25</title>
     </programme>
-    <programme start="20250514153000 +0000" stop="20250514155955 +0000" channel="Suria.mewatch">
+    <programme start="20250514153000 +0000" stop="20250514160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250514155955 +0000" stop="20250515010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250513153000 +0000" stop="20250513160317 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -574,7 +571,7 @@
     <programme start="20250514140001 +0000" stop="20250514150106 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250514150106 +0000" stop="20250514160002 +0000" channel="CNA.mewatch">
+    <programme start="20250514150106 +0000" stop="20250514160000 +0000" channel="CNA.mewatch">
         <title>Elite Schools - EP 2</title>
     </programme>
     <programme start="20250513160000 +0000" stop="20250514113500 +0000" channel="spl01.mewatch">
@@ -631,26 +628,65 @@
     <programme start="20250513100000 +0000" stop="20250513200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250513200000 +0000" stop="20250513210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250513160000 +0000" stop="20250513164500 +0000" channel="now-70s.mewatch">
+        <title>Clare Grogan&#039;s Teenage Kicks!</title>
     </programme>
-    <programme start="20250513210000 +0000" stop="20250513220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250513164500 +0000" stop="20250513172500 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly!</title>
     </programme>
-    <programme start="20250513220000 +0000" stop="20250513230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250513172500 +0000" stop="20250513193500 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Surely Not A Cover?!</title>
     </programme>
-    <programme start="20250513230000 +0000" stop="20250514000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250513193500 +0000" stop="20250513202500 +0000" channel="now-70s.mewatch">
+        <title>1973 Unleashed!</title>
     </programme>
-    <programme start="20250514000000 +0000" stop="20250514090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250513202500 +0000" stop="20250513210000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1973</title>
     </programme>
-    <programme start="20250514090000 +0000" stop="20250514100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250513210000 +0000" stop="20250513233000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates: Unforgettable!</title>
     </programme>
-    <programme start="20250514100000 +0000" stop="20250514200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250513233000 +0000" stop="20250514000000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250514000000 +0000" stop="20250514044000 +0000" channel="now-70s.mewatch">
+        <title>Drifting Away! Top 60</title>
+    </programme>
+    <programme start="20250514044000 +0000" stop="20250514050000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung!</title>
+    </programme>
+    <programme start="20250514050000 +0000" stop="20250514073500 +0000" channel="now-70s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks!</title>
+    </programme>
+    <programme start="20250514073500 +0000" stop="20250514090000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll!</title>
+    </programme>
+    <programme start="20250514090000 +0000" stop="20250514093000 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1975&#039;s Best Sellers!</title>
+    </programme>
+    <programme start="20250514093000 +0000" stop="20250514101500 +0000" channel="now-70s.mewatch">
+        <title>Clare Grogan&#039;s Teenage Kicks!</title>
+    </programme>
+    <programme start="20250514101500 +0000" stop="20250514103000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly!</title>
+    </programme>
+    <programme start="20250514103000 +0000" stop="20250514111000 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1975&#039;s Best Sellers!</title>
+    </programme>
+    <programme start="20250514111000 +0000" stop="20250514120000 +0000" channel="now-70s.mewatch">
+        <title>1975 Unleashed!</title>
+    </programme>
+    <programme start="20250514120000 +0000" stop="20250514135000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Stage &amp; Silver Screen!</title>
+    </programme>
+    <programme start="20250514135000 +0000" stop="20250514150000 +0000" channel="now-70s.mewatch">
+        <title>1974 Unleashed!</title>
+    </programme>
+    <programme start="20250514150000 +0000" stop="20250514160000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1974</title>
+    </programme>
+    <programme start="20250514160000 +0000" stop="20250514163500 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1975&#039;s Best Sellers!</title>
     </programme>
     <programme start="20250513160000 +0000" stop="20250513220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
