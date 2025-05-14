@@ -277,24 +277,24 @@
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Gibraltar v Croatia</title>
+    </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Norway v Italy</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - North Macedonia v Belgium</title>
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
-    </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
-    </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
-    </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - San Marino v Austria</title>
-    </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
+    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
