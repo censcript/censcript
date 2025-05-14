@@ -688,9 +688,6 @@
     <programme start="20250515150000 +0000" stop="20250515170000 +0000" channel="now-80s.mewatch">
         <title>Late Night Love! Top 25</title>
     </programme>
-    <programme start="20250515160000 +0000" stop="20250515210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night!</title>
-    </programme>
     <programme start="20250514160000 +0000" stop="20250514163500 +0000" channel="now-70s.mewatch">
         <title>50 Years On - 1975&#039;s Best Sellers!</title>
     </programme>

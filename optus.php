@@ -277,24 +277,24 @@
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
-    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Norway v Italy</title>
     </programme>
-    <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
     </programme>
-    <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Belgium v Italy</title>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
     </programme>
-    <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
     </programme>
-    <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
     </programme>
-    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - San Marino v Austria</title>
     </programme>
-    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
     </programme>
