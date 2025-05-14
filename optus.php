@@ -1,6 +1,3 @@
-    <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Chris Wood</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
+    </programme>
+    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
     </programme>
