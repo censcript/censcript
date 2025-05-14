@@ -427,10 +427,10 @@
     <programme start="20250514143000 +0000" stop="20250514153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 25</title>
     </programme>
-    <programme start="20250514153000 +0000" stop="20250514160000 +0000" channel="Suria.mewatch">
+    <programme start="20250514153000 +0000" stop="20250514155955 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250514160000 +0000" stop="20250515010000 +0000" channel="Suria.mewatch">
+    <programme start="20250514155955 +0000" stop="20250515010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250513153000 +0000" stop="20250513160317 +0000" channel="Vasantham.mewatch">
