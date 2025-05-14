@@ -256,9 +256,6 @@
     <programme start="20250514150114 +0000" stop="20250514160006 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 25</title>
     </programme>
-    <programme start="20250514160000 +0000" stop="20250514170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 12</title>
-    </programme>
     <programme start="20250513153014 +0000" stop="20250513162953 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 3</title>
     </programme>
