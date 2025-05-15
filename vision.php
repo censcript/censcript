@@ -82,9 +82,6 @@
 <programme start="20250515033000 +0000" stop="20250515040000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20250515040000 +0000" stop="20250515060000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
-</programme>
 <programme start="20250515060000 +0000" stop="20250515080000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250516064500 +0000" stop="20250516073000 +0000" channel="BTV.vision">
 <title>Kids Universe: Didi &amp; Friends</title>
+</programme>
+<programme start="20250516073000 +0000" stop="20250516081500 +0000" channel="BTV.vision">
+<title>Kids Universe: Boonie Bears</title>
 </programme>
