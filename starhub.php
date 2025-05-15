@@ -5537,7 +5537,7 @@
         <title>Scoop 2025</title>
     </programme>
     <programme start="20250514230000 +0000" stop="20250515000000 +0000" channel="TestChannel 996.starhub">
-        <title>Good Morning Hong Kong And Global View</title>
+        <title>Good Morning Hong Kong and Global View</title>
     </programme>
     <programme start="20250515000000 +0000" stop="20250515010000 +0000" channel="TestChannel 996.starhub">
         <title>The Other Truth</title>
@@ -9137,7 +9137,7 @@
         <title>Scoop 2025</title>
     </programme>
     <programme start="20250514230000 +0000" stop="20250515000000 +0000" channel="TVB Jade HD.starhub">
-        <title>Good Morning Hong Kong And Global View</title>
+        <title>Good Morning Hong Kong and Global View</title>
     </programme>
     <programme start="20250515000000 +0000" stop="20250515010000 +0000" channel="TVB Jade HD.starhub">
         <title>The Other Truth</title>
