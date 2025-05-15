@@ -1,6 +1,3 @@
-    <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Daniel Munoz</title>
-    </programme>
     <programme start="20250516093000 +0000" stop="20250516100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
+    </programme>
+    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Andorra v England</title>
     </programme>
