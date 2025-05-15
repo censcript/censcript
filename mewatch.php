@@ -427,7 +427,7 @@
     <programme start="20250516150000 +0000" stop="20250516153000 +0000" channel="Suria.mewatch">
         <title>Eat,Fun And Pray - EP 3</title>
     </programme>
-    <programme start="20250516153000 +0000" stop="20250517155947 +0000" channel="Suria.mewatch">
+    <programme start="20250516153000 +0000" stop="20250516160012 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250516160000 +0000" stop="20250517010000 +0000" channel="Suria.mewatch">
