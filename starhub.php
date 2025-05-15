@@ -857,10 +857,10 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20250514170000 +0000" stop="20250514180000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports Fox News Live</title>
+        <title>America Reports FOX News Live</title>
     </programme>
     <programme start="20250514180000 +0000" stop="20250514190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports Fox News Live</title>
+        <title>America Reports FOX News Live</title>
     </programme>
     <programme start="20250514190000 +0000" stop="20250514200000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
@@ -3308,6 +3308,9 @@
         <title>TATA Indian Premier League 2025: M06 - Rajasthan Royals vs Kolkata Knight Riders</title>
     </programme>
     <programme start="20250514180000 +0000" stop="20250514220000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250514220000 +0000" stop="20250514234000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250514234000 +0000" stop="20250515004000 +0000" channel="Hub Sports 4 HD.starhub">
