@@ -2941,10 +2941,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250515110000 +0000" stop="20250515130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20250515130000 +0000" stop="20250515150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250515150000 +0000" stop="20250515151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>WTA: Greatest 50</title>
@@ -2959,10 +2959,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250515170000 +0000" stop="20250515190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20250515190000 +0000" stop="20250515210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250515210000 +0000" stop="20250515213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - SCR, 30. Runde</title>

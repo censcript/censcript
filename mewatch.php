@@ -259,9 +259,6 @@
     <programme start="20250515150026 +0000" stop="20250515160002 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 26</title>
     </programme>
-    <programme start="20250515160000 +0000" stop="20250515170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 13</title>
-    </programme>
     <programme start="20250514153014 +0000" stop="20250514163106 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
@@ -475,31 +472,31 @@
     <programme start="20250515075957 +0000" stop="20250515110000 +0000" channel="Vasantham.mewatch">
         <title>Anniyan</title>
     </programme>
-    <programme start="20250515110000 +0000" stop="20250515120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515110000 +0000" stop="20250515115959 +0000" channel="Vasantham.mewatch">
         <title>Samaippoma S2 - EP 50</title>
     </programme>
-    <programme start="20250515120000 +0000" stop="20250515123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515115959 +0000" stop="20250515123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 3</title>
     </programme>
     <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250515130000 +0000" stop="20250515133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515130000 +0000" stop="20250515132959 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 35</title>
     </programme>
-    <programme start="20250515133000 +0000" stop="20250515140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515132959 +0000" stop="20250515140003 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 9</title>
     </programme>
-    <programme start="20250515140000 +0000" stop="20250515143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515140003 +0000" stop="20250515142959 +0000" channel="Vasantham.mewatch">
         <title>Irul - EP 13</title>
     </programme>
-    <programme start="20250515143000 +0000" stop="20250515150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515142959 +0000" stop="20250515145959 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 8</title>
     </programme>
-    <programme start="20250515150000 +0000" stop="20250515153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515145959 +0000" stop="20250515152957 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 5</title>
     </programme>
-    <programme start="20250515153000 +0000" stop="20250515160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515152957 +0000" stop="20250515160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 3</title>
     </programme>
     <programme start="20250515160000 +0000" stop="20250515163002 +0000" channel="Vasantham.mewatch">
