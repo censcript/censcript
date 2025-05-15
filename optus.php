@@ -244,6 +244,18 @@
     <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Moments: Steve McManaman</title>
     </programme>
+    <programme start="20250527102000 +0000" stop="20250527124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Daegu v Jeonbuk</title>
+    </programme>
+    <programme start="20250527102000 +0000" stop="20250527124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Daejeon v Pohang</title>
+    </programme>
+    <programme start="20250528102000 +0000" stop="20250528124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Gwangju v Ulsan</title>
+    </programme>
+    <programme start="20250528102000 +0000" stop="20250528124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gimcheon v Seoul</title>
+    </programme>
     <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Catch-Up Show</title>
     </programme>
@@ -262,39 +274,27 @@
     <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Sanfrecce v Kawasaki</title>
     </programme>
+    <programme start="20250531095000 +0000" stop="20250531121000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Jeonbuk v Ulsan</title>
+    </programme>
+    <programme start="20250531095000 +0000" stop="20250531121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Seoul v Jeju</title>
+    </programme>
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
     </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Shimizu</title>
     </programme>
+    <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Daegu v Gwangju</title>
+    </programme>
+    <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Gangwon</title>
+    </programme>
     <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
     <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Gibraltar v Croatia</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Norway v Italy</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - North Macedonia v Belgium</title>
-    </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
-    </programme>
-    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
-    </programme>
-    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Andorra v England</title>
     </programme>
