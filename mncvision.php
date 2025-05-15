@@ -9239,7 +9239,7 @@
     <title>Makan Receh</title>
 </programme>
 <programme start="20250515100000 +0000" stop="20250515110000 +0000" channel="Trans 7.mncvision">
-    <title>Exposed Uncensored</title>
+    <title>Xpose Uncensored</title>
 </programme>
 <programme start="20250515110000 +0000" stop="20250515120000 +0000" channel="Trans 7.mncvision">
     <title>On The Spot</title>

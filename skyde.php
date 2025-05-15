@@ -1485,49 +1485,49 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515040000 +0000" stop="20250515042000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515042000 +0000" stop="20250515044500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515042000 +0000" stop="20250515044000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515044500 +0000" stop="20250515045500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515044000 +0000" stop="20250515045000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515045500 +0000" stop="20250515050500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515045000 +0000" stop="20250515050000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515050500 +0000" stop="20250515052500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515050000 +0000" stop="20250515052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250515052500 +0000" stop="20250515055000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515052500 +0000" stop="20250515054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250515055000 +0000" stop="20250515061000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515054500 +0000" stop="20250515061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515061000 +0000" stop="20250515063500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515061000 +0000" stop="20250515063000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515063500 +0000" stop="20250515064500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515063000 +0000" stop="20250515064000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515064500 +0000" stop="20250515070500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515064000 +0000" stop="20250515070500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250515070500 +0000" stop="20250515073000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250515073000 +0000" stop="20250515075500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515073000 +0000" stop="20250515075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250515075500 +0000" stop="20250515081500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515075000 +0000" stop="20250515081000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250515081500 +0000" stop="20250515082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515081000 +0000" stop="20250515082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515082000 +0000" stop="20250515083000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515082000 +0000" stop="20250515082500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515083000 +0000" stop="20250515083500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515082500 +0000" stop="20250515083500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250515083500 +0000" stop="20250515084000 +0000" channel="Nick Jr..skyde">
@@ -1596,16 +1596,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515134500 +0000" stop="20250515140500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250515140500 +0000" stop="20250515141000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515140500 +0000" stop="20250515141500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515141000 +0000" stop="20250515142000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515141500 +0000" stop="20250515142000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515142000 +0000" stop="20250515142500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515142000 +0000" stop="20250515143000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515142500 +0000" stop="20250515145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515143000 +0000" stop="20250515145000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250515145000 +0000" stop="20250515150000 +0000" channel="Nick Jr..skyde">
@@ -1629,43 +1629,43 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515164000 +0000" stop="20250515170000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515170000 +0000" stop="20250515171000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515170000 +0000" stop="20250515171500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515171000 +0000" stop="20250515172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515171500 +0000" stop="20250515172500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515172500 +0000" stop="20250515175000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515172500 +0000" stop="20250515174500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250515175000 +0000" stop="20250515181000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515174500 +0000" stop="20250515181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515181000 +0000" stop="20250515183500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515181000 +0000" stop="20250515183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515183500 +0000" stop="20250515184500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515183000 +0000" stop="20250515184000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250515184500 +0000" stop="20250515191000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515184000 +0000" stop="20250515190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250515191000 +0000" stop="20250515193000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515190500 +0000" stop="20250515193000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250515193000 +0000" stop="20250515195500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515193000 +0000" stop="20250515195000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250515195500 +0000" stop="20250515201500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515195000 +0000" stop="20250515201000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250515201500 +0000" stop="20250515202000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515201000 +0000" stop="20250515202000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515202000 +0000" stop="20250515203000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515202000 +0000" stop="20250515202500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250515203000 +0000" stop="20250515203500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515202500 +0000" stop="20250515203500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250515203500 +0000" stop="20250515204000 +0000" channel="Nick Jr..skyde">
@@ -1692,16 +1692,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515211000 +0000" stop="20250515211500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250515211500 +0000" stop="20250515212500 +0000" channel="Nick Jr..skyde">
+<programme start="20250515211500 +0000" stop="20250515213000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515212500 +0000" stop="20250515214000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515213000 +0000" stop="20250515214000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250515214000 +0000" stop="20250515215000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250515215000 +0000" stop="20250515220000 +0000" channel="Nick Jr..skyde">
+<programme start="20250515215000 +0000" stop="20250515220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250514221500 +0000" stop="20250514224000 +0000" channel="Nicktoons.skyde">
@@ -3267,7 +3267,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515070000 +0000" stop="20250515073000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL: HvK und Tusche - Dein Zweitliga-Talk</title>
 </programme>
-<programme start="20250515073000 +0000" stop="20250515093000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250515073000 +0000" stop="20250515083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250515083000 +0000" stop="20250515090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Thomas Müller - Die Bayern-Legende hautnah</title>
+</programme>
+<programme start="20250515090000 +0000" stop="20250515093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250515093000 +0000" stop="20250515100000 +0000" channel="Sky Sport News HD.skyde">
@@ -3301,7 +3307,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20250515190000 +0000" stop="20250515200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 34. Spieltag</title>
+    <title>BL: Matchplan: SCF - SGE, 34. Spieltag</title>
 </programme>
 <programme start="20250515200000 +0000" stop="20250515203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -3460,10 +3466,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: C. Alcaraz (ESP) - J. Draper (GBR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
 </programme>
 <programme start="20250515110000 +0000" stop="20250515130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20250515130000 +0000" stop="20250515150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250515150000 +0000" stop="20250515151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
@@ -3478,13 +3484,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250515170000 +0000" stop="20250515190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20250515190000 +0000" stop="20250515210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250515210000 +0000" stop="20250515230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20250514221500 +0000" stop="20250514224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Chris Wood)</title>
@@ -3526,19 +3532,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Highlights EDM@VGK, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20250515110000 +0000" stop="20250515130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20250515130000 +0000" stop="20250515150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250515150000 +0000" stop="20250515170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 1. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250515170000 +0000" stop="20250515190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Viertelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20250515190000 +0000" stop="20250515210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250515210000 +0000" stop="20250515230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 1. Tag in Charlotte, NC (USA)</title>

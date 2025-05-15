@@ -3220,6 +3220,27 @@
     <programme start="20250515153000 +0000" stop="20250515164500 +0000" channel="Karisma.starhub">
         <title>SURAT TERBUAK UNTUK MBA MANTAN</title>
     </programme>
+    <programme start="20250514160000 +0000" stop="20250514170000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Stradivarius Murders</title>
+    </programme>
+    <programme start="20250514170000 +0000" stop="20250514180000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside India&#039;s Fertility Underworld</title>
+    </programme>
+    <programme start="20250514180000 +0000" stop="20250514210000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg BusinessWeek</title>
+    </programme>
+    <programme start="20250514210000 +0000" stop="20250514213000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Youth Sports Became a $38 Billion Play</title>
+    </programme>
+    <programme start="20250514213000 +0000" stop="20250514220000 +0000" channel="Bloomberg Originals.starhub">
+        <title>NBA President Stokes Africa&#039;s Hoop Dreams</title>
+    </programme>
+    <programme start="20250514220000 +0000" stop="20250514223000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Shahid Khan Wants to Marry the NFL and EPL</title>
+    </programme>
+    <programme start="20250514223000 +0000" stop="20250514230000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Women&#039;s Soccer Wants to Be More Like the NFL</title>
+    </programme>
     <programme start="20250514230000 +0000" stop="20250515000000 +0000" channel="Bloomberg Originals.starhub">
         <title>David Rubenstein</title>
     </programme>
