@@ -145,13 +145,13 @@
     <programme start="20250514150114 +0000" stop="20250514160006 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 25</title>
     </programme>
-    <programme start="20250514160006 +0000" stop="20250514170022 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514160107 +0000" stop="20250514170124 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 12</title>
     </programme>
-    <programme start="20250514170022 +0000" stop="20250514180007 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514170124 +0000" stop="20250514180109 +0000" channel="Channel 8.mewatch">
         <title>Our Lives According to Buses - EP 3</title>
     </programme>
-    <programme start="20250514180007 +0000" stop="20250514190003 +0000" channel="Channel 8.mewatch">
+    <programme start="20250514180109 +0000" stop="20250514190003 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms - EP 55</title>
     </programme>
     <programme start="20250514190003 +0000" stop="20250514200242 +0000" channel="Channel 8.mewatch">
@@ -436,14 +436,8 @@
     <programme start="20250515143000 +0000" stop="20250515153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 26</title>
     </programme>
-    <programme start="20250515153000 +0000" stop="20250515160000 +0000" channel="Suria.mewatch">
+    <programme start="20250515153000 +0000" stop="20250515160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250515160000 +0000" stop="20250516010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250514160000 +0000" stop="20250515010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250515010000 +0000" stop="20250515012953 +0000" channel="Vasantham.mewatch">
         <title>Athiradi Samaiyal - EP 2</title>
@@ -508,31 +502,28 @@
     <programme start="20250515153000 +0000" stop="20250515160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 3</title>
     </programme>
-    <programme start="20250515160000 +0000" stop="20250515163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515160000 +0000" stop="20250515163002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250514160000 +0000" stop="20250514160315 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250514160315 +0000" stop="20250514170100 +0000" channel="CNA.mewatch">
+    <programme start="20250514160144 +0000" stop="20250514170028 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250514170100 +0000" stop="20250514175959 +0000" channel="CNA.mewatch">
+    <programme start="20250514170028 +0000" stop="20250514180000 +0000" channel="CNA.mewatch">
         <title>Has The Internet Broken Parenting? - EP 2</title>
     </programme>
-    <programme start="20250514175959 +0000" stop="20250514185959 +0000" channel="CNA.mewatch">
+    <programme start="20250514180000 +0000" stop="20250514185959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20250514185959 +0000" stop="20250514200000 +0000" channel="CNA.mewatch">
         <title>The Internet &amp; Us</title>
     </programme>
-    <programme start="20250514200000 +0000" stop="20250514210000 +0000" channel="CNA.mewatch">
+    <programme start="20250514200000 +0000" stop="20250514210001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250514210000 +0000" stop="20250514213001 +0000" channel="CNA.mewatch">
+    <programme start="20250514210001 +0000" stop="20250514213002 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 1</title>
     </programme>
-    <programme start="20250514213001 +0000" stop="20250514220000 +0000" channel="CNA.mewatch">
+    <programme start="20250514213002 +0000" stop="20250514220000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 7</title>
     </programme>
     <programme start="20250514220000 +0000" stop="20250514225959 +0000" channel="CNA.mewatch">

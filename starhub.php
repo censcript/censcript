@@ -8191,20 +8191,11 @@
     <programme start="20250515020000 +0000" stop="20250515030000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News At Noon (2025)</title>
     </programme>
-    <programme start="20250515030000 +0000" stop="20250515032200 +0000" channel="ABC Australia HD.starhub">
-        <title>Fiesta In A Flash</title>
+    <programme start="20250515030000 +0000" stop="20250515050000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News Day (2025)</title>
     </programme>
-    <programme start="20250515032200 +0000" stop="20250515032500 +0000" channel="ABC Australia HD.starhub">
-        <title>Blake from Birchip, VIC</title>
-    </programme>
-    <programme start="20250515032500 +0000" stop="20250515043000 +0000" channel="ABC Australia HD.starhub">
-        <title>Factions, leadership, climate and conflict</title>
-    </programme>
-    <programme start="20250515043000 +0000" stop="20250515053000 +0000" channel="ABC Australia HD.starhub">
-        <title>Groundbreakers</title>
-    </programme>
-    <programme start="20250515053000 +0000" stop="20250515060000 +0000" channel="ABC Australia HD.starhub">
-        <title>Planet America (2025)</title>
+    <programme start="20250515050000 +0000" stop="20250515060000 +0000" channel="ABC Australia HD.starhub">
+        <title>ABC News Afternoons (2025)</title>
     </programme>
     <programme start="20250515060000 +0000" stop="20250515070000 +0000" channel="ABC Australia HD.starhub">
         <title>Afternoon Briefing (2025)</title>

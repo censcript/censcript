@@ -1,4 +1,4 @@
-<programme start="20250514234500 +0000" stop="20250515010000 +0000" channel="RCTI.vision">
+<programme start="20250516231500 +0000" stop="20250517003000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
 <programme start="20250515010000 +0000" stop="20250515013000 +0000" channel="RCTI.vision">
@@ -100,7 +100,7 @@
 <programme start="20250515093000 +0000" stop="20250515103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250515103000 +0000" stop="20250515120000 +0000" channel="MNCTV.vision">
+<programme start="20250517083000 +0000" stop="20250517103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250515120000 +0000" stop="20250515122500 +0000" channel="MNCTV.vision">
@@ -274,7 +274,7 @@
 <programme start="20250515083000 +0000" stop="20250515100000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20250515100000 +0000" stop="20250515120000 +0000" channel="iNews.vision">
+<programme start="20250517100000 +0000" stop="20250517120000 +0000" channel="iNews.vision">
 <title>BUMN Awards</title>
 </programme>
 <programme start="20250515120000 +0000" stop="20250515130000 +0000" channel="iNews.vision">
@@ -294,60 +294,6 @@
 </programme>
 <programme start="20250515163000 +0000" stop="20250515170000 +0000" channel="iNews.vision">
 <title>New Top Files</title>
-</programme>
-<programme start="20250515173000 +0000" stop="20250515190000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515190000 +0000" stop="20250515193000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515193000 +0000" stop="20250515201500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515201500 +0000" stop="20250515210000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515210000 +0000" stop="20250515211500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515211500 +0000" stop="20250515230000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515230000 +0000" stop="20250515230200 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250515230200 +0000" stop="20250516000000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516000000 +0000" stop="20250516010000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516010000 +0000" stop="20250516013000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516013000 +0000" stop="20250516023000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516023000 +0000" stop="20250516040000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516040000 +0000" stop="20250516060000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516060000 +0000" stop="20250516063000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516063000 +0000" stop="20250516070000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516070000 +0000" stop="20250516083000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516083000 +0000" stop="20250516100000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250516100000 +0000" stop="20250516120000 +0000" channel="iNews.vision">
-<title>iNews</title>
 </programme>
 <programme start="20250514233500 +0000" stop="20250515011000 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>

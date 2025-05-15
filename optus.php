@@ -49,7 +49,7 @@
     <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Ulsan</title>
     </programme>
-    <programme start="20250517151500 +0000" stop="20250517184000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250517143000 +0000" stop="20250517184000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Manchester City</title>
     </programme>
     <programme start="20250517210000 +0000" stop="20250517233000 +0000" channel="Optus Sport 405.optus">
