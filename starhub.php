@@ -887,7 +887,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20250515030000 +0000" stop="20250515040000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox News @Night</title>
+        <title>FOX News @Night</title>
     </programme>
     <programme start="20250515040000 +0000" stop="20250515050000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -905,22 +905,22 @@
         <title>Coverage of President&#039;s Trip</title>
     </programme>
     <programme start="20250515090000 +0000" stop="20250515100000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20250515100000 +0000" stop="20250515110000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20250515110000 +0000" stop="20250515120000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20250515120000 +0000" stop="20250515130000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20250515130000 +0000" stop="20250515140000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom Fox News Live</title>
+        <title>America&#039;s Newsroom FOX News Live</title>
     </programme>
     <programme start="20250515140000 +0000" stop="20250515150000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom Fox News Live</title>
+        <title>America&#039;s Newsroom FOX News Live</title>
     </programme>
     <programme start="20250515150000 +0000" stop="20250515160000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>
@@ -3220,110 +3220,68 @@
     <programme start="20250515153000 +0000" stop="20250515164500 +0000" channel="Karisma.starhub">
         <title>SURAT TERBUAK UNTUK MBA MANTAN</title>
     </programme>
-    <programme start="20250514160000 +0000" stop="20250514170000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Steve Pagliuca</title>
+    <programme start="20250514230000 +0000" stop="20250515000000 +0000" channel="Bloomberg Originals.starhub">
+        <title>David Rubenstein</title>
     </programme>
-    <programme start="20250514170000 +0000" stop="20250514180000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Carolyn Tisch Blodgett</title>
-    </programme>
-    <programme start="20250514180000 +0000" stop="20250514190000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515000000 +0000" stop="20250515010000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Buzz Around College Athletics With Georgia Tech&#039;s J Batt</title>
     </programme>
-    <programme start="20250514190000 +0000" stop="20250514193000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515010000 +0000" stop="20250515020000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Adena Friedman</title>
+    </programme>
+    <programme start="20250515020000 +0000" stop="20250515030000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Billie Jean King &amp; Ilana Kloss</title>
+    </programme>
+    <programme start="20250515030000 +0000" stop="20250515040000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Josh Richards</title>
+    </programme>
+    <programme start="20250515040000 +0000" stop="20250515050000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Steve Pagliuca</title>
+    </programme>
+    <programme start="20250515050000 +0000" stop="20250515060000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Carolyn Tisch Blodgett</title>
+    </programme>
+    <programme start="20250515060000 +0000" stop="20250515070000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Buzz Around College Athletics With Georgia Tech&#039;s J Batt</title>
+    </programme>
+    <programme start="20250515070000 +0000" stop="20250515073000 +0000" channel="Bloomberg Originals.starhub">
         <title>Americans Cash in on a Paddle-Sport Obsession</title>
     </programme>
-    <programme start="20250514193000 +0000" stop="20250514200000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515073000 +0000" stop="20250515080000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Formula One Finally Hooked America</title>
     </programme>
-    <programme start="20250514200000 +0000" stop="20250514203000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515080000 +0000" stop="20250515083000 +0000" channel="Bloomberg Originals.starhub">
         <title>How to Build a Brand New Sport</title>
     </programme>
-    <programme start="20250514203000 +0000" stop="20250514210000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515083000 +0000" stop="20250515090000 +0000" channel="Bloomberg Originals.starhub">
         <title>Cornhole Goes From NFL Tailgate Pastime to Main Event</title>
     </programme>
-    <programme start="20250514210000 +0000" stop="20250514213000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515090000 +0000" stop="20250515093000 +0000" channel="Bloomberg Originals.starhub">
         <title>Is World Chase Tag Next to be &#039;It&#039;?</title>
     </programme>
-    <programme start="20250514213000 +0000" stop="20250514220000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515093000 +0000" stop="20250515100000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Pro-League With Players as Bosses</title>
     </programme>
-    <programme start="20250514220000 +0000" stop="20250514223000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515100000 +0000" stop="20250515103000 +0000" channel="Bloomberg Originals.starhub">
         <title>Can the Ancient Indian Sport of Kabaddi Someday Rival Cricket?</title>
     </programme>
-    <programme start="20250514223000 +0000" stop="20250514230000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515103000 +0000" stop="20250515110000 +0000" channel="Bloomberg Originals.starhub">
         <title>Women&#039;s Pro Soccer: From Collapse to Boom</title>
     </programme>
-    <programme start="20250514230000 +0000" stop="20250515020000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515110000 +0000" stop="20250515140000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
     </programme>
-    <programme start="20250515020000 +0000" stop="20250515023000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515140000 +0000" stop="20250515143000 +0000" channel="Bloomberg Originals.starhub">
         <title>How New Magnets Could Power the Future</title>
     </programme>
-    <programme start="20250515023000 +0000" stop="20250515030000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515143000 +0000" stop="20250515150000 +0000" channel="Bloomberg Originals.starhub">
         <title>Can Living Human Brain Cells Power AI?</title>
     </programme>
-    <programme start="20250515030000 +0000" stop="20250515033000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20250515150000 +0000" stop="20250515153000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Big Business of Drilling Deep Into the Earth</title>
     </programme>
-    <programme start="20250515033000 +0000" stop="20250515040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Money Is Flowing Into Geoengineering</title>
-    </programme>
-    <programme start="20250515040000 +0000" stop="20250515043000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Flying Cars Became a Billion-Dollar Bet</title>
-    </programme>
-    <programme start="20250515043000 +0000" stop="20250515050000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why a Lunar Ecosystem Could Be Worth Billions</title>
-    </programme>
-    <programme start="20250515050000 +0000" stop="20250515053000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Sex-for-Work Claims in West Africa&#039;s Rubber Industry</title>
-    </programme>
-    <programme start="20250515053000 +0000" stop="20250515060000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Business</title>
-    </programme>
-    <programme start="20250515060000 +0000" stop="20250515090000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Bloomberg BusinessWeek</title>
-    </programme>
-    <programme start="20250515090000 +0000" stop="20250515093000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Beyond Earth: Private Ambitions in Space</title>
-    </programme>
-    <programme start="20250515093000 +0000" stop="20250515100000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Korean Pop Culture Is Transforming Design</title>
-    </programme>
-    <programme start="20250515100000 +0000" stop="20250515103000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Nation Where Robots and Humans Get Along</title>
-    </programme>
-    <programme start="20250515103000 +0000" stop="20250515110000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Can Global Shipping Go Green?</title>
-    </programme>
-    <programme start="20250515110000 +0000" stop="20250515113000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Does the Perfect City Exist?</title>
-    </programme>
-    <programme start="20250515113000 +0000" stop="20250515120000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Rebirth of the World&#039;s Original Tech Giant</title>
-    </programme>
-    <programme start="20250515120000 +0000" stop="20250515123000 +0000" channel="Bloomberg Originals.starhub">
-        <title>When JPMorgan CEO Jamie Dimon Speaks, the World Listens</title>
-    </programme>
-    <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Netflix Is Betting Big on Latin America</title>
-    </programme>
-    <programme start="20250515130000 +0000" stop="20250515133000 +0000" channel="Bloomberg Originals.starhub">
-        <title>GM&#039;s Risky Bet on the Future of Electric Vehicles</title>
-    </programme>
-    <programme start="20250515133000 +0000" stop="20250515140000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Google CEO Sundar Pichai and the Future of AI</title>
-    </programme>
-    <programme start="20250515140000 +0000" stop="20250515143000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Can Anduril Reboot the US Defense Industry?</title>
-    </programme>
-    <programme start="20250515143000 +0000" stop="20250515150000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Boy-King of Toy Videos Is Growing Up</title>
-    </programme>
-    <programme start="20250515150000 +0000" stop="20250515153000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Youtube Became Must Watch TV</title>
-    </programme>
     <programme start="20250515153000 +0000" stop="20250515160000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Inside Mark Zuckerberg&#039;s AI Era</title>
+        <title>Why Money Is Flowing Into Geoengineering</title>
     </programme>
     <programme start="20250514140000 +0000" stop="20250514180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M06 - Rajasthan Royals vs Kolkata Knight Riders</title>
@@ -3331,19 +3289,16 @@
     <programme start="20250514180000 +0000" stop="20250514220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250514220000 +0000" stop="20250515010000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250515010000 +0000" stop="20250515020000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250514234000 +0000" stop="20250515004000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Champions Trophy 2025: M11 - England vs South Africa HLs</title>
     </programme>
-    <programme start="20250515020000 +0000" stop="20250515060000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250515004000 +0000" stop="20250515050500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M22 - Punjab Kings vs Chennai Super Kings</title>
     </programme>
-    <programme start="20250515060000 +0000" stop="20250515100000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250515050500 +0000" stop="20250515093000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M46 - Delhi Capitals vs Royal Challengers Benga</title>
     </programme>
-    <programme start="20250515100000 +0000" stop="20250515140000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250515093000 +0000" stop="20250515140000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M53 - Kolkata Knight Riders vs Rajasthan Royals</title>
     </programme>
     <programme start="20250515140000 +0000" stop="20250515180500 +0000" channel="Hub Sports 4 HD.starhub">

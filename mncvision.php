@@ -7189,66 +7189,7 @@
 <programme start="20250515054500 +0000" stop="20250515061500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20250514170500 +0000" stop="20250514181000 +0000" channel="ONE.mncvision">
-    <title>Law Of Jungle In Sunda..., Ep 8</title>
-</programme>
-<programme start="20250514181000 +0000" stop="20250514192500 +0000" channel="ONE.mncvision">
-    <title>Midnight Horror Story, Ep 13</title>
-</programme>
-<programme start="20250514192500 +0000" stop="20250514204000 +0000" channel="ONE.mncvision">
-    <title>Motel California, Ep 1</title>
-</programme>
-<programme start="20250514204000 +0000" stop="20250514220000 +0000" channel="ONE.mncvision">
-    <title>Great Queen Seondeok, Ep 4</title>
-</programme>
-<programme start="20250514220000 +0000" stop="20250514224500 +0000" channel="ONE.mncvision">
-    <title>Desperate Mrs. Seonju, Ep 81</title>
-</programme>
-<programme start="20250514224500 +0000" stop="20250515001500 +0000" channel="ONE.mncvision">
-    <title>Knight Flower, Ep 12</title>
-</programme>
-<programme start="20250515001500 +0000" stop="20250515014000 +0000" channel="ONE.mncvision">
-    <title>Motel California, Ep 1</title>
-</programme>
-<programme start="20250515014000 +0000" stop="20250515030000 +0000" channel="ONE.mncvision">
-    <title>Great Queen Seondeok, Ep 4</title>
-</programme>
-<programme start="20250515030000 +0000" stop="20250515034500 +0000" channel="ONE.mncvision">
-    <title>Third Marriage, Ep 78</title>
-</programme>
-<programme start="20250515034500 +0000" stop="20250515043500 +0000" channel="ONE.mncvision">
-    <title>Third Marriage, Ep 79</title>
-</programme>
-<programme start="20250515043500 +0000" stop="20250515052000 +0000" channel="ONE.mncvision">
-    <title>Desperate Mrs. Seonju, Ep 81</title>
-</programme>
-<programme start="20250515052000 +0000" stop="20250515065000 +0000" channel="ONE.mncvision">
-    <title>Knight Flower, Ep 12</title>
-</programme>
-<programme start="20250515065000 +0000" stop="20250515081000 +0000" channel="ONE.mncvision">
-    <title>Great Queen Seondeok, Ep 4</title>
-</programme>
-<programme start="20250515081000 +0000" stop="20250515090000 +0000" channel="ONE.mncvision">
-    <title>Desperate Mrs. Seonju, Ep 81</title>
-</programme>
-<programme start="20250515090000 +0000" stop="20250515102000 +0000" channel="ONE.mncvision">
-    <title>Pinocchio, Ep 13</title>
-</programme>
-<programme start="20250515102000 +0000" stop="20250515114000 +0000" channel="ONE.mncvision">
-    <title>Motel California, Ep 2</title>
-</programme>
-<programme start="20250515114000 +0000" stop="20250515130000 +0000" channel="ONE.mncvision">
-    <title>Great Queen Seondeok, Ep 5</title>
-</programme>
-<programme start="20250515130000 +0000" stop="20250515143600 +0000" channel="ONE.mncvision">
-    <title>Reborn Rich, Ep 1</title>
-</programme>
-<programme start="20250515143600 +0000" stop="20250515163500 +0000" channel="ONE.mncvision">
-    <title>The Half-Star Hotel..., Ep 49</title>
-</programme>
-<programme start="20250515163500 +0000" stop="20250514170500 +0000" channel="ONE.mncvision">
-    <title>Reborn Rich, Ep 1</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514170500 +0000" stop="20250514181000 +0000" channel="ONE HD.mncvision">
     <title>Law Of Jungle In Sunda..., Ep 8</title>
 </programme>
@@ -8497,42 +8438,7 @@
 <programme start="20250515150000 +0000" stop="20250515153000 +0000" channel="Sportstars 3.mncvision">
     <title>Sportacular Match</title>
 </programme>
-<programme start="20250514170000 +0000" stop="20250514190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: PKU Vs DTS</title>
-</programme>
-<programme start="20250514190000 +0000" stop="20250514210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: MDR Vs BOR</title>
-</programme>
-<programme start="20250514210000 +0000" stop="20250514230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSJ Vs BAL</title>
-</programme>
-<programme start="20250514230000 +0000" stop="20250515010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250515010000 +0000" stop="20250515030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: MDR Vs BOR</title>
-</programme>
-<programme start="20250515030000 +0000" stop="20250515050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: PKU Vs DTS</title>
-</programme>
-<programme start="20250515050000 +0000" stop="20250515070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250515070000 +0000" stop="20250515090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250515090000 +0000" stop="20250515110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: BFC Vs PSL</title>
-</programme>
-<programme start="20250515110000 +0000" stop="20250515130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: AFC Vs KDR</title>
-</programme>
-<programme start="20250515130000 +0000" stop="20250515150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PBY Vs SMP</title>
-</programme>
-<programme start="20250515150000 +0000" stop="20250515153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250514170000 +0000" stop="20250514190000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: PKU Vs DTS</title>
 </programme>

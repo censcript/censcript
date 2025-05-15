@@ -1,28 +1,28 @@
     <programme start="20250514153011 +0000" stop="20250514160022 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead - EP 11</title>
     </programme>
-    <programme start="20250514160022 +0000" stop="20250514163009 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514160011 +0000" stop="20250514163003 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 66</title>
     </programme>
-    <programme start="20250514163009 +0000" stop="20250514170020 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514163003 +0000" stop="20250514170019 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 19</title>
     </programme>
-    <programme start="20250514170020 +0000" stop="20250514175029 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514170019 +0000" stop="20250514175028 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S12 - EP 3</title>
     </programme>
-    <programme start="20250514175029 +0000" stop="20250514184036 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514175028 +0000" stop="20250514184036 +0000" channel="Channel 5.mewatch">
         <title>Raid The Cage : Season 01 - EP 2</title>
     </programme>
     <programme start="20250514184036 +0000" stop="20250514193513 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S7 - EP 5</title>
     </programme>
-    <programme start="20250514193513 +0000" stop="20250514200500 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514193513 +0000" stop="20250514200501 +0000" channel="Channel 5.mewatch">
         <title>Films &amp; Stars 2025/26 - EP 5</title>
     </programme>
-    <programme start="20250514200500 +0000" stop="20250514203005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514200501 +0000" stop="20250514203006 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7977</title>
     </programme>
-    <programme start="20250514203005 +0000" stop="20250514210019 +0000" channel="Channel 5.mewatch">
+    <programme start="20250514203006 +0000" stop="20250514210019 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 148</title>
     </programme>
     <programme start="20250514210019 +0000" stop="20250514220000 +0000" channel="Channel 5.mewatch">
@@ -265,10 +265,10 @@
     <programme start="20250514153014 +0000" stop="20250514163106 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 1</title>
     </programme>
-    <programme start="20250514163106 +0000" stop="20250514172750 +0000" channel="Channel U.mewatch">
+    <programme start="20250514163152 +0000" stop="20250514172837 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 69</title>
     </programme>
-    <programme start="20250514172750 +0000" stop="20250514220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250514172837 +0000" stop="20250514220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 70</title>
     </programme>
     <programme start="20250514220000 +0000" stop="20250515025807 +0000" channel="Channel U.mewatch">
@@ -379,7 +379,7 @@
     <programme start="20250514153000 +0000" stop="20250514160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250514160047 +0000" stop="20250515010000 +0000" channel="Suria.mewatch">
+    <programme start="20250514160008 +0000" stop="20250515010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250515010000 +0000" stop="20250515013001 +0000" channel="Suria.mewatch">
@@ -744,6 +744,9 @@
     </programme>
     <programme start="20250515150000 +0000" stop="20250515160000 +0000" channel="now-70s.mewatch">
         <title>Simon Bates Golden Hour: 1976</title>
+    </programme>
+    <programme start="20250515160000 +0000" stop="20250515170500 +0000" channel="now-70s.mewatch">
+        <title>Total Legends! 1970-1979</title>
     </programme>
     <programme start="20250514160000 +0000" stop="20250514220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
