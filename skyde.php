@@ -2441,10 +2441,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516132500 +0000" stop="20250516141500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Motorway Cops - Verkehrssünder im Visier</title>
 </programme>
-<programme start="20250516141500 +0000" stop="20250516150000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250516141500 +0000" stop="20250516150500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Motorway Cops - Verkehrssünder im Visier</title>
 </programme>
-<programme start="20250516150000 +0000" stop="20250516155000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250516150500 +0000" stop="20250516155000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Motorway Cops - Verkehrssünder im Visier</title>
 </programme>
 <programme start="20250516155000 +0000" stop="20250516164000 +0000" channel="Sky Documentaries HD.skyde">
@@ -4079,10 +4079,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516024000 +0000" stop="20250516032500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250516032500 +0000" stop="20250516042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516032500 +0000" stop="20250516041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250516042500 +0000" stop="20250516051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516041500 +0000" stop="20250516051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250516051000 +0000" stop="20250516060000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4127,10 +4127,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516155500 +0000" stop="20250516164000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250516164000 +0000" stop="20250516172500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516164000 +0000" stop="20250516173000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Person of Interest</title>
 </programme>
-<programme start="20250516172500 +0000" stop="20250516181500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516173000 +0000" stop="20250516181500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Person of Interest</title>
 </programme>
 <programme start="20250516181500 +0000" stop="20250516190000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4142,9 +4142,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516194500 +0000" stop="20250516203000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250516203000 +0000" stop="20250516212000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516203000 +0000" stop="20250516212500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20250516212000 +0000" stop="20250516221500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250516212500 +0000" stop="20250516221500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
