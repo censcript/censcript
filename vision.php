@@ -485,7 +485,7 @@
 <title>Spill DD Tea</title>
 </programme>
 <programme start="20250517053000 +0000" stop="20250517070000 +0000" channel="Trans TV.vision">
-<title>Brownis Hits</title>
+<title>Brownis On The Weekend</title>
 </programme>
 <programme start="20250517070000 +0000" stop="20250517080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
