@@ -5410,7 +5410,7 @@
     <programme start="20250515174500 +0000" stop="20250515200000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 2024/25 MD32 - Al Raed v Al Ittihad</title>
     </programme>
-    <programme start="20250515200000 +0000" stop="20250515223000 +0000" channel="SPOTV.starhub">
+    <programme start="20250515200000 +0000" stop="20250515221000 +0000" channel="SPOTV.starhub">
         <title>Recurve Team Finals</title>
     </programme>
     <programme start="20250515221000 +0000" stop="20250516003500 +0000" channel="SPOTV.starhub">
