@@ -1,6 +1,3 @@
-    <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Saturday Morning</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Norway v Italy</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
     </programme>
