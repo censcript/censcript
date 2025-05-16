@@ -469,19 +469,19 @@
     <programme start="20250516080000 +0000" stop="20250516110000 +0000" channel="Vasantham.mewatch">
         <title>Rummy</title>
     </programme>
-    <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250516110000 +0000" stop="20250516115959 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary Raja Kaiya Vecha - EP 1</title>
     </programme>
-    <programme start="20250516120000 +0000" stop="20250516123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250516115959 +0000" stop="20250516123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 7</title>
     </programme>
-    <programme start="20250516123000 +0000" stop="20250516130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250516123000 +0000" stop="20250516125955 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250516130000 +0000" stop="20250516140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250516125955 +0000" stop="20250516135957 +0000" channel="Vasantham.mewatch">
         <title>Acham Yenbathu Madamaiyadaa S3 - EP 3</title>
     </programme>
-    <programme start="20250516140000 +0000" stop="20250516163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250516135957 +0000" stop="20250516163000 +0000" channel="Vasantham.mewatch">
         <title>Ayothi</title>
     </programme>
     <programme start="20250515160001 +0000" stop="20250515160237 +0000" channel="CNA.mewatch">
