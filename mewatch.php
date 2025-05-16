@@ -256,10 +256,10 @@
     <programme start="20250515153144 +0000" stop="20250515162917 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 5</title>
     </programme>
-    <programme start="20250515162917 +0000" stop="20250515172709 +0000" channel="Channel U.mewatch">
+    <programme start="20250515163047 +0000" stop="20250515172839 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 71</title>
     </programme>
-    <programme start="20250515172709 +0000" stop="20250515220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250515172839 +0000" stop="20250515220000 +0000" channel="Channel U.mewatch">
         <title>A Good Supper - EP 72</title>
     </programme>
     <programme start="20250515220000 +0000" stop="20250516025814 +0000" channel="Channel U.mewatch">
@@ -424,13 +424,13 @@
     <programme start="20250516150000 +0000" stop="20250516153000 +0000" channel="Suria.mewatch">
         <title>Eat,Fun And Pray - EP 3</title>
     </programme>
-    <programme start="20250516153000 +0000" stop="20250516160012 +0000" channel="Suria.mewatch">
+    <programme start="20250516153000 +0000" stop="20250516160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250515160000 +0000" stop="20250515163002 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515160025 +0000" stop="20250515163052 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250515163002 +0000" stop="20250516010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250515163052 +0000" stop="20250516010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250516010000 +0000" stop="20250516012958 +0000" channel="Vasantham.mewatch">

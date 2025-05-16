@@ -917,56 +917,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516060000 +0000" stop="20250516080000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250516080000 +0000" stop="20250516083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516080000 +0000" stop="20250516082000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250516083000 +0000" stop="20250516103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516082000 +0000" stop="20250516101500 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Espanyol Barcelona - FC Barcelona</title>
 </programme>
-<programme start="20250516103000 +0000" stop="20250516110000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516101500 +0000" stop="20250516104000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250516110000 +0000" stop="20250516125000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516104000 +0000" stop="20250516123500 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Real Madrid - RCD Mallorca</title>
 </programme>
-<programme start="20250516125000 +0000" stop="20250516130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250516130000 +0000" stop="20250516145000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516123500 +0000" stop="20250516143000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Eintracht Frankfurt - FC St. Pauli</title>
 </programme>
-<programme start="20250516145000 +0000" stop="20250516150500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516143000 +0000" stop="20250516145500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250516150500 +0000" stop="20250516160000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 1</title>
-</programme>
-<programme start="20250516160000 +0000" stop="20250516164500 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-</programme>
-<programme start="20250516164500 +0000" stop="20250516170500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250516170500 +0000" stop="20250516173500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Gameweek Highlights: 33. Spieltag</title>
-</programme>
-<programme start="20250516173500 +0000" stop="20250516175000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Infinity League 2025 - Non-live: Review 2.0</title>
-</programme>
-<programme start="20250516175000 +0000" stop="20250516184000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516145500 +0000" stop="20250516154000 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
 </programme>
-<programme start="20250516184000 +0000" stop="20250516205000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A: TBC - TBC</title>
+<programme start="20250516154000 +0000" stop="20250516175000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Saudi League: Al Fateh - Al Hilal</title>
 </programme>
-<programme start="20250516205000 +0000" stop="20250516210500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516175000 +0000" stop="20250516200000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Saudi League: Al Nassr - Al-Taawoun</title>
+</programme>
+<programme start="20250516200000 +0000" stop="20250516202500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250516210500 +0000" stop="20250516215000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250516202500 +0000" stop="20250516211500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
+</programme>
+<programme start="20250516211500 +0000" stop="20250516220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 2</title>
-</programme>
-<programme start="20250516215000 +0000" stop="20250516220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250515220000 +0000" stop="20250516060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -1001,20 +986,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516151000 +0000" stop="20250516154000 +0000" channel="DAZN 2 HD.skyde">
     <title>Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
 </programme>
-<programme start="20250516154000 +0000" stop="20250516175000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Saudi League: Al Fateh - Al Hilal</title>
+<programme start="20250516154000 +0000" stop="20250516163000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20250516175000 +0000" stop="20250516200000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Saudi League: Al Nassr - Al-Taawoun</title>
+<programme start="20250516163000 +0000" stop="20250516172000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 2</title>
 </programme>
-<programme start="20250516200000 +0000" stop="20250516203000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250516172000 +0000" stop="20250516175000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250516175000 +0000" stop="20250516182000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 33. Spieltag</title>
 </programme>
-<programme start="20250516203000 +0000" stop="20250516211500 +0000" channel="DAZN 2 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+<programme start="20250516182000 +0000" stop="20250516183500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Infinity League 2025 - Non-live: Review 2.0</title>
 </programme>
-<programme start="20250516211500 +0000" stop="20250516220500 +0000" channel="DAZN 2 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+<programme start="20250516183500 +0000" stop="20250516192000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
+</programme>
+<programme start="20250516192000 +0000" stop="20250516194000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250516194000 +0000" stop="20250516213000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Primera División: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20250516213000 +0000" stop="20250516220500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga Gameweek Highlights: 33. Spieltag</title>
 </programme>
 <programme start="20250515220500 +0000" stop="20250515225000 +0000" channel="Discovery HD.skyde">
     <title>Das Survival-Duo: Zwei Männer, ein Ziel</title>
@@ -1499,34 +1496,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516041000 +0000" stop="20250516042000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516042000 +0000" stop="20250516043000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516042000 +0000" stop="20250516043500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516043000 +0000" stop="20250516044000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516043500 +0000" stop="20250516044500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516044000 +0000" stop="20250516045000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516044500 +0000" stop="20250516045500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516045000 +0000" stop="20250516050000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516045500 +0000" stop="20250516050500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516050000 +0000" stop="20250516052500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516050500 +0000" stop="20250516052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250516052500 +0000" stop="20250516054500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516052500 +0000" stop="20250516055000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250516054500 +0000" stop="20250516061000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516055000 +0000" stop="20250516061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250516061000 +0000" stop="20250516063000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516061000 +0000" stop="20250516063500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250516063000 +0000" stop="20250516064000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516063500 +0000" stop="20250516064500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250516064000 +0000" stop="20250516070500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516064500 +0000" stop="20250516070500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250516070500 +0000" stop="20250516073000 +0000" channel="Nick Jr..skyde">
@@ -1535,16 +1532,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516073000 +0000" stop="20250516075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250516075000 +0000" stop="20250516081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516075000 +0000" stop="20250516081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250516081000 +0000" stop="20250516082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516081500 +0000" stop="20250516082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516082000 +0000" stop="20250516082500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516082000 +0000" stop="20250516083000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516082500 +0000" stop="20250516083500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516083000 +0000" stop="20250516083500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250516083500 +0000" stop="20250516084000 +0000" channel="Nick Jr..skyde">
@@ -1571,19 +1568,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516091000 +0000" stop="20250516091500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250516091500 +0000" stop="20250516093000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516091500 +0000" stop="20250516092500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516093000 +0000" stop="20250516094000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516092500 +0000" stop="20250516094000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250516094000 +0000" stop="20250516095000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516095000 +0000" stop="20250516100500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516095000 +0000" stop="20250516100000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516100500 +0000" stop="20250516101500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516100000 +0000" stop="20250516101500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250516101500 +0000" stop="20250516102500 +0000" channel="Nick Jr..skyde">
@@ -1625,10 +1622,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516141500 +0000" stop="20250516142000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516142000 +0000" stop="20250516143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516142000 +0000" stop="20250516142500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516143000 +0000" stop="20250516145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516142500 +0000" stop="20250516145000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250516145000 +0000" stop="20250516150000 +0000" channel="Nick Jr..skyde">
@@ -1673,10 +1670,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516181000 +0000" stop="20250516183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250516183000 +0000" stop="20250516184000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516183000 +0000" stop="20250516184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250516184000 +0000" stop="20250516190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516184500 +0000" stop="20250516190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250516190500 +0000" stop="20250516193000 +0000" channel="Nick Jr..skyde">
@@ -1685,16 +1682,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516193000 +0000" stop="20250516195000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250516195000 +0000" stop="20250516201000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516195000 +0000" stop="20250516201500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250516201000 +0000" stop="20250516202000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516201500 +0000" stop="20250516202000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516202000 +0000" stop="20250516202500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516202000 +0000" stop="20250516203000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250516202500 +0000" stop="20250516203500 +0000" channel="Nick Jr..skyde">
+<programme start="20250516203000 +0000" stop="20250516203500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250516203500 +0000" stop="20250516204000 +0000" channel="Nick Jr..skyde">
@@ -1724,7 +1721,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516211500 +0000" stop="20250516214000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250516214000 +0000" stop="20250516220000 +0000" channel="Nick Jr..skyde">
+<programme start="20250516214000 +0000" stop="20250516220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250515221500 +0000" stop="20250515224000 +0000" channel="Nicktoons.skyde">
@@ -1733,31 +1730,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250515224000 +0000" stop="20250515230000 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250515230000 +0000" stop="20250515232000 +0000" channel="Nicktoons.skyde">
+<programme start="20250515230000 +0000" stop="20250515232500 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250515232000 +0000" stop="20250515234000 +0000" channel="Nicktoons.skyde">
+<programme start="20250515232500 +0000" stop="20250515234500 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250515234000 +0000" stop="20250516000000 +0000" channel="Nicktoons.skyde">
+<programme start="20250515234500 +0000" stop="20250516000500 +0000" channel="Nicktoons.skyde">
     <title>Best &amp; Bester</title>
 </programme>
-<programme start="20250516000000 +0000" stop="20250516002500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516000500 +0000" stop="20250516002500 +0000" channel="Nicktoons.skyde">
     <title>Kung Fu Panda: Legenden mit Fell und Fu</title>
 </programme>
-<programme start="20250516002500 +0000" stop="20250516004500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516002500 +0000" stop="20250516005000 +0000" channel="Nicktoons.skyde">
     <title>Dora</title>
 </programme>
-<programme start="20250516004500 +0000" stop="20250516010500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516005000 +0000" stop="20250516011000 +0000" channel="Nicktoons.skyde">
     <title>Die Abenteuer von Kid Danger</title>
 </programme>
-<programme start="20250516010500 +0000" stop="20250516013000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516011000 +0000" stop="20250516013000 +0000" channel="Nicktoons.skyde">
     <title>Avatar - Der Herr der Elemente</title>
 </programme>
-<programme start="20250516013000 +0000" stop="20250516015000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516013000 +0000" stop="20250516015500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516015000 +0000" stop="20250516021500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516015500 +0000" stop="20250516021500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250516021500 +0000" stop="20250516023500 +0000" channel="Nicktoons.skyde">
@@ -1769,10 +1766,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516030000 +0000" stop="20250516032000 +0000" channel="Nicktoons.skyde">
     <title>Die Abenteuer der Teenage Mutant Ninja Turtles</title>
 </programme>
-<programme start="20250516032000 +0000" stop="20250516034500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516032000 +0000" stop="20250516034000 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516034500 +0000" stop="20250516040500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516034000 +0000" stop="20250516040500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250516040500 +0000" stop="20250516042000 +0000" channel="Nicktoons.skyde">
@@ -1802,28 +1799,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516070500 +0000" stop="20250516073000 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516073000 +0000" stop="20250516075000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516073000 +0000" stop="20250516075500 +0000" channel="Nicktoons.skyde">
     <title>Die Abenteuer der Teenage Mutant Ninja Turtles</title>
 </programme>
-<programme start="20250516075000 +0000" stop="20250516081500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516075500 +0000" stop="20250516081500 +0000" channel="Nicktoons.skyde">
     <title>Die verzwickten Zeitreisen von Sammy und Raj</title>
 </programme>
 <programme start="20250516081500 +0000" stop="20250516084000 +0000" channel="Nicktoons.skyde">
     <title>Kamp Koral: SpongeBobs Kinderjahre</title>
 </programme>
-<programme start="20250516084000 +0000" stop="20250516090000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516084000 +0000" stop="20250516090500 +0000" channel="Nicktoons.skyde">
     <title>Kamp Koral: SpongeBobs Kinderjahre</title>
 </programme>
-<programme start="20250516090000 +0000" stop="20250516093000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516090500 +0000" stop="20250516093000 +0000" channel="Nicktoons.skyde">
     <title>Hamster von Hamstertal</title>
 </programme>
 <programme start="20250516093000 +0000" stop="20250516095500 +0000" channel="Nicktoons.skyde">
     <title>Die Pinguine aus Madagascar</title>
 </programme>
-<programme start="20250516095500 +0000" stop="20250516102000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516095500 +0000" stop="20250516101500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516102000 +0000" stop="20250516103000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516101500 +0000" stop="20250516103000 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250516103000 +0000" stop="20250516105500 +0000" channel="Nicktoons.skyde">
@@ -1832,25 +1829,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516105500 +0000" stop="20250516110500 +0000" channel="Nicktoons.skyde">
     <title>Willkommen bei den Louds</title>
 </programme>
-<programme start="20250516110500 +0000" stop="20250516113000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516110500 +0000" stop="20250516112500 +0000" channel="Nicktoons.skyde">
     <title>Willkommen bei den Louds</title>
 </programme>
-<programme start="20250516113000 +0000" stop="20250516115500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516112500 +0000" stop="20250516115000 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250516115500 +0000" stop="20250516122000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516115000 +0000" stop="20250516121500 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250516122000 +0000" stop="20250516123000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516121500 +0000" stop="20250516123000 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250516123000 +0000" stop="20250516130000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516123000 +0000" stop="20250516125500 +0000" channel="Nicktoons.skyde">
     <title>Hamster von Hamstertal</title>
 </programme>
-<programme start="20250516130000 +0000" stop="20250516132500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516125500 +0000" stop="20250516132000 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516132500 +0000" stop="20250516134500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516132000 +0000" stop="20250516134500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250516134500 +0000" stop="20250516141000 +0000" channel="Nicktoons.skyde">
@@ -1859,10 +1856,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516141000 +0000" stop="20250516143500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516143500 +0000" stop="20250516150000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516143500 +0000" stop="20250516145500 +0000" channel="Nicktoons.skyde">
     <title>Die Patrick Star Show</title>
 </programme>
-<programme start="20250516150000 +0000" stop="20250516152000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516145500 +0000" stop="20250516152000 +0000" channel="Nicktoons.skyde">
     <title>Kamp Koral: SpongeBobs Kinderjahre</title>
 </programme>
 <programme start="20250516152000 +0000" stop="20250516153500 +0000" channel="Nicktoons.skyde">
@@ -1877,10 +1874,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516162500 +0000" stop="20250516165000 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250516165000 +0000" stop="20250516171500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516165000 +0000" stop="20250516171000 +0000" channel="Nicktoons.skyde">
     <title>Cosmo &amp; Wanda: Wenn Elfen helfen</title>
 </programme>
-<programme start="20250516171500 +0000" stop="20250516172500 +0000" channel="Nicktoons.skyde">
+<programme start="20250516171000 +0000" stop="20250516172500 +0000" channel="Nicktoons.skyde">
     <title>Willkommen bei den Louds</title>
 </programme>
 <programme start="20250516172500 +0000" stop="20250516175000 +0000" channel="Nicktoons.skyde">
@@ -1913,10 +1910,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516203000 +0000" stop="20250516205500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516205500 +0000" stop="20250516212000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516205500 +0000" stop="20250516211500 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
-<programme start="20250516212000 +0000" stop="20250516213000 +0000" channel="Nicktoons.skyde">
+<programme start="20250516211500 +0000" stop="20250516213000 +0000" channel="Nicktoons.skyde">
     <title>SpongeBob Schwammkopf</title>
 </programme>
 <programme start="20250516213000 +0000" stop="20250516215500 +0000" channel="Nicktoons.skyde">
@@ -2939,9 +2936,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516214000 +0000" stop="20250516223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Überlebenskampf der Wildtiere</title>
 </programme>
-<programme start="20250515220000 +0000" stop="20250515223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
-</programme>
 <programme start="20250515223000 +0000" stop="20250516003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SK Rapid, 30. Runde</title>
 </programme>
@@ -2982,19 +2976,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Klassiker der Woche: STU - SCR (2010/11)</title>
 </programme>
 <programme start="20250516132500 +0000" stop="20250516153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250516160000 +0000" stop="20250516180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250516180000 +0000" stop="20250516182500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250516182500 +0000" stop="20250516203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250516203000 +0000" stop="20250516210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -3051,7 +3045,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Spielmacher - Der Fußball-Vodcast mit Sebastian Hellmann (Gast: Matthias Sammer)</title>
 </programme>
 <programme start="20250516140000 +0000" stop="20250516143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: FCB - BMG, 33.Spieltag</title>
+    <title>BL: Game Vision - Hugo Larsson</title>
 </programme>
 <programme start="20250516143000 +0000" stop="20250516144500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (33)</title>
@@ -3113,10 +3107,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516050000 +0000" stop="20250516060000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Bahrain</title>
 </programme>
-<programme start="20250516060000 +0000" stop="20250516070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250516060000 +0000" stop="20250516065500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Saudi-Arabien</title>
 </programme>
-<programme start="20250516070000 +0000" stop="20250516075500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250516065500 +0000" stop="20250516075500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Saudi-Arabien</title>
 </programme>
 <programme start="20250516075500 +0000" stop="20250516085000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3237,7 +3231,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Series Rewind TOR-OTT (1. Runde)</title>
 </programme>
 <programme start="20250516133000 +0000" stop="20250516140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Series Rewind EDM-LAK (1. Runde)</title>
+    <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
 <programme start="20250516140000 +0000" stop="20250516150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Nachspielzeit - die Highlightshow, 22. Spieltag</title>
@@ -3245,11 +3239,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516150000 +0000" stop="20250516170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Winnipeg Jets - Dallas Stars, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
-<programme start="20250516170000 +0000" stop="20250516180000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Sprint - GP Frankreich</title>
+<programme start="20250516170000 +0000" stop="20250516172500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Series Rewind TOR-OTT (1. Runde)</title>
 </programme>
-<programme start="20250516180000 +0000" stop="20250516182000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights CAR@WSH, Playoffs, 2. Runde, Spiel 5</title>
+<programme start="20250516172500 +0000" stop="20250516175000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Series Rewind EDM-LAK (1. Runde)</title>
+</programme>
+<programme start="20250516175000 +0000" stop="20250516182000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
 <programme start="20250516182000 +0000" stop="20250516203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Aston Villa - Tottenham Hotspur, 37. Spieltag</title>
@@ -3257,11 +3254,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516203000 +0000" stop="20250516213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Rally de Portugal - SS1 Figueira da Foz</title>
 </programme>
-<programme start="20250516213000 +0000" stop="20250516214500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights CAR@WSH, Playoffs, 2. Runde, Spiel 5</title>
-</programme>
-<programme start="20250516214500 +0000" stop="20250516220000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights DAL@WPG, Playoffs, 2. Runde, Spiel 5</title>
+<programme start="20250516213000 +0000" stop="20250516223000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Frankreich</title>
 </programme>
 <programme start="20250515220000 +0000" stop="20250515230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3288,7 +3282,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250516080000 +0000" stop="20250516083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
+    <title>Live Sky Sport News: FCB-PK</title>
 </programme>
 <programme start="20250516083000 +0000" stop="20250516084500 +0000" channel="Sky Sport News HD.skyde">
     <title>F1: Warm Up - Das Motorsport Spezial</title>
@@ -3452,53 +3446,56 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516214500 +0000" stop="20250516221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Goals: Chelsea - Manchester United</title>
 </programme>
-<programme start="20250515230000 +0000" stop="20250516010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
-</programme>
-<programme start="20250516010000 +0000" stop="20250516033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: C. Ruud (NOR) - J. Draper (GBR), Mutua Madrid Open in Madrid (ESP), Finale</title>
-</programme>
-<programme start="20250516033000 +0000" stop="20250516040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250516040000 +0000" stop="20250516043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Madrid</title>
-</programme>
-<programme start="20250516043000 +0000" stop="20250516063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
-</programme>
-<programme start="20250516063000 +0000" stop="20250516083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
-</programme>
-<programme start="20250516083000 +0000" stop="20250516090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250516090000 +0000" stop="20250516110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250515223000 +0000" stop="20250516003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
-<programme start="20250516110000 +0000" stop="20250516130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250516003000 +0000" stop="20250516020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+</programme>
+<programme start="20250516020000 +0000" stop="20250516043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: C. Ruud (NOR) - J. Draper (GBR), Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
+<programme start="20250516043000 +0000" stop="20250516050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
+</programme>
+<programme start="20250516050000 +0000" stop="20250516065000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+</programme>
+<programme start="20250516065000 +0000" stop="20250516084500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+</programme>
+<programme start="20250516084500 +0000" stop="20250516092000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250516092000 +0000" stop="20250516112500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: H. Hurkacz (POL) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+</programme>
+<programme start="20250516112500 +0000" stop="20250516130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20250516130000 +0000" stop="20250516132500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250516132500 +0000" stop="20250516153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250516160000 +0000" stop="20250516180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250516180000 +0000" stop="20250516182500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250516182500 +0000" stop="20250516203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250516203000 +0000" stop="20250516223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+</programme>
+<programme start="20250515223000 +0000" stop="20250515230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PGA Championship: 1. Tag in Charlotte, NC (USA)</title>
 </programme>
 <programme start="20250515230000 +0000" stop="20250516000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: The Catch-Up Show</title>
@@ -3518,10 +3515,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516043000 +0000" stop="20250516050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Chris Wood)</title>
 </programme>
-<programme start="20250516050000 +0000" stop="20250516060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250516050000 +0000" stop="20250516055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Highlights: GP Frankreich</title>
 </programme>
-<programme start="20250516060000 +0000" stop="20250516075500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250516055500 +0000" stop="20250516075500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
 <programme start="20250516075500 +0000" stop="20250516085000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3546,7 +3543,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live F3: Qualifying - GP Emilia Romagna</title>
 </programme>
 <programme start="20250516134500 +0000" stop="20250516153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
+    <title>Live ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20250516153000 +0000" stop="20250516163000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 2. Freies Training - GP Emilia Romagna</title>
@@ -3554,13 +3551,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250516163000 +0000" stop="20250516170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 2. Tag (Early Coverage)</title>
 </programme>
-<programme start="20250516170000 +0000" stop="20250516182500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250516170000 +0000" stop="20250516184500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 2. Tag in Charlotte, NC (USA)</title>
 </programme>
-<programme start="20250516182500 +0000" stop="20250516203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+<programme start="20250516184500 +0000" stop="20250516211500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PL: FC Chelsea - Manchester United, Match of the Week, 37. Spieltag</title>
 </programme>
-<programme start="20250516203000 +0000" stop="20250516230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250516211500 +0000" stop="20250516230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 2. Tag in Charlotte, NC (USA)</title>
 </programme>
 <programme start="20250515231500 +0000" stop="20250516010000 +0000" channel="Sky Sport UHD.skyde">

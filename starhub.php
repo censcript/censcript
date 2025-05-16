@@ -5413,16 +5413,16 @@
     <programme start="20250515200000 +0000" stop="20250515223000 +0000" channel="SPOTV.starhub">
         <title>Recurve Team Finals</title>
     </programme>
-    <programme start="20250515223000 +0000" stop="20250516010000 +0000" channel="SPOTV.starhub">
+    <programme start="20250515221000 +0000" stop="20250516003500 +0000" channel="SPOTV.starhub">
         <title>Recurve Individual Finals</title>
     </programme>
-    <programme start="20250516010000 +0000" stop="20250516023000 +0000" channel="SPOTV.starhub">
+    <programme start="20250516003500 +0000" stop="20250516020000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250516023000 +0000" stop="20250516053000 +0000" channel="SPOTV.starhub">
+    <programme start="20250516020000 +0000" stop="20250516050500 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250516053000 +0000" stop="20250516065500 +0000" channel="SPOTV.starhub">
+    <programme start="20250516050500 +0000" stop="20250516065500 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
     <programme start="20250516065500 +0000" stop="20250516080000 +0000" channel="SPOTV.starhub">
