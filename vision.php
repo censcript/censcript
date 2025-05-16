@@ -485,7 +485,7 @@
 <title>Spill DD Tea</title>
 </programme>
 <programme start="20250517053000 +0000" stop="20250517070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
+<title>Brownis Hits</title>
 </programme>
 <programme start="20250517070000 +0000" stop="20250517080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
@@ -542,7 +542,7 @@
 <title>Makan Receh</title>
 </programme>
 <programme start="20250516101500 +0000" stop="20250516110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
+<title>Exposed Uncensored</title>
 </programme>
 <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
