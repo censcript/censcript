@@ -760,7 +760,84 @@
 <programme start="20250517162500 +0000" stop="20250517165500 +0000" channel="BBC Earth.mncvision">
     <title>Portillo&#039;s Long Weekends, Ep 10</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250516173000 +0000" stop="20250516182500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deadliest Weather S5, Ep 2</title>
+</programme>
+<programme start="20250516182500 +0000" stop="20250516191000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S3, Ep 4</title>
+</programme>
+<programme start="20250516191000 +0000" stop="20250516201500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Big Cats 24/7 S1, Ep 5</title>
+</programme>
+<programme start="20250516201500 +0000" stop="20250516210500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 1</title>
+</programme>
+<programme start="20250516210500 +0000" stop="20250516220000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Mammals S1, Ep 4</title>
+</programme>
+<programme start="20250516220000 +0000" stop="20250516225000 +0000" channel="BBC Earth HD.mncvision">
+    <title>How Did They Build That?, Ep 7</title>
+</programme>
+<programme start="20250516225000 +0000" stop="20250516234000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 1</title>
+</programme>
+<programme start="20250516234000 +0000" stop="20250517004500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Big Cats 24/7 S1, Ep 5</title>
+</programme>
+<programme start="20250517004500 +0000" stop="20250517014000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deep Dive Korea S1, Ep 1</title>
+</programme>
+<programme start="20250517014000 +0000" stop="20250517023000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 1</title>
+</programme>
+<programme start="20250517023000 +0000" stop="20250517032000 +0000" channel="BBC Earth HD.mncvision">
+    <title>How Did They Build That?, Ep 7</title>
+</programme>
+<programme start="20250517032000 +0000" stop="20250517041000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 10</title>
+</programme>
+<programme start="20250517041000 +0000" stop="20250517050500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deep Dive Korea S1, Ep 1</title>
+</programme>
+<programme start="20250517050500 +0000" stop="20250517061000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Big Cats 24/7 S1, Ep 5</title>
+</programme>
+<programme start="20250517061000 +0000" stop="20250517070500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 1</title>
+</programme>
+<programme start="20250517070500 +0000" stop="20250517080000 +0000" channel="BBC Earth HD.mncvision">
+    <title>How Did They Build That?, Ep 7</title>
+</programme>
+<programme start="20250517080000 +0000" stop="20250517085000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 10</title>
+</programme>
+<programme start="20250517085000 +0000" stop="20250517095000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Mammals S1, Ep 4</title>
+</programme>
+<programme start="20250517095000 +0000" stop="20250517105000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deep Dive Korea S1, Ep 1</title>
+</programme>
+<programme start="20250517105000 +0000" stop="20250517114500 +0000" channel="BBC Earth HD.mncvision">
+    <title>How Did They Build That?, Ep 7</title>
+</programme>
+<programme start="20250517114500 +0000" stop="20250517124500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Mating Game S1, Ep 3</title>
+</programme>
+<programme start="20250517124500 +0000" stop="20250517134000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 1</title>
+</programme>
+<programme start="20250517134000 +0000" stop="20250517143500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 2</title>
+</programme>
+<programme start="20250517143500 +0000" stop="20250517153000 +0000" channel="BBC Earth HD.mncvision">
+    <title>How Did They Build That?, Ep 7</title>
+</programme>
+<programme start="20250517153000 +0000" stop="20250517162500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Life Below Zero S12, Ep 19</title>
+</programme>
+<programme start="20250517162500 +0000" stop="20250517165500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 10</title>
+</programme>
 <programme start="20250516170000 +0000" stop="20250516173000 +0000" channel="BBC World News.mncvision">
     <title>World Today With M. Moshiri</title>
 </programme>
@@ -3860,8 +3937,153 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250517152500 +0000" stop="20250517155500 +0000" channel="Galaxy.mncvision">
     <title>Detachment</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250516173500 +0000" stop="20250516190000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Bad Santa 2</title>
+</programme>
+<programme start="20250516190000 +0000" stop="20250516211000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Star Trek</title>
+</programme>
+<programme start="20250516211000 +0000" stop="20250516224500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Playing With Fire</title>
+</programme>
+<programme start="20250516224500 +0000" stop="20250517004000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Deliver Us From Evil</title>
+</programme>
+<programme start="20250517004000 +0000" stop="20250517023000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Italian Job</title>
+</programme>
+<programme start="20250517023000 +0000" stop="20250517035000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Brothers Grimsby</title>
+</programme>
+<programme start="20250517035000 +0000" stop="20250517054500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Lara Croft: The Cradle Of Life</title>
+</programme>
+<programme start="20250517054500 +0000" stop="20250517072500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Daddy&#039;s Home 2</title>
+</programme>
+<programme start="20250517072500 +0000" stop="20250517090500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Charlie&#039;s Angels: Full Throttle</title>
+</programme>
+<programme start="20250517090500 +0000" stop="20250517105000 +0000" channel="Galaxy Premium.mncvision">
+    <title>xXx: Return Of Xander Cage</title>
+</programme>
+<programme start="20250517105000 +0000" stop="20250517123000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Miss Bala</title>
+</programme>
+<programme start="20250517123000 +0000" stop="20250517140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Hotel Transylvania 3</title>
+</programme>
+<programme start="20250517140000 +0000" stop="20250517160500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Shooter</title>
+</programme>
+<programme start="20250517160500 +0000" stop="20250517163500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Battle Los Angeles</title>
+</programme>
+<programme start="20250516173500 +0000" stop="20250516182500 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Africa, Ep 1</title>
+</programme>
+<programme start="20250516182500 +0000" stop="20250516185000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 1</title>
+</programme>
+<programme start="20250516185000 +0000" stop="20250516191500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 2</title>
+</programme>
+<programme start="20250516191500 +0000" stop="20250516194000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20250516194000 +0000" stop="20250516200500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20250516200500 +0000" stop="20250516203500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 3</title>
+</programme>
+<programme start="20250516203500 +0000" stop="20250516210500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 4</title>
+</programme>
+<programme start="20250516210500 +0000" stop="20250516213500 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 5</title>
+</programme>
+<programme start="20250516213500 +0000" stop="20250516220000 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 6</title>
+</programme>
+<programme start="20250516220000 +0000" stop="20250516234000 +0000" channel="Global Trekker.mncvision">
+    <title>Armstrong</title>
+</programme>
+<programme start="20250516234000 +0000" stop="20250517002500 +0000" channel="Global Trekker.mncvision">
+    <title>Andy Warhol: A Life In Art</title>
+</programme>
+<programme start="20250517002500 +0000" stop="20250517014000 +0000" channel="Global Trekker.mncvision">
+    <title>David Beckham: Infamous</title>
+</programme>
+<programme start="20250517014000 +0000" stop="20250517023000 +0000" channel="Global Trekker.mncvision">
+    <title>Canada: Year In The Wild, Ep 3</title>
+</programme>
+<programme start="20250517023000 +0000" stop="20250517032000 +0000" channel="Global Trekker.mncvision">
+    <title>Canada: Year In The Wild, Ep 4</title>
+</programme>
+<programme start="20250517032000 +0000" stop="20250517041000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 7</title>
+</programme>
+<programme start="20250517041000 +0000" stop="20250517050000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 8</title>
+</programme>
+<programme start="20250517050000 +0000" stop="20250517055000 +0000" channel="Global Trekker.mncvision">
+    <title>Alaska: Year In The Wild, Ep 1</title>
+</programme>
+<programme start="20250517055000 +0000" stop="20250517064000 +0000" channel="Global Trekker.mncvision">
+    <title>Alaska: Year In The Wild, Ep 2</title>
+</programme>
+<programme start="20250517064000 +0000" stop="20250517070500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 5</title>
+</programme>
+<programme start="20250517070500 +0000" stop="20250517073000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 6</title>
+</programme>
+<programme start="20250517073000 +0000" stop="20250517075500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 7</title>
+</programme>
+<programme start="20250517075500 +0000" stop="20250517082000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 8</title>
+</programme>
+<programme start="20250517082000 +0000" stop="20250517092000 +0000" channel="Global Trekker.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20250517092000 +0000" stop="20250517101500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250517101500 +0000" stop="20250517111000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250517111000 +0000" stop="20250517120500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 1</title>
+</programme>
+<programme start="20250517120500 +0000" stop="20250517130000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Portugal, Ep 2</title>
+</programme>
+<programme start="20250517130000 +0000" stop="20250517135000 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Africa, Ep 1</title>
+</programme>
+<programme start="20250517135000 +0000" stop="20250517141500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 1</title>
+</programme>
+<programme start="20250517141500 +0000" stop="20250517144000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 2</title>
+</programme>
+<programme start="20250517144000 +0000" stop="20250517150500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20250517150500 +0000" stop="20250517153000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20250517153000 +0000" stop="20250517160000 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 3</title>
+</programme>
+<programme start="20250517160000 +0000" stop="20250517163000 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 4</title>
+</programme>
+<programme start="20250517163000 +0000" stop="20250516170000 +0000" channel="Global Trekker.mncvision">
+    <title>United Plates Of America, Ep 5</title>
+</programme>
 <programme start="20250516173500 +0000" stop="20250516182500 +0000" channel="Global Trekker HD.mncvision">
     <title>Aerial Africa, Ep 1</title>
 </programme>
@@ -9112,8 +9334,138 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250517163000 +0000" stop="20250516170000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250516175000 +0000" stop="20250516192000 +0000" channel="Thrill.mncvision">
+    <title>Iblis</title>
+</programme>
+<programme start="20250516192000 +0000" stop="20250516210000 +0000" channel="Thrill.mncvision">
+    <title>Lost Memories</title>
+</programme>
+<programme start="20250516210000 +0000" stop="20250516223500 +0000" channel="Thrill.mncvision">
+    <title>Encroach</title>
+</programme>
+<programme start="20250516223500 +0000" stop="20250517001500 +0000" channel="Thrill.mncvision">
+    <title>Dead In The Water</title>
+</programme>
+<programme start="20250517001500 +0000" stop="20250517015000 +0000" channel="Thrill.mncvision">
+    <title>The Nightmares</title>
+</programme>
+<programme start="20250517015000 +0000" stop="20250517032000 +0000" channel="Thrill.mncvision">
+    <title>Iblis</title>
+</programme>
+<programme start="20250517032000 +0000" stop="20250517050000 +0000" channel="Thrill.mncvision">
+    <title>Lost Memories</title>
+</programme>
+<programme start="20250517050000 +0000" stop="20250517063500 +0000" channel="Thrill.mncvision">
+    <title>Encroach</title>
+</programme>
+<programme start="20250517063500 +0000" stop="20250517081500 +0000" channel="Thrill.mncvision">
+    <title>Dead In The Water</title>
+</programme>
+<programme start="20250517081500 +0000" stop="20250517095000 +0000" channel="Thrill.mncvision">
+    <title>The Nightmares</title>
+</programme>
+<programme start="20250517095000 +0000" stop="20250517112000 +0000" channel="Thrill.mncvision">
+    <title>Iblis</title>
+</programme>
+<programme start="20250517112000 +0000" stop="20250517130000 +0000" channel="Thrill.mncvision">
+    <title>Lost Memories</title>
+</programme>
+<programme start="20250517130000 +0000" stop="20250517143500 +0000" channel="Thrill.mncvision">
+    <title>The Ice Cream Truck</title>
+</programme>
+<programme start="20250517143500 +0000" stop="20250517160500 +0000" channel="Thrill.mncvision">
+    <title>Deep In The Sea</title>
+</programme>
+<programme start="20250517160500 +0000" stop="20250517163500 +0000" channel="Thrill.mncvision">
+    <title>Creepy Pasta</title>
+</programme>
+<programme start="20250516171500 +0000" stop="20250516174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250516174500 +0000" stop="20250516181500 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250516181500 +0000" stop="20250516190000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250516190000 +0000" stop="20250516193000 +0000" channel="Trans 7.mncvision">
+    <title>Rekonstruksi</title>
+</programme>
+<programme start="20250516193000 +0000" stop="20250516203000 +0000" channel="Trans 7.mncvision">
+    <title>Oggy And The Cockroaches</title>
+</programme>
+<programme start="20250516203000 +0000" stop="20250516211500 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs</title>
+</programme>
+<programme start="20250516211500 +0000" stop="20250516221500 +0000" channel="Trans 7.mncvision">
+    <title>Foodies</title>
+</programme>
+<programme start="20250516221500 +0000" stop="20250516230000 +0000" channel="Trans 7.mncvision">
+    <title>Jalur Langit</title>
+</programme>
+<programme start="20250516230000 +0000" stop="20250517000000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250517000000 +0000" stop="20250517003000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi On The Weekend</title>
+</programme>
+<programme start="20250517003000 +0000" stop="20250517013000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250517013000 +0000" stop="20250517023000 +0000" channel="Trans 7.mncvision">
+    <title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20250517023000 +0000" stop="20250517033000 +0000" channel="Trans 7.mncvision">
+    <title>Heits Abis</title>
+</programme>
+<programme start="20250517033000 +0000" stop="20250517041500 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20250517041500 +0000" stop="20250517050000 +0000" channel="Trans 7.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20250517050000 +0000" stop="20250517054500 +0000" channel="Trans 7.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20250517054500 +0000" stop="20250517063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20250517063000 +0000" stop="20250517071500 +0000" channel="Trans 7.mncvision">
+    <title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20250517071500 +0000" stop="20250517081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20250517081500 +0000" stop="20250517090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250517090000 +0000" stop="20250517100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250517100000 +0000" stop="20250517110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20250517110000 +0000" stop="20250517120000 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250517120000 +0000" stop="20250517123000 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250517123000 +0000" stop="20250517131500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250517131500 +0000" stop="20250517143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250517143000 +0000" stop="20250517154500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250517154500 +0000" stop="20250517163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250517163000 +0000" stop="20250516170000 +0000" channel="Trans 7.mncvision">
+    <title>Pokoknya Beres</title>
+</programme>
 <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Connected</title>
 </programme>

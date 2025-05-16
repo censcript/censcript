@@ -169,6 +169,12 @@
 <programme start="20250516033000 +0000" stop="20250516043000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
+<programme start="20250516043000 +0000" stop="20250516063000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20250516063000 +0000" stop="20250516073000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
+</programme>
 <programme start="20250516073000 +0000" stop="20250516080000 +0000" channel="GTV.vision">
 <title>Music TV</title>
 </programme>
@@ -196,6 +202,15 @@
 <programme start="20250516170000 +0000" stop="20250516180000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
 </programme>
+<programme start="20250516180000 +0000" stop="20250516190000 +0000" channel="GTV.vision">
+<title>Konon Katanya</title>
+</programme>
+<programme start="20250516190000 +0000" stop="20250516220000 +0000" channel="GTV.vision">
+<title>Abdel Vs Temon Masih Bukan...</title>
+</programme>
+<programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="GTV.vision">
+<title>Brownies</title>
+</programme>
 <programme start="20250516230000 +0000" stop="20250516233000 +0000" channel="GTV.vision">
 <title>Larva</title>
 </programme>
@@ -219,6 +234,9 @@
 </programme>
 <programme start="20250517063000 +0000" stop="20250517073000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
+</programme>
+<programme start="20250517073000 +0000" stop="20250517083000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250517083000 +0000" stop="20250517100000 +0000" channel="GTV.vision">
 <title>Little Eggs: An African Rescue</title>
@@ -316,6 +334,9 @@
 <programme start="20250517011000 +0000" stop="20250517024500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
+<programme start="20250517024500 +0000" stop="20250517040000 +0000" channel="iNews.vision">
+<title>iNews Siang (L)</title>
+</programme>
 <programme start="20250517040000 +0000" stop="20250517060000 +0000" channel="iNews.vision">
 <title>Cahaya Hati Indonesia</title>
 </programme>
@@ -324,6 +345,12 @@
 </programme>
 <programme start="20250517073000 +0000" stop="20250517084500 +0000" channel="iNews.vision">
 <title>iSeleb</title>
+</programme>
+<programme start="20250517084500 +0000" stop="20250517100000 +0000" channel="iNews.vision">
+<title>Realita (L)</title>
+</programme>
+<programme start="20250517100000 +0000" stop="20250517120000 +0000" channel="iNews.vision">
+<title>BUMN Awards</title>
 </programme>
 <programme start="20250515230000 +0000" stop="20250516004000 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>
@@ -458,7 +485,7 @@
 <title>Spill DD Tea</title>
 </programme>
 <programme start="20250517053000 +0000" stop="20250517070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
+<title>Brownis Hits</title>
 </programme>
 <programme start="20250517070000 +0000" stop="20250517080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
@@ -515,7 +542,7 @@
 <title>Makan Receh</title>
 </programme>
 <programme start="20250516101500 +0000" stop="20250516110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
+<title>Exposed Uncensored</title>
 </programme>
 <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
@@ -1470,31 +1497,4 @@
 </programme>
 <programme start="20250516223000 +0000" stop="20250516230000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
-</programme>
-<programme start="20250516230000 +0000" stop="20250516230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
-</programme>
-<programme start="20250516230300 +0000" stop="20250517003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20250517003000 +0000" stop="20250517011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20250517011500 +0000" stop="20250517021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250517021500 +0000" stop="20250517030000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20250517030000 +0000" stop="20250517040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
-</programme>
-<programme start="20250517040000 +0000" stop="20250517050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250517050000 +0000" stop="20250517060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20250517060000 +0000" stop="20250517064500 +0000" channel="BTV.vision">
-<title>Kids Universe: Motu Patlu</title>
 </programme>
