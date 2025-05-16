@@ -1,6 +1,3 @@
-    <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250516233000 +0000" stop="20250517020000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Gotham FC v San Diego Wave FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
+    </programme>
+    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
