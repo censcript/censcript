@@ -1,9 +1,6 @@
     <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Saturday Morning</title>
     </programme>
-    <programme start="20250516182000 +0000" stop="20250516204000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Aston Villa v Tottenham Hotspur</title>
-    </programme>
     <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Chelsea v Manchester United</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
     </programme>
