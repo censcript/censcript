@@ -1,9 +1,3 @@
-    <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Saturday Morning</title>
-    </programme>
-    <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Chelsea v Manchester United</title>
-    </programme>
     <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - North Macedonia v Belgium</title>
+    </programme>
+    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
     </programme>
