@@ -563,10 +563,10 @@
         <title>2024 Singapore Premier League: Albirex Niigata S vs Tanjong Pagar United</title>
     </programme>
     <programme start="20250516134500 +0000" stop="20250516160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th May, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Tampines Rovers</title>
+        <title>No Programme available now. Next Broadcast on 17th May, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs BG Tampines Rovers</title>
     </programme>
     <programme start="20250516160000 +0000" stop="20250517120500 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th May, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs Tampines Rovers</title>
+        <title>No Programme available now. Next Broadcast on 17th May, Saturday 8.05pm. 2024 Singapore Premier League: Brunei DPMM vs BG Tampines Rovers</title>
     </programme>
     <programme start="20250515160000 +0000" stop="20250516160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 24th May, Saturday 5.30pm. 2024 Singapore Premier League: Hougang United vs Brunei DPMM</title>
