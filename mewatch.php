@@ -424,8 +424,11 @@
     <programme start="20250516150000 +0000" stop="20250516153000 +0000" channel="Suria.mewatch">
         <title>Eat,Fun And Pray - EP 3</title>
     </programme>
-    <programme start="20250516153000 +0000" stop="20250516160002 +0000" channel="Suria.mewatch">
+    <programme start="20250516153000 +0000" stop="20250516155959 +0000" channel="Suria.mewatch">
         <title>Berita</title>
+    </programme>
+    <programme start="20250516155959 +0000" stop="20250517010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250515160025 +0000" stop="20250515163052 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -538,22 +541,22 @@
     <programme start="20250516095959 +0000" stop="20250516110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="CNA.mewatch">
+    <programme start="20250516110000 +0000" stop="20250516115959 +0000" channel="CNA.mewatch">
         <title>Elite Schools - EP 2</title>
     </programme>
-    <programme start="20250516120000 +0000" stop="20250516130000 +0000" channel="CNA.mewatch">
+    <programme start="20250516115959 +0000" stop="20250516125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250516130000 +0000" stop="20250516140000 +0000" channel="CNA.mewatch">
+    <programme start="20250516125959 +0000" stop="20250516135958 +0000" channel="CNA.mewatch">
         <title>The Peacemakers - EP 1</title>
     </programme>
-    <programme start="20250516140000 +0000" stop="20250516150000 +0000" channel="CNA.mewatch">
+    <programme start="20250516135958 +0000" stop="20250516150103 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250516150000 +0000" stop="20250516160000 +0000" channel="CNA.mewatch">
+    <programme start="20250516150103 +0000" stop="20250516155959 +0000" channel="CNA.mewatch">
         <title>Insight - EP 4</title>
     </programme>
-    <programme start="20250516160000 +0000" stop="20250516160300 +0000" channel="CNA.mewatch">
+    <programme start="20250516155959 +0000" stop="20250516160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250515160000 +0000" stop="20250516113500 +0000" channel="spl01.mewatch">

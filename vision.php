@@ -523,6 +523,12 @@
 <programme start="20250516041500 +0000" stop="20250516050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
+<programme start="20250516050000 +0000" stop="20250516054500 +0000" channel="Trans 7.vision">
+<title>Bocah Petualang</title>
+</programme>
+<programme start="20250516054500 +0000" stop="20250516063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
+</programme>
 <programme start="20250516063000 +0000" stop="20250516071500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250516223000 +0000" stop="20250516230000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
-</programme>
-<programme start="20250516230000 +0000" stop="20250516230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
-</programme>
-<programme start="20250516230300 +0000" stop="20250517003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
