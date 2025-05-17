@@ -1,9 +1,6 @@
     <programme start="20250516233000 +0000" stop="20250517020000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Gotham FC v San Diego Wave FC</title>
     </programme>
-    <programme start="20250516233000 +0000" stop="20250517020000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Racing Louisville FC v Seattle Reign</title>
-    </programme>
     <programme start="20250517000000 +0000" stop="20250517023000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Houston Dash v Portland Thorns FC</title>
     </programme>
@@ -27,6 +24,9 @@
     </programme>
     <programme start="20250517143000 +0000" stop="20250517184000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Manchester City</title>
+    </programme>
+    <programme start="20250517170000 +0000" stop="20250517193000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Racing Louisville FC v Seattle Reign</title>
     </programme>
     <programme start="20250517210000 +0000" stop="20250517233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - North Carolina Courage v Chicago Stars</title>
