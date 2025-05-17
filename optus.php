@@ -1,12 +1,3 @@
-    <programme start="20250516233000 +0000" stop="20250517020000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Gotham FC v San Diego Wave FC</title>
-    </programme>
-    <programme start="20250517000000 +0000" stop="20250517023000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Houston Dash v Portland Thorns FC</title>
-    </programme>
-    <programme start="20250517000000 +0000" stop="20250517023000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Orlando Pride v Kansas City Current</title>
-    </programme>
     <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Vissel Kobe v Gamba</title>
     </programme>
@@ -297,4 +288,13 @@
     </programme>
     <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
+    </programme>
+    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Andorra v England</title>
+    </programme>
+    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Malta v Lithuania</title>
+    </programme>
+    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
     </programme>
