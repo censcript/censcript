@@ -8671,11 +8671,8 @@
     <programme start="20250517153000 +0000" stop="20250517163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20250516140000 +0000" stop="20250516163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20250516143000 +0000" stop="20250516170000 +0000" channel="Hub E City HD.starhub">
         <title>S+PLUS</title>
-    </programme>
-    <programme start="20250516163000 +0000" stop="20250516170000 +0000" channel="Hub E City HD.starhub">
-        <title>My Wiggly Friend</title>
     </programme>
     <programme start="20250516170000 +0000" stop="20250516183000 +0000" channel="Hub E City HD.starhub">
         <title>My Perfect Stranger</title>
@@ -9463,11 +9460,8 @@
     <programme start="20250517154500 +0000" stop="20250517173500 +0000" channel="Discovery HD.starhub">
         <title>Stephen Collins Americas Dad</title>
     </programme>
-    <programme start="20250516140000 +0000" stop="20250516163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20250516143000 +0000" stop="20250516170000 +0000" channel="Hub E City HD.starhub">
         <title>S+PLUS</title>
-    </programme>
-    <programme start="20250516163000 +0000" stop="20250516170000 +0000" channel="Hub E City HD.starhub">
-        <title>My Wiggly Friend</title>
     </programme>
     <programme start="20250516170000 +0000" stop="20250516183000 +0000" channel="Hub E City HD.starhub">
         <title>My Perfect Stranger</title>
@@ -9514,11 +9508,8 @@
     <programme start="20250517151500 +0000" stop="20250517164500 +0000" channel="Hub E City HD.starhub">
         <title>Perfect Match 12</title>
     </programme>
-    <programme start="20250516140000 +0000" stop="20250516163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20250516143000 +0000" stop="20250516170000 +0000" channel="TestChannel1.starhub">
         <title>S+PLUS</title>
-    </programme>
-    <programme start="20250516163000 +0000" stop="20250516170000 +0000" channel="TestChannel1.starhub">
-        <title>My Wiggly Friend</title>
     </programme>
     <programme start="20250516170000 +0000" stop="20250516183000 +0000" channel="TestChannel1.starhub">
         <title>My Perfect Stranger</title>
