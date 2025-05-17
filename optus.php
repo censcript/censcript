@@ -1,6 +1,3 @@
-    <programme start="20250517065500 +0000" stop="20250517091000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Urawa Red Diamonds v FC Tokyo</title>
-    </programme>
     <programme start="20250517072000 +0000" stop="20250517094000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeonbuk v Anyang</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Austria v Romania</title>
+    </programme>
+    <programme start="20250609135000 +0000" stop="20250609161000 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Kazakhstan v North Macedonia</title>
     </programme>
